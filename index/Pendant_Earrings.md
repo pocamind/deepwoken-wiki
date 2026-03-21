@@ -1,6 +1,6 @@
 ---
 title: Pendant Earrings
-revid: 201098
+revid: 201804
 source: https://deepwoken.fandom.com/wiki/Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -26,6 +26,8 @@ categories: [Equipment, Ears]
 ## Description
 
 **Pendant Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category.
+
+This item is used to craft the [Ether Empowered Earrings](Ether_Empowered_Earrings.md).
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Ether Empowered Earrings
-revid: 199714
+revid: 201797
 source: https://deepwoken.fandom.com/wiki/Ether_Empowered_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Ears, Craftable]
@@ -23,11 +23,9 @@ categories: [Pathfinder Exclusive, Equipment, Ears, Craftable]
 | obtainment | Crafting 1 Pendant Earrings + 1 Ether Refined Hide in the Lost Forge |
 | description | ... |
 
-Variants: [Pendant Earrings](Pendant_Earrings.md)
-
 **[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 ## Description
 
@@ -35,4 +33,4 @@ This content is not accessible outside of this gamemode.
 
 This item is similar to [Caster Earrings](Caster_Earrings.md) from [Vow of Iron](Vow_of_Iron.md).
 
-The [Ether Adeptness](Talents.md#ether-adeptness) Talent grants Chip damage to all of your [Mantras](Mantras.md).
+The [Ether Adeptness](Talents.md#ether-adeptness) Talent grants 5% Chip damage to all of your [Mantras](Mantras.md).

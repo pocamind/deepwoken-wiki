@@ -1,6 +1,6 @@
 ---
 title: Traits
-revid: 196602
+revid: 201811
 source: https://deepwoken.fandom.com/wiki/Traits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -22,7 +22,7 @@ Each trait can only be increased up to 6 times.
 
 ### Erudition
 
--   Increase max [Ether](Ether.md) by 30 and max [Tempo](Combat_Mechanics.md) by 5 per point, also increase Tempo gain by 5% each point. (Maximum of +180 Ether, +30 Tempo, and +30% Tempo gain)
+-   Increase max [Ether](Ether.md) by 25 and max [Tempo](Combat_Mechanics.md) by 5 per point, also increase Tempo gain by 5% each point. (Maximum of +150 Ether, +30 Tempo, and +30% Tempo gain)
 
 ### Proficiency
 
@@ -36,7 +36,7 @@ Each trait can only be increased up to 6 times.
 
 ### Songchant
 
--   Increase [Mantra](Mantras.md) **investment scaling** by 6.5% per point. (Maximum of 39% increase from **scaling**)
+-   Increase [Mantra](Mantras.md) **investment scaling** by 7.5% per point. (Maximum of 45% increase from **scaling**)
     -   This is combined multiplicatively with your Mantra's innate attribute scaling.
     -   Most Mantras have 1.65 (if [Attunement-less](Attunement-less.md)) or 2.75 (if [Attuned](Attunements.md)) investment scaling. Because the scaling numbers are so low, an increase to your Mantra scaling won't increase it's overall damage by a large amount, even at 6 Songchant. Because of this, Songchant is more often taken for the PEN rather than the damage bonus that higher scaling provides.
 -   Increase [Mantra](Mantras.md) **PEN** by 2.5% per point. (Maximum of 15% increase from **PEN**)

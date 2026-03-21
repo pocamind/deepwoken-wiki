@@ -1,6 +1,6 @@
 ---
 title: Caster Earrings
-revid: 199703
+revid: 201803
 source: https://deepwoken.fandom.com/wiki/Caster_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears]
@@ -23,11 +23,11 @@ categories: [Vow of Iron Exclusive, Equipment, Ears]
 | pass down | No |
 | description | A perfect conduit to help channel your energy into force. |
 
-Variants: [Pendant Earrings](Pendant_Earrings.md)
+Variants: [Ether Empowered Earrings](Ether_Empowered_Earrings.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 ## Description
 

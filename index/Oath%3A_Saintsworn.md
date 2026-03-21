@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 200269
+revid: 201807
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, The Five Heroes, Oaths, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Legendary Weapons, "Attunement-based Weapons", Hero Blades]
@@ -139,7 +139,7 @@ These Talents have modified effects based on your current Saint Stance. Due to t
         -   **Ether Proselyte: Galebreathe Stance**: In the **Galebreathe** Saint Stance, all attuned Mantras are able to proc the following Talents:
             -   **[A World Without Song](Talents.md#a-world-without-song)**: After landing 3 hits with any attuned Mantra, apply [Suffocation](Status_Effects.md#suffocate). The hit count requirement will be increased if you have less than 75 Galebreathe.
             -   **[Haunted Gale](Talents.md#haunted-gale)**: Every third attuned Mantra you land will grant the [Haunted](Status_Effects.md#haunted) status effect, spawning a Haunted Gale Ghost or Specter Apparition any time you land a Mantra for the next 8 seconds. The duration of this status effect can be increased to 11 seconds by using the [Gale Wisp](Galebreathe.md#gale-wisp).
-            -   **[Inhale](Talents.md#inhale)**: You can inhale non-Galebreathe Mantras, however their modifiers/the inhale damage buff will not carry over to non-Galebreathe mantras.
+            -   **[Inhale](Talents.md#inhale)**: You can inhale non-Galebreathe Mantras.
             -   **[Shock Trooper Specialist](Talents.md#shock-trooper-specialist)**: Conjure a storm strike on your opponent by landing any attuned mantras.
             -   **[Possession](Talents.md#possession)**: After an apparition hits an enemy, receive 15% posture damage on all attuned mantras for 6 seconds. If the apparition hits while you have Phantom Step activated, receive a 15% chip damage buff as well for the same duration.
             -   **[Storm Link](Talents.md#storm-link)**: While you have a Static Link on someone, your mantras that hit them are imbued with flashes of Lightning.

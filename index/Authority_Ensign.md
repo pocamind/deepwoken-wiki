@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 201788
+revid: 201806
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -46,7 +46,7 @@ Being in a Squad allows you to take on the Missions as a group and proc certain 
 
 ## Exile
 
-Upon being exiled from [The Central Authority](The_Central_Authority.md), your Authority reputation will be immediately set to ' **_(though you can still raise your Authority reputation afterwards) and you will be kicked out of the Central Authority guild, removing your ability to gain future promotions. All Origin-exclusive Talents and Equipment you've obtained prior to being exiled will be kept. Getting exiled will remove the restriction of not being able to raise your [Reputation](Reputation.md) with [Etrea](Etrea.md) and [The Children of Navae](The_Children_of_Navae.md). You will also lose a bit of reputation with [The Knives of Eylis](The_Knives_of_Eylis.md), and gain a lot of reputation with [The Hundred Legions](The_Hundred_Legions.md)._**
+Upon being exiled from [The Central Authority](The_Central_Authority.md), your Authority reputation will be immediately lowered heavily, most of the time to ' **_reputation (though you can still raise your Authority reputation afterwards) and you will be kicked out of the Central Authority guild, removing your ability to gain future promotions. All Origin-exclusive Talents and Equipment you've obtained prior to being exiled will be kept. Getting exiled will remove the restriction of not being able to raise your [Reputation](Reputation.md) with [Etrea](Etrea.md) and [The Children of Navae](The_Children_of_Navae.md). You will also lose a bit of reputation with [The Knives of Eylis](The_Knives_of_Eylis.md), and gain a lot of reputation with [The Hundred Legions](The_Hundred_Legions.md)._**
 
 Upon being exiled, there is no way to return to the Authority's ranks. There are two ways to be exiled:
 

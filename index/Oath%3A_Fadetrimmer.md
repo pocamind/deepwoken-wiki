@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 200958
+revid: 201812
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -77,7 +77,7 @@ This Oath grants 1 Combat Mantra Slot, and 2 Wildcard Mantra Slots. As for appea
     -   Deals 60 Oath DMG with 0 songchant.
     -   Deals 56.56 Oath DMG with 6 songchant.
     -   Deals 18 posture damage if blocked.
-    -   Has 38% chip damage. This allows it to change your opponent's haircut even if they block it.
+    -   Has 5% chip damage. This allows it to change your opponent's haircut even if they block it.
     -   Can be used for movement.
     -   Has a cooldown of 20 seconds.
 

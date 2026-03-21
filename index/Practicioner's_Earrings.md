@@ -1,6 +1,6 @@
 ---
 title: "Practicioner's Earrings"
-revid: 199578
+revid: 201802
 source: https://deepwoken.fandom.com/wiki/Practicioner's_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -27,3 +27,5 @@ categories: [Equipment, Ears]
 ## Description
 
 **Practicioner's Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category.
+
+This item is used to craft the [Ether Imbued Earrings](Ether_Imbued_Earrings.md).

@@ -1,6 +1,6 @@
 ---
 title: Cindergarb
-revid: 199711
+revid: 201809
 source: https://deepwoken.fandom.com/wiki/Cindergarb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits]
@@ -19,7 +19,7 @@ categories: [Outfits, Unique Outfits]
 | droppable | No |
 | durability | 3000 |
 | resistances | +15% Ironsing Armor, +20% Fire Armor, +25% Physical Armor, +30% Elemental Armor |
-| buffs | +20% Ether Regen |
+| buffs | +75% Ether Regen |
 | talents | Warding Radiance |
 | obtainment | Carnival of HeartsVow of Iron:, Solborn Memento |
 | selling_price | 10 |
@@ -38,7 +38,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 3000 durability and grants +25% Physical resistance, +30% Elemental resistance, +15% Metal resistance, +20% Fire resistance, and +20% Ether Regen. Additionally, it provides the [Warding Radiance](Talents.md#warding-radiance) Talent.
+This Outfit has 3000 durability and grants +25% Physical resistance, +30% Elemental resistance, +15% Metal resistance, +20% Fire resistance, and +75% Ether Regen. Additionally, it provides the [Warding Radiance](Talents.md#warding-radiance) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical, 44% Flamecharm, 40.5% Ironsing, and 30% Elemental.
 
