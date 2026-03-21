@@ -1,6 +1,6 @@
 ---
 title: Ferocity
-revid: 200263
+revid: 201789
 source: https://deepwoken.fandom.com/wiki/Ferocity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -22,9 +22,9 @@ Ferocity is a self-buffing equipment [enchantment](Enchantments.md) that grants 
 
 ## Effect
 
-Upon taking damage, Ferocity has a 25% chance to proc. On proc, gain a 8% speed boost and 0% damage reduction. These buffs scale on your current Tempo.
+Upon taking damage, Ferocity has a 25% chance to proc. These buffs scale on your current Tempo.
 
-The effectiveness of the speed boost is increased by 0.32% for every 1% Tempo you have, up to 40%. The damage reduction is increased by 0.15% for every 1% Tempo you have, up to 15%.
+At 0% Tempo, you gain an 8% speed boost and no damage reduction. The effectiveness of the speed boost is increased by 0.32% for every 1% Tempo you have, up to 40%. The damage reduction is increased by 0.15% for every 1% Tempo you have, up to 15%.
 
 ### Notes
 

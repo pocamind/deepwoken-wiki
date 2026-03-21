@@ -1,6 +1,6 @@
 ---
 title: Captain Trist
-revid: 199117
+revid: 201787
 source: https://deepwoken.fandom.com/wiki/Captain_Trist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
@@ -102,7 +102,7 @@ Captain Trist is located on the path to [Merit's Reach](<Merit's_Reach.md>), aro
 
 **Not Authority Ensign:**
 
-**Deserted:**
+**Deserted/Traitor:**
 
 <table>
 <tbody>
@@ -110,23 +110,7 @@ Captain Trist is located on the path to [Merit's Reach](<Merit's_Reach.md>), aro
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td>Ah, so the deserter finally shows their face. Soldiers - seize them.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
-
-**Traitor:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>WIP</td>
+  <td>Ah, so the deserter/traitor finally shows their face. Soldiers - seize them.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
