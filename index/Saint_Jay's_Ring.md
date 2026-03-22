@@ -1,6 +1,6 @@
 ---
 title: "Saint Jay's Ring"
-revid: 199627
+revid: 202051
 source: https://deepwoken.fandom.com/wiki/Saint_Jay's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, Craftable]
@@ -30,5 +30,4 @@ categories: [Equipment, Rings, Craftable]
 
 ## Trivia
 
--   The model is near identical to the [Charged Ring](Charged_Ring.md).
 -   The ring emits a frost like aura around itself.

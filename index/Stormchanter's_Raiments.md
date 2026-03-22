@@ -1,6 +1,6 @@
 ---
 title: "Stormchanter's Raiments"
-revid: 195155
+revid: 202030
 source: https://deepwoken.fandom.com/wiki/Stormchanter's_Raiments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, World Event]
@@ -20,7 +20,7 @@ categories: [Outfits, Unique Outfits, World Event]
 | durability | 2600 |
 | resistances | +25% Lightning Armor, +25% Physical Armor, +30% Elemental Armor |
 | buffs | +75% Ether Regen |
-| talents | Static Mastery, Kickstart |
+| talents | Circuit Breaker, Kickstart |
 | obtainment | Carnival of HeartsVow of Iron:, Flashing Thunder Memento (automatically crafted) |
 | selling_price | 10 |
 | weight | 1 |
@@ -44,7 +44,7 @@ This Outfit has 2500 durability and grants +25% Physical resistance, +30% Elemen
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical, 47.5% Thundercall, and 30% Elemental.
 
-The [Static Mastery](Talents.md#static-mastery) Talent is currently bugged and does not work. The [Kickstart](Talents.md#kickstart) Talent revives and heals knocked players and humanoid NPCs at the cost of putting yourself in a lengthy animation.
+The [Circuit Breaker](Talents.md#circuit-breaker) Talent causes [Electrify](Talents.md#electrify) to no longer deal any self-damage on use. The [Kickstart](Talents.md#kickstart) Talent revives and heals knocked players and humanoid NPCs at the cost of putting yourself in a lengthy animation.
 
 ## Trivia
 

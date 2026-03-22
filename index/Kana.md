@@ -1,6 +1,6 @@
 ---
 title: Kana
-revid: 200160
+revid: 201978
 source: https://deepwoken.fandom.com/wiki/Kana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Cut Content, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
@@ -15,7 +15,6 @@ notices:
 | name | Kana |
 | aspect | Felinor |
 | location | Fort Merit |
-| affiliation | The Central Authority |
 
 ## Description
 

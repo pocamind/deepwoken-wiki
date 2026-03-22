@@ -1,6 +1,6 @@
 ---
 title: Gale Enhanced Ring
-revid: 201463
+revid: 202054
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, Craftable]

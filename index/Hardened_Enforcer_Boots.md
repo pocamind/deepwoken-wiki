@@ -1,6 +1,6 @@
 ---
 title: Hardened Enforcer Boots
-revid: 200139
+revid: 202007
 source: https://deepwoken.fandom.com/wiki/Hardened_Enforcer_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses, Craftable]

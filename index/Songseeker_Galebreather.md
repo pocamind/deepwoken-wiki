@@ -1,6 +1,6 @@
 ---
 title: Songseeker Galebreather
-revid: 201874
+revid: 201960
 source: https://deepwoken.fandom.com/wiki/Songseeker_Galebreather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers, Humanoids with Unobtainable Outfits]
@@ -113,9 +113,13 @@ A Songseeker Galebreather executes its opponents after knocking them:
 
 -   They're relatively easy to fight, even at low Power.
 -   Their AI can bug out when fighting them with Fang and Coil causing them to spam vent (should be tested more)
--   They look exactly like [Thunder Songseekers](Songseeker_Thundercaller.md).
--   They were originally not in the game. When added, it was stated in the update log that they had 'been on vacation.'
--   They are the only songseekers to have only 3 mantras.
+-   They look exactly like [Songseeker Thundercallers](Songseeker_Thundercaller.md).
+-   They were originally not in the game. When added, it was stated in the update log that they had 'been on vacation.'[\[1\]](#cite-note-1)
+-   They are the only songseekers to have only three Mantras.
 -   **Songseekers** use the following outfits made by **SirAndrove2:**
 -   [https://www.roblox.com/catalog/6842791234/Aldritch-Devourer-of-Gods](https://www.roblox.com/catalog/6842791234/Aldritch-Devourer-of-Gods) - Shirt
 -   [https://www.roblox.com/catalog/6842793449/Aldritch-Devourer-of-Gods](https://www.roblox.com/catalog/6842793449/Aldritch-Devourer-of-Gods) - Pants
+
+## References
+
+1.  [↑](#cite-ref-1) [Version History: August 15th, 2022](Version_History/Uncollapsed.md#august-15th-2022)

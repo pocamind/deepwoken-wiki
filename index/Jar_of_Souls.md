@@ -1,6 +1,6 @@
 ---
 title: Jar of Souls
-revid: 194782
+revid: 201975
 source: https://deepwoken.fandom.com/wiki/Jar_of_Souls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -23,15 +23,15 @@ categories: [Resonances]
 
 ### _Appearance_
 
-On input, souls can be found and absorbed near deceased humanoids. With a soul counter indicating the amount of souls the player has.
+On input, souls can be found and absorbed near deceased humanoids and monsters. It uses a soul counter to indicate the amount of souls the player has.
 
-On output, the user fires a large, bright beam, similar to Lightning Beam in front of them. Deals around 120 damage in pvp and 1k damage in pve
+On output, the user fires a large, bright beam in front of them. Deals around 120 damage in PvP and 1,000 damage in PvE.
 
 ## Usage
 
-Pressing C will activate the **Jar of Souls** Resonance. Has about 30 second cd (for version 2 at least)
+Pressing C will activate the **Jar of Souls** Resonance. This has a 30 second cooldown.
 
-Passively, **Jar of Souls** store the souls of dead humanoids nearby. Different humanoids or "souls" recharge the resonance in different amounts (this will of course vary from person to person based on their own resonance point usage). However, you'll find higher-tier humanoids recharge the resonance faster than the lower tier, e.g, it may only take one Primal Golem's soul to recharge to capacity, whereas in contrast, it may take 10 Bandit Leader's souls to recharge to capacity.
+Passively, **Jar of Souls** store the souls of dead humanoids and monsters nearby. Different souls recharge the resonance in different amounts (this will of course vary from person to person based on their own resonance point usage). However, you'll find higher-tier entities recharge the resonance faster than lower tier, e.g, it may only take one Primal Golem's soul to recharge to capacity, whereas in contrast, it may take 10 Bandit Leader's souls to recharge to capacity.
 
 Activating the resonance fires a white beam that deals damage.
 

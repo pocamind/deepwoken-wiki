@@ -1,11 +1,10 @@
 ---
 title: Lost Forge of Leiuna
-revid: 201315
+revid: 201998
 source: https://deepwoken.fandom.com/wiki/Lost_Forge_of_Leiuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations]
+categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Locations, World Event]
 notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
   - This page is currently being worked on. Some things may be incomplete.
 ---
 
@@ -27,19 +26,15 @@ The Lost Forge of Leiuna is a large volcanic island that was once a town of smit
 
 ## The Lost Forge
 
-To enter the Lost Forge, the player can either break the blocked entrance using Mantras or by taking advantage of the [Interluminary Parasol](Interluminary_Parasol.md). However, to be able to actually use the anvil, the Parasol must break open the door.
+To enter the Lost Forge, the player must utilize the tendrils of the [Interluminary Parasol](Interluminary_Parasol.md) to smash the wall open.
 
-After 20 minutes, the door leading to the Lost Forge will regenerate. This can allow players to access its unique crafting if broken by another player.
+After 20 minutes, the door leading to the Lost Forge will regenerate.
 
 ### Convertible Weapons
 
-In order to reforge a weapon, you must have it held or equipped.
+To reforge a weapon, it must be held or equipped, the anvil will have unique dialogue indicating the player has something they can reforge. Forge weapons are bankable but cannot be passed down.
 
-These weapons **are bankable**, but are unable to be passed down.
-
-Please note that only one forge weapon can be crafted per slot.
-
-Please also note you do not need to kill the Parasol to use the anvil, you only need the Parasol to break open the door.
+Additionally, only one forge weapon can be crafted per slot, and killing the Parasol is not required to use the anvil, only to open the door.
 
 | Weapon Input | Weapon Output |
 | --- | --- |

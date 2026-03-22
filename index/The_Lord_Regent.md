@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 201833
+revid: 202036
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant, Heads of government and state, Humanoids with Unobtainable Outfits]
@@ -367,7 +367,7 @@ If the player has maxed out [Oath: Contractor](Oath%253A_Contractor.md) on any s
   <td colspan="2">I'm ready. Let me speak the Words in their entirety. [10 ]</td>
 </tr>
 <tr>
-  <td>TBA(Player does not have enough knowledge)</td>
+  <td>A bold one, aren't we? I can't say that I don't reward confidence in my puppets. Don't disappoint me again.</td>
   <td>You show dedication, puppet. You may be of use in what is to come. Await further orders.</td>
 </tr>
 <tr>

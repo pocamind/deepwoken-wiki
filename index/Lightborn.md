@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 201744
+revid: 201959
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Aspects, Exclusive Aspects, Developer Spec, The Heavens]
@@ -112,5 +112,6 @@ Lightborn has 6 halo colors and 3 three halo variants
 -   The runes inscribed on the halo roughly translate to: "Be the mysterious light the few who were chosen."
 -   Lightborn used to have a Talent tool called "Ad Astra". On use, this would allow you to travel to and from [the Floating Keep](The_Floating_Keep.md). If a Lightborn entered a server, [the Floating Keep](The_Floating_Keep.md) would spawn in permanently.
     -   Strangely, this tool did not have a Talent card tied to it, allowing players to obtain it in [Pathfinder](Pathfinder.md) if they had Lightborn as their aspect on their [Vow of Iron](Vow_of_Iron.md) counterpart. This also caused the Floating Keep to spawn in Pathfinder.
+    -   Dyeing your halo when the "Arms" option is picked only dyes a singular halo, allowing for multi-colour dye.
 
 1.  [↑](#cite-ref-1) There is another surname, Moros, it is however only held by one rogue Lightborn.

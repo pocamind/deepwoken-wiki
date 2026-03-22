@@ -1,6 +1,6 @@
 ---
 title: Ossified Black Helm
-revid: 201723
+revid: 201991
 source: https://deepwoken.fandom.com/wiki/Ossified_Black_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Craftable, Helmets, Head]

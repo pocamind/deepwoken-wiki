@@ -1,6 +1,6 @@
 ---
 title: Regenerative Earrings
-revid: 201239
+revid: 202039
 source: https://deepwoken.fandom.com/wiki/Regenerative_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Set Bonuses]

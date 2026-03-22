@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 201794
+revid: 202028
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, Equipment, In progress with VOI reason]
@@ -284,9 +284,7 @@ Normal & Big |
 (**Series**) | _+1 Posture_  
 _+4% Stealth_ | Variants:  
 Black & Brown |
-| 
-
- | [Blackleaf Helm](Blackleaf_Helm.md)  
+|  | [Blackleaf Helm](Blackleaf_Helm.md)  
 (**Series**) | _+5 Health_  
 _+1 Posture_
 
@@ -296,11 +294,7 @@ _+Talent: Concussive Force_
 
  | Variants:  
 Blackleaf & Goldleaf |
-| 
-
-File:Blacksteel Helm(Better Lighting).png
-
- | [Blacksteel Helm](Blacksteel_Helm.md)  
+| File:Blacksteel Helm(Better Lighting).png | [Blacksteel Helm](Blacksteel_Helm.md)  
 (**Set**) | _+10 Health_
 
 +1 Uncommon Pip  
@@ -394,9 +388,7 @@ _+Talent: Grasp On Reality_
 Head: [Celtor Commander Helm](Celtor_Commander_Helm.md)  
 Torso: [Celtor Commander Plate](Celtor_Commander_Plate.md)  
 Legs: [Celtorian Sabatons](Celtorian_Sabatons.md) |
-| 
-
- | [Chef's Toque](<Chef's_Toque.md>)  
+|  | [Chef's Toque](<Chef's_Toque.md>)  
 (**Unique**) | _+10 Health_
 
 +1 Legendary Pip  
@@ -449,7 +441,7 @@ _+Talent: The Exterminator_
 
  | Variants:  
 Black & Double |
-| File:Sky Warlock Brim.png | [Ether Refined Brim](Ether_Refined_Brim.md)  
+|  | [Ether Refined Brim](Ether_Refined_Brim.md)  
 (**Set**)  
 (**Unique**) | _+5 Health_
 
@@ -654,11 +646,7 @@ _+1 Posture_
 **Requires Fortitude 5**
 
  | N/A |
-| 
-
-File:Khan Helmet.png
-
- | [Legion Helmet](Legion_Helmet.md)  
+| File:Khan Helmet.png | [Legion Helmet](Legion_Helmet.md)  
 (**Set**) | _+10 Health_  
 _+2 Posture_
 
@@ -675,11 +663,7 @@ Legs: [Legion Boots](Legion_Boots.md) |
 **Requires Fortitude 5**
 
  | N/A |
-| 
-
-File:Monastery Champion Cowl NEW.png
-
- | [Monastery Cowl](Monastery_Cowl.md)  
+| File:Monastery Champion Cowl NEW.png | [Monastery Cowl](Monastery_Cowl.md)  
 (**Set**)  
 (**Legendary**) | _+5% Stealth_
 
@@ -727,18 +711,14 @@ _+Talent: Mindspark_
 
  | Variants:  
 Aazel's & Necrotic |
-| File:Barrel Helmet.png | [Ossified Barrel Helm](Ossified_Barrel_Helm.md) | _+5 Health_
+|  | [Ossified Barrel Helm](Ossified_Barrel_Helm.md) | _+5 Health_
 
 +1 Uncommon Pip  
 _+Talent: Tenacity_
 
  | Variants:  
 Barrel & Ossified |
-| 
-
-File:Blacksteel Helm(Better Lighting).png
-
- | [Ossified Black Helm](Ossified_Black_Helm.md)  
+|  | [Ossified Black Helm](Ossified_Black_Helm.md)  
 (**Set**) | _+10 Health_
 
 +1 Uncommon Pip  
@@ -1352,7 +1332,7 @@ _+Talent: Berserker_
 **Requires Power 8**
 
  | N/A |
-| File:Sky Warlock Mantle.png | [Ether Refined Mantle](Ether_Refined_Mantle.md)  
+| File:Ether Refined Mantle.png | [Ether Refined Mantle](Ether_Refined_Mantle.md)  
 (**Set**)  
 (**Unique**) | _+7 Health_
 
@@ -1706,8 +1686,6 @@ _+1 Posture_
 Arms: [Novice Brace](Novice_Brace.md)  
 Legs: [Novice Boots](Novice_Boots.md) |
 | 
-
-File:Blacksteel Pauldron.png
 
  | [Ossified Black Pauldrons](Ossified_Black_Pauldrons.md)  
 (**Set**) | _+3 Health_  
@@ -2744,7 +2722,7 @@ Torso: [Regenerative Pendant](Regenerative_Pendant.md)
 Ears: [Regenerative Earrings](Regenerative_Earrings.md)
 
  |
-| File:Old World Sun Pendant.png | [Revitalizing Pendant](Revitalizing_Pendant.md) | +1 Rare Pip  
+|  | [Revitalizing Pendant](Revitalizing_Pendant.md) | +1 Rare Pip  
 +1 Legendary Pip
 
 _+Talent: Praise The Sun_

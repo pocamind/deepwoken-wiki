@@ -1,6 +1,6 @@
 ---
 title: "Worldshaper's Laurel"
-revid: 176622
+revid: 202035
 source: https://deepwoken.fandom.com/wiki/Worldshaper's_Laurel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Equipment, Head, Ornaments, Hats]
@@ -32,3 +32,4 @@ The Worldshaper's Laurel is an unobtainable [Equipment](Equipment.md) item under
 
 -   This item cannot be dropped by the user.
 -   This is the only unobtainable [Equipment](Equipment.md) piece that can be obtained by people who aren't moderators/contributors.
+-   This is also worn by the hero of wind seen wearing it when you use the hero blade critical

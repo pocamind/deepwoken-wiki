@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 201593
+revid: 201993
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -11,7 +11,7 @@ categories: [Monsters]
 | Mudskipper Broodlord | |
 |---|---|
 | health | 5500, 13750(Corrupted) |
-| attacks | Punch, Left Hook, Broodrot Thrust, Broodrot Smash, Call of the Horde |
+| attacks | Punch, Left Hook, Broodrot Thrust, Broodrot Smash, Rotted Mudtoss, Call of the Horde |
 | drops | Mantra Modifiers, Coral Cestus, Martial Artist |
 | locations | Voidsea, The Depths, The Aratel Sea, The Diluvian Mechanism, Saramaed Hollow |
 | challenges | -- Mudskipper Brute --, Bruteslayer - Slay 10.Reward: +5% DMG; +2.5% RES, Brawnslayer - Slay 25.Reward: +5% DMG; +2.5% RES, Broodslayer - Slay 100.Reward: +5% DMG; +2.5% RES |
@@ -68,7 +68,20 @@ High posture
 **Broodrot Smash**  
 (★★★)
 
- | Rigorously leaps forward and raises its arms into the air, swinging down on its prey with an unparriable rotten slam. This move autogrips knocked enemies. (After the mob ai change he only uses this move to grip)
+ | Rigorously leaps forward and raises its arms into the air, swinging down on its prey with an unparriable rotten slam.
+
+-   This move autogrips knocked enemies.
+-   This attack is used most often when the player is too far away from the Broodlord for it to land its melee strikes.
+
+ | 
+
+ |
+| 
+
+**Rotten Mudtoss**  
+(★☆☆)
+
+ | Hurls a [Mudskipper](Mudskipper.md) or [Bloatskipper](Mudskipper.md#bloatskipper) at the opponent. If Mudskipper, it will act as a new summoned enemy. If Bloatskipper, it will explode upon impact.
 
  | 
 
@@ -112,7 +125,7 @@ High posture
 -   They're based on the [Clickers](https://thelastofus.fandom.com/wiki/Clicker) from _The Last of Us_ series.
     -   Prior to the October 11th 2024 update, Mudskipper Broodlords could see through walls, as well as behind themselves. Clickers are known for their hearing.
 -   They can accidentally hit their own Mudskippers and kill them using their Broodrot Smash move.
--   They used to deal more damage and used Broodrot Smash and Rotten Mudtoss more frequently being one of the, if not the hardest mob ever, they were nerfed at an unknown point during late 2024 to early 2025 reducing the damage of its punch and left hook and only using Broodrot Smash to grip and stopped using Rotten Mudtoss.
+-   They used to deal more damage and used Broodrot Smash and Rotten Mudtoss more frequently being one of the, if not the hardest mob ever, they were nerfed at an unknown point during late 2024 to early 2025 reducing the damage of its punch and left hook ~and only using Broodrot Smash to grip and stopped using Rotten Mudtoss~. In the March 21st 2026 Update, it turned out that Broodrot Smash and Rotten Mudtoss were bugged and were unable to be used by the Broodlord for over an entire year.
 -   In the caves of [Saramaed Hollow](Saramaed_Hollow.md), Mudskipper Broodlords will start to fight their spawned Mudskippers and vice versa if they get hit by them too many times. Outside of being funny, this allows the player openings to escape without being chased.
 
 ## References

@@ -1,6 +1,6 @@
 ---
 title: Ether Refined Mantle
-revid: 201575
+revid: 202016
 source: https://deepwoken.fandom.com/wiki/Ether_Refined_Mantle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Arms, Equipment, Craftable, Equipment with Set Bonuses]

@@ -1,6 +1,6 @@
 ---
 title: Frost Crystal Earrings
-revid: 201314
+revid: 202043
 source: https://deepwoken.fandom.com/wiki/Frost_Crystal_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Ears, Craftable]

@@ -1,9 +1,9 @@
 ---
 title: Sibex
-revid: 201826
+revid: 201980
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, Mechanics, Individuals with unspecified pronouns, Humanoids with Unobtainable Outfits]
+categories: [Celtor NPCs, Pathfinder Exclusive, Individuals with They/them pronouns, NPCs, Mechanics, Humanoids with Unobtainable Outfits]
 ---
 
 # Sibex
@@ -12,7 +12,9 @@ categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, Mechanics, Individuals wit
 |---|---|
 | name | Sibex |
 | aspect | Celtor |
+| pronouns | They/them[1] |
 | location | On a cliff south east of the Lordsgrove in Starswept Valley |
+| affiliation | The Central Authority |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -20,11 +22,13 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Sibex** is a [Celtor](Celtor.md) that dons a grey hood and wears an unconfirmed white armor. A member of the Authority gone missing on duty, they have a Gale Wisp that will circle them, constantly playing either a chaotic violin tune, whistles, and other various songs that resemble circus music.
+Sibex is a [Celtor](Celtor.md) NPC. They are a member of [The Central Authority](The_Central_Authority.md) gone missing on duty.[\[2\]](#cite-note-2)
+
+Sibex dons a grey hood and wears an unconfirmed white outfit. They have a Gale Wisp that will circle them, constantly playing either a chaotic violin tune, whistles, and other various songs that resemble circus music.
 
 Sibex resides on a cliff in [the Starswept Valley](The_Starswept_Valley.md) south-east of [the Lordsgrove](The_Lordsgrove.md).
 
-Sibex is capable of telling you your current **[Resonance progress](Resonance.md#bell-progress)**, and what gives you the most **Resonance progress**. Once speaking to Sibex for the first time, they will prompt you to collect a Thresher Spine for them, and in return they will tell you the details of your Resonance obtainment method. Sibex will not take your Thresher Spine.
+Sibex is capable of telling you your current [Resonance progress](Resonance.md#bell-progress), and what gives you the most Resonance progress. Once speaking to Sibex for the first time, they will prompt you to collect a Thresher Spine for them, and in return they will tell you the details of your Resonance obtainment method. Sibex will not take your Thresher Spine.
 
 Sibex is able to unlock the [Soul Beam](Oath%253A_Oathless.md#soul-beam) Mantra when talked to upon meeting certain requirements:
 
@@ -166,7 +170,7 @@ Sibex can be found sitting on a ledge overseeing [Summer Isle](Summer_Isle.md) t
   <td colspan="12">Hah, tips! Yes. Fingertips will do. When their movement are in sync with one another, spread your fingertips and picture their strength surging in a harmonious stream.</td>
 </tr>
 <tr>
-  <td colspan="12">(you can now use soul beam.)</td>
+  <td colspan="12">(You can now use Soul Beam)</td>
 </tr>
 <tr>
   <td colspan="9">[End Dialogue]</td>
@@ -180,7 +184,12 @@ Sibex can be found sitting on a ledge overseeing [Summer Isle](Summer_Isle.md) t
 -   Sibex mentions Warden Jericho, likely meaning they are under his orders. They've been described as missing on duty, the Authority appears to have just lost them.
 -   They used to wear the [Hive Leader's Garment](<Hive_Leader's_Garment.md>) outfit; this was changed in an update
     -   It may have been because the outfit's design was lifted from [an outfit](References_and_Easter_Eggs.md) in _Genshin Impact_, but this is speculation.
--   Sibex's current outfit is nearly identical to and very likely based on that of Orsted from the anime "Mushoku Tensei."
+-   Sibex's current outfit is nearly identical to and very likely based on that of Orsted from the anime _Mushoku Tensei_.
 -   Back when the [Dissonant modifier](Echoes.md#modifiers) prevented you from obtaining a bell, instead of regular dialogue they would say: "\*He sighs.\* Gods below, I can already hear... utter silence!"
 -   On the update of August 18th, 2025, [Gale Wisp](Galebreathe.md#gale-wisp) received a new model, but Sibex's Gale Wisp was not updated and still uses the old model.
 -   Roblox clothing (current): [Shirt](https://www.roblox.com/catalog/8261296850/DetsroTop) / [Pants](https://www.roblox.com/catalog/8261301206/DetsroBot)
+
+## References
+
+1.  [↑](#cite-ref-1) [Version History: March 27th, 2022](Version_History/Uncollapsed.md#march-27th-2022)
+2.  [↑](#cite-ref-2) [Version History: March 20th, 2022](Version_History/Uncollapsed.md#march-20th-2022)

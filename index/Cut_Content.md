@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 200368
+revid: 201996
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -522,6 +522,8 @@ Charisma
 
 ## Other
 
+-   **[Meteor Isle](Meteor_Isle.md) Meteor Event -** An event that would send a large blue meteor similar to the ones of the [Stone Knight](Stone_Knight.md) event crashing down onto the isle. It would spawn a few [Mudskipper Knights](Mudskipper_Knight.md) and link the player to the meteor with a blue chain. This event was shelved due to it being poorly optimized and an overall nuisance.
+-   **[Songwright](Songwright.md) -** Songwrights allowed the player to upgrade their Mantras inside of the [Guild Base](Guild_Bases.md) for a 50% cost increase. However, their function was added to the [Mantra Table](Mantra_Lectern.md), casting them aside to the darkness like the Mystics.
 -   **Lockers -** These were pseudo [campfires](Campfire_Pit.md) that let you access your [Mantras](Mantras.md) and [Talents](Talents.md), while not actually healing you. They were mostly placed exclusively in [The Depths](First_Layer.md), and were removed on the February 16th, 2026 update due to their use no longer being needed.
 -   **[False Memory](False_Memory.md) -** This weapon was obtained through the [Hippocampal Pool](Hippocampal_Pool.md) to let players replace their equipped weapon with another to unequip it and pass it down. It was removed on the Feburary 16th, 2026 update due to players gaining the ability to remove their weapon and swap to fists from the Journal.
 -   **[Ancient Rotlands](Ancient_Rotlands.md) Brains -**
@@ -555,7 +557,6 @@ Charisma
 -   **Sparring Instructor -** Sparring with the instructor used to cost 20 notes. You could also spar with another player by talking to the Instructor NPC.
 -   **Corvis-** An NPC in earlier versions of the game that was in a tent by [The Hidden Village](The_Hidden_Village.md) who mentions Stormcall. He was described as 'old lore' that was meant to be removed.
 -   **Universal Uniques -** Special items available in limited numbers across the entire game. Gripping owners of these items would grant them to the killer and losing them would readd them to the lootpool to be reobtained. This was cut due to limitations of the Roblox Engine.
--   **Broodlord's Muddtoss -** A move, used by [Mudskipper Broodlord](Mudskipper_Broodlord.md), was removed on update of 18.05.2025.
 -   **Obtained the [Deepshore Fossil](Deepshore_Fossil.md) Triumph -** On the August 25th, 2025 update, the [Echo](Echoes.md) triumph requiring the player to obtain the Deepshore Fossil was removed in place for the 'Cleared a World Event' triumph.
 -   **[Shrine of Ostentation](Deep_Shrines/Shrine_of_Ostentation.md) -** Removed on the September 15th, 2025 update, for 10 [Knowledge](Knowledge.md), the Shrine of Ostentation allowed the player to transfer a Common or Advanced Talent into a random Rare Talent and vice versa. This shrine was later merged with the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md).
 -   **[Sea Highways](Sea_Highway.md) -** Removed on the October 25th, 2025 update, Sea Highways were large structures scattered through the [Etrean Sea](The_Etrean_Sea.md) and [Aratel Sea](The_Aratel_Sea.md). Powered by Thundercall, it allowed boats to receive a 'jolt' of energy to travel significantly faster between frequently traversed areas.

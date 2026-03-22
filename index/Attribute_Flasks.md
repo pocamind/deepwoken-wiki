@@ -1,6 +1,6 @@
 ---
 title: Attribute Flasks
-revid: 175579
+revid: 201950
 source: https://deepwoken.fandom.com/wiki/Attribute_Flasks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Tools, Consumables, Craftable]
@@ -16,7 +16,7 @@ categories: [Items, Tools, Consumables, Craftable]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | A rare flask containing raw power, holding the potential to increase the attributes of its user. |
+| desc | A rare flask containg [sic] raw power, holding the potential to increase the attributes of its user. |
 
 | Flask of Fortitude | |
 |---|---|
@@ -26,7 +26,7 @@ categories: [Items, Tools, Consumables, Craftable]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | A rare flask containing raw power, holding the potential to increase the attributes of its user. |
+| desc | A rare flask containg [sic] raw power, holding the potential to increase the attributes of its user. |
 
 | Flask of Agility | |
 |---|---|
@@ -36,7 +36,7 @@ categories: [Items, Tools, Consumables, Craftable]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | A rare flask containing raw power, holding the potential to increase the attributes of its user. |
+| desc | A rare flask containg [sic] raw power, holding the potential to increase the attributes of its user. |
 
 | Flask of Intelligence | |
 |---|---|
@@ -46,7 +46,7 @@ categories: [Items, Tools, Consumables, Craftable]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | A rare flask containing raw power, holding the potential to increase the attributes of its user. |
+| desc | A rare flask containg [sic] raw power, holding the potential to increase the attributes of its user. |
 
 | Flask of Willpower | |
 |---|---|
@@ -56,7 +56,7 @@ categories: [Items, Tools, Consumables, Craftable]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | A rare flask containing raw power, holding the potential to increase the attributes of its user. |
+| desc | A rare flask containg [sic] raw power, holding the potential to increase the attributes of its user. |
 
 | Flask of Charisma | |
 |---|---|
@@ -66,7 +66,7 @@ categories: [Items, Tools, Consumables, Craftable]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | A rare flask containing raw power, holding the potential to increase the attributes of its user. |
+| desc | A rare flask containg [sic] raw power, holding the potential to increase the attributes of its user. |
 
 ## Description
 

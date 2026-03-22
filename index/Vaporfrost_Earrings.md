@@ -1,6 +1,6 @@
 ---
 title: Vaporfrost Earrings
-revid: 201282
+revid: 202050
 source: https://deepwoken.fandom.com/wiki/Vaporfrost_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Ears, Craftable]

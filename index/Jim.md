@@ -1,6 +1,6 @@
 ---
 title: Jim
-revid: 201252
+revid: 201946
 source: https://deepwoken.fandom.com/wiki/Jim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Individuals with unspecified pronouns]

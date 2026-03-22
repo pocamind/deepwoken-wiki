@@ -1,6 +1,6 @@
 ---
 title: Calypso
-revid: 201942
+revid: 201945
 source: https://deepwoken.fandom.com/wiki/Calypso
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, The Ignition Union, NPCs located in the Eastern Luminant]

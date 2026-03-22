@@ -1,6 +1,6 @@
 ---
 title: Ether Refined Brim
-revid: 201574
+revid: 202013
 source: https://deepwoken.fandom.com/wiki/Ether_Refined_Brim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Hats, Head, Craftable, Equipment with Set Bonuses]

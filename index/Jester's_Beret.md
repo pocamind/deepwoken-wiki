@@ -1,6 +1,6 @@
 ---
 title: "Jester's Beret"
-revid: 201196
+revid: 201988
 source: https://deepwoken.fandom.com/wiki/Jester's_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Head, Craftable, Hats]
