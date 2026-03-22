@@ -1,9 +1,9 @@
 ---
 title: Songseeker Flamecharmer
-revid: 195739
+revid: 201868
 source: https://deepwoken.fandom.com/wiki/Songseeker_Flamecharmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Songseekers]
+categories: [Enemies, Songseekers, Humanoids with Unobtainable Outfits]
 ---
 
 # Songseeker Flamecharmer

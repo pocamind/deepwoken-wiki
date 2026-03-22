@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 200702
+revid: 201823
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1112,8 +1112,6 @@ Burn deals 12.5% more damage. Eruptions from Lava Serpent deal more posture dama
  |
 |  | Intrepid Flame  
 ([Flame Worshipper](Flame_Worshipper_Armor.md) outfit) | Flames wear off twice as fast on you. | Halves your maximum burn duration. This does not affect Flame Within. |
-|  | Produce Spark  
-(20 Flamecharm) | A simple production of Flame for the use of making Campfires. | Grants the Utility tool "Produce Spark". Using Produce Spark consumes a small amount of ether to light campfires. |
 |  | Unyielding Inferno  
 (30 Flamecharm) | Your flames burn just as strong even in the fiercest of storms. | Your Flamecharm Mantras and Twisted Puppets will no longer have a damage debuff while it's raining.
 

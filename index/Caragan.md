@@ -1,9 +1,9 @@
 ---
 title: Caragan
-revid: 193285
+revid: 201836
 source: https://deepwoken.fandom.com/wiki/Caragan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant, Humanoids with Unobtainable Outfits]
 ---
 
 # Caragan

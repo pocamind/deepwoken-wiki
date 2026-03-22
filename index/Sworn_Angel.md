@@ -1,9 +1,9 @@
 ---
 title: Sworn Angel
-revid: 196288
+revid: 201881
 source: https://deepwoken.fandom.com/wiki/Sworn_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Enemies that can wield Enchantments]
+categories: [Enemies, Enemies that can wield Enchantments, Humanoids with Unobtainable Outfits, Humanoid Monsters]
 ---
 
 # Sworn Angel

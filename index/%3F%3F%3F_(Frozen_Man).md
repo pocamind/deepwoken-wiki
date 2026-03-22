@@ -1,9 +1,9 @@
 ---
 title: ??? (Frozen Man)
-revid: 191912
+revid: 201860
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(Frozen_Man)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, Individuals with unspecified pronouns]
+categories: [Khan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, Individuals with unspecified pronouns, Humanoids with Unobtainable Outfits]
 ---
 
 # ??? (Frozen Man)
@@ -36,7 +36,3 @@ This content is not accessible outside of this gamemode.
 </tr>
 </tbody>
 </table>
-
-## Trivia
-
--   This NPC wears an unknown [Outfit](Outfits.md).

@@ -1,9 +1,9 @@
 ---
 title: "Dravik, the Rat King (NPC)"
-revid: 199503
+revid: 201856
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_the_Rat_King_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Deceased characters, The Golden Rats]
+categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Deceased characters, The Golden Rats, Humanoids with Unobtainable Outfits]
 ---
 
 # Dravik, the Rat King (NPC)

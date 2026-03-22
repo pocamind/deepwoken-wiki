@@ -1,9 +1,9 @@
 ---
 title: Mudskipper Knight
-revid: 196463
+revid: 201884
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies]
+categories: [Monsters, Humanoid Monsters]
 ---
 
 # Mudskipper Knight

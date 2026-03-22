@@ -1,9 +1,9 @@
 ---
 title: "Iblis, The Fallen Angel"
-revid: 192838
+revid: 201847
 source: https://deepwoken.fandom.com/wiki/Iblis%2C_The_Fallen_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Individuals with He/him pronouns, Enemies, Enemies with Oaths, The Starkindred Church]
+categories: [Individuals with He/him pronouns, Enemies, Enemies with Oaths, The Starkindred Church, Humanoids with Unobtainable Outfits]
 ---
 
 # Iblis, The Fallen Angel

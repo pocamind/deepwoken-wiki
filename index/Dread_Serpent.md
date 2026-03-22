@@ -1,9 +1,9 @@
 ---
 title: Dread Serpent
-revid: 200015
+revid: 201882
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Bosses, Enemies]
+categories: [Monsters, Bosses]
 ---
 
 # Dread Serpent

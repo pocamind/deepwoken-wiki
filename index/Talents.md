@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 201786
+revid: 201875
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3584,7 +3584,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   This talent will still proc if you hit a knocked enemy.
     -   Prerequisite: 20 Intelligence
 
--   Water off a Duck's Back \[Common Talent, Intelligence\] - Venting will shift any elemental status effects affecting you onto those hit by your vent.
+-   Water off a Duck's Back \[Common Talent, Intelligence\] - Venting will shift any elemental status effects affecting you onto those hit by your vent. Will also remove potion splash statuses on vent.
     -   Transfers [Suffocation](Status_Effects.md#suffocate), [Winded](Status_Effects.md#winded), [Chill](Status_Effects.md#chill), [Shock](Status_Effects.md#shock), [Burn](Status_Effects.md#burn), and [potion](Alchemy.md) effects from yourself to your enemy on vent.
     -   Prerequisite: 50 Intelligence
 

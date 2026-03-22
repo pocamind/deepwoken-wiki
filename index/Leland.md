@@ -1,9 +1,9 @@
 ---
 title: Leland
-revid: 191520
+revid: 201840
 source: https://deepwoken.fandom.com/wiki/Leland
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, NPCs located in the Etrean Luminant, Humanoids with Unobtainable Outfits]
 ---
 
 # Leland

@@ -1,9 +1,9 @@
 ---
 title: Mystic
-revid: 198214
+revid: 201827
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Chrysid NPCs, Cut Content]
+categories: [Chrysid NPCs, Cut Content, Humanoids with Unobtainable Outfits]
 notices:
   - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---

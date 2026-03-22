@@ -1,9 +1,9 @@
 ---
 title: "Dravik, The Rat King"
-revid: 200847
+revid: 201857
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats, Enemies]
+categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats, Humanoids with Unobtainable Outfits, Enemies]
 ---
 
 # Dravik, The Rat King
@@ -263,7 +263,6 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 -   The Triangular slash attack is likely a reference to "[Pasmarkinti Charged Blow](https://rogue-lineage.fandom.com/wiki/Pilgrim_Knight)" from Monad Studio's previous game, _Rogue Lineage_.
 -   The current soundtrack that plays during the fight is "Shallow Breath" by Naktigonis, which was originally an OST meant for the [Conquest](Conquest.md) gamemode.
 -   Dravik, The Rat King was formerly one of the Blade Temple's most exceptional instructors, before his fallout with Maestro Alkhurst Legato regarding the temple's standards.[\[2\]](#cite-note-2)
-
 -   The hair ID for Dravik's beard is 97197321204898.
 
 ## References

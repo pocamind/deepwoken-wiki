@@ -1,6 +1,6 @@
 ---
 title: Calypso
-revid: 200401
+revid: 201942
 source: https://deepwoken.fandom.com/wiki/Calypso
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, The Ignition Union, NPCs located in the Eastern Luminant]
@@ -22,7 +22,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Calypso is an NPC located in [Miner's Landing](<Miner's_Landing.md>), who is a member of [The Ignition Union](The_Ignition_Union.md).
+Calypso is an [Adret](Adret.md) NPC. They are a member of [The Ignition Union](The_Ignition_Union.md).
 
 ## Location
 

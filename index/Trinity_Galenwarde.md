@@ -1,6 +1,6 @@
 ---
 title: Trinity Galenwarde
-revid: 190826
+revid: 201890
 source: https://deepwoken.fandom.com/wiki/Trinity_Galenwarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, The Five Heroes, Deceased characters, Oath Trainer]
@@ -24,11 +24,9 @@ Trinity Galenwarde was [the Hero of Wind](The_Five_Heroes.md). She wielded the [
 
 ## Trivia
 
--   The first Hero of Wind was named Sven Corbet, however this was later retconned into Trinity Galenwarde.[\[3\]](#cite-note-citation-3)
 -   Trinity is one of the two Heroes that have their surname revealed, the first one being [Urek Felhand](Urek_Felhand.md).
 
 ## References
 
 1.  [↑](#cite-ref-tiran-1-0) When using the [Hero's Blade of Wind](<Hero's_Blade_of_Wind.md>)'s critical, a figure with [Tiran](Tiran.md) feathers appears.
 2.  ↑ [2.0](#cite-ref-obelisk-2-0) [2.1](#cite-ref-obelisk-2-1) [Galebreathe Obelisk](Saintsworn_Obelisks.md)
-3.  [↑](#cite-ref-citation-3-0) Citation needed

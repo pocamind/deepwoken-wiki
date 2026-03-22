@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 197062
+revid: 201829
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -211,46 +211,6 @@ All Mantras gained from the npc are 2 star Mantras and some have special effects
 ### [Oath Mantras](Oaths.md)
 
 Mantras you obtained through your Oath. Although it lacks the trainers to help level your Oath's Mantras, its exclusive abilities and uniqueness makes up for it.
-
-## Mantra IDs
-
-Mantra IDs are accessed using the built-in Roblox Dev-Console that can be activated by typing /console in chat or pressing F9.
-
-_**(Added back recently, though they may be removed in the future.)**_
-
-`Squad`\- Flame / Frost / Illusion _**([Burning Servants](Flamecharm.md#burning-servants), [Frozen Servants](Frostdraw.md#frozen-servants), [Illusory Servants](Oath%253A_Visionshaper.md).)**_
-
-`StrongPunch`\- Fire / Shadow / Strength / WeaponMedium _**([Ash Slam](Flamecharm.md#ash-slam), [Eclipse Kick](Shadowcast.md#eclipse-kick), [Strong Left](Attunement-less.md#strong-left), [Master's Flourish](Attunement-less.md#masters-flourish).)**_
-
-`Wisp`\- Fire / Shadow / Lightning / Wind / Frost _**([Flame Wisp](Flamecharm.md#flame-wisp), [Shade Wisp](Shadowcast.md#shade-wisp), [Thunder Wisp](Thundercall.md#thunder-wisp), [Gale Wisp](Galebreathe.md#gale-wisp), [Frost Wisp](Frostdraw.md#frost-wisp).)**_
-
-`Toss`\- Lightning / Ice / Enforcer / Bonekeeper _**([Grand Javelin](Thundercall.md#grand-javelin), [Ice Flock](Frostdraw.md#ice-flock), [Enforcer Pull](Monster_Mantras.md#enforcer-pull), [Brachial Spear](Monster_Mantras.md#brachial-spear).)**_
-
-`Strike`\- Fortitude _**([Shoulder Bash](Attunement-less.md#shoulder-bash).)**_
-
-`Skate`\- Ice _**([Ice Skate](Frostdraw.md#ice-skate).)**_
-
-`RisingSlash`\- Fire / Lightning / Shadow / Wind _**([Rising Flame](Flamecharm.md#rising-flame), [Rising Thunder](Thundercall.md#rising-thunder), [Rising Shadow](Shadowcast.md#rising-shadow), [Rising Wind](Galebreathe.md#rising-wind).)**_
-
-`Palm`\- Fire / Shadow _**([Fire Palm](Flamecharm.md#fire-palm), Shadow Meteors.)**_
-
-`Pierce`\- Wind / Ice _**([Gale Lunge](Galebreathe.md#gale-lunge), [Ice Lance](Frostdraw.md#ice-lance).)**_
-
-`Pillar`\- Ice _**([Ice Spikes](Frostdraw.md#ice-spikes), [Metal Rampart](Ironsing.md#metal-rampart))**_
-
-`Eruption`\- Ice / Shadow / Blood _**([Ice Eruption](Frostdraw.md#ice-eruption), [Shadow Eruption](Shadowcast.md#shadow-eruption), [Scarlet Cyclone](Bloodrend.md#scarlet-cyclone))**_
-
-`Blade`\- Fire / Ice / Lightning / Wind / Shadow _**([Fire Blade](Flamecharm.md#fire-blade), [Ice Blade](Frostdraw.md#ice-blade), [Lightning Blade](Thundercall.md#lightning-blade), [Wind Blade](Galebreathe.md#wind-blade), [Dark Blade](Shadowcast.md#dark-blade).)**_
-
-`Kick`\- Lightning _**([Thunder Kick](Thundercall.md#thunder-kick).)**_
-
-`Dagger`_\-_ Lightning / Ice _**([Fleeting Sparks](Thundercall.md#fleeting-sparks), [Ice Daggers](Frostdraw.md#ice-daggers))**_
-
-`Forge-` Blood _**([Blood Orb](Bloodrend.md#blood-orb))**_
-
-`Conjure-` Blood _**([Crucifixion](Bloodrend.md#crucifixion), [Scarlet Cyclone](Bloodrend.md#scarlet-cyclone))**_
-
-`Push-` Ice _**([Ice Cubes](Frostdraw.md#ice-cubes))**_
 
 ## Trivia
 

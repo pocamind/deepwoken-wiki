@@ -1,9 +1,9 @@
 ---
 title: Blacksmith
-revid: 196545
+revid: 201835
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vendors, NPCs]
+categories: [Vendors, NPCs, Humanoids with Unobtainable Outfits]
 ---
 
 # Blacksmith

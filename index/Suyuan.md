@@ -1,9 +1,9 @@
 ---
 title: Suyuan
-revid: 193419
+revid: 201849
 source: https://deepwoken.fandom.com/wiki/Suyuan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns, Humanoids with Unobtainable Outfits]
 ---
 
 # Suyuan

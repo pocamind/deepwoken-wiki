@@ -1,9 +1,9 @@
 ---
 title: Hive Adjudicator (NPC)
-revid: 195082
+revid: 201828
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Enemies that can wield Enchantments, Hive Enemies, Ambush Enemies]
+categories: [Enemies, Enemies that can wield Enchantments, Hive Enemies, Ambush Enemies, Humanoids with Unobtainable Outfits]
 ---
 
 # Hive Adjudicator (NPC)

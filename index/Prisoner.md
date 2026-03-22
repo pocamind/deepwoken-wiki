@@ -1,9 +1,9 @@
 ---
 title: Prisoner
-revid: 195976
+revid: 201850
 source: https://deepwoken.fandom.com/wiki/Prisoner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Enemies]
+categories: [In progress without reason, InProgressPages, Enemies, Humanoids with Unobtainable Outfits]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
