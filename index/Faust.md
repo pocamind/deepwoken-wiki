@@ -1,6 +1,6 @@
 ---
 title: Faust
-revid: 181612
+revid: 202092
 source: https://deepwoken.fandom.com/wiki/Faust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Oath Trainer, The Five Heroes, Deceased characters]

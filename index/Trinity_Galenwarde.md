@@ -1,6 +1,6 @@
 ---
 title: Trinity Galenwarde
-revid: 201890
+revid: 202100
 source: https://deepwoken.fandom.com/wiki/Trinity_Galenwarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, The Five Heroes, Deceased characters, Oath Trainer]

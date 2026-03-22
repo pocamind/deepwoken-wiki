@@ -1,6 +1,6 @@
 ---
 title: Gale Enhanced Cowl
-revid: 201658
+revid: 202064
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Head, Craftable, Equipment, Hoods]

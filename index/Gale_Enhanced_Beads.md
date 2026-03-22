@@ -1,6 +1,6 @@
 ---
 title: Gale Enhanced Beads
-revid: 201583
+revid: 202061
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Beads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Craftable, Torso]
@@ -35,7 +35,3 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 **Gale Enhanced Beads** are an [Equipment](Equipment.md) item under the "Torso" category.
 
 The [Focused Strikes](Talents.md#focused-strikes) Talent increases the posture damage of your critical attacks by 15%.
-
-## Trivia
-
--   The original Monastery Champion set was designed by J3STTR, being the winning entry of the "Vigils Equipment Art Concept Contest", leading to its addition.

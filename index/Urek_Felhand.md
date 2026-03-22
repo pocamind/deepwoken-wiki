@@ -1,6 +1,6 @@
 ---
 title: Urek Felhand
-revid: 201902
+revid: 202099
 source: https://deepwoken.fandom.com/wiki/Urek_Felhand
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Deceased characters, The Five Heroes, Oath Trainer]
@@ -33,4 +33,4 @@ He tells the player about the betrayal, after talking to the [obelisk](Saintswor
 
 1.  ↑ [1.0](#cite-ref-obelisk-1-0) [1.1](#cite-ref-obelisk-1-1) [1.2](#cite-ref-obelisk-1-2) [Saintsworn Obelisk of Shadow](Saintsworn_Obelisks.md)
 2.  [↑](#cite-ref-2) [Saint Jay memento description](Mementos.md)
-3.  [↑](#cite-ref-cat-3-0) When using the [Hero's Blade of Shadow](<Hero's_Blade_of_Shadow.md>)'s critical, a figure with Felinor ears appears.
+3.  [↑](#cite-ref-cat-3-0) When using the [Hero's Blade of Shadow](<Hero's_Blade_of_Shadow.md>)'s critical, a figure with Felinor ears used to appear.

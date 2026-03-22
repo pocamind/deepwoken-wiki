@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 201661
+revid: 202065
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -166,6 +166,7 @@ Blunt
 -   Applies HEAVY posture damage, almost always guardbreaking.
 -   Grants hyperarmor during startup.
 -   Ragdolls the opponent very far.
+-   The range is about 190m or the a little less than twice the distance between Das and Maestro Evengarde Rest
 
  |
 | 

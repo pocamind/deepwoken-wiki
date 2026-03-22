@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 198162
+revid: 202089
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -41,7 +41,7 @@ The effects of this Oath happen as a result of drinking the **Root Panacea**, an
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/8atBg8DFbpU)._
 
-You can obtain/"skip" the salts and mantra obtaiment instantly with 10 knowledge (Not reccomended since the materials are easy to get)
+You can obtain/"skip" the salts and mantra obtainment instantly with 10 knowledge (Not recommended, since the materials are easy to get)
 
 _Saltchemist **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it._
 

@@ -1,6 +1,6 @@
 ---
 title: Carnival of Hearts
-revid: 201249
+revid: 202101
 source: https://deepwoken.fandom.com/wiki/Carnival_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, World Event, Dungeons]
@@ -75,6 +75,7 @@ The minigames happen in a random order. Once all minigames are completed, all re
 -   When put in danger by Aelita, her tag is .aelita4693.
 -   Aelita and Tillian will occasionally shoot an extra beam at the last person standing during the Beam Blitz game, so be careful.
 -   Sometimes the reward chest is bugged and the loot spawns on top of the carnival.[\[1\]](#cite-note-1)
+-   Being alone in the carnival will prompt the message "Awgh, just you?! That's no fun.", then will kick you forcefully.
 
 ## References
 

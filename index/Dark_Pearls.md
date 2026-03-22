@@ -1,6 +1,6 @@
 ---
 title: Dark Pearls
-revid: 195095
+revid: 202091
 source: https://deepwoken.fandom.com/wiki/Dark_Pearls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears, Relics, Equipment Relics]
@@ -36,6 +36,6 @@ When equipped, the pearls emit faint magic circles while ink blots out from with
 
 -   Dark Pearls stacks with [Imperator's Fury](<Imperator's_Fury.md>) and all other "on Vent" effects, though it doesn't make Imperator's Fury Vent black.
 -   Dark Pearls is the first Relic **Ears** equipment, as all Relic equipment prior to Dark Pearls have been Torso equipment.
--   Though exclusive to the Shadowcast attunement, these earrings are frequently sought after due to this and the [Moonlit Earrings](Crescent_Earrings.md) being the only earrings that offer Health, while these earrings is the only one that holds a Talent.
+-   Though exclusive to the Shadowcast attunement, these earrings are frequently sought after due to this and the [Moonlit Earrings](Crescent_Earrings.md) being the only earrings that offer Health, while these earrings is the only one that holds a Talent while still being tradeable.
 -   These are one of two items that grant negative stats, the other being [Citadel Frames](Citadel_Frames.md).
 -   The lowest Posture possible is 16, when pairing [Citadel Frames](Citadel_Frames.md) with Dark Pearls.

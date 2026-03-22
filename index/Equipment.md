@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 202028
+revid: 202086
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, Equipment, In progress with VOI reason]
@@ -509,7 +509,7 @@ Legs: [Evanspear War Boots](Evanspear_War_Boots.md)
 +1 Uncommon Pip
 
  | N/A |
-| File:Monastery Champion Cowl NEW.png | [Gale Enhanced Cowl](Gale_Enhanced_Cowl.md)  
+|  | [Gale Enhanced Cowl](Gale_Enhanced_Cowl.md)  
 (**Set**)  
 (**Legendary**) | _+5% Stealth_
 
@@ -2619,7 +2619,7 @@ Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity
 
  | Variants:  
 Emerald, Rose, Scarlet, Shade, Silver & Onyx |
-| File:Monastery Champion Beads NEW.png | [Gale Enhanced Beads](Gale_Enhanced_Beads.md)  
+|  | [Gale Enhanced Beads](Gale_Enhanced_Beads.md)  
 (**Set**)  
 (**Legendary**) | _+3% Elemental Armor_
 
@@ -2660,6 +2660,18 @@ _+Talent: Robber Baron_
  | N/A |
 |  | [Kyrsan Necklace](Kyrsan_Necklace.md)  
 (**Unique**) | N/A | N/A |
+|  | [Maljuror Choker](Maljuror_Choker.md) | _+2% Shadow Armor_
+
++1 Legendary Pip  
+**Requires Power 5**
+
+ | Variants: Choker & Jougs |
+|  | [Maljuror Jougs](Maljuror_Jougs.md)  
+(**Legendary**) | +2 Legendary Pips  
+
+**Requires Power 10**
+
+ | Variants: Choker & Jougs |
 | 
 
 File:Monastery Champion Beads NEW.png
@@ -2769,6 +2781,12 @@ _+20 Carry Load_
 **Requires Power 5**
 
  | N/A |
+|  | [Trickster's Scarf](<Trickster's_Scarf.md>)  
+(**Unique**) | +2 Legendary Pips  
+
+**Requires Power 7**
+
+ | Variants: Amber, Lavender & White |
 | File:Varicosa Medallion.png | [Varicosa Medallion](Varicosa_Medallion.md) | _+3% Shadow Armor_
 
 +1 Rare Pip  
@@ -3126,7 +3144,7 @@ _+Talent: Way of the Wind_
 **Requires Power 5**
 
  |
-| File:MasterThief.png | [Ossified Blood Earrings](Ossified_Blood_Earrings.md) | _+3% Stealth_
+|  | [Ossified Blood Earrings](Ossified_Blood_Earrings.md) | _+3% Stealth_
 
 +2 Rare Pips  
 _+Talent: Sharpened Dagger_
@@ -3134,7 +3152,7 @@ _+Talent: Sharpened Dagger_
  |
 |  | [Pendant Earrings](Pendant_Earrings.md) | +2 Rare Pips |
 |  | [Practicioner's Earrings](<Practicioner's_Earrings.md>) | +2 Rare Pips |
-|  | [Regenerative Earrings](Regenerative_Earrings.md) | _+5 Ether_
+| File:Regenerative Earrings.png | [Regenerative Earrings](Regenerative_Earrings.md) | _+5 Ether_
 
 +1 Legendary Pip  
 _+Talent: Blood Convergence_  
@@ -3427,7 +3445,7 @@ _+2% Wind Armor_
 **Requires Power 5**
 
  |
-|  | [Frost Ring](Frost_Ring.md)  
+| File:Blizzard Ring Old.png | [Frost Ring](Frost_Ring.md)  
 (**Relic**) | Apply a very light slow on your opponent when landing a light attack. This effect stacks. |
 |  | [Bone Ring](Bone_Ring.md)  
 (**Relic**) | A ring made purely of dense bone. Improve all bone related attacks you do.
