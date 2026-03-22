@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 201823
+revid: 202112
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1111,7 +1111,7 @@ Burn deals 12.5% more damage. Eruptions from Lava Serpent deal more posture dama
 
  |
 |  | Intrepid Flame  
-([Flame Worshipper](Flame_Worshipper_Armor.md) outfit) | Flames wear off twice as fast on you. | Halves your maximum burn duration. This does not affect Flame Within. |
+([Flame Worshipper](Flame_Worshipper_Armor.md) outfit) | Flames wear off twice as fast on you. | Halves the maximum duration of any Burn that is applied to you. This does not affect Flame Within. |
 |  | Unyielding Inferno  
 (30 Flamecharm) | Your flames burn just as strong even in the fiercest of storms. | Your Flamecharm Mantras and Twisted Puppets will no longer have a damage debuff while it's raining.
 

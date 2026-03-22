@@ -1,6 +1,6 @@
 ---
 title: The Five Heroes
-revid: 198970
+revid: 202105
 source: https://deepwoken.fandom.com/wiki/The_Five_Heroes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, The Five Heroes, Dissolved organizations]
@@ -31,7 +31,7 @@ At some point of their lives, they all bound their souls to their [Hero Blades](
 
 **[Faust, The Hero of Frost](Faust.md):** A [Capra](Capra.md), who wielded [Frostdraw](Frostdraw.md) and the [Hero's Blade of Frost](<Hero's_Blade_of_Frost.md>). His soul is sealed in the **[Frostdraw Obelisk](Frostdraw_Obelisk.md)**, located in the [Glacial Remnant](Glacial_Remnant.md) in a small opening in the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md).[\[1\]](#cite-note-obelisks-1)
 
-**[Urek Felhand, The Hero of Shadow](Urek_Felhand.md):** A [Felinor](Felinor.md), who wielded [Shadowcast](Shadowcast.md) and the [Hero's Blade of Shadow](<Hero's_Blade_of_Shadow.md>). His soul is sealed in the **[Shadowcast Obelisk](Shadowcast_Obelisk.md)**, located on the [Moon's Eyrie](<Moon's_Eyrie.md>). At some point of his life, he was betrayed by, or betrayed the other heroes.[\[1\]](#cite-note-obelisks-1)
+**[Urek Felhand, The Hero of Shadow](Urek_Felhand.md):** A [Kiron](Kiron.md), who wielded [Shadowcast](Shadowcast.md) and the [Hero's Blade of Shadow](<Hero's_Blade_of_Shadow.md>). His soul is sealed in the **[Shadowcast Obelisk](Shadowcast_Obelisk.md)**, located on the [Moon's Eyrie](<Moon's_Eyrie.md>). At some point of his life, he was betrayed by, or betrayed the other heroes.[\[1\]](#cite-note-obelisks-1)
 
 **[Trinity Galenwarde, The Hero of Wind](Trinity_Galenwarde.md):** A [Tiran](Tiran.md), who wielded [Galebreathe](Galebreathe.md) and the [Hero's Blade of Wind](<Hero's_Blade_of_Wind.md>). Her soul is sealed in the **[Galebreathe Obelisk](Galebreathe_Obelisk.md)**, located in the [Burning Stone Gardens](Burning_Stone_Gardens.md).[\[1\]](#cite-note-obelisks-1)
 

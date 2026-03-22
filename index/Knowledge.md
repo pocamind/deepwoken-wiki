@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 200375
+revid: 202104
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics, Currency]
@@ -93,7 +93,7 @@ Each transaction is conducted via dialogue option, with Knowledge being _consume
 -   Purchasing [Enchant Grease](Enchant_Grease.md) from [Laplace](Laplace.md), costs 5 Knowledge per Grease.
 -   Fully progressing your [Oath](Oaths.md), costs 10 Knowledge. This can only be done if you've fully progressed the Oath previously on another character. Speak to the Oath giver to perform this action. Note: [Bladeharper](Oath%253A_Bladeharper.md), [Chainwarden](Oath%253A_Chainwarden.md), [Blightsurger](Oath%253A_Blightsurger.md), and [Soulbreaker](Oath%253A_Soulbreaker.md) cannot be skipped this way.
 -   Changing your [Resonance](Resonance.md) shape at a [Barber](Barber.md), costs 1 Knowledge.
--   Performing a _Vow of Safekeeping_, costs 1 Knowledge. The Vow of Safeholding allows you to [bank](Item_Bank.md) any [Enchanted](Enchantments.md) item, any Soulbound item, or any [Relic](Relics.md)\-tier item. The items can be removed from the bank at any time for free.
+-   Withdrawing an item that requires a _Vow of Safekeeping_ to be placed in the bank, costs 1 Knowledge. The _Vow of Safekeeping_ allows you to [bank](Item_Bank.md) any [Enchanted](Enchantments.md) item, any Soulbound item, or any [Relic](Relics.md)\-tier item.
 -   Using the Sacrificial Boon Talent on [Ritual Sacrifice](Ritual_Sacrifice.md), consuming 5 Knowledge per use.
 
 ## Trivia

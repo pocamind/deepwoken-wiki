@@ -1,6 +1,6 @@
 ---
 title: Steampunk Soldier
-revid: 196348
+revid: 202107
 source: https://deepwoken.fandom.com/wiki/Steampunk_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -232,7 +232,6 @@ N/A
         -   While at 0% PEN, this effectively grants +10% PEN against blunt armor, but this amount gets reduced by 1% for every 10% PEN you have. The formula is as follows: (1 - ((1 - Current PEN/100) \*(1 - 0.1))) \*100 = effective PEN against blunt armor.
         -   For example: having 20% PEN + Armor Piercing is equivalent to having 28% PEN against blunt armor (+8).
     -   Specific rifles benefit less from Armor Piercing than others due to their damage typings.
-        -   For [Rifle Spear](Rifle_Spear.md), this will only proc on critical, due to Rifle Spear being a slash based weapon.
         -   For [Rosen's Hellflame](<Rosen's_Hellflame.md>), it will only circumstantially benefit from Armor Piercing, because of its elemental damage.
             -   In some circumstances, Armor Piercing may give your opponent higher weighting on their elemental resistances by lowering their blunt resistance, causing them to resist your damage based on their elemental resistance instead. Alternatively, if they have higher elemental resistance than blunt resistance, Armor Piercing will do nothing at all.
 
@@ -661,10 +660,9 @@ defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_
 
 ### True Heart of Enmity
 
--   Explosive Ignition \[Memento Talent\] - Your Produce Sparks now can ignite steam, causing a large explosion.
+-   Explosive Ignition \[Memento Talent\] - Ignite nearby steam, causing a large explosion.
     
-    -   If you use the Produce Spark Talent tool while standing inside of a steam cloud, a very large explosion will be caused after a delay, dealing high damage.
-    -   This will consume the steam cloud on proc.
+    -   Grants a Talent tool, that when used while standing inside of a steam cloud causes a very large explosion after a delay, dealing high damage and consuming the Steam cloud.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Rite of Authority
-revid: 195485
+revid: 202149
 source: https://deepwoken.fandom.com/wiki/Rite_of_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, "Attunement-based Weapons", Weapons of The Central Authority, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals]

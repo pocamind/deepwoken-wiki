@@ -1,6 +1,6 @@
 ---
 title: Withered Gale Pale
-revid: 198741
+revid: 202138
 source: https://deepwoken.fandom.com/wiki/Withered_Gale_Pale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Heavy Weapons, "Attunement-based Weapons", Weapons with Talents, Reforged Weapons]

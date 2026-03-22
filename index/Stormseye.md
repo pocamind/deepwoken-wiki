@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 196629
+revid: 202147
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", The Summer Company, Medium Weapons]

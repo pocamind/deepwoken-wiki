@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 201875
+revid: 202163
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1244,7 +1244,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisites: 20 Willpower, 15 Strength
 
 -   Nullifying Clarity \[Common Talent, Strength, Intelligence\] - Deal 10% more damage to enemies with elemental status effects, but remove the status on hit.
-    -   Procs if you land an M1 on a target who is affected by any of the following status effects: Burn, Chill, Shock, Winded, Suffocation, and Fear (from Fear the Dark and Night Tetror).
+    -   Procs if you land an M1 on a target who is affected by any of the following status effects: Burn, Chill, Shock, Winded, Suffocation, and Fear (from Fear the Dark and Night Terror).
     -   Does not work with Critical Attacks.
     -   Prerequisites: 15 Strength, 5 Intelligence
 
@@ -1451,10 +1451,6 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Increases the radius and posture damage of your Eruptions.
     -   Increases the uptime of your [Flame of Denial](Flamecharm.md#flame-of-denial) by 25%, from 25 seconds to 31.25.
     -   Prerequisites: 70 Flamecharm, 40 Willpower
-
--   Produce Spark \[Common Talent, Flamecharm\] - A simple production of Flame for the use of making Campfires.
-    -   Grants a Talent tool that works like an infinite [Flint](Flint.md).
-    -   Prerequisite: 20 Flamecharm
 
 -   Unyielding Inferno \[Common Talent, Flamecharm\] - Your flames burn just as strong even in the fiercest of storms.
     -   Negates the innate 10% damage debuff Flamecharm Mantras, [First Light](First_Light.md)'s critical, and Twisted Puppets' Puppets receive during the [rain](Environmental_Hazards.md).
@@ -4509,7 +4505,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Your Vent can proc Shadowcast Talents on hit such as Twisted Puppet's Shadowcast flames and Sightless Still.
 
 -   Intrepid Flame: [Flame Worshipper Armor](Flame_Worshipper_Armor.md) - Flames wear off twice as fast on you.
-    -   Halves the maximum duration of Burn.
+    -   Halves the maximum duration of any Burn that is applied to you.
+    -   Does not work on Flame Within.
 
 -   Knack: [Eager Tradesman](Eager_Tradesman.md) - Trees yield more Wood when felled. Your Repair speed is increased.
     -   Increases the boat repair speed.
@@ -5192,10 +5189,9 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
 
 ### Steampunk Soldier
 
--   Explosive Ignition \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your Produce Sparks now can ignite steam, causing a large explosion.
+-   Explosive Ignition \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Ignite nearby steam, causing a large explosion.
     
-    -   If you use the Produce Spark Talent tool while standing inside of a steam cloud, a very large explosion will be caused after a delay, dealing high damage.
-    -   This will consume the steam cloud on proc.
+    -   Grants a Talent tool, that when used while standing inside of a steam cloud causes a very large explosion after a delay, dealing high damage and consuming the Steam cloud.
     -   Prerequisites: [Steampunk Soldier](Steampunk_Soldier.md) Memento, defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
 
 -   Mist Mobility \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Anytime you proc Boiling Point, increase the speed at which you reload your [Vapormaw Carbine](Vapormaw_Carbine.md) and increase your Critical Attack's fire rate.

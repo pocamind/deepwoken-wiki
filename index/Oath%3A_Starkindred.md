@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 199640
+revid: 202103
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Starkindred Church]
@@ -119,7 +119,7 @@ This Oath grants 2 Combat Mantra slots, 1 Wildcard Mantra slot, and 8 Health. Ad
 
 -   All of Starkindred's Mantras have Strength scaling.
 -   The optimal Oath progression is to kill [Astaroth, Sinner of Wind](Astaroth,_Sinner_of_Wind.md) first, [Minos, Sinner of Flame](Minos,_Sinner_of_Flame.md) second, and [Abaddon, Sinner of Ice](Abaddon,_Sinner_of_Ice.md) last, due to their spawn locations.
--   The best way to kill the [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md) and the Sinners is to parry trade until you flourish them.
+-   The best way to kill the [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md) and the Sinners is to parry trade until you flourish them, feinting is very effective so be sure to utilise it.
 -   Death from Above cancels Shadow Meteors if it's active.
 -   Death from Above counts as weapon damage for certain effects such as [Whistling Periapt's](Whistling_Periapt.md) Whistleguard.
 

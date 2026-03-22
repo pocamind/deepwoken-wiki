@@ -1,6 +1,6 @@
 ---
 title: Red Death
-revid: 197534
+revid: 202137
 source: https://deepwoken.fandom.com/wiki/Red_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Legendary Weapons, "Weapons with Multi-Attunement Scaling", "Attunement-based Weapons", Medium Weapons, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -20,7 +20,7 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Lege
 | swing speed | 0.92x |
 | attack duration | 0.7s |
 | penetration | 25% |
-| special effect | Gripping a humanoid will leave no traces of their corpse behind. |
+| special effect | Executing a humanoid will leave no traces of their corpse behind. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
@@ -40,7 +40,7 @@ The **Red Death** is a Legendary [Bloodrend](Bloodrend.md)\-[Shadowcast](Shadowc
 
 The Red Death comes with a passive ability:
 
--   **No Trace Behind** - When gripping a humanoid, they will shake and turn transparent for a few seconds before disappearing in a black smoke, leaving no trace behind.
+-   **No Trace Behind** - When executing a humanoid, they will shake and turn transparent for a few seconds before disappearing in a black smoke, leaving no trace behind.
 
 ## Critical
 

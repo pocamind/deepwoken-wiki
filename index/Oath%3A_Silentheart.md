@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 201156
+revid: 202158
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -72,6 +72,8 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 -   Ability to wield weapons with 25 investment points lower than its weapon stat requirement (this will not work on core attribute or Attunement requirements).
 -   **Entirely lose access to using Mantras**; learned Mantras can still be viewed in your Journal and turned in to [Shrine of Division](Deep_Shrines/Shrine_of_Division.md), but they will disappear from your inventory and they cannot be used.
 -   Attunements are unable to be obtained.
+-   "Elemental" weapons **cannot** be equipped.
+    -   This includes: Any weapon with an Attunement requirement, [First Light](First_Light.md), [Flareblood Kamas](Flareblood_Kamas.md), [Frostthorn](Frostthorn.md), and [Night Axe](Night_Axe.md).
 -   You gain glowing red tattoos coursing over your arms and torso.
 -   Your eye color becomes duller and darker.
 
@@ -182,6 +184,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 -   During a brief moment before the weekly update Silentheart was reworked in, you were capable of receiving a bugged version of the _Unmatched Dexterity_ Talent card with a different description alongside the old Talent set. (image attachment)
 -   **Silent Cascade**, **Rising Star**, and **normal uppercut** all share same keybinds, however there's a clear priority (the further to the left = the more prioritized)
     -   **Silent Cascade > Rising Star > Uppercut**
+-   Since 21.03.2026 update, you can't equip following elemental weapons: Frostthorn, First Light, Night Axe, Flareblood Kamas, and any weapon that require element to equip. However, you can still equip: Railblade, Krulian knife, Winter Rifle and Bloodtide Trident.
 
 ## Trivia
 

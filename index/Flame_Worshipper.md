@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper
-revid: 201486
+revid: 202108
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos, The Covenant of Flame]
@@ -50,10 +50,7 @@ Following the teachings of [Amorus Pleeksty](Amorus_Pleeksty.md), the Flame Wors
     -   [Deepfire Ring](Deepfire_Ring.md) will lower Flame Within's duration down to 25s without affecting the burn damage taken. This is a direct downgrade for Flame within.
 
 -   Intrepid Flame \[Equipment Talent\] - Flames wear off twice as fast on you.
-    -   Halves the maximum duration of Burn.
-
--   Produce Spark \[Common Talent\] - A simple production of Flame for the use of making Campfires.
-    -   Grants a Talent tool that works like an infinite [Flint](Flint.md).
+    -   Halves the maximum duration of any Burn that is applied to you.
 
   
 

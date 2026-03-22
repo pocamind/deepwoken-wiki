@@ -1,6 +1,6 @@
 ---
 title: Coldpoint
-revid: 200754
+revid: 202146
 source: https://deepwoken.fandom.com/wiki/Coldpoint
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weapons with Talents, Rapiers, Light Weapons]
@@ -20,7 +20,7 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weap
 | swing speed | 1.06x |
 | attack duration | 0.6s |
 | penetration | 10% |
-| talent | True Shatter |
+| talent | True Shatter - Landing a critical shatters your opponent, ridding them of their speed debuffs and dealing true damage, scaling off of how much the target was slowed. |
 | stances | 1 Handed |
 | rarity | Legendary |
 | selling price | 50 |
@@ -42,7 +42,9 @@ This weapon comes with a singular passive ability:
 
 ## Talent: True Shatter
 
-Landing a critical shatters your opponent, ridding them of their speed debuffs and dealing true damage, scaling off of how much the target was slowed.
+Equipping the Coldpoint grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+**True Shatter** procs upon landing a weapon critical, clearing all slow debuffs from your opponent, and dealing **5** true damage for every debuff you remove.
 
 ## Critical
 
@@ -51,7 +53,3 @@ The user reels their rapier back briefly, before piercing through the target in 
 The critical has a cooldown of **10 seconds**.
 
 This critical has the M1 tag, allowing it to proc M1-exclusive [Talent](Talents.md) effects.
-
-## Trivia
-
--   The [weapon talent](Talents.md#weapon-talents), True Shatter, is shared between the Coldpoint and the [Icepick](Icepick.md) from the [Vow of Iron](Vow_of_Iron.md) gamemode.

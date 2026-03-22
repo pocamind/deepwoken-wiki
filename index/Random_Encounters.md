@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 201747
+revid: 202106
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Mechanics]
@@ -171,7 +171,7 @@ Exclusive to the [Songseeker Wilds](Songseeker_Wilds.md). This is a rare event i
 
 Two [Authority Soldiers](Authority_Soldier.md) will attack [Meteor Isle](Meteor_Isle.md). Killing them does not grant negative reputation with [The Central Authority](The_Central_Authority.md) nor does it grant positive reputation with [The Children of Navae](The_Children_of_Navae.md). This event rewards the player with a mediocre chest and XP.
 
-#### Meteor Isle Meteor
+#### Meteor Isle Meteor _(Vaulted)_
 
 A meteor will hit [Meteor Isle](Meteor_Isle.md), spawning [Mudskipper Knights](Mudskipper_Knight.md) in waves. Killing all of them will despawn the meteor and award XP and a golden chest at the center of the meteor.
 

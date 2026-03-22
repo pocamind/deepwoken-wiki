@@ -1,6 +1,6 @@
 ---
 title: Black Death
-revid: 200773
+revid: 202136
 source: https://deepwoken.fandom.com/wiki/Black_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Reforged Weapons]

@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 200528
+revid: 202162
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -48,12 +48,12 @@ Picture of a Crafting Bench
 -   [Pickaxe](Pickaxe.md) - _2 [Wood](Wood.md), 2 [Iron](Ores.md#iron)_.
 -   [Repair Kit](Repair_Kit.md) - _3 [Iron](Ores.md#iron), 2 [Wood](Wood.md)_.
 -   [Iron Bomb](Iron_Bomb.md) (requires the [quest](https://deepwoken.fandom.com/wiki/Quests#Family_Recipe)) - _2 [Iron](Ores.md#iron), 1 [Coal](Ores.md#coal)_.
--   **Flask of Strength** - _2 [Hellfire Lotus](Primordial_Lotuses.md#hellfire-lotus)_.
--   **Flask of Fortitude -** _2 [Empyrean Lotus](Primordial_Lotuses.md#empyrean-lotus)_.
--   **Flask of Agility** - _2 [Zephyr Lotus](Primordial_Lotuses.md#zephyr-lotus)_.
--   **Flask of Intelligence** - _2 [Brilliant Lotus](Primordial_Lotuses.md#brilliant-lotus)_.
--   **Flask of Willpower** - _2 [Skyvalor Lotus](Primordial_Lotuses.md#skyvalor-lotus)_.
--   **Flask of Charisma** - _2 [Miasmic Lotus](Primordial_Lotuses.md#miasmic-lotus)_.
+-   [Flask of Strength](Attribute_Flasks.md#flask-of-strength) - _2 [Hellfire Lotus](Primordial_Lotuses.md#hellfire-lotus)_.
+-   [Flask of Fortitude](Attribute_Flasks.md#flask-of-fortitude) - _2 [Empyrean Lotus](Primordial_Lotuses.md#empyrean-lotus)_.
+-   [Flask of Agility](Attribute_Flasks.md#flask-of-agility) - _2 [Zephyr Lotus](Primordial_Lotuses.md#zephyr-lotus)_.
+-   [Flask of Intelligence](Attribute_Flasks.md#flask-of-intelligence) - _2 [Brilliant Lotus](Primordial_Lotuses.md#brilliant-lotus)_.
+-   [Flask of Willpower](Attribute_Flasks.md#flask-of-willpower) - _2 [Skyvalor Lotus](Primordial_Lotuses.md#skyvalor-lotus)_.
+-   [Flask of Charisma](Attribute_Flasks.md#flask-of-charisma) - _2 [Miasmic Lotus](Primordial_Lotuses.md#miasmic-lotus)_.
 -   [Pathfinder Lantern](Pathfinder_Lantern.md) - _1 [Dying Embers](Dying_Embers.md) or [Spark Gland](Spark_Gland.md), 1 [Iron](Ores.md#iron), 1 [Fiber](Fiber.md)_.
 -   [Delver Boots](Delver_Boots.md) (Must use crafting station in ignition base in Layer 2 Floor 1, or [Master Craftsman](Talents.md#master-craftsman) Talent) - _[Leather Boots](Leather_Boots.md), 2 [Galewax](Galewax.md), 2 [Umbrite](Ores.md#umbrite)_.
 -   [Wormwarder Lantern](Wormwarder_Lantern.md) (Must use crafting station in ignition base in Layer 2 Floor 1, or Master craftsman talent) - _2 [Galewax](Galewax.md), 4 [Irithine](Ores.md#irithine), 4 [Spark Gland](Spark_Gland.md)_.
@@ -116,8 +116,7 @@ These recipes are exclusive to [The Cold Forge](The_Cold_Forge.md).
 -   **[Sanguine Transfuser](Sanguine_Transfuser.md)**
     1.  1 [Dormant Splinter](Dormant_Splinter.md) + 1 [Hemobloom](Hemobloom.md) + 1 [Ancient Dagger Remains](Ancient_Dagger_Remains.md).
 -   **[Umbrite Witherblade](Umbrite_Witherblade.md)**
-
-1 [Dormant Splinter](Dormant_Splinter.md) + 3 [Umbrite](Ores.md#umbrite) + 1 [Razor Cutlass](Razor_Cutlass.md).
+    1.  1 [Dormant Splinter](Dormant_Splinter.md) + 3 [Umbrite](Ores.md#umbrite) or 1 [Pure Umbrite](Ores.md#umbrite) + 1 [Razor Cutlass](Razor_Cutlass.md).
 
 ## Lost Forge Recipes
 
