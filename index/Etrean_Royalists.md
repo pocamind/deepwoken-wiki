@@ -1,6 +1,6 @@
 ---
 title: Etrean Royalists
-revid: 202214
+revid: 202305
 source: https://deepwoken.fandom.com/wiki/Etrean_Royalists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive]
@@ -14,7 +14,7 @@ categories: [Vow of Iron Exclusive]
 | territory | The Sable Estate, The Indigo Citadel, Viridian Sanctuary Ruins, Red Lotus Keep, Temple of Mur |
 | goals | Liberate Etrea, Preserve the history of Etrea, Defeat The Lord Regent |
 | founded | 1219 CE[1][2] |
-| dissolved | 1233 CE |
+| dissolved | 1233 CE[3] |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
@@ -71,3 +71,4 @@ The Royalists have a Reputation reset NPC, [Yen](Yen.md), near the front of the 
 1.  [↑](#cite-ref-junsui-1-0) NPC dialogue: [High Monk Junsui](High_Monk_Junsui.md)  
     
 2.  [↑](#cite-ref-2) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md). However, events taking place within the [Vow of Iron](Vow_of_Iron.md) gamemode are explicitly during the year 1233 CE. As the Civil War began 14 years before the events of the gamemode, it can be assumed to have taken place in 1219 CE.
+3.  [↑](#cite-ref-3) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md). However, events taking place within the [Vow of Iron](Vow_of_Iron.md) gamemode are explicitly during the year 1233 CE.

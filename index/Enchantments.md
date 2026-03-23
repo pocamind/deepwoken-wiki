@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 201338
+revid: 202314
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -1114,7 +1114,7 @@ Umbral Knight [Enchant Stone](Enchant_Stone.md):
 
 [View main page](Vampirism.md)
 
-File:NewVampirismVFX.gif
+[Enchant Vampirism](Vampirism.md)
 
 _Your weapon attacks drain health from your foes and replenish your blood._
 

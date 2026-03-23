@@ -1,6 +1,6 @@
 ---
 title: Crucible Rapier
-revid: 196659
+revid: 202261
 source: https://deepwoken.fandom.com/wiki/Crucible_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons, Weapons with Talents]

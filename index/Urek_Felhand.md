@@ -1,9 +1,9 @@
 ---
 title: Urek Felhand
-revid: 202099
+revid: 202309
 source: https://deepwoken.fandom.com/wiki/Urek_Felhand
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Deceased characters, The Five Heroes, Oath Trainer]
+categories: [Stub pages without reason, StubPages, Deceased characters, The Five Heroes, Oath Trainer, Humanoids with Unobtainable Outfits]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -20,7 +20,7 @@ notices:
 
 ## Description
 
-Urek Felhand was the Hero of [Shadowcast](Shadowcast.md), who wielded the [Hero's Blade of Shadow](<Hero's_Blade_of_Shadow.md>). Eventually, he betrayed the other 4 heroes, but his soul was still embedded into his respective [obelisk](Saintsworn_Obelisks.md). He was also sworn enemies with [Saint Jay](<Saint_Jay_(individual).md>), a disciple of [Faust](Faust.md).[\[1\]](#cite-note-obelisk-1)[\[2\]](#cite-note-2)
+Urek Felhand was [the Hero of Shadow](The_Five_Heroes.md), who wielded the [Hero's Blade of Shadow](<Hero's_Blade_of_Shadow.md>). Eventually, he betrayed the other 4 heroes, but his soul was still embedded into his respective [obelisk](Saintsworn_Obelisks.md). He was also sworn enemies with [Saint Jay](<Saint_Jay_(individual).md>), a disciple of [Faust](Faust.md).[\[1\]](#cite-note-obelisk-1)[\[2\]](#cite-note-2)
 
 He tells the player about the betrayal, after talking to the [obelisk](Saintsworn_Obelisks.md).[\[1\]](#cite-note-obelisk-1)
 
@@ -28,6 +28,7 @@ He tells the player about the betrayal, after talking to the [obelisk](Saintswor
 
 -   He's one of the two Heroes who's surname was revealed, the second one being [Trinity Galenwarde](Trinity_Galenwarde.md).
 -   Urek used to be a [Felinor](Felinor.md).[\[3\]](#cite-note-cat-3)
+-   It could be implied that Urek was betrayed by the five or he betrayed them. But this is unclear since his hero blade runes implies that he could've willingly put his soul into the blade.
 
 ## References
 

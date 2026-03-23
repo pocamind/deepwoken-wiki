@@ -1,6 +1,6 @@
 ---
 title: Theros Disciple
-revid: 189590
+revid: 202310
 source: https://deepwoken.fandom.com/wiki/Theros_Disciple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -798,6 +798,8 @@ Lightning
 -   Spark of Theros \[Memento Talent\] - Your Thundercall is imbued with the spark of Theros, altering its appearance and properties.
     
     -   Turns your Thundercall white.
+    -   Changes the Shock status effect to Blightshock, applying [Wither](Status_Effects.md#wither) to the target.
+        -   This causes your Electrify to self-apply Wither on use.
 
 ### True Heart of Enmity
 

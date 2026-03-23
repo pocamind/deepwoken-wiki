@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 202163
+revid: 202311
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -5243,6 +5243,7 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
 -   Spark of Theros \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your Thundercall is imbued with the spark of Theros, altering its appearance and properties.
     
     -   Turns your Thundercall white.
+    -   Changes the [Shock](Status_Effects.md#shock) status effect to [Blightshock](Oath%253A_Blightsurger.md#blightshock), applying [Wither](Status_Effects.md#wither).
     -   Prerequisites: [Theros Disciple](Theros_Disciple.md) Memento, defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
 
 -   Storm Return \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Being under lightning/wind status effect causes your Basic Attacks and Criticals to do 10% more damage. (Amplified with [Lightning Cloak](Thundercall.md#lightning-cloak))

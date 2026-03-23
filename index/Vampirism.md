@@ -1,6 +1,6 @@
 ---
 title: Vampirism
-revid: 199788
+revid: 202316
 source: https://deepwoken.fandom.com/wiki/Vampirism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]

@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 202153
+revid: 202259
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons]
@@ -32,7 +32,7 @@ categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, 
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Crypt of the Unbroken (Chest), Scion of Ethiron (Chest), Ministry Ambushes (Chest), Diluvian Mechanism (wave 30-50), Second Layer (Floor 1 Chests), Weird Trader |
+| obtainment | Crypt of the Unbroken (Chest), Scion of Ethiron (Chest), Ministry Ambushes (Chest), The Diluvian Mechanism (wave 30-50), Second Layer (Floor 1 Chests), Weird Trader |
 | description | In her dying breaths, Sudaruska the Unbroken infused her very being into this weapon, cutting through hundreds of ancient Ministry as the last front to keep Minityrsa safe. Now that her mortal shell is no more, she has become Gran Sudaruska. |
 
 ## Description
@@ -56,7 +56,7 @@ The critical has a cooldown of **10 seconds.**
 
 ## Trivia
 
--   Crits do not count towards Sudaruska's Fury stacks.
+-   Criticals do not count towards Sudaruska's Fury stacks.
 -   When trying to equip the weapon as a [Contractor](Oath%253A_Contractor.md), the game will state "The weapon rejects your very soul, the antithesis to your ideals." This is due to the fact that the soul of Sudaruska, the woman who occupies the weapon, hates the Ministry.
     -   You can however, equip her before obtaining Contractor. Unequipping afterwards will make it impossible to equip her once more until you break your oath as a Contractor or equip her as a new character.
     -   You can also equip her while wearing the [Prophet's Cloak](<Prophet's_Cloak.md>).

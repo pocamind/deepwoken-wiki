@@ -1,6 +1,6 @@
 ---
 title: "Master Hawk's Handaxe"
-revid: 201529
+revid: 202297
 source: https://deepwoken.fandom.com/wiki/Master_Hawk's_Handaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]

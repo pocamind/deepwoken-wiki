@@ -1,6 +1,6 @@
 ---
 title: "Trickster's Scarf"
-revid: 202242
+revid: 202248
 source: https://deepwoken.fandom.com/wiki/Trickster's_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Scarves]
@@ -17,7 +17,7 @@ categories: [Equipment, Torso, Scarves]
 | weight | 0.5 |
 | innate stats | 2 Legendary Pips |
 | innate talent | N/A |
-| bankable | ? |
+| bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |

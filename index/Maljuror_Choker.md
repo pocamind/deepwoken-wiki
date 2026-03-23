@@ -1,6 +1,6 @@
 ---
 title: Maljuror Choker
-revid: 202078
+revid: 202249
 source: https://deepwoken.fandom.com/wiki/Maljuror_Choker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso]
@@ -17,8 +17,8 @@ categories: [Equipment, Torso]
 | weight | 0.5 |
 | innate stats | +2% Shadow Armor, 1 Legendary Pip |
 | innate talent | N/A |
-| bankable | ? |
-| droppable | ? |
+| bankable | Yes |
+| droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Maljuror |

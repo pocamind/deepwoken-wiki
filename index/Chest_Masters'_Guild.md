@@ -1,6 +1,6 @@
 ---
 title: "Chest Masters' Guild"
-revid: 194253
+revid: 202284
 source: https://deepwoken.fandom.com/wiki/Chest_Masters'_Guild
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
