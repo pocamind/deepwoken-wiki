@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 200647
+revid: 202210
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Vows, Mechanics]
@@ -31,116 +31,271 @@ The player must respond positively ("yes" "sure" "alright" etc.) After respondin
 
 Subjects cannot undo the vow without making a wish at [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) or wiping, and can only have one master, making the decision relatively permanent.
 
-In addition to using the name of a specific Subject, commands can use the names "_all_ " or "_everyone_" to affect all Subjects, but this doesn't work for all commands, and will still be used on one subject.. Multiple commands can be stacked in a single message, for example the command "_\[Name\]_, say I will sleep now." will both cause the Subject to sleep, and also say "I will sleep now."
+In addition to using the name of a specific Subject, commands can use the names "_all_ " or "_everyone_" to affect all Subjects, but this doesn't work for all commands, and will still be used on one subject. Multiple commands can be stacked in a single message, for example the command "_\[Name\]_, say I will sleep now." will both cause the Subject to sleep, and also say "I will sleep now."
+
+**Disclaimer**: Keep in mind that the commands will activate should you say their prompts at any part your message; saying "what if I said explode all" will cause the Explode command to trigger on all of your subjects. Be cautious of what you say.
 
 ## Commands
 
-| Media | Command | Requires Talent | Usage | Effect | Cooldown |
-| --- | --- | --- | --- | --- | --- |
+| Command | Requirements | Effect |
+| --- | --- | --- |
 | 
- | Sleep | No | "_\[Name\]_, sleep" | Essentially knocks the subject for 5 seconds, allowing them to be carried or gripped. | None |
+**Sleep**
+
+  
+
+_"\[Name\] sleep"_  
+_"sleep \[Name\]"_
+
+ | 
+
+Innate
+
+ | Knocks the subject unconscious for 5 seconds, allowing them to be carried or executed. |
 | 
 
- | Say | No | "_\[Name\]_, say _\[message\]_" | Forces the Subject to speak your prompt. | None |
+**Say**
+
+  
+
+_"\[Name\] say \[message\]"_
+
+ | 
+
+Innate
+
+ | Forces the Subject to speak your prompt. |
 | 
 
- | Locate | No | _"Locate \[Name\]"_ | Highlight the Subject in yellow for a few seconds through walls for you to see.
+**Locate**
 
--   _Range limit. (needs testing)_
+  
 
- | None |
+_"Locate \[Name\]"_
+
+ | 
+
+Innate
+
+ | Highlight the Subject in yellow for a few seconds through walls for you to see.
+
+-   This command has a range limit.
+
+ |
 | 
 
- | Eat | No | "_\[Name\]_, eat _\[food item\]_" | Forces the Subject to eat a desired item.
+**Eat**
+
+  
+
+_"\[Name\] eat \[food item\]"_
+
+ | 
+
+Innate
+
+ | Forces the Subject to eat a desired item.
 
 -   The actual one is useless, since **use** does the same thing and more.
 
- | None |
+ |
 | 
 
- | Use | No | "_\[Name\], use \[item\]._" | Forces the Subject to use a desired item, if the item can't be used the subject will simply hold it in their hand.
+**Use**
 
--   Can only be used on utilities, combat [relics](Relics.md)(aka Spires), [foods](Food.md) and edible [ingredients. (does not work for potions)](Ingredients.md)
+  
 
- | None |
+_"\[Name\] use \[item\]"_
+
+ | 
+
+Innate
+
+ | Forces the Subject to use a desired item.
+
+-   If the item can't be used, the subject will simply hold it in their hand.
+-   Can only be used on utilities, combat [Relics](Relics.md), [Food](Food.md), and edible [Ingredients](Ingredients.md).
+
+ |
 | 
 
- | Drop | No | "_\[Name\]_, drop _\[item\]_" | Forces the Subject to drop an item.
+**Drop**
 
--   Can only drop foods and ingredients.
+  
 
- | None |
+_"\[Name\] drop \[item\]"_
+
+ | 
+
+Innate
+
+ | Forces the Subject to drop an item.
+
+-   This works on all droppable items, but it uses the internal names of certain items, making the command difficult to use.
+
+ |
 | 
 
- | Leech | No | _"Leech \[Name\]"_ | Take all of your Subject's Ether and turn it into a small orb, which flies towards you to restore your Ether on contact.
+**Leech**
 
--   _Range limit of 30 steps._
--   The ether taken away is a numerical value, not a percentage.
+  
 
- | None |
+_"leech \[Name\]_"
+
+ | 
+
+Innate
+
+ | Take all of your subject's Ether and turn it into a small orb, which flies towards you to restore your Ether on contact.
+
+-   Has a range limit.
+-   Drains a flat amount of Ether.
+
+ |
 | 
 
- | Run | No | "_\[Name\]_, run" | Forces the Subject to run for around 15 seconds, giving a speed boost.
+**Run**
 
--   The subject cannot stop running. Will be a tad bit difficult to control.
--   Can proc talents like speed demon. \* It's an additive speed boost, meaning you can cast mantras or reset while you are running.
--   Buffs your speed around 2.3x \*Does not work on people with True Hyper-armor (such as resurrection animation)
+  
 
- | 2 minutes |
+_"\[Name\] run"_
+
+ | 
+
+Innate
+
+ | Forces the subject to run for around 15 seconds, giving a speed boost.
+
+-   The subject cannot stop running for the duration of the effect, making it difficult to control.
+-   Can proc speed boost-reliant [Talents](Talents.md).
+-   Grants an additive ~2.3x movement speed increase.
+-   This command has a 2 minute cooldown.
+
+ |
 | 
 
- | Fight | No, 50 Charisma | "_\[Name\]_, fight" | Gives the Subject a purple aura and a boost in damage and defense for 17.5 seconds. Also seems to increase attack speed a little.
+**Fight**
 
--   Damage buff and defense buff is 20%.
+  
 
- | 3 minutes |
+_"\[Name\] fight"_
+
+ | 
+
+50 Charisma  
+You will **lose access** to this command if you do not meet its Charisma requirement.
+
+ | Gives the subject a 20% damage and defense buff, sifnified by a purple aura.
+
+-   This command has a 3 minute cooldown.
+
+ |
 | 
 
- | Sacrifice | No, 50 Charisma | "_\[Name\]_, sacrifice" | Forces the Subject to give their health to you until you are full.
+**Sacrifice**
 
--   _Has a range limit. around 30 steps._
+  
+
+_"\[Name\] sacrifice"_
+
+ | 
+
+50 Charisma  
+You will **lose access** to this command if you do not meet its Charisma requirement.
+
+ | Forces the subject to give their health to you until you are fully healed.
+
+-   Has a range limit.
+-   This command can only be used on one subject at a time.
+-   This deals a set amount of _damage_ to the subject, meaning the subject can resist the damage leech does. The health given to the master will be the same regardless of if the subject resists the damage or not.
+-   This can knock the subject unconscious.
+-   This command has a 2 minute cooldown.
+
+ |
+| 
+
+**Return**
+
+  
+
+_"\[Name\] return"_  
+_"return \[Name\]"_
+
+ | 
+
+60 Charisma  
+You will **lose access** to this command if you do not meet its Charisma requirement.
+
+ | Forces the Subject to travel directly back to the master, phasing through all objects.
+
+-   Works on unconscious players, cancelling the knocked state and grips, but does not work if the subject is being carried.
+-   Has a range limit of 25 studs.
+-   Works even if the subject(s) are under the effects of [True Hyperarmor](Status_Effects.md#true-hyperarmor).
+-   This command has a 20 second cooldown.
+
+ |
+| 
+
+**Explode**
+
+  
+
+_"\[Name\] explode"_  
+_"explode \[Name\]"_
+
+ | 
+
+75 Charisma  
+You will **lose access** to this command if you do not meet its Charisma requirement.
+
+ | Explodes the head of the subject, causing them to die instantly and deal damage to anyone nearby the radius of the explosion.
+
+-   The outwards explosion damage scales on your Charisma investment.
+-   Applies [burn](Status_Effects.md#burn) to all targets hit by the explosion.
+
+ |
+| 
+
+**Live**
+
+  
+
+_"\[Name\] live"_  
+_"live \[Name\]_"
+
+ | 
+
+[Command: Live](Talents.md#command-live) Talent (75 Charisma)  
+This command's cooldown will be increased if you do not meet its requirements.
+
+ | Fully heals the subject to 100% health, reviving them if they are unconscious and cancelling any execution or carry.
+
+-   Has a range limit. (Roughly a bit before till the player's name can't be seen anymore.)
+-   This Command has a 20 minute cooldown for the master and a 1 hour cooldown for the subject.
+
+ |
+| 
+
+**Summon**
+
+  
+
+_"\[Name\] summon"_  
+_"summon \[Name\]"_
+
+ | 
+
+[Command: Summon](Talents.md#command-summon) Talent (80 Charisma)  
+This command's cooldown will increase if you do not meet its requirements.
+
+ | Teleports the subject to the master, anywhere on the map with no range limit. Has ~10 seconds of windup before summoning.
+
 -   _Can only be used on one subject at a time._
--   The health taken away is a numerical value, not a percentage.
--   If Master takes all HP to zero, the subject will be knocked.
--   Has no difference if the subject has any damage resistance on.
-
- | 2 minutes |
-| 
-
- | Return | No, 60
-
-Charisma
-
- | "_\[Name\]_, return" | Forces the Subject to go directly back to the Master, even through walls.
-
--   Works on knocked players, cancelling the knocked state and grips, but does not work if the subject is being carried.
--   _Has a range limit of 25 studs._\*Works even if the subject(s) are under the effects True Hyper-armor (such as resurrection animation)
-
- | 20 seconds |
-| 
-
- | Explode | No, 75 Charisma | "_\[Name\]_, explode" | Explodes the head of the subject, causing them to die instantly and deal damage + burn on anyone nearby the radius of the explosion.
-
--   Explode damage is increased by Сharisma.
-
- | None |
-| 
-
- | Live | Yes, 75 Charisma, Common | "_\[Name\]_, live" | Fully heals the subject to 100%, reviving them if they are knocked, cancelling any grip or carry.
-
--   _Has a range limit. (Roughly a bit before till the player's name can't be seen anymore.)_
--   _Can only be used on one subject at a time._.
-
- | _20 minutes. 1 hour on the last subject used on._ |
-| 
-
- | Summon | Yes, 80 Charisma, Advanced | "_\[Name\]_, summon" | Teleports the subject to the master, anywhere on the map with no range limit. Has ~10 seconds of windup before summoning.
-
--   _Can only be used on one subject at a time._
--   If Master or Subject get hit during the ritual, it gets canceled. If canceled, the subject's cooldown is set to 30 seconds.
+-   If the master or subject get hit during the ritual, it will be canceled, putting it on a 30 second cooldown.
 -   Doesn't work in Layer 2
+-   This command has a 30 second cooldown for the master and a 2 minute cooldown for the subject.
 
- | 30 seconds. 2 minutes on the last subject used on. |
+ |
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 184685
+revid: 202225
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics, Features absent in Vow of Iron]
@@ -73,8 +73,8 @@ Shrine of Solitude
 -   Shrine of Order used to grant an additional random [Flaw](Boons_and_Flaws.md) on use. This was removed on September 6th, 2025 due to the recent changes of the time with Talents gaining reduced effects if you do not meet their requirements.
 -   Deep Shrines may be a means for [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) to communicate, due to them appearing in the [Temple of Hearts](Temple_of_Hearts.md). Both the main shrine and Deep Shrines speak using the same font, as well as engaging in deals.
 -   The Shrine of Solitude is unique in that it:
-    -   Is present in a dungeon, that dungeon being the [Trial of One](Trial_of_One.md)
-    -   Has no visible "eyes".
+    -   Is present in dungeons, specifically the [Trial of One](Trial_of_One.md) and [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+    -   Previously had no visible "eyes," in contrast to the other deep shrines at the time.
     -   Talks in lowercase, unlike all other shrines.
         -   It is also much less hostile, asking only to lessen its solitude (whereas other shrines degrade you and command you a puppet).
 -   Before Shrine of Ostentation (Now the Shrine of Chance), the only way to obtain more Rare Talents on a fully progressed build was to obtain either [Ardour](Murmur%253A_Ardour.md) or [Rhythm](Murmur%253A_Rhythm.md) and their child Talents, Ardour Scream or Spotter. Then after removing your Murmur with a [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish, you would be granted a new Talent hand that was guaranteed to have a rare Talent in it.

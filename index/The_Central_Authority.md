@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 202206
+revid: 202209
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -108,4 +108,4 @@ Negative reputation will prevent you from accessing [Fort Merit](Fort_Merit.md) 
 2.  [↑](#cite-ref-rs-2-0) [Rifle Spear](Rifle_Spear.md) description
 3.  [↑](#cite-ref-3) [Book](Books.md): [Jericho's Journal](<Jericho's_Journal.md>)  
     _How short-sighted we must be, for it was in the arms of our old enemy that we found him._
-4.  [↑](#cite-ref-4) [Children of the Aftertide I](Children_of_the_Aftertide.md)
+4.  [↑](#cite-ref-4) [Book](Books.md): [Children of the Aftertide I](Children_of_the_Aftertide.md#vol-1)

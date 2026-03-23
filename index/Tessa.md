@@ -1,6 +1,6 @@
 ---
 title: Tessa
-revid: 190823
+revid: 202230
 source: https://deepwoken.fandom.com/wiki/Tessa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, The Five Heroes, Deceased characters, Oath Trainer]

@@ -1,6 +1,6 @@
 ---
 title: Stardust
-revid: 184645
+revid: 202223
 source: https://deepwoken.fandom.com/wiki/Stardust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -10,6 +10,7 @@ categories: [Items]
 
 | Stardust | |
 |---|---|
+| stack | x10 |
 | type | Treasure |
 | bankable | Yes |
 | droppable | Yes |
@@ -25,5 +26,4 @@ Currently does nothing, only used for the obtainment of the [Saltchemist Oath](O
 ## Trivia
 
 -   Previously used by the [Linkstrider](Oath%253A_Linkstrider.md) [Oath](Oaths.md) to fast travel to certain places on the map when beside a campfire, currently not required. (Unknown when changed)
--   If you're currently holding a stardust will prompt you with "The flame lacks fuel to consume you.." (Can someone check this?)
--   This item cannot be passed down at the Hippocampal Pool in the Fragments of Self
+-   This item cannot be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) in the [Fragments of Self](Fragments_of_Self.md)
