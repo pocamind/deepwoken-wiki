@@ -1,6 +1,6 @@
 ---
 title: Ardour Manifestation
-revid: 171808
+revid: 202240
 source: https://deepwoken.fandom.com/wiki/Ardour_Manifestation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics]
@@ -16,7 +16,7 @@ categories: [Items, Relics]
 
 ## Description
 
-**Ardour Manifestation** is a rare reward granted upon killing most [Boss](Bosses.md), even from [Dread Serpents](Dread_Serpent.md). This item is also sold by [Traan Zakshun](Traan_Zakshun.md) for 2 in their Black Market. Upon use within the Voidsea, the Dread Serpent will rise from the waters and combat with it ensues.
+**Ardour Manifestation** is a rare reward granted upon killing most [Bosses](Bosses.md), even from [Dread Serpents](Dread_Serpent.md). This item is also sold by [Traan Zakshun](Traan_Zakshun.md) for 2 in their Black Market. Upon use within the Voidsea, the Dread Serpent will rise from the waters and combat with it ensues.
 
 -   The player can hold a max of four Ardour Manifestations.
 -   The player can still obtain an Ardour Manifestation while currently having a [Murmur](Murmur.md)\- including [Ardour](Murmur%253A_Ardour.md) itself.

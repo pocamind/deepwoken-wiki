@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 202164
+revid: 202241
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -28,11 +28,11 @@ Members of the Authority Ensign spawn at [Port Merit](Port_Merit.md) with the [A
 
 ## Effects
 
-Your guild will be automatically set to The Central Authority on that character, allying you with all members of the same Origin. Your guild will reset back to normal if you wipe or get Exiled from the Authority. Your guild being changed is somewhat only a visual change; while you won't be able to use the [Chime of Dwelling](Chime_of_Dwelling.md) or [Dwelling Charm](Dwelling_Charm.md), if you claim a [Guild Banner](Guild_Banners.md), it will still be under your Guild. You can also still interact with all of your Guild Base NPCs and respawn at your [Guild Base](Guild_Bases.md). Until you are [exiled](#exile), you cannot gain [Reputation](Reputation.md) with [Etrea](Etrea.md) or [The Children of Navae](The_Children_of_Navae.md).
+Your guild will be automatically set to The Central Authority on that character, allying you with all members of the same Origin. Your guild will reset back to normal if you wipe or get Exiled from the Authority. Your guild being changed is somewhat only a visual change; while you won't be able to use the [Chime of Dwelling](Chime_of_Dwelling.md) or [Dwelling Charm](Dwelling_Charm.md), if you claim a [Guild Banner](Guild_Banners.md), it will still be under your Guild. You can also still interact with all of your Guild Base NPCs and respawn at your [Guild Base](Guild_Bases.md).
 
 After ranking up once, you gain the ability to jail players. If you manually grip a player, they will be imprisoned at [Fort Merit](Fort_Merit.md). This does not kill them (no life lost and no loot dropped), however, they'll be scheduled for execution in 10 minutes, drowning them and sending them to [The Depths](The_Depths.md) if they did not manage to escape.
 
-Gain the Salute [Emote](Emotes.md). All Ensigns will have an Authority insignia above their head to signify their rank, though your own insignia will be invisible to you. Most Authority-related equipment and weapons, listed here, can be equipped without meeting their normal requirements, without any penalty.
+Gain the Salute [Emote](Emotes.md). All Ensigns will have an Authority insignia above their head to signify their rank, though your own insignia will be invisible to you. Most Authority-related equipments and weapons can be equipped without meeting their normal requirements, without any penalty. You also cannot raise your [Reputation](Reputation.md) with [Etrea](Etrea.md) or [The Children of Navae](The_Children_of_Navae.md). All of this shall be removed upon being [Exiled](#exile).
 
 ### Horn of Authority
 
@@ -46,11 +46,11 @@ Being in a Squad allows you to take on the Missions as a group and proc certain 
 
 ## Exile
 
-Upon being exiled from [The Central Authority](The_Central_Authority.md), your Authority reputation will be immediately lowered heavily, most of the time to ' **_reputation (though you can still raise your Authority reputation afterwards) and you will be kicked out of the Central Authority guild, removing your ability to gain future promotions. All Origin-exclusive Talents and Equipment you've obtained prior to being exiled will be kept._**
+Upon being exiled from [The Central Authority](The_Central_Authority.md), you will be kicked out of the Central Authority guild, removing your ability to gain future promotions. All Origin-exclusive Talents and Equipment you've obtained prior to being exiled will be kept. You lose the ability to equip Authority-related equipments and weapons without meeting its normal stat requirements. You will also lose your insignia and rank, and [Salute](#effects) no longer appears as an emote you can use. There is no way to return to the Authority's ranks upon being exiled.
 
-Getting exiled will remove the restriction of not being able to raise your [Reputation](Reputation.md) with [Etrea](Etrea.md) and [The Children of Navae](The_Children_of_Navae.md). You will also lose a bit of reputation with [The Divers](The_Divers.md) and [The Knives of Eylis](The_Knives_of_Eylis.md), and gain ample reputation with [The Hundred Legions](The_Hundred_Legions.md).
+Your Authority reputation will also be lowered heavily, most of the time to ' **_reputation (though you can still raise your Authority reputation afterwards) and it will remove the restriction of not being able to raise your [Reputation](Reputation.md) with [Etrea](Etrea.md) and [The Children of Navae](The_Children_of_Navae.md). You will also lose a bit of reputation with [The Divers](The_Divers.md) and [The Knives of Eylis](The_Knives_of_Eylis.md), and gain ample reputation with [The Hundred Legions](The_Hundred_Legions.md)._**
 
-Upon being exiled, there is no way to return to the Authority's ranks. There are two ways to be exiled:
+There are two ways to be exiled:
 
 ### Deserter
 
