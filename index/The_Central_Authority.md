@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 200833
+revid: 202206
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -11,8 +11,8 @@ categories: [Factions, The Central Authority]
 | The Central Authority | |
 |---|---|
 | leader | Drallis Ehr[1] |
-| subunits | Bureau of Research[2] |
-| territory | Central Luminant, Fort Merit, Port Merit, Merit's Reach |
+| subunits | Bureau of Research[2], The Inquisition |
+| territory | Fort Merit, Port Merit, Merit's Reach |
 | goals | Conquest of all Luminants, Unify the world against The Depths |
 | founded | 65 BCE[1] |
 
@@ -106,5 +106,6 @@ Negative reputation will prevent you from accessing [Fort Merit](Fort_Merit.md) 
 
 1.  ↑ [1.0](#cite-ref-glossehr-1-0) [1.1](#cite-ref-glossehr-1-1) [Glossary](Glossary.md): [The Sovereign Drallis Ehr](Glossary.md#the-sovereign-drallis-ehr)
 2.  [↑](#cite-ref-rs-2-0) [Rifle Spear](Rifle_Spear.md) description
-3.  [↑](#cite-ref-3) [Jericho's Journal](<Jericho's_Journal.md>)
+3.  [↑](#cite-ref-3) [Book](Books.md): [Jericho's Journal](<Jericho's_Journal.md>)  
+    _How short-sighted we must be, for it was in the arms of our old enemy that we found him._
 4.  [↑](#cite-ref-4) [Children of the Aftertide I](Children_of_the_Aftertide.md)

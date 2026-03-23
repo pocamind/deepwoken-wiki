@@ -1,9 +1,9 @@
 ---
 title: The Hive
-revid: 198053
+revid: 202207
 source: https://deepwoken.fandom.com/wiki/The_Hive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, In progress with reason, InProgressPages, Factions, The Hive]
+categories: [In progress with reason, InProgressPages, Factions, The Hive]
 notices:
   - "This page is still in progress! Please have patience, and aid the creation of this page!"
 ---
@@ -12,7 +12,7 @@ notices:
 
 | The Hive | |
 |---|---|
-| territory | Greathive Aratel, The Lordsgrove |
+| territory | Greathive Aratel, Greathive Approach, The Lordsgrove |
 | goals | Saving themselves from the drownings via construction of Greathives |
 
 “ DO NOT STAND IN THE WAY OF TRUE PROGRESS. ”
@@ -25,11 +25,9 @@ The Hive is a faction that operates within large trees known as Greathives. An e
 
 The Hive was founded by the ancestors of the [Vesperians](Vesperian.md) and [Ganymedes](Ganymede.md). They are ruled by an overarching Greatlord who delegates the management of each Greathive to their respective Hivelords. Statues of them have been built in honor at the entrance of [The Lordsgrove](The_Lordsgrove.md) to commemorate their efforts in creating and advancing the Hive.
 
-The Hive is made up of three main groups: The Sentinels, The Custodians, and the Remnants. The Sentinels are the military and defense forces of the Hive, lead by the High Curators appointed by the Greatlord; they are primarily deployed for conflict. The Custodians are the maintenance workers and lifeweave engineers, manufacturing machines like the [Hive Constructs](Hive_Construct.md), and tending to the Greathives. The Remnants are made up of ancient and primal Hivekin; how they contribute to The Hive is unclear[\[1\]](#cite-note-1)
-
 The Hive uses an unobtainable attunement known as [Lifeweave](Lifeweave.md), which allows them to transfer life energy for a variety of applications, such as creating organic technology in the form of [Hive Constructs](Hive_Construct.md), and for being used to power devices, such as the teleporting fountains in the East Luminant. In addition to that, Kaab, the shipwright of **Greathive Aratel** states that he is able to "Lifeweave modifications" onto ship vessels. While they are extremely far behind in "conventional" technology, their ability to tap into the biotech niche allows them to compete with other factions.
 
-They frequently get into battles with [The Kingdom of Etrea](Etrea.md), who attempt to steal their Lifeweaving artifacts for unknown reasons.
+They frequently get into battles with [Etrea](Etrea.md), who attempt to steal their Lifeweaving artifacts for unknown reasons.
 
 ## Reputation
 
@@ -67,11 +65,7 @@ Neutral-Bad Reputation:
 
 ## Notable Members
 
-Gift of Life: A Lifeweave construct created by Zithori, and imbued with a part of his soul. They are the 8th Greatlord of The Hive, and currently lead the faction. They are a separate person from Zithori, despite possessing a piece of his soul[\[2\]](#cite-note-2)
-
-[Zithori Vhemm Miziri Diri](Developer_Specs.md): Greatlord Zithori Vhemm Miziri Diri was the 7th Greatlord and former leader of The Hive. He was replaced by the Gift of Life after his death.
-
-[Laplace Diri](Laplace.md): A Ganymede who is a member of the Diri Family, thus being related to Miziri and Ximac Diri, he is capable of changing the enchantment of a weapon by wrapping the three enchants together in Linen (Flax Plant fibers turned to Textile) and using an unspecified technique derived from Miziri Diri.
+[Laplace Diri](Laplace.md): A Ganymede who is a member of the Diri Family. He is capable of changing the enchantment of a weapon by wrapping the three enchants together in Linen (Flax Plant fibers turned to Textile).
 
 [Regek](Regek.md): A Vesperian who is the librarian of the Greathive Aratel, through their errand of collecting sap from soulblooms located around the Greathive they will let the player increase the potency of their Attunement-less Mantras, they also explain the origins of how the Greathives are created.
 
@@ -85,11 +79,3 @@ Gift of Life: A Lifeweave construct created by Zithori, and imbued with a part o
 -   One of two factions to create and utilize [Monsters](Monsters.md), the other being [The Ignition Union](The_Ignition_Union.md).
 -   They have four Greathives in Lumen, with the Greathive in the Eastern Luminant being the most recently created ones while the biggest Greathive is located in The Central Luminant.
 -   They use Heat stones for their resting camps instead of fire.
-
-## References
-
-1.  [↑](#cite-ref-1)
-    
-    File:Hive Screenshot 1.png
-    
-2.  [↑](#cite-ref-2) File:Hive Screenshot 2.png

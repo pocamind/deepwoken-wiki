@@ -1,6 +1,6 @@
 ---
 title: Ysley
-revid: 202032
+revid: 202185
 source: https://deepwoken.fandom.com/wiki/Ysley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages requiring a cleanup, Individuals with He/him pronouns, The Hive, Characters mentioned in books]
@@ -18,7 +18,7 @@ notices:
 
 ## Description
 
-Ysley was a powerful figure in the [Hive](The_Hive.md). He cleared Operator Polaris Enigvidion of wrongdoing after discovering the truth and recognizing his abilities. Ysley recruited Polaris into a higher order within the Hive.[\[1\]](#cite-note-debrief-1)
+Ysley was a powerful figure in [The Hive](The_Hive.md). He cleared Operator Polaris Enigvidion of wrongdoing after discovering the truth and recognizing his abilities. Ysley recruited Polaris into a higher order within the Hive.[\[1\]](#cite-note-debrief-1)
 
 Ysley was a later wielder of the [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) once belonging to a High Curator of the Hive. Originally crafted by the 2nd Greatlord as a gift to the pacifist 3rd, the weapons went unused for years until Ysley acquired them. Unlike the 3rd Hivelord, Ysley restored them as instruments of combat.[\[2\]](#cite-note-2)
 

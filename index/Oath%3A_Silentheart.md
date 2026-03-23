@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 202158
+revid: 202174
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -69,11 +69,12 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 
 ## Effects
 
--   Ability to wield weapons with 25 investment points lower than its weapon stat requirement (this will not work on core attribute or Attunement requirements).
+-   Ability to wield weapons with 25 investment points lower than its weapon stat requirement (this will not work on core attribute requirements).
 -   **Entirely lose access to using Mantras**; learned Mantras can still be viewed in your Journal and turned in to [Shrine of Division](Deep_Shrines/Shrine_of_Division.md), but they will disappear from your inventory and they cannot be used.
 -   Attunements are unable to be obtained.
 -   "Elemental" weapons **cannot** be equipped.
     -   This includes: Any weapon with an Attunement requirement, [First Light](First_Light.md), [Flareblood Kamas](Flareblood_Kamas.md), [Frostthorn](Frostthorn.md), and [Night Axe](Night_Axe.md).
+    -   Any weapon not mentioned above can still be equipped with this Oath.
 -   You gain glowing red tattoos coursing over your arms and torso.
 -   Your eye color becomes duller and darker.
 
@@ -167,24 +168,20 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 -   If you have 0% Tempo, your Rising Star, Relentless Hunt, and Mayhem deal reduced damage, posture damage, and will have longer windups.
     -   Heavy: -15 damage, -5 posture damage / Medium: -15 damage, -4 posture damage / Light: -7.5 damage, -1 posture damage.
 -   All Silentheart abilities count as weapon damage, proccing [Talents](Talents.md) and [Enchantments](Enchantments.md). However, Silentheart has a 30 second cooldown on a Silentheart Ability proccing an Enchantment.
--   Dying to an attunement user does not necessarily mean being gripped. Dying by any method as long as they are the killer will work.
+-   Dying to an attunement user does not necessarily mean being manually executed by them; dying by any method as long as they are the killer will work.
 -   For the talent progression you first get; -Silentheart( includes +25 points in every weapon) alongside Merciless Blade -Dread Fighter (First Kill) -Unmatched Dexterity (Second Kill) -Ankle Cutter and True Vantage (Third Kill) -Relentless Hunt and Flow State (Fourth Kill) -Rising Star (Fifth Kill) -Mayhem (Sixth Kill) -Silent Cascade (Seventh Kill) **(ALL OF THESE ARE UNCONFIRMED)**
--   While all Mantras are voided and the Mantra tab becomes unavailable, the character will still have them within their character data. Consult the [Shrine of Division](Deep_Shrines/Shrine_of_Division.md) to convert them into 2 random Talents.
-    -   You're also still able to be given a [Whisper Draw](Whisper_Draw.md) on level up.
--   [Wyrmtooth](Wyrmtooth.md) can utilize both the Medium and Heavy Silentheart abilities, using Heavy if the Medium ones are on cooldown. Though,having Wyrmtooth equipped reduces oath's abilities' damage by 50%.
+-   You will still gain [Whisper Draws](Whisper_Draw.md) when leveling up, and from Special Mantra Hands.
+-   [Wyrmtooth](Wyrmtooth.md) can utilize both the Medium and Heavy Silentheart abilities, using Heavy if the Medium ones are on cooldown. Though, having Wyrmtooth equipped reduces oath's abilities' damage by 50%.
 -   The Attunement-less trainer, Regek, cannot be killed for progression despite Physical Mantras also using the song. This may be due to the fact they do not "misuse" the song like the other attunement trainers, and therefore it isn't counted as "song abuse" by The Dreadstar.
 -   [Beatra](Beatra.md) cannot be killed for progression due to her old age.
 -   Silentheart's vow rejects the Words of the Song (Mantra chants). Resonances and Murmurs are not words and thus, are not affected by this Oath.
 -   You will be able to pass [Aelita](Aelita.md)'s game by using any of your Silentheart abilities.
     -   Funnily enough, before an unknown update, Silenthearts were unable to do so.
--   Killing the seven attunement trainers will give you bad rep for whichever faction that they are located in, except for [Nostor](Nostor,_Master_of_Shadow.md), [Vyrelda](Vyrelda,_Master_of_Blood.md), and [Amashi](Amashi,_Master_of_Flame.md) (Ex. Killing [Friid](Friid,_Master_of_Gale.md) in the [Isle of Vigils](Isle_of_Vigils.md) will grant you bad rep with [Etrea](Etrea.md).)
-    -   Due to this, you should keep some notes handy to pay off your rep so [Voidwalkers](Voidwalker.md) and faction ambushes won't come after you.
 -   [Vyrelda](Vyrelda,_Master_of_Blood.md) will still appear in the Derelict Highchurch regardless of if you've achieved bloodrend on the account so long as you have the oath
 -   To make the Dreadstar appear, interact with one of the Ghosts on the ship and fight them.
 -   During a brief moment before the weekly update Silentheart was reworked in, you were capable of receiving a bugged version of the _Unmatched Dexterity_ Talent card with a different description alongside the old Talent set. (image attachment)
 -   **Silent Cascade**, **Rising Star**, and **normal uppercut** all share same keybinds, however there's a clear priority (the further to the left = the more prioritized)
     -   **Silent Cascade > Rising Star > Uppercut**
--   Since 21.03.2026 update, you can't equip following elemental weapons: Frostthorn, First Light, Night Axe, Flareblood Kamas, and any weapon that require element to equip. However, you can still equip: Railblade, Krulian knife, Winter Rifle and Bloodtide Trident.
 
 ## Trivia
 

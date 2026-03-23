@@ -1,6 +1,6 @@
 ---
 title: "Champion's Alloy"
-revid: 201312
+revid: 202188
 source: https://deepwoken.fandom.com/wiki/Champion's_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]
@@ -17,7 +17,7 @@ categories: [Items, Craftable, Ingredients]
 | droppable | Yes |
 | pass down | No |
 | desc | Merged and melded inseparably, the cold forge has turned your trophies into an alloy fit for a champion. |
-| obtainment | Crafted w/ 1x Enmity's Armor Piece, 1x Titus' Armor Piece, 1x The Doom of Caeranthil at the Lost Forge of Leiuna |
+| obtainment | Crafted w/ 1x Enmity's Armor Piece, 1x Titus' Armor Piece, 1x Doom of Caeranthil's Scale at the Lost Forge of Leiuna |
 
 ## Description
 

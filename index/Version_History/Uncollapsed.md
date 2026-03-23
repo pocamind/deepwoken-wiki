@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 198665
+revid: 202165
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -27,7 +27,141 @@ Starting from December 21st, 2025, the game version of the latest patch for an u
 
   
 
-## **February 25th, 2026 | pv\_FEB\_26\_04:42a**
+## **March 21st, 2026 | pv\_MAR\_21\_21:02a**
+
+**Elemental Cantrips**  
+💡 New system: Cantrips. Having any Mantras of a given element equipped means you can use cantrips for that element. Cantrips are a catchall for minor feats available to wielders of different attunements, such as lighting fires, purifying water, etc.  
+💡 New Frostdraw Cantrip: You will now automatically purify certain forms of unsafe water into drinkable water when refilling your canteen. Seawater is still no good, though  
+💡 New Galebreathe Cantrip: If multiple of the same ingredient are close to one another, you'll call forth a wind to gather multiple of them at once. Naturally, this doesn't work for ores  
+💡 New Bloodrend Cantrip: Raw meat is cleansed of all sorts of pathogens, parasites, and poisons, making it safe to eat  
+💡 New Ironsing Cantrip: You're able to mine ores without a pickaxe  
+💡 New Shadowcast Cantrip: You have nightvision similar to the Kiron's aspect passive, enabling you to see better in dark spaces  
+💡 As cantrips, Bloodrend now prevents you from getting visibly bloodied, and Ironsing prevents your outfit from getting visibly torn  
+🔀 Produce Spark is now a Flamecharm and Thundercall cantrip. Explosive Ignition (the voi talent) is now an active talent that works how Produce Spark did. If you had Produce Spark you'll get refunded  
+🔧 Campfires can now be lit by interacting with them  
+  
+**Input Binding & Gamepad Overhaul**  
+💡 Added input rebinding for console  
+💡 Gamepads can now quickly access their hotbar by using their d-pad  
+💡 Camera Lock on gamepad now locks on to your target. Use the right analogue stick to quickly switch between targets  
+💡 Ritual Casting inputs can now be rebinded  
+💡 You can now bind key combinations, e.g. shift+R, LT+X, L2+△ ...  
+🔧 Non-QWERTY keyboards are now supported and should display the correct keys for your inputs  
+🩹 Fishing now works on gamepad  
+🩹 Fixed all bow shots being charged shots on controller  
+🩹 Fixed weirdness with jump input on controller  
+🩹 Tooltips now work on controller  
+🩹 Fixed gamepad sensitivity not being adjustable  
+🩹 Fixed the interact prompt always showing the X button (xbox) or Square button (DualShock/DualSense) even if it was mapped to a different button  
+  
+**UI Improvements**  
+💡 The main menu has been updated to provide more information up front and be easier to traverse with fewer clicks  
+💡 You can now invite players to your Guild and manage your Guild Members through the playerlist. As a result, the Guild Officer tool has been removed  
+💡 Improved talent categorisation in the journal. Now makes it clear where talents come from  
+💡 Guild Banners are now visible in your map and display the current owner and health  
+💡 Job Board PoI's on your map now display level reqs, faction, and region  
+💡 Ally markers on your map have been improved and will now update to include your squad/crew members  
+💡 Sliders in the UI have been updated to have consistent behavior across interfaces  
+  
+**Content & Systems**  
+💡 New Cindergarb talent: Repeated Propulsion  
+💡 Warmode win chests now rarely contain Shiva's Codices  
+💡 You can now gain Shiva's Codex and 2 crowns from getting 5 points in Battle Royale  
+💡 Added New Equipments: Inquisitor Hoods  
+💡 Added New Equipments: Maljuror Jougs/Choker  
+💡 Added New Equipments: Trickster's Scarfs  
+💡 You can now upgrade your Mantras at Mantra Tables. As it turns out, the so-called Songwrights many guilds hired were actually just Mystics in disguise, and have quietly snuck out of Guild Bases to avoid scrutiny (and refunds)  
+🔧 Mantra Tables have been visually reworked into Mantra Lecterns  
+🔧 Added remaining bestiary entry icons (a few courtesy of iiPessimystic)  
+  
+**Balancing & Tweaks**  
+💡 Added Tempo Fatigue. Whenever you vent, your next vent will cost twice as much tempo. This extra amount comes down overtime and scales with the amount of combat tags you have, reflected by the marker in the middle of your tempo bar. This comes with the removal of the vent cooldown meaning you can now vent back to back granted you have the tempo to do so. This was added since tempo is much more abundant now with the changes to getting more tempo on parried/blocked light attacks  
+⚖️ Bounties can no longer be taken for players below your 'experience tier'. Currently, there are 3 'experience tiers' that represent different levels of experience with the game as a whole and are account-wide. Server matchmaking with Quick Join will usually place you in a server with players in your tier. This hard block on bounties is intended to improve the new player experience by preventing new players from being voidwalked by more experienced players. Voidwalking new players isn't fun for the new player OR the voidwalker, so we'd rather introduce ways for Voidwalkers to more easily engage in challenging and fair encounters  
+🔧 Weapon endlag disabling your mantras has been removed and replaced with a new system. If you are currently in weapon endlag and use a mantra during the endlag the mantra's posture damage is reduced. This is relative to how soon after you use the mantra after you swing. Hopefully this is a much more clean attempt to reduce the power of airswinging playstyles  
+⚖️ When a player's life is saved by unlocking their Resonance, it will now proc on-knock effects regardless like Martyr, Repleneshing Knockout, Brassneck, etc. More importantly, this means healthpacks are now awarded to not just the attacker landing the last hit  
+⚖️ Air counter no longer does damage (Cut To The Chase makes air counter 10 true damage), but air counters are no longer blockable  
+⚖️ Autoparry frames increased from 0.3s to 0.45s  
+⚖️ Backstabber changes: No long anim hides / true dazes, doesn't move you as far away from the person you backstabbed  
+⚖️ Bonekeeper spike floor attack can now be jumped (you could jump the hitbox but this makes it specifically a jumpable attack)  
+⚖️ Increased your immunity when you air counter someone (0.3s -> 2s)  
+⚖️ Silentheart can no longer equip certain elemental weapons  
+⏫ Cindergarb Ether regen increased from 20% to 75%  
+⏫ Elder Primadon can now only drop Primadon Pelt / Primal Slab  
+⏫ Increased the drop rate of Ethereal Bone Dust from Ethiron  
+⏫ Jar of Souls now absorbs the souls of monsters  
+⏫ Slightly increased the amount of scaling you get from Songchant by 7.5%  
+⏬ Dash's cooldown now scales with Range modifiers added  
+⏬ Dual Gun buffed speed reduced (15% buff to 10% buff)  
+⏬ Ether gained from Erudition reduced from 30 to 25  
+⏬ Lightning Cloak swingspeed buff drastically reduced  
+⏬ Reduce Close Shave chip damage 39% to 5%  
+⏬ Reduced the amount of extra tempo you gain from light attacks (when either successfully landing it or having it block parry dodged) from Erudition by half  
+⏬ Reduced the light attack damage buff you gain from Ardour (7.5% -> 2.5% on base Ardour, 10% -> 5% on Soulbreaker)  
+⏬ Shiva's Finger max damage boost at 10 fingers reduced from 7.5% per player to 4.5%, requirement for damage boosts to activate increased from 3 to 4 player combat tags  
+⏬ Untrained Fist now deals half damage  
+⏬ Wraithclaw critical attacks posture damage reduced  
+⏬ You can no longer drink potions while in Payback  
+🔧 Bonekeepers have been converted to use the new monster AI  
+🔧 Bounders have been converted to use the new monster AI  
+🔧 Beam Blitz beams go through block / instantly eliminate you akin to circus bombs  
+🔧 Beam Blitz's round duration drastically reduced  
+🔧 Fixed being able to throw Circus bombs outside of Bomb ball  
+🔧 Hero Models updated on Hero Blade Criticals  
+🔧 Increased Mantle of Enmity droprate somewhat  
+🔧 Moved Zana's spawn location to be inside the nomad camp at Etris instead of behind it on the cliff  
+🔧 Removed Mantra Buffering setting due to mantra buffer endlag being removed  
+🔧 Static Fakeout now only procs on players  
+🔧 Updated Aratel Scarves to a nicer fabric texture  
+🔧 Weapon endlag for mantras now gets removed when landing it on block, parry or dodge  
+  
+**Major Optimizations**  
+📰 Performance has been a major focus this month and we've been working to tackle server memory leaks and memory bloat to help improve overall performance of servers.  
+⚙️ Greatly optimized talent handling and memory footprint. Previously, talents would all be stored as instances under your character which gave each player a substantial memory impact just from having a lot of talents  
+⚙️ Optimized how boons/flaws/echo mods are handled greatly  
+⚙️ Greatly optimized mob talent handling  
+⚙️ Reduced server memory usage by moving PoI marker creation to the client  
+⚙️ Reduced server memory usage by moving interactible shop popup creation to the client  
+⚙️ Reduced server memory usage by moving banner UI to the client  
+⚙️ Greatly optimized guild emblem decals on objects like flags, banners, guild bases, etc. Surprisingly memory-intensive!  
+⚙️ Optimized all signs/plinths in the Surface to use decals and not surface UI's. Surface UI's have a very big memory footprint which had a noticeable impact on performance  
+🩹 Fixed a substantial memory leak with loading hairs  
+⚙️ Lionfish no longer use Roblox pathfinding at any point (it's not like they were gonna get up and walk over to you)  
+⚙️ Optimized Bloodwarden's Sense. It was repeatedly applying a status effect and an ESP highlight for every damage tick from blood pools  
+💣 Meteor Isle meteor event has been shelved for now as it's poorly optimised and mostly just a nuisance  
+  
+**Bugfixes**  
+🩹 Fixed not being able to invest your last 15 attribute points without using full trainings  
+🩹 Fixed rifle and one hand gun receiving the dual gun speed buff  
+🩹 Readded being able to keep running when casting a mantra / being able to slide mid mantra cast, this was unintentionally removed  
+🩹 Fixed the passage of day and night coming to a halt  
+🩹 Bounty posters are now cleared up immediately when a player leaves the server  
+🩹 Fixed overlapping bounty posters  
+🩹 Fixed some cases where invisible characters wouldn't become visible again if you had a lagspike  
+🩹 Fixed Ring of Wisps  
+🩹 Fixed Paralytic Dust having a visible hitbox  
+🩹 Fixed No Holds Barred preventing ally markers from being created  
+🩹 Fixed another bug causing people to die in Circus  
+🩹 Possibly fixed an issue where you could spawn in and not be able to be put in danger until you leave/respawn  
+🩹 Fixed Dual Guns still having old air counter  
+🩹 Fixed Brutes and Broodlords not using their leap attack  
+🩹 Fixed Broodlords not using their skipper projectile attack  
+🩹 Fixed Exoskeleton giving you up to 17.5% physical resistance with more Fortitude instead of capping out at 10% physical at 40 Fortitude 💀  
+🩹 Fixed Eyes of Ethiron's sheathed position  
+🩹 Fixed Mirror Illusion and Illusory Counter Reversal Spark clones not working  
+🩹 Fixed Glacial Mobility, now just requires you to slide instead of slide jumping to be easier to use as well  
+🩹 Fixed Silentheart not doing extra damage against PvE and gave it a little bit of a buff  
+🩹 Fixed Stormchanter's Raiments not giving you Circuit Breaker  
+🩹 Fixed Circuit Breaker's secret interaction not healing you  
+🩹 Fixed Daggers' uppercut doing true damage  
+🩹 Fixed Whistleguard causing weird interactions with potions, instead of not letting you drink potions, Whistleguard will now be canceled if you start drinking a potion  
+🩹 Fixed Blood Transfusion not reflecting a few effects  
+🩹 Fixed some issues with the equipment placement editor  
+🩹 Fixed ring stacking  
+🩹 Fixed players being able to break the Forge door, rendering the Forge unable to be used  
+🩹 Added a failsafe for the Layer 2 void for clipping beneath it  
+🩹 Fixed crewmates/squadmates not being considered allies by some checks
+
+## **February 25th, 2026 | pv\_FEB\_27\_02:16a**
 
 **Content & Systems**  
 🔧 World Events now occur every 30 minutes  
@@ -91,6 +225,16 @@ Starting from December 21st, 2025, the game version of the latest patch for an u
 🔧 Improved hair textures  
 🩹 Fixed Maverick  
 🩹 Fixed automatically training Willpower in voidzones
+
+### _**Patch 3.2.6a**_
+
+**Hotfixes**  
+🩹 Fixed mobs not being able to drop loot  
+🩹 Fixed not being able to withdraw and deposit items (Banker)  
+🩹 Fixed not being able to deposit Forge weapons into bank  
+🩹 Fixed not being able to individually dye pieces of Hair  
+🩹 Fixed not being able to use Suffocated or Kyrsan Chill enchant stones when beating the Kyrsgarde Champion  
+🩹 Familiar Assassin's Armor no longer requires an emerald to craft it
 
 ## **February 16th, 2026 | pv\_FEB\_18\_00:46a**
 

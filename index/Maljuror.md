@@ -1,6 +1,6 @@
 ---
 title: Maljuror
-revid: 201940
+revid: 202166
 source: https://deepwoken.fandom.com/wiki/Maljuror
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Random Encounters, The Starkindred Church, Humanoids with Unobtainable Outfits]
@@ -11,7 +11,7 @@ categories: [Enemies, Random Encounters, The Starkindred Church, Humanoids with 
 | Maljuror | |
 |---|---|
 | health | ~2000 |
-| drops | Sparks, Kindred Edict, Maljuror Jougs |
+| drops | Sparks, Kindred Edict, Maljuror Jougs, Maljuror Choker |
 | weapon | Kindred Edict |
 | moves | Assault, Critical, Fire Blade, Flaming Scourge, Hollow Embrace |
 

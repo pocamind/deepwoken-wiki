@@ -1,6 +1,6 @@
 ---
 title: Ethereal Bone Dust
-revid: 201148
+revid: 202184
 source: https://deepwoken.fandom.com/wiki/Ethereal_Bone_Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients]
@@ -22,15 +22,15 @@ categories: [Items, Ingredients]
 
 ## **Description**
 
-Ethereal Bone Dust is a crafting ingredient by the [Scion of Ethiron](Scion_of_Ethiron.md).
+Ethereal Bone Dust is a crafting ingredient that is dropped by the [Scion of Ethiron](Scion_of_Ethiron.md).
 
 It is unbankable and undroppable.
 
 ## Crafting
 
--   [Ethereal Osseus Plate](Ethereal_Osseous_Plate.md)
-    1.  1 [Dread Serpent’s Tooth](<Dread_Serpent's_Tooth.md>) + 1 Ethereal Bone Dust + 1 [Giant Femur](Giant_Femur.md) at the [Lost Forge](Lost_Forge_of_Leiuna.md)
+-   [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)
+    1.  1 [Dread Serpent's Tooth](<Dread_Serpent's_Tooth.md>) + 1 Ethereal Bone Dust + 1 [Giant Femur](Giant_Femur.md) at the [Lost Forge](Lost_Forge_of_Leiuna.md)
 -   [Hardened Enforcer Plate](Hardened_Enforcer_Plate.md)
-    1.  1 [Enforcer Plate](Enforcer_Plate.md) + 1 [Enmity’s Armour Piece](<Enmity's_Armor_Piece.md>) + 1 Ethereal Bone Dust at the Lost Forge
--   [Hardened Enforcer Plate](Hardened_Enforcer_Boots.md)
-    1.  1 [Enforcer Plate](Enforcer_Boots.md) + 1 [Enmity’s Armour Piece](<Enmity's_Armor_Piece.md>) + 1 Ethereal Bone Dust at the Lost Forge
+    1.  1 [Enforcer Plate](Enforcer_Plate.md) + 1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) + 1 Ethereal Bone Dust at the [Lost Forge](Lost_Forge_of_Leiuna.md)
+-   [Hardened Enforcer Boots](Hardened_Enforcer_Boots.md)
+    1.  1 [Enforcer Boots](Enforcer_Boots.md) + 1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) + 1 Ethereal Bone Dust at the [Lost Forge](Lost_Forge_of_Leiuna.md)
