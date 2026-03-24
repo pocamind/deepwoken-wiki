@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 202103
+revid: 202549
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Starkindred Church]
@@ -25,7 +25,9 @@ categories: [Oaths, The Starkindred Church]
 
 ― Drinking the Holy Ichor
 
-The Starkindred Church is a malevolent cult that worships [Celestials](Celestial.md) and believes that they are capable of "transcending" by consuming parts of them. This very Oath is a result of drinking the Holy Ichor, the blood of a Celestial, and cannibalizing several Starkindred. Drinking the Ichor Seems to give the consumer some form of higher awareness but leaves their body in constant agonizing pain. It is the Celestial equivalent of becoming a [Deepwoken](Deepwoken.md).
+[The Starkindred Faith](https://deepwoken.fandom.com/wiki/Glossary#The_Starkindred_Faith) is one of the major religions on Lumen, worshipping the [Celestials](Celestial.md). It's foothold and sphere of influence is strongest in the [Western Luminant](https://deepwoken.fandom.com/wiki/Luminants#Western_Luminant), where it's military strength rivals that of the Hundred Legions. It's influence appears to be much weaker in the Eastern Luminant, where it attacks more like an esoteric cult.
+
+This particular Oath is a result of drinking the Holy Ichor, the blood of a Celestial. The Ichor seems to give the consumer some form of higher awareness but leaves their body in constant agonizing pain. It is the Celestial counterpart to becoming a [Deepwoken](Deepwoken.md).
 
 ## Obtainment
 

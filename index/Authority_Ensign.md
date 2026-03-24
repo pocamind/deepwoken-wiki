@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 202241
+revid: 202550
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -176,7 +176,7 @@ Through completing enough Missions, you will be promoted. Each promotion comes w
 
 Faction Talents cannot be exchanged for other Faction Talents, so choose wisely, as you will not be able to change them later. Every Faction Talent available to you will appear upon every promotion, which means you will not be locked out of a talent due to a limit of talents appearing like a [normal talent hand](Whisper_Draw.md). You gain a Faction Talent hand upon every promotion, which means you get 1 talent from going from **Private** to **Corporal**, and **Corporal** to **Lance Corporal**, totalling to two talents. You do not gain a Faction Talent hand upon entering a division.
 
-In practice, this means that you are forced to pick 2 generic enlistment talents before you can start picking division-exclusive talents. How many division-exclusive (or more generic enlistment) talents you can pick depend on your chosen division. As you do not gain a talent hand upon entering a [division](#divisions), how many ranks there are after your first division rank is how many talents you get. The amount is 3 for the [Command Division](#command-division), and 2 for both the [Inquisition Division](#inquisition-division) and the [Shock Corps Division](#shock-corps-division).
+In practice, this means that you are forced to pick 2 generic enlistment talents before you can start picking division-exclusive talents. How many division-exclusive (or more generic enlistment) talents you can pick depend on your chosen division. As you do not gain a talent hand upon entering a [division](#divisions), how many ranks there are after your first division rank is how many talents you further get. The amount is 3 for the [Command Division](#command-division), and 2 for both the [Inquisition Division](#inquisition-division) and the [Shock Corps Division](#shock-corps-division). In total, from **Private** to the highest rank, choosing to enter the Command Division gets you 5 Faction Talents in total, and both the Inquisition and Shock Corps Division gets you 4 Faction Talents in total.
 
 Enlistment Ranks
 

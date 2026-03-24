@@ -1,9 +1,9 @@
 ---
 title: Bestiary
-revid: 200142
+revid: 202547
 source: https://deepwoken.fandom.com/wiki/Bestiary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics, Monsters, Bosses]
+categories: [Mechanics]
 ---
 
 # Bestiary
@@ -387,6 +387,4 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
 
 ## Trivia
 
--   As of June 23rd, 2025, 7 out of the 29 current entries are missing a picture/don't have one at all.
-    -   These include the following: Sworn Angel, Terrapod, Crustaceous Rex, Duke Ishamon Erisia, Scion of Ethiron, Maestro Evengarde Rest, and The Ferryman.
 -   Several monsters don't have or don't contribute to a Bestiary entry, these include: [Crab](Crab.md), [Mudskipper Knight](Mudskipper_Knight.md), [Rogue Construct](Rogue_Construct.md), [Hive Construct](Hive_Construct.md), [Carbuncle](Carbuncle.md), and [Diver Husk](Diver_Husk.md).

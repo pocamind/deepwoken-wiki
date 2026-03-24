@@ -1,6 +1,6 @@
 ---
 title: Instruments
-revid: 202412
+revid: 202495
 source: https://deepwoken.fandom.com/wiki/Instruments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items, Event Only Content, Hallowtide]
