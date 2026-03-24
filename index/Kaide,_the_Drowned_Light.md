@@ -1,9 +1,9 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 201893
+revid: 202388
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lightborn NPCs, Pages with broken file links, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Layer 2, Floor 2]
+categories: [Lightborn NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Layer 2, Floor 2]
 ---
 
 # Kaide, the Drowned Light
@@ -292,4 +292,5 @@ This dialogue is unlocked if the player has a [Vortex Echo](Vortex_Echo.md) equi
 
 ## References
 
-1.  [↑](#cite-ref-1) File:New lightborn lore just dropped chat.png
+1.  [↑](#cite-ref-1) NPC dialogue: [Mikhail Spellhardt](Mikhail_Spellhardt.md)  
+    _I suppose it's natural to your kind, but for us [Lightborn](Glossary.md#lightborn), the passage of time isn't really a concern. We don't age quite like your lot do, and we appear ageless. But Galpin, well... Lysander says that if something weighs heavy on the heart and soul of one of our kind, their appearance changes to reflect their feelings._

@@ -1,6 +1,6 @@
 ---
 title: Loading Screen
-revid: 200241
+revid: 202458
 source: https://deepwoken.fandom.com/wiki/Loading_Screen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -134,7 +134,7 @@ You can see how much Armor Resistance you have total in your Journal.
 -   After standing still in one spot for 15 seconds while injured, you'll start to Recuperate, catching your breath and accelerating your natural healing.
 -   Certain spots around the world are better for fishing. If you find water that splashes and ripples, you've found an especially good spot!
 -   Damage Multipliers have a soft limit at +25%, where the effectiveness of damage multipliers is halved. The hard limit is at +50% damage effectiveness, achieved by having a total damage multiplier of +100%.
--   Monsters do not block and therefore do not suffer posture damage. They do, however, have Armor just like players do. Damage resisted by their Armor depletes their Durability, and once broken the monsters will be stunned for several seconds as their Armor recovers.
+-   Monsters do not block and therefore do not suffer posture damage. They do, however, have Armor just like players do. Damage resisted by their Armor depletes their Durability, and once broken the monster will be stunned for several seconds as their Armor recovers.
 -   In trouble with the law? Some less scrupulous individuals may be willing to take a bribe to fix your reputation...
 -   Parrying a Mantra will absorb a portion of the Ether used to cast it.
 -   Different Origins allow for different styles of progression, spicing up your playthrough!

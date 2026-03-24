@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 201373
+revid: 202380
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -71,7 +71,7 @@ Dialogue: [Jeremiah](Jeremiah.md) when giving a [Deepwoken Hood](Deepwoken_Hood.
 -   The names of Drowned Gods are often spoken in hushed tones or through euphemisms in fear that it may bring them closer.
 -   Worship of Drowned Gods is taboo across most of [Lumen](#lumen), with their faithful being branded as cultists and heretics.
 
-Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [Deepwoken](#deepwoken), [Ethiron, the Maelstrom's Eye](#ethiron-the-maelstroms-eye), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance), [Krulians](#krulians), [The Vents, the Third Layer](#the-vents-the-third-layer), [Yun'Shul, Keeper of Hearts](#yunshul-keeper-of-hearts)
+Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Lance's Brother](<Lance's_Brother.md>) | Books: | Glossary Entries: [Deepwoken](#deepwoken), [Ethiron, the Maelstrom's Eye](#ethiron-the-maelstroms-eye), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance), [Krulians](#krulians), [The Vents, the Third Layer](#the-vents-the-third-layer), [Yun'Shul, Keeper of Hearts](#yunshul-keeper-of-hearts)
 
 -   The Drowned God [Ethiron](#ethiron-the-maelstroms-eye) is thought to preside over [Second Layer](#the-eternal-gale-the-second-layer), granting it the moniker of 'The Eternal Gale'.
 
@@ -414,7 +414,7 @@ Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Celes
 -   Vows are poorly understood by the people of the [Resurgence](#the-resurgence), but are still a fundamental part of their daily lives.
 -   Vows do not have to be made with others, and can even be made with oneself. Indeed, the powerful magic of an [Oath](#oaths) is facilitated by such a Vow.
 
-Dialogue: [Adrofalis](Adrofalis.md), [Delta](Delta.md), [Eiris](Eiris.md), [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md), [Samael](Samael.md), [Sordino](Sordino.md), [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) | Books: [Jericho's Journal](<Jericho's_Journal.md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Aeod, the Waking God](#aeod-the-waking-god), [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [Lifeweave / Lifewoven](#lifeweave--lifewoven), [Oaths](#oaths), [The Drowned City of Celtor](#the-drowned-city-of-celtor)
+Dialogue: [Adrofalis](Adrofalis.md), [Delta](Delta.md), [Eiris](Eiris.md), [Lance's Brother](<Lance's_Brother.md>), [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md), [Samael](Samael.md), [Sordino](Sordino.md), [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) | Books: [Jericho's Journal](<Jericho's_Journal.md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Aeod, the Waking God](#aeod-the-waking-god), [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [Lifeweave / Lifewoven](#lifeweave--lifewoven), [Oaths](#oaths), [The Drowned City of Celtor](#the-drowned-city-of-celtor)
 
 -   Steward Bridges posited in his work 'Vows by the Sea: Inheritance' that the [Aspects](#aspects) of [Lumen](#lumen) may be the result of a [Hereditary Vow](#hereditary-vow).
 

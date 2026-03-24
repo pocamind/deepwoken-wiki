@@ -1,6 +1,6 @@
 ---
 title: Flameguard Pauldrons
-revid: 198373
+revid: 202468
 source: https://deepwoken.fandom.com/wiki/Flameguard_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Pauldrons]
 | type | Arms |
 | rarity | Common |
 | selling price | 7 |
-| requirements | None |
+| requirements | PWR 8 |
 | weight | 2 |
 | innate stats | +1 Rare Pip |
 | innate talent | N/A |

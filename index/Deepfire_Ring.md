@@ -1,6 +1,6 @@
 ---
 title: Deepfire Ring
-revid: 198982
+revid: 202476
 source: https://deepwoken.fandom.com/wiki/Deepfire_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -12,8 +12,8 @@ categories: [Equipment, Rings]
 |---|---|
 | type | Ring |
 | rarity | Legendary |
-| selling price | 25 |
-| requirements | Power 5 |
+| selling price | 50 |
+| requirements | PWR 5 |
 | weight | 0.1 |
 | bankable | Yes |
 | droppable | Yes |

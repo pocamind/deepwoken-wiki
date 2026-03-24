@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 201996
+revid: 202395
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -523,7 +523,7 @@ Charisma
 ## Other
 
 -   **[Meteor Isle](Meteor_Isle.md) Meteor Event -** An event that would send a large blue meteor similar to the ones of the [Stone Knight](Stone_Knight.md) event crashing down onto the isle. It would spawn a few [Mudskipper Knights](Mudskipper_Knight.md) and link the player to the meteor with a blue chain. This event was shelved due to it being poorly optimized and an overall nuisance.
--   **[Songwright](Songwright.md) -** Songwrights allowed the player to upgrade their Mantras inside of the [Guild Base](Guild_Bases.md) for a 50% cost increase. However, their function was added to the [Mantra Table](Mantra_Lectern.md), casting them aside to the darkness like the Mystics.
+-   **[Songwright](Songwright.md) -** Songwrights allowed the player to upgrade their Mantras inside of the [Guild Base](Guild_Bases.md) for a 50% cost increase. However, their function was added to the [Mantra Lectern](Mantra_Lectern.md), casting them aside to the darkness like the Mystics.
 -   **Lockers -** These were pseudo [campfires](Campfire_Pit.md) that let you access your [Mantras](Mantras.md) and [Talents](Talents.md), while not actually healing you. They were mostly placed exclusively in [The Depths](First_Layer.md), and were removed on the February 16th, 2026 update due to their use no longer being needed.
 -   **[False Memory](False_Memory.md) -** This weapon was obtained through the [Hippocampal Pool](Hippocampal_Pool.md) to let players replace their equipped weapon with another to unequip it and pass it down. It was removed on the Feburary 16th, 2026 update due to players gaining the ability to remove their weapon and swap to fists from the Journal.
 -   **[Ancient Rotlands](Ancient_Rotlands.md) Brains -**

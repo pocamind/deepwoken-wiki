@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Lightning"
-revid: 202134
+revid: 202460
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Lightning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Medium Weapons, "Weapons with Multi-Hit Criticals", Hero Blades]

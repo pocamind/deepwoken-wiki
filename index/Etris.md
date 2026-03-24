@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 200868
+revid: 202386
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant, Territory of Etrea]
@@ -89,7 +89,7 @@ Etris is the capital of the Kingdom of [Etrea](Etrea.md), being on top of a tall
 
 -   [Bookkeeper Andros](Bookkeeper_Andros.md) can be found here.
 -   A permanent [Campfire](Campfire_Pit.md) can be found here.
--   Inside is a [Mantra Table](Mantra_Lectern.md) used to modify [Mantras](Mantras.md).
+-   Inside is a [Mantra Lectern](Mantra_Lectern.md) used to modify [Mantras](Mantras.md).
 
 ### General Store
 

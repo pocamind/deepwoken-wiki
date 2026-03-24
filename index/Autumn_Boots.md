@@ -1,6 +1,6 @@
 ---
 title: Autumn Boots
-revid: 176347
+revid: 202472
 source: https://deepwoken.fandom.com/wiki/Autumn_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -13,9 +13,9 @@ categories: [Equipment, Legs, Boots]
 | type | Legs |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | None |
+| requirements | PWR 6 |
 | weight | 1 |
-| innate stats | +3 Health, +1 Rare Pip |
+| innate stats | +3 Health, +2 Rare Pips |
 | innate talent | N/A |
 | set | Autumn Pauldrons, Autumn Boots |
 | set talent | N/A |

@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 193535
+revid: 202394
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -93,12 +93,12 @@ _For the Deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.0s | [Crafting](Crafting_Recipes.md) Success |
 |  | 0.8s | [Crafting](Crafting_Recipes.md) Failure \[1\] |
 |  | 0.8s | [Crafting](Crafting_Recipes.md) Failure \[2\] |
-|  | 0.4s | [Mantra Table](Mantra_Lectern.md) Place (1) |
-|  | 0.4s | [Mantra Table](Mantra_Lectern.md) Place (2) |
-|  | 0.6s | [Mantra Table](Mantra_Lectern.md) Place (3) |
-|  | 3.0s | [Mantra Table](Mantra_Lectern.md) Buildup |
-|  | 3.0s | [Mantra Table](Mantra_Lectern.md) Failure |
-|  | 3.1s | [Mantra Table](Mantra_Lectern.md) Success |
+|  | 0.4s | [Mantra Lectern](Mantra_Lectern.md) Place (1) |
+|  | 0.4s | [Mantra Lectern](Mantra_Lectern.md) Place (2) |
+|  | 0.6s | [Mantra Lectern](Mantra_Lectern.md) Place (3) |
+|  | 3.0s | [Mantra Lectern](Mantra_Lectern.md) Buildup |
+|  | 3.0s | [Mantra Lectern](Mantra_Lectern.md) Failure |
+|  | 3.1s | [Mantra Lectern](Mantra_Lectern.md) Success |
 |  | 0.6s | [Cauldron](Alchemy.md) (Ingredient Added) |
 |  | 0.9s | [Cauldron](Alchemy.md) Ingredient Added (Alt) |
 |  | 19.7s | [Cauldron](Alchemy.md) Bubbling Loop \[1\] |

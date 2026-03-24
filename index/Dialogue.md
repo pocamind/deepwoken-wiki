@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 196034
+revid: 202373
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -14,29 +14,15 @@ categories: [Mechanics]
 
 ## Description
 
-Deepwoken is littered with Lore and Dialogue; and is best to not skip the entirety of them because they usually give important information (Such as the Etrean in both Etris and Isle of Vigils in the Docks).
-
-Some NPCs requires an Attribute Check to proceed through their dialogue (Such as the Flameworshipper in Etrea, which has 2 unique dialogue options that requires Charisma or Flamecharm).
-
-NPCs also have opinions of your character, such as Vigil Guards reacting positively to you because you performed a variety of quests in the Isle of Vigils. The same can occur negatively and attack you on sight if you performed crimes such as murdering innocent NPCs or Assaulting a Vigil Guard.
-
-Reputation is a thing in Deepwoken. Depending on your actions, such as having a reputable face in the Kingdom of Etrea, you unlock new dialogue on certain NPCs, and even quests.
-
-  
+Dialogue is present throughout _Deepwoken_ as it can contain lore, unique interactions and paths, and other tips that would not be found without speaking with NPCs. Guards of [Factions & Groups](Factions_&_Groups.md) will respond differently to you depending on your [Reputation](Reputation.md) with their corresponding faction.
 
 ## Attribute Check Requirements
 
-[Ploom, The Flameworshipper (Etris)](Etris.md#flamecharmer-ploom-quest) - Flamecharm Requirement: 40 | Charisma Requirement: 50
-
-[Karliah, the Adret Diver (Etris)](Etris.md#diver-escort-quest) - Charisma Requirement: 10 (Notes) / 20 (Persuade) / 50 (Rethink)
-
-[Hobo](Hobo.md) ([Erisia](Erisia.md)), Chest Dialogue - Charisma Requirement: 50
-
-Akira, Black Diver (The Depths, First Layer - Charisma Requirement: ~100)
+[Ploom](Ploom.md) - Flamecharm Requirement: 40 | Charisma Requirement: 50 [Karliah](Karliah.md) - Charisma Requirement: 10 (Notes) / 20 (Persuade) / 50 (Rethink) [Hobo](Hobo.md) - Charisma Requirement: 50 [Akira](Akira.md) - Charisma Requirement: ~100
 
 * * *
 
-## [Etreaiconfaction](Etrea.md) Etrea Reputation
+## [Etreaiconfaction](Etrea.md) Etrea
 
 ###### Read more about Reputation [here](Reputation.md)
 
@@ -46,11 +32,6 @@ Talking to Guards
 -   Good Reputation - "Pleasant journeys, friend." | "Welcome, friend of Etrea."
 -   Neutral Reputation - "Welcome, traveler. keep out of trouble for me, won't you?" | "Greetings, traveller. Don't cause any trouble, alright?"
 -   Unfriendly Reputation - "Move along, outsider. I don't have time for you." | _\*The guard glances at you with distaste, but does not block your path.\*_
-
-Talking to Nerin
-
--   Good Reputation - _\*The guard gives you a crooked smile.\*_ "Have a nice day friend. If you ever get into trouble, you know who to look for..."
--   Hostile Reputation - "Ah, it seems you've made quite a name for yourself around these parts, friend."
 
 ## [Navaeiconfaction](The_Children_of_Navae.md) Children of Navae
 

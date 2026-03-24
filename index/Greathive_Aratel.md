@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 200492
+revid: 202385
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, The Hive]
@@ -69,7 +69,7 @@ Fountain in the Hidden Village
 #### Library
 
 -   [Gear Cabinet](Training_Gear.md) to buy training equipment.
--   There is a [Mantra Table](Mantra_Lectern.md) near the entrance.
+-   There is a [Mantra Lectern](Mantra_Lectern.md) near the entrance.
 
 ### Root Plaza
 

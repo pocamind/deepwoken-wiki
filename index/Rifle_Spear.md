@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 201655
+revid: 202362
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Spears, Rifles, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
@@ -20,7 +20,7 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Spears, Rif
 | range | 9 Lunge |
 | swing speed | 0.9x |
 | attack duration | 0.7s |
-| penetration | 40% |
+| penetration | 25% |
 | special effect | Procs all Rifle and Spear exclusive Talents. |
 | m.equip | No |
 | m.extract | No |

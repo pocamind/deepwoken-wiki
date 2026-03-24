@@ -1,6 +1,6 @@
 ---
 title: Enforcer Plate
-revid: 201221
+revid: 202477
 source: https://deepwoken.fandom.com/wiki/Enforcer_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Plates]
 | type | Arms |
 | rarity | Uncommon |
 | selling price | 14 |
-| requirements | Power 8 |
+| requirements | PWR 8 |
 | weight | 2 |
 | innate stats | +1 Rare Pip, +1 Legendary Pip |
 | innate talent | Berserker |

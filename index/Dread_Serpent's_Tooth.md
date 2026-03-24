@@ -1,6 +1,6 @@
 ---
 title: "Dread Serpent's Tooth"
-revid: 195014
+revid: 202482
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent's_Tooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
@@ -28,5 +28,4 @@ The **Dread Serpent's Tooth** is used to gain the "[Dread Breath](Monster_Mantra
 ## Trivia
 
 -   The old model for the Dread Serpent's Tooth was a [Dark Feather](Dark_Feather.md).
-    -   Since the Skyreap Blade has feathers on it, with the blade being made from Edenkite bone, it's entirely possibly the Dread Serpent also has black feathers. This would not explain, however, why it was called a tooth.
 -   The new model for the Dread Serpent's Tooth is a stretched [Thresher Spine](Thresher_Spine.md) without the texture.

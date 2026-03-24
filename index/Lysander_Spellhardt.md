@@ -1,9 +1,9 @@
 ---
 title: Lysander Spellhardt
-revid: 201852
+revid: 202390
 source: https://deepwoken.fandom.com/wiki/Lysander_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lightborn NPCs, Pages with broken file links, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family, Humanoids with Unobtainable Outfits]
+categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family, Humanoids with Unobtainable Outfits]
 ---
 
 # Lysander Spellhardt
@@ -271,10 +271,13 @@ When you complete his quest, he will say this.
 -   There used to be an option to buy [Void Feathers](Dark_Feather.md#void-feather) and a random [Deep Gem](Deep_Gems.md), though the latter was replaced with buying a random [Relic](Relics.md).
     -   Buying a random [Relic](Relics.md) used to cost 30 [Joy](Joy.md), and had both Rain and Void spire relics in its lootpool.
 -   [Mantle of Enmity](Mantle_of_Enmity.md), [Fauld of Enmity](Fauld_of_Enmity.md) and [Imperator's Fury](<Imperator's_Fury.md>) used to be obtainable from Lysander Spellhardt.
--   According to [Mikhail](Mikhail_Spellhardt.md), Lysander is as old, if not older, than [Galpin](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), despite one looking much older than the other. Also according to Mikhail, this is because a [Lightborn](Lightborn.md)'s appearance reflects their feelings, which is why Galpin is so old as he reminisces about their homeland a lot.[\[3\]](#cite-note-3)
+-   According to [Mikhail Spellhardt](Mikhail_Spellhardt.md), Lysander is as old, if not older, than [Galpin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), despite one looking much older than the other. Also according to Mikhail, this is because a [Lightborn](Lightborn.md)'s appearance reflects their feelings, which is why Galpin is so old as he reminisces about their homeland a lot.[\[3\]](#cite-note-3)
 
 ## References
 
-1.  [↑](#cite-ref-1) [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md)
-2.  [↑](#cite-ref-2) [Brasidas Spellhardt](Brasidas_Spellhardt.md)
-3.  [↑](#cite-ref-3) File:New lightborn lore just dropped chat.png
+1.  [↑](#cite-ref-1) NPC dialogue: [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md)  
+    _However, fine Lysander hath appointed himself the Minister of Treats..._
+2.  [↑](#cite-ref-2) NPC dialogue: [Brasidas Spellhardt](Brasidas_Spellhardt.md)  
+    _But I bet you're thinking of older brother Lysander, aren't you? Birds of a feather and all that, as they say._
+3.  [↑](#cite-ref-3) NPC dialogue: [Mikhail Spellhardt](Mikhail_Spellhardt.md)  
+    _Lysander is around his age, if not older... \*He pauses thoughtfully.\* ...I suppose it's natural to your kind, but for us Lightborn, the passage of time isn't really a concern. We don't age quite like your lot do, and we appear ageless. But Galpin, well... Lysander says that if something weighs heavy on the heart and soul of one of our kind, their appearance changes to reflect their feelings._

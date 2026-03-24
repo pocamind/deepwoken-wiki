@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 200653
+revid: 202471
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Disaster, Monsters, Bosses]
@@ -194,7 +194,9 @@ Exhaustive Loot Table
 -   Given its drops, design and the Murmur: Ardour orb, it can be reasonably assumed that this creature is somehow related to the Dread Serpent. possibly a stronger variant or mutation.
 -   The player must defeat this boss when it isn't firing it's Luminant Beam at Etris Docks to obtain the fist style "[Fang and Coil](Fang_and_Coil.md)" from [Vesque](Vesque.md).
 -   It is internally referred to as ".kaijuu".
+-   The Doom of Caeranthil's design is ripped from Pinterest.[\[2\]](#cite-note-2)
 
 ## References
 
 1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2)

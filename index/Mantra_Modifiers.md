@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 194599
+revid: 202384
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Mantras, Materials]
@@ -11,9 +11,9 @@ categories: [Mechanics, Mantras, Materials]
 _**FOREWORD**: **An up-to-date spreadsheet for Mantras and their compatible Mantra Modifiers can be found [\[here\]](https://docs.google.com/spreadsheets/d/1IE3KIyizxEgHfTsasO0hCGvch6yNofdgNlRR__jA7jo/edit?usp=sharing)**_  
 _The Outdated one can be found [\[here\]](https://docs.google.com/spreadsheets/d/1yOOKJhihxX_1zvihTOwFVrm3XJpGFPnqJ5W53497LeI/edit#gid=0), just incase._
 
-**Mantra Modifiers**, also known as **Mantra Ingredients** or **Mantra Materials**, are items that can be used to expand the potential of the player's [Mantras](Mantras.md). Each modifier has an effect that it can positively/negatively attribute to the player's Mantra. These can easily be found by killing most [enemies](Enemies.md), and can also be found in [Erisia](Erisia.md) [Chests](Chests_&_Sacks.md). In order to add Mantra Modifiers, a [Mantra Table](Mantra_Lectern.md) is required.
+**Mantra Modifiers**, also known as **Mantra Ingredients** or **Mantra Materials**, are items that can be used to expand the potential of the player's [Mantras](Mantras.md). Each modifier has an effect that it can positively/negatively attribute to the player's Mantra. These can easily be found by killing most [enemies](Enemies.md), and can also be found in [Erisia](Erisia.md) [Chests](Chests_&_Sacks.md). In order to add Mantra Modifiers, a [Mantra Lectern](Mantra_Lectern.md) is required.
 
-There are currently three types of mantra modifiers; Regular, [Deep Gems](Deep_Gems.md), and Sparks. Regular and Spark modifiers are used at a Mantra Table and are consumables. The player will receive the mantra modifiers (excluding sparks) back upon using an Amnesic Driftwood. Deep Gems can be equipped at a Campfire or from your inventory in its insignia slot. Recalling a Mantra with a Deep Gem will return the Deep Gem to your inventory.
+There are currently three types of mantra modifiers; Regular, [Deep Gems](Deep_Gems.md), and Sparks. Regular and Spark modifiers are used at a Mantra Lectern and are consumables. The player will receive the mantra modifiers (excluding sparks) back upon using an Amnesic Driftwood. Deep Gems can be equipped at a Campfire or from your inventory in its insignia slot. Recalling a Mantra with a Deep Gem will return the Deep Gem to your inventory.
 
 Glass Stones and Magnifying Stones seem to have vastly different effects on mantras compared to other mantra modifiers.
 
@@ -1731,7 +1731,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 ## Tips/Trivia
 
 -   Mantras that aren't written/listed are likely incompatible.
--   Clicking a mantra modifier (not Deep Gems) will produce small white dots that travel in the direction of the nearest mantra table.
+-   Clicking a mantra modifier (not Deep Gems) will produce small white dots that travel in the direction of the nearest Mantra lectern
 -   A good place to farm for low-level mantra modifiers, especially Sparks, is [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). A gargantuan amount of [Mindless Servants](Mindless_Servant.md) and [Brainsuckers](Brainsucker.md) spawn there when entering the manor. (This method doesn't really work anymore, the [Mindless Servants](Mindless_Servant.md) aren't dropping consistent loot, only sometimes.)
 -   There is an NPC called the [Den Master](Den_Master.md) that sells mantra modifiers including Cloudstones, Amnesic Driftwood, Drift Shards, and Crystal Lenses for 10 notes each. He's located in a secret cave near Etris near sea level.
 -   A good way to obtain any spark you want guaranteed is going to [Ata](Ata.md) at [Meteor Isle](Meteor_Isle.md). She sells any spark for 350 each.

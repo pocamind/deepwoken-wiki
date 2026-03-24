@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 202254
+revid: 202478
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, Equipment, In progress with VOI reason]
@@ -280,10 +280,6 @@ _+Talent: Iron Gut_
 
  | Variants:  
 Normal & Big |
-| File:Black Hood.png | Black Hood  
-(**Series**) | _+1 Posture_  
-_+4% Stealth_ | Variants:  
-Black & Brown |
 |  | [Blackleaf Helm](Blackleaf_Helm.md)  
 (**Series**) | _+5 Health_  
 _+1 Posture_
@@ -310,15 +306,10 @@ Head: [Blacksteel Helm](Blacksteel_Helm.md)
 Arms: [Blacksteel Pauldrons](Blacksteel_Pauldrons.md)
 
  |
-| File:Black Strapped Hat.png | [Black Strapped Hat](Strapped_Hat.md)  
-(**Series**) | _+3 Health_
-
-+2 Rare Pips  
-_+Talent: The Exterminator_  
-**Requires Power 6**
-
- | Variants:  
-Black & Double |
+| File:Black Hood.png | Black Hood  
+(**Series**) | _+1 Posture_  
+_+4% Stealth_ | Variants:  
+Black & Brown |
 |  | [Bloodfeather Cowl](Bloodfeather_Cowl.md)  
 (**Set**) | _+5% Shadow Armor_  
 _+6% Stealth_
@@ -860,6 +851,15 @@ Arms: [Specialist Plate](Specialist_Plate.md)
 Legs: [Specialist Boots](Specialist_Boots.md)
 
  |
+| File:Black Strapped Hat.png | [Black Strapped Hat](Strapped_Hat.md)  
+(**Series**) | _+3 Health_
+
++2 Rare Pips  
+_+Talent: The Exterminator_  
+**Requires Power 6**
+
+ | Variants:  
+Black & Double |
 |  | [Ten-Gallon Hat](Ten-Gallon_Hat.md)  
 (**Set**) | _+2 Posture_
 
@@ -897,7 +897,8 @@ Tillian's & Jester's |
 
 +1 Uncommon Pip  
 +1 Rare Pip  
-_+Talent: Give and Take_
+_+Talent: Give and Take_  
+**Requires Power 6**
 
  | Variants:  
 Beige, Burgundy & Slate
@@ -1424,7 +1425,8 @@ Legs: [Fur Boots](Fur_Boots.md)
 (**Set**) | _+3 Health_  
 _+1 Posture_
 
-+1 Rare Pip
++1 Rare Pip  
+**Requires Power 5**
 
  | Set: Gladiator  
 Head: [Gladiator Helm](Gladiator_Helm.md)  
@@ -2098,7 +2100,8 @@ Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
 |  | [Autumn Boots](Autumn_Boots.md)  
 (**Set**) | _+3 Health_
 
-+1 Rare Pip
++2 Rare Pips  
+**Requires Power 6**
 
  | Set: Autumn  
 Arms: [Autumn Pauldrons](Autumn_Pauldrons.md)  
@@ -2781,12 +2784,12 @@ _+20 Carry Load_
 **Requires Power 5**
 
  | N/A |
-|  | [Trickster's Scarf](<Trickster's_Scarf.md>)  
+| File:Amber Trickster's Scarf.png | [Trickster's Scarf](<Trickster's_Scarf.md>)  
 (**Unique**) | +2 Legendary Pips  
 
 **Requires Power 7**
 
- | Variants: Amber, Lavender & White |
+ | Variants: Amber, Black, Lavender & White |
 | File:Varicosa Medallion.png | [Varicosa Medallion](Varicosa_Medallion.md) | _+3% Shadow Armor_
 
 +1 Rare Pip  

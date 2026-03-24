@@ -1,6 +1,6 @@
 ---
 title: "Trickster's Scarf"
-revid: 202248
+revid: 202361
 source: https://deepwoken.fandom.com/wiki/Trickster's_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Scarves]
