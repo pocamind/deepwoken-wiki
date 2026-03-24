@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 196507
+revid: 202359
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, OutdatedPages, Guilds, Locations]
@@ -38,7 +38,7 @@ Currently, there are 10 NPCs that can join your Guild Base with a certain amount
 -   The [Artisan](Artisan.md), which can be hired after building the Trophy Room for 10,000.
 -   The [Blacksmith](Blacksmith.md), which can be hired after building the Armory for 1,000.
 -   The [Mess Chef](Mess_Chef.md), which can be hired after building the Mess Hall for 2,000.
--   the [Songwright](Songwright.md) which can be hired in the Song Room after building 9+ rooms for 20,000.
+-   ~The [Songwright](Songwright.md) which can be hired in the Song Room after building 9+ rooms for 20,000 .~ As of the 21/03/26 update, Songwrights were removed from the game. All Songwrights hired prior to this update have left all guildbases and players will not recieve refunds for their purchase.
 -   The Leader may expand the Guild Base by using either their personal notes on hand or the Guild's Treasury—with each expansion becoming staggeringly higher in price than the previous purchase. Should the Leader choose to they may remove rooms from the guild base by using the Chime of Dwelling inside of it (they are also able to exile members in the same menu).
 
 The pricing list is as follows: (Assuming you have the [Treasurer](Treasurer.md))
@@ -181,8 +181,7 @@ Song Room
 
  | 
 
-A room that features a [mantra table](Mantra_Lectern.md) for the Player to modify their [mantras](Mantras.md) with [modifiers](Mantra_Modifiers.md), along with a Heat Stone Resting Spot to rest & recall mantras, and the ability to purchase [Training Gears](Training_Gear.md#attunement-training-gears).  
-This room also allows the hiring of a [Songwright](Songwright.md) for 20,000, which allows you to upgrade mantras for a more expensive price than the [Attunement Trainers](Attunement_Trainers.md) (albeit being more convenient).
+A room that features a [Mantra Lectern](Mantra_Lectern.md) for the for the player to add [Mantra Modifiers](Mantra_Modifiers.md), name mantras, or level them up. The room also includes a Heat Stone Resting Spot and a [Gear Cabinet](Training_Gear.md) to purchase [Training Gears](Training_Gear.md#attunement-training-gears)
 
  |
 | 
@@ -282,3 +281,4 @@ Bandits raiding a Guild Base.
 -   The PVE dummy in the training hall can be used to build up [Chain of Perfection](Talent_Quests.md#chain-of-perfection) stacks.
 -   As stated by Arch\_Mage\[_Citation Needed_\], there is an unknown feature that can permanently turn all NPCS in your guild base into long white haired moustache Felinors.
 -   Voidwalkers that hunt you can teleport to your base, however, you will get the message "This is no longer a safehaven," to warn you.\[Confirmation needed\]
+-   As of the 21/03/26 update, [Songwrights](Songwright.md) were removed from all Guild Bases and made unavailable to purchase. These were NPCs who previously upgraded your mantras in your guild base, eliminating the need to go to the [respective trainers](Attunement_Trainers.md) at the expense of a higher upgrade cost.

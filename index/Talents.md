@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 202311
+revid: 202324
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -109,9 +109,6 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         -   The random Mantra card will state the Mantra type and star value (e.g. "Random Thundercall Combat Mantra" with 2 stars on the card), though the outcome is still random within that range. These cards can only be chosen from [Whisper Draws](Whisper_Draw.md) and are guaranteed in each one.
         -   Roll 2 grants 2 random Talents, these Talents cannot be Rare Talents unless they have been [Frozen](Aces.md). These cards and can only be chosen from [Whisper Draws](Whisper_Draw.md) and are guaranteed in each one.
         -   Fold removes your current hand of cards; you'll obtain an additional, rerolled, Talent hand the next time you Power up instead. This should only be taken if you don't want any of the Talents in your current hand. These cards can only be chosen from Talent hands and are somewhat uncommon, only having a chance to show up. Additionally, after picking "Fold" 3 times in the same Power up, though not necessarily in sequence, all remaining talent hands will be skipped and will roll over to your next Power up.
-
--   Trait
-    -   Improves an ability or aspect of your character. See [Traits](Traits.md).
 
 ## Talents
 

@@ -1,6 +1,6 @@
 ---
 title: Deep Gems
-revid: 197581
+revid: 202327
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Mantras, Treasures, Deep Gems]
@@ -12,7 +12,7 @@ categories: [Mechanics, Mantras, Treasures, Deep Gems]
 
 Deep Gems are items that can grant new effects to the [Mantras](Mantras.md) that you equip them on.
 
-You can equip Deep Gems onto Mantras either from your inventory or from the [campfire](Campfire_Pit.md) menu. Deep Gems can be removed from your Mantra and returned to your inventory by recalling the Mantra, clicking on the Gem Slot in the campfire menu, or by right clicking your Mantra icon and clicking remove.
+You can equip Deep Gems onto Mantras by clicking on them from your inventory. Deep Gems can be removed from your Mantra and returned to your inventory by recalling the Mantra or by right clicking your Mantra icon and clicking remove.
 
 ## Effects
 

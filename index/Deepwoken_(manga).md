@@ -1,6 +1,6 @@
 ---
 title: Deepwoken (manga)
-revid: 195806
+revid: 202350
 source: https://deepwoken.fandom.com/wiki/Deepwoken_(manga)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Non-canon articles", Deepwoken]
@@ -28,4 +28,3 @@ As the party recover from the battle, they are confronted by a [knight](Unidenti
 ## Trivia
 
 -   Characters depicted within this story do not appear to have [aspects](Aspects.md) like the inhabitants of Lumen seen within the game, and instead appear as normal humans.
--   Here is the link to read the deepwoken manga for yourself: [Deepwoken (Manga)](https://x.com/ChiefofIsaac/status/1964473703246565577/photo/1)

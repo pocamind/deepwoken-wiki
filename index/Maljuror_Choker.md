@@ -1,6 +1,6 @@
 ---
 title: Maljuror Choker
-revid: 202249
+revid: 202329
 source: https://deepwoken.fandom.com/wiki/Maljuror_Choker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso]
@@ -21,7 +21,7 @@ categories: [Equipment, Torso]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Maljuror |
+| obtainment | Maljuror (Direct drop) |
 | description | Metal. |
 
 ## Description

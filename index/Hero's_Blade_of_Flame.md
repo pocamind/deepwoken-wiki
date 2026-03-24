@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Flame"
-revid: 202132
+revid: 202326
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Medium Weapons, Hero Blades]
@@ -35,17 +35,21 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, 
 
 ## Description
 
-The Hero's Blade of Flame is one of the several elemental weapons apart of the Hero blade line, being specifically the [Flamecharm](Flamecharm.md) variation of the [Hero Blades](Hero_Blades.md). This weapon features a unique critical.
+The Hero's Blade of Flame is an elemental weapon serving as the [Flamecharm](Flamecharm.md) variation of the [Hero Blades](Hero_Blades.md).
 
 ## Critical
 
-The user stabs the weapon into the ground creating a whirlwind of flames around the wielder, dealing damage and applying burn to enemies; the spirit within the weapon slams the ground in tandem with the wielder.
+The user plunges the weapon into the ground and summons the Hero of Flame, creating a whirlwind of flames around the user.
+
+This critical deals 5 Flamecharm damage with 5 scaling, hitting up to 5 times.
+
+The critical has a cooldown of **10 seconds**.
 
 ## Trivia
 
--   The Hero's Blade of Flame originally had a black hilt, like its fellow Hero Blades. This was changed to a rose color in the 10/13/2023 update.
--   The critical is considered an aerial move, thus it will proc [Meteor Impact](Talents.md#meteor-impact). After the update on 11/8/2025 the heroblade doesn't lift both user and enemy in to the air anymore, this could be either a nerf or an unintended bug.
--   The Hero of Flame is a [Khan](Khan.md) named [Jace](Jace.md), identified by its crown.
+-   Prior to its remodel, the Hero's Blade of Flame had a rose-colored hilt instead of the usual black hilt that was followed by its fellow Hero Blades.
+-   Previously, the Hero's Blade of Flame critical would uptilt the user and the target, proccing all "on uppercut" effects like [Meteor Impact](Talents.md#meteor-impact).
+-   The Hero of Flame is a [Khan](Khan.md) named [Jace](Jace.md), identified by their crown.
     -   Jace tells the player about Flamecharm being a gift and a curse at the same time in his respective [Saintsworn Obelisk](Saintsworn_Obelisks.md).
 
 -   The runes on the blade once deciphered say "I JACE ONE PIECE OF A FIVE POINTED STAR GIVE MY BRIGHTEST FLAMES TO THIS BLADE FIVE WE PLEDGE OUR SOUL LET WIELDER BLADE HEED OUT CALL BEAR THIS TORCH BEYOND OUR FALL"
