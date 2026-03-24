@@ -1,6 +1,6 @@
 ---
 title: Black Death
-revid: 202136
+revid: 202604
 source: https://deepwoken.fandom.com/wiki/Black_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Reforged Weapons]
@@ -52,7 +52,7 @@ Equipping the Black Death grants its unique [weapon Talent](Talents.md#weapon-ta
 
 The Black Death has two criticals.
 
-For the standing critical, the user raises the spear, summoning three stakes of shadow wherever the user is facing. These stakes solely inflict Shadow.
+For the standing critical, the user raises the spear, summoning six stakes of shadow wherever the user is facing. These stakes solely inflict Shadow.
 
 For the running critical, the user rapidly thrusts the spear while slowly moving forward, ending with a final blow that inflicts Shadow. The user then raises their hand, summoning three stakes that also inflict Shadow.
 

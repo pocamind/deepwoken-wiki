@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 202342
+revid: 202577
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Vows, Mechanics]
@@ -96,7 +96,7 @@ Innate
 
  | Forces the Subject to eat a desired item.
 
--   The command is largely seen as being useless, since the **use** command does the same thing, and more.
+-   The command is largely seen as being useless, since the **Use** command does the same thing, and more.
 
  |
 | 
@@ -114,7 +114,7 @@ Innate
  | Forces the Subject to use a desired item.
 
 -   If the item can't be used, the subject will simply hold it in their hand.
--   Can be used on items in the Utility category, [Training Gear](Training_Gear.md), [Relics](Relics.md), [Books](Books.md), [Food](Food.md), and edible [Ingredients](Ingredients.md).
+-   Can be used on items in the Utility category, [Training Gear](Training_Gear.md), [Relics](Relics.md), [Books](Books.md) (requires the internal name), [Food](Food.md), and edible [Ingredients](Ingredients.md).
 
  |
 | 
@@ -131,8 +131,8 @@ Innate
 
  | Forces the Subject to drop an item.
 
--   This works on all droppable items, but it uses the internal names of certain items, making the command difficult to use.
--   This cannot be used to drop items that are Soulbound or locked. Attempting to make your subject drop these items will result in them holding it in their hands instead.
+-   This works on all droppable items covered by the command **Use**.
+-   This cannot be used to drop items that are Soulbound. Attempting to make your subject drop these items will result in them holding it in their hands instead.
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 202314
+revid: 202568
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -186,7 +186,7 @@ _Chill for foes. Applies Bottom Freeze once enough stacks have been applied._
 
 **Effect:**
 
-M1s apply a second instance of Frostdraw damage that deals 4% of the scaled damage of attack that procced it. Alternatively, apply Crystals on M1 if you have the Crystallization path.  
+M1s apply a second instance of Frostdraw damage that deals 4% of the scaled damage of attack that procced it. Additionally, apply Crystals on M1 if you have the Crystallization path.  
 After hitting a target (LHT: 5, MED: 4, HVY: 3) times, apply [Bottom Freeze](Status_Effects.md#bottom-freeze) and [Chill](Status_Effects.md#chill) for 2 seconds. This also increases Chilling's secondary Frostdraw damage instance to 10% of your scaled damage, on that hit. 5 second cooldown.  
 If the target is a PvE enemy, additionally apply [Sluggish](Status_Effects.md#sluggish), reducing their damage to you for the duration of the slow.
 

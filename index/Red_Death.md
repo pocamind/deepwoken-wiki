@@ -1,6 +1,6 @@
 ---
 title: Red Death
-revid: 202137
+revid: 202605
 source: https://deepwoken.fandom.com/wiki/Red_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Legendary Weapons, "Weapons with Multi-Attunement Scaling", "Attunement-based Weapons", Medium Weapons, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -46,7 +46,7 @@ The Red Death comes with a passive ability:
 
 The Red Death has two criticals.
 
-For the standing critical, the user raises the spear, summoning three stakes of blood and shadows wherever the user is facing. All of the hits inflict both Blood Poisoning and Shadow.
+For the standing critical, the user raises the spear, summoning six stakes of blood and shadows wherever the user is facing. All of the hits inflict both Blood Poisoning and Shadow.
 
 For the running critical, the user rapidly thrusts the spear while slowly moving forward, inflicting Blood Poisoning every time the target is hit, ending with a final blow that inflicts both Blood Poisoning and Shadow. The user then raises their hand, summoning three stakes that also inflict both Blood Poisoning and Shadow.
 

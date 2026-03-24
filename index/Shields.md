@@ -1,6 +1,6 @@
 ---
 title: Shields
-revid: 182587
+revid: 202573
 source: https://deepwoken.fandom.com/wiki/Shields
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons by Class]
@@ -12,7 +12,7 @@ Shields are an offhand weapon type in Deepwoken. These defensive tools increase 
 
 Certain Talents, most notably the aptly named [Shieldbreaker](Talents.md#shieldbreaker), allow people to ignore the posture bonus shields grant players. Take caution when using shields, as they may not work in all scenarios.
 
-Shields have their own Talents in the [Turtlemaster](Talents.md#turtlemaster) Talent tree as well as an exclusive Mantra - [Rally](Attunement-less.md#rally).
+Shields have their own Talents in the [Shieldmaster](Talents.md#shieldmaster) Talent tree as well as an exclusive Mantra - [Rally](Attunement-less.md#rally).m
 
 <table><caption><strong><div>Shields</div></strong></caption>
 <tbody>

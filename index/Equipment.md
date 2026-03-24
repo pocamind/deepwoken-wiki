@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 202478
+revid: 202594
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, Equipment, In progress with VOI reason]
@@ -3157,7 +3157,7 @@ _+Talent: Sharpened Dagger_
 |  | [Practicioner's Earrings](<Practicioner's_Earrings.md>) | +2 Rare Pips |
 | File:Regenerative Earrings.png | [Regenerative Earrings](Regenerative_Earrings.md) | _+5 Ether_
 
-+1 Legendary Pip  
++2 Rare Pips  
 _+Talent: Blood Convergence_  
 _+Set Talent: Critical Heal_
 
@@ -3468,9 +3468,9 @@ _+2% Wind Armor_
 -   You can't enchant Torso, Face, Ears, and Ring Equipment. However, there's a couple of instances of these items existing due to being obtainable back in Verse One. There has been evidence shown that unobtainable enchanted equipment won't void even when re-equipped, and the enchant still functions as it normally would (Info from October 12, 2023)
 -   Mythical Pips, despite being said to exist by devs, are unused. No equipment piece uses mythical pips.
 -   Highest theoretical **stealth** kit in game is 30% stealth. (10% [Dark Owl Chapeau](Dark_Owl_Chapeau.md), 6% [Mercenary's Garb](<Mercenary's_Garb.md>)/[Ministry Cloak](Ministry_Cloak.md)/[Dark Owl Cloak](Dark_Owl_Cloak.md), 5% Shrouded Capes, 6% Duelist's Mask, 3% [Master Thief Earrings](Master_Thief_Earrings.md))
--   Highest theoretical **ETH** kit in game is 415 ETH. (4x 30 ETH [Moon](Moon_Ring.md) and [Waning Rings](Waning_Ring.md), 68 ETH (Drowned) [Diver's Light Plate](<Diver's_Light_Plate.md>) or equivalent, 44 ETH [Fauld of Enmity](Fauld_of_Enmity.md), 64 ETH [Tillian's Beret](<Tillian's_Beret.md>), 54 ETH [Star Boots](Star_Boots.md) or equivalent, 30 ETH [Hivelord Mask](Hivelord_Mask.md), 35 ETH [Old Blood Earrings](Old_Blood_Earrings.md))
+-   Highest theoretical **ETH** kit in game is 403 ETH. (30 ETH [Moon](Moon_Ring.md) and [Waning Ring](Waning_Ring.md), x2 24 ETH Scaling Rings/[Ferryman's Ring](<Ferryman's_Ring.md>), 68 ETH (Drowned) [Diver's Light Plate](<Diver's_Light_Plate.md>) or equivalent, 44 ETH [Fauld of Enmity](Fauld_of_Enmity.md), 64 ETH [Tillian's Beret](<Tillian's_Beret.md>), 54 ETH [Star Boots](Star_Boots.md) or equivalent, 30 ETH [Hivelord Mask](Hivelord_Mask.md), 35 ETH [Old Blood Earrings](Old_Blood_Earrings.md))
 -   Highest theoretical **Posture** kit is 21.5 Posture. (4x 3 Posture Legendary Rings, 2 Posture [Khan Helmet](Legion_Helmet.md)/[Gladiator Helm](Gladiator_Helm.md)/[Western Outlaw Hat](Western_Outlaw_Hat.md), 1 Posture [Threadwork Kilt](Threadwork_Kilt.md), 3 Posture [Glassdancer Wraps](Glassdancer_Wraps.md)/[Moonseye Gauntlets](Moonseye_Gauntlets.md)/[Western Outlaw Robes](Western_Outlaw_Robes.md), 3.5 Posture [Wartreads of Enmity](Wartreads_of_Enmity.md) with max Anchor pips)
     -   Conversely, the lowest **Posture** you can have on any character is 16, with [Citadel Frames](Citadel_Frames.md) and [Dark Pearls](Dark_Pearls.md).
--   Highest theoretical **HP** kit in game is 182 HP. (9 HP [Moon Ring](Moon_Ring.md), 9 HP [Waning Rings](Waning_Ring.md), 23 HP [Transfusion Ring](Transfusion_Ring.md), 7 HP Scaling Ring/[Ferryman's Ring](<Ferryman's_Ring.md>), 47 HP (Drowned) [Diver's Light Plate](<Diver's_Light_Plate.md>)/[Bastions of Enmity](Bastions_of_Enmity.md), 18 [Fauld of Enmity](Fauld_of_Enmity.md), 30 HP [Silver Knight's Helm](<Silver_Knight's_Helm.md>) or equivalent, 32 HP [Star Boots](Star_Boots.md) or equivalent, 2 HP [Moonlit Earrings](Crescent_Earrings.md)/[Dark Pearls](Dark_Pearls.md), 5 HP [Citadel Frames](Citadel_Frames.md))
+-   Highest theoretical **HP** kit in game is 182 HP. (9 HP [Moon Ring](Moon_Ring.md), 9 HP [Waning Rings](Waning_Ring.md), 23 HP [Transfusion Ring](Transfusion_Ring.md), 7 HP Scaling Ring/[Ferryman's Ring](<Ferryman's_Ring.md>), 47 HP (Drowned) [Diver's Light Plate](<Diver's_Light_Plate.md>) or equivalent, 18 [Fauld of Enmity](Fauld_of_Enmity.md), 30 HP [Silver Knight's Helm](<Silver_Knight's_Helm.md>) or equivalent, 32 HP [Star Boots](Star_Boots.md) or equivalent, 2 HP [Moonlit Earrings](Crescent_Earrings.md)/[Dark Pearls](Dark_Pearls.md), 5 HP [Citadel Frames](Citadel_Frames.md))
 -   Having multiple pieces of equipment with [Drowned](Drowned.md) **does not increase your stats further.**
 -   The Damage vs Monsters and Monster Armor pips are the only pip types to be removed from the game. In an update on June 24th, 2025, these stats were effectively made innate with the addition of the [Bestiary](Bestiary.md) system, removing their necessity. Following this change, all DvM pips were transferred into Health or Sanity pips (depending on the equipment type) and all Monster Armor pips were transferred into Physical Resistance pips.

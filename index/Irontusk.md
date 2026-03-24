@@ -1,6 +1,6 @@
 ---
 title: Irontusk
-revid: 201627
+revid: 202586
 source: https://deepwoken.fandom.com/wiki/Irontusk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Echoes]

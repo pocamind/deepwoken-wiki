@@ -1,6 +1,6 @@
 ---
 title: Curseblood Pendant
-revid: 201303
+revid: 202602
 source: https://deepwoken.fandom.com/wiki/Curseblood_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -15,7 +15,7 @@ categories: [Equipment, Torso, Necklaces]
 | selling price | 25 |
 | requirements | PWR 5 |
 | weight | 0.5 |
-| innate stats | +3% Elemental Armor, 1 Legendary Pip |
+| innate stats | +3% Elemental Armor, +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

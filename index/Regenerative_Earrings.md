@@ -1,6 +1,6 @@
 ---
 title: Regenerative Earrings
-revid: 202039
+revid: 202616
 source: https://deepwoken.fandom.com/wiki/Regenerative_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Set Bonuses]
@@ -15,7 +15,7 @@ categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Se
 | selling price | 25 |
 | requirements | PWR 8 |
 | weight | 0.1 |
-| innate stats | +5 Ether+1 Legendary Pip |
+| innate stats | +5 Ether+2 Rare Pips |
 | innate talent | Blood Convergence |
 | set | Regenerative Pendant, Regenerative Earrings |
 | set talent | Critical Heal |
@@ -26,11 +26,9 @@ categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Se
 | obtainment | Crafted at the Lost Forge with Old Blood Earrings, 5x Vampirism Enchant Stones, and 1x Parasol Membrane |
 | description | Wearing these fills you with a newfound sense of vitality. |
 
-Variants: [Old Blood Earrings](Old_Blood_Earrings.md)
-
 **[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 Regenerative Set
 
@@ -40,7 +38,7 @@ Variants: [Regenerative Pendant](Regenerative_Pendant.md)
 
 The Regenerative Earrings are a pair of craftable earrings similar to the [Trueblood Earrings](Trueblood_Earrings.md) from the [Vow of Iron](Vow_of_Iron.md) gamemode, but made from common [Pathfinder](Pathfinder.md) mode drops.
 
-The [Blood Convergence](Talents.md#blood-convergence) Talent grants 10% more healing from all healing sources when you have temp health.
+The [Blood Convergence](Talents.md#blood-convergence) Talent grants 10% more healing from all healing sources when you have [Temporary Health](Status_Effects.md#temporary-health).
 
 ## Set Talent
 

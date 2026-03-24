@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 202259
+revid: 202569
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons]
@@ -48,9 +48,9 @@ categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, 
 
 ## Critical
 
-The user rapidly spins the greataxe, raining down smalls shards of ice and guardbreaking targets as they helicopter upwards. The critical freezes the opponent on successful hit, with Glass Path: Crystallization, apply 5 crystals instead.
+The user rapidly spins the greataxe, raining down small shards of ice and guardbreaking targets as they propel upwards. The critical freezes the opponent on successful hit, with Glass Path: Crystallization applying 5 crystals instead.
 
-Everyone hit by the critical will get teleported in front of the user. The critical is able to proc [Meteor Impact](Talents.md#meteor-impact).
+Everyone hit by the critical will be teleported to in front of the user. The critical is able to proc [Meteor Impact](Talents.md#meteor-impact).
 
 The critical has a cooldown of **10 seconds.**
 

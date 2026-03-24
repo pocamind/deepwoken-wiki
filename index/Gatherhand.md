@@ -1,6 +1,6 @@
 ---
 title: Gatherhand
-revid: 202423
+revid: 202553
 source: https://deepwoken.fandom.com/wiki/Gatherhand
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -12,9 +12,9 @@ notices:
 
 ## Description
 
-Gatherhand is a fictional cipher in _[Deepwoken](<Deepwoken_(game).md>)_.
+Gatherhand is a writing system used to transcribe [common](Common.md).
 
-## Encryption
+### Letters
 
 <table>
 <tbody>

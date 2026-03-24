@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 202324
+revid: 202611
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1383,13 +1383,13 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Casting a Flamecharm Mantra will give you a moderate boost of horizontal movement in the direction your character is facing. This will still proc even if the Mantra is feinted.
     -   Very useful for closing distance and getting into close quarters combat.
     -   Despite what Graceful Step's Talent description implies, this Talent does **not** grant a speed boost.
-    -   This has a 5 second cooldown.
+    -   This has a 5 second cooldown. This cooldown can be reduced to 1 second by wearing the [Cindergarb](Cindergarb.md) Outfit.
     -   Prerequisites: 35 Flamecharm, [Power](Power.md) 8
 
 -   _Graceful Steps_ \[Rare Talent, Flamecharm\] - Your dancing steps now gives a faster speed boost.
     -   If you lack the ether to cast a Mantra, the speed boost will trigger regardless. Also triggers if the Mantra is feinted.
     -   The speed boost has a very short duration; having a fast swingspeed weapon is recommended to capitalize off this Talent's effect.
-    -   This has a 5 second cooldown.
+    -   This has a 5 second cooldown. This cooldown can be reduced to 1 second by wearing the [Cindergarb](Cindergarb.md) Outfit.
     -   Prerequisites: 80 Flamecharm, [Power](Power.md) 13, Dancing Steps
 
 -   _The Final Act_ \[Rare Talent, Flamecharm\] - Landing a fire mantra immediately after flourishing an opponent will cause them to explode.
@@ -2161,23 +2161,24 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Grants a Talent tool.
     -   Electrify has a 1 minute cooldown.
     -   Deals 5% of your **current** health as Thundercall self damage.
-    -   Amped grants your weapon attacks a 10% damage buff and allows your weapon attacks to apply Shock or Surge Rods on hit.
+        -   Wearing the [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) will remove Electrify's self damage. Additionally, pairing this with the [Deepscorn Casque](Deepscorn_Casque.md) will cause you to heal on Electrify cast instead.
+    -   Amped grants your weapon attacks a 10% damage buff and allows them to apply Shock or Surge Rods on hit.
     -   While Amped, you take 10% more damage from all sources.
     -   Deals Thundercall self damage with hitstun and applies Shock/Surge Rods to yourself on cast, if used without being carried.
-    -   Previously known as Static Withdraw.
+    -   Formerly known as Static Withdraw.
     -   Prerequisites: 25 Thundercall
 
 -   Amplified Reflexes \[Common Talent, Thundercall\] - Amped now grants enhanced speed and parkour, but triples the self-damage on use and doubles its cooldown.
     -   Increases Electrify's cooldown from 1 minute to 2.
-    -   Deals 15% of your **current** health as Thundercall self damage.
+    -   Deals 15% of your **current** health as Thundercall self damage. [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) still works to remove the self damage.
     -   Increases walk speed by 50% and grants a 20% buff to climb height. All other forms of parkour and movement are unaffected by Amplified Reflexes.
-    -   Previously known as Jumpstart.
+    -   Formerly known as Jumpstart.
     -   Prerequisites: 35 Thundercall, Electrify
     -   Mutual Exclusive: Amplified Rage
 
 -   Amplified Rage \[Common Talent, Thundercall\] - Amped now grants you an additional +10% weapon damage.
     -   Increases Amped's damage buff from +10% to +20%.
-    -   Previously Known as Raging Static.
+    -   Formerly Known as Raging Static.
     -   Prerequisites: 35 Thundercall, Electrify
     -   Mutual Exclusive: Amplified Reflexes
 
@@ -2492,6 +2493,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Already Dead \[Common Talent, [Equipment](Equipment.md)\] - You take reduced damage from abilities with a health cost.
     -   Removes [Deepspindle](Deepspindle.md) running critical self-damage.
     -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), Flame Within (on cast, NOT the burn ticks), Rush Hour, Shadow Travel, and Electrify.
+        -   When paired with the [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) Talent, Circuit Breaker, using Electrify will cause you to heal instead of taking damage.
     -   Lowers self damage from the Poison (HP drain) Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~1%.
     -   Lowers the Wither application from the Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~2%.
     -   Lower the Wither application from [Symbiotic Sustain](Oath%253A_Linkstrider.md) to 5%
@@ -3202,7 +3204,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Knight's Rally \[Common Talent, Fortitude, Willpower\] - When using a shield, you ready your block more quickly after taking a hit. (+4 Sanity)
     -   When holding out a shield (One-Handed Stance), being hit will inflict 5% less "shaky block", allowing the user to escape certain combos easier with their block.
-        -   Prerequisites: 30 Fortitude, 10 Willpower, Use a Shield.
+    -   Prerequisites: 30 Fortitude, 10 Willpower, Use a Shield.
 
 -   Turtle Shell \[Common Talent, Fortitude\] - If your shield is on your back, take reduced backstab damage and negate Spine Cutter.
     -   25% damage reduction to attacks from the back.
@@ -4339,7 +4341,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 
 -   Already Dead: [Deepscorn Casque](Deepscorn_Casque.md) - You take reduced damage from abilities with a health cost.
     -   Removes the self damage from [Deepspindle's](Deepspindle.md) running critical.
-    -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), Flame Within (on cast, NOT the burn ticks), Rush Hour, and Static Withdraw (with child Talents).
+    -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), Flame Within (on cast, NOT the burn ticks), Rush Hour, Shadow Travel, and Electrify.
+        -   When paired with the [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) Talent, Circuit Breaker, using Electrify will cause you to heal instead of taking damage.
     -   Lowers self damage from the Poison (HP drain) Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~1%.
     -   Lowers the Wither application from the Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~2%.
 
@@ -4382,6 +4385,10 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - [Way of Navae](Way_of_Navae.md) light attacks have 10% additional penetration.
     -   Gives [Way of Navae](Way_of_Navae.md) M1s 10% more PEN. This does **NOT** apply to criticals unless it has the M1 tag.
     -   This bypasses the 50% PEN cap.
+
+-   Circuit Breaker: [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) - Electrify no longer deals self-damage on use.
+    -   The Electrify Talent tool no longer consumes health on use.
+    -   When paired with the [Deepscorn Casque](Deepscorn_Casque.md) Talent, Already Dead, using Electrify will cause you to heal instead.
 
 -   Coldseep Reactor: [Grand Fisher Helm](Grand_Fisher_Helm.md) - By cultivating the localized chemosynthetic microorganisms within the Depths and utilizing them as a power source, your helm thrums with a protective field of static electricity and heat.
     -   Grants full immunity to the [Second Layer's](Second_Layer.md) Parasites.
@@ -4577,6 +4584,9 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 
 -   Repeated Blows: [Reinforced War Boots](Reinforced_War_Boots.md) - Any [strength](Attunement-less.md#strength) mantra that has a [Wrath Gem](Wrath_Gem.md) on it will reset its cooldown if you land a critical while a Wrath Gem is active.
     -   Wrath Gems are active for 9 seconds with no visual indication.
+
+-   Repeated Propulsion: [Cindergarb](Cindergarb.md) - Reduce the cooldown of Dancing Steps and Graceful Steps to 1 second.
+    -   Reduces the cooldown of Dancing Steps and Graceful Steps from 5 seconds to 1.
 
 -   Riot Breaker: [Authority Commander](Authority_Commander.md) - You receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.
 
@@ -5613,7 +5623,6 @@ Certain Talents are given when you equip a full equipment set, though not all eq
 -   One Handed Gun Talents can, for some reason, still be rolled on builds using Dual Guns.
 -   The Talent, Ultrakill, breaks the fourth wall by requesting the player to play ULTRAKILL.
     -   Ironically, it then proceeds to write the name of the game incorrectly, as ULTRAKILL is meant to be written in all capitals.
--   You can filter Talents in a campfire to see their associated stats. Some stats may show with 2 different filters, which means they have dual requirements (2 attributes needed instead of 1).
 -   If you have a very few amount of cards you are capable of rolling, instead of being dealt a hand when you power up you will be met with the message "A hand has not yet been dealt, but another hand will be dealt after your next hand."
 -   The Pocket Sand Talent, especially its description, is a reference to Rogue Lineage. Paying [Tal](https://rogue-lineage.fandom.com/wiki/Pocket_Sand) 20 Silver to "learn some tricks" results in them using pocket sand on you. Catching up to them results in you gaining an ability similar to the Talent in this game, and speaking to them afterwards yields the same dialogue as found in the Talent description, "So... We're even now, right?"
 -   Treefelling Blow’s description used to say “…Look, it’s funny, are you gonna take it or not?” before it was made a quest Talent.

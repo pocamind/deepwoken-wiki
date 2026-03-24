@@ -1,6 +1,6 @@
 ---
 title: Regenerative Pendant
-revid: 202038
+revid: 202615
 source: https://deepwoken.fandom.com/wiki/Regenerative_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Craftable, Torso, Necklaces, Equipment with Set Bonuses]
@@ -26,11 +26,9 @@ categories: [Pathfinder Exclusive, Equipment, Craftable, Torso, Necklaces, Equip
 | obtainment | Crafted at the Lost Forge using a Curseblood Pendant, 5x Curse of the No Life King Enchant Stones, and 1x Parasol Membrane |
 | description | ... |
 
-Variants: [Curseblood Pendant](Curseblood_Pendant.md)
-
 **[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 Regenerative Set
 

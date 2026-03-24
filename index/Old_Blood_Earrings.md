@@ -1,6 +1,6 @@
 ---
 title: Old Blood Earrings
-revid: 201234
+revid: 202597
 source: https://deepwoken.fandom.com/wiki/Old_Blood_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]

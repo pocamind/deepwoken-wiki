@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 200881
+revid: 202556
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations]
@@ -238,6 +238,5 @@ Please add miscellaneous islands or named landmarks here
 ## Trivia
 
 -   The [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) was originally leaked by an exploiter on the discord who accessed an indev place.
--   An island named "Markor" in the Central Luminant is discussed in the book ["Stars Above, and the Blade Between"](Books.md#stars-above-and-the-blade-between)
 -   Before Verse 2, the Luminants weren't separated into Etrean and Eastern. You didn't need to teleport/load into [The Aratel Sea](The_Aratel_Sea.md) and could just sail to it just like any other island.
 -   The Depths is a force that surrounds the entire world, with the Voidsea and Voidfog layers preventing further travel. With that, Lumen seems to be inspired by the _Gnostic firmament_ in Early Hebrew mythology.

@@ -1,6 +1,6 @@
 ---
 title: Trueblood Earrings
-revid: 201235
+revid: 202596
 source: https://deepwoken.fandom.com/wiki/Trueblood_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Set Bonuses]
@@ -26,7 +26,7 @@ categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Set Bonuses]
 | obtainment | TBA |
 | description | Wearing these fills you with a newfound sense of vitality. |
 
-Variants: [Old Blood Earrings](Old_Blood_Earrings.md)
+Variants: [Regenerative Earrings](Regenerative_Earrings.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  

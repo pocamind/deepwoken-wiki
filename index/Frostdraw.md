@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 200459
+revid: 202618
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -19,6 +19,8 @@ Frostdraw icon
 **Frostdraw** is an [Attunement](Attunements.md) that grants the user the ability to bring forth frost and the freezing cold, giving them access to abilities which focus on area denial and debuffs. Frostdraw is slightly slower compared to other [Attunements](Attunements.md), but still offers offensive options that are relatively quick and cunning. This translates to the fact that the Attunement would fit well to people who have a defensive approach to combat.
 
 Landing Frostdraw [Mantras](Mantras.md) applies Chill, which slows down enemies and is able to be improved upon with certain [Talents](Talents.md). Adding [Logstones](Mantra_Modifiers.md#regular-modifiers) to certain Mantras can increase the duration of Chill.
+
+Having any Frostdraw [Mantra](Mantras.md) means that you'll automatically purify certain forms of unsafe water (excluding sea water), similar to the [Purifying Ring](Purifying_Ring.md). This is part of the Cantrips system that was introduced on March 21, 2026.
 
 ## Obtainment
 
