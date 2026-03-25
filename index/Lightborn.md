@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 202772
+revid: 202957
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Aspects, Exclusive Aspects, Developer Spec, The Heavens]
@@ -69,21 +69,16 @@ Despite being immortal, they can show signs of aging, as seen in [Kaide, the Dro
 
   
 
-+2 Strength
+-   +2 Strength
+-   +2 Fortitude
+-   +2 Agility
+-   +2 Intelligence
+-   +2 Willpower
+-   +2 Charisma
+-   +5 attribute points in character creation, has 332 attribute points at power 20.
 
-+2 Fortitude
-
-+2 Agility
-
-+2 Intelligence
-
-+2 Willpower
-
-+2 Charisma
-
-+5 attribute points in character creation, has 332 attribute points at power 20.
-
-With the addition of the Echo Unlock: Multifaceted, Lightborn essentially gain 12 free points to allocate.
+-   With the addition of the Echo Unlock [Multifaceted](Echoes.md#upgrades-unlocks-and-modifiers), Lightborn essentially gain 12 free points to allocate.
+    
 
 **Surnames:**
 
@@ -95,7 +90,7 @@ With the addition of the Echo Unlock: Multifaceted, Lightborn essentially gain 1
 
 ## Features
 
-Lightborn has 6 halo colors and 3 three halo variants
+Lightborn has 6 halo colors and 3 three halo position variants.
 
 **Crown:**
 

@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 196692
+revid: 202903
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Ingredients]
@@ -49,8 +49,6 @@ It may be crafted into an [Umbrite Witherblade](Umbrite_Witherblade.md) with 3 [
 Razor Cutlass uses the default Sword critical, a piercing stab. It has a scaled damage multiplier of **1.2x** and a cooldown of **3 seconds**. It deals **3x** the weapon's posture stat as posture damage.
 
 This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
-
-  
 
 ## Trivia
 

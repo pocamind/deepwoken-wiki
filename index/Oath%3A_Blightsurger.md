@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 202392
+revid: 202946
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]

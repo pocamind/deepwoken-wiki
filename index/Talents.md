@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 202843
+revid: 202959
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2225,8 +2225,9 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Blade's Edge \[Common Talent, Medium Weapon\] - Spears Damage dealt with the tip of the spear is increased by 10% (+2 Passive Agility)
     -   Prerequisites: 30 Medium Weapon, Using a spear
 
--   Defensive Sweep \[Common Talent, Medium Weapon\] - Spears Posture breaking an opponent grants you +50% PEN for 3 seconds. (14s CD)
-    -   The buff applies to all attacks, but can only be procced from M1s or Criticals.
+-   Defensive Sweep \[Common Talent, Medium Weapon\] - Spears Posture breaking an opponent grants you +50% PEN for 3 seconds.
+    -   The PEN buff only applies to M1s.
+    -   14 second cooldown.
     -   Prerequisites: 50 Medium Weapon, Using a spear
 
 -   Driving Impact \[Common Talent, Medium Weapon\] - Spears The first hit of your Spear's Critical Attack will deal greatly increased posture damage. Subsequent hits will do reduced posture damage.
@@ -2235,6 +2236,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: 30 Medium Weapon, Using a spear
 
 -   Lancer's Impale \[Common Talent, Medium Weapon\] - Spears Hitting an enemy after a perfect dodge makes your next attack deal 30% bleed damage. If that attack would already bleed, it adds +10% chip damage instead. (+4 Passive Agility)
+    -   Only grants 15% Bleed damage despite what the description states.
     -   Prerequisites: 30 Medium Weapon, Using a spear
 
 -   Hoplite \[Common Talent, Fortitude\] - Posture damage is reduced by 15% when wielding a spear and standing still. (+2 Passive Agility)

@@ -1,6 +1,6 @@
 ---
 title: Tutorial
-revid: 168090
+revid: 202955
 source: https://deepwoken.fandom.com/wiki/Tutorial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guides, Mechanics]
@@ -25,7 +25,11 @@ Coming out of the cannon bay, Orlandeau will inform the player of the [Luminant'
 
 The captain sends the player off to talk to the fellow crewmembers. Speaking to all of the crewmembers and returning to the captain will teach you about [Talents](Talents.md) and [Mantras](Mantras.md), being given a Mantra of the player's respective [attunement](Attunements.md) or [attribute](Attributes.md). Shortly after, the chanting of the Gideshu March can be heard, and what the captain assumes to be [the Authority](The_Central_Authority.md) explodes the upper deck with cannons, downing the player with their vision fading black. The backstory concludes with the player presumably washing up ashore, being rescued by either of the starter NPCs.
 
-Talking to Kelsius inside of the [Temple of the Blade's](Temple_of_the_Blade.md) library will give you unique dialogue and instantly complete his quest, but you will not recieve a free mantra hand due to already getting one during the tutorial.
+Talking to Kelsius inside of the [Temple of the Blade](Temple_of_the_Blade.md)'s library will give you unique dialogue and instantly complete his quest, but you will not recieve a free mantra hand due to already getting one during the tutorial.
+
+## Gallery
+
+The Scoundrel's Bounty getting bombed, ending the tutorial
 
 ## Trivia
 

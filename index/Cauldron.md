@@ -1,6 +1,6 @@
 ---
 title: Cauldron
-revid: 199450
+revid: 202907
 source: https://deepwoken.fandom.com/wiki/Cauldron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Utilities]
@@ -47,7 +47,7 @@ The cauldron in the [Voidheart](Voidheart.md) is located near the [Antiquarian](
 
 **Meteor Isle:** The cauldron on [Meteor Isle](Meteor_Isle.md) can be found in the house directly behind Sekh.
 
-**Fort Merit:** The cauldron at [Fort Merit](Fort_Merit.md) can be found in a house at the top of the stairs that begin at the prison entrance.
+**Fort Merit:** The cauldron at [Fort Merit](Fort_Merit.md) can be found in the house in front of [Captain Trist](Captain_Trist.md).
 
 **Greathive Aratel:** The cauldron at [Greathive Aratel](Greathive_Aratel.md) is located in the Archives room of Root Plaza, next to [Regek](Attunement_Trainers.md).
 
