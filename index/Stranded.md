@@ -1,6 +1,6 @@
 ---
 title: Stranded
-revid: 196344
+revid: 202636
 source: https://deepwoken.fandom.com/wiki/Stranded
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits]
@@ -12,8 +12,8 @@ categories: [Outfits, Starter Outfits]
 |---|---|
 | caption | Some have a rougher start than others. |
 | tier | Starter |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | obtainment | Castaway Origin (automatically crafted), Lone Warrior Origin (automatically crafted)Vow of Iron:, Breaker Memento, Sightless Memento, Void Glutton Memento, Steampunk Soldier Memento |
 | selling_price | N/A |
 | weight | 1 |

@@ -1,6 +1,6 @@
 ---
 title: "Sorcerer's Mantle"
-revid: 201576
+revid: 202626
 source: https://deepwoken.fandom.com/wiki/Sorcerer's_Mantle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Arms, Equipment, Equipment with Set Bonuses]
@@ -44,7 +44,7 @@ The [Sorcerer's Surge](Talents.md#sorcerers-surge) Talent reduces the cooldown o
 
 ## Set Talent
 
-When wearing the full equipment set, you will gain the Set Talent.
+When wearing the full equipment set, you will gain the Set Talent:
 
 Set Talent: [Sorcerer's Supply](Talents.md#sorcerers-supply) - Increase the amount of [Tempo](Combat_Mechanics.md#tempo) you have by 10/30.
 

@@ -1,6 +1,6 @@
 ---
 title: Hidden Knife Armor
-revid: 199275
+revid: 202665
 source: https://deepwoken.fandom.com/wiki/Hidden_Knife_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
@@ -14,7 +14,7 @@ categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
 | tier | Unique |
 | crafting_req | x5 Cloth, x5 Fiber |
 | stat_req | Power 15 |
-| bankable | Yes |
+| bankable | No |
 | droppable | No |
 | durability | 2000 |
 | resistances | +25% Physical Armor+25% Elemental Armor |

@@ -1,6 +1,6 @@
 ---
 title: "Icebringer's Vestments"
-revid: 198758
+revid: 202664
 source: https://deepwoken.fandom.com/wiki/Icebringer's_Vestments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, World Event]
@@ -35,8 +35,6 @@ categories: [Outfits, Unique Outfits, World Event]
 This Outfit costs 1,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), five (5) [Frigid Prisms](Frigid_Prism.md), five (5) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers), eight (8) [Iron](Ores.md#iron), one (1) [Blue Gem](Blue_Gem.md) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 and have at least 45 [Frostdraw](Frostdraw.md) to be crafted.
-
-This Outfit isn't droppable but it is bankable.
 
 ### _Armor Stats_
 

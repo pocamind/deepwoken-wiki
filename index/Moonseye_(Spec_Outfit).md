@@ -1,6 +1,6 @@
 ---
 title: Moonseye (Spec Outfit)
-revid: 194709
+revid: 202681
 source: https://deepwoken.fandom.com/wiki/Moonseye_(Spec_Outfit)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits]
@@ -12,10 +12,10 @@ notices:
 
 | Moonseye (Spec Outfit) | |
 |---|---|
-| tier | Unique |
+| tier | Unique (Exclusive) |
 | price | 1000 |
 | stat_req | Power 15 |
-| bankable | Yes |
+| bankable | No |
 | droppable | No |
 | durability | 4000 |
 | resistances | +35% Physical Armor, +35% Elemental Armor, +25% Shadow Armor, +20% Lightning Armor |
@@ -25,7 +25,7 @@ notices:
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-_Not to be confused with [Moonseye (symbol)](Moonseye.md)._
+_Not to be confused with the [Moonseye](Moonseye.md) or the [Moonseye (Outfit)](<Moonseye_(Outfit).md>)._
 
 **Moonseye** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 

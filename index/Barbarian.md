@@ -1,6 +1,6 @@
 ---
 title: Barbarian
-revid: 196496
+revid: 202673
 source: https://deepwoken.fandom.com/wiki/Barbarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
@@ -12,7 +12,7 @@ categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
 |---|---|
 | caption | Your body is your armor. |
 | tier | Unique |
-| bankable | Yes |
+| bankable | No |
 | droppable | No |
 | durability | 1200 |
 | resistances | +25% Physical Armor, +20% Elemental Armor |

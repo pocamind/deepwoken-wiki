@@ -1,6 +1,6 @@
 ---
 title: Mod Skirt
-revid: 194708
+revid: 202682
 source: https://deepwoken.fandom.com/wiki/Mod_Skirt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits]
@@ -13,11 +13,11 @@ notices:
 | Mod Skirt | |
 |---|---|
 | caption | Just another day at the office. |
-| tier | Unique (Spec/Mod) |
+| tier | Unique (Exclusive) |
 | crafting_req | None |
 | stat_req | None |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | durability | 100 |
 | resistances | None |
 | obtainment | Purchased directly from the Mod Shop. |

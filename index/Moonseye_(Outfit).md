@@ -1,6 +1,6 @@
 ---
 title: Moonseye (Outfit)
-revid: 194628
+revid: 202662
 source: https://deepwoken.fandom.com/wiki/Moonseye_(Outfit)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
@@ -12,7 +12,7 @@ categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
 |---|---|
 | tier | Unique |
 | stat_req | Power 15 |
-| bankable | Yes |
+| bankable | No |
 | droppable | No |
 | durability | 40000 |
 | resistances | +55% Physical Armor, +35% Elemental Armor, +25% Shadow Armor |
@@ -27,7 +27,7 @@ categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
-**Moonseye (Outfit)** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
+**Moonseye (Outfit)** is a Unique [Outfit](Outfits.md) in _Deepwoken_. Not to be confused with the [Moonseye](Moonseye.md) or the [Spec Outfit by the same name](<Moonseye_(Spec_Outfit).md>).
 
 ## Statistics
 

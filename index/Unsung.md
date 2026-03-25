@@ -1,6 +1,6 @@
 ---
 title: Unsung
-revid: 201721
+revid: 202654
 source: https://deepwoken.fandom.com/wiki/Unsung
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Exclusive Outfits]
@@ -12,7 +12,7 @@ categories: [Outfits, Exclusive Outfits]
 |---|---|
 | tier | Unique |
 | stat_req | Power 1 |
-| bankable | Yes |
+| bankable | No |
 | droppable | No |
 | durability | 3000 |
 | resistances | +30% Physical Armor |

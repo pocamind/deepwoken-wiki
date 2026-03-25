@@ -1,6 +1,6 @@
 ---
 title: Sanguine Finery
-revid: 194702
+revid: 202659
 source: https://deepwoken.fandom.com/wiki/Sanguine_Finery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, World Event]
@@ -35,8 +35,6 @@ categories: [Outfits, Unique Outfits, World Event]
 This Outfit costs 1,000 and requires five (5) [Cloth](Cloth.md) and [Fiber](Fiber.md), five (5) [Heartstars](Heartstar.md), eight (8) [Umbrite](Ores.md#umbrite), one (1) [Bloodless Gem](Bloodless_Gem.md), and five (5) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 and have at least 45 [Bloodrend](Bloodrend.md) to be crafted.
-
-This Outfit's schematic is not droppable, but it is bankable.
 
 ### _Armor Stats_
 

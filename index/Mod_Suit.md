@@ -1,6 +1,6 @@
 ---
 title: Mod Suit
-revid: 194707
+revid: 202683
 source: https://deepwoken.fandom.com/wiki/Mod_Suit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Outfits, Unique Outfits, Exclusive Outfits]
@@ -13,11 +13,11 @@ notices:
 | Mod Suit | |
 |---|---|
 | caption | Just another day at the office. |
-| tier | Unique (Spec/Mod) |
+| tier | Unique (Exclusive) |
 | crafting_req | None |
 | stat_req | None |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | durability | 100 |
 | obtainment | Purchased directly from the Mod Shop. |
 | selling_price | 10 |

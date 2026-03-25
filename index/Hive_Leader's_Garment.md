@@ -1,6 +1,6 @@
 ---
 title: "Hive Leader's Garment"
-revid: 194706
+revid: 202650
 source: https://deepwoken.fandom.com/wiki/Hive_Leader's_Garment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits, Developer Spec]
@@ -13,11 +13,11 @@ notices:
 | Hive Leader's Garment | |
 |---|---|
 | caption | The royal robes of the King of the Hive, layered in protective material and luxurious cloth alike, a one-of-a-kind garb that can only be produced every millenia. |
-| tier | Unique (Spec/Mod) |
+| tier | Unique (Exclusive) |
 | price | 30 |
 | stat_req | Power 15 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | durability | 3000 |
 | resistances | +25% Physical Armor, +25% Elemental Armor |
 | selling_price | 10 |

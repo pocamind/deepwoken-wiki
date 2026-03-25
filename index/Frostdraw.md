@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 202618
+revid: 202624
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -317,7 +317,7 @@ Ice
 -   Inflicts 1 second of Chill per hit. This cannot be modified.
 -   Cancels if parried.
 -   Can be canceled by timing a right-click after any of the slashes.
--   Can be upgraded with the _Glacial Mobility_ Talent, which allows you to perform a spinning slice when casting the Mantra after a slide jump, dealing 2x the damage of the first hit of the base version.
+-   Can be upgraded with the _Glacial Mobility_ Talent, which allows you to perform a spinning slice when casting the Mantra while sliding, dealing 2x the damage of the first hit of the base version.
 
  |
 | 

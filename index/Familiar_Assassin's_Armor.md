@@ -1,6 +1,6 @@
 ---
 title: "Familiar Assassin's Armor"
-revid: 198732
+revid: 202672
 source: https://deepwoken.fandom.com/wiki/Familiar_Assassin's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Hallowtide]
@@ -34,8 +34,6 @@ categories: [Outfits, Unique Outfits, Hallowtide]
 This Outfit costs 15,000 and requires five (5) [Cloth](Cloth.md), and five (5) [Fiber](Fiber.md) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
-
-This Outfit's schematic is not droppable, but it is bankable.
 
 ### _Armor Stats_
 

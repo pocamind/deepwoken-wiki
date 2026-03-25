@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 199697
+revid: 202634
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -139,7 +139,7 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
 -   **Mirror Illusion** - Mirror your opponents and use their arsenal to your advantage.
     -   This mantra knocks back targets within its radius and creates an allied clone of them.
         -   Has the same properties as allied Visionshaper clones, including Shaper Mimicry.
-        -   The clone stores the target's last used non-Visionshaper mantra or critical attack, and will attempt to use it on its target when using Reality Shift. (Currently bugged as of 1/19/2026, Clone will stand still and not follow commands.)
+        -   The clone stores the target's last used non-Visionshaper mantra or critical attack, and will attempt to use it on its target when using Reality Shift. (Currently bugged as of 3/21/2026, Clone will stand still and not follow commands, BUT this seems to only happen in PVE.)
         -   Deals 30 (oath?) damage.
         -   Only works on humanoids.
 

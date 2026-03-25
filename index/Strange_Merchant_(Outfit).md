@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant (Outfit)
-revid: 199684
+revid: 202657
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant_(Outfit)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
@@ -12,7 +12,7 @@ categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
 |---|---|
 | tier | Unique |
 | stat_req | Power 15 |
-| bankable | Yes |
+| bankable | No |
 | droppable | No |
 | durability | 9999 |
 | resistances | +10% Physical Armor, +10% Elemental Armor |

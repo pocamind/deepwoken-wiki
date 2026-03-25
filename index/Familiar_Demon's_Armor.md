@@ -1,6 +1,6 @@
 ---
 title: "Familiar Demon's Armor"
-revid: 196197
+revid: 202676
 source: https://deepwoken.fandom.com/wiki/Familiar_Demon's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Hallowtide]
@@ -33,8 +33,6 @@ categories: [Outfits, Unique Outfits, Hallowtide]
 This Outfit costs 5,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Dread Serpent's Tooth](<Dread_Serpent's_Tooth.md>) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
-
-This Outfit's schematic is not droppable, but it is bankable.
 
 ### _Armor Stats_
 

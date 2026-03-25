@@ -1,6 +1,6 @@
 ---
 title: "Jester's Garb"
-revid: 194701
+revid: 202663
 source: https://deepwoken.fandom.com/wiki/Jester's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, World Event]
@@ -35,8 +35,6 @@ categories: [Outfits, Unique Outfits, World Event]
 This Outfit costs 400 and requires seven (7) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and ten (10) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 12 to be crafted.
-
-This Outfit's schematic is not droppable, but it is bankable.
 
 ### _Armor Stats_
 

@@ -1,6 +1,6 @@
 ---
 title: "Heretic's Memento"
-revid: 194694
+revid: 202666
 source: https://deepwoken.fandom.com/wiki/Heretic's_Memento
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, World Event]
@@ -10,7 +10,7 @@ categories: [Outfits, Unique Outfits, World Event]
 
 | Heretic's Memento | |
 |---|---|
-| caption | All the rage among those with a desire to flaunt the trophies of their achievements. More notoriously donned as a testament to one's strength, though the obnoxiously gold adornments seem to indicate an equally flashy ego to a more keen-eyed observer |
+| caption | All the rage among those with a desire to flaunt the trophies of their achievements. More notoriously donned as a testament to one's strength, though the obnoxiously gold adornments seem to indicate an equally flashy ego to a more keen-eyed observer. |
 | tier | Unique |
 | crafting_req | x10 Cloth, x5 Fiber, x5 Gold, x1 Wayward Gem, x5 Vibrant Gem |
 | price | 500 |
@@ -35,8 +35,6 @@ categories: [Outfits, Unique Outfits, World Event]
 This Outfit costs 500 and requires ten (10) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), five (5) [Gold](Ores.md#gold), one (1) [Wayward Gem](Wayward_Gem.md), and five (5) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
-
-This Outfit's schematic is not droppable, but it is bankable.
 
 ### _Armor Stats_
 

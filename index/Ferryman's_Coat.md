@@ -1,6 +1,6 @@
 ---
 title: "Ferryman's Coat"
-revid: 194619
+revid: 202667
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits]
@@ -36,15 +36,13 @@ This Outfit costs 400 and requires seven (7) [Cloth](Cloth.md), five (5) [Fiber]
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 12 to be crafted.
 
-This Outfit's schematic is not droppable, but it is bankable.
-
 ### _Armor Stats_
 
 This Outfit has 2500 durability and grants +20% Physical resistance, +35% Elemental resistance, +25% Lightning resistance, +5% Wind resistance, +5% Blunt Resistance and +50% Ether Regen.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 24% Blunt, 20% Slash, 51.25% Thundercall, 38.25% Galebreathe, and 35% Elemental.
 
-The Outfit provides the [Ferryman's Curse](Talents.md#equipment-talents) Talent, which has a 20% chance to convert incoming elemental damage into Lightning damage. When an elemental move strikes the wearer, the Outfit (visually) lets out bolts of lightning.
+The Outfit provides the [Ferryman's Curse](Talents.md#ferrymans-curse) Talent, which has a 20% chance to convert incoming elemental damage into Lightning damage. On proc, the Outfit (visually) lets out bolts of lightning.
 
 ## Trivia
 

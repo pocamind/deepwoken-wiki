@@ -1,6 +1,6 @@
 ---
 title: Etrean Rogue
-revid: 194728
+revid: 202677
 source: https://deepwoken.fandom.com/wiki/Etrean_Rogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits]
@@ -13,7 +13,6 @@ categories: [Outfits]
 | caption | Sturdy leather armor, fashioned for the hunters sent down into Etrea's forest. |
 | tier | Removed |
 | crafting_req | x3 Crystal Lenses, x3 Spark Glands |
-| price | 0 |
 | stat_req | 30 Agility |
 | bankable | No |
 | droppable | No |
@@ -30,7 +29,7 @@ categories: [Outfits]
 
 ### _Requirements_
 
-This Outfit costs 0 and requires three (3) [Crystal Lenses](Mantra_Modifiers.md#regular-modifiers) and three (3) [Spark Glands](Spark_Gland.md) to craft.
+This Outfit requires three (3) [Crystal Lenses](Mantra_Modifiers.md#regular-modifiers) and three (3) [Spark Glands](Spark_Gland.md) to craft.
 
 This Outfit additionally requires the player to have 30 [Agility](Attributes.md#agl) to be crafted.
 

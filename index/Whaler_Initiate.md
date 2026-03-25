@@ -1,6 +1,6 @@
 ---
 title: Whaler Initiate
-revid: 194637
+revid: 202638
 source: https://deepwoken.fandom.com/wiki/Whaler_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits, The Knives of Eylis]
@@ -14,8 +14,8 @@ categories: [Outfits, Starter Outfits, The Knives of Eylis]
 | tier | Starter |
 | price | 100 |
 | stat_req | Power 5 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | durability | 1500 |
 | resistances | +15% Physical Armor, +5% Elemental Armor |
 | buffs | +25% Stealth |

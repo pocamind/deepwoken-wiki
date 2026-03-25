@@ -1,6 +1,6 @@
 ---
 title: Ether Refined Brim
-revid: 202013
+revid: 202628
 source: https://deepwoken.fandom.com/wiki/Ether_Refined_Brim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Hats, Head, Craftable, Equipment with Set Bonuses]
@@ -38,13 +38,17 @@ Variants: [Mantle](Ether_Refined_Mantle.md)
 
 The **Ether Refined Brim** is a Unique tier [Equipment](Equipment.md) item under the "Head" category.
 
-The [Sorcerer's Skill](Talents.md#sorcerers-skill) Talent decreases the [Tempo](Combat_Mechanics.md#tempo) cost of [Venting](Combat_Mechanics.md#tempo) by 5 (about 22%).
+Has the [Sorcerer's Skill](Talents.md#sorcerers-skill) Talent: "Decrease the amount of tempo it costs to vent by 5."
+
+-   Despite the description it does not decrease the cost of venting, instead providing an extra 5 [Tempo](Combat_Mechanics.md#tempo) post [Vent](Combat_Mechanics.md#tempo).
+
+-   For reference a 40 [Tempo](Combat_Mechanics.md#tempo) vent (The default cost) gains back 12.5% of the [Tempo](Combat_Mechanics.md#tempo) used back after venting.
 
 This item is the Pathfinder equivalent of the [Sorcerer's Brim](<Sorcerer's_Brim.md>).
 
 ## Set Talent: Sorcerer's Supply
 
-When wearing the full equipment set, you will gain the Set Talent.
+When wearing the full equipment set, you will gain the Set Talent:
 
 Set Talent: [Sorcerer's Supply](Talents.md#sorcerers-supply) - Increase the amount of [Tempo](Combat_Mechanics.md#tempo) you have by 10/30.
 

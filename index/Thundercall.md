@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 199134
+revid: 202629
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -773,12 +773,12 @@ N/A
  |
 | 
 
-**Effect:** _Enveloped in lightning, increase the user's agility, swing speed (+10%), and granting them lightning dashes (long dodges)._
+**Effect:** _Enveloped in lightning, increase the user's agility, swing speed (+2%), and granting them lightning dashes (long dodges)._
 
 -   Has a base duration of 8/8.5/9/9.5/10 seconds per level.
 -   To increase the duration, you must parry, get parried, block, or attack, refreshing the duration entirely.
     -   Lightning cloak has a maximum duration of 60 seconds.
--   Increases your swing speed by 10% for its full duration. This is applied after [Vigil's Grace](Vigil_Sentinel.md) and [Action Surge](Talents.md#vigil-swordsman), allowing you to reach very high swingspeed on certain weapons.
+-   Increases your swing speed by 2% for its full duration. This is applied after [Vigil's Grace](Vigil_Sentinel.md) and [Action Surge](Talents.md#vigil-swordsman), allowing you to reach very high swingspeed on certain weapons.
 -   Grants a 35% speed boost for its full duration, proccing speed boost-reliant Talents (such as "**Speed Demon**").
 -   Turns all dashes into lightning dashes for its full duration, increasing their distance travelled and i-frames duration.
 -   If you have no Tempo, the duration as well as the refreshing duration will be halved, applied retroactively.

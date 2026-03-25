@@ -1,11 +1,11 @@
 ---
 title: Gatherhand
-revid: 202553
+revid: 202686
 source: https://deepwoken.fandom.com/wiki/Gatherhand
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages]
+categories: [In progress with reason, InProgressPages]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
+  - This page is currently being worked on. Needs letters in Gatherhand
 ---
 
 # Gatherhand
@@ -15,6 +15,8 @@ notices:
 Gatherhand is a writing system used to transcribe [common](Common.md).
 
 ### Letters
+
+In Gatherhand, letters that are underlined emphasize capitalization.
 
 <table>
 <tbody>
@@ -48,7 +50,7 @@ Gatherhand is a writing system used to transcribe [common](Common.md).
   <td><b>Z</b></td>
 </tr>
 <tr>
-  <th><b>Cipher</b></th>
+  <th><b>Gatherhand</b></th>
   <td></td>
   <td></td>
   <td></td>
@@ -78,3 +80,7 @@ Gatherhand is a writing system used to transcribe [common](Common.md).
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   The earliest form of Gatherhand was shown in the [Oath: Saintsworn](Oath%253A_Saintsworn.md) cosmetic and its [respective weapon](Oath%253A_Saintsworn.md#abilities).

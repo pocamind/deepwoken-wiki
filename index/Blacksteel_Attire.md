@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Attire
-revid: 194632
+revid: 202674
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
@@ -14,7 +14,7 @@ categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
 | tier | Unique |
 | crafting_req | N/A |
 | stat_req | Power 5 |
-| bankable | Yes |
+| bankable | No |
 | droppable | No |
 | durability | 1000 |
 | resistances | +30% Physical Armor+10% Slash Armor, +35% Fire Armor |

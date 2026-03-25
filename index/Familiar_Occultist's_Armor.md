@@ -1,6 +1,6 @@
 ---
 title: "Familiar Occultist's Armor"
-revid: 185786
+revid: 202668
 source: https://deepwoken.fandom.com/wiki/Familiar_Occultist's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Hallowtide]
@@ -35,8 +35,6 @@ This Outfit costs 10,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fibe
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
 
-This Outfit's schematic is not droppable, but it is bankable.
-
 ### _Armor Stats_
 
 This Outfit has 2000 durability and grants +25% Physical Armor, +25% Elemental Armor, +20% Shadow Armor, and +50% Ether Regen. Additionally, it provides the [Life Leech](Talents.md#life-leech) Talent.
@@ -61,4 +59,4 @@ The [Life Leech](Talents.md#life-leech) Talent grants healing whenever your summ
 
 -   This outfit is based on Rogue Lineage's [Master Necromancer](https://rogue-lineage.fandom.com/wiki/Master_Necromancer) armor, the Necromancer armor.
 -   The Life Leech talent is a passive similarly featured on the Necromancer class in Rogue Lineage, where summoned Shriekers would heal their summoner when dealing damage.
--   The oufit granting Shadow Armor is a nod to the Necromancer armor granting immunity to Curse Stacks.
+-   The oufit granting Shadow Armor is a nod to Rogue Lineage's Necromancer armor granting immunity to Curse Stacks.
