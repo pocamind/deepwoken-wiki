@@ -1,6 +1,6 @@
 ---
 title: Giant Femur
-revid: 190579
+revid: 202778
 source: https://deepwoken.fandom.com/wiki/Giant_Femur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
@@ -15,7 +15,7 @@ categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
 | stack | x6 |
 | type | Ingredient |
 | rarity | Rare |
-| bankable | Yes, for 1 |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
 | pass down | No |
 | desc | A giant femur harvested from the leg of a bonekeeper.. |

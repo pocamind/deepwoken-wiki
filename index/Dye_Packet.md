@@ -1,6 +1,6 @@
 ---
 title: Dye Packet
-revid: 194780
+revid: 202758
 source: https://deepwoken.fandom.com/wiki/Dye_Packet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics]
@@ -15,7 +15,7 @@ categories: [Items, Relics]
 | type | Treasure |
 | rarity | Common |
 | usage | Changing the color of Equipment items, Aspect/character features, and other cosmetics. |
-| bankable | Yes, for 1 , (banks the entire stack) |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
 | pass down | No |
 | desc | A vial of swirling colors crafted by the hand of a powerful Dawnwalker. Used to dye your equipment and various aspects of your appearance. |

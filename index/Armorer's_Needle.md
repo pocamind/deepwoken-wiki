@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Needle"
-revid: 200230
+revid: 202757
 source: https://deepwoken.fandom.com/wiki/Armorer's_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics]
@@ -15,7 +15,7 @@ categories: [Pathfinder Exclusive, Relics]
 | type | Utility |
 | rarity | Relic |
 | usage | Rerolling the Pips on Equipment items. |
-| bankable | Yes, for 1 |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | Yes, but not on death |
 | pass down | No |
 | desc | A needle imbued with Ironsing, capable of making precise adjustments to the characteristics of equipment. |

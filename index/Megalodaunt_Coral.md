@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt Coral
-revid: 195508
+revid: 202775
 source: https://deepwoken.fandom.com/wiki/Megalodaunt_Coral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
@@ -15,11 +15,11 @@ categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
 | stack | x6 |
 | type | Ingredient |
 | rarity | Rare |
-| bankable | Yes, for 1 |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
 | pass down | No |
 | desc | Intact coral from the back of a megalodaunt. |
-| obtainment | Direct drop:, Megalodaunt, Alpha Megalodaunt, Crimson Megalodaunt, Exotic Megalodaunt, Prime Megalodaunt |
+| obtainment | Direct drop:, Any Megalodaunt Variant |
 
 ## Description
 

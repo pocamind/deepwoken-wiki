@@ -1,6 +1,6 @@
 ---
 title: Enforcer Eye
-revid: 190580
+revid: 202760
 source: https://deepwoken.fandom.com/wiki/Enforcer_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Monster Mantra Ingredients, Ingredients]
@@ -15,7 +15,7 @@ categories: [Items, Drops, Monster Mantra Ingredients, Ingredients]
 | stack | x6 |
 | type | Ingredient |
 | rarity | Rare |
-| bankable | Yes, for 1 |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
 | pass down | No |
 | desc | An eye ripped from the remains of an Enforcer before it turns into ash, a legendary item.. |

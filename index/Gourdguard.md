@@ -1,6 +1,6 @@
 ---
 title: Gourdguard
-revid: 191757
+revid: 202747
 source: https://deepwoken.fandom.com/wiki/Gourdguard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Event Item, Hallowtide, Offhand]
@@ -18,7 +18,7 @@ categories: [Weapons, Shields, Event Item, Hallowtide, Offhand]
 | rarity | Legendary |
 | selling price | 50 |
 | weight | 2 |
-| bankable | Yes, for 1 |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
 | enchantable | No |
 | pass down | Yes |

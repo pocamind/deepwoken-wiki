@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 199331
+revid: 202829
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Fishing, Mechanics]
@@ -240,8 +240,7 @@ Lucky Spot
 -   You can get **[Enchants](Enchantments.md)**, **[Deep Gems](Deep_Gems.md)**, and **Legendary/Mythic Equipment** from fishing chests, but it is **VERY** rare. Specific locations seem to have higher chances of getting these.
 -   Fishing will level your Strength, Fortitude, Intelligence, Willpower and Charisma by default.
 -   Fishing used to contain every single item inside of it's lootpool as long as it was in **any chest pool**, this lead to infamous incidents such as the **Verse 1 Enchant Shard incident**. After this happened, a quick patch was rolled out to allow blacklists to items and chest pools, such as the blacklisting of Enchant Stone chests.
-    -   Ever since this patch was rolled out, fishing activity declined.
 -   During the Warring States Era fishing would give points to the aspect you had.
--   Fishing up a golden swordfish allows you to use it as a weapon.
+-   Fishing up a [Golden Swordfish](Golden_Swordfish.md) allows you to use it as a weapon.
 -   Fishing without a lucky spot is not recommended. You cant fish lionfish and swordfishes are very rare (more than the weapon [Dormant Splinter](Dormant_Splinter.md)). Lucky spots cant gives you Seaweed/Leather boot if you have all the fishing talents.
--   Lionfish caught in the New Kyrsa fishing spot will be capable of using their beam attack, as you're in the Depths.
+-   [Lionfish's](Lionfish.md) can be caught in the New Kyrsa fishing spot and will be capable of using **Cero**.

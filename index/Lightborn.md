@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 201959
+revid: 202772
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Aspects, Exclusive Aspects, Developer Spec, The Heavens]
@@ -30,6 +30,16 @@ Hybrids of Humans and [Celestials](Celestial.md), some of them once inhabited th
 
 <table>
 <tbody>
+<tr>
+  <td></td>
+  <td><b>Ad Astra</b>
+  <ul>
+    <li><i>Return Home</i>
+  <ul>
+    <li>Teleports you to <a href="The_Floating_Keep.md">The Floating Keep</a>, using it while inside of the Floating Keep will instead take you back to where you used it.</li>
+  </ul></li>
+  </ul><hr></td>
+</tr>
 <tr>
   <td><center><font>+2</font></center></td>
   <td><b>Attribute Boosts</b>
@@ -109,9 +119,7 @@ Lightborn has 6 halo colors and 3 three halo variants
 -   Lightborn and Capra were the first aspects to receive a cosmetic item in the **UGC Avatar Shop**.
 -   The halo is listed under the **[Deepwoken UGC group](https://www.roblox.com/communities/16769317/Deepwoken-UGC#!/about)**.
 -   According to Melonbeard, Sariel Moros, the only known Lightborn without the surname _Spellhardt,_ is said to be an exiled Lightborn who collaborated, or attempted to collaborate, with the Drowned Gods. It’s unclear how much of this is canon and is most likely just the developers’ edgier interpretation of the Lightborn aspect.
--   The runes inscribed on the halo roughly translate to: "Be the mysterious light the few who were chosen."
--   Lightborn used to have a Talent tool called "Ad Astra". On use, this would allow you to travel to and from [the Floating Keep](The_Floating_Keep.md). If a Lightborn entered a server, [the Floating Keep](The_Floating_Keep.md) would spawn in permanently.
-    -   Strangely, this tool did not have a Talent card tied to it, allowing players to obtain it in [Pathfinder](Pathfinder.md) if they had Lightborn as their aspect on their [Vow of Iron](Vow_of_Iron.md) counterpart. This also caused the Floating Keep to spawn in Pathfinder.
-    -   Dyeing your halo when the "Arms" option is picked only dyes a singular halo, allowing for multi-colour dye.
+-   The runes inscribed on the halo roughly translate to: "Be the mysterious light the few who were chosen.
+-   Dyeing your halo when the "Arms" option is picked only dyes a singular halo, allowing for multi-colour dye.
 
 1.  [↑](#cite-ref-1) There is another surname, Moros, it is however only held by one rogue Lightborn.

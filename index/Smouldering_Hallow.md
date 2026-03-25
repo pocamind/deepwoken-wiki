@@ -1,6 +1,6 @@
 ---
 title: Smouldering Hallow
-revid: 201534
+revid: 202752
 source: https://deepwoken.fandom.com/wiki/Smouldering_Hallow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatcannons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Event Item, Hallowtide, Heavy Weapons]
@@ -27,7 +27,7 @@ categories: [Weapons, Criticals with M1 tag, Greatcannons, Weapons with Unique C
 | rarity | Legendary |
 | selling price | 50 |
 | weight | 2 |
-| bankable | Yes, for 1 |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |

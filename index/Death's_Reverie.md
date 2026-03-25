@@ -1,6 +1,6 @@
 ---
 title: "Death's Reverie"
-revid: 193415
+revid: 202725
 source: https://deepwoken.fandom.com/wiki/Death's_Reverie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Twinblades, Weapons with Unique Criticals, Event Item, Hallowtide, Medium Weapons]
@@ -27,7 +27,7 @@ categories: [Weapons, Criticals with M1 tag, Twinblades, Weapons with Unique Cri
 | rarity | Legendary |
 | selling price | 50 |
 | weight | 2 |
-| bankable | Yes, for 1 |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Hallowscleave
-revid: 200049
+revid: 202748
 source: https://deepwoken.fandom.com/wiki/Hallowscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Event Item, Hallowtide, Medium Weapons]
@@ -28,7 +28,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Event Item, Hallowtide, Med
 | rarity | Legendary |
 | selling price | 50 |
 | weight | 2 |
-| bankable | Yes, for 1 |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |

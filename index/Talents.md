@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 202611
+revid: 202773
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1919,10 +1919,14 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of Iron](Vow_of_Iron.md) gamemode, you will additionally gain the [Vow of Iron exclusive Aspect Talents](#innate-vow-of-iron) from your respective Aspect.
 
+-   _Ad Astra_ \[Race Talent, [Lightborn](Lightborn.md) Exclusive\] - Return Home
+    -   Grants a Talent tool that teleports you to [The Floating Keep](The_Floating_Keep.md) on use.
+    -   Using it while inside of the Floating Keep will take you back to where you initially used it.
+
 -   _Chitin_ \[Race Talent, [Vesperian](Vesperian.md) Exclusive\] - You have a layer of Natural Armor that replenishes when you rest.
     -   Grants 5% damage reduction in the form of Natural Armor.
     -   Chitin has 215 durability at power 1, scaling up to 500 durability at power 20.
-    -   Chitin's damage reduction stacks multiplicatively with the Exoskeleton Talent, up to a maximum of 14.5% physical resistance.
+    -   Chitin's damage reduction stacks multiplicatively with the Exoskeleton Talent, granting 14.5% damage reduction assuming you have at least 40 Fortitude.
     -   Having both Exoskeleton and Chitin will cause Exoskeleton's durability to take priority, with +200 flat durability added on top, leading to 800 total durability at power 20.
     -   Natural Armor regenerates while resting at a campfire at a rate of 2.2% per 0.2s, aka 11% per second.
     -   Natural Armors are affected by PEN, but its effectiveness is reduced by 75%. (i.e. if someone has 100% PEN, your Natural Armor will resist 7.5% of their damage instead of nothing.)

@@ -1,6 +1,6 @@
 ---
 title: Rain Spire
-revid: 190459
+revid: 202765
 source: https://deepwoken.fandom.com/wiki/Rain_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items, Spires]
@@ -15,7 +15,7 @@ categories: [Relics, Items, Spires]
 | type | Utility |
 | rarity | Relic |
 | usage | Causing it to Rain and creating fishing spots in nearby water for 5 minutes. |
-| bankable | Yes, for 1 |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
 | pass down | No |
 | desc | Summon a temporary storm at your location. |

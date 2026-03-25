@@ -1,6 +1,6 @@
 ---
 title: Skull Piercer
-revid: 196661
+revid: 202751
 source: https://deepwoken.fandom.com/wiki/Skull_Piercer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Event Item, Hallowtide, Light Weapons]
@@ -28,7 +28,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | rarity | Legendary |
 | selling price | 50 |
 | weight | 2 |
-| bankable | Yes, for 1 |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |

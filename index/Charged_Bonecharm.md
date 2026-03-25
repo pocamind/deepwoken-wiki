@@ -1,6 +1,6 @@
 ---
 title: Charged Bonecharm
-revid: 200534
+revid: 202780
 source: https://deepwoken.fandom.com/wiki/Charged_Bonecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Monster Mantra Ingredients]

@@ -1,6 +1,6 @@
 ---
 title: "Lightkeeper's Medallion"
-revid: 193371
+revid: 202770
 source: https://deepwoken.fandom.com/wiki/Lightkeeper's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces, Relics, Equipment Relics]
@@ -17,7 +17,7 @@ categories: [Equipment, Torso, Necklaces, Relics, Equipment Relics]
 | weight | 0.5 |
 | innate stats | +1 Legendary Pip |
 | innate talent | Elegy of Light |
-| bankable | Yes, for 1 |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |

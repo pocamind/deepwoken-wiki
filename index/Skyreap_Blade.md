@@ -1,6 +1,6 @@
 ---
 title: Skyreap Blade
-revid: 202296
+revid: 202753
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Greataxes, Event Item, Hallowtide, Heavy Weapons]
@@ -27,7 +27,7 @@ categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animati
 | rarity | Legendary |
 | selling price | 50 |
 | weight | 2 |
-| bankable | Yes, for 1 |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |

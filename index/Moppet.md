@@ -1,6 +1,6 @@
 ---
 title: Moppet
-revid: 200563
+revid: 202749
 source: https://deepwoken.fandom.com/wiki/Moppet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Animations, Event Item, Hallowtide, Light Weapons]
@@ -26,7 +26,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Animat
 | rarity | Legendary |
 | selling price | 50 |
 | weight | 2 |
-| bankable | Yes, for 1 |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |

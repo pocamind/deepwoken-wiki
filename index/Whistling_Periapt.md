@@ -1,6 +1,6 @@
 ---
 title: Whistling Periapt
-revid: 199307
+revid: 202834
 source: https://deepwoken.fandom.com/wiki/Whistling_Periapt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Necklaces, Torso, Equipment, Relics, Equipment Relics]
@@ -11,13 +11,13 @@ categories: [Necklaces, Torso, Equipment, Relics, Equipment Relics]
 | Whistling Periapt | |
 |---|---|
 | type | Torso |
-| rarity | Mythical |
+| rarity | Relic |
 | selling price | 120 |
 | requirements | Power 8 |
 | weight | 0.5 |
 | innate stats | +1 Health , +8% Wind Armor |
 | innate talent | Whistleguard |
-| bankable | Yes, for 1 |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
@@ -30,9 +30,11 @@ The Whistling Periapt, or commonly referred to as Duke Relic, is a [Relic](Relic
 
 When equipped, the gemstone emits constant rays of green light.
 
-[Whistleguard](Talents.md#whistleguard) applies a shield of wind after inflicting continuous damage onto an enemy without taking damage, parrying, or dodging. The shield grants protection against one hit, automatically "parrying" it before dissipating. The shield will also dissipate over time if it has not received any damage.
+[Whistleguard](Talents.md#whistleguard) applies a shield of wind after inflicting continuous damage onto an enemy without taking damage, parrying, or dodging. The shield grants protection against one hit, absorbing the hit before dissipating.
 
-The "parry" itself does not grant autoparry frames like a usual parry would. Shields cannot stack.
+While a shield is active, performing combat actions other than basic attacks will have it expire early. It will also expire after some time has passed if the user took no damage.
+
+The hit absorption does not grant autoparry frames like a usual parry would. Shields cannot stack.
 
 Whistleguard has a cooldown of **10 seconds**.
 
@@ -47,7 +49,7 @@ Burn damage in PvE combat can also trigger Whistleguard.
 -   This item is able to be passed down to another life and stored in the item bank.
 -   If smelted, cannot be banked (you can still use it as the attributes and bank it).
 -   Whistling Periapt cannot autoparry Vents.
--   It can synergize with the talent _Force Your Way_ provided by [Ignition Deepdelver](Ignition_Deepdelver.md) or [Ignition Gauntlets](Ignition_Gauntlets.md), which will allow the shield to parry unparryable attacks.
+-   It can synergize with the talent _Force Your Way and Diver's Resilience_ provided by [Ignition Deepdelver](Ignition_Deepdelver.md) ,[Ignition Gauntlet](Ignition_Gauntlets.md) and Grand Fisher Plate which will allow the shield to parry unparryable attacks.
 -   This is one of the droppable torso relics alongside the [Tiran Pendant](Tiran_Pendant.md), [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>), and the [Warmaster's Medallion](<Warmaster's_Medallion.md>).
 -   Upon equipping the Whistling Periapt it does NOT get soulbound and may be dropped once more.
 -   When you have the [Tidal Shock](Talents.md#equipment-talents) CD, you cannot use [Whistleguard](Talents.md#whistleguard), and when you use [Whistleguard](Talents.md#whistleguard) and critical hit with [Cala-Mariner](Cala-Mariner.md), [Whistleguard](Talents.md#whistleguard) will break.

@@ -1,6 +1,6 @@
 ---
 title: Spectral Grasp
-revid: 201311
+revid: 202788
 source: https://deepwoken.fandom.com/wiki/Spectral_Grasp
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Event Item, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Daggers, Hallowtide, Light Weapons]
@@ -27,7 +27,7 @@ categories: [Weapons, Criticals with M1 tag, Event Item, Weapons with Unique Cri
 | rarity | Legendary |
 | selling price | 50 |
 | weight | 2 |
-| bankable | Yes, for 1 |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 200950
+revid: 202727
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Enchantments, Weapon Enchantments]
@@ -15,7 +15,7 @@ categories: [Items, Relics, Enchantments, Weapon Enchantments]
 | type | Relic |
 | rarity | Mythical |
 | usage | Enchanting your equipped Weapon. |
-| bankable | Yes |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
 | pass down | No |
 | desc | A shard of enchantment, it can apply its given Enchant to your currently equipped weapon. |

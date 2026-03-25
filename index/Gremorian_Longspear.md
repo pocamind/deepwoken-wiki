@@ -1,6 +1,6 @@
 ---
 title: Gremorian Longspear
-revid: 198382
+revid: 202828
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Spears, Alloyed Weapons, The Children of Navae, Medium Weapons, Navae Weapons]
@@ -51,7 +51,5 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 -   You can farm the [Eastern Nomads](Eastern_Nomad.md) in Etris for the spear, although this comes at the cost of your reputation with them.
     -   Killing the ones at Summer Isle will not cost you rep, but you will have a harder battle due to the [Ministry Scouts](Ministry_Scout.md) and the fact they are already in combat.
--   Could be a direct reference to the Deep Knight class from Rogue Lineage.
--   Critical attack reels players in and stuns them even if they block it.
 -   This weapon was once able to pull players who had a forcefield on them out of it.
--   One of the two spears that have 1x swingspeed, the other being the [Imperial Staff](Imperial_Staff.md).
+-   It could possibly be a reference to the Deep Knight class from _Rogue Lineage_, being a spear with a chain pull ability.

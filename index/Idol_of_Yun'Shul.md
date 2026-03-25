@@ -1,6 +1,6 @@
 ---
 title: "Idol of Yun'Shul"
-revid: 200233
+revid: 202736
 source: https://deepwoken.fandom.com/wiki/Idol_of_Yun'Shul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Items]
@@ -15,7 +15,7 @@ categories: [Pathfinder Exclusive, Relics, Items]
 | type | Treasure |
 | rarity | Relic |
 | usage | Allows you to make a Yun'Shul wish from anywhere, even if you do not have a Resonance. |
-| bankable | Yes, for 1 |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | Yes, but not on death |
 | pass down | No |
 | desc | An idol utilised in rituals to call forth the Voice of Yun'Shul. |

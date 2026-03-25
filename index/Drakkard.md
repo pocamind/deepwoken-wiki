@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 185302
+revid: 202728
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Vow of Iron Exclusive, Exclusive Aspects, Aspects]
@@ -25,6 +25,24 @@ _Hailing from the Northern Luminant, these worshippers of the Edenkite are auspi
 An aspect of nomadic dragons from the North.
 
 ## Traits
+
+**Vow of Iron:**
+
+<table>
+<tbody>
+<tr>
+  <td></td>
+  <td><b>Scales of the Edenkite</b>
+  <ul>
+    <li><i>"In order to resolve conflict in Lumen, you need to be able to handle any situation thrown at you. Activate your Scales to reduce all damage taken by 80% and de-aggro enemies briefly. [3 minute CD]"</i>
+  <ul>
+    <li>Grants a Talent tool that gives 80% damage reduction for 5 seconds. This has a 3 minute cooldown.</li>
+    <li>The deaggro effect mentioned in the description does <b>not</b> work.</li>
+  </ul></li>
+  </ul><hr></td>
+</tr>
+</tbody>
+</table>
 
 **Pathfinder (Unobtainable):**
 
@@ -55,26 +73,6 @@ An aspect of nomadic dragons from the North.
 </tr>
 </tbody>
 </table>
-
-**Vow of Iron:**
-
-<table>
-<tbody>
-<tr>
-  <td></td>
-  <td><b>Scales of the Edenkite</b>
-  <ul>
-    <li><i>"In order to resolve conflict in Lumen, you need to be able to handle any situation thrown at you. Activate your Scales to reduce all damage taken by 80% and de-aggro enemies briefly. [3 minute CD]"</i>
-  <ul>
-    <li>Grants a Talent tool that gives 80% damage reduction for 5 seconds. This has a 3 minute cooldown.</li>
-    <li>The deaggro effect mentioned in the description does <b>not</b> work.</li>
-  </ul></li>
-  </ul><hr></td>
-</tr>
-</tbody>
-</table>
-
-  
 
 ## Miscellaneous
 

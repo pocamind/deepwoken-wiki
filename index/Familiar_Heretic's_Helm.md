@@ -1,6 +1,6 @@
 ---
 title: "Familiar Heretic's Helm"
-revid: 191759
+revid: 202738
 source: https://deepwoken.fandom.com/wiki/Familiar_Heretic's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Event Item, Hallowtide]
@@ -17,7 +17,7 @@ categories: [Equipment, Head, Helmets, Event Item, Hallowtide]
 | weight | 1 |
 | innate stats | +10 HP, +1 Uncommon Pip, +1 Rare Pip |
 | innate talent | N/A |
-| bankable | Yes, for 1 |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |

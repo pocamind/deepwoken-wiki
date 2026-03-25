@@ -1,6 +1,6 @@
 ---
 title: Crawling Necktie
-revid: 191764
+revid: 202746
 source: https://deepwoken.fandom.com/wiki/Crawling_Necktie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Equipment, Torso, Ties, Hallowtide, Event Item]
@@ -19,7 +19,7 @@ notices:
 | weight | 0.5 |
 | innate stats | +3% Shadow Armor, +2 Legendary Pips |
 | innate talent | N/A |
-| bankable | Yes, for 1 |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
 | enchantable | No |
 | pass down | Yes |

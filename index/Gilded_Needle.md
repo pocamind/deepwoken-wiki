@@ -1,6 +1,6 @@
 ---
 title: Gilded Needle
-revid: 200229
+revid: 202735
 source: https://deepwoken.fandom.com/wiki/Gilded_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics]
@@ -13,7 +13,7 @@ categories: [Pathfinder Exclusive, Relics]
 | type | Utility |
 | rarity | Relic |
 | selling price | 400 |
-| bankable | Yes, for 1 |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | Yes, but not on death |
 | enchantable | Yes |
 | pass down | Yes |

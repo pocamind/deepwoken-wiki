@@ -1,6 +1,6 @@
 ---
 title: Tiran Pendant
-revid: 191744
+revid: 202768
 source: https://deepwoken.fandom.com/wiki/Tiran_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces, Relics]
@@ -17,7 +17,7 @@ categories: [Equipment, Torso, Necklaces, Relics]
 | weight | 0.5 |
 | innate stats | +2 HP, +1 Legendary Pip |
 | innate talent | Featherfall |
-| bankable | Yes |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |

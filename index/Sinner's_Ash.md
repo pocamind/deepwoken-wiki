@@ -1,6 +1,6 @@
 ---
 title: "Sinner's Ash"
-revid: 200232
+revid: 202766
 source: https://deepwoken.fandom.com/wiki/Sinner's_Ash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Items]
@@ -15,7 +15,7 @@ categories: [Pathfinder Exclusive, Relics, Items]
 | type | Treasure |
 | rarity | Relic |
 | usage | Corrupting your Resonance or obtaining the Soulbreaker Oath. |
-| bankable | Yes, for 1 |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | Yes, but not on death |
 | pass down | No |
 | desc | Remnants of the Forge of Sin that warp and stain what they touch. Said to hold a fragment of the Forge's ability to shape souls, though with unpredictable outcomes. |

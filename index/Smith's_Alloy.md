@@ -1,6 +1,6 @@
 ---
 title: "Smith's Alloy"
-revid: 200234
+revid: 202767
 source: https://deepwoken.fandom.com/wiki/Smith's_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Items]
@@ -15,7 +15,7 @@ categories: [Pathfinder Exclusive, Relics, Items]
 | type | Treasure |
 | rarity | Relic |
 | usage | Increase or reroll Quality Stars on weapons., Obtain Motifs. |
-| bankable | Yes, for 1 |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | Yes, but not on death |
 | pass down | No |
 | desc | A cruder form of the famed Pluripotent Alloy, this fusion of rare metals is still renowned for its ability to draw out hidden strength in weapons. |

@@ -1,9 +1,9 @@
 ---
 title: Hippocampal Pool
-revid: 201245
+revid: 202782
 source: https://deepwoken.fandom.com/wiki/Hippocampal_Pool
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics, Death]
+categories: [Pathfinder Exclusive, Mechanics, Death]
 ---
 
 # Hippocampal Pool
@@ -11,6 +11,10 @@ categories: [Mechanics, Death]
 | Hippocampal Pool | |
 |---|---|
 | location | Fragments of Self |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

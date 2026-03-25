@@ -1,6 +1,6 @@
 ---
 title: Iron Spear
-revid: 196714
+revid: 202826
 source: https://deepwoken.fandom.com/wiki/Iron_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons]

@@ -1,12 +1,16 @@
 ---
 title: Item Bank
-revid: 198553
+revid: 202781
 source: https://deepwoken.fandom.com/wiki/Item_Bank
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics]
+categories: [Pathfinder Exclusive, Mechanics]
 ---
 
 # Item Bank
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Overview
 

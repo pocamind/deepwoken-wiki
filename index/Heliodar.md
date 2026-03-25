@@ -1,6 +1,6 @@
 ---
 title: Heliodar
-revid: 196128
+revid: 202740
 source: https://deepwoken.fandom.com/wiki/Heliodar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Vow of Iron Exclusive, Aspects, Exclusive Aspects, Developer Spec]
@@ -42,8 +42,6 @@ Eclipse (Racial Variant likely) - "For what if the Ash were to never return to f
 
 **Pathfinder:**
 
-  
-
 <table>
 <tbody>
 <tr>
@@ -71,8 +69,6 @@ Eclipse (Racial Variant likely) - "For what if the Ash were to never return to f
 </table>
 
 **Vow of Iron:**
-
-  
 
 <table>
 <tbody>

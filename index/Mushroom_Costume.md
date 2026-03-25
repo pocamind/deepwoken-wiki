@@ -1,6 +1,6 @@
 ---
 title: Mushroom Costume
-revid: 191747
+revid: 202744
 source: https://deepwoken.fandom.com/wiki/Mushroom_Costume
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Equipment, Head, Helmets, Event Item, Hallowtide]
@@ -18,7 +18,7 @@ notices:
 | weight | 1 |
 | innate stats | N/A |
 | innate talent | N/A |
-| bankable | Yes, for 1 |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
