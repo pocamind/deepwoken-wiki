@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 202773
+revid: 202843
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3052,7 +3052,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Sapper
 
 -   Dark Receiver \[Common Talent, Dual Attunement, Shadowcast, Thundercall\] - Shadow moves will also steal Ether from those you are Static Linked tethered to.
-    -   ~2-3% increase in ether steal per mantra.
+    -   Deal 4.5x Ether steal against linked targets. Additionally, drain Ether from all linked targets equally when landing Shadowcast moves.
     -   Prerequisites: Static Link, 40 Thundercall, 40 Shadowcast
 
 ### Scarlet Donor

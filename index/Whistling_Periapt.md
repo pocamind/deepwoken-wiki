@@ -1,6 +1,6 @@
 ---
 title: Whistling Periapt
-revid: 202834
+revid: 202846
 source: https://deepwoken.fandom.com/wiki/Whistling_Periapt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Necklaces, Torso, Equipment, Relics, Equipment Relics]
@@ -12,7 +12,7 @@ categories: [Necklaces, Torso, Equipment, Relics, Equipment Relics]
 |---|---|
 | type | Torso |
 | rarity | Relic |
-| selling price | 120 |
+| selling price | 100 |
 | requirements | Power 8 |
 | weight | 0.5 |
 | innate stats | +1 Health , +8% Wind Armor |
@@ -49,10 +49,10 @@ Burn damage in PvE combat can also trigger Whistleguard.
 -   This item is able to be passed down to another life and stored in the item bank.
 -   If smelted, cannot be banked (you can still use it as the attributes and bank it).
 -   Whistling Periapt cannot autoparry Vents.
--   It can synergize with the talent _Force Your Way and Diver's Resilience_ provided by [Ignition Deepdelver](Ignition_Deepdelver.md) ,[Ignition Gauntlet](Ignition_Gauntlets.md) and Grand Fisher Plate which will allow the shield to parry unparryable attacks.
+-   It can synergize with the talent _Force Your Way and Diver's Resilience_ provided by [Ignition Deepdelver](Ignition_Deepdelver.md), [Ignition Gauntlets](Ignition_Gauntlets.md) and [Grand Fisher Plate](Grand_Fisher_Plate.md) which will allow the shield to parry unparryable attacks.
 -   This is one of the droppable torso relics alongside the [Tiran Pendant](Tiran_Pendant.md), [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>), and the [Warmaster's Medallion](<Warmaster's_Medallion.md>).
 -   Upon equipping the Whistling Periapt it does NOT get soulbound and may be dropped once more.
--   When you have the [Tidal Shock](Talents.md#equipment-talents) CD, you cannot use [Whistleguard](Talents.md#whistleguard), and when you use [Whistleguard](Talents.md#whistleguard) and critical hit with [Cala-Mariner](Cala-Mariner.md), [Whistleguard](Talents.md#whistleguard) will break.
+-   When you have the [Tidal Shock](Talents.md#tidal-shock) CD, you cannot use [Whistleguard](Talents.md#whistleguard), and when you use [Whistleguard](Talents.md#whistleguard) and critical hit with [Cala-Mariner](Cala-Mariner.md), [Whistleguard](Talents.md#whistleguard) will break.
 
 ## References
 

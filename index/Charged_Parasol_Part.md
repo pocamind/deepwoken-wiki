@@ -1,6 +1,6 @@
 ---
 title: Charged Parasol Part
-revid: 200311
+revid: 202836
 source: https://deepwoken.fandom.com/wiki/Charged_Parasol_Part
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Drops, Ingredients]
@@ -13,8 +13,8 @@ categories: [Pathfinder Exclusive, Items, Drops, Ingredients]
 | value | N/A |
 | weight | N/A |
 | type | Ingredient |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | pass down | No |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
