@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 202634
+revid: 203121
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -166,3 +166,9 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
 ## References
 
 1.  [↑](#cite-ref-1)
+
+## Navigation
+
+cool vshaper new vfx i think
+
+yeah new vfx
