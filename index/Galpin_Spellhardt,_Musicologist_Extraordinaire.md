@@ -1,6 +1,6 @@
 ---
 title: "Galpin Spellhardt, Musicologist Extraordinaire"
-revid: 195413
+revid: 203066
 source: https://deepwoken.fandom.com/wiki/Galpin_Spellhardt%2C_Musicologist_Extraordinaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
@@ -11,7 +11,7 @@ categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide
 | Galpin Spellhardt, Musicologist Extraordinaire | |
 |---|---|
 | name | Galpin Spellhardt |
-| alias | Professor Galpin Spellhardt, G. |
+| alias | Professor Galpin Spellhardt, Musicologist Extraordinaire, G. |
 | aspect | Lightborn |
 | location | The Floating Keep |
 | affiliation | Empyreal College of Cadence (formerly) |

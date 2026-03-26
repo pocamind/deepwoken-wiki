@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 202692
+revid: 203091
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Pages using duplicate arguments in template calls, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions, Humanoids with Unobtainable Outfits]
@@ -14,7 +14,7 @@ categories: [Individuals with He/him pronouns, Pages using duplicate arguments i
 | drops | Chest (see loot pool), Titus's Cape, Titus's Raiment, Titus' Armor Piece, Edenbrand Hellcoil, Worldpiercer Gauntlets, Evanspear War Set, Shock Trooper Set, Western Outlaw Set, Might and Wrath Gems, Several Enchant Stones |
 | moves | The Legion's Martial Arts, Worldpiercing Deluge, Worldshattering Smackdown, Commander's Rage, Commander's Whirlthrow, Vengeful Rushdown, Sovereign Drive, Skycrash, Wrathful Stomp, Warp Kick, Blighted Sparks, Chorus Divide: Shattering Crescendo |
 | pronouns | He/him |
-| affiliation | The Hundred Legions |
+| affiliation | The Hundred Legions, 49th Legion |
 | locations | Merit Detainment Core |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -27,7 +27,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Titus Fulminus Destellus** is an instanced [Boss](Bosses.md) fought and contained at the [Merit Detainment Core](Merit_Detainment_Core.md) within the Eastern Luminant's [Fort Merit](Fort_Merit.md). He was the commander of the 49th Legion and a user of the [Blightsurger](Oath%253A_Blightsurger.md) [Oath](Oaths.md) before being captured by [The Central Authority](The_Central_Authority.md) for the sake of strategy.[\[1\]](#cite-note-1)
+**Titus Fulminus Destellus** is an instanced [Boss](Bosses.md) fought and contained at the [Merit Detainment Core](Merit_Detainment_Core.md) within the Eastern Luminant's [Fort Merit](Fort_Merit.md). He was the commander of the [49th Legion](The_Hundred_Legions.md) and a user of the [Blightsurger](Oath%253A_Blightsurger.md) [Oath](Oaths.md) before being captured by [The Central Authority](The_Central_Authority.md) for the sake of strategy.[\[1\]](#cite-note-1)
 
 A Khan with great stature, he's around twice the height of the player. He has wrinkles on his face and greyed out dreads, signifying his older age. Titus wields the [Worldpiercer Gauntlets](Worldpiercer_Gauntlets.md) and wears the [Titus's Raiment](<Titus's_Raiment.md>) with his [Titus's Cape](<Titus's_Cape.md>). He also carries a bell on his hip, signifying that he is strong enough to have obtained a [Resonance](Resonance.md).
 
@@ -508,7 +508,7 @@ This dialogue is unlocked if the player meets the requirements for [Oath: Blight
 
 ## Trivia
 
--   Titus' name is actually a little fudged, neither "Fulminus" nor "Destellus" exist within classical Latin literature as words, and instead appear to be loosely based off of existing Latin root words and existing agnomen/victory titles of famous Roman generals.
+-   Titus' name is actually a little fudged, neither "Fulminus" nor "Destellus" exist within classical Latin literature as words, and instead appear to be loosely based on existing Latin root words and existing agnomen/victory titles of famous Roman generals.
     -   The name Destellus is based on the Latin word destellar, a verb meaning "to sparkle" or "to twinkle", deriving further from stella, the noun for star, or stellare, a verb for, roughly, "to cover with stars".
     -   The other name, Fulminus, likely references the Latin verb "fulminare," literally "to cause/strike like lightning" but more poetically it could mean "thundering".
     -   And of course, "Titus Juventius" is somewhat close to what an actual Latin name could be, signifying "Titus the young (adult)," but the more classically accurate name would be "Titus Iuvenis" or "Juvenis", given that it is an alternate spelling of the former.

@@ -1,6 +1,6 @@
 ---
 title: Vigil Isaac
-revid: 193101
+revid: 203061
 source: https://deepwoken.fandom.com/wiki/Vigil_Isaac
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -11,6 +11,7 @@ categories: [Etrean NPCs, Pathfinder Exclusive, Individuals with He/him pronouns
 | Vigil Isaac | |
 |---|---|
 | name | Isaac |
+| alias | Vigil |
 | aspect | Etrean |
 | pronouns | He/him[1] |
 | location | Temple of the Blade, Upper Erisia |

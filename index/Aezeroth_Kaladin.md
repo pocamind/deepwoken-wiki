@@ -1,9 +1,9 @@
 ---
 title: Aezeroth Kaladin
-revid: 191792
+revid: 202979
 source: https://deepwoken.fandom.com/wiki/Aezeroth_Kaladin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer]
+categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, Individuals with unspecified pronouns]
 ---
 
 # Aezeroth Kaladin
@@ -21,6 +21,8 @@ This content is not accessible outside of this gamemode.
 “ We all have our part to play in his plan. You included. ”
 
 ― Aesalath Kaladin
+
+## Description
 
 Aesalath Kaladin is an NPC found standing before a mysterious device that seems to display some sort of chart, just below the generator in Layer 2 Floor 1. You do not need to talk to them to progress in the dungeon, but they do offer directions and information.
 
@@ -88,4 +90,3 @@ Aesalath Kaladin is an NPC found standing before a mysterious device that seems 
 ## Trivia
 
 -   If you have not used a Lantern prior to speaking to them in a run, they will instead ask, "Seec forru ahe laenten?"
-    -   This can roughly be translated to "Seek for you a lantern?", aka "Do you seek a lantern?"

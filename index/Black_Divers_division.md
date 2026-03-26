@@ -1,6 +1,6 @@
 ---
 title: Black Divers division
-revid: 183199
+revid: 203093
 source: https://deepwoken.fandom.com/wiki/Black_Divers_division
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, The Divers, Black Divers]
@@ -22,7 +22,7 @@ notices:
 
 While [the Citadel](The_Citadel_of_Markor.md) was actively recruiting, Black Diver agents would be sent on surface missions around the [Central Luminant](Luminants.md#central-luminant), with the goal of potentially finding a cave system that would physically connect to [the Depths](The_Depths.md).[\[1\]](#cite-note-fathoms-1)
 
-In 1272 CE[\[2\]](#cite-note-2) [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), a Black Diver, betrayed [the Divers](The_Divers.md), he sided with [the Ministry](The_Ministry.md) and killed all divers, participating in the expedition to the [Second Layer](Second_Layer.md).
+In 1272 CE[\[2\]](#cite-note-2) [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), a Black Diver, betrayed [the Divers](The_Divers.md). Chaser sided with [the Ministry](The_Ministry.md) and killed all Divers participating in the expedition to the [Second Layer](Second_Layer.md).
 
 ## Members
 
@@ -40,8 +40,11 @@ In 1272 CE[\[2\]](#cite-note-2) [Chaser](Chaser,_Scholar_of_the_Crimson_Contract
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-fathoms-1-0) [1.1](#cite-ref-fathoms-1-1) [1.2](#cite-ref-fathoms-1-2) [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md)
+1.  ↑ [1.0](#cite-ref-fathoms-1-0) [1.1](#cite-ref-fathoms-1-1) [1.2](#cite-ref-fathoms-1-2) [Book](Books.md): [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md)  
+    
 2.  [↑](#cite-ref-2) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md). As such, events taking place during the events of the game in Verse 2 will be assumed to occur during the year 1272 CE, due to [The Hammer's Call](<The_Hammer's_Call.md>), which was released in Verse 2, containing an event occurring within 1272.
-3.  [↑](#cite-ref-3) [Diver Journal, I](Diver_Journal,_I.md)
-4.  [↑](#cite-ref-4) [Diver Journal, II](Diver_Journal,_II.md)
-5.  [↑](#cite-ref-5) [Diver Journal, III](Diver_Journal,_III.md)
+3.  [↑](#cite-ref-3) [Book](Books.md): [Diver Journal, I](Diver_Journal,_I.md)  
+    
+4.  [↑](#cite-ref-4) [Book](Books.md): [Diver Journal, II](Diver_Journal,_II.md)  
+    
+5.  [↑](#cite-ref-5) [Book](Books.md): [Diver Journal, III](Diver_Journal,_III.md)

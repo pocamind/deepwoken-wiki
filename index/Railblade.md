@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 202952
+revid: 202960
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Criticals with M1 tag, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Weapons with Unique Animations, Greatswords, Heavy Weapons, The Ignition Union, Weapons with multiple Criticals]
@@ -43,7 +43,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 The **Railblade** is a [Greatsword](Weapons.md) obtained exclusively from the [Second Layer](Second_Layer.md). It is dropped from any chest in the Second Layer at an uncommon-rare rate. The Railblade requires 80 HVY and Power 10 to equip. This weapon deals 35.7 damage at 100 Heavy, and with 6 proficiency and three-star damage, it deals 43.5.
 
-The Railblade was developed during or prior to 1233 CE[\[1\]](#cite-note-1) as a generalist tool against the Deep by [The Ignition Union](The_Ignition_Union.md).[\[2\]](#cite-note-2) Following the discovery of the Second Layer, it was outfitted with a heating mechanism to allow the wielder to better resist the climate.
+[Prototype Railblades](Prototype_Railblade.md) were developed during or prior to 1233 CE[\[1\]](#cite-note-1) as a generalist tool against the Deep by [The Ignition Union](The_Ignition_Union.md).[\[2\]](#cite-note-2) Following the discovery of the Second Layer, it was outfitted with a heating mechanism to allow the wielder to better resist the climate.
 
 ## Critical
 

@@ -1,6 +1,6 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 202388
+revid: 203076
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Layer 2, Floor 2]
@@ -11,6 +11,7 @@ categories: [Lightborn NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Sec
 | Kaide, the Drowned Light | |
 |---|---|
 | name | Kaide |
+| alias | The Drowned Light |
 | aspect | Lightborn |
 | location | New Kyrsa, The Sleeping City |
 | affiliation | Constellia |
@@ -21,7 +22,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Kaide is a [Lightborn](Lightborn.md) NPC found in the outskirts of [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md). He was the last and former king of the fallen city Constellia, one of the largest Celestial Cities in the Heavens.
+Kaide is a [Lightborn](Lightborn.md) NPC. He was the last and former king of the fallen city [Constellia](Constellia.md), one of the largest Celestial Cities in the Heavens.
 
 Kaide is an aged man with purple eyes and a stern expression. He has long white hair styled into curtain bangs, symmetrically hanging down to his abdomen. His armor consists of gray robes laid over a black, long-sleeved top that features patterns on each sleeve. Lesser aspects such as his pouches and gloves take a dark brown color. A large, bright lavender halo fashioned into a crown with numerous spikes circling it. On his hand is a dark, faded purple twinblade that sports a zig-zag blade with numerous four-pronged star embellishments in between.
 

@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde Lancer
-revid: 201342
+revid: 203022
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Lancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters, Floor 2, Layer 2]
@@ -28,11 +28,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Also known as Kyrsans, the Kyrsgarde is an intelligent form of species unlike the [Humans](Aspects.md) (or by their view, Fringewalkers) that are native to [The Eternal Gale](Second_Layer.md) and follow Ethiron as both their leader and idol to their society. Not all Kyrsgarde are friendly unlike the ones in [Firfire](Firfire.md) towards Fringewalkers, and will protect Ethiron from such threats with pure loyalty.
+Also known as Kyrsans, the Kyrsgarde is an intelligent form of species unlike the [humans](Aspects.md) (or by their view, Fringewalkers) that are native to [The Eternal Gale](Second_Layer.md) and follow Ethiron as both their leader and idol to their society. Not all Kyrsgarde are friendly unlike the ones in [Firfire](Firfire.md) towards Fringewalkers, and will protect Ethiron from such threats with pure loyalty.
 
-## Description
-
-The most versatile and common version of the Kyrsgarde found in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md). they can easily contend for the top spot in terms of danger as well. They are master wielders of [Frostdraw](Frostdraw.md), using it for both devestating melee and ranged attacks. They can be distinguished by their Burgundy membranes.
+The most versatile and common version of the Kyrsgarde found in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md), the Lancers can easily contend for the top spot in terms of danger as well. They are master wielders of [Frostdraw](Frostdraw.md), using it for both devastating melee and ranged attacks. They can be distinguished by their Burgundy membranes.
 
 ## Attacks
 

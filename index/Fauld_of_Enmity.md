@@ -1,6 +1,6 @@
 ---
 title: Fauld of Enmity
-revid: 176424
+revid: 203020
 source: https://deepwoken.fandom.com/wiki/Fauld_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso]
@@ -15,7 +15,7 @@ categories: [Equipment, Torso]
 | selling price | 100 |
 | requirements | PWR 10 |
 | weight | 0.5 |
-| innate stats | 1 Rare Pip, 2 Legendary Pips |
+| innate stats | +1 Rare Pip, +2 Legendary Pips |
 | innate talent | N/A |
 | set | Aegis of Enmity, Bastions of Enmity, Wartreads of Enmity, Thrall of Enmity, Fauld of Enmity/Mantle of Enmity |
 | set talent | N/A |
@@ -23,7 +23,7 @@ categories: [Equipment, Torso]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Heart of EnmityLysander Spellhardt |
+| obtainment | Heart of Enmity |
 | description | The titanic fauld of Enmity, a grim relic said to be woven from human hair, like some kind of sick trophy, each strand steeped in the anguish and malice of its former owners. |
 
 ## Description

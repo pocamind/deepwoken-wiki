@@ -1,9 +1,9 @@
 ---
 title: Monk Nako
-revid: 200218
+revid: 203059
 source: https://deepwoken.fandom.com/wiki/Monk_Nako
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Individuals with She/her pronouns, Vow of Iron Exclusive, NPCs, Circle of Honour members, Individuals with unspecified pronouns]
+categories: [Etrean NPCs, Individuals with She/her pronouns, Vow of Iron Exclusive, NPCs, Circle of Honour members]
 ---
 
 # Monk Nako

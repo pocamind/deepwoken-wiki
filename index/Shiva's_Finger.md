@@ -1,6 +1,6 @@
 ---
 title: "Shiva's Finger"
-revid: 201302
+revid: 203042
 source: https://deepwoken.fandom.com/wiki/Shiva's_Finger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -31,4 +31,3 @@ With each Battle Royale win the player will cosmetically gain more Shiva's Finge
 ## Trivia
 
 -   The cosmetic fingers remain active after removing the ring and only disappears upon leaving the game.
--   This item is most probably a reference to Cursed Gear a game made by Monad Studios West, Monad Studios' other team.

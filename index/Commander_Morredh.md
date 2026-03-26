@@ -1,6 +1,6 @@
 ---
 title: Commander Morredh
-revid: 200165
+revid: 203064
 source: https://deepwoken.fandom.com/wiki/Commander_Morredh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Military personnel of The Central Authority]
@@ -11,6 +11,7 @@ categories: [Canor NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive
 | Commander Morredh | |
 |---|---|
 | name | Morredh |
+| alias | Commander |
 | aspect | Canor |
 | pronouns | He/him |
 | location | Fort Merit |

@@ -1,6 +1,6 @@
 ---
 title: Mendacia
-revid: 191926
+revid: 203086
 source: https://deepwoken.fandom.com/wiki/Mendacia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, NPCs located in the Second Floor of the Second Layer, Quests]
@@ -185,5 +185,7 @@ These dialogues are unlocked if the player chooses the option "I promise." to co
 -   Once you encounter her in Floor 1, you can go back to Klaris and ask her about the Arch-Divers and the Interstice Skies. She shows no knowledge of either concept and states they are likely made up.
 -   Her name means "Lies" in Latin.
 -   Obtaining Knowledge by denying Mendacia as well as when doing her quest may be foreshadowing for her true identity. As a higher being, mere contact with Ethiron was likely enough for Knowledge to be transfered. As for why this does not happen when accepting her quest, it may be because the transfer only occurs when Ethiron loses interest.
+
+## References
 
 1.  [↑](#cite-ref-1) Mendacia is refered to as the Voice of Ethiron. Using an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) has you interact with Yun'Shul, during which they are refered to as the Voice of Yun'Shul. This precedent confirms that this Voice is indeed Ethiron.

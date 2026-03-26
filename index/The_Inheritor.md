@@ -1,6 +1,6 @@
 ---
 title: The Inheritor
-revid: 199017
+revid: 203060
 source: https://deepwoken.fandom.com/wiki/The_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Circle of Honour members]
@@ -23,4 +23,4 @@ Due to the threat posed by [The Lord Regent](The_Lord_Regent.md) of [Etrea](Etre
 
 1.  [↑](#cite-ref-1) NPC dialogue: [Naan Zakshun](Naan_Zakshun.md)  
     
-2.  [↑](#cite-ref-2) [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md)
+2.  [↑](#cite-ref-2) NPC dialogue: [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md)

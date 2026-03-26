@@ -1,30 +1,25 @@
 ---
 title: Lord Guardian
-revid: 200566
+revid: 203030
 source: https://deepwoken.fandom.com/wiki/Lord_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Dissolved organizations]
+categories: [Abolished positions]
 ---
 
 # Lord Guardian
 
 | Lord Guardian | |
 |---|---|
-| territory | EtreaIsle of Vigils |
-| goals | Survival |
-| founded | 6th century CE |
-| dissolved | 1271 CE |
+| founded | 6th century CE[1] |
+| suspend | 1271 CE |
 
 ## Description
 
-The Lord Guardians are a line of temporary rulers that govern the kingdom of Etrea in the absence of [Rolen Vashtir](Rolen_Vashtir.md). The title has been passed down over the decades to ensure the throne remains occupied.[\[1\]](#cite-note-1)
+The Lord Guardians are a line of temporary rulers that govern the kingdom of Etrea in the absence of [Rolen Vashtir](Rolen_Vashtir.md). The title was been passed down over the decades to ensure the throne remained occupied.[\[1\]](#cite-note-andy-1)
 
-## Notable Members
-
--   [Ji'ang](<Ji'ang.md>): The final Lord Guardian before [The Lord Regent](The_Lord_Regent.md) took the throne.
--   [The Lord Regent](The_Lord_Regent.md): The current Regent over the kingdom of [Etera](Etrea.md).
+[Ji'ang](<Ji'ang.md>) was the last Lord Guardian.
 
 ## References
 
-1.  [↑](#cite-ref-1) NPC dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md)  
+1.  ↑ [1.0](#cite-ref-andy-1-0) [1.1](#cite-ref-andy-1-1) NPC dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md)  
     _Indeed. Since the King's departure, the Kingdom has been governed by a line of Lord Guardians - stewards of the throne who are er... _warming the seat_, so to speak. Of course._

@@ -1,6 +1,6 @@
 ---
 title: Aeroaseluniris Oricalum Forentus
-revid: 191301
+revid: 202981
 source: https://deepwoken.fandom.com/wiki/Aeroaseluniris_Oricalum_Forentus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Kyrsan NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the First Floor of the Second Layer]
@@ -119,4 +119,5 @@ This dialogue is unlocked once the player has obtained the Spear of Nakti and re
 
 ## References
 
-1.  [↑](#cite-ref-1) [Erosius Amaltus Urivortus Alistus Casius Walistoshus](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md)
+1.  [↑](#cite-ref-1) NPC dialogue: [Erosius Amaltus Urivortus Alistus Casius Walistoshus](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md)  
+    _He shortens his name for you fringewalkers, how disgraceful._

@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 189271
+revid: 203053
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -143,7 +143,9 @@ Nametag of a Celtor during Mudwoken.
 -   During the 4/1/2022 April Fools update (Mudwoken), the Celtor aspect name was changed to Mustskipper.
 -   Celtor is tied with Adret and Etrean for the most common aspect.
 -   Celtor are known to gamble often at shipyards and docks they find.[\[1\]](#cite-note-1)
--   According to Arch\_Mage, the correct pronunciation of "Celtor" is "Keltor", and not "Seltor".
+-   The pronunciation of Celtor is a heavily debated topic in the community with no clear answer.
+    -   Arch\_Mage has stated its pronounced "Keltor," whereas ragoozer says that it's "Seltor."
+    -   Given the names origins, as they are named after racoons, it is likely pronounced "Keltor," but until the developers come in agreement of a singular pronunciation, there is no way to know for certain.
 
 ## References
 

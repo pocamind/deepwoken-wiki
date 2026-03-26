@@ -1,18 +1,20 @@
 ---
 title: Empyreal College of Cadence
-revid: 184771
+revid: 203073
 source: https://deepwoken.fandom.com/wiki/Empyreal_College_of_Cadence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Dissolved organizations]
 ---
 
 # Empyreal College of Cadence
 
 | Empyreal College of Cadence | |
 |---|---|
+| dissolved | Prior to 1271 CE[1] |
 
 ## Description
 
-The Empyreal College of Cadence was a university in [Constellia](Constellia.md). [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md) was a senior musicologist and faculty chair at the institution.[\[1\]](#cite-note-1)
+The Empyreal College of Cadence was a university in [Constellia](Constellia.md). [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md) was a senior musicologist and faculty chair at the institution.[\[1\]](#cite-note-g-1)
 
 ## Trivia
 
@@ -20,4 +22,4 @@ The Empyreal College of Cadence was a university in [Constellia](Constellia.md).
 
 ## References
 
-1.  [↑](#cite-ref-1) [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md)
+1.  ↑ [1.0](#cite-ref-g-1-0) [1.1](#cite-ref-g-1-1) NPC dialogue: [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md)

@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde
-revid: 197357
+revid: 202978
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sapient species]
@@ -29,7 +29,7 @@ Friendly Kyrsans are found in [The Ethironal Shrine](Second_Layer/The_Ethironal_
 
 -   Shrine Kyrsans:
     -   [Aeroaseluniris Oricalum Forentus](Aeroaseluniris_Oricalum_Forentus.md)
-    -   [Aesalath Kalafrid](Aezeroth_Kaladin.md)
+    -   [Aezeroth Kaladin](Aezeroth_Kaladin.md)
     -   [Eltus Ferikus Pleristus Zzetchus](Eltus_Ferikus_Pleristus_Zzetchus.md)
     -   [Erosius Amaltus Urivortus Alistus Casius Walistoshus](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md)
     -   [Kadrivus Entomolius Auditan](Kadrivus_Entomolius_Auditan.md)

@@ -1,6 +1,6 @@
 ---
 title: Nocturne (individual)
-revid: 201300
+revid: 203058
 source: https://deepwoken.fandom.com/wiki/Nocturne_(individual)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, Maestros of the Vigils, Individuals with unspecified pronouns]
@@ -19,7 +19,7 @@ notices:
 
 ## Description
 
-Maestro Nocturne was the predecessor of [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md). They trained both the future Maestro and [High Monk Junsui](High_Monk_Junsui.md).[\[1\]](#cite-note-leg-1)
+Nocturne was the predecessor of [Alkhurst Legato](Maestro_Alkhurst_Legato.md) as [Maestro](Maestro.md) of [the Vigils](The_Vigils.md). They trained both the future Maestro and [High Monk Junsui](High_Monk_Junsui.md).[\[1\]](#cite-note-leg-1)
 
 ## Trivia
 

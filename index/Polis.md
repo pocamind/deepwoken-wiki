@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 200614
+revid: 203041
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Vesperian NPCs, NPCs, NPCs located in the Etrean Luminant, Quests, Enemies, Etrea Enemies]
@@ -26,7 +26,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Polis is a [Vesperian](Vesperian.md) NPC found sitting below the white tree in the center of [Etris](Etris.md). He is a member of [the Justicar](The_Justicar.md) and follows the [Celestial](Celestial.md), [Alsin](Alsin.md). He gives a [Gold Ring](Gold_Ring.md) to those who interact with him. When [The Central Authority](The_Central_Authority.md) invades [Etris](Etris.md), he fights to defend Etris along with the guards.
+Polis is a [Vesperian](Vesperian.md) NPC. He is a member of [the Justicar](The_Justicar.md) and follows the [Celestial](Celestial.md), [Alsin](Alsin.md).
+
+He gives a [Gold Ring](Gold_Ring.md) to those who interact with him. When [The Central Authority](The_Central_Authority.md) invades [Etris](Etris.md), he fights to defend Etris along with the guards.
 
 ## Dialogue
 
@@ -60,7 +62,7 @@ Polis is a [Vesperian](Vesperian.md) NPC found sitting below the white tree in t
 </tr>
 <tr>
   <td colspan="4">What is the Path?</td>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="4">It is the code that all of us Justicars live by. We are all taught to interpret the path in our own ways. Some may interpret the path to help others, some may use it to exact righteous violence upon people. I can only hope that the path I have chosen to follow is right.</td>
@@ -72,7 +74,7 @@ Polis is a [Vesperian](Vesperian.md) NPC found sitting below the white tree in t
   <td colspan="4">Then may Alsin have mercy on me. Most of the locals see me as a bad omen so they don't speak with me.. I appreciate you listening to my story.</td>
 </tr>
 <tr>
-  <td>End (He gives you a gold ring)</td>
+  <td>[End Dialogue] (He gives you a gold ring)</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Naan Zakshun
-revid: 200359
+revid: 202962
 source: https://deepwoken.fandom.com/wiki/Naan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, Vendors, NPCs, Circle of Honour members]
@@ -445,6 +445,7 @@ Sold Items
 ## Trivia
 
 -   As with [her grandson](Traan_Zakshun.md), Naan Zakshun's name is a pun/wordplay: her first name sounds similar to "nan", a slang word for one's grandmother, playing on the fact that she is Traan's grandmother.
+    -   Despite being written with two of the letter "a", she indicates her name is pronounced as "nan".
 -   Naan's shop dialogues contain references to other media:
     -   _"Life is roadblocks, don't let anything stop you... from getting this insane deal"_ is a reference to a phrase said by DJ Khaled that became a meme.
     -   "_Naan Zakshun has wares if you have coin- I mean... notes... yeah_" is a reference to Khajiits from _The Elder Scrolls V: Skyrim_, travelling merchants who, when interacted with, will say the line "Khajiit has wares if you have coin".

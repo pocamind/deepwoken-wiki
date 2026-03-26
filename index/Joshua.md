@@ -1,6 +1,6 @@
 ---
 title: Joshua
-revid: 193413
+revid: 203089
 source: https://deepwoken.fandom.com/wiki/Joshua
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -154,7 +154,7 @@ This dialogue is unlocked if the player has started the "Lord Regent Who?" [Ques
 ## Trivia
 
 -   Depending on the players progress in the "Diver Apprentice" quest, Joshua will change:
-    -   If the quest is in progress, he will mention of [Karliah](Karliah.md), a Diver Apprentice who cooks for him.
+    -   If the quest is in progress, he will make mention of [Karliah](Karliah.md), a Diver Apprentice who cooks for him.
     -   In one of the bad endings of the quest, he is nowhere to be seen and his decapitated head is being held by Karliah in her house.
     -   In the good ending of the quest, he will thank the player for making Karliah seem happier.
 

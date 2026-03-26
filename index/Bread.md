@@ -1,6 +1,6 @@
 ---
 title: Bread
-revid: 190761
+revid: 202990
 source: https://deepwoken.fandom.com/wiki/Bread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Food Ingredients]
@@ -46,6 +46,7 @@ When consumed, it replenishes 20% Stomach and 2% Water.
 ## Trivia
 
 -   There exists a kind of bread known as naan, though it cannot be obtained in the game.[\[1\]](#cite-note-1)
+    -   The description of the item also alludes to a type known as sourdough, though specifically to clarify that the bread item is not of such a type.
 
 ## References
 

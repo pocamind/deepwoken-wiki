@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 202129
+revid: 202971
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
@@ -64,6 +64,6 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talent](Talents.
 -   The original updated Crypt Blade contained 30k vertices. Following the 3/27/2023 update, this was reduced to a mere 2.5k vertices.
 -   The original Crypt Blade was able to proc Singularity and Fear on hit, essentially stunning the enemy in place on each hit, thankfully, this has since been removed.
 -   The YouTuber Nanoprodigy was the first to showcase the Crypt Blade in his video, where the title referenced it as the "[Shadow Greatsword](https://www.youtube.com/watch?v=x4Euw0kCQVs)"
--   During the original addition of this weapon before it's temporary removal, the scaling used to be unreasonably high at 20 SHW scaling and also had 0.7 swing speed without endlag.
+-   During the original addition of this weapon before it's temporary removal, the scaling used to be unreasonably high at 20 SHW scaling and also had 0.7 swing speed (In Legacy swingspeed, translated to current swingspeed it would be around 0.93), without endlag.
 -   Despite being named **Crypt** Blade, it cannot be found at the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md). The "Crypt" is likely metaphorical, representing how it's made from corpses.
 -   The first person to wield a Crypt Blade was the user Flashbacking during closed access.

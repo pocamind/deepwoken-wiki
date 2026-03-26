@@ -1,6 +1,6 @@
 ---
 title: Mercille
-revid: 191545
+revid: 203099
 source: https://deepwoken.fandom.com/wiki/Mercille
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests, The Summer Company, Individuals with unspecified pronouns]
@@ -27,7 +27,7 @@ You can turn sacks found in [Starswept Valley](The_Starswept_Valley.md) and [Blu
 
 ## Location
 
-Mercille is located in [Bluster Rift](Bluster_Rift.md), standing infrot of a small mine inside a little fort built infront of [Meteor Isle](Meteor_Isle.md)
+Mercille is located in [Bluster Rift](Bluster_Rift.md), standing in front of a small mine inside a little fort built next to [Meteor Isle](Meteor_Isle.md).
 
 ## Dialogue
 
