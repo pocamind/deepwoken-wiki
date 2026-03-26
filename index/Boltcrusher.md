@@ -1,9 +1,9 @@
 ---
 title: Boltcrusher
-revid: 202687
+revid: 203183
 source: https://deepwoken.fandom.com/wiki/Boltcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Greathammers, The Ignition Union, "Attunement-based Weapons", Heavy Weapons, Weapons with multiple Criticals]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Greathammers, The Ignition Union, "Attunement-based Weapons", Heavy Weapons, Weapons with multiple Criticals]
 ---
 
 # Boltcrusher
@@ -13,6 +13,7 @@ categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, "Weapons
 | type | Greathammer |
 | damage type | Blunt |
 | requirements | 55 HVY, 20 STR, 80 LTN |
+| oath | Silentheart |
 | damage | 25 |
 | scaling | HVY: 4.2, LTN: 7 |
 | posture damage | 8 |

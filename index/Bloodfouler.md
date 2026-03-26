@@ -1,9 +1,9 @@
 ---
 title: Bloodfouler
-revid: 202122
+revid: 203190
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Weapons with Unique Animations, Legendary Weapons, The Ministry, Heavy Weapons]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Weapons with Unique Animations, Legendary Weapons, The Ministry, Heavy Weapons]
 ---
 
 # Bloodfouler
@@ -13,6 +13,7 @@ categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals,
 | type | Greatsword |
 | damage type | Slash |
 | requirements | 50 HVY, LVL 10, 75 BLD |
+| oath | Silentheart |
 | damage | 19 + 2.85 BLD |
 | scaling | HVY: 5, BLD: 4 |
 | posture damage | 8.5 |

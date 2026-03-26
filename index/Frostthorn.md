@@ -1,9 +1,9 @@
 ---
 title: Frostthorn
-revid: 202119
+revid: 203161
 source: https://deepwoken.fandom.com/wiki/Frostthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Light Weapons, Weapons with Unique Animations, Daggers, "Dual-wielded Weapons"]
+categories: [Weapons that cannot be equipped on Silentheart, Pathfinder Exclusive, Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Light Weapons, Weapons with Unique Animations, Daggers, "Dual-wielded Weapons"]
 ---
 
 # Frostthorn
@@ -13,6 +13,7 @@ categories: [Pathfinder Exclusive, Weapons, Criticals with M1 tag, Weapons with 
 | type | Dagger |
 | damage type | Slash |
 | requirements | 90 LHT |
+| oath | Silentheart |
 | damage | 14.5 |
 | scaling | LHT: 8, ICE: 1 |
 | posture damage | 4 |

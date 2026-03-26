@@ -1,9 +1,9 @@
 ---
 title: Shadebolt
-revid: 202128
+revid: 203198
 source: https://deepwoken.fandom.com/wiki/Shadebolt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Unique Criticals, Medium Weapons, "Attunement-based Weapons", Bows]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Unique Criticals, Medium Weapons, "Attunement-based Weapons", Bows]
 ---
 
 # Shadebolt
@@ -13,6 +13,7 @@ categories: [Weapons, Weapons with Unique Criticals, Medium Weapons, "Attunement
 | type | Bow |
 | damage type | Slash |
 | requirements | 45 MED, 30 SDW |
+| oath | Silentheart |
 | damage | 16 |
 | scaling | MED: 8, SDW: 2 |
 | posture damage | 4.5 |

@@ -1,9 +1,9 @@
 ---
 title: Black Death
-revid: 202604
+revid: 203177
 source: https://deepwoken.fandom.com/wiki/Black_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Reforged Weapons]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Reforged Weapons]
 ---
 
 # Black Death
@@ -13,6 +13,7 @@ categories: [Weapons, Criticals with M1 tag, Reforged Weapons]
 | type | Spear |
 | damage type | Slash |
 | requirements | 30 MED, 50 MND, 70 SDW, LVL 12 |
+| oath | Silentheart |
 | damage | 16.5 + 2.4 BLD |
 | scaling | 3 MED, 4.5 SDW, 3 MND |
 | posture damage | 6 |
@@ -44,9 +45,7 @@ The **Black Death** is the sister of its [red counterpart](Red_Death.md), a tool
 
 Equipping the Black Death grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Corporeal Dissolution** applies [Wither](Status_Effects.md#wither) on any attack that drains Ether, and scales on the amount of Ether drain. This is capped at 30 Wither per proc.
-
--   This effect does not work on Ether drain from Ether-draining [potions](Alchemy.md).
+**Corporeal Dissolution** applies [Wither](Status_Effects.md#wither) on any weapon attack that drains Ether, and scales on the amount of Ether drain. This is capped at 30 Wither per proc.
 
 ## Critical
 

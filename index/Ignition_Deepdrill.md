@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdrill
-revid: 194582
+revid: 203203
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdrill
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Layer 2, The Ignition Union]

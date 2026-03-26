@@ -1,9 +1,9 @@
 ---
 title: Gran Sudaruska
-revid: 202569
+revid: 203162
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons that cannot be equipped on Contractor, Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons]
 ---
 
 # Gran Sudaruska
@@ -13,6 +13,7 @@ categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, 
 | type | Greataxe |
 | damage type | Slash |
 | requirements | 75 ICE, 40 HVY, LVL 10 |
+| oath | Silentheart or Contractor |
 | damage | 24 |
 | scaling | ICE: 6, HVY: 4 |
 | posture damage | 6 |

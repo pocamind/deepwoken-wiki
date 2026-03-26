@@ -1,9 +1,9 @@
 ---
 title: Hailbreaker
-revid: 202154
+revid: 203187
 source: https://deepwoken.fandom.com/wiki/Hailbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons with multiple Criticals]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons with multiple Criticals]
 ---
 
 # Hailbreaker
@@ -13,6 +13,7 @@ categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswo
 | type | Greatsword |
 | damage type | Slash |
 | requirements | 65 HVY, 55 ICE, 10 PWR |
+| oath | Silentheart |
 | damage | 22 |
 | scaling | HVY: 7, ICE: 4 |
 | posture damage | 7.5 |

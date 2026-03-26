@@ -1,9 +1,9 @@
 ---
 title: "Hero's Blade of Flame"
-revid: 203101
+revid: 203169
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Medium Weapons, Hero Blades]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Medium Weapons, Hero Blades]
 ---
 
 # Hero's Blade of Flame
@@ -13,6 +13,7 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, 
 | type | Sword |
 | damage type | Slash |
 | requirements | 100 FIR, LVL 11 |
+| oath | Silentheart |
 | damage | 19 |
 | scaling | FIR: 5.5 |
 | posture damage | 5 |

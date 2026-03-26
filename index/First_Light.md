@@ -1,9 +1,9 @@
 ---
 title: First Light
-revid: 202117
+revid: 203160
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Heavy Weapons]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Heavy Weapons]
 ---
 
 # First Light
@@ -13,6 +13,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons with U
 | type | Greatsword |
 | damage type | Slash |
 | requirements | 75 HVY |
+| oath | Silentheart |
 | damage | 23 |
 | scaling | HVY: 8 |
 | posture damage | 9 |

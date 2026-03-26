@@ -1,6 +1,6 @@
 ---
 title: "Pariah's Keepsake"
-revid: 200885
+revid: 203202
 source: https://deepwoken.fandom.com/wiki/Pariah's_Keepsake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, The Divers]
@@ -25,6 +25,4 @@ categories: [Equipment, Rings, The Divers]
 
 ## Description
 
-Pariah's Keepsake grants the user 20% increased damage against factions that hate them upon being equipped.
-
-The damage buff only applies to humanoid NPCs.
+Pariah's Keepsake grants the user 20% increased damage against factions that hate them upon being equipped. The damage buff only applies to humanoid NPCs.

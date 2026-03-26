@@ -1,9 +1,9 @@
 ---
 title: Guiding Star
-revid: 198784
+revid: 203157
 source: https://deepwoken.fandom.com/wiki/Guiding_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", The Children of Navae, Bows]
+categories: [Weapons that cannot be equipped on Chainwarden, Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", The Children of Navae, Bows]
 ---
 
 # Guiding Star
@@ -13,6 +13,7 @@ categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-At
 | type | Bow |
 | damage type | Slash |
 | requirements | 75 MED, 25 MND |
+| oath | Chainwarden |
 | damage | 14 |
 | scaling | MED: 10, MND: 3 |
 | posture damage | 5 |

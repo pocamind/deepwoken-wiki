@@ -1,9 +1,9 @@
 ---
 title: Deepspindle
-revid: 202127
+revid: 203196
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Light Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Light Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
 ---
 
 # Deepspindle
@@ -13,6 +13,7 @@ categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, We
 | type | Rapier |
 | damage type | Slash |
 | requirements | 50 LHT, 75 SDW |
+| oath | Silentheart |
 | damage | 14 |
 | scaling | LHT: 4, SDW: 9 |
 | posture damage | 5 |

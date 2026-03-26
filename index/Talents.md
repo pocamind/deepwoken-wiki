@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 202959
+revid: 203153
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2766,6 +2766,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Pursuer
 
 -   _Going Nowhere_ \[Rare Talent, Strength, Agility\] - When enemies dodge your attacks, their momentum is killed and they're briefly prevented from sprinting. (+6 Passive Agility)
+    -   When an enemy dodges your attack, halts their momentum and disables their ability to sprint for 1 second.
     -   Prerequisites: 25 Strength, 25 Agility
 
 ### Pyroclast

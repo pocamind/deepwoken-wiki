@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 202292
+revid: 203143
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons, Heavy Weapons, Weapons with Talents]
@@ -23,7 +23,7 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Greataxes, 
 | attack duration | 0.9s |
 | endlag | 0.1s |
 | penetration | 15% |
-| talent | Spinal Splinter - Landing a backstab with your critical deals 25 extra true damage. |
+| talent | Spinal Splinter - Landing a backstab with your critical deals 15 extra true damage. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Halberd |
@@ -47,7 +47,7 @@ The Halberd is a Greataxe type weapon used by the Central Authority. The Halberd
 
 Equipping the Halberd grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Spinal Splinter** grants your Halberd critical +25 true damage if it hits your opponent's back. This is dealt a a separate instance of damage. This cannot be buffed and does not proc on [Spine Cutter](Talents.md#spine-cutter) hits.
+**Spinal Splinter** grants your Halberd critical +15 true damage if it hits your opponent's back. This is dealt as a separate instance of damage. This cannot be buffed and does not proc on [Spine Cutter](Talents.md#spine-cutter) hits.
 
 ## Critical
 

@@ -1,6 +1,6 @@
 ---
 title: Spectral Grasp
-revid: 202865
+revid: 203141
 source: https://deepwoken.fandom.com/wiki/Spectral_Grasp
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Event Item, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Daggers, Hallowtide, Light Weapons]
@@ -19,7 +19,7 @@ categories: [Weapons, Criticals with M1 tag, Event Item, Weapons with Unique Cri
 | range | 6.5 Sweep |
 | swing speed | 1.2x |
 | attack duration | 0.5s |
-| penetration | 15% |
+| penetration | 5% |
 | special effect | Unique swing trail and SFX |
 | m.equip | No |
 | m.extract | No |

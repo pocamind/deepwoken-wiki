@@ -1,9 +1,9 @@
 ---
 title: Coldpoint
-revid: 202146
+revid: 203185
 source: https://deepwoken.fandom.com/wiki/Coldpoint
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weapons with Talents, Rapiers, Light Weapons]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weapons with Talents, Rapiers, Light Weapons]
 ---
 
 # Coldpoint
@@ -13,6 +13,7 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weap
 | type | Rapier |
 | damage type | Slash |
 | requirements | 25 ICE; 70 LHT |
+| oath | Silentheart |
 | damage | 15 |
 | scaling | 4 ICE; 7 LHT |
 | posture damage | 4 |

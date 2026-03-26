@@ -1,9 +1,9 @@
 ---
 title: Rite of Authority
-revid: 202149
+revid: 203186
 source: https://deepwoken.fandom.com/wiki/Rite_of_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, "Attunement-based Weapons", Weapons of The Central Authority, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Swords, Medium Weapons, "Attunement-based Weapons", Weapons of The Central Authority, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals]
 ---
 
 # Rite of Authority
@@ -13,6 +13,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, "Attunement
 | type | Sword |
 | damage type | Slash |
 | requirements | 40 LTN, 75 MED, PWR 15 |
+| oath | Silentheart |
 | damage | 19.5 |
 | scaling | MED: 7 |
 | posture damage | 8 |

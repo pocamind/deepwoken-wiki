@@ -1,9 +1,9 @@
 ---
 title: Wraithclaw
-revid: 202141
+revid: 203182
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Legendary Weapons, "Attunement-based Weapons", Fists, Light Weapons, Weapons with multiple Criticals]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Legendary Weapons, "Attunement-based Weapons", Fists, Light Weapons, Weapons with multiple Criticals]
 ---
 
 # Wraithclaw
@@ -13,6 +13,7 @@ categories: [Weapons, Criticals with M1 tag, Legendary Weapons, "Attunement-base
 | type | Fist |
 | damage type | Slash |
 | requirements | 40 LHT, 75 WND |
+| oath | Silentheart |
 | damage | 16 |
 | scaling | LHT: 4, WND: 5.5 |
 | posture damage | 5 |

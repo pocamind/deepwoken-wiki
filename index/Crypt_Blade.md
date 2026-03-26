@@ -1,9 +1,9 @@
 ---
 title: Crypt Blade
-revid: 202971
+revid: 203195
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
 ---
 
 # Crypt Blade
@@ -13,11 +13,12 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weap
 | type | Greatsword |
 | damage type | Slash |
 | requirements | 40 HVY, 75 SDW, LVL 10 |
+| oath | Silentheart |
 | damage | 22 |
 | scaling | HVY: 4, SDW: 9 |
 | posture damage | 8.5 |
 | range | 9 Sweep |
-| swing speed | 0.85x |
+| swing speed | 0.8x |
 | attack duration | 0.9s |
 | endlag | 0.1s |
 | special effect | Some Shadowcast passives and effects will be applied on weapon hits |
@@ -51,7 +52,7 @@ For the standing critical, the user plunges the greatsword into the ground, rele
 
 If the user hits a chained target, the chain will break and the target receives three consecutive ticks of damage and Ether steal. This effect is applied when the target's chest is engulfed in shadow. Blocking and parrying will not cancel out this effect. If the target attempts to go beyond the length of the chain, they will be dragged back to center.
 
-For the running critical, the user swiftly tears into the target two times before flashing with a red telegraph, unleashing a guardbreaking cleave through them. The final slash ragdolls and dazes the target, and the first slash must be landed in order to progress through the other slashes.
+For the running critical, the user swiftly tears into the target two times before flashing with a red telegraph, unleashing a slashing cleave through them. The final slash ragdolls and dazes the target, and the first slash must be landed in order to progress through the other slashes.
 
 Both criticals have a cooldown of **10 seconds**.
 

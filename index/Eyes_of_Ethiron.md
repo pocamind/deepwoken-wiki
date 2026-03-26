@@ -1,9 +1,9 @@
 ---
 title: Eyes of Ethiron
-revid: 202139
+revid: 203180
 source: https://deepwoken.fandom.com/wiki/Eyes_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Talents, "Weapons with Multi-Attunement Scaling", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Medium Weapons, Swords, Reforged Weapons, "Dual-wielded Weapons", "Attunement-based Weapons"]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, "Weapons with Multi-Attunement Scaling", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Medium Weapons, Swords, Reforged Weapons, "Dual-wielded Weapons", "Attunement-based Weapons"]
 ---
 
 # Eyes of Ethiron
@@ -12,6 +12,7 @@ categories: [Weapons, Weapons with Talents, "Weapons with Multi-Attunement Scali
 |---|---|
 | damage type | Slash |
 | requirements | 40 MED, 40 SDW, 40 WND, LVL 10 |
+| oath | Silentheart |
 | damage | 16.5 |
 | scaling | MED: 4, SDW: 4.5, WND: 4.5 |
 | posture damage | 5 |

@@ -1,9 +1,9 @@
 ---
 title: Flareblood Kamas
-revid: 202120
+revid: 203163
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Daggers, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, "Dual-wielded Weapons"]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Daggers, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, "Dual-wielded Weapons"]
 ---
 
 # Flareblood Kamas
@@ -13,6 +13,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, "Core-Attribute based weap
 | type | Dagger |
 | damage type | Slash |
 | requirements | 60 LHT, 30 INT |
+| oath | Silentheart |
 | damage | 14 + 2.1 BLD |
 | scaling | LHT: 8, INT: 1.5, BLD: 3 |
 | posture damage | 4 |

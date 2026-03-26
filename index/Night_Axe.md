@@ -1,9 +1,9 @@
 ---
 title: Night Axe
-revid: 202588
+revid: 203164
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
 ---
 
 # Night Axe
@@ -13,6 +13,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
 | type | Greataxe |
 | damage type | Slash |
 | requirements | 80 HVY |
+| oath | Silentheart |
 | damage | 23 |
 | scaling | HVY: 8 |
 | posture damage | 10 |

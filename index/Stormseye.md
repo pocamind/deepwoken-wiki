@@ -1,9 +1,9 @@
 ---
 title: Stormseye
-revid: 202147
+revid: 203184
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", The Summer Company, Medium Weapons]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", The Summer Company, Medium Weapons]
 ---
 
 # Stormseye
@@ -13,6 +13,7 @@ categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Wea
 | type | Rifle |
 | damage type | Blunt |
 | requirements | 40 MED, 75 LTN |
+| oath | Silentheart |
 | damage | 19 |
 | scaling | MED: 3, LTN: 6 |
 | posture damage | 5 |

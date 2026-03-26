@@ -1,9 +1,9 @@
 ---
 title: Withered Gale Pale
-revid: 202138
+revid: 203178
 source: https://deepwoken.fandom.com/wiki/Withered_Gale_Pale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greathammers, Heavy Weapons, "Attunement-based Weapons", Weapons with Talents, Reforged Weapons]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Greathammers, Heavy Weapons, "Attunement-based Weapons", Weapons with Talents, Reforged Weapons]
 ---
 
 # Withered Gale Pale
@@ -13,6 +13,7 @@ categories: [Weapons, Greathammers, Heavy Weapons, "Attunement-based Weapons", W
 | type | Greathammer |
 | damage type | Blunt |
 | requirements | 75 HVY, 90 WND |
+| oath | Silentheart |
 | damage | 22 |
 | scaling | HVY: 4, WND: 8 |
 | posture damage | 10 |

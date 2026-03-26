@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 202112
+revid: 203152
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -756,6 +756,7 @@ Fire
 
 **Effect:** User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground.
 
+-   "Doughnuts, So Delicious! Doughnuts!"
 -   Has a base damage of 10/11/12/13/14 per level, per hit (3, 2 if Reversal Spark) with 2.75 Flamecharm scaling.
 -   Deals 14 posture damage per hit (3, 2 if Reversal Spark).
 -   Has a windup of 0.6 seconds (0.65 seconds if Reversal Spark) with 0.2 seconds of endlag. Has an 18 second cooldown.

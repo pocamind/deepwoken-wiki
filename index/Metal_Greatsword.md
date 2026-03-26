@@ -1,6 +1,6 @@
 ---
 title: Metal Greatsword
-revid: 198668
+revid: 203136
 source: https://deepwoken.fandom.com/wiki/Metal_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Heavy Weapons, "Attunement-based Weapons", Weapons with Talents]
@@ -40,6 +40,10 @@ categories: [Weapons, Greatswords, Heavy Weapons, "Attunement-based Weapons", We
 
 The Metal Greatsword is a Heavy Greatsword exclusive to the [Rending Needle: Augmenter](Talents.md#rending-needle-augmenter) Talent. After applying 5 Iron Rods and then pulling them with X, Metal Greatsword will be equipped for 10 seconds, overriding your previous weapon.
 
+### Notes
+
+-   Metal Greatsword carries over the star quality and [enchantment](Enchantments.md) of your main weapon.
+
 ## Talent: Forced Fulfilment
 
 Equipping the Metal Greatsword grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
@@ -54,5 +58,4 @@ Metal Greatsword uses the default Greatsword critical, an overhead swing. It has
 
 ## Trivia
 
--   Metal Greatsword carries over the star quality and [enchantment](Enchantments.md) of your main weapon.
--   The Metal Greatsword has the highest base damage of any in game weapon.
+-   The Metal Greatsword has the highest base damage of any weapon in the game.

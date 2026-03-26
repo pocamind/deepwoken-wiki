@@ -1,9 +1,9 @@
 ---
 title: Ignition Deepcrusher
-revid: 202124
+revid: 203193
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Clubs, Swords, Legendary Weapons, "Weapons with Multi-Hit Criticals", "Attunement-based Weapons", Weapons with Unique Criticals, The Ignition Union, Medium Weapons]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Clubs, Swords, Legendary Weapons, "Weapons with Multi-Hit Criticals", "Attunement-based Weapons", Weapons with Unique Criticals, The Ignition Union, Medium Weapons]
 ---
 
 # Ignition Deepcrusher
@@ -13,6 +13,7 @@ categories: [Weapons, Clubs, Swords, Legendary Weapons, "Weapons with Multi-Hit 
 | type | Club/Sword |
 | damage type | Slash |
 | requirements | 40 MED, 75 MTL |
+| oath | Silentheart |
 | damage | 18 + 2.7 BLD (1H), 20 (2H) |
 | scaling | MED: 3, MTL: 4 |
 | posture damage | 8 (Club) / 4 (Sword) |

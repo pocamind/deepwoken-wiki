@@ -1,6 +1,6 @@
 ---
 title: Prophet Pariah
-revid: 200536
+revid: 203201
 source: https://deepwoken.fandom.com/wiki/Prophet_Pariah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deceased characters]
