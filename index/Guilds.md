@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 199305
+revid: 203106
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics]
@@ -32,7 +32,7 @@ When creating an emblem, a window will open up, dividing into two sections. One 
 
 A total of **89 icons** can be chosen, as seen below:
 
-After submitting an emblem, the guild will be successfully created and the leader will automatically gain the [Chime of Dwelling](Chime_of_Dwelling.md) and Guild Officer tool. Additionally, the guild emblem will be visible on the following:
+After submitting an emblem, the guild will be successfully created and the leader will automatically gain the [Chime of Dwelling](Chime_of_Dwelling.md). Additionally, the guild emblem will be visible on the following:
 
 -   On top of the player's name
 -   The playerlist
@@ -48,7 +48,7 @@ When choosing to leave a guild and joining a new one, there is a 1 minute cooldo
 
 ## Members and Rankings
 
-Within a guild, the player can choose to recruit members using the Guild Officer tool. It is also used to promote and exile guild members, depending on their rank. If a guild's leader is terminated from Roblox, permanently banned from Deepwoken or has left the guild, leadership will be given to the first person who speaks to a Guild Clerk.
+Within a guild, the player can choose to recruit members. It is also used to promote and exile guild members, depending on their rank. If a guild's leader is terminated from Roblox, permanently banned from Deepwoken or has left the guild, leadership will be given to the first person who speaks to a Guild Clerk.
 
 The guild ranks are listed below:
 
@@ -59,7 +59,7 @@ The guild ranks are listed below:
 | **Guild Officer ⛨** | Yes | Yes (only kick members) | No | No |
 | **Guild Member** | No (must use [Dwelling Charm](Dwelling_Charm.md)) | No | No | No |
 
-Members of a guild including its leader will stay in their guild after death and/or wiping. Currently you can either get exiled by someone with the Guild Officer tool, or leave by talking to the Guild Clerk. You can have as many members in a guild as you want.
+Members of a guild including its leader will stay in their guild after death and/or wiping. Currently the only way to leave a guild is by speaking to the [Guild Clerk](Guild_Clerk.md) or being exiled by an officer. You can have as many members in a guild as you want.
 
 ## Chime of Dwelling and Guild Bases
 

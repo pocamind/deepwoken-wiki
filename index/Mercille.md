@@ -1,6 +1,6 @@
 ---
 title: Mercille
-revid: 203099
+revid: 203100
 source: https://deepwoken.fandom.com/wiki/Mercille
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests, The Summer Company, Individuals with unspecified pronouns]

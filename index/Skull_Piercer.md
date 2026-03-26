@@ -1,6 +1,6 @@
 ---
 title: Skull Piercer
-revid: 202918
+revid: 203104
 source: https://deepwoken.fandom.com/wiki/Skull_Piercer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Event Item, Hallowtide, Light Weapons]
@@ -44,6 +44,8 @@ The Skull Piercer is a [Light Weapon](Weapons.md) in the rapier category, with s
 Skull Piercer uses the default Rapier critical, thrusting the weapon 4 times. Each hit has a scaled damage multiplier of **0.7x**. It has a cooldown of **3 seconds**.
 
 This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+
+  
 
 ## Trivia
 

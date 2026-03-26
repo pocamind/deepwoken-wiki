@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 202550
+revid: 203116
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
