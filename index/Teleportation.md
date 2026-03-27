@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 199438
+revid: 203220
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -101,5 +101,5 @@ If Teleportation is used in combat, it's cooldown is doubled upon usage.
 -   The [sound effect](https://www.youtube.com/watch?v=LZ90GUmyBxI) that plays when you travel is the [Unlimited Void](https://jujutsu-kaisen.fandom.com/wiki/Unlimited_Void) sound effect from [Jujutsu Kaisen](https://en.wikipedia.org/wiki/Jujutsu_Kaisen)
 -   If you are trapped in somebody else's Gravity Field bell, and that person is standing in your teleportation radius, they will be sent to the destination but you will stay where you are.
 -   Teleportation charges faster if you are relatively close by the location you chose to teleport to.
--   Teleportation now cancels if hit during the first 0.5s of its windup. If its windup is cancelled, it isn't put on CD
+-   Teleportation now cancels if hit during the first 6s of its windup. If its windup is cancelled, it is put on a 15s cooldown
 -   If you have the _[Tarnished](Boons_and_Flaws.md#flaws)_ flaw, you will only be able to teleport if you click on the mark too many times.

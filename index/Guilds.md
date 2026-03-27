@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 203106
+revid: 203230
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics]
@@ -16,7 +16,7 @@ categories: [Guilds, Mechanics]
 
 Guilds are associations created by players, allowing people to represent themselves as a group as well as take advantage of mantra-based buffs. They are an influential part in _Deepwoken_ and a lot of [Talents](Talents.md) and [Mantras](Mantras.md) can be enhanced or require a guild member in order to operate.
 
-Once the player is [Power](Power.md) 5, a guild can be founded by talking to the Guild Clerk in the Guild House at either [Etris](Etris.md), at [Summer Isle](Summer_Isle.md) in the Inn, or at [Fort Merit](Fort_Merit.md).
+Once the player is [Power](Power.md) 5, a guild can be founded by talking to the [Guild Clerk](Guild_Clerk.md) in the Guild House at either [Etris](Etris.md), at [Summer Isle](Summer_Isle.md) in the Inn, or at [Fort Merit](Fort_Merit.md).
 
 ## Creation and Customization
 
@@ -35,10 +35,11 @@ A total of **89 icons** can be chosen, as seen below:
 After submitting an emblem, the guild will be successfully created and the leader will automatically gain the [Chime of Dwelling](Chime_of_Dwelling.md). Additionally, the guild emblem will be visible on the following:
 
 -   On top of the player's name
--   The playerlist
+-   The player list
 -   [Ship](Ships_&_Sailing.md) sails and flag
 -   Captured [Guild Banners](Guild_Banners.md)
 -   Guild bases
+-   Displayed with counters during [War Mode](War_Mode.md)
 
 ### Editing
 
@@ -87,6 +88,7 @@ The following ways to obtain guild score and the amount earned is listed below:
 -   3 ([Duke Erisia](Duke_Ishamon_Erisia.md), [Dread Serpent](Dread_Serpent.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Primadon](Primadon,_Titan_of_the_East.md), [The Ferryman](The_Ferryman.md))
 -   4 ([Titus](Titus_Fulminus_Destellus.md))
 -   5 ([Interluminary Parasol](Interluminary_Parasol.md), [Doom of Caeranthil](The_Doom_of_Caeranthil.md), [Scion of Ethiron](Scion_of_Ethiron.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md))
+-   6 ([Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md))
 -   10 ([Heart of Enmity](Heart_of_Enmity.md))
 
  | N/A | 
@@ -113,11 +115,7 @@ During [Doubled Rates Weekends](Doubled_Rates_Weekends.md), earned guild score w
 
 In certain [Origins](Origins.md) that pertain to its [Faction](Factions_&_Groups.md), the player can choose to join their respective guild by talking to its NPCs:
 
--   [The Knives of Eylis](The_Knives_of_Eylis.md)
-    -   Joined by talking to [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md) while having the [Voidwalker](Voidwalker.md) origin.
--   [The Divers](The_Divers.md)
-    -   Joined by talking to [Akira](Akira.md) in [Castle Light](Castle_Light.md).
--   The Central Authority, which is joined by default, acting as an overlay to the player's current guild.
+-   [The Central Authority](The_Central_Authority.md), which is gained upon selecting the [Authority Ensign](Authority_Ensign.md) [Origin](Origins.md).
 
 In addition to being inside a Faction guild, they cannot obtain any guild score. As of now, Faction guilds cannot be joined by talking to their NPCs, and are capable of obtaining guild score.
 
@@ -134,5 +132,6 @@ In addition to being inside a Faction guild, they cannot obtain any guild score.
 ## Trivia
 
 -   Guilds can be seen like [Houses](https://rogue-lineage.fandom.com/wiki/Houses) from _Rogue Lineage_, another game by _Monad Studios_.
--   If a Guild Leader leaves the guild, an Officer or higher can take their place as the Guild Leader. If there are no Officers or higher ranks in the Guild, anyone in the Guild can take ownership. You **must** go to the guild NPC to claim leadership once the guild leader has left; it's not given to anyone randomly.
--   Guild bases can be summoned by using [Chime of Dwelling](Chime_of_Dwelling.md) or [Dwelling Charm](Dwelling_Charm.md) near a wall. However not all surfaces can be used to create a door, the criteria requires that the space must be big enough. Additionally, the guild base cannot be placed in Voidzones,in [The Depths](The_Depths.md) and territory of factions that you are considered enemies with, if enemies are nearby, if the wall isn't made from the right material, and it also cannot be placed on slopes.
+-   If a Guild Leader leaves the guild, an Officer or higher can take their place as the Guild Leader. If there are no Officers or higher ranks in the Guild, anyone in the Guild can take ownership. You **must** go to the [Guild Clerk](Guild_Clerk.md) to claim leadership once the guild leader has left; it's not given to anyone randomly.
+-   Guild bases can be summoned by using [Chime of Dwelling](Chime_of_Dwelling.md) or [Dwelling Charm](Dwelling_Charm.md) near a wall. However not all surfaces can be used to create a door, the criteria requires that the space must be big enough. Additionally, the guild base cannot be placed in Voidzones, in [The Depths](The_Depths.md), territory of factions that you are considered enemies with, if enemies are nearby, if the wall isn't made from the right material, and if placed on uneven surfaces.
+-   If a guild fails to properly load on your client side it will display as "The Authority."

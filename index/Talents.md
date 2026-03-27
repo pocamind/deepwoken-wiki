@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 203153
+revid: 203224
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4235,6 +4235,9 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Clutch Recovery: [Canor Fang](Canor_Fang.md) - When at 30% health or below, every time you land a light attack or critical hit heal 1%.
     -   Landing weapon attacks while your health is at or below 30% will heal you for 1% of your maximum health.
 
+-   Corporeal Dissolution: [Black Death](Black_Death.md) - Applies [Wither](Status_Effects.md#wither) on any weapon attack that drains Ether, and scales on the amount of Ether drain.
+    -   This is capped at 30 Wither per proc.
+
 -   Cruel Counter: [Krulian Knife](Krulian_Knife.md) - When using your initial charge up on your Krulian Knife, if you interrupt someone's attack with it apply Cruel Counter on them, massively increasing the damage they take from your critical attacks.
     -   If you interrupt someone's attack with the shock from your [Krulian Charge](Krulian_Knife.md) critical, apply the Cruel Counter status effect to your opponent, increasing all damage taken by critical attacks for 20 seconds.
     -   This grants a +40% damage modifier to all critical attacks, even if it isn't a Krulian Knife critical, and even if the critical they got hit by was used by someone else.
@@ -4274,7 +4277,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Fortify: [Rimebreakers](Rimebreakers.md) & [Frost Gauntlets](Frost_Gauntlets.md) - Slow down your movement in exchange for fortifying your defenses.
     
-    -   Grants a Talent tool that grants the [Fortified](Status_Effects.md#fortified) status effect, granting damage reduction at the cost of reducing your movement speed.
+    -   Grants a Talent tool that grants the [Fortified](Status_Effects.md#fortified) status effect, granting 15% damage reduction at the cost of reducing your movement speed by 36%.
 
 -   Phantom: [Withered Phantomcleave](Withered_Phantomcleave.md) - For the next 5 seconds, your next basic attack bypasses block after landing a crit. \[45 second CD\]
 
@@ -4296,6 +4299,9 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Rosen's Technique: [Rosen's Peacemaker](<Rosen's_Peacemaker.md>) - If you use Tactical Reload, Rosen's Peacemaker has 45 seconds less off its cooldown.
     -   Reduces the cooldown of Tactical Reload by 45 seconds; from 90 seconds to 45.
+
+-   Sable Winds: [Eyes of Ethiron](Eyes_of_Ethiron.md) - You can now Inhale Shadowcast mantras. Aftercut effects now drain a small amount of ether based on the damage they deal.
+    -   Your Shadowcast Mantras now gain the damage buff and the modification transfer effect from Inhale. Additionally, you can also Inhale Shadowcast Mantras.
 
 -   Sacrificial Boon: [Ritual Sacrifice](Ritual_Sacrifice.md) - Sacrifice 5 knowledge to activate Blessing, giving you a random blessing from Navae.
     -   Grants a Talent tool that consumes 5 on use to grant the user a random buff within a set pool.
@@ -4321,7 +4327,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   [Payback](Payback.md), the Resonance, has its active counter frames increased by **0.7** seconds.
     -   Oath-based counters ([Illusory Counter](Oath%253A_Visionshaper.md#illusory-counter) and [Equalizer](Oath%253A_Contractor.md#equalizer)) **do not** have any affect with this Talent.
 
--   Spinal Splinter: [Halberd](Halberd.md) - Landing a backstab with your critical deals 25 extra true damage.
+-   Spinal Splinter: [Halberd](Halberd.md) - Landing a backstab with your critical deals 15 extra true damage.
 
 -   Static Beatdown: [Legion Cestus](Legion_Cestus.md) - The metal the cestus is made from allows electricity to be conducted easily through it, allowing you to further extend how long your opponents are stuck in shaky block based on your total Thundercall investment.
     -   Increases shaky block duration by 0.004s per point in Thundercall. At 100 Thundercall, shaky block lasts 1 second against players with 1x or slower swing speed weapons.
@@ -4332,6 +4338,9 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   On proc, you gain the Swift Strike status effect indefinitely. This effect will be consumed when you use your critical.
     -   The teleport has a range limit.
     -   20 second cooldown.
+
+-   True Shatter: [Coldpoint](Coldpoint.md) - Landing a critical shatters your opponent, ridding them of their speed debuffs and dealing true damage scaling off how slow they were.
+    -   Deals 5 true damage per slow effect removed.
 
 -   Vital Wound: [Acheron's Warspear](<Acheron's_Warspear.md>) - Uppercutting your opponent punctures their lungs, slowing their rate of posture recovery for 30 seconds.
     -   Uppercutting your opponent applies the [Vital Wound](Status_Effects.md#vital-wound) status effect, reducing their passive posture recovery by 40% for 30 seconds.

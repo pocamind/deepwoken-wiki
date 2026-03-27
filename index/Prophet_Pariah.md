@@ -1,6 +1,6 @@
 ---
 title: Prophet Pariah
-revid: 203201
+revid: 203209
 source: https://deepwoken.fandom.com/wiki/Prophet_Pariah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deceased characters]
@@ -26,4 +26,4 @@ They lived a short life. In their own beliefs, they believed that there existed 
 ## Trivia
 
 -   Pariah likely believed the heavens to be the [Moonseye](Moonseye.md) and not Constellia due to the name 'Moonseye Tome', them being a Prophet of [The Moonlit Faith](The_Moonlit_Faith.md) and the Moonseye in the cover within the tome.
--   Has a ring named after them called "[Pariah's Keepsake](<Pariah's_Keepsake.md>)"
+-   A "pariah" is one who is considered an outcast.

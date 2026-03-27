@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 201243
+revid: 203211
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1094,6 +1094,7 @@ Gale Wisp will extend the duration of Haunted by 3 seconds.
 -   Galebreathe is good for pressuring an opponent thanks to its high mobility.
 -   **Tornado** would sometimes be referred to as "Wind Eruption" in patch notes. This is because its internal Mantra ID is "Eruption:Wind".
 -   **Wind Passage** shares it's startup sound with [Shadow Assault](Shadowcast.md#shadow-assault).
+-   Given that galebreathe manipulates air, and that sounds in deepwoken travel instantly, and the fact that gale projectiles travel slower than sound in real life, this means that the differences in air pressure in the world of deepwoken are massive, as sometimes air can travel at the speed of light, while other times its many times slower than the real life speed of sound. This would likely mean that peoples ears get burst constantly.
 
 ## References
 
