@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 200778
+revid: 203309
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -49,17 +49,17 @@ These Resonances are exclusive to NPCs, bosses, or developers and cannot be acqu
 -   Chorus Divide: Shattering Crescendo - [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 -   Unnamed Ice Resonance(?) - [Coldheart Fortinbras](Coldheart_Fortinbras.md)
 -   Unnamed Memory Swap Resonance- [Sordino](Sordino.md)
--   Unnamed Resonance- [Volu](Volu.md)
--   Unnamed Resonance- [Warden Jericho](Warden_Jericho.md)
--   Unnamed Resonance- [Chud Steel](Chud_Steel.md)
--   Unnamed Resonance- [High Inquisitor Merey](High_Inquisitor_Merey.md)
--   Unnamed Resonance- [Sentinel Augustus](Sentinel_Augustus.md)
--   Unnamed Resonance- [Jungle Jim](Jungle_Jim.md)
--   Unnamed Resonance- [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
--   Unnamed Resonance- [Reclaimer of the Recollection](Reclaimer_of_the_Recollection.md)
--   Unnamed Resonance- [High Monk Junsui](High_Monk_Junsui.md)
--   Unnamed Resonance- [Sentinel Faris Kesset](Sentinel_Faris_Kesset.md)
--   Unnamed Resonance- [High Inquisitor Mordred Hirculi](High_Inquisitor_Mordred_Hirculi.md)
+-   Unnamed Resonance - [Volu](Volu.md)
+-   Unnamed Resonance - [Warden Jericho](Warden_Jericho.md)
+-   Unnamed Resonance - [Chud Steel](Chud_Steel.md)
+-   Unnamed Resonance - [High Inquisitor Merey](High_Inquisitor_Merey.md)
+-   Unnamed Resonance - [Sentinel Augustus](Sentinel_Augustus.md)
+-   Unnamed Resonance - [Jungle Jim](Jungle_Jim.md)
+-   Unnamed Resonance - [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
+-   Unnamed Resonance - [Reclaimer of the Recollection](Reclaimer_of_the_Recollection.md)
+-   Unnamed Resonance - [High Monk Junsui](High_Monk_Junsui.md)
+-   Unnamed Resonance - [Sentinel Faris Kesset](Sentinel_Faris_Kesset.md)
+-   Unnamed Resonance - [High Inquisitor Mordred Hirculi](High_Inquisitor_Mordred_Hirculi.md)
 
 ## Overview
 

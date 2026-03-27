@@ -1,6 +1,6 @@
 ---
 title: Bloodless Gem
-revid: 199464
+revid: 203319
 source: https://deepwoken.fandom.com/wiki/Bloodless_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]
@@ -35,19 +35,19 @@ This has a healing cap of 15 health. Reaching this cap will put Bloodless Gem on
 
 -   This Gem is best used on high damage Mantras, especially those that hit multiple times or can hit multiple opponents at once.
 -   The formula for Bloodless Gem's healing is as follows:  
-    S c a l e d D a m a g e × 0.3 {\\displaystyle ScaledDamage\\times 0.3} {\\displaystyle ScaledDamage\\times 0.3}
+    S c a l e d D a m a g e × 0.8 × 0.3 {\\displaystyle ScaledDamage\\times 0.8\\times 0.3} {\\displaystyle ScaledDamage\\times 0.8\\times 0.3}
     -   Notably, the healing formula is based on your damage **before** Bloodless Gem's reduced damage effect is applied.
     -   Although the description states "unscaled damage," it actually means damage before modifiers and resistances are applied, **not** base damage.
--   The heal cap of 15 will be reached once you deal 50 scaled damage.
+-   The heal cap of 15 will be reached once you deal 63 scaled damage.
 -   While Bloodless Gems are on cooldown, your Mantra's damage will be restored to normal and the healing will be disabled.
 -   If you have the Brain [Food Buff](Status_Effects.md#food-buff) from the [Grilled Parasol Brain](Grilled_Parasol_Brain.md), Bloodless Gem's healing cap will be increased from 15 to 20.
-    -   You will need to deal at least 66.7 scaled damage to hit this heal cap.
+    -   You will need to deal at least 84 scaled damage to hit this heal cap.
 -   [The No-Life King's Crown](<The_No-Life_King's_Crown.md>) increases the healing cap of Bloodless Gems to 30, at the cost of reducing the healing received from Bloodless Gems by 33%.
     -   This changes the Bloodless Gem healing formula to:  
-        S c a l e d D a m a g e × 0.67 × 0.3 {\\displaystyle ScaledDamage\\times 0.67\\times 0.3} {\\displaystyle ScaledDamage\\times 0.67\\times 0.3}
-    -   With this equipment, you will need to have a scaled damage of 76 or higher to heal more than 15 heath, and a scaled damage of 150 to reach the 30 heal cap.
-    -   When paired with the Brain Food Buff, you will need to have a scaled damage of 175 to heal 35 health from Bloodless Gems.
--   The Bloodless Gem effect can be enhanced with the Bloodcurdle Equipment Set, granting [Temporary Health](Status_Effects.md#temporary-health) when you proc the Gem.
+        S c a l e d D a m a g e × 0.8 × 0.67 × 0.3 {\\displaystyle ScaledDamage\\times 0.8\\times 0.67\\times 0.3} {\\displaystyle ScaledDamage\\times 0.8\\times 0.67\\times 0.3}
+    -   With this equipment, you will need to have a scaled damage of 94 or higher to heal more than 15 heath, and a scaled damage of 187 to reach the 30 heal cap.
+    -   When paired with the Brain Food Buff, you will need to have a scaled damage of 218 to heal 35 health from Bloodless Gems.
+-   The Bloodless Gem effect can be enhanced with the Bloodcurdle and Regenerative Equipment Sets, granting 50% of Bloodless Gem's healing [Temporary Health](Status_Effects.md#temporary-health) when you proc the Gem.
 
 ## Crafting
 

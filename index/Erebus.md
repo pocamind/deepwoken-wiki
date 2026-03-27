@@ -1,6 +1,6 @@
 ---
 title: Erebus
-revid: 203304
+revid: 203320
 source: https://deepwoken.fandom.com/wiki/Erebus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -14,7 +14,7 @@ categories: [Enchantments, Weapon Enchantments]
 | droppable | Yes |
 | pass down | No |
 | desc | When landing a critical, make your opponent forget how to use a mantra for a minute. |
-| obtainment | Unknown chance from Laplace |
+| obtainment | Currently unknown |
 
 ## Description
 
