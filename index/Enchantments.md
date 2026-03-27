@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 202568
+revid: 203300
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -1315,7 +1315,7 @@ Curse of the Bloodthirsty [Enchant Stone](Enchant_Stone.md):
 
 [View main page](Curse_of_Captain_Greene.md)
 
-[Curse of Captain Greene](Curse_of_Captain_Greene.md)
+File:Curse of Captain Greene Gif.gif
 
 _Known throughout the Summer Company, many heard of the famous treasurer Captain Greene. You inherit his strange ability to summon notes when hitting a player, with you gaining damage the more rich you are. However since you aren't Captain Greene himself, you lose notes whenever you get hit. A strange curse indeed..._
 

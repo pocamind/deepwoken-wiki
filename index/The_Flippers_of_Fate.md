@@ -1,6 +1,6 @@
 ---
 title: The Flippers of Fate
-revid: 196617
+revid: 203294
 source: https://deepwoken.fandom.com/wiki/The_Flippers_of_Fate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Daggers, "Dual-wielded Weapons", "Core-Attribute based weapons", Light Weapons]

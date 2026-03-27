@@ -1,6 +1,6 @@
 ---
 title: Guiding Star
-revid: 203157
+revid: 203299
 source: https://deepwoken.fandom.com/wiki/Guiding_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Chainwarden, Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", The Children of Navae, Bows]
@@ -41,7 +41,9 @@ The **Guiding Star** is a Legendary [Bow](Weapons.md); a set of antlers as its l
 
 The bow is obtained through the "[Lodestar Bounty](Lodestar.md)" Job as a guaranteed drop. The Job itself can be found at the [Summer Isle](Summer_Isle.md) [job board](Job_Boards.md) and the [Starswept Valley](The_Starswept_Valley.md) job board although rarer in Starswept.
 
-The Guiding Star consumes small amounts of Ether to fire arrows. If the user has no Ether, it will deal 20% less damage. Critical is affected by ranged attacks damage resistance.
+This weapon comes with the following passive:
+
+-   **Mind's Arrow** - The Guiding Star consumes small amounts of Ether to fire arrows. If the user has no Ether, it will deal 20% less damage. Critical is affected by ranged attacks damage resistance.
 
 ## Critical
 

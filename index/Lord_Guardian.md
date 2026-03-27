@@ -1,6 +1,6 @@
 ---
 title: Lord Guardian
-revid: 203030
+revid: 203237
 source: https://deepwoken.fandom.com/wiki/Lord_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Abolished positions]
@@ -12,6 +12,7 @@ categories: [Abolished positions]
 |---|---|
 | founded | 6th century CE[1] |
 | suspend | 1271 CE |
+| government | Etrea |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Silversix
-revid: 201630
+revid: 203295
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Pistols, Offhand, Light Weapons, Echoes]
@@ -49,4 +49,4 @@ Silversix uses the default Pistol critical, an empowered shot. It has a scaled d
 ## Trivia
 
 -   A single Silversix can fire six shots when loaded before requiring a reload. The third and fourth shot are interrupted by a kick.
--   The Silversix has the longest range of any starting weapon, beating out even the Irontusk's 9 range.
+-   The Silversix has the longest range of any starting weapon, beating out even the [Irontusk's](Irontusk.md) 9 range.
