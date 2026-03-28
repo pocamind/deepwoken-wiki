@@ -1,6 +1,6 @@
 ---
 title: Dye Packet
-revid: 202758
+revid: 203337
 source: https://deepwoken.fandom.com/wiki/Dye_Packet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics]
@@ -11,7 +11,7 @@ categories: [Items, Relics]
 | Dye Packet | |
 |---|---|
 | value | 0 |
-| stack | x99 |
+| stack | x129 |
 | type | Treasure |
 | rarity | Common |
 | usage | Changing the color of Equipment items, Aspect/character features, and other cosmetics. |

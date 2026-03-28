@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 203224
+revid: 203345
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1845,7 +1845,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   This will not proc if you are the one who applied the healing; you cannot heal yourself by healing your opponent.
     -   This only procs on non-passive healing. For example (non exhaustive list): something like [Flame Wisp](Flamecharm.md#flame-wisp), spits, or [Bloodless Gem](Bloodless_Gem.md) will proc this effect, but campfires, Conditioned Runner, or [Curse of the No Life King](Curse_of_the_No_Life_King.md) will not.
     -   If using Glass Path: Crystallization then every hit with a Frostdraw mantra will proc Saint Jay for 2 seconds. (Doesn't stack)
-    -   The "on ice" effect osf Saint Jay is bugged and does not work.
+    -   The "on ice" effect of Saint Jay is bugged and does not work.
     -   The heal boost status effect increases all non-passive healing gained from enemies who are currently affected by your anti-heal. This Talent grants +10% Heal Boost.
     -   The maximum amount of Heal Boost you can have have is 45%, by having the following Talents: All Above, Gods Below (+15%), All the Dead Gods (+5%), Frostbite (+5%), Saint Jay (+10%), and Sin Stacker (+10%).
     -   Prerequisite: Frostbite
@@ -3076,7 +3076,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Scholar of the Cloud
 
--   Windwaker \[Common Talent, Galebreathe\] - Call upon a gust of wind to propel your boat even faster.
+-   _Windwaker_ \[Quest Talent, Galebreathe\] - Call upon a gust of wind to propel your boat even faster.
     -   The ability can be used as long as the player is standing on a boat, even if not in control.
     -   Сannot be used in combat.
     -   Prerequisites: 15 Galebreathe, [Stratos](Stratos.md)' quest.
@@ -4160,8 +4160,9 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisite: 15 Strength
     -   The [Grand Authority Plate](Grand_Authority_Plate.md) equipment has this Talent.
 
--   Martyr \[Common Talent\] - When you're knocked [Unconscious](Status_Effects.md#unconscious), enemies gain less health and posture, and allies around you are granted [Martyrdom](Status_Effects.md#martyrdom) for 20s
+-   Martyr \[Common Talent\] - When you're knocked [Unconscious](Status_Effects.md#unconscious), enemies gain less health and posture, and allies around you are granted [Martyrdom](Status_Effects.md#martyrdom) for 20s.
     -   Martyrdom grants +20% damage and damage reduction for 20 seconds.
+    -   Martyrdom cannot be given to the player who knocked you, even if they are your ally. Additionally, Martyr does not consider yourself an ally, meaning the buffs won't be applied to yourself.
     -   Enemies who knock you restore only half of the posture and health they would normally obtain (50% -> 25%).
     -   If the enemy have the Talent Replenishing Knockout, both Talents negate each other, resulting in a normal health pack.
     -   Prerequisite: [Power](Power.md) 3

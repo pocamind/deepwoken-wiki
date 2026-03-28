@@ -1,6 +1,6 @@
 ---
 title: Iron Vessel
-revid: 199505
+revid: 203349
 source: https://deepwoken.fandom.com/wiki/Iron_Vessel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -798,7 +798,7 @@ _Cut through your opponent._
  |
 | 
 
-? Ether
+50 Ether
 
  | 
 

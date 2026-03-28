@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 203152
+revid: 203322
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -722,7 +722,7 @@ Fire
 -   Fires where cursor is aimed. Locks onto opponents if aimed at one.
 -   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase speed and range.
 -   Can be modified with [Glass](Mantra_Modifiers.md#regular-modifiers)/[Magnifying Stones](Mantra_Modifiers.md#regular-modifiers) to make the explosion larger.
--   Can be modified with a [Spring Spark](Mantra_Modifiers.md#sparks) to make the user do a jump before firing the arrow. This is currently bugged and does not work.
+-   Can be modified with a [Spring Spark](Mantra_Modifiers.md#sparks) to push the user back when casted.
 
  |
 | 
