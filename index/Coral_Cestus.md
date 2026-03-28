@@ -1,9 +1,9 @@
 ---
 title: Coral Cestus
-revid: 203303
+revid: 203367
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Weapons with Unique Criticals, Alloyed Weapons, Fists, Light Weapons]
+categories: [Weapons, Weapons with Unique Criticals, Alloyed Weapons, Fists, Light Weapons]
 ---
 
 # Coral Cestus
@@ -42,9 +42,11 @@ The **Coral Cestus** is a Fist Light Weapon that requires 50 LHT to use and drop
 
 The user leaps forwards into the air and slams into the ground, creating a large AoE that applies short knockdown. It has a 1.3x scaled damage multiplier.
 
-The Broodalloy Cestus critical now has a telegraph alongside a sound effect. On top of that, the critical now **autogrips** anyone who is at low health or is already knocked.
+The Broodalloy Cestus critical is [unparryable](Combat_Mechanics.md#telegraphed-attacks), displaying a telegraph alongside a sound effect. On top of that, the critical will **autogrip** anyone who is at low health or is already knocked.
 
 The critical has a cooldown of **6 seconds**.
+
+The [Fang and Coil](Fang_and_Coil.md) running critical from [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) cannot be used on the Coral or Broodalloy Cestus.
 
 ## Trivia
 
@@ -55,4 +57,3 @@ The critical has a cooldown of **6 seconds**.
 -   The upper front of the fist resembles a brass knuckle, or a knuckle duster.
 -   The crit can be easily cancelled, even being able to be countered with a single m1, so it's wise to only use the crit when your enemy is under pressure.
 -   Currently the only Cestus that can be alloyed.
--   The [Fang and Coil](Fang_and_Coil.md) running critical from [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) cannot be used on the Coral or Broodalloy Cestus.

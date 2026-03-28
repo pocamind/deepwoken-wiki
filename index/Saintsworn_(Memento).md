@@ -1,6 +1,6 @@
 ---
 title: Saintsworn (Memento)
-revid: 203351
+revid: 203370
 source: https://deepwoken.fandom.com/wiki/Saintsworn_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with reason, InProgressPages, Mementos]
@@ -13,7 +13,7 @@ notices:
 | Saintsworn (Memento) | |
 |---|---|
 | description | Harness the power of the heroes, wielding control over five attunements. |
-| unlock | ?? |
+| unlock | Obtain Saintsworn on a Pathfinder character |
 | starting attributes | 75 Flamecharm, 75 Thundercall, 75 Galebreathe, 75 Shadowcast, 2 Strength, 1 Fortitude, 1 Agility, 3 Intelligence, 1 Willpower |
 | final attributes | 100 Frostdraw, 75 Heavy Weapon, 40 Strength, 80 Fortitude, 25 Agility, 10 Willpower |
 | starting traits | -3 Vitality, 1 Erudition, 1 Proficiency, 1 Songchant, 2 Dexterity |
@@ -23,7 +23,7 @@ notices:
 | allowed weapons | Fist, Greathammer, Greataxe, Sword, Spear, Club, Rapier, Dagger, Greatcannon, Twinblade, Bow, Greatsword |
 | starting weapons | Hero's Blade of Flame, Hero's Blade of Frost, Hero's Blade of Lightning, Hero's Blade of Shadow, Hero's Blade of Wind |
 
-_This is the [Memento](Mementos.md). For the Oath, see [Oath: Saintsworn](Oath%253A_Saintsworn.md)._
+This is the [Memento](Mementos.md). For the Oath, see [Oath: Saintsworn](Oath%253A_Saintsworn.md).
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
@@ -34,6 +34,8 @@ This content is not accessible outside of this gamemode.
 Saintsworn (Memento) is a playable [Memento](Mementos.md) available in the [Vow of Iron](Vow_of_Iron.md) gamemode.
 
 ## Starting Abilities
+
+-   [**Oath: Saintsworn**](Oath%253A_Saintsworn.md) \[Oath Talent\] - A vow to the fallen heroes. Press L to swap to Saintsblade.
 
 -   Verses of Harmony \[Memento Talent\] - Each elemental stance grants access to select talents from the corresponding attunement.
 
@@ -98,7 +100,7 @@ Slows thirst drain by approximately 3 times.
     -   The ability can be used as long as the player is standing on a boat, even if not in control.
     -   Сannot be used in combat.
 
--   _Chronostasis_ \[Rare Talent\] - Landing a Basic Attack or Critical puts the target's [Resonance](Resonance.md) on cooldown for a short duration, while also applying [Ether Sunder](Status_Effects.md#ether-sunder) to PvE opponents. (+1 Posture)
+-   _Chronostasis_ \[Rare Talent\] **250** \- Landing a Basic Attack or Critical puts the target's [Resonance](Resonance.md) on cooldown for a short duration, while also applying [Ether Sunder](Status_Effects.md#ether-sunder) to PvE opponents. (+1 Posture)
     -   On hit, apply a 13 second Resonance cooldown.
     -   This cannot proc if their Resonance is already on cooldown.
     -   The Ether Sunder status effect grants you 30% damage reduction against affected enemies' elemental attacks.
@@ -341,6 +343,580 @@ Wind + Slash
 
  |
 
+### Power 5
+
+-   Charged Return \[Common Talent\] **100** \- Being under an elemental status effect causes your Basic Attacks and Criticals to do 10% more damage.
+    -   Procs on Burn, Chill, Shock, Fear (from the Fear the Dark Talent), Winded, and Suffocation.
+        -   Also procs if the aforementioned status effects are self-applied, like using Flame Within or Agitating Spark to self apply burn.
+
+-   Flame Within \[Common Talent\] **100** \- An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain more move speed and 10% extra damage.
+    -   Unlike normal burn, Flame Within's burn is not cleared by rolling/sliding. Flame Within will not stop until 30 seconds have passed or until Flame Within is reused.
+    -   Generally dangerous to use without multiple sources of burn damage reduction, most notably, Immolation.
+    -   8 second cooldown that starts when Flame Within is activated. Meaning if you let it burn for long enough, the cooldown will effectively be nullified outside of burn immunity. The Talent tool does not showcase this properly.
+    -   Flame Within grants a mobility buff, NOT a speed boost (it will not proc Talents such as Speed Demon).
+        -   Because Flame Within's mobility buff is a flat 12.5% increase instead of a multiplier to your movement speed, it allows you to move when you otherwise wouldn't be able to. Like during NPC dialogue, when mining, or when casting certain mantras like [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) or [Iron Skin](Ironsing.md#iron-skin).
+    -   It is a general damage buff, and as such it'll affect all sources of damage that can be modified.
+    -   Flame Within can be enabled while knocked. This is meant to synergize with Phoenix Flames. Doing so will halve the strength of Phoenix Flames.
+    -   Deals self-damage on cast, separate from the burn damage. This self damage can be resisted with the [Deepscorn Casque](Deepscorn_Casque.md), elemental resistance (it deals Flamecharm damage), and many other sources of damage reduction.
+    -   Grotesque Resilience reduces the damage taken from Flame Within's burn DoT by 25%.
+    -   [Deepfire Ring](Deepfire_Ring.md) will lower Flame Within's duration down to 25s without affecting the burn damage taken. This is a direct downgrade for Flame within.
+
+-   _Everchanging Aegis_ \[Rare Talent\] **250** \- You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element.
+    -   Getting hit by another element immediately changes your resistance to that element. i.e Getting hit by Shadowcast Mantras while having Galebreathe resistance will immediately change your resistance type to Shadowcast and vice versa.
+        -   This means that multi-hitting Mantras are much less potent, even if your Everchanging Aegis type was not attuned to that Mantra.
+    -   Your Aegis type can swap on block, dodge, and parry. You do not need to actually be _hit_ by the attack for the swap to occur, largely mitigating the downside.
+    -   [Burn](Status_Effects.md#burn) and self damage do not proc Everchanging Aegis.
+    -   The damage type you become resistant to is indicated by a colored shield, continuous damage of the same element will give a colored outline of the damage type.
+        -   Flamecharm: Orange / Frostdraw: Blue / Thundercall: Yellow / Galebreathe: Green / Shadowcast: Purple / Ironsing: Grey / Bloodrend: Red
+    -   Does not affect attacks that do not deal elemental damage.
+
+-   _**Phoenix Flames**_ \[Advanced Talent\] **350** \- Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown.
+    -   Healing scales on your Flamecharm investment; heals 25% health at 0 Flamecharm and scales up to 50% health at 75 Flamecharm, gaining 0.33% healing per point in Flamecharm.
+    -   If you used Flame Within while knocked to proc Phoenix Flames, then the healing received will be halved. Though, if you activated Flame Within prior to being knocked, you'll receive the full healing.
+
+  
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Thunder Kick** (★☆☆)
+
+_An unrelenting kick like a clap of thunder._
+
+ | 
+
+## Thunder Kick (★☆☆)
+
+  
+_An unrelenting kick like a clap of thunder._
+
+ |
+| 
+
+60 Ether
+
+ | 
+
+Lightning
+
+ | 
+
+450
+
+ |
+| 
+
+**Effect:** _Perform a heavy thunderclap-sounding side kick with the user's left leg that pushes back any targets hit._
+
+-   Has a base damage of 25/28/31/34/37 per level with 2.75 Thundercall scaling.
+-   Deals 10/15/20/25/GB posture damage per level.
+-   At level 5, this Mantra becomes an instant-guard break, costing 20 additional Ether on cast to retain this property. This additional Ether cost cannot be reduced.
+-   Has a windup of 0.65 seconds.
+-   11 second cooldown.
+-   Can be modified with Perfect/Crystal Lens to make you move slightly forward right before the kick happens
+-   Press your block button immediately after the initial kick to follow it up with a second less potent kick that teleports you to the target.
+    -   This requires the user to actually land the mantra, meaning it will not activate if being parried, blocked or dodged.
+    -   The second kick deals 35% of the initial kick's damage.
+    -   Doesn't work if the initial kick guardbroke the target.
+-   The **base damage** of this Mantra is increased by 15% if you are wearing the full Specialist Set. Additionally, it will become a green color.
+
+ |
+| 
+
+**Clutching Shadow** (☆☆☆)
+
+_A shadowy hand._
+
+ | 
+
+## Clutching Shadow (☆☆☆)
+
+  
+_A shadowy hand._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Shadow + Slash (Grab), Blunt (Slam)
+
+ | 
+
+450
+
+ |
+| 
+
+**Effect:** _Targets one enemy within a radius around the caster (signified by a red glow around the targeted foe) and lifts them up into the air before slamming them down._
+
+-   The grab has a base damage of 20/25/30/35/40 per level with 2.75 Shadowcast scaling.
+-   The slam has a base damage of 4/5/6/7/8 per level with 2.75 Shadowcast scaling.
+-   The grab drains 9.5/11.5/13/15/16.5 Ether per level with 2.75 Shadowcast scaling. The slam does not drain Ether.
+-   Deals 6 posture damage and does not follow through to the slam if blocked.
+-   Has an 11 second cooldown. If this Mantra is whiffed entirely (it cannot find a target), it will have a 3 second cooldown instead.
+-   Grab has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage), Slam has 59.47x PvE scaling (multiply damage dealt by 59.47 to get PvE damage).
+-   The grab deals Shadow + Slash damage, the slam deals pure Blunt damage.
+-   Grants I-frames to the user and opponent on hit.
+-   Notoriously buggy when used against humanoid npcs, often hitting them and showing the slam effects, but dealing no (?) damage or stun
+-   Shares a cooldown with all of [grab Mantras](List_of_Grab_Mantras.md).
+
+ |
+| 
+
+**Rising Wind** (★★☆)
+
+_Use wind to uppercut and propel yourself into the air. Press F after hitting an opponent to impale them_
+
+ | 
+
+## Rising Wind (★★☆)
+
+  
+_Use wind to uppercut and propel yourself into the air. Press F after hitting an opponent to impale them_
+
+ |
+| 
+
+60 Ether
+
+ | 
+
+Wind + Blunt
+
+ | 
+
+450
+
+ |
+| 
+
+**Effect:** _Ascend while uppercutting your target, rapidly damaging them._
+
+-   Has a base damage of 6/6.9/7.8/8.7/9.6 per level, per hit (5). The first hit has 2.75 Galebreathe scaling while the last three have 5 Galebreathe scaling.
+-   Deals 5 posture damage and cancels when blocked (even if it guard breaks).
+-   Has a windup of 0.5 seconds with a 14 second cooldown.
+-   Gems apply ONLY to the last hit, making Bloodless' healing very low.
+-   Pressing F during the animation lets you kick your opponent down into the ground, applying daze and knockdown.
+-   Gives I-Frames to yourself and your opponent throughout the duration of the Mantra.
+-   Can vent during the mantra, however, this does not cancel it.
+-   Can proc **Meteor Impact**.
+-   Can be modified with [Perfect](Mantra_Modifiers.md#regular-modifiers)/[Crystal Lenses](Mantra_Modifiers.md#regular-modifiers) to do a quick dash before the inital uppercut, with the length of this dash increasing with the amount of modifiers.
+
+ |
+| 
+
+**Gale Wisp** (★★☆)
+
+_A servant of wind.  
+Reduces fall damage by 20%.  
+With Specter Path, gives you bonus spectral gauge when landing mantras.  
+With Haunted Gale, increases the duration of your Phantoms by 3s._
+
+  
+
+**As of 17 feb 2026: Gale Wisp with specter path no longer gives passive Spectral Gauge and instead gives you bonus Spectral Gauge when landing mantras**
+
+ | 
+
+## Gale Wisp (★★☆)
+
+  
+_A servant of wind.  
+Reduces fall damage by 20%.  
+With Specter Path, gives you bonus spectral gauge when landing mantras.  
+With Haunted Gale, increases the duration of your Phantoms by 3s._
+
+  
+
+**As of 17 feb 2026: Gale Wisp with specter path no longer gives passive Spectral Gauge and instead gives you bonus Spectral Gauge when landing mantras**
+
+ |
+| 
+
+60 Ether
+
+ | 
+
+N/A
+
+ | 
+
+450
+
+ |
+| 
+
+**Effect:** _Spawns a spherical wisp of wind. Ritual Casted._
+
+-   Grants 20% fall damage resistance.
+-   Haunted Gale duration increased by 3 seconds.
+-   Passively increases the Spectral meter bar for Haunted Path: Specter users by a small percent, the regen is greater than the decay.
+-   Has 3 charges (which are consumed via taking fall damage). Logstones increase the amount of charges.
+    -   Note using logstones will force you to cast more signs.
+
+ |
+
+### Power 10
+
+-   Defiant until the End \[Common Talent\] - Slow the enemy trying to execute you down with one last shout of your determination. (+6 Sanity)
+    -   Players with this Talent will shout "THINK YOU'VE SEEN THE LAST OF ME" when gripped, which slows down the grip attempt.
+    -   Stacks with Last Second Negotiations (with both a grip takes about 6.5 seconds).
+    -   The [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md) equipment has this Talent.
+
+-   Meteor Impact \[Common Talent\] - Aerial moves you land will follow up into a devastating slam. This is also possible when you yourself gets hit by an aerial move.
+    -   Deals 10 flat Flamecharm damage on top of your weapon's scaled damage.
+    -   Meteor Impact's damage can be buffed via damage modifiers, but does not scale on your Flamecharm investment.
+    -   Meteor impact is used by light attacking after using some mantras that end with both user and victim suspended in air, including: [Rising Flame](Flamecharm.md#rising-flame), [Flame Leap](Flamecharm.md#flame-leap), [Rising Frost](Frostdraw.md#rising-frost), [Rising Wind](Galebreathe.md#rising-wind), [Lightning Impact](Thundercall.md#lightning-impact), [Flashfire Sweep](Hybrid_Abilities.md#flashfire-sweep) and [Saintsworn's](Oath%253A_Saintsworn.md) Galebreathe Blade of Saints. There may be more that do, but simply aren't documented yet.
+        -   [Rising Thunder](Thundercall.md#rising-thunder) can also activate it, but only if the initial grab guard breaks, which is very unlikely. Additionally, Wind Blade can activate it as well, but only if you use the Tempest Wind Talent's variant of the mantra.
+    -   Some mantras, despite leaving both players in the air, **can't** activate Meteor Impact, such as [Celestial Assault](Oath%253A_Starkindred.md), or [Skyshatter Kick](Attunement-less.md#skyshatter-kick) (Round Spark).
+
+-   Savior \[Common Talent\] - After saving a player from being gripped gain a short speed boost for a short duration. (+1 Sanity)
+    -   "Saved" being interrupting a grip attempt.
+    -   The speed boost lasts 15 seconds.
+
+  
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Frost Wisp** (★★☆)
+
+_A servant of ice._
+
+ | 
+
+## Frost Wisp (★★☆)
+
+  
+_A servant of ice._
+
+ |
+| 
+
+60 Ether
+
+ | 
+
+N/A
+
+ | 
+
+700
+
+ |
+| 
+
+**Effect:** _Conjure a wisp that travels around the user that freezes the ground below; Shoots a small beam of ice whenever the user vents successfully. Ritual Casted._
+
+-   Shoots a beam of ice ~0.5 seconds after landing a vent that applies chill and deals ~6 damage.
+-   Leveling up the Mantra increases the size of the ice floors, and damage of the beam.
+-   Procs Cold Front and Chilling Flourish without needing the Talents.
+    -   The Chill of the beam lasts longer than Cold Front.
+-   This Mantra can infinitely place ice on the ground without any modifiers. Only consumes uses when proccing Cold Front or Chilling Flourish via the wisp.
+
+ |
+| 
+
+**Shadow Gun** (☆☆☆)
+
+_An awful blast of dark energy._
+
+ | 
+
+## Shadow Gun (☆☆☆)
+
+  
+_An awful blast of dark energy._
+
+ |
+| 
+
+40 Ether
+
+ | 
+
+Shadow
+
+ | 
+
+700
+
+ |
+| 
+
+**Effect:** _You fire a melee-ranged shot at your mouse cursor._
+
+-   Has a base damage of 25/28/31/34/37 per level with 2.75 Shadowcast scaling.
+-   Drains 27/30.5/33.5/37/40.5 Ether per level with 2.75 Shadowcast scaling.
+-   Unsparked variant guardbreaks at level 5.
+-   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
+-   Adding [Crystal](Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) will increase the range of your Shadow gun, this will however reduce the damage of the Mantra.
+-   Adding [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) will increase the height and width of the blast, this will however reduce the damage of the Mantra.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), making your Shadow Gun a barrage that deals more damage. It will, however, also remove the guaranteed guardbreak and double the Ether cost from what's displayed (i.e. a 40 Ether cost Shadow Gun will actually cost 80 of your Ether if a Blast Spark is equipped).
+    -   Has a base damage of 11.88/13.86/15.84/17.82/19.8 per level, per hit (3) with 2.75 Shadowcast scaling. Deals 160% of the base variant's damage if all hits land.
+    -   Drains 4.48/5.06/5.56/6.14/6.72 Ether per level, per hit (3) with 2.75 Shadowcast scaling. Drains 50% of the base variant's Ether if all hits land.
+
+ |
+
+### Power 15
+
+-   Comeback Kid \[Common Talent\] **100** \- When waking up from being [Unconscious](Status_Effects.md#unconscious) you are unable to be knocked down for 5 seconds.
+    -   Gain total immunity to getting knocked when you wake up from being knocked. You can still be damaged but wont be knocked even at 0%.
+    -   2 minute cooldown.
+
+-   _Impervious Slumber_ \[Rare Talent\] **250** \- Getting hit while [Unconscious](Status_Effects.md#unconscious) no longer resets your time [Unconscious.](Status_Effects.md#unconscious)
+
+  
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Thunder Wisp** (★★☆)
+
+_A servant of lightning._
+
+ | 
+
+## Thunder Wisp (★★☆)
+
+  
+_A servant of lightning._
+
+ |
+| 
+
+70 Ether
+
+ | 
+
+N/A
+
+ | 
+
+950
+
+ |
+| 
+
+**Effect:** _Conjure a wisp of lightning that applies "Sapping" to a target when landing uppercuts or flourishes. Ritual Casted._
+
+-   **Sapping** increases the target's mantra cooldown.
+-   \[\] Second Cooldown.
+-   When Sapping ends, the target is shocked. If you have surge path, it will apply a Surge stack.
+-   Can be modified with **Aeon/Eternal Logstones** to increase its uses.
+
+ |
+
+### Power 20
+
+-   Dragon's Song \[Common Talent\] **100** \- Using a mantra after an uppercut grants ether.
+    -   Grants +20 Ether on proc.
+    -   2 second cooldown.
+
+-   Hungry Flames \[Common Talent\] **100** \- When you have no Ether, consume Stomach and Water to instantly cast your next fire mantra.
+    -   15 second cooldown.
+
+  
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Flame Wisp** (★★☆)
+
+_A servant of flames._
+
+ | 
+
+## Flame Wisp (★★☆)
+
+  
+_A servant of flames._
+
+ |
+| 
+
+70 Ether
+
+ | 
+
+N/A
+
+ | 
+
+1200
+
+ |
+| 
+
+**Effect:** The caster summons a wisp of magma. Ritual Casted.
+
+-   Flame Wisp reduces the burn damage you deal by 20% and turns the damage it reduced into healing. This affects ALL burn tick damage you do, whether it be on yourself or others.
+-   Ignites nearby campfire pits if not currently healing you.
+-   With **Wraith Path: Twisted Puppets**, you will heal from burns by Shadow Mantras, but not by Flame Mantras.
+-   Does not work with Eruption Path: Lava Serpent (BUGGED and has been for a while.)
+-   Converts about 25-30 burning damage total. [Logstones](Mantra_Modifiers.md#regular-modifiers) increase the amount of burn it can convert.
+    -   Logstones will increase the amount of keys in the Ritual Cast.
+
+ |
+| 
+
+**Heavenly Wind** (★☆☆)
+
+_A strike from the heavens._
+
+ | 
+
+## Heavenly Wind (★☆☆)
+
+  
+_A strike from the heavens._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Wind
+
+ | 
+
+1200
+
+ |
+| 
+
+**Effect:** _Leap high into the air before diving down towards your cursor, striking any targeted opponent._
+
+-   Has a base damage of 15/22/29/36/43 per level with 2.75 Galebreathe scaling.
+-   Deals 10 posture damage.
+-   Has a windup of 0.65 seconds with a 15 second cooldown.
+-   Highly recommended that you turn off shift-lock on use.
+-   Has great vertical mobility, almost acting like a double jump at times.
+-   Can be used in combination with the [Cap Artist](Talents.md#cap-artist) Talent to ragdoll and fling yourself insanely far, but only in dungeons, such as layer 2.
+
+ |
+
 ## Boss Unlocks
 
 ### Shogun of the Prophet's Guard
@@ -517,13 +1093,13 @@ Defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_
 
 ### Dravik, The Rat King
 
--   **Saint's Negation** \[Oath Talent\]- Once per stance cycle you can fully block an attack that matches your Saint Stance.
+-   **Saint's Negation** \[Oath Talent\] - Once per stance cycle you can fully block an attack that matches your Saint Stance.
     -   Allows you to fully negate the damage of one attack that has a damage type that corresponds with your current Saint Stance.
     -   Can only proc once per full cycle, meaning you'll have to fully cycle through all of the Stances before you can proc this effect again.
 
 -   _**Chorus of Souls**_ \[Advanced Talent\] - Alone, the Wisps lack a voice. But surrounded by so many, the frequencies overlap and you hear it true. (+1 Wisp Mantra Slot)
-    -   Grants heavily increased health regeneration if you have all Wisps active.
     -   This will not proc unless you have every Wisp Mantra equipped and active. If one of your Wisps runs out, this Talent will deactivate until you recast the Wisp.
+    -   This Talent will not work if you do not have the Oathless Oath.
 
   
 
@@ -638,6 +1214,172 @@ Defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
 
  |
 
+### True Heart of Enmity
+
+-   **Saint's Overload** \[Oath Talent\] - After a full rotation of stances your elemental scaling is increased by 15% and Mantra Modifier effects increased by 10% for 20 seconds.
+    -   Increases your Attunement investment scaling by 15% and the effects of your Mantra modifiers by 10% for a few seconds after preforming a full rotation of Saint stances.
+    -   Can only proc once per full cycle, meaning you'll have to fully cycle through all of the Stances before you can proc this effect again.
+    -   Turns your Saintsblade and the Saintsworn Oath cosmetic (the swords on your back) white on proc.
+
+-   _Wisp Convergence_ \[Rare Talent\] - When empowered by the Chorus, your Wisps now grant their elements to your strikes.
+    -   This will not proc unless you have every Wisp Mantra equipped and active. If one of your Wisps runs out, this Talent will deactivate until you recast the Wisp.
+    -   Your basic attacks will apply Burn, Shock, Chill, Winded, Shadow, Metal Rods, and Blood Poison all at once.
+    -   This Talent will not work if you do not have the Oathless Oath.
+
+  
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Rising Thunder** (★★★)
+
+_Rise up with your opponent and crash down as a bolt of lightning._
+
+ | 
+
+## Rising Thunder (★★★)
+
+  
+_Rise up with your opponent and crash down as a bolt of lightning._
+
+ |
+| 
+
+70 Ether
+
+ | 
+
+Lightning
+
+ | 
+
+Defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
+
+ |
+| 
+
+**Effect:** _Rush forward quickly with arms charged of lightning, sending the user up into the air and stunning any target(s) hit, user jolts rapidly in the air before crashing down into the ground._
+
+-   Has a base damage of 10+25/11.8+29.5/13.6+34/15.4+38.5/17.2+43 per level with 2.75 Thundercall scaling.
+-   Deals 5 posture damage.
+-   0.5s wind-up and completely safeguards user when landed.
+-   15 second cooldown.
+-   Ragdolls target(s).
+-   Can be blocked.
+
+ |
+| 
+
+**Rising Shadow** (★★☆)
+
+_Form a Shockwave of darkness._
+
+ | 
+
+## Rising Shadow (★★☆)
+
+  
+_Form a Shockwave of darkness._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Shadow, Blunt (Slam)
+
+ | 
+
+Defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
+
+ |
+| 
+
+**Effect:** _User moves their hands outward, creating a black tendril that chases nearby enemies. When connecting with an enemy, they will be lifted into the air and smashed into the ground._
+
+-   The first hit has a base damage of 15/18/21/24/27 per level. The second hit has a base damage of 5 regardless of level. Both hits have 2.75 Shadowcast scaling.
+-   Drains 2.5/3.5/4/4.625/5.25 Ether per level with 2.75 Shadowcast scaling.
+-   Deals 5 posture damage.
+-   Has a 10 second cooldown.
+-   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
+-   [Drift](Mantra_Modifiers.md#regular-modifiers) and [Rush Shards](Mantra_Modifiers.md#regular-modifiers) increase projectile speed.
+-   [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) increase range.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), removing the damage to apply the [Shadowed Touch](Status_Effects.md#shadowed-touch) status effect. This effect massively increases your opponent's Mantra Ether cost and returns a portion of that Ether to you. If your Ether is full when they cast a Mantra, the Ether gained will overflow into your Tempo instead and you will emit a wave of shadow.
+
+ |
+| 
+
+**Pillars of Erisia** (★★★)
+
+_Gaining inspiration from the Duke of Erisia, call forth a malicious gale from your stomp._
+
+ | 
+
+## Pillars of Erisia (★★★)
+
+  
+_Gaining inspiration from the Duke of Erisia, call forth a malicious gale from your stomp._
+
+ |
+| 
+
+70 Ether
+
+ | 
+
+Wind + Slash
+
+ | 
+
+Defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
+
+ |
+| 
+
+**Effect:** _Raise your right leg and stomp the ground, conjuring up a huge volley of wind._
+
+-   Has a base damage of 35/38/41/44/47 per level with 2.75 Galebreathe scaling.
+-   Deals 7 posture damage.
+-   Has a windup of 0.8 seconds.
+-   Gives hyperarmor when casting.
+-   Applies ragdoll.
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to make it reach further.
+
+ |
+
 ## Trivia
 
 -   Despite having [Stratoshock](Talents.md#stratoshock) as a starting Talent in the Thundercall Stance, it is also able to be purchased in the starting deck.
+-   Despite having [Wisp Convergence](Talents.md#wisp-convergence) and [Chorus of Souls](Talents.md#chorus-of-souls), those Talents will not work as [Oathless](Oath%253A_Oathless.md) is [Pathfinder](Pathfinder.md) exclusive.
+-   Clutching Shadow can be purchased in the starting shop as well as the [Power](Power.md) 5 shop.

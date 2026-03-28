@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 202328
+revid: 203373
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -203,6 +203,8 @@ Mantras you get by turning in monster parts to an NPC in Castle Light. To get th
 -   Mechalodaunt -> Broken Gatling Gun -> Mecha Gatling (Bullet Fury)
 -   Nautilodaunt -> Nautilodaunt Beak -> Abyssal Ridge (Grand Stomp)
 -   Terrapod -> Terrapod Shell -> Whirling Blade (Original Mantra)
+-   Interluminary Parasol -> Charged Parasol Part -> Abyssal Tendrils (Pierce)
+-   Turn in the [Kyrsan Necklace](Kyrsan_Necklace.md) to [The Gaunt Man](The_Gaunt_Man.md)\-> Charged Bonecharm -> Bone Wisp (Original Mantra)
 
 **NOTE: MONSTER MANTRAS CANNOT BE TRADED AT THE SHRINE OF TEMPTATION**
 

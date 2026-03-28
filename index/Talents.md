@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 203345
+revid: 203364
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -320,8 +320,8 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Deals self-damage on cast, separate from the burn damage. This self damage can be resisted with the [Deepscorn Casque](Deepscorn_Casque.md), elemental resistance (it deals Flamecharm damage), and many other sources of damage reduction.
     -   Grotesque Resilience reduces the damage taken from Flame Within's burn DoT by 25%.
     -   [Deepfire Ring](Deepfire_Ring.md) will lower Flame Within's duration down to 25s without affecting the burn damage taken. This is a direct downgrade for Flame within.
-    -   Prerequisite: 25 Flamecharm
     -   The old Last Laugh Talent was merged into Flame Within.
+    -   Prerequisite: 25 Flamecharm
 
 ### Angler
 
@@ -2337,8 +2337,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Defiant until the End \[Common Talent, Willpower\] - Slow the enemy trying to execute you down with one last shout of your determination. (+6 Sanity)
     -   Players with this Talent will shout "THINK YOU'VE SEEN THE LAST OF ME" when gripped, which slows down the grip attempt.
     -   Stacks with Last Second Negotiations (with both a grip takes about 6.5 seconds).
-    -   Prerequisite: 20 Willpower
     -   The [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md) equipment has this Talent.
+    -   Prerequisite: 20 Willpower
 
 -   Last Resort \[Common Talent, Willpower\] - Deal +10% more damage when your health is below 25%. (+10 Sanity)
     -   Red particles appear around your shoulders while the Talent is active.

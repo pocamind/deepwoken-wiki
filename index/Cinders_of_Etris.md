@@ -1,6 +1,6 @@
 ---
 title: Cinders of Etris
-revid: 199894
+revid: 203376
 source: https://deepwoken.fandom.com/wiki/Cinders_of_Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Random Encounters, Etrea, Disaster]
@@ -24,9 +24,9 @@ Also referred to as "Etris Raid Event", "Etris vs Authority Raid Event", "Etris 
 
 The siege of Etris is a large and rare event in which [the Authority](The_Central_Authority.md) makes its way into the heart of [Etrea](Etrea.md), the city of [Etris](Etris.md).
 
-At the beginning of the event, [Seraphina](Seraphina.md) or [Etrean Guardsmen](Etrean_Guardsmen.md) will talk about the Authority ceasing their operations in the East, as if they're preparing for something. Soon after, the docks are greeted by a large number of both [Etrean](Etrean_Guardsmen.md) and [Authority](Authority_Officer.md) soldiers fighting as a deafening explosion rings throughout the island. Slowly, the Authority crawls up into the city of Etris, starting from the docks, to the Etrea Wilds, and eventually reaching the main city, causing more and more havoc to break out.
+At the beginning of the event, [Seraphina](Seraphina.md) or [Etrean Guardsmen](Etrean_Guardsmen.md) will talk about the Authority ceasing their operations in the East, as if they're preparing for something. Soon after, the docks are greeted by a large number of both [Etrean](Etrean_Guardsmen.md) and [Authority](Authority_Officer.md) soldiers fighting as a deafening explosion ring throughout the island. Slowly, the Authority crawls up into the city of Etris, starting from the docks to the Etrea Wilds, and eventually reaching the main city, causing more and more havoc to break out.
 
-Within the town, significant NPCs like [Polis](Polis.md) will attempt to fight off Authority soldiers that are crowding him, but will prioritize Authority Commanders above all. [Nell](Nell,_Master_of_Frost.md) the Ice Trainer will stay neutral unless provoked, in which she will help fight off the Authority.
+Within the town, significant NPCs like [Polis](Polis.md) will attempt to fight off Authority soldiers that are crowding him but will prioritize Authority Commanders above all. [Nell](Nell,_Master_of_Frost.md) the Ice Trainer will stay neutral unless provoked, in which she will help fight off the Authority.
 
 If you participate in this event and defeat all of the [Authority Guards](Authority_Officer.md) or an [Authority Commander](<Authority_Commander_(Enemy).md>), 3 Large Chests will spawn at the city's center, yielding **high-tier [Depths](The_Depths.md)** Loot, sometimes including [Deep Gems](Deep_Gems.md), Legendary Rings, the powerful [Wyrmtooth](Wyrmtooth.md) and [Kanabo](Kanabo.md), and the schematic containing [Justicar's Armor](<Justicar's_Armor.md>).
 
@@ -47,6 +47,8 @@ Up to nine NPCs are in this event.
 | [The Central Authority](The_Central_Authority.md) | [Authority Soldier](Authority_Soldier.md) |
 | [The Central Authority](The_Central_Authority.md) | [Authority Peacekeeper](Authority_Peacekeeper.md) |
 | [The Divers](The_Divers.md) | [Nell, Master of Frost](Nell,_Master_of_Frost.md) |
+
+  
 
 ## Trivia
 
