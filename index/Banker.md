@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 201307
+revid: 203392
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pages with broken file links, NPCs]
@@ -91,6 +91,8 @@ Players can also give [artifacts](Artifacts.md) to banker NPCs, and in return th
 
 ## Dialogue
 
+**Base Dialogue:**
+
 <table>
 <tbody>
 <tr>
@@ -104,6 +106,30 @@ Players can also give [artifacts](Artifacts.md) to banker NPCs, and in return th
 </tr>
 <tr>
   <td>[End Dialogue], opens Luminary Banking Co. UI</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+This dialogue is unlocked if the player attempts to open their Bank whilst carrying an unconscious player.
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Welcome, esteemed customer, to the Luminary Bank! How can I help you?</td>
+</tr>
+<tr>
+  <td>Can I access my account?</td>
+</tr>
+<tr>
+  <td>Er... You're not trying to hold this stranger on your shoulder hostage, are you?</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

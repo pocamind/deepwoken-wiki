@@ -1,11 +1,9 @@
 ---
 title: Saintsworn (Memento)
-revid: 203370
+revid: 203406
 source: https://deepwoken.fandom.com/wiki/Saintsworn_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with reason, InProgressPages, Mementos]
-notices:
-  - "This page is currently being worked on. Newly released content, please be patient as more information is added!"
+categories: [Vow of Iron Exclusive, Mementos]
 ---
 
 # Saintsworn (Memento)
@@ -15,7 +13,7 @@ notices:
 | description | Harness the power of the heroes, wielding control over five attunements. |
 | unlock | Obtain Saintsworn on a Pathfinder character |
 | starting attributes | 75 Flamecharm, 75 Thundercall, 75 Galebreathe, 75 Shadowcast, 2 Strength, 1 Fortitude, 1 Agility, 3 Intelligence, 1 Willpower |
-| final attributes | 100 Frostdraw, 75 Heavy Weapon, 40 Strength, 80 Fortitude, 25 Agility, 10 Willpower |
+| final attributes | 100 Flamecharm, 100 Thundercall, 100 Galebreathe, 100 Shadowcast, 25 Strength, 10 Fortitude, 20 Agility, 50 Intelligence, 10 Willpower |
 | starting traits | -3 Vitality, 1 Erudition, 1 Proficiency, 1 Songchant, 2 Dexterity |
 | final traits | 1 Vitality, 6 Erudition, 8 Proficiency, 7 Songchant, 6 Dexterity |
 | resonance | Chorus Divide |
@@ -37,27 +35,58 @@ Saintsworn (Memento) is a playable [Memento](Mementos.md) available in the [Vow 
 
 -   [**Oath: Saintsworn**](Oath%253A_Saintsworn.md) \[Oath Talent\] - A vow to the fallen heroes. Press L to swap to Saintsblade.
 
+-   **Ether Proselyte** \[Oath Talent\] - All of your Elemental Mantras below Lv. 5 are 1 Mantra level higher. Your Mantras are converted to the element of your active stance.
+    -   The level change for attuned Mantras is not displayed on their tooltips.
+    -   Ether Proselyte is a Talent that allows your elemental Mantras to proc the Talents of your currently equipped Saint Stance. This however does not work with all attuned Talents.
+    -   Attuned Talents that work with Ether Proselyte will not be mentioned if this Memento doesn't have access to them. For all info, view [Oath: Saintsworn](Oath%253A_Saintsworn.md).
+        -   **Ether Proselyte: Flamecharm Stance**: In the **Flamecharm** Saint Stance, all attuned Mantras are able to proc the following Talents:
+            -   **[Dancing Steps](Talents.md#dancing-steps)**: Your attuned mantras will gain a lunge during their windup, closing distance.
+            -   **[Hungry Flames](Talents.md#hungry-flames)**: Your attuned Mantras will consume your Stomach and Thirst meters to cast if you don't have enough Ether. However, this talent will no longer proc when using Flamecharm mantras outside of the **Flamecharm** Saint Stance.
+            -   **[Immolation](Talents.md#immolation)**: Your attuned Mantras will cost 70% less Ether if you're burning.
+        -   **Ether Proselyte: Galebreathe Stance**: In the **Galebreathe** Saint Stance, all attuned Mantras are able to proc the following Talents:
+            -   **[A World Without Song](Talents.md#a-world-without-song)**: After landing 3 hits with any attuned Mantra, apply [Suffocation](Status_Effects.md#suffocate). The hit count requirement will be increased if you have less than 75 Galebreathe.
+            -   **[Inhale](Talents.md#inhale)**: You can inhale non-Galebreathe Mantras.
+        -   **Ether Proselyte: Shadowcast Stance**: In the **Shadowcast** Saint Stance, all attuned Mantras are able to proc the following Talents:
+        -   **Ether Proselyte: Frostdraw Stance**: In the **Frostdraw** Saint Stance, all attuned Mantras are able to proc the following Talents:
+            -   **[Bottom Freeze](Talents.md#bottom-freeze):** Hitting your enemies with any attuned mantra projectiles while they are on ice freezes them to the ground.
+            -   **[Frozen Legs](Talents.md#frozen-legs):** Hitting anyone with a slow effect attuned mantra prevents them from rolling.
+        -   **Ether Proselyte: Thundercall Stance**: In the **Thundercall** Saint Stance, all attuned Mantras are able to proc the following Talents:
+        -   **Ether Proselyte: Miscellaneous**: in **any** Saint Stance, your Mantras are able to proc the following Talents:
+            -   **[Winter's Protection](Talents.md#winters-protection)**: Effect _with Ether Proselyte_ is currently unknown.
+
 -   Verses of Harmony \[Memento Talent\] - Each elemental stance grants access to select talents from the corresponding attunement.
+
+## Verses of Harmony
+
+While in the respective Saint Stance, you gain the Talents listed below. These Talents will appear in your Journal under "effects". Upon swapping out of the corresponding Saint Stance, all Talents gained through this effect will be lost until you swap back.
+
+Some Talents will be unlocked when you reach a certain Power threshold.
 
 ### Flamecharm Stance
 
--   Dancing Steps \[Common Talent\] - Fire mantras now move you in the direction you're facing.
+-   Dancing Steps \[Common Talent\] **Starter** - Fire mantras now move you in the direction you're facing.
     -   Casting a Flamecharm Mantra will give you a moderate boost of horizontal movement in the direction your character is facing. This will still proc even if the Mantra is feinted.
     -   Very useful for closing distance and getting into close quarters combat.
-    -   Despite what Graceful Step's Talent description implies, this Talent does **not** grant a speed boost.
+    -   5 second cooldown.
 
--   Immolation \[Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity)
+-   Immolation \[Common Talent\] **Starter** - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity)
     -   "Self-Inflicted flames" include Flame Within, Agitating Spark you spread and environmental burns created by you.
     -   "Apply fire damage" applies the burn status effect instead of adding Flamecharm damage. It also applies burn even if you have Eruption Path: Lava Serpent.
-        -   Not all attacks proc this effect, unlike what the Talent description implies. Instead, all instances of Physical damage apply burn, even if the attack doesn't deal pure Physical damage (e.g. [Clutching Shadow](Shadowcast.md#clutching-shadow) or [Metal Eruption](Ironsing.md#metal-eruption)). And all attacks that have the slash (blood particle) vfx on hit like [Ice Daggers](Frostdraw.md#ice-daggers) or [Gale Lunge](Galebreathe.md#gale-lunge) will also proc Immolation, applying burn.
+        -   Not all attacks proc this effect, unlike what the Talent description implies. Instead, all instances of Physical damage apply burn, even if the attack doesn't deal pure Physical damage (e.g. [Clutching Shadow](Shadowcast.md#clutching-shadow)). And all attacks that have the slash (blood particle) vfx on hit like [Ice Daggers](Frostdraw.md#ice-daggers) or [Gale Lunge](Galebreathe.md#gale-lunge) will also proc Immolation, applying burn.
+
+-   Agitating Spark \[Common Talent\] **Power 5** - Applying [Burning](Status_Effects.md#burn) to enemies spreads to to anyone nearby. Including yourself.
+    -   On proc, a small orange particle will trail between the burning target you hit and other targets nearby, setting them on fire.
+    -   Agitating Spark bypasses block and parry.
+    -   Agitating Spark procs caused by self damage will not apply burn. Flame Within is an exception to this.
+    -   Has a 1 second cooldown.
+    -   Can spread to allies. The Controlled Combustion Talent will prevent Agitating Spark spreading burn to yourself and your allies.
 
 ### Frostdraw Stance
 
--   Condensation Drip \[Common Talent\] - Passively collect condensation from the air, greatly reducing your thirst.
+-   Condensation Drip \[Common Talent\] **Starter** \- Passively collect condensation from the air, greatly reducing your thirst.
+    -   Slows thirst drain by approximately 3 times.
 
-Slows thirst drain by approximately 3 times.
-
--   _Saint Jay_ \[Rare Talent\] - When a Chilled enemy receives a heal, it's nullified and 60% of the healing is redirected to you. While this is active and they are on ice your rate of healing is increased, raise your PvE [Heal Boost](Status_Effects.md#heal-boost) to 10% as well.
+-   _Saint Jay_ \[Rare Talent\] **Starter** - When a Chilled enemy receives a heal, it's nullified and 60% of the healing is redirected to you. While this is active and they are on ice your rate of healing is increased, raise your PvE [Heal Boost](Status_Effects.md#heal-boost) to 10% as well.
     -   This will not proc if you are the one who applied the healing; you cannot heal yourself by healing your opponent.
     -   This only procs on non-passive healing. For example (non exhaustive list): something like [Flame Wisp](Flamecharm.md#flame-wisp), spits, or [Bloodless Gem](Bloodless_Gem.md) will proc this effect, but campfires, Conditioned Runner, or [Curse of the No Life King](Curse_of_the_No_Life_King.md) will not.
     -   If using Glass Path: Crystallization then every hit with a Frostdraw mantra will proc Saint Jay for 2 seconds. (Doesn't stack)
@@ -65,29 +94,94 @@ Slows thirst drain by approximately 3 times.
     -   The heal boost status effect increases all non-passive healing gained from enemies who are currently affected by your anti-heal. This Talent grants +10% Heal Boost.
     -   The maximum amount of Heal Boost you can have have is 45%, by having the following Talents: All Above, Gods Below (+15%), All the Dead Gods (+5%), Frostbite (+5%), Saint Jay (+10%), and Sin Stacker (+10%).
 
+-   _Frozen Legs_ \[Rare Talent\] **Power 5** - Your slow effect prevents your opponents from rolling.
+    -   Does not work with Crystallization.
+    -   Lasts the first 0.75 seconds after chill/freeze procs.
+    -   Only procs off mantras.
+
+-   Fragile Freeze \[Common Talent\] **Power 10** - Your Light Attacks and Critical will now freeze chilled opponents on guardbreak.
+    -   Guardbreaking a chilled opponent with a weapon attack will encase them in ice, removing their ability to move, parry, block, or dodge for a short amount of time.
+    -   Taking damage by any source (including damage over time effects) will end the freeze early.
+    -   You can spam F to get out of Freeze faster.
+
+-   Chilling Flourish \[Common Talent\] **Power 10** - When flourishing an enemy, they leave behind a trail of ice in the direction you send them.
+    -   Leaves 3-4 ice patches on the ground.
+
 ### Galebreathe Stance
 
--   Pressure Break \[Common Talent\] - Breaking an enemy's posture will cause them to take intense wind pressure, increasing the attack's damage by +25% and flinging the enemy backwards. (+2 Passive Agility)
+-   Pressure Break \[Common Talent\] **Starter** - Breaking an enemy's posture will cause them to take intense wind pressure, increasing the attack's damage by +25% and flinging the enemy backwards. (+2 Passive Agility)
 
--   Wind Step \[Common Talent\] - Create a step of wind below you when jumping in the air. Jumping while sliding down a slope or off a cliff launches you forwards.
+-   Wind Step \[Common Talent\] **Starter** - Create a step of wind below you when jumping in the air. Jumping while sliding down a slope or off a cliff launches you forwards.
     -   Press space while in the air to double jump. This leaves a small tornado behind that someone else can jump into to also double jump.
     -   While in combat, this ability cost Ether to use.
     -   Jump while sliding down a slope to perform a gale leap that propels you forwards.
 
+-   Air Pressure \[Common Talent\] **Power 5** - Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash. Gale Dashes carry you further than regular dashes and have extended iframes, but will clear immediately should you initiate an attack. (+1 Passive Agility)
+    -   8 second cooldown.
+
+-   Cyclone Blade \[Common Talent\] **Power 10** - After a successful Gale Dash you wrap your weapon in wind, causing your next Light attack to do +30% damage as bleed and have +10% chip damage. (+2 Passive Agility)
+    -   Does not have a cooldown, lasts for 3s.
+    -   Despite the Talent description stating "Light attack", it also grants its buffs to weapon criticals.
+
+-   Inhale \[Common Talent\] **Power 10** - [Feinting](Combat_Mechanics.md#combat-basics) a [Wind spell](Galebreathe.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. All relevant [modifications](Mantra_Modifiers.md) and upgrades from the inhaled wind mantras are applied to the empowered mantra.
+    -   Inhaling a Galebreathe Mantra adds (Mantra level multiplied by 2)% damage to the next Galebreathe Mantra. For example, a level 5 inhale will give your next Gale mantra a 10% damage buff.
+    -   Inhaling grants a speed boost for 3 seconds.
+    -   Inhaling grants the [Maestro's Blade](Status_Effects.md#maestros-blade) status effect. This effect allows your basic attacks to proc After Cut.
+    -   The duration of Maestro's Blade is the inhaled Mantra's Ether cost (before [Blue Gem](Blue_Gem.md)) divided by 5. For example, a 50 Ether cost Mantra will apply Maestro's Blade for 10 seconds.
+    -   Can be procced through shadow mantras while using the [Eyes of Ethiron](Eyes_of_Ethiron.md) weapon.
+
+-   _**A World Without Song**_ \[Advanced Talent\] **Power 15** - Every 3 hits with a Wind Mantra now procs [Suffocating](Status_Effects.md#suffocate).
+    -   Suffocation prevents the victim from casting Mantras and deals a small amount of damage over time.
+
 ### Thundercall Stance
 
--   _Static Fakeout_ \[Rare Talent\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent.
+-   _Static Fakeout_ \[Rare Talent\] **Starter** - Roll cancelling immediately after a parry will cause you to teleport behind your opponent.
 
--   Stratoshock \[Common Talent\] - Your lightning deals an additional +5% damage when in the rain.
+-   Stratoshock \[Common Talent\] **Starter** - Your lightning deals an additional +5% damage when in the rain.
     -   Thundercall damage innately gains a 5% damage buff during rain, with Stratoshock increasing this to +10% damage.
+
+-   Resolve Crusher \[Common Talent\] **Power 5** - Lightning moves now apply stacks of "Resolve Crusher". At 4 stacks, you apply "Electrified" to your opponent. Attacks from Electrified opponents are converted into lightning damage, but will deal 10% less damage to you.
+    -   Electrified targets have their damage on weapon attacks changed to Thundercall damage.
+    -   Electrified only reduces damage from weapon attacks.
+    -   Resolve Crusher's "Electrified" effect is only applied after the 5th stack (not the 4th stated by the Talent)
+    -   **Only** Thundercall Mantras build up stacks for this. Thunder damage from any other source will not build up stacks.
+    -   Each stack lasts for 5 seconds. If another stack is not applied within that timeframe, the stack is reset, and you'll need 5 more stacks to activate this Talent.
+    -   Electrified, when procced, lasts for 4 seconds.
+
+-   Static Blade \[Common Talent\] **Power 10** - Medium Weapons Hitting blocks, blocking or parrying hits will now generate an electric charge in your blade, granting a small speed buff. Charges can stack up to 5 times.
+    -   Grants stacks when you **get parried**, not when you parry attacks. Also grants stacks when you hit blocks or block attacks.
+    -   Each stack lasts for 15 seconds and refresh upon gaining another, including when you're at max stacks. You can be at max stacks indefinitely.
+    -   Each stack grants an ~2.35% speed boost, totaling to ~11.75% speed at max stacks. The duration of this speed boost is effectively indefinite, as gaining stacks can be done very easily just by playing the game.
+        -   This speed boost can proc speed boost Talents, like Speed Demon or Cheap Shot.
+
+-   Gathering Electricity \[Common Talent\] **Power 15** - Medium Weapons Reaching 5 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. 60 second cooldown.
+    -   Clears all Static Blade stacks on proc.
+    -   You can still gain Static Blade stacks while Gathering Electricity is active.
+    -   For 15 seconds, this increases the base damage on your weapon attacks, including criticals by 3.
+        -   +3 base damage might not seem like a large buff, but due to how Deepwoken's damage calculation works, this is very significant.
 
 ### Shadowcast Stance
 
--   _Dark Rift_ \[Rare Talent\] - Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
+-   _Dark Rift_ \[Rare Talent\] **Starter** - Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
     -   Blocking, parrying, dodging, or sliding will also cancel the effect.
     -   You cannot use mantras during the effect.
     -   You hover with a dark outline while dark rift is active.
     -   This ability last for 1.8 seconds and goes on a 20 second cooldown when it activates.
+
+-   Lasting Sorrow \[Common Talent\] **Power 5** - Shadows last longer on your opponent.
+    -   Doubles the shadow effect duration.
+
+-   Dark God \[Common Talent\] **Power 10**\- If a Shadowcast mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo.
+
+-   Dark Hours \[Common Talent\] **Power 10** - Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach.
+    -   Night cycle is XX:50 to XX:10.
+    -   Always active in the depths.
+
+-   Shadow Overflow \[Common Talent\] **Power 15** - Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.
+    -   Has a 4 second cooldown.
+    -   Deals 5 Shadowcast damage around you in a small aoe from the target you hit.
+
+-   Singularity \[Common Talent\] **Power 20** - Enemies will briefly hang in place when hit by a shadow move. Also procs Shaky Block.
 
 ## Deck of Recollection
 
@@ -221,7 +315,6 @@ Ice
 -   Inflicts 1 second of Chill per hit. This cannot be modified.
 -   Cancels if parried.
 -   Can be canceled by timing a right-click after any of the slashes.
--   Can be upgraded with the _Glacial Mobility_ Talent, which allows you to perform a spinning slice when casting the Mantra while sliding, dealing 2x the damage of the first hit of the base version.
 
  |
 | 
@@ -353,8 +446,7 @@ Wind + Slash
     -   Unlike normal burn, Flame Within's burn is not cleared by rolling/sliding. Flame Within will not stop until 30 seconds have passed or until Flame Within is reused.
     -   Generally dangerous to use without multiple sources of burn damage reduction, most notably, Immolation.
     -   8 second cooldown that starts when Flame Within is activated. Meaning if you let it burn for long enough, the cooldown will effectively be nullified outside of burn immunity. The Talent tool does not showcase this properly.
-    -   Flame Within grants a mobility buff, NOT a speed boost (it will not proc Talents such as Speed Demon).
-        -   Because Flame Within's mobility buff is a flat 12.5% increase instead of a multiplier to your movement speed, it allows you to move when you otherwise wouldn't be able to. Like during NPC dialogue, when mining, or when casting certain mantras like [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) or [Iron Skin](Ironsing.md#iron-skin).
+    -   Flame Within grants a mobility buff, NOT a speed boost (it will not proc speed boost-reliant Talents).
     -   It is a general damage buff, and as such it'll affect all sources of damage that can be modified.
     -   Flame Within can be enabled while knocked. This is meant to synergize with Phoenix Flames. Doing so will halve the strength of Phoenix Flames.
     -   Deals self-damage on cast, separate from the burn damage. This self damage can be resisted with the [Deepscorn Casque](Deepscorn_Casque.md), elemental resistance (it deals Flamecharm damage), and many other sources of damage reduction.
@@ -371,7 +463,6 @@ Wind + Slash
     -   Does not affect attacks that do not deal elemental damage.
 
 -   _**Phoenix Flames**_ \[Advanced Talent\] **350** \- Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown.
-    -   Healing scales on your Flamecharm investment; heals 25% health at 0 Flamecharm and scales up to 50% health at 75 Flamecharm, gaining 0.33% healing per point in Flamecharm.
     -   If you used Flame Within while knocked to proc Phoenix Flames, then the healing received will be halved. Though, if you activated Flame Within prior to being knocked, you'll receive the full healing.
 
   
@@ -447,7 +538,6 @@ Lightning
     -   This requires the user to actually land the mantra, meaning it will not activate if being parried, blocked or dodged.
     -   The second kick deals 35% of the initial kick's damage.
     -   Doesn't work if the initial kick guardbroke the target.
--   The **base damage** of this Mantra is increased by 15% if you are wearing the full Specialist Set. Additionally, it will become a green color.
 
  |
 | 
@@ -544,10 +634,6 @@ Reduces fall damage by 20%.
 With Specter Path, gives you bonus spectral gauge when landing mantras.  
 With Haunted Gale, increases the duration of your Phantoms by 3s._
 
-  
-
-**As of 17 feb 2026: Gale Wisp with specter path no longer gives passive Spectral Gauge and instead gives you bonus Spectral Gauge when landing mantras**
-
  | 
 
 ## Gale Wisp (★★☆)
@@ -557,10 +643,6 @@ _A servant of wind.
 Reduces fall damage by 20%.  
 With Specter Path, gives you bonus spectral gauge when landing mantras.  
 With Haunted Gale, increases the duration of your Phantoms by 3s._
-
-  
-
-**As of 17 feb 2026: Gale Wisp with specter path no longer gives passive Spectral Gauge and instead gives you bonus Spectral Gauge when landing mantras**
 
  |
 | 
@@ -581,7 +663,6 @@ N/A
 **Effect:** _Spawns a spherical wisp of wind. Ritual Casted._
 
 -   Grants 20% fall damage resistance.
--   Haunted Gale duration increased by 3 seconds.
 -   Passively increases the Spectral meter bar for Haunted Path: Specter users by a small percent, the regen is greater than the decay.
 -   Has 3 charges (which are consumed via taking fall damage). Logstones increase the amount of charges.
     -   Note using logstones will force you to cast more signs.
@@ -590,19 +671,19 @@ N/A
 
 ### Power 10
 
--   Defiant until the End \[Common Talent\] - Slow the enemy trying to execute you down with one last shout of your determination. (+6 Sanity)
+-   Defiant until the End \[Common Talent\] **100** \- Slow the enemy trying to execute you down with one last shout of your determination. (+6 Sanity)
     -   Players with this Talent will shout "THINK YOU'VE SEEN THE LAST OF ME" when gripped, which slows down the grip attempt.
     -   Stacks with Last Second Negotiations (with both a grip takes about 6.5 seconds).
     -   The [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md) equipment has this Talent.
 
--   Meteor Impact \[Common Talent\] - Aerial moves you land will follow up into a devastating slam. This is also possible when you yourself gets hit by an aerial move.
+-   Meteor Impact \[Common Talent\] **100** \- Aerial moves you land will follow up into a devastating slam. This is also possible when you yourself gets hit by an aerial move.
     -   Deals 10 flat Flamecharm damage on top of your weapon's scaled damage.
     -   Meteor Impact's damage can be buffed via damage modifiers, but does not scale on your Flamecharm investment.
-    -   Meteor impact is used by light attacking after using some mantras that end with both user and victim suspended in air, including: [Rising Flame](Flamecharm.md#rising-flame), [Flame Leap](Flamecharm.md#flame-leap), [Rising Frost](Frostdraw.md#rising-frost), [Rising Wind](Galebreathe.md#rising-wind), [Lightning Impact](Thundercall.md#lightning-impact), [Flashfire Sweep](Hybrid_Abilities.md#flashfire-sweep) and [Saintsworn's](Oath%253A_Saintsworn.md) Galebreathe Blade of Saints. There may be more that do, but simply aren't documented yet.
-        -   [Rising Thunder](Thundercall.md#rising-thunder) can also activate it, but only if the initial grab guard breaks, which is very unlikely. Additionally, Wind Blade can activate it as well, but only if you use the Tempest Wind Talent's variant of the mantra.
-    -   Some mantras, despite leaving both players in the air, **can't** activate Meteor Impact, such as [Celestial Assault](Oath%253A_Starkindred.md), or [Skyshatter Kick](Attunement-less.md#skyshatter-kick) (Round Spark).
+    -   Meteor impact is used by light attacking after using some mantras that end with both user and victim suspended in air, including: [Flashfire Sweep](Hybrid_Abilities.md#flashfire-sweep) and [Saintsworn's](Oath%253A_Saintsworn.md) Galebreathe Blade of Saints.
+        -   [Rising Thunder](Thundercall.md#rising-thunder) can also activate it, but only if the initial grab guard breaks, which is very unlikely. Additionally, Wind Blade can activate it as well, but only if you use the slide jump variant of the mantra.
+    -   Some mantras, despite leaving both players in the air, **can't** activate Meteor Impact.
 
--   Savior \[Common Talent\] - After saving a player from being gripped gain a short speed boost for a short duration. (+1 Sanity)
+-   Savior \[Common Talent\] **100** \- After saving a player from being gripped gain a short speed boost for a short duration. (+1 Sanity)
     -   "Saved" being interrupting a grip attempt.
     -   The speed boost lasts 15 seconds.
 
@@ -1380,6 +1461,8 @@ Defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
 
 ## Trivia
 
+-   Strangely, this Memento has 0 Frostdraw investment.
+-   At Power 20, this Memento has the attribute invest equivalent of a Power 32 character. If the Memento _had_ Frostdraw investment, it'd have the attribute investment equivalent of a Power 39 character instead.
 -   Despite having [Stratoshock](Talents.md#stratoshock) as a starting Talent in the Thundercall Stance, it is also able to be purchased in the starting deck.
--   Despite having [Wisp Convergence](Talents.md#wisp-convergence) and [Chorus of Souls](Talents.md#chorus-of-souls), those Talents will not work as [Oathless](Oath%253A_Oathless.md) is [Pathfinder](Pathfinder.md) exclusive.
 -   Clutching Shadow can be purchased in the starting shop as well as the [Power](Power.md) 5 shop.
+-   Despite having [Wisp Convergence](Talents.md#wisp-convergence) and [Chorus of Souls](Talents.md#chorus-of-souls), those Talents will not work as [Oathless](Oath%253A_Oathless.md) is [Pathfinder](Pathfinder.md) exclusive.
