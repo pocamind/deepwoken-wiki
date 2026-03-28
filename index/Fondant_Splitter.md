@@ -1,6 +1,6 @@
 ---
 title: Fondant Splitter
-revid: 196695
+revid: 203383
 source: https://deepwoken.fandom.com/wiki/Fondant_Splitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium Weapons, Relics, Relic Weapon]
@@ -52,11 +52,11 @@ Additionally, the Fondant Splitter's critical is buffed when the player has all 
 
 ## Critical
 
-The User will take a bite out of the Fondant Splinter, healing 7.5 flat health per tick (15 flat health total).
+The user will take two bites out of the Fondant Splinter, healing 7.5 flat health per tick (15 flat health total).
 
-Having the [Tavernkeep](Talents.md#tavernkeep) Talents, _Artisan Chef_ and _Master Chef_ will increase the heal amount per tick by 1.25 each, totaling to a maximum of 20 health healed per critical.
+The [Artisan Chef](Talents.md#artisan-chef) and [Master Chef](Talents.md#master-chef) Talents increase the healing gained from the critical by 2.5 each (+1.25 healing per tick). This allows the user to heal 20 health per critical if they have both.
 
-The critical has a cooldown of 20 seconds.
+This critical has a cooldown of **20 seconds**.
 
 ## Trivia
 
