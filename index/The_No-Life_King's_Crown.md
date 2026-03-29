@@ -1,6 +1,6 @@
 ---
 title: "The No-Life King's Crown"
-revid: 202218
+revid: 203463
 source: https://deepwoken.fandom.com/wiki/The_No-Life_King's_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Ornaments, Craftable]
@@ -32,7 +32,13 @@ Variants: [Bloodforged Crown](Bloodforged_Crown.md)
 
 -   [Blood Necrosis](Talents.md#blood-necrosis): Your bloodless gems heal 33% less than usual.
 -   [Cauterized Wounds](Talents.md#cauterized-wounds): Blood loss from all sources is lowered.
-    -   This only affects blood damage and not blood drain effects.
+
+This only affects blood damage and not blood drain effects.
+
 -   [No Limits](Talents.md#no-limits): Increase the cap on [Bloodless Gem](Bloodless_Gem.md) healing.
     -   This doubles the healing cap on Bloodless Gems from 15 to 30.
     -   With the decreased healing gained from Bloodless Gems, you'll need to have a scaled damage of 150 to reach this heal cap.
+-   When equipped, even while its visibility is toggled off, the crown has swirling blood and the ascending circle effects.
+    
+
+-   Dyeing it will only make the crown darker, not changing the color of its effects and itself

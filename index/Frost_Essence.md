@@ -1,11 +1,9 @@
 ---
 title: Frost Essence
-revid: 199580
+revid: 203470
 source: https://deepwoken.fandom.com/wiki/Frost_Essence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Relics, Items, Ingredients]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Pathfinder Exclusive, Relics, Items, Ingredients]
 ---
 
 # Frost Essence
@@ -15,13 +13,17 @@ notices:
 | value | N/A |
 | weight | 0 |
 | stack | x99 |
-| type | Relic |
+| rarity | Relic |
 | usage | Crafting |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | pass down | No |
 | desc | The essence which coats the Kyrsgarde Champion's weapon, you struggle to move as you hold it. |
 | obtainment | Kyrsgarde Champion |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 
