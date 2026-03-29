@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 203364
+revid: 203414
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2147,7 +2147,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Opposite to the description, Decisive Wind's has no "aura", there is no SFX or VFX, with the only activation cue for this talent being the [Cooldown Indicator](Combat_Mechanics.md#gui).
     -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
 
--   Jetstream Pursuit \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - Upon a succesful flourish, teleport to the opponent when they stop moving. Receive a significant boost of momentum.
+-   Jetstream Pursuit \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - Upon a successful flourish, teleport to the opponent when they stop moving. Receive a significant boost of momentum.
     -   When proccing on non-humanoid NPCs, sends you to the center of the NPC's hitbox.
     -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
 

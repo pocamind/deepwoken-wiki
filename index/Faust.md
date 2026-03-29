@@ -1,6 +1,6 @@
 ---
 title: Faust
-revid: 202092
+revid: 203420
 source: https://deepwoken.fandom.com/wiki/Faust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Oath Trainer, The Five Heroes, Deceased characters]
@@ -21,6 +21,8 @@ notices:
 ## Description
 
 **Faust** was [the Hero of Frost](The_Five_Heroes.md), who wielded the [Hero's Blade of Frost](<Hero's_Blade_of_Frost.md>). Along with the other heroes, he bound his soul to the sword. Now his soul is sealed in an [obelisk](Frostdraw_Obelisk.md), waiting for the player to take the [Oath](Oath%253A_Saintsworn.md).[\[2\]](#cite-note-obelisk-2)
+
+The hair ID is 17485090800
 
 ## References
 

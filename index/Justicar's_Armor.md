@@ -1,6 +1,6 @@
 ---
 title: "Justicar's Armor"
-revid: 194690
+revid: 203416
 source: https://deepwoken.fandom.com/wiki/Justicar's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits]

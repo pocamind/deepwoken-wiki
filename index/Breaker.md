@@ -1,6 +1,6 @@
 ---
 title: Breaker
-revid: 199318
+revid: 203425
 source: https://deepwoken.fandom.com/wiki/Breaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -42,7 +42,7 @@ The Breaker is a hulking brute, empowering themself throughout the fight, culmin
 -   _Way of Navae_ \[Quest Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
     -   Allows you to use the [Way of Navae](Way_of_Navae.md) [fist style](Fists.md).
 
--   Against All Odds \[Common Talent\] - For each combat tag you have on your character, increase your damage by 1% (max of 7%).
+-   Against All Odds \[Common Talent\] - For each combat tag you have on your character, increase your damage by 2% (max of 14%).
     -   Works in PvE combat, with each mob counting as an individual combat tag.
 
 -   Emergency Reserves \[Common Talent\] - When you get hit below 20% health, gain 20% tempo immediately (3 minute CD).

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 201111
+revid: 203418
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, OutdatedPages, SpoilerPages, Deepwoken]
@@ -262,10 +262,11 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 
 ### Lord Guardian Ji'ang
 
-**Lore Sources:** _Etris Palace (VoI Description), [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md) (Dialogue)_
+**Lore Sources:** _Etris Palace (VoI Description), [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md) (Dialogue), [High Monk Junsui](High_Monk_Junsui.md) (Dialogue)_
 
 -   Used to reside in Etris Palace, ruling over Etrea before Zi'eer's takeover.
 -   Said to have led a peaceful, but uneventful reign.
+-   Was assassinated during [The Lord Regent](The_Lord_Regent.md)'s coup, 14 years before the events of [Vow of Iron](Vow_of_Iron.md).
 
 ### The Dreadstar
 

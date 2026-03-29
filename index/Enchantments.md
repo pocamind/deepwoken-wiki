@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 203380
+revid: 203417
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -1641,7 +1641,7 @@ Adhesive [Enchant Grease](Enchant_Grease.md):
 
 [Enchant Allure](Allure.md)
 
-_Incoming hits may Charm your attacker by 10%._
+_Incoming hits may Charm your attacker for 10s._
 
  | 
 

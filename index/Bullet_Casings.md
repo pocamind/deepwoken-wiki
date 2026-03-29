@@ -1,6 +1,6 @@
 ---
 title: Bullet Casings
-revid: 199827
+revid: 203413
 source: https://deepwoken.fandom.com/wiki/Bullet_Casings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items]
@@ -38,7 +38,7 @@ Irithine bullets will apply increased shaky block on hit similar to [Authority E
 
 **Gale:**
 
-Gale bullets deal reduced damage, but deal 25% more damage and suffocate your opponents when landing shots in the air.
+Gale bullets deal 5% less damage while on the ground, but deal 25% more damage and apply [Suffocation](Status_Effects.md#suffocate) if landed while midair.
 
 Currently bugged, the bullets don't apply suffocate.
 
@@ -50,7 +50,5 @@ After landing 7 hits, apply [Frozen](Status_Effects.md#frozen) to the target or 
 
 -   Coal, rock, iron (not the default bullets), and astruline, are minerals not compatible with bullets and therefore cannot be used to encase them.
 -   [Stormeye's](Stormseye.md) and [Rosen's Hellflames's](<Rosen's_Hellflame.md>) shots can use encased bullets.
--   Right now the bullets that work are iron (default), erisore, irithine, and umbrite.
-    -   Irithine bullets saw use in PvE due to massive damage; **HOWEVER,** this was significantly nerfed as of the updates on August 13th, 2025, and August 19th, 2025.
--   Erisore's bullets seem to simply apply the same effect as the [Ring of Pestilence](https://deepwoken.fandom.com/wiki/Equipment#Rings), so it's more advisable to use the ring and avoid the damage reduction.
+-   Erisore's bullets seem to simply apply the same effect as the [Ring of Pestilence](Ring_of_Pestilence.md), so it's more advisable to use the ring and avoid the damage reduction.
 -   The effects of minerals on bullets actually only apply to the "explosion" of the shot and not the projectile, this ironically makes using encased bullets more convenient in rifles and 2H pistols than 1H pistols.

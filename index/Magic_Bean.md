@@ -1,6 +1,6 @@
 ---
 title: Magic Bean
-revid: 203296
+revid: 203410
 source: https://deepwoken.fandom.com/wiki/Magic_Bean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -35,4 +35,3 @@ When consumed, it replenishes 1% Stomach and 1% Water.
 ## Trivia
 
 -   When held out, stench lines emanate from the food.
--   This item is heavily implied to be the method to obtain the [Erebus](Erebus.md) [Enchantment](Enchantments.md). Due to Nuttoons stating that Erebus is "ridiculously grindy" to obtain. Which lines up with the item's price tag.

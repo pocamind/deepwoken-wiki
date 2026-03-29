@@ -1,6 +1,6 @@
 ---
 title: Whirlpools
-revid: 197487
+revid: 203408
 source: https://deepwoken.fandom.com/wiki/Whirlpools
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -14,7 +14,7 @@ categories: [Mechanics]
 
 ## Description
 
-Whirlpoools are vortexes of water that allow the player to sink into [The Depths](The_Depths.md) safely. They are scattered across the sea.
+Whirlpools are vortexes of water that allow the player to sink into [The Depths](The_Depths.md) safely. They are scattered across the sea.
 
 ## Usage
 

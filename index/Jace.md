@@ -1,6 +1,6 @@
 ---
 title: Jace
-revid: 202097
+revid: 203423
 source: https://deepwoken.fandom.com/wiki/Jace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, The Five Heroes, Deceased characters, Oath Trainer]
@@ -21,6 +21,8 @@ notices:
 ## Description
 
 Jace was [the Hero of Flame](The_Five_Heroes.md), who wielded the [Hero's Blade of Flame](<Hero's_Blade_of_Flame.md>). Along with the other heroes he bound his soul to his sword. After his demise, his soul is sealed in an [obelisk](Flamecharm_Obelisk.md).[\[2\]](#cite-note-obelisk-2)
+
+His hair ID is 133310757449536, 8031222721
 
 ## References
 
