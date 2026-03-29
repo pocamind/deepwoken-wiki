@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 203414
+revid: 203443
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -148,7 +148,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   The Parkas equipment (all variants) have this Talent.
 
 -   Time To Go \[Common Talent, Agility\] - Taking a life grants a speed boost for 10 seconds. Taking a player's life doubles the speed boost and the duration. (+1 Passive Agility)
-    -   Approximate ~35% speed bonus.
+    -   Provides a 25% speed boost, doubling to 50% when killing a player.
         -   Procs all speed boost related talents. (ex. Speed Demon)
     -   Duration is visually represented by a red glow by the user's eyes.
     -   Can stack, allowing the user to build tremendous speed by executing multiple targets at once.
@@ -292,6 +292,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   The [Mercenary's Boots](<Mercenary's_Boots.md>) equipment has this Talent.
 
 -   Scaredy Cat \[Common Talent, Agility\] - When enemies initiate a fight first, gain a speed boost. (+2 Passive Agility)
+    -   Gives you a 42.5% speed boost for 5s.
     -   The enemy must not be in combat to trigger this effect.
     -   Prerequisite: 5 Agility
 
@@ -782,9 +783,11 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Butterfly
 
 -   Swift Rebound \[Common Talent, Agility\] - Move faster after successfully dodging an attack. (+1 Passive Agility)
+    -   Provides a 30% speed boost for 2s.
     -   Prerequisite: 15 Agility
 
 -   _Evasive Expert_ \[Rare Talent, Agility\] - Your speed boost granted from dodging is increased. (+1 Passive Agility)
+    -   Increases your Swift Rebound speed boost from 30% to 50%.
     -   Prerequisites: 15 Agility, Swift Rebound
 
 -   _Risky Moves_ \[Rare Talent, Agility\] - When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
@@ -2640,8 +2643,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Nimble Blade
 
 -   Fast Blade \[Common Talent, Agility\] - Extend the speed boost you get from successfully parrying an attack. (+1 Passive Agility)
-    -   Parrying without this Talent gives you a speed boost, but it's barely noticeable and lasts for the duration of the parry.
-    -   Increases the speed boost duration from parrying by 3 seconds.
+    -   Increases the parry speed boost from 12.5% to 27.5%, and duration from 0.5s to 1.5s.
+    -   Parrying without this Talent gives you a 12.5% speed boost, but it's barely noticeable and lasts for the duration of the parry (0.5s).
     -   Prerequisite: 20 Agility
 
 -   _Lightspeed Reflexes_ \[Rare Talent, Agility, Intelligence\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)

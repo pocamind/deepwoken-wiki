@@ -1,6 +1,6 @@
 ---
 title: Urek Felhand
-revid: 203422
+revid: 203429
 source: https://deepwoken.fandom.com/wiki/Urek_Felhand
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Deceased characters, The Five Heroes, Oath Trainer, Humanoids with Unobtainable Outfits]
@@ -26,10 +26,10 @@ He tells the player about the betrayal, after talking to the [obelisk](Saintswor
 
 ## Trivia
 
--   He's one of the two Heroes who's surname was revealed, the second one being [Trinity Galenwarde](Trinity_Galenwarde.md).
+-   He's one of the two Heroes whose surname was revealed, the second one being [Trinity Galenwarde](Trinity_Galenwarde.md).
 -   Urek used to be a [Felinor](Felinor.md).[\[3\]](#cite-note-cat-3)
 -   It could be implied that Urek was betrayed by the five or he betrayed them. But this is unclear since his hero blade runes implies that he could've willingly put his soul into the blade.
--   His hair ID is 105923879028182, 14814309748
+-   Hair ID is 105923879028182 and 14814309748
 
 ## References
 

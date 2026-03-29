@@ -1,6 +1,6 @@
 ---
 title: Guild Banners
-revid: 177052
+revid: 203437
 source: https://deepwoken.fandom.com/wiki/Guild_Banners
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics]
@@ -8,18 +8,24 @@ categories: [Guilds, Mechanics]
 
 # Guild Banners
 
+| Guild Banners | |
+|---|---|
+| usage | Generates Notes for a Guild's treasury when captured |
+
 ## Description
 
-**Guild Banners** are claimable landmarks that rewards 4-21 notes every 30 seconds to its controlling [Guild's](Guilds.md) Treasury, depending on how many players from other guilds are in the server. Once a Guild Banner is captured, the banner will bear the guilds main color and emblem.
+**Guild Banners** are claimable landmarks that rewards 4-21 notes every 30 seconds to its controlling [Guild's](Guilds.md) Treasury, depending on how many players from other guilds are in the server.
+
+When capturing a Guild Banner, it will bear the emblem of the player's guild and gradually gain health at a fixed rate. The banner's health gain can be sped up if a player is within its radius.
+
+Standing near a Guild Banner controlled by an opposing guild will gradually decay its health, at which point the banner is then captured by the guild the player is in. Afterward, staying near a controlled banner will revert capture progress. Guild Banners passively revert capture progress to their owner as long that they aren't contested by enemies.
 
 The visual marker above the Guild Banner will change depending on its current status:
 
--   White - Uncontested.
+-   White - Uncontested/Gaining health.
 -   Red - Contested by an opposing guild.
--   Green - Controlling guild is near banner.
+-   Green - Controlling guild is within a banner's radius.
 -   Orange - Contested by multiple guilds.
-
-Standing near a Guild Banner controlled by an opposing guild will gradually decay the guild's control, at which point the banner is then captured by the guild the player is in. Afterward, staying near a controlled banner will revert capture progress. Guild Banners passively revert capture progress to their owner as long that they aren't contested by enemies.
 
 ## Locations
 
