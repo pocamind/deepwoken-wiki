@@ -1,6 +1,6 @@
 ---
 title: Night Axe
-revid: 203164
+revid: 203600
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]

@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 198897
+revid: 203573
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Alloyed Weapons, Offhand, Light Weapons]
@@ -44,16 +44,6 @@ The Dawnshot's maximum [Bullet](Bullet_Casings.md) capacity is 4.
 ## Critical
 
 Dawnshot uses the default Pistol critical, an empowered shot. It has a scaled damage multiplier of **1.2x** and a cooldown of **3 seconds**. If your 1H pistol is out of ammo, you will not be able to use your critical. This critical's damage will lessen the farther the projectile travels.
-
-## Enchantments
-
-<table>
-<tbody>
-<tr>
-  <td></td>
-</tr>
-</tbody>
-</table>
 
 ## Trivia
 

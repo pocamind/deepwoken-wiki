@@ -1,6 +1,6 @@
 ---
 title: Suffocated (enchantment)
-revid: 200951
+revid: 203658
 source: https://deepwoken.fandom.com/wiki/Suffocated_(enchantment)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Craftable]
@@ -10,8 +10,8 @@ categories: [Enchantments, Weapon Enchantments, Craftable]
 
 | Suffocated | |
 |---|---|
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Yes, (it costs 1 to unbank) |
+| droppable | No |
 | pass down | No |
 | desc | Landing a critical, uppercut, flourish, or offhand attack procs suffocation. |
 | obtainment | Suffocated Enchant Stone:, Crafting 1 Windsept Enchant Stone + 2 Gale Essence at the Lost Forge |

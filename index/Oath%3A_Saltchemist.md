@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 203486
+revid: 203653
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -84,7 +84,7 @@ This Oath makes the Perpetual Distillery appear on your character's arm.
     -   Lasts for roughly 10 seconds.
         -   Ingredients that alter a potion's duration such as Redds and Spider Eggs do not affect the lingering clouds.
         -   Ticks once every 0.5sec, for a total of 20 ticks of _whatever the potion effect is_ for the duration of the gas cloud.
-    -   It is unclear if the potion effects from this stack in any way.
+    -   Regardless if the potion is the exact same or one different, the effects will apply and the clouds will stack applying the effects of the different clouds to the target afflicted, having several clouds on the same area doesn't diminish their effectivity.
 -   Obtained after crafting 1 [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers) + 1 [Pluripotent Alloy](Pluripotent_Alloy.md) + 1 [Stardust](Stardust.md) together.
     -   Only the Vibrant Gem is consumed.
 
@@ -103,13 +103,15 @@ This Oath makes the Perpetual Distillery appear on your character's arm.
 #### Combat Mantras
 
 -   **Lethal Injection** - Lunge forward and inject the targeted person with all of your auto-brew potions.
+    -   Costs 50 ether to cast.
+    -   Has a 0.5sec windup.
     -   This injects all of the _negative_ effects of every potion in your Distillery, none of the positive effects will apply.
     -   Puts all potions in your Distillery on cooldown. If a potion is on cooldown when using Lethal Injection, its effect will be omitted from your Mantra.
     -   Has a shorter cooldown than your potions do.
     -   Has the unique property of being able to apply several of the same kind of potion.
     -   Deals a small amount of hit-stun.
-    -   Does **not** deal damage directly, however damage potions can be added to your Distillery to make it deal damage.
-    -   Damage potions have a significantly reduced effect on Lethal Injection, dealing around 1/3rd of their original damage.
+    -   Does **1** damage on hit, however damage potions can be added to your Distillery to make it deal more damage.
+    -   Damage potions have a significantly reduced effect on Lethal Injection, dealing 1/3rd (33.333~%) of their original damage.
         -   Because of this, you'll have to heavily invest if you want your Lethal Injection to be a damage tool, potentially removing any support or debuff potions from your Distillery.
     -   Auto-tracks.
 -   Obtained after crafting 1 [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers) + 1 [Pluripotent Alloy](Pluripotent_Alloy.md) + 1 [Stardust](Stardust.md) together.
