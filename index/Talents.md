@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 203443
+revid: 203477
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -549,7 +549,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Berserker
 
--   Berserk \[Common Talent, Strength\] - One with nothing to lose has everything to gain. Succomb to burning rage within and enter [Berserk State](Status_Effects.md#berserk-state).
+-   Berserk \[Common Talent, Strength\] - One with nothing to lose has everything to gain. Succumb to burning rage within and enter [Berserk State](Status_Effects.md#berserk-state).
     -   While in the Berserk State, your M1s will nullify your opponent's armor, bypassing it entirely, and your criticals will gain 10% PEN. However, your own armor bars, including Natural Armor, will be drained fully for the duration of the Berserk State.
     -   Lasts 20 seconds, halved to 10 seconds if you do not meet the Talent's Strength requirement.
     -   Berserk can be deactivated after 10 seconds by using the Talent tool again.

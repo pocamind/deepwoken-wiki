@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 203394
+revid: 203473
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits]
@@ -46,6 +46,8 @@ The most common and effective ways to repair your Armor Durability is at a [Blac
 #### [Vow of Iron](Vow_of_Iron.md) Exclusive Outfits
 
 All of these Outfits are exclusively obtained as the starting armor of specific [Mementos](Mementos.md), and are Unique tier.
+
+  
 
 ### Spec/Mod
 

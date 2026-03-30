@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 202089
+revid: 203486
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -83,6 +83,7 @@ This Oath makes the Perpetual Distillery appear on your character's arm.
     -   Each "hit" of the mist count as a potion application, triggering the enhanced potion effects from Chain Reaction.
     -   Lasts for roughly 10 seconds.
         -   Ingredients that alter a potion's duration such as Redds and Spider Eggs do not affect the lingering clouds.
+        -   Ticks once every 0.5sec, for a total of 20 ticks of _whatever the potion effect is_ for the duration of the gas cloud.
     -   It is unclear if the potion effects from this stack in any way.
 -   Obtained after crafting 1 [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers) + 1 [Pluripotent Alloy](Pluripotent_Alloy.md) + 1 [Stardust](Stardust.md) together.
     -   Only the Vibrant Gem is consumed.

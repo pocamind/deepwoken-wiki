@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 203322
+revid: 203475
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -16,7 +16,7 @@ Flamecharm Icon
 
 ## Description
 
-**Flamecharm** is an [Attunement](Attunements.md) that grants the user the ability to create flames using Ether, IF and only If you listen to SolSir you can unlock exclusive sun themed mantras giving them access to abilities which focus on DOT and AoE effects, while still providing a notable amount of utility and mobility.
+**Flamecharm** is an [Attunement](Attunements.md) that grants the user the ability to create flames using Ether. You can unlock exclusive sun themed mantras giving them access to abilities which focus on DOT and AoE effects, while still providing a notable amount of utility and mobility.
 
 This Attunement is ideal for new players, due to it's innate ability to grip knocked humanoid NPCs with it's DOT burn effect, alongside it's superior utility in comparison with other attunements, making progression and exploration much easier.
 
@@ -756,7 +756,6 @@ Fire
 
 **Effect:** User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground.
 
--   "Doughnuts, So Delicious! Doughnuts!"
 -   Has a base damage of 10/11/12/13/14 per level, per hit (3, 2 if Reversal Spark) with 2.75 Flamecharm scaling.
 -   Deals 14 posture damage per hit (3, 2 if Reversal Spark).
 -   Has a windup of 0.6 seconds (0.65 seconds if Reversal Spark) with 0.2 seconds of endlag. Has an 18 second cooldown.

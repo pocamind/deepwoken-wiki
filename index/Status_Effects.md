@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 203221
+revid: 203476
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -213,7 +213,7 @@ Simply become slowed. Applied by being hit with a [Frostdraw](Frostdraw.md) Mant
 
 ### Frozen
 
-Have your body completely engulfed in ice and lose the ability to do anything to defend yourself. Applied by some [Frostdraw](Frostdraw.md) Talents, Mantras, and [Hailbreaker](Hailbreaker.md) Critical. Signified by being encased in a block of ice. Mash F to escape faster.
+Have your body completely engulfed in ice and lose the ability to do anything to defend yourself. Applied by some [Frostdraw](Frostdraw.md) Talents, Mantras, [Hailbreaker](Hailbreaker.md) Critical, And [Winter Rifle's](Winter_Rifle.md) Running attack. Signified by being encased in a block of ice. Mash F to escape faster.
 
 ### Crystal
 

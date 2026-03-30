@@ -1,6 +1,6 @@
 ---
 title: "Hero's Regalia"
-revid: 203372
+revid: 203472
 source: https://deepwoken.fandom.com/wiki/Hero's_Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
