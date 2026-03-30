@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 203561
+revid: 203563
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -123,7 +123,7 @@ Typeless
 -   Deals 15 typeless damage and 4.75 posture per tentacle, bypassing armor resistances. Damage decreases the further away the opponent is.
 -   Targets up to 4 people. If there are less than 4 people, the tendrils will allocate randomly. If there are no targets in range within its short timeframe of activation, tendrils will not attack. Opponents using [Murmur: Tacet](Talents.md#murmur-tacet) will still be targeted.
 -   Does not target allies, making it useful in ganks.
--   Targeting is automatic within a large radius, not manual, and can target opponents behind the player.
+-   Targeting is automatic within a large radius - not manual - and can target opponents behind the player.
 -   Up close, tendrils will hold the opponent in place for 0.5s.
 -   Further away, tendrils will knock the opponent away in a random direction and apply Dazed.
 -   Is able to be feinted instantly.
