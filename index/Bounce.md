@@ -1,6 +1,6 @@
 ---
 title: Bounce
-revid: 200258
+revid: 203501
 source: https://deepwoken.fandom.com/wiki/Bounce
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -10,8 +10,8 @@ categories: [Enchantments, Equipment Enchantments]
 
 | Bounce | |
 |---|---|
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Yes, (it costs 1 to unbank) |
+| droppable | No |
 | pass down | No |
 | desc | Incoming hits may bounce your attacker away. |
 | obtainment | Finding a Bounce enchanted item in a chestBounce Enchant Grease:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Grease), Exchanging 5 to Laplace (grants a random non-exclusive Enchant Grease), The Diluvian Mechanism, War Mode, Galewax Room in the Second Layer, Crafting : |

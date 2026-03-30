@@ -1,6 +1,6 @@
 ---
 title: Viscosity
-revid: 200268
+revid: 203528
 source: https://deepwoken.fandom.com/wiki/Viscosity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -10,8 +10,8 @@ categories: [Enchantments, Equipment Enchantments]
 
 | Viscosity | |
 |---|---|
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Yes, (it costs 1 to unbank) |
+| droppable | No |
 | pass down | No |
 | desc | Incoming damage is converted into damage over time and applied for 2.5s. |
 | obtainment | Finding a Viscosity enchanted item in a chestViscosity Enchant Grease:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Grease), Exchanging 5 to Laplace (grants a random non-exclusive Enchant Grease), The Diluvian Mechanism, War Mode, Galewax Room in the Second Layer, Crafting : |

@@ -1,6 +1,6 @@
 ---
 title: "The No-Life King's Crown"
-revid: 203463
+revid: 203489
 source: https://deepwoken.fandom.com/wiki/The_No-Life_King's_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Ornaments, Craftable]
@@ -24,7 +24,7 @@ categories: [Equipment, Head, Ornaments, Craftable]
 | obtainment | Crafted at the Lost Forge using a Bloodforged Crown, 1x Ethereal Osseous Plate, and 1x Necrotic Membrane |
 | description | ... |
 
-Variants: [Bloodforged Crown](Bloodforged_Crown.md)
+Variants: [Infused Bloodforged Crown](Infused_Bloodforged_Crown.md)
 
 ## Description
 

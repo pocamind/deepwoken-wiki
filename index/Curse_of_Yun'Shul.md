@@ -1,6 +1,6 @@
 ---
 title: "Curse of Yun'Shul"
-revid: 199807
+revid: 203518
 source: https://deepwoken.fandom.com/wiki/Curse_of_Yun'Shul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -10,8 +10,8 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 
 | Curse of Yun'Shul | |
 |---|---|
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Yes, (it costs 1 to unbank) |
+| droppable | No |
 | pass down | No |
 | desc | Has a chance to inflict a curse that deals percentage damage, but who it falls upon is often down to luck. |
 | obtainment | Finding a Curse of Yun'Shul enchanted weapon in a chest, LaplaceCurse of Yun'Shul Enchant Stone:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Stone), War Mode, Hell Mode, Scion of Ethiron, Maestro Evengarde Rest, Dread Serpent, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Second Layer, Diluvian Mechanism, Galewax Room in the Second Layer, Crafting : |

@@ -1,6 +1,6 @@
 ---
 title: Vampirism
-revid: 202316
+revid: 203546
 source: https://deepwoken.fandom.com/wiki/Vampirism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -10,8 +10,8 @@ categories: [Enchantments, Weapon Enchantments]
 
 | Vampirism | |
 |---|---|
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Yes, (it costs 1 to unbank) |
+| droppable | No |
 | pass down | No |
 | desc | Your weapon attacks drain health from your foes and replenish your blood. |
 | obtainment | Finding a Vampirism enchanted weapon in a chest, LaplaceVampirism Enchant Stone:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Stone), War Mode, Hell Mode, Scion of Ethiron, Maestro Evengarde Rest, Dread Serpent, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Second Layer, Diluvian Mechanism, Galewax Room in the Second Layer, Crafting :, Sold in Traan Zakshun's black market for 5 |

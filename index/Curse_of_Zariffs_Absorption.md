@@ -1,6 +1,6 @@
 ---
 title: Curse of Zariffs Absorption
-revid: 200255
+revid: 203504
 source: https://deepwoken.fandom.com/wiki/Curse_of_Zariffs_Absorption
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -12,8 +12,8 @@ notices:
 
 | Curse of Zariffs Absorption | |
 |---|---|
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | pass down | No |
 | desc | [Unknown] |
 | obtainment | Unobtainable |

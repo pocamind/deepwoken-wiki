@@ -1,6 +1,6 @@
 ---
 title: Saintsworn (Memento)
-revid: 203406
+revid: 203557
 source: https://deepwoken.fandom.com/wiki/Saintsworn_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -8,7 +8,7 @@ categories: [Vow of Iron Exclusive, Mementos]
 
 # Saintsworn (Memento)
 
-| Saintsworn (Memento) | |
+| Saintsworn | |
 |---|---|
 | description | Harness the power of the heroes, wielding control over five attunements. |
 | unlock | Obtain Saintsworn on a Pathfinder character |
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Mementos]
 | allowed weapons | Fist, Greathammer, Greataxe, Sword, Spear, Club, Rapier, Dagger, Greatcannon, Twinblade, Bow, Greatsword |
 | starting weapons | Hero's Blade of Flame, Hero's Blade of Frost, Hero's Blade of Lightning, Hero's Blade of Shadow, Hero's Blade of Wind |
 
-This is the [Memento](Mementos.md). For the Oath, see [Oath: Saintsworn](Oath%253A_Saintsworn.md).
+_This page is for the [Memento](Mementos.md). For the Oath, see [Oath: Saintsworn](Oath%253A_Saintsworn.md)._
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

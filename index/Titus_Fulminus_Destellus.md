@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 203091
+revid: 203551
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Pages using duplicate arguments in template calls, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions, Humanoids with Unobtainable Outfits]
@@ -207,7 +207,7 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
 
 ### Passives
 
--   **Commanders Respite** - Titus will begin regenerating health when not actively engaged in combat.
+-   **Commander's Respite** - Titus will begin regenerating health when not actively engaged in combat.
 -   **Quaking Presence** - The rumbling presence of Titus will break any nearby campfires and cause debris to collapse from the ceiling.
 -   **Thorn Guard** - Titus is immune to the effects of [Providence's Thorns](<Providence's_Thorns.md>).
 -   **Unharvestable** - Healing from [Bloodless Gems](Bloodless_Gem.md) are less effective.

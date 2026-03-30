@@ -1,6 +1,6 @@
 ---
 title: Stench
-revid: 200278
+revid: 203521
 source: https://deepwoken.fandom.com/wiki/Stench
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -10,8 +10,8 @@ categories: [Enchantments, Equipment Enchantments]
 
 | Stench | |
 |---|---|
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Yes, (it costs 1 to unbank) |
+| droppable | No |
 | pass down | No |
 | desc | Incoming hits may produce a Stench Cloud, gradually draining 3% of their maximum health (max. 30 damage) if not blocked. |
 | obtainment | Finding a Stench enchanted item in a chestStench Enchant Grease:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Grease), Exchanging 5 to Laplace (grants a random non-exclusive Enchant Grease), The Diluvian Mechanism, War Mode, Galewax Room in the Second Layer, Crafting : |

@@ -1,6 +1,6 @@
 ---
 title: Life Weave (enchantment)
-revid: 199809
+revid: 203493
 source: https://deepwoken.fandom.com/wiki/Life_Weave_(enchantment)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Developer Spec, Enchantments, Weapon Enchantments]
@@ -12,8 +12,8 @@ notices:
 
 | Life Weave (enchantment) | |
 |---|---|
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | pass down | No |
 | desc | [Unknown] |
 | obtainment | Unobtainable |

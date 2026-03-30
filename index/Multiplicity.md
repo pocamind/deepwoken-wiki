@@ -1,6 +1,6 @@
 ---
 title: Multiplicity
-revid: 200264
+revid: 203519
 source: https://deepwoken.fandom.com/wiki/Multiplicity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -10,8 +10,8 @@ categories: [Enchantments, Equipment Enchantments]
 
 | Multiplicity | |
 |---|---|
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Yes, (it costs 1 to unbank) |
+| droppable | No |
 | pass down | No |
 | desc | Incoming hits may grant you a random boon of Recovery, Healing, or Agility. 5s CD. |
 | obtainment | Finding a Multiplicity enchanted item in a chestMultiplicity Enchant Grease:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Grease), Exchanging 5 to Laplace (grants a random non-exclusive Enchant Grease), The Diluvian Mechanism, War Mode, Galewax Room in the Second Layer, Crafting : |

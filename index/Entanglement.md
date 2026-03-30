@@ -1,6 +1,6 @@
 ---
 title: Entanglement
-revid: 200262
+revid: 203536
 source: https://deepwoken.fandom.com/wiki/Entanglement
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -10,8 +10,8 @@ categories: [Enchantments, Equipment Enchantments]
 
 | Entanglement | |
 |---|---|
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Yes, (it costs 1 to unbank) |
+| droppable | No |
 | pass down | No |
 | desc | Incoming hits may proc Entangled Defence, reducing youor speed in exchange for 10% damage reduction. |
 | obtainment | Finding an Entanglement enchanted item in a chestEntanglement Enchant Grease:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Grease), Exchanging 5 to Laplace (grants a random non-exclusive Enchant Grease), The Diluvian Mechanism, War Mode, Galewax Room in the Second Layer, Crafting : |

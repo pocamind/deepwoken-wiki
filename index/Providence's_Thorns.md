@@ -1,6 +1,6 @@
 ---
 title: "Providence's Thorns"
-revid: 200482
+revid: 203542
 source: https://deepwoken.fandom.com/wiki/Providence's_Thorns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -10,8 +10,8 @@ categories: [Enchantments, Weapon Enchantments]
 
 | Providence's Thorns | |
 |---|---|
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Yes, (it costs 1 to unbank) |
+| droppable | No |
 | pass down | No |
 | desc | Parrying attacks damages your foes. |
 | obtainment | Finding a Providence's Thorns enchanted weapon in a chest, LaplaceProvidence's Thorns Enchant Stone:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Stone), War Mode, Hell Mode, Scion of Ethiron, Maestro Evengarde Rest, Dread Serpent, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Second Layer, Diluvian Mechanism, Galewax Room in the Second Layer, Crafting : |

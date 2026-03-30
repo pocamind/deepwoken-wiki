@@ -1,6 +1,6 @@
 ---
 title: Nightbringer
-revid: 199768
+revid: 203510
 source: https://deepwoken.fandom.com/wiki/Nightbringer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, The Vat Exclusive]
@@ -10,8 +10,8 @@ categories: [Enchantments, Weapon Enchantments, The Vat Exclusive]
 
 | Nightbringer | |
 |---|---|
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Yes, (it costs 1 to unbank) |
+| droppable | No |
 | pass down | No |
 | desc | N/A |
 | obtainment | Nightbringer Enchant Stone:, Parliament (guaranteed direct drop), Prime Megalodaunt (direct drop) |

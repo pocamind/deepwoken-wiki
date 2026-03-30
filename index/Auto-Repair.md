@@ -1,6 +1,6 @@
 ---
 title: "Auto-Repair"
-revid: 200028
+revid: 203503
 source: https://deepwoken.fandom.com/wiki/Auto-Repair
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enchantments, Equipment Enchantments]
@@ -12,10 +12,10 @@ notices:
 
 | Auto-Repair | |
 |---|---|
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | pass down | No |
-| desc | [Unknown} |
+| desc | [Unknown] |
 | obtainment | Unobtainable |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 202581
+revid: 203558
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Starkindred Church]
@@ -100,6 +100,7 @@ This Oath grants 2 Combat Mantra slots, 1 Wildcard Mantra slot, and 8 Health. Ad
     -   Applies hard knockdown on hit.
     -   [Wayward Gem](Wayward_Gem.md) will not proc on this Mantra.
     -   Can knockdown any enemy ingame.
+    -   If used mid-air, the move will not work but will still charge you ether.
 -   Obtained after the first Sinner kill.
 
 -   **Celestial Assault** - Use your wings and deliver two critical blows.
