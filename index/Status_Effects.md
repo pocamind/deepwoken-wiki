@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 203476
+revid: 203685
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -572,7 +572,7 @@ These status effects are applied as the effect of certain [Talents](Talents.md).
 
 ### Charmed
 
-Deal 10% less damage to the player who Charmed you, signified by hearts floating around the character's head. Charm duration is based on the source of the Charm, ranging from 2 seconds to 20 depending on what procced it. Having the [Disbelief](Talents.md#disbelief) Talent halves Charm's duration. Charm can gain many additional effects through a variety of Talents that augment your Charm status such as [Tough Love](Talents.md#tough-love), [Cult of Personality](Talents.md#cult-of-personality), [Target Focus](Talents.md#target-focus), and [Sharing is Caring](Talents.md#sharing-is-caring).
+Deal 10% less damage to the player who Charmed you, signified by hearts floating around the character's head. Charm duration is based on the source of the Charm, ranging from 2 seconds to 20 depending on what procced it. Having the [Disbelief](Talents.md#disbelief) Talent halves Charm's duration. Charm can gain many additional effects through a variety of Talents that augment your Charm status such as [Charismatic Cast](Talents.md#charismatic-cast), [Tough Love](Talents.md#tough-love), [Cult of Personality](Talents.md#cult-of-personality), [Target Focus](Talents.md#target-focus), and [Sharing is Caring](Talents.md#sharing-is-caring).
 
 When applying Charm to an already Charmed target: if the current Charm's _remaining duration_ is less than the _total duration_ of the new Charm, then it will be replaced and the ownership of the Charm may change, if not, nothing will happen. Having a long Charm duration is important for your Talent effects to be prioritized over other people's, as many Charm-based Talents only function if you have ownership of the Charm. Charm is applied by using the [Sing](Attunement-less.md#sing) and [Dread Whisper](Attunement-less.md#dread-whisper) Mantras, [Kyrsieger](Kyrsieger.md)'s critical attack, the [Tough Love](Talents.md#tough-love), [Unnecessary Theatrics](Talents.md#unnecessary-theatrics), and [Chaotic Charm](Talents.md#chaotic-charm) Talents, the [Allure](Allure.md) Enchant, basic attacks while [Overcharm](#overcharm) is active, and [Fadetrimmer's](Oath%253A_Fadetrimmer.md#hair-sprays) Charming Spray. Charm can also be applied to yourself with the [Narcissist](Talents.md#narcissist) Talent and others that grant Overcharm.
 
@@ -622,7 +622,7 @@ After assassinating your target, they will gain the Flanking Maneuvers status ef
 
 ### Paused Posture
 
-While affected by Paused Posture, your posture cannot be restored from passive posture regeneration, [Steady Nerves](Talents.md#steady-nerves), or parrying. All other sources of posture restoration will completely ignore this status effect. Applied by the [Stature Break](Talents.md#stature-break) and [Maiming Claws](Talents.md#maiming-claws) Talents. This effect has no visual effect, though it does have a very distinct sound cue on proc.
+While affected by Paused Posture, your posture cannot be restored from passive posture regeneration, [Steady Nerves](Talents.md#steady-nerves), or parrying. All other sources of posture restoration will completely ignore this status effect. Applied by the [Stature Break](Talents.md#stature-break) and [Maiming Claws](Talents.md#maiming-claws) Talents. This effect has no visual effect, though it does have a very distinct audio cue on proc.
 
 ### Last Resort
 
