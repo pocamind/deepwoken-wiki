@@ -1,6 +1,6 @@
 ---
 title: "JOE's"
-revid: 201820
+revid: 203673
 source: https://deepwoken.fandom.com/wiki/JOE's
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enchantments, Weapon Enchantments, Exclusive, Critical Attack Enchantments]
@@ -34,4 +34,4 @@ Upon being blockbroken, a unique visual effect would play and the guardbreak stu
 
 ## Trivia
 
-After the Operation: Deep Healing update, all copies of **JOE's** and [Erebus](Erebus.md) were converted to [Heroism](Heroism.md).
+After the Operation: Deep Healing update, all copies of **JOE's** were converted to [Heroism](Heroism.md).
