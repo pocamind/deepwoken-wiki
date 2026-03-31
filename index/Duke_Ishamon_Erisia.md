@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 201784
+revid: 203691
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
@@ -257,8 +257,6 @@ The appearance of his servants signals that you are close to victory, as you can
 For enchanted weapons, **[Vampirism](Vampirism.md)** is the most recommended option, as it allows you to heal off the Duke in the second phase. This is particularly useful if he doesn't summon his servants, which can happen. Alternatively, you can opt for high-damage enchants like **Detonation** or **Astral**, but Vampirism provides a much safer approach.
 
 While Duke Erisia is immune to instant guardbreaks, his posture pool is relatively low.
-
-The fight will automatically begin if you attempt to assassinate him.
 
 In the second phase, the Duke becomes very defensive and blocks frequently. The **[Enforcer's Axe](<Enforcer's_Axe.md>)** and **[Enforcer's Hammer](<Enforcer's_Hammer.md>)** are excellent choices for heavy weapons, as they can quickly break through his posture.
 
