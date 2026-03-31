@@ -1,6 +1,6 @@
 ---
 title: Super Simple Pauldrons
-revid: 201200
+revid: 203679
 source: https://deepwoken.fandom.com/wiki/Super_Simple_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons]
@@ -24,7 +24,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons]
 | obtainment | TBA |
 | description | Either they're of low complexity or someone needs a punch. |
 
-Variants: [Simple Pauldrons](Simple_Pauldrons.md)
+Variants: [Ossified Simple Pauldrons](Ossified_Simple_Pauldrons.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  

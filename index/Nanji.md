@@ -1,6 +1,6 @@
 ---
 title: Nanji
-revid: 200615
+revid: 203677
 source: https://deepwoken.fandom.com/wiki/Nanji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Etrea]
@@ -32,7 +32,7 @@ Nanji is an [Etrean](Etrean.md) NPC. Upon speaking to them, they task the player
 Completing their sidequest will reward you with EXP, positive [Etrea](Etrea.md) reputation, Compassion, and the [Nanji's Training](Talents.md#nanjis-training) Talent, granting +1 Posture.
 
 1.  Go to the [Isle of Vigils](Isle_of_Vigils.md).
-2.  Find the Well Preserved Grave near the attunement training gear shop.
+2.  Find the Well-Preserved Grave near the attunement training gear shop.
 3.  Use the zipline on the left of the grave.
 4.  Once on the other side of the zipline, head towards the tree and turn right after passing the cliff corner.
 5.  Interact and inspect the [Katana](Katana.md) until it only gives you the option to end dialogue.
@@ -141,11 +141,9 @@ Nanji is located at the bridge heading towards the [Barber](Barber.md) and [Neri
 </tbody>
 </table>
 
-## Gallery
-
-Nanji's training card ( obtained after completing the quest )
+  
 
 ## Trivia
 
--   The quest is able to completed before even speaking to Nanji by interacting with the Chipped Sword beforehand.
+-   The quest is able to be completed before even speaking to Nanji by interacting with the Chipped Sword beforehand.
 -   For a guide on how to find the Chipped Sword, refer to [this video](https://www.youtube.com/watch?v=uqRwx533xCY).

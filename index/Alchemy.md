@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 199183
+revid: 203682
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Consumables, Alchemy]
@@ -16,7 +16,7 @@ Alchemy is the process of creating potions at a [Cauldron](Cauldron.md). Potions
 
 To brew a potion, you hold ingredients in your hand, add them to a cauldron by clicking on it, and then press E to mix all the ingredients in the cauldron into a potion. Each ingredient has a unique combination of effects, and a potion's effect is the sum of all the effects from ingredients used in the potion. Up to 3 copies of the same ingredient can be used in a potion, and up to 5 ingredients can be used in total - exceeding these limits will result in a diluted potion, with reduced effects. A table of all ingredient effects can be found further down the page.
 
-Potion Potency is a stat found on all potions. This stat increases the effectiveness of all potion effects by a percentage. Potion Potency is equal to your Intelligence [attribute](Attributes.md) divided by 2. This caps at 50% with 100 Intelligence, going above 100 Intelligence won't grant more Potency. Additionally, the _Apothecary_ Talent grants +125% Potency.
+Potion Potency is a stat found on all potions. This stat increases the effectiveness of all potion effects by a percentage. Potion Potency is equal to your Intelligence [attribute](Attributes.md) divided by 2, capping at 50% with 100 Potency. Additionally, the _Apothecary_ Talent grants +125% Potency, though this isn't displayed on the potion's Potency percentage.
 
 ### Using Potions
 
