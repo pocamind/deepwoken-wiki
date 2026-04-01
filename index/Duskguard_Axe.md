@@ -1,6 +1,6 @@
 ---
 title: Duskguard Axe
-revid: 195293
+revid: 203781
 source: https://deepwoken.fandom.com/wiki/Duskguard_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greataxes, Heavy Weapons, Weapons of The Central Authority, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals]
@@ -48,3 +48,8 @@ The initial hit does not count as a hit despite guardbreaking; this means it won
 The critical has a cooldown of **10 seconds**.
 
 This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+
+## Trivia
+
+-   The first "hit" of the critical is not considered a weapon attack by the game. This means it cannot proc any effect that would normally proc upon landing, or guardbreaking with, a weapon attack.
+    -   For example, the first hit of this critical cannot proc (unexhaustive list): most [Enchantments](Enchantments.md) (notably, [Stone](Stone.md) cannot proc on it), [Dark Waltz](Talents.md#dark-waltz), [Manipulator](Talents.md#manipulator), [Unnecessary Theatrics](Talents.md#unnecessary-theatrics), etc.

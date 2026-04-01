@@ -1,6 +1,6 @@
 ---
 title: Magic Bean
-revid: 203410
+revid: 203766
 source: https://deepwoken.fandom.com/wiki/Magic_Bean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -30,8 +30,9 @@ It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons
 
 ### Effect
 
-When consumed, it replenishes 1% Stomach and 1% Water.
+When consumed, grants the [Erebus](Erebus.md) enchant to the user's equipped weapon
 
 ## Trivia
 
 -   When held out, stench lines emanate from the food.
+-   It was sold for 1 on April 1st 2026.

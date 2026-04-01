@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 202629
+revid: 203764
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -11,6 +11,10 @@ categories: [Attunement]
 “ Fury is not a singular emotion. It can be harnessed by the saint and the sinner alike. Do you wish to wield it as a Thundercaller? ”
 
 ― Funke, Master of Thunder
+
+  
+
+## MOST BALANCED ATTUNEMENT IN GAME LOVE YOURSELF IF U PLAY THUNDERCALL
 
 _Thundercall icon_
 
