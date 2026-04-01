@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 199276
+revid: 203716
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, NPCs located in the Etrean Luminant]
@@ -13,6 +13,7 @@ categories: [Felinor NPCs, NPCs, NPCs located in the Etrean Luminant]
 | name | Aelita |
 | aspect | Felinor |
 | location | Carnival of Hearts, Valley of Heroes (During Spring, Summer and Autumn) |
+| family | Tillian (brother) |
 
 “ See? That was fun right? You can have a lot more fun if you come back during the winter. ”
 

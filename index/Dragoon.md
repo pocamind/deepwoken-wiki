@@ -1,6 +1,6 @@
 ---
 title: Dragoon
-revid: 203268
+revid: 203711
 source: https://deepwoken.fandom.com/wiki/Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Light Weapons, Offhand]
@@ -29,7 +29,7 @@ categories: [Weapons, Pistols, Light Weapons, Offhand]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Sold at Summer Isle for 500 , Arena Chests, Moon's Eyrie, Layer 1, Lodestar, Saramaed Hollow, Chime of Conflict |
+| obtainment | Sold at Summer Isle for 500 , Arena Chests, Moon's Eyrie, Layer 1, Duke Ishamon Erisia, Lodestar, Saramaed Hollow, Chime of Conflict |
 | description | The mechanisms of this firearm are more of a meticulous make then their mass-produced cousins, and are often found as collector's items above the mantlepieces of the wealthy. |
 
 ## Description

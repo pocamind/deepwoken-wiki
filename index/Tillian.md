@@ -1,6 +1,6 @@
 ---
 title: Tillian
-revid: 191669
+revid: 203715
 source: https://deepwoken.fandom.com/wiki/Tillian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, World Event, NPCs]
@@ -12,6 +12,7 @@ categories: [Pathfinder Exclusive, World Event, NPCs]
 |---|---|
 | name | Tillian |
 | aspect | Canor |
+| family | Aelita (sister) |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

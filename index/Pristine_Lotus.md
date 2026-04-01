@@ -1,6 +1,6 @@
 ---
 title: Pristine Lotus
-revid: 179222
+revid: 203714
 source: https://deepwoken.fandom.com/wiki/Pristine_Lotus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -12,11 +12,12 @@ categories: [Items]
 |---|---|
 | value | 15 |
 | weight | 1 |
+| stack | x99 |
 | type | Common |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | pass down | No |
-| desc | PRISTINE: An exotic lotus, unblemished by the world. , SCARLET: An exotic lotus, drenched in another's blood. |
+| desc | Pristine, ScarletAn exotic lotus, unblemished by the world.An exotic lotus, drenched in another's blood. |
 
 ## Overview
 

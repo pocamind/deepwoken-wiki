@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 199641
+revid: 203708
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ignition Union]
@@ -51,7 +51,7 @@ Arcwarder Passives and Mantras are obtained via defeating either [Chaser](Chaser
 
 This Oath grants +1 Wildcard Mantra Slot and +2 Combat Mantra Slots. When casted, a suit of hulking armor appears around the user. The visor and breastplate both glow yellow, also functioning as a dim source of light.
 
-The Arc Suit gives complete immunity to [Parasites](Second_Layer/The_Ethironal_Shrine.md#parasites) in the [The Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md), allowing the player to walk over Parasite pools and preventing them latching on by the gales. Additionally, while the Arc Suit is active, it gives its wearer a +15% damage buff on **all attacks.**
+The Arc Suit gives complete immunity to [Parasites](Second_Layer/The_Ethironal_Shrine.md#parasites) in the [The Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md), allowing the player to walk over Parasite pools and preventing them latching on by the gales.
 
 ### Variants
 
