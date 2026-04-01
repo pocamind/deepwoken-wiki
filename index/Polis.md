@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 203041
+revid: 203702
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Vesperian NPCs, NPCs, NPCs located in the Etrean Luminant, Quests, Enemies, Etrea Enemies]
@@ -134,7 +134,7 @@ He gives a [Gold Ring](Gold_Ring.md) to those who interact with him. When [The C
   <td colspan="3">Yes.</td>
 </tr>
 <tr>
-  <td colspan="3">I've only started you on your jouruney. It's up to you to take the next steps in your Path.</td>
+  <td colspan="3">I've only started you on your journey. It's up to you to take the next steps in your Path.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
