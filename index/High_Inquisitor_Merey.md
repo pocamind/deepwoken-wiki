@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Merey
-revid: 202592
+revid: 203725
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Merey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]
@@ -101,7 +101,7 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 
 **Command Division:**
 
-**Warrant Officer / Captain / Commander:**
+Dialogue stays the same throughout your ranks as Warrant Officer, Captain, Commander, or Seneschal.
 
 <table>
 <tbody>
@@ -110,22 +110,6 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 </tr>
 <tr>
   <td><i>*You gracefully salute the High Inquisitor. She salutes you back, stern as ever. Though, even through her steeled demeanour, you can tell your presence draws her attention.*</i> Welcome, [Rank]. I'm currently preoccupied with something, so if you bring any messages from Warden Jericho, please leave them on the table. If the Warden asks, you may tell him that the plans regarding our latest agent networks are proceeding apace.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
-
-**Seneschal:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td><i>*You gracefully salute the High Inquisitor. She salutes you back, stern as ever. Though, even through her steeled demeanour, you can tell your presence draws her attention.*</i> Welcome, Seneschal. I'm currently preoccupied with something, so if you bring any messages from Warden Jericho, please leave them on the table. If the Warden asks, you may tell him that the plans regarding our latest agent networks are proceeding apace.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
@@ -245,7 +229,7 @@ This dialogue is unlocked after speaking with [Milgram](Milgram.md).
 </tr>
 <tr>
   <td colspan="18">[Options are presented as normal]</td>
-  <td colspan="2">[This option also appears, but only after During Dialogue]</td>
+  <td colspan="2">[This option also appears, but only outside Starting Dialogue]</td>
 </tr>
 <tr>
   <td colspan="14">Could you tell me a bit about yourself, ma'am?</td>
