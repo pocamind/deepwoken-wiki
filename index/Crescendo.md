@@ -1,6 +1,6 @@
 ---
 title: Crescendo
-revid: 195240
+revid: 203802
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -35,7 +35,7 @@ categories: [Weapons, Twinblades, Weapons with Unique Criticals, "Weapons with M
 
 ## Description
 
-The **Crescendo** is a rare Twinblade. It's most commonly obtained from the Ferryman and is a nigh guaranteed drop from Carnival of Hearts Chests.
+The **Crescendo** is a rare Twinblade. It's most commonly obtained from [The Ferryman](The_Ferryman.md) and is a nigh guaranteed drop from [Carnival of Hearts](Carnival_of_Hearts.md) Chests.
 
 ## Critical
 

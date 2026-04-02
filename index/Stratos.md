@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 198445
+revid: 203804
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, Pages with broken file links, Quests, Etrea, NPCs located in the Etrean Luminant, NPCs]
@@ -104,7 +104,7 @@ Updated according to 2/24/26
   <td colspan="6">So you'll teach me?</td>
 </tr>
 <tr>
-  <td colspan="6">(Placeholder)</td>
+  <td colspan="6">Yes, my disciple, please take this gift. I hope that it shall guide you on your journeys as you have been guided to me.</td>
   <td colspan="6">(Galebreathe not unlocked) Hm... You understand the wind but you do not make use of it... Perhaps return once you learn the way of a Galebreather.</td>
 </tr>
 <tr>

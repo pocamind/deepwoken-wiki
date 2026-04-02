@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 203765
+revid: 203789
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Bosses, Voiced Characters]
@@ -10,7 +10,7 @@ categories: [Pathfinder Exclusive, Bosses, Voiced Characters]
 
 | Heart of Enmity | |
 |---|---|
-| health | 2 |
+| health | 150,000 (+30,000 per extra player (above the player count of 5)) |
 | attacks | Enmity's Call, Homerun Bat[1], Sadistic Fury, The Brutalizer, Condemnation's Fall, Event Horizon |
 | drops | Chest, Mantle of Enmity, Chorus of Agonies, Aegis of Enmity, Wartreads of Enmity, Gaunts of Enmity, Fauld of Enmity, Bastions of Enmity, Thrall of Enmity, Heretic's Memento, Dormant Splinter, Etc. (Check Loot Table/Rewards)Direct Drops, Enforcer's Axe, Enforcer Eye, Chorus of Agonies, Enmity's Armor Piece |
 | locations | Cathedral of the Interstice |
