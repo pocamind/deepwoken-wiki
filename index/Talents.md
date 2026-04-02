@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 203738
+revid: 203867
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1744,17 +1744,15 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   All the Dead Gods' anti-heal effectiveness for sources of passive healing is always 100% regardless of your combined investment. Sources of passive healing include: [campfires](Campfire_Pit.md), Conditioned Runner, [Curse of the No Life King](Curse_of_the_No_Life_King.md), Chorus of Souls, and natural health regeneration.
     -   Wearing a [Ring of Pestilence](Ring_of_Pestilence.md) increases All the Dead Gods' anti-heal duration by 4 seconds; from 8 to 12.
     -   The anti-heal cannot be procced on allies, and it does not affect healthpacks.
-    -   The heal boost status effect increases all non-passive healing gained from enemies who are currently affected by your anti-heal. This Talent grants +5% Heal Boost.
-    -   The maximum amount of Heal Boost you can have have is 45%, by having the following Talents: All Above, Gods Below (+15%), All the Dead Gods (+5%), Frostbite (+5%), Saint Jay (+10%), and Sin Stacker (+10%).
+    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all non-passive healing gained from enemies who are currently affected by your anti-heal. This Talent grants +5% Heal Boost.
     -   Prerequisites: 65 Willpower, 40 Intelligence
 
 -   _**All Above, Gods Below**_ \[Advanced Talent, Intelligence, Willpower\] - Any healing your opponent were to receive while All The Dead Gods is active on them is stolen and given to you, increase your PvE [Heal Boost](Status_Effects.md#heal-boost) to 15% as well. (+20 Sanity)
     -   Though not visually displayed, the duration of this effect is separate from your anti-heal.
-        -   Lasts 8 seconds after an All the Dead Gods proc with 100 Willpower 100 Intelligence, which is halved to 4 seconds if you don't meet this Talent's requirements.
+    -   All Above, Gods Below's duration scales on your Willpower and Intelligence investment. At 200 combined invest, it will last for the full duration of your All the Dead Gods. For every point below 200, All Above, Gods Below's duration will be reduced by 1% (relative to All the Dead Gods), down to a minimum of 50% of All the Dead Gods duration at 150 combined invest.
     -   This will not proc if you are the one who applied the healing; you cannot heal yourself by healing your opponent.
     -   This only procs on non-passive healing. For example (non exhaustive list): something like [Flame Wisp](Flamecharm.md#flame-wisp), spits, or [Bloodless Gem](Bloodless_Gem.md) will proc this effect, but campfires, Conditioned Runner, or [Curse of the No Life King](Curse_of_the_No_Life_King.md) will not.
-    -   The heal boost status effect increases all non-passive healing gained from enemies who are currently affected by your anti-heal. This Talent grants +15% Heal Boost.
-    -   The maximum amount of Heal Boost you can have have is 45%, by having the following Talents: All Above, Gods Below (+15%), All the Dead Gods (+5%), Frostbite (+5%), Saint Jay (+10%), and Sin Stacker (+10%).
+    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all non-passive healing gained from enemies who are currently affected by your anti-heal. This Talent grants +15% Heal Boost.
     -   Prerequisites: All the Dead Gods, 100 Willpower, 100 Intelligence
 
 -   _Heretic's Sutra_ \[Quest Talent, Willpower\] - A chant that steers you into the state of [Insanity](Insanity.md) for 20 seconds.
@@ -1775,8 +1773,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   By landing additional basic attacks on a target affected by All the Dead Gods' Anti-Heal, you can increase the duration of subsequently applied Anti-Heal stacks by 1 second per Anti-Heal stacks affected the target.
         -   Starting at 1 Anti-Heal stack lasting 8 seconds, applying another will make the second stack last 9 seconds, and applying another will make the third stack last 10 seconds, etc.
     -   As Anti-Heal stacks decay, the additional duration they apply to future stacks will be nullified. For example, if you apply Stack 1 for 8 seconds and Stack 2 for 9 seconds, then wait until Stack 1 runs out of duration before landing another hit, Anti-Heal from the third M1 will only last 9 seconds.
-    -   The heal boost status effect increases all non-passive healing gained from enemies who are currently affected by your anti-heal. This Talent grants +10% Heal Boost.
-    -   The maximum amount of Heal Boost you can have have is 45%, by having the following Talents: All Above, Gods Below (+15%), All the Dead Gods (+5%), Frostbite (+5%), Saint Jay (+10%), and Sin Stacker (+10%).
+    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all non-passive healing gained from enemies who are currently affected by your anti-heal. This Talent grants +10% Heal Boost.
     -   Prerequisites: All the Dead Gods, 90 Willpower
 
 ### Human Architecture
@@ -1811,7 +1808,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   Bottom Freeze \[Common Talent, Frostdraw\] - Hitting chilled enemies with Ice Projectiles while they are on ice freezes them to the ground.
     -   Prevents you from rotating your character and moving around overall.
     -   Bottom Freeze will end early if damage is taken from any source.
-    -   Prerequisite: 25 Frostdraw, Ice Daggers Mantra
+    -   Prerequisite: 25 Frostdraw, [Ice Daggers](Frostdraw.md#ice-daggers) (Mantra)
 
 -   Cryonis \[Common Talent, Frostdraw\] - All ice spells casted ontop of ice cost less Ether.
     -   Ice Mantras cost 20% less ether if casted while standing on ice.
@@ -1835,8 +1832,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisites: 100 Frostdraw, 100 Weapon (100 Light // 100 Medium // 100 Heavy)
 
 -   Frostbite \[Common Talent, Frostdraw\] - Enemies can no longer heal when under the effect of your chill. PvE enemies also net you 5% more [Heal Boost](Status_Effects.md#heal-boost) when they are chilled.
-    -   The heal boost status effect increases all non-passive healing gained from enemies who are currently affected by your anti-heal. This Talent grants +5% Heal Boost.
-    -   The maximum amount of Heal Boost you can have have is 45%, by having the following Talents: All Above, Gods Below (+15%), All the Dead Gods (+5%), Frostbite (+5%), Saint Jay (+10%), and Sin Stacker (+10%).
+    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all non-passive healing gained from enemies who are currently affected by your anti-heal. This Talent grants +5% Heal Boost.
     -   Works with Glass Path: Crystallization.
     -   Prerequisite: 25 Frostdraw
 
@@ -1849,8 +1845,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   This only procs on non-passive healing. For example (non exhaustive list): something like [Flame Wisp](Flamecharm.md#flame-wisp), spits, or [Bloodless Gem](Bloodless_Gem.md) will proc this effect, but campfires, Conditioned Runner, or [Curse of the No Life King](Curse_of_the_No_Life_King.md) will not.
     -   If using Glass Path: Crystallization then every hit with a Frostdraw mantra will proc Saint Jay for 2 seconds. (Doesn't stack)
     -   The "on ice" effect of Saint Jay is bugged and does not work.
-    -   The heal boost status effect increases all non-passive healing gained from enemies who are currently affected by your anti-heal. This Talent grants +10% Heal Boost.
-    -   The maximum amount of Heal Boost you can have have is 45%, by having the following Talents: All Above, Gods Below (+15%), All the Dead Gods (+5%), Frostbite (+5%), Saint Jay (+10%), and Sin Stacker (+10%).
+    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all non-passive healing gained from enemies who are currently affected by your anti-heal. This Talent grants +10% Heal Boost.
     -   Prerequisite: Frostbite
 
 -   Stasis Strike \[Common Talent, Frostdraw, Weapon\] - Your crystal explosions deal more damage whenever your opponent is also bottom frozen.

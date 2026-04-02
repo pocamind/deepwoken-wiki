@@ -1,6 +1,6 @@
 ---
 title: The Endless Wave
-revid: 203860
+revid: 203868
 source: https://deepwoken.fandom.com/wiki/The_Endless_Wave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, Heavy Weapons, Weapons with multiple Criticals, "Weapons with Multi-Hit Criticals"]

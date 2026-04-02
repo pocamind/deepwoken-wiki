@@ -1,6 +1,6 @@
 ---
 title: Trinity Galenwarde
-revid: 203428
+revid: 203869
 source: https://deepwoken.fandom.com/wiki/Trinity_Galenwarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, The Five Heroes, Deceased characters, Oath Trainer]
@@ -25,7 +25,7 @@ Trinity Galenwarde was [the Hero of Wind](The_Five_Heroes.md). She wielded the [
 ## Trivia
 
 -   Trinity is one of the two Heroes that have their surname revealed, the first one being [Urek Felhand](Urek_Felhand.md).
--   Trinity is wearing the Worldshaper's Laurel
+-   Trinity is wearing the [Worldshaper's Laurel](<Worldshaper's_Laurel.md>)
 -   Hair ID is 17615657949 and 7604793346
 
 ## References

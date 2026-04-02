@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard"
-revid: 197368
+revid: 203871
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Enemies]
@@ -12,7 +12,7 @@ categories: [Vow of Iron Exclusive, Enemies]
 |---|---|
 | health | 1000 |
 | drops | 2 Knowledge, 1,000 Notes |
-| weapon | Odachi |
+| weapon | The Endless Wave |
 | moves | High Cleave, Crush & Rend, Graceful Slicer, Severing Flourish |
 | affiliation | Etrea |
 
