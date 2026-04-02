@@ -1,9 +1,9 @@
 ---
 title: "The No-Life King's Crown"
-revid: 203489
+revid: 203819
 source: https://deepwoken.fandom.com/wiki/The_No-Life_King's_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Ornaments, Craftable]
+categories: [Pathfinder Exclusive, Equipment, Head, Ornaments, Craftable]
 ---
 
 # The No-Life King's Crown
@@ -24,21 +24,24 @@ categories: [Equipment, Head, Ornaments, Craftable]
 | obtainment | Crafted at the Lost Forge using a Bloodforged Crown, 1x Ethereal Osseous Plate, and 1x Necrotic Membrane |
 | description | ... |
 
-Variants: [Infused Bloodforged Crown](Infused_Bloodforged_Crown.md)
+**[Pathfinder](Pathfinder.md) Exclusive**  
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 ## Description
 
 **The No-Life King's Crown** is an [Equipment](Equipment.md) item under the "Head" category. The expensive headpiece grants the user the following talents:
 
--   [Blood Necrosis](Talents.md#blood-necrosis): Your bloodless gems heal 33% less than usual.
--   [Cauterized Wounds](Talents.md#cauterized-wounds): Blood loss from all sources is lowered.
+The [Cauterized Wounds](Talents.md#cauterized-wounds) Talent reduces all blood **damage** taken. Blood drain effects completely ignore this effect.
 
-This only affects blood damage and not blood drain effects.
+The [Blood Necrosis](Talents.md#blood-necrosis) Talent reduces the healing from [Bloodless Gems](Bloodless_Gem.md) by 33%. This changes the Bloodless Gem formula to:  
+S c a l e d D a m a g e × 0.8 × 0.67   t i m e s 0.3 {\\displaystyle ScaledDamage\\times 0.8\\times 0.67\\ times0.3} {\\displaystyle ScaledDamage\\times 0.8\\times 0.67\\ times0.3}
 
--   [No Limits](Talents.md#no-limits): Increase the cap on [Bloodless Gem](Bloodless_Gem.md) healing.
-    -   This doubles the healing cap on Bloodless Gems from 15 to 30.
-    -   With the decreased healing gained from Bloodless Gems, you'll need to have a scaled damage of 150 to reach this heal cap.
+The [No Limits](Talents.md#no-limits) Talent increases the cap on [Bloodless Gem](Bloodless_Gem.md) healing from 15 to 30. Due to the reduced conversion rate of damage to healing, you will need a scaled damage of 187 to hit this healing cap.
+
+## Trivia
+
 -   When equipped, even while its visibility is toggled off, the crown has swirling blood and the ascending circle effects.
-    
-
--   Dyeing it will only make the crown darker, not changing the color of its effects and itself
+-   [Dying](Dye_Packet.md) it will only make the crown darker, not changing the color of its effects and itself.
+-   Because Bloodless Gem healing is reduced, this equipment should only be used in fights against a large amount of enemies, and on builds that have a lot of extremely large AoE Mantras to hit multiple targets at once. Otherwise, this can be attributed to a net **loss** in your sustain, as your general Bloodless Gem healing will be largely reduced.
+    -   For reference, it now takes 94 scaled damage to heal 15 health, as opposed to 63 scaled damage without this equipment.

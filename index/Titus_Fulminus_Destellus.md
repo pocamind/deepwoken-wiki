@@ -1,16 +1,16 @@
 ---
 title: Titus Fulminus Destellus
-revid: 203551
+revid: 203838
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Individuals with He/him pronouns, Pages using duplicate arguments in template calls, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions, Humanoids with Unobtainable Outfits]
+categories: [Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions, Humanoids with Unobtainable Outfits]
 ---
 
 # Titus Fulminus Destellus
 
 | Titus Fulminus Destellus | |
 |---|---|
-| health | 70000 (+10k per player) |
+| health | 70,000 (+10k per player) |
 | drops | Chest (see loot pool), Titus's Cape, Titus's Raiment, Titus' Armor Piece, Edenbrand Hellcoil, Worldpiercer Gauntlets, Evanspear War Set, Shock Trooper Set, Western Outlaw Set, Might and Wrath Gems, Several Enchant Stones |
 | moves | The Legion's Martial Arts, Worldpiercing Deluge, Worldshattering Smackdown, Commander's Rage, Commander's Whirlthrow, Vengeful Rushdown, Sovereign Drive, Skycrash, Wrathful Stomp, Warp Kick, Blighted Sparks, Chorus Divide: Shattering Crescendo |
 | pronouns | He/him |
@@ -18,8 +18,8 @@ categories: [Individuals with He/him pronouns, Pages using duplicate arguments i
 | locations | Merit Detainment Core |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 “ My conquests in the West resound like thunder. But here in the East is where I earned my name. With storm-like might and lightning, I vanquished innumerable foes in star-swept Aratel. For that, I am named **'Fulminus'**, and **'Destellus'**. ”
 
@@ -57,7 +57,8 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
  |  |
 | 
 
-**Imperator's Fury**  
+**Vent  
+(Brute Strength)**  
 (★☆☆)
 
  | Titus quickly slams down both arms into the ground, knocking players away with a powerful vent.
@@ -190,7 +191,7 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
  |
 | 
 
-**Chorus Divide: Shattering Crescendo**  
+**Enhanced Chorus Divide**  
 (★★☆)
 
  | Titus channels his bell into two high-pressure beams of wind in a 360 degree motion. Those who are hit by the beams will also be knocked further back.
@@ -211,6 +212,10 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
 -   **Quaking Presence** - The rumbling presence of Titus will break any nearby campfires and cause debris to collapse from the ceiling.
 -   **Thorn Guard** - Titus is immune to the effects of [Providence's Thorns](<Providence's_Thorns.md>).
 -   **Unharvestable** - Healing from [Bloodless Gems](Bloodless_Gem.md) are less effective.
+
+### Talents
+
+-   Brute Strength - Your vent is replaced with a ground slam attack that knocks back enemies.
 
 ## Tips and Strategies
 
@@ -241,14 +246,14 @@ Unique Loot Table
 <tbody>
 <tr>
   <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
-  <td><a href="Titus's_Raiment.md">Titus's Raiment</a>.</td>
+  <td><a href="Titus's_Raiment.md">Titus's Raiment</a></td>
 </tr>
 <tr>
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li><a href="Items.md">Items</a>: <a href="Might_Gem.md">Might Gem</a>, <a href="Titus'_Armor_Piece.md"><font>Titus' Armor Piece</font></a>, <a href="Warden's_Armor_Piece.md"><font>Warden's Armor Piece</font></a>, <a href="Wrath_Gem.md">Wrath Gem</a>.</li>
-    <li><a href="Relics.md">Relics</a>: <a href="Bluster.md">Bluster</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Curse_of_the_Authoritative.md">Curse of the Authoritative</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Windswept.md">Windswept</a> <a href="Enchant_Stone.md">Enchant Stone</a>.</li>
+    <li><a href="Items.md">Items</a>: <a href="Might_Gem.md">Might Gem</a>, <a href="Titus'_Armor_Piece.md"><font>Titus' Armor Piece</font></a>, <a href="Warden's_Armor_Piece.md"><font>Warden's Armor Piece</font></a>, <a href="Wrath_Gem.md">Wrath Gem</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Bluster.md">Bluster</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Curse_of_the_Authoritative.md">Curse of the Authoritative</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Windswept.md">Windswept</a> <a href="Enchant_Stone.md">Enchant Stone</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -272,15 +277,15 @@ Unique Loot Table
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Evanspear_War_Helmet.md">Evanspear War Helmet</a>, <a href="Shock_Trooper_Helmet.md">Shock Trooper Helmet</a>, <a href="Western_Outlaw_Hat.md">Western Outlaw Hat</a>.</li>
-    <li><a href="Equipment.md#arms"><b>Arm Equipment</b></a>:
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Evanspear_War_Helmet.md">Evanspear War Helmet</a>, <a href="Shock_Trooper_Helmet.md">Shock Trooper Helmet</a>, <a href="Western_Outlaw_Hat.md">Western Outlaw Hat</a></li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:
   <ol>
-    <li><b>Unique Arms</b>: <a href="Titus's_Cape.md"><font>Titus's Cape</font></a>.</li>
+    <li><b>Unique Arms</b>: <a href="Titus's_Cape.md"><font>Titus's Cape</font></a></li>
     <li><b>Generic Arms</b>: <a href="Evanspear_War_Plate.md">Evanspear War Plate</a>, <a href="Shock_Trooper_Plate.md">Shock Trooper Plate</a>, <a href="Western_Outlaw_Robes.md">Western Outlaw Robes</a>.</li>
   </ol></li>
-    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Evanspear_War_Boots.md">Evanspear War Boots</a>, <a href="Shock_Trooper_Boots.md">Shock Trooper Boots</a>, <a href="Western_Outlaw_Boots.md">Western Outlaw Boots</a>.</li>
-    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Imperator's_Fury.md">Imperator's Fury</a>.</li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Authority_Prototype_Mask.md">Authority Prototype Mask</a>, <a href="Western_Outlaw_Mask.md">Western Outlaw Mask</a>.</li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Evanspear_War_Boots.md">Evanspear War Boots</a>, <a href="Shock_Trooper_Boots.md">Shock Trooper Boots</a>, <a href="Western_Outlaw_Boots.md">Western Outlaw Boots</a></li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Imperator's_Fury.md">Imperator's Fury</a></li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Authority_Prototype_Mask.md">Authority Prototype Mask</a>, <a href="Western_Outlaw_Mask.md">Western Outlaw Mask</a></li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: N/A</li>
     <li><a href="Equipment.md#rings"><b>Rings</b></a>: N/A</li>
   </ul></td>

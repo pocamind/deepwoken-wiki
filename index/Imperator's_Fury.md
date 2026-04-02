@@ -1,6 +1,6 @@
 ---
 title: "Imperator's Fury"
-revid: 191768
+revid: 203823
 source: https://deepwoken.fandom.com/wiki/Imperator's_Fury
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -17,7 +17,7 @@ categories: [Equipment, Torso, Necklaces]
 | weight | 0.5 |
 | innate stats | N/A |
 | innate talent | Brute Strength |
-| bankable | Yes, for 1 |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |

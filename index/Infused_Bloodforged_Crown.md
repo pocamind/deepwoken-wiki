@@ -1,6 +1,6 @@
 ---
 title: Infused Bloodforged Crown
-revid: 198599
+revid: 203816
 source: https://deepwoken.fandom.com/wiki/Infused_Bloodforged_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Ornaments]
@@ -24,7 +24,7 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Ornaments]
 | obtainment | Sold in Naan Zakshun's black market for 5,000 , The Depths |
 | description | ... |
 
-Variants: [Bloodforged Crown](Bloodforged_Crown.md)
+Variants: [The No-Life King's Crown](<The_No-Life_King's_Crown.md>)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
