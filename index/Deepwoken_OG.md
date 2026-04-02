@@ -1,6 +1,6 @@
 ---
 title: Deepwoken OG
-revid: 203846
+revid: 203862
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OG
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, In progress without reason, InProgressPages, "April Fools' Day events", Events]
@@ -13,7 +13,7 @@ notices:
 
 | Deepwoken OG | |
 |---|---|
-| date1 | 1639 |
+| date1 | Saltspan 1639 |
 | date2 | 4/1/2026 |
 | effects | Reverted combat mechanics to those of Verse 1, Gave Boats the ability to fly, Exclusive Traan Zakshun stock |
 | type | April Fools' Update |

@@ -1,6 +1,6 @@
 ---
 title: Magic Bean
-revid: 203791
+revid: 203861
 source: https://deepwoken.fandom.com/wiki/Magic_Bean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -35,3 +35,4 @@ When consumed, it replenishes 1% Stomach and 1% Water.
 ## Trivia
 
 -   When held out, stench lines emanate from the food.
+-   Upon consumption, a unique SFX will play, similar to a munching sound.
