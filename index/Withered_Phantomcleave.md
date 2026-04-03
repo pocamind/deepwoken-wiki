@@ -1,6 +1,6 @@
 ---
 title: Withered Phantomcleave
-revid: 198739
+revid: 203932
 source: https://deepwoken.fandom.com/wiki/Withered_Phantomcleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Medium Weapons, Weapons with Talents, Reforged Weapons]
@@ -33,13 +33,15 @@ categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Uniqu
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Interact with the Lost Forge at the Lost Forge of Leiuna while wielding the Alloyed Katana |
-| description | A simple katana of fine glass, once carried by an esteemed vigil swordsman. Accounts from their crew claim that after an accidental detour into the Voidsea, both swordsman and blade were caught in a strange vortex. Whether the story is true remains unclear. Only the weapon, embedded in the cracked hull, and a handful of dehydrated survivors were recovered, later found washed ashore at the feet of Etris, with no sign of its former master. |
+| description | The forge's workings singe a memory into the alloyed vessel, thinning its form into translucence. The cast of a vigil swordsman reflects from its depths, appearing sullen and drained of all vitality. |
 
 Variants: [Alloyed Katana](Katana.md)
 
 ## Description
 
-The Withered Phantomcleave is a Medium Weapon obtained by interacting with the [Lost Forge](Lost_Forge_of_Leiuna.md) with a [Alloyed Katana](Katana.md) equipped.
+The Withered Phantomcleave is a Medium Weapon obtained by interacting with the [Lost Forge](Lost_Forge_of_Leiuna.md) with a [Katana](Katana.md) equipped or held.
+
+Though classified as a katana, [Poser’s Ring](<Poser's_Ring.md>) does not apply any of its effects when using this weapon.
 
 ## Talent: Phantom
 

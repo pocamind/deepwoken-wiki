@@ -1,9 +1,9 @@
 ---
 title: Magic Bean
-revid: 203895
+revid: 203924
 source: https://deepwoken.fandom.com/wiki/Magic_Bean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Food]
+categories: [Food]
 ---
 
 # Magic Bean
@@ -36,8 +36,3 @@ When consumed, it replenishes 1% Stomach and 1% Water.
 
 -   When held out, stench lines emanate from the food.
 -   Upon consumption, a unique SFX will play, similar to a munching sound.
--   TheRealPunchee (a senior staff member) has said "well dont die if u ate a magic bean", meaning this may grant a special effect that is lost upon death; though this is purely speculation.
-    
-    File:Puncheemagicbeanstatement.png
-    
-    Punchee's statement regarding the Magic Bean

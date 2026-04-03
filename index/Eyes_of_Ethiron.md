@@ -1,6 +1,6 @@
 ---
 title: Eyes of Ethiron
-revid: 203180
+revid: 203923
 source: https://deepwoken.fandom.com/wiki/Eyes_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, "Weapons with Multi-Attunement Scaling", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Medium Weapons, Swords, Reforged Weapons, "Dual-wielded Weapons", "Attunement-based Weapons"]
@@ -31,7 +31,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons wi
 | enchantable | No |
 | pass down | No |
 | obtainment | Interacting with the Lost Forge with Curved Blade of Winds |
-| description | ??? |
+| description | The forge's touch peels back history's layered retellings and scrapes bare the blade's past. Godstorm, the wind that bore a shadow. An eye at the heart of each furling spiral. Long before Drallis tamed it, and before the Tides drew in, it was in contemplation of the devastation it wrought that Mankind cultivated the art that would become Galebreathing. Yet, owing perhaps to its muse, this nascent art would also become the foundation of Shadowcasting. In some senses, it was only in the years where the Godstorm was dormant that the wind and shadow could be considered separate. |
 
 Variants: [Curved Blade of Winds](Curved_Blade_of_Winds.md)
 

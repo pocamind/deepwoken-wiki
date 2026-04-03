@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 201310
+revid: 203916
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1490,15 +1490,15 @@ Slash
 
 **Effect:** _User turns invisible and then reveals themselves, performing a flurry of slashes._
 
--   M1 during this Mantra to perform the slashes. Performing slashes consumes Ether.
+-   M1 during this Mantra to perform the slashes, targeting the closest enemy to you. Performing slashes consumes Ether.
 -   You can right click to cancel the Mantra.
 -   Damage ramps up on each hit.
 -   Deals 20 > 25 > 30 > 35 > 40 base damage on the initial hits with 1.65 Light Weapon scaling. This damage does not scale on Mantra level.
 -   After each hit, three damage ticks will follow. These scale on your Mantra's level.
     -   The secondary damage ticks deal 6.67/7.67/8.67/9.67/10.67 base damage per level, per hit (3) with 1.65 Light Weapon scaling.
+-   The hitbox of this attack is shaped like a wide cone in front of you. Although the secondary slashes only hit one person, anyone inside of the hitbox of your attack will take the base damage of the mantra.
 -   Can perform a maximum of 5 slashes, ending after the 5th slash, or sometimes more if you regain enough Ether during the Mantra or time slashes in a specific manner.
 -   Constantly consumes Ether while invisible.
--   The slashes lock onto the closest target within Ceaseless' range.
 -   If you go too long without landing slashes, run out of Ether, or move too far away from an opponent, Ceaseless Slashes will end early.
 -   Can be modified with Crystal/Perfect lenses to slightly increase the invisibility duration.
 -   Can be modified with Drift/Rush shards but has seemingly no effect.

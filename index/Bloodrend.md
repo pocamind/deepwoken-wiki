@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 203898
+revid: 203918
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -627,7 +627,7 @@ Blood
 
 -   Initial ticks deal 2 damage and posture damage per hit no matter the level, final hit does increased damage and posture the longer the attack is held
 -   24 > 42/29 > 47/34 > 52/39 > 57/44 > 62 base damage (final hit), 22 > 31 posture (final hit), .425s windup, 120s CD
--   The healing scales harshly on the Mantra level, tripling from level 1 to 5. Additionally, you heal for each enemy hit.
+-   The healing scales highly on the Mantra level, tripling from level 1 to 5. Additionally, you heal for each enemy hit.
 -   Has 7.15x PVE scaling
 -   Takes 7 ticks to full charge or 5.5 seconds
 
