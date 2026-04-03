@@ -1,6 +1,6 @@
 ---
 title: Deepwoken OG
-revid: 203873
+revid: 203889
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OG
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, In progress without reason, InProgressPages, "April Fools' Day events", Events]
@@ -39,10 +39,10 @@ The changes to combat mechanics were:
 -   Removing air dashes - Pressing Q in the air would perform a roll.
 -   Removing venting - Pressing G would do nothing.
 -   Roll cancel cooldown - Roll cancelling no longer refreshes your roll after a reduced cooldown. Having the [Tap Dancer](Talents.md#tap-dancer) Talent returned your roll cancels back to normal, and its description was updated to reflect this.
--   Parrying - Parrying received several changes:
+-   Parrying - Parrying received a few changes:
     -   Cooldown after missing a parry was heavily reduced.
-    -   The window to land a parry was heavily increased.
--   Tempo becoming Reservoir - Tempo was changed to behave the way the old [Reservoir](Reservoir.md) mechanic did.
+    -   The window to land a parry was increased.
+-   Tempo becoming Reservoir - [Tempo](Combat_Mechanics.md#tempo)'s behavior was tweaked to match the behavior of the old [Reservoir](Reservoir.md) mechanic.
 
 ### Flying boats
 

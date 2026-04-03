@@ -1,6 +1,6 @@
 ---
 title: Mime
-revid: 196387
+revid: 203886
 source: https://deepwoken.fandom.com/wiki/Mime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests, Ganymede NPCs]
@@ -22,7 +22,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 **Mime** is a [Ganymede](Ganymede.md) NPC found within a small cave, one devoid of any gold ore, in [Songseeker Wilds](Songseeker_Wilds.md).
 
-He appears around a lot of [Mineskippers](Mudskipper.md) disguised as barrels, which upon killing will allow you to speak with him. If you have 20 points in [Charisma](Attributes.md), he will give you the mantra [Disguise](Attunement-less.md#disguise), which allows you to disguise yourself as a barrel, and as other objects when certain [Sparks](Mantra_Modifiers.md) are applied. The requirement for this mantra changes depending on aspect, though this needs further experimenting to find out the exact requirements for each aspect.
+He appears around a lot of [Mineskippers](Mudskipper.md) disguised as barrels, which upon killing will allow you to speak with him. If you have 20 points in [Charisma](Attributes.md), he will give you the mantra [Disguise](Attunement-less.md#disguise), which allows you to disguise yourself as a barrel, and as other objects when certain [Sparks](Mantra_Modifiers.md) are applied.
 
 ## Location
 
@@ -50,7 +50,7 @@ Mime located in [Songseeker Wilds](Songseeker_Wilds.md) but not on the main isla
   <td colspan="12">[Charisma] In return for making you laugh, how's about you teach me?</td>
 </tr>
 <tr>
-  <td colspan="6">Sufficient Charisma</td>
+  <td colspan="6">20 or higher Charisma</td>
   <td colspan="6">Requirements Unmet</td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ Mime located in [Songseeker Wilds](Songseeker_Wilds.md) but not on the main isla
   <td colspan="6">Heh, nah. A magician never reveals his tricks. Or something like that.</td>
 </tr>
 <tr>
-  <td colspan="6">[End Dialogue], quest starts</td>
+  <td colspan="6">[End Dialogue], player unlocks <a href="Attunement-less.md#disguise">Disguise</a></td>
   <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>

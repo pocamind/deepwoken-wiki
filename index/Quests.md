@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 200309
+revid: 203884
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Quests, NPCs, Mechanics]
@@ -428,7 +428,7 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 <tbody>
 <tr>
   <td><div><p><b>Quest Location</b>: <a href="Isle_of_Vigils.md">Isle of Vigils</a>(<a href="Temple_of_the_Blade.md">Temple of the Blade</a>)<br>
-  <b>Guide</b>: Give an NPC in Temple of Blade a Weapon Manual to help him defeat <a href="Evengarde_Rest.md">'the guy on the other side'</a>. (It removes one use but won't take it away)<br>
+  <b>Guide</b>: Give an NPC in Temple of Blade a Weapon Manual to help him defeat <a href="Evengarde_Rest.md">'the guy on the other side'</a>. (You can buy another one at a gear cabinet)<br>
   <b>Reward(s)</b>: EXP</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Avian.md">Avian</a></div><p></p></figcaption></figure></td>
 </tr>

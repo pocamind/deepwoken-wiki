@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 203867
+revid: 203896
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1226,7 +1226,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisites: 15 Strength, 25 Fortitude
     -   The [Ignition Trailblazer](Ignition_Trailblazer.md) Outfit has this Talent.
 
--   _Tap Dancer_ \[Rare Talent, Agility\] - Rolling immediately after a roll-cancel no longer puts your roll on a longer cooldown. (+1 Passive Agility)
+-   _Tap Dancer_ \[Rare Talent, Agility\] - Dodging immediately after a roll-cancel no longer puts your Dodge on a longer cooldown. (+1 Passive Agility)
     -   Negate the extra half a second cooldown added to the roll following a roll-cancel.
     -   Prerequisite: 60 Agility
 
@@ -2605,8 +2605,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Lasts 10 seconds then goes on a 70 second cooldown once the buff ends.
     -   Only procs on M1s and criticals with the M1 tag.
         -   [Wraithclaw](Wraithclaw.md)'s neutral critical is extremely good for this Talent due to it being a multihit.
-    -   This Talent also **works** with [Jus Karita](Jus_Karita.md), but won't come out on your Talent hands unless you have any **Fist Style** equipped.
-    -   Prerequisites: Any [fist style](Fists.md), 20 Fortitude, 20 Light Weapon
+    -   Prerequisites: Any [Fist style](Fists.md) or Kick style equipped, 20 Fortitude, 20 Light Weapon
     -   Mutual Exclusive: Orbital Ice
         -   If you have the [Icebringer's Vestments](<Icebringer's_Vestments.md>) Outfit, you can bypass mutual exclusives and stack this with Orbital Ice.
 
@@ -2822,6 +2821,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisite: 70 Strength
 
 -   _**Piercing Blow**_ \[Advanced Talent, Strength\] - Attacks that break an opponent's block ignore their Armor resistances.
+    -   If you do not have 100 Strength, this Talent will instead **halve** your opponent's armor resistances **multiplicatively, before PEN** on proc.
     -   Prerequisite: 100 Strength
 
 ### Rampaging Brute
@@ -3084,7 +3084,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   _Dirty Boxing_ \[Rare Talent, Agility\] - Fist Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly and makes PvE enemies [Sluggish](Status_Effects.md#sluggish). (+1 Passive Agility)
     -   8 second cooldown.
     -   This Talent also works with [Jus Karita](Jus_Karita.md).
-    -   Prerequisites: Fist/Kick style equipped, 25 Agility
+    -   Prerequisites: Any [Fist style](Fists.md) or Kick style equipped, 25 Agility
 
 -   Pocket Sand \[Common Talent, Strength, Light Weapon\] - Fist Feinting into an uppercut blinds, applies [Stagger](Status_Effects.md#stagger) to PvE enemies and also applies [Dazed](Status_Effects.md#dazed) briefly. We're even now, right?
     -   30 second cooldown.
