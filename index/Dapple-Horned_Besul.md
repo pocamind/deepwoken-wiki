@@ -1,11 +1,9 @@
 ---
 title: "Dapple-Horned Besul"
-revid: 195423
+revid: 203957
 source: https://deepwoken.fandom.com/wiki/Dapple-Horned_Besul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, The Children of Navae]
-notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
+categories: [Vow of Iron Exclusive, NPCs, The Children of Navae]
 ---
 
 # Dapple-Horned Besul
@@ -105,3 +103,8 @@ Dapple-Horned Besul is found sitting on a rock with a blanket located at [Meteor
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Besul's racial variant appears to be the 'Cedar' variant of a [Gremor](Gremor.md), with deep purple sclerae instead of the faint Purple.
+-   Besul wears the [Navaen War Chief](Navaen_War_Chief.md) Outfit.

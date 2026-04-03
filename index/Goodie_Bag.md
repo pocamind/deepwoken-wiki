@@ -1,6 +1,6 @@
 ---
 title: Goodie Bag
-revid: 200221
+revid: 203949
 source: https://deepwoken.fandom.com/wiki/Goodie_Bag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Event Only Content, Relics, Items, Hallowtide]
