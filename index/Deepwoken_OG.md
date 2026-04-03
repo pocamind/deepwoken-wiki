@@ -1,6 +1,6 @@
 ---
 title: Deepwoken OG
-revid: 203889
+revid: 203933
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OG
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, In progress without reason, InProgressPages, "April Fools' Day events", Events]
@@ -53,7 +53,7 @@ You were able to fly while driving a boat, holding Space to ascend and Ctrl to d
 During this event, all [Traan Zakshun](Traan_Zakshun.md) stocks were replaced with Traan Zakshun's Bankrupt Extravaganza. In this unique stock, Traan Zakshun sold the following items: [Erebus](Erebus.md) Enchant Stone for 1,000, and [Plumfruit Muffin](Plumfruit_Muffin.md), [Egg](Egg.md), and [Magic Beans](Magic_Bean.md) for 1 each. On top of this, each item came with a new shop UI description:
 
 -   _PLEAAASE PATHFINDER I NEEEED THIIISSSS_
--   _I'm literally selling my lady valuable belongings along side these damn beans... the least you could do is BUY something......._
+-   _I'm literally selling my last valuable belongings along side these damn beans... the least you could do is BUY something......._
 -   _Short a crown?_
 -   _You seriously can't spare one more crown?..._
 

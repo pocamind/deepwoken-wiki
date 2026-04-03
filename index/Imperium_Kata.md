@@ -1,6 +1,6 @@
 ---
 title: Imperium Kata
-revid: 202783
+revid: 203943
 source: https://deepwoken.fandom.com/wiki/Imperium_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, "Weapons with Multi-Hit Criticals", Light Weapons]
@@ -39,6 +39,8 @@ If you have Imperium Kata and other [Fist Styles](Fists.md) (except for [Jus Kar
 ## Obtainment
 
 **Imperium Kata** is obtainable by defeating and speaking with [Titus](Titus_Fulminus_Destellus.md), then reporting back to [Caitus](Caitus.md). After obtainment it is available as a starting weapon at [Character Creation](Character_Creation.md).
+
+You do not need to have the [Legion Intelligence](Legion_Intelligence.md) to get Imperium Kata, although you need someone with it to start the fight with Titus.
 
 ## Critical
 

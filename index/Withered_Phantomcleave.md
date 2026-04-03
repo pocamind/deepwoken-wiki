@@ -1,6 +1,6 @@
 ---
 title: Withered Phantomcleave
-revid: 203932
+revid: 203942
 source: https://deepwoken.fandom.com/wiki/Withered_Phantomcleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Medium Weapons, Weapons with Talents, Reforged Weapons]
@@ -41,8 +41,6 @@ Variants: [Alloyed Katana](Katana.md)
 
 The Withered Phantomcleave is a Medium Weapon obtained by interacting with the [Lost Forge](Lost_Forge_of_Leiuna.md) with a [Katana](Katana.md) equipped or held.
 
-Though classified as a katana, [Poser’s Ring](<Poser's_Ring.md>) does not apply any of its effects when using this weapon.
-
 ## Talent: Phantom
 
 Equipping the Withered Phantomcleave grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
@@ -58,3 +56,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 ## Trivia
 
 -   This weapon is very likely a reference to the [Darkdrift](https://darksouls3.wiki.fextralife.com/Darkdrift) from _Dark Souls 3_, with both weapons being a nearly transparent-bladed Katana with a unique trait (or Weapon Art in Darkdrift's case) that bypass block.
+-   Though classified as a Katana, [Poser's Ring](<Poser's_Ring.md>) and [Paired Soul](Talents.md#paired-soul) do not apply any of their effects when using this weapon.

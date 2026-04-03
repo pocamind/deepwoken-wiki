@@ -1,6 +1,6 @@
 ---
 title: Kennith
-revid: 191501
+revid: 203934
 source: https://deepwoken.fandom.com/wiki/Kennith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, SpoilerPages, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, NPCs located in the Second Floor of the Second Layer]
@@ -264,12 +264,13 @@ After he is killed by one of the [Royal Etrean Guards](Royal_Etrean_Guard.md), a
 
 ## Trivia
 
--   Having read the [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>) will unlock unique dialogue with Kennith in the Kyrsan Wilds.
+-   Having read the [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>) will unlock unique dialogue with Kennith in the [Kyrsan Wilds](Kyrsan_Wilds.md).
     -   Being a [Contractor](Oath%253A_Contractor.md) does not unlock any unique dialogue with him.
 -   The reason he's in the [Second Layer](Second_Layer.md) is because a [satirical video](https://www.youtube.com/watch?v=wd7Qp4SlxTM) was made, showing him bonding with and then entering in a relationship with Ambrosius. Developer Arch\_Mage saw this video, and decided to add Kennith to Layer 2 as a result.[\[1\]](#cite-note-1)
     -   Ironically, the video shows Kennith in [Firfire](Firfire.md), while he was ultimately placed in the Kyrsan Wilds.
 -   Kennith's corpse still has a talk hitbox, but nothing happens if you try to talk to him,
--   Kennith shares the same hair as a [Ministry Necromancer](Ministry_Necromancer.md). HAIR ID: 4735347390
+-   Kennith shares the same hair as [Ministry Necromancers](Ministry_Necromancer.md) (4735347390).
+-   Kennith can be seen in the main menu screen along with [Karliah](Karliah.md) and [Polis](Polis.md).
 
 ## References
 

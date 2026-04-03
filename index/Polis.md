@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 203702
+revid: 203936
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Vesperian NPCs, NPCs, NPCs located in the Etrean Luminant, Quests, Enemies, Etrea Enemies]
@@ -282,3 +282,4 @@ Polis executes his opponent after knocking them:
 -   His name historically means "Greek city state."
 -   His hair ID is [6101425666](https://www.roblox.com/catalog/6101425666/Dark-Messy-Manbun)
 -   Polis has an actual obtainable build if you utilize [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), with all of his [Talents](Talents.md) (_except Audacity_) and all [Mantras](Mantras.md) being obtainable.
+-   Polis can be seen in the main menu screen along with [Karliah](Karliah.md) and [Kennith](Kennith.md).
