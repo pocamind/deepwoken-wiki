@@ -1,6 +1,6 @@
 ---
 title: Blackleaf Helm
-revid: 176355
+revid: 203997
 source: https://deepwoken.fandom.com/wiki/Blackleaf_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -13,7 +13,7 @@ categories: [Equipment, Head, Helmets]
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | PWR 10, 20 FTD |
+| requirements | PWR 10 |
 | weight | 1 |
 | innate stats | +5 Health, +1 Posture, +2 Rare Pips |
 | innate talent | Concussive Force |

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 202594
+revid: 204000
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, Equipment, In progress with VOI reason]
@@ -191,14 +191,14 @@ _+8% Fire Armor_
 +1 Rare Pip
 
  | Variants:  
-Aazel's & Necrotic |
+Aazel's & Necrotic Demon |
 | File:Aegis of Enmity2.png | [Aegis of Enmity](Aegis_of_Enmity.md)  
 (**Set**)  
 (**Unique**) | _+5 Health_  
 _+1 Posture_
 
 +2 Legendary Pip  
-**Requires Power 15, Fortitude 10**
+**Requires Power 15**
 
  | Set: Enmity  
 Head: [Aegis of Enmity](Aegis_of_Enmity.md)  
@@ -255,16 +255,15 @@ Arms: [Assassin's Cloak](<Assassin's_Cloak.md>)
 +1 Uncommon Pip  
 +1 Rare Pip  
 _+Talent: Strong Hold_  
-**Requires Power 10, Fortitude 10**
+**Requires Power 10, Fortitude 10 OR [Authority Ensign](Authority_Ensign.md)**
 
  | N/A |
 | File:Barrel Helmet.png | [Barrel Helm](Barrel_Helm.md) | _+5 Health_
 
-+1 Uncommon Pip  
-**Requires Fortitude 10**
++1 Uncommon Pip
 
  | Variants:  
-Barrel & Ossified |
+Barrel & Ossified Barrel |
 | File:AlchemistHat.png | [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)  
 (**Series**) | +1 Rare Pip
 
@@ -286,7 +285,7 @@ _+1 Posture_
 
 +2 Rare Pips  
 _+Talent: Concussive Force_  
-**Requires Power 10, Fortitude 20**
+**Requires Power 10**
 
  | Variants:  
 Blackleaf & Goldleaf |
@@ -295,10 +294,10 @@ Blackleaf & Goldleaf |
 
 +1 Uncommon Pip  
 +1 Rare Pip  
-**Requires Power 8, Fortitude 10**
+**Requires Power 8**
 
  | Variants:  
-Blacksteel & Ossified
+Blacksteel & Ossified Black
 
   
 Set: Blacksteel  
@@ -335,7 +334,7 @@ _+Talent: Cauterized Wounds_
 **Requires Power 10**
 
  | Variants:  
-Bloodforged & The No Life King's |
+Bloodforged & The No-Life King's |
 | File:Static-assets-upload12843990363310254802.png | [Brigand's Bicorn](<Brigand's_Bicorn.md>)  
 (**Set**) | _+3 Health_  
 
@@ -372,8 +371,7 @@ Guard's, Royal Guard's, Captain's |
 
 +1 Rare Pip  
 +1 Legendary Pip  
-_+Talent: Grasp On Reality_  
-**Requires Fortitude 15**
+_+Talent: Grasp On Reality_
 
  | Set: Celtor Commander  
 Head: [Celtor Commander Helm](Celtor_Commander_Helm.md)  
@@ -456,7 +454,7 @@ Arms: [Ether Refined Mantle](Ether_Refined_Mantle.md)
 _+1 Posture_
 
 +1 Legendary Pip  
-**Requires: Power 10, Strength 25**
+**Requires: Power 10**
 
  | Variants:  
 Evanspear & Reinforced
@@ -529,7 +527,7 @@ _+2 Posture_
 
 +1 Rare Pip  
 _+Talent: Concussive Force_  
-**Requires Power 8, Fortitude 15**
+**Requires Power 8**
 
  | Set: Gladiator  
 Head: [Gladiator Helm](Gladiator_Helm.md)  
@@ -540,8 +538,7 @@ Arms: [Gladiator Pauldrons](Gladiator_Pauldrons.md) |
 
  | _+5 Health_
 
-+1 Rare Pip  
-**Requires Fortitude 10**
++1 Rare Pip
 
  | Variants:  
 Blackleaf & Goldleaf |
@@ -632,17 +629,13 @@ _+1 Posture_
 
  | N/A |
 |  | [Legate Helm](Legate_Helm.md) | _+5 Health_  
-_+1 Posture_
-
-**Requires Fortitude 5**
-
- | N/A |
+_+1 Posture_ | N/A |
 | File:Khan Helmet.png | [Legion Helmet](Legion_Helmet.md)  
 (**Set**) | _+10 Health_  
 _+2 Posture_
 
 +1 Uncommon Pip  
-**Requires Power 10, Fortitude 15**
+**Requires Power 10**
 
  | Set: Legion  
 Head: [Legion Helmet](Legion_Helmet.md)  
@@ -650,8 +643,7 @@ Arms: [Legion Pauldrons](Legion_Pauldrons.md)
 Legs: [Legion Boots](Legion_Boots.md) |
 | File:Jaleel miner hat.png | [Miner's Hardhat](<Miner's_Hardhat.md>) | _+1 Posture_
 
-+2 Rare Pips  
-**Requires Fortitude 5**
++2 Rare Pips
 
  | N/A |
 | File:Monastery Champion Cowl NEW.png | [Monastery Cowl](Monastery_Cowl.md)  
@@ -688,7 +680,7 @@ _+Set Talent: Bloodless Overdrive_
 Bloodfeather & Necrotic
 
   
-Set: Bloodcurdle  
+Set: Necrotic  
 Head: [Necrotic Cowl](Necrotic_Cowl.md)  
 Face: [Necrotic Mask](Necrotic_Mask.md)
 
@@ -701,14 +693,14 @@ _+8% Fire Armor_
 _+Talent: Mindspark_
 
  | Variants:  
-Aazel's & Necrotic |
+Aazel's & Necrotic Demon |
 |  | [Ossified Barrel Helm](Ossified_Barrel_Helm.md) | _+5 Health_
 
 +1 Uncommon Pip  
 _+Talent: Tenacity_
 
  | Variants:  
-Barrel & Ossified |
+Barrel & Ossified Barrel |
 |  | [Ossified Black Helm](Ossified_Black_Helm.md)  
 (**Set**) | _+10 Health_
 
@@ -719,10 +711,10 @@ _+Set Talent: Captain's Call_
 **Requires Power 8**
 
  | Variants:  
-Blacksteel & Ossified
+Blacksteel & Ossified Black
 
   
-Set: Blackalloy  
+Set: Ossified Black  
 Head: [Ossified Black Helm](Ossified_Black_Helm.md)  
 Arms: [Ossified Black Pauldrons](Ossified_Black_Pauldrons.md)
 
@@ -760,7 +752,7 @@ _+1 Posture_
 +1 Legendary Pip  
 _+Talent: Fatal Strike_  
 _+Set Talent: Lasting Trauma_  
-**Requires Power 20, Strength 25**
+**Requires Power 20**
 
  | Variants:  
 Evanspear & Reinforced
@@ -792,7 +784,7 @@ _+Talent: Seamaster's Guile_
 (**Set**) | _+8 Health_
 
 +1 Rare Pip  
-**Requires Power 10, Fortitude 20**
+**Requires Power 10**
 
  | Variants:  
 Shock Trooper & Specialist
@@ -809,7 +801,7 @@ Legs: [Shock Trooper Boots](Shock_Trooper_Boots.md)
 
 +1 Uncommon Pip  
 +1 Rare Pip  
-**Requires Power 8, Fortitude 10**
+**Requires Power 8**
 
  | Set: Silver Knight  
 Head: [Silver Knight's Helm](<Silver_Knight's_Helm.md>)  
@@ -1133,7 +1125,7 @@ Legs: [Azure Royal Guard Boots](Azure_Sentinel_Boots.md) |
 _+2 Posture_
 
 +3 Legendary Pips  
-**Requires Power 13, Fortitude 10**
+**Requires Power 13**
 
  | Set: Enmity  
 Head: [Aegis of Enmity](Aegis_of_Enmity.md)  
@@ -1168,7 +1160,7 @@ _+1 Posture_
 **Requires Power 8**
 
  | Variants:  
-Blacksteel & Ossified
+Blacksteel & Ossified Black
 
   
 Set: Blacksteel  
@@ -1321,7 +1313,7 @@ _+1 Posture_
 
 +3 Legendary Pips  
 _+Talent: Conquer Your Fears_  
-**Requires Power 13, Fortitude 5**
+**Requires Power 13**
 
  | N/A |
 |  | [Enforcer Plate](Enforcer_Plate.md)  
@@ -1373,7 +1365,7 @@ _+2 Posture_
 
 +1 Rare Pip  
 +1 Legendary Pip  
-**Requires Power 10, Strength 25**
+**Requires Power 10**
 
  | Variants:  
 Evanspear & Reinforced
@@ -1462,7 +1454,7 @@ _+1 Posture_
 
 +3 Legendary Pips  
 _+Talent: Diver's Resilience_  
-**Requires Power 13, Fortitude 5**
+**Requires Power 13**
 
  | Set: Grand Fisher  
 Head: [Grand Fisher Helm](Grand_Fisher_Helm.md)  
@@ -1501,7 +1493,7 @@ _+Set Talent: Enforcer's Pull_
 **Requires: Power 8**
 
  | Variants:  
-Enforcer & Hardened
+Enforcer & Hardened Enforcer
 
   
 Set: Hardened Enforcer  
@@ -1699,7 +1691,7 @@ _+Set Talent: Captain's Call_
 **Requires Power 8**
 
  | Variants:  
-Blacksteel & Ossified
+Blacksteel & Ossified Black
 
   
 Set: Blackalloy  
@@ -1714,7 +1706,7 @@ _+1 Posture_
 _+Talent: Simple Buff_  
 
  | Variants:  
-Simple & Ossified |
+Simple & Ossified Simple |
 | File:Crimson elite pathfinder.png | [Pathfinder Elite](Pathfinder_Elite.md)  
 (**Series**)  
 (**Animated**)  
@@ -1851,7 +1843,7 @@ _+1 Posture_
 +1 Common Pip
 
  | Variants:  
-Simple & Ossified |
+Simple & Ossified Simple |
 | File:Smithgloves.png | [Smith's Gloves](<Smith's_Gloves.md>)  
 (**Set**) | _+5 Health_
 
@@ -2189,7 +2181,7 @@ _+Talent: Surestep_
 **Requires Power 4**
 
  | Variants:  
-Enforcer & Hardened
+Enforcer & Hardened Enforcer
 
   
 Set: Enforcer  
@@ -2272,7 +2264,7 @@ _+Talent: Enforcer's Technique_
 _+Set Talent: Enforcer's Pull_  
 
  | Variants:  
-Enforcer & Hardened
+Enforcer & Hardened Enforcer
 
   
 Set: Hardened Enforcer  
@@ -2348,7 +2340,7 @@ _+Talent: Alloyed Soles_
 **Requires Power 8**
 
  | Variants:  
-Phalanx & Ossified |
+Phalanx & Ossified Phalanx |
 |  | [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)  
 (**Set**) | +2 Rare Pips  
 +1 Legendary Pip
@@ -2356,7 +2348,7 @@ Phalanx & Ossified |
 **Requires Power 8**
 
  | Variants:  
-Phalanx & Ossified
+Phalanx & Ossified Phalanx
 
   
 Set: Legion Phalanx  
@@ -2580,7 +2572,8 @@ Torso: [Brilliant Cape](Brilliant_Cape.md) |
 **Requires Power 8**
 
  | N/A |
-|  | [Curseblood Pendant](Curseblood_Pendant.md) | _+3% Elemental Armor_
+|  | [Curseblood Pendant](Curseblood_Pendant.md)  
+(**Series**) | _+3% Elemental Armor_
 
 +1 Legendary Pip  
 **Requires Power 5**
@@ -2668,13 +2661,15 @@ _+Talent: Robber Baron_
 +1 Legendary Pip  
 **Requires Power 5**
 
- | Variants: Choker & Jougs |
+ | Variants:  
+Choker & Jougs |
 |  | [Maljuror Jougs](Maljuror_Jougs.md)  
 (**Legendary**) | +2 Legendary Pips  
 
 **Requires Power 10**
 
- | Variants: Choker & Jougs |
+ | Variants:  
+Choker & Jougs |
 | 
 
 File:Monastery Champion Beads NEW.png
@@ -2721,7 +2716,8 @@ _+Talent: Robber Baron_
 **Requires Power 5**
 
  | N/A |
-|  | [Regenerative Pendant](Regenerative_Pendant.md) | _+3% Elemental Armor_
+|  | [Regenerative Pendant](Regenerative_Pendant.md)  
+(**Series**) | _+3% Elemental Armor_
 
 +1 Legendary Pip  
 _+Talent: Blood Pact_  
@@ -2737,7 +2733,8 @@ Torso: [Regenerative Pendant](Regenerative_Pendant.md)
 Ears: [Regenerative Earrings](Regenerative_Earrings.md)
 
  |
-|  | [Revitalizing Pendant](Revitalizing_Pendant.md) | +1 Rare Pip  
+|  | [Revitalizing Pendant](Revitalizing_Pendant.md)  
+(**Series**) | +1 Rare Pip  
 +1 Legendary Pip
 
 _+Talent: Praise The Sun_
@@ -2789,7 +2786,8 @@ _+20 Carry Load_
 
 **Requires Power 7**
 
- | Variants: Amber, Black, Lavender & White |
+ | Variants:  
+Amber, Black, Lavender & White |
 | File:Varicosa Medallion.png | [Varicosa Medallion](Varicosa_Medallion.md) | _+3% Shadow Armor_
 
 +1 Rare Pip  
@@ -2803,7 +2801,8 @@ _+20 Carry Load_
 **Requires Power 5**
 
  | N/A |
-| File:Old World Sun Pendant.png | [Wheel Pendant](Wheel_Pendant.md) | +1 Rare Pip  
+| File:Old World Sun Pendant.png | [Wheel Pendant](Wheel_Pendant.md)  
+(**Series**) | +1 Rare Pip  
 +1 Legendary Pip | Variants:  
 Wheel & Revitalizing |
 | File:Wormwarder Lantern.png | [Wormwarder Lantern](Wormwarder_Lantern.md) | _+10 Sanity_  
@@ -3010,7 +3009,7 @@ _+Set Talent: Bloodless Overdrive_
 Bloodfeather & Necrotic
 
   
-Set: Bloodcurdle  
+Set: Necrotic  
 Head: [Necrotic Cowl](Necrotic_Cowl.md)  
 Face: [Necrotic Mask](Necrotic_Mask.md)
 
@@ -3083,107 +3082,155 @@ Armor
 
 Innate Effects
 
+ | 
+
+Variants/Set
+
  |
-| --- | --- | --- |
-|  | [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md) | +1 Common Pip
+| --- | --- | --- | --- |
+|  | [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md)  
+(**Series**) | +1 Common Pip
 
 +1 Rare Pip
 
- |
-|  | [Crystal Pendant Earrings](Crystal_Pendant_Earrings.md) | +2 Rare Pips |
-|  | [Dew Drop Earrings](Dew_Drop_Earrings.md) | +1 Common Pip
+ | Variants:  
+Amethyst & Shiva's |
+|  | [Crystal Pendant Earrings](Crystal_Pendant_Earrings.md)  
+(**Series**) | +2 Rare Pips | Variants:  
+Crystal Pendant & Frost Crystal |
+|  | [Dew Drop Earrings](Dew_Drop_Earrings.md)  
+(**Series**) | +1 Common Pip
 
 +1 Rare Pip
 
- |
-|  | [Ember Scorch Earrings](Ember_Scorch_Earrings.md) | +1 Common Pip
+ | Variants:  
+Dew Drop & Vaporfrost |
+|  | [Ember Scorch Earrings](Ember_Scorch_Earrings.md)  
+(**Series**) | +1 Common Pip
 
 +1 Rare Pip  
 _+Talent: Smoldering Touch_
 
- |
-|  | [Emerald Tusk Earrings](Emerald_Tusk_Earrings.md) | +1 Common Pip
+ | Variants:  
+Ruby Pendant & Ember Scorch |
+|  | [Emerald Tusk Earrings](Emerald_Tusk_Earrings.md)  
+(**Series**) | +1 Common Pip
 
 +1 Rare Pip
 
- |
-|  | [Ether Empowered Earrings](Ether_Empowered_Earrings.md) | +2 Rare Pips  
+ | Variants:  
+Emerald Tusk & Gale Enhanced |
+|  | [Ether Empowered Earrings](Ether_Empowered_Earrings.md)  
+(**Series**) | +2 Rare Pips  
 
 _+Talent: Ether Adeptness_
 
- |
-|  | [Ether Imbued Earrings](Ether_Imbued_Earrings.md) | +2 Rare Pips  
+ | Variants:  
+Pendant & Ether Empowered |
+|  | [Ether Imbued Earrings](Ether_Imbued_Earrings.md)  
+(**Series**) | +2 Rare Pips  
 
 _+Talent: Ether Tension_
 
- |
-|  | [Frost Crystal Earrings](Frost_Crystal_Earrings.md) | +2 Rare Pips  
+ | Variants:  
+Practitioner's & Ether Imbued |
+|  | [Frost Crystal Earrings](Frost_Crystal_Earrings.md)  
+(**Series**) | +2 Rare Pips  
 
 _+Talent: Instant Nucleation_  
 **Requires Power 5**
 
- |
-|  | [Gale Enhanced Earrings](Gale_Enhanced_Earrings.md) | +1 Common Pip
+ | Variants:  
+Crystal Pendant & Frosty Crystal |
+|  | [Gale Enhanced Earrings](Gale_Enhanced_Earrings.md)  
+(**Series**) | +1 Common Pip
 
 +1 Rare Pip  
 _+Talent: Way of the Wind_  
 **Requires Power 5**
 
- |
-| File:MasterThief.png | [Master Thief Earrings](Master_Thief_Earrings.md) | _+3% Stealth_
+ | Variants:  
+Emerald Tusk & Gale Enhanced |
+| File:MasterThief.png | [Master Thief Earrings](Master_Thief_Earrings.md)  
+(**Series**) | _+3% Stealth_
 
 +2 Rare Pips
 
- |
+ | Variants:  
+Master Thief & Ossified Blood |
 |  | [Moonlit Earrings](Crescent_Earrings.md) | _+2 Health_
 
 +2 Rare Pips  
 **Requires Power 5**
 
- |
-|  | [Old Blood Earrings](Old_Blood_Earrings.md) | _+5 Ether_
+ | N/A |
+|  | [Old Blood Earrings](Old_Blood_Earrings.md)  
+(**Series**) | _+5 Ether_
 
 +2 Rare Pips  
 **Requires Power 5**
 
- |
-|  | [Ossified Blood Earrings](Ossified_Blood_Earrings.md) | _+3% Stealth_
+ | Variants:  
+Old Blood & Regenerative |
+|  | [Ossified Blood Earrings](Ossified_Blood_Earrings.md)  
+(**Series**) | _+3% Stealth_
 
 +2 Rare Pips  
 _+Talent: Sharpened Dagger_
 
- |
-|  | [Pendant Earrings](Pendant_Earrings.md) | +2 Rare Pips |
-|  | [Practicioner's Earrings](<Practicioner's_Earrings.md>) | +2 Rare Pips |
-| File:Regenerative Earrings.png | [Regenerative Earrings](Regenerative_Earrings.md) | _+5 Ether_
+ | Variants:  
+Master Thief & Ossified Blood |
+|  | [Pendant Earrings](Pendant_Earrings.md)  
+(**Series**) | +2 Rare Pips | Variants:  
+Pendant & Ether Empowered |
+|  | [Practicioner's Earrings](<Practicioner's_Earrings.md>)  
+(**Series**) | +2 Rare Pips | Variants:  
+Practicioner's & Ether Imbued |
+| File:Regenerative Earrings.png | [Regenerative Earrings](Regenerative_Earrings.md)  
+(**Series**)  
+(**Set**) | _+5 Ether_
 
 +2 Rare Pips  
 _+Talent: Blood Convergence_  
 _+Set Talent: Critical Heal_
+
+ | Variants:  
+Old Blood & Regenerative
+
+  
+Set: Regenerative  
+Torso: [Regenerative Pendant](Regenerative_Pendant.md)  
+Ears: [Regenerative Earrings](Regenerative_Earrings.md)
 
  |
 |  | [Ruby Drop Earrings](Ruby_Drop_Earrings.md) | +1 Common Pip
 
 +1 Rare Pip
 
- |
-|  | [Ruby Pendant Earrings](Ruby_Pendant_Earrings.md) | +1 Common Pip
+ | N/A |
+|  | [Ruby Pendant Earrings](Ruby_Pendant_Earrings.md)  
+(**Series**) | +1 Common Pip
 
 +1 Rare Pip
 
- |
-| File:Shiva's Pendant Earrings.png | [Shiva's Pendant Earrings](<Shiva's_Pendant_Earrings.md>) | +1 Common Pip
+ | Variants:  
+Ruby Pendant & Ember Scorch |
+| File:Shiva's Pendant Earrings.png | [Shiva's Pendant Earrings](<Shiva's_Pendant_Earrings.md>)  
+(**Series**) | +1 Common Pip
 
 +1 Rare Pip  
 _+Talent: Skillful Recovery_
 
- |
-|  | [Vapordrop Earrings](Vapordrop_Earrings.md) | +1 Common Pip
+ | Variants:  
+Amethyst & Shiva's |
+|  | [Vaporfrost Earrings](Vaporfrost_Earrings.md)  
+(**Series**) | +1 Common Pip
 
 +1 Rare Pip  
 _+Talent: Drop Dead_
 
- |
+ | Variants:  
+Dew Drop & Vaporfrost |
 |  | [Dark Pearls](Dark_Pearls.md)  
 (**Relic**) | _+2 Health_  
 _\-2 Posture_
@@ -3191,7 +3238,7 @@ _\-2 Posture_
 _+Talent: Inky Pearls_  
 **Requires Power 15, Shadowcast 40**
 
- |
+ | N/A |
 
 **Rings:**
 
@@ -3465,12 +3512,13 @@ _+2% Wind Armor_
 
 -   In previous versions of the game, Equipment could occasionally spawn with one of three different rarity tiers: Ascended, Enlightened, or Celestial. This system was replaced with stars for the sake of consistency with weapon rarity.
 -   If you want to wear a specific equipment piece, but it has awful stats, you can [smelt](Transmogrification.md) something with good stats and apply the piece you want to wear as vanity.
--   You can't enchant Torso, Face, Ears, and Ring Equipment. However, there's a couple of instances of these items existing due to being obtainable back in Verse One. There has been evidence shown that unobtainable enchanted equipment won't void even when re-equipped, and the enchant still functions as it normally would (Info from October 12, 2023)
+-   You can't enchant Torso, Face, Ears, and Ring Equipment. However, there's a couple of instances of these items existing due to being obtainable back in [Verse One](Verse_1.md). There has been evidence shown that unobtainable enchanted equipment won't void even when re-equipped, and the enchant still functions as it normally would (Info from October 12, 2023)
 -   Mythical Pips, despite being said to exist by devs, are unused. No equipment piece uses mythical pips.
--   Highest theoretical **stealth** kit in game is 30% stealth. (10% [Dark Owl Chapeau](Dark_Owl_Chapeau.md), 6% [Mercenary's Garb](<Mercenary's_Garb.md>)/[Ministry Cloak](Ministry_Cloak.md)/[Dark Owl Cloak](Dark_Owl_Cloak.md), 5% Shrouded Capes, 6% Duelist's Mask, 3% [Master Thief Earrings](Master_Thief_Earrings.md))
--   Highest theoretical **ETH** kit in game is 403 ETH. (30 ETH [Moon](Moon_Ring.md) and [Waning Ring](Waning_Ring.md), x2 24 ETH Scaling Rings/[Ferryman's Ring](<Ferryman's_Ring.md>), 68 ETH (Drowned) [Diver's Light Plate](<Diver's_Light_Plate.md>) or equivalent, 44 ETH [Fauld of Enmity](Fauld_of_Enmity.md), 64 ETH [Tillian's Beret](<Tillian's_Beret.md>), 54 ETH [Star Boots](Star_Boots.md) or equivalent, 30 ETH [Hivelord Mask](Hivelord_Mask.md), 35 ETH [Old Blood Earrings](Old_Blood_Earrings.md))
+-   Highest theoretical **Stealth** kit in game is 30% stealth. (10% [Dark Owl Chapeau](Dark_Owl_Chapeau.md), 6% [Mercenary's Garb](<Mercenary's_Garb.md>)/[Ministry Cloak](Ministry_Cloak.md)/[Dark Owl Cloak](Dark_Owl_Cloak.md), 5% Shrouded Capes, 6% Duelist's Mask, 3% [Master Thief Earrings](Master_Thief_Earrings.md)/[Ossified Blood Earrings](Ossified_Blood_Earrings.md))
+    -   These will grant a total of 36% Stealth instead if the player is a [Felinor](Felinor.md).
+-   Highest theoretical **Ether** kit in game is 403 ETH. (30 ETH [Moon](Moon_Ring.md) and [Waning Ring](Waning_Ring.md), x2 24 ETH Scaling Rings/[Ferryman's Ring](<Ferryman's_Ring.md>), 68 ETH (Drowned) [Diver's Light Plate](<Diver's_Light_Plate.md>) or equivalent, 44 ETH [Fauld of Enmity](Fauld_of_Enmity.md), 64 ETH [Tillian's Beret](<Tillian's_Beret.md>), 54 ETH [Star Boots](Star_Boots.md) or equivalent, 30 ETH [Hivelord Mask](Hivelord_Mask.md), 35 ETH [Old Blood Earrings](Old_Blood_Earrings.md))
 -   Highest theoretical **Posture** kit is 21.5 Posture. (4x 3 Posture Legendary Rings, 2 Posture [Khan Helmet](Legion_Helmet.md)/[Gladiator Helm](Gladiator_Helm.md)/[Western Outlaw Hat](Western_Outlaw_Hat.md), 1 Posture [Threadwork Kilt](Threadwork_Kilt.md), 3 Posture [Glassdancer Wraps](Glassdancer_Wraps.md)/[Moonseye Gauntlets](Moonseye_Gauntlets.md)/[Western Outlaw Robes](Western_Outlaw_Robes.md), 3.5 Posture [Wartreads of Enmity](Wartreads_of_Enmity.md) with max Anchor pips)
     -   Conversely, the lowest **Posture** you can have on any character is 16, with [Citadel Frames](Citadel_Frames.md) and [Dark Pearls](Dark_Pearls.md).
--   Highest theoretical **HP** kit in game is 182 HP. (9 HP [Moon Ring](Moon_Ring.md), 9 HP [Waning Rings](Waning_Ring.md), 23 HP [Transfusion Ring](Transfusion_Ring.md), 7 HP Scaling Ring/[Ferryman's Ring](<Ferryman's_Ring.md>), 47 HP (Drowned) [Diver's Light Plate](<Diver's_Light_Plate.md>) or equivalent, 18 [Fauld of Enmity](Fauld_of_Enmity.md), 30 HP [Silver Knight's Helm](<Silver_Knight's_Helm.md>) or equivalent, 32 HP [Star Boots](Star_Boots.md) or equivalent, 2 HP [Moonlit Earrings](Crescent_Earrings.md)/[Dark Pearls](Dark_Pearls.md), 5 HP [Citadel Frames](Citadel_Frames.md))
+-   Highest theoretical **Health** kit in game is 182 HP. (9 HP [Moon Ring](Moon_Ring.md), 9 HP [Waning Rings](Waning_Ring.md), 23 HP [Transfusion Ring](Transfusion_Ring.md), 7 HP Scaling Ring/[Ferryman's Ring](<Ferryman's_Ring.md>), 47 HP (Drowned) [Diver's Light Plate](<Diver's_Light_Plate.md>) or equivalent, 18 [Fauld of Enmity](Fauld_of_Enmity.md), 30 HP [Silver Knight's Helm](<Silver_Knight's_Helm.md>) or equivalent, 32 HP [Star Boots](Star_Boots.md) or equivalent, 2 HP [Moonlit Earrings](Crescent_Earrings.md)/[Dark Pearls](Dark_Pearls.md), 5 HP [Citadel Frames](Citadel_Frames.md))
 -   Having multiple pieces of equipment with [Drowned](Drowned.md) **does not increase your stats further.**
 -   The Damage vs Monsters and Monster Armor pips are the only pip types to be removed from the game. In an update on June 24th, 2025, these stats were effectively made innate with the addition of the [Bestiary](Bestiary.md) system, removing their necessity. Following this change, all DvM pips were transferred into Health or Sanity pips (depending on the equipment type) and all Monster Armor pips were transferred into Physical Resistance pips.

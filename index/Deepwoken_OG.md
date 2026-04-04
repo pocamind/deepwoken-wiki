@@ -1,6 +1,6 @@
 ---
 title: Deepwoken OG
-revid: 203933
+revid: 203993
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OG
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, In progress without reason, InProgressPages, "April Fools' Day events", Events]
@@ -46,7 +46,7 @@ The changes to combat mechanics were:
 
 ### Flying boats
 
-You were able to fly while driving a boat, holding Space to ascend and Ctrl to descend. Boats in mid-air would slowly descend to ground while unoccupied.
+You were able to fly while driving a boat. Holding Space would ascend and holding Ctrl would descend. Boats in mid-air would slowly descend to ground while unoccupied.
 
 ### Traan Zakshun's Bankrupt Extravaganza
 
