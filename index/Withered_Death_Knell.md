@@ -1,6 +1,6 @@
 ---
 title: Withered Death Knell
-revid: 203189
+revid: 204031
 source: https://deepwoken.fandom.com/wiki/Withered_Death_Knell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Fists, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Animations, Light Weapons, Reforged Weapons]
@@ -31,7 +31,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Fists, "At
 | bankable | Yes |
 | droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Interact with the Lost Forge at the Lost Forge of Leiuna while wielding the Light's Final Toll |
 | description | A reminder that all songs must be consumed. |
 

@@ -1,6 +1,6 @@
 ---
 title: Icarus Sun Shield
-revid: 195033
+revid: 204048
 source: https://deepwoken.fandom.com/wiki/Icarus_Sun_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Shields, The Hundred Legions, Offhand]
@@ -31,10 +31,12 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Icarus Sun Shield is a [offhand weapon](Weapons.md) in the Shield category. It is identical to the Khan Shield, however the Khan symbol in the middle of the shield has been changed to be glowing a yellow-ish orange colour and the symbol itself is changed (??).
+The Icarus Sun Shield is a [offhand weapon](Weapons.md) in the Shield category. The requirement to wield it is 60 Fortitude.
 
-Currently the only obtainment for the Icarus Sun Shield is through defeating [General Titus Juventius](General_Titus_Juventius.md) by lowering his health below 90%, after that the shield will be given to whoever has contributed in doing damage to the boss. The Shield requires 60 Fortitude to equip and the special effect is that it reduces posture recovery from parrying by 40%, but in turn, it gives a max posture bonus of 10, much like [The Path's Defender](<The_Path's_Defender.md>).
+The shield's silhouette is identical to the [Legion Shield](Legion_Shield.md), however the Khan symbol in the middle of the shield has been changed to be glowing a yellowish orange color and the symbol itself is changed to be [Titus](General_Titus_Juventius.md)'s face.
+
+The only obtainment for the Icarus Sun Shield is by defeating [General Titus Juventius](General_Titus_Juventius.md) by lowering his health below 90%, after that the shield will be given to whoever has contributed to doing damage to Titus.
 
 ## Trivia
 
--   [Icarus](https://en.wikipedia.org/wiki/Icarus), son of [Daedalus](https://en.wikipedia.org/wiki/Daedalus), is a figure in Greek mythology. He died when he flew too close to the sun using wings held together by wax, melting the wax and causing him to plunge into the sea. It is unknown who or what Icarus in the universe of _[Deepwoken](<Deepwoken_(game).md>)_ is.
+-   [Icarus](https://en.wikipedia.org/wiki/Icarus), the son of [Daedalus](https://en.wikipedia.org/wiki/Daedalus), is a well-known figure in Greek mythology. He met his end after flying too close to the sun with wings bound by wax, which melted and sent him falling into the sea. However, in the world of _[Deepwoken](<Deepwoken_(game).md>)_, the identity of “Icarus” remains unknown.

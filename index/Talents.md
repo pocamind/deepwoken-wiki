@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 203995
+revid: 204049
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3215,8 +3215,9 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: 30 Fortitude, 10 Willpower, Use a Shield.
 
 -   Turtle Shell \[Common Talent, Fortitude\] - If your shield is on your back, take reduced backstab damage and negate Spine Cutter.
-    -   25% damage reduction to attacks from the back.
-    -   Turtle Shell is pretty inconsistent, as some attacks will bypass it entirely and deal their full damage. Ex: [Sightless Beam](Oath%253A_Blindseer.md#abilities) and [Radiant Dawn](Oath%253A_Dawnwalker.md#abilities).
+    -   Grants 25% damage reduction to attacks from the back.
+    -   **Currently does not work.**
+    -   Turtle Shell is pretty inconsistent, as some attacks will bypass it entirely and deal their full damage. Ex: [Sightless Beam](Oath%253A_Blindseer.md#sightless-beam) and [Radiant Dawn](Oath%253A_Dawnwalker.md#radiant-dawn).
     -   Each time this Talent takes effect, white square particles will release from around the user.
         -   This shares a visual effect with the [Arcwarder](Oath%253A_Arcwarder.md) "Arc Suit" mantra.
     -   Prerequisites: 50 Fortitude, Knight's Rally
