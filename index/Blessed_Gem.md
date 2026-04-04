@@ -1,6 +1,6 @@
 ---
 title: Blessed Gem
-revid: 195150
+revid: 204018
 source: https://deepwoken.fandom.com/wiki/Blessed_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]
@@ -23,7 +23,7 @@ categories: [Treasures, Mantras, Deep Gems]
 
 ## Description
 
-Blessed Gem is a teal diamond-shaped [Deep Gem](Deep_Gems.md).
+The **Blessed Gem** is a teal diamond-shaped [Deep Gem](Deep_Gems.md).
 
 ## Effect
 

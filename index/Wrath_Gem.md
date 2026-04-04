@@ -1,6 +1,6 @@
 ---
 title: Wrath Gem
-revid: 195147
+revid: 204027
 source: https://deepwoken.fandom.com/wiki/Wrath_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]
@@ -23,7 +23,7 @@ categories: [Treasures, Mantras, Deep Gems]
 
 ## Description
 
-Wrath Gem is an light red diamond-shaped [Deep Gem](Deep_Gems.md).
+The **Wrath Gem** is an light red diamond-shaped [Deep Gem](Deep_Gems.md).
 
 ## Effect
 

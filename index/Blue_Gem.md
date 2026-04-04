@@ -1,6 +1,6 @@
 ---
 title: Blue Gem
-revid: 196574
+revid: 204020
 source: https://deepwoken.fandom.com/wiki/Blue_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]
@@ -23,7 +23,7 @@ categories: [Treasures, Mantras, Deep Gems]
 
 ## Description
 
-Blue Gem is a dark blue diamond-shaped [Deep Gem](Deep_Gems.md).
+The **Blue Gem** is a dark blue diamond-shaped [Deep Gem](Deep_Gems.md).
 
 ## Effect
 

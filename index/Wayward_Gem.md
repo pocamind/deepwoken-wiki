@@ -1,6 +1,6 @@
 ---
 title: Wayward Gem
-revid: 195152
+revid: 204026
 source: https://deepwoken.fandom.com/wiki/Wayward_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]
@@ -23,7 +23,7 @@ categories: [Treasures, Mantras, Deep Gems]
 
 ## Description
 
-Wayward Gem is a black diamond-shaped [Deep Gem](Deep_Gems.md).
+The **Wayward Gem** is a black diamond-shaped [Deep Gem](Deep_Gems.md).
 
 ## Effect
 

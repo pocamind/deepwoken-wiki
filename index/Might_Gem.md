@@ -1,6 +1,6 @@
 ---
 title: Might Gem
-revid: 195151
+revid: 204022
 source: https://deepwoken.fandom.com/wiki/Might_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]
@@ -23,7 +23,7 @@ categories: [Treasures, Mantras, Deep Gems]
 
 ## Description
 
-Might Gem is an orange diamond-shaped [Deep Gem](Deep_Gems.md).
+The **Might Gem** is an orange diamond-shaped [Deep Gem](Deep_Gems.md).
 
 ## Effect
 
