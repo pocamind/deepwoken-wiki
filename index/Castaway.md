@@ -1,6 +1,6 @@
 ---
 title: Castaway
-revid: 193902
+revid: 204068
 source: https://deepwoken.fandom.com/wiki/Castaway
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Character, Origins]
@@ -20,7 +20,7 @@ _Castaway_ is the default and intended way to play the game, and is available to
 
 ## Obtainment
 
-Castaway is unlocked by default. Upon completing the [Tutorial](Tutorial.md), the player's character will be automatically locked into the Castaway Origin.
+Castaway is unlocked by default.
 
 ## Spawn
 
@@ -30,9 +30,6 @@ Castaways spawn with the [Stranded](Stranded.md) Outfit equipped. The player is 
 
 ### Pros
 
--   Upon entering [Fragments of Self](Fragments_of_Self.md) as a Castaway, the player can speak to [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) and opt in to doing the [Tutorial](Tutorial.md) on their next character.
--   If the player completes the [Tutorial](Tutorial.md), they will additionally spawn with an extra 29/59, [Leather Gloves](Leather_Gloves.md), a [Mantra](Mantras.md) of their choice, a fully stocked [Flint](Flint.md), and an additional [Training Gear](Training_Gear.md) of choice.
-    -   Additionally, the player will unlock unique dialogue for [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), should they find him in [New Kyrsa](Second_Layer/New_Kyrsa.md).
 -   Castaway has no negative EXP modifiers nor preferred progression method, unlike most other Origins. This allows you to progress in any way you want to without any downsides to experience gain.
 
 ### Cons

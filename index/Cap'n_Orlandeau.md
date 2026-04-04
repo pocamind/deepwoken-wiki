@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 199001
+revid: 204069
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, "NPCs located in The Scoundrel's Bounty", Members of the Rotten Lot]
@@ -36,102 +36,6 @@ After the events of the tutorial, he navigated The Depths, finding his way to [C
 The player can run into him in New Kyrsa atop of one of the balconies near the middle of the city with his dialogue changing depending on if you did the tutorial or not.
 
 ## Dialogue
-
-**Fragments of Self:**
-
-**Castaway Origin, with Tutorial:**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="4">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="4">Ye've joined the rest of us, [First Name]. Did you truly forget all my training?</td>
-</tr>
-<tr>
-  <td colspan="2">No, I haven't forgotten.</td>
-  <td colspan="2">I... I don't remember.</td>
-</tr>
-<tr>
-  <td colspan="2">Yet yer still stood here gawking at me like ye've seen a ghost. Ye know I'm less than that, [First Name].</td>
-  <td colspan="2">Yet I persist. Some part of ye remembers, clearly. Want me to jog yer memory?</td>
-</tr>
-<tr>
-  <td colspan="2">[End Dialogue]</td>
-  <td>Please do.</td>
-  <td>I don't want to remember.</td>
-</tr>
-<tr>
-  <td colspan="2"></td>
-  <td>Hah, would that I could. Can't do that for ye, mate. Not since ye've met the same fate all the others did.</td>
-  <td>Can't say I blame ye, kid.</td>
-</tr>
-<tr>
-  <td colspan="2"></td>
-  <td>[End Dialogue], your next character will spawn in the <a href="Tutorial.md">Tutorial</a></td>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
-
-**Castaway Origin, Without Tutorial:**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="4">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="4">...</td>
-</tr>
-<tr>
-  <td colspan="4">You seem familiar somehow...</td>
-</tr>
-<tr>
-  <td colspan="4">Of course I do. Have ye forgotten everything I taught you? Everyone ye couldn't save?</td>
-</tr>
-<tr>
-  <td colspan="2">No, I haven't forgotten.</td>
-  <td colspan="2">I... I don't remember.</td>
-</tr>
-<tr>
-  <td colspan="2">Yet yer still stood here gawking at me like ye've seen a ghost. Ye know I'm less than that, [First Name].</td>
-  <td colspan="2">Yet I persist. Some part of ye remembers, clearly. Want me to jog yer memory?</td>
-</tr>
-<tr>
-  <td colspan="2">[End Dialogue]</td>
-  <td>Please do.</td>
-  <td>I don't want to remember.</td>
-</tr>
-<tr>
-  <td colspan="2"></td>
-  <td>Hah, would that I could. Can't do that for ye, mate. Not since ye've met the same fate all the others did.</td>
-  <td>Can't say I blame ye, kid.</td>
-</tr>
-<tr>
-  <td colspan="2"></td>
-  <td>[End Dialogue], your next character will spawn in the <a href="Tutorial.md">Tutorial</a></td>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
-
-**Without Castaway Origin:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>...</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
 
 **New Kyrsa:**
 

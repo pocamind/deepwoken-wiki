@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 203782
+revid: 204066
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -113,6 +113,7 @@ You _**cannot**_ oath skip Blightsurger. Attempting to do will have Brutus beat 
         -   This keybind can be changed in settings.
     -   Skycrash activates a second time when landed while in this state.
     -   Increases the Wither damage that Sovereign Drive and Warp Kick deal.
+    -   If you do not have the talent "Blighted Touch" your weapon will not be replaced, but you will still get the critical attack of Sovereign Bangle.
     -   The Blight Meter is similar to [Jetstriker's](Oath%253A_Jetstriker.md) Momentum gauge.
         -   The Blight Meter can be [dyed](Dye_Packet.md), however this has no visual effect aside from coloring the bar.
 
@@ -127,6 +128,7 @@ You _**cannot**_ oath skip Blightsurger. Attempting to do will have Brutus beat 
 
 -   **Blighted Touch** - Landing M1's during Sovereign State now applies Blightshock.
     -   This allows your Sovereign Bangle to apply Wither on hit.
+    -   This talent is needed for Sovereign State to replace your weapon with Sovereign Bangle.
 
 -   **Blightlash** - Your swing range is enhanced during Sovereign State.
     -   Increases the range of the Sovereign Bangle from 6 to 7. Signified by black and white puffs of lightning every M1.

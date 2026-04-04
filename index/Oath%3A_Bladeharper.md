@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 202177
+revid: 204075
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -138,6 +138,7 @@ Finally the most important piece of advice, stay calm, as you would with any and
 
 ## Trivia
 
+-   Although It's mentioned in the lore that there are 4 statues, theres only 3 in-game. the 4th statue being "Sukuna" with the title "King of Curses"
 -   The statue in the center of the [Blade Within](The_Blade_Within.md) will be the weapon you had equipped when you were teleported.
 -   The Oath bracelets were formerly called "Snakerings" (as viewed from the [Dye Packet](Dye_Packet.md) UI), which was later changed to "Bladeharper Serpents," then changed again to "Bladeharper Cosmetic".
 -   Bladeharper was originally an oath used by powerful swordsmen that trained in the [Isle of Vigils](Isle_of_Vigils.md), but has seemingly faded away from their culture with time[\[1\]](#cite-note-1)

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 204049
+revid: 204073
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4111,13 +4111,14 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Whisper
 
 -   Haunted Gale \[Common Talent, Agility\] - Landing 3 Galebreathe Mantras without whiffing calls for a Haunted Phantom. The Phantom will attack alongside you for the next 8s before dissipating.
+    -   This talant can be activated through non-Galebreathe Mantras as well.
     -   On proc, gain the Haunted status effect, spawning ghosts that attack your opponent every time you land a Mantra.
         -   [Gale Wisp](Galebreathe.md#gale-wisp) increases the duration of Haunted by 3 seconds.
         -   Haunted Gale is capped at 1 ghost per Mantra.
     -   If your Mantra is blocked, parried, or dodged, it will be "_whiffed_", resetting all stacks of Haunted Gale.
     -   Haunted Gale stacks are counted **per person**, not globally.
     -   If you have Apparitions, landing a Galebreathe Mantra while having the Haunted Gale status effect will create an Apparition instead.
-        -   Landing non-Galebreathe Mantras will create Haunted Gale's Ghosts even if you have this Talent.
+        -   Landing non-Galebreathe Mantras will create Haunted Gale's Ghosts even if you have Apparitions.
     -   Prerequisites: 40 Galebreathe, [Power](Power.md) 8
 
 ### Windrunner
