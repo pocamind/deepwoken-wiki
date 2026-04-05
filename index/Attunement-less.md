@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 203916
+revid: 204123
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -126,7 +126,7 @@ Blunt
 
 **Effect:** _User unleashes a powerful left cross that knocks their opponent away, inflicting ragdoll and a good amount of knockback in the process._
 
--   Has a base damage of 15/21/27/33/39 per level with 1.65 Strength scaling.
+-   Has a base damage of 15/22.5/30/37.5/45 per level with 1.65 Strength scaling.
 -   Deals 22/24/26/28/30 posture damage per level.
 -   Has a wind-up of 0.55s, and an endlag of 0.25s (0.35s if whiffed).
 -   Deals increased damage to trees if you have the [Treefelling Blow](Talents.md#treefelling-blow) Talent.

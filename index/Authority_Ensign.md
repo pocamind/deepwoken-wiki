@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 204074
+revid: 204108
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -16,7 +16,7 @@ This content is not accessible outside of this gamemode.
 > 
 > ― Origin description
 
-_Authority Ensign_ is an immersive, faction-based Origin that progresses mostly in the Eastern Luminant, where you play as an aspiring Authority Soldier who quickly rises through the ranks of the Authority, gaining exclusive benefits along the way.
+_Authority Ensign_ is an immersive, faction-based [Origin](Origins.md) that progresses mostly in the [Eastern Luminant](Luminants.md), where you play as an aspiring [Authority](The_Central_Authority.md) Soldier who quickly rises through the ranks of the Authority, gaining exclusive benefits along the way.
 
 ## Obtainment
 
@@ -48,7 +48,7 @@ Being in a Squad allows you to take on the Missions as a group and proc certain 
 
 Upon being exiled from [The Central Authority](The_Central_Authority.md), you will be kicked out of the Central Authority guild, removing your ability to gain future promotions. All Origin-exclusive Talents and Equipment you've obtained prior to being exiled will be kept. You lose the ability to equip Authority-related equipments and weapons without meeting its normal stat requirements, though any currently equipped items will remain usable until swapped out. In cases where it is swapped out, you cannot equip them again without meeting its normal stat requirements. There is no way to return to the Authority's ranks upon being exiled.
 
-Your Authority reputation will also be lowered heavily, most of the time to ' _**or '**_ reputation (though you can still raise your Authority reputation afterwards) and it will remove the restriction of not being able to raise your [Reputation](Reputation.md) with [Etrea](Etrea.md) and [The Children of Navae](The_Children_of_Navae.md). You will also lose a bit of reputation with [The Divers](The_Divers.md) and [The Knives of Eylis](The_Knives_of_Eylis.md), and gain ample reputation with [The Hundred Legions](The_Hundred_Legions.md). Alongside losing your insignia and rank, [Salute](#effects) now no longer appears as an emote you can use.
+Your Authority reputation will also be lowered heavily, most of the time to **Hunted** or **Villain** reputation (though you can still raise your Authority reputation afterwards) and it will remove the restriction of not being able to raise your [Reputation](Reputation.md) with [Etrea](Etrea.md) and [The Children of Navae](The_Children_of_Navae.md). You will also lose a bit of reputation with [The Divers](The_Divers.md) and [The Knives of Eylis](The_Knives_of_Eylis.md), and gain ample reputation with [The Hundred Legions](The_Hundred_Legions.md). Alongside losing your insignia and rank, [Salute](#effects) now no longer appears as an emote you can use.
 
 There are two ways to be exiled:
 
@@ -598,16 +598,16 @@ Your starting faction [reputation](Reputation.md) is:
 -   **Ally** with [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md)
 -   **Friend** of [The Divers](The_Divers.md) [Diversiconfaction](The_Divers.md), [Lost Celtor](Lost_Celtor.md), and [The Ignition Union](The_Ignition_Union.md)
 -   **Enemy** of [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md) and [The Hundred Legions](The_Hundred_Legions.md)
--   ' **_by [Etrea](Etrea.md) [Etreaiconfaction](Etrea.md) and [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md)_**
+-   **Hunted** by [Etrea](Etrea.md) [Etreaiconfaction](Etrea.md) and [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md)
 -   **Neutral** with all other factions [Knives of Eylis](The_Knives_of_Eylis.md) [Summericonfaction](The_Summer_Company.md) [Hiveiconfaction](The_Hive.md) [Etrean Royalistsiconfaction](Etrean_Royalists.md)
 -   _Note: Your chosen [Aspect](Aspects.md) may affect your starting reputation._
--   You ' **_[Etrea](Etrea.md) or [Children of Navae](The_Children_of_Navae.md) reputation. This restriction will be removed, should you be Exiled._**
+-   You **cannot gain** [Etrea](Etrea.md) or [Children of Navae](The_Children_of_Navae.md) reputation. This restriction will be removed, should you be Exiled.
 
 If you have the [Fugitive](Boons_and_Flaws.md#flaws) Flaw:
 
 -   **Friend** of [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md)
 -   **Enemy** of [The Divers](The_Divers.md) [Diversiconfaction](The_Divers.md), [Lost Celtor](Lost_Celtor.md), [The Ignition Union](The_Ignition_Union.md), [The Hive](The_Hive.md) [Hiveiconfaction](The_Hive.md), [The Summer Company](The_Summer_Company.md) [Summericonfaction](The_Summer_Company.md), and [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md)
--   ' **_by [Etrea](Etrea.md) [Etreaiconfaction](Etrea.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md), [The Hundred Legions](The_Hundred_Legions.md), and [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md)_**
+-   **Hunted** by [Etrea](Etrea.md) [Etreaiconfaction](Etrea.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md), [The Hundred Legions](The_Hundred_Legions.md), and [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md)
 -   **Neutral** with all other factions [Etrean Royalistsiconfaction](Etrean_Royalists.md)
 
 ## Trivia

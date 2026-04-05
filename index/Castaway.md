@@ -1,6 +1,6 @@
 ---
 title: Castaway
-revid: 204068
+revid: 204109
 source: https://deepwoken.fandom.com/wiki/Castaway
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Character, Origins]
@@ -16,7 +16,7 @@ This content is not accessible outside of this gamemode.
 > 
 > ― Origin description
 
-_Castaway_ is the default and intended way to play the game, and is available to the player upon purchase of the game.
+The _Castaway_ [Origin](Origins.md) is the default and intended way to play the game, and is available to the player upon purchase of the game.
 
 ## Obtainment
 

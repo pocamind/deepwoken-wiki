@@ -1,6 +1,6 @@
 ---
 title: Lone Warrior
-revid: 199480
+revid: 204110
 source: https://deepwoken.fandom.com/wiki/Lone_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Origins, Character]
@@ -12,7 +12,7 @@ categories: [Origins, Character]
 > 
 > ― Origin description
 
-_Lone Warrior_ gives players a convenient way to access Trial of One from the get-go, allowing them to kickstart their progression.
+The _Lone Warrior_ [Origin](Origins.md) gives players a convenient way to access the [Trial of One](Trial_of_One.md) from the get-go, allowing them to kickstart their progression.
 
 ## Obtainment
 

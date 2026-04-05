@@ -1,6 +1,6 @@
 ---
 title: Strange Tomes
-revid: 200217
+revid: 204119
 source: https://deepwoken.fandom.com/wiki/Strange_Tomes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Quest Item]
@@ -10,6 +10,7 @@ categories: [Pathfinder Exclusive, Items, Quest Item]
 
 | Strange Tomes | |
 |---|---|
+| type | Quest Item |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

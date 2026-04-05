@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 204076
+revid: 204128
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2548,7 +2548,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   While active your weapon's swing trail will become purple and your weapon will emit a soft hum sound effect.
         -   If you have [Soulbreaker](Oath%253A_Soulbreaker.md), your weapon will passively emit purple lightning while its unsheathed.
     -   Increases outgoing M1 posture damage by 20% and reduces incoming posture damage by 15%. The posture damage buff also applies to criticals with the M1 tag.
-    -   Gain a +7.5% damage buff to M1s and criticals with the M1 tag. Additionally applies a +15% damage buff to M1s and criticals with the M1 tag that guardbreak.
+    -   Gain a +2.5% (+5% if [Soulbreaker](Oath%253A_Soulbreaker.md)) damage buff to M1s and criticals with the M1 tag. Additionally applies a +15% damage buff to M1s and criticals with the M1 tag that guardbreak.
     -   Drains Ether while active. Ether drain scales inversely with your level, being entirely negated at power 20.
     -   Ardour automatically deactivates if you have no Ether. This also happens upon using Ardour Scream.
     -   Ardour's activation keybind can be configured in settings.
@@ -3380,7 +3380,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Soulbreaker
 
 -   [**Oath: Soulbreaker**](Oath%253A_Soulbreaker.md) - The sum of your fragments is greater than the whole. Though your very being is splintered and threatening to drift apart, every shard of you Vows to remain One. Your Oath is a solvent that joins all of your distinct selves into the gestalt you (+2 Combat Mantra Slots, +1 Wildcard Mantra Slot)
-    -   Gives your Ardour a new visual effect; a crackling purple lightning visual on your weapon.
+    -   Gives your [Murmur: Ardour](Murmur%253A_Ardour.md) a new visual effect; a crackling purple lightning visual on your weapon. Additionally your Ardour will provide a 5% damage buff to light attacks and criticals with the M1 tag instead of the base 2.5%.
     -   Prerequisites: Combined 50 Charisma/Willpower total (CHA + WLL ≥ 50), and any [Murmur](Murmur.md). The rest of the requirements depends on the obtainment method.
         -   **Yunshul method**: Additional requirements: Hero/very high Ally reputation with [Etris](Etris.md), a [Resonance](Resonance.md), and have a Yun'shul Wish. **Obtainment method**: Step 1: Talk to [Theadre](Theadre.md) about The King being a God. Step 2: Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) about The King's Ardour. Step 3: Go to [Yun'shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and unlock it "For now I am one, but I wish to be three."
         -   **Sinner's Ash method**: Additional requirements: [Sinner's Ash](<Sinner's_Ash.md>). **Obtainment method**: Step 1: Defeat [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md). Step 2: Use [Sinner's Ash](<Sinner's_Ash.md>) in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) before you get teleported out.
@@ -5237,6 +5237,21 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
     -   Your Punishment will apply bottom freeze to mobs if you land the counter hit.
     -   Prerequisites: [Saint Jay](<Saint_Jay_(Memento).md>) Memento, purchased from the starting shop
 
+### Saintsworn
+
+-   Verses of Harmony \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Each elemental stance grants access to select talents from the corresponding attunement.
+    
+    -   Upon entering the corresponding [Saint Stance](Oath%253A_Saintsworn.md#saintsblade) you will temporarily gain certain Talents from the respective Attunement.
+    -   The Talents gained through this Talent will be listed in the "Effects" section of your Talent list, and will be lost upon changing Saint Stances or deactivating the [Saintsblade](Oath%253A_Saintsworn.md#saintsblade).
+    -   Some of the Talents given additionally have a Power requirement.
+    -   Verses of Harmony grants the following Talents;
+        -   Flamecharm: **Base** - Dancing Steps, Immolation | **Power 5** - Agitating Spark
+        -   Frostdraw: **Base** - Condensation Drip, Saint Jay | **Power 5** - Frozen Legs | **Power 10** - Chilling Flourish, Fragile Freeze
+        -   Galebreathe: **Base** - Pressure Break, Wind Step | **Power 5** - Air Pressure | **Power 10** - Cyclone Blade, Inhale | **Power 15** - A World Without Song
+        -   Shadowcast: **Base** - Dark Rift | **Power 5** - Lasting Sorrows | **Power 10** - Dark God, Dark Hours | **Power 15** Shadow Overflow | **Power 20** - Singularity
+        -   Thundercall: **Base** - Static Fakeout, Stratoshock | **Power 5** - Resolve Crusher | **Power 10** - Static Blade | **Power 15** - Gathering Electricty
+    -   Prerequisite: [Saintsworn](<Saintsworn_(Memento).md>) Memento
+
 ### Sightless
 
 -   Focused Perception \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Massively increase the range of your [Rhythm](Murmur%253A_Rhythm.md) if you use it while [Tranquil Circle](Oath%253A_Blindseer.md#tranquil-circle) is active.
@@ -5256,6 +5271,29 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
 -   Unmended Eye \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - All mantras you land now apply anti heal.
     
     -   Prerequisites: [Sightless](Sightless.md) Memento, defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
+
+### Solborn
+
+-   Ignition Rite \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Landing fire attacks with the phoenix summoned regenerates Heartfire.
+    
+    -   Prerequisites: [Solborn](Solborn.md) Memento, defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
+
+-   Heartfire Renewal \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Regenerate Heartfire whenever you are burning. Upon revival with Phoenix Flames, restore half of your Heartfire gauge.
+    
+    -   Prerequisites: [Solborn](Solborn.md) Memento, defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
+
+-   Pyreborne: \[Memento Talent, Equipment Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your Flamecharm mantras have all stats amplified
+    
+    -   Increases the **base damage** of all Flamecharm Mantras by 30%
+    -   Obtained from: [Emberseal Pendant](Emberseal_Pendant.md)
+    
+
+-   Solborn \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Harness your Heartfire to command the Phoenix bound to your soul.
+    
+    -   Spawns a small orange, stationary, Phoenix near you. The size of the Phoenix will increase based on the user's level.
+    -   This Phoenix can be used like a campfire to rest and heal yourself.
+    -   Utilized in many other Solborn Talents.
+    -   Prerequisite: [Solborn](Solborn.md) Memento
 
 ### Spear Dancer
 
@@ -5308,29 +5346,6 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
     -   14 second cooldown.
     -   Essentially, this is Defensive Sweep without being weapon type locked.
     -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento, purchased from the Power 10 shop
-
-### Solborn
-
--   Ignition Rite \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Landing fire attacks with the phoenix summoned regenerates Heartfire.
-    
-    -   Prerequisites: [Solborn](Solborn.md) Memento, defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
-
--   Heartfire Renewal \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Regenerate Heartfire whenever you are burning. Upon revival with Phoenix Flames, restore half of your Heartfire gauge.
-    
-    -   Prerequisites: [Solborn](Solborn.md) Memento, defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
-
--   Pyreborne: \[Memento Talent, Equipment Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your Flamecharm mantras have all stats amplified
-    
-    -   Increases the **base damage** of all Flamecharm Mantras by 30%
-    -   Obtained from: [Emberseal Pendant](Emberseal_Pendant.md)
-    
-
--   Solborn \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Harness your Heartfire to command the Phoenix bound to your soul.
-    
-    -   Spawns a small orange, stationary, Phoenix near you. The size of the Phoenix will increase based on the user's level.
-    -   This Phoenix can be used like a campfire to rest and heal yourself.
-    -   Utilized in many other Solborn Talents.
-    -   Prerequisite: [Solborn](Solborn.md) Memento
 
 ### Steampunk Soldier
 

@@ -1,6 +1,6 @@
 ---
 title: Ossified Blood Earrings
-revid: 202081
+revid: 204121
 source: https://deepwoken.fandom.com/wiki/Ossified_Blood_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Earrings, Craftable]
@@ -23,8 +23,6 @@ categories: [Pathfinder Exclusive, Equipment, Earrings, Craftable]
 | pass down | No |
 | obtainment | Crafted w/ 1x Old Blood Earrings and 1x Ethereal Osseous Plate at Lost Forge of Leiuna |
 | description | ... |
-
-Variants: [Master Thief Earrings](Master_Thief_Earrings.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

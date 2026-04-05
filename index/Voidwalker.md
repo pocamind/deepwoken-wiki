@@ -1,6 +1,6 @@
 ---
 title: Voidwalker
-revid: 199671
+revid: 204111
 source: https://deepwoken.fandom.com/wiki/Voidwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Origins, Character, The Knives of Eylis]
@@ -18,7 +18,7 @@ This content is not accessible outside of this gamemode.
 
 _**If you're looking on how to get rid of Voidwalkers - visit the [Bounty Hunting](Bounty_Hunting.md) page instead.**_
 
-_Voidwalker_ is a PvP-focused origin, greatly favoring, but not mandating [Bounty Hunting](Bounty_Hunting.md) for experience gain.
+_Voidwalker_ is a PvP-focused [Origin](Origins.md), greatly favoring, but not mandating [Bounty Hunting](Bounty_Hunting.md) for experience gain.
 
 ## Obtainment
 
@@ -35,7 +35,7 @@ Voidwalkers spawn anywhere within the Etrean Luminant, with the [Whaler Initiate
 
 ## Effects
 
-Successfully completing a bounty grants EXP, Full Training points based on the amount of bounty stars, and a chest with loot. The amount of EXP gained from completing the bounty is dependent on the target's total number of bounty stars. However, if the target kills their Voidwalker, the target will instead receive a chest and EXP, the amount of EXP granted is instead dependent on the Voidwalker's amount of bounty stars.
+Successfully completing a bounty grants EXP and Full Training points based on the amount of bounty stars, and a chest with loot. If the target kills their Voidwalker, the target will instead receive a chest and EXP, the amount of EXP granted is instead dependent on the Voidwalker's amount of bounty stars.
 
 ### Voidwalker contract
 

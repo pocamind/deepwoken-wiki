@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 204069
+revid: 204101
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, "NPCs located in The Scoundrel's Bounty", Members of the Rotten Lot]
@@ -11,10 +11,10 @@ categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusiv
 | Cap'n Orlandeau | |
 |---|---|
 | name | Orlandeau |
-| alias | Cap'n, The Captain (In the Fragments of Self) |
+| alias | Cap'n |
 | aspect | Felinor |
 | pronouns | He/him |
-| location | The Scoundrel's Bounty, New Kyrsa, The Sleeping City, Fragments of Self (Castaway) |
+| location | The Scoundrel's Bounty, New Kyrsa, The Sleeping City |
 | affiliation | Rotten Lot |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -29,7 +29,7 @@ This content is not accessible outside of this gamemode.
 
 Captain Orlandeau (more stylized as Cap'n Orlandeau) is a [Felinor](Felinor.md) NPC. He is the captain of [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>).
 
-He initially first appears in the [tutorial](Tutorial.md) for the game, which can be repeated by talking to him (in the form of a fragment from your own memory) in the [Fragments of Self](Fragments_of_Self.md) while being a [Castaway](Castaway.md).
+He initially first appears in the [tutorial](Tutorial.md) for the game, which can be accessed via the Main Menu.
 
 After the events of the tutorial, he navigated The Depths, finding his way to [Castle Light](Castle_Light.md), leaving him as the sole survivor among the crew of the Scoundrel's Bounty. After having an argument with [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md), she damned him to the [City of New Kyrsa](Second_Layer/New_Kyrsa.md) in the [Second Layer](Second_Layer.md). Believing this may be his final plunder, he explores the sleeping city in search of wealth, fame, and power.
 
@@ -426,7 +426,5 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 
 ## Trivia
 
--   Despite the dialogue, the version of Orlandeau that appears in the Fragments of Self is not a ghost, rather a memory.
-    -   This is hinted at by the NPC's name being "The Captain" rather than "Cap'n Orlandeau."
 -   Wears [Flame Worshipper Armor](Flame_Worshipper_Armor.md), a [Brigand's Bicorn](<Brigand's_Bicorn.md>), and a [Celtor Commander Plate](Celtor_Commander_Plate.md).
 -   During the parrying section, he originally used a [Razor Cutlass](Razor_Cutlass.md) but now uses a regular sword.

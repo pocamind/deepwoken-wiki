@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 200820
+revid: 204118
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages with reason, StubPages, Reputation, Mechanics]
@@ -30,15 +30,55 @@ Certain NPC dialogues and quests in the game require a specific faction status t
 
 | Title | Reputation amount | Effects |
 | --- | --- | --- |
-| Hero | 300 | 
+| 
+**Hero**
+
+ | 
+
+300
+
+ | 
+
 -   [The Central Authority](The_Central_Authority.md): Unlocks the [Authority Ensign](Authority_Ensign.md) [Origin](Origins.md).
 -   [The Children of Navae](The_Children_of_Navae.md): Speaking to the [Eastern Nomad Leader](Eastern_Nomad_Leader.md) or [Eastern Camp Master](Cheral.md) unlocks the [Way of Navae](Way_of_Navae.md) fighting style.
 
  |
-| Ally | 150 to 299 | NPCs now will greet you with your first name |
-| Friend | 1 to 149 | NPCs will call you friend |
-| Neutral | 0 | N/A |
-| Enemy | ⁣-1 to -149 | 
+| 
+
+**Ally**
+
+ | 
+
+150 to 299
+
+ | NPCs now will greet you with your first name |
+| 
+
+**Friend**
+
+ | 
+
+1 to 149
+
+ | NPCs will call you friend |
+| 
+
+**Neutral**
+
+ | 
+
+0
+
+ | N/A |
+| 
+
+**Enemy**
+
+ | ⁣
+
+\-1 to -149
+
+ | 
 
 -   NPCs tied to the relevant faction will attack on sight, including town guards.
 -   Player will appear on [bounty boards](Bounty_Hunting.md) (starting from [Power](Power.md) 5) and if the player is enemies with any of the factions listed below, they can be hunted down by [Voidwalkers](Voidwalker.md).
@@ -46,8 +86,24 @@ Certain NPC dialogues and quests in the game require a specific faction status t
 -   Player loses the ability to talk to certain faction-tied NPCs, primarily Blacksmiths and Antiquarians.
 
  |
-| Hated/Hunted | ⁣-150 to -299 | Player can be attacked by randomly spawning NPC [Ambushes](Faction_Ambushes.md). |
-| Villain | ⁣-300 | Player cannot pay the Bribe NPCs to reset their reputation. |
+| 
+
+**Hated/Hunted**
+
+ | 
+
+⁣-150 to -299
+
+ | Player can be attacked by randomly spawning NPC [Ambushes](Faction_Ambushes.md). |
+| 
+
+**Villain**
+
+ | ⁣
+
+\-300
+
+ | Player cannot pay the Bribe NPCs to reset their reputation. |
 
 ## Reputation Gain and Loss
 
@@ -77,11 +133,15 @@ The player can lose reputation with a faction by:
 
 ## Bribe
 
-Players can bribe specific NPCs up to ~1200 notes (depending on how much reputation below 0 they have) to set their reputations to 0.
+Players can bribe specific NPCs up to ~1,200 Notes (depending on how much reputation below 0 they have) to set their reputations to their default value.
 
-NOTE: Only 8 of the 12 factions have an NPC that offer this service.
+**NOTES:**
 
-### Pathfinder
+-   Only 6 of the 12 factions have an NPC that offer this service. This number decreases to 5 in the [Vow of Iron](Vow_of_Iron.md) gamemode.
+-   The [Soothsayer](Soothsayer.md) offers a similar, but distinctly different, service for [The Ministry](The_Ministry.md) reputation, in which the player exchanges [Knowledge](Knowledge.md) for Ministry reputation and [Notes](Notes.md).
+-   Bribing resets your reputation to your _default_ and **not** Neutral. This means that if your starting reputation for a faction is negative, bribing won't be able to increase your reputation to Neutral.
+
+**Pathfinder:**
 
 | Image | Faction | Name | Location |
 | --- | --- | --- | --- |
@@ -90,14 +150,14 @@ NOTE: Only 8 of the 12 factions have an NPC that offer this service.
 
 [The Kingdom of Etrea](Etrea.md)
 
- | [Nerin](Nerin.md) | Outside a house in the area above the Etris Antiquarian and near The Barber. |
+ | [Nerin](Nerin.md) | Outside a house in the area above the [Etris](Etris.md) [Antiquarian](Antiquarian.md) and near the [Barber](Barber.md). |
 | 
 
  | 
 
 [The Summer Company](The_Summer_Company.md)
 
- | [Nepo](Nepo.md) | Leaning by the archway reached by going across a series of bridges behind the Summer Isle Castle. |
+ | [Nepo](Nepo.md) | Leaning by the archway reached by going across a series of bridges behind the [Summer Isle](Summer_Isle.md) Castle. |
 | 
 
  | 
@@ -134,7 +194,7 @@ NOTE: Only 8 of the 12 factions have an NPC that offer this service.
 
  | [Soothsayer](Soothsayer.md) | Sitting in a corner on the way to [Starfield Tundra](Starfield_Tundra.md). |
 
-### Vow of Iron
+**Vow of Iron:**
 
 | Image | Faction | Name | Location |
 | --- | --- | --- | --- |
@@ -177,7 +237,7 @@ NOTE: Only 8 of the 12 factions have an NPC that offer this service.
 [Yen](Yen.md) | Ferenc: On the shore of a neighboring island near the [Isle of Vigils](Isle_of_Vigils.md)  
 
 Kazue: Near the bridge headed towards [The Sable Estate](The_Sable_Estate.md)  
-Seon: On a shore near Summer Isles and also near [The Golden Rat](The_Golden_Rat.md)  
+Seon: On a shore near [Summer Isles](Summer_Isle.md) and also near [The Golden Rat](The_Golden_Rat.md)  
 Yen: Near the front of the [Songseeker Temple](Songseeker_Temple.md)
 
  |

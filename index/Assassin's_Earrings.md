@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Earrings"
-revid: 201211
+revid: 204120
 source: https://deepwoken.fandom.com/wiki/Assassin's_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears]
@@ -23,8 +23,6 @@ categories: [Vow of Iron Exclusive, Equipment, Ears]
 | pass down | No |
 | obtainment | TBA |
 | description | ... |
-
-Variants: [Master Thief Earrings](Master_Thief_Earrings.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

@@ -1,6 +1,6 @@
 ---
 title: Deepbound
-revid: 195201
+revid: 204112
 source: https://deepwoken.fandom.com/wiki/Deepbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Divers, Origins, Character]
@@ -16,7 +16,7 @@ This content is not accessible outside of this gamemode.
 > 
 > ― Origin Description
 
-_Deepbound_ is a Depths-focused Origin, granting unique bonuses and progression methods for Depths content. As such, this Origin has garnered the reputation of being a 'PvE Origin'.
+_Deepbound_ is a Depths-focused [Origin](Origins.md), granting unique bonuses and progression methods for Depths content. As such, this Origin has garnered the reputation of being a 'PvE Origin'.
 
 ## Obtainment
 

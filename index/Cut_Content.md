@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 202395
+revid: 204099
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -531,6 +531,12 @@ Charisma
     One of the brains found in the Ancient Rotlands
     
     -   Previously, there were two large, pulsating, fleshy masses dubbed "brains" by the community in the Rotlands that caused the player to lose [sanity](Insanity.md) when within the radius of their pulse, which was activated by looking directly at it. Running out of sanity while near one would cause the player's head to explode. Their removal was never mentioned in update logs, causing players to believe it was a bug, as the long chains suspending the brains persisted and only the brain was missing. It was later confirmed that they were intentionally removed due to their nonsensical placement and function lorewise[\[2\]](#cite-note-2).
+-   **[The Captain](<Cap'n_Orlandeau.md>) -**
+    
+    The Captain
+    
+    -   This version of [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) could be found in the [Fragments of Self](Fragments_of_Self.md) for [Castaway](Castaway.md) players, allowing them to enter the [Tutorial](Tutorial.md) on their next life. This NPC was removed on the April 2nd, 2026 update, when they moved the Tutorial access to the Main Menu instead.
+    -   Additionally, because the Tutorial could only be accessed on temporary characters, Tutorial-specific dialogue with [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) in the [Second Layer](Second_Layer.md) and [Kelsius](Kelsius.md) was also made unobtainable for new characters after this update.
 -   **[Chime of Conflict](Chime_of_Conflict.md) Skulls -**
     
     Chime of Conflict Skull icons
@@ -560,7 +566,7 @@ Charisma
 -   **Obtained the [Deepshore Fossil](Deepshore_Fossil.md) Triumph -** On the August 25th, 2025 update, the [Echo](Echoes.md) triumph requiring the player to obtain the Deepshore Fossil was removed in place for the 'Cleared a World Event' triumph.
 -   **[Shrine of Ostentation](Deep_Shrines/Shrine_of_Ostentation.md) -** Removed on the September 15th, 2025 update, for 10 [Knowledge](Knowledge.md), the Shrine of Ostentation allowed the player to transfer a Common or Advanced Talent into a random Rare Talent and vice versa. This shrine was later merged with the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md).
 -   **[Sea Highways](Sea_Highway.md) -** Removed on the October 25th, 2025 update, Sea Highways were large structures scattered through the [Etrean Sea](The_Etrean_Sea.md) and [Aratel Sea](The_Aratel_Sea.md). Powered by Thundercall, it allowed boats to receive a 'jolt' of energy to travel significantly faster between frequently traversed areas.
--   **Smuggler Investigation** - An [Authority Ensign](Authority_Ensign.md) mission that would spawn a ship of smugglers carrying green [Barrels](Barrel.md). It's mission description read "_There's some shipments being smuggled without our permission at Summer Isle. Search the surrounding waters for ships, What you do with the supplies is up to you._""
+-   **Smuggler Investigation** - An [Authority Ensign](Authority_Ensign.md) mission that would spawn a ship of smugglers carrying green [Barrels](Barrel.md). It's mission description read "_There's some shipments being smuggled without our permission at Summer Isle. Search the surrounding waters for ships, What you do with the supplies is up to you._"
     
 
 ## Mystic
