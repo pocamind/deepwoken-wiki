@@ -1,6 +1,6 @@
 ---
 title: Ignition Delver
-revid: 204113
+revid: 204132
 source: https://deepwoken.fandom.com/wiki/Ignition_Delver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Origins, The Ignition Union, Character]
@@ -58,20 +58,22 @@ If you escape the [Second Layer](Second_Layer.md) through the Deep Drill, you wi
 
 ### Pros
 
--   Increased EXP gain from completing [Jobs](Job_Boards.md)/[Dungeons](Dungeons.md).
+-   Increased EXP gain from completing [Jobs](Job_Boards.md) and while in [Dungeons](Dungeons.md).
 -   Union Pager allows you to take jobs remotely, saving you a significant amount of time.
 -   Jobs are one of the most popular progression methods and this Origin is tailored to them.
--   You start with the [Union Hook](Talents.md#ignition-union) Talent, providing greater navigation options in the Overworld and Second Layer.
+-   You start with the [Union Hook](Talents.md#union-hook) Talent, providing greater navigation options in the Overworld and Second Layer.
 -   [Union Initiate](Union_Initiate.md) is the only outfit in the game that grants [Carry Load](Carry_Load.md), making this Origin a must have for bank slots.
--   Allows you to use all necessities at the [Chariot's Spire](<The_Chariot's_Spire.md>) such as the Banker, stove, and Antiquarian.
+-   Allows you to use all necessities at the [Chariot's Spire](<The_Chariot's_Spire.md>) such as the Banker, stove, and Antiquarian. Additionally, being at the Chariot's Spire will passively regenerate your Sanity.
     -   However, you still won't be able to enter the Chariot's Spire through the main entrance way if you've drowned, unlike [Deepbound](Deepbound.md).
--   The [Hollow Forge](Hollow_Forge.md) is an exceptionally useful item for transfusing unused relics into ones that are more desirable.
--   Through the Chariot's Spire Deep Drill, you can skip a decent chunk of Layer 2's first floor, allowing you to complete the dungeon much faster.
+-   The [Hollow Forge](Hollow_Forge.md) is an exceptionally useful item for transfusing lesser used Relics into ones that are more desirable.
+-   If you've already escaped the [Second Layer](Second_Layer.md) via the Deep Drill at least once on your character, you will be able to use the Deep Drill at the [Chariot's Spire](<The_Chariot's_Spire.md>) to reenter the Second Layer. This will spawn you in the [Frontier Furnace](The_Frontier_Furnace.md) with the Generator already turned on, skipping a decent chunk of the dungeon.
+    -   You can bring up to 4 other players with you.
+    -   However, you, and all other players you bring along, will not have a [Light Hook](Light_Hook.md).
 
 ### Cons
 
--   Reduced EXP gain from non-Job or Dungeon sources: [Bosses](Bosses.md)/[Random Encounters](Random_Encounters.md)/[Bounty Hunting](Bounty_Hunting.md)/[Quests](Quests.md).
-    -   There aren't many mid-game progression dungeons, so for most exp gain, if you're not skilled enough to take on end-game dungeons, you're gonna have to either farm Bosses or Jobs.
+-   Reduced EXP gain from non-Job or Dungeon sources.
+    -   Because there are very few dungeons that are balanced towards mid-game progression, you may have to resort to unconventional/debuffed sources of experience gain if you do not wish to do Jobs.
 
 ## Reputation
 

@@ -1,6 +1,6 @@
 ---
 title: Guild Banners
-revid: 203437
+revid: 204136
 source: https://deepwoken.fandom.com/wiki/Guild_Banners
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics]

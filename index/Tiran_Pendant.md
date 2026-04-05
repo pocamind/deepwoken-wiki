@@ -1,6 +1,6 @@
 ---
 title: Tiran Pendant
-revid: 202768
+revid: 204133
 source: https://deepwoken.fandom.com/wiki/Tiran_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces, Relics]
@@ -28,7 +28,9 @@ categories: [Equipment, Torso, Necklaces, Relics]
 
 The Tiran Pendant is a [Relic](Relics.md) [Equipment](Equipment.md) item under the "Torso" category.
 
-The [Featherfall](Talents.md#featherfall) Talent grants nearly complete immunity to fall damage. After negating 225 fall damage (tracked across servers), the pendant will go on cooldown for 2 minutes.
+The [Featherfall](Talents.md#featherfall) Talent grants nearly complete immunity to fall damage.
+
+After negating 225 fall damage (tracked across servers), the pendant will go on cooldown for 2 minutes.
 
 ## Trivia
 
