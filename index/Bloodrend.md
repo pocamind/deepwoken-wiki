@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 203918
+revid: 204195
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -47,20 +47,34 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At 30 Bloodrend, players will receive the _Expert Bloodrender_ Talent. This allows players to obtain 2-star Bloodrend Mantras.
 -   Finally, at 50 Bloodrend, players will receive the _Master Bloodrender_ Talent. This allows Bloodrend users to obtain 3-star Bloodrend Mantras. They also uniquely benefit from having 25% more blood capacity and increased blood regeneration.
 
-You can speak to [Vyrelda](Vyrelda,_Master_of_Blood.md) at [Derelict Highchurch](Derelict_Highchurch.md) to upgrade your Bloodrend Mantras for 100 Notes each. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
+You can speak to [Vyrelda](Vyrelda,_Master_of_Blood.md) at [Derelict Highchurch](Derelict_Highchurch.md) or a [Mantra Lectern](Mantra_Lectern.md) to upgrade your Bloodrend Mantras for 100 Notes each. Each upgrade purchased will make the next upgrade for the same Mantra 100 notes more expensive.
 
 -   To upgrade a Bloodrend Mantra from level 1 to level 2 costs 100 and requires 20 Bloodrend investment.
 -   To upgrade a Bloodrend Mantra from level 2 to level 3 costs 200 and requires 40 Bloodrend investment.
 -   To upgrade a Bloodrend Mantra from level 3 to level 4 costs 300 and requires 60 Bloodrend investment.
 -   To upgrade a Bloodrend Mantra from level 4 to level 5 costs 400 and requires 80 Bloodrend investment.
 
-Mantra levels will cost 50% more Notes if you use the [Songwright](Songwright.md) NPC to upgrade them.
-
 [Bloodrend Unbound](Attributes_Unbound.md#attunement-unbound) can be obtained by defeating any humanoid [boss](Bosses.md) (Duke, Chaser, Ferryman, etc), while having 75 points invested into the attunement.
 
 ### Mantra Damage Calculation
 
 The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#mantra-damage-calculation) page. Alternatively, use this **[Desmos calculator](https://www.desmos.com/calculator/xoovzbiltk)**.
+
+## Cantrip(s)
+
+Cantrips are, often minor, passive abilities that are granted upon obtaining any Mantra from the respective Attunement.
+
+### Bloodless
+
+This Cantrip visually hides the blood splotches that appear on the player's [Outfit](Outfits.md) when at low health. This is purely visual.
+
+The [Not a Scratch](Talents.md#not-a-scratch) Talent also provides this effect, among other things.
+
+### Carnivorous
+
+This Cantrip allows the player to consume raw meat-type [Food](Food.md) items without vomiting. Even still, eating raw meat isn't very recommended, as the cooked versions provide significantly more sustenance and may grant additional buffs on consumption.
+
+[Vegetarian](Boons_and_Flaws.md#vegetarian) Bloodrenders may still vomit upon comsuming meat-type Food items.
 
 ## Mantras
 

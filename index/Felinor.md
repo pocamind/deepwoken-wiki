@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 199685
+revid: 204200
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -121,14 +121,14 @@ Felinors have cat ears with optional ear fluff. The color of the fluff, as well 
 ## Trivia
 
 -   When wearing earrings, they appear on the cat ears.
--   The color of a sphynx Felinor's ears is based on their skin color instead of their hair color. This is a reference to to real-life sphynx cats being bald.
+-   The color of a sphynx Felinor's ears is based on their skin color instead of their hair color. This is a reference to real-life sphynx cats being bald.
 -   When wearing a helmet or hat, it will not hide the cat ears, instead they will go through the headwear.
 -   For April Fools 2022 ([Mudwoken](Mudwoken.md)), Felinors had their aspect name changed to "Abomination", which is unique compared to the other aspect names that were changed.
     -   This _may_ be because of the disdain the community shows towards them.
 -   The [stealth](Stealth.md) gain multiplier applies to negative stealth gain as well, making the [Obvious](Boons_and_Flaws.md#obvious) Flaw grant -24% stealth. This becomes a net -4% stealth due to the innate 20% stealth that Felinor's start with.
 -   "Felinor" comes from the word _Feline_, which means cat or another member of the cat family i.e. lion, tiger, lynx.
 -   Felinor wasn't even intended to be added to the game, and was originally an inside joke mocking cat-themed Kemonomimis, a concept very popular in anime and thus widely looked down upon outside of it.[\[1\]](#cite-note-1)
--   Felinor will say things such as "Me-ow!" when engaging combat, as opposed to other aspects.
+-   Felinor will say things such as "Me-ow!" and "Nyah!" when engaging combat, as opposed to other aspects.
 -   Felinors have their own [theme](https://soundcloud.com/naktigonis/no-time-for-paws) which was made as a joke before their existence was even a thing, therefore making them the first and so far only aspect to have a dedicated theme, although the song itself does not appear anywhere ingame.
 
 ## References

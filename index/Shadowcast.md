@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 200605
+revid: 204191
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -33,20 +33,28 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At 30 Shadowcast, players will receive the _Expert Shadowcaster_ Talent. This allows players to obtain 2-star Shadowcast Mantras.
 -   Finally, at 50 Shadowcast, players will receive the _Master Shadowcaster_ Talent. This allows players to obtain 3-star Shadowcast Mantras.
 
-Shadowcast Mantras are upgraded at the [Attunement Trainers](Attunement_Trainers.md) [Nostor](Nostor,_Master_of_Shadow.md) or [Beatra](Beatra.md).
+You can speak to [Nostor](Nostor,_Master_of_Shadow.md) in [Lost Celtor](Lost_Celtor.md), [Beatra](Beatra.md) at the [Derelict Highchurch](Derelict_Highchurch.md), or a [Mantra Lectern](Mantra_Lectern.md) to upgrade your Shadowcast Mantras for 100 each. Each upgrade purchased will make the next upgrade for the same Mantra 100 more expensive.
 
 -   To upgrade a Shadowcast Mantra from level 1 to level 2 costs 100 and 20 Shadowcast investment.
 -   To upgrade a Shadowcast Mantra from level 2 to level 3 costs 200 and 40 Shadowcast investment.
 -   To upgrade a Shadowcast Mantra from level 3 to level 4 costs 300 and 60 Shadowcast investment.
 -   To upgrade a Shadowcast Mantra from level 4 to level 5 costs 400 and 80 Shadowcast investment.
 
-Upgrading your Mantras with the [Songwright](Songwright.md) NPC will cost 50% more Notes.
-
 [Shadowcast Unbound](Attributes_Unbound.md#attunement-unbound) can be obtained by defeating any humanoid [boss](Bosses.md) (Duke, Chaser, Ferryman, etc), while having 75 points invested into the attunement.
 
 ### Mantra Damage Calculation
 
 The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#mantra-damage-calculation) page. Alternatively, use this **[Desmos calculator](https://www.desmos.com/calculator/xoovzbiltk)**.
+
+## Cantrip(s)
+
+Cantrips are, often minor, passive abilities that are granted upon obtaining any Mantra from the respective Attunement.
+
+### Night Vision
+
+This Cantrip increases the brightness in dark locations, allowing the player to see better in low-light environments.
+
+This Cantrip's effect is either extremely minor, or it does not currently work.
 
 ## Mantras
 

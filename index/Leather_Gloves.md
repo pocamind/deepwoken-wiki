@@ -1,6 +1,6 @@
 ---
 title: Leather Gloves
-revid: 176480
+revid: 204141
 source: https://deepwoken.fandom.com/wiki/Leather_Gloves
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Gloves]
@@ -24,7 +24,7 @@ categories: [Equipment, Arms, Gloves]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Erisia, Chime of Conflict, Brainsucker, Lodestar, First Layer, Sea Events, Other sources:, Tutorial, Starter Equipment Echo Unlock |
-| description | ... |
+| description | A pair of leather gloves. One size fits all, I guess? |
 
 ## Description
 

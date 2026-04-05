@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 203475
+revid: 204194
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -37,20 +37,28 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At 30 Flamecharm, players will receive the _Expert Flamecharmer_ Talent. This allows players to obtain 2-star Flamecharm mantras.
 -   Finally, 50 Flamecharm, players will receive the _Master Flamecharmer_ Talent. This allows players to obtain 3-star Flamecharm Mantras.
 
-You can speak to [Amashi](Amashi,_Master_of_Flame.md) to upgrade your Flamecharm Mantras for 100 Notes each. Each upgrade purchased will make the next upgrade for the same Mantra 100 Notes more expensive.
+You can speak to [Amashi](Amashi,_Master_of_Flame.md) at [Songseeker Wilds](Songseeker_Wilds.md) or a [Mantra Lectern](Mantra_Lectern.md) to upgrade your Flamecharm Mantras for 100 each. Each upgrade purchased will make the next upgrade for the same Mantra 100 more expensive.
 
 -   Upgrading a Flamecharm Mantra from level 1 to level 2 costs 100 and requires 20 Flamecharm investment.
 -   Upgrading a Flamecharm Mantra from level 2 to level 3 costs 200 and requires 40 Flamecharm investment.
 -   Upgrading a Flamecharm Mantra from level 3 to level 4 costs 300 and requires 60 Flamecharm investment.
 -   Upgrading a Flamecharm Mantra from level 4 to level 5 costs 400 and requires 80 Flamecharm investment.
 
-Purchasing Mantra levels will cost 50% more Notes when using the [Songwright](Songwright.md) NPC.
-
 [Flamecharm Unbound](Attributes_Unbound.md#attunement-unbound) can be obtained by defeating any humanoid [boss](Bosses.md) (Duke, Chaser, Ferryman, etc), while having 75 points invested into the attunement.
 
 ### Mantra Damage Calculation
 
 The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#mantra-damage-calculation) page. Alternatively, use this **[Desmos calculator](https://www.desmos.com/calculator/xoovzbiltk)**.
+
+## Cantrip(s)
+
+Cantrips are, often minor, passive abilities that are granted upon obtaining any Mantra from the respective Attunement.
+
+### Produce Spark
+
+This Cantrip allows the player to light [Campfires](Campfire_Pit.md) without [Flint](Flint.md).
+
+This Cantrip is shared with [Thundercall](Thundercall.md).
 
 ## Mantras
 

@@ -1,6 +1,6 @@
 ---
 title: Legion Intelligence
-revid: 172325
+revid: 204202
 source: https://deepwoken.fandom.com/wiki/Legion_Intelligence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Quest Item]
@@ -36,3 +36,7 @@ Legion Intelligence
 > IN LIGHT OF THE CIRCVMSTANCES, THERE HAS BEEN A SHIFT IN PRIORITIES. A CHALLENGING DECISION HAS BEEN TAKEN TO DELAY YOVR FREEDOM IN FAVOVR OF THE IMPROVEMENT OF OVR STRATEGIC ODDS. WE ASK FOR YOVR FAMED PATIENCE DURING THIS TIME. YOVR LOYALTY AND DRIVE AMONGST THE HVNDRED LEGIONS IS FOREVER APPRECIATED.
 > 
 > AVDENTES FORTVNA IVVAT
+
+## Trivia
+
+-   The quote "AVDENTES FORTVNA IVVAT" is a Latin proverb for "fortune favors the bold".

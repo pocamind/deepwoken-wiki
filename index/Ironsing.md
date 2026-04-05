@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 197955
+revid: 204196
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -39,7 +39,7 @@ The easiest way to obtain all of the required ores without visiting [The Depths]
 
 ## Training
 
-Ironsing can be trained with a combination of the Ferrofluid and Ironsing Mantras.
+Ironsing can be trained with a combination of the [Ferrofluid](Training_Gear.md#attunement-training-gears) and Ironsing Mantras.
 
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 
@@ -48,20 +48,34 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At 30 Ironsing, players will receive the _Expert Ironsinger_ Talent. This allows players to obtain 2-star Ironsing Mantras.
 -   Finally, at 50 Ironsing, players will receive the _Master Ironsinger_ Talent. This allows Ironsing users to obtain 3-star Ironsing Mantras.
 
-You can speak to [Adar](Adar,_Master_of_Metal.md) at [Miner's Landing](<Miner's_Landing.md>) to upgrade your Ironsing Mantras for 100 each. Each upgrade purchased will make the next upgrade for the same mantra 100 more expensive.
+You can speak to [Adar](Adar,_Master_of_Metal.md) at [Miner's Landing](<Miner's_Landing.md>) or a [Mantra Lectern](Mantra_Lectern.md) to upgrade your Ironsing Mantras for 100 each. Each upgrade purchased will make the next upgrade for the same Mantra 100 more expensive.
 
 -   To upgrade a Ironsing Mantra from level 1 to level 2 costs 100 and 20 Ironsing investment.
 -   To upgrade a Ironsing Mantra from level 2 to level 3 costs 200 and 40 Ironsing investment.
 -   To upgrade a Ironsing Mantra from level 3 to level 4 costs 300 and 60 Ironsing investment.
 -   To upgrade a Ironsing Mantra from level 4 to level 5 costs 400 and 80 Ironsing investment.
 
-Purchasing Mantra levels will cost 50% more Notes when using the [Songwright](Songwright.md) NPC.
-
 [Ironsing Unbound](Attributes_Unbound.md#attunement-unbound) can be obtained by defeating any humanoid [boss](Bosses.md) (Duke, Chaser, Ferryman, etc), while having 75 points invested into the attunement.
 
 ### Mantra Damage Calculation
 
 The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#mantra-damage-calculation) page. Alternatively, use this **[Desmos calculator](https://www.desmos.com/calculator/xoovzbiltk)**.
+
+## Cantrip(s)
+
+Cantrips are, often minor, passive abilities that are granted upon obtaining any Mantra from the respective Attunement.
+
+### Ore Siphon
+
+This Cantrip allows the player to mine [Ores](Ores.md) with their Ironsing abilities, taking priority over their [Pickaxe](Pickaxe.md) if they have one. Ore Siphon's visual effect will become yellow if the user has Scrapsinfer.
+
+Currently does not work on [Saramaed Hollow](Saramaed_Hollow.md) fuel.
+
+### Well-Welded
+
+This Cantrip hides all visual tears the player's [Outfit](Outfits.md) gains when their armor durability is low. This is purely visual.
+
+The [Not a Scratch](Talents.md#not-a-scratch) Talent also provides this effect, among other things.
 
 ## Mantras
 

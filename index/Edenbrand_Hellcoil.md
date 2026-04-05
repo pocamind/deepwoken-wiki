@@ -1,6 +1,6 @@
 ---
 title: Edenbrand Hellcoil
-revid: 196781
+revid: 204198
 source: https://deepwoken.fandom.com/wiki/Edenbrand_Hellcoil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Heavy Weapons, Greatcannons, "Weapons with Multi-Hit Criticals"]
@@ -55,5 +55,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talent](Talents.
 
 -   The weapon has a "Unique" rarity, despite this it is droppable and bankable.
 -   The Edenbrand Hellcoil is the first Greatcannon to be added to Deepwoken.
--   Edenbrand Hellcoil's critical is the only attack in the game that deals true damage, completely ignoring **all** resistances.
 -   Edenbrand Hellcoil's critical bypasses and deals damage through [Duke's](Duke_Ishamon_Erisia.md) phase 1 shield.

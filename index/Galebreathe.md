@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 203401
+revid: 204193
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -37,20 +37,28 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At 30 Galebreathe, players will receive the _Expert Galebreather_ Talent. This allows players to obtain 2-star Galebreathe Mantras.
 -   Finally, at 50 Galebreathe, players will receive the _Master Galebreather_ Talent. This allows players to obtain 3-star Galebreathe Mantras.
 
-Galebreathe Mantras are upgraded at the [Attunement Trainers](Attunement_Trainers.md) and [Friid](Friid,_Master_of_Gale.md).
+You can speak to [Friid](Friid,_Master_of_Gale.md) at the [Isle of Vigils](Isle_of_Vigils.md) or a [Mantra Lectern](Mantra_Lectern.md) to upgrade your Galebreathe Mantras for 100 each. Each upgrade purchased will make the next upgrade for the same Mantra 100 more expensive.
 
 -   To upgrade a Galebreathe Mantra from level 1 to level 2 costs 100 and requires 20 Galebreathe investment.
 -   To upgrade a Galebreathe Mantra from level 2 to level 3 costs 200 and requires 40 Galebreathe investment.
 -   To upgrade a Galebreathe Mantra from level 3 to level 4 costs 300 and requires 60 Galebreathe investment.
 -   To upgrade a Galebreathe Mantra from level 4 to level 5 costs 400 and requires 80 Galebreathe investment.
 
-Upgrading your Mantras with the [Songwright](Songwright.md) NPC will cost 50% more Notes.
-
 [Galebreathe Unbound](Attributes_Unbound.md#attunement-unbound) can be obtained by defeating any humanoid [boss](Bosses.md) (Duke, Chaser, Ferryman, etc), while having 75 points invested into the attunement.
 
 ### Mantra Damage Calculation
 
 The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#mantra-damage-calculation) page. Alternatively, use this **[Desmos calculator](https://www.desmos.com/calculator/xoovzbiltk)**.
+
+## Cantrip(s)
+
+Cantrips are, often minor, passive abilities that are granted upon obtaining any Mantra from the respective Attunement.
+
+### Batch Harvest
+
+This Cantrip allows the player to batch harvest multiple of the same ingredient at once if there are others of that ingredient nearby. For example, if there are three [Dentifilos](Dentifilo.md) that spawned close together, harvesting one will collect all three.
+
+This does not work on [Ores](Ores.md).
 
 ## Mantras
 

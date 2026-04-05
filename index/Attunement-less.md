@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 204123
+revid: 204143
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -29,8 +29,6 @@ The Attunement-less Mantra trainer [Regek](Regek.md) can be found at [Greathive 
 -   All of the Soulblooms can be found at the top of the tree, in Canopy Plaza.
 -   2 of them are located in the Blacksmith's area.
 -   1 is located outside of the Observatory.
-
-Alternatively, you can use the [Songwright](Songwright.md) in the Guild Base, but the Songwright will charge you 50% more Notes to upgrade your Mantras.
 
 Once completed, the user can upgrade their Attunement-less Mantras by speaking to the trainer and paying an increasing sum of notes for each Mantra level. NOTE:
 
@@ -1380,7 +1378,7 @@ N/A
 
 -   These Mantras are based on the number of weapon points you have, not your attribute or Attunement.
 -   Their damage scales with the amount of weapon points you have.
--   To increase the damage/level cap, increase your weapon mastery by reading a "Weapon Manual" (only to allocate stats, it cannot be used to train), parry, block and hit enemies with your weapon.
+-   To increase the damage/level cap, increase your weapon mastery by reading a "Weapon Manual", parry, block and hit enemies with your weapon.
 
 ### _Light Weapon Mantras_
 
