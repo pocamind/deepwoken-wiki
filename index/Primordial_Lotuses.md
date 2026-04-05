@@ -1,6 +1,6 @@
 ---
 title: Primordial Lotuses
-revid: 176061
+revid: 204092
 source: https://deepwoken.fandom.com/wiki/Primordial_Lotuses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients, Harvestables]
@@ -95,6 +95,8 @@ Two of the same Primordial Lotuses can be crafted together to create Attribute F
 ## Miasmic Lotus
 
 [Miasmic Lotuses](Primordial_Lotuses.md#miasmic-lotus) can be found at the [Ancient Rotlands](Ancient_Rotlands.md).
+
+This item cannot be banked.
 
 ## Trivia
 

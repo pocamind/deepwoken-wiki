@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 200776
+revid: 204093
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -56,4 +56,4 @@ If Payback is corrupted, it gains lifesteal from the reflected damage, equal to 
 -   The best way to counter beam variant payback resonance is by using the instant/delayed variant payback. This usually will reflect the multiplied damage on top of multiplying it, the strategy can be used against jar of souls resonance if possible
 -   Prediction mantra but better with a higher duration.
 -   Payback beam variant can be used for damage redirection which differs it from other 2 variations due to the other variants being limited to reflect damage to those who attack the user whilst the beam variant can redirect damage to multiple targets if given the amount of enemies to can hit.
--   Executing someone while Payback is on allows you to confirm it,as you can't be interrupted even if you get hits. (Need more testing)
+-   Executing someone while Payback is on allows you to confirm it,as you can't be interrupted even if you get hit.

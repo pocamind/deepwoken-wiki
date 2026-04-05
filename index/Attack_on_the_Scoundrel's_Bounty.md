@@ -1,6 +1,6 @@
 ---
 title: "Attack on the Scoundrel's Bounty"
-revid: 199733
+revid: 204091
 source: https://deepwoken.fandom.com/wiki/Attack_on_the_Scoundrel's_Bounty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Articles with conjectural titles, Battles]

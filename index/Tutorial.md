@@ -1,6 +1,6 @@
 ---
 title: Tutorial
-revid: 204071
+revid: 204083
 source: https://deepwoken.fandom.com/wiki/Tutorial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guides, Mechanics]
@@ -31,7 +31,7 @@ The Scoundrel's Bounty getting bombed, ending the tutorial
 
 ## Trivia
 
--   Orlandeu used to give the player a [Vanguard Brace](Vanguard_Brace.md) instead of Leather Gloves, but during the October 11, 2024 update, this armor piece was given a Power requirement, briefly softlocking all players attempting to complete the Tutorial.
+-   Orlandeau used to give the player a [Vanguard Brace](Vanguard_Brace.md) instead of Leather Gloves, but during the October 11, 2024 update, this armor piece was given a Power requirement, briefly softlocking all players attempting to complete the Tutorial.
 -   Orlandeau's Emerald is worth 30 Notes.
 -   By leaving during the tutorial you can redo it, which has a number of effects in it. The most notable one is Orlandeau's Emerald being renamed to "Orlandeau's Pity Emerald", it's description going from "The non-chaotic variety" to "Smart one, huh?" and being worth only 1 Notes, to avoid the player using this as an infinite money glitch (found randomly through experimenting). You will only be given "Orlandeau's Pity Emerald" once per character.
 -   You cannot sell the Dumbbell to the antiquarian as it would be a net profit of 2 notes.

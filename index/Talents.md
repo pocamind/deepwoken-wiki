@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 204073
+revid: 204076
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -976,7 +976,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   _Knife's Journey_ \[Rare Talent, Light Weapon\] - Daggers Cancelling an enemy's Mantra windup with your Basic Attacks now deals 15% more damage
     -   Displays a red particle on the target enemy after proccing.
-    -   Though not mentioned in the Talent description, Daggers gain a 15% chance to **critically hit** on basic attacks, dealing 5x damage.
+    -   Though not mentioned in the Talent description, Daggers gain a 15% chance to **critically hit** on basic attacks in PVE, dealing 5x damage.
         -   This does **not** work on non-Dagger weapons via Switchblade. Additionally, [Moppet](Moppet.md)'s critical attack cannot critically hit.
         -   Critical **hits** do **not** proc "on critical **attack**" Talents.
     -   Prerequisite: 30 Light Weapon
