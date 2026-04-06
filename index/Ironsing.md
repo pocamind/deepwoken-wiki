@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 204251
+revid: 204253
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -67,7 +67,7 @@ Cantrips are, often minor, passive abilities that are granted upon obtaining any
 
 ### Ore Siphon
 
-This Cantrip allows the player to mine [Ores](Ores.md) with their Ironsing abilities, taking priority over their [Pickaxe](Pickaxe.md) if they have one. Ore Siphon's visual effect will become yellow if the user has Scrapsinfer.
+This Cantrip allows the player to mine [Ores](Ores.md) with their Ironsing abilities, taking priority over their [Pickaxe](Pickaxe.md) if they have one. Ore Siphon's visual effect will become yellow if the user has [Gilded Path: Scrapsinger](Talents.md#gilded-path-scrapsinger).
 
 Currently does not work on [Saramaed Hollow](Saramaed_Hollow.md) fuel.
 

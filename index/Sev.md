@@ -1,6 +1,6 @@
 ---
 title: Sev
-revid: 199920
+revid: 204255
 source: https://deepwoken.fandom.com/wiki/Sev
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Eastern Luminant]
@@ -27,7 +27,7 @@ Sev can be given 25 [Crowns](Crowns.md) to permanently unlock "Manycolored Equip
 
 Their appearance is unique as they have multicolored crown shaped eyes and blue skin. They wear a green [Party Hat](Party_Hat.md) and the [Cala-Mariner](Cala-Mariner.md) outfit. Their crown also emits multicolored particles.
 
-Manycolored Equipment **cannot** dye [Oath](Oaths.md) cosmetics, hair, eyes, [Aspect](Aspects.md) features, [Resonance](Resonance.md) bells, or [Outfits](Outfits.md). You will still need to visit a [Barber](Barber.md) to remove dyes.
+Manycolored Equipment is an account-wide unlock and **cannot** dye [Oath](Oaths.md) cosmetics, hair, eyes, [Aspect](Aspects.md) features, [Resonance](Resonance.md) bells, or [Outfits](Outfits.md). You will still need to visit a [Barber](Barber.md) to remove dyes.
 
 ## Location
 

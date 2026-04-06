@@ -1,6 +1,6 @@
 ---
 title: Guardian Helmet
-revid: 176449
+revid: 204256
 source: https://deepwoken.fandom.com/wiki/Guardian_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -13,7 +13,6 @@ categories: [Equipment, Head, Helmets]
 | type | Head |
 | rarity | Uncommon |
 | selling price | 14 |
-| requirements | 10 FTD |
 | weight | 1 |
 | innate stats | +5 Health+1 Posture |
 | innate talent | N/A |

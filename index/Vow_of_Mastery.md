@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 202577
+revid: 204258
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Vows, Mechanics]
@@ -230,7 +230,7 @@ You will **lose access** to this command if you do not meet its Charisma require
  | Forces the Subject to travel directly back to the master, phasing through all objects.
 
 -   Works on unconscious players, cancelling the knocked state and grips, but does not work if the subject is being carried.
--   Has a range limit of 25 studs.
+-   Has a range limit of roughly 155 studs.
 -   Works even if the subject(s) are under the effects of [True Hyperarmor](Status_Effects.md#true-hyperarmor).
 -   This command has a 20 second cooldown.
 

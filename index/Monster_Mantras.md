@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 203563
+revid: 204257
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -203,6 +203,7 @@ Slash
 
 -   This mantra deals 90 damage to ships.
 -   This mantra has ~4 damage per hit with 8 hits, totalling for ~32 damage
+-   This mantra has ~9.18x PvE scaling
 
  |
 | 

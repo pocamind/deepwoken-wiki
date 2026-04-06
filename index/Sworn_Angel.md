@@ -1,6 +1,6 @@
 ---
 title: Sworn Angel
-revid: 201881
+revid: 204254
 source: https://deepwoken.fandom.com/wiki/Sworn_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Humanoids with Unobtainable Outfits, Humanoid Monsters]
@@ -20,7 +20,7 @@ categories: [Enemies, Enemies that can wield Enchantments, Humanoids with Unobta
 
 ## Description
 
-**Sworn Angels**, previously known as **Angels**, are white and dull-yellow humanoid creatures with wings. They wield the [Crazy Slots](Crazy_Slots.md) Divine Spears and use Crazy Slots' Divine Spear light shots ability. Sworn Angels currently only spawn as the fifth challenge in the [Trial of One](Trial_of_One.md) by the Voice of Solitude and from the 10th wave of [The Diluvian Mechanism](The_Diluvian_Mechanism.md). Sworn Angels can also spawn with enchants which differentiate them from their [Hollow](Hollow_Angel.md) counterparts.
+**Sworn Angels**, previously known as **Angels**, are white and dull-yellow humanoid creatures with wings. They wield the Soulwrought Spear from the [Crazy Slots](Crazy_Slots.md) [Resonance](Resonance.md) and use Crazy Slots' Soulwrought Spear light shots ability. Sworn Angels currently only spawn as the fifth challenge in the [Trial of One](Trial_of_One.md) by the Voice of Solitude and from the 10th wave of [The Diluvian Mechanism](The_Diluvian_Mechanism.md). Sworn Angels can also spawn with enchants which differentiate them from their [Hollow](Hollow_Angel.md) counterparts.
 
 ## Moveset
 
