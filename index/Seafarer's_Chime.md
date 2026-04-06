@@ -1,9 +1,11 @@
 ---
 title: "Seafarer's Chime"
-revid: 173709
+revid: 204262
 source: https://deepwoken.fandom.com/wiki/Seafarer's_Chime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Tools]
+categories: [Cut Content, Items, Tools]
+notices:
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # Seafarer's Chime
@@ -20,7 +22,7 @@ categories: [Items, Tools]
 
 ## Description
 
-The Seafarer’s Chime is an item granted upon building your first [boat](Ships_&_Sailing.md). It allows you to spawn your boat anywhere, granted you are standing on solid ground and near water.
+The Seafarer’s Chime was an item granted upon building your first [boat](Ships_&_Sailing.md). It allowed you to spawn your boat anywhere, granted you are standing on solid ground and near water. In the April 6th, 2026 update, it was removed and was replaced by a keybind.
 
 ## Trivia
 

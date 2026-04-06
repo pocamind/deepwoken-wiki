@@ -1,6 +1,6 @@
 ---
 title: "Scoundrel's Saber"
-revid: 192953
+revid: 204264
 source: https://deepwoken.fandom.com/wiki/Scoundrel's_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Medium Weapons, Swords, Weapons with Unique Criticals]
@@ -35,7 +35,7 @@ categories: [Weapons, Criticals with M1 tag, Medium Weapons, Swords, Weapons wit
 
 ## Description
 
-The Scoundrel's Saber is a Medium Sword weapon sold exclusively by [Traan Zakshun](Traan_Zakshun.md) at a price of 650.
+The Scoundrel's Saber is a Medium Sword weapon sold exclusively by [Traan Zakshun](Traan_Zakshun.md) at the price of 650.
 
 Obtainable in Vow of Iron in depth chests and through the strange merchant's resonance.
 

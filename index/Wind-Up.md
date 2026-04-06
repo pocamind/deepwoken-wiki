@@ -1,6 +1,6 @@
 ---
 title: "Wind-Up"
-revid: 184974
+revid: 204266
 source: https://deepwoken.fandom.com/wiki/Wind-Up
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -36,7 +36,7 @@ When a physical attack is landed while a charge is stored, the attack will be ac
 
 **Wind-Up** can execute NPCs and players if a certain amount of charges are stored.
 
-If Wind-Up is corrupted, the ability to execute knocked entities only requires 1 charge.
+If Wind-Up is corrupted, the ability to execute knocked entities only requires 1 charge. Additionally, it will count as a Flourish for the purpose of talent effects.
 
 ### _**Resonance Point Usage**_
 

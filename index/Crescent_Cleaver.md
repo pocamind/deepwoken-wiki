@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 202302
+revid: 204259
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, Alloyed Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -50,4 +50,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 ## Trivia
 
 -   Its Critical Attack is probably a reference to Shadow Fight 3's Shadow Ability, "Vane", as both share similar animations.
--   It is likely based on the Ngulu, a type of executioner's sword historically used in Africa.
+-   It is likely based on the [Ngulu](<https://en.wikipedia.org/wiki/Ngulu_(weapon)>), a type of executioner's sword historically used in Africa.

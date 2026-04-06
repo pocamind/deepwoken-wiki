@@ -1,6 +1,6 @@
 ---
 title: Primordial Lotuses
-revid: 204092
+revid: 204265
 source: https://deepwoken.fandom.com/wiki/Primordial_Lotuses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients, Harvestables]
@@ -63,7 +63,7 @@ categories: [Items, Ingredients, Harvestables]
 | value | 15 |
 | weight | 1 |
 | type | Ingredient |
-| bankable | Yes |
+| bankable | No |
 | droppable | Yes |
 | pass down | No |
 | desc | A primordial Lotus, capable of producing the rawest form of power itself. |
