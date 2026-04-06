@@ -1,6 +1,6 @@
 ---
 title: Saintsworn (Memento)
-revid: 203941
+revid: 204245
 source: https://deepwoken.fandom.com/wiki/Saintsworn_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -12,8 +12,8 @@ categories: [Vow of Iron Exclusive, Mementos]
 |---|---|
 | description | Harness the power of the heroes, wielding control over five attunements. |
 | unlock | Interact with the Saintsworn Obelisks with the corresponding Mementos:, Flamecharm: Flame Worshipper, Solborn, or Steampunk Soldier, Frostdraw: Saint Jay or Steampunk Soldier, Thundercall: Flashing Thunder, Galebreathe: Inheritor of the Gale, Shadowcast: Strange Merchant or Void Glutton |
-| starting attributes | 75 Flamecharm, 75 Thundercall, 75 Galebreathe, 75 Shadowcast, 2 Strength, 1 Fortitude, 1 Agility, 3 Intelligence, 1 Willpower |
-| final attributes | 100 Flamecharm, 100 Thundercall, 100 Galebreathe, 100 Shadowcast, 25 Strength, 10 Fortitude, 20 Agility, 50 Intelligence, 10 Willpower |
+| starting attributes | 75 Flamecharm, 75 Frostdraw, 75 Thundercall, 75 Galebreathe, 75 Shadowcast, 2 Strength, 1 Fortitude, 1 Agility, 3 Intelligence, 1 Willpower |
+| final attributes | 100 Flamecharm, 100 Frostdraw, 100 Thundercall, 100 Galebreathe, 100 Shadowcast, 25 Strength, 10 Fortitude, 20 Agility, 50 Intelligence, 10 Willpower |
 | starting traits | -3 Vitality, 1 Erudition, 1 Proficiency, 1 Songchant, 2 Dexterity |
 | final traits | 1 Vitality, 6 Erudition, 8 Proficiency, 7 Songchant, 6 Dexterity |
 | resonance | Chorus Divide |
@@ -1461,8 +1461,7 @@ Defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
 
 ## Trivia
 
--   Strangely, this Memento has 0 Frostdraw investment.
--   At Power 20, this Memento has the attribute invest equivalent of a Power 32 character. If the Memento _had_ Frostdraw investment, it'd have the attribute investment equivalent of a Power 39 character instead.
+-   Strangely, when this Memento initially released, it had 0 Frostdraw investment.
+-   At Power 20, this Memento has the attribute invest equivalent of a Power 39 character.
 -   Despite having [Stratoshock](Talents.md#stratoshock) as a starting Talent in the Thundercall Stance, it is also able to be purchased in the starting deck.
--   Clutching Shadow can be purchased in the starting shop as well as the [Power](Power.md) 5 shop.
--   Despite having [Wisp Convergence](Talents.md#wisp-convergence) and [Chorus of Souls](Talents.md#chorus-of-souls), those Talents will not work as [Oathless](Oath%253A_Oathless.md) is [Pathfinder](Pathfinder.md) exclusive.
+-   [Clutching Shadow](Shadowcast.md#clutching-shadow) can be purchased in the starting shop as well as the [Power](Power.md) 5 shop.

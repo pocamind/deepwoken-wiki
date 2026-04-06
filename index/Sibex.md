@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 201980
+revid: 204247
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, Individuals with They/them pronouns, NPCs, Mechanics, Humanoids with Unobtainable Outfits]
@@ -65,7 +65,7 @@ Sibex can be found sitting on a ledge overseeing [Summer Isle](Summer_Isle.md) t
 </tr>
 <tr>
   <td colspan="9">Wow... You really are full of yourself, huh?</td>
-  <td colspan="3">That's the spirit! How's about you do me a little errand? That nasty temple a little ways from here is full of Threshers, mind bringing me back a piece of one?</td>
+  <td colspan="3">That's the spirit! How's about you do me a little errand? That nasty temple a little ways from here is full of <a href="Thresher.md">Threshers</a>, mind bringing me back a piece of one?</td>
 </tr>
 <tr>
   <td colspan="9">[End Dialogue]</td>

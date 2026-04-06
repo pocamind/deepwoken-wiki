@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 202491
+revid: 204235
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -420,11 +420,8 @@ Most Monster attacks with this indicator are parryable with [Force Your Way](Ign
 
 **Player Attacks**
 
--   [Deepspindle](Deepspindle.md) standing critical multihits
--   Default Greatcannon critical (Shockwave)
 -   Corrupted [Chorus Divide](Chorus_Divide.md)
 -   [Fire Forge](Flamecharm.md#fire-forge) ([Tornado Spark](Mantra_Modifiers.md#sparks) variant)
--   [Kyrsieger](Kyrsieger.md) critical
 -   [Kyrswynter](Kyrswynter.md) running critical
 -   [Paralytic Dust](Paralytic_Dust.md) (Throw variant)
 -   [Relic Axe](Relic_Axe.md) critical
@@ -464,7 +461,11 @@ In some cases, Monster attacks with this indicator are parryable with [Force You
 
 -   [Ascension](Oath%253A_Starkindred.md#ascension)
 -   [Radiant Dawn](Oath%253A_Dawnwalker.md#radiant-dawn)
+-   [Deepspindle](Deepspindle.md) Standing Critical multihits
+-   [Kyrsieger](Kyrsieger.md) Critical
+-   Default Greatcannon Critical (shockwave)
 -   [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) Critical
+-   [Smouldering Hallow](Smouldering_Hallow.md) Critical
 -   [Ice Eruption](Frostdraw.md#ice-eruption)
 -   [Paralytic Dust](Paralytic_Dust.md) (Self-cast variant)
 -   [Stoneheart](Stoneheart.md) Critical
@@ -659,6 +660,8 @@ Some of these attacks have unique mechanics regarding how/if they can be avoided
 -   Red for [Bloodrend](Bloodrend.md)
 
 \*\*Possibly a bug, but [Titus](Titus_Fulminus_Destellus.md)' _Worldshattering Smackdown_ is dodgeable albeit having a green telegraph. Refer to [this video](https://streamable.com/h20tpc).
+
+  
 
 ## Status Effects
 

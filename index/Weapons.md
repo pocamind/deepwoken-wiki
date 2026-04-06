@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 203787
+revid: 204223
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -19,25 +19,24 @@ Weapons are the main tools used for attacking enemies in _Deepwoken_. They can b
 
 A weapon's damage will scale based on your investment of certain [Attributes](Attributes.md). Weapons often scale off of the same attributes required to wield them, mainly being the 3 weapon attributes, but may scale off of any attribute, such as the [Light's Final Toll](<Light's_Final_Toll.md>) scaling with Willpower, or even [Attunement](Attunements.md) attributes, such as the [Hero's Blade of Wind](<Hero's_Blade_of_Wind.md>) scaling with solely Galebreathe. Weapons may scale off of multiple attributes at once, as is the case with the [Gran Sudaruska](Gran_Sudaruska.md) scaling off of both Frostdraw and Heavy Weapon.
 
-When obtaining a weapon, it can come with up to 3 quality stars on it, which add either +2% extra damage per star, +5% extra penetration per star, or +4% weight (posture damage) per star.
+When obtaining a weapon, it can come with up to 3 quality stars on it, which add either +2% extra damage per star, +5% extra penetration per star, or +4% weight (posture damage/posture max) per star. Additionally, the sell price of a weapon increases by 5/20/50 based on the amount of quality stars.
 
 | Type | ★ | ★★ | ★★★ |
 | --- | --- | --- | --- |
 | Damage | +2% | +4% | +6% |
-| Weight (Posture damage) | +4% | +8% | +12% |
+| Weight | +4% | +8% | +12% |
 | Penetration | +5% | +10% | +15% |
-| Sell Price | +5 | +20 | +50 |
 
 It is best to obtain 3 quality stars for the weapon you want in order to maximize effectiveness. However, this may prove a tiresome task considering how rare a favourable weapon can be.
 
-Weapons can be [Enchanted](Enchantments.md), granting a special effect that increases its effectiveness. Enchanted weapons can be found from chests, or an enchant can be applied to a weapon by using an [Enchant Stone](Enchant_Stone.md). Enchanted weapons always have at least one quality star. (Re-equipping your weapon will add a star to it if it does not already have one.)
+Non-Legendary weapons can be [Enchanted](Enchantments.md), granting new, additional effects to the weapon, depending on the Enchant used. Enchanted weapons can be found from chests, or an enchant can be applied to a weapon by using an [Enchant Stone](Enchant_Stone.md). Enchanted weapons always have at least one quality star. (Re-equipping your weapon will add a quality star to it if it does not already have one.)
 
 All weapons within the game have the chance of being found with or without different Enchantments or qualities along with them. Even if the characteristics of your current weapon are not to your liking, there are multiple different mechanics in the game that can change the qualities of your weapon.
 
--   [Smith's Alloy](<Smith's_Alloy.md>), a relic that adds a star to your currently equipped weapon or extracts a motif. If you already have max stars (3), the bonus will be rerolled (Ex: 3 Star PEN - > 3 Star Weight).
--   [Laplace](Laplace.md), who will enchant your current weapon (whether it already has an enchantment or not) in exchange for 3 random enchantments (Works with both weapons and equipment even if they are soul bounded).
--   [Enchant Stones](Enchant_Stone.md), items that can be found in Layer 2, Maestro, Heart of Enmity, and Astral Knights guaranteeing a specific enchant.
--   [Deepshore Fossil](Deepshore_Fossil.md), an item enchanting your current weapon with any enchant of your choice aside from the Astral and Curse of Ysley's Ember enchants.
+-   [Smith's Alloy](<Smith's_Alloy.md>); a Relic that adds one quality star to your currently equipped main-hand weapon or extracts a [Motif](Motifs.md). If you already have max stars (3), the bonus will be rerolled (Ex: 3 Star PEN - > 3 Star Weight).
+-   [Laplace](Laplace.md); an NPC who will Enchant your current weapon (whether it already has an enchantment or not) in exchange for 3 Enchanted items.
+-   [Enchant Stones](Enchant_Stone.md); Relics that applies their respective enchantment to your currently equipped weapon.
+-   [Pluripotent Alloy](Pluripotent_Alloy.md); a Relic that Alloys eligible weapons, turning early to mid-game weapons into endgame variants with increased stats and requirements.
 
 **All Weapons**  
 
@@ -13011,25 +13010,25 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 
 -   **Requirements:** [Attribute(s)](Attributes.md) and/or [levels](Power.md) required to wield a weapon.
 -   **Base Damage:** Base weapon damage dealt with 0 investment in scaling attributes.
--   **Penetration:** Weapon damage% ignoring [armor](Outfits.md) resistances. For example 50% PEN vs 50% armor resistance = 25% damage dealt. PEN caps at 50%, but the cap can be removed with the Million Ton Piercer or Ether Overdrive Talents.
--   **Chip Damage:** A percentage of your weapon's scaled damage that goes through block. E.g. 20% chip w/ 30 damage = 6 damage to blocking opponents.
--   **Scaling:** Scaling for weapon attribute(s).
+-   **Penetration:** Weapon damage% ignoring [armor](Outfits.md) resistances. For example 50% PEN vs 50% armor resistance = 25% damage resisted. PEN caps at 50%, but the cap can be removed with the [Million Ton Piercer](Talents.md#million-ton-piercer) or [Ether Overdrive](Talents.md#ether-overdrive) Talents.
+-   **Chip Damage:** A percentage of your weapon's scaled damage that goes through block. E.g. 20% chip with 30 damage = 6 damage to blocking opponents. Chip damage is not affected by PEN, and cannot receive most damage modifiers. Attacks that guardbreak do not deal their chip damage.
+-   **Scaling:** Attribute scaling for weapons.
 -   **Weight:** Posture damage dealt. Weapons deal 10% more posture damage when two-handed.
 -   **Range:** Horizontal reach of a weapon (not counted by studs).
--   **Swing Speed:** Speed of basic weapon attacks (M1s). Compared to the default Sword swing speed of 1.00x.
+-   **Swing Speed:** Speed of basic weapon attacks (M1s), in reference to the default [Sword](<Sword_(weapon).md>) swing speed of 1x.
 -   **Endlag:** Additional lingering duration after a basic weapon attack (Self-stun after M1s). All weapons have endlag, these weapons have additional endlag.
--   **Scaled Damage:** Weapon damage dealt with full attribute scaling (100 points in each scaled attribute) and 6 [Proficiency](Traits.md#proficiency) (including bleed). This does not account for damage stars or above 100 attribute investment.
+-   **Scaled Damage:** Weapon damage dealt with full attribute scaling (100 points in each scaled attribute), 6 [Proficiency](Traits.md#proficiency), and innate [Bleed](Status_Effects.md#bleed) if applicable. This does not account for damage stars. Weapons that scale om 4 or more attributes will assume 330 point investment with optimal stats to maximize damage.
 -   Specific weapon terminology: These terms only apply to specific weapons
-    -   **FULL** and **BRKN/Shattered**: A term used specifically for the [Fractine](Fractine.md) weapon's two states of being, the full greatsword form and the broken/shattered dagger form that it becomes after the critical attack is used, changing its stats. This is (currently) exclusive to the [Fractine](Fractine.md) weapon.
+    -   **FULL** and **BRKN/Shattered**: A term used specifically for the [Fractine](Fractine.md) weapon's two states of being, the full greatsword form and the broken/shattered dagger form that it becomes after the critical attack is used, changing its stats. This is exclusive to the [Fractine](Fractine.md) weapon.
     -   **1H** and **2H**: A term used specifically for the [Ignition Deepcrusher](Ignition_Deepcrusher.md) weapon's two states being the Club (2H) and Sword (1H) that it becomes when stance swapping. These forms differ in stats. This is (currently) exclusive to the [Ignition Deepcrusher](Ignition_Deepcrusher.md) weapon.
     -   **GS**, **Dagger**, and **Both**: Terms used for [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), as the dagger M1s have light scaling instead of heavy. Both have Flamecharm scaling however. This is (currently) exclusive to the [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) weapon.
 -   **Alloyed Weapon:** Weapons stats from the [Alloyed](Pluripotent_Alloy.md) version. Stats which remain white are the same as the non-alloyed version.
 -   **Named Items:** Similar to Alloyed weapons, these weapons are enhanced variants of a normal weapon, having unique traits and differing stats from their base variants. Stats which remain white are the same as their non-Named versions.
 -   [**Bleed:**](Status_Effects.md#bleed) 5% of the weapon's scaled damage proccing 3 times over a 0.3 second period, causing a total of 15% more damage in 0.9 seconds. Bleed causes extra blood loss as well. The "**Scaled Damage**" shown with [bleed](Status_Effects.md#bleed) weapons is including the bleed damage. Multiply the final damage by 0.87 to find damage excluding bleed. Bleed damage is not affected by damage multipliers (excludes base modifiers and PVE scaling).
 -   **Hallowtide:** Weapons only obtainable during the [Hallowtide event](Hallowtide.md), which occurs yearly to celebrate Halloween, or with [Hallowtide Medals](Seasonal_Medals.md) at [Blacksmiths](Blacksmith.md) outside of the event. These weapons cannot be dropped but can be passed down normally through the [Hippocampal Pool](Hippocampal_Pool.md) located in the [Fragments of Self](Fragments_of_Self.md).
--   **Legendary:** Special weapons which can't be enchanted and are automatically soulbounded upon equipping them. These weapons cannot be passed down and or transferred without the use of 40 [Echoes](Echoes.md) (or through the [Bank](Item_Bank.md) for the cost of 1 [Knowledge](Knowledge.md) if soulbound).
-    -   **Relic:** Functionally identical to Legendary Weapons, but are crafted instead of being dropped by a mob or quest. These will be treated as Legendary Weapons as they are functionally identical with only differing drop sources.
--   **Boss Weapon:** Weapons that can only be obtained by killing certain [Bosses](Bosses.md).
+-   **Legendary:** Special weapons which cannot be enchanted and are automatically soulbounded upon being equipped. This is not to be confused with the 'Legendary' item rarity.
+    -   **Relic:** [Relic](Relics.md) rarity weapons that are functionally identical to Legendary Weapons, though they often have more unique obtainment methods, usually involving [crafting](Crafting_Recipes.md). These will be treated as Legendary Weapons as they are functionally identical with only differing drop sources.
+-   **Boss Weapon:** Weapons that can only be obtained by killing certain [Bosses](Bosses.md). Boss Weapons with additional tags (e.g. Legendary Weapon) will have the other tags prioritized instead.
 -   **Origin Weapon:** Weapons exclusive to a specific [Origin](Origins.md). These weapons often have unique obtainment methods.
 -   **Ability-bound Weapons:** Weapons gained from activating a specific ability. These weapons will replace your currently held weapon while active. These weapons may be granted from an [Oath](Oaths.md), [Talent](Talents.md), or a [Resonance](Resonance.md).
 -   **Vow of Iron Exclusive Weapons:** Weapons that are exclusively found in the [Vow of Iron](Vow_of_Iron.md) gamemode.

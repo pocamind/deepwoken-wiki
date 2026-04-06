@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 204206
+revid: 204244
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4343,6 +4343,9 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   On proc, you gain the Swift Strike status effect indefinitely. This effect will be consumed when you use your critical.
     -   The teleport has a range limit.
     -   20 second cooldown.
+
+-   True Seraph Slash: True Seraph's Spear - Landing the first hit of your critical attack enhances your next critical, giving you access to the Angels' spear smite ability.
+    -   This deals 0.5x your weapons scaled damage per hit (4), dealt as typeless damage.
 
 -   True Shatter: [Coldpoint](Coldpoint.md) - Landing a critical shatters your opponent, ridding them of their speed debuffs and dealing true damage scaling off how slow they were.
     -   Deals 5 true damage per slow effect removed.

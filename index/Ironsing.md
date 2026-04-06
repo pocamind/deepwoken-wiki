@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 204196
+revid: 204251
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -71,7 +71,7 @@ This Cantrip allows the player to mine [Ores](Ores.md) with their Ironsing abili
 
 Currently does not work on [Saramaed Hollow](Saramaed_Hollow.md) fuel.
 
-### Well-Welded
+### Stainless
 
 This Cantrip hides all visual tears the player's [Outfit](Outfits.md) gains when their armor durability is low. This is purely visual.
 
