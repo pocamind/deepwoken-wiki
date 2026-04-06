@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 204201
+revid: 204206
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2122,7 +2122,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Instigator
 
--   Enrage \[Common Talent, Unlockable Talent\] - Whenever you stun an opponent who's taunted with encore, enrage them. ( This is a Vow of Iron talent not a Pathfinder one )
+-   Enrage \[Common Talent, Unlockable Talent\] - Whenever you stun an opponent who's taunted with encore, enrage them.
     -   Unlock requirement: wipe while using the [Strange Merchant](Strange_Merchant.md) memento.
     -   Prerequisites: 65 charisma, Encore
 
