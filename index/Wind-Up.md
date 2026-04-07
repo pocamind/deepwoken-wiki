@@ -1,6 +1,6 @@
 ---
 title: "Wind-Up"
-revid: 204266
+revid: 204295
 source: https://deepwoken.fandom.com/wiki/Wind-Up
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -36,7 +36,7 @@ When a physical attack is landed while a charge is stored, the attack will be ac
 
 **Wind-Up** can execute NPCs and players if a certain amount of charges are stored.
 
-If Wind-Up is corrupted, the ability to execute knocked entities only requires 1 charge. Additionally, it will count as a Flourish for the purpose of talent effects.
+If Wind-Up is corrupted, the ability to execute knocked entities only requires 1 charge. Additionally, it will count as a _Flourish_ for the purpose of Talent and Mantra effects.
 
 ### _**Resonance Point Usage**_
 
@@ -53,4 +53,4 @@ When obtained, Wind-Up will spend its points on the following stats:
 -   Be very careful when near a cliff, as this has massive knockback, surpassing even Strong Left.
 -   Especially devastating on heavy weapons.
 -   When Corrupted, this Resonance is one of the best executors there are in the game. It only takes around one second to execute a downed player and it will out-speed [Preservation](Preservation.md) or [Blood Scourge](Blood_Scourge.md) Resonances.
--   It does not proc on Mantras. [Kyrsieger](Kyrsieger.md), [Wyrmtooth](Wyrmtooth.md), and [Imperator's Edge](<Imperator's_Edge.md>) critical also can't proc Wind-Up; It doesn't seem to work on criticals that ragdoll. Some Knockdown criticals work (like [Railblade](Railblade.md)), while other criticals like [Darksteel Greatsword](Darksteel_Greatsword.md) do not.
+-   It does not proc on Mantras. [Kyrsieger](Kyrsieger.md), [Wyrmtooth](Wyrmtooth.md), and [Imperator's Edge](<Imperator's_Edge.md>) criticals also can't proc Wind-Up; It doesn't seem to work on criticals that ragdoll. Some Knockdown criticals work (like [Railblade](Railblade.md)), while other criticals like [Darksteel Greatsword](Darksteel_Greatsword.md) do not.

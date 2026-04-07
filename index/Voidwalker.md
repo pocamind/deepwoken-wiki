@@ -1,6 +1,6 @@
 ---
 title: Voidwalker
-revid: 204111
+revid: 204271
 source: https://deepwoken.fandom.com/wiki/Voidwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Origins, Character, The Knives of Eylis]
@@ -31,7 +31,7 @@ To obtain the Voidwalker origin, the player must do the following:
 
 ## Spawn
 
-Voidwalkers spawn anywhere within the Etrean Luminant, with the [Whaler Initiate](Whaler_Initiate.md) Outfit and 25. To teleport into the Voidheart, players must use the "Voideye" tool. In order to exit the Voidheart, the player will have to speak to [The Voidmother](The_Voidmother.md) and choose the dialogue option "I wish to depart."
+Voidwalkers spawn anywhere within the Etrean Luminant, with the [Whaler Initiate](Whaler_Initiate.md) Outfit and 25. To teleport into the [Voidheart](Voidheart.md), players must use the "Voideye" tool. In order to exit the [Voidheart](Voidheart.md), the player will have to speak to [The Voidmother](The_Voidmother.md) and choose the dialogue option "I wish to depart."
 
 ## Effects
 
@@ -39,13 +39,13 @@ Successfully completing a bounty grants EXP and Full Training points based on th
 
 ### Voidwalker contract
 
--   _In-game description_: You progress much faster from completing bounties, and less from events. Gain access to the Voidheart, and factions have a negative outlook on you.
+-   _In-game description_: You progress much faster from completing bounties, and less from events. Gain access to the [Voidheart](Voidheart.md), and factions have a negative outlook on you.
 -   You get increased EXP gain from bounties and decreased EXP gain from everything else.
 -   Your starting [reputation](Reputation.md) with [The Children of Navae](The_Children_of_Navae.md), [The Kingdom of Etrea](Etrea.md) and [The Hive](The_Hive.md) will be set to "Enemies", which allows other Voidwalkers to take your bounties until you gain neutral reputation with [The Kingdom of Etrea](Etrea.md) and [The Hive](The_Hive.md).
 
 ### Voideye
 
--   _In-game description_: Voidmother's blessing, the method to travel back to the Voidheart.
+-   _In-game description_: Voidmother's blessing, the method to travel back to the [Voidheart](Voidheart.md).
 -   An ability that allows Voidwalkers to access the [Voidheart](Voidheart.md) by teleporting them.
 -   Upon using the ability the user will start floating in the air with black swirls appearing around them, after a ~7 seconds delay.
 -   This takes 1 minute to recharge. Completing a bounty will fully clear the Voideye's cooldown.

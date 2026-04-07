@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 204244
+revid: 204268
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1527,7 +1527,8 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   Orbital Ice \[Common Talent, Frostdraw\] - When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (Scales with Frostdraw)
     -   Durability of Orbital Ice is equal to "Frostdraw investment +10".
-    -   Cooldown of 90 seconds.
+    -   Cooldown of 90 seconds. The cooldown starts the moment you proc orbital ice, not when its broken.
+    -   Lasts 50 seconds if it is not broken
     -   If you have the Refreeze Talent from [Icebringer's Vestments](<Icebringer's_Vestments.md>), landing any ability that procs bottom freeze will reduce Orbital Ice's cooldown by 8 seconds. This procs regardless of Bottom Freeze's cooldown.
     -   Mutual Exclusive: Fists of Fortitude
         -   If you have the [Icebringer's Vestments](<Icebringer's_Vestments.md>) Outfit, you can bypass mutual exclusives and stack this with Fists of Fortitude.

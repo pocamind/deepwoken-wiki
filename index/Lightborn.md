@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 203108
+revid: 204281
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Aspects, Exclusive Aspects, Developer Spec, The Heavens]
@@ -37,6 +37,8 @@ Hybrids of Humans and [Celestials](Celestial.md), some of them once inhabited th
     <li><i>Return Home</i>
   <ul>
     <li>Teleports you to <a href="The_Floating_Keep.md">The Floating Keep</a>, using it while inside of the Floating Keep will instead take you back to where you used it.</li>
+    <li>Cannot be used while in combat.</li>
+    <li><b>This Talent is currently bugged in <a href="Vow_of_Iron.md">Vow of Iron</a>. The Talent Tool doesn't appear in your inventory.</b></li>
   </ul></li>
   </ul><hr></td>
 </tr>

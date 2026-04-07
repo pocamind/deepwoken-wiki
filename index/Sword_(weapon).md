@@ -1,6 +1,6 @@
 ---
 title: Sword (weapon)
-revid: 203259
+revid: 204276
 source: https://deepwoken.fandom.com/wiki/Sword_(weapon)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
@@ -36,7 +36,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 
 ## Description
 
-The Sword is the default medium weapon users start with beginning the game with a base damage of 18.
+The Sword is the default Medium Weapon players can choose to start with in [character creation](Character_Creation.md).
 
 ## Critical
 
@@ -47,4 +47,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 ## Trivia
 
 -   It is the most popular starter weapon used in the [Chime of Conflict](Chime_of_Conflict.md), as supported by official statistics posted on Deepwoken’s Twitter.
--   Unlike the other two base starting weapons, the Sword cannot be found in any chests.
+-   Unlike the other two non-unlockable starting weapons, the [Battleaxe](Battleaxe.md) and [Stiletto](Stiletto.md), the Sword cannot be obtained from any other source than being chosen in character creation.

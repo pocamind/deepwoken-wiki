@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 204194
+revid: 204277
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -866,7 +866,7 @@ _Leap up leaving behind a burst of flames._
  |
 | 
 
-35 Ether
+85 Ether
 
  | 
 

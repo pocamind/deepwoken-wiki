@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 204197
+revid: 204294
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -739,9 +739,9 @@ Ice + Blunt (Grab), Ice (Ice Chains)
 
 **Effect:** _User turns invisible and teleports to their opponent within a short range, on hit choking their opponent while they get hit by the ice chains._
 
--   Has a base damage of 6/7.2/8.4/9.6/10.8 per level, per hit (2) with 2.75 Frostdraw scaling.
--   The [Blast Spark](Mantra_Modifiers.md#sparks) variant deals 4.5/5.4/6.3/7.2/8.1 base damage per level, per hit (2) with 2.75 Frostdraw scaling.
--   Deals 3 posture damage per hit (2).
+-   Has a base damage of 6/7.2/8.4/9.6/10.8 per level, per hit (3) with 2.75 Frostdraw scaling.
+-   The [Blast Spark](Mantra_Modifiers.md#sparks) variant deals the same damage per level, per hit (3) with 2.75 Frostdraw scaling, however the ice pillars have a 20% less damage than the chains on the un-sparked version.
+-   Deals 3 posture damage per hit (3).
 -   Has a 10 second cooldown (3 seconds if whiffed entirely or if it didn't target anything).
 -   Has 9.176x PvE scaling (multiply scaled damage dealt by 9.176 for PvE damage).
 -   Applies an extremely long 12 second Chill at base.
@@ -1258,7 +1258,7 @@ These Talents are found in the _Cryomancer_ category.
 |  | Chilling Flourish  
 (30 Frostdraw) | When flourishing an enemy, they leave behind a trail of ice in the direction you send them. | Flourishing an enemy leaves behind 3-4 patches of ice on the ground. |
 |  | Condensation Drip  
-(15 Frostdraw, 20 Intelligence) | Passively collect condensation from the air, greatly reducing your thirst. (+4 Ether) | Approximately lower passive thirst gain by 3x. |
+(15 Frostdraw, 20 Intelligence) | Passively collect condensation from the air, greatly reducing your thirst. | Approximately lower passive thirst gain by 3x. |
 |  | Cool Head  
 (30 Frostdraw) | If set on fire while on ice, immediately put it out and gain the Cool Head status for 30s. During Cool Head, you cannot be lit on fire. 15s cooldown |  |
 |  | Fragile Freeze  
