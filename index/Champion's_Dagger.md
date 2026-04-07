@@ -1,6 +1,6 @@
 ---
 title: "Champion's Dagger"
-revid: 199624
+revid: 204372
 source: https://deepwoken.fandom.com/wiki/Champion's_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons, Weapons with Talents, Weapons of The Golden Rats]
@@ -52,5 +52,5 @@ Champion's Dagger uses the default Dagger critical, a series of 3 quick slashes.
 
 ## Trivia
 
--   This item is relatively rare, and is often not worth searching for when the alternatives are much more accessible.
+-   This item is relatively rare.
 -   The model of the Champion's Dagger is identical to the [Champion's Sword](<Champion's_Sword.md>) but smaller.

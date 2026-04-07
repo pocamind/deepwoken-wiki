@@ -1,6 +1,6 @@
 ---
 title: Etris Flask
-revid: 204291
+revid: 204371
 source: https://deepwoken.fandom.com/wiki/Etris_Flask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Items, Tools]
@@ -57,5 +57,5 @@ The Etris Flask at the [Viridian Sanctuary Ruins](Viridian_Sanctuary_Ruins.md) c
 
 ## Trivia
 
--   Etris Flasks are a reference to [Estus Flasks](https://darksouls.fandom.com/wiki/Estus_Flask) from the _Dark Souls_ series.
+-   Etris Flasks are a reference to [Estus Flasks](https://darksouls.fandom.com/wiki/Estus_Flask) from the _Dark Souls_ series. Both the concept and animations are directly lifted from the franchise.
 -   Etris Flasks cannot bypass [Wither](Status_Effects.md#wither).

@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 204281
+revid: 204375
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Aspects, Exclusive Aspects, Developer Spec, The Heavens]
@@ -38,7 +38,6 @@ Hybrids of Humans and [Celestials](Celestial.md), some of them once inhabited th
   <ul>
     <li>Teleports you to <a href="The_Floating_Keep.md">The Floating Keep</a>, using it while inside of the Floating Keep will instead take you back to where you used it.</li>
     <li>Cannot be used while in combat.</li>
-    <li><b>This Talent is currently bugged in <a href="Vow_of_Iron.md">Vow of Iron</a>. The Talent Tool doesn't appear in your inventory.</b></li>
   </ul></li>
   </ul><hr></td>
 </tr>
@@ -112,7 +111,6 @@ Lightborn has 6 halo colors and 3 three halo position variants.
     -   On the December 13th, 2025 update, the Lightborn aspect has been made obtainable by rerolls only through the [Vow of Iron](Vow_of_Iron.md) gamemode.
 -   According to Melonbeard, Sariel Moros, the only known Lightborn without the surname _Spellhardt,_ is said to be an exiled Lightborn who collaborated, or attempted to collaborate, with the Drowned Gods. It’s unclear how much of this is canon and is most likely just the developers’ edgier interpretation of the Lightborn aspect.
 -   The runes inscribed on the halo roughly translate to: "Be the mysterious light the few who were chosen.
--   Dyeing your halo when the "Arms" option is picked only dyes a singular halo, allowing for multi-colour dye.
 -   Like all other aspects, the starting points Lightborn has gets converted into freely allocable points after purchasing [Multifaceted](Echoes.md#upgrades-unlocks-and-modifiers). However, because Lightborn has _twelve_ starting points instead of the usual five, this increases your maximum investment point limit to 337. Much like [Khan](Khan.md), this allows Lightborn to have entirely aspect-exclusive builds.
 
 1.  [↑](#cite-ref-1) There is another surname, Moros, it is however only held by one rogue Lightborn.

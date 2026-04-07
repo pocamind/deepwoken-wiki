@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 204224
+revid: 204364
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -967,8 +967,6 @@ These Talents are found in the _Thundercaller_ category.
 (30 Thundercall) | You can now obtain 2-star Thundercaller mantras. | N/A |
 |  | Master Thundercaller  
 (50 Thundercall) | You can now obtain 3-star Thundercaller mantras. (+5 Health) | N/A |
-|  | Discovery of Fire  
-(50 Thundercall) | Flints and Flamecharm are for simpletons. | Grants the "Discovery of Fire" Talent tool. Using Discovery of Fire lights all nearby campfires, and burns people close by. Deals 3 Thundercall damage on hit with no Thundercall scaling. Has a 1 second delay between activation and the lightning strike occurring, allowing you to movestack this ability with most attacks. |
 |  | Kickstart  
 (50 Thundercall, 40 Fortitude // 40 Charisma) | Play the resurrector. Use your lightning to defibrillate your allies on the battlefield. | Grants the "Kickstart" Talent tool. Using Kickstart near a knocked player allows you to resuscitate them early, restoring 10% of their maximum health. |
 |  | Shocking Finish  
@@ -1011,7 +1009,7 @@ These Talents are found in the _Rampant Static_ category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Jolting Current  
-(35 Thundercall) | Your lightning attacks in water strike others near them with lightning. | Grants +4 Ether. |
+(35 Thundercall) | Your lightning attacks in water strike others near them with lightning. | N/A |
 
 **Jumpstarter:**
 
@@ -1044,7 +1042,7 @@ These Talents are found in the _Static Weaver_ category.
 |  | Static Link  
 (40 Thundercall, 15 Intelligence) | Flourishing or uppercutting an enemy creates a static link between you and your enemy. | N/A |
 |  | Jumper Cables  
-(40 Thundercall, 20 Fortitude, Static Link) | Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked. | Grants +1 Ether. |
+(40 Thundercall, 20 Fortitude, Static Link) | Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked. | Deals 30 true damage to the Jumpstart Target and replenishes 30 health to the caster on proc. |
 |  | Link Conduction  
 (65 Thundercall, 15 Intelligence, Static Link) | While you have active tethers your lightning mantras cost less ether. | N/A |
 |  | Static Ace  
@@ -1081,9 +1079,9 @@ These Talents are found in the _Thunder Caster_ category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Rain of Static  
-(30 Thundercall, Lightning Impact) | After successfully casting lightning impact, strike down countless thunder at those below. In return your Lightning Impact will require more time to cast. | Grants +7 Carry Load. Modifies the mantra Lightning Impact, increasing it's duration but grants it a ranged attack. |
+(30 Thundercall, Lightning Impact) | After successfully casting lightning impact, strike down countless thunder at those below. In return your Lightning Impact will require more time to cast. | Modifies the mantra Lightning Impact, increasing it's duration but grants it a ranged attack. |
 |  | Windup Battery  
-(30 Thundercall, 30 Intelligence) | Landing 3 Thundercall Mantras without whiffing reduces the windup of your next Mantra by 10%. (+7 Carry Load) | The windup reduction effect can be applied to non-Thundercall Mantras. |
+(30 Thundercall, 30 Intelligence) | Landing 3 Thundercall Mantras without whiffing reduces the windup of your next Mantra by 10%. | The windup reduction effect can be applied to non-Thundercall Mantras. |
 
 **Unstable Capacitor:**
 
