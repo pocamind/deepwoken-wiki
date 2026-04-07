@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 195597
+revid: 204351
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -132,6 +132,7 @@ High posture
 -   Deals ~100 damage.
 -   Only used if the player is in front of Primadon and not near his legs.
 -   If you were holding block before getting grabbed and during it's full duration you will not get damaged, this is quite buggy however and might not work.
+-   Cannot be parried even with Force Your Way.
 
 _Uses Telegraph_
 
