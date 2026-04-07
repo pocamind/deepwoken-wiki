@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 203418
+revid: 204308
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, OutdatedPages, SpoilerPages, Deepwoken]
@@ -837,7 +837,7 @@ A Knives of Eylis whaler assassin.
 -   The [Darksteel Greatsword](Darksteel_Greatsword.md),[\[10\]](#cite-note-dsgs-10) the Ignition Union being a mining organization, and the fact that [Deep Gems](Deep_Gems.md) drop only (excluding [Primadon](Primadon,_Titan_of_the_East.md)) from the Depths, we can conclude that the Ignition Union are experts at dealing with Depths monsters due to their occupation as a Depths mining organization.
 -   Much like their two main rivals, they are hired by [The Authority](The_Central_Authority.md), this time to "go into the Depths and kill anything that crawls out."
 -   The Ignition Union has bases in the First and Second Layers of the Depths.
-    -   Both bases are near and connected to a mechanism called the 'Deepdriller Mechanism' located at the Eternal Gale.
+    -   Both bases are near and connected to a mechanism called the '[Ignition Deepdrill](Ignition_Deepdrill.md)' located at the Eternal Gale.
 -   Deepdelver is a special rank in the Ignition Union for those who delve deep into the depths, and have proved their merit by helping others. Comparable to the Black Divers. However unlike Black Divers that are recognised by their strength, Deepdelvers are granted the rank if proven that they will give their life to help others.
 -   Likely a socialist organization, as shown by their group being a _union_ and [Arcwarder's](Oath%253A_Arcwarder.md) description referencing Karl Marx's quote "From each according to their ability, to each according to their needs."
     -   This is furthered by [Deepdelver Gamma](Deepdelver_Gamma.md) describing them in a sense that can be interpreted as classless.

@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 203182
+revid: 204338
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Legendary Weapons, "Attunement-based Weapons", Fists, Light Weapons, Weapons with multiple Criticals]
@@ -66,7 +66,7 @@ For the **standing** critical, the user winds up a barrage of six slashes, each 
 
 Standing crit DMG: 0.6x of M1 DMG (First hit) + 0.35x\*4 of M1 DMG (Middle hits) + 1x of M1 DMG (Last hit) + 10% aftercut DMG bonus
 
-For the **aerial** critical, the user quickly whirls in front of them, dealing 2x of M1 DMG + 10% aftercut bonus and a massive amount of posture damage. The critical can be also activated during [Gale Dash](Talents.md#gale-dash).
+For the **aerial** critical, the user quickly whirls in front of them, dealing 2x of M1 DMG + 10% aftercut bonus and a massive amount of posture damage. The critical can be also activated during [Gale Dash](Talents.md#gale-dash). This Critical counts as an uppercut & procs all "on uppercut talents".
 
 Both criticals share the cooldown of **10 seconds**.
 

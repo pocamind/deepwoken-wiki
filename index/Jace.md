@@ -1,6 +1,6 @@
 ---
 title: Jace
-revid: 203434
+revid: 204304
 source: https://deepwoken.fandom.com/wiki/Jace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, The Five Heroes, Deceased characters, Oath Trainer]
@@ -24,7 +24,7 @@ Jace was [the Hero of Flame](The_Five_Heroes.md), who wielded the [Hero's Blade 
 
 ## Trivia
 
-Hair ID is 133310757449536 and 8031222721
+-   Jace's hair IDs are 133310757449536 and 8031222721.
 
 ## References
 

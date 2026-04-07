@@ -1,8 +1,9 @@
 ---
 title: "High Inquisitor's Hood"
-revid: 202405
+revid: 204325
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment, Head, Hoods]
 ---
 
 # High Inquisitor's Hood

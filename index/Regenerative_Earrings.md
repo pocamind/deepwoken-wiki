@@ -1,6 +1,6 @@
 ---
 title: Regenerative Earrings
-revid: 202616
+revid: 204344
 source: https://deepwoken.fandom.com/wiki/Regenerative_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Set Bonuses]
@@ -44,7 +44,7 @@ The [Blood Convergence](Talents.md#blood-convergence) Talent grants 10% more hea
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent: [Critical Heal](Talents.md#critical-heal) - Every time you heal, you have a 5% chance to proc a Critical Heal, healing you 30 health. \[5 second CD\]
+Set Talent: [Critical Heal](Talents.md#critical-heal) - Everytime you heal, you have a chance to proc a Critical Heal, healing you 30 health. \[5 second CD\]
 
 The following sources of healing **cannot** proc Critical Heal:
 

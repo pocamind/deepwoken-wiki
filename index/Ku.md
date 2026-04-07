@@ -1,6 +1,6 @@
 ---
 title: Ku
-revid: 203050
+revid: 204318
 source: https://deepwoken.fandom.com/wiki/Ku
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Individuals with She/her pronouns]

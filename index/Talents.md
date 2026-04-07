@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 204268
+revid: 204341
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4816,9 +4816,8 @@ Certain Talents are given when you equip a full equipment set, though not all eq
     -   Ossified Black Set: [Ossified Black Helm](Ossified_Black_Helm.md), [Ossified Black Pauldrons](Ossified_Black_Pauldrons.md)
     -   Blackalloy Set: [Blackalloy Helm](Blackalloy_Helm.md), [Blackalloy Pauldrons](Blackalloy_Pauldrons.md)
 
--   Critical Heal: Regenerative Set / Trueblood Set - Every time you heal, you have a 5% chance to proc a Critical Heal, healing you 30 health.
+-   Critical Heal: Regenerative Set / Trueblood Set - Every time you heal, you have a chance to proc a Critical Heal, healing you 30 health. \[5 second CD\]
     
-    -   5 second cooldown.
     -   Regenerative Set: [Regenerative Pendant](Regenerative_Pendant.md), [Regenerative Earrings](Regenerative_Earrings.md)
     -   Trueblood Set: [Trueblood Pendant](Trueblood_Pendant.md), [Trueblood Earrings](Trueblood_Earrings.md)
 

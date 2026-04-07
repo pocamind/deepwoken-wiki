@@ -1,6 +1,6 @@
 ---
 title: The Hall of Shattered Wills
-revid: 199985
+revid: 204331
 source: https://deepwoken.fandom.com/wiki/The_Hall_of_Shattered_Wills
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Locations]
@@ -95,7 +95,7 @@ A map can be found at [Maps#The Hall of Shattered Wills](Maps.md#the-hall-of-sha
 
 ## Trivia
 
--   The music for this area is [Of Labours, Veiled](Deepwoken_OST.md#of-labours-veiled) by Naktigonis
+-   The music for this area is [Opulent, Imperial](Deepwoken_OST.md#additional-songs) by Naktigonis
 -   The sword is from one of Nuttoon's previous projects.[\[1\]](#cite-note-1)
 -   This location is located at the coordinates X 40000, Y 40000, Z 40000.
 -   The books The Ingenius Gentleman Duke Ishamon of Erisia and Book of a Mod Office Fixer reference the Spanish novel _[Don Quixote](https://en.wikipedia.org/wiki/Don_Quixote)_ and the general naming scheme of books in _Library of Ruina_ respectively.

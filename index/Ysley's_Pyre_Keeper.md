@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 203168
+revid: 204335
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", "Multi-Weapon Scaling", Heavy Weapons, Weapons with multiple Criticals]
@@ -54,7 +54,7 @@ Ysley's Pyre Keeper has five different criticals: Normal, Aerial, Crouching, Run
 
 For the **standing** critical, the user performs a slow slash followed by two faster slashes. This critical gives a speed boost for a small duration.
 
-For the **running** critical, the user rushes towards the target with both blades behind them. Upon hitting a target. they will be knocked down and diagonally split by the user. The critical cooldown will be cleared upon use, allowing to follow up into a chop similar to the Aerial critical.
+For the **running** critical, the user rushes towards the target with both blades behind them. Upon hitting a target. they will be knocked down and diagonally split by the user. The critical cooldown will be cleared upon use, allowing to follow up into a slash that counts as an uppercut.
 
 For the **aerial** critical, the user raises the greatsword into the air and chops the opponent downwards, guardbreaking them. This is followed up by an explosion that ragdolls and dazes the opponent.
 

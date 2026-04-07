@@ -1,6 +1,6 @@
 ---
 title: Faust
-revid: 203436
+revid: 204303
 source: https://deepwoken.fandom.com/wiki/Faust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Oath Trainer, The Five Heroes, Deceased characters]
@@ -24,7 +24,7 @@ notices:
 
 ## Trivia
 
-Hair ID is 17485090800
+-   Faust's hair ID is 17485090800.
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Tessa
-revid: 203435
+revid: 204302
 source: https://deepwoken.fandom.com/wiki/Tessa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, The Five Heroes, Deceased characters, Oath Trainer]
@@ -24,7 +24,7 @@ Tessa was [the Hero of Lightning](The_Five_Heroes.md), she wielded the [Hero's B
 
 ## Trivia
 
-Hair ID is 126552960791576
+-   Tessa's hair ID is 126552960791576.
 
 ## References
 

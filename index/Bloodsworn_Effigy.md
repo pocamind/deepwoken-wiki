@@ -1,6 +1,6 @@
 ---
 title: Bloodsworn Effigy
-revid: 196330
+revid: 204324
 source: https://deepwoken.fandom.com/wiki/Bloodsworn_Effigy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Weapons]
@@ -42,4 +42,4 @@ The Bloodsworn Effigy is an upcoming [Legendary](Weapons.md) spear. It takes the
 
 ## References
 
-1.  [↑](#cite-ref-1) [https://discord.com/channels/883838743172218891/888259230082146385/1397832862928998491](https://discord.com/channels/883838743172218891/888259230082146385/1397832862928998491)
+1.  [↑](#cite-ref-1)

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 203783
+revid: 204329
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ministry]
@@ -40,7 +40,7 @@ The Oath allows you to manipulate the Puppet Strings of [Zi'eer](The_Lord_Regent
 4.  Unlock your [Resonance](Resonance.md).
 5.  Go to the Depths and talk to [Yun'Shul's shrine](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). Ask it for a wish and then pick "What happened to this place?"
 
-1.  Go back to Regent and select "No, but I know of your true nature. I know you intend to repeat what happened in Celtor by drowning Etris." When he asks "...are you here to stop me?...", afterwards select "No, I came to join you." then, finish the dialogue and you will obtain the Oath **(Choosing the "Yes, I did." dialogue will kill you but not lock you from obtaining the Oath)**
+1.  Go back to Regent and select "No, but I know of your true nature. I know you intend to repeat what happened in Celtor by drowning Etris." When he asks "...are you here to stop me?...", afterwards select "No, I came to join you." then, finish the dialogue and you will obtain the Oath **(Choosing the "Yes, I did." dialogue will kill you and lock you from obtaining the Oath)**
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/ZNPA1u1I-WI) or consider using [this guide](https://docs.google.com/presentation/d/1S5p4sBCiRxKeBhj_WYiugtzEIl-ZuTL_YMuPqfQZRkU/edit?usp=sharing)._
 

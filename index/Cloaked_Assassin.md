@@ -1,6 +1,6 @@
 ---
 title: Cloaked Assassin
-revid: 176970
+revid: 204297
 source: https://deepwoken.fandom.com/wiki/Cloaked_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -11,7 +11,7 @@ categories: [Enemies, Ambush Enemies, Enemies that can wield Enchantments]
 | Cloaked Assassin | |
 |---|---|
 | health | 1000 |
-| drops | Assassin's CloakAssassin's HoodTheir weapon:, Whaling Knife, Krulian Knife, Champion's Dagger, Tanto |
+| drops | Assassin's Cloak, Assassin's Hood, Their weapon:, Whaling Knife, Krulian Knife, Champion's Dagger, Tanto |
 | weapon | Whaling Knife, Krulian Knife, Champion's Dagger, Tanto |
 | moves | Assault, Critical, Strong left, Revenge, Dash, Ice Daggers, Ice Eruption, Lightning Stream, Lightning Cloak, Clutching Shadow, Shadow Assault, Chain Pull |
 

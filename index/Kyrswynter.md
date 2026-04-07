@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 203188
+revid: 204336
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals]
@@ -59,7 +59,7 @@ The Kyrswynter has **two** different criticals.
 
 For the standing critical, the user pokes the spear forward, ragdolling enemies and knocking them back before conjuring a blast underneath their feet, knocking them away once more. Standing on the blast allows you to combo into an uppercut.
 
-The stab has a scaled damage multiplier of 1.4x, deals 20 posture damage, and has a windup of 0.65s. The blast has a scaled damage multiplier of 1.2x and has a windup of 1.3s after the stab occurs. Both hits have innate [Bleed](Status_Effects.md#bleed).
+The stab has a scaled damage multiplier of 1.4x, deals 20 posture damage, and has a windup of 0.65s. The blast has a scaled damage multiplier of 1.2x and has a windup of 1.3s after the stab occurs. Both hits have innate [Bleed](Status_Effects.md#bleed). The secondary blast counts as an uppercut.
 
 For the running critical, the user winds up with a [purple telegraph](Combat_Mechanics.md#purple) before leaping forward with the weapon, finishing with an explosive ice blast. Right clicking while still in the air will allow you to cancel your forward momentum.
 

@@ -1,11 +1,9 @@
 ---
 title: Lightkeeper Temple
-revid: 200341
+revid: 204333
 source: https://deepwoken.fandom.com/wiki/Lightkeeper_Temple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Locations, Locations in the Eastern Luminant, Voidzones]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant, Voidzones]
 ---
 
 # Lightkeeper Temple
@@ -43,3 +41,4 @@ A map can be found [here](Maps.md#eastern-luminant).
     -   An abundance of extra rooms and [Thresher Eggs](Thresher_Egg.md) were present throughout the temple, with even a large prison located in the bottom.
     
 -   During early testing, this area was called "Stormcaller Temple," with its caption being "???"
+-   The area originally came with the caption "Heavy is the burden of the Lightkeeper, for the whole world rests on their shoulders". It was removed in a shadow update.

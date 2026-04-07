@@ -1,6 +1,6 @@
 ---
 title: Deepwoken OST
-revid: 201762
+revid: 204332
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OST
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, In progress with reason, InProgressPages, Deepwoken]
@@ -135,7 +135,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 
 | **No.** | **Title** | **Length** | **Location** | **File** |
 | --- | --- | --- | --- | --- |
-| ? | Opulent, Imperial | 2:14 | N/A (Previously, [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md) and [Voidheart](Voidheart.md)) |  |
+| ? | Opulent, Imperial[\[3\]](#cite-note-naktimessage3-3) | 2:14 | [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md) (Previously [Voidheart](Voidheart.md)) |  |
 | ? | [Sibex](Sibex.md)'s Gale Wisp Tune | 6:16 | [Sibex](Sibex.md), [The Aratel Sea](The_Aratel_Sea.md) |  |
 
 ## Alternative Soundtracks
@@ -149,7 +149,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 3 | [No Time For Paws](https://soundcloud.com/naktigonis/no-time-for-paws) | 1:26 | Felinor Theme |  |
 | 4 | [Visions](https://soundcloud.com/naktigonis/visions) | 2:12 | Deepwoken Direct Theme |  |
 | 5 | [Drownedabout](https://soundcloud.com/naktigonis/drownedabout) | 0:25 | "Roundabout" by Yes - Cover Sketch |  |
-| 6 | [Blood in the Shallows](https://soundcloud.com/naktigonis/blood-in-the-shallows) | 1:36 | Kiztatziki[\[3\]](#cite-note-3) Boss Theme |  |
+| 6 | [Blood in the Shallows](https://soundcloud.com/naktigonis/blood-in-the-shallows) | 1:36 | Kiztatziki[\[4\]](#cite-note-4) Boss Theme |  |
 
 ### Additional Songs
 
@@ -162,4 +162,5 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 
 1.  ↑ [1.0](#cite-ref-naktimessage-1-0) [1.1](#cite-ref-naktimessage-1-1) [1.2](#cite-ref-naktimessage-1-2) [1.3](#cite-ref-naktimessage-1-3) [1.4](#cite-ref-naktimessage-1-4)
 2.  ↑ [2.0](#cite-ref-naktimessage2-2-0) [2.1](#cite-ref-naktimessage2-2-1) [2.2](#cite-ref-naktimessage2-2-2) [2.3](#cite-ref-naktimessage2-2-3)
-3.  [↑](#cite-ref-3)
+3.  [↑](#cite-ref-naktimessage3-3-0)
+4.  [↑](#cite-ref-4)

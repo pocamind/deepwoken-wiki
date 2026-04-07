@@ -1,6 +1,6 @@
 ---
 title: Grand Fisher Plate
-revid: 201455
+revid: 204347
 source: https://deepwoken.fandom.com/wiki/Grand_Fisher_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, The Divers]
@@ -20,7 +20,7 @@ categories: [Equipment, Arms, Plates, The Divers]
 | set | Grand Fisher Helm, Grand Fisher Plate |
 | set talent | N/A |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Diver's Faction Job "The Fisherman" Guaranteed Drop |

@@ -1,6 +1,6 @@
 ---
 title: Celtorian Tideknight
-revid: 180283
+revid: 204342
 source: https://deepwoken.fandom.com/wiki/Celtorian_Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, Lost Celtor]
@@ -10,13 +10,12 @@ categories: [Outfits, Master Outfits, Lost Celtor]
 
 | Celtorian Tideknight | |
 |---|---|
-| caption | N/A |
 | tier | Master |
 | crafting_req | x5 Cloth, x1 Dark Feather, x1 Odd Tentacle, x5 Vibrant Gems, x1 Bloodless Gem, x1 Thresher Spine, x5 Umbral Obsidian |
 | price | 1,000 |
 | stat_req | Power 15 |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | durability | 2800 |
 | resistances | +30% Physical Armor, +25% Elemental Armor, +5% Blunt Armor, +10% Shadow Armor, +5% Ice Armor |
 | talents | Tidekeeper |
@@ -42,7 +41,7 @@ This Outfit has 2800 durability and grants +30% Physical resistance, +25% Elemen
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 33.5% Blunt, 30% Slash, 32.5% Shadowcast, 28.75% Frostdraw, and 25% Elemental.
 
-The [Tidekeeper](Talents.md#tidekeeper) Talent procs if you lose 25% or more of your health within a 3 second timespan, granting the [Tidekeeper](Status_Effects.md#tidekeeper) status effect. This status effect grants a 15% damage buff, a 20% defense buff, and prevents you from being knocked for 10 seconds. Tidekeeper has a 60 second cooldown, and will not proc on instant death abilities.
+The [Tidekeeper](Talents.md#tidekeeper) Talent procs if you lose 25% or more of your health within a 3 second timespan, granting the [Tidekeeper](Status_Effects.md#tidekeeper) status effect. This status effect grants a 15% damage buff, a 20% defense buff, and prevents you from being knocked for 10 seconds. Tidekeeper has a 60 second cooldown and will not proc on instant death abilities.
 
 ## Trivia
 
