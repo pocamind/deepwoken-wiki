@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 204389
+revid: 204392
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Etrea]
@@ -195,7 +195,7 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 ### Passives
 
 -   Thorn Guard - Maestro Evengarde Rest is immune to [Providence Thorns](<Providence's_Thorns.md>).
--   Disengage - Whenever Maestro Evengarde Rest loses 1/3th of his maximum health, he will Vent and teleport to a random location in the arena. This is often followed up with an _Mortal Draw: Pressure_ to close the distance.
+-   Disengage - Whenever Maestro Evengarde Rest loses 1/3rd of his maximum health, he will Vent and teleport to a random location in the arena. This is often followed up with an _Mortal Draw: Pressure_ to close the distance.
 -   Guardbreak Resist - Maestro Evengarde Rest is immune to instant guard break effects. A unique white deflection visual and sound effect will play over his guard when this effect procs.
 
 ### Talents

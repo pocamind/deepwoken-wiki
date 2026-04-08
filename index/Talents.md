@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 204373
+revid: 204402
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3760,6 +3760,15 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Master Thundercaller \[Mantra Level Talent, Thundercall\] - You can now obtain 3-star Thundercaller mantras. (+5 Health)
     -   Obtained at 50 Thundercall
 
+-   Discovery Of Fire \[Common Talent, Thundercall\] - Flints and Flamecharm are for simpletons.
+    -   Using this ability will consume 20 Ether to cause a lightning strike that lights nearby entities aflame including campfires, players, and monsters.
+    -   Has a 1 second delay between usage and the lightning bolt striking, potentially allowing for movestacks.
+    -   15 second cooldown. This cooldown starts when the lightning bolt strikes.
+    -   Deals 3 flat Thundercall damage on impact, applying [burn](Status_Effects.md#burn) with **no hitstun** and 1.08x PvE scaling.
+    -   Discovery of Fire can be parried and blocked, applying parry stun to the caster if parried, and dealing 0 posture damage if blocked.
+    -   Does not have hitregistry in [Chime of Conflict](Chime_of_Conflict.md).
+    -   Prerequisite: 50 Thundercall
+
 -   Shocking Finish \[Common Talent, Thundercall\] - Following a flourish up with a lightning beam causes it to be casted instantly.
     -   Prerequisite: [Lightning Beam](Thundercall.md#lightning-beam) (Mantra), 30 Thundercall
 
@@ -3999,9 +4008,9 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   The [Monastery Cowl](Monastery_Cowl.md) and [Deepwoken Cloak](Deepwoken_Cloak.md) equipment have this Talent.
 
 -   _Cut to the Chase_ \[Rare Talent, Agility\] - Air Counter damage scaling is largely increased. Landing an Air Counter now initiates an uppercut. Deal 5% more damage to PvE enemies in the air. (+5 Passive Agility)
-    -   Air Countering innately deals 10% of your weapon's scaled damage, **Cut to the Chase** increases this amount to 70% of your weapon's scaled damage.
+    -   Air Counters do not innately deal damage. Having this Talent gives your Air Counter 10 true damage.
         -   The damage bonus to your Air Counters will scale down if you have less than 60 Agility.
-    -   Air Counter is initiated when using an Aerial attack after your opponent does any of the following: wall jumps (parkour), uses Wind Step (Galebreathe Talent), or uses a [Lifevent](Lifevents.md) (Starswept jump pad).
+    -   Air Counter is initiated when using an Aerial attack after your opponent does any of the following: wall jumps (parkour), uses Wind Step (Galebreathe Talent), uses aerial [Arc Beam](Oath%253A_Arcwarder.md#arc-beam), is launched into the air by Eye of Ethiron's two handed critical, or uses a [Lifevent](Lifevents.md) (Starswept jump pad).
     -   Can be synergized with uppercut-based Talents, such as Flaming Flourish.
     -   Prerequisite: 60 Agility
         -   The old Air Counter Talent was made innate and then reworked into this.

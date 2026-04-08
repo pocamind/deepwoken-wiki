@@ -1,6 +1,6 @@
 ---
 title: Ethereal Bone Dust
-revid: 202184
+revid: 204395
 source: https://deepwoken.fandom.com/wiki/Ethereal_Bone_Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients]
@@ -14,17 +14,16 @@ categories: [Items, Ingredients]
 | weight | 0 |
 | stack | x1 |
 | type | Ingredient |
-| bankable | Yes |
-| droppable | Yes |
+| rarity | Unique |
+| bankable | No |
+| droppable | No |
 | pass down | No |
 | desc | This doesn't feel safe to hold... |
 | obtainment | Scion of Ethiron (Chest) |
 
-## **Description**
+## Description
 
 Ethereal Bone Dust is a crafting ingredient that is dropped by the [Scion of Ethiron](Scion_of_Ethiron.md).
-
-It is unbankable and undroppable.
 
 ## Crafting
 

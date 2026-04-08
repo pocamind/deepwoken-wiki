@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 204364
+revid: 204398
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -967,6 +967,8 @@ These Talents are found in the _Thundercaller_ category.
 (30 Thundercall) | You can now obtain 2-star Thundercaller mantras. | N/A |
 |  | Master Thundercaller  
 (50 Thundercall) | You can now obtain 3-star Thundercaller mantras. (+5 Health) | N/A |
+|  | Discovery of Fire  
+(50 Thundercall) | Flints and Flamecharm are for simpletons. | Grants the "Discovery of Fire" Talent tool. Using Discovery of Fire consumes 20 Ether to light all nearby campfires, and burn people close by. Deals 3 Thundercall damage on hit. Has a 1 second delay between activation and the lightning strike occurring, allowing you to movestack this ability with most attacks. |
 |  | Kickstart  
 (50 Thundercall, 40 Fortitude // 40 Charisma) | Play the resurrector. Use your lightning to defibrillate your allies on the battlefield. | Grants the "Kickstart" Talent tool. Using Kickstart near a knocked player allows you to resuscitate them early, restoring 10% of their maximum health. |
 |  | Shocking Finish  
