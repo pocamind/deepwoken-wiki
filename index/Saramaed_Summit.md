@@ -1,6 +1,6 @@
 ---
 title: Saramaed Summit
-revid: 195084
+revid: 204390
 source: https://deepwoken.fandom.com/wiki/Saramaed_Summit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Voidzones, Locations in the Eastern Luminant]
@@ -20,7 +20,7 @@ Template:Location2
 
 Saramaed Summit is an area within the upper area of [Miner's Landing](<Miner's_Landing.md>), accessible through hallways past the boiler room's circular vault door. The air is constantly permeated with a thick, orange mist, and many [Mechalodaunts](Mechalodaunt.md) are often present throughout the area.
 
-There are multiple entrances that lead to Saramaed Summit. One entrance, located to the right of the boiler room's vault door, requires a [Resonance](Resonance.md) to open. The other entrance is located in a room with an Ignition Union NPC and does not have a Resonance door.
+There are multiple entrances that lead to Saramaed Summit. One entrance, located to the right of the boiler room's vault door, requires a [Resonance](Resonance.md) to open. The other entrance which is easily accessible by going to the left after entering the vault door, which will take you to the board room with [Kressa](Kressa.md) inside of it, making another left at the doorhole to enter. The last entrance is located in a room with an Ignition Union NPC and does not have a Resonance door.
 
 The [Flamecharm](Flamecharm.md) obelisk for [Saintsworn](Oath%253A_Saintsworn.md) can be found in this area.
 

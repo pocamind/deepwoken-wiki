@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 204334
+revid: 204377
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons that cannot be equipped on Contractor, Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons]
@@ -45,7 +45,6 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons that cannot
 -   **Sudaruska's Fury** - Landing three basic attacks on an enemy makes 12 ice crystals rain from the sky, each crystal dealing 20 PvP damage or 259.2 PvE damage. The area that an ice crystal lands on will have ice applied on the floor. 15 second cooldown.
 
 -   **Vengeful Soul** - After gripping a player with the [Contractor](Oath%253A_Contractor.md) Oath, [Prophet's Cloak](<Prophet's_Cloak.md>) outfit or any [Ministry](The_Ministry.md) affiliated NPC, Sudaruska will talk and insult them. Additionally, killing a [Rogue Construct](Rogue_Construct.md) will make Gran Sudaruska talk aswell.
--   **Unbroken** - Every hit landed with this weapon applies [Chill](Status_Effects.md#chill) or [Crystal](Status_Effects.md#crystal) stacks if the user has the corresponding path.
 
 ## Critical
 

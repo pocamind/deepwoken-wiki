@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 200457
+revid: 204389
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Etrea]
@@ -195,7 +195,7 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 ### Passives
 
 -   Thorn Guard - Maestro Evengarde Rest is immune to [Providence Thorns](<Providence's_Thorns.md>).
--   Disengage - Whenever Maestro Evengarde Rest loses roughly 1/4th of his maximum health, he will Vent and teleport to a random location in the arena. This is often followed up with an _Mortal Draw: Pressure_ to close the distance.
+-   Disengage - Whenever Maestro Evengarde Rest loses 1/3th of his maximum health, he will Vent and teleport to a random location in the arena. This is often followed up with an _Mortal Draw: Pressure_ to close the distance.
 -   Guardbreak Resist - Maestro Evengarde Rest is immune to instant guard break effects. A unique white deflection visual and sound effect will play over his guard when this effect procs.
 
 ### Talents
@@ -388,7 +388,7 @@ This dialogue is unlocked if the player has the [Nogoras Mahoraga Wheel](https:/
 -   All of his Mantras will automatically execute you.
     -   You can still be manually gripped by him if you die to his critical attack, basic attack or his Mortal Draw: Pressure.
 -   You will only gain the Disgraced Flaw if you are defeated on your first attempt. You do not get it again if you die to him a second time.
--   If you have [Nogoras](https://www.youtube.com/@nogo) [Mahoraga](https://www.roblox.com/catalog/15009881314/Nogoras-Mahoraga) as your current haircut he offers a unique dialogue.
+-   If you have [Nogoras](https://www.youtube.com/@nogo) [Mahoraga](https://www.roblox.com/catalog/15009881314/Nogoras-Mahoraga) as your current haircut he offers a unique dialogue. Citation needed \[?\]
 -   Defeating him for the first time awards two [Knowledge](Knowledge.md).
 -   Every next defeat grants one [Knowledge](Knowledge.md).
 -   Despite apparently having immunity to knockdowns, the [Starkindred](Oath%253A_Starkindred.md) Oath mantra [Ascension](Oath%253A_Starkindred.md) and the [Heavy Weapon](Attributes.md) [Talent](Talents.md) Rending Impact still knocks him down, allowing room for combos.

@@ -1,6 +1,6 @@
 ---
 title: Gale Enhanced Earrings
-revid: 202047
+revid: 204381
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears, Craftable]
@@ -32,6 +32,6 @@ Variants: [Emerald Tusk Earrings](Emerald_Tusk_Earrings.md)
 
 **Gale Enhanced Earrings** are an [Equipment](Equipment.md) item under the "Ears" category.
 
-The [Way of the Wind](Talents.md#way-of-the-wind) Talent increases the speed of your Mantra casts while airborne. You need to have been in the air for more than 0.5 seconds for this effect to activate. This has a wind pulse fx on proc.
+The [Way of the Wind](Talents.md#way-of-the-wind) Talent increases the speed of your Mantra casts while airborne. You need to have been in the air for more than 0.5 seconds (2 seconds in pathfinder) for this effect to activate. This has a wind pulse fx on proc.
 
 This item is the Pathfinder equivalent of the [Gale Master's Earrings](<Gale_Master's_Earrings.md>).
