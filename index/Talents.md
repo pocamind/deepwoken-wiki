@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 204402
+revid: 204414
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3445,9 +3445,10 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Heartwing Beat \[Common Talent, [Equipment](Equipment.md)\] - Your heart beats a new rhythm, as your aerial attack takes on a new manifestation.
     -   Replaces your aerial attack with a swooshing attack that applies wither and has innate bleed.
-    -   You cannot use Air Counter or [Silentheart's Relentless Hunt](Oath%253A_Silentheart.md#abilities) unless this Talent is on cooldown.
-    -   Heartwing Beat has a 6 second cooldown.
+    -   You cannot use [Silentheart's Relentless Hunt](Oath%253A_Silentheart.md#abilities) unless this Talent is on cooldown.
+    -   Heartwing Beat has a 10 second cooldown.
     -   Granted by the [Mantle of Enmity](Mantle_of_Enmity.md) torso equipment.
+    -   you CAN use air counter without Heartwing Beat being on cooldown.
 
 ### Starkindred
 

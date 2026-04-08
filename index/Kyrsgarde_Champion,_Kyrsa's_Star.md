@@ -1,6 +1,6 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 204387
+revid: 204411
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -231,10 +231,6 @@ In addition to its drops, defeating it also awards you with 1.
 
 <table>
 <tbody>
-<tr>
-  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
-  <td></td>
-</tr>
 <tr>
   <td><b>Miscellaneous</b></td>
   <td>
