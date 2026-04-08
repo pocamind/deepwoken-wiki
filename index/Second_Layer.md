@@ -1,6 +1,6 @@
 ---
 title: Second Layer
-revid: 204310
+revid: 204421
 source: https://deepwoken.fandom.com/wiki/Second_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, The Depths, Layer 2]

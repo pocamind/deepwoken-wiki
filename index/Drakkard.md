@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 202728
+revid: 204440
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Vow of Iron Exclusive, Exclusive Aspects, Aspects]
@@ -159,10 +159,8 @@ Drakkard has 3 eyebrow variants.
 
 ## Trivia
 
--   Awarded to “moderators and VERY active testers” (stated by Punchee)
--   The reason for Drakkard's passive EXP gain is supposedly, according to Mods, due to them constantly being afk doing restores.
--   Because the [Edenkite](Edenkite.md) are usually prophets, it makes sense that they would have taught the Drakkard the secrets of passively gaining EXP.
--   Moderators can obtain the aspect through the Mod Shop for 750 moderation points
+-   Drakkard can be purchased in the Mod Shop for 485 Mod Points.
+-   The reason for Drakkard's passive EXP gain is due to moderators constantly being afk doing actions.
 -   Drakkard bears a striking resemblance to the [Gremor](Gremor.md) aspect, except with more colourful horns.
 -   The origin of the name "[Drakkard](https://en.wikipedia.org/wiki/Longship)" comes from the Nordic Drakkar, its a type of Ship that has the head of a [Níðhöggr](https://en.wikipedia.org/wiki/N%c3%ad%c3%b0h%c3%b6ggr) (Viking dragon) on its prow.
     -   It may be also the reason why the aspect is a dragon and/or they decided to give this name to the aspect.

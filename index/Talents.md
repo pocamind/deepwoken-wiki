@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 204414
+revid: 204417
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3445,10 +3445,11 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Heartwing Beat \[Common Talent, [Equipment](Equipment.md)\] - Your heart beats a new rhythm, as your aerial attack takes on a new manifestation.
     -   Replaces your aerial attack with a swooshing attack that applies wither and has innate bleed.
-    -   You cannot use [Silentheart's Relentless Hunt](Oath%253A_Silentheart.md#abilities) unless this Talent is on cooldown.
+    -   You cannot use [Silentheart's Relentless Hunt](Oath%253A_Silentheart.md#relentless-hunt) unless this Talent is on cooldown.
+    -   Heartwing Beat has 25 base damage, and mirrors the scaling stat from your equipped weapon. Tangentially, this Talent uses the weapon scaling formula.
+        -   For example, using Heartwing Beat on the [Sword](<Sword_(weapon).md>) will give it 2.5 Medium scaling, while using it on the [Repeater](Repeater.md) will give it 15 Light Weapon scaling.
     -   Heartwing Beat has a 10 second cooldown.
     -   Granted by the [Mantle of Enmity](Mantle_of_Enmity.md) torso equipment.
-    -   you CAN use air counter without Heartwing Beat being on cooldown.
 
 ### Starkindred
 
@@ -4542,8 +4543,10 @@ Certain Talents are given when a specific equipment or outfit is worn. Multiple 
 
 -   Heartwing Beat: [Mantle of Enmity](Mantle_of_Enmity.md) - Your heart beats a new rhythm, as your aerial attack takes on a new manifestation.
     -   Replaces your aerial attack with a swooshing attack that applies wither and has innate bleed.
-    -   You cannot use Air Counter or [Silentheart's Relentless Hunt](Oath%253A_Silentheart.md#abilities) unless this Talent is on cooldown.
-    -   Heartwing Beat has a 6 second cooldown.
+    -   You cannot use [Silentheart's Relentless Hunt](Oath%253A_Silentheart.md#relentless-hunt) unless this Talent is on cooldown.
+    -   Heartwing Beat has 25 base damage, and mirrors the scaling stat from your equipped weapon. Tangentially, this Talent uses the weapon scaling formula.
+        -   For example, using Heartwing Beat on the [Sword](<Sword_(weapon).md>) will give it 2.5 Medium scaling, while using it on the [Repeater](Repeater.md) will give it 15 Light Weapon scaling.
+    -   Heartwing Beat has a 10 second cooldown.
 
 -   Herbivore: [Herbalist's Hat](<Herbalist's_Hat.md>) and [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>) - You gain more nutrition from eating plants.
 

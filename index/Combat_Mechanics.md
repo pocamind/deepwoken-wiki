@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 204235
+revid: 204425
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -131,7 +131,7 @@ These are stats that are you required to maintain in order to survive in the wor
   <ul>
     <li>The player's screen will become blurry.</li>
     <li>The player will start to move slower.</li>
-  </ul><p><i>Your Water will drain slightly faster when healing at a campfire or swimming.</i></p></td>
+  </ul><p><i>Your Water will drain slightly faster when replenishing blood at a campfire or swimming.</i></p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
@@ -141,7 +141,7 @@ These are stats that are you required to maintain in order to survive in the wor
     <li>The player will gradually lose health and blood.</li>
     <li>The player's max health will be reduced.</li>
     <li>Attempting to swim while starving and with less than 50% HP will immediately knock the player, resulting in drowning if not assisted.</li>
-  </ul><p><i>Your Stomach will drain slightly faster when healing at a campfire or swimming.</i></p></td>
+  </ul><p><i>Your Stomach will drain slightly faster when replenishing blood at a campfire or swimming.</i></p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 </tbody>
