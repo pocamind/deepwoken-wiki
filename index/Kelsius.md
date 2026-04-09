@@ -1,6 +1,6 @@
 ---
 title: Kelsius
-revid: 199004
+revid: 204483
 source: https://deepwoken.fandom.com/wiki/Kelsius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, Central Authority defectors]
@@ -113,46 +113,6 @@ Kelsius is located inside the library at [Temple of the Blade](Temple_of_the_Bla
 <tr>
   <td>[End Dialogue], player gains a random attribute point</td>
   <td colspan="2">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
-
-**Castaway Origin, with Tutorial:**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="4">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="2">Hmm... I hope you won't mind me asking, but what brings you to this part of the world?</td>
-</tr>
-<tr>
-  <td colspan="2">We were headed to Etrea when our ship was attacked by the Authority and we capsized.</td>
-</tr>
-<tr>
-  <td colspan="2">...You don't say. I'm... I'm sorry. <i>*His expression seems racked with pain.*</i></td>
-</tr>
-<tr>
-  <td colspan="2">Everything alright?</td>
-</tr>
-<tr>
-  <td>I... I used to serve under them. Not anymore. That much I assure you. But... I would be more than happy to let you peruse the books here, Really, it's the least I can do.</td>
-</tr>
-<tr>
-  <td colspan="2">So... The books?</td>
-</tr>
-<tr>
-  <td>Oh! Er... Yes! I have information on a variety of skills. It'll cost you about [X] notes.</td>
-</tr>
-<tr>
-  <td colspan="2">Alright.</td>
-</tr>
-<tr>
-  <td>[See previous instance]</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

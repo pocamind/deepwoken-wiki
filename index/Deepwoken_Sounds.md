@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 202394
+revid: 204456
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -67,7 +67,7 @@ _For the Deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.1s | [Notes](Notes.md) Gained (Sell) |
 |  | 1.3s | [Notes](Notes.md) Lost (Buy) |
 |  | 1.6s | [Encyclopedia](Training_Gear.md#attribute-training-gears) Page Flip |
-|  | 2.2s | [Pure Heart](Training_Gear.md#attunement-training-gears) / [Bloodless Gem](Mantra_Modifiers.md#deep-gems) Proc |
+|  | 2.2s | [Pure Heart](Training_Gear.md#attunement-training-gears) / [Bloodless Gem](Bloodless_Gem.md) Proc |
 |  | 9.0s | [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) |
 |  | 1.9s | [Hearthgem](Training_Gear.md#attunement-training-gears) |
 |  | 4.9s | [Hemafrost](Training_Gear.md#attunement-training-gears) |
@@ -75,7 +75,7 @@ _For the Deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 1.2s | Door Opening |
 |  | 0.9s | Door Closing |
 |  | 3.7s | Spawning [Guild Base](Guild_Bases.md) |
-|  | 1.9s | Placing Utility / Building [Guild Bases|Guild Base](Guild_Bases.md) (1st Sound) |
+|  | 1.9s | Placing Utility / Building [Guild Base](Guild_Bases.md) (1st Sound) |
 |  | 1.2s | Building [Guild Base](Guild_Bases.md) (2nd Sound) |
 |  | 0.6s | [Flint](Flint.md) (Usage) |
 |  | 3.9s | [Produce Spark](Talents.md#produce-spark) (Usage) |

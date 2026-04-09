@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 204398
+revid: 204457
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -58,7 +58,7 @@ Cantrips are, often minor, passive abilities that are granted upon obtaining any
 
 This Cantrip allows the player to light [Campfires](Campfire_Pit.md) without [Flint](Flint.md).
 
-This Cantrip is shared with [Flamecharm](Flamecharm.md).
+This Cantrip is shared with [Flamecharm](Flamecharm.md), though the sound effect differs based on the attunement.
 
 ## Mantras
 

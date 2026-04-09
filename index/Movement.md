@@ -1,6 +1,6 @@
 ---
 title: Movement
-revid: 109772
+revid: 204479
 source: https://deepwoken.fandom.com/wiki/Movement
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -8,26 +8,43 @@ categories: [Mechanics]
 
 # Movement
 
-## Movement Tech
+**Movement** in Deepwoken is essential to travelling around. This page includes details on basic mechanics, techniques, and talent cards that affects your movement.
 
-A common movement technique people use to go faster than usual is to utilize Jumping and Sliding, an old technique has since been patched, but a new technique has taken its place.
+_Knowing this information is absolutely crucial to when running away from something or someone you cannot defeat._
 
-To do this, do the following.
+## Running
 
-Gain **Momentum** > Slide > Jump > Slide > Jump > Dash (repeat ⟳)
+Running is performed by double-tapping the W key or pressing ALT to toggle sprint.
 
-If you use [Konga's Clutch Ring](Equipment.md), instead of the combo above, you can simply do this:
+Over the course of 3 seconds of running you will passively gain momentum and speed, making you (1.15x?) faster than your normal running speed. The start of the process of gaining momentum is shown when thin white trails starts trailing behind your character, the trails stop 1 second after gaining full momentum.
 
-Gain Momentum > Slide > Jump > Slide > Jump > Repeat
+## Rolling
 
-The speed is boosted with [Konga's Clutch Ring](Equipment.md). Remember not to run out of momentum!
+Rolling is done by pressing Q. On top of the movement benefits, rolling grants brief IFrames in the form of dodging attacks.
 
-## Momentum
+When rolling in the air, you perform an air dash.
 
-Momentum is a mechanic where over the course of 3 seconds of running you will passively gain speed, giving you a (1.15x?) speed boost than your normal running speed, after jumping then sliding at max momentum, you will produce an additional mini-slide, you can turn before this slide happens to change your direction.
+If you touch the ground during an air dash, it will start rolling instead. The duration of the air dash has no effect on the roll. This mechanic is also known to negate fall damage when the damage is below a certain percentage of your maximum health. If not, then it will reduce the fall damage by roughly 35%.
 
-  
-**Momentum Tech**
+## Crouching/Sliding
+
+Crouching is performed by pressing CTRL. While crouched, your [Stealth](Stealth.md) is increased and you can perform Assassinations.
+
+By pressing the crouch button while running, you will start sliding.
+
+Jumping during the slide will perform a slide jump. When landing after performing a slide jump, you perform a mini-slide, continuing to slide for a few more studs. (Isn't consistent, may bugged or something that I'm doing it wrong.)
+
+## Wall Jumping/Climbing
+
+Wall jumping is done by jumping in the air while moving towards a wall and touching it.
+
+Wall Climbing can be done by doing a wall jump while your character is facing the wall.
+
+By jumping right under an edge of a wall, you start holding the edge. To stop holding the edge, you can either jump, which sends you directly upwards, or move away from the wall.
+
+## Techniques
+
+**Momentum Tech:**
 
 -   Utilizing the second mini-slide allows you to turn corners and still retain half of your momentum.
 -   Using a move that would normally put you at a stand-still right before the mini-slide happens will cause you to be boosted by the mini-slide and still go through with the move.

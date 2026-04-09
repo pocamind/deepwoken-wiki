@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 204440
+revid: 204459
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Vow of Iron Exclusive, Exclusive Aspects, Aspects]
@@ -160,7 +160,7 @@ Drakkard has 3 eyebrow variants.
 ## Trivia
 
 -   Drakkard can be purchased in the Mod Shop for 485 Mod Points.
--   The reason for Drakkard's passive EXP gain is due to moderators constantly being afk doing actions.
+-   The reason why Drakkard's passive is EXP gain is due to moderators constantly being afk doing mod actions.
 -   Drakkard bears a striking resemblance to the [Gremor](Gremor.md) aspect, except with more colourful horns.
 -   The origin of the name "[Drakkard](https://en.wikipedia.org/wiki/Longship)" comes from the Nordic Drakkar, its a type of Ship that has the head of a [Níðhöggr](https://en.wikipedia.org/wiki/N%c3%ad%c3%b0h%c3%b6ggr) (Viking dragon) on its prow.
     -   It may be also the reason why the aspect is a dragon and/or they decided to give this name to the aspect.
