@@ -1,6 +1,6 @@
 ---
 title: Redd
-revid: 177689
+revid: 204449
 source: https://deepwoken.fandom.com/wiki/Redd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Consumables, Harvestables, Food Ingredients]
@@ -35,5 +35,5 @@ A small consumable fruit found in many places across both Luminants. They grow o
 
 ## Trivia
 
--   Real life counterpart is the plum.
--   If used in [Alchemy](Alchemy.md), the primary affect applied is **Grueling**; Secondary effect is **Strengthening**.
+-   Real life counterpart would be an orange.
+-   If used in [Alchemy](Alchemy.md), the primary effect applied is **Grueling**; Secondary effect is **Strengthening**.

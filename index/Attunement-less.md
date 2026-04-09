@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 204143
+revid: 204454
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1630,7 +1630,7 @@ _A powerful slash that chips through block and slashes through armor._
  |
 | 
 
-45 Ether
+60 Ether
 
  | 
 

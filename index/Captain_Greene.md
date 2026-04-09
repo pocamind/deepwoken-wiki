@@ -1,8 +1,9 @@
 ---
 title: Captain Greene
-revid: 204427
+revid: 204453
 source: https://deepwoken.fandom.com/wiki/Captain_Greene
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Individuals with He/him pronouns]
 ---
 
 # Captain Greene
@@ -10,10 +11,12 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | Captain Greene | |
 |---|---|
 | name | Greene |
+| alias | Captain |
+| pronouns | He/him |
 
 ## Description
 
-A legendary figure of the Summer Company who grew stronger with wealth.[\[1\]](#cite-note-1)
+A legendary figure known throughout the Summer Company who grew stronger with wealth.[\[1\]](#cite-note-1)
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: "Ships & Sailing"
-revid: 202625
+revid: 204446
 source: https://deepwoken.fandom.com/wiki/Ships_%26_Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -22,7 +22,7 @@ There are currently 6 ships the player can use, those ships being:
 -   Ironclad
 
 The player can buy and build ships through the [Shipwright](Shipwright.md), normally found at the docks of Towns or other Islands.  
-Once a ship has been purchased, the player can deploy it through a Shipwright Merchant, a Ship Post, or the [Seafarer's Chime](<Seafarer's_Chime.md>) tool.
+Once a ship has been purchased, the player can deploy it through a Shipwright Merchant, a Ship Post, or by pressing the "Summon Ship" keybind (Default: N).
 
 The player can only have a maximum of 9 ships.
 
@@ -145,7 +145,8 @@ Ships can be sold for half of their original price, and the price will be lower 
 
 ## Trivia
 
--   [Food](Food.md) is unable to be cooked using the ship lanterns, nor can [Campfire](Campfire_Pit.md) be placed on ships.
+-   [Food](Food.md) is unable to be cooked using the ship lanterns, nor can [Campfires](Campfire_Pit.md) be placed on ships.
+    -   The Graceful Flame mantra may still be used on ships with no caveat or risk.
 -   It is recommended to buy a ship like the Merchant Schooner, due to being the earliest with a Lantern and being cheap to repair if broken.
 -   Ironclads are always travelling at max speed, since they don't use flag sails to take advantage of the wind.
 -   Cannons are viable in combat, whether it be for PVP or PVE.

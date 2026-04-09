@@ -1,16 +1,18 @@
 ---
 title: War Mode
-revid: 169477
+revid: 204448
 source: https://deepwoken.fandom.com/wiki/War_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Mechanics]
+categories: [Mechanics]
 ---
 
 # War Mode
 
-An image of Warchest UI during War Mode
+The mighty Warcaller Bell, looming over the Eastern Luminant to the those who wish to shed blood
 
-## **Description**
+## Description
+
+War Mode is a player-activated event that can be started on a cliff at [The Entropy Catalyst](The_Entropy_Catalyst.md).
 
 War Mode is an activity available in the **Eastern Luminant**, pitting players from different Guilds to fight each other for domination of the Luminant, with riches available to participating players and even greater riches to those who successfully manage to impose themself on the sea.
 
@@ -18,31 +20,31 @@ War Mode is an activity available in the **Eastern Luminant**, pitting players f
 
 War Mode can be initiated at the Warcaller Bell located near [The Entropy Catalyst](The_Entropy_Catalyst.md) (on the side of the water lock). With at least 2 different guilds and at least 10 players, ringing the bell will initiate a small preparation phase before War Mode begins, then last for 20 minutes.
 
-File:New Warbell Cropped.png
+War Mode is a competitive activity in the **Eastern Luminant** where players from different Guilds battle for control of the sea and its riches. It is activated by ringing the Warcaller Bell near [The Entropy Catalyst](The_Entropy_Catalyst.md) (by the water lock). With at least 2 different guilds and 10 players present, a short preparation phase begins before War Mode starts, lasting up to 20 minutes.
 
-Warcaller Bell
+[Hell Mode](Hell_Mode.md) is a player-activated event that can be started in the corner of [Scyphozia](First_Layer.md) if four players who are at least Power 15 ring the Hell Bell. Upon starting the event, the lighting in the Depths will change to hellish-red and a kill count starting at 100 will appear over the bell. For every player that rings the bell after the initial four, 10 more mobs will be added to the kill count. There is a 20 minute duration to kill the required mobs.
 
-## Ruling of War Mode
+  
+
+## Effects
 
 During War Mode, part of the game will be tweaked to accommodate for the event. The new rules are as follow:
 
--   War Mode servers are shown on the server list, colored orange with "\[WAR\]" next to the server name. They are pushed to the top of the server list if joining the game as a Power 20.
--   All active combatants in the event (all Power 20 players) are marked with their guild emblem.
-    -   Killing marked players will rewards a chest and accrue points to the guild and Warchest
-    -   Marked Players deal and take half damage from non Marked Players (non Power 20). The opposite is also true.
-        
-        Warchest Score and Timer on Warbell
-        
--   Random Event spawn checks are not done for Marked Players and static events do not respawn, meaning little to no PVE entities will appear.
-    -   [Dread Serpent](Dread_Serpent.md) and [Primadon](Primadon,_Titan_of_the_East.md) can still be summoned however
--   Guild Banners can only be taken by Marked Players.
-    -   When the Warchest reach 300 points, Guild Banners will start contributing to the score of their guild and the Warchest.
--   The [Dimensional Travel](Dimensional_Travel.md) and [Teleportation](Teleportation.md) Resonances have their effectiveness greatly reduced.
-    -   **Dimensional Travel**'s distance multiplier is set to 1x, meaning you do not travel any faster.
-    -   **Teleportation** has a 1000 studs limit and its cooldown is doubled.
--   If the Warchest does not reach 300 points before the 10 minute mark, War Mode ends prematurely with no rewards granted.
+-   The server will publicly display the tag "\[WAR\]" next to its player count and will be tinted orange. Servers undergoing war will be pushed to the top on selected slots that are Power 20.[\[1\]](#cite-note-1)
+-   All Power 20 players will be marked with their guild emblem.
+    -   Killing marked players grants a chest and adds points to both the guild and the Warchest.
+    -   Marked players deal and receive half damage when fighting players below Power 20, and vice versa.
+-   Random Event spawn checks are disabled for marked players, and static events do not respawn, resulting in little to no PVE presence.
+    -   Bosses such as the [Dread Serpent](Dread_Serpent.md) and [Primadon](Primadon,_Titan_of_the_East.md) can still be summoned.
+-   Guild Banners can only be captured by marked players.
+    -   Once the Warchest reaches 300 points, Guild Banners begin contributing to both guild score and the Warchest.
+-   The [Dimensional Travel](Dimensional_Travel.md) and [Teleportation](Teleportation.md) Resonances are heavily weakened.
+    -   Dimensional Travel's distance multiplier is reduced to 1x, providing no distance increase.
+    -   Teleportation is limited to 1000 studs and has its cooldown doubled.
 
-## Scoring and the Warchest
+## Rewards
+
+-   If the Warchest fails to reach 300 points within 10 minutes, War Mode ends early with no rewards.
 
 By killing marked players and keeping hold of Guild Banners, players accumulate points for their guild, working towards the Warchest.
 
@@ -63,7 +65,6 @@ Upon killing marked players or completing War Mode, several chests will spawn, t
 -   Good endgame items and relics, such as; the [Warmaster's Medallion](<Warmaster's_Medallion.md>), the [Curved Blade of Winds](Curved_Blade_of_Winds.md), and [Lesser Relics](Relics.md).
 
 The full loot table is listed below:  
-**Keep in mind that this list is still incomplete.**
 
 ### 
 
@@ -174,3 +175,7 @@ Warchest
 </tr>
 </tbody>
 </table>
+
+## References
+
+1.  [↑](#cite-ref-1)
