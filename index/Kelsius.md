@@ -1,6 +1,6 @@
 ---
 title: Kelsius
-revid: 204483
+revid: 204488
 source: https://deepwoken.fandom.com/wiki/Kelsius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, Central Authority defectors]
@@ -15,6 +15,8 @@ categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive,
 | pronouns | He/him |
 | location | Temple of the Blade |
 | affiliation | The Central Authority (formerly), Etrea |
+
+_For the version that existed prior to the 5th April, 2026, see here._
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -179,3 +181,4 @@ If the quest was done on the account previously, Kelsius will instead ask the pl
 -   Oddly enough, having the [Authority Ensign](Authority_Ensign.md) [Origin](Origins.md) doesn't unlock new dialogue from him, despite his past as a member of the Shock Corps.
 -   Kelsius' dialogue used to be slightly different, with there being two possible avenues to inquire about their past. One was more direct, while the other was more subtle, and Kelsius would react appropriately.
 -   Kelsius will still suggest the books are on the Isle of Vigils even if the books have not been retrieved previously, and thus are on [Etris](Etris.md) instead.
+-   Certain aspects of Kelsius's dialogue tied to the [Tutorial](Tutorial.md) was removed on the Aparil 5th, 2026 update. You can still view these dialogues on this page: Kelsius/Cut Content.

@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 204482
+revid: 204486
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, "NPCs located in The Scoundrel's Bounty", Members of the Rotten Lot]
@@ -16,6 +16,8 @@ categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusiv
 | pronouns | He/him |
 | location | The Scoundrel's Bounty, New Kyrsa, The Sleeping City |
 | affiliation | Rotten Lot |
+
+_For the version that existed prior to the 5th April, 2026, see here._
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -356,3 +358,4 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 -   Wears [Flame Worshipper Armor](Flame_Worshipper_Armor.md), a [Brigand's Bicorn](<Brigand's_Bicorn.md>), and a [Celtor Commander Plate](Celtor_Commander_Plate.md).
 -   During the parrying section, he originally used a [Razor Cutlass](Razor_Cutlass.md) but now uses a regular sword.
 -   Before the April 5th, 2026 update, Orlandeau stood by some ruins in the [Fragments of Self](Fragments_of_Self.md), allowing players to re-enter the tutorial.
+    -   Due to this update, certain aspects of Orlandeau's dialogue was removed. You can still view these dialogues on this page: Cap'n Orlandeau/Cut Content.

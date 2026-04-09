@@ -1,6 +1,6 @@
 ---
 title: Tutorial
-revid: 204083
+revid: 204496
 source: https://deepwoken.fandom.com/wiki/Tutorial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guides, Mechanics]
@@ -36,3 +36,5 @@ The Scoundrel's Bounty getting bombed, ending the tutorial
 -   By leaving during the tutorial you can redo it, which has a number of effects in it. The most notable one is Orlandeau's Emerald being renamed to "Orlandeau's Pity Emerald", it's description going from "The non-chaotic variety" to "Smart one, huh?" and being worth only 1 Notes, to avoid the player using this as an infinite money glitch (found randomly through experimenting). You will only be given "Orlandeau's Pity Emerald" once per character.
 -   You cannot sell the Dumbbell to the antiquarian as it would be a net profit of 2 notes.
 -   By blocking off the door to the Antiquarian's area, Orlandeau will not move, and instead stay below deck.
+-   Prior to the April 5th, 2026 update, to start the tutorial, the player must talk to [The Captain](<Cap'n_Orlandeau.md>) in the [Fragments of Self](Fragments_of_Self.md), agree to 'get their memory jogged' and wipe their character. Only after creating their new character will they be properly introduced to the tutorial.
+    -   Alongside the update, NPCs that had dialogues tied to the Tutorial had parts of their dialogue made unattainable/removed. These NPCs are [Kelsius](Kelsius.md) and [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), also known as The Captain. You can visit the pages Kelsius/Cut Content and Cap'n Orlandeau/Cut Content to view the dialogues that was cut.

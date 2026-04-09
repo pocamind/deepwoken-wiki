@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 200276
+revid: 204514
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -60,10 +60,10 @@ If Dimensional Travel is Drowned, in addition to the extra Resonance points to s
 ## Trivia
 
 -   Upon successful exiting The Interstice, you will be unable to interact with chests for 30 seconds.
--   If used while in combat, Dimensional Travel will have a significantly longer windup that can be interrupted by being hit.
+-   If used while in combat, Dimensional Travel will have a significantly longer windup.
 -   Like [Portals](Portals.md), Dimensional Travel can be very useful in ambushing/ganking other players. It is even harder to detect than Portals.
 -   Despite looking like a better than average area for combat, it is _**incredibly dangerous**_ to fight in [The Interstice](The_Interstice.md) while in the [First Layer](First_Layer.md), as being forcefully teleported out of the realm by falling into an opening or being downed and being above the void can result in an instant wipe.
--   You cannot take players that are knocked into The Interstice.
+-   You cannot take players that are knocked into [The Interstice](The_Interstice.md).
 -   Functions similarly and is likely inspired by Tobi's "Kamui" ability from Naruto; both involve entering a largely featureless separate dimension with a floor composed of black blocks that also enable transportation over long distances. Both also invoke swirl patterns when used.
     -   Amusingly also similar to Minecraft's Nether travel mechanics, both allowing extra distance to be covered in the overworld by traversing a distance in a separate dimension.
 -   When in the [First Layer](First_Layer.md), if you leave the map and fall out of the world or get stuck inside of terrain, it will act as a reset and spawn you at one of the spawn locations.

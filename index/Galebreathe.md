@@ -1,9 +1,9 @@
 ---
 title: Galebreathe
-revid: 204396
+revid: 204527
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Attunement]
+categories: [Pages with broken file links, Attunement]
 ---
 
 # Galebreathe
@@ -13,6 +13,10 @@ categories: [Attunement]
 ― Friid, Master of Gale
 
 Galebreathe icon
+
+File:954A86E4-C971-43CA-AD53-09FB68BD9218.gif
+
+File:Dfoctor.jpg
 
 ## Description
 

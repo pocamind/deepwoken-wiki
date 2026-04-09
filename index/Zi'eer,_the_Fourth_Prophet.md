@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 204296
+revid: 204533
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters, Enemies, Humanoids with Unobtainable Outfits]
@@ -160,7 +160,7 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
  |  |
 | 
 
-**Blinkstrike**  
+**Headtaker**  
 (★★☆)
 
  | Zi'eer teleports a short distance away before he spins through the air towards the Inheritor, slicing them with his heel. Successfully dodging this attack with cause Zi'eer to follow up with **Flash Equalizer**.
