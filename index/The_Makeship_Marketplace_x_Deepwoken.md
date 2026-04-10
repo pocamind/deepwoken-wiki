@@ -1,11 +1,10 @@
 ---
 title: The Makeship Marketplace x Deepwoken
-revid: 167655
+revid: 204596
 source: https://deepwoken.fandom.com/wiki/The_Makeship_Marketplace_x_Deepwoken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Event Only Content, Promotional Content]
+categories: [Event Only Content, Promotional Content]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
   - "This page contains Event Exclusive Content This page contains content that was only present during an event, and was removed after. It may come back during seasonal times or re-runs."
   - "This page contains Promotional Content This page contains content that involves promotional material, such as partnerships and merchandise."
 ---

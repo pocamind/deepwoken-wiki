@@ -1,6 +1,6 @@
 ---
 title: Ring of the Primal King
-revid: 189913
+revid: 204589
 source: https://deepwoken.fandom.com/wiki/Ring_of_the_Primal_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]

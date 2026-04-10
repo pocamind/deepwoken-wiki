@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 204489
+revid: 204600
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, World Event, Monsters, Bosses]
@@ -10,7 +10,7 @@ categories: [Pathfinder Exclusive, World Event, Monsters, Bosses]
 
 | Interluminary Parasol | |
 |---|---|
-| health | 153,000-156,000(hp varies), 225,000 (Corrupted) |
+| health | 150,000-156,000(hp varies), 225,000 (Corrupted) |
 | drops | Chest, Parasol Planter, Parasol Part (direct drop), Charged Parasol Part (direct drop), Raw Parasol Brain (direct drop), Parasol Membrane, Summer Scarf, Threadwork Summer Scarf, Vigil Sentinel, Jade Vigil's Weave, Etc. (Check loot table for more info) |
 | locations | Leiuna |
 | challenges | -- Interluminary Parasol --, Blot Out The Sun - Slay 10.Reward: +15% DMG; +7.5% RES |

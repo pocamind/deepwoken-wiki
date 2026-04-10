@@ -1,6 +1,6 @@
 ---
 title: Ashes
-revid: 200734
+revid: 204594
 source: https://deepwoken.fandom.com/wiki/Ashes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Craftable]
@@ -21,9 +21,9 @@ categories: [Treasures, Craftable]
 | desc | Funk to funky. |
 | obtainment | Crafted with 1 Wood at a Campfire |
 
-_Ashes_, not to be confused with the [Sinner's Ash](<Sinner's_Ash.md>) is an item that can be crafted at any [campfire](Campfire_Pit.md), only requiring 1 [Wood](Wood.md) to be crafted.
+## Description
 
-  
+_Ashes_, not to be confused with the [Sinner's Ash](<Sinner's_Ash.md>) is an item that can be crafted at any [campfire](Campfire_Pit.md), only requiring 1 [Wood](Wood.md) to be crafted.
 
 ## Usage
 

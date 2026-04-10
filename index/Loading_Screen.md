@@ -1,6 +1,6 @@
 ---
 title: Loading Screen
-revid: 202492
+revid: 204598
 source: https://deepwoken.fandom.com/wiki/Loading_Screen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -125,7 +125,6 @@ You can see how much Armor Resistance you have total in your Journal.
 -   Charmed enemies deal reduced damage to those that applied the status.
 -   Accidentally disconnected or crashed while in danger? So long as you were above 60% HP at the moment your connection cut out, you should not have lost a life. This does not apply to PvP.
 -   Killing certain tough monsters for the first time rewards you with 1 to 2 Knowledge.
--   Charmed enemies deal reduced damage to those that applied the status.
 -   Pressing Feint/Cancel while in ragdolled knockback will let you 'tech' the ragdoll state, speeding up your recovery.
 -   Wielding any Mantras of an element grans you Cantrips for that element. Cantrips are minor feats available to wielders of an element, such as lighting fires or purifying drinking water.
 

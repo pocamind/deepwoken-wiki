@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 204582
+revid: 204599
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -378,7 +378,7 @@ Applied by the Mantra [Lightning Cloak](Thundercall.md#lightning-cloak). Have yo
 
 ### Engulfed by Shadows
 
-Applied by the Mantra [Shade Devour](Shadowcast.md#shade-devour). Increases your weapon damage by 20-25%, depending on the amount of [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) on the Mantra (caps at 3). Signified by a dark aura emanating from your character.
+Applied by the Mantra [Shade Devour](Shadowcast.md#shade-devour), this effect grants a by 20-25% damage buff, depending on the amount of [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) on the Mantra (caps at 3). Signified by a dark aura emanating from your character.
 
 ### Blight
 

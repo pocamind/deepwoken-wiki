@@ -1,6 +1,6 @@
 ---
 title: Canor Borderwatchers
-revid: 201587
+revid: 204592
 source: https://deepwoken.fandom.com/wiki/Canor_Borderwatchers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -16,5 +16,5 @@ The Canor Borderwatchers popularized the use of the [Zweihander](Zweihander.md)[
 
 ## References
 
-1.  [↑](#cite-ref-1) [Zweihander](Zweihander.md)
-2.  [↑](#cite-ref-2) [Bloodbane](Bloodbane.md)
+1.  [↑](#cite-ref-1) [Zweihander](Zweihander.md) description
+2.  [↑](#cite-ref-2) [Bloodbane](Bloodbane.md) description
