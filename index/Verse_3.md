@@ -1,6 +1,6 @@
 ---
 title: Verse 3
-revid: 201104
+revid: 204578
 source: https://deepwoken.fandom.com/wiki/Verse_3
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages with reason, StubPages, Upcoming content, Pages with broken file links, Updates]
@@ -58,6 +58,12 @@ The land has changed in the [Eastern Luminant](Luminants.md), with some location
 _Deepwoken: Ironsworn_ Game icon
 
 On December 15th, 2025, [Vow of Iron](Vow_of_Iron.md) was released.
+
+### Vow of Iron
+
+The [Vow of Iron](Vow_of_Iron.md) game mode was added, separating the main game into what is now known as [Pathfinder](Pathfinder.md). Vow of Iron takes place in 1233 CE, reliving [Zi'eer's](<Zi'eer,_the_Fourth_Prophet.md>) rise to power through playable [Mementos](Mementos.md), the memories of the fallen that the player, known as [The Inheritor](The_Inheritor.md), wield in an attempt to find a detail or weakness that would allow the [Circle of Honor](Circle_of_Honour.md) to defeat Zi'eer in present days.
+
+Introducing a completely new way to progress, during the game mode, players are locked into preset builds with fixed [Attributes](Attributes.md), [Outfits](Outfits.md), and select [Weapons](Weapons.md). To obtain power players must purchase it through [Notes](Notes.md) from the [Reclaimer of the Recollection](Reclaimer_of_the_Recollection.md) and defeat core bosses such as [Dravik, The Rat King](Dravik,_The_Rat_King.md). New Mementos are unlocked along the way by completing certain milestones and challenges and interacting with the world.
 
 ## Operation: Deep Healing
 

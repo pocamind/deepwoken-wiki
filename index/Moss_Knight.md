@@ -1,6 +1,6 @@
 ---
 title: Moss Knight
-revid: 199300
+revid: 204573
 source: https://deepwoken.fandom.com/wiki/Moss_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Monsters, Knights]
@@ -14,7 +14,8 @@ notices:
 |---|---|
 | health | ~2060 |
 | attacks | Slash, Kick, Wind Cutter, Terra Eruption, Lifeweave Flourish |
-| drops | Unknown |
+| drops | ?? |
+| locations | Bluster Rapids, The Starswept Valley |
 
 Variants: [Stone Knight](Stone_Knight.md)
 
@@ -24,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Moss Knights a type of [Stone Knight](Stone_Knight.md) that is similar to [Desert Knights](Stone_Knight.md), spawning in singles in [Bluster Rift](Bluster_Rift.md).
+Moss Knights a type of [Stone Knight](Stone_Knight.md), spawning along [The Starswept Valley](The_Starswept_Valley.md) and the [Bluster Rapids](Bluster_Rapids.md). They appear to be covered in green moss and grasses with some sort of glowing fungi acting as their eyes.
 
 ## Moveset
 
@@ -107,4 +108,4 @@ Dodge
 
 ## Trivia
 
--   Certain Moss Knights are guaranteed to spawn within some locations of the Starswept and will guard their position, teleporting back if out of bounds.
+-   There are a few static Moss Knight spawns throughout [Vow of Iron](Vow_of_Iron.md), either appearing in groups or solo.

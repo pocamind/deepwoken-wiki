@@ -1,6 +1,6 @@
 ---
 title: Movement
-revid: 204535
+revid: 204561
 source: https://deepwoken.fandom.com/wiki/Movement
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -24,7 +24,7 @@ Rolling is done by pressing Q. On top of the movement benefits, rolling grants b
 
 When rolling in the air, you perform an air dash. An air dash can be aimed towards any direction, it can also be used to dodge attacks when airborne.
 
-If you touch the ground during an air dash, it will start rolling instead. The duration of the roll is not affected by the duration of the air dash. This mechanic is also known to negate fall damage when the damage is below a 10% (still needs testing) of your maximum health. If not, then it will reduce the fall damage by roughly 37%.
+If you touch the ground during an air dash, it will start rolling instead. The duration of the roll is not affected by the duration of the air dash. This mechanic is also known to negate fall damage when the damage is below a 15% (still needs testing on whether its the height or damage that it checks) of your maximum health. If not, then it will reduce the fall damage by roughly 37%.
 
 ## Crouching/Sliding
 
@@ -38,7 +38,7 @@ Jumping during the slide will perform a slide jump, sending you upward by roughl
 
 Wall jumping is done by jumping in the air or air dashing while moving towards a wall without facing towards it and touching it. Wall jumping sends you roughly (i'll test it later) degrees away from the wall depending on where your character is facing. There are no limits to how many times you can wall jump as long as there is a wall you can jump on. (still needs testing)
 
-Wall Climbing can be done by doing a wall jump while your character is facing the wall. When initiating a wall climb, your character gets sent roughly (i'll test this later too) degrees upwards while sending your character backwards for a few studs. After initiating a wall climb, you are able to do one air jump by jumping before landing back onto the ground, sending you directly upwards. A wall climb cannot be initiated again on the same wall unless it was initiated in the water. To continue a wall climb without touching the ground again, you can climb onto another wall before using the air jump (still needs testing).
+Wall Climbing can be done by doing a wall jump while your character is facing the wall. When initiating a wall climb, your character gets sent roughly (i'll test this later too) degrees upwards while sending your character backwards for a few studs. After initiating a wall climb, you are able to do one air jump by jumping before landing back onto the ground, sending you directly upwards. When you are able to do an air jump, you are unable to wall jump.
 
 By jumping right under an edge of a wall, you start holding the edge. To stop holding the edge, you can either jump, which sends you directly upwards, or move away from the wall.
 

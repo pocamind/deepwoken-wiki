@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 203685
+revid: 204582
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -374,7 +374,7 @@ Upon casting [Flame of Denial](Flamecharm.md#flame-of-denial), gain a status eff
 
 ### Engulfed by Lightning
 
-Applied by the Mantra [Lightning Cloak](Thundercall.md#lightning-cloak). Have your swing speed by 10% and movement speed increased while active. Signified by pulsating electricity around your character.
+Applied by the Mantra [Lightning Cloak](Thundercall.md#lightning-cloak). Have your swing speed increased by 2% and movement speed increased while active. Additionally all dashes will be lightning dashes while active. Signified by pulsating electricity around your character.
 
 ### Engulfed by Shadows
 

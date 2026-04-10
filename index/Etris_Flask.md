@@ -1,11 +1,9 @@
 ---
 title: Etris Flask
-revid: 204536
+revid: 204580
 source: https://deepwoken.fandom.com/wiki/Etris_Flask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Items, Tools]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Vow of Iron Exclusive, Items, Tools]
 ---
 
 # Etris Flask

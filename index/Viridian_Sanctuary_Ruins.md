@@ -1,11 +1,10 @@
 ---
 title: Viridian Sanctuary Ruins
-revid: 201078
+revid: 204577
 source: https://deepwoken.fandom.com/wiki/Viridian_Sanctuary_Ruins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Stub pages without reason, StubPages, Locations, Clan Mofisu]
+categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Locations, Clan Mofisu]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
@@ -18,3 +17,18 @@ This content is not accessible outside of this gamemode.
 LocationL Viridian Sanctuary Ruins LocationR
 
 The once-home of the devout Clan Mofisu now turns to cinders, engulfed in the roaring flames of civil war.
+
+  
+
+## Description
+
+The **Viridian Sanctuary Ruins** was the home of [Clan Mofisu](Clan_Mofisu.md) before being brought to ruin. It can be found along the right side of [Aratel Island](Aratel_Island.md), near [Temple of Mur](Temple_of_Mur.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode.
+
+## Contents
+
+-   An [Etris Flask](Etris_Flask.md) can be bought from here for 250.
+-   Inside of the main house, a [Kanabo](Kanabo.md) can be claimed.
+
+## Quests
+
+Continuing on from [Samnang](Samnang.md)'s quest, Scattered possessions can be found here. They belong to the deceased [Sophon](Sophon.md).

@@ -1,9 +1,9 @@
 ---
 title: Galebreathe
-revid: 204527
+revid: 204569
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Attunement]
+categories: [Attunement]
 ---
 
 # Galebreathe
@@ -13,10 +13,6 @@ categories: [Pages with broken file links, Attunement]
 ― Friid, Master of Gale
 
 Galebreathe icon
-
-File:954A86E4-C971-43CA-AD53-09FB68BD9218.gif
-
-File:Dfoctor.jpg
 
 ## Description
 
@@ -28,7 +24,7 @@ Galebreathe also has [Talents](Talents.md) attributed to it as well, allowing th
 
 ## Obtainment
 
-The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](Attunement_Potions.md) obtained from the [Attunement Trainer](Attunement_Trainers.md), [Friid](Friid,_Master_of_Gale.md), located in the [Isle of Vigils](Isle_of_Vigils.md), just outside the [Temple of the Blade](Temple_of_the_Blade.md), using two [Gale Stones](Gale_Stone.md) assuming you have Galebreathe unlocked, or 5 Gale Stones if you haven't already unlocked Galebreathe. Alternatively, you can simply pick the Random option when selecting your Attunement in the character creation screen, this has a chance of unlocking Galebreathe without you needing to unlock it yourself. If you don't get it the first time, you can just wipe and retry until you get it. This works for all other Attunements as well (excluding [Shadowcast](Shadowcast.md), [Ironsing](Ironsing.md) and [Bloodrend](Bloodrend.md)).
+The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](Attunement_Potions.md) obtained from the [Attunement Trainer](Attunement_Trainers.md), [Friid](Friid,_Master_of_Gale.md), located in the [Isle of Vigils](Isle_of_Vigils.md), just outside the [Temple of the Blade](Temple_of_the_Blade.md), using two [Gale Stones](Gale_Stone.md) assuming you have Galebreathe unlocked, or 5 Gale Stones if you haven't already unlocked Galebreathe. Alternatively, you can simply pick the Random option when selecting your Attunement in the character creation screen, this has a chance of unlocking Galebreathe without you needing to unlock it yourself. If you don't get it the first time, you can just wipe and retry until you get it. This works for all other base Attunements as well.
 
 ## Training
 
@@ -60,7 +56,7 @@ Cantrips are, often minor, passive abilities that are granted upon obtaining any
 
 ### Batch Harvest
 
-This Cantrip allows the player to batch harvest multiple of the same ingredient at once if there are others of that ingredient nearby. For example, if there are three [Dentifilos](Dentifilo.md) that spawned close together, harvesting one will collect all three.
+This Cantrip allows the player to harvest multiple of the same ingredient at once if there are others of that ingredient nearby. For example, if there are three [Dentifilos](Dentifilo.md) that spawned close together, harvesting one will collect all three.
 
 This does not work on [Ores](Ores.md).
 
