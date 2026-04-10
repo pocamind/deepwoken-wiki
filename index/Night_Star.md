@@ -1,6 +1,6 @@
 ---
 title: Night Star
-revid: 201635
+revid: 204602
 source: https://deepwoken.fandom.com/wiki/Night_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Weapons with Talents, Clubs, Medium Weapons]
@@ -36,6 +36,8 @@ categories: [Vow of Iron Exclusive, Weapons, Weapons with Talents, Clubs, Medium
 | pass down | No |
 | obtainment | Found in the First Layer, near the Diluvian Mechanism |
 | description | ... |
+
+Variants: [Morning Star](Morning_Star.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

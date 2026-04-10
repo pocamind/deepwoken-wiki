@@ -1,6 +1,6 @@
 ---
 title: Shields
-revid: 203488
+revid: 204604
 source: https://deepwoken.fandom.com/wiki/Shields
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons by Class]
@@ -8,7 +8,7 @@ categories: [Weapons, Weapons by Class]
 
 # Shields
 
-Shields are an offhand weapon type in Deepwoken. These defensive tools increase the wearer's maximum **posture** stat, but reduce the amount of posture you recover from parrying as a downside.
+Shields are an offhand weapon type in Deepwoken. These defensive tools increase the wearer's maximum **posture** stat, but reduce the amount of posture you recover from parrying by 40% as a downside.
 
 Certain Talents, most notably the aptly named [Shieldbreaker](Talents.md#shieldbreaker), allow people to ignore the posture bonus shields grant players. Take caution when using shields, as they may not work in all scenarios.
 
