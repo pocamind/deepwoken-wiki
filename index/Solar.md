@@ -1,6 +1,6 @@
 ---
 title: Solar
-revid: 203511
+revid: 204640
 source: https://deepwoken.fandom.com/wiki/Solar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -29,5 +29,5 @@ If you land a [Vent](Combat_Mechanics.md#tempo) on someone who has a Solar Mark,
 ### Notes
 
 -   Solar's effects also proc on the [Imperator's Fury](<Imperator's_Fury.md>) Vent.
--   Increases your Vent damage in PvE to one thousand (works with Chain of Perfection).
--   The PvE damage increase is percent-based, meaning Imperator's Fury increases your vent damage to a whopping two thousand.
+-   Increases your Vent damage in PvE to 1,000. (works with Chain of Perfection).
+-   The PvE damage increase is percent-based, meaning Imperator's Fury increases your vent damage to a whopping 2,000.

@@ -1,6 +1,6 @@
 ---
 title: Party Hat
-revid: 178718
+revid: 204627
 source: https://deepwoken.fandom.com/wiki/Party_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Equipment, Event Item]
@@ -19,7 +19,7 @@ notices:
 | weight | 1 |
 | innate stats | None |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Seasonal Medals 1 |
