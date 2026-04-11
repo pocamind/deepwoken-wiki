@@ -1,6 +1,6 @@
 ---
 title: Necrotic Demon Horns
-revid: 199698
+revid: 204760
 source: https://deepwoken.fandom.com/wiki/Necrotic_Demon_Horns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Horns, Craftable]
@@ -30,4 +30,4 @@ Variants: [Aazel's Horns](<Aazel's_Horns.md>)
 
 The **Necrotic Demon Horns** is an [Equipment](Equipment.md) item under the "Head" category.
 
-The [Mindspark](Talents.md#mindspark) Talent increases your [Burn](Status_Effects.md#burn) damage based on how low your [Sanity](Insanity.md) is.
+The [Mindspark](Talents.md#mindspark) Talent grants +0.0205 flat damage to each burn tick for every 1% Sanity you've lost, capping at +2.05 damage at 0% Sanity.

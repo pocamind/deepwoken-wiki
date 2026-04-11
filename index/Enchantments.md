@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 204056
+revid: 204762
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -27,7 +27,7 @@ Enchantments have a set chance to be applied to a weapon during the following sc
         -   Certain [Bosses](Bosses.md)
         -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
         -   [Saramaed Hollow](Saramaed_Hollow.md)
-        -   [War Mode](War_Mode.md)
+        -   [War Mode](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 You cannot 'stack' enchantments. If you obtain a helmet with Multiplicity while having boots with Multiplicity equipped, you can't equip the Multiplicity helmet.
 
@@ -656,7 +656,7 @@ Additionally, your weapon attacks can proc certain [Shadowcast](Shadowcast.md) T
 
 Nightbringer is exclusively obtained from its [Enchant Stone](Enchant_Stone.md).
 
-Nightbringer Enchant Stone is a direct drop from [Parliament](Parliament.md) and [Prime Megalodaunt](Prime_Megalodaunt.md) (estimated 5% drop chance for each).
+Nightbringer Enchant Stone is a direct drop from [Parliament](Parliament.md) and [Prime Megalodaunt](Prime_Megalodaunt.md) (Guaranteed from Parliament but a 5% drop from the Prime Megalodaunt).
 
   
 

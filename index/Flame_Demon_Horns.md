@@ -1,6 +1,6 @@
 ---
 title: Flame Demon Horns
-revid: 198526
+revid: 204761
 source: https://deepwoken.fandom.com/wiki/Flame_Demon_Horns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Horns]
@@ -34,4 +34,4 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 The Flame Demon Horns is an [Equipment](Equipment.md) item under the "Head" category. When worn, it emits smoke particles out of the the horns, this also changes color when dyed.
 
-The [Mindspark](Talents.md#mindspark) Talent increases your [Burn](Status_Effects.md#burn) damage based on how low your [sanity](Insanity.md) is.
+The [Mindspark](Talents.md#mindspark) Talent grants +0.0205 flat damage to each burn tick, for every 1% Sanity you've lost, capping at +2.05 damage at 0% Sanity.
