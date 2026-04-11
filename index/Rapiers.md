@@ -1,6 +1,6 @@
 ---
 title: Rapiers
-revid: 204674
+revid: 204679
 source: https://deepwoken.fandom.com/wiki/Rapiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Weapons, Light Weapons, Weapons by Class]
@@ -10,9 +10,9 @@ categories: [Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Weapons,
 
 ## Description
 
-Bridging the gap between Medium and Light weapons, Rapiers boast the Swing Speed of Swords with the dexterity of Daggers.
+Bridging the gap between Medium and Light weapons, the Rapier Light Weapon class boast the Swing Speed and Range of Swords with the dexterity of Daggers.
 
-These weapons are traditionally locked into the One Handed stance.
+These weapons are traditionally locked to the One Handed stance.
 
 ## PvE Mechanics
 

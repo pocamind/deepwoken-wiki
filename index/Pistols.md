@@ -1,6 +1,6 @@
 ---
 title: Pistols
-revid: 204673
+revid: 204680
 source: https://deepwoken.fandom.com/wiki/Pistols
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Light Weapons, Weapon Classes, Weapons, Guns]
@@ -10,7 +10,7 @@ categories: [Light Weapons, Weapon Classes, Weapons, Guns]
 
 ## Description
 
-Pistols are a ranged weapon class designed to shoot projectiles.
+Pistols are a ranged Light Weapon class designed to shoot projectiles.
 
 They can be used in three different ways, with each having unique Talents and mechanics;
 
@@ -18,7 +18,7 @@ They can be used in three different ways, with each having unique Talents and me
 2.  **Offhanded**, which involves equipping an Offhanded Pistol alongside any other weapon.
     -   **Dual Guns**, which involves equipping an Offhand Pistol alongside a main hand one. With this type, you cycle your shots between each Pistol.
 
-These weapons are traditionally locked into the One Handed stance.
+These weapons are traditionally locked to the One Handed stance.
 
 ## Singular Pistol
 
@@ -42,7 +42,7 @@ The [Iron Requiem](Iron_Requiem.md) cannot be Offhanded.
 
 ## Miscellaneous Mechanics
 
--   [Bullets](Bullets.md) grant Pistol blast attacks +10% PEN.
+-   [Bullets](Bullets.md) grant Pistol blast shots +10% PEN.
 -   [Bullet Casings](Bullet_Casings.md) can be used to entirely modify the effects you apply on blast shots, though usually at the cost of a decrease in weapon damage.
 
 For more information on Pistol mechanics, view [Guns](Guns.md).

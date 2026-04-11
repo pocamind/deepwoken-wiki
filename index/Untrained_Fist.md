@@ -1,6 +1,6 @@
 ---
 title: Untrained Fist
-revid: 201813
+revid: 204681
 source: https://deepwoken.fandom.com/wiki/Untrained_Fist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, Fighting Styles]
@@ -19,6 +19,7 @@ categories: [Weapons, Fists, Light Weapons, Fighting Styles]
 | range | 6 Sweep |
 | swing speed | 1.13x |
 | attack duration | 0.5s |
+| special effect | Weapon attacks deal 50% less damage |
 | m.equip | No |
 | m.extract | No |
 | rarity | N/A |

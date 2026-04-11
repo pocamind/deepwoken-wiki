@@ -1,14 +1,36 @@
 ---
 title: Daggers
-revid: 130352
+revid: 204676
 source: https://deepwoken.fandom.com/wiki/Daggers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Light Weapons, Weapons by Class]
+categories: ["Weapons with Multi-Hit Criticals", Weapons, Light Weapons, Weapons by Class]
 ---
 
 # Daggers
 
-Daggers are a fast and quick weapons that deal low damage and posture, but makes up for it in its speed. Daggers are small weapons featuring a handle and a small blade. They have incredible attack speed, attacking faster than most weapons, allowing for consistent combos if a player lands the first strike. They typically deal more blood damage than other weapons. Despite this, they have very low damage and range, demanding aggression from users to lay down consistent damage.
+## Description
+
+Daggers are a quick and dexterous Light Weapons that deal low damage and posture damage, but make up for it with their speed.
+
+These weapons are traditionally locked to the One Handed stance.
+
+## PvE Mechanics
+
+When used with the [Knife's Journey](Talents.md#knifes-journey) Talent, Daggers gain a 15% chance to **critically hit** on basic attacks, dealing 5x their normal damage.
+
+**Critical hits** are not to be confused with **critical attacks**, as they do not proc any "on critical attack" effects.
+
+This effect is Dagger exclusive, and does not work with the [Switchblade](Talents.md#switchblade) Talent. [Moppet](Moppet.md)'s critical attack cannot critically hit.
+
+## Default Animations
+
+The Daggers weapon class comes with a set of default weapon animations.
+
+## Critical
+
+Daggers uses the default Dagger critical, a series of 3 quick slashes. The first hit has a scaled damage multiplier of **1x**, while the second and third have a scaled damage multiplier of **0.8x**. It has a cooldown of **3 seconds**.
+
+## Weapons
 
 <table><caption>Light Weapons</caption>
 <tbody>
