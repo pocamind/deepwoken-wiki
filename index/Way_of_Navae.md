@@ -1,6 +1,6 @@
 ---
 title: Way of Navae
-revid: 200479
+revid: 204726
 source: https://deepwoken.fandom.com/wiki/Way_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons, The Children of Navae, Navae Weapons]
@@ -42,7 +42,9 @@ If you have Way of Navae and other [Fist Styles](Fists.md) (except for [Jus Kari
 
 ## Critical
 
-User raises their leg with a slow windup before firmly slamming it down, breaking the opponent's guard.
+User raises their leg with a slow windup before slamming it down, breaking the opponent's guard. This attack has a scaled damage multiplier of **1x** and guardbreaks if blocked.
+
+This attack has a **5 second cooldown**.
 
 ## Obtainment
 

@@ -1,6 +1,6 @@
 ---
 title: Pistols
-revid: 204680
+revid: 204720
 source: https://deepwoken.fandom.com/wiki/Pistols
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Light Weapons, Weapon Classes, Weapons, Guns]
@@ -18,7 +18,7 @@ They can be used in three different ways, with each having unique Talents and me
 2.  **Offhanded**, which involves equipping an Offhanded Pistol alongside any other weapon.
     -   **Dual Guns**, which involves equipping an Offhand Pistol alongside a main hand one. With this type, you cycle your shots between each Pistol.
 
-These weapons are traditionally locked to the One Handed stance.
+These weapons are typically locked to the One Handed stance.
 
 ## Singular Pistol
 

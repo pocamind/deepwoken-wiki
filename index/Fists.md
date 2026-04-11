@@ -1,60 +1,48 @@
 ---
-title: Frost Gauntlets
-revid: 204746
-source: https://deepwoken.fandom.com/wiki/Frost_Gauntlets
+title: Fists
+revid: 204744
+source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Vow of Iron Exclusive, Weapons, Fists, Light Weapons, Weapons with Talents]
+categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Fists, Light Weapons]
 ---
 
-# Frost Gauntlets
+# Fists
 
-| Frost Gauntlets | |
+| Fists | |
 |---|---|
-| type | Fist |
+| type | Light Weapon |
 | damage type | Blunt |
-| requirements | 30 LHT |
-| damage | 14 |
-| scaling | LHT: 9 |
-| posture damage | 5 |
+| requirements | N/A |
+| damage | 12 |
+| scaling | LHT: 7 |
+| posture damage | 3 |
 | range | 6 Sweep |
-| swing speed | 1.1x |
+| swing speed | 1.13x |
 | attack duration | 0.5s |
-| penetration | 5% |
-| talent | Fortify - Slow down your movement in exchange for fortifying your defenses. |
 | m.equip | No |
 | m.extract | No |
-| stances | 1 Handed |
-| rarity | Uncommon |
-| selling price | 14 |
+| rarity | N/A |
 | weight | 2 |
 | bankable | No |
 | droppable | No |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | No |
-| obtainment | The Indigo Citadel |
-| description | Perfect for a Knuckle Sandwich, served cold. |
+| obtainment | Style dependant |
+| description | Your bare fists. Worth a shot, right? |
 
-Variants: [Legion Cestus](Legion_Cestus.md)
-
-**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
-For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
+This page refers to the "Fist" (bare hands) **weapon** that appears when you equip any [Fist Style](Fists.md#styles) while not using a Fist-related weapon. View the **Fists** page for Fist Styles and weapons.
 
 ## Description
 
-Frost Gauntlets are a pair of cestus, exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode.
+Fists, or the bare hands variant (without any Cestus or equipped weapons) of the Fist fighting styles, is a weak Light Weapon.
 
-## Talent: Fortify
-
-Equipping the Frost Gauntlets grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
-
-**Fortify** gives a Talent tool that applies a heavy slow debuff to yourself in exchange for high damage reduction. Lasts 30 seconds.
+The animations of your light attacks and critical attack of this weapon depends on your equipped [Fist Style](Fists.md#styles), with those being [Fang and Coil](Fang_and_Coil.md), [Imperium Kata](Imperium_Kata.md), [Legion Kata](Legion_Kata.md), [Untrained Fist](Untrained_Fist.md), and [Way of Navae](Way_of_Navae.md).
 
 ## Critical
 
 **Fang and Coil:**
 
-Frost Gauntlets uses the default Fist critical, a showing of martial prowess that changes depending on the user's equipped [Fist Style](Fists.md#styles).
+Fists uses the default Fist critical, a showing of martial prowess that changes depending on the user's equipped [Fist Style](Fists.md#styles).
 
   
 With the [Fang and Coil](Fang_and_Coil.md) style, the user does a quick leg sweep, ragdolling and dazing opponents. This has a scaled damage multiplier of **0.65x** and deals **10** posture damage if blocked. This attack dazes and ragdolls for **1.25s**, and with a short windup of **0.4s** and an endlag of **0.25s**. This attack has a **3 second cooldown**.
@@ -63,7 +51,7 @@ If the [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) Outfit is equipped, you wil
 
 **Imperium Kata:**
 
-Frost Gauntlets uses the default Fist critical, a showing of martial prowess that changes depending on the user's equipped [Fist Style](Fists.md#styles).
+Fists uses the default Fist critical, a showing of martial prowess that changes depending on the user's equipped [Fist Style](Fists.md#styles).
 
   
 With the [Imperium Kata](Imperium_Kata.md) style, the user performs two swift side kicks and is slowed by 60% for the duration of the critical. Despite slowing you, the critical gives you a 12.5% speed boost for 2.5 seconds.
@@ -76,7 +64,7 @@ This critical has a cooldown of **5** seconds.
 
 **Legion Kata:**
 
-Frost Gauntlets uses the default Fist critical, a showing of martial prowess that changes depending on the user's equipped [Fist Style](Fists.md#styles).
+Fists uses the default Fist critical, a showing of martial prowess that changes depending on the user's equipped [Fist Style](Fists.md#styles).
 
   
 With the [Legion Kata](Legion_Kata.md) style, the user performs a suplex, turning their opponent upside down and slamming them into the ground. This attack has a scaled damage multiplier of **1.5x** and applies [Dazed](Status_Effects.md#dazed) on hit.
@@ -85,7 +73,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 **Untrained Fist:**
 
-Frost Gauntlets uses the default Fist critical, a showing of martial prowess that changes depending on the user's equipped [Fist Style](Fists.md#styles).
+Fists uses the default Fist critical, a showing of martial prowess that changes depending on the user's equipped [Fist Style](Fists.md#styles).
 
   
 With the [Untrained Fist](Untrained_Fist.md) style, the user runs forward and swings their fist before striking with a haymaker punch. The user gains very brief hyperarmor during the punch animation. Pressing M2 during the rush segment of the critical will halt your movement.
@@ -98,9 +86,14 @@ This critical has a **5 second** cooldown.
 
 **Way of Navae:**
 
-Frost Gauntlets uses the default Fist critical, a showing of martial prowess that changes depending on the user's equipped [Fist Style](Fists.md#styles).
+Fists uses the default Fist critical, a showing of martial prowess that changes depending on the user's equipped [Fist Style](Fists.md#styles).
 
   
 With the [Way of Navae](Way_of_Navae.md) style, the user raises their leg with a slow windup before slamming it down. This attack has a scaled damage multiplier of **1x** and **guardbreaks** if blocked.
 
 This attack has a **5 second cooldown**.
+
+## Trivia
+
+-   When trying to alloy your fists with a [Pluripotent Alloy](Pluripotent_Alloy.md), you get special text - "A little voice in your head tells you that Alloying yourself would probably be a bad idea. Your blood needs iron to deliver oxygen to your organs. You need organs to live."
+-   All of the [Fist Styles](Fists.md#styles) have the exact same base stats when equipped without any Fist-related weapons, including [Untrained Fist](Untrained_Fist.md), although it has the special effect of dealing 50% less damage.

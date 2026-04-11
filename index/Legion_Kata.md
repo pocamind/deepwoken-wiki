@@ -1,6 +1,6 @@
 ---
 title: Legion Kata
-revid: 204707
+revid: 204727
 source: https://deepwoken.fandom.com/wiki/Legion_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Fists, Fighting Styles, Light Weapons, The Hundred Legions]
@@ -40,7 +40,7 @@ If you have Legion Kata and other [Fist Styles](Fists.md) (except for [Jus Karit
 
 ## Critical
 
-User performs a suplex, turning their opponent upside down and firmly slamming them into the ground. Applies [Dazed](Status_Effects.md#dazed) on hit.
+User performs a suplex, turning their opponent upside down and slamming them into the ground. This attack has a scaled damage multiplier of **1.5x** and applies [Dazed](Status_Effects.md#dazed) on hit.
 
 This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 

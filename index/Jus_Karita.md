@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 204708
+revid: 204756
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons]
@@ -12,7 +12,7 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons]
 |---|---|
 | type | Light Weapon |
 | damage type | Blunt |
-| requirements | 40 LHT, PWR 5 |
+| requirements | N/A |
 | damage | 14 |
 | scaling | LHT: 9 |
 | posture damage | 3 |
@@ -28,7 +28,7 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons]
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Step 1: Get 40 LHT, and Power 5.Step 2: Talk to Polis at Etris. |
+| obtainment | Step 1: Get 40 LHT, and Power 5., Step 2: Talk to Polis at Etris. |
 | description | The traditional martial arts style of the Justicars. |
 
 ## Description
@@ -47,7 +47,9 @@ Completing this will grant you the Jus Karita Talent which enables you to use th
 
 ## Critical
 
-Dash forward while performing a kick. This critical deals **1.3x scaled damage.**
+Dash forward while performing a kick. This critical has a scaled damage multiplier of **1.3x**.
+
+This critical has a **3 second cooldown**.
 
 ## Mantras
 

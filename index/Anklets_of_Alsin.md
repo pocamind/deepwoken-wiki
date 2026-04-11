@@ -1,6 +1,6 @@
 ---
 title: Anklets of Alsin
-revid: 202937
+revid: 204755
 source: https://deepwoken.fandom.com/wiki/Anklets_of_Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -10,9 +10,9 @@ categories: [Weapons, Fists, Light Weapons]
 
 | Anklets of Alsin | |
 |---|---|
-| type | Kick Style (Jus Karita) |
+| type | Fists |
 | damage type | Blunt |
-| requirements | 25 LHT [REQUIRES A KICK STYLE] |
+| requirements | 25 LHT |
 | damage | 13.5 |
 | scaling | LHT: 9 |
 | posture damage | 3 |
@@ -36,6 +36,12 @@ categories: [Weapons, Fists, Light Weapons]
 ## Description
 
 The Anklets of Alsin are a pair of light weapon anklets, used with the [Jus Karita](Jus_Karita.md) fighting style.
+
+## Critical
+
+Dash forward while performing a kick. This critical has a scaled damage multiplier of **1.3x**.
+
+This critical has a **3 second cooldown**.
 
 ## Trivia/Notes
 

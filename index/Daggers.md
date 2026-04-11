@@ -1,6 +1,6 @@
 ---
 title: Daggers
-revid: 204676
+revid: 204722
 source: https://deepwoken.fandom.com/wiki/Daggers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Weapons, Light Weapons, Weapons by Class]
@@ -12,7 +12,7 @@ categories: ["Weapons with Multi-Hit Criticals", Weapons, Light Weapons, Weapons
 
 Daggers are a quick and dexterous Light Weapons that deal low damage and posture damage, but make up for it with their speed.
 
-These weapons are traditionally locked to the One Handed stance.
+These weapons are typically locked to the One Handed stance.
 
 ## PvE Mechanics
 
@@ -26,7 +26,7 @@ This effect is Dagger exclusive, and does not work with the [Switchblade](Talent
 
 The Daggers weapon class comes with a set of default weapon animations.
 
-## Critical
+## Default Critical
 
 Daggers uses the default Dagger critical, a series of 3 quick slashes. The first hit has a scaled damage multiplier of **1x**, while the second and third have a scaled damage multiplier of **0.8x**. It has a cooldown of **3 seconds**.
 

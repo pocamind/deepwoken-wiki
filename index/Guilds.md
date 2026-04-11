@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 203230
+revid: 204757
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics]
@@ -107,7 +107,7 @@ The following ways to obtain guild score and the amount earned is listed below:
 
  |
 
-When reaching a certain amount of overall Guild Score, your guild's rank will be displayed on the playerlist. Upon reaching the top 100, your guild will be displayed on Guild Leaderboards. Guild Score resets at the start of every month.
+When reaching a certain amount of overall Guild Score, your guild's rank will be displayed on the playerlist. Upon reaching the top 1000, your guild will be displayed on Guild Leaderboards. Guild Score resets at the start of every month.
 
 During [Doubled Rates Weekends](Doubled_Rates_Weekends.md), earned guild score will be doubled.
 
