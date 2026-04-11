@@ -1,6 +1,6 @@
 ---
 title: Pistols
-revid: 204623
+revid: 204673
 source: https://deepwoken.fandom.com/wiki/Pistols
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Light Weapons, Weapon Classes, Weapons, Guns]
@@ -16,7 +16,9 @@ They can be used in three different ways, with each having unique Talents and me
 
 1.  **Singular**, which involves only using a singular pistol in your main hand. This introduces a _reload_ mechanic.
 2.  **Offhanded**, which involves equipping an Offhanded Pistol alongside any other weapon.
-3.  **Dual Guns**, which involves equipping an Offhand Pistol alongside a main hand one. With this type, you cycle your shots between each Pistol.
+    -   **Dual Guns**, which involves equipping an Offhand Pistol alongside a main hand one. With this type, you cycle your shots between each Pistol.
+
+These weapons are traditionally locked into the One Handed stance.
 
 ## Singular Pistol
 
@@ -44,6 +46,10 @@ The [Iron Requiem](Iron_Requiem.md) cannot be Offhanded.
 -   [Bullet Casings](Bullet_Casings.md) can be used to entirely modify the effects you apply on blast shots, though usually at the cost of a decrease in weapon damage.
 
 For more information on Pistol mechanics, view [Guns](Guns.md).
+
+## Default Animations
+
+The Pistols weapon class comes with a set of default weapon animations.
 
 ## Default Critical
 

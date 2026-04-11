@@ -1,6 +1,6 @@
 ---
 title: Attribute Trees
-revid: 180713
+revid: 204642
 source: https://deepwoken.fandom.com/wiki/Attribute_Trees
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages]
@@ -24,10 +24,33 @@ Each Tab is designed to show Talents that involve the searched Attribute from Le
     -   Rare Talents. You will see far less rares than commons, only two per power increase. Often "stronger" than common Talents, or have larger effects.
 
 -   Advanced
-    -   The most uncommon type of Talent, though not rare if you meet the requirements. These Talents have potent, powerful effects on a character.
+    -   The most uncommon type of Talent, though not rare if you meet the requirements. These Talents have potent, powerful effects on a character. These Talents are often at the end of a Talent tree, requiring various other Talents as prerequisites.
 
--   Oath
-    -   Talents obtained through taking an [Oath](Oaths.md). They relate to the Oath taken and don't take up Talent slots.
+-   Oath / Memento
+    
+    -   Talents obtained through taking an [Oath](Oaths.md) or exclusive Talents obtained from [Mementos](Mementos.md). They relate to the Oath taken and don't take up Talent slots.
+    
+
+-   Race
+    -   Talents obtained from your [Aspect](Aspects.md). These Talents do not take up Talent slots.
+
+-   Mantra Level / Mastery
+    -   Talents obtained from meeting certain Attunement investment milestones and [Unbounding Attributes](Attributes_Unbound.md) respectively. These Talents do not take up Talent slots, and are granted instantly upon meeting their prerequisites.
+
+-   Origin / Quest
+    -   Talents obtained from your [Origin](Origins.md) or through completing Quests. These Talents do not take up Talent slots.
+
+-   Faction
+    -   Talents obtained from a specific faction. These Talents may be given as a reward from having high reputation or completing a specific milestone or task for a [faction](Reputation.md).
+
+-   Mantra
+    -   Grants a Mantra. These cards come in their own separate [Whisper Rolls](Whisper_Draw.md). See [Mantras](Mantras.md).
+
+-   Mystery
+    -   Grants a random Mantra, Roll 2, or Fold depending on the card type.
+        -   The random Mantra card will state the Mantra type and star value (e.g. "Random Thundercall Combat Mantra" with 2 stars on the card), though the outcome is still random within that range. These cards can only be chosen from [Whisper Draws](Whisper_Draw.md) and are guaranteed in each one.
+        -   Roll 2 grants 2 random Talents, these Talents cannot be Rare Talents unless they have been [Frozen](Aces.md). These cards and can only be chosen from [Whisper Draws](Whisper_Draw.md) and are guaranteed in each one.
+        -   Fold removes your current hand of cards; you'll obtain an additional, rerolled, Talent hand the next time you Power up instead. This should only be taken if you don't want any of the Talents in your current hand. These cards can only be chosen from Talent hands and are somewhat uncommon, only having a chance to show up. Additionally, after picking "Fold" 3 times in the same Power up, though not necessarily in sequence, all remaining talent hands will be skipped and will roll over to your next Power up.
 
 Pulled from [Talents](Talents.md) for immediate reference.
 

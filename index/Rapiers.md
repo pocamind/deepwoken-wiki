@@ -1,14 +1,34 @@
 ---
 title: Rapiers
-revid: 149484
+revid: 204674
 source: https://deepwoken.fandom.com/wiki/Rapiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Light Weapons, Weapons by Class]
+categories: [Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Weapons, Light Weapons, Weapons by Class]
 ---
 
 # Rapiers
 
-Bridging the gap between medium and light weapons
+## Description
+
+Bridging the gap between Medium and Light weapons, Rapiers boast the Swing Speed of Swords with the dexterity of Daggers.
+
+These weapons are traditionally locked into the One Handed stance.
+
+## PvE Mechanics
+
+Using a light attack after parrying will riposte your opponent, adding a secondary damage instance to your attack that deals reduced damage.
+
+## Default Animations
+
+The Rapiers weapon class comes with a set of default weapon animations.
+
+## Default Critical
+
+Rapiers uses the default Rapier critical, thrusting the weapon 4 times. Each hit has a scaled damage multiplier of **0.7x**. It has a cooldown of **3 seconds**.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+
+## Weapons
 
 <table><caption>Light Weapons</caption>
 <tbody>

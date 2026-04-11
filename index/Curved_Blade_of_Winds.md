@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 203181
+revid: 204658
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Dual-wielded Weapons", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -25,7 +25,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals 
 | special effect | Aftercut is applied to all attacks. |
 | m.equip | No |
 | m.extract | No |
-| stances | 2 Handed, 1 Handed |
+| stances | 2 Handed, 1 Handed (Dual wield) |
 | rarity | Mythical |
 | selling price | 100 |
 | weight | 2 |

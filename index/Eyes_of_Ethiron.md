@@ -1,6 +1,6 @@
 ---
 title: Eyes of Ethiron
-revid: 203923
+revid: 204659
 source: https://deepwoken.fandom.com/wiki/Eyes_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, "Weapons with Multi-Attunement Scaling", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Medium Weapons, Swords, Reforged Weapons, "Dual-wielded Weapons", "Attunement-based Weapons"]
@@ -24,6 +24,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons wi
 | talent | Sable Winds - You can now Inhale Shadowcast mantras. Aftercut effects now drain a small amount of ether based on the damage they deal. |
 | m.equip | No |
 | m.extract | No |
+| stances | 2 Handed, 1 Handed (Dual wield) |
 | selling price | 50 |
 | weight | 2 |
 | bankable | Yes |
@@ -41,7 +42,7 @@ The Eyes of Ethiron is a horrifying version of the [Curved Blade of Winds](Curve
 
 This weapon comes with a passive ability:
 
--   **Twisted After Cut** - Basic attacks apply After Cut dealing 5% of the initial damage of the attack, as well as stealing the user's Ether.
+-   **Twisted After Cut** - Basic attacks apply After Cut dealing 5% of the initial damage of the attack, as well as stealing the opponent's Ether.
 
 ## Talent: Sable Winds
 
