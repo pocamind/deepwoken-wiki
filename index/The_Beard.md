@@ -1,9 +1,9 @@
 ---
 title: The Beard
-revid: 201853
+revid: 204767
 source: https://deepwoken.fandom.com/wiki/The_Beard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Vow of Iron Exclusive, Vendors, NPCs, Humanoids with Unobtainable Outfits]
+categories: [Canor NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, Vendors, NPCs, Humanoids with Unobtainable Outfits]
 ---
 
 # The Beard
@@ -12,6 +12,7 @@ categories: [Canor NPCs, Vow of Iron Exclusive, Vendors, NPCs, Humanoids with Un
 |---|---|
 | alias | The Beard |
 | aspect | Canor |
+| pronouns | He/him |
 | location | The Golden Rat |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

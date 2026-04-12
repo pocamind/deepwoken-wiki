@@ -1,6 +1,6 @@
 ---
 title: Crimson Megalodaunt
-revid: 204391
+revid: 204768
 source: https://deepwoken.fandom.com/wiki/Crimson_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Monsters]
 
 | Crimson Megalodaunt | |
 |---|---|
-| health | 30007500 (Corrupted) |
+| health | 28007000 (Corrupted) |
 | attacks | Slash, Kick, Jump, Roar, Thousand Needles, Tacet Hug, Tacet Drop Kick, Pyroclastic Roar, Finisher: Curb Stomp |
 | drops | Megalodaunt Hide, Mantra Modifiers, Umbral Obsidian, Megalodaunt Coat, First Light |
 | challenges | -- Megalodaunt --, Sharktooth Necklace - Slay 10.Reward: +10% DMG; +5% RES, Not So Daunting - Slay 25.Reward: +10% DMG; +5% RES, A Bigger Boat - Slay 100.Reward: +10% DMG; +5% RES |
