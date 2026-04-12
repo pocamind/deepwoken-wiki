@@ -1,9 +1,9 @@
 ---
 title: Alirian
-revid: 192077
+revid: 204810
 source: https://deepwoken.fandom.com/wiki/Alirian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, Oath Trainer, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
+categories: [Celtor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, Oath Trainer, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
 ---
 
 # Alirian
@@ -12,6 +12,7 @@ categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, Oath Trainer, NPCs located
 |---|---|
 | name | Alirian |
 | aspect | Celtor |
+| pronouns | She/her |
 | location | Minityrsa |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
