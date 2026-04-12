@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 204417
+revid: 204773
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4510,8 +4510,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Multiple 
 
 -   Ferryman's Curse: [Ferryman's Coat](<Ferryman's_Coat.md>) - Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage.
 
--   Fists of Navae: [Navaen Nomad Robes](Navaen_Nomad_Robes.md) - Your flourish timer lasts longer with fists.
-    -   While using [Fist](Fists.md) weapons, the amount of time you can idle after your third M1 before performing a flourish is increased by 1 second, from 2 seconds to 3.
+-   Fists of Navae: [Navaen Nomad Robes](Navaen_Nomad_Robes.md) - Double the amount of ether you gain on successful light attacks.
+    -   Doubles the Ether gained from landed M1 attacks.
 
 -   Flashwind: [Specialist Boots](Specialist_Boots.md) - Anytime you proc Air Pressure or Overcharge, give yourself the ability to have enhanced dashes again for a few seconds.
     -   After using a Lightning or Gale dash, all dashes within the next 3 seconds will become enhanced. These enhanced dashes have the same effectiveness as Lightning and Gale dashes.

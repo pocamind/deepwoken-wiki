@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 204486
+revid: 204788
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, "NPCs located in The Scoundrel's Bounty", Members of the Rotten Lot]
@@ -16,8 +16,6 @@ categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusiv
 | pronouns | He/him |
 | location | The Scoundrel's Bounty, New Kyrsa, The Sleeping City |
 | affiliation | Rotten Lot |
-
-_For the version that existed prior to the 5th April, 2026, see here._
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -40,6 +38,79 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 ## Dialogue
 
 **New Kyrsa:**
+
+**Castaway Origin, with Tutorial:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">What do we hav- <i>*The man's eyes widen, his speech put to an immediate pause. He blinks twice.*</i> You... [First Name]?! Is it really you? No, no, this must be a hallucination. Aye, it's you?</td>
+</tr>
+<tr>
+  <td colspan="12">It's me, Cap'n.</td>
+</tr>
+<tr>
+  <td colspan="12">By the gods, what are you doing here?! And the- the rest o'the crew! Did you seen any of 'em?! Gods, [First Name], I..I'm glad to see ye again, mate, above all else.</td>
+</tr>
+<tr>
+  <td colspan="6">Slow down, Cap'n.</td>
+  <td colspan="6">I never found the rest of the crew.</td>
+</tr>
+<tr>
+  <td colspan="6">Yer right.. <i>*The Captain takes a deep breath, dramatically heaving in excitement and curiosity.*</i> Alright. Aaaalright. I've got me bicorn back on straight. Forgive me, mate. Alas, did ye find the rest of us? Did any live?</td>
+  <td colspan="6"><i>*The Captain would let out a heavy sigh, pulling his bicorn over his eyes dramatically.*</i> Aye.. I feared that to be true. When that Authority ship came, after the first explosion.. we were all Depths-sent, the lot of us. But you, you weren't, were you? What happened to ye, mate?</td>
+</tr>
+<tr>
+  <td colspan="6">I never found the rest of the crew.</td>
+  <td colspan="6">Someone found me, and brought me to Etrea.</td>
+</tr>
+<tr>
+  <td colspan="6">[See first instance]</td>
+  <td colspan="6">Lucky soul.. must be some miracle, aye? Ye believe in good luck, mate? <i>*He presses his thumb to his chin, narrowing his eyes at you.*</i> Maybe ye got somethin' special in that soul of 'yers. Maybe not. But, for us to meet here.. I think somethin' awaits the both of us.</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td colspan="6">Well, what about you, Cap'n?</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td colspan="6">Oh, [First Name], I saw somethin' mighty scary. When I fell to the Depths... I braved through countless Depthsborn, until I discovered a Diver stronghold. Aye, it was nice briefly, but... we didn't get along, aha. That Klaris lady, she found my ideals to be problematic for their cause. We had a nasty dispute, and.. well, I was sent here as punishment. Cruel, aye?</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td colspan="6">Why haven't you left?</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td colspan="6">Y'know our reputation, [First Name]. Even if I were to escape.. there's no life worth livin' up there. Now I'll have Klaris hounding me too. It's just not... argh. <i>*He lets out another sigh.*</i> Maybe if I can collect enough o' the medallions down here to clear my name, maybe. But as for now.. I'm afraid not. <i>*Despite his morose circumstances, a glint shines through his eye at the mention of the medallions.*</i> A great value, they be, hoho!</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td colspan="6">Medallions? A sort of plunder?</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td colspan="6">Hoho! Riches is an understatement, friend. Here lies, the ending of a saga for thousands of <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsgarde</a>! Here lies.. <i>the future for us.</i> Throughout this city, a treasure trove of old <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsan</a> Medallions resides. And up above just one of those artifacts are worth more than both of us combined. If you can find the right person to trade these with.. you'll surely be able to trade for something marvelous.</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td colspan="6">I'll pocket any I come across, and keep that in mind.</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td colspan="6">Aye! <i>*The captain stretches his arm forth, waving across the cityscape.*</i> Go forth, [First Name]! Seek the treasures your heart desires. Seek out what belongs to you, seek your legacy. And to the ones above who think of us as sinners... <i>the gods will not be watching.</i></td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td colspan="4">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Without Tutorial:**
 
 <table>
 <tbody>
@@ -358,4 +429,3 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 -   Wears [Flame Worshipper Armor](Flame_Worshipper_Armor.md), a [Brigand's Bicorn](<Brigand's_Bicorn.md>), and a [Celtor Commander Plate](Celtor_Commander_Plate.md).
 -   During the parrying section, he originally used a [Razor Cutlass](Razor_Cutlass.md) but now uses a regular sword.
 -   Before the April 5th, 2026 update, Orlandeau stood by some ruins in the [Fragments of Self](Fragments_of_Self.md), allowing players to re-enter the tutorial.
-    -   Due to this update, certain aspects of Orlandeau's dialogue was removed. You can still view these dialogues on this page: Cap'n Orlandeau/Cut Content.

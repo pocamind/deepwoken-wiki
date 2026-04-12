@@ -1,6 +1,6 @@
 ---
 title: Kelsius
-revid: 204488
+revid: 204774
 source: https://deepwoken.fandom.com/wiki/Kelsius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, Central Authority defectors]
@@ -15,8 +15,6 @@ categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive,
 | pronouns | He/him |
 | location | Temple of the Blade |
 | affiliation | The Central Authority (formerly), Etrea |
-
-_For the version that existed prior to the 5th April, 2026, see here._
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -119,6 +117,46 @@ Kelsius is located inside the library at [Temple of the Blade](Temple_of_the_Bla
 </tbody>
 </table>
 
+**Castaway Origin, with Tutorial:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">Hmm... I hope you won't mind me asking, but what brings you to this part of the world?</td>
+</tr>
+<tr>
+  <td colspan="2">We were headed to Etrea when our ship was attacked by the Authority and we capsized.</td>
+</tr>
+<tr>
+  <td colspan="2">...You don't say. I'm... I'm sorry. <i>*His expression seems racked with pain.*</i></td>
+</tr>
+<tr>
+  <td colspan="2">Everything alright?</td>
+</tr>
+<tr>
+  <td>I... I used to serve under them. Not anymore. That much I assure you. But... I would be more than happy to let you peruse the books here, Really, it's the least I can do.</td>
+</tr>
+<tr>
+  <td colspan="2">So... The books?</td>
+</tr>
+<tr>
+  <td>Oh! Er... Yes! I have information on a variety of skills. It'll cost you about [X] notes.</td>
+</tr>
+<tr>
+  <td colspan="2">Alright.</td>
+</tr>
+<tr>
+  <td>[See previous instance]</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
 **Subsequent Encounters:**
 
 <table>
@@ -181,4 +219,3 @@ If the quest was done on the account previously, Kelsius will instead ask the pl
 -   Oddly enough, having the [Authority Ensign](Authority_Ensign.md) [Origin](Origins.md) doesn't unlock new dialogue from him, despite his past as a member of the Shock Corps.
 -   Kelsius' dialogue used to be slightly different, with there being two possible avenues to inquire about their past. One was more direct, while the other was more subtle, and Kelsius would react appropriately.
 -   Kelsius will still suggest the books are on the Isle of Vigils even if the books have not been retrieved previously, and thus are on [Etris](Etris.md) instead.
--   Certain aspects of Kelsius's dialogue tied to the [Tutorial](Tutorial.md) was removed on the Aparil 5th, 2026 update. You can still view these dialogues on this page: Kelsius/Cut Content.

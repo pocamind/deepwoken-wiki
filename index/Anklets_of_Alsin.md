@@ -1,6 +1,6 @@
 ---
 title: Anklets of Alsin
-revid: 204755
+revid: 204785
 source: https://deepwoken.fandom.com/wiki/Anklets_of_Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -39,7 +39,7 @@ The Anklets of Alsin are a pair of light weapon anklets, used with the [Jus Kari
 
 ## Critical
 
-Dash forward while performing a kick. This critical has a scaled damage multiplier of **1.3x**.
+Anklets of Alsin uses the [Jus Karita](Jus_Karita.md) critical, a dash forward while performing a kick. This critical has a scaled damage multiplier of **2x**.
 
 This critical has a **3 second cooldown**.
 

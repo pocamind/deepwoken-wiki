@@ -1,6 +1,6 @@
 ---
 title: Glassdancer Wraps
-revid: 176438
+revid: 204777
 source: https://deepwoken.fandom.com/wiki/Glassdancer_Wraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Wraps]
@@ -11,7 +11,7 @@ categories: [Equipment, Arms, Wraps]
 | Glassdancer Wraps | |
 |---|---|
 | type | Arms |
-| rarity | Rare |
+| rarity | Uncommon |
 | selling price | 25 |
 | requirements | PWR 8 |
 | weight | 2 |

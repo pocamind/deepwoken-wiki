@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 204257
+revid: 204776
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -454,6 +454,9 @@ Typeless
 -   Ragdolls the target on hit.
 -   3 charges unmodded (5 with [Bone Ring](Bone_Ring.md))
 -   5 second cooldown (no cd with Bone Ring)
+-   Bone Wisp has various inconsistencies & can proc on various things that are not uppercuts or flourishes. Here's a more complete list.
+    -   (Abilities that do proc Bone Wisp) Rising Wind, Rising Flame, Celestial Assault, Skyshatter Kick(round spark), Razor Blitz, Onslaught, Shade Step, Offhand Gun, Crimson Surge, sliding Wind Blade, Crystal Knee, true strength Palm Strike
+    -   (Abilities that do not proc Bone Wisp despite uplifting) Updraft, Abyssal Ridge, Lightning Impact, Flame Leap, Rising Shadow, Rising Frost, Portals Bell Uppercut
 
  |
 | 

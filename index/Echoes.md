@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 200882
+revid: 204778
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Echoes, Character, Mechanics, Creation, Features absent in Vow of Iron]
@@ -127,7 +127,7 @@ E.g. rerolling [Resonance](Resonance.md). Also the [Idol of Yun'Shul](<Idol_of_Y
 | 
 
  | 5 | Enchant an Item with an [Enchant Stone](Enchant_Stone.md) or [Enchant Grease](Enchant_Grease.md).  
-Do not use these items on an already enchanted item. |
+Do not use these items on an already enchanted item. The Enchant Stone must be obtained on the slot you wish to get the echos on, cannot be a stone from bank. |
 | 
 
  | 5 | Obtain an enchant from [Laplace](Laplace.md). |
