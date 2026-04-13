@@ -1,9 +1,9 @@
 ---
 title: Kyrsblade
-revid: 196701
+revid: 204902
 source: https://deepwoken.fandom.com/wiki/Kyrsblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
+categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Kyrs series]
 ---
 
 # Kyrsblade

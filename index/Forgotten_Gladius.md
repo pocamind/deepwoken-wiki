@@ -1,6 +1,6 @@
 ---
 title: Forgotten Gladius
-revid: 200886
+revid: 204916
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Talents]
@@ -51,7 +51,3 @@ Equipping the Forgotten Gladius grants its unique [weapon Talent](Talents.md#wea
 Forgotten Gladius uses the default Sword critical, a piercing stab. It has a scaled damage multiplier of **1.2x** and a cooldown of **3 seconds**. It deals **3x** the weapon's posture stat as posture damage.
 
 This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
-
-## Trivia
-
--   The Forgotten Gladius was passed down to Indra Kikoshi by two Voidwalkers who were later slain by their own kind. In their memory, he solemnly swore upon the blade to hunt down every Voidwalker that stood in his path. To fulfill this oath, Indra Kikoshi became a Voidwalker himself, walking among them so their vengeance could one day be fulfilled.

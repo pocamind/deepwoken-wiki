@@ -1,6 +1,6 @@
 ---
 title: Battle Royale
-revid: 199917
+revid: 204873
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, StubPages, World Event]
@@ -21,11 +21,13 @@ This content is not accessible outside of this gamemode.
     -   These Attributes are: 50 on every Core Attribute, 100 on every Weapon Attribute and 50 on every Attunement Attribute.
 -   Loot can be found scattered around the map in set locations, with better loot closer to the edge of the map.
 -   [Talents](Talents.md) and [Mantras](Mantras.md) have to be obtained from Deep Totems.
--   [Oaths](Oaths.md) are obtained by consuming 3 [Oath Shards](Oath_Shards.md), which will give you a random Oath, with further Oath Shards progressing your given Oath. All Oaths are available except [Saltchemist](Oath%253A_Saltchemist.md), [Silentheart](Oath%253A_Silentheart.md), [Linkstrider](Oath%253A_Linkstrider.md), [Saintsworn](Oath%253A_Saintsworn.md), [Soulbreaker](Oath%253A_Soulbreaker.md), and [Bladeharper](Oath%253A_Bladeharper.md).
+-   [Oaths](Oaths.md) are obtained by consuming 3 [Oath Shards](Oath_Shards.md), which will give you a random Oath, with further Oath Shards progressing your given Oath. All Oaths are available except [Saltchemist](Oath%253A_Saltchemist.md), [Silentheart](Oath%253A_Silentheart.md), [Linkstrider](Oath%253A_Linkstrider.md), and [Saintsworn](Oath%253A_Saintsworn.md).
 -   You steal all of your opponent's [Talents](Talents.md), [Mantras](Mantras.md) and [Oath](Oaths.md) (if you didn't already have one) upon executing them.
--   Every once in a while a [Resonant Dawn Meteor](Random_Encounters.md#resonant-dawn) will fall on a random location that will grant a random [Resonance](Resonance.md) to the player that interacts with it, however this takes a while as it locks the user in a lengthy animation in which they cannot act and can be interrupted by other players via damage, making them have to interact with it again if interrupted.
+-   Every once in a while a [Resonant Dawn Meteor](Random_Encounters.md#resonant-dawn) will fall on a random location that will grant a random [Resonance](Resonance.md) (no healthpack) to the player that interacts with it, however this takes a while as it locks the user in a lengthy animation in which they cannot act and can be interrupted by other players via damage, making them have to interact with it again if interrupted.
     -   Battle Royale's Resonant Dawn does not spawn a [Star Knight](Star_Knight.md).
 -   Dying will set you to spectate your killer, letting you switch around who to spectate or to return to the Battle Royale lobby.
+-   Obtaining 5 points will award you with a [Shiva's Codex](<Shiva's_Codex.md>) and 2 [Crowns](Crowns.md).
+-   Winning will award you with a [Shiva's Finger](<Shiva's_Finger.md>), [Shiva's Codex](<Shiva's_Codex.md>), and 2 [Crowns](Crowns.md).
 -   The game "ends" once there is only one group standing. _Have no fear, and reach the top._
 
 ## Locations
