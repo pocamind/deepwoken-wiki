@@ -1,6 +1,6 @@
 ---
 title: Ether Refined Hide
-revid: 204383
+revid: 204822
 source: https://deepwoken.fandom.com/wiki/Ether_Refined_Hide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients, Craftable]
@@ -12,8 +12,8 @@ categories: [Items, Ingredients, Craftable]
 |---|---|
 | stack | x?? |
 | type | Ingredient |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | pass down | No |
 | desc | A sheet of cloth woven together with fibers flowing with Ether. |
 | obtainment | Crafting 1 Primadon Pelt + 2 Ferryman's Coat Cloth + 1 Dread Serpent's Mane in the Lost Forge |
@@ -21,8 +21,6 @@ categories: [Items, Ingredients, Craftable]
 ## Description
 
 Ingredient used to craft ether-related equipment.
-
-It is **unbankable** and **undroppable**.
 
 ## Recipes
 

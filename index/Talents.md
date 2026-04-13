@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 204773
+revid: 204829
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1600,7 +1600,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Genius Intellect
 
--   _Neuroplasticity_ \[Rare Talent, Mind\] - Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantras is now reduced by 20%. (+1 Wildcard Mantra Slot)
+-   _Neuroplasticity_ \[Rare Talent, Mind\] - Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantras is now reduced by 10%. (+1 Wildcard Mantra Slot)
     -   The increased Ether Cost from Modified Mantras is reduced by 10% (ether cost increase for tier 1 modifications is reduced from 10 Ether to 9, for tier 2 - from 20 Ether to 18).
     -   Does not apply retroactively to previously modified mantras until you rejoin.
     -   Prerequisite: 35 Mind (35 Charisma // 35 Intelligence // 35 Willpower)
@@ -2033,14 +2033,14 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
 
 -   **Fatal Stealth** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
-    -   Grants +0.2% damage per 1 [Stealth](Stealth.md) to attacks that hit your opponent's back.
-    -   Stealth gained from non-[Equipment](Equipment.md) or [Outfit](Outfits.md) sources do not count towards this Talent.
-        -   Strangely, the [Obvious](Boons_and_Flaws.md#obvious) Flaw is an exception to this, reducing your damage by 4%.
-        -   [Felinor](Felinor.md)'s stealth gain multiplier does not apply to this Talent's damage buff.
+    -   Grants +0.2% damage per 1 [Stealth](Stealth.md) to attacks that hit your opponent's back. This affects all damage sources that can receive damage modifiers.
+    -   Stealth that is not gained from [Equipment](Equipment.md) or [Outfit](Outfits.md) sources do not count towards this Talent.
+        -   Strangely, the [Obvious](Boons_and_Flaws.md#obvious) Flaw is an exception to this, reducing your backhit damage by 4%.
+        -   The following [Stealth](Stealth.md) sources **do not** apply to this Talent's damage buff: [Felinor](Felinor.md)'s innate Stealth **and** its Stealth gain multiplier, Agility investment, Crouching, Lowstrude, Murmur: Tacet, and Tacet Minimization.
     -   This does **not** buff [assassinations](Combat_Mechanics.md#assassination).
     -   See the [Stealth](Stealth.md) page for info on where stealth can be obtained.
         -   The maximum Stealth you can gain from Equipment alone is 30% (+6% damage).
-        -   The [Inquisition Light](Inquisition_Light.md) Outfit grants 50% Stealth (+10% damage).
+        -   Notably the [Inquisition Light](Inquisition_Light.md) Outfit grants 50% Stealth (+10% damage).
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
 
 -   **Flanking Maneuvers** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Enemies you assassinate take more PEN from your squadmates in your party.

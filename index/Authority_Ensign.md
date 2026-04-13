@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 204794
+revid: 204828
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -357,13 +357,14 @@ Complete 10 missions solo, then speak to [High Inquisitor Merey](High_Inquisitor
 -   **Executioner's Frenzy** - Landing a light attack while their posture is paused reduces their assassination cooldown by 5 seconds.
 
 -   **Fatal Stealth** - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
-    -   Grants +0.2% damage per 1 [Stealth](Stealth.md) to attacks that hit your opponent's back.
-    -   Stealth gained from non-[Equipment](Equipment.md) or [Outfit](Outfits.md) sources do not count towards this Talent.
-        -   Strangely, the [Obvious](Boons_and_Flaws.md#obvious) Flaw is an exception to this, reducing your damage by 4%.
+    -   Grants +0.2% damage per 1 [Stealth](Stealth.md) to attacks that hit your opponent's back. This affects all damage sources that can receive damage modifiers.
+    -   Stealth that is not gained from [Equipment](Equipment.md) or [Outfit](Outfits.md) sources do not count towards this Talent.
+        -   Strangely, the [Obvious](Boons_and_Flaws.md#obvious) Flaw is an exception to this, reducing your backhit damage by 4%.
+        -   The following [Stealth](Stealth.md) sources **do not** apply to this Talent's damage buff: [Felinor](Felinor.md)'s innate Stealth **and** its Stealth gain multiplier, Agility investment, Crouching, Lowstrude, Murmur: Tacet, and Tacet Minimization.
     -   This does **not** buff [assassinations](Combat_Mechanics.md#assassination).
     -   See the [Stealth](Stealth.md) page for info on where stealth can be obtained.
         -   The maximum Stealth you can gain from Equipment alone is 30% (+6% damage).
-        -   The [Inquisition Light](Inquisition_Light.md) Outfit grants 50% Stealth (+10% damage).
+        -   Notably, the [Inquisition Light](Inquisition_Light.md) Outfit grants 50% Stealth (+10% damage).
 
 -   **Flanking Maneuvers** - Enemies you assassinate take more PEN from your squadmates in your party.
 

@@ -1,6 +1,6 @@
 ---
 title: Summer Rifle
-revid: 203687
+revid: 204836
 source: https://deepwoken.fandom.com/wiki/Summer_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
@@ -33,7 +33,7 @@ categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
 
 ## Description
 
-The Summer Rifle is a [Medium Weapon](https://deepwoken.fandom.com/wiki/Weapons#Rifles), part of the rifle category. It serves as an introduction to rifles, being the one with the lowest requirements (40 MED), though ironically it's quite rare.
+The Summer Rifle is a Medium Weapon, part of the Rifle category. It serves as an introduction to Rifles, being the one with the lowest requirements (40 MED), though ironically it's quite rare.
 
 ## Critical
 

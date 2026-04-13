@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 204776
+revid: 204834
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -454,9 +454,15 @@ Typeless
 -   Ragdolls the target on hit.
 -   3 charges unmodded (5 with [Bone Ring](Bone_Ring.md))
 -   5 second cooldown (no cd with Bone Ring)
--   Bone Wisp has various inconsistencies & can proc on various things that are not uppercuts or flourishes. Here's a more complete list.
-    -   (Abilities that do proc Bone Wisp) Rising Wind, Rising Flame, Celestial Assault, Skyshatter Kick(round spark), Razor Blitz, Onslaught, Shade Step, Offhand Gun, Crimson Surge, sliding Wind Blade, Crystal Knee, true strength Palm Strike
-    -   (Abilities that do not proc Bone Wisp despite uplifting) Updraft, Abyssal Ridge, Lightning Impact, Flame Leap, Rising Shadow, Rising Frost, Portals Bell Uppercut
+-   Bone Wisp has various inconsistencies on what can or cannot proc it. Below is a list of all things that are confirmed on whether or not they proc it.
+    -   The following abilities can proc Bone Wisp:
+        -   Base combat: Uppercuts, Flourishes, and Offhand [Pistol](Pistols.md) shots (even if you do not have [Execution](Talents.md#execution)).
+        -   Talents: Air Counters with [Cut to the Chase](Talents.md#cut-to-the-chase) and [Emperor Flame](Talents.md#emperor-flame).
+        -   Mantras: [Celestial Assault](Oath%253A_Starkindred.md#celestial-assault), [Crimson Surge](Bloodrend.md#crimson-surge), [Crystal Knee](Frostdraw.md#crystal-knee), [Onslaught](Attunement-less.md#onslaught), [Palm Strike](Oath%253A_Bladeharper.md#palm-strike) (in True Strength), [Razor Blitz](Bloodrend.md#razor-blitz), [Rising Flame](Flamecharm.md#rising-flame), [Rising Wind](Galebreathe.md#rising-wind), [Shade Step](Shadowcast.md#shade-step), [Skyshatter Kick](Attunement-less.md#skyshatter-kick) (Round Spark), and [Wind Blade](Galebreathe.md#wind-blade) (slide jump variant).
+        -   Weapon Criticals: [Rimebreakers](Rimebreakers.md).
+    -   The following abilities do not proc Bone Wisp, despite uptilting:
+        -   Mantras: [Abyssal Ridge](Monster_Mantras.md#abyssal-ridge), [Flame Leap](Flamecharm.md#flame-leap), [Lightning Impact](Thundercall.md#lightning-impact), [Rising Frost](Frostdraw.md#rising-frost), and [Updraft](Galebreathe.md#updraft).
+        -   Resonances: [Portals](Portals.md) (Dive Variant).
 
  |
 | 

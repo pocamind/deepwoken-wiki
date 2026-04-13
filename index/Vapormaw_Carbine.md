@@ -1,6 +1,6 @@
 ---
 title: Vapormaw Carbine
-revid: 201033
+revid: 204839
 source: https://deepwoken.fandom.com/wiki/Vapormaw_Carbine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, "Attunement-based Weapons", Rifles, Medium Weapons]
@@ -37,7 +37,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Vapormaw Carbine is a steam powered rifle, exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode.
+The Vapormaw Carbine is a steam powered Rifle, exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode.
 
 ## Critical
 

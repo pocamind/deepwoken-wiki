@@ -1,6 +1,6 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 204411
+revid: 204865
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -227,25 +227,34 @@ Parry
 
 ## Drops
 
-In addition to its drops, defeating it also awards you with 1.
-
 <table>
 <tbody>
 <tr>
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li><a href="Items.md">Items</a>: <a href="Kyrsan_Gem.md">Kyrsan Gem</a></li>
-    <li><a href="Relics.md">Relics</a>: <a href="Frost_Essence.md">Frost Essence</a>, <a href="Gale_Essence.md">Gale Essence</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Windswept.md">Windswept Enchant Stone</a>, <a href="Kyrsan_Chill.md">Kyrsan Chill Enchant Stone</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Frost_Essence.md">Frost Essence</a>, <a href="Gale_Essence.md">Gale Essence</a>, <a href="Kyrsan_Chill.md">Kyrsan Chill Enchant Stone</a>, <a href="Kyrsan_Gem.md">Kyrsan Gem</a> <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Windswept.md">Windswept Enchant Stone</a></li>
   </ul></td>
 </tr>
 <tr>
   <td><b><a href="Weapons.md">Weapons</a></b></td>
-  <td><a href="Frostthorn.md">Frost-thorn</a>, <a href="Coldpoint.md">Coldpoint</a>, <a href="Rimebreakers.md">Rimebreakers</a></td>
+  <td>
+  <ul>
+    <li><b>Legendary Weapons</b>: <a href="Coldpoint.md"><font>Coldpoint</font></a>, <a href="Frostthorn.md"><font>Frostthorn</font></a>, <a href="Rimebreakers.md"><font>Rimebreakers</font></a></li>
+  </ul></td>
 </tr>
 <tr>
   <td><b><a href="Equipment.md">Equipment</a></b></td>
-  <td><a href="Marrowmade_Boots.md">Marrowmade Boots</a>, <a href="Kyrsan_Necklace.md">Kyrsan Necklace</a></td>
+  <td>
+  <ul>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: TBA</li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: TBA</li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Marrowmade_Boots.md">Marrowmade Boots</a></li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Kyrsan_Necklace.md"><font>Kyrsan Necklace</font></a></li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: TBA</li>
+    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: TBA</li>
+    <li><a href="Equipment.md#rings"><b>Rings</b></a>: TBA</li>
+  </ul></td>
 </tr>
 </tbody>
 </table>
