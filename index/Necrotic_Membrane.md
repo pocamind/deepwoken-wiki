@@ -1,6 +1,6 @@
 ---
 title: Necrotic Membrane
-revid: 201374
+revid: 204820
 source: https://deepwoken.fandom.com/wiki/Necrotic_Membrane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Items, Ingredients]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | value | N/A |
 | weight | N/A |
-| stack | x? |
+| stack | x1 |
 | type | Ingredient |
 | rarity | Common |
 | bankable | No |
