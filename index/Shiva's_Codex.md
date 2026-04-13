@@ -1,6 +1,6 @@
 ---
 title: "Shiva's Codex"
-revid: 204205
+revid: 204871
 source: https://deepwoken.fandom.com/wiki/Shiva's_Codex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items, Ingredients]
@@ -18,7 +18,7 @@ categories: [Relics, Items, Ingredients]
 | droppable | No |
 | pass down | No |
 | desc | A manuscript scant in information on methods to further reinforce armor with Ether. Only a select few pages are legible. |
-| obtainment | Battle RoyaleWar Mode (rare drop) |
+| obtainment | Battle Royale (5 Points/Victory)War Mode (rare drop) |
 
 ## Description
 

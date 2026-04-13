@@ -1,6 +1,6 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 204865
+revid: 204867
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -250,10 +250,18 @@ Parry
     <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: TBA</li>
     <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: TBA</li>
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Marrowmade_Boots.md">Marrowmade Boots</a></li>
-    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Kyrsan_Necklace.md"><font>Kyrsan Necklace</font></a></li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:
+  <ol>
+    <li><b>Relic Torso</b>: <a href="Whistling_Periapt.md">Whistling Periapt</a></li>
+    <li><b>Unique Torso</b>: <a href="Kyrsan_Necklace.md"><font>Kyrsan Necklace</font></a></li>
+  </ol></li>
     <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: TBA</li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: TBA</li>
-    <li><a href="Equipment.md#rings"><b>Rings</b></a>: TBA</li>
+    <li><a href="Equipment.md#rings"><b>Rings</b></a>:
+  <ol>
+    <li><b>Relic Rings</b>: <a href="Bone_Ring.md">Bone Ring</a></li>
+    <li><b>Legendary Rings</b>: <a href="Cryptwaker's_Ring.md"><font>Cryptwaker's Ring</font></a></li>
+  </ol></li>
   </ul></td>
 </tr>
 </tbody>

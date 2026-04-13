@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 204619
+revid: 204869
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -168,9 +168,7 @@ Shadow + Slash
 -   Drains 4.85/5.6/6.35/7.1/7.85 Ether per level, per hit (3, 4 with Tornado Spark) with 2.75 Shadowcast scaling.
 -   Deals 9 posture damage.
 -   Has a 12 second cooldown.
--   Has 9.178x PvE scaling (multiply damage dealt by 9.178 to get PvE damage).
--   Adding [Drift](Mantra_Modifiers.md#regular-modifiers) and [Rush Shards](Mantra_Modifiers.md#regular-modifiers) makes Dark Blade faster.
--   Adding [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) increases the Ether drain.
+-   Has 9.18x PvE scaling (multiply damage dealt by 9.178 to get PvE damage).
 -   Can be modified with a [Tornado Spark](Mantra_Modifiers.md#sparks), adding an additional spinning slash at the end of the initial slashes. This additional hit has the same damage and Ether drain as all other hits.
 
  |
