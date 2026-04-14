@@ -1,6 +1,6 @@
 ---
 title: Untrained Fist
-revid: 204725
+revid: 204975
 source: https://deepwoken.fandom.com/wiki/Untrained_Fist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, Fighting Styles]
@@ -33,7 +33,7 @@ categories: [Weapons, Fists, Light Weapons, Fighting Styles]
 
 ## Description
 
-Untrained Fist is a fist style that is obtained when you attempt to equip a Cestus or unequip your weapon without having a learned [Fist style](Fists.md). This style, as the name would suggest, consists of unrefined attacks and general theatrics.
+Untrained Fist is a fist style that is obtained when you attempt to equip a Cestus or unequip your weapon without having learned a [Fist style](Fists.md). This style, as the name would suggest, consists of unrefined attacks and general theatrics.
 
 **Weapon attacks with the Untrained Fist style deal 50% less damage.**
 

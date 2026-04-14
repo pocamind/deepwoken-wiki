@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 203697
+revid: 204945
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2, The Depths]
@@ -10,7 +10,7 @@ categories: [Pathfinder Exclusive, Pages with broken file links, Monsters, Bosse
 
 | Scion of Ethiron | |
 |---|---|
-| health | 40000 |
+| health | 40,000 |
 | drops | Chest (see loot table), Kyrsieger, Whistling Periapt, Deep Gems, Armorer's Needle, Reciprocal Bonecharm, Ethereal Bone Dust, All Kyrs series weapons, Respawns Medallion Chests., Misc. |
 | locations | New Kyrsa, The Sleeping City |
 | challenges | -- Scion of Ethiron --, You Again? - Slay 10.Reward: +15% DMG; +7.5% RES |

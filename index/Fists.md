@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 204744
+revid: 204976
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Fists, Light Weapons]
@@ -8,7 +8,7 @@ categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons,
 
 # Fists
 
-| Fists | |
+| Fist | |
 |---|---|
 | type | Light Weapon |
 | damage type | Blunt |
@@ -30,13 +30,17 @@ categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons,
 | obtainment | Style dependant |
 | description | Your bare fists. Worth a shot, right? |
 
-This page refers to the "Fist" (bare hands) **weapon** that appears when you equip any [Fist Style](Fists.md#styles) while not using a Fist-related weapon. View the **Fists** page for Fist Styles and weapons.
+This page refers to the "Fist" (bare hands) **weapon** that appears when you equip any [Fist Style](Fists.md#styles) while not using a Cestus weapon. View the **Fists** page for Fist Styles and weapons.
 
 ## Description
 
-Fists, or the bare hands variant (without any Cestus or equipped weapons) of the Fist fighting styles, is a weak Light Weapon.
+Fist, or the bare-handed variant (without any Cestus) of the **Fist fighting styles**, is a weak Light Weapon.
 
-The animations of your light attacks and critical attack of this weapon depends on your equipped [Fist Style](Fists.md#styles), with those being [Fang and Coil](Fang_and_Coil.md), [Imperium Kata](Imperium_Kata.md), [Legion Kata](Legion_Kata.md), [Untrained Fist](Untrained_Fist.md), and [Way of Navae](Way_of_Navae.md).
+As a standalone weapon, it is the basis of the stats of [Fang and Coil](Fang_and_Coil.md), [Imperium Kata](Imperium_Kata.md), [Legion Kata](Legion_Kata.md), [Untrained Fist](Untrained_Fist.md), and [Way of Navae](Way_of_Navae.md). It does not exist as its own item or tool; Fist is the weapon that is equipped when equipping one of the aforementioned Fist styles.
+
+The animations of your light attacks and critical attack of this weapon depends on your equipped [Fist Style](Fists.md#styles), those being one of the aforementioned Fist Styles.
+
+[Jus Karita](Jus_Karita.md), bearing different base stats from those of the aforementioned Fist Styles, is equipped as its own unique "Jus Karita" weapon and not the Fist weapon.
 
 ## Critical
 
@@ -96,4 +100,4 @@ This attack has a **5 second cooldown**.
 ## Trivia
 
 -   When trying to alloy your fists with a [Pluripotent Alloy](Pluripotent_Alloy.md), you get special text - "A little voice in your head tells you that Alloying yourself would probably be a bad idea. Your blood needs iron to deliver oxygen to your organs. You need organs to live."
--   All of the [Fist Styles](Fists.md#styles) have the exact same base stats when equipped without any Fist-related weapons, including [Untrained Fist](Untrained_Fist.md), although it has the special effect of dealing 50% less damage.
+-   All of the [Fist Styles](Fists.md#styles) have the exact same base stats when equipped without any Cestus, including [Untrained Fist](Untrained_Fist.md), although it has the special effect of dealing 50% less damage.
