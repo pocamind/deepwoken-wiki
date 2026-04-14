@@ -1,6 +1,6 @@
 ---
 title: Fractine
-revid: 203591
+revid: 204985
 source: https://deepwoken.fandom.com/wiki/Fractine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons with multiple Criticals]
@@ -42,9 +42,7 @@ The Fractine is a Legendary [Heavy Weapon](Weapons.md) that scales with, and req
 
 It was originally the [Ferractine](Ferractine.md), a weapon wielded by the [Iron Vessel](Vow_of_Iron.md) before their defeat at the hands of the [The Lord Regent](The_Lord_Regent.md).
 
-After landing the critical attack, the tip of your weapon will lodge itself into your opponent, changing the weapon into it's Shattered State. The Shattered State deals 30% less damage, has innate bleed, with 7 range, and slightly faster swingspeed (it's not very noticeable). Using the critical again returns it to its original form.
-
-The damage debuff from the Shattered State also applies to [Silentheart](Oath%253A_Silentheart.md) abilities.
+After landing the critical attack, the tip of your weapon will lodge itself into your opponent, changing the weapon into it's Shattered State. The Shattered State deals 30% less damage, has innate bleed, 7 Range, and slightly faster swingspeed (it's not very noticeable). Using the critical again returns it to its original form.
 
 ## Critical
 
@@ -54,9 +52,9 @@ When in the Shattered State, the user performs a downslash that regains the lodg
 
 Fractine will still continue on to the Shattered State even if the second hit of the critical is parried or whiffed, but the tip of the blade will not be lodged into your opponent unless you land the critical fully.
 
-The Standard Critical has the following scaled damage multipliers: 1.25x (first hit), 1x (second hit), and 0.85x (lodging the shard).
+The Standard Critical has the following scaled damage multipliers: **1.25x** (first hit), **1.00x** (second hit), and **0.85x** (lodging the shard).
 
-The slash has a 1.25x scaled damage multiplier (based off the greatsword form's stats) and deals an additional 8.16 flat damage upon recalling the shard.
+The slash deals **1.25x scaled damage** and deals an additional **8.16 flat damage** upon recalling the shard.
 
 The critical has a cooldown of **5.5 seconds**.
 

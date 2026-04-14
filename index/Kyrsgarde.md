@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde
-revid: 202978
+revid: 204986
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sapient species]
@@ -40,7 +40,7 @@ Friendly Kyrsans are found in [The Ethironal Shrine](Second_Layer/The_Ethironal_
     -   [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md)
     -   [Naerotiv](Naerotiv.md)
 
--   Enemy Kyrsans found within the City:
+-   Enemy Kyrsans found within the city:
     -   [Kyrsgarde Brute](Kyrsgarde_Brute.md)
     -   [Kyrsgarde Crawler](Kyrsgarde_Crawler.md)
     -   [Kyrsgarde Lancer](Kyrsgarde_Lancer.md)
@@ -51,10 +51,15 @@ Friendly Kyrsans are found in [The Ethironal Shrine](Second_Layer/The_Ethironal_
 
 -   They are quite similar to the [Miasmera](Miasmera.md), a scrapped Monster.
 -   Having the [Brick Wall](Talents.md) Talent makes the fight with the [lancers](Kyrsgarde_Lancer.md) **trivially** easy.
--   The Kyrsgarde are enslaved by presumably Ethiron themselves or something related to Ethiron, having their will morphed to Ethiron's, this may be due to the fact that the puppet known as the "Scion of Ethiron" have done something to them using some sort of "mist." Or the fact that the Kyrsan built New Kyrsa City on top of Ethiron's Bedchamber. However it also could've been due to the Kyrsan's foolishness lead to a failure related to some sort of ritual to prevent the Scion of Ethiron in someway.
+-   The Kyrsgarde are enslaved by presumably Ethiron themselves or something related to Ethiron, having their will morphed to Ethiron's, this may be due to the fact that the puppet known as the "Scion of Ethiron" have done something to them using some sort of "mist." Or the fact that the Kyrsan built New Kyrsa City on top of Ethiron's Bedchamber. However, it also could've been due to the Kyrsan's foolishness led to a failure related to some sort of ritual to prevent the Scion of Ethiron in some way.
 -   The Kyrsans in Firfire are not hostile, due to how far they are from Ethiron's mist presence.
     -   In fact, they will give you a name similar to themselves, which is consistent with the UserID of the player, meaning it is shared across every slot.
 -   Kyrsgardes have quite a strong resemblance to the infamous [Bone Keeper](Bone_Keeper.md), which sparked theories that Bone Keepers are possibly Kyrsans gone rogue, were affected by the parasites, or a multitude of other factors, and it's possible they are Kyrsgarde Brute based on how they are built and their noises every time they walk, albeit seeming a bit shorter.
--   Ironically, despite the fact that the crawlers crawl around the floor, in their idle animation and in general they have functioning legs and can even stand up. It is unknown why they crawl, they also make the exact same noise as Figure from _DOORS_.
+-   Ironically, despite the fact that the crawlers crawl around the floor, in their idle animation and in general they have functioning legs and can even stand up. It is unknown why they crawl; they also make the exact same noise as Figure from _DOORS_.
+-   Although several of the Kyrsgarde will refer to their kin as "Brother" Kyrsgarde have no concept of gender and reproduce through parthenogenesis, as "confirmed" by Archmage.[\[1\]](#cite-note-partheogensis-1)
 -   Sneaking behind a hostile Kyrsgarde and attempting to talk with it prompts in special dialogue: "Waheit... Yaere fraeum aboeave!", which can be translated as "Wait... You're from above!".
     -   In the dialogue box the Kyrsgarde is named "New Kyrsa Guardian".
+
+## References
+
+1.  [↑](#cite-ref-partheogensis-1-0)

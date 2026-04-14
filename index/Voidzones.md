@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 178437
+revid: 204990
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Voidzones]
@@ -52,7 +52,7 @@ While inside a Voidzone:
   
 **Location:** [Songseeker Wilds](Songseeker_Wilds.md), Eastern Luminant
 
-**Dangers:** [Insanity](Insanity.md)\-inflicting Environment, [Nightmare Threshers](Nightmare_Thresher.md)
+**Dangers:** [Maljurors](Maljuror.md), [Nightmare Threshers](Nightmare_Thresher.md), [Songseeker](Songseeker.md)
 
 **Rewards:** [Miasmic and Zephyr Lotuses](Ingredients.md#lotuses), Songseeker loot pool
 
@@ -104,7 +104,7 @@ While inside a Voidzone:
   
 **Location:** Upper [Minityrsa](Minityrsa.md) (Frozen Lake), Etrean Luminant
 
-**Dangers:** [Carbuncles](Carbuncle.md), [Alpha Megalodaunts](Alpha_Megalodaunt.md)
+**Dangers:** [Carbuncles](Carbuncle.md), [Alpha Megalodaunts](Alpha_Megalodaunt.md),
 
 **Rewards:** [Stardust](Stardust.md)**,** [Fishing Spot](Fishing.md#fishing-spots)
 

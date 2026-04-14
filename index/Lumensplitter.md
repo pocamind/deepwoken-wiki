@@ -1,6 +1,6 @@
 ---
 title: Lumensplitter
-revid: 203585
+revid: 204989
 source: https://deepwoken.fandom.com/wiki/Lumensplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Greatswords, Heavy Weapons, "Weapons with Multi-Hit Criticals"]
@@ -50,7 +50,7 @@ This critical **does NOT have m1 tag,** which renders it unable to proc M1-exclu
 
 ## Trivia
 
--   The Lumensplitter was heavily bugged on release, such as:
+-   The Lumensplitter was heavily bugged on release, including:
     -   Using the same description as the [Darksteel Greatsword](Darksteel_Greatsword.md).
     -   Being enchantable for a very short duration.
     -   Dropping from sources it wasn't supposed to such as [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), [Chime of Conflict](Chime_of_Conflict.md), and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).
