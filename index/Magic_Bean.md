@@ -1,6 +1,6 @@
 ---
 title: Magic Bean
-revid: 203924
+revid: 205020
 source: https://deepwoken.fandom.com/wiki/Magic_Bean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -14,6 +14,7 @@ categories: [Food]
 | stack | x?? |
 | type | Food |
 | food type | Meat |
+| rarity | Common |
 | stomach | 1% |
 | water | 1% |
 | bankable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 204457
+revid: 205021
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1058,12 +1058,12 @@ These Talents are found in the _Thunderblade_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-|  | Gathering Electricity  
-(65 Thundercall, 25 Strength // Agility, Static Blade) | \[Medium Weapons\] Reaching 10 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. This effect has a 60 second cooldown. (+10 Carry Load) | Increases the base damage of all weapons and criticals by 3 for the duration of its effect. You can gain Static Blade charges while this effect is active or on cooldown. |
-|  | Overcharge  
-(45 Thundercall, Gathering Electricity) | Your next dash after activating Static Blade is enhanced by lightning. | Lightning dashes go much further and have increased i-frames. Your lightning dash will end early should you attempt to attack. |
 |  | Static Blade  
 (40 Thundercall, 20 Medium Weapon) | \[Medium Weapons\] Hitting blocks, blocking or parrying hits will now generate an electric charge in your blade, granting a small speed buff. Charges can stack up to 10 times. | Stacks are gained from being parried, not from parrying. Each stack grants an ~2.5% speed boost and lasts 15 seconds. |
+|  | Gathering Electricity  
+(65 Thundercall, 25 Strength // Agility, Static Blade) | \[Medium Weapons\] Reaching 5 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. This effect has a 60 second cooldown. (+10 Carry Load) | Increases the base damage of all weapons and criticals by 3 for the duration of its effect. You can gain Static Blade charges while this effect is active or on cooldown. |
+|  | Overcharge  
+(45 Thundercall, Gathering Electricity) | Your next dash after activating Static Blade is enhanced by lightning. | Lightning dashes go much further and have increased i-frames. Your lightning dash will end early should you attempt to attack. |
 
 **Thunder Brawler:**
 

@@ -1,6 +1,6 @@
 ---
 title: Deepdelver
-revid: 203129
+revid: 205014
 source: https://deepwoken.fandom.com/wiki/Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Positions]
@@ -13,8 +13,6 @@ categories: [Positions]
 | organization | The Ignition Union[1] |
 
 ## Description
-
-The outfit of an Ignition Deepdelver
 
 The Deepdelvers are members of [the Ignition Union](The_Ignition_Union.md) who have proven their resourcefulness and critical thinking skills down in the [The Depths](The_Depths.md). The rank grants them access to the [Second Layer](Second_Layer.md) and beyond.[\[1\]](#cite-note-gamma-1)
 

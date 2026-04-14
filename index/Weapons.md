@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 204223
+revid: 205013
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -13027,7 +13027,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   [**Bleed:**](Status_Effects.md#bleed) 5% of the weapon's scaled damage proccing 3 times over a 0.3 second period, causing a total of 15% more damage in 0.9 seconds. Bleed causes extra blood loss as well. The "**Scaled Damage**" shown with [bleed](Status_Effects.md#bleed) weapons is including the bleed damage. Multiply the final damage by 0.87 to find damage excluding bleed. Bleed damage is not affected by damage multipliers (excludes base modifiers and PVE scaling).
 -   **Hallowtide:** Weapons only obtainable during the [Hallowtide event](Hallowtide.md), which occurs yearly to celebrate Halloween, or with [Hallowtide Medals](Seasonal_Medals.md) at [Blacksmiths](Blacksmith.md) outside of the event. These weapons cannot be dropped but can be passed down normally through the [Hippocampal Pool](Hippocampal_Pool.md) located in the [Fragments of Self](Fragments_of_Self.md).
 -   **Legendary:** Special weapons which cannot be enchanted and are automatically soulbounded upon being equipped. This is not to be confused with the 'Legendary' item rarity.
-    -   **Relic:** [Relic](Relics.md) rarity weapons that are functionally identical to Legendary Weapons, though they often have more unique obtainment methods, usually involving [crafting](Crafting_Recipes.md). These will be treated as Legendary Weapons as they are functionally identical with only differing drop sources.
+    -   **Relic:** [Relic](Relics.md) rarity weapons that are functionally identical to Legendary Weapons, though they often have more unique obtainment methods. These will be treated as Legendary Weapons as they are functionally identical with only differing drop sources.
 -   **Boss Weapon:** Weapons that can only be obtained by killing certain [Bosses](Bosses.md). Boss Weapons with additional tags (e.g. Legendary Weapon) will have the other tags prioritized instead.
 -   **Origin Weapon:** Weapons exclusive to a specific [Origin](Origins.md). These weapons often have unique obtainment methods.
 -   **Ability-bound Weapons:** Weapons gained from activating a specific ability. These weapons will replace your currently held weapon while active. These weapons may be granted from an [Oath](Oaths.md), [Talent](Talents.md), or a [Resonance](Resonance.md).
