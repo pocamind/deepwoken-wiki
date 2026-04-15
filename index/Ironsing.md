@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 204478
+revid: 205041
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1000,7 +1000,7 @@ These are Talents found in "_Ironsinger_" Category.
 |  | Expert Ironsinger  
 (30 Ironsing) | You can now obtain 2-star Ironsinger mantras. |  |
 |  | Master Ironsinger  
-(50 Ironsing) | You can now obtain 3-star Ironsinger mantras. | +5 Health FROM: Ironsinger |
+(50 Ironsing) | You can now obtain 3-star Ironsinger mantras. (+5 Health) |  |
 |  | Alloyblood  
 (100 Ironsing) | You don't Bleed like others do. [Bleed](Status_Effects.md#bleed) damage is reduced by 30%. Blood loss is reduced by 75%. | Alloyblood's effectiveness scales with your Ironsing investment, having less effectiveness if you do not meet the requirements for it. The slash damage visual effect is now **light grey**. Turns Bloodrend mantras blue-ish grey. |
 |  | Ironclad Punishment  
@@ -1063,10 +1063,9 @@ Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Impaler, Rending N
 |  | Conductor's cable  
 (75 Ironsing) | Applying Conductor rods on opponents steals 10% of their current armor durability to you. |  |
 |  | Rending Needle: Conductor  
-(75 Ironsing) | 5 metal rods will combine into a conductor rod. If the enemy uses any mantra other than Bloodrend, Ironsing, Attunementless, Oath Mantra, they're dealt their elemental back in turn. | Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Impaler, Rending Needle: Jailer |
+(75 Ironsing) | 5 metal rods will combine into a conductor rod. If the enemy uses any mantra other than Ironsing, they're dealt their elemental back in turn. | Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Impaler, Rending Needle: Jailer |
 |  | Rending Needle: Impaler  
-(75 Ironsing) | If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage.  
- | Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Conductor, Rending Needle: Jailer |
+(75 Ironsing) | If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage. | Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Conductor, Rending Needle: Jailer |
 |  | Rending Needle: Jailer  
 (75 Ironsing) | If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them. | Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Conductor, Rending Needle: Impaler |
 

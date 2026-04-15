@@ -1,6 +1,6 @@
 ---
 title: Chilling
-revid: 203522
+revid: 205046
 source: https://deepwoken.fandom.com/wiki/Chilling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]
@@ -10,7 +10,7 @@ categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Critic
 
 | Chilling | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | Chill your foes. Applies Bottom Freeze once enough stacks have been applied. |

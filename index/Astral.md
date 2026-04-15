@@ -1,6 +1,6 @@
 ---
 title: Astral
-revid: 203659
+revid: 205043
 source: https://deepwoken.fandom.com/wiki/Astral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -10,7 +10,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 | Astral | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | Grants +20% weapon damage in PvE. Call down stars alongside your critical attacks, and after parrying thrice. |

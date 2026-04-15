@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 204599
+revid: 205055
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -28,11 +28,15 @@ This effect happens once your blood bar is below 5%, causing your stomach and th
 
 ### Unconscious
 
-Commonly referred to as being "knocked", this effect is applied once any humanoid target or player reaches 0 health, and is signified by their body going limp. Unless specified by an ability, being Unconscious prevents all actions. Unconscious characters can be executed or [Carried](#carried). Unconscious Targets take significantly more blood damage from being hit. Unconscious lasts 10 seconds at base, but its duration can be altered through certain Talents like [Perseverance](Talents.md#perseverance), [Defiance](Talents.md#defiance), and [Concussive Force](Talents.md#concussive-force). Unconscious' duration will be reset upon taking damage unless the unconscious party has the [Impervious Slumber](Talents.md#impervious-slumber) Talent.
+Commonly referred to as being "knocked", this effect is applied once any humanoid target or player reaches 0 health, and is signified by their body going limp. Unless specified by an ability, being Unconscious prevents all actions. Unconscious characters can be executed or [Carried](#carried). Unconscious Targets take significantly more blood damage from being hit. Unconscious lasts 10 seconds at base, but its duration can be altered through the [Perseverance](Talents.md#perseverance), [Defiance](Talents.md#defiance), [Charismatic Cast](Talents.md#charismatic-cast), and [Concussive Force](Talents.md#concussive-force) Talents. Unconscious' duration will be reset upon taking damage unless the unconscious party has the [Impervious Slumber](Talents.md#impervious-slumber) Talent.
+
+Being set [on fire](#burn) while Unconscious will cause the Unconscious party to burn to death after 8 seconds. The target will stop burning if a manual execution is initiated or if the target gets [Carried](#carried) for any duration. It will take 4 seconds for them to burn to death instead if the burn applicator has the [Corpse Explosion](Talents.md#corpse-explosion) Talent.
+
+Being in deep water, like the sea, while Unconscious will cause you to drown to death after a few seconds. This can be prevented by having the [Fishman](Talents.md#fishman) Talent.
 
 ### Carried
 
-By pressing V near an [Unconscious](#unconscious) player or NPC, you can **carry** them, lifting them over your shoulder and leaving them unable to act. Carried entities will be dropped if the person carrying them takes damage or if the carried entity has been carried for too long.
+By pressing V near an [Unconscious](#unconscious) player or NPC, you can **carry** them, lifting them over your shoulder. Unless specified by an ability, being Carried prevents all actions, similar to being Unconscious. Carried entities will be dropped if the person carrying them takes damage or if the carried entity has been carried for too long.
 
 ### Speed Boost
 

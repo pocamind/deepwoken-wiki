@@ -1,6 +1,6 @@
 ---
 title: Immortal Helm
-revid: 189953
+revid: 205051
 source: https://deepwoken.fandom.com/wiki/Immortal_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -28,7 +28,7 @@ categories: [Equipment, Head, Helmets]
 
 The Immortal Helm is an [Equipment](Equipment.md) item under the "Head" category.
 
-The _[Immortality](Talents.md#immortality)_ Talent prevents the wearer from being knocked down upon taking lethal damage for two seconds while at 1% HP. The effect only lasts for one hit or until the duration expires.
+The _[Immortality](Talents.md#immortality)_ Talent prevents the wearer from being knocked [Unconscious](Status_Effects.md#unconscious) upon taking lethal damage for two seconds while at 1% HP. The effect only lasts for one hit or until the duration expires.
 
 The Immortal Helm drops from the bodies of the [Immortal Guardians](Immortal_Guardian.md) and cannot drop from a chest.
 

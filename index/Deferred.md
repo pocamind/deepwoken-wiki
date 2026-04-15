@@ -1,6 +1,6 @@
 ---
 title: Deferred
-revid: 203529
+revid: 205047
 source: https://deepwoken.fandom.com/wiki/Deferred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -10,7 +10,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 | Deferred | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | Weapon damage is increased by 7%, but becomes damage over time lasting for 2.5s. |

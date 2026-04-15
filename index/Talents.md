@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 204829
+revid: 205050
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4132,7 +4132,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Ash Ember \[Common Talent, Flamecharm, Weapon\] - The more wither your opponent has, the more damage your burn deals.
     -   At 90 FLM 90 WPN you gain a 0.0175 burn damage increase per 1 point of wither.
-    -   Ash Ember loses 0.00005 damage per point taken out of Flamecharm and Weapon below 90 FLM and WPN. The damage calculator can be found [here](https://www.desmos.com/calculator/otupsoueo2).
+    -   Ash Ember caps at 15 total burn damage.
+    -   Every Emperor Flame proc will increase your burn damage by 0.4735, or 1.3125 if you have Scorching Decay.
     -   Prerequisites: 90 Flamecharm, 90 Weapon (90 Light // 90 Medium // 90 Heavy)
 
 -   Scorching Decay \[Common Talent, Flamecharm, Weapon\] - The wither dealt from your Emperor's Flame is massively increased.
@@ -4569,7 +4570,9 @@ Certain Talents are given when a specific equipment or outfit is worn. Multiple 
     -   Increases the effectiveness of Blue Gems by 20%, additively.
     -   With I'm Blue, Blue Gems reduce the total Ether cost of Mantras by 45%.
 
--   Immortality: [Immortal Helm](Immortal_Helm.md) - Knock prevention for one hit whilst at 1% HP.
+-   Immortality: [Immortal Helm](Immortal_Helm.md) - The remnants of the helmet's Mind Veil stir into life when you would be made [Unconscious](Status_Effects.md#unconscious) soaking all damage for a brief duration. 30s CD. [Viscosity](Viscosity.md) is rejected.
+    -   Grants one instance of knock prevention, leaving you at 1% HP on proc.
+    -   The [Viscosity](Viscosity.md) enchantment will be disabled while wearing this equipment.
 
 -   Inky Pearls: [Dark Pearls](Dark_Pearls.md) - The ether you eject is coated with inky shadow. Your vent now steals a small amount of ether.
     -   Turns your Vent black and makes it drain 47.5 Ether on hit.

@@ -1,6 +1,6 @@
 ---
 title: Detonation
-revid: 203530
+revid: 205048
 source: https://deepwoken.fandom.com/wiki/Detonation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -10,7 +10,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 | Detonation | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | Once enough stacks have been applied, an explosion is detonated. |
