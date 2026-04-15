@@ -1,6 +1,6 @@
 ---
 title: Scalesplitter
-revid: 198873
+revid: 205057
 source: https://deepwoken.fandom.com/wiki/Scalesplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Twinblades, Etrea, Alloyed Weapons, Medium Weapons]
@@ -49,5 +49,6 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 ## Trivia
 
 -   One of the first two Twinblade weapons added to the game, the other being the [Crescendo](Crescendo.md).
--   This weapon might be inspired by a Shadow Fight 3 weapon called [Fate Slicer](https://shadowfight.fandom.com/wiki/Fate_Slicer)
+-   This weapon might be inspired by a Shadow Fight 3 weapon called [Fate Slicer](https://shadowfight.fandom.com/wiki/Fate_Slicer).
 -   This is one of very few weapons that change description when alloyed.
+-   By far the best method to get it, is from The Depths or Duke Ishamon Erisia chests.
