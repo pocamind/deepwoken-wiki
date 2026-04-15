@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 201316
+revid: 205028
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant, Voidzones]
@@ -91,6 +91,11 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 -   Characters with the Mute [Regalia](Regalia.md) are instead spared and insulted when knocked by [Immortal Guardians](Immortal_Guardian.md), similar to various town guards.
 -   If you are inexperienced with farming this dungeon, you can simply lure the [Immortal Guardians](Immortal_Guardian.md) out of the dungeon to avoid going to The Depths because it is a Voidzone.
 -   Please note that the crypt entrance can be blocked and it cannot be broken to fix this just server hop.
+    -   If you however want to access the blocked entrance follow these steps:
+        1.  Get two heavy weapons in your hotbar (unequipped)
+        2.  Sprint to the entrance
+        3.  Swap between the two heavy weapons, but don't equip
+        4.  While you sprint and swap weapons, just wait and you should've glitched through the wall
 -   Tip: With the assassin Talent (30 Agility or the [Assassin's Hood](<Assassin's_Hood.md>)), you can one shot the Guardians with an assassination, which makes the grind way easier.
     -   If they aggro on you go outside the dungeon and wait for them to de-aggro.
     -   Tacet and/or the Mute Regalia are extremely useful for assassination.
@@ -98,3 +103,4 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 -   You should always check your blood and food bars, because NPC's in Crypt of Unbroken will drain your blood very fast.
 -   [Immortal Guardians](Immortal_Guardian.md) in the upper floor don’t give chests when they are gripped, making farming them less efficient as the ones downstairs as chests give a lot of exp.
 -   [Immortal Guardians](Immortal_Guardian.md) are able to spawn on top of Crypt of the Unbroken, it can happen by de-aggroing the enemy or by natural causes.
+-   In the Vow of Iron gamemode, it's called The Crypt of the Forgotten.

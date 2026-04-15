@@ -1,6 +1,6 @@
 ---
 title: Krulian
-revid: 180995
+revid: 205024
 source: https://deepwoken.fandom.com/wiki/Krulian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sapient species]
@@ -8,9 +8,15 @@ categories: [Sapient species]
 
 # Krulian
 
+| Krulian | |
+|---|---|
+| name | Krulian |
+
 “ I am a Krulian, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always. ”
 
 ― The Ferryman
+
+  
 
 ## Description
 
