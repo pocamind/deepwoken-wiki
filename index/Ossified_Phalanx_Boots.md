@@ -1,6 +1,6 @@
 ---
 title: Ossified Phalanx Boots
-revid: 201756
+revid: 205058
 source: https://deepwoken.fandom.com/wiki/Ossified_Phalanx_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Legs, Boots, Craftable]

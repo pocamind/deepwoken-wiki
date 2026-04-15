@@ -1,6 +1,6 @@
 ---
 title: Ossified Black Helm
-revid: 203961
+revid: 205066
 source: https://deepwoken.fandom.com/wiki/Ossified_Black_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Craftable, Helmets, Head, Equipment with Set Bonuses]
@@ -34,7 +34,7 @@ Ossified Black Set
 
 ## Description
 
-The Ossified Barrel Helm is an [Equipment](Equipment.md) item under the "Head" category.
+The Ossified Black Helm is an [Equipment](Equipment.md) item under the "Head" category.
 
 The [Sloped Plate](Talents.md#sloped-plate) Talent reduces the amount of damage you take from attacks that guard break you by a flat 10.
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 205056
+revid: 205065
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -24,7 +24,7 @@ categories: [Mechanics, Outfits, Skills, Talents]
 -   Talent requirements display additional and alternative requirements of the Talents.
     -   Additional requirements on Talents are separated with commas.
         -   _(i.e Suffocating Impact requires 15 Strength and 35 Galebreathe, written as "15 Strength, 35 Galebreathe")_
-    -   Alternative requirements on Talents are be displayed as "OR" or "//".
+    -   Alternative requirements on Talents are displayed as "OR" or "//".
         -   "//" is used if there is an alternative individual requirement.
             -   _(i.e Hell's Partisan requires 35 Flamecharm and \[[Fire Forge](Flamecharm.md#fire-forge) or Warding Radiance\], written as "35 Flamecharm, [Fire Forge](Flamecharm.md#fire-forge) (Mantra) // Warding Radiance)_
         -   "OR" is used if there is an alternative group of requirements.
