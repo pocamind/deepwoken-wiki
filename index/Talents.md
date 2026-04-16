@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 205065
+revid: 205090
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2799,7 +2799,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Quest
 
--   _Beiruul's Vengence_ \[Quest Talent\] - Deal 5% more damage to factions that despise you. Serves them right.
+-   _Beiruul's Vengeance_ \[Quest Talent\] - Deal 5% more damage to factions that despise you. Serves them right.
     -   Prerequisites: Complete [Beiruul](Beiruul.md)'s quest
 
 -   _Kj's Courage_ \[Quest Talent\] - Gain 10% more Knowledge from all sources, rounded down.
