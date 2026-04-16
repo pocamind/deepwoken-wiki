@@ -1,6 +1,6 @@
 ---
 title: Skeleton Key
-revid: 205079
+revid: 205084
 source: https://deepwoken.fandom.com/wiki/Skeleton_Key
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -26,7 +26,7 @@ Skeleton Key is a [Resonance](Resonance.md) that players can obtain and is uncom
 
 ### Appearance
 
-When summoned, a grey wall will manifest, with the bottom part of it resembling skeleton hands and the top embodying a symbol.
+When summoned, a gray wall will manifest, with the bottom part of it resembling skeleton hands and the top embodying a symbol.
 
 If corrupted. the walls become a dark blue/violet.
 
@@ -44,7 +44,7 @@ When obtained, Skeleton Key will spend its points on the following stats:
 
 -   **Wall type:** Decides the type of wall that will be used.
     -   Normal doesn't deal damage on push
-    -   Spiked deals damage on push, winding back before launching itself further than the normal push.
+    -   Spiked deals around 50 blunt damage on push, winding back before launching itself further than the normal push.
 
 -   **Wall Amount:** How many walls you can spawn.
 -   **Duration:** How fast it takes to spawn a wall.
