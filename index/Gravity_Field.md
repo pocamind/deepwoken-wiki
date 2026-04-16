@@ -1,6 +1,6 @@
 ---
 title: Gravity Field
-revid: 187953
+revid: 205076
 source: https://deepwoken.fandom.com/wiki/Gravity_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -12,7 +12,7 @@ categories: [Resonances]
 |---|---|
 | effect | Changes the gravity of all who are under the effect, changes the speed of attack, movement, disables mobility mantras, and also pushes inward when trying to get out. |
 | appearance | Transparent hemisphere with a purple circle as the base. |
-| cooldown | Duration + 20 seconds |
+| cooldown | Duration + 70 seconds |
 
 “ Conjure a gravity field that cripples your foes. ”
 
@@ -42,7 +42,7 @@ If Gravity Field is corrupted, the user gains immunity to the effects of their o
 
 When obtained, Gravity Field will spend its points on the following stats:
 
--   **Gravity:** Determines whether the gravity will be reduced or increased (the jump will be lower or higher).
+-   **Gravity:** Determines whether the gravity will be reduced or increased, and by how much. (the jump will be lower or higher). The higher the gravity is, the shorter your gravity field lasts. In extreme cases, it can shorten your resonance duration to only a few seconds.
 -   **Size:** The more points spent on this stat, the larger the field size will be when it is created.
 -   **Pull in gravity:** Determines whether the gravity will be reduced or increased when players are initially pulled in by the resonance when attempting to leave/enter the field, and when the resonance is first activated.
 

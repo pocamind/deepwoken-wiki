@@ -1,6 +1,6 @@
 ---
 title: Smite
-revid: 184993
+revid: 205080
 source: https://deepwoken.fandom.com/wiki/Smite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -32,7 +32,7 @@ When used, multiple white spheres appear around the user. These spheres will fir
 
 Pressing C will activate the **Smite** Resonance.
 
-If Smite is corrupted, the orbs will instead appear red and black and have more points to allocate.
+If Smite is corrupted, the orbs will instead appear red and black and will apply random negative status effects on hit.
 
 ### _Smite_
 
