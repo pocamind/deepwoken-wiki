@@ -1,6 +1,6 @@
 ---
 title: Voidwalker
-revid: 204271
+revid: 205070
 source: https://deepwoken.fandom.com/wiki/Voidwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Origins, Character, The Knives of Eylis]
@@ -49,6 +49,7 @@ Successfully completing a bounty grants EXP and Full Training points based on th
 -   An ability that allows Voidwalkers to access the [Voidheart](Voidheart.md) by teleporting them.
 -   Upon using the ability the user will start floating in the air with black swirls appearing around them, after a ~7 seconds delay.
 -   This takes 1 minute to recharge. Completing a bounty will fully clear the Voideye's cooldown.
+-   If the user attempts to access the [Voidheart](Voidheart.md) whilst having below Neutral Knives reputation you will be denied access, followed by the prompt "You call out, but there's no response..."
 
 ### Grasp of Eylis
 

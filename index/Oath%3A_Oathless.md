@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 199635
+revid: 205069
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -59,8 +59,11 @@ As for its appearance, **nothing** is added to your outfit, making it impossible
 -   **Oath Armor** - Oathless grants 20% Oath armor.
     -   This does not work on every Oath ability, as not all of them deal Oath damage in general.
     -   Due to this being "**armor**" instead of "**resistance**", PEN will affect it and it will be tied to your armor value, being deactivated if your armor is broken.
-    -   Oath attacks with multiple damage types will effectively bypass your Oath armor because the game will take your highest applicable armor resistance and apply that for damage calculation. For example, if you have over 20% Physical resistance, you'll resist [Bladeharper](Oath%253A_Bladeharper.md) attacks based on your Physical resistance rather than your Oath resistance.
-
+    -   Oath attacks with multiple damage types will effectively bypass your Oath armor because the game will take your highest applicable armor resistance and apply that for damage calculation.
+        -   For example, if you have under 20% or no Physical resistance but you have 20% Oath resistance, you will resist 20% of, say, [Bladeharper](Oath%253A_Bladeharper.md) attacks that deal Slash + Oath damage. But if you have 50% Physical resistance and 20% Oath resistance, you will resist 50% of the damage from Bladeharper attacks, making your Oath resistance seem nonexistent.
+        -   List of Oaths and Oath abilities that deal **pure** Oath damage type: [Blindseer](Oath%253A_Blindseer.md), [Contractor](Oath%253A_Contractor.md), [Chainwarden](Oath%253A_Chainwarden.md), [Dawnwalker](Oath%253A_Dawnwalker.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), [Jetstriker](Oath%253A_Jetstriker.md), [Oathless](Oath%253A_Oathless.md) (Soul Beam), [Silentheart](Oath%253A_Silentheart.md), [Starkindred](Oath%253A_Starkindred.md) (All except Death From Above talent), [Soulbreaker](Oath%253A_Soulbreaker.md) (Ardour Slicer only).
+        -   For the list of Oaths and Oath abilities that **don't** deal pure Oath damage type: [Arcwarder](Oath%253A_Arcwarder.md), [Bladeharper](Oath%253A_Bladeharper.md), [Blightsurger](Oath%253A_Blightsurger.md), [Saintsworn](Oath%253A_Saintsworn.md), [Soulbreaker](Oath%253A_Soulbreaker.md) (All except Ardour Slicer).
+        -   For the list of Oaths and Oath abilities that **don't deal damage at all**: [Saltchemist](Oath%253A_Saltchemist.md), [Visionshaper](Oath%253A_Visionshaper.md).
 -   **Monster Armor** - Oathless grants 20% Monster Armor.
     -   This is one of very few sources of Monster Armor.
 
