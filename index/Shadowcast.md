@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 204869
+revid: 205094
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -909,6 +909,7 @@ N/A
 **Effect:** _Creates an Eye that steals the Ether of anybody that casts a Mantra within its gaze._
 
 -   Anyone who attempts to cast a Mantra while in the range of your Devouring Eye will have their Mantra cast canceled and the Ether cost will be consumed and transferred to the caster.
+-   Shares a cooldown with tranquil circle.
 
  |
 | 

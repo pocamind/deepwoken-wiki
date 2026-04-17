@@ -1,6 +1,6 @@
 ---
 title: Necrotic Mask
-revid: 203338
+revid: 205096
 source: https://deepwoken.fandom.com/wiki/Necrotic_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Face, Masks, Craftable, Equipment with Set Bonuses]
@@ -39,7 +39,7 @@ Variants: [Necrotic Cowl](Necrotic_Cowl.md)
 
 The **Necrotic Mask** is an [Equipment](Equipment.md) item under the "Face" category. The Necrotic Mask is a mask that resembles the masks of the Plague Doctors from around the 16th and 17th centuries.
 
-The [Blood Plague](Talents.md#blood-plague) Talent allows you to apply stacks of [Blood Plague](Status_Effects.md#blood-plague) on M1s. Upon using your weapon's critical attack, these stacks will be consumed to grant a maximum of 10 [Temporary Health](Status_Effects.md#temporary-health) if your critical attack lands. If your critical attack misses, the stacks will still be consumed.
+The [Blood Plague](Talents.md#blood-plague) Talent allows you to apply stacks of [Blood Plague](Status_Effects.md#blood-plague) on M1s. Upon landing your weapon's critical attack, these stacks will be consumed to grant an amount of [Temporary Health](Status_Effects.md#temporary-health), increasing per stack. If your critical attack misses, the stacks will still be consumed.
 
 This item is similar to the [Bloodcurdle Mask](Bloodcurdle_Mask.md) from [Vow of Iron](Vow_of_Iron.md).
 

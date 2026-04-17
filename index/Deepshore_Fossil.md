@@ -1,6 +1,6 @@
 ---
 title: Deepshore Fossil
-revid: 152120
+revid: 205093
 source: https://deepwoken.fandom.com/wiki/Deepshore_Fossil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Floor 1, Layer 2]
@@ -11,8 +11,8 @@ categories: [Items, Floor 1, Layer 2]
 | Deepshore Fossil | |
 |---|---|
 | type | Quest Item |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | pass down | No |
 | desc | A biomechanical organism originating from a deeper layer. Far from its ideal habitat, it can produce a single Enchant Stone before it expires. |
 
