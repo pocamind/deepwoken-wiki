@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 204817
+revid: 205137
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -95,7 +95,7 @@ Exhaustive Loot Table
   <ul>
     <li><a href="Murmur%253A_Ardour.md">Murmur: Ardour</a></li>
     <li><a href="Items.md">Items</a>: <a href="Deep_Gems.md">Deep Gems</a>, <a href="Dread_Flesh.md">Dread Flesh</a> (direct drop), <a href="Dread_Serpent's_Tooth.md">Dread Serpent's Tooth</a> (direct drop)</li>
-    <li><a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, Non-Exclusive <a href="Enchant_Stone.md">Enchant Stones</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, Non-Exclusive <a href="Enchant_Stone.md">Enchant Stones</a>, Gilded Needle (direct drop)</li>
   </ul></td>
 </tr>
 <tr>

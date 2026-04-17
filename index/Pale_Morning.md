@@ -1,6 +1,6 @@
 ---
 title: Pale Morning
-revid: 204913
+revid: 205138
 source: https://deepwoken.fandom.com/wiki/Pale_Morning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Heavy Weapons]
@@ -38,7 +38,7 @@ categories: [Weapons, Greathammers, Heavy Weapons]
 
 ## Description
 
-The Pale Morning is an endgame Greathammer. The description mentions a [Canor](Canor.md) warlord whose name is currently unknown.
+The Pale Morning is an endgame Greathammer. The description mentions a [Canor](Canor.md) [warlord](Unidentified_Canor_warlord.md) whose name is currently unknown.
 
 ## Critical
 
