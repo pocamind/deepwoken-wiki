@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 205106
+revid: 205131
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -90,7 +90,7 @@ You _**cannot**_ oath skip Blightsurger. Attempting to do will have Brutus beat 
 
 ### Weapon
 
--   **Sovereign Bangle** - Cestus used by members of the Hundred Legions. Sovereign State does not automatically activate at 100% Blight Meter anymore.
+-   **Sovereign Bangle** - An ancient bangle bestowed upon the disciples of Theros, its bearer once honored among the Legion. Sovereign State does not automatically activate at 100% Blight Meter anymore.
     -   This Fist Oath weapon is automatically granted upon entering Sovereign State and will automatically be dispelled upon exiting Sovereign State.
     -   The Sovereign Bangle has the following stats: 30 base damage, 5% PEN, 6 range, 8 weight, 0.98x Swingspeed, and a unique critical.
     -   The critical is a leaping slam attack, applying Blightshock and knockdown. This attack deals 35 Blunt damage with 3 Strength scaling.

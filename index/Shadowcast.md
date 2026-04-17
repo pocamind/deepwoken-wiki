@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 205094
+revid: 205134
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -790,8 +790,8 @@ Shadow + Slash/Blunt (Bl. Spark)
 -   The Blast Spark variant drains 1.35/2.05/4.16/6.3/8.4 Ether per level on the initial hit and 2.25/4.16/12/14/18.66 Ether per level on all subsequent hits. This has 2.75 Shadowcast scaling.
 -   Deals 1.5/2.5/4.5/6.5/8.5 posture damage per level.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
--   Its distance is reduced by 60% when used in water.
--   [Crystal](Mantra_Modifiers.md#regular-modifiers) [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) increase distance.
+-   If below 33% health distance is halved. Its distance is reduced by 60% when used in water.
+-   [Crystal](Mantra_Modifiers.md#regular-modifiers) [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) increase distance. Max range increase is +3 doubling base distance, no increase past 1 Perfect Lense/+3 range modifier.
 -   [Glass](Mantra_Modifiers.md#regular-modifiers) and [Magnifying Stones](Mantra_Modifiers.md#regular-modifiers) make hitbox larger.
 -   Max AOE seems to be +6
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks) to perform a barrage of shadows. This variant can only be used if you are at or below 40% of your maximum health.

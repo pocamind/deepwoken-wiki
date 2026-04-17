@@ -1,6 +1,6 @@
 ---
 title: Saintsworn (Memento)
-revid: 204245
+revid: 205135
 source: https://deepwoken.fandom.com/wiki/Saintsworn_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -11,7 +11,7 @@ categories: [Vow of Iron Exclusive, Mementos]
 | Saintsworn | |
 |---|---|
 | description | Harness the power of the heroes, wielding control over five attunements. |
-| unlock | Interact with the Saintsworn Obelisks with the corresponding Mementos:, Flamecharm: Flame Worshipper, Solborn, or Steampunk Soldier, Frostdraw: Saint Jay or Steampunk Soldier, Thundercall: Flashing Thunder, Galebreathe: Inheritor of the Gale, Shadowcast: Strange Merchant or Void Glutton |
+| unlock | Interact with the Saintsworn Obelisks with the corresponding Mementos:, Flamecharm: Flame Worshipper, Solborn, or Steampunk Soldier, Frostdraw: Saint Jay or Steampunk Soldier, Thundercall: Flashing Thunder or Theros Disciple, Galebreathe: Inheritor of the Gale or Theros Disciple, Shadowcast: Strange Merchant or Void Glutton |
 | starting attributes | 75 Flamecharm, 75 Frostdraw, 75 Thundercall, 75 Galebreathe, 75 Shadowcast, 2 Strength, 1 Fortitude, 1 Agility, 3 Intelligence, 1 Willpower |
 | final attributes | 100 Flamecharm, 100 Frostdraw, 100 Thundercall, 100 Galebreathe, 100 Shadowcast, 25 Strength, 10 Fortitude, 20 Agility, 50 Intelligence, 10 Willpower |
 | starting traits | -3 Vitality, 1 Erudition, 1 Proficiency, 1 Songchant, 2 Dexterity |
