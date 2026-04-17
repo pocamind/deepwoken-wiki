@@ -1,6 +1,6 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 204867
+revid: 205110
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -269,5 +269,5 @@ Parry
 
 ## Trivia
 
--   Kills against the Kyrsgarde Champion contribute towards the general Kyrsgarde bestiary entry, so the boosts from that entry should also apply against it.
+-   Kills against the Kyrsgarde Champion contribute towards the general Kyrsgarde [Bestiary](Bestiary.md) entry, so the boosts from that entry should also apply against it.
 -   Climbing over the **Permafrost Colosseum** is possible if it is summoned near certain tall buildings in New Kyrsa.

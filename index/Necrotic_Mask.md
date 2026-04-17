@@ -1,6 +1,6 @@
 ---
 title: Necrotic Mask
-revid: 205096
+revid: 205120
 source: https://deepwoken.fandom.com/wiki/Necrotic_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Face, Masks, Craftable, Equipment with Set Bonuses]
@@ -47,4 +47,4 @@ This item is similar to the [Bloodcurdle Mask](Bloodcurdle_Mask.md) from [Vow of
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent: [Bloodless Overdrive](Talents.md#bloodless-overdrive) - Gain bonus [temp health](Status_Effects.md#temporary-health) every time you land a mantra with a [Bloodless Gem](Bloodless_Gem.md).
+Set Talent: [Bloodless Overdrive](Talents.md#bloodless-overdrive) - Gain bonus [temp health](Status_Effects.md#temporary-health) every time you land a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] with a [Bloodless Gem](Bloodless_Gem.md).

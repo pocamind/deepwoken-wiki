@@ -1,6 +1,6 @@
 ---
 title: Ironsinger Heavy Plate
-revid: 197378
+revid: 205125
 source: https://deepwoken.fandom.com/wiki/Ironsinger_Heavy_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -32,5 +32,4 @@ The [Defiant until the End](Talents.md#defiant-until-the-end) Talent causes your
 
 ## Trivia
 
--   This is one of the best Arms [Equipment](Equipment.md) in Deepwoken in terms of raw stats.
 -   The name implies that these plates are forged via the use of [Ironsing](Ironsing.md).

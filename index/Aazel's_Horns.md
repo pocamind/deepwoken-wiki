@@ -1,6 +1,6 @@
 ---
 title: "Aazel's Horns"
-revid: 199623
+revid: 205114
 source: https://deepwoken.fandom.com/wiki/Aazel's_Horns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Horns]
@@ -34,3 +34,5 @@ The Aazel's Horns is an [Equipment](Equipment.md) item under the "Head" category
     -   It hadn't been documented in his shop until 7 days after its addition, wholly due to bad RNG. There isn't, and has never been specific weighting for items in either of his shops.
 -   This item appears to be a blatant reference from an older Monad Studios' game, _Rogue Lineage,_ where the Artifact [Azael Horns](https://rogue-lineage.fandom.com/wiki/Azael_Horns) was sold from [The Collector](https://rogue-lineage.fandom.com/wiki/The_Collector). The Collector functioned much similarly to Traan Zakshun, who offered three random Artifacts from his pool.
     -   It may also be a reference to the [Azael](https://rogue-lineage.fandom.com/wiki/Azael) race itself, which featured red horns, skin, and eyes.
+    -   The gem in the middle may be a refrence to **Ya'alda, the God Needle,** as it appears to have the same model.
+    -   Similarly you can also find the same red gem in the starkindred oath room.

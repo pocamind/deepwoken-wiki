@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant
-revid: 200701
+revid: 205123
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -11,7 +11,7 @@ categories: [Vow of Iron Exclusive, Mementos]
 | Strange Merchant | |
 |---|---|
 | description | A strange being hailing from a time that no longer exists, they hauled a strange relic everywhere. |
-| unlock | Has a low drop chance from various Mystery Boxes., Spending at the 16,000 notes mark |
+| unlock | Spend up to 16,000 Notes at various Mystery Boxes. |
 | final attributes | 50 Shadowcast, 100 Light Weapon, 100 Medium Weapon, 100 Heavy Weapon, 10 Fortitude, 75 Intelligence, 100 Charisma |
 | final traits | 8 Proficiency, 7 Songchant, 6 Dexterity, 6 Erudition, 1 Vitality |
 | aspect | Levit |
@@ -38,7 +38,7 @@ Wiping as a Strange Merchant unlocks the [Enrage](Talents.md#enrage) talent on [
     
     -   Activating your Coffin takes 50. This Note cost will increase by 50 per Power, costing 1,000 at Power 20. The price increase mechanic needs further testing.
     -   When used, the Coffin acts like a loot box, randomly rolling an item to give you.
-    -   There is a relatively high chance to get Skull(previously known as the Enforcer Labubu)[\[1\]](#cite-note-0-1), which can either be a blank that doubles the cost of the next roll and laughs at you or gives a rare item.
+    -   There is a relatively high chance to get Skull (previously known as the Enforcer Labubu)[\[1\]](#cite-note-0-1), which can either be a blank that doubles the cost of the next roll and laughs at you or gives a rare item.
     -   Coffin activation uses your Resonance keybind.
     -   You can use any weapon or equipment item without meeting their **attribute** requirements. This also applies to outfits (with some exceptions).
 
@@ -167,7 +167,7 @@ N/A
     -   Madness from this Talent procs when attacking charmed enemies who are below 50% health.
     -   Madness prevents non-boss enemies from dealing damage and hitstunning you.
     -   Using Taunt as a counter displays [Prediction](Attunement-less.md#prediction)'s visual effects but with a dark purple color. This also plays a laughing sound effect and reduces Taunt's cooldown to 1 second.
-    -   Taunt counter does not deal damage, but instead stacks Taunt's damage buff effect.
+    -   Taunt counter does not deal damage but instead stacks Taunt's damage buff effect.
 
 -   Cornered Fool \[Common Talent\] **100** \- Blockbreaking a Charmed opponent procs Taunt for 5s, making them take and deal more damage. 15s CD
     -   Despite what the description states, this applies Taunt for 6 seconds.
@@ -177,7 +177,7 @@ N/A
 
 -   Off Your Game \[Common Talent\] **100** \- You now slow Taunted enemies when you hit them.
 
--   Tough Love \[Common Talent\] **100** \- Deal 10% more damage to enemies [Charmed](Status_Effects.md#charm) by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you applies [Charmed](Status_Effects.md#charm) briefly.
+-   Tough Love \[Common Talent\] **100** \- Deal 10% more damage to enemies [Charmed](Status_Effects.md#charm) by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you apply [Charmed](Status_Effects.md#charm) briefly.
     -   Charms for 2 seconds with a 1 second cooldown.
     -   If attacked while on cooldown, the cooldown timer resets and you have to wait another second again to be able to proc Tough Love's Charm.
     -   The damage increase affects **all** forms of Charm, not exclusively Tough Love's.
@@ -191,7 +191,7 @@ N/A
     -   This is applied **after** Snake Oil.
 
 -   _Observation_ \[Rare Talent\] **250** \- Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
-    -   Cancelling your roll quickly will grant dodge frames equals to the length of a regular roll. Basically giving extra 0.1s dodge frames.
+    -   Cancelling your roll quickly will grant dodge frames equals to the length of a regular roll. Basically, giving extra 0.1s dodge frames.
 
 -   _**Dazing Finisher**_ \[Advanced Talent\] **350** \- Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
     -   Prevents you from knocking back charmed players with flourishes, instead, dazing them.
@@ -483,7 +483,7 @@ Oath
 -   Unfazed \[Common Talent\] **100** \- You are more resilient to the side effects of going insane. You no longer Shiver and you Panic with less severity.
     -   Contrary to the card's description, effect of insanities are delayed by a full tier.
         -   You now Shiver at Tier 2 insanity instead of Tier 1.
-        -   Shiver slows movement, but does not cancel M1/Mantra.
+        -   Shiver slows movement but does not cancel M1/Mantra.
         -   You now Scratch yourself at Tier 3 insanity instead of Tier 2.
 
 -   Luminous Flash \[Oath Talent\] **200** \- After dealing a certain amount of damage in Absolute Radiance, gain a chance to empower your strikes with pure light.
