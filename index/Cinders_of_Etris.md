@@ -1,6 +1,6 @@
 ---
 title: Cinders of Etris
-revid: 204895
+revid: 205186
 source: https://deepwoken.fandom.com/wiki/Cinders_of_Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Random Encounters, Etrea, Disaster]
@@ -22,7 +22,7 @@ Also referred to as "Etris Raid Event", "Etris vs Authority Raid Event", "Etris 
 
 ## Description
 
-The siege of Etris is a large and rare event in which [the Authority](The_Central_Authority.md) makes its way into the heart of [Etrea](Etrea.md), the city of [Etris](Etris.md).
+The siege of Etris is a large and rare event/disaster in which [the Authority](The_Central_Authority.md) makes its way into the heart of [Etrea](Etrea.md), the city of [Etris](Etris.md).
 
 At the beginning of the event, [Seraphina](Seraphina.md) or [Etrean Guardsmen](Etrean_Guardsmen.md) will talk about the Authority ceasing their operations in the East, as if they're preparing for something. Soon after, the docks are greeted by a large number of both [Etrean](Etrean_Guardsmen.md) and [Authority](Authority_Officer.md) soldiers fighting as a deafening explosion rings throughout the island. Slowly, the Authority crawls up into the city of Etris, starting from the docks, to the Etrea Wilds, and eventually reaching the main city, causing more and more havoc to break out.
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 205181
+revid: 205183
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -56,7 +56,7 @@ Blightsurger draws most of its power from Sacred Lightning. It was invented by [
 
 To obtain Blightsurger, the player must defeat [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md). Afterwards, approach Titus and select his second dialogue option. Finally, leave the [Merit Detainment Core](Merit_Detainment_Core.md) and speak to [Brutus](Brutus.md) to obtain the Oath.
 
-The player must have at least a sum of 80 points invested into Strength, Agility, and Fortitude, as well as 40 Thundercall or Galebreathe, and slightly higher than Ally reputation with [The Hundred Legions](The_Hundred_Legions.md) to obtain Blightsurger.
+The player must have at least a sum of 80 points invested into Strength, Agility, and Fortitude, as well as 40 [Thundercall](Thundercall.md) or [Galebreathe](Galebreathe.md), and slightly higher than Ally reputation with [The Hundred Legions](The_Hundred_Legions.md) to obtain Blightsurger.
 
 _Blightsurger **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it._
 
@@ -66,13 +66,13 @@ To progress Blightsurger, the player will need to activate **Sovereign State** m
 
 Recommended method is to hit training dummies. Attack until your **Blight meter** is full, then drop a note to be in combat. After that, activate Sovereign Mode and allow it to drain for 1 sec, then turn it off. It is not required to stay in the transformation the whole time or to attack in it.
 
-( **THESE ARE ALL ESTIMATES AND NEEDS MORE TESTING**)
+(**THESE ARE ALL ESTIMATES AND NEEDS MORE TESTING**)
 
 -   15 ~ 100% Activations - Sovereign Drive
 -   15 ~ 100% Activations - Blighted Touch
 -   15 ~ 100% Activations - Skycrash/ Blight Pierce
 -   15 ~ 100% Activations - Warp Kick
--   15 ~ 100% Activations  - Anchor Shock
+-   15 ~ 100% Activations - Anchor Shock
 -   15 ~ 100% Activations - Blight Lash
 
 Rounded up in total would be 90 ~ 100 **Sovereign Mode** activations.
@@ -90,7 +90,7 @@ You _**cannot**_ oath skip Blightsurger. Attempting to do will have Brutus beat 
 
 ### Weapon
 
--   **Sovereign Bangle** - An ancient bangle bestowed upon the disciples of Theros, its bearer once honored among the Legion. Sovereign State does not automatically activate at 100% Blight Meter anymore.
+-   **Sovereign Bangle** - An ancient bangle bestowed upon the disciples of [Theros](Theros.md), its bearer once honored among the Legion. Sovereign State does not automatically activate at 100% Blight Meter anymore.
     -   This Fist Oath weapon is automatically granted upon entering Sovereign State and will automatically be dispelled upon exiting Sovereign State.
     -   The Sovereign Bangle has the following stats: 30 base damage, 5% PEN, 6 range, 8 weight, 0.98x Swingspeed.
     -   The Sovereign Bangle retains your original weapon's enchantment and weapon quality value (stars).
@@ -107,7 +107,7 @@ You _**cannot**_ oath skip Blightsurger. Attempting to do will have Brutus beat 
 
 -   **Sovereign State** - Landing physical, lightning, and wind attacks build your Blight Meter. At full gauge, enter a Blight State that replaces your weapon with the Sovereign Bangle and empowers Blightsurge abilities.
     -   Sovereign State does not automatically activate at 100% Blight Meter.
-    -   The Blight Meter gain has no cooldown, and never decays. Landing Blightsurger Mantras grants 15% Blight Meter. Landing M1 attacks grants 10% Blight Meter. Landing weapon criticals, [Thundercall](Thundercall.md) Mantras, or [Galebreathe](Galebreathe.md) Mantras grants 5% Blight Meter per hit.
+    -   The Blight Meter gain has no cooldown and never decays. Landing Blightsurger Mantras grants 15% Blight Meter. Landing M1 attacks grants 10% Blight Meter. Landing weapon criticals, [Thundercall](Thundercall.md) Mantras, or [Galebreathe](Galebreathe.md) Mantras grants 5% Blight Meter per hit.
     -   There is a 10 second cooldown on activating Sovereign State, started once it ends.
     -   The Sovereign State lasts 23.5 seconds if activated at full Blight Meter.
     -   You can press X while having at least 30% Blight Meter to activate Sovereign State early. While in Sovereign State, your Blight Meter will passively decay, and it cannot be deactivated once active.
@@ -119,8 +119,8 @@ You _**cannot**_ oath skip Blightsurger. Attempting to do will have Brutus beat 
         -   This leaping attack applies Blightshock and knockdown, dealing 35 Blunt damage with 3 Strength scaling.
         -   Any weapon summoned while in Sovereign State ([Crazy Slots](Crazy_Slots.md), [Metal Greatsword](Metal_Greatsword.md), etc.) will have its critical replaced by this ability.
             -   As a consequence, you cannot use any critical-procced talents with this ability, as it is not a true critical and rather a separate ability.
-
--   -   -   The Blight Meter can be [dyed](Dye_Packet.md), however this has no visual effect aside from coloring the bar.
+                
+            -   The Blight Meter can be [dyed](Dye_Packet.md), however this has no visual effect aside from coloring the bar.
 
 -   **Anchor Shock** - Your Blightshock prevents targets from using mobility mantras.
     -   This puts your opponent's mobility slot Mantras on a 3 second cooldown whenever Blightshock is applied from a Blightsurger Mantra.
@@ -172,7 +172,7 @@ Note: Attacks with multiple damage typings will be resisted by whatever resistan
 -   This Oath is used by [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
 -   Blightsurger's requirements have changed three times since its addition, and all three changes were done within the first week of the Oath being added. While the attunement requirement remained the same, the core attribute requirement has been changed multiple times.
 -   Blightsurger once had a game-breaking bug that happened whenever you used Skycrash, you would be launched into oblivion, killing you instantly. (similar to [AA-gun deaths](<Terminology_(game).md#aa-gunaa-gunned>))
--   Blightsurger is currently the only [Oath](Oaths.md) to not have an unique icon for itself, instead using the generic fist [Talent](Talents.md) Card icon.
+-   Blightsurger is currently the only [Oath](Oaths.md) to not have a unique icon for itself, instead using the generic fist [Talent](Talents.md) Card icon.
 
 ## References
 

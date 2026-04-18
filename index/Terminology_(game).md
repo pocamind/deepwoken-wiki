@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 200759
+revid: 205188
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -77,6 +77,18 @@ _noun_
     1.  Ex. that permafreshie died to a sharko, there's no way he can't parry a simple slash
 
 Permanent + Freshie = Permafreshie
+
+## Location Terms
+
+These are terms that refer to the different locations and may be official or player-made definitions.
+
+### Overworld
+
+_noun_
+
+1.  Refers to places above [The Depths](The_Depths.md). This is usually means the [Etrean Luminant](Luminants.md) and [Eastern Luminant](Luminants.md), as these are the only locations accessible to the player outside of the depths.
+    1.  Ex. "I'm back at the overworld. That [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation) was tough. I had to fight a [Corrupted](Monsters.md#scyphozia) [Flamewreathed](Monsters.md#attuned-monsters) [Sharko](#sharko) that didn't have its animations loaded yet while [preshrine](#pre-shrine-pre) with 1 [weapon](Weapons.md) [investment](Attributes.md#weapon-attributes) and no [mantras](Mantras.md) having only 50% health leftover after escaping from a [depths ganker](#depths-gankdepths-ganker) in a 480 ping server because I live in South Africa. Anyways, where are you?"
+    2.  Ex. "Meet me in the overworld. I'll be going up first."
 
 ## Combat Terms
 

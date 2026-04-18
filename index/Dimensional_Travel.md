@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 204514
+revid: 205184
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -30,11 +30,11 @@ Upon usage, the user will leave behind a vortex shaped portal and be transported
 
 Pressing C will activate the **Dimensional Travel** Resonance.
 
-When activated, the user is transported into an alternate dimension known as [The Interstice](The_Interstice.md), and will briefly leave a lingering portal to allow other players to enter. The resonance cannot be activated if the user is in combat, unless the **Use in Combat** Resonance stat is invested into. Each step taken inside The Interstice will translate to a varying amount of steps taken outside of The Interstice, depending on your resonance point allocation.
+When activated, the user is transported into an alternate dimension known as [The Interstice](The_Interstice.md) and will briefly leave a lingering portal to allow other players to enter. The resonance cannot be activated if the user is in combat, unless the **Use in Combat** Resonance stat is invested into. Each step taken inside The Interstice will translate to a varying number of steps taken outside of The Interstice, depending on your resonance point allocation.
 
 Dimensional Travel cannot be used in: [Etris Palace](Etris_Palace.md), [Voidheart](Voidheart.md), [Guild Bases](Guild_Bases.md), the [Depths trial](Cathedral_of_the_Interstice.md), or instanced dungeons (such as the [Second Layer](Second_Layer.md) or [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>))
 
-The function activating the Resonance has is dependent on what state of 'using the resonance' you're in:
+The function activating the Resonance has been dependent on what state of 'using the resonance' you're in:
 
 -   If activated whilst in the overworld, the user will be transported into [The Interstice](The_Interstice.md) and leave a portal behind for others to enter, the portal only lasting only a few seconds.
     -   If any players inside [The Interstice](The_Interstice.md) jump into the void through the cracks in the floor or get downed, they will be teleported to the equivalent overworld position.
@@ -48,7 +48,7 @@ When obtained, Dimensional Travel will spend its Resonance points on the followi
 
 -   **Use in Combat:** If this stat is invested into, the user can use the Resonance while in combat. Deducts a sizeable amount of Resonance points.
     -   While using this in combat, the Resonance will go into a lengthy wind up. During the wind up, the user is still able to perform basic actions before being teleported into The Interstice.
--   **Capacity:** The more points that are invested into this stat, the higher the amount of players that can enter the realm before the portal automatically closes.
+-   **Capacity:** The more points that are invested into this stat, the higher the number of players that can enter the realm before the portal automatically closes.
 -   **Travel Speed:** The more points are invested into this stat, the faster that players will travel through [The Interstice](The_Interstice.md).
     -   The math behind it is complicated, but at its simplest form, the multiplier to your distance travelled is in 0.333 increments, being a minimum of 1.333x and a maximum of 6.666x.
         -   Whilst in [The Interstice](The_Interstice.md), you can view your current location in the overworld by opening your map, which will accurately show your equivalent overworld location.
@@ -67,7 +67,7 @@ If Dimensional Travel is Drowned, in addition to the extra Resonance points to s
 -   Functions similarly and is likely inspired by Tobi's "Kamui" ability from Naruto; both involve entering a largely featureless separate dimension with a floor composed of black blocks that also enable transportation over long distances. Both also invoke swirl patterns when used.
     -   Amusingly also similar to Minecraft's Nether travel mechanics, both allowing extra distance to be covered in the overworld by traversing a distance in a separate dimension.
 -   When in the [First Layer](First_Layer.md), if you leave the map and fall out of the world or get stuck inside of terrain, it will act as a reset and spawn you at one of the spawn locations.
--   Attempting to use **Dimensional Travel** in the [Second Layer](Second_Layer.md) will fling you in the direction of your momentum, with dialogue from an unknown entity saying “FALSE REALMS CANNOT SAVE YOU.”
+-   Attempting to use **Dimensional Travel** in the [Second Layer](Second_Layer.md) will fling you in the direction of your momentum, with dialogue from an unknown entity saying, “FALSE REALMS CANNOT SAVE YOU.”
     -   If used properly, timing a jump to change the angle of your momentum can allow you to gain great amounts of distance in a desirable direction over a short time. This is frequently used for speedrunning.
 -   If you get teleported to the [Voidheart](Voidheart.md) due to a [Voidwalker](Voidwalker.md) bounty expiring while inside The Interstice, you get teleported far into the [Voidsea](Voidsea.md) (possibly the Voidheart's coordinates multiplied by your **Dimensional Travel** distance stat.)
     -   Voidwalker bounties also expire if the targets are separated via The Interstice long enough, rendering this a means of escape for either, albeit inconvenient.
