@@ -1,6 +1,6 @@
 ---
 title: Ruins of Leiuna
-revid: 201763
+revid: 205194
 source: https://deepwoken.fandom.com/wiki/Ruins_of_Leiuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations, World Event]

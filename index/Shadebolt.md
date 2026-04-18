@@ -1,6 +1,6 @@
 ---
 title: Shadebolt
-revid: 203198
+revid: 205206
 source: https://deepwoken.fandom.com/wiki/Shadebolt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Unique Criticals, Medium Weapons, "Attunement-based Weapons", Bows]
@@ -36,7 +36,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons wi
 
 ## Description
 
-The **Shadebolt** is a Mythical [Bow](Weapons.md#bows) imbued with [Shadowcast](Shadowcast.md), with wide thorn-like limbs that curve outward in sharp, uneven arcs. Its silhouette is aggressive and asymmetrical, with serrated edges and a heavy, angular grip at the center.
+The **Shadebolt** is a Mythical [Bow](Weapons.md#bows) imbued with [Shadowcast](Shadowcast.md), with wide thorn-like limbs that curve outward in sharp, uneven arcs. Its silhouette is aggressive, with serrated edges and a heavy, angular grip at the center.
 
 ## Critical
 
