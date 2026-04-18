@@ -1,6 +1,6 @@
 ---
 title: Oni Mask
-revid: 190007
+revid: 205147
 source: https://deepwoken.fandom.com/wiki/Oni_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Face, Masks]
@@ -35,3 +35,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 The Oni Mask is a pitch-black mask [Equipment](Equipment.md) item, reminiscent of a Japanese _oni_. Two horns sprout from the forehead, with another two jutting out from the chin area. The entire mask is fashioned in a growl, the mask baring it's teeth to viewers. A circular hole appears on top of the mask. When worn, the Demon Mask completely covers the wearer's face.
 
 The [Hellion Shift](Talents.md#hellion-shift) Talent increases your [dodge](Combat_Mechanics.md) iframes, scaling on your current [insanity](Insanity.md).
+
+## Trivia
+
+-   _Oni_ are Japanese demons known for their distinctive horns. The implications of such a term being used within the world of _[Deepwoken](<Deepwoken_(game).md>)_ have yet to be explored.

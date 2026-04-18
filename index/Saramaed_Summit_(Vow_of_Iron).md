@@ -1,6 +1,6 @@
 ---
 title: Saramaed Summit (Vow of Iron)
-revid: 195207
+revid: 205145
 source: https://deepwoken.fandom.com/wiki/Saramaed_Summit_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with VOI reason, InProgressPages, Vow of Iron Exclusive, Voidzones]
@@ -44,4 +44,4 @@ Map location
 
 ### Ignition Union Camps
 
-Near the center of Saramaed Summit you can find amps of [the Ignition Union](The_Ignition_Union.md).
+Near the center of Saramaed Summit you can find camps of [the Ignition Union](The_Ignition_Union.md).

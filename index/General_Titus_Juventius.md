@@ -1,6 +1,6 @@
 ---
 title: General Titus Juventius
-revid: 199897
+revid: 205144
 source: https://deepwoken.fandom.com/wiki/General_Titus_Juventius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | health | 92000 |
 | attacks | Worldpiercing Deluge, Commander's Rage, Splitting Ascension, Sovereign Drive, Wrathful Stomp, Warp Kick, Blighted Sparks |
-| drops | ??? |
+| drops | Icarus Sun Shield, ??? |
 | locations | The PolymarchThe Valley of Heroes |
 | affiliation | The Hundred Legions |
 
