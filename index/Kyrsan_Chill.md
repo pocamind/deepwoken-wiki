@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Chill
-revid: 203534
+revid: 205173
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Chill
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -10,7 +10,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 | Kyrsan Chill | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | On critical hits, apply a slow that increases with each crit. At 5 stacks fully encase your opponent in ice. |

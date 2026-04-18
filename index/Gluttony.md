@@ -1,6 +1,6 @@
 ---
 title: Gluttony
-revid: 203507
+revid: 205171
 source: https://deepwoken.fandom.com/wiki/Gluttony
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -10,7 +10,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 | Gluttony | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | Steals Water and Stomach from those you hit. |

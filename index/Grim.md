@@ -1,6 +1,6 @@
 ---
 title: Grim
-revid: 203523
+revid: 205170
 source: https://deepwoken.fandom.com/wiki/Grim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]
@@ -10,7 +10,7 @@ categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Critic
 
 | Grim | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | Once enough stacks have been applied, Grim is applied for 6s, increasing all incoming damage by 25% and incoming posture damage by 50%. |

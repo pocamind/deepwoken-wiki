@@ -1,6 +1,6 @@
 ---
 title: Harrowing
-revid: 203531
+revid: 205169
 source: https://deepwoken.fandom.com/wiki/Harrowing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Hallowtide, Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]
@@ -10,7 +10,7 @@ categories: [Hallowtide, Enchantments, Weapon Enchantments, Enchantments that pr
 
 | Harrowing | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | Obscures your opponent's health, posture, and armor bars. Also causes PvE to get Confusion on successful hits. |

@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 202387
+revid: 205179
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -62,7 +62,7 @@ Raw materials harvested from the environment.
 
 _Main Page: [Ore](Ores.md)_
 
-Ores come from mining ore deposits found across various locations, or can be bought in certain towns such as [Etris](Etris.md) and [Isle of Vigils](Isle_of_Vigils.md). They're mainly used for crafting certain [Outfits](Outfits.md) and utility items.
+Ores come from mining ore deposits found across various locations or can be bought in certain towns such as [Etris](Etris.md) and [Isle of Vigils](Isle_of_Vigils.md). They're mainly used for crafting certain [Outfits](Outfits.md) and utility items.
 
 -   [Rock](Ores.md#rock)
 -   [Coal](Ores.md#coal)
@@ -127,7 +127,6 @@ Many common [Monsters](Monsters.md) and some [Bosses](Bosses.md) have a chance o
     -   [Duke's Coat Fiber](<Duke's_Coat_Fiber.md>)
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md) and [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
     -   [Primadon Pelt](Primadon_Pelt.md)
--   [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md) only
     -   [Primal Slab](Primal_Slab.md)
 -   [The Ferryman](The_Ferryman.md)
     -   [Ferryman's Coat Cloth](<Ferryman's_Coat_Cloth.md>)
@@ -137,18 +136,21 @@ Many common [Monsters](Monsters.md) and some [Bosses](Bosses.md) have a chance o
 -   [Dread Serpent](Dread_Serpent.md)
     -   [Dread Serpent's Tooth](<Dread_Serpent's_Tooth.md>)
     -   [Dread Flesh](Dread_Flesh.md)
+    -   [Dread Serpent's Mane](<Dread_Serpent's_Mane.md>)
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
     -   [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>)
     -   [Raw Heavy Meat](Raw_Heavy_Meat.md)
 -   [Interluminary Parasol](Interluminary_Parasol.md)
     -   [Parasol Part](Parasol_Part.md)
     -   [Raw Parasol Brain](Raw_Parasol_Brain.md)
+    -   [Parasol Membrane](Parasol_Membrane.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
     -   [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
     -   [Weathered Timepiece](Weathered_Timepiece.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
     -   [Temporal Crux](Temporal_Crux.md)
+    -   [Ethereal Bone Dust](Ethereal_Bone_Dust.md)
 
 ### Mantra Ingredients
 
@@ -183,13 +185,13 @@ Mantra Ingredients consist of Mantra Modifiers, unique items that can be utilize
 
 #### Deep Gems
 
--   Aegis Gem
--   Blessed Gem
--   Bloodless Gem
--   Blue Gem
--   Insignia Gem
--   Wayward Gem
--   Wind Gem
+-   [Aegis Gem](Aegis_Gem.md)
+-   [Blessed Gem](Blessed_Gem.md)
+-   [Bloodless Gem](Bloodless_Gem.md)
+-   [Blue Gem](Blue_Gem.md)
+-   [Insignia Gem](Insignia_Gem.md)
+-   [Wayward Gem](Wayward_Gem.md)
+-   [Wind Gem](Wind_Gem.md)
 
 ### Treasures
 

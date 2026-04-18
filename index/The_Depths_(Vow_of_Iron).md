@@ -1,6 +1,6 @@
 ---
 title: The Depths (Vow of Iron)
-revid: 190481
+revid: 205168
 source: https://deepwoken.fandom.com/wiki/The_Depths_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Locations, Locations in the First Layer]
@@ -20,8 +20,6 @@ Many of these differences make exploration and navigation almost if not outright
 
 ## Differences from Pathfinder
 
-These are the differences from Pathfinder that have been found thus far.
-
 -   You spawn in the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md) and the gates to it are always open.
 -   Much harder and frequent enemy spawns.
 -   No [Deep Shrines](Deep_Shrines.md) or [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
@@ -34,27 +32,33 @@ These are the differences from Pathfinder that have been found thus far.
 -   [Watchers](Watcher.md) constantly damage you while in line of sight instead of spawning a [Hollow Angel](Hollow_Angel.md), but have a brief mercy/warning period before doing so.
 -   [Deep Gems](Deep_Gems.md) have static spawn locations.
 
-<table><caption>Vow of Iron Depths Trial</caption>
+## Depths Trial
+
+Completing the trial sends you back to the overworld, much like Pathfinder's [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation).
+
+-   At 45 drowns, your trial has a chance to be corrupted.
+
+<table><caption><b>Vow of Iron Depths Trial</b></caption>
 <tbody>
 <tr>
   <th>Power</th>
   <th>Enemies</th>
 </tr>
 <tr>
+  <td>Any power after defeating <a href="Dravik,_The_Rat_King.md">Dravik, The Rat King</a><abbr></abbr></td>
+  <td><a href="True_Heart_of_Enmity.md">True Heart of Enmity</a><abbr></abbr> <i>(Only once, subsequent trials will be normal.)</i></td>
+</tr>
+<tr>
   <td>1-5</td>
-  <td><a href="Bone_Keeper.md">Bone Keeper</a> or <a href="Nautilodaunt_Officiate.md">Nautilodaunt Officiate</a></td>
+  <td><a href="Bone_Keeper.md">Bone Keeper</a> or <a href="Nautilodaunt_Officiate.md">Nautilodaunt Officiate</a><abbr></abbr></td>
 </tr>
 <tr>
   <td>6-10</td>
-  <td><a href="Prime_Megalodaunt.md">Prime Megalodaunt</a>, <a href="Parliament.md">Parliament</a>, or previous...</td>
-</tr>
-<tr>
-  <td>After defeating <a href="Dravik,_The_Rat_King.md">Dravik, The Rat King</a></td>
-  <td><a href="True_Heart_of_Enmity.md">True Heart of Enmity</a></td>
+  <td><a href="Prime_Megalodaunt.md">Prime Megalodaunt</a>, <a href="Parliament.md">Parliament</a>, <a href="Bone_Keeper.md">Bone Keeper</a>, or <a href="Nautilodaunt_Officiate.md">Nautilodaunt Officiate</a><abbr></abbr></td>
 </tr>
 <tr>
   <td>11-20</td>
-  <td>Two of the previous enemies</td>
+  <td>2 waves of a <a href="Prime_Megalodaunt.md">Prime Megalodaunt</a>, <a href="Parliament.md">Parliament</a>, <a href="Bone_Keeper.md">Bone Keeper</a>, or <a href="Nautilodaunt_Officiate.md">Nautilodaunt Officiate</a><abbr></abbr></td>
 </tr>
 </tbody>
 </table>
@@ -168,4 +172,3 @@ The Afflictions countdown does not reset when you escape the Depths. Some Afflic
 
 -   At 0% Sanity, the countdown before an Affliction is gained is as little as 3 seconds.
 -   Past 15, the counter for Afflictions changes from Roman Numerals to Arabic Numerals.
--   Obtaining 45 drowns will give your trial a chance to be corrupted.

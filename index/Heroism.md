@@ -1,6 +1,6 @@
 ---
 title: Heroism
-revid: 203532
+revid: 205172
 source: https://deepwoken.fandom.com/wiki/Heroism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -10,7 +10,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 | Heroism | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | When above 75% HP, gain 4% damage for every 5% HP above 75%. When below 25% HP, gain 4% damage for every 5% HP below 25% HP. You can reflect negative status effects with light attacks or criticals to your opponent. |

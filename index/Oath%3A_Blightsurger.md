@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 205131
+revid: 205181
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -92,10 +92,11 @@ You _**cannot**_ oath skip Blightsurger. Attempting to do will have Brutus beat 
 
 -   **Sovereign Bangle** - An ancient bangle bestowed upon the disciples of Theros, its bearer once honored among the Legion. Sovereign State does not automatically activate at 100% Blight Meter anymore.
     -   This Fist Oath weapon is automatically granted upon entering Sovereign State and will automatically be dispelled upon exiting Sovereign State.
-    -   The Sovereign Bangle has the following stats: 30 base damage, 5% PEN, 6 range, 8 weight, 0.98x Swingspeed, and a unique critical.
-    -   The critical is a leaping slam attack, applying Blightshock and knockdown. This attack deals 35 Blunt damage with 3 Strength scaling.
+    -   The Sovereign Bangle has the following stats: 30 base damage, 5% PEN, 6 range, 8 weight, 0.98x Swingspeed.
     -   The Sovereign Bangle retains your original weapon's enchantment and weapon quality value (stars).
     -   While Sovereign Bangle does not innately have any scaling, you can grant it scaling through the use of [Scaling Rings](<Dawnfist's_Ring.md>).
+    -   Outside of Sovereign State, the Sovereign Bangle uses the critical of your equipped fist style like an average Cestus would.
+        -   This can only be seen through the [Theros Disciple](Theros_Disciple.md) [Memento](Mementos.md), which gives you the weapon on character creation, allowing it to use the [Imperium Kata](Imperium_Kata.md) critical.
     -   Sovereign Bangle can be enhanced with Blightsurger Talents.
         -   Blightlash grants Sovereign Bangle 1 additional range, going from 6 to 7.
         -   Blighted Touch allows Sovereign Bangle to apply Blightshock (70% of its damage as Wither).
@@ -113,9 +114,13 @@ You _**cannot**_ oath skip Blightsurger. Attempting to do will have Brutus beat 
         -   This keybind can be changed in settings.
     -   Skycrash activates a second time when landed while in this state.
     -   Increases the Wither damage that Sovereign Drive and Warp Kick deal.
-    -   If you do not have the talent "Blighted Touch" your weapon will not be replaced, but you will still get the critical attack of Sovereign Bangle.
-    -   The Blight Meter is similar to [Jetstriker's](Oath%253A_Jetstriker.md) Momentum gauge.
-        -   The Blight Meter can be [dyed](Dye_Packet.md), however this has no visual effect aside from coloring the bar.
+    -   When in Sovereign State, your critical is replaced by a leaping slam attack.
+    -   If you do not have the talent "Blighted Touch" your weapon will not be replaced, but you will still gain the unique leaping slam attack.
+        -   This leaping attack applies Blightshock and knockdown, dealing 35 Blunt damage with 3 Strength scaling.
+        -   Any weapon summoned while in Sovereign State ([Crazy Slots](Crazy_Slots.md), [Metal Greatsword](Metal_Greatsword.md), etc.) will have its critical replaced by this ability.
+            -   As a consequence, you cannot use any critical-procced talents with this ability, as it is not a true critical and rather a separate ability.
+
+-   -   -   The Blight Meter can be [dyed](Dye_Packet.md), however this has no visual effect aside from coloring the bar.
 
 -   **Anchor Shock** - Your Blightshock prevents targets from using mobility mantras.
     -   This puts your opponent's mobility slot Mantras on a 3 second cooldown whenever Blightshock is applied from a Blightsurger Mantra.
