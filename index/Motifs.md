@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 200771
+revid: 205325
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -34,7 +34,7 @@ There are a few specific weapons that can equip Motifs despite them not being Mo
 
 -   Light Weapons: [Needle's Eye](<Needle's_Eye.md>) / [Tanto](Tanto.md) / [Alloyed Tanto](Tanto.md)
 -   Medium Weapons: [Gremorian Longspear](Gremorian_Longspear.md) / [Alloyed Longspear](Gremorian_Longspear.md) / [Hunting Bow](Hunting_Bow.md) / [Shadebolt](Shadebolt.md) / True Seraph's Spear
--   Heavy Weapons: [Edenbrand Hellcoil](Edenbrand_Hellcoil.md)
+-   Heavy Weapons: [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) / [First Light](First_Light.md)
 
 ### 
 
@@ -84,6 +84,7 @@ For example, if you had Shotel Motif on Razor Cutlass, your critical would have 
 
 -   Motifs themselves cannot be banked nor dropped.
     -   However, weapons with a Motif equipped can be banked, dropped, and [passed down](Hippocampal_Pool.md) without the equipped Motif being removed/voided.
+-   Equipping a Motif onto the following weapons **disables** their [Weapon Talents](Talents.md#weapon-talents); [Ritual Spear](Ritual_Spear.md), [True Seraph Spear](True_Seraph_Spear.md), and [Withered Gale Pale](Withered_Gale_Pale.md).
 -   Motifs can be applied to the '22 [Hallowtide](Hallowtide.md) weapons (excluding [Skyreap Blade](Skyreap_Blade.md)).
 -   If a weapon has a Motif equipped, but then loses their Motif slot or compatibility with its equipped Motif after an update, your Motif will stay equipped and you'll still be able to use it. This allows you to have certain weapons with normally unobtainable criticals.
 -   You can swap Motifs during combat to change up your critical for mixups.

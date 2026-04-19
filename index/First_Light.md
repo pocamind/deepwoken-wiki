@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 203160
+revid: 205323
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -23,7 +23,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Greatsword
 | endlag | 0.1s |
 | penetration | 15% |
 | special effect | On critical, summon a storm of fiery blades that hail down onto the field. |
-| m.equip | No |
+| m.equip | Yes |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Mythical |

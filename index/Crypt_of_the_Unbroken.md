@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 205028
+revid: 205345
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant, Voidzones]
@@ -96,6 +96,7 @@ A map can be found at [Maps#Surface](Maps.md#surface)
         2.  Sprint to the entrance
         3.  Swap between the two heavy weapons, but don't equip
         4.  While you sprint and swap weapons, just wait and you should've glitched through the wall
+    -   As of April 19th, the crypt entrance is open in all of Vow of Iron servers.
 -   Tip: With the assassin Talent (30 Agility or the [Assassin's Hood](<Assassin's_Hood.md>)), you can one shot the Guardians with an assassination, which makes the grind way easier.
     -   If they aggro on you go outside the dungeon and wait for them to de-aggro.
     -   Tacet and/or the Mute Regalia are extremely useful for assassination.
