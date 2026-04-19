@@ -1,6 +1,6 @@
 ---
 title: Spider Egg
-revid: 176821
+revid: 205215
 source: https://deepwoken.fandom.com/wiki/Spider_Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Alchemy]
@@ -28,5 +28,5 @@ Known Spider Egg Spawns:
 \- 1 At [Erisor's Church](<Erisor's_Church.md>), next to the guild banner.  
 \- 1 At [Isle of Vigils](Isle_of_Vigils.md), inside a hollow log near the Banker/Antiquarian.  
 \- 1 At [Miner's Landing](<Miner's_Landing.md>), inside the log that leads to [Cerulean](Cerulean.md).  
-\- 4 At [Greathive Aratel](Greathive_Aratel.md), 2 in the same room with the Attribute equipment, another in the same room as the mantra modification table and [Hiri](Hiri.md), and the last at the Attunement-less trainer.  
+\- 5 At [Greathive Aratel](Greathive_Aratel.md), 2 in the same room with the Attribute equipment, another in the same room as the mantra modification table and [Hiri](Hiri.md), one in the secret lab room by [Laplace](Laplace.md), and the last at the Attunement-less trainer.  
 \- 7 at [Widow's Hollow](<Widow's_Hollow.md>) (Can be gathered without alerting Widow in some cases)

@@ -1,6 +1,6 @@
 ---
 title: Verdant Sniper
-revid: 194680
+revid: 205218
 source: https://deepwoken.fandom.com/wiki/Verdant_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits]
@@ -42,7 +42,8 @@ This Outfit has 1500 durability and grants +25% Physical resistance, +20% Elemen
 
 ## Trivia
 
--   This armor has a 3D collar, a trait shared only with the [Prophet's Cloak](<Prophet's_Cloak.md>)
+-   This armor has a 3D collar, a trait shared only with the [Prophet's Cloak](<Prophet's_Cloak.md>).
+    
 -   This armor and it's description is a direct reference to [Shinon](https://fireemblemwiki.org/wiki/Shinon) from Fire Emblem: Path of Radiance, with the original being near identical to his outfit.
 -   **Current** verdant sniper is an outfit made by **KAHAEL**.
 -   Frank F'alzone in the [tutorial](Tutorial.md) uses this outfit.

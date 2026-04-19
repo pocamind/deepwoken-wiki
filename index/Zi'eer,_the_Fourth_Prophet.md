@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 205199
+revid: 205225
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters, Enemies, Humanoids with Unobtainable Outfits]
@@ -197,6 +197,28 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
 -   **Contractor Wall** - In Zi'eer's first phase, he summons endless waves of strings to block the Inheritor. Slicing through these walls is the only possible way to reach him.
 -   **Prepared Equalizer** - Zi'eer's string will latch on to and slice the Inheritor's limbs rapidly, freezing the Inheritor in an Equalizer state and dealing very high damage if they fail to react to certain moves. Venting can end this state early.
 -   **Prophet's Shield** - During Zi'eer's second phase, he cannot be damaged. Only his shield, which acts like [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)'s gale shield, can. Zi'eer's shield is disabled when using the **The Master Of The House** attack, allowing for the fight to end.
+
+## Battle Dialogues
+
+###### Note: Not all lines are present, and may have the incorrect conditions.
+
+| Condition | Dialogue |
+| --- | --- |
+| Battle initiation | What makes you think you have the right to stand before me? |
+| While using 'Brushstrokes of Black' from side to side | Don't think you can outrun me, vermin. |
+| When Ironsworn is midway from the throne | Can't you see your efforts are meaningless, Ironsworn? Give up and die already! |
+| When Ironsworn is close to the throne | You would throw away your pointless life ALL in order to anger me. So be it then—I will scatter your remains on the ground where you stand..! |
+| When Ironsworn is a few paces from the throne | ...Impossible...! A PUNY pest like giving me this much trouble? |
+| After breaking the throne and initiating his second phase | How can anyone be this foolish? You wish for me to take you seriously? ..Fine. But your fate remains the same. |
+| While using a move in his second phase | 
+-   You will die.
+-   Why won't YOU perish, you stupid WORM? Why do you PERSIST..? You think you have a final chance JUST because you make me RISE to my FEET?
+
+ |
+| While using 'Flash Equalizer' | Pathetic! |
+| While using 'Blinking Divebomb' | Try... and keep up. |
+| While using 'Lightspeed Strike' | I wonder if YOU can react to this! |
+| While using 'Masters of the House' | We are not finished... I am the Gods' judge, jury, and executioner of YOUR fate! WITNESS MY FINAL ACT OF JUDGEMENT!!! |
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Cloak"
-revid: 204263
+revid: 205219
 source: https://deepwoken.fandom.com/wiki/Prophet's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, The Ministry]
@@ -46,7 +46,8 @@ The [Crippling Darkness](Talents.md#crippling-darkness) Talent gives the user 20
 
 ## Trivia
 
+-   It includes a full cosmetic 3D model of a collar when equipped. It and the [Verdant Sniper](Verdant_Sniper.md) are the only Outfits with 3D touches on them.
+    
 -   Worn by most [Ministry](The_Ministry.md) [NPCs](Ministry_Scout.md).
 -   Shares the same crafting requirements with [Celtorian Tideknight](Celtorian_Tideknight.md).
--   It includes a full cosmetic 3D model of a collar when equipped. It and the [Verdant Sniper](Verdant_Sniper.md) are the only Outfits with 3D touches on them.
 -   Getting gripped by a [Gran Sudaruska](Gran_Sudaruska.md) user while wearing this will cause the Gran Sudaruska to talk and insult you.
