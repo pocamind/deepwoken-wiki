@@ -1,6 +1,6 @@
 ---
 title: Rimebreakers
-revid: 203179
+revid: 205247
 source: https://deepwoken.fandom.com/wiki/Rimebreakers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Pathfinder Exclusive, Weapons, Criticals with M1 tag, Fists, "Weapons with Multi-Attunement Scaling", Weapons with Talents, Weapons with Unique Criticals]
@@ -31,7 +31,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Pathfinder Exclusiv
 | enchantable | No |
 | pass down | No |
 | obtainment | Kyrsgarde Champion |
-| description | Perfect for a Knuckle Sandwich, served cold. |
+| description | Immersed within the Ethironal storm and infused with Kyrsan frost, these knucklebone fistwraps are a poignant reflection of the current state of the Kyrsgarde. Once a proud and mighty people, the Kyrsans now find themselves buffeted, suffocating beneath an oppressive force-with little hope for salvation. Perhaps a similar fate awaits your foes, should they face these implements of combat. |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -57,4 +57,5 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talent](Talents.
 
 ## Trivia
 
-The weapon [talent](Talents.md), **Fortify**, is shared with the [Frost Gauntlets](Frost_Gauntlets.md) from the [Vow of Iron](Vow_of_Iron.md) gamemode.
+-   The weapon [talent](Talents.md), **Fortify**, is shared with the [Frost Gauntlets](Frost_Gauntlets.md) from the [Vow of Iron](Vow_of_Iron.md) gamemode.
+-   It's previous description read: "Perfect for a Knuckle Sandwich, served cold."

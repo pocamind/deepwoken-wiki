@@ -1,6 +1,6 @@
 ---
 title: Lavasucker
-revid: 195805
+revid: 205227
 source: https://deepwoken.fandom.com/wiki/Lavasucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Monsters]
@@ -10,7 +10,7 @@ categories: [Vow of Iron Exclusive, Monsters]
 
 | Lavasucker | |
 |---|---|
-| health | ~600 |
+| health | 600 |
 | attacks | Bite |
 | locations | Saramaed Summit (Vow of Iron) |
 

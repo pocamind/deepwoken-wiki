@@ -1,6 +1,6 @@
 ---
 title: Frostthorn
-revid: 203161
+revid: 205246
 source: https://deepwoken.fandom.com/wiki/Frostthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Pathfinder Exclusive, Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Light Weapons, Weapons with Unique Animations, Daggers, "Dual-wielded Weapons"]
@@ -32,7 +32,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Pathfinder Exclusiv
 | enchantable | No |
 | pass down | No |
 | obtainment | Kyrsgarde Champion |
-| description | ... |
+| description | The elaborate spring-powered mechanism contained within this weapon allows its layered blades to fan out in multitude. The metal emanates a constant chill, ringing like crystals upon contact with any surface. Doubtless, an unusual weapon for any Kyrsan to wield, given where you found it. Perhaps it is a trophy of war, retooled anew for its purpose?... |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

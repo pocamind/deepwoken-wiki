@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 195248
+revid: 205296
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Books]
@@ -33,6 +33,7 @@ Some books are part of specific quests or are physically in the world, and thus 
 -   Legion Intelligence: Talking to [Caitus](Caitus.md).
 -   Ministry Field Report: [Outpost Antumbra](Outpost_Antumbra.md).
 -   Jericho's Journal: [Fort Merit](Fort_Merit.md), behind [Warden Jericho](Warden_Jericho.md).
+-   Words of Light: Defeating the [Kyrsgarde Champion, Kyrsa's Star](<Kyrsgarde_Champion,_Kyrsa's_Star.md>).
 
 Some books are playable as songs on [Instruments](Instruments.md). Such books include:
 
@@ -81,6 +82,7 @@ Currently there are 30 books and book collections:
     -   Studies on Canticlysm, Vol. IV
 -   [Tale of the Storm](Tale_of_the_Storm.md)
 -   [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md)
+-   [Words of Light](Words_of_Light.md): A Kyrsan Manifesto. 559 words, 2m reading time.
 
 ### Removed books
 

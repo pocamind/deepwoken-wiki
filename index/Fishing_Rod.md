@@ -1,6 +1,6 @@
 ---
 title: Fishing Rod
-revid: 180619
+revid: 205256
 source: https://deepwoken.fandom.com/wiki/Fishing_Rod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Tools, Craftable]
@@ -61,7 +61,7 @@ The Fishing Rod in the Etrean Sea is located on a seperate island near [Lower Er
 The Fishing Rod in a [Guild Base](Guild_Bases.md) is located in the fishing room on a shelf.
 
 -   Costs 35.
--   The Guild Base can be accessed from both the Etrean and Eastern [Luminants](Luminants.md) by using a [Chime of Dwelling](Chime_of_Dwelling.md) or [Dwelling Charm](Dwelling_Charm.md).
+-   The Guild Base can be accessed from both the Etrean and Eastern [Luminants](Luminants.md) by using a [Chime of Dwelling](Chime_of_Dwelling.md).
 
 **Eastern Luminant:**
 

@@ -1,6 +1,6 @@
 ---
 title: Lumensplitter
-revid: 204989
+revid: 205243
 source: https://deepwoken.fandom.com/wiki/Lumensplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Greatswords, Heavy Weapons, "Weapons with Multi-Hit Criticals"]
@@ -31,7 +31,7 @@ categories: [Weapons, Weapons with Unique Criticals, Greatswords, Heavy Weapons,
 | enchantable | No |
 | pass down | Yes |
 | obtainment | The Doom of Caeranthil |
-| description | ... |
+| description | A vile, jagged blade fashioned in mimicry of the jaws that claimed the isle of Caeranthil, Celtor's resplendent gate. Much like the frenzy that follows when a body hits the water, the South's submergence was a cascade of calamities one after another. |
 
 ## Description
 

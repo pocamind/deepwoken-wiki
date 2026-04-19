@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 205090
+revid: 205293
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3223,19 +3223,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         -   This shares a visual effect with the [Arcwarder](Oath%253A_Arcwarder.md) "Arc Suit" mantra.
     -   Prerequisites: 50 Fortitude, Knight's Rally
 
-### Shipwright
-
--   _Emergency Repairs_ \[Quest Talent\] - Your repairs are twice as efficient when the ship is on low health. Your repairs scale somewhat with the Max Health of the ship.
-    -   Repairing restores 25% more HP to the boat when it's below 25% HP.
-    -   Your repairs scale with the health of the ship by \[needs testing\].
-    -   Prerequisite: Automatically gained after using the [Repair Hammer](Repair_Hammer.md) 11 times.
-    -   The [Brigand's Bicorn](<Brigand's_Bicorn.md>) equipment has this Talent.
-
--   _Spare Nails_ \[Quest Talent\] - You always keep a couple spare. Your repairs are more efficient and you no longer drop Wood on death.
-    -   Repairing restores 400 HP instead of 250 HP.
-    -   Prerequisite: Automatically gained after using the [Repair Hammer](Repair_Hammer.md) 51 times.
-    -   The [Brigand's Bicorn](<Brigand's_Bicorn.md>) equipment has this Talent.
-
 ### Shock Therapy
 
 -   Grounding Bolt \[Common Talent, Thundercall, Weapon\] - Anytime you summon a lightning strike on your opponent, apply knockdown if it lands.
@@ -4596,7 +4583,6 @@ Certain Talents are given when a specific equipment or outfit is worn. Multiple 
 -   Laminated Armor: [Ossified Black Pauldrons](Ossified_Black_Pauldrons.md) & [Blackalloy Pauldrons](Blackalloy_Pauldrons.md) - Reduces all incoming damage by 2/3 (applied after damage multipliers).
     
     -   Reduces damage taken by a flat 2 (3 in Vow of Iron), **not** 66%.
-    -   Though not mentioned in the Talent description, this also reduces damage dealt by the same amount.
     -   This is applied after all other calculations, allowing you to reduce an attack's damage _to_ 0, however it cannot reduce an attack's damage _below_ 0.
 
 -   Legendary: [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md) - Parrying and landing hits with your weapon gives you ether back.

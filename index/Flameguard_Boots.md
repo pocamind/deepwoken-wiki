@@ -1,6 +1,6 @@
 ---
 title: Flameguard Boots
-revid: 185073
+revid: 205318
 source: https://deepwoken.fandom.com/wiki/Flameguard_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -29,7 +29,3 @@ categories: [Equipment, Legs, Boots]
 ## Description
 
 Flameguard Boots are an [Equipment](Equipment.md) item under the "Legs" category.
-
-## Trivia
-
--   Looks similar to [Imperial Boots](Imperial_Boots.md) despite lack of known relation.

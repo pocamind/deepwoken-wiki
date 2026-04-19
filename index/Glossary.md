@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 202380
+revid: 205282
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -41,7 +41,7 @@ Dialogue: [Akira](Akira.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.m
 -   Many within [Lumen](#lumen) view the Celestials as Gods, with many major religions within [Lumen](#lumen) worshipping them.
 -   Of these religions, the [Starkindred](#the-starkindred-faith) Faith is one of the most populous, holding considerable influence over the [Western Luminant](#the-western-luminant) and beyond.
 
-Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Celestial](Celestial.md), [Celestial Telescope](Greathive_Aratel.md#observatory-2), [Kaide](Kaide,_the_Drowned_Light.md), [Samael](Samael.md) | Books: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [Lightborn](#lightborn), [The Heavens](#the-heavens), [The Moonseye](#the-moonseye), [The Nightsea](#the-nightsea), [The Starkindred Faith](#the-starkindred-faith), [The Suncross](#the-suncross), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
+Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Celestial](Celestial.md), [Celestial Telescope](Greathive_Aratel.md#observatory-2), [Kaide](Kaide,_the_Drowned_Light.md), [Samael](Samael.md) | Books: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [Lightborn](#lightborn), [Raeva](#raeva), [The Heavens](#the-heavens), [The Moonseye](#the-moonseye), [The Nightsea](#the-nightsea), [The Starkindred Faith](#the-starkindred-faith), [The Suncross](#the-suncross), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
 
 -   Celestials modify their own bodies using the [Song](#the-song).
 
@@ -80,7 +80,7 @@ Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Chaser](Chaser,_Scholar_of_t
 -   A [Drowned God](#the-drowned-gods) said to preside over Wind.
 -   Their gales are said to drag even Time itself into their wake.
 
-Dialogue: [Aeroaseluniris Oricalum Forentus](Aeroaseluniris_Oricalum_Forentus.md), [Aesalath Kalafrid](Aezeroth_Kaladin.md), [Alpha](Alpha.md), [C'lantaa](<C'lantaa.md>), [Carrion](Carrion,_Father_of_Evolution.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [F'leche](<F'leche.md>), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Naerotiv](Naerotiv.md) | Books: | Glossary Entries: [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer)
+Dialogue: [Aeroaseluniris Oricalum Forentus](Aeroaseluniris_Oricalum_Forentus.md), [Aesalath Kalafrid](Aezeroth_Kaladin.md), [Alpha](Alpha.md), [C'lantaa](<C'lantaa.md>), [Carrion](Carrion,_Father_of_Evolution.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [F'leche](<F'leche.md>), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Naerotiv](Naerotiv.md) | Books: | Glossary Entries: [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [Raeva](#raeva), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer)
 
 -   Thought to preside over the [Second Layer](#the-eternal-gale-the-second-layer), granting it the moniker of 'The Eternal Gale'.
 
@@ -117,7 +117,7 @@ Dialogue: [The Gaunt Man](The_Gaunt_Man.md)
 
 -   The strange inhabitants of the [Eternal Gale](#the-eternal-gale-the-second-layer). In contrast to the ferocious beasts that stalk its wastes, the [Kyrsans](#kyrsan--kyrsgarde) dwell in small villages sheltered from the gale.
 
-Dialogue: [??? (Scion Caller)](<%253F%253F%253F_(Scion_Caller).md>), [Amenre Skiggle Bop](Amenre_Skiggle_Bop.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [C'lantaa](<C'lantaa.md>), [Kaide](Kaide,_the_Drowned_Light.md), [Mendacia](Mendacia.md), [Misérables](Misérables.md), [Naerotiv](Naerotiv.md), [Okumay](Okumay.md) | Books: [Diver Journal, I](#diver-journal-i) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde)
+Dialogue: [??? (Scion Caller)](<%253F%253F%253F_(Scion_Caller).md>), [Amenre Skiggle Bop](Amenre_Skiggle_Bop.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [C'lantaa](<C'lantaa.md>), [Kaide](Kaide,_the_Drowned_Light.md), [Mendacia](Mendacia.md), [Misérables](Misérables.md), [Naerotiv](Naerotiv.md), [Okumay](Okumay.md) | Books: [Diver Journal, I](#diver-journal-i) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [Raeva](#raeva)
 
 -   According to [Kaide](#kaide-the-drowned-light), the ruins within the [Second Layer](#the-eternal-gale-the-second-layer) are neither of [Celestial](#the-celestials) or Human make, having been constructed by the [Kyrsans](#kyrsan--kyrsgarde).
 -   [Kaide](#kaide-the-drowned-light) suggested that the [Second Layer](#the-eternal-gale-the-second-layer) may once have been the [Kyrsan](#kyrsan--kyrsgarde) world before it was consumed by the [Depths](#the-depths).
@@ -148,6 +148,17 @@ Dialogue: | Books: | Glossary Entries: [The Moonseye](#the-moonseye)
 -   The [Moonseye](#the-moonseye) may well be the collective souls of the Old Dead.
 
 Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) if the player is a [Dawnwalker](Oath%253A_Dawnwalker.md) and has spoken to [Kaide](Kaide,_the_Drowned_Light.md) with a [Soulthorn](Soulthorn.md) equipped
+
+### Raeva
+
+-   One of the main [Celestials](#the-celestials) said to have presided over the city of [Constellia](#constellia-the-guiding-star) prior to the reign of [Kaide](#kaide-the-drowned-light).
+-   The name 'Raeva' appears to have also been used by a certain 'Raeva Ferash Kenestos' - a [Kyrsan](#kyrsan--kyrsgarde) who presumably broke free of [Ethiron's](#ethiron-the-maelstroms-eye) thrall through unknown means.
+
+Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) after reading [Words of Light](Words_of_Light.md)
+
+-   According to [Kaide](#kaide-the-drowned-light), it was thought that Raeva had abandoned the city before the invasion of the [Kyrsgarde](#kyrsan--kyrsgarde), like the other [Celestials](#the-celestials) - but it is possible this may not have been the case.
+
+Dialogue: [Kaide](Kaide,_the_Drowned_Light.md)
 
 ### Yun'Shul, Keeper of Hearts
 
@@ -234,7 +245,7 @@ Dialogue: | Books: [Capran Aphorisms](Capran_Aphorisms.md) | Glossary Entries:
 
 -   The last [Lightborn](#lightborn) king of [Constellia](#constellia-the-guiding-star) before its fall.
 
-Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Lightborn](#lightborn), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer), [The Celestials](#the-celestials)
+Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Lightborn](#lightborn), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [Raeva](#raeva), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer), [The Celestials](#the-celestials)
 
 -   As his city was razed, Kaide was captured and taken to [New Kyrsa](#the-city-of-new-kyrsa)
 -   Kaide now waits out the end of eternity.
@@ -567,7 +578,7 @@ Dialogue: [Celtorian Guard](Celtorian_Guard.md)
 
 -   One of the largest [Celestial](#the-celestials) cities in the [Heavens](#the-heavens).
 
-Dialogue: [Kaide](Kaide,_the_Drowned_Light.md), [Mikhail Spellhardt](Mikhail_Spellhardt.md) | Books: [A Light In The Sky](A_Light_In_The_Sky.md) | Glossary Entries: [Kaide, the Drowned Light](#kaide-the-drowned-light), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde)
+Dialogue: [Kaide](Kaide,_the_Drowned_Light.md), [Mikhail Spellhardt](Mikhail_Spellhardt.md) | Books: [A Light In The Sky](A_Light_In_The_Sky.md) | Glossary Entries: [Kaide, the Drowned Light](#kaide-the-drowned-light), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [Raeva](#raeva)
 
 -   Constellia was reduced to rubble 77 years after it was abandoned by its [Celestial](#the-celestials) rulers.
 

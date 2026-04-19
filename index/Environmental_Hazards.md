@@ -1,6 +1,6 @@
 ---
 title: Environmental Hazards
-revid: 201773
+revid: 205289
 source: https://deepwoken.fandom.com/wiki/Environmental_Hazards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -24,7 +24,7 @@ categories: [Mechanics]
 <tr>
   <td>Rain</td>
   <td>Everywhere (Excluding Starswept Valley, <a href="The_Depths.md">Depths</a>), summoned via <a href="Rain_Spire.md">Rain Spire</a> and <a href="Rain_(enchantment).md">Rain</a> enchantment.</td>
-  <td>Procs certain Talents, all uncovered lit campfires are snuffed out after a few seconds (not including Flamecharm's <a href="Flamecharm.md#graceful-flame">Graceful Flame</a>). <a href="Flamecharm.md">Flamecharm</a> receives a 10% damage debuff unless the <a href="Talents.md#unyielding-inferno">Unyielding Inferno</a> Talent is used. All <a href="Thundercall.md">Thundercall</a> damage gains a 5% damage buff, which can be increased further with <a href="Talents.md#stratoshock">Stratoshock</a>.</td>
+  <td>Procs certain Talents, all uncovered lit campfires are snuffed out after a few seconds (not including Flamecharm's <a href="Flamecharm.md#graceful-flame">Graceful Flame</a>). <a href="Flamecharm.md">Flamecharm</a> receives a 10% damage debuff unless the <a href="Talents.md#unyielding-inferno">Unyielding Inferno</a> Talent is used. All <a href="Thundercall.md">Thundercall</a> damage gains a 5% damage buff, which can be increased further with <a href="Talents.md#stratoshock">Stratoshock</a>. Rainclouds will appear as dark smudges on the Map.</td>
 </tr>
 <tr>
   <td>Hail</td>

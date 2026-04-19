@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 204757
+revid: 205250
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics]
@@ -53,12 +53,12 @@ Within a guild, the player can choose to recruit members. It is also used to pro
 
 The guild ranks are listed below:
 
-| **Rank** | **Chime of Dwelling?** | **Invite/Kick?** | **Promote?** | **Modify Guild Base?** |
-| --- | --- | --- | --- | --- |
-| **Guild Leader ♕** | Yes | Yes (+ remote kicking) | Yes | Yes |
-| **Guild Lieutenant ︽** | Yes | Yes (only kick members) | Yes (up to Officer) | No |
-| **Guild Officer ⛨** | Yes | Yes (only kick members) | No | No |
-| **Guild Member** | No (must use [Dwelling Charm](Dwelling_Charm.md)) | No | No | No |
+| **Rank** | **Invite/Kick?** | **Promote?** | **Modify Guild Base?** |
+| --- | --- | --- | --- |
+| **Guild Leader ♕** | Yes (+ remote kicking) | Yes | Yes |
+| **Guild Lieutenant ︽** | Yes (only kick members) | Yes (up to Officer) | No |
+| **Guild Officer ⛨** | Yes (only kick members) | No | No |
+| **Guild Member** | No | No | No |
 
 Members of a guild including its leader will stay in their guild after death and/or wiping. Currently the only way to leave a guild is by speaking to the [Guild Clerk](Guild_Clerk.md) or being exiled by an officer. You can have as many members in a guild as you want.
 
@@ -133,5 +133,5 @@ In addition to being inside a Faction guild, they cannot obtain any guild score.
 
 -   Guilds can be seen like [Houses](https://rogue-lineage.fandom.com/wiki/Houses) from _Rogue Lineage_, another game by _Monad Studios_.
 -   If a Guild Leader leaves the guild, an Officer or higher can take their place as the Guild Leader. If there are no Officers or higher ranks in the Guild, anyone in the Guild can take ownership. You **must** go to the [Guild Clerk](Guild_Clerk.md) to claim leadership once the guild leader has left; it's not given to anyone randomly.
--   Guild bases can be summoned by using [Chime of Dwelling](Chime_of_Dwelling.md) or [Dwelling Charm](Dwelling_Charm.md) near a wall. However not all surfaces can be used to create a door, the criteria requires that the space must be big enough. Additionally, the guild base cannot be placed in Voidzones, in [The Depths](The_Depths.md), territory of factions that you are considered enemies with, if enemies are nearby, if the wall isn't made from the right material, and if placed on uneven surfaces.
+-   Guild bases can be summoned by using [Chime of Dwelling](Chime_of_Dwelling.md) near a wall. However not all surfaces can be used to create a door, the criteria requires that the space must be big enough. Additionally, the guild base cannot be placed in Voidzones, in [The Depths](The_Depths.md), territory of factions that you are considered enemies with, if enemies are nearby, if the wall isn't made from the right material, and if placed on uneven surfaces.
 -   If a guild fails to properly load on your client side it will display as "The Authority."

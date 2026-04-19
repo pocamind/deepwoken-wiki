@@ -1,11 +1,11 @@
 ---
 title: Bluster Rift
-revid: 196143
+revid: 205230
 source: https://deepwoken.fandom.com/wiki/Bluster_Rift
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Stub pages without reason, StubPages, Locations, Locations in the Eastern Luminant]
+categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Locations, Locations in the Eastern Luminant]
 notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Bluster Rift
@@ -28,9 +28,11 @@ The Bluster Rift is a location in _Deepwoken_. It can be found on [Aratel Island
 
 Events that spawn in Bluster Rift that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
--   [Etrean Soldier](Etrean_Soldier.md) vs [Hive Guards](Hive_Guard.md)
--   [Legion Captain](Legion_Captain.md) vs [Authority Lieutenant](Authority_Lieutenant.md)
--   [Hive Construct](Hive_Construct.md) vs [Authority Captain](Authority_Captain.md)
+-   [Etrean Soldiers](Etrean_Soldier.md) [Etreaiconfaction](Etrea.md) vs [Hive Guards](Hive_Guard.md)[Hiveiconfaction](The_Hive.md)
+-   [Legion Captain](Legion_Captain.md) vs [Authority Lieutenant](Authority_Lieutenant.md) [Authorityiconfaction](The_Central_Authority.md)
+-   [Hive Construct](Hive_Construct.md) [Hiveiconfaction](The_Hive.md) vs [Authority Captain](Authority_Captain.md) [Authorityiconfaction](The_Central_Authority.md)
+
+  
 
 ## Events
 
@@ -40,85 +42,44 @@ Events that spawn in Bluster Rift that do not involve combat. For more info, see
 
 ## Loot Table
 
-Below is a list of potential items that can spawn in Bluster Rift.
-
-### Outfits
-
--   [Legion Centurion](Legion_Centurion.md)
--   [Prophet's Cloak](<Prophet's_Cloak.md>)
-
-### Equipment
-
-#### Head
-
--   [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)
--   [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>)
--   [Authority Helm](Authority_Helm.md)
--   [Blackleaf Helm](Blackleaf_Helm.md)
--   [Gladiator Helm](Gladiator_Helm.md)
--   [Silver Knight's Helm](<Silver_Knight's_Helm.md>)
--   [Khan Helmet](Legion_Helmet.md)
--   Pale Assassin's Hood
--   [Vigil Hood](Vigil_Hood.md)
-
-#### Face
-
--   [Warrior's Eyepatch](<Warrior's_Eyepatch.md>)
--   [Headband (Series)](Headband.md)
-
-#### Ears
-
--   [Ruby Drop Earrings](Ruby_Drop_Earrings.md)
--   [Crystal Pendant Earrings](Crystal_Pendant_Earrings.md)
--   [Practicioner's Earrings](<Practicioner's_Earrings.md>)
-
-#### Back
-
--   Scarf (Series)
-
-#### Arms
-
--   Pale Assassin's Cloak (Uncommon)
--   [Star Duster](Star_Duster.md) (Rare)
--   Parka (Series)
--   [Royal Pathfinder](Royal_Pathfinder.md)
--   White Fur Pauldrons
--   [Khan Pauldrons](Legion_Pauldrons.md)
--   [Silver Pauldrons](Silver_Pauldrons.md)
--   [Woodland Pauldrons](Woodland_Pauldrons.md)
-
-#### Boots
-
--   [Bluesteel Boots](Bluesteel_Boots.md)
--   [Flameguard Boots](Flameguard_Boots.md)
--   [Imperial Boots](Imperial_Boots.md)
--   [Khan Boots](Legion_Boots.md)
--   [Tracker's Boots](<Tracker's_Boots.md>)
--   [Vanguard Boots](Vanguard_Boots.md)
--   [Woodland Boots](Woodland_Boots.md)
--   [Silver Sabatons](Silver_Sabatons.md)
-
-### [Weapons](Weapons.md)
-
--   [Nemit's Sickle](<Nemit's_Sickle.md>) (Common)
--   [Iron Cestus](Iron_Cestus.md) (Common)
--   [Champion's Sword](<Champion's_Sword.md>) (Uncommon)
--   [Legion Cestus](Legion_Cestus.md) (Uncommon)
--   [Apprentice Rapier](Apprentice_Rapier.md) (Uncommon - Rare)
--   [Iron Birch](Iron_Birch.md) (Rare)
--   [Master Hawk's Handaxe](<Master_Hawk's_Handaxe.md>) (Rare)
--   [Pale Morning](Pale_Morning.md) (Rare)
--   [Forgotten Gladius](Forgotten_Gladius.md) (Rare)
--   [Sacred Hammer](Sacred_Hammer.md) (Rare)
--   [Darksteel Greatsword](Darksteel_Greatsword.md) (Very Rare)
--   [Shattered Katana](Shattered_Katana.md) (Very Rare)
--   [Tanto](Tanto.md) (Rare)
--   [Flamekeeper Cestus](Flamekeeper_Cestus.md) (Very Rare)
--   [Khan Shield](Legion_Shield.md) (Very Rare)
-
-  
+<table>
+<tbody>
+<tr>
+  <td><a href="Outfits.md">Outfit Schematics</a></td>
+  <td><a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Legendary Weapons</b>:</li>
+    <li><b>Alloyed Weapons</b>:</li>
+    <li><b>Generic Weapons</b>:
+  <ol>
+    <li><b>Light Weapons</b>: <a href="Nemit's_Sickle.md">Nemit's Sickle</a>, <a href="Iron_Cestus.md">Iron Cestus</a>, <a href="Legion_Cestus.md">Legion Cestus</a>, <a href="Apprentice_Rapier.md">Apprentice Rapier</a>, <a href="Tanto.md">Tanto</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></li>
+    <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Forgotten_Gladius.md">Forgotten Gladius</a>, <a href="Sacred_Hammer.md">Sacred Hammer</a>, <a href="Shattered_Katana.md">Shattered Katana</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Iron_Birch.md">Iron Birch</a>, <a href="Master_Hawk's_Handaxe.md">Master Hawk's Handaxe</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a></li>
+  </ol></li>
+    <li><b>Offhand Weapons</b>: <a href="Legion_Shield.md">Khan Shield</a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Big_Alchemist's_Hat.md">Big Alchemist's Hat</a>, <a href="Big_Herbalist's_Hat.md">Big Herbalist's Hat</a>, <a href="Authority_Helm.md">Authority Helm</a>, <a href="Blackleaf_Helm.md">Blackleaf Helm</a>, <a href="Gladiator_Helm.md">Gladiator Helm</a>, <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a>, <a href="Legion_Helmet.md">Khan Helmet</a>, Pale Assassin's Hood, <a href="Vigil_Hood.md">Vigil Hood</a></li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: Pale Assassin's Cloak, <a href="Star_Duster.md">Star Duster</a>, Parka (Series), <a href="Royal_Pathfinder.md">Royal Pathfinder</a>, White Fur Pauldrons, <a href="Legion_Pauldrons.md">Khan Pauldrons</a>, <a href="Silver_Pauldrons.md">Silver Pauldrons</a>, <a href="Woodland_Pauldrons.md">Woodland Pauldrons</a></li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Flameguard_Boots.md">Flameguard Boots</a>, <a href="Imperial_Boots.md">Imperial Boots</a>, <a href="Legion_Boots.md">Khan Boots</a>, <a href="Tracker's_Boots.md">Tracker's Boots</a>, <a href="Vanguard_Boots.md">Vanguard Boots</a>, <a href="Woodland_Boots.md">Woodland Boots</a>, <a href="Silver_Sabatons.md">Silver Sabatons</a></li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: Scarf (Series)</li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Warrior's_Eyepatch.md">Warrior's Eyepatch</a>, <a href="Headband.md">Headband (Series)</a></li>
+    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Ruby_Drop_Earrings.md">Ruby Drop Earrings</a>, <a href="Crystal_Pendant_Earrings.md">Crystal Pendant Earrings</a>, <a href="Practicioner's_Earrings.md">Practicioner's Earrings</a></li>
+    <li><a href="Equipment.md#rings"><b>Rings</b></a>:</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia/Notes
 
 -   The waters will push you downstream, eventually pushing you off a waterfall. Mind your step!
--   Not very worth grinding here, unless you're specifically looking for the Crimson Megalodaunt. It's better to grind at Starswept Valley - they have the same events but better spawn rates and a more accessible location.
+-   Not very worth grinding here, unless you're specifically looking for the [Crimson Megalodaunt](Crimson_Megalodaunt.md). It's better to grind at [Starswept Valley](The_Starswept_Valley.md) - they have the same events but better spawn rates and a more accessible location.

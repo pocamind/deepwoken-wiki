@@ -1,6 +1,6 @@
 ---
 title: "Cryptwaker's Ring"
-revid: 201739
+revid: 205317
 source: https://deepwoken.fandom.com/wiki/Cryptwaker's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Rings, Equipment]

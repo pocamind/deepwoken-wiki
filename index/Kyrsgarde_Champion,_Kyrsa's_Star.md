@@ -1,9 +1,9 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 205110
+revid: 205316
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive]
+categories: [Pathfinder Exclusive, Individuals with He/him pronouns]
 ---
 
 # Kyrsgarde Champion, Kyrsa's Star
@@ -14,14 +14,21 @@ categories: [Pathfinder Exclusive]
 | attacks | Permafrost Colosseum, Pylons of Frost, Decapitating Sweep, Altitude Swipes, Frostgrave, Champion’s Quake, Rime-Rise, Splintered Thrust, Crossrend Cryocleave, Shatterline, Blizzard’s Sanction |
 | drops | Whistling Periapt, Gale Essence, Frost Essence, Frostthorn, Kyrsan Necklace, Kyrsan Chill Enchant Stone, Cryptwaker's Ring, Rimebreakers, Marrowmade Boots, Coldpoint, Bone Ring, Kyrsan Gem |
 | locations | New Kyrsa, The Sleeping City |
+| pronouns | He/him[1] |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
+“ THE ESSENCE IS NAMED LIGHT, AND I AM ITS APOSTLE. ”
+
+― Raeva Ferash Kenestos
+
 ## Description
 
-The Kyrsgarde Champion is a boss located in [New Kyrsa](Second_Layer/New_Kyrsa.md). It is a muscular white-coil Kyrsan donning uniquely colored armor, alongside a black cape that ends with a purple gradient. An immensely powerful and skilled Kyrsgarde, it wields a large, pale glaive that bears [Moonseye](Moonseye.md) motifs, which is highly capable of utilizing frost.
+Raeva Ferash Kenestos, the Kyrsgarde Champion, is a boss located in [New Kyrsa](Second_Layer/New_Kyrsa.md). He is a muscular white-coil Kyrsan donning uniquely colored armor, alongside a black cape that ends with a purple gradient. An immensely powerful and skilled Kyrsgarde, he wields a large, pale glaive that bears [Moonseye](Moonseye.md) motifs, which is highly capable of utilizing frost.
+
+According to [his manifesto](Words_of_Light.md), he served for New Kyrsa even during the [raid on Constellia](Constellia.md), who was gravely aware of the mass killings that took place. Amongst the ruins of Constellia, he discovered an essence of light that was the Celestial Raeva, breaking him free [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>)'s control and ultimately having a goal of destroying the latter and his Scion for the Heavens and New Kyrsa.
 
 It can be encountered after achieving the following requirements:
 
@@ -42,6 +49,7 @@ After these conditions have been fulfilled, entering the main city will spawn th
  | The Kyrsgarde Champion summons a large ring of ice pillars, similar to Ice Eruption's round spark variant.
 
 -   This move is only used when you deal damage to it.
+-   Can be destroyed.
 
  | 
 
@@ -271,3 +279,8 @@ Parry
 
 -   Kills against the Kyrsgarde Champion contribute towards the general Kyrsgarde [Bestiary](Bestiary.md) entry, so the boosts from that entry should also apply against it.
 -   Climbing over the **Permafrost Colosseum** is possible if it is summoned near certain tall buildings in New Kyrsa.
+
+## References
+
+1.  [↑](#cite-ref-1) NPC dialogue: [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md)  
+    _Your description of this 'Champion' is eerily similar to that of the Kyrsan commander who took me prisoner during the siege of Constellia. The circumstances of it were unusual, to say the least. He is the sole reason I am now captive here, as opposed to lying among the bodies of my kin within the ruins of the city._

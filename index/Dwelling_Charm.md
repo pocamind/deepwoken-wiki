@@ -1,9 +1,11 @@
 ---
 title: Dwelling Charm
-revid: 196755
+revid: 205233
 source: https://deepwoken.fandom.com/wiki/Dwelling_Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Guilds, Items]
+categories: [Cut Content, Guilds, Items]
+notices:
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # Dwelling Charm

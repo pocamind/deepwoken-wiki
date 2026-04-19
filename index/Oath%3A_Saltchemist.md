@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 203788
+revid: 205290
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -63,7 +63,8 @@ This Oath makes the Perpetual Distillery appear on your character's arm.
 
 -   **Perpetual Distillery** - Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots that will automatically produce 3 concoctions of your choice.
     -   Grants a Talent Tool that opens up the Distillery UI. Inside, there are three empty spaces where you can drag and drop potions to.
-    -   When clicking on a potion icon in your Distillery, you can change its mode from "Throw" to "Drink" and vice versa.
+        -   -   Potions can also be right-clicked to set them as your Autobrews.
+    -   By right-clicking a potion icon in your Distillery, you can change its mode from "Throw" to "Drink" and vice versa.
     -   Also grants a Talent tool slot for all three of your auto-brews. Each one is assigned to its respective Distillery slot. These potions have infinite uses, but go on a fairly long cooldown. Allows builds to be able to use up to three individual potions without needing to farm for many many sets of ingredients.
     -   'Drink' potions place other 'drink' slots on a cooldown if they share buffs.
     -   When replacing a potion in the Distillery, the one that was previously there is voided. **Potions cannot be recovered once placed in the Distillery.**

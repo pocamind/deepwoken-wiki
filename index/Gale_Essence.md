@@ -1,6 +1,6 @@
 ---
 title: Gale Essence
-revid: 203468
+revid: 205245
 source: https://deepwoken.fandom.com/wiki/Gale_Essence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Ingredients]
@@ -18,7 +18,7 @@ categories: [Pathfinder Exclusive, Items, Ingredients]
 | bankable | No |
 | droppable | No |
 | pass down | No |
-| desc | Holding it gives you the feeling you could fly. |
+| desc | A tangled fragment of a greater spiral. Though the gale within feels steady and even, you know that if a million voices were to howl all at once, the sounds of the two may collide and overlap, until only noise remains. |
 | obtainment | Kyrsgarde Champion |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -44,3 +44,7 @@ This relic is used as a crafting ingredient.
 [Gale Enhanced Earrings](Gale_Enhanced_Earrings.md)\= [Emerald Tusk Earrings](Emerald_Tusk_Earrings.md) + 1 **Gale Essence** + 5 [Gale Stone](Gale_Stone.md)
 
 999x [Gale Bullets](Bullet_Casings.md#gale) = 1 [Bullet](Bullet_Casings.md) + 1 **Gale Essence** at [Lost Forge](Lost_Forge_of_Leiuna.md)
+
+## Trivia
+
+-   It's previous description read: "Holding it gives you the feeling you could fly.

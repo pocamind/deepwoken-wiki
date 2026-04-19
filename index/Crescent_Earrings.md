@@ -1,6 +1,6 @@
 ---
 title: Crescent Earrings
-revid: 190275
+revid: 205283
 source: https://deepwoken.fandom.com/wiki/Crescent_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -15,7 +15,7 @@ categories: [Equipment, Ears]
 | selling price | 25 |
 | requirements | Power 5 |
 | weight | 0.1 |
-| innate stats | +2 Health, +2 Rare Pips |
+| innate stats | +10 Ether, +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -26,8 +26,4 @@ categories: [Equipment, Ears]
 
 ## Description
 
-**Moonlit Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category. You can most commonly find them from [Hell Mode](Hell_Mode.md), and [The Ferryman](The_Ferryman.md) during [Summer](Seasons.md#summer).
-
-## Trivia
-
--   These earrings are frequently sought after due to being one of two earrings that offer Health, the other being [Dark Pearls](Dark_Pearls.md).
+**Crescent Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category. You can most commonly find them from [Hell Mode](Hell_Mode.md), and [The Ferryman](The_Ferryman.md) during [Summer](Seasons.md#summer).

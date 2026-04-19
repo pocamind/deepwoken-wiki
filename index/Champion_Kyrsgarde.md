@@ -1,6 +1,6 @@
 ---
 title: Champion Kyrsgarde
-revid: 197763
+revid: 205263
 source: https://deepwoken.fandom.com/wiki/Champion_Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Kyrsgarde Champion](Kyrsgarde_Champion%253Fredirect=no.md)
+-   [Kyrsgarde Champion, Kyrsa's Star](<Kyrsgarde_Champion,_Kyrsa's_Star.md>)

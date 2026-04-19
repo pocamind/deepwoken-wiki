@@ -1,6 +1,6 @@
 ---
 title: Hippocampal Pool
-revid: 202782
+revid: 205251
 source: https://deepwoken.fandom.com/wiki/Hippocampal_Pool
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics, Death]
@@ -32,7 +32,6 @@ There are a few items that the Hippocampal Pool will not accept, meaning they wi
 -   [Mantra Modifiers](Mantra_Modifiers.md) (some mantra ingredients _can_ be passed down such as [Crystal Lens](Mantra_Modifiers.md) or [Aeon Logstones](Mantra_Modifiers.md))
 -   [Training Gear](Training_Gear.md)
 -   [Food](Food.md)
--   [Dwelling Charm](Dwelling_Charm.md)
 -   [Relics](Relics.md)
 -   Any item that cannot be banked. Barring things already stated, this includes:
     -   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)

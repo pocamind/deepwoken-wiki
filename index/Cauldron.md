@@ -1,6 +1,6 @@
 ---
 title: Cauldron
-revid: 202907
+revid: 205254
 source: https://deepwoken.fandom.com/wiki/Cauldron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Utilities]
@@ -31,7 +31,7 @@ The cauldron in [Etris](Etris.md) is located in [Nell](Nell,_Master_of_Frost.md)
 The cauldron in [Guild Bases](Guild_Bases.md) can be found in the purchasable Laboratory room.
 
 -   While the cost of the room can vary, the cost of the Laboratory itself is 1,500.
--   Guild Bases can be accessed from both the Etrean and Eastern Luminants by [Guild](Guilds.md) members, using a [Chime of Dwelling](Chime_of_Dwelling.md) or [Dwelling Charm](Dwelling_Charm.md).
+-   Guild Bases can be accessed from both the Etrean and Eastern Luminants by [Guild](Guilds.md) members, using a [Chime of Dwelling](Chime_of_Dwelling.md).
 
 **Voidheart:**
 

@@ -1,6 +1,6 @@
 ---
 title: Might Gem
-revid: 204022
+revid: 205267
 source: https://deepwoken.fandom.com/wiki/Might_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]
@@ -19,7 +19,7 @@ categories: [Treasures, Mantras, Deep Gems]
 | droppable | Yes |
 | pass down | No |
 | desc | A sign of strength...Increases a Mantra's posture damage by 10%. |
-| obtainment | Titus Fulminus DestellusVow of Iron:, Found in The Depths, The Depths chests |
+| obtainment | Titus Fulminus Destellus (guaranteed)Vow of Iron:, Found in The Depths, The Depths chests |
 
 ## Description
 

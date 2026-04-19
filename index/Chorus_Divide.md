@@ -1,6 +1,6 @@
 ---
 title: Chorus Divide
-revid: 184970
+revid: 205305
 source: https://deepwoken.fandom.com/wiki/Chorus_Divide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -51,7 +51,7 @@ Chorus Divide will use the players highest invested attunement upon obtaining th
 
 If the player has [Saintsworn](Oath%253A_Saintsworn.md), the second beam will be the attunement of their current **Saint Stance** instead. Each beam will scale on their respective attunement stats.
 
-If the player is [Attunement-less](Attunement-less.md), the beams will be the Thundercall variant ( will apply shock ). Because you have no attunement investment, this will use the base damage of 8 per tick.
+If the player is [Attunement-less](Attunement-less.md), the beams will be an off-white, doing a base damage of 8 per tick.
 
 ## Trivia
 

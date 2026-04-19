@@ -1,6 +1,6 @@
 ---
 title: Frost Essence
-revid: 203470
+revid: 205244
 source: https://deepwoken.fandom.com/wiki/Frost_Essence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Items, Ingredients]
@@ -18,7 +18,7 @@ categories: [Pathfinder Exclusive, Relics, Items, Ingredients]
 | bankable | No |
 | droppable | No |
 | pass down | No |
-| desc | The essence which coats the Kyrsgarde Champion's weapon, you struggle to move as you hold it. |
+| desc | A chilling essence obtained within New Kyrsa, not unlike the kind that Kyrsans would fashion and adorn their weapons with. Layered upon the Champion's weapon was frost of a similar kind, though something of a different nature dwelled beneath. As you hold it, you feel yourself struggling to move, your joints locking up. |
 | obtainment | Kyrsgarde Champion |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -39,3 +39,7 @@ The Frost Essence can craft into a few items with the [Lost Forge](Lost_Forge_of
 4.  [Frost Ring](Frost_Ring.md): [Heavy Hands Ring](Heavy_Hands_Ring.md) + 1x Frost Essence
 5.  999x [Frost Bullet](Bullet_Casings.md#frost): 1x [Bullet](Bullets.md) + 1x Frost Essence
 6.  [Winter Rifle](Winter_Rifle.md): [Summer Rifle](Summer_Rifle.md) + 1x Frost Essence
+
+## Trivia
+
+-   It's previous description read: "The essence which coats the Kyrsgarde Champion's weapon, you struggle to move as you hold it."

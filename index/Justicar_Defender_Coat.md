@@ -1,6 +1,6 @@
 ---
 title: Justicar Defender Coat
-revid: 176473
+revid: 205271
 source: https://deepwoken.fandom.com/wiki/Justicar_Defender_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Coats]
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Coats]
 | type | Arms |
 | rarity | Uncommon |
 | selling price | 14 |
-| requirements | PWR 8 |
+| requirements | LVL 8 |
 | weight | 2 |
 | innate stats | +4 Rare Pips |
 | innate talent | N/A |
@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Coats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aelita (10%), King Threshers (~1%) (~3% if Corrupted), Ferryman (Summer and Winter), The Diluvian Mechanism (Wave 50), Deep Owl (Jet Black Only) |
+| obtainment | Chests from:, Aelita, King Threshers, Ferryman (Summer and Winter), The Diluvian Mechanism (Wave 50), Deep Owl (Jet Black Only) |
 | description | ... |
 
 ## Description
