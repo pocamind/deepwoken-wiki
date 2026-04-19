@@ -1,6 +1,6 @@
 ---
 title: Blacksmith
-revid: 201835
+revid: 205364
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vendors, NPCs, Humanoids with Unobtainable Outfits]
@@ -30,7 +30,6 @@ Blacksmiths have 3 functions: opening the [Outfits](Outfits.md) menu, crafting [
 -   [Pickaxe](Pickaxe.md) for 3
 -   [Lumber Axe](Lumber_Axe.md) for 3
 -   [Flint](Flint.md) for 3
--   [Repair Hammer](Repair_Hammer.md) for 30.
 
 Blacksmiths will refuse to service the player if their [reputation](Reputation.md) is too low with the faction of the location they're at.
 
@@ -97,10 +96,6 @@ Smithy's Tools
 <tr>
   <td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
   <td><div>Flint</div><div><i>A sharp flint and a scrap of pyrite used for starting fires.</i></div></td>
-</tr>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>30 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Repair Hammer</div><div><i>Handy if your boat springs a leak.</i></div></td>
 </tr>
 </tbody>
 </table>

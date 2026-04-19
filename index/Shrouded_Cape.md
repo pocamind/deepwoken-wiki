@@ -1,6 +1,6 @@
 ---
 title: Shrouded Cape
-revid: 176563
+revid: 205353
 source: https://deepwoken.fandom.com/wiki/Shrouded_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Capes]

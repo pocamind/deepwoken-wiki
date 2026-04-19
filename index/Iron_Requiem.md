@@ -1,9 +1,9 @@
 ---
 title: Iron Requiem
-revid: 203192
+revid: 205428
 source: https://deepwoken.fandom.com/wiki/Iron_Requiem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons that cannot be equipped on Silentheart, Weapons, Pages with broken file links, Pistols, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, The Ignition Union, Weapons with multiple Criticals]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Pistols, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, The Ignition Union, Weapons with multiple Criticals]
 ---
 
 # Iron Requiem
@@ -52,6 +52,4 @@ For the **running critical**, whip around wildly and continuously fire the pisto
 -   The [Sleight of Hand](Talents.md#sleight-of-hand) Talent procs on dual guns, reloading one bullet on flourish, despite stating it's single gun only. Because of this, you can use Iron Requiem's running critical on dual guns.
 -   Along with the [Soulwrought Gun](Crazy_Slots.md#weapons) and [Rosen's Roscoe](<Rosen's_Roscoe.md>), these are the only three pistols in the game to play a unique sound effect on M1/crit.
 
-File:Iron's requiem close up .png
-
-Iron Requiem close up
+Gilded Iron Requiem close up

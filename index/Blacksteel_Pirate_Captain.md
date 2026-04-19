@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pirate Captain
-revid: 178909
+revid: 205366
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pirate_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]

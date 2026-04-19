@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 204831
+revid: 205367
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Echoes, Character, Mechanics, Creation, Features absent in Vow of Iron]
@@ -345,11 +345,6 @@ There are 11 upgrades and 15 unlocks to purchase. Each upgrade can be purchased 
 <tr>
   <td><b>Fishing Rod</b></td>
   <td>You start with a <a href="Fishing_Rod.md">Fishing Rod</a> to gather <a href="Fishing.md">fish</a>.</td>
-  <td>15 Echoes</td>
-</tr>
-<tr>
-  <td><b>Repair Hammer</b></td>
-  <td>You start with a <a href="Repair_Hammer.md">Repair Hammer</a> to repair <a href="Ships_&amp;_Sailing.md">ships</a>.</td>
   <td>15 Echoes</td>
 </tr>
 <tr>

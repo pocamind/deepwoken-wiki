@@ -1,6 +1,6 @@
 ---
 title: "Ships & Sailing"
-revid: 204446
+revid: 205362
 source: https://deepwoken.fandom.com/wiki/Ships_%26_Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -61,10 +61,7 @@ If a ship reaches 50% health, the player can no longer respawn on that ship and 
 
 ### Repairing and Selling
 
-Ships can be repaired with the [Repair Hammer](Repair_Hammer.md), which can be bought in [Etris](Etris.md) next to [Schnitzel](Mantra_Collector.md) for 30. Repair Hammers will heal 50 health to a boat upon being used, but each usage will consume Wood.  
-Using the [Repair Hammer](Repair_Hammer.md) 20 times will grant the Talent [Emergency Repairs](Talents.md#emergency-repairs) (+2 Carry Load).  
-Using the [Repair Hammer](Repair_Hammer.md) 50 times will grant the Talent [Spare Nails](Talents.md#spare-nails) (+2 Carry Load).  
-Although, wearing the [Brigand's Bicorn](<Brigand's_Bicorn.md>) also grants you these 2 Talents, therefore assisting you in repairing the ship to max efficiency without the need to fulfill the Talents' prerequisites. Ships can also be repaired by paying [Notes](Notes.md) at Shipwights or Posts.
+Ships can be repaired by paying [Notes](Notes.md) at Shipwights or Posts.
 
 When a ship reaches 0% health, it will sink and then must be salvaged at a Shipwright Merchant or Shipyard Post for half its original price, where it can then be spawned again at full health. A Dinghy that has sunk will have their repair cost be free.
 

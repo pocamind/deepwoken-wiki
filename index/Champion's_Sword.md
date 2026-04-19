@@ -1,6 +1,6 @@
 ---
 title: "Champion's Sword"
-revid: 198950
+revid: 205408
 source: https://deepwoken.fandom.com/wiki/Champion's_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons of The Golden Rats]
@@ -46,4 +46,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   The sword's appearance is akin to that of Percy Jackson's Riptide Sword. The similarity can also be correlated through the [Roblox Gear](https://roblox.fandom.com/wiki/Catalog:Riptide) based off of it.
+-   The sword's appearance is akin to that of Percy Jackson's Riptide Sword. The similarity is further correlated through the [Roblox Gear](https://roblox.fandom.com/wiki/Catalog:Riptide) based off of it.

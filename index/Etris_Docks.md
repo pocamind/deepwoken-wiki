@@ -1,6 +1,6 @@
 ---
 title: Etris Docks
-revid: 194407
+revid: 205363
 source: https://deepwoken.fandom.com/wiki/Etris_Docks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant, Territory of Etrea]
@@ -40,10 +40,6 @@ Etris Docks are docks in Etris that players can dock their [boats](Ships_&_Saili
 
 -   Players can find a Shipwright who can craft you [boats](Ships_&_Sailing.md) for notes and spawn your crafted boats.
     -   If you have low [Reputation](Reputation.md) with Etrea, he will refuse to craft or spawn your boats.
-
-### Tools
-
--   Players can purchase a [Repair Hammer](Repair_Hammer.md) for 30 on the right side of the port.
 
 ### [Great Megalodaunt Rumbling](The_Great_Sharko_Rumbling.md) Remembrance Shrine
 

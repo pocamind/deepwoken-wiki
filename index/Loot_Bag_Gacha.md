@@ -1,6 +1,6 @@
 ---
 title: Loot Bag Gacha
-revid: 204445
+revid: 205409
 source: https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Articles with conjectural titles, Pathfinder Exclusive, NPCs, Mechanics, Quests, Vendors]
@@ -59,7 +59,7 @@ Jeandae
 
 ### Lootpool
 
--   Capes
+-   Cape
 -   [Crescent Cleaver](Crescent_Cleaver.md)
 -   [Vigil Longsword](Vigil_Longsword.md)
 -   [Razor Cutlass](Razor_Cutlass.md)
@@ -79,10 +79,10 @@ Marae
 
 -   [Legion Cestus](Legion_Cestus.md)
 -   [Silver Knight's Helm](<Silver_Knight's_Helm.md>)
--   Scarfs
--   [Grand Pathfinder Backpack](<Grand_Pathfinder's_Backpack.md>)
+-   Scarf
+-   [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>)
 -   [Tanto](Tanto.md)
--   [Warriors Eyepatch](<Warrior's_Eyepatch.md>)
+-   [Warrior's Eyepatch](<Warrior's_Eyepatch.md>)
 -   [Vigil Hood](Vigil_Hood.md)
 
 ## Dialogue

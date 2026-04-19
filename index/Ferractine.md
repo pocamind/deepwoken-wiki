@@ -1,6 +1,6 @@
 ---
 title: Ferractine
-revid: 196183
+revid: 205483
 source: https://deepwoken.fandom.com/wiki/Ferractine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Swords, "Attunement-based Weapons", Weapons with Talents, Medium Weapons]
@@ -59,4 +59,4 @@ This critical has a cooldown of **5.5 seconds**.
 
 ## Trivia
 
--   Based off of a real sword called a [Flamberge](https://en.wikipedia.org/wiki/Flamberge).
+-   Its zig-zagged design may have been based off of the [Flamberge](https://en.wikipedia.org/wiki/Flamberge).

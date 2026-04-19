@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 205293
+revid: 205371
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1990,7 +1990,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   _Seaborne_ \[Race Talent, [Celtor](Celtor.md) Exclusive\] - You have a keen understanding of ships and their maintenance.
     -   Ships cost 20% less Notes, turn 20% faster, and have 10% more health.
-    -   Repairing ships with the [Repair Hammer](Repair_Hammer.md) takes less time.
 
 -   _Teachings of the Edenkite_ \[Race Talent, [Drakkard](Drakkard.md), [Pathfinder](Pathfinder.md) Exclusive\] - Find your centre.
     -   Allows you to meditate, emitting a white aura and causing two white orbs to circle your head. Very heavily reduces your hunger and thirst consumption while you passively gain EXP and Attribute EXP and regenerate health at a mediocre rate, which is slightly reduced when in combat.
