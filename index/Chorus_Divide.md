@@ -1,6 +1,6 @@
 ---
 title: Chorus Divide
-revid: 205305
+revid: 205603
 source: https://deepwoken.fandom.com/wiki/Chorus_Divide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -59,4 +59,4 @@ If the player is [Attunement-less](Attunement-less.md), the beams will be an off
 -   This bell will stack [Chain of Perfection](Talents.md#chain-of-perfection) when it lands
 -   [Titus](Titus_Fulminus_Destellus.md) uses an empowered version of this Resonance.
 -   Unfortunately, the beams don't change color if you have a different path for the specific element. This includes [Azure Flames](Talents.md#azure-flames).
--   If you drink a Attunement flask when your build is max power, While having no attunement You are able to get the other Attunement variants instead of the thundercall variant.
+-   If you drink an [Attunement Flask](Attunement_Potions.md) while your build is max power and has no attunement, you are able to get other attunement variants instead of the base Attunement-less variant.

@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Mask
-revid: 189392
+revid: 205589
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks, Craftable]
@@ -15,9 +15,7 @@ categories: [Equipment, Face, Masks, Craftable]
 | selling price | N/A |
 | weight | 0.5 |
 | innate stats | +1 Common Pip |
-| innate talent | Destructive Yell |
 | set | Ascended Outlaw Hat, Ascended Outlaw Robes, Ascended Outlaw Boots, Ascended Outlaw Mask |
-| set talent | Offensive Recovery |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

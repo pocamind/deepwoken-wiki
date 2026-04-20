@@ -1,6 +1,6 @@
 ---
 title: Lance
-revid: 203083
+revid: 205576
 source: https://deepwoken.fandom.com/wiki/Lance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant, Vendors]
@@ -89,7 +89,7 @@ This dialogue is unlocked if the player has spoken to [Lance's Brother](<Lance's
 -   In the credits, SnakeWorl is seemingly credited as Lance.
 -   Lance's beard ID is 4995497755 and hair ID is 5891039736.
 -   Lance has purple eyes and black hair, which isn't actually possible as an Etrean.
--   Lance wears the [Merchant Robes](Merchant_Robes.md) and a Yellow Headband.
+-   Lance wears the [Merchant Robes](Merchant_Robes.md) and a yellow [Headband](Headband.md).
 -   Lance has banned Destroyman III from his restaurant.
 
 ## References

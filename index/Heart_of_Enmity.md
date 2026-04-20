@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 203789
+revid: 205575
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Bosses, Voiced Characters]
@@ -62,6 +62,8 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 
  | Heart of Enmity kneels down and grabs a nearby player, tosses them up then bats them with his axe.
 
+-   The grab is unparryable, but the swing is parryable.
+    -   There is a brief window between the throw and the swing, around 0.1s after the throw has reached its maximum height, where you can parry the swing or vent to avoid the swing using i-frames.
 -   This attack rarely can also be used to attack other outlier players trying to heal, when he bats them the victim can be batted towards another person and collide with them which can end up killing them or the other.
 -   It is best advised to try blocking this attack instead of parrying/dodging as he will punish you for both, you need good posture + the [Ardour](Murmur%253A_Ardour.md) Murmur however.
 

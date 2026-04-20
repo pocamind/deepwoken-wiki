@@ -1,6 +1,6 @@
 ---
 title: Ivory
-revid: 192516
+revid: 205574
 source: https://deepwoken.fandom.com/wiki/Ivory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Cut Content, NPCs, Individuals with unspecified pronouns]
@@ -18,11 +18,11 @@ notices:
 
 ## Description
 
-Ivory was a [Celtor](Celtor.md) NPC questgiver that could have been found in the [Pathfinder's Respite](<Pathfinder's_Respite.md>). They wore a [Pathfinder Sorcerer](Pathfinder_Sorcerer.md) outfit
+Ivory was a [Celtor](Celtor.md) NPC questgiver that could have been found in the [Pathfinder's Respite](<Pathfinder's_Respite.md>). She wore a [Pathfinder Sorcerer](Pathfinder_Sorcerer.md) outfit
 
 Ivory gave the player a [quest](Cut_Content.md#quests) to go up to the highest peak in [Erisia](Erisia.md), and to gaze into the purple flame, rewarding them the Air Dash [Echo Talent](Echoes.md#echo-talentsitems).
 
-Ivory was removed on the [March 8th, 2025 update](Version_History/2025.md#march-8th-2025) as the reward for finishing their quest, the [Aerial Assault](Cut_Content.md#aerial-assault) Talent, was made innate, alongside the addition of [Chained Ring](Chained_Ring.md).
+Ivory was removed on the [March 8th, 2025 update](Version_History/2025.md#march-8th-2025), as the reward for finishing her quest, the [Aerial Assault](Cut_Content.md#aerial-assault) Talent, was made innate, alongside the addition of [Chained Ring](Chained_Ring.md).
 
 ## Dialogue
 
@@ -140,7 +140,7 @@ This is the dialogue for **The Purple Flame** that resides in the middle of [The
 
 ## Quest
 
-Ivory tells the player that they are a simple new Pathfinder, and says that they can teach you new movement if you go to the [highest peak](The_Temple_of_the_Forgotten_Flame.md) in Erisia and gaze into the purple flame.
+Ivory tells the player that they are a simple new Pathfinder, and says that she can teach you new movement if you go to the [highest peak](The_Temple_of_the_Forgotten_Flame.md) in Erisia and gaze into the purple flame.
 
 ### Completion
 
@@ -148,4 +148,4 @@ To complete the quest, head to the [Temple of the Forgotten Flame](The_Temple_of
 
 ### Reward
 
-Ivory congratulates the player for completing the quest and teaches them the [Air Dash](Talents.md#air-dash) [Talent](Talents.md). Press Q mid-air to dash a short distance forward.
+Ivory congratulates the player for completing the quest and teaches them the [Aerial Assault](Cut_Content.md#aerial-assault) [Talent](Talents.md). Press Q mid-air to dash a short distance forward.

@@ -1,6 +1,6 @@
 ---
 title: Maljuror Jougs
-revid: 202243
+revid: 205599
 source: https://deepwoken.fandom.com/wiki/Maljuror_Jougs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso]
@@ -15,7 +15,7 @@ categories: [Equipment, Torso]
 | selling price | 50 |
 | requirements | LVL 10 |
 | weight | 0.5 |
-| innate stats | 2 Legendary Pips |
+| innate stats | +2 Legendary Pips |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

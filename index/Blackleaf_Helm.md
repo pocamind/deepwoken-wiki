@@ -1,6 +1,6 @@
 ---
 title: Blackleaf Helm
-revid: 203997
+revid: 205583
 source: https://deepwoken.fandom.com/wiki/Blackleaf_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -16,7 +16,6 @@ categories: [Equipment, Head, Helmets]
 | requirements | PWR 10 |
 | weight | 1 |
 | innate stats | +5 Health, +1 Posture, +2 Rare Pips |
-| innate talent | Concussive Force |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -27,6 +26,8 @@ categories: [Equipment, Head, Helmets]
 ## Description
 
 The _Blackleaf Helm_ is a piece of Equipment in the "Head" category, being a black variant of the [Goldleaf Helm](Goldleaf_Helm.md).
+
+The [Concussive Force](Talents.md#concussive-force) Talent increases the duration that you knock players Unconscious for by 50%. From 10 seconds to 15.
 
 ## Trivia
 

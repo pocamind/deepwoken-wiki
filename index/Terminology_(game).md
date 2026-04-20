@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 205508
+revid: 205581
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -62,7 +62,7 @@ _noun_
     2.  If it's during the [Scion of Ethiron](Scion_of_Ethiron.md) fight, it refers to the [Kyrsgarde](Kyrsgarde.md) that spawns.
     3.  May also be used generally anywhere to refer to any easily slain mob.
 2.  A weak player or enemy who's easy to beat or bad at the game.
-    1.  Ex: "I'm not playing with you freshie, because you're a healthpack and you gonna die to everything"
+    1.  Ex: "I'm not playing with you \[\[[freshie](#freshie), because you're a healthpack and you gonna die to everything"
     2.  Ex. "No way he is so trash in ganking bro, we lost the war because of him. What a healthpack!"
     3.  This usage of the term comes from the same as meaning 1 above, as players also give healthpacks, but is a less literal term and more used as an insult.
 3.  The health gained via knocking a player, humanoid, or killing a monster.
@@ -107,7 +107,7 @@ This term originated from 2D fighting games such as [_Street Fighter_](https://e
 _verb_
 
 1.  To use an attack, most often the M1 of a weapon with a high swing speed and no endlag, but without the intention of hitting the opponent. This is most often utilized to bait a parry, allowing one to typically get in a hit.
-    1.  Ex. "I fought some boosted cheese build in chime. He did nothing but airswing for two minutes and I 5-barred him."
+    1.  Ex. "I fought some [boosted](#boosted) cheese build in [chime](#chime). He did nothing but airswing for two minutes and I \[\[Terminology (game)#5 Bar/\[n\] Bar|5-barred\]\] him."
 
 ### Bar
 
@@ -118,7 +118,7 @@ _noun_
     2.  Ex. "I'm at 2 bars help me!!!"
     3.  Ex. "Bro that squibbo had me on half a bar"
 
-Can also refer to a bar section of another resource like Blood or Hunger.
+See [Bar](#barbars) for its contextual usage outside of combat.
 
 #### 5 Bar/\[n\] Bar
 
@@ -149,6 +149,14 @@ _verb_
 _noun_
 
 1.  Value indicating a percentage of damage that goes through a player's [block](Combat_Mechanics.md). Chip Damage will not occur if the attack is parried. E.g. 75% chip damage means that 75% of the supposed damage value will still go through if it is met by a block.
+
+### Combat Log
+
+_verb_
+
+1.  To leave or disconnect while you are in combat. Doing this will automatically make you be "killed" by the player/mob that granted you the combat tag. This is separate from [logging](#loglogging) in that it's specifically related to logging during combat.
+
+To assure you are not combat logging, always use the door button on the top left of your screen that makes your character despawn the moment you click.
 
 ### Combo
 
@@ -226,7 +234,7 @@ _verb_
 1.  To stop your weapon or Mantra windup while swinging, typically used to bait people to parry which, if done, often makes them unable to parry the next immediate attack you use.
     1.  Ex. "You can't just hit me while I'm feinting!!!"
 2.  To do an attack (or other action) mimicking the effects of a feint. This may be due to poor animations or hitboxes, or may be an intentional action by a player.
-    1.  Ex. "I hate people who feint by airswinging."
+    1.  Ex. "I hate people who feint by [airswinging](#airswing)."
 
 ### Flood/Flooding
 
@@ -240,7 +248,7 @@ _verb, noun_
 _verb_
 
 1.  To use the fourth or otherwise final attack in your weapon's attack cycle, unique in that it knocks your opponent back by default.
-    1.  Ex. "The freshie died to a single flourish from my Silentheart detonation Petra's Anchor build."
+    1.  Ex. "The \[\[[freshie](#freshie) died to a single flourish from my Silentheart detonation Petra's Anchor build."
 
 ### Gank
 
@@ -312,7 +320,7 @@ _verb_
 _verb_
 
 1.  When a passive Talent or ability activates
-    1.  Ex. Roll cancelling before hitting an enemy's back with a critical or basic attack will cause [Spine cutter](https://deepwoken.fandom.com/wiki/Talents#:~:text=Spine%20Cutter) to proc.
+    1.  Ex. Roll cancelling before hitting an enemy's back with a critical or basic attack will cause [Spine Cutter](Talents.md#spine-cutter) to proc.
 
 ### Spin back/Spinback
 
@@ -481,7 +489,7 @@ _noun_
 
 _noun_
 
-1.  Nickname for the [Portals](Portals.md) Resonance, used to turn invisible and gain I-frames for a set duration. It is a reference to a Valorant character named Yoru. The Resonance is similar to his ultimate ability.
+1.  Nickname for the [Portals](Portals.md) Resonance, used to turn invisible and gain [I-frames](#i-frames) for a set duration. It is a reference to a Valorant character named Yoru. The Resonance is similar to his ultimate ability.
 
 ## Outside Combat
 
@@ -502,8 +510,11 @@ _noun_
 
 1.  Referring to the number of colored bars seen on the server details at the top of the screen, indicating good or bad ping.
     1.  Ex. "On California servers i would always get 3 bars until recently"
-2.  The number of bars on a player's health, ether, armor, or posture. (Bars are divided by the ticks at the bottom and top of the whole bar)
+2.  The number of bars on a player's health, ether, armor, posture, blood, hunger, or thirst. (Bars are divided by the ticks at the bottom and top of the whole bar)
     1.  Ex. "I'm on 1 bar of health"
+    2.  Ex. "Your [sear](Sear.md) took 4 bars of thirst from me during that fight!"
+
+See [Bar](#bar) for its contextual usage inside combat.
 
 ### Drip
 
@@ -530,7 +541,7 @@ _verb_
 
 _verb_
 
-1.  To leave the game as fast as possible when not in combat, usually when being hunted by a player, so as to avoid conflict.
+1.  To leave the game as fast as possible when not in combat, usually when being hunted by a player or enemy, so as to avoid conflict.
     1.  Ex. "I just heard a guy wipe, we should log"
 
 ### Void
@@ -540,14 +551,14 @@ _verb_
 1.  To be flung far outside the map, into the **void**.
 2.  For an item to unexpectedly disappear from the player's inventory as the result of a bug.
     1.  Ex. "My [manor key](Manor_Key.md) just voided what happened???"
-3.  To make contact with the overworld's void, causing the player to respawn.
+3.  To make contact with the [overworld](#overworld)'s void, causing the player to respawn.
 4.  (uncommon) To be instantly killed by one of the game's anti-cheat mechanisms.
 
 _noun_
 
 1.  The floor of the [first](First_Layer.md) or [second layer](Second_Layer.md) of [The Depths](The_Depths.md) that's able to kill a player if they fall onto it.
     1.  Ex. "Lol i just knocked that guy into the void"
-2.  The out-of-bounds bottom of the overworld that when touched will respawn the player.
+2.  The out-of-bounds bottom of the [overworld](#overworld) that when touched will respawn the player.
 
 ## Enemies / Monsters
 
@@ -773,7 +784,7 @@ _noun_
 
 _noun_
 
-1.  Abbreviation for [All the Dead Gods](https://deepwoken.fandom.com/wiki/Talents#:~:text=All%20the%20Dead%20Gods), a Talent that causes your M1s to apply [Anti-Heal](Status_Effects.md#anti-heal) for 8 seconds, which disables almost all forms of healing.
+1.  Abbreviation for [All the Dead Gods](Talents.md#all-the-dead-gods), a Talent that causes your M1s to apply [Anti-Heal](Status_Effects.md#anti-heal) for 8 seconds, which disables almost all forms of healing.
 
 ### Attless
 
@@ -796,15 +807,15 @@ _noun_
 
 1.  Short form for [Curved Blade of Winds](Curved_Blade_of_Winds.md), a legendary weapon for the [Galebreathe](Galebreathe.md) Attunement.
 
-### Clog/Combat Log
+### Clog
 
 (Read as "c-log")  
 _verb_
 
-1.  A short term for [Combat Log](Combat_Tag.md) - leaving or disconnecting while you are in combat. Doing this will automatically make you be "killed" by the player/mob that granted you the combat tag. This is separate from logging in that it's specifically related to logging during combat.
+1.  Short for [Combat Log](#combat-log).
     1.  "Ex. "This guy clogged while we were fighting, probably because of his wifi. He has good loot though."
 
-Not to be confused with the verb outside of Deepwoken _to clog_. To assure you are not combat logging, always use the door button on the top left of your screen that makes your character despawn the moment you click.
+Not to be confused with the verb outside of Deepwoken _to clog_.
 
 ### Crypt
 
@@ -841,7 +852,7 @@ _noun_
 
 _noun_
 
-1.  Short form of "Damage versus Monsters". An equipment attribute that increases your damage towards monsters by percentage stated.
+1.  Short form of "Damage versus Monsters". An equipment attribute and a statistic that increases your damage towards monsters by percentage stated, gained by [Drowned Enchant](Drowned.md), [Megalodaunt Coat](Megalodaunt_Coat.md), [Pathfinder Elite](Pathfinder_Elite.md), or [Echo Unlocks](Echoes.md#upgrades-unlocks-and-modifiers).
     1.  Ex. "There is a possibility that a player can reach 60% DvM in a build"
 
 ### GB
@@ -876,7 +887,8 @@ _noun_
 
 _noun_
 
-1.  Short form for [Light's Final Toll](<Light's_Final_Toll.md>), a Fist weapon scaling off Willpower (Note: Could also stand for looking for team)
+1.  Short form for [Light's Final Toll](<Light's_Final_Toll.md>), a Fist weapon scaling off Willpower
+2.  Could also stand for "looking for team"
 
 ### MA
 
@@ -915,7 +927,7 @@ _noun_
 
 _noun_
 
-1.  Short form for [Reinforced Armor](https://deepwoken.fandom.com/wiki/Talents#:~:text=Reinforced%20Armor), a Talent that reduces all incoming PEN by 30%.
+1.  Short form for [Reinforced Armor](Talents.md#reinforced-armor), a Talent that reduces all incoming PEN by 30%.
     1.  Ex. "Do not forget to get RA before using Shrine of Order."
 
 ### Run a 1/Run \[the\] 1's
@@ -948,7 +960,7 @@ _noun_
 
 _noun_
 
-1.  Abbreviation for [A World Without Song](https://deepwoken.fandom.com/wiki/Talents#:~:text=A%20World%20Without%20Song), a [Galebreathe](Galebreathe.md) Talent that causes every 3 hits with a Galebreathe Mantra to apply [Suffocate](Status_Effects.md#suffocate).
+1.  Abbreviation for [A World Without Song](Talents.md#a-world-without-song), a [Galebreathe](Galebreathe.md) Talent that causes every 3 hits with a Galebreathe Mantra to apply [Suffocate](Status_Effects.md#suffocate).
 
 ## For Editors
 

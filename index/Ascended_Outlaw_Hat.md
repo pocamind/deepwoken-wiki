@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Hat
-revid: 178548
+revid: 205586
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Hats, Head, Craftable, Equipment with Set Bonuses]
@@ -16,9 +16,7 @@ categories: [Equipment, Hats, Head, Craftable, Equipment with Set Bonuses]
 | requirements | PWR 20 |
 | weight | 1 |
 | innate stats | +2 Posture, +1 Legendary Pip |
-| innate talent | Mass Effect |
 | set | Ascended Outlaw Hat, Ascended Outlaw Robes, Ascended Outlaw Boots, Ascended Outlaw Mask |
-| set talent | Offensive Recovery |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Robes
-revid: 178547
+revid: 205587
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses]
@@ -16,9 +16,7 @@ categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses]
 | requirements | PWR 20 |
 | weight | 2 |
 | innate stats | +3 Posture, +1 Rare Pip, +1 Legendary Pip |
-| innate talent | Ether Pinpoint |
 | set | Ascended Outlaw Hat, Ascended Outlaw Robes, Ascended Outlaw Boots, Ascended Outlaw Mask |
-| set talent | Offensive Recovery |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

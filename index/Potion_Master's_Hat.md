@@ -1,6 +1,6 @@
 ---
 title: "Potion Master's Hat"
-revid: 200662
+revid: 205585
 source: https://deepwoken.fandom.com/wiki/Potion_Master's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Hats]
@@ -16,7 +16,6 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Hats]
 | requirements | None |
 | weight | 1 |
 | innate stats | +1 Uncommon Pip |
-| innate talent | Apothecary, Flask Amplifier |
 | bankable | No |
 | droppable | No |
 | enchantable | Yes |

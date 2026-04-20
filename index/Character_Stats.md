@@ -1,6 +1,6 @@
 ---
 title: Character Stats
-revid: 198018
+revid: 205579
 source: https://deepwoken.fandom.com/wiki/Character_Stats
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -90,7 +90,7 @@ Example 2: If you were wearing [Authority Commander](Authority_Commander.md) wit
 ### Damage Vs. Monsters
 
 -   Bonus damage against [Monsters](Monsters.md).
-    -   This stat is exclusive to [Megalodaunt Coat](Megalodaunt_Coat.md) and [Pathfinder Elite](Pathfinder_Elite.md) equipment.
+    -   This stat can only be gained through the [Drowned](Drowned.md) Enchant, Echo Unlocks, and the [Megalodaunt Coat](Megalodaunt_Coat.md) and [Pathfinder Elite](Pathfinder_Elite.md) equipment.
 
 ## Talent Bonuses
 
@@ -104,7 +104,7 @@ These effects can be increased by obtaining Talents that grant these bonuses.
 
 ## Statistics
 
-The following stats are shown on the campfire's summary section.
+The following stats are shown in the journal's summary tab.
 
 ### Time Played
 

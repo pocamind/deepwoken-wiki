@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 205381
+revid: 205580
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, Equipment, In progress with VOI reason]
@@ -2810,13 +2810,7 @@ Black & Crimson |
  | N/A |
 |  | [Eyeglasses](Eyeglasses.md) | +1 Common Pip | N/A |
 | File:BlackHeadband.png | [Headband](Headband.md)  
-(**Series**) | Variant Based:
-
-Black, Orange, Yellow, (+1 Common Pip)  
-Red, (+1 Uncommon Pip)  
-Blue, Green, White, (+1 Rare Pip)
-
- | Variants:  
+(**Series**) | +1 Common Pip | Styles:  
 Black, Orange, Yellow, Red, Blue, Green, & White |
 |  | [Hivelord Mask](Hivelord_Mask.md) | +2 Rare Pips | N/A |
 |  | [Hollow Angel Mask](Hollow_Angel_Mask.md)  

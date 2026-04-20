@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 203936
+revid: 205567
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Vesperian NPCs, NPCs, NPCs located in the Etrean Luminant, Quests, Enemies, Etrea Enemies]
@@ -26,9 +26,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Polis is a [Vesperian](Vesperian.md) NPC. He is a member of [the Justicar](The_Justicar.md) and follows the [Celestial](Celestial.md), [Alsin](Alsin.md).
+Polis is a [Vesperian](Vesperian.md) NPC. He is a member of [the Justicar](The_Justicar.md) and follows the [Celestial](Celestial.md), [Alsin](Alsin.md). He gives a [Gold Ring](Gold_Ring.md) to those who interact with him. When [The Central Authority](The_Central_Authority.md) invades [Etris](Etris.md), he fights to defend Etris along with the guards.
 
-He gives a [Gold Ring](Gold_Ring.md) to those who interact with him. When [The Central Authority](The_Central_Authority.md) invades [Etris](Etris.md), he fights to defend Etris along with the guards.
+Polis can be found sitting under the giant tree in the middle of [Etris](Etris.md)
 
 ## Dialogue
 
@@ -282,4 +282,4 @@ Polis executes his opponent after knocking them:
 -   His name historically means "Greek city state."
 -   His hair ID is [6101425666](https://www.roblox.com/catalog/6101425666/Dark-Messy-Manbun)
 -   Polis has an actual obtainable build if you utilize [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), with all of his [Talents](Talents.md) (_except Audacity_) and all [Mantras](Mantras.md) being obtainable.
--   Polis can be seen in the main menu screen along with [Karliah](Karliah.md) and [Kennith](Kennith.md).
+-   Polis can be seen in the Main Menu screen along with [Karliah](Karliah.md) and [Kennith](Kennith.md).

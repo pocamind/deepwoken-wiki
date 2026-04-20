@@ -1,6 +1,6 @@
 ---
 title: "Rebel's Bandana"
-revid: 198393
+revid: 205577
 source: https://deepwoken.fandom.com/wiki/Rebel's_Bandana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Bandanas]
@@ -30,5 +30,5 @@ The Rebel's Bandana is an [Equipment](Equipment.md) item under the "Face" catego
 
 ## Trivia
 
--   The top half of the item is a Red Headband.
+-   The top half of the item is a red [Headband](Headband.md).
 -   If you are looking to get this Item quickly without losing [The Children of Navae](The_Children_of_Navae.md) reputation, it is best to farm [Summer Isle events](Random_Encounters.md).

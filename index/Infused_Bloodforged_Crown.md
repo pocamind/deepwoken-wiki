@@ -1,6 +1,6 @@
 ---
 title: Infused Bloodforged Crown
-revid: 203816
+revid: 205596
 source: https://deepwoken.fandom.com/wiki/Infused_Bloodforged_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Ornaments]
@@ -11,12 +11,11 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Ornaments]
 | Infused Bloodforged Crown | |
 |---|---|
 | type | Head |
-| rarity | Mythic |
+| rarity | Mythical |
 | selling price | 50 |
 | requirements | N/A |
 | weight | 1 |
 | innate stats | 5 Health, +1 Rare Pip, +1 Legendary Pips |
-| innate talent | No Limits, Cauterized Wounds |
 | bankable | No |
 | droppable | No |
 | enchantable | Yes |

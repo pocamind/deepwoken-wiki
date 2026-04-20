@@ -1,6 +1,6 @@
 ---
 title: Authority Helm
-revid: 180370
+revid: 205592
 source: https://deepwoken.fandom.com/wiki/Authority_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Equipment, Head, Helmets, Drops, Equipment of The Central Authority]
@@ -17,7 +17,6 @@ categories: [Authority Faction Item, Equipment, Head, Helmets, Drops, Equipment 
 | weight | 1 |
 | faction | Authority |
 | innate stats | +8 Health, +1 Uncommon Pips, +1 Rare Pips |
-| innate talent | Strong Hold |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

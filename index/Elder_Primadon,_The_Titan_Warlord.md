@@ -1,6 +1,6 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 196013
+revid: 205561
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters, Bosses]
@@ -215,8 +215,6 @@ Elder Primadon has 99% cannon resistance, according to a tester. So cannon chees
 Unlike [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md), Elder primadon can feint his attacks.
 
 ## Strategy
-
-This guide focuses solely on the mechanics and strategies for defeating the Elder Primadon boss. It does not include information on player-versus-player (PvP) encounters.
 
 The Elder Primadon is a far more challenging opponent than its counterpart, [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md), due to the limited windows for attack. This is particularly true during its enraged state. It is recommended to limit your attacks to one or two strikes after the boss's actions, depending on your weapon's swing speed. This cautious approach is crucial for avoiding its highly lethal counterattacks.
 
