@@ -1,6 +1,6 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 205316
+revid: 205522
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Individuals with He/him pronouns]
@@ -228,7 +228,7 @@ Parry
 -   If the player doesn't hit the Kyrsgarde Champion, Kyrsa's Star, it won't use its **Permafrost Colosseum** move. This lets you be able to practice and leave at any time you want.
     -   Though, if you walk far enough away from the gate, the initial two Kyrsgarde Lancers will respawn. This could either be a useful healthpack, or your untimely end.
 -   Be aware of your positioning, as the space-time collapse vortexes are still active even when you're fighting the Kyrsgarde Champion, Kyrsa's Star.
--   Light weapons and fast medium weapons are better than heavy weapons, since it allows you to get a lot more m1's in between its attacks. Although, heavy is safer if you do not know how to properly fight it yet.
+-   Light weapons and fast medium weapons are better than heavy weapons, since it allows you to get a lot more m1's in between its attacks. Although, heavy is safer if you do not know how to properly fight him yet.
 -   Sustain is very important on this fight, using [Bloodless Gem](Bloodless_Gem.md) on your mantras is recommended.
 -   Defeating the Kyrsgarde Champion, Kyrsa's Star as a group reduces the chances of getting its exclusive drops.
     -   Additionally, most of its exclusive drops are both undroppable and unbankable.
@@ -277,7 +277,7 @@ Parry
 
 ## Trivia
 
--   Kills against the Kyrsgarde Champion contribute towards the general Kyrsgarde [Bestiary](Bestiary.md) entry, so the boosts from that entry should also apply against it.
+-   Kills against the Kyrsgarde Champion contribute towards the general Kyrsgarde [Bestiary](Bestiary.md) entry, so the boosts from that entry should also apply against him.
 -   Climbing over the **Permafrost Colosseum** is possible if it is summoned near certain tall buildings in New Kyrsa.
 
 ## References

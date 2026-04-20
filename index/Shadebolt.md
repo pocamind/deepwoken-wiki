@@ -1,6 +1,6 @@
 ---
 title: Shadebolt
-revid: 205206
+revid: 205521
 source: https://deepwoken.fandom.com/wiki/Shadebolt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Unique Criticals, Medium Weapons, "Attunement-based Weapons", Bows]

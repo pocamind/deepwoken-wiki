@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 205188
+revid: 205508
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -876,7 +876,7 @@ _noun_
 
 _noun_
 
-1.  Short form for [Light's Final Toll](<Light's_Final_Toll.md>), a Fist weapon scaling off Willpower
+1.  Short form for [Light's Final Toll](<Light's_Final_Toll.md>), a Fist weapon scaling off Willpower (Note: Could also stand for looking for team)
 
 ### MA
 
