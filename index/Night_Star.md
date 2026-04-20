@@ -1,6 +1,6 @@
 ---
 title: Night Star
-revid: 204602
+revid: 205558
 source: https://deepwoken.fandom.com/wiki/Night_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Weapons with Talents, Clubs, Medium Weapons]

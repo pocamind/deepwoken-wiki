@@ -1,6 +1,6 @@
 ---
 title: Lost Forge of Leiuna
-revid: 205198
+revid: 205555
 source: https://deepwoken.fandom.com/wiki/Lost_Forge_of_Leiuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, World Event]
@@ -48,12 +48,9 @@ Use **CTRL + F** to search for a specific item.
 
 | Item | Recipe |
 | --- | --- |
-| [Champion's Alloy](<Champion's_Alloy.md>) | 1x [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>)
-1x [Titus' Armor Piece](<Titus'_Armor_Piece.md>)
-
-1x [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>)
-
- |
+| [Champion's Alloy](<Champion's_Alloy.md>) | 1x [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>)  
+1x [Titus' Armor Piece](<Titus'_Armor_Piece.md>)  
+1x [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) |
 | [Gale Enhanced Ring](Gale_Enhanced_Ring.md) | 1x [Finisher's Ring](<Finisher's_Ring.md>)  
 1x [Gale Essence](Gale_Essence.md) |
 | [Gale Enhanced Earrings](Gale_Enhanced_Earrings.md) | 1x [Emerald Tusk Earrings](Emerald_Tusk_Earrings.md)  

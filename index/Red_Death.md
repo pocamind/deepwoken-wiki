@@ -1,6 +1,6 @@
 ---
 title: Red Death
-revid: 205394
+revid: 205560
 source: https://deepwoken.fandom.com/wiki/Red_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Legendary Weapons, "Weapons with Multi-Attunement Scaling", "Attunement-based Weapons", Medium Weapons, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -52,6 +52,8 @@ For the standing critical, the user raises the spear, summoning six stakes of bl
 For the running critical, the user rapidly thrusts the spear while slowly moving forward, inflicting Blood Poisoning every time the target is hit, ending with a final blow that inflicts both Blood Poisoning and Shadow. The user then raises their hand, summoning three stakes that also inflict both Blood Poisoning and Shadow.
 
 Both criticals have a cooldown of **8 seconds.**
+
+Landing a single critical hit will give 15 temporal health.
 
 These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Talents.md) effects.
 

@@ -1,6 +1,6 @@
 ---
 title: Old Blood Earrings
-revid: 205524
+revid: 205531
 source: https://deepwoken.fandom.com/wiki/Old_Blood_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -26,7 +26,7 @@ categories: [Equipment, Ears]
 
 ## Description
 
-Old Blood Earrings are Rare [Equipment](Equipment.md) items under the "Ears" category.
+Old Blood Earrings are an [Equipment](Equipment.md) item under the "Ears" category.
 
 ## Recipes
 

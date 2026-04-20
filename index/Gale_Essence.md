@@ -1,6 +1,6 @@
 ---
 title: Gale Essence
-revid: 205245
+revid: 205547
 source: https://deepwoken.fandom.com/wiki/Gale_Essence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Ingredients]
@@ -33,18 +33,17 @@ This relic is used as a crafting ingredient.
 
 ## Crafting
 
-[Gale Enhanced Ring](Gale_Enhanced_Ring.md) = [Finisher's Ring](<Finisher's_Ring.md>) + 1 **Gale Essence** at [Lost Forge](Lost_Forge_of_Leiuna.md)
+The Gale Essence can craft into a few items with the [Lost Forge](Lost_Forge_of_Leiuna.md) found at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
 
-[Suffocated Enchant Stone](<Suffocated_(enchantment).md>) = [Windswept Enchant Stone](Windswept.md) + 2 **Gale Essence** at [Lost Forge](Lost_Forge_of_Leiuna.md)
-
-[Gale Enhanced Cowl](Gale_Enhanced_Cowl.md) = [Bluster Enchant Stone](Bluster.md) + 1 **Gale Essence** + 1 [Monastery Cowl](Monastery_Cowl.md) at [Lost Forge](Lost_Forge_of_Leiuna.md)
-
-[Gale Enhanced Beads](Gale_Enhanced_Beads.md) = [Windswept Enchant Stone](Windswept.md) + 1 **Gale Essence** + [Monastery Beads](Monastery_Beads.md) at [Lost Forge](Lost_Forge_of_Leiuna.md)
-
-[Gale Enhanced Earrings](Gale_Enhanced_Earrings.md)\= [Emerald Tusk Earrings](Emerald_Tusk_Earrings.md) + 1 **Gale Essence** + 5 [Gale Stone](Gale_Stone.md)
-
-999x [Gale Bullets](Bullet_Casings.md#gale) = 1 [Bullet](Bullet_Casings.md) + 1 **Gale Essence** at [Lost Forge](Lost_Forge_of_Leiuna.md)
+-   [Equipment](Equipment.md)
+    -   [Gale Enhanced Ring](Gale_Enhanced_Ring.md): [Finisher's Ring](<Finisher's_Ring.md>) + 1x Gale Essence
+    -   [Suffocated Enchant Stone](<Suffocated_(enchantment).md>): [Windswept Enchant Stone](Windswept.md) + 2x Gale Essence
+    -   [Gale Enhanced Cowl](Gale_Enhanced_Cowl.md): [Bluster Enchant Stone](Bluster.md) + [Monastery Cowl](Monastery_Cowl.md) + 1x Gale Essence
+    -   [Gale Enhanced Beads](Gale_Enhanced_Beads.md): [Windswept Enchant Stone](Windswept.md) + [Monastery Beads](Monastery_Beads.md) + 1x Gale Essence
+    -   [Gale Enhanced Earrings](Gale_Enhanced_Earrings.md): [Emerald Tusk Earrings](Emerald_Tusk_Earrings.md) + 5x [Gale Stone](Gale_Stone.md) + 1x Gale Essence
+-   Miscellaneous
+    -   999x [Gale Bullets](Bullet_Casings.md#gale): [Bullet](Bullet_Casings.md) + 1x Gale Essence
 
 ## Trivia
 
--   It's previous description read: "Holding it gives you the feeling you could fly.
+-   Its previous description read: "Holding it gives you the feeling you could fly."

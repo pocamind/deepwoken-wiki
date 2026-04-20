@@ -1,6 +1,6 @@
 ---
 title: Revitalizing Pendant
-revid: 204763
+revid: 205540
 source: https://deepwoken.fandom.com/wiki/Revitalizing_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Torso, Necklace, Craftable]
@@ -22,8 +22,6 @@ categories: [Pathfinder Exclusive, Equipment, Torso, Necklace, Craftable]
 | pass down | No |
 | obtainment | Crafted at the Lost Forge with Wheel Pendant, 5x Solar Enchant Stones, and 1x Parasol Membrane |
 | description | ... |
-
-Variants: [Wheel Pendant](Wheel_Pendant.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

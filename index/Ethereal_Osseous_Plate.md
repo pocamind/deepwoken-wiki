@@ -1,6 +1,6 @@
 ---
 title: Ethereal Osseous Plate
-revid: 202502
+revid: 205549
 source: https://deepwoken.fandom.com/wiki/Ethereal_Osseous_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Craftable, Ingredients, Items]
@@ -31,18 +31,10 @@ The **Ethereal Osseous Plate** is an item made with a [Dread Serpent's Tooth](<D
 
 The Ethereal Osseous Plate can be used to craft into other items with the [Lost Forge](Lost_Forge_of_Leiuna.md) found at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
 
-[Equipment](Equipment.md):
-
--   [The No-Life King's Crown](<The_No-Life_King's_Crown.md>)
-    1.  [Bloodforged Crown](Bloodforged_Crown.md) + 1x **Ethereal Osseous Plate** + 1x [Necrotic Membrane](Necrotic_Membrane.md)
--   [Ossified Black Helm](Ossified_Black_Helm.md)
-    1.  [Blacksteel Helm](Blacksteel_Helm.md) + 1x **Ethereal Osseous Plate** + 1x [Shiva's Codex](<Shiva's_Codex.md>)
--   [Ossified Black Pauldrons](Ossified_Black_Pauldrons.md)
-    1.  [Blacksteel Pauldrons](Blacksteel_Pauldrons.md) + 1x **Ethereal Osseous Plate** +1x [Shiva's Codex](<Shiva's_Codex.md>)
--   [Ossified Simple Pauldrons](Ossified_Simple_Pauldrons.md)
-    1.  [Simple Pauldrons](Simple_Pauldrons.md) + 1x **Ethereal Osseous Plate** + 1x [Shiva's Codex](<Shiva's_Codex.md>)
--   [Ossified Phalanx Boots](Ossified_Phalanx_Boots.md)
-    1.  [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md) + 1x **Ethereal Osseous Plate** + 1x [Shiva's Codex](<Shiva's_Codex.md>)
-
--   [Ossified Blood Earrings](Ossified_Blood_Earrings.md)
-    1.  [Old Blood Earrings](Old_Blood_Earrings.md) + 1x **Ethereal Osseous Plate**
+-   [Equipment](Equipment.md):
+    -   [The No-Life King's Crown](<The_No-Life_King's_Crown.md>): [Bloodforged Crown](Bloodforged_Crown.md) + 1x Ethereal Osseous Plate + 1x [Necrotic Membrane](Necrotic_Membrane.md)
+    -   [Ossified Black Helm](Ossified_Black_Helm.md): [Blacksteel Helm](Blacksteel_Helm.md) + 1x Ethereal Osseous Plate + 1x [Shiva's Codex](<Shiva's_Codex.md>)
+    -   [Ossified Black Pauldrons](Ossified_Black_Pauldrons.md): [Blacksteel Pauldrons](Blacksteel_Pauldrons.md) + 1x Ethereal Osseous Plate +1x [Shiva's Codex](<Shiva's_Codex.md>)
+    -   [Ossified Simple Pauldrons](Ossified_Simple_Pauldrons.md): [Simple Pauldrons](Simple_Pauldrons.md) + 1x Ethereal Osseous Plate + 1x [Shiva's Codex](<Shiva's_Codex.md>)
+    -   [Ossified Phalanx Boots](Ossified_Phalanx_Boots.md): [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md) + 1x Ethereal Osseous Plate + 1x [Shiva's Codex](<Shiva's_Codex.md>)
+    -   [Ossified Blood Earrings](Ossified_Blood_Earrings.md): [Old Blood Earrings](Old_Blood_Earrings.md) + 1x Ethereal Osseous Plate

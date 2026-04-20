@@ -1,11 +1,9 @@
 ---
 title: Necrotic Membrane
-revid: 204820
+revid: 205538
 source: https://deepwoken.fandom.com/wiki/Necrotic_Membrane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Items, Ingredients]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Pathfinder Exclusive, Items, Ingredients]
 ---
 
 # Necrotic Membrane
@@ -29,14 +27,15 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The **Necrotic Membrane** is a twisted version of the [Parasol Membrane](Parasol_Membrane.md) dropped by the [Interluminary Parasol](Interluminary_Parasol.md).
+The **Necrotic Membrane** is a twisted version of the [Parasol Membrane](Parasol_Membrane.md) created by the [Lost Forge](Lost_Forge_of_Leiuna.md)
 
 ## Crafting
 
 The Necrotic Membrane can be crafted into an item with the [Lost Forge](Lost_Forge_of_Leiuna.md) found at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
 
-1.  [Necrotic Demon Horns](Necrotic_Demon_Horns.md): [Aazel's Horns](<Aazel's_Horns.md>) + Necrotic Membrane
-2.  [The No-Life King's Crown](<The_No-Life_King's_Crown.md>): [Bloodforged Crown](Bloodforged_Crown.md) + [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md) + Necrotic Membrane
-3.  [Transfusion Ring](Transfusion_Ring.md): [Ring of Pestilence](Ring_of_Pestilence.md) + [Trickster Dust](Trickster_Dust.md) + Necrotic Membrane
-4.  [Necrotic Mask](Necrotic_Mask.md): [Bloodfeather Mask](Bloodfeather_Mask.md) + [Parasol Part](Parasol_Part.md) + Necrotic Membrane
-5.  [Necrotic Cowl](Necrotic_Cowl.md): [Bloodfeather Cowl](Bloodfeather_Cowl.md) + [Parasol Part](Parasol_Part.md) + Necrotic Membrane
+-   [Equipment](Equipment.md):
+    -   [Necrotic Demon Horns](Necrotic_Demon_Horns.md): 1x[Aazel's Horns](<Aazel's_Horns.md>) + 1x Necrotic Membrane
+    -   [The No-Life King's Crown](<The_No-Life_King's_Crown.md>): 1x [Bloodforged Crown](Bloodforged_Crown.md) + 1x [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md) + 1x Necrotic Membrane
+    -   [Transfusion Ring](Transfusion_Ring.md): 1x [Ring of Pestilence](Ring_of_Pestilence.md) + 1x [Trickster Dust](Trickster_Dust.md) + 1x Necrotic Membrane
+    -   [Necrotic Mask](Necrotic_Mask.md): 1x [Bloodfeather Mask](Bloodfeather_Mask.md) + 1x [Parasol Part](Parasol_Part.md) + 1x Necrotic Membrane
+    -   [Necrotic Cowl](Necrotic_Cowl.md): 1x [Bloodfeather Cowl](Bloodfeather_Cowl.md) + 1x [Parasol Part](Parasol_Part.md) + 1x Necrotic Membrane
