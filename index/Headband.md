@@ -1,6 +1,6 @@
 ---
 title: Headband
-revid: 205578
+revid: 205608
 source: https://deepwoken.fandom.com/wiki/Headband
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Bandanas, Equipment Styles]
@@ -12,7 +12,7 @@ categories: [Equipment, Face, Bandanas, Equipment Styles]
 |---|---|
 | type | Face |
 | rarity | Rare |
-| selling price | 7 |
+| selling price | 25 |
 | requirements | None |
 | weight | 0.5 |
 | innate stats | +1 Common Pip |

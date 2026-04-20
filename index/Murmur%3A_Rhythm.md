@@ -1,6 +1,6 @@
 ---
 title: "Murmur: Rhythm"
-revid: 200410
+revid: 205604
 source: https://deepwoken.fandom.com/wiki/Murmur%3A_Rhythm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Murmurs]
@@ -21,7 +21,7 @@ categories: [Murmurs]
 
 Pressing G while crouched, the player will be granted vision of entities and where their event origin is. Entities, such as players, will emit a white ping, while event origin locations beat at 1/4 the speed of normal heartbeats and are yellow with white outlines in addition to being detectable from _much_ further away.
 
-The detection range scales with the user level: higher level means the player will be able to point out sound from further away. Detection range also scales with usage time, gradually growing greater with use, up to a limit of your power level.
+The detection range scales with the user level: higher level means the player will be able to point out sound from further away. Detection range also scales with usage time, gradually growing greater with use, up to a limit of your power level. Also detection range can be increased by 50% with [Ferryman's Ring](<Ferryman's_Ring.md>).
 
 This also allows the user to see a rough estimate of entity health (orange for ~65% or under, red for ~33% or under.).
 

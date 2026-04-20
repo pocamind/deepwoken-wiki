@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 199696
+revid: 205607
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -43,16 +43,16 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
     -   Head:
         -   [Dark Owl Chapeau](Dark_Owl_Chapeau.md) and [Mercenary's Hood](<Mercenary's_Hood.md>) grant 10% Stealth.
         -   [Bloodfeather Cowl](Bloodfeather_Cowl.md), [Bloodcurdle Cowl](Bloodcurdle_Cowl.md), and [Necrotic Cowl](Necrotic_Cowl.md) grant 6% Stealth.
-        -   [Assassin's Hood](<Assassin's_Hood.md>) (all variants), [Rogue Assassin's Hood](<Rogue_Assassin's_Hood.md>), [Monastery Cowl](Monastery_Cowl.md), [Gale Enhanced Cowl](Gale_Enhanced_Cowl.md), and [Hallowed Monastery Cowl](Hallowed_Monastery_Cowl.md) grant 5% Stealth.
+        -   [Assassin's Hood](<Assassin's_Hood.md>), [Rogue Assassin's Hood](<Rogue_Assassin's_Hood.md>), [Monastery Cowl](Monastery_Cowl.md), [Gale Enhanced Cowl](Gale_Enhanced_Cowl.md), and [Hallowed Monastery Cowl](Hallowed_Monastery_Cowl.md) grant 5% Stealth.
         -   [Dark Cowl](Dark_Cowl.md) and Black Hood grant 4% Stealth.
         -   Brown Hood grants 2% Stealth.
     -   Arms:
         -   [Dark Owl Cloak](Dark_Owl_Cloak.md), [Mercenary's Garb](<Mercenary's_Garb.md>), [Bounty Hunter's Garb](<Bounty_Hunter's_Garb.md>), [Ministry Operative Cloak](Ministry_Operative_Cloak.md), and [Prophet's Operative Cloak](<Prophet's_Operative_Cloak.md>) grant 6% Stealth.
         -   [Sandrunner Wraps](Sandrunner_Wraps.md) grants 4% Stealth.
-        -   [Assassin's Cloak](<Assassin's_Cloak.md>) (all variants) grant 3% Stealth.
+        -   [Assassin's Cloak](<Assassin's_Cloak.md>) grants 3% Stealth.
     -   Legs: N/A
     -   Torso:
-        -   Shrouded Capes (all variants) grant 5% Stealth.
+        -   [Shrouded Cape](Shrouded_Cape.md) grants 5% Stealth.
         -   [Dark Owl Cape](Dark_Owl_Cape.md) grants 2% Stealth.
     -   Face:
         -   Duelist's Mask, Corrupted Duelist's Mask grant 6% Stealth.
@@ -60,7 +60,7 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
         -   [Master Thief Earrings](Master_Thief_Earrings.md), [Assassin's Earrings](<Assassin's_Earrings.md>), and [Ossified Blood Earrings](Ossified_Blood_Earrings.md) grant 3% Stealth.
     -   Rings: N/A
     -   Some Equipment items have the [Lowstride](Talents.md#lowstride) Talent:
-        -   [Assassin's Cloak](<Assassin's_Cloak.md>) (all variants), [Hive Scourge Cuirass](Hive_Scourge_Cuirass.md)
+        -   [Assassin's Cloak](<Assassin's_Cloak.md>), [Hive Scourge Cuirass](Hive_Scourge_Cuirass.md), [Tracker's Boots](<Tracker's_Boots.md>)
 -   The [Obvious](Boons_and_Flaws.md#obvious) Flaw grants -20% Stealth.
 
 ### Maximum Stealth

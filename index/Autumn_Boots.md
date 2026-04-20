@@ -1,6 +1,6 @@
 ---
 title: Autumn Boots
-revid: 202472
+revid: 205609
 source: https://deepwoken.fandom.com/wiki/Autumn_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -13,7 +13,7 @@ categories: [Equipment, Legs, Boots]
 | type | Legs |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | PWR 6 |
+| requirements | PWR 5 |
 | weight | 1 |
 | innate stats | +3 Health, +2 Rare Pips |
 | innate talent | N/A |

@@ -1,6 +1,6 @@
 ---
 title: Woodland Boots
-revid: 205321
+revid: 205612
 source: https://deepwoken.fandom.com/wiki/Woodland_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -13,7 +13,7 @@ categories: [Equipment, Legs, Boots]
 | type | Legs |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 6 |
+| requirements | None |
 | weight | 1 |
 | innate stats | +1 Rare Pip |
 | innate talent | Woodland Terrain |
