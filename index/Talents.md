@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 205665
+revid: 205684
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1688,7 +1688,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   The projectile M1s from this Talent can proc True Ether Bullets.
     -   Prerequisites: 75 Light Weapon, Using a Pistol
 
--   Quick Draw \[Common Talent, Light Weapon\] - Allows you to fire your offhand gun right after swinging. \[Not necessary on dual guns\]
+-   Quickdraw \[Common Talent, Light Weapon\] - Allows you to fire your offhand gun right after swinging. \[Not necessary on dual guns\]
     -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon
     -   Prerequisites: 55 Light Weapon, Using a Pistol
 

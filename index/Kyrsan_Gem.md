@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Gem
-revid: 205616
+revid: 205683
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Deep Gems, Mantras, Treasures]
@@ -35,9 +35,11 @@ It is exclusively obtained by defeating the [Kyrsgarde Champion](<Kyrsgarde_Cham
 
 On hit, apply [Kyrsan Chill](Status_Effects.md#kyrsan-chill); a stacking 6 second slow. This has a 1 second cooldown.
 
+This slows by 20%, with each subsequent stack slowing by an additional 4%.
+
 ### Notes
 
--   The first stack apply a 20% slow. All subsequent stack increase this slow by 4%.
+-   Landing different Mantras **will not** increase the slow. Stack count can only be increased by landing the Mantra that applied the initial stack.
 -   This Gem's cooldown is currently bugged, having a no cooldown instead of the 1s CD it's supposed to have.
 
 ## Trivia

@@ -1,6 +1,6 @@
 ---
 title: Regenerative Pendant
-revid: 204813
+revid: 205680
 source: https://deepwoken.fandom.com/wiki/Regenerative_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Craftable, Torso, Necklaces, Equipment with Set Bonuses]
@@ -46,7 +46,7 @@ Set Talent: [Critical Heal](Talents.md#critical-heal) - Everytime you heal, you 
 
 The following sources of healing **cannot** proc Critical Heal:
 
--   Any source of 'passive' healing (unexhaustie list below)
+-   Any source of 'passive' healing (unexhaustive list below)
     -   Passive health regeneration
     -   [Curse of the No Life King](Curse_of_the_No_Life_King.md)
     -   [Chorus of Souls](Talents.md#chorus-of-souls)

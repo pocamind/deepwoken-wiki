@@ -1,9 +1,9 @@
 ---
 title: Polis
-revid: 205567
+revid: 205678
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Vesperian NPCs, NPCs, NPCs located in the Etrean Luminant, Quests, Enemies, Etrea Enemies]
+categories: [Pathfinder Exclusive, Vesperian NPCs, NPCs, NPCs located in the Etrean Luminant, Quests, Enemies, Etrea Enemies, Individuals with unspecified pronouns]
 ---
 
 # Polis
