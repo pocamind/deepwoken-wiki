@@ -1,6 +1,6 @@
 ---
 title: Elykris
-revid: 200413
+revid: 205652
 source: https://deepwoken.fandom.com/wiki/Elykris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Individuals with unspecified pronouns]
@@ -28,7 +28,7 @@ Elykris is a [Celtor](Celtor.md) NPC. They are investigating [the Ministry](The_
 
 They give the quest "Ministry Secrets" that tasks [The Pathfinder](The_Pathfinder.md) to find a field report located inside of [Outpost Antumbra](Outpost_Antumbra.md), by the ladder to [Trial of One](Trial_of_One.md). The quest rewards them with 3 Aces and a Curiosity [Talent](Talents.md) hand.
 
-Elykris wears the old version of the [Darksteel Plate](Darksteel_Plate.md) outfit, a Black Parka, a [Black Blindfold](Blindfold.md), and a [Brigand's Bicorn](<Brigand's_Bicorn.md>).
+Elykris wears the old version of the [Darksteel Plate](Darksteel_Plate.md) outfit, a Black [Fur Parka](Fur_Parka.md), a [Black Blindfold](Blindfold.md), and a [Brigand's Bicorn](<Brigand's_Bicorn.md>).
 
 ## Location
 

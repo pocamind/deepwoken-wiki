@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 204600
+revid: 205664
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, World Event, Monsters, Bosses]
@@ -146,11 +146,11 @@ Exhaustive Loot Table
     <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:
   <ol>
     <li><b>Unique Arms</b>: <a href="Summer_Scarf.md"><font>Summer Scarf</font></a> (All Variants)</li>
-    <li><b>Generic Arms</b>: <a href="Blacksteel_Pauldrons.md">Blacksteel Pauldrons</a>, <a href="Hive_Scourge_Cuirass.md">Hive Scourge Cuirass</a>, <a href="Legion_Phalanx_Plate.md">Legion Phalanx Plate</a>, Parka (White), <a href="Sandrunner_Wraps.md">Sandrunner Wraps</a></li>
+    <li><b>Generic Arms</b>: <a href="Blacksteel_Pauldrons.md">Blacksteel Pauldrons</a>, <a href="Fur_Parka.md">Fur Parka</a>, <a href="Hive_Scourge_Cuirass.md">Hive Scourge Cuirass</a>, <a href="Legion_Phalanx_Plate.md">Legion Phalanx Plate</a>, <a href="Sandrunner_Wraps.md">Sandrunner Wraps</a></li>
   </ol></li>
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: N/A</li>
     <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Dark_Owl_Cape.md">Dark Owl Cape</a>, <a href="Sandrunner_Scarf.md">Sandrunner Scarf</a></li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Aristocrat_Eyeglasses.md">Aristocrat Eyeglasses</a> (Red), <a href="Citadel_Frames.md">Citadel Frames</a> (All Variants), <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>, <a href="Iron_Mask.md">Iron Mask</a></li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Aristocrat_Eyeglasses.md">Aristocrat Eyeglasses</a>, <a href="Citadel_Frames.md">Citadel Frames</a> (All Variants), <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>, <a href="Iron_Mask.md">Iron Mask</a></li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Dew_Drop_Earrings.md">Dew Drop Earrings</a></li>
     <li><a href="Equipment.md#rings"><b>Rings</b></a>: <a href="Akira's_Ring.md"><font>Akira's Ring</font></a>, <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a></li>
   </ul></td>

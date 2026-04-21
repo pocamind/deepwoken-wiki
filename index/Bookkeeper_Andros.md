@@ -1,6 +1,6 @@
 ---
 title: Bookkeeper Andros
-revid: 192871
+revid: 205662
 source: https://deepwoken.fandom.com/wiki/Bookkeeper_Andros
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -94,7 +94,7 @@ Bookkeeper Andros is located in [Etris](Etris.md) in his small library that is n
 </tr>
 <tr>
   <td>If you head past the inn, you'll find the Lord Regent's estate. I would not advise entering without an invitation, however. Even a bookish fool such as I knows when I am not welcome.</td>
-  <td>There is much for us all to learn about it and its people. I'm by no means an expert, but my grandfather was one of the Old Stewards, the keepers of the knowledge of the <a href="Glossary.md#the-old-world">Old World</a>. Perhaps if you were able to find one of these Old Stewards they might be able to answer any burning questions of yours.</td>
+  <td>There is much for us all to learn about it and its people. I'm by no means an expert, but my grandfather was one of the <a href="Glossary.md#the-old-stewards">Old Stewards</a>, the keepers of the knowledge of the <a href="Glossary.md#the-old-world">Old World</a>. Perhaps if you were able to find one of these <a href="Glossary.md#the-old-stewards">Old Stewards</a> they might be able to answer any burning questions of yours.</td>
 </tr>
 <tr>
   <td>Who is this Lord Regent exactly?</td>

@@ -1,6 +1,6 @@
 ---
 title: Fang and Coil
-revid: 205073
+revid: 205639
 source: https://deepwoken.fandom.com/wiki/Fang_and_Coil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons, Weapons with multiple Criticals]
@@ -43,6 +43,8 @@ If you have Fang and Coil and other [Fist Styles](Fists.md) (except for [Jus Kar
 In order to obtain it you must speak to [Vesque](Vesque.md), an NPC located in the [Isle of Vigils](Isle_of_Vigils.md) near the Barber and the Attunement [Training Gear](Training_Gear.md) store, while having above 20 Light Weapon, [Etrea](Etrea.md) **Ally** Reputation or higher and having defeated [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) in such a way that awards a chest. These steps can conveniently be done in any order and lack a level requirement. You will receive the Fang and Coil Talent, granting you the fighting style and allowing you to select it from the Character Creation screen.
 
 Vesque
+
+  
 
 ## Criticals
 

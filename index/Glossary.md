@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 205282
+revid: 205671
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -117,7 +117,7 @@ Dialogue: [The Gaunt Man](The_Gaunt_Man.md)
 
 -   The strange inhabitants of the [Eternal Gale](#the-eternal-gale-the-second-layer). In contrast to the ferocious beasts that stalk its wastes, the [Kyrsans](#kyrsan--kyrsgarde) dwell in small villages sheltered from the gale.
 
-Dialogue: [??? (Scion Caller)](<%253F%253F%253F_(Scion_Caller).md>), [Amenre Skiggle Bop](Amenre_Skiggle_Bop.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [C'lantaa](<C'lantaa.md>), [Kaide](Kaide,_the_Drowned_Light.md), [Mendacia](Mendacia.md), [Misérables](Misérables.md), [Naerotiv](Naerotiv.md), [Okumay](Okumay.md) | Books: [Diver Journal, I](#diver-journal-i) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [Raeva](#raeva)
+Dialogue: [??? (Scion Caller)](<%253F%253F%253F_(Scion_Caller).md>), [Amenre Skiggle Bop](Amenre_Skiggle_Bop.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [C'lantaa](<C'lantaa.md>), [Kaide](Kaide,_the_Drowned_Light.md), [Mendacia](Mendacia.md), [Misérables](Misérables.md), [Naerotiv](Naerotiv.md), [Okumay](Okumay.md) | Books: [Diver Journal, I](#diver-journal-i) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kaide, the Drowned Light](#kaide-the-drowned-light), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [Raeva](#raeva)
 
 -   According to [Kaide](#kaide-the-drowned-light), the ruins within the [Second Layer](#the-eternal-gale-the-second-layer) are neither of [Celestial](#the-celestials) or Human make, having been constructed by the [Kyrsans](#kyrsan--kyrsgarde).
 -   [Kaide](#kaide-the-drowned-light) suggested that the [Second Layer](#the-eternal-gale-the-second-layer) may once have been the [Kyrsan](#kyrsan--kyrsgarde) world before it was consumed by the [Depths](#the-depths).
@@ -148,17 +148,6 @@ Dialogue: | Books: | Glossary Entries: [The Moonseye](#the-moonseye)
 -   The [Moonseye](#the-moonseye) may well be the collective souls of the Old Dead.
 
 Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) if the player is a [Dawnwalker](Oath%253A_Dawnwalker.md) and has spoken to [Kaide](Kaide,_the_Drowned_Light.md) with a [Soulthorn](Soulthorn.md) equipped
-
-### Raeva
-
--   One of the main [Celestials](#the-celestials) said to have presided over the city of [Constellia](#constellia-the-guiding-star) prior to the reign of [Kaide](#kaide-the-drowned-light).
--   The name 'Raeva' appears to have also been used by a certain 'Raeva Ferash Kenestos' - a [Kyrsan](#kyrsan--kyrsgarde) who presumably broke free of [Ethiron's](#ethiron-the-maelstroms-eye) thrall through unknown means.
-
-Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) after reading [Words of Light](Words_of_Light.md)
-
--   According to [Kaide](#kaide-the-drowned-light), it was thought that Raeva had abandoned the city before the invasion of the [Kyrsgarde](#kyrsan--kyrsgarde), like the other [Celestials](#the-celestials) - but it is possible this may not have been the case.
-
-Dialogue: [Kaide](Kaide,_the_Drowned_Light.md)
 
 ### Yun'Shul, Keeper of Hearts
 
@@ -203,6 +192,18 @@ Dialogue: [Akira](Akira.md), [Alpha](Alpha.md), [Amara](Amara.md), [Beiruul](Bei
 
 Dialogue: [Alpha](Alpha.md), [Carrion](Carrion,_Father_of_Evolution.md), [Galpin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), [Karliah](Karliah.md), [Sachan Shisui Kobura](Sachan_Shisui_Kobura.md), [Santen](Santen.md) | Books: [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>), [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [The Divers](#the-divers), [The High Convocation](#the-high-convocation), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
 
+### The Old Stewards
+
+-   Keepers of the knowledge of the [Old World](#the-old-world), the Old Stewards are an organisation clad in esotericism and mystique.
+-   As the knowledge they wield is often dangerous, the Stewards operate in secrecy in remote cells and hideouts, conducting their research often in solitude.
+
+Dialogue: [Adrofalis](Adrofalis.md), [Bookkeeper Andros](Bookkeeper_Andros.md), [Ciea](Ciea.md) | Books: [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) | Glossary Entries:
+
+-   Adrofalis mentioned a [Vow](#vows) of Stewardship that members take.
+-   Apparently, the [Vow](#vows) of Stewardship requires them to die before yielding their secrets under interrogation.
+
+Dialogue: [Adrofalis](Adrofalis.md) after maxing [Saltchemist](Oath%253A_Saltchemist.md)
+
 ### The Starkindred Faith
 
 -   The Starkindred Faith is a major religion within [Lumen](#lumen) that hails from the [Western Luminant](#the-western-luminant). The [Celestials](#the-celestials) are worshipped by those of the faith as members of a divine pantheon.
@@ -246,6 +247,11 @@ Dialogue: | Books: [Capran Aphorisms](Capran_Aphorisms.md) | Glossary Entries:
 -   The last [Lightborn](#lightborn) king of [Constellia](#constellia-the-guiding-star) before its fall.
 
 Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Lightborn](#lightborn), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [Raeva](#raeva), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer), [The Celestials](#the-celestials)
+
+-   Kaide noted that his capture was unusual, as a strange [Kyrsan](#kyrsan--kyrsgarde) commander intervened on his behalf, saving him from death, whereas the other [Lightborn](#lightborn) were seemingly given no quarter.
+-   Remarkably, Kaide's captor seemed more 'lucid' than his fellow [Kyrsan](#kyrsan--kyrsgarde) warriors, and carried a weapon of Constellian design - a glaive bearing motifs of the [Moonseye](#the-moonseye).
+
+Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) after reading [Words of Light](Words_of_Light.md)
 
 -   As his city was razed, Kaide was captured and taken to [New Kyrsa](#the-city-of-new-kyrsa)
 -   Kaide now waits out the end of eternity.
@@ -299,6 +305,17 @@ Dialogue: | Books: [Capran Aphorisms](Capran_Aphorisms.md) | Glossary Entries:
 
 Dialogue: [Aska](Aska.md), [Laplace](Laplace.md) if the player has a [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) equipped, [Ploom](Ploom.md) | Books: | Glossary Entries: [Deepwoken](#deepwoken), [Flamecharm](#flamecharm), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance)
 
+### Raeva
+
+-   One of the main [Celestials](#the-celestials) said to have presided over the city of [Constellia](#constellia-the-guiding-star) prior to the reign of [Kaide](#kaide-the-drowned-light).
+-   The name 'Raeva' appears to have also been used by a certain 'Raeva Ferash Kenestos' - a [Kyrsan](#kyrsan--kyrsgarde) who presumably broke free of [Ethiron's](#ethiron-the-maelstroms-eye) thrall through unknown means.
+
+Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) after reading [Words of Light](Words_of_Light.md)
+
+-   According to [Kaide](#kaide-the-drowned-light), it was thought that Raeva had abandoned the city before the invasion of the [Kyrsgarde](#kyrsan--kyrsgarde), like the other [Celestials](#the-celestials) - but it is possible this may not have been the case.
+
+Dialogue: [Kaide](Kaide,_the_Drowned_Light.md)
+
 ### Thalassis / The Acolyte
 
 -   [The Acolyte](#thalassis--the-acolyte) is a lead ambassador for the [Lullaby Isles](#the-lullaby-isles), leading groups of scholars to and from the Greathive Aratel in order to exchange knowledge, updates and information.
@@ -316,12 +333,31 @@ Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) if the player has a [Soulthorn](S
 
 ## Magic
 
+### Bloodrend
+
+-   The ability to manipulate flesh and blood through the [Song](#the-song).
+-   Rarely wielded with precision, most make use of Bloodrend for its destructive capabilities.
+
+Dialogue: [Vyrelda](Vyrelda,_Master_of_Blood.md) | Books: | Glossary Entries:
+
 ### Flamecharm
 
 -   The ability to conjure flames and heat through the [Song](#the-song).
 -   As an attunement, [Flamecharm](#flamecharm) is thought to have been discovered and pioneered by Amorus [Pleeksty](#amorus-pleeksty), who is said to have descended into the [Third Layer](#the-vents-the-third-layer) and consumed a flower of [Korilfiend](#korilfiend-the-infernos-provenance). Productions of flame through the [Song](#the-song) are recorded in histories prior to [Pleeksty's](#amorus-pleeksty) discovery of the attunement, and indeed these were the foundation of the so-called Songwork that spurred the [Canticlysm's](#the-canticlysm) industry.
 
 Dialogue: [Amashi](Amashi,_Master_of_Flame.md), [Ploom](Ploom.md), [Zana](Zana.md) | Books: [God in the Machine](God_in_the_Machine.md), [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv) | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Flamecharm](#flamecharm), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance)
+
+### Frostdraw
+
+-   The ability to generate ice and reduce temperatures through the [Song](#the-song).
+
+Dialogue: | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>) | Glossary Entries:
+
+### Galebreathe
+
+-   The ability to manipulate air through the [Song](#the-song).
+
+Dialogue: | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>) | Glossary Entries:
 
 ### Hereditary Vow
 
@@ -332,6 +368,12 @@ Dialogue: | Books: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritan
 -   Steward Bridges posited in his work '[Vows](#vows) by the Sea: Inheritance' that the [Aspects](#aspects) of [Lumen](#lumen) may be the result of a Hereditary Vow.
 
 Book: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md)
+
+### Ironsing
+
+-   The ability to manipulate metallic substances through the [Song](#the-song).
+
+Dialogue: | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>) | Glossary Entries:
 
 ### Lifeweave / Lifewoven
 
@@ -407,6 +449,13 @@ Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md)
 
 Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [Lightkeep](#lightkeep)
 
+### Shadowcast
+
+-   The ability to draw on the strength of shadows through the [Song](#the-song).
+-   At times considered taboo, Shadowcast conceptually relies on the draining of substance.
+
+Dialogue: [Nostor](Nostor,_Master_of_Shadow.md) | Books: | Glossary Entries:
+
 ### The Song
 
 -   Thought to be the source of much of the 'magic' of [Lumen](#lumen), its wielders often invoke its magic through the use of [Mantras](#mantra).
@@ -415,7 +464,13 @@ Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Gloss
 -   The Song is not strictly music — it's not composed of sounds, or even words that can be pronounced by humans. However, much of the terminology surrounding the Song is musical in nature due to its striking similarities.
 -   Many believe that the Song was responsible for the advent of the [Tides](#the-tides), and of the resulting collapse of civilisation. In spite of the dangers many believe are presented by the Song, it has become a necessity for survival in a Post-Tidal world due to the power it grants.
 
-Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Celestial Telescope](Greathive_Aratel.md#observatory-2), [Kaide](Kaide,_the_Drowned_Light.md), [Kelsius](Kelsius.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Leaf Spellhardt](Leaf_Spellhardt.md), [Nimea](Nimea.md), [Regek](Regek.md), [Sibex](Sibex.md), [The Dreadstar](The_Dreadstar.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>), [Our Fortress (Of Smoke And Steel)](<Our_Fortress_(Of_Smoke_And_Steel).md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Deepwoken](#deepwoken), [Flamecharm](#flamecharm), [Lightkeep](#lightkeep), \[#Lifeweave / Lifewoven|Lifeweave / Lifewoven\]\], [Mantra](#mantra), [Oaths](#oaths), [Radiant Tones](#radiant-tones), [Talent](#talent), [The Canticlysm](#the-canticlysm), [The Celestials](#the-celestials), [The Drowned Gods](#the-drowned-gods), [Vows](#vows)
+Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Celestial Telescope](Greathive_Aratel.md#observatory-2), [Kaide](Kaide,_the_Drowned_Light.md), [Kelsius](Kelsius.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Leaf Spellhardt](Leaf_Spellhardt.md), [Nimea](Nimea.md), [Regek](Regek.md), [Sibex](Sibex.md), [The Dreadstar](The_Dreadstar.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>), [Our Fortress (Of Smoke And Steel)](<Our_Fortress_(Of_Smoke_And_Steel).md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Bloodrend](#bloodrend), [Deepwoken](#deepwoken), [Flamecharm](#flamecharm), [Frostdraw](#frostdraw), [Galebreathe](#galebreathe), [Ironsing](#ironsing), [Lightkeep](#lightkeep), [Lifeweave / Lifewoven](#lifeweave--lifewoven), [Mantra](#mantra), [Oaths](#oaths), [Radiant Tones](#radiant-tones), [Shadowcast](#shadowcast), [Talent](#talent), [The Canticlysm](#the-canticlysm), [The Celestials](#the-celestials), [The Drowned Gods](#the-drowned-gods), [Thundercall](#thundercall), [Vows](#vows)
+
+### Thundercall
+
+-   The ability to produce and manipulate electromagnetism through the [Song](#the-song).
+
+Dialogue: | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>) | Glossary Entries:
 
 ### Vows
 
@@ -425,7 +480,7 @@ Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Celes
 -   Vows are poorly understood by the people of the [Resurgence](#the-resurgence), but are still a fundamental part of their daily lives.
 -   Vows do not have to be made with others, and can even be made with oneself. Indeed, the powerful magic of an [Oath](#oaths) is facilitated by such a Vow.
 
-Dialogue: [Adrofalis](Adrofalis.md), [Delta](Delta.md), [Eiris](Eiris.md), [Lance's Brother](<Lance's_Brother.md>), [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md), [Samael](Samael.md), [Sordino](Sordino.md), [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) | Books: [Jericho's Journal](<Jericho's_Journal.md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Aeod, the Waking God](#aeod-the-waking-god), [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [Lifeweave / Lifewoven](#lifeweave--lifewoven), [Oaths](#oaths), [The Drowned City of Celtor](#the-drowned-city-of-celtor)
+Dialogue: [Adrofalis](Adrofalis.md), [Delta](Delta.md), [Eiris](Eiris.md), [Lance's Brother](<Lance's_Brother.md>), [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md), [Samael](Samael.md), [Sordino](Sordino.md), [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) | Books: [Jericho's Journal](<Jericho's_Journal.md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Aeod, the Waking God](#aeod-the-waking-god), [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [Lifeweave / Lifewoven](#lifeweave--lifewoven), [Oaths](#oaths), [The Drowned City of Celtor](#the-drowned-city-of-celtor), [The Old Stewards](#the-old-stewards)
 
 -   Steward Bridges posited in his work 'Vows by the Sea: Inheritance' that the [Aspects](#aspects) of [Lumen](#lumen) may be the result of a [Hereditary Vow](#hereditary-vow).
 
@@ -446,7 +501,7 @@ Dialogue: | Books: | Glossary Entries: [Lighthouses](#lighthouses)
 -   Many believe that the Moonseye is a gate to the afterlife, and that their ancestors look down upon them from it.
 -   The light produced by the Moonseye is its own, and not a reflection of the [Suncross](#the-suncross).
 
-Dialogue: [Hiri](Hiri.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Lake](Lake.md), [Samael](Samael.md), [Soothsayer](Soothsayer.md) | Books: [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>), [Lament of Cirryn](Lament_of_Cirryn.md), [Neatly Embelished Notebook](Neatly_Embelished_Notebook.md), [O Pardoner of Mine](O_Pardoner_of_Mine.md) | Glossary Entries: [Jurik, the Moonseye](#jurik-the-moonseye), [The Lullaby Isles](#the-lullaby-isles), [The Old Dead](#the-old-dead), [The Suncross](#the-suncross), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
+Dialogue: [Hiri](Hiri.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Lake](Lake.md), [Samael](Samael.md), [Soothsayer](Soothsayer.md) | Books: [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>), [Lament of Cirryn](Lament_of_Cirryn.md), [Neatly Embelished Notebook](Neatly_Embelished_Notebook.md), [O Pardoner of Mine](O_Pardoner_of_Mine.md) | Glossary Entries: [Jurik, the Moonseye](#jurik-the-moonseye), [Kaide, the Drowned Light](#kaide-the-drowned-light), [The Lullaby Isles](#the-lullaby-isles), [The Old Dead](#the-old-dead), [The Suncross](#the-suncross), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
 
 -   Evidence seems to support the theory that the Moonseye is a mass of souls.
 -   If the Moonseye is a mass of souls, it may well be that it holds the souls of the [Old Dead](#the-old-dead).
@@ -493,7 +548,7 @@ Dialogue: [Celestial Telescope](Greathive_Aratel.md#observatory-2), [Ploom](Ploo
 -   The times before the [Tides](#the-tides) arrived.
 -   The [Canticlysm](#the-canticlysm) is often thought of as the defining era of the [Old World](#the-old-world).
 
-Dialogue: [Adrofalis](Adrofalis.md), [Bookkeeper Andros](Bookkeeper_Andros.md), [Regek](Regek.md) | Books: [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>), [Children of the Aftertide I](Children_of_the_Aftertide.md#vol-1), [Coldheart's Journal](<Coldheart's_Journal.md>), [Lumen's Folklore: Volume 'North'](<Lumen's_Folklore.md#volume-north>), [Our Fortress (Of Smoke And Steel)](<Our_Fortress_(Of_Smoke_And_Steel).md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [The Luminants](#the-luminants), [The Old World](#the-old-world)
+Dialogue: [Adrofalis](Adrofalis.md), [Bookkeeper Andros](Bookkeeper_Andros.md), [Regek](Regek.md) | Books: [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>), [Children of the Aftertide I](Children_of_the_Aftertide.md#vol-1), [Coldheart's Journal](<Coldheart's_Journal.md>), [Lumen's Folklore: Volume 'North'](<Lumen's_Folklore.md#volume-north>), [Our Fortress (Of Smoke And Steel)](<Our_Fortress_(Of_Smoke_And_Steel).md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [The Luminants](#the-luminants), [The Old Stewards](#the-old-stewards), [The Old World](#the-old-world)
 
 ### The Resurgence
 
@@ -794,6 +849,7 @@ Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Eastern Camp Master](Cheral.
 -   In many cases, words may end up linking to terms entirely unrelated to their contextual meaning. For example, the word "city" links to _The Drowned City of Celtor_ even if the city the dialogue was referring to wasn't Celtor at all. Similarly, the word "Luminant" will often link to _The Central Luminant_ even when referring to entirely different Luminants.
 -   In some other cases, different words can be detected for the same thing, but have entirely different glossary entries when popped up.[\[1\]](#cite-note-1)
     -   This occurs to the entries "Kyrsan / Kyrsgarde" and "Thalassis / The Acolyte."
+-   There was once an entry for the term "Power" before being shadow removed.
 
 ## References
 

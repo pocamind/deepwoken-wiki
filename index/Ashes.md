@@ -1,6 +1,6 @@
 ---
 title: Ashes
-revid: 204594
+revid: 205673
 source: https://deepwoken.fandom.com/wiki/Ashes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Craftable]
@@ -24,10 +24,6 @@ categories: [Treasures, Craftable]
 ## Description
 
 _Ashes_, not to be confused with the [Sinner's Ash](<Sinner's_Ash.md>) is an item that can be crafted at any [campfire](Campfire_Pit.md), only requiring 1 [Wood](Wood.md) to be crafted.
-
-## Usage
-
--   Potential sacrifice to summon [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
 ## Trivia
 

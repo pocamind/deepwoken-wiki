@@ -1,6 +1,6 @@
 ---
 title: Fur Parka
-revid: 205525
+revid: 205668
 source: https://deepwoken.fandom.com/wiki/Fur_Parka
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Parkas]
@@ -35,4 +35,4 @@ The Parka is an [Equipment](Equipment.md) item under the "Arms" category. They a
 -   As seen above, Brown Parka is the only Parka without square pads.
 -   White Parka has different innate stats/pips compared to Black & Brown. White has +2 Health, +1 Rare Pip, and +1 Uncommon Pip while the others have 2 Health, 1 Posture, and +1 Rare Pip.
 -   The Black Parka variant is worn by Authority Captains and can be obtained by them upon defeat.
--   Parkas look similar to Overcoats
+-   Parkas look similar to the [Trimmed Overcoat](Trimmed_Overcoat.md).

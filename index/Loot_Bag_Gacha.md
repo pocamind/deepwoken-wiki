@@ -1,6 +1,6 @@
 ---
 title: Loot Bag Gacha
-revid: 205409
+revid: 205653
 source: https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Articles with conjectural titles, Pathfinder Exclusive, NPCs, Mechanics, Quests, Vendors]
@@ -47,7 +47,7 @@ Kujae
 -   [Dew Drop Earrings](Dew_Drop_Earrings.md)
 -   [Falchion](Falchion.md)
 -   [Novice Boots](Novice_Boots.md)
--   Parkas
+-   [Fur Parka](Fur_Parka.md)
 -   [Rebel's Bandana](<Rebel's_Bandana.md>)
 -   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
 

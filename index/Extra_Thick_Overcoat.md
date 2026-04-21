@@ -1,6 +1,6 @@
 ---
 title: Extra Thick Overcoat
-revid: 205377
+revid: 205635
 source: https://deepwoken.fandom.com/wiki/Extra_Thick_Overcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms]
@@ -24,7 +24,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms]
 | obtainment | TBA |
 | description | An essential winter coat to protect you against the cold. |
 
-Variants: [Overcoat](Trimmed_Overcoat.md)
+Variants: [Trimmed Overcoat](Trimmed_Overcoat.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

@@ -1,6 +1,6 @@
 ---
 title: Ethereal Bone Dust
-revid: 205349
+revid: 205640
 source: https://deepwoken.fandom.com/wiki/Ethereal_Bone_Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients]
@@ -24,8 +24,6 @@ categories: [Items, Ingredients]
 ## Description
 
 **Ethereal Bone Dust** is a crafting ingredient that is a chest drop by the [Scion of Ethiron](Scion_of_Ethiron.md).
-
-if you hold it for 25 minutes and 30 seconds, you will violently explode, this sends you into the [Depths](The_Depths.md), and counts as drown
 
 ## Crafting
 

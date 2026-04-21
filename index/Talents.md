@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 205371
+revid: 205665
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -145,7 +145,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Removes ice's bonus slide distance, but **does not** affect the lowered friction when moving on ice.
         -   This is a considerable downside to Frostdraw users, as there is no upside to this effect, it is **not recommended**.
     -   Prerequisites: 10 Agility, 10 Strength
-    -   The Parkas equipment (all variants) have this Talent.
+    -   The [Fur Parka](Fur_Parka.md) equipment has this Talent.
 
 -   Time To Go \[Common Talent, Agility\] - Taking a life grants a speed boost for 10 seconds. Taking a player's life doubles the speed boost and the duration. (+1 Passive Agility)
     -   Provides a 25% speed boost, doubling to 50% when killing a player.
