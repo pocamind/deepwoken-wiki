@@ -1,6 +1,6 @@
 ---
 title: Depthsplitter
-revid: 205507
+revid: 205631
 source: https://deepwoken.fandom.com/wiki/Depthsplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Twinblades, Weapons with Talents, Medium Weapons]
@@ -33,7 +33,7 @@ categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Twinblades, 
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | In depths near the diver's encampment |
+| obtainment | The Forest of Lights (Vow of Iron) |
 | description | An ancient Etrean twinblade, recently rediscovered as a fragment of driftland surfaced, revealing the remnants of a long-lost Etrean platoon that had perished and been claimed by the void ages ago. Now, this weapon, once thought lost to time, has re-emerged into circulation, carrying with it echoes of forgotten battles. |
 
 Variants: [Scalesplitter](Scalesplitter.md)

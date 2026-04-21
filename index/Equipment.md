@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 205580
+revid: 205632
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, Equipment, In progress with VOI reason]
@@ -1304,6 +1304,16 @@ _+1 Posture_
  | Set: Flameguard  
 Arms: [Flameguard Pauldrons](Flameguard_Pauldrons.md)  
 Legs: [Flameguard Boots](Flameguard_Boots.md) |
+| File:White Parka.png | [Fur Parka](Fur_Parka.md)  
+(**Series**) | _+2 Health_  
+_+1 Posture_
+
++1 Rare Pip  
+  
+**Requires Power 5**
+
+ | Styles:  
+Black, Brown & White |
 | File:Black Fur Pauldrons.png | [Fur Pauldrons](Fur_Pauldrons.md)  
 (**Series**)  
 (**Set**) | _+3 Health_
@@ -1617,25 +1627,6 @@ _+1 Posture_
 
  | Variants:  
 Simple & Ossified Simple |
-| File:Brown Overcoat.png | [Overcoat](Trimmed_Overcoat.md)  
-(**Series**) | _+3 Health_
-
-+1 Uncommon Pip  
-+1 Rare Pip  
-**Requires Power 5**
-
- | Styles:  
-Black, Brown, & White |
-| File:White Parka.png | [Parka](Fur_Parka.md)  
-(**Series**) | _+2 Health_  
-_+1 Posture_
-
-+1 Rare Pip  
-  
-**Requires Power 5**
-
- | Styles:  
-Black, Brown & White |
 | File:Crimson elite pathfinder.png | [Pathfinder Elite](Pathfinder_Elite.md)  
 (**Series**)  
 (**Animated**)  
@@ -1847,6 +1838,15 @@ _+1 Posture_
  | Set: Tracker  
 Arms: [Tracker's Brace](<Tracker's_Brace.md>)  
 Legs: [Tracker's Boots](<Tracker's_Boots.md>) |
+| File:Brown Overcoat.png | [Trimmed Overcoat](Trimmed_Overcoat.md)  
+(**Series**) | _+3 Health_
+
++1 Uncommon Pip  
++1 Rare Pip  
+**Requires Power 5**
+
+ | Styles:  
+Black, Brown, & White |
 | File:Vanguardbrace.png | [Vanguard Brace](Vanguard_Brace.md)  
 (**Set**) | _+3 Health_  
 _+1 Posture_

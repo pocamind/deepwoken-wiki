@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Gem
-revid: 204016
+revid: 205616
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Deep Gems, Mantras, Treasures]
@@ -37,6 +37,7 @@ On hit, apply [Kyrsan Chill](Status_Effects.md#kyrsan-chill); a stacking 6 secon
 
 ### Notes
 
+-   The first stack apply a 20% slow. All subsequent stack increase this slow by 4%.
 -   This Gem's cooldown is currently bugged, having a no cooldown instead of the 1s CD it's supposed to have.
 
 ## Trivia

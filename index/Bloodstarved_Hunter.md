@@ -1,11 +1,11 @@
 ---
 title: Bloodstarved Hunter
-revid: 197932
+revid: 205622
 source: https://deepwoken.fandom.com/wiki/Bloodstarved_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Vow of Iron Exclusive]
+categories: [In progress without reason, InProgressPages, Vow of Iron Exclusive]
 notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Bloodstarved Hunter
