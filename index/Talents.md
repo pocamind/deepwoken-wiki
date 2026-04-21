@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 205684
+revid: 205692
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1517,7 +1517,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Frozen Lightning
 
 -   Fulgurite Formation \[Common Talent, Dual Attunement, Frostdraw, Thundercall\] - When your Crystals explode, lightning strikes. When your Surge charges Overload on an enemy, your Crystals apply twice on them for 8s.
-    -   The lightning strikes deal 5 typeless damage without applying Surge stacks. They have a 1.08x PvE scaling, dealing 5.4 PvE damage.
+    -   The lightning strikes deal 5 typeless damage with no PvE scaling & don't apply Surge stacks.
     -   The lightning strikes have a cooldown of 4 seconds.
     -   The double Crystal application buff does not stack with successive Fulgurite Formation procs.
     -   The lightning strikes proc Grounding Bolt.

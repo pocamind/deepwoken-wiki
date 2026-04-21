@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 205029
+revid: 205690
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -13,6 +13,22 @@ categories: [Pages with broken file links, Aspects]
 | obtained_by | 2% Roll Chance |
 | appearance | Navy/Gray/Green/Brown/Purple Skin, Cyan/White/Green/Yellow/Purple Eyes, White/Purple Hair |
 | traits | Deepfolk, +3 Willpower, +2 Intelligence |
+
+| Ganymede Hat | |
+|---|---|
+| type | Head |
+| rarity | N/A |
+| selling price | 0 |
+| requirements | None |
+| weight | 1 |
+| innate stats | N/A |
+| innate talent | N/A |
+| bankable | No |
+| droppable | No |
+| enchantable | No |
+| pass down | No |
+| obtainment | Innate to Ganymede |
+| description | A traditional brimmed hat worn by Ganymedes. Ganymede Skin is prone to drying out, so the shade of a wide hat is considered a necessity for travel. |
 
 _Peculiar folk who are often known for their wisdom and intelligence.  
 Though quite rare, Ganymede science still leads Man forward._

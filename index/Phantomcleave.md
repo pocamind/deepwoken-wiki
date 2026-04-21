@@ -1,6 +1,6 @@
 ---
 title: Phantomcleave
-revid: 204941
+revid: 205694
 source: https://deepwoken.fandom.com/wiki/Phantomcleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Medium Weapons]
@@ -48,6 +48,8 @@ The Phantomcleave is a [Vow of Iron](Vow_of_Iron.md) exclusive Medium Weapon. Un
 Its damage is increased by 5% when wearing the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), or [Royal Etrean Guard](Royal_Etrean_Guard.md) [outfits](Outfits.md), due to their innate Talent: _[Paired Soul](Talents.md#paired-soul)_.
 
 When paired with the [Poser's Ring](<Poser's_Ring.md>), the damage of its M1s and critical attacks will be suspended until it is sheathed, at which point all of that damage is inflicted at once. This damage cannot exceed 70% of a player's maximum health.
+
+The weapon is currently unobtainable due to a bug causing the NPC to drop the withered phantom cleave instead.
 
 ## Critical
 
