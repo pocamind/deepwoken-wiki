@@ -1,6 +1,6 @@
 ---
 title: Blackalloy Pauldrons
-revid: 205304
+revid: 205711
 source: https://deepwoken.fandom.com/wiki/Blackalloy_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with Set Bonuses]
@@ -47,3 +47,7 @@ The [Laminated Armor](Talents.md#laminated-armor) Talent reduces all damage take
 When wearing the full equipment set, you will gain the Set Talent.
 
 Set Talent [Captain's Call](Talents.md#captains-call) - Call up two [Blacksteel Pirates](Blacksteel_Pirate.md) to aid you in battle \[5 minute CD\].
+
+## Tips
+
+-   Best used for [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>), As their attacks are low damage spam. (reduces dmg by 40-50% for Zi'eer's first phase)

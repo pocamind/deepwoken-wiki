@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 205225
+revid: 205709
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters, Enemies, Humanoids with Unobtainable Outfits]
@@ -204,21 +204,21 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
 
 | Condition | Dialogue |
 | --- | --- |
-| Battle initiation | What makes you think you have the right to stand before me? |
-| While using 'Brushstrokes of Black' from side to side | Don't think you can outrun me, vermin. |
-| When Ironsworn is midway from the throne | Can't you see your efforts are meaningless, Ironsworn? Give up and die already! |
-| When Ironsworn is close to the throne | You would throw away your pointless life ALL in order to anger me. So be it then—I will scatter your remains on the ground where you stand..! |
-| When Ironsworn is a few paces from the throne | ...Impossible...! A PUNY pest like giving me this much trouble? |
-| After breaking the throne and initiating his second phase | How can anyone be this foolish? You wish for me to take you seriously? ..Fine. But your fate remains the same. |
-| While using a move in his second phase | 
+| **Battle initiation** | What makes you think you have the right to stand before me? |
+| **While using 'Brushstrokes of Black' from side to side** | Don't think you can outrun me, vermin. |
+| **When Ironsworn is midway from the throne** | Can't you see your efforts are meaningless, Ironsworn? Give up and die already! |
+| **When Ironsworn is close to the throne** | You would throw away your pointless life ALL in order to anger me. So be it then—I will scatter your remains on the ground where you stand..! |
+| **When Ironsworn is a few paces from the throne** | ...Impossible...! A PUNY pest like giving me this much trouble? |
+| **After breaking the throne and initiating his second phase** | How can anyone be this foolish? You wish for me to take you seriously? ..Fine. But your fate remains the same. |
+| **While using a move in his second phase** | 
 -   You will die.
 -   Why won't YOU perish, you stupid WORM? Why do you PERSIST..? You think you have a final chance JUST because you make me RISE to my FEET?
 
  |
-| While using 'Flash Equalizer' | Pathetic! |
-| While using 'Blinking Divebomb' | Try... and keep up. |
-| While using 'Lightspeed Strike' | I wonder if YOU can react to this! |
-| While using 'Masters of the House' | We are not finished... I am the Gods' judge, jury, and executioner of YOUR fate! WITNESS MY FINAL ACT OF JUDGEMENT!!! |
+| **While using 'Flash Equalizer'** | Pathetic! |
+| **While using 'Blinking Divebomb'** | Try... and keep up. |
+| **While using 'Lightspeed Strike'** | I wonder if YOU can react to this! |
+| **While using 'Masters of the House'** | We are not finished... I am the Gods' judge, jury, and executioner of YOUR fate! WITNESS MY FINAL ACT OF JUDGEMENT!!! |
 
 ## Trivia
 
@@ -232,6 +232,7 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
     -   This badge was not dropped alongside Iron Vow and was instead added on Dec 18, 2025.
     -   Zi'eer is the first boss to grant players a badge for winning.
 -   The boss fight was designed by developer par.[\[1\]](#cite-note-1)
+-   Zi'eer has a unique dialog once you have either logged off from his battle, or initiated a fight with him over 10 times.
 
 ## References
 

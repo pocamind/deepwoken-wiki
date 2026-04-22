@@ -1,6 +1,6 @@
 ---
 title: Movement
-revid: 204597
+revid: 205707
 source: https://deepwoken.fandom.com/wiki/Movement
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -36,9 +36,9 @@ Jumping during the slide will perform a slide jump, sending you upward by roughl
 
 ## Wall Jumping/Climbing
 
-Wall jumping is done by jumping in the air or air dashing while moving towards a wall without facing towards it and touching it. The direction of the wall jump will be towards the side of the character that is not touching the wall. By holding W before the wall jump, it will send you foward diagonally. There are no limits to how many times you can wall jump as long as there is a wall you can jump on. (still needs testing)
+Wall jumping is done by jumping in the air or air dashing while moving towards a wall without facing towards it and touching it. The direction of the wall jump will be towards the side of the character that is not touching the wall. By holding W before the wall jump, it will send you foward diagonally. You can only wall jump twice, after that, you won't be able to Wall Jump anymore. (You can still do Wall Climbing after the two wall jumps.)
 
-Wall Climbing can be done by doing a wall jump while your character is facing the wall. When initiating a wall climb, your character gets sent roughly (i'll test this later too) degrees upwards while sending your character backwards for a few studs. After initiating a wall climb, you are able to do one air jump by jumping before landing back onto the ground, sending you directly upwards. When you are able to do an air jump, you are unable to wall jump.
+Wall Climbing can be done by doing a wall jump while your character is facing the wall. When initiating a wall climb, your character gets sent roughly (i'll test this later too) degrees upwards while sending your character backwards for a few studs. After initiating a wall climb, you are able to do one air jump by jumping before landing back onto the ground, sending you directly upwards. When you are able to do an air jump, you are unable to wall jump. If you jump to a wall when you are in water, you will be able to do two wall climbs. (Including the air jump.)
 
 By jumping right under an edge of a wall, you start holding the edge. To stop holding the edge, you can either jump, which sends you directly upwards, or move away from the wall.
 

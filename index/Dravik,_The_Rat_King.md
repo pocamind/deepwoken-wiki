@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 204563
+revid: 205703
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats, Humanoids with Unobtainable Outfits, Enemies]
@@ -253,6 +253,14 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
         -   **Some criticals (currently only Pale Briar, First LIght, and Kyrsieger confirmed)**
         -   **Gran Sudaruska's Passive**
         -   **Jar of Souls**
+
+## Battle Dialogues
+
+| Condition | Dialogue |
+| --- | --- |
+| **Battle initiation** | Haha! Finally, a worthy challenger! |
+| **When the 'Golden Rule' Passive activates** | From this point forward we shall only be using our weapons to fight. No more tricks, understand that? |
+| **Defeat** | At long last... a death honorable for the Golden Rat. |
 
   
 

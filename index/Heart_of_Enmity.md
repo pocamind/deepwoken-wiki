@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 205575
+revid: 205705
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Bosses, Voiced Characters]
@@ -124,6 +124,16 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 -   Potion Immunity - The Heart of Enmity is immune to all [Potion](Alchemy.md) effects.
 -   **Enmity's Rot - The Heart of Enmity applies a powerful anti-heal on attacks that last for 30 seconds.**
 -   **Last Rite - Anytime a player dies, an unknown number of Corrupted Servants of Enmity will spawn possessing 20,000 hp.**
+
+## Battle Dialogues
+
+| Condition | Dialogue |
+| --- | --- |
+| **Battle initiation** | Despicable. You deem yourselves worthy of a challenge? Allow me to educate you on your folly. |
+| **While using 'Enmity's Call'** | I WILL DELIVER PUNISHMENT! |
+| **While using 'Homerun Bat'** | WHO DO YOU THINK YOU'RE CROSSING? |
+| **While using 'The Brutalizer'** | KNEEL! |
+| **Defeat** | This... is no triumph. Your arrogance only spoils the offering you will make when your soul is claimed by our Master below. |
 
 ## Loot Table/Rewards
 

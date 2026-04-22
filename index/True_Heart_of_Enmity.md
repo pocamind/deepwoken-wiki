@@ -1,6 +1,6 @@
 ---
 title: True Heart of Enmity
-revid: 205378
+revid: 205704
 source: https://deepwoken.fandom.com/wiki/True_Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters]
@@ -177,6 +177,16 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 ### Passives
 
 -   Enchant Immunity - True Heart of Enmity is immune to all [Enchantments](Enchantments.md).
+
+## Battle Dialogues
+
+| Condition | Dialogue |
+| --- | --- |
+| **Battle initiation** | Ah, the vainglorious folly... I shall make this agony everlasting. |
+| **While using 'Enmity's Call'** | I WILL DELIVER PUNISHMENT! |
+| **While using 'Homerun Bat'** | WHO DO YOU THINK YOU'RE CROSSING? |
+| **While using 'The Brutalizer'** | KNEEL! |
+| **Defeat** | This... is no triumph. Your arrogance only spoils the offering you will make when your soul is claimed by our Master below. |
 
 ## Loot Table/Rewards
 
