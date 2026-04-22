@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 196452
+revid: 205759
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant]
@@ -256,11 +256,11 @@ Items and equipment that can be obtained from loot chests.
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Tophat.md">Tophat</a> (All Variants)</li>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Tophat.md">Tophat</a></li>
     <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Aristocrat_Coat.md">Aristocrat Coat</a> (All Variants), <a href="Sailor's_Fleece.md">Sailor's Fleece</a>, <a href="Bluesteel_Pauldrons.md">Bluesteel Pauldrons</a></li>
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Novice_Boots.md">Novice Boots</a></li>
-    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Fleet_Warden_Cape.md">Fleet Warden Cape</a> (All Variants)</li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Rebel's_Bandana.md">Rebel's Bandana</a>, <a href="Summer_Nauticals.md">Nauticals</a> (All Variants), <a href="Aristocrat_Eyeglasses.md">Aristocrat Eyeglasses</a> (All Variants)</li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Fleet_Warden_Cape.md">Fleet Warden Cape</a></li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Rebel's_Bandana.md">Rebel's Bandana</a>, <a href="Summer_Nauticals.md">Summer Nauticals</a>, <a href="Aristocrat_Eyeglasses.md">Aristocrat Eyeglasses</a></li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Practicioner's_Earrings.md">Practicioner's Earrings</a></li>
     <li><a href="Equipment.md#rings"><b>Rings</b></a>:</li>
   </ul></td>

@@ -1,6 +1,6 @@
 ---
 title: Loot Tables
-revid: 205659
+revid: 205760
 source: https://deepwoken.fandom.com/wiki/Loot_Tables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -238,7 +238,7 @@ _One of the first island inside the Eastern Luminant, most people come here for 
     <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Aristocrat_Coat.md">Aristocrat Coat</a>, <a href="Sailor's_Fleece.md">Sailor's Fleece</a>, <a href="Bluesteel_Pauldrons.md">Bluesteel Pauldrons</a></li>
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Novice_Boots.md">Novice Boots</a></li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Fleet_Warden_Cape.md">Fleet Warden Cape</a></li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Rebel's_Bandana.md">Rebel's Bandana</a>, <a href="Summer_Nauticals.md">Nauticals</a>, <a href="Aristocrat_Eyeglasses.md">Aristocrat Eyeglasses</a></li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Rebel's_Bandana.md">Rebel's Bandana</a>, <a href="Summer_Nauticals.md">Summer Nauticals</a>, <a href="Aristocrat_Eyeglasses.md">Aristocrat Eyeglasses</a></li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Practicioner's_Earrings.md">Practicioner's Earrings</a></li>
     <li><a href="Equipment.md#rings"><b>Rings</b></a>:</li>
   </ul></td>

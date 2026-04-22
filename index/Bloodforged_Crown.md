@@ -1,6 +1,6 @@
 ---
 title: Bloodforged Crown
-revid: 205595
+revid: 205787
 source: https://deepwoken.fandom.com/wiki/Bloodforged_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Ornaments]
@@ -16,6 +16,7 @@ categories: [Equipment, Head, Ornaments]
 | requirements | LVL 10 |
 | weight | 1 |
 | innate stats | 5 Health, +1 Rare Pip, +1 Legendary Pips |
+| innate talent | Cauterized Wounds |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

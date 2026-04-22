@@ -1,9 +1,9 @@
 ---
 title: Summer Nauticals
-revid: 178591
+revid: 205751
 source: https://deepwoken.fandom.com/wiki/Summer_Nauticals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Face, Glasses]
+categories: [Equipment, Face, Glasses, Equipment Styles]
 ---
 
 # Summer Nauticals
@@ -26,7 +26,7 @@ categories: [Equipment, Face, Glasses]
 
 ## Description
 
-The Nauticals are an [Equipment](Equipment.md) item under the "Face" category.
+The Summer Nauticals are an [Equipment](Equipment.md) item under the "Face" category.
 
 ## Trivia
 

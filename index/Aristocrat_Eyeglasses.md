@@ -1,9 +1,9 @@
 ---
 title: Aristocrat Eyeglasses
-revid: 199037
+revid: 205810
 source: https://deepwoken.fandom.com/wiki/Aristocrat_Eyeglasses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Face, Glasses]
+categories: [Equipment, Face, Glasses, Equipment Styles]
 ---
 
 # Aristocrat Eyeglasses

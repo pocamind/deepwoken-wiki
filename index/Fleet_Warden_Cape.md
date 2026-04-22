@@ -1,9 +1,9 @@
 ---
 title: Fleet Warden Cape
-revid: 190271
+revid: 205811
 source: https://deepwoken.fandom.com/wiki/Fleet_Warden_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Torso, Capes]
+categories: [Equipment, Torso, Capes, Equipment Styles]
 ---
 
 # Fleet Warden Cape
@@ -27,7 +27,3 @@ categories: [Equipment, Torso, Capes]
 ## Description
 
 The Fleet Warden Cape is an [Equipment](Equipment.md) item under the "Torso" category. It can be obtained from [Fishing](Fishing.md) and [Summer Isle](Summer_Isle.md) chests.
-
-## Trivia
-
--   It has six variants which are: Emerald, Rose, Scarlet, Shade, Silver & Onyx.

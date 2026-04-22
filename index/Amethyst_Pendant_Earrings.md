@@ -1,6 +1,6 @@
 ---
 title: Amethyst Pendant Earrings
-revid: 205613
+revid: 205772
 source: https://deepwoken.fandom.com/wiki/Amethyst_Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -26,7 +26,7 @@ categories: [Equipment, Ears]
 
 ## Description
 
-**Amethyst Pendant Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category.
+Amethyst Pendant Earrings are an [Equipment](Equipment.md) item under the "Ears" category.
 
 ## Trivia
 

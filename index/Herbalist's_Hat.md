@@ -1,6 +1,6 @@
 ---
 title: "Herbalist's Hat"
-revid: 189795
+revid: 205792
 source: https://deepwoken.fandom.com/wiki/Herbalist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -16,7 +16,7 @@ categories: [Equipment, Head, Hats]
 | requirements | None |
 | weight | 1 |
 | innate stats | 1 Uncommon Pip |
-| innate talent | Iron Gut, Herbivore |
+| innate talent | Iron GutHerbivore |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -28,7 +28,7 @@ categories: [Equipment, Head, Hats]
 
 The Herbalist's Hat is an [Equipment](Equipment.md) item under the "Head" category.
 
-[Herbivore](Talents.md#herbivore) grants increased nutrition from consuming plant-based [food](Food.md) items. [Iron Gut](Talents.md#iron-gut) lowers the chance of you vomiting upon consuming food.
+The [Herbivore](Talents.md#herbivore) Talent grants increased nutrition from consuming plant-based [food](Food.md) items. The [Iron Gut](Talents.md#iron-gut) Talent lowers the chance of you vomiting upon consuming food.
 
 ## Trivia
 

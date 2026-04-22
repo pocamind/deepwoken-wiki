@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 205209
+revid: 205765
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -292,7 +292,7 @@ Sold Items
   <td>
   <ul>
     <li><b>For 35 </b>: <a href="Brow_Stud.md">Brow Stud</a>, <a href="Dermal_Stud.md">Dermal Stud</a>, <a href="Moon_Brow_Rings.md">Moon Brow Rings</a>, <a href="Moon_Dermal_Rings.md">Moon Dermal Rings</a>, <a href="Moon_Lip_Ring.md">Moon Lip Ring</a>, <a href="Moon_Septum_Ring.md">Moon Septum Ring</a>, <a href="Nose_Stud.md">Nose Stud</a>, <a href="Snakebite_Studs.md">Snakebite Studs</a></li>
-    <li><b>For 100 </b>: Dark Sailor's Fleece, <a href="Sailor's_Fleece.md">Sailor's Fleece</a></li>
+    <li><b>For 100 </b>: <a href="Sailor's_Fleece.md">Sailor's Fleece</a></li>
   </ul></td>
 </tr>
 </tbody>

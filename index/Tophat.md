@@ -1,9 +1,9 @@
 ---
 title: Tophat
-revid: 202466
+revid: 205803
 source: https://deepwoken.fandom.com/wiki/Tophat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Hats]
+categories: [Equipment, Head, Hats, Equipment Styles]
 ---
 
 # Tophat

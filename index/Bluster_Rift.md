@@ -1,6 +1,6 @@
 ---
 title: Bluster Rift
-revid: 205651
+revid: 205801
 source: https://deepwoken.fandom.com/wiki/Bluster_Rift
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Locations, Locations in the Eastern Luminant]
@@ -67,7 +67,7 @@ Events that spawn in Bluster Rift that do not involve combat. For more info, see
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Big_Alchemist's_Hat.md">Big Alchemist's Hat</a>, <a href="Big_Herbalist's_Hat.md">Big Herbalist's Hat</a>, <a href="Authority_Helm.md">Authority Helm</a>, <a href="Blackleaf_Helm.md">Blackleaf Helm</a>, <a href="Gladiator_Helm.md">Gladiator Helm</a>, <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a>, <a href="Legion_Helmet.md">Khan Helmet</a>, Pale Assassin's Hood, <a href="Vigil_Hood.md">Vigil Hood</a></li>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Assassin's_Hood.md">Assassin's Hood</a>, <a href="Big_Alchemist's_Hat.md">Big Alchemist's Hat</a>, <a href="Big_Herbalist's_Hat.md">Big Herbalist's Hat</a>, <a href="Authority_Helm.md">Authority Helm</a>, <a href="Blackleaf_Helm.md">Blackleaf Helm</a>, <a href="Gladiator_Helm.md">Gladiator Helm</a>, <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a>, <a href="Legion_Helmet.md">Khan Helmet</a>, <a href="Vigil_Hood.md">Vigil Hood</a></li>
     <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Assassin's_Cloak.md">Assassin's Cloak</a>, <a href="Fur_Parka.md">Fur Parka</a>, <a href="Star_Duster.md">Star Duster</a>, <a href="Royal_Pathfinder.md">Royal Pathfinder</a>, White Fur Pauldrons, <a href="Legion_Pauldrons.md">Legion Pauldrons</a>, <a href="Silver_Pauldrons.md">Silver Pauldrons</a>, <a href="Woodland_Pauldrons.md">Woodland Pauldrons</a></li>
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Flameguard_Boots.md">Flameguard Boots</a>, <a href="Imperial_Boots.md">Imperial Boots</a>, <a href="Legion_Boots.md">Khan Boots</a>, <a href="Tracker's_Boots.md">Tracker's Boots</a>, <a href="Vanguard_Boots.md">Vanguard Boots</a>, <a href="Woodland_Boots.md">Woodland Boots</a>, <a href="Silver_Sabatons.md">Silver Sabatons</a></li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: Scarf (all variants)</li>
