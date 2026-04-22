@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 205671
+revid: 205730
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -351,13 +351,13 @@ Dialogue: [Amashi](Amashi,_Master_of_Flame.md), [Ploom](Ploom.md), [Zana](Zana.m
 
 -   The ability to generate ice and reduce temperatures through the [Song](#the-song).
 
-Dialogue: | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>) | Glossary Entries:
+Dialogue: [Nell](Nell,_Master_of_Frost.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>) | Glossary Entries:
 
 ### Galebreathe
 
 -   The ability to manipulate air through the [Song](#the-song).
 
-Dialogue: | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>) | Glossary Entries:
+Dialogue: [Friid](Friid,_Master_of_Gale.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>) | Glossary Entries:
 
 ### Hereditary Vow
 
@@ -373,7 +373,7 @@ Book: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md)
 
 -   The ability to manipulate metallic substances through the [Song](#the-song).
 
-Dialogue: | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>) | Glossary Entries:
+Dialogue: [Adar](Adar,_Master_of_Metal.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>) | Glossary Entries:
 
 ### Lifeweave / Lifewoven
 
@@ -470,7 +470,7 @@ Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Celes
 
 -   The ability to produce and manipulate electromagnetism through the [Song](#the-song).
 
-Dialogue: | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>) | Glossary Entries:
+Dialogue: [Funke](Funke,_Master_of_Thunder.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>) | Glossary Entries:
 
 ### Vows
 

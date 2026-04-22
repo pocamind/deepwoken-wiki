@@ -1,6 +1,6 @@
 ---
 title: Deepbound
-revid: 204112
+revid: 205728
 source: https://deepwoken.fandom.com/wiki/Deepbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Divers, Origins, Character]
@@ -42,7 +42,7 @@ Your experience gain while in the Depths is greatly increased, while your experi
 
 You can restore your sanity in the Depths by going to [Castle Light](Castle_Light.md) or defeating Monsters. Castle Light will always be open to you, even if you've drowned. Additionally, all NPCs and amenities at Castle Light will be accessible (e.g. the Banker, Antiquarian, and Stove).
 
-Your [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation) is always an [Enforcer](Enforcer.md). This can be both a good thing and a bad thing: on one hand, if you are experienced with fighting Enforcers, then this isn't a downside at all, but on the other hand, the Enforcer a strong enemy and you will need to face them on every Trial regardless of your level.
+-   ~Your [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation) is always an [Enforcer](Enforcer.md).~ As of a recent update the Origin was secretly changed so the Depths trial is no longer affected by Deepbound
 
 ### Call of the Deep
 
@@ -66,7 +66,7 @@ When used in the overworld, the player will delve into the [First Layer](First_L
 ### Cons
 
 -   You gain reduced experience while outside of the Depths.
--   Your [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation) will always be an [Enforcer](Enforcer.md), though this is only really a con for lower levels.
+-   ~Your [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation) will always be an [Enforcer](Enforcer.md), though this is only really a con for lower levels.~
 -   You cannot do [Trial of One](Trial_of_One.md), even if you escape the Depths at Power 1, though the [Diluvian Mechanism](The_Diluvian_Mechanism.md) may be a good alternative.
 -   Deepbound, at least in its progression, is very Depths centered, significantly raising the stakes, as a singular death will lead to you wiping.
 

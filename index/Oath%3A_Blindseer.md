@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 205095
+revid: 205734
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -102,6 +102,7 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
     -   This affects everybody, including the caster and their allies, making even yourself unable to cast Mantras.
     -   Bosses are immune to the silencing aspect.
     -   While inside the circle, gain total immunity to Mantra damage.
+    -   While in the circle gain immunity to the effects of [Gravity Field](Gravity_Field.md)
     -   This is one of the few sources of Monster Armor and Damage vs Monsters, making it exceptionally useful for M1 PvE builds.
     -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md#sparks). This makes the circle much smaller but makes it follow the user.
     -   Shares a cooldown with devouring eye.
