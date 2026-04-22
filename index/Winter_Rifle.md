@@ -1,6 +1,6 @@
 ---
 title: Winter Rifle
-revid: 205112
+revid: 205722
 source: https://deepwoken.fandom.com/wiki/Winter_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, The Summer Company, Medium Weapons, Weapons with Talents, Craftable]
@@ -38,7 +38,7 @@ Variants: [Summer Rifle](Summer_Rifle.md)
 
 The Winter Rifle is a [Medium Weapon](Weapons.md#rifles), part of the rifle category. This weapon can be crafted at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md) with 1 [Frost Essence](Frost_Essence.md) and 1 [Summer Rifle](Summer_Rifle.md).
 
-This weapons gains a unique visual effect when equipped, both held and when holstered.
+This weapon gains a unique visual effect when equipped, both held and when holstered.
 
 ## Talent: Subzero
 

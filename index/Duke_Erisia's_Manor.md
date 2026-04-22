@@ -1,6 +1,6 @@
 ---
 title: "Duke Erisia's Manor"
-revid: 184065
+revid: 205718
 source: https://deepwoken.fandom.com/wiki/Duke_Erisia's_Manor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant]
@@ -20,7 +20,7 @@ What was stolen from below lies within.
 
 ## Overview
 
-**Duke Erisia's Manor** is a landmark found in [The Garden Reservoir](The_Garden_Reservoir.md). Its exterior consists of patches of grass on the corner of the paths with some tall bushes, stone pillars, a distinct tall tree in the center and a blocked gate preceded by a massive bridge that leads to the [Burning Stone Gardens](Burning_Stone_Gardens.md) where plentiful of [Rock Golems](Rock_Golem.md) reside. In order to open the gate you, or one of your allies must have a [Manor Key](Manor_Key.md).
+**Duke Erisia's Manor** is a landmark found in [The Garden Reservoir](The_Garden_Reservoir.md). Its exterior consists of patches of grass on the corner of the paths with some tall bushes, stone pillars, a distinct tall tree in the center and a blocked gate preceded by a massive bridge that leads to the [Burning Stone Gardens](Burning_Stone_Gardens.md) where plentiful of [Rock Golems](Rock_Golem.md) reside. In order to open the gate, you, or one of your allies must have a [Manor Key](Manor_Key.md).
 
 ## Maps
 
