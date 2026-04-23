@@ -1,6 +1,6 @@
 ---
 title: The Sunken Railways
-revid: 188781
+revid: 205960
 source: https://deepwoken.fandom.com/wiki/The_Sunken_Railways
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Second Floor of the Second Layer]
@@ -18,11 +18,11 @@ Template:Location2
 
 ## Overview
 
-The Sunken Railways is a gloomy sub-location of [The Second Layer](Second_Layer.md)'s [New Kyrsa](Second_Layer/New_Kyrsa.md). It is where one of the five Obelisks required to access the [Scion of Ethiron](Scion_of_Ethiron.md) boss fight is located. It's most notable feature is its bottom floor, containing the Kyrsan Obelisk, two railways with trains on them, and a [Kyrsan Medallion](Kyrsan_Medallions.md) chest spawn.
+The Sunken Railways is a gloomy sub-location of [Second Layer/New Kyrsa](Second_Layer/New_Kyrsa.md). It is where one of the five Obelisks required to access where the [Scion of Ethiron](Scion_of_Ethiron.md) boss fight is located. Its most notable feature is its bottom floor, containing a Kyrsan Obelisk, two railways with trains on them, and there may be a [Kyrsan Medallions](Kyrsan_Medallions.md) chest spawn.
 
-The top floor mostly does not have anything important, but does contain an additional Kyrsan Medallion chest and many spawns for [Kyrsgarde Crawlers](https://deepwoken.fandom.com/wiki/Kyrsgarde?so=search#Kyrsgarde_Crawler_).
+The top floor mostly does not have anything important, but does contain an additional [Kyrsan Medallions](Kyrsan_Medallions.md) chest and many spawns for [Kyrsgarde Crawler](Kyrsgarde_Crawler.md)’s after the Obelisk is activated.
 
-## Contents
+## Content
 
 ### NPCs
 
@@ -34,4 +34,4 @@ The top floor mostly does not have anything important, but does contain an addit
 
 ## Potential Enemies
 
--   [Kyrsgarde Crawlers](https://deepwoken.fandom.com/wiki/Kyrsgarde?so=search#Kyrsgarde_Crawler_)
+-   [Kyrsgarde Crawler](Kyrsgarde_Crawler.md)

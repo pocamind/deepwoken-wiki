@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 205132
+revid: 205958
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -76,7 +76,7 @@ _There are many elements to the GUI, each one playing its own part. In order to 
   <th>Armor Durability</th>
   <td>A visual representation of the player's current <a href="Outfits.md">armor</a> durability. When this bar is depleted, the player's armor is considered "broken", and you will start taking damage as if you have no armor on at all.
   <ul>
-    <li>Armour can be repaired through various methods, such as a Blacksmith, using <a href="Talents.md">Talents</a>, the Metal <a href="Enchantments.md">Enchantment</a>, or a <a href="Outfits.md">Bloodiron Ring</a>.</li>
+    <li>Armour can be repaired through various methods, such as a Blacksmith, using <a href="Talents.md">Talents</a>, the Metal <a href="Enchantments.md">Enchantment</a>, or a <a href="Bloodiron_Ring.md">Bloodiron Ring</a>.</li>
   </ul><p>Assuming you managed to pick up the <a href="Talents.md#exoskeleton">Exoskeleton</a> Talent or if you are a <a href="Vesperian.md">Vesperian</a>, there will be two armor bars instead- the white representing <a href="Outfits.md">Armor</a>, and the green representing Natural Armor.</p><figure><figcaption></figcaption></figure></td>
 </tr>
 </tbody>

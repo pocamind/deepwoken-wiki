@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 204454
+revid: 205954
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1819,7 +1819,7 @@ Slash
 
 -   Deals 20/22/24/26/28 base damage with 1.65 Medium Weapon scaling.
 -   Deals 12 posture damage.
--   Uppercuts, proccing [Bladeharper's](Oath%253A_Bladeharper.md) Soaring Storm.
+-   Uppercuts.
 
  |
 
@@ -1940,7 +1940,7 @@ Slash (1st Hit), Blunt (Kicks)
 -   Does good AOE damage as it can hit several enemies at once and bring them all up into the air.
 -   Ragdolls and flings opponent away.
 -   Equipping the [Iron Birch](Iron_Birch.md) gives you the [Expeditious Combo](Talents.md#expeditious-combo) Talent, increasing the speed of this attack. Additionally on Iron Birch, your Onslaught cast speed is further buffed if cast within 15 seconds of landing an uppercut.
--   Procs [Soaring Storm](Talents.md#soaring-storm).
+-   Uppercuts.
 
  |
 | 

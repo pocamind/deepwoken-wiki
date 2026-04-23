@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 205607
+revid: 205955
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -22,21 +22,21 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
 
 **Stealth** can be improved in several ways.
 
--   Crouching. This increases your Stealth by 50% and adds a flat +50 Stealth afterwards.  
+-   Crouching. This increases your Stealth by 50% multiplicatively and adds a flat +50% Stealth afterwards.  
     C r o u c h i n g S t e a l t h \= S t e a l t h × 1.5 + 50 {\\displaystyle CrouchingStealth=Stealth\\times 1.5+50} {\\displaystyle CrouchingStealth=Stealth\\times 1.5+50}
 -   Improving your [Agility](Attributes.md#agl) will improve your Stealth.
     -   Every point of [Agility](Attributes.md#agl) grants +0.2% Stealth.
     -   Passive Agility does **not** grant Stealth.
--   The [Felinor](Felinor.md) aspect starts with 20% Stealth and has a 1.2x multiplier on Stealth gain.
+-   The [Felinor](Felinor.md) aspect starts with +20% Stealth and has a 1.2x multiplier on Stealth gain.
     -   The Stealth gain multiplier does not apply to Stealth gained from crouching or [Lowstride](Talents.md#lowstride).
--   The [Lowstride](Talents.md#lowstride) Talent doubles the Stealth bonuses from crouching; granting +100% Stealth and +100 flat Stealth while crouching.  
+-   The [Lowstride](Talents.md#lowstride) Talent doubles the Stealth bonuses from crouching; increasing your Stealth by 100% multiplicatively and adding +100% flat Stealth, while crouching.  
     L o w s t r i d e S t e a l t h \= S t e a l t h × 2 + 100 {\\displaystyle LowstrideStealth=Stealth\\times 2+100} {\\displaystyle LowstrideStealth=Stealth\\times 2+100}
--   Being in [Tacet](Murmur%253A_Tacet.md) provides 400% flat Stealth. Tacet's Stealth cannot receive Stealth gain multipliers.
-    -   This is doubled to 800% if you are using [Tacet Minimization](Talents.md#tacet-minimization) from the [Authority Ensign](Authority_Ensign.md) Origin.
+-   Being in [Tacet](Murmur%253A_Tacet.md) provides +400% flat Stealth. Tacet's Stealth cannot receive Stealth gain multipliers.
+    -   This is doubled to +800% if you are using [Tacet Minimization](Talents.md#tacet-minimization) from the [Authority Ensign](Authority_Ensign.md) Origin.
 -   Equipping specific Outfits:
     -   [Darkened Bastion](Darkened_Bastion.md), [Familiar Assassin's Armor](<Familiar_Assassin's_Armor.md>), [Inquisition Light](Inquisition_Light.md), [Navaen Nomad Robes](Navaen_Nomad_Robes.md), [Navaen War Chief](Navaen_War_Chief.md), and [Whaler Coat](Whaler_Coat.md) all grant +50% Stealth.
     -   [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md) grants +40% Stealth.
-    -   [Whaler Initiate](Whaler_Initiate.md) grants 25% Stealth.
+    -   [Whaler Initiate](Whaler_Initiate.md) grants +25% Stealth.
     -   Some Outfits have the [Lowstride](Talents.md#lowstride) Talent:
         -   [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md), [Diver Journeyman Robes](Diver_Journeyman_Robes.md), [Hive Adjudicator](Hive_Adjudicator.md), [Hive Drone](Hive_Drone.md), [Pathfinder Sorcerer](Pathfinder_Sorcerer.md), [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md), [Shadow Hunter](Shadow_Hunter.md), and [Steel Plate](Steel_Plate.md)
 -   Wearing the following Equipment:
@@ -44,8 +44,7 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
         -   [Dark Owl Chapeau](Dark_Owl_Chapeau.md) and [Mercenary's Hood](<Mercenary's_Hood.md>) grant 10% Stealth.
         -   [Bloodfeather Cowl](Bloodfeather_Cowl.md), [Bloodcurdle Cowl](Bloodcurdle_Cowl.md), and [Necrotic Cowl](Necrotic_Cowl.md) grant 6% Stealth.
         -   [Assassin's Hood](<Assassin's_Hood.md>), [Rogue Assassin's Hood](<Rogue_Assassin's_Hood.md>), [Monastery Cowl](Monastery_Cowl.md), [Gale Enhanced Cowl](Gale_Enhanced_Cowl.md), and [Hallowed Monastery Cowl](Hallowed_Monastery_Cowl.md) grant 5% Stealth.
-        -   [Dark Cowl](Dark_Cowl.md) and Black Hood grant 4% Stealth.
-        -   Brown Hood grants 2% Stealth.
+        -   [Dark Cowl](Dark_Cowl.md), Black Hood, and Brown Hood grant 4% Stealth.
     -   Arms:
         -   [Dark Owl Cloak](Dark_Owl_Cloak.md), [Mercenary's Garb](<Mercenary's_Garb.md>), [Bounty Hunter's Garb](<Bounty_Hunter's_Garb.md>), [Ministry Operative Cloak](Ministry_Operative_Cloak.md), and [Prophet's Operative Cloak](<Prophet's_Operative_Cloak.md>) grant 6% Stealth.
         -   [Sandrunner Wraps](Sandrunner_Wraps.md) grants 4% Stealth.
@@ -60,7 +59,7 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
         -   [Master Thief Earrings](Master_Thief_Earrings.md), [Assassin's Earrings](<Assassin's_Earrings.md>), and [Ossified Blood Earrings](Ossified_Blood_Earrings.md) grant 3% Stealth.
     -   Rings: N/A
     -   Some Equipment items have the [Lowstride](Talents.md#lowstride) Talent:
-        -   [Assassin's Cloak](<Assassin's_Cloak.md>), [Hive Scourge Cuirass](Hive_Scourge_Cuirass.md), [Tracker's Boots](<Tracker's_Boots.md>)
+        -   [Assassin's Cloak](<Assassin's_Cloak.md>), [Hive Scourge Cuirass](Hive_Scourge_Cuirass.md), and [Tracker's Boots](<Tracker's_Boots.md>)
 -   The [Obvious](Boons_and_Flaws.md#obvious) Flaw grants -20% Stealth.
 
 ### Maximum Stealth
@@ -74,6 +73,8 @@ The current maximum Stealth possible is **1,100%** or **1,180%**, depending on y
     -   Any other Aspect with Obvious - 80% maximum base Stealth, 170% when crouching, and 260% with [Lowstride](Talents.md#lowstride).
 -   [Tacet](Murmur%253A_Tacet.md) provides 400% flat Stealth, and an additional 400% if you are using [Tacet Minimization](Talents.md#tacet-minimization).
 -   In the [Vow of Iron](Vow_of_Iron.md) gamemode, the [Rogue Assassin](Rogue_Assassin.md) Memento can reach a maximum Stealth value of **1,120** or **1,204%**, depending on the Ironsworn's Aspect. This Memento has 150 Agility when Power 20 alongside having access to Lowstride, Tacet, and Tacet Minimization.
+
+**Calculator [here](https://www.desmos.com/calculator/ar6qiytogo).**
 
 ## Usage
 

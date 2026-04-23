@@ -1,9 +1,9 @@
 ---
 title: Fur Boots
-revid: 205895
+revid: 205950
 source: https://deepwoken.fandom.com/wiki/Fur_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Equipment, Legs, Boots]
+categories: [Pages with broken file links, Equipment, Legs, Boots, Equipment Styles]
 ---
 
 # Fur Boots

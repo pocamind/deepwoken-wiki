@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 205942
+revid: 205949
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, Equipment, In progress with VOI reason]
@@ -164,6 +164,8 @@ _If you're looking for something specific, press (CTRL + F) or (F3) to search._
 
 **Head:**
 
+Every quality star on Head Equipment provides an additional +1 Health. Additionally, most Head Equipment items can be [Enchanted](Enchantments.md).
+
 | 
 Image
 
@@ -181,11 +183,8 @@ Variants/Set
 
  |
 | --- | --- | --- | --- |
-|  | [Aazel's Horns](<Aazel's_Horns.md>)
-
-(**Legendary**)
-
- | _+1 Posture_  
+|  | [Aazel's Horns](<Aazel's_Horns.md>)  
+(**Legendary**) | _+1 Posture_  
 _+8% Fire Armor_
 
 +1 Rare Pip
@@ -238,7 +237,7 @@ Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
 
 +2 Rare Pips  
 _+Talent: [**Deep Wound**](Talents.md#deep-wound)_  
-**Requires Power 6, Agility 10**
+**Requires Power 6, 10 Agility**
 
  | Styles:  
 Gold, Pale, Mist & Crimson
@@ -254,7 +253,7 @@ Arms: [Assassin's Cloak](<Assassin's_Cloak.md>)
 +1 Uncommon Pip  
 +1 Rare Pip  
 _+Talent: [**Strong Hold**](Talents.md#strong-hold)_  
-**Requires Power 10, Fortitude 10 OR [Authority Ensign](Authority_Ensign.md)**
+**Requires Power 10, 10 Fortitude OR [Authority Ensign](Authority_Ensign.md)**
 
  | N/A |
 | File:Barrel Helmet.png | [Barrel Helm](Barrel_Helm.md) | _+5 Health_
@@ -414,7 +413,7 @@ _+Talent: [**Already Dead**](Talents.md#already-dead)_
 (**Set**) | +2 Rare Pips  
 +1 Legendary Pip
 
-**Requires Power 6, Agility 10**
+**Requires Power 6, 10 Agility**
 
  | Set: Deepwoken  
 Head: [Deepwoken Hood](Deepwoken_Hood.md)  
@@ -426,7 +425,7 @@ Arms: [Deepwoken Cloak](Deepwoken_Cloak.md) |
 +2 Legendary Pips  
 _+Talent: [**Sorcerer's Skill**](Talents.md#sorcerers-skill)_  
 _+Set Talent: [**Sorcerer's Supply**](Talents.md#sorcerers-supply)_  
-**Requires: Power 16**
+**Requires Power 16**
 
  | Variants:  
 Warlock & Ether Refined
@@ -442,7 +441,7 @@ Arms: [Ether Refined Mantle](Ether_Refined_Mantle.md)
 _+1 Posture_
 
 +1 Legendary Pip  
-**Requires: Power 10**
+**Requires Power 10**
 
  | Variants:  
 Evanspear & Reinforced
@@ -506,11 +505,8 @@ Ears: [Gale Enhanced Earrings](Gale_Enhanced_Earrings.md)
 Rings: [Gale Enhanced Ring](Gale_Enhanced_Ring.md)
 
  |
-|  | [Gladiator Helm](Gladiator_Helm.md)
-
-(**Set**)
-
- | _+5 Health_  
+|  | [Gladiator Helm](Gladiator_Helm.md)  
+(**Set**) | _+5 Health_  
 _+2 Posture_
 
 +1 Rare Pip  
@@ -551,11 +547,7 @@ Arms: [Grand Fisher Plate](Grand_Fisher_Plate.md) |
 Guard's, Royal Guard's, Captain's |
 | File:Guardian helm.png | [Guardian Helmet](Guardian_Helmet.md)  
 (**Set**) | _+5 Health_  
-_+1 Posture_
-
-**Requires Fortitude 10**
-
- | Set: Guardian  
+_+1 Posture'_ | Set: Guardian  
 Head: [Guardian Helmet](Guardian_Helmet.md)  
 Arms: [Guardian Pauldrons](Guardian_Pauldrons.md) |
 | File:Dark Gumshoe Hat1.png | [Gumshoe Hat](Gumshoe_Hat.md)  
@@ -796,7 +788,7 @@ Legs: [Silver Sabatons](Silver_Sabatons.md) |
 +1 Rare Pip  
 +1 Legendary Pip  
 _+Talent: [**Simmerbloom**](Talents.md#simmerbloom)_  
-**Requires Power 10**
+**Requires Power 10, 80 Flamecharm**
 
  | N/A |
 |  | [Smith's Bandana](<Smith's_Bandana.md>)  
@@ -813,7 +805,7 @@ Face: [Smith's Goggles](<Smith's_Goggles.md>) |
 
 _+Talent: [**Volt Draft**](Talents.md#volt-draft)_  
 _+Set Talent: [**Shock Trooper Specialist**](Talents.md#shock-trooper-specialist)_  
-**Requires Power 20, Galebreathe 30, Thundercall 30**
+**Requires Power 20, 30 Galebreathe, 30 Thundercall**
 
  | Variants:  
 Shock Trooper & Specialist
@@ -892,7 +884,7 @@ Black & Double |
 |  | [Vigil Hood](Vigil_Hood.md) | +2 Rare Pips  
 +1 Legendary Pip  
 
-**Requires Power 6, Agility 10**
+**Requires Power 6, 10 Agility**
 
  | N/A |
 | File:Navy Warlock Brim.png | [Warlock's Brim](<Warlock's_Brim.md>)  
@@ -964,6 +956,8 @@ _+Talent: [**Ashes on the Fire**](Talents.md#ashes-on-the-fire)_
 (**Unobtainable**) | N/A | N/A |
 
 **Arms:**
+
+Every quality star on Arms Equipment provides an additional +1 Health. Additionally, most Arms Equipment items can be [Enchanted](Enchantments.md).
 
 | 
 Image
@@ -1262,7 +1256,7 @@ _+Talent: **[Berserker](Cut_Content.md#berserker)**_
 _+Talent: [**Overflowing Dam**](Talents.md#overflowing-dam)_  
 _+Talent: [**Sorcerer's Surge**](Talents.md#sorcerers-surge)_  
 _+Set Talent: [**Sorcerer's Supply**](Talents.md#sorcerers-supply)_  
-**Requires: Power 13, Intelligence 5**
+**Requires Power 13, 5 Intelligence**
 
  | Variants:  
 Warlock & Ether Refined
@@ -1335,7 +1329,7 @@ _+Talent: [**Steady Footing**](Talents.md#steady-footing)_
  | Styles:  
 Black, Brown & White |
 | File:Black Fur Pauldrons.png | [Fur Pauldrons](Fur_Pauldrons.md)  
-(**Series**)  
+(**Styles**)  
 (**Set**) | _+3 Health_
 
 +2 Rare Pips  
@@ -1431,7 +1425,7 @@ Arms: [Gumshoe Longcoat](Gumshoe_Longcoat.md)
 _+Talent: **[Berserker](Cut_Content.md#berserker)**_  
 _+Talent: [**Enforcer's Strength**](Talents.md#enforcers-strength)_  
 _+Set Talent: [**Enforcer's Pull**](Talents.md#enforcers-pull)_  
-**Requires: Power 8**
+**Requires Power 8**
 
  | Variants:  
 Enforcer & Hardened Enforcer
@@ -1697,7 +1691,7 @@ _+2 Posture_
 +1 Legendary Pip  
 _+Talent: [**Crippling Impact**](Talents.md#crippling-impact)_  
 _+Set Talent: [**Lasting Trauma**](Talents.md#lasting-trauma)_  
-**Requires Power 20, Strength 25**
+**Requires Power 20, 25 Strength**
 
  | Variants:  
 Evanspear & Reinforced
@@ -1798,7 +1792,7 @@ Face: [Smith's Goggles](<Smith's_Goggles.md>) |
 +1 Rare Pip  
 _+Talent: [**Stormcall**](Talents.md#stormcall)_  
 _+Set Talent: [**Shock Trooper Specialist**](Talents.md#shock-trooper-specialist)_  
-**Requires Power 20, Galebreathe 30, Thundercall 30**
+**Requires Power 20, 30 Galebreathe, 30 Thundercall**
 
  | Variants:  
 Shock Trooper & Specialist
@@ -1895,7 +1889,7 @@ _+2 Posture_
 +1 Rare Pip  
 +2 Legendary Pips  
 _+Talent: [**Overflowing Dam**](Talents.md#overflowing-dam)_  
-**Requires Power 13, Intelligence 5**
+**Requires Power 13, 5 Intelligence**
 
  | Styles:  
 Lilac, Navy, Sky & Verdant
@@ -1964,6 +1958,8 @@ _+Talent: [**Cognito Hazard**](Talents.md#cognito-hazard)_
 (**Unobtainable**) | Confidential Information | N/A |
 
 **Legs:**
+
+Every quality star on Legs Equipment provides an additional +1 Health. Additionally, most Legs Equipment items can be [Enchanted](Enchantments.md).
 
 | 
 Image
@@ -2140,7 +2136,7 @@ Legs: [Evanspear War Boots](Evanspear_War_Boots.md)
 Arms: [Flameguard Pauldrons](Flameguard_Pauldrons.md)  
 Legs: [Flameguard Boots](Flameguard_Boots.md) |
 | File:White fur boots.png | [Fur Boots](Fur_Boots.md)  
-(**Series**)  
+(**Styles**)  
 (**Set**) | _+3 Health_  
 _+2% Elemental Armor_
 
@@ -2341,7 +2337,7 @@ Legs: [Silver Sabatons](Silver_Sabatons.md) |
 +1 Uncommon Pip  
 _+Talent: [**Flashwind**](Talents.md#flashwind)_  
 _+Set Talent: [**Shock Trooper Specialist**](Talents.md#shock-trooper-specialist)_  
-**Requires Power 20, Galebreathe 30, Thundercall 30**
+**Requires Power 20, 30 Galebreathe, 30 Thundercall**
 
  | Variants:  
 Shock Trooper & Specialist
@@ -2439,6 +2435,8 @@ Arms: [Woodland Pauldrons](Woodland_Pauldrons.md)
 Legs: [Woodland Boots](Woodland_Boots.md) |
 
 **Torso:**
+
+Torso Equipment cannot be [Enchanted](Enchantments.md).
 
 | 
 Image
@@ -2778,6 +2776,8 @@ _+Talent: [**Wormwarder**](Talents.md#wormwarder)_
 
 **Face:**
 
+Face Equipment cannot be [Enchanted](Enchantments.md).
+
 | 
 Image
 
@@ -2975,6 +2975,8 @@ Face: [Western Outlaw Mask](Western_Outlaw_Mask.md)
 
 **Ears:**
 
+Ears Equipment cannot be [Enchanted](Enchantments.md).
+
 | 
 Image
 
@@ -3010,7 +3012,7 @@ Crystal Pendant & Frost Crystal |
 _\-2 Posture_
 
 _+Talent: [**Inky Pearls**](Talents.md#inky-pearls)_  
-**Requires Power 10, Shadowcast 40**
+**Requires Power 10, 40 Shadowcast**
 
  | N/A |
 |  | [Dew Drop Earrings](Dew_Drop_Earrings.md) | +1 Common Pip
@@ -3127,7 +3129,11 @@ Dew Drop & Vaporfrost |
 
 **Rings:**
 
-Rings are unique among the available equipment, as up to 4 can be equipped at once. While the stats they provide are usually mediocre, they shine in their other, unique effects. The player cannot equip multiple of the same Ring Type (excluding Silver Rings & Gold Rings)
+Rings are unique among the available equipment, as up to 4 rings can be equipped at once. While the stats they provide are usually mediocre, they shine in their unique passive effects.
+
+With the exception of [Gold](Gold_Ring.md) and [Silver Rings](Silver_Ring.md), the player cannot equip multiple copies of the same Ring.
+
+Rings Equipment cannot be [Enchanted](Enchantments.md).
 
 | 
 Image
@@ -3252,7 +3258,7 @@ If using Eruption Path: Lava Serpent, Eruption delay is reduced.
  |
 |  | [Gold Ring](Gold_Ring.md) |   
 +1 Uncommon Pip |
-|  | [Heavy Hands Ring](Heavy_Hands_Ring.md) | Makes your "M1" attack 10% slower but do 30% more posture damage.
+|  | [Heavy Hands Ring](Heavy_Hands_Ring.md) | Reduces your swing speed by 10%, but increases your M1 posture damage by 30%.
 
   
 +1 Uncommon Pip
@@ -3265,7 +3271,7 @@ If using Eruption Path: Lava Serpent, Eruption delay is reduced.
 
  |
 |  | [Konga's Clutch Ring](<Konga's_Clutch_Ring.md>) | Allows the user to slide with little delay. |
-|  | [Light Eater Ring](Light_Eater_Ring.md) | Taking Flamecharm or Thundercall damage (e.g. Mantras, Burn, Surge Overloads) will cause you to gain Ether. Ether gain scales on damage taken. Also procs on block and parry. Does not work on self damage.
+|  | [Light Eater Ring](Light_Eater_Ring.md) | Taking Flamecharm or Thundercall damage will cause you to gain Ether. Ether gain scales on damage taken. Also procs on block and parry. Does not work on self damage.
 
   
 _+2% Elemental Armor_  
@@ -3355,7 +3361,7 @@ _+20 Health_
 +2 Rare Pips
 
  |
-|  | [Windmill Ring](Windmill_Ring.md) | Taking Frostdraw or Galebreathe damage (e.g. Mantras, Apparitions, Crystal Detonations) will cause you to gain Ether. Ether gain scales on damage taken. Also procs on block and parry. Cannot proc on self damage.
+|  | [Windmill Ring](Windmill_Ring.md) | Taking Frostdraw or Galebreathe damage will cause you to gain Ether. Ether gain scales on damage taken. Also procs on block and parry. Cannot proc on self damage.
 
   
 _+2% Elemental Armor_  
