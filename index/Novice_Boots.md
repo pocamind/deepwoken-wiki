@@ -1,6 +1,6 @@
 ---
 title: Novice Boots
-revid: 199568
+revid: 205908
 source: https://deepwoken.fandom.com/wiki/Novice_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -15,8 +15,8 @@ categories: [Equipment, Legs, Boots]
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +3 Health, +1 Rare Pip |
-| innate talent | N/A |
+| innate stats | +3 Health, +1 Posture, +1 Rare Pip |
+| innate talent | Steady Footing |
 | set | Novice Brace, Novice Boots |
 | set talent | N/A |
 | bankable | Yes |
@@ -29,3 +29,5 @@ categories: [Equipment, Legs, Boots]
 ## Description
 
 Novice Boots are an [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Novice Set.
+
+The [Steady Footing](Talents.md#steady-footing) Talent lessens the effects of knockback on the player, especially on ice.

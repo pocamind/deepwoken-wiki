@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Sabatons
-revid: 200244
+revid: 205874
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Sabatons]
@@ -13,7 +13,7 @@ categories: [Equipment, Legs, Sabatons]
 | type | Legs |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | PWR 6 |
+| requirements | Power 5 |
 | weight | 1 |
 | innate stats | +4 Health, +2 Rare Pips |
 | innate talent | N/A |
@@ -26,15 +26,9 @@ categories: [Equipment, Legs, Sabatons]
 | obtainment | Chests from:, Duke Ishamon Erisia, The Eternal Gale, Miner's Landing, Maestro Evengarde Rest, Dread Serpent, Lodestar, Saramaed Hollow, Heart of Enmity, War Mode |
 | description | ... |
 
-Grand Authority Set
-
-Variants: [Grand Authority Plate](Grand_Authority_Plate.md)
-
 ## Description
 
 Grand Authority Sabatons are an [Equipment](Equipment.md) item under the "Legs" category.
-
-The Grand Authority Sabatons, along with the [Grand Authority Plate](Grand_Authority_Plate.md), is part of the Grand Authority Set.
 
 ## Trivia
 

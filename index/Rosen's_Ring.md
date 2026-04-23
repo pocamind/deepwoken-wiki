@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Ring"
-revid: 193216
+revid: 205859
 source: https://deepwoken.fandom.com/wiki/Rosen's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, Scaling Rings, The Summer Company]
@@ -13,7 +13,7 @@ categories: [Equipment, Rings, Scaling Rings, The Summer Company]
 | type | Ring |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | Level 6 |
+| requirements | N/A |
 | weight | 0.1 |
 | innate stats | +1 Legendary Pip |
 | bankable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Etrean Siege Cuirass
-revid: 195431
+revid: 205872
 source: https://deepwoken.fandom.com/wiki/Etrean_Siege_Cuirass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cuirasses, Etrea]
@@ -25,8 +25,6 @@ categories: [Equipment, Arms, Cuirasses, Etrea]
 | pass down | Yes |
 | obtainment | Chests from:, The Depths (Second Layer), Saramaed Summit, Miner's Landing, Lodestar, Crypt of the Unbroken, Heart of Enmity, Maestro Evengarde Rest, Dread Serpent, Starswept Valley |
 | description | ... |
-
-Etrean Siege Set
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 205692
+revid: 205915
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4470,8 +4470,6 @@ Certain Talents are given when a specific equipment or outfit is worn. Multiple 
 
 -   Enforcer's Technique: [Hardened Enforcer Boots](Hardened_Enforcer_Boots.md) & [Reinforced Enforcer Boots](Reinforced_Enforcer_Boots.md) - Your flourishes deal 35% more damage.
 
--   Environmentalist: [Pathfinder Cloak](Pathfinder_Cloak.md) - Resist the effects of Weather Effects.
-
 -   Ether Adeptness: [Ether Empowered Earrings](Ether_Empowered_Earrings.md) & [Caster Earrings](Caster_Earrings.md) - Your mantras now deal extra chip.
     
     -   Grants 5% Mantra chip.
@@ -4724,6 +4722,9 @@ Certain Talents are given when a specific equipment or outfit is worn. Multiple 
 -   Surestep: [Delver Boots](Delver_Boots.md) & [Marrowmade Boots](Marrowmade_Boots.md) - Your boots secure your footing in all forms of terrain by digging into the ground with metal spikes.
     -   Makes you immune to the ragdoll and movement speed debuff of the Wind from the [Second Layer](Second_Layer.md) and [Moon's Eyrie](<Moon's_Eyrie.md>).
 
+-   Survivalist: [Pathfinder Cloak](Pathfinder_Cloak.md) & [Ranger's Boots](<Ranger's_Boots.md>) - Resist the effects of Weather Effects.
+    -   Reduces the damage taken from [Acid Rain](Environmental_Hazards.md).
+
 -   Tempest Evolution: [Tempestmaker's Threads](<Tempestmaker's_Threads.md>) - Your slide-jumped [Wind Blades](Galebreathe.md#wind-blade) are naturally stronger and if landed grant +20% damage in the air for a few seconds.
     -   Grants a 20% damage buff to your slide-jump [Wind Blade](Galebreathe.md#wind-blade). Also increases its range.
 
@@ -4787,6 +4788,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Multiple 
     -   Negates damage buffs from weather:
         -   [Frostdraw](Frostdraw.md) will no longer apply its 5% damage buff during snow.
         -   [Thundercall](Thundercall.md) will no longer gain its 5% damage buff during rain. Stratoshock will also no longer apply its additional 5% damage buff.
+
+-   Woodland Terrain: [Woodland Boots](Woodland_Boots.md) - You move slightly faster on grass.
 
 -   Wormwarder: [Wormwarder Lantern](Wormwarder_Lantern.md) - Your lantern generates a shroud of static electricity around you that the flesh-burrowing parasites of the Eternal Gale detest. It's not exactly the lightest thing to lug around, though.
     -   Makes you entirely immune to the [Second Layer's](Second_Layer.md) Parasites, but at a cost of granting you a mobility debuff.

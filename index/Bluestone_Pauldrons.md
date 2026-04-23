@@ -1,6 +1,6 @@
 ---
 title: Bluestone Pauldrons
-revid: 193208
+revid: 205868
 source: https://deepwoken.fandom.com/wiki/Bluestone_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses, Pauldrons]
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses, Pauldrons]
 | type | Arms |
 | rarity | Common |
 | selling price | 25 |
-| requirements | PWR 5 |
+| requirements | Power 5 |
 | weight | 2 |
 | innate stats | +5 Health, +2 Rare Pip |
 | innate talent | Ether Emergency |

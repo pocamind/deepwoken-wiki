@@ -1,9 +1,9 @@
 ---
 title: Trimmed Overcoat
-revid: 205634
+revid: 205814
 source: https://deepwoken.fandom.com/wiki/Trimmed_Overcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms]
+categories: [Equipment, Arms, Equipment Styles]
 ---
 
 # Trimmed Overcoat
@@ -31,5 +31,5 @@ The Trimmed Overcoat is an [Equipment](Equipment.md) item under the "Arms" categ
 ## Trivia
 
 -   As seen above, Brown Overcoat was the only coat with its own unique description, whilst the Black & White Overcoats use the same description as the [Parka](Fur_Parka.md). This is simply a writing error in the game's code.
--   Overcoats look similar to the [Parka](Fur_Parka.md).
--   Their descriptions are flavor text; they do not actually provide any resistance against environmental effects.
+-   Overcoats look similar to the [Fur Parka](Fur_Parka.md).
+-   The description is flavor text; it does not actually provide any resistance against environmental effects.

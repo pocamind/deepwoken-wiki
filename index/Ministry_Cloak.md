@@ -1,9 +1,9 @@
 ---
 title: Ministry Cloak
-revid: 176494
+revid: 205816
 source: https://deepwoken.fandom.com/wiki/Ministry_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Cloaks]
+categories: [Equipment, Arms, Cloaks, Equipment Styles]
 ---
 
 # Ministry Cloak

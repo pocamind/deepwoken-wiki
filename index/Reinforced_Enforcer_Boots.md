@@ -1,6 +1,6 @@
 ---
 title: Reinforced Enforcer Boots
-revid: 200667
+revid: 205894
 source: https://deepwoken.fandom.com/wiki/Reinforced_Enforcer_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses]
@@ -26,7 +26,7 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set B
 | obtainment | Mystery Boxes |
 | description | ... |
 
-Variants: [Enforcer Boots](Enforcer_Boots.md)
+Variants: [Hardened Enforcer Boots](Hardened_Enforcer_Boots.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  

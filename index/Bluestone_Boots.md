@@ -1,6 +1,6 @@
 ---
 title: Bluestone Boots
-revid: 196576
+revid: 205867
 source: https://deepwoken.fandom.com/wiki/Bluestone_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Craftable, Equipment with Set Bonuses, Boots]
@@ -13,7 +13,7 @@ categories: [Equipment, Legs, Craftable, Equipment with Set Bonuses, Boots]
 | type | Legs |
 | rarity | Common |
 | selling price | 25 |
-| requirements | Power 6 |
+| requirements | Power 5 |
 | weight | 1 |
 | innate stats | +3 Health, +2 Rare Pips |
 | innate talent | I'm Blue |

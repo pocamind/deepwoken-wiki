@@ -1,9 +1,9 @@
 ---
 title: "Inquisitor's Duster"
-revid: 205241
+revid: 205819
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Dusters]
+categories: [Equipment, Arms, Dusters, Equipment Styles]
 ---
 
 # Inquisitor's Duster

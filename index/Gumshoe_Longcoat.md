@@ -1,9 +1,9 @@
 ---
 title: Gumshoe Longcoat
-revid: 189769
+revid: 205860
 source: https://deepwoken.fandom.com/wiki/Gumshoe_Longcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Coats]
+categories: [Equipment, Arms, Coats, Equipment Styles]
 ---
 
 # Gumshoe Longcoat
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Coats]
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | None |
+| requirements | Power 5 |
 | weight | 2 |
 | innate stats | +1 Rare Pip |
 | innate talent | None |

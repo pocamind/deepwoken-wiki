@@ -1,6 +1,6 @@
 ---
 title: "Konga's Clutch Ring"
-revid: 200523
+revid: 205853
 source: https://deepwoken.fandom.com/wiki/Konga's_Clutch_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -12,8 +12,8 @@ categories: [Equipment, Rings]
 |---|---|
 | type | Ring |
 | rarity | Uncommon |
-| selling price | 19 |
-| requirements | Lvl 3 |
+| selling price | 14 |
+| requirements | N/A |
 | weight | 0.1 |
 | innate stats | 1 Uncommon Pip |
 | bankable | Yes |
@@ -31,4 +31,4 @@ Konga's Clutch Ring allows the user to slide with little delay upon being equipp
 
 ## Trivia
 
--   The slide speed boost provided can be stacked with other sources of movement speed such as [Warding Radiance](Talents.md#flame-warden) and Ice surfaces.
+-   The slide speed boost provided can be stacked with other sources of movement speed such as [Warding Radiance](Talents.md#warding-radiance) and Ice surfaces.

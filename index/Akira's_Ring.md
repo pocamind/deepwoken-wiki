@@ -1,6 +1,6 @@
 ---
 title: "Akira's Ring"
-revid: 199727
+revid: 205844
 source: https://deepwoken.fandom.com/wiki/Akira's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, The Divers, Scaling Rings]
@@ -13,9 +13,9 @@ categories: [Equipment, Rings, The Divers, Scaling Rings]
 | type | Ring |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | Power 6 |
+| requirements | N/A |
 | weight | 0.1 |
-| innate stats | 1 Legendary Pip |
+| innate stats | +1 Legendary Pip |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Cloak
-revid: 194662
+revid: 205913
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits]
@@ -19,7 +19,7 @@ categories: [Outfits, Adept Outfits]
 | droppable | Yes |
 | durability | 1200 |
 | resistances | +18% Physical Armor, +8% Elemental Armor |
-| talents | Environmentalist |
+| talents | Survivalist |
 | obtainment | Sold by Nyanna, Sold near FriidChests from:, Erisia/General Sea Event Loot, Moon's Eyrie, Primadon, Titan of the East |
 | selling_price | 10 |
 | weight | 1 |
@@ -37,6 +37,6 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 5 
 
 ### _Armor Stats_
 
-This Outfit has 1200 durability, grants +18% Physical Armor, and +8% Elemental Armor. Additionally, it provides the [Environmentalist](Talents.md#environmentalist) Talent.
+This Outfit has 1200 durability, grants +18% Physical Armor, and +8% Elemental Armor. Additionally, it provides the [Survivalist](Talents.md#survivalist) Talent.
 
-The [Environmentalist](Talents.md#environmentalist) Talent reduces the damage taken from certain weather effects like Acid Rain.
+The [Survivalist](Talents.md#survivalist) Talent reduces the damage taken from certain weather effects like [Acid Rain](Environmental_Hazards.md).

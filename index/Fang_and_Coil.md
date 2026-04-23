@@ -1,6 +1,6 @@
 ---
 title: Fang and Coil
-revid: 205639
+revid: 205919
 source: https://deepwoken.fandom.com/wiki/Fang_and_Coil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons, Weapons with multiple Criticals]
@@ -55,3 +55,4 @@ For its **Running Critical**, the user performs a front-flip followed by a dazin
 ## Trivia
 
 -   Added on the 2025-01-18 Weekly update.
+-   Makes your running animation twice as fast for unknown reasons.

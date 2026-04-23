@@ -1,6 +1,6 @@
 ---
 title: Dazed Band
-revid: 199579
+revid: 205847
 source: https://deepwoken.fandom.com/wiki/Dazed_Band
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -13,7 +13,7 @@ categories: [Equipment, Rings]
 | type | Ring |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 3 |
+| requirements | N/A |
 | weight | 0.1 |
 | innate stats | +1 Uncommon Pip |
 | bankable | Yes |

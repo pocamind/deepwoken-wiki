@@ -1,6 +1,6 @@
 ---
 title: "Freestyler's Band"
-revid: 199574
+revid: 205851
 source: https://deepwoken.fandom.com/wiki/Freestyler's_Band
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -13,7 +13,7 @@ categories: [Equipment, Rings]
 | type | Ring |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Lvl 3 |
+| requirements | N/A |
 | weight | 0.1 |
 | bankable | Yes |
 | droppable | Yes |

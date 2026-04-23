@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 205807
+revid: 205836
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, Equipment, In progress with VOI reason]
@@ -996,7 +996,7 @@ _+Talent: [**Kick Off**](Talents.md#kick-off)_
 Arms: [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>)  
 Legs: [Abyss Wanderer's Boots](<Abyss_Wanderer's_Boots.md>) |
 | File:Sable Adjudicator's.png | [Adjudicator's Coat](<Adjudicator's_Coat.md>)  
-(**Series**)  
+(**Styles**)  
 (**Animated**) | +2 Rare Pips
 
 _+Talent: [**Unwavering Resolve**](Talents.md#unwavering-resolve)_  
@@ -1073,7 +1073,7 @@ Arms: [Assassin's Cloak](<Assassin's_Cloak.md>)
 
  |
 | File:Ruby Authority Commander Coat.png | [Authority Commander Coat](Authority_Commander_Coat.md)  
-(**Series**)  
+(**Styles**)  
 (**Animated**) | _+10 Health_
 
 +2 Rare Pips  

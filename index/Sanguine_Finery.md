@@ -1,6 +1,6 @@
 ---
 title: Sanguine Finery
-revid: 202659
+revid: 205916
 source: https://deepwoken.fandom.com/wiki/Sanguine_Finery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, World Event]
@@ -42,7 +42,9 @@ This Outfit has 2600 durability and grants +25% Physical resistance, +30% Elemen
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical, 47.5% Bloodrend, and 30% Elemental.
 
-The [Focused Hematoma](Talents.md#focused-hematoma) Talent lowers all outside sources of blood loss by 25%, but also reduces temporary health gain by 15%. The [Sheltering Grasp](Talents.md#sheltering-grasp) Talent reduces the blood cost of casting Bloodrend Mantras while standing in blood pools.
+The [Focused Hematoma](Talents.md#focused-hematoma) Talent lowers all outside sources of blood loss by 25%, but also reduces temporary health gain by 15%.
+
+The [Sheltering Grasp](Talents.md#sheltering-grasp) Talent reduces the blood cost of casting Bloodrend Mantras while standing in blood pools.
 
 ## Trivia
 

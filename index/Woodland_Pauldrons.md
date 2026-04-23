@@ -1,6 +1,6 @@
 ---
 title: Woodland Pauldrons
-revid: 196584
+revid: 205886
 source: https://deepwoken.fandom.com/wiki/Woodland_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Pauldrons]
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | +3 Health, +2 Rare Pips |
+| innate stats | +2 Health, +1 Rare Pip |
 | innate talent | Polite Awakening |
 | set | Woodland Pauldrons, Woodland Boots |
 | set talent | N/A |

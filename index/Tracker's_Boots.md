@@ -1,6 +1,6 @@
 ---
 title: "Tracker's Boots"
-revid: 176596
+revid: 205909
 source: https://deepwoken.fandom.com/wiki/Tracker's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -16,7 +16,7 @@ categories: [Equipment, Legs, Boots]
 | requirements | None |
 | weight | 1 |
 | innate stats | +3 Health, +1 Rare Pip |
-| innate talent | N/A |
+| innate talent | Lowstride |
 | set | Tracker's Brace, Tracker's Boots |
 | set talent | N/A |
 | bankable | Yes |
@@ -29,3 +29,5 @@ categories: [Equipment, Legs, Boots]
 ## Description
 
 Tracker's Boots are accessories under the "_Legs_" category. They can be found through chests in [Erisia](Erisia.md) and [Starswept Valley](The_Starswept_Valley.md).
+
+The [Lowstride](Talents.md#lowstride) Talent grants additional Stealth and movement speed while crouched. Additionally, this Talent silences the weapon sheathe sound effect.

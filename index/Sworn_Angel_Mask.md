@@ -1,6 +1,6 @@
 ---
 title: Sworn Angel Mask
-revid: 176583
+revid: 205918
 source: https://deepwoken.fandom.com/wiki/Sworn_Angel_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -28,7 +28,7 @@ categories: [Equipment, Face, Masks]
 
 The Sworn Angel Mask is an [Equipment](Equipment.md) item under the "Face" category. This item worn by the [Sworn Angel](Sworn_Angel.md), and drops from them rarely.
 
-The [Angel's Guise](Talents.md#angels-guise) Talen removes the ability for [Watchers](Watcher.md) to lock onto you with Watcher's Gaze. Additionally, you will gain the ability to speak with the Watchers, granting unique dialogue.
+The [Angel's Guise](Talents.md#angels-guise) Talent removes the ability for [Watchers](Watcher.md) to lock onto you with Watcher's Gaze. Additionally, you will gain the ability to speak with the Watchers, granting unique dialogue.
 
 ## Trivia
 

@@ -1,9 +1,9 @@
 ---
 title: Authority Commander Coat
-revid: 176343
+revid: 205827
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Coats, Equipment of The Central Authority]
+categories: [Equipment, Arms, Coats, Equipment Styles, Equipment of The Central Authority]
 ---
 
 # Authority Commander Coat
@@ -32,4 +32,4 @@ The Authority Commander Coat is an animated [Equipment](Equipment.md) item under
 
 -   Despite being called the Authority Commander Coat, [Authority Commanders](<Authority_Commander_(Enemy).md>) don't wear it.
 -   Together with the [Adjudicator's Coat](<Adjudicator's_Coat.md>), It used to be unsellable but this was later changed due to it clogging players' inventories.
--   This coat has the most variants out of any arms equipment.
+-   This coat has the most styles out of any arms equipment.

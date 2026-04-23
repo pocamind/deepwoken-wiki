@@ -1,6 +1,6 @@
 ---
 title: Western Outlaw Boots
-revid: 176610
+revid: 205898
 source: https://deepwoken.fandom.com/wiki/Western_Outlaw_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -15,7 +15,7 @@ categories: [Equipment, Legs, Boots]
 | selling price | N/A |
 | requirements | PWR 10 |
 | weight | 1 |
-| innate stats | +3% Lightning Armor, +3% Wind Armor, +1 Uncommon Pip, +1 Rare Pip |
+| innate stats | +5 Health, +3% Lightning Armor, +3% Wind Armor, +1 Rare Pip |
 | set | Western Outlaw Hat, Western Outlaw Robes, Western Outlaw Boots, Western Outlaw Mask |
 | set talent | N/A |
 | bankable | Yes |

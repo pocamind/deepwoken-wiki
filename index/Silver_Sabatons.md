@@ -1,6 +1,6 @@
 ---
 title: Silver Sabatons
-revid: 176567
+revid: 205883
 source: https://deepwoken.fandom.com/wiki/Silver_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Sabatons]
@@ -13,7 +13,7 @@ categories: [Equipment, Legs, Sabatons]
 | type | Legs |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | LVL 6 |
+| requirements | Power 5 |
 | weight | 1 |
 | innate stats | +3 Health+2 Rare Pips, +1 Legendary Pip |
 | innate talent | N/A |

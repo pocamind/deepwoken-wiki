@@ -1,6 +1,6 @@
 ---
 title: Reinforced Authority Plate
-revid: 190001
+revid: 205876
 source: https://deepwoken.fandom.com/wiki/Reinforced_Authority_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Plates]
@@ -16,7 +16,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Plates]
 | requirements | PWR 10 |
 | weight | 2 |
 | innate stats | +8 Health, +1 Uncommon Pip, +1 Rare Pip, +1 Legendary Pip |
-| innate talent | Clutch, Heavy Haul |
+| innate talent | ClutchHeavy Haul |
 | bankable | No |
 | droppable | No |
 | enchantable | Yes |

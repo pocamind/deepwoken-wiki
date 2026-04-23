@@ -1,6 +1,6 @@
 ---
 title: Chained Ring
-revid: 197120
+revid: 205846
 source: https://deepwoken.fandom.com/wiki/Chained_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -13,7 +13,7 @@ categories: [Equipment, Rings]
 | type | Ring |
 | rarity | Rare |
 | selling price | - |
-| requirements | Power 3 |
+| requirements | N/A |
 | weight | 0.1 |
 | innate stats | +1 Uncommon Pip |
 | bankable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Woodland Boots
-revid: 205612
+revid: 205885
 source: https://deepwoken.fandom.com/wiki/Woodland_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -13,7 +13,7 @@ categories: [Equipment, Legs, Boots]
 | type | Legs |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | None |
+| requirements | Power 5 |
 | weight | 1 |
 | innate stats | +1 Rare Pip |
 | innate talent | Woodland Terrain |
@@ -30,7 +30,7 @@ categories: [Equipment, Legs, Boots]
 
 The Woodland Boots are an [Equipment](Equipment.md) item under the "**Legs**" category.
 
-The Woodland Terrain Talent makes you move slightly faster on grass.
+The [Woodland Terrain](Talents.md#woodland-terrain) Talent makes you move slightly faster on grass.
 
 ## Trivia
 

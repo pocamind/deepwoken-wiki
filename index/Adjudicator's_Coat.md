@@ -1,9 +1,9 @@
 ---
 title: "Adjudicator's Coat"
-revid: 191872
+revid: 205835
 source: https://deepwoken.fandom.com/wiki/Adjudicator's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Coats]
+categories: [Equipment, Arms, Coats, Equipment Styles]
 ---
 
 # Adjudicator's Coat

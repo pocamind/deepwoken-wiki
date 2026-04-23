@@ -1,6 +1,6 @@
 ---
 title: "Pariah's Keepsake"
-revid: 203210
+revid: 205857
 source: https://deepwoken.fandom.com/wiki/Pariah's_Keepsake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, The Divers]
@@ -13,7 +13,7 @@ categories: [Equipment, Rings, The Divers]
 | type | Ring |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 3 |
+| requirements | N/A |
 | weight | 0.1 |
 | innate stats | None |
 | bankable | Yes |
