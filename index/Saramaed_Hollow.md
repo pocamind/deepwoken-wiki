@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 205654
+revid: 205922
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Dungeons, Locations, Locations in the Eastern Luminant]
@@ -35,7 +35,7 @@ Note that all the maps contain lava as an environmental hazard, which deal an ex
 
 Orb which used to refuel Union Drill
 
-**Saramaed Hollow** features 20 Floors in 100 meter increments (2000 meters or 2KM in total). Floor 0/0 meters is a lobby area that features a Heat Stone Resting Spot, a Training Gear Cabinet, a Crafting Table, an Antiquarian, a Mystic and a Blacksmith. There are also pickaxes on the ground by the Union Drill available to buy for 3 notes if you do not already own one.
+**Saramaed Hollow** features 20 Floors in 100 meter increments (2000 meters or 2KM in total). Floor 0/0 meters is a lobby area that features a Heat Stone Resting Spot, a Training Gear Cabinet, a Crafting Table, an Antiquarian, a Mantra Lectern and a Blacksmith. There are also pickaxes on the ground by the Union Drill available to buy for 3 notes if you do not already own one.
 
 Each floor of the dungeon has you go down 100 meters (IE: floor 10 is 1000m, floor 20 is 2000m). To travel through each floor, the Ignition Deepdrill is used, fitted with a lever to go to the next floor and a radio to return to the lobby, which can notably be used anytime, even while in danger.
 

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Mastery
-revid: 200628
+revid: 205929
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics]
@@ -47,6 +47,7 @@ Shrine of Mastery has two different effects.
     -   Talents that require attribute category investment instead of a specific attribute such as [Mind](../Attributes.md#body-and-mind), [Body](../Attributes.md#body-and-mind), Element, or Weapon as well as the [Attributes Unbound](../Attributes_Unbound.md) Talents are ignored by Shrine of Mastery, allowing you to reinvest freely.
 -   You cannot use this shrine if you have a talent or [whisper draw](../Whisper_Draw.md) pending
 -   Despite popular belief, you can still change your attributes with this after Shrine of Order.
+    -   You can't lower more than Shrine of Order set your attributes if pre-shrine it was higher. (Ex. Pre 40 FORT > Post 16 FORT, you won't be able to lower more than to 16 FORT.)
     -   This idea stemmed from the previously mentioned Talent investment exception.
 -   Unlike with Talents, you can re-arrange stats used to acquire almost all [Oaths](../Oaths.md), allowing you to go below your Oath stat requirements while keeping your Oath.
     -   The only exception to this is [Arcwarder](../Oath%253A_Arcwarder.md), as you cannot lower your Attunement stats due to the Attunement Adept Talents.
@@ -135,9 +136,3 @@ If the player has not invested any Attribute or Trait points, this dialogue will
 ## Navigation
 
 Variants: [Shrine of Temptation](Shrine_of_Temptation.md)
-
-## Gallery
-
-The shrine's location celtor wastes
-
-Entrance of the cave where the shrine is located in the Starswept Valley
