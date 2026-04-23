@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 201358
+revid: 205941
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Wardens of The Central Authority, NPCs located in the Eastern Luminant, Circle of Honour members]
@@ -33,7 +33,7 @@ He appears as an aged Adretian man with red eyes and markings, with a faded scar
 
 Much like the rest of him, his personality is still a mystery. Unlike most members of the Authority, he appears to actually pity the [Etreans](Etrea.md), knowing that [The Lord Regent](The_Lord_Regent.md) is dragging them into this 'war they cannot understand' and sees their Lord Regent as a 'thing' rather than a person.
 
-He dons a Red Royal Duelist and is clad over a [Authority Captain Uniform](Authority_Captain_Uniform.md). A gold-colored [Warmaster's Medallion](<Warmaster's_Medallion.md>) sits on his neck and a pair of [Vanguard Boots](Vanguard_Boots.md) on his feet. He holsters a bell on his hip, signifying his strength to obtain a [Resonance](Resonance.md). On his other hip, he wields the [Rite of Authority](Rite_of_Authority.md).
+He dons a red [Royal Duelist](Royal_Duelist.md) and is clad over a [Authority Captain Uniform](Authority_Captain_Uniform.md). A gold-colored [Warmaster's Medallion](<Warmaster's_Medallion.md>) sits on his neck and a pair of [Vanguard Boots](Vanguard_Boots.md) on his feet. He holsters a bell on his hip, signifying his strength to obtain a [Resonance](Resonance.md). On his other hip, he wields the [Rite of Authority](Rite_of_Authority.md).
 
 ## Location
 

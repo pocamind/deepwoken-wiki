@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 205291
+revid: 205939
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -75,6 +75,12 @@ Dodge
  | The golem raises its leg before giving a powerful earthshaking stomp.
 
 -   Auto-grips if low enough
+
+_Uses Telegraph_
+
+[JumpTelegraph](Combat_Mechanics.md#white)
+
+Jump
 
  |  |
 | 

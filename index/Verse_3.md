@@ -1,17 +1,14 @@
 ---
 title: Verse 3
-revid: 204578
+revid: 205934
 source: https://deepwoken.fandom.com/wiki/Verse_3
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages with reason, StubPages, Upcoming content, Pages with broken file links, Updates]
+categories: [Upcoming content, Updates]
 notices:
-  - "This page is a stub. It requires further information, or has little to no information. Ironsworn section needs a short overview of Vow of Iron."
   - "This page contains upcoming content. This page contains information that was revealed by official sources, such as the Deepwoken Twitter. Information may be subject to change and is not representative of the final product. Information sourced from datamines and leaked game versions are strictly banned on the Wiki. Prohibited content will be deleted and will result in a block."
 ---
 
 # Verse 3
-
-File:Verse 3-Roadmap.png
 
 Verse 3 Roadmap
 
@@ -76,7 +73,3 @@ The first update directly stated to be focused toward game health was released o
 ## Trivia
 
 -   Verse 3 is a series of updates, different from [Verse 2](Verse_2.md), which was mainly one big update.
-
-## References
-
-Message from Raguza

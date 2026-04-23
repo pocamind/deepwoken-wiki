@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 205836
+revid: 205942
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, Equipment, In progress with VOI reason]
@@ -1710,7 +1710,7 @@ Legs: [Reinforced War Boots](Reinforced_War_Boots.md)
 
  |
 | File:Faded Royal Duelist.png | [Royal Duelist](Royal_Duelist.md)  
-(**Series**)  
+(**Styles**)  
 (**Animated**) | +2 Rare Pips
 
 **Requires Power 5**

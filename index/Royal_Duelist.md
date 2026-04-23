@@ -1,9 +1,9 @@
 ---
 title: Royal Duelist
-revid: 205236
+revid: 205940
 source: https://deepwoken.fandom.com/wiki/Royal_Duelist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms]
+categories: [Equipment, Arms, Equipment Styles]
 ---
 
 # Royal Duelist

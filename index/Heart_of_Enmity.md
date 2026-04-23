@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 205705
+revid: 205930
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Bosses, Voiced Characters]
@@ -183,7 +183,7 @@ After Heart of Enmity is defeated, everyone who participated is rewarded with a 
   <ol>
     <li><b>Unique Arms</b>: <a href="Bastions_of_Enmity.md"><font>Bastions of Enmity</font></a></li>
     <li><b>Legendary Arms</b>: <a href="Ironsinger_Heavy_Plate.md"><font>Ironsinger Heavy Plate</font></a></li>
-    <li><b>Generic Arms</b>: <a href="Blacksteel_Pauldrons.md">Blacksteel Pauldrons</a>, <a href="Brilliant_Pauldrons.md">Brilliant Pauldron</a>, <a href="Etrean_Siege_Cuirass.md">Etrean Siege Cuirass</a>, <a href="Imperial_Pauldrons.md">Imperial Pauldrons</a>, <a href="Legion_Phalanx_Plate.md">Legion Phalanx Plate</a>, <a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Ministry_Operative_Cloak.md">Ministry Operative Cloak</a>, <a href="Novice_Brace.md">Novice Brace</a>, Overcoats (Black &amp; Brown), <a href="Smith's_Gloves.md">Smith's Gloves</a>, <a href="Vanguard_Brace.md">Vanguard Brace</a></li>
+    <li><b>Generic Arms</b>: <a href="Blacksteel_Pauldrons.md">Blacksteel Pauldrons</a>, <a href="Brilliant_Pauldrons.md">Brilliant Pauldron</a>, <a href="Etrean_Siege_Cuirass.md">Etrean Siege Cuirass</a>, <a href="Imperial_Pauldrons.md">Imperial Pauldrons</a>, <a href="Legion_Phalanx_Plate.md">Legion Phalanx Plate</a>, <a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Ministry_Operative_Cloak.md">Ministry Operative Cloak</a>, <a href="Novice_Brace.md">Novice Brace</a>, <a href="Trimmed_Overcoat.md">Overcoat</a>, <a href="Smith's_Gloves.md">Smith's Gloves</a>, <a href="Vanguard_Brace.md">Vanguard Brace</a></li>
   </ol></li>
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>:
   <ol>
