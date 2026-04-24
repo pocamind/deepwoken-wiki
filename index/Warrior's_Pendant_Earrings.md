@@ -1,9 +1,9 @@
 ---
 title: "Warrior's Pendant Earrings"
-revid: 200671
+revid: 205992
 source: https://deepwoken.fandom.com/wiki/Warrior's_Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Ears]
+categories: [Vow of Iron Exclusive, Equipment, Ears, Earrings]
 ---
 
 # Warrior's Pendant Earrings

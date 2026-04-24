@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 205949
+revid: 205998
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, Equipment, In progress with VOI reason]
@@ -888,7 +888,7 @@ Black & Double |
 
  | N/A |
 | File:Navy Warlock Brim.png | [Warlock's Brim](<Warlock's_Brim.md>)  
-(**Series**)  
+(**Styles**)  
 (**Set**)  
 (**Unique**) | _+5 Health_
 
@@ -896,7 +896,11 @@ Black & Double |
 **Requires Power 16**
 
  | Styles:  
-Lilac, Navy, Sky, Verdant, Ether Refined
+Lilac, Navy, Sky & Verdant
+
+  
+Variants:  
+Warlock & Ether Refined
 
   
 Set: Warlock  
@@ -1881,7 +1885,7 @@ _+2 Posture_
 
  | N/A |
 | File:Navy Warlock Mantle.png | [Warlock's Mantle](<Warlock's_Mantle.md>)  
-(**Series**)  
+(**Styles**)  
 (**Set**)  
 (**Animated**)  
 (**Unique**) | _+7 Health_

@@ -1,6 +1,6 @@
 ---
 title: "Sorcerer's Brim"
-revid: 201577
+revid: 205990
 source: https://deepwoken.fandom.com/wiki/Sorcerer's_Brim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Hats, Equipment, Head, Equipment with Set Bonuses]
@@ -39,7 +39,7 @@ Variants: [Mantle](<Sorcerer's_Mantle.md>)
 
 The Sorcerer's Brim is a Unique tier [Equipment](Equipment.md) item under the "Head" category.
 
-The [Sorcerer's Skill](Talents.md#sorcerers-skill) Talent decreases the [Tempo](Combat_Mechanics.md#tempo) cost of [Venting](Combat_Mechanics.md#tempo) by 5.
+The [Sorcerer's Skill](Talents.md#sorcerers-skill) Talent restores 5 [Tempo](Combat_Mechanics.md#tempo) after a successful Vent. At the default Vent cost of 40, this Talent restores 12.5% of the Tempo used.
 
 ## Set Talent
 

@@ -1,6 +1,6 @@
 ---
 title: Ether Refined Hide
-revid: 205551
+revid: 205981
 source: https://deepwoken.fandom.com/wiki/Ether_Refined_Hide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients, Craftable]
@@ -12,6 +12,7 @@ categories: [Items, Ingredients, Craftable]
 |---|---|
 | stack | x?? |
 | type | Ingredient |
+| usage | Crafting material |
 | bankable | No |
 | droppable | No |
 | pass down | No |
@@ -25,7 +26,7 @@ Ingredient used to craft ether-related equipment.
 ## Crafting
 
 -   [Equipment](Equipment.md)
-    -   [Ether Refined Brim](Ether_Refined_Brim.md): 1x Ether Refined Hide + Sky Warlock's Brim + 1x [Shiva's Codex](<Shiva's_Codex.md>)
-    -   [Ether Refined Mantle](Ether_Refined_Mantle.md): Ether Refined Hide + 1x Sky Warlock's Mantle + 1x [Shiva's Codex](<Shiva's_Codex.md>)
+    -   [Ether Refined Brim](Ether_Refined_Brim.md): 1x Ether Refined Hide + [Warlock's Brim](<Warlock's_Brim.md>) + 1x [Shiva's Codex](<Shiva's_Codex.md>)
+    -   [Ether Refined Mantle](Ether_Refined_Mantle.md): Ether Refined Hide + 1x [Warlock's Mantle](<Warlock's_Mantle.md>) + 1x [Shiva's Codex](<Shiva's_Codex.md>)
     -   [Ether Imbued Earrings](Ether_Imbued_Earrings.md): 1x Ether Refined Hide + 1x [Practicioner's Earrings](<Practicioner's_Earrings.md>)
     -   [Ether Empowered Earrings](Ether_Empowered_Earrings.md): 1x Ether Refined Hide + 1x [Pendant Earrings](Pendant_Earrings.md)

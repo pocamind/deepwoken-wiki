@@ -1,6 +1,6 @@
 ---
 title: Lost Forge of Leiuna
-revid: 205555
+revid: 205979
 source: https://deepwoken.fandom.com/wiki/Lost_Forge_of_Leiuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, World Event]
@@ -139,10 +139,10 @@ Use **CTRL + F** to search for a specific item.
 | [Necrotic Mask](Necrotic_Mask.md) | 1x [Bloodfeather Mask](Bloodfeather_Mask.md)  
 1x [Necrotic Membrane](Necrotic_Membrane.md)  
 1x [Parasol Part](Parasol_Part.md) |
-| [Ether Refined Brim](Ether_Refined_Brim.md) | 1x Sky Warlock's Brim  
+| [Ether Refined Brim](Ether_Refined_Brim.md) | 1x [Warlock's Brim](<Warlock's_Brim.md>)  
 1x [Ether Refined Hide](Ether_Refined_Hide.md)  
 1x [Shiva's Codex](<Shiva's_Codex.md>) |
-| [Ether Refined Mantle](Ether_Refined_Mantle.md) | 1x Sky Warlock's Mantle  
+| [Ether Refined Mantle](Ether_Refined_Mantle.md) | 1x [Warlock's Mantle](<Warlock's_Mantle.md>)  
 1x [Ether Refined Hide](Ether_Refined_Hide.md)  
 1x [Shiva's Codex](<Shiva's_Codex.md>) |
 | [Ether Imbued Earrings](Ether_Imbued_Earrings.md) | 1x [Practicioner's Earrings](<Practicioner's_Earrings.md>)  

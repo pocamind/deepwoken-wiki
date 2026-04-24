@@ -1,9 +1,9 @@
 ---
 title: "Warlock's Brim"
-revid: 201569
+revid: 205983
 source: https://deepwoken.fandom.com/wiki/Warlock's_Brim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Hats, Equipment, Head, World Event]
+categories: [Hats, Equipment, Head, World Event, Equipment Styles]
 ---
 
 # Warlock's Brim
@@ -27,4 +27,4 @@ categories: [Hats, Equipment, Head, World Event]
 
 ## Description
 
-The Warlock's Brim is a Unique tier [Equipment](Equipment.md) item under the "Hats" category. It is found in chests dropped by [The Doom of Caeranthil](The_Doom_of_Caeranthil.md).
+The Warlock's Brim is a Unique tier [Equipment](Equipment.md) item under the "Hats" category. It is found in chests dropped by [The Doom of Caeranthil](The_Doom_of_Caeranthil.md). This item is used to craft the [Ether Refined Brim](Ether_Refined_Brim.md).

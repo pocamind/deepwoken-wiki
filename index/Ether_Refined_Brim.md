@@ -1,6 +1,6 @@
 ---
 title: Ether Refined Brim
-revid: 202628
+revid: 205988
 source: https://deepwoken.fandom.com/wiki/Ether_Refined_Brim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Hats, Head, Craftable, Equipment with Set Bonuses]
@@ -23,7 +23,7 @@ categories: [Pathfinder Exclusive, Equipment, Hats, Head, Craftable, Equipment w
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Crafting 1 Ether Refined Hide + 1 Shiva's Codex + 1 Sky Warlock's Brim in the Lost Forge |
+| obtainment | Crafting 1 Ether Refined Hide + 1 Shiva's Codex + 1 Warlock's Brim in the Lost Forge |
 | description | A finely crafted hat worn by master wizards of the Northen Luminant, imbued with song woven into its fabric. It amplifies the wearer's power in battle. |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -38,17 +38,11 @@ Variants: [Mantle](Ether_Refined_Mantle.md)
 
 The **Ether Refined Brim** is a Unique tier [Equipment](Equipment.md) item under the "Head" category.
 
-Has the [Sorcerer's Skill](Talents.md#sorcerers-skill) Talent: "Decrease the amount of tempo it costs to vent by 5."
+The [Sorcerer's Skill](Talents.md#sorcerers-skill) Talent restores 5 [Tempo](Combat_Mechanics.md#tempo) after a successful Vent. At the default Vent cost of 40, this Talent restores 12.5% of the Tempo used.
 
--   Despite the description it does not decrease the cost of venting, instead providing an extra 5 [Tempo](Combat_Mechanics.md#tempo) post [Vent](Combat_Mechanics.md#tempo).
+## Set Talent
 
--   For reference a 40 [Tempo](Combat_Mechanics.md#tempo) vent (The default cost) gains back 12.5% of the [Tempo](Combat_Mechanics.md#tempo) used back after venting.
-
-This item is the Pathfinder equivalent of the [Sorcerer's Brim](<Sorcerer's_Brim.md>).
-
-## Set Talent: Sorcerer's Supply
-
-When wearing the full equipment set, you will gain the Set Talent:
+When wearing the full equipment set, you will gain the Set Talent.
 
 Set Talent: [Sorcerer's Supply](Talents.md#sorcerers-supply) - Increase the amount of [Tempo](Combat_Mechanics.md#tempo) you have by 10/30.
 

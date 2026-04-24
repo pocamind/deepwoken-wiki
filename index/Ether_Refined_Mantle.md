@@ -1,6 +1,6 @@
 ---
 title: Ether Refined Mantle
-revid: 202187
+revid: 205993
 source: https://deepwoken.fandom.com/wiki/Ether_Refined_Mantle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Arms, Equipment, Craftable, Equipment with Set Bonuses]
@@ -23,7 +23,7 @@ categories: [Pathfinder Exclusive, Arms, Equipment, Craftable, Equipment with Se
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Crafting 1 Ether Refined Hide + 1 Shiva's Codex + 1 Sky Warlock's Mantle in the Lost Forge |
+| obtainment | Crafting 1 Ether Refined Hide + 1 Shiva's Codex + 1 Warlock's Mantle in the Lost Forge |
 | description | A finely woven gown imbued with the artistry of master songsmiths from the Northern Luminant. Enchanted by melodies intricately woven into its fabric, this garment bestows supernatural properties, amplifying the wearer's prowess and performance in battle. |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -38,7 +38,7 @@ Variants: [Brim](Ether_Refined_Brim.md)
 
 The Ether Refined Mantle is a Unique tier [Equipment](Equipment.md) item under the "Arms" category.
 
-The [Sorcerer's Surge](Talents.md#sorcerers-surge) Talent reduces the cooldown of your [Vent](Combat_Mechanics.md#tempo) by 2.5 seconds, down to 7.5 seconds. The [Overflowing Dam](Talents.md#overflowing-dam) Talent grants a 10% damage buff to your M1s while your Ether bar is full. Overflowing Dam's damage buff scales on your Intelligence investment, losing 0.125% per point of Intelligence below 40. At 5 Intelligence, you will only gain a 5.625% damage buff.
+The [Sorcerer's Surge](Talents.md#sorcerers-surge) Talent reduces the cooldown of your [Vent](Combat_Mechanics.md#tempo) by 2.5 seconds, entirely removing the Vent cooldown. The [Overflowing Dam](Talents.md#overflowing-dam) Talent grants a 10% damage buff to your M1s while your Ether bar is full. Overflowing Dam's damage buff scales on your Intelligence investment, losing 0.125% per point of Intelligence below 40. At 5 Intelligence, you will only gain a 5.625% damage buff.
 
 This item is the [Pathfinder](Pathfinder.md) equivalent of the [Sorcerer's Mantle](<Sorcerer's_Mantle.md>).
 

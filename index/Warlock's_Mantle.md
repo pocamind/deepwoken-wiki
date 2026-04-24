@@ -1,9 +1,9 @@
 ---
 title: "Warlock's Mantle"
-revid: 201570
+revid: 205977
 source: https://deepwoken.fandom.com/wiki/Warlock's_Mantle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, World Event]
+categories: [Equipment, Arms, World Event, Equipment Styles]
 ---
 
 # Warlock's Mantle
@@ -28,7 +28,7 @@ categories: [Equipment, Arms, World Event]
 
 ## Description
 
-The Warlocks Mantle is a Unique tier [Equipment](Equipment.md) item under the "Arms" category. It is found in chests dropped by [The Doom of Caeranthil](The_Doom_of_Caeranthil.md).
+The Warlocks Mantle is a Unique tier [Equipment](Equipment.md) item under the "Arms" category. It is found in chests dropped by [The Doom of Caeranthil](The_Doom_of_Caeranthil.md). This item is used to craft the [Ether Refined Mantle](Ether_Refined_Mantle.md).
 
 It has the innate Talent [Overflowing Dam](Talents.md#overflowing-dam), causing your M1 attacks to deal 10% more damage while your Ether bar is full. Overflowing Dam's damage buff scales on your Intelligence investment, losing 0.125% per point of Intelligence below 40. At 5 Intelligence, you will only gain a 5.625% damage buff.
 
