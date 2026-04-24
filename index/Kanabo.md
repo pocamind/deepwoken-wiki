@@ -1,6 +1,6 @@
 ---
 title: Kanabo
-revid: 203580
+revid: 206012
 source: https://deepwoken.fandom.com/wiki/Kanabo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, "Core-Attribute based weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Etrea, Heavy Weapons]
@@ -44,7 +44,7 @@ The Kanabo is a [Heavy Weapon](Weapons.md) that scales with and requires [Streng
 
 The Kanabo has two criticals.
 
-For the **standing** critical, the user winds up, stomping the ground before unleashing a devastating blow, ragdolling and launching opponents from great distances, and **insta-guardbreaking** opponents who attempt to block it. This critical does **1.7x scaled damage.** If there is no eligible target, the critical will be abruptly ended without continuing. **Despite the telegraph shown in the gif, the critical is parryable and dodgeable. This telegraph is not present in-game.**
+For the **standing** critical, the user winds up, stomping the ground before unleashing a devastating blow, ragdolling and launching opponents from great distances, and **insta-guardbreaking** opponents who attempt to block it. This critical does **1.7x scaled damage.** If there is no eligible target, the critical will be abruptly ended without continuing.
 
 For the **running** critical, the user winds up before unleashing two unblockable slams each dealing **0.5x scaled damage** followed by a larger third slam that ragdolls and knocks away, dealing **0.6x scaled damage.** This critical has [Hyperarmor](Status_Effects.md#hyperarmor), but cancels on dodge or parry.
 

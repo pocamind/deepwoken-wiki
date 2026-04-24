@@ -1,6 +1,6 @@
 ---
 title: Celtorian Tideknight
-revid: 204342
+revid: 206002
 source: https://deepwoken.fandom.com/wiki/Celtorian_Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, Lost Celtor]
@@ -33,7 +33,7 @@ This Outfit costs 1,000 and requires five (5) [Cloth](Cloth.md), one (1) [Bloodl
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
 
-This Outfit's schematic is not droppable, but it is bankable, costing 1 Knowledge.
+This Outfit's schematic is not droppable, but it is bankable.
 
 ### _Armor Stats_
 

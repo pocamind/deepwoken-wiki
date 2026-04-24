@@ -1,6 +1,6 @@
 ---
 title: Skeleton Key
-revid: 205084
+revid: 206015
 source: https://deepwoken.fandom.com/wiki/Skeleton_Key
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -16,7 +16,7 @@ categories: [Resonances]
 
 “ Summon skeletal barriers that trap opponents and launch them across the battlefield. ”
 
-― - Skeleton Key Description
+― Skeleton Key Description
 
   
 
@@ -34,7 +34,7 @@ If corrupted. the walls become a dark blue/violet.
 
 Pressing C will activate the **Skeleton Key** Resonance.
 
-Skeleton key will summon a wall, up to five if not corrupted under a set duration. If touched the wall will push anyone indiscriminately, ally or not. However if they press C again, the wall will be pushed forward so long your cursor is aimed at the desired wall.
+Skeleton key will summon a wall, up to five if not corrupted under a set duration. If touched the wall will push anyone indiscriminately, ally or not. However, if they press C again, the wall will be pushed forward so long your cursor is aimed at the desired wall.
 
 If Skeleton Key is corrupted, a third wall type can be rolled. When used, your wall is 500% larger. It is unknown if this can stack with the spiked variant.[\[1\]](#cite-note-1)
 
@@ -55,7 +55,7 @@ When obtained, Skeleton Key will spend its points on the following stats:
 
 -   A skeleton key is a key that can unlock any lock. This has nothing to do with the Resonance's actual function of making largely ineffective walls.
 -   Based on the dev spec ability under the same name used by Zartania, rebalanced and reworked for public use.
-    -   Purportedly, when released, if a person obtained it in a new server/instance and joined a old server, the bell would function like said specs.
+    -   Purportedly, when released, if a person obtained it in a new server/instance and joined an old server, the bell would function like said specs.
 -   A corrupted Skeleton Key does not guarantee five walls, as the number is still based on the resonance point usage.
 -   Skeleton Key walls when activated, will push in the direction you were looking when you first placed them, this means that if you were to place a Skeleton Key wall then go on the other side of it and then activate it, it will push towards you.
 -   Skeleton Key walls will always be placed on the level of your character, which leaves them floating in the air if you're hanging off of a chandelier for example.
