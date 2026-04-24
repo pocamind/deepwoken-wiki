@@ -1,6 +1,6 @@
 ---
 title: Obfuscation
-revid: 203524
+revid: 206022
 source: https://deepwoken.fandom.com/wiki/Obfuscation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -10,7 +10,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 | Obfuscation | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | You gain some chip damage on m1 and crit. |

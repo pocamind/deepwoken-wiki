@@ -1,6 +1,6 @@
 ---
 title: "Parasol's Blight"
-revid: 203541
+revid: 206023
 source: https://deepwoken.fandom.com/wiki/Parasol's_Blight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, The Vat Exclusive]
@@ -10,11 +10,11 @@ categories: [Enchantments, Weapon Enchantments, The Vat Exclusive]
 
 | Parasol's Blight | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | Hitting a player infects their body with Parasol's Blight. If a player who is infected is killed, their corpse is turned into one of the Parasol's minions. This also has a rare chance of proccing on PvE enemies you kill. |
-| obtainment | Parasol's Blight Enchant Stone:, Trading a Parasol Part to The Gaunt Man, True Heart of Enmity, Chests & Sacks in The Depths |
+| obtainment | Parasol's Blight Enchant Stone:, Trading a Parasol Part to The Gaunt ManVow of Iron:, True Heart of Enmity, Chests & Sacks in The Depths |
 
 ## Description
 

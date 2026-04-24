@@ -1,6 +1,6 @@
 ---
 title: Sear
-revid: 203543
+revid: 206025
 source: https://deepwoken.fandom.com/wiki/Sear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -10,7 +10,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 | Sear | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | Weapon gains +5% PEN. Applies Cauterize on hit for 15s, as well as draining their Water. Cauterized foes take more PEN the more stacks are applied. |

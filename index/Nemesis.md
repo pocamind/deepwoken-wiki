@@ -1,6 +1,6 @@
 ---
 title: Nemesis
-revid: 203509
+revid: 206020
 source: https://deepwoken.fandom.com/wiki/Nemesis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Critical Attack Enchantments]
@@ -10,7 +10,7 @@ categories: [Enchantments, Weapon Enchantments, Critical Attack Enchantments]
 
 | Nemesis | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | Your critical attack is replaced with Nemesis. Basic attacks now mark your enemies allowing you to critical attack to teleport to them. |

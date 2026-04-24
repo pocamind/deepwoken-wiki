@@ -1,6 +1,6 @@
 ---
 title: Nightbringer
-revid: 203510
+revid: 206021
 source: https://deepwoken.fandom.com/wiki/Nightbringer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, The Vat Exclusive]
@@ -10,7 +10,7 @@ categories: [Enchantments, Weapon Enchantments, The Vat Exclusive]
 
 | Nightbringer | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | N/A |

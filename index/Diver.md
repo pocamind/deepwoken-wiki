@@ -1,6 +1,6 @@
 ---
 title: Diver
-revid: 195083
+revid: 206018
 source: https://deepwoken.fandom.com/wiki/Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Diver Enemies, Ambush Enemies]
@@ -90,11 +90,11 @@ A Diver's arsenal consists of either a [Razor Cutlass](Razor_Cutlass.md), [Iron 
 
 ### Talents
 
+-   Defiance - Negative status effects are half as effective when you are below 35% HP.
 -   Battle Tendency - You can breathe more easily with +20% faster posture regen.
 -   Braced Collapse - After being block broken, the next attack to hit you deals reduced damage.
 -   Perseverance - When you're knocked down, you get back up again more quickly.
 -   Underdog - You deal slightly more damage to those with higher HP than you. You also deal 10% more damage to larger foes.
--   Defiance - Negative status effects are half as effective when you are below 35% HP.
 
 ## Finisher
 

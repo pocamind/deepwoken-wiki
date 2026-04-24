@@ -1,6 +1,6 @@
 ---
 title: Metal
-revid: 203508
+revid: 206019
 source: https://deepwoken.fandom.com/wiki/Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -10,7 +10,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 | Metal | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | Steal Armor durability on hit. |

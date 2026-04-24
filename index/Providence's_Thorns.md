@@ -1,6 +1,6 @@
 ---
 title: "Providence's Thorns"
-revid: 203542
+revid: 206024
 source: https://deepwoken.fandom.com/wiki/Providence's_Thorns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -10,7 +10,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 | Providence's Thorns | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | Parrying attacks damages your foes. |
