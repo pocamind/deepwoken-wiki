@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 205669
+revid: 206026
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -149,7 +149,7 @@ Even if you aren't in a Squad, other players may be assigned to the same Mission
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>Light Weapons</b>: <a href="Central_Dirk.md">Central Dirk</a>, <a href="Inquisition_Light.md">Inquisition Light</a></li>
+    <li><b>Light Weapons</b>: <a href="Central_Dirk.md">Central Dirk</a></li>
   </ul></td>
 </tr>
 <tr>

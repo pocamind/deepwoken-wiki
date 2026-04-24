@@ -1,6 +1,6 @@
 ---
 title: Soothsayer
-revid: 199718
+revid: 206027
 source: https://deepwoken.fandom.com/wiki/Soothsayer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, Reputation, NPCs, NPCs located in the Etrean Luminant, The Ministry, Individuals with unspecified pronouns]
