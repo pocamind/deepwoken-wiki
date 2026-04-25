@@ -1,6 +1,6 @@
 ---
 title: Mark Adaset
-revid: 195402
+revid: 206083
 source: https://deepwoken.fandom.com/wiki/Mark_Adaset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Divers]
@@ -70,8 +70,8 @@ Mark Adaset is located on the second floor of [Castle Light](Castle_Light.md), n
 <tr>
   <td colspan="2"></td>
   <td>Player is Power 1-9</td>
-  <td>Player is Power 10-(?)</td>
-  <td>Player is Power (?)-20</td>
+  <td>Player is Power 10-19</td>
+  <td>Player is Power 20</td>
   <td colspan="3">I don't really manage recruitment - you should talk to Akira.</td>
 </tr>
 <tr>

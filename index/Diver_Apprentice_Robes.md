@@ -1,6 +1,6 @@
 ---
 title: Diver Apprentice Robes
-revid: 195027
+revid: 206058
 source: https://deepwoken.fandom.com/wiki/Diver_Apprentice_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits, The Divers]
@@ -14,7 +14,7 @@ categories: [Outfits, Adept Outfits, The Divers]
 | tier | Adept |
 | crafting_req | x4 Cloth, x4 Fiber, x3 Crystal Lens |
 | price | 50 |
-| stat_req | Power Level 5, 10 Intelligence |
+| stat_req | Power 5, 10 Intelligence |
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1000 |

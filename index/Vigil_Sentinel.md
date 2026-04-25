@@ -1,6 +1,6 @@
 ---
 title: Vigil Sentinel
-revid: 202653
+revid: 206062
 source: https://deepwoken.fandom.com/wiki/Vigil_Sentinel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Etrea, World Event]
@@ -14,7 +14,7 @@ categories: [Outfits, Unique Outfits, Etrea, World Event]
 | tier | Unique |
 | crafting_req | x5 Cloth, x5 Fiber, x5 Gale Stone, x5 Irithine, x1 Wind Gem, x5 Vibrant Gem |
 | price | 1000 |
-| stat_req | Power Level 10, 5 Willpower |
+| stat_req | Power 10, 5 Willpower |
 | bankable | Yes |
 | droppable | No |
 | durability | 2500 |

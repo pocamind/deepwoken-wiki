@@ -1,6 +1,6 @@
 ---
 title: Shock Corps Light
-revid: 197897
+revid: 206061
 source: https://deepwoken.fandom.com/wiki/Shock_Corps_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Outfits of The Central Authority]
@@ -13,7 +13,7 @@ categories: [Outfits, Unique Outfits, Outfits of The Central Authority]
 | tier | Unique |
 | crafting_req | x5 Cloth, x5 Fiber, x1 Might Gem, x5 Spark Gland, x5 Vibrant Gem |
 | price | N/A |
-| stat_req | Power Level 15 |
+| stat_req | Power 15 |
 | bankable | Yes |
 | droppable | No |
 | durability | 3500 |

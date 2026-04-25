@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 205679
+revid: 206060
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Alloyed Weapons, Fists, Light Weapons]
@@ -36,17 +36,17 @@ categories: [Weapons, Weapons with Unique Criticals, Alloyed Weapons, Fists, Lig
 
 ## Description
 
-The **Coral Cestus** is a Fist Light Weapon that requires 50 LHT to use and drops from either the [Mudskipper Brute](Mudskipper_Brute.md) or the [Mudskipper Broodlord](Mudskipper_Broodlord.md). It has slightly higher damage, penetration, and scaling than the [Flamekeeper Cestus](Flamekeeper_Cestus.md), but has slightly slower swing speed and a different critical.
+The **Coral Cestus** is a Fist Light Weapon that requires 50 LHT to use and drops from either the [Mudskipper Brute](Mudskipper_Brute.md) or the [Mudskipper Broodlord](Mudskipper_Broodlord.md).
+
+When [Alloyed](Pluripotent_Alloy.md), the weapon takes on a purple color, altering the weapon's stats and critical attack to make the Coral Cestus more late-game viable.
 
 ## Critical
 
 The user leaps forwards into the air and slams into the ground, creating a large AoE that applies short knockdown. It has a 1.3x scaled damage multiplier.
 
-~The Broodalloy Cestus critical is [unparryable](Combat_Mechanics.md#telegraphed-attacks), displaying a telegraph alongside a sound effect.~ On top of that, the critical will **autogrip** anyone who is at low health or is already knocked.
+The Broodalloy Cestus critical is [unparryable](Combat_Mechanics.md#telegraphed-attacks), displaying a telegraph alongside a sound effect. On top of that, the critical will **autogrip** anyone who is at low health or is already knocked.
 
 The critical has a cooldown of **6 seconds**.
-
-The [Fang and Coil](Fang_and_Coil.md) running critical from [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) cannot be used on the Coral or Broodalloy Cestus.
 
 ## Trivia
 
@@ -55,5 +55,6 @@ The [Fang and Coil](Fang_and_Coil.md) running critical from [Jade Vigil's Weave]
 -   The critical did not work with Legion Kata on release, making the special critical exclusive to Way of Navae. This was fixed soon after the weapon was added.
 -   Each gauntlet has a colored gradient under the "coral" texture.
 -   The upper front of the fist resembles a brass knuckle, or a knuckle duster.
--   The crit can be easily cancelled, even being able to be countered with a single m1, so it's wise to only use the crit when your enemy is under pressure.
+-   Coral Cestus is the only weapon to have an altered critical when alloyed.
 -   Currently the only Cestus that can be alloyed.
+-   The [Fang and Coil](Fang_and_Coil.md) running critical from [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) cannot be used on the Coral or Broodalloy Cestus.
