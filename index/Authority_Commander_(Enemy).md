@@ -1,6 +1,6 @@
 ---
 title: Authority Commander (Enemy)
-revid: 195028
+revid: 206033
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Central Authority Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -17,7 +17,7 @@ categories: [Enemies, Central Authority Enemies, Ambush Enemies, Enemies that ca
 
 ## Description
 
-Authority Commanders are high-ranking members of The Central Authority. The rank of "Commander" fits them very well, they have the combat skills of an experienced player and a huge health pool, making them a true challenge. At least **ONE** Commander is located within the prison of [Fort Merit](Fort_Merit.md), in a room staring at some empty shelves. An Authority Commander can also be found in the [Etris: Siege](Cinders_of_Etris.md) event.
+Authority Commanders are high-ranking members of The Central Authority. The rank of "Commander" fits them very well, they have the combat skills of an experienced player and a huge health pool, making them a true challenge. At least **ONE** Commander is located within the prison of [Fort Merit](Fort_Merit.md), in a room staring at some empty shelves. An Authority Commander can also be found in the [Etris: Siege](Cinders_of_Etris.md) event or can spawn along in an Ambush if you have low [reputation](Reputation.md) with [The Central Authority](The_Central_Authority.md).
 
 ## Moveset
 
