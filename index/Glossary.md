@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 205730
+revid: 206109
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -115,9 +115,9 @@ Dialogue: [The Gaunt Man](The_Gaunt_Man.md)
 
 ### Kyrsan / Kyrsgarde
 
--   The strange inhabitants of the [Eternal Gale](#the-eternal-gale-the-second-layer). In contrast to the ferocious beasts that stalk its wastes, the [Kyrsans](#kyrsan--kyrsgarde) dwell in small villages sheltered from the gale.
+-   The strange inhabitants of the [Eternal Gale](#the-eternal-gale-the-second-layer). In contrast to the ferocious beasts that stalk its wastes, the [Kyrsans](#kyrsan) dwell in small villages sheltered from the gale.
 
-Dialogue: [??? (Scion Caller)](<%253F%253F%253F_(Scion_Caller).md>), [Amenre Skiggle Bop](Amenre_Skiggle_Bop.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [C'lantaa](<C'lantaa.md>), [Kaide](Kaide,_the_Drowned_Light.md), [Mendacia](Mendacia.md), [Misérables](Misérables.md), [Naerotiv](Naerotiv.md), [Okumay](Okumay.md) | Books: [Diver Journal, I](#diver-journal-i) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kaide, the Drowned Light](#kaide-the-drowned-light), [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [Raeva](#raeva)
+Dialogue: [??? (Scion Caller)](<%253F%253F%253F_(Scion_Caller).md>), [Amenre Skiggle Bop](Amenre_Skiggle_Bop.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [C'lantaa](<C'lantaa.md>), [Kaide](Kaide,_the_Drowned_Light.md), [Mendacia](Mendacia.md), [Misérables](Misérables.md), [Naerotiv](Naerotiv.md), [Okumay](Okumay.md) | Books: [Diver Journal, I](#diver-journal-i) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kaide, the Drowned Light](#kaide-the-drowned-light), [Kyrsan / Kyrsgarde](#kyrsan), [Raeva](#raeva)
 
 -   According to [Kaide](#kaide-the-drowned-light), the ruins within the [Second Layer](#the-eternal-gale-the-second-layer) are neither of [Celestial](#the-celestials) or Human make, having been constructed by the [Kyrsans](#kyrsan--kyrsgarde).
 -   [Kaide](#kaide-the-drowned-light) suggested that the [Second Layer](#the-eternal-gale-the-second-layer) may once have been the [Kyrsan](#kyrsan--kyrsgarde) world before it was consumed by the [Depths](#the-depths).
@@ -318,7 +318,7 @@ Dialogue: [Kaide](Kaide,_the_Drowned_Light.md)
 
 ### Thalassis / The Acolyte
 
--   [The Acolyte](#thalassis--the-acolyte) is a lead ambassador for the [Lullaby Isles](#the-lullaby-isles), leading groups of scholars to and from the Greathive Aratel in order to exchange knowledge, updates and information.
+-   [The Acolyte](#the-acolyte) is a lead ambassador for the [Lullaby Isles](#the-lullaby-isles), leading groups of scholars to and from the Greathive Aratel in order to exchange knowledge, updates and information.
 -   This post is currently held by Thal'assis Linnaes.
 
 Dialogue: | Books: [Strange Missives](Strange_Missives.md) | Glossary Entries: [Thalassis / The Acolyte](#thalassis--the-acolyte)
@@ -379,9 +379,9 @@ Dialogue: [Adar](Adar,_Master_of_Metal.md) | Books: [Lumen's Folklore: Volume 'A
 
 -   The ability to manipulate plant and fungal life through the [Song](#the-song).
 -   Pioneered by the Hive and kept a close secret, it has enabled the construction of the colossal Greathives that the Hive call home.
--   Lifeweave is a versatile art that may even extend to [Lifewoven](#lifeweave--lifewoven) equipment and weaponry that interface with the materials of the object and through a complex latticework not unlike circuitry are able to produce unique effects. It is thought by some that the complex patterns of so-called Enchantments may embody the terms of a [Vow](#vows).
+-   [Lifeweave](#lifeweave) is a versatile art that may even extend to [Lifewoven](#lifewoven) equipment and weaponry that interface with the materials of the object and through a complex latticework not unlike circuitry are able to produce unique effects. It is thought by some that the complex patterns of so-called Enchantments may embody the terms of a [Vow](#vows).
 
-Dialogue: [Kaab](Kaab.md), [Neero](Neero.md), [Regek](Regek.md) | Books: | Glossary Entries:
+Dialogue: [Kaab](Kaab.md), [Neero](Neero.md), [Regek](Regek.md) | Books: | Glossary Entries: [Lifeweave / Lifewoven](#lifeweave)
 
 ### Light Hook
 

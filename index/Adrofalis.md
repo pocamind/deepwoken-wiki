@@ -1,6 +1,6 @@
 ---
 title: Adrofalis
-revid: 191299
+revid: 206107
 source: https://deepwoken.fandom.com/wiki/Adrofalis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, NPCs, Oath Trainer, Alchemy, Quests, NPCs located in the Eastern Luminant, Old Stewards]
@@ -28,7 +28,7 @@ Adrofalis is a member of the Old Stewards, and a teacher of [Ciea](Ciea.md) with
 
 ## Location
 
-Adrofalis can be found on the island of [Boatman's Watch](<Boatman's_Watch.md>), his secret laboratory is hidden inside a collapsed pillar behind a breakable wall
+Adrofalis can be found on the island of [Boatman's Watch](<Boatman's_Watch.md>), their secret laboratory is hidden inside a collapsed pillar behind a breakable wall
 
 ## Dialogue
 

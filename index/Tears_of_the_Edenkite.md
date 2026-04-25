@@ -1,6 +1,6 @@
 ---
 title: Tears of the Edenkite
-revid: 203544
+revid: 206098
 source: https://deepwoken.fandom.com/wiki/Tears_of_the_Edenkite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -10,7 +10,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 | Tears of the Edenkite | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | On critical attacks and flourishes, produce homing bubble projectiles. 20s CD. |

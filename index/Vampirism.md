@@ -1,6 +1,6 @@
 ---
 title: Vampirism
-revid: 205532
+revid: 206100
 source: https://deepwoken.fandom.com/wiki/Vampirism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -10,7 +10,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 | Vampirism | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | Your weapon attacks drain health from your foes and replenish your blood. |

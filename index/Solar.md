@@ -1,6 +1,6 @@
 ---
 title: Solar
-revid: 204640
+revid: 206094
 source: https://deepwoken.fandom.com/wiki/Solar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -10,7 +10,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 | Solar | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | Applies a Solar Mark on critical attack or flourish. Solar Marks last 8s and reduce Tempo gain and Ether regeneration. Your Vent drains the Tempo of those you've marked. |
@@ -24,10 +24,8 @@ Solar is a debuffing [enchantment](Enchantments.md) that reduces Ether regenerat
 
 Upon landing an uppercut, flourish, or critical attack, Solar applies the [Solar Mark](Status_Effects.md#solar-mark) status effect to your opponent for 8 seconds, reducing their passive Ether regeneration and Tempo gain.
 
-If you land a [Vent](Combat_Mechanics.md#tempo) on someone who has a Solar Mark, the Mark will be removed and their Tempo will be drained to pay for your Vent. If your opponent cannot afford your Vent's Tempo cost, you will still have to pay for the difference. If that enemy is a PvE enemy, deal increased Vent damage instead.
+If you land a [Vent](Combat_Mechanics.md#tempo) on someone who has a Solar Mark, the Mark will be removed and their Tempo will be drained to pay for your Vent. If your opponent cannot afford your Vent's Tempo cost, you will still have to pay for the difference. If that enemy is a PvE enemy, deal heavily increased Vent damage instead.
 
 ### Notes
 
--   Solar's effects also proc on the [Imperator's Fury](<Imperator's_Fury.md>) Vent.
--   Increases your Vent damage in PvE to 1,000. (works with Chain of Perfection).
--   The PvE damage increase is percent-based, meaning Imperator's Fury increases your vent damage to a whopping 2,000.
+-   Solar's effects also proc on the [Imperator's Fury](<Imperator's_Fury.md>) Vent. In PvE, using both allows for extremely high damage, and entirely free Vents.

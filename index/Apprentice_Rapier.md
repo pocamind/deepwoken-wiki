@@ -1,6 +1,6 @@
 ---
 title: Apprentice Rapier
-revid: 202932
+revid: 206112
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons, Weapons with Talents]
@@ -37,13 +37,13 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 
 ## Description
 
-The Apprentice Rapier is a unique light weapon due to being one of the few rapiers in the game, but also due to it's greater range compared to other light weapon options. It can be obtained via chests at [Erisia](Erisia.md) and [Minityrsa](Minityrsa.md). Can be bought from [Etris Weaponry](Etris.md#weaponry) (25 ) and [The Floating Keep](The_Floating_Keep.md) (100 ).
+The Apprentice Rapier is an early-game Rapier. It acts as the entry point to the Rapier class.
 
 ## Talent: Careful Stance
 
 Equipping the Apprentice Rapier grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Careful Stance** gain a bit more autoparry frames on successful parries.
+**Careful Stance** - gain a bit more autoparry frames on successful parries.
 
 ## Critical
 

@@ -1,6 +1,6 @@
 ---
 title: Stormbreaker
-revid: 203525
+revid: 206097
 source: https://deepwoken.fandom.com/wiki/Stormbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Critical Attack Enchantments]
@@ -10,7 +10,7 @@ categories: [Enchantments, Weapon Enchantments, Critical Attack Enchantments]
 
 | Stormbreaker | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | Your attack is replaced with Stormbreaker Hurl, allowing you to launch your weapon. Shock your foes on hit every 5s. Occasionally, a lightning bolt may be called down from above. |

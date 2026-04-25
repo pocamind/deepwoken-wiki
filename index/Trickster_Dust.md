@@ -1,6 +1,6 @@
 ---
 title: Trickster Dust
-revid: 205548
+revid: 206104
 source: https://deepwoken.fandom.com/wiki/Trickster_Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Items]
@@ -28,8 +28,6 @@ This content is not accessible outside of this gamemode.
 ## Description
 
 The **Trickster Dust** is a [Relic](Relics.md) that resembles emanating confetti particles.
-
-This item is **bankable**.
 
 ## Crafting
 
