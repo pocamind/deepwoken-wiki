@@ -1,6 +1,6 @@
 ---
 title: Zana
-revid: 201471
+revid: 206119
 source: https://deepwoken.fandom.com/wiki/Zana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Enemies, Quests]
@@ -196,7 +196,7 @@ Zana acts as an encounter in the places you're suppose to challenge them; so it'
 
 ## Trivia
 
--   They can drop Frigid Prisms, even though he isn't meant to be killed.
+-   They can drop Frigid Prisms, even though they aren't meant to be killed.
 -   They are a reference to the “metamancer” playertype, specifically those from Verse 1. They use a Shattered Katana and [Royal Pathfinder](Royal_Pathfinder.md) and hint at being a [Flamecharmer](Flamecharm.md), along with all of their fights being at popular ganking spots. Even the aspect they are pokes fun at how many of these players were Vesperians. The only thing missing is Blindseer.
 -   They have 500 HP and deal 20 damage per hit, in all locations.
 -   When encountered in one of the ganking spots, their mask will switch into a random Vesperian mask and his Royal Pathfinder coat will be removed, while the former also occurs with [Polis](Polis.md), it's unclear why the latter occurs, or if it's even a bug.

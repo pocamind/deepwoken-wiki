@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 197708
+revid: 206122
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -10,7 +10,7 @@ categories: [Monsters]
 
 | Deep Owl | |
 |---|---|
-| health | 13503375 (Corrupted) |
+| health | 16004000 (Corrupted) |
 | attacks | Talon Swipe, Owl Dash, Overhead Grab, Flock of Feathers |
 | drops | Dark Feather, Void Feather (5% - Non-Corrupted) / (100% - Corrupted), Jet Black Justicar Defender Coat, Dark Owl Chapeau, Dark Owl Cloak, Dark Owl Cape |
 | locations | Lower Erisia, The Viper's Jaw, Pathfinder's Respite, The Garden Reservoir, Upper Erisia, Burning Stone Gardens, The Lordsgrove, The Depths |

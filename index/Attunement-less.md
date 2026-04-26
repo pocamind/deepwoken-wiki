@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 205954
+revid: 206124
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1648,9 +1648,9 @@ Slash
 -   Deals 3+5.4/6+10.8/9+16.2/12+21.6/15+27 base damage per level with 1.65 Medium Weapon scaling.
 -   Deals 5 posture damage per hit (2).
 -   Initial hit has 0.525 wind-up with the follow-up having 0.4s wind-up.
--   Master's Flourish has 0.35s endlag.
+-   0.35s endlag.
 -   Has 37% chip damage.
--   Deals knockback.
+-   Knocks the opponent back in the direction the user is facing.
 -   Can be modified with a Glass/Magnifying stone to make it bigger.
 
  |

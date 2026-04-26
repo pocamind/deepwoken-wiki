@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 205641
+revid: 206123
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -101,7 +101,7 @@ You _**cannot**_ oath skip Blightsurger. Attempting to do will have Brutus beat 
         -   Blightlash grants Sovereign Bangle 1 additional range, going from 6 to 7.
         -   Blighted Touch allows Sovereign Bangle to apply Blightshock (70% of its damage as Wither).
         -   The Sovereign Bangle has the full effectiveness of the [Darkened Bastion](Darkened_Bastion.md) outfit, allowing it to deal 105% of its damage as Wither when combined with Blighted Touch.
-        -   Blighted Pierce grants Sovereign Bangle +?% PEN and hyperarmor nullification on hit.
+        -   Blighted Pierce grants Sovereign Bangle +15% PEN and hyperarmor nullification on hit.
 
 ### Talents
 
