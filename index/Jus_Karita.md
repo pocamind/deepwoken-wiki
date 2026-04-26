@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 204756
+revid: 206150
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons]
@@ -76,6 +76,10 @@ For more information on these Mantras, such as their requirements and other in-d
     -   You're still able to get [Jus Karita's Mantras](Attunement-less.md) as long as you have the requirements for them.
     -   You will also not be able to obtain a [Gold Ring](Gold_Ring.md) from [Polis](Polis.md) until reaching 40 LHT.
 -   Jus Karita was made by Dexerius.[\[2\]](#cite-note-2)
+-   Currently there is a bug in game that if you press jus karita talent tool (to use jus karita with no weapon) and then equip cestus, it will use jus karita fighting style. works with all normal crit cestus.
+    -   does not work with [Vortex echoes](Vortex_Echo.md) at all, does not change [coral cestus](Coral_Cestus.md)/[broodalloy cestus](Coral_Cestus.md) animations. unknown how does it works with [LFT](<Light's_Final_Toll.md>)/[coral cestus](Coral_Cestus.md) and their variations. (does they proc critical cooldown reset and speed boost on m1, and others jus karita talents?) need testing.
+    -   You can switch fighting styles mid battle FROM jus karita, just it would switch from jus karita to untrained fist or other fighting style you have, but you cant switch TO jus karita. will have to do bug again.
+        -   Does not reccomended to make this bug mid-combat as you can switch to no weapon in combat, but cant equip weapon back (unless you are [SH](Oath%253A_Silentheart.md)). make this bug before starting fight (it does not get unbugged on server swap)
 
 ## References
 

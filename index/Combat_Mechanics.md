@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 205958
+revid: 206156
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -28,7 +28,7 @@ _There are many elements to the GUI, each one playing its own part. In order to 
   </ul><p>The player's Health bar has four states:</p><figure><figcaption><p>This is the normal state of the health bar.<br>
   The player will lose one life on death (excluding the <a href="Echoes.md#upgrades-unlocks-and-modifiers">Hollow</a> modifier).</p></figcaption></figure><figure><figcaption><p>This is the state of the health bar after dying once. It is rusted and more jaundiced compared to its normal state.The player will be sent to <a href="The_Depths.md">The Depths</a> on death.</p></figcaption></figure><figure><figcaption><p>This is the state of the health bar in a <a href="Voidzones.md">Voidzone</a> if you have not died once. It is rusted unlike its normal state.<br>
   The player will be sent to <a href="The_Depths.md">The Depths</a> on death.</p></figcaption></figure><figure><figcaption><p>This is the state of the health bar in The Depths.<br>
-  The player will be sent to the <a href="Fragments_of_Self.md">Fragments of Self</a> on death.</p></figcaption></figure>The stained part represents your void health, which means if your health bar doesn't reach the stained part you can jump into the void you will be sent to the <a href="Second_Layer.md">Second Layer</a> rather than wiping. If your health bar reaches the stained part and you jump into the void your character <b>WILL</b> be sent to <a href="Fragments_of_Self.md">Fragments of Self</a> rather than the <a href="Second_Layer.md">Second Layer</a>.</td>
+  The player will be sent to <a href="Fragments_of_Self.md">Fragments of Self</a> on death.</p></figcaption></figure><p>The stained part represents your void health, which means if your health bar doesn't reach the stained part you can jump into the void you will be sent to the <a href="Second_Layer.md">Second Layer</a> rather than wiping. If your health bar reaches the stained part and you jump into the void your character <b>WILL</b> be sent to <a href="Fragments_of_Self.md">Fragments of Self</a> rather than the <a href="Second_Layer.md">Second Layer</a>.</p></td>
 </tr>
 <tr>
   <th>Posture Bar</th>

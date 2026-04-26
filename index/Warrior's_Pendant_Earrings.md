@@ -1,6 +1,6 @@
 ---
 title: "Warrior's Pendant Earrings"
-revid: 206134
+revid: 206141
 source: https://deepwoken.fandom.com/wiki/Warrior's_Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears, Earrings]
@@ -32,6 +32,6 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Warrior's Pendant Earrings are an [Equipment](Equipment.md) items under the "Ears" category.
+Warrior's Pendant Earrings are an [Equipment](Equipment.md) item under the "Ears" category.
 
 The [Skillful Recovery](Talents.md#skillful-recovery) Talent increases all forms of posture recovery by 35%.

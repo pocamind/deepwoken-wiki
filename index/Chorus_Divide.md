@@ -1,6 +1,6 @@
 ---
 title: Chorus Divide
-revid: 205603
+revid: 206136
 source: https://deepwoken.fandom.com/wiki/Chorus_Divide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -20,7 +20,7 @@ categories: [Resonances]
 
 ## Description
 
-**Chorus Divide** is a [Resonance](Resonance.md) or "bell" that players can obtain, and is common to roll.
+**Chorus Divide** is a [Resonance](Resonance.md) or "bell" that players can obtain and is common to roll.
 
 ## Usage
 

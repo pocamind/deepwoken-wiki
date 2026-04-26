@@ -1,6 +1,6 @@
 ---
 title: Astral
-revid: 205043
+revid: 206140
 source: https://deepwoken.fandom.com/wiki/Astral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]

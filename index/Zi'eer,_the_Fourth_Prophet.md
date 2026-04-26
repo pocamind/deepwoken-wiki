@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 206086
+revid: 206147
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters, Enemies, Humanoids with Unobtainable Outfits]
@@ -78,6 +78,7 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
  | Similar to **Tendril Cage**, albeit with the circles being more tightly packed together. If The Inheritor does not dodge the attack, they will take damage and **Prepared Equalizer** will be triggered. Much like **Tendril Cage**, it will deal significantly more damage per hit.
 
 -   This move only occurs during his first phase.
+-   **Due to this boss not being maintained, this attack appears to be nonfunctional. Doesn't seem to damage the player, even if not defended against.**
 
  |  |
 | 
