@@ -1,6 +1,6 @@
 ---
 title: Rain (enchantment)
-revid: 203520
+revid: 206170
 source: https://deepwoken.fandom.com/wiki/Rain_(enchantment)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments, The Vat Exclusive]
@@ -10,7 +10,7 @@ categories: [Enchantments, Equipment Enchantments, The Vat Exclusive]
 
 | Rain | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | Incoming hits may summon rain clouds above you. |

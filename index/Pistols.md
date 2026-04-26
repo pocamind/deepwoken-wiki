@@ -1,6 +1,6 @@
 ---
 title: Pistols
-revid: 204720
+revid: 206172
 source: https://deepwoken.fandom.com/wiki/Pistols
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Light Weapons, Weapon Classes, Weapons, Guns]
@@ -24,7 +24,7 @@ These weapons are typically locked to the One Handed stance.
 
 Singular Guns, or having a main-hand Pistol with no offhand one, can fire ranged projectiles, provided the user has [Bullets](Bullets.md) and has a loaded pistol.
 
-Reload by pressing Z or Y, loading the chamber with bullets. While loaded, your Pistol will perform 'blast' shots rather than the default pistol whip attacks, and your critical can be used.
+Reload by pressing Z or Y, loading the chamber with bullets. While loaded, your Pistol will perform 'blast' shots rather than the default pistol whip attacks, and your critical can be used. Additionally, your pistol will gain a 15% damage modifier and 10% Chip damage when loaded.
 
 Having a [Shield](Shields.md) or Parrying Dagger equipped will reduce your reload speed by 20%.
 

@@ -1,12 +1,28 @@
 ---
 title: Clubs
-revid: 130555
+revid: 206187
 source: https://deepwoken.fandom.com/wiki/Clubs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Medium Weapons, Weapons by Class]
 ---
 
 # Clubs
+
+## Description
+
+These, usually Blunt, Medium Weapons excel at posture performance.
+
+Typically, these weapons can freely swap between the One and Two-Handed stances.
+
+## Default Animations
+
+The Clubs weapon class comes with a set of default weapon animations.
+
+## Default Critical
+
+Clubs uses the default Club critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **5 seconds**. On hit, it [dazes](Status_Effects.md#daze) opponents and will insta-guardbreak them if they attempt to block it.
+
+## Weapons
 
 <table><caption>Medium Weapons</caption>
 <tbody>

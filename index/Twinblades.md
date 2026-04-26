@@ -1,12 +1,32 @@
 ---
 title: Twinblades
-revid: 130388
+revid: 206190
 source: https://deepwoken.fandom.com/wiki/Twinblades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Medium Weapons, Weapons by Class]
+categories: [Criticals with M1 tag, Weapons, Medium Weapons, Weapons by Class]
 ---
 
 # Twinblades
+
+## Description
+
+Twinblades are Medium Weapons with blades at either side of their hilt.
+
+Typically, these weapons can freely swap between the One and Two-Handed stances.
+
+Uniquely, their running attack hits twice. Additionally, while in the Two-Handed stance, their basic attack animations change, entirely removing their flourish.
+
+## Default Animations
+
+The Twinblades weapon class comes with a set of default weapon animations.
+
+## Default Critical
+
+Twinblades uses the default Twinblade critical, a swift thrust with the back end of the twinblade. It has a scaled damage multiplier of **1.1x** and a cooldown of **4 seconds**. It deals **15** posture damage. On hit, it dazes opponents and innately procs [Bleed](Status_Effects.md#bleed), dealing an additional 15% of the weapon's scaled damage.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+
+## Weapons
 
 <table><caption>Medium Weapons</caption>
 <tbody>

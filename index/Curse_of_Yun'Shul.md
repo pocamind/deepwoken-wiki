@@ -1,6 +1,6 @@
 ---
 title: "Curse of Yun'Shul"
-revid: 203518
+revid: 206168
 source: https://deepwoken.fandom.com/wiki/Curse_of_Yun'Shul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -10,7 +10,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 
 | Curse of Yun'Shul | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | Has a chance to inflict a curse that deals percentage damage, but who it falls upon is often down to luck. |

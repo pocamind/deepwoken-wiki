@@ -1,6 +1,6 @@
 ---
 title: Windswept
-revid: 203516
+revid: 206166
 source: https://deepwoken.fandom.com/wiki/Windswept
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]
@@ -10,7 +10,7 @@ categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Critic
 
 | Windswept | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | After landing enough stacks, proc winded on your opponent. The duration scales with your weapon investment. |

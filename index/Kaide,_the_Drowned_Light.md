@@ -1,6 +1,6 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 205104
+revid: 206164
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Layer 2, Floor 2]
@@ -141,6 +141,36 @@ As the fallen king of Constellia, he was imprisoned in the outskirts of New Kyrs
 
 **Unlockable Dialogues:**
 
+**Frostthorn:**
+
+This dialogue is unlocked if the player has a [Frostthorn](Frostthorn.md) equipped.
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>The daggers by your side... I recognise those ridges, and the spring-loaded blades. Yet, that <i>chill</i>... So unsightly, and unfamiliar. Like a mockery of sorts. Are you aware you wield a weapon of my homeland? Though, admittedly, it appears to have been altered somehow.</td>
+</tr>
+<tr>
+  <td>You recognise these daggers?</td>
+</tr>
+<tr>
+  <td>Not necessarily this exact pair, but yes, I recognise the make. The smiths of <a href="Glossary.md#constellia-the-guiding-star">Constellia</a> forged hundreds of them under my rule, if not thousands. Made of skywrought alloys, resistant to rust, and said to never dull, with an edge honed to perfection. Not my first weapon of choice, as you can see - but our warriors favoured these blades as sidearms in close encounters.</td>
+</tr>
+<tr>
+  <td>It's cold to the touch, and the blade has a crystal-like ringing... Is that part of the original design, too?</td>
+</tr>
+<tr>
+  <td><i>*He shakes his head.*</i> A ghastly and alien feature altogether. If I were to guess, the <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsans</a> must have seized these from our dead, and reworked them for their means. Though, their reasoning for this is beyond me. <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a> has bestowed his own fell arsenal of weapons upon the <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsans</a> - some of it infused with his power. Plundering weapons from the fallen seems pointless in that regard. Perhaps the daggers were originally seized as a sort of war trophy. But what use are trophies to the enthralled?..</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
 **Kyrsieger:**
 
 This dialogue is unlocked if the player has a [Kyrsieger](Kyrsieger.md) equipped.
@@ -270,6 +300,66 @@ This dialogue is unlocked if the player has a [Vortex Echo](Vortex_Echo.md) equi
 </tr>
 <tr>
   <td>...If only it were that simple. The very fact you can come and go raises too many questions. If I left with you, would every other 'me' be convinced to do the same? My absence from your world already proves the choice I made long ago. Leave me to rest, mortal.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Words of Light:**
+
+This dialogue is unlocked if the player has read the [Book](Books.md) [Words of Light](Words_of_Light.md).
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Hm... You return and yet you still make so much noise. You'll scarcely leave me with enough time to meditate. I only have eternity, after all.</td>
+</tr>
+<tr>
+  <td>Have you ever heard the name 'Raeva Ferash Kenestos'?</td>
+</tr>
+<tr>
+  <td><i>*His expression betrays bemusement and mild confusion.*</i> ...As I understand it, the <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsans</a> bear similar names. At least, for the <i>most</i> part. Though, I cannot say I am personally well-acquainted with the locals, given the circumstances. Where have you heard this name?</td>
+</tr>
+<tr>
+  <td>I found it in a manifesto signed with that name. It talks of a Kyrsgarde commander who seemingly...</td>
+</tr>
+<tr>
+  <td><i>*He raises an eyebrow.*</i> How... Unusual. Where did you come by such a thing?</td>
+</tr>
+<tr>
+  <td>I found a copy on the body of a powerful Kyrsgarde Champion.</td>
+</tr>
+<tr>
+  <td>Indeed? And what did this <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsan</a> look like?</td>
+</tr>
+<tr>
+  <td>They were significantly taller than the others, and wore a cape. They also carried a strange glaive...</td>
+</tr>
+<tr>
+  <td>...Most curious. Your description of this 'Champion' is eerily similar to that of the <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsan</a> commander who took me prisoner during the siege of <a href="Glossary.md#constellia-the-guiding-star">Constellia</a>. The circumstances of it were unusual, to say the least. He is the sole reason I am now captive here, as opposed to lying among the bodies of my kin within the ruins of the city. An uncanny coincidence... Or, perhaps, a strange twist of fate.</td>
+</tr>
+<tr>
+  <td>What was unusual about your capture?</td>
+</tr>
+<tr>
+  <td>Look around you. Can you count how many <a href="Glossary.md#lightborn">Lightborn</a> you see here? I'll tell you - only <i>one</i>. The rest of my kin were given no quarter during the siege. The invaders took no prisoners. But just as I was moments away from my own death at the hands of their warriors, a <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsan</a> commander matching your description intervened, and ordered my capture instead. Does that not strike you as bizarre? Stranger yet, he appeared to wield a weapon of our own design - a glaive bearing motifs of the <a href="Glossary.md#the-moonseye">Moonseye</a>. And his movements seemed much more refined than those of his warriors. More... <i>lucid</i> [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>]</td>
+</tr>
+<tr>
+  <td>Strangely individual quirks for a Kyrsgarde, given their enthrallment.</td>
+</tr>
+<tr>
+  <td>[WIP] the same, this only raises more questions. Given everything you've told me, it sounds as though this one has somehow escaped <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron's</a> control. What's more - of the three names you mentioned, the first one is distinctly non-Kyrsan, and is well-known to me. <a href="Glossary.md#raeva">Raeva</a> was the name of one of the <a href="Glossary.md#the-celestials">Celestials</a> that presided over <a href="Glossary.md#constellia-the-guiding-star">Constellia</a> before I came to rule the city. I was not there for their departure, but until now, I had assumed they fled, like the others...</td>
+</tr>
+<tr>
+  <td>What do you make of all this?</td>
+</tr>
+<tr>
+  <td><i>*His eyes narrow contemplatively.*</i> All of this seems too specific to be a coincidence. But I cannot offer any satisfying answers to these questions. My original presumption was that all of the <a href="Glossary.md#the-celestials">Celestials</a> fled <a href="Glossary.md#constellia-the-guiding-star">Constellia</a> before the <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsans</a> came - none of them were seen during the siege. But perhaps this was not the case?.. Whatever this 'Champion's' reason for possibly adopting <i>that</i> name is, it's clear that there are things about that woeful day which even I had no clue of...</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

@@ -1,12 +1,32 @@
 ---
 title: Spears
-revid: 130385
+revid: 206192
 source: https://deepwoken.fandom.com/wiki/Spears
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Medium Weapons, Weapons by Class]
+categories: [Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Weapons, Medium Weapons, Weapons by Class]
 ---
 
 # Spears
+
+## Description
+
+The Spear weapon class consists of long range polar Medium Weapons, that promote and reward spacing in their gameplay.
+
+Typically, these weapons can freely swap between the One and Two-Handed stances.
+
+## Default Animations
+
+The Spears weapon class comes with a set of default weapon animations.
+
+## Default Critical
+
+Spears uses the default Spear critical, a horizontal swing followed by a forward thrust. It has a scaled damage multiplier of **1x** and a cooldown of **5 seconds**. Both hits deal **5** posture damage.
+
+This critical will be canceled if the first hit is parried.  
+  
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+
+## Weapons
 
 <table><caption>Medium Weapons</caption>
 <tbody>

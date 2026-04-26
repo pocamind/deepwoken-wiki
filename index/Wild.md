@@ -1,6 +1,6 @@
 ---
 title: Wild
-revid: 203514
+revid: 206165
 source: https://deepwoken.fandom.com/wiki/Wild
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -10,7 +10,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 | Wild | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | On hit, deal 85% of your weapon's damage in an AoE. This AoE cannot hit allies or the enemy originally hit. Reduces your damage against allies by 50%. |

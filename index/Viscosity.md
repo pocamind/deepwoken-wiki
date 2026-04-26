@@ -1,6 +1,6 @@
 ---
 title: Viscosity
-revid: 203528
+revid: 206171
 source: https://deepwoken.fandom.com/wiki/Viscosity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -10,7 +10,7 @@ categories: [Enchantments, Equipment Enchantments]
 
 | Viscosity | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | Incoming damage is converted into damage over time and applied for 2.5s. |

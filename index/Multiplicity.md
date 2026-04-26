@@ -1,6 +1,6 @@
 ---
 title: Multiplicity
-revid: 203519
+revid: 206169
 source: https://deepwoken.fandom.com/wiki/Multiplicity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -10,7 +10,7 @@ categories: [Enchantments, Equipment Enchantments]
 
 | Multiplicity | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | Incoming hits may grant you a random boon of Recovery, Healing, or Agility. 5s CD. |

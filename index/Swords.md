@@ -1,12 +1,30 @@
 ---
 title: Swords
-revid: 130384
+revid: 206189
 source: https://deepwoken.fandom.com/wiki/Swords
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Medium Weapons, Weapons by Class]
+categories: [Criticals with M1 tag, Weapons, Medium Weapons, Weapons by Class]
 ---
 
 # Swords
+
+## Description
+
+The 'Sword' is the largest weapon class in _Deepwoken_, bar none. This Medium weapon class is stock full with variety due to its obscene size.
+
+Typically, these weapons can freely swap between the One and Two-Handed stances.
+
+## Default Animations
+
+The Swords weapon class comes with a set of default weapon animations.
+
+## Default Critical
+
+Swords uses the default Sword critical, a piercing stab. It has a scaled damage multiplier of **1.2x** and a cooldown of **3 seconds**. It deals **3x** the weapon's posture stat as posture damage.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+
+## Weapons
 
 <table><caption>Medium Weapons</caption>
 <tbody>
