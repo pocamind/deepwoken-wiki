@@ -1,6 +1,6 @@
 ---
 title: Wormwarder Lantern
-revid: 191157
+revid: 206163
 source: https://deepwoken.fandom.com/wiki/Wormwarder_Lantern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Backpack, Layer 2, Floor 1, Craftable]
@@ -32,7 +32,7 @@ To craft this item, you can obtain the recipe from interacting with a Lantern in
 
 ## Trivia
 
--   You are unable to have Galewax outside of the Second Layer, meaning you must craft this item within the Second Layer, the Talent Master Craftsman or the recently added crafting station inside the Union's base will do.
+-   You are unable to have Galewax outside of the Second Layer, meaning you must craft this item within the Second Layer. A crafting table is available in the Frontier Furnace, else, the Master Craftman talent will let you craft it without the table.
 -   This [Equipment](Equipment.md) piece is somewhat redundant due to the existence of the [Grand Fisher Helm](Grand_Fisher_Helm.md), which not only gives the same effect without a downside, but is also obtainable without even stepping foot into the Gale and is far easier to get.
 -   Due to the movement speed debuff from using this item, it is only useful for long expeditions within the Eternal Gale.
 -   The Wormward Lantern does not actually clear parasites, it only disables their ability to continue growing- meaning you will keep any parasites you had before equipping it.
