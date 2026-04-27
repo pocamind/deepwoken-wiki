@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 205915
+revid: 206214
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1136,7 +1136,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisites: [Deepbound](Deepbound.md) Origin
 
 -   _Deepbound Contract_ \[Origin Talent\] - You progress much faster in the Depths, and slower on the overworld. You can regain sanity at Castle Light, but will always face the strongest foes in your Trial.
-    -   You can always enter [Castle Light](Castle_Light.md), even if you've drowned.
+    -   You can always enter [Castle Light](Castle_Light.md), even if you've drowned, or are a [Contractor](Oath%253A_Contractor.md), However the turret infront of [Castle Light](Castle_Light.md) WILL attack you.
     -   Your [Depths Trial](Cathedral_of_the_Interstice.md) will always be an Enforcer or harder.
     -   You gain passive sanity regeneration at [Castle Light](Castle_Light.md).
     -   Gain increased experience gain while in either layer of [the Depths](The_Depths.md), but your experience gain is reduced elsewhere.

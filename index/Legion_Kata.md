@@ -1,6 +1,6 @@
 ---
 title: Legion Kata
-revid: 204727
+revid: 206219
 source: https://deepwoken.fandom.com/wiki/Legion_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Fists, Fighting Styles, Light Weapons, The Hundred Legions]
@@ -28,7 +28,7 @@ categories: [Weapons, Criticals with M1 tag, Fists, Fighting Styles, Light Weapo
 | enchantable | No |
 | pass down | No |
 | obtainment | Step 1: Obtain a recommendation from the Legion Captain battling the Authority in Starswept Valley or Upper Erisia., Step 2: Turn in the recommendation to Amara. |
-| description | Adopt the fighting stance of the Legion Kata. |
+| description | Weapon, TalentThe legendary martial arts style of the Legion. Emphasises the sweeping motions of wind.Adopt the fighting stance of the Legion Kata. |
 
 ## Description
 

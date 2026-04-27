@@ -1,6 +1,6 @@
 ---
 title: Eyes of Ethiron
-revid: 204659
+revid: 206220
 source: https://deepwoken.fandom.com/wiki/Eyes_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, "Weapons with Multi-Attunement Scaling", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Medium Weapons, Swords, Reforged Weapons, "Dual-wielded Weapons", "Attunement-based Weapons"]
@@ -61,7 +61,7 @@ These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Tal
 ## Trivia
 
 -   This weapon is merely invoking the name of [Ethiron, The Maelstrom's Eye](<Ethiron,_The_Maelstrom's_Eye.md>), and has no further connection to him.[\[1\]](#cite-note-1)
--   The sigils on Eyes of Ethiron translate to: "A murky gale slips thru town, Soft air hums a quiet curse, Folk fall as lambs go out, A whole mass wanes to nil"
+-   The [Gatherhand](Gatherhand.md) inscription on the weapon are transcribed to: "A murky gale slips thru town, Soft air hums a quiet curse, Folk fall as lambs go out, A whole mass wanes to nil"
 
 ## References
 

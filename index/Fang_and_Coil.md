@@ -1,6 +1,6 @@
 ---
 title: Fang and Coil
-revid: 205919
+revid: 206218
 source: https://deepwoken.fandom.com/wiki/Fang_and_Coil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons, Weapons with multiple Criticals]
@@ -28,7 +28,7 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons, Weapons with multip
 | enchantable | No |
 | pass down | No |
 | obtainment | 20 LHT, Ally rep with Etrea, Kill The Doom of Caeranthil with proper kill credit, Talk to Vesque |
-| description | Adopt the path of the serpent. |
+| description | Weapon, TalentThe serpentine martial arts of Etrea.Adopt the path of the serpent. |
 
 ## Description
 
@@ -55,4 +55,3 @@ For its **Running Critical**, the user performs a front-flip followed by a dazin
 ## Trivia
 
 -   Added on the 2025-01-18 Weekly update.
--   Makes your running animation twice as fast for unknown reasons.

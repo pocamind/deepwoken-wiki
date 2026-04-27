@@ -1,6 +1,6 @@
 ---
 title: Woodland Boots
-revid: 206005
+revid: 206213
 source: https://deepwoken.fandom.com/wiki/Woodland_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -30,7 +30,7 @@ categories: [Equipment, Legs, Boots]
 
 The Woodland Boots are an [Equipment](Equipment.md) item under the "**Legs**" category.
 
-The [Woodland Terrain](Talents.md#woodland-terrain) Talent makes you move slightly faster on grass.
+The [Woodland Terrain](Talents.md#woodland-terrain) Talent makes you move slightly faster (10% speed boost) on grass.
 
 ## Trivia
 
