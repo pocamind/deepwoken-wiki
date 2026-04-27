@@ -1,6 +1,6 @@
 ---
 title: Vapormaw Carbine
-revid: 206138
+revid: 206197
 source: https://deepwoken.fandom.com/wiki/Vapormaw_Carbine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, "Attunement-based Weapons", Rifles, Medium Weapons]
@@ -48,6 +48,5 @@ The critical has no cooldown.
 ## Trivia
 
 -   Despite having "Carbine" in its name, the term usually falls under lightweight firearms that have a short barrel, contrasting with its large and bulky model.
--   Since this weapon has no cooldown, it is essentially the first and only weapon with the fastest cooldown ever.
-    -   This title was originally held by the [Spectral Grasp](Spectral_Grasp.md) critical on release, which had a 3 second cooldown before being nerfed to 5.
+-   Excluding weapon criticals that clear themselves through meeting certain conditions, this weapon has the shortest critical cooldown in the game; it does not have a cooldown.
 -   This weapon is likely heavily inspired by the Tikhar, a recurring weapon in the Metro game series, as its appearance and function are very similar.

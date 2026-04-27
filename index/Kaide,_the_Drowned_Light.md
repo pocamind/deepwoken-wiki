@@ -1,9 +1,9 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 206164
+revid: 206203
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lightborn NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Layer 2, Floor 2]
+categories: [Lightborn NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Layer 2, Floor 2]
 ---
 
 # Kaide, the Drowned Light
@@ -13,6 +13,7 @@ categories: [Lightborn NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Sec
 | name | Kaide |
 | alias | The Drowned Light |
 | aspect | Lightborn |
+| pronouns | He/him |
 | location | New Kyrsa, The Sleeping City |
 | affiliation | Constellia |
 
@@ -24,9 +25,9 @@ This content is not accessible outside of this gamemode.
 
 Kaide is a [Lightborn](Lightborn.md) NPC. He was the last and former king of the fallen city [Constellia](Constellia.md), one of the largest Celestial Cities in the Heavens.
 
-Kaide is an aged man with purple eyes and a stern expression. He has long white hair styled into curtain bangs, symmetrically hanging down to his abdomen. His armor consists of gray robes laid over a black, long-sleeved top that features patterns on each sleeve. Lesser aspects such as his pouches and gloves take a dark brown color. A large, bright lavender halo fashioned into a crown with numerous spikes circling it. On his hand is a dark, faded purple twinblade that sports a zig-zag blade with numerous four-pronged star embellishments in between.
-
 As the fallen king of Constellia, he was imprisoned in the outskirts of New Kyrsa after the invasion made by the [Kyrsans](Kyrsgarde.md) under Ethiron's will, now to be eternally meditating. He mentions about the limited power of the Song and the unsuccessful war between the Celestials and Lightborns against the Drowned Gods, eventually leading to the Celestials fleeing and the Lightborns losing morale, giving up in the process.
+
+Kaide is an aged man with purple eyes and a stern expression. He has long white hair styled into curtain bangs, symmetrically hanging down to his abdomen. His armor consists of gray robes laid over a black, long-sleeved top that features patterns on each sleeve. Lesser aspects such as his pouches and gloves take a dark brown color. A large, bright lavender halo fashioned into a crown with numerous spikes circling it. On his hand is a dark, faded purple twinblade that sports a zig-zag blade with numerous four-pronged star embellishments in between.
 
 ## Dialogue
 
