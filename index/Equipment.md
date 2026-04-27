@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 205998
+revid: 206275
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, Equipment, In progress with VOI reason]
@@ -1410,8 +1410,10 @@ Head: [Guardian Helmet](Guardian_Helmet.md)
 Arms: [Guardian Pauldrons](Guardian_Pauldrons.md) |
 | File:Gumshoe Long Coat.png | [Gumshoe Longcoat](Gumshoe_Longcoat.md)  
 (**Styles**)  
-(**Set**) | +1 Rare Pip  
+(**Set**) | _+2 Health_
 
++1 Rare Pip  
+_+Talent: [**Hard Read**](Talents.md#hard-read)_  
 **Requires Power 5**
 
  | Styles:  

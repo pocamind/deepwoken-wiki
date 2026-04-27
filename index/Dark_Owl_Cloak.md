@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Cloak
-revid: 205961
+revid: 206281
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -25,6 +25,10 @@ categories: [Equipment, Arms, Cloaks]
 | pass down | Yes |
 | obtainment | Chests from:, Chime of Conflict, Miner's Landing, Saramaed Summit, Duke Erisia, Maestro Evengarde Rest, Dread Serpent, PrimadonDrops from:, Deep Owl rarely, Deep Widow |
 | description | ... |
+
+Dark Owl Set
+
+Variants: [Chapeau](Dark_Owl_Chapeau.md) · [Cape](Dark_Owl_Cape.md)
 
 ## Description
 

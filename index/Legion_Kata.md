@@ -1,6 +1,6 @@
 ---
 title: Legion Kata
-revid: 206219
+revid: 206270
 source: https://deepwoken.fandom.com/wiki/Legion_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Fists, Fighting Styles, Light Weapons, The Hundred Legions]
@@ -10,9 +10,9 @@ categories: [Weapons, Criticals with M1 tag, Fists, Fighting Styles, Light Weapo
 
 | Legion Kata | |
 |---|---|
-| type | Light Weapon |
+| type | Fist |
 | damage type | Blunt |
-| requirements | 0 LHT |
+| requirements | Legion Kata Talent |
 | damage | 12 |
 | scaling | LHT: 7 |
 | posture damage | 3 |
@@ -21,20 +21,21 @@ categories: [Weapons, Criticals with M1 tag, Fists, Fighting Styles, Light Weapo
 | attack duration | 0.5s |
 | m.equip | No |
 | m.extract | No |
+| stances | 1 Handed |
 | rarity | N/A |
 | weight | 2 |
 | bankable | No |
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Step 1: Obtain a recommendation from the Legion Captain battling the Authority in Starswept Valley or Upper Erisia., Step 2: Turn in the recommendation to Amara. |
+| obtainment | Obtain a recommendation from the Legion Captain battling the Authority in Starswept Valley or Upper Erisia., Turn in the recommendation to Amara. |
 | description | Weapon, TalentThe legendary martial arts style of the Legion. Emphasises the sweeping motions of wind.Adopt the fighting stance of the Legion Kata. |
 
 ## Description
 
-Legion Kata is a martial arts-based fighting style obtained by turning in a recommendation from talking to a [Legion Captain](Legion_Captain.md) with high positive reputation with the [Hundred Legions](The_Hundred_Legions.md) in [Starswept Valley](The_Starswept_Valley.md), to [Amara](Amara.md). While sharing the same stats as [Way of Navae](Way_of_Navae.md), [Imperium Kata](Imperium_Kata.md), and [Fang and Coil](Fang_and_Coil.md), they differ in M1 animations, stances, and critical attacks.
+Legion Kata is a martial arts-based fighting style obtained by turning in a recommendation from talking to a [Legion Captain](Legion_Captain.md) with high positive reputation with the [Hundred Legions](The_Hundred_Legions.md) in [Starswept Valley](The_Starswept_Valley.md), to [Amara](Amara.md).
 
-While Legion Kata has the same damage as **Way of Navae** and **Fang and Coil**, the critical possesses more potential to mix-up the opponent, useful for fighting players rather than NPCs. The suplex comes out quickly and can easily confuse an opponent you are fighting against.
+While Legion Kata has the same damage as other [Fist Styles](Fists.md#styles), the critical possesses more potential to mix-up the opponent, useful for fighting players rather than NPCs. The suplex comes out quickly and can easily confuse an opponent you are fighting against.
 
 If you have Legion Kata and other [Fist Styles](Fists.md) (except for [Jus Karita](Jus_Karita.md)) obtained, you can switch and cycle between them quickly by pressing Y. This has a 7 second cooldown.
 

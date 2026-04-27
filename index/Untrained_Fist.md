@@ -1,6 +1,6 @@
 ---
 title: Untrained Fist
-revid: 204975
+revid: 206263
 source: https://deepwoken.fandom.com/wiki/Untrained_Fist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, Fighting Styles]
@@ -10,7 +10,7 @@ categories: [Weapons, Fists, Light Weapons, Fighting Styles]
 
 | Untrained Fist | |
 |---|---|
-| type | Light Weapon |
+| type | Fist |
 | damage type | Blunt |
 | requirements | N/A |
 | damage | 12 |
@@ -22,6 +22,7 @@ categories: [Weapons, Fists, Light Weapons, Fighting Styles]
 | special effect | Weapon attacks deal 50% less damage |
 | m.equip | No |
 | m.extract | No |
+| stances | 1 Handed |
 | rarity | N/A |
 | weight | 2 |
 | bankable | No |

@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Hood
-revid: 192419
+revid: 206277
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hoods]
@@ -25,6 +25,10 @@ categories: [Equipment, Head, Hoods]
 | pass down | Yes |
 | obtainment | Chests from:, Fort Merit, First Layer, Duke Ishamon Erisia, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Maestro Evengarde Rest, Lodestar, Heart of Enmity, The Doom of Caeranthil, Interluminary Parasol, Dread Serpent, War Mode, Miner's Landing, Saramaed Hollow |
 | description | ... |
+
+Deepwoken Set
+
+Variants: [Cloak](Deepwoken_Cloak.md)
 
 ## Deepwoken Hood
 

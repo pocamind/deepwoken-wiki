@@ -1,6 +1,6 @@
 ---
 title: Fang and Coil
-revid: 206218
+revid: 206271
 source: https://deepwoken.fandom.com/wiki/Fang_and_Coil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons, Weapons with multiple Criticals]
@@ -12,7 +12,7 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons, Weapons with multip
 |---|---|
 | type | Light Weapon |
 | damage type | Blunt |
-| requirements | 20 LHT |
+| requirements | Fang and Coil Talent |
 | damage | 12 |
 | scaling | LHT: 7 |
 | posture damage | 3 |
@@ -27,7 +27,7 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons, Weapons with multip
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | 20 LHT, Ally rep with Etrea, Kill The Doom of Caeranthil with proper kill credit, Talk to Vesque |
+| obtainment | Kill the Doom of Caeranthil, Have 20 LHT and ally reputation with Etrea, Talk to Vesque |
 | description | Weapon, TalentThe serpentine martial arts of Etrea.Adopt the path of the serpent. |
 
 ## Description
@@ -50,7 +50,7 @@ Vesque
 
 For its **Critical**, the user does a quick leg sweep, ragdolling and dazing opponents. The standing critical deals 0.65x (or 65%) of your weapon's _scaled_ damage. Additionally, it deals 10 Posture damage. This attack dazes and ragdolls for 1.25s, and with a short windup of 0.4s and an endlag of 0.25s. This attack has a **3 second cooldown**.
 
-For its **Running Critical**, the user performs a front-flip followed by a dazing knock-down stomp with a wide AoE, and is only accessible while wearing the [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) outfit. The running critical deals 1x your weapon's scaled damage. Additionally, it deals 10 Posture damage and has 10% innate Chip damage. This attack dazes and knockdowns for 0.95 seconds, and with a short windup of 0.5s and endlag of 0.25s. This attack has a **5 second cooldown**. This additional critical can **only** be used on fist weapons that do not have unique criticals (Fists, [Handcuffs](Handcuffs.md), [Iron](Iron_Cestus.md)/[Legion](Legion_Cestus.md)/[Flamekeeper Cestus](Flamekeeper_Cestus.md), [Gaunts of Enmity](Gaunts_of_Enmity.md), and [Worldpiercer Gauntlets](Worldpiercer_Gauntlets.md)) and [Markor's Inheritor](<Markor's_Inheritor.md>).
+For its **Running Critical**, the user performs a front-flip followed by a dazing knock-down stomp with a wide AoE, and is only accessible while wearing the [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) outfit. The running critical deals 1x your weapon's scaled damage. Additionally, it deals 10 Posture damage and has 10% innate Chip damage. This attack dazes and knockdowns for 0.95 seconds, and with a short windup of 0.5s and endlag of 0.25s. This attack has a **5 second cooldown**. This additional critical can **only** be used on fist weapons that do not have unique criticals (**Fang and Coil**, [Handcuffs](Handcuffs.md), [Iron](Iron_Cestus.md)/[Legion](Legion_Cestus.md)/[Flamekeeper Cestus](Flamekeeper_Cestus.md), [Gaunts of Enmity](Gaunts_of_Enmity.md), and [Worldpiercer Gauntlets](Worldpiercer_Gauntlets.md)) and [Markor's Inheritor](<Markor's_Inheritor.md>).
 
 ## Trivia
 

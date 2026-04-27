@@ -1,6 +1,6 @@
 ---
 title: Anklets of Alsin
-revid: 204785
+revid: 206261
 source: https://deepwoken.fandom.com/wiki/Anklets_of_Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -10,9 +10,9 @@ categories: [Weapons, Fists, Light Weapons]
 
 | Anklets of Alsin | |
 |---|---|
-| type | Fists |
+| type | Fist |
 | damage type | Blunt |
-| requirements | 25 LHT |
+| requirements | 25 LHT, Jus Karita |
 | damage | 13.5 |
 | scaling | LHT: 9 |
 | posture damage | 3 |
@@ -23,6 +23,7 @@ categories: [Weapons, Fists, Light Weapons]
 | chip damage | 10% |
 | m.equip | No |
 | m.extract | No |
+| stances | 1 Handed |
 | rarity | Rare |
 | selling price | 25 |
 | weight | 2 |

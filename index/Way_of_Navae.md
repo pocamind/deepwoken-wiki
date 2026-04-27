@@ -1,6 +1,6 @@
 ---
 title: Way of Navae
-revid: 206216
+revid: 206258
 source: https://deepwoken.fandom.com/wiki/Way_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons, The Children of Navae, Navae Weapons]
@@ -10,9 +10,9 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons, The Children of Nav
 
 | Way of Navae | |
 |---|---|
-| type | Light Weapon |
+| type | Fist |
 | damage type | Blunt |
-| requirements | N/A |
+| requirements | Way of Navae Talent |
 | damage | 12 |
 | scaling | LHT: 7 |
 | posture damage | 3 |
@@ -21,13 +21,14 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons, The Children of Nav
 | attack duration | 0.5s |
 | m.equip | No |
 | m.extract | No |
+| stances | 1 Handed |
 | rarity | N/A |
 | weight | 2 |
 | bankable | No |
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Step 1: Find a Navaen Nomad., Step 2: Turn it in to Eastern Camp Master, Eastern Nomad Leader, or Beiruul.OR, Step 1: Have high positive reputation with The Children of Navae., Step 2: Speak to a Eastern Nomad Leader. |
+| obtainment | Find a Navaen Nomad., Turn it in to Eastern Camp Master, Eastern Nomad Leader, or Beiruul.OR, Have high positive reputation with The Children of Navae., Speak to a Eastern Nomad Leader. |
 | description | Weapon, TalentThe mysterious martial arts style of the Children of Navae. Each strike is said to be dedicated to a different constellation.Adopt the fighting stance of the Way of Navae. |
 
 ## Description

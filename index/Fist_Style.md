@@ -1,6 +1,6 @@
 ---
 title: Fist Style
-revid: 204709
+revid: 206255
 source: https://deepwoken.fandom.com/wiki/Fist_Style
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Fists](Fists.md)
+-   [Fists#Styles](Fists.md#styles)

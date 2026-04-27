@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Cloak
-revid: 205825
+revid: 206278
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks, Equipment Styles]
@@ -25,6 +25,10 @@ categories: [Equipment, Arms, Cloaks, Equipment Styles]
 | pass down | Yes |
 | obtainment | Chests from:, The Starswept Valley, Miner's Landing, Primadon, Titan of the East, War Mode, Saramaed Hollow, Duke Ishamon Erisia, Chime of Conflict, Saramaed Hollow |
 | description | An ancient cloak of incredible power. Worn by a select few. |
+
+Deepwoken Set
+
+Variants: [Hood](Deepwoken_Hood.md)
 
 ## Description
 

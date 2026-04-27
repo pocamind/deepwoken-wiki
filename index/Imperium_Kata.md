@@ -1,6 +1,6 @@
 ---
 title: Imperium Kata
-revid: 203943
+revid: 206269
 source: https://deepwoken.fandom.com/wiki/Imperium_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, "Weapons with Multi-Hit Criticals", Light Weapons]
@@ -10,9 +10,9 @@ categories: [Weapons, Fists, Fighting Styles, "Weapons with Multi-Hit Criticals"
 
 | Imperium Kata | |
 |---|---|
-| type | Light Weapon |
+| type | Fist |
 | damage type | Blunt |
-| requirements | N/A |
+| requirements | Imperium Kata Talent |
 | damage | 12 |
 | scaling | LHT: 7 |
 | posture damage | 3 |
@@ -21,6 +21,7 @@ categories: [Weapons, Fists, Fighting Styles, "Weapons with Multi-Hit Criticals"
 | attack duration | 0.5s |
 | m.equip | No |
 | m.extract | No |
+| stances | 1 Handed |
 | rarity | N/A |
 | weight | 2 |
 | bankable | No |
@@ -28,7 +29,7 @@ categories: [Weapons, Fists, Fighting Styles, "Weapons with Multi-Hit Criticals"
 | enchantable | No |
 | pass down | No |
 | obtainment | Defeat Titus Fulminus Destellus and speak to him, Speak to Caitus |
-| description | the legendary martial arts style of the legion. emphasizing the sweeping motions of the wind. |
+| description | Weapon, TalentThe legendary martial arts style of the Legion. Emphasises the sweeping motions of wind.Wield an advanced form of the Legion's martial arts. |
 
 ## Description
 

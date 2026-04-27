@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 204375
+revid: 206236
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Aspects, Exclusive Aspects, Developer Spec, The Heavens]
@@ -24,7 +24,7 @@ Chance of obtaining aspect: **N/A** / **1%** Vow of Iron
 
 ## Description
 
-Hybrids of Humans and [Celestials](Celestial.md), some of them once inhabited the city of [Constellia](Constellia.md). Now, the only[\[1\]](#cite-note-1) ones seen by the humans of Lumen are the [Spellhardt family](Spellhardt_family.md), residing in the [The Floating Keep](The_Floating_Keep.md), which appears every [Hallowtide](Hallowtide.md).
+Hybrids of Humans and [Celestials](Celestial.md), some of them once inhabited the city of [Constellia](Constellia.md). Now, the only ones seen by the humans of Lumen are the [Spellhardt family](Spellhardt_family.md), residing in the [The Floating Keep](The_Floating_Keep.md), which appears every [Hallowtide](Hallowtide.md).
 
 ## Aspect Traits
 
@@ -86,7 +86,6 @@ Despite being immortal, they can show signs of aging, as seen in [Kaide, the Dro
   
 
 -   Spellhardt
--   Moros
     
 
 ## Features
@@ -99,6 +98,8 @@ Lightborn has 6 halo colors and 3 three halo position variants.
 
 **Arms:**
 
+  
+
 ## Trivia
 
 -   The placement of the halo carries specific lore implications, reflecting unique aspects of the Lightborn's origin and purpose.
@@ -109,8 +110,5 @@ Lightborn has 6 halo colors and 3 three halo position variants.
 -   Developers have stated plans for making Lightborn obtainable in the future, though not through the standard reroll system. Instead, players would need to complete a specific task or requirement to earn the aspect and become a Lightborn.
     -   From a lore perspective, obtaining the Lightborn aspect, while extremely difficult, is possible. Lightborn are hybrids of humans and celestials, meaning that creation of one could occur through direct contact with a celestial, though such an event would be incredibly rare.
     -   On the December 13th, 2025 update, the Lightborn aspect has been made obtainable by rerolls only through the [Vow of Iron](Vow_of_Iron.md) gamemode.
--   According to Melonbeard, Sariel Moros, the only known Lightborn without the surname _Spellhardt,_ is said to be an exiled Lightborn who collaborated, or attempted to collaborate, with the Drowned Gods. It’s unclear how much of this is canon and is most likely just the developers’ edgier interpretation of the Lightborn aspect.
 -   The runes inscribed on the halo roughly translate to: "Be the mysterious light the few who were chosen.
 -   Like all other aspects, the starting points Lightborn has gets converted into freely allocable points after purchasing [Multifaceted](Echoes.md#upgrades-unlocks-and-modifiers). However, because Lightborn has _twelve_ starting points instead of the usual five, this increases your maximum investment point limit to 337. Much like [Khan](Khan.md), this allows Lightborn to have entirely aspect-exclusive builds.
-
-1.  [↑](#cite-ref-1) There is another surname, Moros, it is however only held by one rogue Lightborn.

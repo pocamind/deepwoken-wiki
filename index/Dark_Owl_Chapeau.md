@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Chapeau
-revid: 176393
+revid: 206279
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Chapeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -25,6 +25,10 @@ categories: [Equipment, Head, Hats]
 | pass down | Yes |
 | obtainment | Chests from:, Diluvian Mechanism, Deep Owl, Miner's Landing, Deep Widow, Duke Ishamon Erisia, Lodestar, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Voidwalker, Voidsea, Chime of Conflict |
 | description | ... |
+
+Dark Owl Set
+
+Variants: [Cloak](Dark_Owl_Cloak.md) · [Cape](Dark_Owl_Cape.md)
 
 ## Description
 

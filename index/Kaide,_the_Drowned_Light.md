@@ -1,6 +1,6 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 206208
+revid: 206234
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Layer 2, Floor 2]
@@ -25,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 Kaide is a [Lightborn](Lightborn.md) NPC. He was the last and former king of the fallen city [Constellia](Constellia.md), one of the largest Celestial Cities in the Heavens.
 
-As the king of Constellia, he was imprisoned in the outskirts of New Kyrsa after the invasion made by the [Kyrsans](Kyrsgarde.md) under Ethiron's will, now to be eternally meditating. He mentions about the limited power of the Song and the unsuccessful war between the Celestials and Lightborns against the Drowned Gods, eventually leading to the Celestials fleeing and the Lightborns losing morale, giving up in the process.
+As the king of Constellia, he was imprisoned in the outskirts of New Kyrsa after the invasion made by the [Kyrsans](Kyrsgarde.md) under Ethiron's will, now to be eternally meditating. He mentions about the limited power of the Song and the unsuccessful war between the Celestials and Lightborn against the Drowned Gods, eventually leading to the Celestials fleeing and the Lightborn losing morale, giving up in the process.
 
 Kaide is an aged man with purple eyes and a stern expression. He has long white hair styled into curtain bangs, symmetrically hanging down to his abdomen. His armor consists of gray robes laid over a black, long-sleeved top that features patterns on each sleeve. Lesser aspects such as his pouches and gloves take a dark brown color. A large, bright lavender halo fashioned into a crown with numerous spikes circling it. On his hand is a dark, faded purple twinblade that sports a zig-zag blade with numerous four-pronged star embellishments in between.
 
@@ -378,7 +378,7 @@ This dialogue is unlocked if the player has read the [Book](Books.md) [Words of 
     -   When speaking to Kaide with a [Kyrsieger](Kyrsieger.md) equipped, he judges the Pathfinder as the Kyrsieger was used in an assault on Constellia, the city Kaide ruled over.
     -   When speaking to Kaide with a [Soulthorn](Soulthorn.md) equipped, he reminisces Zhatarn, a Celestial that was exiled from the Heavens who once wielded the Soulthorn.
     -   When speaking to him while having [Oath: Starkindred](Oath%253A_Starkindred.md), he recognizes the scent of Celestials, calling the Pathfinder "Depraved" as they used to be. Even though he scorns Celestials because of betrayal, he "had hoped better, not sure himself why" when felt their scent from the Pathfinder.
--   Lightborns, due to being immortal, do not often show signs of aging. Despite this, Kaide has noticeable under-eye wrinkles consistent with stage 2 of the aging process. According to [Mikhail Spellhardt](Mikhail_Spellhardt.md), a Lightborn will change appearance over time if something is weighing on their mind and soul, so Kaide's wrinkles may be a result of him "feeling old" or having many responsibilities that weigh upon his mind constantly.[\[1\]](#cite-note-1)
+-   Lightborn, due to being immortal, do not often show signs of aging. Despite this, Kaide has noticeable under-eye wrinkles consistent with stage 2 of the aging process. According to [Mikhail Spellhardt](Mikhail_Spellhardt.md), a Lightborn will change appearance over time if something is weighing on their mind and soul, so Kaide's wrinkles may be a result of him "feeling old" or having many responsibilities that weigh upon his mind constantly.[\[1\]](#cite-note-1)
 -   Kaide's clothing IDs are the following: [Shirt](https://www.roblox.com/catalog/81399248825021/God-Kings-Swordsman) / [Pants](https://www.roblox.com/catalog/124979649911501/God-Kings-Swordsman)
 -   Kaide's hair IDs are [87549044824881](https://www.roblox.com/catalog/87549044824881/Long-Black-Straight-Hair) / [135749891781739](https://www.roblox.com/catalog/135749891781739/Black-Anime-Male-Long-Hair)
 

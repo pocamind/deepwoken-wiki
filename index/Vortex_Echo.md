@@ -1,6 +1,6 @@
 ---
 title: Vortex Echo
-revid: 205695
+revid: 206264
 source: https://deepwoken.fandom.com/wiki/Vortex_Echo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute based weapons", Weapons with Unique Animations, Relics, Legendary Weapons, Light Weapons, Relic Weapon]
@@ -56,7 +56,7 @@ Buster Call
 ## Trivia
 
 -   Vortex Echo utilizes [Legion Katas](Legion_Kata.md) M1 animations regardless of your chosen Fist Style.
--   This paired with [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) critical not working on Vortex Echo makes [Fang and Coil](Fang_and_Coil.md) a very bad Fist Style for this weapon.
+    -   This, paired with [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) critical not working on Vortex Echo makes [Fang and Coil](Fang_and_Coil.md) a very bad Fist Style for this weapon.
 -   [Deepscorn Casque](Deepscorn_Casque.md) does not lower the wither gain upon crit usage.
 -   Vortex Echo's critical allegedly used to fully reset cooldowns regardless of how long they were, before the weapon was made publicly available.
 -   [Warmaster's Medallion](<Warmaster's_Medallion.md>) works on Vortex Echos cooldown, lowering it down to 26 seconds (outside of [Chime of Conflict](Chime_of_Conflict.md)).

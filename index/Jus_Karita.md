@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 206150
+revid: 206259
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons]
@@ -10,9 +10,9 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons]
 
 | Jus Karita | |
 |---|---|
-| type | Light Weapon |
+| type | Fist |
 | damage type | Blunt |
-| requirements | N/A |
+| requirements | Jus Karita Talent |
 | damage | 14 |
 | scaling | LHT: 9 |
 | posture damage | 3 |
@@ -22,6 +22,7 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons]
 | penetration | 20% |
 | m.equip | No |
 | m.extract | No |
+| stances | 1 Handed |
 | rarity | N/A |
 | weight | 2 |
 | bankable | No |

@@ -1,6 +1,6 @@
 ---
 title: Moppet
-revid: 204593
+revid: 206268
 source: https://deepwoken.fandom.com/wiki/Moppet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Animations, Event Item, Hallowtide, Light Weapons]
@@ -59,8 +59,8 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
     -   Notably, Moppet is likely the best user of the [Finishing Touch](Talents.md#finishing-touch) Talent due to how common it is to kill a player _with_ its critical attack, as this Talent does not proc if the target is already Unconscious.
     -   For usage with [Critical Engine](Talents.md#critical-engine):
         -   [Blue Gem](Blue_Gem.md) has no cap for the Ether it can restore, potentially restoring all of your Ether on crit.
-        -   [Bloodless Gem](Bloodless_Gem.md) has a cap of 15 health restored, granting exceptional lifesteal but requiring you to spread your damage between crits.
-        -   [Wayward Gem](Wayward_Gem.md) has a range limit, though it is very good for this weapon in most scenarios.
+        -   [Bloodless Gem](Bloodless_Gem.md) has a cap of 15 health restored, granting exceptional lifesteal but requiring you to spread your damage between crits. However, due to the damage storing mechanic, using Bloodless Gems won't reduce your critical's damage.
+        -   [Wayward Gem](Wayward_Gem.md) has a 500 stud range limit, though it is very good for this weapon in most scenarios.
         -   The _innate_ effects of [Might](Might_Gem.md) and [Wrath Gems](Wrath_Gem.md) do not apply to Moppet's critical.
         -   All other [Deep Gems](Deep_Gems.md) work, but they aren't as notable.
 -   [Visionshaper](Oath%253A_Visionshaper.md) Clones cannot use Moppet's critical. Additionally, they will deal damage on M1 instead of storing it.
