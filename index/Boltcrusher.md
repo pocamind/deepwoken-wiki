@@ -1,6 +1,6 @@
 ---
 title: Boltcrusher
-revid: 204064
+revid: 206295
 source: https://deepwoken.fandom.com/wiki/Boltcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Greathammers, The Ignition Union, "Attunement-based Weapons", Heavy Weapons, Weapons with multiple Criticals]
@@ -58,7 +58,7 @@ For the standing critical, the user reels back the weapon, drilling into them be
 
 For the running critical, The user lifts the Boltcrusher up above their head before slamming it into the ground using the hammerhead side, creating a shockwave of lightning, applying Sapped to the target.
 
-Both the running and the standing version share a cooldown of **10 seconds**. This cooldown is decreased to **8 seconds** if the user has the [Warmaster Medallion](<Warmaster's_Medallion.md>) equipped.
+Both the running and the standing version share a cooldown of **10 seconds**. This cooldown is decreased to **8 seconds** if the user has the [Warmaster's Medallion](<Warmaster's_Medallion.md>) equipped.
 
 ## Trivia
 
