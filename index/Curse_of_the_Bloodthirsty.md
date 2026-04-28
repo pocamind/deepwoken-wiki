@@ -1,6 +1,6 @@
 ---
 title: Curse of the Bloodthirsty
-revid: 203526
+revid: 206324
 source: https://deepwoken.fandom.com/wiki/Curse_of_the_Bloodthirsty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -10,7 +10,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 
 | Curse of the Bloodthirsty | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | Deal +10% weapon damage and drain the blood of your foes, but suffer blood loss if your weapon attacks miss. |

@@ -1,6 +1,6 @@
 ---
 title: Clan Anako
-revid: 199741
+revid: 206314
 source: https://deepwoken.fandom.com/wiki/Clan_Anako
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive]
@@ -22,7 +22,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Clan Anako is one of the four clans that comprise the [Etrean Royalists](Etrean_Royalists.md). Led by their [Sachan Yi Anako](Sachan_Yi_Anako.md), they are distinguished by their characteristic red armor. Following the disbandment of the [Etrean Royalists](Etrean_Royalists.md), Clan Anako sided with [Clan Mofisu](Clan_Mofisu.md) to reclaim the [Temple of Mur](Temple_of_Mur.md) and the [Viridian Sanctuary](Viridian_Sanctuary_Ruins.md).
+Clan Anako is one of the four clans that comprise the [Etrean Royalists](Etrean_Royalists.md). Led by their [Sachan Yi Anako](Sachan_Yi_Anako.md), they are distinguished by their characteristic red armor. Following the disbandment of the Old Guard, Clan Anako sided with [Clan Mofisu](Clan_Mofisu.md) to reclaim the [Temple of Mur](Temple_of_Mur.md) and the [Viridian Sanctuary](Viridian_Sanctuary_Ruins.md).
 
 ## Notable Members
 

@@ -1,6 +1,6 @@
 ---
 title: Scattered Possessions
-revid: 201086
+revid: 206310
 source: https://deepwoken.fandom.com/wiki/Scattered_Possessions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Clan Mofisu]
@@ -36,7 +36,7 @@ The **Scattered Possessions** is a [Quest](Quests.md) item found at the [Viridia
   <td>[Inspect]</td>
 </tr>
 <tr>
-  <td><i>*The expertly-made scabbard stands out among the possessions.Around the neck of the scabbard, you spot a delicately-carved inscryption: 'To Sophon, from Samnang. May your blade be your strength.'.*</i></td>
+  <td><i>*The expertly-made scabbard stands out among the possessions. Around the neck of the scabbard, you spot a delicately-carved inscription: 'To Sophon, from Samnang. May your blade be your strength.'.*</i></td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

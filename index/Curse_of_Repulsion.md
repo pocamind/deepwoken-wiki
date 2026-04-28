@@ -1,6 +1,6 @@
 ---
 title: Curse of Repulsion
-revid: 203498
+revid: 206322
 source: https://deepwoken.fandom.com/wiki/Curse_of_Repulsion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -10,7 +10,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 
 | Curse of Repulsion | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | When you block attacks, you knock your attacker backwards. You receive +30% chip damage. |

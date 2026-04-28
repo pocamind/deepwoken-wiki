@@ -1,6 +1,6 @@
 ---
 title: Curse of Captain Greene
-revid: 204450
+revid: 206321
 source: https://deepwoken.fandom.com/wiki/Curse_of_Captain_Greene
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments, The Vat Exclusive]
@@ -10,7 +10,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments, The Vat Excl
 
 | Curse of Captain Greene | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | Known throughout the Summer Company, many heard of the famous treasurer Captrain Greene [sic]. You inherit his strange ability of gaining damage the more rich you are. However since you aren't Captain Greene himself, you lose notes whenever you get hit. A strange curse indeed... |

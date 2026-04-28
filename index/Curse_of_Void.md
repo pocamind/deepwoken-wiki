@@ -1,6 +1,6 @@
 ---
 title: Curse of Void
-revid: 203540
+revid: 206327
 source: https://deepwoken.fandom.com/wiki/Curse_of_Void
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments, The Vat Exclusive]
@@ -10,7 +10,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments, The Vat Excl
 
 | Curse of Void | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | Every enemy you slay while equipping this weapon will always be Drowned. Enemies hit will also experience reduced healing. It also applies 10 seconds of Ether Sunder to PvE opponents. |

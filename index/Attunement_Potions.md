@@ -1,6 +1,6 @@
 ---
 title: Attunement Potions
-revid: 196083
+revid: 206320
 source: https://deepwoken.fandom.com/wiki/Attunement_Potions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Attunement]
@@ -11,8 +11,9 @@ categories: [Items, Attunement]
 | Attunement Potions | |
 |---|---|
 | type | Item |
-| bankable | Yes |
-| droppable | Yes |
+| usage | Gives the player the respective Attunement on consumption |
+| bankable | No |
+| droppable | No |
 | pass down | No |
 | desc | A strange concoction of blood. |
 | obtainment | Attunement Trainers:, Glassblood: Give Frigid Prisms to Nell, Hearthblood: Give Dying Embers to Amashi, Sparkblood: Give Spark Glands to Funke, Skyblood: Give Gale Stones to Friid, Nightblood: Give Umbral Obsidian to Nostor, Alloyed Elixir: Give Iron, Gold, Erisore, Irithine, Astruline, and Umbrite to Adar, Curseblood: Give Heartstars to Vyrelda |

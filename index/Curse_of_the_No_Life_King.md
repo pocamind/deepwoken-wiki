@@ -1,6 +1,6 @@
 ---
 title: Curse of the No Life King
-revid: 203538
+revid: 206325
 source: https://deepwoken.fandom.com/wiki/Curse_of_the_No_Life_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -10,7 +10,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 
 | Curse of the No Life King | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | Grants passive regen and damages the sanity of your foes, but succumb to the insanity much faster, lose twice as much blood, and never be more than a step away from death. The amount of healing scales with your weapon stat invested. |

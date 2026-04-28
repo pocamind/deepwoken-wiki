@@ -1,6 +1,6 @@
 ---
 title: Curse of the Unbidden
-revid: 203539
+revid: 206326
 source: https://deepwoken.fandom.com/wiki/Curse_of_the_Unbidden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments, Critical Attack Enchantments]
@@ -10,7 +10,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments, Critical Att
 
 | Curse of the Unbidden | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | Your critical attack is replaced with Unbidden Counter, restoring posture and stunning your attacker. Your attacks drain Ether on hit. |

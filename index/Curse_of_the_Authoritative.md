@@ -1,6 +1,6 @@
 ---
 title: Curse of the Authoritative
-revid: 203500
+revid: 206323
 source: https://deepwoken.fandom.com/wiki/Curse_of_the_Authoritative
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -10,7 +10,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 
 | Curse of the Authoritative | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | On critical, uppercut, or flourish, apply Authoritative on your opponent making them take 50% more posture damage. When you get guardbroken, take 50% more damage. |

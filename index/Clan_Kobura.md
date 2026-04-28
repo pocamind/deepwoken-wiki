@@ -1,6 +1,6 @@
 ---
 title: Clan Kobura
-revid: 199743
+revid: 206316
 source: https://deepwoken.fandom.com/wiki/Clan_Kobura
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive]
@@ -15,8 +15,6 @@ categories: [Vow of Iron Exclusive]
 | goals | Liberate Etrea, Preserve the history of Etrea, Defeat The Lord Regent, Join forces with the Central Authority |
 | founded | 1219 CE[1][2] |
 | dissolved | 1233 CE |
-
-Variants: [Clan Anako](Clan_Anako.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
