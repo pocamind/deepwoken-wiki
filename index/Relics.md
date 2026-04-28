@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 199941
+revid: 206339
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Mechanics, Relics]
@@ -533,8 +533,6 @@ _"You watch the once solid splinter animate within the cold forge; the fragmente
 
  |
 | 
-
-File:Vortexechoupclose.png
 
  | **[Vortex Echo](Vortex_Echo.md)** - A result of [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) watch being infused with [Ethiron's](<Ethiron,_The_Maelstrom's_Eye.md>) Gale, becoming something that can distort time in ways the feeble human mind cannot comprehend.
 

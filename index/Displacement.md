@@ -1,6 +1,6 @@
 ---
 title: Displacement
-revid: 203527
+revid: 206350
 source: https://deepwoken.fandom.com/wiki/Displacement
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -10,7 +10,7 @@ categories: [Enchantments, Equipment Enchantments]
 
 | Displacement | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | Incoming hits may proc Displacement, granting a speed boost and clearing all stuns present. |
@@ -22,7 +22,7 @@ Displacement is a self-buffing equipment [enchantment](Enchantments.md) that gra
 
 ## Effect
 
-Upon taking damage, Displacement has a 30% chance to proc. On proc, you will gain a speed boost for 4 seconds and brief hyperarmor.
+Upon taking damage from a humanoid, Displacement has a 30% chance to proc. On proc, you will gain a speed boost for 4 seconds and brief hyperarmor.
 
 ### Notes
 

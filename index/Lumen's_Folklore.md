@@ -1,6 +1,6 @@
 ---
 title: "Lumen's Folklore"
-revid: 206336
+revid: 206356
 source: https://deepwoken.fandom.com/wiki/Lumen's_Folklore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Book Collections]
@@ -93,4 +93,5 @@ Lumen's Folklore: Volume 'North'
 
 ## Trivia
 
--   Volume 'North' asserts [The Citadel of Markor](The_Citadel_of_Markor.md) partook in the deciphering of Edenkite words, but the volume establishes these events took place during [the Canticlysm](The_Canticlysm.md), which is implicitly before the Citadel was founded, as [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) establishes that the Citadel was founded at a time where the Tides and the threat they posed were known to humanity, thus around the time of the Mad Steward, while [the Resurgence](The_Resurgence.md), which must've taken place after the Canticlysm, is known to have occurred 500 years before the Citadel was founded.
+-   This is the only Book Collection that contains more than one volume.
+-   Volume 'North' asserts [The Citadel of Markor](The_Citadel_of_Markor.md) partook in the deciphering of Edenkite words, but the volume establishes these events took place during [the Canticlysm](The_Canticlysm.md), which is implicitly before the Citadel was founded, as [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) establishes that the Citadel was founded at a time where the Tides and the threat they posed were known to humanity. This places its founding around the time of the Mad Steward, while [the Resurgence](The_Resurgence.md), which must've taken place after the Canticlysm, is known to have occurred 500 years before the Citadel was founded.

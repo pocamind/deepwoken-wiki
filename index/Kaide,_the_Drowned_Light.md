@@ -1,6 +1,6 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 206329
+revid: 206343
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Layer 2, Floor 2]
@@ -327,7 +327,7 @@ This dialogue is unlocked if the player has read the [Book](Books.md) [Words of 
   <td><i>*His expression betrays bemusement and mild confusion.*</i> ...As I understand it, the <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsans</a> bear similar names. At least, for the <i>most</i> part. Though, I cannot say I am personally well-acquainted with the locals, given the circumstances. Where have you heard this name?</td>
 </tr>
 <tr>
-  <td>I found it in a manifesto signed with that name. It talks of a Kyrsgarde commander who seemingly...</td>
+  <td>I found it in a manifesto signed with that name. It talks of a Kyrsgarde commander who seemingly resisted Ethrion's thrall.</td>
 </tr>
 <tr>
   <td><i>*He raises an eyebrow.*</i> How... Unusual. Where did you come by such a thing?</td>
@@ -339,7 +339,7 @@ This dialogue is unlocked if the player has read the [Book](Books.md) [Words of 
   <td>Indeed? And what did this <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsan</a> look like?</td>
 </tr>
 <tr>
-  <td>They were significantly taller than the others, and wore a cape. They also carried a strange glaive...</td>
+  <td>They were significantly taller than the others, and wore a cape. They also carried a strange glaive decorated with Moonseye symbols.</td>
 </tr>
 <tr>
   <td>...Most curious. Your description of this 'Champion' is eerily similar to that of the <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsan</a> commander who took me prisoner during the siege of <a href="Glossary.md#constellia-the-guiding-star">Constellia</a>. The circumstances of it were unusual, to say the least. He is the sole reason I am now captive here, as opposed to lying among the bodies of my kin within the ruins of the city. An uncanny coincidence... Or, perhaps, a strange twist of fate.</td>

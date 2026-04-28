@@ -1,6 +1,6 @@
 ---
 title: Bounce
-revid: 203501
+revid: 206348
 source: https://deepwoken.fandom.com/wiki/Bounce
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -10,7 +10,7 @@ categories: [Enchantments, Equipment Enchantments]
 
 | Bounce | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | Incoming hits may bounce your attacker away. |
@@ -24,6 +24,6 @@ Bounce is an equipment [enchantment](Enchantments.md) that pushes your attacker 
 
 Upon taking damage, Bounce has a 20% chance to proc. On proc, your opponent will be pushed away from you.
 
-### Notes
+## Trivia
 
 -   This enchantment is [Adhesive](Adhesive.md)'s counterpart.

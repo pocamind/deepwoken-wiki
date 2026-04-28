@@ -1,6 +1,6 @@
 ---
 title: Allure
-revid: 203499
+revid: 206351
 source: https://deepwoken.fandom.com/wiki/Allure
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -10,7 +10,7 @@ categories: [Enchantments, Equipment Enchantments]
 
 | Allure | |
 |---|---|
-| bankable | Yes, (it costs 1 to unbank) |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | Incoming hits may Charm your attacker for 10s. |
@@ -22,11 +22,11 @@ Allure is a debuffing equipment [enchantment](Enchantments.md) that [charms](Sta
 
 ## Effect
 
-Upon being hit by an M1, Allure has a 50% chance to proc. On proc, your opponent will be [charmed](Status_Effects.md#charm) for 10 seconds.
+Upon being hit by a humanoid's M1 attack, Allure has a 50% chance to proc. On proc, your opponent will be [charmed](Status_Effects.md#charm) for 10 seconds.
 
 ### Notes
 
 -   This enchantment does not proc on non-humanoid enemies.
--   Charm provides the caster 10% damage reduction against opponents that have charmed, making this enchantment very good for 0 Charisma builds.
--   Charm applied from this equipment can proc charm-based Talents.
--   The charm duration will be reduced to 5 seconds if your opponent has the [Disbelief](Talents.md#disbelief) Talent.
+-   Charm provides the caster 10% damage reduction against opponents that have Charmed by them, making this enchantment very good for 0 Charisma builds.
+-   Charm applied from this enchantment benefits from Charm-based Talents.
+-   The Charm duration will be reduced to 5 seconds if your opponent has the [Disbelief](Talents.md#disbelief) Talent.

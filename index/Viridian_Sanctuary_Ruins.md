@@ -1,6 +1,6 @@
 ---
 title: Viridian Sanctuary Ruins
-revid: 206335
+revid: 206338
 source: https://deepwoken.fandom.com/wiki/Viridian_Sanctuary_Ruins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Locations, Clan Mofisu]
@@ -22,7 +22,7 @@ The once-home of the devout Clan Mofisu now turns to cinders, engulfed in the ro
 
 ## Description
 
-The **Viridian Sanctuary Ruins** was the home of [Clan Mofisu](Clan_Mofisu.md) before being brought to ruin. It can be found along the right side of [Aratel Island](Aratel_Island.md), near [Temple of Mur](Temple_of_Mur.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode.
+The **Viridian Sanctuary Ruins** was the home of [Clan Mofisu](Clan_Mofisu.md) before being brought to ruin, It can be found along the right side of [Aratel Island](Aratel_Island.md), near [Temple of Mur](Temple_of_Mur.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode.
 
 ## Contents
 
