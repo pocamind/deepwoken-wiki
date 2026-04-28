@@ -1,6 +1,6 @@
 ---
 title: Chipped Sword
-revid: 196140
+revid: 206334
 source: https://deepwoken.fandom.com/wiki/Chipped_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Quests, NPCs, NPCs located in the Etrean Luminant]

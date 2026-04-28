@@ -1,6 +1,6 @@
 ---
 title: Viridian Sanctuary Ruins
-revid: 204577
+revid: 206335
 source: https://deepwoken.fandom.com/wiki/Viridian_Sanctuary_Ruins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Locations, Clan Mofisu]
@@ -31,4 +31,4 @@ The **Viridian Sanctuary Ruins** was the home of [Clan Mofisu](Clan_Mofisu.md) b
 
 ## Quests
 
-Continuing on from [Samnang](Samnang.md)'s quest, Scattered possessions can be found here. They belong to the deceased [Sophon](Sophon.md).
+Continuing on from [Samnang](Samnang.md)'s quest, [Scattered Possessions](Scattered_Possessions.md) can be found here. They belong to the deceased [Sophon](Sophon.md).

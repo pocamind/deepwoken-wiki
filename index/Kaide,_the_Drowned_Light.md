@@ -1,6 +1,6 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 206234
+revid: 206329
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Layer 2, Floor 2]
@@ -354,7 +354,7 @@ This dialogue is unlocked if the player has read the [Book](Books.md) [Words of 
   <td>Strangely individual quirks for a Kyrsgarde, given their enthrallment.</td>
 </tr>
 <tr>
-  <td>[WIP] the same, this only raises more questions. Given everything you've told me, it sounds as though this one has somehow escaped <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron's</a> control. What's more - of the three names you mentioned, the first one is distinctly non-Kyrsan, and is well-known to me. <a href="Glossary.md#raeva">Raeva</a> was the name of one of the <a href="Glossary.md#the-celestials">Celestials</a> that presided over <a href="Glossary.md#constellia-the-guiding-star">Constellia</a> before I came to rule the city. I was not there for their departure, but until now, I had assumed they fled, like the others...</td>
+  <td>...Indeed. If this 'Champion' and the <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsan</a> commander are one of the same, this only raises more questions. Given everything you've told me, it sounds as though this one has somehow escaped <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron's</a> control. What's more - of the three names you mentioned, the first one is distinctly non-Kyrsan, and is well-known to me. <a href="Glossary.md#raeva">Raeva</a> was the name of one of the <a href="Glossary.md#the-celestials">Celestials</a> that presided over <a href="Glossary.md#constellia-the-guiding-star">Constellia</a> before I came to rule the city. I was not there for their departure, but until now, I had assumed they fled, like the others...</td>
 </tr>
 <tr>
   <td>What do you make of all this?</td>

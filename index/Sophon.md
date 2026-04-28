@@ -1,6 +1,6 @@
 ---
 title: Sophon
-revid: 196157
+revid: 206333
 source: https://deepwoken.fandom.com/wiki/Sophon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Individuals with He/him pronouns, Characters with status unknown]
@@ -31,10 +31,10 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 Sophon is [Samnang](Samnang.md)'s brother, and they're both kinsmen of the of [Clan Mofisu](Clan_Mofisu.md). Both resided in [Etrea](Etrea.md) until war broke out and he had to answer their call of arms. [\[1\]](#cite-note-samnang-1)
 
-Sophon seemed to have died or gone missing. This is signified by the fact that the equipment that we find is now rusty and bloody. His scattered possessions also has some blood on it, signifying that something bad has happened, most likely in some kind of battle at the [Viridian Sanctuary](Viridian_Sanctuary_Ruins.md) and how it came to ruins.[\[3\]](#cite-note-posessions-3)
+Sophon seemed to have died or gone missing. This is signified by the fact that the equipment that we find is now rusty and bloody. His [Scattered Possessions](Scattered_Possessions.md) also has some blood on it, signifying that something bad has happened, most likely in some kind of battle at the [Viridian Sanctuary](Viridian_Sanctuary_Ruins.md) and how it came to ruins.[\[3\]](#cite-note-posessions-3)
 
 ## References
 
 1.  ↑ [1.0](#cite-ref-samnang-1-0) [1.1](#cite-ref-samnang-1-1) [1.2](#cite-ref-samnang-1-2) [1.3](#cite-ref-samnang-1-3) [Samnang](Samnang.md)
 2.  [↑](#cite-ref-2) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md). However, events taking place within the [Vow of Iron](Vow_of_Iron.md) gamemode are explicitly during the year 1233 CE.
-3.  [↑](#cite-ref-posessions-3-0) Scattered possessions
+3.  [↑](#cite-ref-posessions-3-0) [Scattered Possessions](Scattered_Possessions.md)
