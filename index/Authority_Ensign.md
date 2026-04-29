@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 206026
+revid: 206420
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -300,7 +300,7 @@ Complete 10 missions as Squad leader, then speak to [Warden Jericho](Warden_Jeri
 
 **Support Mantra**
 
-_Yell with valor and courage, increasing the speed of those who are in your party by 20 seconds and making them unknockable for 10 seconds._
+_Yell with valor and courage, increasing the speed of those who are in your party for 20 seconds and making them unknockable for 10 seconds._
 
  | 
 
@@ -308,7 +308,7 @@ _Yell with valor and courage, increasing the speed of those who are in your part
 
   
 **Support Mantra**  
-_Yell with valor and courage, increasing the speed of those who are in your party by 20 seconds and making them unknockable for 10 seconds._
+_Yell with valor and courage, increasing the speed of those who are in your party for 20 seconds and making them unknockable for 10 seconds._
 
  |
 | 

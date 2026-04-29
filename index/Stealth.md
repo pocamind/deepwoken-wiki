@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 205955
+revid: 206423
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -62,6 +62,8 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
         -   [Assassin's Cloak](<Assassin's_Cloak.md>), [Hive Scourge Cuirass](Hive_Scourge_Cuirass.md), and [Tracker's Boots](<Tracker's_Boots.md>)
 -   The [Obvious](Boons_and_Flaws.md#obvious) Flaw grants -20% Stealth.
 
+**Calculator [here](https://www.desmos.com/calculator/ar6qiytogo).**
+
 ### Maximum Stealth
 
 The current maximum Stealth possible is **1,100%** or **1,180%**, depending on your Aspect;
@@ -73,8 +75,6 @@ The current maximum Stealth possible is **1,100%** or **1,180%**, depending on y
     -   Any other Aspect with Obvious - 80% maximum base Stealth, 170% when crouching, and 260% with [Lowstride](Talents.md#lowstride).
 -   [Tacet](Murmur%253A_Tacet.md) provides 400% flat Stealth, and an additional 400% if you are using [Tacet Minimization](Talents.md#tacet-minimization).
 -   In the [Vow of Iron](Vow_of_Iron.md) gamemode, the [Rogue Assassin](Rogue_Assassin.md) Memento can reach a maximum Stealth value of **1,120** or **1,204%**, depending on the Ironsworn's Aspect. This Memento has 150 Agility when Power 20 alongside having access to Lowstride, Tacet, and Tacet Minimization.
-
-**Calculator [here](https://www.desmos.com/calculator/ar6qiytogo).**
 
 ## Usage
 

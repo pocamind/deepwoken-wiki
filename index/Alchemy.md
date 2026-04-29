@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 203682
+revid: 206427
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Consumables, Alchemy]
@@ -100,6 +100,7 @@ Alternatively, a spreadsheet listing the effects of all potion ingredients can b
 | [Scallop](Scallop.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |  |
 | [Seaweed Bundle](Seaweed_Bundle.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |  |
 | [Spider Egg](Spider_Egg.md) |  |  |  |  |  |  |  |  |  |  | +50% |
+| [Sweetgourd](Sweetgourd.md) | ? | ? | ? | ? | ? | +? | ? | ? | ? | ? | ? |
 | [Thresher Egg](Thresher_Egg.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |  |
 | [Urchin](Urchin.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |  |
 | [Wheat](Gathered_Wheat.md) |  |  | \-1.75% |  |  |  |  | +90% |  |  |  |
@@ -369,7 +370,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   Salve<br>
   Tincture</td>
   <td>Alestrian Coral<br>
-  Pomar</td>
+  Pomar<p>Sweetgourd</p></td>
   <td>Applies a speed boost for the duration of the potion.</td>
   <td>Opposite effect to <b>Slowing.</b><p>The speed boost from Hastening is usually a flat bonus, remaining active even while using mantras, carrying something, or being pushed by the wind in the <a href="Second_Layer.md">Second Layer</a>. It is reduced in water, however.<br>
   All speed boost ingredients have the same effectiveness.</p></td>
