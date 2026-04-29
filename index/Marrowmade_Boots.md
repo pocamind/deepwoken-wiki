@@ -1,6 +1,6 @@
 ---
 title: Marrowmade Boots
-revid: 205248
+revid: 206413
 source: https://deepwoken.fandom.com/wiki/Marrowmade_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -19,7 +19,7 @@ categories: [Equipment, Legs, Boots]
 | innate talent | Osseous Surge, Surestep |
 | bankable | No |
 | droppable | No |
-| enchantable | If dropped |
+| enchantable | Only if the boss drops it enchanted. |
 | pass down | No |
 | obtainment | Kyrsgarde Champion |
 | description | A grotesque set of boots, manufactured from what appears to be the foot and head of a Bonekeeper. Calling these 'comfortable' feels charitable. And yet, holding them, you cannot help but feel your bones itch, and the ground beneath you quiver... |
