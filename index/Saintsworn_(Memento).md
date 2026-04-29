@@ -1,6 +1,6 @@
 ---
 title: Saintsworn (Memento)
-revid: 205135
+revid: 206407
 source: https://deepwoken.fandom.com/wiki/Saintsworn_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -29,7 +29,9 @@ This content is not accessible outside of this gamemode.
 
 ## Overview
 
-Saintsworn (Memento) is a playable [Memento](Mementos.md) available in the [Vow of Iron](Vow_of_Iron.md) gamemode. To unlock it, you must speak with the [Saintsworn Obelisks](Saintsworn_Obelisks.md) on Ironsworn characters that have the respective Attunement. Once all five have been interacted with, you'll unlock the Memento.
+Saintsworn (Memento) is a playable [Memento](Mementos.md) available in the [Vow of Iron](Vow_of_Iron.md) gamemode. You gain access to the [Saintsworn](Oath%253A_Saintsworn.md) Oath and its abilities.
+
+The Saintsworn is a resolute champion, drawing power from the sacred forces of the core Attunements, standing unshaken in battle as they channel the song through the [Saintsworn Obelisks](Saintsworn_Obelisks.md) and their respective heroes.
 
 ## Starting Abilities
 

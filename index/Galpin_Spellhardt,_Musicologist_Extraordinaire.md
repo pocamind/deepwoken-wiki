@@ -1,6 +1,6 @@
 ---
 title: "Galpin Spellhardt, Musicologist Extraordinaire"
-revid: 203066
+revid: 206409
 source: https://deepwoken.fandom.com/wiki/Galpin_Spellhardt%2C_Musicologist_Extraordinaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
@@ -19,7 +19,7 @@ categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide
 
 ## Description
 
-Galpin is a male [Lightborn](Lightborn.md) located in [The Floating Keep](The_Floating_Keep.md), on a walkway on the right side of the castle. He is visibly aged, with wrinkles akin to humans who are 70 years old, due to mourning the loss of his homeland. He is also wearing the [Icebringer's Vestments](<Icebringer's_Vestments.md>) outfit.
+Galpin is a male [Lightborn](Lightborn.md) located in [The Floating Keep](The_Floating_Keep.md), on a walkway on the right side of the castle. He is visibly [aged](Age.md), with wrinkles akin to humans who are 70 years old, due to mourning the loss of his homeland. He is also wearing the [Icebringer's Vestments](<Icebringer's_Vestments.md>) outfit.
 
 Once you have enough [Joy](Joy.md), you can exchange it with him for exclusive 2024 [Hallowtide](Hallowtide.md) rewards related to [instruments](Instruments.md) and [music](Books.md). You can obtain the Spectral Instrument Set from him for 200 Joy, alongside some books and music sheets.
 

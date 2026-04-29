@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 205252
+revid: 206397
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, OutdatedPages, Guilds, Locations]
@@ -270,6 +270,7 @@ Bandits raiding a Guild Base.
     -   However, if you travel to another server (such as going to the [Eastern Luminant](Luminants.md) or [The Depths](The_Depths.md) from the [Etrean Luminant](Luminants.md), every carriable item inside the guild base will despawn unless there is another guildmate in the server who has the guild base active.
 -   The Thundercall Talent "Grand Skewer" is disabled while inside, as it can fling people out of the base.
     -   Ironically, the functionally identical Ironsing Mantra "Rocket Lance" is not disabled.
+    -   (For those who are dense and don't get the joke, its **Iron**ic that the **Ironsing** mantra isn't disabled. unless this was an unintended pun.)
 -   Although enemies aren't supposed to spawn inside the guild base, [Bandits](Bandit.md) can still spawn inside, and you can still fish up enemies such as [Mudskippers](Mudskipper.md) or [Lionfish](Lionfish.md) from the Fish Pond.
 -   Guild Bases can provide use climbing walls, as they act as a small ledge.
 -   Putting mobs or [Navaen Hostages](Navaen_Hostage.md) near the entrance of the Guild Base will not allow anyone to enter, useful for preventing assassinations or Voidwalkers.

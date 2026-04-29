@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 205184
+revid: 206412
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -32,12 +32,15 @@ Pressing C will activate the **Dimensional Travel** Resonance.
 
 When activated, the user is transported into an alternate dimension known as [The Interstice](The_Interstice.md) and will briefly leave a lingering portal to allow other players to enter. The resonance cannot be activated if the user is in combat, unless the **Use in Combat** Resonance stat is invested into. Each step taken inside The Interstice will translate to a varying number of steps taken outside of The Interstice, depending on your resonance point allocation.
 
+While in [The Interstice](The_Interstice.md) the user gains a small buff to their defense and damage
+
 Dimensional Travel cannot be used in: [Etris Palace](Etris_Palace.md), [Voidheart](Voidheart.md), [Guild Bases](Guild_Bases.md), the [Depths trial](Cathedral_of_the_Interstice.md), or instanced dungeons (such as the [Second Layer](Second_Layer.md) or [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>))
 
 The function activating the Resonance has been dependent on what state of 'using the resonance' you're in:
 
--   If activated whilst in the overworld, the user will be transported into [The Interstice](The_Interstice.md) and leave a portal behind for others to enter, the portal only lasting only a few seconds.
+-   If activated whilst in the overworld, the user will be transported into [The Interstice](The_Interstice.md) and leave a portal behind for others to enter, the portal only lasting 10 seconds.
     -   If any players inside [The Interstice](The_Interstice.md) jump into the void through the cracks in the floor or get downed, they will be teleported to the equivalent overworld position.
+    -   The player gains hyperarmor during the wind-up, meaning the bell is uncancellable
 -   If activated whilst in [The Interstice](The_Interstice.md), the user's camera will move to the location they're at in the overworld, giving them a visual indicator of where they are. Since it tries to cast a ray from the sky to the ground, it can be obstructed by trees or invisible barriers, or obscure vision by penetrating underwater.
     -   After ~10 seconds automatically or moving the character, the user's camera moves back to their character and ends the 'visual indicator' state.
 -   If activated whilst the visual indicator is active, the user creates a portal in [The Interstice](The_Interstice.md) leading to the location from the visual indicator, effectively completing the usage cycle.
@@ -48,6 +51,7 @@ When obtained, Dimensional Travel will spend its Resonance points on the followi
 
 -   **Use in Combat:** If this stat is invested into, the user can use the Resonance while in combat. Deducts a sizeable amount of Resonance points.
     -   While using this in combat, the Resonance will go into a lengthy wind up. During the wind up, the user is still able to perform basic actions before being teleported into The Interstice.
+    -   Even while on combat, the user gains hyperarmor, however they will be unable to defend themselves during the wind up.
 -   **Capacity:** The more points that are invested into this stat, the higher the number of players that can enter the realm before the portal automatically closes.
 -   **Travel Speed:** The more points are invested into this stat, the faster that players will travel through [The Interstice](The_Interstice.md).
     -   The math behind it is complicated, but at its simplest form, the multiplier to your distance travelled is in 0.333 increments, being a minimum of 1.333x and a maximum of 6.666x.
@@ -61,6 +65,7 @@ If Dimensional Travel is Drowned, in addition to the extra Resonance points to s
 
 -   Upon successful exiting The Interstice, you will be unable to interact with chests for 30 seconds.
 -   If used while in combat, Dimensional Travel will have a significantly longer windup.
+    -   The user will also find themselves unable to utilize any combat mechanics, rendering them defenseless to attacks
 -   Like [Portals](Portals.md), Dimensional Travel can be very useful in ambushing/ganking other players. It is even harder to detect than Portals.
 -   Despite looking like a better than average area for combat, it is _**incredibly dangerous**_ to fight in [The Interstice](The_Interstice.md) while in the [First Layer](First_Layer.md), as being forcefully teleported out of the realm by falling into an opening or being downed and being above the void can result in an instant wipe.
 -   You cannot take players that are knocked into [The Interstice](The_Interstice.md).
