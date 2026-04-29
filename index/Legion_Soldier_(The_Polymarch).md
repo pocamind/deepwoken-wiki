@@ -1,6 +1,6 @@
 ---
 title: Legion Soldier (The Polymarch)
-revid: 196365
+revid: 206387
 source: https://deepwoken.fandom.com/wiki/Legion_Soldier_(The_Polymarch)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Articles with conjectural titles, Enemies]

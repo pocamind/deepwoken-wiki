@@ -1,6 +1,6 @@
 ---
 title: Golem Prime
-revid: 199853
+revid: 206381
 source: https://deepwoken.fandom.com/wiki/Golem_Prime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters]
@@ -22,7 +22,7 @@ Variants: [Golem](Rock_Golem.md)
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-**Also known as Duke Golems or Prime Golems.**
+_Also known as Duke Golems or Prime Golems._
 
 ## Description
 
@@ -156,4 +156,3 @@ Dodge
 ## Trivia
 
 -   Golem Primes are special, more powerful versions of the Rock Golems, that serve the purpose of very high security over Duke's Labatory.
--   Golem Primes were originally normal Rock Golems, but Duke Erisia added special modifications and strength to these golems, before giving them the name of 'Golem Primes'.

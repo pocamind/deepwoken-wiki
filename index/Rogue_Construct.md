@@ -1,6 +1,6 @@
 ---
 title: Rogue Construct
-revid: 205539
+revid: 206364
 source: https://deepwoken.fandom.com/wiki/Rogue_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -10,7 +10,7 @@ categories: [Monsters]
 
 | Rogue Construct | |
 |---|---|
-| health | 3,300, 8,250 (Corrupted) |
+| health | 3300, 8250 (Corrupted) |
 | drops | Tier 2 Mantra Modifiers, Inquisitor's Greatsword, Hivelord's Hubris, Ysley's Pyre Keeper (In chest), Curse of Ysley's Ember Enchant Stone |
 | locations | Minityrsa, The Diluvian Mechanism |
 
@@ -20,7 +20,7 @@ Variants: [Hive Construct](Hive_Construct.md)
 
 ## Description
 
-It has a purple-ish wood-like appearance, with blue-ish foliage around its legs, resembling wires. It also sports a Hive logo made of wood on its torso. It is powered by the Lifeweaving technology of the Hive but is rogue due to a [Ministry](The_Ministry.md) virus.
+It has a purple-ish wood-like appearance, with blue-ish foliage around its legs, resembling wires. It also sports a Hive logo made of wood on its torso. It is powered by the Lifeweaving technology of the Hive but has gone rogue for unknown reasons.
 
 The rogue mech can only spawn on [Minityrsa](Minityrsa.md) on the ice lake next to the [Valley of Heroes](The_Valley_of_Heroes.md). It deals high damage, enough to eradicate a good chunk of most player's health in one hit. It cannot climb, but does walk very fast, so if you're unlucky enough to encounter it, it is recommended to run away.
 

@@ -1,6 +1,6 @@
 ---
 title: Marcus
-revid: 195975
+revid: 206389
 source: https://deepwoken.fandom.com/wiki/Marcus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -80,4 +80,4 @@ This dialogue is unlocked if the player has defeated [Duke Ishamon Erisia](Duke_
 
 ## Trivia
 
--   Prior to the July 14th, 2025 update, Marcus was the only [Stonespark](Stonespark.md) in the entire game. Being created before [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) had to step up his security.
+-   Prior to the July 14th, 2025 update, Marcus was the only [Stonespark](Stonespark.md) in the entire game, created before [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) decided to step up his security.

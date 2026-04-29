@@ -1,6 +1,6 @@
 ---
 title: Tomb of the Nameless Warrior
-revid: 193300
+revid: 206357
 source: https://deepwoken.fandom.com/wiki/Tomb_of_the_Nameless_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant]
@@ -34,4 +34,3 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 ## Trivia
 
 -   Most likely a reference to the "Tomb of the Unknown Soldier" in Washington D.C.
--   If the player has no mantras that could break walls, the breakable wall can be glitched into by dashing and jumping at the same time (tested), albeit difficult.

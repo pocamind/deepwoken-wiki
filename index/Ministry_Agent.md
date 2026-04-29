@@ -1,6 +1,6 @@
 ---
 title: Ministry Agent
-revid: 200216
+revid: 206358
 source: https://deepwoken.fandom.com/wiki/Ministry_Agent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, Individuals with They/them pronouns, NPCs, Enemies, Ministry Enemies]
@@ -71,9 +71,8 @@ If you have Ally reputation or higher with [The Ministry](The_Ministry.md), they
 
 ## Dialogues when you grip
 
-Curse you!
-
-You slugs!
+-   Curse you!
+-   You slugs!
 
 ## Moves
 
