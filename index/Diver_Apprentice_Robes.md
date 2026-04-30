@@ -1,6 +1,6 @@
 ---
 title: Diver Apprentice Robes
-revid: 206058
+revid: 206707
 source: https://deepwoken.fandom.com/wiki/Diver_Apprentice_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits, The Divers]
@@ -18,9 +18,9 @@ categories: [Outfits, Adept Outfits, The Divers]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1000 |
-| resistances | +10% Physical Armor, +15% Elemental Armor |
+| resistances | +10% Physical Armor , +15% Elemental Armor |
 | buffs | +20% Ether Regen |
-| obtainment | Deepbound Origin, Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 Chests from:, Erisia/General Sea Event Loot, Fishing, First Layer, LodestarVow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
+| obtainment | Deepbound Origin (automatically crafted), Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 Chests from:, Erisia/General Sea Event Loot, Fishing, First Layer, LodestarVow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
 | weight | 1 |
 
@@ -38,7 +38,7 @@ Alternatively, using the [Deepbound](Deepbound.md) Origin will grant it for free
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability, grants +10% Physical resistance, +15% Elemental resistance, and +20% Ether Regen.
+This Outfit has 1000 durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, +15% Elemental resistance [ResistanceElemental](Attunements.md), and +20% Ether Regen [IconEther](Ether.md).
 
 ## Trivia
 

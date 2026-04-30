@@ -1,6 +1,6 @@
 ---
 title: "Duelist's Attire"
-revid: 195165
+revid: 206708
 source: https://deepwoken.fandom.com/wiki/Duelist's_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits]
@@ -17,7 +17,7 @@ categories: [Outfits, Adept Outfits]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1200 |
-| resistances | +20% Physical Armor, +10% Slash Armor |
+| resistances | +20% Physical Armor , +10% Slash Armor |
 | obtainment | Sold by Nyanna, Lower Erisia, Sea EventsVow of Iron:, Spear Dancer Memento (automatically crafted) |
 | selling_price | 10 |
 | weight | 1 |
@@ -35,9 +35,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 5 
 
 ### _Armor Stats_
 
-This Outfit has 1200 durability, grants +20% Physical resistance, and +10% Slash resistance.
+This Outfit has 1200 durability, grants +20% Physical resistance ResistanceBlunt ResistanceSlash, and +10% Slash resistance ResistanceSlash.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28% Slash and 20% Blunt.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28% Slash ResistanceSlash and 20% Blunt ResistanceBlunt.
 
 ## Trivia
 

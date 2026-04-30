@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 206341
+revid: 206660
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -110,11 +110,11 @@ _Summon a legion of flaming spearmen that lunge inwards._
  |
 | 
 
-30 Ether
+30 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -151,11 +151,11 @@ _Slicing blades of flame._
  |
 | 
 
-45 Ether
+45 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -194,11 +194,11 @@ _A bullet of flames shot through each hand._
  |
 | 
 
-10 Ether per shot
+10 Ether [IconEther](Ether.md) (per shot)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -240,11 +240,11 @@ _Jet forwards with flames and slam anyone you catch in your clutches._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -282,11 +282,11 @@ _Charge up an exertion of flames that knocks opponents backwards. If you take da
  |
 | 
 
-30 Ether
+30 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -326,11 +326,11 @@ _A pyroclastic eruption._
  |
 | 
 
-45 Ether
+45 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -369,11 +369,11 @@ _Toss a nimble dagger._
  |
 | 
 
-55 Ether
+55 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -412,11 +412,11 @@ _Conjure a cone of flames in front of you. Pressing F during windup will release
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -453,11 +453,11 @@ _Place a fiery snare at a chosen location. Enemies that stumble into it are scor
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -494,11 +494,11 @@ _Conjure a turret of flames._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -536,11 +536,11 @@ _Conjure up to 3 fireballs to volley at your enemies._
  |
 | 
 
-50 Ether per fireball
+50 Ether [IconEther](Ether.md) (per fireball)
 
  | 
 
-Fire + Blunt
+Fire [ResistanceFlamecharm](Flamecharm.md) + Blunt ResistanceBlunt
 
  | 
 
@@ -575,11 +575,11 @@ _Bear down on your foes with repeated fiery slashes._
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -621,11 +621,11 @@ _A rising tornado of flames._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -662,11 +662,11 @@ _Strike the ground, turning it to ash._
  |
 | 
 
-35 Ether
+35 Ether [IconEther](Ether.md)
 
  | 
 
-Fire + Blunt
+Fire [ResistanceFlamecharm](Flamecharm.md) + Blunt ResistanceBlunt
 
  | 
 
@@ -703,11 +703,11 @@ _Conjure a flaming arrow and fire it at your target._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -749,11 +749,11 @@ _Lash out with flames._
  |
 | 
 
-70 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -824,11 +824,11 @@ _Dash forward in a spiral of flames._
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -866,11 +866,11 @@ _Leap up leaving behind a burst of flames._
  |
 | 
 
-85 Ether
+85 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -946,7 +946,7 @@ _Shoot a projectile that explodes after a short delay and blinds those looking a
  |
 | 
 
-20 Ether
+20 Ether [IconEther](Ether.md)
 
  | 
 
@@ -985,7 +985,7 @@ _Undying flame._
  |
 | 
 
-80 Ether
+80 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1028,7 +1028,7 @@ _Conjure an undying flame for the caster and their comrades to rest by._
  |
 | 
 
-80 Ether
+80 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1071,7 +1071,7 @@ _A servant of flames._
  |
 | 
 
-70 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Cutthroat Light Armor
-revid: 176977
+revid: 206706
 source: https://deepwoken.fandom.com/wiki/Cutthroat_Light_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits]
@@ -18,7 +18,7 @@ categories: [Outfits, Adept Outfits]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1000 |
-| resistances | +10% Physical Armor, +10% Slash Armor |
+| resistances | +10% Physical Armor , +10% Slash Armor |
 | talents | Hunter's Reflexes |
 | obtainment | Outside the Mantra shop on Isle of Vigils, Lower Erisia, Erisia/General Sea Event Loot |
 | selling_price | 10 |
@@ -36,8 +36,8 @@ This Outfit additionally requires the player to be [Power](Power.md) 5 to be cra
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability, grants +10% Physical resistance, and +10% Slash resistance. Additionally, it provides the [Hunter's Reflexes](Talents.md#hunters-reflexes) Talent.
+This Outfit has 1000 durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, and +10% Slash resistance ResistanceSlash. Additionally, it provides the [Hunter's Reflexes](Talents.md#hunters-reflexes) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 19% Slash and 10% Blunt.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 19% Slash ResistanceSlash and 10% Blunt ResistanceBlunt.
 
 The [Hunter's Reflexes](Talents.md#hunters-reflexes) Talent grants the wearer a slightly larger dodge window (increased by 0.05s).

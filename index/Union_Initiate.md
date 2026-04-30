@@ -1,6 +1,6 @@
 ---
 title: Union Initiate
-revid: 202637
+revid: 206702
 source: https://deepwoken.fandom.com/wiki/Union_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits, The Ignition Union]
@@ -15,7 +15,7 @@ categories: [Outfits, Starter Outfits, The Ignition Union]
 | bankable | No |
 | droppable | No |
 | durability | 1500 |
-| resistances | +15% Physical Armor, +5% Elemental Armor |
+| resistances | +15% Physical Armor , +5% Elemental Armor |
 | buffs | +10 Carry Load |
 | obtainment | Ignition Delver Origin |
 | selling_price | N/A |
@@ -33,7 +33,9 @@ This Outfit has no [Attribute](Attributes.md) requirement, but has a [Power](Pow
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability, grants 15% Physical Armor, 5% Elemental Armor, and 10 [Carry Load](Carry_Load.md). The additional Carry Load allows [Ignition Delver](Ignition_Delver.md) players to carry a little more when in the [Saramaed Hollow](Saramaed_Hollow.md) Dungeon.
+This Outfit has 1500 durability, grants 15% Physical resistance ResistanceBlunt ResistanceSlash, 5% Elemental resistance [ResistanceElemental](Attunements.md), and 10 [Carry Load](Carry_Load.md) [IconCarryLoad](Carry_Load.md).
+
+The additional Carry Load allows [Ignition Delver](Ignition_Delver.md) players to carry a little more when in the [Saramaed Hollow](Saramaed_Hollow.md) Dungeon.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Carefree Garments
-revid: 194732
+revid: 206705
 source: https://deepwoken.fandom.com/wiki/Carefree_Garments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits]
@@ -16,7 +16,7 @@ categories: [Outfits, Adept Outfits]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 2000 |
-| resistances | +10% Physical Armor, +15% Elemental Armor |
+| resistances | +10% Physical Armor , +15% Elemental Armor |
 | talents | Fleetfoot |
 | obtainment | Diluvian Mechanism, Layer 1 chests, Carnival of Hearts, Lodestar, Erisia/General Sea Event Loot, Sold in Traan Zakshun's regular shop for 80 Vow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
@@ -35,7 +35,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 6 
 
 ### _Armor Stats_
 
-This Outfit has 2000 durability, grants +10% Physical Armor, and +15% Elemental Armor. Additionally, it provides the [Fleetfoot](Talents.md#fleetfoot) Talent.
+This Outfit has 2000 durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, and +15% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Fleetfoot](Talents.md#fleetfoot) Talent.
 
 The [Fleetfoot](Talents.md#fleetfoot) Talent grants the user a speed boost after slide jumping.
 

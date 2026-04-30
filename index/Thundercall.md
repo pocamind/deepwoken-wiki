@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 205021
+revid: 206666
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -110,11 +110,11 @@ _An electrified chokehold._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Lightning
+Lightning [ResistanceThundercall](Thundercall.md)
 
  | 
 
@@ -153,11 +153,11 @@ _Fire a beam of lightning._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Lightning
+Lightning [ResistanceThundercall](Thundercall.md)
 
  | 
 
@@ -172,7 +172,7 @@ Lightning
 -   Deals 7/8.5/10/11.5/13 posture damage per level.
 -   10 second cooldown.
 -   Can break objects.
--   Can grant an optional effect with the "**Shocking Finish**" Talent, in which Lightning Beam is instantly castable after flourishing an enemy, pretty much guaranteeing a hit after flourish.
+-   Can grant an optional effect with the [Shocking Finish](Talents.md#shocking-finish) Talent, in which Lightning Beam is instantly castable after flourishing an enemy, pretty much guaranteeing a hit after flourish.
 -   Shares a cooldown with [Ice Beam](Frostdraw.md#ice-beam).
 
  |
@@ -192,11 +192,11 @@ _Arcing blades of electricity._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Lightning + Slash
+Lightning [ResistanceThundercall](Thundercall.md)
 
  | 
 
@@ -236,11 +236,11 @@ _Produce a highly potent field of electromagnetism, shocking all inside._
  |
 | 
 
-10 Ether
+10 Ether [IconEther](Ether.md)
 
  | 
 
-Lightning + Slash
+Lightning [ResistanceThundercall](Thundercall.md)
 
  | 
 
@@ -281,11 +281,11 @@ _Call forth motes of electricity that seek out your foes._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Lightning + Slash
+Lightning [ResistanceThundercall](Thundercall.md)
 
  | 
 
@@ -321,11 +321,11 @@ _Replicated forms of yourself conjured from electricity._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Lightning
+Lightning [ResistanceThundercall](Thundercall.md)
 
  | 
 
@@ -340,10 +340,10 @@ Lightning
 -   Blast Spark will make your clone deal an additional 12/15/18/21/24 base damage per level in an AoE upon hitting a target.
 -   15 second cooldown.
 -   If summoned while there are no nearby target(s), it will attack the first enemy to deal damage the user or the first target the user deals damage to.
--   Can grant a different effect with the "**Static Flash Clone**" Talent, which causes the mantra to summon a clone briefly as an afterimage before disappearing, granting the user a small speed boost and making them invisible for a short period of time before resurfacing from invisibility.
-    -   When used with the **Blast Spark** mantra variant, the clone conjures a **Lightning Strike** when it disappears.
+-   Can grant a different effect with the [Static Flash Clone](Talents.md#static-flash-clone) Talent, which causes the mantra to summon a clone briefly as an afterimage before disappearing, granting the user a small speed boost and making them invisible for a short period of time before resurfacing from invisibility.
+    -   When used with the [Blast Spark](Mantra_Modifiers.md#sparks) mantra variant, the clone conjures a **Lightning Strike** when it disappears.
 -   Only 6 clones can exist at a time.
--   Modifying the mantra with **Aeon/Eternal Logstones** _increases the health_ and amount of time the clones are active. Note that while their health is increased they still die after dealing 1 hit.
+-   Modifying the mantra with [Aeon](Mantra_Modifiers.md#regular-modifiers)/[Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) _increases the health_ and amount of time the clones are active. Note that while their health is increased they still die after dealing 1 hit.
     -   The health modifications do not affect the second clone if a Multiplying Spark is used.
     -   With 3 Aeon & Eternal Longstones the clones will last for 80 seconds.
     -   The health modifiers are disabled if more than 2 clones are spawned.
@@ -367,11 +367,11 @@ _Slam those under you with a lightning empowered kick._
  |
 | 
 
-80 Ether
+80 Ether [IconEther](Ether.md)
 
  | 
 
-Lightning
+Lightning [ResistanceThundercall](Thundercall.md)
 
  | 
 
@@ -389,8 +389,8 @@ Lightning
 -   12 second cooldown.
 -   Can destroy surfaces and light flammable terrain such as patches of grass on fire.
 -   Applies Knockdown.
--   Can grant a different effect with the "**Rain of Static**" Talent, which makes the user rain down orbs of lightning from the air before slamming down.
--   Can proc _Meteor Impact_
+-   Can grant a different effect with the [Rain of Static](Talents.md#rain-of-static) Talent, which makes the user rain down orbs of lightning from the air before slamming down.
+-   Can proc [Meteor Impact](Talents.md#meteor-impact)
 
  |
 | 
@@ -409,11 +409,11 @@ _A strike of thunder at your desired location._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Lightning
+Lightning [ResistanceThundercall](Thundercall.md)
 
  | 
 
@@ -430,9 +430,9 @@ Lightning
 -   The first hit applies knockdown.
 -   Can be cancelled at any point by clicking.
     -   This includes being hit by the user's own Lightning Strike. (they removed the self damage in a shadow patch)
--   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectiles.
--   Can be modified with **Aeon/Eternal Logstones** to increase the number of strikes. Duration modifiers also reduce the amount of damage per strike.
--   Can be modified with **Crystal/Perfect Lenses** to increase max distance of strikes.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the hitbox of the projectiles.
+-   Can be modified with [Aeon](Mantra_Modifiers.md#regular-modifiers)/[Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to increase the number of strikes. Duration modifiers also reduce the amount of damage per strike.
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase max distance of strikes.
 
  |
 | 
@@ -451,11 +451,11 @@ _An unrelenting kick like a clap of thunder._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Lightning
+Lightning [ResistanceThundercall](Thundercall.md)
 
  | 
 
@@ -495,11 +495,11 @@ _An arrow of lightning._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Lightning
+Lightning [ResistanceThundercall](Thundercall.md)
 
  | 
 
@@ -514,8 +514,8 @@ Lightning
 -   Deals 3 posture per hit.
 -   5 minute cooldown.
 -   Currently bugged and only strikes once.
--   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectiles.
--   Can be modified with **Crystal/Perfect Lenses** to increase the range of where the projectiles can be fired.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the hitbox of the projectiles.
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the range of where the projectiles can be fired.
 
  |
 | 
@@ -534,11 +534,11 @@ _A javelin made out of lightning._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Lightning
+Lightning [ResistanceThundercall](Thundercall.md)
 
  | 
 
@@ -554,7 +554,7 @@ Lightning
 -   Has a cooldown of 15 seconds.
 -   Has 0.5 seconds of endlag.
 -   Ragdolls and flings target(s).
--   Can be given an effect with the "**Grand Skewer**" Talent; which carries the target(s) hit along with projectile if the user presses the block while casting.
+-   Can be given an effect with the [Grand Skewer](Talents.md#grand-skewer) Talent; which carries the target(s) hit along with projectile if the user presses the block while casting.
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to throw 3 smaller javelins that travel forward and adjacent respectively. This equally splits the damage and posture damage for each javelin into thirds.
 -   The **base damage** of this Mantra is increased by 15% if you are wearing the full Specialist Set. Additionally, it will become a green color.
 
@@ -575,11 +575,11 @@ _Conjure weapons of thunder with your ether._
  |
 | 
 
-45 Ether
+45 Ether [IconEther](Ether.md)
 
  | 
 
-Lightning
+Lightning [ResistanceThundercall](Thundercall.md)
 
  | 
 
@@ -594,7 +594,7 @@ Lightning
 -   Deals 0 posture damage.
 -   Has a cooldown of 12 seconds.
 -   Has a short delay before dealing damage.
--   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectile, but reducing the Mantra's damage.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the hitbox of the projectile, but reducing the Mantra's damage.
 -   Can be modified with a [Tornado Spark](Mantra_Modifiers.md#sparks) to cause the mantra to deploy ring of lightning; shocking and dealing damage to target(s) that touch its walls.
     -   **This increases its cooldown from 12 seconds to 20 seconds.**
     -   Good for isolating a target for a 1v1 situation.
@@ -616,11 +616,11 @@ _Conjure up surging waves of lightning that travel along the ground._
  |
 | 
 
-70 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 
-Lightning
+Lightning [ResistanceThundercall](Thundercall.md)
 
  | 
 
@@ -635,8 +635,8 @@ Lightning
 -   The lightning strikes have a base damage of 15/17/19/21/23 per level, per hit with 2.75 Thundercall scaling.
 -   Deals 13.5 posture damage on the initial hit + 10 posture damage per lightning strike.
 -   30 second cooldown.
--   Can be modified with _Cloudstones/Stratus Stones_ to increase the size of the hitbox.
--   Can be modified with _Crystal/Perfect Lenses_ to increase the range of the lightning strikes.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the size of the hitbox.
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the range of the lightning strikes.
 
  |
 | 
@@ -655,11 +655,11 @@ _Rise up with your opponent and crash down as a bolt of lightning._
  |
 | 
 
-70 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 
-Lightning
+Lightning [ResistanceThundercall](Thundercall.md)
 
  | 
 
@@ -727,11 +727,11 @@ _A rush of lightning._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Lightning + Slash
+Lightning [ResistanceThundercall](Thundercall.md)
 
  | 
 
@@ -748,7 +748,7 @@ Lightning + Slash
 -   Has an unusually inconsistent hitbox, sometimes not hitting those in its path.
 -   Guaranteed to hit at least one target if you have your crosshair locked onto them.
 -   Its distance is reduced by 60% when used in water.
--   Can be modified with **Cloudstones/Stratus Stones** to make it go further, **capping at 3 Stratus Stones.**
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to make it go further, **capping at 3 Stratus Stones**.
 -   Note that this mantra can cause the user to clip through walls, sending you into unwanted places, and even leading to your death if not careful.
 
  |
@@ -768,7 +768,7 @@ _A cloak of lightning itself._
  |
 | 
 
-20 Ether
+20 Ether [IconEther](Ether.md)
 
  | 
 
@@ -786,8 +786,8 @@ N/A
 -   Has a base duration of 8/8.5/9/9.5/10 seconds per level.
 -   To increase the duration, you must parry, get parried, block, or attack, refreshing the duration entirely.
     -   Lightning cloak has a maximum duration of 60 seconds.
--   Increases your swing speed by 2% for its full duration. This is applied after [Vigil's Grace](Vigil_Sentinel.md) and [Action Surge](Talents.md#vigil-swordsman), allowing you to reach very high swingspeed on certain weapons.
--   Grants a 35% speed boost for its full duration, proccing speed boost-reliant Talents (such as "**Speed Demon**").
+-   Increases your swing speed by 2% for its full duration. This is applied after [Vigil's Grace](Vigil_Sentinel.md) and \[\[Talents#|\]\], allowing you to reach much higher swingspeed than normal.
+-   Grants a 35% speed boost for its full duration, proccing speed boost-reliant Talents (such as "[Speed Demon](Talents.md#speed-demon)").
 -   Turns all dashes into lightning dashes for its full duration, increasing their distance travelled and i-frames duration.
 -   If you have no Tempo, the duration as well as the refreshing duration will be halved, applied retroactively.
 -   If the caster's Ether goes to 0, Lightning Cloak will immediately end.
@@ -844,11 +844,11 @@ _A stream of lightning._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Lightning
+Lightning [ResistanceThundercall](Thundercall.md)
 
  | 
 
@@ -864,7 +864,7 @@ Lightning
 -   Deals 4 posture damage.
 -   Has a wind-up of 0.4 seconds.
 -   Has a cooldown of 14 seconds.
--   Can be modified with **Crystal/Perfect Lenses** to increase the range of the projectile traveled.
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the range of the projectile traveled.
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks) to pull **yourself** to your opponent.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks) to stun and damage the target instead of pulling them towards the user.
 
@@ -885,7 +885,7 @@ _A servant of lightning._
  |
 | 
 
-70 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 
@@ -903,7 +903,7 @@ N/A
 -   **Sapping** increases the target's mantra cooldown.
 -   \[\] Second Cooldown.
 -   When Sapping ends, the target is shocked. If you have surge path, it will apply a Surge stack.
--   Can be modified with **Aeon/Eternal Logstones** to increase its uses.
+-   Can be modified with [Aeon](Mantra_Modifiers.md#regular-modifiers)/[Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to increase its uses.
 
  |
 | 
@@ -922,7 +922,7 @@ _Swap places with a selected target._
  |
 | 
 
-20 Ether
+20 Ether [IconEther](Ether.md)
 
  | 
 
@@ -943,8 +943,8 @@ N/A
 -   Estimated 300 - 350 Stud range.
 -   Cannot be used while in water or airborne.
 -   30 Second Cooldown.
--   Can be used for escaping situations or for trolling, as shown in this video: "[https://www.youtube.com/watch?v=8L1xWJYGbDk](https://www.youtube.com/watch?v=8L1xWJYGbDk)"
--   Can be modified with **Cloudstones/Stratus Stones** to (Work in Progress).
+-   Can be used for escaping situations or for trolling.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase its range.
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to speed up the casting and shorten the cooldown but greatly reduce the range. This allows you to use the mantra in Chime.
 
  |

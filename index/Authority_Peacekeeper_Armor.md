@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper Armor
-revid: 190409
+revid: 206698
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits, Outfits of The Central Authority]
@@ -18,7 +18,7 @@ categories: [Outfits, Adept Outfits, Outfits of The Central Authority]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1600 |
-| resistances | +15% Physical Armor, +10% Elemental Armor, +10% Slash Armor , +15% Fire Armor |
+| resistances | +15% Physical Armor , +10% Slash Armor , +10% Elemental Armor , +15% Fire Armor |
 | talents | Lowstride |
 | obtainment | Authority Ensign Origin (automatically crafted), Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 Chests From:, The Depths, Primadon, Lodestar, Erisia/General Sea Event LootVow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
@@ -38,9 +38,9 @@ Alternatively, using the [Authority Ensign](Authority_Ensign.md) Origin will gra
 
 ### _Armor Stats_
 
-This Outfit has 1600 durability, grants +15% Physical resistance, +10% Elemental resistance, +10% Slash resistance, and +15% Fire resistance. Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
+This Outfit has 1600 durability, grants +15% Physical resistance ResistanceBlunt ResistanceSlash, +10% Slash resistance ResistanceSlash, +10% Elemental resistance [ResistanceElemental](Attunements.md), and +15% Fire resistance [ResistanceFlamecharm](Flamecharm.md). Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 23.5% Slash, 15% Blunt, 23.5% Flamecharm, and 10% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 23.5% Slash ResistanceSlash, 15% Blunt ResistanceBlunt, 23.5% Flamecharm [ResistanceFlamecharm](Flamecharm.md), and 10% Elemental [ResistanceElemental](Attunements.md).
 
 The [Lowstride](Talents.md#lowstride) Talent increases your [Stealth](Stealth.md) and movement speed while crouching. Additionally, this removes the sound that sheathing and unsheathing your weapon makes.
 

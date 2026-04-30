@@ -1,6 +1,6 @@
 ---
 title: Vigil Initiate
-revid: 194666
+revid: 206721
 source: https://deepwoken.fandom.com/wiki/Vigil_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits, Etrea]
@@ -17,7 +17,7 @@ categories: [Outfits, Adept Outfits, Etrea]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1200 |
-| resistances | +20% Physical Armor, +10% Blunt Armor |
+| resistances | +20% Physical Armor , +10% Blunt Armor |
 | talents | Paired Soul |
 | obtainment | Isle of Vigils inside the Mantra shop, Erisia/General Sea Event LootVow of Iron:, Near the Temple of the Blade Blacksmith |
 | selling_price | 10 |
@@ -36,9 +36,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 5 
 
 ### _Armor Stats_
 
-This Outfit has 1200 durability, grants +20% Physical resistance, and +10% Blunt resistance. Additionally, it provides the [Paired Soul](Talents.md#paired-soul) Talent.
+This Outfit has 1200 durability, grants +20% Physical resistance ResistanceBlunt ResistanceSlash, and +10% Blunt resistance ResistanceBlunt. Additionally, it provides the [Paired Soul](Talents.md#paired-soul) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28% Blunt and 20% Slash.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28% Blunt ResistanceBlunt and 20% Slash ResistanceSlash.
 
 The [Paired Soul](Talents.md#paired-soul) Talent increases the damage of the base [Katana](Katana.md) by 25%. This also increases the damage of the [Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md), and [Purple Cloud](Purple_Cloud.md) by 5%.
 

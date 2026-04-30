@@ -1,6 +1,6 @@
 ---
 title: Cerulean Gown
-revid: 199226
+revid: 206723
 source: https://deepwoken.fandom.com/wiki/Cerulean_Gown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits]
@@ -18,7 +18,7 @@ categories: [Outfits, Expert Outfits]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1500 |
-| resistances | +20% Physical Armor, +25% Elemental Armor |
+| resistances | +20% Physical Armor , +25% Elemental Armor |
 | obtainment | Chests from:, Moon's Eyrie, First Layer, The Doom of Caeranthil, Interluminary Parasol, Carnival of Hearts, Moon's Eyrie, The Understrand, Sea Events, Sold by Traan Zakshun for 200 |
 | selling_price | 10 |
 | weight | 1 |
@@ -35,4 +35,4 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 8 
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability and grants +20% Physical resistance, +25% Elemental resistance.
+This Outfit has 1500 durability and grants +20% Physical resistance ResistanceBlunt ResistanceSlash, +25% Elemental resistance [ResistanceElemental](Attunements.md).

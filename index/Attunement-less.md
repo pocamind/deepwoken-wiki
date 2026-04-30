@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 206124
+revid: 206653
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -113,7 +113,7 @@ _Show your foes your strength._
 
  | 
 
-Blunt
+Blunt ResistanceBlunt
 
  | 
 
@@ -154,7 +154,7 @@ _Unleash a barrage of blows against your foes._
 
  | 
 
-Blunt
+Blunt ResistanceBlunt
 
  | 
 
@@ -199,7 +199,7 @@ _Toss the ground infront of you._
 
  | 
 
-Blunt
+Blunt ResistanceBlunt
 
  | 
 
@@ -238,7 +238,7 @@ _Unleash two devastating kicks with your brute strength._
 
  | 
 
-Blunt
+Blunt ResistanceBlunt
 
  | 
 
@@ -322,7 +322,7 @@ _Disguise yourself in tacet and drop kick your enemies._
 
  | 
 
-Blunt
+Blunt ResistanceBlunt
 
  | 
 
@@ -363,7 +363,7 @@ _Grab and throw your enemies._
 
  | 
 
-Blunt
+Blunt ResistanceBlunt
 
  | 
 
@@ -439,7 +439,7 @@ _Rush at your enemies with your full physical force._
 
  | 
 
-Blunt
+Blunt ResistanceBlunt
 
  | 
 
@@ -644,7 +644,7 @@ _A vengeful rush. Deals additional damage the lower your health is below 50%._
 
  | 
 
-Slash + [Bleed](Status_Effects.md#bleed)
+Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -663,9 +663,9 @@ Slash + [Bleed](Status_Effects.md#bleed)
 -   This Mantra has innate [Bleed](Status_Effects.md#bleed), meaning that it will deal an additional 15% of its base damage that doesn't get affected by damage modifiers. Because Bleed bypasses _armor_ resistances, this is very useful.
 -   The damage of the move scales with how much HP the user has left BELOW 50%, dealing more damage with less HP. The Bleed's damage does not scale.
     -   This bonus damage scales up to 4 times damage at 5% health, but Revenge's health scaling will cap at Revenge dealing 50 damage regardless of level/Agility investment.
--   Can be upgraded with the **Pursuit** Talent, allowing it to be used twice in a row if the first use hits. 25 second cooldown.
+-   Can be upgraded with the [Pursuit](Talents.md#pursuit) Talent, allowing it to be used twice in a row if the first use hits. 25 second cooldown.
     -   Pursuit procs even when the Mantra is parried, blocked, dodged, or even vented, but this may be a bug.
--   Can be upgraded with the **Crippling Comeuppance** Talent, which makes your Revenge put your opponent's mobility slot Mantras on a 15 second cooldown if you land your Revenge. This Talent has a 30 second cooldown.
+-   Can be upgraded with the [Crippling Comeuppance](Talents.md#crippling-comeuppance) Talent, which makes your Revenge put your opponent's mobility slot Mantras on a 15 second cooldown if you land your Revenge. This Talent has a 30 second cooldown.
 -   Wayward Gem does **NOT** proc on Revenge
 -   Can be upgraded with Drift/Rush Shards to increase Revenge's range.
 
@@ -693,7 +693,7 @@ _Launch quick and devastating kicks._
 
  | 
 
-Blunt
+Blunt ResistanceBlunt
 
  | 
 
@@ -850,7 +850,7 @@ _Conjure concentrated orbs of Ether to launch at your enemy._
 
  | 
 
-Blunt
+Blunt ResistanceBlunt
 
  | 
 
@@ -1051,7 +1051,7 @@ _A melee strike that removes your posture's damage on hit._
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -1109,7 +1109,7 @@ N/A
 -   Parry window is at the end of the first flash.
 -   Shares a cooldown with [Sing](Attunement-less.md#sing).
 -   **Cannot proc [Deep Gems](Deep_Gems.md)**
--   Can be upgraded with the **Peripheral Vision** Talent, allowing Glare to hit enemies without them having to face you.
+-   Can be upgraded with the [Peripheral Vision](Talents.md#peripheral-vision) Talent, allowing Glare to hit enemies without them having to face you.
 
  |
 | 
@@ -1229,8 +1229,8 @@ N/A
     -   This is applied as a damage modifier to the person hitting the Taunted player. Meaning that Taunt is affected by the damage modifier caps.
 -   Affected entities become unable to jump.
 -   Taunt deals 0 Posture dmg and doesn't go through block, parry or dodge.
--   Can be upgraded with the **Off your Game** Talent, allowing you to slow Taunted opponents when hitting them.
--   Can be upgraded with the **Oh the Irony** Talent, which doubles the amount of [metal rods](Ironsing.md) applied to Taunted enemies.
+-   Can be upgraded with the [Off your Game](Talents.md#off-your-game) Talent, allowing you to slow Taunted opponents when hitting them.
+-   Can be upgraded with the [Oh the Irony](Talents.md#oh-the-irony) Talent, which doubles the amount of [metal rods](Ironsing.md) applied to Taunted enemies.
 -   Using Taunt on any humanoid [boss](Bosses.md) (excluding [Titus](Titus_Fulminus_Destellus.md)) will instantly start the fight, skipping all dialogue.
 
  |
@@ -1272,8 +1272,8 @@ N/A
 -   Sing cannot be parried, but will not apply Charm if it is blocked or dodged. Sing deals 0 posture damage.
 -   Can be modified with cloud and stratus stones to increase range, but increase the cooldown. (1 Cloudstone = +2s CD, 1 Stratus stone = +3s CD)
 -   Shares a cooldown with [Glare](Attunement-less.md#glare).
--   Can be upgraded with the **Encore** Talent, applying **true stun** if you land Sing on a Charmed opponent.
--   Can be upgraded with the **Propagandist** Talent, granting your allies [Overcharm](Status_Effects.md#overcharm) for 15 seconds.
+-   Can be upgraded with the [Encore](Talents.md#encore) Talent, applying **true stun** if you land Sing on a Charmed opponent.
+-   Can be upgraded with the [Propagandist](Talents.md#propagandist) Talent, granting your allies [Overcharm](Status_Effects.md#overcharm) for 15 seconds.
 
  |
 | 
@@ -1299,7 +1299,7 @@ _Grab your opponent and whisper a terrible truth in their ear. Further truths ar
 
  | 
 
-Blunt
+Blunt ResistanceBlunt
 
  | 
 
@@ -1318,7 +1318,7 @@ Blunt
 -   Deals 6 posture damage.
 -   Has an wind-up of 0.4s, and an endlag of 1.95s (0.25s if whiffed).
 -   Inflicts Charm for 7.5s on hit.
-    -   Because of this, it will instantly proc [Narcissist's](Talents.md#toxic-personality) [Overcharm](Status_Effects.md#overcharm) if you have the Talent.
+    -   Because of this, it will instantly proc [Narcissist](Talents.md#narcissist)'s [Overcharm](Status_Effects.md#overcharm) if you have the Talent.
 -   Is unventable.
 -   Does **not** apply insanity.
 -   Incredibly fast and hard to react without predicting it, meaning it's rather easy to land on the least defensive type of players.
@@ -1435,7 +1435,7 @@ _Rush down your opponent cutting them apart._
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -1477,7 +1477,7 @@ _Click to reveal yourself and deliver a rapid flurry of slashes that can chain t
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -1525,7 +1525,7 @@ _Launch into the air and deliver a devastating divebomb kick. Chains from Karita
 
  | 
 
-Blunt
+Blunt ResistanceBlunt
 
  | 
 
@@ -1563,7 +1563,7 @@ _Launch yourself into a flying kick, backflipping into the air if you hit a wall
 
  | 
 
-Blunt
+Blunt ResistanceBlunt
 
  | 
 
@@ -1634,7 +1634,7 @@ _A powerful slash that chips through block and slashes through armor._
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -1677,7 +1677,7 @@ _Close the distance and deliver a fast slash._
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -1719,7 +1719,7 @@ _Dart around the battlefield with devastating cleaves delivered in quick success
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -1760,7 +1760,7 @@ _Step forward and slice through your enemies. Ability can be activated again on 
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -1806,7 +1806,7 @@ _Switftly unsheathe your blade and deliver an upwards strike._
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -1878,7 +1878,7 @@ _Unleash a powerful pressure blast from the weight of your weapon._
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -1921,7 +1921,7 @@ _Reel back and swing your weapon, unleashing an onslaught of blows if it hits._
 
  | 
 
-Slash (1st Hit), Blunt (Kicks)
+Slash ResistanceSlash (1st Hit), Blunt ResistanceBlunt (Kicks)
 
  | 
 
@@ -1966,7 +1966,7 @@ _Absorb damage then return fury upon your foes._
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 

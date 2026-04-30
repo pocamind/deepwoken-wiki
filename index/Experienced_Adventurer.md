@@ -1,6 +1,6 @@
 ---
 title: Experienced Adventurer
-revid: 194641
+revid: 206709
 source: https://deepwoken.fandom.com/wiki/Experienced_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits]
@@ -18,7 +18,7 @@ categories: [Outfits, Adept Outfits]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1000 |
-| resistances | +10% Physical Armor, +10% Blunt Armor |
+| resistances | +10% Physical Armor , +10% Blunt Armor |
 | talents | Looter |
 | obtainment | Etris, Erisia/General Sea Event Loot |
 | selling_price | 10 |
@@ -37,9 +37,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 5 
 
 ### _Armor Stats_
 
-This Outfit grants +10% Physical resistance and +10% Blunt resistance. Additionally, it provides the [Looter](Talents.md#looter) Talent.
+This Outfit grants +10% Physical resistance ResistanceBlunt ResistanceSlash and +10% Blunt resistance ResistanceBlunt. Additionally, it provides the [Looter](Talents.md#looter) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 19% Blunt and 10% Slash.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 19% Blunt ResistanceBlunt and 10% Slash ResistanceSlash.
 
 The [Looter](Talents.md#looter) Talent grants the user extra loot for items they turn in for rewards.
 

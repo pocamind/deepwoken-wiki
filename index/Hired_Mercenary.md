@@ -1,6 +1,6 @@
 ---
 title: Hired Mercenary
-revid: 194623
+revid: 206686
 source: https://deepwoken.fandom.com/wiki/Hired_Mercenary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits]
@@ -17,7 +17,7 @@ categories: [Outfits, Starter Outfits]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1000 |
-| resistances | +15% Physical Armor, +10% Elemental Armor |
+| resistances | +15% Physical Armor , +10% Elemental Armor |
 | obtainment | Sold from:, Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop 80 Chests from:, First Layer, Fishing, Lodestar, Primadon (extremely rare)Vow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
 | weight | 1 |
@@ -35,7 +35,7 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability, grants +15% Physical resistance, and +10% Elemental resistance.
+This Outfit has 1000 durability, grants +15% Physical resistance ResistanceBlunt ResistanceSlash, and +10% Elemental resistance [ResistanceElemental](Attunements.md).
 
 ## Trivia/Notes
 

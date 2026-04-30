@@ -1,6 +1,6 @@
 ---
 title: Scholar
-revid: 187393
+revid: 206692
 source: https://deepwoken.fandom.com/wiki/Scholar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits]
@@ -17,7 +17,7 @@ categories: [Outfits, Starter Outfits]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1000 |
-| resistances | +10% Elemental Armor, +8% Physical Armor |
+| resistances | +8% Physical Armor , +10% Elemental Armor |
 | talents | Scholar's Intuition |
 | obtainment | Chests from:, Erisia, The Depths, Moon's Eyrie, PrimadonSold by Traan Zakshun and Nyanna for 200 |
 | selling_price | 10 |
@@ -35,7 +35,7 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-The Outfit has 1000 durability, grants the user +8% Physical resistance, and +10% Elemental resistance. Additionally, it provides the [Scholar's Intuition](Talents.md#scholars-intuition) Talent.
+The Outfit has 1000 durability, grants the user +8% Physical resistance ResistanceBlunt ResistanceSlash, and +10% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Scholar's Intuition](Talents.md#scholars-intuition) Talent.
 
 The [Scholar's Intuition](Talents.md#scholars-intuition) Talent causes [Intelligence](Attributes.md#int), [Willpower](Attributes.md#wll), and [Charisma](Attributes.md#cha) training gear to be 50% more effective.
 

@@ -1,6 +1,6 @@
 ---
 title: Grand Pathfinder Cloak
-revid: 198408
+revid: 206729
 source: https://deepwoken.fandom.com/wiki/Grand_Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits]
@@ -18,7 +18,7 @@ categories: [Outfits, Expert Outfits]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 2000 |
-| resistances | +20% Physical Armor, +20% Elemental Armor |
+| resistances | +20% Physical Armor , +20% Elemental Armor |
 | buffs | +40% Stealth |
 | obtainment | Chests from:, Erisia, Aratel Island, The Depths, Sea Events |
 | selling_price | 10 |
@@ -37,11 +37,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This Outfit has 2000 durability and grants +20% Physical resistance, +20% Elemental resistance, and +40% [Stealth](Stealth.md). Additionally, it provides the [Legendary](Talents.md#legendary) Talent.
+This Outfit has 2000 durability and grants +20% Physical resistance ResistanceBlunt ResistanceSlash, +20% Elemental resistance [ResistanceElemental](Attunements.md), and +40% [Stealth](Stealth.md) [IconStealth](Stealth.md). Additionally, it provides the [Legendary](Talents.md#legendary) Talent.
 
-The [Legendary](Talents.md#legendary) Talent grants Ether restoration when you land weapon attacks or parry attacks.
-
-(Tested on 450 Ether: +2.5% Ether on parry, +10% Ether on M1, +10% Ether on [Critical Attacks with M1 Tag](https://docs.google.com/document/d/e/2PACX-1vSPmulQoA5H3OTyzC8SVCCy2kx6o97dlqCvkif7uR0ihoIBOWQ9Mv2OAyb0eMB-EU4CzPW8u1asvaIE/pub))
+The [Legendary](Talents.md#legendary) Talent grants Ether restoration when you land weapon attacks or parry attacks. Parries restore 2.5% of your Ether. M1s and criticals with the M1 tag restore 10% of your Ether.
 
 ## Trivia/Notes
 

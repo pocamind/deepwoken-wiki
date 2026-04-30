@@ -1,6 +1,6 @@
 ---
 title: Golden Rat Bouncer
-revid: 206522
+revid: 206681
 source: https://deepwoken.fandom.com/wiki/Golden_Rat_Bouncer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, The Golden Rats, NPCs]
@@ -25,7 +25,7 @@ The Golden Rat Bouncer is a [Golden Warrior](Golden_Warrior.md) standing outside
 
 As they don't grip you, they can act as a stronger and much tankier version of the [Blade Instructor](Blade_Instructor.md). However, it is risky to fight them, due to the location.
 
-They wear a [Goldleaf Helm](Goldleaf_Helm.md), [Warden Pauldrons](Warden_Pauldrons.md), a recolored [Steel Plate](Steel_Plate.md) outfit and a pair of [Flameguard Boots](Flameguard_Boots.md).
+They wear a [Goldleaf Helm](Goldleaf_Helm.md), [Warden Pauldrons](Warden_Pauldrons.md), a [dyed](Dye_Packet.md) [Steel Plate](Steel_Plate.md) outfit and a pair of [Flameguard Boots](Flameguard_Boots.md).
 
 ## Moveset
 
@@ -100,7 +100,8 @@ Their arsenal consists of a [Soulwrought Axe](Crazy_Slots.md#weapons) and the [G
 
 ## Trivia
 
+-   Their [Steel Plate](Steel_Plate.md) outfit is [dyed](Dye_Packet.md) #ffd674.
 -   The Golden Rat Bouncer is the much tankier counterpart of the [Golden Warrior](Golden_Warrior.md).
--   The Golden Rat Bouncer does not execute you, so you can use them to grind your stats. They are relatively easy to fight but difficult to kill (due to their large health pool). They mostly use M1 attacks, so as long as you know how to parry, you should be fine. Good for grinding and an excellent substitute for [grinding bandits.](Bandit.md) (Level recommendation: 1-10)
+-   The Golden Rat Bouncer does not execute you, so you can use them to grind your stats. They are relatively easy to fight but difficult to kill (due to their large health pool). They mostly use M1 attacks, so as long as you know how to parry, you should be fine. Good for grinding and an excellent substitute for grinding [bandits](Bandit.md). (Level recommendation: 1-10)
 -   You are unable to Taunt the Golden Bouncer (despite them being able to Taunt you), and you can use Reinforce and Grand Support on them. This means that the player is allied with the Golden Bouncer, for some reason.
 -   Golden Rat Bouncers and all typical Golden Rat NPCs wear a [Steel Plate](Steel_Plate.md) dyed with the color code `#ffd674`.

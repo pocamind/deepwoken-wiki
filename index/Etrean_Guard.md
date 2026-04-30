@@ -1,6 +1,6 @@
 ---
 title: Etrean Guard
-revid: 194671
+revid: 206728
 source: https://deepwoken.fandom.com/wiki/Etrean_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, Etrea]
@@ -18,7 +18,7 @@ categories: [Outfits, Expert Outfits, Etrea]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 2000 Durability |
-| resistances | +25% Physical Armor, +20% Elemental Armor |
+| resistances | +25% Physical Armor , +20% Elemental Armor |
 | talents | Unbreakable |
 | obtainment | Etrean Soldier (direct drop)Chests from:, First Layer, Erisia |
 | selling_price | 10 |
@@ -37,7 +37,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This Outfit has 2000 durability and grants +25% Physical resistance, and +20% Elemental resistance. Additionally, it provides the [Unbreakable](Talents.md#unbreakable) Talent.
+This Outfit has 2000 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, and +20% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Unbreakable](Talents.md#unbreakable) Talent.
 
 The [Unbreakable](Talents.md#unbreakable) Talent reduces the duration of the guard break stun by 0.35 seconds (1.05s to 0.7s).
 

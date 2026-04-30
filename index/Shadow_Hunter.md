@@ -1,6 +1,6 @@
 ---
 title: Shadow Hunter
-revid: 194664
+revid: 206718
 source: https://deepwoken.fandom.com/wiki/Shadow_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits]
@@ -17,7 +17,7 @@ categories: [Outfits, Adept Outfits]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1500 |
-| resistances | +10% Physical Armor, +5% Elemental Armor, +10% Shadow Armor |
+| resistances | +10% Physical Armor , +5% Elemental Armor , +10% Shadow Armor |
 | talents | Lowstride |
 | obtainment | Chests from:, Erisia/General Sea Event LootSold at:, Weapon shop at Etris for 50 , Lodge underneath Etris for 45 |
 | selling_price | 10 |
@@ -36,9 +36,9 @@ This Outfit additionally requires the player have at least 10 [Agility](Attribut
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability, grants +10% Physical resistance, +5% Elemental resistance, and +10% Shadow resistance. Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
+This Outfit has 1500 durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, +5% Elemental resistance [ResistanceElemental](Attunements.md), and +10% Shadow resistance [ResistanceShadowcast](Shadowcast.md). Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 10% Physical, 14.5% Shadowcast, and 5% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 10% Physical ResistanceBlunt ResistanceSlash, 14.5% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 5% Elemental [ResistanceElemental](Attunements.md).
 
 The [Lowstride](Talents.md#lowstride) Talent increases your [Stealth](Stealth.md) and movement speed while crouching. Additionally, this removes the sound that sheathing and unsheathing your weapon makes.
 

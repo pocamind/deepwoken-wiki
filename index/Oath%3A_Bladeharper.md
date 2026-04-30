@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 205537
+revid: 206677
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -106,19 +106,116 @@ _Upon obtaining this Oath, two snake bracelets will wrap around your arms._
 
 #### Combat Mantras
 
--   **Palm Strike** - Slice your opponent with your palm.
-    -   You are slowed down when using this mantra.
-    -   Deals 31 Oath & Blunt damage. (15x pve scaling?)
-    -   If True Strength is active, you'll uppercut your foe, ascending both you and your target in the air, dealing the base damage a second time and proccing a flurry of slashes which deal 16 damage total (4 slashes that deal 4 damage each).
-        -   Deals a total of 78 Oath & Physical damage in True Strength (31 base hit + 31 uppercut + (4 \* 4 slashes)). The base hit and uppercut deal Oath & Blunt, while the slashes deal Oath & Slash.
-    -   Obtainment: Obtained with the Oath, after the first Mind Reflection fight along with Lithe Step.
+| 
+**Name**
 
--   **Decimate** - Cut through your opponent.
-    -   Deals 18.67 Oath & Slash damage twice (37.34 total damage\[12x pve scaling?\]).
-    -   If True Strength is active, this attack will extend to nearby enemies. Once you teleport to a new enemy, hit them with a significantly weakened Decimate and proc a flurry of slashes. The weakened decimate deals 0.1 damage and the slashes deal 12 damage total (3 slashes that deal 4 damage each).
-        -   Deals a total of 49.74 Oath & Slash damage in True Strength (18.67 \* 2 base hits + 0.1 teleport + (4 \* 3 slashes)).
-    -   Direct hits **autogrip** players if low enough or knocked.
-    -   Obtainment: Obtained after the final Mind Reflection fight along with Reveal and Float Like a Butterfly
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Palm Strike** (☆☆☆)
+
+**Combat Mantra**
+
+_Slice your opponent with your palm._
+
+ | 
+
+## Palm Strike (☆☆☆)
+
+  
+**Combat Mantra**  
+_Slice your opponent with your palm._
+
+ |
+| 
+
+TBA [IconEther](Ether.md)
+
+ | 
+
+Blunt ResistanceBlunt + Oath [ResistanceOath](Oaths.md)
+
+ | 
+
+Obtained with the Oath
+
+ |
+| 
+
+**Effect:** _The user strikes their opponent with their off hand. If in True Strength, they will follow up with an uppercut._
+
+-   Deals 31 damage, per hit (1, 2 if in True Strength).
+-   Hits a second time in True Strength, uppercutting the target. This procs Soaring Storm and all other relevant "on uppercut" effects.
+-   Applies [Dazed](Status_Effects.md#dazed) on hit.
+-   Has a 15x PvE multiplier.
+
+ |
+| 
+
+**Decimate** (☆☆☆)
+
+**Combat Mantra**
+
+_Cut through your opponent_
+
+ | 
+
+## Decimate (☆☆☆)
+
+  
+**Combat Mantra**  
+_Cut through your opponent_
+
+ |
+| 
+
+TBA [IconEther](Ether.md)
+
+ | 
+
+Slash ResistanceSlash + Oath [ResistanceOath](Oaths.md)
+
+ | 
+
+Defeat the final Mind Reflection
+
+ |
+| 
+
+**Effect:** _The user slashes their opponent twice. If in True Strength, they'll teleport to nearby targets and hit them with a flurry of slashes._
+
+-   Deals 18.67 damage twice.
+-   Strikes again in True Strength (four total hits), then the player will teleport to nearby targets, striking with a flurry of slashes that deal 12 total damage (3 slashes that deal 4 damage each).
+-   The teleports in True Strength have a range limit.
+-   Direct hits will **autogrip** Unconscious targets.
+
+ |
 
 Note: Attacks with multiple damage typings will be resisted by whatever resistance is higher (e.g. if you had 35% Blunt resistance and 30% Wind resistance, you'd resist 35% of Rising Wind's damage). In this case, all of Bladeharper's attacks deal Oath and Physical damage. This means they will be resisted by your Physical resistance unless you're using [Oathless](Oath%253A_Oathless.md) and you have less than 20% Physical resistance.
 

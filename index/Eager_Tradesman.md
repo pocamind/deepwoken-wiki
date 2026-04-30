@@ -1,6 +1,6 @@
 ---
 title: Eager Tradesman
-revid: 198072
+revid: 206699
 source: https://deepwoken.fandom.com/wiki/Eager_Tradesman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits]
@@ -17,9 +17,9 @@ categories: [Outfits, Starter Outfits]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1000 |
-| resistances | +10% Physical Armor, +5% Elemental Armor |
+| resistances | +10% Physical Armor , +5% Elemental Armor |
 | talents | Knack |
-| obtainment | Sold from:Traan Zakshun in Lower Erisia for 200 , Chests from:, First Layer, Fishing, Moon's Eyrie, Primadon, Sea Events, Erisia |
+| obtainment | Sold by:, Traan Zakshun in Lower Erisia for 200 , Chests from:, First Layer, Fishing, Moon's Eyrie, Primadon, Sea Events, Erisia |
 | selling_price | 10 |
 | weight | 1 |
 
@@ -35,7 +35,7 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-This outfit has 1000 durability, grants +10% Physical Armor, and +5% Elemental armor. Additionally, it provides the [Knack](Talents.md#knack) Talent.
+This outfit has 1000 durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, and +5% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Knack](Talents.md#knack) Talent.
 
 The [Knack](Talents.md#knack) Talent causes felled trees to yield more wood and increases the user's [ship](Ships_&_Sailing.md) repair speed.
 

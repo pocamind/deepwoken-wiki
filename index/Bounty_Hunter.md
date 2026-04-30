@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunter
-revid: 194639
+revid: 206704
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits, Bandits]
@@ -17,7 +17,8 @@ categories: [Outfits, Adept Outfits, Bandits]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1500 |
-| resistances | +20% Physical Armor, +10% Elemental Armor |
+| resistances | +20% Physical Armor , +10% Elemental Armor |
+| talents | Lightweight |
 | obtainment | Erisia/General Sea Event Loot |
 | selling_price | 10 |
 | weight | 1 |
@@ -35,7 +36,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 5 
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability, grants +20% Physical armor, and +10% Elemental armor. Additionally, it provides the [Lightweight](Talents.md#lightweight) Talent.
+This Outfit has 1500 durability, grants +20% Physical resistance ResistanceBlunt ResistanceSlash, and +10% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Lightweight](Talents.md#lightweight) Talent.
 
 The [Lightweight](Talents.md#lightweight) Talent increases the users movement speed by 25% when their armor's durability reaches 0.
 

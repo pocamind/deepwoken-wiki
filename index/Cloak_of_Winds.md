@@ -1,6 +1,6 @@
 ---
 title: Cloak of Winds
-revid: 201318
+revid: 206725
 source: https://deepwoken.fandom.com/wiki/Cloak_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, Etrea]
@@ -17,7 +17,7 @@ categories: [Outfits, Expert Outfits, Etrea]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1200 |
-| resistances | +20% Physical Armor, +30% Elemental Armor, +25% Shadow Armor |
+| resistances | +20% Physical Armor , +30% Elemental Armor , +25% Shadow Armor |
 | talents | Paired Soul |
 | obtainment | Chests from:, Zana, Fishing, The Depths, Minityrsa, Maestro Evengarde Rest, Songseeker Wilds, Lodestar, Sea Events, Crypt of the Unbroken, Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 Vow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
@@ -36,9 +36,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This Outfit has 1200 durability and grants +20% Physical resistance, +30% Elemental resistance and +25% Shadow resistance. Additionally, it provides the [Paired Soul](Talents.md#paired-soul) Talent.
+This Outfit has 1200 durability and grants +20% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md) and +25% Shadow resistance [ResistanceShadowcast](Shadowcast.md). Additionally, it provides the [Paired Soul](Talents.md#paired-soul) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 20% Physical, 47.5% Shadowcast, 30% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 20% Physical ResistanceBlunt ResistanceSlash, 47.5% Shadowcast [ResistanceShadowcast](Shadowcast.md), 30% Elemental [ResistanceElemental](Attunements.md).
 
 The [Paired Soul](Talents.md#paired-soul) Talent increases the damage of the base [Katana](Katana.md) by 25%. This also increases the damage of the [Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md), and [Purple Cloud](Purple_Cloud.md) by 5%.
 

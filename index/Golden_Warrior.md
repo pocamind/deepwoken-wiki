@@ -1,6 +1,6 @@
 ---
 title: Golden Warrior
-revid: 206523
+revid: 206679
 source: https://deepwoken.fandom.com/wiki/Golden_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Enemies, The Golden Rats]
@@ -25,7 +25,7 @@ The Golden Warrior is a rare random encountered enemy NPC that spawns leaning on
 
 They will start fighting back after being hit 3 times. The fight isn't too difficult as long you can parry well or pin them to a wall and spam mantras. A chest will appear will upon killing them.
 
-They wear a [Goldleaf Helm](Goldleaf_Helm.md), [Warden Pauldrons](Warden_Pauldrons.md), a recolored [Steel Plate](Steel_Plate.md) outfit, and a pair of [Flameguard Boots](Flameguard_Boots.md).
+They wear a [Goldleaf Helm](Goldleaf_Helm.md), [Warden Pauldrons](Warden_Pauldrons.md), a [dyed](Dye_Packet.md) [Steel Plate](Steel_Plate.md) outfit, and a pair of [Flameguard Boots](Flameguard_Boots.md).
 
 ## Attacks
 
@@ -101,7 +101,7 @@ A Golden Warrior executes the player after knocking them.
 
 ## Trivia
 
--   It will drop a [Gold Plate](Gold_Plate.md) upon being killed, which, 5 of can be turned in to the Golden Rat Bouncer for mid-tier Erisia loot.
+-   Their [Steel Plate](Steel_Plate.md) outfit is [dyed](Dye_Packet.md) #ffd674.
 -   This is a [random encounter](Random_Encounters.md), not to be mistaken with the [Rat Fighters](Rat_Fighter.md) in the [Rat's Den](<Rat's_Den.md>) at [Burning Stone Gardens](Burning_Stone_Gardens.md).
 -   The [Golden Rat Bouncer](Golden_Rat_Bouncer.md) outside of the [Rat's Den](<Rat's_Den.md>) says he'll offer you something if you bring him 5 Gold Plates, being a small chest containing high-tier loot for Burning Stone Gardens.
 -   Golden Warriors and all typical Golden Rat NPCs wear a [Steel Plate](Steel_Plate.md) dyed with the color code `#ffd674`.

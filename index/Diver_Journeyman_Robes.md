@@ -1,6 +1,6 @@
 ---
 title: Diver Journeyman Robes
-revid: 194503
+revid: 206727
 source: https://deepwoken.fandom.com/wiki/Diver_Journeyman_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, The Divers]
@@ -18,7 +18,7 @@ categories: [Outfits, Expert Outfits, The Divers]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1000 |
-| resistances | +30% Elemental armor, +20% Physical armor, +10% Blunt armor |
+| resistances | +20% Physical Armor , +10% Blunt Armor , +30% Elemental Armor |
 | talents | Lowstride |
 | obtainment | Chests from:, The Depths, Lodestar, Sold Traan Zakshun's regular shop for 80 Vow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
@@ -36,9 +36,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This outfit has 1000 durability and grants +20% Physical resistance, +10% Blunt resistance and +30% Elemental Armor. Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
+This outfit has 1000 durability and grants +20% Physical resistance ResistanceBlunt ResistanceSlash, +10% Blunt resistance ResistanceBlunt and. Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28% Blunt, 20% Slash, and 30% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28% Blunt ResistanceBlunt, 20% Slash ResistanceSlash, and 30% Elemental [ResistanceElemental](Attunements.md).
 
 The [Lowstride](Talents.md#lowstride) Talent increases your [Stealth](Stealth.md) and movement speed while crouching. Additionally, this removes the sound that sheathing and unsheathing your weapon makes.
 

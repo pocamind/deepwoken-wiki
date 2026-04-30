@@ -1,6 +1,6 @@
 ---
 title: Darksteel Plate
-revid: 194842
+revid: 206726
 source: https://deepwoken.fandom.com/wiki/Darksteel_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits]
@@ -18,7 +18,7 @@ categories: [Outfits, Expert Outfits]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 2500 |
-| resistances | +25% Physical Armor, +25% Elemental Armor |
+| resistances | +25% Physical Armor , +25% Elemental Armor |
 | talents | Unbreakable |
 | obtainment | Chests from:, Summer Isle, Songseeker Wilds, Minityrsa, Lower Erisia, Sold above the Lord Regent's throne in Etris for 200 |
 | selling_price | 10 |
@@ -37,7 +37,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This Outfit has 2500 durability and grants +25% Physical resistance and +25% Elemental resistance. Additionally, it provides the [Unbreakable](Talents.md#unbreakable) Talent.
+This Outfit has 2500 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash and +25% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Unbreakable](Talents.md#unbreakable) Talent.
 
 The [Unbreakable](Talents.md#unbreakable) Talent reduces the duration of the guard break stun by 0.35 seconds (1.05s to 0.7s).
 

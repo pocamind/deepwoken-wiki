@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 205069
+revid: 206673
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -56,7 +56,7 @@ As for its appearance, **nothing** is added to your outfit, making it impossible
 
 ### Passives
 
--   **Oath Armor** - Oathless grants 20% Oath armor.
+-   **Oath Armor** - Oathless grants 20% Oath Armor [ResistanceOath](Oaths.md).
     -   This does not work on every Oath ability, as not all of them deal Oath damage in general.
     -   Due to this being "**armor**" instead of "**resistance**", PEN will affect it and it will be tied to your armor value, being deactivated if your armor is broken.
     -   Oath attacks with multiple damage types will effectively bypass your Oath armor because the game will take your highest applicable armor resistance and apply that for damage calculation.
@@ -64,7 +64,8 @@ As for its appearance, **nothing** is added to your outfit, making it impossible
         -   List of Oaths and Oath abilities that deal **pure** Oath damage type: [Blindseer](Oath%253A_Blindseer.md), [Contractor](Oath%253A_Contractor.md), [Chainwarden](Oath%253A_Chainwarden.md), [Dawnwalker](Oath%253A_Dawnwalker.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), [Jetstriker](Oath%253A_Jetstriker.md), [Oathless](Oath%253A_Oathless.md) (Soul Beam), [Silentheart](Oath%253A_Silentheart.md), [Starkindred](Oath%253A_Starkindred.md) (All except Death From Above talent), [Soulbreaker](Oath%253A_Soulbreaker.md) (Ardour Slicer only).
         -   For the list of Oaths and Oath abilities that **don't** deal pure Oath damage type: [Arcwarder](Oath%253A_Arcwarder.md), [Bladeharper](Oath%253A_Bladeharper.md), [Blightsurger](Oath%253A_Blightsurger.md), [Saintsworn](Oath%253A_Saintsworn.md), [Soulbreaker](Oath%253A_Soulbreaker.md) (All except Ardour Slicer).
         -   For the list of Oaths and Oath abilities that **don't deal damage at all**: [Saltchemist](Oath%253A_Saltchemist.md), [Visionshaper](Oath%253A_Visionshaper.md).
--   **Monster Armor** - Oathless grants 20% Monster Armor.
+-   **Monster Armor** - Oathless grants 20% Monster Armor [ResistanceMonster](Monsters.md).
+    -   Monster Armor is additive to [Equipment](Equipment.md) resistances, and is applied when fighting [Monster](Monsters.md)\-type enemies.
     -   This is one of very few sources of Monster Armor.
 
 ## Talents
@@ -141,11 +142,11 @@ _Harness your Chorus of Wisps to unleash a devastating blast._
  |
 | 
 
-150 Ether
+150 Ether [IconEther](Ether.md)
 
  | 
 
-Oath(?)
+Oath [ResistanceOath](Oaths.md)(?)
 
  | 
 

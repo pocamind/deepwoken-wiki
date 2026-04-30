@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 204569
+revid: 206658
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -64,6 +64,8 @@ This does not work on [Ores](Ores.md).
 
 ### Combat Mantras
 
+{{MantraInfobox
+
 | 
 **Name**
 
@@ -110,11 +112,11 @@ _Shoots out an air blast._
  |
 | 
 
-20 Ether
+20 Ether [IconEther](Ether.md)
 
  | 
 
-Wind
+Wind [ResistanceGalebreathe](Galebreathe.md)
 
  | 
 
@@ -152,11 +154,11 @@ _Kick a gust of wind forward, if it hits an enemy leap into the air and launch 3
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Wind
+Wind [ResistanceGalebreathe](Galebreathe.md)
 
  | 
 
@@ -190,11 +192,11 @@ _Slicing blades of wind. If casted while slide-jumping, perform a spinning slice
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
-Wind
+Wind [ResistanceGalebreathe](Galebreathe.md)
 
  | 
 
@@ -231,11 +233,11 @@ _A strike from the heavens._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Wind
+Wind [ResistanceGalebreathe](Galebreathe.md)
 
  | 
 
@@ -270,11 +272,11 @@ _A rush of piercing wind._
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
-Wind + Slash
+Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
 
  | 
 
@@ -310,11 +312,11 @@ _Form a punch of wind in your fist and release it._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Wind + Slash
+Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
 
  | 
 
@@ -350,11 +352,11 @@ _Toss a wind landmine._
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
-Wind
+Wind [ResistanceGalebreathe](Galebreathe.md)
 
  | 
 
@@ -391,11 +393,11 @@ _A rushing current of wind._
  |
 | 
 
-15 Ether
+15 Ether [IconEther](Ether.md)
 
  | 
 
-Wind
+Wind [ResistanceGalebreathe](Galebreathe.md)
 
  | 
 
@@ -414,41 +416,9 @@ Wind
 -   Pulls people in if close to it.
 
  |
-| 
+| name=Twister Kicks (★☆☆) | desc=Go forth with spinning kicks infused with the wind | image=Twister Kicks.gif | ethercost=60 Ether}
 
-**Twister Kicks** (★☆☆)
-
-_Go forth with spinning kicks infused with the wind_
-
- | 
-
-## Twister Kicks (★☆☆)
-
-  
-_Go forth with spinning kicks infused with the wind_
-
- |
-| 
-
-40 Ether
-
- | 
-
-Wind + Slash
-
- | 
-
-20 Galebreathe
-
- |
-| 
-
-**Effect:** _Dash forwards kicking with a rush of winds dealing damage._
-
--   Has a base damage of 7/8.3/9.6/10.9/12.2 per level, per hit (4) with 2.75 Galebreathe scaling.
--   Deals 4 posture damage per hit (4).
--   Has a windup of 0.5 seconds with 0.11 seconds between each hit. Has a cooldown of 11 seconds.
--   Can break objects.
+[IconEther](Ether.md)
 
  |
 | 
@@ -467,11 +437,11 @@ _A lifting torrent of wind._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Wind + Slash
+Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
 
  | 
 
@@ -504,11 +474,11 @@ _Encircle your foes with blades of wind that halt their escape until they respon
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Wind + Slash
+Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
 
  | 
 
@@ -545,11 +515,11 @@ _Grab your opponent and toss them with the power of gale. Pressing F will toss y
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Wind + Blunt (Grab), Wind (Throw)
+Wind [ResistanceGalebreathe](Galebreathe.md) + Blunt ResistanceBlunt (Grab), Wind [ResistanceGalebreathe](Galebreathe.md) (Throw)
 
  | 
 
@@ -586,11 +556,11 @@ _Use wind to uppercut and propel yourself into the air. Press F after hitting an
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Wind + Blunt
+Wind [ResistanceGalebreathe](Galebreathe.md) + Blunt ResistanceBlunt
 
  | 
 
@@ -628,11 +598,11 @@ _A quick swirl of sharp winds._
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
-Wind + Slash
+Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
 
  | 
 
@@ -669,11 +639,11 @@ _A powerful wind blast._
  |
 | 
 
-40 Ether
+55 Ether [IconEther](Ether.md)
 
  | 
 
-Wind
+Wind [ResistanceGalebreathe](Galebreathe.md)
 
  | 
 
@@ -713,15 +683,15 @@ _A rapid delivery of consecutive attacks._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Wind + Slash
+Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
 
  | 
 
-50 Galebreathe
+60 Galebreathe
 
  |
 | 
@@ -752,11 +722,11 @@ _Gaining inspiration from the Duke of Erisia, call forth a malicious gale from y
  |
 | 
 
-70 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 
-Wind + Slash
+Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
 
  | 
 
@@ -824,11 +794,11 @@ _A rush of wind_
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Wind + Slash
+Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
 
  | 
 
@@ -903,7 +873,7 @@ With Haunted Gale, increases the duration of your Phantoms by 3s._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 

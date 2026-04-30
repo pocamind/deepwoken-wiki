@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 204700
+revid: 206662
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -112,11 +112,11 @@ _A legion of frost._
  |
 | 
 
-30 Ether
+30 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -132,7 +132,7 @@ Ice
 -   Deals 5 posture damage per hit. (Total of 10 posture, 20 with Blast Spark)
 -   Has a cooldown of 18 seconds, and a windup of 0.7 seconds. (Windup can be modified)
 -   Inflicts 2 seconds Chill per hit. This Chill duration cannot be modified. (Alternatively applies crystal when used with Crystallization Path.)
--   Leaves an ice patch on the ground where the Mantra is casted, size changing with [Elemental Intensity](Mantra_Modifiers.md#regular-modifiers) Modifiers, mantra level, weather, and ground material.
+-   Leaves an ice patch on the ground where the Mantra is casted, size changing with [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers), mantra level, weather, and ground material.
 -   Acts as the Frostdraw alternative to Flamecharm's Burning Servants and has many similarities, including:
     -   Lacking endlag on cast, allowing the user to immediately follow up and even attack during the windup.
     -   Not preventing sprinting/movement speed on cast.
@@ -168,11 +168,11 @@ _Fire a beam of ice._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -211,11 +211,11 @@ _Piercing spikes of ice._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -254,11 +254,11 @@ _Revolving blades of ice._
  |
 | 
 
-30 Ether
+30 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -295,11 +295,11 @@ _A barrage of freezing blades._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -342,11 +342,11 @@ _Chains of ice._
  |
 | 
 
-35 Ether
+35 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -383,11 +383,11 @@ _Form and toss daggers of ice at your aimed opponent._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -426,11 +426,11 @@ _A flurry of ice spikes._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -469,11 +469,11 @@ _Conjure and throw weapons of ice._
  |
 | 
 
-35 Ether
+35 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -513,11 +513,11 @@ _A colossal mace of ice._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -556,11 +556,11 @@ _A sharp disk of ice._
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -602,11 +602,11 @@ _Send forth a flock of ice_
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -641,11 +641,11 @@ _Form an ice spear and lunges forward._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -684,11 +684,11 @@ _Conjure a glaive of frost to launch your opponents skywards._
  |
 | 
 
-30 Ether
+30 Ether [IconEther](Ether.md)
 
  | 
 
-Ice + Slash
+Ice [ResistanceFrostdraw](Frostdraw.md) + Slash ResistanceSlash
 
  | 
 
@@ -724,11 +724,11 @@ _An icy chokehold._
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
-Ice + Blunt (Grab), Ice (Ice Chains)
+Ice [ResistanceFrostdraw](Frostdraw.md) + Blunt ResistanceBlunt (Grab), Ice [ResistanceFrostdraw](Frostdraw.md) (Ice Chains)
 
  | 
 
@@ -767,11 +767,13 @@ _Manifest cubes of Ice to fire at your enemies. Cast the Mantra again to fire cu
  |
 | 
 
-45 Ether (Summon), 45 Ether (Fire Manually), 0 Ether (Fired Automatically)
+45 Ether [IconEther](Ether.md) (Summon)  
+45 Ether [IconEther](Ether.md) (Fire Manually)  
+0 Ether [IconEther](Ether.md) (Fired Automatically)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -807,11 +809,11 @@ _Send ice rippling out in a shockwave._
  |
 | 
 
-35 Ether
+35 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -892,11 +894,11 @@ _Impale your foes with a brutal ice barrage. Does +50% damage if enemy is airbor
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -934,11 +936,11 @@ _Knock your enemy skyward with a kick of crystal._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -974,11 +976,11 @@ _Swift bolts of frozen air._
  |
 | 
 
-25 Ether
+25 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -1046,11 +1048,11 @@ _An arc of ice._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -1089,7 +1091,7 @@ _Skate freely on paths of ice._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1161,7 +1163,7 @@ _A servant of ice._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1199,11 +1201,11 @@ _Enter a state of cryostasis._
  |
 | 
 
-45 Ether
+45 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 

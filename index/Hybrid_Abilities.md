@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 200650
+revid: 206670
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -65,11 +65,11 @@ _Summon two cubes tethered by lightning, setting a trap for your enemies._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Lightning + Metal
+Lightning [ResistanceThundercall](Thundercall.md) + Metal [ResistanceIronsing](Ironsing.md)
 
  | 
 
@@ -109,11 +109,11 @@ _Imprison your enemies with shadows and impale them with pillars._
  |
 | 
 
-80 Ether
+80 Ether [IconEther](Ether.md)
 
  | 
 
-Ice + Shadow
+Ice [ResistanceFrostdraw](Frostdraw.md) + Shadow [ResistanceShadowcast](Shadowcast.md)
 
  | 
 
@@ -153,11 +153,12 @@ _Sweep with flames and lightning before following into a devastating uppercut._
  |
 | 
 
-30 Ether
+30 Ether [IconEther](Ether.md)
 
  | 
 
-Lightning (Leg Sweep), Fire + Blunt (Uppercut)
+Lightning [ResistanceThundercall](Thundercall.md) (Leg Sweep)  
+Fire [ResistanceFlamecharm](Flamecharm.md) + Blunt ResistanceBlunt (Uppercut)
 
  | 
 
@@ -193,11 +194,11 @@ _Sprint forward on the winds themselves and deliver a devastating thunder kick._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Wind + Lightning + Slash
+Wind [ResistanceGalebreathe](Galebreathe.md) + Lightning [ResistanceThundercall](Thundercall.md) + Slash ResistanceSlash
 
  | 
 

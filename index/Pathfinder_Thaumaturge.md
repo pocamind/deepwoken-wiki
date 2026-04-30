@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Thaumaturge
-revid: 199493
+revid: 206717
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Thaumaturge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits]
@@ -17,7 +17,7 @@ categories: [Outfits, Adept Outfits]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1000 |
-| resistances | +15% Elemental Armor+10% Physical Armor |
+| resistances | +10% Physical Armor , +15% Elemental Armor |
 | talents | Lowstride |
 | obtainment | Sold by Nyanna for 200 , Sold in Traan Zakshun's regular shop for 200 , Chests from:, Erisia/General Sea Event Loot, The Depths, Moon's Eyrie, Primadon, Vow of Iron:, Sold in Naan Zakshun's black market for4,000 |
 | selling_price | 10 |
@@ -36,7 +36,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 5 
 
 ### _Armor Stats_
 
-This Outfit has 1000 Durability, grants +10% Physical Armor, and +15% Elemental Armor. Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
+This Outfit has 1000 Durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, and +15% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
 
 The [Lowstride](Talents.md#lowstride) Talent increases your [Stealth](Stealth.md) and movement speed while crouching. Additionally, this removes the sound that sheathing and unsheathing your weapon makes.
 

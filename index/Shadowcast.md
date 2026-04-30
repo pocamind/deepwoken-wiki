@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 205134
+revid: 206668
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -106,11 +106,12 @@ _A shadowy hand._
  |
 | 
 
-50 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Shadow + Slash (Grab), Blunt (Slam)
+Shadow [ResistanceShadowcast](Shadowcast.md) + Slash ResistanceSlash (Grab)  
+Blunt ResistanceBlunt (Slam)
 
  | 
 
@@ -149,11 +150,11 @@ _Slicing blades of dark energy._
  |
 | 
 
-20 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Shadow + Slash
+Shadow [ResistanceShadowcast](Shadowcast.md) + Slash ResistanceSlash
 
  | 
 
@@ -188,11 +189,11 @@ _An awful blast of dark energy._
  |
 | 
 
-40 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Shadow
+Shadow [ResistanceShadowcast](Shadowcast.md)
 
  | 
 
@@ -230,11 +231,11 @@ _Chains of shadow._
  |
 | 
 
-15 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Shadow
+Shadow [ResistanceShadowcast](Shadowcast.md)
 
  | 
 
@@ -273,11 +274,11 @@ _Form a shockwave of darkness._
  |
 | 
 
-50 Ether
+65 Ether [IconEther](Ether.md)
 
  | 
 
-Shadow
+Shadow [ResistanceShadowcast](Shadowcast.md)
 
  | 
 
@@ -313,11 +314,11 @@ _Call forth the void to track your opponents._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Shadow + Slash
+Shadow [ResistanceShadowcast](Shadowcast.md) + Slash ResistanceSlash
 
  | 
 
@@ -354,11 +355,11 @@ _Form a Shockwave of darkness._
  |
 | 
 
-50 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Shadow, Blunt (Slam)
+Shadow [ResistanceShadowcast](Shadowcast.md), Blunt ResistanceBlunt (Slam)
 
  | 
 
@@ -395,15 +396,15 @@ _Hail down meteors of darkness._
  |
 | 
 
-65 Ether
+65 Ether [IconEther](Ether.md)
 
  | 
 
-Shadow
+Shadow [ResistanceShadowcast](Shadowcast.md)
 
  | 
 
-30 Shadowcast
+65 Shadowcast
 
  |
 | 
@@ -435,11 +436,11 @@ _Roar a wave of shadows._
  |
 | 
 
-50 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 
-Shadow
+Shadow [ResistanceShadowcast](Shadowcast.md)
 
  | 
 
@@ -477,11 +478,11 @@ _A swift slash channelled with foul energy._
  |
 | 
 
-50 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Shadow
+Shadow [ResistanceShadowcast](Shadowcast.md)
 
  | 
 
@@ -516,12 +517,12 @@ _Show your foes your strength._
  |
 | 
 
-35 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 
-Shadow  
-Mult. Spark: Blunt (1st Hit), Shadow (2nd Hit)
+Shadow [ResistanceShadowcast](Shadowcast.md)  
+Mult. Spark: Blunt ResistanceBlunt (1st Hit), Shadow [ResistanceShadowcast](Shadowcast.md) (2nd Hit)
 
  | 
 
@@ -565,11 +566,11 @@ _Temporarily summon a shadow greatsword for a large slash._
  |
 | 
 
-50 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Shadow + Slash
+Shadow [ResistanceShadowcast](Shadowcast.md) + Slash ResistanceSlash
 
  | 
 
@@ -610,11 +611,11 @@ _Create a shadow vortex that pulls in everything in its surrounding._
  |
 | 
 
-100 Ether
+100 Ether [IconEther](Ether.md)
 
  | 
 
-Blunt
+Blunt ResistanceBlunt
 
  | 
 
@@ -686,11 +687,11 @@ _Conjure shadows around your enemy before warp-striking to them._
  |
 | 
 
-90 Ether
+90 Ether [IconEther](Ether.md)
 
  | 
 
-Shadow + Slash
+Shadow [ResistanceShadowcast](Shadowcast.md) + Slash ResistanceSlash
 
  | 
 
@@ -725,11 +726,11 @@ _Submerge into your shadow. Click to launch an attack at any point while submerg
  |
 | 
 
-30 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 
-Shadow
+Shadow [ResistanceShadowcast](Shadowcast.md)
 
  | 
 
@@ -769,11 +770,12 @@ _A rush of darkness._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Shadow + Slash/Blunt (Bl. Spark)
+Shadow [ResistanceShadowcast](Shadowcast.md) + Slash ResistanceSlash  
+Bl. Spark: Shadow [ResistanceShadowcast](Shadowcast.md) + Slash ResistanceSlash + Blunt ResistanceBlunt
 
  | 
 
@@ -846,11 +848,11 @@ _Gorge on your own health for raw strength_
  |
 | 
 
-55 Ether
+55 Ether [IconEther](Ether.md)
 
  | 
 
-Shadow
+Shadow [ResistanceShadowcast](Shadowcast.md)
 
  | 
 
@@ -893,7 +895,7 @@ _Summons a fragile eye that consumes the Ether of those who try to cast Mantras 
  |
 | 
 
-40 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 
@@ -928,7 +930,7 @@ _Summon a servant of Shade_
  |
 | 
 
-70 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 

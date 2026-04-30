@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 203786
+revid: 206676
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ignition Union]
@@ -53,12 +53,6 @@ This Oath grants +1 Wildcard Mantra Slot and +2 Combat Mantra Slots. When casted
 
 The Arc Suit gives complete immunity to [Parasites](Second_Layer/The_Ethironal_Shrine.md#parasites) in the [The Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md), allowing the player to walk over Parasite pools and preventing them latching on by the gales.
 
-### Variants
-
-The following is a list of the default color variants of the Arc Suit, granted when you obtain the Oath. Arc Suit and the Suit's light can be [dyed](Dye_Packet.md) to any color of your choosing.
-
-_Note: The Suit is dyed by choosing "Arc Suit" in the dye ui. The Suit's light is dyed by choosing "Arcwarder Cosmetic" in the dye ui._
-
 ## Abilities
 
 ### Talents
@@ -95,41 +89,211 @@ _Note: The Suit is dyed by choosing "Arc Suit" in the dye ui. The Suit's light i
 
 #### Combat Mantras
 
--   **Arc Wave** - Stomp the ground releasing a wave of Arc energy.
-    -   Deals Flamecharm and Thundercall damage, additionally this scales with both Flamecharm and Thundercall.
-    -   Can apply both Shock and Burning, or its Path alternate variants.
-        -   Uniquely, the Shock this applies is a pink color.
-    -   Does not deal posture damage.
-    -   12s CD.
-    -   While Arc Suit is active, using Arc Wave restores 50% of your current posture. Additionally your Arc Wave will gain a +25% **base** damage buff damage during Arc Suit if you have the Arc Module: Enhance Talent.
-    -   Has a 7.2x PvE multiplier (multiply damage dealt by 7.2 to get PvE damage).
--   Obtained after second [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) / [Scion of Ethiron](Scion_of_Ethiron.md) kill.
+| 
+**Name**
 
--   **Arc Beam** - Fire plasma energy. Deals additional damage in PvE.
-    -   Has a base damage of 20, dealt as Flamecharm and Thundercall damage. Additionally, this scales with both Flamecharm and Thundercall.
-    -   Can apply both Shock and Burning, or its Path alternate variants.
-    -   12s CD.
-    -   The grounded variant deals 8 posture damage. The aerial variant deals 20 posture damage.
-    -   Can be used in the air to shoot under yourself.
-        -   The Aerial variant has homing properties.
-        -   The aerial variant gains the Oath damage typing alongside its original Flame and Thunder damage typings. The damage this deals is the same as grounded Arc Beam though.
-        -   You have to have downwards momentum for this to activate, wait until after the peak of your jump.
-    -   Instantly grips low health players if the attack were to knock them.
-    -   Can be cancelled early, letting it explode before hitting a target.
-    -   While Arc Suit is active, using Arc Beam restores 70% of your current posture. Additionally your Arc Beam will gain a +50% **base** damage buff during Arc Suit if you have the Arc Module: Enhance Talent.
-    -   Has a 15x PvE multiplier (multiply damage dealt by 15 to get PvE damage).
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Arc Beam** (☆☆☆)
+
+**Combat Mantra**
+
+_Fire plasma energy. Deals additional damage in PvE._
+
+ | 
+
+## Arc Beam (☆☆☆)
+
+  
+**Combat Mantra**  
+_Fire plasma energy. Deals additional damage in PvE._
+
+ |
+| 
+
+TBA [IconEther](Ether.md)
+
+ | 
+
+Fire [ResistanceFlamecharm](Flamecharm.md) + Lightning [ResistanceThundercall](Thundercall.md)  
+Aerial: + Oath [ResistanceOath](Oaths.md)
+
+ | 
+
+TBA
+
+ |
+| 
+
+**Effect:** _The user fires a laser beam projectile out of their eyes. Upon making contact with an obstacle or creature, it explodes, dealing high damage. When cast midair, it gains homing properties._
+
+-   Has a base damage of 20 with 2.75 Flamecharm and Thundercall scaling.
+-   The grounded variant deals 8 posture damage, while the aerial one deals 20.
+-   Has a 12 second cooldown.
+-   Applies [Burn](Status_Effects.md#burn), [Shock](Status_Effects.md#shock), and [Ragdoll](Status_Effects.md#ragdoll) on hit.
+    -   Should you have a Flamecharm or Thundercall Attunement path, these status effects will be transferred into their path variant counterparts. Despite this, the Mantra does not change colors based on Attunement path.
+-   When used while airborne\*, you fire a homing projectile downwards. This adds the Oath damage type to the Mantra.
+    -   \*You need to cast the Mantra during downwards momentum to trigger the aerial variant. This is relatively difficult to pull off from a grounded position while not in Arc Suit.
+    -   The aerial variant has extreme homing, even hitting behind your character.
+-   Gains buffs if the user is in **Arc Suit**;
+    -   Casting Arc Beam clears **70%** of the user's current posture bar. Arc Beam does not need to land to trigger this effect.
+    -   Having the **Arc Module: Enhance** Talent will increase Arc Beam's **base damage** by 50% while the user is in Arc Suit.
+-   This attack can **autogrip** low health players.
+-   Casting Arc Beam while it's active will cause the beam to explode early.
+-   Has a 15x PvE multiplier.
+
+ |
+| 
+
+**Arc Beam** (☆☆☆)
+
+**Combat Mantra**
+
+_Stomp the ground releasing a wave of Arc energy._
+
+ | 
+
+## Arc Beam (☆☆☆)
+
+  
+**Combat Mantra**  
+_Stomp the ground releasing a wave of Arc energy._
+
+ |
+| 
+
+TBA [IconEther](Ether.md)
+
+ | 
+
+Fire [ResistanceFlamecharm](Flamecharm.md) + Lightning [ResistanceThundercall](Thundercall.md)
+
+ | 
+
+Defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)/[Scion of Ethiron](Scion_of_Ethiron.md) twice (total)
+
+ |
+| 
+
+**Effect:** _The user stomps the ground, sending out a damaging wave in an AoE around them._
+
+-   Deals 0 posture damage if blocked.
+-   Has a 12 second cooldown.
+-   Scales on both [Flamecharm](Flamecharm.md) and [Thundercall](Thundercall.md).
+-   Applies [Burn](Status_Effects.md#burn) and [Shock](Status_Effects.md#shock), though uniquely, the shock is a pink color to symbolize plasma.
+    -   Should you have a Flamecharm or Thundercall Attunement path, these status effects will be transferred into their path variant counterparts. Despite this, the Mantra does not change color based on Attunement path.
+-   Gains buffs if the user is in **Arc Suit**;
+    -   Casting Arc Wave clears **50%** of the user's current posture bar. Arc Wave does not need to land to trigger this.
+    -   Having the **Arc Module: Enhance** Talent will increase Arc Wave's **base damage** by 25% while the user is in Arc Suit.
+-   Has a 7.2x PvE multiplier.
+
+ |
 
 #### Support Mantras
 
--   **Arc Suit** - Conjure and equip your Arcwarder suit.
-    -   If you are hit during the wind-up, the Mantra will be canceled.
-    -   Encases the user in durable armor for 20 seconds.
-    -   Can be modified with [Aeon](Mantra_Modifiers.md#regular-modifiers)/[Eternal Logstones](Mantra_Modifiers.md#regular-modifiers). Getting to a duration of 1 minute with 3 [Aeon](Mantra_Modifiers.md#regular-modifiers)/[Eternal Logstones](Mantra_Modifiers.md#regular-modifiers), and 1 minute 15 seconds with 4 [Aeon](Mantra_Modifiers.md#regular-modifiers)/[Eternal Logstones](Mantra_Modifiers.md#regular-modifiers). This however also scales up its cooldown.
-    -   Can be modified with up to 3 [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to increase damage reduction up to 10%.
-    -   [Orbital Ice](Talents.md#orbital-ice) is less effective when used alongside the Arc Suit.
-    -   Comes in Umbral, Black, Gold, Dark Gray, and Light Gray. The Arc Suit and the light emitted from it may also be [dyed](Dye_Packet.md) to any color of your liking.
-    -   While Arc Suit is active, your Arcwarder Mantras will restore a percentage of your current posture.
--   Obtained with the Oath.
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Arc Suit** (☆☆☆)
+
+**Support Mantra**
+
+_Conjure and equip your Arcwarder suit._
+
+ | 
+
+## Arc Suit (☆☆☆)
+
+  
+**Support Mantra**  
+_Conjure and equip your Arcwarder suit._
+
+ |
+| 
+
+TBA [IconEther](Ether.md)
+
+ | 
+
+N/A
+
+ | 
+
+Obtained with the Oath
+
+ |
+| 
+
+**Effect:** _After a lengthy suit up animation, the user enters the Arc Suit, activating several buffs._
+
+-   When equipped with [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers), Arc Suit grants the user damage reduction while active, capping at 10% damage reduction with 3 Vibrant Gems.
+-   Lasts 20 seconds at base, though [Aeon](Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) can be used to increase the duration. Has a maximum duration of 1 minute 15 seconds.
+    -   Arc Suit's cooldown scales proportionately to the duration.
+-   Arc Suit is the catalyst for most of Arcwarder's effects, including **all** of its Talents, and buffs for Arc Beam and Arc Wave.
+    -   Arc Beam and Arc Wave will clear 70% and 50% of the user's current posture on cast respectively, if the user is in Arc Suit.
+-   **Getting hit during the Mantra's wind-up will cancel it entirely.**
+-   [Orbital Ice](Talents.md#orbital-ice) is less effective while Arc Suit is active.
+-   Arc Suit can come in one of 5 different colors when the Oath is obtained. The Arc Suit can also be [dyed](Dye_Packet.md).
+    -   Arc Suit's light can be dyed separately from the suit itself. Though it's important to note that the visual effects from your Arcwarder Talents (namely Arc Module: Dash) do not change colors to accommodate for your dyes.
+    -   The five base colors are: Umbral, Black, Gold, Dark Grey, and Light Grey.
+
+ |
 
 Note: Attacks with multiple damage typings will be resisted by whatever resistance is higher (e.g. if you had 35% Blunt resistance and 30% Wind resistance, you'd resist 35% of Rising Wind's damage). In this case, all of Arcwarder's attacks (except for grounded Arc Beam) deal Oath, Flame, and Thunder damage. This means they will be resisted by either your Flame or Thunder resistance (whichever is higher) unless you're using [Oathless](Oath%253A_Oathless.md) and you have less than 20% Elemental resistance.
 

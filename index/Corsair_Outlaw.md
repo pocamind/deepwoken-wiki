@@ -1,6 +1,6 @@
 ---
 title: Corsair Outlaw
-revid: 199223
+revid: 206700
 source: https://deepwoken.fandom.com/wiki/Corsair_Outlaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits, Bandits]
@@ -15,9 +15,9 @@ categories: [Outfits, Starter Outfits, Bandits]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1200 |
-| resistances | +15% Physical Armor, +10% Elemental Armor |
+| resistances | +15% Physical Armor , +10% Elemental Armor |
 | talents | Lightweight |
-| obtainment | Direct Drop, BanditChests from:, Lower Erisia, Sea Events |
+| obtainment | Bandit (direct drop)Chests from:, Lower Erisia, Sea Events |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |
@@ -34,7 +34,7 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-This outfit has 1200 durability, grants the user +15% Physical Armor, and +10% Elemental Armor. Additionally, it provides the [Lightweight](Talents.md#lightweight) Talent.
+This outfit has 1200 durability, grants the user +15% Physical resistance ResistanceBlunt ResistanceSlash, and +10% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Lightweight](Talents.md#lightweight) Talent.
 
 The [Lightweight](Talents.md#lightweight) Talent increases the users movement speed by 25% when their armor's durability reaches 0.
 

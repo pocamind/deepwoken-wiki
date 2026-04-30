@@ -1,6 +1,6 @@
 ---
 title: Navaen Nomad Robes
-revid: 204772
+revid: 206715
 source: https://deepwoken.fandom.com/wiki/Navaen_Nomad_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits, The Children of Navae]
@@ -17,7 +17,7 @@ categories: [Outfits, Adept Outfits, The Children of Navae]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1800 |
-| resistances | +10% Physical Armor, +10% Elemental Armor, +10% Blunt Armor, +15% Ice Armor, +15% Shadow Armor |
+| resistances | +10% Physical Armor , +10% Blunt Armor , +10% Elemental Armor , +15% Ice Armor , +15% Shadow Armor |
 | buffs | +50% Stealth |
 | obtainment | Nomad camp at Etris, Sold by Traan Zakshun for 200 Chests from:, Erisia/General Sea Event Loot, Moon's Eyrie, Minityrsa, Summer Isle, Primadon, Titan of the East |
 | selling_price | 10 |
@@ -35,8 +35,8 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 5 
 
 ### _Armor Stats_
 
-This Outfit has 1800 durability, grants +10% Physical resistance, +10% Elemental resistance, +10% Blunt resistance, +15% Ice resistance, +15% Shadow resistance, and +50% [Stealth](Stealth.md). Additionally, it provides the [Fists of Navae](Talents.md#fists-of-navae) Talent.
+This Outfit has 1800 durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, +10% Blunt resistance ResistanceBlunt, +10% Elemental resistance [ResistanceElemental](Attunements.md), +15% Ice resistance [ResistanceFrostdraw](Frostdraw.md), +15% Shadow resistance [ResistanceShadowcast](Shadowcast.md), and +50% [Stealth](Stealth.md) [IconStealth](Stealth.md). Additionally, it provides the [Fists of Navae](Talents.md#fists-of-navae) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 19% Blunt, 10% Slash, 23.5% Frostdraw, 23.5% Shadowcast, and 10% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 19% Blunt ResistanceBlunt, 10% Slash ResistanceSlash, 23.5% Frostdraw [ResistanceFrostdraw](Frostdraw.md), 23.5% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 10% Elemental [ResistanceElemental](Attunements.md).
 
 The [Fists of Navae](Talents.md#fists-of-navae) Talent doubles the amount of Ether gained from landed basic attacks.

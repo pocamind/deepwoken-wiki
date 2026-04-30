@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Uniform
-revid: 202456
+revid: 206711
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits, The Ignition Union]
@@ -16,7 +16,7 @@ categories: [Outfits, Adept Outfits, The Ignition Union]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 2000 |
-| resistances | +22% Physical Armor, +22% Elemental Armor |
+| resistances | +22% Physical Armor , +22% Elemental Armor |
 | obtainment | Sold by:, Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 , Sold at Miner's Landing Bank for 50 Chests from:, Erisia/General Sea Event Loot, Primadon, The Depths, LodestarVow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
 | weight | 1 |
@@ -34,7 +34,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 6 
 
 ### _Armor Stats_
 
-This Outfit has 2000 durability, grants +22% Physical resistance, and +22% Elemental resistance.
+This Outfit has 2000 durability, grants +22% Physical resistance ResistanceBlunt ResistanceSlash, and +22% Elemental resistance [ResistanceElemental](Attunements.md).
 
 ## Trivia
 

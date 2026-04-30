@@ -1,6 +1,6 @@
 ---
 title: "Traveller's Jacket"
-revid: 194765
+revid: 206694
 source: https://deepwoken.fandom.com/wiki/Traveller's_Jacket
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits]
@@ -34,7 +34,7 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability and grants +10% Physical resistance.
+This Outfit has 1000 durability and grants +10% Physical resistance ResistanceBlunt ResistanceSlash.
 
 ## Trivia
 

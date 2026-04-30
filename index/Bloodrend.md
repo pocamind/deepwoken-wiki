@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 205674
+revid: 206684
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -132,11 +132,11 @@ _Release an amalgamation of your blood._
  |
 | 
 
-25 Ether
+25 Ether [IconEther](Ether.md)
 
  | 
 
-Blood
+Blood [ResistanceBloodrend](Bloodrend.md)
 
  | 
 
@@ -171,11 +171,11 @@ _Conjure a bloody cross._
  |
 | 
 
-25 Ether
+25 Ether [IconEther](Ether.md)
 
  | 
 
-Blood
+Blood [ResistanceBloodrend](Bloodrend.md)
 
  | 
 
@@ -208,11 +208,11 @@ _Conjure a scythe of blood and swing._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Blood
+Blood [ResistanceBloodrend](Bloodrend.md)
 
  | 
 
@@ -243,11 +243,11 @@ _Create stakes of blood._
  |
 | 
 
-25 Ether
+25 Ether [IconEther](Ether.md)
 
  | 
 
-Blood
+Blood [ResistanceBloodrend](Bloodrend.md)
 
  | 
 
@@ -281,11 +281,11 @@ _Leap into the air and slam down with vengeance._
  |
 | 
 
-35 Ether
+80 Ether [IconEther](Ether.md)
 
  | 
 
-Blood +
+Blood [ResistanceBloodrend](Bloodrend.md) + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -322,11 +322,11 @@ _Release blood daggers. Recast to call them._
  |
 | 
 
-30 Ether
+30 Ether [IconEther](Ether.md)
 
  | 
 
-Blood
+Blood [ResistanceBloodrend](Bloodrend.md)
 
  | 
 
@@ -360,11 +360,11 @@ _Slash upwards and launch slashes of blood._
  |
 | 
 
-30 Ether
+30 Ether [IconEther](Ether.md)
 
  | 
 
-Blood
+Blood [ResistanceBloodrend](Bloodrend.md)
 
  | 
 
@@ -395,11 +395,11 @@ _Create weapons on your arms and dash through._
  |
 | 
 
-25 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Blood
+Blood [ResistanceBloodrend](Bloodrend.md)
 
  | 
 
@@ -431,11 +431,11 @@ _Create a cyclone of blood._
  |
 | 
 
-30 Ether
+30 Ether [IconEther](Ether.md)
 
  | 
 
-Blood
+Blood [ResistanceBloodrend](Bloodrend.md)
 
  | 
 
@@ -469,11 +469,11 @@ _Create a giant blood beam._
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
-Blood
+Blood [ResistanceBloodrend](Bloodrend.md)
 
  | 
 
@@ -506,11 +506,11 @@ _Grab and siphon blood out of your victim._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Blood
+Blood [ResistanceBloodrend](Bloodrend.md)
 
  | 
 
@@ -541,11 +541,11 @@ _Charge up a strong punch infused with your blood._
  |
 | 
 
-35 Ether
+35 Ether [IconEther](Ether.md)
 
  | 
 
-Blood
+Blood [ResistanceBloodrend](Bloodrend.md)
 
  | 
 
@@ -582,11 +582,11 @@ _Manipulate the blood within your target's body._
  |
 | 
 
-50 Ether
+100 Ether [IconEther](Ether.md)
 
  | 
 
-Blood
+Blood [ResistanceBloodrend](Bloodrend.md)
 
  | 
 
@@ -624,11 +624,11 @@ _Summon the Bloodtide and perform a sacrificial judgement._
  |
 | 
 
-80 Ether
+80 Ether [IconEther](Ether.md)
 
  | 
 
-Blood
+Blood [ResistanceBloodrend](Bloodrend.md)
 
  | 
 
@@ -695,11 +695,11 @@ _Create or jump into a pool of blood._
  |
 | 
 
-35 Ether
+35 Ether [IconEther](Ether.md)
 
  | 
 
-Blood
+Blood [ResistanceBloodrend](Bloodrend.md)
 
  | 
 
@@ -737,11 +737,11 @@ _Create tendrils of blood._
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
-Blood
+Blood [ResistanceBloodrend](Bloodrend.md)
 
  | 
 
@@ -808,7 +808,7 @@ _A servant of blood._
  |
 | 
 
-85 Ether
+85 Ether [IconEther](Ether.md)
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper Armor
-revid: 199625
+revid: 206710
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits, The Covenant of Flame]
@@ -18,7 +18,7 @@ categories: [Outfits, Adept Outfits, The Covenant of Flame]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1000 |
-| resistances | +10% Physical Armor, +5% Elemental Armor, +25% Fire Armor |
+| resistances | +10% Physical Armor , +5% Elemental Armor , +25% Fire Armor |
 | talents | Intrepid Flame |
 | obtainment | Bought from:, Etris, behind Lance's food shop, Sold in Traan Zakshun's regular shop for 80 Chests:, Erisia/General Sea Event Loot, Lodestar, Miner's LandingVow of Iron:, Sold in Naan Zakshun's regular shop for 80 , Flame Worshipper Memento (automatically crafted) |
 | selling_price | 10 |
@@ -37,9 +37,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 5 
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability, grants +10% Physical resistance, +5% Elemental resistance, and +25% Fire resistance. Additionally, it provides the [Intrepid Flame](Talents.md#intrepid-flame) Talent.
+This Outfit has 1000 durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, +5% Elemental resistance [ResistanceElemental](Attunements.md), and +25% Fire resistance [ResistanceFlamecharm](Flamecharm.md). Additionally, it provides the [Intrepid Flame](Talents.md#intrepid-flame) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 10% Physical, 28.75% Flamecharm, and 5% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 10% Physical, 28.75% Flamecharm [ResistanceFlamecharm](Flamecharm.md), and 5% Elemental [ResistanceElemental](Attunements.md).
 
 The [Intrepid Flame](Talents.md#intrepid-flame) Talent extinguishes [burn](Status_Effects.md#burn) twice as quickly from the user. Note that this doesn't affect burn damage, but only halves its maximum duration, making this Talent quite weak.
 

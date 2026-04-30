@@ -1,6 +1,6 @@
 ---
 title: Whaler Initiate
-revid: 202638
+revid: 206696
 source: https://deepwoken.fandom.com/wiki/Whaler_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits, The Knives of Eylis]
@@ -17,7 +17,7 @@ categories: [Outfits, Starter Outfits, The Knives of Eylis]
 | bankable | No |
 | droppable | No |
 | durability | 1500 |
-| resistances | +15% Physical Armor, +5% Elemental Armor |
+| resistances | +15% Physical Armor , +5% Elemental Armor |
 | buffs | +25% Stealth |
 | obtainment | Voidwalker Origin (automatically crafted) |
 | selling_price | N/A |
@@ -36,7 +36,7 @@ This Outfit has no [Attribute](Attributes.md) requirement, but has a [Power](Pow
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability, grants +15% Physical resistance, +5% Elemental resistance, and +25% [Stealth](Stealth.md).
+This Outfit has 1500 durability, grants +15% Physical resistance ResistanceBlunt ResistanceSlash, +5% Elemental resistance [ResistanceElemental](Attunements.md), and +25% [Stealth](Stealth.md) [IconStealth](Stealth.md).
 
 ## Trivia
 
