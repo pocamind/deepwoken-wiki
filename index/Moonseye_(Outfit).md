@@ -1,6 +1,6 @@
 ---
 title: Moonseye (Outfit)
-revid: 202662
+revid: 206473
 source: https://deepwoken.fandom.com/wiki/Moonseye_(Outfit)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]

@@ -1,6 +1,6 @@
 ---
 title: "Stratos' Cloak"
-revid: 206442
+revid: 206470
 source: https://deepwoken.fandom.com/wiki/Stratos'_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Outfits, Unique Outfits, Etrea]

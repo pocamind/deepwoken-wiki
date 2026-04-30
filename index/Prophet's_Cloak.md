@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Cloak"
-revid: 205219
+revid: 206561
 source: https://deepwoken.fandom.com/wiki/Prophet's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, The Ministry]
@@ -18,7 +18,7 @@ categories: [Outfits, Master Outfits, The Ministry]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 2600 |
-| resistances | +25% Physical Armor, +25% Elemental Armor, +20% Ice Armor, +20% Fire Armor |
+| resistances | +25% Physical Armor , +25% Elemental Armor , +20% Ice Armor , +20% Fire Armor |
 | buffs | +50% Ether Regen |
 | talents | Crippling Darkness |
 | obtainment | Sold by Nyanna for 200 , Sold in Traan Zakshun's regular shop for 200 , Glaive SpellhardtChests from:, Saramaed Hollow, Primadon, The Starswept Valley, The Depths, Diver Journeyman Ambush, The UnderstrandVow of Iron:, Sold in Naan Zakshun's regular shop for 200 |
@@ -38,9 +38,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2600 durability and grants +25% Physical resistance, +25% Elemental resistance, +20% Ice resistance, +20% Fire resistance and +50% Ether Regen. Additionally, it provides the [Crippling Darkness](Talents.md#crippling-darkness) Talent.
+This Outfit has 2600 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +25% Elemental resistance [ResistanceElemental](Attunements.md), +20% Ice resistance [ResistanceFrostdraw](Frostdraw.md), +20% Fire resistance [ResistanceFlamecharm](Flamecharm.md) and +50% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Crippling Darkness](Talents.md#crippling-darkness) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical, 40% Flamecharm, 40% Frostdraw, and 25% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistanceBlunt ResistanceSlash, 40% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 40% Frostdraw [ResistanceFrostdraw](Frostdraw.md), and 25% Elemental [ResistanceElemental](Attunements.md).
 
 The [Crippling Darkness](Talents.md#crippling-darkness) Talent gives the user 20% PEN to any non-weapon attack, such as Mantras and Talent abilities. Additionally, because [Reinforce's](Attunement-less.md#reinforce) general resistance is affected by PEN, Crippling darkness allows your typeless damage attacks (e.g. [Bleed](Status_Effects.md#bleed)) to deal more damage against Reinforce users than you would otherwise.
 

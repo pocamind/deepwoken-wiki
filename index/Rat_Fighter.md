@@ -1,6 +1,6 @@
 ---
 title: Rat Fighter
-revid: 184669
+revid: 206521
 source: https://deepwoken.fandom.com/wiki/Rat_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, The Golden Rats]
@@ -80,3 +80,4 @@ A Rat Fighter executes the player after knocking them.
 ## Trivia
 
 -   The Rat Fighter is one of five enemies able to wield a Soulwrought Axe, which can only be obtained by the player through the [Crazy Slots](Crazy_Slots.md) Resonance, the others being [Golden Warrior](Golden_Warrior.md), [Golden Rat Bouncer](Golden_Rat_Bouncer.md), [Immortal Guardian](Immortal_Guardian.md), and [Nightmare Immortal Guardian](Immortal_Guardian.md#nightmare).
+-   Rat Fighters and all typical Golden Rat NPCs wear a [Steel Plate](Steel_Plate.md) dyed with the color code `#ffd674`.

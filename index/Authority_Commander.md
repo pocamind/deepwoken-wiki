@@ -1,6 +1,6 @@
 ---
 title: Authority Commander
-revid: 192771
+revid: 206562
 source: https://deepwoken.fandom.com/wiki/Authority_Commander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Outfits of The Central Authority]
@@ -18,7 +18,7 @@ categories: [Outfits, Unique Outfits, Outfits of The Central Authority]
 | bankable | No |
 | droppable | No |
 | durability | 2800 |
-| resistances | +30% Elemental Armor, +30% Physical Armor, +10% Blunt Armor, +10% Fire Armor |
+| resistances | +30% Elemental Armor , +30% Physical Armor , +10% Blunt Armor , +10% Fire Armor |
 | buffs | +20% Ether Regen |
 | talents | Riot Breaker |
 | obtainment | Layer 2, Scion of Ethiron, Diluvian Mechanism |
@@ -40,9 +40,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-The Outfit has 2800 durability, grants 30% Elemental Armor, +30% Physical Armor, +10% Blunt Armor, +10% Fire Armor, and +20% Ether Regeneration. Additionally, it provides the [Riot Breaker](Talents.md#riot-breaker) Talent.
+The Outfit has 2800 durability, grants 30% Elemental Armor [ResistanceElemental](Attunements.md), +30% Physical Armor ResistanceBlunt ResistanceSlash, +10% Blunt Armor ResistanceBlunt, +10% Fire Armor [ResistanceFlamecharm](Flamecharm.md), and +20% Ether Regeneration [IconEther](Ether.md). Additionally, it provides the [Riot Breaker](Talents.md#riot-breaker) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 37% Blunt, 30% Slash, 37% Flamecharm, and 30% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 37% Blunt ResistanceBlunt, 30% Slash ResistanceSlash, 37% Flamecharm [ResistanceFlamecharm](Flamecharm.md), and 30% Elemental [ResistanceElemental](Attunements.md).
 
 The [Riot Breaker](Talents.md#riot-breaker) Talent makes it so that you receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.
 

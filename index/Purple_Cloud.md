@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 206443
+revid: 206500
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons]
@@ -39,9 +39,13 @@ The Purple Cloud is a Boss drop [Medium Weapon](Weapons.md), obtained after defe
 
 Akin to the [Shattered](Shattered_Katana.md) and [Alloyed Katanas](Katana.md), the [Paired Soul](Talents.md#paired-soul) [Outfit](Outfits.md) Talent increases its damage by 5%.
 
+### In Vow of Iron
+
+In the [Vow of Iron](Vow_of_Iron.md) gamemode, the Purple Cloud is available as a weapon exclusive to the [Drifter](Drifter.md) [Memento](Mementos.md). Instead of attacking with martial arts, the player swings the sword unsheathed, although it bears the same critical and stats, including range, as the Pathfinder version. The neon lavender pattern on the unsheathed blade in Pathfinder is changed to a saturated magenta in its Vow of Iron variant, and comes with unique magenta afterimage-styled trail visuals during swinging.
+
 ## Critical
 
-The user leans down and grabs the blade's handle before dashing forwards, teleporting behind the first enemy hit, dealing **1.2x** scaled damage and high posture damage with the blade. This critical innately applies [Bleed](Status_Effects.md#bleed) damage.
+The user leans downward and grabs the blade's handle before dashing forwards, teleporting behind the first enemy hit, dealing **1.2x** scaled damage and high posture damage with the blade. This critical innately applies [Bleed](Status_Effects.md#bleed) damage.
 
 The critical has a cooldown of **7 seconds**.
 
@@ -57,3 +61,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 -   Despite this weapon looking as if it is a light weapon (using your fists and legs instead of the blade), it keeps the stats of a medium weapon with the average damage, attack speed and slightly below average range as what you would expect from a medium weapon.
 -   It can only be used one-handed.
 -   Clones wield the weapon unsheathed.
+-   Vow of Iron's version of Purple Cloud shares its swing animations with [Umbrite Witherblade](Umbrite_Witherblade.md).

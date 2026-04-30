@@ -1,6 +1,6 @@
 ---
 title: Gremorian Longspear
-revid: 202828
+revid: 206588
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Spears, Alloyed Weapons, The Children of Navae, Medium Weapons, Navae Weapons]

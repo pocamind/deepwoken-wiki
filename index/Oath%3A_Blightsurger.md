@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 206123
+revid: 206573
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -143,28 +143,24 @@ You _**cannot**_ oath skip Blightsurger. Attempting to do will have Brutus beat 
 #### Combat Mantras
 
 -   **Skycrash** - Leap towards your enemies and stomp knocking up enemies caught.
-    -   Deals 35 Blunt & Oath damage, the followup strike deals 20 Blunt & Oath damage. Both hits have 1.65 Strength scaling.
+    -   Deals 35 Oath damage, the followup strike deals 20 Oath damage. Both hits have 1.65 Strength scaling.
     -   Ragdolls and applies Daze on hit.
     -   During the leap, you will have hyperarmor for 1 second.
     -   While under the effects of Sovereign State, Skycrash will automatically be used a second time.
 
 -   **Sovereign Drive** - Dash forward in a blink, knocking down enemies in your path.
-    -   Deals 18 Blunt & Oath damage with 1.65 Strength scaling.
+    -   Deals 18 Oath damage with 1.65 Strength scaling.
     -   Applies Daze and Blightshock on hit.
     -   Knockdowns on hit.
 
 -   **Warp Kick** - Perform a kick, then warp to your enemies for a second followup kick.
-    -   Each hit deals 20 Blunt & Oath damage with 1.65 Strength scaling (hits twice).
+    -   Each hit deals 20 Oath damage with 1.65 Strength scaling (hits twice).
     -   Knocks the opponent back on the second hit, despite what is shown in the gif below.
     -   Teleports to opponents within range.
     -   Applies Blightshock on hit.
 
-Note: Attacks with multiple damage typings will be resisted by whatever resistance is higher (e.g. if you had 35% Blunt resistance and 30% Wind resistance, you'd resist 35% of Rising wind's damage). In this case, most of Blightsurger's attacks deal Oath and Blunt damage. This means they will be resisted by your Blunt resistance unless you're using [Oathless](Oath%253A_Oathless.md) and you have less than 20% Blunt resistance.
-
 ## Trivia
 
--   If you speak to [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) while meeting Blightsurger's requirements and chose the correct dialogue options, you can still obtain the Oath even if you don't meet its requirements afterwards.
-    -   For example, if you use [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) or [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md) to lower your stats below Blightsurger's requirements or lose [Hundred Legions](The_Hundred_Legions.md) reputation, you will still obtain Blightsurger upon speaking to [Brutus](Brutus.md).
 -   If you are an [Authority Ensign](Authority_Ensign.md), you will not be able to obtain this Oath unless you are a [Khan](Khan.md) or have the [Celebrity](Talents.md#celebrity) Talent, due to your reputation capping before you meet the Oath's reputation requirement otherwise.
 -   You cannot skip Blightsurger's Oath progression with Knowledge. Attempting to do so will result in [Brutus](Brutus.md) beating you up, with him stating: "Should've listened. _No shortcuts_." This is because, for some reason, doing so would leave Dexerius unable to give the Oath buffs, somehow, for unknown reasons.[\[1\]](#cite-note-1)
 -   This is Dexerius' fourth Oath. His other works are [Saintsworn](Oath%253A_Saintsworn.md), [Arcwarder](Oath%253A_Arcwarder.md), and [Visionshaper](Oath%253A_Visionshaper.md).
@@ -172,7 +168,6 @@ Note: Attacks with multiple damage typings will be resisted by whatever resistan
 -   This Oath is used by [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
 -   Blightsurger's requirements have changed three times since its addition, and all three changes were done within the first week of the Oath being added. While the attunement requirement remained the same, the core attribute requirement has been changed multiple times.
 -   Blightsurger once had a game-breaking bug that happened whenever you used Skycrash, you would be launched into oblivion, killing you instantly. (similar to [AA-gun deaths](<Terminology_(game).md#aa-gunaa-gunned>))
--   Blightsurger is currently the only [Oath](Oaths.md) to not have a unique icon for itself, instead using the generic fist [Talent](Talents.md) Card icon.
 
 ## References
 

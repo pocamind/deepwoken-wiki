@@ -1,6 +1,6 @@
 ---
 title: Mr Toon
-revid: 202680
+revid: 206463
 source: https://deepwoken.fandom.com/wiki/Mr_Toon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits, Developer Spec]
@@ -19,7 +19,7 @@ notices:
 | bankable | No |
 | droppable | No |
 | durability | 2600 |
-| resistances | +30% Physical Armor, +30% Elemental Armor, +20% Lightning Armor, +20% Shadow Armor |
+| resistances | +30% Physical Armor+30% Elemental Armor, +20% Lightning Armor, +20% Shadow Armor |
 | buffs | +100% Ether Regen+16 Sanity |
 | talents | Vow of Mastery |
 | selling_price | 10 |
