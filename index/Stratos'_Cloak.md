@@ -1,6 +1,6 @@
 ---
 title: "Stratos' Cloak"
-revid: 194703
+revid: 206442
 source: https://deepwoken.fandom.com/wiki/Stratos'_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Outfits, Unique Outfits, Etrea]
@@ -14,7 +14,7 @@ categories: [Pathfinder Exclusive, Outfits, Unique Outfits, Etrea]
 | tier | Unique |
 | crafting_req | x5 Cloth, x10 Erisore, x2 Strange Claw, x1 Vibrant Gem, x1 Wind Gem |
 | stat_req | Power 15 |
-| bankable | Yes |
+| bankable | No |
 | droppable | No |
 | durability | 2200 |
 | resistances | +20% Physical Armor, +30% Elemental Armor, +25% Shadow Armor |

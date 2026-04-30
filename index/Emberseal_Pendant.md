@@ -1,6 +1,6 @@
 ---
 title: Emberseal Pendant
-revid: 206405
+revid: 206437
 source: https://deepwoken.fandom.com/wiki/Emberseal_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces]
@@ -17,10 +17,10 @@ categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces]
 | weight | 0.5 |
 | innate stats | N/A |
 | innate talent | Pyreborne |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Depths loot bagsSolborn Memento |
 | description | ... |
 

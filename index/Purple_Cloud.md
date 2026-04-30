@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 203611
+revid: 206443
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons]
@@ -53,8 +53,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
     -   This is because the Purple Cloud is sheathed most of the time, and when it is unsheathed for the critical, the blade is put right back in its place, so it would just deal delayed critical damage
     -   The other weapons that possess scabbards are the [Katana](Katana.md), [Shattered Katana](Shattered_Katana.md), and the [Bloodfouler](Bloodfouler.md)
 -   Despite being a pseudo fist-type weapon, it does not proc/activate Talents related to fists.
--   Its critical attack is based on the martial art "Iaido."
-    -   This involves quickly drawing and sheathing the sword in order to attack or defend.
--   Despite this weapon looking as if it is a light weapon (using your fists and legs instead of the blade), it keeps the stats of a medium with the average damage, attack speed and slightly below average range as what you would expect from a medium weapon.
+-   Its critical attack is based on the martial art "Iaido", which involves quickly drawing and sheathing the sword in order to attack or defend.
+-   Despite this weapon looking as if it is a light weapon (using your fists and legs instead of the blade), it keeps the stats of a medium weapon with the average damage, attack speed and slightly below average range as what you would expect from a medium weapon.
 -   It can only be used one-handed.
 -   Clones wield the weapon unsheathed.

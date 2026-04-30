@@ -1,6 +1,6 @@
 ---
 title: Sweetgourd
-revid: 206394
+revid: 206438
 source: https://deepwoken.fandom.com/wiki/Sweetgourd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Food]
@@ -16,8 +16,8 @@ categories: [Vow of Iron Exclusive, Food]
 | food type | Plant |
 | stomach | ?% |
 | water | ?% |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | pass down | No |
 | desc | Large and sweet, extremely fulfilling. |
 | obtainment | Naan Zakshun's Black Market (4,000 ) |
