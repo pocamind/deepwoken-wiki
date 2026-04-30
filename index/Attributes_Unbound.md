@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 206328
+revid: 206737
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -104,7 +104,7 @@ Alternatively, weapon can also be unbounded by reaching 75 points on the desired
 2.  Defeat any humanoid [Boss](Bosses.md).
     -   This includes: [Ferryman](The_Ferryman.md), [Duke of Erisia](Duke_Ishamon_Erisia.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Maestro](Maestro_Evengarde_Rest.md) and [Titus](Titus_Fulminus_Destellus.md).
 
-**Important Note:** _**In order to unbound your Attunement, you have to deal majority of the damage.**_
+**Important Note:** _**In order to unbound your Attunement, you have to deal a majority of the damage.**_
 
 ## Trivia
 

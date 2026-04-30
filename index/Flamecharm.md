@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 206660
+revid: 206756
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -28,21 +28,21 @@ The [Attunement Trainer](Attunement_Trainers.md), [Amashi](Amashi,_Master_of_Fla
 
 ## Training
 
-Flamecharm can be trained with a combination of the [Hearthgem](Training_Gear.md#attunement-training-gears) and landing Flamecharm Mantras.
+Flamecharm can be trained by using [Hearthgem](Training_Gear.md#attunement-training-gears) to increase the attribute after either landing Flamecharm Mantras or eating [Dying Embers](Dying_Embers.md) for EXP.
 
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 
 -   At 1 Flamecharm, players will receive the _Flamecharmer_ Talent. This allows players to obtain 0-star Flamecharm Mantras.
--   At 20 Flamecharm, players will receive the _Adept Flamecharmer_ Talent. This allows players to obtain 1-star Flamecharm mantras.
--   At 30 Flamecharm, players will receive the _Expert Flamecharmer_ Talent. This allows players to obtain 2-star Flamecharm mantras.
--   Finally, 50 Flamecharm, players will receive the _Master Flamecharmer_ Talent. This allows players to obtain 3-star Flamecharm Mantras.
+-   At 20 Flamecharm, players will receive the _Adept Flamecharmer_ Talent. This allows players to obtain 1-star Flamecharm Mantras.
+-   At 30 Flamecharm, players will receive the _Expert Flamecharmer_ Talent. This allows players to obtain 2-star Flamecharm Mantras.
+-   Finally, at 50 Flamecharm, players will receive the _Master Flamecharmer_ Talent. This allows players to obtain 3-star Flamecharm Mantras.
 
 You can speak to [Amashi](Amashi,_Master_of_Flame.md) at [Songseeker Wilds](Songseeker_Wilds.md) or a [Mantra Lectern](Mantra_Lectern.md) to upgrade your Flamecharm Mantras for 100 each. Each upgrade purchased will make the next upgrade for the same Mantra 100 more expensive.
 
--   Upgrading a Flamecharm Mantra from level 1 to level 2 costs 100 and requires 20 Flamecharm investment.
--   Upgrading a Flamecharm Mantra from level 2 to level 3 costs 200 and requires 40 Flamecharm investment.
--   Upgrading a Flamecharm Mantra from level 3 to level 4 costs 300 and requires 60 Flamecharm investment.
--   Upgrading a Flamecharm Mantra from level 4 to level 5 costs 400 and requires 80 Flamecharm investment.
+-   To upgrade a Flamecharm Mantra from level 1 to level 2 costs 100 and 20 Flamecharm investment.
+-   To upgrade a Flamecharm Mantra from level 2 to level 3 costs 200 and 40 Flamecharm investment.
+-   To upgrade a Flamecharm Mantra from level 3 to level 4 costs 300 and 60 Flamecharm investment.
+-   To upgrade a Flamecharm Mantra from level 4 to level 5 costs 400 and 80 Flamecharm investment.
 
 [Flamecharm Unbound](Attributes_Unbound.md#attunement-unbound) can be obtained by defeating any humanoid [boss](Bosses.md) (Duke, Chaser, Ferryman, etc), while having 75 points invested into the attunement.
 

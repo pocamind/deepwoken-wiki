@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 206662
+revid: 206755
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -18,9 +18,15 @@ Frostdraw icon
 
 **Frostdraw** is an [Attunement](Attunements.md) that grants the user the ability to bring forth frost and the freezing cold, giving them access to abilities which focus on area denial and debuffs. Frostdraw is slightly slower compared to other [Attunements](Attunements.md), but still offers offensive options that are relatively quick and cunning. This translates to the fact that the Attunement would fit well to people who have a defensive approach to combat.
 
-Landing Frostdraw [Mantras](Mantras.md) applies Chill, which slows down enemies and is able to be improved upon with certain [Talents](Talents.md). Adding [Logstones](Mantra_Modifiers.md#regular-modifiers) to certain Mantras can increase the duration of Chill.
+### Abilities
 
-Having any Frostdraw [Mantra](Mantras.md) means that you'll automatically purify certain forms of unsafe water (excluding sea water), similar to the [Purifying Ring](Purifying_Ring.md). This is part of the Cantrips system that was introduced on March 21, 2026.
+Landing Frostdraw [Mantras](Mantras.md) applies [Chill](Status_Effects.md#chill), which slows down enemies and is able to be improved upon with certain [Talents](Talents.md). Adding [Logstones](Mantra_Modifiers.md#regular-modifiers) to certain Mantras can increase the duration of Chill.
+
+### Cantrip(s)
+
+Cantrips are, often minor, passive abilities that are granted upon obtaining any Mantra from the respective Attunement.
+
+**Purifying Frost** - Having any Frostdraw [Mantra](Mantras.md) means that you'll automatically purify certain forms of unsafe water, including any unsafe water collected in your [Canteen](Canteen.md) (excluding sea water), similar to the [Purifying Ring](Purifying_Ring.md).
 
 ## Obtainment
 
@@ -32,35 +38,27 @@ A Hemafrosted Capra casting a beam of ice.
 
 This is where the Attunement trainer is located.
 
-Frostdraw can be trained by using a combination of [Hemafrost](Training_Gear.md#attunement-training-gears), Frostdraw Mantras, and [Frigid Prisms](Frigid_Prism.md).
+Frostdraw can be trained by using [Hemafrost](Training_Gear.md#attunement-training-gears) to increase the attribute after either landing Frostdraw Mantras or eating [Frigid Prisms](Frigid_Prism.md) for EXP.
 
-Along with all other elements, users can see their Mantras becoming stronger with training:
+Along with all other elements, users can see their Mantras becoming stronger with practice:
 
--   At 1 Frostdraw, players receive the _Frostdrawer_ Talent, allowing the player to obtain 0-star Frostdraw Mantras.
--   At 20 Frostdraw, players receive the _Adept Frostdrawer_ Talent, allowing the player to obtain 1-star Frostdraw Mantras.
--   At 30 Frostdraw, players receive the _Expert Frostdrawer_ Talent allowing the player to obtain 2-star Frostdraw Mantras.
--   Finally, at 50 Frostdraw, players receive the _Master Frostdrawer_ Talent, allowing them to obtain 3-star Frostdraw Mantras.
+-   At 1 Frostdraw, players will receive the _Frostdrawer_ Talent. This allows players to obtain 0-star Frostdraw Mantras.
+-   At 20 Frostdraw, players will receive the _Adept Frostdrawer_ Talent. This allows players to obtain 1-star Frostdraw Mantras.
+-   At 30 Frostdraw, players will receive the _Expert Frostdrawer_ Talent. This allows players to obtain 2-star Frostdraw Mantras.
+-   Finally, at 50 Frostdraw, players will receive the _Master Frostdrawer_ Talent. This allows players to obtain 3-star Frostdraw Mantras.
 
 You can speak to [Nell](Nell,_Master_of_Frost.md) at [Etris](Etris.md) or a [Mantra Lectern](Mantra_Lectern.md) to upgrade your Frostdraw Mantras for 100 each. Each upgrade purchased will make the next upgrade for the same Mantra 100 more expensive.
 
--   Upgrading a Frostdraw Mantra from level 1 to level 2 costs 100 and requires 20 Frostdraw investment.
--   Upgrading a Frostdraw Mantra from level 2 to level 3 costs 200 and requires 40 Frostdraw investment.
--   Upgrading a Frostdraw Mantra from level 3 to level 4 costs 300 and requires 60 Frostdraw investment.
--   Upgrading a Frostdraw Mantra from level 4 to level 5 costs 400 and requires 80 Frostdraw investment.
+-   To upgrade a Frostdraw Mantra from level 1 to level 2 costs 100 and 20 Frostdraw investment.
+-   To upgrade a Frostdraw Mantra from level 2 to level 3 costs 200 and 40 Frostdraw investment.
+-   To upgrade a Frostdraw Mantra from level 3 to level 4 costs 300 and 60 Frostdraw investment.
+-   To upgrade a Frostdraw Mantra from level 4 to level 5 costs 400 and 80 Frostdraw investment.
 
 [Frostdraw Unbound](Attributes_Unbound.md#attunement-unbound) can be obtained by defeating any humanoid [boss](Bosses.md) (Duke, Chaser, Ferryman, etc), while having 75 points invested into the attunement.
 
 ### Mantra Damage Calculation
 
 The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#mantra-damage-calculation) page. Alternatively, use this **[Desmos calculator](https://www.desmos.com/calculator/xoovzbiltk)**.
-
-## Cantrip(s)
-
-Cantrips are, often minor, passive abilities that are granted upon obtaining any Mantra from the respective Attunement.
-
-### Purifying Frost
-
-This Cantrip automatically purifies any unsafe water that the player collects in their [Canteen](Canteen.md). Seawater cannot be purified.
 
 ## Mantras
 
