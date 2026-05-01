@@ -1,6 +1,6 @@
 ---
 title: A Light In The Sky
-revid: 174475
+revid: 206807
 source: https://deepwoken.fandom.com/wiki/A_Light_In_The_Sky
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -18,7 +18,7 @@ _**A Light In The Sky**_ is a [Book](Books.md) obtained from [Galpin Spellhardt,
 
 A Light In The Sky
 
-> by Prof. Galphin Spellhardt
+> A Fine Musical Broadsheete, by Prof. Galphin Spellhardt
 > 
 > \[The quality paper broadsheet depicts finely hand-written musical notation for a song. The song's four-instrument structure suggests it is best suited for a quartet. The song itself is titled 'A Light In The Sky'. There is a short poem underneath, matching the climax of the song-assumedly written as lyrics. It reads:\]
 > 

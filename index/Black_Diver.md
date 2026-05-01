@@ -1,6 +1,6 @@
 ---
 title: Black Diver
-revid: 199710
+revid: 206862
 source: https://deepwoken.fandom.com/wiki/Black_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, The Divers]
@@ -18,8 +18,8 @@ categories: [Outfits, Master Outfits, The Divers]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 2600 |
-| resistances | +30% Physical Armor, +30% Elemental Armor, +20% Lightning Armor, +20% Shadow Armor |
-| buffs | +50% Ether Regen+16 Sanity |
+| resistances | +30% Physical Armor , +30% Elemental Armor , +20% Lightning Armor , +20% Shadow Armor |
+| buffs | +50% Ether Regen +16 Sanity |
 | obtainment | Chests from:, Fishing, The Depths, Duke Erisia, Sea Events, Sold by Glaive Spellhardt, Nautilodaunt, Fury Nautilodaunt |
 | selling_price | 10 |
 | weight | 1 |
@@ -37,9 +37,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2600 durability and grants +30% Physical resistance, +30% Elemental resistance, +20% Lightning resistance, +20% Shadow resistance, +16 Sanity and +50% Ether Regen.
+This Outfit has 2600 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), +20% Lightning resistance [ResistanceThundercall](Thundercall.md), +20% Shadow resistance [ResistanceShadowcast](Shadowcast.md), +16 Sanity [IconSanity](Insanity.md), and +50% Ether Regen [IconEther](Ether.md).
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 44% Thundercall, 44% Shadowcast, and 30% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 44% Thundercall [ResistanceThundercall](Thundercall.md), 44% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md).
 
 ## Trivia
 

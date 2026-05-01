@@ -1,6 +1,6 @@
 ---
 title: Studies on Canticlysm
-revid: 181007
+revid: 206844
 source: https://deepwoken.fandom.com/wiki/Studies_on_Canticlysm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Book Collections]
@@ -20,54 +20,54 @@ Studies on Canticlysm, Vol. IV
 
 > compiled by Steward Amross, Steward Bridges, et. al
 > 
-> Perhaps there are those who, in their own perspectives, see the Canticlysm as something wholly detrimental to our civilisation, to our way of life. That the idle decadence and reckless inquiries into the Song of our forefathers could only have ever brought ruin, devastation, to the soul of our culture and our world.
+> Perhaps there are those who, in their own perspectives, see the [Canticlysm](Glossary.md#the-canticlysm) as something wholly detrimental to our civilisation, to our way of life. That the idle decadence and reckless inquiries into the Song of our forefathers could only have ever brought ruin, devastation, to the soul of our culture and our world.
 > 
 > As scholars we must look past our desire to condemn the actions of those who came before us, as though we live through the consequences, they were not privy to the knowledge that is now tacit to our generation.
 > 
 > To them, it was a renaissance born from the advent of their greater understanding of the surrounding planes. The very powers of creation seemed only a hair's breadth away, a tantalisingly small gulf for them to cross.
 > 
-> Were we in the same position as they, I’m sure that we would not hesitate to make use of the powers that it brought. And even in our current era, many do not grasp the correlation between the state of the world now and the unmistakable effects of the Song.
+> Were we in the same position as they, I’m sure that we would not hesitate to make use of the powers that it brought. And even in our current era, many do not grasp the correlation between the state of the world now and the unmistakable effects of the [Song](Glossary.md#the-song).
 > 
 > To truly appreciate the world that our forebearers damned, it seems pertinent to set the scene.
 > 
-> From what we know, the Old World took the form of five major landmasses. In those days, the Luminants were mostly contiguous, with what was known as the World’s Edge delineating its circumference. The World’s Edge, of course, is what we now call the Voidsea, and from their histories we can attest that it was equally impassable in their day as it is in ours.
+> From what we know, the [Old World](Glossary.md#the-old-world) took the form of five major landmasses. In those days, the [Luminants](Glossary.md#the-luminants) were mostly contiguous, with what was known as the World’s Edge delineating its circumference. The World’s Edge, of course, is what we now call the [Voidsea](Glossary.md#the-voidsea), and from their histories we can attest that it was equally impassable in their day as it is in ours.
 > 
-> The skies are also said to have been clearer, seemingly devoid of the outstretched fingers of Voidfog that have blotted out our stars and confounded our instruments for centuries. The Voidfog is, of course, one of many lesser-known effects of the Tides. With the naked eye, they appear merely as clouds. Any observer who paid enough attention would realise that these formations are fixed in relative space, moving across our skies in a cycle. When observed through a telescope, the lensing effect becomes apparent, the light seeming to bend and distort around it.
+> The skies are also said to have been clearer, seemingly devoid of the outstretched fingers of [Voidfog](Glossary.md#the-voidfod) that have blotted out our stars and confounded our instruments for centuries. The [Voidfog](Glossary.md#the-voidfog) is, of course, one of many lesser-known effects of the [Tides](Glossary.md#the-tides). With the naked eye, they appear merely as clouds. Any observer who paid enough attention would realise that these formations are fixed in relative space, moving across our skies in a cycle. When observed through a telescope, the lensing effect becomes apparent, the light seeming to bend and distort around it.
 > 
-> In these broad and interrupted lands, its people lived lives of plenty, well-fed from their expansive farmland and connected by a flourishing network of trade. Many comparisons can be drawn between their way of life and that of the Felinor fieldfolk of Markor - a topic that has been well documented by our cousins at the Citadel.
+> In these broad and interrupted lands, its people lived lives of plenty, well-fed from their expansive farmland and connected by a flourishing network of trade. Many comparisons can be drawn between their way of life and that of the Felinor fieldfolk of Markor - a topic that has been well documented by our cousins at the [Citadel](Glossary.md#the-citadel-of-markor).
 > 
-> And far beneath these plentiful lands, deeper in those days, lurked the danger that we know now to be the source of our maladies - the Depths. What little accounts we have dredged up of these outer planes in the times before the threat became apparent seem to have largely persisted in the realms of folklore and mythology - tales of sea monsters emerging from the depths of the ocean were often recanted on dark stormy nights, some having more foundation than others.
+> And far beneath these plentiful lands, deeper in those days, lurked the danger that we know now to be the source of our maladies - the [Depths](Glossary.md#the-depths). What little accounts we have dredged up of these outer planes in the times before the threat became apparent seem to have largely persisted in the realms of folklore and mythology - tales of sea monsters emerging from the depths of the ocean were often recanted on dark stormy nights, some having more foundation than others.
 > 
-> Furthermore, though the Song had not yet been discovered, its effects could still be seen. In the years before the Canticlysm, strange creatures would sometimes be found on the shores. Pale gelatinous flesh stretched over their bones, seemingly due to decompression. Bearing no visible relation to any of the animal life they had yet documented, these creatures were kept for research and dissected. Those that lived were unresponsive and did not last long in captivity, seeming to lack some form of nutrition.
+> Furthermore, though the [Song](Glossary.md#the-song) had not yet been discovered, its effects could still be seen. In the years before the [Canticlysm](Glossary.md#the-canticlysm), strange creatures would sometimes be found on the shores. Pale gelatinous flesh stretched over their bones, seemingly due to decompression. Bearing no visible relation to any of the animal life they had yet documented, these creatures were kept for research and dissected. Those that lived were unresponsive and did not last long in captivity, seeming to lack some form of nutrition.
 > 
-> With the creatures often came strange curios and trinkets; artifacts of civilisations that did not belong to the surface world. It is thought it is through the nobles’ fascination with these artifacts that the Song was first discovered.
+> With the creatures often came strange curios and trinkets; artifacts of civilisations that did not belong to the surface world. It is thought it is through the nobles’ fascination with these artifacts that the [Song](Glossary.md#the-song) was first discovered.
 > 
 > What began as a faint whisper heard only by those attuned soon grew into an enthralling melody that was never far away. Even the mere snippets of it that the researchers had retrieved were potent and intoxicating, seeming to promise something ever deeper and ever greater than what they had ever known.
 > 
-> And in capturing the Song and trying to replicate its melodies, strange phenomena began to occur. In the dingy basement of a tavern, a practising musician’s viola burst into flames. A temple erected in service to the growing religion surrounding this newfound Song has its steeple struck by lightning in the middle of their morning prayers.
+> And in capturing the [Song](Glossary.md#the-song) and trying to replicate its melodies, strange phenomena began to occur. In the dingy basement of a tavern, a practising musician’s viola burst into flames. A temple erected in service to the growing religion surrounding this newfound [Song](Glossary.md#the-song) has its steeple struck by lightning in the middle of their morning prayers.
 > 
 > Those that memorised more and more of its tones seemed to gain an ever greater understanding of the world around them and the powers that drove it.
 > 
-> It took a mere generation after its discovery for a renaissance of technology and culture to blossom forth. This great era became known as the Canticlysm - the advent and heyday of the Song. With an easily accessible source of power that came at seemingly no cost beyond one’s stamina, mundane tasks were swiftly trivialised.
+> It took a mere generation after its discovery for a renaissance of technology and culture to blossom forth. This great era became known as the [Canticlysm](Glossary.md#the-canticlysm) - the advent and heyday of the [Song](Glossary.md#the-song). With an easily accessible source of power that came at seemingly no cost beyond one’s stamina, mundane tasks were swiftly trivialised.
 > 
-> As with early man’s discovery of the means to start a fire, the discovery of its manipulation through the Song, known as ‘Flamecharming’, was similarly fundamental in uplifting the world’s technology. Contraptions and new technologies could be fueled simply by the energy of its user, and the greatest asset to mankind’s progress soon became so-called Songwork.
+> As with early man’s discovery of the means to start a fire, the discovery of its manipulation through the [Song](Glossary.md#the-song), known as ‘Flamecharming’, was similarly fundamental in uplifting the world’s technology. Contraptions and new technologies could be fueled simply by the energy of its user, and the greatest asset to mankind’s progress soon became so-called Songwork.
 > 
-> Songworkers were instructed in the use of a limited subset of Flamecharming and were put to work powering machines and foundries. Concentration was vital, and safety was often cast aside in favour of greater efficiency, costing many Songworkers their lives.
+> Songworkers were instructed in the use of a limited subset of [Flamecharming](Glossary.md#flamecharm) and were put to work powering machines and foundries. Concentration was vital, and safety was often cast aside in favour of greater efficiency, costing many Songworkers their lives.
 > 
-> As new processes were developed to advance technology, Songworkers were saddled with ever-increasing workloads. The dissent of the labourers grew with every passing day - given a taste of the Song, the very powers of creation were dangled like a carrot on a string in front of them.
+> As new processes were developed to advance technology, Songworkers were saddled with ever-increasing workloads. The dissent of the labourers grew with every passing day - given a taste of the [Song](Glossary.md#the-song), the very powers of creation were dangled like a carrot on a string in front of them.
 > 
-> Labourers began to gather in secret in the few hours they were afforded to rest a day, pooling their experience together and furthering their understanding of Flamecharming. It’s sometimes mused that in these times, the lowliest Songworker had a better grasp of the Song than the loftiest academic did. While scholars lounged and ruminated on its potential, the labourers were made to use it every minute of every day, coming to know it through intuition.
+> Labourers began to gather in secret in the few hours they were afforded to rest a day, pooling their experience together and furthering their understanding of [Flamecharming](Glossary.md#flamecharm). It’s sometimes mused that in these times, the lowliest Songworker had a better grasp of the [Song](Glossary.md#the-song) than the loftiest academic did. While scholars lounged and ruminated on its potential, the labourers were made to use it every minute of every day, coming to know it through intuition.
 > 
 > With a growing network of support among the labourers, talk of an uprising soon spread across the factories of the world. Unable to hide their anxiety, the ruling class sought to make an example of the dissidents, and with the execution of a prominent labour activist they lit the spark that would soon ignite revolution. Armed with the Song, many Songworkers soon earnt their rights through fire and blood.
 > 
-> Those governments unable to smother the embers of rebellion were toppled and replaced, though not always for the better. Wise to the power the workers held, the long-forgotten arts of Vows were resurrected by the surviving powers, now forcing the Songworkers of many nations into lifelong servitude.
+> Those governments unable to smother the embers of rebellion were toppled and replaced, though not always for the better. Wise to the power the workers held, the long-forgotten arts of [Vows](Glossary.md#vows) were resurrected by the surviving powers, now forcing the Songworkers of many nations into lifelong servitude.
 > 
-> With the widespread devastation exacted on the world by the wars waged through the Song, many did not fully realise the changes that were coming to it. The creatures that emerged from the seas were no longer pallid comatose things, and were now presenting a growing threat to the peoples of seaside settlements.
+> With the widespread devastation exacted on the world by the wars waged through the [Song](Glossary.md#the-song), many did not fully realise the changes that were coming to it. The creatures that emerged from the seas were no longer pallid comatose things, and were now presenting a growing threat to the peoples of seaside settlements.
 > 
 > In time, this threat spread even further inland. Year after year, record flood highs were reached. Mass evacuations sparked across the world, its people frantic to escape a catastrophe they hadn’t foreseen.
 > 
-> But in their flight, they did not abandon the Song. As the tides drew in ever closer, they held it as tightly to their chests as a prayerbook. Seeking the fabled mountaintops of the world’s spine, the Song’s Tides carried the people higher and higher.
+> But in their flight, they did not abandon the [Song](Glossary.md#the-song). As the tides drew in ever closer, they held it as tightly to their chests as a prayerbook. Seeking the fabled mountaintops of the world’s spine, the [Song’s](Glossary.md#the-song) [Tides](Glossary.md#the-tides) carried the people higher and higher.
 > 
-> Where pastures and orchards had once sustained a vast population, the mountain peaks could never sustain nearly enough. Mankind’s understanding withered as its population dwindled. Without fervent research into the Song and its applications, technological advancements ground to a halt.
+> Where pastures and orchards had once sustained a vast population, the mountain peaks could never sustain nearly enough. Mankind’s understanding withered as its population dwindled. Without fervent research into the [Song](Glossary.md#the-song) and its applications, technological advancements ground to a halt.
 > 
-> Despite the relative abandonment of the Song, the Tides never stopped rising, and the Edge of the World hemmed itself inwards. This Edge, the Voidsea, soon extended its fingers into the oceans - no longer seas - that parted the continents of the world. Where once the Voidsea had been a border between the known and the unknown, it now drew its borders between the nations of the world, a seemingly insurmountable obstacle to cross.
+> Despite the relative abandonment of the [Song](Glossary.md#the-song), the [Tides](Glossary.md#the-tides) never stopped rising, and the Edge of the World hemmed itself inwards. This Edge, the [Voidsea](Glossary.md#the-voidsea), soon extended its fingers into the oceans - no longer seas - that parted the continents of the world. Where once the [Voidsea](Glossary.md#the-voidsea) had been a border between the known and the unknown, it now drew its borders between the nations of the world, a seemingly insurmountable obstacle to cross.

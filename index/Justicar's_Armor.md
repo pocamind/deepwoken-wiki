@@ -1,6 +1,6 @@
 ---
 title: "Justicar's Armor"
-revid: 204130
+revid: 206877
 source: https://deepwoken.fandom.com/wiki/Justicar's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits]
@@ -17,7 +17,7 @@ categories: [Outfits, Master Outfits]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 2800 |
-| resistances | +30% Physical Armor, +30% Elemental Armor, +5% Ice Armor, +5% Blunt Armor, +5% Shadow Armor |
+| resistances | +30% Physical Armor , +5% Blunt Armor , +30% Elemental Armor , +5% Ice Armor , +5% Shadow Armor |
 | buffs | +20% Ether Regen |
 | talents | The Path, Unveiled |
 | obtainment | Chests from:, Etris: Siege, Fishing, Crypt of the Unbroken, Maestro Evengarde RestOther:, Fury Nautilodaunt (direct drop), Sold by Glaive Spellhardt |
@@ -37,9 +37,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2800 durability and grants +30% Physical Armor, +30% Elemental Armor, +5% Ice Armor, +5% Blunt Armor, +5% Shadow Armor and 20% Ether Regen. Additionally, it provides the [The Path, Unvieled](Talents.md#the-path-unvieled) Talent.
+This Outfit has 2800 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +5% Blunt resistance ResistanceBlunt, +30% Elemental resistance [ResistanceElemental](Attunements.md), +5% Ice resistance [ResistanceFrostdraw](Frostdraw.md), +5% Shadow Armor [ResistanceShadowcast](Shadowcast.md), and +20% Ether Regen [IconEther](Ether.md). Additionally, it provides the [The Path, Unvieled](Talents.md#the-path-unvieled) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 33.5% Blunt, 30% Slash, 33.5% Frostdraw, 33.5% Shadowcast, and 30% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 33.5% Blunt ResistanceBlunt, 30% Slash ResistanceSlash, 33.5% Frostdraw [ResistanceFrostdraw](Frostdraw.md), 33.5% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 
 The [The Path, Unveiled](Talents.md#the-path-unveiled) Talent increases your [Jus Karita](Jus_Karita.md)/[Anklets of Alsin](Anklets_of_Alsin.md) damage by 10%.
 

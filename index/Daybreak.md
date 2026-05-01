@@ -1,8 +1,9 @@
 ---
 title: Daybreak
-revid: 201821
+revid: 206875
 source: https://deepwoken.fandom.com/wiki/Daybreak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Weapons]
 ---
 
 # Daybreak

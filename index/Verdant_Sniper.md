@@ -1,6 +1,6 @@
 ---
 title: Verdant Sniper
-revid: 205218
+revid: 206854
 source: https://deepwoken.fandom.com/wiki/Verdant_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits]
@@ -18,7 +18,7 @@ categories: [Outfits, Expert Outfits]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1500 |
-| resistances | +25% Physical Armor, +20% Elemental Armor, +10% Wind Armor |
+| resistances | +25% Physical Armor , +20% Elemental Armor , +10% Wind Armor |
 | obtainment | Chests from:, Summer Isle |
 | selling_price | 10 |
 | weight | 1 |
@@ -36,14 +36,14 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability and grants +25% Physical resistance, +20% Elemental resistance and +10% Wind resistance.
+This Outfit has 1500 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +20% Elemental resistance [ResistanceElemental](Attunements.md), and +10% Wind resistance [ResistanceGalebreathe](Galebreathe.md).
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical, 28% Galebreathe, and 20% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistanceBlunt ResistanceSlash, 28% Galebreathe [ResistanceGalebreathe](Galebreathe.md), and 20% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
 ## Trivia
 
 -   This armor has a 3D collar, a trait shared only with the [Prophet's Cloak](<Prophet's_Cloak.md>).
-    
+
 -   This armor and it's description is a direct reference to [Shinon](https://fireemblemwiki.org/wiki/Shinon) from Fire Emblem: Path of Radiance, with the original being near identical to his outfit.
 -   **Current** verdant sniper is an outfit made by **KAHAEL**.
 -   Frank F'alzone in the [tutorial](Tutorial.md) uses this outfit.

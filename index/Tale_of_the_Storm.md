@@ -1,6 +1,6 @@
 ---
 title: Tale of the Storm
-revid: 172817
+revid: 206847
 source: https://deepwoken.fandom.com/wiki/Tale_of_the_Storm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -22,7 +22,6 @@ Tale of the Storm
 from Vincent Zeneke's monograph cycle 'Songs of the Sea'  
   
   
-   
 Come, gather 'round,  
 Hear, sailors, my tale -  
 What awful fate did I meet at the gale!  
@@ -49,8 +48,9 @@ He ordered me haste, and of penalties warned.
 So I set out to town  
 And I sought me a crew -  
 From there one by one did I gather a few.  
-  
-   
+
+* * *
+
 I found me a host -  
 Some eighteen at most  
 Now followed my orders and tended each post.  
@@ -78,8 +78,9 @@ Recall I this moment, and still myself curse!
 We were now in the claws  
 Of a cold, heartless gale,  
 Our masts and the mainsail it quickly assailed.  
-  
-   
+
+* * *
+
 The sea rocked our ship,  
 The tides knocked our course,  
 The wind ripped our sails without any remorse;  
@@ -107,8 +108,11 @@ Of raggedy sailors, some fourteen at most.
 When we heard a grim gurgle  
 That came from the rear -  
 A mudskipper's gale gave us plenty to fear.  
+
+* * *
+
   
-   
+
 Two men lost their ground,  
 And slipped on the stones -  
 They fell to the water with naught but a groan;  
@@ -143,8 +147,9 @@ Did flash in the storm to the sailors beneath.
 In a ravenous hunger  
 Its maw claimed a few,  
 Through numerous others its claws would soon hew.  
-  
-   
+
+* * *
+
 I stumbled away  
 And fled through the rain,  
 Still clutching my wounds and ignoring the pain.  
@@ -172,8 +177,9 @@ My ship lays abandoned, from dusk until dawn...
 But I rowed through the storm,  
 And I wrestled the sea,  
 And when came the morning, a port did I see!  
-  
-   
+
+* * *
+
 I made for the docks  
 And fell on the quay -  
 Exhausted and starving, unconscious I lay.  
@@ -202,14 +208,16 @@ I never will oar,
 Or serve on a ship, from the aft to the fore.  
 And I weep for my comrades -  
 Their fates are my fault!  
-I weep for them still, my tears bitter as salt...
+I weep for them still, my tears bitter as salt...  
 
-> "Tale of the Storm" is a sailors' ballad originating from the Eastern Luminant. Although its author and creation date remain unknown - such is the nature of many folk songs, after all, - given the context of the song, it can be confidently dated to after the Tide. It is difficult to say whether this ballad is based in any true events, though some of it certainly indicates the original author was either a well-travelled sailor, or was familiar with the farther reaches of the sea.
+* * *
+
+> "Tale of the Storm" is a sailors' ballad originating from the [Eastern Luminant](Glossary.md#the-eastern-luminant). Although its author and creation date remain unknown - such is the nature of many folk songs, after all, - given the context of the song, it can be confidently dated to after the Tide. It is difficult to say whether this ballad is based in any true events, though some of it certainly indicates the original author was either a well-travelled sailor, or was familiar with the farther reaches of the sea.
 > 
 > Though not mentioned by name, the descriptions suggest the ballad's narrator and their crew faced off against some beasts still around in our days. Namely, the 'four chitinous beasts' seem to indicate the presence of giant recluse spiders not unlike the so-called Deep Widow found underneath the surface of Aratel (though perhaps smaller), while the 'snub shark-like head' implies a deadly encounter with what we now know as a Megalodaunt.
 > 
 > The unfamiliar landscape and unusual fauna described in the song's narrative - a high-cliffed island some distance away from civilisation, with the presence of several giant nesting spiders in close proximity to the territorial Megalodaunts' breeding grounds, - suggests that the surface world inhabited by the ballad's original author may have been much different to the one we live in today.
 > 
-> While some claim this ballad is a sailor's tall-tale, some scholars argue that this story may have taken place in a now-lost Driftland, a type of migratory island that shifts in and out of the precarious Voidsea - though this hypothesis remains a matter of contentious debate. Some have suggested the names 'Beliran' or 'The Iron Isle' for this hypothetical land.
+> While some claim this ballad is a sailor's tall-tale, some scholars argue that this story may have taken place in a now-lost [Driftland](Glossary.md#driftlands), a type of migratory island that shifts in and out of the precarious [Voidsea](Glossary.md#the-voidsea) - though this hypothesis remains a matter of contentious debate. Some have suggested the names 'Beliran' or 'The Iron Isle' for this hypothetical land.
 > 
-> Furthermore, it has been proposed that it may have existed during the Shallows - the era in our world's history when the peoples of the world were stuck suffering atop former mountain peaks after the Tides rose. It is known, through scarce remaining texts, that Driftland shift was most prominent and fast-paced immediately after the era of the Tides. However, the Shallows are notorious for being a dark spot in the annals of history, for its lack of preserved records.
+> Furthermore, it has been proposed that it may have existed during the [Shallows](Glossary.md#the-shallows) - the era in our world's history when the peoples of the world were stuck suffering atop former mountain peaks after the [Tides](Glossary.md#the-tides) rose. It is known, through scarce remaining texts, that [Driftland](Glossary.md#driftlands) shift was most prominent and fast-paced immediately after the era of the [Tides](Glossary.md#the-tides). However, the [Shallows](Glossary.md#the-shallows) are notorious for being a dark spot in the annals of history, for its lack of preserved records.

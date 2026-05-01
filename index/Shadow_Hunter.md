@@ -1,6 +1,6 @@
 ---
 title: Shadow Hunter
-revid: 206718
+revid: 206834
 source: https://deepwoken.fandom.com/wiki/Shadow_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits]
@@ -38,7 +38,7 @@ This Outfit additionally requires the player have at least 10 [Agility](Attribut
 
 This Outfit has 1500 durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, +5% Elemental resistance [ResistanceElemental](Attunements.md), and +10% Shadow resistance [ResistanceShadowcast](Shadowcast.md). Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 10% Physical ResistanceBlunt ResistanceSlash, 14.5% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 5% Elemental [ResistanceElemental](Attunements.md).
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 10% Physical ResistanceBlunt ResistanceSlash, 14.5% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 5% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 
 The [Lowstride](Talents.md#lowstride) Talent increases your [Stealth](Stealth.md) and movement speed while crouching. Additionally, this removes the sound that sheathing and unsheathing your weapon makes.
 

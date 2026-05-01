@@ -1,6 +1,6 @@
 ---
 title: "The Ferryman's Lullaby"
-revid: 172797
+revid: 206848
 source: https://deepwoken.fandom.com/wiki/The_Ferryman's_Lullaby
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -19,8 +19,7 @@ _**The Ferryman's Lullaby**_ is a [Book](Books.md).
 The Ferryman's Lullaby
 
 or 'I Hear The Tides' - an Etrean folk song  
-    
-    
+  
 Heave-ho, up-row, raising the anchor slowly,  
 Ready to lower sails and go, following course where cold winds blow.  
 Heave-ho, up-row, turning the capstan slowly,  
@@ -36,7 +35,9 @@ Heave-ho, up-row, crossing the ocean slowly,
 Crow's nest is signaling to us, 'nothing is out here, not a fuss!'  
 Heave-ho, up-row, eye the horizon slowly,  
 Not a shore in sight! Neither day, or night!  
-  
+
+* * *
+
 I hear the tides still beckoning and calling -  
 "Now you'll never see the shore again!"  
 Follow the wind and the gale, and perhaps we shall live to tell our tale,  

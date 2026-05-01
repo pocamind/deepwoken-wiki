@@ -1,6 +1,6 @@
 ---
 title: "Coldheart's Journal"
-revid: 188669
+revid: 206812
 source: https://deepwoken.fandom.com/wiki/Coldheart's_Journal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -66,7 +66,7 @@ Coldheart's Journal
 > 
 > You're asking for the impossible. You can't breathe life into a weapon. You've lost the plot.  
 > The bootshiners got a shipment. I saw it when I was prying the spare screws out of the bedframes.  
-> Lifewoven blades. I told you about them remember? But they're not good enough, are they?  
+> [Lifewoven](Glossary.md#lifeweave--lifewoven) blades. I told you about them remember? But they're not good enough, are they?  
 > They don't breathe, do they?  
 > You don't breathe either, I suppose. But you're still alive in there.  
 > Under all that mess. You've been helping me all along.  
@@ -89,7 +89,7 @@ Coldheart's Journal
 > 
 > How is it that I've learnt so much, but progressed so little?  
 > Word is travelling. Just as the witch did. Those filthy labourers found something.  
-> Ironsing. They found it. I don't know how. Maybe someone dredged something up from here?  
+> [Ironsing](Glossary.md#ironsing). They found it. I don't know how. Maybe someone dredged something up from here?  
 > But it won't do. What they found won't do what you're asking for.  
 > You keep asking for it.  
 > No matter how many blades I present you, it's never enough.  

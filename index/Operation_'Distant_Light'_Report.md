@@ -1,6 +1,6 @@
 ---
 title: "Operation 'Distant Light' Report"
-revid: 178616
+revid: 206830
 source: https://deepwoken.fandom.com/wiki/Operation_'Distant_Light'_Report
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -20,11 +20,21 @@ Operation 'Distant Light' Report
 
 > \[CLASSIFIED - ADMIRAL THORM EREBET'S EYES ONLY\]
 > 
-> // - CLASSIFIED INFORMATION - CLEARANCE LEVEL 'TEMPEST' - NO UNAUTHORISED ACCESS - // // Authorized Operation : Distant Light Classification: Reconnaissance - Territorial Survey Correspondent : Alaric Kesset - Authority Navy Captain (CASS 'Shallow Grave') Operation Status : Complete
+> // - CLASSIFIED INFORMATION - CLEARANCE LEVEL 'TEMPEST' - NO UNAUTHORISED ACCESS - //
+> 
+> // Authorized Operation: Distant Light
+> 
+> Classification: Reconnaissance - Territorial Survey
+> 
+> Correspondent: Alaric Kesset - [Authority](Glossary.md#the-central-authority) Navy Captain (CASS 'Shallow Grave')
+> 
+> Operation Status: Complete
 > 
 > // Operation\_Description
 > 
-> Operation Distant Light is a Class I reconnaissance operation. The Captain assigned to this mission is to survey the shores and territories of The Lullaby Isles from sea as precisely as possible, in order to assess the archipelago's strategic value in the Central Luminant. The operation's findings are to be reported to Admiral Thorm Erebet post-haste. The nature of the operation's Class I designation permits retaliatory actions and escalation where they are tactically advantageous.
+> Operation Distant Light is a Class I reconnaissance operation. The Captain assigned to this mission is to survey the shores and territories of The [Lullaby Isles](Glossary.md#the-lullaby-isles) from sea as precisely as possible, in order to assess the archipelago's strategic value in the [Central Luminant](Glossary.md#the-central-luminant). The operation's findings are to be reported to Admiral Thorm Erebet post-haste. The nature of the operation's Class I designation permits retaliatory actions and escalation where they are tactically advantageous.
+> 
+> * * *
 > 
 > // Operation\_Report\_In\_Full
 > 
@@ -34,20 +44,19 @@ Operation 'Distant Light' Report
 > 
 > Fleet Admiral Erebet,
 > 
->   
-> Glory to the Cause. As requested by High Command, the CASS 'Shallow Grave' has accomplished the requested strategic survey of the Lullaby Isles archipelago. The survey was conducted almost entirely at sea, at an observational distance. However, due to unforeseen adverse weather conditions, we were forced to moor the ship on the shores of the Stoneseye mountain range. We did so at my orders, to avoid damage to our vessel from the sudden appearance of a harsh centric storm. During this period, we also conducted a cautious and brief external land survey, before our return to sea. Overall, including our unforeseen forced landing, the operation spanned the course of five days. Presented below are our findings in full.
+> Glory to the Cause. As requested by High Command, the CASS 'Shallow Grave' has accomplished the requested strategic survey of the [Lullaby Isles](Glossary.md#the-lullaby-isles) archipelago. The survey was conducted almost entirely at sea, at an observational distance. However, due to unforeseen adverse weather conditions, we were forced to moor the ship on the shores of the Stoneseye mountain range. We did so at my orders, to avoid damage to our vessel from the sudden appearance of a harsh centric storm. During this period, we also conducted a cautious and brief external land survey, before our return to sea. Overall, including our unforeseen forced landing, the operation spanned the course of five days. Presented below are our findings in full.
 > 
-> Topographically, the Lullaby Isles are a broad-spanning archipelago surrounded by a continuous ring of mountains called the Stoneseye Range, not unlike the so-called Spine of the East that parts the Eastern and Etrean Luminant. Upon our inspection, having circumnavigated the mountain circle twice, the Stoneseye Range appears to have very few identifiable natural passages in its structure - however, said handful of passages are obstructed by heavily reinforced stone walls and defensive fortifications. Accompanying the walls are tall defensive towers, with incredibly dated artillery pieces manned and mounted on the top, in the form of antique ballistae, onagers, and multiple trebuchets. Crow's nest reported ridges embedded within the walls themselves, beneath which the placement of slabs misaligned, implying a gateway of sorts. We remain uncertain of the mechanism which operated the gates.
+> Topographically, the [Lullaby Isles](Glossary.md#the-lullaby-isles) are a broad-spanning archipelago surrounded by a continuous ring of mountains called the Stoneseye Range, not unlike the so-called Spine of the East that parts the Eastern and [Etrean Luminants](Glossary.md#the-etrean-luminant). Upon our inspection, having circumnavigated the mountain circle twice, the Stoneseye Range appears to have very few identifiable natural passages in its structure - however, said handful of passages are obstructed by heavily reinforced stone walls and defensive fortifications. Accompanying the walls are tall defensive towers, with incredibly dated artillery pieces manned and mounted on the top, in the form of antique ballistae, onagers, and multiple trebuchets. Crow's nest reported ridges embedded within the walls themselves, beneath which the placement of slabs misaligned, implying a gateway of sorts. We remain uncertain of the mechanism which operated the gates.
 > 
 > Due to those defensive positions, our crew was unable to survey the obstructed passageways. On the third day of our mission, at 1400 hours, while sailing a closer distance to one of the fortified walls, our ship was spotted. The defending force attempted to communicate with us using some unknown system of guided intermittent lens-light, and smoke signals. The CASS 'Shallow Grave' did not reciprocate communications. The encounter passed without incident as we disappeared out of the wall's sightline at around 1430 hours, and neither side engaged in hostile action.
 > 
 > Upon assessing the situation in my capacity as a Captain, I did not deem escalation necessary. It would have taken more than our ship's reserves of gunpowder to even put a dent in their defensive walls - furthermore, though their artillery is dated, its high ground advantage and piercing projectile potential posed a substantial threat to our hull integrity in the event of an engagement.
 > 
-> During our survey, we observed that aside from the aforementioned fortifications, the outer side of the Stoneseye Range is essentially barren of settlement. No cities, towns, or villages can be seen externally. The sole form of outer settlement we managed to discover appeared in our sights on the fourth day, at 1530 hours. It was a small contraband smugglers' outpost, consisting of seven wooden shacks. Crow's nest identified painted symbols on the buildings there as belonging to the Shackled Shank smugglers' ring, well-known to our naval patrols, and not native to the Lullaby Isles. The CASS 'Shallow Grave' swiftly opened fire on the outpost, shelling it with multiple broadsides. The outpost, alongside its handful of defenders, was promptly eliminated, and a small amount of explosives stored therein was set off in the process. (See also "Operation 'Distant Light': Appendix 1", where details of smugglers' activities are detailed.)
+> During our survey, we observed that aside from the aforementioned fortifications, the outer side of the Stoneseye Range is essentially barren of settlement. No cities, towns, or villages can be seen externally. The sole form of outer settlement we managed to discover appeared in our sights on the fourth day, at 1530 hours. It was a small contraband smugglers' outpost, consisting of seven wooden shacks. Crow's nest identified painted symbols on the buildings there as belonging to the Shackled Shank smugglers' ring, well-known to our naval patrols, and not native to the [Lullaby Isles](Glossary.md#the-lullaby-isles). The CASS 'Shallow Grave' swiftly opened fire on the outpost, shelling it with multiple broadsides. The outpost, alongside its handful of defenders, was promptly eliminated, and a small amount of explosives stored therein was set off in the process. (See also "Operation 'Distant Light': Appendix 1", where details of smugglers' activities are detailed.)
 > 
 > \--------------
 > 
-> On the fourth day of our survey, at around 2005 hours, an unexpected centricl storm swept through the seas surrounding the Lullaby Isles, and the CASS 'Shallow Grave' was forced to anchor at the nearest shore to avoid damage, at my orders. This manoeuvre landed us on an unoccupied portion of the outer edge of the Stoneseye Range. During the night, after the gale had passes by around 2300 hours, we delegated First Lieutenant Grim Adaset to lead a scouting expedition to the area, accompanied by seven volunteers. This unexpected opportunity allowed us to examine the ranges outer topography up close.
+> On the fourth day of our survey, at around 2005 hours, an unexpected centricl storm swept through the seas surrounding the [Lullaby Isles](Glossary.md#the-lullaby-isles), and the CASS 'Shallow Grave' was forced to anchor at the nearest shore to avoid damage, at my orders. This manoeuvre landed us on an unoccupied portion of the outer edge of the Stoneseye Range. During the night, after the gale had passes by around 2300 hours, we delegated First Lieutenant Grim Adaset to lead a scouting expedition to the area, accompanied by seven volunteers. This unexpected opportunity allowed us to examine the ranges outer topography up close.
 > 
 > As we discovered, the soils on the shores of the mountain ring are rich in soot and ash. The mountains themselves appear to be volcanic in origin. Plumes of smoke have been observed rising from the peaks along the Stoneseye Range, as well as beyond them, from within the mountain ring. Shrouding the outer shores of the mountain range is a continuous span of centric rainforests, with lush flora populating the underbrush, and tall trees covering the skyline. We cannot attest to the presence of fauna on the outer ring, as our crew did not encounter any. We remain unsure whether the storm forced the wildlife on the surface to shelter further away from shore or whether the shore is truly and wholly barren of fauna.
 > 
@@ -57,29 +66,35 @@ Operation 'Distant Light' Report
 > 
 > \--------------
 > 
+> * * *
+> 
 > When conjecture is of no use to High Command and the venerable Fleet Admiral, I would like to draw a few logical conclusions from the intel we have, through a principle of deduction.
 > 
-> Due to the widely present volcanic activity, it is reasonable to assume the archipelago itself is agriculturally fertile - and as a result, possibly entirely autarkic, or self-sustaining. This could explain why the Lullaby Isles are able to pursue their broadly isolationist policies despite their dated ways of living.
+> Due to the widely present volcanic activity, it is reasonable to assume the archipelago itself is agriculturally fertile - and as a result, possibly entirely autarkic, or self-sustaining. This could explain why the [Lullaby Isles](Glossary.md#the-lullaby-isles) are able to pursue their broadly isolationist policies despite their dated ways of living.
 > 
-> If their external defences are any indication of the level of their technology and science, the Lullaby Isles are far behind any regional force that emerged in the Central Luminant during the Resurgence period. But, then, their implied self-sustainability could suggest one of three things - one, a small population residing in the archipelago; two, incredibly fertile soil within the archipelago (further supported by high volcanic activity in the region); or three - advanced applications of the Song by hand in the field of agriculture.
+> If their external defences are any indication of the level of their technology and science, the [Lullaby Isles](Glossary.md#the-lullaby-isles) are far behind any regional force that emerged in the [Central Luminant](Glossary.md#the-central-luminant) during the [Resurgence](Glossary.md#the-resurgence) period. But, then, their implied self-sustainability could suggest one of three things - one, a small population residing in the archipelago; two, incredibly fertile soil within the archipelago (further supported by high volcanic activity in the region); or three - advanced applications of the [Song](Glossary.md#the-song) by hand in the field of agriculture.
 > 
-> With all that in mind, we can infer that the inhabitants of the Lullaby Isles do not appear to pose us any major offensive threat. As learned during our previous covert inquiries with former subjects of the Isles, the archipelago does not seem to possess a large enough militarized navy, even less so a large enough oceanic fleet, to mount sustained hostile action. In terms of reserves, there are very few ocean-worthy civilian vessels in the Isles - business between the islands within the archipelago is broadly conducted using bicangalans, or double-cangalan boats.
+> With all that in mind, we can infer that the inhabitants of the [Lullaby Isles](Glossary.md#the-lullaby-isles) do not appear to pose us any major offensive threat. As learned during our previous covert inquiries with former subjects of the Isles, the archipelago does not seem to possess a large enough militarized navy, even less so a large enough oceanic fleet, to mount sustained hostile action. In terms of reserves, there are very few ocean-worthy civilian vessels in the Isles - business between the islands within the archipelago is broadly conducted using bicangalans, or double-cangalan boats.
 > 
-> From a defensive standpoint, however, the Lullaby Isles would prove to be an incredibly difficult target for conquest. The peaks of the stoney range, by our in-person estimation, would prove practically insurmountable even to the most skilled and best-equipped of climbers. Furthermore, the walls guarding the natural passageways of the mountain range are made up of large cut slabs of pale stone - likely some variety of pillar, diorite, basalt, or perhaps marble. The supposes stone-wrought 'gates' would also pose a challenge to our artillery. Either intense shelling, or a high explosive payload would be required to breach either of them.
+> From a defensive standpoint, however, the [Lullaby Isles](Glossary.md#the-lullaby-isles) would prove to be an incredibly difficult target for conquest. The peaks of the stoney range, by our in-person estimation, would prove practically insurmountable even to the most skilled and best-equipped of climbers. Furthermore, the walls guarding the natural passageways of the mountain range are made up of large cut slabs of pale stone - likely some variety of pillar, diorite, basalt, or perhaps marble. The supposes stone-wrought 'gates' would also pose a challenge to our artillery. Either intense shelling, or a high explosive payload would be required to breach either of them.
 > 
 > In either of these hypothetical scenarios, however, the Isles' defensive artillery would remain a problem. Though the equipment appears to be antiquated, the height of the walls gives the artillery a tremendous high-ground advantage - meaning even a single heavy boulder fired from one of their onagers or trebuchets would likely do some serious damage on its way down. Furthermore, the ballistae stationed on the walls could still easily pierce the hulls of our ironclads, as their ammunition is practically just whole tree trunks, carved, shaped, and tipped with metal. In the wise words of the retired venerable Fleet Admiral Rickard Ashet, "Anything's a bullet if you launch it fast enough."
 > 
 > A potential strategic weakness of the island's defences could be the mysterious underground caverns and hollows, which we could not investigate further. The apparent reinforcement of such underground spaces indicated the potential presence of tunnels, or subterranean reinforcements. Unfortunately, I cannot provide further comment on this specific matter.
 > 
-> Nevertheless, with their low offensive capacity, high defensive capability, likely meagre level of technology, and an unknown level of wealth, in my capacity as a Captain, I believe that seizing the archipelago would not be a useful prospect. While the possibly high levels of soil fertility within the Stoneseye range could be useful to us in the future, we are currently more than capable of sustaining the Central Authority's logistical efforts through our own agricultural holdings. Launching an assault against the Lullaby Isles would see us waste resources crashing against a hard wall for little gain, and distract our attention away from where it is more needed - such as the hotspots of Aratel, or even our repeated siege attempts in Etris.
+> Nevertheless, with their low offensive capacity, high defensive capability, likely meagre level of technology, and an unknown level of wealth, in my capacity as a Captain, I believe that seizing the archipelago would not be a useful prospect. While the possibly high levels of soil fertility within the Stoneseye range could be useful to us in the future, we are currently more than capable of sustaining the [Central Authority's](Glossary.md#the-central-authority) logistical efforts through our own agricultural holdings. Launching an assault against the [Lullaby Isles](Glossary.md#the-lullaby-isles) would see us waste resources crashing against a hard wall for little gain, and distract our attention away from where it is more needed - such as the hotspots of Aratel, or even our repeated siege attempts in Etris.
 > 
-> In addition to all this, as former intel indicates, the local populace is faithful to their local religious beliefs, and quite zealously so. Having served in the Eastern and Etrean Luminant myself before, I believe that any form of hostile action against the Lullaby Isles would result in the archipelago's populace undertaking some form of protracted asymmetrical warfare against the Authority, not unlike our ongoing conflict with the Navaen nomads. I am sure High Command, as well as the venerable Fleet Admiral, are well-aware of how resource-hungry that particular endeavor is, and no need of reminding of it.
+> In addition to all this, as former intel indicates, the local populace is faithful to their local religious beliefs, and quite zealously so. Having served in the Eastern and [Etrean Luminants](Glossary.md#the-etrean-luminant) myself before, I believe that any form of hostile action against the [Lullaby Isles](Glossary.md#the-lullaby-isles) would result in the archipelago's populace undertaking some form of protracted asymmetrical warfare against the [Authority](Glossary.md#the-central-authority), not unlike our ongoing conflict with the Navaen nomads. I am sure High Command, as well as the venerable Fleet Admiral, are well-aware of how resource-hungry that particular endeavor is, and no need of reminding of it.
 > 
 > \--------------
 > 
+> * * *
+> 
 > Thus concludes the mission report of Operation 'Distant Light'. The crew of CASS 'Shallow Grave' hope that High Command and the venerable Fleet Admiral Thorm Erebet find our assessment satisfactory. Our vessel and crew are ready and willing to serve in further reconnaissance operations in the region, should the naval seniority call upon us for the duty.
 > 
-> Three Cheers, Cpt. Alaric Kesset
+> Three Cheers,
+> 
+> Cpt. Alaric Kesset
 
 ## Appearances
 

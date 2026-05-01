@@ -1,6 +1,6 @@
 ---
 title: Varicosan Finery
-revid: 194734
+revid: 206853
 source: https://deepwoken.fandom.com/wiki/Varicosan_Finery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits]
@@ -18,7 +18,7 @@ categories: [Outfits, Expert Outfits]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1500 |
-| resistances | +20% Physical Armor, +20% Elemental Armor |
+| resistances | +20% Physical Armor , +20% Elemental Armor |
 | talents | Benefactor |
 | obtainment | First Layer, Primadon, The Diluvian Mechanism, Moon's Eyrie, Sea Events, Sold by Nyanna for 200 , Sold in Traan Zakshun's regular shop for 200 Vow of Iron:, Sold in Naan Zakshun's regular shop for 200 |
 | selling_price | 10 |
@@ -37,7 +37,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-The Outfit has 1500 durability, grants +20% Physical Armor and +20% Elemental Armor. Additionally, it provides the [Benefactor](Talents.md#equipment-talents) Talent, which grants you faction [reputation](Reputation.md) when selling goods to their respective [antiquarian](Antiquarian.md).
+The Outfit has 1500 durability, grants +20% Physical resistance ResistanceBlunt ResistanceSlash and +20% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Benefactor](Talents.md#benefactor) Talent.
+
+The [Benefactor](Talents.md#benefactor) Talent gives you faction [reputation](Reputation.md) when selling goods to their respective [antiquarian](Antiquarian.md).
 
 ## Trivia
 

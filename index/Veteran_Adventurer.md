@@ -1,6 +1,6 @@
 ---
 title: Veteran Adventurer
-revid: 194681
+revid: 206855
 source: https://deepwoken.fandom.com/wiki/Veteran_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits]
@@ -18,7 +18,7 @@ categories: [Outfits, Expert Outfits]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1500 |
-| resistances | +15% Elemental Armor, +15% Physical Armor, +5% Fire Armor, +5% Shadow Armor |
+| resistances | +15% Physical Armor , +15% Elemental Armor , +5% Fire Armor , +5% Shadow Armor |
 | talents | Foolish Outburst |
 | obtainment | Chests from:, Minityrsa, Songseeker Wilds, Summer Isle |
 | selling_price | 10 |
@@ -37,9 +37,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability and grants +15% Physical resistance, +15% Elemental resistance, +5% Fire resistance, and +5% Shadow resistance. Additionally, it provides the [Foolish Outburst](Talents.md#foolish-outburst) Talent.
+This Outfit has 1500 durability and grants +15% Physical resistance ResistanceBlunt ResistanceSlash, +15% Elemental resistance [ResistanceElemental](Attunements.md), +5% Fire resistance [ResistanceFlamecharm](Flamecharm.md), and +5% Shadow resistance [ResistanceShadowcast](Shadowcast.md). Additionally, it provides the [Foolish Outburst](Talents.md#foolish-outburst) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 15% Physical, 19.25% Flamecharm, 19.25% Shadowcast, and 15% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 15% Physical ResistanceBlunt ResistanceSlash, 19.25% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 19.25% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 15% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 
 The [Foolish Outburst](Talents.md#foolish-outburst) Talent absorbs the [Tempo](Combat_Mechanics.md#tempo) cost of a [Vent](Combat_Mechanics.md#tempo) should the wearer block or parry it.
 

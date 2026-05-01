@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder Arch-Sorcerer"
-revid: 195154
+revid: 206846
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Arch-Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits]
@@ -18,7 +18,7 @@ categories: [Outfits, Expert Outfits]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1500 |
-| resistances | +10% Physical Armor, +25% Elemental Armor, +10% Lightning Armor, +10% Ice Armor |
+| resistances | +10% Physical Armor , +25% Elemental Armor , +10% Lightning Armor , +10% Ice Armor |
 | buffs | +50% Ether Regen |
 | talents | Devastating Power |
 | obtainment | Chests from:, Lower Erisia, Sold at the Mantra shop in Etris for 45 Vow of Iron:, Ether Erudite Memento (automatically crafted) |
@@ -38,11 +38,11 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability and grants +10% Physical resistance, +25% Elemental resistance, +10% Lightning resistance, +10% Ice resistance and +50% Ether Regen. Additionally, it provides the [Devastating Power](Talents.md#devastating-power) Talent.
+This Outfit has 1500 durability and grants +10% Physical resistance ResistanceBlunt ResistanceSlash, +25% Elemental resistance [ResistanceElemental](Attunements.md), +10% Lightning resistance [ResistanceThundercall](Thundercall.md), +10% Ice resistance [ResistanceFrostdraw](Frostdraw.md), and +50% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Devastating Power](Talents.md#devastating-power) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 10% Physical, 32.5% Frostdraw, 32.5% Thundercall, and 25% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 10% Physical ResistanceBlunt ResistanceSlash, 32.5% Frostdraw [ResistanceFrostdraw](Frostdraw.md), 32.5% Thundercall [ResistanceThundercall](Thundercall.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md).
 
-The [Devastating Power](Talents.md#devastating-power) Talent gives the player +10 Ether for every _equipped_ Mantra.
+The [Devastating Power](Talents.md#devastating-power) Talent gives the player +10 Ether [IconEther](Ether.md) for every _equipped_ Mantra.
 
 ## Trivia
 

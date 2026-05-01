@@ -1,6 +1,6 @@
 ---
 title: Martial Artist
-revid: 206804
+revid: 206843
 source: https://deepwoken.fandom.com/wiki/Martial_Artist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, Drops]
@@ -37,7 +37,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 This Outfit has 1200 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +20% Elemental resistance [ResistanceElemental](Attunements.md), +5% Fire resistance [ResistanceFlamecharm](Flamecharm.md), +5% Ironsing resistance [ResistanceIronsing](Ironsing.md). Additionally, it provides the [Bruiser's Mixup](Talents.md#bruisers-mixup) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 24% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 24% Ironsing [ResistanceIronsing](Ironsing.md), and 20% Elemental [ResistanceElemental](Attunements.md).
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 24% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 24% Ironsing [ResistanceIronsing](Ironsing.md), and 20% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
 The [Bruiser's Mixup](Talents.md#bruisers-mixup) Talent allows your [Fist](Fists.md) attacks to inflict [Bleed](Status_Effects.md#bleed) temporarily after style swapping (Y).
 

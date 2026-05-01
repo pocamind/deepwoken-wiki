@@ -1,6 +1,6 @@
 ---
 title: Celtorian Tideknight
-revid: 206002
+revid: 206872
 source: https://deepwoken.fandom.com/wiki/Celtorian_Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, Lost Celtor]
@@ -17,7 +17,8 @@ categories: [Outfits, Master Outfits, Lost Celtor]
 | bankable | Yes |
 | droppable | No |
 | durability | 2800 |
-| resistances | +30% Physical Armor, +25% Elemental Armor, +5% Blunt Armor, +10% Shadow Armor, +5% Ice Armor |
+| resistances | +30% Physical Armor , +5% Blunt Armor , +25% Elemental Armor , +10% Shadow Armor , +5% Ice Armor |
+| buffs | +20% Ether Regen +16 Sanity |
 | talents | Tidekeeper |
 | obtainment | The Diluvian Mechanism, Sold in Traan Zakshun's black market for 75 |
 | selling_price | 10 |
@@ -37,9 +38,9 @@ This Outfit's schematic is not droppable, but it is bankable.
 
 ### _Armor Stats_
 
-This Outfit has 2800 durability and grants +30% Physical resistance, +25% Elemental resistance, +5% Blunt resistance, +10% Shadow resistance, +16 Sanity and +20% Ether Regen. Additionally, it provides the [Tidekeeper](Talents.md#tidekeeper) Talent.
+This Outfit has 2800 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +5% Blunt resistance ResistanceBlunt, +25% Elemental resistance [ResistanceElemental](Attunements.md), +10% Shadow resistance [ResistanceShadowcast](Shadowcast.md), +16 Sanity [IconSanity](Insanity.md) and +20% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Tidekeeper](Talents.md#tidekeeper) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 33.5% Blunt, 30% Slash, 32.5% Shadowcast, 28.75% Frostdraw, and 25% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 33.5% Blunt ResistanceBlunt, 30% Slash ResistanceSlash, 32.5% Shadowcast [ResistanceShadowcast](Shadowcast.md), 28.75% Frostdraw [ResistanceFrostdraw](Frostdraw.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 
 The [Tidekeeper](Talents.md#tidekeeper) Talent procs if you lose 25% or more of your health within a 3 second timespan, granting the [Tidekeeper](Status_Effects.md#tidekeeper) status effect. This status effect grants a 15% damage buff, a 20% defense buff, and prevents you from being knocked for 10 seconds. Tidekeeper has a 60 second cooldown and will not proc on instant death abilities.
 

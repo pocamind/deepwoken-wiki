@@ -1,6 +1,6 @@
 ---
 title: "Seamstress's Attire"
-revid: 194678
+revid: 206849
 source: https://deepwoken.fandom.com/wiki/Seamstress's_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, World Event]
@@ -18,7 +18,7 @@ categories: [Outfits, Expert Outfits, World Event]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 2000 |
-| resistances | +20% Elemental Armor, +25% Physical Armor |
+| resistances | +25% Physical Armor , +20% Elemental Armor |
 | obtainment | Chests from:, Moon's Eyrie, First Layer, Bounty Hunting, The Diluvian Mechanism, Primadon, Titan of the East, Sold by Nyanna and Traan Zakshun for 200 |
 | selling_price | 10 |
 | weight | 1 |
@@ -36,4 +36,4 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 8 
 
 ### _Armor Stats_
 
-This Outfit has 2000 durability and grants +20% Elemental resistance, +25% Physical resistance.
+This Outfit has 2000 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash and +20% Elemental resistance [ResistanceElemental](Attunements.md).

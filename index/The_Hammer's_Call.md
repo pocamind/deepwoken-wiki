@@ -1,6 +1,6 @@
 ---
 title: "The Hammer's Call"
-revid: 173053
+revid: 206851
 source: https://deepwoken.fandom.com/wiki/The_Hammer's_Call
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -44,8 +44,11 @@ How punishing the way;
 For you we'll fight, retrieve, explore -  
 Only if you can our costs defray!  
 Only if you can our costs defray!  
+
+* * *
+
   
-  
+
 But if you do not pay your dues  
 To workers, fair and square,  
 The Union will be out to bruise -  
@@ -70,8 +73,12 @@ We'll stand in solidarity -
 Shoulder to shoulder, together, tall!  
 Shoulder to shoulder, together, tall!  
 
+* * *
+
 > "The Hammer's Call" is a labour song, originating with the workers of the Ignition Union - the renowned freelancer company and labour union. The song itself is based on the tune of an old Adretian folk song, called "The Winding Homeward Road", and the words for this particular version - alongside with the modern arrangement, - were authored by Ignition Union member Gawain Corbet in 1272.
 > 
 > Over the coming decades, the song would gain popularity among the Union labourers - with empowering lyrics and a steady rhythm, "The Hammer's Call" provided a convenient means for simultaneously keeping a consistent pace of labour between a group of people, as well as keeping up worker morale.
 > 
 > Of interest to present day scholars is the emergence of this song in the context of the Union's identity - similarly to the [Central Authority](Glossary.md#the-central-authority), the Ignition Union is also a boiling pot of ethnicities and cultures. Unlike the [Central Authority](Glossary.md#the-central-authority), however, the Union's identity is not defined wholly by internal hierarchy, lingering military traditions, and loyalty to power. Instead, it is rooted in the solidarity of toil - a sense of kinship among those working for the same goal.
+> 
+> * * *

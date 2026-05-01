@@ -1,6 +1,6 @@
 ---
 title: Whaler Coat
-revid: 194682
+revid: 206856
 source: https://deepwoken.fandom.com/wiki/Whaler_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, The Knives of Eylis]
@@ -18,7 +18,7 @@ categories: [Outfits, Expert Outfits, The Knives of Eylis]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1500 |
-| resistances | +25% Physical Armor, +15% Elemental Armor |
+| resistances | +25% Physical Armor , +15% Elemental Armor |
 | buffs | +50% Stealth |
 | obtainment | Chests from:, The Depths, Moon's Eyrie, Bought from Traan Zakshun for 200 , Sea Events |
 | selling_price | 10 |
@@ -37,7 +37,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability and grants +25% Physical resistance, +15% Elemental resistance and +50% [Stealth](Stealth.md).
+This Outfit has 1500 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +15% Elemental resistance [ResistanceElemental](Attunements.md), and +50% [Stealth](Stealth.md) [IconStealth](Stealth.md).
 
 ## Trivia
 

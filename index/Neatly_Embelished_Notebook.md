@@ -1,6 +1,6 @@
 ---
 title: Neatly Embelished Notebook
-revid: 172811
+revid: 206824
 source: https://deepwoken.fandom.com/wiki/Neatly_Embelished_Notebook
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -22,15 +22,23 @@ Neatly Embelished Notebook
 > 
 > \[The pages are packed to the brim with scruffy diary entries, doodles, and administrative jargon, written in an almost-indecipherable script. Sheets of crumpled iridescent paper with aggressively slashed-out paragraphs bookmark the pages. Intrigued, you flip to one of the most recent entries, hoping to find something legible. It seems to be a brief list, hurriedly jotted down. You imagine it must've been misplaced, considering it was just lurking upon a shelf.\]
 > 
-> \------------
+> * * *
 > 
-> \- Week's s'pply of rations for the j'rney. [Moonseye](Glossary.md#the-moonseye) knows how long it'll take. - Make sure Konrad r'quests his new unif'rm upon arrival. He will forget. - [Counsell](Glossary.md#the-counsell) doc'ments. MAKE SURE THEY'RE ORGANISED. Liviu has the right crates and bindings. Ens're the job is done. - Have the rest pr'pare the cargo at LEAST two days b'fore. We will not be forg'tting half our doc'ments again like last year. - Aud'ence with our [Confessor](Glossary.md#the-lady-confessor). Perhaps He will let us in to speak with her this time.
+> \- Week's s'pply of rations for the j'rney. [Moonseye](Glossary.md#the-moonseye) knows how long it'll take.
 > 
-> Turning to the next page reveals a short diary entry, scribbled furiously.\]
+> \- Make sure Konrad r'quests his new unif'rm upon arrival. He will forget.
 > 
-> \---
+> \- [Counsell](Glossary.md#the-counsell) doc'ments. MAKE SURE THEY'RE ORGANISED. Liviu has the right crates and bindings. Ens're the job is done.
 > 
-> Not allow'd in. Again. Act'ng as if the Central Chamber is some exclus've little suite for Him and our [Confessor](Glossary.md#the-lady-confessor) only. OUR [Confessor](Glossary.md#the-lady-confessor), Not his. Must be spectac'lar comp'ny, that damn'd sarcoph'gus. (Forgive me.) Counsell still trying t' appease me with some sec'nd-hand 'Good lucks' and 'May She prot'ct your j'rneys', but they know how much it'd mean to these new scholars t' receive her own pers'nal bless'ng b'fore this trip.
+> \- Have the rest pr'pare the cargo at LEAST two days b'fore. We will not be forg'tting half our doc'ments again like last year.
+> 
+> \- Aud'ence with our [Confessor](Glossary.md#the-lady-confessor). Perhaps He will let us in to speak with her this time.
+> 
+> \[Turning to the next page reveals a short diary entry, scribbled furiously.\]
+> 
+> * * *
+> 
+> Not allow'd in. Again. Act'ng as if the Central Chamber is some exclus've little suite for Him and our [Confessor](Glossary.md#the-lady-confessor) only. OUR [Confessor](Glossary.md#the-lady-confessor), Not his. Must be spectac'lar comp'ny, that damn'd sarcoph'gus. (Forgive me.) [Counsell](Glossary.md#the-counsell) still trying t' appease me with some sec'nd-hand 'Good lucks' and 'May She prot'ct your j'rneys', but they know how much it'd mean to these new scholars t' receive her own pers'nal bless'ng b'fore this trip.
 > 
 > Especially consid'ring that we're lik'ly to have those Author'ty terrors breath'ng down our necks. Those scholars don't ev'n have a clue that there's ev'n a risk of our ship being pumm'lled by those barb'rous brutes as soon 's we leave the archipelago. They've no idea what an 'Author'ty is! W'ldn't it be nice to put th'm in a good mood? Instill th'm with good morale? No. Th' Vox refus's to see a soul.
 > 

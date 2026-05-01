@@ -1,6 +1,6 @@
 ---
 title: Primadon Pelt
-revid: 160646
+revid: 206868
 source: https://deepwoken.fandom.com/wiki/Primadon_Pelt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -28,5 +28,8 @@ categories: [Items, Drops, Ingredients]
 
 ### Crafting
 
--   **[Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)** - 1 [Western Outlaw Robes](Western_Outlaw_Robes.md), 1 Primadon Pelt, 3 [Might Gems](Might_Gem.md) at [Merit Detainment Core](Merit_Detainment_Core.md).
--   **[Reinforced War Helmet](Reinforced_War_Helmet.md)** - 1 [Evanspear War Helmet](Evanspear_War_Helmet.md), 1 Primadon Pelt, 2 [Wrath Gems](Wrath_Gem.md) at [Merit Detainment Core](Merit_Detainment_Core.md).
+-   [Equipment](Equipment.md)
+    -   [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md): 1x [Western Outlaw Robes](Western_Outlaw_Robes.md) + 1x Primadon Pelt + 3x [Might Gems](Might_Gem.md) at [Merit Detainment Core](Merit_Detainment_Core.md).
+    -   [Reinforced War Helmet](Reinforced_War_Helmet.md): 1x [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1x Primadon Pelt + 2x [Wrath Gems](Wrath_Gem.md) at [Merit Detainment Core](Merit_Detainment_Core.md).
+-   [Ingredients](Ingredients.md)
+    -   [Ether Refined Hide](Ether_Refined_Hide.md): 1x **Primadon Pelt** + 2x [Ferryman's Coat Cloth](<Ferryman's_Coat_Cloth.md>) + 1x [Dread Serpent's Mane](<Dread_Serpent's_Mane.md>) in the [Lost Forge](Lost_Forge_of_Leiuna.md).

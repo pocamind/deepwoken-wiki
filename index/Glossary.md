@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 206109
+revid: 206828
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -373,7 +373,7 @@ Book: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md)
 
 -   The ability to manipulate metallic substances through the [Song](#the-song).
 
-Dialogue: [Adar](Adar,_Master_of_Metal.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>) | Glossary Entries:
+Dialogue: [Adar](Adar,_Master_of_Metal.md) | Books: [Coldheart's Journal](<Coldheart's_Journal.md>), [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>) | Glossary Entries:
 
 ### Lifeweave / Lifewoven
 
@@ -381,7 +381,7 @@ Dialogue: [Adar](Adar,_Master_of_Metal.md) | Books: [Lumen's Folklore: Volume 'A
 -   Pioneered by the Hive and kept a close secret, it has enabled the construction of the colossal Greathives that the Hive call home.
 -   [Lifeweave](#lifeweave) is a versatile art that may even extend to [Lifewoven](#lifewoven) equipment and weaponry that interface with the materials of the object and through a complex latticework not unlike circuitry are able to produce unique effects. It is thought by some that the complex patterns of so-called Enchantments may embody the terms of a [Vow](#vows).
 
-Dialogue: [Kaab](Kaab.md), [Neero](Neero.md), [Regek](Regek.md) | Books: | Glossary Entries: [Lifeweave / Lifewoven](#lifeweave)
+Dialogue: [Kaab](Kaab.md), [Neero](Neero.md), [Regek](Regek.md) | Books: [Coldheart's Journal](<Coldheart's_Journal.md>) | Glossary Entries: [Lifeweave / Lifewoven](#lifeweave)
 
 ### Light Hook
 
@@ -470,7 +470,7 @@ Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Celes
 
 -   The ability to produce and manipulate electromagnetism through the [Song](#the-song).
 
-Dialogue: [Funke](Funke,_Master_of_Thunder.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>) | Glossary Entries:
+Dialogue: [Funke](Funke,_Master_of_Thunder.md), [Neero](Neero.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>) | Glossary Entries:
 
 ### Vows
 

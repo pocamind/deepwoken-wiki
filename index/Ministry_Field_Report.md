@@ -1,6 +1,6 @@
 ---
 title: Ministry Field Report
-revid: 172807
+revid: 206820
 source: https://deepwoken.fandom.com/wiki/Ministry_Field_Report
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -18,4 +18,6 @@ _**Ministry Field Report**_ is a [Book](Books.md) found in [Outpost Antumbra](Ou
 
 Ministry Field Report
 
-> _\*The text on the page is scrawled frantically, difficult to decipher. The words 'Celtor' and 'Trial' can be made out from the mess, although the surrounding text is incomprehensible.\*_
+> \*The text on the page is scrawled frantically, difficult to decipher. The words 'Celtor' and 'Trial' can be made out from the mess,
+> 
+> although the surrounding text is incomprehensible.\*

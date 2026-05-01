@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdelver
-revid: 203793
+revid: 206876
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, The Ignition Union]
@@ -18,7 +18,7 @@ categories: [Outfits, Master Outfits, The Ignition Union]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 3000 |
-| resistances | +15% Ironsing Armor, +15% Ice Armor, +35% Elemental Armor, +30% Physical Armor |
+| resistances | +30% Physical Armor +35% Elemental Armor , +15% Ironsing Armor , +15% Ice Armor |
 | buffs | +20% Ether Regen |
 | talents | Force Your Way |
 | obtainment | Layer 2, Scion of Ethiron, The Diluvian Mechanism, Glaive SpellhardtVow of Iron:, Mystery Boxes |
@@ -38,9 +38,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-The outfit has 3000 durability, grants +15% Frostdraw and Ironsing Armor, +35% Elemental Armor, +20% Ether Regeneration and +30% Physical Armor. Additionally, it provides the [Force Your Way](Talents.md#force-your-way) Talent.
+The outfit has 3000 durability, grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +35% Elemental resistance [ResistanceElemental](Attunements.md), +15% Frostdraw resistance [ResistanceFrostdraw](Frostdraw.md), and +15% Ironsing resistance [ResistanceIronsing](Ironsing.md). Additionally, it provides the [Force Your Way](Talents.md#force-your-way) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 44.75% Ironsing, 44.7% Frostdraw, and 35% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 44.75% Ironsing [ResistanceIronsing](Ironsing.md), 44.7% Frostdraw [ResistanceFrostdraw](Frostdraw.md), and 35% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
 The [Force Your Way](Talents.md#force-your-way) Talent grants the player the ability to parry un-parryable attacks from large monsters at the cost of some armor durability. The armor durability lost is based on the damage the attack would've done. Whenever an attack that's not normally parryable is parried, the armor will let off some sparks and steam (which is purely visual). Note that normally unparryable attacks have a much stricter parry timing than regular attacks, which will take some getting used to.
 

@@ -1,9 +1,9 @@
 ---
 title: Neero
-revid: 193460
+revid: 206822
 source: https://deepwoken.fandom.com/wiki/Neero
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, Pathfinder Exclusive, NPCs]
+categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Neero
@@ -24,13 +24,13 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Neero is a [Celtor](Celtor.md) [Pathfinder](Pathfinder.md) wearing an [Iron Mask](Iron_Mask.md) along with the [Pathfinder Cloak](Pathfinder_Cloak.md).
+Neero is a [Celtor](Celtor.md) NPC. They are a [Pathfinder](Pathfinder.md) wearing an [Iron Mask](Iron_Mask.md) along with the [Pathfinder Cloak](Pathfinder_Cloak.md).
 
-He is investigating the disappearance of the [Forge of Sin](Relics.md) and provides speculation about [Duke Erisia](Duke_Ishamon_Erisia.md)'s actions prior to the events of the [Lord Regent's](The_Lord_Regent.md) questline, as well as lore about [Erisia](Erisia.md) and the Forge itself.
+They are investigating the disappearance of the [Forge of Sin](Relics.md) and provides speculation about [Duke Erisia](Duke_Ishamon_Erisia.md)'s actions prior to the events of the [Lord Regent's](The_Lord_Regent.md) questline, as well as lore about [Erisia](Erisia.md) and the Forge itself.
 
-### Location
+## Location
 
-Neero is located in the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md) near the [Towerstruck Lands](Towerstruck_Lands.md) in [Upper Erisia](Upper_Erisia.md).
+Neero is located in the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md), leaning against the wall.
 
 ## Dialogue
 
@@ -72,7 +72,7 @@ Neero is located in the [Temple of the Forgotten Flame](The_Temple_of_the_Forgot
   <td colspan="2">The Forge?</td>
 </tr>
 <tr>
-  <td colspan="2">Yes... From what I can see, the golems function as a sort of <i>security system</i>. They're able to discern man from monster, but they aren't powered by Thundercall. Something else makes them function - as if the stones themselves have been given life.</td>
+  <td colspan="2">Yes... From what I can see, the golems function as a sort of <i>security system</i>. They're able to discern man from monster, but they aren't powered by <a href="Glossary.md#thundercall">Thundercall</a>. Something else makes them function - as if the stones themselves have been given life.</td>
   <td colspan="2">Better known as the Forge of Sin... An artifact once dredged up from the deep and kept in this temple. Legends say the Forge enabled its wielder to shape not only metal, but the <i>souls of men</i>.</td>
 </tr>
 <tr>

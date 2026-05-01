@@ -1,6 +1,6 @@
 ---
 title: "Archivist Journal: 'Megalodaunt'"
-revid: 172786
+revid: 206808
 source: https://deepwoken.fandom.com/wiki/Archivist_Journal%3A_'Megalodaunt'
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -27,7 +27,7 @@ Archivist Journal: 'Megalodaunt'
 > 
 > Even for evening supper, he's yet to move an inch; it's quite the blight, as the body's stench has accumulated more over time. He just stares, unmoving.
 > 
-> This came as quite a shock to Faris and I, as Subject C usually becomes frenzied when brought near a corpse, yet.. nothing.
+> This came as quite a shock to Faris and I, as Subject C usually becomes frenzied when brought near a corpse, yet... nothing.
 > 
 >   
 > 

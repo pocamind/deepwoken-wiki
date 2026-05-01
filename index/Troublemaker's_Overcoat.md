@@ -1,6 +1,6 @@
 ---
 title: "Troublemaker's Overcoat"
-revid: 199957
+revid: 206852
 source: https://deepwoken.fandom.com/wiki/Troublemaker's_Overcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits]
@@ -18,7 +18,7 @@ categories: [Outfits, Expert Outfits]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 2500 |
-| resistances | +20% Elemental Armor, +25% Physical Armor |
+| resistances | +25% Physical Armor , +20% Elemental Armor |
 | obtainment | Chests from:, Moon's Eyrie, The Doom of Caeranthil, First Layer, Interluminary Parasol, Primadon, Titan of the East, Sea Events |
 | selling_price | 10 |
 | weight | 1 |
@@ -36,4 +36,4 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 8 
 
 ### _Armor Stats_
 
-This Outfit has 2500 durability and grants +20% Elemental resistance, +25% Physical resistance.
+This Outfit has 2500 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash and +20% Elemental resistance [ResistanceElemental](Attunements.md).

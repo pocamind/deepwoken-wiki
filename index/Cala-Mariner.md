@@ -1,6 +1,6 @@
 ---
 title: "Cala-Mariner"
-revid: 194534
+revid: 206873
 source: https://deepwoken.fandom.com/wiki/Cala-Mariner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits]
@@ -18,8 +18,8 @@ categories: [Outfits, Master Outfits]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 2200 |
-| resistances | +25% Physical Armor, +35% Elemental Armor, +30% Wind Armor, +25% Blood Armor |
-| buffs | +45% Ether Regen, +20 Sanity |
+| resistances | +25% Physical Armor , +35% Elemental Armor , +30% Wind Armor , +25% Blood Armor |
+| buffs | +45% Ether Regen , +20 Sanity |
 | talents | Tidal Shock |
 | obtainment | Nautilodaunt (direct drop)Fury Nautilodaunt (direct drop) |
 | selling_price | 10 |
@@ -37,11 +37,11 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-The Outfit has 2200 durability, grants +25% Physical Armor, +35% Elemental Armor, +30% Wind Armor, +25% Blood Armor, 20 Sanity, and +45% Ether Regeneration.
+The Outfit has 2200 durability, grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +35% Elemental resistance [ResistanceElemental](Attunements.md), +30% Wind resistance [ResistanceGalebreathe](Galebreathe.md), +25% Blood resistance [ResistanceBloodrend](Bloodrend.md), +20 Sanity [IconSanity](Insanity.md), and +45% Ether Regeneration [IconEther](Ether.md).
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical, 54.5% Galebreathe, 51.25% Bloodrend, and 35% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistanceBlunt ResistanceSlash, 54.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), 51.25% Bloodrend [ResistanceBloodrend](Bloodrend.md), and 35% Elemental [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
-Additionally, it provides the [Tidal Shock](Talents.md#equipment-talents) Talent. This makes your Critical attacks apply Daze and trigger Tidal Shock's effect, while the wearer visually lets out waves and bubbles. On proc, for the next 4s, any Mantra that hits you will have its damage voided, letting out a vent similar to the [Nautilodaunt](Nautilodaunt.md). Tidal Shock has a 13 second cooldown.
+Additionally, it provides the [Tidal Shock](Talents.md#tidal-shock) Talent. This makes your Critical attacks apply Daze and trigger Tidal Shock's effect, while the wearer visually lets out waves and bubbles. On proc, for the next 4s, any Mantra that hits you will have its damage voided, letting out a vent similar to the [Nautilodaunt](Nautilodaunt.md). Tidal Shock has a 13 second cooldown.
 
 ## Trivia/Notes
 
@@ -49,4 +49,4 @@ Additionally, it provides the [Tidal Shock](Talents.md#equipment-talents) Talent
 -   The outfits name is a pun on calamari and mariner.
 -   The oufit resembles the outfit of Jack Sparrow from _Pirates of the Caribbean_.
 -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/113984308637103/Cala-Mariner-Shirt) / [Pants](https://www.roblox.com/catalog/134822282503743/Cala-Mariner-Pants)
--   When you have the [Tidal Shock](Talents.md#equipment-talents) CD, you cannot use [Whistleguard](Talents.md#whistleguard), and when you use [Whistleguard](Talents.md#whistleguard) and critical hit with Cala-Mariner, [Whistleguard](Talents.md#whistleguard) will break.
+-   When you have the [Tidal ShocK](Talents.md#tidal-shock) CD, you cannot use [Whistleguard](Talents.md#whistleguard), and when you use Whistleguard and critical hit with Cala-Mariner, Whistleguard will break.
