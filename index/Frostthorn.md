@@ -1,6 +1,6 @@
 ---
 title: Frostthorn
-revid: 205328
+revid: 206895
 source: https://deepwoken.fandom.com/wiki/Frostthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Pathfinder Exclusive, Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Light Weapons, Weapons with Unique Animations, Daggers, "Dual-wielded Weapons"]
@@ -54,4 +54,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talent](Talents.
 
 ## Trivia
 
--   This weapon's critical attack is very similar to the heavy attack of the [Snowshatters](https://pilgrammed-rblx.fandom.com/wiki/Snowshatters) from _Pilgrammed_.
+-   This weapon's critical attack is very similar to the heavy attack of the [Snowshatters](https://pilgrammed.miraheze.org/wiki/Snowshatters) from _Pilgrammed_.

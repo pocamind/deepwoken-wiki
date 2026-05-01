@@ -1,6 +1,6 @@
 ---
 title: Hobo
-revid: 191470
+revid: 206897
 source: https://deepwoken.fandom.com/wiki/Hobo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Enemies]
@@ -21,17 +21,17 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Hobo is a wealthy and proficient [Flamecharmer](Flamecharm.md) that you may find when roaming around [Erisia](Erisia.md).
+A vagrant is a wealthy and proficient [Flamecharmer](Flamecharm.md) that you may find when roaming around [Erisia](Erisia.md).
 
-The Hobo is a neutral NPC that can be found in the wild. It guards three chests that can be obtained safely if you pass a [Charisma](Attributes.md) check, or alternatively you can kill them, granting you another chest. You may loot the chests without completing the Charisma check, but it will anger them and initiate a fight.
+The vagrant is a neutral NPC that can be found in the wild. It guards three chests that can be obtained safely if you pass a [Charisma](Attributes.md) check, or alternatively you can kill them, granting you another chest. You may loot the chests without completing the Charisma check, but it will anger them and initiate a fight.
 
-Their movements are very jagged and extremely fast, almost as if they're flying. In order to parry their hits you need to predict them, and during their frenzy it's impossible to flourish them, as they will be attacking nonstop with [Flamecharm](Flamecharm.md) mantras. You must fight back when they stop moving, or by using AoE skills while they're moving. Killing the Hobo results in another chest spawning.
+Their movements are very jagged and extremely fast, almost as if they're flying. In order to parry their hits you need to predict them, and during their frenzy it's impossible to flourish them, as they will be attacking nonstop with [Flamecharm](Flamecharm.md) mantras. You must fight back when they stop moving, or by using AoE skills while they're moving. Killing the Vagrant results in another chest spawning.
 
-A Hobo only wears a [Stranded](Stranded.md) outfit.
+A Vagrant only wears a [Stranded](Stranded.md) outfit.
 
 ## Moveset
 
-A Hobo's arsenal consists of [Fists](Fists.md) **(Way of Navae)** and the [Flamecharm](Flamecharm.md) Attunement:
+A Vangrant arsenal consists of [Fists](Fists.md) **(Way of Navae)** and the [Flamecharm](Flamecharm.md) Attunement:
 
 | Name/Danger | Description |
 | --- | --- |
@@ -85,12 +85,12 @@ A Hobo's arsenal consists of [Fists](Fists.md) **(Way of Navae)** and the [Flame
 
 ### Boons
 
--   Third Eye - A Hobo cannot be assassinated under any circumstance.
--   High Supply - A Hobo has plenty of moves that apply hyperarmor at no cost of [Ether](Ether.md), making them a difficult enemy to face.
+-   Third Eye - A Vagrant cannot be assassinated under any circumstance.
+-   High Supply - A Vagrant has plenty of moves that apply hyperarmor at no cost of [Ether](Ether.md), making them a difficult enemy to face.
 
 ## Finisher
 
-A Hobo executes it's opponent after knocking them:
+A Vagrant executes it's opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
@@ -98,8 +98,8 @@ A Hobo executes it's opponent after knocking them:
 
 ## Tips
 
--   The Hobo becomes hostile when you open any of their chests, however they will not aggro until you walk in front of them.
--   Hobos have a very similar AI to [Songseeker Flamecharmers](Songseeker_Flamecharmer.md), with a faster attack rate. Flourishing them into walls and spamming M1's is a good way to make it an easier fight.
+-   The Vangrant becomes hostile when you open any of their chests, however they will not aggro until you walk in front of them.
+-   Vangrants have a very similar AI to [Songseeker Flamecharmers](Songseeker_Flamecharmer.md), with a faster attack rate. Flourishing them into walls and spamming M1's is a good way to make it an easier fight.
 
 ## Dialogue
 
@@ -129,12 +129,13 @@ A Hobo executes it's opponent after knocking them:
 </table>
 
 -   Opening chest: Hey that's mine!
--   Killing Hobo: HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA!
+-   Killing Vagrant: HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA!
 
 ## Trivia
 
--   Hobos can spawn in such a way that one of their chests is inside a wall.
--   The Hobo seems to be someone who escaped from The Depths or from [The Duke](Duke_Ishamon_Erisia.md), and has lost their mind since.
+-   Vagrants can spawn in such a way that one of their chests is inside a wall.
+-   The Vagrants seems to be someone who escaped from The Depths or from [The Duke](Duke_Ishamon_Erisia.md), and has lost their mind since.
     -   This can be supported by the fact that when gripping them, they laugh like a madman.
-    -   It could be suggested that the Hobo is "wealthy" due to him stealing from The Duke.
+    -   It could be suggested that the Vangrant is "wealthy" due to him stealing from The Duke.
 -   All factions appear to have it out for them, as they all try to attack them.
+-   He's called "A Vagrant" now
