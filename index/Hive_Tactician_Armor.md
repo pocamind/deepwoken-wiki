@@ -1,6 +1,6 @@
 ---
 title: Hive Tactician Armor
-revid: 194676
+revid: 206800
 source: https://deepwoken.fandom.com/wiki/Hive_Tactician_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, The Hive]
@@ -17,7 +17,7 @@ categories: [Outfits, Expert Outfits, The Hive]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1200 |
-| resistances | +30% Physical Armor, +20% Elemental Armor, +10% Wind Armor, +15% Ironsing Armor |
+| resistances | +30% Physical Armor , +20% Elemental Armor , +10% Ironsing Armor |
 | talents | Brunt |
 | obtainment | Chests from:, Towerstruck Lands, Songseeker Wilds, Moon's Eyrie, Aratel Island, Starswept Valley, Minityrsa, Primadon, Titan of the EastSold by Nyanna for 80 , Sold by Traan Zakshun for 200 |
 | selling_price | 10 |
@@ -36,13 +36,13 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This Outfit has 1200 durability and grants +30% Physical resistance, +20% Elemental resistance, +10% Wind resistance and 15% Ironsing resistance. Additionally, it provides the [Brunt](Talents.md#brunt) Talent.
+This Outfit has 1200 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +20% Elemental resistance [ResistanceElemental](Attunements.md), +15% Ironsing resistance [ResistanceIronsing](Ironsing.md), and 10% Wind resistance [ResistanceGalebreathe](Galebreathe.md). Additionally, it provides the [Brunt](Talents.md#brunt) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 32% Ironsing, 28% Galebreathe, and 20% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 32% Ironsing [ResistanceIronsing](Ironsing.md), 28% Galebreathe [ResistanceGalebreathe](Galebreathe.md), and 20% Elemental [ResistanceElemental](Attunements.md).
 
 The [Brunt](Talents.md#brunt) Talent increases your posture resistance while two-handing by 10%.
 
-## Trivia/Notes
+## Trivia
 
 -   The description implies that the Blacksmiths have knowledge of/can use Ironsing.
 -   Although rather expensive, this can be a decent expert armor if you're using a weapon that can be two handed

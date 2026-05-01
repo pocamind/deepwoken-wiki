@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 206684
+revid: 206791
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -38,21 +38,21 @@ After having unlocked Bloodrend at least once, [Vyrelda](Vyrelda,_Master_of_Bloo
 
 ## Training
 
-Bloodrend can be trained with a combination of the [Tourniquet](Training_Gear.md#attunement-training-gears) and Bloodrend Mantras.
+Bloodrend can be trained by using the [Tourniquet](Training_Gear.md#attunement-training-gears) to increase the attribute after landing Bloodrend Mantras to gain enough EXP.
 
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 
 -   At 1 Bloodrend, players will receive the _Bloodrender_ Talent. This allows players to obtain 0-star Bloodrend Mantras.
 -   At 20 Bloodrend, players will receive the _Adept Bloodrender_ Talent. This allows players to obtain 1-star Bloodrend Mantras.
 -   At 30 Bloodrend, players will receive the _Expert Bloodrender_ Talent. This allows players to obtain 2-star Bloodrend Mantras.
--   Finally, at 50 Bloodrend, players will receive the _Master Bloodrender_ Talent. This allows Bloodrend users to obtain 3-star Bloodrend Mantras. They also uniquely benefit from having 25% more blood capacity and increased blood regeneration.
+-   Finally, at 50 Bloodrend, players will receive the _Master Bloodrender_ Talent. This allows players to obtain 3-star Bloodrend Mantras.
 
-You can speak to [Vyrelda](Vyrelda,_Master_of_Blood.md) at [Derelict Highchurch](Derelict_Highchurch.md) or a [Mantra Lectern](Mantra_Lectern.md) to upgrade your Bloodrend Mantras for 100 Notes each. Each upgrade purchased will make the next upgrade for the same Mantra 100 notes more expensive.
+You can speak to [Vyrelda](Vyrelda,_Master_of_Blood.md) at the [Derelict Highchurch](Derelict_Highchurch.md) or a [Mantra Lectern](Mantra_Lectern.md) to upgrade your Bloodrend Mantras for 100 each. Each upgrade purchased will make the next upgrade for the same Mantra 100 more expensive.
 
--   To upgrade a Bloodrend Mantra from level 1 to level 2 costs 100 and requires 20 Bloodrend investment.
--   To upgrade a Bloodrend Mantra from level 2 to level 3 costs 200 and requires 40 Bloodrend investment.
--   To upgrade a Bloodrend Mantra from level 3 to level 4 costs 300 and requires 60 Bloodrend investment.
--   To upgrade a Bloodrend Mantra from level 4 to level 5 costs 400 and requires 80 Bloodrend investment.
+-   To upgrade a Bloodrend Mantra from level 1 to level 2 costs 100 and 20 Bloodrend investment.
+-   To upgrade a Bloodrend Mantra from level 2 to level 3 costs 200 and 40 Bloodrend investment.
+-   To upgrade a Bloodrend Mantra from level 3 to level 4 costs 300 and 60 Bloodrend investment.
+-   To upgrade a Bloodrend Mantra from level 4 to level 5 costs 400 and 80 Bloodrend investment.
 
 [Bloodrend Unbound](Attributes_Unbound.md#attunement-unbound) can be obtained by defeating any humanoid [boss](Bosses.md) (Duke, Chaser, Ferryman, etc), while having 75 points invested into the attunement.
 
@@ -78,11 +78,7 @@ This Cantrip allows the player to consume raw meat-type [Food](Food.md) items wi
 
 ## Mantras
 
-Bloodrend currently has a total of 17 Mantras.
-
 All Bloodrend Mantras have 2.75 Bloodrend scaling unless stated otherwise.
-
-  
 
 ### Combat Mantras
 
@@ -360,7 +356,7 @@ _Slash upwards and launch slashes of blood._
  |
 | 
 
-30 Ether [IconEther](Ether.md)
+55 Ether [IconEther](Ether.md)
 
  | 
 
@@ -417,6 +413,43 @@ Blood [ResistanceBloodrend](Bloodrend.md)
  |
 | 
 
+**Scarlet Cannon** (★★☆)
+
+_Create a giant blood beam._
+
+ | 
+
+## Scarlet Cannon (★★☆)
+
+  
+_Create a giant blood beam._
+
+ |
+| 
+
+40 Ether [IconEther](Ether.md)
+
+ | 
+
+Blood [ResistanceBloodrend](Bloodrend.md)
+
+ | 
+
+30 Bloodrend
+
+ |
+| 
+
+**Effect:** _Jump into the air before blasting a continuous beam of blood at a nearby target._
+
+-   Beam locks onto target for the entire duration of the mantra.
+-   Hits 17 times
+-   Deals 1/1.5/2/2.5/3 damage per level, per hit, 1 posture per hit, 1.1s windup Has 13s CD at level 5
+-   Has 2.69x PVE scaling
+
+ |
+| 
+
 **Scarlet Cyclone** (★★☆)
 
 _Create a cyclone of blood._
@@ -455,43 +488,6 @@ Blood [ResistanceBloodrend](Bloodrend.md)
  |
 | 
 
-**Scarlet Cannon** (★★☆)
-
-_Create a giant blood beam._
-
- | 
-
-## Scarlet Cannon (★★☆)
-
-  
-_Create a giant blood beam._
-
- |
-| 
-
-40 Ether [IconEther](Ether.md)
-
- | 
-
-Blood [ResistanceBloodrend](Bloodrend.md)
-
- | 
-
-30 Bloodrend
-
- |
-| 
-
-**Effect:** _Jump into the air before blasting a continuous beam of blood at a nearby target._
-
--   Beam locks onto target for the entire duration of the mantra.
--   Hits 17 times
--   Deals 1/1.5/2/2.5/3 damage per level, per hit, 1 posture per hit, 1.1s windup Has 13s CD at level 5
--   Has 2.69x PVE scaling
-
- |
-| 
-
 **Soulflare Siphon** (★★☆)
 
 _Grab and siphon blood out of your victim._
@@ -506,7 +502,7 @@ _Grab and siphon blood out of your victim._
  |
 | 
 
-50 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -737,7 +733,7 @@ _Create tendrils of blood._
  |
 | 
 
-40 Ether [IconEther](Ether.md)
+70 Ether [IconEther](Ether.md)
 
  | 
 
@@ -808,7 +804,7 @@ _A servant of blood._
  |
 | 
 
-85 Ether [IconEther](Ether.md)
+100 Ether [IconEther](Ether.md)
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 206664
+revid: 206783
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -39,14 +39,14 @@ The easiest way to obtain all of the required ores without visiting [The Depths]
 
 ## Training
 
-Ironsing can be trained with a combination of the [Ferrofluid](Training_Gear.md#attunement-training-gears) and Ironsing Mantras.
+Ironsing can be trained by using the [Ferrofluid](Training_Gear.md#attunement-training-gears) to increase the attribute after landing Ironsing Mantras to gain enough EXP.
 
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 
 -   At 1 Ironsing, players will receive the _Ironsinger_ Talent. This allows players to obtain 0-star Ironsing Mantras.
 -   At 20 Ironsing, players will receive the _Adept Ironsinger_ Talent. This allows players to obtain 1-star Ironsing Mantras.
 -   At 30 Ironsing, players will receive the _Expert Ironsinger_ Talent. This allows players to obtain 2-star Ironsing Mantras.
--   Finally, at 50 Ironsing, players will receive the _Master Ironsinger_ Talent. This allows Ironsing users to obtain 3-star Ironsing Mantras.
+-   Finally, at 50 Ironsing, players will receive the _Master Ironsinger_ Talent. This allows players to obtain 3-star Ironsing Mantras.
 
 You can speak to [Adar](Adar,_Master_of_Metal.md) at [Miner's Landing](<Miner's_Landing.md>) or a [Mantra Lectern](Mantra_Lectern.md) to upgrade your Ironsing Mantras for 100 each. Each upgrade purchased will make the next upgrade for the same Mantra 100 more expensive.
 
@@ -127,7 +127,7 @@ _A flurry of metal spikes._
  |
 | 
 
-45 Ether [IconEther](Ether.md)
+55 Ether [IconEther](Ether.md)
 
  | 
 
@@ -169,7 +169,7 @@ _A barrage of metal rods._
  |
 | 
 
-30 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -212,7 +212,7 @@ _A powerful kick laced with metal._
  |
 | 
 
-30 Ether [IconEther](Ether.md)
+55 Ether [IconEther](Ether.md)
 
  | 
 
@@ -252,7 +252,7 @@ _Sharp metal traps._
  |
 | 
 
-50 Ether [IconEther](Ether.md)
+65 Ether [IconEther](Ether.md)
 
  | 
 
@@ -274,9 +274,9 @@ Metal [ResistanceIronsing](Ironsing.md) + [Bleed](Status_Effects.md#bleed)
 -   Goes through block (**and your character!**) if cast closely to the target.
 -   Caltrops on the ground can still be parried and blocked.
 -   Caltrops can be destroyed by attacking them directly, though this usually isn't worth your time as they take 2 hits each to be broken.
--   Can be modified with [Cloudstones/Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the hitbox of the caltrops.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the hitbox of the caltrops.
 -   While airborne, Caltrops only apply rods after 2 hits. While on the ground, Caltrops apply 1 rod every hit.
--   Caltrops can be upgraded with the '**Laced Traps'** Talent, applying a slow and disallowing your opponent to jump on hit for a short duration.
+-   Caltrops can be upgraded with the [Laced Traps](Talents.md#laced-traps) Talent, applying a slow and disallowing your opponent to jump on hit for a short duration.
 
  |
 | 
@@ -295,7 +295,7 @@ _Create a firing line of metal to light up your target._
  |
 | 
 
-40 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -336,7 +336,7 @@ _Conjure metal from within, impaling surrounding entities._
  |
 | 
 
-60 Ether [IconEther](Ether.md)
+75 Ether [IconEther](Ether.md)
 
  | 
 
@@ -375,7 +375,7 @@ _Create a metal clone and appear behind your target._
  |
 | 
 
-45 Ether [IconEther](Ether.md)
+80 Ether [IconEther](Ether.md)
 
  | 
 
@@ -413,7 +413,7 @@ _Unleash a rain of metal rods down below._
  |
 | 
 
-50 Ether [IconEther](Ether.md)
+70 Ether [IconEther](Ether.md)
 
  | 
 
@@ -516,7 +516,7 @@ Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Status
 -   Gives [True Hyperarmor](Status_Effects.md#true-hyperarmor) on use, also gives I-frames to victim and user during the grab animation.
 -   Has 9.65x PvE scaling (multiply damage dealt by 9.65 for PvE damage).
 -   Applies 1 Metal Rod per hit.
--   Can be upgraded with the **Metal Absorption** Talent, stealing a percentage of your opponent's armor durability on hit.
+-   Can be upgraded with the [Metal Absorption](Talents.md#metal-absorption) Talent, stealing a percentage of your opponent's armor durability on hit.
 -   Shares a cooldown with all other [grab Mantras](List_of_Grab_Mantras.md).
 
  |
@@ -536,7 +536,7 @@ _Conjure a giant rod of metal and slam it down._
  |
 | 
 
-40 Ether [IconEther](Ether.md)
+65 Ether [IconEther](Ether.md)
 
  | 
 
@@ -574,7 +574,7 @@ _Summon a blade of metal to swing alongside you._
  |
 | 
 
-40 Ether [IconEther](Ether.md)
+85 Ether [IconEther](Ether.md)
 
  | 
 
@@ -616,7 +616,7 @@ _A deadly rush of several metallic rods._
  |
 | 
 
-50 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -655,7 +655,7 @@ _Create a lance, impale your opponent, and send them flying._
  |
 | 
 
-35 Ether [IconEther](Ether.md)
+65 Ether [IconEther](Ether.md)
 
  | 
 
@@ -726,7 +726,7 @@ _Summon a large metal pillar._
  |
 | 
 
-50 Ether [IconEther](Ether.md)
+65 Ether [IconEther](Ether.md)
 
  | 
 
@@ -768,7 +768,7 @@ _Create a metal ball and rush forward._
  |
 | 
 
-40 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -881,7 +881,7 @@ _Coat your skin with metal to reduce harm._
  |
 | 
 
-20 Ether [IconEther](Ether.md)
+50 Ether [IconEther](Ether.md)
 
  | 
 
@@ -900,7 +900,7 @@ N/A
 -   Can be upgraded with Aeon/Eternal Logstones for increased duration.
 -   Does not negate fall damage.
 -   Duration scales on level.
--   Can be upgraded with the **Intuitive Repairs** Talent, causing you to regenerate your armor and natural armor for the Mantra's duration.
+-   Can be upgraded with the [Intuitive Repairs](Talents.md#intuitive-repairs) Talent, causing you to regenerate your armor and natural armor for the Mantra's duration.
 
  |
 | 
@@ -942,8 +942,8 @@ Metal [ResistanceIronsing](Ironsing.md)
 -   Each shot applies a Metal Rod on hit
 -   Turrets can be destroyed if hit enough times by the caster or their opponents.
 -   Requires a ritual cast with two keys, adding duration modifiers increases the number of keys.
--   Can be modified with [Aeon/Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to increase duration.
--   Can be modified with [Drift/Rush Shards](Mantra_Modifiers.md#regular-modifiers) to make turret spin faster.
+-   Can be modified with [Aeon](Mantra_Modifiers.md#regular-modifiers)/[Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to increase duration.
+-   Can be modified with [Drift](Mantra_Modifiers.md#regular-modifiers)/[Rush Shards](Mantra_Modifiers.md#regular-modifiers) to make turret spin faster.
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to conjure two turrets instead of one
 
  |

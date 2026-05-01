@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 206500
+revid: 206785
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons]
@@ -41,7 +41,7 @@ Akin to the [Shattered](Shattered_Katana.md) and [Alloyed Katanas](Katana.md), t
 
 ### In Vow of Iron
 
-In the [Vow of Iron](Vow_of_Iron.md) gamemode, the Purple Cloud is available as a weapon exclusive to the [Drifter](Drifter.md) [Memento](Mementos.md). Instead of attacking with martial arts, the player swings the sword unsheathed, although it bears the same critical and stats, including range, as the Pathfinder version. The neon lavender pattern on the unsheathed blade in Pathfinder is changed to a saturated magenta in its Vow of Iron variant, and comes with unique magenta afterimage-styled trail visuals during swinging.
+In the [Vow of Iron](Vow_of_Iron.md) gamemode, the Purple Cloud is available as a weapon exclusive to the [Drifter](Drifter.md) [Memento](Mementos.md). Instead of attacking with martial arts, the player swings the sword unsheathed, although it bears the same critical and stats, including range, as the Pathfinder version. The neon white pattern on the unsheathed blade in Pathfinder is changed to a saturated magenta in its Vow of Iron variant, and comes with unique magenta afterimage-styled trail visuals during swinging.
 
 ## Critical
 

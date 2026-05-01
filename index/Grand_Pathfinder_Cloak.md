@@ -1,6 +1,6 @@
 ---
 title: Grand Pathfinder Cloak
-revid: 206729
+revid: 206796
 source: https://deepwoken.fandom.com/wiki/Grand_Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits]
@@ -20,6 +20,7 @@ categories: [Outfits, Expert Outfits]
 | durability | 2000 |
 | resistances | +20% Physical Armor , +20% Elemental Armor |
 | buffs | +40% Stealth |
+| talents | Legendary |
 | obtainment | Chests from:, Erisia, Aratel Island, The Depths, Sea Events |
 | selling_price | 10 |
 | weight | 1 |

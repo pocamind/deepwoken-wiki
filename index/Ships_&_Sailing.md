@@ -1,6 +1,6 @@
 ---
 title: "Ships & Sailing"
-revid: 205362
+revid: 206794
 source: https://deepwoken.fandom.com/wiki/Ships_%26_Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]

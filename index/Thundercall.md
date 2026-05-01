@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 206666
+revid: 206788
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -28,21 +28,21 @@ The [Attunement Trainer](Attunement_Trainers.md), [Funke](Funke,_Master_of_Thund
 
 ## Training
 
-Thundercall can be trained with a combination of the [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) and using Thundercall Mantras.
+Thundercall can be trained by using the [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) to increase the attribute after either landing Thundercall Mantras or eating [Spark Glands](Spark_Gland.md) to gain enough EXP.
 
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 
 -   At 1 Thundercall, players will receive the _Thundercaller_ Talent. This allows players to obtain 0-star Thundercall Mantras.
 -   At 20 Thundercall, players will receive the _Adept Thundercaller_ Talent. This allows players to obtain 1-star Thundercall Mantras.
 -   At 30 Thundercall, players will receive the _Expert Thundercaller_ Talent. This allows players to obtain 2-star Thundercall Mantras.
--   Finally, at 50 Thundercall, players will receive the _Master Thundercaller_ Talent. This allows Thundercall users to obtain 3-star Thundercall Mantras.
+-   Finally, at 50 Thundercall, players will receive the _Master Thundercaller_ Talent. This allows players to obtain 3-star Thundercall Mantras.
 
-You can speak to [Funke](Funke,_Master_of_Thunder.md) or a [Mantra Lectern](Mantra_Lectern.md) to upgrade your Thundercall Mantras for 100 each. Each upgrade purchased will make the next upgrade for the same Mantra 100 more expensive.
+You can speak to [Funke](Funke,_Master_of_Thunder.md) at [Summer Isle](Summer_Isle.md) or a [Mantra Lectern](Mantra_Lectern.md) to upgrade your Thundercall Mantras for 100 each. Each upgrade purchased will make the next upgrade for the same Mantra 100 more expensive.
 
--   To upgrade a Thundercall Mantra from level 1 to level 2 costs 100 and requires 20 Thundercall investment.
--   To upgrade a Thundercall Mantra from level 2 to level 3 costs 200 and requires 40 Thundercall investment.
--   To upgrade a Thundercall Mantra from level 3 to level 4 costs 300 and requires 60 Thundercall investment.
--   To upgrade a Thundercall Mantra from level 4 to level 5 costs 400 and requires 80 Thundercall investment.
+-   To upgrade a Thundercall Mantra from level 1 to level 2 costs 100 and 20 Thundercall investment.
+-   To upgrade a Thundercall Mantra from level 2 to level 3 costs 200 and 40 Thundercall investment.
+-   To upgrade a Thundercall Mantra from level 3 to level 4 costs 300 and 60 Thundercall investment.
+-   To upgrade a Thundercall Mantra from level 4 to level 5 costs 400 and 80 Thundercall investment.
 
 [Thundercall Unbound](Attributes_Unbound.md#attunement-unbound) can be obtained by defeating any humanoid [boss](Bosses.md) (Duke, Chaser, Ferryman, etc), while having 75 points invested into the attunement.
 
@@ -922,7 +922,7 @@ _Swap places with a selected target._
  |
 | 
 
-20 Ether [IconEther](Ether.md)
+50 Ether [IconEther](Ether.md)
 
  | 
 

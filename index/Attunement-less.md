@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 206653
+revid: 206786
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -109,7 +109,7 @@ _Show your foes your strength._
  |
 | 
 
-35 Ether
+35 Ether [IconEther](Ether.md)
 
  | 
 
@@ -150,7 +150,7 @@ _Unleash a barrage of blows against your foes._
  |
 | 
 
-30 Ether
+30 Ether [IconEther](Ether.md)
 
  | 
 
@@ -195,7 +195,7 @@ _Toss the ground infront of you._
  |
 | 
 
-35 Ether
+35 Ether [IconEther](Ether.md)
 
  | 
 
@@ -234,7 +234,7 @@ _Unleash two devastating kicks with your brute strength._
  |
 | 
 
-120 Ether
+120 Ether [IconEther](Ether.md)
 
  | 
 
@@ -277,7 +277,7 @@ _Kick off of the ground with your strength, sending you into the air._
  |
 | 
 
-70 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 
@@ -318,7 +318,7 @@ _Disguise yourself in tacet and drop kick your enemies._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -359,7 +359,7 @@ _Grab and throw your enemies._
  |
 | 
 
-100 Ether
+100 Ether [IconEther](Ether.md)
 
  | 
 
@@ -435,7 +435,7 @@ _Rush at your enemies with your full physical force._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -479,7 +479,7 @@ _Absorb incoming posture damage for allies around you for a set duration. When y
  |
 | 
 
-70 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 
@@ -487,7 +487,7 @@ N/A
 
  | 
 
-10 Fortitude, Any Shield Equipped
+10 Fortitude, Any [Shield](Shields.md) Equipped
 
  |
 | 
@@ -521,7 +521,7 @@ _Buff those around you with extra defense and damage._
  |
 | 
 
-70 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 
@@ -567,7 +567,7 @@ _Brace yourself against attacks and gain hyperarmour._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -640,7 +640,7 @@ _A vengeful rush. Deals additional damage the lower your health is below 50%._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -689,7 +689,7 @@ _Launch quick and devastating kicks._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
@@ -729,7 +729,7 @@ _An agile dash._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -770,7 +770,7 @@ _An adrenaline rush of mobility._
  |
 | 
 
-20 Ether
+20 Ether [IconEther](Ether.md)
 
  | 
 
@@ -795,7 +795,7 @@ N/A
 
 ### _Intelligence Mantras_
 
--   Intelligence Mantras act as "wildcards" in the user's arsenal as they complement existing Mantras well. To increase your intelligence attribute, train your brain with an Encyclopedia or a Math Textbook, discover new locations and recipes, scavenge for natural resources and concoct potions.
+Intelligence Mantras act as "wildcards" in the user's arsenal as they complement existing Mantras well. To increase your intelligence attribute, train your brain with an Encyclopedia or a Math Textbook, discover new locations and recipes, scavenge for natural resources and concoct potions.
 
 | 
 **Name**
@@ -846,7 +846,7 @@ _Conjure concentrated orbs of Ether to launch at your enemy._
  |
 | 
 
-30 Ether
+30 Ether [IconEther](Ether.md)
 
  | 
 
@@ -888,7 +888,7 @@ _Predict an opponent's attack and reflect it._
  |
 | 
 
-100 Ether
+100 Ether [IconEther](Ether.md)
 
  | 
 
@@ -931,7 +931,7 @@ _Using your mind's eye, you force your imagined position into reality, appearing
  |
 | 
 
-70 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 
@@ -974,7 +974,7 @@ _Make a cauldron appear from your memories._
  |
 | 
 
-20 Ether
+20 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1047,7 +1047,7 @@ _A melee strike that removes your posture's damage on hit._
  |
 | 
 
-80 Ether
+80 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1087,7 +1087,7 @@ _Opponents facing you are briefly rendered immobile._
  |
 | 
 
-100 Ether
+100 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1131,7 +1131,7 @@ _Gaze into your opponent's souls._
  |
 | 
 
-70 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1209,7 +1209,7 @@ _Taunt those around you, causing them to be unable to jump and to take 20% more 
  |
 | 
 
-100 Ether
+100 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1253,7 +1253,7 @@ _Charm those around you with your powerful voice._
  |
 | 
 
-100 Ether
+100 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1295,7 +1295,7 @@ _Grab your opponent and whisper a terrible truth in their ear. Further truths ar
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1346,7 +1346,7 @@ _Take on an unimaginable disguise._
  |
 | 
 
-100 Ether
+100 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1431,7 +1431,7 @@ _Rush down your opponent cutting them apart._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1473,7 +1473,7 @@ _Click to reveal yourself and deliver a rapid flurry of slashes that can chain t
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1521,7 +1521,7 @@ _Launch into the air and deliver a devastating divebomb kick. Chains from Karita
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1559,7 +1559,7 @@ _Launch yourself into a flying kick, backflipping into the air if you hit a wall
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1630,7 +1630,7 @@ _A powerful slash that chips through block and slashes through armor._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1673,7 +1673,7 @@ _Close the distance and deliver a fast slash._
  |
 | 
 
-65 Ether
+65 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1715,7 +1715,7 @@ _Dart around the battlefield with devastating cleaves delivered in quick success
  |
 | 
 
-45 Ether
+45 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1756,7 +1756,7 @@ _Step forward and slice through your enemies. Ability can be activated again on 
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1802,7 +1802,7 @@ _Switftly unsheathe your blade and deliver an upwards strike._
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1874,7 +1874,7 @@ _Unleash a powerful pressure blast from the weight of your weapon._
  |
 | 
 
-35 Ether
+35 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1917,7 +1917,7 @@ _Reel back and swing your weapon, unleashing an onslaught of blows if it hits._
  |
 | 
 
-65 Ether
+65 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1962,7 +1962,8 @@ _Absorb damage then return fury upon your foes._
  |
 | 
 
-30 Ether (Counter), 30 Ether (Slash)
+30 Ether [IconEther](Ether.md) (Counter)  
+30 Ether [IconEther](Ether.md) (Slash)
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 206755
+revid: 206795
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -38,7 +38,7 @@ A Hemafrosted Capra casting a beam of ice.
 
 This is where the Attunement trainer is located.
 
-Frostdraw can be trained by using [Hemafrost](Training_Gear.md#attunement-training-gears) to increase the attribute after either landing Frostdraw Mantras or eating [Frigid Prisms](Frigid_Prism.md) for EXP.
+Frostdraw can be trained by using the [Hemafrost](Training_Gear.md#attunement-training-gears) to increase the attribute after either landing Frostdraw Mantras or eating [Frigid Prisms](Frigid_Prism.md) to gain enough EXP.
 
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 

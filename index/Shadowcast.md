@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 206668
+revid: 206773
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -24,7 +24,7 @@ The [Attunement](Attunements.md) can be unlocked by drinking a [Nightblood potio
 
 ## Training
 
-Shadowcast can be trained with a combination of the [Pure Heart](Training_Gear.md#attunement-training-gears) and using Shadowcast Mantras, or eating [Umbral Obsidian](Umbral_Obsidian.md).
+Shadowcast can be trained by using the [Pure Heart](Training_Gear.md#attunement-training-gears) to increase the attribute after either landing Shadowcast Mantras or eating [Umbral Obsidian](Umbral_Obsidian.md) to gain enough EXP.
 
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 

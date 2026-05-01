@@ -1,6 +1,6 @@
 ---
 title: Hive Drone
-revid: 199218
+revid: 206798
 source: https://deepwoken.fandom.com/wiki/Hive_Drone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, The Hive]
@@ -18,7 +18,7 @@ categories: [Outfits, Expert Outfits, The Hive]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1000 |
-| resistances | +25% Physical Armor, +25% Elemental Armor, +5% Blunt Armor, +5% Wind Armor |
+| resistances | +25% Physical Armor , +5% Blunt Armor +25% Elemental Armor , +5% Wind Armor |
 | talents | Lowstride |
 | obtainment | Chests from:, Starswept Valley, Summer Isle, Rogue Construct, The Depths, Lodestar, Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 , Sea EventsVow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
@@ -37,9 +37,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability and grants +25% Physical resistance, +25% Elemental resistance, +5% Blunt Armor, and +5% Wind Armor. Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
+This Outfit has 1000 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +5% Blunt resistance ResistanceBlunt, +25% Elemental resistance [ResistanceElemental](Attunements.md) and +5% Wind resistance [ResistanceGalebreathe](Galebreathe.md). Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28.75% Blunt, 25% Slash, 28.75% Galebreathe, and 25% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28.75% Blunt ResistanceBlunt, 25% Slash ResistanceSlash, 28.75% Galebreathe [ResistanceGalebreathe](Galebreathe.md), and 25% Elemental [ResistanceElemental](Attunements.md).
 
 The [Lowstride](Talents.md#lowstride) Talent increases your [Stealth](Stealth.md) and movement speed while crouching. Additionally, this removes the sound that sheathing and unsheathing your weapon makes.
 

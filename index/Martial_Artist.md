@@ -1,6 +1,6 @@
 ---
 title: Martial Artist
-revid: 203411
+revid: 206804
 source: https://deepwoken.fandom.com/wiki/Martial_Artist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, Drops]
@@ -18,7 +18,7 @@ categories: [Outfits, Expert Outfits, Drops]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1200 |
-| resistances | +30% Physical Armor, +20% Elemental Armor, +5% Fire Armor, +5% Ironsing Armor |
+| resistances | +30% Physical Armor , +20% Elemental Armor , +5% Fire Armor , +5% Ironsing Armor |
 | talents | Bruiser's Mixup |
 | obtainment | Scyphozia (Depths Collapse), Mudskipper Broodlord, Mudskipper Brute, Diluvian Mechanism (wave 15-50), Fury Nautilodaunt, Lionfish, Saramaed Hollow, The Understrand |
 | selling_price | 10 |
@@ -35,9 +35,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ## Armor Stats
 
-This Outfit has 1200 durability and grants +30% Physical Armor, +20% Elemental Armor, +5% Fire Armor, +5% Ironsing Armor. Additionally, it provides the [Bruiser's Mixup](Talents.md#bruisers-mixup) Talent.
+This Outfit has 1200 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +20% Elemental resistance [ResistanceElemental](Attunements.md), +5% Fire resistance [ResistanceFlamecharm](Flamecharm.md), +5% Ironsing resistance [ResistanceIronsing](Ironsing.md). Additionally, it provides the [Bruiser's Mixup](Talents.md#bruisers-mixup) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 24% Flamecharm, 24% Ironsing, and 20% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 24% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 24% Ironsing [ResistanceIronsing](Ironsing.md), and 20% Elemental [ResistanceElemental](Attunements.md).
 
 The [Bruiser's Mixup](Talents.md#bruisers-mixup) Talent allows your [Fist](Fists.md) attacks to inflict [Bleed](Status_Effects.md#bleed) temporarily after style swapping (Y).
 

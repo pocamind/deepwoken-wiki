@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 206658
+revid: 206789
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -28,21 +28,21 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
 
 ## Training
 
-Galebreathe can be trained by using a combination of Gale Kata and Galebreathe Mantras.
+Galebreathe can be trained by using the [Gale Kata](Training_Gear.md#attunement-training-gears) to increase the attribute after either landing Galebreathe Mantras or eating [Gale Stones](Gale_Stone.md) **(HEAVILY DISCOURAGED)** to gain enough EXP.
 
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 
--   At 1 Galebreathe, players will receive the _Galebreather_ Talent. This allows players to obtain 0-star Galebreathe Mantras.
--   At 20 Galebreathe, players will receive the _Adept Galebreather_ Talent. This allows players to obtain 1-star Galebreathe Mantras.
--   At 30 Galebreathe, players will receive the _Expert Galebreather_ Talent. This allows players to obtain 2-star Galebreathe Mantras.
--   Finally, at 50 Galebreathe, players will receive the _Master Galebreather_ Talent. This allows players to obtain 3-star Galebreathe Mantras.
+-   At 1 Galebreathe, players will receive the _Galebreatheer_ Talent. This allows players to obtain 0-star Galebreathe Mantras.
+-   At 20 Galebreathe, players will receive the _Adept Galebreatheer_ Talent. This allows players to obtain 1-star Galebreathe Mantras.
+-   At 30 Galebreathe, players will receive the _Expert Galebreatheer_ Talent. This allows players to obtain 2-star Galebreathe Mantras.
+-   Finally, at 50 Galebreathe, players will receive the _Master Galebreatheer_ Talent. This allows players to obtain 3-star Galebreathe Mantras.
 
 You can speak to [Friid](Friid,_Master_of_Gale.md) at the [Isle of Vigils](Isle_of_Vigils.md) or a [Mantra Lectern](Mantra_Lectern.md) to upgrade your Galebreathe Mantras for 100 each. Each upgrade purchased will make the next upgrade for the same Mantra 100 more expensive.
 
--   To upgrade a Galebreathe Mantra from level 1 to level 2 costs 100 and requires 20 Galebreathe investment.
--   To upgrade a Galebreathe Mantra from level 2 to level 3 costs 200 and requires 40 Galebreathe investment.
--   To upgrade a Galebreathe Mantra from level 3 to level 4 costs 300 and requires 60 Galebreathe investment.
--   To upgrade a Galebreathe Mantra from level 4 to level 5 costs 400 and requires 80 Galebreathe investment.
+-   To upgrade a Galebreathe Mantra from level 1 to level 2 costs 100 and 20 Galebreathe investment.
+-   To upgrade a Galebreathe Mantra from level 2 to level 3 costs 200 and 40 Galebreathe investment.
+-   To upgrade a Galebreathe Mantra from level 3 to level 4 costs 300 and 60 Galebreathe investment.
+-   To upgrade a Galebreathe Mantra from level 4 to level 5 costs 400 and 80 Galebreathe investment.
 
 [Galebreathe Unbound](Attributes_Unbound.md#attunement-unbound) can be obtained by defeating any humanoid [boss](Bosses.md) (Duke, Chaser, Ferryman, etc), while having 75 points invested into the attunement.
 
@@ -63,8 +63,6 @@ This does not work on [Ores](Ores.md).
 ## Mantras
 
 ### Combat Mantras
-
-{{MantraInfobox
 
 | 
 **Name**
@@ -233,7 +231,7 @@ _A strike from the heavens._
  |
 | 
 
-50 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -272,7 +270,7 @@ _A rush of piercing wind._
  |
 | 
 
-40 Ether [IconEther](Ether.md)
+55 Ether [IconEther](Ether.md)
 
  | 
 
@@ -416,9 +414,41 @@ Wind [ResistanceGalebreathe](Galebreathe.md)
 -   Pulls people in if close to it.
 
  |
-| name=Twister Kicks (★☆☆) | desc=Go forth with spinning kicks infused with the wind | image=Twister Kicks.gif | ethercost=60 Ether}
+| 
 
-[IconEther](Ether.md)
+**Twister Kicks** (★☆☆)
+
+_Go forth with spinning kicks infused with the wind_
+
+ | 
+
+## Twister Kicks (★☆☆)
+
+  
+_Go forth with spinning kicks infused with the wind_
+
+ |
+| 
+
+60 Ether [IconEther](Ether.md)
+
+ | 
+
+Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
+
+ | 
+
+20 Galebreathe
+
+ |
+| 
+
+**Effect:** _Dash forwards kicking with a rush of winds dealing damage._
+
+-   Has a base damage of 7/8.3/9.6/10.9/12.2 per level, per hit (4) with 2.75 Galebreathe scaling.
+-   Deals 4 posture damage per hit (4).
+-   Has a windup of 0.5 seconds with 0.11 seconds between each hit. Has a cooldown of 11 seconds.
+-   Can break objects.
 
  |
 | 
@@ -474,7 +504,7 @@ _Encircle your foes with blades of wind that halt their escape until they respon
  |
 | 
 
-60 Ether [IconEther](Ether.md)
+50 Ether [IconEther](Ether.md)
 
  | 
 
@@ -683,7 +713,7 @@ _A rapid delivery of consecutive attacks._
  |
 | 
 
-50 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 

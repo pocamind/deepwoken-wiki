@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 206756
+revid: 206787
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -28,7 +28,7 @@ The [Attunement Trainer](Attunement_Trainers.md), [Amashi](Amashi,_Master_of_Fla
 
 ## Training
 
-Flamecharm can be trained by using [Hearthgem](Training_Gear.md#attunement-training-gears) to increase the attribute after either landing Flamecharm Mantras or eating [Dying Embers](Dying_Embers.md) for EXP.
+Flamecharm can be trained by using the [Hearthgem](Training_Gear.md#attunement-training-gears) to increase the attribute after either landing Flamecharm Mantras or eating [Dying Embers](Dying_Embers.md) to gain enough EXP.
 
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 
@@ -151,7 +151,7 @@ _Slicing blades of flame._
  |
 | 
 
-45 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -946,7 +946,7 @@ _Shoot a projectile that explodes after a short delay and blinds those looking a
  |
 | 
 
-20 Ether [IconEther](Ether.md)
+70 Ether [IconEther](Ether.md)
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Navaen Nomad Robes
-revid: 206715
+revid: 206797
 source: https://deepwoken.fandom.com/wiki/Navaen_Nomad_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits, The Children of Navae]
@@ -19,6 +19,7 @@ categories: [Outfits, Adept Outfits, The Children of Navae]
 | durability | 1800 |
 | resistances | +10% Physical Armor , +10% Blunt Armor , +10% Elemental Armor , +15% Ice Armor , +15% Shadow Armor |
 | buffs | +50% Stealth |
+| talents | Fists of Navae |
 | obtainment | Nomad camp at Etris, Sold by Traan Zakshun for 200 Chests from:, Erisia/General Sea Event Loot, Moon's Eyrie, Minityrsa, Summer Isle, Primadon, Titan of the East |
 | selling_price | 10 |
 | weight | 1 |

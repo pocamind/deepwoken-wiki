@@ -1,6 +1,6 @@
 ---
 title: Ignition Welder
-revid: 194735
+revid: 206803
 source: https://deepwoken.fandom.com/wiki/Ignition_Welder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, The Ignition Union]
@@ -18,7 +18,7 @@ categories: [Outfits, Expert Outfits, The Ignition Union]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 3000 Durability |
-| resistances | +25% Physical Armor, +25% Elemental Armor |
+| resistances | +25% Physical Armor , +25% Elemental Armor |
 | talents | Master Craftsman |
 | obtainment | Saramaed HollowMiner's Landing |
 | selling_price | 10 |
@@ -37,6 +37,6 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This Outfit has 3000 durability and grants +25% Physical resistance, +25% Elemental resistance.
+This Outfit has 3000 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +25% Elemental resistance [ResistanceElemental](Attunements.md).
 
 It also gives the [Master Craftsman](Talents.md#master-craftsman) Talent, allowing you to craft items that would normally require a workbench from your inventory.
