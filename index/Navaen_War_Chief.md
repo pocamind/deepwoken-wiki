@@ -1,6 +1,6 @@
 ---
 title: Navaen War Chief
-revid: 194999
+revid: 206885
 source: https://deepwoken.fandom.com/wiki/Navaen_War_Chief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, The Children of Navae]
@@ -17,8 +17,8 @@ categories: [Outfits, Master Outfits, The Children of Navae]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 3000 |
-| resistances | +30% Physical Armor, +30% Elemental Armor, +10% Ice Armor, +5% Shadow Armor |
-| buffs | +50% Stealth+20% Ether Regen |
+| resistances | +30% Physical Armor , +30% Elemental Armor , +10% Ice Armor , +5% Shadow Armor |
+| buffs | +50% Stealth +20% Ether Regen |
 | talents | Chief's Will |
 | obtainment | Chests from:, Duke Erisia, The Depths, Primadon, Aratel Island, Greathive Aratel, Sea EventsOther:, Lodestar (Direct drop), Sold by Glaive Spellhardt for 100 Joy |
 | selling_price | 10 |
@@ -37,13 +37,11 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 3000 durability and grants +30% Physical Armor, 50% [Stealth](Stealth.md), +5% Shadow Armor, +20% ether regen, +10% Ice Armor, and +30% Elemental Armor. Additionally, it provides the [Chief's Will](Talents.md#chiefs-will) Talent.
+This Outfit has 3000 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), +10% Ice resistance [ResistanceFrostdraw](Frostdraw.md), +5% Shadow resistance [ResistanceShadowcast](Shadowcast.md), +50% [Stealth](Stealth.md) [IconStealth](Stealth.md), and +20% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Chief's Will](Talents.md#chiefs-will) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 37% Frostdraw, 33.5% Shadowcast, and 30% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 37% Frostdraw [ResistanceFrostdraw](Frostdraw.md), 33.5% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 
-The [Chief's Will](Talents.md#chiefs-will) Talent grants a 10% penetration buff on the [Way of Navae](Way_of_Navae.md) M1s. This bypasses the PEN cap, but does not apply to weapon criticals.
-
--   Due to them having the 'M1 tag,' [Wraithclaw's](Wraithclaw.md) criticals benefit from Chief's Will.
+The [Chief's Will](Talents.md#chiefs-will) Talent grants a 10% penetration buff on the [Fist](Fists.md) M1s and Criticals with the M1 tag while using the [Way of Navae](Way_of_Navae.md) Fist Style. This doss not bypass the PEN cap.
 
 ## Trivia
 

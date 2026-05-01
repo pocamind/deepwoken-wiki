@@ -1,6 +1,6 @@
 ---
 title: Legion Centurion
-revid: 194439
+revid: 206883
 source: https://deepwoken.fandom.com/wiki/Legion_Centurion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, The Hundred Legions]
@@ -18,7 +18,7 @@ categories: [Outfits, Master Outfits, The Hundred Legions]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 3000 |
-| resistances | +30% Physical Armor, +30% Elemental Armor, +5% Wind Armor, +5% Lightning Armor |
+| resistances | +30% Physical Armor , +30% Elemental Armor , +5% Wind Armor , +5% Lightning Armor |
 | buffs | +20% Ether Regen |
 | talents | Centurion's Resolve |
 | obtainment | Chests from:, Starswept Valley, Primadon, Moon's Eyrie, Etris: Siege, Megalodaunt On a Ship event, False Merchant Ships, Saramaed HollowSold by Nyanna and Traan Zakshun for 200 , sold by Glaive Spellhardt for 100 Joy |
@@ -37,8 +37,8 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 3000 durability and grants +30% Physical resistance, +30% Elemental resistance, +5% Wind resistance, +5% Lightning resistance and +20% Ether Regen. Additionally, it provides the [Centurion's Resolve](Talents.md#centurions-resolve) Talent.
+This Outfit has 3000 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), +5% Wind resistance [ResistanceGalebreathe](Galebreathe.md), +5% Lightning resistance [ResistanceThundercall](Thundercall.md), and +20% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Centurion's Resolve](Talents.md#centurions-resolve) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 33.5% Galebreathe, 33.5% Thundercall, and 30% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 33.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), 33.5% Thundercall [ResistanceThundercall](Thundercall.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md).
 
 The [Centurion's Resolve](Talents.md#centurions-resolve) Talent grants a 4% melee damage buff to the [Legion Kata](Legion_Kata.md) and [Imperium Kata](Imperium_Kata.md) fist styles.
