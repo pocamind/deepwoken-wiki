@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 207013
+revid: 207037
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -333,7 +333,7 @@ Shadow [ResistanceShadowcast](Shadowcast.md) + Slash ResistanceSlash
 -   Drains 2.45 Ether per hit, regardless of level, with 2.75 Shadowcast scaling.
 -   Deals 1 posture damage per hit (5).
 -   Has a 14 second cooldown.
--   Shares a cooldown with Shadow Meteors.
+-   Shares a cooldown with [Shadow Meteor](#shadow-meteor).
 -   If attacked while casting, the Shadow Seekers will dissipate.
 -   You cannot use any Mantras for a long duration after casting this Mantra. This will end early if all of your Shadow Seekers hit your target.
 -   [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) increase the amount of Shadow Seekers, with every +1 size being an additional Seeker. Having more than 11 Shadow Seekers halves the base damage for each Seeker.
@@ -383,13 +383,13 @@ Blunt ResistanceBlunt (Slam)
  |
 | 
 
-**Shadow Meteors** (★★☆)
+**Shadow Meteor** (★★☆)
 
 _Hail down meteors of darkness._
 
  | 
 
-## Shadow Meteors (★★☆)
+## Shadow Meteor (★★☆)
 
   
 _Hail down meteors of darkness._
@@ -417,7 +417,7 @@ Shadow [ResistanceShadowcast](Shadowcast.md)
 -   Deals 2 posture damage per hit (3).
 -   Has a 15 second cooldown.
 -   Has 9.179x PvE scaling (multiply damage dealt by 9.179 to get PvE damage).
--   You cannot cast Mantras while Shadow Meteors is active.
+-   You cannot cast Mantras while Shadow Meteor is active.
 -   Shares a cooldown with [Shadow Seekers](Shadowcast.md#shadow-seekers).
 
  |
@@ -931,7 +931,7 @@ _Summon a servant of Shade_
  |
 | 
 
-70 Ether [IconEther](Ether.md)
+90 Ether [IconEther](Ether.md)
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Fondant Splitter
-revid: 203383
+revid: 207052
 source: https://deepwoken.fandom.com/wiki/Fondant_Splitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium Weapons, Relics, Relic Weapon]
@@ -20,7 +20,7 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium W
 | swing speed | 1x |
 | attack duration | 0.6s |
 | penetration | 5% |
-| special effect | The critical heals the user. The amount healed can be increased with the Tavernkeep Talents. |
+| special effect | The critical heals the user. The amount healed can be increased with the Umami and Tavernkeep Talents. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
@@ -46,15 +46,17 @@ The Fondant Splitter is obtained through [The Cold Forge](The_Cold_Forge.md) by 
 -   A [Cake](Cake.md)
 -   A [Sword](<Sword_(weapon).md>), [Messer](Messer.md), [Katana](Katana.md), or a [Scimitar](Scimitar.md), however crafting Fondant Splitter with a Scimitar will take three Cakes instead of one.
 
-The Fondant Splitter can be upgraded with the [Chef's Toque](<Chef's_Toque.md>) equipment, granting it a 35% chance to steal 1.95 \* ln(D) + 1.075 hunger and thirst from your opponent on weapon hits, where D = scaled damage dealt (calculator [here](https://www.desmos.com/calculator/yktgme7xnc)). This has a 3 second cooldown per proc attempt, going on cooldown even if it didn't proc.
+The Fondant Splitter can be upgraded with the [Chef's Toque](<Chef's_Toque.md>) equipment, granting it an extra 4 health on critical attack and a 35% chance to steal 1.95 \* ln(D) + 1.075 hunger and thirst from your opponent on weapon hits, where D = scaled damage dealt (calculator [here](https://www.desmos.com/calculator/yktgme7xnc)). This has a 3 second cooldown per proc attempt, going on cooldown even if it didn't proc.
 
-Additionally, the Fondant Splitter's critical is buffed when the player has all [Chef Talents](Talents.md#tavernkeep).
+Additionally, the Fondant Splitter's critical is buffed further when the player has all [Chef Talents](Talents.md#tavernkeep).
 
 ## Critical
 
 The user will take two bites out of the Fondant Splinter, healing 7.5 flat health per tick (15 flat health total).
 
 The [Artisan Chef](Talents.md#artisan-chef) and [Master Chef](Talents.md#master-chef) Talents increase the healing gained from the critical by 2.5 each (+1.25 healing per tick). This allows the user to heal 20 health per critical if they have both.
+
+The [Umami](<Chef's_Toque.md>) Talent increases the healing gained from the critical by 4 (+2 healing per tick). This allows the user to heal 24 health per critical if they have every required bonus.
 
 This critical has a cooldown of **20 seconds**.
 

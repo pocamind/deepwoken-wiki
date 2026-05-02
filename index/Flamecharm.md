@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 207003
+revid: 207041
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -300,7 +300,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 -   The Spring Spark variant's projectile has a base damage of 14.4/16.56/18.72/20.88/23.04 per level, while the explosion always has a base damage of 17 regardless of Mantra level. Both hits have 2.75 Flamecharm scaling.
 -   The base variant deals 15 posture damage, while the Spring Spark variant deals 6 + 10 posture damage.
 -   The base variant has a windup of 0.7 seconds. The Spring Spark variant is a projectile, with a point blank windup of 1 second. Both variants have a 15 second cooldown.
--   If your are hit near the end of the base variant's windup, you will absorb the damage with 75% damage reduction and reflect it back with in the form of increased base damage. You gain very brief [hyper-armor](Status_Effects.md#hyperarmor) to signify this effect.
+-   If your are hit near the end of the base variant's windup, you will absorb the damage with 75% damage reduction and reflect it back with in the form of increased base damage. You gain very brief [Hyperarmor](Status_Effects.md#hyperarmor) to signify this effect.
     -   This effect has a very small activation window, as if you get hit too early in the windup the Mantra will just be canceled. This also works on fall damage.
 -   Knocks enemies back.
 -   Inflicts Burn.
@@ -620,7 +620,7 @@ _A rising tornado of flames._
  |
 | 
 
-60 Ether [IconEther](Ether.md)
+80 Ether [IconEther](Ether.md)
 
  | 
 

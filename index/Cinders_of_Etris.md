@@ -1,6 +1,6 @@
 ---
 title: Cinders of Etris
-revid: 205186
+revid: 207044
 source: https://deepwoken.fandom.com/wiki/Cinders_of_Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Random Encounters, Etrea, Disaster]
@@ -28,7 +28,7 @@ At the beginning of the event, [Seraphina](Seraphina.md) or [Etrean Guardsmen](E
 
 Within the town, significant NPCs like [Polis](Polis.md) will attempt to fight off Authority soldiers that are crowding him, but will prioritize Authority Commanders above all. [Nell](Nell,_Master_of_Frost.md) the Ice Trainer will stay neutral unless provoked, in which she will help fight off the Authority.
 
-If you participate in this event and defeat all of the [Authority Guards](Authority_Officer.md), an [Authority Commander](<Authority_Commander_(Enemy).md>), or [Polis](Polis.md), 3 Large Chests will spawn at the city's center, yielding **high-tier [Depths](The_Depths.md)** Loot, sometimes including [Deep Gems](Deep_Gems.md), Legendary Rings, the powerful [Wyrmtooth](Wyrmtooth.md) and [Kanabo](Kanabo.md), and the schematic containing [Justicar's Armor](<Justicar's_Armor.md>).
+If you participate in this event and defeat all of the [Authority Guards](Authority_Officer.md), an [Authority Commander](<Authority_Commander_(Enemy).md>), or [Polis](Polis.md), 3 Large Chests will spawn at the city's center, yielding **high-tier [Depths](The_Depths.md)** Loot, sometimes including [Deep Gems](Deep_Gems.md), Legendary Rings, the powerful [Wyrmtooth](Wyrmtooth.md) and [Kanabo](Kanabo.md), and the schematic containing [Justicar's Armor](<Justicar's_Armor.md>). You will also unlock the [Justicar](<Justicar_(Origin).md>) [origin](Origins.md).
 
 Additionally, you get positive [Etrea reputation](Etrea.md#reputation) if you killed the Authority soldiers including the [Authority Commander](<Authority_Commander_(Enemy).md>), and positive [The Central Authority reputation](The_Central_Authority.md#reputation) if you killed [Polis](Polis.md).
 

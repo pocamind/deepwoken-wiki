@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Frost"
-revid: 203449
+revid: 207056
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Medium Weapons, "Weapons with Multi-Hit Criticals", Hero Blades]
@@ -12,7 +12,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons wi
 |---|---|
 | type | Sword |
 | damage type | Slash |
-| requirements | 100 ICE, LVL 11 |
+| requirements | 100 ICE, LVL 10 |
 | oath | Silentheart |
 | damage | 19 |
 | scaling | ICE: 5.5 |

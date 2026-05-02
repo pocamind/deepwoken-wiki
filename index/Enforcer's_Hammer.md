@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Hammer"
-revid: 203610
+revid: 207060
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greathammers, Weapons with Unique Criticals, Drops, Heavy Weapons, "Weapons with Multi-Hit Criticals"]
@@ -12,7 +12,7 @@ categories: [Weapons, Criticals with M1 tag, Greathammers, Weapons with Unique C
 |---|---|
 | type | Greathammer |
 | damage type | Blunt |
-| requirements | 80 HVY, 25 STR, LVL 6 |
+| requirements | 80 HVY, 25 STR |
 | damage | 25 |
 | scaling | HVY: 9 |
 | posture damage | 12 |

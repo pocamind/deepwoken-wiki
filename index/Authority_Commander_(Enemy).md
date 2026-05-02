@@ -1,6 +1,6 @@
 ---
 title: Authority Commander (Enemy)
-revid: 206033
+revid: 207029
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Central Authority Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -144,4 +144,4 @@ Their arsenal is composed of either an [Adretian Axe](Adretian_Axe.md) or [Caval
 -   You used to be able to pickpocket the Authority Commander for the Jail Keys, but it required the Pickpocket Talent to do so.
 -   This was the only NPC you could pickpocket so far.
 -   You cannot talk with them. Previously, attempting to do so would pickpocket them instead.
--   They wear the [Authority Commander](Authority_Commander.md) Outfit, an [Authority Helm](Authority_Helm.md), and a Black Shrouded Cape.
+-   They wear the [Authority Commander](Authority_Commander.md) Outfit, an [Authority Helm](Authority_Helm.md), and a [Black Shrouded Cape](https://deepwoken.fandom.com/wiki/Shrouded_Cape).

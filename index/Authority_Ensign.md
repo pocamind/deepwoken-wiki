@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 207009
+revid: 207035
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -538,7 +538,7 @@ _Create a lightning axe!_
  |
 | 
 
-40 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 

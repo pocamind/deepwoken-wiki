@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 204456
+revid: 207038
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -457,7 +457,7 @@ _For the Deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 |  | 2.0s | [Thundercall](Thundercall.md) Mantras |
 |  | 1.9s | [Thundercall](Thundercall.md) Mantras Alt |
 |  | 3.8s | [Bolt Piercer](Thundercall.md#bolt-piercer) Mantra |
-|  | 1.4s | [Grand Javelin](Thundercall.md#grand-javelin) + Shadow Meteors (Windup) |
+|  | 1.4s | [Grand Javelin](Thundercall.md#grand-javelin) + [Shadow Meteor](Shadowcast.md#shadow-meteor) (Windup) |
 |  | 1.9s | [Legion Sniper](Legion_Sniper.md)'s [Grand Javelin](Thundercall.md#grand-javelin) Impact |
 |  | 2.2s | [Lightning Beam](Thundercall.md#lightning-beam) (Unleash) |
 |  | 4.7s | Lightning Bolt |

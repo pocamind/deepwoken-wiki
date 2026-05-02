@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 203170
+revid: 207054
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Hero Blades]
@@ -12,7 +12,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Swords, "A
 |---|---|
 | type | Sword |
 | damage type | Slash |
-| requirements | 100 ELM, LVL 11 |
+| requirements | 100 ELM, LVL 10 |
 | oath | Silentheart |
 | damage | 19 |
 | scaling | 5.5 ELM |

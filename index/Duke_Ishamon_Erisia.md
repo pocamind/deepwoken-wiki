@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 205358
+revid: 207045
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
@@ -34,6 +34,8 @@ Defeating him will also allow [Galebreathe](Galebreathe.md) users to unlock the 
 He is a noble who resided in the City of [Celtor](Lost_Celtor.md) before its submergence and part of a lineage that ruled the island of [Erisia](Erisia.md). In appearance, Duke Erisia is a Marten [Celtor](Celtor.md). He wears a Slate Aristocrat Coat over the [Eager Tradesman](Eager_Tradesman.md) starter outfit with [Eyeglasses](Eyeglasses.md). He also has a green [Resonance](Resonance.md) by his side that allows him to create and control [Rock Golems](Rock_Golem.md), although it is never visibly used during the boss fight. Duke Erisia is a martial arts user though does not seem nearly adept at fighting with his fists as with his wind. Alongside his martial attacks, he wields extremely powerful [Galebreathe](Galebreathe.md) [Mantras](Mantras.md).
 
 ## Moveset
+
+OUTDATED AS OF WRITING THIS HE HAS BEEN REVAMPED BUT THE GAME IS NOT OPEN TO THE PUBLIC
 
 Duke Ishamon Erisia's arsenal consists of [Untrained Fist](Untrained_Fist.md) with an [Iron Cestus](Iron_Cestus.md) and [Galebreathe](Galebreathe.md).
 

@@ -1,6 +1,6 @@
 ---
 title: Ministry Operative Cloak
-revid: 205226
+revid: 207069
 source: https://deepwoken.fandom.com/wiki/Ministry_Operative_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -28,4 +28,4 @@ categories: [Equipment, Arms, Cloaks]
 
 The Ministry Operative Cloak is an [Equipment](Equipment.md) item under the "Arms" category.
 
-The [Eureka](Talents.md#eureka) Talent grants +10% Mantra damage to your next Mantra cast when you gain 3 stacks of Inspiration. Inspiration stacks are gained from parrying and landing Mantras. Autoparry frames and multihits do not grant additional stacks of Inspiration.
+The [Eureka](Talents.md#eureka) Talent grants +10% Mantra damage to your next Mantra cast when you gain 3 stacks of [Inspiration](Status_Effects.md#inspired). Inspiration stacks are gained from parrying and landing Mantras. Autoparry frames and multihits do not grant additional stacks of Inspiration.

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 206795
+revid: 207036
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -110,7 +110,7 @@ _A legion of frost._
  |
 | 
 
-30 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -511,7 +511,7 @@ _A colossal mace of ice._
  |
 | 
 
-50 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -639,7 +639,7 @@ _Form an ice spear and lunges forward._
  |
 | 
 
-60 Ether [IconEther](Ether.md)
+70 Ether [IconEther](Ether.md)
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Shadow Meteor
-revid: 135826
+revid: 207040
 source: https://deepwoken.fandom.com/wiki/Shadow_Meteor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Shadowcast#Shadow Meteors](Shadowcast.md#shadow-meteors)
+-   [Shadowcast#Shadow Meteor](Shadowcast.md#shadow-meteor)

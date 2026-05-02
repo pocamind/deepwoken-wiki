@@ -1,6 +1,6 @@
 ---
 title: Weathered Timepiece
-revid: 204807
+revid: 207033
 source: https://deepwoken.fandom.com/wiki/Weathered_Timepiece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Drops, Ingredients]
@@ -26,6 +26,7 @@ This content is not accessible outside of this gamemode.
 
 **Weathered Timepiece** is a rare drop from [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md). It may be found at the bottom of the item list in his boss chest. It appears to be a broken watch.
 
-## Uses
+## Crafting
 
--   Used to craft the [Vortex Echo](Vortex_Echo.md) Relic fist weapon.
+The Weathered Timepiece can be crafted into another ingredient ([Necrotic Membrane](Necrotic_Membrane.md)) with the [Lost Forge](Lost_Forge_of_Leiuna.md) found at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).  
+It can also be used to craft the [Vortex Echo](Vortex_Echo.md), a Relic fist weapon

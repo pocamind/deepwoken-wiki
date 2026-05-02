@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 198066
+revid: 207042
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Character, Mechanics, Creation, Origins, Features absent in Vow of Iron]
@@ -51,6 +51,12 @@ This content is not accessible outside of this gamemode.
 [Authority Ensign](Authority_Ensign.md)
 
 [Authority Ensign](Authority_Ensign.md)
+
+[Justicar](<Justicar_(Origin).md>)
+
+[Justicar](<Justicar_(Origin).md>)
+
+[Justicar](<Justicar_(Origin).md>)
 
 ## Upcoming Origins
 
