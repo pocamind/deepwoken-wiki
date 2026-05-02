@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 206788
+revid: 207004
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]

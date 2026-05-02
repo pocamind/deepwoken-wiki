@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 206676
+revid: 207007
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ignition Union]
@@ -138,7 +138,7 @@ _Fire plasma energy. Deals additional damage in PvE._
  |
 | 
 
-TBA [IconEther](Ether.md)
+50 Ether [IconEther](Ether.md)
 
  | 
 
@@ -172,7 +172,7 @@ TBA
  |
 | 
 
-**Arc Beam** (☆☆☆)
+**Arc Wave** (☆☆☆)
 
 **Combat Mantra**
 
@@ -180,7 +180,7 @@ _Stomp the ground releasing a wave of Arc energy._
 
  | 
 
-## Arc Beam (☆☆☆)
+## Arc Wave (☆☆☆)
 
   
 **Combat Mantra**  
@@ -189,7 +189,7 @@ _Stomp the ground releasing a wave of Arc energy._
  |
 | 
 
-TBA [IconEther](Ether.md)
+50 Ether [IconEther](Ether.md)
 
  | 
 
@@ -267,7 +267,7 @@ _Conjure and equip your Arcwarder suit._
  |
 | 
 
-TBA [IconEther](Ether.md)
+50 Ether [IconEther](Ether.md)
 
  | 
 

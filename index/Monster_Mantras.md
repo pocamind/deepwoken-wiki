@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 204834
+revid: 207008
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -68,7 +68,7 @@ _Send a cascading eruption towards your foes, forcing them to react._
  |
 | 
 
-55 Ether
+55 Ether [IconEther](Ether.md)
 
  | 
 
@@ -105,7 +105,7 @@ _Create tentacles and pierce multiple opponents at once._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
@@ -147,11 +147,11 @@ _A javelin of jagged bone._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Blunt
+Blunt ResistanceBlunt
 
  | 
 
@@ -186,11 +186,11 @@ _..._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -222,11 +222,11 @@ _..._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice ResistanceSlash
 
  | 
 
@@ -257,11 +257,11 @@ _..._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -293,11 +293,11 @@ _A chitinous scythe to cut through your foes in a whirl._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -364,11 +364,11 @@ _..._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Blunt
+Blunt ResistanceBlunt
 
  | 
 
@@ -434,7 +434,7 @@ _A servant of bone, powered by the Eternal Gale._
  |
 | 
 
-60 Ether
+100 Ether [IconEther](Ether.md)
 
  | 
 
@@ -481,7 +481,7 @@ _A powerful gravitational pull._
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 206943
+revid: 207003
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -20,7 +20,7 @@ Flamecharm Icon
 
 This Attunement is ideal for new players, due to it's innate ability to grip knocked humanoid NPCs with it's DOT burn effect, alongside it's superior utility in comparison with other attunements, making progression and exploration much easier.
 
-As mentioned previously, flamecharm focuses on DOT and AoE effects. This attunement's mantras usually create a large hit box either around the user or in front of them, making hitting your opponent incredibly easy at close range. To compensate, it's mantras rarely propel the user horizontally, with most of it's mantras either slowing the user down or preventing movement almost entirely. This makes builds with lots of movement options and range viable against this attunement, as it limits the amount of mantras you have to worry about. Do note that it does have a couple of options in order to close the distance or deal damage at considerable range, namely Fire Palm, Flaming Scourge modified with Reversal Spark, Flame Dancer talents.
+As mentioned previously, Flamecharm focuses on DOT and AoE effects. This attunement's mantras usually create a large hit box either around the user or in front of them, making hitting your opponent incredibly easy at close range. To compensate, it's mantras rarely propel the user horizontally, with most of it's mantras either slowing the user down or preventing movement almost entirely. This makes builds with lots of movement options and range viable against this attunement, as it limits the amount of mantras you have to worry about. Do note that it does have a couple of options in order to close the distance or deal damage at considerable range, namely Fire Palm, Flaming Scourge modified with Reversal Spark, Flame Dancer talents.
 
 ## Obtainment
 
