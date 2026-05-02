@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 206901
+revid: 207009
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -370,7 +370,7 @@ Complete 10 missions solo, then speak to [High Inquisitor Merey](High_Inquisitor
 
 -   **Stature Break** - Landing a backstab of any kind disables posture for 8 seconds.
     -   This applies the [Paused Posture](Status_Effects.md#paused-posture) Status effect, denying _most_ sources of Posture restoration.
-    -   During Paused Posture, you cannot restore posture by: [Parrying](Combat_Mechanics.md#parrying), [Spitting](Combat_Mechanics.md), or the [Steady Nerves](Talents.md#steady-nerves) Talent. All other forms of posture restoration entirely ignore this status effect.
+    -   During Paused Posture, you cannot restore posture by: passive posture regen, [Parrying](Combat_Mechanics.md#parrying), or the [Steady Nerves](Talents.md#steady-nerves) Talent. All other forms of posture restoration entirely ignore this status effect.
 
 -   **Tacet Minimization** - Focus your [Tacet](Murmur%253A_Tacet.md) even further, allowing the radius at which you get spotted to become smaller temporarily.
     -   Decreases your Tacet bubble size to the minimum possible and grants 400% flat [Stealth](Stealth.md) for 10 seconds. 1 minute cooldown.

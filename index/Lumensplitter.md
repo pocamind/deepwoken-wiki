@@ -1,6 +1,6 @@
 ---
 title: Lumensplitter
-revid: 205327
+revid: 207014
 source: https://deepwoken.fandom.com/wiki/Lumensplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Greatswords, Heavy Weapons, "Weapons with Multi-Hit Criticals"]
@@ -39,14 +39,11 @@ The Lumensplitter is a Legendary Greatsword; a large, serrated curved blade cons
 
 ## Critical
 
-The user leans back, before relishing in a heavy tornado-like series of spinning slashes, totaling up to 3, granting **true hyperarmor** for the duration of the attack. Opponents caught in the attack will be or:
+The user leans back, before releasing in a heavy tornado-like series of 3 spinning slashes. Grants **true hyperarmor** for the duration of the attack. Opponents caught in the attack will be pulled along with it.
 
--   A. Stunned, and pulled in the attack by the third slash, this occurs if the opponent is on moderate distance from the user, but still hit by the hitbox.
--   B. Pulled in by the attack, this occurs if opponent is upclose to the user(tested, somewhat buggy/inconsistent).
+This attack has a scaled damage multiplier of 2.1x with [Bleed](Status_Effects.md#bleed).
 
-The critical deals x2.1 of m1 damage(this was just tested), has innate bleed and a cooldown of **10 seconds**, the "fling" on last slash dazes(even if it doesn't wallbang, as it flings opponents to the floor, granting a wallbang)).
-
-This critical **does NOT have m1 tag,** which renders it unable to proc M1-exclusive [Talents](Talents.md).
+This attack has a cooldown of **10 seconds**.
 
 ## Trivia
 

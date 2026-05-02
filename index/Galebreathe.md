@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 206789
+revid: 207022
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1057,7 +1057,7 @@ These Talents are found in the _Whisper_ category.
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 |  | Haunted Gale  
-(40 Galebreathe, POWER 8) | Landing 3 Galebreathe Mantras without whiffing calls for a Haunted Phantom. The Phantom will attack alongside you for the next 8s before dissipating. | On proc, gain the Haunted status effect; all Mantras will spawn a Haunted Gale ghost that will attack your target, dealing Galebreathe damage. The ghost will only attack once per Mantra cast. Having your Mantra blocked, dodged, or parried will count as it being "whiffed," resetting all Haunted Gale stacks. Casting a non-Galebreathe Mantra will also count as a "whiff".
+(40 Galebreathe, POWER 8) | Landing 3 Galebreathe Mantras without whiffing calls for a Haunted Phantom. The Phantom will attack alongside you for the next 8s before dissipating. | On proc, gain the Haunted status effect; all Mantras will spawn a Haunted Gale ghost that will attack your target, dealing Galebreathe damage. The ghost will only attack once per Mantra cast.
   
 Gale Wisp will extend the duration of Haunted by 3 seconds.
 

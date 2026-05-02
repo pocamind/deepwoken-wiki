@@ -1,6 +1,6 @@
 ---
 title: Cathedral of the Interstice
-revid: 205729
+revid: 207028
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_the_Interstice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]
@@ -62,6 +62,7 @@ Your Difficulty Score is calculated by "(Power x 3) + Drowns". This dictates the
 Some things can add extra Difficulty Score, alongside making the Trial a bit harder:
 
 -   ~The **[Deepbound](Deepbound.md)** [Origin](Origins.md) has an innate 50 Difficulty Score, so they must always fight an [Enforcer](Enforcer.md) or [Nautilodaunt](Nautilodaunt.md), regardless of [Power](Power.md). Deepbounds are still affected by other modifiers, and normal difficulty calculations returns after they have achieved at least 50 Difficulty Score.~
+    -   **This is currently bugged.** [Deepbound](Deepbound.md) [Origin](Origins.md) currently faces the normal trial.
 -   The **Deep Champion** [Echo Modifier](Echoes.md) will always enable every enemy to be [Corrupted](Monsters.md#scyphozia), regardless of Difficulty Score or Power.
 -   The **[Shrine of Courage](Shrine_of_Courage.md)** adds 50 Difficulty Score to the Trial. Additionally, once the player completes the harder Trial, they will be rewarded with 15 Free training points.
 -   **NOTE**: [Vow of Iron](Vow_of_Iron.md) completely overhauls this system and gives a random enemy from a list and an extra enemy is added for each player in the trial. Visit [Depths Trial (Vow of Iron)](<The_Depths_(Vow_of_Iron).md#depths-trial>) for the Vow of Iron's version of the depths trial.

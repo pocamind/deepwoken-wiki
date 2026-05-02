@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 206915
+revid: 207026
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -914,8 +914,10 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Cold Phantom
 
 -   Freezing Wight \[Common Talent, Dual Attunement, Frostdraw, Galebreathe\] - Your Haunted Gale now procs Chilled.
-    -   Applies 7 seconds of chill or 1 Crystal.
     -   Also works with Specter Path's Apparitions.
+    -   Applies 7 seconds of chill or 1 Crystal.
+    -   Adds 5 Frostdraw scaling to your Haunted Gale Ghost/Specter Apparitions, significantly increasing their damage.
+        -   The formula for Apparition/Ghost damage with this Talent is: 7 × (1 + ((5/10 + 5/10) × (Galebreathe invest/100 + Frostdraw invest/100)))
     -   Changes the damage type of Haunted Gale Ghosts/Specter Apparitions from pure Galebreathe to Galebreathe & Frostdraw, making them easier to resist and allowing them to proc things that require the Frostdraw damage type (e.g. Flashboil).
     -   Prerequisites: Haunted Gale, 40 Frostdraw
 
@@ -2047,7 +2049,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   **Stature Break** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Landing a backstab of any kind disables posture for 8 seconds.
     -   This applies the [Paused Posture](Status_Effects.md#paused-posture) Status effect, denying _most_ sources of Posture restoration.
-    -   During Paused Posture, you cannot restore posture by: [Parrying](Combat_Mechanics.md#parrying), [Spitting](Combat_Mechanics.md), or the [Steady Nerves](#steady-nerves) Talent. All other forms of posture restoration entirely ignore this status effect.
+    -   During Paused Posture, you cannot restore posture by: passive posture regen, [Parrying](Combat_Mechanics.md#parrying), or the [Steady Nerves](#steady-nerves) Talent. All other forms of posture restoration entirely ignore this status effect.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
 
 -   **Tacet Minimization** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Focus your Tacet even further, allowing the radius at which you get spotted to become smaller temporarily.
@@ -3407,7 +3409,9 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Apparitions \[Common Talent, Galebreathe\] - Your Haunted Phantoms become Apparitions that apply [Winded](Status_Effects.md#winded) on hit. Apparitions cannot be parried if you are in [Phantom Step](Status_Effects.md#phantom-step).
     -   Apparitions can be parried in "Phantom step" (Possibly a bug)
-    -   Does not proc on non-Galebreathe Mantras.
+    -   Landing an ability that would normally apply [Suffocation](Status_Effects.md#suffocation) or landing a Galebreathe Mantra during [Haunted Gale](Status_Effects.md#haunted) creates an Apparition.
+    -   Apparitions have the same stats as Haunted Gale's Ghosts, with 7 base damage and 5 Galebreathe scaling. Though, their model is very different and Apparitions can proc Specter Talents.
+        -   The Freezing Wight Talent gives your Apparitions the Frostdraw damage type, Chill application, and an additional 5 Frostdraw scaling.
     -   Prerequisites: Haunted Path: Specter, 50 Galebreathe
 
 -   Phantom Step \[Common Talent, Galebreathe\] - Press X to begin running at high speeds and your regular dashes transform into gale dashes. (Must have at least 10% Spectral Gauge)
@@ -4101,14 +4105,14 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Whisper
 
 -   Haunted Gale \[Common Talent, Agility\] - Landing 3 Galebreathe Mantras without whiffing calls for a Haunted Phantom. The Phantom will attack alongside you for the next 8s before dissipating.
-    -   This talant can be activated through non-Galebreathe Mantras as well.
-    -   On proc, gain the Haunted status effect, spawning ghosts that attack your opponent every time you land a Mantra.
+    -   On proc, gain the Haunted status effect, spawning ghosts that attack your opponent every time you land a Mantra. Only one Ghost can spawn per Mantra.
         -   [Gale Wisp](Galebreathe.md#gale-wisp) increases the duration of Haunted by 3 seconds.
-        -   Haunted Gale is capped at 1 ghost per Mantra.
+    -   Haunted Gale Ghosts have 7 base damage with 5 Galebreathe scaling.
     -   If your Mantra is blocked, parried, or dodged, it will be "_whiffed_", resetting all stacks of Haunted Gale.
     -   Haunted Gale stacks are counted **per person**, not globally.
     -   If you have Apparitions, landing a Galebreathe Mantra while having the Haunted Gale status effect will create an Apparition instead.
         -   Landing non-Galebreathe Mantras will create Haunted Gale's Ghosts even if you have Apparitions.
+    -   Having the Freezing Wight Talent will give your Ghosts a Chill proc, the Frostdraw damage type, and an additional 5 Frostdraw scaling.
     -   Prerequisites: 40 Galebreathe, [Power](Power.md) 8
 
 ### Windrunner
