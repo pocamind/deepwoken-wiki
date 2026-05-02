@@ -1,6 +1,6 @@
 ---
 title: "Familiar Knight's Armor"
-revid: 202670
+revid: 206929
 source: https://deepwoken.fandom.com/wiki/Familiar_Knight's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Hallowtide]
@@ -18,7 +18,7 @@ categories: [Outfits, Unique Outfits, Hallowtide]
 | bankable | Yes |
 | droppable | No |
 | durability | 3500 |
-| resistances | +30% Physical Armor, +40% Elemental Armor |
+| resistances | +30% Physical Armor , +40% Elemental Armor |
 | buffs | +10% Ether Regen |
 | talents | Hyperbody |
 | obtainment | Lysander Spellhardt [35 Joy], Any Blacksmith if you have the Hallowtide '24 Medal [3 Knowledge]Chests from:, The Trial of the Gourdskipper |
@@ -37,7 +37,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 3500 durability and grants +30% Physical Armor, 40% Elemental Armor, and 10% Ether Regen. Additionally, it provides the [Hyperbody](Talents.md#hyperbody) Talent, but will passively reduce your movement speed by 30% while equipped.
+This Outfit has 3500 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, 40% Elemental resistance [ResistanceElemental](Attunements.md), and +10% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Hyperbody](Talents.md#hyperbody) Talent, but will passively reduce your movement speed by 30% while equipped.
 
 Using the [Hyperbody](Talents.md#hyperbody) Talent tool applies a buff to yourself and nearby allies that increases movement speed, defense, and regeneration. This effect becomes weaker the more allies are affected. Hyperbody lasts 30 seconds, but the duration is reduced by 3 seconds per person affected, including yourself. Hyperbody has a 2 minute cooldown.
 

@@ -1,6 +1,6 @@
 ---
 title: Windrunner Robes
-revid: 194686
+revid: 206919
 source: https://deepwoken.fandom.com/wiki/Windrunner_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits]
@@ -16,9 +16,9 @@ categories: [Outfits, Master Outfits]
 | price | 1,000 |
 | stat_req | Power 15 10 Agility |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | durability | 2600 |
-| resistances | +25% Physical Armor, +30% Elemental Armor, +25% Wind Armor |
+| resistances | +25% Physical Armor , +30% Elemental Armor , +25% Wind Armor |
 | buffs | +50% Ether Regen |
 | talents | Wind Dancer |
 | obtainment | The Diluvian Mechanism, Maestro Evengarde Rest, Scion of Ethiron, Sold by Glaive Spellhardt for 100 Joy |
@@ -34,13 +34,11 @@ This Outfit costs 1,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 and have at least 10 [Agility](Attributes.md#agl) to be crafted.
 
-This Outfit's schematic is not droppable, but it is bankable.
-
 ## Armor Stats
 
-This Outfit has 2600 durability and grants +25% Physical Armor, +30% Elemental Armor, +25% Wind Armor, +50% Ether Regen. Additionally, it provides the [Wind Dancer](Talents.md#wind-dancer) Talent.
+This Outfit has 2600 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Wind resistance [ResistanceGalebreathe](Galebreathe.md), and +50% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Wind Dancer](Talents.md#wind-dancer) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical, 47.5% Galebreathe, and 30% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistanceBlunt ResistanceSlash, 47.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), and.
 
 The [Wind Dancer](Talents.md#wind-dancer) Talent grants a 10% speed boost for 8 seconds after roll cancelling twice in quick succession, but one of your rolls must dodge a hit in order for it to activate. This has a 10 second cooldown.
 

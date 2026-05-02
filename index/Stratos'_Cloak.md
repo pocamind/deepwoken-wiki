@@ -1,6 +1,6 @@
 ---
 title: "Stratos' Cloak"
-revid: 206470
+revid: 206957
 source: https://deepwoken.fandom.com/wiki/Stratos'_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Outfits, Unique Outfits, Etrea]
@@ -17,7 +17,7 @@ categories: [Pathfinder Exclusive, Outfits, Unique Outfits, Etrea]
 | bankable | No |
 | droppable | No |
 | durability | 2200 |
-| resistances | +20% Physical Armor, +30% Elemental Armor, +25% Shadow Armor |
+| resistances | +20% Physical Armor , +30% Elemental Armor , +25% Shadow Armor |
 | talents | Breeze |
 | obtainment | Speak to Stratos while having at least ally Etrea reputation |
 | selling_price | 10 |
@@ -40,9 +40,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2200 durability and grants +20% Physical resistance, +30% Elemental resistance and +25% Shadow resistance. Additionally, it provides the [Breeze](Talents.md#breeze) Talent.
+This Outfit has 2200 durability and grants +20% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), and +25% Shadow resistance [ResistanceShadowcast](Shadowcast.md). Additionally, it provides the [Breeze](Talents.md#breeze) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 20% Physical, 47.5% Shadowcast, 30% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 20% Physical ResistanceBlunt ResistanceSlash, 47.5% Shadowcast [ResistanceShadowcast](Shadowcast.md), 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 
 The [Breeze](Talents.md#breeze) Talent grants a permanent +2 studs/s movement speed increase. The player naturally moves at 16 studs/s, making this equivalent to a permanent 12.5% boost in movement speed. Due to increasing your base speed, this also has the side effect of making all other speed boosts more effective. The movement increase is classified as a **mobility buff**, meaning it will **NOT proc Speed Demon** or other talents.
 

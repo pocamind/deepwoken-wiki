@@ -1,6 +1,6 @@
 ---
 title: Cindergarb
-revid: 202033
+revid: 206925
 source: https://deepwoken.fandom.com/wiki/Cindergarb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits]
@@ -18,9 +18,9 @@ categories: [Outfits, Unique Outfits]
 | bankable | Yes |
 | droppable | No |
 | durability | 3000 |
-| resistances | +15% Ironsing Armor, +20% Fire Armor, +25% Physical Armor, +30% Elemental Armor |
+| resistances | +25% Physical Armor , +30% Elemental Armor , +20% Fire Armor , +15% Ironsing Armor |
 | buffs | +75% Ether Regen |
-| talents | Repeated Propulsion, Warding Radiance |
+| talents | Repeated PropulsionWarding Radiance |
 | obtainment | Carnival of HeartsVow of Iron:, Solborn Memento |
 | selling_price | 10 |
 | weight | 1 |
@@ -38,9 +38,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 3000 durability and grants +25% Physical resistance, +30% Elemental resistance, +15% Metal resistance, +20% Fire resistance, and +75% Ether Regen. Additionally, it provides the [Warding Radiance](Talents.md#warding-radiance) and the Repeated Propulsion Talent.
+This Outfit has 3000 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), +15% Metal resistance [ResistanceIronsing](Ironsing.md), +20% Fire resistance [ResistanceFlamecharm](Flamecharm.md), and +75% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Warding Radiance](Talents.md#warding-radiance) and the [Repeated Propulsion](Talents.md#repeated-propulsion) Talents.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical, 44% Flamecharm, 40.5% Ironsing, and 30% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistanceBlunt ResistanceSlash, 44% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 40.5% Ironsing [ResistanceIronsing](Ironsing.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
 The [Warding Radiance](Talents.md#warding-radiance) Talent gives you a halo after you land 3 Flamecharm Mantras. While you have this halo, you will slide further, and landing a Flamecharm Mantra will call down a spear, dealing extra damage. The spear has a short cooldown.
 

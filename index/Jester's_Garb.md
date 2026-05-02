@@ -1,6 +1,6 @@
 ---
 title: "Jester's Garb"
-revid: 206474
+revid: 206948
 source: https://deepwoken.fandom.com/wiki/Jester's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, World Event]
@@ -18,7 +18,7 @@ categories: [Outfits, Unique Outfits, World Event]
 | bankable | Yes |
 | droppable | No |
 | durability | 2500 |
-| resistances | +25% Physical Armor, +15% Blunt Armor, +35% Elemental Armor |
+| resistances | +25% Physical Armor , +15% Blunt Armor , +35% Elemental Armor |
 | buffs | +50% Ether Regen |
 | talents | Mocking Favor, Not A Scratch |
 | obtainment | Carnival of Hearts |
@@ -38,12 +38,12 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 12
 
 ### _Armor Stats_
 
-This Outfit has 2500 durability and grants +25% Physical resistance, +15% Blunt resistance, +35% Elemental resistance and +50% Ether Regen.
+This Outfit has 2500 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +15% Blunt resistance ResistanceBlunt, +35% Elemental resistance [ResistanceElemental](Attunements.md), and +50% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Not a Scratch](Talents.md#not-a-scratch) and [Mocking Favor](Talents.md#mocking-favor) Talents.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 36.25% Blunt, 25% Slash, and 35% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 36.25% Blunt ResistanceBlunt, 25% Slash ResistanceSlash, and 35% Elemental [ResistanceElemental](Attunements.md).
 
-This Outfit also grants the [Mocking Favor](Talents.md#mocking-favor) Talent, causing Tillian to appear when you taunt (spit) or emote. He'll do an emote, say a quip, and apply a random buff or affliction. This Talent has a 30 second cooldown.  
-It also grants the [Not A Scratch](Talents.md#not-a-scratch) Talent, causing you to no longer show any signs of damage no matter how low your HP is. No cuts, no scratches, no torn clothing, rhythm ping always white, etc.
+The [Mocking Favor](Talents.md#mocking-favor) Talent causes [Tillian](Tillian.md) to appear when you taunt (spit) or emote. He'll do an emote, say a quip, and apply a random buff or affliction to you. This Talent has a 30 second cooldown.  
+The [Not A Scratch](Talents.md#not-a-scratch) disables all visual effects that signify your health amount. No cuts, no scratches, no torn clothing, [Rhythm](Murmur%253A_Rhythm.md) pings will always display white, etc. If you have less than 100 Willpower, you character will have a chance to scream in agony upon taking damage.
 
 List of buffs being:
 

@@ -1,6 +1,6 @@
 ---
 title: "Titanslayer's Adornment"
-revid: 199707
+revid: 206917
 source: https://deepwoken.fandom.com/wiki/Titanslayer's_Adornment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits]
@@ -18,7 +18,7 @@ categories: [Outfits, Master Outfits]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 3300 Durability |
-| resistances | +25% Physical Armor, +40% Elemental Armor |
+| resistances | +25% Physical Armor , +40% Elemental Armor |
 | buffs | +25% Ether Regen |
 | talents | Primal Rage |
 | obtainment | Elder Primadon, The Titan Warlord, Primadon, Titan of the East (very rare), Fishing |
@@ -37,7 +37,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 3300 durability and grants +25% Physical resistance, +40% Elemental resistance, and +25% Ether Regen. Additionally, it provides the [Primal Rage](Talents.md#primal-rage) Talent.
+This Outfit has 3300 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +40% Elemental resistance [ResistanceElemental](Attunements.md), and +25% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Primal Rage](Talents.md#primal-rage) Talent.
 
 The [Primal Rage](Talents.md#primal-rage) is given as a Talent tool. On use, drain your ether bar to gain a 25% damage buff on ALL attacks for 25 seconds. You also highlight enemy health whenever you hit them during your rage. This can only be activated while under 50% health and has a 3 minute cooldown. The health highlight effect is similar to [Soulbreaker's](Oath%253A_Soulbreaker.md) Heart Reverb Talent, applying even if your opponent blocks or dodges your attack.
 

@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon
-revid: 194687
+revid: 206916
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, The Summer Company]
@@ -17,7 +17,7 @@ categories: [Outfits, Master Outfits, The Summer Company]
 | bankable | Yes |
 | droppable | Yes |
 | durability | 2800 |
-| resistances | +30% Physical Armor, +30% Elemental Armor, +25% Wind Armor, +15% Ironsing Armor |
+| resistances | +30% Physical Armor , +30% Elemental Armor , +25% Wind Armor , +15% Ironsing Armor |
 | buffs | +20% Ether Regen |
 | talents | Sunset Ricochet |
 | obtainment | Glaive SpellhardtChests from:, Miner's Landing, Saramaed Summit, Starfield Veldt, Summer Isle |
@@ -39,9 +39,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2800 durability and grants +30% Physical resistance, +30% Elemental resistance, +25% Wind resistance, 15% Metal resistance, and +20% Ether Regen. Additionally, it provides the [Sunset Ricochet](Talents.md#sunset-ricochet) Talent.
+This Outfit has 2800 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Wind resistance [ResistanceGalebreathe](Galebreathe.md), +15% Metal resistance [ResistanceIronsing](Ironsing.md), and +20% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Sunset Ricochet](Talents.md#sunset-ricochet) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 47.5% Galebreathe, 40.5% Ironsing, and 30% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 47.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), 40.5% Ironsing [ResistanceIronsing](Ironsing.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
 The [Sunset Ricochet](Talents.md#sunset-ricochet) Talent makes your bullets ricochet to a nearby enemy when hitting an opponent. Visually, the bullets that ricochet towards a nearby opponent are signified by an orange line. Bullets that ricochet will hit targets for a certain number of times before dissipating, and applies on-hit Talents per hit.
 

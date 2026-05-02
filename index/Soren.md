@@ -1,6 +1,6 @@
 ---
 title: Soren
-revid: 206462
+revid: 206966
 source: https://deepwoken.fandom.com/wiki/Soren
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits, Developer Spec]
@@ -18,7 +18,7 @@ notices:
 | bankable | No |
 | droppable | No |
 | durability | 4000 |
-| resistances | +35% Physical Armor, +35% Elemental Armor, +25% Shadow Armor |
+| resistances | +35% Physical Armor , +35% Elemental Armor , +25% Shadow Armor |
 | buffs | +100% Ether Regen |
 | talents | Crippling Darkness |
 | selling_price | 10 |

@@ -1,6 +1,6 @@
 ---
 title: Vigil Sentinel
-revid: 206467
+revid: 206962
 source: https://deepwoken.fandom.com/wiki/Vigil_Sentinel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Etrea, World Event]
@@ -10,7 +10,6 @@ categories: [Outfits, Unique Outfits, Etrea, World Event]
 
 | Vigil Sentinel | |
 |---|---|
-| caption | N/A |
 | tier | Unique |
 | crafting_req | x5 Cloth, x5 Fiber, x5 Gale Stone, x5 Irithine, x1 Wind Gem, x5 Vibrant Gem |
 | price | 1000 |
@@ -18,7 +17,7 @@ categories: [Outfits, Unique Outfits, Etrea, World Event]
 | bankable | Yes |
 | droppable | No |
 | durability | 2500 |
-| resistances | +30% Physical Armor, +30% Elemental Armor, +25% Wind Armor, +10% Shadow Armor, +10% Fire Armor |
+| resistances | +30% Physical Armor , +30% Elemental Armor , +25% Wind Armor , +10% Shadow Armor , +10% Fire Armor |
 | buffs | +25% Ether Regen |
 | talents | Vigil's Grace, Action Surge |
 | obtainment | Interluminary Parasol, Carnival of Hearts |
@@ -38,9 +37,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 ### _Armor Stats_
 
-This Outfit has 2500 durability and grants +30% Physical resistance, +30% Elemental resistance, +25% Wind resistance, +10% Shadow resistance, 10% Fire resistance and +25% Ether Regen. Additionally, it provides the [Vigil's Grace](Talents.md#vigils-grace) and [Action Surge](Talents.md#action-surge) Talents.
+This Outfit has 2500 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Wind resistance [ResistanceGalebreathe](Galebreathe.md), +10% Shadow resistance [ResistanceShadowcast](Shadowcast.md), +10% Fire resistance [ResistanceFlamecharm](Flamecharm.md), and +25% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Vigil's Grace](Talents.md#vigils-grace) and [Action Surge](Talents.md#action-surge) Talents.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 47.5% Galebreathe, 37% Flamecharm, 37% Shadowcast, and 30% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 47.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), 37% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 37% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 
 The [Vigil's Grace](Talents.md#vigils-grace) Talent grants +0.02x swingspeed while you have a speed boost. The [Action Surge](Talents.md#action-surge) Talent grants +0.04x swingspeed while you're using the [Adrenaline Surge](Attunement-less.md#adrenaline-surge) Mantra. These effects stack, granting a maximum of +0.06x swingspeed.
 

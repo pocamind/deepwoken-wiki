@@ -1,6 +1,6 @@
 ---
 title: "Tempestmaker's Threads"
-revid: 206469
+revid: 206960
 source: https://deepwoken.fandom.com/wiki/Tempestmaker's_Threads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, World Event]
@@ -18,7 +18,7 @@ categories: [Outfits, Unique Outfits, World Event]
 | bankable | Yes |
 | droppable | No |
 | durability | 2600 Durability |
-| resistances | +25% Physical Armor, +25% Wind Armor, +30% Elemental Armor |
+| resistances | +25% Physical Armor , +30% Elemental Armor , +25% Wind Armor |
 | buffs | +75% Ether Regen |
 | talents | Tempest Evolution, Aerogliding |
 | obtainment | Carnival of HeartsVow of Iron:, Inheritor of the Gale Memento (automatically crafted) |
@@ -38,8 +38,8 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2600 durability and grants +25% Physical resistance, +30% Elemental resistance, +30% Wind resistance, and +75% Ether Regen. Additionally, it provides the [Tempest Evolution](Talents.md#tempest-evolution) and [Aerogliding](Talents.md#aerogliding) Talents.
+This Outfit has 2600 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), +30% Wind resistance [ResistanceGalebreathe](Galebreathe.md), and +75% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Tempest Evolution](Talents.md#tempest-evolution) and [Aerogliding](Talents.md#aerogliding) Talents.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical, 47.5% Galebreathe, and 30% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistanceBlunt ResistanceSlash, 47.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
 The [Tempest Evolution](Talents.md#tempest-evolution) Talent grants a 20% damage bonus in the air for a few seconds after landing [Wind Blade](Galebreathe.md#wind-blade) with the [Tempest Wind](Talents.md#tempest-wind) variant. Additionally, this increases the damage of your Tempest Wind. The [Aerogliding](Talents.md#aerogliding) Talent allows the user to fall slowly whilst holding space and lasts for about 3 seconds.

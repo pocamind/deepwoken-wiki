@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 206214
+revid: 206915
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -157,15 +157,14 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Adaptive Arsenal
 
 -   _An Ironsinger's Instinct_ \[Rare Talent, Ironsing\] - Successfully dodging an attack coats you in metal and reduces the damage of the next attack taken.
-    -   After dodging gain the Ironsinger's Instinct status effect for 2 seconds, reducing the damage of the next hit by 60%.
+    -   After dodging gain the [Ironsinger's Instinct](Status_Effects.md#ironclad-defenses) status effect for 2 seconds, reducing the damage of the next hit by 60%.
     -   The user visually gains a grey metallic shine upon for the duration, clearing on hit.
     -   Has a cooldown of 18 seconds, starting immediately upon dodge.
     -   Prerequisite: 75 Ironsing
 
 -   Exposed Durability \[Common Talent, Ironsing\] - Deal 10% more damage to opponents with no armor durability left.
-    -   Also affect players with no outfit (Stranded Outfit)
-    -   Procs on your Basic Attacks while you have Berserk active.
-    -   Also procs on Berserk users.
+    -   Also affect players with no outfit ([Stranded](Stranded.md) Outfit)
+    -   Always procs on your Basic Attacks if you have Berserk active, and with any attack against Berserk users.
     -   Prerequisite: 60 Ironsing
 
 -   _Phantom Edge_ \[Rare Talent, Ironsing\] - Your weapon Basic Attacks have +0.25 range.
@@ -494,7 +493,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Increases your movement speed while blocking by 6.6%, from -25% movement speed to -18.4%.
     -   Prerequisite: 5 Fortitude
 
--   Perseverance \[Common Talent, Fortitude, Willpower\] - Reduces the duration you're [Ragdolled](Status_Effects.md#ragdolled) and [Unconscious](Status_Effects.md#unconscious) for by 25%. (+5 Sanity)
+-   Perseverance \[Common Talent, Fortitude, Willpower\] - Reduces the duration you're [Ragdolled](Status_Effects.md#ragdoll) and [Unconscious](Status_Effects.md#unconscious) for by 25%. (+5 Sanity)
     -   This can stack with other Talents to reduce knock time even further. (Ex. Defiance)
     -   Prerequisites: 30 Fortitude, 30 Willpower
     -   The [Ignition Trailblazer](Ignition_Trailblazer.md) Outfit has this Talent.
@@ -840,18 +839,18 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   The Effectiveness of Defiance will be lessened if you do not meet its Willpower requirement.
     -   Prerequisite: 70 Willpower
     -   Currently, the only things Defiance cuts in half are:
-        -   Flamecharm's burn damage
-        -   Frostdraw's chill duration
-        -   Galebreathe's winded duration
-        -   Galebreathe's suffocation duration
-        -   Frostdraw's crystal stacks
-        -   Thundercall's surge stacks
-        -   Shadowcast's Sightless Still duration
-        -   Blood Poisoning
-        -   Wither gain
-        -   Ring of Pestilence duration
-        -   The potency of potions
-        -   Time Unconscious (cut by 50% multiplicatively after other modifiers)
+        -   Flamecharm's [Burn](Status_Effects.md#burn) damage
+        -   Frostdraw's [Chill](Status_Effects.md#chill) duration
+        -   Galebreathe's [Winded](Status_Effects.md#winded) duration
+        -   Galebreathe's [Suffocation](Status_Effects.md#suffocate) duration
+        -   Frostdraw's [Crystal](Status_Effects.md#crystal) stacks
+        -   Thundercall's [Surge](Status_Effects.md#overloaded) stacks
+        -   Shadowcast's [Sightless Still](Status_Effects.md#obscurred) duration
+        -   [Blood Poisoning](Status_Effects.md#blood-poisoning)
+        -   [Wither](Status_Effects.md#wither) gain
+        -   [Ring of Pestilence](Ring_of_Pestilence.md) duration
+        -   The potency of [potions](Alchemy.md)
+        -   Time [Unconscious](Status_Effects.md#unconscious) (cut by 50% multiplicatively after other modifiers)
 
 -   Underdog \[Common Talent, Willpower\] - You deal 2.5% more damage to those with higher HP than you, scaling up to 4% at 60 WLL. Additionally, you deal +10% more damage to physically larger foes.
     -   Underdog's damage to enemies with higher HP than you scales with your Willpower investment.
@@ -1157,7 +1156,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Doomsday Engine
 
 -   Frozen Web \[Common Talent, Dual Attunement, Frostdraw, Thundercall\] - Landing a critical with a Static Link on your opponent applies Chilled.
-    -   Applies chill for 7 seconds and bottom freeze.
+    -   Applies [Chill](Status_Effects.md#chill) for 7 seconds and [Bottom Freeze](Status_Effects.md#bottom-freeze).
     -   Applies fragile freeze if the critical guardbreaks.
     -   When using Crystallization Path, it'll spawn the VFX and play the sound effects for creating crystals, but won't actually inflict any.
     -   3 second cooldown.
@@ -2029,6 +2028,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division, 30 Agility
 
 -   **Executioner's Frenzy** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Landing a light attack while your opponent's posture is paused reduces their assassination cooldown by 5 seconds.
+    -   The [Paused Posture](Status_Effects.md#paused-posture) status effect comes from Stature Break and Maiming Claws.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
 
 -   **Fatal Stealth** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
@@ -2046,6 +2046,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
 
 -   **Stature Break** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Landing a backstab of any kind disables posture for 8 seconds.
+    -   This applies the [Paused Posture](Status_Effects.md#paused-posture) Status effect, denying _most_ sources of Posture restoration.
+    -   During Paused Posture, you cannot restore posture by: [Parrying](Combat_Mechanics.md#parrying), [Spitting](Combat_Mechanics.md), or the [Steady Nerves](#steady-nerves) Talent. All other forms of posture restoration entirely ignore this status effect.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
 
 -   **Tacet Minimization** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Focus your Tacet even further, allowing the radius at which you get spotted to become smaller temporarily.
@@ -3998,7 +4000,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   _Cut to the Chase_ \[Rare Talent, Agility\] - Air Counter damage scaling is largely increased. Landing an Air Counter now initiates an uppercut. Deal 5% more damage to PvE enemies in the air. (+5 Passive Agility)
     -   Air Counters do not innately deal damage. Having this Talent gives your Air Counter 10 true damage.
         -   The damage bonus to your Air Counters will scale down if you have less than 60 Agility.
-    -   Air Counter is initiated when using an Aerial attack after your opponent does any of the following: wall jumps (parkour), uses Wind Step (Galebreathe Talent), uses aerial [Arc Beam](Oath%253A_Arcwarder.md#arc-beam), is launched into the air by Eye of Ethiron's two handed critical, or uses a [Lifevent](Lifevents.md) (Starswept jump pad).
+    -   Air Counter is initiated when using an Aerial attack after your opponent does any of the following: wall jumps (parkour), uses Wind Step (Galebreathe Talent), uses aerial [Arc Beam](Oath%253A_Arcwarder.md#arc-beam), is launched into the air by [Eyes of Ethiron](Eyes_of_Ethiron.md)'s one-handed critical, or uses a [Lifevent](Lifevents.md) (Starswept jump pad).
     -   Can be synergized with uppercut-based Talents, such as Flaming Flourish.
     -   Prerequisite: 60 Agility
         -   The old Air Counter Talent was made innate and then reworked into this.
@@ -4009,7 +4011,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Works with M1s and criticals.
     -   Prerequisite: 25 Agility
 
--   Spinning Swordsman \[Common Talent, Agility\] - Running attacks do +15% extra damage when you have a speed boost. (+1 Passive Agility)
+-   Spinning Swordsman \[Common Talent, Agility\] - Running attacks do +15% extra damage when you have a [speed boost](Status_Effects.md#speed-boost). (+1 Passive Agility)
     -   Prerequisite: 20 Agility
 
 ### Visionshaper

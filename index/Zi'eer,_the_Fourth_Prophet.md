@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 206400
+revid: 206996
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters, Enemies, Humanoids with Unobtainable Outfits]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | health | 18800 (Shield) |
 | attacks | Tendril Cage, Tendril Uprising, Flash Equalizer, Tendril Cascade, Brushstrokes of Black, Dash Kick, Prophet's Drop Punch, Blinking Divebomb, Reeled Requiem, Enhanced Requiem, Blinkstrike, Lightspeed Strike, The Master Of The House |
-| drops | Solborn Memento |
+| drops | Solborn Memento, Void Glutton Memento |
 | locations | The Throne of Lies |
 | affiliation | The Ministry, Etrea |
 
@@ -36,7 +36,7 @@ He, along with [The Ministry](The_Ministry.md), stormed [Etris Palace](Etris_Pal
 
 If [the Inheritor](The_Inheritor.md) challenges him within the [Etris Palace](Etris_Palace.md), they are transported to [The Throne of Lies](The_Throne_of_Lies.md), where they must defeat Zi'eer. Regardless of the outcome, this is the end of their journey through Etrea's past. Post-fight, the Inheritor encounters the [Reclaimer](Reclaimer_of_the_Recollection.md) in the [Fragments of Else](Fragments_of_Else.md), informing them that nobody was truly able to best Zi'eer, but he hopes memories from the mementos might reveal a weakness, should the Inheritor fail to defeat Zi'eer.
 
-The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer to his second phase, regardless if the Inheritor won. Once you defeat him, you obtain the "[Memory Surpassed](https://www.roblox.com/badges/2089071245865412/Memory-Surpassed)" badge, granting a free character slot.
+The [Solborn](Solborn.md) & [Void Glutton](Void_Glutton.md) [Memento](Mementos.md) are unlocked by getting Zi'eer to his second phase, regardless if the Inheritor won (though Void Glutton requires 25 player kills). Once you defeat him, you obtain the "[Memory Surpassed](https://www.roblox.com/badges/2089071245865412/Memory-Surpassed)" badge, granting a free character slot.
 
 ### Starting the Fight with Zi'eer
 

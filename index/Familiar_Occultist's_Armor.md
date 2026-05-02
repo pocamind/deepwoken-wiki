@@ -1,6 +1,6 @@
 ---
 title: "Familiar Occultist's Armor"
-revid: 206486
+revid: 206930
 source: https://deepwoken.fandom.com/wiki/Familiar_Occultist's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Hallowtide]
@@ -18,7 +18,7 @@ categories: [Outfits, Unique Outfits, Hallowtide]
 | bankable | Yes |
 | droppable | No |
 | durability | 2000 |
-| resistances | +25% Physical Armor+25% Elemental Armor, +20% Shadow Armor |
+| resistances | +25% Physical Armor +25% Elemental Armor , +20% Shadow Armor |
 | buffs | +50% Ether Regen |
 | talents | Life Leech |
 | obtainment | Lysander Spellhardt [35 Joy], Any Blacksmith if you have the Hallowtide '25 Medal [3 Knowledge]Chests from:, The Trial of the Gourdskipper |
@@ -37,9 +37,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2000 durability and grants +25% Physical Armor, +25% Elemental Armor, +20% Shadow Armor, and +50% Ether Regen. Additionally, it provides the [Life Leech](Talents.md#life-leech) Talent.
+This Outfit has 2000 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +25% Elemental resistance [ResistanceElemental](Attunements.md), +20% Shadow Armor, and +50% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Life Leech](Talents.md#life-leech) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical, 40% Shadowcast, and 25% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistanceBlunt ResistanceSlash, 40% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 
 The [Life Leech](Talents.md#life-leech) Talent grants healing whenever your summons attack enemies.
 

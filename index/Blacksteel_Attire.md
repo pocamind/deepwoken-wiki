@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Attire
-revid: 202674
+revid: 206924
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
@@ -17,7 +17,7 @@ categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
 | bankable | No |
 | droppable | No |
 | durability | 1000 |
-| resistances | +30% Physical Armor+10% Slash Armor, +35% Fire Armor |
+| resistances | +30% Physical Armor +10% Slash Armor , +35% Fire Armor |
 | buffs | +8 Posture |
 | obtainment | Iron Vessel Memento |
 | selling_price | N/A |
@@ -40,9 +40,9 @@ This Outfit requires the player to be at least [Power](Power.md) 5 to be crafted
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability and grants +30% Physical Armor, +10% Slash Armor, +35% Fire Armor, and +8 Posture.
+This Outfit has 1000 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +10% Slash resistance ResistanceSlash, +35% Fire reistance [ResistanceFlamecharm](Flamecharm.md), and +8 Posture [IconPosture](Combat_Mechanics.md#posture).
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 37% Slash, 30% Blunt, and 35% Flamecharm.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 37% Slash ResistanceSlash, 30% Blunt ResistanceBlunt, and 35% Flamecharm [ResistanceFlamecharm](Flamecharm.md).
 
 ## Trivia
 

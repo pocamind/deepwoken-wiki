@@ -1,6 +1,6 @@
 ---
 title: Sanguine Finery
-revid: 206472
+revid: 206951
 source: https://deepwoken.fandom.com/wiki/Sanguine_Finery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, World Event]
@@ -18,7 +18,7 @@ categories: [Outfits, Unique Outfits, World Event]
 | bankable | Yes |
 | droppable | No |
 | durability | 2600 |
-| resistances | +25% Blood Armor, +25% Physical Armor, +30% Elemental Armor |
+| resistances | +25% Physical Armor , +30% Elemental Armor , +25% Blood Armor |
 | buffs | +75% Ether Regen |
 | talents | Focused Hematoma, Sheltering Grasp |
 | obtainment | Carnival of Hearts |
@@ -38,9 +38,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2600 durability and grants +25% Physical resistance, +30% Elemental resistance, +25% Blood resistance, and +75% Ether Regen. Additionally, it provides the [Focused Hematoma](Talents.md#focused-hematoma) and [Sheltering Grasp](Talents.md#sheltering-grasp) Talents.
+This Outfit has 2600 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Blood resistance [ResistanceBloodrend](Bloodrend.md), and +75% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Focused Hematoma](Talents.md#focused-hematoma) and [Sheltering Grasp](Talents.md#sheltering-grasp) Talents.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical, 47.5% Bloodrend, and 30% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistanceBlunt ResistanceSlash, 47.5% Bloodrend [ResistanceBloodrend](Bloodrend.md), and 30% Elemental [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
 The [Focused Hematoma](Talents.md#focused-hematoma) Talent lowers all outside sources of blood loss by 25%, but also reduces temporary health gain by 15%.
 

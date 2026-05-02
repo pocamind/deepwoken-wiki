@@ -1,6 +1,6 @@
 ---
 title: Shock Corps Light
-revid: 206471
+revid: 206952
 source: https://deepwoken.fandom.com/wiki/Shock_Corps_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Outfits of The Central Authority]
@@ -17,7 +17,7 @@ categories: [Outfits, Unique Outfits, Outfits of The Central Authority]
 | bankable | Yes |
 | droppable | No |
 | durability | 3500 |
-| resistances | 30% Physical Armor, 30% Elemental Armor, 10% Fire Armor, 10% Ice Armor, 10% Lightning Armor |
+| resistances | +30% Physical Armor , +30% Elemental Armor , +10% Fire Armor , +10% Ice Armor , +10% Lightning Armor |
 | buffs | +15% Ether Regen |
 | talents | Battle-Hardened |
 | obtainment | Authority Ensign Origin, Shock Corps Division (automatically crafted) |
@@ -39,9 +39,9 @@ This Outfit will be automatically equipped upon joining the Shock Corps Division
 
 ### _Armor Stats_
 
-This Outfit has 3500 durability and grants +30% Physical resistance, +30% Elemental resistance, +10% Fire resistance, +10% Ice resistance, +10% Lightning resistance, and +15% Ether Regen. Additionally, it provides the [Battle-Hardened](Talents.md#battle-hardened) Talent.
+This Outfit has 3500 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), +10% Fire resistance [ResistanceFlamecharm](Flamecharm.md), +10% Ice resistance [ResistanceFrostdraw](Frostdraw.md), +10% Lightning resistance [ResistanceThundercall](Thundercall.md), and +15% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Battle-Hardened](Talents.md#battle-hardened) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 37% Flamecharm, 37% Frostdraw, 37% Thundercall, and 30% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 37% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 37% Frostdraw [ResistanceFrostdraw](Frostdraw.md), 37% Thundercall [ResistanceThundercall](Thundercall.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md).
 
 The [Battle-Hardened](Talents.md#battle-hardened) Talent grants 20% damage reduction to Mantra guardbreaks.
 

@@ -1,6 +1,6 @@
 ---
 title: A Lot of Hats
-revid: 177151
+revid: 206999
 source: https://deepwoken.fandom.com/wiki/A_Lot_of_Hats
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Equipment, Head, Hats]
@@ -26,7 +26,7 @@ notices:
 
 ## Description
 
-A Lot of Hats is an unobtainable [Equipment](Equipment.md) item under the "Head" category. It consists of 4 tophats stacked on top of one another. Equipping it grants you +5 Health & +1 Uncommon Pip
+A Lot of Hats is an unobtainable [Equipment](Equipment.md) item under the "Head" category. It consists of 4 tophats stacked on top of one another.
 
 ## Trivia
 

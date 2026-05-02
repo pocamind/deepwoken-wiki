@@ -1,6 +1,6 @@
 ---
 title: "Hive Leader's Garment"
-revid: 202650
+revid: 206969
 source: https://deepwoken.fandom.com/wiki/Hive_Leader's_Garment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits, Developer Spec]
@@ -19,7 +19,7 @@ notices:
 | bankable | No |
 | droppable | No |
 | durability | 3000 |
-| resistances | +25% Physical Armor, +25% Elemental Armor |
+| resistances | +25% Physical Armor , +25% Elemental Armor |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

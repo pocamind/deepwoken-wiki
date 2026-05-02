@@ -1,6 +1,6 @@
 ---
 title: "Aazel's Horns"
-revid: 205114
+revid: 206995
 source: https://deepwoken.fandom.com/wiki/Aazel's_Horns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Horns]
@@ -15,7 +15,7 @@ categories: [Equipment, Head, Horns]
 | selling price | 50 |
 | requirements | N/A |
 | weight | 1 |
-| innate stats | +1 Posture, +8% Fire Armor, +1 Rare Pip |
+| innate stats | +1 Posture , +8% Fire Armor , +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

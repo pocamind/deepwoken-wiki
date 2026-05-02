@@ -1,6 +1,6 @@
 ---
 title: Auroran Gremor
-revid: 206466
+revid: 206968
 source: https://deepwoken.fandom.com/wiki/Auroran_Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits]
@@ -19,8 +19,8 @@ notices:
 | bankable | No |
 | droppable | No |
 | durability | 2600 |
-| resistances | +30% Physical Armor+30% Elemental Armor, +20% Shadow Armor, +20% Lightning Armor |
-| buffs | +100% Ether Regen+16 Sanity |
+| resistances | +30% Physical Armor +30% Elemental Armor , +20% Shadow Armor , +20% Lightning Armor |
+| buffs | +100% Ether Regen +16 Sanity |
 | talents | Frozone |
 | selling_price | 10 |
 | weight | 1 |

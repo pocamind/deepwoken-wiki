@@ -1,6 +1,6 @@
 ---
 title: Unsung
-revid: 202654
+revid: 206961
 source: https://deepwoken.fandom.com/wiki/Unsung
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Exclusive Outfits]
@@ -32,7 +32,7 @@ This Outfit requires five (5) [Cloth](Cloth.md) to craft.
 
 ### _Armor Stats_
 
-This Outfit has 3000 durability and grants +30% Physical resistance and +75% Ether Regen.
+This Outfit has 3000 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash and +75% Ether Regen [IconEther](Ether.md).
 
 ## Trivia
 

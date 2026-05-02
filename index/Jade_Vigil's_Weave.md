@@ -1,6 +1,6 @@
 ---
 title: "Jade Vigil's Weave"
-revid: 206475
+revid: 206944
 source: https://deepwoken.fandom.com/wiki/Jade_Vigil's_Weave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Etrea]
@@ -18,7 +18,7 @@ categories: [Outfits, Unique Outfits, Etrea]
 | bankable | No |
 | droppable | No |
 | durability | 2800 |
-| resistances | +25% Blood Armor, +25% Elemental Armor, +30% Physical Armor, +15% Wind Armor |
+| resistances | +30% Physical Armor , +25% Elemental Armor , +25% Blood Armor , +15% Wind Armor |
 | buffs | +25% Ether Regen |
 | talents | Serpent's Dance |
 | obtainment | Carnival of Hearts, The Doom of Caeranthil, Interluminary Parasol |
@@ -36,9 +36,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ## Armor Stats
 
-This Outfit has 2800 durability and grants +30% Physical Armor, +25% Elemental Armor, +15% Wind Armor, 25% Blood Armor, and +25% Ether Regen. Additionally, it provides the [Serpent's Dance](Talents.md#serpents-dance) Talent.
+This Outfit has 2800 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +25% Elemental resistance [ResistanceElemental](Attunements.md), +25% Blood resistance [ResistanceBloodrend](Bloodrend.md), +15% Wind resistance [ResistanceGalebreathe](Galebreathe.md), and +25% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Serpent's Dance](Talents.md#serpents-dance) Talent.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 43.75% Bloodrend, 36.25% Galebreathe, and 25% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 43.75% Bloodrend [ResistanceBloodrend](Bloodrend.md), 36.25% Galebreathe [ResistanceGalebreathe](Galebreathe.md), and 25% Elemental [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
 The [Serpent's Dance](Talents.md#serpents-dance) Talent gives the [Fang and Coil](Fang_and_Coil.md) fist style a new Running Critical Attack. This additional critical can **only** be used on fist weapons that do not have unique criticals ([Fang and Coil](Fang_and_Coil.md), [Handcuffs](Handcuffs.md), [Iron](Iron_Cestus.md)/[Legion](Legion_Cestus.md)/[Flamekeeper Cestus](Flamekeeper_Cestus.md), [Gaunts of Enmity](Gaunts_of_Enmity.md), and [Worldpiercer Gauntlets](Worldpiercer_Gauntlets.md)) and [Markor's Inheritor](<Markor's_Inheritor.md>).
 

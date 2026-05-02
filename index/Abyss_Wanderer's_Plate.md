@@ -1,6 +1,6 @@
 ---
 title: "Abyss Wanderer's Plate"
-revid: 182451
+revid: 207001
 source: https://deepwoken.fandom.com/wiki/Abyss_Wanderer's_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, The Divers]
@@ -15,8 +15,8 @@ categories: [Equipment, Arms, Plates, The Divers]
 | selling price | 100 |
 | requirements | Power 10 |
 | weight | 2 |
-| innate stats | 5 Health+3 Legendary Pips |
-| innate talent | Braced Collapse, Kick off |
+| innate stats | +5 Health +3 Legendary Pips |
+| innate talent | Braced CollapseKick Off |
 | set | Abyss Wanderer's Plate, Abyss Wanderer's Boots |
 | set talent | N/A |
 | bankable | Yes |

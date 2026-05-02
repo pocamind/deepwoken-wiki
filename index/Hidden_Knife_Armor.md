@@ -1,6 +1,6 @@
 ---
 title: Hidden Knife Armor
-revid: 206479
+revid: 206939
 source: https://deepwoken.fandom.com/wiki/Hidden_Knife_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
@@ -17,8 +17,8 @@ categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
 | bankable | No |
 | droppable | No |
 | durability | 2000 |
-| resistances | +25% Physical Armor+25% Elemental Armor |
-| buffs | +50% Stealth+20% Ether Regen |
+| resistances | +25% Physical Armor +25% Elemental Armor |
+| buffs | +50% Stealth +20% Ether Regen |
 | talents | Bane |
 | obtainment | Rogue Assassin Memento |
 | selling_price | N/A |
@@ -41,7 +41,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2000 durability and grants +25% Physical Armor, +25% Elemental Armor, +20% Ether Regen, and +50% [Stealth](Stealth.md). Additionally, it provides the [Bane](Talents.md#bane) Talent.
+This Outfit has 2000 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +25% Elemental resistance [ResistanceElemental](Attunements.md), +20% Ether Regen [IconEther](Ether.md), and +50% [Stealth](Stealth.md) [IconStealth](Stealth.md). Additionally, it provides the [Bane](Talents.md#bane) Talent.
 
 The [Bane](Talents.md#bane) Talent grants a Talent tool that upon activation, grants a speed boost and allows you to teleport to your opponent in radius of 25 studs when using M1s, for 20 seconds. This has a cooldown of 100 seconds.
 

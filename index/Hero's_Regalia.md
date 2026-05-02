@@ -1,6 +1,6 @@
 ---
 title: "Hero's Regalia"
-revid: 206480
+revid: 206937
 source: https://deepwoken.fandom.com/wiki/Hero's_Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
@@ -16,7 +16,7 @@ categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
 | bankable | No |
 | droppable | No |
 | durability | 3000 |
-| resistances | +15% Physical Armor, +35% Elemental Armor |
+| resistances | +15% Physical Armor , +35% Elemental Armor |
 | buffs | +75% Ether Regen |
 | obtainment | Saintsworn (Memento) (automatically crafted) |
 | selling_price | N/A |
@@ -39,4 +39,4 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 3000 durability and grants +15% Physical Armor, +35% Elemental Armor, and +75% Ether Regen.
+This Outfit has 3000 durability and grants +15% Physical resistance ResistanceBlunt ResistanceSlash, +35% Elemental resistance [ResistanceElemental](Attunements.md), and +75% Ether Regen [IconEther](Ether.md).

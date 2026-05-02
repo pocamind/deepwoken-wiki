@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 206420
+revid: 206901
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -313,7 +313,7 @@ _Yell with valor and courage, increasing the speed of those who are in your part
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
@@ -369,6 +369,8 @@ Complete 10 missions solo, then speak to [High Inquisitor Merey](High_Inquisitor
 -   **Flanking Maneuvers** - Enemies you assassinate take more PEN from your squadmates in your party.
 
 -   **Stature Break** - Landing a backstab of any kind disables posture for 8 seconds.
+    -   This applies the [Paused Posture](Status_Effects.md#paused-posture) Status effect, denying _most_ sources of Posture restoration.
+    -   During Paused Posture, you cannot restore posture by: [Parrying](Combat_Mechanics.md#parrying), [Spitting](Combat_Mechanics.md), or the [Steady Nerves](Talents.md#steady-nerves) Talent. All other forms of posture restoration entirely ignore this status effect.
 
 -   **Tacet Minimization** - Focus your [Tacet](Murmur%253A_Tacet.md) even further, allowing the radius at which you get spotted to become smaller temporarily.
     -   Decreases your Tacet bubble size to the minimum possible and grants 400% flat [Stealth](Stealth.md) for 10 seconds. 1 minute cooldown.
@@ -427,7 +429,7 @@ _Pull out a hidden blade and quickly stab your opponent, dealing a percentage of
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
@@ -445,7 +447,7 @@ Inquisition Division
 -   Deals 6% of your opponent's maximum health as damage.
 -   Deals 6 posture damage.
 -   Applies an extended hitstun, preventing the usage of all forms of attack, many Tools, jumping, eating food items, sliding, dodging, and certain Talent Tools for 2.5 seconds.
--   Applies a poison for 8 seconds that increases the [Shaky Block](Combat_Mechanics.md#posture) duration of your opponent by 20%. Having the [Inquisition Light](Inquisition_Light.md) Outfit equipped will double the duration of this poison.
+-   Applies a [Poison](Status_Effects.md#poison) for 8 seconds that increases the [Shaky Block](Combat_Mechanics.md#posture) duration of your opponent by 20%. Having the [Inquisition Light](Inquisition_Light.md) Outfit equipped will double the duration of this poison.
 -   Grants iframes to the caster and the person hit during its animation.
 -   Can be buffed through damage modifiers despite dealing percentage based damage.
 
@@ -536,11 +538,11 @@ _Create a lightning axe!_
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
-Thundercall
+Lightning [ResistanceThundercall](Thundercall.md)
 
  | 
 

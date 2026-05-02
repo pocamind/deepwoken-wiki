@@ -1,6 +1,6 @@
 ---
 title: Etrean Rogue
-revid: 206461
+revid: 206963
 source: https://deepwoken.fandom.com/wiki/Etrean_Rogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits]
@@ -37,7 +37,7 @@ Though, crafting this Outfit is not actually possible; pressing craft will do ab
 
 ### _Armor Stats_
 
-This Outfit has 500 durability and grants +20% Slash resistance.
+This Outfit has 500 durability and grants +20% Slash resistance ResistanceSlash.
 
 This Outfit also grants the **Test** Talent, which does absolutely nothing.
 

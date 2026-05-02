@@ -1,6 +1,6 @@
 ---
 title: Mr Toon
-revid: 206463
+revid: 206967
 source: https://deepwoken.fandom.com/wiki/Mr_Toon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits, Developer Spec]
@@ -19,8 +19,8 @@ notices:
 | bankable | No |
 | droppable | No |
 | durability | 2600 |
-| resistances | +30% Physical Armor+30% Elemental Armor, +20% Lightning Armor, +20% Shadow Armor |
-| buffs | +100% Ether Regen+16 Sanity |
+| resistances | +30% Physical Armor +30% Elemental Armor , +20% Lightning Armor , +20% Shadow Armor |
+| buffs | +100% Ether Regen +16 Sanity |
 | talents | Vow of Mastery |
 | selling_price | 10 |
 | weight | 1 |
@@ -32,9 +32,9 @@ notices:
 
 ### _Armor Stats_
 
-The Outfit has 2600 durability, grants +30% Physical Armor, +30% Elemental Armor, +20 Lightning Armor, +20% Shadow Armor, 16 Sanity, and +100% Ether Regeneration.
+The Outfit has 2600 durability, grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), +20 Lightning resistance [ResistanceThundercall](Thundercall.md), +20% Shadow resistance [ResistanceShadowcast](Shadowcast.md), 16 Sanity [IconSanity](Insanity.md), and +100% Ether Regen [IconEther](Ether.md).
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 44% Lightning Armor, 44% Shadow Armor, and 30% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 44% Thundercall [ResistanceThundercall](Thundercall.md), 44% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md).
 
 Additionally, it provides the [Vow of Mastery](Vow_of_Mastery.md) Talent. Allowing it's user to control and command subjects under its effects.
 

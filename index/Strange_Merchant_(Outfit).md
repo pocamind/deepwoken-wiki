@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant (Outfit)
-revid: 202657
+revid: 206955
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant_(Outfit)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
@@ -15,7 +15,7 @@ categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
 | bankable | No |
 | droppable | No |
 | durability | 9999 |
-| resistances | +10% Physical Armor, +10% Elemental Armor |
+| resistances | +10% Physical Armor , +10% Elemental Armor |
 | obtainment | Strange Merchant MementoMod Shop |
 | selling_price | N/A |
 | weight | 1 |
@@ -37,4 +37,4 @@ This Outfit requires the player to be at least [Power](Power.md) 15 to be crafte
 
 ### _Armor Stats_
 
-This Outfit has 9999 durability and grants +10% Physical and Elemental resistance.
+This Outfit has 9999 durability and grants +10% Physical resistence ResistanceBlunt ResistanceSlash and +10% Elemental resistance [ResistanceElemental](Attunements.md).

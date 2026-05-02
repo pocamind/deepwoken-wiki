@@ -1,6 +1,6 @@
 ---
 title: Necrotic Demon Horns
-revid: 204760
+revid: 206998
 source: https://deepwoken.fandom.com/wiki/Necrotic_Demon_Horns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Horns, Craftable]
@@ -15,7 +15,7 @@ categories: [Equipment, Head, Horns, Craftable]
 | selling price | 50 |
 | requirements | N/A |
 | weight | 1 |
-| innate stats | +1 Posture, +8% Fire Armor, +1 Rare Pip |
+| innate stats | +1 Posture , +8% Fire Armor , +1 Rare Pip |
 | innate talent | Mindspark |
 | bankable | No |
 | droppable | No |

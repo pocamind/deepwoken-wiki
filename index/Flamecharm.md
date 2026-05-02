@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 206787
+revid: 206943
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -216,7 +216,6 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 -   Inflicts Burn.
 -   Breaks tiles, including the [Hidden Village](The_Hidden_Village.md) Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Barricade.
 -   Lights campfires.
--   Doesn't not apply hit stun, allowing to use it on people stunned by Equalizer and them not being freed early. (Need testing)
 -   Propels the user backward if cast while jumping/walking backward or in water.
 -   Can be modified with [Drift](Mantra_Modifiers.md#regular-modifiers)/[Rush Shards](Mantra_Modifiers.md#regular-modifiers) to make the bullets fly faster + farther.
 -   Can be modified with a [Round Spark](Mantra_Modifiers.md#sparks), causing the bullets to split into two, reducing the base damage by 45%.

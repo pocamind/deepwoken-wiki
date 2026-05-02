@@ -1,6 +1,6 @@
 ---
 title: "Heretic's Memento"
-revid: 206481
+revid: 206936
 source: https://deepwoken.fandom.com/wiki/Heretic's_Memento
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, World Event]
@@ -18,7 +18,7 @@ categories: [Outfits, Unique Outfits, World Event]
 | bankable | Yes |
 | droppable | No |
 | durability | 2000 |
-| resistances | +10% Blunt Armor, +25% Elemental Armor, +25% Ironsing Armor, +25% Physical Armor, +5% Shadow Armor |
+| resistances | +25% Physical Armor +10% Blunt Armor , +25% Elemental Armor , +25% Ironsing Armor , +5% Shadow Armor |
 | buffs | +100% Ether Regen |
 | talents | Underdog |
 | obtainment | Heart of Enmity |
@@ -38,9 +38,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2000 durability and grants +10% Blunt Armor, +100% Ether Regen, +25% Elemental Armor, +25% Ironsing Armor, +25% Physical Armor and 5% Shadow Armor
+This Outfit has 2000 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +10% Blunt resistance ResistanceBlunt, +25% Elemental resistance [ResistanceElemental](Attunements.md), +25% Ironsing resistance [ResistanceIronsing](Ironsing.md), +5% Shadow resistance [ResistanceShadowcast](Shadowcast.md), and +100% Ether Regen [IconEther](Ether.md).
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 32.5% Blunt, 25% Slash, 43.75% Ironsing, 28.75% Shadowcast, and 25% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 32.5% Blunt ResistanceBlunt, 25% Slash ResistanceSlash, 43.75% Ironsing [ResistanceIronsing](Ironsing.md), 28.75% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
 This Outfit grants the [Underdog](Talents.md#underdog) Talent, granting you a 2% damage buff against opponents who have more current health than you and a 10% damage buff against non-humanoid monsters. The damage buff against targets with more current health than you scales on your Willpower investment, up to +4% damage at 60 Willpower.
 
