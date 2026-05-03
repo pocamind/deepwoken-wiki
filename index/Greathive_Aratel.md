@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 205633
+revid: 207631
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, The Hive]
@@ -32,33 +32,35 @@ Greathive Aratel is split up into 4 floors and will be categorized as such.
 
 ### Entrance
 
-There is a Heat Stone resting spot and Fountains functioning as fast travel
+There is a Heat Stone resting spot and Fountains functioning as fast travel.
 
 Hive Fountains
 
 #### Greathive Fountains
 
--   The player can find Five of The Hive's fountains.
+-   The player can find five of [The Hive](The_Hive.md)'s fountains within Greathive Aratel.
     -   The left will send you to [Summer Isle](Summer_Isle.md).
     -   The middle-left will send you to [Miner's Landing](<Miner's_Landing.md>).
     -   The middle will send you to [The Lordsgrove](The_Lordsgrove.md).
     -   The middle-right will send you to [Ancient Rotlands](Ancient_Rotlands.md).
     -   The right will send you to [Upper Erisia](Upper_Erisia.md).
-    -   Fountains have a cooldown of 30 seconds.
--   Additionally, there are fountains around the Etrean Luminant that allows you to teleport back to Greathive Aratel:
-    -   [The Lordsgrove](The_Lordsgrove.md)
-    -   Inside the [Hidden Village](The_Hidden_Village.md)
-    -   [The King's Garden](<The_King's_Garden.md>), in the middle of the "maze."
+    -   Fountains have a cooldown of 30 seconds, unless you are teleporting in from the [Etrean Luminant](Luminants.md#etrean-and-eastern-luminants), where there is no initial cooldown.
+-   Additionally, there are fountains around the [Etrean Luminant](Luminants.md#etrean-and-eastern-luminants) which allow you to teleport back to Greathive Aratel:
+    -   Inside [The Hidden Village](The_Hidden_Village.md).
+    -   [The King's Garden](<The_King's_Garden.md>), in the middle of the "maze".
         
-        Here is the fountain at vigils
+        Fountain found at [Isle of Vigils](Isle_of_Vigils.md).
         
     -   [Isle of Vigils](Isle_of_Vigils.md), to the right of [Friid](Friid,_Master_of_Gale.md), inside the ruins of a building.
+-   Fountain found at [The Lordsgrove](The_Lordsgrove.md). It is the largest in size of all hive teleporters.
+    
+    There is also a fountain in [The Lordsgrove](The_Lordsgrove.md) which allows you to teleport back to Greathive Aratel.
 
-Fountain found at Etrea
+Fountain found at [Etris](Etris.md).
 
-The doors to enter the Lordsgrove.
+The doors to enter [The Lordsgrove](The_Lordsgrove.md).
 
-Fountain in the Hidden Village
+Fountain found in [The Hidden Village](The_Hidden_Village.md).
 
 #### Shipyard
 
@@ -104,7 +106,7 @@ Fountain in the Hidden Village
 
 Hidden within the tree there is another Heat stone resting spot
 
-A view of the blacksmith on the Canopy plaza
+A view of the blacksmith on the Canopy plaza.
 
 Honey Pool (Presumably)
 
@@ -136,7 +138,7 @@ The most powerful being in the universe rules over his subjects
 #### Balconies
 
 -   Flint and Wood can be purchased here.
--   Features a lovely view of the Eastern Luminant.
+-   Features a lovely view of the [Eastern Luminant](Luminants.md#etrean-and-eastern-luminants).
 
 ## Observatory
 
@@ -152,13 +154,13 @@ Players can crank the telescope clockwise or counterclockwise to position it to 
 
 ### Tending the Beloved Quest (Suri Quest)
 
--   Go and talk to [Suri](Suri.md). He will give you a flower, and a task to go and place it at the grave of his brother on the Isle of Vigils. The flower can be destroyed by unnecessary movement (taking damage), though, so he suggests taking the safest route.
--   If you come back to Suri after completing this quest, you get a Vibrant Gem.
+-   Go and talk to [Suri](Suri.md). He will give you a flower, and a task to go and place it at the grave of his brother on the [Isle of Vigils](Isle_of_Vigils.md). The flower can be destroyed by unnecessary movement (taking damage), though, so he suggests taking the safest route.
+-   If you come back to [Suri](Suri.md) after completing this quest, you get a Vibrant Gem.
 -   A reference to a quest in [Hollow](https://en.m.wikipedia.org/wiki/Hollow_Knight) [Knight](https://en.m.wikipedia.org/wiki/Hollow_Knight) with the same premise.
 
 ### Blooming Souls Quest (Soul Flower Quest)
 
--   Talk to the Librarian named [Regek](Regek.md), in the Archives Room. They will tell you to fetch 3 Souls from special flowers that bloom within the Greathive, all of which located in the Canopy Plaza. They are called Soulblooms. (You need to wash your face as the temple to be able to take the quest)
+-   Talk to the Librarian named [Regek](Regek.md), in the Archives Room. They will tell you to fetch 3 Souls from special flowers that bloom within the Greathive, all of which located in the Canopy Plaza. They are called Soulblooms. (You need to wash your face at the temple to be able to take the quest)
     -   A red flower located outside near the observatory balcony. Mind your footing.
     -   A white flower, located near the [Blacksmith](Blacksmith.md), facing in front of it.
     -   A blue flower, hanging at the side of a tree root across the room from the Blacksmith.
@@ -166,10 +168,10 @@ Players can crank the telescope clockwise or counterclockwise to position it to 
 
 ## Trivia
 
--   The music for this area is [Of Chitin, Kith And Kin](Deepwoken_OST.md#of-chitin-kith-and-kin) by Naktigonis
+-   The music for this area is [Of Chitin, Kith And Kin](Deepwoken_OST.md#of-chitin-kith-and-kin) by Naktigonis.
+-   The combat music for this area is [A Symphony Of Strife](Deepwoken_OST.md#a-symphony-of-strife) by Naktigonis.
 -   Parts of the Greathive can be seen emitting black particles, which is fireproofing that allows [Flamecharm](Flamecharm.md) to be used within the Greathive without the whole thing going up in flames.
--   The combat music for this area is [A Symphony Of Strife](Deepwoken_OST.md#a-symphony-of-strife) by Naktigonis
--   Everyone inside Greathive Aratel is a Hivekin: either a Vesperian, Ganymede, or Chrysid.
+-   Everyone inside Greathive Aratel is a Hivekin: either a [Vesperian](Vesperian.md), [Ganymede](Ganymede.md), or [Chrysid](Chrysid.md).
 -   The Soulblooms have an option to taste the flower's sap. When attempting to do so, your Character has a violent gut feeling it is not for ingestion and ultimately decides not to.
 -   The "Temple of the Forgotten Flame" portal can take you to different locations in Upper Erisia.
 -   In order to summon boats here you need max [positive reputation](Reputation.md).

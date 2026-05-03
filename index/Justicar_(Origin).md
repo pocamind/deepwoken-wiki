@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 207597
+revid: 207636
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -33,7 +33,7 @@ Once either of these requirements have been met, speak to [Polis](Polis.md). Upo
 
 ## Spawn
 
-Justicars spawn at [Alsin's Landing](<Alsin's_Landing.md>) with the [Justicar Neophyte](Justicar_Neophyte.md) [Outfit](Outfits.md), alongside utilities like [Jus Karita](Jus_Karita.md) and the Justicar's Whistle.
+Justicars spawn at [Alsin's Landing](<Alsin's_Landing.md>) with the [Justicar Neophyte](Justicar_Neophyte.md) [Outfit](Outfits.md), alongside utilities like [Jus Karita](Jus_Karita.md) and the Justicar's Call.
 
 ## Progression
 
@@ -41,11 +41,36 @@ Using the Justicar Whistle will allow you to choose a specific Castaway which sh
 
 Helping this Castaway progress via events, killing their voidwalker, etc. will provide you with 10 rank points. If the Castaway dies, or if you die, you will lose rank points (All of your Rank Points).
 
+These are the ranks you can progress through:
+
+-   Neophyte/Initiate
+-   Disciple
+-   Elder
+
+Once reaching Elder, you may choose between being a Vanguard or a Warder.
+
+Simplified: Vanguards focus on combat, while Warders focus on support and healing.
+
+-   Joining Vanguard, you obtain the Justicar's Armor for free.
+-   Joining Warder, you obtain that path's exclusive armor, 'Warder's Attire'.
+
 ## Effects
 
 ### Justicar Whistle
 
 -   _In-game description_: Request aid from a Justicar.
+
+## Pros and Cons
+
+### Pros
+
+-   Great for those who want to help players.
+
+### Cons
+
+-   If the Castaway dies, or if you die, you will lose 50 rank points, which usually means you lose all if below 50.
+-   Rank progression is insanely slow. You get only 10 points every encounter you save/assist your Castaway.
+-   Very punishing for helping players.
 
 ## Reputation
 

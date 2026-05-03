@@ -1,6 +1,6 @@
 ---
 title: Duskpole
-revid: 207565
+revid: 207603
 source: https://deepwoken.fandom.com/wiki/Duskpole
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Staves, Medium Weapons, Weapons with Talents]
@@ -31,7 +31,7 @@ categories: [Weapons, Staves, Medium Weapons, Weapons with Talents]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Saramaed Hollow |
+| obtainment | Saramaed Hollow, Duke Ishamon Erisia |
 | description | ... |
 
 ## Description

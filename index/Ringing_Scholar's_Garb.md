@@ -1,6 +1,6 @@
 ---
 title: "Ringing Scholar's Garb"
-revid: 207441
+revid: 207605
 source: https://deepwoken.fandom.com/wiki/Ringing_Scholar's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits]

@@ -1,6 +1,6 @@
 ---
 title: "The Path's Defender"
-revid: 189459
+revid: 207620
 source: https://deepwoken.fandom.com/wiki/The_Path's_Defender
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Offhand, Shields]
@@ -33,5 +33,4 @@ The shield's appearance is black and golden/bronze with an eye in the upper midd
 
 ## Trivia
 
--   Prior to the Verse 2, the [Khan Shield](Legion_Shield.md) was the best shield in the game, requiring the player to have 60 Fortitude and giving 2 weight.
--   The Path's Defender _may_ be based off of the [Drakekeeper's Greatshield](<https://darksouls2.wiki.fextralife.com/Drakekeeper's+Greatshield>) from the game "Dark Souls 2."
+-   The Path's Defender _may_ be based off of the [Drakekeeper's Greatshield](<https://darksouls2.wiki.fextralife.com/Drakekeeper's+Greatshield>) from _Dark Souls 2_.

@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 206435
+revid: 207608
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -602,6 +602,7 @@ Attacks with this indicator can be jumped over.
 
 -   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Shogun's Brutality
 -   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Champion's Quake, Altitude Swipes, Crossrend Cryocleave
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Stonelife Quake, Tempest Kick
 
  |
 | 

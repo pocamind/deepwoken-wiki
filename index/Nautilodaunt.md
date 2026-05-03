@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 200578
+revid: 207616
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -162,6 +162,7 @@ On a final note, you **cannot** sneak attack the Nautilodaunt while it is burrow
 -   The vent it uses was the old vent before Deepwoken's release.
 -   If encountered in the overworld, it has the ability to swim. However, it does not possess a swimming animation.
 -   It is named after the Nautilus, a family of shelled cephalopods.
+-   Despite being nearly impossible to see the Nautilodaunts armor can be broken
 -   It is internally referred to as ".squidward."[\[1\]](#cite-note-1)
 
 ## References

@@ -1,9 +1,9 @@
 ---
 title: "Knell, The Lunatic Resonator"
-revid: 207527
+revid: 207629
 source: https://deepwoken.fandom.com/wiki/Knell%2C_The_Lunatic_Resonator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Anansi NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, Individuals with He/him pronouns, Enemies, Bosses]
+categories: [Anansi NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, Individuals with He/him pronouns, Enemies, Bosses]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -13,8 +13,7 @@ notices:
 | Knell, The Lunatic Resonator | |
 |---|---|
 | health | 30000 |
-| drops | Dissonant Chimecaller, Bellmarrow Reave, Dormant Splinter |
-| weapon | ??? |
+| drops | Dissonant Chimecaller, Bellmarrow Reave, Dormant Splinter, Moonseye Tome, Idol of Yun'Shul |
 | aspect | Anansi |
 | pronouns | He/him[1] |
 | challenges | -- Knell, The Lost Anansi --, Encore! - Slay 2.Reward: +3% DMG; +1.5% RES, Hells Bells - Slay 5.Reward: +3% DMG; +1.5% RES, For Whom The Bell Tolls - Slay 15.Reward: +3% DMG; +1.5% RES |
@@ -23,23 +22,269 @@ notices:
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
+“ Oh... I see it now. Yes... enough. Every brilliant song reaches its end! ”
+
+― Knell
+
 ## Description
 
-Knell, The Lunatic Resonator is a humanoid [boss](Bosses.md) found in [Simforea](Simforea.md), somewhere in the [Voidsea](Voidsea.md) in the Eastern Luminant. Knell is an [Anansi](Anansi.md), an aspect which was added to the game in the same update as Knell himself. He is found in his arena dancing (?) around with his arms. His attacks all have in common that they all involve bells in some way. His arena additionally also filled to the brim with bells. This is an obvious reference to [Bells](Resonance.md), or - as they are officially called - [Resonances](Resonance.md), which take the form of bells around one's hip. His title "Lunatic Resonator" is most likely also related to this.
+**Knell, The Lunatic Resonator** is a humanoid [Boss](Bosses.md) found in [Simforea](Simforea.md) in the [Voidsea](Voidsea.md) within the Eastern Luminant. He is the shattered remnant of the [Anansi](Anansi.md) people who sought enlightenment through heightened perception, though his pursuit ultimately led to madness. He moves with erratic, dance like movements, within an arena filled entirely with bells. His attacks revolve around bell attacks. Obsessed with a [Resonance](Resonance.md) for he could never awaken his own leading him to be known as the "Lunatic Resonator"
+
+## Moveset
+
+| Name | Description | Media |
+| --- | --- | --- |
+| 
+**Ferocious Barrage**  
+(★☆☆)
+
+ | Knell slashes at the player with his claws six times.
+
+-   deals moderately-high posture
+
+ |  |
+| 
+
+**Arachnid Leap**  
+(★★☆)
+
+ | Knell jumps into the air and slams into the ground.
+
+_Uses Telegraph_
+
+[JumpTelegraph](Combat_Mechanics.md#white)
+
+Jump
+
+ |  |
+| 
+
+**Pouncing Grapple**  
+(★★☆)
+
+ | Knell lunges towards the player grabbing them before (bitting?) them twice.
+
+-   Applies a large amount of insanity.
+
+_Uses Telegraph_
+
+[ParryTelegraph](Combat_Mechanics.md#green)
+
+Parry
+
+ |  |
+| 
+
+**Bell Fall**  
+(★☆☆)
+
+ | Knell flicks one of his hands upwards, causing a small cluster of bells to fall on top of the player.
+
+ |  |
+| 
+
+**Great Bell Fall**  
+(★★☆)
+
+ | Knell throws both of his hands forwards, causing a large cluster of bells to fall on top of the player.
+
+-   This attack is simmilar to **Bell Fall** but applies knockdown upon being hit.
+
+ |  |
+| 
+
+**Raining Resonation**  
+(★★☆)
+
+ | Knell lets out a scream, making bells continuously rain on the player.
+
+-   Each hit deals low posture
+
+_Uses Telegraph_
+
+[BlockTelegraph](Combat_Mechanics.md#blue)
+
+Block
+
+ |  |
+| 
+
+**A Toll of the Bell**  
+(★★★)
+
+ | Knell spins around holding a massive bell before hurling it at the player.
+
+-   This move only occurs durring his second phase.
+-   Deals very high damage.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
+
+ |  |
+| 
+
+**Carillon Call**  
+(★★☆)
+
+ | Knell lets out a scream, causing bells to rain in a circle around him.
+
+-   This move only occurs durring his second phase.
+
+_Uses Telegraph_
+
+[AvoidTelegraph](Combat_Mechanics.md#skull)
+
+Avoid
+
+ |  |
+| 
+
+**Rain chimes**  
+(★☆☆)
+
+ | Knell twirls in place and summon chimes that rain from above.
+
+-   This move only occurs durring his second phase.
+
+ |  |
 
 ## Finisher
 
--   Lethal Lunacy (Placeholder name) - Similarly to [The Ferryman](The_Ferryman.md), Losing all health during Knell's bossfight will instantly kill you
+-   **Lethal Lunacy** - Knell does not need to manually execute you. If you lose all of your health, **you die instantly.**
 
-## Passive & Talents
+## Passives
 
--   Mania Passdown (Placeholder name) - Getting hit by Knell's moves increases your insanity.
+-   **Maniac's Hysteria** - Getting hit by Knell's moves increases your insanity.
+    
+
+## Drops
+
+<table>
+<tbody>
+<tr>
+  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
+  <td><a href="Ringing_Scholar's_Garb.md">Ringing Scholar's Garb</a></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li><a href="Items.md">Items</a>: <a href="Umbral_Obsidian.md">Umbral Obsidian</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Void_Spire.md">Void Spire</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a>.
+  <ol>
+    <li><b>Light Weapons</b>:</li>
+    <li><b>Medium Weapons</b>: <a href="Bellmarrow_Reave.md"><font>Bellmarrow Reave</font></a></li>
+    <li><b>Heavy Weapons</b>: <a href="Dissonant_Chimecaller.md"><font>Dissonant Chimecaller</font></a></li>
+  </ol></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Ringing_Scholar's_Capeline.md">Ringing Scholar's Capeline</a></li>
+    <li><a href="Equipment.md#arms"><b>Arm Equipment</b></a>: <a href="Ringing_Scholar's_Raiments.md">Ringing Scholar's Raiments</a></li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Ringing_Scholar's_Boots.md">Ringing Scholar's Boots</a></li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Ringing_Scholar's_Necktie.md">Ringing Scholar's Necktie</a></li>
+    <li><a href="Equipment.md#rings"><b>Rings</b></a>:
+  <ol>
+    <li><b>Legendary Rings</b>: <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>,<a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>,<a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a></li>
+  </ol></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+## Dialogue
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Aaauurghhhh AAAAAHHG... AAAHH!!! WHUGHH???</td>
+</tr>
+<tr>
+  <td colspan="6">What's wrong?</td>
+</tr>
+<tr>
+  <td colspan="6">Oh... YOU... you're-? Huuagh?? WHAT -who are you?!</td>
+</tr>
+<tr>
+  <td colspan="3">I'm [Name]. Why?</td>
+  <td colspan="3">Why do you care?</td>
+</tr>
+<tr>
+  <td colspan="3">YOU FOUND IT! It's you-though... strange, stranger, STRANGE! So wrong, but right? Your EYES-two eyes? Not them... yours, but not mine...?</td>
+  <td colspan="3">HAHAHAHAAA!!! I DON'T!!! You're discrepant-wrong one! Haha! Gift given to the wrong person-irreversible! If we can't have it, you can't either!</td>
+</tr>
+<tr>
+  <td colspan="3">What are you TALKING about?</td>
+  <td colspan="3">That's enough.</td>
+</tr>
+<tr>
+  <td colspan="3">You're BEAMING-BEAMING with ripples of stolen inheritance. Maybe your soul... no. Your mind's the key! THE KEY! The key!!! Key to the mending of my wretched, discordant, SCREAMING soul... the sight Ten promised us.</td>
+  <td colspan="3">Oh... I see it now. Yes... enough. Every brilliant song reaches its end!</td>
+</tr>
+<tr>
+  <td colspan="3">That's enough.</td>
+  <td colspan="6">[End Dialogue] fight starts</td>
+</tr>
+<tr>
+  <td colspan="3">Oh... I see it now. Yes... enough. Every brilliant song reaches its end!</td>
+</tr>
+<tr>
+  <td colspan="3">[End Dialogue] fight starts</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Aaauurghhhh AAAAAHHG ... AAAHH!!! WHUGHH??? AAAAAAAAAAAAAHHHHHHHH!!!!!!!!</td>
+</tr>
+<tr>
+  <td colspan="12">Remember me?</td>
+</tr>
+<tr>
+  <td colspan="12">WHAT??? No..? No. Nope! Ahhh.. WAIT!!!! No. Your soul though it's-AAAAAHH!!!!</td>
+</tr>
+<tr>
+  <td colspan="12">That's enough.</td>
+</tr>
+<tr>
+  <td colspan="12">Oh... I see it now. Yes... enough. Every brilliant song reaches its end!</td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue] fight starts</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 
 -   Knell is the first (and currently only) character in the game who has the [Anansi](Anansi.md) aspect.
--   Although the title above Knell's health bar reads "The Lunatic Resonator", His name in the Encyclopedia is actually "The Lost Anansi".
--   Knell, and his fight appear to be based on the boss Widow in Hollow Knight: Silksong. Both have similar attacks with rushdown swipes, and the myriad of thrown bell attacks. The two also share a design detail of two pins lodged in their backs although the purpose is unknown for Knell.
+-   Although the title above Knell's health bar reads "The Lunatic Resonator", His name in the [Bestiary](Bestiary.md) is actually "The Lost Anansi".
+-   Knell, and his fight appear to be stolen from the boss [Widow](https://hollowknight.wiki/w/Widow) in Hollow Knight: Silksong. Both have same attacks with rushdown swipes, and the myriads of thrown bell attacks. The two also share a design detail of two pins lodged in their backs.
 
 ## References
 
