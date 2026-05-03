@@ -1,6 +1,6 @@
 ---
 title: "Knell, The Lunatic Resonator"
-revid: 207629
+revid: 207701
 source: https://deepwoken.fandom.com/wiki/Knell%2C_The_Lunatic_Resonator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Anansi NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, Individuals with He/him pronouns, Enemies, Bosses]
@@ -28,7 +28,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Knell, The Lunatic Resonator** is a humanoid [Boss](Bosses.md) found in [Simforea](Simforea.md) in the [Voidsea](Voidsea.md) within the Eastern Luminant. He is the shattered remnant of the [Anansi](Anansi.md) people who sought enlightenment through heightened perception, though his pursuit ultimately led to madness. He moves with erratic, dance like movements, within an arena filled entirely with bells. His attacks revolve around bell attacks. Obsessed with a [Resonance](Resonance.md) for he could never awaken his own leading him to be known as the "Lunatic Resonator"
+Knell, The Lunatic Resonator is a humanoid [Boss](Bosses.md) found in [Simforea](Simforea.md) in the [Voidsea](Voidsea.md) within the Eastern Luminant.
 
 ## Moveset
 
@@ -285,6 +285,7 @@ Avoid
 -   Knell is the first (and currently only) character in the game who has the [Anansi](Anansi.md) aspect.
 -   Although the title above Knell's health bar reads "The Lunatic Resonator", His name in the [Bestiary](Bestiary.md) is actually "The Lost Anansi".
 -   Knell, and his fight appear to be stolen from the boss [Widow](https://hollowknight.wiki/w/Widow) in Hollow Knight: Silksong. Both have same attacks with rushdown swipes, and the myriads of thrown bell attacks. The two also share a design detail of two pins lodged in their backs.
+-   Knell disappears after beating him for the first time on a character. The only method of bringing him back for another fight is by utilizing an [idol of yun'shul](<Idol_of_Yun'Shul.md>) or a [yun'shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish
 
 ## References
 

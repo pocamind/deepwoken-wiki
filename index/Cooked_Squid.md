@@ -1,6 +1,6 @@
 ---
 title: Cooked Squid
-revid: 175626
+revid: 207801
 source: https://deepwoken.fandom.com/wiki/Cooked_Squid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -36,4 +36,4 @@ When consumed, it replenishes 15% Stomach and 5% Water.
 
 ### Recipe
 
--   1 [Squid](Squid.md) at a [Campfire](Campfire_Pit.md).
+-   1 [Squid](Squid.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).

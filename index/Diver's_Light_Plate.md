@@ -1,6 +1,6 @@
 ---
 title: "Diver's Light Plate"
-revid: 207169
+revid: 207734
 source: https://deepwoken.fandom.com/wiki/Diver's_Light_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, The Divers]
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Plates, The Divers]
 
 ## Description
 
-The Diver's Light Plate is an [Equipment](Equipment.md) item under the "Arms" category.
+Diver's Light Plate is an [Equipment](Equipment.md) item under the "Arms" category.
 
 [Conquer Your Fears](Talents.md#conquer-your-fears) recovers your sanity when you kill depths Monsters and additionally grants sanity restoration when allies grip enemies near you.
 

@@ -1,6 +1,6 @@
 ---
 title: Celestial Boots
-revid: 182025
+revid: 207788
 source: https://deepwoken.fandom.com/wiki/Celestial_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Legs, Boots, Equipment, Craftable]
@@ -21,7 +21,7 @@ categories: [Legs, Boots, Equipment, Craftable]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Astral Enchant Stone, 2 Star Boots, in The Cold Forge |
+| obtainment | Crafting: Astral Enchant Stone, 2 Star Boots, in Cold Forge |
 | description | Using the finest boots in the land and the power of the heavens, you've managed to make something out of this world. |
 
 ## Description
@@ -34,7 +34,7 @@ The [Cosmic Connection](Talents.md#cosmic-connection) Talent increases [Astral](
 
 You can obtain the recipe of the Celestial boots from killing [Moon Knights](Moon_Knight.md).
 
-Celestial Boots are obtained by crafting the following items together at [The Cold Forge](The_Cold_Forge.md):
+Celestial Boots are obtained by crafting the following items together at [Cold Forge](The_Cold_Forge.md) [CraftingColdForge](The_Cold_Forge.md):
 
 1.  1 [Astral Enchant Stone](Enchant_Stone.md) + 2 [Star Boots](Star_Boots.md)
 

@@ -1,6 +1,6 @@
 ---
 title: Cooked Fish
-revid: 175625
+revid: 207800
 source: https://deepwoken.fandom.com/wiki/Cooked_Fish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -36,4 +36,4 @@ When consumed, it replenishes 15% Stomach and 5% Water.
 
 ### Recipe
 
--   1 [Fish Meat](Fish_Meat.md) at a [Campfire](Campfire_Pit.md).
+-   1 [Fish Meat](Fish_Meat.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).

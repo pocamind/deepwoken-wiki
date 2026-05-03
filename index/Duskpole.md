@@ -1,6 +1,6 @@
 ---
 title: Duskpole
-revid: 207603
+revid: 207739
 source: https://deepwoken.fandom.com/wiki/Duskpole
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Staves, Medium Weapons, Weapons with Talents]
@@ -31,7 +31,7 @@ categories: [Weapons, Staves, Medium Weapons, Weapons with Talents]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Saramaed Hollow, Duke Ishamon Erisia |
+| obtainment | Saramaed Hollow, Duke Ishamon Erisia, Sea Events |
 | description | ... |
 
 ## Description
@@ -48,8 +48,6 @@ Equipping the Duskpole grants its unique [weapon Talent](Talents.md#weapon-talen
 
 The user pole vaults into the air before slamming the staff onto the target, knocking them away and applying Knockdown.
 
+This critical can destroy destructible objects.
+
 The critical has a cooldown of **6 seconds**.
-
-## Trivia
-
--   This weapon has the same description as the [Wooden Staff](Wooden_Staff.md).

@@ -1,26 +1,34 @@
 ---
 title: Arkasid Pupa
-revid: 207551
+revid: 207674
 source: https://deepwoken.fandom.com/wiki/Arkasid_Pupa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Pages with broken file links]
+categories: [In progress with reason, InProgressPages, Food]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
+  - "This page is currently being worked on. New content released with Freewoken. Please be patient as information is added!"
 ---
 
 # Arkasid Pupa
 
 | Arkasid Pupa | |
 |---|---|
-| value | 0 |
 | weight | 0 |
-| stack | x10 |
+| stack | x? |
 | type | Food |
-| usage | Food source |
+| food type | Meat |
+| stomach | 25% |
+| water | 35% |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
 | desc | It's rhythmically wiggling in your hand. Authorities accept specimens for disposal and issue a bounty payment upon submission. |
-| obtainment | Arkasid |
 
-File:Spiderfood.png
+## Description
+
+**Arkasid Pupa** is a [Food](Food.md) item.
+
+It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
+
+### Effect
+
+When consumed, it replenishes 25% Stomach and 35% Water.

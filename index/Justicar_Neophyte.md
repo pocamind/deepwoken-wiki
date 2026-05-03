@@ -1,9 +1,9 @@
 ---
 title: Justicar Neophyte
-revid: 207618
+revid: 207753
 source: https://deepwoken.fandom.com/wiki/Justicar_Neophyte
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Outfits, Starter Outfits, The Justicars]
+categories: [Pathfinder Exclusive, Outfits, Starter Outfits, The Justicar]
 ---
 
 # Justicar Neophyte

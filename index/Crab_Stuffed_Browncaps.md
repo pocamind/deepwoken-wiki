@@ -1,6 +1,6 @@
 ---
 title: Crab Stuffed Browncaps
-revid: 175628
+revid: 207802
 source: https://deepwoken.fandom.com/wiki/Crab_Stuffed_Browncaps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -39,4 +39,4 @@ Additionally, it grants the Heal buff, affecting 25% of the Stomach bar. The buf
 
 ### Recipe
 
--   3 [Browncaps](Browncap.md), 2 [Crustacean Meat](Crustacean_Meat.md), and 1 [Cheese](Cheese.md) at a [Campfire](Campfire_Pit.md).
+-   3 [Browncaps](Browncap.md), 2 [Crustacean Meat](Crustacean_Meat.md), and 1 [Cheese](Cheese.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).

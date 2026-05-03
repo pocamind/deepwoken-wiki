@@ -1,6 +1,6 @@
 ---
 title: Simforea
-revid: 207294
+revid: 207735
 source: https://deepwoken.fandom.com/wiki/Simforea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant]

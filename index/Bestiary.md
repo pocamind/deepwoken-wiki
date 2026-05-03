@@ -1,6 +1,6 @@
 ---
 title: Bestiary
-revid: 207446
+revid: 207680
 source: https://deepwoken.fandom.com/wiki/Bestiary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]

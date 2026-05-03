@@ -1,6 +1,6 @@
 ---
 title: Mushroom Soup
-revid: 205727
+revid: 207797
 source: https://deepwoken.fandom.com/wiki/Mushroom_Soup
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -35,4 +35,4 @@ When consumed, it replenishes 15% Stomach and 17% Water.
 
 ### Recipe
 
--   2 different [Mushrooms](Ingredients.md#mushrooms) (excluding [Bluecap](Bluecap.md)) at a [Campfire](Campfire_Pit.md).
+-   2 different [Mushrooms](Ingredients.md#mushrooms) (excluding [Bluecap](Bluecap.md)) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).

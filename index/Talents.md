@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 207394
+revid: 207761
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2524,7 +2524,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   _Lose Your Mind_ \[Rare Talent, Strength, Fortitude\] - Deal more damage the more insane you are. Grants +15% damage at maximum insanity. (+5 Sanity)
     -   The damage buff starts at 70% Sanity (Tier 1 [Insanity](Insanity.md)) and scales non-linearly with your sanity until it caps out at +15% damage with 0% Sanity (Tier 3 Insanity).
     -   The specific specific formula is- f(x) = 15 - 15 \* (x/0.7)^1.2 {0.7≥x≥0} (x= current sanity / maximum sanity)
-        -   ex. 321 sanity w/ 175 current sanity would be a 3.89% increase [\[1\]](https://www.desmos.com/calculator/q9hbw3enrw)
+        -   ex. 321 sanity w/ 175 current sanity would be a 3.89% increase.
+        -   View the calculator here: [https://www.desmos.com/calculator/q9hbw3enrw](https://www.desmos.com/calculator/q9hbw3enrw)
     -   [Deepbound's](Deepbound.md) Sanity gain from killing mobs in [the Depths](The_Depths.md) is reduced.
     -   Prerequisites: 30 Fortitude, 30 Strength
     -   Can also be obtained from the [Thrall of Enmity](Thrall_of_Enmity.md) face equipment.
@@ -3504,6 +3505,12 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Magical Resolve \[Common Talent, Willpower\] - Being hit increases [Ether](Ether.md) regen for a short duration, the strength of the regen scales off your Willpower. (+7 Sanity)
     -   Does not work on self damage.
+    -   Can be procced multiple times.
+    -   The Ether regen effect is based on your maximum Ether, and it regenerates your ether for that value over 1 second.
+        -   The value is ~1.84% of your maximum Ether at 40 Willpower. Around ~7.36 Ether per proc at 400 maximum Ether.
+        -   The value is ~0.97% of your maximum Ether at 15 Willpower. Around ~3.88 Ether per proc at 400 maximum Ether.
+    -   This effect scales on Willpower, and can be scaled further than 40 Willpower.
+        -   The exact percentage changes can be seen on this calculator: [https://www.desmos.com/calculator/jtdyx1vlsj](https://www.desmos.com/calculator/jtdyx1vlsj) (The red line is the value for the percentages. The green line is for testing purposes, ignore.)
     -   Prerequisites: 40 Willpower, Battle Tendency
 
 -   Unfazed \[Common Talent, Fortitude, Willpower\] - You are more resilient to the side effects of going insane. You no longer Shiver and you Panic with less severity.

@@ -1,6 +1,6 @@
 ---
 title: Calamari
-revid: 175619
+revid: 207799
 source: https://deepwoken.fandom.com/wiki/Calamari
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -36,4 +36,4 @@ When consumed, it replenishes 25% Stomach and 5% Water.
 
 ### Recipe
 
--   1 [Squid](Squid.md) and 1 [Gathered Wheat](Gathered_Wheat.md) at a [Campfire](Campfire_Pit.md).
+-   1 [Squid](Squid.md) and 1 [Gathered Wheat](Gathered_Wheat.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).

@@ -1,30 +1,56 @@
 ---
 title: Konga The Third
-revid: 207300
+revid: 207705
 source: https://deepwoken.fandom.com/wiki/Konga_The_Third
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, Individuals with He/him pronouns, In progress without reason, InProgressPages, Pathfinder Exclusive]
+categories: [Vesperian NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, In progress with reason, InProgressPages, NPCs, NPCs located in the Etrean Luminant]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
+  - This page is currently being worked on. Potentially more dialogue yet to be found.
 ---
 
 # Konga The Third
 
 | Konga The Third | |
 |---|---|
+| name | Konga |
 | aspect | Vesperian |
 | pronouns | He/him |
 | location | Alsin's Landing |
 | affiliation | The Justicar |
+| family | Konga Lineage |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-“ But I get that a lot, kid - people seem to think I'm some 'Gusto', or 'Matsu', or whatever. No idea what that's about. ”
+“ People seem to think I'm some 'Gusto', or 'Matsu', or whatever. No idea what that's about. ”
 
 ― Konga The Third
 
+## Description
+
+Konga The Third is a [Vesperian](Vesperian.md) NPC.
+
+## Location
+
+Konga The Third is located in the training grounds of [Alsin's Landing](<Alsin's_Landing.md>).
+
+## Dialogue
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Yet to follow a path to enhance your skills? I'd recommend Vanguard. I'm told they're universally beloved, ya hear?</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
 ## Trivia
 
--   Konga may be of some relation to [Emiya Konga](Emiya_Konga.md).
+-   Konga's line about being mistaken for a "Matsu" is a reference to developer and YouTuber [Agamatsu](https://youtube.fandom.com/wiki/Agamatsu). Him being called "Gusto" is in reference to a [community meme](https://www.reddit.com/r/deepwoken/comments/1t2o4ft/amagusto/) where a user mistakenly calls him "Amagusto".

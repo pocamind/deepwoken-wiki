@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 207505
+revid: 207664
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -835,7 +835,7 @@ Dialogue: [Liviu](Liviu.md), Any NPC stating a [Chrysid](Chrysid.md) players' na
 -   Those that make a living by exploring ruins and driftlands.
 -   Many are scavengers looking to fence the treasures they find, though there are many ways to turn a profit.
 
-Dialogue: [Beiruul](Beiruul.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Disciple Gobletto](Disciple_Gobletto.md), [Forgotten Villager](Forgotten_Villager.md), [Neero](Neero.md), [Nimea](Nimea.md), [Seroth](Seroth.md), [Teacher](Teacher.md) | Books: [Archivist Journal: 'Megalodaunt'](<Archivist_Journal%253A_'Megalodaunt'.md>), [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>) | Glossary Entries:
+Dialogue: [Beiruul](Beiruul.md), [Braun](Braun.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Disciple Gobletto](Disciple_Gobletto.md), [Forgotten Villager](Forgotten_Villager.md), [Neero](Neero.md), [Nimea](Nimea.md), [Sarbu](Sarbu.md), [Seroth](Seroth.md), [Teacher](Teacher.md) | Books: [Archivist Journal: 'Megalodaunt'](<Archivist_Journal%253A_'Megalodaunt'.md>), [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>) | Glossary Entries:
 
 ### Talent
 

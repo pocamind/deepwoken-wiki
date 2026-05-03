@@ -1,16 +1,62 @@
 ---
 title: Kayla
-revid: 207625
+revid: 207660
 source: https://deepwoken.fandom.com/wiki/Kayla
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Kayla
 
-random justicar npc that rambles about losing a cape to a terrapod
+| Kayla | |
+|---|---|
+| name | Kayla |
+| aspect | Adret |
+| location | Alsin's Landing |
+| affiliation | The Justicar |
 
-i brought a shrouded cape to her and nothing and i checked where the static terrapods spawn so like
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
-**placeholder** so the page is made until someone who does the wiki stuff does stuff
+## Description
 
-shes at like the bottom of the library of alsins landing for justicar origin
+Kayla is an [Adret](Adret.md) NPC.
+
+## Location
+
+Kayla is located inside of the first story of the library at [Alsin's Landing](<Alsin's_Landing.md>).
+
+## Dialogue
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*A messy-haired Adretian sits before you. They appear to be a bit gloomy.*</i></td>
+</tr>
+<tr>
+  <td>What's the problem?</td>
+</tr>
+<tr>
+  <td>I lost my favorite cape while running away from one of those terrible terrapods...</td>
+</tr>
+<tr>
+  <td>What did it look like?</td>
+</tr>
+<tr>
+  <td>It was this dark cape that also had a lighter-coloured trim, really good at keeping your face shrouded in the dark...</td>
+</tr>
+<tr>
+  <td>I'll keep an eye out for it, okay?</td>
+</tr>
+<tr>
+  <td>Please let me know if you find it!</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

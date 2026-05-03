@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 203220
+revid: 207766
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -103,3 +103,4 @@ If Teleportation is used in combat, it's cooldown is doubled upon usage.
 -   Teleportation charges faster if you are relatively close by the location you chose to teleport to.
 -   Teleportation now cancels if hit during the first 6s of its windup. If its windup is cancelled, it is put on a 15s cooldown
 -   If you have the _[Tarnished](Boons_and_Flaws.md#flaws)_ flaw, you will only be able to teleport if you click on the mark too many times.
+-   This resonance is used by [Krapthalos](Kraphtalos.md).

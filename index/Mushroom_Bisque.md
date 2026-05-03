@@ -1,6 +1,6 @@
 ---
 title: Mushroom Bisque
-revid: 175644
+revid: 207791
 source: https://deepwoken.fandom.com/wiki/Mushroom_Bisque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -36,7 +36,7 @@ When consumed, it replenishes 30% Stomach and 20% Water.
 
 ### Recipe
 
--   1 of any [Mushroom](Ingredients.md#mushrooms) (excluding [Bluecap](Bluecap.md)) and 1 [Crustacean Meat](Crustacean_Meat.md) at a [Campfire](Campfire_Pit.md).
+-   1 of any [Mushroom](Ingredients.md#mushrooms) (excluding [Bluecap](Bluecap.md)) and 1 [Crustacean Meat](Crustacean_Meat.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Fruit Cake
-revid: 175636
+revid: 207795
 source: https://deepwoken.fandom.com/wiki/Fruit_Cake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -35,4 +35,4 @@ When consumed, it replenishes 25% Stomach and 12% Water.
 
 ### Recipe
 
--   2 different [Fruits](Ingredients.md#fruits) and 1 [Gathered Wheat](Gathered_Wheat.md) at a [Campfire](Campfire_Pit.md).
+-   2 different [Fruits](Ingredients.md#fruits) and 1 [Gathered Wheat](Gathered_Wheat.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).

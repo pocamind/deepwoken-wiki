@@ -1,6 +1,6 @@
 ---
 title: Dread Filet
-revid: 175629
+revid: 207803
 source: https://deepwoken.fandom.com/wiki/Dread_Filet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -39,4 +39,4 @@ Additionally, it grants the Throat buff, affecting 15% of the Stomach bar. The b
 
 ### Recipe
 
--   1 [Dread Flesh](Dread_Flesh.md) at a [Campfire](Campfire_Pit.md).
+-   1 [Dread Flesh](Dread_Flesh.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).

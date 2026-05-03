@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 207636
+revid: 207762
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -37,26 +37,68 @@ Justicars spawn at [Alsin's Landing](<Alsin's_Landing.md>) with the [Justicar Ne
 
 ## Progression
 
-Using the Justicar Whistle will allow you to choose a specific Castaway which shows their name, power, luminant, and region.
+Using the Justicar Whistle will allow you to choose a specific Castaway which shows their name, power, Luminant, and region.
 
-Helping this Castaway progress via events, killing their voidwalker, etc. will provide you with 10 rank points. If the Castaway dies, or if you die, you will lose rank points (All of your Rank Points).
+Helping this [Castaway](Castaway.md) progress via events, killing their [Voidwalker](Voidwalker.md), etc. will provide you with 10 rank points. If the [Castaway](Castaway.md) dies, or if you die, you fail in your task to protect the [Castaway](Castaway.md) and lose every single point.
+
+Killing a high leveled [Voidwalker](Voidwalker.md) will award you with 50 points.
 
 These are the ranks you can progress through:
 
--   Neophyte/Initiate
--   Disciple
--   Elder
+-   Neophyte/Initiate (0 Points / 0 Events)
+-   Disciple (155 Points / 16 Events)
+-   Elder (205 Points / 21 Events)
 
-Once reaching Elder, you may choose between being a Vanguard or a Warder.
+Once reaching Elder, you may choose between being a Vanguard or a Warder by talking to their respective NPCs, being [Grandmaster Vanguard Legidae](Grandmaster_Vanguard_Legidae.md) in the armory and [Grandmaster Warder Sapphire](Grandmaster_Warder_Sapphire.md) in the library.
 
 Simplified: Vanguards focus on combat, while Warders focus on support and healing.
 
--   Joining Vanguard, you obtain the Justicar's Armor for free.
--   Joining Warder, you obtain that path's exclusive armor, 'Warder's Attire'.
+### Promotion Talents
+
+These Talents can be chosen upon being promoted at any point in your Justicar playthrough.
+
+-   **Trained legs** - Slightly increase your climb strength
+-   **Justicar's Preference** - Replace your critical with the Jus Karita critical attack
+-   **Swiftfoot** - Reduce all slows you recieve by 10%
+-   **Justicar's Technique** - Replace your running light attack with the Jus Karita running light attack. With the Justicar's Training, your legs extend the range of this running attack by an extra 0.5
+-   **Justicar's Adaptation** - Jus Karita running attacks and criticals can now proc Jus Karita talents even if you arent currently using Jus Karita. Your Jus Karita running attacks can now also proc fist talents
+
+## Divisions
+
+### Vanguard
+
+Vanguards are focused on combat and are designed to aid you in defending Castaways.
+
+Upon joining the Vanguard division, you will automatically be granted [Justicar's Armor.](<Justicar's_Armor.md>)
+
+### Exclusive Features
+
+-   **Vanguard Style** - When using the Jus Karita critical attack, turn it into a kick that brings your enemies up in the air. Landing the critical attack while your opponent is in the air brings them up and slightly stun them while upgrading your next critical
+-   **Vanguard's Onslaught** - Landing a Vanguard Style Jus Karita critical attack makes you deal 20% more damage in the air for the next 5 seconds
+-   **Karita Combo** - Remove the endlag from your next running attack. \[5 second CD\] Landing a critical attack right after your running attack makes that critical attack have no cooldown and deal more damage. \[10 second CD\]
+-   **Swiftkick Master** - Proccing Swiftkick Prodigy now extends its duration to 15 seconds
+-   **Soaring Swiftkick** - Flying Swiftkick no longer consumes your speed boost and nstead gives you more speed
+-   **Righteous Crash** - Slamming down your opponent in the air with a flourish or your upgraded Vanguard Jus Karita critical deals extra true damage based on high up in the air they were
+
+### Warder
+
+Warders are primarily focused on support and granting buffs to your allies.
+
+Upon joining the Warder division, you will automatically be granted [Warder's Attire.](<Warder's_Attire.md>)
+
+### Exclusive Features
+
+-   **Justicar's Mark** - Mark someone you wish to protect for a minute. While marked, you take 20% of the damage they receive but they take 20% less damage. Marking someone also cause you to take 20% more damage while they are marked.
+-   **Mark Mastery** - Reduce the amount of extra damage you receive while your ally is marked with the Justicar's Mark from 20% to 5%
+-   **Kindness** - Whenever you heal another player, heal 5 health yourself
+-   **Marked Descent** - When your marked target takes damage, they are revealed. Using your Karita Divebomb will target them
+-   **Righteous Violence** - Landing a Critical Attack heals your marked ally. Landing a Jus Karita critical or Karita Swap heals your marked ally even more
+-   **Justicar's Blessing** - Allies you mark with Justicar's Mark gain 15% more healing
+-   **Emergency Mark** - Applying a mark on someone who has less than 20% health heals them for 10% of their health
 
 ## Effects
 
-### Justicar Whistle
+### Justicar Whistle (This item is not given to you instead its given to [Castaways](Castaway.md)
 
 -   _In-game description_: Request aid from a Justicar.
 
@@ -68,8 +110,8 @@ Simplified: Vanguards focus on combat, while Warders focus on support and healin
 
 ### Cons
 
--   If the Castaway dies, or if you die, you will lose 50 rank points, which usually means you lose all if below 50.
--   Rank progression is insanely slow. You get only 10 points every encounter you save/assist your Castaway.
+-   If the [Castaway](Castaway.md) dies, or if you die, you will lose 50 rank points, which usually means you lose all if below 50.
+-   Rank progression is insanely slow. You get only 10 points every encounter you save/assist your [Castaway](Castaway.md).
 -   Very punishing for helping players.
 
 ## Reputation
@@ -80,4 +122,4 @@ Your starting reputation is:
 -   **Enemy** of [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md), [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md) and [The Hundred Legions](The_Hundred_Legions.md)
 -   **Neutral** with all other [factions](Factions_&_Groups.md) [Diversiconfaction](The_Divers.md) [Authorityiconfaction](The_Central_Authority.md) [Hiveiconfaction](The_Hive.md) [Summericonfaction](The_Summer_Company.md) [Navaeiconfaction](The_Children_of_Navae.md) [Etreaiconfaction](Etrea.md) [Etrean Royalistsiconfaction](Etrean_Royalists.md)
 
-_Note: Your chosen [Aspect](Aspects.md) may affect your starting reputation._
+_Note: Your chosen [Aspect](Aspects.md) may affect your starting [reputation](Reputation.md)._
