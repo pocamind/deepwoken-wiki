@@ -1,6 +1,6 @@
 ---
 title: Voidwalker
-revid: 207226
+revid: 207460
 source: https://deepwoken.fandom.com/wiki/Voidwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Origins, Character, The Knives of Eylis]
@@ -22,7 +22,7 @@ _Voidwalker_ is the counterpart of [Justicar](<Justicar_(Origin).md>). They are 
 
 ## Obtainment
 
-To obtain the Voidwalker Origin, the player must do the following:
+To obtain the Voidwalker [Origin](Origins.md), the player must do the following:
 
 1.  Have 5 player executions on a single character (Kills from the [Chime of Conflict](Chime_of_Conflict.md) only count as 0.5 of an execution, which equates to 10 victories).
 2.  Talk to [Eiris](Eiris.md) on the [Knives of Eylis vs Etrea sea event](Random_Encounters.md#fights-between-factions).
@@ -63,8 +63,8 @@ Successfully completing a bounty grants EXP and Full Training points based on th
 
 ### Pros
 
--   This Origin is very PvP centered. If you like this kind of content, this Origin will appeal to you.
--   The Voideye can act similar to a guild base, being a location to stock up on necessities or sell items at the antiquarian. Additionally, unlike the [Chime of Dwelling](Chime_of_Dwelling.md), the Voideye can be accessed from anywhere.
+-   This [Origin](Origins.md) is very PvP centered. If you like this kind of content, this [Origin](Origins.md) will appeal to you.
+-   The Voideye can act similar to a guild base, being a location to stock up on necessities or sell items at the [antiquarian](Antiquarian.md). Additionally, unlike the [Chime of Dwelling](Chime_of_Dwelling.md), the Voideye can be accessed from anywhere.
 -   As long as you complete your bounty, you can use the bounty teleport as a way to "fast travel" around the map, skipping the time spent travelling. However, because you must find a bounty that's around your level, this may not always be a choice for you.
 -   You start with [Whaler Initiate](Whaler_Initiate.md), which has decent stats for a starter armor.
 -   The Voideye is a very good place to find people to start ganking.

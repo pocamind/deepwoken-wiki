@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 207399
+revid: 207597
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -14,7 +14,9 @@ notices:
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-> “ Help those who are too weak to walk the path \[_[sic](https://en.wikipedia.org/wiki/sic)_\] ”
+This article is about the Origin. If you are looking for the [faction](Factions_&_Groups.md) itself, visit [this page](The_Justicar.md).
+
+> “ Help those who are too weak to walk the path alone... ”
 > 
 > ― Origin description
 
@@ -35,29 +37,15 @@ Justicars spawn at [Alsin's Landing](<Alsin's_Landing.md>) with the [Justicar Ne
 
 ## Progression
 
-Using the Justicar Whistle assigns you to a specific Castaway.
+Using the Justicar Whistle will allow you to choose a specific Castaway which shows their name, power, luminant, and region.
 
-Helping this Castaway progress via events, killing their voidwalker, etc. will provide you with 10 rank points. If the Castaway dies, or if you die, you will lose rank points (currently unconfirmed how many).
+Helping this Castaway progress via events, killing their voidwalker, etc. will provide you with 10 rank points. If the Castaway dies, or if you die, you will lose rank points (All of your Rank Points).
 
 ## Effects
 
 ### Justicar Whistle
 
--   _In-game description_:
-
-## Pros and Cons
-
-### Pros
-
-You are able to teleport to anyone who has used the whistle
-
-  
-
-### Cons
-
-The rank points are hard to get and keep
-
-PLEASE ADD
+-   _In-game description_: Request aid from a Justicar.
 
 ## Reputation
 

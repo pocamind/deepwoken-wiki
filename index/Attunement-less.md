@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 206786
+revid: 207493
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1529,7 +1529,7 @@ Blunt ResistanceBlunt
 
  | 
 
-20 Light Weapon, [Jus Karita](Jus_Karita.md)
+30 Light Weapon, [Jus Karita](Jus_Karita.md)
 
  |
 | 
@@ -1567,7 +1567,7 @@ Blunt ResistanceBlunt
 
  | 
 
-20 Light Weapon, [Jus Karita](Jus_Karita.md)
+30 Light Weapon, [Jus Karita](Jus_Karita.md)
 
  |
 | 

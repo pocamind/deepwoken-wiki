@@ -1,6 +1,6 @@
 ---
 title: "Vice-Warden"
-revid: 202992
+revid: 207481
 source: https://deepwoken.fandom.com/wiki/Vice-Warden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies with Oaths, Central Authority Enemies, Enemies that can wield Enchantments]
@@ -10,7 +10,7 @@ categories: [Enemies, Enemies with Oaths, Central Authority Enemies, Enemies tha
 
 | Vice-Warden | |
 |---|---|
-| health | 9500 |
+| health | 10500 |
 | drops | Master Key, Override Key, Release Key |
 | weapon | Curved Blade of Winds |
 | moves | Assault, Critical, Wind Gun, Updraft, Twister Kicks, Gale Punch, Astral Wind, Rising Wind, Windfall, Lightning Cloak, Restrain, Rupture |

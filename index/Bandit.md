@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 196434
+revid: 207590
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Bandits, Ambush Enemies]
@@ -10,8 +10,8 @@ categories: [Enemies, Bandits, Ambush Enemies]
 
 | Bandit | |
 |---|---|
-| health | 85 |
-| drops | Lesser Mantra Modifiers |
+| health | 500k |
+| drops | Lesser Mantra ModifiersMoonseye Tome |
 | weapon | Starter Weapons, Battleaxe, Sword, Messer, Mace, Stiletto |
 | moves | Assault, Critical |
 
@@ -20,6 +20,8 @@ categories: [Enemies, Bandits, Ambush Enemies]
 Bandits can be found in [Erisia](Erisia.md), [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md) and [Summer Isle](Summer_Isle.md). They spawn in groups of 3 in [Erisia](Erisia.md), spawn in a pair in [Etris](Etris.md) and [Isle of Vigils](Isle_of_Vigils.md) and can spawn in groups of 3-7 on [Summer Isle](Summer_Isle.md) as part of an event.
 
 A Bandit wears the "Corsair Outlaw" outift with their [aspect](Aspects.md) varying.
+
+Bandits are the most powerful enemies in Deepwoken, when fighting them focus on their swords animation and time your parries. One wrong move and you will be instantly killed. Dying to any bandit will instantly send you to Layer 2 of the Depths.
 
 ## Moves
 

@@ -1,6 +1,6 @@
 ---
 title: Forgotten Villager
-revid: 200336
+revid: 207469
 source: https://deepwoken.fandom.com/wiki/Forgotten_Villager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, NPCs located in the Etrean Luminant]
@@ -10,7 +10,7 @@ categories: [Pathfinder Exclusive, Enemies, NPCs, NPCs located in the Etrean Lum
 
 | Forgotten Villager | |
 |---|---|
-| health | ? |
+| health | 1000 |
 | drops | None |
 | weapon | Fists |
 | moves | Assault, Critical |

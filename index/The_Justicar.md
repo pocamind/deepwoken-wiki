@@ -1,6 +1,6 @@
 ---
 title: The Justicar
-revid: 206418
+revid: 207580
 source: https://deepwoken.fandom.com/wiki/The_Justicar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -14,6 +14,8 @@ notices:
 |---|---|
 | leader | Alsin (Spiritual leader) |
 | goals | Walking the path they see fit, which in the end is up to Alsin to judge.[1] |
+
+This article is about the faction. If you are looking for the [Origin](Origins.md), visit [this page](<Justicar_(Origin).md>).
 
 ## Description
 

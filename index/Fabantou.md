@@ -1,6 +1,6 @@
 ---
 title: Fabantou
-revid: 201855
+revid: 207421
 source: https://deepwoken.fandom.com/wiki/Fabantou
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Eastern Luminant, Humanoids with Unobtainable Outfits]
@@ -21,7 +21,9 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Fabantou is a [Felinor](Felinor.md) NPC. He is the landlord of [The Three Cheers](The_Three_Cheers.md). Formerly in charge of [the Central Authority](The_Central_Authority.md)'s mess hall, he left to start a civilian career with The Three Cheers, though he only serves military personnel. He sells the [Tankard of Ongo Juice](Tankard_of_Ongo_Juice.md) and [Fool's Tankard](<Fool's_Tankard.md>) if the player is an [Authority Ensign](Authority_Ensign.md).
+Fabantou is a [Felinor](Felinor.md) NPC. He is the landlord of [The Three Cheers](The_Three_Cheers.md).
+
+Formerly in charge of [the Central Authority](The_Central_Authority.md)'s mess hall, he left to start a civilian career with The Three Cheers, though he only serves military personnel. He sells the [Tankard of Ongo Juice](Tankard_of_Ongo_Juice.md) and [Fool's Tankard](<Fool's_Tankard.md>) if the player is an [Authority Ensign](Authority_Ensign.md).
 
 ## Location
 

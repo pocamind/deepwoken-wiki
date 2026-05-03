@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 205055
+revid: 207425
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -430,7 +430,7 @@ These status effects are applied exclusively through certain [Weapon](Weapons.md
 
 ### Moonseye Mark
 
-Become marked by the Moonseye, allowing users of the [Nocturne](Nocturne.md) to use their followup attack to their critical, or users of the [Soulthorn](Soulthorn.md) to use their 2nd and 3rd stage criticals on you depending on the amount of Moonseye Mark stacks applied.
+Become marked by the Moonseye, allowing users of the [Nocturne](Nocturne.md) to use their follow up attack to their critical, or users of the [Soulthorn](Soulthorn.md) to use their 2nd and 3rd stage criticals on you depending on the amount of Moonseye Mark stacks applied. The Moonseye mark will slow down opponents affected by it.
 
 ### Fractine Shard
 

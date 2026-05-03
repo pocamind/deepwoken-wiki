@@ -1,6 +1,6 @@
 ---
 title: Authority Chainwarden
-revid: 176739
+revid: 207480
 source: https://deepwoken.fandom.com/wiki/Authority_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies with Oaths, Central Authority Enemies]
@@ -10,7 +10,7 @@ categories: [Enemies, Enemies with Oaths, Central Authority Enemies]
 
 | Authority Chainwarden | |
 |---|---|
-| health | ? |
+| health | 3000 |
 | drops | Rifle Spear, Warden's Armor Piece |
 | weapon | Rifle Spear, Officer Saber, Falchion, Sovereign's Punishment, Hailbreaker, Nemit's Sickle, Inquisitor's Thorn |
 | moves | Assault, Critical, Flame Ballista, Fire Forge, Ash Slam, Flame Scourge, Fire Assault, Jolt Grab, Lightning Stream, Rising Thunder, Thunder Kick, Restrain, Rupture |

@@ -1,6 +1,6 @@
 ---
 title: Blacksmith
-revid: 205364
+revid: 207471
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vendors, NPCs, Humanoids with Unobtainable Outfits]
@@ -30,6 +30,8 @@ Blacksmiths have 3 functions: opening the [Outfits](Outfits.md) menu, crafting [
 -   [Pickaxe](Pickaxe.md) for 3
 -   [Lumber Axe](Lumber_Axe.md) for 3
 -   [Flint](Flint.md) for 3
+-   [Iron](Ores.md) for 20
+-   [Gold](Ores.md) for 50
 
 Blacksmiths will refuse to service the player if their [reputation](Reputation.md) is too low with the faction of the location they're at.
 
@@ -78,6 +80,10 @@ Smithy's Supplies
   <td><center><figure><figcaption></figcaption></figure>15 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
   <td><div>Coal</div><div><i>Used for fuel and in the production of steel.</i></div></td>
 </tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>20 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Iron</div><div><i>A crucial ore in blacksmithing, foundational to hundreds of alloys.</i></div></td>
+</tr>
 </tbody>
 </table>
 
@@ -96,6 +102,10 @@ Smithy's Tools
 <tr>
   <td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
   <td><div>Flint</div><div><i>A sharp flint and a scrap of pyrite used for starting fires.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>50 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Gold</div><div><i>A rare and precious ore found deep beneath the ground.</i></div></td>
 </tr>
 </tbody>
 </table>

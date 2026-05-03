@@ -1,6 +1,6 @@
 ---
 title: "Arachnid's Weave"
-revid: 206860
+revid: 207588
 source: https://deepwoken.fandom.com/wiki/Arachnid's_Weave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits]
@@ -10,7 +10,7 @@ categories: [Outfits, Master Outfits]
 
 | Arachnid's Weave | |
 |---|---|
-| caption | Spun around the dantiest of spider silks, this silvery coordinate is punctuated by its iconic corset. Perhaps "laced" with poison? |
+| caption | Spun around the daintiest of spider silks, this silvery coordinate is punctuated by its iconic corset. Perhaps "laced" with poison? |
 | tier | Master |
 | crafting_req | x10 Cloth, x2 Fiber, x5 Spider Eggs, x1 Bloodless Gem, x2 Dark Feathers, x5 Vibrant Gems |
 | price | 1000 |

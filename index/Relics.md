@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 206339
+revid: 207546
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Mechanics, Relics]
@@ -495,8 +495,6 @@ _"This Umbrite blade is unlike anything you've encountered. Marked and damaged b
 
  |
 | 
-
-File:Witherblade.png
 
  | **[Umbrite Witherblade](Umbrite_Witherblade.md)** - A result of the Dormant Splinter combining with a [Razor Cutlass](Razor_Cutlass.md). The Splinter and it's bloodthirst have seeped into the Cutlass, making it a shade of it's former self with the use of the twisted element known as [Umbrite](Ores.md). It is a powerful weapon that inflicts [Wither](Status_Effects.md#wither) with each attack, rotting away at their ability to recover from damage.
 

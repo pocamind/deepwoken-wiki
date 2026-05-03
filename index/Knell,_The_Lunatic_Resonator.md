@@ -1,6 +1,6 @@
 ---
 title: "Knell, The Lunatic Resonator"
-revid: 207395
+revid: 207527
 source: https://deepwoken.fandom.com/wiki/Knell%2C_The_Lunatic_Resonator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Anansi NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, Individuals with He/him pronouns, Enemies, Bosses]
@@ -12,7 +12,7 @@ notices:
 
 | Knell, The Lunatic Resonator | |
 |---|---|
-| health | ??? |
+| health | 30000 |
 | drops | Dissonant Chimecaller, Bellmarrow Reave, Dormant Splinter |
 | weapon | ??? |
 | aspect | Anansi |
@@ -39,6 +39,7 @@ Knell, The Lunatic Resonator is a humanoid [boss](Bosses.md) found in [Simforea]
 
 -   Knell is the first (and currently only) character in the game who has the [Anansi](Anansi.md) aspect.
 -   Although the title above Knell's health bar reads "The Lunatic Resonator", His name in the Encyclopedia is actually "The Lost Anansi".
+-   Knell, and his fight appear to be based on the boss Widow in Hollow Knight: Silksong. Both have similar attacks with rushdown swipes, and the myriad of thrown bell attacks. The two also share a design detail of two pins lodged in their backs although the purpose is unknown for Knell.
 
 ## References
 

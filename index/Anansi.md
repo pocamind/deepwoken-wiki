@@ -1,9 +1,9 @@
 ---
 title: Anansi
-revid: 207404
+revid: 207521
 source: https://deepwoken.fandom.com/wiki/Anansi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages]
+categories: [In progress without reason, InProgressPages, Aspects]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -16,9 +16,16 @@ notices:
 
 ## Description
 
-The Anansi were a people during the Old World.[\[2\]](#cite-note-2)
+The Anansi were a people active during the Old World.[\[2\]](#cite-note-2) The Anansi were an isolated population,[\[1\]](#cite-note-knellbestiary-1) which would prove their undoing when their homeland of [Simforea](Simforea.md) was lost, wiping them off the map.[\[3\]](#cite-note-3)
+
+The Anansi posses six eyes.[\[1\]](#cite-note-knellbestiary-1)
+
+## Trivia
+
+-   [Anansi](https://en.wikipedia.org/wiki/Anansi), meaning spider in the [Akan language](https://en.wikipedia.org/wiki/Akan_language), is a figure in [Akan religion](https://en.wikipedia.org/wiki/Akan_religion). Details vary, but he is generally associated with spiders.
 
 ## References
 
-1.  [↑](#cite-ref-1) [Bestiary](Bestiary.md): [Knell, The Lost Anansi](Bestiary.md#knell-the-lost-anansi)
+1.  ↑ [1.0](#cite-ref-knellbestiary-1-0) [1.1](#cite-ref-knellbestiary-1-1) [1.2](#cite-ref-knellbestiary-1-2) [Bestiary](Bestiary.md): [Knell, The Lost Anansi](Bestiary.md#knell-the-lost-anansi)
 2.  [↑](#cite-ref-2) [Ringing Scholar's Raiments](<Ringing_Scholar's_Raiments.md>)
+3.  [↑](#cite-ref-3) [Remnants of Soul](Remnants_of_Soul.md)

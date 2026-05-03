@@ -1,9 +1,9 @@
 ---
 title: Hugo
-revid: 199993
+revid: 207422
 source: https://deepwoken.fandom.com/wiki/Hugo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Tiran NPCs, Vow of Iron Exclusive, Vendors, NPCs]
+categories: [Tiran NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, Vendors, NPCs]
 ---
 
 # Hugo
@@ -12,6 +12,7 @@ categories: [Tiran NPCs, Vow of Iron Exclusive, Vendors, NPCs]
 |---|---|
 | name | Hugo |
 | aspect | Tiran |
+| pronouns | He/him |
 | location | The Three Cheers |
 | affiliation | The Central Authority |
 
@@ -23,7 +24,9 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Hugo is a [Tiran](Tiran.md) NPC, he was the previous owner and innkeep of [The Three Cheers](The_Three_Cheers.md) before [Fabantou](Fabantou.md). He sells the [Tankard of Ongo Juice](Tankard_of_Ongo_Juice.md) and [Fool's Tankard](<Fool's_Tankard.md>) with no restrictions to the player.
+Hugo is a [Tiran](Tiran.md) NPC. He was the previous owner and innkeep of [The Three Cheers](The_Three_Cheers.md) before [Fabantou](Fabantou.md).
+
+He sells the [Tankard of Ongo Juice](Tankard_of_Ongo_Juice.md) and [Fool's Tankard](<Fool's_Tankard.md>) with no restrictions to the player.
 
 ## Location
 

@@ -1,6 +1,6 @@
 ---
 title: Duskpole
-revid: 207386
+revid: 207565
 source: https://deepwoken.fandom.com/wiki/Duskpole
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Staves, Medium Weapons, Weapons with Talents]
@@ -31,8 +31,8 @@ categories: [Weapons, Staves, Medium Weapons, Weapons with Talents]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | TBA |
-| description | A balanced wooden staff. |
+| obtainment | Saramaed Hollow |
+| description | ... |
 
 ## Description
 
@@ -43,6 +43,12 @@ The Duskpole is a [Staff](Weapons.md) weapon in the Medium category.
 Equipping the Duskpole grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
 **Both Ends** allows you to followup an M1 with a swing from the opposite end of the staff by pressing M2. This attack comes out much faster, but only does 45% of your weapon damage.
+
+## Critical
+
+The user pole vaults into the air before slamming the staff onto the target, knocking them away and applying Knockdown.
+
+The critical has a cooldown of **6 seconds**.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Arthur
-revid: 192494
+revid: 207419
 source: https://deepwoken.fandom.com/wiki/Arthur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -21,7 +21,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Arthur is an [Etrean](Etrean.md) NPC. Regretting their inability to save their comrades, among them [Maria](Maria.md), Arthur offers a Bravery quest to kill a [Megalodaunt](Megalodaunt.md), in order to avenge their fellow soldiers.
+Arthur is an [Etrean](Etrean.md) NPC. Regretting their inability to save their comrades, among them [Maria](Maria.md), Arthur offers a Bravery quest to kill a [Megalodaunt](Megalodaunt.md) in order to avenge their fellow soldiers.
 
 ## Location
 

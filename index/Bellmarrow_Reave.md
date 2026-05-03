@@ -1,6 +1,6 @@
 ---
 title: Bellmarrow Reave
-revid: 207366
+revid: 207567
 source: https://deepwoken.fandom.com/wiki/Bellmarrow_Reave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Medium Weapons]
@@ -36,3 +36,9 @@ categories: [Weapons, Twinblades, Medium Weapons]
 ## Description
 
 The Bellmarrow Reave is a [Twinblade](Twinblades.md) weapon in the Medium category. The weapon is covered in jingle bells.
+
+## Critical
+
+The user twirls the blade around before summoning a rain of bells directly above the target. These bells will inflict [Ironsing](Ironsing.md) rods when hit, and will **autogrip** the target if they are knocked or at low health.
+
+The critical has a cooldown of **10 seconds**.

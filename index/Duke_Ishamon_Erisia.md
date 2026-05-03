@@ -1,11 +1,9 @@
 ---
 title: Duke Ishamon Erisia
-revid: 207287
+revid: 207594
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, Individuals with He/him pronouns, OutdatedPages, Pathfinder Exclusive, Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
-notices:
-  - This page may contain incorrect information. Please wait for an updated version to release.
+categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
 ---
 
 # Duke Ishamon Erisia
@@ -34,15 +32,13 @@ This content is not accessible outside of this gamemode.
 
 Defeating him will also allow [Galebreathe](Galebreathe.md) users to unlock the [Pillars of Erisia](Galebreathe.md#pillars-of-erisia) Mantra in a Whisper hand, which is a modified version of his Gale Stomp.
 
-He is a noble who resided in the City of [Celtor](Lost_Celtor.md) before its submergence and part of a lineage that ruled the island of [Erisia](Erisia.md). In appearance, Duke Erisia is a Marten [Celtor](Celtor.md). He wears a Slate Aristocrat Coat over the [Eager Tradesman](Eager_Tradesman.md) starter outfit with [Eyeglasses](Eyeglasses.md). He also has a green [Resonance](Resonance.md) by his side that allows him to create and control [Rock Golems](Rock_Golem.md). Duke Erisia is a martial arts user though does not seem nearly adept at fighting with his fists as with his wind. Alongside his martial attacks, he wields extremely powerful [Galebreathe](Galebreathe.md) [Mantras](Mantras.md).
+He is a noble who resided in the City of [Celtor](Lost_Celtor.md) before its submergence and part of a lineage that ruled the island of [Erisia](Erisia.md). In appearance, Duke Erisia is a Marten [Celtor](Celtor.md). He wears a Slate Aristocrat Coat over the [Eager Tradesman](Eager_Tradesman.md) starter outfit with [Eyeglasses](Eyeglasses.md). He also has a green [Resonance](Resonance.md) by his side that allows him to create and control [Rock Golems](Rock_Golem.md). Duke Erisia can also use his Resonance to summon Golem arms that swing alongside his fists, and wields extremely powerful [Galebreathe](Galebreathe.md) [Mantras](Mantras.md).
 
 ## Moveset
 
-OUTDATED AS OF WRITING THIS HE HAS BEEN REVAMPED BUT THE GAME IS NOT OPEN TO THE PUBLIC
+Duke Ishamon Erisia's arsenal consists of utilizing his [Resonance](Resonance.md) and [Galebreathe](Galebreathe.md).
 
-Duke Ishamon Erisia's arsenal consists of [Untrained Fist](Untrained_Fist.md) with an [Iron Cestus](Iron_Cestus.md) and [Galebreathe](Galebreathe.md).
-
-_For a visual guide consider watching [this video](https://www.youtube.com/watch?v=ol8I8E__J_c)._
+_For a visual guide consider watching [this video](https://www.youtube.com/watch?v=ol8I8E__J_c) (outdated)._
 
 | Name/Danger | Description | Media |
 | --- | --- | --- |
@@ -52,43 +48,93 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
  | Duke Erisia will charge up a punch, and teleport to his target,
 
--   Duke Erisia will transition to using Assault and Critical Attack after using Strong Left for a short duration.
+-   Duke Erisia will transition to using
 
  | 
 
  |
 | 
 
-**Assault**  
+**Stonelife Quake**  
 (★☆☆)
 
- | Performs 3 basic attacks before sending the opponent away with a flourish.
-
--   Duke Erisia will always and **only** start using Assault after using Strong Left.
-
- | 
-
- |
-| 
-
-**Critical**  
-(★★☆)
-
- | The Duke rushes forwards and unleashes a haymaker punch.
+ | The Duke conjures a Golem arm, smashing it into the ground.
 
 -   Duke Erisia will **only** use this after using Strong Left.
 
+_Uses Telegraph_
+
+[JumpTelegraph](Combat_Mechanics.md#white)
+
+Jump
+
  | 
 
  |
 | 
 
-**Feint**  
+**Stonelife Jab**  
 (★★☆)
 
- | Duke Erisia pulls his fist back before it hits you, only to hit you again with his other hand.
+ | The Duke conjures a Golem arm, rushing forward with wind and unleashing a punch.
 
--   Duke Erisia will **only** feint his "Assault".
+-   Duke Erisia will **only** use this after using Strong Left.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
+
+ | 
+
+ |
+| 
+
+**Stonelife Sweep**  
+(★★☆)
+
+ | The Duke conjures a Golem arm, performing a right hook.
+
+-   Duke Erisia will **only** use this after using Strong Left.
+
+_Uses Telegraph_
+
+[DuckTelegraph](Combat_Mechanics.md#yellow)
+
+Duck
+
+ | 
+
+ |
+| 
+
+**Wind Slicer**  
+(★★☆)
+
+ | The Duke unleashes a wide slash of wind that ragdolls the target.
+
+_Uses Telegraph_
+
+[DuckTelegraph](Combat_Mechanics.md#yellow)
+
+Duck
+
+ | 
+
+ |
+| 
+
+**Tempest Kick**  
+(★☆☆)
+
+ | The Duke rises into the air before kicking three gusts of wind towards the target.
+
+_Uses Telegraph_
+
+[JumpTelegraph](Combat_Mechanics.md#white)
+
+Jump
 
  | 
 
@@ -185,18 +231,6 @@ Dodge
 -   If fought solo, they may become a threat as they will combo you while fighting Ishamon if not killed fast enough.
 -   There are ten pods in the room, and thus a maximum of ten Servants that can be summoned in a fight. Generally, he will summon three batches of three before summoning a lone Servant.
 -   Only used once the posture shield is down. (Phase 2)
-
- | 
-
- |
-| 
-
-**Vent**  
-(★☆☆)
-
- | An explosion of blue ether around the user that pushes opponents away.
-
--   He always vents whenever he gets flourished into a wall.
 
  | 
 

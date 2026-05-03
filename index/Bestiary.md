@@ -1,6 +1,6 @@
 ---
 title: Bestiary
-revid: 207278
+revid: 207446
 source: https://deepwoken.fandom.com/wiki/Bestiary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -38,6 +38,34 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
   <th><center>Bestiary</center></th>
   <th><center>Tasks</center></th>
   <th><center>Reward</center></th>
+</tr>
+<tr>
+  <td rowspan="2"><a href="Arkasid.md">Arkasid</a></td>
+  <td>Good Night, Sleep Tight, Don't Let The Bed Bugs Bite
+  <ul>
+    <li>Slay 3, 9, and 15 <a href="Arkasid.md">Arkasids</a></li>
+  </ul></td>
+  <td>+5% damage and +2.5% resistance for each task
+  <ul>
+    <li>Total 15% damage and 7.5% resistance</li>
+  </ul></td>
+</tr>
+<tr>
+  <td colspan="2">Additional flavor text is unlocked upon completing each task:<div>
+  <ul>
+    <li><b>Good Night</b>:
+  <ul>
+    <li><i>These spider-like mites are surprisingly tough, with some of the toughest keratin known. When it dries, it turns beige and can be used as a strong, practical material for making weapons.</i></li>
+  </ul></li>
+    <li><b>Sleep Tight</b>:
+  <ul>
+    <li><i>The Arkasids were exterminated from the surface centuries ago, wiped out after they became relentless, invasive threat. They hunted in packs, sweeping through entire towns and cities until nothing was left in their wake.</i></li>
+  </ul></li>
+    <li><b>Don't Let The Bed Bugs Bite</b>:
+  <ul>
+    <li><i>Old texts describe Arkasids burrowing deep to breed, resurfacing in cycles not unlike cicadas. After their arrival with the Tides, the people of Lumen came to dread each return. Their eradication demanded immense, coordinated efforts from all Luminants. Most factions offered substantial bounties for the discovery and destruction of their pupae, seeding a rare moment of unified purpose. Once the layman caught wind of the rewards, ambition, and a fair share of greed, took hold, and humanity pushed as one, driving the Arkasids into the deepest depths and farthest reaches of the void.</i></li>
+  </ul></li>
+  </ul></div></td>
 </tr>
 <tr>
   <td><a href="Bone_Keeper.md">Bonekeeper</a></td>

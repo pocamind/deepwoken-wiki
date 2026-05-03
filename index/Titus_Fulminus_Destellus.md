@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 207016
+revid: 207584
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions, Humanoids with Unobtainable Outfits]
@@ -10,7 +10,7 @@ categories: [Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NP
 
 | Titus Fulminus Destellus | |
 |---|---|
-| health | 70,000 (+10k per player) |
+| health | 70000 (+10k per player) |
 | drops | Chest (see loot pool), Titus's Cape, Titus's Raiment, Titus' Armor Piece, Edenbrand Hellcoil, Worldpiercer Gauntlets, Evanspear War Set, Shock Trooper Set, Western Outlaw Set, Might and Wrath Gems (guaranteed), Several Enchant Stones |
 | moves | The Legion's Martial Arts, Worldpiercing Deluge, Worldshattering Smackdown, Commander's Rage, Commander's Whirlthrow, Vengeful Rushdown, Sovereign Drive, Skycrash, Wrathful Stomp, Warp Kick, Blighted Sparks, Chorus Divide: Shattering Crescendo |
 | pronouns | He/him |
@@ -97,6 +97,8 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
 (★★☆)
 
  | Titus unleashes an echoing roar that temporarily amplifies his attacks.
+
+-   This move can cause debris to fall.
 
  | 
 
@@ -191,16 +193,16 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
  |
 | 
 
-**Enhanced Chorus Divide**  
+**Chorus Divide: Shattering Crescendo**  
 (★★☆)
 
- | Titus channels his bell into two high-pressure beams of wind in a 360 degree motion. Those who are hit by the beams will also be knocked further back.
+ | Titus channels his bell into two high-pressure beams of wind in a 360 degree motion. Those who are hit by the beams will be ragdolled and flung at a considerable distance.
 
 -   Titus will only use this move in his second phase.
--   These beams are combined with the [Wind-Up](Wind-Up.md) Resonance, proccing every hit, making this move **very deadly**.
+-   This move can cause debris to fall.
+-   These beams are combined with the [Wind-Up](Wind-Up.md) blasts per hit, making this move **very deadly**.
 -   While he is winding up, it is best to start running or getting to higher levels to avoid the beams.
--   You can easily counter this by using prediction
--   THIS WILL INSTANTLY KNOCK YOU IF YOU ARE AGAINST A WALL OR IN A CORNER.
+-   You can easily counter this by using prediction.
 
  | 
 
@@ -208,14 +210,15 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
 
 ### Passives
 
+-   **Enough with Restraint** - Upon reaching 50% of his health, Titus will initiate a cutscene, healing 10% in the process and advancing to the next phase. For a brief moment, the Detainment Core will shake, causing debris too collapse from the ceiling. He will also be in Sovereign state for the rest of the fight.
+-   **Weakling Beater** - Titus will deal extra damage to NPCs in the Detainment Core.
 -   **Commander's Respite** - Titus will begin regenerating health when not actively engaged in combat.
--   **Quaking Presence** - The rumbling presence of Titus will break any nearby campfires and cause debris to collapse from the ceiling.
 -   **Thorn Guard** - Titus is immune to the effects of [Providence's Thorns](<Providence's_Thorns.md>).
 -   **Unharvestable** - Healing from [Bloodless Gems](Bloodless_Gem.md) are less effective.
 
 ### Talents
 
--   Brute Strength - Your vent is replaced with a ground slam attack that knocks back enemies.
+-   Brute Strength - Titus' vent is replaced with a ground slam attack that knocks back enemies.
 
 ## Tips and Strategies
 
