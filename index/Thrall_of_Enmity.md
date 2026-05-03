@@ -1,6 +1,6 @@
 ---
 title: Thrall of Enmity
-revid: 198861
+revid: 207146
 source: https://deepwoken.fandom.com/wiki/Thrall_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -13,7 +13,7 @@ categories: [Equipment, Face, Masks]
 | type | Face |
 | rarity | Unique |
 | selling price | 100 |
-| requirements | Power 10 |
+| requirements | N/A |
 | weight | 0.5 |
 | innate stats | +1 Rare Pip |
 | innate talent | Lose Your Mind |

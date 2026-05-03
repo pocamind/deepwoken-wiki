@@ -1,6 +1,6 @@
 ---
 title: Monastery Cowl
-revid: 206312
+revid: 207178
 source: https://deepwoken.fandom.com/wiki/Monastery_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Cowls]
@@ -13,9 +13,9 @@ categories: [Equipment, Head, Cowls]
 | type | Head |
 | rarity | Legendary |
 | selling price | 25 |
-| requirements | PWR 6 |
+| requirements | LVL 6 |
 | weight | 1 |
-| innate stats | 5% Stealth, 2 Rare Pips |
+| innate stats | +5% Stealth , +2 Rare Pips |
 | innate talent | Blade Dancer |
 | set | Monastery Cowl, Monastery Champion Robes, Monastery Beads |
 | set talent | N/A |

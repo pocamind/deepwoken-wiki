@@ -1,6 +1,6 @@
 ---
 title: Weapons/Editing
-revid: 180906
+revid: 207101
 source: https://deepwoken.fandom.com/wiki/Weapons/Editing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -22,6 +22,7 @@ Pistols: [AllPistolWeapons2](https://deepwoken.fandom.com/wiki/Template:AllPisto
 
 Swords: [AllSwordWeapons2](https://deepwoken.fandom.com/wiki/Template:AllSwordWeapons2)  
 Spears: [AllSpearWeapons2](https://deepwoken.fandom.com/wiki/Template:AllSpearWeapons2)  
+Staffs: [AllStaffWeapons2](https://deepwoken.fandom.com/wiki/Template:AllStaffWeapons2)  
 Clubs: [AllClubWeapons2](https://deepwoken.fandom.com/wiki/Template:AllClubWeapons2)  
 Rifles: [AllRifleWeapons2](https://deepwoken.fandom.com/wiki/Template:AllRifleWeapons2)  
 Twinblades: [AllTwinbladeWeapons2](https://deepwoken.fandom.com/wiki/Template:AllTwinbladeWeapons2)  

@@ -1,6 +1,6 @@
 ---
 title: Simmerbloom Diadem
-revid: 200736
+revid: 207246
 source: https://deepwoken.fandom.com/wiki/Simmerbloom_Diadem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Ornaments, The Covenant of Flame]
@@ -13,9 +13,9 @@ categories: [Equipment, Head, Ornaments, The Covenant of Flame]
 | type | Head |
 | rarity | Unique |
 | selling price | N/A |
-| requirements | LVL 10 FLM 80 |
+| requirements | LVL 10 |
 | weight | 1 |
-| innate stats | +5 Health, +1 Rare Pip, +1 Legendary Pip |
+| innate stats | +5 Health , +1 Rare Pip, +1 Legendary Pip |
 | innate talent | Simmerbloom |
 | bankable | Yes |
 | droppable | Yes |
@@ -35,4 +35,4 @@ This includes inflicting burn on downed people, making it a good option to keep 
 ## Trivia
 
 -   This was the second equipment item with to have the 'Unique' rarity.
--   The first piece of equipment to require investment into an Attunement, and the first to require investment into [Flamecharm](Flamecharm.md) by extension.
+-   Was previously first piece of equipment to require investment into an Attunement, and the first to require investment into [Flamecharm](Flamecharm.md) by extension. However, this requirement was removed in the free week update.

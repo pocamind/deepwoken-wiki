@@ -1,6 +1,6 @@
 ---
 title: Gale Enhanced Beads
-revid: 202061
+revid: 207184
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Beads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Craftable, Torso]
@@ -15,7 +15,7 @@ categories: [Pathfinder Exclusive, Equipment, Craftable, Torso]
 | selling price | 50 |
 | requirements | LVL 5 |
 | weight | 0.5 |
-| innate stats | +3% Elemental Armor+1 Legendary Pip |
+| innate stats | +3% Elemental Armor +1 Legendary Pip |
 | innate talent | Focused Strikes |
 | set | Gale Enhanced Cowl, Gale Enhanced Beads, Gale Enhanced Earrings, Gale Enhanced Ring |
 | set talent | N/A |

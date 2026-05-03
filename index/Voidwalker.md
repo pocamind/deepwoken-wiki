@@ -1,6 +1,6 @@
 ---
 title: Voidwalker
-revid: 205070
+revid: 207226
 source: https://deepwoken.fandom.com/wiki/Voidwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Origins, Character, The Knives of Eylis]
@@ -18,16 +18,16 @@ This content is not accessible outside of this gamemode.
 
 _**If you're looking on how to get rid of Voidwalkers - visit the [Bounty Hunting](Bounty_Hunting.md) page instead.**_
 
-_Voidwalker_ is a PvP-focused [Origin](Origins.md), greatly favoring, but not mandating [Bounty Hunting](Bounty_Hunting.md) for experience gain.
+_Voidwalker_ is the counterpart of [Justicar](<Justicar_(Origin).md>). They are a PvP-focused [Origin](Origins.md), greatly favoring, but not mandating, [Bounty Hunting](Bounty_Hunting.md) for experience gain.
 
 ## Obtainment
 
-To obtain the Voidwalker origin, the player must do the following:
+To obtain the Voidwalker Origin, the player must do the following:
 
-1.  Have 5 player grips on a single character (Kills from the [Chime of Conflict](Chime_of_Conflict.md) only count as 0.5 of a grip, which equates to 10 chime wins).
-2.  Talk to [Eiris](Eiris.md) on the [Knives of Eylis vs Etrea sea event](Random_Encounters.md#fights-between-factions)
+1.  Have 5 player executions on a single character (Kills from the [Chime of Conflict](Chime_of_Conflict.md) only count as 0.5 of an execution, which equates to 10 victories).
+2.  Talk to [Eiris](Eiris.md) on the [Knives of Eylis vs Etrea sea event](Random_Encounters.md#fights-between-factions).
 3.  Enter a [Subtle Knife of Eylis'](Subtle_Knife_of_Eylis.md) [Adagio](Subtle_Knife_of_Eylis.md#moveset) and teleport to the [Voidheart](Voidheart.md).
-4.  Talk to [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md) and obtain the origin, after which the player is teleported back to their last location (Similar to the Voideye).
+4.  Talk to [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md) and obtain the Origin, after which the player is teleported back to their last location (Similar to the Voideye).
 
 ## Spawn
 

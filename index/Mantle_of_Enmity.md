@@ -1,6 +1,6 @@
 ---
 title: Mantle of Enmity
-revid: 204089
+revid: 207147
 source: https://deepwoken.fandom.com/wiki/Mantle_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Relics, Equipment Relics]
@@ -13,7 +13,7 @@ categories: [Equipment, Torso, Relics, Equipment Relics]
 | type | Torso |
 | rarity | Relic |
 | selling price | 100 |
-| requirements | PWR 15 |
+| requirements | LVL 15 |
 | weight | 0.5 |
 | innate stats | +1 Rare Pip |
 | innate talent | Heartwing Beat |

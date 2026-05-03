@@ -1,6 +1,6 @@
 ---
 title: Lone Warrior
-revid: 204110
+revid: 207185
 source: https://deepwoken.fandom.com/wiki/Lone_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Origins, Character]
@@ -16,7 +16,10 @@ The _Lone Warrior_ [Origin](Origins.md) gives players a convenient way to access
 
 ## Obtainment
 
-Lone Warrior is obtained by [wiping](Death.md) for the first time or by defeating the [Thresher](Thresher.md) in the [Trial of One](Trial_of_One.md).
+To obtain the Lone Warrior Origin, the player must do one of the following:
+
+1.  [Wipe](Death.md) for the first time.
+2.  Defeat the [Thresher](Thresher.md) in the [Trial of One](Trial_of_One.md).
 
 ## Spawn
 

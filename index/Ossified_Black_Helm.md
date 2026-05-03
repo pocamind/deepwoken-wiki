@@ -1,6 +1,6 @@
 ---
 title: Ossified Black Helm
-revid: 205066
+revid: 207401
 source: https://deepwoken.fandom.com/wiki/Ossified_Black_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Craftable, Helmets, Head, Equipment with Set Bonuses]
@@ -42,4 +42,4 @@ The [Sloped Plate](Talents.md#sloped-plate) Talent reduces the amount of damage 
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent [Captain's Call](Talents.md#captains-call) - Call up two [Blacksteel Pirates](Blacksteel_Pirate.md) to aid you in battle \[5 minute CD\].
+Set Talent [Captain's Call](Talents.md#captains-call) - Call up two [Blacksteel Pirates Captains](Blacksteel_Pirate_Captain.md) to aid you in battle \[5 minute CD\].

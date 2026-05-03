@@ -1,6 +1,6 @@
 ---
 title: "Justicar's Armor"
-revid: 206877
+revid: 207275
 source: https://deepwoken.fandom.com/wiki/Justicar's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits]
@@ -20,7 +20,7 @@ categories: [Outfits, Master Outfits]
 | resistances | +30% Physical Armor , +5% Blunt Armor , +30% Elemental Armor , +5% Ice Armor , +5% Shadow Armor |
 | buffs | +20% Ether Regen |
 | talents | The Path, Unveiled |
-| obtainment | Chests from:, Etris: Siege, Fishing, Crypt of the Unbroken, Maestro Evengarde RestOther:, Fury Nautilodaunt (direct drop), Sold by Glaive Spellhardt |
+| obtainment | Chests from:, Etris: Siege, Fishing, Crypt of the Unbroken, Maestro Evengarde Rest, The FerrymanOther:, Fury Nautilodaunt (direct drop), Sold by Glaive Spellhardt |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

@@ -1,6 +1,6 @@
 ---
 title: "Imperator's Fury"
-revid: 203823
+revid: 207130
 source: https://deepwoken.fandom.com/wiki/Imperator's_Fury
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -13,7 +13,7 @@ categories: [Equipment, Torso, Necklaces]
 | type | Torso |
 | rarity | Common |
 | selling price | N/A |
-| requirements | PWR 8 |
+| requirements | LVL 5 |
 | weight | 0.5 |
 | innate stats | N/A |
 | innate talent | Brute Strength |

@@ -1,6 +1,6 @@
 ---
 title: Citadel Frames
-revid: 205808
+revid: 207113
 source: https://deepwoken.fandom.com/wiki/Citadel_Frames
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Glasses, Equipment Styles, The Divers]
@@ -13,9 +13,9 @@ categories: [Equipment, Face, Glasses, Equipment Styles, The Divers]
 | type | Face |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 3 |
+| requirements | N/A |
 | weight | 0.5 |
-| innate stats | +5 Health, -1 Posture, +1 Rare Pip |
+| innate stats | +5 Health , -1 Posture , +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

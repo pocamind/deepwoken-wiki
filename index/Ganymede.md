@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 205690
+revid: 207220
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -11,7 +11,7 @@ categories: [Pages with broken file links, Aspects]
 | Ganymede | |
 |---|---|
 | obtained_by | 2% Roll Chance |
-| appearance | Navy/Gray/Green/Brown/Purple Skin, Cyan/White/Green/Yellow/Purple Eyes, White/Purple Hair |
+| appearance | Navy/Gray/Green/Brown/Purple Skin, Solid Cyan/White/Green/Yellow/Purple Eyes, White/Purple Hair |
 | traits | Deepfolk, +3 Willpower, +2 Intelligence |
 
 | Ganymede Hat | |

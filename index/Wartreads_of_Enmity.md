@@ -1,6 +1,6 @@
 ---
 title: Wartreads of Enmity
-revid: 197616
+revid: 207145
 source: https://deepwoken.fandom.com/wiki/Wartreads_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boots, Equipment]
@@ -13,9 +13,9 @@ categories: [Pages with broken file links, Boots, Equipment]
 | type | Legs |
 | rarity | Unique |
 | selling price | 100 |
-| requirements | PWR 15 |
+| requirements | LVL 15 |
 | weight | 1 |
-| innate stats | 5 Health, +1 Posture, +2 Legendary Pips |
+| innate stats | +5 Health , +1 Posture , +2 Legendary Pips |
 | innate talent | N/A |
 | set | Aegis of Enmity, Bastions of Enmity, Wartreads of Enmity, Thrall of Enmity, Fauld of Enmity/Mantle of Enmity |
 | set talent | N/A |

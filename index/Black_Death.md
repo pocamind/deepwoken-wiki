@@ -1,6 +1,6 @@
 ---
 title: Black Death
-revid: 203177
+revid: 207071
 source: https://deepwoken.fandom.com/wiki/Black_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Reforged Weapons]
@@ -12,7 +12,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals 
 |---|---|
 | type | Spear |
 | damage type | Slash |
-| requirements | 30 MED, 50 MND, 70 SDW, LVL 12 |
+| requirements | 30 MED, 50 MND, 70 SDW, LVL 10 |
 | oath | Silentheart |
 | damage | 16.5 + 2.4 BLD |
 | scaling | 3 MED, 4.5 SDW, 3 MND |

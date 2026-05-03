@@ -1,6 +1,6 @@
 ---
 title: Grand Fisher Plate
-revid: 204347
+revid: 207138
 source: https://deepwoken.fandom.com/wiki/Grand_Fisher_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, The Divers]
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Plates, The Divers]
 | selling price | 100 |
 | requirements | LVL 13 |
 | weight | 2 |
-| innate stats | +10 Health, +1 Posture, +3 Legendary Pips |
+| innate stats | +10 Health , +1 Posture , +3 Legendary Pips |
 | innate talent | Diver's Resilience |
 | set | Grand Fisher Helm, Grand Fisher Plate |
 | set talent | N/A |
@@ -28,15 +28,13 @@ categories: [Equipment, Arms, Plates, The Divers]
 
 Grand Fisher Set
 
-Variants: [Grand Fisher Helm](Grand_Fisher_Helm.md)
+Variants: [Helm](Grand_Fisher_Helm.md)
 
 ## Description
 
 The Grand Fisher Plate is an [Equipment](Equipment.md) item under the "Arms" category.
 
-The Grand Fisher Plate, along with the [Grand Fisher Helm](Grand_Fisher_Helm.md), is part of the Grand Fisher Set.
-
-They are guaranteed drops from an enemy in the [First Layer](First_Layer.md) called "[The Fisherman](The_Fisherman.md)".
+The Grand Fisher Set is a guaranteed drop from an enemy in the [First Layer](First_Layer.md) called "[The Fisherman](The_Fisherman.md)".
 
 The [Diver's Resilience](Talents.md#divers-resilience) Talent allows the player to parry certain attacks that are normally unparryable from [Monsters](Monsters.md). After parrying an unparryable attack, this goes on cooldown for 20 seconds. This comes with the downside of moving 3% slower at all times. This functions similarly to [Force Your Way](Talents.md#force-your-way).
 

@@ -1,9 +1,9 @@
 ---
 title: Union Initiate
-revid: 206702
+revid: 207350
 source: https://deepwoken.fandom.com/wiki/Union_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Starter Outfits, The Ignition Union]
+categories: [Pathfinder Exclusive, Outfits, Starter Outfits, The Ignition Union]
 ---
 
 # Union Initiate
@@ -21,7 +21,11 @@ categories: [Outfits, Starter Outfits, The Ignition Union]
 | selling_price | N/A |
 | weight | 1 |
 
-**Union Initiate** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+**Union Initiate** is a Starter [Outfit](Outfits.md) in _Deepwoken_ that is exclusive to the [Ignition Delver](Ignition_Delver.md) Origin.
 
 ## Statistics
 
@@ -33,7 +37,7 @@ This Outfit has no [Attribute](Attributes.md) requirement, but has a [Power](Pow
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability, grants 15% Physical resistance ResistanceBlunt ResistanceSlash, 5% Elemental resistance [ResistanceElemental](Attunements.md), and 10 [Carry Load](Carry_Load.md) [IconCarryLoad](Carry_Load.md).
+This Outfit has 1500 durability, grants +15% Physical resistance ResistanceBlunt ResistanceSlash, +5% Elemental resistance [ResistanceElemental](Attunements.md), and +10 [Carry Load](Carry_Load.md) [IconCarryLoad](Carry_Load.md).
 
 The additional Carry Load allows [Ignition Delver](Ignition_Delver.md) players to carry a little more when in the [Saramaed Hollow](Saramaed_Hollow.md) Dungeon.
 

@@ -1,6 +1,6 @@
 ---
 title: "Sorcerer's Mantle"
-revid: 205995
+revid: 207160
 source: https://deepwoken.fandom.com/wiki/Sorcerer's_Mantle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Arms, Equipment, Equipment with Set Bonuses]
@@ -13,9 +13,9 @@ categories: [Vow of Iron Exclusive, Arms, Equipment, Equipment with Set Bonuses]
 | type | Arms |
 | rarity | Mythical |
 | selling price | 100 |
-| requirements | PWR 135 INT |
+| requirements | LVL 125 INT |
 | weight | 2 |
-| innate stats | +7 Health, +1 Rare Pip, +2 Legendary Pips |
+| innate stats | +7 Health , +1 Rare Pip, +2 Legendary Pips |
 | innate talent | Overflowing DamSorcerer's Surge |
 | set | Sorcerer's Brim, Sorcerer's Mantle |
 | set talent | Sorcerer's Supply |

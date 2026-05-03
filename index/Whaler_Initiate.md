@@ -1,9 +1,9 @@
 ---
 title: Whaler Initiate
-revid: 206696
+revid: 207351
 source: https://deepwoken.fandom.com/wiki/Whaler_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Starter Outfits, The Knives of Eylis]
+categories: [Pathfinder Exclusive, Outfits, Starter Outfits, The Knives of Eylis]
 ---
 
 # Whaler Initiate
@@ -24,7 +24,11 @@ categories: [Outfits, Starter Outfits, The Knives of Eylis]
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Whaler Initiate** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+**Whaler Initiate** is a Starter [Outfit](Outfits.md) in _Deepwoken_ that is exclusive to the [Voidwalker](Voidwalker.md) Origin.
 
 ## Statistics
 

@@ -1,9 +1,9 @@
 ---
 title: Polis
-revid: 206416
+revid: 207364
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Vesperian NPCs, NPCs, NPCs located in the Etrean Luminant, Quests, Enemies, Etrea Enemies, Individuals with unspecified pronouns]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Enemies, Etrea Enemies, Individuals with unspecified pronouns]
 ---
 
 # Polis
@@ -101,7 +101,7 @@ Polis can be found sitting under the giant tree in the middle of [Etris](Etris.m
 </tbody>
 </table>
 
-**After you hear his story:**
+**After you hear their story:**
 
 <table>
 <tbody>
@@ -236,36 +236,36 @@ Polis' arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md), hi
 
 -   Collapsed Lung - When Polis block breaks someone, they are unable to vent for 3 seconds.
 -   Bulldozer - When Polis flourishes an enemy into a wall, they are guard broken and have a chance of breaking the wall.
--   Audacity - When Polis starts gripping an enemy, he creates an AOE stun and slow. He also resists the effect of Defiant Until the End and Last Second Negotiation.
--   Braced Collapse - If Polis is guard broken, he takes less damage from the next hit.
+-   Audacity - When Polis starts gripping an enemy, they create an AOE stun and slow. They also resist the effect of Defiant Until the End and Last Second Negotiation.
+-   Braced Collapse - If Polis is guard broken, they take less damage from the next hit.
 -   Perseverance - If knocked, Polis gets up faster.
 -   Impervious Slumber - Polis' knock timer cannot be reset.
 -   Moving Fortress - Polis isn't slowed as much while blocking.
 -   Battle Tendency - Polis restores posture +20% faster.
 -   Reinforced Armor - Polis resists Armor PEN by 30%.
 -   Matador - Polis deals +20% more damage against human enemies with hyperarmor.
--   Brutal Momentum - Polis gains hyperarmor on his next swing if he dodges an attack.
--   Showstopper - Polis stomps the ground if an enemy tries to dodge his attacks, dazing them.
--   Warrior's Swing - Polis takes less damage if hit during the hyperarmor of his melee attacks.
+-   Brutal Momentum - Polis gains hyperarmor on their next swing if they dodge an attack.
+-   Showstopper - Polis stomps the ground if an enemy tries to dodge their attacks, dazing them.
+-   Warrior's Swing - Polis takes less damage if hit during the hyperarmor of their melee attacks.
 -   Destructive Recovery - Enemies who parry Polis recover much less posture.
 -   Heavy Hitter - Polis deals +10% posture damage.
 -   Punishing Blow - If Polis hits an enemy while they are swinging their weapon, they are dazed.
 -   Hard Read - If Polis hits a feinting enemy, they are dazed.
 -   Swift Rebound - Polis gains a speed boost after dodging an attack.
 -   Evasive Expert - Polis gains even more speed from dodging an attack.
--   Ghost - Polis becomes invisible for 2 seconds whenever he dodges an attack.
+-   Ghost - Polis becomes invisible for 2 seconds whenever they dodge an attack.
 -   Concussive Force - Enemies knocked by Polis remain knocked for 15 seconds instead of 10.
 -   Strong Stern - Polis is only dazed for half the time if wall banged.
 -   Concussion - When Polis flourishes an enemy into a wall, they are slightly blinded and are dazed for longer.
--   Risky Moves - When Polis dodges an attack, he will automatically dodge the next attack.
+-   Risky Moves - When Polis dodges an attack, they will automatically dodge the next attack.
 -   Wyvern's Claw - Polis deals +10% damage while in the air.
 -   Chronostasis - If Polis hits an enemy, their resonance is put on cooldown.
--   In a Hurry - If Polis has a speed boost, he grips his enemy 16.67% faster (-0.5s).
--   Grand Support - Polis gains health and heals those he Reinforces.
+-   In a Hurry - If Polis has a speed boost, they grip their enemy 16.67% faster (-0.5s).
+-   Grand Support - Polis gains health and heals those they Reinforce.
 
 ## Finisher
 
-Polis executes his opponent after knocking them:
+Polis executes their opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
@@ -273,15 +273,15 @@ Polis executes his opponent after knocking them:
 
 ## Trivia
 
--   Killing him will give the player negative [Reputation](Reputation.md) with Etrea.
--   During the event there's a bug where his face mask changes to a different pattern than the one he has while he is static.
--   Though Polis can be killed, doing so will not affect him, as he will respawn back in his usual spot and act like nothing happened.
--   The price of the Gold Ring he gave used to be 25 notes. Now it sells for 14 notes, however the price may vary due to quality stars.
--   Polis has special dialogue when attempting to scare him with a [Hallowtide Mask](Hallowtide_Mask.md): "I may be old, but I'm still brave, young one."
+-   Killing them will give the player negative [Reputation](Reputation.md) with Etrea.
+-   During the event there's a bug where their face mask changes to a different pattern than the one they have while they are static.
+-   Though Polis can be killed, doing so will not affect them, as they will respawn back in their usual spot and act like nothing happened.
+-   The price of the Gold Ring they gave used to be 25 notes. Now it sells for 14 notes, however the price may vary due to quality stars.
+-   Polis has special dialogue when attempting to scare them with a [Hallowtide Mask](Hallowtide_Mask.md): "I may be old, but I'm still brave, young one."
 -   When having [Jus Karita](Jus_Karita.md) as a starting weapon Polis will say "How strange that our Paths should cross again so soon...", as if you have already met, and does not give you a Gold Ring or any other dialogue.
 -   Despite teaching Jus Karita and donning a Justicar Armour, he favours a Greatsword in combat instead. This is because Jus Karita is intended to be a last resort if disarmed, a mechanic that does not exist in _[Deepwoken](<Deepwoken_(game).md>)_.
     -   Polis does use Jus Karita Mantras though, despite wielding a Greatsword.
--   His name historically means "Greek city state."
--   His hair ID is [6101425666](https://www.roblox.com/catalog/6101425666/Dark-Messy-Manbun)
--   Polis has an actual obtainable build if you utilize [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), with all of his [Talents](Talents.md) (_except Audacity_) and all [Mantras](Mantras.md) being obtainable.
+-   Their name historically means "Greek city state."
+-   Their hair ID is [6101425666](https://www.roblox.com/catalog/6101425666/Dark-Messy-Manbun)
+-   Polis has an actual obtainable build if you utilize [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), with all of their [Talents](Talents.md) (_except Audacity_) and all [Mantras](Mantras.md) being obtainable.
 -   Polis can be seen in the Main Menu screen along with [Karliah](Karliah.md) and [Kennith](Kennith.md).

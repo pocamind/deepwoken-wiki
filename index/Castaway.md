@@ -1,6 +1,6 @@
 ---
 title: Castaway
-revid: 204109
+revid: 207381
 source: https://deepwoken.fandom.com/wiki/Castaway
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Character, Origins]
@@ -26,11 +26,18 @@ Castaway is unlocked by default.
 
 Castaways spawn with the [Stranded](Stranded.md) Outfit equipped. The player is able to choose to spawn in either the [Etris](Etris.md) or [Isle of Vigils](Isle_of_Vigils.md) inns by clicking their respective origins. Inside the inns, the player can speak to either [Trenti](Trenti.md) or [Aristo](Aristo.md) depending on their spawn choice to gain 25.
 
+## Effects
+
+### Justicar Whistle
+
+-   _In-game description_: Request aid from a Justicar.
+
 ## Pros and Cons
 
 ### Pros
 
 -   Castaway has no negative EXP modifiers nor preferred progression method, unlike most other Origins. This allows you to progress in any way you want to without any downsides to experience gain.
+-   Can request help from Justicars, which can be useful if you are new to the game.
 
 ### Cons
 

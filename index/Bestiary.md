@@ -1,6 +1,6 @@
 ---
 title: Bestiary
-revid: 204806
+revid: 207278
 source: https://deepwoken.fandom.com/wiki/Bestiary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -304,6 +304,22 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
   <td>+5% damage and +2.5% resistance</td>
 </tr>
 <tr>
+  <td><a href="The_Doom_of_Caeranthil.md">The Doom of Caeranthil</a></td>
+  <td>Caeranthil's Vengeance
+  <ul>
+    <li>Slay 10</li>
+  </ul></td>
+  <td>+15% damage and 7.5% resistance</td>
+</tr>
+<tr>
+  <td><a href="Dread_Serpent.md">Dread Serpent</a></td>
+  <td>The Mortal Edenkite
+  <ul>
+    <li>Slay 10</li>
+  </ul></td>
+  <td>+15% damage and 7.5% resistance</td>
+</tr>
+<tr>
   <td rowspan="2"><a href="Duke_Ishamon_Erisia.md">Duke Ishamon Erisia</a></td>
   <td>Memories of Home
   <ul>
@@ -318,8 +334,16 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
   </ul></div></td>
 </tr>
 <tr>
-  <td><a href="Dread_Serpent.md">Dread Serpent</a></td>
-  <td>The Mortal Edenkite
+  <td><a href="The_Ferryman.md">The Ferryman</a></td>
+  <td>Dance Partner
+  <ul>
+    <li>Slay 10</li>
+  </ul></td>
+  <td>+5% damage and +2.5% resistance</td>
+</tr>
+<tr>
+  <td><a href="Heart_of_Enmity.md">The Heart of Enmity</a></td>
+  <td>Greater Hatred
   <ul>
     <li>Slay 10</li>
   </ul></td>
@@ -332,6 +356,34 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
     <li>Slay 10</li>
   </ul></td>
   <td>+15% damage and +7.5% resistance</td>
+</tr>
+<tr>
+  <td rowspan="2"><a href="Knell,_The_Lunatic_Resonator.md">Knell, The Lost Anansi</a></td>
+  <td>Encore!, Hells Bells, For Whom The Bell Tolls
+  <ul>
+    <li>Slay <a href="Knell,_The_Lunatic_Resonator.md">Knell, The Lunatic Resonator</a> 2, 5, and 15 times</li>
+  </ul></td>
+  <td>+3% damage and +1.5% resistance for each task
+  <ul>
+    <li>Total 9% damage and 4.5% resistance</li>
+  </ul></td>
+</tr>
+<tr>
+  <td colspan="2">Additional flavor text is unlocked upon completing each task:<div>
+  <ul>
+    <li><b>Encore!</b>:
+  <ul>
+    <li><i>After centuries of fruitless noise, Knell, the frenzied Anansi, has finally returned to the world he once left behind, pulled back by the winding, regurgitating will of the seemingly endless Voidsea. At this point, he must be at least hundreds of years old.</i></li>
+  </ul></li>
+    <li><b>Hells Bells</b>:
+  <ul>
+    <li><i>It has been centuries since the last known Anansi walked the lands of Lumen. A deeply insular people, they preferred isolation in both thought and dwelling. Many sought to deepen their senses through relentless meditation, striving to open all six of their eyes - though the pursuit of that final vision drove many of their kind to madness, to be undone by their own ambition.</i></li>
+  </ul></li>
+    <li><b>For Whom The Bell Tolls</b>:
+  <ul>
+    <li><i>Through the influence of the Void and the scars left by its touch, the boons of Anansi biology have twisted into something grotesque. The sight which Knell might have once sought has now curdled into an unbearable screaming within his mind, blinding him to reality. Even though he perceives more of this world than anyone else ever could, the only sensation he can reliably cling to is the pounding vibration of his own soul, as he forever chases a resonance and purity he will never attain.</i></li>
+  </ul></li>
+  </ul></div></td>
 </tr>
 <tr>
   <td><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></td>
@@ -357,30 +409,6 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
     <li>Slay 10</li>
   </ul></td>
   <td>+15% damage and +7.5% resistance</td>
-</tr>
-<tr>
-  <td><a href="The_Doom_of_Caeranthil.md">The Doom of Caeranthil</a></td>
-  <td>Caeranthil's Vengeance
-  <ul>
-    <li>Slay 10</li>
-  </ul></td>
-  <td>+15% damage and 7.5% resistance</td>
-</tr>
-<tr>
-  <td><a href="Heart_of_Enmity.md">The Heart of Enmity</a></td>
-  <td>Greater Hatred
-  <ul>
-    <li>Slay 10</li>
-  </ul></td>
-  <td>+15% damage and 7.5% resistance</td>
-</tr>
-<tr>
-  <td><a href="The_Ferryman.md">The Ferryman</a></td>
-  <td>Dance Partner
-  <ul>
-    <li>Slay 10</li>
-  </ul></td>
-  <td>+5% damage and +2.5% resistance</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Pendant of Order
-revid: 178562
+revid: 207122
 source: https://deepwoken.fandom.com/wiki/Pendant_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Equipment, Torso, Necklaces]
@@ -15,9 +15,9 @@ notices:
 | type | Torso |
 | rarity | Common |
 | selling price | None |
-| requirements | PWR 8 |
+| requirements | LVL 5 |
 | weight | 0.5 |
-| innate stats | +3% Physical Armor , +1 Rare Pip , +1 Legendary Pip |
+| innate stats | +3% Physical Armor , +1 Rare Pip, +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

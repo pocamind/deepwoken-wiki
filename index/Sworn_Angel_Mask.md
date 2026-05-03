@@ -1,6 +1,6 @@
 ---
 title: Sworn Angel Mask
-revid: 205918
+revid: 207114
 source: https://deepwoken.fandom.com/wiki/Sworn_Angel_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -13,7 +13,7 @@ categories: [Equipment, Face, Masks]
 | type | Face |
 | rarity | Common |
 | selling price | 25 |
-| requirements | Power 10 |
+| requirements | N/A |
 | weight | 0.5 |
 | innate stats | +2 Rare Pips |
 | innate talent | Angel's Guise |

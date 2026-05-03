@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 205130
+revid: 207106
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -26017,7 +26017,7 @@ m is your current stat and r is your weapon's requirements [calculator here](htt
     -   Singular attribute requirement: [Hero Blades](Hero_Blades.md) (all of them) (100 respective Attunement)
     -   Multiple attribute requirement: [Imperator's Edge](<Imperator's_Edge.md>) (80 STR, 80 FTD, 80 MED)
     -   Amount of individual attribute requirements: [Red Death](Red_Death.md) (4)
-    -   Penetration: [Shattered Katana](Shattered_Katana.md), [Nemit's Sickle](<Nemit's_Sickle.md>), [Kyrsedge](Kyrsedge.md), [Kyrstreza](Kyrstreza.md), [Flareblood Kamas](Flareblood_Kamas.md), [Pernach](Pernach.md), [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Nocturne](Nocturne.md) (30%)
+    -   Penetration: [Shattered Katana](Shattered_Katana.md), [Nemit's Sickle](<Nemit's_Sickle.md>), [Kyrsedge](Kyrsedge.md), [Kyrstreza](Kyrstreza.md), [Flareblood Kamas](Flareblood_Kamas.md), [Pernach](Pernach.md), [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) (30%)
     -   Chip damage: [Night Axe](Night_Axe.md) (80%)
     -   Scaling: [Par's Glaive](<Par's_Glaive.md>) (30 CHA)
     -   Weight: [Sovereign's Punishment](<Sovereign's_Punishment.md>) (13)

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 206275
+revid: 207087
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, Equipment, In progress with VOI reason]
@@ -197,7 +197,7 @@ Aazel's & Necrotic Demon |
 _+1 Posture_
 
 +2 Legendary Pip  
-**Requires Power 15**
+**Requires Power 12**
 
  | Set: Enmity  
 Head: [Aegis of Enmity](Aegis_of_Enmity.md)  
@@ -532,7 +532,7 @@ _+5% Ice Armor_
 +1 Rare Pip  
 +1 Legendary Pip  
 _+Talent: [**Coldseep Reactor**](Talents.md#coldseep-reactor)_  
-**Requires Power 13**
+**Requires Power 10**
 
  | Set: Grand Fisher  
 Head: [Grand Fisher Helm](Grand_Fisher_Helm.md)  
@@ -788,7 +788,7 @@ Legs: [Silver Sabatons](Silver_Sabatons.md) |
 +1 Rare Pip  
 +1 Legendary Pip  
 _+Talent: [**Simmerbloom**](Talents.md#simmerbloom)_  
-**Requires Power 10, 80 Flamecharm**
+**Requires Power 10**
 
  | N/A |
 |  | [Smith's Bandana](<Smith's_Bandana.md>)  
@@ -872,6 +872,7 @@ Face: [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
 
 +2 Rare Pips  
 _+Talent: **[Exterminator](Cut_Content.md#exterminator)**_  
+_+Talent: [**Eurek**](Talents.md#eurek)_  
 **Requires Power 6**
 
  | Styles:  
@@ -1075,7 +1076,7 @@ Arms: [Assassin's Cloak](<Assassin's_Cloak.md>)
 (**Animated**) | _+10 Health_
 
 +2 Rare Pips  
-**Requires Power 13**
+**Requires Power 12**
 
  | Styles:  
 Amber, Haze, Bronze, Gold, Royal, Ruby, Stygian & Verdant |
@@ -1103,7 +1104,7 @@ Legs: [Azure Royal Guard Boots](Azure_Sentinel_Boots.md) |
 _+2 Posture_
 
 +3 Legendary Pips  
-**Requires Power 13**
+**Requires Power 12**
 
  | Set: Enmity  
 Head: [Aegis of Enmity](Aegis_of_Enmity.md)  
@@ -1239,7 +1240,7 @@ _+1 Posture_
 
 +3 Legendary Pips  
 _+Talent: [**Conquer Your Fears**](Talents.md#conquer-your-fears)_  
-**Requires Power 13**
+**Requires Power 12**
 
  | N/A |
 |  | [Enforcer Plate](Enforcer_Plate.md)  
@@ -1260,7 +1261,7 @@ _+Talent: **[Berserker](Cut_Content.md#berserker)**_
 _+Talent: [**Overflowing Dam**](Talents.md#overflowing-dam)_  
 _+Talent: [**Sorcerer's Surge**](Talents.md#sorcerers-surge)_  
 _+Set Talent: [**Sorcerer's Supply**](Talents.md#sorcerers-supply)_  
-**Requires Power 13, 5 Intelligence**
+**Requires Power 12, 5 Intelligence**
 
  | Variants:  
 Warlock & Ether Refined
@@ -1389,7 +1390,7 @@ _+1 Posture_
 
 +3 Legendary Pips  
 _+Talent: [**Diver's Resilience**](Talents.md#divers-resilience)_  
-**Requires Power 13**
+**Requires Power 12**
 
  | Set: Grand Fisher  
 Head: [Grand Fisher Helm](Grand_Fisher_Helm.md)  
@@ -1449,7 +1450,7 @@ _+2 Posture_
 +1 Rare Pip  
 +1 Legendary Pip  
 _+Talent: [**Lowstride**](Talents.md#lowstride)_  
-**Requires Power 13**
+**Requires Power 12**
 
  | N/A |
 | File:IgnitionGauntlets.png | [Ignition Gauntlets](Ignition_Gauntlets.md)  
@@ -1459,7 +1460,7 @@ _+1 Posture_
 +1 Rare Pip  
 +2 Legendary Pips  
 _+Talent: [**Force Your Way**](Talents.md#force-your-way)_  
-**Requires Power 13**
+**Requires Power 12**
 
  | N/A |
 | File:Imperial Pauldrons.png | [Imperial Pauldrons](Imperial_Pauldrons.md)  
@@ -1496,7 +1497,7 @@ _+5% Ironsing Armor_
 +1 Rare Pip  
 +2 Legendary Pips  
 _+Talent: [**Defiant until the End**](Talents.md#defiant-until-the-end)_  
-**Requires Power 13**
+**Requires Power 12**
 
  | N/A |
 | File:Faded Justicar Coat.png | [Justicar Defender Coat](Justicar_Defender_Coat.md)  
@@ -1538,7 +1539,7 @@ _+2 Posture_
 +2 Rare Pips  
 +1 Legendary Pip  
 _+Talent: [**Hoplite**](Talents.md#hoplite)_  
-**Requires Power 13**
+**Requires Power 12**
 
  | Set: Legion Phalanx  
 Head: [Phalanx Helmet](Phalanx_Helmet.md)  
@@ -1595,7 +1596,7 @@ _+1 Posture_
 +1 Rare Pip  
 +2 Legendary Pips  
 _+Talent: [**Temple Guard**](Talents.md#temple-guard)_  
-**Requires Power 13**
+**Requires Power 12**
 
  | Set: Monastery Champion  
 Head: [Monastery Cowl](Monastery_Cowl.md)  
@@ -1607,7 +1608,7 @@ _+3 Posture_
 
 +2 Rare Pips  
 +1 Legendary Pip  
-**Requires Power 13**
+**Requires Power 12**
 
  | N/A |
 |  | [Novice Brace](Novice_Brace.md)  
@@ -1883,7 +1884,7 @@ Legs: [Vanguard Boots](Vanguard_Boots.md) |
 _+2 Posture_
 
 +2 Legendary Pips  
-**Requires Power 13**
+**Requires Power 12**
 
  | N/A |
 | File:Navy Warlock Mantle.png | [Warlock's Mantle](<Warlock's_Mantle.md>)  
@@ -1895,7 +1896,7 @@ _+2 Posture_
 +1 Rare Pip  
 +2 Legendary Pips  
 _+Talent: [**Overflowing Dam**](Talents.md#overflowing-dam)_  
-**Requires Power 13, 5 Intelligence**
+**Requires Power 12, 5 Intelligence**
 
  | Styles:  
 Lilac, Navy, Sky & Verdant
@@ -2483,14 +2484,14 @@ Torso: [Brilliant Cape](Brilliant_Cape.md) |
 
 +1 Rare Pip  
 +1 Legendary Pip  
-**Requires Power 8**
+**Requires Power 5**
 
  | N/A |
 | File:Confessors Charm.png | [Confessor's Charm](<Confessor's_Charm.md>) | _+3% Physical Armor_
 
 +1 Rare Pip  
 +1 Legendary Pip  
-**Requires Power 8**
+**Requires Power 5**
 
  | N/A |
 |  | [Curseblood Pendant](Curseblood_Pendant.md) | _+3% Elemental Armor_
@@ -2531,7 +2532,7 @@ Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity
 
 +1 Rare Pip  
 +1 Legendary Pip  
-**Requires Power 8**
+**Requires Power 5**
 
  | Styles:  
 Emerald, Rose, Scarlet, Shade, Silver & Onyx |
@@ -2566,12 +2567,12 @@ Black & Golden |
 
 +2 Rare Pips  
 _+Talent: [**Robber Baron**](Talents.md#robber-baron)_  
-**Requires Power 8**
+**Requires Power 5**
 
  | N/A |
 |  | [Imperator's Fury](<Imperator's_Fury.md>) | _+Talent: [**Brute Strength**](Talents.md#brute-strength)_
 
-**Requires Power 8**
+**Requires Power 5**
 
  | N/A |
 |  | [Kyrsan Necklace](Kyrsan_Necklace.md)  
@@ -2580,7 +2581,7 @@ _+Talent: [**Robber Baron**](Talents.md#robber-baron)_
 (**Relic**) | +1 Legendary Pip
 
 _+Talent: [**Elegy of Light**](Talents.md#elegy-of-light)_  
-**Requires Power 8**
+**Requires Power 5**
 
  | N/A |
 |  | [Maljuror Choker](Maljuror_Choker.md)  
@@ -2648,7 +2649,7 @@ _+Talent: [**Robber Baron**](Talents.md#robber-baron)_
 
 +1 Rare Pip  
 +1 Legendary Pip  
-**Requires Power 8**
+**Requires Power 5**
 
  | N/A |
 |  | [Red Eye Pendant](Red_Eye_Pendant.md) | _+3% Elemental Armor_
@@ -2725,7 +2726,7 @@ _+20 Carry Load_
 
 +1 Legendary Pip  
 _+Talent: [**Featherfall**](Talents.md#featherfall)_  
-**Requires Power 8**
+**Requires Power 5**
 
  | N/A |
 | File:Amber Trickster's Scarf.png | [Trickster's Scarf](<Trickster's_Scarf.md>)  
@@ -2756,7 +2757,7 @@ Wheel & Revitalizing |
 (**Relic**) | +1 Legendary Pip
 
 _+Talent: [**Actions Speak Louder**](Talents.md#actions-speak-louder)_  
-**Requires Power 8**
+**Requires Power 5**
 
  | N/A |
 |  | [Whistling Periapt](Whistling_Periapt.md)  
@@ -2764,7 +2765,7 @@ _+Talent: [**Actions Speak Louder**](Talents.md#actions-speak-louder)_
 _+8% Wind Armor_  
 
 _+Talent: [**Whistleguard**](Talents.md#whistleguard)_  
-**Requires Power 8**
+**Requires Power 5**
 
  | N/A |
 | File:Wormwarder Lantern.png | [Wormwarder Lantern](Wormwarder_Lantern.md) | _+10 Sanity_  
@@ -2865,8 +2866,7 @@ Face: [Bloodfeather Mask](Bloodfeather_Mask.md)
 (**Series**) | +5 Health  
 \-1 Posture
 
-+1 Rare Pip  
-**Requires Power 3**
++1 Rare Pip
 
  | Styles:  
 Black, Amber & Azure
@@ -2891,8 +2891,7 @@ Black, Orange, Yellow, Red, Blue, Green, & White |
 |  | [Hollow Angel Mask](Hollow_Angel_Mask.md)  
 (**Series**) | +1 Rare Pip
 
-_+Talent: [**Angel's Guise**](Talents.md#angels-guise)_  
-**Requires Power 10**
+_+Talent: [**Angel's Guise**](Talents.md#angels-guise)_
 
  | Variants:  
 Hollow, Sworn |
@@ -2943,8 +2942,7 @@ Classic, Dusk & Seaglass |
 | File:Sworn Angel Mask1.png | [Sworn Angel Mask](Sworn_Angel_Mask.md)  
 (**Series**) | +2 Rare Pips
 
-_+Talent: [**Angel's Guise**](Talents.md#angels-guise)_  
-**Requires Power 10**
+_+Talent: [**Angel's Guise**](Talents.md#angels-guise)_
 
  | Variants:  
 Hollow, Sworn |

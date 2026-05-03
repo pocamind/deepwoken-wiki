@@ -1,6 +1,6 @@
 ---
 title: Human
-revid: 190931
+revid: 207197
 source: https://deepwoken.fandom.com/wiki/Human
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Non-canon articles", Aspects]
@@ -13,7 +13,7 @@ notices:
 | Pure Human | |
 |---|---|
 | appearance | Varying Hair Color, Eye color, and Skin tone. |
-| traits | I'm only human after all (None) |
+| traits | I'm only human after all |
 
 > _Mysterious figures who suddenly appeared back into the world of Deepwoken._
 

@@ -1,6 +1,6 @@
 ---
 title: "Sorcerer's Brim"
-revid: 205990
+revid: 207159
 source: https://deepwoken.fandom.com/wiki/Sorcerer's_Brim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Hats, Equipment, Head, Equipment with Set Bonuses]
@@ -13,8 +13,8 @@ categories: [Vow of Iron Exclusive, Hats, Equipment, Head, Equipment with Set Bo
 | type | Hat |
 | rarity | Unique |
 | selling price | 100 |
-| requirements | PWR 16 |
-| innate stats | +5 Health, +2 Legendary Pips |
+| requirements | LVL 16 |
+| innate stats | +5 Health , +2 Legendary Pips |
 | innate talent | Sorcerer's Skill |
 | set | Sorcerer's Brim, Sorcerer's Mantle |
 | set talent | Sorcerer's Supply |

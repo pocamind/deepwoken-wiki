@@ -1,9 +1,11 @@
 ---
 title: Duke Ishamon Erisia
-revid: 207045
+revid: 207287
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
+categories: [Celtor NPCs, Individuals with He/him pronouns, OutdatedPages, Pathfinder Exclusive, Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
+notices:
+  - This page may contain incorrect information. Please wait for an updated version to release.
 ---
 
 # Duke Ishamon Erisia
@@ -14,6 +16,7 @@ categories: [Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NP
 | drops | Chest (see loot table), Duke's Coat Fiber, Kanabo, Ardour Manifestation, Pluripotent Alloy, Stoneheart, Smith's Alloy, Armorer's Needle, Curved Blade of Winds, Sinner's Ash, Idol of Yun'Shul, Whistling Periapt, Gale Stone |
 | weapon | Iron Cestus (Untrained Fist) |
 | moves | Assault, Critical, Counter, Feint, Binding Tempest, Gale Stomp, Cyclone Bomb, Strong Left, Summon Mindless Servants |
+| aspect | Celtor |
 | pronouns | He/him |
 | challenges | -- Duke Ishamon Erisia --, Memories of Home - Slay 10.Reward: +5% DMG; +2.5% RES |
 
@@ -31,7 +34,7 @@ This content is not accessible outside of this gamemode.
 
 Defeating him will also allow [Galebreathe](Galebreathe.md) users to unlock the [Pillars of Erisia](Galebreathe.md#pillars-of-erisia) Mantra in a Whisper hand, which is a modified version of his Gale Stomp.
 
-He is a noble who resided in the City of [Celtor](Lost_Celtor.md) before its submergence and part of a lineage that ruled the island of [Erisia](Erisia.md). In appearance, Duke Erisia is a Marten [Celtor](Celtor.md). He wears a Slate Aristocrat Coat over the [Eager Tradesman](Eager_Tradesman.md) starter outfit with [Eyeglasses](Eyeglasses.md). He also has a green [Resonance](Resonance.md) by his side that allows him to create and control [Rock Golems](Rock_Golem.md), although it is never visibly used during the boss fight. Duke Erisia is a martial arts user though does not seem nearly adept at fighting with his fists as with his wind. Alongside his martial attacks, he wields extremely powerful [Galebreathe](Galebreathe.md) [Mantras](Mantras.md).
+He is a noble who resided in the City of [Celtor](Lost_Celtor.md) before its submergence and part of a lineage that ruled the island of [Erisia](Erisia.md). In appearance, Duke Erisia is a Marten [Celtor](Celtor.md). He wears a Slate Aristocrat Coat over the [Eager Tradesman](Eager_Tradesman.md) starter outfit with [Eyeglasses](Eyeglasses.md). He also has a green [Resonance](Resonance.md) by his side that allows him to create and control [Rock Golems](Rock_Golem.md). Duke Erisia is a martial arts user though does not seem nearly adept at fighting with his fists as with his wind. Alongside his martial attacks, he wields extremely powerful [Galebreathe](Galebreathe.md) [Mantras](Mantras.md).
 
 ## Moveset
 

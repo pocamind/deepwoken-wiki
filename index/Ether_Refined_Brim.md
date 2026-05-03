@@ -1,6 +1,6 @@
 ---
 title: Ether Refined Brim
-revid: 205988
+revid: 207158
 source: https://deepwoken.fandom.com/wiki/Ether_Refined_Brim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Hats, Head, Craftable, Equipment with Set Bonuses]
@@ -15,7 +15,7 @@ categories: [Pathfinder Exclusive, Equipment, Hats, Head, Craftable, Equipment w
 | selling price | ??? |
 | requirements | LVL 16 |
 | weight | 1 |
-| innate stats | +5 Health, +2 Legendary Pips |
+| innate stats | +5 Health , +2 Legendary Pips |
 | innate talent | Sorcerer's Skill |
 | set | Ether Refined Brim, Ether Refined Mantle |
 | set talent | Sorcerer's Supply |

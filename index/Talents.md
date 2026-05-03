@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 207026
+revid: 207394
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3963,6 +3963,16 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Does not work on Surge stacks applied to yourself.
     -   Prerequisites: Surge Path: Unstable Capacitor, 60 Thundercall
 
+### Vanguard Arts
+
+-   Both Ends \[Common Talent, Weapon Talent, Medium Weapon\] - Pressing M2 after landing a light attack with the staff performs a follow-up swing from the opposite end.
+    -   This attack comes out much faster, but only deals 45% of your weapon damage.
+    -   Prerequisite: Equip any [Staff](Staves.md); this Talent is a weapon Talent.
+
+-   Counter Spin \[Common Talent, Medium Weapon\] - After blocking an attack, press M2 to counter with your staff.
+    -   On proc, swiftly thrust your Staff forwards, dealing 45% of your weapon's damage on hit.
+    -   Prerequisites: [Staff](Staves.md) equipped, 35 Medium Weapon
+
 ### Vaporborne
 
 -   Flashboil \[Common Talent, Dual Attunement, Flamecharm, Frostdraw\] - Landing Ice/fire attacks on burning/chilled enemies extinguishes the flame and generates steam.
@@ -4199,6 +4209,9 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ## Weapon Talents
 
 Not to be confused with Talents that have a weapon requirement, these Talents will automatically be given to you upon equipping specific [weapons](Weapons.md), but only exist while these weapons are equipped; using any ability that changes your equipped weapon will temporarily remove these Talents from your character. These Talents are often very potent, as they are the unique traits of the weapons themselves, though not every weapon with a unique trait has a Talent card to display it. Weapon Talents are listed in alphabetical order:
+
+-   Ancient Metalwork: [Dissonant Chimecaller](Dissonant_Chimecaller.md) - Your critical hit can channel the effects of your [Ironsing](Ironsing.md) Rods and disrupt the [resonances](Resonance.md) of others, disabling them for 25 seconds.
+    -   Landing a weapon critical puts your opponent's [Resonance](Resonance.md) on a 25 second cooldown. This does not require Ironsing Rods to proc.
 
 -   Assassin's Strike: [Silver Dagger](Silver_Dagger.md) - Your [Rapid Slashes](Attunement-less.md#rapid-slashes) now deals twice the amount of damage.
 

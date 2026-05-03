@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 206259
+revid: 207083
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons]
@@ -34,7 +34,7 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons]
 
 ## Description
 
-Jus Karita is a taekwondo-like fighting style obtained from [Polis](Polis.md) in [Etris](Etris.md) or as a [Starting Weapon](Character_Creation.md) if previously unlocked. Compared to the other base fighting styles, it has higher scaling, swing speed, range, and a 20% penetration stat. In turn, it has only one equippable weapon, the [Anklets of Alsin](Anklets_of_Alsin.md).
+Jus Karita is a taekwondo-like fighting style obtained from [Polis](Polis.md) in [Etris](Etris.md) or as a [Starting Weapon](Character_Creation.md) if previously unlocked. Compared to the other base fighting styles, it has higher scaling, swing speed, range, and a 20% penetration stat. In turn, it has only two equippable weapon: the [Anklets of Alsin](Anklets_of_Alsin.md) and the \[\].
 
 Jus Karita is unpopular due to it having worse damage compared to the other fighting styles, which also surpass it in swing speed. To make up for it, it has [unique Talents](Talents.md#justicar), slightly more range, and synergizes with its unique Mantras [Karita Leap](Attunement-less.md#karita-leap), [Karita Divebomb](Attunement-less.md#karita-divebomb), and [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick). In addition, the [Justicar](<Justicar_(Origin).md>) armor Talent [The Path, Unveiled](Talents.md#the-path-unveiled) gives it a 10% damage boost, surpassing the other fist style armor Talents in strength.
 

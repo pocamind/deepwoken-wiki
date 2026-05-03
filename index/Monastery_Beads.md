@@ -1,6 +1,6 @@
 ---
 title: Monastery Beads
-revid: 201584
+revid: 207174
 source: https://deepwoken.fandom.com/wiki/Monastery_Beads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -15,7 +15,7 @@ categories: [Equipment, Torso, Necklaces]
 | selling price | 25 |
 | requirements | LVL 5 |
 | weight | 0.5 |
-| innate stats | +3% Elemental Armor, 1 Legendary Pip |
+| innate stats | +3% Elemental Armor , +1 Legendary Pip |
 | set | Monastery Cowl, Monastery Champion Robes, Monastery Beads |
 | set talent | N/A |
 | bankable | Yes |

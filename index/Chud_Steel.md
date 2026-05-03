@@ -1,6 +1,6 @@
 ---
 title: Chud Steel
-revid: 206949
+revid: 207326
 source: https://deepwoken.fandom.com/wiki/Chud_Steel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
@@ -28,7 +28,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The gaudily-dressed soldier, more commonly known as Chud Steel, is a Greymarch [Adret](Adret.md) NPC. He is part of the Shock Corps division for [The Central Authority](The_Central_Authority.md), serving as [Sentinel Augustus](Sentinel_Augustus.md)' assistant, which is signified by the [Duskguard Axe](Duskguard_Axe.md) he wields on his back. He is also the face of the Authority's propaganda. Despite this, he is not just a figurehead and is no slouch in combat.
+The gaudily-dressed soldier, more commonly known as Chud Steel, is a Greymarch [Adret](Adret.md) NPC. He is part of the Shock Corps division for [The Central Authority](The_Central_Authority.md), serving as [Sentinel Augustus](Sentinel_Augustus.md)' assistant.
+
+Chud is the face of the Authority's propaganda. Despite this, he is not just a figurehead and is no slouch. He claims to be capable of carrying 15 soldiers at a time and having once moved an orphanage with his bare hands.
 
 He wears the [Authority Captain Uniform](Authority_Captain_Uniform.md) [Outfit](Outfits.md) with a blue [Authority Helm](Authority_Helm.md), [Brilliant Cape](Brilliant_Cape.md), and [Brilliant Boots](Brilliant_Boots.md), forming quite the garish outfit. Chud Steel holsters a bell at his hip, signifying his strength to obtain a [Resonance](Resonance.md).
 
