@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 206427
+revid: 208188
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Consumables, Alchemy]
@@ -582,16 +582,16 @@ When brewing potions for an instant effect (like Rejuvenation or Soothing), poti
 
 These are not the only locations these ingredients can be found, but these are the best routes to obtaining them the fastest.
 
--   Insanity Potion Ingredients: [https://medal.tv/games/roblox/clips/285nZ6FBgJMnHD/d1337KZGzKhJ?invite=cr-MSw0UkYsMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/285nZ6FBgJMnHD/d1337KZGzKhJ?invite=cr-MSw0UkYsMjAyODQzNzg4LA)
--   Alestrian Coral: [https://medal.tv/games/roblox/clips/285rlINFCILs26/d1337U9VqB8D?invite=cr-MSxpUGssMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/285rlINFCILs26/d1337U9VqB8D?invite=cr-MSxpUGssMjAyODQzNzg4LA)
--   Beeswax: [https://medal.tv/games/roblox/clips/25kUmLJ8-hnNFy/d1337RLqiCss?invite=cr-MSxzMkQsMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/25kUmLJ8-hnNFy/d1337RLqiCss?invite=cr-MSxzMkQsMjAyODQzNzg4LA)
--   Browncaps: [https://medal.tv/games/roblox/clips/25kSIksDX10p3m/d1337gTwQcj1?invite=cr-MSxYcGUsMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/25kSIksDX10p3m/d1337gTwQcj1?invite=cr-MSxYcGUsMjAyODQzNzg4LA)
--   Calabash: [https://medal.tv/games/roblox/clips/25kTCaYHMrDtYw/d13373NU7dQp?invite=cr-MSxVYnQsMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/25kTCaYHMrDtYw/d13373NU7dQp?invite=cr-MSxVYnQsMjAyODQzNzg4LA)
--   Pomar: [https://medal.tv/games/roblox/clips/25kTqSUJe\_KajG/d1337SLceBDS?invite=cr-MSxneWQsMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/25kTqSUJe_KajG/d1337SLceBDS?invite=cr-MSxneWQsMjAyODQzNzg4LA)
--   Goblettos: [https://medal.tv/games/roblox/clips/25kU6wC7b6Sbb9/d1337KmlF6oT?invite=cr-MSxyQWssMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/25kU6wC7b6Sbb9/d1337KmlF6oT?invite=cr-MSxyQWssMjAyODQzNzg4LA)
--   Bluecaps: [https://medal.tv/games/roblox/clips/285u94fmSbhI91/d1337AsEQ4zP?invite=cr-MSxtSlksMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/285u94fmSbhI91/d1337AsEQ4zP?invite=cr-MSxtSlksMjAyODQzNzg4LA)
--   Redds: [https://medal.tv/games/roblox/clips/285JedOi-0H0w8/d1337Gvi8i42?invite=cr-MSxFVHMsMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/285JedOi-0H0w8/d1337Gvi8i42?invite=cr-MSxFVHMsMjAyODQzNzg4LA)
--   Spider Eggs: [https://medal.tv/games/roblox/clips/285z1T-Dga4acY/d1337gbu82w7?invite=cr-MSxwdW8sMjAyODQzNzg4LA](https://medal.tv/games/roblox/clips/285z1T-Dga4acY/d1337gbu82w7?invite=cr-MSxwdW8sMjAyODQzNzg4LA)
+-   Insanity Potion Ingredients: [https://medal.tv/games/roblox/clips/285nZ6FBgJMnHD/d1337KZGzKhJ](https://medal.tv/games/roblox/clips/285nZ6FBgJMnHD/d1337KZGzKhJ)
+-   Alestrian Coral: [https://medal.tv/games/roblox/clips/285rlINFCILs26/d1337U9VqB8D](https://medal.tv/games/roblox/clips/285rlINFCILs26/d1337U9VqB8D)
+-   Beeswax: [https://medal.tv/games/roblox/clips/25kUmLJ8-hnNFy/d1337RLqiCss](https://medal.tv/games/roblox/clips/25kUmLJ8-hnNFy/d1337RLqiCss)
+-   Browncaps: [https://medal.tv/games/roblox/clips/25kSIksDX10p3m/d1337gTwQcj1](https://medal.tv/games/roblox/clips/25kSIksDX10p3m/d1337gTwQcj1)
+-   Calabash: [https://medal.tv/games/roblox/clips/25kTCaYHMrDtYw/d13373NU7dQp](https://medal.tv/games/roblox/clips/25kTCaYHMrDtYw/d13373NU7dQp)
+-   Pomar: [https://medal.tv/games/roblox/clips/25kTqSUJe\_KajG/d1337SLceBDS](https://medal.tv/games/roblox/clips/25kTqSUJe_KajG/d1337SLceBDS)
+-   Goblettos: [https://medal.tv/games/roblox/clips/25kU6wC7b6Sbb9/d1337KmlF6oT](https://medal.tv/games/roblox/clips/25kU6wC7b6Sbb9/d1337KmlF6oT)
+-   Bluecaps: [https://medal.tv/games/roblox/clips/285u94fmSbhI91/d1337AsEQ4zP](https://medal.tv/games/roblox/clips/285u94fmSbhI91/d1337AsEQ4zP)
+-   Redds: [https://medal.tv/games/roblox/clips/285JedOi-0H0w8/d1337Gvi8i42](https://medal.tv/games/roblox/clips/285JedOi-0H0w8/d1337Gvi8i42)
+-   Spider Eggs: [https://medal.tv/games/roblox/clips/285z1T-Dga4acY/d1337gbu82w7](https://medal.tv/games/roblox/clips/285z1T-Dga4acY/d1337gbu82w7)
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 207993
+revid: 208186
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons, Justicars]
@@ -38,13 +38,15 @@ Jus Karita is a taekwondo-like fighting style obtained from [Polis](Polis.md) in
 
 Jus Karita is unpopular due to it having worse damage compared to the other fighting styles, which also surpass it in swing speed. To make up for it, it has [unique Talents](Talents.md#justicar), slightly more range, and synergizes with its unique Mantras [Karita Leap](Attunement-less.md#karita-leap), [Karita Divebomb](Attunement-less.md#karita-divebomb), and [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick). In addition, the [Justicar](<Justicar_(Origin).md>) armor Talent [The Path, Unveiled](Talents.md#the-path-unveiled) gives it a 10% damage boost, surpassing the other fist style armor Talents in strength.
 
-Being considered a "Kick Style" rather than a [Fist Style](Fists.md), you **cannot** cycle between it and other fist styles you've obtained.
+Being considered a "Kick Style" rather than a [Fist Style](Fists.md), you **cannot** cycle between it and other fist styles you've obtained, and it will not trigger fist style talents. Jus Karita however, does get its own set of talents dedicated to it.
 
 ## Obtainment
 
 To obtain Jus Karita, you must first have Power 5 and 40 [Light Weapon](Attributes.md). Then, talk to the Justicar named [Polis](Polis.md) at [Etris](Etris.md) seen leaning on the biggest tree in the center of the city. Choose his first dialogue option to obtain the Gold Ring, then talk to him again to ask him about the Justicar.
 
 Completing this will grant you the Jus Karita Talent which enables you to use the fist style and unlock it for consecutive uses on the Character Creation screen.
+
+Alternatively, the [Justicar](<Justicar_(Origin).md>) Origins starts with Jus Karita available to them, regardless of starter weapon choice.
 
 ## Critical
 

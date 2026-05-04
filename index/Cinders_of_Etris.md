@@ -1,6 +1,6 @@
 ---
 title: Cinders of Etris
-revid: 207044
+revid: 208178
 source: https://deepwoken.fandom.com/wiki/Cinders_of_Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Random Encounters, Etrea, Disaster]
@@ -33,6 +33,22 @@ If you participate in this event and defeat all of the [Authority Guards](Author
 Additionally, you get positive [Etrea reputation](Etrea.md#reputation) if you killed the Authority soldiers including the [Authority Commander](<Authority_Commander_(Enemy).md>), and positive [The Central Authority reputation](The_Central_Authority.md#reputation) if you killed [Polis](Polis.md).
 
 You are bound to accidentally hit NPCS belonging to the Etrea faction. Don't worry, as even though it gives bad reputation then, the positive reputation given for beating the event overcomes the negative reputation by quite a lot.
+
+## Waves
+
+The event is made up of multiple waves that spawn one after the other and get closer to Etris.
+
+A wave is completed once all combatants of a side spawned by the event (thus, not including the naturally occuring Etrean Guards) are defeated, triggering the next one to spawn.
+
+The waves will NOT progress if even just 1 member of a side is left. Make sure to look for strays stuck in odd places or pushed too far away to aggro.
+
+| Wave Location | Central Authority | King of Etrea |
+| --- | --- | --- |
+| Etris Docks | ? Authority Soldiers | ? Etrean Soldiers, ? Etrean Royal Guards |
+| Dock Cavern | ? Authority Soldiers, ? Authority Officer | ? Etrean Soldiers, ? Etrean Royal Guards |
+| Etrean Wilds | ? Authority Soldiers | ? Etrean Soldiers, ? Etrean Royal Guards |
+| Etris Gate | ? Authority Soldiers | ? Etrean Soldiers, ? Etrean Royal Guards |
+| Etris Square | Authority Commander, ? Authority Soldiers | Polis, ? Etrean Soldiers, ? Etrean Royal Guards |
 
 ## Types of NPCs
 

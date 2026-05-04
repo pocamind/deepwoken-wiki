@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 206996
+revid: 208196
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters, Enemies, Humanoids with Unobtainable Outfits]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | health | 18800 (Shield) |
 | attacks | Tendril Cage, Tendril Uprising, Flash Equalizer, Tendril Cascade, Brushstrokes of Black, Dash Kick, Prophet's Drop Punch, Blinking Divebomb, Reeled Requiem, Enhanced Requiem, Blinkstrike, Lightspeed Strike, The Master Of The House |
-| drops | Solborn Memento, Void Glutton Memento |
+| drops | Mementos, Solborn, Void Glutton |
 | locations | The Throne of Lies |
 | affiliation | The Ministry, Etrea |
 
