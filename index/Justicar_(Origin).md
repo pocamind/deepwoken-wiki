@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 208130
+revid: 208160
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -89,12 +89,12 @@ Upon joining the Warder division, you will automatically be granted [Warder's At
 ### Exclusive Features
 
 -   **Justicar's Mark** - Mark someone you wish to protect for a minute. While marked, you take 20% of the damage they receive but they take 20% less damage. Marking someone also cause you to take 20% more damage while they are marked.
--   **Mark Mastery** - Reduce the amount of extra damage you receive while your ally is marked with the Justicar's Mark from 20% to 5%
+-   **Mark Mastery** - Reduce the amount of extra damage you receive while your ally is marked with the Justicar's Mark from 20% to 5% (Requires Justicar's Mark?)
 -   **Kindness** - Whenever you heal another player, heal 5 health yourself
--   **Marked Descent** - When your marked target takes damage, they are revealed. Using your Karita Divebomb will target them
--   **Righteous Violence** - Landing a Critical Attack heals your marked ally. Landing a Jus Karita critical or Karita Swap heals your marked ally even more
--   **Justicar's Blessing** - Allies you mark with Justicar's Mark gain 15% more healing
--   **Emergency Mark** - Applying a mark on someone who has less than 20% health heals them for 10% of their health
+-   **Marked Descent** - When your marked target takes damage, they are revealed. Using your Karita Divebomb will target them (Requires Justicar's Mark?)
+-   **Righteous Violence** - Landing a Critical Attack heals your marked ally. Landing a Jus Karita critical or Karita Swap heals your marked ally even more (Requires Justicar's Mark?)
+-   **Justicar's Blessing** - Allies you mark with Justicar's Mark gain 15% more healing (Requires Justicar's Mark?)
+-   **Emergency Mark** - Applying a mark on someone who has less than 20% health heals them for 10% of their health (Requires Justicar's Mark?)
 
 ## Effects
 

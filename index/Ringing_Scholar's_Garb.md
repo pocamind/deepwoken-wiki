@@ -1,6 +1,6 @@
 ---
 title: "Ringing Scholar's Garb"
-revid: 207852
+revid: 208155
 source: https://deepwoken.fandom.com/wiki/Ringing_Scholar's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits]
@@ -41,7 +41,7 @@ This Outfit has 2600 durability and grants +25% Physical resistance ResistanceBl
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: +25% Physical ResistanceBlunt ResistanceSlash, 47.5% Ironsing [ResistanceIronsing](Ironsing.md), 44% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceThundercall](Thundercall.md).
 
-The [Lose Your Mind](Talents.md#lose-your-mind) Talent grants a damage buff that scales om how low your current Sanity is. This Talent scales non-linearly on your Sanity, capping at +15% damage at 0% Sanity.
+The [Lose Your Mind](Talents.md#lose-your-mind) Talent grants a damage buff that scales on how low your current Sanity is. This Talent scales non-linearly on your Sanity, capping at +15% damage at 0% Sanity.
 
 ## Trivia
 

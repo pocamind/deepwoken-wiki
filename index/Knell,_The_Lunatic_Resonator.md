@@ -1,6 +1,6 @@
 ---
 title: "Knell, The Lunatic Resonator"
-revid: 208129
+revid: 208150
 source: https://deepwoken.fandom.com/wiki/Knell%2C_The_Lunatic_Resonator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Anansi NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, Individuals with He/him pronouns, Enemies, Bosses, Deceased characters]
@@ -293,6 +293,36 @@ Knell, The Lunatic Resonator executes his opponent after knocking them:
 </tr>
 <tr>
   <td colspan="12">[End Dialogue] friendship starts</td>
+</tr>
+</tbody>
+</table>
+
+**Insufficient Bell Progress:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Aaauurghhhh AAAAAHHG... AAAHH!!!</td>
+</tr>
+<tr>
+  <td colspan="6">What's Wrong?</td>
+  <td colspan="6">Alright?</td>
+</tr>
+<tr>
+  <td colspan="6">Can't get it RIGHT. No no no~ not right, not right. No no.</td>
+  <td colspan="6">Bing bong bing bong... bong bong wrong... wrong wrong.</td>
+</tr>
+<tr>
+  <td colspan="12">Can I help you?</td>
+</tr>
+<tr>
+  <td colspan="12">NO!... no. Get OUT of my head fake person fake...</td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Grandmaster Warder Sapphire
-revid: 207842
+revid: 208149
 source: https://deepwoken.fandom.com/wiki/Grandmaster_Warder_Sapphire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Individuals with She/her pronouns, In progress with reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -61,7 +61,7 @@ Grandmaster Warder Sapphire is located in a bookstack tower on the right side of
 
 **Subsequent Encounters:**
 
-{{#tag:tabber|Requirements not met=
+**Requirements not met:**
 
 <table>
 <tbody>
@@ -83,7 +83,7 @@ Grandmaster Warder Sapphire is located in a bookstack tower on the right side of
 </tbody>
 </table>
 
-|-|Requirements met=
+**Requirements met:**
 
 <table>
 <tbody>
@@ -122,5 +122,3 @@ Grandmaster Warder Sapphire is located in a bookstack tower on the right side of
 </tr>
 </tbody>
 </table>
-
-Please fix the subsequent encounters box I am unable to figure out why it won't split up into tabs.

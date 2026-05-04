@@ -1,6 +1,6 @@
 ---
 title: Prime Megalodaunt
-revid: 200540
+revid: 208152
 source: https://deepwoken.fandom.com/wiki/Prime_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Vat Exclusive]
@@ -12,7 +12,7 @@ categories: [Monsters, The Vat Exclusive]
 |---|---|
 | health | 1500036000 (Corrupted) |
 | attacks | Slash, Kick, Jump, Quad Swipe, Roar, Thousand Needles, Tacet Hug, Tacet Drop Kick, Cero, Finisher: Curb Stomp |
-| drops | Megalodaunt Hide, Nightbringer Enchant Stone, Mantra Modifiers |
+| drops | Megalodaunt Hide, Nightbringer Enchant Stone (~1%), Mantra Modifiers |
 | locations | The Vat |
 | challenges | -- Megalodaunt --, Sharktooth Necklace - Slay 10.Reward: +10% DMG; +5% RES, Not So Daunting - Slay 25.Reward: +10% DMG; +5% RES, A Bigger Boat - Slay 100.Reward: +10% DMG; +5% RES |
 
