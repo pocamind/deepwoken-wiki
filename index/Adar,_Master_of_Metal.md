@@ -1,6 +1,6 @@
 ---
 title: "Adar, Master of Metal"
-revid: 207969
+revid: 208121
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, The Ignition Union, NPCs located in the Eastern Luminant, Ignition Union Enemies]
@@ -34,7 +34,7 @@ Adar can be found inside a tower on the left side at the end of the [Saramaed Cr
 
 ## Moveset
 
-Adar uses a [Darksteel Greatsword](Darksteel_Greatsword.md) alongside the [Ironsing](Ironsing.md) attunement.
+Adar's arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md) along with the [Ironsing](Ironsing.md) attunement:
 
 | Name/Danger | Description |
 | --- | --- |
@@ -162,8 +162,8 @@ Adar uses a [Darksteel Greatsword](Darksteel_Greatsword.md) alongside the [Irons
 
 ### Talents
 
--   _Impervious Slumber_ - If Adar gets hit while knocked, his knocked timer isn't reset.
--   _Perfect Flash_ - If Adar has full health, his mantras do 25% more damage.
+-   _Impervious Slumber_ - If Adar gets hit while Unconscious, his time Unconscious isn't reset.
+-   _Perfect Flash_ - Having over 95% health causes Adar's mantras to do +25% damage. This damage bonus will scale down to 10% if his enemies are far away.
 -   _Gilded Path: Scrapsinger_ - Adar's Ironsing mantras now take a gold and iron color, and when flourishing an enemy, consumes any rods the enemy had and siphons their armor into Adar per rod.
 -   _Refine and Reuse_ - Whenever Adar consumes rods with Scrapsinger, the PEN incoming against him is reduced by 5% per rod for 14 seconds.
 -   _Artisan's Blade_ - If Adar activates Scrapsinger, a metal blade is forged behind him every 2 rods he consumes. The metal blades will fire at the target if Adar lands an ironsing mantra.

@@ -1,9 +1,11 @@
 ---
 title: "Vyrelda, Master of Blood"
-revid: 208043
+revid: 208120
 source: https://deepwoken.fandom.com/wiki/Vyrelda%2C_Master_of_Blood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, Attunement Trainers, NPCs located in the First Floor of the Second Layer, NPCs located in the Eastern Luminant, Enemies]
+categories: [Individuals with She/her pronouns, Stub pages with reason, StubPages, Pathfinder Exclusive, NPCs, Attunement Trainers, NPCs located in the First Floor of the Second Layer, NPCs located in the Eastern Luminant, Enemies]
+notices:
+  - "This page is a stub. It requires further information, or has little to no information. No info on her combat"
 ---
 
 # Vyrelda, Master of Blood

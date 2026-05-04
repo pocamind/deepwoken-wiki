@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 207478
+revid: 208051
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Voiced Characters]
@@ -252,12 +252,12 @@ Exhaustive Loot Table
     <li><a href="Equipment.md#head"><b>Head Equipment</b></a><b>:</b>
   <ol>
     <li><b>All Seasons</b>: N/A</li>
-    <li><b>Seasonal Exclusive</b>: <a href="Assassin's_Hood.md">Assassin's Hood</a> (Crimson, Gold, &amp; Mist) (Winter).</li>
+    <li><b>Seasonal Exclusive</b>: <a href="Assassin's_Hood.md">Assassin's Hood</a> (Winter).</li>
   </ol></li>
     <li><a href="Equipment.md#arms"><b>Arm Equipment</b></a><b>:</b>
   <ol>
     <li><b>All Seasons</b>: N/A</li>
-    <li><b>Seasonal Exclusive</b>: <a href="Adjudicator's_Coat.md">Adjudicator's Coat</a> (All Variants) (Winter), <a href="Authority_Commander_Coat.md">Authority Commander Coat</a> (All Variants) (Winter), <a href="Assassin's_Cloak.md">Assassin's Cloak</a> (Crimson, Gold, &amp; Mist) (Winter), <a href="Justicar_Defender_Coat.md">Justicar Defender Coat</a> (All Variants) (Summer &amp; Winter).</li>
+    <li><b>Seasonal Exclusive</b>: <a href="Adjudicator's_Coat.md">Adjudicator's Coat</a> (Winter), <a href="Authority_Commander_Coat.md">Authority Commander Coat</a> (Winter), <a href="Assassin's_Cloak.md">Assassin's Cloak</a>, <a href="Justicar_Defender_Coat.md">Justicar Defender Coat</a> (Summer &amp; Winter).</li>
   </ol></li>
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: N/A</li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:
@@ -268,7 +268,7 @@ Exhaustive Loot Table
     <li><a href="Equipment.md#face"><b>Face Equipment</b></a><b>:</b>
   <ol>
     <li><b>All Seasons</b>: N/A</li>
-    <li><b>Seasonal Exclusive</b>: <a href="Brow_Stud.md">Brow Stud</a> (Winter), <a href="Dermal_Stud.md">Dermal Stud</a> (Winter), <a href="Headband.md">Headband</a> (Black, Blue, Green, White) (Winter), <a href="Moon_Brow_Rings.md">Moon Brow Rings</a> (Winter), <a href="Moon_Lip_Ring.md">Moon Lip Ring</a> (Winter), <a href="Moon_Septum_Ring.md">Moon Septum Ring</a> (Winter), <a href="Nose_Stud.md">Nose Stud</a> (Winter), <a href="Snakebite_Studs.md">Snakebite Studs</a> (Winter), <a href="Warrior's_Eyepatch.md">Warrior's Eyepatch</a> (Winter).</li>
+    <li><b>Seasonal Exclusive</b>: <a href="Brow_Stud.md">Brow Stud</a> (Winter), <a href="Dermal_Stud.md">Dermal Stud</a> (Winter), <a href="Headband.md">Headband</a> (Winter), <a href="Moon_Brow_Rings.md">Moon Brow Rings</a> (Winter), <a href="Moon_Lip_Ring.md">Moon Lip Ring</a> (Winter), <a href="Moon_Septum_Ring.md">Moon Septum Ring</a> (Winter), <a href="Nose_Stud.md">Nose Stud</a> (Winter), <a href="Snakebite_Studs.md">Snakebite Studs</a> (Winter), <a href="Warrior's_Eyepatch.md">Warrior's Eyepatch</a> (Winter).</li>
   </ol></li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:
   <ol>
@@ -277,7 +277,8 @@ Exhaustive Loot Table
   </ol></li>
     <li><a href="Equipment.md#rings"><b>Rings</b></a>:
   <ol>
-    <li><b>All Seasons</b>: <a href="Akira's_Ring.md"><font>Akira's Ring</font></a>, <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a> <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Ferryman's_Ring.md"><font>Ferryman's Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a>. Almost all Legendary Rings.</li>
+    <li><b>All Seasons</b>: <a href="Akira's_Ring.md"><font>Akira's Ring</font></a>, <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a> <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Ferryman's_Ring.md"><font>Ferryman's Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a>. Almost all Legendary Rings.<br>
+  </li>
   </ol></li>
   </ul></td>
 </tr>

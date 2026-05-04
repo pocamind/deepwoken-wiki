@@ -1,9 +1,9 @@
 ---
 title: "Nell, Master of Frost"
-revid: 208040
+revid: 208054
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, Diver Enemies, NPCs located in the Etrean Luminant, Individuals with They/them pronouns]
+categories: [Individuals with They/them pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, Diver Enemies, NPCs located in the Etrean Luminant]
 ---
 
 # Nell, Master of Frost
@@ -14,6 +14,7 @@ categories: [Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, Diver Ene
 | drops | None |
 | weapon | Gran Sudaruska |
 | moves | Dread Breath, Ice Blade, Rising Frost, Ice Lance, Ice Dagger, Ice Fissure, Ice Cubes, Ice Smash, Ice Eruption, Iceberg, Warden's Blades |
+| pronouns | They/them |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

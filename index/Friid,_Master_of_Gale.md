@@ -1,9 +1,9 @@
 ---
 title: "Friid, Master of Gale"
-revid: 208022
+revid: 208123
 source: https://deepwoken.fandom.com/wiki/Friid%2C_Master_of_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, NPCs located in the Etrean Luminant]
+categories: [Celtor NPCs, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Friid, Master of Gale
@@ -14,6 +14,7 @@ categories: [Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, NPCs loca
 | drops | None |
 | weapon | Curved Blade of Winds |
 | moves | Assault, Critical, Rising Wind, Strong Left |
+| aspect | Celtor |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -21,9 +22,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Friid is a [Celtor](Celtor.md) NPC who acts as both progression for the [Silentheart](Oaths.md) Oath and the [Galebreathe](Galebreathe.md) trainer.
+Friid is a [Celtor](Celtor.md) NPC who acts as both progression for the [Silentheart](Oaths.md) [Oath](Oaths.md) and the [Galebreathe](Galebreathe.md) trainer.
 
-In order to obtain Galebreathe, you must bring five [Gale Stones](Gale_Stone.md) to Friid (2 if you have already obtained Galebreathe on a previous character). Alternatively, if you have obtained the Silentheart Oath, you must kill her in order to get one of five Oath Talents.
+In order to obtain Galebreathe, you must bring five [Gale Stones](Gale_Stone.md) to Friid (2 if you have already obtained Galebreathe on a previous character). Alternatively, if you have obtained the Silentheart Oath, you must kill them in order to get one of five Oath Talents.
 
 ## Location
 
@@ -71,18 +72,18 @@ Friid's arsenal consists of a [Curved Blade of Winds](Curved_Blade_of_Winds.md) 
 
 ### Talents
 
--   _Perfect Flash_ - If Friid has full Health her Mantras do 25% more damage.
--   _Impervious Slumber_ - If Friid gets hit while knocked, her knocked timer isn't reset.
--   _Gale Trap_ - If Friid knocks an enemy she tags them with a wind trap, anyone picking up the body gets sent flying.
+-   _Perfect Flash_ - Having over 95% health causes Friid's mantras to do +25% damage. This damage bonus will scale down to 10% if their enemies are far away.
+-   _Impervious Slumber_ - If Friid gets hit while Unconscious, their time Unconscious isn't reset.
+-   _Gale Trap_ - If Friid knocks an enemy they tag them with a wind trap, anyone picking up the body gets sent flying.
 -   _Suffocating Impact_ - If Friid flourishes an enemy into a wall they are Suffocated and Winded for a short duration.
 -   _Stifled Jump_ - Enemies who jump while Suffocated by Friid are dazed.
--   _Air Pressure_ - If Friid dodges an attack or hits an enemy's block, her next dash is transformed into a Gale Dash.
+-   _Air Pressure_ - If Friid dodges an attack or hits an enemy's block, their next dash is transformed into a Gale Dash.
 -   _Silencer's Blade_ - If Friid hits an enemy with a basic attack while the enemy is Suffocated, the duration of the Suffocation is extended. Friid will also get a speed boost.
 -   _**A World Without Song**_ - If Friid Lands a wind mantra it will apply Suffocate.
 
 ## Finisher
 
-Friid executes her opponent after knocking them:
+Friid executes their opponent after knocking them:
 
 | Name | Description |
 | --- | --- |

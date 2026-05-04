@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Mask
-revid: 206958
+revid: 208142
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks, Craftable]
@@ -27,7 +27,7 @@ categories: [Equipment, Face, Masks, Craftable]
 
 Ascended Outlaw Set
 
-Variants: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)
+Variants: [Hat](Ascended_Outlaw_Hat.md) · [Robes](Ascended_Outlaw_Robes.md) · [Boots](Ascended_Outlaw_Boots.md)
 
 ## Description
 
@@ -37,7 +37,7 @@ The [Destructive Yell](Talents.md#destructive-yell) Talent breaks campfires arou
 
 ## Obtainment
 
-After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
+After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench[CraftingEmpty](Merit_Detainment_Core.md) within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
 
 1.  1 [Western Outlaw Mask](Western_Outlaw_Mask.md) + 1 [Ardour Manifestation](Ardour_Manifestation.md) + 5 [Might Gems](Might_Gem.md).
 

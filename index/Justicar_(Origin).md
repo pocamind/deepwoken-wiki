@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 208044
+revid: 208130
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -114,6 +114,7 @@ Upon joining the Warder division, you will automatically be granted [Warder's At
 -   If the [Castaway](Castaway.md) dies, or if you die, you will lose 50 rank points, which usually means you lose all if below 50.
 -   Somewhat slow progression in regard to Justicar ranks. Ideally, you would be job stacking with your [Castaway](Castaway.md), which they might not know of.
 -   The progression is tied with helping players with no real option for solo progression, so this Origin may not appeal to those who primarily play solo.
+-   It is pretty common to get bullied. You can't really fight back, so all you can do is run away.
 
 ## Reputation
 

@@ -1,6 +1,6 @@
 ---
 title: "Nostor, Master of Shadow"
-revid: 208042
+revid: 208073
 source: https://deepwoken.fandom.com/wiki/Nostor%2C_Master_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, The Ministry, Ministry Enemies, NPCs located in the First Layer]
@@ -24,9 +24,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Nostor, Master of Shadow, is a [Ganymede](Ganymede.md) NPC who acts as both progression for the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) and the [Flamecharm](Flamecharm.md) trainer.
+Nostor, Master of Shadow, is a [Ganymede](Ganymede.md) NPC who acts as both progression for the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) and the [Shadowcast](Shadowcast.md) trainer.
 
-To obtain [Shadowcast](Shadowcast.md), you must bring Nostor 5 [Umbral Obsidian](Umbral_Obsidian.md), or only two if having unlocked it previously.
+In order to obtain Shadowcast, you must bring 5 [Umbral Obsidian](Umbral_Obsidian.md) to Nostor (2 if you have already obtained Shadowcast on a previous character). Alternatively, if you have obtained the Silentheart Oath, you must kill them in order to get one of five Oath Talents.
 
 ## Location
 
@@ -72,14 +72,14 @@ Nostor's arsenal consists of a [Crypt Blade](Crypt_Blade.md) along with the [Sha
 
 ### Talents
 
--   Black Hole - Your singularity pulls everyone nearby in.
--   Dark Hours - Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach.
--   _Dark Rift_ - Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
--   _Impervious Slumber_ - Getting hit while Unconscious no longer resets your time Unconscious.
--   Fear the Dark - Enemies will briefly hang in place when they run from you.
--   Lasting Sorrow - Shadows last longer on your opponent.
--   _Perfect Flash_ - Having over 95% health causes your mantras to do +25% damage. This damage bonus will scale down to 10% if your enemies are far away.
--   Singularity - Enemies will briefly hang in place when hit by a shadow move.
+-   Black Hole - Nostor's singularity pulls everyone nearby in.
+-   Dark Hours - Nostor's Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach.
+-   _Dark Rift_ - Nostor enters a rifted state when they successfully dodge, where they can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
+-   _Impervious Slumber_ - If Nostor gets hit while Unconscious, their time Unconscious isn't reset.
+-   Fear the Dark - Enemies will briefly hang in place when they run from Nostor.
+-   Lasting Sorrow - Shadows last longer on Nostor's opponents.
+-   _Perfect Flash_ - Having over 95% health causes Nostor's mantras to do +25% damage. This damage bonus will scale down to 10% if their enemies are far away.
+-   Singularity - Nostor's enemies will briefly hang in place when hit by a shadow move.
 
 ## Finisher
 
@@ -182,7 +182,7 @@ Nostor executes their opponent after knocking them:
 
 ## Trivia
 
--   It was stated by developer Arch\_Mage that Nostor, along with [Regek](Regek.md), are non-binary.[\[1\]](#cite-note-1)
+-   Nostor, along with [Regek](Regek.md), is non-binary.[\[1\]](#cite-note-1)
 
 ## References
 

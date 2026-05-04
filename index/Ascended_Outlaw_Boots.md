@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Boots
-revid: 205776
+revid: 208141
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
@@ -13,9 +13,9 @@ categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
 | type | Legs |
 | rarity | Common |
 | selling price | N/A |
-| requirements | PWR 20 |
+| requirements | LVL 20 |
 | weight | 1 |
-| innate stats | +3% Lightning Armor, +3% Wind Armor, +1 Uncommon Pip, +1 Rare Pip |
+| innate stats | +3% Lightning Armor , +3% Wind Armor , +1 Uncommon Pip, +1 Rare Pip |
 | innate talent | Stronger Under Pressure |
 | set | Ascended Outlaw Hat, Ascended Outlaw Robes, Ascended Outlaw Boots, Ascended Outlaw Mask |
 | set talent | Offensive Recovery |
@@ -28,7 +28,7 @@ categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
 
 Ascended Outlaw Set
 
-Variants: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)
+Variants: [Hat](Ascended_Outlaw_Hat.md) · [Robes](Ascended_Outlaw_Robes.md) · [Mask](Ascended_Outlaw_Mask.md)
 
 ## Description
 
@@ -47,7 +47,7 @@ This restores your Posture upon landing a Mantra with a [Might Gem](Might_Gem.md
 
 ## Obtainment
 
-After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
+After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench[CraftingEmpty](Merit_Detainment_Core.md) within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
 
 1.  1 [Western Outlaw Boots](Western_Outlaw_Boots.md) + 3 [Gilded Needles](Gilded_Needle.md) + 3 [Might Gems](Might_Gem.md).
 

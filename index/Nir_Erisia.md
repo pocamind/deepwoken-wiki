@@ -1,9 +1,9 @@
 ---
 title: Nir Erisia
-revid: 184704
+revid: 208092
 source: https://deepwoken.fandom.com/wiki/Nir_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Members of the Erisia family]
+categories: [Members of the Erisia family, Individuals with unspecified pronouns]
 ---
 
 # Nir Erisia
@@ -16,11 +16,11 @@ categories: [Members of the Erisia family]
 
 ## Description
 
-As a member of the [Erisia family](Erisia_family.md), Nir served as the duke of [Erisia](Erisia.md). According to surviving records, in the form of statues, he was the fourth of his family name to bear this title.[\[1\]](#cite-note-pr-1) Nir succeeded [Thera Erisia](Thera_Erisia.md), his mother, as the duke,[\[2\]](#cite-note-ne-2) and earned the title of "The Noble".[\[1\]](#cite-note-pr-1)
+As a member of the [Erisia family](Erisia_family.md), Nir served as the duke of [Erisia](Erisia.md). According to surviving records, in the form of statues, they were the fourth of their family name to bear this title.[\[1\]](#cite-note-pr-1) Nir succeeded [Thera Erisia](Thera_Erisia.md), their mother, as the duke,[\[2\]](#cite-note-ne-2) and earned the title of "The Noble".[\[1\]](#cite-note-pr-1)
 
-The exact circumstances of Nir's ascension are unclear. However, it's widely believed that he inherited the duchy after his mother found herself in a dispute that turned violent, during which she was attacked by numerous other individuals. Allegedly, she survived the assault, only to succumb to her wounds in the arms of her son.[\[2\]](#cite-note-ne-2)
+The exact circumstances of Nir's ascension are unclear. However, it's widely believed that Nir inherited the duchy after their mother found herself in a dispute that turned violent, during which she was attacked by numerous other individuals. Allegedly, she survived the assault, only to succumb to her wounds in the arms of her son.[\[2\]](#cite-note-ne-2)
 
-He was succeeded by [Ferasci Erisia](Ferasci_Erisia.md) under unknown circumstances.[\[1\]](#cite-note-pr-1)
+Nir was succeeded by [Ferasci Erisia](Ferasci_Erisia.md) under unknown circumstances.[\[1\]](#cite-note-pr-1)
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Konga The Third
-revid: 207977
+revid: 208068
 source: https://deepwoken.fandom.com/wiki/Konga_The_Third
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, In progress with reason, InProgressPages, NPCs, NPCs located in the Etrean Luminant, Justicars]
@@ -53,5 +53,5 @@ Konga The Third is located in the training grounds of [Alsin's Landing](<Alsin's
 
 ## Trivia
 
--   Konga's line about being mistaken for a "Matsu" is a reference to developer and YouTuber [Agamatsu](https://youtube.fandom.com/wiki/Agamatsu). Him being called "Gusto" is in reference to a [community meme](https://www.reddit.com/r/deepwoken/comments/1t2o4ft/amagusto/) where a user mistakenly calls him "Amagusto".
--   This character is a blatant self insert of the Developer Agamatsu.
+-   Konga's line about being mistaken for a "Matsu" is a reference to developer and YouTuber [Agamatsu](https://youtube.fandom.com/wiki/Agamatsu). Him being called "Gusto" is in reference to a [community meme](https://www.reddit.com/r/deepwoken/comments/1t2o4ft/amagusto/) where a user mistakenly calls him "Amagusto". This is a nod to the fact Konga's mask makes him resemble Agamatsu's profile picture.
+-   This character, as well as his ancestor [Emiya Konga](Emiya_Konga.md), [Konga's Clutch Ring](<Konga's_Clutch_Ring.md>) and [Konga's Parka](<Konga's_Parka.md>), is primarily a reference to bcongeboy5, a tester during Deepwoken's development who was notorious for spamming sliding movements and attacks.

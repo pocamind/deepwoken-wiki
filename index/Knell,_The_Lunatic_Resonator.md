@@ -1,9 +1,9 @@
 ---
 title: "Knell, The Lunatic Resonator"
-revid: 208033
+revid: 208129
 source: https://deepwoken.fandom.com/wiki/Knell%2C_The_Lunatic_Resonator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Anansi NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, Individuals with He/him pronouns, Enemies, Bosses]
+categories: [Anansi NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, Individuals with He/him pronouns, Enemies, Bosses, Deceased characters]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -31,6 +31,14 @@ This content is not accessible outside of this gamemode.
 Knell, The Lunatic Resonator is a humanoid [Boss](Bosses.md) found in [Simforea](Simforea.md) in the [Voidsea](Voidsea.md) within the Eastern Luminant.
 
 During the time of the Old World,[\[2\]](#cite-note-raiments-2) Knell was an inhabitant of Simforea, where he was a scholar. Knell had a keen fascination with sound, which became the object of his research, and in particular was drawn to bells and chimes of various designs.[\[3\]](#cite-note-garb-3) This translated to him frequently adorning his apparel and crafts with the instruments.[\[4\]](#cite-note-capeline-4)[\[5\]](#cite-note-tie-5)[\[6\]](#cite-note-reave-6)
+
+Knell also hoped to one day obtain a [Resonance](Resonance.md).[\[1\]](#cite-note-bestiary-1) To help with this, he had his [clothes](<Ringing_Scholar's_Garb.md>) infused with [Indichite](Ores.md#indichite). Such a process could help his soul better resonate, but was also unstable.[\[3\]](#cite-note-garb-3)
+
+Eventually, Simforea and its inhabitants disappeared from the world. Knell was left on his lonesome and was driven mad over the centuries within the Voidsea. Though Knell avoided total loss of his mental faculties, thanks to the steady pounding of his soul, his mind became laser-focused on his desire to resonate. However, his soul had been left in a discordant state, ensuring he would never be able to attain what he so badly craved.[\[1\]](#cite-note-bestiary-1)
+
+At some point, Knell met an individual he referred to as [Ten](Ten.md), who promised him that his soul would be mended and that he would finally obtain a Resonance.
+
+When Simforea drifted through the Voidsea near to the [Eastern Luminant](Luminants.md), Knell was effectively returned to the world after centuries.[\[1\]](#cite-note-bestiary-1) Witnessing [The Pathfinder](The_Pathfinder.md)'s own Resonance, a frenzied Knell believed killing them would finally put an end to his troubles. Knell attacked them and was ultimately killed in the ensuing fight.
 
 ## Moveset
 
@@ -233,7 +241,7 @@ Knell, The Lunatic Resonator executes his opponent after knocking them:
   <td colspan="6">Oh... YOU... you're-? Huuagh?? WHAT -who are you?!</td>
 </tr>
 <tr>
-  <td colspan="3">I'm [Name]. Why?</td>
+  <td colspan="3">I'm [First Name]. Why?</td>
   <td colspan="3">Why do you care?</td>
 </tr>
 <tr>
@@ -291,16 +299,15 @@ Knell, The Lunatic Resonator executes his opponent after knocking them:
 
 ## Trivia
 
--   Knell is the first (and currently only) character in the game who has the Anansi aspect.
--   Although the title above Knell's health bar reads "The Lunatic Resonator", His name in the [Bestiary](Bestiary.md) is actually "The Lost Anansi".
--   Knell, and his fight appear to be stolen from the boss [Widow](https://hollowknight.wiki/w/Widow) in Hollow Knight: Silksong. Both have same attacks with rushdown swipes, and the myriads of thrown bell attacks. The two also share a design detail of two pins lodged in their backs.
--   Knell disappears after beating him for the first time on a character. The only method of bringing him back for another fight is by utilizing an [idol of yun'shul](<Idol_of_Yun'Shul.md>) or a [yun'shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish
+-   Knell is the only entity whose title in the [bestiary](Bestiary.md) differs from their usual name.
+-   Knell and his fight appear to be heavily inspired by the boss [Widow](https://hollowknight.wiki/w/Widow) from _Hollow Knight: Silksong_. Both have extremely similar attacks with rushdown swipes, and the myriads of thrown bell attacks. The two also share a design detail of two pins lodged in their backs.
+-   Knell does not respawn after being defeated, on account of being [dead](Death.md). If one wishes to fight him again, one must ask [Yun'Shul, Keeper of Hearts](<Yun'Shul,_Keeper_of_Hearts.md>) to return him from [The Depths](The_Depths.md) to the surface via an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) or the [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
 
 ## References
 
-1.  [↑](#cite-ref-bestiary-1-0) [Bestiary](Bestiary.md): [Knell, The Lost Anansi](Bestiary.md#knell-the-lost-anansi)
+1.  ↑ [1.0](#cite-ref-bestiary-1-0) [1.1](#cite-ref-bestiary-1-1) [1.2](#cite-ref-bestiary-1-2) [1.3](#cite-ref-bestiary-1-3) [Bestiary](Bestiary.md): [Knell, The Lost Anansi](Bestiary.md#knell-the-lost-anansi)
 2.  [↑](#cite-ref-raiments-2-0) [Ringing Scholar's Raiments](<Ringing_Scholar's_Raiments.md>)
-3.  [↑](#cite-ref-garb-3-0) [Ringing Scholar's Garb](<Ringing_Scholar's_Garb.md>)
+3.  ↑ [3.0](#cite-ref-garb-3-0) [3.1](#cite-ref-garb-3-1) [Ringing Scholar's Garb](<Ringing_Scholar's_Garb.md>)
 4.  [↑](#cite-ref-capeline-4-0) [Ringing Scholar's Capeline](<Ringing_Scholar's_Capeline.md>)
 5.  [↑](#cite-ref-tie-5-0) [Ringing Scholar's Necktie](<Ringing_Scholar's_Necktie.md>)
 6.  [↑](#cite-ref-reave-6-0) [Bellmarrow Reave](Bellmarrow_Reave.md) description

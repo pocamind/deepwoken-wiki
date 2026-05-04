@@ -1,6 +1,6 @@
 ---
 title: Death
-revid: 202575
+revid: 208127
 source: https://deepwoken.fandom.com/wiki/Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Death, Mechanics, Character]
@@ -55,6 +55,6 @@ _If you want to know more about the ways you can die, read the [Death Compendium
 
 ## Trivia
 
--   In [Lore](Lore.md), the first time you die, you're merely "injured", escaping alive - not actually "dead" as in your life being taken away. The second time you will actually die and your body will stay as a normal corpse in the Overworld. When you die, once more, in [The Depths](The_Depths.md), your character truly "die," as your soul is sucked downwards through the layers so fast, the mind is unable to process the information it receives and the soul is torn apart.
-    -   Escaping [The Depths](The_Depths.md) will actually bring you back to life, healing your bodily injuries like a miracle, as described in the [Munet Journal, XIV](Munet_Journal.md), one of the multiple lore books.
+-   The first time you die in gameplay, you're merely "injured", escaping alive - not actually "dead" as in your life being taken away. The second time you will actually die and your body will stay as a normal corpse in the Overworld. When you die, once more, in [The Depths](The_Depths.md), your character will truly "die," as your soul is sucked downwards through the layers so fast, the mind is unable to process the information it receives and the soul is torn apart.
+    -   Escaping [The Depths](The_Depths.md) will actually bring you back to life, healing your bodily injuries like a miracle, as described in the [Munet Journal, XIV](Munet_Journal.md), one of the multiple books.
     -   Before [The Tides](Lore.md#the-tides), souls who perished ascended into the [Moonseye](Moonseye.md) above.

@@ -1,6 +1,6 @@
 ---
 title: Karita Plating
-revid: 208002
+revid: 208070
 source: https://deepwoken.fandom.com/wiki/Karita_Plating
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Weapons with Unique Criticals, Weapons with Talents, "Core-Attribute based weapons", Fists, Justicars, Legendary Weapons, Weapons with multiple Criticals]
@@ -13,7 +13,7 @@ categories: [Pathfinder Exclusive, Weapons, Weapons with Unique Criticals, Weapo
 | type | Fist |
 | damage type | Blunt |
 | requirements | 80 LHT, 80 AGL, Jus Karita |
-| damage | 25 |
+| damage | 14 |
 | scaling | LHT: 8, AGL: 3 |
 | posture damage | 4 |
 | range | 6.5 Sweep |

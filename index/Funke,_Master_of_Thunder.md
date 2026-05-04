@@ -1,6 +1,6 @@
 ---
 title: "Funke, Master of Thunder"
-revid: 208023
+revid: 208072
 source: https://deepwoken.fandom.com/wiki/Funke%2C_Master_of_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, The Divers, Diver Enemies, NPCs located in the Eastern Luminant]
@@ -82,7 +82,7 @@ Funke's arsenal consists of a [Stormseye](Stormseye.md) along with the [Thunderc
 ### Talents
 
 -   _Perfect Flash_ - If Funke has full Health, their mantras do 25% more damage.
--   _Impervious Slumber_ - If Funke gets hit while knocked, their knocked timer isn't reset.
+-   _Impervious Slumber_ - If Funke gets hit while Unconscious, their time Unconscious isn't reset.
 -   _Authority Intimidation_ - All of Funke's Thundercall mantras slow opponents more.
 -   _Resolve Crusher_ - Funke's Thundercall mantras has a chance to inflict 'Electrify', which converts Electrified targets' attacks into lightning damage and reduces damage against Funke by 10%.
 -   _First Interrogation_ - Getting attacked by Electrified targets restores Funke's ether.

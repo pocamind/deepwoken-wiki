@@ -1,6 +1,6 @@
 ---
 title: "Amashi, Master of Flame"
-revid: 207968
+revid: 208122
 source: https://deepwoken.fandom.com/wiki/Amashi%2C_Master_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, NPCs located in the Eastern Luminant]
@@ -25,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 Amashi is a [Vesperian](Vesperian.md) NPC who acts as both progression for the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) and the [Flamecharm](Flamecharm.md) trainer.
 
-In order to obtain Flamecharm, you must bring five [Dying Embers](Dying_Embers.md) to Amashi (2 if you have already obtained Flamecharm on a previous character). Alternatively, if you have obtained the Silentheart Oath, you must kill her in order to get one of five Oath Talents.
+In order to obtain Flamecharm, you must bring five [Dying Embers](Dying_Embers.md) to Amashi (2 if you have already obtained Flamecharm on a previous character). Alternatively, if you have obtained the Silentheart Oath, you must kill them in order to get one of five Oath Talents.
 
 ## Location
 
@@ -33,7 +33,7 @@ Amashi is located inside the [Songseeker Temple](Songseeker_Temple.md) at [Songs
 
 ## Moveset
 
-Amashi's uses a [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>) along with the [Flamecharm](Flamecharm.md) attunement:
+Amashi's arsenal consists of a [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>) along with the [Flamecharm](Flamecharm.md) attunement:
 
 | Name/Danger | Description |
 | --- | --- |
@@ -119,8 +119,8 @@ Amashi's uses a [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>) along with the
 
 ### Talents
 
--   _Perfect Flash_ - If Amashi has full Health their mantras do 25% more damage.
--   _Impervious Slumber_ - If Amashi gets hit while knocked, their knocked timer isn't reset.
+-   _Perfect Flash_ - Having over 95% health causes Amashi's mantras to do +25% damage. This damage bonus will scale down to 10% if their enemies are far away.
+-   _Impervious Slumber_ - If Amashi gets hit while Unconscious, their time Unconscious isn't reset.
 -   _The Final Act_ - If Amashi lands a fire mantra immediately after flourishing an enemy it will cause them to explode.
 -   _Unyielding Inferno_ - Amashi's flames burn just as strong even in the fiercest of storms.
 -   _Agitating Spark_ - If Amashi hits an opponent that has been lit on fire, it'll spread to anyone nearby, including themself.

@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Hat
-revid: 205774
+revid: 208143
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Hats, Head, Craftable, Equipment with Set Bonuses]
@@ -13,9 +13,9 @@ categories: [Equipment, Hats, Head, Craftable, Equipment with Set Bonuses]
 | type | Head |
 | rarity | Common |
 | selling price | N/A |
-| requirements | PWR 20 |
+| requirements | LVL 20 |
 | weight | 1 |
-| innate stats | +2 Posture, +1 Legendary Pip |
+| innate stats | +2 Posture , +1 Legendary Pip |
 | innate talent | Mass Effect |
 | set | Ascended Outlaw Hat, Ascended Outlaw Robes, Ascended Outlaw Boots, Ascended Outlaw Mask |
 | set talent | Offensive Recovery |
@@ -27,6 +27,8 @@ categories: [Equipment, Hats, Head, Craftable, Equipment with Set Bonuses]
 | description | Common Garb among western peons; this hat is perfect for beating the heat or disguising one's identity. |
 
 Ascended Outlaw Set
+
+Variants: [Robes](Ascended_Outlaw_Robes.md) · [Boots](Ascended_Outlaw_Boots.md) · [Mask](Ascended_Outlaw_Mask.md)
 
 ## Description
 
@@ -47,7 +49,7 @@ This restores your Posture upon landing a Mantra with a [Might Gem](Might_Gem.md
 
 ## Obtainment
 
-After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
+After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench[CraftingEmpty](Merit_Detainment_Core.md) within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
 
 1.  1 [Western Outlaw Hat](Western_Outlaw_Hat.md) + 2 [Curse of the Authoritative Enchant Stones](Enchant_Stone.md) + 3 [Might Gems](Might_Gem.md).
 

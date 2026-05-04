@@ -1,9 +1,11 @@
 ---
 title: Peipre
-revid: 207818
+revid: 208103
 source: https://deepwoken.fandom.com/wiki/Peipre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority, Individuals with unspecified pronouns]
+categories: [Capra NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority, Individuals with unspecified pronouns]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Peipre
@@ -16,8 +18,8 @@ categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern
 | affiliation | The Central Authority |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
-You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
-For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

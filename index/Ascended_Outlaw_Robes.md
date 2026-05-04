@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Robes
-revid: 205775
+revid: 208139
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses]
@@ -13,9 +13,9 @@ categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses]
 | type | Arms |
 | rarity | Common |
 | selling price | N/A |
-| requirements | PWR 20 |
+| requirements | LVL 20 |
 | weight | 2 |
-| innate stats | +3 Posture, +1 Rare Pip, +1 Legendary Pip |
+| innate stats | +3 Posture , +1 Rare Pip, +1 Legendary Pip |
 | innate talent | Ether Pinpoint |
 | set | Ascended Outlaw Hat, Ascended Outlaw Robes, Ascended Outlaw Boots, Ascended Outlaw Mask |
 | set talent | Offensive Recovery |
@@ -28,7 +28,7 @@ categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses]
 
 Ascended Outlaw Set
 
-Variants: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)
+Variants: [Hat](Ascended_Outlaw_Hat.md) · [Boots](Ascended_Outlaw_Boots.md) · [Mask](Ascended_Outlaw_Mask.md)
 
 ## Description
 
@@ -47,7 +47,7 @@ This restores your Posture upon landing a Mantra with a [Might Gem](Might_Gem.md
 
 ## Obtainment
 
-After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
+After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench[CraftingEmpty](Merit_Detainment_Core.md) within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
 
 1.  1 [Western Outlaw Robes](Western_Outlaw_Robes.md) + 1 [Primadon Pelt](Primadon_Pelt.md) + 3 [Might Gems](Might_Gem.md).
 2.  1 [Western Outlaw Robes](Western_Outlaw_Robes.md) + 1 [Ferryman's Coat Cloth](<Ferryman's_Coat_Cloth.md>) + 1 [Duke's Coat Fiber](<Duke's_Coat_Fiber.md>).

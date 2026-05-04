@@ -1,9 +1,9 @@
 ---
 title: Thera Erisia
-revid: 174665
+revid: 208088
 source: https://deepwoken.fandom.com/wiki/Thera_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Members of the Erisia family, Deceased characters]
+categories: [Individuals with She/her pronouns, Members of the Erisia family, Deceased characters]
 ---
 
 # Thera Erisia
@@ -12,6 +12,7 @@ categories: [Members of the Erisia family, Deceased characters]
 |---|---|
 | name | Thera Erisia[1] |
 | alias | Duchess Thera Erisia[1], The Needle's Eye[1] |
+| pronouns | She/her[2] |
 | family | Erisia family[1], Nir Erisia (son)[2] |
 | death | Allegedly died of blood loss following a dispute[2] |
 
@@ -26,4 +27,4 @@ The exact circumstances of Thera's death are unclear. However, it's widely belie
 ## References
 
 1.  ↑ [1.0](#cite-ref-pr-1-0) [1.1](#cite-ref-pr-1-1) [1.2](#cite-ref-pr-1-2) [1.3](#cite-ref-pr-1-3) [1.4](#cite-ref-pr-1-4) [Pathfinder's Respite](<Pathfinder's_Respite.md>)
-2.  ↑ [2.0](#cite-ref-ne-2-0) [2.1](#cite-ref-ne-2-1) [2.2](#cite-ref-ne-2-2) [2.3](#cite-ref-ne-2-3) [2.4](#cite-ref-ne-2-4) [Needle's Eye](<Needle's_Eye.md>) description
+2.  ↑ [2.0](#cite-ref-ne-2-0) [2.1](#cite-ref-ne-2-1) [2.2](#cite-ref-ne-2-2) [2.3](#cite-ref-ne-2-3) [2.4](#cite-ref-ne-2-4) [2.5](#cite-ref-ne-2-5) [Needle's Eye](<Needle's_Eye.md>) description
