@@ -1,6 +1,6 @@
 ---
 title: Sticky Bun
-revid: 175659
+revid: 207828
 source: https://deepwoken.fandom.com/wiki/Sticky_Bun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -39,4 +39,4 @@ Additionally, it grants the Ether buff, affecting 30% of the Stomach bar. The bu
 
 ### Recipe
 
--   1 [Sap](Sap.md) and 3 [Gathered Wheat](Gathered_Wheat.md) at a [Campfire](Campfire_Pit.md).
+-   1 [Sap](Sap.md) and 3 [Gathered Wheat](Gathered_Wheat.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).

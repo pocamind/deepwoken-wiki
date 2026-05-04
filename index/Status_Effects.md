@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 207425
+revid: 208019
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -113,9 +113,9 @@ While active, suffer from 50% Anti-Heal for 10 seconds, halving all incoming hea
 
 While active, suffer from 80% Anti-Heal meaning you will only get healed 20% of any healing source instead of the full heal. This effect can be applied through being hit by a [Mudskipper Broodlord](Mudskipper_Broodlord.md). This effect is amplified in [The Diluvian Mechanism](The_Diluvian_Mechanism.md) but does not apply to health packs from killing monsters, and reduced in [Hell Mode](Hell_Mode.md). This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by purple smoke on your character.
 
-### Voidscarred
+### Void
 
-While Voidscarred, all incoming healing is massively reduced and perishing will send you to [the Depths](The_Depths.md) regardless of if your healthbar was stained or not. This effect is applied by being in a [Voidzone](Voidzones.md) or [Void Spire](Void_Spire.md). While in a Voidzone, the edges of your screen will have a white cracked effect. While under the effects of a [Void Spire](Void_Spire.md), the screen will go monochrome.
+While affected by Void, all incoming healing is massively reduced and perishing will send you to [the Depths](The_Depths.md) regardless of if your healthbar was stained or not. This effect is applied by being in a [Voidzone](Voidzones.md) or [Void Spire](Void_Spire.md). While in a Voidzone, the edges of your screen will have a white cracked effect. While under the effects of a [Void Spire](Void_Spire.md), the screen will go monochrome.
 
 ### Fear
 

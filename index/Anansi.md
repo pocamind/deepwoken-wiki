@@ -1,6 +1,6 @@
 ---
 title: Anansi
-revid: 207521
+revid: 207917
 source: https://deepwoken.fandom.com/wiki/Anansi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Aspects]
@@ -18,7 +18,7 @@ notices:
 
 The Anansi were a people active during the Old World.[\[2\]](#cite-note-2) The Anansi were an isolated population,[\[1\]](#cite-note-knellbestiary-1) which would prove their undoing when their homeland of [Simforea](Simforea.md) was lost, wiping them off the map.[\[3\]](#cite-note-3)
 
-The Anansi posses six eyes.[\[1\]](#cite-note-knellbestiary-1)
+The Anansi possess the six eyes.[\[1\]](#cite-note-knellbestiary-1)
 
 ## Trivia
 

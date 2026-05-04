@@ -1,9 +1,9 @@
 ---
 title: Disciple Gobletto
-revid: 207510
+revid: 207979
 source: https://deepwoken.fandom.com/wiki/Disciple_Gobletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Chrysid NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
+categories: [Chrysid NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Justicars]
 ---
 
 # Disciple Gobletto
@@ -68,7 +68,3 @@ Disciple Gobletto is located on [Alsin's Landing](<Alsin's_Landing.md>), standin
 </tr>
 </tbody>
 </table>
-
-## Trivia
-
--   Named after the mushroom [Gobletto](Gobletto.md).

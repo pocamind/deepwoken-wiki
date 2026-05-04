@@ -1,6 +1,6 @@
 ---
 title: Fondant Splitter
-revid: 207052
+revid: 207832
 source: https://deepwoken.fandom.com/wiki/Fondant_Splitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium Weapons, Relics, Relic Weapon]
@@ -31,7 +31,7 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium W
 | droppable | No |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | The Cold Forge (Crafting) |
+| obtainment | Crafting at the Cold Forge |
 | description | Is this safe to eat? We'll see... |
 
 _This might have not been the page you were looking for, if you were looking for the [Dormant Splinter](Dormant_Splinter.md)'s other craftables, view the [Umbrite Witherblade](Umbrite_Witherblade.md) or [Sanguine Transfuser](Sanguine_Transfuser.md)._
@@ -54,9 +54,7 @@ Additionally, the Fondant Splitter's critical is buffed further when the player 
 
 The user will take two bites out of the Fondant Splinter, healing 7.5 flat health per tick (15 flat health total).
 
-The [Artisan Chef](Talents.md#artisan-chef) and [Master Chef](Talents.md#master-chef) Talents increase the healing gained from the critical by 2.5 each (+1.25 healing per tick). This allows the user to heal 20 health per critical if they have both.
-
-The [Umami](<Chef's_Toque.md>) Talent increases the healing gained from the critical by 4 (+2 healing per tick). This allows the user to heal 24 health per critical if they have every required bonus.
+The [Artisan Chef](Talents.md#artisan-chef) and [Master Chef](Talents.md#master-chef) Talents increase the healing gained from the critical by 2.5 each (+1.25 healing per tick, per Talent), and the [Umami](Talents.md#umami) Talent increases the healing gained by +4 (+2 healing per tick). This allows the user to heal 24 health per critical if they have all three Talents.
 
 This critical has a cooldown of **20 seconds**.
 

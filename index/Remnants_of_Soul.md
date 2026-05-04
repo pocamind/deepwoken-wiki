@@ -1,6 +1,6 @@
 ---
 title: Remnants of Soul
-revid: 207623
+revid: 208037
 source: https://deepwoken.fandom.com/wiki/Remnants_of_Soul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Relics]
@@ -20,6 +20,7 @@ notices:
 | droppable | Yes |
 | pass down | No |
 | desc | The result of early experiments conducted within Simforea, before it became the shell it is today and long before its founder was lost along with the Anansi people. It contains a blend of healing remedies and remnants of soul. |
+| obtainment | Knell, The Lunatic Resonator |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

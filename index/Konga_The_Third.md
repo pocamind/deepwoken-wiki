@@ -1,9 +1,9 @@
 ---
 title: Konga The Third
-revid: 207705
+revid: 207977
 source: https://deepwoken.fandom.com/wiki/Konga_The_Third
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, In progress with reason, InProgressPages, NPCs, NPCs located in the Etrean Luminant]
+categories: [Vesperian NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, In progress with reason, InProgressPages, NPCs, NPCs located in the Etrean Luminant, Justicars]
 notices:
   - This page is currently being worked on. Potentially more dialogue yet to be found.
 ---
@@ -54,3 +54,4 @@ Konga The Third is located in the training grounds of [Alsin's Landing](<Alsin's
 ## Trivia
 
 -   Konga's line about being mistaken for a "Matsu" is a reference to developer and YouTuber [Agamatsu](https://youtube.fandom.com/wiki/Agamatsu). Him being called "Gusto" is in reference to a [community meme](https://www.reddit.com/r/deepwoken/comments/1t2o4ft/amagusto/) where a user mistakenly calls him "Amagusto".
+-   This character is a blatant self insert of the Developer Agamatsu.

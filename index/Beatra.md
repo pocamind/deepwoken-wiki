@@ -1,9 +1,9 @@
 ---
 title: Beatra
-revid: 200609
+revid: 207961
 source: https://deepwoken.fandom.com/wiki/Beatra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Tiran NPCs, Pathfinder Exclusive, Attunement Trainers, NPCs]
+categories: [Tiran NPCs, Pathfinder Exclusive, Attunement Trainers, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
 ---
 
 # Beatra
@@ -20,9 +20,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Beatra is an NPC who acts as a [Shadowcast](Shadowcast.md) trainer for those who don't want to train their attunement in [The Depths](The_Depths.md). She can be found to the left of the [Derelict Highchurch](Derelict_Highchurch.md).
+Beatra is a [Tiran](Tiran.md) NPC who acts as a [Shadowcast](Shadowcast.md) trainer for those who don't want to train their attunement in [The Depths](The_Depths.md). They can be found to the left of the [Derelict Highchurch](Derelict_Highchurch.md).
 
-In order to obtain [Shadowcast](Shadowcast.md), you must find [Nostor, Master of Shadow](Nostor,_Master_of_Shadow.md). Beatra will not teach you it.
+In order to obtain [Shadowcast](Shadowcast.md), [Nostor, Master of Shadow](Nostor,_Master_of_Shadow.md) must be interracted with, as Beatra will not teach the attunement.
 
 ## Dialogue
 
@@ -82,5 +82,5 @@ In order to obtain [Shadowcast](Shadowcast.md), you must find [Nostor, Master of
 
 ## Trivia
 
--   If you have obtained the [Silentheart](Oaths.md) Oath, she will refuse to fight, meaning you have to go to the Depths to kill [Nostor](Nostor,_Master_of_Shadow.md) in order to continue your Silentheart progression.
--   Her eyes are black to represent her attunement, Shadowcast. This is a visual quirk present in most of the other attunement trainers, but not in the other Shadowcast Trainer, [Nostor](Nostor,_Master_of_Shadow.md), due to them being a Ganymede.
+-   If you have obtained the [Silentheart](Oaths.md) Oath, they will refuse to fight, meaning you have to go to the Depths to kill [Nostor](Nostor,_Master_of_Shadow.md) in order to continue your Silentheart progression.
+-   Their eyes are black to represent their attunement, Shadowcast. This is a visual quirk present in most of the other attunement trainers, but not in the other Shadowcast Trainer, [Nostor](Nostor,_Master_of_Shadow.md), due to them being a Ganymede.

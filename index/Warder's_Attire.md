@@ -1,9 +1,9 @@
 ---
 title: "Warder's Attire"
-revid: 207744
+revid: 207986
 source: https://deepwoken.fandom.com/wiki/Warder's_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Outfits, The Justicar]
+categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Outfits, Justicars]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

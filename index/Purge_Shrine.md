@@ -1,6 +1,6 @@
 ---
 title: Purge Shrine
-revid: 201237
+revid: 207869
 source: https://deepwoken.fandom.com/wiki/Purge_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Floor 2]
@@ -16,7 +16,7 @@ The Purge Shrine is an interactable tower that can be found atop a small cliff n
 
 ### Scion of Ethiron
 
--   The [Scion of Ethiron](Scion_of_Ethiron.md) will be buffed, dealing increased damage and no longer spawning [Kyrsgarde Sniper](Kyrsgarde_Sniper.md) (To be used as health packs).
+-   The [Scion of Ethiron](Scion_of_Ethiron.md) will be buffed, dealing increased damage and no longer spawning [Kyrsgarde Sniper](Kyrsgarde_Sniper.md) (To be used as [health packs](<Terminology_(game).md#health-pack>)).
 -   The Bonegrow attack will be significantly faster and will have it's amount of waves increased from 3 to 5.
 -   The Bonestaves of Eld attack will spawn 4 bones instead of 3.
 -   Vehemens Ventus will come out way faster (approximately 8 seconds faster) and can easily catch players off guard, doing significant damage if not parried or dodged.

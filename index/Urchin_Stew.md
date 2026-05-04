@@ -1,6 +1,6 @@
 ---
 title: Urchin Stew
-revid: 175665
+revid: 207812
 source: https://deepwoken.fandom.com/wiki/Urchin_Stew
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -35,4 +35,4 @@ When consumed, it replenishes 20% Stomach and 25% Water.
 
 ### Recipe
 
--   3 [Urchins](Urchin.md) at a [Campfire](Campfire_Pit.md).
+-   3 [Urchins](Urchin.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).

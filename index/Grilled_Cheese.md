@@ -1,6 +1,6 @@
 ---
 title: Grilled Cheese
-revid: 195679
+revid: 207823
 source: https://deepwoken.fandom.com/wiki/Grilled_Cheese
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -35,7 +35,7 @@ When consumed, it replenishes 30% Stomach and 2% Water.
 
 ### Recipe
 
--   1 [Cheese](Cheese.md) and 1 [Bread](Bread.md) at a [Campfire](Campfire_Pit.md).
+-   1 [Cheese](Cheese.md) and 1 [Bread](Bread.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
 
 ## Trivia
 

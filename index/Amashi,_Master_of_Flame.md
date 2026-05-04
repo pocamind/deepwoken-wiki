@@ -1,6 +1,6 @@
 ---
 title: "Amashi, Master of Flame"
-revid: 201007
+revid: 207968
 source: https://deepwoken.fandom.com/wiki/Amashi%2C_Master_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, NPCs located in the Eastern Luminant]
@@ -25,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 Amashi is a [Vesperian](Vesperian.md) NPC who acts as both progression for the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) and the [Flamecharm](Flamecharm.md) trainer.
 
-In order to obtain Flamecharm, you must bring 2 [Dying Embers](Dying_Embers.md) to Amashi, though, if you have NEVER unlocked [Flamecharm](Flamecharm.md) before at any point, you would need 5 [Dying Embers](Dying_Embers.md). Alternatively, if you have obtained the Silentheart Oath, you must kill them in order to get one of five Oath Talents. They are found in the [Songseeker Wilds](Songseeker_Wilds.md) inside the [Songseeker Temple](Songseeker_Temple.md).
+In order to obtain Flamecharm, you must bring five [Dying Embers](Dying_Embers.md) to Amashi (2 if you have already obtained Flamecharm on a previous character). Alternatively, if you have obtained the Silentheart Oath, you must kill her in order to get one of five Oath Talents.
 
 ## Location
 
@@ -119,26 +119,26 @@ Amashi's uses a [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>) along with the
 
 ### Talents
 
--   _Perfect Flash_ - If Amashi has full Health his mantras do 25% more damage.
--   _Impervious Slumber_ - If Amashi gets hit while knocked, his knocked timer isn't reset.
--   _The Final Act_ - If Amashi Lands a fire mantra immediately after flourishing an enemy will cause them to explode.
+-   _Perfect Flash_ - If Amashi has full Health their mantras do 25% more damage.
+-   _Impervious Slumber_ - If Amashi gets hit while knocked, their knocked timer isn't reset.
+-   _The Final Act_ - If Amashi lands a fire mantra immediately after flourishing an enemy it will cause them to explode.
 -   _Unyielding Inferno_ - Amashi's flames burn just as strong even in the fiercest of storms.
--   _Agitating Spark_ - If Amashi hits an opponent that has been lit on fire, it'll spread to anyone nearby, including himself.
--   _Immolation_ - Amashi's Fire spells cost 70% less while on fire. If he hits someone while on fire, he applies fire damage. He take 50% less damage from self-inflicted flames.
--   _Phoenix Flames_ - If Amashi would burn to death, he instead rises again with 50% of his health restored.
--   _Explosive Finish_ - If Amashi has an enemy set on fire when he flourishes, he blows them away with a fire blast.
+-   _Agitating Spark_ - If Amashi hits an opponent that has been lit on fire, it'll spread to anyone nearby, including themself.
+-   _Immolation_ - Amashi's Fire spells cost 70% less while on fire. If they hit someone while on fire, they apply fire damage. They take 50% less damage from self-inflicted flames.
+-   _Phoenix Flames_ - If Amashi would burn to death, they instead rise again with 50% of their health restored.
+-   _Explosive Finish_ - If Amashi has an enemy set on fire when they flourishe, they blow them away with a fire blast.
 -   _Flaming Flourish_ - If Amashi flourishes an enemy, they get set on fire.
--   _Emperor Flame_ - Amashi can absorb fire produced, once he reaches 5 stacks his next attack will automatic explosive finishing flourish.
--   _Mirage Clone_ - If Amashi dodges he leaves behind a heat mirage clone that sets enemies that swung at him on fire.
+-   _Emperor Flame_ - Amashi can absorb fire produced, once they reach 5 stacks their next attack will automatic Explosive Finish flourish.
+-   _Mirage Clone_ - If Amashi dodges they leave behind a heat mirage clone that sets enemies that swung at them on fire.
 
 ### Finisher
 
-Amashi executes his opponent after knocking them:
+Amashi executes their opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
 | Incineration | The flame status effect from the Flamecharm attunement burns away the opponent's corpse. |
-| Execute | Pins down opponent and slices their throat with his blade. |
+| Execute | Pins down opponent and slices their throat with their blade. |
 
 ## Dialogue
 

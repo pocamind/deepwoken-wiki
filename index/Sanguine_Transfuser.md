@@ -1,6 +1,6 @@
 ---
 title: Sanguine Transfuser
-revid: 206309
+revid: 207835
 source: https://deepwoken.fandom.com/wiki/Sanguine_Transfuser
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Light Weapons, Daggers, Craftable, "Attunement-based Weapons", "Weapons with Multi-Hit Criticals", Relics, Relic Weapon]
@@ -31,7 +31,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons wi
 | droppable | No |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Crafting Hemobloom, Ancient Dagger Remains, and Dormant Splinter at The Cold Forge |
+| obtainment | Crafting: Hemobloom, Ancient Dagger Remains, and Dormant Splinter at the Cold Forge |
 | description | You watch the once solid splinter animate within the cold forge; the fragmented blade freely imbibing its now biotic form. The corroded dagger falls away, leaving the splinter and blood to dance through the helical mold. As they reach the now-fused Hemobloom, the splinter diverges, rejected by the crystallizing blood now solidly cast into its progenitor's form. Though the relic was destroyed and your experiment failed, what remains may be worth what was lost. |
 
 _This might have not been the page you were looking for, if you were looking for the [Dormant Splinter](Dormant_Splinter.md)'s other craftables, view the [Fondant Splitter](Fondant_Splitter.md) or [Umbrite Witherblade](Umbrite_Witherblade.md)._

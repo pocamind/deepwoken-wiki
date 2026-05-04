@@ -1,6 +1,6 @@
 ---
 title: Gale Stone
-revid: 195966
+revid: 207898
 source: https://deepwoken.fandom.com/wiki/Gale_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Elemental Ingredients]
@@ -18,7 +18,7 @@ categories: [Items, Elemental Ingredients]
 | droppable | Yes |
 | pass down | No |
 | desc | A faint whisper of wind can be heard from within. |
-| obtainment | Legion Soldier, Etrean Soldier, Etrean Guardsmen, Etrean Royal Guard, Enhanced Mudskipper, Songseeker Galebreather, Legion Soldier, Duke Ishamon Erisia, Titus Fulminus Destellus, Sold in Traan Zakshun's normal shop for 100 |
+| obtainment | Legion Soldier, Etrean Soldier, Etrean Guardsmen, Etrean Royal Guard, Enhanced Mudskipper, Songseeker Galebreather, Duke Ishamon Erisia, Titus Fulminus Destellus, Sold in Traan Zakshun's normal shop for 100 |
 
 ## Description
 

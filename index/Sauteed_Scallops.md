@@ -1,6 +1,6 @@
 ---
 title: Sauteed Scallops
-revid: 175655
+revid: 207809
 source: https://deepwoken.fandom.com/wiki/Sauteed_Scallops
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -35,4 +35,4 @@ When consumed, it replenishes 25% Stomach and 5% Water.
 
 ### Recipe
 
--   2 [Scallops](Scallop.md) at a [Campfire](Campfire_Pit.md).
+-   2 [Scallops](Scallop.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).

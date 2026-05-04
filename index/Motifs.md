@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 205325
+revid: 207907
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -58,7 +58,7 @@ Full list of Motif-able weapons
 Excludes Fists, Pistols, Rifles, and Greatcannons | **Light Weapons**:  
 Dagger: [Stiletto](Stiletto.md), Fists: N/A, Pistol: N/A, Rapier: [Apprentice Rapier](Apprentice_Rapier.md)
 **Medium Weapons**:  
-Sword: [Sword](<Sword_(weapon).md>), Spear: [Iron Spear](Iron_Spear.md), Club: [Mace](Mace.md), Rifle: N/A, Twinblade: [Scalesplitter](Scalesplitter.md), Bow: N/A  
+Sword: [Sword](<Sword_(weapon).md>), Spear: [Iron Spear](Iron_Spear.md), Staff: [Wooden Staff](Wooden_Staff.md), Club: [Mace](Mace.md), Rifle: N/A, Twinblade: [Scalesplitter](Scalesplitter.md), Bow: N/A  
 **Heavy Weapons**:  
 Greataxe: [Battleaxe](Battleaxe.md), Greatsword: [Soulwrought Greatsword](Crazy_Slots.md#weapons), Greathammer: [Pale Morning](Pale_Morning.md), Greatcannon: N/A
 

@@ -1,6 +1,6 @@
 ---
 title: Bellmarrow Reave
-revid: 207567
+revid: 207819
 source: https://deepwoken.fandom.com/wiki/Bellmarrow_Reave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Medium Weapons]
@@ -27,7 +27,7 @@ categories: [Weapons, Twinblades, Medium Weapons]
 | selling price | 100 |
 | weight | 2 |
 | bankable | Yes |
-| droppable | No |
+| droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Knell, The Lunatic Resonator, Arkasids |

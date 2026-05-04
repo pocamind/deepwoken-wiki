@@ -1,6 +1,6 @@
 ---
 title: Cooked Egg
-revid: 175624
+revid: 207815
 source: https://deepwoken.fandom.com/wiki/Cooked_Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -35,4 +35,4 @@ When consumed, it replenishes 20% Stomach and 5% Water.
 
 ### Recipe
 
--   1 [Egg](Egg.md) at a [Campfire](Campfire_Pit.md).
+-   1 [Egg](Egg.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).

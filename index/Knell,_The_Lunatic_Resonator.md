@@ -1,6 +1,6 @@
 ---
 title: "Knell, The Lunatic Resonator"
-revid: 207701
+revid: 208033
 source: https://deepwoken.fandom.com/wiki/Knell%2C_The_Lunatic_Resonator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Anansi NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, Individuals with He/him pronouns, Enemies, Bosses]
@@ -29,6 +29,8 @@ This content is not accessible outside of this gamemode.
 ## Description
 
 Knell, The Lunatic Resonator is a humanoid [Boss](Bosses.md) found in [Simforea](Simforea.md) in the [Voidsea](Voidsea.md) within the Eastern Luminant.
+
+During the time of the Old World,[\[2\]](#cite-note-raiments-2) Knell was an inhabitant of Simforea, where he was a scholar. Knell had a keen fascination with sound, which became the object of his research, and in particular was drawn to bells and chimes of various designs.[\[3\]](#cite-note-garb-3) This translated to him frequently adorning his apparel and crafts with the instruments.[\[4\]](#cite-note-capeline-4)[\[5\]](#cite-note-tie-5)[\[6\]](#cite-note-reave-6)
 
 ## Moveset
 
@@ -153,7 +155,12 @@ Avoid
 
 ## Finisher
 
--   **Lethal Lunacy** - Knell does not need to manually execute you. If you lose all of your health, **you die instantly.**
+Knell, The Lunatic Resonator executes his opponent after knocking them:
+
+| Name | Description |
+| --- | --- |
+| **Bell Execution** | Getting hit by any of his moves while you're low will cause you to die instantly. |
+| **Execute** | Pins down opponent before firmly bashing their face. |
 
 ## Passives
 
@@ -173,7 +180,7 @@ Avoid
   <td>
   <ul>
     <li><a href="Items.md">Items</a>: <a href="Umbral_Obsidian.md">Umbral Obsidian</a></li>
-    <li><a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Void_Spire.md">Void Spire</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Void_Spire.md">Void Spire</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Remnants_of_Soul.md">Remnant of Soul</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -204,6 +211,8 @@ Avoid
 </tr>
 </tbody>
 </table>
+
+  
 
 ## Dialogue
 
@@ -275,18 +284,23 @@ Avoid
   <td colspan="12">Oh... I see it now. Yes... enough. Every brilliant song reaches its end!</td>
 </tr>
 <tr>
-  <td colspan="12">[End Dialogue] fight starts</td>
+  <td colspan="12">[End Dialogue] friendship starts</td>
 </tr>
 </tbody>
 </table>
 
 ## Trivia
 
--   Knell is the first (and currently only) character in the game who has the [Anansi](Anansi.md) aspect.
+-   Knell is the first (and currently only) character in the game who has the Anansi aspect.
 -   Although the title above Knell's health bar reads "The Lunatic Resonator", His name in the [Bestiary](Bestiary.md) is actually "The Lost Anansi".
 -   Knell, and his fight appear to be stolen from the boss [Widow](https://hollowknight.wiki/w/Widow) in Hollow Knight: Silksong. Both have same attacks with rushdown swipes, and the myriads of thrown bell attacks. The two also share a design detail of two pins lodged in their backs.
 -   Knell disappears after beating him for the first time on a character. The only method of bringing him back for another fight is by utilizing an [idol of yun'shul](<Idol_of_Yun'Shul.md>) or a [yun'shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish
 
 ## References
 
-1.  [↑](#cite-ref-1) [Bestiary](Bestiary.md): [Knell, The Lost Anansi](Bestiary.md#knell-the-lost-anansi)
+1.  [↑](#cite-ref-bestiary-1-0) [Bestiary](Bestiary.md): [Knell, The Lost Anansi](Bestiary.md#knell-the-lost-anansi)
+2.  [↑](#cite-ref-raiments-2-0) [Ringing Scholar's Raiments](<Ringing_Scholar's_Raiments.md>)
+3.  [↑](#cite-ref-garb-3-0) [Ringing Scholar's Garb](<Ringing_Scholar's_Garb.md>)
+4.  [↑](#cite-ref-capeline-4-0) [Ringing Scholar's Capeline](<Ringing_Scholar's_Capeline.md>)
+5.  [↑](#cite-ref-tie-5-0) [Ringing Scholar's Necktie](<Ringing_Scholar's_Necktie.md>)
+6.  [↑](#cite-ref-reave-6-0) [Bellmarrow Reave](Bellmarrow_Reave.md) description

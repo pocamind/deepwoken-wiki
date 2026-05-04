@@ -1,9 +1,9 @@
 ---
 title: Polis
-revid: 207764
+revid: 207992
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Enemies, Etrea Enemies, Individuals with unspecified pronouns, The Justicar]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Enemies, Etrea Enemies, Individuals with unspecified pronouns, Justicars]
 ---
 
 # Polis
@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Polis is a [Vesperian](Vesperian.md) NPC. They are a [Justicar](<Justicar_(Origin).md>) and follow the [Celestial](Celestial.md), [Alsin](Alsin.md).
+Polis is a [Vesperian](Vesperian.md) NPC. They are a [Justicar](The_Justicar.md) and follow the [Celestial](Celestial.md), [Alsin](Alsin.md).
 
 They give a [Gold Ring](Gold_Ring.md) to those who interact with them. When [The Central Authority](The_Central_Authority.md) invades [Etris](Etris.md), they fight to defend Etris along with the guards.
 

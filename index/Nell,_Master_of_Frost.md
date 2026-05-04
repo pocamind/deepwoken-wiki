@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 195208
+revid: 208040
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, Diver Enemies, NPCs located in the Etrean Luminant, Individuals with They/them pronouns]
@@ -21,7 +21,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Nell is an NPC who acts as both the [Frostdraw](Frostdraw.md) trainer and progression for the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md).
+Nell is an [Adret](Adret.md) NPC who acts as both the [Frostdraw](Frostdraw.md) trainer and progression for the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md).
 
 In order to obtain [Frostdraw](Frostdraw.md), you must bring 5 [Frigid Prisms](Frigid_Prism.md) to Nell. (Note: You'll only need 2 Frigid Prisms if it's your first attunement obtained manually.) Alternatively, if you have obtained the Silentheart Oath, you must kill them in order to get one of six Oath Talents. They are found near the guildhouse (follow the path to the right) in [Etris](Etris.md).
 

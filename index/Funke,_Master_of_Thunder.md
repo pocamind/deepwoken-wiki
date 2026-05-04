@@ -1,6 +1,6 @@
 ---
 title: "Funke, Master of Thunder"
-revid: 201006
+revid: 208023
 source: https://deepwoken.fandom.com/wiki/Funke%2C_Master_of_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, The Divers, Diver Enemies, NPCs located in the Eastern Luminant]
@@ -24,9 +24,13 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Funke is an NPC who acts as both progression for the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) and the [Thundercall](Thundercall.md) trainer.
+Funke is a [Canor](Canor.md) NPC who acts as both progression for the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) and the [Thundercall](Thundercall.md) trainer.
 
-In order to obtain Thundercall, you must bring 5 [Spark Glands](Spark_Gland.md) to Funke (2 if you have already obtained the attunement). Alternatively, if you have obtained the Silentheart Oath, you must kill them in order to get one of five Oath Talents. They are found at the 2nd floor of the [Summer Isle](Summer_Isle.md) castle inside the alchemy room.
+In order to obtain Thundercall, you must bring 5 [Spark Glands](Spark_Gland.md) to Funke (2 if you have already obtained Thundercall on a previous character). Alternatively, if you have obtained the Silentheart Oath, you must kill them in order to get one of five Oath Talents.
+
+## Location
+
+Funke is located at the 2nd floor of the [Summer Isle](Summer_Isle.md) castle inside the alchemy room.
 
 ## Moveset
 
@@ -77,15 +81,15 @@ Funke's arsenal consists of a [Stormseye](Stormseye.md) along with the [Thunderc
 
 ### Talents
 
--   _Perfect Flash_ - If Funke has full Health, his mantras do 25% more damage.
--   _Impervious Slumber_ - If Funke gets hit while knocked, his knocked timer isn't reset.
+-   _Perfect Flash_ - If Funke has full Health, their mantras do 25% more damage.
+-   _Impervious Slumber_ - If Funke gets hit while knocked, their knocked timer isn't reset.
 -   _Authority Intimidation_ - All of Funke's Thundercall mantras slow opponents more.
 -   _Resolve Crusher_ - Funke's Thundercall mantras has a chance to inflict 'Electrify', which converts Electrified targets' attacks into lightning damage and reduces damage against Funke by 10%.
 -   _First Interrogation_ - Getting attacked by Electrified targets restores Funke's ether.
 -   _Second Interrogation_ - Electrified targets deal 50% less damage and posture against Funke.
 -   _Jolting Current_ - Funke's Thundercall mantras strikes other people in the water.
--   _Static Link_ - If Funke lands a flourish or uppercut, a link between him and the opponent gets created. While the link is active, his Thundercall mantras stun 50% more.
--   _Jumper Cables_ - If Funke takes fatal damage while Static Link is active, he steals some of the linked victim's HP and remains unknocked.
+-   _Static Link_ - If Funke lands a flourish or uppercut, a link between them and the opponent gets created. While the link is active, their Thundercall mantras stun 50% more.
+-   _Jumper Cables_ - If Funke takes fatal damage while Static Link is active, they steal some of the linked victim's HP and remain unknocked.
 -   _Static Allure_ - If Funke is linked to 2 targets, both of the targets get pulled together and deals blunt damage to each other.
 -   _Static Blade_ - Hitting blocks, blocking or parrying hits will give Funke's a speed buff stack that caps at 10 stacks.
 -   _Overcharge_ - After Static Blade procs, Funke's next dash is enhanced by lightning.
@@ -95,7 +99,7 @@ Funke's arsenal consists of a [Stormseye](Stormseye.md) along with the [Thunderc
 
 ### Finisher
 
-Funke executes his opponent after knocking them:
+Funke executes their opponent after knocking them:
 
 | Name | Description |
 | --- | --- |

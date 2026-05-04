@@ -1,6 +1,6 @@
 ---
 title: Heavy Steak
-revid: 175641
+revid: 207807
 source: https://deepwoken.fandom.com/wiki/Heavy_Steak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -39,4 +39,4 @@ Additionally, it grants the Scale buff, affecting 15% of the Stomach bar. The bu
 
 ### Recipe
 
--   1 [Raw Heavy Meat](Raw_Heavy_Meat.md) at a [Campfire](Campfire_Pit.md).
+-   1 [Raw Heavy Meat](Raw_Heavy_Meat.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).

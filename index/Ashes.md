@@ -1,6 +1,6 @@
 ---
 title: Ashes
-revid: 205673
+revid: 207838
 source: https://deepwoken.fandom.com/wiki/Ashes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Craftable]

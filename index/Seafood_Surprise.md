@@ -1,6 +1,6 @@
 ---
 title: Seafood Surprise
-revid: 175658
+revid: 207811
 source: https://deepwoken.fandom.com/wiki/Seafood_Surprise
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -35,7 +35,7 @@ When consumed, it replenishes 15% Stomach and 5% Water.
 
 ### Recipe
 
--   Any combination of 3, with at least 1 [Urchin](Urchin.md), [Scallop](Scallop.md), [Squid](Squid.md), [Fish Meat](Fish_Meat.md), or [Crustacean Meat](Crustacean_Meat.md), cooked together at a [Campfire](Campfire_Pit.md).
+-   Any combination of 3, with at least 1 [Urchin](Urchin.md), [Scallop](Scallop.md), [Squid](Squid.md), [Fish Meat](Fish_Meat.md), or [Crustacean Meat](Crustacean_Meat.md), cooked together at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
 
 ## Trivia
 

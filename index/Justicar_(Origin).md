@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 207762
+revid: 208044
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -20,7 +20,7 @@ This article is about the Origin. If you are looking for the [faction](Factions_
 > 
 > ― Origin description
 
-_Justicar_ is the counterpart of [Voidwalker](Voidwalker.md). They protect other players and make sure that they are stayed unharmed.
+_Justicar_ is the counterpart of [Voidwalker](Voidwalker.md). They protect other players and make sure that they remain unharmed.
 
 ## Obtainment
 
@@ -37,9 +37,9 @@ Justicars spawn at [Alsin's Landing](<Alsin's_Landing.md>) with the [Justicar Ne
 
 ## Progression
 
-Using the Justicar Whistle will allow you to choose a specific Castaway which shows their name, power, Luminant, and region.
+Using Justicar's Aid will allow you to choose a specific Castaway which shows their name, power, Luminant, area, and region.
 
-Helping this [Castaway](Castaway.md) progress via events, killing their [Voidwalker](Voidwalker.md), etc. will provide you with 10 rank points. If the [Castaway](Castaway.md) dies, or if you die, you fail in your task to protect the [Castaway](Castaway.md) and lose every single point.
+Helping this [Castaway](Castaway.md) progress via events, killing their [Voidwalker](Voidwalker.md), etc. will provide you with 10-35 rank points. If the [Castaway](Castaway.md) dies, or if you die, you fail in your task to protect the [Castaway](Castaway.md) and lose 50 point.
 
 Killing a high leveled [Voidwalker](Voidwalker.md) will award you with 50 points.
 
@@ -77,7 +77,7 @@ Upon joining the Vanguard division, you will automatically be granted [Justicar'
 -   **Vanguard's Onslaught** - Landing a Vanguard Style Jus Karita critical attack makes you deal 20% more damage in the air for the next 5 seconds
 -   **Karita Combo** - Remove the endlag from your next running attack. \[5 second CD\] Landing a critical attack right after your running attack makes that critical attack have no cooldown and deal more damage. \[10 second CD\]
 -   **Swiftkick Master** - Proccing Swiftkick Prodigy now extends its duration to 15 seconds
--   **Soaring Swiftkick** - Flying Swiftkick no longer consumes your speed boost and nstead gives you more speed
+-   **Soaring Swiftkick** - Flying Swiftkick no longer consumes your speed boost and instead gives you more speed
 -   **Righteous Crash** - Slamming down your opponent in the air with a flourish or your upgraded Vanguard Jus Karita critical deals extra true damage based on high up in the air they were
 
 ### Warder
@@ -98,21 +98,22 @@ Upon joining the Warder division, you will automatically be granted [Warder's At
 
 ## Effects
 
-### Justicar Whistle (This item is not given to you instead its given to [Castaways](Castaway.md)
+### Justicar's Aid
 
--   _In-game description_: Request aid from a Justicar.
+-   _In-game description_:
 
 ## Pros and Cons
 
 ### Pros
 
--   Great for those who want to help players.
+-   Great for those who want to help, usually newer, players.
+-   Access to multiple Paths allowing for a variety of unique builds unobtainable otherwise.
 
 ### Cons
 
 -   If the [Castaway](Castaway.md) dies, or if you die, you will lose 50 rank points, which usually means you lose all if below 50.
--   Rank progression is insanely slow. You get only 10 points every encounter you save/assist your [Castaway](Castaway.md).
--   Very punishing for helping players.
+-   Somewhat slow progression in regard to Justicar ranks. Ideally, you would be job stacking with your [Castaway](Castaway.md), which they might not know of.
+-   The progression is tied with helping players with no real option for solo progression, so this Origin may not appeal to those who primarily play solo.
 
 ## Reputation
 

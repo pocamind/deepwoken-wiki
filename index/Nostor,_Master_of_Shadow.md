@@ -1,6 +1,6 @@
 ---
 title: "Nostor, Master of Shadow"
-revid: 196412
+revid: 208042
 source: https://deepwoken.fandom.com/wiki/Nostor%2C_Master_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, The Ministry, Ministry Enemies, NPCs located in the First Layer]
@@ -24,7 +24,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Nostor, Master of Shadow, is a [Ganymede](Ganymede.md) NPC. They are the [Shadowcast](Shadowcast.md) trainer as well as progression for the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md).
+Nostor, Master of Shadow, is a [Ganymede](Ganymede.md) NPC who acts as both progression for the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) and the [Flamecharm](Flamecharm.md) trainer.
 
 To obtain [Shadowcast](Shadowcast.md), you must bring Nostor 5 [Umbral Obsidian](Umbral_Obsidian.md), or only two if having unlocked it previously.
 

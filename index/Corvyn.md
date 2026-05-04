@@ -1,9 +1,9 @@
 ---
 title: Corvyn
-revid: 207512
+revid: 207985
 source: https://deepwoken.fandom.com/wiki/Corvyn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Tiran NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
+categories: [Tiran NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Justicars]
 ---
 
 # Corvyn

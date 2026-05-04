@@ -1,6 +1,6 @@
 ---
 title: Gumshoe Hat
-revid: 206889
+revid: 207995
 source: https://deepwoken.fandom.com/wiki/Gumshoe_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Equipment Styles]
@@ -23,7 +23,7 @@ categories: [Equipment, Head, Hats, Equipment Styles]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Fort MeritSongseeker Wilds |
+| obtainment | Fort MeritSongseeker WildsStarswept Valley |
 | description | ... |
 
 ## Description

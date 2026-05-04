@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 207608
+revid: 208039
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -646,6 +646,7 @@ Some of these attacks have unique mechanics regarding how/if they can be avoided
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md): Sudden Ambush, Pressure Eruption
 -   [Heart of Enmity](Heart_of_Enmity.md): Event Horizon
 -   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Altitude Swipes, Champion's Quake
+-   Knell, The Lunatic Resonator: Carilion Call
 
  |
 

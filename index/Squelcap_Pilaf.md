@@ -1,6 +1,6 @@
 ---
 title: Squelcap Pilaf
-revid: 207672
+revid: 207837
 source: https://deepwoken.fandom.com/wiki/Squelcap_Pilaf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Food]
@@ -41,4 +41,4 @@ Additionally, it grants the Full buff, affecting 35% of the Stomach bar. The buf
 
 ### Recipe
 
--   3 [Latchgrain](Latchgrain.md) and 1 [Squelcap](Squelcap.md) at a [Campfire](Campfire_Pit.md).
+-   3 [Latchgrain](Latchgrain.md) and 1 [Squelcap](Squelcap.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).

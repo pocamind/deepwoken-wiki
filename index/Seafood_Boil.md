@@ -1,6 +1,6 @@
 ---
 title: Seafood Boil
-revid: 175657
+revid: 207810
 source: https://deepwoken.fandom.com/wiki/Seafood_Boil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -40,4 +40,4 @@ Additionally, it grants the Full buff, affecting 20% of the Stomach bar. The buf
 
 ### Recipe
 
--   1 [Crustacean Meat](Crustacean_Meat.md), 1 [Fish Meat](Fish_Meat.md), and 1 [Squid](Squid.md) at a [Campfire](Campfire_Pit.md).
+-   1 [Crustacean Meat](Crustacean_Meat.md), 1 [Fish Meat](Fish_Meat.md), and 1 [Squid](Squid.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).

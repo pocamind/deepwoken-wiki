@@ -1,6 +1,6 @@
 ---
 title: Plumfruit Muffin
-revid: 175650
+revid: 207825
 source: https://deepwoken.fandom.com/wiki/Plumfruit_Muffin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -36,4 +36,4 @@ When consumed, it replenishes 18% Stomach and 10% Water.
 
 ### Recipe
 
--   1 [Gathered Wheat](Gathered_Wheat.md) and 1 [Plumfruit](Plumfruit.md) at a [Campfire](Campfire_Pit.md).
+-   1 [Gathered Wheat](Gathered_Wheat.md) and 1 [Plumfruit](Plumfruit.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).

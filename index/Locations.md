@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 202556
+revid: 207829
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations]
@@ -182,6 +182,7 @@ Please add miscellaneous islands or named landmarks here
 -   [Boatman's Watch](<Boatman's_Watch.md>)
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Voidheart](Voidheart.md)
+-   [Simforea](Simforea.md)
     
 
 **Dungeons:**

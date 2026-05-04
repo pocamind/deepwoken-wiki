@@ -1,6 +1,6 @@
 ---
 title: "Vyrelda, Master of Blood"
-revid: 194995
+revid: 208043
 source: https://deepwoken.fandom.com/wiki/Vyrelda%2C_Master_of_Blood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, Attunement Trainers, NPCs located in the First Floor of the Second Layer, NPCs located in the Eastern Luminant, Enemies]
@@ -23,13 +23,15 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Vyrelda is an NPC who acts as the [Bloodrend](Bloodrend.md) [Trainer](Attunement_Trainers.md). She was a former student who studied under the Second Prophet with Chaser. She joined the Ministry solely to get access to Bloodrend, and wishes to not affiliate with them, for reasons unknown. She is located in an igloo of [Firfire](Firfire.md), in the Second Layer. She is found treating a wounded Diver. The outfit she is wearing is [Sanguine Finery](Sanguine_Finery.md) obtained exclusively from the [Carnival of Hearts](Carnival_of_Hearts.md).
+Vyrelda is an [Etrean](Etrean.md) NPC who acts as both progression for the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) and the [Bloodrend](Bloodrend.md) trainer.
 
-She appears to be friendly, albeit stern towards the player. She is seen healing a lost diver by clotting their wounds and restoring their blood through blood magic, despite not being affiliated with the Divers.
+She was a former student who studied under the Second Prophet with Chaser. She joined the Ministry solely to get access to Bloodrend, and wishes to not affiliate with them, for reasons unknown. She is located in an igloo of [Firfire](Firfire.md), in the Second Layer. She is found treating a wounded Diver.
 
-After obtaining [Bloodrend](Bloodrend.md) she can be found in [Derelict Highchurch](Derelict_Highchurch.md), account wide.
+She appears to be friendly, albeit stern towards the player. She is seen healing a lost Diver by clotting their wounds and restoring their blood through blood magic, despite not being affiliated with the Divers.
 
-If the player has Bloodrend unlocked, Vyrelda is able to be fought to progress the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md). When fought, she wields the [Red Death](Red_Death.md).
+After obtaining Bloodrend she can be found in [Derelict Highchurch](Derelict_Highchurch.md), account wide.
+
+The outfit she is wearing is [Sanguine Finery](Sanguine_Finery.md) obtained exclusively from the [Carnival of Hearts](Carnival_of_Hearts.md).
 
 ## Dialogue
 

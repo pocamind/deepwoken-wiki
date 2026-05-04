@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 202181
+revid: 207887
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables]
@@ -12,6 +12,7 @@ categories: [Items, Harvestables]
 |---|---|
 | value | N/A |
 | weight | 1 |
+| stack | x99 |
 | type | Ingredient |
 | rarity | Common |
 | bankable | Yes |
@@ -23,6 +24,7 @@ categories: [Items, Harvestables]
 |---|---|
 | value | 1 |
 | weight | 1 |
+| stack | x99 |
 | type | Ingredient |
 | rarity | Common |
 | bankable | Yes |
@@ -34,6 +36,7 @@ categories: [Items, Harvestables]
 |---|---|
 | value | 5 |
 | weight | 1 |
+| stack | x99 |
 | type | Ingredient |
 | rarity | Common |
 | bankable | Yes |
@@ -45,6 +48,7 @@ categories: [Items, Harvestables]
 |---|---|
 | value | 10 |
 | weight | 1 |
+| stack | x99 |
 | type | Ingredient, Consumable |
 | rarity | Common |
 | bankable | Yes |
@@ -56,6 +60,7 @@ categories: [Items, Harvestables]
 |---|---|
 | value | 15 |
 | weight | 1 |
+| stack | x99 |
 | type | Ingredient, Consumable |
 | rarity | Common |
 | bankable | Yes |
@@ -67,6 +72,7 @@ categories: [Items, Harvestables]
 |---|---|
 | value | 12 |
 | weight | 1 |
+| stack | x99 |
 | type | Ingredient, Consumable |
 | rarity | Common |
 | bankable | Yes |
@@ -78,6 +84,7 @@ categories: [Items, Harvestables]
 |---|---|
 | value | 15 |
 | weight | 1 |
+| stack | x99 |
 | type | Ingredient, Consumable |
 | rarity | Common |
 | bankable | Yes |
@@ -89,12 +96,25 @@ categories: [Items, Harvestables]
 |---|---|
 | value | 15 |
 | weight | 1 |
+| stack | x99 |
 | type | Ingredient |
 | rarity | Common |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
 | desc | A powerful metal said to harness the power of shadows. |
+
+| Indichite | |
+|---|---|
+| value | 15 |
+| weight | 1 |
+| stack | x99 |
+| type | Ingredient, Consumable |
+| rarity | Common |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | A strong yet flexible metal with distinctive Damascus-esque rings. Often found in mineral-rich regions with intense tectonic activity. |
 
 ## Overview
 
@@ -110,7 +130,7 @@ A very common grayish-blue or sandstone ore that can be found in any cave.
 
 ### Crafting Recipes
 
--   [Flint](Flint.md) - x1 Rock + x1 [Coal](Ores.md#coal)
+-   [Flint](Flint.md) - x1 Rock + x1 [Coal](Ores.md#coal) [CraftingEmpty](Crafting_Recipes.md)
 
 Old Models
 
@@ -120,9 +140,9 @@ A black ore that is found in most cave systems.
 
 ### Crafting Recipes
 
--   [Flint](Flint.md) - x1 Coal + x1 [Rock](Ores.md#rock)
--   [Umbral Flint](Flint.md) - x1 Coal + x1 [Umbral Obsidian](Umbral_Obsidian.md)
--   [Iron Bomb](Iron_Bomb.md) - x1 Coal + x2 [Iron](Ores.md#iron) with the [Family Recipe](Talents.md#family-recipe) Talent, at a [Crafting Station](Crafting_Station.md)
+-   [Flint](Flint.md) - x1 Coal + x1 [Rock](Ores.md#rock) [CraftingEmpty](Crafting_Recipes.md)
+-   [Umbral Flint](Flint.md) - x1 Coal + x1 [Umbral Obsidian](Umbral_Obsidian.md) [CraftingEmpty](Crafting_Recipes.md)
+-   [Iron Bomb](Iron_Bomb.md) - x1 Coal + x2 [Iron](Ores.md#iron) with the [Family Recipe](Talents.md#family-recipe) Talent, at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md)
 
 Old Models
 
@@ -136,11 +156,11 @@ Unlike all other Pure Ores, Pure Iron cannot be traded to a [Blacksmith](Blacksm
 
 -   x3 Iron - x1 Pure Iron
 -   x50 [Bullets](Bullets.md) - x1 Iron
--   [Pickaxe](Pickaxe.md) - x2 Iron + x2 Wood, at a [Crafting Station](Crafting_Station.md)
--   [Lumber Axe](Lumber_Axe.md) - x2 Iron + x2 Wood, at a [Crafting Station](Crafting_Station.md)
--   [Repair Kit](Repair_Kit.md) - x3 Iron + x2 Wood, at a [Crafting Station](Crafting_Station.md)
--   [Iron Bomb](Iron_Bomb.md) - x2 Iron + x1 [Coal](Ores.md#coal) with the [Family Recipe](Talents.md#family-recipe) Talent, at a [Crafting Station](Crafting_Station.md)
--   [Pathfinder Lantern](Pathfinder_Lantern.md) - x1 Iron + x1 [Spark Gland](Spark_Gland.md) or x1 [Dying Embers](Dying_Embers.md) + x1 [Fiber](Fiber.md), at a [Crafting Station](Crafting_Station.md)
+-   [Pickaxe](Pickaxe.md) - x2 Iron + x2 Wood, at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md)
+-   [Lumber Axe](Lumber_Axe.md) - x2 Iron + x2 Wood, at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md)
+-   [Repair Kit](Repair_Kit.md) - x3 Iron + x2 Wood, at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md)
+-   [Iron Bomb](Iron_Bomb.md) - x2 Iron + x1 [Coal](Ores.md#coal) with the [Family Recipe](Talents.md#family-recipe) Talent, at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md)
+-   [Pathfinder Lantern](Pathfinder_Lantern.md) - x1 Iron + x1 [Spark Gland](Spark_Gland.md) or x1 [Dying Embers](Dying_Embers.md) + x1 [Fiber](Fiber.md), at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md)
 
 Old Models
 
@@ -152,8 +172,8 @@ It may also be obtained by "melting" [Gold Bars](Treasures.md) or [Gold Rings](G
 
 ### Crafting Recipes
 
--   x3 Gold - x1 Pure Gold
--   [Gilded Needle](Gilded_Needle.md) - x1 Gold + x3 [Armorer's Needle](<Armorer's_Needle.md>)
+-   x3 Gold - x1 Pure Gold [CraftingEmpty](Crafting_Recipes.md)
+-   [Gilded Needle](Gilded_Needle.md) - x1 Gold + x3 [Armorer's Needle](<Armorer's_Needle.md>) [CraftingEmpty](Crafting_Recipes.md)
 
 Old Models
 
@@ -163,7 +183,7 @@ A glowing, blue ore that is found in Upper Erisia near the open entrance of [The
 
 ### Crafting Recipes
 
--   x3 Erisore - x1 Pure Erisore
+-   x3 Erisore - x1 Pure Erisore [CraftingEmpty](Crafting_Recipes.md)
 
 Old Models
 
@@ -174,7 +194,7 @@ A vibrant green ore used for crafting certain Outfits. Found in [The Garden Rese
 ### Crafting Recipes
 
 -   x3 Irithine - x1 Pure Irithine
--   [Wormwarder Lantern](Wormwarder_Lantern.md) - x4 Irithine + x4 [Spark Gland](Spark_Gland.md) + x2 [Galewax](Galewax.md), at a [Crafting Station](Crafting_Station.md) in the [Second Layer](Second_Layer.md)
+-   [Wormwarder Lantern](Wormwarder_Lantern.md) - x4 Irithine + x4 [Spark Gland](Spark_Gland.md) + x2 [Galewax](Galewax.md), at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md) in the [Second Layer](Second_Layer.md)
 
 Old Models
 
@@ -184,7 +204,7 @@ A pink ore that comes from meteor deposits. Found in [Songseeker Caves](Songseek
 
 ### Crafting Recipes
 
--   x3 Astruline - x1 Pure Astruline
+-   x3 Astruline - x1 Pure Astruline [CraftingEmpty](Crafting_Recipes.md)
 
 Old Models
 
@@ -194,11 +214,15 @@ A dark blue neon ore found in the [First Layer](First_Layer.md) of The Depths. L
 
 ### Crafting Recipes
 
--   x3 Umbrite - x1 Pure Umbrite
--   [Delver Boots](Delver_Boots.md) - x2 Umbrite + x2 [Galewax](Galewax.md) + x1 [Leather Boots](Leather_Boots.md), at a [Crafting Station](Crafting_Station.md) in the [Second Layer](Second_Layer.md)
--   [Umbrite Witherblade](Umbrite_Witherblade.md) - x3 Umbrite or x1 Pure Umbrite + x1 [Dormant Splinter](Dormant_Splinter.md) + x1 [Razor Cutlass](Razor_Cutlass.md), at the [Cold Forge](The_Cold_Forge.md)
+-   x3 Umbrite - x1 Pure Umbrite [CraftingEmpty](Crafting_Recipes.md)
+-   [Delver Boots](Delver_Boots.md) - x2 Umbrite + x2 [Galewax](Galewax.md) + x1 [Leather Boots](Leather_Boots.md), at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md) in the [Second Layer](Second_Layer.md)
+-   [Umbrite Witherblade](Umbrite_Witherblade.md) - x3 Umbrite or x1 Pure Umbrite + x1 [Dormant Splinter](Dormant_Splinter.md) + x1 [Razor Cutlass](Razor_Cutlass.md), at the [Cold Forge](The_Cold_Forge.md) [CraftingColdForge](The_Cold_Forge.md)
 
 Old Models
+
+## Indichite
+
+A dark purple ore with light purple swirls found in [Simforea](Simforea.md). One vein can be found underneath a destroyed bridge to the left of an abandoned lodge. Two more veins can be found underneath a broken dock in front of [Knell, The Lunatic Resonator](Knell,_The_Lunatic_Resonator.md). It can be consumed by [Ironsing](Ironsing.md) users, but no known effects occur.
 
 ## Trivia
 

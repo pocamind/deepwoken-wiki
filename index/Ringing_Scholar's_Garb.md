@@ -1,6 +1,6 @@
 ---
 title: "Ringing Scholar's Garb"
-revid: 207657
+revid: 207852
 source: https://deepwoken.fandom.com/wiki/Ringing_Scholar's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits]
@@ -12,7 +12,7 @@ categories: [Outfits, Master Outfits]
 |---|---|
 | caption | Knell's refrabricated garb hails from when he was still himself, its designs steeped in his studies of oscillatory sound. Though he was not a resonant soul and the science imperfect in its time, the Indichite infusion is capable of amplifying the soul's resonance- powerful, but increasingly unstable. |
 | tier | Master |
-| crafting_req | x2 Cloth, x5 Fiber, x1 Wayward Gem, x3 Vibrant Gem, x2 Arkasid Carapace, x4 Indichite |
+| crafting_req | x2 Cloth, x5 Fiber, x2 Strange Claw, x1 Wayward Gem, x3 Vibrant Gem, x2 Arkasid Carapace, x4 Indichite |
 | price | 1,000 |
 | stat_req | Power 15, 5 Intelligence |
 | bankable | Yes |
@@ -31,7 +31,7 @@ categories: [Outfits, Master Outfits]
 
 ### _Requirements_
 
-This Outfit costs 1,000 and requires two (2) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), one (1) [Wayward Gem](Wayward_Gem.md), three (3) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers), two (2) [Arkasid Carapace](Arkasid_Carapace.md), and four (4) [Indichite](Ores.md#indichite) to craft.
+This Outfit costs 1,000 and requires two (2) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), two (2) [Strange Claw](Strange_Claw.md), one (1) [Wayward Gem](Wayward_Gem.md), three (3) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers), two (2) [Arkasid Carapace](Arkasid_Carapace.md), and four (4) [Indichite](Ores.md#indichite) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 and have at least 5 [Intelligence](Attributes.md#int) to be crafted.
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 207761
+revid: 208035
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3974,10 +3974,12 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Both Ends \[Common Talent, Weapon Talent, Medium Weapon\] - Pressing M2 after landing a light attack with the staff performs a follow-up swing from the opposite end.
     -   This attack comes out much faster, but only deals 45% of your weapon damage.
+    -   This has the M1 tag, allowing it to proc M1-exclusive Talents and [Enchantment](Enchantments.md) effects.
     -   Prerequisite: Equip any [Staff](Staves.md); this Talent is a weapon Talent.
 
 -   Counter Spin \[Common Talent, Medium Weapon\] - After blocking an attack, press M2 to counter with your staff.
     -   On proc, swiftly thrust your Staff forwards, dealing 45% of your weapon's damage on hit.
+    -   This has the M1 tag, allowing it to proc M1-exclusive Talents and [Enchantment](Enchantments.md) effects.
     -   Prerequisites: [Staff](Staves.md) equipped, 35 Medium Weapon
 
 ### Vaporborne
@@ -4333,6 +4335,10 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
         -   Thirst restoration
         -   Stomach restoration
         -   Speed boost for 10 seconds
+
+-   Slider Style: Karita PlTing - Raise the cap of how fast you are able to slide. Your [Jus Karita](Jus_Karita.md) [fighting style](Fists.md#styles) gains a new sliding crit. Its power scales on how fast you are sliding when using the critical attack.
+    -   Increases the slide speed cap.
+    -   The sliding critical applies [Daze](Status_Effects.md#daze) on hit. It will additionally apply [Burn](Status_Effects.md#burn) ic you have enough momentum.
 
 -   Soar: [Withered Gale Pale](Withered_Gale_Pale.md) - Retain full walkspeed while using your crit.
     -   Using your critical attack will no longer slow you.
