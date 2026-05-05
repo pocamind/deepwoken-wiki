@@ -1,6 +1,6 @@
 ---
 title: "Knell, The Lunatic Resonator"
-revid: 208281
+revid: 208376
 source: https://deepwoken.fandom.com/wiki/Knell%2C_The_Lunatic_Resonator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Anansi NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, Individuals with He/him pronouns, Enemies, Bosses, Deceased characters]
@@ -255,13 +255,13 @@ Knell, The Lunatic Resonator executes his opponent after knocking them:
 </tr>
 <tr>
   <td colspan="3">That's enough.</td>
-  <td colspan="6">[End Dialogue] fight starts</td>
+  <td colspan="6">[End Dialogue], fight starts</td>
 </tr>
 <tr>
   <td colspan="3">Oh... I see it now. Yes... enough. Every brilliant song reaches its end!</td>
 </tr>
 <tr>
-  <td colspan="3">[End Dialogue] fight starts</td>
+  <td colspan="3">[End Dialogue], fight starts</td>
 </tr>
 </tbody>
 </table>
@@ -289,7 +289,7 @@ Knell, The Lunatic Resonator executes his opponent after knocking them:
   <td colspan="12">Oh... I see it now. Yes... enough. Every brilliant song reaches its end!</td>
 </tr>
 <tr>
-  <td colspan="12">[End Dialogue] fight starts</td>
+  <td colspan="12">[End Dialogue], fight starts</td>
 </tr>
 </tbody>
 </table>

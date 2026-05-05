@@ -1,6 +1,6 @@
 ---
 title: Solborn
-revid: 192656
+revid: 208366
 source: https://deepwoken.fandom.com/wiki/Solborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -699,7 +699,7 @@ Oath
     
     -   Gives a Talent tool that allows you to fly. This flight will passively drain your Heartfire Gauge. Using the wings with an empty Heartfire Gauge will set you on fire.
     -   Attempting to use this during the Rat King fight will cause him to use the Sparkle Blitz move.
-    -   While flying, hold Space to ascend, CTRL to descend, and Q to speed up.
+    -   While flying, hold Space to ascend, Ctrl to descend, and Q to speed up.
 
   
 

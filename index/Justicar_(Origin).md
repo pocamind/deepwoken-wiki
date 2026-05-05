@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 208289
+revid: 208389
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -26,14 +26,26 @@ _Justicar_ is the counterpart of [Voidwalker](Voidwalker.md). They protect other
 
 To obtain the Justicar Origin, the player must do one of the following:
 
-1.  Complete the [Cinders of Etris](Cinders_of_Etris.md) Disaster [World Event](World_Events.md).
-2.  Help a player at or below Power 15 at the [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation).
+-   Complete the [Cinders of Etris](Cinders_of_Etris.md) Disaster [World Event](World_Events.md), or
+-   Help a player at or below Power 15 at the [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation).
 
 Once either of these requirements have been met, speak to [Polis](Polis.md). Upon subsequent encounters, you want to interact with the fourth option that allows you to walk the path of [Alsin](Alsin.md).
 
 ## Spawn
 
 Justicars spawn at [Alsin's Landing](<Alsin's_Landing.md>) with the [Justicar Neophyte](Justicar_Neophyte.md) [Outfit](Outfits.md), alongside utilities like [Jus Karita](Jus_Karita.md) and the Justicar's Call.
+
+## Effects
+
+### Justicar's Aid
+
+-   _In-game description_: Pulls up a list of active [Castaways](Castaway.md) that have used their [Justicar Whistle](Castaway.md#justicar-whistle). Select one to teleport to their server and location, and assign them as your mark to protect and help.
+
+### Vow of Protection
+
+-   **Justicars** took a vow to protect and thus, cannot easily bring harm to [Castaways](Castaway.md).
+-   Attempting to harm Castaways will stun the Justicar in place for a few seconds. Justicars will also be stunned if a Castaway hits them.
+    -   If a Castaway attack a Justicar too much, the Justicar may retaliate with no consequences. If said Castaway is the Justicar's current mark, the Castaway will lose their allied status with the Justicar.
 
 ## Progression
 
@@ -43,17 +55,16 @@ Helping this [Castaway](Castaway.md) progress via events, killing their [Voidwal
 
 Killing a high leveled [Voidwalker](Voidwalker.md) will award you with 50 points.
 
+## Promotions
+
 These are the ranks you can progress through:
 
--   Neophyte/Initiate
--   Disciple (155 Points / 4-16 Events)
--   Elder (205 Points / 6-21 Events)
--   ??? / ??? (329 / 7-33 Events)
--   Grandmaster Vanguard / ??? (388 / 8-39 Events)
-
-Once reaching Elder, you may choose between being a Vanguard or a Warder by talking to their respective NPCs, being [Grandmaster Vanguard Legidae](Grandmaster_Vanguard_Legidae.md) in the armory and [Grandmaster Warder Sapphire](Grandmaster_Warder_Sapphire.md) in the library.
-
-Simplified: Vanguards focus on combat, while Warders focus on support and healing.
+1.  Neophyte/Initiate
+2.  Disciple (155 Points / 4-16 Events)
+3.  Elder (205 Points / 6-21 Events)
+    -   Upon reaching Elder, you may choose between being a Vanguard or a Warder by talking to their respective NPCs, being [Grandmaster Vanguard Legidae](Grandmaster_Vanguard_Legidae.md) in the armory and [Grandmaster Warder Sapphire](Grandmaster_Warder_Sapphire.md) in the library.
+4.  ??? / ??? (329 / 7-33 Events)
+5.  Grandmaster Vanguard / ??? (388 / 8-39 Events)
 
 ### Promotion Talents
 
@@ -72,7 +83,9 @@ These Talents can be chosen upon being promoted at any point in your Justicar pl
 
 ## Paths
 
-### Vanguard
+Players can choose between 2 different paths upon reaching Elder rank before they can progress further, those being [Vanguard](<Justicar_(Origin).md#vanguard-path>) and [Warder](<Justicar_(Origin).md#warder-path>). Vanguards typically focus on combat, while Warders focus on support and healing.
+
+## Vanguard Path
 
 Vanguards are focused on combat and are designed to aid you in defending Castaways.
 
@@ -91,7 +104,7 @@ Upon taking the Vanguard Path, you will automatically be granted [Justicar's Arm
 -   **Vanguard's Onslaught** - Landing a Vanguard Style Jus Karita critical attack makes you deal 20% more damage in the air for the next 5 seconds.
     -   Prerequisites: Vanguard Style
 
-### Warder
+## Warder Path
 
 Warders are primarily focused on support and granting buffs to your allies.
 
@@ -114,35 +127,26 @@ Upon taking the Warder path, you will automatically be granted [Warder's Attire.
     -   Prerequisite: Justicar's Mark
 -   **Kindness** - Whenever you heal another player, heal 5 health yourself. \[3 second cooldown\]
 
-## Effects
-
-### Justicar's Aid
-
--   _In-game description_:
-    -   Pulls up a list of active [Castaways](Castaway.md) that have used their Justicar Whistle. Select one to teleport to their server and location, and assign them as your mark to protect and help.
-
-### Vow of Protection
-
--   Justicars took a vow to protect and thus, cannot easily bring harm to [Castaways](Castaway.md).
--   Attempting to harm them will stun the Justicar in place for a few seconds.
--   If a Castaway attack a Justicar too much, they may retaliate with no consequences. If said Castaway is the Justicar's current mark, they will lose their allied status.
-
 ## Pros and Cons
 
 ### Pros
 
 -   Great for those who want to help, usually newer, players.
+    -   This is also a great way to start off a fresh [Guild](Guilds.md), as [Castaways](Castaway.md) are usually newer players who have yet to be invited to a guild. Helping them progress will make them feel indebted to you, and less likely to [guild hop](<Terminology_(game).md#guild-hopping>).
 -   Access to multiple Paths allowing for a variety of unique builds unobtainable otherwise.
+-   Gives great exp. for farming together with a Castaway.
 
 ### Cons
 
--   If the [Castaway](Castaway.md) dies, or if you die, you will lose 50 rank points.
--   Somewhat slow progression in regard to Justicar ranks. Ideally, you would be job stacking with your [Castaway](Castaway.md), which they might not know of.
--   Ironically, Justicars benefit most from competent Castaways who can quickly complete events. Such a scenario is unlikely during intended gameplay.
+-   Somewhat slow progression in regard to Justicar ranks. Ideally, you would be job stacking with your [Castaway](Castaway.md), which they might not know to do. This is also similar to being an [Authority Ensign](Authority_Ensign.md).
 -   The progression is tied with helping players with no real option for solo progression, so this Origin may not appeal to those who primarily play solo.
--   Free will is a thing, and newer players might prove problematic to properly assist.
--   Some [Castaway](Castaway.md) players can spawn you into [whirlpools](Whirlpools.md) or mountains to kill you and thus lose rank.
+-   Some newer Castaways may not know about the details of this origin, and could lead to misunderstandings that could range from them being uncooperative with your help, to them mistaking a Justicar for a [Voidwalker](Voidwalker.md) that's teleporting to them, leading them to be antagonistic against said Justicar.
+-   Evil, sabotaging Castaways with ill-intent.
+    -   Some Castaways can, using [Justicar Whistle](Castaway.md#justicar-whistle) to, spawn you into [Whirlpools](Whirlpools.md) or atop of mountains to kill you, and thus lose rank. Although you do not lose any rank points in the first 10 seconds of teleporting to a Castaway.
+    -   Some Castaways can, using [Justicar Whistle](Castaway.md#justicar-whistle) to, bait Justicars into a trapped area with a lot of players, leading them to a quick death.
+    -   These events are highly unlikely due to the majority of Castaways being newer players.
 -   Difficult to even find a castaway that isn't already being assisted.
+-   Ironically, Justicars benefit most from competent Castaways who can quickly complete events, such as veteran players who likely do not need a Justicar's help in the first place. Such a scenario is unlikely during intended gameplay.
 
 ## Reputation
 

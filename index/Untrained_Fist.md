@@ -1,6 +1,6 @@
 ---
 title: Untrained Fist
-revid: 206263
+revid: 208363
 source: https://deepwoken.fandom.com/wiki/Untrained_Fist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, Fighting Styles]

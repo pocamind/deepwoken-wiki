@@ -1,6 +1,6 @@
 ---
 title: Wooden Staff
-revid: 207902
+revid: 208358
 source: https://deepwoken.fandom.com/wiki/Wooden_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons, Weapons with Talents]
@@ -38,7 +38,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 
 ## Description
 
-The Wooden Staff is a [Staff](Weapons.md) weapon in the Medium category.
+The Wooden Staff is a [Staff](Staves.md) weapon in the Medium category.
 
 ## Talent: Both Ends
 

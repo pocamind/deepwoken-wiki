@@ -1,6 +1,6 @@
 ---
 title: Theros Disciple
-revid: 202310
+revid: 208375
 source: https://deepwoken.fandom.com/wiki/Theros_Disciple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -47,7 +47,7 @@ NOTE: If you unequip your [Imperator's Edge](<Imperator's_Edge.md>), you will **
     -   Sovereign State has a 10 second activation cooldown once the duration runs out.
     -   You can press X while having at least 30% Blight Meter to activate Sovereign State early. While in Sovereign State, your Blight Meter will passively decay, and it cannot be deactivated.
         -   This keybind can be changed in settings.
-    -   While in Sovereign State, your weapon will be replaced with the _[Sovereign Bangle](Oath%253A_Blightsurger.md#weapon)_.
+    -   While in Sovereign State, your weapon will be replaced with the _[Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle)_.
     -   Skycrash will be automatically used twice in quick succession while in this state.
     -   Increases the Wither damage that Sovereign Drive and Warp Kick deal.
 

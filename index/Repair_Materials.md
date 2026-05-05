@@ -1,6 +1,6 @@
 ---
 title: Repair Materials
-revid: 206160
+revid: 208342
 source: https://deepwoken.fandom.com/wiki/Repair_Materials
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tools]

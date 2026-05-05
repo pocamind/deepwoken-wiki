@@ -1,6 +1,6 @@
 ---
 title: Imperial Staff
-revid: 207901
+revid: 208361
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Staves, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with Talents, Weapons with multiple Criticals]
@@ -36,7 +36,7 @@ categories: [Weapons, Staves, Legendary Weapons, "Core-Attribute based weapons",
 
 ## Description
 
-The Imperial Staff is a Legendary [Staff](Weapons.md) that scales with and requires [Strength](Attributes.md#str) in addition to Medium. It is a long bo staff that is capable of changing its length which it employs for a variety of unique attacks.
+The Imperial Staff is a Legendary [Staff](Staves.md) that scales with and requires [Strength](Attributes.md#str) in addition to Medium. It is a long bo staff that is capable of changing its length which it employs for a variety of unique attacks.
 
 ## Talent: Both Ends
 

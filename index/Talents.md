@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 208274
+revid: 208360
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -319,7 +319,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Flame Within can be enabled while knocked. This is meant to synergize with Phoenix Flames. Doing so will halve the strength of Phoenix Flames.
     -   Deals self-damage on cast, separate from the burn damage. This self damage can be resisted with the [Deepscorn Casque](Deepscorn_Casque.md), elemental resistance (it deals Flamecharm damage), and many other sources of damage reduction.
     -   Grotesque Resilience reduces the damage taken from Flame Within's burn DoT by 25%.
-    -   [Deepfire Ring](Deepfire_Ring.md) will lower Flame Within's duration down to 25s without affecting the burn damage taken. This is a direct downgrade for Flame within.
+    -   [Deepfire Ring](Deepfire_Ring.md) will lower Flame Within's duration down to 25s without affecting the burn damage taken. This is a direct nerf for Flame within.
     -   The old Last Laugh Talent was merged into Flame Within.
     -   Prerequisite: 25 Flamecharm
 
@@ -3709,7 +3709,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Thief
 
--   Cap Artist \[Common Talent, Agility, Charisma\] - Pressing \[,\] while crouching allows you to fake being dead. You also take a bit less damage from PvE while ragdolled as well. (+2 Passive Agility)
+-   Cap Artist \[Common Talent, Agility, Charisma\] - Pressing comma while crouching allows you to fake being dead. You also take a bit less damage from PvE while ragdolled as well. (+2 Passive Agility)
     -   Your eyes are still open, your name is still visible and you do not leave a loot bag.
     -   Cap Artist's activation keybind can be configured in settings.
     -   Cancelled by pressing the activation key again.
@@ -3790,7 +3790,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Master Thundercaller \[Mantra Level Talent, Thundercall\] - You can now obtain 3-star Thundercaller mantras. (+5 Health)
     -   Obtained at 50 Thundercall
 
--   Discovery Of Fire \[Common Talent, Thundercall\] - Flints and Flamecharm are for simpletons.
+-   Discovery of Fire \[Common Talent, Thundercall\] - Flints and Flamecharm are for simpletons.
     -   Using this ability will consume 20 Ether to cause a lightning strike that lights nearby entities aflame including campfires, players, and monsters.
     -   Has a 1 second delay between usage and the lightning bolt striking, potentially allowing for movestacks.
     -   15 second cooldown. This cooldown starts when the lightning bolt strikes.

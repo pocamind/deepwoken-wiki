@@ -1,6 +1,6 @@
 ---
 title: Saintsworn (Memento)
-revid: 206407
+revid: 208362
 source: https://deepwoken.fandom.com/wiki/Saintsworn_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]

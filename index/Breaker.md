@@ -1,6 +1,6 @@
 ---
 title: Breaker
-revid: 203425
+revid: 208377
 source: https://deepwoken.fandom.com/wiki/Breaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]

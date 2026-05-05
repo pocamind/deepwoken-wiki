@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 207590
+revid: 208335
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Bandits, Ambush Enemies]
@@ -10,8 +10,8 @@ categories: [Enemies, Bandits, Ambush Enemies]
 
 | Bandit | |
 |---|---|
-| health | 500k |
-| drops | Lesser Mantra ModifiersMoonseye Tome |
+| health | 180 |
+| drops | Lesser Mantra Modifiers |
 | weapon | Starter Weapons, Battleaxe, Sword, Messer, Mace, Stiletto |
 | moves | Assault, Critical |
 
@@ -21,7 +21,7 @@ Bandits can be found in [Erisia](Erisia.md), [Etris](Etris.md), [Isle of Vigils]
 
 A Bandit wears the "Corsair Outlaw" outift with their [aspect](Aspects.md) varying.
 
-Bandits are the most powerful enemies in Deepwoken, when fighting them focus on their swords animation and time your parries. One wrong move and you will be instantly killed. Dying to any bandit will instantly send you to Layer 2 of the Depths.
+Bandits are the second weakest enemies in the overworld of Deepwoken, next to Mudskippers. However, they are among the most diverse enemies, wielding light, heavy, and medium weapons and possessing randomized aspects.
 
 ## Moves
 
@@ -63,6 +63,6 @@ A Bandit executes its opponent after knocking them:
 
 ## Trivia
 
--   They have turned to a life of crime due to the war in the East, causing jobs to become scarce.
+-   They have turned to a life of crime due to the war in the East, causing jobs to become scarce, as seen in their random dialogues.
 -   "Corsair Outlaw" was created by Renji.
 -   Bandits, despite their reputation of being savage thieves, still have a hierarchy system. Bandits have [leaders](Bandit_Leader.md), however they are probably just a stronger bandit.

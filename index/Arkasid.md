@@ -1,6 +1,6 @@
 ---
 title: Arkasid
-revid: 208237
+revid: 208304
 source: https://deepwoken.fandom.com/wiki/Arkasid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Monsters]
@@ -18,7 +18,7 @@ notices:
 | locations | Simforea |
 | challenges | -- Arkasid --, Good Night - Slay 3.Reward: +5% DMG; +2.5% RES, Sleep Tight - Slay 9.Reward: +5% DMG; +2.5% RES, Don't Let The Bed Bugs Bite - Slay 15.Reward: +5% DMG; +2.5% RES |
 
-## Overview
+## Description
 
 Arkasids are monsters found on [Simforea](Simforea.md), they can spawn in groups of 3 of can spawn by themselves. They will **only** drop a chest with loot from killing the **groups of 3**.
 
@@ -30,9 +30,9 @@ Arkasids are monsters found on [Simforea](Simforea.md), they can spawn in groups
 **Paralyzing Throw**  
 (★★☆)
 
- | The Arkasid Spits a purple projectile at the target, [Ragdolling](Status_Effects.md#ragdoll) the player and inflicting [Sleep](Status_Effects.md#sleep) if it lands.
+ | The Arkasid Spits a purple projectile at the target, [Ragdolling](Status_Effects.md#ragdoll) the player and inflicting [Sleeping](Status_Effects.md#sleeping) if it lands.
 
--   The [Sleep](Status_Effects.md#sleep) effect can be avoided by having the [Brick Wall](Talents.md#brick-wall) Talent, applying a slow instead.
+-   The [Sleeping](Status_Effects.md#sleeping) effect can be avoided by having the [Brick Wall](Talents.md#brick-wall) Talent, applying a slow instead.
 
  |  |
 | 
@@ -66,4 +66,8 @@ Arkasids are monsters found on [Simforea](Simforea.md), they can spawn in groups
     -   As mentioned above, having the [Brick Wall](Talents.md#brick-wall) Talent negates the [Ragdoll](Status_Effects.md#ragdoll) and [Sleep](Status_Effects.md#sleep) effects, applying a slow instead.
 -   All of the Arkasid attacks deal very low posture damage, so blocking attacks is a valid strategy.
 -   Using the [Providence Thorns](<Providence's_Thorns.md>) enchantment is recommended, as parrying their **Spin Strikes** attack with it will deal a good amount of damage back to them.
--   [Mute](Regalia.md) does not work on Arkasids.
+-   [Mute](Regalia.md) does not work on Arkasids.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=wnHicBRUt1k](https://www.youtube.com/watch?v=wnHicBRUt1k)

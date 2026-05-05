@@ -1,6 +1,6 @@
 ---
 title: Settings
-revid: 199523
+revid: 208353
 source: https://deepwoken.fandom.com/wiki/Settings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -44,6 +44,8 @@ By clicking the cogwheel icon on the top left of the screen, you can change your
 
 Ability-exclusive Keybinds
 
+These Keybinds will only appear if you have the respective ability.
+
 -   Sovereign State X
 -   Iron Pull X
 -   Callout Z
@@ -52,11 +54,11 @@ Ability-exclusive Keybinds
 -   Tacet T
 -   Unmatched Dexterity X
 -   Phantom Step X
--   Cap Artist,
+-   Cap Artist Comma
 -   Pickpocket N
 -   Symbiotic Link X
 -   Saintsblade N
--   Arc Module- Null L
+-   Arc Module: Null L
 -   Shaper Swap X
 -   Reality Shift J
 

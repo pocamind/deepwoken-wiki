@@ -1,6 +1,6 @@
 ---
 title: Deepwoken OG
-revid: 203993
+revid: 208368
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OG
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, In progress without reason, InProgressPages, "April Fools' Day events", Events]

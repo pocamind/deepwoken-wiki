@@ -1,6 +1,6 @@
 ---
 title: "Konga's Clutch Ring"
-revid: 205853
+revid: 208298
 source: https://deepwoken.fandom.com/wiki/Konga's_Clutch_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -31,4 +31,5 @@ Konga's Clutch Ring allows the user to slide with little delay upon being equipp
 
 ## Trivia
 
+-   [Konga The Third](Konga_The_Third.md) has a replica of the Clutch Ring. Its properties, if any exist, are unknown.
 -   The slide speed boost provided can be stacked with other sources of movement speed such as [Warding Radiance](Talents.md#warding-radiance) and Ice surfaces.

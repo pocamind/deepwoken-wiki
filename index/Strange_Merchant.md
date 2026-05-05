@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant
-revid: 205123
+revid: 208373
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -39,8 +39,7 @@ Wiping as a Strange Merchant unlocks the [Enrage](Talents.md#enrage) talent on [
     -   Activating your Coffin takes 50. This Note cost will increase by 50 per Power, costing 1,000 at Power 20. The price increase mechanic needs further testing.
     -   When used, the Coffin acts like a loot box, randomly rolling an item to give you.
     -   There is a relatively high chance to get Skull (previously known as the Enforcer Labubu)[\[1\]](#cite-note-0-1), which can either be a blank that doubles the cost of the next roll and laughs at you or gives a rare item.
-    -   Coffin activation uses your Resonance keybind.
-    -   You can use any weapon or equipment item without meeting their **attribute** requirements. This also applies to outfits (with some exceptions).
+    -   You can use any weapon or equipment item without meeting their **attribute** requirements. This also applies to Outfits (with some exceptions).
 
 -   Benefactor: \[Equipment Talent\] - Gain reputation for selling goods to Antiquarians within faction territories.
     -   Grants faction [reputation](Reputation.md) when selling items to their respective Antiquarian.
@@ -162,7 +161,7 @@ N/A
 
 ### Starting Deck
 
--   Compelling Offer \[Memento Talent\] - Any charmed enemy below 50% hit with your mantras or critical will mysteriously begin attacking everyone but you. \[[Madness](Status_Effects.md#madness)\] Your [taunt](Attunement-less.md#taunt) also now functions as a counter that stacks damage multipliers with every successful taunt.
+-   Compelling Offer \[Memento Talent\] - Any charmed enemy below 50% hit with your mantras or critical will mysteriously begin attacking everyone but you. \[\[\[Status Effects#Madness|Madness\]\]\] Your [taunt](Attunement-less.md#taunt) also now functions as a counter that stacks damage multipliers with every successful taunt.
     
     -   Madness from this Talent procs when attacking charmed enemies who are below 50% health.
     -   Madness prevents non-boss enemies from dealing damage and hitstunning you.
