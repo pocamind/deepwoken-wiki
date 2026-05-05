@@ -1,6 +1,6 @@
 ---
 title: Frostthorn
-revid: 206895
+revid: 208279
 source: https://deepwoken.fandom.com/wiki/Frostthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Pathfinder Exclusive, Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Light Weapons, Weapons with Unique Animations, Daggers, "Dual-wielded Weapons"]
@@ -40,7 +40,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The **Frostthorn** are a set of dual-wielded of Legendary Daggers; initially appearing as three blades in each hand, they split into five on critical, allowing its wielder to widen their range and versatility in combat. It is obtained by defeating the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>).
+The **Frostthorn** are dual-wielded Legendary Daggers; two layered blades that have a spring powered mechanism that divides them into four separate blades, doubling as a fan. It is obtained by defeating the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>).
 
 ## Critical
 

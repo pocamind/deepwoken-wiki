@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 207087
+revid: 208283
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, Equipment, In progress with VOI reason]
@@ -872,7 +872,7 @@ Face: [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
 
 +2 Rare Pips  
 _+Talent: **[Exterminator](Cut_Content.md#exterminator)**_  
-_+Talent: [**Eurek**](Talents.md#eurek)_  
+_+Talent: [**Eureka**](Talents.md#eureka)_  
 **Requires Power 6**
 
  | Styles:  

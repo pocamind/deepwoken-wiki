@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 208161
+revid: 208274
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1916,7 +1916,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) Basic Attacks now apply burn/eruptions. This has no cooldown.
         -   Due to this equipment Talent, Pleeksty Inferno users can save a few, otherwise necessary, talents like Flaming Flourish.
     -   Obtained from [Simmerbloom Diadem](Simmerbloom_Diadem.md)
-    -   Requirements for Equipment: [Power](Power.md) 10, 80 Flamecharm
+    -   Requirements for Equipment: [Power](Power.md) 10
 
 ### Innate
 
@@ -3680,6 +3680,33 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         -   Does not work in PVE.
     -   Prerequisites: 55 Charisma, Friends in High Places, Snake Oil, Golden Tongue
 
+### The Path, Unveiled
+
+-   **Justicar's Adaptation** \[Faction Talent, [Justicar](<Justicar_(Origin).md>) Exclusive\] - Jus Karita running attacks and criticals can now proc Jus Karita talents even if you arent currently using [Jus Karita](Jus_Karita.md). Your Jus Karita running attacks can now also proc fist talents.
+    -   Having the Justicar's Technique Talent allows you to have the Jus Karita running attack on any weapon. This allows you to proc Jus Karita and Fist exclusive Talents on any weapon via the running attack.
+    -   Prerequisites: [Justicar](<Justicar_(Origin).md>) Origin, promotion reward
+
+-   **Justicar's Preference** - Replace your critical with the [Jus Karita](Jus_Karita.md) critical attack.
+    -   Regardless of your currently equipped weapon, this will replace your critical attack with [Jus Karita](Jus_Karita.md)'s.
+    -   The Jus Karita critical will adopt your equipped weapon's scaling stat.
+    -   Having the Vanguard Style Talent will override this Talent, allowing you to use the Vanguard Style critical on any weapon instead of the Jus Karita one.
+    -   Prerequisites: [Justicar](<Justicar_(Origin).md>) Origin, promotion reward
+
+-   **Justicar's Technique** \[Faction Talent, [Justicar](<Justicar_(Origin).md>) Exclusive\] - Replace your running light attack with the Jus Karita running light attack. With the Justicar's Training, your legs extend the range of this running attack by an extra 0.5.
+    -   Replaces your weapon's running attack animation with the Jus Karita one, and adds 0.5 range to your running attacks.
+    -   Prerequisites: [Justicar](<Justicar_(Origin).md>) Origin, promotion reward
+
+-   **Marked Descent** \[Faction Talent, [Justicar](<Justicar_(Origin).md>) Exclusive\] - When your [marked](Status_Effects.md#justicars-mark) target takes damage, they are revealed. Using your [Karita Divebomb](Attunement-less.md#karita-divebomb) will target them.
+    -   Targets the enemy who hit your [marked](Status_Effects.md#justicars-mark) ally, not the marked ally themselves.
+    -   Prerequisites: Justicar's Mark, [Justicar](<Justicar_(Origin).md>) Origin, promotion reward from the [Warder Path](<Justicar_(Origin).md#warder-path>)
+
+-   **Swiftfoot** \[Faction Talent, [Justicar](<Justicar_(Origin).md>) Exclusive\] - Reduce all slows you recieve by 10%.
+    -   Prerequisites: [Justicar](<Justicar_(Origin).md>) Origin, promotion reward
+
+-   **Trained legs** \[Faction Talent, [Justicar](<Justicar_(Origin).md>) Exclusive\] - Slightly increase your climb strength.
+    -   Increases how high you can climb.
+    -   Prerequisites: [Justicar](<Justicar_(Origin).md>) Origin, promotion reward
+
 ### Thief
 
 -   Cap Artist \[Common Talent, Agility, Charisma\] - Pressing \[,\] while crouching allows you to fake being dead. You also take a bit less damage from PvE while ragdolled as well. (+2 Passive Agility)
@@ -3984,6 +4011,27 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   This has the M1 tag, allowing it to proc M1-exclusive Talents and [Enchantment](Enchantments.md) effects.
     -   Prerequisites: [Staff](Staves.md) equipped, 35 Medium Weapon
 
+### Vanguard Techniques
+
+-   **Karita Combo** \[Faction Talent, [Justicar](<Justicar_(Origin).md>) Exclusive\] - Remove the endlag from your next running attack. \[5 second CD\] Landing a critical attack right after your running attack makes that critical attack have no cooldown and deal more damage. \[10 second CD\]
+    -   Prerequisites: [Justicar](<Justicar_(Origin).md>) Origin, promotion reward from the [Vanguard Path](<Justicar_(Origin).md#vanguard-path>)
+
+-   **Righteous Crash** \[Faction Talent, [Justicar](<Justicar_(Origin).md>) Exclusive\] - Slamming down your opponent in the air with a flourish or your upgraded Vanguard [Jus Karita](Jus_Karita.md) critical deals extra true damage based on high up in the air they were.
+    -   Prerequisites: [Justicar](<Justicar_(Origin).md>) Origin, promotion reward from the [Vanguard Path](<Justicar_(Origin).md#vanguard-path>)
+
+-   **Swiftkick Master** \[Faction Talent, [Justicar](<Justicar_(Origin).md>) Exclusive\] - Proccing Swiftkick Prodigy now extends its duration to 15 seconds.
+    -   Prerequisites: Swiftkick Prodigy, [Justicar](<Justicar_(Origin).md>) Origin, promotion reward from the [Vanguard Path](<Justicar_(Origin).md#vanguard-path>)
+
+-   **Soaring Swiftkick** \[Faction Talent, [Justicar](<Justicar_(Origin).md>) Exclusive\] - Flying Swiftkick no longer consumes your speed boost and instead gives you more speed.
+    -   Prerequisites: Flying Swiftkick, [Justicar](<Justicar_(Origin).md>) Origin, promotion reward from the [Vanguard Path](<Justicar_(Origin).md#vanguard-path>)
+
+-   **Vanguard Style** \[Faction Talent, [Justicar](<Justicar_(Origin).md>) Exclusive\] - When using the [Jus Karita](Jus_Karita.md) critical attack, turn it into a kick that brings your enemies up in the air. Landing the critical attack while your opponent is in the air brings them up and slightly stun them while upgrading your next critical.
+    -   This new critical attack has 20 base damage, and adopts your current weapon's scaling stat.
+    -   Prerequisites: [Justicar](<Justicar_(Origin).md>) Origin, promotion reward from the [Vanguard Path](<Justicar_(Origin).md#vanguard-path>)
+
+-   **Vanguard's Onslaught** \[Faction Talent, [Justicar](<Justicar_(Origin).md>) Exclusive\] - Landing a Vanguard Style [Jus Karita](Jus_Karita.md) critical attack makes you deal 20% more damage in the air for the next 5 seconds.
+    -   Prerequisites: Vanguard Style, [Justicar](<Justicar_(Origin).md>) Origin, promotion reward from the [Vanguard Path](<Justicar_(Origin).md#vanguard-path>)
+
 ### Vaporborne
 
 -   Flashboil \[Common Talent, Dual Attunement, Flamecharm, Frostdraw\] - Landing Ice/fire attacks on burning/chilled enemies extinguishes the flame and generates steam.
@@ -4091,9 +4139,33 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Has a cooldown of 30 seconds for the master and 2 minutes for the subject.
     -   Prerequisites: 80 Charisma, Vow of Mastery
 
+### Warder Techniques
+
+-   **Justicar's Mark** \[Faction Talent, [Justicar](<Justicar_(Origin).md>) Exclusive\] - [Mark](Status_Effects.md#justicars-mark) someone you wish to protect for a minute. While marked, you take 20% of the damage they receive but they take 20% less damage. Marking someone also cause you to take 20% more damage while they are [marked](Status_Effects.md#justicars-mark).
+    -   Grants a Talent tool that allows you to apply the [Justicar's Mark](Status_Effects.md#justicars-mark) status effect on one of your allies.
+    -   While this effect is active, the [marked](Status_Effects.md#justicars-mark) target gains 20% damage redirection, as 20% of the damage they would have taken is redirected to you instead. Additionally, you take 20% more damage.
+    -   Prerequisitess: [Justicar](<Justicar_(Origin).md>) Origin, promotion reward from the [Warder Path](<Justicar_(Origin).md#warder-path>)
+
+-   **Emergency Mark** \[Faction Talent, [Justicar](<Justicar_(Origin).md>) Origin\] - Applying a [mark](Status_Effects.md#justicars-mark) on someone who has less than 20% health heals them for 10% of their health.
+    -   Applying a Justicar's Mark on someone who is under 20% of their current health will heal them for 10% of their maximum health.
+    -   Prerequisites: Justcar's Mark, [Justicar](<Justicar_(Origin).md>) Origin, promotion reward from the [Warder Path](<Justicar_(Origin).md#warder-path>)
+
+-   **Justicar's Blessing** \[Faction Talent, [Justicar](<Justicar_(Origin).md>) Exclusive\] - Allies you mark with gain 15% more healing.
+    -   Prerequisites: Justcar's Mark, [Justicar](<Justicar_(Origin).md>) Origin, promotion reward from the [Warder Path](<Justicar_(Origin).md#warder-path>)
+
+-   **Mark Mastery** \[Faction Talent, [Justicar](<Justicar_(Origin).md>) Exclusive\] - Reduce the amount of extra damage you receive while your ally is marked with the [Justicar's Mark](Status_Effects.md#justicars-mark) from 20% to 5%.
+    -   Reduces the additional damage you take from having a [marked](Status_Effects.md#justicars-mark) ally from 20% to 5%.
+    -   Prerequisites: Justicar's Mark, [Justicar](<Justicar_(Origin).md>) Origin, promotion reward from the [Warder Path](<Justicar_(Origin).md#warder-path>)
+
+-   **Righteous Violence** \[Faction Talent, [Justicar](<Justicar_(Origin).md>) Exclusive\] - Landing a Critical Attack heals your [marked](Status_Effects.md#justicars-mark) ally. Landing a [Jus Karita](Jus_Karita.md) critical or [Karita Swap](<Justicar_(Origin).md#karita-swap>) heals your [marked](Status_Effects.md#justicars-mark) ally even more.
+    -   Prerequisites: Justicar's Mark, [Justicar](<Justicar_(Origin).md>) Origin, promotion reward from the [Warder Path](<Justicar_(Origin).md#warder-path>)
+
+-   **Kindness** \[Faction Talent, [Justicar](<Justicar_(Origin).md>) Exclusive\] - Whenever you heal another player, heal 5 health yourself. \[3 second cooldown\]
+    -   Prerequisites: [Justicar](<Justicar_(Origin).md>) Origin, promotion reward from the [Warder Path](<Justicar_(Origin).md#warder-path>)
+
 ### Warrior
 
--   _Chronostasis_ \[Rare Talent\] - Landing a Basic Attack or Critical puts the target's [Resonance](Resonance.md) on cooldown for a short duration, while also applying [Ether Sunder](Status_Effects.md#ether-sunder) to PvE opponents. (+1 Posture)
+-   _Chronostasis_ \[Rare Talent\] - Landing a Basic Attack or Critical puts the target's [Resonance](Resonance.md) on cooldown for a short duration, while also applying \[\[Status Effects#Ether Sunder\]|Ether Sunder\]\]\]to PvE opponents. (+1 Posture)
     -   On hit, apply a 13 second Resonance cooldown.
     -   This cannot proc if their Resonance is already on cooldown.
     -   The Ether Sunder status effect grants you 30% damage reduction against affected enemies' elemental attacks.
@@ -4493,7 +4565,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Multiple 
 
 -   Drop Dead: [Vaporfrost Earrings](Vaporfrost_Earrings.md) & [Vapordrop Earrings](Vapordrop_Earrings.md) - Take less damage when Crouching.
 
--   Elegy of Light: [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) - The Unspoken Vow of the Waking God resonates through you, if briefly. Protects you from the effects of Deep Gems for 3 minutes and provides you [Gem Enhancement](Status_Effects.md#gem-enhancement). Remains dormant until you take the life of an equal.
+-   Elegy of Light: [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) - The Unspoken Vow of the Waking God resonates through you, if briefly. Protects you from the effects of Deep Gems for 3 minutes and provides [Gem Enhancement](Status_Effects.md#gem-enhancement). Remains dormant until you take the life of an equal.
     -   Grants a Talent tool ability. Upon activating it, your body will emit light and Deep Gems cannot be procced on you. This effect lasts 3 minutes.
     -   Gem Enhancement increases the effectiveness of your Deep Gems in PvE.
     -   Once the duration ends, you will need to kill another player of an equal power or a boss to recharge it.
@@ -4608,6 +4680,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Multiple 
     -   [Visionshaper](Oath%253A_Visionshaper.md)'s Cheap Trick visual effect plays on proc.
     -   This can proc if an attack is blocked, dodged, or parried. When this happens, the visual effect will play, but nothing will happen.
 
+-   Justicar's Gift: [Warder's Attire](<Warder's_Attire.md>) - Your [Justicar](<Justicar_(Origin).md>) support mantras now heal your allies for 10 health instead of 5. Increase the duration of your [Karita Aid](<Justicar_(Origin).md#alsins-aid>) to 15 seconds.
+
 -   Knack: [Eager Tradesman](Eager_Tradesman.md) - Trees yield more Wood when felled. Your Repair speed is increased.
     -   Increases the boat repair speed.
 
@@ -4670,7 +4744,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Multiple 
 
 -   No Interruptions: [Champion's Cape](<Champion's_Cape.md>) - When combat tagged by 2 or more players, render any ranged attack a lot less effective.
     -   This grants +25% damage reduction against attacks from opponents who are at least 15 studs away from you. This damage reduction is increased by 1% per additional stud of distance.
-    -   Grants [true hyperarmor](Status_Effects.md#true-hyperarmor) against attacks from opponents who are at least 15 studs away from you.
+    -   Grants [True Hyperarmor](Status_Effects.md#true-hyperarmor) against attacks from opponents who are at least 15 studs away from you.
     -   Despite what the description states, this Talent can activate if you have one PvE combat tag and one PvP combat tag.
 
 -   No Limits: [The No-Life King's Crown](<The_No-Life_King's_Crown.md>) & [Infused Bloodforged Crown](Infused_Bloodforged_Crown.md) - Increase the cap on [Bloodless Gem](Bloodless_Gem.md) healing.
@@ -4745,7 +4819,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Multiple 
 -   Star Duster: [Star Duster](Star_Duster.md) - You take 30% less damage from airborne enemies.
 
 -   Stormcall: [Specialist Plate](Specialist_Plate.md) - Anytime you land a storm strike apply stormcall shock on your opponent, damaging them if they try to use a mantra while its active.
-    -   Storm Strikes from other Specialist Equipment Talents now apply the Stormcall Shock status effect, causing your opponent to take damage if they cast Mantras during its duration.
+    -   Storm Strikes from other Specialist Equipment Talents now apply the [Stormcall Shock](Status_Effects.md#stormcall-shock) status effect, causing your opponent to take damage if they cast Mantras during its duration.
     -   Stormcall Shock deals 15 Gale and Thunder damage, applies Shock for 1 second or 1 Surge Rod, and winded for 2 seconds upon casting any Mantra.
 
 -   Stronger Under Pressure: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md) - Your mantras with [might gem](Might_Gem.md) now slow down your opponents, scaling with how many combat tags you currently have.

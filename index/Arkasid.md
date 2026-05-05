@@ -1,6 +1,6 @@
 ---
 title: Arkasid
-revid: 208177
+revid: 208237
 source: https://deepwoken.fandom.com/wiki/Arkasid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Monsters]
@@ -13,7 +13,7 @@ notices:
 | Arkasid | |
 |---|---|
 | health | ??? |
-| attacks | Paralyzing ThrowPounce |
+| attacks | Paralyzing Throw, Pounce, Arm Swipes, Spin Strikes |
 | drops | Arkasid Pupa, Arkasid Carapace |
 | locations | Simforea |
 | challenges | -- Arkasid --, Good Night - Slay 3.Reward: +5% DMG; +2.5% RES, Sleep Tight - Slay 9.Reward: +5% DMG; +2.5% RES, Don't Let The Bed Bugs Bite - Slay 15.Reward: +5% DMG; +2.5% RES |
@@ -27,36 +27,43 @@ Arkasids are monsters found on [Simforea](Simforea.md), they can spawn in groups
 | Name/Danger | Description | Media |
 | --- | --- | --- |
 | 
-**Sleeping Spit Orb**
+**Paralyzing Throw**  
+(★★☆)
 
- | The Arkasid Spits a purple ball projectile at the target which ragdolls the player and inflicts a sleep effect for a short duration, this sleep effect can be negated by the Brick wall talent
+ | The Arkasid Spits a purple projectile at the target, [Ragdolling](Status_Effects.md#ragdoll) the player and inflicting [Sleep](Status_Effects.md#sleep) if it lands.
 
- |  |
-| 
-
-**Pounce**
-
- | The Arkasid pounces towards the player after a short wind up
+-   The [Sleep](Status_Effects.md#sleep) effect can be avoided by having the [Brick Wall](Talents.md#brick-wall) Talent, applying a slow instead.
 
  |  |
 | 
 
-**Arm Swipes**
+**Pounce**  
+(★☆☆)
 
- | The Arkasid swipes at the player 2 target in a quick succession
+ | The Arkasid pounces towards the player after a short wind up.
 
  |  |
 | 
 
-**Spin Strikes**
+**Arm Swipes**  
+(★★☆)
 
- | The Arkasid Spins rapidly hitting the target multiple times
+ | The Arkasid swipes at the player twice in quick succession.
+
+ |  |
+| 
+
+**Spin Strikes**  
+(★★☆)
+
+ | The Arkasid spins, rapidly hitting the target multiple times.
 
  |  |
 
 ## Tips
 
--   when fighting groups of Arkasid, block the sleeping spit orb first before attacking as they do very low posture damage and then attack them after, attacking them before doing a spit shot may result in you being put to sleep and if you dont have brickwall you will lose a considerable amount of hp from the subsequent attacks from all the Arkasids while you cannot do anything.
-    -   all the other moves also deal very low posture damage so if you cant parry them you can safely block them without worrying about getting block broken too fast.
--   use providence thorns enchant as parrying their spin strikes move with it will deal a good amount of damage back to them making them easier to kill, additionally when fighting groups they tend to attack at the same time sometimes, parrying one will lead to potentially parrying other attacks from other Arkasids at the same time via autoparry frames meaning all of the Arkasids will get damaged from prov thorns making them easier to kill.
--   Having the Brickwall talent will prevent you from being ragdolled and forced to sleep from the sleeping spit shot however you will be slowed instead.
+-   When fighting groups of Arkasids, block the **Paralyzing Throw** first before attacking as they do very low posture damage, and then attack them after. Attacking them before they use **Paralyzing Throw** may result in you being put to [Sleep](Status_Effects.md#sleep) if you dont have [Brick Wall](Talents.md#brick-wall); this will likely lead to you losing a considerable amount of Health from the subsequent attacks from all other Arkasids.
+    -   As mentioned above, having the [Brick Wall](Talents.md#brick-wall) Talent negates the [Ragdoll](Status_Effects.md#ragdoll) and [Sleep](Status_Effects.md#sleep) effects, applying a slow instead.
+-   All of the Arkasid attacks deal very low posture damage, so blocking attacks is a valid strategy.
+-   Using the [Providence Thorns](<Providence's_Thorns.md>) enchantment is recommended, as parrying their **Spin Strikes** attack with it will deal a good amount of damage back to them.
+-   [Mute](Regalia.md) does not work on Arkasids.

@@ -1,11 +1,9 @@
 ---
 title: "Warder's Attire"
-revid: 207986
+revid: 208261
 source: https://deepwoken.fandom.com/wiki/Warder's_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Outfits, Justicars]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Pathfinder Exclusive, Outfits, Unique Outfits, Justicars]
 ---
 
 # Warder's Attire
@@ -13,11 +11,10 @@ notices:
 | Warder's Attire | |
 |---|---|
 | caption | Although Warders take a more passive approach to aiding those they wish to see walk the path, they still don armor in preparation for battle, should they need to step onto the front lines. |
-| tier | ? |
-| crafting_req | ? |
-| stat_req | ? |
+| tier | Unique |
+| stat_req | Power 15 |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | durability | 2750 |
 | resistances | +30% Physical Armor , +35% Elemental Armor , +10% Blood Armor , +10% Shadow Armor |
 | buffs | +30% Ether Regen |
@@ -30,15 +27,15 @@ notices:
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-**Warder's Attire** is a ? [Outfit](Outfits.md) in _Deepwoken_ that is exclusive to the Warder path of the [Justicar](<Justicar_(Origin).md>) Origin.
+**Warder's Attire** is a Unique [Outfit](Outfits.md) in _Deepwoken_ that is exclusive to the Warder path of the [Justicar](<Justicar_(Origin).md>) Origin.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs ? and requires ? to craft.
+This Outfit has no Notes or material requirements to craft.
 
-This Outfit additionally requires ? to be crafted.
+This Outfit additionally requires the player to be Power 15 to be crafted.
 
 ### _Armor Stats_
 

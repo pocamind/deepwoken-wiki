@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 207486
+revid: 208224
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -947,6 +947,8 @@ N/A
 
 -   Grants passive tempo regeneration.
 -   Periodically covers the user in shadows, lowering visibility.
+-   Can be modified using Aeon/Eternal logstones.
+-   Lasts approx. 2 and a half minutes with 3 Aeon and 3 Eternal logstones.
 
  |
 

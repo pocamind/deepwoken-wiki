@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 208054
+revid: 208256
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with They/them pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, Diver Enemies, NPCs located in the Etrean Luminant]
@@ -141,8 +141,8 @@ Nell's arsenal consists of a [Gran Sudaruska](Gran_Sudaruska.md) along with the 
 ### Talents
 
 -   _Unyielding Frost_ - Nell can proc Chill through block, but chill procced this way has a 20% shorter duration.
--   _Perfect Flash_ - If Nell has full Health, theirMantras do 25% more damage.
--   _Impervious Slumber_ - If Nell gets hit while knocked, theirknocked timer isn't reset.
+-   _Perfect Flash_ - Having over 95% health causes Nell's mantras to do +25% damage. This damage bonus will scale down to 10% if their enemies are far away.
+-   _Impervious Slumber_ - If Nell gets hit while Unconscious, their time Unconscious isn't reset.
 -   _Frozen Legs_ - Nell's Chill effect prevents rolling for a short duration.
 -   _Saint Jay_ - If a Chilled enemy receives a heal it's then redirected to Nell instead. While this is active and they're on ice, Nell's healing is increased.
 -   _Frostbite_ - Enemies no longer heal under Chill effect.

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 206460
+revid: 208270
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits]
@@ -76,6 +76,13 @@ These Outfits are completely unobtainable.
   <td><a href="Grand_Pathfinder_Cloak.md">Grand Pathfinder Cloak</a>, <a href="Pathfinder_Arch-Sorcerer.md">Pathfinder Arch-Sorcerer</a></td>
   <td></td>
   <td></td>
+</tr>
+<tr>
+  <td><center><b><a href="The_Justicar.md">Justicars</a></b></center></td>
+  <td><a href="Justicar_Neophyte.md">Justicar Neophyte</a></td>
+  <td></td>
+  <td><a href="Justicar's_Armor.md">Justicar's Armor</a></td>
+  <td><a href="Warder's_Attire.md">Warder's Attire</a></td>
 </tr>
 <tr>
   <td><center><b><a href="Etrea.md">Etrea</a></b><p><a href="Etrea.md">Etreaiconfaction</a></p></center></td>

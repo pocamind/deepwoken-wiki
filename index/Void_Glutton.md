@@ -1,6 +1,6 @@
 ---
 title: Void Glutton
-revid: 206988
+revid: 208208
 source: https://deepwoken.fandom.com/wiki/Void_Glutton
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -17,6 +17,7 @@ categories: [Vow of Iron Exclusive, Mementos]
 | final traits | 8 Vitality, 3 Songchant, 0 Dexterity |
 | starting armor | Stranded |
 | allowed weapons | Any |
+| starting weapons | Iron Cestus, Silversix, Quickfang, Stiletto |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

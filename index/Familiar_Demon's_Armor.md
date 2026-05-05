@@ -1,6 +1,6 @@
 ---
 title: "Familiar Demon's Armor"
-revid: 206927
+revid: 208278
 source: https://deepwoken.fandom.com/wiki/Familiar_Demon's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Hallowtide]
@@ -42,7 +42,7 @@ This Outfit has 2500 durability and grants +25% Physical resistance ResistanceBl
 
 The [Demon Step](Talents.md#demon-step) Talent grants a Talent tool that when activated makes the user charge forward in a straight line, gaining i-frames. This consumes 50 Ether and deals 20% of your current posture as self-posture damage on cast with a 1 second cooldown.
 
-## Trivia/Notes
+## Trivia
 
 -   This outfit is based on Rogue Lineage's [Oni](https://rogue-lineage.fandom.com/wiki/Oni)'s armor, the Oni's Outfit.
     -   The class, outfit and Demon Step ability are all references to Akuma in the Street Fighter series.

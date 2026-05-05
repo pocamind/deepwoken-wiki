@@ -1,6 +1,6 @@
 ---
 title: "Knell, The Lunatic Resonator"
-revid: 208200
+revid: 208281
 source: https://deepwoken.fandom.com/wiki/Knell%2C_The_Lunatic_Resonator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Anansi NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, Individuals with He/him pronouns, Enemies, Bosses, Deceased characters]
@@ -37,6 +37,8 @@ Knell also hoped to one day obtain a [Resonance](Resonance.md).[\[1\]](#cite-not
 Eventually, Simforea and its inhabitants disappeared from the world. Knell was left on his lonesome and was driven mad over the centuries within the Voidsea. Though Knell avoided total loss of his mental faculties, thanks to the steady pounding of his soul, his mind became laser-focused on his desire to resonate. However, his soul had been left in a discordant state, ensuring he would never be able to attain what he so badly craved.[\[1\]](#cite-note-bestiary-1)
 
 At some point, Knell met an individual he referred to as [Ten](Ten.md), who promised him that his soul would be mended and that he would finally obtain a Resonance.
+
+Knell also used [Arkasid](Arkasid.md) husks and Simforea's native plant life to craft the [Bellmarrow Reave](Bellmarrow_Reave.md), its engravings reflecting his current state of mind.[\[6\]](#cite-note-reave-6)
 
 When Simforea drifted through the Voidsea near to the [Eastern Luminant](Luminants.md), Knell was effectively returned to the world after centuries.[\[1\]](#cite-note-bestiary-1) Witnessing [The Pathfinder](The_Pathfinder.md)'s own Resonance, a frenzied Knell believed killing them would finally put an end to his troubles. Knell attacked them and was ultimately killed in the ensuing fight.
 
@@ -188,18 +190,18 @@ Knell, The Lunatic Resonator executes his opponent after knocking them:
   <td>
   <ul>
     <li><a href="Items.md">Items</a>: <a href="Umbral_Obsidian.md">Umbral Obsidian</a></li>
-    <li><a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Void_Spire.md">Void Spire</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Remnants_of_Soul.md">Remnant of Soul</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Remnants_of_Soul.md">Remnant of Soul</a>, <a href="Void_Spire.md">Void Spire</a></li>
   </ul></td>
 </tr>
 <tr>
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a>.
+    <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a>
   <ol>
     <li><b>Light Weapons</b>:</li>
-    <li><b>Medium Weapons</b>: <a href="Bellmarrow_Reave.md"><font>Bellmarrow Reave</font></a></li>
-    <li><b>Heavy Weapons</b>: <a href="Dissonant_Chimecaller.md"><font>Dissonant Chimecaller</font></a></li>
+    <li><b>Medium Weapons</b>: <a href="Bellmarrow_Reave.md">Bellmarrow Reave</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Dissonant_Chimecaller.md">Dissonant Chimecaller</a></li>
   </ol></li>
   </ul></td>
 </tr>
@@ -208,19 +210,14 @@ Knell, The Lunatic Resonator executes his opponent after knocking them:
   <td>
   <ul>
     <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Ringing_Scholar's_Capeline.md">Ringing Scholar's Capeline</a></li>
-    <li><a href="Equipment.md#arms"><b>Arm Equipment</b></a>: <a href="Ringing_Scholar's_Raiments.md">Ringing Scholar's Raiments</a></li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Ringing_Scholar's_Raiments.md">Ringing Scholar's Raiments</a></li>
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Ringing_Scholar's_Boots.md">Ringing Scholar's Boots</a></li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Ringing_Scholar's_Necktie.md">Ringing Scholar's Necktie</a></li>
-    <li><a href="Equipment.md#rings"><b>Rings</b></a>:
-  <ol>
-    <li><b>Legendary Rings</b>: <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>,<a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>,<a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a></li>
-  </ol></li>
+    <li><a href="Equipment.md#rings"><b>Rings</b></a>: <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a></li>
   </ul></td>
 </tr>
 </tbody>
 </table>
-
-  
 
 ## Dialogue
 
@@ -292,7 +289,7 @@ Knell, The Lunatic Resonator executes his opponent after knocking them:
   <td colspan="12">Oh... I see it now. Yes... enough. Every brilliant song reaches its end!</td>
 </tr>
 <tr>
-  <td colspan="12">[End Dialogue] friendship starts</td>
+  <td colspan="12">[End Dialogue] fight starts</td>
 </tr>
 </tbody>
 </table>
@@ -332,6 +329,11 @@ Knell, The Lunatic Resonator executes his opponent after knocking them:
 -   Knell is the only entity whose title in the [bestiary](Bestiary.md) differs from their usual name.
 -   Knell and his fight appear to be heavily inspired by the boss [Widow](https://hollowknight.wiki/w/Widow) from _Hollow Knight: Silksong_. Both have extremely similar attacks with rushdown swipes, and the myriads of thrown bell attacks. The two also share a design detail of two pins lodged in their backs.
 -   Knell does not respawn after being defeated, on account of being [dead](Death.md). If one wishes to fight him again, one must ask [Yun'Shul, Keeper of Hearts](<Yun'Shul,_Keeper_of_Hearts.md>) to return him from [The Depths](The_Depths.md) to the surface via an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) or the [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
+    -   This makes Knell the only boss to permanently die in the [Pathfinder](Pathfinder.md) gamemode without player input:
+        -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Raeva Ferash Kenestos](<Kyrsgarde_Champion,_Kyrsa's_Star.md>) and the [Scion of Ethiron](Scion_of_Ethiron.md) are revived by the temporal anomalies present in [New Kyrsa](Second_Layer/New_Kyrsa.md).
+        -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md), the [Dread Serpent](Dread_Serpent.md), the [Interluminary Parasol](Interluminary_Parasol.md), and [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md) will respawn, either due to being species comprised of multiple individuals or simply for gameplay convenience.
+        -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) will escape the Depths himself.
+        -   The fights against [The Ferryman](The_Ferryman.md), the [Heart of Enmity](Heart_of_Enmity.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) and [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) are not to the death.
 
 ## References
 
@@ -340,4 +342,4 @@ Knell, The Lunatic Resonator executes his opponent after knocking them:
 3.  ↑ [3.0](#cite-ref-garb-3-0) [3.1](#cite-ref-garb-3-1) [Ringing Scholar's Garb](<Ringing_Scholar's_Garb.md>)
 4.  [↑](#cite-ref-capeline-4-0) [Ringing Scholar's Capeline](<Ringing_Scholar's_Capeline.md>)
 5.  [↑](#cite-ref-tie-5-0) [Ringing Scholar's Necktie](<Ringing_Scholar's_Necktie.md>)
-6.  [↑](#cite-ref-reave-6-0) [Bellmarrow Reave](Bellmarrow_Reave.md) description
+6.  ↑ [6.0](#cite-ref-reave-6-0) [6.1](#cite-ref-reave-6-1) [Bellmarrow Reave](Bellmarrow_Reave.md) description
