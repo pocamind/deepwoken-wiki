@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 208389
+revid: 208423
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -51,9 +51,11 @@ Justicars spawn at [Alsin's Landing](<Alsin's_Landing.md>) with the [Justicar Ne
 
 Using Justicar's Aid will allow you to choose a specific Castaway which shows their name, power, Luminant, area, and region.
 
-Helping this [Castaway](Castaway.md) progress via events, killing their [Voidwalker](Voidwalker.md), etc. will provide you with 10-35 rank points. If the [Castaway](Castaway.md) dies, or if you die, you fail in your task to protect the [Castaway](Castaway.md) and lose 50 points.
+Helping [Castaway](Castaway.md) progress via events, killing their [Voidwalker](Voidwalker.md), etc. will provide you with 15-50 rank points. If the [Castaway](Castaway.md) dies, or if you die, you fail in your task to protect the [Castaway](Castaway.md) and lose 50 points.
 
 Killing a high leveled [Voidwalker](Voidwalker.md) will award you with 50 points.
+
+Note that you are not required to use Justicar's Aid to be eligible for point gains. You can help Castaways found in the wild for this purpose.
 
 ## Promotions
 
@@ -63,7 +65,7 @@ These are the ranks you can progress through:
 2.  Disciple (155 Points / 4-16 Events)
 3.  Elder (205 Points / 6-21 Events)
     -   Upon reaching Elder, you may choose between being a Vanguard or a Warder by talking to their respective NPCs, being [Grandmaster Vanguard Legidae](Grandmaster_Vanguard_Legidae.md) in the armory and [Grandmaster Warder Sapphire](Grandmaster_Warder_Sapphire.md) in the library.
-4.  ??? / ??? (329 / 7-33 Events)
+4.  Master Vanguard / ??? (329 / 7-33 Events)
 5.  Grandmaster Vanguard / ??? (388 / 8-39 Events)
 
 ### Promotion Talents

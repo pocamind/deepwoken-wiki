@@ -1,6 +1,6 @@
 ---
 title: Gale Stone
-revid: 207898
+revid: 208428
 source: https://deepwoken.fandom.com/wiki/Gale_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Elemental Ingredients]
@@ -37,6 +37,6 @@ Gale Stones can be acquired by slaying [Enemies](Enemies.md) that use [Galebreat
 
 ## Trivia
 
--   As Gale Stones have a somewhat similar appearance to a sea shell, the fact that "a faint whisper of wind" can be heard inside them could be a reference to the way some sea shells allow one to hear the ocean.
+-   As Gale Stones have a somewhat similar appearance to a sea shell, the fact that "a faint whisper of wind" can be heard inside them could be a reference to the way some sea shells allow one to hear the ocean (or amplified ambient noise from the world around them to be specific).
 -   Due to low drop-rates along with either requiring you to kill Guards or have to hope for events instead of having a consistent mob spawn unlike the other elemental ingredients, they are notably hard to get.
 -   Can somehow be utilized to heal injured wounds, as shown with Kj's brother Isaac during the weapon unbound quest, though it is unknown to the player how to do so.

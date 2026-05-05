@@ -1,6 +1,6 @@
 ---
 title: Deepwoken OST
-revid: 206806
+revid: 208410
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OST
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, In progress with reason, InProgressPages, Deepwoken]
@@ -115,6 +115,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 4 | [Hymn Of Iron (Contour 3)](https://soundcloud.com/naktigonis/hymn-of-iron-3) | 2:11 | [The Cerebral Spire](The_Cerebral_Spire.md) and [Vow of Iron](Vow_of_Iron.md) Title Screen ([Dravik, The Rat King](Dravik,_The_Rat_King.md) defeated) |  |
 | 5 | [Hymn Of Iron (Contour 4)](https://soundcloud.com/naktigonis/hymn-of-iron-4) | 2:24 | [The Cerebral Spire](The_Cerebral_Spire.md) and [Vow of Iron](Vow_of_Iron.md) Title Screen ([True Heart of Enmity](True_Heart_of_Enmity.md) defeated) |  |
 | 6 | [Hymn Of The Worthy](https://soundcloud.com/naktigonis/hymn-of-the-worthy) | 2:27 | [Shrine of the Worthy](Shrine_of_the_Worthy.md) |  |
+| 7 | [It Tolls For Thee](https://soundcloud.com/naktigonis/it-tolls-for-thee) | 2:35 | [Knell, The Lunatic Resonator](Knell,_The_Lunatic_Resonator.md) |  |
 | TBA | Synthetic Deicide[\[1\]](#cite-note-naktimessage-1) | TBA | [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) (Death sequence) | TBA |
 | TBA | Bread And Roses[\[1\]](#cite-note-naktimessage-1)[\[2\]](#cite-note-naktimessage2-2) | TBA | [Miner's Landing](<Miner's_Landing.md>) | TBA |
 | TBA | Class Struggle[\[1\]](#cite-note-naktimessage-1) | TBA | [Miner's Landing](<Miner's_Landing.md>) (Combat) | TBA |

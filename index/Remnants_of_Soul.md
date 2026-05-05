@@ -1,6 +1,6 @@
 ---
 title: Remnants of Soul
-revid: 208037
+revid: 208419
 source: https://deepwoken.fandom.com/wiki/Remnants_of_Soul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Relics]
@@ -13,9 +13,9 @@ notices:
 | Remnants of Soul | |
 |---|---|
 | value | 200 |
-| stack | x3 |
+| stack | x1 (3 with packmule) |
 | rarity | Relic |
-| usage | Heals in an aoe around the user for roughly 5% |
+| usage | Heals in an aoe around the user for 30 HP. |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

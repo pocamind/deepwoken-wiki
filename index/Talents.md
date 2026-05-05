@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 208360
+revid: 208426
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4412,7 +4412,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Slider Style: [Karita Plating](Karita_Plating.md) - Raise the cap of how fast you are able to slide. Your [Jus Karita](Jus_Karita.md) [fighting style](Fists.md#styles) gains a new sliding crit. Its power scales on how fast you are sliding when using the critical attack.
     -   Increases the slide speed cap.
-    -   The sliding critical applies [Daze](Status_Effects.md#daze) on hit. It will additionally apply [Burn](Status_Effects.md#burn) ic you have enough momentum.
+    -   The sliding critical applies [Daze](Status_Effects.md#daze) on hit. It will additionally apply [Burn](Status_Effects.md#burn) if you have enough momentum.
 
 -   Soar: [Withered Gale Pale](Withered_Gale_Pale.md) - Retain full walkspeed while using your crit.
     -   Using your critical attack will no longer slow you.
