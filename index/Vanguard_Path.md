@@ -1,6 +1,6 @@
 ---
 title: Vanguard Path
-revid: 208216
+revid: 208397
 source: https://deepwoken.fandom.com/wiki/Vanguard_Path
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Justicar#Vanguard](Justicar%253Fredirect=no.md#vanguard)
+-   [Justicar#Vanguard Path](Justicar%253Fredirect=no.md#vanguard-path)

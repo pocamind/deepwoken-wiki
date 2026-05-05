@@ -1,6 +1,6 @@
 ---
 title: Ulysses Disii
-revid: 188368
+revid: 208403
 source: https://deepwoken.fandom.com/wiki/Ulysses_Disii
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Black Divers, The Divers, Characters mentioned in books, Individuals with unspecified pronouns]
@@ -32,9 +32,8 @@ With the interrogation concluded, Ulysses reminded Santiago that they had breach
 
 As Santiago left, they asked Ulysses if the Divers should be mounting rescue operations. Disii noted that the organization was in no position to do so due to high casualty rates and low recruitment, but mused that the potential existence of a forward operating base within the First Layer would likely give the Divers the means to do so. Ulysses pondered the effects recent events would have on the Divers before dismissing Talo.[\[1\]](#cite-note-interrogation-1)
 
-  
 Ulysses' ideas would later manifest when [Castle Light](Castle_Light.md) was erected in the First Layer.
 
 ## References
 
-1.  ↑ [1.00](#cite-ref-interrogation-1-0) [1.01](#cite-ref-interrogation-1-1) [1.02](#cite-ref-interrogation-1-2) [1.03](#cite-ref-interrogation-1-3) [1.04](#cite-ref-interrogation-1-4) [1.05](#cite-ref-interrogation-1-5) [1.06](#cite-ref-interrogation-1-6) [1.07](#cite-ref-interrogation-1-7) [1.08](#cite-ref-interrogation-1-8) [1.09](#cite-ref-interrogation-1-9) [1.10](#cite-ref-interrogation-1-10) [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md)
+1.  ↑ [1.00](#cite-ref-interrogation-1-0) [1.01](#cite-ref-interrogation-1-1) [1.02](#cite-ref-interrogation-1-2) [1.03](#cite-ref-interrogation-1-3) [1.04](#cite-ref-interrogation-1-4) [1.05](#cite-ref-interrogation-1-5) [1.06](#cite-ref-interrogation-1-6) [1.07](#cite-ref-interrogation-1-7) [1.08](#cite-ref-interrogation-1-8) [1.09](#cite-ref-interrogation-1-9) [1.10](#cite-ref-interrogation-1-10) [Book](Books.md): [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md)

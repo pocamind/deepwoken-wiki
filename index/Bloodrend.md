@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 206791
+revid: 208407
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -128,7 +128,7 @@ _Release an amalgamation of your blood._
  |
 | 
 
-25 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -167,7 +167,7 @@ _Conjure a bloody cross._
  |
 | 
 
-25 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -204,7 +204,7 @@ _Conjure a scythe of blood and swing._
  |
 | 
 
-50 Ether [IconEther](Ether.md)
+65 Ether [IconEther](Ether.md)
 
  | 
 
@@ -239,7 +239,7 @@ _Create stakes of blood._
  |
 | 
 
-25 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -318,7 +318,7 @@ _Release blood daggers. Recast to call them._
  |
 | 
 
-30 Ether [IconEther](Ether.md)
+65 Ether [IconEther](Ether.md)
 
  | 
 
@@ -427,7 +427,7 @@ _Create a giant blood beam._
  |
 | 
 
-40 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -537,7 +537,7 @@ _Charge up a strong punch infused with your blood._
  |
 | 
 
-35 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -620,7 +620,7 @@ _Summon the Bloodtide and perform a sacrificial judgement._
  |
 | 
 
-80 Ether [IconEther](Ether.md)
+100 Ether [IconEther](Ether.md)
 
  | 
 
@@ -691,7 +691,7 @@ _Create or jump into a pool of blood._
  |
 | 
 
-35 Ether [IconEther](Ether.md)
+80 Ether [IconEther](Ether.md)
 
  | 
 

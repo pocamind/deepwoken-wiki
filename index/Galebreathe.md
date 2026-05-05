@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 207022
+revid: 208396
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -110,7 +110,7 @@ _Shoots out an air blast._
  |
 | 
 
-20 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -152,7 +152,7 @@ _Kick a gust of wind forward, if it hits an enemy leap into the air and launch 3
  |
 | 
 
-50 Ether [IconEther](Ether.md)
+65 Ether [IconEther](Ether.md)
 
  | 
 
@@ -190,7 +190,7 @@ _Slicing blades of wind. If casted while slide-jumping, perform a spinning slice
  |
 | 
 
-40 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -310,7 +310,7 @@ _Form a punch of wind in your fist and release it._
  |
 | 
 
-60 Ether [IconEther](Ether.md)
+55 Ether [IconEther](Ether.md)
 
  | 
 
@@ -350,7 +350,7 @@ _Toss a wind landmine._
  |
 | 
 
-40 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -391,7 +391,7 @@ _A rushing current of wind._
  |
 | 
 
-15 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -604,7 +604,7 @@ Wind [ResistanceGalebreathe](Galebreathe.md) + Blunt ResistanceBlunt
 -   Has a base damage of 6/6.9/7.8/8.7/9.6 per level, per hit (5). The first hit has 2.75 Galebreathe scaling while the last three have 5 Galebreathe scaling.
 -   Deals 5 posture damage and cancels when blocked (even if it guard breaks).
 -   Has a windup of 0.5 seconds with a 14 second cooldown.
--   Gems apply ONLY to the last hit, making Bloodless' healing very low.
+-   Gems apply ONLY to the last hit, making [Bloodless](Bloodless_Gem.md)' healing very low.
 -   Pressing F during the animation lets you kick your opponent down into the ground, applying daze and knockdown.
 -   Gives I-Frames to yourself and your opponent throughout the duration of the Mantra.
 -   Can vent during the mantra, however, this does not cancel it.
@@ -628,7 +628,7 @@ _A quick swirl of sharp winds._
  |
 | 
 
-40 Ether [IconEther](Ether.md)
+55 Ether [IconEther](Ether.md)
 
  | 
 
@@ -752,7 +752,7 @@ _Gaining inspiration from the Duke of Erisia, call forth a malicious gale from y
  |
 | 
 
-70 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 

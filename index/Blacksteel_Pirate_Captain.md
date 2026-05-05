@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pirate Captain
-revid: 205366
+revid: 208399
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pirate_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -10,7 +10,7 @@ categories: [Enemies]
 
 | Blacksteel Pirate Captain | |
 |---|---|
-| health | TBA |
+| health | 3000 |
 | drops | Darkalloy Greatsword, Blacksteel Pauldrons, Blacksteel Helm |
 | weapon | Darkalloy Greatsword |
 | moves | Assault, Critical, Umbral Slash, Eclipse Kick, Shade Bringer, Pressure Blast, Shadow Assault, Shadow Roar |
