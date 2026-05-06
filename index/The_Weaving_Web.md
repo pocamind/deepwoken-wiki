@@ -1,6 +1,6 @@
 ---
 title: The Weaving Web
-revid: 202755
+revid: 208662
 source: https://deepwoken.fandom.com/wiki/The_Weaving_Web
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons with Unique Animations, "Core-Attribute based weapons", Event Item, Hallowtide, Medium Weapons]
@@ -46,7 +46,7 @@ The critical has a cooldown of **45 seconds**.( 35 if you have war master medall
 
 ### Notes
 
--   The spiderling likely has the same AI as the normal mobs which means that they will not attack anything by default unless it's a player or a golem enemy.
+-   The spiderling likely has the same AI as the normal mobs which means that they will not attack anything by default unless it's a player or a [golem](Rock_Golem.md) enemy.
     -   The player can gain EXP when it is killed.
 -   The spiderling can be hit to gain [Chain of Perfection](Talents.md#chain-of-perfection) stacks.
 -   The spiderling can attack other mobs, but sometimes you need to hit it to do anything.

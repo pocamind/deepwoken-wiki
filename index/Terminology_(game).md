@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 205581
+revid: 208648
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -20,7 +20,7 @@ _adjective_
 
 1.  A player that uses high-quality equipment yet lacks the skill to back it up.
     1.  Also: a player that uses high-quality equipment, especially that obtained in the endgame, whose skill is low enough to presume they did not earn it themselves.
-    2.  Ex. "I just killed some boosted trash when they tried to gank me earlier"
+    2.  Ex. "I just killed some boosted trash when they tried to [gank](#gank) me earlier"
 2.  A player that needs help from friends cause he cannot fight a boss or beat a mob without their help.
 
 Usage of the term makes the assumption that the player being referenced was 'boosted up' by being given good items by more experienced friends of theirs. This term originates from Rogue Lineage, which is why it makes more sense in there as in Rogue you can much more easily get "Boosted".
@@ -50,7 +50,7 @@ _noun_
 
 1.  A newly created character, usually wearing the [Stranded](Stranded.md), [Diver Apprentice](Diver_Apprentice_Robes.md), or [Whaler Initiate](Whaler_Initiate.md) outfit. The threshold for the maximum power level for being classified as a freshie differs, but is usually around Power 6.
 2.  A player who is new to Deepwoken.
-    1.  Ex. "I saw a freshie get ganked earlier, they didn't stand a chance."
+    1.  Ex. "I saw a freshie get [ganked](#gank) earlier, they didn't stand a chance."
     2.  Ex. "The freshie from lower erisia tried to fight a sharko but, cause of his skill issue, he got crushed"
 
 ### Health pack
@@ -62,8 +62,8 @@ _noun_
     2.  If it's during the [Scion of Ethiron](Scion_of_Ethiron.md) fight, it refers to the [Kyrsgarde](Kyrsgarde.md) that spawns.
     3.  May also be used generally anywhere to refer to any easily slain mob.
 2.  A weak player or enemy who's easy to beat or bad at the game.
-    1.  Ex: "I'm not playing with you \[\[[freshie](#freshie), because you're a healthpack and you gonna die to everything"
-    2.  Ex. "No way he is so trash in ganking bro, we lost the war because of him. What a healthpack!"
+    1.  Ex: "I'm not playing with you [freshie](#freshie), because you're a healthpack and you gonna die to everything"
+    2.  Ex. "No way he is so trash in [ganking](#gank) bro, we lost the war because of him. What a healthpack!"
     3.  This usage of the term comes from the same as meaning 1 above, as players also give healthpacks, but is a less literal term and more used as an insult.
 3.  The health gained via knocking a player, humanoid, or killing a monster.
 
@@ -72,11 +72,20 @@ _noun_
 _noun_
 
 1.  Someone who often plays the game but never progresses beyond freshie level.
-    1.  Ex. "Just ganked some permafreshie, he had some good loot."
+    1.  Ex. "Just [ganked](#gank) some permafreshie, he had some good loot."
 2.  A player who is inexperienced or underskilled in _Deepwoken_.
     1.  Ex. that permafreshie died to a sharko, there's no way he can't parry a simple slash
 
 Permanent + Freshie = Permafreshie
+
+### Prog/Progging
+
+_noun_, _verb_
+
+1.  Noun: Shortened form of "Progession" of your character. Verb: Shortened form of the act of "progressing" your character. Usually used in the terms of [Powering](Power.md)/Leveling up a character or a character's build.
+    1.  Ex. "I'm progging in [starswept](The_Starswept_Valley.md) right now, wanna come with me so we can take on the big quests like [thresher regicide](King_Thresher.md)?"
+2.  Progression/Progressing outside of [Powering](Power.md)/Leveling up, be it the progression of an [Oath](Oaths.md) or etc.
+    1.  Ex. "I really hate [Authority Ensign](Authority_Ensign.md)'s prog. It's so boring and tedious! It's almost as worse as progging [Blightsurger](Oath%253A_Blightsurger.md). Almost."
 
 ## Location Terms
 
@@ -107,7 +116,7 @@ This term originated from 2D fighting games such as [_Street Fighter_](https://e
 _verb_
 
 1.  To use an attack, most often the M1 of a weapon with a high swing speed and no endlag, but without the intention of hitting the opponent. This is most often utilized to bait a parry, allowing one to typically get in a hit.
-    1.  Ex. "I fought some [boosted](#boosted) cheese build in [chime](#chime). He did nothing but airswing for two minutes and I \[\[Terminology (game)#5 Bar/\[n\] Bar|5-barred\]\] him."
+    1.  Ex. "I fought some [boosted](#boosted) cheese build in [chime](#chime). He did nothing but airswing for two minutes and I [5-barred](#5-barn-bar) him."
 
 ### Bar
 
@@ -214,6 +223,8 @@ _verb_
 1.  Killing lower powered players in the Depths.
     1.  Ex "Lets depths gank these power 3's"
 
+Is an extenion of the word "[Ganking](#gank).
+
 ### Depths Wager
 
 _verb, noun_
@@ -225,7 +236,7 @@ _verb, noun_
 
 _verb_
 
-1.  To finish a player, [enemy](Enemies.md) or [monster](Monsters.md), commonly known to players as **Gripping**.
+1.  To finish a player, [enemy](Enemies.md) or [monster](Monsters.md), commonly known to players as **[Gripping](#grip)**.
 
 ### Feint
 
@@ -241,14 +252,14 @@ _verb_
 _verb, noun_
 
 1.  To fill up a server with players that are in the same guild.
-2.  Guild that fills up a server to gank and spin back against intruders or do Hell Mode or Diluvian in the Depths.
+2.  Guild that fills up a server to [gank](#gank) and spin back against intruders or do Hell Mode or Diluvian in the Depths.
 
 ### Flourish
 
 _verb_
 
 1.  To use the fourth or otherwise final attack in your weapon's attack cycle, unique in that it knocks your opponent back by default.
-    1.  Ex. "The \[\[[freshie](#freshie) died to a single flourish from my Silentheart detonation Petra's Anchor build."
+    1.  Ex. "The [freshie](#freshie) died to a single flourish from my Silentheart detonation Petra's Anchor build."
 
 ### Gank
 
@@ -669,7 +680,7 @@ May include other stats, like Equipment rolls (see [Godroll](#godroll) above).
 _adjective_
 
 1.  (Of a build) As optimal as possible; past participle of minmax.
-    1.  Ex. "After wiping this build 43 times, it's finally minmaxed... I never want to prog again."
+    1.  Ex. "After wiping this build 43 times, it's finally minmaxed... I never want to [prog](#progprogging) again."
 2.  [Godroll](#godroll) equipment (see above).
     1.  Ex. "What's the minmaxed HP on any helmet?"
     2.  Typically less common than Godroll.

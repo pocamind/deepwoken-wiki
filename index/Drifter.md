@@ -1,6 +1,6 @@
 ---
 title: Drifter
-revid: 189578
+revid: 208685
 source: https://deepwoken.fandom.com/wiki/Drifter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -41,8 +41,6 @@ Gain a dodge instead of a parry, coming out later than a parry but gaining the a
 ## Deck of Recollection
 
 ### Starting Deck
-
-  
 
 -   Precision Hitter \[Common Talent\] **100** \- Your Basic Attack posture damage is increased by 15%.
 

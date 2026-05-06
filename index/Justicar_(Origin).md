@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 208458
+revid: 208653
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -56,7 +56,7 @@ Justicars spawn at [Alsin's Landing](<Alsin's_Landing.md>) with the [Justicar Ne
 
 Using Justicar's Aid will allow you to choose a specific Castaway which shows their name, power, Luminant, area, and region.
 
-Helping [Castaway](Castaway.md) progress via events, killing their [Voidwalker](Voidwalker.md), etc. will provide you with 15-50 rank points. If the [Castaway](Castaway.md) dies, or if you die, you fail in your task to protect the [Castaway](Castaway.md) and lose 50 points.
+Helping [Castaway](Castaway.md) progress via events, killing their [Voidwalker](Voidwalker.md), etc. will provide you with 45-50 rank points. If the [Castaway](Castaway.md) dies, or if you die, you fail in your task to protect the [Castaway](Castaway.md) and lose 50 points.
 
 Killing a high leveled [Voidwalker](Voidwalker.md) will award you with 50 points.
 
@@ -67,11 +67,11 @@ Note that you are not required to use Justicar's Aid to be eligible for point ga
 These are the ranks you can progress through:
 
 1.  Neophyte/Initiate
-2.  Disciple (155 Points / 4-16 Events)
-3.  Elder (205 Points / 6-21 Events)
+2.  Disciple (155 Points / ~3-4 Events)
+3.  Elder (205 Points / ~4-5 Events)
     -   Upon reaching Elder, you may choose between being a Vanguard or a Warder by talking to their respective NPCs, being [Grandmaster Vanguard Legidae](Grandmaster_Vanguard_Legidae.md) in the armory and [Grandmaster Warder Sapphire](Grandmaster_Warder_Sapphire.md) in the library.
-4.  Master Vanguard / Master Warder (329 / 7-33 Events)
-5.  Grandmaster Vanguard / Grandmaster Warder (388 / 8-39 Events)
+4.  Master Vanguard / Master Warder (329 / ~5-7 Events)
+5.  Grandmaster Vanguard / Grandmaster Warder (388 / ~7-8 Events)
 
 ### Promotion Talents
 
@@ -149,7 +149,7 @@ Upon taking the Warder path, you will automatically be granted [Warder's Attire.
 -   The progression is tied with helping players with no real option for solo progression, so this Origin may not appeal to those who primarily play solo.
 -   Some newer Castaways may not know about the details of this origin, and could lead to misunderstandings that could range from them being uncooperative with your help, to them mistaking a Justicar for a [Voidwalker](Voidwalker.md) that's teleporting to them, leading them to be antagonistic against said Justicar.
 -   Evil, sabotaging Castaways with ill-intent.
-    -   Some Castaways can, using [Justicar Whistle](Castaway.md#justicar-whistle) to, spawn you into [Whirlpools](Whirlpools.md) or atop of mountains to kill you, and thus lose rank. Although you do not lose any rank points in the first 10 seconds of teleporting to a Castaway.
+    -   Some Castaways can, using [Justicar Whistle](Castaway.md#justicar-whistle) to, spawn you into [Whirlpools](Whirlpools.md) or atop of mountains to kill you, and thus lose rank. Although you do not lose any rank points in the first 10 seconds of teleporting to a Castaway, and you gain a small vision of the location of your target before teleporting.
     -   Some Castaways can, using [Justicar Whistle](Castaway.md#justicar-whistle) to, bait Justicars into a trapped area with a lot of players, leading them to a quick death.
     -   These events are highly unlikely due to the majority of Castaways being newer players.
 -   Difficult to even find a castaway that isn't already being assisted.

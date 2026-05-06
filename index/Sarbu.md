@@ -1,6 +1,6 @@
 ---
 title: Sarbu
-revid: 207646
+revid: 208656
 source: https://deepwoken.fandom.com/wiki/Sarbu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, In progress with reason, InProgressPages, NPCs, NPCs located in the Etrean Luminant]
@@ -16,7 +16,6 @@ notices:
 | aspect | Gremor |
 | pronouns | He/him |
 | location | Alsin's Landing |
-| affiliation | The Justicar |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -24,7 +23,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Sarbu is a [Gremor](Gremor.md) NPC.
+Sarbu is a [Gremor](Gremor.md) NPC. He is a [Pathfinder](Glossary.md#pathfinders) who has been observing [The Justicars](The_Justicar.md) to get a better grasp of their techniques.
 
 ## Location
 

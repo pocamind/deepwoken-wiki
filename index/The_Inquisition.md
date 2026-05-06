@@ -1,6 +1,6 @@
 ---
 title: The Inquisition
-revid: 208500
+revid: 208642
 source: https://deepwoken.fandom.com/wiki/The_Inquisition
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,7 +13,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-The Inquisition is a division of [The Central Authority](The_Central_Authority.md), operating as its intelligence network, and interrogation force. [\[2\]](#cite-note-2)
+The Inquisition is a division of [The Central Authority](The_Central_Authority.md), operating as its intelligence network, and interrogation force.[\[2\]](#cite-note-2)
 
 They are tasked with serving as the Authority’s “eyes and ears,” with its members working in secrecy to uncover information. Unlike other divisions that rely on open warfare, the Inquisition works in the shadows.
 

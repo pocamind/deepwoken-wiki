@@ -1,6 +1,6 @@
 ---
 title: Konga The Third
-revid: 208443
+revid: 208650
 source: https://deepwoken.fandom.com/wiki/Konga_The_Third
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, In progress with reason, InProgressPages, NPCs, NPCs located in the Etrean Luminant, Justicars]
@@ -17,7 +17,7 @@ notices:
 | pronouns | He/him |
 | location | Alsin's Landing |
 | affiliation | The Justicar |
-| family | Konga lineage, Emiya Konga (great grandfather) |
+| family | Konga lineage[1], Emiya Konga (great grandfather) |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -97,7 +97,8 @@ If the player is a [Vangaurd Justicar](<Justicar_(Origin).md#vanguard>).
   <td colspan="6">Why would these make you faster? Seems like they would slow you down, if anything.</td>
 </tr>
 <tr>
-  <td colspan="6">I won't waste your time any longer - take these. If ya ever wanna start sliding and fighting at the same time, put em' on.</td>
+  <td colspan="6">I won't waste your time any longer - take these. If ya ever wanna start sliding and fighting at the same time, put em' on.<br>
+  [Player receives <a href="Karita_Plating.md">Karita Plating</a>]</td>
   <td colspan="6">Alright, kid, you're asking too many questions now, get on outta here.</td>
 </tr>
 <tr>
@@ -149,3 +150,7 @@ If the player is a [Vangaurd Justicar](<Justicar_(Origin).md#vanguard>).
 
 -   Konga's line about being mistaken for a "Matsu" is a reference to developer and YouTuber [Agamatsu](https://youtube.fandom.com/wiki/Agamatsu). Him being called "Gusto" is in reference to a [community meme](https://www.reddit.com/r/deepwoken/comments/1t2o4ft/amagusto/) where a user mistakenly calls him "Amagusto". This is a nod to the fact Konga's mask makes him resemble Agamatsu's profile picture.
 -   This character, as well as his great grandfather [Emiya Konga](Emiya_Konga.md), [Konga's Clutch Ring](<Konga's_Clutch_Ring.md>) and [Konga's Parka](<Konga's_Parka.md>), is primarily a reference to bcongeboy5, a tester during _Deepwoken'_s development who was notorious for spamming sliding movements and attacks.
+
+## References
+
+1.  [↑](#cite-ref-1) [Karita Plating](Karita_Plating.md) description

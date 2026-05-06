@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde Crawler
-revid: 201343
+revid: 208643
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Crawler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Floor 2, Layer 2, Monsters]
@@ -10,7 +10,7 @@ categories: [Pathfinder Exclusive, Floor 2, Layer 2, Monsters]
 
 | Kyrsan Crawler | |
 |---|---|
-| health | 3000 |
+| health | 2800 |
 | attacks | Cloaking Assault |
 | drops | Frozen Membrane, Kyrsan Schematic |
 | locations | The Sunken Railways in New Kyrsa, The Sleeping City |

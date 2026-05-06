@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 207664
+revid: 208646
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -661,7 +661,7 @@ Dialogue: [Neero](Neero.md), [Nimea](Nimea.md) | Books: [Lumen's Folklore: Volum
 
 -   Often, due to the large mountain range that runs across its middle, the side that contains the Kingdom of Etrea is known as the [Etrean Luminant](#the-etrean-luminant).
 
-Dialogue: [Hector](Hector.md), [Warden Jericho](Warden_Jericho.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [Tale of the Storm](Tale_of_the_Storm.md), [The Gideshu March](The_Gideshu_March.md) | Glossary Entries: [The Etrean Luminant](#the-etrean-luminant)
+Dialogue: [Hector](Hector.md), [Peipre](Peipre.md), [Warden Jericho](Warden_Jericho.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [Tale of the Storm](Tale_of_the_Storm.md), [The Gideshu March](The_Gideshu_March.md) | Glossary Entries: [The Etrean Luminant](#the-etrean-luminant)
 
 ### The Echelon
 

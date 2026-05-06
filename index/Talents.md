@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 208621
+revid: 208639
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -232,10 +232,10 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Gale Reflection procs upon getting hit by an enemy, granting damage reduction to the attack and placing a Gale Trap on them. The damage of the Gale Trap scales with the strength of the enemy you killed.
     -   Prerequisite: Wind Step, 50 Galebreathe
 
--   Suffocating Impact \[Common Talent, Strength, Galebreathe\] - Flourishing enemies into walls applies [Winded](Status_Effects.md#winded) and [Suffocating](Status_Effects.md#suffocate) for a short duration. (+2 Passive Agility)
+-   Suffocating Impact \[Common Talent, Strength, Galebreathe\] - Flourishing enemies into walls applies [Winded](Status_Effects.md#winded) and [Suffocating](Status_Effects.md#suffocation) for a short duration. (+2 Passive Agility)
     -   Prerequisites: 15 Strength, 35 Galebreathe
 
--   _Stifled Jump_ \[Rare Talent, Galebreathe\] - [Suffocating](Status_Effects.md#suffocate) now applies [Dazed](Status_Effects.md#dazed) if enemies jump. Suffocated PvE enemies now also get [Sluggish](Status_Effects.md#sluggish) when they are suffocated. (+2 Passive Agility)
+-   _Stifled Jump_ \[Rare Talent, Galebreathe\] - [Suffocating](Status_Effects.md#suffocation) now applies [Dazed](Status_Effects.md#dazed) if enemies jump. Suffocated PvE enemies now also get [Sluggish](Status_Effects.md#sluggish) when they are suffocated. (+2 Passive Agility)
     -   The Daze effect lasts for 1 second.
     -   The Sluggish status effect applies a -15% damage debuff to affected targets.
     -   Prerequisite: Suffocating Impact
@@ -606,7 +606,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), use Sovereign State while in combat 67 times
 
 -   Blight Pierce \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md)\] - Your Blightshock attacks pierce through your enemies hyperarmor and gain more penetration.
-    -   Blightshock now works similar to regular [Shock](Status_Effects.md#shock), canceling hyperarmor.
+    -   [Blightshock](Status_Effects.md#blightshock) now works similar to regular [Shock](Status_Effects.md#shock), canceling [Hyperarmor](Status_Effects.md#hyperarmor).
     -   Sovereign Bangle, the Blightsurger exclusive weapon, and Blightsurge Mantras gain +?% more PEN.
     -   This Talent is bugged and currently does not work.
     -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), use Sovereign State while in combat 37 times
@@ -1002,7 +1002,6 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisite: 30 Frostdraw
 
 -   Spike Traps \[Common Talent, Frostdraw\] - Press F during the wind up of your [Ice Spikes](Frostdraw.md#ice-spikes) to create traps around you instead of spawning a spike in the normal spot.
-    -   Activated by holding your block key during the windup of Ice Spikes.
     -   Activates a spike upon being stepped on.
     -   There are small, blue, transparent "traps" indicating the hitboxes, placed randomly around the user.
     -   Can stack multiple times, allowing for very high amounts of traps in one spot.
@@ -1121,7 +1120,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Death Speaker
 
 -   Blackhole \[Common Talent, Shadowcast\] - Your singularity pulls everyone nearby in.
-    -   Pulls anyone nearby in a medium sized aoe to the closest opponent you hit with a shadow mantra. (AoE range can be seen here: [https://medal.tv/pl/games/roblox/clips/kaEeJDfoPtIlVOVBF](https://medal.tv/pl/games/roblox/clips/kaEeJDfoPtIlVOVBF))
+    -   Pulls anyone nearby in a medium sized aoe to the closest opponent you hit with a Shadow Mantra.
     -   Prerequisites: Singularity, 60 Shadowcast, [Power](Power.md) 13
 
 -   Energy Siphon \[Common Talent, Shadowcast\] - Your singularity now pulls ether from extra players affected by Blackhole.
@@ -1883,7 +1882,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   Agitating Spark \[Common Talent, Flamecharm\] - Applying [Burning](Status_Effects.md#burn) to enemies spreads to to anyone nearby. Including yourself.
     -   On proc, a small orange particle will trail between the burning target you hit and other targets nearby, setting them on fire.
     -   Agitating Spark bypasses block and parry.
-    -   Agitating Spark procs caused by self damage will not apply burn. Flame Within is an exception to this.
+    -   Procs on self damage.
     -   Has a 1 second cooldown.
     -   Can spread to allies. The Controlled Combustion Talent will prevent Agitating Spark spreading burn to yourself and your allies.
     -   Prerequisite: 40 Flamecharm
@@ -2430,7 +2429,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Meditative Trance
 
--   _Impervious Slumber_ \[Rare Talent, Fortitude\] - Getting hit while [Unconscious](Status_Effects.md#unconscious) no longer resets your time [Unconscious.](Status_Effects.md#unconscious)
+-   _Impervious Slumber_ \[Rare Talent, Fortitude\] - Getting hit while [Unconscious](Status_Effects.md#unconscious) no longer resets your time [Unconscious](Status_Effects.md#unconscious).
     -   Prerequisite: 35 Fortitude
 
 ### Mental Fortress
@@ -3303,15 +3302,14 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Can proc your weapon's [Enchantment](Enchantments.md), putting Silentheart Enchant procs on cooldown for 30 seconds.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
--   Rising Star \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - Press CTRL + M2 to activate a special uppercut attack.
-    -   Instead of being binded to M2, it's actually binded to your feint key. Meaning if you've changed your Feint keybind off M2, M2 will no longer proc Rising Star.
+-   Rising Star \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - Press Ctrl + M2 to activate a special uppercut attack.
     -   Procs all "on uppercut" Talents.
     -   Movesets and damage differ depending on the weapon type; Light, Medium, or Heavy.
     -   Can proc your weapon's [Enchantment](Enchantments.md), putting Silentheart Enchant procs on cooldown for 30 seconds.
     -   12s CD per **weapon type**, meaning if you swap weapon types you can use multiple different versions of Rising Star back to back.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
--   Silent Cascade \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - Landing physical attacks on an opponent charges up your Silent Cascade, a devastating barrage that can be released with CTRL + M2.
+-   Silent Cascade \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - Landing physical attacks on an opponent charges up your Silent Cascade, a devastating barrage that can be released with Ctrl + M2.
     -   Landing 8 weapon attacks or Silentheart abilities will grant the Silent Cascade status effect for 30 seconds.
     -   Your next uppercut while you have the Silent Cascade status effect will perform the Silent Cascade attack.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
@@ -3558,7 +3556,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   None Left Behind \[Common Talent, Agility\] - You can now shadestep to pick up [Unconscious](Status_Effects.md#unconscious) humanoids far away from you. (+1 Passive Agility)
     -   15 second cooldown.
-    -   Utilizing the 'Carry' action on a knocked entity who's in close/medium range teleports you to them.
+    -   Utilizing the 'Carry' (V) action on a knocked entity who's in close/medium range teleports you to them.
     -   Can be used to go through walls if you can aim at the knocked entity through it.
     -   Prerequisites: Dustlunge, 100 Agility
 
@@ -3709,7 +3707,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Thief
 
--   Cap Artist \[Common Talent, Agility, Charisma\] - Pressing comma while crouching allows you to fake being dead. You also take a bit less damage from PvE while ragdolled as well. (+2 Passive Agility)
+-   Cap Artist \[Common Talent, Agility, Charisma\] - Pressing Comma while crouching allows you to fake being dead. You also take a bit less damage from PvE while ragdolled as well. (+2 Passive Agility)
     -   Your eyes are still open, your name is still visible and you do not leave a loot bag.
     -   Cap Artist's activation keybind can be configured in settings.
     -   Cancelled by pressing the activation key again.
@@ -4099,7 +4097,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Reality Shift \[Oath Talent, [Visionshaper](Oath%253A_Visionshaper.md)\] - Command the closest conjured servant to attack their hallucinating target, either using a Critical Attack or a Mantra.
     -   The last non-Oath mantra or critical attack you used before spawning your clones will be stored into the clone. The stored ability will be listed above the clone's head in white text with a purple outline.
-    -   Pressing J (can be rebinded in settings) or utilizing the Reality Shift tool will make your clones use their stored ability.
+    -   Pressing J or utilizing the Reality Shift tool will make your clones use their stored ability.
     -   Clones created from Mirror Illusion or Illusory Counter's Reversal Spark will copy your opponent's last used critical or Mantra instead.
     -   If the clone is too far away from your opponent upon using Reality Shift, they will teleport to them.
     -   Clones will copy your attunement path and mantra modifiers when utilizing your mantras, but they do **not** utilize your enchants or most Talents.
@@ -5174,7 +5172,7 @@ Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. These 
     
     -   Gives a Talent tool that allows you to fly. This flight will passively drain your Heartfire Gauge. Using the wings with an empty Heartfire Gauge will set you on fire.
     -   Attempting to use this during the [Rat King](Dravik,_The_Rat_King.md) fight will cause him to use the Sparkle Blitz move.
-    -   While flying, hold Space to ascend, CTRL to descend, and Q to speed up.
+    -   While flying, hold Space to ascend, Ctrl to descend, and Q to speed up.
     -   Prerequisites: [Solborn](Solborn.md) Memento, defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
 
 ### Immolator
@@ -5519,7 +5517,7 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
 
 ### Toxic Personality
 
--   Compelling Offer \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Any charmed enemy below 50% hit with your mantras or critical will mysteriously begin attacking everyone but you. \[[Madness](Status_Effects.md#madness)\] Your [taunt](Attunement-less.md#taunt) also now functions as a counter that stacks damage multipliers with every successful taunt.
+-   Compelling Offer \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Any charmed enemy below 50% hit with your mantras or critical will mysteriously begin attacking everyone but you. \[\[\[Status Effects#Madness|Madness\]\]\] Your [taunt](Attunement-less.md#taunt) also now functions as a counter that stacks damage multipliers with every successful taunt.
     
     -   Madness from this Talent procs when attacking charmed enemies who are below 50% health.
     -   Madness prevents non-boss enemies from dealing damage and hitstunning you.

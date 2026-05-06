@@ -1,6 +1,6 @@
 ---
 title: Cathedral of the Interstice
-revid: 207028
+revid: 208644
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_the_Interstice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]
@@ -75,7 +75,7 @@ Some things can add extra Difficulty Score, alongside making the Trial a bit har
 | 20-29 | [Power](Power.md) 7-9 | [Hollow Angel](Hollow_Angel.md) |
 | 30-39 | [Power](Power.md) 10-13 | [Megalodaunt](Megalodaunt.md) (which has chances of being [Corrupted](Monsters.md#scyphozia)) |
 | 40-49 | [Power](Power.md) 14-16 | [Corrupted](Monsters.md#scyphozia) [Megalodaunt](Megalodaunt.md) |
-| 50-79 | [Power](Power.md) 17-20 | [Enforcer](Enforcer.md) (Low chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
+| 50-79 | [Power](Power.md) 17-20 | [Enforcer](Enforcer.md) (Very Rare chance for a [Nautilodaunt](Nautilodaunt.md)) |
 | 80+ | [Power](Power.md) 20 + 20 drowns | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](King_Thresher.md), or [Fury Nautilodaunt](Fury_Nautilodaunt.md).  
 The number of Monsters that the player will have to fight will increase with how many people are in the trial, but the waves will always remain at 2. |
 | 5 or more players, one having a Difficulty Score of 60+ | 5 players, at least 1 with [Power](Power.md) 20 | [Heart of Enmity](Heart_of_Enmity.md), a boss for punishing those escaping the Depths in sheer numbers |
