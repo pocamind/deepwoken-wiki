@@ -1,11 +1,9 @@
 ---
 title: Sancticar
-revid: 208666
+revid: 208711
 source: https://deepwoken.fandom.com/wiki/Sancticar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons, Weapons with Talents]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons, Weapons with Talents]
 ---
 
 # Sancticar
@@ -14,12 +12,13 @@ notices:
 |---|---|
 | type | Staff |
 | damage type | Blunt |
+| requirements | N/A |
 | damage | 19.5 |
-| scaling | 6.5 |
+| scaling | MED: 6.5 |
 | posture damage | 6 |
 | range | 8 Sweep |
 | swing speed | 0.92x |
-| attack duration | .7s |
+| attack duration | 0.7s |
 | penetration | 15% |
 | talent | Both Ends - Pressing M2 after landing a light attack with the staff performs a follow-up swing from the opposite end. |
 | weight | 2 |
@@ -32,7 +31,7 @@ notices:
 
 ## Description
 
-The Sancticar is a [Staff](Weapons.md) weapon in the Medium category. It has no requirements.
+The Sancticar is a [Staff](Weapons.md) weapon in the Medium category.
 
 ## Obtainment
 

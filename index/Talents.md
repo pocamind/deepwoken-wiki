@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 208639
+revid: 208700
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2861,7 +2861,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   _Rending Needle: Augmenter_ \[Rare Talent, Ironsing, Weapon\] - If an enemy has 5 or more rods, your Ironsing Pull will use their rods to form a powerful sword to attack with. This also makes your [Metal Armament](Ironsing.md#metal-armament) stronger while the weapon is equipped.
     -   Equips the [Metal Greatsword](Metal_Greatsword.md) weapon on proc.
     -   Having Metal Greatsword equipped increases your Metal Armament damage by 50%.
-    -   Metal Greatsword lasts 10 seconds before reverting to your original weapon.
+    -   Metal Greatsword lasts a maximum of 30 seconds before reverting to your original weapon.
     -   Maximum amount of Iron Rods you can apply to a single target is 5.
     -   Prerequisites: 90 Ironsing, 90 Weapon (90 Medium // 90 Light // 90 Heavy)
     -   Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Impaler, Rending Needle: Jailer, Gilded Path: Scrapsinger

@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 208657
+revid: 208708
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Character, Mechanics, Creation, Origins, Features absent in Vow of Iron]
@@ -60,9 +60,7 @@ This content is not accessible outside of this gamemode.
 
 **Origins** are a feature in _Deepwoken_ that provide the player with certain gear and allegiances on spawn, depending on which Origin is chosen. These can affect how you play the game in different ways, with most Origins having a preferred progression method. You **CANNOT** change your Origin _mid progression_, as Origins can only be chosen from Character Creation; you will need to **WIPE** in order to pick a new Origin.
 
-The player starts out having only the **[Castaway](Castaway.md)** origin, with the other origins being unlocked once the player achieve specific requirements.
-
-A brief overview of the all origins. Obtainment methods for specific origins alongside a more descriptive overview can be viewed on their respective pages.
+The player starts out having only the **[Castaway](Castaway.md)** origin, with the other origins being unlocked once the player achieve specific requirements. Below is a brief overview of all the origins. A more descriptive overview can be found on their respective pages
 
 -   [Castaway](Castaway.md): The starter origin, unlocked by default for everyone.
     -   As a starter origin, Castaway gives neither benefits nor drawbacks in regards to [progression](<Terminology_(game).md#progprogging>).
@@ -71,19 +69,17 @@ A brief overview of the all origins. Obtainment methods for specific origins alo
     -   Castaways can spawn in either [Etris](Etris.md) or [Isle of Vigils](Isle_of_Vigils.md).
 
 -   [Lone Warrior](Lone_Warrior.md): An origin much like Castaway, but with the twist that they spawn directly in the [Trial of One](Trial_of_One.md).
-    -   While other origins, excluding deepbounds, may partake in the Trial of One, only Lone Warriors gain these boons.
-        -   If Lone Warriors complete the Trial of One, they will be given the [Mark of the Lone Warrior](Talents.md#mark-of-the-lone-warrior) Talent, which increases experience gain while solo, and grants a 5% damage boost if your opponent has equal to or less [Combat Tags](Combat_Tag.md) than you. This Talent deactivates when any of your allies is in your server.
+    -   While other origins, excluding Deepbounds, may partake in the Trial of One, only Lone Warriors gain these boons.
         -   Lone Warriors gain exclusive access to the [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md) inside the Trial of One.
+        -   If Lone Warriors complete the Trial of One, they will be given the [Mark of the Lone Warrior](Talents.md#mark-of-the-lone-warrior) Talent, which increases experience gain while solo, and grants a 5% damage boost if your opponent has equal to or less [Combat Tags](Combat_Tag.md) than you. This Talent deactivates when any of your allies is in your server.
     -   Lone Warriors do not get access to the [Justicar Whistle](Castaway.md#justicar-whistle).
-    -   Lone Warriors spawn directly and only in the [Trial of One](Trial_of_One.md).
+    -   Lone Warriors spawn directly and only in the [Trial of One](Trial_of_One.md), which itself is in [Minityrsa](Minityrsa.md).
 
 -   [Deepbound](Deepbound.md): An origin centered around the [First Layer](First_Layer.md) of [The Depths](The_Depths.md).
     -   Deepbounds get an experience boost while farming in the depths, while farming outside of it will net them reduced experience points.
-    -   Deepbounds also gain exclusive access to the various amenities in [Castle Light](Castle_Light.md) (banker, campfire stove, antiquarian, etc.)
+    -   Deepbounds also gain exclusive access to the various amenities and benefits inside [Castle Light](Castle_Light.md).
         -   While anyone can enter Castle Light, if they entered the depths by dying/drowning, instead of through a [Whirlpool](Whirlpools.md), they will not be able to enter Castle Light due to the yellow barrier in front of it. But a deepbound can still enter Castle Light even if they die to enter the depths.
-    -   Deepbounds gain a Talent Tool called [Call of the Deep](Deepbound.md#call-of-the-deep).
-        -   Using Call of the Deep in the depths will teleport them to Castle Light.
-        -   Using Call of the Deep in the overworld will bring them to the depths.
+    -   Deepbounds gain a Talent Tool called [Call of the Deep](Deepbound.md#call-of-the-deep): Using it in the depths will teleport them to Castle Light, while using it in the overworld will bring them to the depths.
     -   Deepbounds can spawn in either [Castle Light](Castle_Light.md) or near [The Diluvian Mechanism](The_Diluvian_Mechanism.md), and they are affiliated with [The Divers](The_Divers.md).
 
 -   [Voidwalker](Voidwalker.md): An origin centered around PvP, incentivizing fighting and killing other players. It is the Justicar origin's counterpart.
@@ -99,18 +95,16 @@ A brief overview of the all origins. Obtainment methods for specific origins alo
 
 -   [Ignition Delver](Ignition_Delver.md): An origin centered around jobs ([Job Boards](Job_Boards.md)), events ([Random Encounters](Random_Encounters.md)), and [Dungeons](Dungeons.md).
     -   Ignition Delvers get an experience boost from dungeons and jobs, with the drawback of gaining reduced experience points from everything else.
-    -   Ignition Delvers gain exclusive access to the [Union Pager](Ignition_Delver.md) item, which allows them to access jobs from every job board on the map, much like voidwalkers and their bounties.
+    -   Ignition Delvers gain exclusive access to the [Union Pager](Ignition_Delver.md) item, which allows them to access jobs from every job board on the map remotely, much like Voidwalkers and their bounties.
     -   Ignition Delvers also gain exclusive access to the [Hollow Forge](Hollow_Forge.md), which allows them to craft various [Relics](Relics.md) with recipes that wouldn't be accessible without it. Only Ignition Delvers have access to this.
-    -   Ignition Delvers also gain exclusive access to the Deep Driller in [The Chariot's Spire](<The_Chariot's_Spire.md>), which allows them to reenter [Layer 2](Second_Layer.md) at [The Frontier Furnace](The_Frontier_Furnace.md) with the generator already turned on.
-        -   They can bring 4 other players with them, and this entrance method provides them with no access to the [Light Hook](Light_Hook.md).
-        -   This can only be unlocked once the ignition delver has already escaped the second layer using the deep driller already.
-        -   Ignition Delvers also spawn with the [Union Hook](Talents.md#union-hook) Talent from the beginning, allowing them to use [Union Hooks](Union_Hooks.md) without having to do the quest for it first.
-    -   Ignition Delvers gain exclusive access to the various amenities at [The Chariot's Spire](<The_Chariot's_Spire.md>) (banker, antiquarian, passive sanity regen, etc.)
-        -   Note: While anyone can enter the chariot's spire, if they entered the depths by dying/drowning, instead of through a [Whirlpool](Whirlpools.md), they will not be able to enter the chariot's spire due to the yellow barrier in front of it. An Ignition Delver will be subject to the same fate, unlike deepbounds and their Castle Light.
+    -   Ignition Delvers spawn with the [Union Hook](Talents.md#union-hook) Talent from the beginning, allowing them to use [Union Hooks](Union_Hooks.md) without having to do the quest for it first.
+    -   Ignition Delvers gain exclusive access to the various amenities and benefits at [The Chariot's Spire](<The_Chariot's_Spire.md>).
+        -   Note: While anyone can enter The Chariot's Spire, if they entered the depths by dying/drowning, instead of through a [Whirlpool](Whirlpools.md), they will not be able to enter the chariot's spire due to the yellow barrier in front of it. An Ignition Delver will be subject to the same fate, unlike Deepbounds and their Castle Light.
+        -   Ignition Delvers also gain exclusive access to the Deep Driller in [The Chariot's Spire](<The_Chariot's_Spire.md>), which allows them to reenter [Layer 2](Second_Layer.md) alongside 4 others without a [Light Hook](Light_Hook.md), starting at [The Frontier Furnace](The_Frontier_Furnace.md) with the generator already turned on, though this can only be done if the Ignition Delver has already escaped the second layer using the deep driller already.
     -   Ignition Deepdelvers can spawn in either [Miner's Landing](<Miner's_Landing.md>) in the eastern luminant or [The Chariot's Spire](<The_Chariot's_Spire.md>) in the depths, and they are affiliated with [The Ignition Union](The_Ignition_Union.md).
 
--   [Authority Ensign](Authority_Ensign.md): An origin centered becoming a "rank and file" soldier of [The Central Authority](The_Central_Authority.md) faction. It is one of the most unique and complex origins in the game.
-    -   Authority Ensigns gain the ability to jail players after they have ranked up once. This replaces manual [gripping](<Terminology_(game).md#grip>). The jailed player will be imprisoned in [Fort Merit](Fort_Merit.md), and they will not lose a life. However, they will be scheduled for **execution** in 10 minutes, which drowns them into the depths if they do not escape within the time limit.
+-   [Authority Ensign](Authority_Ensign.md): An origin centered becoming a "rank and file" soldier of [The Central Authority](The_Central_Authority.md) faction.
+    -   Authority Ensigns gain the ability to jail players after they have ranked up once. This replaces manual [gripping](<Terminology_(game).md#grip>). For more information, visit the [Escaping Jail](Fort_Merit.md#escaping-jail) page.
     -   Authority Ensigns also gain the Talent Tool [Horn of Authority](Authority_Ensign.md#horn-of-authority), which allows them to mark escaping prisoners when it is blown near them, applying a [Combat Tag](Combat_Tag.md) onto them.
     -   Authority Ensigns have access to [promotions](Authority_Ensign.md#promotions) and [divisions](Authority_Ensign.md#divisions). This is much like Justicar's Paths.
         -   Authority Ensigns can do [authority missions](Authority_Ensign.md#progression) to progress. This gives ample experience points, alongside 3-5 Full Training points (its amount varies by rank, giving more to higher ranks) and raises points to the promotion point count. Once the Ensign reaches a specific threshold of promotion points, the points will be reset, and they will be promoted one rank.

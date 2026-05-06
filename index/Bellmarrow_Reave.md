@@ -1,6 +1,6 @@
 ---
 title: Bellmarrow Reave
-revid: 208634
+revid: 208703
 source: https://deepwoken.fandom.com/wiki/Bellmarrow_Reave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Medium Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals"]
@@ -35,7 +35,7 @@ categories: [Weapons, Twinblades, Medium Weapons, Weapons with Unique Criticals,
 
 ## Description
 
-The Bellmarrow Reave is a [Twinblade](Twinblades.md) weapon in the Medium category. The weapon is covered in jingle bells.
+The Bellmarrow Reave is a [Twinblade](Twinblades.md) weapon in the Medium category. The weapon is covered in round bells.
 
 ## Critical
 

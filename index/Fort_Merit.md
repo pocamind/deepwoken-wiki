@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 200327
+revid: 208707
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Territory of The Central Authority]
@@ -115,6 +115,22 @@ For more information, watch [this video](https://www.youtube.com/watch?v=eaygZAb
 -   With her assistance, you will have to fight 6 [Authority peacekeepers](Authority_Peacekeeper.md).
 -   Gripping at least five signifies that you have completed the quest.
 -   Return to Meteor Isle and gain 2 [knowledge](Knowledge.md).
+
+### Escaping Jail
+
+-   To get jailed or imprisoned in [Prison Tower](#prison-tower) inside Fort Merit in the first place, the player must either:
+    -   Get [gripped](<Terminology_(game).md#grip>) by an [Authority Ensign](Authority_Ensign.md), or
+    -   Talk to specific NPCs while having bad [Reputation](Reputation.md) with [The Central Authority](The_Central_Authority.md).
+        -   For the list of NPCs with this effect: [Chud Steel](Chud_Steel.md), [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md), [High Inquisitor Merey](High_Inquisitor_Merey.md), [Sentinel Augustus](Sentinel_Augustus.md), and [Warden Jericho](Warden_Jericho.md)
+-   The player will not lose a life, nor their items, upon being imprisoned.
+-   While imprisoned, the player automatically equipped with [Handcuffs](Handcuffs.md), which has the following effects:
+    -   The player cannot use any mantras, and they can only perform light attacks and critical.
+    -   The player will be put in a PvE [Combat Tag](Combat_Tag.md) forever, until the Handcuffs are unequipped.
+    -   The player will be teleported back to prison whenever their health reaches 0. This heals them back to full health, and resets the timer.
+-   If the player does not escape prison within 5 minutes or 600 seconds, their execution will automatically commense, killing/drowning them and teleporting them to [The Depths](The_Depths.md) with an animation.
+-   To escape prison and its impending execution, the player must perform 2 actions:
+    1.  Use their [Handcuffs](Handcuffs.md) to break a weak part of the cell. It could be a wall or the iron bars. The breakable object will make a sound upon being swung upon, so use that noise cue to figure out which is the breakable object. This step might take over 1 minute.
+    2.  While avoiding capture and death, the player must seek out any [Blacksmith](Blacksmith.md) or the [Etrean Guardmaster](Etrean_Guardmaster.md) to remove their handcuffs. Note that Blacksmiths will only remove your handcuffs if you have at least neutral [Reputation](Reputation.md) with their associated faction in their location. So if you have bad reputation with [The Central Authority](The_Central_Authority.md), try going to [Greathive Aratel](Greathive_Aratel.md).
 
 ## NPCs
 

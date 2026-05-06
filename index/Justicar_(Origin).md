@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 208653
+revid: 208716
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -59,6 +59,8 @@ Using Justicar's Aid will allow you to choose a specific Castaway which shows th
 Helping [Castaway](Castaway.md) progress via events, killing their [Voidwalker](Voidwalker.md), etc. will provide you with 45-50 rank points. If the [Castaway](Castaway.md) dies, or if you die, you fail in your task to protect the [Castaway](Castaway.md) and lose 50 points.
 
 Killing a high leveled [Voidwalker](Voidwalker.md) will award you with 50 points.
+
+Killing a World Boss will award you with 74 points.
 
 Note that you are not required to use Justicar's Aid to be eligible for point gains. You can help Castaways found in the wild for this purpose.
 

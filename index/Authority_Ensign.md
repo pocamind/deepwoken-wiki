@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 208651
+revid: 208706
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -38,7 +38,7 @@ Members of the Authority Ensign spawn at [Port Merit](Port_Merit.md) with the [A
 
 Your guild will be automatically set to The Central Authority on that character, allying you with all members of the same Origin. Your guild will reset back to normal if you wipe or get Exiled from the Authority. Your guild being changed is somewhat only a visual change; while you won't be able to use the [Chime of Dwelling](Chime_of_Dwelling.md), if you claim a [Guild Banner](Guild_Banners.md), it will still be under your Guild. You can also still interact with all of your Guild Base NPCs and respawn at your [Guild Base](Guild_Bases.md).
 
-After ranking up once, you gain the ability to jail players. If you manually grip a player, they will be imprisoned at [Fort Merit](Fort_Merit.md). This does not kill them (no life lost and no loot dropped), however, they'll be scheduled for execution in 10 minutes, drowning them and sending them to [The Depths](The_Depths.md) if they did not manage to escape.
+After ranking up once, you gain the ability to jail players. If you manually grip a player, they will be imprisoned at [Fort Merit](Fort_Merit.md). This does not kill them (no life lost and no loot dropped), however, they'll be scheduled for execution in 5 minutes, drowning them and sending them to [The Depths](The_Depths.md) if they did not manage to escape. Visit the [Escaping Jail](Fort_Merit.md#escaping-jail) page for a more detailed description.
 
 Gain the Salute [Emote](Emotes.md). All Ensigns will have an Authority insignia above their head to signify their rank, though your own insignia will be invisible to you. Most Authority-related equipments and weapons can be equipped without meeting their normal requirements, without any penalty. You also cannot raise your [Reputation](Reputation.md) with [Etrea](Etrea.md) or [The Children of Navae](The_Children_of_Navae.md). All of this shall be removed upon being [Exiled](#exile).
 
