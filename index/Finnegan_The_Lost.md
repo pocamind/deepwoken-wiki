@@ -1,6 +1,6 @@
 ---
 title: Finnegan The Lost
-revid: 199035
+revid: 208626
 source: https://deepwoken.fandom.com/wiki/Finnegan_The_Lost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters, Deepdelvers]
@@ -72,6 +72,8 @@ Although the Drowned Delver job can be rarely seen offered by [The Ignition Unio
 
  | Finnegan wraps themselves in a spiked metal ball and rapidly rolls towards the player.
 
+currently bugged the mantra won’t hit until end of attack nor will you be able to parry or block it until it ends only for Finn
+
  |
 | 
 
@@ -101,6 +103,7 @@ Finnegan retains his ability to speak and usually says phrases when he spawns su
 ## Tips
 
 -   The Drowned Delver can be led to [Light's Causeway](<Light's_Causeway.md>), greatly lessening the difficulty of the fight.
+-   can be led to castle of light getting auto gripped (won’t drop chest but will drop boltcrusher after this death)
 
 ## Trivia
 

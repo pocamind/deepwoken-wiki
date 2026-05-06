@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 208446
+revid: 208621
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4365,9 +4365,10 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   Finishing Slay has no cooldown, allowing for multihit criticals to benefit from it multiple times. However, finishing slay can only proc once per damage instance in a critical hit, for example if you hit three targets with your critical, Finishing Slay will only proc on one of them, and the other two will not take any additional damage.
     -   This procs on [Motif](Motifs.md) and [enchant](Enchantments.md)\-granted criticals.
 
--   Forced Fulfilment: [Metal Greatsword](Metal_Greatsword.md) - Landing a critical attack using your Metal Greatsword attaches a heavy rod onto your opponent, heavily slowing them.
-    -   Applies a 70% slow for 15 seconds.
-    -   Due to the innate slow resistance players have, in actuality this only reduces their movement speed by 52.5%, unless they are casting a Mantra.
+-   Forced Fulfilment: [Metal Greatsword](Metal_Greatsword.md) - Your Metal Greatsword now has [Metal Fakeout](Ironsing.md#metal-fakeout) as its critical attack. Landing a critical attack using your Metal Greatsword attaches a heavy rod onto your opponent, heavily slowing them.
+    -   The [Metal Fakeout](Ironsing.md#metal-fakeout) critical will only work if your target is within Metal Fakeout's targeting range. Additionally, this critical counts as a weapon attack, and **not** a Mantra. Applies [Bleed](Status_Effects.md#bleed) on hit.
+    -   The rod applies a 70% slow for 15 seconds.
+        -   Due to the innate slow resistance players have, in actuality this only reduces their movement speed by 52.5%, unless they are casting a Mantra.
     -   This Talent has no cooldown, allowing you to apply multiple rods to a singular person.
         -   If a player has two or more Forced Fulfilment rods, they will not be able to move unless they have a speed boost.
 
@@ -5588,7 +5589,9 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
 
 Not to be confused with Talents that have a weapon requirement, these Talents will automatically be given to you upon equipping specific [weapons](Weapons.md), but only exist while these weapons are equipped; using any ability that changes your equipped weapon will temporarily remove these Talents from your character. These Talents are often very potent, as they are the unique traits of the weapons themselves, though not every weapon with a unique trait has a Talent card to display it. Weapon Talents are listed in alphabetical order:
 
--   Blade Threading: [Ferractine](Ferractine.md) - Landing Critical attacks applies metal rod and slow.
+-   Blade Threading: [Ferractine](Ferractine.md) - Your Metal Greatsword now has Metal Fakeout as its critical attack. Landing Critical attacks applies metal rod and slow.
+    
+    -   The [Metal Fakeout](Ironsing.md#metal-fakeout) critical will only work if your target is within [Metal Fakeout](Ironsing.md#metal-fakeout)'s targeting range. Additionally, this critical counts as a weapon attack, and not a Mantra. Applies [Bleed](Status_Effects.md#bleed) on hit.
 
 -   Hex Bullet: [Duskshot](Duskshot.md) - Bullets that hit your opponents block shatter into dust on impact, unleashing a maddening smoke that increases your opponent's sanity.
 

@@ -1,6 +1,6 @@
 ---
 title: "Knell, The Lunatic Resonator"
-revid: 208400
+revid: 208638
 source: https://deepwoken.fandom.com/wiki/Knell%2C_The_Lunatic_Resonator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Anansi NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, Individuals with He/him pronouns, Enemies, Bosses, Deceased characters]
@@ -28,7 +28,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Knell, The Lunatic Resonator is a humanoid [Boss](Bosses.md) found in [Simforea](Simforea.md) in the [Voidsea](Voidsea.md) within the Eastern Luminant.
+Knell, The Lunatic Resonator is a humanoid [Boss](Bosses.md) found in [Simforea](Simforea.md), an island in the [Voidsea](Voidsea.md) within the [Eastern Luminant](Luminants.md).
 
 During the time of the Old World,[\[2\]](#cite-note-raiments-2) Knell was an inhabitant of Simforea, where he was a scholar. Knell had a keen fascination with sound, which became the object of his research, and in particular was drawn to bells and chimes of various designs.[\[3\]](#cite-note-garb-3) This translated to him frequently adorning his apparel and crafts with the instruments.[\[4\]](#cite-note-capeline-4)[\[5\]](#cite-note-tie-5)[\[6\]](#cite-note-reave-6)
 
@@ -51,8 +51,6 @@ When Simforea drifted through the Voidsea near to the [Eastern Luminant](Luminan
 (★☆☆)
 
  | Knell slashes at the player with his claws six times.
-
--   deals moderately-high posture
 
  |  |
 | 
@@ -128,6 +126,7 @@ Block
 
 -   This move only occurs durring his second phase.
 -   Deals very high damage.
+-   To avoid this move it’s highly suggested to use a full roll instead of a roll cancel
 
 _Uses Telegraph_
 
@@ -174,7 +173,7 @@ Knell, The Lunatic Resonator executes his opponent after knocking them:
 
 ## Passives
 
--   **Maniac's Hysteria** - Getting hit by Knell's moves increases your insanity.
+-   **Maniac's Hysteria** - Getting hit by Knell's moves decreases your sanity.
     
 
 ## Drops

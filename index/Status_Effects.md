@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 208560
+revid: 208580
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -16,19 +16,21 @@ These status effects come from several different sources, are tied to the state 
 
 ### Resting
 
-This effect causes the player to regain lost health and blood much faster, but lose hunger and thirst much faster (for blood regain). This effect is only caused when the player rests at a [Campfire](Campfire_Pit.md), [Graceful Flame](Flamecharm.md#graceful-flame), or the Stove in [Castle Light](Castle_Light.md).
+This effect causes the player to regain lost health and blood much faster, but lose hunger and thirst much faster (for blood regain). This effect is only caused when the player rests at a [Campfire Pit](Campfire_Pit.md), [Graceful Flame](Flamecharm.md#graceful-flame), or a Stove.
 
 ### Parched/Starved
 
 This effect happens when you are low on thirst/stomach. When this occurs, your vision will start to blur and darken. If either of these bars are below 20%, you will not be able to heal past 90% health. If one, but not both, of these bare are fully empty, the drain on the other bar will be doubled, your health regen will be halved, and you will not be able to heal past 80% health. If both of these bars are empty, your blood will gradually drain and your health will be drained down to 50%.
 
+Upon reaching 0 thirst or stomach, a message will appear at the top of your screen, reminding you to eat something.
+
 ### Hypovolemic Shock
 
-This effect happens once your blood bar is below 5%, causing your stomach and thirst meters to rapidly drain in order to sustain yourself. Your health will also rapidly deteriorate. If you have enough food and thirst, you can stabilize yourself, but if not you will eventually die from starvation/dehydration. If you are swimming while below 50% health in this state, you will instantly be knocked and will drown. To avoid bleeding out, replenish your blood near campfires, and to prepare for it, always keep food and water on you.
+This effect happens once your blood bar is below 5%, causing your stomach and thirst meters to rapidly drain in order to sustain yourself. Your health will also rapidly deteriorate. If you have enough food and thirst, you can stabilize yourself, but if not you will eventually die from starvation/dehydration. If you are swimming while below 50% health in this state, you will instantly be knocked and will drown. To avoid bleeding out, replenish your blood at [Campfire Pits](Campfire_Pit.md), and to prepare for it, always keep food and water on you.
 
 ### Unconscious
 
-Commonly referred to as being "knocked", this effect is applied once any humanoid target or player reaches 0 health, and is signified by their body going limp. Unless specified by an ability, being Unconscious prevents all actions. Unconscious characters can be executed or [Carried](#carried). Unconscious Targets take significantly more blood damage from being hit. Unconscious lasts 10 seconds at base, but its duration can be altered through the [Perseverance](Talents.md#perseverance), [Defiance](Talents.md#defiance), [Charismatic Cast](Talents.md#charismatic-cast), and [Concussive Force](Talents.md#concussive-force) Talents. Unconscious' duration will be reset upon taking damage unless the unconscious party has the [Impervious Slumber](Talents.md#impervious-slumber) Talent.
+Commonly referred to as being "knocked", this effect is applied once any humanoid target or player reaches 0 health, and is signified by their body going limp. Unless specified by an ability, being Unconscious prevents all actions. Unconscious characters can be executed or [Carried](#carried) and take significantly more blood damage from being hit. Unconscious lasts 10 seconds at base, but its duration can be altered through the [Perseverance](Talents.md#perseverance), [Defiance](Talents.md#defiance), [Charismatic Cast](Talents.md#charismatic-cast), and [Concussive Force](Talents.md#concussive-force) Talents. Unconscious duration will be reset upon taking damage unless the Unconscious party has the [Impervious Slumber](Talents.md#impervious-slumber) Talent.
 
 Being set [on fire](#burn) while Unconscious will cause the Unconscious party to burn to death after 8 seconds. The target will stop burning if a manual execution is initiated or if the target gets [Carried](#carried) for any duration. It will take 4 seconds for them to burn to death instead if the burn applicator has the [Corpse Explosion](Talents.md#corpse-explosion) Talent.
 
@@ -36,17 +38,17 @@ Being in deep water, like the sea, while Unconscious will cause you to drown to 
 
 ### Carried
 
-By pressing V near an [Unconscious](#unconscious) player or NPC, you can **carry** them, lifting them over your shoulder. Unless specified by an ability, being Carried prevents all actions, similar to being Unconscious. Carried entities will be dropped if the person carrying them takes damage or if the carried entity has been carried for too long.
+By pressing V near an [Unconscious](#unconscious) player or NPC, you can **carry** them, lifting them over your shoulder. Unless specified by an ability, being Carried prevents all actions, similar to being [Unconscious](#unconscious). Carried entities will be dropped if the person carrying them takes damage or if the Carried entity has been carried for too long.
 
 ### Speed Boost
 
-Speed boosts are one of Deepwoken's core status effects, being responsible for a lot of Talent effects and being very important for the core combat loop, especially in PvP. Speed boosts are simply a movement speed increase, with the effectiveness and duration of the speed boost depending on the source. The way the movement speed increase from speed boosts are applied is not standardized. Some speed boost give you a flat increase to your studs per second, some increase your movement speed by a percentage, and some do both of these. There is little consistency to be found.
+Speed boosts are one of Deepwoken's core status effects, being responsible for a lot of Talent effects and being very important for the core combat loop, especially in PvP. Speed boosts are simply a movement speed increase, with the effectiveness and duration of the speed boost depending on the source. The way the movement speed increase from speed boosts are applied is not standardized. Some speed boosts give you a flat increase to your studs per second, some increase your movement speed by a percentage, and some do both of these. There is little consistency to be found.
 
-Speed boosts are distinctly different from mobility buffs, as the former allows you to proc certain Talents while the latter does not. Speed boosts do not have a visual indicator, and are applied from a multitude of sources such as: [parrying and dodging attacks](Combat_Mechanics.md), [Wind Gem](Wind_Gem.md), certain [Talents](Talents.md), some [Weapon](Weapons.md) criticals, other Status Effects, etc.
+Speed boosts are distinctly different from [mobility buffs](#mobility-buff), as the former allows you to proc certain Talents while the latter does not. Speed boosts do not have a visual indicator, and are applied from a multitude of sources such as: [parrying and dodging attacks](Combat_Mechanics.md), [Wind Gem](Wind_Gem.md), certain [Talents](Talents.md), some [Weapon](Weapons.md) criticals, other Status Effects, etc.
 
 ### Mobility Buff
 
-Mobility buffs are very similar to speed boosts, being a movement speed increase, with the effectiveness and duration depending on the source, though they are distinctly different from speed boosts, as they cannot proc speed boost-reliant Talents. Mobility buffs do not have a visual indicator, and are applied from a multitude of sources such as: [Flame Within](Talents.md#flame-within), [Lightweight](Talents.md#lightweight), [Stratos' Cloak](<Stratos'_Cloak.md>), other Status Effects, etc.
+Mobility buffs are very similar to [speed boosts](#speed-boost), being a movement speed increase, with the effectiveness and duration depending on the source, though they are distinctly different from [speed boosts](#speed-boost), as they cannot proc [speed boost](#speed-boost)\-reliant Talents. Mobility buffs do not have a visual indicator, and are applied from a multitude of sources such as: [Flame Within](Talents.md#flame-within), [Lightweight](Talents.md#lightweight), [Stratos' Cloak](<Stratos'_Cloak.md>), other Status Effects, etc.
 
 ### Ragdoll
 
@@ -79,11 +81,11 @@ It has a few sub-variants:
 
 ### Hyperarmor
 
-Make your attacks uninterruptible and become immune to most forms of stun; Vents and Thundercall's Shock will bypass this and will interrupt your attack. Can be applied with the Critical attack of most heavy weapons, [Brace](Attunement-less.md#brace), and many other sources. Signified by your character gaining a red highlight. Hyperarmor ends early if you cast a Mantra.
+Make your attacks uninterruptible and become immune to most forms of stun; [Vents](Combat_Mechanics.md#tempo) and Thundercall's [Shock](#shock) will bypass this and will interrupt your attack. Can be applied with the Critical attack of most heavy weapons, [Brace](Attunement-less.md#brace), and many other sources. Signified by your character gaining a red highlight. Hyperarmor ends early if you cast a Mantra.
 
 #### True Hyperarmor
 
-Your attack becomes entirely uninterruptable; Vents and Shock have no effect. Can be applied with [Darksteel Greatsword](Darksteel_Greatsword.md)'s Critical attack, [Stoneheart's](Stoneheart.md) Critical's charge animation, [Chorus of Agonies'](Chorus_of_Agonies.md) Critical attack and the [Iron Hug](Ironsing.md#iron-hug) Mantra. This effect is visually indistinguishable from normal Hyperarmor, being the same red highlight.
+An enhanced form of [Hyperarmor](#hyperarmor). Your attack becomes entirely uninterruptable; [Vents](Combat_Mechanics.md#tempo) and [Shock](#shock) have no effect. Can be applied with [Darksteel Greatsword](Darksteel_Greatsword.md)'s Critical attack, [Stoneheart](Stoneheart.md)'s Critical's charge animation, [Chorus of Agonies](Chorus_of_Agonies.md)' Critical attack and the [Iron Hug](Ironsing.md#iron-hug) Mantra. This effect is visually indistinguishable from normal Hyperarmor, being the same red highlight.
 
 ### Dazed
 
@@ -91,7 +93,7 @@ Have your dodge frames lowered and be unable to sprint for a brief period. This 
 
 #### True Daze
 
-Makes you completely unable to dodge or move for a short duration. This effect can be cleared early by [Venting](Combat_Mechanics.md#tempo). Applied primarily through wallbangs. This effect is visually indistinguishable from normal daze, being the same yellow stars.
+An enhanced form of [Dazed](#dazed). True Daze makes you completely unable to dodge or move for a short duration. This effect can be cleared early by [Venting](Combat_Mechanics.md#tempo). Applied primarily through wallbangs. This effect is visually indistinguishable from normal daze, being the same yellow stars.
 
 ### Bleed
 
@@ -99,7 +101,7 @@ This effect can be applied by being hit by a weapon, monster attack, or Mantra t
 
 ### Wither
 
-Reduces the maximum amount your health can heal up to by a certain amount and can be removed by being out of combat, resting, and when knocking opponents. Signified by a dark blue portion on your healthbar. Applied by getting hit by an opponent with [Emperor Flame](Talents.md#emperor-flame), [Darkened Bastion](Darkened_Bastion.md)'s _Withering Soul_ Talent, [Umbrite Witherblade](Umbrite_Witherblade.md)'s basic attacks and critical, [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)'s Critical Attack, both of [Kindred Edict](Kindred_Edict.md)'s Critical Attacks when using the [Starkindred](Oath%253A_Starkindred.md) Oath, [Spectral Grasp](Spectral_Grasp.md)'s Critical Attack, [Blightsurger's](Oath%253A_Blightsurger.md) [Blightshock](#blightshock) status effect, and [Black Death's](Black_Death.md) unique weapon Talent _Corporeal Dissolution_. It can also be applied to yourself through [Bladeharper](Oath%253A_Bladeharper.md)'s _Reveal_, using [Linkstrider's](Oath%253A_Linkstrider.md) _Symbiotic Sustain_, [Vortex Echo](Vortex_Echo.md)'s Critical attack, [Sanguine Transfuser](Sanguine_Transfuser.md)'s Critical attack, and the Wither [Corrupted Resonance](Resonance.md#corrupted-resonances) downside.
+Temporarily reduces your maximum health. This effect can be removed by being out of combat, [Resting](#resting), and when knocking opponents. Signified by a dark blue portion on your healthbar. Applied by getting hit by an opponent with [Emperor Flame](Talents.md#emperor-flame), [Darkened Bastion](Darkened_Bastion.md)'s _Withering Soul_ Talent, [Umbrite Witherblade](Umbrite_Witherblade.md)'s basic attacks and critical, [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)'s Critical Attack, both of [Kindred Edict](Kindred_Edict.md)'s Critical Attacks when using the [Starkindred](Oath%253A_Starkindred.md) Oath, [Spectral Grasp](Spectral_Grasp.md)'s Critical Attack, [Blightsurger's](Oath%253A_Blightsurger.md) [Blightshock](#blightshock) status effect, and [Black Death's](Black_Death.md) unique weapon Talent _Corporeal Dissolution_. It can also be applied to yourself through [Bladeharper](Oath%253A_Bladeharper.md)'s _Reveal_, using [Linkstrider's](Oath%253A_Linkstrider.md) _Symbiotic Sustain_, [Vortex Echo](Vortex_Echo.md)'s Critical attack, [Sanguine Transfuser](Sanguine_Transfuser.md)'s Critical attack, and the Wither [Corrupted Resonance](Resonance.md#corrupted-resonances) downside.
 
 ### Anti-Heal
 
@@ -107,11 +109,11 @@ Disallows healing by a percentage from **any** source while active and completel
 
 #### Pestilence
 
-While active, suffer from 50% Anti-Heal for 10 seconds, halving all incoming healing. This effect can be applied through being hit by a basic attack with someone who has a [Ring of Pestilence](Equipment.md#rings) equipped. This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by a light yellow smoke on your character.
+While active, suffer from 50% [Anti-Heal](#anti-heal) for 10 seconds, halving all incoming healing. This effect can be applied through being hit by a basic attack with someone who has a [Ring of Pestilence](Ring_of_Pestilence.md) equipped. This does not stack with any other source of [Anti-Heal](#anti-heal), as the higher potency [Anti-Heal](#anti-heal) will take priority. Signified by a light yellow smoke on your character.
 
 #### Broodlord Rot
 
-While active, suffer from 80% Anti-Heal meaning you will only get healed 20% of any healing source instead of the full heal. This effect can be applied through being hit by a [Mudskipper Broodlord](Mudskipper_Broodlord.md). This effect is amplified in [The Diluvian Mechanism](The_Diluvian_Mechanism.md) but does not apply to health packs from killing monsters, and reduced in [Hell Mode](Hell_Mode.md). This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by purple smoke on your character.
+While active, suffer from 80% [Anti-Heal](#anti-heal) meaning you will only get healed 20% of any healing source instead of the full heal. This effect can be applied through being hit by a [Mudskipper Broodlord](Mudskipper_Broodlord.md). This effect is amplified in [The Diluvian Mechanism](The_Diluvian_Mechanism.md) but does not apply to health packs from killing monsters, and reduced in [Hell Mode](Hell_Mode.md). This does not stack with any other source of [Anti-Heal](#anti-heal), as the higher potency [Anti-Heal](#anti-heal) will take priority. Signified by purple smoke on your character.
 
 ### Void
 
@@ -254,7 +256,7 @@ Applied when you get hit by a [Bloodrend](Bloodrend.md) Mantra. Signified by a t
 -   At 40% Blood Poisoning, Enemies receive 25% less healing.
 -   At 50% Blood Poisoning, Enemies have their damage reduced by 12.5%.
 -   At 60% Blood Poisoning, [Bloodwarden's Sense](Talents.md#bloodwardens-sense) Talent is activatable, highlighting enemies when you hit them.
--   At 70% Blood Poisoning, [_**Gruesome Harvest**_](Talents.md#gruesome-harvest) Talent is activatable, granting you 15 Temporary Health when hitting people at or above 70% BP with Bloodrend Mantras.
+-   At 70% Blood Poisoning, [Gruesome Harvest](Talents.md#gruesome-harvest) Talent is activatable, granting you 15 Temporary Health when hitting people at or above 70% BP with Bloodrend Mantras.
 
 ## Oath Applied
 
@@ -282,7 +284,7 @@ These status effects are applied by [Oath](Oaths.md)\-exclusive abilities and at
 
 ### Positive Link
 
-[Linkstrider](Oath%253A_Linkstrider.md) exclusive. Gain 20% damage resistance, 5% dmg boost and constant [speed boost](#speed-boost) that is able to proc speed demon. Gained by being a target ally of a [Linkstrider](Oath%253A_Linkstrider.md)'s Symbiotic Link
+[Linkstrider](Oath%253A_Linkstrider.md) exclusive. Gain 20% damage resistance, 5% dmg boost and constant [speed boost](#speed-boost) that is able to proc speed demon. Gained by being a target ally of a [Linkstrider](Oath%253A_Linkstrider.md)'s Symbiotic Link.
 
 ### Negative Link
 
@@ -290,7 +292,7 @@ These status effects are applied by [Oath](Oaths.md)\-exclusive abilities and at
 
 ### Tranquil
 
-[Blindseer](Oath%253A_Blindseer.md) exclusive. You lose the ability to cast Mantras but gain complete Mantra immunity instead. Applied with the [Blindseer](Oath%253A_Blindseer.md) Mantra, **Tranquil Circle**. Signified by light grey particles emanating from character while standing in the circle, somewhat similar to [Obfuscation's](Enchantments.md#blessings) effect.
+[Blindseer](Oath%253A_Blindseer.md) exclusive. You lose the ability to cast Mantras but gain complete Mantra immunity instead. Applied with the [Blindseer](Oath%253A_Blindseer.md) Mantra, **Tranquil Circle**. Signified by light grey particles emanating from character while standing in the circle, somewhat similar to [Obfuscation](Obfuscation.md)'s effect.
 
 ### Radiant
 
@@ -310,7 +312,7 @@ These status effects are applied by [Oath](Oaths.md)\-exclusive abilities and at
 
 ### Decisive Winds
 
-[Jetstriker](Oath%253A_Jetstriker.md) exclusive. If you take damage from an opponent while you are below half health, gain a 25% [Speed boost](#speed-boost) as long as you are within 20 studs of the target, via the [Decisive Winds](Talents.md#decisive-winds) Talent. This effect lasts for 10 seconds with a 30 second cooldown. This effect has no visual indication.
+[Jetstriker](Oath%253A_Jetstriker.md) exclusive. If you take damage from an opponent while you are below half health, gain a 25% [speed boost](#speed-boost) as long as you are within 20 studs of the target, via the [Decisive Winds](Talents.md#decisive-winds) Talent. This effect lasts for 10 seconds with a 30 second cooldown. This effect has no visual indication.
 
 ## Enchantment Applied
 
@@ -442,7 +444,7 @@ Cast your [Imperator's Edge](<Imperator's_Edge.md>) neutral critical twice with 
 
 ### Krulian Charge
 
-Applied from using the [Krulian Knife](Krulian_Knife.md) Critical, gain a pink [Shock](#shock) effect on your basic attacks for 10 seconds. Also grants a [speed boost](#speed-boost) for the same duration. Additionally, this changes your Krulian Knife's critical into a pink [Lightning Assault](Thundercall.md#lightning-assault)\-like attack. This effect can be passed onto other weapons if you swap weapons, but the special critical and visual effect is exclusive to the Krulian Knife. Signified by your weapon cackling with light pink lightning.
+Applied from using the [Krulian Knife](Krulian_Knife.md) Critical, gain a pink [Shock](#shock) effect on your basic attacks for 10 seconds. Also grants a {{status|Speed Boost|speed boost\]\] for the same duration. Additionally, this changes your Krulian Knife's critical into a pink [Lightning Assault](Thundercall.md#lightning-assault)\-like attack. This effect can be passed onto other weapons if you swap weapons, but the special critical and visual effect is exclusive to the Krulian Knife. Signified by your weapon cackling with light pink lightning.
 
 ### Cruel Counter
 

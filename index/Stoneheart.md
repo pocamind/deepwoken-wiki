@@ -1,6 +1,6 @@
 ---
 title: Stoneheart
-revid: 207353
+revid: 208601
 source: https://deepwoken.fandom.com/wiki/Stoneheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons]
@@ -19,7 +19,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons
 | range | 8.5 Sweep |
 | swing speed | 0.8x |
 | attack duration | 0.9s |
-| endlag | 0.1x |
+| endlag | 0.1s |
 | penetration | 10% |
 | chip damage | 10% |
 | special effect | Crit can charge up. Unparryable, and large AOE. This charge annimarion cannot be interrupted. |
@@ -42,11 +42,11 @@ The Stoneheart is a Heavy Greathammer that is obtained from [Duke Erisia](Duke_I
 
 ## Critical
 
-The user charges up a massive blast with a [red telegraph](Combat_Mechanics.md#red) similar to the [Rock Golem's](Rock_Golem.md) laser attack, causing those to be ragdolled when hit. It can be charged by holding down R, releasing it at any point during the critical causes it to release the blast. The charging animation will instantly end after 2.5 seconds, disallowing you from charging it forever. The damage and size this critical scales with the amount of time spent charging the critical.
+The user charges up a massive blast with a [red telegraph](Combat_Mechanics.md#red) similar to the [Rock Golem's](Rock_Golem.md) laser attack, causing those to be ragdolled when hit. It can be charged by holding down R / M3, releasing it at any point during the critical causes it to release the blast. The charging animation will instantly end after 2.5 seconds, disallowing you from charging it forever. The damage and size this critical scales with the amount of time spent charging the critical.
 
 The critical is **unparryable** and **automatically** **guardbreaks** regardless of the charge. Deals typeless damage. This critical will autogrip [Unconscious](Status_Effects.md#unconscious) targets.
 
-This attack has a **9 second** cooldown; the cooldown starts when you initially press R, so charging it will not affect the cooldown.
+This attack has a **9 second** cooldown; the cooldown starts when you initially press R / M3, so charging it will not affect the cooldown.
 
 ## Trivia
 

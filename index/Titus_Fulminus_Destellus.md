@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 208467
+revid: 208630
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions, Humanoids with Unobtainable Outfits]
@@ -219,6 +219,10 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
 ### Talents
 
 -   Brute Strength - Titus' vent is replaced with a ground slam attack that knocks back enemies.
+
+### Finishers
+
+-   Titus does not have a execution animation instead Titus uses his mantras as if you were still conscious until you die.
 
 ## Tips and Strategies
 

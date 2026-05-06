@@ -1,6 +1,6 @@
 ---
 title: Iron Bomb
-revid: 199439
+revid: 208598
 source: https://deepwoken.fandom.com/wiki/Iron_Bomb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -19,7 +19,7 @@ categories: [Items]
 
 ## Description
 
-An explosive formerly used for demolition, now used to demolish all. It can be thrown with the keybind 'E'.
+An explosive formerly used for demolition, now used to demolish all. It can be thrown with the keybind E.
 
 The base maximum amount of bombs you can hold is 99, though can be surpassed by with the [Packmule](Boons_and_Flaws.md#packmule) Boon.
 

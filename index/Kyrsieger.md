@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 204885
+revid: 208602
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons, Kyrs series]
@@ -41,7 +41,7 @@ The Kyrsieger is a Legendary [Heavy Weapon](Weapons.md) that scales with, and re
 
 ## Critical
 
-The user lowers the blade, charging a shot of purple energy with a [red telegraph](Combat_Mechanics.md#red), applying ragdoll and 5 seconds of [Charm](Status_Effects.md#charm) on hit. It can be charged by holding R, and releasing it at any point will cause the critical to be fired. After fully charging the critical (at around 2 seconds), firing the critical will increase the range, damage, and will instantly guardbreak the opponent on hit.
+The user lowers the blade, charging a shot of purple energy with a [red telegraph](Combat_Mechanics.md#red), applying ragdoll and 5 seconds of [Charm](Status_Effects.md#charm) on hit. It can be charged by holding R / M3, and releasing it at any point will cause the critical to be fired. After fully charging the critical (at around 2 seconds), firing the critical will increase the range, damage, and will instantly guardbreak the opponent on hit.
 
 The critical has a cooldown of **15 seconds**.
 

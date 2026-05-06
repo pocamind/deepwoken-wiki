@@ -1,6 +1,6 @@
 ---
 title: "Curse of Ysley's Ember"
-revid: 206167
+revid: 208627
 source: https://deepwoken.fandom.com/wiki/Curse_of_Ysley's_Ember
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -22,7 +22,7 @@ Curse of Ysley's Ember is an RNG-based curse [enchantment](Enchantments.md) that
 
 ## Effect
 
-After landing enough hits, Curse of Ysley's Ember causes an explosion and applies a green [burn](Status_Effects.md#burn) effect.
+After landing enough hits, Curse of Ysley's Ember causes an explosion and applies a [green burn](Status_Effects.md#lifelords-blaze) effect.
 
 The explosion deals a random amount of damage, between 0 and 33. This deals typeless damage, ignoring armor resistances.
 
@@ -32,7 +32,7 @@ The hit count required to proc this enchantment varies based on your weapon type
 
 On proc, your opponent is given a random amount of [Temporary Health](Status_Effects.md#temporary-health), between 0 and 50. Temporary Health given is always whole numbers.
 
-Unlike all other sources of Temporary Health, the Temporary Health given from this Enchantment cannot be nullified through anti-heal.
+Unlike all other sources of Temporary Health, the Temporary Health given from this Enchantment cannot be nullified or reduced through [Anti-Heal](Status_Effects.md#anti-heal).
 
 ### Notes
 
@@ -42,4 +42,4 @@ Unlike all other sources of Temporary Health, the Temporary Health given from th
 
 ## Trivia
 
--   This was formerly called "Curse of Rhaemen's Ember"
+-   This Enchantment was formerly called "Curse of Rhaemen's Ember"

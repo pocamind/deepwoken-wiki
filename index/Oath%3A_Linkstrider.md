@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 201460
+revid: 208628
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -48,7 +48,7 @@ _Linkstrider **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oat
 
 ## Progression
 
-The only way to obtain each ability is to grip players with an Oath. However, this does not always need to be done at The Entropy Catalyst. **Entropy Link** is acquired on the first grip, then in order, **Symbiotic Link,** **Symbiotic Sustain,** and **Parasitic Leech**. This totals to 8 total player grips: 4 to take the Oath, then 4 more to fully progress it.(Same player grips do count.) Alternatively, if the Oath has been fully progressed on another character before, 10 knowledge can be spent to fully progress it on the current character. To skip the progression for Linkstrider, interact with the slots where you place the people to max it out.
+The only way to obtain each ability is to grip players with an Oath. However, this does not always need to be done at The Entropy Catalyst. **Entropy Link** is acquired on the first grip, then in order, **Symbiotic Link,** **Symbiotic Sustain,** and **Parasitic Leech**. This totals to 7 total player grips: 4 to take the Oath, then 3 more to fully progress it (Same player grips do count). Alternatively, if the Oath has been fully progressed on another character before, 10 knowledge can be spent to fully progress it on the current character. To skip the progression for Linkstrider, interact with the slots where you place the people to max it out.
 
 ## Effects
 
@@ -76,13 +76,13 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
             -   **Hygiea** (Near [Songseeker Wilds](Songseeker_Wilds.md) Sea Highway)
             -   **Eunomia** (On an island with a statue, south of the door to [The Lordsgrove](The_Lordsgrove.md))
             -   **Pallas** (On the small bit of land by the [Miner's Landing](<Miner's_Landing.md>)'s Sea Highway)
--   Obtained upon killing 1 player with an [Oath](Oaths.md)
+-   Obtained with the Oath
 
 -   **Symbiotic Link** - Activate by pressing X while hovering over an ally or enemy. The Links are destroyed when you receive damage from a non-ally, you stray too far or you activate it again. Only one cord of each type may exist at once, links give a 3 second warning in break range, in the warning phase, they can't be broken.
     -   Blue Cords (Allies) gain a speed boost, 20% dmg resistance, and a 5% damage increase.
     -   Red Cords (Enemies) gain a minor speed debuff, swing speed debuff, and a 10% damage decrease.
     -   Allows you to passively see the health bar of allies, even when not active.
--   Obtained upon killing 2 players with [Oaths](Oaths.md).
+-   Obtained upon killing 1 player with an [Oath](Oaths.md).
 
 ### Mantras
 
@@ -92,7 +92,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
     -   If linked to an ally (signified by blue cord), sacrifice 6% (4.8% if equipped with [Deepscorn Casque](Deepscorn_Casque.md)) of your HP to be turned into wither to restore 15% of the target's HP overtime. This ability can be interrupted.
     -   It has a 22.5 second cooldown.
     -   Does **not** work with any deep gem besides Blue.
-    -   Obtained upon killing 3 players with [Oaths](Oaths.md).
+    -   Obtained upon killing 2 players with [Oaths](Oaths.md).
 
 -   **Parasitic Leech** - Activate when linked to an enemy to leech their own health for a short duration.
     -   If linked to an enemy (signified by red cord), steal HP from the target in ticks. You can move while this is active, but not block, attack, nor cast. The amount of HP gained from the Leech is a proportion of the target's total HP.
@@ -104,7 +104,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
     -   Can be used with Bloodless to heal more health.
     -   Can be used with a Wind Gem to make it easier to avoid being hit while leeching.
     -   Leech ticks can proc [Hard Read](Talents.md#tactician), and most blocking related talents.
-    -   Obtained upon killing 4 players with [Oaths](Oaths.md).
+    -   Obtained upon killing 3 players with [Oaths](Oaths.md).
 
 ## Trivia
 

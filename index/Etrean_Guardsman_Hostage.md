@@ -1,11 +1,9 @@
 ---
 title: Etrean Guardsman Hostage
-revid: 177417
+revid: 208609
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardsman_Hostage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Cut Content, NPCs, Quests]
-notices:
-  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
+categories: [NPCs, Quests]
 ---
 
 # Etrean Guardsman Hostage
@@ -26,3 +24,7 @@ They are found in a prisoner pose, kneeled down on both knees and having their a
 Etrean Guardsman Hostages can be picked up by pressing V. Dropping them will cause them to be knocked for a bit before returning to their original stance. Unlike any normal NPC, you can carry the hostage anywhere and everywhere, and will not despawn unless you travel to a new [Luminant](Luminants.md).
 
 Bringing an Etrean hostage to the [Etrean Guardmaster](Etrean_Guardmaster.md) will reward you with a handful of XP, a [Fort Merit](Fort_Merit.md) chest, reputation with [The Kingdom of Etrea](Etrea.md) [Etreaiconfaction](Etrea.md), and negative reptuation with [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md).
+
+## Trivia
+
+-   These NPCs do not respawn due to a bug, making these NPCs extremely rare.

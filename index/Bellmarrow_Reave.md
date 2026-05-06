@@ -1,6 +1,6 @@
 ---
 title: Bellmarrow Reave
-revid: 208239
+revid: 208634
 source: https://deepwoken.fandom.com/wiki/Bellmarrow_Reave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Medium Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals"]
@@ -42,3 +42,7 @@ The Bellmarrow Reave is a [Twinblade](Twinblades.md) weapon in the Medium catego
 The user twirls the blade around before summoning a rain of bells directly above the target. These bells will inflict [Ironsing](Ironsing.md) rods when hit, and will **autogrip** the target if they are knocked or at low health.
 
 The critical has a cooldown of **10 seconds**.
+
+## Trivia
+
+-   This weapon's critical is based off of [Knell](Knell,_The_Lunatic_Resonator.md)'s **Raining Resonation** move.

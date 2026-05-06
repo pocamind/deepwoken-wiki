@@ -1,6 +1,6 @@
 ---
 title: Union Hooks
-revid: 169153
+revid: 208588
 source: https://deepwoken.fandom.com/wiki/Union_Hooks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]

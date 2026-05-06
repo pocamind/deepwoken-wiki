@@ -1,6 +1,6 @@
 ---
 title: Navaen Hostage
-revid: 180301
+revid: 208611
 source: https://deepwoken.fandom.com/wiki/Navaen_Hostage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters, The Children of Navae]
@@ -36,7 +36,6 @@ Giving back what is rightfully theirs.
 -   Being combat tagged by ".hostage\_nomad1".
     
     For some strange reason, there is a brick that spawns a single Hostage above the [Trial of One](Trial_of_One.md). If you are hit by the first parry-check orb and you hover over the combat tag skull, you'll find yourself combat tagged by _".hostaage\_nomad1"_; apparently, the Nomad is the one attacking you. Should it be thrown off the cube the dungeon takes place in, the Parry Check orbs will be incapable of dealing any actual damage.
-    -   This can actually be done by using the [Providence's Thorns Enchantment](Enchantments.md) on your weapon, and parrying enough of the orbs, which will knock the Navaen Hostage, dropping them off the brick.
--   They **can** be gripped, but there is little reward outside of a little EXP.
--   Unlike popular belief, you do not need any Light Weapon points to equip Way of Navae, nor any of the other fist styles. You only need points in Light Weapons to equip a Cestus, but even then, the [Iron Cestus](Iron_Cestus.md) only needs a fist style.
+    -   This can actually be done by using the [Providence's Thorns](<Providence's_Thorns.md>) Enchantment on your weapon, and parrying enough of the orbs, which will knock the Navaen Hostage, dropping them off the brick.
+-   Despite popular belief, you do not need any Light Weapon points to equip Way of Navae, nor any of the other fist styles. You only need points in Light Weapons to equip a Cestus, but even then, the [Iron Cestus](Iron_Cestus.md) only needs a fist style.
 -   They can be turned in to [Alastir](Alastir.md) for a chest.

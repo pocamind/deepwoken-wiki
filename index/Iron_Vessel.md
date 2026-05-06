@@ -1,6 +1,6 @@
 ---
 title: Iron Vessel
-revid: 203349
+revid: 208617
 source: https://deepwoken.fandom.com/wiki/Iron_Vessel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -11,7 +11,7 @@ categories: [Vow of Iron Exclusive, Mementos]
 | Iron Vessel | |
 |---|---|
 | description | A master of iron - both in blade, and in the song. |
-| unlock | Defeat Shogun Captain |
+| unlock | Defeat Shogun of the Prophet's Guard (Temple of Mur) |
 | starting health | 160 |
 | starting attributes | 5 Ironsing, 3 Medium Weapon, 5 Fortitude, 1 Agility, 2 Intelligence |
 | final attributes | 100 Ironsing, 50 Medium Weapon, 100 Fortitude, 10 Agility, 70 Intelligence |

@@ -1,9 +1,9 @@
 ---
 title: Ferractine
-revid: 205483
+revid: 208623
 source: https://deepwoken.fandom.com/wiki/Ferractine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Weapons, Swords, "Attunement-based Weapons", Weapons with Talents, Medium Weapons]
+categories: [Vow of Iron Exclusive, Weapons, Swords, "Attunement-based Weapons", Weapons with Talents, Medium Weapons, Weapons with multiple Criticals, "Weapons with Multi-Hit Criticals"]
 ---
 
 # Ferractine
@@ -21,14 +21,14 @@ categories: [Vow of Iron Exclusive, Weapons, Swords, "Attunement-based Weapons",
 | attack duration | 0.6s |
 | penetration | 25% |
 | chip damage | 10% |
-| talent | Blade Threading - Landing Critical attacks applies metal rod and slow. |
+| talent | Blade Threading - Your Metal Greatsword now has Metal Fakeout as its critical attack. Landing Critical attacks applies metal rod and slow. |
 | stances | 2 Handed, 1 Handed |
 | rarity | Mythical |
 | selling price | 100 |
 | weight | 2 |
-| bankable | no |
-| droppable | no |
-| enchantable | no |
+| bankable | No |
+| droppable | No |
+| enchantable | Yes |
 | pass down | No |
 | obtainment | Iron Vessel Memento |
 | description | ... |
@@ -51,11 +51,11 @@ Equipping the Ferractine grants its unique [weapon Talent](Talents.md#weapon-tal
 
 ## Critical
 
-The user quickly whirls the blade, performing a quick slash, leading into a heavy slam attack with hyperarmor.
+While inside [Metal Fakeout](Ironsing.md#metal-fakeout)'s targeting range, your critical attack will be replaced with the Mantra, teleporting behind your target while leaving behind a metal clone before immediately stabbing the target. This attack has innate [Bleed](Status_Effects.md#bleed), and counts as a weapon attack, **not** a Mantra. Attempting to use this critical while it's on cooldown will cause you to lose Ether.
 
-The first hit has a scaled damage multiplier of 1.25x, and the second hit has a scaled damage multiplier of 1x.
+While outside [Metal Fakeout](Ironsing.md#metal-fakeout)'s targeting range, your critical attack is a part of the [Fractine](Fractine.md) critical. The user quickly whirls the blade, performing a quick slash, leading into a heavy slam attack with [Hyperarmor](Status_Effects.md#hyperarmor). The first hit has a scaled damage multiplier of 1.25x, and the second hit has a scaled damage modifier of 1x.
 
-This critical has a cooldown of **5.5 seconds**.
+Both criticals have a cooldown of **8 seconds**.
 
 ## Trivia
 

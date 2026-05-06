@@ -1,6 +1,6 @@
 ---
 title: Water Well
-revid: 199453
+revid: 208591
 source: https://deepwoken.fandom.com/wiki/Water_Well
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]

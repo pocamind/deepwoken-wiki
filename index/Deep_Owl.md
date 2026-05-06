@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 206122
+revid: 208608
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,7 @@ categories: [Monsters]
 |---|---|
 | health | 16004000 (Corrupted) |
 | attacks | Talon Swipe, Owl Dash, Overhead Grab, Flock of Feathers |
-| drops | Dark Feather, Void Feather (5% - Non-Corrupted) / (100% - Corrupted), Jet Black Justicar Defender Coat, Dark Owl Chapeau, Dark Owl Cloak, Dark Owl Cape |
+| drops | Dark Feather, Void Feather (5% - Non-Corrupted) / (100% - Corrupted), Justicar Defender Coat, Dark Owl Chapeau, Dark Owl Cloak, Dark Owl Cape |
 | locations | Lower Erisia, The Viper's Jaw, Pathfinder's Respite, The Garden Reservoir, Upper Erisia, Burning Stone Gardens, The Lordsgrove, The Depths |
 | challenges | -- Deep Owl --, Curious Killers - Slay 10.Reward: +10% DMG; +5% RES, Radial Perspective - Slay 25.Reward: +10% DMG; +5% RES, Peace Of Mind, Mouse - Slay 100.Reward: +10% DMG; +5% RES |
 
@@ -35,7 +35,7 @@ Deep Owls hail down on Lumen from an inconceivable dimension that contains their
 
 When appearing in [Upper Erisia](Upper_Erisia.md) or [The Depths](The_Depths.md), its presence will be signaled by a sparse cloud of black feathers that gently fall down around an area. Upon entering the feathers, the Deep Owl will immediately drop down from the sky and open a dialogue with the player. During the dialogue, it is non-hostile and will not attack the player, remaining in this state until the player begins attacking or turns their back to the Deep Owl while in its detection range. Therefore, it's a good time to log out if unprepared for the battle.
 
-Unlocking the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md) requires a [Dark Feather](Dark_Feather.md#dark-feather), but is progressed with [Void Feathers](Dark_Feather.md#void-feather).
+Unlocking the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md) requires a [Dark Feather](Dark_Feather.md), but is progressed with [Void Feathers](Dark_Feather.md#void-feather).
 
 ## Attacks
 
@@ -43,7 +43,7 @@ Unlocking the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md) require
 | --- | --- | --- |
 | 
 **Talon Swipe**  
-(★☆☆)
+(★☆☆)  
 
  | The Deep Owl swipes with one of its arms, the windup depending on which arm is used.
 
@@ -54,7 +54,7 @@ Unlocking the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md) require
 | 
 
 **Owl Dash**  
-(★☆☆)
+(★☆☆)  
 
  | The Deep Owl kneels on the ground for a moment before performing a spinning assault with shadowy waves in the target's direction.
 
@@ -65,7 +65,7 @@ Unlocking the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md) require
 | 
 
 **Overhead Grab**  
-(★★★)
+(★★★)  
 
  | Jumps into the air while turning into a burst of feathers, then descends back down to grab the player before flying upwards.
 
@@ -82,7 +82,7 @@ High posture
 | 
 
 **Flock of Feathers**  
-(★★☆)
+(★★☆)  
 
  | Bursts into a puff of feathers that targets the closest target, dealing substantial armor and chip damage on block.
 
@@ -105,7 +105,7 @@ Claw Crush
 
 ## Dialogue
 
-Note: The player can only speak to a Deep Owl if they are the one to spawn it or have the [Mute Regalia](Regalia.md#mute).
+Note: The player can only speak to a Deep Owl if they are the one to spawn it or have the [Mute](Regalia.md) [Regalia](Regalia.md).
 
 **First Encounter:**
 
