@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 208423
+revid: 208458
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -26,10 +26,15 @@ _Justicar_ is the counterpart of [Voidwalker](Voidwalker.md). They protect other
 
 To obtain the Justicar Origin, the player must do one of the following:
 
--   Complete the [Cinders of Etris](Cinders_of_Etris.md) Disaster [World Event](World_Events.md), or
--   Help a player at or below Power 15 at the [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation).
+-   Participate in the [Cinders of Etris](Cinders_of_Etris.md) Disaster World Event.
+
+OR
+
+-   Help a player at or below Power 15 to escape at the [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation).
 
 Once either of these requirements have been met, speak to [Polis](Polis.md). Upon subsequent encounters, you want to interact with the fourth option that allows you to walk the path of [Alsin](Alsin.md).
+
+\*P.S. - Currently, you don't need to complete the entire event. Instead of fighting the whole [The Central Authority](The_Central_Authority.md) army, kill one or two [Authority Soldier](Authority_Soldier.md) and go straight to [Polis](Polis.md) (If he's not in combat; otherwise, hop to another server).
 
 ## Spawn
 
@@ -65,8 +70,8 @@ These are the ranks you can progress through:
 2.  Disciple (155 Points / 4-16 Events)
 3.  Elder (205 Points / 6-21 Events)
     -   Upon reaching Elder, you may choose between being a Vanguard or a Warder by talking to their respective NPCs, being [Grandmaster Vanguard Legidae](Grandmaster_Vanguard_Legidae.md) in the armory and [Grandmaster Warder Sapphire](Grandmaster_Warder_Sapphire.md) in the library.
-4.  Master Vanguard / ??? (329 / 7-33 Events)
-5.  Grandmaster Vanguard / ??? (388 / 8-39 Events)
+4.  Master Vanguard / Master Warder (329 / 7-33 Events)
+5.  Grandmaster Vanguard / Grandmaster Warder (388 / 8-39 Events)
 
 ### Promotion Talents
 
@@ -101,7 +106,7 @@ Upon taking the Vanguard Path, you will automatically be granted [Justicar's Arm
     -   Prerequisites: Swiftkick Prodigy
 -   **Soaring Swiftkick** - Flying Swiftkick no longer consumes your speed boost and instead gives you more speed.
     -   Prerequisites: Flying Swiftkick
--   **Vanguard Style** - When using the [Jus Karita](Jus_Karita.md) critical attack, turn it into a kick that brings your enemies up in the air. Landing the critical attack while your opponent is in the air brings them up and slightly stun them while upgrading your next critical.
+-   **Vanguard Style** - When using the [Jus Karita](Jus_Karita.md) critical attack, turn it into a kick that brings your enemies up in the air. Landing the critical attack while your opponent is in the air brings them up and slightly stuns them while upgrading your next critical.
     -   This new critical attack has 20 base damage, and adopts your current weapon's scaling stat.
 -   **Vanguard's Onslaught** - Landing a Vanguard Style Jus Karita critical attack makes you deal 20% more damage in the air for the next 5 seconds.
     -   Prerequisites: Vanguard Style
@@ -118,13 +123,13 @@ Upon taking the Warder path, you will automatically be granted [Warder's Attire.
     -   Grants a Talent tool that allows you to apply the [Justicar's Mark](Status_Effects.md#justicars-mark) status effect on one of your allies.
     -   While this effect is active, the [marked](Status_Effects.md#justicars-mark) target gains 20% damage redirection, as 20% of the damage they would have taken is redirected to you instead. Additionally, you take 20% more damage.
 -   **Emergency Mark** - Applying a mark on someone who has less than 20% health heals them for 10% of their health.
-    -   Prerequisite: Justcar's Mark
+    -   Prerequisite: Justicar's Mark
 -   **Justicar's Blessing** - Allies you mark with gain 15% more healing.
-    -   Prerequisite: Justcar's Mark
+    -   Prerequisite: Justicar's Mark
 -   **Marked Descent** - When your [marked](Status_Effects.md#justicars-mark) target takes damage, they are revealed. Using your [Karita Divebomb](Attunement-less.md#karita-divebomb) will target them.
-    -   Prerequisite: Justcar's Mark
+    -   Prerequisite: Justicar's Mark
 -   **Mark Mastery** - Reduce the amount of extra damage you receive while your ally is marked with the [Justicar's Mark](Status_Effects.md#justicars-mark) from 20% to 5%.
-    -   Prerequisite: Justicars Mark
+    -   Prerequisite: Justicar's Mark
 -   **Righteous Violence** - Landing a Critical Attack heals your [marked](Status_Effects.md#justicars-mark) ally. Landing a [Jus Karita](Jus_Karita.md) critical or Karita Swap heals your marked ally even more.
     -   Prerequisite: Justicar's Mark
 -   **Kindness** - Whenever you heal another player, heal 5 health yourself. \[3 second cooldown\]

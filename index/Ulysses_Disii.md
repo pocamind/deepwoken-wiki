@@ -1,9 +1,9 @@
 ---
 title: Ulysses Disii
-revid: 208403
+revid: 208504
 source: https://deepwoken.fandom.com/wiki/Ulysses_Disii
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Black Divers, The Divers, Characters mentioned in books, Individuals with unspecified pronouns]
+categories: [Black Divers, Characters mentioned in books, Individuals with unspecified pronouns]
 ---
 
 # Ulysses Disii

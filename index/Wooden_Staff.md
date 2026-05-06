@@ -1,6 +1,6 @@
 ---
 title: Wooden Staff
-revid: 208358
+revid: 208529
 source: https://deepwoken.fandom.com/wiki/Wooden_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons, Weapons with Talents]

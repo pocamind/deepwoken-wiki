@@ -1,6 +1,6 @@
 ---
 title: Delta
-revid: 191396
+revid: 208473
 source: https://deepwoken.fandom.com/wiki/Delta
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Quests, Oath Trainer]
@@ -26,11 +26,19 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Delta is a young, Interior variant [Canor](Canor.md), wearing the [Union Initiate](Union_Initiate.md) outfit. He works for [The Ignition Union](The_Ignition_Union.md), and he can be found inside the lower-mountain part of the town, specifically behind the water mill just above the waterfall.
+Delta is [Canor](Canor.md) NPC. He works for [The Ignition Union](The_Ignition_Union.md).
 
 Delta is responsible for handing out Arcsuits, though he doesn't entirely understand the mechanics behind their function. Still, he's aware of the basics of Oaths and doesn't appreciate damaging the suits.
 
 [The Pathfinder](The_Pathfinder.md) is required to speak with him to obtain and progress the [Arcwarder](Oath%253A_Arcwarder.md) Oath after they rescue [Epsi](Epsi.md) and speak with [Alpha](Alpha.md).
+
+He wears the [Union Initiate](Union_Initiate.md) Outfit.
+
+## Location
+
+Delta can be found inside the lower-mountain part of the town, specifically behind the water mill just above the waterfall.
+
+  
 
 ## Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: Jar of Souls
-revid: 205210
+revid: 208542
 source: https://deepwoken.fandom.com/wiki/Jar_of_Souls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]

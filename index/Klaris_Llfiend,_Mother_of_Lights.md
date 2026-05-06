@@ -1,9 +1,9 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 195834
+revid: 208507
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the First Layer, Oath Trainer, Black Divers, The Divers]
+categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the First Layer, Oath Trainer, Black Divers]
 ---
 
 # Klaris Llfiend, Mother of Lights
@@ -15,7 +15,7 @@ categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive
 | aspect | Canor |
 | pronouns | She/her |
 | location | Castle Light |
-| affiliation | The Divers |
+| affiliation | The Divers, Black Divers division |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -27,7 +27,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Klaris Llfiend, Mother of Lights, is a [Black Diver](Black_Divers_division.md) found in the back-most room of [Castle Light](Castle_Light.md). She is in charge of the expeditions to and from [The Eternal Gale](Second_Layer.md).
+Klaris Llfiend, Mother of Lights, is a [Canor](Canor.md) NPC. She is a [Black Diver](Black_Divers_division.md) in charge of the expeditions to and from [The Eternal Gale](Second_Layer.md).
 
 She is a young Canor who has long golden hair that end onto her shoulders. Two bangs rest on both sides of her face, reaching down to her upper chest. Her pupils glow white and have a "web" shape to it, and has vibrant yellow facial markings resembling lightning patterns. Above her head floating orb that resembles the [Moonseye](Moonseye.md), a sideffect of being a Dawnwalker. As a result of being the inventor/discoverer of the Radiant Tones she wears the standard [Black Diver](Black_Diver.md) outfit.
 

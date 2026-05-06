@@ -1,9 +1,9 @@
 ---
 title: Akira
-revid: 201372
+revid: 208506
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, The Divers, NPCs located in the First Layer, Black Divers]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Black Divers]
 ---
 
 # Akira
@@ -33,7 +33,7 @@ His [Bell](Resonance.md) (Corrupted Top-Pop) allows him to instantaneously grip 
 
 Players who have 75 Charisma can intimidate him into retreating. Akira's perception of you being an extremely intimidating and strong threat probably leads him to the reasonable conclusion that he's not going to get away with using his Bell on you without experiencing large repercussions, and thus retreats to another area.
 
-Despite him lacking in the experience department due to his young age, he's one of the strongest Black Divers, surpassing [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and the strongest players.[\[1\]](#cite-note-1)
+Akira is one of the strongest Black Divers in history, on the same tier as [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).[\[1\]](#cite-note-1)
 
 ## Location
 
@@ -210,7 +210,7 @@ After this you are able to talk to Akira, in which he has two different conversa
 -   Akira's bell flashes purple when he kills the Ignition Union officers.
 -   Akira Colors: #f7eae3 Skin | #E6D4D4 Hair | #8c0f82 Pupils | #cbd2ff Sclera | #686296 Resonance | #111111 Necklace
 -   For some reason, the Ignition Union research platoon members are still interactable during Akira's event, functioning as normal Ignition Union Guards. They can also be moved around by sliding underneath them, although this will not change the outcome of the event.
-    -   Like [Kennith](Kennith.md) after he gets dismembered, the prompt to interact with the guards will remain after their heads explode, but they will all have no dialogue as a likely result of being dead.
+    -   Like [Kennith](Kennith.md) after he gets dismembered, the prompt to interact with the guards will remain after their heads explode, but they will all have no dialogue as a likely result of being [dead](Death.md).
     -   Even more strangely, they all seem to be linked in some way or another, as they will only ever spawn with all four of them having [Enchanted](Enchantments.md) weapons or none at all.
     -   They can also be spat on, which will make them equip their weapon, then unequip it.
 

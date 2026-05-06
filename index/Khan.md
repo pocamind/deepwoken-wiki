@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 203485
+revid: 208438
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -20,7 +20,7 @@ Chance of obtaining aspect: **7.5%**
 
 ## Description
 
-Khans are a rare [aspect](Aspects.md) with light skin, and a monkey-like appearance. Khans have a special crown on their forehead which they and they alone possess. Khans have a strength and agility bonus, the ability to use equipment 3 points earlier as well as having increased reputation with [The Hundred Legions](The_Hundred_Legions.md).
+Khans are an [aspect](Aspects.md) with light skin, and a monkey-like appearance. Khans have a special crown on their forehead which they and they alone possess. Khans have a strength and agility bonus, the ability to use equipment 3 points earlier as well as having increased reputation with [The Hundred Legions](The_Hundred_Legions.md).
 
 ## Traits
 

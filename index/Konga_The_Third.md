@@ -1,6 +1,6 @@
 ---
 title: Konga The Third
-revid: 208385
+revid: 208443
 source: https://deepwoken.fandom.com/wiki/Konga_The_Third
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, In progress with reason, InProgressPages, NPCs, NPCs located in the Etrean Luminant, Justicars]
@@ -40,8 +40,6 @@ Konga The Third is located at the very top of the library tower of [Alsin's Land
 ## Dialogue
 
 **Justicar Origin:**
-
-If the player is a [Justicar](<Justicar_(Origin).md>).
 
 **Base Dialogue:**
 

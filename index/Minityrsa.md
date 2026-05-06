@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 205361
+revid: 208515
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Locations, The Ministry, Locations in the Etrean Luminant]
@@ -56,7 +56,7 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
   <ul>
     <li><b>Legendary Weapons</b>:</li>
     <li><b>Light Weapons</b>: <a href="Nemit's_Sickle.md">Nemit's Sickle</a>, <a href="Canor_Fang.md">Canor Fang</a>, <a href="Apprentice_Rapier.md">Apprentice Rapier</a>, <a href="Iron_Cestus.md">Iron Cestus</a>, <a href="Legion_Cestus.md">Legion Cestus</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a> <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a></li>
-    <li><b>Medium Weapons</b>: <a href="Vigil_Longsword.md">Vigil Longsword</a>, <a href="Katana.md">Katana</a></li>
+    <li><b>Medium Weapons</b>: <a href="Vigil_Longsword.md">Vigil Longsword</a>, <a href="Katana.md">Katana</a>, <a href="Duskpole.md">Duskpole</a></li>
     <li><b>Heavy Weapons</b>: <a href="Master_Hawk's_Handaxe.md">Master Hawk's Handaxe</a>, <a href="Inquisitor's_Greatsword.md">Inquisitor's Greatsword</a></li>
     <li><b>Offhand Weapons</b>:</li>
   </ul></td>

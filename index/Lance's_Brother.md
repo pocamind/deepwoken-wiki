@@ -1,6 +1,6 @@
 ---
 title: "Lance's Brother"
-revid: 193403
+revid: 208450
 source: https://deepwoken.fandom.com/wiki/Lance's_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Vendors, Quests, Etrea, NPCs located in the Etrean Luminant]
@@ -161,4 +161,4 @@ After accepting the quest, (?) will spawn a food crate at the back of his shop. 
 
 ## References
 
-1.  [↑](#cite-ref-1) [Stratos](Stratos.md)
+1.  [↑](#cite-ref-1) NPC dialogue: [Stratos](Stratos.md)

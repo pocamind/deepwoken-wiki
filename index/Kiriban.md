@@ -1,9 +1,9 @@
 ---
 title: Kiriban
-revid: 191020
+revid: 208469
 source: https://deepwoken.fandom.com/wiki/Kiriban
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Deceased characters]
+categories: [Deceased characters, Individuals with unspecified pronouns]
 ---
 
 # Kiriban
@@ -18,7 +18,7 @@ categories: [Deceased characters]
 
 ## Description
 
-Vigil Kiriban was a friend of [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) and the father of [Suyuan](Suyuan.md). He was known to be extremely skilled but became estranged from his child until his death, resulting in Suyuan gaining an obsession with ghosts.[\[1\]](#cite-note-s-1)
+Vigil Kiriban was a friend of [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) and the father of [Suyuan](Suyuan.md). Kiriban was known to be extremely skilled but became estranged from their child until their death, resulting in Suyuan gaining an obsession with ghosts.[\[1\]](#cite-note-s-1)
 
 Due to Kiriban's status, Suyuan has unrestricted access to the library found within the [Temple of the Blade](Temple_of_the_Blade.md).[\[1\]](#cite-note-s-1)
 

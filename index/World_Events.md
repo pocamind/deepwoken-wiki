@@ -1,6 +1,6 @@
 ---
 title: World Events
-revid: 205185
+revid: 208442
 source: https://deepwoken.fandom.com/wiki/World_Events
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Bosses]
@@ -44,3 +44,4 @@ Disasters are events that occur globally on the server without an UI pop-up, it'
 -   Unique rewards for each world event ([Eye of Malice](Eye_of_Malice.md), [Parasol Planter](Parasol_Planter.md) etc.)
 -   [Resonance](Resonance.md) progression and a great amount of attribute EXP
 -   [Crowns](Crowns.md)
+-   (Cinders of Etris only) [Justicar](<Justicar_(Origin).md>) Origin

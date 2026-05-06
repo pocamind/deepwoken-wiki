@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 208019
+revid: 208560
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -568,7 +568,7 @@ Applied by standing within an ally's [Sacred Field](Sacred_Field.md) [Resonance]
 
 ### Sleeping
 
-Gain 90% damage reduction at the cost of being ragdolled and not being able to move. If applied in the [First Layer](First_Layer.md), gain 100% damage immunity instead of damage reduction. Applied through the use of the [Paralytic Dust](Paralytic_Dust.md) Resonance. If the user has the self cast variant of the Resonance, they will also heal for the duration of the Sleeping effect. Cannot be applied to people with the [Brick Wall](Talents.md#brick-wall) Talent (including yourself). Signified by "ZZZ" marks emanating from the player head. Automatically clears upon being hit 3 times.
+Become [Ragdolled](#ragdolled) and be unable to move for a duration. Being afflicted with [Sleeping](#sleeping) from [Paralytic Dust](Paralytic_Dust.md) will grant 90% damage reduction. If applied in the [First Layer](First_Layer.md), gain 100% damage immunity instead of damage reduction. Applied through the use of the [Paralytic Dust](Paralytic_Dust.md) Resonance and the [Arkasid](Arkasid.md)'s **Paralyzing Throw** attack. If the user has the self cast variant of the [Paralytic Dust](Paralytic_Dust.md) Resonance, they will also heal for the duration of the [Sleeping](#sleeping) effect. Cannot be applied to people with the [Brick Wall](Talents.md#brick-wall) Talent (including yourself). Signified by "ZZZ" marks emanating from the player head. Automatically clears upon being hit 3 times.
 
 ## Talent Applied
 

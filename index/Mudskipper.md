@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 192028
+revid: 208531
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Humanoid Monsters]
@@ -105,9 +105,9 @@ Miniskippers are exclusively spawned from [Mudskipper Brutes](Mudskipper_Brute.m
 
 -   Due to their low health and damage, they don't pose a lot of danger.
 -   If you are struggling to parry them, remember that the second attack comes faster, and the first attack comes slower. Get hit a few times intentionally to see the timing, and parry accordingly.
--   When overwhelmed with a lot of Mudskippers, [Vent](Combat_Mechanics.md#combat-basics) by pressing G. Make sure you have the required [Tempo](Combat_Mechanics.md#gui) to do this.
+-   When overwhelmed with a lot of Mudskippers, [Vent](Combat_Mechanics.md#tempo) by pressing G. Make sure you have the required [Tempo](Combat_Mechanics.md#tempo) to do this.
     -   When fighting more than one Mudskipper at a time, only one Mudskipper will actually be attacking, while others could be using any secondary abilities they have access to. For example, _Air Force_. If they don't have any, they would usually just take turns hitting you.
-    -   If you are struggling with a horde, try using ranged attacks like [Fire Palm](Flamecharm.md) or [Ice Forge](Frostdraw.md).
+    -   If you are struggling with a horde, try using ranged attacks like [Fire Palm](Flamecharm.md#fire-palm) or [Ice Forge](Frostdraw.md#ice-forge).
 -   If they are Enhanced Mudskippers, listen to when are about to cast [_Air Force_](Galebreathe.md#air-force), and dodge.
     -   If you get hit by _Air Force_, you will be flung backwards greatly, maybe even off a cliff. Make sure you pay attention to your surroundings so that you may not fall into worse situations.
     -   If there are more than one Enhanced Mudskippers, they will often spam this Mantra. Hold block when you feel that they are going to do this.

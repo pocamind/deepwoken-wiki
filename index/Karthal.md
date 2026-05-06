@@ -1,9 +1,9 @@
 ---
 title: Karthal
-revid: 191498
+revid: 208520
 source: https://deepwoken.fandom.com/wiki/Karthal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Divers]
+categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Divers, Individuals with unspecified pronouns]
 ---
 
 # Karthal
@@ -25,9 +25,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Karthal is a [Celtor](Celtor.md) [Diver](Diver.md) who gives a brief explanation on the [Hell Mode](Hell_Mode.md) bell and how to activate it.
+Karthal is a [Celtor](Celtor.md) NPC. They are a [Diver](The_Divers.md) watching over the [Hell Mode](Hell_Mode.md) bell.
 
-He is wearing the [Diver Apprentice Robes](Diver_Apprentice_Robes.md).
+They are wearing the [Diver Apprentice Robes](Diver_Apprentice_Robes.md).
 
 ## Location
 

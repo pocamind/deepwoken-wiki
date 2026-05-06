@@ -1,9 +1,9 @@
 ---
 title: Metal Greatsword
-revid: 207068
+revid: 208511
 source: https://deepwoken.fandom.com/wiki/Metal_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Heavy Weapons, "Attunement-based Weapons", Weapons with Talents]
+categories: [Weapons, Greatswords, Heavy Weapons, "Attunement-based Weapons", Weapons with Talents, Weapons with Unique Criticals, Weapons with multiple Criticals]
 ---
 
 # Metal Greatsword
@@ -23,7 +23,7 @@ categories: [Weapons, Greatswords, Heavy Weapons, "Attunement-based Weapons", We
 | penetration | 25% |
 | chip damage | 20% |
 | talent | Forced Fulfilment - Landing a critical attack using your Metal Greatsword attaches a heavy rod onto your opponent, heavily slowing them. |
-| special effect | Your Metal Armament damage is increased by 50%. |
+| special effect | Your Metal Armament damage is increased by 50%. When in range, your critical attack is replaced with Metal Fakeout. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
@@ -54,7 +54,11 @@ Additionally, your [Metal Armament](Ironsing.md#metal-armament) damage is increa
 
 ## Critical
 
-Metal Greatsword uses the default Greatsword critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **3 seconds**. Grants [Hyperarmor](Status_Effects.md#hyperarmor) for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies [Knockdown](Status_Effects.md#knockdown) and will insta-guardbreak opponents who attempt to block it.
+While inside [Metal Fakeout](Ironsing.md#metal-fakeout)'s targeting range, your critical attack will be replaced with the Mantra, teleporting behind your target while leaving behind a metal clone before immediately stabbing the target. This attack has innate [Bleed](Status_Effects.md#bleed), and counts as a weapon attack, **not** a Mantra. Attempting to use this critical while it's on cooldown will cause you to lose Ether.
+
+If you aren't within Metal Fakeout's targeting range, your critical attack will be the default [Greatsword](Greatswords.md) critical, an overhead swing. It has a scaled damage multiplier of **1x**. Grants [Hyperarmor](Status_Effects.md#hyperarmor) for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies knockdown and will insta-guardbreak opponents who attempt to block it.
+
+Both criticals have a cooldown of **8 seconds**.
 
 ## Trivia
 

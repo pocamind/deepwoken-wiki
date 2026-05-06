@@ -1,6 +1,6 @@
 ---
 title: Peipre
-revid: 208277
+revid: 208509
 source: https://deepwoken.fandom.com/wiki/Peipre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority, Individuals with unspecified pronouns]
@@ -46,15 +46,15 @@ Peipre is located at [Port Merit](Port_Merit.md).
   <td colspan="12">Hi?</td>
 </tr>
 <tr>
-  <td colspan="12">It's fine, I'm not doing anything of particular note- yknow nothing under lock and key.</td>
+  <td colspan="12">It's fine, I'm not doing anything of particular note- yknow [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] nothing under lock and key.</td>
   <td colspan="12">... Err-wow I've lost my train of thought. Thanks for interrupting.</td>
 </tr>
 <tr>
   <td colspan="12">What are you out here for?</td>
-  <td colspan="12">[See First Instance]</td>
+  <td colspan="12">[See first instance]</td>
 </tr>
 <tr>
-  <td colspan="12">Just some personal research to be honest, a similar albeit not the same phenomenon to when Erisia washed it's way into the Eastern Luminant is going on nearby.</td>
+  <td colspan="12">Just some personal research to be honest, a similar albeit not the same phenomenon to when Erisia washed it's way into the <a href="Glossary.md#the-eastern-luminant">Eastern Luminant</a> is going on nearby.</td>
 </tr>
 <tr>
   <td colspan="12">And that means?</td>

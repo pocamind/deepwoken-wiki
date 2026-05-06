@@ -1,6 +1,6 @@
 ---
 title: Karita Plating
-revid: 208070
+revid: 208558
 source: https://deepwoken.fandom.com/wiki/Karita_Plating
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Weapons with Unique Criticals, Weapons with Talents, "Core-Attribute based weapons", Fists, Justicars, Legendary Weapons, Weapons with multiple Criticals]
@@ -47,6 +47,8 @@ Equipping the Karita Plating grants its unique [weapon Talent](Talents.md#weapon
 **Slider Style** raises the limit on slide speed, and gives your Jus Karita a new sliding critical.
 
 The damage of this sliding critical will increase the faster you are sliding, even sparking and applying [Burn](Status_Effects.md#burn) if you have enough momentum. This critical applies [daze](Status_Effects.md#dazed) on hit.
+
+If you have [Konga's Clutch Ring](<Konga's_Clutch_Ring.md>) equipped, you will almost instantly go to the last stage of the critical.
 
 ## Critical
 

@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 207584
+revid: 208467
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions, Humanoids with Unobtainable Outfits]
@@ -229,6 +229,7 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
 -   **Second Phase M1 Attack**: It is important to note that his standard M1 attack now has a **Dodge Only** Telegraph.
 -   **General Strategy**: As a general rule, do not overcommit to attacks. Focus on maintaining defense and punishing his attacks rather than forcing openings. It is often more valuable to use healing items and regenerate consistently than to risk taking damage in a risky trade. Stay mobile and use mantras for ranged damage when necessary.
 -   **Prediction**: If you land a prediction on Titus's **Chorus Divide: Shattering Crescendo** it will deal approximately 15000 damage which helps out plenty when fighting him. **This strategy requires a good understanding of Titus' abilities and timings, fail to do so will pay a hefty price.**
+-   Tip: Titus can be stunned by [Boltcrusher](Boltcrusher.md) M1s paired with Static Cloak.
 
 ## Rewards
 

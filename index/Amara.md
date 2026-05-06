@@ -1,6 +1,6 @@
 ---
 title: Amara
-revid: 195964
+revid: 208447
 source: https://deepwoken.fandom.com/wiki/Amara
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Pathfinder Exclusive, Individuals with She/her pronouns, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
@@ -128,4 +128,5 @@ Amara is located in [Erisia](Erisia.md) in the [The Viper's Jaw](<The_Viper's_Ja
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-cap-1-0) [1.1](#cite-ref-cap-1-1) NPC dialogue: [Legion Captain](Legion_Captain.md)
+1.  ↑ [1.0](#cite-ref-cap-1-0) [1.1](#cite-ref-cap-1-1) NPC dialogue: [Legion Captain](Legion_Captain.md)  
+    _As thanks I'd like to pass on word to Centurion Amara of your contributions. Please take my writ of recommendation to her, she might be willing to teach you the martial arts of the empire._

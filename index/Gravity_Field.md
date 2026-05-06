@@ -1,6 +1,6 @@
 ---
 title: Gravity Field
-revid: 205076
+revid: 208532
 source: https://deepwoken.fandom.com/wiki/Gravity_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -32,7 +32,7 @@ A transparent hemisphere that has a purple edge and a purple area circle. The he
 
 Pressing C will activate **Gravity Field** Resonance. Additionally, you can press C again to deactivate Gravity Field early. When activated, creates a hemisphere at the location of the resonance activation, from which it is very difficult or almost impossible to get out. Will decrease over time.
 
-If someone touches the border of the field, they will be ragdolled and flung back inwards. On top of this, mobility mantras (such as [Dash](Attunement-less.md#agility-mantras)) are not usable.
+If someone touches the border of the field, they will be ragdolled and flung back inwards. On top of this, mobility mantras (such as [Dash](Attunement-less.md#agile-dash)) are not usable.
 
 Combat tags the user when someone enters the field.
 

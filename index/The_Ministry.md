@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 205143
+revid: 208449
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Ministry]
@@ -68,7 +68,7 @@ Reputation with The Ministry is gained much more rapidly than that of most other
 
 1.  [↑](#cite-ref-1) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md). As such, events taking place during the events of the game in Verse 2 will be assumed to occur during the year 1272 CE, due to [The Hammer's Call](<The_Hammer's_Call.md>), which was released in Verse 2, containing an event occurring within 1272.
 2.  [↑](#cite-ref-2) [Gran Sudaruska](Gran_Sudaruska.md) description
-3.  [↑](#cite-ref-3) NPC dialogue: [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>)  
-    
+3.  [↑](#cite-ref-3) NPC dialogue: [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>)  
+    _IT DOES NOT KNOW? THOSE THAT BROUGHT RUIN TO THIS PLACE? GODSEEKERS, PROPHETS IN BLACK, OFFERING THIS CITY OF STONE AS IF IT WERE FESTERING MEAT. A PALTRY OFFERING, BUT MORE THAN YOUR KIND USUALLY AMOUNT TO._
 4.  [↑](#cite-ref-4) NPC dialogue: [Cestis](Cestis.md)  
     _I'm Cestis. I have a few generous benefactors from the [Western Luminant](Glossary.md#the-western-luminant), perhaps you know who I'm speaking of?_

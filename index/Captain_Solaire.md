@@ -1,6 +1,6 @@
 ---
 title: Captain Solaire
-revid: 201349
+revid: 208441
 source: https://deepwoken.fandom.com/wiki/Captain_Solaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Enemies, Enemies that can wield Enchantments, Central Authority Enemies]
@@ -12,7 +12,7 @@ notices:
 
 | Captain Solaire | |
 |---|---|
-| health | ??? |
+| health | 6000 |
 | drops | Armorer's Needle, Override Key, Master Key, Release Key |
 | weapon | Warden's Ceremonial Sword |
 | moves | Assault, Critical Attack, Cannon Call, Lightning Assault, Lightning Stream, Rising Thunder, Fleeting Sparks |

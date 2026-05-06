@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 208426
+revid: 208446
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1041,7 +1041,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   "Very short duration" (As described by Agamatsu)
     -   Prerequisite: 45 Agility
 
--   In a Hurry \[Common Talent, Agility\] - You grip faster with a movement speed boost.
+-   In a Hurry \[Common Talent, Agility\] - You grip faster with a movement speed boost. (+1 Passive Agility)
     -   Reduce grip time by 0.5 seconds (16.67% faster)
     -   Speed boost from parkouring do not count. It must be an actual speed boost.
     -   Prerequisite: 30 Agility

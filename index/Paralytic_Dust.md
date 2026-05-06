@@ -1,6 +1,6 @@
 ---
 title: Paralytic Dust
-revid: 189193
+revid: 208559
 source: https://deepwoken.fandom.com/wiki/Paralytic_Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -25,9 +25,9 @@ Paralytic Dust is a [Resonance](Resonance.md) that players can obtain and is com
 
 ## Usage
 
-Pressing C will activate the **Paralytic Dust** Resonance, throwing out a dust cloud that applies the Sleeping and Daze status effects to anyone hit.
+Pressing C will activate the **Paralytic Dust** Resonance, throwing out a dust cloud that applies the [Sleeping](Status_Effects.md#sleeping) and [Daze](Status_Effects.md#dazed) status effects to anyone hit.
 
-Sleeping grants 90% damage reduction, ragdolls, and completely prevents all inputs for a short duration, but is removed upon taking 3 instances of damage.
+[Sleeping](Status_Effects.md#sleeping) grants 90% damage reduction when applied through this Resonance, [ragdolls](Status_Effects.md#ragdoll), and completely prevents all inputs for a short duration, but is removed upon taking 3 instances of damage.
 
 The sleeping status effect in the [First Layer](First_Layer.md) grants full damage immunity. It however can still be removed by taking 3 instances of damage.
 

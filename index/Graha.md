@@ -1,6 +1,6 @@
 ---
 title: Graha
-revid: 191454
+revid: 208524
 source: https://deepwoken.fandom.com/wiki/Graha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Divers, Individuals with unspecified pronouns]
@@ -21,7 +21,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Graha is a [Vesperian](Vesperian.md) NPC. They talk about [Urchin Stew](Urchin_Stew.md).
+Graha is a [Vesperian](Vesperian.md) NPC. They are a [Diver](The_Divers.md).
 
 ## Location
 

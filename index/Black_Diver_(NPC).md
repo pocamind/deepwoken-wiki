@@ -1,9 +1,9 @@
 ---
 title: Black Diver (NPC)
-revid: 195219
+revid: 208490
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths, Diver Enemies]
+categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths, Diver Enemies, Black Divers]
 ---
 
 # Black Diver (NPC)

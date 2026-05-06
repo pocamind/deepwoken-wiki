@@ -1,6 +1,6 @@
 ---
 title: Smokescreen
-revid: 206938
+revid: 208553
 source: https://deepwoken.fandom.com/wiki/Smokescreen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]

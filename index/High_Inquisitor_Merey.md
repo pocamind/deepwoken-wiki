@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Merey
-revid: 203725
+revid: 208496
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Merey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]
@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 High Inquisitor Merey is a [Canor](Canor.md) NPC. She is the lead of the Inquisitor division for [The Central Authority](The_Central_Authority.md) garrison positioned in the Eastern Luminant, the second to possess this rank, and a [Thundercaller](Thundercall.md).
 
-She appears aged with small wrinkles around her eyes. She wears a uniquely marked [Blindfold](Blindfold.md), a [Brilliant Cape](Brilliant_Cape.md), a [Inquisitor's Duster](<Inquisitor's_Duster.md>), and a pair of [Grand Authority Sabatons](Grand_Authority_Sabatons.md). On her right side, she holsters a bell at her hip, signifying her strength to obtain a [Resonance](Resonance.md). On her left side she wields the [Big Brother](Big_Brother.md) dagger.
+She appears aged with small wrinkles around her eyes. She wears a uniquely marked [Blindfold](Blindfold.md), a [Brilliant Cape](Brilliant_Cape.md), an [Inquisitor's Duster](<Inquisitor's_Duster.md>), and a pair of [Grand Authority Sabatons](Grand_Authority_Sabatons.md). On her right side, she holsters a bell at her hip, signifying her strength to obtain a [Resonance](Resonance.md). On her left side she wields the [Big Brother](Big_Brother.md) dagger.
 
 ## Location
 

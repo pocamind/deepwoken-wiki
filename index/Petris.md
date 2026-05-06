@@ -1,6 +1,6 @@
 ---
 title: Petris
-revid: 203077
+revid: 208456
 source: https://deepwoken.fandom.com/wiki/Petris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the First Layer]
@@ -23,7 +23,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 Petris is a middle-aged [Etrean](Etrean.md) NPC. He is a former adventurer who met a bad end at the hands of [the Ferryman](The_Ferryman.md).
 
-He appears to have summoned the Ferryman in hopes of getting gifts during the era of the [Etrean Civil War](Etrean_Civil_War.md), but instead the Ferryman killed him and sent him to the Depths.
+He appears to have summoned the Ferryman in hopes of getting gifts during the era of the [Etrean Civil War](Etrean_Civil_War.md),[\[1\]](#cite-note-pvoi-1) but instead the Ferryman killed him and sent him to the Depths.
 
 ## Location
 
@@ -51,4 +51,4 @@ Petris is located in [The City of the Drowned](The_City_of_the_Drowned.md), righ
 
 ## References
 
-1.  [↑](#cite-ref-1) NPC dialogue: [Petris (Vow of Iron)](<Petris_(Vow_of_Iron).md>)
+1.  ↑ [1.0](#cite-ref-pvoi-1-0) [1.1](#cite-ref-pvoi-1-1) NPC dialogue: [Petris (Vow of Iron)](<Petris_(Vow_of_Iron).md>)

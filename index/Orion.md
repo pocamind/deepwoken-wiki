@@ -1,6 +1,6 @@
 ---
 title: Orion
-revid: 191578
+revid: 208487
 source: https://deepwoken.fandom.com/wiki/Orion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Quests, Individuals with unspecified pronouns]
@@ -17,7 +17,7 @@ categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, The Igniti
 
 ## Description
 
-Orion is a [Celtor](Celtor.md) NPC found in [Miner's Landing](<Miner's_Landing.md>). They task [The Pathfinder](The_Pathfinder.md) with killing "[Summer Isle](Summer_Isle.md) Goons", specifically being the [Summer Goons](Summer_Goon.md) in the Boiler Room.
+Orion is a [Celtor](Celtor.md) NPC. They task [The Pathfinder](The_Pathfinder.md) with killing "[Summer Isle](Summer_Isle.md) Goons", specifically being the [Summer Goons](Summer_Goon.md) in the Boiler Room.
 
 They will not tell you that you got the Origin if you are hive-kin or Khan, you will still obtain the Origin though.
 

@@ -1,6 +1,6 @@
 ---
 title: Locker
-revid: 206151
+revid: 208502
 source: https://deepwoken.fandom.com/wiki/Locker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]

@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 205102
+revid: 208452
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Etrea]
@@ -14,6 +14,7 @@ categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Etrea]
 | drops | Large chest, Purple Cloud (Guaranteed on the first kill with Medium), Pale Briar (Guaranteed on first kill with Heavy), Cerulean Thread (Guaranteed on first kill with Light), Windrunner Robes, Wyrmtooth, Curved Blade of Winds, Crypt Blade, Imperial Staff, Drops Smith's Alloy, Sinner's Ash and Armorer's Needle, Misc. (See Lootpool) |
 | weapon | Shattered Katana |
 | pronouns | He/him[1] |
+| affiliation | Etrea |
 | challenges | -- Maestro Evengarde Rest --, Sparring Buddy - Slay 10.Reward: +5% DMG; +2.5% RES |
 
 Variants: [Evengarde Rest](Evengarde_Rest.md)

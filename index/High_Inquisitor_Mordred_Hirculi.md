@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Mordred Hirculi
-revid: 200897
+revid: 208495
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Mordred_Hirculi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Inquisitors of The Central Authority, Deceased characters]
@@ -31,7 +31,7 @@ Mordred also possessed unknown ties to the [Circle of Honour](Circle_of_Honour.m
 
 Mordred was an elderly man and eventually died in his sleep. He was succeeded by [High Inquisitor Merey](High_Inquisitor_Merey.md), who had been assigned as his successor prior to his passing, as the two had a good relationship during his career.[\[1\]](#cite-note-merey-1)
 
-He appears aged with grey hair. He wears a uniquely marked [Blindfold](Blindfold.md), a [Fleet Warden Cape](Fleet_Warden_Cape.md), a [Inquisitor's Duster](<Inquisitor's_Duster.md>), and a pair of [Grand Authority Sabatons](Grand_Authority_Sabatons.md).
+He appears aged with grey hair. He wears a uniquely marked [Blindfold](Blindfold.md), a [Fleet Warden Cape](Fleet_Warden_Cape.md), an [Inquisitor's Duster](<Inquisitor's_Duster.md>), and a pair of [Grand Authority Sabatons](Grand_Authority_Sabatons.md).
 
 ## Location
 
