@@ -1,6 +1,6 @@
 ---
 title: Roa
-revid: 208808
+revid: 208892
 source: https://deepwoken.fandom.com/wiki/Roa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs]

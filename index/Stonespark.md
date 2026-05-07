@@ -1,6 +1,6 @@
 ---
 title: Stonespark
-revid: 205288
+revid: 208897
 source: https://deepwoken.fandom.com/wiki/Stonespark
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters]
@@ -72,8 +72,9 @@ Stonesparks are a mob that can be found deployed throughout [Erisia](Erisia.md),
 -   You can find a high amount of Stonesparks around the [Pathfinder's Respite](<Pathfinder's_Respite.md>).
 -   When not in combat Stonesparks enter a dormant state by kneeling down and deactivating.
 -   [Marcus](Marcus.md), located in [The Hidden Village](The_Hidden_Village.md), is the only known passive Stonespark.
+    -   Marcus was in the game for a significant amount of time before the addition of hostile Stonesparks.
 -   Stonesparks can block and get guard broken.
 
 ## References
 
-1.  [↑](#cite-ref-1) [Update log](Version_History/2026.md#april-18th-2026)
+1.  [↑](#cite-ref-1) [\_pv\_APR\_19\_01:13a|Version History: April 18th, 2026 | pv\_APR\_19\_01:13a](Version_History/Uncollapsed.md#april-18th-2026)

@@ -1,6 +1,6 @@
 ---
 title: Grudgeroot
-revid: 208841
+revid: 208891
 source: https://deepwoken.fandom.com/wiki/Grudgeroot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Ingredients, Harvestables, Alchemy]
@@ -32,4 +32,4 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Resembling an Onion, the Grudgeroot is found at [Simforea](Simforea.md).
+Grudgeroot is a species of root native to [Simforea](Simforea.md).

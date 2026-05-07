@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 199737
+revid: 208900
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, Vendors, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
@@ -21,7 +21,7 @@ categories: [Ganymede NPCs, NPCs, Vendors, NPCs located in the Etrean Luminant, 
 
 The Weird Trader is an inconspicuous [Ganymede](Ganymede.md) NPC that can rarely be spotted sailing in a Dinghy just about anywhere in the sea. This includes the waters of the Etrean Luminant, the Eastern Luminant and even the Voidsea.
 
-The Weird Trader will request three items from a long list of possible choices. Providing these three items will reward the player with a very rare [weapon](Weapons.md), a [relic](Relics.md), or an [Astral Enchantment Stone](Enchantments.md) (~5%). This trade can only be performed once per encounter, a new Weird Trader must be found to attempt another trade.
+The Weird Trader will request three items from a long list of possible choices. Providing these three items will reward the player with a very rare [weapon](Weapons.md), a [relic](Relics.md), or an [Astral Enchantment Stone](Enchantments.md). This trade can only be performed once per encounter, a new Weird Trader must be found to attempt another trade.
 
 Claiming you have the items without having them in your inventory causes the Weird Trader to perform an uppercut, sending those hit extremely high in the sky and almost certainly resulting in death if the victim doesn't have the aid of a [Tiran Pendant](Tiran_Pendant.md), an I-Frame mantra, or some other form of fall damage negation to prevent their likely inevitable demise.
 
@@ -39,7 +39,7 @@ The Weird Trader will request three items total, with each item coming from the 
   <td><b>Items</b></td>
   <td>
   <ul>
-    <li><b><a href="Ingredients.md"><b>Ingredients</b></a></b>: <a href="Alestrian_Coral.md">Alestrian Coral</a>, <a href="Bamboo_Bundle.md">Bamboo Bundle</a>, <a href="Beeswax.md">Beeswax</a>, <a href="Browncap.md">Browncap</a>, <a href="Calabash.md">Calabash</a>, <a href="Dentifilo.md">Dentifilo</a>, <a href="Dread_Flesh.md">Dread Flesh</a>, <a href="Egg.md">Egg</a>, <a href="Gathered_Wheat.md">Gathered Wheat</a>, <a href="Gobletto.md">Gobletto</a>, <a href="Hemobloom.md">Hemobloom</a>, <a href="Ongo.md">Ongo</a>, <a href="Pomar.md">Pomar</a>, <a href="Raw_Heavy_Meat.md">Raw Heavy Meat</a>, <a href="Raw_Parasol_Brain.md">Raw Parasol Brain</a>, <a href="Redd.md">Redd</a>, <a href="Sap.md">Sap</a>, <a href="Spider_Egg.md">Spider Egg</a>, <a href="Thresher_Egg.md">Thresher Egg</a></li>
+    <li><b><a href="Ingredients.md"><b>Ingredients</b></a></b>: <a href="Alestrian_Coral.md">Alestrian Coral</a>, <a href="Bamboo_Bundle.md">Bamboo Bundle</a>, <a href="Beeswax.md">Beeswax</a>, <a href="Browncap.md">Browncap</a>, <a href="Calabash.md">Calabash</a>, <a href="Dentifilo.md">Dentifilo</a>, <a href="Dread_Flesh.md">Dread Flesh</a>, <a href="Egg.md">Egg</a>, <a href="Gathered_Wheat.md">Gathered Wheat</a>, <a href="Gobletto.md">Gobletto</a>, <a href="Hemobloom.md">Hemobloom</a>, <a href="Latchgrain.md">Latchgrain</a>, <a href="Ongo.md">Ongo</a>, <a href="Pomar.md">Pomar</a>, <a href="Raw_Heavy_Meat.md">Raw Heavy Meat</a>, <a href="Raw_Parasol_Brain.md">Raw Parasol Brain</a>, <a href="Redd.md">Redd</a>, <a href="Sap.md">Sap</a>, <a href="Spider_Egg.md">Spider Egg</a>, <a href="Thresher_Egg.md">Thresher Egg</a></li>
     <li><b><a href="Primordial_Lotuses.md"><b>Lotuses</b></a></b>: <a href="Primordial_Lotuses.md#brilliant-lotus">Brilliant Lotus</a>, <a href="Primordial_Lotuses.md#empyrean-lotus">Empyrean Lotus</a>, <a href="Primordial_Lotuses.md#hellfire-lotus">Hellfire Lotus</a>, <a href="Primordial_Lotuses.md#miasmic-lotus">Miasmic Lotus</a>, <a href="Pristine_Lotus.md">Pristine Lotus</a>, <a href="Pristine_Lotus.md">Scarlet Lotus</a>, <a href="Primordial_Lotuses.md#skyvalor-lotus">Skyvalor Lotus</a>, <a href="Primordial_Lotuses.md#zephyr-lotus">Zephyr Lotus</a></li>
     <li><b><a href="Fishing.md"><b>Fish</b></a></b>: <a href="Chum.md">Chum</a>, <a href="Fish_Meat.md">Fish Meat</a>, <a href="Pufferfish.md">Pufferfish</a>, <a href="Red_Snapper.md">Red Snapper</a> <a href="Squid.md">Squid</a>, <a href="Swordfish.md">Swordfish</a>, <a href="Tuna.md">Tuna</a></li>
     <li><b><a href="Ores.md"><b>Ores</b></a></b>: <a href="Ores.md#erisore">Erisore</a>, <a href="Ores.md#gold">Gold</a>, <a href="Ores.md#iron">Iron</a>, <a href="Ores.md#rock">Rock</a>, <a href="Ores.md#umbrite">Umbrite</a>, <a href="Ores.md#astruline">Pure Astruline</a> <a href="Ores.md#erisore">Pure Erisore</a>, <a href="Ores.md#gold">Pure Gold</a>, <a href="Ores.md#iron">Pure Iron</a>, <a href="Ores.md#umbrite">Pure Umbrite</a></li>
@@ -134,7 +134,7 @@ A random item from the following list:
 <tr>
   <td colspan="3">[End Dialogue], you get the item</td>
   <td colspan="3">[End Dialogue], you get flung into the atmosphere</td>
-  <td colspan="6">Hi. No. I need my stuff. You have Item1, Item2, Item3?</td>
+  <td colspan="6">Hi. No. I need my stuff. You have [Item1], [Item2], [Item3]?</td>
 </tr>
 <tr>
   <td colspan="6"></td>

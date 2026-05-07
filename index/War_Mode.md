@@ -1,6 +1,6 @@
 ---
 title: War Mode
-revid: 204448
+revid: 208904
 source: https://deepwoken.fandom.com/wiki/War_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -9,6 +9,8 @@ categories: [Mechanics]
 # War Mode
 
 The mighty Warcaller Bell, looming over the Eastern Luminant to the those who wish to shed blood
+
+_This is a page for War Mode. Make sure you're not mistaking it for [Hell Mode](Hell_Mode.md)._
 
 ## Description
 
@@ -21,10 +23,6 @@ War Mode is an activity available in the **Eastern Luminant**, pitting players f
 War Mode can be initiated at the Warcaller Bell located near [The Entropy Catalyst](The_Entropy_Catalyst.md) (on the side of the water lock). With at least 2 different guilds and at least 10 players, ringing the bell will initiate a small preparation phase before War Mode begins, then last for 20 minutes.
 
 War Mode is a competitive activity in the **Eastern Luminant** where players from different Guilds battle for control of the sea and its riches. It is activated by ringing the Warcaller Bell near [The Entropy Catalyst](The_Entropy_Catalyst.md) (by the water lock). With at least 2 different guilds and 10 players present, a short preparation phase begins before War Mode starts, lasting up to 20 minutes.
-
-[Hell Mode](Hell_Mode.md) is a player-activated event that can be started in the corner of [Scyphozia](First_Layer.md) if four players who are at least Power 15 ring the Hell Bell. Upon starting the event, the lighting in the Depths will change to hellish-red and a kill count starting at 100 will appear over the bell. For every player that rings the bell after the initial four, 10 more mobs will be added to the kill count. There is a 20 minute duration to kill the required mobs.
-
-  
 
 ## Effects
 
