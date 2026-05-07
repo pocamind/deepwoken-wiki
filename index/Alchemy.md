@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 208188
+revid: 208854
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Consumables, Alchemy]
@@ -77,33 +77,34 @@ Alternatively, a spreadsheet listing the effects of all potion ingredients can b
 </tbody>
 </table>
 
-| Ingredient | Instant Health | Instant Ether | Damage Buff | Posture Damage Buff | Posture Resistance Buff | Speed Buff | Health Regen | Ether Regen | Sanity Regen | Instant Blood | Duration |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Alestrian Coral](Alestrian_Coral.md) |  |  | \-1.75% | \-5% |  | +0.25\* |  |  |  |  |  |
-| [Bamboo](Bamboo_Bundle.md) |  | \-23 |  |  | +10% |  |  |  |  |  |  |
-| [Beeswax](Beeswax.md) |  |  |  |  |  | \-5%\*\* | +85% |  |  |  |  |
-| [Bluecap](Bluecap.md) | \-5 | +23 |  |  |  |  |  |  | +3.75/s |  |  |
-| [Browncaps](Browncap.md) | \-4 |  | +2% |  |  |  |  |  |  |  |  |
-| [Calabash](Calabash.md) |  |  |  |  | +10% |  |  | \-5%\*\*\* |  |  |  |
-| [Chum](Chum.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |  |
-| [Crustacean Meat](Crustacean_Meat.md) |  |  | \-1.75% |  |  |  |  |  |  |  | +20% |
-| [Dentifilo](Dentifilo.md) | \-2 | +23 |  |  |  |  |  |  |  |  |  |
-| [Glumfig](Glumfig.md) | +5 |  | \-2% |  | \-15% |  |  |  | \-0.1/s |  |  |
-| [Gobletto](Gobletto.md) |  |  |  |  |  | \-5%\*\* | +85% |  |  |  |  |
-| [Hemobloom](Hemobloom.md) | ? | ? | ? | ? | ? | ? | ? | ? | ? | +? | ? |
-| [Marram Grass](Marram_Grass.md) |  | \-23 |  |  | +10% |  |  |  |  |  |  |
-| [Ongo](Ongo.md) |  |  |  | +10% | \-5% |  |  |  |  |  |  |
-| [Plumfruit](Plumfruit.md) |  |  | +2% |  |  |  | \-30% |  |  |  |  |
-| [Pomar](Pomar.md) | \-3 |  |  |  |  | +0.25\* |  |  |  |  |  |
-| [Redd](Redd.md) | +4 |  |  |  |  |  |  | \-5%\*\*\* |  |  | \-25% |
-| [Sap](Sap.md) |  |  |  |  |  | \-5%\* |  | +90% |  |  |  |
-| [Scallop](Scallop.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |  |
-| [Seaweed Bundle](Seaweed_Bundle.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |  |
-| [Spider Egg](Spider_Egg.md) |  |  |  |  |  |  |  |  |  |  | +50% |
-| [Sweetgourd](Sweetgourd.md) | ? | ? | ? | ? | ? | +? | ? | ? | ? | ? | ? |
-| [Thresher Egg](Thresher_Egg.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |  |
-| [Urchin](Urchin.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |  |
-| [Wheat](Gathered_Wheat.md) |  |  | \-1.75% |  |  |  |  | +90% |  |  |  |
+| Ingredient | Instant Health | Instant Ether | Damage Buff | Posture Damage Buff | Posture Resistance Buff | Speed Buff | Health Regen | Ether Regen | Sanity Regen | Instant Blood | Duration | Wither |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [Alestrian Coral](Alestrian_Coral.md) |  |  | \-1.75% | \-5% |  | +0.25\* |  |  |  |  |  |  |
+| [Bamboo](Bamboo_Bundle.md) |  | \-23 |  |  | +10% |  |  |  |  |  |  |  |
+| [Beeswax](Beeswax.md) |  |  |  |  |  | \-5%\*\* | +85% |  |  |  |  |  |
+| [Bluecap](Bluecap.md) | \-5 | +23 |  |  |  |  |  |  | +3.75/s |  |  |  |
+| [Browncaps](Browncap.md) | \-4 |  | +2% |  |  |  |  |  |  |  |  |  |
+| [Calabash](Calabash.md) |  |  |  |  | +10% |  |  | \-5%\*\*\* |  |  |  |  |
+| [Chum](Chum.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |  |  |
+| [Crustacean Meat](Crustacean_Meat.md) |  |  | \-1.75% |  |  |  |  |  |  |  | +20% |  |
+| [Dentifilo](Dentifilo.md) | \-2 | +23 |  |  |  |  |  |  |  |  |  |  |
+| [Glumfig](Glumfig.md) | +5 |  | \-2% |  | \-15% |  |  |  | \-0.1/s |  |  |  |
+| [Gobletto](Gobletto.md) |  |  |  |  |  | \-5%\*\* | +85% |  |  |  |  |  |
+| [Grudgeroot](Grudgeroot.md) | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? |
+| [Hemobloom](Hemobloom.md) | ? | ? | ? | ? | ? | ? | ? | ? | ? | +? | ? | ? |
+| [Marram Grass](Marram_Grass.md) |  | \-23 |  |  | +10% |  |  |  |  |  |  |  |
+| [Ongo](Ongo.md) |  |  |  | +10% | \-5% |  |  |  |  |  |  |  |
+| [Plumfruit](Plumfruit.md) |  |  | +2% |  |  |  | \-30% |  |  |  |  |  |
+| [Pomar](Pomar.md) | \-3 |  |  |  |  | +0.25\* |  |  |  |  |  |  |
+| [Redd](Redd.md) | +4 |  |  |  |  |  |  | \-5%\*\*\* |  |  | \-25% |  |
+| [Sap](Sap.md) |  |  |  |  |  | \-5%\* |  | +90% |  |  |  |  |
+| [Scallop](Scallop.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |  |  |
+| [Seaweed Bundle](Seaweed_Bundle.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |  |  |
+| [Spider Egg](Spider_Egg.md) |  |  |  |  |  |  |  |  |  |  | +50% |  |
+| [Sweetgourd](Sweetgourd.md) | ? | ? | ? | ? | ? | +? | ? | ? | ? | ? | ? | ? |
+| [Thresher Egg](Thresher_Egg.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |  |  |
+| [Urchin](Urchin.md) |  |  |  |  |  |  |  |  | \-0.1/s |  |  |  |
+| [Wheat](Gathered_Wheat.md) |  |  | \-1.75% |  |  |  |  | +90% |  |  |  |  |
 
 \* Potion speed boost modifiers are calculated as √(1 + (t \* n)) with t being the effectiveness of each ingredient and n being the amount of speed boost components in the potion.  
 \*\* Players innately have a 25% resistance to slows unless they're casting a Mantra, meaning in effect, this is -3.75%.  
@@ -477,6 +478,20 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Using more than 3 of the same ingredient<p>Using more than 5 ingredients in general (Apothecary and Saltchemist Salts do not count towards this limit)</p></td>
   <td>No effect.</td>
   <td>Signified by pure white particles.<p>Primarily exists to show that something went wrong with brewing. Reduces potion effectiveness by 50%. If you went above the 5 ingredient limit, it will divide the remaining effectiveness by the amount of ingredients that went over the limit.</p></td>
+</tr>
+<tr>
+  <td><b>Renewing</b></td>
+  <td>Salve<p>Potion</p></td>
+  <td>Grudgeroot</td>
+  <td>Cures a small amount of <b>Wither</b> 6%ish per ingredient</td>
+  <td>Bright pink particles<p>A very useful potion when paired with the <b>Linkstrider</b> oath as you can negate the <b>Wither</b> downside to using <b>Symbiotic Sustain.</b> It can also be paired with the <b>Sanguine Transfuser</b> to negate the W<b>ither</b> drawbacks. [Aromatic Salts + Crit]</p></td>
+</tr>
+<tr>
+  <td><b>Eroding</b></td>
+  <td>Bane<p>?</p></td>
+  <td>Grudgeroot</td>
+  <td>Opposite effect to <b>Renewing</b>, applies <b>Wither</b></td>
+  <td>Darker pink particles<p>This potion is the mirror opposite of the Renewing potion and can apply LOTS of <b>Wither</b> if spammed or used in an Aromatic Salts potion. Good for builds that apply <b>Wither</b> or for preventing supports from being able to heal allies.</p></td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 208396
+revid: 208759
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -650,7 +650,7 @@ Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
 -   Pushes your opponent away on the final hit.
 -   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase it's size.
 -   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers), moving the carve further away from the caster on use.
--   Wind carve has slow turn
+-   Your character's rotation speed is slowed during this attack.
 
  |
 | 

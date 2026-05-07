@@ -1,6 +1,6 @@
 ---
 title: Pickaxe
-revid: 167512
+revid: 208850
 source: https://deepwoken.fandom.com/wiki/Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Tools]

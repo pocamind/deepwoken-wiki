@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 208283
+revid: 208799
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, Equipment, In progress with VOI reason]
@@ -1783,15 +1783,22 @@ _+1 Posture_
  | Variants:  
 Simple & Ossified Simple |
 | File:Smithgloves.png | [Smith's Gloves](<Smith's_Gloves.md>)  
+(**Styles**)  
 (**Set**) | _+5 Health_
 
 +2 Rare Pips  
 **Requires Power 5**
 
- | Set: Smith's  
+ | Styles:  
+Default & Closed
+
+  
+Set: Smith's  
 Head: [Smith's Bandana](<Smith's_Bandana.md>)  
 Arms: [Smith's Gloves](<Smith's_Gloves.md>)  
-Face: [Smith's Goggles](<Smith's_Goggles.md>) |
+Face: [Smith's Goggles](<Smith's_Goggles.md>)
+
+ |
 | File:ShockTrooperPlate.png | [Specialist Plate](Specialist_Plate.md)  
 (**Set**)  
 (**Animated**) | _+5 Health_

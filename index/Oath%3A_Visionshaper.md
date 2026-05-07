@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 203231
+revid: 208861
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -70,9 +70,8 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
     -   Swaps your position with your clone, teleporting you to their current position and them to yours, very large range of ~350 studs.
     -   You can use Shaper Swap within up to 0.2 seconds after using a move.
         -   You can also use Shaper Swap during the middle of an attack with negative endlag. (Ex. before the second slash of [Umbrite Witherblade](Umbrite_Witherblade.md)'s crit)
-    -   The keybind for Shaper Swap can be configured in settings.
-        -   Sharing certain keybinds allows the user to do both actions at once, such as teleporting while [executing](https://deepwoken.fandom.com/wiki/Controls) players. (Executes also have no range limit)
-    -   Has a cooldown of 4 seconds.
+    -   Having Shaper Swap and something else bonded to the same key may allow the user to do both actions at once, such as teleporting while executing players.
+    -   Has a cooldown of 8 seconds.
 
 ### Talents
 

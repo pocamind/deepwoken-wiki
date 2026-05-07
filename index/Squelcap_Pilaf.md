@@ -1,9 +1,9 @@
 ---
 title: Squelcap Pilaf
-revid: 207837
+revid: 208846
 source: https://deepwoken.fandom.com/wiki/Squelcap_Pilaf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Food]
+categories: [Pathfinder Exclusive, In progress with reason, InProgressPages, Food]
 notices:
   - "This page is currently being worked on. New content released with Freewoken. Please be patient as information is added!"
 ---
@@ -24,6 +24,10 @@ notices:
 | droppable | Yes |
 | pass down | No |
 | desc | A hearty grilled pilaf that greatly enhances the nutritional value of its ingredients; folk of the old world sang tales of scraping by on this simple dish. |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

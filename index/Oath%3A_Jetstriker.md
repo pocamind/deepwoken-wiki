@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 204520
+revid: 208855
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -44,7 +44,7 @@ _Jetstriker **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath
 
 [Alirian](Alirian.md) will ask of you to find 5 white glowing orbs scattered in the [Etrean Luminant](Luminants.md). Each orb will identically grant you one Talent worth of progression (In order of Oath progression). You have to return to [Alirian](Alirian.md) to submit the orbs and obtain the talents. "I feel the winds rush through my body..."
 
-**NOTE**: You may have to utilize the map to track these locations, the input default is the M key, but you may have to find/rebind it in "Controls".
+**NOTE**: You may have to utilize the map (M) to track these locations, but you may have to find/rebind it in "Controls".
 
 The location of these orbs are:
 

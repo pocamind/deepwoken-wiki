@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 208734
+revid: 208810
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -72,8 +72,9 @@ These are the ranks you can progress through:
 2.  Disciple (155 Points / ~3-4 Events)
 3.  Elder (205 Points / ~4-5 Events)
     -   Upon reaching Elder, you may choose between being a Vanguard or a Warder by talking to their respective NPCs, being [Grandmaster Vanguard Legidae](Grandmaster_Vanguard_Legidae.md) in the armory and [Grandmaster Warder Sapphire](Grandmaster_Warder_Sapphire.md) in the library.
-4.  Master Vanguard / Master Warder (329 / ~5-7 Events)
-5.  Grandmaster Vanguard / Grandmaster Warder (388 / ~7-8 Events)
+4.  Vanguard(?) / Warder(?)
+5.  Master Vanguard / Master Warder (329 / ~5-7 Events)
+6.  Grandmaster Vanguard / Grandmaster Warder (388 / ~7-8 Events)
 
 ### Promotion Talents
 
@@ -113,6 +114,74 @@ Upon taking the Vanguard Path, you will automatically be granted [Justicar's Arm
 -   **Vanguard's Onslaught** - Landing a Vanguard Style Jus Karita critical attack makes you deal 20% more damage in the air for the next 5 seconds.
     -   Prerequisites: Vanguard Style
 
+  
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Karita Swap** (☆☆☆)
+
+**Support Mantra**
+
+_WIP_
+
+ | 
+
+## Karita Swap (☆☆☆)
+
+  
+**Support Mantra**  
+_WIP_
+
+ |
+| 
+
+(?) Ether [IconEther](Ether.md)
+
+ | 
+
+N/A
+
+ | 
+
+Vanguard Path, given automatically after joining it.
+
+ |
+| 
+
+**Effect:** _User swaps with someone and heals them._
+
+ |
+
 ## Warder Path
 
 Warders are primarily focused on support and granting buffs to your allies.
@@ -135,6 +204,74 @@ Upon taking the Warder path, you will automatically be granted [Warder's Attire.
 -   **Righteous Violence** - Landing a Critical Attack heals your [marked](Status_Effects.md#justicars-mark) ally. Landing a [Jus Karita](Jus_Karita.md) critical or Karita Swap heals your marked ally even more.
     -   Prerequisite: Justicar's Mark
 -   **Kindness** - Whenever you heal another player, heal 5 health yourself. \[3 second cooldown\]
+
+  
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Karita Aid** (☆☆☆)
+
+**Support Mantra**
+
+_WIP_
+
+ | 
+
+## Karita Aid (☆☆☆)
+
+  
+**Support Mantra**  
+_WIP_
+
+ |
+| 
+
+(?) Ether [IconEther](Ether.md)
+
+ | 
+
+N/A
+
+ | 
+
+Warder Path, given automatically after joining it.
+
+ |
+| 
+
+**Effect:** _User heals someone._
+
+ |
 
 ## Pros and Cons
 

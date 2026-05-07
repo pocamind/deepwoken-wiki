@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 207004
+revid: 208762
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -259,7 +259,8 @@ Lightning [ResistanceThundercall](Thundercall.md)
 -   10 second cooldown.
 -   Projectile moves along where the character is facing.
 -   Shocks opponents inside of it while dealing damage.
--   Can be modified with **Cloudstones/Stratus Stones** to increase the AoE. However, this will reduced the Mantra's damage.
+-   Your character's rotation speed is slowed during this attack.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the AoE. However, this will reduced the Mantra's damage.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks) to conjure up a shocking AoE around the user.
 -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md#sparks) to deploy a sticky projectile to a target that activates the shock after around 3 seconds.
 -   The **base damage** of this Mantra is increased by 15% if you are wearing the full Specialist Set. Additionally, it will become a green color.

@@ -1,0 +1,35 @@
+---
+title: Squelcap
+revid: 208843
+source: https://deepwoken.fandom.com/wiki/Squelcap
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Ingredients, Harvestables, Mushrooms]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
+---
+
+# Squelcap
+
+| Squelcap | |
+|---|---|
+| value | 15 |
+| weight | 1 |
+| stack | x99? |
+| type | Ingredient |
+| food type | ?? |
+| stomach | ??% |
+| water | ??% |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | A thick, rubbery mushroom. Hardly the most nutritious, but serviceable when paired with the right accompaniments. |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+## Crafting
+
+### Used In
+
+[Squelcap Pilaf](Squelcap_Pilaf.md) - 3 [Latchgrain](Latchgrain.md), 1 Squelcap at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).

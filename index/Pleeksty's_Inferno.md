@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 203166
+revid: 208758
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons, Weapons with multiple Criticals, The Covenant of Flame]
@@ -45,6 +45,8 @@ This weapon comes with the following passive:
 
 -   **Simmerbloom Synergy** - Pleeksty's Inferno will apply burn on hit if you are wearing the [Simmerbloom Diadem](Simmerbloom_Diadem.md).
 
+## Obtainment
+
 In [Pathfinder](Pathfinder.md), the Pleeksty's Inferno can be obtained from the [Second Layer](Second_Layer.md) of [The Depths](The_Depths.md):
 
 1.  Have **75** Flamecharm and enter the [Second Layer](Second_Layer/The_Ethironal_Shrine.md) without a Light Hook.
@@ -59,17 +61,17 @@ In [Pathfinder](Pathfinder.md), the Pleeksty's Inferno can be obtained from the 
 
 Alternatively, if you meet all requirements and have the Destined [Echo](Echoes.md) Modifier, Aska will still attempt to burn you to death, but you will survive and obtain the weapon without needing to fight him.
 
-In Vow of Iron, the Pleeksty's Inferno can be found stuck in a rock at Saramaed Summit; recommended to grab it if you're using the [Flame Worshipper](Mementos.md#flame-worshipper) Memento, since the Memento's final attributes are min-maxed to be perfect with the weapon
+In Vow of Iron, the Pleeksty's Inferno can be found stuck in a rock at Saramaed Summit; recommended to grab it if you're using the [Flame Worshipper](Flame_Worshipper.md) Memento, since the Memento's final attributes are min-maxed to be perfect with the weapon.
 
 ## Critical
 
 The Pleeksty's Inferno has two different critical attacks.
 
-For the **standing** critical, the user plunges the macuahuitl into the ground, creating three small eruptions and performing an upward slash afterwards, knocking the target away with ragdoll. Each hit applies Burn. The plunge has three consecutive hits, each dealing **0.4x scaled damage**, followed by the upward slash dealing **1.4x scaled damage**.
+For the **standing** critical, the user plunges the macuahuitl into the ground, creating three small eruptions and performing an upward slash afterwards, knocking the target away with ragdoll. Each hit applies Burn. The plunge has three consecutive hits, each dealing **0.4x scaled damage**, followed by the upward slash dealing **1.4x scaled damage**. Your character's rotation speed is slowed during this attack.
 
 For the **running** critical, the user reels the macuahuitl back before unleashing a diagonal slash, creating a projectile of flame that ragdolls and burns the target. The projectile is directional and will fly in the direction of your characters momentum. The projectile deals **1.5x scaled damage**.
 
-Both criticals will instantly max out your Emperor Flame stacks after the critical hits, even if you do not have the talent. Both criticals have an initial windup of **0.45 seconds** and a cooldown of **10 seconds**.
+Both criticals will instantly max out your [Emperor Flame](Talents.md#emperor-flame) stacks after the critical hits, even if you do not have the Talent. Both criticals have an initial windup of **0.45 seconds** and a cooldown of **10 seconds**.
 
 ## Trivia
 

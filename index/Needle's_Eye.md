@@ -1,6 +1,6 @@
 ---
 title: "Needle's Eye"
-revid: 208089
+revid: 208760
 source: https://deepwoken.fandom.com/wiki/Needle's_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Rapiers, Light Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals"]
@@ -49,7 +49,7 @@ The critical has the following stats and modifiers: 0.9x (first hit) + 0.5x \* 5
 
 The critical has a cooldown of **5 seconds**.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+Your character's rotation speed is slowed during this attack. This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

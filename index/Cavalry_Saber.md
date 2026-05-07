@@ -1,6 +1,6 @@
 ---
 title: Cavalry Saber
-revid: 205937
+revid: 208755
 source: https://deepwoken.fandom.com/wiki/Cavalry_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Swords, Weapons with Unique Criticals, Alloyed Weapons, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -47,7 +47,7 @@ The user performs a flurry of slashes, hitting up to 4 times. The first hit will
 
 The critical has a cooldown of **5** seconds.
 
-You cannot rotate your character during this critical. This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+Your character's rotation speed is slowed during this attack. This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

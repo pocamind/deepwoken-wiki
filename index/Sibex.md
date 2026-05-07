@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 208425
+revid: 208767
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, Individuals with They/them pronouns, NPCs, Mechanics, Humanoids with Unobtainable Outfits]
@@ -32,7 +32,8 @@ Sibex is capable of telling you your current [Resonance progress](Resonance.md#b
 
 Sibex is able to unlock the [Soul Beam](Oath%253A_Oathless.md#soul-beam) Mantra when talked to upon meeting certain requirements:
 
--   Have the [Chorus of Souls](Talents.md#sage-of-wisps) Talent, requiring [Oathless](Oath%253A_Oathless.md) and 30 points in every [Attunement](Attunements.md).
+-   Have the [Chorus of Souls](Talents.md#chorus-of-souls) Talent; this Talent requires [Oath: Oathless](Oath%253A_Oathless.md) and 30 points in every [Attunement](Attunements.md).
+-   Have [Oath: Oathless](Oath%253A_Oathless.md).
 -   Have a [Resonance](Resonance.md).
 
 ## Location
@@ -170,10 +171,10 @@ Sibex can be found sitting on a ledge overseeing [Summer Isle](Summer_Isle.md) t
   <td colspan="12">Hah, tips! Yes. Fingertips will do. When their movement are in sync with one another, spread your fingertips and picture their strength surging in a harmonious stream.</td>
 </tr>
 <tr>
-  <td colspan="12">(You can now use Soul Beam)</td>
+  <td colspan="12">(You can now use <a href="Oath%253A_Oathless.md#soul-beam">Soul Beam</a>)</td>
 </tr>
 <tr>
-  <td colspan="9">[End Dialogue]</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

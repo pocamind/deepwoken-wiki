@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 206423
+revid: 208856
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]

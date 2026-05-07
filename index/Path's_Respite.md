@@ -1,6 +1,6 @@
 ---
 title: "Path's Respite"
-revid: 194616
+revid: 208859
 source: https://deepwoken.fandom.com/wiki/Path's_Respite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant]
@@ -14,7 +14,8 @@ This content is not accessible outside of this gamemode.
 
 LocationL Path's Respite LocationR
 
-  
+A rest stop carved out from the untamed wilds by a conglomerate of Pathfinder companies.
+
   
 
 **Path's Respite** is a location in _Deepwoken_. It is a sub-location found in [Lower Erisia](Lower_Erisia.md).

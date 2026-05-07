@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 204519
+revid: 208862
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -156,8 +156,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
     -   8 second cooldown.
     -   This move is considered as an M1 for Talents and Enchant procs, although it procs certain critical Talents (like [Bear Trap](Talents.md#bear-trap)).
 
--   **Silent Cascade** - Landing any physical attacks on your opponent charges up your Silent Cascade, a devastating barrage that can be unleashed with CTRL + M2.
-    -   This is bound to your feint key, not to M2.
+-   **Silent Cascade** - Landing any physical attacks on your opponent charges up your Silent Cascade, a devastating barrage that can be unleashed with Ctrl + M2.
     -   Landing 8 weapon attacks or Silentheart abilities grants the Silent Cascade status effect, allowing you to use the Silent Cascade attack. This effect lasts 30 seconds or until you use Silent Cascade.
     -   Deals 7.5 Oath damage per hit (6) regardless of your equipped weapon.
     -   Has autoparry frames.

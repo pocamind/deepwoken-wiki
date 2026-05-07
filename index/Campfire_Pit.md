@@ -1,6 +1,6 @@
 ---
 title: Campfire Pit
-revid: 206162
+revid: 208858
 source: https://deepwoken.fandom.com/wiki/Campfire_Pit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items, Tools]
@@ -30,7 +30,7 @@ A Campfire Pit can be must be crafted with the following recipe:
 
 ## Usage
 
-A Campfire Pit must be placed down on the ground and lighting it by using a [Flint](Flint.md) or [Umbral Flint](Flint.md#umbral-flint), letting a [Flame Wisp](Flamecharm.md#flame-wisp) light it or by shooting it using [Fire Gun](Flamecharm.md#fire-gun).
+A Campfire Pit must be placed down on the ground and lighting it by using a [Flint](Flint.md) or [Umbral Flint](Flint.md), letting a [Flame Wisp](Flamecharm.md#flame-wisp) light it or by shooting it using [Fire Gun](Flamecharm.md#fire-gun).
 
 After lighting a Campfire, the player can rest by pressing E, allowing them to cook and replenish any lost stats.
 
