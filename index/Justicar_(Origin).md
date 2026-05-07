@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 208716
+revid: 208734
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -50,7 +50,7 @@ Justicars spawn at [Alsin's Landing](<Alsin's_Landing.md>) with the [Justicar Ne
 
 -   **Justicars** took a vow to protect and thus, cannot easily bring harm to [Castaways](Castaway.md).
 -   Attempting to harm Castaways will stun the Justicar in place for a few seconds. Justicars will also be stunned if a Castaway hits them.
-    -   If a Castaway attack a Justicar too much, the Justicar may retaliate with no consequences. If said Castaway is the Justicar's current mark, the Castaway will lose their allied status with the Justicar.
+    -   If a Castaway attacks a Justicar too much, the Justicar may retaliate with no consequences. If said Castaway is the Justicar's current mark, the Castaway will lose their allied status with the Justicar.
 
 ## Progression
 

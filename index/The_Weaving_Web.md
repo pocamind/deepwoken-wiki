@@ -1,6 +1,6 @@
 ---
 title: The Weaving Web
-revid: 208662
+revid: 208732
 source: https://deepwoken.fandom.com/wiki/The_Weaving_Web
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons with Unique Animations, "Core-Attribute based weapons", Event Item, Hallowtide, Medium Weapons]
@@ -40,9 +40,9 @@ Like all other Hallowtide exclusive weapons, it cannot be dropped to other playe
 
 ## Critical
 
-The user firmly smacks the staff to the ground, summoning a spiderling that assists them in the fight for about 20 seconds. The spiderling can use all of the [Deep Widow](Deep_Widow.md)'s attacks asides from Deep Webbing. The swipe deals 35 damage and the bite deals 40 damage. The spiderling has 1000 HP and ~40% physical resistance.
+The user firmly smacks the staff to the ground, creating a pink web explosion (gif is currently outdated) and summoning a spiderling that assists them in the fight for about 20 seconds. The spiderling can use all of the [Deep Widow](Deep_Widow.md)'s attacks asides from Deep Webbing. The swipe deals 35 damage and the bite deals 40 damage. The spiderling has 1000 HP and ~40% physical resistance.
 
-The critical has a cooldown of **45 seconds**.( 35 if you have war master medallion on)
+The critical has a cooldown of **45 seconds.**
 
 ### Notes
 
@@ -57,7 +57,6 @@ The critical has a cooldown of **45 seconds**.( 35 if you have war master medall
         -   If "No Holds Barred" is enabled the user is able to [Taunt](Attunement-less.md#taunt) their own spiderling which causes it to attack the user. The spiderling can't hit or damage the user.
 -   The spiderling won't despawn if it attacks someone, allowing to spawn more than one if you manage to keep them agroed on someone.
 -   The Weaving Web shares a synergy with the [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>) due to the spiderling counting as a summon.
--   In dungeons, after using critical an explosion will appear. The explosion is purely cosmetical and does no damage.
 -   Spiderling's spawned by a [Visionshaper](Oath%253A_Visionshaper.md) clones or [Lightning Clones](Thundercall.md#lightning-clones) will be able to target you, as they're technically not _your_ summon (CAN AUTOGRIP YOU IF YOU ARE KNOCKED).
 
 ## Trivia

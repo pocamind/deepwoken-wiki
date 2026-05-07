@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 208227
+revid: 208737
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
@@ -48,7 +48,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
  | Duke Erisia will charge up a punch, and teleport to his target,
 
--   Duke Erisia will transition to using
+-   Duke Erisia will **only** use any of his 3 Golem arm attacks after using Strong Left.
 
  | 
 
@@ -283,9 +283,9 @@ Duke Ishamon Erisia executes his opponent after knocking them:
 
 It's crucial to understand the Duke's behavior during his initial phase, where he is at his most aggressive and poses a significant threat, especially to solo players. Avoid attempting to use a **Venting** ability while his shield is active, as he will parry it.
 
-If the Duke is standing still, he is preparing to cast a mantra. This provides a brief window for you to land up to three safe hits with a heavy or medium weapon. After this, you should stop attacking and brace for his move, as his mantras have a low wind-up and are difficult to read.
+If the Duke is standing still, he is preparing to cast a mantra. This provides a brief window for you to land up to three safe hits with a heavy or medium weapon. After this, you should stop attacking and brace for his move, as his mantras have a low wind-up (especially his Strong Left) and are difficult to read.
 
-During his "Strong Left" attack, he will follow up with a series of punches and criticals. This is the optimal time to engage in a parry trade. The Duke rarely feints and will parry every attack you make, making it predictable and a prime opportunity for you to deal significant damage. Stick to standard M1 attacks during this sequence to maintain consistency.
+He usually uses 3 of his regular mantras, uses Strong Left, then uses 3\* of his Stonelife attacks, after which the cycle repeats. He **can** use Strong Left more than once at a time, sometimes even up to 3 times in a row, before his Stonelife attacks begin.
 
 Once you have dealt enough damage, his shield will deactivate. While this allows you to hit him normally, you must remain cautious, as many of his mantras can instantly grip you. The best strategy is to corner him and focus on breaking his posture. Be aware, however, that the Duke has a high **Tempo** and will vent every time you flourish him into a wall.
 
@@ -306,7 +306,7 @@ In the second phase, the Duke becomes very defensive and blocks frequently. The 
 Phases begin in sequence, depending on the Bosses' Max HP.
 
 -   **Phase 1 -** **Tempest Shield**: Upon initiating the fight, Duke Erisia surrounds himself with a shield of Galebreathe, instantly parrying all attacks and Mantras. To destroy the shield, land attacks until it breaks. Focuses on **damage** _. (15k per player)_
--   **Phase 2 -** **Hand-to-hand combat**: Duke Erisia's shield vanishes, and he will let himself get hit for a while before fighting back. During this phase, he may snap his fingers, teleporting the Mindless Servants from their tubes to all nearby Players (Teleports 3 servants per player, and the remainder of them when there's less than 3 x n servants, where n = present players).
+-   **Phase 2 -** **Hand-to-hand combat**: Duke Erisia's shield vanishes, and he will let himself get hit for a while before fighting back. During this phase, he may snap his fingers, teleporting the Mindless Servants from their tubes to all nearby Players (Teleports 3 servants per player, and the remainder of them when there's less than 3 x n servants, where n = present players (distributed equally amongst the fighters)).
 
 ### Rewards
 

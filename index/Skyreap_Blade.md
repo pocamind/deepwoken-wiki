@@ -1,6 +1,6 @@
 ---
 title: Skyreap Blade
-revid: 202753
+revid: 208745
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Greataxes, Event Item, Hallowtide, Heavy Weapons]
@@ -36,7 +36,7 @@ categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animati
 
 ## Description
 
-The Skyreap Blade is a [Heavy Weapon](Weapons.md) in the Greatax. It has unique M1 animations alongside the unique grip effect exclusive to the Hallowtide weapons. It has a unique execute sound effect that resembles taco bell.
+The Skyreap Blade is a [Heavy Weapon](Weapons.md) in the [Greataxe](Greataxes.md) category. It has unique M1 animations alongside the unique grip effect exclusive to the Hallowtide weapons. It has a unique execute sound effect that resembles taco bell.
 
 ## Critical
 
