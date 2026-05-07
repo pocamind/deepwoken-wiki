@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 208737
+revid: 208884
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
@@ -211,9 +211,8 @@ Dodge
 **Cyclone Bomb**  
 (★★☆)
 
- | Duke Erisia flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down, dealing massive damage and may one shot you if not dodged or parried.
+ | Duke Erisia flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down. This move has been nerfed and no longers deals insane damage.
 
--   This attack is very rare.
 -   Covers a large Area of Effect.
 -   More often to happen if Duke takes major damage quickly.
 

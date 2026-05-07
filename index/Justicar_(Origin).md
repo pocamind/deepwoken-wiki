@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 208810
+revid: 208879
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -190,7 +190,7 @@ Upon taking the Warder path, you will automatically be granted [Warder's Attire.
 
 ### Exclusive Features
 
--   **Justicar's Mark** - Mark someone you wish to protect for a minute. While marked, you take 20% of the damage they receive but they take 20% less damage. Marking someone also cause you to take 20% more damage while they are marked.
+-   **Justicar's Mark** - Mark someone you wish to protect for a minute. While marked, you take 20% of the damage they receive and they take 20% less damage. Marking someone also cause you to take 20% more damage while they are marked.
     -   Grants a Talent tool that allows you to apply the [Justicar's Mark](Status_Effects.md#justicars-mark) status effect on one of your allies.
     -   While this effect is active, the [marked](Status_Effects.md#justicars-mark) target gains 20% damage redirection, as 20% of the damage they would have taken is redirected to you instead. Additionally, you take 20% more damage.
 -   **Emergency Mark** - Applying a mark on someone who has less than 20% health heals them for 10% of their health.
@@ -277,7 +277,7 @@ Warder Path, given automatically after joining it.
 
 ### Pros
 
--   Great for those who want to help, usually newer, players.
+-   Great for those who want to help (usually newer) players.
     -   This is also a great way to start off a fresh [Guild](Guilds.md), as [Castaways](Castaway.md) are usually newer players who have yet to be invited to a guild. Helping them progress will make them feel indebted to you, and less likely to [guild hop](<Terminology_(game).md#guild-hopping>).
 -   Access to multiple Paths allowing for a variety of unique builds unobtainable otherwise.
 -   Gives great exp. for farming together with a Castaway.

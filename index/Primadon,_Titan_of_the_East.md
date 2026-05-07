@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 204351
+revid: 208883
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -290,6 +290,7 @@ Equipping armor with **Physical/Blunt damage resistance** is crucial, as it sign
 -   **Retreating**: To retreat, either wait for Primadon to use **Disengage** before running (be prepared to dodge frequent rock throws) or have a friend take aggro. Be warned, Primadon's aggro priority is unique and it may continue to pursue you despite others attacking it. Alternatively, if you have very low health and the **Perseverance** talent, you can intentionally get kicked towards a rope. You should have enough time to recover and climb before the boss reaches you.
 -   **Weapon Usage**: As cannons deal blunt damage, you can effectively use them to attack Primadon. However, a recent update has given the boss a **??% cannon resistance**.
 -   **Healing Exploit**: A common cheese strategy is to place an **Undying Flames** Graceful Flame nearby to heal back any damage you take during the fight
+-   **Blocking Trick:** When Primadon uses enrage you can actually block the roar, meaning you wont lose sanity. The posture debuff still applies, however.
 
 ## Trivia
 

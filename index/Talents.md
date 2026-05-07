@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 208700
+revid: 208876
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -226,6 +226,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisite: [Galetrap](Galebreathe.md#galetrap) (Mantra)
 
 -   Gale Trap \[Common Talent, Galebreathe\] - Knocking a player places a wind trap, causing anyone to pick up that body to get sent flying. Gain a speed boost picking up the body yourself. Killing PvE opponents gives you [Gale Reflection](Status_Effects.md#gale-reflection) instead.
+    -   **Refer to [Galetrap](Galebreathe.md#galetrap) if you are looking for the [Galebreathe](Galebreathe.md) mantra instead.**
     -   Marks players knocked by you for 6s with "Gale Trap".
     -   If the user picks up a target they've marked, they will gain a 35% speed boost for 20 seconds.
     -   If anyone other than the user attempts to pick up the marked target, they will be ragdolled and flung upwards. This includes the user's allies.

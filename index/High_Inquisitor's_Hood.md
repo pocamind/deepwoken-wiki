@@ -1,6 +1,6 @@
 ---
 title: "High Inquisitor's Hood"
-revid: 204629
+revid: 208865
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hoods]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Hoods]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Authority Ensign Missions, Starswept Valley, Fishing |
+| obtainment | Chests from:, Authority Ensign Missions, The Starswept Valley, Fishing |
 | description | A shroud worn proud by the members of the Inquisition. |
 
 ## Description

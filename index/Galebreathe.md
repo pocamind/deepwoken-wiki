@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 208759
+revid: 208877
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -373,6 +373,7 @@ Wind [ResistanceGalebreathe](Galebreathe.md)
 -   Applies the [Suffocation](Status_Effects.md#suffocate) status effect.
 -   Shoots where cursor is unless you have shift lock activated which in this case shoots in the direction your character is facing.
 -   Can be upgraded with the "**Aeronade**" Talent, causing the trap to detonate on contact with any object.
+-   Refer to [Gale Trap](Talents.md#gale-trap) if you are looking for the talent instead.
 
  |
 | 

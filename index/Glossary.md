@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 208646
+revid: 208870
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -181,7 +181,7 @@ Dialogue: [Celtorian Guard](Celtorian_Guard.md)
 -   Despite their imperial proclivities, they are the primary funders of expeditions into the [Depths](#the-depths) by the [Divers](#the-divers) and the Ignition Union.
 -   The [Central Authority](#the-central-authority) is helmed by the [Sovereign](#the-sovereign-drallis-ehr) [Drallis Ehr](#the-sovereign-drallis-ehr) and his Council. An immortal, the [Sovereign](#the-sovereign-drallis-ehr) has been the head of state for the [Central Authority](#the-central-authority) since its inception.
 
-Dialogue: [Akira](Akira.md), [Alpha](Alpha.md), [Amara](Amara.md), [Beiruul](Beiruul.md), [Blade Temple Guard](Blade_Temple_Guard.md), [Caitus](Caitus.md), [Calamus](Calamus.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Captain Trist](Captain_Trist.md), [Chud Steel](Chud_Steel.md), [Dapple-Horned Besul](Dapple-Horned_Besul.md), [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md), [Etrean Guard](Etrean_Guard.md), [Evengarde Rest](Evengarde_Rest.md), [Galpin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), [Hector](Hector.md), [Joshua](Joshua.md), [Joshua (Vow of Iron)](<Joshua_(Vow_of_Iron).md>), [Kelsius](Kelsius.md), [Kressa](Kressa.md), [Lysander Spellhardt](Lysander_Spellhardt.md), [Milgram](Milgram.md), [Neophyte Jefferson](Neophyte_Jefferson.md), [Nimea](Nimea.md), [Quiet Stranger](Quiet_Stranger.md), [Sachan Shisui Kobura](Sachan_Shisui_Kobura.md), [Sachan Zaru Ganba](Sachan_Zaru_Ganba.md), [Scope](Scope.md), [Sentinel Augustus](Sentinel_Augustus.md), [Stock](Stock.md), [Windrunner](Windrunner.md) | Books: [Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>), [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>), [The Gideshu March](The_Gideshu_March.md) | Glossary Entries: [The Central Authority](#the-central-authority), [The Central Luminant](#the-central-luminant), [The Citadel of Markor](#the-citadel-of-markor)
+Dialogue: [Akira](Akira.md), [Alpha](Alpha.md), [Amara](Amara.md), [Beiruul](Beiruul.md), [Blade Temple Guard](Blade_Temple_Guard.md), [Caitus](Caitus.md), [Calamus](Calamus.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Captain Trist](Captain_Trist.md), [Chud Steel](Chud_Steel.md), [Dapple-Horned Besul](Dapple-Horned_Besul.md), [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md), [Etrean Guard](Etrean_Guard.md), [Evengarde Rest](Evengarde_Rest.md), [Galpin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), [Hector](Hector.md), [Joshua](Joshua.md), [Joshua (Vow of Iron)](<Joshua_(Vow_of_Iron).md>), [Kelsius](Kelsius.md), [Kressa](Kressa.md), [Lysander Spellhardt](Lysander_Spellhardt.md), [Milgram](Milgram.md), [Neophyte Jefferson](Neophyte_Jefferson.md), [Nimea](Nimea.md), [Peipre](Peipre.md), [Quiet Stranger](Quiet_Stranger.md), [Sachan Shisui Kobura](Sachan_Shisui_Kobura.md), [Sachan Zaru Ganba](Sachan_Zaru_Ganba.md), [Scope](Scope.md), [Sentinel Augustus](Sentinel_Augustus.md), [Stock](Stock.md), [Windrunner](Windrunner.md) | Books: [Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>), [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>), [The Gideshu March](The_Gideshu_March.md) | Glossary Entries: [The Central Authority](#the-central-authority), [The Central Luminant](#the-central-luminant), [The Citadel of Markor](#the-citadel-of-markor)
 
 ### The Citadel of Markor
 
@@ -501,7 +501,7 @@ Dialogue: | Books: | Glossary Entries: [Lighthouses](#lighthouses)
 -   Many believe that the Moonseye is a gate to the afterlife, and that their ancestors look down upon them from it.
 -   The light produced by the Moonseye is its own, and not a reflection of the [Suncross](#the-suncross).
 
-Dialogue: [Hiri](Hiri.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Lake](Lake.md), [Samael](Samael.md), [Soothsayer](Soothsayer.md) | Books: [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>), [Lament of Cirryn](Lament_of_Cirryn.md), [Neatly Embelished Notebook](Neatly_Embelished_Notebook.md), [O Pardoner of Mine](O_Pardoner_of_Mine.md) | Glossary Entries: [Jurik, the Moonseye](#jurik-the-moonseye), [Kaide, the Drowned Light](#kaide-the-drowned-light), [The Lullaby Isles](#the-lullaby-isles), [The Old Dead](#the-old-dead), [The Suncross](#the-suncross), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
+Dialogue: [Hiri](Hiri.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Lake](Lake.md), [Roa](Roa.md), [Samael](Samael.md), [Soothsayer](Soothsayer.md) | Books: [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>), [Lament of Cirryn](Lament_of_Cirryn.md), [Neatly Embelished Notebook](Neatly_Embelished_Notebook.md), [O Pardoner of Mine](O_Pardoner_of_Mine.md) | Glossary Entries: [Jurik, the Moonseye](#jurik-the-moonseye), [Kaide, the Drowned Light](#kaide-the-drowned-light), [The Lullaby Isles](#the-lullaby-isles), [The Old Dead](#the-old-dead), [The Suncross](#the-suncross), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
 
 -   Evidence seems to support the theory that the Moonseye is a mass of souls.
 -   If the Moonseye is a mass of souls, it may well be that it holds the souls of the [Old Dead](#the-old-dead).
@@ -835,7 +835,7 @@ Dialogue: [Liviu](Liviu.md), Any NPC stating a [Chrysid](Chrysid.md) players' na
 -   Those that make a living by exploring ruins and driftlands.
 -   Many are scavengers looking to fence the treasures they find, though there are many ways to turn a profit.
 
-Dialogue: [Beiruul](Beiruul.md), [Braun](Braun.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Disciple Gobletto](Disciple_Gobletto.md), [Forgotten Villager](Forgotten_Villager.md), [Neero](Neero.md), [Nimea](Nimea.md), [Sarbu](Sarbu.md), [Seroth](Seroth.md), [Teacher](Teacher.md) | Books: [Archivist Journal: 'Megalodaunt'](<Archivist_Journal%253A_'Megalodaunt'.md>), [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>) | Glossary Entries:
+Dialogue: [Beiruul](Beiruul.md), [Braun](Braun.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Disciple Gobletto](Disciple_Gobletto.md), [Forgotten Villager](Forgotten_Villager.md), [Neero](Neero.md), [Nimea](Nimea.md), [Roa](Roa.md), [Sarbu](Sarbu.md), [Seroth](Seroth.md), [Teacher](Teacher.md) | Books: [Archivist Journal: 'Megalodaunt'](<Archivist_Journal%253A_'Megalodaunt'.md>), [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>) | Glossary Entries:
 
 ### Talent
 

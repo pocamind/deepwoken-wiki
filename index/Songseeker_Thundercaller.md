@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 201872
+revid: 208881
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers, Humanoids with Unobtainable Outfits]

@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 208854
+revid: 208863
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Consumables, Alchemy]
@@ -90,7 +90,7 @@ Alternatively, a spreadsheet listing the effects of all potion ingredients can b
 | [Dentifilo](Dentifilo.md) | \-2 | +23 |  |  |  |  |  |  |  |  |  |  |
 | [Glumfig](Glumfig.md) | +5 |  | \-2% |  | \-15% |  |  |  | \-0.1/s |  |  |  |
 | [Gobletto](Gobletto.md) |  |  |  |  |  | \-5%\*\* | +85% |  |  |  |  |  |
-| [Grudgeroot](Grudgeroot.md) | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? | ? |
+| [Grudgeroot](Grudgeroot.md) |  |  |  |  |  |  |  |  |  |  |  | \-4%~ |
 | [Hemobloom](Hemobloom.md) | ? | ? | ? | ? | ? | ? | ? | ? | ? | +? | ? | ? |
 | [Marram Grass](Marram_Grass.md) |  | \-23 |  |  | +10% |  |  |  |  |  |  |  |
 | [Ongo](Ongo.md) |  |  |  | +10% | \-5% |  |  |  |  |  |  |  |

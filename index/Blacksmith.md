@@ -1,9 +1,9 @@
 ---
 title: Blacksmith
-revid: 207471
+revid: 208867
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vendors, NPCs, Humanoids with Unobtainable Outfits]
+categories: [Individuals with He/him pronouns, Vendors, NPCs, Humanoids with Unobtainable Outfits]
 ---
 
 # Blacksmith
@@ -12,6 +12,7 @@ categories: [Vendors, NPCs, Humanoids with Unobtainable Outfits]
 |---|---|
 | name | Etris: Caragan, Isle of Vigils: Baragan, Miner's Landing: Rudral, The Floating Keep: Louie Spellhardt |
 | aspect | Etrean, Vesperian, Chrysid, Capra, Gremor, Lightborn, Celtor |
+| pronouns | He/him |
 | location | Etris, Isle of Vigils, Summer Isle, Greathive Aratel, Fort Merit, Miner's Landing, Meteor Isle, Castle Light, The Floating Keep, Voidheart, Guild Bases |
 
 “ Oh? Did you need something? ”
