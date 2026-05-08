@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 208879
+revid: 208945
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -150,8 +150,6 @@ Upon taking the Vanguard Path, you will automatically be granted [Justicar's Arm
 
 **Karita Swap** (☆☆☆)
 
-**Support Mantra**
-
 _WIP_
 
  | 
@@ -159,13 +157,12 @@ _WIP_
 ## Karita Swap (☆☆☆)
 
   
-**Support Mantra**  
 _WIP_
 
  |
 | 
 
-(?) Ether [IconEther](Ether.md)
+50 Ether [IconEther](Ether.md)
 
  | 
 

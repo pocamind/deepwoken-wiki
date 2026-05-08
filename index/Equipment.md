@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 208880
+revid: 208923
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, Equipment, In progress with VOI reason]
@@ -495,14 +495,12 @@ _+Talent: [**Footwork Mastery**](Talents.md#footwork-mastery)_
 **Requires Power 6**
 
  | Variants:  
-Monastery Champion & Gale Enhanced
+Monastery & Gale Enhanced
 
   
-Set: Gale Enhanced  
+Set: Gale Monastery  
 Head: [Gale Enhanced Cowl](Gale_Enhanced_Cowl.md)  
-Torso: [Gale Enhanced Beads](Gale_Enhanced_Beads.md)  
-Ears: [Gale Enhanced Earrings](Gale_Enhanced_Earrings.md)  
-Rings: [Gale Enhanced Ring](Gale_Enhanced_Ring.md)
+Torso: [Gale Enhanced Beads](Gale_Enhanced_Beads.md)
 
  |
 |  | [Gladiator Helm](Gladiator_Helm.md)  
@@ -631,7 +629,7 @@ Legs: [Legion Boots](Legion_Boots.md) |
 _+Talent: [**Blade Dancer**](Talents.md#blade-dancer)_
 
  | Variants:  
-Monastery Champion & Gale Enhanced
+Monastery & Gale Enhanced
 
   
 Set: Monastery Champion  
@@ -875,7 +873,7 @@ _+Talent: **[Exterminator](Cut_Content.md#exterminator)**_
 _+Talent: [**Eureka**](Talents.md#eureka)_  
 **Requires Power 6**
 
- | Styles:  
+ | Variants:  
 Black & Double |
 |  | [Vagabond's Bicorn](<Vagabond's_Bicorn.md>) | _+4 Health_
 
@@ -2552,14 +2550,11 @@ _+Talent: [**Focused Strikes**](Talents.md#focused-strikes)_
 **Requires Power 5**
 
  | Variants:  
-Monastery Champion & Gale Enhanced
+Monastery & Gale Enhanced
 
   
-Set: Gale Enhanced  
-Head: [Gale Enhanced Cowl](Gale_Enhanced_Cowl.md)  
-Torso: [Gale Enhanced Beads](Gale_Enhanced_Beads.md)  
-Ears: [Gale Enhanced Earrings](Gale_Enhanced_Earrings.md)  
-Rings: [Gale Enhanced Ring](Gale_Enhanced_Ring.md)
+Set: Gale Monastery  
+Head: [Gale Enhanced Cowl](Gale_Enhanced_Cowl.md)
 
  |
 | File:Golden Cape.png | Golden Cape  
@@ -3251,7 +3246,7 @@ If using Eruption Path: Lava Serpent, Eruption delay is reduced.
 
  |
 |  | [Freestyler's Band](<Freestyler's_Band.md>) | Reduces the hunger and thirst drain from swimming. |
-| File:Blizzard Ring Old.png | [Frost Ring](Frost_Ring.md)  
+|  | [Frost Ring](Frost_Ring.md)  
 (**Relic**) | Apply a very light slow on your opponent when landing a light attack. This effect stacks. |
 |  | [Ferryman's Ring](<Ferryman's_Ring.md>)  
  | Increases the range of your [Rhythm](Murmur%253A_Rhythm.md) by 50%.

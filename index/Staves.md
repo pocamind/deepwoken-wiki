@@ -1,11 +1,9 @@
 ---
 title: Staves
-revid: 207383
+revid: 208930
 source: https://deepwoken.fandom.com/wiki/Staves
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Weapons, Medium Weapons, Weapons by Class]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Weapons, Medium Weapons, Weapons by Class]
 ---
 
 # Staves

@@ -1,6 +1,6 @@
 ---
 title: King Thresher Spine
-revid: 160182
+revid: 208957
 source: https://deepwoken.fandom.com/wiki/King_Thresher_Spine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]

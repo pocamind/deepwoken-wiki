@@ -1,6 +1,6 @@
 ---
 title: Gale Enhanced Cowl
-revid: 207179
+revid: 208921
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Head, Craftable, Equipment, Hoods]
@@ -17,7 +17,7 @@ categories: [Pathfinder Exclusive, Head, Craftable, Equipment, Hoods]
 | weight | 1 |
 | innate stats | +5% Stealth , +2 Rare Pips |
 | innate talent | Blade DancerFootwork Mastery |
-| set | Gale Enhanced Cowl, Gale Enhanced Beads, Gale Enhanced Earrings, Gale Enhanced Ring |
+| set | Gale Enhanced Cowl, Gale Enhanced Beads |
 | set talent | N/A |
 | bankable | No |
 | droppable | No |

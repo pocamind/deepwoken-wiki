@@ -1,6 +1,6 @@
 ---
 title: Frost Ring
-revid: 201689
+revid: 208908
 source: https://deepwoken.fandom.com/wiki/Frost_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, Relics, Equipment Relics, Craftable]

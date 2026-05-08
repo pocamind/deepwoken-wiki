@@ -1,6 +1,6 @@
 ---
 title: Egg
-revid: 178281
+revid: 208931
 source: https://deepwoken.fandom.com/wiki/Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Harvestables, Food Ingredients]
@@ -44,7 +44,7 @@ Eggs are an ingredient commonly found atop high places. They can be gathered in 
 #### [Etris](Etris.md)
 
 -   On top of a cargo lift on the right side of the docks
--   On a pipe near the central tree where [Polis](Polis.md) is (the one facing the Mantra shop)
+-   On a pipe near the central tree where [Polis](Polis.md) is (the one facing the mantra building)
 -   On a small tree near the pillars left from the cave entrance
 -   On a tower near the Antiquarian (The one facing the gremor camp)
 

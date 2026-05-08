@@ -1,11 +1,9 @@
 ---
 title: "Knell, The Lunatic Resonator"
-revid: 208730
+revid: 208953
 source: https://deepwoken.fandom.com/wiki/Knell%2C_The_Lunatic_Resonator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Anansi NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, Individuals with He/him pronouns, Enemies, Bosses, Deceased characters]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Anansi NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, Enemies, Bosses, Deceased characters]
 ---
 
 # Knell, The Lunatic Resonator
@@ -52,7 +50,9 @@ When Simforea drifted through the Voidsea near to the [Eastern Luminant](Luminan
 
  | Knell slashes at the player with his claws six times.
 
- |  |
+ | 
+
+ |
 | 
 
 **Arachnid Leap**  
@@ -66,7 +66,9 @@ _Uses Telegraph_
 
 Jump
 
- |  |
+ | 
+
+ |
 | 
 
 **Pouncing Grapple**  
@@ -82,7 +84,9 @@ _Uses Telegraph_
 
 Parry
 
- |  |
+ | 
+
+ |
 | 
 
 **Bell Fall**  
@@ -90,7 +94,9 @@ Parry
 
  | Knell flicks one of his hands upwards, causing a small cluster of bells to fall on top of the player.
 
- |  |
+ | 
+
+ |
 | 
 
 **Great Bell Fall**  
@@ -100,7 +106,9 @@ Parry
 
 -   This attack is simmilar to **Bell Fall** but applies knockdown upon being hit.
 
- |  |
+ | 
+
+ |
 | 
 
 **Raining Resonation**  
@@ -116,7 +124,9 @@ _Uses Telegraph_
 
 Block
 
- |  |
+ | 
+
+ |
 | 
 
 **A Toll of the Bell**  
@@ -134,7 +144,9 @@ _Uses Telegraph_
 
 Dodge
 
- |  |
+ | 
+
+ |
 | 
 
 **Carillon Call**  
@@ -152,17 +164,22 @@ _Uses Telegraph_
 
 Avoid
 
- |  |
+ | 
+
+ |
 | 
 
-**Rain chimes**  
+**Rain Chimes**  
 (★☆☆)
 
  | Knell twirls in place and summon chimes that rain from above.
 
 -   This move only occurs durring his second phase.
+-   The chimes have collision, which could interrupt your retreat.
 
- |  |
+ | 
+
+ |
 
 ## Finisher
 

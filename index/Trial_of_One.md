@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 200494
+revid: 208949
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dungeons, Locations in the Etrean Luminant, Locations]
@@ -20,7 +20,7 @@ The **Trial of One** is a location in _Deepwoken_. It is currently one of the tw
 
 The Trial of One is a dungeon designed to boost experienced players progress easily through early-game progression stat wise, The Trial consists of 9 respective challenges that contains 2 parry checks and 7 monsters (with a simultaneous parry check on the last challenge).
 
-The entrance is located under [Outpost Antumbra](Outpost_Antumbra.md) in [Minityrsa](Minityrsa.md) where at the rear right corner is an open latch leading down to a short hallway which at the end is a slightly opened gate with a fully white glowing entrance. The gate will only allow players who are [Power](Power.md) 1 to enter. Additionally, you may not enter if you put ANY investment points in, or not a [Deepbound](Deepbound.md), otherwise the gate would stun and knock the player back if they exceed the required Power. **You are only able to attempt the Trial once per life** (you cannot re-enter the trial if you have completed the first parry check).
+The entrance is located under [Outpost Antumbra](Outpost_Antumbra.md) in [Minityrsa](Minityrsa.md) where at the rear right corner is an open latch leading down to a short hallway which at the end is a slightly opened gate with a fully white glowing entrance. The gate will only allow players who are [Power](Power.md) 1 to enter. Otherwise the gate would stun and knock the player back if they exceed the required Power. **You are only able to attempt the Trial once per life** (you cannot re-enter the trial if you have completed the first parry check).
 
 After the completion of each challenge you gain some experience, but you can only train once (after defeating the Megalodaunt, 1 attribute point). Being a very difficult trial for many, its intended for highly skilled and experienced players to get new builds up relatively quickly.
 

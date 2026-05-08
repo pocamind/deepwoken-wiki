@@ -1,6 +1,6 @@
 ---
 title: Gale Enhanced Ring
-revid: 202054
+revid: 208917
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, Craftable]
@@ -15,8 +15,6 @@ categories: [Equipment, Rings, Craftable]
 | selling price | 50 |
 | requirements | LVL 10 |
 | weight | 0.1 |
-| set | Gale Enhanced Cowl, Gale Enhanced Beads, Gale Enhanced Earrings, Gale Enhanced Ring |
-| set talent | N/A |
 | bankable | No |
 | droppable | No |
 | enchantable | No |
@@ -26,8 +24,8 @@ categories: [Equipment, Rings, Craftable]
 
 ## Description
 
-**Gale Enhanced Ring** is a Ring [Equipment](Equipment.md) piece that grants its user the ability to proc [Suffocation](https://deepwoken.fandom.com/wiki/Status_Effects#Suffocate) when you flourish an opponent. This ring has no innate pips on it.
+**Gale Enhanced Ring** is a Ring [Equipment](Equipment.md) piece that grants its user the ability to proc [Suffocation](Status_Effects.md#suffocate) when you flourish an opponent.
 
-The Suffocation status effects lasts for 4.5 seconds. With the Spectre Path, it sends a Phantom that applies the Winded debuff to the target for 5 seconds.
+The Suffocation status effects lasts for 4.5 seconds. If you have the [Apparitions](Talents.md#apparitions) Talent from the [Specter Path](Talents.md#haunted-gale-specter), this Ring will instead spawn an Apparition that attacks the target, applying [Winded](Status_Effects.md#winded) for 5 seconds.
 
 Wearing the ring gives you a Galebreathe visual effect on your hand.

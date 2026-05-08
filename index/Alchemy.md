@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 208863
+revid: 208954
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Consumables, Alchemy]
@@ -483,14 +483,14 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td><b>Renewing</b></td>
   <td>Salve<p>Potion</p></td>
   <td>Grudgeroot</td>
-  <td>Cures a small amount of <b>Wither</b> 6%ish per ingredient</td>
+  <td>Cures a small amount of <b><a href="Status_Effects.md#wither">Wither</a></b> 6%ish per ingredient</td>
   <td>Bright pink particles<p>A very useful potion when paired with the <b>Linkstrider</b> oath as you can negate the <b>Wither</b> downside to using <b>Symbiotic Sustain.</b> It can also be paired with the <b>Sanguine Transfuser</b> to negate the W<b>ither</b> drawbacks. [Aromatic Salts + Crit]</p></td>
 </tr>
 <tr>
   <td><b>Eroding</b></td>
   <td>Bane<p>?</p></td>
   <td>Grudgeroot</td>
-  <td>Opposite effect to <b>Renewing</b>, applies <b>Wither</b></td>
+  <td>Opposite effect to <b>Renewing</b>, applies <b><a href="Status_Effects.md#wither">Wither</a></b></td>
   <td>Darker pink particles<p>This potion is the mirror opposite of the Renewing potion and can apply LOTS of <b>Wither</b> if spammed or used in an Aromatic Salts potion. Good for builds that apply <b>Wither</b> or for preventing supports from being able to heal allies.</p></td>
 </tr>
 </tbody>
@@ -592,6 +592,13 @@ When brewing potions for an instant effect (like Rejuvenation or Soothing), poti
     -   Biotic and Aromatic Salts are highly recommended for this potion, as they can drain a very significant amount of your opponent's blood without causing any issues for yourself.
     -   Damage ingredients (Glumfigs) were used here due to blood loss also being tied to damage dealt. These of course, can be changed if you wish to have a different additional effect.
     -   It isn't recommended to have too many of these potions in your Distillery, as blood is not a resource you can get back very easily, and these drain a significant amount of blood per potion.
+-   **Wither Restoration** - 3 Grudgeroots
+    -   The secondary ingredient can be anything you want \[aside from duration increasing ingredients since this is an instant effect potion\], as no other ingredient will improve upon the **[Wither](Status_Effects.md#wither)** restoration effects.
+    -   With enough Potency, drinking just one of these potions is enough to cancel out the **Wither** downside of a corrupted resonance.
+    -   A surprisingly useful potion to have on hand or inside the distillery as there are lots of sources that can apply **Wither**. Stacking this with the **Placebo Effect** talent can help you clear the **Wither** of allies as well.
+-   **Wither Application** \[Saltchemist Exclusive\] - 3 Grudgeroots + \[2 Extra Ingredients of Choice\] + Antithetic Salts + Aromatic Salts + Biotic Salts
+    -   Due to this potion effect in general being [Saltchemist](Oath%253A_Saltchemist.md) Exclusive, the ingredients used reflect this.
+    -   Biotic and Aromatic Salts are highly recommended for this potion, as they can drain a very significant amount of your opponent's **Wither** without causing too much issues for yourself or allies. Additionally, having the **Chain Reaction** talent will increase the potency by 40% due to Aromatic Salts reapplying the potion effect.
 
 ## Important Ingredient Locations
 

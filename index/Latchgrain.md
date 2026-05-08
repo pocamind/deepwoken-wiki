@@ -1,6 +1,6 @@
 ---
 title: Latchgrain
-revid: 208842
+revid: 208960
 source: https://deepwoken.fandom.com/wiki/Latchgrain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Ingredients, Harvestables]
@@ -29,6 +29,10 @@ This page describes content that is exclusive to the **Pathfinder** gamemode.
 This content is not accessible outside of this gamemode.
 
   
+
+## Description
+
+Latchgrain is an edible grass native to [Simforea](Simforea.md).
 
 ## Crafting
 

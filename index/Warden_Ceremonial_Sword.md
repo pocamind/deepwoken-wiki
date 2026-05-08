@@ -1,6 +1,6 @@
 ---
 title: Warden Ceremonial Sword
-revid: 200972
+revid: 208929
 source: https://deepwoken.fandom.com/wiki/Warden_Ceremonial_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Swords, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
@@ -23,7 +23,7 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Swords, Wea
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Warden Ceremonial Sword |
-| m.compatible | Swords, Clubs, Twinblades, Spears, Bows |
+| m.compatible | Swords, Clubs, Twinblades, Spears, Staves, Bows |
 | stances | 2 Handed, 1 Handed |
 | rarity | Rare |
 | selling price | 25 |
