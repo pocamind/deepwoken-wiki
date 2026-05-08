@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 208175
+revid: 209046
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Enemies, Etrea Enemies, Individuals with unspecified pronouns, Justicars]
@@ -34,7 +34,7 @@ Polis can be found sitting under the giant tree in the middle of [Etris](Etris.m
 
 ## Dialogue
 
-**First Encounter:**
+**Other Origins:**
 
 **First Encounter:**
 
@@ -77,6 +77,7 @@ Polis can be found sitting under the giant tree in the middle of [Etris](Etris.m
 </tr>
 <tr>
   <td>[End Dialogue] (He gives you a gold ring)</td>
+  <td></td>
 </tr>
 </tbody>
 </table>
@@ -101,7 +102,9 @@ Polis can be found sitting under the giant tree in the middle of [Etris](Etris.m
 </tbody>
 </table>
 
-**After you hear their story:**
+**Subsequent Encounters:**
+
+After you have received a [Gold Ring](Gold_Ring.md) as thanks from hearing his story.
 
 <table>
 <tbody>
@@ -156,6 +159,76 @@ Polis can be found sitting under the giant tree in the middle of [Etris](Etris.m
 </tr>
 <tr>
   <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Justicar:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="8">Begin</td>
+</tr>
+<tr>
+  <td colspan="8">Ah, a fellow Justicar? May Alsin guide your way, stranger. I do not believe we've met before.</td>
+</tr>
+<tr>
+  <td colspan="4">What are you doing here?</td>
+  <td colspan="4">How do I become stronger as a Justicar, like you?</td>
+</tr>
+<tr>
+  <td colspan="4">Name's Polis. I'm a fellow Justicar walking the Path, from the Frozen Coast.</td>
+  <td colspan="4">Follow in Alsin's wisdom - that freedom is the most valuable thing of all - and pursue the Path. Many of our creed in the East believe that aiding others in the pursuit of <i>their</i> path is a Justicar's true purpose, although this need not be the only path for you to follow. When the weak and weary cry for help, you may answer the Justicar's call. Aid and protect them - guide them as Alsin guides us.</td>
+</tr>
+<tr>
+  <td colspan="4">Frozen Coast? Where's that?</td>
+  <td colspan="4">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="4">You're obviously not very well travelled... It is located in the <a href="Glossary.md#the-northern-luminant">Northern Luminant</a>. That place can sink beneath the waves for all I care. As for myself, I am walking the <i>Path</i> as I see fit. Each Justicar interprets the Path in their own way, and they live their life by it.</td>
+</tr>
+<tr>
+  <td colspan="4">What is the Path?</td>
+</tr>
+<tr>
+  <td colspan="4">It is the creed that all of us Justicars live by. We are all taught to interpret the path in our own ways. Some may interpret the path to help others, some may use it to exact righteous violence upon people. I can only hope that the path I have chosen to follow is right.</td>
+</tr>
+<tr>
+  <td colspan="4">What happens if you pick incorrectly?</td>
+</tr>
+<tr>
+  <td colspan="4">Then may Alsin have mercy on me. Most of the locals see me as a bad omen so they don't speak with me... I appreciate you listening to my story.</td>
+</tr>
+<tr>
+  <td>[End Dialogue], He gives you a Gold Ring</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+After you have received a [Gold Ring](Gold_Ring.md) as thanks from hearing his story.
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">By Alsin's guiding hand, our paths cross again, fellow Justicar. I hope your pursuit of the Path is fruitful.</td>
+</tr>
+<tr>
+  <td colspan="6">What are you doing here?</td>
+  <td colspan="6">How do I become stronger as a Justicar, like you?</td>
+</tr>
+<tr>
+  <td colspan="12">[See first instance]</td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

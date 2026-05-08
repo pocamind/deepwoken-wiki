@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 208708
+revid: 209041
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Character, Mechanics, Creation, Origins, Features absent in Vow of Iron]
@@ -78,7 +78,7 @@ The player starts out having only the **[Castaway](Castaway.md)** origin, with t
 -   [Deepbound](Deepbound.md): An origin centered around the [First Layer](First_Layer.md) of [The Depths](The_Depths.md).
     -   Deepbounds get an experience boost while farming in the depths, while farming outside of it will net them reduced experience points.
     -   Deepbounds also gain exclusive access to the various amenities and benefits inside [Castle Light](Castle_Light.md).
-        -   While anyone can enter Castle Light, if they entered the depths by dying/drowning, instead of through a [Whirlpool](Whirlpools.md), they will not be able to enter Castle Light due to the yellow barrier in front of it. But a deepbound can still enter Castle Light even if they die to enter the depths.
+        -   While anyone can enter Castle Light, if they entered the depths by dying/drowning, instead of through a [Whirlpool](Whirlpools.md), they will not be able to enter Castle Light due to the yellow barrier in front of it. But a Deepbound can still enter Castle Light even if they die to enter the depths.
     -   Deepbounds gain a Talent Tool called [Call of the Deep](Deepbound.md#call-of-the-deep): Using it in the depths will teleport them to Castle Light, while using it in the overworld will bring them to the depths.
     -   Deepbounds can spawn in either [Castle Light](Castle_Light.md) or near [The Diluvian Mechanism](The_Diluvian_Mechanism.md), and they are affiliated with [The Divers](The_Divers.md).
 
@@ -94,51 +94,48 @@ The player starts out having only the **[Castaway](Castaway.md)** origin, with t
     -   Voidwalkers spawn directly and only in [Voidheart](Voidheart.md), and they are affiliated with [The Knives of Eylis](The_Knives_of_Eylis.md).
 
 -   [Ignition Delver](Ignition_Delver.md): An origin centered around jobs ([Job Boards](Job_Boards.md)), events ([Random Encounters](Random_Encounters.md)), and [Dungeons](Dungeons.md).
-    -   Ignition Delvers get an experience boost from dungeons and jobs, with the drawback of gaining reduced experience points from everything else.
+    -   Ignition Delvers get an experience boost from dungeons and jobs, with the drawback of gaining reduced experience points from everything else. The intended method for progression is through the [Saramaed Hollow](Saramaed_Hollow.md) dungeon, though it is not the Ignition Delver's only option.
     -   Ignition Delvers gain exclusive access to the [Union Pager](Ignition_Delver.md) item, which allows them to access jobs from every job board on the map remotely, much like Voidwalkers and their bounties.
     -   Ignition Delvers also gain exclusive access to the [Hollow Forge](Hollow_Forge.md), which allows them to craft various [Relics](Relics.md) with recipes that wouldn't be accessible without it. Only Ignition Delvers have access to this.
     -   Ignition Delvers spawn with the [Union Hook](Talents.md#union-hook) Talent from the beginning, allowing them to use [Union Hooks](Union_Hooks.md) without having to do the quest for it first.
     -   Ignition Delvers gain exclusive access to the various amenities and benefits at [The Chariot's Spire](<The_Chariot's_Spire.md>).
         -   Note: While anyone can enter The Chariot's Spire, if they entered the depths by dying/drowning, instead of through a [Whirlpool](Whirlpools.md), they will not be able to enter the chariot's spire due to the yellow barrier in front of it. An Ignition Delver will be subject to the same fate, unlike Deepbounds and their Castle Light.
-        -   Ignition Delvers also gain exclusive access to the Deep Driller in [The Chariot's Spire](<The_Chariot's_Spire.md>), which allows them to reenter [Layer 2](Second_Layer.md) alongside 4 others without a [Light Hook](Light_Hook.md), starting at [The Frontier Furnace](The_Frontier_Furnace.md) with the generator already turned on, though this can only be done if the Ignition Delver has already escaped the second layer using the deep driller already.
+        -   Ignition Delvers also gain exclusive access to the Deep Driller in [The Chariot's Spire](<The_Chariot's_Spire.md>), which allows them to reenter [Layer 2](Second_Layer.md) alongside 4 others without a [Light Hook](Light_Hook.md), starting at [The Frontier Furnace](The_Frontier_Furnace.md) with the generator already turned on. Although, this can only be done if the Ignition Delver has already escaped the second layer via the deep driller already.
     -   Ignition Deepdelvers can spawn in either [Miner's Landing](<Miner's_Landing.md>) in the eastern luminant or [The Chariot's Spire](<The_Chariot's_Spire.md>) in the depths, and they are affiliated with [The Ignition Union](The_Ignition_Union.md).
 
 -   [Authority Ensign](Authority_Ensign.md): An origin centered becoming a "rank and file" soldier of [The Central Authority](The_Central_Authority.md) faction.
-    -   Authority Ensigns gain the ability to jail players after they have ranked up once. This replaces manual [gripping](<Terminology_(game).md#grip>). For more information, visit the [Escaping Jail](Fort_Merit.md#escaping-jail) page.
-    -   Authority Ensigns also gain the Talent Tool [Horn of Authority](Authority_Ensign.md#horn-of-authority), which allows them to mark escaping prisoners when it is blown near them, applying a [Combat Tag](Combat_Tag.md) onto them.
-    -   Authority Ensigns have access to [promotions](Authority_Ensign.md#promotions) and [divisions](Authority_Ensign.md#divisions). This is much like Justicar's Paths.
-        -   Authority Ensigns can do [authority missions](Authority_Ensign.md#progression) to progress. This gives ample experience points, alongside 3-5 Full Training points (its amount varies by rank, giving more to higher ranks) and raises points to the promotion point count. Once the Ensign reaches a specific threshold of promotion points, the points will be reset, and they will be promoted one rank.
-        -   Each promotion will give an Ensign one free [authority ensign-exclusive promotion talent](Authority_Ensign.md#enlistment-talents).
-        -   Once the Ensign achieves two promotions, going from **Private** to **Corporal**, and **Corporal** to **Lance Corporal**, they unlock the ability to join a division. The Ensign cannot gain any further promotion points until they join a division. Once the Ensign joins a division, they will automaticaly receive a division-exclusive outfit and mantra specific to said division, while locking them out from entering other divisions. Entering a division does not count as a promotion, and therefore does not give a promotion talent.
-        -   Promoting further in an Ensign's chosen division, be it [Command Division](Authority_Ensign.md#command-division), [Inquisition Division](Authority_Ensign.md#inquisition-division), or [Shock Corps Division](Authority_Ensign.md#shock-corps-division), will give them choices for division-exclusive talents alongside the generic promotion talents. Once the Ensign reaches the max rank in their division, they can talk to their division leader NPC to gain a division-exclusive weapon.
-        -   Each rank has its own insignia, appearing below the name of a specific Ensign and next to it on the leaderboard on the top right of the screen, which is viewable by other Ensigns.
-    -   Benefits
-        -   Authority Ensigns can equip Authority-related equipments and weapons without needing to meet their baseline requirements.
-        -   Authority Ensigns gain 4 to 5 free Talents that are exclusive to Ensigns at no cost once they have been promoted to the highest rank in their chosen division.
-        -   Authority Ensigns gain exclusive weapons, outfits, and mantras at no cost depending on their chosen division.
-        -   Authority Ensigns gain access to authority missions, which have its own exclusive lootpool with many generic items. One of these items, while **VERY** rare, is somewhat exclusive to Authority Ensign missions, called the [Warped Blue Gem](Warped_Blue_Gem.md).
-        -   Authority Ensigns also gain exclusive access to purchase various weapons and items in the Fort Merit Armory.
-        -   Authority Ensigns are automatically allied with every other Authority Ensigns in the server. They also gain exclusive access to the [Salute](Emotes.md#miscellaneous) emote.
-    -   Drawbacks
+    -   Authority Ensigns are automatically allied with every other Authority Ensigns in the server. They also gain exclusive access to the [Salute](Emotes.md#miscellaneous) emote.
+    -   Authority Ensigns gain the ability to jail players after they have ranked up once. This replaces manual [gripping](<Terminology_(game).md#grip>). For more information, visit the [Escaping Jail](Fort_Merit.md#escaping-jail) page. They also obtain the [Horn of Authority](Authority_Ensign.md#horn-of-authority) Talent Tool to mark escaping prisoners when it is blown near them, applying a [Combat Tag](Combat_Tag.md).
+    -   Authority Ensigns can equip Authority-related equipments and weapons without needing to meet their baseline requirements, which is a major benefit.
+    -   Authority Ensigns also gain exclusive access to purchase various weapons and items in the Fort Merit Armory.
+    -   Authority Ensigns have access to [Rank Promotions](Authority_Ensign.md#promotions) and [Divisions](Authority_Ensign.md#divisions). This is much like Justicar's Paths.
+        -   Authority Ensigns can do [Authority Missions](Authority_Ensign.md#progression) to progress. This gives ample experience points, alongside some Full Training points, and increases promotion points, earning a Rank Promotion with enough points.
+        -   Each promotion will give an Ensign one free generic [authority ensign-exclusive promotion talent](Authority_Ensign.md#enlistment-talents).
+        -   With enough promotions and other requirements, Ensigns unlock the choice to join a division.
+        -   Joining one of three divisions ([Command](Authority_Ensign.md#command-division), [Inquisition](Authority_Ensign.md#inquisition-division), or [Shock Corps](Authority_Ensign.md#shock-corps-division)) will automatically equip them with an [Outfit](Outfits.md) and mantra exclusive to their chosen division, and unlock division-exclusive talents upon further promotions, while locking them out from entering other divisions.
+        -   Once an ensign promotes to the highest rank in a division, they will receive a division-exclusive weapon upon interacting with their division leader NPC.
+        -   Each rank has its own insignia, appearing on top of the name of a specific Ensign, and next to it on the leaderboard on the top right of the screen, which is viewable by other Ensigns.
+    -   While this all seems well, it comes with many costs:
         -   Authority Ensigns no longer have access to their [Chime of Dwelling](Chime_of_Dwelling.md) if they are in a [Guild](Guilds.md).
-        -   Authority Ensigns cannot gain reputation with [Etrea](Etrea.md) (which puts out bounties) and [The Children of Navae](The_Children_of_Navae.md) (doesn't put out bounties), which means that they will always be able to be voidwalked and hunted permanently.
-        -   Authority Ensigns will have their reputation with [The Hundred Legions](The_Hundred_Legions.md) **capped** at high 'Ally'. The cap is low enough so that you are unable to get the [Legion Intelligence](Legion_Intelligence.md) or [Blightsurger](Oath%253A_Blightsurger.md) oath unless the Ensign is a [Khan](Khan.md) or have the [Celebrity](Talents.md#celebrity) Talent.
-        -   Authority Ensigns cannot equip or craft any other [Outfit](Outfits.md) for [Transmogging](Transmogrification.md) or otherwise.
-        -   If an Authority Ensign has not joined a division yet, they will be subjected to the AWOL (absent without leave) timer, which counts down from 15 minutes whenever they leave an authority controlled territory. Once it reaches 0, they will be branded a deserter and **exiled**. Other exceptions from this include being on a mission, in a [Dungeon](Dungeons.md), in [The Depths](The_Depths.md), and etc.
+        -   Authority Ensigns cannot gain reputation with [Etrea](Etrea.md) (which puts out bounties) and [The Children of Navae](The_Children_of_Navae.md) (doesn't put out bounties), which means that they will always be open to being hunted by Voidwalkers.
+        -   Authority Ensigns will have their reputation with [The Hundred Legions](The_Hundred_Legions.md) **capped** at high 'Ally'. The cap is low enough so that they are unable to get the [Legion Intelligence](Legion_Intelligence.md) quest item or [Blightsurger](Oath%253A_Blightsurger.md) [Oath](Oaths.md), unless the Ensign is a [Khan](Khan.md) or have the [Celebrity](Talents.md#celebrity) Talent.
+        -   Authority Ensigns cannot equip or craft any other [Outfit](Outfits.md) to wear, for [Transmogging](Transmogrification.md) or otherwise.
+        -   If an Authority Ensign has yet to join a division, they will be subject to the AWOL (absent without leave) timer, which counts down from 15 minutes whenever they leave an authority controlled territory. Once it reaches 0, they will be branded a deserter and **exiled**. Other exceptions from this include being on a mission, in a [Dungeon](Dungeons.md), in [The Depths](The_Depths.md), and etc.
         -   If an Authority Ensign kills another Authority Ensign member of equal or higher rank, they will be branded a traitor and **exiled**.
         -   Being **[Exiled](Authority_Ensign.md#exile)** will make an Ensign lose all previously mentioned benefits, although they will still keep their exclusive talents, weapons, outfits, and mantras that they gained. It will also remove the restriction on reputation, outfit crafting, and not being able to use chime of dwelling.
     -   Authority Ensigns spawn directly and only in [Port Merit](Port_Merit.md), which is near [Fort Merit](Fort_Merit.md), and they are affiliated with [The Central Authority](The_Central_Authority.md).
 
 -   [Justicar](<Justicar_(Origin).md>): An origin centered around helping players, especially those who cannot defend themselves. It is the Voidwalker origin's counterpart.
-    -   Justicars gain an experience boost while helping Castaways, alongside gaining promotion points at the rate of 45-50 points per event done with a Castaway.
-    -   Justicars gain a Talent Tool called [Justicar's Aid](<Justicar_(Origin).md#justicars-aid>), which allows them to teleport to any Castaways that have used their [Justicar Whistle](Castaway.md#justicar-whistle) and teleport to them, marking that Castaway as the Justicar's mark.
+    -   Justicar's progression boost comes from helping Castaways, with Justicars gaining an experience boost while helping Castaways.
+    -   Justicars gain a Talent Tool called [Justicar's Aid](<Justicar_(Origin).md#justicars-aid>), which allows them to teleport to any Castaways that have used their [Justicar Whistle](Castaway.md#justicar-whistle) and teleport to them, marking that Castaway as the Justicar's mark. Do note that you do not need to use this to gain promotion points.
         -   The Justicar cannot attack the Castaway, or else the Justicar will get stunned. If the Castaway attacks the Justicar, the Justicar will also get stunned. These effects will be removed if the Castaway attacks the Justicar too many times.
         -   If the Justicar dies, or the Castaway dies during this, the Justicar will lose 50 promotion points.
-    -   Aside from helping Castaways, Justicars can also kill Voidwalkers for 50 promotion points if said Voidwalker is around the same level or higher with the Justicar
-    -   Much like Authority Ensigns once a Justicar reaches a specific threshold of promotion points, those points will be reset, and they will gain a promotion.
+    -   Much like Authority Ensigns once a Justicar reaches a specific threshold of promotion points, they will gain a promotion.
+        -   There are a few sources of promotions points: Killing a Voidwalker, defeating [World Bosses](Bosses.md#world-bosses), and doing random events with a Castaway, which is the intended method.
         -   Upon any promotion, Justicars will gain a [justicar-exclusive promotion talent](<Justicar_(Origin).md#promotion-talents>).
-        -   Once a Justicar achieves 2 promotions, going from **Neophyte** to **Disciple**, and **Disciple** to **Elder**, they unlock the ability to walk a Path. The Justicar cannot gain any further promotion points until they join a Path. Once the Justicar selects a path, they will automaticaly receive a path-exclusive outfit and mantra specific to said path, while locking them out from selecting the other path. Entering a path does not count as a promotion, and therefore does not give a promotion talent.
-        -   Promoting further in a Justicar's chosen path, be it [Vanguard Path](<Justicar_(Origin).md#vanguard-path>), or [Warder Path](<Justicar_(Origin).md#warder-path>), will give them choices for path-exclusive talents alongside the generic promotion talents. Although exclusive to the [Vanguard Path](<Justicar_(Origin).md#vanguard-path>), once the Justicar reaches the max rank while walking the vanguard path, they can talk to [Konga The Third](Konga_The_Third.md) to gain a path-exclusive weapon.
+        -   With enough promotions, Justicars unlock the ability to walk a Path.
+        -   Choosing to walk one of two paths ([Warder](<Justicar_(Origin).md#warder-path>) or [Vanguard](<Justicar_(Origin).md#vanguard-path>)) will automatically equip them with an [Outfit](Outfits.md) and mantra exclusive to their chosen Path, and unlock Path-exclusive talents upon further promotions, while locking them out from selecting the other Path.
+        -   Once a Vanguard Justicar promotes to the highest rank in a Path, they can talk to [Konga The Third](Konga_The_Third.md) to gain the path-exclusive [Karita Plating](Karita_Plating.md) weapon. There is currently no exclusive weapon for the Warder Path.
     -   Justicars spawn directly and only in [Alsin's Landing](<Alsin's_Landing.md>), and they are affiliated with [The Justicar](The_Justicar.md), who all follow [Alsin](Alsin.md).
 
 ## Upcoming Origins

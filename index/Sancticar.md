@@ -1,6 +1,6 @@
 ---
 title: Sancticar
-revid: 208711
+revid: 209038
 source: https://deepwoken.fandom.com/wiki/Sancticar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons, Weapons with Talents]
@@ -21,6 +21,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | attack duration | 0.7s |
 | penetration | 15% |
 | talent | Both Ends - Pressing M2 after landing a light attack with the staff performs a follow-up swing from the opposite end. |
+| stances | 2 Handed, 1 Handed |
 | weight | 2 |
 | bankable | No |
 | droppable | No |

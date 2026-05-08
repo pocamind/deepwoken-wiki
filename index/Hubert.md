@@ -1,9 +1,9 @@
 ---
 title: Hubert
-revid: 209027
+revid: 209042
 source: https://deepwoken.fandom.com/wiki/Hubert
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
+categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
 ---
 
 # Hubert

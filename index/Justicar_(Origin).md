@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 209018
+revid: 209049
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -26,15 +26,13 @@ _Justicar_ is the counterpart of [Voidwalker](Voidwalker.md). They protect other
 
 To obtain the Justicar Origin, the player must do one of the following:
 
--   Participate in the [Cinders of Etris](Cinders_of_Etris.md) Disaster World Event.
+-   Participate in the [Cinders of Etris](Cinders_of_Etris.md) Disaster World Event. (Killing one [Authority Soldier](Authority_Soldier.md) during it is enough)
 
 OR
 
--   Help a player at or below Power 15 to escape at the [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation).
+-   Help a player at or below Power 15 to escape the [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation).
 
-Once either of these requirements have been met, speak to [Polis](Polis.md). Upon subsequent encounters, you want to interact with the fourth option that allows you to walk the path of [Alsin](Alsin.md).
-
-\*P.S. - Currently, you don't need to complete the entire event. Instead of fighting the whole [The Central Authority](The_Central_Authority.md) army, kill one or two [Authority Soldier](Authority_Soldier.md) and go straight to [Polis](Polis.md) (If he's not in combat; otherwise, hop to another server).
+Once either of these requirements have been met, speak to [Polis](Polis.md) after you have already received a [Gold Ring](Gold_Ring.md) from him. After which, talk to him about wanting to join his cause, which allows you to walk the path of [Alsin](Alsin.md).
 
 ## Spawn
 
@@ -54,15 +52,16 @@ Justicars spawn at [Alsin's Landing](<Alsin's_Landing.md>) with the [Justicar Ne
 
 ## Progression
 
-Using Justicar's Aid will allow you to choose a specific Castaway which shows their name, power, Luminant, area, and region.
+Justicar's progression is based around helping [Castaways](Castaway.md), which is rewarded in the form of experience points and promotion points. Using [Justicar's Aid](<Justicar_(Origin).md#justicars-aid>) will allow you to choose from a list of Castaways who have used their [Justicar Whistle](Castaway.md#justicar-whistle). This reveals their name, [Power](Power.md), Luminant, general location, and server region.
 
-Helping [Castaway](Castaway.md) progress via events, killing their [Voidwalker](Voidwalker.md), etc. will provide you with 45-50 rank points. If the [Castaway](Castaway.md) dies, or if you die, you fail in your task to protect the [Castaway](Castaway.md) and lose 50 points.
+-   Helping [Castaway](Castaway.md) progress via events, killing their [Voidwalker](Voidwalker.md), and etc. will provide you with 45-50 rankpoints per event.
+    -   Using **Justicar's Aid** will massively speed up this process, although beware that if you die, or the Castaway dies during this, you will lose 50 points.
+    -   Note that you are not required to use **Justicar's Aid** to be eligible for point gains from this, although using it will help in speeding up the process a lot.
 
-Killing a high leveled [Voidwalker](Voidwalker.md) will award you with 50 points.
+There are alternative methods for promotion points as well:
 
-Killing a World Boss (with the exception of [Scion of Ethiron](Scion_of_Ethiron.md)) will award you with 74 points.
-
-Note that you are not required to use Justicar's Aid to be eligible for point gains. You can help Castaways found in the wild for this purpose.
+-   Killing a [Voidwalker](Voidwalker.md) of similar level or higher will award you with 50 points.
+-   Killing a World Boss (with the exception of [Scion of Ethiron](Scion_of_Ethiron.md)) will award you with 74 points.
 
 ## Promotions
 
@@ -83,7 +82,7 @@ These Talents can be chosen upon being promoted at any point in your Justicar pl
 -   **Justicar's Adaptation** - Jus Karita running attacks and criticals can now proc Jus Karita talents even if you arent currently using [Jus Karita](Jus_Karita.md). Your Jus Karita running attacks can now also proc fist talents.
     -   Having the Justicar's Technique Talent allows you to have the Jus Karita running attack on any weapon. This allows you to proc Jus Karita and Fist exclusive Talents on any weapon via the running attack.
 -   **Justicar's Preference** - Replace your critical with the [Jus Karita](Jus_Karita.md) critical attack.
-    -   Regardless of your currently equipped weapon, this will replace your critical attack with [Jus Karita](Jus_Karita.md)'s.
+    -   Regardless of your currently equipped weapon, this will replace your critical attack/attacks with [Jus Karita](Jus_Karita.md)'s.
     -   The Jus Karita critical will adopt your equipped weapon's scaling stat.
     -   Having the Vanguard Style Talent will override this Talent, allowing you to use the Vanguard Style critical on any weapon instead of the Jus Karita one.
 -   **Justicar's Technique** - Replace your running light attack with the Jus Karita running light attack. With the Justicar's Training, your legs extend the range of this running attack by an extra 0.5.
@@ -282,14 +281,12 @@ Warder Path, given automatically after joining it.
 ### Cons
 
 -   Somewhat slow progression in regard to Justicar ranks. Ideally, you would be job stacking with your [Castaway](Castaway.md), which they might not know to do. This is also similar to being an [Authority Ensign](Authority_Ensign.md).
--   The progression is tied with helping players with no real option for solo progression, so this Origin may not appeal to those who primarily play solo.
 -   Some newer Castaways may not know about the details of this origin, and could lead to misunderstandings that could range from them being uncooperative with your help, to them mistaking a Justicar for a [Voidwalker](Voidwalker.md) that's teleporting to them, leading them to be antagonistic against said Justicar.
 -   Evil, sabotaging Castaways with ill-intent.
-    -   Some Castaways can, using [Justicar Whistle](Castaway.md#justicar-whistle) to, spawn you into [Whirlpools](Whirlpools.md) or atop of mountains to kill you, and thus lose rank. Although you do not lose any rank points in the first 10 seconds of teleporting to a Castaway, and you gain a small vision of the location of your target before teleporting.
-    -   Some Castaways can, using [Justicar Whistle](Castaway.md#justicar-whistle) to, bait Justicars into a trapped area with a lot of players, leading them to a quick death.
+    -   Some Castaways can, using [Justicar Whistle](Castaway.md#justicar-whistle) to, spawn you into [Whirlpools](Whirlpools.md) or atop of mountains to kill you, and thus lose rank. Although you do not lose any rank points in the first 10 seconds of teleporting to a Castaway, and you gain details of the location of your target before teleporting.
+    -   Some Castaways can, using [Justicar Whistle](Castaway.md#justicar-whistle) to, bait Justicars into a trapped area with a lot of players or a restricted area, leading them to a quick death.
     -   These events are highly unlikely due to the majority of Castaways being newer players.
--   Difficult to even find a castaway that isn't already being assisted.
--   Ironically, Justicars benefit most from competent Castaways who can quickly complete events, such as veteran players who likely do not need a Justicar's help in the first place. Such a scenario is unlikely during intended gameplay.
+-   Ironically, Justicars benefit most from competent Castaways who can quickly complete events, such as veteran players, who likely do not need a Justicar's help in the first place. Such a scenario is unlikely during intended gameplay.
 
 ## Reputation
 

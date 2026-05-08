@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 208876
+revid: 209047
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1813,7 +1813,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   Bottom Freeze \[Common Talent, Frostdraw\] - Hitting chilled enemies with Ice Projectiles while they are on ice freezes them to the ground.
     -   Prevents you from rotating your character and moving around overall.
     -   Bottom Freeze will end early if damage is taken from any source.
-    -   Prerequisite: 25 Frostdraw, [Ice Daggers](Frostdraw.md#ice-daggers) (Mantra)
+    -   Prerequisite: 25 Frostdraw, [Ice Daggers](Frostdraw.md#ice-daggers) (Mantra) // [Ice Forge](Frostdraw.md#ice-forge) (Mantra)
 
 -   Cryonis \[Common Talent, Frostdraw\] - All ice spells casted ontop of ice cost less Ether.
     -   Ice Mantras cost 20% less ether if casted while standing on ice.
