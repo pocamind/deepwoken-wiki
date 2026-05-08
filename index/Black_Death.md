@@ -1,6 +1,6 @@
 ---
 title: Black Death
-revid: 207071
+revid: 209033
 source: https://deepwoken.fandom.com/wiki/Black_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Reforged Weapons]
@@ -45,7 +45,7 @@ The **Black Death** is the sister of its [red counterpart](Red_Death.md), a tool
 
 Equipping the Black Death grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Corporeal Dissolution** applies [Wither](Status_Effects.md#wither) on any weapon attack that drains Ether, and scales on the amount of Ether drain. This is capped at 30 Wither per proc.
+**Corporeal Dissolution** applies [Wither](Status_Effects.md#wither) on any weapon attack that drains Ether, and scales on the amount of Ether drain. This is capped at 10 Wither per proc.
 
 ## Critical
 

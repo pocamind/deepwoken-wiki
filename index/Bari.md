@@ -1,6 +1,6 @@
 ---
 title: Bari
-revid: 191336
+revid: 208987
 source: https://deepwoken.fandom.com/wiki/Bari
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -21,7 +21,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Bari is an [Etrean](Etrean.md) NPC. He sells starter equipment aimed towards new and early game players.
+Bari is an [Etrean](Etrean.md) NPC. They sell starter equipment aimed towards new and early game players.
 
 ## Location
 

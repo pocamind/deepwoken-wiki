@@ -1,6 +1,6 @@
 ---
 title: Kraphtalos
-revid: 207669
+revid: 209002
 source: https://deepwoken.fandom.com/wiki/Kraphtalos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Kraphtalos is a [Canor](Canor.md) NPC.
+Kraphtalos is a [Canor](Canor.md) NPC. He is a [Justicar](The_Justicar.md).
 
 ## Location
 

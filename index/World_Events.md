@@ -1,6 +1,6 @@
 ---
 title: World Events
-revid: 208442
+revid: 209020
 source: https://deepwoken.fandom.com/wiki/World_Events
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Bosses]
@@ -30,7 +30,7 @@ World events are focused on uniting the players towards accomplishing a single g
 
 ## Disaster
 
-Disasters are events that occur globally on the server without an UI pop-up, it's a subcategory to World Events.
+Disasters are events that occur globally on the server without a UI pop-up, it's a subcategory to World Events.
 
 -   **[Cinders of Etris](Cinders_of_Etris.md)**
     -   [Etris](Etris.md) is being raided by [The Central Authority](The_Central_Authority.md), where you may help them or oppose them.

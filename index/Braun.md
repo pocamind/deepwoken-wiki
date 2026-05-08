@@ -1,9 +1,9 @@
 ---
 title: Braun
-revid: 207667
+revid: 209000
 source: https://deepwoken.fandom.com/wiki/Braun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Chrysid NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
+categories: [Chrysid NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Braun
@@ -12,6 +12,7 @@ categories: [Chrysid NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrea
 |---|---|
 | name | Braun |
 | aspect | Chrysid |
+| pronouns | They/them |
 | location | Alsin's Landing |
 | affiliation | The Justicar |
 
@@ -25,7 +26,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Braun is a [Chrysid](Chrysid.md) NPC.
+Braun is a [Chrysid](Chrysid.md) NPC. They are a [Justicar](The_Justicar.md).
+
+During an expedition where they were guarding a Pathfinder, Braun fought and defeated a [Voidwalker](Voidwalker.md), but their face was damaged during the fight.
 
 ## Location
 

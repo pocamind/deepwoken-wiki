@@ -1,6 +1,6 @@
 ---
 title: Grandmaster Warder Sapphire
-revid: 208149
+revid: 209029
 source: https://deepwoken.fandom.com/wiki/Grandmaster_Warder_Sapphire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Individuals with She/her pronouns, In progress with reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]

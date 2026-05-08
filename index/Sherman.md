@@ -1,19 +1,19 @@
 ---
-title: Joanna
-revid: 209003
-source: https://deepwoken.fandom.com/wiki/Joanna
+title: Sherman
+revid: 209006
+source: https://deepwoken.fandom.com/wiki/Sherman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
+categories: [Canor NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
 
-# Joanna
+# Sherman
 
-| Jonas | |
+| Kars | |
 |---|---|
-| name | Jonas |
-| aspect | Celtor |
+| name | Kars |
+| aspect | Canor |
 | location | Alsin's Landing |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -22,4 +22,4 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Jonas is a [Celtor](Celtor.md) NPC.
+Kars is a [Canor](Canor.md) NPC.

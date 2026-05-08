@@ -1,9 +1,9 @@
 ---
 title: Roa
-revid: 208892
+revid: 208976
 source: https://deepwoken.fandom.com/wiki/Roa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs]
+categories: [Celtor NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -22,7 +22,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Roa is a [Celtor](Celtor.md) NPC. She has a grudge against [Duke Erisia](Duke_Ishamon_Erisia.md).
+Roa is a [Celtor](Celtor.md) NPC. They have a grudge against [Duke Erisia](Duke_Ishamon_Erisia.md).
 
 ## Location
 
@@ -80,6 +80,6 @@ Roa is located at shores of [Lower Erisia](Lower_Erisia.md) next to a broken [St
 </tbody>
 </table>
 
-## Triva
+## Trivia
 
 Compared to other Marten [Celtor](Celtor.md)'s their eyes are a light gray.

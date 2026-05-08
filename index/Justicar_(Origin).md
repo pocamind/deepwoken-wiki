@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 208945
+revid: 209018
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -60,7 +60,7 @@ Helping [Castaway](Castaway.md) progress via events, killing their [Voidwalker](
 
 Killing a high leveled [Voidwalker](Voidwalker.md) will award you with 50 points.
 
-Killing a World Boss will award you with 74 points.
+Killing a World Boss (with the exception of [Scion of Ethiron](Scion_of_Ethiron.md)) will award you with 74 points.
 
 Note that you are not required to use Justicar's Aid to be eligible for point gains. You can help Castaways found in the wild for this purpose.
 

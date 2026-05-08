@@ -1,6 +1,6 @@
 ---
 title: Stonespark
-revid: 208897
+revid: 208970
 source: https://deepwoken.fandom.com/wiki/Stonespark
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters]
@@ -77,4 +77,4 @@ Stonesparks are a mob that can be found deployed throughout [Erisia](Erisia.md),
 
 ## References
 
-1.  [↑](#cite-ref-1) [\_pv\_APR\_19\_01:13a|Version History: April 18th, 2026 | pv\_APR\_19\_01:13a](Version_History/Uncollapsed.md#april-18th-2026)
+1.  [↑](#cite-ref-1) [Version History: April 18th, 2026; pv\_APR\_19\_01:13a](Version_History/Uncollapsed.md#april-18th-2026-pv-apr-19-0113a)

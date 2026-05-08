@@ -1,6 +1,6 @@
 ---
 title: Sarbu
-revid: 208656
+revid: 209026
 source: https://deepwoken.fandom.com/wiki/Sarbu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, In progress with reason, InProgressPages, NPCs, NPCs located in the Etrean Luminant]

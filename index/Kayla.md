@@ -1,6 +1,6 @@
 ---
 title: Kayla
-revid: 207660
+revid: 209028
 source: https://deepwoken.fandom.com/wiki/Kayla
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
