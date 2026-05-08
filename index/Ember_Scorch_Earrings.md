@@ -1,6 +1,6 @@
 ---
 title: Ember Scorch Earrings
-revid: 202042
+revid: 209060
 source: https://deepwoken.fandom.com/wiki/Ember_Scorch_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Ears, Craftable]
@@ -15,7 +15,7 @@ categories: [Pathfinder Exclusive, Equipment, Ears, Craftable]
 | selling price | 25 |
 | requirements | None |
 | weight | 0.1 |
-| innate stats | +1 Common Pip |
+| innate stats | +1 Common Pip, +1 Rare Pip |
 | innate talent | Smoldering Touch |
 | bankable | No |
 | droppable | No |

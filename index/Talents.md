@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 209047
+revid: 209056
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2530,7 +2530,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         -   View the calculator here: [https://www.desmos.com/calculator/q9hbw3enrw](https://www.desmos.com/calculator/q9hbw3enrw)
     -   [Deepbound's](Deepbound.md) Sanity gain from killing mobs in [the Depths](The_Depths.md) is reduced.
     -   Prerequisites: 30 Fortitude, 30 Strength
-    -   Can also be obtained from the [Thrall of Enmity](Thrall_of_Enmity.md) face equipment.
+    -   Can also be obtained from the [Thrall of Enmity](Thrall_of_Enmity.md) face equipment or [Ringing Scholar's Garb](<Ringing_Scholar's_Garb.md>) outfit.
 
 -   _Piercing Will_ \[Rare Talent, Willpower\] - When your sanity is below 35%, gain up to +15% PEN on your attacks. Starting at 5% PEN, the lower your sanity, the higher your PEN.
     -   Grants a 10% PEN bonus at full insanity despite what the description states.

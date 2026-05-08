@@ -1,6 +1,6 @@
 ---
 title: Ethereal Bone Dust
-revid: 208422
+revid: 209059
 source: https://deepwoken.fandom.com/wiki/Ethereal_Bone_Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients]

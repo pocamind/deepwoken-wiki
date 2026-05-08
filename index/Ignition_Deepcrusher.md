@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 206092
+revid: 209061
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Clubs, Swords, Legendary Weapons, "Weapons with Multi-Hit Criticals", "Attunement-based Weapons", Weapons with Unique Criticals, The Ignition Union, Medium Weapons]
@@ -62,7 +62,6 @@ The critical has a cooldown of **10 seconds**.
 -   The weapon is inspired by the [Kirkhammer](https://bloodborne.fandom.com/wiki/Kirkhammer) from _[Bloodborne](https://en.wikipedia.org/wiki/Bloodborne)_.[\[1\]](#cite-note-1)
 -   Based on the [similar leftover weapon](DeepcrusherSword.md) which required 55 HVY to wield and was in the game for a short period of time, this could have been heavy weapon at some point during development.
 -   You cannot use the stance swap feature while in the Battle Royale mode unless you have the Ironsinger Talent, which can be achieved by getting an Ironsing Mantra.
--   Is better than [the despicable gun nobody likes](Iron_Requiem.md).
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 209049
+revid: 209053
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -71,9 +71,8 @@ These are the ranks you can progress through:
 2.  Disciple (155 Points / ~3-4 Events)
 3.  Elder (205 Points / ~4-5 Events)
     -   Upon reaching Elder, you may choose between being a Vanguard or a Warder by talking to their respective NPCs, being [Grandmaster Vanguard Legidae](Grandmaster_Vanguard_Legidae.md) in the armory and [Grandmaster Warder Sapphire](Grandmaster_Warder_Sapphire.md) in the library.
-4.  Vanguard(?) / Warder(?)
-5.  Master Vanguard / Master Warder (329 / ~5-7 Events)
-6.  Grandmaster Vanguard / Grandmaster Warder (388 / ~7-8 Events)
+4.  Master Vanguard / Master Warder (329 / ~5-7 Events)
+5.  Grandmaster Vanguard / Grandmaster Warder (388 / ~7-8 Events)
 
 ### Promotion Talents
 
