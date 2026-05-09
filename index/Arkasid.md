@@ -1,6 +1,6 @@
 ---
 title: Arkasid
-revid: 208304
+revid: 209165
 source: https://deepwoken.fandom.com/wiki/Arkasid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Monsters]
@@ -20,7 +20,7 @@ notices:
 
 ## Description
 
-Arkasids are monsters found on [Simforea](Simforea.md), they can spawn in groups of 3 of can spawn by themselves. They will **only** drop a chest with loot from killing the **groups of 3**.
+Arkasids are monsters found on [Simforea](Simforea.md), they can spawn in groups of 3 or can spawn by themselves. They will **only** drop a chest with loot from killing the **groups of 3**.
 
 ## Moveset
 

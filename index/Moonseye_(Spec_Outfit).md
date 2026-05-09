@@ -1,6 +1,6 @@
 ---
 title: Moonseye (Spec Outfit)
-revid: 206971
+revid: 209155
 source: https://deepwoken.fandom.com/wiki/Moonseye_(Spec_Outfit)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits]
@@ -25,7 +25,7 @@ notices:
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-_Not to be confused with the [Moonseye](Moonseye.md) or the [Moonseye (Outfit)](<Moonseye_(Outfit).md>)._
+_This page is about the Vow of Iron outfit, not to be confused with the [Vow of Iron](Vow_of_Iron.md) outfit named [Moonseye (Outfit)](<Moonseye_(Outfit).md>). For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._
 
 **Moonseye** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 

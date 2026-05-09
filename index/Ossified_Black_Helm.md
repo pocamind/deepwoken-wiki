@@ -1,6 +1,6 @@
 ---
 title: Ossified Black Helm
-revid: 207401
+revid: 209167
 source: https://deepwoken.fandom.com/wiki/Ossified_Black_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Craftable, Helmets, Head, Equipment with Set Bonuses]
@@ -21,7 +21,7 @@ categories: [Pathfinder Exclusive, Equipment, Craftable, Helmets, Head, Equipmen
 | set talent | Captain's Call |
 | bankable | No |
 | droppable | No |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | No |
 | obtainment | Crafting 1 Blacksteel Helm + 1 Shiva's Codex + 1 Ethereal Osseous Plate in the Lost Forge |
 | description | An imposing helmet made from blackened steel. |

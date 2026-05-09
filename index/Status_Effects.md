@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 208580
+revid: 209152
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -431,6 +431,8 @@ Be unable to jump and gain a speed debuff for a short duration. Applied when bei
 These status effects are applied exclusively through certain [Weapon](Weapons.md) attacks or criticals.
 
 ### Moonseye Mark
+
+_This is about the status effect. For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._
 
 Become marked by the Moonseye, allowing users of the [Nocturne](Nocturne.md) to use their follow up attack to their critical, or users of the [Soulthorn](Soulthorn.md) to use their 2nd and 3rd stage criticals on you depending on the amount of Moonseye Mark stacks applied. The Moonseye mark will slow down opponents affected by it.
 

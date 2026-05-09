@@ -1,6 +1,6 @@
 ---
 title: Moonseye (Outfit)
-revid: 206946
+revid: 209154
 source: https://deepwoken.fandom.com/wiki/Moonseye_(Outfit)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
@@ -22,6 +22,8 @@ categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
 | selling_price | N/A |
 | weight | 1 |
 | shirt | Shirt • Pants |
+
+_This page is about the Vow of Iron outfit, not to be confused with the [Developer Spec](Developer_Specs.md) outfit named [Moonseye (Spec Outfit)](<Moonseye_(Spec_Outfit).md>). For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

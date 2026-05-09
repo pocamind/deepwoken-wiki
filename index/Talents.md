@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 209064
+revid: 209143
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -285,7 +285,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Alley Cat
 
--   Endurance Runner \[Common Talent, Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Passive Agility)
+-   Endurance Runner \[Common Talent, Agility\] - Your speed is decreased less by low health. (+2 Passive Agility)
     -   Halve the speed penalty tied to lost health.
     -   Currently does not work.
     -   Prerequisites: 25 Agility, 25 Fortitude

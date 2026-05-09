@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 209076
+revid: 209144
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
@@ -32,7 +32,7 @@ This content is not accessible outside of this gamemode.
 
 Defeating him will also allow [Galebreathe](Galebreathe.md) users to unlock the [Pillars of Erisia](Galebreathe.md#pillars-of-erisia) Mantra in a Whisper hand, which is a modified version of his Gale Stomp.
 
-He is a noble who resided in the City of [Celtor](Lost_Celtor.md) before its submergence and part of a lineage that ruled the island of [Erisia](Erisia.md). In appearance, Duke Erisia is a Marten [Celtor](Celtor.md). He wears a Slate Aristocrat Coat over the [Eager Tradesman](Eager_Tradesman.md) starter outfit with [Eyeglasses](Eyeglasses.md). He also has a green [Resonance](Resonance.md) by his side that allows him to create and control [Rock Golems](Rock_Golem.md). Duke Erisia can also use his Resonance to summon Golem arms that swing alongside his fists, and wields extremely powerful [Galebreathe](Galebreathe.md) [Mantras](Mantras.md).
+He is a noble who resided in the City of [Celtor](Lost_Celtor.md) before its submergence and part of a lineage that ruled the island of [Erisia](Erisia.md). In appearance, Duke Erisia is a Marten [Celtor](Celtor.md). He wears a Slate Aristocrat Coat over the [Eager Tradesman](Eager_Tradesman.md) starter outfit with [Eyeglasses](Eyeglasses.md). He also has a green [Resonance](Resonance.md) by his side that allows him to create and control [Rock Golems](Rock_Golem.md). Duke Erisia can also use his Resonance to summon Golem arms that swing alongside his fists, and he wields extremely powerful, exclusive [Galebreathe](Galebreathe.md) [Mantras](Mantras.md).
 
 ## Moveset
 
