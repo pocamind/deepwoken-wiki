@@ -1,6 +1,6 @@
 ---
 title: Old Stranger
-revid: 192510
+revid: 209119
 source: https://deepwoken.fandom.com/wiki/Old_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, Quests, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -28,6 +28,8 @@ They mention that they are thirsty and ask you for a drink when prompted. They a
 If another player has already obtained Murmur: Ardour from or talked to them in the server, they won't let you talk to them and will instead say "I can't speak to two folks at once, y'know?"
 
 ## Dialogue
+
+**Ardour is Available:**
 
 **First Encounter:**
 
@@ -107,22 +109,6 @@ If another player has already obtained Murmur: Ardour from or talked to them in 
 </tbody>
 </table>
 
-**Ardour already taken:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>I can't speak to two folks at once, y'know?</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
-
 **Has another murmur (not Ardour):**
 
 <table>
@@ -132,6 +118,22 @@ If another player has already obtained Murmur: Ardour from or talked to them in 
 </tr>
 <tr>
   <td>Ah, don't ye worry yerself. You've got other things on your mind, I can tell.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Ardour Already Taken:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>I can't speak to two folks at once, y'know?</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

@@ -1,6 +1,6 @@
 ---
 title: Ignition Delver
-revid: 207368
+revid: 209117
 source: https://deepwoken.fandom.com/wiki/Ignition_Delver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Origins, The Ignition Union, Character]
@@ -18,12 +18,16 @@ This content is not accessible outside of this gamemode.
 
 _Ignition Delver_ is a PvE-focused [Origin](Origins.md), highly favoring, but not mandating, completing [Jobs](Job_Boards.md) and [Dungeons](Dungeons.md) for experience gain.
 
+## Description
+
+Ignition Delvers are those who work under the Ignition Union, doing odd jobs for their union's gains. Ignition Delvers are associated with [The Ignition Union](The_Ignition_Union.md).
+
 ## Obtainment
 
 To obtain the Ignition Delver Origin, the player must do one of the following:
 
-1.  Save [Epsi](Epsi.md) in [Floor 1](Second_Layer/The_Ethironal_Shrine.md) of the [Second Layer](Second_Layer.md) of [the Depths](The_Depths.md) and report to [Alpha](Alpha.md) afterwards.
-2.  Complete the [Summer Goons](Orion.md) quest and return to Orion.
+-   Save [Epsi](Epsi.md) in [Floor 1](Second_Layer/The_Ethironal_Shrine.md) of the [Second Layer](Second_Layer.md) of [the Depths](The_Depths.md) and report to [Alpha](Alpha.md) afterwards.
+-   Complete the [Summer Goons](Orion.md) quest and return to Orion.
 
 ## Spawn
 

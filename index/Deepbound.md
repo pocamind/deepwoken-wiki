@@ -1,6 +1,6 @@
 ---
 title: Deepbound
-revid: 207136
+revid: 209116
 source: https://deepwoken.fandom.com/wiki/Deepbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Divers, Origins, Character]
@@ -16,16 +16,20 @@ This content is not accessible outside of this gamemode.
 > 
 > ― Origin Description
 
-_Deepbound_ is a Depths-focused [Origin](Origins.md), granting unique bonuses and progression methods for Depths content. As such, this Origin has garnered the reputation of being a 'PvE Origin'.
+_Deepbound_ is a [Depths](The_Depths.md)\-focused [Origin](Origins.md), granting unique bonuses and progression methods for Depths content. As such, this Origin has garnered the reputation of being a 'PvE Origin'.
+
+## Description
+
+Deepbounds all seem to be [Apprentice Divers](Apprentice_Diver.md) due to them spawning with [Diver Apprentice Robes](Diver_Apprentice_Robes.md) automatically equipped. Deepbounds are affiliated with [The Divers](The_Divers.md).
 
 ## Obtainment
 
-To obtain the Deepbound Origin, the player must do the following:
+To obtain the Deepbound [Origin](Origins.md), the player must do the following:
 
-1.  Encounter [Akira](Akira.md) in the [Celtor Wastes](Celtor_Wastes.md) and inquire to him about joining [The Divers](The_Divers.md).
-2.  Reunite with him in [Castle Light](Castle_Light.md) to obtain the Origin.
+-   Encounter [Akira](Akira.md) in the [Celtor Wastes](Celtor_Wastes.md) and inquire to him about joining [The Divers](The_Divers.md).
+-   Reunite with him in [Castle Light](Castle_Light.md) to obtain the Origin.
 
-Warning: Do not attempt the Charisma check with Akira. If you do not have 90 or higher Charisma, you will be killed and you will wipe. If you have 90 or higher charisma, you won't be able to gain this Origin.
+Warning: Do not attempt the Charisma check with Akira. If you do not have 75 or higher Charisma for the Charisma check, you will be killed and you will wipe. If you pass the Charisma check, you will not be able to obtain this Origin or [Unbound Willpower](Attributes_Unbound.md) until you redo the event by rejoining.
 
 ## Spawn
 

@@ -1,6 +1,6 @@
 ---
 title: Lone Warrior
-revid: 207185
+revid: 209115
 source: https://deepwoken.fandom.com/wiki/Lone_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Origins, Character]
@@ -14,12 +14,16 @@ categories: [Origins, Character]
 
 The _Lone Warrior_ [Origin](Origins.md) gives players a convenient way to access the [Trial of One](Trial_of_One.md) from the get-go, allowing them to kickstart their progression.
 
+## Description
+
+Lone Warriors look similar to [Castaways](Castaway.md) due to their ragged outfit, but they different entities, as [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) does not mention anything about meeting before if you talk to him as a Lone Warrior.
+
 ## Obtainment
 
 To obtain the Lone Warrior Origin, the player must do one of the following:
 
-1.  [Wipe](Death.md) for the first time.
-2.  Defeat the [Thresher](Thresher.md) in the [Trial of One](Trial_of_One.md).
+-   [Wipe](Death.md) for the first time.
+-   Defeat the [Thresher](Thresher.md) in the [Trial of One](Trial_of_One.md).
 
 ## Spawn
 

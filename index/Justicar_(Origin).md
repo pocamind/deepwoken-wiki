@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 209093
+revid: 209112
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -14,24 +14,26 @@ notices:
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-This article is about the Origin. If you are looking for the [faction](Factions_&_Groups.md) itself, visit [this page](The_Justicar.md).
+This article is about the [Origin](Origins.md). For the [Faction](Factions_&_Groups.md) itself, refer to [The Justicar](The_Justicar.md).
 
 > “ Help those who are too weak to walk the path alone... ”
 > 
 > ― Origin description
 
-_Justicar_ is the counterpart of [Voidwalker](Voidwalker.md). They protect other players and make sure that they remain unharmed.
+_Justicar_ is an [Origin](Origins.md) focused around helping players and making sure that they remain unharmed. Justicar is the counterpart of [Voidwalker](Voidwalker.md).
+
+## Description
+
+Justicars are those who follow [Alsin](Alsin.md)'s wisdom by interpreting and walking The Path their own way. Many Justicars in the [Eastern Luminant](Luminants.md) believe that helping others in the pursuit of _their_ Path is a Justicar's true purpose. Justicars are named after and are affiliated with [The Justicar](The_Justicar.md).
 
 ## Obtainment
 
-To obtain the Justicar Origin, the player must do one of the following:
+To obtain the Justicar [Origin](Origins.md), the player must do one of the following:
 
-1.  Participate in the [Cinders of Etris](Cinders_of_Etris.md) Disaster [World Event](World_Events.md).
-2.  Help a player at or below Power 15 at the [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation).
+-   Participate in the [Cinders of Etris](Cinders_of_Etris.md) Disaster [World Event](World_Events.md).
+-   Help a player at or below Power 15 at the [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation).
 
-Once either of these requirements have been met, speak to [Polis](Polis.md). Upon subsequent encounters, you want to interact with the fourth option that allows you to walk the path of [Alsin](Alsin.md).
-
-Once either of these requirements have been met, speak to [Polis](Polis.md) after you have already received a [Gold Ring](Gold_Ring.md) from him. After which, talk to him about wanting to join his cause, which allows you to walk the path of [Alsin](Alsin.md).
+For the [Cinders of Etris](Cinders_of_Etris.md) method, you need only kill one [Authority Soldier](Authority_Soldier.md) during it to unlock Justicar. Once either of these requirements have been met, speak to [Polis](Polis.md) after you have already received a [Gold Ring](Gold_Ring.md) from him. After which, talk to him about wanting to join his cause, which allows you to walk the path of [Alsin](Alsin.md).
 
 ## Spawn
 
@@ -273,8 +275,11 @@ Warder Path, given automatically after joining it.
 
 -   Great for those who want to help (usually newer) players.
     -   This is also a great way to start off a fresh [Guild](Guilds.md), as [Castaways](Castaway.md) are usually newer players who have yet to be invited to a guild. Helping them progress will make them feel indebted to you, and less likely to [guild hop](<Terminology_(game).md#guild-hopping>).
+-   You start with the [Jus Karita](Talents.md#jus-karita) Talent, allowing you to have [Jus Karita](Jus_Karita.md) and something else as a starting weapon.
 -   Access to multiple Paths allowing for a variety of unique builds unobtainable otherwise.
+-   [Justicar Neophyte](Justicar_Neophyte.md) has relatively good stats for a starter armor.
 -   Gives great exp. for farming together with a Castaway.
+-   Grants unique dialogue with [Justicar](The_Justicar.md)\-affiliated NPCs and exclusive Faction related weapons and gear.
 
 ### Cons
 

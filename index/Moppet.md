@@ -1,6 +1,6 @@
 ---
 title: Moppet
-revid: 206268
+revid: 209108
 source: https://deepwoken.fandom.com/wiki/Moppet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Animations, Event Item, Hallowtide, Light Weapons]
@@ -62,6 +62,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
         -   [Bloodless Gem](Bloodless_Gem.md) has a cap of 15 health restored, granting exceptional lifesteal but requiring you to spread your damage between crits. However, due to the damage storing mechanic, using Bloodless Gems won't reduce your critical's damage.
         -   [Wayward Gem](Wayward_Gem.md) has a 500 stud range limit, though it is very good for this weapon in most scenarios.
         -   The _innate_ effects of [Might](Might_Gem.md) and [Wrath Gems](Wrath_Gem.md) do not apply to Moppet's critical.
+        -   [Insignia Gem](Insignia_Gem.md) can be used for a nearly guaranteed proc to allow your next mantra faster windup.
         -   All other [Deep Gems](Deep_Gems.md) work, but they aren't as notable.
 -   [Visionshaper](Oath%253A_Visionshaper.md) Clones cannot use Moppet's critical. Additionally, they will deal damage on M1 instead of storing it.
 -   Despite having the M1 tag on its critical, Moppet's critical cannot proc [Spine Cutter](Talents.md#spine-cutter).

@@ -1,6 +1,6 @@
 ---
 title: Grandmaster Vanguard Legidae
-revid: 208806
+revid: 209120
 source: https://deepwoken.fandom.com/wiki/Grandmaster_Vanguard_Legidae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Individuals with He/him pronouns, In progress with reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -222,7 +222,13 @@ Grandmaster Vanguard Legidae is located in a stronghold on the left side of [Als
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td>*<i>Grandmaster Legidae welcomes you.</i>* Ah, [First Name]. Be welcome, fellow Vanguard! May you and your marks endure in your pursuit of the Path.</td>
+</tr>
+<tr>
+  <td>How can I gain more experience as a Justicar?</td>
+</tr>
+<tr>
+  <td>*<i>A spark of admiration flashes in Legidae's eye.</i>* You have attained veritable insights into the Path, [First Name]. I fear there is little else I can teach you that you do not already know. Many Jusitcars believe that the best way to honour Alsin's teachings is to help others pursue their path. Should you also wish to do so, you may answer the Justicar's Call, and lend a hand to all those who might need it. Aid and protect them - guide them as Alsin guides us.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

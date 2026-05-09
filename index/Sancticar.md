@@ -1,6 +1,6 @@
 ---
 title: Sancticar
-revid: 209098
+revid: 209104
 source: https://deepwoken.fandom.com/wiki/Sancticar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons, Weapons with Talents]
@@ -32,7 +32,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 
 ## Description
 
-The Sancticar is a [Staff](Weapons.md) weapon in the Medium category. Note that as of 5/8/26 This weapon is currently bugged. It not having requirements is very likely unintentional and causes it to have negative weapon scaling innately. So it also does abysmal damage seemingly. Either bugged or unfinished with the intent to add more.
+The Sancticar is a [Staff](Weapons.md) weapon in the Medium category.
 
 ## Obtainment
 

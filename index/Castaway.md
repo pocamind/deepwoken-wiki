@@ -1,6 +1,6 @@
 ---
 title: Castaway
-revid: 208184
+revid: 209114
 source: https://deepwoken.fandom.com/wiki/Castaway
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Character, Origins]
@@ -16,7 +16,11 @@ This content is not accessible outside of this gamemode.
 > 
 > ― Origin description
 
-The _Castaway_ [Origin](Origins.md) is the default and intended way to play the game, and is available to the player upon purchase of the game.
+The _Castaway_ [Origin](Origins.md) is the default way to play the game, and is available to the player upon purchase of the game.
+
+## Description
+
+Castaways are those who were washed ashore after the events of the [Tutorial](Tutorial.md), during the [Attack on the Scoundrel's Bounty](<Attack_on_the_Scoundrel's_Bounty.md>).
 
 ## Obtainment
 

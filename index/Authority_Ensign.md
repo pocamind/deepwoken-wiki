@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 209079
+revid: 209118
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -16,14 +16,18 @@ This content is not accessible outside of this gamemode.
 > 
 > ― Origin description
 
-_Authority Ensign_ is an immersive, faction-based [Origin](Origins.md) that progresses mostly in the [Eastern Luminant](Luminants.md), where you play as an aspiring [Authority](The_Central_Authority.md) Soldier who quickly rises through the ranks of the Authority, gaining exclusive benefits along the way.
+_Authority Ensign_ is an immersive faction-based [Origin](Origins.md) that works mostly in the [Eastern Luminant](Luminants.md), performing authority missions to progress to higher ranks for exclusive rewards.
+
+## Description
+
+Authority Ensigns are, as the name implies, ensigns or soldiers of [The Central Authority](The_Central_Authority.md). It is unknown whether they are conscripted or volunteered, but as a soldier, they are subject to chain of command under the Authority. Authority Ensigns are affiliated with [The Central Authority](The_Central_Authority.md).
 
 ## Obtainment
 
 To obtain the Authority Ensign Origin, the player must do one of the following:
 
-1.  Reach maximum reputation with [The Central Authority](The_Central_Authority.md).
-2.  Defeat [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
+-   Reach maximum reputation with [The Central Authority](The_Central_Authority.md).
+-   Defeat [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
 
 If your reputation is already maxed with the Central Authority and you do not have this Origin yet, commit a crime to lower your reputation and then do an event to raise it again.
 

@@ -1,6 +1,6 @@
 ---
 title: Steel Plate
-revid: 206719
+revid: 209113
 source: https://deepwoken.fandom.com/wiki/Steel_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits]
@@ -10,9 +10,9 @@ categories: [Outfits, Adept Outfits]
 
 | Steel Plate | |
 |---|---|
-| caption | The durable battle armour of an Adretian soldier. The armour is specially forged by techniques developed in the Central Luminant, creating an uncharacteristically versatile armour plate. |
+| caption | A durable battle armour, specially forged by the smiths of the East, adapting techniques originally developed in the Central Luminant. This fusion of techniques results in an uncharacteristically versatile armour plate. |
 | tier | Adept |
-| crafting_req | x5 Cloth, x5 Fiber, x3 Iron |
+| crafting_req | x5 Cloth, x1 Coal, x5 Fiber, x3 Iron |
 | price | 30 |
 | stat_req | Power 5, 10 Fortitude |
 | bankable | Yes |
