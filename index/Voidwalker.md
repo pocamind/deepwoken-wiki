@@ -1,6 +1,6 @@
 ---
 title: Voidwalker
-revid: 207460
+revid: 209065
 source: https://deepwoken.fandom.com/wiki/Voidwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Origins, Character, The Knives of Eylis]
@@ -37,7 +37,7 @@ Voidwalkers spawn anywhere within the Etrean Luminant, with the [Whaler Initiate
 
 Successfully completing a bounty grants EXP and Full Training points based on the amount of bounty stars, and a chest with loot. If the target kills their Voidwalker, the target will instead receive a chest and EXP, the amount of EXP granted is instead dependent on the Voidwalker's amount of bounty stars.
 
-### Voidwalker contract
+### Voidwalker Contract
 
 -   _In-game description_: You progress much faster from completing bounties, and less from events. Gain access to the [Voidheart](Voidheart.md), and factions have a negative outlook on you.
 -   You get increased EXP gain from bounties and decreased EXP gain from everything else.

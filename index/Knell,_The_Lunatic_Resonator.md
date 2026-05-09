@@ -1,6 +1,6 @@
 ---
 title: "Knell, The Lunatic Resonator"
-revid: 208953
+revid: 209075
 source: https://deepwoken.fandom.com/wiki/Knell%2C_The_Lunatic_Resonator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Anansi NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, Enemies, Bosses, Deceased characters]
@@ -41,6 +41,8 @@ Knell also used [Arkasid](Arkasid.md) husks and Simforea's native plant life to 
 When Simforea drifted through the Voidsea near to the [Eastern Luminant](Luminants.md), Knell was effectively returned to the world after centuries.[\[1\]](#cite-note-bestiary-1) Witnessing [The Pathfinder](The_Pathfinder.md)'s own Resonance, a frenzied Knell believed killing them would finally put an end to his troubles. Knell attacked them and was ultimately killed in the ensuing fight.
 
 ## Moveset
+
+_For a visual guide, consider watching [this video.](https://www.youtube.com/watch?v=K-cIjJWdbjg)_
 
 | Name | Description | Media |
 | --- | --- | --- |
@@ -92,7 +94,7 @@ Parry
 **Bell Fall**  
 (★☆☆)
 
- | Knell flicks one of his hands upwards, causing a small cluster of bells to fall on top of the player.
+ | Knell flicks one of his hands upwards, causing a small cluster of bells to fall on the player.
 
  | 
 
@@ -102,7 +104,7 @@ Parry
 **Great Bell Fall**  
 (★★☆)
 
- | Knell throws both of his hands forwards, causing a large cluster of bells to fall on top of the player.
+ | Knell throws both of his hands forwards, causing a large cluster of bells to fall on the player.
 
 -   This attack is simmilar to **Bell Fall** but applies knockdown upon being hit.
 
@@ -111,18 +113,31 @@ Parry
  |
 | 
 
-**Raining Resonation**  
+**Raining Resonance**  
 (★★☆)
 
  | Knell lets out a scream, making bells continuously rain on the player.
 
--   Each hit deals low posture
+-   Each hit deals low posture damage.
 
 _Uses Telegraph_
 
 [BlockTelegraph](Combat_Mechanics.md#blue)
 
 Block
+
+ | 
+
+ |
+| **Attacks unlocked on Phase 2** |
+| 
+
+**Raining Dissonance**  
+(★☆☆)
+
+ | Knell twirls in place and summon needles that rain from above.
+
+-   The needles have collision, which could interrupt your movement.
 
  | 
 
@@ -134,9 +149,7 @@ Block
 
  | Knell spins around holding a massive bell before hurling it at the player.
 
--   This move only occurs durring his second phase.
 -   Deals very high damage.
--   To avoid this move it’s highly suggested to use a full roll instead of a roll cancel
 
 _Uses Telegraph_
 
@@ -154,8 +167,7 @@ Dodge
 
  | Knell lets out a scream, causing bells to rain in a circle around him.
 
--   This move only occurs durring his second phase.
--   To avoid this attack, you need to stand still in the circle.
+-   To avoid this attack, you need to stand within the circle.
 -   Knell will attack with a different move during the duration of the bells falling.
 
 _Uses Telegraph_
@@ -167,19 +179,6 @@ Avoid
  | 
 
  |
-| 
-
-**Rain Chimes**  
-(★☆☆)
-
- | Knell twirls in place and summon chimes that rain from above.
-
--   This move only occurs durring his second phase.
--   The chimes have collision, which could interrupt your retreat.
-
- | 
-
- |
 
 ## Finisher
 
@@ -187,7 +186,7 @@ Knell, The Lunatic Resonator executes his opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
-| **Bell Execution** | Getting hit by any of his moves while you're low will cause you to die instantly. |
+| **Bell Execution** | Inflicting lethal damage will auto-execute opponents. |
 | **Execute** | Pins down opponent before firmly bashing their face. |
 
 ## Passives
@@ -344,7 +343,8 @@ Knell, The Lunatic Resonator executes his opponent after knocking them:
 
 ## Trivia
 
--   Knell is the only entity whose title in the [bestiary](Bestiary.md) differs from their usual name.
+-   Knell's name comes from the noun used to describe the sound of a bell, especially when rung solemnly for a death or funeral.
+-   Knell is the only entity whose title in the [Bestiary](Bestiary.md) differs from their usual name.
 -   Knell and his fight appear to be heavily inspired by the boss [Widow](https://hollowknight.wiki/w/Widow) from _Hollow Knight: Silksong_. Both have extremely similar attacks with rushdown swipes, and the myriads of thrown bell attacks. The two also share a design detail of two pins lodged in their backs.
 -   Knell does not respawn after being defeated, on account of being [dead](Death.md). If one wishes to fight him again, one must ask [Yun'Shul, Keeper of Hearts](<Yun'Shul,_Keeper_of_Hearts.md>) to return him from [The Depths](The_Depths.md) to the surface via an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) or the [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
     -   This makes Knell the only boss to permanently die in the [Pathfinder](Pathfinder.md) gamemode without player input:

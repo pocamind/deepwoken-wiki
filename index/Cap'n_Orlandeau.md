@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 208415
+revid: 209063
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, "NPCs located in The Scoundrel's Bounty", Members of the Rotten Lot]
@@ -427,5 +427,5 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 ## Trivia
 
 -   Wears [Flame Worshipper Armor](Flame_Worshipper_Armor.md), a [Brigand's Bicorn](<Brigand's_Bicorn.md>), and a [Celtor Commander Plate](Celtor_Commander_Plate.md).
--   During the parrying section, he originally used a [Razor Cutlass](Razor_Cutlass.md) but now uses a regular sword.
+-   During the parrying section, there was a brief period where he used a regular sword rather than his [Razor Cutlass](Razor_Cutlass.md).
 -   Before the April 5th, 2026 update, a memory of Orlandeau stood by some ruins in the [Fragments of Self](Fragments_of_Self.md), allowing players to re-enter the tutorial.

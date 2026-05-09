@@ -1,6 +1,6 @@
 ---
 title: Andrea
-revid: 192399
+revid: 209068
 source: https://deepwoken.fandom.com/wiki/Andrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with She/her pronouns, NPCs, NPCs located in the First Layer]
@@ -21,7 +21,7 @@ Andrea is an [Adret](Adret.md) NPC.
 
 Some time prior to 1233 CE,[\[1\]](#cite-note-1) Andrea died on the [Surface](Surface.md) and found herself in the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md).
 
-Now the Adretian woman scared for her life, as she tries to decide between facing The trial or remaining in [Celtor City](The_City_of_the_Drowned.md).
+Now the Adretian woman scared for her life, as she tries to decide between facing the Trial or remaining in [Celtor City](The_City_of_the_Drowned.md).
 
 ## Location
 

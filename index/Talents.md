@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 209056
+revid: 209064
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -807,6 +807,11 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Has a 20 second cooldown.
     -   You cannot parry attacks during the invisibility.
     -   Prerequisites: 40 Agility, All Butterfly Talents
+
+### Castaway
+
+-   _Justicar Whistle_ \[Origin Talent\] - Request aid from a Justicar.
+    -   Prerequisites: [Castaway](Castaway.md) Origin
 
 ### Chainwarden
 

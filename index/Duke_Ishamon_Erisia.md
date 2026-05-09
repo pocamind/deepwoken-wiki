@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 209031
+revid: 209076
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
@@ -28,7 +28,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Duke Ishamon Erisia** is a [Boss](Bosses.md) the player fights during ["Duke of Sin" quest](Etris.md#the-lord-regents-quest) and is located in [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) within [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). Defeating him will give you the Talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement and/or 75 Weapon upon executing him.
+**Duke Ishamon Erisia** is a [Boss](Bosses.md) the player fights during ["Duke of Sin" quest](Etris.md#the-lord-regents-quest) and is located in [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) within [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). Likewise with all Bosses, defeating him will uncap your [Weapon](Attributes.md#weapon-attributes) and [Attunement Attributes](Attributes.md#attunement-attributes) given you have them at their capped maximum.
 
 Defeating him will also allow [Galebreathe](Galebreathe.md) users to unlock the [Pillars of Erisia](Galebreathe.md#pillars-of-erisia) Mantra in a Whisper hand, which is a modified version of his Gale Stomp.
 
@@ -48,7 +48,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
  | Duke Erisia will charge up a punch, and teleport to his target,
 
--   Duke Erisia will **only** use any of his 3 Golem arm attacks after using Strong Left.
+-   Duke Erisia will **only** use any of his 3 Golem arm attacks after using **Strong Left**.
 
  | 
 
@@ -60,7 +60,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
  | The Duke conjures a Golem arm, smashing it into the ground.
 
--   Duke Erisia will **only** use this after using Strong Left.
+-   Duke Erisia will **only** use this after using **Strong Left**.
 
 _Uses Telegraph_
 
@@ -78,7 +78,7 @@ Jump
 
  | The Duke conjures a Golem arm, rushing forward with wind and unleashing a punch.
 
--   Duke Erisia will **only** use this after using Strong Left.
+-   Duke Erisia will **only** use this after using **Strong Left**.
 
 _Uses Telegraph_
 
@@ -96,7 +96,7 @@ Dodge
 
  | The Duke conjures a Golem arm, performing a right hook.
 
--   Duke Erisia will **only** use this after using Strong Left.
+-   Duke Erisia will **only** use this after using **Strong Left**.
 
 _Uses Telegraph_
 
@@ -177,7 +177,7 @@ Jump
 
  | Duke Erisia flies into the air and shoots a singular decently sized Wind Lance at whoever he's provoked/aggroed on to.
 
--   Telegraphed by an audio cue while rising and quick cast compared to Binding Tempest.
+-   Telegraphed by an audio cue while rising and quick cast compared to **Binding Tempest**.
 
 _Uses Telegraph_
 
@@ -284,7 +284,7 @@ It's crucial to understand the Duke's behavior during his initial phase, where h
 
 If the Duke is standing still, he is preparing to cast a mantra. This provides a brief window for you to land up to three safe hits with a heavy or medium weapon. After this, you should stop attacking and brace for his move, as his mantras have a low wind-up (especially his Strong Left) and are difficult to read.
 
-He usually uses 3 of his regular mantras, uses Strong Left, then uses 3\* of his Stonelife attacks, after which the cycle repeats. He **can** use Strong Left more than once at a time, sometimes even up to 3 times in a row, before his Stonelife attacks begin.
+He usually uses 3 of his regular mantras, uses **Strong Left**, then uses 3\* of his Stonelife attacks, after which the cycle repeats. He **can** use **Strong Left** more than once at a time, sometimes even up to 3 times in a row, before his Stonelife attacks begin.
 
 Once you have dealt enough damage, his shield will deactivate. While this allows you to hit him normally, you must remain cautious, as many of his mantras can instantly grip you. The best strategy is to corner him and focus on breaking his posture. Be aware, however, that the Duke has a high **Tempo** and will vent every time you flourish him into a wall.
 
