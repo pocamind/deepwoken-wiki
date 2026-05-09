@@ -1,6 +1,6 @@
 ---
 title: The Pathfinder
-revid: 198857
+revid: 209095
 source: https://deepwoken.fandom.com/wiki/The_Pathfinder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

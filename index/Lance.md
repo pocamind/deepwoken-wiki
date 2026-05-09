@@ -1,9 +1,9 @@
 ---
 title: Lance
-revid: 205576
+revid: 209082
 source: https://deepwoken.fandom.com/wiki/Lance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant, Vendors]
+categories: [Etrean NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Lance
@@ -34,6 +34,27 @@ Lance sells [Mushroom Bisques](Mushroom_Bisque.md) for 20, [Megurgers](Megurger.
 ## Location
 
 Lance can be found standing behind his bar inside of Lance's Food at [Etris](Etris.md).
+
+## Shop
+
+Lance's Food
+
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>15 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Mushroom Omelette</div><div><i>A classic, fried to perfection.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>20 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Mushroom Bisque</div><div><i>A nourishing bisque full of protein.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>15 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Megurger</div><div><i>Food?</i></div></td>
+</tr>
+</tbody>
+</table>
 
 ## Dialogue
 

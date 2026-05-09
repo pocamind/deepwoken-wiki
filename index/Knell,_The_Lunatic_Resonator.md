@@ -1,6 +1,6 @@
 ---
 title: "Knell, The Lunatic Resonator"
-revid: 209075
+revid: 209100
 source: https://deepwoken.fandom.com/wiki/Knell%2C_The_Lunatic_Resonator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Anansi NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, Enemies, Bosses, Deceased characters]
@@ -79,6 +79,7 @@ Jump
  | Knell lunges towards the player grabbing them before bitting them twice.
 
 -   Applies a large amount of insanity.
+-   Tip: The move has very low windup so as soon as you see the green effect I recommend instantly parrying.
 
 _Uses Telegraph_
 

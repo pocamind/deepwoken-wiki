@@ -1,11 +1,9 @@
 ---
 title: Sarbu
-revid: 209026
+revid: 209088
 source: https://deepwoken.fandom.com/wiki/Sarbu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Gremor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, In progress with reason, InProgressPages, NPCs, NPCs located in the Etrean Luminant]
-notices:
-  - This page is currently being worked on. Potentially more dialogue yet to be found.
+categories: [Gremor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Sarbu
@@ -31,6 +29,8 @@ Sarbu is located in the training grounds of [Alsin's Landing](<Alsin's_Landing.m
 
 ## Dialogue
 
+**Base Dialogue:**
+
 <table>
 <tbody>
 <tr>
@@ -53,6 +53,36 @@ Sarbu is located in the training grounds of [Alsin's Landing](<Alsin's_Landing.m
 </tr>
 <tr>
   <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+This dialogue is unlocked if the player is within the **Vanguard** division of the [Justicar](<Justicar_(Origin).md>) Origin.
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*The <a href="Glossary.md#pathfinders">Pathfinder</a> is paying close attention to how the others are training.*</i> ...They look so strong.</td>
+</tr>
+<tr>
+  <td>Why don't you join them?</td>
+</tr>
+<tr>
+  <td>I first want to learn the techniques that you Justicars use. A Megalodaunt was about to stomp on me, but somehow, I was flung back, and this guy just flew in and kicked its head off! Do you think you could teach me?</td>
+</tr>
+<tr>
+  <td>If you want to learn it, I'd recommend you become a Vanguard. I'm now able to do that as well.</td>
+</tr>
+<tr>
+  <td><i>*His expression brightens with excitement.*</i>. [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] I'll try my hardest, thank you!</td>
+</tr>
+<tr>
+  <td>[End Dialogue], awards Compassion Talent hand</td>
 </tr>
 </tbody>
 </table>

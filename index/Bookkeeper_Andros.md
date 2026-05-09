@@ -1,6 +1,6 @@
 ---
 title: Bookkeeper Andros
-revid: 205662
+revid: 209089
 source: https://deepwoken.fandom.com/wiki/Bookkeeper_Andros
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -262,7 +262,7 @@ This dialogue is unlocked if the player has started the "Lord Regent Who?" [Ques
   <td>Do you know what happened to those records?</td>
 </tr>
 <tr>
-  <td>It didn't seem wise to make a fuss over them. They were simply articles of public knowledge at the time, so I doubt they were stolen or anything like that. Whatever became of them is clearly nothing of anyone's business, so I recommend you don't dig further either.</td>
+  <td>It didn't seem wise to make a fuss over them. They were simply articles of public knowledge at the time, so I doubt they were stolen or anything like that. Whatever became of them is clearly nothing of anyone's business, so I'd recommend you don't dig further...</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
