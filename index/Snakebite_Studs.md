@@ -1,6 +1,6 @@
 ---
 title: Snakebite Studs
-revid: 178592
+revid: 209243
 source: https://deepwoken.fandom.com/wiki/Snakebite_Studs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Piercings]
@@ -27,3 +27,7 @@ categories: [Equipment, Face, Piercings]
 ## Description
 
 The Snakebite Studs is an [Equipment](Equipment.md) item under the "Face" category.
+
+## Trivia
+
+-   This was released alongside the [Brow Stud](Brow_Stud.md), [Dermal Stud](Dermal_Stud.md), [Moon Brow Rings](Moon_Brow_Rings.md), [Moon Dermal Rings](Moon_Dermal_Rings.md), [Moon Lip Ring](Moon_Lip_Ring.md), [Moon Septum Ring](Moon_Septum_Ring.md), [Nose Stud](Nose_Stud.md), and **Snakebite Studs** on the [October 18th, 2025](Version_History/2025.md#october-18th-2025) update.

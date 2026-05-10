@@ -1,6 +1,6 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 208508
+revid: 209235
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, Layer 2, Floor 2, Floor 1, Black Divers]
@@ -214,14 +214,16 @@ If you talk to him with a Resonance and the Tarnished flaw, he will offer to unt
 
 | **Name** | **Description** | **Required Item** |
 | --- | --- | --- |
-| [Coral Spear](Monster_Mantras.md#coral-spear) | Similar to Megalodaunt Thousand Needles attack. Grow coral on your back and create a multihit AOE around you. | [Megalodaunt Coral](Megalodaunt_Coral.md) |
+| [Abyssal Tendrils](Monster_Mantras.md#abyssal-tendrils) | Summon 4 of the [Interluminary Parasol](Interluminary_Parasol.md)'s tentacles from your body and stab the nearest opponents within a large radius. | [Charged Parasol Part](Charged_Parasol_Part.md) |
+| [Abyssal Ridge](Monster_Mantras.md#abyssal-ridge) | Based on the [Nautilodaunt](Nautilodaunt.md)'s Grand Stomp attack. The user stomps onto the ground and sends out a homing eruption, automatically targeting the nearest opponent. | [Nautilodaunt Beak](Nautilodaunt_Beak.md) |
 | [Beast Burrow](Monster_Mantras.md#beast-burrow) | Similiar to [Thresher](Thresher.md) Burrow attack. Disappear underground for a period of time and jump out dealing AOE damage. Grants I-frames. | [Thresher Talon](Thresher_Talon.md) |
-| [Enforcer Pull](Monster_Mantras.md#enforcer-pull) | When in proximity, pulls victim towards the user. | [Enforcer Eye](Enforcer_Eye.md) |
-| [Abyssal Ridge](Monster_Mantras.md#abyssal-ridge) | Based on the [Nautilodaunt's](Nautilodaunt.md) Grand Stomp attack. The user stomps onto the ground and sends out a homing eruption, automatically targeting the nearest opponent. | [Nautilodaunt Beak](Nautilodaunt_Beak.md) |
-| [Dread Breath](Monster_Mantras.md#dread-breath) | Turns user's head into a head of a [Dread Serpent](Dread_Serpent.md), breathing out ice beam for the duration of the mantra. | [Dread Serpent's Tooth](<Dread_Serpent's_Tooth.md>) |
-| [Whirling Blade](Monster_Mantras.md#whirling-blade) | Grow a Terrapod claw from their left arm and spin forward after a short windup, cancelling if parried. | [Terrapod Shell](Terrapod_Shell.md) |
+| [Bone Wisp](Monster_Mantras.md#bone-wisp) | Summon a wisp of bone that shoots an undodgeable bone on uppercut and flourish. | [Charged Bonecharm](Charged_Bonecharm.md) |
 | [Brachial Spear](Monster_Mantras.md#brachial-spear) | Throws a giant femur towards selected area. Deals high damage and high knockback, high wind-up time. | [Giant Femur](Giant_Femur.md) |
+| [Coral Spear](Monster_Mantras.md#coral-spear) | Similar to Megalodaunt Thousand Needles attack. Grow coral on your back and create a multihit AOE around you. | [Megalodaunt Coral](Megalodaunt_Coral.md) |
+| [Dread Breath](Monster_Mantras.md#dread-breath) | Turns user's head into a head of a [Dread Serpent](Dread_Serpent.md), breathing out ice beam for the duration of the mantra. | [Dread Serpent's Tooth](<Dread_Serpent's_Tooth.md>) |
+| [Enforcer Pull](Monster_Mantras.md#enforcer-pull) | When in proximity, pulls victim towards the user. | [Enforcer Eye](Enforcer_Eye.md) |
 | [Mecha Gatling](Monster_Mantras.md#mecha-gatling) | Mounts a gatling gun upon the player's shoulder and fires it forwards, multi-hit. | [Broken Gatling Gun](Broken_Gatling_Gun.md) |
+| [Whirling Blade](Monster_Mantras.md#whirling-blade) | Grow a Terrapod claw from their left arm and spin forward after a short windup, cancelling if parried. | [Terrapod Shell](Terrapod_Shell.md) |
 
 ## Trivia
 

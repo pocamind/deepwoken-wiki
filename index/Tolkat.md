@@ -1,6 +1,6 @@
 ---
 title: Tolkat
-revid: 192341
+revid: 209244
 source: https://deepwoken.fandom.com/wiki/Tolkat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Voiced Characters]
@@ -121,6 +121,7 @@ Tolkat is located at [Miner's Landing](<Miner's_Landing.md>), he is found near t
 ## Trivia
 
 -   He, along with [Yamaketzal](Yamaketzal.md) are voiced by Arch\_Mage.
+-   Tolkat's hair ID is 93791698141854
 -   Most likely a reference to Sisyphus, a king punished by the gods to eternally push massive boulder up a mountain. Much like Tolkat, Sisyphus' task is entirely pointless. While Sisyphus refuses to relent due to eternally believing in his own superiority over the divine and thus believing he can possibly outsmart the gods and succeed in his task, Tolkat simply seems too dense to realise he has better things to be doing.
 -   Attempting to punch the boulder up the hill below seventy-five strength will cause the player to take 10% of their max HP as damage.
 -   The word "tolkat'" ("толкать") in most slavic languages means "to push", which might be where his name stems from.

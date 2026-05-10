@@ -1,6 +1,6 @@
 ---
 title: Nose Stud
-revid: 186579
+revid: 209242
 source: https://deepwoken.fandom.com/wiki/Nose_Stud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Piercings]
@@ -29,3 +29,7 @@ categories: [Equipment, Face, Piercings]
 The Nose Stud is an [Equipment](Equipment.md) item under the "Face" category.
 
 It resembles the nose piercing called "Nostril"
+
+## Trivia
+
+-   This was released alongside the [Brow Stud](Brow_Stud.md), [Dermal Stud](Dermal_Stud.md), [Moon Brow Rings](Moon_Brow_Rings.md), [Moon Dermal Rings](Moon_Dermal_Rings.md), [Moon Lip Ring](Moon_Lip_Ring.md), [Moon Septum Ring](Moon_Septum_Ring.md), **Nose Stud**, and [Snakebite Studs](Snakebite_Studs.md) on the [October 18th, 2025](Version_History/2025.md#october-18th-2025) update.

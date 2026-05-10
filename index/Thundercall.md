@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 208762
+revid: 209247
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -473,8 +473,7 @@ Lightning [ResistanceThundercall](Thundercall.md)
 -   Has a windup of 0.65 seconds.
 -   11 second cooldown.
 -   Can be modified with Perfect/Crystal Lens to make you move slightly forward right before the kick happens
--   Press your block button immediately after the initial kick to follow it up with a second less potent kick that teleports you to the target.
-    -   This requires the user to actually land the mantra, meaning it will not activate if being parried, blocked or dodged.
+-   Press F immediately after the initial kick lands to follow it up with a second less potent kick that teleports you to the target.
     -   The second kick deals 35% of the initial kick's damage.
     -   Doesn't work if the initial kick guardbroke the target.
 -   The **base damage** of this Mantra is increased by 15% if you are wearing the full Specialist Set. Additionally, it will become a green color.
@@ -1003,7 +1002,7 @@ These Talents are found in the _Javelin Lord_ category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Grand Skewer  
-(60 Thundercall, Grand Javelin) | Grand Javelin now carries opponents with it through the skies. (Press F while casting to activate) | Pressing F (block) during the windup for Grand Javelin changes it to carry those it hits, as opposed to ragdolling them. |
+(60 Thundercall, Grand Javelin) | Grand Javelin now carries opponents with it through the skies. (Press F while casting to activate) | Pressing F during the windup for Grand Javelin changes it to carry those it hits, as opposed to ragdolling them. |
 
 **Rampant Static:**
 
