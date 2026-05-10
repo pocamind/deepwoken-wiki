@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 206060
+revid: 209257
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Alloyed Weapons, Fists, Light Weapons]
@@ -44,7 +44,7 @@ When [Alloyed](Pluripotent_Alloy.md), the weapon takes on a purple color, alteri
 
 The user leaps forwards into the air and slams into the ground, creating a large AoE that applies short knockdown. It has a 1.3x scaled damage multiplier.
 
-The Broodalloy Cestus critical is [unparryable](Combat_Mechanics.md#telegraphed-attacks), displaying a telegraph alongside a sound effect. On top of that, the critical will **autogrip** anyone who is at low health or is already knocked.
+The Broodalloy Cestus displays a telegraph alongside a sound effect. On top of that, the critical will **autogrip** anyone who is at low health or is already knocked.
 
 The critical has a cooldown of **6 seconds**.
 

@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 209184
+revid: 209259
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Etrea]
@@ -53,7 +53,7 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 **Trained Swings  
 (★☆☆)**
 
- | Firmly swings his katana at his opponent and finishes the combo with a flourish kick.
+ | Swings his katana at his opponent up to three times and finishes the combo with a flourish kick.
 
  | 
 
@@ -77,7 +77,7 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 
  | Swings his blade in a spinning motion, performing two gale-infused slashes.
 
--   Extremely difficult to react to, having an extremely fast windup.
+-   The windup is extremely fast, making this attack very difficult to react to.
 
  | 
 
