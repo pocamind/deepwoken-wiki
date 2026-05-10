@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 207054
+revid: 209221
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Hero Blades]
@@ -43,21 +43,21 @@ Although they purely scale off of the player's element, Hero Blades deal physica
 ## Trivia
 
 -   At reqs, the damage is (26.8) for all the Hero Blades.
--   There are visible markings on the Hero Blade, which seem to be Elder Futhark runes.
-    -   These runes translate to "I (hero name) ONE PIECE OF A FIVE POINTED STAR GIVE MY (attunement) TO THIS BLADE FIVE WE PLEDGE OUR SOUL LET WIELDER BLADE HEED OUR CALL BEAR THIS TORCH BEYOND OUR FALL".
-    -   These runes used to translate to "jfeondkthz", from the tip of the sword to the guard.
+-   There used to be visible markings on the old Hero Blade model, which seem to be Elder Futhark runes.
+    -   These Elder Futhark runes used to translate to "jfeondkthz", from the tip of the sword to the guard.
+    -   The new Hero blade models written in [Gatherhand](Gatherhand.md) generally translates to "I (hero name) ONE PIECE OF A FIVE POINTED STAR GIVE MY (attunement) TO THIS BLADE FIVE WE PLEDGE OUR SOUL LET WIELDER BLADE HEED OUR CALL BEAR THIS TORCH BEYOND OUR FALL".
 -   Prior to Verse 2 (12/24/2022), the critical of the Hero Blades was the basic sword critical.
 -   Every critical of the Hero Blade summons a hero and features their own aspect.
     -   The Hero of Flame is a [Khan](Khan.md) named [Jace](Jace.md).
-        -   Identified by his crown.
+        -   Identified by their crown.
     -   The Hero of Frost is a [Capra](Capra.md) named [Faust](Faust.md).
-        -   Identified by his horns and mask.
+        -   Identified by their horns and mask.
     -   The Hero of Thunder is an [Adret](Adret.md) named [Tessa](Tessa.md).
         -   Identified by her face markings.
         -   Her name was first stated in [this](https://x.com/Deepwoken/status/1801820070403772727) Twitter post.
     -   The Hero of Wind is a [Tiran](Tiran.md) named [Trinity Galenwarde](Trinity_Galenwarde.md).
         -   Identified by the feathers on their head.
         -   The Hero of Wind was named Sven Corbet and appeared in a video prior to the public release of Deepwoken. Whether this is a retcon or they are simply another Hero of Gale is unclear.
-    -   The Hero of Shadow is a [Felinor](Felinor.md) named [Urek Felhand](Urek_Felhand.md).
-        -   Identified by his ears.
+    -   The Hero of Shadow is a [Kiron](Kiron.md) named [Urek Felhand](Urek_Felhand.md).
+        -   Identified by their ears.
 -   Any clones ([Visionshaper](Oath%253A_Visionshaper.md) or [Lightning Clones](Thundercall.md#lightning-clones)) will use the default starting sword critical instead of the Hero Blade critical.

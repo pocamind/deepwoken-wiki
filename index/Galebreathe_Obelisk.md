@@ -1,6 +1,6 @@
 ---
 title: Galebreathe Obelisk
-revid: 201346
+revid: 209218
 source: https://deepwoken.fandom.com/wiki/Galebreathe_Obelisk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Oath Trainer]
@@ -19,7 +19,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Galebreathe Obelisk is an NPC located in a crack in the wall near the end of the [Burning Stone Gardens](Burning_Stone_Gardens.md) on the path to [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). It must be located and interacted with, along with [4 other element-based obelisks](Saintsworn_Obelisks.md), to obtain the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md).
+The Galebreathe Obelisk is an NPC located in a fractured, eroded area above the [Burning Stone Gardens](Burning_Stone_Gardens.md) on the path to [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). It must be located and interacted with, along with [4 other element-based obelisks](Saintsworn_Obelisks.md), to obtain the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md).
 
 It can only be interacted with if you have at least 15 [Galebreathe](Galebreathe.md). When interacted with, [Trinity Galenwarde](Trinity_Galenwarde.md), the Hero of Wind, will speak to the player.
 
@@ -38,3 +38,7 @@ It can only be interacted with if you have at least 15 [Galebreathe](Galebreathe
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Previously, the Obelisk was located in a crack in the wall within the Burning Stone Gardens' cave system, near the end of the path taken to Duke Erisia's Manor. It was moved to be above ground, but remains in roughly the same spot on the map.

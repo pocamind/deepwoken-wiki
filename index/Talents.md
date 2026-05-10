@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 209172
+revid: 209202
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1708,13 +1708,13 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   _True Ether Bullets_ \[Rare Talent, Light Weapon // Medium Weapon // Heavy Weapon, Intelligence\] - Using Ether Bullets applies elemental damage of your highest investment.
     -   Landing 2 shots will make the 3rd shot deal elemental damage.
         -   The 3rd shot apply your attunement's elemental effect:
-            -   Flamecharm: Your bullets apply burn/eruption (Lava Serpent)
-            -   Frostdraw: Your bullets apply chill/crystal (Crystallization)
-            -   Thundercall: Your bullets apply shock/surge stack (Surge)
-            -   Galebreathe: Your bullets after cut and apply winded briefly
-            -   Shadowcast: Your bullets drain ether/apply burn (Twisted Puppets)
-            -   Ironsing: Your bullets apply metal rods
-            -   Bloodrend: Your bullets apply blood poisoning
+            -   -   **[Flamecharm](Flamecharm.md)**: Your bulllets [Burn](Status_Effects.md#burn)/create an Eruption (Lava Serpent)/spawn Puppets (Twisted Puppets)
+                -   **[Frostdraw](Frostdraw.md)**: Your bullets apply [Chill](Status_Effects.md#chill)/1 [Crystal](Status_Effects.md#crystal) (Crystallization)
+                -   **[Thundercall](Thundercall.md)**: Your bullets apply [Shock](Status_Effects.md#shock)/1 [Surge Rod](Status_Effects.md#overloaded) (Surge Path)
+                -   **[Galebreathe](Galebreathe.md)**: Your bullets After Cut and briefly apply [Winded](Status_Effects.md#winded)
+                -   **[Shadowcast](Shadowcast.md)**: Your bullets [blinds](Status_Effects.md#obscurred) the enemy/applies [Burn](Status_Effects.md#shadow-burn) (Twisted Puppets)
+                -   **[Ironsing](Ironsing.md)**: Your bullets apply [Metal Rods](Status_Effects.md#metal-rods)
+                -   **[Bloodrend](Bloodrend.md)**: Your bullets apply [Blood Poisoning](Status_Effects.md#blood-poisoning)
         -   If the user has multiple attunements at the same level, it will use the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
     -   **If the user has no attunement, this Talent has NO EFFECT. It is recommended to put one point into an attunement if using this Talent on an attunement-less build.**
     -   This Talent does not make guns scale off your attunement attributes, it just converts your Physical Damage to Elemental Damage.

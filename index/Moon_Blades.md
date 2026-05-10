@@ -1,6 +1,6 @@
 ---
 title: Moon Blades
-revid: 181264
+revid: 209229
 source: https://deepwoken.fandom.com/wiki/Moon_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, "Core-Attribute based weapons", Daggers]
@@ -31,6 +31,8 @@ notices:
 | pass down | Yes |
 | obtainment | Unobtainable |
 | description | A twisted weapon devised by the Scholar of the Burning Blood, Chaser, during his apprenticeship under the Second Prophet. A seething concoction of tainted blood swirls within, waiting to be unburdened of its prison. |
+
+_This page is about the reskinned [Flareblood Kamas](Flareblood_Kamas.md) [Developer Spec](Developer_Specs.md) weapon. For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._
 
 ## Description
 

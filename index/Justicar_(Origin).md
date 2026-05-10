@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 209112
+revid: 209203
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -62,7 +62,7 @@ Justicar's progression is based around helping [Castaways](Castaway.md), which i
 There are alternative methods for promotion points as well:
 
 -   Killing a [Voidwalker](Voidwalker.md) of similar level or higher will award you with 50 points.
--   Killing a World Boss for the first time (with the exception of [Scion of Ethiron](Scion_of_Ethiron.md)) will award you with 74 points.
+-   Killing a World Boss for the first time (with the sole exception of [Scion of Ethiron](Scion_of_Ethiron.md)) will award you with 74 points.
 
 ## Promotions
 

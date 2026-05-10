@@ -1,6 +1,6 @@
 ---
 title: "Carrion's Moonseye Scalpel"
-revid: 181276
+revid: 209231
 source: https://deepwoken.fandom.com/wiki/Carrion's_Moonseye_Scalpel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons]
@@ -33,7 +33,7 @@ notices:
 | obtainment | Exclusive Weapons |
 | description | A modification upon Gunsmith Rosen's designs produced by Gunsmith Hierka, the former protégé of Rosen. It's said that Hierka hid his orgins as a member of the Authority's Bureau of Research in order to steal the Summer Company's secrets. |
 
-_This page is for the Exclusive version of the Moonseye Scalpel. For the publicly released (and later cut) version, see [Moonseye Scalpel](Moonseye_Scalpel.md)._
+_This page is for the [Developer Spec](Developer_Specs.md) weapon, not to be confused with the publicly released (and later cut) version, the [Moonseye Scalpel](Moonseye_Scalpel.md). For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Prince of the Moon
-revid: 200130
+revid: 209226
 source: https://deepwoken.fandom.com/wiki/Prince_of_the_Moon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -18,6 +18,8 @@ categories: [Vow of Iron Exclusive, Mementos]
 | starting armor | Moonseye |
 | allowed weapons | Sword |
 | starting weapons | Soulthorn |
+
+_This page is about the Vow of Iron [Memento](Mementos.md). For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

@@ -1,6 +1,6 @@
 ---
 title: The Moonlit Faith
-revid: 200639
+revid: 209227
 source: https://deepwoken.fandom.com/wiki/The_Moonlit_Faith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Religious groups, The Moonlit Faith]
@@ -13,6 +13,8 @@ categories: [Religious groups, The Moonlit Faith]
 | leader | The Lady Confessor, Council of the Moonlit Faith |
 | territory | Lullaby Isles, Echelon |
 | goals | Worshipping the Moonseye. |
+
+_This page is about the religion that worships [The Moonseye](Moonseye.md). For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._
 
 ## Description
 

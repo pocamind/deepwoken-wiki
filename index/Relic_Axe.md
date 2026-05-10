@@ -1,6 +1,6 @@
 ---
 title: Relic Axe
-revid: 202294
+revid: 209214
 source: https://deepwoken.fandom.com/wiki/Relic_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -49,9 +49,6 @@ The critical has a cooldown of **5 seconds**.
 
 ## Trivia
 
--   Meeting the requirement of HVY, the damage is (37.7)
--   At max HVY, the damage is (41.9)
--   The stone pillars spawned by the critical have collision and can be stood on and climbed.
-    -   This used to not be the case and would act like how the walls on the [City of the Drowned](The_City_of_the_Drowned.md) currently work.
+-   The stone pillars spawned by the critical used to have collision and could be stood on and climbed but now acts like how the walls on the [City of the Drowned](The_City_of_the_Drowned.md) work.
 -   The stone pillars are perfect for putting a guild base on since their size is almost exactly the size of the guild base and can be placed anywhere.
 -   The stone pillars are unparryable, however they are both blockable and dodgeable.

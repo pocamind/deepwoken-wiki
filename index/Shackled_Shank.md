@@ -1,6 +1,6 @@
 ---
 title: Shackled Shank
-revid: 171772
+revid: 209198
 source: https://deepwoken.fandom.com/wiki/Shackled_Shank
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,4 +11,4 @@ The Shackled Shank are a smuggling ring that has had frequent encounters with [T
 
 ## References
 
-1.  [↑](#cite-ref-opdlr-1-0) [Operation 'Distant Light' Report](Books.md#operation-distant-light-report)
+1.  [↑](#cite-ref-opdlr-1-0) [Book](Books.md): [Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>)
