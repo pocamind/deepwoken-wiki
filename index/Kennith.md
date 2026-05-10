@@ -1,6 +1,6 @@
 ---
 title: Kennith
-revid: 205677
+revid: 209187
 source: https://deepwoken.fandom.com/wiki/Kennith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, SpoilerPages, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, NPCs located in the Second Floor of the Second Layer]
@@ -271,6 +271,7 @@ After he is killed by one of the [Royal Etrean Guards](Royal_Etrean_Guard.md), a
 -   Kennith's corpse still has a talk hitbox, but nothing happens if you try to talk to him,
 -   Kennith shares the same hair as [Ministry Necromancers](Ministry_Necromancer.md) (4735347390).
 -   Kennith can be seen in the Main Menu screen along with [Karliah](Karliah.md) and [Polis](Polis.md).
+-   Kennith's blood was originally red before being changed to purple for censorship reasons.
 
 ## References
 

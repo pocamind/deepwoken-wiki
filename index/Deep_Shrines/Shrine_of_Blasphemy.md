@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Blasphemy
-revid: 191877
+revid: 209168
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Blasphemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics]
@@ -24,25 +24,27 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Located deep within the [Hidden Village](../The_Hidden_Village.md) of [Erisia](../Erisia.md), obscured by vines and wood.
+Located deep within [The Hidden Village](../The_Hidden_Village.md) of [Erisia](../Erisia.md), obscured by vines and wood.
 
 ## Effects/Details
 
 ### Effects
 
-This shrine has 2 effects depending on your Power:
+This shrine has two effects depending on your [Power](../Power.md):
 
--   Power 1-16: For 5, instantly Power Up 3 times, gaining the relevant amount of Talents and Whisper Draws. However, you gain a Flaw and must catch up on the 45 Investment points of these 3 Power Ups. This can only be done once per character.
+-   Power 1-16: For 5, instantly Power Up **three** times, gaining the relevant amount of [Talents](../Talents.md) and [Whisper Draws](../Whisper_Draw.md). However, you gain a [Flaw](../Boons_and_Flaws.md#flaws) and must catch up on the 45 Investment points of these three Power Ups. **This can only be done once per character.**
 -   Power 17-20: For 5, reroll a [Flaw](../Boons_and_Flaws.md#flaw) of your choice into a random base Flaw.
-    -   This deal can also be done at any Power if you've already used the previous deal to force 3 Power ups.
+    -   This deal can also be done at any Power if you've already used the previous deal to force three Power ups.
 
 ### Details
 
--   Bear in mind that the many card draws you will perform are based on your current stats. **you do not gain any attribute points from this**.
+-   In the early game, this shrine is a must for early [Shrine of Order](Shrine_of_Order.md) builds (which do not get to Power 8 pre-shrine). Otherwise, it is advised you do not Shrine of Blasphemy to Power Up three times, as the extra [Flaw](../Boons_and_Flaws.md#flaws) gained and [Knowledge](../Knowledge.md) consumed may not be worth it.
+-   Bear in mind that the many card draws you will perform are based on your current stats. **You do not gain any attribute points from this shrine.**
 -   The 45 Investment Points you need to catch up will make it harder to recover a Life while in the Overworld, especially if you don't use free points from the [Adret](../Adret.md) Aspect or the Autodidact Boon.
--   With the 3 Power Ups granted, you immediately gain 3.
--   Since you gain bonus damage in PVE based on your level, you immediately attain higher damage against non players.
+-   With the three [Power](../Power.md) Ups granted, you immediately gain 3.
+-   Since you gain bonus damage in PvE based on your level, you immediately attain higher damage against non-players.
 -   Shrine of Blasphemy cannot grant the [Simple](../Boons_and_Flaws.md#simple) or [Vegetarian](../Boons_and_Flaws.md#vegetarian) Flaws, any unlockable Flaw ([Blind](../Boons_and_Flaws.md#flaws) or [Fugitive](../Boons_and_Flaws.md#flaws)), and cannot grant nor remove any special Flaws (like [Tarnished](../Boons_and_Flaws.md#flaws) or [Disgraced](../Boons_and_Flaws.md#flaws)).
+-   Rerolling **one** [Flaw](../Boons_and_Flaws.md#flaws) worth two Flaw points ([Simple](../Boons_and_Flaws.md#simple)) results in **two** Flaws (each worth one Flaw point).\[requires testing\]
 
 ## Dialogue
 
