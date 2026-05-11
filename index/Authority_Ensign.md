@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 209118
+revid: 209527
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -249,6 +249,10 @@ Complete 10 missions as Squad leader, then speak to [Warden Jericho](Warden_Jeri
 
 ### Exclusive Features
 
+-   **Breakthrough Drive** - Knocking a player refreshes your Glorious Charge cooldown and extends both effects it has by 5 seconds. \[90 second CD\]
+
+  
+
 -   **Buster Call** - Radio in the Authority's navy for a buster call, sending out a barrage of bombardment wherever you see fit.
     -   Grants a Talent tool that lights a flare and highlights a large AoE on the ground. After a considerable delay, that location will be bombed several times, dealing very high damage.
     -   Deals little to no pve monster damage (test if it does work on humanoids)
@@ -322,7 +326,7 @@ _Yell with valor and courage, increasing the speed of those who are in your part
  |
 | 
 
-50 Ether [IconEther](Ether.md)
+70 Ether [IconEther](Ether.md)
 
  | 
 
@@ -336,6 +340,9 @@ Command Division, given automatically after entering the division
 | 
 
 **Effect:** _User lets out a yell, buffing their allies. All of their squadmates gain a speed boost for 20 seconds and become unknockable for 10._
+
+-   This Mantra can only be used while you are in a Squad.
+-   The Breakthrough Drive Talent resets this Mantra's cooldown, as well as increasing the duration of both effects by 5 seconds upon knocking a player [Unconscious](Status_Effects.md#unconscious). This has a 90 second cooldown.
 
  |
 

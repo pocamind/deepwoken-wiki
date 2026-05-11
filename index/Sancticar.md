@@ -1,6 +1,6 @@
 ---
 title: Sancticar
-revid: 209104
+revid: 209531
 source: https://deepwoken.fandom.com/wiki/Sancticar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons, Weapons with Talents]

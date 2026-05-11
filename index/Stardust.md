@@ -1,6 +1,6 @@
 ---
 title: Stardust
-revid: 202223
+revid: 209530
 source: https://deepwoken.fandom.com/wiki/Stardust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -11,9 +11,9 @@ categories: [Items]
 | Stardust | |
 |---|---|
 | stack | x10 |
-| type | Treasure |
-| bankable | Yes |
-| droppable | Yes |
+| type | Item |
+| bankable | No |
+| droppable | No |
 | pass down | No |
 | desc | A piece of the very stars, allowing one to cross the world's webs. |
 
