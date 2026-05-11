@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 209203
+revid: 209274
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -77,7 +77,7 @@ These are the ranks you can progress through:
 
 ### Promotion Talents
 
-These Talents can be chosen upon being promoted at any point in your Justicar playthrough.
+These Talents can be chosen upon being promoted at any point in your Justicar playthrough. These talents cannot be removed or rerolled once obtained so choose carefully.
 
 -   **Justicar's Adaptation** - Jus Karita running attacks and criticals can now proc Jus Karita talents even if you arent currently using [Jus Karita](Jus_Karita.md). Your Jus Karita running attacks can now also proc fist talents.
     -   Having the Justicar's Technique Talent allows you to have the Jus Karita running attack on any weapon. This allows you to proc Jus Karita and Fist exclusive Talents on any weapon via the running attack.
@@ -103,6 +103,7 @@ Upon taking the Vanguard Path, you will automatically be granted [Justicar's Arm
 ### Exclusive Features
 
 -   **Karita Combo** - Remove the endlag from your next running attack. \[5 second CD\] Landing a critical attack right after your running attack makes that critical attack have no cooldown and deal more damage. \[10 second CD\]
+    -   Prerequisites: Swiftkick Prodigy
 -   **Righteous Crash** - Slamming down your opponent in the air with a flourish or your upgraded Vanguard Jus Karita critical deals extra true damage based on high up in the air they were.
 -   **Swiftkick Master** - Proccing Swiftkick Prodigy now extends its duration to 15 seconds.
     -   Prerequisites: Swiftkick Prodigy

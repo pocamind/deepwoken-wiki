@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 201894
+revid: 209264
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, NPCs, Enemies, NPCs located in the First Floor of the Second Layer, The Covenant of Flame, Individuals with unspecified pronouns]
@@ -40,7 +40,7 @@ To initiate the fight instead of wiping instantly, your character must fulfil so
 -   No Light Hook
 -   Either [Pleeksty's Will](Talents.md#inferno) Talent, **OR** [Pleeksty's Faith](Talents.md#inferno) Talent, **OR** the [Flame Worshipper](Flame_Worshipper_Armor.md) Outfit
 
-A Resonance is required to get through the doors to Aska, but is not a requirement to start the fight and get the Pleeksty's Inferno.
+A Resonance is required to get through the doors to Aska, but is not a requirement to start the fight and get the Pleeksty's Inferno. Note that going down with the **[Reciprocal Bonecharm](Reciprocal_Bonecharm.md)** relic with no light hook does not count as having no Light Hook.
 
 ## Moveset
 

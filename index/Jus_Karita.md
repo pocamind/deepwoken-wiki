@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 208186
+revid: 209273
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons, Justicars]
@@ -73,7 +73,7 @@ For more information on these Mantras, such as their requirements and other in-d
 
 ## Trivia
 
--   The Justicar armor's damage boost was buffed after developer Ragoozer was made to fight a corrupted [Bone Keeper](Bone_Keeper.md).[\[1\]](#cite-note-1)
+-   The Justicar armor's damage boost was buffed after developer Ragoozer challenged himself to fight a corrupted [Bone Keeper](Bone_Keeper.md).[\[1\]](#cite-note-1)
     -   Furthermore, [Bone Keeper](Bone_Keeper.md)'s health regeneration was disabled and LHT & MED scaling in PVE was increased.
 -   Spawning with Jus Karita at character creation will allow you to use the fist style without the criterion of 40 LHT, though its base damage will scale down accordingly due to LHT investment below the usual requirements.
     -   You're still able to get [Jus Karita's Mantras](Attunement-less.md) as long as you have the requirements for them.

@@ -1,6 +1,6 @@
 ---
 title: Pale Briar
-revid: 200659
+revid: 209275
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Heavy Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Animations]
@@ -47,7 +47,7 @@ pale briar crit
 
 The user chants their weapon, summoning a shower of light that rapidly damages opponents and grows in size over time, totalling up to six times. The damage will gradually decrease per tick. The critical is sent towards the location of the user's cursor, but will always track to the nearest target.
 
-The critical has a cooldown of **10 seconds**.
+The critical has a cooldown of **10 seconds** and deals around **2.3x** scaled damage if all ticks hit.
 
 This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 

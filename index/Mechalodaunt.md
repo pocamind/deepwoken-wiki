@@ -1,6 +1,6 @@
 ---
 title: Mechalodaunt
-revid: 203478
+revid: 209261
 source: https://deepwoken.fandom.com/wiki/Mechalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Ambush Enemies, The Ignition Union, Ignition Union Enemies]
@@ -170,6 +170,7 @@ Mechalodaunts in the [Saramaed Summit](Saramaed_Summit.md) often spawn in groups
 
 -   Mechalodaunts probably have a radio built into them, as if you were to get ambushed by one it can say "\*Kzzt!\* This one's REALLY nicked. \*Kzzt.\*" Alternatively, they could also have the ability to talk, although this is probably not true.
 -   The machinery on them are references to themes of industrial machinery and steampunk.
+-   They give 1 [Knowledge](Knowledge.md) upon defeat.
 
 ## References
 

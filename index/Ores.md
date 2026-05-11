@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 207887
+revid: 209265
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables]
@@ -118,9 +118,9 @@ categories: [Items, Harvestables]
 
 ## Overview
 
-**Ores** are materials found all around the map, usually in caves. They are used for crafting various [Outfits](Outfits.md) and traded for chests. They can be harvested with a [pickaxe](Pickaxe.md) by pressing E on them. They're also dropped from [Mineskippers](Mudskipper.md).
+**Ores** are materials found all around the map, usually in caves. They are used for crafting various [Outfits](Outfits.md) and traded for chests. They can be harvested with a [pickaxe](Pickaxe.md) by pressing E on them. They're also dropped from [Mineskippers](Mudskipper.md#mineskipper).
 
-Harvesting any ore (except for Rock and Coal) has a chance to drop a "Pure" version of the ore. Pure ores can be traded with a [Blacksmith](Blacksmith.md) to obtain a chest, or can be crafted into 3 of the ore's base form (by hand). They also sell at 3x the amount of the base ore. Trading in 5 Pure ores will grant the [Excavator](Talents.md#excavator) Talent, which increases mining speed and grants an additional chance of obtaining 2 ores from mining a deposit.
+Harvesting any ore (except for Rock and Coal) has a chance to drop a "Pure" version of the ore. Pure ores can be traded with a [Blacksmith](Blacksmith.md) to obtain a chest, or can be crafted into 3 of the ore's base form (by hand). They also typically sell at 3x the amount of the base ore. Trading in 5 Pure ores will grant the [Excavator](Talents.md#excavator) Talent, which increases mining speed and grants an additional chance of obtaining 2 ores from mining a deposit.
 
 Additionally, ores are used in a quest given by [Adar](Adar,_Master_of_Metal.md) to unlock [Ironsing](Ironsing.md). Ironsing users are able to consume ores to train Ironsing.
 
@@ -231,6 +231,5 @@ A dark purple ore with light purple swirls found in [Simforea](Simforea.md). One
     -   This is very possibly a reference to a Rogue Lineage item "Pebble" which is used to set people in combat preventing them leave the game before attacking.
 -   Normal and Pure ores have the same appearance when held in hand.
 -   Every ore can be eaten with the [Termite](Talents.md#termite) Talent.
--   Mining ores mainly gives Strength EXP but is one of the harder ways to do so.
--   Mining ores also gives decent Intelligence EXP.
+-   Mining ores gives mainly Strength EXP, with decent Intelligence EXP, but is one of the harder ways to farm attribute experience.
 -   The old gold, coal, and iron models can be seen at [The Floating Keep](The_Floating_Keep.md)
