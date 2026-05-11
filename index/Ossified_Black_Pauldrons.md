@@ -1,6 +1,6 @@
 ---
 title: Ossified Black Pauldrons
-revid: 207400
+revid: 209392
 source: https://deepwoken.fandom.com/wiki/Ossified_Black_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Arms, Pauldrons, Craftable, Equipment with Set Bonuses]

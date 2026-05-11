@@ -1,9 +1,9 @@
 ---
 title: "Beginner's Brace"
-revid: 199564
+revid: 209433
 source: https://deepwoken.fandom.com/wiki/Beginner's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Arms, Braces, Equipment with Set Bonuses]
+categories: [Vow of Iron Exclusive, Equipment, Arms, Braces, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Beginner's Brace
@@ -15,7 +15,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Braces, Equipment with Set 
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | +2 Health, +1 Posture, +1 Rare Pip |
+| innate stats | +2 Health , +1 Posture , +1 Rare Pip |
 | innate talent | Beginner's Luck |
 | set | Beginner's Brace, Beginner's Boots |
 | set talent | Training Wheels |

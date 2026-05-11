@@ -1,6 +1,6 @@
 ---
 title: Delver Boots
-revid: 176403
+revid: 209436
 source: https://deepwoken.fandom.com/wiki/Delver_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Layer 2, Floor 1, Craftable]

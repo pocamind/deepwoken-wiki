@@ -1,9 +1,9 @@
 ---
 title: "Assassin's Cloak"
-revid: 208144
+revid: 209405
 source: https://deepwoken.fandom.com/wiki/Assassin's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Cloaks, Equipment Styles]
+categories: [Equipment, Arms, Cloaks, Equipment Styles, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Assassin's Cloak
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Cloaks, Equipment Styles]
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | LVL 10 |
+| requirements | Power 10 |
 | weight | 2 |
 | innate stats | +6 Health , +3% Stealth , +2 Rare Pip, +1 Legendary Pip |
 | innate talent | Lowstride |

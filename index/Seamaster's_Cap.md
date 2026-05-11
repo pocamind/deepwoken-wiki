@@ -1,6 +1,6 @@
 ---
 title: "Seamaster's Cap"
-revid: 176559
+revid: 209410
 source: https://deepwoken.fandom.com/wiki/Seamaster's_Cap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]

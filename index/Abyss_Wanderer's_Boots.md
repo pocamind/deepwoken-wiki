@@ -1,6 +1,6 @@
 ---
 title: "Abyss Wanderer's Boots"
-revid: 207000
+revid: 209358
 source: https://deepwoken.fandom.com/wiki/Abyss_Wanderer's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, The Divers]
@@ -13,7 +13,7 @@ categories: [Equipment, Legs, Boots, The Divers]
 | type | Legs |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | Level 10 |
+| requirements | Power 10 |
 | weight | 1 |
 | innate stats | +5 Health , +2 Rare Pips, +1 Legendary Pip |
 | innate talent | N/A |

@@ -1,6 +1,6 @@
 ---
 title: Ether Imbued Earrings
-revid: 202083
+revid: 209320
 source: https://deepwoken.fandom.com/wiki/Ether_Imbued_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Ears, Craftable]

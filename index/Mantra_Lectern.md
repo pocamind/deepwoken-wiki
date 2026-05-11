@@ -1,6 +1,6 @@
 ---
 title: Mantra Lectern
-revid: 202356
+revid: 209277
 source: https://deepwoken.fandom.com/wiki/Mantra_Lectern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Mechanics, Mantras]
@@ -24,7 +24,7 @@ Mantra Lecterns resemble lecterns with an intricate design adorned with white ca
 
 Mantra Lecterns can be used to modify and level up most [Mantras](Mantras.md) in _Deepwoken_.
 
-To use the Mantra Lectern, press E to open up the list of Mantras the player has. This includes stored Mantras.
+To use the Mantra Lectern, press input to open up the list of Mantras the player has. This includes stored Mantras.
 
 Upon modifying the desired Mantra, the player can choose the available modifiers of their preference from the list to their left. The player can remove mantras by selecting the modifiers that are already on the lectern.
 

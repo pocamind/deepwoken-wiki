@@ -1,6 +1,6 @@
 ---
 title: "Gale Master's Earrings"
-revid: 206148
+revid: 209324
 source: https://deepwoken.fandom.com/wiki/Gale_Master's_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears]

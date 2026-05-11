@@ -1,6 +1,6 @@
 ---
 title: Pistols
-revid: 208501
+revid: 209280
 source: https://deepwoken.fandom.com/wiki/Pistols
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Light Weapons, Weapon Classes, Weapons, Guns]
@@ -25,6 +25,8 @@ These weapons are typically locked to the One Handed stance.
 Singular Guns, or having a main-hand Pistol with no offhand one, can fire ranged projectiles, provided the user has [Bullets](Bullets.md) and has a loaded pistol.
 
 Reload with Z / Y, loading the chamber with bullets. While loaded, your Pistol will perform 'blast' shots rather than the default pistol whip attacks, and your critical can be used. Additionally, your pistol will gain a 15% damage modifier and 10% Chip damage when loaded.
+
+The amount of bullets you can load into a pistol is dependent on which weapon you have equipped. The [Dragoon](Dragoon.md), [Flintlock](Flintlock.md), and [Dawnshot](Dawnshot.md) can hold 4 bullets, and the [Repeater](Repeater.md), [Iron Requiem](Iron_Requiem.md), and [Silversix](Silversix.md) can hold 6 bullets. Reloading has a sound cue and slows the player greatly, leaving them vulnerable in combat. It takes 0.5 seconds to load each bullet (0.4 If the player has the [Rapid Reload](Talents.md#rapid-reload) Talent an empty gun, and 0.25 if the [Ultrakill](Talents.md#ultrakill) Talent is active). You can end your reload early by pressing M2.
 
 Having a [Shield](Shields.md) or Parrying Dagger equipped will reduce your reload speed by 20%.
 

@@ -1,6 +1,6 @@
 ---
 title: Hardened Crystal Earrings
-revid: 201269
+revid: 209322
 source: https://deepwoken.fandom.com/wiki/Hardened_Crystal_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears]

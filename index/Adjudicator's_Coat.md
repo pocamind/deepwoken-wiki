@@ -1,9 +1,9 @@
 ---
 title: "Adjudicator's Coat"
-revid: 208131
+revid: 209360
 source: https://deepwoken.fandom.com/wiki/Adjudicator's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Coats, Equipment Styles]
+categories: [Equipment, Arms, Coats, Equipment Styles, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Adjudicator's Coat
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Coats, Equipment Styles]
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | LVL 8 |
+| requirements | Power 8 |
 | weight | 2 |
 | innate stats | +2 Rare Pips |
 | innate talent | Unwavering Resolve |

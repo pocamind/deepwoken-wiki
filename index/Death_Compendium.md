@@ -1,6 +1,6 @@
 ---
 title: Death Compendium
-revid: 184162
+revid: 209284
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community, Death, Deepwoken, Vows, The Depths]
@@ -32,7 +32,7 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   Take lethal damage from a Corrupted [Jar of Souls](Jar_of_Souls.md) that has Resonance Points put into its Auto-Execute stat, instantly killing you and turning you into another soul for its collection.
 -   Enter [The Lord Regent](The_Lord_Regent.md)'s Throne Room without an audience, making him rip you apart with his tendrils. This includes talking to him after completing - or failing - the quest.
 -   Be unfortunate enough to be struck by a [Stone Knight's](Stone_Knight.md) arrival meteor in [The Starswept Valley](The_Starswept_Valley.md).
--   Be skewered by a [Legion Sniper](Legion_Sniper.md)'s [Grand Javelin](Thundercall.md#combat-mantras) while [Unconscious](Status_Effects.md#unconscious) or at low enough health. Having too many people get hit by this will also auto-execute everyone.
+-   Be skewered by a [Legion Sniper](Legion_Sniper.md)'s [Grand Javelin](Thundercall.md#grand-javelin) while [Unconscious](Status_Effects.md#unconscious) or at low enough health. Having too many people get hit by this will also auto-execute everyone.
 -   Explode. (Boat cannons, [Detonation](Detonation.md), etc)
 -   Fail the parry check in the [Trial of One](Trial_of_One.md). Maybe you weren't the One.
 -   Be unable to keep up with [The Ferryman](The_Ferryman.md)'s dance.
@@ -66,7 +66,7 @@ Death Causes listed by the game:
 -   \[Enemy Name\] (e.g. "Bandit Leader")
 -   \[Monster Name\] (e.g. "Megalodaunt")
 -   \[Player Name\] (e.g. "Rook Rethige")
--   Starvation (Empty [Hunger and Thirst](Combat_Mechanics.md#survival-basics) bar, which will drain your Blood and then your Health)
+-   Starvation (Empty [Hunger and Thirst](Combat_Mechanics.md#survival-basics) bars, which will drain your Blood and then your Health)
 -   Gravity (Death via lethal fall damage)
 -   Gravity, among other things (Above, but having been damaged by other sources)
 -   Various Causes (Self-explanatory)

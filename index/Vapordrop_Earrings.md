@@ -1,6 +1,6 @@
 ---
 title: Vapordrop Earrings
-revid: 201281
+revid: 209328
 source: https://deepwoken.fandom.com/wiki/Vapordrop_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears]

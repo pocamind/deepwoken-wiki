@@ -1,6 +1,6 @@
 ---
 title: Dark Pearls
-revid: 205686
+revid: 209330
 source: https://deepwoken.fandom.com/wiki/Dark_Pearls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears, Relics, Equipment Relics]
@@ -16,7 +16,7 @@ categories: [Equipment, Ears, Relics, Equipment Relics]
 | requirements | 40 SDW; LVL 10 |
 | weight | 0.1 |
 | innate stats | +2 Health, -2 Posture |
-| innate talent | Inky Pearls - The ether you eject is coated with inky shadow. Your vent now steals a small amount of ether. |
+| innate talent | Inky Pearls |
 | bankable | Yes, for 1 |
 | droppable | Yes |
 | enchantable | No |

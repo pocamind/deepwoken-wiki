@@ -1,6 +1,6 @@
 ---
 title: Revitalizing Pendant
-revid: 207721
+revid: 209344
 source: https://deepwoken.fandom.com/wiki/Revitalizing_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Torso, Craftable, Necklaces]

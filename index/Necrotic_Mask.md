@@ -1,6 +1,6 @@
 ---
 title: Necrotic Mask
-revid: 205120
+revid: 209350
 source: https://deepwoken.fandom.com/wiki/Necrotic_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Face, Masks, Craftable, Equipment with Set Bonuses]

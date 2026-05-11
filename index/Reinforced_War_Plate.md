@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Plate
-revid: 196888
+revid: 209356
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses]

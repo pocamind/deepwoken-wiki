@@ -1,6 +1,6 @@
 ---
 title: "Arachnid's Weave"
-revid: 207588
+revid: 209353
 source: https://deepwoken.fandom.com/wiki/Arachnid's_Weave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits]

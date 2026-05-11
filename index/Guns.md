@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 194827
+revid: 209279
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -48,7 +48,7 @@ For the editor (and viewer's) sake, 1 hand wielding pistols will be referred to 
 
 ### Single Gun
 
-Commonly referred to as one hand gun, wielding a singular main-hand pistol grants access to exclusive animations and Talent abilities. When pressing Y or Z, reload your pistol. Pistols can hold 4 to 6 bullets, depending on the weapon in specific.
+Commonly referred to as one hand gun, wielding a singular main-hand pistol grants access to exclusive animations and Talent abilities. When pressing Y / Z, reload your pistol. Pistols can hold 4 to 6 bullets, depending on the weapon in specific.
 
 On an unloaded pistol, your M1s will deal more posture damage, performing a pistol whip animation. Additionally, your weapon critical will be a default unloaded M1, proccing M1-exclusive Talents instead of those that proc on critical.
 
@@ -298,7 +298,7 @@ Rifles have their own Talent tree - [Marksman](Talents.md#marksman).
     -   Prerequisites: 55 Medium Weapon, 25 Strength, Rifle Equipped
 
 -   _Tactical Reload_ \[Rare Talent\] - Rifles Activate to make your rifle shoot bullets for 15 seconds. (90 second CD)
-    -   Upon activating the Talent tool, your rifle will gain the ability to fire [Bullets](Bullet_Casings.md) for 15 seconds.
+    -   Upon activating the Talent tool, your rifle will gain the ability to fire [Bullets](Bullets.md) for 15 seconds.
     -   Note that you need physical bullets in your inventory for this Talent to work.
     -   Has a 60 second cooldown instead if you are wielding the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>).
     -   Prerequisites: 95 Medium Weapon, Rifle Equipped
@@ -444,7 +444,7 @@ Rifles have their own Talent tree - [Marksman](Talents.md#marksman).
     -   You can also modify your bullets with [Bullet Casings](Bullet_Casings.md) by giving certain [Ores](Ores.md) to a [Gunsmith](Gunsmith.md), which can be located in your [Guild Base](Guild_Bases.md) and [The Furnace](The_Furnace.md).
 -   There are three legendary guns in the game [Stormseye](Stormseye.md), [Rosen's Hellflame](<Rosen's_Hellflame.md>) and the [Iron Requiem](Iron_Requiem.md). (Two Rifles and one Pistol.)
 -   The [Rosen's Hellflame](<Rosen's_Hellflame.md>) and [Iron Requiem](Iron_Requiem.md) are the only guns with multiple crits, both being legendary weapons.
--   One handed guns are the only type of guns where having [iron bullets](Bullet_Casings.md) isn't a direct upgrade.
+-   One handed guns are the only type of guns where having [iron bullets](Bullets.md) isn't a direct upgrade.
     -   Loading bullets into pistols exchange posture damage for 10% chip and 15% increased damage.
 -   Rifles and dual pistols used to fire ranged projectiles in their M1 combo, but this was removed in the March 3rd, 2024 Update. Today, you can perform something similar to this by using the [Tactical Reload](Talents.md#tactical-reload) and [Parting Gift](Talents.md#parting-gift) Talents respectively.
 -   No gun weapon has recoil in Deepwoken.

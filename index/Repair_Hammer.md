@@ -1,6 +1,6 @@
 ---
 title: Repair Hammer
-revid: 208434
+revid: 209282
 source: https://deepwoken.fandom.com/wiki/Repair_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Items, Tools]
@@ -20,7 +20,7 @@ The **Repair Hammer** was a utility item that was used to recover the health of 
 
 The Repair Hammer was a tool that can be found useful when traversing [The Aratel Sea](The_Aratel_Sea.md) on low-end boats. It could be bought for 30 on the [Etris Docks](Etris_Docks.md) next to [Schnitzel](Mantra_Collector.md).
 
-Using it a certain number of times and repairing a boat would grant you the [Emergency Repairs](Talents.md) and [Spare Nails](Talents.md) Talents. Which would maximize the efficiency at which you repair your boat.
+Using it a certain number of times and repairing a boat would grant you the [Emergency Repairs](Talents.md#emergency-repairs) and [Spare Nails](Talents.md#spare-nails) Talents. Which would maximize the efficiency at which you repair your boat.
 
 Spare Nails especially was useful on as it stops you from dropping wood, not only making repairing boats more convenient, but also made it easier to stock up on wood for campfires.
 

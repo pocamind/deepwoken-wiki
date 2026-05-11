@@ -1,6 +1,6 @@
 ---
 title: Movement
-revid: 205707
+revid: 209283
 source: https://deepwoken.fandom.com/wiki/Movement
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -28,7 +28,7 @@ If you touch the ground during an air dash, it will start rolling instead. The d
 
 ## Crouching/Sliding
 
-Crouching is performed by pressing CTRL. While crouched, your [Stealth](Stealth.md) is increased and you can perform Assassinations.
+Crouching is performed by pressing Ctrl. While crouched, your [Stealth](Stealth.md) is increased and you can perform Assassinations.
 
 By pressing the crouch button while running, you will start sliding.
 

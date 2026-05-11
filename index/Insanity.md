@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 196961
+revid: 209497
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -36,7 +36,7 @@ When losing enough sanity, the player will endure negative effects.
 | **Hidden Faces** | When panicking or scratching, hide the face and name of nearby humanoids (including players) for 30 seconds. | <40% | 360 seconds |
 | **Scratching** | Stuns you for 1.5 second and deal 20 damage (10 with [Grasp on Reality](Talents.md#grasp-on-reality) Talent). Is then followed by shivering. The [Unfazed](Talents.md#unfazed) Talent offers no protection against this. | <10% | 30–36 seconds |
 | **Execution** | If knocked by any means, including scratching, you are immediately killed. | <10% | N/A |
-| **Head Explosion** | Reaching 0 Sanity with a [No Life King](Curse_of_the_No_Life_King.md) Enchantment in The Depths or while observing the eyeballs in the [Ancient Rotlands](Ancient_Rotlands.md) will immediately kill the player. | 0% | N/A |
+| **Head Explosion** | Reaching 0 Sanity with a [No Life King](Curse_of_the_No_Life_King.md) Enchantment in The Depths will immediately kill the player. | 0% | N/A |
 
 ## Sanity Decreasing Effects
 
@@ -67,9 +67,9 @@ When losing enough sanity, the player will endure negative effects.
 ## Trivia
 
 -   While often attributed to him by the community, [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) is not the cause of Insanity; rather, the eldritch nature of the First Layer is responsible. This is likely why the Second Layer does not cause Insanity, as despite its variety of monsters it's more grounded in reality.
--   The maximum amount of Sanity you can have is 662-671 (80 base, 300-309 from [Willpower](Attributes.md#wll) investment, 164 from [Talents](Talents.md), and 118 from [Equipment](Equipment.md)).
-    -   If you are a [Ganymede](Ganymede.md), this is increased to 779.4-790.2 (80 base, 360-370.8 from [Willpower](Attributes.md#wll) investment, 197.8 from [Talents](Talents.md), and 141.6 from [Equipment](Equipment.md)), as Ganymede has a 1.2x Sanity gain multiplier.
-    -   This equates to over 5 and a half hours of time spent in The Depths before you reach 0 Sanity, or over 6 and a half hours if you are a [Ganymede](Ganymede.md). If you are using the [Curse of the No Life King](Curse_of_the_No_Life_King.md) enchantment, then this will be decreased to just over 5 minutes, or just over 6 minutes as a Ganymede.
+-   The not including [Equipment](Equipment.md), the maximum amount of Sanity you can have is 544 (80 base, 300 from [Willpower](Attributes.md#wll) investment, and 164 from [Talents](Talents.md)).
+    -   If you are a [Ganymede](Ganymede.md), this is increased to 637.8 (80 base, 360 from [Willpower](Attributes.md#wll) investment, and 197.8 from [Talents](Talents.md)), as Ganymede has a 1.2x Sanity gain multiplier.
+    -   This equates to over 4 and a half hours of time spent in The Depths before you reach 0 Sanity, or over 5 hours if you are a [Ganymede](Ganymede.md). If you are using the [Curse of the No Life King](Curse_of_the_No_Life_King.md) enchantment, then this will be decreased to just under 4 and a half minutes, or just over 5 minutes as a Ganymede.
 -   Each point of Sanity equates to 30 seconds of time spent in The Depths before you reach 0 Sanity.
     -   If you are using the [Curse of the No Life King](Curse_of_the_No_Life_King.md) enchantment, then each point of Sanity will equate to 0.49 seconds of time spent in The Depths before you reach 0 Sanity.
 -   The spoken phrases caused by [Heretic's Sutra](Talents.md#heretics-sutra) can consist of the following:

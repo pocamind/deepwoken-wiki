@@ -1,6 +1,6 @@
 ---
 title: Aegis of Enmity
-revid: 208024
+revid: 209362
 source: https://deepwoken.fandom.com/wiki/Aegis_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -13,7 +13,7 @@ categories: [Equipment, Head, Helmets]
 | type | Head |
 | rarity | Unique |
 | selling price | 100 |
-| requirements | LVL 12 |
+| requirements | Power 12 |
 | weight | 1 |
 | innate stats | +5 Health , +1 Posture +2 Legendary Pips |
 | innate talent | N/A |

@@ -1,9 +1,9 @@
 ---
 title: Blackalloy Pauldrons
-revid: 205711
+revid: 209441
 source: https://deepwoken.fandom.com/wiki/Blackalloy_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with Set Bonuses]
+categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Blackalloy Pauldrons
@@ -15,7 +15,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with S
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | +3 Health, +1 Posture, +1 Rare Pip |
+| innate stats | +1 Rare Pip |
 | innate talent | Laminated Armor |
 | set | Blackalloy Helm, Blackalloy Pauldrons |
 | set talent | Captain's Call |
@@ -50,4 +50,4 @@ Set Talent [Captain's Call](Talents.md#captains-call) - Call up two [Blacksteel 
 
 ## Tips
 
--   Best used for [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>), As their attacks are low damage spam. (reduces dmg by 40-50% for Zi'eer's first phase)
+-   Best used for [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>), as their attacks are usually low damage multihits. (reduces dmg by 40-50% for Zi'eer's first phase)

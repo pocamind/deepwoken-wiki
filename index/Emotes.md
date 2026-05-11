@@ -1,14 +1,12 @@
 ---
 title: Emotes
-revid: 208597
+revid: 209496
 source: https://deepwoken.fandom.com/wiki/Emotes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Mechanics]
+categories: [Mechanics]
 ---
 
 # Emotes
-
-File:Imagem 2023-04-14 110344933.png
 
 Emote Menu
 
@@ -20,62 +18,62 @@ For the most part, emotes are purely cosmetic. However, they can be used for oth
 
 ## Emotes
 
-### Default Emotes
+**Default Emotes:**
 
-| Showcase | Emote Name |
-| --- | --- |
-|  | Head Nod |
-|  | Head Shake |
-| File:Leanback.png | Lean Back |
-| File:Pride.png | Pride |
-| File:Resting.png | Resting |
-| File:Sleepish.png | Sheepish |
-| File:Thinking.png | Thinking |
-
-### Default Communication Gestures
-
-| Showcase | Emote Name | Unique Effect |
+| Emote Name | Description | Gif |
 | --- | --- | --- |
-|  | Apologize | Removes all combat tags on other players |
-|  | Challenge |  |
-|  | Friendly |  |
-|  | Leave |  |
-|  | Point |  |
-|  | Show Position | Briefly highlights the player in a white outline |
-|  | Team Up |  |
+| Head Nod | Shake your head up and down. |  |
+| Head Shake | Shake your head back and forth. |  |
+| Lean Back | Lean back with your arms crossed. |  |
+| Pride | Stand proudly. If you have your weapon equipped, you hold the weapon into the ground. |  |
+| Resting | Take a rest on the ground. |  |
+| Sheepish | Hold your hand to the back of your head in embarrassment. |  |
+| Thinking | Hold your arm to your chin as you think. |  |
 
-### Emote Pack 1
+**Default Communication Gestures:**
 
-| Showcase | Emote Name |
-| --- | --- |
-|  | Crying |
-|  | Goopie |
-|  | Griddy |
-|  | Loser |
-|  | Penguin |
-|  | Sway |
-
-### Emote Pack 2
-
-| Showcase | Emote Name |
-| --- | --- |
-|  | Caramell |
-|  | Grizzly |
-| File:RukkroF.gif | Hoss |
-|  | Meditate |
-|  | Shrug |
-|  | Sturdy |
-
-### Miscellaneous
-
-| Showcase | Emote Name | Obtainment |
+| Emote Name | Description | Gif |
 | --- | --- | --- |
-|  | Headbang | [Metallica Listening Party](<Metallica_x_Deepwoken_'72_Seasons'_Listening_Party.md>) |
-|  | Salute | [Authority Ensign](Authority_Ensign.md) |
-|  | WC \[Year\] | Winners of the official NA and EU Deepwoken World Cup hosted by Deep League |
+| Apologize | Hold your arms in the air and drop your weapon on the ground. Removes all combat tags on other players. |  |
+| Challenge | Make a threatening gesture by cutting the throat. |  |
+| Friendly | Greeting others with a hand wave. |  |
+| Leave | Signal your hand backward to leave. |  |
+| Point | Point toward something of interest. |  |
+| Show Position | Wave both of your hands in the air and briefly highlights the player in a white outline. |  |
+| Team Up | Invite players by gesturing toward yourself. |  |
+
+**Emote Pack 1:**
+
+| Emote Name | Description | Gif |
+| --- | --- | --- |
+| Crying | Break down into exaggerated sobbing while looking around for sympathy. |  |
+| Goopie | Perfrom the Goopie, a dance originating from TikTok created by goopie. |  |
+| Griddy | Swing your arms while tapping your feet. |  |
+| Loser | Do the "Take the L" emote from Fortnite. |  |
+| Penguin | Perform the Club Penguin dance. |  |
+| Sway | Sway from side to side. |  |
+
+**Emote Pack 2:**
+
+| Emote Name | Description | Gif |
+| --- | --- | --- |
+| Caramell | Perform the "Caramelldansen" which is a 2001 bubblegum dance song by Swedish group Caramell. |  |
+| Grizzly | Swing your arms from side to side then cross your arms while still dancing. |  |
+| Hoss | Strike a pose with the _Deepwoken_ symbol marked on your back with a flowing red visual effect on your right eye. This is based off of Akuma from the Street Fighter series. |  |
+| Meditate | Sit peacefully in meditation, leaving your weapon on the ground if equipped. |  |
+| Shrug | Shrug while shifting your head from side to side. |  |
+| Sturdy | You get Sturdy. |  |
+
+**Exclusive:**
+
+| Emote Name | Description | Gif |
+| --- | --- | --- |
+| Headbang | Aggressively headbang. Could be obtained from the [Metallica Listening Party](<Metallica_x_Deepwoken_'72_Seasons'_Listening_Party.md>). |  |
+| Salute | Perform a military salute. Obtained from the [Authority Ensign](Authority_Ensign.md) origin. |  |
+| WC \[Year\] | Present a trophy cup. A celebratory emote for the winners of the official NA and EU Deepwoken World Cup hosted by Deep League. |  |
 
 ## Trivia
 
--   Prior to the May 22nd, 2023 update, the default keybind to toggle emotes was X before it was moved to K. This was changed with the addition of [Ironsing](Ironsing.md) due to the mechanic of "Iron Pull" taking its keybind.
+-   Prior to the [May 22nd, 2023](Version_History/2023.md#may-22nd-2023) update, the default keybind to toggle emotes was X before it was moved to K. This was changed with the addition of [Ironsing](Ironsing.md) due to the mechanic of "Iron Pull" taking its keybind.
 -   Players can also use emotes by typing into the chat "/e \[emote name\]" as long as they have it.
     -   Strangely, this allows players to use the Salute emote, even on non-[Authority Ensign](Authority_Ensign.md) characters.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 209263
+revid: 209448
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1712,7 +1712,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
                 -   **[Frostdraw](Frostdraw.md)**: Your bullets apply [Chill](Status_Effects.md#chill)/1 [Crystal](Status_Effects.md#crystal) (Crystallization)
                 -   **[Thundercall](Thundercall.md)**: Your bullets apply [Shock](Status_Effects.md#shock)/1 [Surge Rod](Status_Effects.md#overloaded) (Surge Path)
                 -   **[Galebreathe](Galebreathe.md)**: Your bullets After Cut and briefly apply [Winded](Status_Effects.md#winded)
-                -   **[Shadowcast](Shadowcast.md)**: Your bullets [blinds](Status_Effects.md#obscurred) the enemy/applies [Burn](Status_Effects.md#shadow-burn) (Twisted Puppets)
+                -   **[Shadowcast](Shadowcast.md)**: Your bullets [blinds](Status_Effects.md#obscured) the enemy/applies [Burn](Status_Effects.md#shadow-burn) (Twisted Puppets)
                 -   **[Ironsing](Ironsing.md)**: Your bullets apply [Metal Rods](Status_Effects.md#metal-rods)
                 -   **[Bloodrend](Bloodrend.md)**: Your bullets apply [Blood Poisoning](Status_Effects.md#blood-poisoning)
         -   If the user has multiple attunements at the same level, it will use the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
@@ -4884,20 +4884,20 @@ Certain Talents are given when a specific equipment or outfit is worn. Multiple 
     
     -   On proc, a wind of gale will erupt from your legs, signifying that the effect is active.
 
--   Withering Soul: [Darkened Bastion](Darkened_Bastion.md) - Your Basic Attacks proc 12.5% of their damage as Wither. Wielding the [Deepspindle](Deepspindle.md) or [Umbrite Witherblade](Umbrite_Witherblade.md) will double the amount to 25%.
-    -   The Wither applied is based off your weapon's scaled damage.
-
 -   Whistleguard: [Whistling Periapt](Whistling_Periapt.md) - The favor of the winds is yours: landing three hits (five for light weapons) without taking damage against your opponent envelops you in a shield of wind.
     -   The wind shield grants one (1) autoparry frame and has a cooldown of 10 seconds.
     -   The wind shield lasts a few seconds or until you get hit (in which case, it will automatically parry the attack), cast any mantra, feint any attack, or use your critical attack.
     -   Some mantras, like [Mecha Gatling](Monster_Mantras.md#mecha-gatling), can build up stacks for this.
     -   If you have the wind shield active and a Talent that allows you to parry unparryable monster attacks, such as Force Your Way or Diver's Resilience, you will autoparry them.
 
+-   Withering Soul: [Darkened Bastion](Darkened_Bastion.md) - Your Basic Attacks proc 12.5% of their damage as Wither. Wielding the [Deepspindle](Deepspindle.md) or [Umbrite Witherblade](Umbrite_Witherblade.md) will double the amount to 25%.
+    -   The Wither applied is based off your weapon's scaled damage.
+
 -   Wind Dancer: [Windrunner Robes](Windrunner_Robes.md) - Roll cancelling twice in quick succession will grant you a speed boost. One of your rolls must dodge a hit.
     -   Grants a 10% speed boost for 8 seconds.
     -   10 second cooldown.
 
--   Winter's Protection [Winter Corps Parka](Winter_Corps_Parka.md) - Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale.
+-   Winter's Protection: [Winter Corps Parka](Winter_Corps_Parka.md) - Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale.
     -   Increases the time it takes for the [Second Layer](Second_Layer.md)'s parasites to kill you.
     -   Negates damage buffs from weather:
         -   [Frostdraw](Frostdraw.md) will no longer apply its 5% damage buff during snow.
