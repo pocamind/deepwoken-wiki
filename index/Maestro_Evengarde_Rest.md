@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 209259
+revid: 209500
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Etrea]
@@ -85,7 +85,7 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 | 
 
 **Mortal Draw: Floating Passage  
-(★☆☆)**
+(★★☆)**
 
  | Rest raises his blade, performing a quick diagonal strike downwards, followed by another upwards, spinning around, holding his stance for a second and delivering a final upwards swing afterwards which does increased damage.
 
@@ -98,7 +98,7 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 | 
 
 **Mortal Draw: Dharma Descent  
-(★☆☆)**
+(★★★)**
 
  | Leaps into the air, with his trajectory marked by a white light, before plunging his sword into the ground, unleashing green shockwaves.
 
@@ -134,7 +134,7 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 | 
 
 **Mortal Draw: Etrea Cross  
-(★★☆)**
+(★★★)**
 
  | Sheathes his blade and then flash steps forward, phantoms of gale cutting the area in his wake.
 

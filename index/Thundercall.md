@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 209247
+revid: 209520
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -236,7 +236,7 @@ _Produce a highly potent field of electromagnetism, shocking all inside._
  |
 | 
 
-10 Ether [IconEther](Ether.md)
+55 Ether [IconEther](Ether.md)
 
  | 
 
@@ -322,7 +322,7 @@ _Replicated forms of yourself conjured from electricity._
  |
 | 
 
-60 Ether [IconEther](Ether.md)
+50 Ether [IconEther](Ether.md)
 
  | 
 
@@ -495,7 +495,7 @@ _An arrow of lightning._
  |
 | 
 
-50 Ether [IconEther](Ether.md)
+80 Ether [IconEther](Ether.md)
 
  | 
 
@@ -575,7 +575,7 @@ _Conjure weapons of thunder with your ether._
  |
 | 
 
-45 Ether [IconEther](Ether.md)
+50 Ether [IconEther](Ether.md)
 
  | 
 
@@ -727,7 +727,7 @@ _A rush of lightning._
  |
 | 
 
-60 Ether [IconEther](Ether.md)
+70 Ether [IconEther](Ether.md)
 
  | 
 
@@ -768,7 +768,7 @@ _A cloak of lightning itself._
  |
 | 
 
-20 Ether [IconEther](Ether.md)
+80 Ether [IconEther](Ether.md)
 
  | 
 

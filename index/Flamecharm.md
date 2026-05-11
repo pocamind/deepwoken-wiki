@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 209195
+revid: 209522
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -110,7 +110,7 @@ _Summon a legion of flaming spearmen that lunge inwards._
  |
 | 
 
-30 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -239,7 +239,7 @@ _Jet forwards with flames and slam anyone you catch in your clutches._
  |
 | 
 
-50 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -281,7 +281,7 @@ _Charge up an exertion of flames that knocks opponents backwards. If you take da
  |
 | 
 
-30 Ether [IconEther](Ether.md)
+55 Ether [IconEther](Ether.md)
 
  | 
 
@@ -325,7 +325,7 @@ _A pyroclastic eruption._
  |
 | 
 
-45 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -368,7 +368,7 @@ _Toss a nimble dagger._
  |
 | 
 
-55 Ether [IconEther](Ether.md)
+65 Ether [IconEther](Ether.md)
 
  | 
 
@@ -493,7 +493,7 @@ _Conjure a turret of flames._
  |
 | 
 
-60 Ether [IconEther](Ether.md)
+80 Ether [IconEther](Ether.md)
 
  | 
 
@@ -535,7 +535,7 @@ _Conjure up to 3 fireballs to volley at your enemies._
  |
 | 
 
-50 Ether [IconEther](Ether.md) (per fireball)
+65 Ether [IconEther](Ether.md) (per fireball)
 
  | 
 
@@ -574,7 +574,7 @@ _Bear down on your foes with repeated fiery slashes._
  |
 | 
 
-40 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -661,7 +661,7 @@ _Strike the ground, turning it to ash._
  |
 | 
 
-35 Ether [IconEther](Ether.md)
+70 Ether [IconEther](Ether.md)
 
  | 
 
@@ -702,7 +702,7 @@ _Conjure a flaming arrow and fire it at your target._
  |
 | 
 
-60 Ether [IconEther](Ether.md)
+90 Ether [IconEther](Ether.md)
 
  | 
 
@@ -748,7 +748,7 @@ _Lash out with flames._
  |
 | 
 
-70 Ether [IconEther](Ether.md)
+100 Ether [IconEther](Ether.md)
 
  | 
 
@@ -823,7 +823,7 @@ _Dash forward in a spiral of flames._
  |
 | 
 
-40 Ether [IconEther](Ether.md)
+65 Ether [IconEther](Ether.md)
 
  | 
 
@@ -984,7 +984,7 @@ _Undying flame._
  |
 | 
 
-80 Ether [IconEther](Ether.md)
+100 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1027,7 +1027,7 @@ _Conjure an undying flame for the caster and their comrades to rest by._
  |
 | 
 
-80 Ether [IconEther](Ether.md)
+90 Ether [IconEther](Ether.md)
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 209448
+revid: 209523
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -538,7 +538,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Blindseer
 
 -   [**Oath: Blindseer**](Oath%253A_Blindseer.md) - You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot, +1 Combat Mantra Slot)
-    -   Prerequisites: 40 Willpower, all 3 Mental Fortress Talents, Blindfold, and read the inscriptions in The [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
+    -   Prerequisites: 40 Willpower, all 3 Mental Fortress Talents, [Blindfold](Blindfold.md) / [Blind](Boons_and_Flaws.md#flaws) Flaw, and read the inscriptions in The [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
 
 -   All-Seeing Eye \[Oath Talent, [Blindseer](Oath%253A_Blindseer.md)\] - The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.
     -   Invisible players and monsters are revealed by a Blindseer Eye icon showcasing their current position.

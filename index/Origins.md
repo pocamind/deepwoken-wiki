@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 209041
+revid: 209498
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Character, Mechanics, Creation, Origins, Features absent in Vow of Iron]
@@ -60,7 +60,7 @@ This content is not accessible outside of this gamemode.
 
 **Origins** are a feature in _Deepwoken_ that provide the player with certain gear and allegiances on spawn, depending on which Origin is chosen. These can affect how you play the game in different ways, with most Origins having a preferred progression method. You **CANNOT** change your Origin _mid progression_, as Origins can only be chosen from Character Creation; you will need to **WIPE** in order to pick a new Origin.
 
-The player starts out having only the **[Castaway](Castaway.md)** origin, with the other origins being unlocked once the player achieve specific requirements. Below is a brief overview of all the origins. A more descriptive overview can be found on their respective pages
+The player starts out having only the **[Castaway](Castaway.md)** origin, with the other origins being unlocked once the player achieve specific requirements. Below is a brief overview of all the origins. A more descriptive overview can be found on their respective pages.
 
 -   [Castaway](Castaway.md): The starter origin, unlocked by default for everyone.
     -   As a starter origin, Castaway gives neither benefits nor drawbacks in regards to [progression](<Terminology_(game).md#progprogging>).
@@ -114,7 +114,7 @@ The player starts out having only the **[Castaway](Castaway.md)** origin, with t
         -   With enough promotions and other requirements, Ensigns unlock the choice to join a division.
         -   Joining one of three divisions ([Command](Authority_Ensign.md#command-division), [Inquisition](Authority_Ensign.md#inquisition-division), or [Shock Corps](Authority_Ensign.md#shock-corps-division)) will automatically equip them with an [Outfit](Outfits.md) and mantra exclusive to their chosen division, and unlock division-exclusive talents upon further promotions, while locking them out from entering other divisions.
         -   Once an ensign promotes to the highest rank in a division, they will receive a division-exclusive weapon upon interacting with their division leader NPC.
-        -   Each rank has its own insignia, appearing on top of the name of a specific Ensign, and next to it on the leaderboard on the top right of the screen, which is viewable by other Ensigns.
+        -   Each rank has its own insignia, appearing on top of the name of every Ensigns, which is only viewable by other Ensigns.
     -   While this all seems well, it comes with many costs:
         -   Authority Ensigns no longer have access to their [Chime of Dwelling](Chime_of_Dwelling.md) if they are in a [Guild](Guilds.md).
         -   Authority Ensigns cannot gain reputation with [Etrea](Etrea.md) (which puts out bounties) and [The Children of Navae](The_Children_of_Navae.md) (doesn't put out bounties), which means that they will always be open to being hunted by Voidwalkers.
@@ -122,21 +122,21 @@ The player starts out having only the **[Castaway](Castaway.md)** origin, with t
         -   Authority Ensigns cannot equip or craft any other [Outfit](Outfits.md) to wear, for [Transmogging](Transmogrification.md) or otherwise.
         -   If an Authority Ensign has yet to join a division, they will be subject to the AWOL (absent without leave) timer, which counts down from 15 minutes whenever they leave an authority controlled territory. Once it reaches 0, they will be branded a deserter and **exiled**. Other exceptions from this include being on a mission, in a [Dungeon](Dungeons.md), in [The Depths](The_Depths.md), and etc.
         -   If an Authority Ensign kills another Authority Ensign member of equal or higher rank, they will be branded a traitor and **exiled**.
-        -   Being **[Exiled](Authority_Ensign.md#exile)** will make an Ensign lose all previously mentioned benefits, although they will still keep their exclusive talents, weapons, outfits, and mantras that they gained. It will also remove the restriction on reputation, outfit crafting, and not being able to use chime of dwelling.
+        -   Being **[Exiled](Authority_Ensign.md#exile)** will make an Ensign lose all previously mentioned effects and benefits, although they will still keep their exclusive talents, weapons, outfits, and mantras that they gained. It will also remove the restriction on reputation, outfit crafting, and not being able to use chime of dwelling.
     -   Authority Ensigns spawn directly and only in [Port Merit](Port_Merit.md), which is near [Fort Merit](Fort_Merit.md), and they are affiliated with [The Central Authority](The_Central_Authority.md).
 
 -   [Justicar](<Justicar_(Origin).md>): An origin centered around helping players, especially those who cannot defend themselves. It is the Voidwalker origin's counterpart.
     -   Justicar's progression boost comes from helping Castaways, with Justicars gaining an experience boost while helping Castaways.
     -   Justicars gain a Talent Tool called [Justicar's Aid](<Justicar_(Origin).md#justicars-aid>), which allows them to teleport to any Castaways that have used their [Justicar Whistle](Castaway.md#justicar-whistle) and teleport to them, marking that Castaway as the Justicar's mark. Do note that you do not need to use this to gain promotion points.
-        -   The Justicar cannot attack the Castaway, or else the Justicar will get stunned. If the Castaway attacks the Justicar, the Justicar will also get stunned. These effects will be removed if the Castaway attacks the Justicar too many times.
+        -   During this, The Justicar cannot attack the Castaway, or else the Justicar will get stunned. If the Castaway attacks the Justicar, the Justicar will also get stunned. These effects will be removed if the Castaway attacks the Justicar too many times.
         -   If the Justicar dies, or the Castaway dies during this, the Justicar will lose 50 promotion points.
-    -   Much like Authority Ensigns once a Justicar reaches a specific threshold of promotion points, they will gain a promotion.
+    -   Justicars have access to the rank and promotion system. Upon reaching a specific threshold of promotion points, they will gain a promotion. This is much like Authority Ensign.
         -   There are a few sources of promotions points: Killing a Voidwalker, defeating [World Bosses](Bosses.md#world-bosses), and doing random events with a Castaway, which is the intended method.
-        -   Upon any promotion, Justicars will gain a [justicar-exclusive promotion talent](<Justicar_(Origin).md#promotion-talents>).
+        -   Upon any promotions, Justicars will gain a [justicar-exclusive promotion talent](<Justicar_(Origin).md#promotion-talents>).
         -   With enough promotions, Justicars unlock the ability to walk a Path.
         -   Choosing to walk one of two paths ([Warder](<Justicar_(Origin).md#warder-path>) or [Vanguard](<Justicar_(Origin).md#vanguard-path>)) will automatically equip them with an [Outfit](Outfits.md) and mantra exclusive to their chosen Path, and unlock Path-exclusive talents upon further promotions, while locking them out from selecting the other Path.
-        -   Once a Vanguard Justicar promotes to the highest rank in a Path, they can talk to [Konga The Third](Konga_The_Third.md) to gain the path-exclusive [Karita Plating](Karita_Plating.md) weapon. There is currently no exclusive weapon for the Warder Path.
-    -   Justicars spawn directly and only in [Alsin's Landing](<Alsin's_Landing.md>), and they are affiliated with [The Justicar](The_Justicar.md), who all follow [Alsin](Alsin.md).
+        -   Once a Vanguard Justicar promotes to the highest rank in a Path, they can talk to [Konga The Third](Konga_The_Third.md) to gain the path-exclusive [Karita Plating](Karita_Plating.md) weapon upon meeting its requirements. There is currently no exclusive weapon for the Warder Path.
+    -   Justicars spawn directly and only in [Alsin's Landing](<Alsin's_Landing.md>), and they are named after and are affiliated with [The Justicar](The_Justicar.md), who all follow [Alsin](Alsin.md).
 
 ## Upcoming Origins
 
