@@ -1,9 +1,9 @@
 ---
 title: Caster Fur Pauldrons
-revid: 190313
+revid: 209851
 source: https://deepwoken.fandom.com/wiki/Caster_Fur_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with Set Bonuses]
+categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Caster Fur Pauldrons
@@ -15,7 +15,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with S
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | +3 Health, +2 Rare Pips |
+| innate stats | +3 Health , +2 Rare Pips |
 | innate talent | Ether Upgrade |
 | set | Caster Fur Pauldrons, Caster Fur Boots |
 | set talent | Overdrive |
@@ -33,6 +33,8 @@ You are currently viewing the version of this content that only applies to the *
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 Caster Fur Set
+
+Variants: [Boots](Caster_Fur_Boots.md)
 
 ## Description
 

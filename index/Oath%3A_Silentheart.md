@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 208862
+revid: 209879
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -73,8 +73,6 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 -   **Entirely lose access to using Mantras**; learned Mantras can still be viewed in your Journal and turned in to [Shrine of Division](Deep_Shrines/Shrine_of_Division.md), but they will disappear from your inventory and they cannot be used.
 -   Attunements are unable to be obtained.
 -   "Elemental" weapons **cannot** be equipped.
-    -   This includes: Any weapon with an Attunement requirement, [First Light](First_Light.md), [Flareblood Kamas](Flareblood_Kamas.md), [Frostthorn](Frostthorn.md), and [Night Axe](Night_Axe.md).
-    -   Any weapon not mentioned above can still be equipped with this Oath.
 -   You gain glowing red tattoos coursing over your arms and torso.
 -   Your eye color becomes duller and darker.
 

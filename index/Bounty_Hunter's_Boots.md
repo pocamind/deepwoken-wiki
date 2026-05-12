@@ -1,9 +1,9 @@
 ---
 title: "Bounty Hunter's Boots"
-revid: 200798
+revid: 209830
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses]
+categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
 ---
 
 # Bounty Hunter's Boots
@@ -14,7 +14,7 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set B
 | rarity | Rare |
 | selling price | 25 |
 | weight | 1 |
-| innate stats | +2 Health+2 Rare Pips, +1 Legendary Pip |
+| innate stats | +2 Health +2 Rare Pips, +1 Legendary Pip |
 | innate talent | Endurance Runner, Gunslinger's Fury |
 | set | Bounty Hunter's Garb, Bounty Hunter's Boots |
 | set talent | Explosive Rounds |
@@ -25,13 +25,15 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set B
 | obtainment | Sold in Naan Zakshun's black market for 3,000 , Depths chests, Mystery Boxes |
 | description | ... |
 
+Variants: [Mercenary's Boots](<Mercenary's_Boots.md>)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
-Bounty Hunter Set
+Bounty Hunter's Set
 
-Variants: [Bounty Hunter's Garb](<Bounty_Hunter's_Garb.md>)
+Variants: [Garb](<Bounty_Hunter's_Garb.md>)
 
 ## Description
 

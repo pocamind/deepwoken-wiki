@@ -1,9 +1,9 @@
 ---
 title: Corrupted Duelist Mask
-revid: 207019
+revid: 209863
 source: https://deepwoken.fandom.com/wiki/Corrupted_Duelist_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Face, Masks, Corrupt Equipment]
+categories: [Vow of Iron Exclusive, Equipment, Face, Masks, Corrupt Equipment, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Corrupted Duelist Mask
@@ -15,7 +15,7 @@ categories: [Vow of Iron Exclusive, Equipment, Face, Masks, Corrupt Equipment]
 | selling price | 25 |
 | requirements | None |
 | weight | 0.5 |
-| innate stats | 6% Stealth, +1 Rare Pip |
+| innate stats | +6% Stealth , +1 Rare Pip |
 | innate talent | Fictitious Force |
 | bankable | No |
 | droppable | No |

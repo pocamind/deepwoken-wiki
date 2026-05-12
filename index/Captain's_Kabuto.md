@@ -1,6 +1,6 @@
 ---
 title: "Captain's Kabuto"
-revid: 176377
+revid: 209846
 source: https://deepwoken.fandom.com/wiki/Captain's_Kabuto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -15,7 +15,7 @@ categories: [Equipment, Head, Helmets]
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +8 Health, +1 Rare Pip |
+| innate stats | +8 Health , +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -26,7 +26,7 @@ categories: [Equipment, Head, Helmets]
 
 ## Description
 
-The Captain's Kabuto is an Equipment Armor in the "_Head_" category_._
+The Captain's Kabuto is an Equipment Armor in the "_Head_" category.
 
 ## Trivia
 

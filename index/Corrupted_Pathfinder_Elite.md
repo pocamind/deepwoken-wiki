@@ -1,9 +1,9 @@
 ---
 title: Corrupted Pathfinder Elite
-revid: 207020
+revid: 209865
 source: https://deepwoken.fandom.com/wiki/Corrupted_Pathfinder_Elite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Arms, Coats, Corrupt Equipment]
+categories: [Vow of Iron Exclusive, Equipment, Arms, Coats, Corrupt Equipment, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
 ---
 
 # Corrupted Pathfinder Elite
@@ -13,7 +13,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Coats, Corrupt Equipment]
 | type | Arms |
 | rarity | Rare |
 | selling price | 50 |
-| requirements | PWR 8 |
+| requirements | Power 8 |
 | weight | 2 |
 | innate stats | 5% Damage Vs Monsters, +2 Rare Pips, +1 Legendary Pip |
 | innate talent | Shadow Travel, Omen |

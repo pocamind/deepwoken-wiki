@@ -1,9 +1,9 @@
 ---
 title: Cultist Cowl
-revid: 190119
+revid: 209872
 source: https://deepwoken.fandom.com/wiki/Cultist_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Head, Cowls]
+categories: [Vow of Iron Exclusive, Equipment, Head, Cowls, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Cultist Cowl
@@ -15,7 +15,7 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Cowls]
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +4% Stealth+1 Posture |
+| innate stats | +4% Stealth +1 Posture |
 | innate talent | Experienced Healer |
 | bankable | No |
 | droppable | No |

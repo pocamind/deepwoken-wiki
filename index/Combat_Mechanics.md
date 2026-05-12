@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 209032
+revid: 209822
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Mechanics]
 
 # Combat Mechanics
 
-KThis page contains basic information about **combat** and its associated mechanics. This includes details on status bars, attacks, status effects, and more
+This page contains basic information about **combat** and its associated mechanics. This includes details on status bars, attacks, status effects, and more
 
 _Knowing this information is absolutely crucial to prolonging your life, and will give any voyager a fighting chance when they inevitably enter a skirmish with their future adversaries, or worse-- allies._
 
@@ -646,7 +646,7 @@ Some of these attacks have unique mechanics regarding how/if they can be avoided
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md): Sudden Ambush, Pressure Eruption
 -   [Heart of Enmity](Heart_of_Enmity.md): Event Horizon
 -   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Altitude Swipes, Champion's Quake
--   Knell, The Lunatic Resonator: Carilion Call
+-   [Knell, The Lunatic Resonator](Knell,_The_Lunatic_Resonator.md): Carilion Call
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Bone Ring
-revid: 201012
+revid: 209828
 source: https://deepwoken.fandom.com/wiki/Bone_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Rings, Relics, Equipment Relics, Equipment]
@@ -13,7 +13,7 @@ categories: [Rings, Relics, Equipment Relics, Equipment]
 | type | Ring |
 | rarity | Relic |
 | selling price | 100 |
-| requirements | LVL 15 |
+| requirements | Power 15 |
 | weight | 0.1 |
 | innate stats | +1 Uncommon Pip |
 | bankable | No |

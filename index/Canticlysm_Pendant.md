@@ -1,6 +1,6 @@
 ---
 title: Canticlysm Pendant
-revid: 207125
+revid: 209841
 source: https://deepwoken.fandom.com/wiki/Canticlysm_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -13,7 +13,7 @@ categories: [Equipment, Torso, Necklaces]
 | type | Torso |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | LVL 5 |
+| requirements | Power 5 |
 | weight | 0.5 |
 | innate stats | +3% Elemental Armor , +1 Rare Pip, +1 Legendary Pip |
 | innate talent | N/A |

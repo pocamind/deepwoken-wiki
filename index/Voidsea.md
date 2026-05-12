@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 208885
+revid: 209829
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Voidzones]
@@ -19,8 +19,6 @@ The **Voidfog** within the sea can cover vision making navigation difficult, you
 
 The **Voidsea** is similar to [Voidzones](Voidzones.md) in many ways, progressing here will give you twice the XP although dying while in the **Voidsea** will send you to [The Depths](The_Depths.md) immediately. This does not happen when killed/combat tagged by a player, though everything else be it starvation, drowning or any other method of death will Depthsend you. So be careful when grinding here, as it is a dangerous and unforgiving place.
 
-Sometimes, when you are sailing through **Voidsea**, you may be teleported to a random location within The **Voidsea**. This will damage your boat based on distance travelled by the teleport. This can also break boats instantly or deal incredibly heavy damage, So bringing wood and a repair hammer is heavily advised if not mandatory.
-
 ## Points of Interest
 
 -   [Beloved Zofia](Beloved_Zofia.md)
@@ -37,3 +35,4 @@ Sometimes, when you are sailing through **Voidsea**, you may be teleported to a 
 -   You lose sanity here but it's so low that it won't be a problem
 -   Island events that spawn in the Voidsea take on a monochrome appearance.
 -   If you are playing on Low Graphics mode, sailing past 100k in an axis will remove the sea texture, causing you to sail above "the void." Note that it is safe to jump off your boat and swim, and turning off Low GFX will make the sea re-appear.
+-   Prior to May 2, 2026, ships would occasionally teleport to another place in the Voidsea, inflicting damage to ship health and making it risky to return to the Luminants by just simply doing a U-turn. This was disabled in a hotfix update on May 2, 2026.

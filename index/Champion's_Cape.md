@@ -1,9 +1,9 @@
 ---
 title: "Champion's Cape"
-revid: 209397
+revid: 209861
 source: https://deepwoken.fandom.com/wiki/Champion's_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Capes, Craftable]
+categories: [Equipment, Arms, Capes, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Champion's Cape
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Capes, Craftable]
 | selling price | 100 |
 | requirements | Power 20 |
 | weight | 2 |
-| innate stats | +10% Lightning Armor, +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +10% Lightning Armor , +2 Rare Pips, +1 Legendary Pip |
 | innate talent | No Interruptions |
 | bankable | Yes |
 | droppable | Yes |
@@ -30,7 +30,7 @@ Champion's Cape is an animated, **unenchantable**[\[1\]](#cite-note-unenchantabl
 
 The [No Interruptions](Talents.md#no-interruptions) Talent reduces damage taken by ranged attacks while you have at least two combat tags.
 
-This grants a scaling damage reduction effect based on how far your opponent is away from you, starting at 25% damage reduction with 15 studs of distance, and gaining +1% damage reduction per additional stud. Additionally, this grants [true hyperarmor](Status_Effects.md#true-hyperarmor) to attacks that are coming from attackers who are at least 15 studs away from you.
+This grants a scaling damage reduction effect based on how far your opponent is away from you, starting at 25% damage reduction with 15 studs of distance, and gaining +1% damage reduction per additional stud. Additionally, this grants [True Hyperarmor](Status_Effects.md#true-hyperarmor) to attacks that are coming from attackers who are at least 15 studs away from you.
 
 The damage reduction works in PvE if you are combat tagged by at least one player and can resist certain environmental effects such as the [Detainment Core Lasers](Merit_Detainment_Core.md) and [Titus Debris](Titus_Fulminus_Destellus.md).
 

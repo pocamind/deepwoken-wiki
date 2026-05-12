@@ -1,6 +1,6 @@
 ---
 title: Brilliant Cape
-revid: 176371
+revid: 209837
 source: https://deepwoken.fandom.com/wiki/Brilliant_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Capes]
@@ -13,9 +13,9 @@ categories: [Equipment, Torso, Capes]
 | type | Torso |
 | rarity | Uncommon |
 | selling price | 14 |
-| requirements | PWR 5 |
+| requirements | Power 5 |
 | weight | 0.5 |
-| innate stats | 1 Legendary Pip3% Elemental Armor |
+| innate stats | +3% Elemental Armor , +1 Legendary Pip |
 | innate talent | N/A |
 | set | Brilliant Pauldron, Brilliant Boots, Brilliant Cape |
 | set talent | N/A |

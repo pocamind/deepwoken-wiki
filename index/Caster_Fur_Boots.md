@@ -1,9 +1,9 @@
 ---
 title: Caster Fur Boots
-revid: 200793
+revid: 209849
 source: https://deepwoken.fandom.com/wiki/Caster_Fur_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses]
+categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Caster Fur Boots
@@ -15,7 +15,7 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set B
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +3 Health, +1 Rare Pip |
+| innate stats | +3 Health , +1 Rare Pip |
 | innate talent | Ether Efficiency |
 | set | Caster Fur Pauldrons, Caster Fur Boots |
 | set talent | Overdrive |
@@ -34,7 +34,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 Caster Fur Set
 
-Variants: [Caster Fur Pauldrons](Caster_Fur_Pauldrons.md)
+Variants: [Pauldrons](Caster_Fur_Pauldrons.md)
 
 ## Description
 

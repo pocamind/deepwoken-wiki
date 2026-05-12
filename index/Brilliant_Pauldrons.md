@@ -1,6 +1,6 @@
 ---
 title: Brilliant Pauldrons
-revid: 195764
+revid: 209838
 source: https://deepwoken.fandom.com/wiki/Brilliant_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Pauldrons]
 | selling price | 7 |
 | requirements | None |
 | weight | 2 |
-| innate stats | +5 Health, +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +5 Health , +2 Rare Pips, +1 Legendary Pip |
 | innate talent | N/A |
 | set | Brilliant Pauldron, Brilliant Boots, Brilliant Cape |
 | set talent | N/A |

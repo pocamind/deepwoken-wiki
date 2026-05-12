@@ -1,6 +1,6 @@
 ---
 title: "Brigand's Cloak"
-revid: 176369
+revid: 209835
 source: https://deepwoken.fandom.com/wiki/Brigand's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Cloaks]
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | +3 Health, +2 Rare Pips |
+| innate stats | +3 Health , +2 Rare Pips |
 | innate talent | N/A |
 | set | Brigand's Bicorn, Brigand's Cloak |
 | set talent | N/A |

@@ -1,9 +1,9 @@
 ---
 title: Celtor Commander Helm
-revid: 209607
+revid: 209857
 source: https://deepwoken.fandom.com/wiki/Celtor_Commander_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Helmets]
+categories: [Equipment, Head, Helmets, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Celtor Commander Helm
@@ -15,7 +15,7 @@ categories: [Equipment, Head, Helmets]
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +5 Health, +1 Rare Pip, +1 Legendary Pip |
+| innate stats | +5 Health , +1 Rare Pip, +1 Legendary Pip |
 | innate talent | Grasp on Reality |
 | set | Celtor Commander Helm, Celtor Commander Plate, Celtorian Sabatons |
 | set talent | N/A |
@@ -30,9 +30,7 @@ categories: [Equipment, Head, Helmets]
 
 The Celtor Commander Helm is an [Equipment](Equipment.md) item under the "Head" category.
 
-The Celtor Commander Helm, along with the [Celtor Commander Plate](Celtor_Commander_Plate.md) and [Celtorian Sabatons](Celtorian_Sabatons.md), is part of the Celtor Commander Set.
-
-The _[Grasp on Reality](Talents.md#grasp-on-reality)_ Talent decreases the damage taken by insanity, specifically stage 2 when your character begins scratching themselves.
+The [Grasp on Reality](Talents.md#grasp-on-reality) Talent decreases the damage taken by insanity, specifically stage 2 when your character begins scratching themselves.
 
 ## Trivia
 
