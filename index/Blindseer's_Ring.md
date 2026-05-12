@@ -1,6 +1,6 @@
 ---
 title: "Blindseer's Ring"
-revid: 200966
+revid: 209809
 source: https://deepwoken.fandom.com/wiki/Blindseer's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -12,10 +12,10 @@ categories: [Equipment, Rings]
 |---|---|
 | type | Ring |
 | rarity | Uncommon |
-| selling price | 19 |
+| selling price | 14 |
 | requirements | N/A |
 | weight | 0.1 |
-| innate stats | +10 Sanity, 1 Uncommon Pip |
+| innate stats | +10 Sanity , +1 Uncommon Pip |
 | bankable | No |
 | droppable | No |
 | enchantable | No |

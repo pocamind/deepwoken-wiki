@@ -1,9 +1,9 @@
 ---
 title: First Ranger Duster
-revid: 205832
+revid: 209739
 source: https://deepwoken.fandom.com/wiki/First_Ranger_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Dusters, Equipment Styles]
+categories: [Equipment, Arms, Dusters, Equipment with Styles]
 ---
 
 # First Ranger Duster
@@ -13,9 +13,9 @@ categories: [Equipment, Arms, Dusters, Equipment Styles]
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | PWR 10 |
+| requirements | Power 10 |
 | weight | 2 |
-| innate stats | +10 Health, +2 Posture, +2 Rare Pips |
+| innate stats | +10 Health , +2 Posture , +2 Rare Pips |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

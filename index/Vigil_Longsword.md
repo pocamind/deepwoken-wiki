@@ -1,9 +1,9 @@
 ---
 title: Vigil Longsword
-revid: 205479
+revid: 209790
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Swords, Etrea, Alloyed Weapons, Weapons with Unique Criticals, Medium Weapons]
+categories: [Weapons, Criticals with M1 tag, Swords, Etrea, Alloyable Weapons, Weapons with Unique Criticals, Medium Weapons]
 ---
 
 # Vigil Longsword

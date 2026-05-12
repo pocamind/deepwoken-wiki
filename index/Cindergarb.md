@@ -1,9 +1,9 @@
 ---
 title: Cindergarb
-revid: 206925
+revid: 209667
 source: https://deepwoken.fandom.com/wiki/Cindergarb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Unique Outfits]
+categories: [Outfits, Unique Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents", Outfits with Exclusive Talents]
 ---
 
 # Cindergarb

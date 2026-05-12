@@ -1,9 +1,9 @@
 ---
 title: Tanto
-revid: 196611
+revid: 209786
 source: https://deepwoken.fandom.com/wiki/Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Daggers, Alloyed Weapons, Weapons with Unique Criticals, Light Weapons]
+categories: [Weapons, Daggers, Alloyable Weapons, Weapons with Unique Criticals, Light Weapons]
 ---
 
 # Tanto

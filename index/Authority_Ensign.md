@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 209527
+revid: 209794
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -610,6 +610,7 @@ Shock Corps Division, given automatically after entering the division
     -   This means you are unable to get [Legion Intelligence](Legion_Intelligence.md) or [Blightsurger](Oath%253A_Blightsurger.md) on an Ensign character unless you are a [Khan](Khan.md) or have the [Celebrity](Talents.md#celebrity) Talent.
 -   Because the Division Outfits are immediately equipped upon joining your Division without you _learning_ the schematic, if you craft any other Outfit, the Division Outfit will be lost permanently.
 -   Many of this Origin's benefits are locked behind a significant amount of time spent doing Missions. This will entirely take up your early-game progression on top of effectively softlocking you into only doing Missions until you join a Division. If you do not enjoy the gameplay loop of Missions, this Origin may not appeal to you as a whole, since it is a key part of the Origin and the Origin's progression.
+-   You cannot gain reputation with [Etrea](Etrea.md) at all, which means that [Stratos' Cloak](<Stratos'_Cloak.md>), [Windwaker](Stratos.md#windwaker-quest), and [Fang and Coil](Fang_and_Coil.md) cannot be obtained.
 
 ## Reputation
 

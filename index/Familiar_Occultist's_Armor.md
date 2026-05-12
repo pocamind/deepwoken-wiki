@@ -1,9 +1,9 @@
 ---
 title: "Familiar Occultist's Armor"
-revid: 206930
+revid: 209672
 source: https://deepwoken.fandom.com/wiki/Familiar_Occultist's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Unique Outfits, Hallowtide]
+categories: [Outfits, Unique Outfits, Hallowtide, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Familiar Occultist's Armor

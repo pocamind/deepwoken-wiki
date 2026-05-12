@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Attire
-revid: 206924
+revid: 209666
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]

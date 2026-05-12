@@ -1,9 +1,9 @@
 ---
 title: Gumshoe Longcoat
-revid: 206276
+revid: 209731
 source: https://deepwoken.fandom.com/wiki/Gumshoe_Longcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Coats, Equipment Styles]
+categories: [Equipment, Arms, Coats, Equipment with Styles, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Gumshoe Longcoat
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Coats, Equipment Styles]
 | selling price | 25 |
 | requirements | Power 5 |
 | weight | 2 |
-| innate stats | +2 Health, +1 Rare Pip |
+| innate stats | +2 Health , +1 Rare Pip |
 | innate talent | Hard Read |
 | set | Gumshoe Hat, Gumshoe Longcoat |
 | set talent | N/A |

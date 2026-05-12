@@ -1,9 +1,9 @@
 ---
 title: Trimmed Overcoat
-revid: 205814
+revid: 209713
 source: https://deepwoken.fandom.com/wiki/Trimmed_Overcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Equipment Styles]
+categories: [Equipment, Arms, Equipment with Styles]
 ---
 
 # Trimmed Overcoat
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Equipment Styles]
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | PWR 5 |
+| requirements | Power 5 |
 | weight | 2 |
 | innate stats | +3 Health, +1 Uncommon Pip, +1 Rare Pip |
 | innate talent | N/A |

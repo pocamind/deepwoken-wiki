@@ -1,6 +1,6 @@
 ---
 title: Bloodfeather Cowl
-revid: 198632
+revid: 209814
 source: https://deepwoken.fandom.com/wiki/Bloodfeather_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Cowls]
@@ -13,8 +13,8 @@ categories: [Equipment, Head, Cowls]
 | type | Helmet |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | LVL 8 |
-| innate stats | +5% Shadow Armor, +6% Stealth, +2 Rare Pips |
+| requirements | Power 8 |
+| innate stats | +5% Shadow Armor , +6% Stealth , +2 Rare Pips |
 | innate talent | Bloodletter |
 | set | Bloodfeather Cowl, Bloodfeather Mask |
 | set talent | N/A |

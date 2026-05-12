@@ -1,9 +1,9 @@
 ---
 title: "Smith's Gloves"
-revid: 208796
+revid: 209718
 source: https://deepwoken.fandom.com/wiki/Smith's_Gloves
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Gloves, Equipment Styles]
+categories: [Equipment, Arms, Gloves, Equipment with Styles]
 ---
 
 # Smith's Gloves
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Gloves, Equipment Styles]
 | selling price | 25 |
 | requirements | Power 5 |
 | weight | 2 |
-| innate stats | +5 Health, +2 Rare Pips |
+| innate stats | +5 Health , +2 Rare Pips |
 | innate talent | N/A |
 | set | Smith's Bandana, Smith's Gloves, Smith's Goggles |
 | set talent | N/A |

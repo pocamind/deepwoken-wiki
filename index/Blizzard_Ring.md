@@ -1,6 +1,6 @@
 ---
 title: Blizzard Ring
-revid: 208907
+revid: 209810
 source: https://deepwoken.fandom.com/wiki/Blizzard_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Relics, Rings, Equipment Relics, Craftable]
@@ -13,7 +13,7 @@ categories: [Pathfinder Exclusive, Equipment, Relics, Rings, Equipment Relics, C
 | type | Ring |
 | rarity | Relic |
 | selling price | 100 |
-| requirements | PWR 5 |
+| requirements | Power 5 |
 | weight | 0.1 |
 | innate stats | None |
 | bankable | No |
@@ -29,7 +29,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Blizzard Ring is a craftable [Relic](Relics.md) Ring that slows all enemies hit by M1s and suffocates those you flourish. You also gain 15 Ether when you land Galebreathe or Frostdraw attacks.
+The Blizzard Ring is a craftable [Relic](Relics.md) Ring that slows all enemies hit by M1s and [suffocates](Status_Effects.md#suffocate) those you flourish. You also gain 15 Ether when you land [Galebreathe](Galebreathe.md) or [Frostdraw](Frostdraw.md) attacks.
 
 Its effects are the combined powers of both the [Frost Ring](Frost_Ring.md) and the [Gale Enhanced Ring](Gale_Enhanced_Ring.md).
 

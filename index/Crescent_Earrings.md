@@ -1,6 +1,6 @@
 ---
 title: Crescent Earrings
-revid: 209225
+revid: 209724
 source: https://deepwoken.fandom.com/wiki/Crescent_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -33,3 +33,4 @@ _This page is about the [Earring](Equipment.md#ears) previously named "Moonlit E
 ## Trivia
 
 -   Crescent Earrings used to grant +2 Health, making it only one of two Earring equipment to grant innate Health.
+-   Crescent Earrings used to be named [Moonlit Earrings](Crescent_Earrings.md) before it was renamed on the [April 18th, 2026](Version_History/2026.md#april-18th-2026-pv-apr-19-0113a) update.

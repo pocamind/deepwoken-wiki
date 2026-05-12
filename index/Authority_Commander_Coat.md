@@ -1,9 +1,9 @@
 ---
 title: Authority Commander Coat
-revid: 205827
+revid: 209743
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Coats, Equipment Styles, Equipment of The Central Authority]
+categories: [Equipment, Arms, Coats, Equipment with Styles, Equipment of The Central Authority]
 ---
 
 # Authority Commander Coat
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Coats, Equipment Styles, Equipment of The Central 
 | selling price | 25 |
 | requirements | Power 10 |
 | weight | 2 |
-| innate stats | +10 Health, +2 Rare Pips |
+| innate stats | +10 Health , +2 Rare Pips |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -32,4 +32,4 @@ The Authority Commander Coat is an animated [Equipment](Equipment.md) item under
 
 -   Despite being called the Authority Commander Coat, [Authority Commanders](<Authority_Commander_(Enemy).md>) don't wear it.
 -   Together with the [Adjudicator's Coat](<Adjudicator's_Coat.md>), It used to be unsellable but this was later changed due to it clogging players' inventories.
--   This coat has the most styles out of any arms equipment.
+-   This coat has the most styles out of all equipment.

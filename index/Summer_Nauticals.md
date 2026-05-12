@@ -1,9 +1,9 @@
 ---
 title: Summer Nauticals
-revid: 205751
+revid: 209716
 source: https://deepwoken.fandom.com/wiki/Summer_Nauticals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Face, Glasses, Equipment Styles]
+categories: [Equipment, Face, Glasses, Equipment with Styles]
 ---
 
 # Summer Nauticals
@@ -13,7 +13,7 @@ categories: [Equipment, Face, Glasses, Equipment Styles]
 | type | Face |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | None |
+| requirements | N/A |
 | weight | 0.5 |
 | innate stats | +1 Rare Pip |
 | innate talent | N/A |

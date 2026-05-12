@@ -1,6 +1,6 @@
 ---
 title: Bloodfeather Mask
-revid: 198635
+revid: 209813
 source: https://deepwoken.fandom.com/wiki/Bloodfeather_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -15,7 +15,7 @@ categories: [Equipment, Face, Masks]
 | selling price | 25 |
 | requirements | None |
 | weight | 0.5 |
-| innate stats | +5% Shadow Armor+1 Rare Pip |
+| innate stats | +5% Shadow Armor +1 Rare Pip |
 | innate talent | N/A |
 | set | Bloodfeather Cowl, Bloodfeather Mask |
 | set talent | N/A |

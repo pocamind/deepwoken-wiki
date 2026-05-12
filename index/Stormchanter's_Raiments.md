@@ -1,9 +1,9 @@
 ---
 title: "Stormchanter's Raiments"
-revid: 206953
+revid: 209684
 source: https://deepwoken.fandom.com/wiki/Stormchanter's_Raiments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Unique Outfits, World Event]
+categories: [Outfits, Unique Outfits, World Event, Outfits with Talents, "Outfits with Non-exclusive Talents", Outfits with Exclusive Talents]
 ---
 
 # Stormchanter's Raiments

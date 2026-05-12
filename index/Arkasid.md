@@ -1,6 +1,6 @@
 ---
 title: Arkasid
-revid: 209582
+revid: 209738
 source: https://deepwoken.fandom.com/wiki/Arkasid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Monsters]
@@ -12,7 +12,7 @@ notices:
 
 | Arkasid | |
 |---|---|
-| health | ~3000 |
+| health | 2400 |
 | attacks | Paralyzing Throw, Pounce, Arm Swipes, Spin Strikes |
 | drops | Arkasid Pupa, Arkasid Carapace |
 | locations | Simforea |
@@ -59,6 +59,11 @@ Arkasids are monsters found on [Simforea](Simforea.md), they can spawn in groups
  | The Arkasid spins, rapidly hitting the target multiple times.
 
  |  |
+
+## Passives
+
+-   An approximate 50% resistance to all damage
+-   Fragile heal: Arkasid's heal very slowly overtime
 
 ## Tips
 

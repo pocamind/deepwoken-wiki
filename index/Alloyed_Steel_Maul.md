@@ -1,8 +1,9 @@
 ---
 title: Alloyed Steel Maul
-revid: 167240
+revid: 209783
 source: https://deepwoken.fandom.com/wiki/Alloyed_Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Alloyed Weapons]
 ---
 
 # Alloyed Steel Maul

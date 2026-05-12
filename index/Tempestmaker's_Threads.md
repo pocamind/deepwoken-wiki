@@ -1,9 +1,9 @@
 ---
 title: "Tempestmaker's Threads"
-revid: 206960
+revid: 209686
 source: https://deepwoken.fandom.com/wiki/Tempestmaker's_Threads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Unique Outfits, World Event]
+categories: [Outfits, Unique Outfits, World Event, Outfits with Talents, "Outfits with Non-exclusive Talents", Outfits with Exclusive Talents]
 ---
 
 # Tempestmaker's Threads

@@ -1,6 +1,6 @@
 ---
 title: Bloodiron Ring
-revid: 205232
+revid: 209816
 source: https://deepwoken.fandom.com/wiki/Bloodiron_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]

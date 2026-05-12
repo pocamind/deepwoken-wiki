@@ -1,8 +1,9 @@
 ---
 title: Alloyed Inheritor
-revid: 167245
+revid: 209768
 source: https://deepwoken.fandom.com/wiki/Alloyed_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Alloyed Weapons]
 ---
 
 # Alloyed Inheritor

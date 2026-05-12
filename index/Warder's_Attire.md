@@ -1,9 +1,9 @@
 ---
 title: "Warder's Attire"
-revid: 209556
+revid: 209689
 source: https://deepwoken.fandom.com/wiki/Warder's_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Outfits, Unique Outfits, Justicars]
+categories: [Pathfinder Exclusive, Outfits, Unique Outfits, Justicars, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Warder's Attire

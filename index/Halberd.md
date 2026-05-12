@@ -1,9 +1,9 @@
 ---
 title: Halberd
-revid: 203143
+revid: 209767
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons, Heavy Weapons, Weapons with Talents]
+categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyable Weapons, Heavy Weapons, Weapons with Talents]
 ---
 
 # Halberd

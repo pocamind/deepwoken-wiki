@@ -1,8 +1,9 @@
 ---
 title: Alloyed Vigil Longsword
-revid: 167237
+revid: 209789
 source: https://deepwoken.fandom.com/wiki/Alloyed_Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Alloyed Weapons]
 ---
 
 # Alloyed Vigil Longsword

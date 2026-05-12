@@ -1,9 +1,9 @@
 ---
 title: Tophat
-revid: 205803
+revid: 209715
 source: https://deepwoken.fandom.com/wiki/Tophat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Hats, Equipment Styles]
+categories: [Equipment, Head, Hats, Equipment with Styles]
 ---
 
 # Tophat
@@ -13,9 +13,9 @@ categories: [Equipment, Head, Hats, Equipment Styles]
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | PWR 6 |
+| requirements | Power 6 |
 | weight | 1 |
-| innate stats | +4 Health, +1 Uncommon Pip, +1 Rare Pips |
+| innate stats | +4 Health , +1 Uncommon Pip, +1 Rare Pips |
 | innate talent | Give and Take |
 | set | Tophat, Aristocrat Coat, Aristocrat Eyeglasses |
 | set talent | N/A |

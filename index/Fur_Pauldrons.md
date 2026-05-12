@@ -1,9 +1,9 @@
 ---
 title: Fur Pauldrons
-revid: 205963
+revid: 209735
 source: https://deepwoken.fandom.com/wiki/Fur_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Pauldrons, Equipment Styles]
+categories: [Equipment, Arms, Pauldrons, Equipment with Styles]
 ---
 
 # Fur Pauldrons
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Pauldrons, Equipment Styles]
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | +3 Health, +1 Rare Pips |
+| innate stats | +3 Health , +1 Rare Pips |
 | innate talent | N/A |
 | set | Fur Pauldrons, Fur Boots |
 | set talent | N/A |

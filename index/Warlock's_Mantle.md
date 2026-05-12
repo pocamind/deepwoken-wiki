@@ -1,9 +1,9 @@
 ---
 title: "Warlock's Mantle"
-revid: 207156
+revid: 209712
 source: https://deepwoken.fandom.com/wiki/Warlock's_Mantle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, World Event, Equipment Styles]
+categories: [Equipment, Arms, World Event, Equipment with Styles, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Warlock's Mantle
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, World Event, Equipment Styles]
 | type | Arms |
 | rarity | Unique |
 | selling price | 100 |
-| requirements | LVL 125 INT |
+| requirements | Power 125 Intelligence |
 | weight | 2 |
 | innate stats | +7 Health , +1 Rare Pip, +2 Legendary Pips |
 | innate talent | Overflowing Dam |

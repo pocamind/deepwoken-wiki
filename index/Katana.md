@@ -1,9 +1,9 @@
 ---
 title: Katana
-revid: 206598
+revid: 209772
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Alloyed Weapons, Medium Weapons]
+categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Alloyable Weapons, Medium Weapons]
 ---
 
 # Katana
@@ -37,7 +37,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Uniqu
 
 ## Description
 
-The Katana is a Medium Weapon that has a base damage of 18 and requires 25 MED to equip. Its damage is increased by 25% (5% when Alloyed) when wearing the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), or [Royal Etrean Guard](Royal_Etrean_Guard.md) [outfits](Outfits.md), due to their innate Talent: _[Paired Soul](Talents.md#vigil)_.
+The Katana is a Medium Weapon that has a base damage of 18 and requires 25 MED to equip. Its damage is increased by 25% (5% when Alloyed) when wearing the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), or [Royal Etrean Guard](Royal_Etrean_Guard.md) [outfits](Outfits.md), due to their innate Talent: _[Paired Soul](Talents.md#paired-soul)_.
 
 Additionally, you can upgrade the Katana with the use of a [Pluripotent Alloy](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats and adding a slight purple hue to the blade.
 

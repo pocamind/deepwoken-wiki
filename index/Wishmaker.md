@@ -1,9 +1,9 @@
 ---
 title: Wishmaker
-revid: 206965
+revid: 209694
 source: https://deepwoken.fandom.com/wiki/Wishmaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Exclusive, Exclusive Outfits, Outfits, Developer Spec]
+categories: [Exclusive, Exclusive Outfits, Outfits, Developer Spec, Outfits with Talents, Outfits with Exclusive Talents]
 notices:
   - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
 ---

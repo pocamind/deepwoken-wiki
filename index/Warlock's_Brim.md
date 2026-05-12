@@ -1,9 +1,9 @@
 ---
 title: "Warlock's Brim"
-revid: 207157
+revid: 209711
 source: https://deepwoken.fandom.com/wiki/Warlock's_Brim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Hats, Equipment, Head, World Event, Equipment Styles]
+categories: [Hats, Equipment, Head, World Event, Equipment with Styles]
 ---
 
 # Warlock's Brim
@@ -13,7 +13,7 @@ categories: [Hats, Equipment, Head, World Event, Equipment Styles]
 | type | Hat |
 | rarity | Unique |
 | selling price | N/A |
-| requirements | LVL 16 |
+| requirements | Power 16 |
 | innate stats | +5 Health , +2 Legendary Pips |
 | innate talent | N/A |
 | set | Warlock's Brim, Warlock's Mantle |

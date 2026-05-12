@@ -1,9 +1,9 @@
 ---
 title: "Familiar Assassin's Armor"
-revid: 206926
+revid: 209668
 source: https://deepwoken.fandom.com/wiki/Familiar_Assassin's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Unique Outfits, Hallowtide]
+categories: [Outfits, Unique Outfits, Hallowtide, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Familiar Assassin's Armor

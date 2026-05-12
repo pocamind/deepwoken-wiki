@@ -1,9 +1,9 @@
 ---
 title: "Inquisitor's Duster"
-revid: 205819
+revid: 209727
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Dusters, Equipment Styles]
+categories: [Equipment, Arms, Dusters, Equipment with Styles]
 ---
 
 # Inquisitor's Duster
@@ -13,9 +13,9 @@ categories: [Equipment, Arms, Dusters, Equipment Styles]
 | type | Arms |
 | rarity | Uncommon |
 | selling price | 14 |
-| requirements | LVL 5 |
+| requirements | Power 5 |
 | weight | 2 |
-| innate stats | +2 Rare Pip |
+| innate stats | +2 Rare Pips |
 | innate talent | None |
 | bankable | Yes |
 | droppable | Yes |

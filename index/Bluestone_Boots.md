@@ -1,6 +1,6 @@
 ---
 title: Bluestone Boots
-revid: 205867
+revid: 209820
 source: https://deepwoken.fandom.com/wiki/Bluestone_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Craftable, Equipment with Set Bonuses, Boots]
@@ -15,7 +15,7 @@ categories: [Equipment, Legs, Craftable, Equipment with Set Bonuses, Boots]
 | selling price | 25 |
 | requirements | Power 5 |
 | weight | 1 |
-| innate stats | +3 Health, +2 Rare Pips |
+| innate stats | +3 Health , +2 Rare Pips |
 | innate talent | I'm Blue |
 | set | Bluestone Pauldrons, Bluestone Boots |
 | set talent | Etherguard |
@@ -28,7 +28,7 @@ categories: [Equipment, Legs, Craftable, Equipment with Set Bonuses, Boots]
 
 Bluestone Set
 
-Variants: [Bluestone Pauldrons](Bluestone_Pauldrons.md)
+Variants: [Pauldrons](Bluestone_Pauldrons.md)
 
 ## Description
 

@@ -1,9 +1,9 @@
 ---
 title: Trident Spear
-revid: 208660
+revid: 209788
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Spears, Weapons with Unique Criticals, Alloyed Weapons, "Weapons with Multi-Hit Criticals", Medium Weapons]
+categories: [Weapons, Criticals with M1 tag, Spears, Weapons with Unique Criticals, Alloyable Weapons, "Weapons with Multi-Hit Criticals", Medium Weapons]
 ---
 
 # Trident Spear

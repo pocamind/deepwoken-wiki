@@ -1,9 +1,9 @@
 ---
 title: Fleet Warden Cape
-revid: 207127
+revid: 209737
 source: https://deepwoken.fandom.com/wiki/Fleet_Warden_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Torso, Capes, Equipment Styles]
+categories: [Equipment, Torso, Capes, Equipment with Styles]
 ---
 
 # Fleet Warden Cape
@@ -13,7 +13,7 @@ categories: [Equipment, Torso, Capes, Equipment Styles]
 | type | Torso |
 | rarity | Uncommon |
 | selling price | 14 |
-| requirements | LVL 5 |
+| requirements | Power 5 |
 | weight | 0.5 |
 | innate stats | +3% Elemental Armor +1 Legendary Pip, +1 Rare Pip |
 | innate talent | N/A |

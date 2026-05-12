@@ -1,9 +1,9 @@
 ---
 title: Alloyed Shotel
-revid: 183576
+revid: 209781
 source: https://deepwoken.fandom.com/wiki/Alloyed_Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Redirect pages containing data, Weapons]
+categories: [Redirect pages containing data, Weapons, Alloyed Weapons]
 notices:
   - "This page, despite being a redirect, is necessary and useful for data referencing purposes. Please do not delete the contents of this page. It *is* in use."
 ---

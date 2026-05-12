@@ -1,9 +1,9 @@
 ---
 title: "Ferryman's Coat"
-revid: 206931
+revid: 209673
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Unique Outfits]
+categories: [Outfits, Unique Outfits, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Ferryman's Coat

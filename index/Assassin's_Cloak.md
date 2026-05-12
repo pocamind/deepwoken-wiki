@@ -1,9 +1,9 @@
 ---
 title: "Assassin's Cloak"
-revid: 209405
+revid: 209745
 source: https://deepwoken.fandom.com/wiki/Assassin's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Cloaks, Equipment Styles, Equipment with Talents, "Equipment with Non-exclusive Talents"]
+categories: [Equipment, Arms, Cloaks, Equipment with Styles, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Assassin's Cloak

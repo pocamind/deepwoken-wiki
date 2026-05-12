@@ -1,8 +1,9 @@
 ---
 title: Alloyed Tanto
-revid: 167239
+revid: 209785
 source: https://deepwoken.fandom.com/wiki/Alloyed_Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Alloyed Weapons]
 ---
 
 # Alloyed Tanto

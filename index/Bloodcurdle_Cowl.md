@@ -1,9 +1,9 @@
 ---
 title: Bloodcurdle Cowl
-revid: 198633
+revid: 209811
 source: https://deepwoken.fandom.com/wiki/Bloodcurdle_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Head, Equipment with Set Bonuses, Hoods]
+categories: [Vow of Iron Exclusive, Equipment, Head, Equipment with Set Bonuses, Hoods, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Bloodcurdle Cowl
@@ -13,7 +13,7 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Equipment with Set Bonuses,
 | type | Helmet |
 | rarity | Rare |
 | selling price | 25 |
-| innate stats | +5% Shadow Armor, +6% Stealth, +2 Rare Pips |
+| innate stats | +5% Shadow Armor , +6% Stealth , +2 Rare Pips |
 | innate talent | Bloodletter, Blood Siphon |
 | set | Bloodcurdle Cowl, Bloodcurdle Mask |
 | set talent | Bloodless Overdrive |

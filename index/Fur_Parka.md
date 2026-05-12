@@ -1,9 +1,9 @@
 ---
 title: Fur Parka
-revid: 209030
+revid: 209736
 source: https://deepwoken.fandom.com/wiki/Fur_Parka
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Parkas, Equipment Styles]
+categories: [Equipment, Arms, Parkas, Equipment with Styles, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Fur Parka
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Parkas, Equipment Styles]
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | +2 Health, +1 Posture, +1 Rare Pip |
+| innate stats | +2 Health , +1 Posture , +1 Rare Pip |
 | innate talent | Steady Footing |
 | bankable | Yes |
 | droppable | Yes |

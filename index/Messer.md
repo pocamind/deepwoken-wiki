@@ -1,9 +1,9 @@
 ---
 title: Messer
-revid: 203253
+revid: 209776
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Swords, Alloyed Weapons, Medium Weapons, Weapons with Talents]
+categories: [Weapons, Criticals with M1 tag, Swords, Alloyable Weapons, Medium Weapons, Weapons with Talents]
 ---
 
 # Messer

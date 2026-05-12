@@ -1,9 +1,9 @@
 ---
 title: Zweihander
-revid: 202300
+revid: 209795
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Alloyed Weapons, Heavy Weapons]
+categories: [Weapons, Greatswords, Alloyable Weapons, Heavy Weapons]
 ---
 
 # Zweihander
