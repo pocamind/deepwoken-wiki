@@ -1,6 +1,6 @@
 ---
 title: "Knell, The Lunatic Resonator"
-revid: 209100
+revid: 209541
 source: https://deepwoken.fandom.com/wiki/Knell%2C_The_Lunatic_Resonator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Anansi NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, Enemies, Bosses, Deceased characters]
@@ -28,7 +28,7 @@ This content is not accessible outside of this gamemode.
 
 Knell, The Lunatic Resonator is a humanoid [Boss](Bosses.md) found in [Simforea](Simforea.md), an island in the [Voidsea](Voidsea.md) within the [Eastern Luminant](Luminants.md).
 
-During the time of the Old World,[\[2\]](#cite-note-raiments-2) Knell was an inhabitant of Simforea, where he was a scholar. Knell had a keen fascination with sound, which became the object of his research, and in particular was drawn to bells and chimes of various designs.[\[3\]](#cite-note-garb-3) This translated to him frequently adorning his apparel and crafts with the instruments.[\[4\]](#cite-note-capeline-4)[\[5\]](#cite-note-tie-5)[\[6\]](#cite-note-reave-6)
+During the time of the Old World,[\[2\]](#cite-note-raiments-2) Knell was an inhabitant of Simforea, where he was a scholar. Knell had a keen fascination with sound, which became the object of his research, and in particular was drawn to bells and chimes of various designs.[\[3\]](#cite-note-garb-3)[\[4\]](#cite-note-4) This translated to him frequently adorning his apparel and crafts with the instruments.[\[5\]](#cite-note-capeline-5)[\[6\]](#cite-note-tie-6)[\[7\]](#cite-note-reave-7)
 
 Knell also hoped to one day obtain a [Resonance](Resonance.md).[\[1\]](#cite-note-bestiary-1) To help with this, he had his [clothes](<Ringing_Scholar's_Garb.md>) infused with [Indichite](Ores.md#indichite). Such a process could help his soul better resonate, but was also unstable.[\[3\]](#cite-note-garb-3)
 
@@ -36,7 +36,7 @@ Eventually, Simforea and its inhabitants disappeared from the world. Knell was l
 
 At some point, Knell met an individual he referred to as [Ten](Ten.md), who promised him that his soul would be mended and that he would finally obtain a Resonance.
 
-Knell also used [Arkasid](Arkasid.md) husks and Simforea's native plant life to craft the [Bellmarrow Reave](Bellmarrow_Reave.md), its engravings reflecting his current state of mind.[\[6\]](#cite-note-reave-6)
+Knell also used [Arkasid](Arkasid.md) husks and Simforea's native plant life to craft the [Bellmarrow Reave](Bellmarrow_Reave.md), its engravings reflecting his current state of mind.[\[7\]](#cite-note-reave-7)
 
 When Simforea drifted through the Voidsea near to the [Eastern Luminant](Luminants.md), Knell was effectively returned to the world after centuries.[\[1\]](#cite-note-bestiary-1) Witnessing [The Pathfinder](The_Pathfinder.md)'s own Resonance, a frenzied Knell believed killing them would finally put an end to his troubles. Knell attacked them and was ultimately killed in the ensuing fight.
 
@@ -353,12 +353,14 @@ Knell, The Lunatic Resonator executes his opponent after knocking them:
         -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md), the [Dread Serpent](Dread_Serpent.md), the [Interluminary Parasol](Interluminary_Parasol.md), and [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md) will respawn, either due to being species comprised of multiple individuals or simply for gameplay convenience.
         -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) will escape the Depths himself.
         -   The fights against [The Ferryman](The_Ferryman.md), the [Heart of Enmity](Heart_of_Enmity.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) and [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) are not to the death.
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/131895593576238/Dolis-Tribal-Robes) • [Pants](https://www.roblox.com/catalog/131855934926710/Dolis-Tribal-Robes)
 
 ## References
 
 1.  ↑ [1.0](#cite-ref-bestiary-1-0) [1.1](#cite-ref-bestiary-1-1) [1.2](#cite-ref-bestiary-1-2) [1.3](#cite-ref-bestiary-1-3) [Bestiary](Bestiary.md): [Knell, The Lost Anansi](Bestiary.md#knell-the-lost-anansi)
 2.  [↑](#cite-ref-raiments-2-0) [Ringing Scholar's Raiments](<Ringing_Scholar's_Raiments.md>)
 3.  ↑ [3.0](#cite-ref-garb-3-0) [3.1](#cite-ref-garb-3-1) [Ringing Scholar's Garb](<Ringing_Scholar's_Garb.md>)
-4.  [↑](#cite-ref-capeline-4-0) [Ringing Scholar's Capeline](<Ringing_Scholar's_Capeline.md>)
-5.  [↑](#cite-ref-tie-5-0) [Ringing Scholar's Necktie](<Ringing_Scholar's_Necktie.md>)
-6.  ↑ [6.0](#cite-ref-reave-6-0) [6.1](#cite-ref-reave-6-1) [Bellmarrow Reave](Bellmarrow_Reave.md) description
+4.  [↑](#cite-ref-4) Knell's clothes are infused with [Indichite](Ores.md#indichite), which is only found on Simforea, meaning he must have been an inhabitant of the isle rather than a visitor during its rapid decline.
+5.  [↑](#cite-ref-capeline-5-0) [Ringing Scholar's Capeline](<Ringing_Scholar's_Capeline.md>)
+6.  [↑](#cite-ref-tie-6-0) [Ringing Scholar's Necktie](<Ringing_Scholar's_Necktie.md>)
+7.  ↑ [7.0](#cite-ref-reave-7-0) [7.1](#cite-ref-reave-7-1) [Bellmarrow Reave](Bellmarrow_Reave.md) description

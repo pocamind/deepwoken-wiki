@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 208763
+revid: 209537
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -252,7 +252,7 @@ _Revolving blades of ice._
  |
 | 
 
-30 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -340,7 +340,7 @@ _Chains of ice._
  |
 | 
 
-35 Ether [IconEther](Ether.md)
+70 Ether [IconEther](Ether.md)
 
  | 
 
@@ -467,7 +467,7 @@ _Conjure and throw weapons of ice._
  |
 | 
 
-35 Ether [IconEther](Ether.md)
+55 Ether [IconEther](Ether.md)
 
  | 
 
@@ -554,7 +554,7 @@ _A sharp disk of ice._
  |
 | 
 
-40 Ether [IconEther](Ether.md)
+70 Ether [IconEther](Ether.md)
 
  | 
 
@@ -601,7 +601,7 @@ _Send forth a flock of ice_
  |
 | 
 
-60 Ether [IconEther](Ether.md)
+80 Ether [IconEther](Ether.md)
 
  | 
 
@@ -683,7 +683,7 @@ _Conjure a glaive of frost to launch your opponents skywards._
  |
 | 
 
-30 Ether [IconEther](Ether.md)
+65 Ether [IconEther](Ether.md)
 
  | 
 
@@ -723,7 +723,7 @@ _An icy chokehold._
  |
 | 
 
-40 Ether [IconEther](Ether.md)
+65 Ether [IconEther](Ether.md)
 
  | 
 
@@ -766,8 +766,8 @@ _Manifest cubes of Ice to fire at your enemies. Cast the Mantra again to fire cu
  |
 | 
 
-45 Ether [IconEther](Ether.md) (Summon)  
-45 Ether [IconEther](Ether.md) (Fire Manually)  
+80 Ether [IconEther](Ether.md) (Summon)  
+80 Ether [IconEther](Ether.md) (Fire Manually)  
 0 Ether [IconEther](Ether.md) (Fired Automatically)
 
  | 
@@ -781,7 +781,7 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
  |
 | 
 
-**Effect:** _Conjure 3 ice cubes above the user that are on standby and throws them to where their cursor is. Costs 45 Ether to summon the ice cubes and 45 Ether to fire them manually for a total of 90 Ether cost. However, if they're fired off automatically, it costs no Ether._
+**Effect:** _Conjure 3 ice cubes above the user that are on standby and throws them to where their cursor is. Costs 80 Ether to summon the ice cubes and 80 Ether to fire them manually for a total of 160 Ether cost. However, if they're fired off automatically, it costs no Ether._
 
 -   Has a base damage of 8/10/12/14/16 per level, per hit (3) with 2.75 Frostdraw scaling.
 -   Deals 5 posture damage per hit (3).
@@ -808,7 +808,7 @@ _Send ice rippling out in a shockwave._
  |
 | 
 
-35 Ether [IconEther](Ether.md)
+75 Ether [IconEther](Ether.md)
 
  | 
 
@@ -893,7 +893,7 @@ _Impale your foes with a brutal ice barrage. Does +50% damage if enemy is airbor
  |
 | 
 
-40 Ether [IconEther](Ether.md)
+65 Ether [IconEther](Ether.md)
 
  | 
 
@@ -975,7 +975,7 @@ _Swift bolts of frozen air._
  |
 | 
 
-25 Ether [IconEther](Ether.md)
+55 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1090,7 +1090,7 @@ _Skate freely on paths of ice._
  |
 | 
 
-50 Ether [IconEther](Ether.md)
+80 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1200,7 +1200,7 @@ _Enter a state of cryostasis._
  |
 | 
 
-45 Ether [IconEther](Ether.md)
+100 Ether [IconEther](Ether.md)
 
  | 
 

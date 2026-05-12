@@ -1,6 +1,6 @@
 ---
 title: "Warder's Attire"
-revid: 208394
+revid: 209542
 source: https://deepwoken.fandom.com/wiki/Warder's_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Outfits, Unique Outfits, Justicars]
@@ -18,10 +18,11 @@ categories: [Pathfinder Exclusive, Outfits, Unique Outfits, Justicars]
 | durability | 2750 |
 | resistances | +30% Physical Armor , +35% Elemental Armor , +10% Blood Armor , +10% Shadow Armor |
 | buffs | +30% Ether Regen |
-| talents | Justicar's Gift |
+| talents | [[Talents#Justicar's Gift\|Justicar's Gift]] |
 | obtainment | Justicar Origin, Warder Path |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

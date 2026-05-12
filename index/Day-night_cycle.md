@@ -1,6 +1,6 @@
 ---
 title: "Day-night cycle"
-revid: 209484
+revid: 209539
 source: https://deepwoken.fandom.com/wiki/Day-night_cycle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -25,8 +25,9 @@ XX:10 refers to any hour at 10 minutes. As this page refers to _[UTC+0](https://
 
 -   The period of the day-night cycle is the same regardless of server region or server creation time.
 -   The cycle still progresses in [Dungeons](Dungeons.md).
+-   In the [First Layer](First_Layer.md), it will always remain night time.
 -   The peak lighting during the day lasts for 15 minutes, and the peak darkness during the night lasts for 10 minutes.
-    -   The brightest time of day is from XX:20 to XX:40, and the darkest time of night is from XX:55 to XX:05.
+    -   The brightest time of day is from XX:20 to XX:40, and the darkest time of night is from XX:55 to X1:05.
 -   The transition periods between the two phases (dawn and dusk) last 10 minutes each.
 
 ## Effects

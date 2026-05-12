@@ -1,6 +1,6 @@
 ---
 title: Anansi
-revid: 209196
+revid: 209533
 source: https://deepwoken.fandom.com/wiki/Anansi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Aspects]
@@ -24,6 +24,7 @@ The Anansi possess six eyes.[\[1\]](#cite-note-knellbestiary-1)
 
 -   [Anansi](https://en.wikipedia.org/wiki/Anansi), meaning spider in the [Akan language](https://en.wikipedia.org/wiki/Akan_language), is a figure in [Akan religion](https://en.wikipedia.org/wiki/Akan_religion). Details vary, but he is generally portrayed as a cunning trickster associated with spiders.
 -   The Anansi are somewhat similar to [Ganymede](Ganymede.md) in appearance, having dark skin, solid eyes and similar facial markings.
+-   Anansi are described as having six eyes, but a depiction on Simforea shows what appears to be an Anansi with ten eyes.
 
 ## References
 

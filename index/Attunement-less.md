@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 209524
+revid: 209536
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -109,7 +109,7 @@ _Show your foes your strength._
  |
 | 
 
-35 Ether [IconEther](Ether.md)
+55 Ether [IconEther](Ether.md)
 
  | 
 
@@ -150,7 +150,7 @@ _Unleash a barrage of blows against your foes._
  |
 | 
 
-30 Ether [IconEther](Ether.md)
+65 Ether [IconEther](Ether.md)
 
  | 
 
@@ -195,7 +195,7 @@ _Toss the ground infront of you._
  |
 | 
 
-35 Ether [IconEther](Ether.md)
+55 Ether [IconEther](Ether.md)
 
  | 
 
@@ -787,7 +787,7 @@ N/A
 
 -   Grants a speed boost for 10/12/14/16/18[/20/22/24](<Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>) seconds per level.
 -   Has a cooldown of 60/55/50/45/40[/35/30/25](<Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>) seconds per level.
--   Counts as a speed boost, meaning it can proc all speed boost reliant Talents.
+-   Counts as a [Speed Boost](Status_Effects.md#speed-boost), meaning it can proc all speed boost reliant Talents.
 -   The Mantra's visual effect does not increase with level, leading to it being very inaccurate.
 -   Can be upgraded with the [Action Surge](Talents.md#action-surge) Talent, increasing the swing speed of all weapons by 0.04 while Adrenaline Surge is active.
 
@@ -846,7 +846,7 @@ _Conjure concentrated orbs of Ether to launch at your enemy._
  |
 | 
 
-30 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1273,7 +1273,7 @@ N/A
 -   Can be modified with cloud and stratus stones to increase range, but increase the cooldown. (1 Cloudstone = +2s CD, 1 Stratus stone = +3s CD)
 -   Shares a cooldown with [Glare](Attunement-less.md#glare).
 -   Can be upgraded with the [Encore](Talents.md#encore) Talent, applying **true stun** if you land Sing on a Charmed opponent.
--   Can be upgraded with the [Propagandist](Talents.md#propagandist) Talent, granting your allies [Overcharm](Status_Effects.md#overcharm) for 15 seconds.
+-   Can be upgraded with the [Propagandist](Talents.md#propagandist) Talent, granting your allies [Overcharm](Status_Effects.md) for 15 seconds.
 
  |
 | 
