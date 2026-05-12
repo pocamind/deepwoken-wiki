@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 209536
+revid: 209663
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -770,7 +770,7 @@ _An adrenaline rush of mobility._
  |
 | 
 
-20 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 

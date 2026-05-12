@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 208923
+revid: 209614
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, Equipment, In progress with VOI reason]
@@ -367,7 +367,7 @@ Guard's, Royal Guard's, Captain's |
 
 +1 Rare Pip  
 +1 Legendary Pip  
-_+Talent: [**Grasp On Reality**](Talents.md#grasp-on-reality)_
+_+Talent: [**Grasp on Reality**](Talents.md#grasp-on-reality)_
 
  | Set: Celtor Commander  
 Head: [Celtor Commander Helm](Celtor_Commander_Helm.md)  

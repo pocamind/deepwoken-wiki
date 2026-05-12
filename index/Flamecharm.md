@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 209522
+revid: 209595
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -110,7 +110,7 @@ _Summon a legion of flaming spearmen that lunge inwards._
  |
 | 
 
-60 Ether [IconEther](Ether.md)
+30 Ether [IconEther](Ether.md)
 
  | 
 
@@ -239,7 +239,7 @@ _Jet forwards with flames and slam anyone you catch in your clutches._
  |
 | 
 
-60 Ether [IconEther](Ether.md)
+50 Ether [IconEther](Ether.md)
 
  | 
 
@@ -281,7 +281,7 @@ _Charge up an exertion of flames that knocks opponents backwards. If you take da
  |
 | 
 
-55 Ether [IconEther](Ether.md)
+30 Ether [IconEther](Ether.md)
 
  | 
 
@@ -325,7 +325,7 @@ _A pyroclastic eruption._
  |
 | 
 
-60 Ether [IconEther](Ether.md)
+45 Ether [IconEther](Ether.md)
 
  | 
 
@@ -368,7 +368,7 @@ _Toss a nimble dagger._
  |
 | 
 
-65 Ether [IconEther](Ether.md)
+55 Ether [IconEther](Ether.md)
 
  | 
 
@@ -493,7 +493,7 @@ _Conjure a turret of flames._
  |
 | 
 
-80 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -535,7 +535,7 @@ _Conjure up to 3 fireballs to volley at your enemies._
  |
 | 
 
-65 Ether [IconEther](Ether.md) (per fireball)
+50 Ether [IconEther](Ether.md) (per fireball)
 
  | 
 
@@ -574,7 +574,7 @@ _Bear down on your foes with repeated fiery slashes._
  |
 | 
 
-60 Ether [IconEther](Ether.md)
+40 Ether [IconEther](Ether.md)
 
  | 
 
@@ -661,7 +661,7 @@ _Strike the ground, turning it to ash._
  |
 | 
 
-70 Ether [IconEther](Ether.md)
+35 Ether [IconEther](Ether.md)
 
  | 
 
@@ -702,7 +702,7 @@ _Conjure a flaming arrow and fire it at your target._
  |
 | 
 
-90 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -730,6 +730,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 -   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase speed and range.
 -   Can be modified with [Glass](Mantra_Modifiers.md#regular-modifiers)/[Magnifying Stones](Mantra_Modifiers.md#regular-modifiers) to make the explosion larger.
 -   Can be modified with a [Spring Spark](Mantra_Modifiers.md#sparks) to push the user back when casted.
+-   " ■, Fuga "
 
  |
 | 
@@ -748,7 +749,7 @@ _Lash out with flames._
  |
 | 
 
-100 Ether [IconEther](Ether.md)
+70 Ether [IconEther](Ether.md)
 
  | 
 
@@ -823,7 +824,7 @@ _Dash forward in a spiral of flames._
  |
 | 
 
-65 Ether [IconEther](Ether.md)
+40 Ether [IconEther](Ether.md)
 
  | 
 
@@ -984,7 +985,7 @@ _Undying flame._
  |
 | 
 
-100 Ether [IconEther](Ether.md)
+80 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1027,7 +1028,7 @@ _Conjure an undying flame for the caster and their comrades to rest by._
  |
 | 
 
-90 Ether [IconEther](Ether.md)
+80 Ether [IconEther](Ether.md)
 
  | 
 

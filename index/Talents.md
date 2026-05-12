@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 209523
+revid: 209618
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4757,6 +4757,11 @@ Certain Talents are given when a specific equipment or outfit is worn. Multiple 
     
     -   The Bloodless Gem heal cap is increased from 15 to 30.
     -   You will need a scaled damage of 187 (in Pathfinder) or 125 (in [Vow of Iron](Vow_of_Iron.md)) to reach this new heal cap.
+
+-   Osseous Surge: [Marrowmade Boots](Marrowmade_Boots.md) - Flourishing an enemy enhances your boots for 10 seconds, allowing you to spawn a wave of bones in the way you're facing. Right click to activate this.
+    -   Pressing M2 within 10 seconds of landing a flourish causes you to stomp on the ground and send a wave of bones in the direction you're facing.
+    -   Deals 50 damage and can be jumped over or parried. This attack is unblockable and undodgeable, having the [Green Telegraph](Combat_Mechanics.md#green-telegraph).
+    -   The damage this ability deals can be enhanced by wearing the [Bone Ring](Bone_Ring.md), increasing its damage to 75.
 
 -   Overwhelming Might: [Titus's Raiment](<Titus's_Raiment.md>) - [Strong Left](Attunement-less.md#strong-left) now guard breaks at level 5.
     -   1 minute cooldown.

@@ -1,9 +1,9 @@
 ---
 title: Ignition Welder
-revid: 206803
+revid: 209633
 source: https://deepwoken.fandom.com/wiki/Ignition_Welder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Expert Outfits, The Ignition Union]
+categories: [Outfits, Expert Outfits, The Ignition Union, Outfits with Talents, "Outfits with Non-exclusive Talents"]
 ---
 
 # Ignition Welder

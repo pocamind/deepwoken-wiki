@@ -1,9 +1,9 @@
 ---
 title: Legion Centurion
-revid: 206883
+revid: 209653
 source: https://deepwoken.fandom.com/wiki/Legion_Centurion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Master Outfits, The Hundred Legions]
+categories: [Outfits, Master Outfits, The Hundred Legions, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Legion Centurion

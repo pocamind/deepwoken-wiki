@@ -1,9 +1,9 @@
 ---
 title: Vigil Initiate
-revid: 206721
+revid: 209622
 source: https://deepwoken.fandom.com/wiki/Vigil_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Adept Outfits, Etrea]
+categories: [Outfits, Adept Outfits, Etrea, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Vigil Initiate

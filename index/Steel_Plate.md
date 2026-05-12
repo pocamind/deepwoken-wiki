@@ -1,9 +1,9 @@
 ---
 title: Steel Plate
-revid: 209188
+revid: 209620
 source: https://deepwoken.fandom.com/wiki/Steel_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Adept Outfits]
+categories: [Outfits, Adept Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
 ---
 
 # Steel Plate

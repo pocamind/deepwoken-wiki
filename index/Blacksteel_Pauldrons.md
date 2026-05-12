@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pauldrons
-revid: 208935
+revid: 209560
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -13,10 +13,10 @@ categories: [Equipment, Arms, Pauldrons]
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | None |
+| requirements | N/A |
 | weight | 2 |
-| innate stats | +3 Health, +1 Posture, +1 Rare Pip |
-| innate talent | None |
+| innate stats | +3 Health , +1 Posture , +1 Rare Pip |
+| innate talent | N/A |
 | set | Blacksteel Helm, Blacksteel Pauldrons |
 | set talent | N/A |
 | bankable | Yes |

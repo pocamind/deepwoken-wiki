@@ -1,9 +1,9 @@
 ---
 title: Darkened Bastion
-revid: 206874
+revid: 209650
 source: https://deepwoken.fandom.com/wiki/Darkened_Bastion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Master Outfits]
+categories: [Outfits, Master Outfits, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Darkened Bastion
@@ -42,7 +42,7 @@ This Outfit has 2600 durability and grants +30% Physical resistance ResistanceBl
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 44% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 
-The [Withering Soul](Talents.md#withering-soul) Talent makes your M1s deal 12.5% of their scaled damage as Wither. Wielding the [Deepspindle](Deepspindle.md), the [Umbrite Witherblade](Umbrite_Witherblade.md) or [Blightsurger's](Oath%253A_Blightsurger.md) Sovereign Bangle will double the amount to 25%.
+The [Withering Soul](Talents.md#withering-soul) Talent makes your M1s deal 12.5% of their scaled damage as [Wither](Status_Effects.md#wither). Wielding the [Deepspindle](Deepspindle.md), the [Umbrite Witherblade](Umbrite_Witherblade.md) or [Blightsurger's](Oath%253A_Blightsurger.md) Sovereign Bangle will double the amount to 25%.
 
 ## Trivia
 

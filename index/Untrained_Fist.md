@@ -1,6 +1,6 @@
 ---
 title: Untrained Fist
-revid: 208541
+revid: 209553
 source: https://deepwoken.fandom.com/wiki/Untrained_Fist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, Fighting Styles]
@@ -42,7 +42,7 @@ Untrained Fist is a fist style that is obtained when you attempt to equip a Cest
 
 The user runs forward and swings their fist before striking with a haymaker punch. The user gains very brief hyperarmor during the punch animation. Pressing M2 during the rush segment of the critical will halt your movement.
 
-This attack has a 1.5x scaled damage multiplier, though in practince it will only deal 0.75x of your weapons scaled damage, due to Untrained Fist having halved weapon damage. This deals 12 posture damage if blocked, regardless of your weapon's weight stat.
+This attack has a 1.5x scaled damage multiplier, though in practice it will only deal 0.75x of your weapons scaled damage, due to Untrained Fist having halved weapon damage. This deals 12 posture damage if blocked, regardless of your weapon's weight stat.
 
 This critical has a windup of 0.6s, providing [Hyperarmor](Status_Effects.md#hyperarmor) for the final 0.2s before the attack lands. Additionally, this has 0.45s of endlag.
 

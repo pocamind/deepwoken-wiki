@@ -1,9 +1,9 @@
 ---
 title: "Cala-Mariner"
-revid: 206873
+revid: 209648
 source: https://deepwoken.fandom.com/wiki/Cala-Mariner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Master Outfits]
+categories: [Outfits, Master Outfits, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Cala-Mariner
@@ -12,7 +12,7 @@ categories: [Outfits, Master Outfits]
 |---|---|
 | caption | The tattoo sprawling across your chest serves as a physical memory of the aquatic foes you have felled, and as a keen warning to those who would stand in your way. |
 | tier | Master |
-| crafting_req | x3 Cloth , x4 Fiber, x5 Odd Tentacles, x1 Blue Gem, x1 Nautilodaunt Beak, x10 Vibrant Gems |
+| crafting_req | x3 Cloth, x4 Fiber, x5 Odd Tentacles, x1 Blue Gem, x1 Nautilodaunt Beak, x10 Vibrant Gems |
 | price | 1,000 |
 | stat_req | Power 155 Willpower |
 | bankable | Yes |
@@ -24,6 +24,7 @@ categories: [Outfits, Master Outfits]
 | obtainment | Nautilodaunt (direct drop)Fury Nautilodaunt (direct drop) |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Cala-Mariner** is a Master [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -48,5 +49,4 @@ Additionally, it provides the [Tidal Shock](Talents.md#tidal-shock) Talent. This
 -   This outfit has one of the most expensive Outfit crafting recipes, being beat out by only the [Titanslayer's Adornment](<Titanslayer's_Adornment.md>) and [Titus's Raiment](<Titus's_Raiment.md>). Cala-Mariner requires 5 [Odd Tentacles](Odd_Tentacle.md) and a [Nautilodaunt Beak](Nautilodaunt_Beak.md), so expect to farm a lot of [Nautilodaunts](Nautilodaunt.md) if you wish to obtain this outfit for yourself.
 -   The outfits name is a pun on calamari and mariner.
 -   The oufit resembles the outfit of Jack Sparrow from _Pirates of the Caribbean_.
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/113984308637103/Cala-Mariner-Shirt) / [Pants](https://www.roblox.com/catalog/134822282503743/Cala-Mariner-Pants)
 -   When you have the [Tidal ShocK](Talents.md#tidal-shock) CD, you cannot use [Whistleguard](Talents.md#whistleguard), and when you use Whistleguard and critical hit with Cala-Mariner, Whistleguard will break.

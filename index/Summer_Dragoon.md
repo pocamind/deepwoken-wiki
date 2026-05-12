@@ -1,9 +1,9 @@
 ---
 title: Summer Dragoon
-revid: 206916
+revid: 209659
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Master Outfits, The Summer Company]
+categories: [Outfits, Master Outfits, The Summer Company, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Summer Dragoon

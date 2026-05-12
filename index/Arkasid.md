@@ -1,6 +1,6 @@
 ---
 title: Arkasid
-revid: 209165
+revid: 209582
 source: https://deepwoken.fandom.com/wiki/Arkasid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Monsters]
@@ -12,7 +12,7 @@ notices:
 
 | Arkasid | |
 |---|---|
-| health | ??? |
+| health | ~3000 |
 | attacks | Paralyzing Throw, Pounce, Arm Swipes, Spin Strikes |
 | drops | Arkasid Pupa, Arkasid Carapace |
 | locations | Simforea |

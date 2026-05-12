@@ -1,9 +1,9 @@
 ---
 title: "Arachnid's Weave"
-revid: 209353
+revid: 209645
 source: https://deepwoken.fandom.com/wiki/Arachnid's_Weave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Master Outfits]
+categories: [Outfits, Master Outfits, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Arachnid's Weave

@@ -1,9 +1,9 @@
 ---
 title: Ignition Trailblazer
-revid: 209039
+revid: 209632
 source: https://deepwoken.fandom.com/wiki/Ignition_Trailblazer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Expert Outfits, The Ignition Union]
+categories: [Outfits, Expert Outfits, The Ignition Union, Outfits with Talents, "Outfits with Non-exclusive Talents"]
 ---
 
 # Ignition Trailblazer

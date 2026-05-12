@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Helm
-revid: 201445
+revid: 209559
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -13,9 +13,9 @@ categories: [Equipment, Head, Helmets]
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | LVL 8 |
+| requirements | Power 8 |
 | weight | 1 |
-| innate stats | +10 Health, +1 Uncommon Pip, +1 Rare Pip |
+| innate stats | +10 Health , +1 Uncommon Pip, +1 Rare Pip |
 | innate talent | N/A |
 | set | Blacksteel Helm, Blacksteel Pauldrons |
 | set talent | N/A |

@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder's Backpack"
-revid: 176521
+revid: 209590
 source: https://deepwoken.fandom.com/wiki/Pathfinder's_Backpack
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Backpack]

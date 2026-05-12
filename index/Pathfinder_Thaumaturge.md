@@ -1,9 +1,9 @@
 ---
 title: Pathfinder Thaumaturge
-revid: 206717
+revid: 209616
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Thaumaturge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Adept Outfits]
+categories: [Outfits, Adept Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
 ---
 
 # Pathfinder Thaumaturge

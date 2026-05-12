@@ -1,6 +1,6 @@
 ---
 title: Flintlock
-revid: 203576
+revid: 209580
 source: https://deepwoken.fandom.com/wiki/Flintlock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Offhand, Light Weapons]
@@ -22,6 +22,7 @@ categories: [Weapons, Pistols, Offhand, Light Weapons]
 | m.extract | No |
 | stances | 1 Handed |
 | offhand | Yes |
+| offhand cd | 2.4s |
 | rarity | Uncommon |
 | selling price | 14 |
 | weight | 2 |
@@ -41,7 +42,3 @@ The Flintlock has a Bullet capacity of 4 when held without a second gun.
 ## Critical
 
 Flintlock uses the default Pistol critical, an empowered shot. It has a scaled damage multiplier of **1.2x** and a cooldown of **3 seconds**. If your 1H pistol is out of ammo, you will not be able to use your critical. This critical's damage will lessen the farther the projectile travels.
-
-## Trivia
-
--   Like all other pistols, Using this with 1 hand grants 1 set of "M1" attacks unloaded and 1 set of M1 attacks when loaded + 1 Critical attack only available when reloaded with Z/Y by default

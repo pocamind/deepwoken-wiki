@@ -1,6 +1,6 @@
 ---
 title: "Knell, The Lunatic Resonator"
-revid: 209541
+revid: 209546
 source: https://deepwoken.fandom.com/wiki/Knell%2C_The_Lunatic_Resonator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Anansi NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, Enemies, Bosses, Deceased characters]
@@ -14,6 +14,7 @@ categories: [Anansi NPCs, Pathfinder Exclusive, Individuals with He/him pronouns
 | drops | Dissonant Chimecaller, Bellmarrow Reave, Dormant Splinter, Moonseye Tome, Idol of Yun'Shul |
 | aspect | Anansi |
 | pronouns | He/him[1] |
+| locations | Simforea |
 | challenges | -- Knell, The Lost Anansi --, Encore! - Slay 2.Reward: +3% DMG; +1.5% RES, Hells Bells - Slay 5.Reward: +3% DMG; +1.5% RES, For Whom The Bell Tolls - Slay 15.Reward: +3% DMG; +1.5% RES |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  

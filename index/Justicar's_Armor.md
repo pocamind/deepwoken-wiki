@@ -1,9 +1,9 @@
 ---
 title: "Justicar's Armor"
-revid: 207996
+revid: 209654
 source: https://deepwoken.fandom.com/wiki/Justicar's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Master Outfits, Justicars]
+categories: [Outfits, Master Outfits, Justicars, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Justicar's Armor
@@ -20,7 +20,7 @@ categories: [Outfits, Master Outfits, Justicars]
 | resistances | +30% Physical Armor , +5% Blunt Armor , +30% Elemental Armor , +5% Ice Armor , +5% Shadow Armor |
 | buffs | +20% Ether Regen |
 | talents | The Path, Unveiled |
-| obtainment | Chests from:, Etris: Siege, Fishing, Crypt of the Unbroken, Maestro Evengarde Rest, The FerrymanOther:, Fury Nautilodaunt (direct drop), Sold by Glaive Spellhardt |
+| obtainment | Chests from:, Etris: Siege, Fishing, Crypt of the Unbroken, Maestro Evengarde Rest, The FerrymanOther:, Fury Nautilodaunt (direct drop), Sold by Glaive Spellhardt, Justicar Origin, Vanguard Path (automatically crafted) |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |
@@ -34,6 +34,8 @@ categories: [Outfits, Master Outfits, Justicars]
 This Outfit costs 1,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), one (1) [Wayward Gem](Wayward_Gem.md), five (5) [Gale Stones](Gale_Stone.md), four (4) [Thresher Spines](Thresher_Spine.md) and one (1) [Dark Feather](Dark_Feather.md) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
+
+Alternatively, by joining the [Vanguard Path](<Justicar_(Origin).md#vanguard-path>) of the [Justicar](<Justicar_(Origin).md>) Origin, this Outfit will be granted to the user, ignoring all requirements.
 
 ### _Armor Stats_
 

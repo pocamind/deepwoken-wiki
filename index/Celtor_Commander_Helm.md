@@ -1,6 +1,6 @@
 ---
 title: Celtor Commander Helm
-revid: 206284
+revid: 209607
 source: https://deepwoken.fandom.com/wiki/Celtor_Commander_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -16,7 +16,7 @@ categories: [Equipment, Head, Helmets]
 | requirements | None |
 | weight | 1 |
 | innate stats | +5 Health, +1 Rare Pip, +1 Legendary Pip |
-| innate talent | Grasp On Reality |
+| innate talent | Grasp on Reality |
 | set | Celtor Commander Helm, Celtor Commander Plate, Celtorian Sabatons |
 | set talent | N/A |
 | bankable | Yes |

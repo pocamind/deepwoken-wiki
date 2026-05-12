@@ -1,6 +1,6 @@
 ---
 title: Emotes
-revid: 209496
+revid: 209551
 source: https://deepwoken.fandom.com/wiki/Emotes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -59,7 +59,7 @@ For the most part, emotes are purely cosmetic. However, they can be used for oth
 | --- | --- | --- |
 | Caramell | Perform the "Caramelldansen" which is a 2001 bubblegum dance song by Swedish group Caramell. |  |
 | Grizzly | Swing your arms from side to side then cross your arms while still dancing. |  |
-| Hoss | Strike a pose with the _Deepwoken_ symbol marked on your back with a flowing red visual effect on your right eye. This is based off of Akuma from the Street Fighter series. |  |
+| Hoss | Strike a pose with an upside down _Deepwoken_ symbol marked on your back with a flowing red visual effect on your right eye. This is based off of Akuma from the Street Fighter series. |  |
 | Meditate | Sit peacefully in meditation, leaving your weapon on the ground if equipped. |  |
 | Shrug | Shrug while shifting your head from side to side. |  |
 | Sturdy | You get Sturdy. |  |

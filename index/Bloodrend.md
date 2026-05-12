@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 208407
+revid: 209662
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -464,7 +464,7 @@ _Create a cyclone of blood._
  |
 | 
 
-30 Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 

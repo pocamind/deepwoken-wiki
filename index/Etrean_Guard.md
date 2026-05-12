@@ -1,9 +1,9 @@
 ---
 title: Etrean Guard
-revid: 206728
+revid: 209628
 source: https://deepwoken.fandom.com/wiki/Etrean_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Expert Outfits, Etrea]
+categories: [Outfits, Expert Outfits, Etrea, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Etrean Guard

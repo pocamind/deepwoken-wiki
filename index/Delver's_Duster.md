@@ -1,6 +1,6 @@
 ---
 title: "Delver's Duster"
-revid: 201160
+revid: 209597
 source: https://deepwoken.fandom.com/wiki/Delver's_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Dusters, The Ignition Union]
@@ -16,7 +16,7 @@ categories: [Equipment, Arms, Dusters, The Ignition Union]
 | requirements | Power 10 |
 | weight | 2 |
 | innate stats | +5 Health, +3 Legendary Pips |
-| innate talent | Braced CollapseKick Off |
+| innate talent | Braced Collapse, Kick Off |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

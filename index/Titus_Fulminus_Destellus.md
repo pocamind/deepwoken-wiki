@@ -1,9 +1,9 @@
 ---
 title: Titus Fulminus Destellus
-revid: 209245
+revid: 209552
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions, Humanoids with Unobtainable Outfits]
+categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions, Humanoids with Unobtainable Outfits]
 ---
 
 # Titus Fulminus Destellus
@@ -13,6 +13,7 @@ categories: [Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NP
 | health | 70000 (+10k per player) |
 | drops | Chest (see loot pool), Titus's Cape, Titus's Raiment, Titus' Armor Piece, Edenbrand Hellcoil, Worldpiercer Gauntlets, Evanspear War Set, Shock Trooper Set, Western Outlaw Set, Might and Wrath Gems (guaranteed), Several Enchant Stones |
 | moves | The Legion's Martial Arts, Worldpiercing Deluge, Worldshattering Smackdown, Commander's Rage, Commander's Whirlthrow, Vengeful Rushdown, Sovereign Drive, Skycrash, Wrathful Stomp, Warp Kick, Blighted Sparks, Chorus Divide: Shattering Crescendo |
+| aspect | Khan |
 | pronouns | He/him |
 | affiliation | The Hundred Legions, 49th Legion |
 | locations | Merit Detainment Core |
@@ -527,7 +528,7 @@ This dialogue is unlocked if the player meets the requirements for [Oath: Blight
 -   The placeholder name "Franky Strabes" will appear on Titus' combat tag.
 -   The theme that plays during his fight is [Chainbreaker](Deepwoken_OST.md#chainbreaker).
 -   It is implied that Titus uses both [Galebreathe](Galebreathe.md) and [Thundercall](Thundercall.md) due to the variant of his [Chorus Divide](Chorus_Divide.md) being Galebreathe as well with [High Inquisitor Merey](High_Inquisitor_Merey.md) stating that shocking him with Thundercall only makes him stronger.[\[2\]](#cite-note-sres-2)
--   Strangely enough, unlike other bosses, Titus does not drop [Pluripotent Alloy](Pluripotent_Alloy.md) nor [Ardour Manifestation](Ardour_Manifestation.md).
+-   Strangely enough, unlike other bosses, Titus does not drop [Pluripotent Alloy](Pluripotent_Alloy.md) nor [Ardour Manifestation](Ardour_Manifestation.md) and doesn't count in the bestiary.
     -   This is because Titus does not actually die nor despawn when you defeat him most of the time. If you do manage to autogrip him however, he will appropriately grant these rewards.
 -   Titus second phase can be bypassed when the player uses [Poser's Ring](<Poser's_Ring.md>) (if quick enough) or the [Moppet](Moppet.md) weapon. When this happens, a loot chest will drop and Titus' health will fall to zero. He will then enter his second phase animation and his health will return, but he will stay completely docile and will not attack the player. Killing him again will not give any extra loot.
 

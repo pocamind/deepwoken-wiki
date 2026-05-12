@@ -1,9 +1,9 @@
 ---
 title: Shadow Hunter
-revid: 206834
+revid: 209619
 source: https://deepwoken.fandom.com/wiki/Shadow_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Adept Outfits]
+categories: [Outfits, Adept Outfits, Outfits with Talents, "Outfits with Non-exclusive Talents"]
 ---
 
 # Shadow Hunter
@@ -42,7 +42,7 @@ This Outfit has 1500 durability, grants +10% Physical resistance ResistanceBlunt
 
 The [Lowstride](Talents.md#lowstride) Talent increases your [Stealth](Stealth.md) and movement speed while crouching. Additionally, this removes the sound that sheathing and unsheathing your weapon makes.
 
-## Trivia/Notes
+## Trivia
 
 -   Shadow Hunter is the only non-Starter outfit to not have a Power requirement.
 -   Worn by [Thieves](Thief.md) in Erisia, as well as the [Mindless Servants](Mindless_Servant.md) in Duke Erisia's Manor.
