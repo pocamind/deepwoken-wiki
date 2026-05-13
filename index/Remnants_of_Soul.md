@@ -1,6 +1,6 @@
 ---
 title: Remnants of Soul
-revid: 209985
+revid: 209992
 source: https://deepwoken.fandom.com/wiki/Remnants_of_Soul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics]
@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-A relic used for quickly healing a small amount of health, can only be used once as it is consumed upon usage. After a small wind up your character opens the jar emitting a small steam and healing whoever was in the AOE.
+A relic used for quickly healing a small amount of health, can only be used once as it is consumed upon usage. After a small wind up your character opens the jar emitting a small steam and healing whoever was in the AoE.
 
 ## Trivia
 

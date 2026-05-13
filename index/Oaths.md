@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 203776
+revid: 209993
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -145,6 +145,8 @@ If you've fully progressed an Oath prior to it receiving new content that would 
 ## Oathbreaker - Oath Removal
 
 It is possible to remove your Oath (you can do this as many times as you want) by making a wish to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). This comes with a warning: **You could potentially close off your former Oath to you forever.**
+
+OATHBREAKING REMOVES YOUR WEAPON IF ITS EQUIPPED BELOW REQUIREMENTS.
 
 Upon breaking an Oath, unique effects will occur:
 

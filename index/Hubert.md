@@ -1,6 +1,6 @@
 ---
 title: Hubert
-revid: 209042
+revid: 209998
 source: https://deepwoken.fandom.com/wiki/Hubert
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -29,7 +29,7 @@ Hubert is a [Vesperian](Vesperian.md) NPC.
 
 ## Location
 
-Hubert is located in the dining hall of [Alsin's Landing](<Alsin's_Landing.md>)
+Hubert is located in the dining hall of [Alsin's Landing](<Alsin's_Landing.md>).
 
 ## Dialogue
 

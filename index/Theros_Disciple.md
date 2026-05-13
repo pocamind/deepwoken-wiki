@@ -1,6 +1,6 @@
 ---
 title: Theros Disciple
-revid: 208375
+revid: 210005
 source: https://deepwoken.fandom.com/wiki/Theros_Disciple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -807,5 +807,5 @@ Your arms equipment will be forcibly **replaced** with a [Titus's Cape](<Titus's
 
 ## Trivia
 
--   This Memento originally had Fists as the only allowed weapon type, but was shadow changed to allow Spears and _Staffs_. There is no "Staff" weapon class in Deepwoken.
+-   This Memento originally had Fists as the only allowed weapon type, but was shadow changed to allow Spears and Staffs.
 -   Despite being entirely centered around the [Thundercall](Thundercall.md) and [Galebreathe](Galebreathe.md) Attunements, this Memento has 0 Attunement investment. What's stranger, is it also has 5 Songchant, which does almost nothing due to the lack of attunement investment.
