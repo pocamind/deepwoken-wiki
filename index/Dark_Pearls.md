@@ -1,6 +1,6 @@
 ---
 title: Dark Pearls
-revid: 209330
+revid: 209918
 source: https://deepwoken.fandom.com/wiki/Dark_Pearls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears, Relics, Equipment Relics]
@@ -13,11 +13,11 @@ categories: [Equipment, Ears, Relics, Equipment Relics]
 | type | Ears |
 | rarity | Relic |
 | selling price | 100 |
-| requirements | 40 SDW; LVL 10 |
+| requirements | Power 10, 40 Shadowcast |
 | weight | 0.1 |
-| innate stats | +2 Health, -2 Posture |
+| innate stats | +2 Health , -2 Posture |
 | innate talent | Inky Pearls |
-| bankable | Yes, for 1 |
+| bankable | Yes, (it costs 1 to unbank) |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
@@ -35,7 +35,8 @@ When equipped, the pearls emit faint magic circles while ink blots out from with
 ## Trivia
 
 -   Dark Pearls stacks with [Imperator's Fury](<Imperator's_Fury.md>) and all other "on Vent" effects, though it doesn't make Imperator's Fury Vent black.
--   Dark Pearls is the first Relic **Ears** equipment, as all Relic equipment prior to Dark Pearls have been Torso equipment.
+-   Dark Pearls is the first, and currently only Relic **Ears** equipment, as all Relic equipment prior to Dark Pearls have been Torso equipment.
+-   Dark Pearls is currently the only Ears equipment to grant health.
 -   Though exclusive to the Shadowcast attunement, these earrings are frequently sought after due to being the only Ears equipment that has a Talent while still being tradeable.
--   These are one of two items that grant negative stats, the other being [Citadel Frames](Citadel_Frames.md).
+-   These are one of very few items that grant negative stats.
 -   The lowest Posture possible is 16, when pairing [Citadel Frames](Citadel_Frames.md) with Dark Pearls.

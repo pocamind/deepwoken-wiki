@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 208224
+revid: 209908
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -20,7 +20,7 @@ Shadowcast icon
 
 ## Obtainment
 
-The [Attunement](Attunements.md) can be unlocked by drinking a [Nightblood potion](Attunement_Potions.md) obtained from [Nostor](Nostor,_Master_of_Shadow.md) in the [The Depths](First_Layer.md) inside the [The City of the Drowned](The_City_of_the_Drowned.md), requiring 5 (2 if previously obtained) [Umbral Obsidian](Umbral_Obsidian.md). You don't have to venture back into the depths to upgrade Shadowcast Mantras however, as [Beatra](Beatra.md) is found in [Derelict Highchurch](Derelict_Highchurch.md). She will upgrade your Mantras but not allow you to obtain Shadowcast. Shadowcast is unlocked permanently from the character creation screen.
+The [Attunement](Attunements.md) can be unlocked by drinking a [Nightblood potion](Attunement_Potions.md) obtained from [Nostor](Nostor,_Master_of_Shadow.md) in the [The Depths](First_Layer.md) inside [The City of the Drowned](The_City_of_the_Drowned.md), requiring 5 (2 if previously obtained) [Umbral Obsidian](Umbral_Obsidian.md). You don't have to venture back into the depths to upgrade Shadowcast Mantras however, as [Beatra](Beatra.md) is found in [Derelict Highchurch](Derelict_Highchurch.md). She will upgrade your Mantras but not allow you to obtain Shadowcast. Shadowcast is unlocked permanently from the character creation screen.
 
 ## Training
 

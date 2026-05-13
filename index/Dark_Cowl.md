@@ -1,6 +1,6 @@
 ---
 title: Dark Cowl
-revid: 189780
+revid: 209916
 source: https://deepwoken.fandom.com/wiki/Dark_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Cowls]
@@ -15,7 +15,7 @@ categories: [Equipment, Head, Cowls]
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +4% Stealth+1 Posture |
+| innate stats | +4% Stealth +1 Posture |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -26,4 +26,4 @@ categories: [Equipment, Head, Cowls]
 
 ## Description
 
-The Dark Cowl is an Equipment item in the "_Head_" category_._
+The Dark Cowl is an Equipment item in the "_Head_" category.

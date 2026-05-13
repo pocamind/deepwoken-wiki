@@ -1,9 +1,9 @@
 ---
 title: Dark Owl Cloak
-revid: 209594
+revid: 209922
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Cloaks]
+categories: [Equipment, Arms, Cloaks, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Dark Owl Cloak
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Cloaks]
 | selling price | 25 |
 | requirements | Power 8 |
 | weight | 2 |
-| innate stats | +6% Stealth, +8% Shadow Armor, +1 Rare Pip, +1 Legendary Pip |
+| innate stats | +6% Stealth , +8% Shadow Armor , +1 Rare Pip, +1 Legendary Pip |
 | innate talent | Disbelief |
 | set | Dark Owl Chapeau, Dark Owl Cloak, Dark Owl Cape |
 | set talent | N/A |

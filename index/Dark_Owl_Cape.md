@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Cape
-revid: 206282
+revid: 209921
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Capes]
@@ -13,9 +13,9 @@ categories: [Equipment, Torso, Capes]
 | type | Torso |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | PWR 5 |
+| requirements | Power 5 |
 | weight | 0.5 |
-| innate stats | +2% Stealth, +5% Shadow Armor, +2% Elemental Armor, 1 Legendary Pip |
+| innate stats | +2% Stealth , +5% Shadow Armor , +2% Elemental Armor , +1 Legendary Pip |
 | innate talent | N/A |
 | set | Dark Owl Chapeau, Dark Owl Cloak, Dark Owl Cape |
 | set talent | N/A |

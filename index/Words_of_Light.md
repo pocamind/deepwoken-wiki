@@ -1,6 +1,6 @@
 ---
 title: Words of Light
-revid: 205359
+revid: 209907
 source: https://deepwoken.fandom.com/wiki/Words_of_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]

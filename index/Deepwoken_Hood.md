@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Hood
-revid: 206277
+revid: 209928
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hoods]
@@ -13,7 +13,7 @@ categories: [Equipment, Head, Hoods]
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | LVL 6AGL 10 |
+| requirements | Power 610 Agility |
 | weight | 1 |
 | innate stats | +2 Rare Pips, +1 Legendary Pip |
 | innate talent | N/A |

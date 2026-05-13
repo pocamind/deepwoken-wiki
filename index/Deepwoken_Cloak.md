@@ -1,9 +1,9 @@
 ---
 title: Deepwoken Cloak
-revid: 209740
+revid: 209927
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Cloaks, Equipment with Styles]
+categories: [Equipment, Arms, Cloaks, Equipment with Styles, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Deepwoken Cloak
