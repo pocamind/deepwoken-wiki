@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 167572
+revid: 209896
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, Reputation, Mechanics]
@@ -26,6 +26,7 @@ The enemies sent differ depending on the extent of the player's negative reputat
 
 -   "This'll be a good one!"
 -   "There they are!"
+-   "Quite the reward for this one, yeah?"
 
  | 
 
