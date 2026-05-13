@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 203884
+revid: 209991
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Quests, NPCs, Mechanics]
@@ -270,6 +270,19 @@ The following quests grant the _Compassion_ Talent hand on top of their other re
   <b>Guide</b>: Talk to <a href="Atra.md">Atra</a>, who will ask you to find a scout named Lars. Lars is found in the bluecap library accessed by unlocking the entrance with the Birdcage or through an entrance in <a href="The_Viper's_Jaw.md">The Viper's Jaw</a>.<br>
   <b>Reward(s)</b>: EXP, Compassion, 3 Full Training points</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Atra.md">Atra</a></div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
+
+#### Vanguards Guidance
+
+<table>
+<tbody>
+<tr>
+  <td><div><p><b>Quest Location</b>: <a href="Alsin's_Landing.md">Alsin's Landing</a> (Training Grounds)<br>
+  <b>Guide</b>: Talk to <a href="Sarbu.md">Sarbu</a>, who will ask for some assistance in learning an ability used only by those within the Vanguard division of the <a href="Justicar_(Origin).md">Justicar</a> Origin.<br>
+  <b>Reward(s)</b>: EXP, Compassion, 3 Full Training points</p></div></td>
+  <td><figure><figcaption><p></p><div><a href="Sarbu.md">Sarbu</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
 </table>
