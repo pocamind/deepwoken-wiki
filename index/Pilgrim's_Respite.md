@@ -1,6 +1,6 @@
 ---
 title: "Pilgrim's Respite"
-revid: 188762
+revid: 210060
 source: https://deepwoken.fandom.com/wiki/Pilgrim's_Respite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the First Floor of the Second Layer]
@@ -34,4 +34,4 @@ A Lamp in Pilgrim's Respite. Interacting with it will remove each parasitic "sno
 
   
 
-A radio in Pilgrim's respite, interacting with it will lead into a dialogue with members of [The Ignition Union](The_Ignition_Union.md) found in [The Frontier Furnace](The_Frontier_Furnace.md).
+A radio in Pilgrim's respite, interacting with it will lead to dialogue with [Llevyn](Llevyn.md) in [The Frontier Furnace](The_Frontier_Furnace.md).

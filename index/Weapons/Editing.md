@@ -1,6 +1,6 @@
 ---
 title: Weapons/Editing
-revid: 208083
+revid: 210074
 source: https://deepwoken.fandom.com/wiki/Weapons/Editing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -10,6 +10,8 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 _Go back to original page [here](../Weapons.md)_
 
 In order to edit the stats of a weapon, you'll need to make the edits on the template it is located in. Note that for all Hybrid and Legendary Weapons you'll need to edit both the Hybrid/Legendary template page and the location they're in in the template corresponding to its weapon type.
+
+Important calculator; **[Wiki calc](https://www.desmos.com/calculator/ikx0qfnf8b)**, a modified version of **[Deepwoken Damage V4](https://www.desmos.com/calculator/ukb3vjlbwc)**, made for streamlining the process of calculating the "Scaled Damage" for weapons.
 
 ## Light Weapons
 

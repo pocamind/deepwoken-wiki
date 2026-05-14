@@ -1,6 +1,6 @@
 ---
 title: Simforea
-revid: 209887
+revid: 210075
 source: https://deepwoken.fandom.com/wiki/Simforea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant, Voidzones]
@@ -24,7 +24,8 @@ Simforea eventually got close to the Eastern Luminant, piquing the interest of [
 
 ## Trivia
 
--   Simforea likely derives from the word [symphony](https://en.wikipedia.org/wiki/symphony).
+-   Simforea likely derives from the word sinfonia, the Italian word for symphony.
+-   Many pieces of text on the island are written in [Gatherhand](Gatherhand.md), a writing system used to transcribe the [common](Common.md) language in the world of Deepwoken.
 
 ## References
 

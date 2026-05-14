@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 209799
+revid: 210062
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, Alloyable Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -34,7 +34,7 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Cr
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Minityrsa, Crypt of the Unbroken, Songseeker Wilds, Merchant Ships, Scion of EthironAlloyed, Alloying a Crescent Cleaver |
+| obtainment | Minityrsa, Crypt of the Unbroken, Songseeker Wilds, Merchant Ships, Scion of Ethiron, FishingAlloyed, Alloying a Crescent Cleaver |
 | description | Greatblades like these are often used by monster hunters, the serrated blade ensuring that even if their quarry flees, they need only follow the blood. |
 
 ## Description

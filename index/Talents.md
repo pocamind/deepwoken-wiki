@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 209938
+revid: 210076
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4206,11 +4206,11 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   On proc, gain the Haunted status effect, spawning ghosts that attack your opponent every time you land a Mantra. Only one Ghost can spawn per Mantra.
         -   [Gale Wisp](Galebreathe.md#gale-wisp) increases the duration of Haunted by 3 seconds.
     -   Haunted Gale Ghosts have 7 base damage with 5 Galebreathe scaling.
-    -   If your Mantra is blocked, parried, or dodged, it will be "_whiffed_", resetting all stacks of Haunted Gale.
     -   Haunted Gale stacks are counted **per person**, not globally.
     -   If you have Apparitions, landing a Galebreathe Mantra while having the Haunted Gale status effect will create an Apparition instead.
         -   Landing non-Galebreathe Mantras will create Haunted Gale's Ghosts even if you have Apparitions.
     -   Having the Freezing Wight Talent will give your Ghosts a Chill proc, the Frostdraw damage type, and an additional 5 Frostdraw scaling.
+    -   Despite the Talent description mentioning that all stacks will be lost if you "whiff" a Mantra, there is no whiff condition; even if your Mantra gets parried, blocked, dodged, or entirely misses, it will not count as a "whiff".
     -   Prerequisites: 40 Galebreathe, [Power](Power.md) 8
 
 ### Windrunner
