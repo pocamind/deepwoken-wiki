@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 202036
+revid: 210010
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant, Heads of government and state, Humanoids with Unobtainable Outfits]
@@ -27,7 +27,7 @@ Template:ModeCounterpart
 
 The Lord Regent is an [Etrean](Etrean.md) NPC. He is the acting Regent of [Etrea](Etrea.md).
 
-Zi'eer, more commonly known as the Lord Regent, or by his title, the Fourth Prophet of [The Ministry](The_Ministry.md),[\[1\]](#cite-note-oc-1) is a mysterious and powerful NPC that resides exclusively inside his palace within [Etris](Etris.md). He is the interim ruler of Etrea, holding absolute power over the entire nation until the "King" returns to his people. Nobody is sure of his origins, but they accept him for his formidable power, as well as the fact that his actions appear to be in the best interests of Etris. However, [Warden Jericho](Warden_Jericho.md), believes that The Lord Regent is a member of the long thought deceased Contractors, and may bring about a 'great war' which will cause the second Great Drowning.
+Zi'eer, more commonly known as the Lord Regent, or by his title, the Fourth Prophet of [The Ministry](The_Ministry.md),[\[1\]](#cite-note-oc-1) is a mysterious and powerful NPC that resides exclusively inside his palace within [Etris](Etris.md). He is the interim ruler of Etrea, holding absolute power over the entire nation until the "King" returns to his people. Nobody is sure of his origins, but they accept him for his formidable power, as well as the fact that his actions appear to be in the best interests of Etris. However, [Warden Jericho](Warden_Jericho.md) believes that The Lord Regent is a member of the long thought deceased Contractors, and may bring about a 'great war' which will cause the second Great Drowning.
 
 While he appears as an Etrean, his true form is a dark creature covered in emerald eyes and black tentacles. Whether this is his true species or aggressive mutations from his meddling with the world's natural order is unknown.[\[5\]](#cite-note-opr-5)
 

@@ -1,6 +1,6 @@
 ---
 title: Enforcer Boots
-revid: 205907
+revid: 210007
 source: https://deepwoken.fandom.com/wiki/Enforcer_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
