@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 209274
+revid: 210056
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -28,12 +28,12 @@ Justicars are those who follow [Alsin](Alsin.md)'s wisdom by interpreting and wa
 
 ## Obtainment
 
-To obtain the Justicar [Origin](Origins.md), the player must do one of the following:
+To obtain the Justicar [Origin](Origins.md), the player must do the following:
 
--   Participate in the [Cinders of Etris](Cinders_of_Etris.md) Disaster [World Event](World_Events.md).
--   Help a player at or below Power 15 at the [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation).
-
-For the [Cinders of Etris](Cinders_of_Etris.md) method, you need only kill one [Authority Soldier](Authority_Soldier.md) during it to unlock Justicar. Once either of these requirements have been met, speak to [Polis](Polis.md) after you have already received a [Gold Ring](Gold_Ring.md) from him. After which, talk to him about wanting to join his cause, which allows you to walk the path of [Alsin](Alsin.md).
+1.  Meet either of these requirements. Only one is needed to be done before the next step.
+    -   Participate in the [Cinders of Etris](Cinders_of_Etris.md) Disaster [World Event](World_Events.md). You need only kill one [Authority Soldier](Authority_Soldier.md) for this method.
+    -   Help a player at or below Power 15 escape the [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation).
+2.  Speak to [Polis](Polis.md) after you have already received a [Gold Ring](Gold_Ring.md) from him. After which, talk to him about wanting to join his cause, which allows you to walk the path of [Alsin](Alsin.md) and unlocked **Justicar**.
 
 ## Spawn
 
@@ -78,6 +78,8 @@ These are the ranks you can progress through:
 ### Promotion Talents
 
 These Talents can be chosen upon being promoted at any point in your Justicar playthrough. These talents cannot be removed or rerolled once obtained so choose carefully.
+
+As you can only gain a maximum of 4 promotions which inludes Path promotions, your talents of choice are limited. You are also forced to pick 2 generic promotion talents before you can start picking Path exclusive talents, so there is a maximum of 2 Path-exclusive talents that you can have, as you cannot reroll the previously chosen talents.
 
 -   **Justicar's Adaptation** - Jus Karita running attacks and criticals can now proc Jus Karita talents even if you arent currently using [Jus Karita](Jus_Karita.md). Your Jus Karita running attacks can now also proc fist talents.
     -   Having the Justicar's Technique Talent allows you to have the Jus Karita running attack on any weapon. This allows you to proc Jus Karita and Fist exclusive Talents on any weapon via the running attack.
