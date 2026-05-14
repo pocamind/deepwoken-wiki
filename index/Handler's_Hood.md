@@ -1,14 +1,14 @@
 ---
-title: "High Inquisitor's Hood"
-revid: 210021
-source: https://deepwoken.fandom.com/wiki/High_Inquisitor's_Hood
+title: "Handler's Hood"
+revid: 210023
+source: https://deepwoken.fandom.com/wiki/Handler's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hoods, The Central Authority]
 ---
 
-# High Inquisitor's Hood
+# Handler's Hood
 
-| High Inquisitor's Hood | |
+| Handler's Hood | |
 |---|---|
 | type | Head |
 | rarity | Rare |
@@ -26,8 +26,8 @@ categories: [Equipment, Head, Hoods, The Central Authority]
 
 ## Description
 
-The **High Inquisitor's Hood** is a Rare [Equipment](Equipment.md) item under the "Head" category.
+The **Handler's Hood** is a Rare [Equipment](Equipment.md) item under the "Head" category.
 
 ## Trivia
 
--   Other Inquisitor Hoods include: Crimson Inquisitor's Hood, [Handler's Hood](<Handler's_Hood.md>), and Pale Inquisitor's Hood.
+-   Other Inquisitor Hoods include: Crimson Inquisitor's Hood, [High Inquisitor's Hood](<High_Inquisitor's_Hood.md>), and Pale Inquisitor's Hood.

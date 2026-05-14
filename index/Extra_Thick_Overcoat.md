@@ -1,9 +1,9 @@
 ---
 title: Extra Thick Overcoat
-revid: 205635
+revid: 210042
 source: https://deepwoken.fandom.com/wiki/Extra_Thick_Overcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Arms]
+categories: [Vow of Iron Exclusive, Equipment, Arms, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Extra Thick Overcoat
@@ -15,7 +15,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms]
 | selling price | 25 |
 | requirements | Power 5 |
 | weight | 2 |
-| innate stats | +3 Health, +1 Uncommon Pip, +1 Rare Pip |
+| innate stats | +3 Health , +1 Uncommon Pip, +1 Rare Pip |
 | innate talent | Weather Resistant |
 | bankable | No |
 | droppable | No |

@@ -1,9 +1,9 @@
 ---
 title: Eternal Restraints
-revid: 191056
+revid: 210031
 source: https://deepwoken.fandom.com/wiki/Eternal_Restraints
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Exclusive, Equipment, Arms, Developer Spec]
+categories: [Exclusive, Equipment, Arms, Developer Spec, Equipment with Talents, Equipment with Exclusive Talents]
 notices:
   - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
 ---
@@ -17,7 +17,7 @@ notices:
 | selling price | ??? |
 | weight | 2 |
 | innate stats | +20% Health , +5 Posture |
-| innate talent | Chains of Eternity , Cognito Hazard |
+| innate talent | Chains of Eternity, Cognito Hazard |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

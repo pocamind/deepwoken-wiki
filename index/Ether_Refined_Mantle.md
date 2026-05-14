@@ -1,9 +1,9 @@
 ---
 title: Ether Refined Mantle
-revid: 207161
+revid: 210034
 source: https://deepwoken.fandom.com/wiki/Ether_Refined_Mantle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Arms, Equipment, Craftable, Equipment with Set Bonuses]
+categories: [Pathfinder Exclusive, Arms, Equipment, Craftable, Equipment with Set Bonuses, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
 ---
 
 # Ether Refined Mantle
@@ -13,7 +13,7 @@ categories: [Pathfinder Exclusive, Arms, Equipment, Craftable, Equipment with Se
 | type | Arms |
 | rarity | Unique |
 | selling price | 100 |
-| requirements | LVL 12, 5 INT |
+| requirements | Power 12, 5 Intelligence |
 | weight | 2 |
 | innate stats | +7 Health , +1 Rare Pip, +2 Legendary Pips |
 | innate talent | Overflowing DamSorcerer's Surge |

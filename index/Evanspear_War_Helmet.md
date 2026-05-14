@@ -1,6 +1,6 @@
 ---
 title: Evanspear War Helmet
-revid: 201442
+revid: 210039
 source: https://deepwoken.fandom.com/wiki/Evanspear_War_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -13,9 +13,9 @@ categories: [Equipment, Head, Helmets]
 | type | Head |
 | rarity | Common |
 | selling price | N/A |
-| requirements | PWR 10 |
+| requirements | Power 10 |
 | weight | 1 |
-| innate stats | +4 Health, +1 Posture, +1 Legendary Pip |
+| innate stats | +4 Health , +1 Posture , +1 Legendary Pip |
 | innate talent | N/A |
 | set | Evanspear War Helmet, Evanspear War Plate, Evanspear War Boots |
 | set talent | N/A |
@@ -25,6 +25,10 @@ categories: [Equipment, Head, Helmets]
 | pass down | Yes |
 | obtainment | Titus |
 | description | Hell hath no fury like an Evanspear. |
+
+Evanspear War Set
+
+Variants: [Plate](Evanspear_War_Plate.md) · [Boots](Evanspear_War_Boots.md)
 
 ## Description
 

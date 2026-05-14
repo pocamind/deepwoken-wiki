@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 204791
+revid: 210013
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the First Layer, Death, The Depths]
@@ -18,7 +18,7 @@ What will become of us?
 
   
 
-**Fragments of Self** is a location in _Deepwoken_. It is a sub-location in [The Depths](The_Depths.md).
+**Fragments of Self** is a location in _Deepwoken_. It is a sub-location in [The Depths](The_Depths.md), yet also a place entirely within your mind...
 
 ## Overview
 
@@ -28,11 +28,11 @@ Fragments of Self acts as the sad purgatory of _Deepwoken_. Players are sent to 
 
 ### Campfire
 
-Players can use this to remove equipment they want to pass down at the Hippocampal Pool.
+Players could use this to remove equipment they want to pass down at the Hippocampal Pool. Now, all it's good for is making a food item to get an Echo Triumph.
 
 ### Hippocampal Pool
 
-Located to the left-hand side, beyond a small parkour section. Interacting with it allows you to pass down two (up to six, if you have the [Echoes](Echoes.md) upgrades) items that will transfer to your next character. It will used to allow you to obtain [False Memory](False_Memory.md) as a way to de-equip your primary weapon.
+Located to the left-hand side, beyond a small parkour section. Interacting with it allows you to pass down two (up to six, if you have the [Echoes](Echoes.md) upgrades) items that will transfer to your next character. It used to allow you to obtain [False Memory](False_Memory.md) as a way to de-equip your primary weapon.
 
 -   You can pass down a Legendary Weapon or Enchanted Item, albeit at a cost of 40 Echoes.
 
@@ -54,7 +54,7 @@ The Echoes section shows how much echoes you earned, and the Rank Based on it. R
 
 ### Captain
 
-The Captain, otherwise known as Captain Orlandeau, is located on the stone arch to the right of the player. He's a dark-skinned, translucent [Felinor](Felinor.md) wearing a [Brigand's Bicorn](<Brigand's_Bicorn.md>). Talking to him allows you to replay the [Tutorial](Tutorial.md) and forces you to start with the [Castaway](Castaway.md) Origin.
+The Captain, otherwise known as Captain Orlandeau, was previously located on the stone arch to the right of the player. He's a dark-skinned, translucent [Felinor](Felinor.md) wearing a [Brigand's Bicorn](<Brigand's_Bicorn.md>). Talking to him would have allowed you to replay the [Tutorial](Tutorial.md) and forces you to start with the [Castaway](Castaway.md) Origin.
 
 ## Gallery
 

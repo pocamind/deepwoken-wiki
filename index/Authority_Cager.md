@@ -1,6 +1,6 @@
 ---
 title: Authority Cager
-revid: 209945
+revid: 210012
 source: https://deepwoken.fandom.com/wiki/Authority_Cager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Enemies, Central Authority Enemies, Enemies that can wield Enchantments]
@@ -24,6 +24,7 @@ Authority Cagers are a type of enemy NPC that are operators for the [The Central
 
 -   Encountered in the Cargo Recovery [job](Job_Boards.md).
 -   [Miner's Landing (Vow of Iron)](<Miner's_Landing_(Vow_of_Iron).md>) near the dock.
+-   [Saramaed Summit (Vow of Iron)](<Saramaed_Summit_(Vow_of_Iron).md>)
 -   The [Summer Isle](Summer_Isle.md) Castle Ruins.
 
 Authority Cagers wear a black [Shrouded Cape](Shrouded_Cape.md), an [Authority Helm](Authority_Helm.md), a pair of [Bluesteel Pauldrons](Bluesteel_Pauldrons.md), a pair of [Bluesteel Boots](Bluesteel_Boots.md) and an [Shock Corps Light](Shock_Corps_Light.md).

@@ -1,6 +1,6 @@
 ---
 title: Evanspear War Plate
-revid: 177767
+revid: 210040
 source: https://deepwoken.fandom.com/wiki/Evanspear_War_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -13,9 +13,9 @@ categories: [Equipment, Arms, Plates]
 | type | Arms |
 | rarity | Common |
 | selling price | N/A |
-| requirements | PWR 10, 25 STR |
+| requirements | Power 10, 25 Strength |
 | weight | 2 |
-| innate stats | +6 Health, +1 Posture, +1 Rare Pip, +1 Legendary Pip |
+| innate stats | +6 Health , +1 Posture , +1 Rare Pip, +1 Legendary Pip |
 | innate talent | N/A |
 | set | Evanspear War Helmet, Evanspear War Plate, Evanspear War Boots |
 | set talent | N/A |
@@ -25,6 +25,10 @@ categories: [Equipment, Arms, Plates]
 | pass down | Yes |
 | obtainment | Titus |
 | description | Made light to protect only the essentials, Evanspear Centurions put all their strength into a single blow, believing the best defense is a brutal offense. |
+
+Evanspear War Set
+
+Variants: [Helmet](Evanspear_War_Helmet.md) · [Boots](Evanspear_War_Boots.md)
 
 ## Description
 

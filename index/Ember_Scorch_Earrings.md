@@ -1,9 +1,9 @@
 ---
 title: Ember Scorch Earrings
-revid: 209060
+revid: 210025
 source: https://deepwoken.fandom.com/wiki/Ember_Scorch_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Equipment, Ears, Craftable]
+categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Ember Scorch Earrings

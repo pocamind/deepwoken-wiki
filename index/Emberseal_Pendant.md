@@ -1,9 +1,9 @@
 ---
 title: Emberseal Pendant
-revid: 206437
+revid: 210026
 source: https://deepwoken.fandom.com/wiki/Emberseal_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces]
+categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Emberseal Pendant

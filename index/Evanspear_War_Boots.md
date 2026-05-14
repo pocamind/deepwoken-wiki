@@ -1,6 +1,6 @@
 ---
 title: Evanspear War Boots
-revid: 176417
+revid: 210038
 source: https://deepwoken.fandom.com/wiki/Evanspear_War_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -13,9 +13,9 @@ categories: [Equipment, Legs, Boots]
 | type | Head |
 | rarity | Common |
 | selling price | N/A |
-| requirements | PWR 10 |
+| requirements | Power 10 |
 | weight | 1 |
-| innate stats | +3 Health, +1 Uncommon Pip |
+| innate stats | +3 Health , +1 Uncommon Pip |
 | innate talent | N/A |
 | set | Evanspear War Helmet, Evanspear War Plate, Evanspear War Boots |
 | set talent | N/A |
@@ -25,6 +25,10 @@ categories: [Equipment, Legs, Boots]
 | pass down | Yes |
 | obtainment | Titus Fulminus Destellus |
 | description | Built to bite into the ground when fighting, these boots can turn a heavy swing into an unforgiving smash. |
+
+Evanspear War Set
+
+Variants: [Helmet](Evanspear_War_Helmet.md) · [Plate](Evanspear_War_Plate.md)
 
 ## Description
 
