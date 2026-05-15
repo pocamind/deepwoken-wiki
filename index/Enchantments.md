@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 208887
+revid: 210134
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -341,6 +341,36 @@ Elastic [Enchant Stone](Enchant_Stone.md):
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
+    
+
+  
+
+ |
+| 
+
+**[Erebus](Erebus.md)**
+
+[View main page](Erebus.md)
+
+File:Erebus1.gif
+
+_An enchant once lost to time, now given to the mighty. When landing a critical, make your opponent forget how to use a mantra for a minute._
+
+ | 
+
+**Effect:**
+
+On critical attack, put one of your opponent's Mantras on a one minute cooldown.
+
+The Mantra that goes on cooldown is entirely random.
+
+**Obtainment:**
+
+Erebus is exclusively obtained from its [Enchant Stone](Enchant_Stone.md).
+
+Erebus Enchant Stone is obtained from:
+
+-   Winning 20 [Battle Royale](Battle_Royale.md) matches on the same character.
     
 
   
@@ -2027,33 +2057,6 @@ Landing additional hits while this is active will extend the duration.
 
  |
 | --- | --- |
-| 
-
-**[Erebus](Erebus.md)**
-
-[View main page](Erebus.md)
-
-File:Erebus1.gif
-
-_When landing a critical, make your opponent forget how to use a mantra for a minute._
-
- | 
-
-**Effect:**
-
-Upon landing a weapon critical, put a random one of your opponent's Mantras on a 1 minute cooldown.
-
-2 second cooldown.
-
-**Obtainment:**
-
-Erebus is obtained exclusively from its [Enchant Stone](Enchant_Stone.md).
-
-Erebus Enchant Stone can be a potential reward from winning an event hosted by Agamatsu.
-
-  
-
- |
 | 
 
 **[JOE's](<JOE's.md>)**

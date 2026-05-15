@@ -1,6 +1,6 @@
 ---
 title: Feathertop Helm
-revid: 199227
+revid: 210140
 source: https://deepwoken.fandom.com/wiki/Feathertop_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -15,7 +15,7 @@ categories: [Equipment, Head, Helmets]
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +3 Health, +1 Uncommon Pip |
+| innate stats | +3 Health , +1 Uncommon Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

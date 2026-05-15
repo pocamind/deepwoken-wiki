@@ -1,11 +1,11 @@
 ---
 title: The City of the Drowned
-revid: 194937
+revid: 210129
 source: https://deepwoken.fandom.com/wiki/The_City_of_the_Drowned
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]
+categories: [In progress without reason, InProgressPages, Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]
 notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # The City of the Drowned
@@ -30,7 +30,8 @@ The city is patrolled by watchers that summon pairs of [Hollow Angel](Hollow_Ang
 -   [Lucy](Lucy.md), a [Gremor](Gremor.md) NPC sprawled on the ground who appears to have a grudge against [The Divers](The_Divers.md). She may be slightly insane as she mentions "voices" talking to her.
 -   [Petris](Petris.md), a middle-aged [Etrean](Etrean.md) in **The City of the Drowned**, right next to the Merchant Stalls where the static [Nautilodaunt](Nautilodaunt.md) spawns. Seemingly killed by [The Ferryman](The_Ferryman.md) after he thought the [Krulian](Krulian.md) would grant him gifts, free of charge. He also hints towards how to summon [The Ferryman](The_Ferryman.md).
 -   [Jeremiah](Jeremiah.md), an NPC that is located in the [Varicosa District](Varicosa_District.md), you can trade [Deep Gems](Mantra_Modifiers.md) with him for random items.
--   Players can find [Nostor](Nostor,_Master_of_Shadow.md), a spelltrainer who can help you acquire [Shadowcast](Shadowcast.md), or upgrade your existing Shadowcast Mantras.
+-   [Nostor](Nostor,_Master_of_Shadow.md), a spelltrainer who can help you acquire [Shadowcast](Shadowcast.md) or upgrade your existing Shadowcast Mantras.
+-   [Gild](Gild.md) is an old [Celtor](Celtor.md) that has been stuck in the depths ever since Celtor sank below the Tides.
 
 ## Points of Interest
 
@@ -39,24 +40,10 @@ The city is patrolled by watchers that summon pairs of [Hollow Angel](Hollow_Ang
 -   [Varicosa District](Varicosa_District.md)
 -   [The Military District](The_Military_District.md)
 
-## Potential Enemies
-
--   [Hollow Angel](Hollow_Angel.md) (Summoned by [Watchers](Watcher.md))
--   [Nautilodaunt](Nautilodaunt.md)
--   [Megalodaunt](Megalodaunt.md)
--   [Deep Owl](Deep_Owl.md)
--   [Lionfish](Lionfish.md)
--   [Thresher](Thresher.md)
--   [King Thresher](King_Thresher.md)
--   [Mudskipper Broodlord](Mudskipper_Broodlord.md)
--   [The Fisherman](The_Fisherman.md)
--   [Coldheart Fortinbras](Coldheart_Fortinbras.md)
--   [Goesh and Draud](Goesh_and_Draud.md) (Summoned by using the [Umbral Candle](Candle.md) in a ritual circle within the city)
-
 ## Quests
 
 ### Shadowcast Spelltrainer Quest
 
--   If you are unattuned with [Shadowcast](Shadowcast.md), the spelltrainer will give you a quest.
--   They will ask you for five Umbral Obsidian, obtain them and give it to them.
--   Doing this will result in a potion that will attune you with Shadowcast.
+-   If you are unattuned with [Shadowcast](Shadowcast.md), [Nostor, Master of Shadow](Nostor,_Master_of_Shadow.md) will give you a quest.
+-   They will ask you for 5 Umbral Obsidian, obtain them and give it to them. If you have completed it before they will only ask for 3.
+-   Doing this will result in a potion that will attune you with [Shadowcast](Shadowcast.md).

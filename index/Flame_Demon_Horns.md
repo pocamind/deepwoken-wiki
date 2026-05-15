@@ -1,9 +1,9 @@
 ---
 title: Flame Demon Horns
-revid: 206997
+revid: 210143
 source: https://deepwoken.fandom.com/wiki/Flame_Demon_Horns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Head, Horns]
+categories: [Vow of Iron Exclusive, Equipment, Head, Horns, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Flame Demon Horns

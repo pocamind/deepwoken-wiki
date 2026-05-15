@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 210076
+revid: 210135
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -433,7 +433,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Increases roll distance by 15% when crouching.
     -   Very strong synergy with "Murmur: Tacet", as it requires the user to crouch.
     -   Prerequisite: 20 Agility
-    -   The following Outfits and equipment items have this Talent: [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md), [Diver Journeyman Robes](Diver_Journeyman_Robes.md), [Hive Adjudicator](Hive_Adjudicator.md), [Hive Drone](Hive_Drone.md), [Pathfinder Sorcerer](Pathfinder_Sorcerer.md), [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md), [Shadow Hunter](Shadow_Hunter.md), [Steel Plate](Steel_Plate.md), [Assassin's Cloak](<Assassin's_Cloak.md>) (all variants), and [Hive Scourge Cuirass](Hive_Scourge_Cuirass.md).
+    -   The following Outfits and equipment items have this Talent: [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md), [Diver Journeyman Robes](Diver_Journeyman_Robes.md), [Hive Adjudicator](Hive_Adjudicator.md), [Hive Drone](Hive_Drone.md), [Pathfinder Sorcerer](Pathfinder_Sorcerer.md), [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md), [Shadow Hunter](Shadow_Hunter.md), [Steel Plate](Steel_Plate.md), [Assassin's Cloak](<Assassin's_Cloak.md>), [Hive Scourge Cuirass](Hive_Scourge_Cuirass.md), and [Tracker's Boots](<Tracker's_Boots.md>).
 
 -   Unseen Threat \[Common Talent, Agility\] - You can assassinate those with weapons out provided you're not in combat yourself. Those you assassinate are slowed and unable to jump for 3s.
     -   Being in combat and having your weapon selected normally gives immunity to assassinations. This Talent bypasses this immunity.

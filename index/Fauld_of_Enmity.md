@@ -1,6 +1,6 @@
 ---
 title: Fauld of Enmity
-revid: 207148
+revid: 210139
 source: https://deepwoken.fandom.com/wiki/Fauld_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso]
@@ -13,7 +13,7 @@ categories: [Equipment, Torso]
 | type | Torso |
 | rarity | Unique |
 | selling price | 100 |
-| requirements | LVL 10 |
+| requirements | Power 10 |
 | weight | 0.5 |
 | innate stats | +1 Rare Pip, +2 Legendary Pips |
 | innate talent | N/A |
