@@ -1,6 +1,6 @@
 ---
 title: Disciple Lorenzo
-revid: 207642
+revid: 210114
 source: https://deepwoken.fandom.com/wiki/Disciple_Lorenzo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -33,6 +33,8 @@ Disciple Lorenzo is located in the training grounds of [Alsin's Landing](<Alsin'
 
 ## Dialogue
 
+**Justicar:**
+
 <table>
 <tbody>
 <tr>
@@ -46,6 +48,24 @@ Disciple Lorenzo is located in the training grounds of [Alsin's Landing](<Alsin'
 </tr>
 <tr>
   <td colspan="2">...Phew, thanks, but I need to do this myself. A Justicar has to be able to walk their own Path. I won't ever be able to go back out there if I can't.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+This dialogue is unlocked if the player is a [Voidwalker](Voidwalker.md).
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*They appear out of breath.*</i> ...Wait, please!..</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

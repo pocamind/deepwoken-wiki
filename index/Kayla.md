@@ -1,6 +1,6 @@
 ---
 title: Kayla
-revid: 209028
+revid: 210103
 source: https://deepwoken.fandom.com/wiki/Kayla
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -29,6 +29,8 @@ Kayla is located inside of the first story of the library at [Alsin's Landing](<
 
 ## Dialogue
 
+**Base Dialogue:**
+
 <table>
 <tbody>
 <tr>
@@ -54,6 +56,24 @@ Kayla is located inside of the first story of the library at [Alsin's Landing](<
 </tr>
 <tr>
   <td>Please let me know if you find it!</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+This dialogue is unlocked if the player is a [Voidwalker](Voidwalker.md).
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Just when I thought my luck couldn't get worse...</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

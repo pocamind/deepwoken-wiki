@@ -1,6 +1,6 @@
 ---
 title: Konga The Third
-revid: 208650
+revid: 210107
 source: https://deepwoken.fandom.com/wiki/Konga_The_Third
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, In progress with reason, InProgressPages, NPCs, NPCs located in the Etrean Luminant, Justicars]
@@ -122,7 +122,7 @@ If the player is a [Vangaurd Justicar](<Justicar_(Origin).md#vanguard>).
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td>Seriously, kid?</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

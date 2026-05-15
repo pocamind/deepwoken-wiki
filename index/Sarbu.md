@@ -1,6 +1,6 @@
 ---
 title: Sarbu
-revid: 209088
+revid: 210115
 source: https://deepwoken.fandom.com/wiki/Sarbu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -29,7 +29,9 @@ Sarbu is located in the training grounds of [Alsin's Landing](<Alsin's_Landing.m
 
 ## Dialogue
 
-**Base Dialogue:**
+**Justicar:**
+
+**No Path:**
 
 <table>
 <tbody>
@@ -57,9 +59,7 @@ Sarbu is located in the training grounds of [Alsin's Landing](<Alsin's_Landing.m
 </tbody>
 </table>
 
-**Unlockable Dialogue:**
-
-This dialogue is unlocked if the player is within the **Vanguard** division of the [Justicar](<Justicar_(Origin).md>) Origin.
+**Vanguard Path:**
 
 <table>
 <tbody>
@@ -82,7 +82,25 @@ This dialogue is unlocked if the player is within the **Vanguard** division of t
   <td><i>*His expression brightens with excitement.*</i>. [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] I'll try my hardest, thank you!</td>
 </tr>
 <tr>
-  <td>[End Dialogue], awards Compassion Talent hand</td>
+  <td>[End Dialogue], awards Compassion Talent hand and 3 Full Training points</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+This dialogue is unlocked if the player is a [Voidwalker](Voidwalker.md).
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>...Please don't hurt me?..</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

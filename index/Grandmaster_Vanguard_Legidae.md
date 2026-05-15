@@ -1,6 +1,6 @@
 ---
 title: Grandmaster Vanguard Legidae
-revid: 209120
+revid: 210112
 source: https://deepwoken.fandom.com/wiki/Grandmaster_Vanguard_Legidae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Individuals with He/him pronouns, In progress with reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -314,10 +314,10 @@ Grandmaster Vanguard Legidae is located in a stronghold on the left side of [Als
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td>Foul cur, who would prey on the weak for your fortunes! Detestable. Begone!</td>
 </tr>
 <tr>
-  <td>[End Dialogue]</td>
+  <td>[End Dialogue], you are beaten up</td>
 </tr>
 </tbody>
 </table>

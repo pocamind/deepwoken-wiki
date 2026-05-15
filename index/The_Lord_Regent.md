@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 210010
+revid: 210093
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant, Heads of government and state, Humanoids with Unobtainable Outfits]
@@ -38,8 +38,6 @@ The throne upon which he sits is an artifact from [The Depths](The_Depths.md), a
 He has a particular interest in a powerful object referred to as 'The Forge of Sin.' Fragments of it, simply called Artifacts, are scattered over Erisia. Turning these into [banks](Banker.md) gives a hefty reward and is lorewise sent to the Palace.
 
 If given reason to, the Lord Regent can suspend his target in the air, using an attack similar to the "Judgement" mantra from the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md), before instantly executing them. This attack is only unleashed on players that enter the throne room without permission for entry. It kills you regardless of level or equipment, and is impossible to escape. The attack is disabled when the player is granted an audience, being limited to his immediate surrounding instead (don't get too close). It is re-enabled if the player acquires negative Etrea reputation.
-
-Despite his mystique and power, he still very much appears to be a mortal man. He shows signs of aging, being at least old enough to have reached Stage 1 aging. This, however, may just be a front to make people believe he is weaker than he really is.
 
 ## Dialogue
 
@@ -459,6 +457,7 @@ If the player steps on or near the throne that **The Lord Regent** is sitting on
     -   This is due to the blindfold he wears being worn backwards, hiding the curved part.
 -   Zi'eer (Lord Regent) hair ID: 6536289312; and the link: [https://www.roblox.com/catalog/6536308118/Long-White-Hair](https://www.roblox.com/catalog/6536308118/Long-White-Hair) (colored differently ingame)
 -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/9639911906/Dark-Elf-Outrider-Slight-Fix) / [Pants](https://www.roblox.com/catalog/7434547604/Dark-Elf-Outrider)
+-   The Lord Regent is supposed to be voiced by Deepwoken Content Creator [demstormz](https://www.youtube.com/@demstormz). However, despite having fully recorded voice lines for his dialogue, they for some reason were not implemented.
 
 ## References
 

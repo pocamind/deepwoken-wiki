@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 204801
+revid: 210085
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ministry]
@@ -29,13 +29,13 @@ The Oath allows you to manipulate the Puppet Strings of [Zi'eer](The_Lord_Regent
 
 ## Obtainment
 
-1.  Get neutral or positive reputation with [The Ministry](The_Ministry.md). You can check your reputation at a campfire. Go more towards positive to be safe. - This can be done after killing [Duke Erisia](Duke_Ishamon_Erisia.md).
+1.  Get neutral or positive reputation with [The Ministry](The_Ministry.md). You can check your reputation at a campfire or using the Factions tab in your inventory. Only neutral reputation is required to obtain the oath.
     -   You can either get this through [Emel](Emel.md), [Imel](Imel.md), and [Rimil's](Rimil.md) bounties if you choose, but you can also help the [Ministry](The_Ministry.md) out in [Summer Isle](Summer_Isle.md). A good way to do this is to knock and carry one [Ministry Scout](Ministry_Scout.md), waiting for the nomads to kill the other, and then assassinate them. This is far less efficient than doing bounties, only giving around half the reputation each completion.
         -   You must help the Ministry 5 times (assuming you are starting with base Ministry reputation) at [Summer Isle](Summer_Isle.md) for them to not see worth fighting you anymore.
         -   The Bounty version of [The Ministry](The_Ministry.md) takes about 4-5 kills. You need to deal approximately 60% of the dmg to the target and deaths caused by environmental causes such as Blood Loss or Starvation will not count.
     -   You can also get this by trading Knowledge with [Soothsayer](Soothsayer.md) (require at least 10 Knowledge to have neutral reputation with [The Ministry](The_Ministry.md)).
-        -   It is also advised to avoid killing [Ministry Scouts](Ministry_Scout.md) if you're looking to acquire this Oath, in order to keep your rep with ministry as neutral as possible.
-2.  Start the [Duke Erisia](Duke_Ishamon_Erisia.md) questline. Proceed to get kill credit for the Duke. (Do note that abandoning the quest or talking to regent after completion without enough Ministry reputation locks you out of contractor \[needs more testing)
+        -   It is also advised to avoid killing [Ministry Scouts](Ministry_Scout.md) if you're looking to acquire this Oath, in order to keep your reputation with ministry as neutral as possible.
+2.  Start the [Duke Erisia](Duke_Ishamon_Erisia.md) questline. Proceed to get kill credit for the Duke. (Do note that abandoning the quest or talking to Regent after completion without enough Ministry reputation locks you out of contractor \[needs more testing)
 3.  Make a deal with 4 seperate [Deep Shrines](Deep_Shrines.md). Remember, 4 DIFFERENT shrines, not the same one 4 times. Any Shrine except the **Shrines of Solitude,** **Mastery (Attributes option) and Order** works, including those in [The Depths](First_Layer.md).
 4.  Unlock your [Resonance](Resonance.md).
 5.  Go to the Depths and talk to [Yun'Shul's shrine](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). Ask it for a wish and then pick "What happened to this place?"
@@ -50,11 +50,11 @@ _Contractor **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---o
 
 As tasked by [The Lord Regent](The_Lord_Regent.md), to obtain the Talents and mantras, you must grip a total of 3 players with [Oaths](Oaths.md) in Depths' [Layer 1](First_Layer.md) (Works on Allies, Guildmates and works people with [Oathless](Oath%253A_Oathless.md)). Gripping players with Oaths while having Contractor not fully progged will send them to Layer 2 instead of wiping. You must be the sole contributor of damage, otherwise the kill will not be counted.
 
--   1st Grip - Hidden Tendril and Lords Slice
+-   1st Grip - Hidden Tendril and Lord's Slice
 -   2nd Grip - Equalizer
 -   3rd Grip - String Trick and Judgement
 
-Alternatively you may spend 10 knowledge to immediately max out the Oath. This is only possible if you have already completed the Oath progression normally at least once after the [April 26th, 2024 update](Version_History/2024.md#april-26th-2024), or you have logged in on an already progressed Contractor slot after that date.
+Alternatively you may spend 10 Knowledge to immediately max out the Oath. This is only possible if you have already completed the Oath progression normally at least once after the [April 26th, 2024 update](Version_History/2024.md#april-26th-2024), or you have logged in on an already progressed Contractor slot after that date.
 
 ## Effects
 
@@ -105,8 +105,8 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
 ## Trivia
 
 -   Contractor took inspiration from [Darkstalker Kaathe](https://darksouls.fandom.com/wiki/Darkstalker_Kaathe).[\[1\]](#cite-note-1)
--   Upon obtaining the Oath, reputation with [The Divers](The_Divers.md) will be moderately lowered. If you had neutral reputation, it would be set to Hunted. Reputation may be gained back by defeating [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the [Scion of Ethiron](Scion_of_Ethiron.md), killing [Nautilodaunts](Nautilodaunt.md), doing Diver vs Monster events, and killing the four [Mudskippers](Mudskipper.md) and [Megalodaunt](Megalodaunt.md) that spawns next to the [Diver's Camp](<Diver's_Camp.md>). Doing Diver jobs on [Job Boards](Job_Boards.md) may also increase Diver reputation.
-    -   Reputation, however, can no longer be bought for The Divers. You will still get the dialog option for it but it will do nothing.
+-   Upon obtaining the Oath, reputation with [The Divers](The_Divers.md) will be moderately lowered. Players with neutral reputation will have it lowered to a deep Enemy reputation. Reputation may be gained back by defeating [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the [Scion of Ethiron](Scion_of_Ethiron.md), killing [Nautilodaunts](Nautilodaunt.md), doing Diver vs Monster events, and killing the four [Mudskippers](Mudskipper.md) and [Megalodaunt](Megalodaunt.md) that spawns next to the [Diver's Camp](<Diver's_Camp.md>). Doing Diver jobs on [Job Boards](Job_Boards.md) may also increase Diver reputation.
+    -   You can still bribe the Diver NPC to regain your reputation right after obtaining the oath.
     -   Being a member of The Divers' guild will prevent your reputation from being drained when you swear the Oath.
 -   [Gran Sudaruska](Gran_Sudaruska.md) cannot be equipped if you have Contractor, unless you equip it as you are taking the Oath.
     -   However, those with Contractor builds that have the weapon already equipped are able to use it until they switch weapon.
@@ -128,7 +128,7 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
 -   May be considered as one of the more iconic oaths, with Judgement being featured in the randomizer games Allusions and Item Asylum.
 -   The Oath, before its release, was first mentioned in the Windrunner's dialogue where he speaks of observing the war between Etrea and the Authority.
 -   This Oath was created by Melon\_Sensei/Par. [\[3\]](#cite-note-3)
--   Meeting reputation requirements and duke defeated with questline but not having Contractor unlocks a special bite your tongue dialogue.
+-   Meeting reputation requirements and Duke defeated with questline but not having Contractor unlocks a special bite your tongue dialogue.
 
 ## References
 

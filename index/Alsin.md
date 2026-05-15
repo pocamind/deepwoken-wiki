@@ -1,6 +1,6 @@
 ---
 title: Alsin
-revid: 208031
+revid: 210091
 source: https://deepwoken.fandom.com/wiki/Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, The Heavens, Celestials]
@@ -18,7 +18,7 @@ notices:
 
 “ May Alsin have mercy on me. ”
 
-― [Polis](Polis.md)
+― Polis
 
   
 
@@ -31,7 +31,7 @@ As [The Justicar](The_Justicar.md) are taught to interpret The Path in their own
 ## Trivia
 
 -   There might as well be no right path, which makes [the Justicar](The_Justicar.md)'s way of living a lie.
--   Every path may be the right path, which makes any [The Justicar](The_Justicar.md)'s way of living the truth.
+-   Every path may be the right path, which makes any [Justicar](The_Justicar.md)'s way of living the truth.
 
 ## References
 

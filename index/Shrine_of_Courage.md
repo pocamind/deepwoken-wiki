@@ -1,6 +1,6 @@
 ---
 title: Shrine of Courage
-revid: 204415
+revid: 210123
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Courage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the First Layer, Mechanics]
@@ -10,7 +10,7 @@ categories: [NPCs, NPCs located in the First Layer, Mechanics]
 
 | Shrine of Courage | |
 |---|---|
-| location | Depths trial |
+| location | Cathedral of the Interstice (Trial) |
 
 _Not to be confused with [Deep Shrines](Deep_Shrines.md) or [Shrines](Fountain_Gates.md) (aka Fountain Gates)._
 

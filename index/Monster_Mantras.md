@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 207008
+revid: 210078
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -459,7 +459,7 @@ Typeless
         -   Base combat: Uppercuts, Flourishes, and Offhand [Pistol](Pistols.md) shots (even if you do not have [Execution](Talents.md#execution)).
         -   Talents: Air Counters with [Cut to the Chase](Talents.md#cut-to-the-chase) and [Emperor Flame](Talents.md#emperor-flame).
         -   Mantras: [Celestial Assault](Oath%253A_Starkindred.md#celestial-assault), [Crimson Surge](Bloodrend.md#crimson-surge), [Crystal Knee](Frostdraw.md#crystal-knee), [Onslaught](Attunement-less.md#onslaught), [Palm Strike](Oath%253A_Bladeharper.md#palm-strike) (in True Strength), [Razor Blitz](Bloodrend.md#razor-blitz), [Rising Flame](Flamecharm.md#rising-flame), [Rising Wind](Galebreathe.md#rising-wind), [Shade Step](Shadowcast.md#shade-step), [Skyshatter Kick](Attunement-less.md#skyshatter-kick) (Round Spark), and [Wind Blade](Galebreathe.md#wind-blade) (slide jump variant).
-        -   Weapon Criticals: [Rimebreakers](Rimebreakers.md).
+        -   Weapon Criticals: [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), and[Rimebreakers](Rimebreakers.md).
     -   The following abilities do not proc Bone Wisp, despite uptilting:
         -   Mantras: [Abyssal Ridge](Monster_Mantras.md#abyssal-ridge), [Flame Leap](Flamecharm.md#flame-leap), [Lightning Impact](Thundercall.md#lightning-impact), [Rising Frost](Frostdraw.md#rising-frost), and [Updraft](Galebreathe.md#updraft).
         -   Resonances: [Portals](Portals.md) (Dive Variant).

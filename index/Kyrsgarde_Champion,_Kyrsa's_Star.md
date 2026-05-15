@@ -1,6 +1,6 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 209342
+revid: 210119
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Individuals with He/him pronouns]
@@ -241,7 +241,7 @@ Parry
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Frost_Essence.md">Frost Essence</a>, <a href="Gale_Essence.md">Gale Essence</a>, <a href="Kyrsan_Chill.md">Kyrsan Chill Enchant Stone</a>, <a href="Kyrsan_Gem.md">Kyrsan Gem</a> <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Windswept.md">Windswept Enchant Stone</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Frost_Essence.md">Frost Essence</a>, <a href="Gale_Essence.md">Gale Essence</a>, <a href="Kyrsan_Chill.md">Kyrsan Chill Enchant Stone</a>, <a href="Kyrsan_Gem.md">Kyrsan Gem,</a> <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Windswept.md">Windswept Enchant Stone</a></li>
   </ul></td>
 </tr>
 <tr>

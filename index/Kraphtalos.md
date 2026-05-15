@@ -1,6 +1,6 @@
 ---
 title: Kraphtalos
-revid: 209085
+revid: 210102
 source: https://deepwoken.fandom.com/wiki/Kraphtalos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -34,6 +34,8 @@ Kraphtalos is located in a small workshop hall across from [Braun](Braun.md) on 
 
 ## Dialogue
 
+**Base Dialogue:**
+
 <table>
 <tbody>
 <tr>
@@ -65,6 +67,24 @@ Kraphtalos is located in a small workshop hall across from [Braun](Braun.md) on 
 </tr>
 <tr>
   <td>A shame? Shame not! Now-now, we all walk our path as necessary! And if that means we diverge or do our own things, then so be it. I had my time in the sun obliterating the villainous in glorious combat, as should the other Justicars in their duty. Much like clay, you'll be shaped into who you're meant to become. Now, GOOOOO!!!!!</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+This dialogue is unlocked if the player is a [Voidwalker](Voidwalker.md).
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Don't even joke, lad.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

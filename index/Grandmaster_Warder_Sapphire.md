@@ -1,6 +1,6 @@
 ---
 title: Grandmaster Warder Sapphire
-revid: 209029
+revid: 210104
 source: https://deepwoken.fandom.com/wiki/Grandmaster_Warder_Sapphire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Individuals with She/her pronouns, In progress with reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -119,6 +119,24 @@ Grandmaster Warder Sapphire is located in a bookstack tower on the right side of
 <tr>
   <td>[End Dialogue], player joins the Warder Path</td>
   <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+This dialogue is unlocked if the player is a [Voidwalker](Voidwalker.md).
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>By Alsin's guiding hand, I SMITE thee, villain!</td>
+</tr>
+<tr>
+  <td>[End Dialogue], you are beaten up</td>
 </tr>
 </tbody>
 </table>

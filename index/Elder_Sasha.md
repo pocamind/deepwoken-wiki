@@ -1,6 +1,6 @@
 ---
 title: Elder Sasha
-revid: 207984
+revid: 210096
 source: https://deepwoken.fandom.com/wiki/Elder_Sasha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Justicars]
@@ -34,6 +34,8 @@ Elder Sasha is located on [Alsin's Landing](<Alsin's_Landing.md>), standing unde
 
 ## Dialogue
 
+**Base Dialogue:**
+
 <table>
 <tbody>
 <tr>
@@ -62,6 +64,24 @@ Elder Sasha is located on [Alsin's Landing](<Alsin's_Landing.md>), standing unde
 </tr>
 <tr>
   <td>Remember, a little charisma does the trick! <i>*She smirks.*</i></td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+This dialogue is unlocked if the player is a [Voidwalker](Voidwalker.md).
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>... And so the Voidwalker-- uh... Hey, you! Scram!..</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

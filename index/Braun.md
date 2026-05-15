@@ -1,6 +1,6 @@
 ---
 title: Braun
-revid: 209086
+revid: 210101
 source: https://deepwoken.fandom.com/wiki/Braun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -36,6 +36,8 @@ Braun is located in a small workshop hall across from [Kraphtalos](Kraphtalos.md
 
 ## Dialogue
 
+**Base Dialogue:**
+
 <table>
 <tbody>
 <tr>
@@ -61,6 +63,24 @@ Braun is located in a small workshop hall across from [Kraphtalos](Kraphtalos.md
 </tr>
 <tr>
   <td>Danger lurks behind every corner. Take care out there.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+This dialogue is unlocked if the player is a [Voidwalker](Voidwalker.md).
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>I know your kind when I see one. Get lost before I lose my temper, Voidwalker.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

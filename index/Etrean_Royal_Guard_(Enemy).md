@@ -1,6 +1,6 @@
 ---
 title: Etrean Royal Guard (Enemy)
-revid: 191422
+revid: 210090
 source: https://deepwoken.fandom.com/wiki/Etrean_Royal_Guard_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Etrea Enemies]
@@ -19,7 +19,7 @@ _Not to be confused with the [Etrean Royal Guard NPC](<Etrean_Royal_Guard_(NPC).
 
 ## Description
 
-An Etrean Royal Guard is a type of enemy NPC that wields a [Katana](Katana.md) and can be found inside and outside the Palace at [Etris](Etris.md). Attacking them or going near them without high enough reputation brings you the same fate as attacking any other faction guards. They'll appear when you grip two Etrean guards, even if you have positive reputation. They have a much higher required reputation level for peaceful interaction than normal [Etrean Guards](Etrean_Guardsmen.md), requiring the player to be referred to by name for them not to attack on sight.
+An Etrean Royal Guard is a type of enemy NPC that wields a [Katana](Katana.md) and can be found inside and outside the Palace at [Etris](Etris.md). Attacking them or going near them without high enough reputation brings you the same fate as attacking any other faction guards. They'll appear when you grip two Etrean guards, (or during the Cinders of Etris event) even if you have positive reputation. They have a much higher required reputation level for peaceful interaction than normal [Etrean Guards](Etrean_Guardsmen.md), requiring higher than Ally reputation for them to become passive.
 
 An Etrean Royal Guard wears a [Blackleaf Helm](Blackleaf_Helm.md) and a darkened version of the [Royal Etrean Guard](Royal_Etrean_Guard.md) outfit. They are all [Etrean](Etrean.md).
 
@@ -69,7 +69,7 @@ An Etrean Royal Guard's arsenal only consists of a [Katana](Katana.md):
 
  |
 
-### Boons:
+### Passives:
 
 -   Impervious - Immune to PvE scaling.
 
@@ -82,10 +82,10 @@ An Etrean Royal Guard's arsenal only consists of a [Katana](Katana.md):
 ## Tips
 
 -   To avoid dealing with them, simply refrain from attacking anyone in Etris.
-    -   Alternatively, just don't go near Lord Regent's palace. However, if you must visit (to use the hive fountain teleporter) you can easily run past them anyways.
+    -   Alternatively, just don't go near Lord Regent's palace. However, if you must visit (to use the Hive fountain teleporter) you can easily run past them anyways.
 -   Their katanas are almost always enchanted.
 
--   If the [Etris: Siege](Cinders_of_Etris.md) event is happening, They spawn along etris and can attack you if your rep is medium or low.
+-   If the [Cinders of Etris](Cinders_of_Etris.md) event is happening, They spawn along Etris and will aggro if you do not meet the reputation threshold.
     -   If they attack you, You can try to lure them to a [Authority](The_Central_Authority.md) enemy to try to get them to deaggro on you.
 
 ## Dialogue
@@ -139,5 +139,7 @@ This dialogue only appears if the player has started the "Forge of Sin" questlin
 ## Trivia
 
 -   The description of the [Royal Etrean Guard](Royal_Etrean_Guard.md) implies that the Royal Etrean Guard is the name of the group, and the Etrean Royal Guard is the name of the members of said group.
--   It is often theorized that their minds are somehow altered, similarly to the Mindless Servants in Duke’s Manor. This is Most likely done via a [Mental Veil](Lore.md) stronger than that placed by the Lord Regent on regular Etris Citizens. This is supported by the dialogue near Kennith’s body, in which the guard simply replies “You have an audience with the Lord Regent.” to anything the player says.
+-   They possess unquestioning loyalty to the Lord Regent. This is most likely done via a [Mental Veil](Lore.md) stronger than that placed by the Lord Regent over Etris. This is supported by the fact that the Palace Guards refer to the Lord Regent as "benevolent". This kind of praise is not expressed by any other NPCs in Etris.
 -   If the player has the [Contractor Oath](Oath%253A_Contractor.md), they will say "Ah, the benevolent Lord Regent's associate has returned. Has he granted you a new task?"
+-   You must rejoin after reaching the reputation threshold for the Guards to become passive. (Bug)
+-   They commonly drop Gale Stones and are a good way of farming them

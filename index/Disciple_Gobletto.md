@@ -1,6 +1,6 @@
 ---
 title: Disciple Gobletto
-revid: 207979
+revid: 210099
 source: https://deepwoken.fandom.com/wiki/Disciple_Gobletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Justicars]
@@ -37,6 +37,8 @@ Disciple Gobletto is located on [Alsin's Landing](<Alsin's_Landing.md>), standin
 
 ## Dialogue
 
+**Base Dialogue:**
+
 <table>
 <tbody>
 <tr>
@@ -62,6 +64,24 @@ Disciple Gobletto is located on [Alsin's Landing](<Alsin's_Landing.md>), standin
 </tr>
 <tr>
   <td><i>*The fellow brushes his shoulders.*</i> Ah don't worry about it. The Justicars saved me. Ever since, I've sworn to follow in Alsin's footsteps - then life's gotten a bit easier.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+This dialogue is unlocked if the player is a [Voidwalker](Voidwalker.md).
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Dude, back up.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
