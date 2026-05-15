@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 210122
+revid: 210159
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -64,7 +64,7 @@ If you aren't already at full health, gain the Respite status effect after stand
 
 ### Burn
 
-This effect can be applied on you by most notably, being hit by a [Flamecharm](Flamecharm.md) move, but there are many other burn application sources. Deals 3.33 damage with 5 Flamecharm scaling per tick, ticking 2.4 times a second. Burning opponents have their **base** passive health regeneration disabled. If an unconscious body is set on fire, they will automatically be gripped after 7 seconds if not picked up (3.5 seconds if the user who applied the fire has the Corpse Explosion Talent). Burn benefits from **general** PEN sources, such as [Strength](Attributes.md#str) or [Threser Claws](Talents.md#threser-claws).
+This effect can be applied on you by most notably, being hit by a [Flamecharm](Flamecharm.md) move, but there are many other burn application sources. Deals 3.33 damage with 5 Flamecharm scaling per tick, ticking 2.4 times a second. Burning opponents have their **base** passive health regeneration disabled. If an unconscious body is set on fire, they will automatically be gripped after 7 seconds if not picked up (3.5 seconds if the user who applied the fire has the Corpse Explosion Talent). Burn benefits from **general** PEN sources, such as [Strength](Attributes.md#str) or [Thresher Claws](Talents.md#thresher-claws).
 
 Burn will be extinguished when rolling, jumping in water/standing in rain, or sliding. When burn is extinguished, gain immunity to burn for 2 seconds. Additionally, certain objects are flammable and will glow orange when hit by a terrain-interacting [Flamecharm](Flamecharm.md) or [Thundercall](Thundercall.md) Mantra, applying burn to anyone who touches it. Signified by fire particles coming from your character.
 
