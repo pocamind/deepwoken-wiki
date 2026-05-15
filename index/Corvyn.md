@@ -1,9 +1,9 @@
 ---
 title: Corvyn
-revid: 210109
+revid: 210170
 source: https://deepwoken.fandom.com/wiki/Corvyn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Tiran NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Justicars]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Justicars]
 ---
 
 # Corvyn
@@ -11,7 +11,7 @@ categories: [Tiran NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean 
 | Corvyn | |
 |---|---|
 | name | Corvyn |
-| aspect | Tiran |
+| aspect | Canor |
 | location | Alsin's Landing |
 | affiliation | The Justicar |
 
@@ -25,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Corvyn is a [Tiran](Tiran.md) NPC.
+Corvyn is a [Canor](Canor.md) NPC.
 
 ## Location
 

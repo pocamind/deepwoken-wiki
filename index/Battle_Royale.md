@@ -1,6 +1,6 @@
 ---
 title: Battle Royale
-revid: 205141
+revid: 210164
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, StubPages, World Event]
@@ -112,3 +112,4 @@ All of the game's [Weapons](Weapons.md) can be found scattered around the map, i
 -   Battle Royale was originally only accessible to Deepwoken YouTubers during the Content Creator Royale on July 1st, 2023 and it was released to the public on August 25th, 2023 for limited-time testing.
 -   According to Agamatsu in his stream "[Official Deepwoken Youtuber Battle Royale](https://www.youtube.com/watch?v=eWXZPkM0Xpo&t=7909s)", the developers were supposedly debating whether or not to make this game mode public due to it potentially "being too much fun" and killing off the main game, thus they decided to restrict the game mode to only weekends.
 -   It is possible to steal an opponent's oath talents and/or passives if they're your first kill (and before you use any oath shards). This can be used to obtain talents like [Starkindred's](Oath%253A_Starkindred.md) Death from Above and Wings passive, while obtaining a seperate oath like [Arcwarder](Oath%253A_Arcwarder.md).
+-   Surprisingly, regalias aren't disabled in Battle Royale, meaning that characters have a small chance to obtain regalias like Ancient Soul to gain a massive advantage over anybody else early game.

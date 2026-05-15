@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 209166
+revid: 210171
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -11,7 +11,7 @@ categories: [Monsters]
 | Megalodaunt | |
 |---|---|
 | health | 900, 350 (Trial of One), 2250 (Corrupted) |
-| attacks | Slash, Kick, Jump, Roar, Thousand Needles, Finisher: Stomp |
+| attacks | Slash, Kick, Jump, Roar, Finisher: Stomp |
 | drops | Megalodaunt Hide, Mantra Modifiers, Umbral Obsidian, Megalodaunt Coral (Rare), Megalodaunt Coat (Rare) |
 | locations | Erisia, First Layer, The Aratel Sea, Using Megalodaunt Bait, The Diluvian Mechanism, Saramaed Hollow |
 | challenges | -- Megalodaunt --, Sharktooth Necklace - Slay 10.Reward: +10% DMG; +5% RES, Not So Daunting - Slay 25.Reward: +10% DMG; +5% RES, A Bigger Boat - Slay 100.Reward: +10% DMG; +5% RES |
@@ -82,19 +82,6 @@ Dodge
  |
 | 
 
-**Thousand Needles**  
-(★☆☆)
-
- | The Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second.
-
--   Lasts as long as auto-parry frames, meaning you can simply parry once to parry the whole attack.
--   There is a shorter-ranged AoE version and a longer-ranged single-target version. Both function the same.
-
- | 
-
- |
-| 
-
 **Roar**  
 (★☆☆)
 
@@ -143,7 +130,6 @@ Dodge
 
 -   Most likely the first non-humanoid enemy you will encounter as a new player. They may appear menacing but they are easily learnable.
 -   Though it may seem like they do, a Megalodaunt is not and will never use any move twice in a row; the three variants of **Slash** (single swipe, double swipe, and swipe + kick) along with **Kick** all count as their own moves, even if they are all quite visually similar. By using this to your advantage you can accurately predict the Megalodaunt's attacks.
--   Their **Thousand Needles** can be completely parried by simply tapping F once due to auto-parry frames, and it allows you to get as many hits in as a **Kick** would.
 
 ## Trivia
 

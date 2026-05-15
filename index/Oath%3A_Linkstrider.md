@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 208857
+revid: 210163
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -69,7 +69,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
         -   You need to interact with the meteor before you can teleport to them.
     -   Six meteorites can be located throughout the overworld:
         -   _Etrean Luminant:_
-            -   **Ceres** (Overlooking the path to the abandoned cabin below [Etris](Etris.md), on a black rocky outcrop)
+            -   **Ceres** (on the mountain right above the Navaen Camp in [Etris](Etris.md))
             -   **Europa** (On the top part of the rocks overlooking the entrance to [Valley of Heroes](The_Valley_of_Heroes.md), to the right.)
             -   **Fortuna** (Above [Erisor's Church](<Erisor's_Church.md>))
         -   _Eastern Luminant:_
