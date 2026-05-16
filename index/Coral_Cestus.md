@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 210234
+revid: 210337
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Alloyable Weapons, Fists, Light Weapons, Weapons with Talents]
@@ -21,7 +21,7 @@ categories: [Weapons, Weapons with Unique Criticals, Alloyable Weapons, Fists, L
 | swing speed | 1.1x |
 | attack duration | 0.5s |
 | penetration | 10% / 20% |
-| talent | Mudskipper Gripper - When executing an opponent with your critical attack, summon mudskippers to aid you in battle., Rage Amp - At 2 or more combat tags, your critical now applies anti-heal while also increasing the size and damage of your critical. This scales with the amount of combat tags you currently have. |
+| talent | Base, AlloyedMudskipper Gripper - When executing an opponent with your critical attack, summon mudskippers to aid you in battle. Rage Amp - At 2 or more combat tags, your critical now applies anti-heal while also increasing the size and damage of your critical. This scales with the amount of combat tags you currently have. |
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
@@ -41,13 +41,21 @@ The **Coral Cestus** is a Fist Light Weapon that requires 50 LHT to use and drop
 
 When [Alloyed](Pluripotent_Alloy.md), the weapon takes on a purple color, altering the weapon's stats and critical attack to make the Coral Cestus more late-game viable.
 
-## Talents: Mudskipper Gripper (Coral), Rage Amp (Broodalloy)
+## Talents
 
 Equipping the Coral Cestus grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Mudskipper Gripper** - When executing an opponent with your critical attack, summon mudskippers to aid you in battle. This Talent is exclusive to the Coral variant of the weapon.
+**Coral Cestus:**
 
-**Rage Amp -** At 2 or more combat tags, your critical now applies anti-heal while increasing the size and damage of your critical. This scales with the amount of combat tags you currently have. This talent is exclusive to the Broodalloy variant of the weapon.
+**Mudskipper Gripper** spawns two [Mudskippers](Mudskipper.md) upon executing a target with the Coral Cestus critical. These Mudskipper can be [Bloatskippers](Mudskipper.md#bloatskipper) or [Miniskippers](Mudskipper.md), chosen at random.
+
+This Talent is exclusive to the unalloyed version of the weapon.
+
+**Broodalloy Cestus:**
+
+**Rage Amp** buffs your critical attack when you have two or more combat tags, granting 100% [Anti-Heal](Status_Effects.md#anti-heal) and increasing the damage and hitbox of the attack, scaling on the amount of combat tags you have.
+
+This Talent is exclusive to the alloyed variant of the weapon.
 
 ## Critical
 

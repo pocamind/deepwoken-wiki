@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 210228
+revid: 210333
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, Alloyable Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons with Talents]
@@ -46,7 +46,7 @@ The Crescent Cleaver is a mid-game Heavy Weapon. The Crescent Cleaver is [Alloya
 
 Equipping the Crescent Cleaver grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Spinal Shatter** - Landing the Crescent Cleaver critical attack causes your opponent to be unable to sprint for 8 seconds. (10 second CD)
+**Spinal Shatter** procs when landing the Crescent Cleaver critical, applying the [Shattered Spine](Status_Effects.md#shattered-spine) status effect for 8 seconds, which removes their ability to sprint. This has a 10 second cooldown. Does not work on [Motif](Motifs.md)\-gained critical attacks.
 
 ## Critical
 

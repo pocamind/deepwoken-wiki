@@ -1,6 +1,6 @@
 ---
 title: "Moon's Eyrie"
-revid: 210120
+revid: 210326
 source: https://deepwoken.fandom.com/wiki/Moon's_Eyrie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Voidzones]
@@ -95,7 +95,7 @@ Exhaustive Loot Table
 ## Trivia
 
 -   Previously, despite being located inside the [Voidsea](Voidsea.md), the area was not considered as a [Voidzone](Voidzones.md). However, the Voidsea was changed in the December 14th, 2024 patch, causing the area to be considered a Voidzone.
--   Since the island is located within the bounds of the Voidsea, there is a chance that you'll be teleported away from it while trying to reach it.
+-   S̶i̶n̶c̶e̶ ̶t̶h̶e̶ ̶i̶s̶l̶a̶n̶d̶ ̶i̶s̶ ̶l̶o̶c̶a̶t̶e̶d̶ ̶w̶i̶t̶h̶i̶n̶ ̶t̶h̶e̶ ̶b̶o̶u̶n̶d̶s̶ ̶o̶f̶ ̶t̶h̶e̶ ̶V̶o̶i̶d̶s̶e̶a̶,̶ ̶t̶h̶e̶r̶e̶ ̶i̶s̶ ̶a̶ ̶c̶h̶a̶n̶c̶e̶ ̶t̶h̶a̶t̶ ̶y̶o̶u̶'̶l̶l̶ ̶b̶e̶ ̶t̶e̶l̶e̶p̶o̶r̶t̶e̶d̶ ̶a̶w̶a̶y̶ ̶f̶r̶o̶m̶ ̶i̶t̶ ̶w̶h̶i̶l̶e̶ ̶t̶r̶y̶i̶n̶g̶ ̶t̶o̶ ̶r̶e̶a̶c̶h̶ ̶i̶t̶.̶ As of the May 2, 2026 hotfix, the Voidsea no longer teleports you.
 -   A good place to farm for the [Astral](Astral.md) [Enchant Stone](Enchant_Stone.md) as [Moon Knights](Moon_Knight.md) have a chance to drop it.
 -   For [Pathfinders](Pathfinder.md), it is located at x: -4713, z: -13751.
 -   For [Vow of Iron](Vow_of_Iron.md), it is located at x: -9575, z: -13610

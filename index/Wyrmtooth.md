@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 210225
+revid: 210310
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", Heavy Weapons, Medium Weapons, Weapons with multiple Criticals, "Weapons with Multi-Hit Criticals", Weapons with Talents]
@@ -47,7 +47,9 @@ Whilst wielding this weapon, all [Silentheart](Oath%253A_Silentheart.md) abiliti
 
 Equipping the Wyrmtooth grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Ebb and Flow** - Landing a medium mantra increases your next heavy mantra's level by 1 and vice versa. This is stackable and can increase to a max of +5 levels. All stacks are removed if your medium/heavy mantra is defended against.
+**Ebb and Flow** procs when landing a [Medium](Attunement-less.md#medium-weapon-mantras) or [Heavy](Attunement-less.md#heavy-weapon-mantras) weapon Mantra, increasing the Mantra level of your next casted Mantra of the opposing type by +1. This can bypass the level 5 cap, and is stackable, capping at at +5 levels. If one of your Medium or Heavy Mantras get parried or blocked, all stacks will be lost. Multi-hits do not grant multiple stacks.
+
+For example, if you have a level 5 [Pressure Blast](Attunement-less.md#pressure-blast), landing [Master's Flourish](Attunement-less.md#masters-flourish) before casting Pressure Blast will increase Pressure Blast's level by +1, to 6, and vice versa.
 
 ## Critical
 

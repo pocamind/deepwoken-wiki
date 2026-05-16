@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 210243
+revid: 210328
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4321,7 +4321,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   If you are knocked during the duration of this 'bleed' effect, you will be automatically gripped.
     -   This Talent was formerly called "Bloodthirsty".
 
--   Bulwark Breaker: [Steel Maul](Steel_Maul.md) & [Saint Jay's Hammer](<Saint_Jay's_Hammer.md>) - Increase the size of your [Pressure Blast](Attunement-less.md#pressure-blast), with the last hit of it dealing increased posture damage.
+-   Bulwark Breaker: [Steel Maul](Steel_Maul.md) & [Saint Jay's Hammer](<Saint_Jay's_Hammer.md>) - Increase the size of your [Pressure Blast](Attunement-less.md#pressure-blast), with the last hit of it dealing increased posture damage. Your Pressure Blast is also now unparryable.
     
     -   The final hit of your Pressure Blast gains 3x posture damage, going from 12 to 36 posture damage.
         -   Assuming all hits hit your opponent's block, your Pressure Blast now does 60 posture damage compared to the previous 36.
@@ -4332,15 +4332,25 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Clutch Recovery: [Canor Fang](Canor_Fang.md) - When at 30% health or below, every time you land a light attack or critical hit heal 1%.
     -   Landing weapon attacks while your health is at or below 30% will heal you for 1% of your maximum health.
 
+-   Continuous Bleed: [Razor Cutlass](Razor_Cutlass.md) - Every time you land a crit, flourish or uppercut, increase the amount of [bleed](Status_Effects.md#bleed) damage you deal for 15 seconds. This is stackable.
+    -   Adds one additional bleed tick per stack, but slightly reduces the damage each bleed tick deals. This equates to an ~90% net bleed damage increase per stack.
+    -   This applies to all sources of bleed, not just Razor Cutlass' innate bleed.
+    -   Each stack is counted separately from eachother with their own durations.
+    -   Multi-hit criticals do not grant additional stacks.
+
 -   Corporeal Dissolution: [Black Death](Black_Death.md) - Applies [Wither](Status_Effects.md#wither) on any weapon attack that drains Ether, and scales on the amount of Ether drain.
     -   This is capped at 30 Wither per proc.
 
 -   Cruel Counter: [Krulian Knife](Krulian_Knife.md) - When using your initial charge up on your Krulian Knife, if you interrupt someone's attack with it apply Cruel Counter on them, massively increasing the damage they take from your critical attacks.
     -   If you interrupt someone's attack with the shock from your [Krulian Charge](Krulian_Knife.md) critical, apply the Cruel Counter status effect to your opponent, increasing all damage taken by critical attacks for 20 seconds.
     -   This grants a +40% damage modifier to all critical attacks, even if it isn't a Krulian Knife critical, and even if the critical they got hit by was used by someone else.
+    -   A weaker version of this effect is applied when your critical lands without interrupting one of their attacks.
         -   This damage modifier **bypasses** the damage modifier cap, potentially allowing for absurd critical damage output.
 
 -   Curved Edge: [Nemit's Sickle](<Nemit's_Sickle.md>) - Your [light weapon mantras](Attunement-less.md#light-weapon-mantras) now gain 60% more chip.
+
+-   Ebb and Flow: [Wyrmtooth](Wyrmtooth.md) - Landing a [medium mantra](Attunement-less.md#medium-weapon-mantras) increases your next [heavy mantra](Attunement-less.md#heavy-weapon-mantras)'s level by 1 and vice versa. This is stackable and can be increased to a max of +5 levels. All stacks are removed if your medium/heavy mantra is defended against.
+    -   This bypasses the normal Mantra level cap of 5.
 
 -   Expeditionary Evasiveness: [Inquisitor's Thorn](<Inquisitor's_Thorn.md>) - The design of this rapier allows you to much more swiftly attack in tandem with your mantras, giving Agility mantras you use +3 levels in all stats, even bypassing the level cap.
     -   [Agility Mantras](Attunement-less.md#agility-mantras) gain +3 Mantra levels. This bypasses the normal Mantra level cap of 5.
@@ -4377,6 +4387,9 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     
     -   Grants a Talent tool that grants the [Fortified](Status_Effects.md#fortified) status effect, granting 15% damage reduction at the cost of reducing your movement speed by 36%.
 
+-   Mudskipper Gripper: [Coral Cestus](Coral_Cestus.md) - When executing an opponent with your critical attack, summon [mudskippers](Mudskipper.md) to aid you in battle.
+    -   Summons two [Mudskippers](Mudskipper.md). These Mudskippers can be either [Miniskippers](Mudskipper.md) or [Bloatskippers](Mudskipper.md#bloatskipper).
+
 -   Phantom: [Withered Phantomcleave](Withered_Phantomcleave.md) - For the next 5 seconds, your next basic attack bypasses block after landing a crit. \[45 second CD\]
 
 -   Pierce Through: [Ritual Spear](Ritual_Spear.md) - Remove the autoparry frames the first hit of your base spear critical has.
@@ -4392,6 +4405,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Punishing Riposte: [Crucible Rapier](Crucible_Rapier.md) - When parrying a guardbreak, enhance your critical for the next 15 seconds. If you land your crit on your opponent's block while it is enhanced, immediately guardbreak your opponent.
     -   After parrying a guard break, gain the [Punishing Riposte](Status_Effects.md#punishing-riposte) status effect for 15 seconds, making your critical guaranteed guardbreak if it hits block.
 
+-   Rage Amp: [Broodalloy Cestus](Coral_Cestus.md) - At 2 or more combat tags, your critical now applies [anti-heal](Status_Effects.md#anti-heal) while also increasing the size and damage of your critical. This scales with the amount of combat tags you currently have.
+
 -   Rat's Spirit: [Champion's Dagger](<Champion's_Dagger.md>) - Each hit of your critical will deal an extra 10 true damage per combat tag whenever you are combat tagged by 2 or more people.
     -   Being combat tagged by 2 or more players will cause your critical attack to deal an additional 10 true damage per hit. This stacks based on how many combat tags you have, dealing a minimum of +20 true damage per hit.
 
@@ -4400,6 +4415,9 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Sable Winds: [Eyes of Ethiron](Eyes_of_Ethiron.md) - You can now Inhale Shadowcast mantras. Aftercut effects now drain a small amount of ether based on the damage they deal.
     -   Your Shadowcast Mantras now gain the damage buff and the modification transfer effect from Inhale. Additionally, you can also Inhale Shadowcast Mantras.
+
+-   Sacred Aura: [Sacred Hammer](Sacred_Hammer.md) - Landing your [Sacred Hammer](Sacred_Hammer.md) critical attack applies an [aura of protection](Status_Effects.md#sacred-aura) around you, reducing the damage you take by a flat 2.5, multiplying based on how many combat tags you currently have on you.
+    -   This effect lasts 10 seconds.
 
 -   Sacrificial Boon: [Ritual Sacrifice](Ritual_Sacrifice.md) - Sacrifice 5 knowledge to activate Blessing, giving you a random blessing from Navae.
     -   Grants a Talent tool that consumes 5 on use to grant the user a random buff within a set pool.
@@ -4429,6 +4447,9 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   [Payback](Payback.md), the Resonance, has its active counter frames increased by **0.7** seconds.
     -   Oath-based counters ([Illusory Counter](Oath%253A_Visionshaper.md#illusory-counter) and [Equalizer](Oath%253A_Contractor.md#equalizer)) **do not** have any affect with this Talent.
 
+-   Spinal Shatter: [Crescent Cleaver](Crescent_Cleaver.md) & [Alloyed Crescent Cleaver](Crescent_Cleaver.md) - Landing the [Crescent Cleaver](Crescent_Cleaver.md) critical attack causes your opponent to be unable to sprint for 8 seconds. \[10 second CD\]
+    -   Does not work if you replace the Crescent Cleaver critical with a [Motif](Motifs.md).
+
 -   Spinal Splinter: [Halberd](Halberd.md) - Landing a backstab with your critical deals 15 extra true damage.
 
 -   Static Beatdown: [Legion Cestus](Legion_Cestus.md) - The metal the cestus is made from allows electricity to be conducted easily through it, allowing you to further extend how long your opponents are stuck in shaky block based on your total Thundercall investment.
@@ -4447,8 +4468,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   True Shatter: [Coldpoint](Coldpoint.md) - Landing a critical shatters your opponent, ridding them of their speed debuffs and dealing true damage scaling off how slow they were.
     -   Deals 5 true damage per slow effect removed.
 
--   Vital Wound: [Acheron's Warspear](<Acheron's_Warspear.md>) - Uppercutting your opponent punctures their lungs, slowing their rate of posture recovery for 30 seconds.
-    -   Uppercutting your opponent applies the [Vital Wound](Status_Effects.md#vital-wound) status effect, reducing their passive posture recovery by 40% for 30 seconds.
+-   Vital Wound: [Acheron's Warspear](<Acheron's_Warspear.md>) - Uppercutting your opponent punctures their lungs, slowing their rate of posture recovery by 30% for 30 seconds.
+    -   Uppercutting your opponent applies the [Vital Wound](Status_Effects.md#vital-wound) status effect, reducing their **passive** posture recovery by 30% for 30 seconds.
     -   This has no cooldown, but cannot be reapplied to the same target once active.
 
 ## Equipment Talents
@@ -4508,6 +4529,10 @@ Certain Talents are given when a specific equipment or outfit is worn. Multiple 
 -   Breeze: [Stratos' Cloak](<Stratos'_Cloak.md>) - Gain a permanent +2 speed buff at all times.
     -   Increases your movement speed by +2 studs/s, permanently.
 
+-   Broodlord's Scream: [Broodplate Helmet](Broodplate_Helmet.md) - Using [Sing](Attunement-less.md#sing), [Taunt](Attunement-less.md#taunt), or Ardour Scream applies [anti heal](Status_Effects.md#anti-heal) for the duration of the move.
+    -   Applies 100% Anti-Heal.
+    -   These attacks gain the sound effect from the [Mudskipper Broodlord](Mudskipper_Broodlord.md) scream attack.
+
 -   Brunt: [Hive Tactician Armor](Hive_Tactician_Armor.md) - While 2-handing, you take less posture damage.
     -   Reduce posture damage taken by 10% while 2 handing a weapon (unavailable for light weapons).
 
@@ -4547,6 +4572,9 @@ Certain Talents are given when a specific equipment or outfit is worn. Multiple 
     -   Procs through parry, block and dodge with no cooldown.
     -   Duration is 5 seconds + 0.02 seconds per point of Strength, lasting 7 seconds at 100 Strength.
     -   Wrath Gems last 9 seconds with no visual indication.
+
+-   Cruentare: [Crimson Terraplate Pauldrons](Crimson_Terraplate_Pauldrons.md) - Increase the amount of all [bleed](Status_Effects.md#bleed) damage you deal by 50%. Your [Whirling Blade](Monster_Mantras.md#whirling-blade) now heals you when landing it.
+    -   Whirling Blade heals you for 25% of damage dealt.
 
 -   Demon Step: [Familiar Demon's Armor](<Familiar_Demon's_Armor.md>) - Activate to gain brief iframes while moving forward. This requires 50 ether to activate and increases your posture by 20% each use.
     -   On use, lose 50 Ether to travel a short distance forwards in iframes. Additionally, 20% of your current posture will be dealt to you as self-posture damage.
@@ -4846,6 +4874,11 @@ Certain Talents are given when a specific equipment or outfit is worn. Multiple 
 -   Temple Guard: [Monastery Champion Robes](Monastery_Champion_Robes.md) - For the first 0.3s of your Critical Attack's windup, you take 90% less damage from any attacks that cancel your windup.
 
 -   Tenacity: [Ossified Barrel Helm](Ossified_Barrel_Helm.md) & [Hardened Barrel Helm](Hardened_Barrel_Helm.md) - Greatly shorten the amount of time you are guardbroken for.
+
+-   Terrapod Tracer: [Terraplate Pauldrons](Terraplate_Pauldrons.md) - Deal 0.5% of our opponent's health to opponents who heal off you.
+    -   Though not mentioned in the description, this only applies while the target is affected by [Anti-Heal](Status_Effects.md#anti-heal). Any potency of Anti-Heal works.
+    -   Opponents who attempt to heal off you (e.g. with [Bloodless Gems](Bloodless_Gem.md)) while affected by Anti-Heal take 0.5% of their maximum health as damage.
+    -   This has a 0.5 second cooldown.
 
 -   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) & [Mod Suit](Mod_Suit.md) - Your [Jus Karita](Jus_Karita.md) attacks deal 15% more damage.
     -   Only grants a 10% damage buff, the Talent was nerfed but the description was never changed.

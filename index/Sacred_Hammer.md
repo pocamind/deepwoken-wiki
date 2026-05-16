@@ -1,6 +1,6 @@
 ---
 title: Sacred Hammer
-revid: 210199
+revid: 210331
 source: https://deepwoken.fandom.com/wiki/Sacred_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons, Weapons with Talents]
@@ -44,7 +44,7 @@ The **Sacred Hammer** is a bulky medium blunt hammer. It can be considered the e
 
 Equipping the Sacred Hammer grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Sacred Aura** grants the [Sacred Aura](Status_Effects.md#sacred-aura) status effect to yourself for a few seconds after landing a weapon critical. This reduces damage taken by 2.5 (flat), multiplied by the amount of combat tags you currently have.
+**Sacred Aura** grants the [Sacred Aura](Status_Effects.md#sacred-aura) status effect to yourself for 10 seconds after landing a weapon critical. This reduces damage taken by 2.5 (flat), multiplied by the amount of combat tags you currently have.
 
 ## Critical
 
