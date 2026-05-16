@@ -1,6 +1,6 @@
 ---
 title: "Acheron's Warspear"
-revid: 202689
+revid: 210208
 source: https://deepwoken.fandom.com/wiki/Acheron's_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Drops, Medium Weapons, Weapons with Talents]
@@ -20,14 +20,14 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | swing speed | 0.93x |
 | attack duration | 0.7s |
 | penetration | 15% |
-| talent | Vital Wound - Uppercutting your opponent punctures their lungs, slowing their rate of posture recovery for 30 seconds. |
+| talent | Vital Wound - Uppercutting your opponent punctures their lungs, slowing their rate of posture recovery by 30% for 30 seconds. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Iron Spear |
 | m.compatible | Spears |
 | stances | 2 Handed, 1 Handed |
 | rarity | Rare |
-| selling price | ? |
+| selling price | 25 |
 | weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
@@ -44,7 +44,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 
 Equipping the Acheron's Warspear grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Vital Wound** procs when uppercutting your opponent, applying the [Vital Wound](Status_Effects.md#vital-wound) status effect. This status effects decreases their passive posture recovery by 40% for the next 30 seconds.
+**Vital Wound** procs when uppercutting your opponent, applying the [Vital Wound](Status_Effects.md#vital-wound) status effect. This status effects decreases their passive posture recovery by 30% for the next 30 seconds.
 
 This has no cooldown, but it cannot be reapplied to the same target once active.
 

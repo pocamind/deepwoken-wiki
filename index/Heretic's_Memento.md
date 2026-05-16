@@ -1,6 +1,6 @@
 ---
 title: "Heretic's Memento"
-revid: 209674
+revid: 210194
 source: https://deepwoken.fandom.com/wiki/Heretic's_Memento
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, World Event, Outfits with Talents, "Outfits with Non-exclusive Talents"]
@@ -42,7 +42,7 @@ This Outfit has 2000 durability and grants +25% Physical resistance ResistanceBl
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 32.5% Blunt ResistanceBlunt, 25% Slash ResistanceSlash, 43.75% Ironsing [ResistanceIronsing](Ironsing.md), 28.75% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
-This Outfit grants the [Underdog](Talents.md#underdog) Talent, granting you a 2% damage buff against opponents who have more current health than you and a 10% damage buff against non-humanoid monsters. The damage buff against targets with more current health than you scales on your Willpower investment, up to +4% damage at 60 Willpower.
+This Outfit grants the **Overflow** Talent, Doubling the tempo recieved when landing light attacks.
 
 ## Trivia
 

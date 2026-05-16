@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 209663
+revid: 210205
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1895,7 +1895,7 @@ Slash ResistanceSlash
 -   Dazes opponents on hit.
 -   Ragdolls and lightly flings opponents away.
 -   Has Autoparry frames.
--   Wielding the [Steel Maul](Steel_Maul.md) or [Saint Jay's Hammer](<Saint_Jay's_Hammer.md>) will increase the AoE of this Mantra greatly. Additionally, the final hit of Pressure Blast will deal 3x posture damage on these weapons, dealing 36 posture damage instead of the default 12.
+-   Wielding the [Steel Maul](Steel_Maul.md) or [Saint Jay's Hammer](<Saint_Jay's_Hammer.md>) will increase the AoE of this Mantra greatly. Additionally, the final hit of Pressure Blast will deal 3x posture damage on these weapons, dealing 36 posture damage instead of the default 12. Additionally, while weilding these weapons, this Mantra will become **unparryable**.
 
  |
 | 

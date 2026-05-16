@@ -1,6 +1,6 @@
 ---
 title: Skyreap Blade
-revid: 208745
+revid: 210222
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Greataxes, Event Item, Hallowtide, Heavy Weapons]
@@ -50,6 +50,5 @@ This critical will end early if any hit is parried or if the first hit whiffs en
 
 ## Trivia
 
--   Mentions the "Edenkite" in the description, which is a species referenced in the book Lumen's Folklore: Volume 'North' that existed in the cold, desolate, Northern Luminant.
 -   Skyreap Blade is the first [Hallowtide](Hallowtide.md) '22 weapon to get a unique critical, with it's critical releasing over two years after the weapon's initial release.
 -   Skyreap Blade was previously the only weapon that had a unique running attack animation until the [Imperial Staff](Imperial_Staff.md) was added.

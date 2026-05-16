@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 210159
+revid: 210209
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -158,7 +158,7 @@ Eating certain [food](Food.md) items can provide the user with useful buffs. The
 -   Power: +5% M1 damage; _"A hearty meal that'll empower your melee strikes!"_ Applied by consuming the [Glazed Fish](Glazed_Fish.md), [Megurger](Megurger.md), [Mushroom Omelette](Mushroom_Omelette.md), or [Toffee](Toffee.md).
 -   Enchant: +5% Mantra damage; _"An energising meal that'll empower your mantras!"_ Applied by consuming the [Candied Fruit](Candied_Fruit.md) or [Fish Omelette](Fish_Omelette.md).
 -   Speed: +5% sprint speed; _"A complex meal that'll get you moving!"_ Applied by consuming the [Cake](Cake.md).
--   Ether: Increases Ether regeneration; _"An aromatic meal to cultivate your focus!"_ Applied by consuming the [Sticky Bun](Sticky_Bun.md).
+-   Ether: +20% Ether regeneration; _"An aromatic meal to cultivate your focus!"_ Applied by consuming the [Sticky Bun](Sticky_Bun.md).
 -   Heal: Adds 17.5% of your base health regeneration on top of your current health regeneration; _"A soothing meal to recover your strength!"_ Applied by consuming the [Candy Suncorn](Candy_Suncorn.md), [Crab Stuffed Browncaps](Crab_Stuffed_Browncaps.md), [Fruit Salad](Fruit_Salad.md), or [Pumpkin Pie](Pumpkin_Pie.md).
 -   Full: Lowers passive hunger loss by 10%; _"A filling meal to keep you fed for longer!"_ Applied by consuming the [Candy](Candy.md) or [Seafood Boil](Seafood_Boil.md).
 -   Brain: Increases the effectiveness or efficiency of your [Deep Gems](Deep_Gems.md); _"A strange meat that empowers your Deep Gem knowledge."_ Applied by consuming the [Grilled Parasol Brain](Grilled_Parasol_Brain.md).
@@ -458,7 +458,7 @@ After parrying any guardbreak attack with the [Crucible Rapier](Crucible_Rapier.
 
 ### Vital Wound
 
-Upon being uppercutted by someone wielding the [Acheron's Warspear](<Acheron's_Warspear.md>), your passive posture recovery will be reduced by 40% for the next 30 seconds. This cannot be reapplied to the same target once active.
+Upon being uppercutted by someone wielding the [Acheron's Warspear](<Acheron's_Warspear.md>), your passive posture recovery will be reduced by 30% for the next 30 seconds. This cannot be reapplied to the same target once active.
 
 ### Expeditious Combo
 

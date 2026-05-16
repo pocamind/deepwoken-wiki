@@ -1,6 +1,6 @@
 ---
 title: Duskguard Axe
-revid: 203781
+revid: 210187
 source: https://deepwoken.fandom.com/wiki/Duskguard_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greataxes, Heavy Weapons, Weapons of The Central Authority, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals]
@@ -28,10 +28,10 @@ categories: [Weapons, Criticals with M1 tag, Greataxes, Heavy Weapons, Weapons o
 | rarity | Mythical |
 | selling price | 100 |
 | weight | 2 |
-| bankable | Only if enchanted |
+| bankable | No |
 | droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Sentinel Augustus (Shock Corps Division of the Authority Ensign Origin exclusive) |
 | description | A mighty axe, held by the most esteemed of the Authority. Its weight and striking force deliver utterly brutal blows through the teeth of its foes. |
 

@@ -1,6 +1,6 @@
 ---
 title: Ring of Pestilence
-revid: 199168
+revid: 210177
 source: https://deepwoken.fandom.com/wiki/Ring_of_Pestilence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -28,7 +28,7 @@ categories: [Equipment, Rings]
 
 **Ring Of Pestilence** is a Ring [Equipment](Equipment.md) piece, that applies 50% anti-heal status for 10 seconds to your opponents after hitting them with an M1 or critical attack.
 
-If you have the [All the Dead Gods](Talents.md#all-the-dead-gods) Talent, your All the Dead Gods anti-heal duration will be increased by 4 seconds for having this ring equipped.
+If you have the [All the Dead Gods](Talents.md#all-the-dead-gods) Talent, your All the Dead Gods anti-heal duration will be increased by 4 seconds for having this ring equipped. Similarly, any Anti-Heal that is innately applied via a weapon critical (e.g. [Umbrite Witherblade](Umbrite_Witherblade.md)) has its Anti-Heal duration increased by 20% while wearing this ring.
 
 ## Trivia
 

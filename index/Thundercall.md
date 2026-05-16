@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 209520
+revid: 210176
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -24,7 +24,7 @@ Thundercall makes use of a highly unpredictable nature due to its speed and high
 
 ## Obtainment
 
-The [Attunement Trainer](Attunement_Trainers.md), [Funke](Funke,_Master_of_Thunder.md), can be located in one of the rooms on the upper level of the [Summer Isle castle](Summer_Isle.md#the-castle). When speaking to him, he will request five (5) [Spark Glands](Spark_Gland.md). If you have obtained Thundercall previously on your account, he will request two (2) Spark Glands instead. Once you give him the Spark Glands, he will hand you the [Sparkblood Potion](Attunement_Potions.md); drink this to obtain Thundercall. Alternatively, you can simply pick the Random option when selecting your Attunement in the character creation screen, this has a chance of unlocking Thundercall without you needing to unlock it yourself. If you don't get it the first time, you can just wipe and retry until you get it. This works for all other Attunements as well (excluding [Shadowcast](Shadowcast.md), [Ironsing](Ironsing.md) and [Bloodrend](Bloodrend.md)).
+The [Sparkblood](Attunement_Potions.md) Potion can be obtained by giving [Funke](Funke,_Master_of_Thunder.md), the Thundercall trainer located inside the [Summer Isle Castle](Summer_Isle.md#the-castle) two [Spark Glands](Spark_Gland.md). Alternatively, you can simply select Thundercall as your starting Attunement in Character Creation.
 
 ## Training
 

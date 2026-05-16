@@ -1,9 +1,9 @@
 ---
 title: Necrotic Cowl
-revid: 209351
+revid: 210217
 source: https://deepwoken.fandom.com/wiki/Necrotic_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Craftable, Equipment, Equipment with Set Bonuses, Head Equipment]
+categories: [Pathfinder Exclusive, Craftable, Equipment, Equipment with Set Bonuses, Head]
 ---
 
 # Necrotic Cowl

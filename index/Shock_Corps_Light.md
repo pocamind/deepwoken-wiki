@@ -1,6 +1,6 @@
 ---
 title: Shock Corps Light
-revid: 209702
+revid: 210182
 source: https://deepwoken.fandom.com/wiki/Shock_Corps_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Outfits of The Central Authority, Outfits with Talents, Outfits with Exclusive Talents, Outfits with Variants]
@@ -47,5 +47,4 @@ The [Battle-Hardened](Talents.md#battle-hardened) Talent grants 20% damage reduc
 
 ## Trivia
 
--   Because this Outfit is immediately equipped upon joining the Shock Corps Division without you _learning_ the schematic, if you craft any other Outfit, this Outfit will be lost permanently.
 -   Similarly to [Hive Adjudicator](Hive_Adjudicator.md), During 2025's Hallowtide, this outfit became temporarily obtainable from [Glaive Spellhardt](Glaive_Spellhardt.md)'s Master Schematic gacha alongside [Inquisition Light](Inquisition_Light.md). This was fixed after a week though the few who obtained and learned this schematic were allowed to keep it.

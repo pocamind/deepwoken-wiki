@@ -1,12 +1,11 @@
 ---
 title: Chest Master
-revid: 198566
+revid: 210206
 source: https://deepwoken.fandom.com/wiki/Chest_Master
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Mechanics]
+categories: [Felinor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Mechanics]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Chest Master

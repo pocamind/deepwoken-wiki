@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 209537
+revid: 210173
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -30,7 +30,7 @@ Cantrips are, often minor, passive abilities that are granted upon obtaining any
 
 ## Obtainment
 
-The Attunement can be unlocked by using a [Glassblood Potion](Attunement_Potions.md) obtained from the [Attunement Trainer](Attunement_Trainers.md), [Nell](Nell,_Master_of_Frost.md), located in [Etris](Etris.md) at the end of a path to the right of the Guild Hall inside a hut, using 5 [Frigid Prisms](Frigid_Prism.md) (2 if already obtained). Alternatively, you can simply pick the Random option when selecting your Attunement in the character creation screen, this has a chance of unlocking Frostdraw without you needing to unlock it yourself. If you don't get it the first time, you can just wipe and retry until you get it. This works for all other Attunements as well (excluding [Shadowcast](Shadowcast.md), [Ironsing](Ironsing.md) and [Bloodrend](Bloodrend.md)).
+The Attunement can be unlocked by using a [Glassblood Potion](Attunement_Potions.md) obtained by giving [Nell](Nell,_Master_of_Frost.md), the Frostdraw trainer at [Etris](Etris.md), two [Frigid Prisms](Frigid_Prism.md). Nell is located in a small house to the right of the Etris Guild Hall. Alternatively, you can simply pick Frostdraw as your starting Attunement in Character Creation.
 
 ## Training
 

@@ -1,6 +1,6 @@
 ---
 title: Dissonant Chimecaller
-revid: 208663
+revid: 210186
 source: https://deepwoken.fandom.com/wiki/Dissonant_Chimecaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Greathammers, Weapons with Unique Criticals, Heavy Weapons, Weapons with Unique Animations]
@@ -22,7 +22,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons wi
 | attack duration | 0.9s |
 | endlag | 0.1s |
 | penetration | 10% |
-| talent | Ancient Metalwork - Your critical hit can channel the effects of your Ironsing Rods and disrupt the resonances of others, disabling them for 25 seconds. |
+| talent | Ancient Metalwork - Your critical hit can channel the effects of your Ironsing Rods and disrupt the resonances of others, disabling them for 15 seconds. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
@@ -44,13 +44,13 @@ The Dissonant Chimecaller is a [Greathammer](Greathammers.md) weapon in the Heav
 
 Equipping the Dissonant Chimecaller grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Ancient Metalwork** puts your opponent's [Resonance](Resonance.md) on a 25 second cooldown on hit.
+**Ancient Metalwork** puts your opponent's [Resonance](Resonance.md) on a 15 second cooldown on hit.
 
 ## Critical
 
 The user reels the staff with a [red telegraph](Combat_Mechanics.md#red) before swinging forth, summoning a large bell that applies an [Ironsing](Ironsing.md) rod towards the target. The bell can **autogrip** the target if they are knocked or at low health. The bell deals ~1.8x scaled damage.
 
-The critical has a cooldown of **7 seconds**.
+The critical has a cooldown of **15 seconds**.
 
 ## Trivia
 

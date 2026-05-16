@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 207833
+revid: 210178
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Craftable, Medium Weapons, Relics, Relic Weapon]
@@ -68,6 +68,7 @@ The cooldown for this critical is **8** seconds.
 -   While equipped, the Umbrite Witherblade will emit heartbeats as well as an incomprehensible whisper followed by an ominous noise that resembles a car engine.
     -   The heartbeats of the weapon are noticeably faster than that of the the Dormant Splinter.
 -   Umbrite Witherblade's appearance is extremely similar to a weapon shown in the anime _Overlord_, specifically in the fourth season.[\[1\]](#cite-note-1)
+-   Wearing a [Ring of Pestilence](Ring_of_Pestilence.md) will increase the Anti-Heal duration on the weapon critical from 10 seconds to 12.
 
 ## References
 

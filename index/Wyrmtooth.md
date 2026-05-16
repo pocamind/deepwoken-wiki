@@ -1,9 +1,9 @@
 ---
 title: Wyrmtooth
-revid: 203859
+revid: 210225
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Swords, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", Heavy Weapons, Medium Weapons, Weapons with multiple Criticals, "Weapons with Multi-Hit Criticals"]
+categories: [Pages with broken file links, Weapons, Swords, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", Heavy Weapons, Medium Weapons, Weapons with multiple Criticals, "Weapons with Multi-Hit Criticals", Weapons with Talents]
 ---
 
 # Wyrmtooth
@@ -21,6 +21,7 @@ categories: [Pages with broken file links, Weapons, Swords, Greatswords, Weapons
 | attack duration | 0.8s |
 | endlag | 0.1s |
 | penetration | 25% |
+| talent | Ebb and Flow - Landing a medium mantra increases your next heavy mantra's level by 1 and vice versa. This is stackable and can increase to a max of +5 levels. All stacks are removed if your medium/heavy mantra is defended against. |
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
@@ -41,6 +42,12 @@ The **Wyrmtooth** is a sword that drops from bosses and endgame events like the 
 The Wyrmtooth boasts a massive 9 range and an above average weight of 7; it can reliably outrange the majority of light and medium melee weapons and, paired with its decently high swing speed, allows you to maintain pressure on your opponents while remaining relatively safe.
 
 Whilst wielding this weapon, all [Silentheart](Oath%253A_Silentheart.md) abilities receive a **50% damage debuff**.[\[1\]](#cite-note-1)
+
+## Talent: Ebb and Flow
+
+Equipping the Wyrmtooth grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+**Ebb and Flow** - Landing a medium mantra increases your next heavy mantra's level by 1 and vice versa. This is stackable and can increase to a max of +5 levels. All stacks are removed if your medium/heavy mantra is defended against.
 
 ## Critical
 

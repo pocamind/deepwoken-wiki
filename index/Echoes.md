@@ -1,12 +1,17 @@
 ---
 title: Echoes
-revid: 207656
+revid: 210251
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Echoes, Character, Mechanics, Creation, Features absent in Vow of Iron]
 ---
 
 # Echoes
+
+| Echoes | |
+|---|---|
+| usage | Echo Upgrades, Echo Unlocks, Pass down Soulbound or Enchants |
+| obtainment | Wiping with Echo Triumphs |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

@@ -1,6 +1,6 @@
 ---
 title: Union Initiate
-revid: 207350
+revid: 210184
 source: https://deepwoken.fandom.com/wiki/Union_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Outfits, Starter Outfits, The Ignition Union]
@@ -43,7 +43,6 @@ The additional Carry Load allows [Ignition Delver](Ignition_Delver.md) players t
 
 ## Trivia
 
--   Because this Outfit is immediately equipped upon spawning with the [Ignition Delver](Ignition_Delver.md) Origin, without you _learning_ the schematic, if you craft any other Outfit, this Outfit will be lost permanently.
 -   The Union Initiate is near identical to the [Ignition Union Uniform](Ignition_Union_Uniform.md). Having **SLIGHTLY** darker pants.
 -   When it first released, it was automatically learned for all players and was droppable from chests in [Saramaed Hollow](Saramaed_Hollow.md) and [Scyphozia](First_Layer.md). This was later fixed in a shadow update.
     -   All characters who had crafted this Outfit prior to it being fixed kept it.

@@ -1,6 +1,6 @@
 ---
 title: Sancticar
-revid: 209531
+revid: 210210
 source: https://deepwoken.fandom.com/wiki/Sancticar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons, Weapons with Talents]
@@ -12,7 +12,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 |---|---|
 | type | Staff |
 | damage type | Blunt |
-| requirements | N/A |
+| requirements | 50 MED, Origin: Justicar |
 | damage | 19.5 |
 | scaling | MED: 6.5 |
 | posture damage | 6 |
@@ -22,6 +22,8 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | penetration | 15% |
 | talent | Both Ends - Pressing M2 after landing a light attack with the staff performs a follow-up swing from the opposite end. |
 | stances | 2 Handed, 1 Handed |
+| rarity | Mythical |
+| selling price | 100 |
 | weight | 2 |
 | bankable | No |
 | droppable | No |

@@ -1,6 +1,6 @@
 ---
 title: The Floating Keep
-revid: 194121
+revid: 210200
 source: https://deepwoken.fandom.com/wiki/The_Floating_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Locations, Hallowtide]
@@ -113,4 +113,4 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 -   This location appears in the Battle Royale mode as an "intermission" before the game starts, but there are no Lightborn NPCs
 -   On October 17, 2023 there used to be a floating gate above the castle. However, it was presumably removed during one of the bug fix updates following the release of Hallowtide.
     -   For some reason, the floating gate is back in Hallowtide 2024, it's unknown if it will get removed yet.
--   There is currently a bugged version of the Keep in some servers, only accessible by gliding from a high point. In this bugged state, some interactables, like the wells, stop working, and [Lysander Spellhardt](Lysander_Spellhardt.md) is replaced with one of Vow of Iron's [Chest Masters](Chest_Master.md). This is currently the only Chest Master accessible outside of VOI.
+-   There was a bugged version of the Floating Keep in certain servers where if someone with [Lightborn](Lightborn.md) in the [Vow of Iron](Vow_of_Iron.md) joined in [Pathfinder](Pathfinder.md) it would spawn the Keep, only accessible by gliding from a high point or with Ad Astra. In this bugged state, some interactables, like the wells, stop working, and [Lysander Spellhardt](Lysander_Spellhardt.md) is replaced with one of [Vow of Iron](Vow_of_Iron.md)'s [Chest Masters](Chest_Master.md). This was the only [Chest Master](Chest_Master.md) accessible outside of [Vow of Iron](Vow_of_Iron.md).

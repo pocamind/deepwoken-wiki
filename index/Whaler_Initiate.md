@@ -1,6 +1,6 @@
 ---
 title: Whaler Initiate
-revid: 207351
+revid: 210183
 source: https://deepwoken.fandom.com/wiki/Whaler_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Outfits, Starter Outfits, The Knives of Eylis]
@@ -44,6 +44,5 @@ This Outfit has 1500 durability, grants +15% Physical resistance ResistanceBlunt
 
 ## Trivia
 
--   Because this Outfit is immediately equipped upon spawning with the [Voidwalker](Voidwalker.md) Origin, without you _learning_ the schematic, if you craft any other Outfit, this Outfit will be lost permanently.
 -   The Outfit's appearance is the old version of the [Whaler Coat](Whaler_Coat.md) Outfit.
 -   The Outfit is near identical to [Volke](https://fireemblem.fandom.com/wiki/Volke)'s outfit from _Fire Emblem: Radiant Dawn_.

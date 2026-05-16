@@ -1,6 +1,6 @@
 ---
 title: Stranded
-revid: 206458
+revid: 210185
 source: https://deepwoken.fandom.com/wiki/Stranded
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits]
@@ -36,6 +36,4 @@ This Outfit has 0 durability and grants absolutely no effects to the player. Str
 ## Trivia
 
 -   Sometimes wearing Stranded will display as you having 100% armor durability despite Stranded not having any durability.
--   Because this Outfit is immediately equipped upon spawning with the **Stranded** or [Lone Warrior](Lone_Warrior.md) Origins, without you _learning_ the schematic, if you craft any other Outfit, this Outfit will be lost permanently.
--   The Stranded Outfit is removed from the Blacksmith's shop once it is unequipped.
 -   The Outfit appears to be a severely tattered version of the Brown [Traveller's Jacket](<Traveller's_Jacket.md>).

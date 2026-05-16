@@ -1,9 +1,9 @@
 ---
 title: Razor Cutlass
-revid: 202903
+revid: 210224
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Ingredients]
+categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Ingredients, Weapons with Talents]
 ---
 
 # Razor Cutlass
@@ -21,6 +21,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Ingredients
 | attack duration | 0.7s |
 | penetration | 25% |
 | chip damage | 10% |
+| talent | Continuous Bleed - Every time you land a crit, flourish or uppercut, increase the amount of bleed damage you deal for 15 seconds. This is stackable. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Sword |
@@ -43,6 +44,12 @@ The Razor Cutlass is a rare [Medium Weapon](Weapons.md#medium-weapons) primarily
 Being a medium weapons that deals bleed on top of its normal attacks, the Razor Cutlass is effective at dealing very high damage with the [bleed](Status_Effects.md#bleed) effect and good PEN.
 
 It may be crafted into an [Umbrite Witherblade](Umbrite_Witherblade.md) with 3 [Umbrite](Ores.md#umbrite), a [Dormant Splinter](Dormant_Splinter.md) and itself in [The Cold Forge](The_Cold_Forge.md).
+
+## Talent: Continuous Bleed
+
+Equipping the Razor Cutlass grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+**Continuous Bleed -** Every time you land a crit, flourish or uppercut, increase the amount of bleed damage you deal for 15 seconds. This is stackable.
 
 ## Critical
 

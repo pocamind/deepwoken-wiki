@@ -1,6 +1,6 @@
 ---
 title: Inquisition Light
-revid: 209701
+revid: 210181
 source: https://deepwoken.fandom.com/wiki/Inquisition_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Outfits of The Central Authority, Outfits with Talents, Outfits with Exclusive Talents, Outfits with Variants]
@@ -47,5 +47,4 @@ The [Lethal Dose](Talents.md#lethal-dose) Talent doubles the duration of the Poi
 
 ## Trivia
 
--   Because this Outfit is immediately equipped upon joining the Inquisition Division without you _learning_ the schematic, **if you craft any other Outfit, this Outfit will be lost permanently**.
 -   Similarly to [Hive Adjudicator](Hive_Adjudicator.md), During 2025's Hallowtide, this outfit became temporarily obtainable from [Glaive Spellhardt](Glaive_Spellhardt.md)'s Master Schematic gacha alongside [Shock Corps Light](Shock_Corps_Light.md). This was fixed after a week though the few who obtained and learned this schematic were allowed to keep it.
