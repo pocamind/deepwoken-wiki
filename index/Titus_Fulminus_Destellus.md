@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 209552
+revid: 210292
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions, Humanoids with Unobtainable Outfits]
@@ -74,8 +74,14 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
 
  | Titus winds up with both arms and smashes them into the ground, causing three consecutive shockwaves that send players high into the air.
 
--   This attack can easily be avoided by jumping.
+-   This attack must be avoided by jumping.
 -   Titus is most likely to follow up with Warp Kick if landed, which can be very problematic if you're ragdolled.
+
+_Uses Telegraph_
+
+[JumpTelegraph](Combat_Mechanics.md#white)
+
+Jump
 
  | 
 
@@ -135,6 +141,12 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
 
 -   This move may be used twice or more.
 
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
+
  | 
 
  |
@@ -162,6 +174,12 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
 -   This move can be easily avoided by jumping.
 -   Titus will only use this move in his second phase.
 
+_Uses Telegraph_
+
+[JumpTelegraph](Combat_Mechanics.md#white)
+
+Jump
+
  | 
 
  |
@@ -176,6 +194,12 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
 -   This move may be used twice or more, and is more dangerous as the player will be constantly ragdolled and Dazed.
 -   This move is technically dodgeable, however, it is only possible at the very last moments of the attack. It's advised to block the attack instead.
 
+_Uses Telegraph_
+
+[BlockTelegraph](Combat_Mechanics.md#blue)
+
+Block
+
  | 
 
  |
@@ -188,6 +212,12 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
 
 -   Titus will only use this move in his second phase.
 -   This move is easy to avoid if you run back or dash back.
+
+_Uses Telegraph_
+
+[AvoidTelegraph](Combat_Mechanics.md#skull)
+
+Avoid
 
  | 
 
@@ -204,6 +234,12 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
 -   These beams are combined with the [Wind-Up](Wind-Up.md) blasts per hit, making this move **very deadly**.
 -   While he is winding up, it is best to start running or getting to higher levels to avoid the beams.
 -   You can easily counter this by using prediction.
+
+_Uses Telegraph_
+
+[AvoidTelegraph](Combat_Mechanics.md#skull)
+
+Avoid
 
  | 
 

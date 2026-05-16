@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 209943
+revid: 210274
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -529,7 +529,7 @@ Some Monster attacks with this indicator are parryable with [Force Your Way](Ign
 
 **Boss Attacks**
 
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Chorus Divide: Shattering Crescendo
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Warp Kick
 -   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Rime-Rise
 
  |
@@ -604,6 +604,7 @@ Attacks with this indicator can be jumped over.
 -   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Shogun's Brutality
 -   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Champion's Quake, Altitude Swipes, Crossrend Cryocleave
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Stonelife Quake, Tempest Kick
+-   [Titus Fulminus Destellus:](Titus_Fulminus_Destellus.md) Wrathful Stomp, World Piercing Deluge
 
  |
 | 
@@ -648,6 +649,7 @@ Some of these attacks have unique mechanics regarding how/if they can be avoided
 -   [Heart of Enmity](Heart_of_Enmity.md): Event Horizon
 -   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Altitude Swipes, Champion's Quake
 -   [Knell, The Lunatic Resonator](Knell,_The_Lunatic_Resonator.md): Carilion Call
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Chorus Divide: Shattering Crescendo
 
  |
 

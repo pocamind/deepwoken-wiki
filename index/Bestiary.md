@@ -1,6 +1,6 @@
 ---
 title: Bestiary
-revid: 207680
+revid: 210280
 source: https://deepwoken.fandom.com/wiki/Bestiary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -68,7 +68,7 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
   </ul></div></td>
 </tr>
 <tr>
-  <td><a href="Bone_Keeper.md">Bonekeeper</a></td>
+  <td rowspan="2"><a href="Bone_Keeper.md">Bonekeeper</a></td>
   <td>Bonekeeper Slayer I, Bonekeeper Slayer II, Bonekeeper Slayer III
   <ul>
     <li>Slay 10, 25, and 100 <a href="Bone_Keeper.md">Bonekeepers</a></li>
@@ -77,6 +77,23 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
   <ul>
     <li>Total 15% damage and 7.5% resistance</li>
   </ul></td>
+</tr>
+<tr>
+  <td colspan="2">Additional flavor text is unlocked upon completing each task:<div>
+  <ul>
+    <li><b>Bonekeeper Slayer I</b>:
+  <ul>
+    <li><i>Sometimes thought of as the brutish cousins of the Kyrsans, they appear to have once been utilised as heavy labourers within Kyrsan civilisation.</i></li>
+  </ul></li>
+    <li><b>Bonekeeper Slayer II</b>:
+  <ul>
+    <li><i>The shaped bone and hardened carapace that forms their hands are of an unnatural form, especially considering the more conventional anatomy of the rest of their body. These features are shared with Kyrsans, though their exact relation is unclear.</i></li>
+  </ul></li>
+    <li><b>Bonekeeper Slayer III</b>:
+  <ul>
+    <li><i>Prying off the bone that plates the back of a Bonekeeper's neck reveals a thin membrane that appears to expose the spinal canal. Its function is a mystery, though curiously in Kyrsan anatomy would line up with the point from which their coil emerges.</i></li>
+  </ul></li>
+  </ul></div></td>
 </tr>
 <tr>
   <td><a href="Bounder.md">Bounder</a></td>
@@ -174,7 +191,7 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
   </ul></td>
 </tr>
 <tr>
-  <td><a href="Kyrsgarde.md">Kyrsgarde</a></td>
+  <td rowspan="2"><a href="Kyrsgarde.md">Kyrsgarde</a></td>
   <td>Guardians of Kyrsa, Mortal Coil, Eternal Rest
   <ul>
     <li>Slay 10, 25, and 100 Kyrsgarde of any <a href="Kyrsgarde_(disambiguation).md">variant</a></li>
@@ -183,6 +200,23 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
   <ul>
     <li>Total 15% damage and 7.5% resistance</li>
   </ul></td>
+</tr>
+<tr>
+  <td colspan="2">Additional flavor text is unlocked upon completing each task:<div>
+  <ul>
+    <li><b>Guardians of Kyrsa</b>:
+  <ul>
+    <li><i>Kyrsans are capable of utilising the Song through an art that greatly resembles Frostdrawing though with a level of precision and a durability that far exceed it.</i></li>
+  </ul></li>
+    <li><b>Mortal Coil</b>:
+  <ul>
+    <li><i>The nervous system of Kyrsans stems from their coil, itself something akin to a wound helix of neurons.</i></li>
+  </ul></li>
+    <li><b>Eternal Rest</b>:
+  <ul>
+    <li><i>Kyrsan morphology from the neck down does not appear to share the same biological origin as their coil. Indeed, with the exception of their neuroanatomical features, their body shares much in common with Bonekeepers.</i></li>
+  </ul></li>
+  </ul></div></td>
 </tr>
 <tr>
   <td><a href="Lionfish.md">Lionfish</a></td>

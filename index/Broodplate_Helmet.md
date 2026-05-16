@@ -1,6 +1,6 @@
 ---
 title: Broodplate Helmet
-revid: 210235
+revid: 210271
 source: https://deepwoken.fandom.com/wiki/Broodplate_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Craftable]
@@ -17,7 +17,7 @@ categories: [Equipment, Head, Helmets, Craftable]
 | innate talent | Broodlord's Scream |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Crafting 5 Grudgeroot + 5 Indichite + 1 Broodalloy Cestus |
 | description | ... |

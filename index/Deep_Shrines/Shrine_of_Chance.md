@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Chance
-revid: 198215
+revid: 210290
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Chance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Vendors, NPCs, Mechanics]
@@ -46,6 +46,10 @@ Shrine of Chance
   <td><center><figure><figcaption></figcaption></figure>10 <a href="../Knowledge.md">KnowledgeLargeNew</a><div>Knowledge</div></center></td>
   <td><div>Talent Elevation</div><div><i>Exchange a Common Talent for a hand of Rare Talents.</i></div></td>
 </tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>5 <a href="../Knowledge.md">KnowledgeLargeNew</a><div>Knowledge</div></center></td>
+  <td><div>Faction Exchange</div><div><i>Exchange a Faction Talent for a hand of Faction Talents.</i></div></td>
+</tr>
 </tbody>
 </table>
 
@@ -55,7 +59,8 @@ Shrine of Chance
     -   You can exchange a Common Talent for an Advanced Talent and vice versa via **Talent Exchange**.
     -   You can exchange a Common or Advanced Talent for a Rare via **Talent Elevation**.
     -   You can exchange a Rare Talent and potentially receive a Talent hand that has both Common and Advanced Talents via **Talent Degradation**.
--   You **cannot** exchange Faction Talents
+-   You can exchange a Faction Talents a hand of Faction Talents.
+    -   Players exiled from the [Authority Ensign](../Authority_Ensign.md) Origin are unable to reroll their faction Talents.
 -   The Talent Draw is affected by Talent Favoring and Foretelling, make sure to use them to not waste Knowledge.
 -   You must meet the requirements at least one non-mutually exclusive Talent in order to exchange a Talent for another.
     -   For example, if the only Rare Talents you can obtain are Observation and Safety Dance, you will not be able to exchange Risky Moves for them, however if you also meet the requirements of (but don't already own) Cheap Shot, then you will be able to exchange Risky Moves for either of the Leaf in the Wind Talents.

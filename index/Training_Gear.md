@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 199425
+revid: 210286
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Attributes, Attunement, Training Gear]
@@ -18,7 +18,7 @@ They can be found in different [Gear Cabinets](Training_Gear.md) around Lumen, e
 
 Most of the attribute training gears are self explanatory, though some training gears have their own quirks to bear in mind.
 
--   **Boulder** is a convenient way to upgrade your [Fortitude](Attributes.md#ftd). You can keep using it while having no [experience](Leveling.md) as well, as long as you have enough health. **Though beware: You can die if you use it while having no health.** It also trains [Strength](Attributes.md#str) alongside this.
+-   **Boulder** is a convenient way to simultaneously increase Attributes under "Body". You can keep using it while having no [experience](Leveling.md) as well, as long as you have enough health. **Though beware: You can die if you use it while having no health.**
 -   **Training Vest**, after equipping it, will only work if someone hits you. Boulder is recommended over Training Vest because of this reason.
 -   **[How to Make Friends](How_to_Make_Friends.md)** can be trained by clicking the words around the screen. You don't necessarily have to type to use this.
 -   **Encyclopedia** is useful for those who are too lazy to do the minigames of [How to Make Friends](How_to_Make_Friends.md) or Math Textbook. Although the downside of this is that it takes a long time to use it once, making it slower to use. You train both Intelligence and Charisma with this.
@@ -40,22 +40,20 @@ Attempting to train an attribute may display a certain message, hinting at somet
 | **Attribute** | **Item Name** | **In-Game Description** | **Uses** | **Picture** |
 | --- | --- | --- | --- | --- |
 | 
+**Body**
+
+ | Boulder | Train your Body by hefting a boulder above you. | _200 uses_ | 
+
+A boulder being held up to train
+
+ |
+| 
+
 **Strength**
 
  | Dumbbell | Train your Strength by pumping iron. | _200 uses_ | 
 
 A held dumbell
-
- |
-| 
-
-**Strength**/
-
-**Fortitude**
-
- | Boulder | Train your Fortitude by hefting a boulder above you. | _200 uses_ | 
-
-A boulder being held up to train
 
  |
 | 
@@ -78,9 +76,9 @@ Ankle weights being worn
  |
 | 
 
-**Intelligence**
+**Mind**
 
- | Math Textbook | Train your Intelligence through study. | _200 uses_ | 
+ | Math Textbook | Train your Mind through study. | _200 uses_ | 
 
 A math textbook being held
 
@@ -98,7 +96,11 @@ An encyclopedia being held
  |
 | 
 
-**Willpower**
+**Willpower**/
+
+**Intelligence**/
+
+**Charisma**
 
  | Prayer Beads | Train your Willpower through meditation. | _100 uses_ | 
 
@@ -124,7 +126,7 @@ A how to make friends book being held
 
 **Weapons**
 
- | Weapon Manual | Used to reinforce your weapon training and improve your attributes. | _100 uses_ | 
+ | [Weapon Manual](Weapon_Manual.md) | Run through a training exercise to hone your weapon handling. | Infinite | 
 
 A weapon manual being held
 

@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 203318
+revid: 210284
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mantras, Mechanics, Attunement]
@@ -49,7 +49,7 @@ Attunement Mantras can be upgraded at their respective [Spelltrainers](Attunemen
 
 ## Base Attunements
 
-Attunements unlocked on spawn. These attunements can all be unlocked as starting attunements for future characters by choosing the "Random" option in the character creation, then wiping and doing it again.
+Attunements unlocked on spawn.
 
 [Attunement-less](Attunement-less.md)
 
@@ -175,3 +175,4 @@ Note: All of the icons above are undoubtedly official representations of their b
 -   In the 25th of October Update, "ELE" and "LFE" were added to the attunement portion of the build exporter.
     -   The next day, "ELE" was changed to "BLD".
 -   The message that appears when training an attunement, "The elements are not in alignment..." is a hint relating to obtaining the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md) and will persist unless you meet the attunement stat requirements for it, which, unless you go out of your way to meet them with the intent to obtain Saintsworn, you most likely won't.
+-   A method to previously unlock attunements as a new player was to select the "Random" option in [Character Creation](Character_Creation.md), and then wiping the slot until all four base attunements were unlocked.

@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 210251
+revid: 210283
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Echoes, Character, Mechanics, Creation, Features absent in Vow of Iron]
@@ -325,6 +325,11 @@ There are 11 upgrades and 15 unlocks to purchase. Each upgrade can be purchased 
 <tr>
   <td><b>Starter Weapon: Greatsword</b></td>
   <td>Allows you to select the <a href="Avenger.md">Avenger</a> as a Starting Weapon.</td>
+  <td>25 Echoes</td>
+</tr>
+<tr>
+  <td><b>Starter Weapon: Bow</b></td>
+  <td>Allows you to select the <a href="Ironcry.md">Ironcry</a> as a Starting Weapon.</td>
   <td>25 Echoes</td>
 </tr>
 <tr>

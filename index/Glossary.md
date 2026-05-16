@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 208870
+revid: 210281
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -23,7 +23,7 @@ The Glossary can be accessed anytime by clicking on the Encyclopedia button at t
 ### Aeod, the Waking God
 
 -   An entity spoken of by [Lightkeepers](#lightkeep).
--   The Unspoken [Vow](#vows) of [Lightkeeping](#lightkeep) is tied to Aeod, who may have something to do with its origins.
+-   The [Unspoken Vow](#unspoken-vow) of [Lightkeeping](#lightkeep) is tied to Aeod, who may have something to do with its origins.
 
 Dialogue: Interacting with a Lightkeep entry after activating the [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) Talent | Books: | Glossary Entries: [Lightkeep](#lightkeep)
 
@@ -472,6 +472,13 @@ Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Celes
 
 Dialogue: [Funke](Funke,_Master_of_Thunder.md), [Neero](Neero.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>) | Glossary Entries:
 
+### Unspoken Vow
+
+-   Though only a theory, an Unspoken Vow is thought to be a [Vow](#vows) enacted without conscious intent.
+-   A chilling prospect indeed, that one may be party to a [Vow](#vows) without even realising it. Many have dismissed it as a paradox, or the productive of an overly active imagination.
+
+Dialogue: | Books: | Glossary Entries: [Aeod, the Waking God](#aeod-the-waking-god)
+
 ### Vows
 
 -   Within [Lumen](#lumen), and indeed everywhere beyond it, it is a self-evident fact that words, oaths, and promises spoken from the heart hold within them a supernatural force.
@@ -480,7 +487,7 @@ Dialogue: [Funke](Funke,_Master_of_Thunder.md), [Neero](Neero.md) | Books: [Lume
 -   Vows are poorly understood by the people of the [Resurgence](#the-resurgence), but are still a fundamental part of their daily lives.
 -   Vows do not have to be made with others, and can even be made with oneself. Indeed, the powerful magic of an [Oath](#oaths) is facilitated by such a Vow.
 
-Dialogue: [Adrofalis](Adrofalis.md), [Delta](Delta.md), [Eiris](Eiris.md), [Lance's Brother](<Lance's_Brother.md>), [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md), [Samael](Samael.md), [Sordino](Sordino.md), [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) | Books: [Jericho's Journal](<Jericho's_Journal.md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Aeod, the Waking God](#aeod-the-waking-god), [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [Lifeweave / Lifewoven](#lifeweave--lifewoven), [Oaths](#oaths), [The Drowned City of Celtor](#the-drowned-city-of-celtor), [The Old Stewards](#the-old-stewards)
+Dialogue: [Adrofalis](Adrofalis.md), [Delta](Delta.md), [Eiris](Eiris.md), [Lance's Brother](<Lance's_Brother.md>), [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md), [Samael](Samael.md), [Sordino](Sordino.md), [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) | Books: [Jericho's Journal](<Jericho's_Journal.md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [Lifeweave / Lifewoven](#lifeweave--lifewoven), [Oaths](#oaths), [The Drowned City of Celtor](#the-drowned-city-of-celtor), [The Old Stewards](#the-old-stewards), [Unspoken Vow](#unspoken-vow)
 
 -   Steward Bridges posited in his work 'Vows by the Sea: Inheritance' that the [Aspects](#aspects) of [Lumen](#lumen) may be the result of a [Hereditary Vow](#hereditary-vow).
 

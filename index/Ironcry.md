@@ -1,6 +1,6 @@
 ---
 title: Ironcry
-revid: 210197
+revid: 210301
 source: https://deepwoken.fandom.com/wiki/Ironcry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Bows, Medium Weapons, Echoes]
@@ -12,7 +12,7 @@ categories: [Pathfinder Exclusive, Weapons, Bows, Medium Weapons, Echoes]
 |---|---|
 | type | Bow |
 | damage type | Slash |
-| requirements | N/A |
+| requirements | None |
 | damage | 15 |
 | scaling | MED: 6.5 |
 | posture damage | 4 |

@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Flame"
-revid: 207055
+revid: 210268
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Medium Weapons, Hero Blades]
@@ -54,3 +54,4 @@ The critical has a cooldown of **10 seconds**.
     -   Jace tells the player about Flamecharm being a gift and a curse at the same time in his respective [Saintsworn Obelisk](Saintsworn_Obelisks.md).
 
 -   The runes on the blade once deciphered say "I, JACE, ONE PIECE OF A FIVE POINTED STAR, GIVE MY BRIGHTEST FLAMES TO THIS BLADE FIVE WE PLEDGE OUR SOUL LET WIELDER BLADE HEED OUR CALL BEAR THIS TORCH BEYOND OUR FALL"
+-   Attempting to use this Hero Blade with the Silent Heart Oath gives the dialogue: "The Hero of Flame, Jace, looks upon you with burning judgement and rejects your very soul."

@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 179352
+revid: 210287
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Mechanics]
@@ -47,7 +47,7 @@ Some foods fill a portion of your Hunger bar with a different color, known as Re
 -   _"A hearty meal that'll empower your melee strikes!"_ The Power buff increases the user's melee damage. (5% M1 damage buff)
 -   _"An energising meal that'll empower your mantras!"_ The Enchant buff increases the user's mantra damage. (5% mantra damage buff)
 -   _"A complex meal that'll get you moving!"_ The Speed buff increases your sprinting speed. (5% running speed buff)
--   _"An aromatic meal to cultivate your focus!"_ The Ether buff increases the user's ether regeneration speed. (Doesn't work as of 2/26/25)
+-   _"An aromatic meal to cultivate your focus!"_ The Ether buff increases the user's ether regeneration speed. (1.2x Ether regeneration)
 -   _"A soothing meal to recover your strength!"_ The Heal buff increases the user's health regeneration speed. (17.5% of your base regen added on top of your current health regen)
 -   _"A filling meal to keep you fed for longer!"_ The Full buff significantly decreases the user's starvation speed. (10% reduced natural hunger loss)
 -   _"A strange meat that empowers your Deep Gem knowledge."_ The Brain buff enhances the effect of your [Deep Gems](Deep_Gems.md):

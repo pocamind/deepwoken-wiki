@@ -1,6 +1,6 @@
 ---
 title: Wooden Staff
-revid: 208529
+revid: 210302
 source: https://deepwoken.fandom.com/wiki/Wooden_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons, Weapons with Talents]
@@ -12,7 +12,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 |---|---|
 | type | Staff |
 | damage type | Blunt |
-| requirements | N/A |
+| requirements | None |
 | damage | 16 |
 | scaling | MED: 5 |
 | posture damage | 6 |

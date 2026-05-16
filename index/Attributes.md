@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 201457
+revid: 210288
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -23,9 +23,9 @@ The total attribute points that have been made available to you based on if your
 Attributes window
 
 -   Strength → _use the **[Dumbbell](Training_Gear.md#attribute-training-gears)**_
--   Fortitude → _take damage with the **[Training Vest](Training_Gear.md#attribute-training-gears)**/carry the **[Boulder](Training_Gear.md#attribute-training-gears)**_
+-   Fortitude → _take damage with the **[Training Vest](Training_Gear.md#attribute-training-gears)**_
 -   Agility → use _the **[Ankle Weights](Training_Gear.md#attribute-training-gears)**_
--   Intelligence → _complete problems in the **[Math Textbook](Training_Gear.md#attribute-training-gears)**/use the **[Encyclopedia](Training_Gear.md#attribute-training-gears)**_
+-   Intelligence → _use the **[Encyclopedia](Training_Gear.md#attribute-training-gears)**_
 -   Willpower → _use the **[Prayer Beads](Training_Gear.md#attribute-training-gears)**_
 -   Charisma → _recite the_ **[How to Make Friends](How_to_Make_Friends.md)** _book/play an **[Instrument](Instruments.md)** (requires nearby audience)_
 
@@ -44,8 +44,10 @@ You can have a maximum of 330 points on a character at [Power](Power.md) 20 (+1 
 Body **(BDY)** and Mind **(MND)** are categories for the Core Attributes. Talents, weapon requirements, and weapon scaling can be based off your Mind or Body stat rather than scaling directly on the individual Attributes, leading to much more stat diversity in a build.
 
 -   Strength, Fortitude, and Agility are **Body** attributes.
+-   Body → _carry the **[Boulder](Training_Gear.md#attribute-training-gears)**_
     -   Your Body stat is based off the highest invested attribute in the Body category. For example if you have 50 Strength, 35 Fortitude, and 25 Agility, your Body stat will be 50.
 -   Intelligence, Willpower, and Charisma are **Mind** attributes.
+-   Mind → _solve problems in the **[Math Textbook](Training_Gear.md#attribute-training-gears)**_
     -   Your Mind stat is based off the highest invested attribute in the Mind category. For example, if you have 0 Intelligence, 25 Willpower, and 50 Charisma, your Mind stat will be 50.
 
 ### Strength (STR)

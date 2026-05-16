@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 196541
+revid: 210285
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes, Mechanics]
@@ -26,9 +26,7 @@ _(For more information about [Aspects](Aspects.md))_
 
 ## Attunements
 
-Upon your first character customization, you can either choose up to two [Attunements](Attunements.md) out of four available ones ([Flamecharm](Flamecharm.md), [Frostdraw](Frostdraw.md), [Thundercall](Thundercall.md) and [Galebreathe](Galebreathe.md)) or you can choose the option "[None](Attunement-less.md)" to start the game without an Attunement, which grants you non-elemental Mantras and 10 free trainings. If you can't make up your mind you can also select Random. These attunements are your starter attunements and you only keep the ones you picked, excluding None and Random, which you keep either way, but the others can be obtained by conventional methods. Another way to cheese getting all the starter attunements is to keep on selecting random and wiping to get all of them
-
-To obtain the [Shadowcast](Shadowcast.md), [Bloodrend](Bloodrend.md), and [Ironsing](Ironsing.md) Attunements, you need to unlock them each with their own specific quest. Once unlocked, it will save on your slot as a permanent progression among all your characters on that account, and will be selectable as an Attunement option for future character slots.
+Upon your first character customization, you can either choose up to two [Attunements](Attunements.md) out of four available ones ([Flamecharm](Flamecharm.md), [Frostdraw](Frostdraw.md), [Thundercall](Thundercall.md) and [Galebreathe](Galebreathe.md)) or you can choose the option "[None](Attunement-less.md)" to start the game without an Attunement, which grants you non-elemental Mantras and 10 free trainings. If you can't make up your mind you can also select Random.
 
 [Attunement-less](Attunement-less.md)
 
@@ -62,7 +60,7 @@ To obtain the [Shadowcast](Shadowcast.md), [Bloodrend](Bloodrend.md), and [Irons
 
 ### Obtainable Attunements
 
-Attunements requiring the completion of a quest to obtain and cannot be cheesed by selecting random
+To obtain the [Shadowcast](Shadowcast.md), [Bloodrend](Bloodrend.md), and [Ironsing](Ironsing.md) Attunements, you need to unlock them each with their own specific quest. Once unlocked, it will save on your slot as a permanent progression among all your characters on that account, and will be selectable as an Attunement option for future character slots.
 
 [Shadowcast](Shadowcast.md)
 

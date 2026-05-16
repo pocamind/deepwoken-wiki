@@ -1,6 +1,6 @@
 ---
 title: Terrapod Shell
-revid: 210236
+revid: 210276
 source: https://deepwoken.fandom.com/wiki/Terrapod_Shell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
@@ -16,7 +16,7 @@ categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
 | type | Ingredient |
 | rarity | Rare |
 | bankable | Yes, (it costs 1 to unbank) |
-| droppable | Yes |
+| droppable | No |
 | pass down | No |
 | desc | A shell fragment of a Terrapod. |
 | obtainment | Direct drop:, Terrapod, Crimson Terrapod |
