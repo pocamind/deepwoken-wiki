@@ -1,6 +1,6 @@
 ---
 title: Gladiator Pauldrons
-revid: 202464
+revid: 210348
 source: https://deepwoken.fandom.com/wiki/Gladiator_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -13,9 +13,9 @@ categories: [Equipment, Arms, Pauldrons]
 | type | Arms |
 | rarity | Uncommon |
 | selling price | 14 |
-| requirements | PWR 5 |
+| requirements | Power 5 |
 | weight | 2 |
-| innate stats | +3 Health, +1 Posture, +1 Rare Pip |
+| innate stats | +3 Health , +1 Posture , +1 Rare Pip |
 | innate talent | N/A |
 | set | Gladiator Helm, Gladiator Pauldrons |
 | set talent | N/A |

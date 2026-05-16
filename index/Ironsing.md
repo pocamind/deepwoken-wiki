@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 208503
+revid: 210365
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -981,6 +981,7 @@ N/A
 -   Regenerates 2/4/6/8/10% armor per level on proc
 -   Applies Metal Rod on vents.
 -   Can be modified with Aeon/Eternal Logstones to increase duration.
+-   Does not effect Natural Armour
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Goldleaf Helm
-revid: 201560
+revid: 210351
 source: https://deepwoken.fandom.com/wiki/Goldleaf_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -14,7 +14,7 @@ categories: [Equipment, Head, Helmets]
 | rarity | Rare |
 | selling price | 25 |
 | weight | 1 |
-| innate stats | +5 Health, +1 Rare Pip |
+| innate stats | +5 Health , +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

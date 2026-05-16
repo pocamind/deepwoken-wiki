@@ -1,9 +1,9 @@
 ---
 title: Glassdancer Wraps
-revid: 209598
+revid: 210349
 source: https://deepwoken.fandom.com/wiki/Glassdancer_Wraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Wraps]
+categories: [Equipment, Arms, Wraps, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Glassdancer Wraps
@@ -13,9 +13,9 @@ categories: [Equipment, Arms, Wraps]
 | type | Arms |
 | rarity | Uncommon |
 | selling price | 25 |
-| requirements | PWR 8 |
+| requirements | Power 8 |
 | weight | 2 |
-| innate stats | +2 Health+3 Posture, +1 Rare Pip |
+| innate stats | +2 Health +3 Posture , +1 Rare Pip |
 | innate talent | Lightweight |
 | bankable | Yes |
 | droppable | Yes |
@@ -33,5 +33,3 @@ The [Lightweight](Talents.md#lightweight) Talent grants a +25% movement speed in
 ## Trivia
 
 -   Considered one of the best early and mid-game arms equipment.
--   Used to give 10 Health, but was reduced to 7 as the intended use was posture.
--   Other Gloves: [Leather Gloves](Leather_Gloves.md), [Smith's Gloves](<Smith's_Gloves.md>), [Moonseye Gauntlets](Moonseye_Gauntlets.md)

@@ -1,9 +1,9 @@
 ---
 title: Gale Enhanced Earrings
-revid: 208920
+revid: 210341
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Ears, Craftable]
+categories: [Equipment, Ears, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Gale Enhanced Earrings
@@ -12,8 +12,8 @@ categories: [Equipment, Ears, Craftable]
 |---|---|
 | type | Ears |
 | rarity | Rare |
-| selling price | ? |
-| requirements | LVL 5 |
+| selling price | 25 |
+| requirements | Power 5 |
 | weight | 0.1 |
 | innate stats | +1 Common Pip, +1 Rare Pip |
 | innate talent | Way of the Wind |

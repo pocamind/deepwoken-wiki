@@ -1,9 +1,9 @@
 ---
 title: Grand Fisher Plate
-revid: 207138
+revid: 210355
 source: https://deepwoken.fandom.com/wiki/Grand_Fisher_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Plates, The Divers]
+categories: [Equipment, Arms, Plates, The Divers, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Grand Fisher Plate
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Plates, The Divers]
 | type | Arms |
 | rarity | Mythical |
 | selling price | 100 |
-| requirements | LVL 13 |
+| requirements | Power 13 |
 | weight | 2 |
 | innate stats | +10 Health , +1 Posture , +3 Legendary Pips |
 | innate talent | Diver's Resilience |
@@ -43,6 +43,4 @@ The [Diver's Resilience](Talents.md#divers-resilience) Talent allows the player 
 -   The Grand Fisher set was made as the winner for the 2nd Official Equipment Concept Art Contest, won by TU5SK, making it one of the first community made armor sets in the game.
     -   Some of the inspiration for this armor comes from the character Sajin Komamura from the anime Bleach. This is directly referenced in the concept art. It may also be based on the [Arcwarder](Oath%253A_Arcwarder.md) Oath.
 -   Due to the high innate stats of this armor, the Grand Fisher Plate is one of the best in the game, able to have up to 47 HP if Drowned and 37 without Enchantments.
-    -   It has the same stats as a [Diver's Light Plate](<Diver's_Light_Plate.md>), but without a [Hell Mode](Hell_Mode.md) requirement and having a lower Fortitude requirement, and is comparatively much easier to obtain.
--   The discovery of the obtainment method for this set is credited to [StarPhil29](https://www.youtube.com/@StarPhil29) by Agamatsu.
--   Despite not being a soulbounded equip it is unable to be dropped.
+    -   It has the same stats as a [Diver's Light Plate](<Diver's_Light_Plate.md>), but is comparatively easier to obtain.

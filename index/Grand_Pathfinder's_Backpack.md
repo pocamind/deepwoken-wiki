@@ -1,9 +1,9 @@
 ---
 title: "Grand Pathfinder's Backpack"
-revid: 208306
+revid: 210356
 source: https://deepwoken.fandom.com/wiki/Grand_Pathfinder's_Backpack
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Torso, Backpack]
+categories: [Equipment, Torso, Backpack, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Grand Pathfinder's Backpack
@@ -13,7 +13,7 @@ categories: [Equipment, Torso, Backpack]
 | type | Torso |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | LVL 5 |
+| requirements | Power 5 |
 | weight | 0.5 |
 | innate stats | +50 Carry Load +2 Rare Pips |
 | innate talent | Robber Baron |

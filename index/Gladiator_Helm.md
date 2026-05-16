@@ -1,9 +1,9 @@
 ---
 title: Gladiator Helm
-revid: 209609
+revid: 210347
 source: https://deepwoken.fandom.com/wiki/Gladiator_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Helmets]
+categories: [Equipment, Head, Helmets, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Gladiator Helm
@@ -13,9 +13,9 @@ categories: [Equipment, Head, Helmets]
 | type | Head |
 | rarity | Uncommon |
 | selling price | 14 |
-| requirements | PWR 8 |
+| requirements | Power 8 |
 | weight | 1 |
-| innate stats | +5 Health, +2 Posture, +1 Rare Pip |
+| innate stats | +5 Health , +2 Posture , +1 Rare Pip |
 | innate talent | Concussive Force |
 | set | Gladiator Helm, Gladiator Pauldrons |
 | set talent | N/A |

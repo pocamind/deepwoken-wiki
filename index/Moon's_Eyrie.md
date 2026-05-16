@@ -1,6 +1,6 @@
 ---
 title: "Moon's Eyrie"
-revid: 210326
+revid: 210371
 source: https://deepwoken.fandom.com/wiki/Moon's_Eyrie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Voidzones]
@@ -61,7 +61,7 @@ Exhaustive Loot Table
   <td>
   <ul>
     <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a></li>
-    <li><b>Legendary Weapons</b>: <a href="Fractine.md"><font>Fractine</font></a>, <a href="Soulthorn.md"><font>Soulthorn</font></a></li>
+    <li><b>Legendary Weapons</b>: <a href="Fractine.md"><font>Fractine</font></a>, <a href="Soulthorn.md"><font>Soulthorn</font></a>, <a href="Nocturne.md">Nocturne</a></li>
     <li><b>Alloyed Weapons</b>: <a href="Cavalry_Saber.md">Alloyed Cavalry Saber</a>, <a href="Dawnshot.md">Alloyed Dawnshot</a>, <a href="Katana.md">Alloyed Katana</a>, <a href="Officer_Saber.md">Alloyed Officer Saber</a></li>
     <li><b>Generic Weapons</b>:
   <ol>
@@ -85,7 +85,7 @@ Exhaustive Loot Table
     <li><a href="Equipment.md#rings"><b>Rings</b></a>:
   <ol>
     <li><b>Legendary Rings</b>: <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a></li>
-    <li><b>Generic Rings</b>: <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>, <a href="Ring_of_Wisps.md">Ring of Wisps</a></li>
+    <li><b>Generic Rings</b>: <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>, <a href="Ring_of_Wisps.md">Ring of Wisps</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Windmill_Ring.md">Windmill ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Cluth Ring</a></li>
   </ol></li>
   </ul></td>
 </tr>

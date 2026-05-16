@@ -1,9 +1,9 @@
 ---
 title: Gale Boots
-revid: 195473
+revid: 210339
 source: https://deepwoken.fandom.com/wiki/Gale_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Legs, Boots]
+categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
 ---
 
 # Gale Boots
@@ -15,7 +15,7 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Boots]
 | selling price | 7 |
 | requirements | N/A |
 | weight | 1 |
-| innate stats | +2 Health, +1 Rare Pip |
+| innate stats | +2 Health , +1 Rare Pip |
 | innate talent | Wind Step, Gale Boots |
 | bankable | No |
 | droppable | No |
