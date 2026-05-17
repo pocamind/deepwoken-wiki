@@ -1,6 +1,6 @@
 ---
 title: "Moon's Eyrie"
-revid: 210371
+revid: 210374
 source: https://deepwoken.fandom.com/wiki/Moon's_Eyrie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Voidzones]
@@ -61,7 +61,7 @@ Exhaustive Loot Table
   <td>
   <ul>
     <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a></li>
-    <li><b>Legendary Weapons</b>: <a href="Fractine.md"><font>Fractine</font></a>, <a href="Soulthorn.md"><font>Soulthorn</font></a>, <a href="Nocturne.md">Nocturne</a></li>
+    <li><b>Legendary Weapons</b>: <a href="Fractine.md"><font>Fractine</font></a>, <a href="Soulthorn.md"><font>Soulthorn</font></a>, <a href="Nocturne.md"><font>Nocturne</font></a></li>
     <li><b>Alloyed Weapons</b>: <a href="Cavalry_Saber.md">Alloyed Cavalry Saber</a>, <a href="Dawnshot.md">Alloyed Dawnshot</a>, <a href="Katana.md">Alloyed Katana</a>, <a href="Officer_Saber.md">Alloyed Officer Saber</a></li>
     <li><b>Generic Weapons</b>:
   <ol>
@@ -85,7 +85,7 @@ Exhaustive Loot Table
     <li><a href="Equipment.md#rings"><b>Rings</b></a>:
   <ol>
     <li><b>Legendary Rings</b>: <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a></li>
-    <li><b>Generic Rings</b>: <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>, <a href="Ring_of_Wisps.md">Ring of Wisps</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Windmill_Ring.md">Windmill ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Cluth Ring</a></li>
+    <li><b>Generic Rings</b>: <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>, <a href="Ring_of_Wisps.md">Ring of Wisps</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Windmill_Ring.md">Windmill ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Cluth Ring</a>, <a href="Ring_of_Curses.md">Ring Of Curses</a>, <a href="Ring_of_Casters.md">Ring Of Casters</a></li>
   </ol></li>
   </ul></td>
 </tr>
@@ -95,7 +95,6 @@ Exhaustive Loot Table
 ## Trivia
 
 -   Previously, despite being located inside the [Voidsea](Voidsea.md), the area was not considered as a [Voidzone](Voidzones.md). However, the Voidsea was changed in the December 14th, 2024 patch, causing the area to be considered a Voidzone.
--   S̶i̶n̶c̶e̶ ̶t̶h̶e̶ ̶i̶s̶l̶a̶n̶d̶ ̶i̶s̶ ̶l̶o̶c̶a̶t̶e̶d̶ ̶w̶i̶t̶h̶i̶n̶ ̶t̶h̶e̶ ̶b̶o̶u̶n̶d̶s̶ ̶o̶f̶ ̶t̶h̶e̶ ̶V̶o̶i̶d̶s̶e̶a̶,̶ ̶t̶h̶e̶r̶e̶ ̶i̶s̶ ̶a̶ ̶c̶h̶a̶n̶c̶e̶ ̶t̶h̶a̶t̶ ̶y̶o̶u̶'̶l̶l̶ ̶b̶e̶ ̶t̶e̶l̶e̶p̶o̶r̶t̶e̶d̶ ̶a̶w̶a̶y̶ ̶f̶r̶o̶m̶ ̶i̶t̶ ̶w̶h̶i̶l̶e̶ ̶t̶r̶y̶i̶n̶g̶ ̶t̶o̶ ̶r̶e̶a̶c̶h̶ ̶i̶t̶.̶ As of the May 2, 2026 hotfix, the Voidsea no longer teleports you.
 -   A good place to farm for the [Astral](Astral.md) [Enchant Stone](Enchant_Stone.md) as [Moon Knights](Moon_Knight.md) have a chance to drop it.
 -   For [Pathfinders](Pathfinder.md), it is located at x: -4713, z: -13751.
 -   For [Vow of Iron](Vow_of_Iron.md), it is located at x: -9575, z: -13610
