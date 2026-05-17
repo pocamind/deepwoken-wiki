@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 208707
+revid: 210410
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Territory of The Central Authority]
@@ -91,6 +91,7 @@ A large towering prison branching off the main island and into the ocean.
 -   Players will be sent to **execution** here, instantly sending them to the [First Layer](First_Layer.md).
     -   Many parts of cells can be broken, allowing escape.
 -   Heavily guarded by [Authority Peacekeepers](Authority_Peacekeeper.md) up and down the tower.
+-   See [Escaping Jail](#escaping-jail) for more details.
 
 ### [The Three Cheers](The_Three_Cheers.md)
 

@@ -1,6 +1,6 @@
 ---
 title: Ignition Delver
-revid: 209117
+revid: 210408
 source: https://deepwoken.fandom.com/wiki/Ignition_Delver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Origins, The Ignition Union, Character]
@@ -27,6 +27,9 @@ Ignition Delvers are those who work under the Ignition Union, doing odd jobs for
 To obtain the Ignition Delver Origin, the player must do one of the following:
 
 -   Save [Epsi](Epsi.md) in [Floor 1](Second_Layer/The_Ethironal_Shrine.md) of the [Second Layer](Second_Layer.md) of [the Depths](The_Depths.md) and report to [Alpha](Alpha.md) afterwards.
+
+OR
+
 -   Complete the [Summer Goons](Orion.md) quest and return to Orion.
 
 ## Spawn

@@ -1,6 +1,6 @@
 ---
 title: Ironcry
-revid: 210301
+revid: 210400
 source: https://deepwoken.fandom.com/wiki/Ironcry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Bows, Medium Weapons, Echoes]
@@ -19,6 +19,7 @@ categories: [Pathfinder Exclusive, Weapons, Bows, Medium Weapons, Echoes]
 | range | 12.5 Lunge |
 | swing speed | 0.97x |
 | attack duration | 0.6s |
+| penetration | 10% |
 | m.equip | Yes |
 | m.extract | No |
 | stances | 2 Handed |

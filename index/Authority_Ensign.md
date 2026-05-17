@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 209794
+revid: 210405
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -27,6 +27,9 @@ Authority Ensigns are, as the name implies, ensigns or soldiers of [The Central 
 To obtain the Authority Ensign Origin, the player must do one of the following:
 
 -   Reach maximum reputation with [The Central Authority](The_Central_Authority.md).
+
+OR
+
 -   Defeat [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
 
 If your reputation is already maxed with the Central Authority and you do not have this Origin yet, commit a crime to lower your reputation and then do an event to raise it again.
@@ -37,11 +40,21 @@ Members of the Authority Ensign spawn at [Port Merit](Port_Merit.md) with the [A
 
 ## Effects
 
-Your guild will be automatically set to The Central Authority on that character, allying you with all members of the same Origin. Your guild will reset back to normal if you wipe or get Exiled from the Authority. Your guild being changed is somewhat only a visual change; while you won't be able to use the [Chime of Dwelling](Chime_of_Dwelling.md), if you claim a [Guild Banner](Guild_Banners.md), it will still be under your Guild. You can also still interact with all of your Guild Base NPCs and respawn at your [Guild Base](Guild_Bases.md).
+Your [Guild](Guilds.md) will be automatically set to **The Central Authority** on that character, allying you with all members of the same Origin, which allows you use the shout feature (by starting your messages with !) to talk to all fellow Ensigns server wide. Your guild will reset back to normal if you wipe or get Exiled from the Authority.
 
-After ranking up once, you gain the ability to jail players. If you manually grip a player, they will be imprisoned at [Fort Merit](Fort_Merit.md). This does not kill them (no life lost and no loot dropped), however, they'll be scheduled for execution in 5 minutes, drowning them and sending them to [The Depths](The_Depths.md) if they did not manage to escape. Visit the [Escaping Jail](Fort_Merit.md#escaping-jail) page for a more detailed description.
+Your guild being changed is somewhat only a visual change; while you **won't** be able to use the [Chime of Dwelling](Chime_of_Dwelling.md), which is a major downside if you are already in a guild, if you claim a [Guild Banner](Guild_Banners.md), it will still be under your Guild. You can also still interact with all of your Guild Base NPCs and respawn at your [Guild Base](Guild_Bases.md) if someone else places it down.
 
-Gain the Salute [Emote](Emotes.md). All Ensigns will have an Authority insignia above their head to signify their rank, though your own insignia will be invisible to you. Most Authority-related equipments and weapons can be equipped without meeting their normal requirements, without any penalty. You also cannot raise your [Reputation](Reputation.md) with [Etrea](Etrea.md) or [The Children of Navae](The_Children_of_Navae.md). All of this shall be removed upon being [Exiled](#exile).
+After ranking up once, you gain the ability to jail players. If you manually grip a player, they will be imprisoned at [Fort Merit](Fort_Merit.md) and you will gain 80 points. This does not kill them (no life lost and no loot dropped), however, they'll be scheduled for execution in 5 minutes, drowning them and sending them to [The Depths](The_Depths.md) if they did not manage to escape. Visit the [Escaping Jail](Fort_Merit.md#escaping-jail) page for a more detailed description.
+
+Most **Authority-related equipments and weapons** can be equipped without meeting their normal requirements, without any penalty aside from (somewhat minor) effects such as damage scaling, which is a **major** benefit. Although you can automatically wear [Outfits](Outfits.md) given to you from promotions, you **cannot** craft any non-Authority outfit to wear on your own, for [transmogging](Transmogrification.md) or otherwise, which is a **major** downside.
+
+All Ensigns will have an Authority insignia above their head to signify their rank, though your own insignia will be invisible to you.
+
+All of the previously mentioned neutral, beneficial, or detrimental effects or otherwise shall be removed upon being [Exiled](#exile).
+
+### Salute
+
+Gain the Salute [Emote](Emotes.md).
 
 ### Horn of Authority
 
@@ -53,11 +66,37 @@ On the top left of your screen, next to the Help button, there will be an Author
 
 Being in a Squad allows you to take on the Missions as a group and proc certain Authority Ensign Talents. This feature is highly recommended, especially at lower levels, as the enemies from Missions will often outnumber you and they do not have anti-gank AI.
 
+### Reputation Issues
+
+As you are affiliated with and work under [The Central Authority](The_Central_Authority.md), certain factions will not take kindly to you. You also cannot raise your [Reputation](Reputation.md) with The [Kingdom of Etrea](Etrea.md) or [The Children of Navae](The_Children_of_Navae.md), and your [Hundred Legions](The_Hundred_Legions.md) reputation has a **cap** of high 'Ally'.
+
+-   For The [Kingdom of Etrea](Etrea.md): You **cannot** raise your Reputation, and you start out as **Hunted**.
+    -   You cannot gain immunity to [Voidwalkers](Voidwalker.md) due to Etrea being one of the many factions that gives out [Bounties](Bounty_Hunting.md).
+    -   You cannot complete the [Sin of Erisia](Duke_Ishamon_Erisia.md) questline, which means you cannot obtain [Contractor](Oath%253A_Contractor.md) or fight [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) for his loot.
+    -   You cannot gain rewards tied to having good reputation with Etrea, which follows:
+        -   You cannot obtain [Stratos' Cloak](<Stratos'_Cloak.md>).
+        -   You cannot obtain [Windwaker](Stratos.md#windwaker-quest).
+        -   You cannot obtain [Fang and Coil](Fang_and_Coil.md), unless you spawn with it from the [Character Creation](Character_Creation.md) screen.
+-   For [The Children of Navae](The_Children_of_Navae.md): You **cannot** raise your Reputation, and you start out as **Hunted**.
+    -   There is currently no effects or downsides gained from being hunted by them aside from [Faction Ambushes](Faction_Ambushes.md).
+-   For [The Hundred Legions](The_Hundred_Legions.md): Your reputation has a **cap** of high 'Ally', and **cannot** be raised further.
+    -   You are unable to get [Legion Intelligence](Legion_Intelligence.md) or [Blightsurger](Oath%253A_Blightsurger.md) on an Ensign character, unless you are a [Khan](Khan.md) or have the [Celebrity](Talents.md#celebrity) Talent due to their requirements being higher than the high 'Ally' cap.
+
+Visit the [Reputation](#reputation) section to see the starting reputation with other factions as an Ensign.
+
+All of the previously mentioned neutral, beneficial, or detrimental effects or otherwise shall be removed upon being [Exiled](#exile).
+
 ## Exile
 
-Upon being exiled from [The Central Authority](The_Central_Authority.md), you will be kicked out of the Central Authority guild, removing your ability to gain future promotions. All Origin-exclusive Talents and Equipment you've obtained prior to being exiled will be kept. You lose the ability to equip Authority-related equipments and weapons without meeting its normal stat requirements, though any currently equipped items will remain usable until swapped out. In cases where it is swapped out, you cannot equip them again without meeting its normal stat requirements. There is no way to return to the Authority's ranks upon being exiled.
+Upon being exiled from [The Central Authority](The_Central_Authority.md), you will be kicked out of the Central Authority guild, removing your ability to gain future promotions. You will return to your previous [Guild](Guilds.md) and regain access to your [Chime of Dwelling](Chime_of_Dwelling.md). All Origin-exclusive Talents, Equipments, Weapons, Mantras and Outfits you've obtained prior to being exiled will be **kept**, although you can no longer exchange your Faction talents with the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md).
 
-Your Authority reputation will also be lowered heavily, most of the time to **Hunted** or **Villain** reputation (though you can still raise your Authority reputation afterwards) and it will remove the restriction of not being able to raise your [Reputation](Reputation.md) with [Etrea](Etrea.md) and [The Children of Navae](The_Children_of_Navae.md). You will also lose a bit of reputation with [The Divers](The_Divers.md) and [The Knives of Eylis](The_Knives_of_Eylis.md), and gain ample reputation with [The Hundred Legions](The_Hundred_Legions.md). Alongside losing your insignia and rank, [Salute](#effects) now no longer appears as an emote you can use.
+You lose the ability to equip Authority-related equipments and weapons without meeting its normal stat requirements, though any currently equipped items will remain usable until swapped out. In cases where it is swapped out, you cannot equip them again without meeting its normal stat requirements.
+
+Your Authority reputation will also be lowered heavily, most of the time to **Hunted** or **Villain** reputation (though you can still raise your Authority reputation afterwards) and it will remove the restriction of not being able to raise your [Reputation](Reputation.md) with [Etrea](Etrea.md), [The Children of Navae](The_Children_of_Navae.md), and [The Hundred Legions](The_Hundred_Legions.md). You will also lose a bit of reputation with [The Divers](The_Divers.md) and [The Knives of Eylis](The_Knives_of_Eylis.md), and gain ample reputation with [The Hundred Legions](The_Hundred_Legions.md) upon exile.
+
+Alongside losing your insignia and rank, [Salute](#salute) now no longer appears as an emote you can use. You can no longer [Jail](Fort_Merit.md#prison-tower) other players. You still keep your [Horn of Authority](Authority_Ensign.md#horn-of-authority), although it needs testing on whether or not it still works.
+
+There is **no way** to return to the Authority's ranks upon being exiled.
 
 There are two ways to be exiled:
 
@@ -84,6 +123,8 @@ Upon completing a Mission, you will have to report back to Captain Trist. This w
 If you fail a Mission by running out of time, failing the objective, or dying (which includes resetting your character with Esc + R + Enter to teleport), you will lose 25 promotion points instead. The mission will also be considered failed if any of the previous things happen while you are on your way back to Captain Trist after a successful mission. Leaving the game will forfeit your Mission and may result in your promotion points being **voided**. It is not advised to leave the game during an active mission.
 
 Even if you aren't in a Squad, other players may be assigned to the same Mission as you. For some Missions, like Armanent Sabotage, if the Mission is completed, it will be completed for both parties. Dying during a mission only counts as a Mission fail for the person who died.
+
+Alternative to missions, you can also gain 80 points from [Jailing](Fort_Merit.md#prison-tower) other players.
 
 ### List of Missions
 
@@ -182,11 +223,13 @@ Even if you aren't in a Squad, other players may be assigned to the same Mission
 
 ## Promotions
 
-Through completing enough Missions, you will be promoted. Each promotion comes with benefits of their own benefits and rewards, being Faction Talent hands and potentially new dialogue with NPCs. Promotion points are reset upon being promoted. The message "**YOU HAVE BEEN PROMOTED TO \[RANK\]. OORAH!**" will appear when you reach enough points to rank up.
+Through completing enough Missions, you will be promoted. Each promotion comes with benefits of their own benefits and rewards, being Faction Talent hands and potentially new dialogue with NPCs. Promotion points are **reset** upon being promoted. The message "**YOU HAVE BEEN PROMOTED TO \[RANK\]. OORAH!**" will appear when you reach enough points to rank up.
 
-Faction Talents cannot be exchanged for other Faction Talents, so choose wisely, as you will not be able to change them later. Every Faction Talent available to you will appear upon every promotion, which means you will not be locked out of a talent due to a limit of talents appearing like a [normal talent hand](Whisper_Draw.md). You gain a Faction Talent hand upon every promotion, which means you get 1 talent from going from **Private** to **Corporal**, and **Corporal** to **Lance Corporal**, totalling to two talents. You do not gain a Faction Talent hand upon entering a division.
+You can change Faction Talents by using the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md), but only if you are still currently an Ensign, and not [Exiled](#exile). Every Faction Talent available to you will appear upon every promotion, which means you will not be locked out of a talent due to a limit of talents appearing like a [normal talent hand](Whisper_Draw.md). You gain a Faction Talent hand upon every promotion, which means you get 1 talent from going from **Private** to **Corporal**, and **Corporal** to **Lance Corporal**, totalling to 2 talents. You do not gain a Faction Talent hand upon entering a division.
 
-In practice, this means that you are forced to pick 2 generic enlistment talents before you can start picking division-exclusive talents. How many division-exclusive (or more generic enlistment) talents you can pick depend on your chosen division. As you do not gain a talent hand upon entering a [division](#divisions), how many ranks there are after your first division rank is how many talents you further get. The amount is 3 for the [Command Division](#command-division), and 2 for both the [Inquisition Division](#inquisition-division) and the [Shock Corps Division](#shock-corps-division). In total, from **Private** to the highest rank, choosing to enter the Command Division gets you 5 Faction Talents in total, and both the Inquisition and Shock Corps Division gets you 4 Faction Talents in total.
+In practice, this means that you are forced to pick 2 generic enlistment talents before you can start picking division-exclusive talents. How many division-exclusive (or more generic enlistment) talents you can pick depend on your chosen division.As you do not gain a talent hand upon entering a [division](#divisions), how many ranks there are after your first division rank is how many talents you further get. The amount is 3 for the [Command Division](#command-division), and 2 for both the [Inquisition Division](#inquisition-division) and the [Shock Corps Division](#shock-corps-division).
+
+In total, from **Private** to the highest rank, choosing to enter the Command Division gets you 5 Faction Talents in total, and both the Inquisition and Shock Corps Division gets you 4 Faction Talents in total. Keep mind that you can still exchange your Faction Talents by using the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md) if you are not [Exiled](#exile).
 
 Enlistment Ranks
 
@@ -579,38 +622,33 @@ Shock Corps Division, given automatically after entering the division
 
 ## Pros and Cons
 
+As a lot of pros and cons have already been previously mentioned under the [Effects](#effects) section, it will not be reiterated again unless its importance demands it. As such, this will only cover an overview of this origin when viewed as a whole.
+
 ### Pros
 
--   Most Authority-related equipment and weapons can be equipped without meeting their normal requirements. All of these items can be found here.
--   Have access to a party system via the use of Squads, allowing you to complete missions together.
--   Like guilds, you can use the shout feature (by starting your messages with !) to talk to all fellow Ensigns server wide.
+-   Many Authority Ensign players have a high sense of comradery; if you're being ganked, especially if it's at or around Fort Merit, there's a high likelihood of at least one of your fellow Ensigns to come to your aid. Using the shout feature to call for help will increase the odds of you receiving assistance.
+    -   And as the punishment for killing fellow Ensigns is quite major, most other Ensigns will never attack you.
 -   Your player grip is replaced with imprisoning them. This increases the time before someone can spin back after a fight.
--   As the punishment for killing fellow Ensigns is quite major, most other Ensigns will never attack you.
 -   Origin-exclusive Talents, Mantras, Weapons, and Outfits.
 -   You start with an [Authority Helm](Authority_Helm.md) and the [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md).
--   You can purchase weapons from the [Fort Merit](Fort_Merit.md) armory, though some of the later-game weapons are locked behind being a Corporal or higher.
--   The Master Armors from the Divisions are equipped instantly, completely ignoring their crafting materials and requirements.
 -   Grants unique dialogue with a lot of Authority NPCs. Many of these dialogues will change based on your current rank and your [reputation](Reputation.md) with the Authority.
--   Many Authority Ensign players have a high sense of comradery; if you're being ganked, especially if it's at or around Fort Merit, there's a high likelihood of at least one of your fellow Ensigns to come to your aid. Using the shout feature to call for help will increase the odds of you receiving assistance.
+-   The Master Armors from the Divisions are equipped instantly, completely ignoring their crafting materials and requirements.
+    -   But the Con is that because the Division Outfits are immediately equipped upon joining your Division without you _learning_ the schematic, if you craft any other Outfit, the Division Outfit will be lost permanently.
+    -   Another Con is that you also cannot craft non-Authority [Outfits](Outfits.md) while you are still an Authority Ensign; you can only craft other outfits if you have been [Exiled](#exile).
 
 ### Cons
 
+-   Many of this Origin's benefits are locked behind a significant amount of time spent doing Missions. This will entirely take up your early-game progression on top of effectively softlocking you into only doing Missions until you join a Division. If you do not enjoy the gameplay loop of Missions, this Origin may not appeal to you as a whole, since it is a key part of the Origin and the Origin's progression.
+-   Because your player grip is replaced with [imprisoning](Fort_Merit.md#prison-tower) them, you will need some kind of weapon or mantra that automatically [grips](<Terminology_(game).md#grip>) in order to confirm kills.
+    -   This makes the obtainment of [Tacet](Murmur%253A_Tacet.md), needed for the Tacet Minimization Talent in the Inquisition Division, a tad harder as you would need to rely on bleeding them out with light attacks if you don't have anything that auto-grips. Having outside help with allies that can grip normally also helps immensely.
+-   As mentioned in the [Reputation Issues](#reputation-issues) section, you cannot obtain stuff like [Blightsurger](Oath%253A_Blightsurger.md), [Contractor](Oath%253A_Contractor.md) and etc. due to the reputation limitations.
 -   Because your guild is "replaced" by The Central Authority guild, you will not be able to use the [Chime of Dwelling](Chime_of_Dwelling.md) or [Guild Officer](Guild_Bases.md) tools. Being Exiled will remove this restriction.
     -   If someone from your original guild places down the [Guild Base](Guild_Bases.md) or spawns their [Ship](Ships_&_Sailing.md), you can reset and choose those as your spawn point.
     -   You are still able to access all the NPCs that are located in the guild base.
--   If you aren't on a Mission, haven't joined a Division, or aren't in the squad of a player in the Commander Division, you are only given 15 minutes to return to Authority controlled territory before being Exiled.
 -   There is no option to toggle or limit the shout feature, so your messages to your friends in the server will be intercepted by other Ensigns, and you may be subject to seeing shout messages that breaks Roblox's ToS or are otherwise not family friendly.
     -   Remember to report messages like these.
--   Because your player grip is replaced with imprisoning them, you will need some kind of automatic grip in order to confirm kills.
-    -   This makes it so that the obtainment of [Tacet](Murmur%253A_Tacet.md), needed for the Tacet Minimization Talent in the Inquisition Division, is almost impossible to get without outside help from allies; as you would need to bleed them out if you don't have anything that auto-grips.
--   You cannot craft any non-Authority [Outfit](Outfits.md) while having this Origin. Being Exiled will remove this restriction.
--   Your [Kingdom of Etrea](Etrea.md) and [Children of Navae](The_Children_of_Navae.md) reputation **cannot** be increased. Being Exiled will remove this restriction.
-    -   This has a number of downsides: You cannot gain immunity to [Voidwalkers](Voidwalker.md) and you cannot complete the [Sin of Erisia](Duke_Ishamon_Erisia.md) questline (this also means you cannot obtain [Contractor](Oath%253A_Contractor.md) or fight [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)).
--   Your [Hundred Legions](The_Hundred_Legions.md) reputation has a **cap** of high 'Ally'.
-    -   This means you are unable to get [Legion Intelligence](Legion_Intelligence.md) or [Blightsurger](Oath%253A_Blightsurger.md) on an Ensign character unless you are a [Khan](Khan.md) or have the [Celebrity](Talents.md#celebrity) Talent.
--   Because the Division Outfits are immediately equipped upon joining your Division without you _learning_ the schematic, if you craft any other Outfit, the Division Outfit will be lost permanently.
--   Many of this Origin's benefits are locked behind a significant amount of time spent doing Missions. This will entirely take up your early-game progression on top of effectively softlocking you into only doing Missions until you join a Division. If you do not enjoy the gameplay loop of Missions, this Origin may not appeal to you as a whole, since it is a key part of the Origin and the Origin's progression.
--   You cannot gain reputation with [Etrea](Etrea.md) at all, which means that [Stratos' Cloak](<Stratos'_Cloak.md>), [Windwaker](Stratos.md#windwaker-quest), and [Fang and Coil](Fang_and_Coil.md) cannot be obtained.
+-   If you aren't on a Mission, haven't joined a Division, or aren't in the squad of a player in the Commander Division, you are only given 15 minutes to return to Authority controlled territory before being Exiled.
+-   Most Cons are removed once the player has been [Exiled](#exile), but has its own benefits and drawbacks. Visit the [Exile](#exile) section for more information.
 
 ## Reputation
 
@@ -622,7 +660,9 @@ Your starting faction [reputation](Reputation.md) is:
 -   **Hunted** by [Etrea](Etrea.md) [Etreaiconfaction](Etrea.md) and [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md)
 -   **Neutral** with all other factions [Knives of Eylis](The_Knives_of_Eylis.md) [Summericonfaction](The_Summer_Company.md) [Hiveiconfaction](The_Hive.md) [Etrean Royalistsiconfaction](Etrean_Royalists.md)
 -   _Note: Your chosen [Aspect](Aspects.md) may affect your starting reputation._
--   You **cannot gain** [Etrea](Etrea.md) or [Children of Navae](The_Children_of_Navae.md) reputation. This restriction will be removed, should you be Exiled.
+-   You **cannot gain** [Etrea](Etrea.md) or [Children of Navae](The_Children_of_Navae.md) reputation. This restriction will be removed, should you be [Exiled](#exile).
+-   Your [Hundred Legions](The_Hundred_Legions.md) reputation has a **cap** of high 'Ally', and **cannot** be raised further.
+    -   Visit the [Reputation Issues](#reputation-issues) section for major effects that are caused by these.
 
 If you have the [Fugitive](Boons_and_Flaws.md#flaws) Flaw:
 

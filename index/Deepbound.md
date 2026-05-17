@@ -1,6 +1,6 @@
 ---
 title: Deepbound
-revid: 209116
+revid: 210407
 source: https://deepwoken.fandom.com/wiki/Deepbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Divers, Origins, Character]
@@ -26,10 +26,11 @@ Deepbounds all seem to be [Apprentice Divers](Apprentice_Diver.md) due to them s
 
 To obtain the Deepbound [Origin](Origins.md), the player must do the following:
 
--   Encounter [Akira](Akira.md) in the [Celtor Wastes](Celtor_Wastes.md) and inquire to him about joining [The Divers](The_Divers.md).
--   Reunite with him in [Castle Light](Castle_Light.md) to obtain the Origin.
+1.  Encounter [Akira](Akira.md) in the [Celtor Wastes](Celtor_Wastes.md) and inquire to him about joining [The Divers](The_Divers.md).
+2.  Reunite with him in [Castle Light](Castle_Light.md) to obtain the Origin.
+    -   Note that you do not have to accept the prompt to join The Diver's [Guild](Guilds.md) to obtain this Origin.
 
-Warning: Do not attempt the Charisma check with Akira. If you do not have 75 or higher Charisma for the Charisma check, you will be killed and you will wipe. If you pass the Charisma check, you will not be able to obtain this Origin or [Unbound Willpower](Attributes_Unbound.md) until you redo the event by rejoining.
+Warning: Do not attempt the Charisma check with Akira in the Celtor Wastes. If you do not have 75 or higher Charisma for the Charisma check, you will be killed and you will wipe. If you pass the Charisma check, you will not be able to obtain this Origin or [Unbound Willpower](Attributes_Unbound.md) until you get another chance to redo the event by rejoining.
 
 ## Spawn
 

@@ -1,6 +1,6 @@
 ---
 title: Lone Warrior
-revid: 209115
+revid: 210406
 source: https://deepwoken.fandom.com/wiki/Lone_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Origins, Character]
@@ -23,6 +23,9 @@ Lone Warriors look similar to [Castaways](Castaway.md) due to their ragged outfi
 To obtain the Lone Warrior Origin, the player must do one of the following:
 
 -   [Wipe](Death.md) for the first time.
+
+OR
+
 -   Defeat the [Thresher](Thresher.md) in the [Trial of One](Trial_of_One.md).
 
 ## Spawn
