@@ -1,9 +1,9 @@
 ---
 title: "Investigator's Hat"
-revid: 209610
+revid: 210512
 source: https://deepwoken.fandom.com/wiki/Investigator's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Hats]
+categories: [Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Investigator's Hat
@@ -15,7 +15,7 @@ categories: [Equipment, Head, Hats]
 | selling price | 25 |
 | requirements | Power 6 |
 | weight | 1 |
-| innate stats | +4 Health, +1 Uncommon Pip, +1 Rare Pips |
+| innate stats | +4 Health , +1 Uncommon Pip, +1 Rare Pips |
 | innate talent | Give and Take |
 | bankable | Yes |
 | droppable | Yes |

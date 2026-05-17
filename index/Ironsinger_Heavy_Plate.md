@@ -1,9 +1,9 @@
 ---
 title: Ironsinger Heavy Plate
-revid: 207162
+revid: 210514
 source: https://deepwoken.fandom.com/wiki/Ironsinger_Heavy_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Plates]
+categories: [Equipment, Arms, Plates, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Ironsinger Heavy Plate
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Plates]
 | type | Arms |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | LVL 12 |
+| requirements | Power 12 |
 | weight | 2 |
 | innate stats | +10 Health , +5% Ironsing Armor , +2 Legendary Pips, +1 Rare Pip |
 | innate talent | Defiant until the End |

@@ -1,9 +1,9 @@
 ---
 title: "Herbalist's Hat"
-revid: 205792
+revid: 210498
 source: https://deepwoken.fandom.com/wiki/Herbalist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Hats]
+categories: [Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
 ---
 
 # Herbalist's Hat
@@ -15,7 +15,7 @@ categories: [Equipment, Head, Hats]
 | selling price | 14 |
 | requirements | None |
 | weight | 1 |
-| innate stats | 1 Uncommon Pip |
+| innate stats | +1 Uncommon Pip |
 | innate talent | Iron GutHerbivore |
 | bankable | Yes |
 | droppable | Yes |

@@ -1,9 +1,9 @@
 ---
 title: Immortal Helm
-revid: 209387
+revid: 210507
 source: https://deepwoken.fandom.com/wiki/Immortal_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Helmets]
+categories: [Equipment, Head, Helmets, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Immortal Helm
@@ -15,7 +15,7 @@ categories: [Equipment, Head, Helmets]
 | selling price | 50 |
 | requirements | Power 5 |
 | weight | 1 |
-| innate stats | +1 Rare Pip , +1 Legendary Pip |
+| innate stats | +1 Rare Pip, +1 Legendary Pip |
 | innate talent | Immortality |
 | bankable | Yes |
 | droppable | Yes |
@@ -28,7 +28,7 @@ categories: [Equipment, Head, Helmets]
 
 The Immortal Helm is an [Equipment](Equipment.md) item under the "Head" category.
 
-The _[Immortality](Talents.md#immortality)_ Talent prevents the wearer from being knocked [Unconscious](Status_Effects.md#unconscious) upon taking lethal damage for two seconds while at 1% HP. The effect only lasts for one hit or until the duration expires.
+The [Immortality](Talents.md#immortality) Talent prevents the wearer from being knocked [Unconscious](Status_Effects.md#unconscious) upon taking lethal damage for two seconds while at 1% HP. The effect only lasts for one hit or until the duration expires.
 
 The Immortal Helm drops from the bodies of the [Immortal Guardians](Immortal_Guardian.md) and cannot drop from a chest.
 

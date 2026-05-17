@@ -1,9 +1,9 @@
 ---
 title: Hallowed Monastery Beads
-revid: 207182
+revid: 210492
 source: https://deepwoken.fandom.com/wiki/Hallowed_Monastery_Beads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Torso]
+categories: [Vow of Iron Exclusive, Equipment, Torso, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Hallowed Monastery Beads
@@ -12,7 +12,7 @@ categories: [Vow of Iron Exclusive, Equipment, Torso]
 |---|---|
 | type | Torso |
 | rarity | Legendary |
-| selling price | 55 |
+| selling price | 50 |
 | requirements | None |
 | weight | 0.5 |
 | innate stats | +3% Elemental Armor , +1 Legendary Pip |

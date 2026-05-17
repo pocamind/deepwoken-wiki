@@ -1,6 +1,6 @@
 ---
 title: "Konga's Clutch Ring"
-revid: 208298
+revid: 210517
 source: https://deepwoken.fandom.com/wiki/Konga's_Clutch_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -15,7 +15,7 @@ categories: [Equipment, Rings]
 | selling price | 14 |
 | requirements | N/A |
 | weight | 0.1 |
-| innate stats | 1 Uncommon Pip |
+| innate stats | +1 Uncommon Pip |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
@@ -27,7 +27,7 @@ categories: [Equipment, Rings]
 
 Konga's Clutch Ring is an [Equipment](Equipment.md) item under the "Rings" category.
 
-Konga's Clutch Ring allows the user to slide with little delay upon being equipped. The user must be at Power 3 to equip this ring.
+Konga's Clutch Ring increases the user's slide velocity while equipped.
 
 ## Trivia
 

@@ -1,9 +1,9 @@
 ---
 title: "Konga's Parka"
-revid: 200792
+revid: 210518
 source: https://deepwoken.fandom.com/wiki/Konga's_Parka
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Arms, Parkas]
+categories: [Vow of Iron Exclusive, Equipment, Arms, Parkas, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
 ---
 
 # Konga's Parka
@@ -15,7 +15,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Parkas]
 | selling price | 25 |
 | requirements | N/A |
 | weight | 2 |
-| innate stats | +2 Health, +1 Posture, +1 Rare Pip |
+| innate stats | +2 Health , +1 Posture , +1 Rare Pip |
 | innate talent | Slick, Steady Footing |
 | bankable | No |
 | droppable | No |

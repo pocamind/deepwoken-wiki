@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 210409
+revid: 210526
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -105,7 +105,7 @@ Upon taking the Vanguard Path, you will automatically be granted [Justicar's Arm
 ### Exclusive Features
 
 -   **Karita Combo** - Remove the endlag from your next running attack. \[5 second CD\] Landing a critical attack right after your running attack makes that critical attack have no cooldown and deal more damage. \[10 second CD\]
-    -   Prerequisites: Swiftkick Prodigy
+    -   Prerequisites: Justicar's Technique
 -   **Righteous Crash** - Slamming down your opponent in the air with a flourish or your upgraded Vanguard Jus Karita critical deals extra true damage based on high up in the air they were.
 -   **Swiftkick Master** - Proccing Swiftkick Prodigy now extends its duration to 15 seconds.
     -   Prerequisites: Swiftkick Prodigy

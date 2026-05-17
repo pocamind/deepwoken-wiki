@@ -1,6 +1,6 @@
 ---
 title: Iron Pauldrons
-revid: 176470
+revid: 210513
 source: https://deepwoken.fandom.com/wiki/Iron_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Pauldrons]
 | selling price | 14 |
 | requirements | None |
 | weight | 2 |
-| innate stats | +1 Posture, +2 Rare Pips |
+| innate stats | +1 Posture , +2 Rare Pips |
 | innate talent | None |
 | set | Iron Pauldrons, Iron Boots |
 | set talent | N/A |

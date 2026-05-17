@@ -1,9 +1,9 @@
 ---
 title: "Heretic's Moonseye Gauntlets"
-revid: 209150
+revid: 210499
 source: https://deepwoken.fandom.com/wiki/Heretic's_Moonseye_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Arms, Gloves]
+categories: [Vow of Iron Exclusive, Equipment, Arms, Gloves, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Heretic's Moonseye Gauntlets
@@ -13,7 +13,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Gloves]
 | type | Arms |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | LVL 12 |
+| requirements | Power 12 |
 | weight | 2 |
 | innate stats | +7 Health , +3 Posture , +1 Rare Pips, +1 Legendary Pip |
 | innate talent | Heretic's Sacrifice |

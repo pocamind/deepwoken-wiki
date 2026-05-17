@@ -1,9 +1,9 @@
 ---
 title: Hallowed Monastery Cowl
-revid: 207181
+revid: 210493
 source: https://deepwoken.fandom.com/wiki/Hallowed_Monastery_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Head, Cowls]
+categories: [Vow of Iron Exclusive, Equipment, Head, Cowls, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
 ---
 
 # Hallowed Monastery Cowl
@@ -12,7 +12,7 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Cowls]
 |---|---|
 | type | Head |
 | rarity | Legendary |
-| selling price | 25 |
+| selling price | 50 |
 | requirements | None |
 | weight | 1 |
 | innate stats | +5% Stealth , +2 Rare Pips |

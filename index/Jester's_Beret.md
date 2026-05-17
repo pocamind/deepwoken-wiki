@@ -1,9 +1,9 @@
 ---
 title: "Jester's Beret"
-revid: 208347
+revid: 210515
 source: https://deepwoken.fandom.com/wiki/Jester's_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Equipment, Head, Craftable, Hats]
+categories: [Pathfinder Exclusive, Equipment, Head, Craftable, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
 ---
 
 # Jester's Beret
@@ -13,7 +13,7 @@ categories: [Pathfinder Exclusive, Equipment, Head, Craftable, Hats]
 | type | Head |
 | rarity | Unique |
 | selling price | 100 |
-| requirements | LVL 10 |
+| requirements | Power 10 |
 | weight | 1 |
 | innate stats | +3 Health , +10 Ether , +2 Rare Pips, +1 Legendary Pip |
 | innate talent | Cap ArtistJester's Ruse |

@@ -1,6 +1,6 @@
 ---
 title: Imperial Boots
-revid: 198614
+revid: 210509
 source: https://deepwoken.fandom.com/wiki/Imperial_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -15,7 +15,7 @@ categories: [Equipment, Legs, Boots]
 | selling price | 14 |
 | requirements | Power 10 |
 | weight | 1 |
-| innate stats | +5 Health, +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +5 Health , +2 Rare Pips, +1 Legendary Pip |
 | innate talent | N/A |
 | set | Imperial Pauldrons, Imperial Boots |
 | set talent | N/A |

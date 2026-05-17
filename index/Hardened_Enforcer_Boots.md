@@ -1,9 +1,9 @@
 ---
 title: Hardened Enforcer Boots
-revid: 205893
+revid: 210496
 source: https://deepwoken.fandom.com/wiki/Hardened_Enforcer_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses, Craftable]
+categories: [Pathfinder Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Hardened Enforcer Boots
@@ -27,12 +27,12 @@ categories: [Pathfinder Exclusive, Equipment, Legs, Boots, Equipment with Set Bo
 | description | ... |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 Hardened Enforcer Set
 
-Variants: [Hardened Enforcer Plate](Hardened_Enforcer_Plate.md)
+Variants: [Plate](Hardened_Enforcer_Plate.md)
 
 ## Description
 

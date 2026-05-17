@@ -1,6 +1,6 @@
 ---
 title: Konga The Third
-revid: 210107
+revid: 210524
 source: https://deepwoken.fandom.com/wiki/Konga_The_Third
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, In progress with reason, InProgressPages, NPCs, NPCs located in the Etrean Luminant, Justicars]
@@ -110,6 +110,24 @@ If the player is a [Vangaurd Justicar](<Justicar_(Origin).md#vanguard>).
 </tr>
 <tr>
   <td colspan="6">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Warder Path:**
+
+If the player is a [Warder Justicar](<Justicar_(Origin).md#warder-path>).
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">A goody two-shoes, eh? Shouldn't you be off healing some poor sod on the field?</td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

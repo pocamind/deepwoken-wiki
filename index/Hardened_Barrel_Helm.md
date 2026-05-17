@@ -1,9 +1,9 @@
 ---
 title: Hardened Barrel Helm
-revid: 209440
+revid: 210494
 source: https://deepwoken.fandom.com/wiki/Hardened_Barrel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Head, Helmets]
+categories: [Vow of Iron Exclusive, Equipment, Head, Helmets, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Hardened Barrel Helm
@@ -14,7 +14,7 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Helmets]
 | rarity | Uncommon |
 | selling price | 14 |
 | weight | 1 |
-| innate stats | +5 Health, +1 Uncommon Pips |
+| innate stats | +5 Health , +1 Uncommon Pips |
 | innate talent | Tenacity |
 | bankable | No |
 | droppable | No |

@@ -1,9 +1,9 @@
 ---
 title: Hardened Enforcer Plate
-revid: 205889
+revid: 210497
 source: https://deepwoken.fandom.com/wiki/Hardened_Enforcer_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses]
+categories: [Pathfinder Exclusive, Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Hardened Enforcer Plate
@@ -13,7 +13,7 @@ categories: [Pathfinder Exclusive, Equipment, Arms, Plates, Craftable, Equipment
 | type | Arms |
 | rarity | Uncommon |
 | selling price | 14 |
-| requirements | LVL 8 |
+| requirements | Power 8 |
 | weight | 2 |
 | innate stats | +1 Posture |
 | innate talent | BerserkerEnforcer's Strength |
@@ -27,10 +27,12 @@ categories: [Pathfinder Exclusive, Equipment, Arms, Plates, Craftable, Equipment
 | description | ... |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 Hardened Enforcer Set
+
+Variants: [Boots](Hardened_Enforcer_Boots.md)
 
 ## Description
 

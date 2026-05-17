@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 210328
+revid: 210525
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4016,7 +4016,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Vanguard Techniques
 
 -   **Karita Combo** \[Faction Talent, [Justicar](<Justicar_(Origin).md>) Exclusive\] - Remove the endlag from your next running attack. \[5 second CD\] Landing a critical attack right after your running attack makes that critical attack have no cooldown and deal more damage. \[10 second CD\]
-    -   Prerequisites: Swiftkick Prodigy, [Justicar](<Justicar_(Origin).md>) Origin, promotion reward from the [Vanguard Path](<Justicar_(Origin).md#vanguard-path>)
+    -   Prerequisites: Justicar's Technique, [Justicar](<Justicar_(Origin).md>) Origin, promotion reward from the [Vanguard Path](<Justicar_(Origin).md#vanguard-path>)
 
 -   **Righteous Crash** \[Faction Talent, [Justicar](<Justicar_(Origin).md>) Exclusive\] - Slamming down your opponent in the air with a flourish or your upgraded Vanguard [Jus Karita](Jus_Karita.md) critical deals extra true damage based on high up in the air they were.
     -   Prerequisites: [Justicar](<Justicar_(Origin).md>) Origin, promotion reward from the [Vanguard Path](<Justicar_(Origin).md#vanguard-path>)
