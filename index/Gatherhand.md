@@ -1,6 +1,6 @@
 ---
 title: Gatherhand
-revid: 203098
+revid: 210394
 source: https://deepwoken.fandom.com/wiki/Gatherhand
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Society and culture]
@@ -18,7 +18,7 @@ The system dates back to the era of the [Hero Blades](Hero_Blades.md), as each b
 
 Gatherhand was also used in [Erisia](Erisia.md), where various statues of the island's ducal leaders were emblazoned with Gatherhand on their plinths.[\[2\]](#cite-note-2)
 
-During 1271 CE[\[3\]](#cite-note-3) [Lance](Lance.md)'s shop, Lance's Food, bore a sign written in Gatherhand.[\[4\]](#cite-note-4)
+During 1271 CE[\[3\]](#cite-note-3), [Lance](Lance.md)'s shop Lance's Food bore a sign written in Gatherhand.[\[4\]](#cite-note-4)
 
 ### Letters
 

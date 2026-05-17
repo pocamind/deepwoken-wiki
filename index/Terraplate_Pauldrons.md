@@ -1,6 +1,6 @@
 ---
 title: Terraplate Pauldrons
-revid: 210325
+revid: 210380
 source: https://deepwoken.fandom.com/wiki/Terraplate_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pauldrons, Equipment, Arms, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -19,7 +19,7 @@ categories: [Pauldrons, Equipment, Arms, Craftable, Equipment with Talents, Equi
 | innate talent | Terrapod Tracer |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Crafting : 6 Strange Claw + 1 Terrapod Shell + 1 Warden Pauldrons |
 | description | ... |
