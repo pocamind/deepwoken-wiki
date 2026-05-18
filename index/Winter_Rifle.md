@@ -1,6 +1,6 @@
 ---
 title: Winter Rifle
-revid: 205722
+revid: 210560
 source: https://deepwoken.fandom.com/wiki/Winter_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, The Summer Company, Medium Weapons, Weapons with Talents, Craftable]
@@ -29,7 +29,7 @@ categories: [Weapons, Rifles, The Summer Company, Medium Weapons, Weapons with T
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | Crafted at the Lost Forge of LeiunaVow of Iron:, If you go into the back corner behind the ministry base at Trial of One and hug the wall, you can go under Trial of One and find it floating in the air below. |
+| obtainment | Crafted w/ 1 Summer Rifle + 1 Frost Essence at the Lost Forge of LeiunaVow of Iron:, If you go into the back corner behind the ministry base at Trial of One and hug the wall, you can go under Trial of One and find it floating in the air below. |
 | description | One of Rosen's lesser-known prototypes, this rifle uses a manner of mysticism unbecoming of the mechanical genius. |
 
 Variants: [Summer Rifle](Summer_Rifle.md)

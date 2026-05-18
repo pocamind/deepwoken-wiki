@@ -1,6 +1,6 @@
 ---
 title: Konga The Third
-revid: 210541
+revid: 210544
 source: https://deepwoken.fandom.com/wiki/Konga_The_Third
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, In progress with reason, InProgressPages, NPCs, NPCs located in the Etrean Luminant, Justicars]
@@ -156,7 +156,7 @@ If the player is a [Warder Justicar](<Justicar_(Origin).md#warder-path>).
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td><i>*He looks at you with slight concern.*</i> Are you lost, kid?</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

@@ -1,6 +1,6 @@
 ---
 title: Leather Gloves
-revid: 204141
+revid: 210571
 source: https://deepwoken.fandom.com/wiki/Leather_Gloves
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Gloves]
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Gloves]
 | selling price | 7 |
 | requirements | None |
 | weight | 2 |
-| innate stats | +2 Health, +1 Posture, +1 Uncommon Pip |
+| innate stats | +2 Health , +1 Posture , +1 Uncommon Pip |
 | innate talent | N/A |
 | set | Leather Gloves/Leather Pauldrons, Leather Boots |
 | set talent | N/A |

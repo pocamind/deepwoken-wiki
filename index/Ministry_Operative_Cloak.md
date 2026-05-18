@@ -1,9 +1,9 @@
 ---
 title: Ministry Operative Cloak
-revid: 209601
+revid: 210599
 source: https://deepwoken.fandom.com/wiki/Ministry_Operative_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Cloaks]
+categories: [Equipment, Arms, Cloaks, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Ministry Operative Cloak
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Cloaks]
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | 6% Stealth, +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +6% Stealth , +2 Rare Pips, +1 Legendary Pip |
 | innate talent | Eureka |
 | bankable | Yes |
 | droppable | Yes |

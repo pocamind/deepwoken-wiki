@@ -1,6 +1,6 @@
 ---
 title: "Shiva's Pendant Earrings"
-revid: 209325
+revid: 210566
 source: https://deepwoken.fandom.com/wiki/Shiva's_Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -21,7 +21,7 @@ categories: [Equipment, Ears]
 | droppable | ? |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Crafted w/ 1x Amethyst Pendant Earrings, 1x Doom of Caeranthil's Scale, and 1x Shiva's Codex at Lost Forge of Leiuna |
+| obtainment | Crafted w/ 1 Amethyst Pendant Earrings + 1 Doom of Caeranthil's Scale + 1 Shiva's Codex at Lost Forge of Leiuna |
 | description | Donning these fills you with strength and fury. |
 
 ## Description

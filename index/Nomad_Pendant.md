@@ -1,6 +1,6 @@
 ---
 title: Nomad Pendant
-revid: 189799
+revid: 210618
 source: https://deepwoken.fandom.com/wiki/Nomad_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -13,9 +13,9 @@ categories: [Equipment, Torso, Necklaces]
 | type | Torso |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | PWR 5 |
+| requirements | Power 5 |
 | weight | 0.5 |
-| innate stats | +3% Elemental Armor, 1 Legendary Pip |
+| innate stats | +3% Elemental Armor , +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

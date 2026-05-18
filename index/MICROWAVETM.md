@@ -1,6 +1,6 @@
 ---
 title: MICROWAVETM
-revid: 180449
+revid: 210597
 source: https://deepwoken.fandom.com/wiki/MICROWAVETM
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Equipment, Head, Helmets]
@@ -26,7 +26,7 @@ notices:
 
 ## Description
 
-MICROWAVETM is an unobtainable [Equipment](Equipment.md) item under the "Head" category. It gives +5 health & +1 uncommon pip upon equipping.
+MICROWAVETM is an unobtainable [Equipment](Equipment.md) item under the "Head" category.
 
 The item itself is a large microwave worn on the wearer's head.
 

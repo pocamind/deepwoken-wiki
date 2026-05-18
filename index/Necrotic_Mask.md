@@ -1,9 +1,9 @@
 ---
 title: Necrotic Mask
-revid: 209350
+revid: 210616
 source: https://deepwoken.fandom.com/wiki/Necrotic_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Equipment, Face, Masks, Craftable, Equipment with Set Bonuses]
+categories: [Pathfinder Exclusive, Equipment, Face, Masks, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Necrotic Mask
@@ -14,7 +14,7 @@ categories: [Pathfinder Exclusive, Equipment, Face, Masks, Craftable, Equipment 
 | rarity | Rare |
 | selling price | 25 |
 | weight | 0.5 |
-| innate stats | +5% Shadow Armor+1 Rare Pip |
+| innate stats | +5% Shadow Armor +1 Rare Pip |
 | innate talent | Blood Plague |
 | set | Necrotic Cowl, Necrotic Mask |
 | set talent | Bloodless Overdrive |
@@ -31,17 +31,15 @@ Variants: [Bloodfeather Mask](Bloodfeather_Mask.md)
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-Bloodcurdle Set
+Necrotic Set
 
-Variants: [Necrotic Cowl](Necrotic_Cowl.md)
+Variants: [Cowl](Necrotic_Cowl.md)
 
 ## Description
 
 The **Necrotic Mask** is an [Equipment](Equipment.md) item under the "Face" category. The Necrotic Mask is a mask that resembles the masks of the Plague Doctors from around the 16th and 17th centuries.
 
 The [Blood Plague](Talents.md#blood-plague) Talent allows you to apply stacks of [Blood Plague](Status_Effects.md#blood-plague) on M1s. Upon landing your weapon's critical attack, these stacks will be consumed to grant an amount of [Temporary Health](Status_Effects.md#temporary-health), increasing per stack. If your critical attack misses, the stacks will still be consumed.
-
-This item is similar to the [Bloodcurdle Mask](Bloodcurdle_Mask.md) from [Vow of Iron](Vow_of_Iron.md).
 
 ## Set Talent
 

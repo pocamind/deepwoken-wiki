@@ -1,6 +1,6 @@
 ---
 title: Novice Brace
-revid: 199565
+revid: 210622
 source: https://deepwoken.fandom.com/wiki/Novice_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Braces]
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Braces]
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | +2 Health, +1 Posture, +1 Rare Pip |
+| innate stats | +2 Health , +1 Posture , +1 Rare Pip |
 | innate talent | N/A |
 | set | Novice Brace, Novice Boots |
 | set talent | N/A |

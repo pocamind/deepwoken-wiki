@@ -1,9 +1,9 @@
 ---
 title: Marrowmade Boots
-revid: 209942
+revid: 210590
 source: https://deepwoken.fandom.com/wiki/Marrowmade_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Legs, Boots]
+categories: [Equipment, Legs, Boots, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Marrowmade Boots
@@ -13,7 +13,7 @@ categories: [Equipment, Legs, Boots]
 | type | Legs |
 | rarity | Legendary |
 | selling price | 70 |
-| requirements | LVL 15 |
+| requirements | Power 15 |
 | weight | 1 |
 | innate stats | +3 Health , +2 Rare Pips |
 | innate talent | Osseous Surge, Surestep |

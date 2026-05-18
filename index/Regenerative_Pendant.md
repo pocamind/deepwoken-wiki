@@ -1,6 +1,6 @@
 ---
 title: Regenerative Pendant
-revid: 205902
+revid: 210641
 source: https://deepwoken.fandom.com/wiki/Regenerative_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Craftable, Torso, Necklaces, Equipment with Set Bonuses]
@@ -23,7 +23,7 @@ categories: [Pathfinder Exclusive, Equipment, Craftable, Torso, Necklaces, Equip
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Crafted at the Lost Forge using a Curseblood Pendant, 5x Curse of the No Life King Enchant Stones, and 1x Parasol Membrane |
+| obtainment | Crafted using a 1 Curseblood Pendant + 5 Curse of the No Life King Enchant Stones + 1 Parasol Membrane at the Lost Forge |
 | description | ... |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -52,7 +52,7 @@ The following sources of healing **cannot** proc Critical Heal:
     -   [Chorus of Souls](Talents.md#chorus-of-souls)
     -   [Conditioned Runner](Talents.md#conditioned-runner)
     -   [Campfire Pits](Campfire_Pit.md)
--   [Fadetrimmer](Oath%253A_Fadetrimmer.md) Revitalizing [Hair Spray](Oath%253A_Fadetrimmer.md#hair-spray)
+    -   [Fadetrimmer](Oath%253A_Fadetrimmer.md) Revitalizing [Hair Spray](Oath%253A_Fadetrimmer.md#hair-spray)
 
 The following sources of healing **can** proc Critical Heal:
 
@@ -67,7 +67,3 @@ The following sources of healing **can** proc Critical Heal:
 -   [Bloodless Gems](Bloodless_Gem.md)
 -   [Sanguine Transfuser](Sanguine_Transfuser.md)'s critical attack
 -   [Corrupted Payback](Payback.md) healing
-
-## Crafting
-
-The Regenerative Pendant can be crafted at the [Lost Forge](Lost_Forge_of_Leiuna.md) with a [Curseblood Pendant](Curseblood_Pendant.md), 5x [Curse of the No Life King](Curse_of_the_No_Life_King.md) [Enchant Stones](Enchant_Stone.md), and 1x [Parasol Membrane](Parasol_Membrane.md).

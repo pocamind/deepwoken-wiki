@@ -1,9 +1,9 @@
 ---
 title: "Mercenary's Garb"
-revid: 209600
+revid: 210594
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Garbs]
+categories: [Equipment, Arms, Garbs, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Mercenary's Garb
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Garbs]
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | 6% Stealth, +1 Rare Pip, +1 Legendary Pip |
+| innate stats | +6% Stealth , +1 Rare Pip, +1 Legendary Pip |
 | innate talent | Kick Off |
 | set | Mercenary's Garb, Mercenary's Boots |
 | set talent | N/A |

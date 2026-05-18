@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 207848
+revid: 210603
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -10,7 +10,7 @@ categories: [Mechanics]
 
 _icon credit to Tortaa#9000_
 
-One of the most prevalent mechanics in the game is crafting. Recipes can be learned through experimentation or other means such as learning via dialogue. Some recipes can be made anywhere at anytime, while others require a [crafting station](Crafting_Station.md), [campfire](Campfire_Pit.md), or cauldron.
+One of the most prevalent mechanics in the game is crafting. Recipes can be learned through experimentation or other means such as learning via dialogue. Some recipes can be made anywhere at any time, while others require a [Crafting Station](Crafting_Station.md), [campfire](Campfire_Pit.md), or [Cauldron](Cauldron.md).
 
 ## Utility Recipes
 
@@ -73,61 +73,136 @@ These recipes require you to be at a [Crafting Station](Crafting_Station.md) or 
 After defeating [Titus](Titus_Fulminus_Destellus.md), the [Detainment Core](Merit_Detainment_Core.md)'s special crafting station will open up to you. This crafting station can craft items that cannot be crafted elsewhere.
 
 -   **[Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)**
-    1.  1 [Western Outlaw Hat](Western_Outlaw_Hat.md) + 2 [Curse of the Authoritative Enchant Stones](Enchant_Stone.md) + 3 [Might Gems](Might_Gem.md).
+    -   [Western Outlaw Hat](Western_Outlaw_Hat.md) + 2 [Curse of the Authoritative Enchant Stones](Enchant_Stone.md) + 3 [Might Gems](Might_Gem.md).
 -   **[Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)**
-    1.  1 [Western Outlaw Robes](Western_Outlaw_Robes.md) + 1 [Primadon Pelt](Primadon_Pelt.md) + 3 [Might Gems](Might_Gem.md)
-    2.  1 [Western Outlaw Robes](Western_Outlaw_Robes.md) + 1 [Ferryman's Coat Cloth](<Ferryman's_Coat_Cloth.md>) + 1 [Duke's Coat Fiber](<Duke's_Coat_Fiber.md>)
+    -   [Western Outlaw Robes](Western_Outlaw_Robes.md) + 1 [Primadon Pelt](Primadon_Pelt.md) + 3 [Might Gems](Might_Gem.md)
+    -   [Western Outlaw Robes](Western_Outlaw_Robes.md) + 1 [Ferryman's Coat Cloth](<Ferryman's_Coat_Cloth.md>) + 1 [Duke's Coat Fiber](<Duke's_Coat_Fiber.md>)
 -   **[Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)**
-    1.  1 [Western Outlaw Boots](Western_Outlaw_Boots.md) + 3 [Gilded Needles](Gilded_Needle.md) + 3 [Might Gems](Might_Gem.md)
+    -   [Western Outlaw Boots](Western_Outlaw_Boots.md) + 3 [Gilded Needles](Gilded_Needle.md) + 3 [Might Gems](Might_Gem.md)
 -   **[Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)**
-    1.  1 [Western Outlaw Mask](Western_Outlaw_Mask.md) + 1 [Ardour Manifestation](Ardour_Manifestation.md) + 5 [Might Gems](Might_Gem.md)
+    -   [Western Outlaw Mask](Western_Outlaw_Mask.md) + 1 [Ardour Manifestation](Ardour_Manifestation.md) + 5 [Might Gems](Might_Gem.md)
 -   **[Reinforced War Helmet](Reinforced_War_Helmet.md)**
-    1.  1 [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Warden's Armor Piece](<Warden's_Armor_Piece.md>) + 2 [Wrath Gems](Wrath_Gem.md)
-    2.  1 [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Primadon Pelt](Primadon_Pelt.md) + 2 [Wrath Gems](Wrath_Gem.md)
-    3.  1 [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 2 [Wrath Gems](Wrath_Gem.md)
-    4.  1 [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 2 [Wrath Gems](Wrath_Gem.md)
+    -   [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Warden's Armor Piece](<Warden's_Armor_Piece.md>) + 2 [Wrath Gems](Wrath_Gem.md)
+    -   [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Primadon Pelt](Primadon_Pelt.md) + 2 [Wrath Gems](Wrath_Gem.md)
+    -   [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 2 [Wrath Gems](Wrath_Gem.md)
+    -   [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 2 [Wrath Gems](Wrath_Gem.md)
 -   **[Reinforced War Plate](Reinforced_War_Plate.md)**
-    1.  1 [Evanspear War Plate](Evanspear_War_Plate.md) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 3 [Wrath Gems](Wrath_Gem.md)
-    2.  1 [Evanspear War Plate](Evanspear_War_Plate.md) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 1 [Wrath Gem](Wrath_Gem.md)
-    3.  1 [Evanspear War Plate](Evanspear_War_Plate.md) + 1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) + 3 [Wrath Gems](Wrath_Gem.md)
+    -   [Evanspear War Plate](Evanspear_War_Plate.md) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 3 [Wrath Gems](Wrath_Gem.md)
+    -   [Evanspear War Plate](Evanspear_War_Plate.md) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 1 [Wrath Gem](Wrath_Gem.md)
+    -   [Evanspear War Plate](Evanspear_War_Plate.md) + 1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) + 3 [Wrath Gems](Wrath_Gem.md)
 -   **[Reinforced War Boots](Reinforced_War_Boots.md)**
-    1.  1 [Evanspear War Boots](Evanspear_War_Boots.md) + 5 [Forge Needles](Forge_Needle.md) + 3 [Wrath Gems](Wrath_Gem.md)
+    -   [Evanspear War Boots](Evanspear_War_Boots.md) + 5 [Forge Needles](Forge_Needle.md) + 3 [Wrath Gems](Wrath_Gem.md)
 -   **[Specialist Helmet](Specialist_Helmet.md)**
-    1.  1 [Shock Trooper Helmet](Shock_Trooper_Helmet.md) + 2 [Warden's Armor Pieces](<Warden's_Armor_Piece.md>) + 2 [Storm Enchant Stones](Enchant_Stone.md)
-    2.  1 [Shock Trooper Helmet](Shock_Trooper_Helmet.md) + 1 [Ferryman's Coat Cloth](<Ferryman's_Coat_Cloth.md>) + 1 [Storm Enchant Stone](Enchant_Stone.md)
-    3.  1 [Shock Trooper Helmet](Shock_Trooper_Helmet.md) + 1 [Duke's Coat Fiber](<Duke's_Coat_Fiber.md>) + 1 [Storm Enchant Stone](Enchant_Stone.md)
+    -   [Shock Trooper Helmet](Shock_Trooper_Helmet.md) + 2 [Warden's Armor Pieces](<Warden's_Armor_Piece.md>) + 2 [Storm Enchant Stones](Enchant_Stone.md)
+    -   [Shock Trooper Helmet](Shock_Trooper_Helmet.md) + 1 [Ferryman's Coat Cloth](<Ferryman's_Coat_Cloth.md>) + 1 [Storm Enchant Stone](Enchant_Stone.md)
+    -   [Shock Trooper Helmet](Shock_Trooper_Helmet.md) + 1 [Duke's Coat Fiber](<Duke's_Coat_Fiber.md>) + 1 [Storm Enchant Stone](Enchant_Stone.md)
 -   **[Specialist Plate](Specialist_Plate.md)**
-    1.  1 [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 3 [Storm Enchant Stones](Enchant_Stone.md)
-    2.  1 [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) + 3 [Storm Enchant Stone](Enchant_Stone.md)
-    3.  1 [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 1 [Storm Enchant Stone](Enchant_Stone.md)
+    -   [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 3 [Storm Enchant Stones](Enchant_Stone.md)
+    -   [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) + 3 [Storm Enchant Stone](Enchant_Stone.md)
+    -   [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 1 [Storm Enchant Stone](Enchant_Stone.md)
 -   **[Specialist Boots](Specialist_Boots.md)**
-    1.  1 [Shock Trooper Boots](Shock_Trooper_Boots.md) + 15 [Smith's Alloys](<Smith's_Alloy.md>) + 3 [Windswept Enchant Stones](Enchant_Stone.md)
+    -   [Shock Trooper Boots](Shock_Trooper_Boots.md) + 15 [Smith's Alloys](<Smith's_Alloy.md>) + 3 [Windswept Enchant Stones](Enchant_Stone.md)
 -   **[Authority Voltspark Mask](Authority_Voltspark_Mask.md)**
-    1.  1 [Authority Prototype Mask](Authority_Prototype_Mask.md) + 1 [Warden's Armor Piece](<Warden's_Armor_Piece.md>) + 3 [Curse of the Authoritative Enchant Stones](Enchant_Stone.md)
+    -   [Authority Prototype Mask](Authority_Prototype_Mask.md) + 1 [Warden's Armor Piece](<Warden's_Armor_Piece.md>) + 3 [Curse of the Authoritative Enchant Stones](Enchant_Stone.md)
 -   **[Champion's Cape](<Champion's_Cape.md>)**
-    1.  1 [Titus's Cape](<Titus's_Cape.md>) + 1 [Champion's Alloy](<Champion's_Alloy.md>)
+    -   [Titus's Cape](<Titus's_Cape.md>) + 1 [Champion's Alloy](<Champion's_Alloy.md>)
 
 ## Cold Forge Recipes[CraftingColdForge](The_Cold_Forge.md)
 
 These recipes are exclusive to [The Cold Forge](The_Cold_Forge.md)
 
 -   **[Celestial Boots](Celestial_Boots.md)**
-    1.  1 [Astral Enchant Stone](Enchant_Stone.md) + 2 [Star Boots](Star_Boots.md)
+    -   [Astral Enchant Stone](Enchant_Stone.md) + 2 [Star Boots](Star_Boots.md)
 -   **[Champion's Alloy](<Champion's_Alloy.md>)**
-    1.  1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>)
+    -   [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>)
 -   **[Fondant Splitter](Fondant_Splitter.md)**
-    1.  1 [Dormant Splinter](Dormant_Splinter.md) + 1 [Cake](Cake.md) + 1 [Sword](<Sword_(weapon).md>)
-    2.  1 [Dormant Splinter](Dormant_Splinter.md) + 1 [Cake](Cake.md) + 1 [Katana](Katana.md)
-    3.  1 [Dormant Splinter](Dormant_Splinter.md) + 1 [Cake](Cake.md) + 1 [Messer](Messer.md)
-    4.  1 [Dormant Splinter](Dormant_Splinter.md) + 3 [Cake](Cake.md) + 1 [Scimitar](Scimitar.md)
+    -   [Dormant Splinter](Dormant_Splinter.md) + 1 [Cake](Cake.md) + 1 [Sword](<Sword_(weapon).md>)
+    -   [Dormant Splinter](Dormant_Splinter.md) + 1 [Cake](Cake.md) + 1 [Katana](Katana.md)
+    -   [Dormant Splinter](Dormant_Splinter.md) + 1 [Cake](Cake.md) + 1 [Messer](Messer.md)
+    -   [Dormant Splinter](Dormant_Splinter.md) + 3 [Cake](Cake.md) + 1 [Scimitar](Scimitar.md)
 -   **[Sanguine Transfuser](Sanguine_Transfuser.md)**
-    1.  1 [Dormant Splinter](Dormant_Splinter.md) + 1 [Hemobloom](Hemobloom.md) + 1 [Ancient Dagger Remains](Ancient_Dagger_Remains.md)
+    -   [Dormant Splinter](Dormant_Splinter.md) + 1 [Hemobloom](Hemobloom.md) + 1 [Ancient Dagger Remains](Ancient_Dagger_Remains.md)
 -   **[Umbrite Witherblade](Umbrite_Witherblade.md)**
-    1.  1 [Dormant Splinter](Dormant_Splinter.md) + 3 [Umbrite](Ores.md#umbrite) or 1 [Pure Umbrite](Ores.md#umbrite) + 1 [Razor Cutlass](Razor_Cutlass.md)
+    -   [Dormant Splinter](Dormant_Splinter.md) + 3 [Umbrite](Ores.md#umbrite) or 1 [Pure Umbrite](Ores.md#umbrite) + 1 [Razor Cutlass](Razor_Cutlass.md)
 
 ## Lost Forge Recipes[CraftingEmpty](Lost_Forge_of_Leiuna.md)
 
 These recipes are exclusive to [The Lost Forge](Lost_Forge_of_Leiuna.md)
+
+-   **[Gale Enhanced Ring](Gale_Enhanced_Ring.md)**
+    -   1 [Finisher's Ring](<Finisher's_Ring.md>) + 1 [Gale Essence](Gale_Essence.md)
+-   **[Gale Enhanced Earrings](Gale_Enhanced_Earrings.md)**
+    -   1 [Emerald Tusk Earrings](Emerald_Tusk_Earrings.md) + 5 [Gale Stone](Gale_Stone.md) + 1 [Gale Essence](Gale_Essence.md)
+-   **[Gale Enhanced Cowl](Gale_Enhanced_Cowl.md)**
+    -   1 [Monastery Cowl](Monastery_Cowl.md) + 1 [Gale Essence](Gale_Essence.md) + 1 [Bluster](Bluster.md)
+-   **[Gale Enhanced Beads](Gale_Enhanced_Beads.md)**
+    -   1 [Monastery Beads](Monastery_Beads.md) + 1 [Gale Essence](Gale_Essence.md) + 1 [Windswept](Windswept.md)
+-   **999x [Gale Bullet](Bullet_Casings.md)**
+    -   1 [Bullet](Bullets.md) + 1 [Gale Essence](Gale_Essence.md)
+-   **[Frost Ring](Frost_Ring.md)**
+    -   1 [Heavy Hands Ring](Heavy_Hands_Ring.md) + 1 [Frost Essence](Frost_Essence.md)
+-   **[Saint Jay's Ring](<Saint_Jay's_Ring.md>)**
+    -   1 [Dazed Band](Dazed_Band.md) + 1 [Frost Essence](Frost_Essence.md) + 1 [Frost Ring](Frost_Ring.md)
+-   **[Frost Crystal Earrings](Frost_Crystal_Earrings.md)**
+    -   1 [Crystal Pendant Earrings](Crystal_Pendant_Earrings.md) + 1 [Chilling Enchant Stone](Chilling.md) + 1 [Frost Essence](Frost_Essence.md)
+-   **[Winter Rifle](Winter_Rifle.md)**
+    -   1 [Summer Rifle](Summer_Rifle.md) + 1 [Frost Essence](Frost_Essence.md)
+-   **999x [Frost Bullet](Bullet_Casings.md)**
+    -   1 [Bullet](Bullets.md) + 1 [Frost Essence](Frost_Essence.md)
+-   **[Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)**
+    -   1 [Dread Serpent's Tooth](<Dread_Serpent's_Tooth.md>) + 1 [Ethereal Bone Dust](Ethereal_Bone_Dust.md) + 1 [Giant Femur](Giant_Femur.md)
+-   **[Hardened Enforcer Plate](Hardened_Enforcer_Plate.md)**
+    -   1 [Enforcer Plate](Enforcer_Plate.md) + 1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) + 1 [Ethereal Bone Dust](Ethereal_Bone_Dust.md)
+-   **[Hardened Enforcer Boots](Hardened_Enforcer_Boots.md)**
+    -   1 [Enforcer Boots](Enforcer_Boots.md) + 1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) + 1 [Ethereal Bone Dust](Ethereal_Bone_Dust.md)
+-   **[The No-Life King's Crown](<The_No-Life_King's_Crown.md>)**
+    -   1 [Bloodforged Crown](Bloodforged_Crown.md) + 1 [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md) + 1 [Necrotic Membrane](Necrotic_Membrane.md)
+-   **[Transfusion Ring](Transfusion_Ring.md)**
+    -   1 [Ring of Pestilence](Ring_of_Pestilence.md) + 1 [Trickster Dust](Trickster_Dust.md) + 1 [Necrotic Membrane](Necrotic_Membrane.md)
+-   **[Ember Scorch Earrings](Ember_Scorch_Earrings.md)**
+    -   1 [Ruby Pendant Earrings](Ruby_Pendant_Earrings.md) + 5 [Dying Embers](Dying_Embers.md) + 1 [Blazing Enchant Stone](Blazing.md)
+-   **[Shiva's Pendant Earrings](<Shiva's_Pendant_Earrings.md>)**
+    -   1 [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 1 [Shiva's Codex](<Shiva's_Codex.md>)
+-   **[Frost Crystal Earrings](Frost_Crystal_Earrings.md)**
+    -   1 [Crystal Pendant Earrings](Crystal_Pendant_Earrings.md) + 1 [Chilling Enchant Stone](Chilling.md) + 1 [Frost Essence](Frost_Essence.md)
+-   **[Ossified Barrel Helm](Ossified_Barrel_Helm.md)**
+    -   1 [Barrel Helm](Barrel_Helm.md) + 1 [Shiva's Codex](<Shiva's_Codex.md>) + 1 [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)
+-   **[Ossified Simple Pauldrons](Ossified_Simple_Pauldrons.md)**
+    -   1 [Simple Pauldrons](Simple_Pauldrons.md) + 1 [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md) +1 [Shiva's Codex](<Shiva's_Codex.md>)
+-   **[Ossified Phalanx Boots](Ossified_Phalanx_Boots.md)**
+    -   1 [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md) +1 [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md) + 1 [Shiva's Codex](<Shiva's_Codex.md>)
+-   **[Ossified Blood Earrings](Ossified_Blood_Earrings.md)**
+    -   1 [Old Blood Earrings](Old_Blood_Earrings.md) + 1 [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)
+-   **[Ossified Black Pauldrons](Ossified_Black_Pauldrons.md)**
+    -   1 [Blacksteel Pauldrons](Blacksteel_Pauldrons.md) + 1 [Shiva's Codex](<Shiva's_Codex.md>) + 1 [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)
+-   **[Ossified Black Helm](Ossified_Black_Helm.md)**
+    -   1 [Blacksteel Helm](Blacksteel_Helm.md) + 1 [Shiva's Codex](<Shiva's_Codex.md>) + 1 [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)
+-   **[Revitalizing Pendant](Revitalizing_Pendant.md)**
+    -   1 [Wheel Pendant](Wheel_Pendant.md) + 5 [Solar Enchant Stones](Solar.md) + 1 [Parasol Membrane](Parasol_Membrane.md)
+-   **[Jester's Beret](<Jester's_Beret.md>)**
+    -   1 [Tillian's Beret](<Tillian's_Beret.md>) + 1 [Shiva's Codex](<Shiva's_Codex.md>) + 1 [Trickster Dust](Trickster_Dust.md)
+-   **[Regenerative Pendant](Regenerative_Pendant.md)**
+    -   1 [Curseblood Pendant](Curseblood_Pendant.md) + 5 [Curse of the No Life King Enchant Stones](Curse_of_the_No_Life_King.md) + 1 [Parasol Membrane](Parasol_Membrane.md)
+-   **[Regenerative Earrings](Regenerative_Earrings.md)**
+    -   1 [Old Blood Earrings](Old_Blood_Earrings.md) + 5 [Vampirism Enchant Stones](Vampirism.md) + 1 [Parasol Membrane](Parasol_Membrane.md)
+-   **[Necrotic Demon Horns](Necrotic_Demon_Horns.md)**
+    -   1 [Aazel's Horns](<Aazel's_Horns.md>) + 1 [Necrotic Membrane](Necrotic_Membrane.md)
+-   **[Necrotic Cowl](Necrotic_Cowl.md)**
+    -   1 [Bloodfeather Cowl](Bloodfeather_Cowl.md) + 1 [Necrotic Membrane](Necrotic_Membrane.md) + 1 [Parasol Part](Parasol_Part.md)
+-   **[Necrotic Mask](Necrotic_Mask.md)**
+    -   1 [Bloodfeather Mask](Bloodfeather_Mask.md) + 1 [Necrotic Membrane](Necrotic_Membrane.md) + 1 [Parasol Part](Parasol_Part.md)
+-   **[Ether Refined Brim](Ether_Refined_Brim.md)**
+    -   1 [Ether Refined Hide](Ether_Refined_Hide.md) + 1 [Shiva's Codex](<Shiva's_Codex.md>) + 1 [Warlock's Brim](<Warlock's_Brim.md>)
+-   **[Ether Refined Mantle](Ether_Refined_Mantle.md)**
+    -   1 [Ether Refined Hide](Ether_Refined_Hide.md) + 1 [Shiva's Codex](<Shiva's_Codex.md>) + 1 [Warlock's Mantle](<Warlock's_Mantle.md>)
+-   **[Ether Imbued Earrings](Ether_Imbued_Earrings.md)**
+    -   1 [Practicioner's Earrings](<Practicioner's_Earrings.md>) + 1 [Ether Refined Hide](Ether_Refined_Hide.md)
+-   **[Ether Empowered Earrings](Ether_Empowered_Earrings.md)**
+    -   1 [Pendant Earrings](Pendant_Earrings.md) + 1 [Ether Refined Hide](Ether_Refined_Hide.md)
+-   **[Blizzard Ring](Blizzard_Ring.md)**
+    -   1 [Gale Enhanced Ring](Gale_Enhanced_Ring.md) + 1 [Frost Ring](Frost_Ring.md) + 1 [Shiva's Codex](<Shiva's_Codex.md>)
+-   **[Blindseer's Ring](<Blindseer's_Ring.md>)**
+    -   1 [Transfusion Ring](Transfusion_Ring.md) + 1 [Trickster Dust](Trickster_Dust.md)
 
 ## Food Recipes
 

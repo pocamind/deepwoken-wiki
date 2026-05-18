@@ -1,11 +1,9 @@
 ---
 title: Ethereal Osseous Plate
-revid: 205549
+revid: 210562
 source: https://deepwoken.fandom.com/wiki/Ethereal_Osseous_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Craftable, Ingredients, Items]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Craftable, Ingredients, Items]
 ---
 
 # Ethereal Osseous Plate
@@ -21,7 +19,7 @@ notices:
 | droppable | No |
 | pass down | No |
 | desc | A combination of different hardened bone, resisting even the toughest of forces. |
-| obtainment | Crafting:, 1x Dread Serpent's Tooth + 1x Ethereal Bone Dust + 1x Giant Femur at the Lost Forge |
+| obtainment | Crafting:, 1 Dread Serpent's Tooth + 1 Ethereal Bone Dust + 1 Giant Femur at the Lost Forge |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 210526
+revid: 210555
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -152,14 +152,14 @@ Upon taking the Vanguard Path, you will automatically be granted [Justicar's Arm
 
 **Karita Swap** (☆☆☆)
 
-_WIP_
+_Grab your ally and swap places with them while moving in with a swift kick to save them._
 
  | 
 
 ## Karita Swap (☆☆☆)
 
   
-_WIP_
+_Grab your ally and swap places with them while moving in with a swift kick to save them._
 
  |
 | 
@@ -185,7 +185,7 @@ Vanguard Path, given automatically after joining it.
 
 Warders are primarily focused on support and granting buffs to your allies.
 
-Upon taking the Warder path, you will automatically be granted [Warder's Attire.](<Warder's_Attire.md>)
+Upon taking the Warder path, you will automatically be granted [Warder's Attire](<Warder's_Attire.md>).
 
 ### Exclusive Features
 
@@ -242,7 +242,7 @@ Upon taking the Warder path, you will automatically be granted [Warder's Attire.
 
 **Support Mantra**
 
-_WIP_
+_Give your ally an aura that grants them more speed, and increase the amount of healing they receive for 10 seconds._
 
  | 
 
@@ -250,12 +250,12 @@ _WIP_
 
   
 **Support Mantra**  
-_WIP_
+_Give your ally an aura that grants them more speed, and increase the amount of healing they receive for 10 seconds._
 
  |
 | 
 
-(?) Ether [IconEther](Ether.md)
+50 Ether [IconEther](Ether.md)
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 209046
+revid: 210553
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Enemies, Etrea Enemies, Individuals with unspecified pronouns, Justicars]
@@ -82,26 +82,6 @@ Polis can be found sitting under the giant tree in the middle of [Etris](Etris.m
 </tbody>
 </table>
 
-**Helped with Etris Siege event:**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin</td>
-</tr>
-<tr>
-  <td colspan="12">Ah, if it isn't the hero of Etrea. How goes your wary travels?</td>
-</tr>
-<tr>
-  <td colspan="6">What are you doing here?</td>
-  <td colspan="6">How do I get strong like you?</td>
-</tr>
-<tr>
-  <td colspan="12">[See first instance]</td>
-</tr>
-</tbody>
-</table>
-
 **Subsequent Encounters:**
 
 After you have received a [Gold Ring](Gold_Ring.md) as thanks from hearing his story.
@@ -143,6 +123,26 @@ After you have received a [Gold Ring](Gold_Ring.md) as thanks from hearing his s
 </tr>
 <tr>
   <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Helped with Etris Siege event:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Ah, if it isn't the hero of Etrea. How goes your wary travels?</td>
+</tr>
+<tr>
+  <td colspan="6">What are you doing here?</td>
+  <td colspan="6">How do I get strong like you?</td>
+</tr>
+<tr>
+  <td colspan="12">[See first instance]</td>
 </tr>
 </tbody>
 </table>

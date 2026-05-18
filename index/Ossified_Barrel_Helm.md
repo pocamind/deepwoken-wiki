@@ -1,6 +1,6 @@
 ---
 title: Ossified Barrel Helm
-revid: 209439
+revid: 210567
 source: https://deepwoken.fandom.com/wiki/Ossified_Barrel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Head, Equipment, Helmets, Craftable]
@@ -20,7 +20,7 @@ categories: [Pathfinder Exclusive, Head, Equipment, Helmets, Craftable]
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Crafting Barrel Helm + 1x Shiva's Codex + 1x Ethereal Osseous Plate at the Lost Forge |
+| obtainment | Crafting 1 Barrel Helm + 1 Shiva's Codex + 1 Ethereal Osseous Plate at the Lost Forge |
 | description | A sturdy helmet shaped like a barrel. |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  

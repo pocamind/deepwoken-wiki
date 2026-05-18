@@ -1,9 +1,9 @@
 ---
 title: Monastery Champion Robes
-revid: 207177
+revid: 210605
 source: https://deepwoken.fandom.com/wiki/Monastery_Champion_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms]
+categories: [Equipment, Arms, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Monastery Champion Robes
@@ -13,7 +13,7 @@ categories: [Equipment, Arms]
 | type | Arms |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | LVL 12 |
+| requirements | Power 12 |
 | weight | 2 |
 | innate stats | +8 Health , +1 Posture , +2 Legendary Pips, +1 Rare Pip |
 | innate talent | Temple Guard |

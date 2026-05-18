@@ -1,6 +1,6 @@
 ---
 title: Brow Stud
-revid: 209839
+revid: 210631
 source: https://deepwoken.fandom.com/wiki/Brow_Stud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Piercings]

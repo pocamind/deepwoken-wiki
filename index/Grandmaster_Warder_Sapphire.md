@@ -1,6 +1,6 @@
 ---
 title: Grandmaster Warder Sapphire
-revid: 210539
+revid: 210543
 source: https://deepwoken.fandom.com/wiki/Grandmaster_Warder_Sapphire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Individuals with She/her pronouns, In progress with reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -278,7 +278,7 @@ Grandmaster Warder Sapphire is located in a bookstack tower on the right side of
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td><i>*The regal-looking Justicar greets you.*</i> Be welcome here and safe,<a href="Glossary.md#pathfinders">Pathfinder</a>. By Alsin's name, I pray that you stay out of trouble during your visit. Should you wish to learn our ways and follow in Alsin's footsteps the way we do, do not hesitate to ask around.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

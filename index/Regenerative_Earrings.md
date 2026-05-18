@@ -1,6 +1,6 @@
 ---
 title: Regenerative Earrings
-revid: 205901
+revid: 210584
 source: https://deepwoken.fandom.com/wiki/Regenerative_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Set Bonuses]
@@ -23,7 +23,7 @@ categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Se
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Crafted at the Lost Forge with Old Blood Earrings, 5x Vampirism Enchant Stones, and 1x Parasol Membrane |
+| obtainment | Crafted with 1 Old Blood Earrings + 5 Vampirism Enchant Stones + 1 Parasol Membrane at the Lost Forge |
 | description | Wearing these fills you with a newfound sense of vitality. |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -69,7 +69,3 @@ The following sources of healing **can** proc Critical Heal:
 -   [Bloodless Gems](Bloodless_Gem.md)
 -   [Sanguine Transfuser](Sanguine_Transfuser.md)'s critical attack
 -   [Corrupted Payback](Payback.md) healing
-
-## Crafting
-
-The Regenerative Earrings can be crafted at the [Lost Forge](Lost_Forge_of_Leiuna.md) with 1x [Old Blood Earrings](Old_Blood_Earrings.md), 5x [Vampirism](Vampirism.md) [Enchant Stones](Enchant_Stone.md), and 1x [Parasol Membrane](Parasol_Membrane.md).

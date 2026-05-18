@@ -1,6 +1,6 @@
 ---
 title: Leather Boots
-revid: 205896
+revid: 210570
 source: https://deepwoken.fandom.com/wiki/Leather_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Fishing Loot]
@@ -15,7 +15,7 @@ categories: [Equipment, Legs, Boots, Fishing Loot]
 | selling price | 7 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +4 Health, +1 Common Pip |
+| innate stats | +4 Health , +1 Common Pip |
 | innate talent | N/A |
 | set | Leather Gloves/Leather Pauldrons, Leather Boots |
 | set talent | N/A |

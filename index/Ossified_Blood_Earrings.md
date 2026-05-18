@@ -1,6 +1,6 @@
 ---
 title: Ossified Blood Earrings
-revid: 209319
+revid: 210569
 source: https://deepwoken.fandom.com/wiki/Ossified_Blood_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Earrings, Craftable]
@@ -21,7 +21,7 @@ categories: [Pathfinder Exclusive, Equipment, Earrings, Craftable]
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Crafted w/ 1x Old Blood Earrings and 1x Ethereal Osseous Plate at Lost Forge of Leiuna |
+| obtainment | Crafted w/ 1 Old Blood Earrings + 1 Ethereal Osseous Plate at Lost Forge of Leiuna |
 | description | ... |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  

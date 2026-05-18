@@ -1,9 +1,9 @@
 ---
 title: Novice Boots
-revid: 205908
+revid: 210621
 source: https://deepwoken.fandom.com/wiki/Novice_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Legs, Boots]
+categories: [Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Novice Boots
@@ -15,7 +15,7 @@ categories: [Equipment, Legs, Boots]
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +3 Health, +1 Posture, +1 Rare Pip |
+| innate stats | +3 Health , +1 Posture , +1 Rare Pip |
 | innate talent | Steady Footing |
 | set | Novice Brace, Novice Boots |
 | set talent | N/A |
@@ -23,7 +23,7 @@ categories: [Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from;, Summer Isle, Fort Merit, First Layer, Lodestar, Maestro Evengarde Rest, Dread Serpent, War Mode, Saramaed Hollow, Deep Widow |
+| obtainment | Chests from:, Summer Isle, Fort Merit, First Layer, Lodestar, Maestro Evengarde Rest, Dread Serpent, War Mode, Saramaed Hollow, Deep Widow |
 | description | ... |
 
 ## Description

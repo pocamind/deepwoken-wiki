@@ -1,6 +1,6 @@
 ---
 title: Moon Ring
-revid: 209233
+revid: 210611
 source: https://deepwoken.fandom.com/wiki/Moon_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -15,7 +15,7 @@ categories: [Equipment, Rings]
 | selling price | 50 |
 | requirements | None |
 | weight | 0.1 |
-| innate stats | 2 Rare Pips |
+| innate stats | +2 Rare Pips |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
@@ -27,7 +27,7 @@ _This page is about the [Ring](Equipment.md#rings) equipment. For other uses, se
 
 ## Description
 
-The **Moon Ring** is a Ring [Equipment](Equipment.md) piece that conceals your character's age, making you appear under 40 (pre-Stage 1 [Age](Age.md)). It is a somewhat rare drop from many sources, most notably [Aelita](Aelita.md), [The Ferryman](The_Ferryman.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [The Depths](The_Depths.md), and [Moon Knights](Moon_Knight.md). The ring also comes with 2 Rare Pips.
+The **Moon Ring** is a Ring [Equipment](Equipment.md) piece that conceals your character's age, making you appear under 40 (pre-Stage 1 [Age](Age.md)). It is a somewhat rare drop from many sources, most notably [Aelita](Aelita.md), [The Ferryman](The_Ferryman.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [The Depths](The_Depths.md), and [Moon Knights](Moon_Knight.md).
 
 ## Trivia
 

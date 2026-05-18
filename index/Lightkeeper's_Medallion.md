@@ -1,9 +1,9 @@
 ---
 title: "Lightkeeper's Medallion"
-revid: 207132
+revid: 210583
 source: https://deepwoken.fandom.com/wiki/Lightkeeper's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Torso, Necklaces, Relics, Equipment Relics]
+categories: [Equipment, Torso, Necklaces, Relics, Equipment Relics, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Lightkeeper's Medallion
@@ -13,7 +13,7 @@ categories: [Equipment, Torso, Necklaces, Relics, Equipment Relics]
 | type | Torso |
 | rarity | Relic |
 | selling price | 100 |
-| requirements | LVL 5 |
+| requirements | Power 5 |
 | weight | 0.5 |
 | innate stats | +1 Legendary Pip |
 | innate talent | Elegy of Light |

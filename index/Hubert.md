@@ -1,6 +1,6 @@
 ---
 title: Hubert
-revid: 209998
+revid: 210550
 source: https://deepwoken.fandom.com/wiki/Hubert
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -33,6 +33,8 @@ Hubert is located in the dining hall of [Alsin's Landing](<Alsin's_Landing.md>).
 
 ## Dialogue
 
+**Base Dialogue:**
+
 <table>
 <tbody>
 <tr>
@@ -46,6 +48,22 @@ Hubert is located in the dining hall of [Alsin's Landing](<Alsin's_Landing.md>).
 </tr>
 <tr>
   <td>There's no way I just missed it! Dang!</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Voidwalker:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Geez, you look menacing! How did you get inside here?..</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

@@ -1,6 +1,6 @@
 ---
 title: Master Thief Earrings
-revid: 204122
+revid: 210591
 source: https://deepwoken.fandom.com/wiki/Master_Thief_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -15,7 +15,7 @@ categories: [Equipment, Ears]
 | selling price | 25 |
 | requirements | None |
 | weight | 0.1 |
-| innate stats | +3% Stealth+2 Rare Pips |
+| innate stats | +3% Stealth +2 Rare Pips |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -30,4 +30,4 @@ categories: [Equipment, Ears]
 
 ## Trivia
 
--   These earrings are a reference to [Chrollo Lucilfer's](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer?so=search) earrings from the anime _Hunter x Hunter_.
+-   These earrings are a reference to [Chrollo Lucilfer's](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer) earrings from the anime _Hunter x Hunter_.

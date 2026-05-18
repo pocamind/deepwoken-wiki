@@ -1,6 +1,6 @@
 ---
 title: Legate Helm
-revid: 201446
+revid: 210574
 source: https://deepwoken.fandom.com/wiki/Legate_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -14,7 +14,7 @@ categories: [Equipment, Head, Helmets]
 | rarity | Uncommon |
 | selling price | 14 |
 | weight | 1 |
-| innate stats | +5 Health+1 Posture |
+| innate stats | +5 Health +1 Posture |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

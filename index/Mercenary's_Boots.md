@@ -1,9 +1,9 @@
 ---
 title: "Mercenary's Boots"
-revid: 209592
+revid: 210593
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Legs, Boots]
+categories: [Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Mercenary's Boots
@@ -13,9 +13,9 @@ categories: [Equipment, Legs, Boots]
 | type | Legs |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | LVL 10 |
+| requirements | Power 10 |
 | weight | 1 |
-| innate stats | +2 Health+2 Rare Pips, +1 Legendary Pip |
+| innate stats | +2 Health +2 Rare Pips, +1 Legendary Pip |
 | innate talent | Endurance Runner |
 | set | Mercenary's Garb, Mercenary's Boots |
 | set talent | N/A |

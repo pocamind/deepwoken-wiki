@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 210485
+revid: 210551
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -15210,6 +15210,8 @@ Medium Weapons are both one-handed and two-handed weapons. They are a balance be
 
 Swords are weapons with a long metal blade and a hilt with a handguard used for cutting down opponents.
 
+For more in-depth info about the weapon class, see [Swords](Swords.md).
+
 <table><caption>Medium Weapons</caption>
 <tbody>
 <tr>
@@ -15925,6 +15927,8 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
 
 Spears are weapons with a long pole, with a sharp pointed end, used for attacking enemies at a safe distance.
 
+For more in-depth info about the weapon class, see [Spears](Spears.md).
+
 <table><caption>Medium Weapons</caption>
 <tbody>
 <tr>
@@ -16333,6 +16337,8 @@ Staves are polearm weapons with two blunt ends. These weapons specialize in swif
 
 Clubs are weapons that, as opposed to most other weapons in the game, deal blunt damage. In the real world, these weapons were used for breaking through armor with heavy strikes; in Deepwoken, this is no different, being excellent weapons for breaking through even the toughest of guards.
 
+For more in-depth info about the weapon class, see [Clubs](Clubs.md).
+
 <table><caption>Medium Weapons</caption>
 <tbody>
 <tr>
@@ -16621,6 +16627,8 @@ Rifles are two-handed guns that use blunt melee attacks and incorporate the firi
 **Twinblades:**
 
 Twinblades are medium weapons with a blade at either side of their main hilt. Uniquely, running attacks with these weapons will followup with another attack. When two-handed, they do not perform flourish attacks.
+
+For more in-depth info about the weapon class, see [Twinblades](Twinblades.md).
 
 <table><caption>Medium Weapons</caption>
 <tbody>
@@ -26115,6 +26123,8 @@ Every player-obtainable weapon, excluding offhands.
 </tr>
 </tbody>
 </table>
+
+  
 
 ## Calculating Damage
 

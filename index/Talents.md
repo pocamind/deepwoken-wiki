@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 210534
+revid: 210644
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -436,7 +436,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   The following Outfits and equipment items have this Talent: [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md), [Diver Journeyman Robes](Diver_Journeyman_Robes.md), [Hive Adjudicator](Hive_Adjudicator.md), [Hive Drone](Hive_Drone.md), [Pathfinder Sorcerer](Pathfinder_Sorcerer.md), [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md), [Shadow Hunter](Shadow_Hunter.md), [Steel Plate](Steel_Plate.md), [Assassin's Cloak](<Assassin's_Cloak.md>), [Hive Scourge Cuirass](Hive_Scourge_Cuirass.md), and [Tracker's Boots](<Tracker's_Boots.md>).
 
 -   Unseen Threat \[Common Talent, Agility\] - You can assassinate those with weapons out provided you're not in combat yourself. Those you assassinate are slowed and unable to jump for 3s.
-    -   Being in combat and having your weapon selected normally gives immunity to assassinations. This Talent bypasses this immunity.
+    -   This talent allows you to assassinate enemies who are in combat and holding a weapon.
     -   Prerequisite: 60 Agility, Deep Wound
         -   Merged with the old Low Blow Talent.
 
@@ -3555,7 +3555,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Your assassination range is greatly extended, teleporting you to your target when outside the standard assassination range. (The teleport near for assassination is disabled when in combat)
     -   Has reduced range if you have under 90 Agility.
     -   When you assassinate a player, everyone else nearby gets backstabbed by a shadow. These apply all your backstab Talents.
-    -   Also grants the ability to assassinate players who are in combat.
+    -   The user of the Dustlunge talent can assassinate while in combat, unlike the Unseen Threat talent.
     -   Prerequisites: All Assassin Talents, 90 Agility
 
 -   None Left Behind \[Common Talent, Agility\] - You can now shadestep to pick up [Unconscious](Status_Effects.md#unconscious) humanoids far away from you. (+1 Passive Agility)
@@ -4350,7 +4350,12 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Curved Edge: [Nemit's Sickle](<Nemit's_Sickle.md>) - Your [light weapon mantras](Attunement-less.md#light-weapon-mantras) now gain 60% more chip.
 
 -   Ebb and Flow: [Wyrmtooth](Wyrmtooth.md) - Landing a [medium mantra](Attunement-less.md#medium-weapon-mantras) increases your next [heavy mantra](Attunement-less.md#heavy-weapon-mantras)'s level by 1 and vice versa. This is stackable and can be increased to a max of +5 levels. All stacks are removed if your medium/heavy mantra is defended against.
-    -   This bypasses the normal Mantra level cap of 5.
+    -   This effect **only** applies when alternating weapon Mantras. For example, if you land one heavy Mantra and then follow up with two medium Mantras, the second medium Mantra will **not** receive the buff; your stacks won't be lost, the effect just won't be applied.
+    -   This can bypass the level 5 cap, and is stackable, capping at at +5 levels.
+    -   If one of your Medium or Heavy Mantras get parried, dodged, or blocked, all stacks will be lost.
+    -   Multi-hits do not grant multiple stacks.
+    -   For example, if you have a level 5 [Pressure Blast](Attunement-less.md#pressure-blast), landing [Master's Flourish](Attunement-less.md#masters-flourish) before casting Pressure Blast will increase Pressure Blast's level by +1, to 6, and vice versa. You will then need to follow up with a Mantra of the opposing type to stack the buff further.
+    -   This does **not** apply to [Punishment](Attunement-less.md#punishment), presumably for balancing reasons.
 
 -   Expeditionary Evasiveness: [Inquisitor's Thorn](<Inquisitor's_Thorn.md>) - The design of this rapier allows you to much more swiftly attack in tandem with your mantras, giving Agility mantras you use +3 levels in all stats, even bypassing the level cap.
     -   [Agility Mantras](Attunement-less.md#agility-mantras) gain +3 Mantra levels. This bypasses the normal Mantra level cap of 5.

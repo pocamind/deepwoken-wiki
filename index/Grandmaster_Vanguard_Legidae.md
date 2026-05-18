@@ -1,6 +1,6 @@
 ---
 title: Grandmaster Vanguard Legidae
-revid: 210536
+revid: 210545
 source: https://deepwoken.fandom.com/wiki/Grandmaster_Vanguard_Legidae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Individuals with He/him pronouns, In progress with reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -306,7 +306,7 @@ Grandmaster Vanguard Legidae is located in a stronghold on the left side of [Als
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td><i>*The stout-looking Justicar glances at you in passing.*</i> Ah, a <a href="Glossary.md#pathfinders">Pathfinder</a>? Be welcome here and safe, traveller, so long as you do not cause trouble. Should you wish to learn our ways and follow in Alsin's footsteps the way we do, do not hesitate to ask around.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

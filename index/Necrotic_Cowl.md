@@ -1,9 +1,9 @@
 ---
 title: Necrotic Cowl
-revid: 210217
+revid: 210614
 source: https://deepwoken.fandom.com/wiki/Necrotic_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Craftable, Equipment, Equipment with Set Bonuses, Head]
+categories: [Pathfinder Exclusive, Craftable, Equipment, Equipment with Set Bonuses, Head, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Necrotic Cowl
@@ -14,7 +14,7 @@ categories: [Pathfinder Exclusive, Craftable, Equipment, Equipment with Set Bonu
 | rarity | Rare |
 | selling price | 25 |
 | weight | 1 |
-| innate stats | +5% Shadow Armor, +6% Stealth, +2 Rare Pips |
+| innate stats | +5% Shadow Armor , +6% Stealth , +2 Rare Pips |
 | innate talent | Blood Siphon |
 | set | Necrotic Cowl, Necrotic Mask |
 | set talent | Bloodless Overdrive |
@@ -31,15 +31,15 @@ Variants: [Bloodfeather Cowl](Bloodfeather_Cowl.md)
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-Bloodcurdle Set
+Necrotic Set
+
+Variants: [Mask](Necrotic_Mask.md)
 
 ## Description
 
 The Bloodcurdle Cowl is an [Equipment](Equipment.md) item under the "Head" category.
 
 The [Blood Siphon](Talents.md#blood-siphon) Talent grants 10% lifesteal to your critical attacks.
-
-This item is similar to the [Bloodcurdle Cowl](Bloodcurdle_Cowl.md) from [Vow of Iron](Vow_of_Iron.md).
 
 ## Set Talent
 
