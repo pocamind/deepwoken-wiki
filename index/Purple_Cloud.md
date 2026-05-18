@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 206785
+revid: 210527
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons]
@@ -62,3 +62,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 -   It can only be used one-handed.
 -   Clones wield the weapon unsheathed.
 -   Vow of Iron's version of Purple Cloud shares its swing animations with [Umbrite Witherblade](Umbrite_Witherblade.md).
+-   despite seeming like it. The unleashed purple cloud is not a reference to limbus company’s boss “The Dihui Star”.

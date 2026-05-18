@@ -1,6 +1,6 @@
 ---
 title: Maljuror
-revid: 202166
+revid: 210538
 source: https://deepwoken.fandom.com/wiki/Maljuror
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Random Encounters, The Starkindred Church, Humanoids with Unobtainable Outfits]
@@ -17,7 +17,7 @@ categories: [Enemies, Random Encounters, The Starkindred Church, Humanoids with 
 
 ## Description
 
-Maljuror is a [random encounter](Random_Encounters.md) in the [Ancient Rotlands](Ancient_Rotlands.md), which drops the [Kindred Edict](Kindred_Edict.md) with a small chance.
+Maljuror is a [random encounter](Random_Encounters.md) in the [Ancient Rotlands](Ancient_Rotlands.md), which drops the [Kindred Edict](Kindred_Edict.md) and [Maljuror Jougs](Maljuror_Jougs.md) with a small chance.
 
 They spawn in with their [aspect](Aspects.md), hair and hair color random. They all share the same skin color and face decal, being black, hollow eyes with black tears and an open mouth. Their [Outfit](Outfits.md) and [equipment](Equipment.md) is currently unknown.
 

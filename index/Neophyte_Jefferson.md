@@ -1,6 +1,6 @@
 ---
 title: Neophyte Jefferson
-revid: 210098
+revid: 210542
 source: https://deepwoken.fandom.com/wiki/Neophyte_Jefferson
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Justicars]
@@ -30,7 +30,7 @@ Neophyte Jefferson is located on [Alsin's Landing](<Alsin's_Landing.md>), standi
 
 ## Dialogue
 
-**Base Dialogue:**
+**Justicar:**
 
 <table>
 <tbody>
@@ -46,9 +46,7 @@ Neophyte Jefferson is located on [Alsin's Landing](<Alsin's_Landing.md>), standi
 </tbody>
 </table>
 
-**Unlockable Dialogue:**
-
-This dialogue is unlocked if the player is a [Voidwalker](Voidwalker.md).
+**Voidwalker:**
 
 <table>
 <tbody>
@@ -57,6 +55,22 @@ This dialogue is unlocked if the player is a [Voidwalker](Voidwalker.md).
 </tr>
 <tr>
   <td>Get away from me!..</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Other Origins:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*He appears to be listening to the story of the nearby Justicar .*</i> Oh! Hello there! If you don't mind, I'm trying to listen to the story my friend is telling?</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
