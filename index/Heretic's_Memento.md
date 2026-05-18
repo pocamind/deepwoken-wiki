@@ -1,6 +1,6 @@
 ---
 title: "Heretic's Memento"
-revid: 210194
+revid: 210648
 source: https://deepwoken.fandom.com/wiki/Heretic's_Memento
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, World Event, Outfits with Talents, "Outfits with Non-exclusive Talents"]
@@ -20,7 +20,7 @@ categories: [Outfits, Unique Outfits, World Event, Outfits with Talents, "Outfit
 | durability | 2000 |
 | resistances | +25% Physical Armor +10% Blunt Armor , +25% Elemental Armor , +25% Ironsing Armor , +5% Shadow Armor |
 | buffs | +100% Ether Regen |
-| talents | Underdog |
+| talents | Overflow |
 | obtainment | Heart of Enmity |
 | selling_price | 10 |
 | weight | 1 |

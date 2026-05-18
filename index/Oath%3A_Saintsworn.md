@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 210124
+revid: 210649
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Legendary Weapons, "Attunement-based Weapons"]
@@ -81,7 +81,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 -   Saintsworn **CANNOT** be obtained with 75 points in a singular attunement, you **need** at least 15 points in an attunement to resonate with their respective obelisk- in other words, you need 15 points in the 5 different attunements. It is **NOT** a combined requirement.
     -   Additionally, you do **not** need a Hero Blade equipped to obtain this Oath.
-    -   You can obtain Saintsworn without meeting the 15 points in the five base Attunement requirements. Saintsworn does **not** require you to **currently** have 15 investment in all base Attunements, instead it does a check for whether or not you've unlocked the dialogue with each Obelisk. This means you can meet the requirements of an Obelisk before [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) and then still obtain the Oath after [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) even if you have less than 15 points invested into that Attunement stat.
+    -   You can obtain Saintsworn without meeting the 15 points in the five base Attunement requirements. Saintsworn does **not** require you to **currently** have 15 investment in all base Attunements, instead it does a check for whether or not you've unlocked the dialogue with each Obelisk. This means you can meet the requirements of an Obelisk before [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) and then still obtain the Oath after [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) even if you have less than 15 points invested into that Attunement stat. (Note: You have to talk to the Obelisk while your stats are 15 pre shrine for it to count, the game does not remember your previous investments)
 
 ## Progression
 

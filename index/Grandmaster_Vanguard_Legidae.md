@@ -1,6 +1,6 @@
 ---
 title: Grandmaster Vanguard Legidae
-revid: 210545
+revid: 210654
 source: https://deepwoken.fandom.com/wiki/Grandmaster_Vanguard_Legidae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Individuals with He/him pronouns, In progress with reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -33,7 +33,7 @@ Grandmaster Vanguard Legidae is a [Tiran](Tiran.md) NPC.
 
 ## Location
 
-Grandmaster Vanguard Legidae is located in a stronghold on the left side of [Alsin's Landing](<Alsin's_Landing.md>).
+Grandmaster Vanguard Legidae is located in a stronghold on the western side of [Alsin's Landing](<Alsin's_Landing.md>).
 
 ## Dialogue
 

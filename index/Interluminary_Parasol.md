@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 206210
+revid: 210652
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, World Event, Monsters, Bosses]
@@ -81,6 +81,7 @@ This giant foe's moveset is relatively simple and is easy to avoid; however it d
  | The Parasol sends a current of electricity across its tendrils, shocking targets that are within the area of a tendril.
 
 -   This move is only used when it has Parasol Planting.
+-   Uppercutting its tendrils gives enough height to avoid this attack.
 
  |
 | 
