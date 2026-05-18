@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 208901
+revid: 210646
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Central Authority]
@@ -87,7 +87,7 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
     -   Upon right clicking within 5 seconds of flourishing a humanoid target, enchain them and pull them to you.
     -   "**The yank**" is procced by Impel or flourishes, moving targets, but dealing no hitstun or damage.
         -   2 seconds true endlag on flourish.
-        -   Also procs off of Emperor Flame and [Razor Blitz](Bloodrend.md#razor-blitz), alongside [Kyrswynter](Kyrswynter.md) and mid-uppercut flourishes.
+        -   Also procs off of ~Emperor Flame~(currently not the case) and [Razor Blitz](Bloodrend.md#razor-blitz), alongside [Kyrswynter](Kyrswynter.md) and mid-uppercut flourishes.
         -   Benefits off Dazing Finisher and Bulldozer.
         -   Prevents targets from moving after flourish.
         -   Forces targets back to the user on flourish, holding them in place for a duration.

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Division
-revid: 198150
+revid: 210645
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Division
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics]
@@ -145,6 +145,45 @@ If the player has too many Talents, they will not be able to make deals with thi
 </tr>
 <tr>
   <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Not Enough Talents:**
+
+If the player does not have 2 common Talents available, they will not be able to make deals with this Shrine.
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">PUPPET. STATE YOUR PURPOSE.</td>
+</tr>
+<tr>
+  <td colspan="2">I wish to engage in a deal.</td>
+</tr>
+<tr>
+  <td colspan="2">VERY WELL. WHICH WORDS WILL BE FORGOTTEN?</td>
+</tr>
+<tr>
+  <td colspan="2">[Player selects an eligible Mantra]</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*<b>WARNING</b>: Convert <font>[chosen Mantra]</font> into 2 random talents?</i></td>
+</tr>
+<tr>
+  <td>No, don't convert it.</td>
+  <td>Yes, convert my Mantra into 2 talents.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+  <td>TOO NARROW, NOT ENOUGH FOR LIGHT TO PASS THROUGH.</td>
+</tr>
+<tr>
+  <td></td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
