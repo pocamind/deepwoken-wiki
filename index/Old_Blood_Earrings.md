@@ -1,6 +1,6 @@
 ---
 title: Old Blood Earrings
-revid: 206032
+revid: 210672
 source: https://deepwoken.fandom.com/wiki/Old_Blood_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -13,9 +13,9 @@ categories: [Equipment, Ears]
 | type | Ears |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | LVL 5 |
+| requirements | Power 5 |
 | weight | 0.1 |
-| innate stats | +5 Ether+2 Rare Pips |
+| innate stats | +5 Ether +2 Rare Pips |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

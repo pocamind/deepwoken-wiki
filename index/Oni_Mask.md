@@ -1,9 +1,9 @@
 ---
 title: Oni Mask
-revid: 209073
+revid: 210673
 source: https://deepwoken.fandom.com/wiki/Oni_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Face, Masks]
+categories: [Vow of Iron Exclusive, Equipment, Face, Masks, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Oni Mask

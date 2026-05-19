@@ -1,9 +1,9 @@
 ---
 title: Ossified Black Helm
-revid: 209420
+revid: 210702
 source: https://deepwoken.fandom.com/wiki/Ossified_Black_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Equipment, Craftable, Helmets, Head, Equipment with Set Bonuses]
+categories: [Pathfinder Exclusive, Equipment, Craftable, Helmets, Head, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Ossified Black Helm
@@ -13,9 +13,9 @@ categories: [Pathfinder Exclusive, Equipment, Craftable, Helmets, Head, Equipmen
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | PWR 8 |
+| requirements | Power 8 |
 | weight | 1 |
-| innate stats | +10 Health, +1 Uncommon Pip, +1 Rare Pip |
+| innate stats | +10 Health , +1 Uncommon Pip, +1 Rare Pip |
 | innate talent | Sloped Plate |
 | set | Ossified Black Helm, Ossified Black Pauldrons |
 | set talent | Captain's Call |
@@ -32,9 +32,11 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 Ossified Black Set
 
+Variants: [Pauldrons](Ossified_Black_Pauldrons.md)
+
 ## Description
 
-The Ossified Black Helm is an [Equipment](Equipment.md) item under the "Head" category.
+The Ossified Black Helm is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Head" category.
 
 The [Sloped Plate](Talents.md#sloped-plate) Talent reduces the amount of damage you take from attacks that guard break you by a flat 10.
 
@@ -42,4 +44,8 @@ The [Sloped Plate](Talents.md#sloped-plate) Talent reduces the amount of damage 
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent [Captain's Call](Talents.md#captains-call) - Call up two [Blacksteel Pirates Captains](Blacksteel_Pirate_Captain.md) to aid you in battle \[5 minute CD\].
+Set Talent [Captain's Call](Talents.md#captains-call) - Call up two [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md) to aid you in battle \[5 minute CD\].
+
+## Navigation
+
+1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

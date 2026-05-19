@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 183692
+revid: 210682
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -210,3 +210,4 @@ The Chrysid aspect has an alternate variant of the [Starkindred Wings](Oath%253A
 -   The Seer variant may be a direct reference to [The Seer](https://hollowknight.fandom.com/wiki/Seer) from _Hollow Knight_
 -   The [Hallowtide](Hallowtide.md) variant vaguely resembles someone afflicted by the [Infection](https://hollowknight.fandom.com/wiki/Infection) from _Hollow Knight_, which would make sense given that the entity that created the Infection, the Radiance, was worshipped by the Moth Tribe.
     -   Additionally, it'd also continue the trend of the Greathive aspects having inspiration for their design(s) taken from Hollow Knight.
+-   'Chrysid' comes from the superfamily [Chrysidoidea](https://en.wikipedia.org/wiki/Chrysidoidea)**,** which, ironically, does not contain moths, but rather parasitic wasps.

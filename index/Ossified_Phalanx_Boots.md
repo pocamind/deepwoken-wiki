@@ -1,9 +1,9 @@
 ---
 title: Ossified Phalanx Boots
-revid: 210568
+revid: 210700
 source: https://deepwoken.fandom.com/wiki/Ossified_Phalanx_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Equipment, Legs, Boots, Craftable]
+categories: [Pathfinder Exclusive, Equipment, Legs, Boots, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Ossified Phalanx Boots
@@ -30,6 +30,10 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Alloyed Phalanx Boots are an [Equipment](Equipment.md) item under the "**Legs**" category.
+Alloyed Phalanx Boots are an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "**Legs**" category.
 
 The [Alloyed Soles](Talents.md#alloyed-soles) Talent reduces the duration of knockdown applied to you.
+
+## Navigation
+
+1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

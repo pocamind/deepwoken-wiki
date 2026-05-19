@@ -1,6 +1,6 @@
 ---
 title: Lodestar
-revid: 205645
+revid: 210723
 source: https://deepwoken.fandom.com/wiki/Lodestar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Enemies with Oaths]
@@ -94,8 +94,6 @@ The Lodestar's arsenal consists of the weapon known as the [Guiding Star](Guidin
 ### 
 
 Exhaustive Loot Table
-
-This lootpool may still be incomplete, we'd appreciate it if you helped gather info!
 
 <table>
 <tbody>

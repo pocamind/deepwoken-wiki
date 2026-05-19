@@ -1,9 +1,9 @@
 ---
 title: "The No-Life King's Crown"
-revid: 210563
+revid: 210697
 source: https://deepwoken.fandom.com/wiki/The_No-Life_King's_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Equipment, Head, Ornaments, Craftable]
+categories: [Pathfinder Exclusive, Equipment, Head, Ornaments, Craftable, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
 ---
 
 # The No-Life King's Crown
@@ -13,9 +13,9 @@ categories: [Pathfinder Exclusive, Equipment, Head, Ornaments, Craftable]
 | type | Head |
 | rarity | Unique |
 | selling price | 100 |
-| requirements | PWR 10 |
+| requirements | Power 10 |
 | weight | 1 |
-| innate stats | +5 Health, +1 Legendary Pip, +1 Rare Pip |
+| innate stats | +5 Health , +1 Legendary Pip, +1 Rare Pip |
 | innate talent | Blood NecrosisCauterized Wounds, No Limits |
 | bankable | No |
 | droppable | No |
@@ -30,7 +30,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-**The No-Life King's Crown** is an [Equipment](Equipment.md) item under the "Head" category. The expensive headpiece grants the user the following talents:
+**The No-Life King's Crown** is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Head" category. The expensive headpiece grants the user the following talents:
 
 The [Cauterized Wounds](Talents.md#cauterized-wounds) Talent reduces all blood **damage** taken. Blood drain effects completely ignore this effect.
 
@@ -45,3 +45,7 @@ The [No Limits](Talents.md#no-limits) Talent increases the cap on [Bloodless Gem
 -   [Dying](Dye_Packet.md) it will only make the crown darker, not changing the color of its effects and itself.
 -   Because Bloodless Gem healing is reduced, this equipment should only be used in fights against a large amount of enemies, and on builds that have a lot of extremely large AoE Mantras to hit multiple targets at once. Otherwise, this can be attributed to a net **loss** in your sustain, as your general Bloodless Gem healing will be largely reduced.
     -   For reference, it now takes 94 scaled damage to heal 15 health, as opposed to 63 scaled damage without this equipment.
+
+## Navigation
+
+1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

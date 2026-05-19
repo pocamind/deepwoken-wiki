@@ -1,9 +1,9 @@
 ---
 title: Ossified Simple Pauldrons
-revid: 209414
+revid: 210699
 source: https://deepwoken.fandom.com/wiki/Ossified_Simple_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Equipment, Arms, Craftable, Pauldrons]
+categories: [Pathfinder Exclusive, Equipment, Arms, Craftable, Pauldrons, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Ossified Simple Pauldrons
@@ -12,10 +12,10 @@ categories: [Pathfinder Exclusive, Equipment, Arms, Craftable, Pauldrons]
 |---|---|
 | type | Arms |
 | rarity | Common |
-| selling price | 12 |
+| selling price | 7 |
 | requirements | None |
 | weight | 2 |
-| innate stats | +2 Health, +1 Posture, +1 Uncommon Pip |
+| innate stats | +2 Health , +1 Posture , +1 Uncommon Pip |
 | innate talent | Simple Buff |
 | bankable | No |
 | droppable | No |
@@ -30,6 +30,10 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-The Ossified Simple Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category.
+The Ossified Simple Pauldrons are an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Arms" category.
 
 The [Simple Buff](Talents.md#simple-buff) Talent grants a 7.5% damage buff to M1s (15% in Vow of Iron).
+
+## Navigation
+
+1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

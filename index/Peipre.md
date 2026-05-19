@@ -1,6 +1,6 @@
 ---
 title: Peipre
-revid: 209899
+revid: 210709
 source: https://deepwoken.fandom.com/wiki/Peipre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority, Individuals with unspecified pronouns]
@@ -21,7 +21,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Peipre is a [Capra](Capra.md) NPC. They are a Handler of [The Central Authority](The_Central_Authority.md) investigating the arrival of [Simforea](Simforea.md).
+Peipre is a [Capra](Capra.md) NPC. They are a member of [The Central Authority](The_Central_Authority.md) investigating the arrival of [Simforea](Simforea.md).
 
 ## Location
 
@@ -117,3 +117,5 @@ This dialogue is unlocked after the player has defeated [Knell, The Lunatic Reso
 ## Trivia
 
 -   Peipre seems to be a different [Capra](Capra.md) variant to the available options.
+-   Peipre has a unique telescope.
+-   Peipre wears the [Inquisition Light](Inquisition_Light.md) Outfit, though it's never stated of Peipre is a member of [The Inquisition](The_Inquisition.md).

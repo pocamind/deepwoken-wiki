@@ -1,6 +1,6 @@
 ---
 title: Sherman
-revid: 210002
+revid: 210689
 source: https://deepwoken.fandom.com/wiki/Sherman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -24,7 +24,13 @@ This content is not accessible outside of this gamemode.
 
 Kars is a [Canor](Canor.md) NPC.
 
+## Location
+
+Kars is located in the training grounds of [Alsin's Landing](<Alsin's_Landing.md>).
+
 ## Dialogue
+
+**Base Dialogue:**
 
 <table>
 <tbody>
@@ -32,7 +38,25 @@ Kars is a [Canor](Canor.md) NPC.
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td>Lovely day isn't it? Let me know if your day isn't going so great due to outside forces. I can help.</td>
+  <td>5... 6.. 7!</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+This dialogue is unlocked if the player is a [Voidwalker](Voidwalker.md).
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Hey, back off! I'm not looking for trouble!</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

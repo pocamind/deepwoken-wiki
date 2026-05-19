@@ -1,6 +1,6 @@
 ---
 title: Carnival of Hearts
-revid: 202101
+revid: 210671
 source: https://deepwoken.fandom.com/wiki/Carnival_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, World Event, Dungeons]
@@ -57,12 +57,70 @@ The minigames happen in a random order. Once all minigames are completed, all re
 ## Rewards
 
 -   Eliminated players have a chance of spawning chests where they were standing. Additionally, when all three games are over, a chest spawns in the center of the Carnival for each remaining player. Chests will spawn inside the circus that contain mixed loot.
--   Chests can drop the outfits [Trickster's Habit](<Trickster's_Habit.md>), [Jester's Garb](<Jester's_Garb.md>), [Sanguine Finery](Sanguine_Finery.md), [Stormchanter's Raiments](<Stormchanter's_Raiments.md>), [Tempestmaker's Threads](<Tempestmaker's_Threads.md>), [Cindergarb](Cindergarb.md), and the [Icebringer's Vestments](<Icebringer's_Vestments.md>)
-    -   [Trickster's Habit](<Trickster's_Habit.md>), [Jester's Garb](<Jester's_Garb.md>), [Cindergarb](Cindergarb.md), [Sanguine Finery](Sanguine_Finery.md), [Stormchanter's Raiments](<Stormchanter's_Raiments.md>), [Tempestmaker's Threads](<Tempestmaker's_Threads.md>), and [Icebringer's Vestments](<Icebringer's_Vestments.md>) are exclusively obtainable in the Carnival of Hearts.
--   The chests may also contain [Tillian's Beret](<Tillian's_Beret.md>).
--   The chests can drop [Relics](Relics.md) including [Moonseye Tomes](Moonseye_Tome.md), [Sinner's Ashes](<Sinner's_Ash.md>), [Armorer's Needles](<Armorer's_Needle.md>), [Gilded Needles](Gilded_Needle.md), [Smith's Alloys](<Smith's_Alloy.md>), [Dye Packets](Dye_Packet.md), [Rain Spires](Rain_Spire.md), [Void Spires](Void_Spire.md), [Trickster Dusts](Trickster_Dust.md) and possibly more.
--   The chests can contain large amounts of items, [as seen in this video](https://www.youtube.com/watch?v=rwZ_5dDwGSE), where the chests drop 44 iron bombs and 16 cakes.
--   The Carnival also gives XP based on the number of eliminated players.
+
+### 
+
+Exhaustive Loot Table
+
+<table>
+<tbody>
+<tr>
+  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
+  <td>
+  <ul>
+    <li><b>Adept</b>: <a href="Carefree_Garments.md">Carefree Garments</a></li>
+    <li><b>Expert</b>: <a href="Cerulean_Gown.md">Cerulean Gown</a></li>
+    <li><b>Unique</b>: <a href="Cindergarb.md"><font>Cindergarb</font></a>, <a href="Icebringer's_Vestments.md"><font>Icebringer's Vestments</font></a>, <a href="Jade_Vigil's_Weave.md"><font>Jade Vigil's Weave</font></a> <a href="Jester's_Garb.md"><font>Jester's Garb</font></a>, <a href="Sanguine_Finery.md"><font>Sanguine Finery</font></a>, <a href="Stormchanter's_Raiments.md"><font>Stormchanter's Raiments</font></a>, <a href="Tempestmaker's_Threads.md"><font>Tempestmaker's Threads</font></a>, <a href="Trickster's_Habit.md"><font>Trickster's Habit</font></a>, <a href="Vigil_Sentinel.md"><font>Vigil Sentinel</font></a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Dye_Packet.md">Dye Packet</a>, <a href="Gilded_Needle.md">Gilded Needle</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, Trickster's Dust, <a href="Void_Spire.md">Void Spire</a></li>
+    <li><a href="Items.md">Items</a>: <a href="Cake.md">Cake</a>, <a href="Iron_Bomb.md">Iron Bomb</a></li>
+    <li>EXP, scaling on the amount of eliminated players</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Relic Weapons</b>:</li>
+    <li><b>Legendary Weapons</b>:</li>
+    <li><b>Alloyed Weapons</b>:</li>
+    <li><b>Generic Weapons</b>:
+  <ol>
+    <li><b>Light Weapons</b>:</li>
+    <li><b>Medium Weapons</b>: <a href="Crescendo.md">Crescendo</a></li>
+    <li><b>Heavy Weapons</b>:</li>
+  </ol></li>
+    <li><b>Offhand Weapons</b>:</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>:
+  <ol>
+    <li><b>Unique Head</b>: <a href="Tillian's_Beret.md">Tillian's Beret</a></li>
+    <li><b>Generic Head</b>: <a href="Assassin's_Hood.md">Assassin's Hood</a></li>
+  </ol></li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:</li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>:</li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:
+  <ol>
+    <li><b>Mythical Torso</b>: <a href="Trickster's_Scarf.md">Trickster's Scarf</a></li>
+    <li><b>Generic Torso</b>: <a href="Threadwork_Kilt.md">Threadwork Kilt</a></li>
+  </ol></li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>:</li>
+    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:</li>
+    <li><a href="Equipment.md#rings"><b>Rings</b></a>:</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 209001
+revid: 210727
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Consumables, Alchemy]
@@ -251,6 +251,8 @@ For simplicity's sake in these example calculations, only the ingredient's base 
 There is a universal posture damage floor/cap, meaning you cannot go over +75% posture damage dealt (with a soft cap at 50%) and you cannot go under -50% posture damage dealt. This affects both positive and negative **Posture Resistance** and **Posture Damage** potions.
 
 Potions with a singular ingredient will have its effectiveness halved. You can use ingredients with **inert** effects to counteract this. Ingredients with inert effects are as follows: [Sticks](Stick.md), all [Ores](Ores.md), [Eggs](Egg.md), all [Lotuses](Primordial_Lotuses.md), all types of [Fish](Fishing.md), [Fish Meat](Food.md), [Galewax](Galewax.md), [Dread Flesh](Dread_Flesh.md), [Primal Slab](Primal_Slab.md), [Raw Parasol Brain](Raw_Parasol_Brain.md), and the [Raw Heavy Meat](Raw_Heavy_Meat.md).
+
+You can only hold a max of 99 potions before you are unable to brew more.
 
 ## Effects
 

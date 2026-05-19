@@ -1,6 +1,6 @@
 ---
 title: Oni Beads
-revid: 210490
+revid: 210675
 source: https://deepwoken.fandom.com/wiki/Oni_Beads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -16,25 +16,21 @@ categories: [Equipment, Torso, Necklaces]
 | requirements | None |
 | weight | 0.5 |
 | innate stats | None |
-| innate talent | True Demon Step |
+| innate talent | N/A |
 | set | Oni Robes, OniBeads |
 | set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | True Enmity |
+| obtainment | Etris: Siege, Maestro Evengarde Rest, The Diluvian Mechanism (Wave 50), Fishing Chests |
 | description | ... |
 
 ## Description
 
 The OniBeads are a bloodshed version of the [Monastery Beads](Monastery_Beads.md).
 
-## Talent
-
-  The [True Demon Step](Talents.md#true-demon-step) Talent grants a Talent tool that when activated makes the user charge forward in a straight line, gaining i-frames. This consumes 10 Ether on cast with a 0.5 second cooldown.
-
 ## Trivia
 
--   This item's talent is an extremely buffed version of the [Familiar Demon's Armor](<Familiar_Demon's_Armor.md>)
+-   It's likely this item was released prematurely, due to its name being formatted like a placeholder or internal name; sharing the exact same drop sources as [Monastery Beads](Monastery_Beads.md); and having no stats, talents, or description.
 -   It is related to the upcoming [Wandering Demon](Wandering_Demon.md) [Memento](Mementos.md).

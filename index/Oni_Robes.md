@@ -1,6 +1,6 @@
 ---
 title: Oni Robes
-revid: 199982
+revid: 210674
 source: https://deepwoken.fandom.com/wiki/Oni_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -15,7 +15,7 @@ categories: [Equipment, Arms]
 | selling price | 50 |
 | requirements | None |
 | weight | 2 |
-| innate stats | +1 Posture, +2 Legendary Pips, +1 Rare Pip |
+| innate stats | +1 Posture , +1 Rare Pip, +2 Legendary Pips |
 | set | Oni Robes, OniBeads |
 | set talent | N/A |
 | bankable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 206782
+revid: 210690
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, OutdatedPages, SpoilerPages, Deepwoken]
@@ -530,19 +530,6 @@ The Citadel
     -   High-ground advantages made from constructed walls and artillery.
     -   However, this can potentially be bypassed through cavern systems but are likely reinforced as well.
 
-#### The Stoneseye Range
-
--   A range of mountains with volcanic origin that borders the Lullaby Isles.
--   Contains passages that are sometimes fortified with artillery and walls, with the outer side being devoid of settlements.
-
-### Southern Luminant
-
--   The city of Celtor was once located here, though the Great Drowning has consumed it.
--   The home of the self-proclaimed "Prophet of the Southern Luminant" and his followers.
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) was named after a region of the Southern Luminant it dragged beneath the waves.
--   The "Submergence of the Southern Luminant" was not caused solely the Great Drowning of Celtor but rather by many countless smaller tragedies that were overshadowed by the event.
--   The Great Drowning has permanently scarred the ecosystem, causing the Luminant to decay and become new sections of Voidsea.[\[6\]](#cite-note-arch-6)
-
 ### Northern Luminant
 
 -   A frozen tundra.
@@ -554,7 +541,6 @@ The Citadel
 ### Western Luminant
 
 -   The home to the Hundred Legions and home of the Khans.
--   Speculated to have the main Headquarters of the Ministry.
 -   Home of Amorus Pleeksty.
 
 ### Voidsea
@@ -649,7 +635,6 @@ Castle light back then when deepbound used to be a flaw
 -   The Ignition Union has set up a base called [The Frontier Furnace](The_Frontier_Furnace.md) within the shrine, along with lanterns to burn the parasitic snow off.
     -   This means that even though The Divers are well funded and have way more control over Scyphozia compared to the Ignition Union, the Ignition Union is much more equipped to handle The Second Layer. This could possibly mean that they are funded by The Central Authority to explore the deeper parts of The Depths and settle there efficiently while The Divers are more research-based and only go on expeditions to The Eternal Gale for more information that the Ignition Union is ordered not to do. This could be why they are both funded by The Authority for maximum efficiency.
     -   The Ethironal Shrine is under the same time dilation phenomenon as New Kyrsa, only less potent due to the distance between Ethiron's physical body and the shrine.
-    -   Currently where [Chaser](#chaser-scholar-of-the-crimson-contract) is located at and trapped due to time dilation.
 
 ##### New Kyrsa (Second Floor)
 
@@ -658,8 +643,6 @@ Castle light back then when deepbound used to be a flaw
 -   Before the last ritual of the Kyrsgarde towards Ethiron failed, it was considered a prosperous city showing the proud efforts of the Kyrsgarde, showing how they created new technology such as the train station below the town, and high buildings with signs of industrial advancement towards the surface.
 -   The City fell due to the last ritual (the bone statues in the boss fight) to keep Ethiron asleep, and failed due to the "Foolishness" of the Kyrsgarde as told by Naerotiv in the outskirts of New Kyrsa.
 -   The city alongside its citizens are controlled by the Scion of Ethiron due to the white mist that surrounds the city, making both Kyrsgarde and anyone who stays in the city for too long puppets of the Scion of Ethiron, attacking anyone nearby so they don't disturb Ethiron's awakening.
--   Apparently, after you defeat the Scion of Ethiron, the city is "torn of eternity" as Klaris says when you defeat the Scion of Ethiron.
--   Its inhabitants are the Kyrsgarde.
 
 #### The Vents, The Third Layer
 
@@ -2157,7 +2140,7 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 3.  ↑ [3.0](#cite-ref-vy-3-0) [3.1](#cite-ref-vy-3-1) [3.2](#cite-ref-vy-3-2) [3.3](#cite-ref-vy-3-3) [3.4](#cite-ref-vy-3-4) [3.5](#cite-ref-vy-3-5) [Vyrelda](Vyrelda,_Master_of_Blood.md)
 4.  ↑ [4.0](#cite-ref-firstlight-4-0) [4.1](#cite-ref-firstlight-4-1) [First Light](First_Light.md) description
 5.  ↑ [5.0](#cite-ref-doc-5-0) [5.1](#cite-ref-doc-5-1) [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
-6.  ↑ [6.00](#cite-ref-arch-6-0) [6.01](#cite-ref-arch-6-1) [6.02](#cite-ref-arch-6-2) [6.03](#cite-ref-arch-6-3) [6.04](#cite-ref-arch-6-4) [6.05](#cite-ref-arch-6-5) [6.06](#cite-ref-arch-6-6) [6.07](#cite-ref-arch-6-7) [6.08](#cite-ref-arch-6-8) [6.09](#cite-ref-arch-6-9) [6.10](#cite-ref-arch-6-10) [6.11](#cite-ref-arch-6-11) [6.12](#cite-ref-arch-6-12) [6.13](#cite-ref-arch-6-13) [6.14](#cite-ref-arch-6-14) [6.15](#cite-ref-arch-6-15) [6.16](#cite-ref-arch-6-16) [6.17](#cite-ref-arch-6-17) [6.18](#cite-ref-arch-6-18) [6.19](#cite-ref-arch-6-19) [6.20](#cite-ref-arch-6-20) [6.21](#cite-ref-arch-6-21) [6.22](#cite-ref-arch-6-22) [6.23](#cite-ref-arch-6-23) [6.24](#cite-ref-arch-6-24) [6.25](#cite-ref-arch-6-25) [6.26](#cite-ref-arch-6-26) [6.27](#cite-ref-arch-6-27) [6.28](#cite-ref-arch-6-28) [6.29](#cite-ref-arch-6-29) [6.30](#cite-ref-arch-6-30) [6.31](#cite-ref-arch-6-31) [6.32](#cite-ref-arch-6-32) [6.33](#cite-ref-arch-6-33) [6.34](#cite-ref-arch-6-34) [6.35](#cite-ref-arch-6-35) [6.36](#cite-ref-arch-6-36) [6.37](#cite-ref-arch-6-37) [6.38](#cite-ref-arch-6-38) [6.39](#cite-ref-arch-6-39) [6.40](#cite-ref-arch-6-40) [6.41](#cite-ref-arch-6-41) [6.42](#cite-ref-arch-6-42) [6.43](#cite-ref-arch-6-43) [6.44](#cite-ref-arch-6-44) [6.45](#cite-ref-arch-6-45) [6.46](#cite-ref-arch-6-46) [6.47](#cite-ref-arch-6-47) [6.48](#cite-ref-arch-6-48) [6.49](#cite-ref-arch-6-49) [6.50](#cite-ref-arch-6-50) [6.51](#cite-ref-arch-6-51) [6.52](#cite-ref-arch-6-52) [6.53](#cite-ref-arch-6-53) [6.54](#cite-ref-arch-6-54) [6.55](#cite-ref-arch-6-55) [6.56](#cite-ref-arch-6-56) [6.57](#cite-ref-arch-6-57) [6.58](#cite-ref-arch-6-58) [6.59](#cite-ref-arch-6-59) [6.60](#cite-ref-arch-6-60) [6.61](#cite-ref-arch-6-61) [6.62](#cite-ref-arch-6-62) [6.63](#cite-ref-arch-6-63) [6.64](#cite-ref-arch-6-64) [6.65](#cite-ref-arch-6-65) [6.66](#cite-ref-arch-6-66) [6.67](#cite-ref-arch-6-67) [6.68](#cite-ref-arch-6-68) [6.69](#cite-ref-arch-6-69) [6.70](#cite-ref-arch-6-70) [6.71](#cite-ref-arch-6-71) [6.72](#cite-ref-arch-6-72) [6.73](#cite-ref-arch-6-73) [6.74](#cite-ref-arch-6-74) Cite error: Invalid `<ref>` tag; no text was provided for refs named `arch`
+6.  ↑ [6.00](#cite-ref-arch-6-0) [6.01](#cite-ref-arch-6-1) [6.02](#cite-ref-arch-6-2) [6.03](#cite-ref-arch-6-3) [6.04](#cite-ref-arch-6-4) [6.05](#cite-ref-arch-6-5) [6.06](#cite-ref-arch-6-6) [6.07](#cite-ref-arch-6-7) [6.08](#cite-ref-arch-6-8) [6.09](#cite-ref-arch-6-9) [6.10](#cite-ref-arch-6-10) [6.11](#cite-ref-arch-6-11) [6.12](#cite-ref-arch-6-12) [6.13](#cite-ref-arch-6-13) [6.14](#cite-ref-arch-6-14) [6.15](#cite-ref-arch-6-15) [6.16](#cite-ref-arch-6-16) [6.17](#cite-ref-arch-6-17) [6.18](#cite-ref-arch-6-18) [6.19](#cite-ref-arch-6-19) [6.20](#cite-ref-arch-6-20) [6.21](#cite-ref-arch-6-21) [6.22](#cite-ref-arch-6-22) [6.23](#cite-ref-arch-6-23) [6.24](#cite-ref-arch-6-24) [6.25](#cite-ref-arch-6-25) [6.26](#cite-ref-arch-6-26) [6.27](#cite-ref-arch-6-27) [6.28](#cite-ref-arch-6-28) [6.29](#cite-ref-arch-6-29) [6.30](#cite-ref-arch-6-30) [6.31](#cite-ref-arch-6-31) [6.32](#cite-ref-arch-6-32) [6.33](#cite-ref-arch-6-33) [6.34](#cite-ref-arch-6-34) [6.35](#cite-ref-arch-6-35) [6.36](#cite-ref-arch-6-36) [6.37](#cite-ref-arch-6-37) [6.38](#cite-ref-arch-6-38) [6.39](#cite-ref-arch-6-39) [6.40](#cite-ref-arch-6-40) [6.41](#cite-ref-arch-6-41) [6.42](#cite-ref-arch-6-42) [6.43](#cite-ref-arch-6-43) [6.44](#cite-ref-arch-6-44) [6.45](#cite-ref-arch-6-45) [6.46](#cite-ref-arch-6-46) [6.47](#cite-ref-arch-6-47) [6.48](#cite-ref-arch-6-48) [6.49](#cite-ref-arch-6-49) [6.50](#cite-ref-arch-6-50) [6.51](#cite-ref-arch-6-51) [6.52](#cite-ref-arch-6-52) [6.53](#cite-ref-arch-6-53) [6.54](#cite-ref-arch-6-54) [6.55](#cite-ref-arch-6-55) [6.56](#cite-ref-arch-6-56) [6.57](#cite-ref-arch-6-57) [6.58](#cite-ref-arch-6-58) [6.59](#cite-ref-arch-6-59) [6.60](#cite-ref-arch-6-60) [6.61](#cite-ref-arch-6-61) [6.62](#cite-ref-arch-6-62) [6.63](#cite-ref-arch-6-63) [6.64](#cite-ref-arch-6-64) [6.65](#cite-ref-arch-6-65) [6.66](#cite-ref-arch-6-66) [6.67](#cite-ref-arch-6-67) [6.68](#cite-ref-arch-6-68) [6.69](#cite-ref-arch-6-69) [6.70](#cite-ref-arch-6-70) [6.71](#cite-ref-arch-6-71) [6.72](#cite-ref-arch-6-72) [6.73](#cite-ref-arch-6-73) Cite error: Invalid `<ref>` tag; no text was provided for refs named `arch`
 7.  ↑ [7.0](#cite-ref-yama-7-0) [7.1](#cite-ref-yama-7-1) [7.2](#cite-ref-yama-7-2) [7.3](#cite-ref-yama-7-3) [7.4](#cite-ref-yama-7-4) [Yamaketzal](Yamaketzal.md)
 8.  ↑ [8.0](#cite-ref-stormseye-8-0) [8.1](#cite-ref-stormseye-8-1) Cite error: Invalid `<ref>` tag; no text was provided for refs named `stormseye`
 9.  [↑](#cite-ref-gran-9-0) Cite error: Invalid `<ref>` tag; no text was provided for refs named `gran`
