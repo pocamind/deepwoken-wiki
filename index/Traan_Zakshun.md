@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 205765
+revid: 210735
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -32,7 +32,7 @@ He wields an [Iron Twinblade](Iron_Twinblade.md) on his back and wears the [Care
 
 Traan got into the business by working alongside his grandmother, [Naan Zakshun](Naan_Zakshun.md), during the [Etrean Civil War](Etrean_Civil_War.md). During this time, he learned to create kelp hats and gave one to her to wear. He also has a love of ongos that dates back to his youth.[\[1\]](#cite-note-nan-1)
 
-Traan Zakshun's shop runs on an hourly rotation. Every hour, he sell two to four items chosen at random from a list. He can sell the same item multiple times, on the same rotation, and across multiple rotations. Most of their shop consists of uncommon weapons and schematics that are geared towards mid-game.
+Traan Zakshun's shop runs on an hourly rotation. Every hour, he sells two to four items chosen at random from a list. He can sell the same item multiple times, on the same rotation, and across multiple rotations. Most of their shop consists of uncommon weapons and schematics that are geared towards mid-game.
 
 Once every 20 hours Traan Zakshun will appear hosting a [Black Market Cache](#black-market) for rare items such as [Relics](Relics.md) and Legendary [Weapons](Weapons.md). These items are only sold for [Crowns](Crowns.md) and only one item total can be purchased per black market visit.
 
@@ -436,7 +436,7 @@ Sold Items
 
 ## Trivia
 
--   Traan Zakshun's name is a play on the word "transaction." This is only further reinstated by them being a merchant.
+-   Traan Zakshun's name is a play on the word "transaction." This is only further reinstated by him being a merchant.
     -   Traan's name was originally "Trahne Zakshun", however it was changed in the June 30th, 2025 update, as too many people were pronouncing it as "train saction" and not "transaction".
 -   Traan Zakshun's hair is green.
 -   Traan's shop dialogues contain references to other media:
@@ -445,7 +445,7 @@ Sold Items
     -   "_Traan Zakshun has wares if you have coin- I mean... notes... yeah_" is a reference to Khajiits from _The Elder Scrolls V: Skyrim_, travelling merchants who, when interacted with, will say the line "Khajiit has wares if you have coin".
     -   "_You want it? It's yours, my friend! As long as you have enough crowns._" is a reference to Morshu from _Link: The Faces of Evil_.
     -   "_Colour makes us hungry - everything's connected!_" is a reference to the song _Redesign your Logo_ by Lemon Demon.
--   As stated by Traan themselves and Nuttoons, the developer who made the character, Traan mugs freshies and bandits around Erisia for the wares that they sell in his regular shop rotation.[\[3\]](#cite-note-0-3) This draws similarity to the [Loot Bag Gacha](Loot_Bag_Gacha.md) NPCs, although unlike Traan, the loot bag gacha NPCs collect their goods off of corpses rather than getting their hands dirty themselves.
+-   As stated by Traan themselves and Nuttoons, the developer who made the character, Traan mugs freshies and bandits around Erisia for the wares that they sell in his regular shop rotation.[\[3\]](#cite-note-0-3) This draws similarity to the [Loot Bag Gacha](Loot_Bag_Gacha.md) NPCs, although unlike Traan, the loot bag gacha NPCs collect their goods off of corpses rather than getting his hands dirty himself.
 
 ## References
 

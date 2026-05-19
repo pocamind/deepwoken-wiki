@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 210655
+revid: 210737
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -89,7 +89,7 @@ As you can only gain a maximum of 4 promotions which inludes Path promotions, yo
     -   Having the Vanguard Style Talent will override this Talent, allowing you to use the Vanguard Style critical on any weapon instead of the Jus Karita one.
 -   **Justicar's Technique** - Replace your running light attack with the Jus Karita running light attack. With the Justicar's Training, your legs extend the range of this running attack by an extra 0.5.
 -   **Swiftfoot** - Reduce all slows you recieve by 10%.
--   **Trained legs** - Slightly increase your climb strength.
+-   **Trained Legs** - Slightly increase your climb strength.
     -   Increases how high you can climb.
 
 ## Paths
