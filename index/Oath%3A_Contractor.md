@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 210085
+revid: 210730
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ministry]
@@ -50,9 +50,9 @@ _Contractor **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---o
 
 As tasked by [The Lord Regent](The_Lord_Regent.md), to obtain the Talents and mantras, you must grip a total of 3 players with [Oaths](Oaths.md) in Depths' [Layer 1](First_Layer.md) (Works on Allies, Guildmates and works people with [Oathless](Oath%253A_Oathless.md)). Gripping players with Oaths while having Contractor not fully progged will send them to Layer 2 instead of wiping. You must be the sole contributor of damage, otherwise the kill will not be counted.
 
--   1st Grip - Hidden Tendril and Lord's Slice
--   2nd Grip - Equalizer
--   3rd Grip - String Trick and Judgement
+-   Obtained upon unlocking contractor - Hidden Tendril and Lord's Slice
+-   1st Grip - Equalizer
+-   2nd Grip - String Trick and Judgement
 
 Alternatively you may spend 10 Knowledge to immediately max out the Oath. This is only possible if you have already completed the Oath progression normally at least once after the [April 26th, 2024 update](Version_History/2024.md#april-26th-2024), or you have logged in on an already progressed Contractor slot after that date.
 
@@ -66,12 +66,12 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
 
 -   **Hidden Tendril** - Landing any physical mantra places a Hidden Tendril on the opponent. (+10 Ether)
     -   Physical critical attacks, uppercuts, flourishes, and most attunement-less mantras will also apply a Hidden Tendril.
--   Obtained after gripping 1 player with an [Oath](Oaths.md) in [The Depths](First_Layer.md).
+-   Obtained upon unlocking the oath.
 
 -   **String Trick** - Pulls together any two opponents you've attached Hidden Tendril to.
     -   Deals 4.8 Oath DMG twice.
     -   Cannot be used on non-humanoids.
--   Obtained after gripping 3 players with [Oaths](Oaths.md) in [The Depths](First_Layer.md).
+-   Obtained after gripping 2 players with [Oaths](Oaths.md) in [The Depths](First_Layer.md).
 
 ### Mantras
 
@@ -84,13 +84,13 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
     -   Can be vented out of, and can also be parried as soon as you hear the 'snap' sound.
     -   Deals 59.93 (6.38 + 53.55) Oath damage, 7 posture if blocked.
     -   Goes on a short cooldown if feinted.
--   Obtained after gripping 3 players with [Oaths](Oaths.md) in [The Depths](First_Layer.md).
+-   Obtained after gripping 2 players with [Oaths](Oaths.md) in [The Depths](First_Layer.md).
 
 -   **Lord's Slice** - The Hidden Tendril contracts, pulling both the contractor and target closer. They are flung in opposite directions.
     -   Can slam people into walls.
     -   Only usable if Hidden Tendril is applied to the target.
     -   Deals 44 Oath damage and 28 posture if blocked.
--   Obtained after gripping 1 player with an [Oath](Oaths.md) in [The Depths](First_Layer.md).
+-   Obtained upon unlocking the oath.
 
 -   **Equalizer** - Whip forward a tendril. If it connects, it deals damage to the target, and gives the user a blue aura.
     -   Being attacked with the blue aura will ignore the attack and stun the attacker for about 2 seconds, acting as a counter.
@@ -100,7 +100,7 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
     -   The whip hit deals 20 Oath damage.
     -   Although the whip can be blocked and parried, doing so does not negate the effects of the Mantra.
     -   The counters stun has a range limit. (this will still negate the damage of the attack)
--   Obtained after gripping 2 players with [Oaths](Oaths.md) in [The Depths](First_Layer.md).
+-   Obtained after gripping 1 player with [Oaths](Oaths.md) in [The Depths](First_Layer.md).
 
 ## Trivia
 
@@ -129,6 +129,7 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
 -   The Oath, before its release, was first mentioned in the Windrunner's dialogue where he speaks of observing the war between Etrea and the Authority.
 -   This Oath was created by Melon\_Sensei/Par. [\[3\]](#cite-note-3)
 -   Meeting reputation requirements and Duke defeated with questline but not having Contractor unlocks a special bite your tongue dialogue.
+-   Contractor used to require 3 grips in depths to fully progress.
 
 ## References
 
