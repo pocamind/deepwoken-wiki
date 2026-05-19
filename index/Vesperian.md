@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 182570
+revid: 210666
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -149,7 +149,7 @@ Vesperian has a few unique Oath cosmetic variations.
 -   Arch\_Mage has also mentioned the masks are organic, meaning they grow over time.
 -   During the 4/1/2022 April Fools update (Mudwoken), Vesperian aspect name was changed to Maskskipper.
 -   Wearing a helmet (such as the Authority Helm) does not remove the mask, and instead opts to clip into it
--   Vesperians are considered one of the best aspects in the game, due to their natural armor granting an actual combat advantage by making you take less damage.
+-   Vesperians are considered one of the best aspects in the game, due to their natural armor granting an actual combat advantage by making you take less damage. Marko is tuff type shyat
 
 The old Blindseer mask
 

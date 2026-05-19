@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 208238
+revid: 210657
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -43,6 +43,7 @@ This Regalia is **kept** upon wiping at or below Power 10.
     -   [Hollow Angels](Hollow_Angel.md) (if not summoned by a [Watcher](Watcher.md))
 -   Mute will still make the following passive, but when provoked they will **not** unaggro after 15 seconds:
     -   [King Threshers](King_Thresher.md)
+    -   [Thresher](Thresher.md)
     -   [Deep Owls](Deep_Owl.md)
 
 ### Two-Faced

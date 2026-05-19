@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 210555
+revid: 210655
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -31,7 +31,7 @@ Justicars are those who follow [Alsin](Alsin.md)'s wisdom by interpreting and wa
 To obtain the Justicar [Origin](Origins.md), the player must do the following:
 
 1.  Meet either of these requirements. Only one is needed to be done before the next step.
-    -   Participate in the [Cinders of Etris](Cinders_of_Etris.md) Disaster [World Event](World_Events.md). You need only kill one [Authority Soldier](Authority_Soldier.md) for this method.
+    -   Participate in the [Cinders of Etris](Cinders_of_Etris.md) Disaster [World Event](World_Events.md). You only need to kill one [Authority Soldier](Authority_Soldier.md) for this method.
     -   Help a player at or below Power 15 escape the [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation).
 2.  Speak to [Polis](Polis.md) after you have already received a [Gold Ring](Gold_Ring.md) from him. After which, talk to him about wanting to join his cause, which allows you to walk the path of [Alsin](Alsin.md) and unlock **Justicar**.
 
