@@ -1,9 +1,9 @@
 ---
 title: Regenerative Pendant
-revid: 210641
+revid: 210763
 source: https://deepwoken.fandom.com/wiki/Regenerative_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Equipment, Craftable, Torso, Necklaces, Equipment with Set Bonuses]
+categories: [Pathfinder Exclusive, Equipment, Craftable, Torso, Necklaces, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Regenerative Pendant
@@ -13,9 +13,9 @@ categories: [Pathfinder Exclusive, Equipment, Craftable, Torso, Necklaces, Equip
 | type | Torso |
 | rarity | Rare |
 | selling price | N/A |
-| requirements | PWR 5 |
+| requirements | Power 5 |
 | weight | 0.5 |
-| innate stats | +3% Elemental Armor, +1 Legendary Pip |
+| innate stats | +3% Elemental Armor , +1 Legendary Pip |
 | innate talent | Blood Pact |
 | set | Regenerative Pendant, Regenerative Earrings |
 | set talent | Critical Heal |
@@ -31,6 +31,8 @@ You are currently viewing the version of this content that only applies to the *
 For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 Regenerative Set
+
+Variants: [Earrings](Regenerative_Earrings.md)
 
 ## Description
 

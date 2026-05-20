@@ -1,9 +1,9 @@
 ---
 title: "Prophet's Operative Cloak"
-revid: 189975
+revid: 210752
 source: https://deepwoken.fandom.com/wiki/Prophet's_Operative_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Arms, Cloaks]
+categories: [Vow of Iron Exclusive, Equipment, Arms, Cloaks, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
 ---
 
 # Prophet's Operative Cloak
@@ -15,7 +15,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Cloaks]
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | 6% Stealth, +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +6% Stealth , +2 Rare Pips, +1 Legendary Pip |
 | innate talent | Tempo Sap, Eureka |
 | bankable | No |
 | droppable | No |

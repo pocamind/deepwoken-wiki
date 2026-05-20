@@ -1,9 +1,9 @@
 ---
 title: Pathfinder Lantern
-revid: 209591
+revid: 210746
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Lantern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Torso]
+categories: [Equipment, Torso, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Pathfinder Lantern
@@ -15,7 +15,7 @@ categories: [Equipment, Torso]
 | selling price | 7 |
 | requirements | None |
 | weight | 0.5 |
-| innate stats | +10 Sanity, +1 Uncommon Pip |
+| innate stats | +10 Sanity , +1 Uncommon Pip |
 | innate talent | Breathing Exercise |
 | bankable | Yes |
 | droppable | Yes |

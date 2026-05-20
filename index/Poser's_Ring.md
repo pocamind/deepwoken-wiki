@@ -1,6 +1,6 @@
 ---
 title: "Poser's Ring"
-revid: 190261
+revid: 210750
 source: https://deepwoken.fandom.com/wiki/Poser's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -15,7 +15,7 @@ categories: [Equipment, Rings]
 | selling price | N/A |
 | requirements | N/A |
 | weight | 0.1 |
-| innate stats | 1 Rare Pip |
+| innate stats | +1 Rare Pip |
 | bankable | No |
 | droppable | No |
 | enchantable | No |
@@ -46,4 +46,4 @@ Poser's Ring grants an 8% damage bonus to your basic attacks in PvE.
 -   Actually applies an ~0x damage modifier onto your attacks rather than removing all of your damage outright. This means you can still proc effects that are scaled off of your weapon's scaled damage, like Bleed or Chip damage at full effectiveness.
 -   Shares the same model as [Diver's Ring](<Diver's_Ring.md>).
 -   You can use the [Darkened Bastion](Darkened_Bastion.md) outfit to apply [Wither](Status_Effects.md#wither) to your opponent on your basic attacks even with Poser's Ring. This allows you to still deal damage before you sheathe, granted the amount of Wither applied is only 12.5% of your weapon's scaled damage, which isn't that much, especially on base Katana.
--   [All the Dead Gods](Talents.md#heretic) and [Ring of Pestilence](Ring_of_Pestilence.md) are applied again on sheathe as well as being applied by regular attacks.
+-   [All the Dead Gods](Talents.md#all-the-dead-gods) and [Ring of Pestilence](Ring_of_Pestilence.md) are applied again on sheathe as well as being applied by regular attacks.

@@ -1,9 +1,9 @@
 ---
 title: Reinforced War Helmet
-revid: 209364
+revid: 210770
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
+categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Reinforced War Helmet
@@ -13,9 +13,9 @@ categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
 | type | Head |
 | rarity | Common |
 | selling price | 25 |
-| requirements | PWR 20 |
+| requirements | Power 20 |
 | weight | 1 |
-| innate stats | +4 Health, +1 Posture, +1 Legendary Pip |
+| innate stats | +4 Health , +1 Posture , +1 Legendary Pip |
 | innate talent | Fatal Strike |
 | set | Reinforced War Helmet, Reinforced War Plate, Reinforced War Boots |
 | set talent | Lasting Trauma |
@@ -27,6 +27,8 @@ categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
 | description | Hell hath no fury like an Evanspear. |
 
 Reinforced War Set
+
+Variants: [Plate](Reinforced_War_Plate.md) · [Boots](Reinforced_War_Boots.md)
 
 ## Description
 

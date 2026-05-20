@@ -1,6 +1,6 @@
 ---
 title: Lake
-revid: 196093
+revid: 210740
 source: https://deepwoken.fandom.com/wiki/Lake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
@@ -29,7 +29,7 @@ She wears the [Scholar](Scholar.md) [Outfit](Outfits.md).
 
 ## Location
 
-Lae is inside a cave within [Songseeker Wilds](Songseeker_Wilds.md).
+Lake is inside a cave within [Songseeker Wilds](Songseeker_Wilds.md).
 
 ## Dialogue
 

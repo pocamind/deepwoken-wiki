@@ -1,9 +1,9 @@
 ---
 title: "Potion Master's Hat"
-revid: 205771
+revid: 210751
 source: https://deepwoken.fandom.com/wiki/Potion_Master's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Head, Hats]
+categories: [Vow of Iron Exclusive, Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
 ---
 
 # Potion Master's Hat

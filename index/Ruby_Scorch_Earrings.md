@@ -1,9 +1,9 @@
 ---
 title: Ruby Scorch Earrings
-revid: 201264
+revid: 210780
 source: https://deepwoken.fandom.com/wiki/Ruby_Scorch_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Ears]
+categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Ruby Scorch Earrings

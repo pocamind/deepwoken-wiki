@@ -1,9 +1,9 @@
 ---
 title: Reinforced War Plate
-revid: 209356
+revid: 210771
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses]
+categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Reinforced War Plate
@@ -13,9 +13,9 @@ categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses]
 | type | Arms |
 | rarity | Common |
 | selling price | N/A |
-| requirements | PWR 20, 25 STR |
+| requirements | Power 20, 25 Strength |
 | weight | 2 |
-| innate stats | +6 Health, +1 Posture, +1 Rare Pip, +1 Legendary Pip |
+| innate stats | +6 Health , +1 Posture , +1 Rare Pip, +1 Legendary Pip |
 | innate talent | Crippling Impact |
 | set | Reinforced War Helmet, Reinforced War Plate, Reinforced War Boots |
 | set talent | Lasting Trauma |
@@ -28,7 +28,7 @@ categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses]
 
 Reinforced War Set
 
-Variants: [Reinforced War Helmet](Reinforced_War_Helmet.md)
+Variants: [Helmet](Reinforced_War_Helmet.md) · [Boots](Reinforced_War_Boots.md)
 
 ## Description
 

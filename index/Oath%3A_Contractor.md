@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 210730
+revid: 210782
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ministry]
@@ -33,10 +33,10 @@ The Oath allows you to manipulate the Puppet Strings of [Zi'eer](The_Lord_Regent
     -   You can either get this through [Emel](Emel.md), [Imel](Imel.md), and [Rimil's](Rimil.md) bounties if you choose, but you can also help the [Ministry](The_Ministry.md) out in [Summer Isle](Summer_Isle.md). A good way to do this is to knock and carry one [Ministry Scout](Ministry_Scout.md), waiting for the nomads to kill the other, and then assassinate them. This is far less efficient than doing bounties, only giving around half the reputation each completion.
         -   You must help the Ministry 5 times (assuming you are starting with base Ministry reputation) at [Summer Isle](Summer_Isle.md) for them to not see worth fighting you anymore.
         -   The Bounty version of [The Ministry](The_Ministry.md) takes about 4-5 kills. You need to deal approximately 60% of the dmg to the target and deaths caused by environmental causes such as Blood Loss or Starvation will not count.
-    -   You can also get this by trading Knowledge with [Soothsayer](Soothsayer.md) (require at least 10 Knowledge to have neutral reputation with [The Ministry](The_Ministry.md)).
+    -   You can also get this by trading Knowledge with [Soothsayer](Soothsayer.md) (require at least 10 Knowledge to have neutral reputation with [The Ministry](The_Ministry.md)) This method can get you reputation much faster than most methods.
         -   It is also advised to avoid killing [Ministry Scouts](Ministry_Scout.md) if you're looking to acquire this Oath, in order to keep your reputation with ministry as neutral as possible.
 2.  Start the [Duke Erisia](Duke_Ishamon_Erisia.md) questline. Proceed to get kill credit for the Duke. (Do note that abandoning the quest or talking to Regent after completion without enough Ministry reputation locks you out of contractor \[needs more testing)
-3.  Make a deal with 4 seperate [Deep Shrines](Deep_Shrines.md). Remember, 4 DIFFERENT shrines, not the same one 4 times. Any Shrine except the **Shrines of Solitude,** **Mastery (Attributes option) and Order** works, including those in [The Depths](First_Layer.md).
+3.  Make a deal with 4 separate [Deep Shrines](Deep_Shrines.md). Remember, 4 DIFFERENT shrines, not the same one 4 times. Any Shrine except the **Shrines of Solitude,** **Mastery (Attributes option) and Order** works, including those in [The Depths](First_Layer.md).
 4.  Unlock your [Resonance](Resonance.md).
 5.  Go to the Depths and talk to [Yun'Shul's shrine](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). Ask it for a wish and then pick "What happened to this place?"
 
@@ -48,7 +48,7 @@ _Contractor **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---o
 
 ## Progression
 
-As tasked by [The Lord Regent](The_Lord_Regent.md), to obtain the Talents and mantras, you must grip a total of 3 players with [Oaths](Oaths.md) in Depths' [Layer 1](First_Layer.md) (Works on Allies, Guildmates and works people with [Oathless](Oath%253A_Oathless.md)). Gripping players with Oaths while having Contractor not fully progged will send them to Layer 2 instead of wiping. You must be the sole contributor of damage, otherwise the kill will not be counted.
+As tasked by [The Lord Regent](The_Lord_Regent.md), to obtain the Talents and mantras, you must grip a total of 2 players with [Oaths](Oaths.md) in Depths' [Layer 1](First_Layer.md) (Works on Allies, Guildmates and works people with [Oathless](Oath%253A_Oathless.md)). Gripping players with Oaths while having Contractor not fully progged will send them to Layer 2 instead of wiping. You must be the sole contributor of damage, otherwise the kill will not be counted.
 
 -   Obtained upon unlocking contractor - Hidden Tendril and Lord's Slice
 -   1st Grip - Equalizer

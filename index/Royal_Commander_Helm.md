@@ -1,9 +1,9 @@
 ---
 title: Royal Commander Helm
-revid: 200648
+revid: 210776
 source: https://deepwoken.fandom.com/wiki/Royal_Commander_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Head, Helmets]
+categories: [Vow of Iron Exclusive, Equipment, Head, Helmets, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
 ---
 
 # Royal Commander Helm
@@ -15,7 +15,7 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Helmets]
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +5 Health, +1 Rare Pip, +1 Legendary Pip |
+| innate stats | +5 Health , +1 Rare Pip, +1 Legendary Pip |
 | innate talent | Royal Charge, Grasp On Reality |
 | bankable | No |
 | droppable | No |
@@ -34,4 +34,4 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 The Celtor Commander Helm is an [Equipment](Equipment.md) item under the "Head" category.
 
-The [Royal Charge](Talents.md#royal-charge) Talent grants [Temporary Health](Status_Effects.md#temporary-health) if you land a running attack with a Club weapon. The [Grasp on Reality](Talents.md#grasp-on-reality) Talent decreases the damage taken by insanity, specifically stage 2 when your character begins scratching themselves.
+The [Royal Charge](Talents.md#royal-charge) Talent grants [Temporary Health](Status_Effects.md#temporary-health) if you land a running attack with a [Club](Clubs.md) weapon. The [Grasp on Reality](Talents.md#grasp-on-reality) Talent decreases the damage taken by insanity, specifically stage 2 when your character begins scratching themselves.

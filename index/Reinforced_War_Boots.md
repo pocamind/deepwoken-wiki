@@ -1,9 +1,9 @@
 ---
 title: Reinforced War Boots
-revid: 209346
+revid: 210769
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
+categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Reinforced War Boots
@@ -13,9 +13,9 @@ categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
 | type | Legs |
 | rarity | Common |
 | selling price | N/A |
-| requirements | PWR 20 |
+| requirements | Power 20 |
 | weight | 1 |
-| innate stats | +3 Health, +1 Uncommon Pip |
+| innate stats | +3 Health , +1 Uncommon Pip |
 | innate talent | Repeated Blows |
 | set | Reinforced War Helmet, Reinforced War Plate, Reinforced War Boots |
 | set talent | Lasting Trauma |
@@ -28,7 +28,7 @@ categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
 
 Reinforced War Set
 
-Variants: [Reinforced War Helmet](Reinforced_War_Helmet.md)
+Variants: [Helmet](Reinforced_War_Helmet.md) · [Plate](Reinforced_War_Plate.md)
 
 ## Description
 

@@ -1,9 +1,9 @@
 ---
 title: Reinforced Enforcer Boots
-revid: 205894
+revid: 210765
 source: https://deepwoken.fandom.com/wiki/Reinforced_Enforcer_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses]
+categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Reinforced Enforcer Boots
@@ -12,7 +12,7 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set B
 |---|---|
 | type | Legs |
 | rarity | Uncommon |
-| selling price | 7 |
+| selling price | 14 |
 | requirements | N/A |
 | weight | 1 |
 | innate stats | +2 Rare Pips |
@@ -34,7 +34,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 Reinforced Enforcer Set
 
-Variants: [Reinforced Enforcer Plate](Reinforced_Enforcer_Plate.md)
+Variants: [Plate](Reinforced_Enforcer_Plate.md)
 
 ## Description
 

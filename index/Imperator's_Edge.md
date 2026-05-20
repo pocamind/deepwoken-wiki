@@ -1,6 +1,6 @@
 ---
 title: "Imperator's Edge"
-revid: 205082
+revid: 210781
 source: https://deepwoken.fandom.com/wiki/Imperator's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, "Core-Attribute based weapons", The Hundred Legions, Spears, Medium Weapons, "Weapons with Multi-Hit Criticals"]
@@ -40,7 +40,7 @@ The **Imperator's Edge** is a Legendary Spear. Used by the frontlines of the Hun
 
 The Imperator's Edge comes with a passive ability:
 
--   **Enlightened Brilliance** - Landing three hits on a target with the **only** the tip of the spear enters the user in the Enlightened state, signified by a glowing halo on their head. During this state, the user's criticals will be amplified. Enlightened has a cooldown of **10 seconds**.
+-   **Enlightened Brilliance** - Landing three hits on a target with **only** the tip of the spear enters the user in the Enlightened state, signified by a glowing halo on their head. During this state, the user's criticals will be amplified. Enlightened has a cooldown of **10 seconds**.
 
 ## Critical
 

@@ -1,9 +1,9 @@
 ---
 title: Regenerative Earrings
-revid: 210584
+revid: 210762
 source: https://deepwoken.fandom.com/wiki/Regenerative_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Set Bonuses]
+categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Regenerative Earrings
@@ -15,7 +15,7 @@ categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Se
 | selling price | 25 |
 | requirements | Power 8 |
 | weight | 0.1 |
-| innate stats | +5 Ether+1 Rare Pip |
+| innate stats | +5 Ether +1 Rare Pip |
 | innate talent | Blood Convergence |
 | set | Regenerative Pendant, Regenerative Earrings |
 | set talent | Critical Heal |
@@ -32,7 +32,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 Regenerative Set
 
-Variants: [Regenerative Pendant](Regenerative_Pendant.md)
+Variants: [Pendant](Regenerative_Pendant.md)
 
 ## Description
 

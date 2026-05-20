@@ -1,9 +1,9 @@
 ---
 title: Royal Pathfinder
-revid: 209603
+revid: 210778
 source: https://deepwoken.fandom.com/wiki/Royal_Pathfinder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms]
+categories: [Equipment, Arms, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Royal Pathfinder
@@ -15,7 +15,7 @@ categories: [Equipment, Arms]
 | selling price | 25 |
 | requirements | Power 10 |
 | weight | 2 |
-| innate stats | +6 Health, +1 Rare Pips, +1 Legendary Pips |
+| innate stats | +6 Health , +1 Rare Pip, +1 Legendary Pip |
 | innate talent | Ready or Not |
 | bankable | Yes |
 | droppable | Yes |

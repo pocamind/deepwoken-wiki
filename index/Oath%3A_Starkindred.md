@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 203558
+revid: 210749
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Starkindred Church]
@@ -95,7 +95,7 @@ This Oath grants 2 Combat Mantra slots, 1 Wildcard Mantra slot, and 8 Health. Ad
 -   **Ascension** - Take to the skies for a devastating strike.
     -   The user rises into the air before swooping in.
     -   Deals 37 Oath damage with 1.65 Strength scaling.
-    -   This attack cannot be parried or blocked, indicated by a sound effect and a red Telegraph.
+    -   This attack cannot be parried or blocked, indicated by a sound effect and a red [Telegraph](https://deepwoken.fandom.com/wiki/Combat_Mechanics#Telegraphed_Attacks).
         -   This does not guardbreak, it entirely ignores your block, dealing its full damage and applying shaky block to anyone who attempts to block it.
     -   Applies hard knockdown on hit.
     -   [Wayward Gem](Wayward_Gem.md) will not proc on this Mantra.

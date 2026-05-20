@@ -1,6 +1,6 @@
 ---
 title: Joanna
-revid: 210721
+revid: 210741
 source: https://deepwoken.fandom.com/wiki/Joanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -26,7 +26,7 @@ Jonas is a [Celtor](Celtor.md) NPC.
 
 ## Location
 
-Kars is located near a [Pomar](Pomar.md) tree at [Alsin's Landing](<Alsin's_Landing.md>).
+Jonas is located near a [Pomar](Pomar.md) tree at [Alsin's Landing](<Alsin's_Landing.md>).
 
 ## Dialogue
 

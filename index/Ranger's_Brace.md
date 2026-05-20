@@ -1,6 +1,6 @@
 ---
 title: "Ranger's Brace"
-revid: 190115
+revid: 210757
 source: https://deepwoken.fandom.com/wiki/Ranger's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Braces]
@@ -11,11 +11,11 @@ categories: [Equipment, Arms, Braces]
 | Ranger's Brace | |
 |---|---|
 | type | Arms |
-| rarity | ? |
-| selling price | ? |
-| requirements | Level 8 |
+| rarity | Rare |
+| selling price | 25 |
+| requirements | Power 8 |
 | weight | 2 |
-| innate stats | +3 Health, +1 Posture, +2 Rare Pips |
+| innate stats | +3 Health , +1 Posture , +2 Rare Pips |
 | innate talent | N/A |
 | set | Ranger's Brace, Ranger's Boots |
 | set talent | N/A |

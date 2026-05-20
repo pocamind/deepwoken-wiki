@@ -1,9 +1,9 @@
 ---
 title: "Pathfinder's Backpack"
-revid: 209590
+revid: 210745
 source: https://deepwoken.fandom.com/wiki/Pathfinder's_Backpack
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Torso, Backpack]
+categories: [Equipment, Torso, Backpack, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Pathfinder's Backpack
@@ -12,10 +12,10 @@ categories: [Equipment, Torso, Backpack]
 |---|---|
 | type | Torso |
 | rarity | Uncommon |
-| selling price | 15 |
+| selling price | 14 |
 | requirements | None |
 | weight | 0.5 |
-| innate stats | +35 Carry Load, +1 Uncommon Pip |
+| innate stats | +1 Uncommon Pip |
 | innate talent | Robber Baron |
 | bankable | Yes |
 | droppable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Esric
-revid: 210722
+revid: 210742
 source: https://deepwoken.fandom.com/wiki/Esric
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -26,7 +26,7 @@ Mars is an [Adret](Adret.md) NPC.
 
 ## Location
 
-Kars is located in the training grounds of [Alsin's Landing](<Alsin's_Landing.md>).
+Mars is located in the training grounds of [Alsin's Landing](<Alsin's_Landing.md>).
 
 ## Dialogue
 
