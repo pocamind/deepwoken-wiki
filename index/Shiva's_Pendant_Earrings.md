@@ -1,9 +1,9 @@
 ---
 title: "Shiva's Pendant Earrings"
-revid: 210566
+revid: 210793
 source: https://deepwoken.fandom.com/wiki/Shiva's_Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Ears]
+categories: [Equipment, Ears, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Shiva's Pendant Earrings
@@ -17,10 +17,10 @@ categories: [Equipment, Ears]
 | weight | 0.1 |
 | innate stats | +1 Common Pip, +1 Rare Pip |
 | innate talent | Skillful Recovery |
-| bankable | ? |
-| droppable | ? |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Crafted w/ 1 Amethyst Pendant Earrings + 1 Doom of Caeranthil's Scale + 1 Shiva's Codex at Lost Forge of Leiuna |
 | description | Donning these fills you with strength and fury. |
 

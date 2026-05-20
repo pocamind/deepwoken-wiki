@@ -1,6 +1,6 @@
 ---
 title: Summer Scarf
-revid: 210130
+revid: 210826
 source: https://deepwoken.fandom.com/wiki/Summer_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Scarves, The Summer Company, World Event]
@@ -13,9 +13,9 @@ categories: [Equipment, Arms, Scarves, The Summer Company, World Event]
 | type | Arms |
 | rarity | Unique |
 | selling price | 100 |
-| requirements | LVL 5 |
+| requirements | Power 5 |
 | weight | 2 |
-| innate stats | +5 Health, +1 Legendary Pip |
+| innate stats | +5 Health , +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

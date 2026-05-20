@@ -1,6 +1,6 @@
 ---
 title: Shock Trooper Helmet
-revid: 201452
+revid: 210796
 source: https://deepwoken.fandom.com/wiki/Shock_Trooper_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -13,9 +13,9 @@ categories: [Equipment, Head, Helmets]
 | type | Head |
 | rarity | Rare |
 | selling price | N/A |
-| requirements | PWR 10 |
+| requirements | Power 10 |
 | weight | 1 |
-| innate stats | +8 Health, +1 Rare Pip |
+| innate stats | +8 Health , +1 Rare Pip |
 | set | Shock Trooper Helmet, Shock Trooper Plate, Shock Trooper Boots |
 | set talent | N/A |
 | bankable | Yes |
@@ -24,6 +24,10 @@ categories: [Equipment, Head, Helmets]
 | pass down | Yes |
 | obtainment | Titus |
 | description | The Legion boast of honor in battle, but the victims of a Shock Trooper would tell a different story. |
+
+Shock Trooper Set
+
+Variants: [Plate](Shock_Trooper_Plate.md) · [Boots](Shock_Trooper_Boots.md)
 
 ## Description
 

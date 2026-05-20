@@ -1,9 +1,9 @@
 ---
 title: "Seamaster's Cap"
-revid: 209410
+revid: 210791
 source: https://deepwoken.fandom.com/wiki/Seamaster's_Cap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Hats]
+categories: [Equipment, Head, Hats, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Seamaster's Cap
@@ -15,7 +15,7 @@ categories: [Equipment, Head, Hats]
 | selling price | 25 |
 | requirements | N/A |
 | weight | 1 |
-| innate stats | +1 Posture, +1 Legendary Pip |
+| innate stats | +1 Posture , +1 Legendary Pip |
 | innate talent | Seamaster's Guile |
 | bankable | Yes |
 | droppable | Yes |

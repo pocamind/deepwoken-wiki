@@ -1,9 +1,9 @@
 ---
 title: Specialist Helmet
-revid: 209444
+revid: 210798
 source: https://deepwoken.fandom.com/wiki/Specialist_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
+categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Specialist Helmet
@@ -13,7 +13,7 @@ categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | PWR 20, 30 WND, 30 LTN |
+| requirements | Power 20, 30 Galebreathe, 30 Thundercall |
 | weight | 1 |
 | innate stats | +8 Health |
 | innate talent | Volt Draft |
@@ -27,6 +27,8 @@ categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
 | description | The Legion boast of honor in battle, but the victims of a Shock Trooper would tell a different story. |
 
 Specialist Set
+
+Variants: [Plate](Specialist_Plate.md) · [Boots](Specialist_Boots.md)
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Karack
-revid: 210305
+revid: 210831
 source: https://deepwoken.fandom.com/wiki/Karack
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
@@ -27,7 +27,7 @@ Warbert is a [Tiran](Tiran.md) NPC.
 
 ## Location
 
-Warbert is located
+Warbert is located inside of a stronghold on the leftside of [Alsin's Landing](<Alsin's_Landing.md>).
 
 ## Dialogue
 

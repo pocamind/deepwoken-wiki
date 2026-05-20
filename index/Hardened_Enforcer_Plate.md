@@ -1,6 +1,6 @@
 ---
 title: Hardened Enforcer Plate
-revid: 210695
+revid: 210833
 source: https://deepwoken.fandom.com/wiki/Hardened_Enforcer_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -45,11 +45,6 @@ The [Enforcer's Strength](Talents.md#enforcers-strength) Talent reduces the amou
 When wearing the full equipment set, you will gain the Set Talent.
 
 Set Talent: [Enforcer's Pull](Talents.md#enforcers-pull) - Your [Enforcer's Pull](Monster_Mantras.md#enforcer-pull) is improved. Land a flourish to make it even stronger.
-
-## Crafting
-
--   **Hardened Enforcer Plate**
-    -   1 [Enforcer Plate](Enforcer_Plate.md) + 1 [Enmity’s Armour Piece](<Enmity's_Armor_Piece.md>) + 1 [Ethereal Bone Dust](Ethereal_Bone_Dust.md) at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md)
 
 ## Trivia
 

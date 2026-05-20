@@ -1,6 +1,6 @@
 ---
 title: Star Boots
-revid: 200761
+revid: 210822
 source: https://deepwoken.fandom.com/wiki/Star_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -15,7 +15,7 @@ categories: [Equipment, Legs, Boots]
 | selling price | 25 |
 | requirements | Power 10 |
 | weight | 1 |
-| innate stats | +5 Health+2 Rare Pips, +1 Legendary Pip |
+| innate stats | +5 Health +2 Rare Pips, +1 Legendary Pip |
 | innate talent | N/A |
 | set | Star Duster, Star Boots |
 | set talent | N/A |
@@ -25,6 +25,10 @@ categories: [Equipment, Legs, Boots]
 | pass down | Yes |
 | obtainment | Chests from:, The Depths, Duke Ishamon Erisia, Lodestar, The Doom of Caeranthil, Interluminary Parasol, Maestro Evengarde Rest, War Mode, Elder Primadon, The Titan Warlord |
 | description | Formerly mass produced by the cobblers of Celtor, these boots have become quite the collector's item in recent years. |
+
+Star Set
+
+Variants: [Duster](Star_Duster.md)
 
 ## Description
 
@@ -39,4 +43,4 @@ Can be used to craft the [Celestial Boots](Celestial_Boots.md).
 
 ## References
 
-1.  [↑](#cite-ref-1) [Version History: August 4th, 2025](Version_History/Uncollapsed.md#august-4th-2025)
+1.  [↑](#cite-ref-1) [August 4th, 2025](Version_History/2025.md#august-4th-2025) patchnotes

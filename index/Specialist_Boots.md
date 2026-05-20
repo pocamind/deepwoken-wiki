@@ -1,9 +1,9 @@
 ---
 title: Specialist Boots
-revid: 209372
+revid: 210800
 source: https://deepwoken.fandom.com/wiki/Specialist_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
+categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Specialist Boots
@@ -13,9 +13,9 @@ categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
 | type | Legs |
 | rarity | Common |
 | selling price | N/A |
-| requirements | PWR 20, 30 WND, 30 LTN |
+| requirements | Power 20, 30 Galebreathe, 30 Thundercall |
 | weight | 1 |
-| innate stats | +1 Posture, +1 Uncommon Pip |
+| innate stats | +1 Posture , +1 Uncommon Pip |
 | innate talent | Flashwind |
 | set | Specialist Helmet, Specialist Plate, Specialist Boots |
 | set talent | Shock Trooper Specialist |
@@ -28,7 +28,7 @@ categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
 
 Specialist Set
 
-Variants: [Specialist Helmet](Specialist_Helmet.md)
+Variants: [Helmet](Specialist_Helmet.md) · [Plate](Specialist_Plate.md)
 
 ## Description
 

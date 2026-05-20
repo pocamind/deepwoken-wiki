@@ -1,6 +1,6 @@
 ---
 title: Kayla
-revid: 210103
+revid: 210834
 source: https://deepwoken.fandom.com/wiki/Kayla
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -34,31 +34,37 @@ Kayla is located inside of the first story of the library at [Alsin's Landing](<
 <table>
 <tbody>
 <tr>
-  <td>Begin Dialogue</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
-  <td><i>*A messy-haired Adretian sits before you. They appear to be a bit gloomy.*</i></td>
+  <td colspan="2"><i>*A messy-haired Adretian sits before you. They appear to be a bit gloomy.*</i></td>
 </tr>
 <tr>
-  <td>What's the problem?</td>
+  <td colspan="2">What's the problem?</td>
 </tr>
 <tr>
-  <td>I lost my favorite cape while running away from one of those terrible terrapods...</td>
+  <td colspan="2">I lost my favorite cape while running away from one of those terrible terrapods...</td>
 </tr>
 <tr>
-  <td>What did it look like?</td>
+  <td colspan="2">What did it look like?</td>
 </tr>
 <tr>
-  <td>It was this dark cape that also had a lighter-coloured trim, really good at keeping your face shrouded in the dark...</td>
+  <td colspan="2">It was this dark cape that also had a lighter-coloured trim, really good at keeping your face shrouded in the dark...</td>
+</tr>
+<tr>
+  <td>Shrouded Cape not found</td>
+  <td>Shrouded Cape found</td>
 </tr>
 <tr>
   <td>I'll keep an eye out for it, okay?</td>
+  <td>Did your cape look like this? [Shrouded Cape]</td>
 </tr>
 <tr>
   <td>Please let me know if you find it!</td>
+  <td><i>*Their face lights up beneath their mop of hair.*</i> THATS IT!. How did you manage to find it? Thank you, thank you, thank you!</td>
 </tr>
 <tr>
-  <td>[End Dialogue]</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

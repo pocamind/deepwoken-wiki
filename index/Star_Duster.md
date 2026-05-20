@@ -1,9 +1,9 @@
 ---
 title: Star Duster
-revid: 209431
+revid: 210821
 source: https://deepwoken.fandom.com/wiki/Star_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Dusters]
+categories: [Equipment, Arms, Dusters, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Star Duster
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Dusters]
 | selling price | 50 |
 | requirements | Power 10 |
 | weight | 2 |
-| innate stats | +5 Health, +1 Posture, +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +5 Health , +1 Posture , +2 Rare Pips, +1 Legendary Pip |
 | innate talent | Star Duster |
 | set | Star Duster, Star Boots |
 | set talent | N/A |
@@ -25,6 +25,10 @@ categories: [Equipment, Arms, Dusters]
 | pass down | Yes |
 | obtainment | Chests from:, First Layer, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Starswept Valley, Fishing, War Mode, Sea Events |
 | description | ... |
+
+Star Set
+
+Variants: [Boots](Star_Boots.md)
 
 ## Description
 

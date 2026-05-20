@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 210717
+revid: 210832
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -363,7 +363,7 @@ Dialogue: [Friid](Friid,_Master_of_Gale.md) | Books: [Lumen's Folklore: Volume '
 
 -   An unusual kind of [Vow](#vows) that is passed down to one's descendants.
 
-Dialogue: | Books: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Aspects](#aspects)
+Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) | Books: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Aspects](#aspects)
 
 -   Steward Bridges posited in his work '[Vows](#vows) by the Sea: Inheritance' that the [Aspects](#aspects) of [Lumen](#lumen) may be the result of a Hereditary Vow.
 
@@ -477,7 +477,7 @@ Dialogue: [Funke](Funke,_Master_of_Thunder.md), [Neero](Neero.md) | Books: [Lume
 -   Though only a theory, an Unspoken Vow is thought to be a [Vow](#vows) enacted without conscious intent.
 -   A chilling prospect indeed, that one may be party to a [Vow](#vows) without even realising it. Many have dismissed it as a paradox, or the productive of an overly active imagination.
 
-Dialogue: | Books: | Glossary Entries: [Aeod, the Waking God](#aeod-the-waking-god)
+Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [Aeod, the Waking God](#aeod-the-waking-god)
 
 ### Vows
 
@@ -487,7 +487,7 @@ Dialogue: | Books: | Glossary Entries: [Aeod, the Waking God](#aeod-the-waking-g
 -   Vows are poorly understood by the people of the [Resurgence](#the-resurgence), but are still a fundamental part of their daily lives.
 -   Vows do not have to be made with others, and can even be made with oneself. Indeed, the powerful magic of an [Oath](#oaths) is facilitated by such a Vow.
 
-Dialogue: [Adrofalis](Adrofalis.md), [Delta](Delta.md), [Eiris](Eiris.md), [Lance's Brother](<Lance's_Brother.md>), [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md), [Samael](Samael.md), [Sordino](Sordino.md), [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) | Books: [Jericho's Journal](<Jericho's_Journal.md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [Lifeweave / Lifewoven](#lifeweave--lifewoven), [Oaths](#oaths), [The Drowned City of Celtor](#the-drowned-city-of-celtor), [The Old Stewards](#the-old-stewards), [Unspoken Vow](#unspoken-vow)
+Dialogue: [Adrofalis](Adrofalis.md), [Delta](Delta.md), [Eiris](Eiris.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Lance's Brother](<Lance's_Brother.md>), [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md), [Samael](Samael.md), [Sordino](Sordino.md), [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) | Books: [Jericho's Journal](<Jericho's_Journal.md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [Lifeweave / Lifewoven](#lifeweave--lifewoven), [Oaths](#oaths), [The Drowned City of Celtor](#the-drowned-city-of-celtor), [The Old Stewards](#the-old-stewards), [Unspoken Vow](#unspoken-vow)
 
 -   Steward Bridges posited in his work 'Vows by the Sea: Inheritance' that the [Aspects](#aspects) of [Lumen](#lumen) may be the result of a [Hereditary Vow](#hereditary-vow).
 
@@ -577,7 +577,7 @@ Dialogue: | Books: [Tale of the Storm](Tale_of_the_Storm.md) | Glossary Entries:
 -   All living humans possess an 'Aspect', a peculiar trait that is passed down through the generations.
 -   Many Aspects cause their inheritor to take on the traits of a particular animal. Rarely, Aspects can take on the traits of something more abstract.
 
-Dialogue: | Books: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Hereditary Vow](#hereditary-vow)
+Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) | Books: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Hereditary Vow](#hereditary-vow)
 
 -   Steward Bridges posited in his work '[Vows](#vows) by the Sea: Inheritance' that the Aspects of [Lumen](#lumen) may be the result of a [Hereditary Vow](#hereditary-vow).
 -   Bridges suggested that the traits of the Aspects could be the result of early worship of animals or of the land.

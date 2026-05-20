@@ -1,6 +1,6 @@
 ---
 title: "Adventurer's Scarf"
-revid: 198610
+revid: 210789
 source: https://deepwoken.fandom.com/wiki/Adventurer's_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Scarves]
@@ -13,9 +13,9 @@ categories: [Equipment, Torso, Scarves]
 | type | Torso |
 | rarity | Variant Based |
 | selling price | Variant Based |
-| requirements | PWR 5 |
+| requirements | Power 5 |
 | weight | 0.5 |
-| innate stats | + 3% Attunement Armor, Depending on color, 1 Rare Pip, +1 Legendary Pip |
+| innate stats | +3% Attunement Armor, depending on vairant, +1 Rare Pip, +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -41,49 +41,49 @@ Scarves are an [Equipment](Equipment.md) item under the "Torso" category. They c
 <tr>
   <td>Adventurer's</td>
   <td>Rare</td>
-  <td>3% Wind Armor</td>
+  <td>3% Wind Armor <a href="Galebreathe.md">ResistanceGalebreathe</a></td>
   <td>25</td>
 </tr>
 <tr>
   <td>Black</td>
   <td>Uncommon</td>
-  <td>3% Shadow Armor</td>
-  <td>25</td>
+  <td>3% Shadow Armor <a href="Shadowcast.md">ResistanceShadowcast</a></td>
+  <td>14</td>
 </tr>
 <tr>
   <td>Crimson</td>
   <td>Common</td>
-  <td>3% Fire Armor</td>
+  <td>3% Fire Armor <a href="Flamecharm.md">ResistanceFlamecharm</a></td>
   <td>7</td>
 </tr>
 <tr>
   <td>Dawn</td>
   <td>Rare</td>
-  <td>3% Shadow Armor</td>
+  <td>3% Shadow Armor <a href="Shadowcast.md">ResistanceShadowcast</a></td>
   <td>25</td>
 </tr>
 <tr>
   <td>Desert</td>
   <td>Uncommon</td>
-  <td>3% Fire Armor</td>
+  <td>3% Fire Armor <a href="Flamecharm.md">ResistanceFlamecharm</a></td>
   <td>14</td>
 </tr>
 <tr>
   <td>Forest</td>
   <td>Rare</td>
-  <td>3% Lightning Armor</td>
+  <td>3% Lightning Armor <a href="Thundercall.md">ResistanceThundercall</a></td>
   <td>25</td>
 </tr>
 <tr>
   <td>Tundra</td>
   <td>Uncommon</td>
-  <td>3% Ice Armor</td>
+  <td>3% Ice Armor <a href="Frostdraw.md">ResistanceFrostdraw</a></td>
   <td>14</td>
 </tr>
 <tr>
   <td>White</td>
   <td>Uncommon</td>
-  <td>3% Shadow Armor</td>
+  <td>3% Shadow Armor <a href="Shadowcast.md">ResistanceShadowcast</a></td>
   <td>14</td>
 </tr>
 </tbody>

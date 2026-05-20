@@ -1,9 +1,9 @@
 ---
 title: Strapped Hat
-revid: 207070
+revid: 210825
 source: https://deepwoken.fandom.com/wiki/Strapped_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Hats]
+categories: [Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Strapped Hat
@@ -13,7 +13,7 @@ categories: [Equipment, Head, Hats]
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | PWR 6 |
+| requirements | Power 6 |
 | weight | 1 |
 | innate stats | +3 Health , +2 Rare Pips |
 | innate talent | ExterminatorEureka |
@@ -34,4 +34,4 @@ The [Eureka](Talents.md#eureka) Talent grants +10% Mantra damage to your next Ma
 
 -   The description of this item used to read "Western Luminant" instead of "Central."
     -   It is unclear whether this was a typo or if the concept of the Western Luminant changed with time.
--   The talent provided, Exterminator, is now effectively useless, as it was merged into the Apothecary talent in a weekly update on [December 1, 2023](Version_History/2026.md).
+-   The talent provided, Exterminator, is now effectively useless, as it was merged into the Apothecary talent in a weekly update on [December 1st, 2023](Version_History/2023.md#december-1st-2023).

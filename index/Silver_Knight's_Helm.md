@@ -1,6 +1,6 @@
 ---
 title: "Silver Knight's Helm"
-revid: 201453
+revid: 210801
 source: https://deepwoken.fandom.com/wiki/Silver_Knight's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -13,9 +13,9 @@ categories: [Equipment, Head, Helmets]
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | PWR 8 |
+| requirements | Power 8 |
 | weight | 1 |
-| innate stats | +10 Health, +1 Uncommon Pip, +1 Rare Pip |
+| innate stats | +10 Health , +1 Uncommon Pip, +1 Rare Pip |
 | innate talent | N/A |
 | set | Silver Knight's Helm, Silver Pauldrons, Silver Sabatons |
 | set talent | N/A |

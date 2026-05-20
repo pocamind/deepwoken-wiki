@@ -1,9 +1,9 @@
 ---
 title: Stag Wraps
-revid: 177142
+revid: 210816
 source: https://deepwoken.fandom.com/wiki/Stag_Wraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Exclusive, Equipment, Arms, Wraps, Developer Spec]
+categories: [Exclusive, Equipment, Arms, Wraps, Developer Spec, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 notices:
   - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
 ---
@@ -17,7 +17,7 @@ notices:
 | selling price | N/A |
 | requirements | None |
 | weight | 2 |
-| innate stats | +60 Health+5 Posture |
+| innate stats | +60 Health +5 Posture |
 | innate talent | Reinforced Armor |
 | bankable | Yes |
 | droppable | Yes |

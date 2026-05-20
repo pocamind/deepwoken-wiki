@@ -1,6 +1,6 @@
 ---
 title: Sandrunner Scarf
-revid: 176555
+revid: 210786
 source: https://deepwoken.fandom.com/wiki/Sandrunner_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Scarves]
@@ -13,9 +13,9 @@ categories: [Equipment, Torso, Scarves]
 | type | Torso |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | PWR 5 |
+| requirements | Power 5 |
 | weight | 0.5 |
-| innate stats | 1 Rare Pip , +1 Legendary Pip |
+| innate stats | +1 Rare Pip, +1 Legendary Pip |
 | innate talent | N/A |
 | set | Sandrunner Wraps, Sandrunner Scarf |
 | set talent | N/A |

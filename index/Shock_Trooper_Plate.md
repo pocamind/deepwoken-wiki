@@ -1,6 +1,6 @@
 ---
 title: Shock Trooper Plate
-revid: 176562
+revid: 210795
 source: https://deepwoken.fandom.com/wiki/Shock_Trooper_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -13,9 +13,9 @@ categories: [Equipment, Arms, Plates]
 | type | Arms |
 | rarity | Common |
 | selling price | N/A |
-| requirements | PWR 10 |
+| requirements | Power 10 |
 | weight | 2 |
-| innate stats | +5 Health, +2 Rare Pips |
+| innate stats | +5 Health , +2 Rare Pips |
 | set | Shock Trooper Helmet, Shock Trooper Plate, Shock Trooper Boots |
 | set talent | N/A |
 | bankable | Yes |
@@ -24,6 +24,10 @@ categories: [Equipment, Arms, Plates]
 | pass down | Yes |
 | obtainment | Titus |
 | description | Armorers of the Hundred Legion dedicated their lives to these plates. The techniques used to attune them between Thunder and Gale demand complete expertise. |
+
+Shock Trooper Set
+
+Variants: [Helmet](Shock_Trooper_Helmet.md) · [Boots](Shock_Trooper_Boots.md)
 
 ## Description
 

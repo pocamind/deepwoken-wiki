@@ -1,9 +1,9 @@
 ---
 title: "Sailor's Fleece"
-revid: 205769
+revid: 210785
 source: https://deepwoken.fandom.com/wiki/Sailor's_Fleece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms]
+categories: [Equipment, Arms, Equipment with Styles]
 ---
 
 # Sailor's Fleece
@@ -14,7 +14,7 @@ categories: [Equipment, Arms]
 | rarity | Uncommon |
 | selling price | 14 |
 | weight | 2 |
-| innate stats | +1 Posture, +1 Rare Pip |
+| innate stats | +1 Posture , +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
