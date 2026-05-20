@@ -1,6 +1,6 @@
 ---
 title: Bloodfeather Cowl
-revid: 209814
+revid: 210846
 source: https://deepwoken.fandom.com/wiki/Bloodfeather_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Cowls]
@@ -31,4 +31,4 @@ The Bloodfeather Cowl is an [Equipment](Equipment.md) item under the "Head" cate
 
 ## Trivia
 
--   The talent provided, [Bloodletter](Cut_Content.md#bloodletter), is now entirely useless, as it was made base behavior in a weekly update on [June 6, 2024](Version_History/2026.md).
+-   The Talent provided, [Bloodletter](Cut_Content.md#bloodletter), is now entirely useless, as it was made base behavior in a weekly update on [June 6, 2024](Version_History/2024.md#june-6-2024).

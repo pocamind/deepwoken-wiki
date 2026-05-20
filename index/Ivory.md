@@ -1,6 +1,6 @@
 ---
 title: Ivory
-revid: 205574
+revid: 210842
 source: https://deepwoken.fandom.com/wiki/Ivory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Cut Content, NPCs, Individuals with unspecified pronouns]
@@ -20,9 +20,9 @@ notices:
 
 Ivory was a [Celtor](Celtor.md) NPC questgiver that could have been found in the [Pathfinder's Respite](<Pathfinder's_Respite.md>). She wore a [Pathfinder Sorcerer](Pathfinder_Sorcerer.md) outfit
 
-Ivory gave the player a [quest](Cut_Content.md#quests) to go up to the highest peak in [Erisia](Erisia.md), and to gaze into the purple flame, rewarding them the Air Dash [Echo Talent](Echoes.md#echo-talentsitems).
+Ivory gave the player a [quest](Cut_Content.md#quests) to go up to the highest peak in [Erisia](Erisia.md), and to gaze into the purple flame, rewarding them the Air Dash [Echo Talent](Echoes.md).
 
-Ivory was removed on the [March 8th, 2025 update](Version_History/2025.md#march-8th-2025), as the reward for finishing her quest, the [Aerial Assault](Cut_Content.md#aerial-assault) Talent, was made innate, alongside the addition of [Chained Ring](Chained_Ring.md).
+Ivory was removed on the [March 8th, 2025](Version_History/2025.md#march-8th-2025) update, as the reward for finishing her quest, the [Aerial Assault](Cut_Content.md#aerial-assault) Talent, was made innate, alongside the addition of [Chained Ring](Chained_Ring.md).
 
 ## Dialogue
 

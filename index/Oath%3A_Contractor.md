@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 210782
+revid: 210838
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ministry]
@@ -54,7 +54,7 @@ As tasked by [The Lord Regent](The_Lord_Regent.md), to obtain the Talents and ma
 -   1st Grip - Equalizer
 -   2nd Grip - String Trick and Judgement
 
-Alternatively you may spend 10 Knowledge to immediately max out the Oath. This is only possible if you have already completed the Oath progression normally at least once after the [April 26th, 2024 update](Version_History/2024.md#april-26th-2024), or you have logged in on an already progressed Contractor slot after that date.
+Alternatively you may spend 10 Knowledge to immediately max out the Oath. This is only possible if you have already completed the Oath progression normally at least once after the [April 26th, 2024](Version_History/2024.md#april-26th-2024), or you have logged in on an already progressed Contractor slot after that date.
 
 ## Effects
 

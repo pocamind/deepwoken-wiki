@@ -1,6 +1,6 @@
 ---
 title: Joy
-revid: 195692
+revid: 210840
 source: https://deepwoken.fandom.com/wiki/Joy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Event Only Content, Hallowtide, Mechanics, Currency]
@@ -68,4 +68,4 @@ Joy can be used to exchange for a lot of [Hallowtide](Hallowtide.md)\-exclusive 
 ## Trivia
 
 -   There used to be an option to buy [Void Feathers](Dark_Feather.md#void-feather) and a random [Deep Gem](Deep_Gems.md) from [Lysander Spellhardt](Lysander_Spellhardt.md).
--   Joy given from all sources was buffed in the [November 8th, 2024 Hotfixes update](Version_History/2024.md#patch-202a).
+-   Joy given from all sources was buffed in the [November 8th, 2024](Version_History/2024.md#november-8th-2024) hotfix.

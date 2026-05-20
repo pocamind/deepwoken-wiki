@@ -1,6 +1,6 @@
 ---
 title: Emotes
-revid: 210656
+revid: 210836
 source: https://deepwoken.fandom.com/wiki/Emotes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
