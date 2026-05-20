@@ -1,9 +1,9 @@
 ---
 title: Vanguard Brace
-revid: 209605
+revid: 210887
 source: https://deepwoken.fandom.com/wiki/Vanguard_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Braces]
+categories: [Equipment, Arms, Braces, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Vanguard Brace
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Braces]
 | selling price | 25 |
 | requirements | Power 10 |
 | weight | 2 |
-| innate stats | +3 Health, +1 Posture, +2 Rare Pips |
+| innate stats | +3 Health , +1 Posture , +2 Rare Pips |
 | innate talent | Replenishing Knockout |
 | set | Vanguard Brace, Vanguard Boots |
 | set talent | N/A |

@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 160222
+revid: 210851
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Luck, Mechanics]
@@ -12,7 +12,7 @@ notices:
 
 **Luck** was a feature in _Deepwoken_ that affected the likelihood of rare or legendary [Talent Cards](Talents.md) appearing when you power up.
 
-As of the _**[Verse 2](Version_History/2026.md)**_ update, Luck has been removed and replaced with an entirely new system to give you rare and or legendary Talent Cards.
+As of the _**[Verse 2](Version_History/2022-2021.md#december-23rd-2022)**_ update, Luck has been removed and replaced with an entirely new system to give you rare and or legendary Talent Cards.
 
 ## Overview
 
@@ -45,8 +45,8 @@ Gripping a player stole their luck (Luck/2), if:
 
 Bounty Boards will have posters of various players that are seen as criminals in their towns and you'll be able to take up these bounties as jobs. Successful bounties reward luck.
 
--   Killing the [Voidwalker](Origins.md) that's hunting you rewards you with a chest and EXP scaled off of the [Voidwalker's](Origins.md) level.
-    -   You must be the [Voidwalker's](Origins.md) target to be the one who receives the reward
+-   Killing the [Voidwalker](Voidwalker.md) that's hunting you rewards you with a chest and EXP scaled off of the [Voidwalker](Voidwalker.md)'s level.
+    -   You must be the [Voidwalker](Voidwalker.md)'s target to be the one who receives the reward
 
 ### From NPCs
 

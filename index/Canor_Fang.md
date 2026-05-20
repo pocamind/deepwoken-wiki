@@ -1,6 +1,6 @@
 ---
 title: Canor Fang
-revid: 202786
+revid: 210859
 source: https://deepwoken.fandom.com/wiki/Canor_Fang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Weapons with Talents]
@@ -48,7 +48,9 @@ Equipping the Canor Fang grants its unique [weapon Talent](Talents.md#weapon-tal
 
 ## Critical
 
-The user shortly winds up before bursting out into a flurry of 5 slashes, inflicting [Bleed](Status_Effects.md#bleed) per slash.
+The user shortly winds up before bursting out into a flurry of 5 slashes, inflicting [bleed](Status_Effects.md#bleed) on each slash.
+
+The first hit has a 0.6x scaled damage multiplier, and all subsequent hits have a 0.5x scaled damage multiplier.
 
 The critical has a cooldown of **5 seconds**.
 

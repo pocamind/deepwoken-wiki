@@ -1,9 +1,9 @@
 ---
 title: Woodland Pauldrons
-revid: 206006
+revid: 210917
 source: https://deepwoken.fandom.com/wiki/Woodland_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Pauldrons]
+categories: [Equipment, Arms, Pauldrons, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Woodland Pauldrons
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Pauldrons]
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | +2 Health, +1 Rare Pip |
+| innate stats | +2 Health , +1 Rare Pip |
 | innate talent | Polite Awakening |
 | set | Woodland Pauldrons, Woodland Boots |
 | set talent | N/A |
@@ -25,6 +25,10 @@ categories: [Equipment, Arms, Pauldrons]
 | pass down | Yes |
 | obtainment | Chests from:, Aratel Island, Dread Serpent, Sea Events |
 | description | ... |
+
+Woodland Set
+
+Variants: [Boots](Woodland_Boots.md)
 
 ## Description
 

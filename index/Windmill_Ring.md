@@ -1,6 +1,6 @@
 ---
 title: Windmill Ring
-revid: 205905
+revid: 210911
 source: https://deepwoken.fandom.com/wiki/Windmill_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -15,7 +15,7 @@ categories: [Equipment, Rings]
 | selling price | 25 |
 | requirements | N/A |
 | weight | 0.1 |
-| innate stats | +2% Elemental Armor, +2% Ice Armor+2% Wind Armor |
+| innate stats | +2% Elemental Armor , +2% Ice Armor +2% Wind Armor |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

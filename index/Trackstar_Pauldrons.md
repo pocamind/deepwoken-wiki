@@ -1,9 +1,9 @@
 ---
 title: Trackstar Pauldrons
-revid: 189994
+revid: 210876
 source: https://deepwoken.fandom.com/wiki/Trackstar_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons]
+categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with Set Bonuses, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
 ---
 
 # Trackstar Pauldrons
@@ -15,7 +15,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons]
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | +3 Health, +2 Rare Pips |
+| innate stats | +3 Health , +2 Rare Pips |
 | innate talent | Pace, Polite Awakening |
 | set | Trackstar Pauldrons, Trackstar Boots |
 | set talent | Rush |
@@ -31,6 +31,8 @@ You are currently viewing the version of this content that only applies to the *
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 Trackstar Set
+
+Variants: [Boots](Trackstar_Boots.md)
 
 ## Description
 

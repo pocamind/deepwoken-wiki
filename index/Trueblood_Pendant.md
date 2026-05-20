@@ -1,9 +1,9 @@
 ---
 title: Trueblood Pendant
-revid: 205903
+revid: 210883
 source: https://deepwoken.fandom.com/wiki/Trueblood_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces, Equipment with Set Bonuses]
+categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Trueblood Pendant
@@ -15,7 +15,7 @@ categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces, Equipment with 
 | selling price | 25 |
 | requirements | Power 5 |
 | weight | 0.5 |
-| innate stats | +3% Elemental Armor, +1 Legendary Pip |
+| innate stats | +3% Elemental Armor , +1 Legendary Pip |
 | innate talent | Blood Pact |
 | set | Trueblood Pendant, Trueblood Earrings |
 | set talent | Critical Heal |
@@ -33,6 +33,8 @@ You are currently viewing the version of this content that only applies to the *
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 Trueblood Set
+
+Variants: [Earrings](Trueblood_Earrings.md)
 
 ## Description
 

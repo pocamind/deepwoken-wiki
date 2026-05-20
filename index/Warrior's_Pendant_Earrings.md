@@ -1,9 +1,9 @@
 ---
 title: "Warrior's Pendant Earrings"
-revid: 208485
+revid: 210901
 source: https://deepwoken.fandom.com/wiki/Warrior's_Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Ears, Earrings]
+categories: [Vow of Iron Exclusive, Equipment, Ears, Earrings, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Warrior's Pendant Earrings
@@ -15,7 +15,7 @@ categories: [Vow of Iron Exclusive, Equipment, Ears, Earrings]
 | selling price | 25 |
 | requirements | None |
 | weight | 0.1 |
-| innate stats | +1 Common Pip, +1 Rare Pip |
+| innate stats | +1 Common Pip, 1 |
 | innate talent | Skillful Recovery |
 | bankable | No |
 | droppable | No |

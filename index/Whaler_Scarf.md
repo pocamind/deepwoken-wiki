@@ -1,6 +1,6 @@
 ---
 title: Whaler Scarf
-revid: 209501
+revid: 210908
 source: https://deepwoken.fandom.com/wiki/Whaler_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Scarves]
@@ -13,9 +13,9 @@ categories: [Equipment, Torso, Scarves]
 | type | Torso |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | PWR 5 |
+| requirements | Power 5 |
 | weight | 0.5 |
-| innate stats | 3% Elemental Armor, +1 Legendary Pip |
+| innate stats | +3% Elemental Armor , +1 Legendary Pip |
 | innate talent | None |
 | bankable | Yes |
 | droppable | Yes |

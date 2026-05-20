@@ -1,6 +1,6 @@
 ---
 title: Western Outlaw Hat
-revid: 204401
+revid: 210906
 source: https://deepwoken.fandom.com/wiki/Western_Outlaw_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -13,9 +13,9 @@ categories: [Equipment, Head, Hats]
 | type | Head |
 | rarity | Common |
 | selling price | N/A |
-| requirements | PWR 10 |
+| requirements | Power 10 |
 | weight | 1 |
-| innate stats | +2 Posture, +1 Legendary Pip |
+| innate stats | +2 Posture , +1 Legendary Pip |
 | set | Western Outlaw Hat, Western Outlaw Robes, Western Outlaw Boots, Western Outlaw Mask |
 | set talent | N/A |
 | bankable | Yes |
@@ -24,6 +24,10 @@ categories: [Equipment, Head, Hats]
 | pass down | Yes |
 | obtainment | Titus |
 | description | Common Garb among western peons; this hat is perfect for beating the heat or disguising one's identity. |
+
+Western Outlaw Set
+
+Variants: [Robes](Western_Outlaw_Robes.md) · [Boots](Western_Outlaw_Boots.md) · [Mask](Western_Outlaw_Mask.md)
 
 ## Description
 

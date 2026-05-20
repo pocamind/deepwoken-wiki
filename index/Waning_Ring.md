@@ -1,6 +1,6 @@
 ---
 title: Waning Ring
-revid: 179383
+revid: 210898
 source: https://deepwoken.fandom.com/wiki/Waning_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -15,7 +15,7 @@ categories: [Equipment, Rings]
 | selling price | 50 |
 | requirements | None |
 | weight | 0.1 |
-| innate stats | 2 Rare Pips |
+| innate stats | +2 Rare Pips |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

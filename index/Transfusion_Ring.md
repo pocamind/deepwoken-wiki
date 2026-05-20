@@ -1,6 +1,6 @@
 ---
 title: Transfusion Ring
-revid: 210564
+revid: 210878
 source: https://deepwoken.fandom.com/wiki/Transfusion_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -15,7 +15,7 @@ categories: [Equipment, Rings]
 | selling price | 25 |
 | requirements | N/A |
 | weight | 0.1 |
-| innate stats | +20 Health, +1 Uncommon Pip |
+| innate stats | +20 Health , +1 Uncommon Pip |
 | bankable | No |
 | droppable | No |
 | enchantable | No |

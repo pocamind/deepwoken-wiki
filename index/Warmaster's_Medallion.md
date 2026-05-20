@@ -1,9 +1,9 @@
 ---
 title: "Warmaster's Medallion"
-revid: 207119
+revid: 210900
 source: https://deepwoken.fandom.com/wiki/Warmaster's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Torso, Necklaces, Relics, Equipment Relics]
+categories: [Equipment, Torso, Necklaces, Relics, Equipment Relics, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Warmaster's Medallion
@@ -13,7 +13,7 @@ categories: [Equipment, Torso, Necklaces, Relics, Equipment Relics]
 | type | Torso |
 | rarity | Relic |
 | selling price | 100 |
-| requirements | LvL 5 |
+| requirements | Power 5 |
 | weight | 0.5 |
 | innate stats | +1 Legendary Pip |
 | innate talent | Actions Speak Louder |

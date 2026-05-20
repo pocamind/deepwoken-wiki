@@ -1,9 +1,9 @@
 ---
 title: THE MACHINE
-revid: 177154
+revid: 210862
 source: https://deepwoken.fandom.com/wiki/THE_MACHINE
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Exclusive, Equipment, Head, Helmets]
+categories: [Exclusive, Equipment, Head, Helmets, Equipment with Talents, Equipment with Exclusive Talents]
 notices:
   - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
 ---
@@ -17,7 +17,7 @@ notices:
 | selling price | Unsellable |
 | weight | 1 |
 | innate stats | +5 Health , +1 Uncommon Pip |
-| innate talent | + fistful of dollar |
+| innate talent | fistful of dollar |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -27,7 +27,7 @@ notices:
 
 ## Description
 
-THE MACHINE is an unobtainable [Equipment](Equipment.md) item under the "Head" category. It gives +5 health & +1 uncommon pip upon equipping.
+THE MACHINE is an unobtainable [Equipment](Equipment.md) item under the "Head" category.
 
 The item itself is a Fax Machine that is placed on top of your head when worn.
 

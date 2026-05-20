@@ -1,6 +1,6 @@
 ---
 title: Wartreads of Enmity
-revid: 207145
+revid: 210902
 source: https://deepwoken.fandom.com/wiki/Wartreads_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boots, Equipment]
@@ -13,7 +13,7 @@ categories: [Pages with broken file links, Boots, Equipment]
 | type | Legs |
 | rarity | Unique |
 | selling price | 100 |
-| requirements | LVL 15 |
+| requirements | Power 15 |
 | weight | 1 |
 | innate stats | +5 Health , +1 Posture , +2 Legendary Pips |
 | innate talent | N/A |

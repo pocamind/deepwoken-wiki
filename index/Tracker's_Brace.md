@@ -1,6 +1,6 @@
 ---
 title: "Tracker's Brace"
-revid: 205615
+revid: 210873
 source: https://deepwoken.fandom.com/wiki/Tracker's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Braces]
@@ -13,9 +13,9 @@ categories: [Equipment, Arms, Braces]
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | PWR 8 |
+| requirements | Power 8 |
 | weight | 2 |
-| innate stats | +3 Health, +1 Posture, +2 Rare Pips |
+| innate stats | +3 Health , +1 Posture , +2 Rare Pips |
 | innate talent | N/A |
 | set | Tracker's Brace, Tracker's Boots |
 | set talent | N/A |

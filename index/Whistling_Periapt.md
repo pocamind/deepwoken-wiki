@@ -1,9 +1,9 @@
 ---
 title: Whistling Periapt
-revid: 207117
+revid: 210909
 source: https://deepwoken.fandom.com/wiki/Whistling_Periapt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Necklaces, Torso, Equipment, Relics, Equipment Relics]
+categories: [Necklaces, Torso, Equipment, Relics, Equipment Relics, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Whistling Periapt
@@ -13,7 +13,7 @@ categories: [Necklaces, Torso, Equipment, Relics, Equipment Relics]
 | type | Torso |
 | rarity | Relic |
 | selling price | 100 |
-| requirements | Power 8 |
+| requirements | Power 5 |
 | weight | 0.5 |
 | innate stats | +1 Health , +8% Wind Armor |
 | innate talent | Whistleguard |

@@ -1,6 +1,6 @@
 ---
 title: "The No-Life King's Crown"
-revid: 210697
+revid: 210863
 source: https://deepwoken.fandom.com/wiki/The_No-Life_King's_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Head, Ornaments, Craftable, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -15,7 +15,7 @@ categories: [Pathfinder Exclusive, Equipment, Head, Ornaments, Craftable, Equipm
 | selling price | 100 |
 | requirements | Power 10 |
 | weight | 1 |
-| innate stats | +5 Health , +1 Legendary Pip, +1 Rare Pip |
+| innate stats | +5 Health , +1 Rare Pip, +1 Legendary Pip |
 | innate talent | Blood NecrosisCauterized Wounds, No Limits |
 | bankable | No |
 | droppable | No |

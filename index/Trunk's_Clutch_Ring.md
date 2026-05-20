@@ -1,6 +1,6 @@
 ---
 title: "Trunk's Clutch Ring"
-revid: 189928
+revid: 210884
 source: https://deepwoken.fandom.com/wiki/Trunk's_Clutch_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -13,7 +13,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 | type | Ring |
 | rarity | Relic |
 | selling price | 100 |
-| requirements | Lvl 5 |
+| requirements | Power 5 |
 | weight | 0.1 |
 | innate stats | N/A |
 | bankable | No |

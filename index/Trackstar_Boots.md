@@ -1,9 +1,9 @@
 ---
 title: Trackstar Boots
-revid: 189995
+revid: 210875
 source: https://deepwoken.fandom.com/wiki/Trackstar_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Legs, Boots]
+categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Trackstar Boots
@@ -15,7 +15,7 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Boots]
 | selling price | 25 |
 | requirements | N/A |
 | weight | 1 |
-| innate stats | +3 Health, +2 Rare Pips |
+| innate stats | +3 Health , +2 Rare Pips |
 | innate talent | Haste |
 | set | Trackstar Pauldrons, Trackstar Boots |
 | set talent | Rush |
@@ -32,7 +32,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 Trackstar Set
 
-Variants: [Trackstar Pauldrons](Trackstar_Pauldrons.md)
+Variants: [Pauldrons](Trackstar_Pauldrons.md)
 
 ## Description
 

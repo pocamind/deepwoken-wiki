@@ -1,9 +1,9 @@
 ---
 title: "Tracker's Boots"
-revid: 205909
+revid: 210872
 source: https://deepwoken.fandom.com/wiki/Tracker's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Legs, Boots]
+categories: [Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Tracker's Boots
@@ -15,7 +15,7 @@ categories: [Equipment, Legs, Boots]
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +3 Health, +1 Rare Pip |
+| innate stats | +3 Health , +1 Rare Pip |
 | innate talent | Lowstride |
 | set | Tracker's Brace, Tracker's Boots |
 | set talent | N/A |

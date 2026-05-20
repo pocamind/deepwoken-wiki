@@ -1,6 +1,6 @@
 ---
 title: Vigil Hood
-revid: 195090
+revid: 210897
 source: https://deepwoken.fandom.com/wiki/Vigil_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hoods, Etrea]
@@ -13,7 +13,7 @@ categories: [Equipment, Head, Hoods, Etrea]
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | LVL 6, AGL 10 |
+| requirements | Power 6, 10 Agility |
 | weight | 1 |
 | innate stats | +2 Rare Pips, +1 Legendary Pip |
 | innate talent | N/A |

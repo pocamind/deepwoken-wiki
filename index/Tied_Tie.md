@@ -1,6 +1,6 @@
 ---
 title: Tied Tie
-revid: 177156
+revid: 210866
 source: https://deepwoken.fandom.com/wiki/Tied_Tie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Equipment, Torso, Ties]
@@ -26,7 +26,7 @@ notices:
 
 ## Description
 
-Tied Tie is an unobtainable [Equipment](Equipment.md) item under the "Torso" category. It's a dark green tie with the Deepwoken logo on it, and it comes with a white collar for your neck. Equipping it grants you +5 Health & +1 Uncommon Pip
+Tied Tie is an unobtainable [Equipment](Equipment.md) item under the "Torso" category. It's a dark green tie with the Deepwoken logo on it, and it comes with a white collar for your neck.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: "Titus's Cape"
-revid: 187426
+revid: 210869
 source: https://deepwoken.fandom.com/wiki/Titus's_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Capes]
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Capes]
 | selling price | 100 |
 | requirements | Power 15 |
 | weight | 2 |
-| innate stats | +10% Lightning Armor, +2 Rare Pips, +1 Legendary Pip |
+| innate stats | +10% Lightning Armor , +2 Rare Pips, +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

@@ -1,9 +1,9 @@
 ---
 title: "Toon's Goggles"
-revid: 177147
+revid: 210870
 source: https://deepwoken.fandom.com/wiki/Toon's_Goggles
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Exclusive, Equipment, Face, Goggles, Developer Spec]
+categories: [Exclusive, Equipment, Face, Goggles, Developer Spec, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 notices:
   - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
 ---
@@ -17,7 +17,7 @@ notices:
 | selling price | N/A |
 | requirements | None |
 | weight | 0.5 |
-| innate stats | +50 Health+25 Ether |
+| innate stats | +50 Health +25 Ether |
 | innate talent | Ghost |
 | bankable | Yes |
 | droppable | Yes |
@@ -30,7 +30,7 @@ notices:
 
 Toon's Goggles are an [Equipment](Equipment.md) item under the "Face" category.
 
-Toon's Goggles gives user the talent "Ghost" which make dodging a move will briefly make you invisible, ending early if you attack.
+Toon's Goggles gives user the [Ghost](Talents.md#ghost) Talent, which make dodging a move will briefly make you invisible, ending early if you attack.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Western Outlaw Mask
-revid: 178595
+revid: 210904
 source: https://deepwoken.fandom.com/wiki/Western_Outlaw_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -23,6 +23,10 @@ categories: [Equipment, Face, Masks]
 | pass down | Yes |
 | obtainment | Titus |
 | description | A mask to perfectly conceal one's entire face when paired with a hat, its also able to conceal one's true strength. |
+
+Western Outlaw Set
+
+Variants: [Hat](Western_Outlaw_Hat.md) · [Robes](Western_Outlaw_Robes.md) · [Boots](Western_Outlaw_Boots.md)
 
 ## Description
 

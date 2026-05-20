@@ -1,6 +1,6 @@
 ---
 title: Spectral Grasp
-revid: 203141
+revid: 210882
 source: https://deepwoken.fandom.com/wiki/Spectral_Grasp
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Event Item, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Daggers, Hallowtide, Light Weapons]
@@ -40,7 +40,7 @@ categories: [Weapons, Criticals with M1 tag, Event Item, Weapons with Unique Cri
 
 ## Critical
 
-After a short wind-up, the user slashes twice with the weapon, applying 10 Wither and dealing 1x scaled damage for each hit. This critical has innate bleed on both hits.
+After a short wind-up, the user slashes twice with the weapon, applying 10 [Wither](Status_Effects.md#wither) and dealing 1x scaled damage for each hit. This critical has innate [bleed](Status_Effects.md#bleed) on both hits.
 
 The critical has a cooldown of **5 seconds**.
 
@@ -49,5 +49,5 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 ## Trivia
 
 -   The M1 attacks have a special ghastly sound effect that is unique to this weapon.
--   This weapon might be inspired by Karambit and its M1 and crit may be a nod to a Indonesian martial arts called 'Silat' which usually paired with a Karambit.
+-   This weapon might be inspired by Karambit and its M1 and crit may be a nod to an Indonesian martial arts called 'Silat' which usually paired with a Karambit.
 -   When it first released, Spectral Grasp had the [Whaling Knife](Whaling_Knife.md)'s critical and no unique animations, this was changed the in a hotfix soon afterwards.
