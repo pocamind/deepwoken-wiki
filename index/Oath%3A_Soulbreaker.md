@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 210948
+revid: 210953
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -197,4 +197,4 @@ February 8th 2025
 -   If you proc [Emperor Flame](Talents.md), it changes the outline of your [ardour](Murmur%253A_Ardour.md) from purple to whatever your flame color was (orange, blue, black)
 -   It is recommended to use [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md) or [Shrine of Conceit](Deep_Shrines/Shrine_of_Conceit.md) to progress this Oath as they only use 1 Knowledge each time.
 -   Rhythm Advance might be a reference to Killua's "Rhythm Echo" from HXH
--   There is a bug where Ardour Slicer hits through the player who parries causing unfair punishes even though they properly parried it.
+-   ~~There is a bug where Ardour Slicer hits through the player who parries causing unfair punishes even though they properly parried it.~~ This was patched January 2nd 2026.

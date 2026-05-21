@@ -1,6 +1,6 @@
 ---
 title: Zana
-revid: 206119
+revid: 210950
 source: https://deepwoken.fandom.com/wiki/Zana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Enemies, Quests]
@@ -188,9 +188,7 @@ Right side of the [Lower Erisia](Lower_Erisia.md) beach, near the tree by the ru
 
 #### Location 3
 
-_**"**_
-
-The entrance of [The Monkey's Paw](<The_Monkey's_Paw.md>), they spawn after the narrow channel_**"**_ with the falling leaves.
+_**"**_ The entrance of [The Monkey's Paw](<The_Monkey's_Paw.md>), they spawn after the narrow channel_**"**_ with the falling leaves.
 
 Zana acts as an encounter in the places you're suppose to challenge them; so it'll take time for them to spawn in. You must deal 100% of the damage dealt to Zana in order for the quest to progress. Once Zana is defeated, they'll drop a chest after roughly 20 seconds with Songseeker related loot.
 
