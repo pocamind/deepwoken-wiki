@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 210405
+revid: 210937
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -293,8 +293,6 @@ Complete 10 missions as Squad leader, then speak to [Warden Jericho](Warden_Jeri
 ### Exclusive Features
 
 -   **Breakthrough Drive** - Knocking a player refreshes your Glorious Charge cooldown and extends both effects it has by 5 seconds. \[90 second CD\]
-
-  
 
 -   **Buster Call** - Radio in the Authority's navy for a buster call, sending out a barrage of bombardment wherever you see fit.
     -   Grants a Talent tool that lights a flare and highlights a large AoE on the ground. After a considerable delay, that location will be bombed several times, dealing very high damage.

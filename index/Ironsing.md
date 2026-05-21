@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 210922
+revid: 210936
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -862,6 +862,7 @@ Metal [ResistanceIronsing](Ironsing.md) + Blunt ResistanceBlunt
 -   Has a windup of 0.55 seconds with a 13 second cooldown.
 -   Has 9.2x PVE scaling (multiply damage dealt by 9.2 for PvE damage).
 -   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase its range.
+-   Can be modified with a [Magnet Spark](Mantra_Modifiers.md#sparks) to lock onto a opponent in front of you
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks), pushing your opponent away instead of pulling them.
 
  |

@@ -1,9 +1,9 @@
 ---
 title: "Heretic's Memento"
-revid: 210648
+revid: 210931
 source: https://deepwoken.fandom.com/wiki/Heretic's_Memento
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Unique Outfits, World Event, Outfits with Talents, "Outfits with Non-exclusive Talents"]
+categories: [Outfits, Unique Outfits, World Event, Outfits with Talents, Outfits with Exclusive Talents]
 ---
 
 # Heretic's Memento
@@ -47,4 +47,4 @@ This Outfit grants the **Overflow** Talent, Doubling the tempo recieved when lan
 ## Trivia
 
 -   Added in the 'World Events' update.
--   Originally had the Giantslayer Talent, but due to Giantslayer being merged with Underdog on the same update this outfit was added, the outfit effectively had no Talent. Heretic's Memento's innate Talent was changed to Underdog on March 8th, 2025.
+-   Originally had the [Giantslayer](Cut_Content.md#giantslayer) Talent, but due to Giantslayer being merged with [Underdog](Talents.md#underdog) on the same update this Outfit was added, the outfit effectively had no Talent. Heretic's Memento's innate Talent was changed to Underdog on [March 8th, 2025](Version_History/2025.md#march-8th-2025).

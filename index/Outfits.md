@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 209705
+revid: 210932
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits]
@@ -49,7 +49,7 @@ All of these Outfits are exclusively obtained as the starting armor of specific 
 
 ### Spec/Mod
 
-These Outfits are exclusive to Deepwoken Developers or Moderators.
+These Outfits are exclusive to _Deepwoken_ Developers or Moderators.
 
 ### Unavailable
 
