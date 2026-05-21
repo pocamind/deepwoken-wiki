@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 208551
+revid: 210940
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -27,7 +27,7 @@ categories: [Resonances]
 
 **Shard Bow** conjures a shimmering white bow that fires 1 or 3 explosive arrows at the cursor from midair, kicking the user off the floor. These arrows deal typeless damage, and do not scale off of any modifiers. This ability has a 20 second cooldown.
 
-If Shard Bow is corrupted, your Shard Bow will deal an additional 5 posture damage, and apply [White Flames](Status_Effects.md#white-flames) to your target. Additionally, this Resonance comes with a unique downside, applying White Flames to the caster on use, while sending them higher into the air.
+If Shard Bow is corrupted, your Shard Bow will deal an additional 5 posture damage, no longer deal typeless, instead dealing Flamecharm damage and applying [White Flames](Status_Effects.md#white-flames) to your target. Additionally, this Resonance comes with a unique downside, applying White Flames to the caster on use, while sending them higher into the air.
 
 ### _Resonance Point Usage_
 

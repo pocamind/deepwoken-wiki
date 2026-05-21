@@ -1,6 +1,6 @@
 ---
 title: Bluesteel Boots
-revid: 210095
+revid: 210941
 source: https://deepwoken.fandom.com/wiki/Bluesteel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -25,6 +25,10 @@ categories: [Equipment, Legs, Boots]
 | pass down | Yes |
 | obtainment | Chests from:, War Mode, Authority Ensign Missions, Fishing |
 | description | ... |
+
+Bluesteel Set
+
+Variants: [Pauldrons](Bluesteel_Pauldrons.md)
 
 ## Description
 
