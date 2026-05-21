@@ -1,6 +1,6 @@
 ---
 title: Ivory
-revid: 210842
+revid: 210965
 source: https://deepwoken.fandom.com/wiki/Ivory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Cut Content, NPCs, Individuals with unspecified pronouns]

@@ -1,6 +1,6 @@
 ---
 title: Terminal
-revid: 208157
+revid: 210991
 source: https://deepwoken.fandom.com/wiki/Terminal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
@@ -20,7 +20,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-An ancient machine from the Old World.
+A mysterious machine.
 
 ## Location
 
@@ -56,7 +56,3 @@ Middle of Simforea
 </tr>
 </tbody>
 </table>
-
-## Trivia
-
--   Currently has no use

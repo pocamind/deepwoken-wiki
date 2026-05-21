@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 209141
+revid: 210990
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, Vendors, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
@@ -19,7 +19,7 @@ categories: [Ganymede NPCs, NPCs, Vendors, NPCs located in the Etrean Luminant, 
 
 ## Description
 
-The Weird Trader is an inconspicuous [Ganymede](Ganymede.md) NPC that can rarely be spotted sailing in a Dinghy just about anywhere in the sea. This includes the waters of the Etrean Luminant, the Eastern Luminant and even the Voidsea.
+The Weird Trader is an inconspicuous [Ganymede](Ganymede.md) NPC. They can rarely be spotted sailing in a Dinghy just about anywhere in the sea. This includes the waters of the Etrean Luminant, the Eastern Luminant and even the Voidsea.
 
 The Weird Trader will request three items from a long list of possible choices. Providing these three items will reward the player with a very rare [weapon](Weapons.md), a [relic](Relics.md), or an [Astral Enchantment Stone](Enchantments.md). This trade can only be performed once per encounter, a new Weird Trader must be found to attempt another trade.
 

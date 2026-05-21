@@ -1,6 +1,6 @@
 ---
 title: Jarvis
-revid: 196233
+revid: 210964
 source: https://deepwoken.fandom.com/wiki/Jarvis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
@@ -21,15 +21,13 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Jarvis is a [Etrean](Etrean.md) NPC who is able to smelt two pieces of equipment into one.
+Jarvis is an [Etrean](Etrean.md) NPC who is able to smelt two pieces of equipment into one.
 
 His main use is to [Smelt](Transmogrification.md) two pieces of equipment for 1000 Notes; the first keeping its attributes, the second being its overall appearance.
 
 -   The first item you hold out to them will always be the one you keep the stats of, and the second will be the one you keep the appearance of.
 -   This will _not combine_ stats, only replaces them, with the item you want to keep the appearance of losing its stats completely and gaining the other item's stats.
     -   For a further, more in-depth explanation, see _[Transmogrification](Transmogrification.md)._
-
-  
 
 ## Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: ??? (Coral Clump)
-revid: 191268
+revid: 210967
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(Coral_Clump)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the First Layer, Individuals with unspecified pronouns]
@@ -15,7 +15,9 @@ categories: [NPCs, NPCs located in the First Layer, Individuals with unspecified
 
 ## Description
 
-"???" is an NPC who is apparently the only passive [Mudskipper](Mudskipper.md) still in "sound mind" with the ability to talk using proper words.
+"???" is an NPC. They are an individual turning into a [Mudskipper](Mudskipper.md).
+
+They are apparently the only passive [Mudskipper](Mudskipper.md) still in "sound mind" with the ability to talk using proper words.
 
 ## Location
 

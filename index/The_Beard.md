@@ -1,6 +1,6 @@
 ---
 title: The Beard
-revid: 204819
+revid: 210976
 source: https://deepwoken.fandom.com/wiki/The_Beard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, Vendors, NPCs, Humanoids with Unobtainable Outfits]
@@ -23,7 +23,7 @@ This content is not accessible outside of this gamemode.
 
 The Beard is a [Canor](Canor.md) NPC. He is the barkeep for the Golden Warriors.
 
-He is known as the beard, despite having a goatee, and not a beard.
+He is known as The Beard, despite having a goatee, and not a beard.
 
 ## Location
 

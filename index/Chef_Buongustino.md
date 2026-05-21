@@ -1,6 +1,6 @@
 ---
 title: Chef Buongustino
-revid: 199465
+revid: 210972
 source: https://deepwoken.fandom.com/wiki/Chef_Buongustino
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, Pages with broken file links, NPCs, Vendors, Quests]
@@ -28,7 +28,9 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Chef Buongustino is a [Felinor](Felinor.md) NPC. He is one of the most brilliant culinary minds in the Eastern Luminant. Buongustino requests help from the player to be their sous-chef, by making orders and providing the recipes to cook the [Food](Food.md). After obtaining the requested food and showing it to Buongustino, he'll take it in exchange for some [Notes](Notes.md) and a small chest. After making an order, there is a small period of downtime until a new order comes in.
+Chef Buongustino is a [Felinor](Felinor.md) NPC. He is one of the most brilliant culinary minds in the [Eastern Luminant](Luminants.md).
+
+Buongustino requests help from the player to be their sous-chef, by making orders and providing the recipes to cook the [Food](Food.md). After obtaining the requested food and showing it to Buongustino, he'll take it in exchange for some [Notes](Notes.md) and a small chest. After making an order, there is a small period of downtime until a new order comes in.
 
 The orders are as follows:
 

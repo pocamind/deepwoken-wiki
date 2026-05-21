@@ -1,6 +1,6 @@
 ---
 title: Chef Odiolavoro
-revid: 198905
+revid: 210974
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Pages with broken file links, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -20,11 +20,11 @@ categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusiv
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
 For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
-Chef Odiolavoro is an aspiring NPC that gives the player orders to carry out on his behalf. He's a struggling [Felinor](Felinor.md) "chef" that's opened up shop in [Etris](Etris.md) recently and is hoping to one day be able to compete with the [Leshi](Lance.md) [brothers](<Lance's_Brother.md>).
-
 ## Description
 
-Chef Odiolavoro can be found in [Etris](Etris.md) across from the Banker. He requests help with making orders, by providing the food recipe and requesting you cook it. After cooking (or buying) the item, bring it to him, where he'll take it from your inventory in exchange for the quest reward. These quests give you various ingredients, the chef weapons, and the [Chef's Toque](<Chef's_Toque.md>). [Artisan](Talents.md#tavernkeep) food rewards are currently unknown. After a few orders there is a very short cooldown.
+Chef Odiolavoro is an aspiring NPC that gives the player orders to carry out on his behalf. He's a struggling [Felinor](Felinor.md) "chef" that's opened up shop in [Etris](Etris.md) recently and is hoping to one day be able to compete with the [Leshi](Lance.md) [brothers](<Lance's_Brother.md>).
+
+He requests help with making orders, by providing the food recipe and requesting you cook it. After cooking (or buying) the item, bring it to him, where he'll take it from your inventory in exchange for the quest reward. These quests give you various ingredients, the chef weapons, and the [Chef's Toque](<Chef's_Toque.md>). [Artisan](Talents.md#tavernkeep) food rewards are currently unknown. After a few orders there is a very short cooldown.
 
 The orders are as follows:
 
@@ -124,6 +124,10 @@ File:UllaFriedEgg.png
 | 
 
  | Scholar's Brew | 1x Any Mantra Modifier + 1x Any Mushroom | ◯ |
+
+## Location
+
+Chef Odiolavoro can be found in [Etris](Etris.md) across from the Banker.
 
 ## Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: Zana
-revid: 210950
+revid: 210979
 source: https://deepwoken.fandom.com/wiki/Zana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Enemies, Quests]
@@ -188,9 +188,9 @@ Right side of the [Lower Erisia](Lower_Erisia.md) beach, near the tree by the ru
 
 #### Location 3
 
-_**"**_ The entrance of [The Monkey's Paw](<The_Monkey's_Paw.md>), they spawn after the narrow channel_**"**_ with the falling leaves.
+The entrance of [The Monkey's Paw](<The_Monkey's_Paw.md>), they spawn after the narrow channel with the falling leaves.
 
-Zana acts as an encounter in the places you're suppose to challenge them; so it'll take time for them to spawn in. You must deal 100% of the damage dealt to Zana in order for the quest to progress. Once Zana is defeated, they'll drop a chest after roughly 20 seconds with Songseeker related loot.
+Zana acts as an encounter in the places you're supposed to challenge them; so it'll take time for them to spawn in. You must deal 100% of the damage dealt to Zana in order for the quest to progress. Once Zana is defeated, they'll drop a chest after roughly 20 seconds with Songseeker related loot.
 
 ## Trivia
 
@@ -198,4 +198,4 @@ Zana acts as an encounter in the places you're suppose to challenge them; so it'
 -   They are a reference to the “metamancer” playertype, specifically those from Verse 1. They use a Shattered Katana and [Royal Pathfinder](Royal_Pathfinder.md) and hint at being a [Flamecharmer](Flamecharm.md), along with all of their fights being at popular ganking spots. Even the aspect they are pokes fun at how many of these players were Vesperians. The only thing missing is Blindseer.
 -   They have 500 HP and deal 20 damage per hit, in all locations.
 -   When encountered in one of the ganking spots, their mask will switch into a random Vesperian mask and his Royal Pathfinder coat will be removed, while the former also occurs with [Polis](Polis.md), it's unclear why the latter occurs, or if it's even a bug.
--   The Royal Pathfinders coat they wear appears to have no sleeves.
+-   The Royal Pathfinder coat they wear appears to have no sleeves.

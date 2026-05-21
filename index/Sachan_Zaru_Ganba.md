@@ -1,6 +1,6 @@
 ---
 title: Sachan Zaru Ganba
-revid: 201888
+revid: 211003
 source: https://deepwoken.fandom.com/wiki/Sachan_Zaru_Ganba
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Sachans, Humanoids with Unobtainable Outfits]
@@ -23,7 +23,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Sachan Zaru Ganba is an [Etrean](Etrean.md) NPC. He is the head of [Clan Ganba](Clan_Ganba.md).
+Sachan Zaru Ganba is an [Etrean](Etrean.md) NPC. He is the head of the [Ganba Clan](Clan_Ganba.md).
 
 In an argument with the three other Sachans in [The Golden Rat](The_Golden_Rat.md), he asked to find a way to contact the [Isle of Vigils](Isle_of_Vigils.md) for a potential new operating base. He seems to know that [The Inheritor](The_Inheritor.md) is apart of the [Circle of Honour](Circle_of_Honour.md), and he considers joining the organization himself.
 

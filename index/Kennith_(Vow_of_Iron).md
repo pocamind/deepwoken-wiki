@@ -1,6 +1,6 @@
 ---
 title: Kennith (Vow of Iron)
-revid: 199094
+revid: 210970
 source: https://deepwoken.fandom.com/wiki/Kennith_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs]
@@ -24,7 +24,9 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Kennith is an [Etrean](Etrean.md) NPC. He aspires to be an Etrean Guardsman when he grows older. [The Inheritor](The_Inheritor.md) believes in him, but maybe that belief is misplaced.
+Kennith is an [Etrean](Etrean.md) NPC. He is a citizen of [Etris](Etris.md).
+
+He aspires to be an Etrean Guardsman when he grows older. [The Inheritor](The_Inheritor.md) believes in him, but maybe that belief is misplaced.
 
 ## Location
 

@@ -1,9 +1,9 @@
 ---
 title: Naan Zakshun
-revid: 202962
+revid: 211007
 source: https://deepwoken.fandom.com/wiki/Naan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Vow of Iron Exclusive, Vendors, NPCs, Circle of Honour members]
+categories: [Canor NPCs, Vow of Iron Exclusive, Vendors, NPCs, NPCs located in the First Layer, Circle of Honour members]
 ---
 
 # Naan Zakshun
@@ -28,7 +28,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Naan Zakshun is an NPC merchant who sells various equipment and weapons labelled as "Naan's Salvaged Stock". She is the grandmother of [Traan Zakshun](Traan_Zakshun.md), raising the man and setting him on the path of the merchant. She wears an Iron Memento around her neck that signifies her ties to the [Circle of Honour](Circle_of_Honour.md), though she mainly uses these ties to better haggle with its members.
+Naan Zakshun is a [Canor](Canor.md) NPC. She is a merchant who sells various equipment and weapons labelled as "Naan's Salvaged Stock". She is the grandmother of [Traan Zakshun](Traan_Zakshun.md), raising the man and setting him on the path of the merchant. She wears an Iron Memento around her neck that signifies her ties to the [Circle of Honour](Circle_of_Honour.md), though she mainly uses these ties to better haggle with its members.
 
 Unlike Traan Zakshun, who has the same stock for everyone, her stocks depends on the player's progression. After defeating a memory boss, such as the [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>), [Dravik, The Rat King](Dravik,_The_Rat_King.md), and the [True Heart of Enmity](True_Heart_of_Enmity.md), her stock will be "upgraded". Said stock is the same for all players with similar progression.
 

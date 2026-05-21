@@ -1,6 +1,6 @@
 ---
 title: Mofisu Clan Informant
-revid: 200434
+revid: 210995
 source: https://deepwoken.fandom.com/wiki/Mofisu_Clan_Informant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs, Clan Mofisu]

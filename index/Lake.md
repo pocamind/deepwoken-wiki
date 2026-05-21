@@ -1,6 +1,6 @@
 ---
 title: Lake
-revid: 210740
+revid: 210978
 source: https://deepwoken.fandom.com/wiki/Lake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
@@ -23,7 +23,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Lake is a [Chrysid](Chrysid.md) NPC. She is a native of the [Lullaby Isles](Lullaby_Isles.md) who got lost and somehow found herself in the [Songseeker Wilds](Songseeker_Wilds.md).
+Lake is a [Chrysid](Chrysid.md) NPC. She is a native of the [Lullaby Isles](Lullaby_Isles.md), specifically Daphnes, who got lost and somehow found herself in the [Songseeker Wilds](Songseeker_Wilds.md).
+
+Lake somehow ended up in the [Eastern Luminant](Luminants.md), wherein she encountered a band of sailors. Thinking the Songseeker Wilds were her home, she had them take her there. As she explored, she ran afoul of some [Songseekers](Songseeker.md).
 
 She wears the [Scholar](Scholar.md) [Outfit](Outfits.md).
 

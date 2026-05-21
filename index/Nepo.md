@@ -1,6 +1,6 @@
 ---
 title: Nepo
-revid: 195916
+revid: 210999
 source: https://deepwoken.fandom.com/wiki/Nepo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Summer Company, Reputation]
@@ -115,4 +115,4 @@ Nepo is located on the bridge heading towards the Inn at [Summer Isle](Summer_Is
 
 ## Trivia
 
--   Nepo's name may be a pun on Nepotism, which is gaining preference in society through relatives or friends, and is also referenced in a Talent card related to Reputation.
+-   Nepo's name may be a pun on Nepotism, which is gaining preference in society through relatives or friends.
