@@ -1,9 +1,9 @@
 ---
 title: Black Death
-revid: 209033
+revid: 211072
 source: https://deepwoken.fandom.com/wiki/Black_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Reforged Weapons]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Reforged Weapons, Spears, Medium Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, The Ministry, "Attunement-based Weapons", "Core-Attribute based weapons", Legendary Weapons, Weapons with Talents, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
 ---
 
 # Black Death
@@ -62,4 +62,4 @@ These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Tal
 ## Trivia
 
 -   Unlike the **Red Death** which is refered to as a spear, the **Black Death** is refered to as a pike.
--   Before the 30 Wither cap per proc, stacking enough ether drain effect could result in large amount of Wither being applied in one hit, sometime outright one shotting players by turning their entire health bar into Wither.
+-   Before the limit on the amount of Wither its Talent could apply per proc, stacking enough ether drain effect could result in large amount of Wither being applied in one hit, sometimes outright one shotting players by turning their entire health bar into Wither.

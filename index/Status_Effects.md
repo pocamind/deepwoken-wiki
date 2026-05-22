@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 210992
+revid: 211050
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -97,7 +97,7 @@ An enhanced form of [Dazed](#dazed). True Daze makes you completely unable to do
 
 ### Bleed
 
-This effect can be applied by being hit by a weapon, monster attack, or Mantra that applies bleed. Bleed deals 5% of the initial attack's **scaled** damage in three damage ticks, totaling to a 15% total damage increase. Bleed from [Speed Demon](Talents.md#speed-demon) deals 2.5% of the attack's scaled damage per tick, resulting in a 7.5% total damage increase. Bleed damage cannot be buffed outside of increasing an attack's scaled damage. Bleed damage deals increased blood bar damage. Signified by blood pouring out from your character.
+This effect can be applied by being hit by a weapon, monster attack, or Mantra that applies bleed. Bleed deals 5% of the initial attack's **scaled** damage in three damage ticks, totaling to a 15% total damage increase. Bleed from [Speed Demon](Talents.md#speed-demon) deals 2.5% of the attack's scaled damage per tick, resulting in a 7.5% total damage increase. Bleed damage can only be buffed via the [Crimson Terraplate Pauldrons](Crimson_Terraplate_Pauldrons.md) and [Razor Cutlass](Razor_Cutlass.md)' Talents, and increasing the scaled damage of the attack. Bleed damage deals increased blood bar damage. Signified by blood pouring out from your character.
 
 ### Wither
 

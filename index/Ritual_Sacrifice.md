@@ -1,9 +1,9 @@
 ---
 title: Ritual Sacrifice
-revid: 203448
+revid: 211069
 source: https://deepwoken.fandom.com/wiki/Ritual_Sacrifice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Named Weapons, Weapons with Talents]
+categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Named Weapons, Legendary Weapons, Weapons with Talents]
 ---
 
 # Ritual Sacrifice
@@ -51,11 +51,11 @@ Equipping the Ritual Sacrifice grants its unique [weapon Talent](Talents.md#weap
 **Sacrificial Boon** grants a random buff upon using the Talent tool at the cost of 5. This Talent has a 0.5 second cooldown. The buffs are as follows:
 
 -   20% damage buff. This buff is also applied to Mantras
--   Hyperarmor for 10 seconds. This will be lost upon casting any Mantra
+-   [Hyperarmor](Status_Effects.md#hyperarmor) for 10 seconds. This will be lost upon casting any Mantra
 -   Instantly heal 50 health
 -   Thirst restoration
 -   Stomach restoration
--   Speed boost for 10 seconds
+-   [Speed Boost](Status_Effects.md#speed-boost) for 10 seconds
 
 ## Critical
 

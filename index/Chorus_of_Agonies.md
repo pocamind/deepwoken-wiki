@@ -1,9 +1,9 @@
 ---
 title: Chorus of Agonies
-revid: 203426
+revid: 211074
 source: https://deepwoken.fandom.com/wiki/Chorus_of_Agonies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons]
+categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons, Legendary Weapons]
 ---
 
 # Chorus of Agonies
@@ -48,6 +48,6 @@ The critical has a cooldown of **6 seconds**.
 
 ## Trivia
 
--   This weapon previously had the highest weight of any weapon in the game at 15.
--   Used to have a [Strength](Attributes.md#strength) requirement of 80, however this was reduced down to 20 shortly after the weapon released.
+-   This weapon previously had the highest posture damage stat of any weapon in the game at 15.
+-   Used to have a [Strength](Attributes.md#str) requirement of 80, however this was reduced down to 20 shortly after the weapon released.
 -   This weapon does not have a visible swing trail.

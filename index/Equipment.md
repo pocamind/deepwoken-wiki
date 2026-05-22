@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 209614
+revid: 211058
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, Equipment, In progress with VOI reason]
@@ -342,6 +342,13 @@ Bloodforged & The No-Life King's |
  | Set: Brigand  
 Head: [Brigand's Bicorn](<Brigand's_Bicorn.md>)  
 Arms: [Brigand's Cloak](<Brigand's_Cloak.md>) |
+|  | [Broodplate Helmet](Broodplate_Helmet.md) | _+2 Health_  
+_+1 Posture_
+
+_+Talent: [**Broodlord's Scream**](Talents.md#broodlords-scream)_  
+**Requires Power 10**
+
+ | N/A |
 | File:Brown Hood.png | Brown Hood  
 (**Series**) | _+1 Posture_  
 _+2% Stealth_ | Variants:  
@@ -1190,6 +1197,14 @@ _+Talent: [**No Interruptions**](Talents.md#no-interruptions)_
 
  | Variants:  
 Titus's & Champion's |
+|  | [Crimson Terraplate Pauldrons](Crimson_Terraplate_Pauldrons.md) | +2 Rare Pips  
++1 Legendary Pip
+
+_+Talent: [**Cruentare**](Talents.md#cruentare)_  
+**Requires Power 10**
+
+ | Variants:  
+Terraplate, Crimson Terraplate |
 |  | [Dark Owl Cloak](Dark_Owl_Cloak.md)  
 (**Set**) | _+8% Shadow Armor_  
 _+6% Stealth_
@@ -1845,6 +1860,14 @@ _+1 Posture_
 
  | Variants:  
 Default, Threadwork |
+|  | [Terraplate Pauldrons](Terraplate_Pauldrons.md) | +2 Rare Pips  
++1 Legendary Pip
+
+_+Talent: [**Terrapod Tracer**](Talents.md#terrapod-tracer)_  
+**Requires Power 10**
+
+ | Variants:  
+Terraplate, Crimson Terraplate |
 |  | [Titus's Cape](<Titus's_Cape.md>)  
 (**Animated**)  
 (**Unique**) | _+10% Lightning Armor_
@@ -2606,7 +2629,8 @@ Choker & Jougs |
 (**Set**)  
 (**Relic**) | +1 Rare Pip
 
-_+Talent: [**Heartwing Beat**](Talents.md#heartwing-beat)_
+_+Talent: [**Heartwing Beat**](Talents.md#heartwing-beat)_  
+**Requires Power 12**
 
  | Set: Enmity  
 Head: [Aegis of Enmity](Aegis_of_Enmity.md)  

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 210134
+revid: 211079
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -2204,30 +2204,30 @@ Unobtainable
 
 ## Changelogs
 
--   **January 2, 2022** - [Hero Blade of Flame, Frost, Lightning, Shadow & Wind](Hero_Blades.md) can no longer be enchanted.
--   **February 18, 2022** - You can't have more than one of a specific enchant equipped at a time. - Limited to have 3 enchanted equipment.
--   **March 27, 2022** - Enchant rates have been buffed by 3x. - Enchanted equipment is soulbound when you equip it. - Enchants could no longer drop on death.
--   **April 11, 2022** - Enchant rates have been buffed by an unknown amount.
--   **June 27, 2022** - Enchanted equipment could be now smelted at [Jarvis](Jarvis.md).
--   **September 12, 2022** - In celebration of Deepwoken obtaining the Best New Game award in the Roblox Innovation Awards, enchant rate have been increased by 2x temporarily (made permanent on **October 3, 2022**)
--   **September 13, 2022** - Enchanted weapons and equipment are now at least 1 star by default. Armors and weapons obtained before this date will remain starless if not equipped or re-equipped.
--   **September 19, 2022** - Weapons can be enchanted with a random enchant by giving 3 equipment enchants to [Laplace](Laplace.md).
--   **December 23, 2022** - Weapons can be enchanted with an enchant stone from [Layer 2](Second_Layer.md).
--   **December 24, 2022** - Armor pieces can now be given a random Enchant from [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), by trading in 5 [Medallions](Kyrsan_Medallions.md) from layer 2.
--   **January 16, 2023** - These enemies and humanoid monsters had a chance to spawn wielding enchanted weaponry.
--   **February 13, 2023** - [Light's Final Toll](<Light's_Final_Toll.md>) can no longer be enchanted.
--   **August 25, 2023** - These enemies and humanoid monsters can now spawn with enchants again.
--   **September 29, 2023** - [Astral](Astral.md) is made publicly available.
--   **November 3, 2023** - [Hallowtide](Hallowtide.md) Enchant: [Harrowing](Harrowing.md) is made publicly available.
--   **April 5, 2024** - [Railblades](Railblade.md) are no longer considered Legendary Weapons, thus they can be enchanted.
--   **July 12, 2024** - The weapon enchant [Curse of Repulsion](Curse_of_Repulsion.md) was added.
--   **August 23, 2024** - Equipment enchantment can now be obtained via [Enchant Grease](Enchant_Grease.md) [Relic](Relics.md) through [Laplace](Laplace.md) or [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
--   **February 1, 2025** - The weapon enchant [Curse of Rhaemen's Ember](<Curse_of_Ysley's_Ember.md>) is added.
--   **July 7, 2025** - The weapon enchants [Void](Curse_of_Void.md), [Parasol's Blight](<Parasol's_Blight.md>) and [Nightbringer](Nightbringer.md) were added, the equipment enchantment [Rain](<Rain_(enchantment).md>) was also added.
--   **July 15, 2025** - The weapon enchant [Void](Curse_of_Void.md) was renamed to [Curse of Void](Curse_of_Void.md).
--   **July 25, 2025** - The weapon enchants [Windswept](Windswept.md), [Curse of the Authoritative](Curse_of_the_Authoritative.md), and [Bluster](Bluster.md) were added
--   **August 4, 2025** - [Curse of Rhaemen's Ember](<Curse_of_Ysley's_Ember.md>) was renamed to [Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>)
--   **Febuary 16, 2026** - The weapon enchants [Kyrsan Chill](Kyrsan_Chill.md) and [Suffocation](<Suffocated_(enchantment).md>) were added, [Curse of Captain Greene](Curse_of_Captain_Greene.md) was made publically obtainable also.
+-   **[January 2nd, 2022](Version_History/2022-2021.md#january-2nd-2022)** - [Hero Blade of Flame, Frost, Lightning, Shadow & Wind](Hero_Blades.md) can no longer be enchanted.
+-   **[February 18th, 2022](Version_History/2022-2021.md#february-18th-2022)** - You can't have more than one of a specific enchant equipped at a time. - Limited to have 3 enchanted equipment.
+-   **[March 27th, 2022](Version_History/2022-2021.md#march-27th-2022)** - Enchant rates have been buffed by 3x. - Enchanted equipment is soulbound when you equip it. - Enchants could no longer drop on death.
+-   **[April 11th, 2022](Version_History/2022-2021.md#april-11th-2022)** - Enchant rates have been buffed by an unknown amount.
+-   **[June 27th, 2022](Version_History/2022-2021.md#june-27th-2022)** - Enchanted equipment could be now smelted at [Jarvis](Jarvis.md).
+-   **[September 12th, 2022](Version_History/2022-2021.md#september-12th-2022)** - In celebration of Deepwoken obtaining the Best New Game award in the Roblox Innovation Awards, enchant rate have been increased by 2x temporarily (made permanent on **[October 3rd, 2022](Version_History/2022-2021.md#october-3rd-2022)**)
+-   **[September 13th, 2022](Version_History/2022-2021.md#september-13th-2022)** - Enchanted weapons and equipment are now at least 1 star by default. Armors and weapons obtained before this date will remain starless if not equipped or re-equipped.
+-   **[September 19th, 2022](Version_History/2022-2021.md#september-19th-2022)** - Weapons can be enchanted with a random enchant by giving 3 equipment enchants to [Laplace](Laplace.md).
+-   **[December 23rd, 2022](Version_History/2022-2021.md#december-23rd-2022)** - [Enchant Stones](Enchant_Stone.md) were added.
+-   **[December 24th, 2022](Version_History/2022-2021.md#december-24th-2022)** - Armor pieces can now be given a random Enchant from [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), by trading in 5 [Medallions](Kyrsan_Medallions.md) from Layer 2.
+-   **[January 16th, 2023](Version_History/2023.md#january-16th-2023)** - These enemies and humanoid monsters had a chance to spawn wielding enchanted weaponry.
+-   **[February 13th, 2023](Version_History/2023.md#february-13th-2023)** - [Light's Final Toll](<Light's_Final_Toll.md>) can no longer be enchanted.
+-   **[August 25th, 2023](Version_History/2023.md#august-25th-2023)** - These enemies and humanoid monsters can now spawn with enchants again.
+-   **[eptember 29th, 2023](Version_History/2023.md#eptember-29th-2023)** - [Astral](Astral.md) is made publicly available.
+-   **[November 3rd, 2023](Version_History/2023.md#november-3rd-2023)** - [Hallowtide](Hallowtide.md) Enchant: [Harrowing](Harrowing.md) is made publicly available.
+-   **[April 5th, 2024](Version_History/2024.md#april-5th-2024)** - [Railblades](Railblade.md) are no longer considered Legendary Weapons, thus they can be enchanted.
+-   **[July 12th, 2024](Version_History/2024.md#july-12th-2024)** - The weapon enchant [Curse of Repulsion](Curse_of_Repulsion.md) was added.
+-   **[August 23rd, 2024](Version_History/2024.md#august-23rd-2024)** - Equipment enchantments can now be obtained via [Enchant Grease](Enchant_Grease.md) [Relic](Relics.md) through [Laplace](Laplace.md) or [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
+-   **[February 1st, 2025](Version_History/2025.md#february-1st-2025)** - The weapon enchant [Curse of Rhaemen's Ember](<Curse_of_Ysley's_Ember.md>) is added.
+-   **[July 7th, 2025](Version_History/2025.md#july-7th-2025)** - The weapon enchants [Void](Curse_of_Void.md), [Parasol's Blight](<Parasol's_Blight.md>) and [Nightbringer](Nightbringer.md) were added, the equipment enchantment [Rain](<Rain_(enchantment).md>) was also added.
+-   **[July 15th, 2025](Version_History/2025.md#july-15th-2025)** - The weapon enchant [Void](Curse_of_Void.md) was renamed to [Curse of Void](Curse_of_Void.md).
+-   **[July 25th, 2025](Version_History/2025.md#july-25th-2025)** - The weapon enchants [Windswept](Windswept.md), [Curse of the Authoritative](Curse_of_the_Authoritative.md), and [Bluster](Bluster.md) were added
+-   **[August 4th, 2025](Version_History/2025.md#august-4th-2025)** - [Curse of Rhaemen's Ember](<Curse_of_Ysley's_Ember.md>) was renamed to [Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>)
+-   **[Febuary 16th, 2026](Version_History/2026.md#febuary-16th-2026)** - The [Kyrsan Chill](Kyrsan_Chill.md) weapon enchant was added, [Curse of Captain Greene](Curse_of_Captain_Greene.md) and [Suffocated](<Suffocated_(enchantment).md>) weapon enchants were made publically obtainable.
 
 ## Tips/Trivia
 

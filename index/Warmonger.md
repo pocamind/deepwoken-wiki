@@ -1,9 +1,9 @@
 ---
 title: Warmonger
-revid: 196776
+revid: 211077
 source: https://deepwoken.fandom.com/wiki/Warmonger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greathammers, Named Weapons, Heavy Weapons, Weapons with Talents]
+categories: [Weapons, Greathammers, Named Weapons, Heavy Weapons, Legendary Weapons, Weapons with Talents]
 ---
 
 # Warmonger

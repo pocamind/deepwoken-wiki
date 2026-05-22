@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 209991
+revid: 211048
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Quests, NPCs, Mechanics]
@@ -217,7 +217,7 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
   <td><div><p><b>Quest Location</b>: <a href="Isle_of_Vigils.md">Isle of Vigils</a><br>
   <b>Guide</b>: Talk to <a href="Stratos.md">Stratos</a> at <a href="Temple_of_the_Blade.md">The Temple of Blade</a>. You must have 50 Galebreathe and at least "Ally" reputation with Etrea. After talking to him you will receive the talent.<br>
   <b>Reward(s)</b>: <a href="Talents.md#windwaker">Windwaker</a></p>
-  <p><b>Notes:</b> This quest is <b>notoriously buggy,</b> and the exact requirements for the Windwaker obtainment are still questionable. Take on this quest with patience.</p></div></td>
+  <p><b>Notes:</b> This quest is <b>notoriously buggy,</b> and the exact requirements for the Windwaker obtainment are still questionable. Take on this quest with patience.</p></div><i><b><big>(This talent is broken,it wont work when use it(22/5/2026))</big></b></i></td>
   <td><figure><figcaption><p></p><div><a href="Stratos.md">Stratos</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
