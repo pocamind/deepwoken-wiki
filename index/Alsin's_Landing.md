@@ -1,9 +1,11 @@
 ---
 title: "Alsin's Landing"
-revid: 210716
+revid: 211046
 source: https://deepwoken.fandom.com/wiki/Alsin's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant]
+categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Locations, Locations in the Etrean Luminant]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Alsin's Landing
@@ -17,6 +19,25 @@ LocationL Alsin's Landing LocationR
 The lively fortress of the Justicars - followers of Alsin, devoted to the creed of the Path.
 
   
+
+## Overview
+
+Alsin's Landing is home to [The Justicar](The_Justicar.md)'s and a place for anyone to train or live at.
+
+## Quests
+
+### Kayla's missing cape
+
+-   Located at the bookstack tower, talk to the [Adret](Adret.md) named [Kayla](Kayla.md).
+-   She talks about a dark cape that keeps the face shrouded.
+-   If you bring her the [Shrouded Cape](Shrouded_Cape.md) you are rewarded with compassion.
+
+### Sarbu's cluelessness
+
+-   [Sarbu](Sarbu.md) is watching the training in the grounds of Alsin's Landing.
+-   After witnessing a Justicar effortlessly save him from a [Megalodaunt](Megalodaunt.md), he wants to understand how such techniques work.
+-   The only way to complete his quest is by being a [Vangaurd Justicar](<Justicar_(Origin).md#vanguard>) and suggesting him to become a Vanguard himself.
+-   You are rewarded with Compassion from this.
 
 ## NPCs
 

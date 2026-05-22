@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 206003
+revid: 211047
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Light Weapons, Weapons with multiple Criticals]
@@ -56,7 +56,6 @@ All criticals have a cooldown of **5 seconds**.
 -   This comes from SudoMesh's concept entry (Light's Final Toll) from the Discord's art contest to have their weapon concept added into the game.
     -   As the winner of the contest, he was also given the exclusive [Aberrant Capra](Aberrant_Capra.md) subrace.
 -   The fourth critical previously had a blue eye, having the same functionality of being undodgeable and unblockable.
--   With its abnormally low base damage of 12, [Akira's Ring](<Akira's_Ring.md>) will only provide an extra 1.1 damage at 100 WLL.
 -   Before October 20th, 2023, the weapon used the base critical for the active fist style.
 -   Before February 13th, 2023, this weapon wasn't Legendary, and was therefore [enchantable](Enchantments.md).
 -   The [Fang and Coil](Fang_and_Coil.md) running critical from [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) cannot be used on the Light's Final Toll.
