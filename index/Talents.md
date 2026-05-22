@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 210644
+revid: 211027
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2959,7 +2959,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   _Wisp Convergence_ \[Rare Talent, [Oathless](Oath%253A_Oathless.md)\] - When empowered by the Chorus, your Wisps now grant their elements to your strikes.
     -   This will not proc unless you have every Wisp Mantra equipped and active. If one of your Wisps runs out, this Talent will deactivate until you recast the Wisp.
-    -   Your basic attacks will apply Burn, Shock, Chill, Winded, Shadow, Metal Rods, and Blood Poison all at once.
+    -   Your basic attacks will apply the following status effects: Burn, Shock, Chill (crystals for some reason not as of right now), Winded, Shadow, Metal Rods, and Blood Poison all at once.
     -   This Talent will not work if you do not have the Oathless Oath.
     -   Prerequisites: [Oath: Oathless](Oath%253A_Oathless.md), Chorus of Souls
 
@@ -4075,7 +4075,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   _Cut to the Chase_ \[Rare Talent, Agility\] - Air Counter damage scaling is largely increased. Landing an Air Counter now initiates an uppercut. Deal 5% more damage to PvE enemies in the air. (+5 Passive Agility)
     -   Air Counters do not innately deal damage. Having this Talent gives your Air Counter 10 true damage.
         -   The damage bonus to your Air Counters will scale down if you have less than 60 Agility.
-    -   Air Counter is initiated when using an Aerial attack after your opponent does any of the following: wall jumps (parkour), uses Wind Step (Galebreathe Talent), uses aerial [Arc Beam](Oath%253A_Arcwarder.md#arc-beam), is launched into the air by [Eyes of Ethiron](Eyes_of_Ethiron.md)'s one-handed critical, or uses a [Lifevent](Lifevents.md) (Starswept jump pad).
+    -   Air Counter is initiated when using an Aerial attack after your opponent does any of the following: wall jumps (parkour), uses Wind Step (Galebreathe Talent), uses aerial [Arc Beam](Oath%253A_Arcwarder.md#arc-beam), is launched into the air by [Eyes of Ethiron](Eyes_of_Ethiron.md)'s two-handed critical, or uses a [Lifevent](Lifevents.md) (Starswept jump pad).
     -   Can be synergized with uppercut-based Talents, such as Flaming Flourish.
     -   Prerequisite: 60 Agility
         -   The old Air Counter Talent was made innate and then reworked into this.
@@ -4791,6 +4791,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Multiple 
     -   Pressing M2 within 10 seconds of landing a flourish causes you to stomp on the ground and send a wave of bones in the direction you're facing.
     -   Deals 50 damage and can be jumped over or parried. This attack is unblockable and undodgeable, having the [Green Telegraph](Combat_Mechanics.md#green).
     -   The damage this ability deals can be enhanced by wearing the [Bone Ring](Bone_Ring.md), increasing its damage to 75.
+
+-   Overflow: [Heretic's Memento](<Heretic's_Memento.md>) - Double the amount of [tempo](Combat_Mechanics.md#tempo) you receive when landing light attacks.
 
 -   Overwhelming Might: [Titus's Raiment](<Titus's_Raiment.md>) - [Strong Left](Attunement-less.md#strong-left) now guard breaks at level 5.
     -   1 minute cooldown.

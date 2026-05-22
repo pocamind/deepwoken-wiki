@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 210954
+revid: 211025
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -66,7 +66,9 @@ This Oath can be progressed via making deals with [Deep Shrines](Deep_Shrines.md
 
 This Oath grants 2 Combat Mantra Slots and 1 Wildcard Mantra slot.
 
-You immediately obtain the remaining [Murmurs](Murmur.md) you do not have, and their talent upgrade (if any) regardless of your stats as Oath Talents (meaning you cannot use them in shrines involving talents). The user gains a "Soulbreaker's Mantle" 2 rings of purple-ish white energy. Activating Ardour will make the user's weapon emit purple electric-like particles. [Dyeing](Dye_Packet.md) it changes the particles emitted from the mantle, and the particles from Ardour.
+You immediately obtain the remaining [Murmurs](Murmur.md) you do not have, and their Talent upgrades (if any), regardless of your stats as Oath Talents (meaning you cannot use them in shrines involving Talents). Notably, these Oath-given Murmur Talents do not count for the prerequisites of other Talents/abilities such as [Echoing Lunatic](Talents.md#echoing-lunatic) or [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick).
+
+The user gains a "Soulbreaker's Mantle" 2 rings of purple-ish white energy. Activating Ardour will make the user's weapon emit purple electric-like particles. [Dyeing](Dye_Packet.md) your Oath cosmetic additionally changes the Ardour particle vfx, the particles emmited from the mantle, and the color of Tacet Kick and Ardour Slicer.
 
 ## Abilities
 
@@ -155,6 +157,7 @@ All of these Talents are obtained with the Oath. These are the base Murmur Talen
     -   Upon hit, pushes the enemy in the direction of a projectile.
     -   Has a windup of 0.5 seconds and a cooldown of 12 seconds.
     -   This projectile can sometimes phase through opponents if used up close.
+    -   The projectile changes color based on your Oath cosmetic [dye](Dye_Packet.md).
 
 -   **Rhythm Advance** - Channel your Rhythm and track down your opponent.
     -   User starts rapidly spinning around, and after some time hits enemy with a similar attack to an uppercut.
@@ -171,6 +174,7 @@ All of these Talents are obtained with the Oath. These are the base Murmur Talen
     -   Deals 12 posture damage.
     -   Could prove useful in catching players.
     -   Despite going invisible you do not gain iframes during this move.
+    -   The on-hit visual effect changes color based on your Oath cosmetic [dye](Dye_Packet.md).
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 210737
+revid: 211017
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]

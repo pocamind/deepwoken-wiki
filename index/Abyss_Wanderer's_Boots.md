@@ -1,6 +1,6 @@
 ---
 title: "Abyss Wanderer's Boots"
-revid: 209358
+revid: 211022
 source: https://deepwoken.fandom.com/wiki/Abyss_Wanderer's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, The Divers]
@@ -26,9 +26,17 @@ categories: [Equipment, Legs, Boots, The Divers]
 | obtainment | Saramaed Hollow |
 | description | ... |
 
+Abyss Wanderer's Set
+
+Variants: [Plate](<Abyss_Wanderer's_Plate.md>)
+
 ## Description
 
 The Abyss Wanderer's Boots are an [Equipment](Equipment.md) item under the "Legs" category.
+
+## Obtainment
+
+It is rarely found in chests from the [Saramaed Hollow](Saramaed_Hollow.md).
 
 ## Trivia
 

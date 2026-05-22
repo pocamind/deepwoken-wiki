@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 206673
+revid: 211010
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -82,7 +82,8 @@ Despite keeping these talents after [oathbreaking](<Shrine_of_Yun'Shul,_Keeper_o
 
 -   **Wisp Convergence** - When empowered by the Chorus, your Wisps now grant their elements to your strikes.
     -   This will not proc unless you have every Wisp Mantra active.
-    -   Your basic attacks will apply the following [status effects](Status_Effects.md): Burn, Shock, Chill, Winded, and Shadow.
+    -   Your basic attacks will apply the following [status effects](Status_Effects.md): Burn, Shock, Chill (crystals for some reason not as of right now), Winded, Shadow, Metal Rods, and Blood Poison all at once.
+    -   This Talent will not work if you do not have the Oathless Oath.
     -   Prerequisites: Oathless, Chorus of Souls
 
 ## Mantras

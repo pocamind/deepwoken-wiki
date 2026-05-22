@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 209272
+revid: 211012
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -52,7 +52,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 5.  Enter the hole and walk into the blue fog, locating blue mushrooms called Bluecaps.
 6.  Lastly, eat multiple Bluecaps, _**in the same server you lit the braziers in.**_
 
-_For a visual guide consider watching [this video](https://www.youtube.com/watch?v=9ggkapSThhk)._
+_For a visual guide consider watching [this video](https://www.youtube.com/watch?v=ldfOo26Pj4s)._
 
 Note: The requirement for the quest is just to light the braziers in the right order then eat a Bluecap, you don't have to eat the Bluecap at The Birdcage the same as the video.
 

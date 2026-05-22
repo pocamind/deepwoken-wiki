@@ -1,6 +1,6 @@
 ---
 title: "Abyss Wanderer's Plate"
-revid: 209359
+revid: 211021
 source: https://deepwoken.fandom.com/wiki/Abyss_Wanderer's_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, The Divers, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -26,11 +26,19 @@ categories: [Equipment, Arms, Plates, The Divers, Equipment with Talents, "Equip
 | obtainment | Saramaed Hollow |
 | description | ... |
 
+Abyss Wanderer's Set
+
+Variants: [Boots](<Abyss_Wanderer's_Boots.md>)
+
 ## Description
 
-The Abyss Wanderer's Plate is an [Equipment](Equipment.md) item under the "Arms" category. It is rarely found in chests from the [Saramaed Hollow](Saramaed_Hollow.md) in [Miner's Landing](<Miner's_Landing.md>).
+The Abyss Wanderer's Plate is an [Equipment](Equipment.md) item under the "Arms" category, and is part of the Abyss Wanderer's set.
 
-[Kick Off](Talents.md#kick-off) grants various bonuses to climbing and parkour. [Braced Collapse](Talents.md#braced-collapse) reduces the damage taken by attacks after being guard broken.
+The [Kick Off](Talents.md#kick-off) talent grants various bonuses to climbing and parkour. The [Braced Collapse](Talents.md#braced-collapse) talent reduces the damage taken by attacks after being guard broken.
+
+## Obtainment
+
+It is rarely found in chests from the [Saramaed Hollow](Saramaed_Hollow.md) in [Miner's Landing](<Miner's_Landing.md>).
 
 ## Trivia
 

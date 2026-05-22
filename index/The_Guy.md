@@ -1,6 +1,6 @@
 ---
 title: The Guy
-revid: 191662
+revid: 211023
 source: https://deepwoken.fandom.com/wiki/The_Guy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, The Summer Company, Quests, NPCs located in the Eastern Luminant, Voiced Characters]
@@ -30,7 +30,7 @@ The Guy, simply The Guy, is a Canor that works for [The Summer Company](The_Summ
 
 ## Location
 
-The Guy is located in [Bluster Rift](Bluster_Rift.md), standing by a tend inside a little fort built infront of [Meteor Isle](Meteor_Isle.md)
+The Guy is located in [Bluster Rift](Bluster_Rift.md), standing by a tent inside a little fort built infront of [Meteor Isle](Meteor_Isle.md)
 
 ## Dialogue
 
