@@ -1,6 +1,6 @@
 ---
 title: Nightmare Thresher
-revid: 199409
+revid: 211034
 source: https://deepwoken.fandom.com/wiki/Nightmare_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -17,7 +17,7 @@ categories: [Monsters]
 
 ## Description
 
-Nightmare Threshers are a special variant of [Thresher](Thresher.md) that spawn in the [Ancient Rotlands](Ancient_Rotlands.md). This mob should be fairly easy as long as you know how to fight the average Thresher, with the only difference being a few different moves. They can also spawn in the [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
+Nightmare Threshers are a special variant of [Thresher](Thresher.md) that spawn in [the Diluvian mechanism](The_Diluvian_Mechanism.md), and [Ancient Rolands](Ancient_Rotlands.md). This mob should be fairly easy as long as you know how to fight the average Thresher, with the only difference being a few different moves.
 
 ## **Attacks**
 
@@ -83,11 +83,11 @@ Dodge
 
 ## Tips
 
--   Learn the parry pattern of the attacks exclusive to this and have a friend nearby while you do so, as if you get killed in the [Voidzone](Voidzones.md) where this lives you'll be instantly sent to the depths.
+-   Learn the parry pattern of the attacks exclusive to this and have a friend nearby while you do so, as if you get killed in the [Voidzone](Voidzones.md) where the Nightmare Thresher is, you'll be instantly sent to [the depths](The_Depths.md).
 
 ## Trivia
 
 -   The color palette and location of the new parts is possibly a reference to green lizards from Rain World.
 -   Originally, they were just Thresher reskins, until Deepwoken YouTuber Agamatsu requested unique moves for it.
--   Apparently part of a series of Nightmare mobs, though Nightmare Threshers are the only existing variant.\[citation needed\]
--   Previously, they had eyes with black scleras, green irises and beams protruding throughout their bodies and a green-and-black smoky flame eminating from their orbital region.
+-   Apparently, part of a series of Nightmare mobs, though Nightmare Threshers are the only existing variant.\[citation needed\]
+-   Previously, they had eyes with black sclera's, green irises and beams protruding throughout their bodies and a green-and-black smoky flame emanating from their orbital region.

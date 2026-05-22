@@ -1,6 +1,6 @@
 ---
 title: Corvyn
-revid: 210170
+revid: 211042
 source: https://deepwoken.fandom.com/wiki/Corvyn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Justicars]
@@ -25,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Corvyn is a [Canor](Canor.md) NPC.
+Corvyn is a [Canor](Canor.md) NPC. A user of the Slider Style as he dons [Karita Plating](Karita_Plating.md).
 
 ## Location
 

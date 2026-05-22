@@ -1,6 +1,6 @@
 ---
 title: Grandmaster Vanguard Legidae
-revid: 210654
+revid: 211041
 source: https://deepwoken.fandom.com/wiki/Grandmaster_Vanguard_Legidae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Individuals with He/him pronouns, In progress with reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -29,7 +29,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Grandmaster Vanguard Legidae is a [Tiran](Tiran.md) NPC.
+Grandmaster Vanguard Legidae is a [Tiran](Tiran.md) NPC. He is a [Justicar](The_Justicar.md) residing in [Alsin's Landing](<Alsin's_Landing.md>). As the Grandmaster of the Vanguard path, he teaches [Justicars](The_Justicar.md) to protect the weak and stand against villainy.
+
+Grandmaster Vanguard Legidae wears the sightly darkened down version of the [Justicar's Armor](<Justicar's_Armor.md>) outfit, with [Grand Pauldrons](Grand_Pauldrons.md), [Grand Boots](Grand_Boots.md), and a Golden version of the [Tiran Pendant](Tiran_Pendant.md).
 
 ## Location
 

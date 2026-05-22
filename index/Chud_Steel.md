@@ -1,6 +1,6 @@
 ---
 title: Chud Steel
-revid: 210955
+revid: 211040
 source: https://deepwoken.fandom.com/wiki/Chud_Steel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
@@ -267,4 +267,4 @@ Upon asking to hear one of Chud Steel's legendary catchphrases, he will randomly
 -   Chud Steel has 33 unique catchphrases.
 -   A chud is a derogatory term for those, usually male, who hold beliefs that are seen as reactionary or to be sociopolitically regressive, particularly racism and extreme ethnonationalism.
 -   Dialogue referencing him being placed in the Central Luminant and he himself stating that "Chud Steel" is a "long-running family name" may imply that "Chud Steel" is not an individual, so much as an identity held by multiple individuals in order to boost morale. The fact he has 15 brothers could be a further hint, as there wouldn't be a shortage of people who share a similar appearance
--   His hair id is 5131996138.
+-   Chud Steel's hair id is 5131996138.
