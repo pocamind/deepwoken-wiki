@@ -1,6 +1,6 @@
 ---
 title: Rimil
-revid: 192474
+revid: 211105
 source: https://deepwoken.fandom.com/wiki/Rimil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, NPCs, The Ministry, NPCs located in the Eastern Luminant, Quests, Individuals with unspecified pronouns]
@@ -23,7 +23,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Rimil is a [Canor](Canor.md) NPC who is a member of [the Ministry](The_Ministry.md). They can be found leaning against a large log very close to the main village on [Meteor Isle](Meteor_Isle.md).
+Rimil is a [Canor](Canor.md) NPC. They are a member of [the Ministry](The_Ministry.md).
+
+They can be found leaning against a large log very close to the main village on [Meteor Isle](Meteor_Isle.md).
 
 They will give you a mission to kill an enemy in [the Starswept Valley](The_Starswept_Valley.md); you must grip a player in the Starswept Valley and return to them to obtain reputation and rewards. If you complete it you will gain reputation with the Ministry and a payment for your deeds.
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 211027
+revid: 211103
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1457,6 +1457,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Increases burn damage by 12.5%.
     -   Increases the radius and posture damage of your Eruptions.
     -   Increases the uptime of your [Flame of Denial](Flamecharm.md#flame-of-denial) by 25%, from 25 seconds to 31.25.
+    -   Increases [Graceful Flame](Flamecharm.md#graceful-flame)'s "Undying Flame" talent passive healing by 20%.
     -   Prerequisites: 70 Flamecharm, 40 Willpower
 
 -   Unyielding Inferno \[Common Talent, Flamecharm\] - Your flames burn just as strong even in the fiercest of storms.
@@ -3191,12 +3192,12 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: [Shadow Roar](Shadowcast.md#shadow-roar) (Mantra), 40 Shadowcast
 
 -   Fear the Dark \[Common Talent, Shadowcast\] - Enemies will briefly hang in place when they run from you.
-    -   After you land a Shadowcast Mantra, if your opponent attempts to distance themselves from you, they will be locked in place for 1.5 seconds.
+    -   After you land a Shadowcast Mantra, if your opponent attempts to distance themselves from you in the next 5 seconds, they will be locked in place for 1.5 seconds.
     -   This does not apply hitstun.
     -   Prerequisite: 50 Shadowcast
 
 -   Lasting Sorrow \[Common Talent, Shadowcast\] - Shadows last longer on your opponent.
-    -   Doubles the shadow effect duration.
+    -   Doubles the proc window of Fear the Dark.
     -   Prerequisite: 50 Shadowcast
 
 -   _Shadow Travel_ \[Rare Talent, Shadowcast\] - Teleport to a location in exchange for Ether cost. Certain ranges will require a health sacrifice. Be careful as this technique can prove lethal to the user.

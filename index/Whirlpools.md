@@ -1,6 +1,6 @@
 ---
 title: Whirlpools
-revid: 209900
+revid: 211108
 source: https://deepwoken.fandom.com/wiki/Whirlpools
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
