@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 205250
+revid: 211082
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics]
@@ -43,7 +43,7 @@ After submitting an emblem, the guild will be successfully created and the leade
 
 ### Editing
 
-Guilds can edited to change their emblem or be renamed for 100 [Robux](https://roblox.fandom.com/wiki/Robux), the latter having a week long cooldown. Guilds that are recently created will also face the same effect.
+Guilds can be edited to change their emblem or be renamed for 100 [Robux](https://roblox.fandom.com/wiki/Robux), the latter having a week long cooldown. Guilds that are recently created will also face the same effect.
 
 When choosing to leave a guild and joining a new one, there is a 1 minute cooldown when switching between guilds.
 

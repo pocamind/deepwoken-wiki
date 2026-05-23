@@ -1,6 +1,6 @@
 ---
 title: Sekh
-revid: 201830
+revid: 211084
 source: https://deepwoken.fandom.com/wiki/Sekh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, The Hive, NPCs located in the Eastern Luminant, Humanoids with Unobtainable Outfits]
@@ -32,7 +32,7 @@ His dialogue gives insight to the region of [The Aratel Sea](The_Aratel_Sea.md) 
 
 ## Location
 
-Sekh is located at [Meteor Isle](Meteor_Isle.md), standing in front of the Inn.
+Sekh is located at [Meteor Isle](Meteor_Isle.md), standing in front of a [Inn](Inn.md).
 
 ## Dialogue
 

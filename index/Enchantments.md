@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 211079
+revid: 211081
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -2217,7 +2217,7 @@ Unobtainable
 -   **[January 16th, 2023](Version_History/2023.md#january-16th-2023)** - These enemies and humanoid monsters had a chance to spawn wielding enchanted weaponry.
 -   **[February 13th, 2023](Version_History/2023.md#february-13th-2023)** - [Light's Final Toll](<Light's_Final_Toll.md>) can no longer be enchanted.
 -   **[August 25th, 2023](Version_History/2023.md#august-25th-2023)** - These enemies and humanoid monsters can now spawn with enchants again.
--   **[eptember 29th, 2023](Version_History/2023.md#eptember-29th-2023)** - [Astral](Astral.md) is made publicly available.
+-   **[September 29th, 2023](Version_History/2023.md#september-29th-2023)** - [Astral](Astral.md) is made publicly available.
 -   **[November 3rd, 2023](Version_History/2023.md#november-3rd-2023)** - [Hallowtide](Hallowtide.md) Enchant: [Harrowing](Harrowing.md) is made publicly available.
 -   **[April 5th, 2024](Version_History/2024.md#april-5th-2024)** - [Railblades](Railblade.md) are no longer considered Legendary Weapons, thus they can be enchanted.
 -   **[July 12th, 2024](Version_History/2024.md#july-12th-2024)** - The weapon enchant [Curse of Repulsion](Curse_of_Repulsion.md) was added.

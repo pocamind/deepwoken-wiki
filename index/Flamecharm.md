@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 211045
+revid: 211088
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1225,7 +1225,7 @@ These are Talents found in "_Lava Serpent_" Category.
 | --- | --- | --- | --- |
 |  | Eruption Path: Lava Serpent  
 (40 Flamecharm) | Your fire abilities no longer proc burn and instead proc on eruption under the enemies feet. | Eruptions have a short delay before proccing. Eruptions are procced whenever you would've applied burn (with very few exceptions).
-Eruption damage scales on Flamecharm investment. Eruptions have a 3 second cooldown.
+Eruptions deal 15 Flamecharm damage with 5 Flamecharm scaling. Eruptions have a 3 second cooldown.
 
  |
 |  | Empowered Eruption  
