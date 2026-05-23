@@ -1,6 +1,6 @@
 ---
 title: Peipre
-revid: 210977
+revid: 211093
 source: https://deepwoken.fandom.com/wiki/Peipre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority, Individuals with unspecified pronouns]
@@ -49,10 +49,11 @@ Peipre is located near the [Shipwright](Shipwright.md), looking out to the sea n
 </tr>
 <tr>
   <td>What are you out here for?</td>
-  <td>[See first instance]</td>
+  <td>What are you out here for?</td>
 </tr>
 <tr>
   <td>Just some personal research to be honest, a similar albeit not the same phenomenon to when Erisia washed it's way into the <a href="Glossary.md#the-eastern-luminant">Eastern Luminant</a> is going on nearby.</td>
+  <td>[See first instance]</td>
 </tr>
 <tr>
   <td>And that means?</td>

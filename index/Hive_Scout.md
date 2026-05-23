@@ -1,6 +1,6 @@
 ---
 title: Hive Scout
-revid: 195199
+revid: 211089
 source: https://deepwoken.fandom.com/wiki/Hive_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Hive Enemies]
@@ -19,8 +19,8 @@ categories: [Enemies, Enemies that can wield Enchantments, Hive Enemies]
 
 Hive Scouts are footsoldiers of [The Hive](The_Hive.md) that can spawn in the following events:
 
--   Hive Scouts vs Vigil Swordsmen ([Starswept Valley](The_Starswept_Valley.md))
--   Hive Scouts vs. [King Thresher](Thresher.md) (Starswept Valley)
+-   Hive Scouts vs [Vigil Swordsmen](Vigil_Swordsman.md) ([Starswept Valley](The_Starswept_Valley.md))
+-   Hive Scouts vs. [King Thresher](Thresher.md) ([Starswept Valley](The_Starswept_Valley.md))
 
 They wear pair of [Woodland Pauldrons](Woodland_Pauldrons.md) and [Woodland Boots](Woodland_Boots.md) along with a pair of either [Crystal Pendant Earrings](Crystal_Pendant_Earrings.md) or [Dew Drop Earrings](Dew_Drop_Earrings.md). In addition, they also wear the [Hive Drone](Hive_Drone.md) [Outfit](Outfits.md).
 

@@ -1,6 +1,6 @@
 ---
 title: Grudgeroot
-revid: 208891
+revid: 211091
 source: https://deepwoken.fandom.com/wiki/Grudgeroot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Ingredients, Harvestables, Alchemy]
@@ -33,3 +33,5 @@ This content is not accessible outside of this gamemode.
 ## Description
 
 Grudgeroot is a species of root native to [Simforea](Simforea.md).
+
+One spawns on the large overhang that looks over where one would arrive at the island, near the zip line going across the island.
