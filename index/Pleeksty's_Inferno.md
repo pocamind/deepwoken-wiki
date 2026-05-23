@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 208758
+revid: 211099
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons, Weapons with multiple Criticals, The Covenant of Flame]
@@ -71,7 +71,7 @@ For the **standing** critical, the user plunges the macuahuitl into the ground, 
 
 For the **running** critical, the user reels the macuahuitl back before unleashing a diagonal slash, creating a projectile of flame that ragdolls and burns the target. The projectile is directional and will fly in the direction of your characters momentum. The projectile deals **1.5x scaled damage**.
 
-Both criticals will instantly max out your [Emperor Flame](Talents.md#emperor-flame) stacks after the critical hits, even if you do not have the Talent. Both criticals have an initial windup of **0.45 seconds** and a cooldown of **10 seconds**.
+Both criticals will instantly max out your [Emperor Flame](Talents.md#emperor-flame) stacks after the critical hits (unless it's on its 20 second cooldown), even if you do not have the Talent. Both criticals have an initial windup of **0.45 seconds** and a cooldown of **10 seconds**.
 
 ## Trivia
 
