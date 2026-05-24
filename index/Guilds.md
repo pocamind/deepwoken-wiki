@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 211082
+revid: 211161
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics]
@@ -86,8 +86,7 @@ The following ways to obtain guild score and the amount earned is listed below:
 | --- | --- | --- | --- |
 | **PvE** | 
 -   3 ([Duke Erisia](Duke_Ishamon_Erisia.md), [Dread Serpent](Dread_Serpent.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Primadon](Primadon,_Titan_of_the_East.md), [The Ferryman](The_Ferryman.md))
--   4 ([Titus](Titus_Fulminus_Destellus.md))
--   5 ([Interluminary Parasol](Interluminary_Parasol.md), [Doom of Caeranthil](The_Doom_of_Caeranthil.md), [Scion of Ethiron](Scion_of_Ethiron.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md))
+-   5 ([Titus](Titus_Fulminus_Destellus.md), [Interluminary Parasol](Interluminary_Parasol.md). [Doom of Caeranthil](The_Doom_of_Caeranthil.md), [Scion of Ethiron](Scion_of_Ethiron.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md))
 -   6 ([Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md))
 -   10 ([Heart of Enmity](Heart_of_Enmity.md))
 

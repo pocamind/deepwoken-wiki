@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Hammer"
-revid: 207060
+revid: 211152
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greathammers, Weapons with Unique Criticals, Drops, Heavy Weapons, "Weapons with Multi-Hit Criticals"]
@@ -41,10 +41,10 @@ The Enforcer's Hammer is a [Greathammer](Weapons.md) that can be dropped from [T
 
 ## Critical
 
-After a short windup, the user spins the Enforcer's Hammer in a circle around themselves, and applying hyperarmor to the user for its full duration.
+After a short windup, the user spins the Enforcer's Hammer in a circle around themselves, and applying [Hyperarmor](Status_Effects.md#hyperarmor) to the user for its full duration.
 
-This critical is also shared with [Enforcer's Blade](<Enforcer's_Blade.md>), as well as the [Enforcer's Axe](<Enforcer's_Axe.md>). All hits have 0.5x scaled damage.
+All four hits have a scaled damage multiplier of 0.5x. The first hit of this critical guardbreaks.
 
 The critical has a cooldown of **7 seconds.**
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects. This critical is also shared with [Enforcer's Blade](<Enforcer's_Blade.md>), as well as the [Enforcer's Axe](<Enforcer's_Axe.md>).

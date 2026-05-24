@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 211106
+revid: 211157
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -227,9 +227,9 @@ Through completing enough Missions, you will be promoted. Each promotion comes w
 
 You can change Faction Talents by using the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md), but only if you are still currently an Ensign, and not [Exiled](#exile). Every Faction Talent available to you will appear upon every promotion, which means you will not be locked out of a talent due to a limit of talents appearing like a [normal talent hand](Whisper_Draw.md). You gain a Faction Talent hand upon every promotion, which means you get 1 talent from going from **Private** to **Corporal**, and **Corporal** to **Lance Corporal**, totalling to 2 talents. You do not gain a Faction Talent hand upon entering a division.
 
-In practice, this means that you are forced to pick 2 generic enlistment talents before you can start picking division-exclusive talents. How many division-exclusive (or more generic enlistment) talents you can pick depend on your chosen division.As you do not gain a talent hand upon entering a [division](#divisions), how many ranks there are after your first division rank is how many talents you further get. The amount is 3 for the [Command Division](#command-division), and 2 for both the [Inquisition Division](#inquisition-division) and the [Shock Corps Division](#shock-corps-division).
+In practice, this means that you are forced to pick 2 generic enlistment talents before you can start picking division-exclusive talents. How many division-exclusive (or more generic enlistment) talents you can pick depend on your chosen division. As you do not gain a talent hand upon entering a [division](#divisions), how many ranks there are after your first division rank is how many talents you further get. The amount is 3 for the [Command Division](#command-division), and 2 for both the [Inquisition Division](#inquisition-division) and the [Shock Corps Division](#shock-corps-division). Keep mind that you can still exchange your Faction Talents by using the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md) if you are not [Exiled](#exile).
 
-In total, from **Private** to the highest rank, choosing to enter the Command Division gets you 5 Faction Talents in total, and both the Inquisition and Shock Corps Division gets you 4 Faction Talents in total. Keep mind that you can still exchange your Faction Talents by using the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md) if you are not [Exiled](#exile).
+In total, from **Private** to the highest rank, choosing to enter the Command Division gets you 5 Faction Talents in total, and both the Inquisition and Shock Corps Division gets you 4 Faction Talents in total.
 
 Enlistment Ranks
 
@@ -626,6 +626,7 @@ As a lot of pros and cons have already been previously mentioned under the [Effe
 
 -   Many Authority Ensign players have a high sense of comradery; if you're being ganked, especially if it's at or around Fort Merit, there's a high likelihood of at least one of your fellow Ensigns to come to your aid. Using the shout feature to call for help will increase the odds of you receiving assistance.
     -   And as the punishment for killing fellow Ensigns is quite major, most other Ensigns will never attack you.
+-   You can equip most Authority-related equipments and weapons without needing to meet its full requirements.
 -   Your player grip is replaced with imprisoning them. This increases the time before someone can spin back after a fight.
 -   Origin-exclusive Talents, Mantras, Weapons, and Outfits.
 -   You start with an [Authority Helm](Authority_Helm.md) and the [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md).
@@ -646,7 +647,7 @@ As a lot of pros and cons have already been previously mentioned under the [Effe
 -   There is no option to toggle or limit the shout feature, so your messages to your friends in the server will be intercepted by other Ensigns, and you may be subject to seeing shout messages that breaks Roblox's ToS or are otherwise not family friendly.
     -   Remember to report messages like these.
 -   If you aren't on a Mission, haven't joined a Division, or aren't in the squad of a player in the Commander Division, you are only given 15 minutes to return to Authority controlled territory before being Exiled.
--   Most Cons are removed once the player has been [Exiled](#exile), but has its own benefits and drawbacks. Visit the [Exile](#exile) section for more information.
+-   Most Cons (and some Pros) are removed once the player has been [Exiled](#exile), but exile has its own benefits and drawbacks. Visit the [Exile](#exile) section for more information.
 
 ## Reputation
 
@@ -659,8 +660,9 @@ Your starting faction [reputation](Reputation.md) is:
 -   **Neutral** with all other factions [Knives of Eylis](The_Knives_of_Eylis.md) [Summericonfaction](The_Summer_Company.md) [Hiveiconfaction](The_Hive.md) [Etrean Royalistsiconfaction](Etrean_Royalists.md)
 -   _Note: Your chosen [Aspect](Aspects.md) may affect your starting reputation._
 -   You **cannot gain** [Etrea](Etrea.md) or [Children of Navae](The_Children_of_Navae.md) reputation. This restriction will be removed, should you be [Exiled](#exile).
+    -   This restriction will be removed, should you be [Exiled](#exile). Visit the [Reputation Issues](#reputation-issues) section for major effects caused by this.
 -   Your [Hundred Legions](The_Hundred_Legions.md) reputation has a **cap** of high 'Ally', and **cannot** be raised further.
-    -   Visit the [Reputation Issues](#reputation-issues) section for major effects that are caused by these.
+    -   This restriction will be removed, should you be [Exiled](#exile). Visit the [Reputation Issues](#reputation-issues) section for major effects caused by this.
 
 If you have the [Fugitive](Boons_and_Flaws.md#flaws) Flaw:
 

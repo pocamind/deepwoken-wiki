@@ -1,9 +1,9 @@
 ---
 title: Nemit
-revid: 211126
+revid: 211155
 source: https://deepwoken.fandom.com/wiki/Nemit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages]
+categories: [Stub pages without reason, StubPages, Aspect culture]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -17,7 +17,7 @@ notices:
 
 ## Description
 
-Nemit, known as the "First Beast" in Capran tradition, represents the natural world.[\[1\]](#cite-note-glossku-1)
+Nemit, known as the "First Beast" in [Capran](Capra.md) tradition, represents the natural world.[\[1\]](#cite-note-glossku-1)
 
 ## References
 

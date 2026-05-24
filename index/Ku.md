@@ -1,9 +1,9 @@
 ---
 title: Ku
-revid: 204318
+revid: 211151
 source: https://deepwoken.fandom.com/wiki/Ku
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Individuals with She/her pronouns]
+categories: [Stub pages without reason, StubPages, Aspect culture, Individuals with She/her pronouns]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -18,7 +18,7 @@ notices:
 
 ## Description
 
-Ku, known as the "Mother" in Capran tradition, represents the shared knowledge of mankind.[\[2\]](#cite-note-glossku-2) Ku is described as both student and teacher, stating, “Ku is of us, and we are of Ku. Always both mother and child, student and teacher.” reflecting the ideals Capran ideal of lifelong learning.[\[2\]](#cite-note-glossku-2) It seems that she is a nurturing figure by the Mark of Ku ability granted by the Ku variant of [Capra](Capra.md).[\[3\]](#cite-note-3)
+Ku, known as the "Mother" in [Capran](Capra.md) tradition, represents the shared knowledge of mankind.[\[2\]](#cite-note-glossku-2) Ku is described as both student and teacher, stating, “Ku is of us, and we are of Ku. Always both mother and child, student and teacher.” reflecting the Capran ideal of lifelong learning.[\[2\]](#cite-note-glossku-2) It seems that she is a nurturing figure, judging by the Mark of Ku ability granted by the Ku variant of [Capra](Capra.md).[\[3\]](#cite-note-3)
 
 ## References
 

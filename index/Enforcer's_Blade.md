@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Blade"
-revid: 209201
+revid: 211149
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -41,13 +41,13 @@ The Enforcer's Blade is a Greatsword [Heavy Weapon](Weapons.md). Equipping this 
 
 ## Critical
 
-After a short windup, the user spins the Enforcer's Blade in a circle around themselves, and applying hyperarmor to the user for its full duration. Uniquely, the Enforcer's Blade critical does not guardbreak unlike both of its sibling weapons.
+After a short windup, the user spins the Enforcer's Blade in a circle around themselves, and applying [Hyperarmor](Status_Effects.md#hyperarmor) to the user for its full duration.
 
-This critical is also shared with [Enforcer's Hammer](<Enforcer's_Hammer.md>), as well as the [Enforcer's Axe](<Enforcer's_Axe.md>). All hits have 0.5x scaled damage.
+All four hits have a scaled damage multiplier of 0.5x. The first hit of this critical guardbreaks.
 
 The critical has a cooldown of **7 seconds.**
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects. This critical is also shared with [Enforcer's Hammer](<Enforcer's_Hammer.md>), as well as the [Enforcer's Axe](<Enforcer's_Axe.md>).
 
 ## Trivia
 

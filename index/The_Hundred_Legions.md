@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 201566
+revid: 211145
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Hundred Legions]
@@ -25,6 +25,14 @@ categories: [Factions, The Hundred Legions]
 A superpower native to the Western Luminant, the Hundred Legions are a powerful empire boasting, as the name implies, a hundred legions of soldiers. They once allied themselves with The Authority, but were betrayed. The 11th Scouting Legion were sent to the East to gather information of the conflicts going on there. Their ranks consist mainly of Khans, but they are open to recruiting other aspects. They are creators of the Legion Kata fighting style and masters of [Galebreathe](Galebreathe.md) as the only way to train your Galebreathe is through Gale Kata, described to be made by the Legion.
 
 The Legion has several war heroes that are depicted by either their ornaments or their weapons, an example being the [Legion Shield](Legion_Shield.md). Examples of war heroes are Akilles and Acheron. Akilles, who was in charge of the 11th Legion and brought them to the East when an imminent conflict was brewing, and Acheron who is the owner of the infamous [Acheron's Warspear](<Acheron's_Warspear.md>) who seemingly lost it to a [King Thresher](King_Thresher.md), but survived, and can be found in Aratel Island as part of the Legion Kata questline.
+
+### Legions
+
+The Hundred Legions consists of one hundred legions.
+
+-   The [11th Legion](The_Hundred_Legions.md) consists of [Amara](Amara.md), [Atra](Atra.md), [Caitus](Caitus.md), [Gaius](Gaius.md), and [Lars](Lars.md).
+    -   The 11th Legion also has associated equipment pieces named after it: [11th Legion Plate](11th_Legion_Plate.md).
+-   The [49th Legion](The_Hundred_Legions.md) consists of [Polymarch Legion Soldiers](<Legion_Soldier_(The_Polymarch).md>) and [General Titus Juventius](General_Titus_Juventius.md), now known as [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
 
 ## Relationships
 

@@ -1,6 +1,6 @@
 ---
 title: Amara
-revid: 208447
+revid: 211140
 source: https://deepwoken.fandom.com/wiki/Amara
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Pathfinder Exclusive, Individuals with She/her pronouns, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
@@ -56,14 +56,15 @@ Amara is located in [Erisia](Erisia.md) in the [The Viper's Jaw](<The_Viper's_Ja
 <tr>
   <td colspan="4">We're here to collect intel regarding the <a href="Glossary.md#the-central-authority">Authority</a>, they've stopped honoring our treaty. If you find out anything be sure to let us know, I'm sure the empire will reward you accordingly.</td>
   <td colspan="2">No Captains Recommendation</td>
-  <td>Captains Recommendation and Galebreathe</td>
-  <td>Captains Recommendation and no Galebreathe</td>
+  <td colspan="2">Captains Recommendation</td>
 </tr>
 <tr>
   <td colspan="4">[End Dialogue]</td>
   <td colspan="2">Help out the Centurions in Aratel, though be careful, not all of them may be friendly. Once you've got their approval, return to me with a recommendation and I'll teach you.</td>
-  <td>I see, Captain Abydos/Acacia/Acheron/Acnes/Cyrus/Xavos/Zash really admires your efforts. You seem very familiar with the way of Galebreathing already, you can take this form of martial arts to its prime in no time. I wish you the best of luck, comrade (Friend rep) / [First Name] (Ally rep), the Legion truly appreciates the work you have done, but our job isn't quite done yet.</td>
-  <td>I see, Captain Abydos/Acacia/Acheron/Acnes/Cyrus/Xavos/Zash really admires your efforts. It doesn't seem you're that familiar with Galebreathing at all... You won't be able to reach it's full potential just yet. I wish you the best of luck, comrade (Friend rep) / [First Name] (Ally rep), the Legion truly appreciates the work you have done, but our job isn't quite done yet.</td>
+  <td colspan="2">I see, Captain Abydos/Acacia/Acheron/Acnes/Cyrus/Xavos/Zash really admires your efforts.<br>
+  Has Galebreathe: You seem very familiar with the way of Galebreathing already, you can take this form of martial arts to its prime in no time.<br>
+  No Galebreathe: It doesn't seem you're that familiar with Galebreathing at all... You won't be able to reach it's full potential just yet.<br>
+  I wish you the best of luck, comrade (Friend rep) / [First Name] (Ally rep), the Legion truly appreciates the work you have done, but our job isn't quite done yet.</td>
 </tr>
 <tr>
   <td colspan="4"></td>
@@ -75,7 +76,9 @@ Amara is located in [Erisia](Erisia.md) in the [The Viper's Jaw](<The_Viper's_Ja
 
 **Subsequent Encounters:**
 
-**Player obtained the fighting style from her:**
+**Obtained Legion Kata:**
+
+If the player has obtained [Legion Kata](Legion_Kata.md) from her.
 
 <table>
 <tbody>
@@ -83,7 +86,7 @@ Amara is located in [Erisia](Erisia.md) in the [The Viper's Jaw](<The_Viper's_Ja
   <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="8">Good to see you again comrade(Friend rep)/[Name](Ally rep), What brings you back to the camp?</td>
+  <td colspan="8">Good to see you again comrade (Friend rep) / [First Name] (Ally rep), What brings you back to the camp?</td>
 </tr>
 <tr>
   <td colspan="8">What business does the Legion have here?</td>
@@ -97,7 +100,9 @@ Amara is located in [Erisia](Erisia.md) in the [The Viper's Jaw](<The_Viper's_Ja
 </tbody>
 </table>
 
-**Player doesn't have the fighting style yet:**
+**Legion Kata not Obtained:**
+
+If the player has yet to obtain [Legion Kata](Legion_Kata.md) from her.
 
 <table>
 <tbody>
@@ -105,7 +110,7 @@ Amara is located in [Erisia](Erisia.md) in the [The Viper's Jaw](<The_Viper's_Ja
   <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="8">Good to see you traveler (Low Rep) /comrade (Friend Rep) / [First Name] (Ally Rep). What brings you to the camp?</td>
+  <td colspan="8">Good to see you traveler (Low Rep) / comrade (Friend Rep) / [First Name] (Ally Rep). What brings you to the camp?</td>
 </tr>
 <tr>
   <td colspan="4">What business does the Legion have here?</td>

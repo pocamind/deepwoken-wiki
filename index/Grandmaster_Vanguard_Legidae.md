@@ -1,6 +1,6 @@
 ---
 title: Grandmaster Vanguard Legidae
-revid: 211041
+revid: 211165
 source: https://deepwoken.fandom.com/wiki/Grandmaster_Vanguard_Legidae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Individuals with He/him pronouns, In progress with reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -43,7 +43,7 @@ Grandmaster Vanguard Legidae is located in a stronghold on the western side of [
 
 **Not Chosen Path:**
 
-**Neophyte:**
+**Neophyte / Disciple:**
 
 **First Encounter:**
 
@@ -53,59 +53,13 @@ Grandmaster Vanguard Legidae is located in a stronghold on the western side of [
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td><i>*The stout-looking Tiran smiles as you approach.*</i> Ah, a new face among our ranks? Be welcome, Neophyte, and safe. I am Grandmaster Vanguard Legidae - I offer guidance to those who would seek strength through the path of the Vanguard, to shield the weak from evil. I am a Justicar, just as you are, albeit, far more seasoned... But worry not! Follow in Alsin's steps, and you will find your path as well. What is your name, Justicar?</td>
+  <td><i>*The stout-looking Tiran smiles as you approach.*</i> Ah, a new face among our ranks? Be welcome, Neophyte / Disciple, and safe. I am Grandmaster Vanguard Legidae - I offer guidance to those who would seek strength through the path of the Vanguard, to shield the weak from evil. I am a Justicar, just as you are, albeit, far more seasoned... But worry not! Follow in Alsin's steps, and you will find your path as well. What is your name, Justicar?</td>
 </tr>
 <tr>
   <td>I am [First Name], sir.</td>
 </tr>
 <tr>
   <td><i>*He bows his head politely.*</i> It is a pleasure. If you require guidance in your pursuit of the Path, I suggest you return to me once you've gained deeper insights into the ways of the Justicars.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td><i>*Grandmaster Legidae nods politely at your approach.*</i> Welcome back, [First Name]. I hope your journey in the Path has been treating you well so far. If it is guidance you seek, I suggest you return to me after you've gained deeper insights into the way of the Justicar. Those who seek to follow the Path of the Vanguard often look to me for guidance - spiritual, or otherwise.</td>
-</tr>
-<tr>
-  <td>How can I gain more experience as a Justicar?</td>
-</tr>
-<tr>
-  <td>Traditionally, the Justicars here in the East believe that helping others pursue their path is the best way to honour Alsin's teachings. Should you also wish to do so, you may answer the Justicar's Call, and lend a hand to all those who might need it. Aid and protect them - guide them as Alsin guides us. But, of course, you may gain insights into the way of the Justicar in more traditional ways of training, too.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
-
-**Disciple:**
-
-**First Encounter:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td><i>*The stout-looking Tiran smiles as you approach .*</i> Ah, a new face among Ah, a new face among our ranks? Be welcome, Disciple, and safe. I am Grandmaster Vanguard Legidae - I offer guidance to those who would seek strength through the path of the Vanguard, to shield the weak from evil. I am a Justicar, just as you are, albeit, far more seasoned... But worry not! Follow in Alsin's steps, and you will find your path as well. What is your name, Justicar?</td>
-</tr>
-<tr>
-  <td>I am [First Name], sir.</td>
-</tr>
-<tr>
-  <td><i>*He bows his head politely*</i>It is a pleasure. If you require guidance in your pursuit of the Path, I suggest you return to me once you've gained deeper insights into the ways of the Justicars.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
@@ -190,7 +144,7 @@ Grandmaster Vanguard Legidae is located in a stronghold on the western side of [
 </tr>
 <tr>
   <td>I assume that by now, you have gotten a decent sense of what it is like to walk the Path. And, as you must know, each Justicar interprets the Path their own way... But you need not walk the Path alone. Among our community, like-minded Justicars may band together, and follow in Alsin's footsteps as a group. Through shared experiences, we grow much stronger than we could on our own... One such group in these parts - a group I am part of, - follows the path of the Vanguard.</td>
-  <td>Traditionally, the Justicars here in the East believe that helping others pursue their path is the best way to honour Alsin's teachings. Should you also wish to do so, you may answer the Justicar's Call, and lend a hand to all those who might need it. Aid and protect them - guide them as Alsin guides us. But, of course, you may gain insights into the way of the Justicar in more traditional ways of training, too.</td>
+  <td>[See Neophyte / Disciple -&gt; Subsequent Encounters]</td>
 </tr>
 <tr>
   <td>What is being a Vanguard like?</td>
@@ -220,7 +174,7 @@ Grandmaster Vanguard Legidae is located in a stronghold on the western side of [
   <td>How can I gain more experience as a Justicar?</td>
 </tr>
 <tr>
-  <td>Traditionally, the Justicars here in the East believe that helping others pursue their path is the best way to honour Alsin's teachings. Should you also wish to do so, you may answer the Justicar's Call, and lend a hand to all those who might need it. Aid and protect them - guide them as Alsin guides us. But, of course, you may gain insights into the way of the Justicar in more traditional ways of training, too.</td>
+  <td>[See Neophyte / Disciple -&gt; Subsequent Encounters]</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

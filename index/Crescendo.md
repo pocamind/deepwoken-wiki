@@ -1,6 +1,6 @@
 ---
 title: Crescendo
-revid: 208690
+revid: 211129
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -47,5 +47,5 @@ The critical has a cooldown of **5.5 seconds.**
 
 -   For a while after the weapons release, its critical hit was unparriable. This was later confirmed to be a bug and fixed.
 -   Prior to the critical having its hyperarmor removed, players using this weapon could immediately use the critical even after getting parried, often leading to a free hit.
--   The sound effect on its critical was changed on November 8th 2025 (Hallowtide Week 2), increasing the pitch of both swings.
+-   The sound effect on its critical was changed on [November 8th, 2025](Version_History/2025.md#november-8th-2025) (Hallowtide Week 2, 2025), increasing the pitch of both swings.
 -   The Crescendo may have been used or created by a [Krulian](Krulian.md) due to it dropping from The Ferryman who is a Krulian along with its ends resembling [Krulian Knives](Krulian_Knife.md).

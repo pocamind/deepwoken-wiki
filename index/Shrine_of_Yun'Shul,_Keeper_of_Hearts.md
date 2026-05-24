@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 211119
+revid: 211166
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Layer 1, Oath Trainer]
@@ -40,7 +40,7 @@ The player can interact with Yun'Shul's shrine to obtain a wish. Making a wish r
     -   Interacting with the shrine without a wish will not kill you assuming you meet these criteria.
 -   Have a wish available (sometime referred to as Yun'Shul wish CD).
     -   A wish can be obtained by levelling up 3 times, via the use of the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>), or by seeking clarity at [Misérables](Misérables.md) for 15 Knowledge.
-        -   Misérables in particular enables you to stack wishes. Its Clarity transaction will cost 5 more [Knowledge](Knowledge.md) for each wish you already have.
+        -   Misérables in particular enables you to stack wishes. Its Clarity transaction will cost 5 more [Knowledge](Knowledge.md) for each wish you already have. (20 Knowledge if you already have 1 Wish, 25 If you have 2, etc.)
         -   Note that Misérables's Clarity transaction resets the levels necessary to obtain a new wish (ex. Getting a wish at Power 13, a Clarity transaction at Power 14 means another wish would be obtained at Power 17 instead of Power 16).
     -   Wishes are occasionally granted on updates, usually when theres a major changes involving Resonance.
 -   [Tarnished](Boons_and_Flaws.md#flaws) prevents you from rerolling your Resonance, as well as debuffing it.

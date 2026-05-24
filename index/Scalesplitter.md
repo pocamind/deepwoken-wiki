@@ -1,6 +1,6 @@
 ---
 title: Scalesplitter
-revid: 209780
+revid: 211131
 source: https://deepwoken.fandom.com/wiki/Scalesplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Twinblades, Etrea, Alloyable Weapons, Medium Weapons]
@@ -27,7 +27,7 @@ categories: [Weapons, Criticals with M1 tag, Twinblades, Etrea, Alloyable Weapon
 | m.compatible | Twinblades |
 | stances | 2 Handed, 1 Handed |
 | rarity | Base, AlloyUncommonLegendary |
-| selling price | 50 |
+| selling price | 14 / 50 |
 | weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
@@ -38,7 +38,9 @@ categories: [Weapons, Criticals with M1 tag, Twinblades, Etrea, Alloyable Weapon
 
 ## Description
 
-The **Scalesplitter** is a medium twinblade weapon that is currently known to be obtainable from fishing, Chime of Conflict, the Etris Raid event, Sea events, and/or [Deep Widow](Deep_Widow.md) chests.
+The **Scalesplitter** is a medium [Twinblade](Twinblades.md) weapon.
+
+This weapon can be [alloyed](Pluripotent_Alloy.md), giving it a purple hue and increasing the stats and requirements to make it viable for endgame content.
 
 ## Critical
 
