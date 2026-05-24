@@ -1,6 +1,6 @@
 ---
 title: Maestro Alkhurst Legato
-revid: 206732
+revid: 211123
 source: https://deepwoken.fandom.com/wiki/Maestro_Alkhurst_Legato
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Maestros of the Vigils, Circle of Honour members]
@@ -197,6 +197,7 @@ Maestro Alkhurst Legato is located in the [Temple Sparring Hall](Temple_Sparring
 ## Trivia
 
 -   Legato, in music theory, means that notes must be played smoothly.
+-   Alkhurst Legato's hair ids are 8994112527 and 6934026750
 
 ## References
 

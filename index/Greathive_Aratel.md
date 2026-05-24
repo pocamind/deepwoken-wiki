@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 209169
+revid: 211120
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, The Hive]
@@ -56,7 +56,7 @@ Hive Fountains
         
         Fountain found at [Isle of Vigils](Isle_of_Vigils.md).
         
-    -   [Isle of Vigils](Isle_of_Vigils.md), to the right of [Friid](Friid,_Master_of_Gale.md), inside the ruins of a building.
+    -   [Isle of Vigils](Isle_of_Vigils.md), opposite the path (right path) of [Friid](Friid,_Master_of_Gale.md), inside the ruins of a building beside a tree.
 -   Fountain found at [The Lordsgrove](The_Lordsgrove.md). It is the largest in size of all hive teleporters.
     
     There is also a fountain in [The Lordsgrove](The_Lordsgrove.md) which allows you to teleport back to Greathive Aratel.

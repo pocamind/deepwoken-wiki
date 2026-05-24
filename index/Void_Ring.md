@@ -1,6 +1,6 @@
 ---
 title: Void Ring
-revid: 189929
+revid: 211122
 source: https://deepwoken.fandom.com/wiki/Void_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings]
@@ -31,9 +31,9 @@ Void Ring allows the wearer to stay in [the Depths](The_Depths.md) for longer be
 
 ## Obtainment
 
-The **Void Ring** can be obtained from its fixed spawn location, which appears atop a small rocky island within the **Voidsea,** east of [Etris](Etris.md).
+The Void Ring can be obtained from its fixed spawn location, which appears atop a small rocky island within the [Voidsea](Voidsea.md), east of [Etris](<Etris_(Vow_of_Iron).md>).
 
 ## Trivia
 
--   The **Void Ring** emits small golden shining particles and a black cloud when on the ground.
--   The **Void Ring** emits a black cloud particle when on the wearer's hand (This cannot be turned off with vanity ).
+-   The Void Ring emits small golden shining particles and a black cloud when on the ground.
+-   The Void Ring emits a black cloud particle when on the wearer's hand (This cannot be turned off with vanity).
