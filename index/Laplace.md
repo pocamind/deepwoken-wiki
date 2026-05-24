@@ -1,6 +1,6 @@
 ---
 title: Laplace
-revid: 208299
+revid: 211111
 source: https://deepwoken.fandom.com/wiki/Laplace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Eastern Luminant, The Hive]
@@ -285,6 +285,6 @@ Laplace's Lost & Found
 -   Diri is a unique surname shared only by the 7th Hive Greatlord, Zithori Vhemm Rybak Diri, Hivelord Ximac Diri, and their relative Laplace.
 -   To create a Weapon enchant, Laplace combines three Enchants in Linen and then employing a technique based on Zithori's methods.
 -   Laplace was moved from R&D to an area in [The Lordsgrove](The_Lordsgrove.md) when he was given the ability to enchant weapons but was then moved back to R&D in the Verse 2 update.
--   Could be named after Pierre-Simon Laplace who is famous for the Laplace Transform. This is an important formula from calculus that converts the function of a real variable to a function of a complex variable. This transformation resembles the process that Laplace does in-game.
+-   Could be named after [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) who is famous for the Laplace Transform. This is an important formula from calculus that converts the function of a real variable to a function of a complex variable. This transformation resembles the process that Laplace does in-game.
 -   Upon subsequent encounters when receiving your reward, if you hand in an ineligible weapon, you can actually get back to the dialogue of handing in enchants again
     -   Though this does not tally

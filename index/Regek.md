@@ -1,6 +1,6 @@
 ---
 title: Regek
-revid: 208063
+revid: 211115
 source: https://deepwoken.fandom.com/wiki/Regek
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Attunement Trainers, NPCs, The Hive, NPCs located in the Eastern Luminant, Quests]
@@ -130,7 +130,7 @@ They can be found inside the _Archives_ section of [Greathive Aratel](Greathive_
 </tr>
 <tr>
   <td></td>
-  <td><i>*They smirk, betraying a certain smugness.*</i> They can <i>drown</i> for all I care. Clinging onto the relics of the <a href="Glossary.md#the-old-world">Old World</a>... How foolish to think that the idiots that left us this world would have any insights into how to solve or dilemma. Khimimimi...</td>
+  <td><i>*They smirk, betraying a certain smugness.*</i> They can <i>drown</i> for all I care. Clinging onto the relics of the <a href="Glossary.md#the-old-world">Old World</a>... How foolish to think that the idiots that left us this world would have any insights into how to solve our dilemma. Khimimimi...</td>
 </tr>
 <tr>
   <td></td>

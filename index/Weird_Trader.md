@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 211101
+revid: 211117
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, Vendors, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
@@ -100,12 +100,15 @@ A random item from the following list:
   <td>
   <ul>
     <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Pathfinder_Elite.md">Pathfinder Elite</a></li>
+  </ul>
+  <ul>
+    <li>Torso Equipment: <a href="Imperator's_Fury.md">Imperator's Fury</a></li>
   </ul></td>
 </tr>
 </tbody>
 </table>
 
-## D ialogue
+## Dialogue
 
 **First Encounter:**
 
