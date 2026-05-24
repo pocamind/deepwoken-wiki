@@ -1,6 +1,6 @@
 ---
 title: Transmogrification
-revid: 196403
+revid: 211182
 source: https://deepwoken.fandom.com/wiki/Transmogrification
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Equipment, Outfits]
@@ -79,3 +79,4 @@ A Power 1 freshie wearing a Fleet Warden Cape smelted onto a Tundra Scarf but ca
 #### Other notes
 
 -   You can smelt an item with another copy of the same item.
+-   You may not equip items styled after the [Ganymede](Ganymede.md) hat if you are not a [Ganymede](Ganymede.md) yourself.

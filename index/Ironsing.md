@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 210936
+revid: 211190
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -749,7 +749,7 @@ Metal [ResistanceIronsing](Ironsing.md) + Blunt ResistanceBlunt + [Bleed](Status
 -   Has 9.2x PvE scaling (multiply damage dealt by 9.2 for PvE damage).
 -   The height of the pillar will depend on what is above the user.
 -   Can be modified with [Cloudstones/Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to extend its width.
--   Can be modified with [Aeon/Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to extend its duration.
+-   Modifying with [Aeon/Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) seemingly does nothing and does NOT increase its duration.
 
  |
 | 

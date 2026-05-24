@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 211103
+revid: 211206
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -640,11 +640,6 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Your opponent's blood percentage is shown as a red number. This is replaced with the blood hemorrhage percentage in PvE.
     -   Your opponent's blood poisoning percentage is shown as a pink number.
     -   Prerequisite: 65 Bloodrend
-
-### Bloodrend Master
-
--   Bloodrend Unbounded \[Mastery Talent, Bloodrend\] - You have gained the ability to surpass your limits and train your Bloodrend to its fullest. (+10 Health)
-    -   Prerequisite: 75 Bloodrend
 
 ### Bloodrender
 
@@ -1434,11 +1429,6 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   This is parryable, but is not blockable nor dodgeable due to hitstun.
     -   Prerequisites: 35 Flamecharm, [Fire Forge](Flamecharm.md#fire-forge) (Mantra) // Warding Radiance
 
-### Flamecharm Master
-
--   Flamecharm Unbounded \[Mastery Talent, Flamecharm\] - You have gained the ability to surpass your limits and train your Flamecharm to its fullest. (+10 Health)
-    -   Prerequisite: 75 Flamecharm
-
 ### Flamecharmer
 
 -   Flamecharmer \[Mantra Level Talent, Flamecharm\] - Grants you the ability to command Fire as a Flamecharmer.
@@ -1493,11 +1483,6 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   Glacial Mobility \[Common Talent, Agility, Frostdraw\] - Cast while slide-jumping to perform a running attack with your ice sabers.
     -   The Talent activates **after** you've slide jumped, and not during the slide jump, contrary to the Talent description.
     -   Prerequisites: [Ice Blade](Frostdraw.md#ice-blade) (Mantra), 20 Frostdraw, 20 Agility
-
-### Frostdraw Master
-
--   Frostdraw Unbounded \[Mastery Talent, Frostdraw\] - You have gained the ability to surpass your limits and train your Frostdraw to its fullest. (+10 Health)
-    -   Prerequisite: 75 Frostdraw
 
 ### Frostdrawer
 
@@ -1559,11 +1544,6 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   _Legion Kata_ \[Quest Talent\] - Gain the ability to use the Legion's martial arts.
     -   Allows you to use [Legion Kata](Legion_Kata.md), a [fist style](Fists.md).
     -   Prerequisite: Talk with [Amara](Amara.md) while having Captain's Rec in your inventory. **NOTE: IF YOU HAVE CLICKED WHILE HOLDING THE REC OUT, DELETING IT, YOU CAN STILL LEARN LEGION KATA**
-
-### Galebreathe Master
-
--   Galebreathe Unbounded \[Mastery Talent, Galebreathe\] - You have gained the ability to surpass your limits and train your Galebreathe to its fullest. (+10 Health)
-    -   Prerequisite: 75 Galebreathe
 
 ### Galebreather
 
@@ -1635,11 +1615,6 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Despite the VFX stacking the elemental resistance will not stack.
     -   Relanding this will refresh the duration.
     -   Prerequisites: Crystal Shrapnel, 65 Frostdraw
-
-### Great Wall
-
--   Fortitude Unbounded \[Mastery Talent, Fortitude\] - You have gained the ability to surpass your limits and train your fortitude to its fullest.
-    -   Prerequisites: 75 Fortitude, speak to [Brutus](Brutus.md)
 
 ### Greatarcher
 
@@ -2062,11 +2037,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division, [Murmur: Tacet](Murmur%253A_Tacet.md)
         -   Tacet gained by obtaining [Soulbreaker](Oath%253A_Soulbreaker.md) does not count for this Talent's obtainment.
 
-### Ironsing Master
-
--   Ironsing Unbounded \[Mastery Talent, Ironsing\] - You have gained the ability to surpass your limits and train your Ironsing to its fullest. (+10 Health)
-    -   Prerequisite: 75 Ironsing
-
 ### Ironsinger
 
 -   Ironsinger \[Mantra Level Talent, Ironsing\] - Grants you the ability to command Metal as an Ironsinger. Press X to Pull on Metal Rods.
@@ -2122,11 +2092,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Thornmail \[Common Talent, Ironsing\] - Getting flourished applies a metal rod on your attacker.
     -   Prerequisite: 45 Ironsing
-
-### Iron Will
-
--   Willpower Unbounded \[Common Talent, Willpower\] - You have gained the ability to surpass your limits and train your willpower to its fullest.
-    -   Prerequisite: 75 Willpower
 
 ### Instigator
 
@@ -2549,11 +2514,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   The amount of sanity damage per hit will scale down if you have less than 85 Willpower.
     -   Prerequisites: 85 Willpower
 
-### Mr Charm
-
--   Charisma Unbounded \[Mastery Talent, Charisma\] - You have gained the ability to surpass your limits and train your charisma to its fullest.
-    -   Prerequisite: 75 Charisma
-
 ### [Murmur](Murmur.md)
 
 -   **[Murmur: Ardour](Murmur%253A_Ardour.md)** \[Common Talent, Unlockable Talent\] - An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press H.
@@ -2673,9 +2633,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   _All Knowing_ \[Rare Talent, Intelligence\] - Your prediction now ignores the range requirement to reflect attacks.
     -   Prerequisites: 60 Intelligence, [Prediction](Attunement-less.md#prediction) (Mantra)
 
--   Intelligence Unbounded \[Common Talent, Intelligence\] - You have gained the ability to surpass your limits and train your Intelligence to its fullest.
-    -   Prerequisite: 75 Intelligence
-
 -   Successive Prediction \[Common Talent, Intelligence\] - Predicting an attack will briefly allow you to predict another.
     -   Allows you to reflect the entirety of multi-hit moves (such as Enforcer's spin attack)
     -   Prerequisites: 50 Intelligence, [Prediction](Attunement-less.md#prediction) (Mantra)
@@ -2684,11 +2641,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   This effect requires your opponent to be within 90 studs of you.
     -   For every point of Intelligence below 80, Prediction's maximum cooldown will be increased by 0.125 seconds, capping at 33.125 seconds with 55 Intelligence.
     -   Prerequisites: 80 Intelligence, [Prediction](Attunement-less.md#prediction) (Mantra)
-
-### One Eyed King
-
--   Strength Unbounded \[Common Talent, Strength\] - You have gained the ability to surpass your limits and train your Strength to its fullest.
-    -   Prerequisite: 75 Strength
 
 ### Operator's Technique
 
@@ -2956,24 +2908,14 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   _**Will o' Wisp**_ \[Advanced Talent, Element\] - Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your wisps, allowing any number of Wisps to be active at a time. (+1 Wisp Mantra slot)
     -   Allows the player to summon one of each Wisp at the same time.
-    -   Prerequisites: Attunement Wisp mantra, 25 Element (25 in any Attunement)
+    -   Prerequisites: Any 'Wisp' Mantra (including [Bone Wisp](Monster_Mantras.md#bone-wisp)), 25 Element (25 in any Attunement)
 
 -   _Wisp Convergence_ \[Rare Talent, [Oathless](Oath%253A_Oathless.md)\] - When empowered by the Chorus, your Wisps now grant their elements to your strikes.
     -   This will not proc unless you have every Wisp Mantra equipped and active. If one of your Wisps runs out, this Talent will deactivate until you recast the Wisp.
-    -   Your basic attacks will apply the following status effects: Burn, Shock, Chill (crystals for some reason not as of right now), Winded, Shadow, Metal Rods, and Blood Poison all at once.
+    -   Your basic attacks will apply the following [Status Effects](Status_Effects.md): [Burn](Status_Effects.md#burn), [Shock](Status_Effects.md#shock), [Chill](Status_Effects.md#chill), [Winded](Status_Effects.md#winded), [Shadow](Status_Effects.md#shadow), [Metal Rods](Status_Effects.md#metal-rods), and [Blood Poison](Status_Effects.md#blood-poison) all at once.
+    -   These effects will be replaced with their Attunement path's counterpart effect if you have the respective Attunement path.
     -   This Talent will not work if you do not have the Oathless Oath.
     -   Prerequisites: [Oath: Oathless](Oath%253A_Oathless.md), Chorus of Souls
-
-### Saint of Blades
-
--   Heavy Weapons Unbounded \[Mastery Talent, Heavy Weapon\] - You have gained the ability to surpass your limits and train your Heavy Weapons attribute to its fullest.
-    -   Prerequisite: 75 Heavy Weapon
-
--   Light Weapons Unbounded \[Mastery Talent, Light Weapon\] - You have gained the ability to surpass your limits and train your Light Weapons attribute to its fullest.
-    -   Prerequisite: 75 Light Weapon
-
--   Medium Weapons Unbounded \[Mastery Talent, Medium Weapon\] - You have gained the ability to surpass your limits and train your Medium Weapons attribute to its fullest.
-    -   Prerequisite: 75 Medium Weapon
 
 ### Saintsworn
 
@@ -3168,11 +3110,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   On proc, your opponent will be unable to use their [Deep Gems](Deep_Gems.md) for 8 seconds.
     -   Gem Enhancement increases the effectiveness of your Deep Gems in PvE.
     -   Prerequisite: 40 Bloodrend, 35 Intelligence
-
-### Shadowcast Master
-
--   Shadowcast Unbounded \[Mastery Talent, Shadowcast\] - You have gained the ability to surpass your limits and train your Shadowcast to its fullest. (+10 Health)
-    -   Prerequisite: 75 Shadowcast
 
 ### Shadowcaster
 
@@ -3774,11 +3711,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Lightning Dashes increase your dash distance travelled by 2.3x and the duration of i-frames from rolling, but will end early if you attack.
     -   Prerequisite: Gathering Electricity
 
-### Thundercall Master
-
--   Thundercall Unbounded \[Mastery Talent, Thundercall\] - You have gained the ability to surpass your limits and train your Thundercall to its fullest. (+10 Health)
-    -   Prerequisite: 75 Thundercall
-
 ### Thundercaller
 
 -   Thundercaller \[Mantra Level Talent, Thundercall\] - Grants you the ability to command Lightning as a Thundercaller.
@@ -4209,11 +4141,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         -   Landing non-Galebreathe Mantras will create Haunted Gale's Ghosts even if you have Apparitions.
     -   Despite the Talent description mentioning that all stacks will be lost if you "whiff" a Mantra, there is no whiff condition; even if your Mantra gets parried, blocked, dodged, or entirely misses, it will not count as a "whiff".
     -   Prerequisites: 40 Galebreathe, [Power](Power.md) 8
-
-### Windrunner
-
--   Agility Unbounded \[Mastery Talent, Agility\] - You have gained the ability to surpass your limits and train your agility to its fullest.
-    -   Prerequisite: 75 Agility
 
 ### Withered Flame
 
@@ -5824,7 +5751,7 @@ Certain Talents are given when you equip a full equipment set, though not all eq
 
 ## Trivia
 
--   Despite both [Boulder Climb and Maestro's Blade](Cut_Content.md#talents) being merged with **Kick Off** and **Inhale** respectively, their descriptions were not updated to indicate this fact.
+-   Despite both [Boulder Climb](Cut_Content.md#boulder-climb) and [Maestro's Blade](Cut_Content.md#maestros-blade) being merged with **Kick Off** and **Inhale** respectively, their descriptions were not updated to indicate this fact.
 -   A Fold can be used if you are not satisfied with your current hand of cards, giving you an additional hand of cards on your next power increase.
 -   One Handed Gun Talents can, for some reason, still be rolled on builds using Dual Guns.
 -   The Talent, Ultrakill, breaks the fourth wall by requesting the player to play ULTRAKILL.
@@ -5834,7 +5761,7 @@ Certain Talents are given when you equip a full equipment set, though not all eq
 -   Treefelling Blow’s description used to say “…Look, it’s funny, are you gonna take it or not?” before it was made a quest Talent.
 -   You can test if Speed Demon is working by hitting an artificial mob like a [Rock Golem](Rock_Golem.md) or [Stone Knight](Stone_Knight.md). You will hear three cutting sound effects as the bleed damage procs. Bleed procs are harder to identify against humanoid mobs, as they are visual.
 -   Lava serpent's and Azure flame's can both be used simultaneously.
--   The Strength stat unbounded Talent (Strength Unbounded) is under the category "One Eyed King" which is a reference to [a very strong character](https://tokyoghoul.fandom.com/wiki/One-Eyed_King) in the anime Tokyo Ghoul.
+-   The Strength stat unbounded Talent (Strength Unbounded) used to be under the "One Eyed King" Talent category, which is a reference to [a very strong character](https://tokyoghoul.fandom.com/wiki/One-Eyed_King) in the anime Tokyo Ghoul.
 -   The total amount of Talent Cards at Power 20 without Roll 2's or Mantra Quests is 47.
 -   The term "Talents" may be a reference to _the Wheel of Time_'s Talents that are associated with its magic system.
 -   The Talent, Mythic Stability, has the same name as the passive, Mythic Stability, owned by the Sigil Knight Commander in Rogue Lineage. They both have the same effects.

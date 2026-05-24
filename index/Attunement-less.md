@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 210205
+revid: 211172
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1498,7 +1498,7 @@ Slash ResistanceSlash
 -   Can perform a maximum of 5 slashes, ending after the 5th slash, or sometimes more if you regain enough Ether during the Mantra or time slashes in a specific manner.
 -   Constantly consumes Ether while invisible.
 -   If you go too long without landing slashes, run out of Ether, or move too far away from an opponent, Ceaseless Slashes will end early.
--   Can be modified with Crystal/Perfect lenses to slightly increase the invisibility duration.
+-   Can be modified with Crystal/Perfect lenses to increase the time you have between slashes, allowing them to be chained together over a longer duration.
 -   Can be modified with Drift/Rush shards but has seemingly no effect.
 
  |

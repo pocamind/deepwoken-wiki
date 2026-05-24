@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 205399
+revid: 211171
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals]
@@ -41,7 +41,9 @@ The [Paired Soul](Talents.md#paired-soul) Talent from the [Vigil Initiate](Vigil
 
 ## Critical
 
-While one handed it uses the default [Katana](Katana.md) crit but gains a unique crit while two handed. For the two-handed crit, the user does a quick vertical and horizontal slash, which are followed with two additional delayed aftercuts.
+While one handed it uses the default [Katana](Katana.md) crit but gains a unique crit while two handed. This has 1.1x scaled damage multiplier with innate **bleed**.
+
+For the two-handed crit, the user does a quick vertical and horizontal slash, which are followed with two additional delayed aftercuts. Innate cuts have 0.3x scaled damage multiplier, Aftercuts have 1.2x scaled damage multiplier with innate **bleed**, this critical is canceled altogether if first hit is blocked, does 1.5 posture damage on innate hit, and 3 on horizontal cut and aftercuts. If this crit guardbreaks, it will not follow up with aftercuts nor 2nd hit. Aftercuts also ignore hitstun if said was applied after you landed innate cuts, going through it and doing damage.
 
 The critical has a cooldown of **6 seconds**.
 

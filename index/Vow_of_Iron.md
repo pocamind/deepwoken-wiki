@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 201776
+revid: 211179
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Game Modes, Paths, Character]
@@ -21,7 +21,7 @@ The path ahead is not a forgiving one. ”
 
 Vow of Iron is one of two Paths (gamemodes) available in _Deepwoken_, the other being [Pathfinder](Pathfinder.md).
 
-In Vow of Iron, you relive the events of [Zi'eer's](<Zi'eer,_the_Fourth_Prophet.md>)rise to power in 1233 CE through [Mementos](Mementos.md), the memories of the fallen that you, The Inheritor, wield in an attempt to find a detail or weakness that would allow the [Circle of Honor](Circle_of_Honour.md) to defeat Zi'eer in present days.
+In Vow of Iron, you relive the events of [Zi'eer's](<Zi'eer,_the_Fourth_Prophet.md>)rise to power in 1233 CE through [Mementos](Mementos.md), the memories of the fallen that you, [The Inheritor](The_Inheritor.md), wield in an attempt to find a detail or weakness that would allow the [Circle of Honor](Circle_of_Honour.md) to defeat Zi'eer in present days.
 
 Vow of Iron is, in essence, a hard mode of _Deepwoken_. Featuring new enemies, bosses, restricted and tweaked progression, and a new map, showcasing Lumen as it was 38 years before the arrival of the Pathfinder.
 
@@ -84,7 +84,7 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
 
 #### Static Spawn Items
 
-Items marked with are exclusive to this gamemode
+Certain items can be found laying on the ground in a given spot and can be picked up. Items marked with are exclusive to this gamemode.
 
 -   [Blindseer's Ring](<Blindseer's_Ring.md>): Sitting on top of the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md)
 -   [Bloodtide Trident](Bloodtide_Trident.md): Resting near the [Hell Bell](Hell_Mode.md)
@@ -106,17 +106,15 @@ Items marked with are exclusive to this gamemode
 -   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md): Near the exit/entrance of the Miners Cave [Boundary](Boundary.md)
 -   [Winter Rifle](Winter_Rifle.md): Located underneath [Outpost Antumbra](Outpost_Antumbra.md), **in a now inaccessible area**
 
-  
-
 ### Lumen and The Depths
 
 -   As the events of Vow of Iron take place 38 years ago, the world reflects this time period, featuring tweaked, reworked, missing, or entirely new locations.
 -   Vow of Iron takes place in a game instance separate from Pathfinder. Pathfinder and Vow of Iron characters cannot interact with each other in any capacity.
 -   The Etrean and Eastern Luminant are combined into a singular map. The map is much more compact, with islands being much closer to one another.
 -   Ziplines are heavily dotted around the map, allowing quick traversal.
--   The Depths have also changed, you can see the VOI Depths [here](<The_Depths_(Vow_of_Iron).md>).
+-   The Depths have also changed. You can see the VOI Depths [here](<The_Depths_(Vow_of_Iron).md>).
 -   Events now only include bosses such as [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
-    -   At times where either Doom of Caeranthil or Interluminary Parasol would appear in Pathfinder, Caeranthil only appears instead.
+    -   At times where either Doom of Caeranthil or Interluminary Parasol would appear in Pathfinder, only Caeranthil appears instead.
 -   [Boundaries](Boundary.md) can be found in set, static locations. Boundaries act as a fast travel point to enter and leave [The Cerebral Spire](The_Cerebral_Spire.md). The locations of these Boundaries can be found on the [Boundary](Boundary.md) page.
     
     -   Boundaries save between characters made on that same slot.
