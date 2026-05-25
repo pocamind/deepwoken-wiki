@@ -1,6 +1,6 @@
 ---
 title: Greatcannons
-revid: 210552
+revid: 211228
 source: https://deepwoken.fandom.com/wiki/Greatcannons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Weapons, Heavy Weapons, Weapons by Class]
@@ -16,7 +16,7 @@ Greatcannons are large, cannon weapons, wielded with both hands. These weapons h
 
 The Greatcannons weapon class comes with a set of default weapon animations.
 
-## Critical
+## Default Critical
 
 Greatcannons uses the default Greatcannon critical, firing the cannon and dealing damage in a large unparryable shockwave in front of the user before firing a projectile. The shockwave applies daze and has a scaled damage multiplier of **0.75x**. The projectile is mouse aim-able and explodes on contact, applying [Burn](Status_Effects.md#burn) with a scaled damage multiplier of **1x**. This critical has a cooldown of **7 seconds**. The projectile's damage will lessen the farther the projectile travels.
 

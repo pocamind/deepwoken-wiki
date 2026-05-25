@@ -1,6 +1,6 @@
 ---
 title: Imperium Kata
-revid: 211208
+revid: 211215
 source: https://deepwoken.fandom.com/wiki/Imperium_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, "Weapons with Multi-Hit Criticals", Light Weapons]
@@ -45,7 +45,7 @@ You do not need to have the [Legion Intelligence](Legion_Intelligence.md) to get
 
 ## Critical
 
-The user performs two swift side kicks and is slowed by 60% for the duration of the critical. Despite slowing you, the critical gives you a 12.5% speed boost for 2.5 seconds, allowing you to benefit from Talents such as [Speed Demon](Talents.md#speed-demon) even after the critical ends.
+The user performs two swift sidekicks and is slowed by 60% for the duration of the critical. Despite slowing you, the critical gives you a 12.5% speed boost for 2.5 seconds, allowing you to benefit from Talents such as [Speed Demon](Talents.md#speed-demon) even after the critical ends.
 
 Imperium Kata's critical gains 5 Thundercall Scaling if you have [Electrify](Talents.md#electrify) active.
 
@@ -56,8 +56,8 @@ This critical has a cooldown of 5 seconds.
 ## Trivia
 
 -   Added on the July 25th, 2025 Weekly update.
--   **Imperium Kata** did not benefit from [Legion Centurion](Legion_Centurion.md) when it was first added, this was changed in the update on August 4th, 2025.
+-   Imperium Kata did not benefit from [Legion Centurion](Legion_Centurion.md) when it was first added, this was changed in the update on August 4th, 2025.
 -   The **[Imperium Kata](Talents.md#imperium-kata)** Talent Card also gives +1 Passive Agility.
     -   When the style first released, it additionally granted +5 Health. This was patched shortly after.
 -   While its Talent description has a 20 LHT requirement, the fighting style can be obtained without it.
--   As of May 24th, 2026, selecting **Imperium Kata** in [Character Creation](Character_Creation.md) will give you the [Legion Kata](Legion_Kata.md) critical attack. This is most likely a bug.
+-   When selecting Imperium Kata in the [Character Creation](Character_Creation.md) it will give you the [Legion Kata](Legion_Kata.md) critical attack, until you equip a Cestus.

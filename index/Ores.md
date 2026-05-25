@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 209265
+revid: 211222
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables]
@@ -223,6 +223,10 @@ Old Models
 ## Indichite
 
 A dark purple ore with light purple swirls found in [Simforea](Simforea.md). One vein can be found underneath a destroyed bridge to the left of an abandoned lodge. Two more veins can be found underneath a broken dock in front of [Knell, The Lunatic Resonator](Knell,_The_Lunatic_Resonator.md). It can be consumed by [Ironsing](Ironsing.md) users, but no known effects occur.
+
+### Crafting Recipes
+
+-   x1 [Broodplate Helmet](Broodplate_Helmet.md) - x5 [Grudgeroot](Grudgeroot.md) + x5 Indichite + 1x [Broodalloy Cestus](Coral_Cestus.md)
 
 ## Trivia
 

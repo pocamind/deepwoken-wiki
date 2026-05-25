@@ -1,6 +1,6 @@
 ---
 title: Necrotic Cowl
-revid: 210705
+revid: 211224
 source: https://deepwoken.fandom.com/wiki/Necrotic_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Craftable, Equipment, Equipment with Set Bonuses, Head, Equipment with Talents, Equipment with Exclusive Talents]
@@ -45,7 +45,7 @@ The [Blood Siphon](Talents.md#blood-siphon) Talent grants 10% lifesteal to your 
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent: [Bloodless Overdrive](Talents.md#bloodless-overdrive) - Gain bonus [temp health](Status_Effects.md#temporary-health) everytime you land a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] with a [Bloodless Gem](Bloodless_Gem.md).
+Set Talent: [Bloodless Overdrive](Talents.md#bloodless-overdrive) - Gain bonus [temp health](Status_Effects.md#temporary-health) everytime you land a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] with a [Bloodless Gem](Bloodless_Gem.md). The amount is around 20% of scaled damage.
 
 ## Navigation
 

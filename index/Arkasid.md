@@ -1,6 +1,6 @@
 ---
 title: Arkasid
-revid: 209738
+revid: 211226
 source: https://deepwoken.fandom.com/wiki/Arkasid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Monsters]
@@ -62,7 +62,7 @@ Arkasids are monsters found on [Simforea](Simforea.md), they can spawn in groups
 
 ## Passives
 
--   An approximate 50% resistance to all damage
+-   Monster resistance: 50% resistance to all damage
 -   Fragile heal: Arkasid's heal very slowly overtime
 
 ## Tips

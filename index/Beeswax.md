@@ -1,31 +1,35 @@
 ---
 title: Beeswax
-revid: 211189
+revid: 211217
 source: https://deepwoken.fandom.com/wiki/Beeswax
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Ingredients, Items, Alchemy]
+categories: [Ingredients, Items, Alchemy]
 ---
 
 # Beeswax
 
-“ Slimy, Wet and Sticky, perfect for creation. ”
+| Beeswax | |
+|---|---|
+| weight | 0.25 |
+| stack | x99 |
+| type | Ingredient |
+| rarity | Common |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | A useful component in crafting. |
 
-― Ganymede blacksmith explaining crafting to inept Canor.
+## Obtainment
 
-  
+Beeswax can be found hanging off of large trees in a few fixed spots, especially around [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Miner's Landing](<Miner's_Landing.md>) and [Lower Erisia](Lower_Erisia.md). This requires you to climb to harvest them or to chop the tree.
 
-## Usage
+## Crafting
 
-Beeswax is used for crafting a [Canteen](Canteen.md), which is achievable by pairing it with a [Calabash](Calabash.md) at a [crafting table](Crafting_Station.md). You cannot carry more than one [Canteen](Canteen.md), and crafting a second one only causes it to lose all of its water.
+### Used in
 
-It also serves as an ingredient in [potions](Alchemy.md), giving regeneration effects, and in [candles](Candle.md), for decorative purposes.
+-   A main competent to craft the [Canteen](Canteen.md).
+-   Used to craft [Candle](Candle.md)'s
 
-## Locations
+## Triva
 
-Beeswax on a tree
-
-Beeswax in hand
-
-Beeswax can be found hanging off of large trees in a few fixed spots, especially around [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md) and [Miner's Landing](<Miner's_Landing.md>), but can also be found in [Lower Erisia](Lower_Erisia.md). This requires you to climb to harvest them or to chop the tree. They usually spawn close to [Pomar](Ingredients.md) trees. Unlike the held item, Beeswax appears as a beehive.
-
-File:ImgaeOfBeeswax1.png
+Unlike the held item, Beeswax appears as a beehive when unharvested.

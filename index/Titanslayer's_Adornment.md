@@ -1,6 +1,6 @@
 ---
 title: "Titanslayer's Adornment"
-revid: 209660
+revid: 211225
 source: https://deepwoken.fandom.com/wiki/Titanslayer's_Adornment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, Outfits with Talents, Outfits with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Outfits, Master Outfits, Outfits with Talents, Outfits with Exclusi
 | resistances | +25% Physical Armor , +40% Elemental Armor |
 | buffs | +25% Ether Regen |
 | talents | Primal Rage |
-| obtainment | Elder Primadon, The Titan Warlord, Primadon, Titan of the East (very rare), Fishing |
+| obtainment | Elder Primadon, The Titan Warlord, Primadon, Titan of the East (very rare), Fishing, Diluvian (Extremely Rare) |
 | selling_price | 10 |
 | weight | 1 |
 
