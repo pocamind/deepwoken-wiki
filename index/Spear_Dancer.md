@@ -1,6 +1,6 @@
 ---
 title: Spear Dancer
-revid: 195744
+revid: 211258
 source: https://deepwoken.fandom.com/wiki/Spear_Dancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -20,7 +20,7 @@ categories: [Vow of Iron Exclusive, Mementos]
 | starting armor | Duelist's Attire |
 | allowed weapons | Spear, Twinblade |
 | starting weapons | Iron Spear, Iron Twinblade |
-| starting items | Gold Ring (invisible) |
+| starting items | Gold Ring |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 211209
+revid: 211254
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1435,7 +1435,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Fish
 
--   _Fishman_ \[Rare Talent\] - When your Blood is over 50%, you won't drown when [Unconscious](Status_Effects.md#unconscious) in water. Gain additional healing from kncking others [Unconscious](Status_Effects.md#unconscious) in water. (+5 Health)
+-   _Fishman_ \[Rare Talent\] - When your Blood is over 50%, you won't drown when [Unconscious](Status_Effects.md#unconscious) in water. Gain additional healing from knocking others [Unconscious](Status_Effects.md#unconscious) in water. (+5 Health)
     -   The old Scuba Drowner Talent was merged into this Talent.
 
 -   _Landshark_ \[Quest Talent\] - Killing a megalodaunt will grant lifesteal on your attacks for 30 seconds.
@@ -3270,7 +3270,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   [**Oath: Silentheart**](Oath%253A_Silentheart.md) - You vow to reject the Words of the Song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. You can wield weapons with 25 points below their usual requirements. (+2 Posture, +10 Health)
     -   Reduces the **weapon (LHT, MED, HVY)** requirement of all weapons by 25 points. This stacks with [Khan's](Khan.md) Versatile Talent.
-        -   Similarly to [Khan's Versatile](Khan.md), for hybrid weapons this will affect every weapon stat requirement individually, allowing you to equip the [Wyrmtooth](Wyrmtooth.md) with 15 HVY and 45 MED.
+        -   Similarly to [Khan's Versatile](Khan.md), for hybrid weapons this will affect every weapon stat requirement individually, allowing you to equip the [Wyrmtooth](Wyrmtooth.md) with 15 HVY and 35 MED.
     -   You can no longer cast Mantras nor gain Attunements. However, you can still obtain Mantras in the case that you want to use them for deals with [Deep Shrines](Deep_Shrines.md) (primarily [Shrine of Division](Deep_Shrines/Shrine_of_Division.md)).
     -   Prerequisites: 25 Strength, 25 Agility // 25 Charisma, combined 75 weapon invest (HVY + MED + LHT ≥ 75), be attunement-less, get gripped by any attunement user, go to the [Beloved Zofia](Beloved_Zofia.md) and talk to [The Dreadstar](The_Dreadstar.md).
 

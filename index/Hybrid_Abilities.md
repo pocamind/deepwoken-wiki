@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 206670
+revid: 211256
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -598,7 +598,7 @@ Very few [Oaths](Oaths.md) require the combination of several Attunements to be 
   <td>50 Thundercall<br>
   25 Flamecharm</td>
   <td>Blockbreaking an enemy on fire or with a fire mantra causes them to be struck by lightning.</td>
-  <td>Block breaking an enemy who is on fire, or block breaking an enemy with a fire mantra causes them to be struck with lightning.</td>
+  <td>Block breaking an enemy who is on fire, or block breaking an enemy with a fire mantra causes them to be struck with lightning. Deals 10 damage.</td>
 </tr>
 </tbody>
 </table>
@@ -927,7 +927,7 @@ Very few [Oaths](Oaths.md) require the combination of several Attunements to be 
   75 Ironsing<br>
   40 Thundercall</td>
   <td>Your Thundercall Mantras deal 30% chip damage against enemies with conductor rods.</td>
-  <td>Thundercall Mantras deal 20% more chip damage if your opponent has Conductor Rods on them.</td>
+  <td>Thundercall Mantras deal 30% more chip damage if your opponent has Conductor Rods on them.</td>
 </tr>
 </tbody>
 </table>
@@ -1051,7 +1051,7 @@ Very few [Oaths](Oaths.md) require the combination of several Attunements to be 
   40 Thundercall<br>
   40 Shadowcast</td>
   <td>Shadow moves will also steal Ether from those you are Static Linked tethered to.</td>
-  <td>Shadow mantras will steal 2-3% Ether from those you have a Static Link on even if they aren't hit by the Shadow mantra.</td>
+  <td>Applying the <a href="Status_Effects.md#shadow">Shadow</a> status effect also applies the effect to all targets you are tethered to. Additionally, your Shadow status effect drains 4.6x more Ether.</td>
 </tr>
 <tr>
   <td>Battery Sapper<br>
@@ -1105,7 +1105,7 @@ Very few [Oaths](Oaths.md) require the combination of several Attunements to be 
   <td>50 Thundercall<br>
   25 Flamecharm</td>
   <td>Blockbreaking an enemy on fire or with a fire mantra causes them to be struck by lightning.</td>
-  <td>Block breaking an enemy who is on fire, or block breaking an enemy with a fire mantra causes them to be struck with lightning.</td>
+  <td>Block breaking an enemy who is on fire, or block breaking an enemy with a fire mantra causes them to be struck with lightning. Deals 10 damage.</td>
 </tr>
 </tbody>
 </table>
@@ -1195,7 +1195,7 @@ Very few [Oaths](Oaths.md) require the combination of several Attunements to be 
   75 Ironsing<br>
   40 Thundercall</td>
   <td>Your Thundercall Mantras deal 30% chip damage against enemies with conductor rods.</td>
-  <td>Thundercall Mantras deal 20% more chip damage if your opponent has Conductor Rods on them.</td>
+  <td>Thundercall Mantras deal 30% more chip damage if your opponent has Conductor Rods on them.</td>
 </tr>
 </tbody>
 </table>
@@ -1217,7 +1217,7 @@ Very few [Oaths](Oaths.md) require the combination of several Attunements to be 
   40 Thundercall<br>
   40 Shadowcast</td>
   <td>Shadow moves will also steal Ether from those you are Static Linked tethered to.</td>
-  <td>Shadow mantras will steal 2-3% Ether from those you have a Static Link on even if they aren't hit by the Shadow mantra.</td>
+  <td>Applying the <a href="Status_Effects.md#shadow">Shadow</a> status effect also applies the effect to all targets you are tethered to. Additionally, your Shadow status effect drains 4.6x more Ether.</td>
 </tr>
 <tr>
   <td>Battery Sapper<br>

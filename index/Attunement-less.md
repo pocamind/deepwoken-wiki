@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 211172
+revid: 211251
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -705,7 +705,7 @@ Blunt ResistanceBlunt
 **Effect:** _User performs an axe kick and then immediately unleashes a front kick that ragdolls enemies._
 
 -   The first hit has a base damage of 31.88/35.06/38.25/41.44/44.63[/47.81/51/54.19](<Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>) per level with no investment scaling.
--   The second hit has a base damage of 19.133/22.31/25.5/28.69/31.88[/35.06/38.25/41.44](<Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>) per level with no investment scaling.
+-   The second hit has a base damage of 19.13/22.31/25.5/28.69/31.88[/35.06/38.25/41.44](<Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>) per level with no investment scaling.
 -   Feinting after the first attack will instantly use the second.
 -   Upgraded with Agility and not Strength.
 

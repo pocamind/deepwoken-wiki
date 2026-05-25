@@ -1,6 +1,6 @@
 ---
 title: Breaker
-revid: 208377
+revid: 211257
 source: https://deepwoken.fandom.com/wiki/Breaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -21,6 +21,7 @@ categories: [Vow of Iron Exclusive, Mementos]
 | starting armor | Stranded |
 | allowed weapons | Fists |
 | starting weapons | Worldpiercer Gauntlets |
+| starting items | Heavy Hands Ring |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
