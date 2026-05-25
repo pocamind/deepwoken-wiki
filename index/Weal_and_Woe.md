@@ -1,6 +1,6 @@
 ---
 title: Weal and Woe
-revid: 206492
+revid: 211232
 source: https://deepwoken.fandom.com/wiki/Weal_and_Woe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Spears, Weapons with Unique Criticals, "Attunement-based Weapons", Legendary Weapons, "Dual-wielded Weapons", Weapons with Unique Animations, Medium Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -49,11 +49,11 @@ Obtainment Tip: Due to the Hallowtide Weapons having a unique property on grip, 
 
 ## Critical
 
-Weal and Woe have three different criticals.
+Weal and Woe has three different criticals.
 
 For the **standing** critical, the user spins around and raises both spears before striking their opponents with both weapons at the same time. This attack guard breaks.
 
-For the **running** critical, the user casts a barrage of strikes with their spears, gradually increasing in damage per hit and finishing with a heavy thrust. There are a total of 6 hits total, wit the final hit guard breaking.
+For the **running** critical, the user casts a barrage of strikes with their spears, gradually increasing in damage per hit and finishing with a heavy thrust. There are a total of 6 hits total, with the final hit guard breaking.
 
 For the **aerial** critical, the user jumps into the air and strike down the opponent with three Shadowcast-infused slashes.
 

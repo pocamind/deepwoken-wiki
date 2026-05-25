@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 211050
+revid: 211238
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -418,7 +418,7 @@ This effect is applied through the [Hidden Blade](Authority_Ensign.md#hidden-bla
 
 All posture damage given to you will instead be sent to the person who used [Rally](Attunement-less.md#rally). Signified by your character emitting white circles.
 
-### Angry/Enraged
+### Enraged
 
 Applied through being hit by the Mantra [Taunt](Attunement-less.md#taunt) or being block broken by a player who has the [Cornered Fool](Talents.md#cornered-fool) Talent. Opponents who attack you receive a +20% damage modifier on their attacks, but in your rage you deal 10% more damage to the player who Taunted you. Also disables the ability to jump for the duration. Signified by red particles.
 

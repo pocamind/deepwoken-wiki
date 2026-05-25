@@ -1,6 +1,6 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 209066
+revid: 211230
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters, Bosses]
@@ -28,7 +28,7 @@ This content is not accessible outside of this gamemode.
 
 Elder Primadon, the Titan Warlord is a stronger version of [Primadon](Primadon,_Titan_of_the_East.md), with a larger body, darker skin tone, and glowing eyes.
 
-Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned by making an offering, however this variant of the beast only takes [Sinner's Ash](<Sinner's_Ash.md>) as an adequate offering. Elder Primadon will despawn after 16 minutes.
+Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned by making an offering, however this variant of the beast only takes [Sinner's Ash](<Sinner's_Ash.md>) as an adequate offering. Elder Primadon will despawn after 23 minutes.
 
 <table><caption>Known Offerings</caption>
 <tbody>
@@ -225,6 +225,8 @@ Elder Primadon has an extensive moveset that can be learned with practice. In ad
 Elder Primadon can also initiate a **combo** that always consists of a stomp, a kick, and a triple stomp. Because there is no clear indicator that the boss will continue a combo after a regular stomp, it's advised to avoid a double or even single attack after this move.
 
 ## Drops
+
+Elder Primadon drops 9 Chests, All of them can contain Relics and other high value loot. The center chest is more likely to contain Sinner's Ashes.
 
 <table>
 <tbody>

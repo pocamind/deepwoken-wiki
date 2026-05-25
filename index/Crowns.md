@@ -1,6 +1,6 @@
 ---
 title: Crowns
-revid: 208933
+revid: 211242
 source: https://deepwoken.fandom.com/wiki/Crowns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Currency, Mechanics]
@@ -10,7 +10,7 @@ categories: [Currency, Mechanics]
 
 | Crowns | |
 |---|---|
-| usage | -Exchange for Notes and Knowledge-Traded with certain NPCs |
+| usage | Exchange for Notes and Knowledge, Traded with certain NPCs |
 | obtainment | World Bosses, War Mode, World Events |
 
 “ Awarded for prestigious deeds, or for a prestigious talent for pilfering. Holds tremendous value in all corners of Lumen. ”

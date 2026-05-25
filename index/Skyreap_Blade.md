@@ -1,6 +1,6 @@
 ---
 title: Skyreap Blade
-revid: 210222
+revid: 211231
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Greataxes, Event Item, Hallowtide, Heavy Weapons]
@@ -40,11 +40,11 @@ The Skyreap Blade is a [Heavy Weapon](Weapons.md) in the [Greataxe](Greataxes.md
 
 ## Critical
 
-The user performs two quick swings with hyperarmor, followed by a devastating third swing. All three hits apply Daze and Bleed, whereas the second and third hits apply Ragdoll for a short duration.
+The user performs two quick swings with [Hyperarmor](Status_Effects.md#hyperarmor), followed by a devastating third swing. All three hits apply [Daze](Status_Effects.md#daze) and [Bleed](Status_Effects.md#bleed), whereas the second and third hits apply [Ragdoll](Status_Effects.md#ragdoll) for a short duration.
 
 The first two swings deal 20 posture damage while the third guard breaks.
 
-The critical has the following scaled damage multipliers: 0.6x (first two hits), 1x (third hit) + bleed (all hits), totaling up to a 2.86x damage multiplier.
+The critical has the following scaled damage multipliers: 0.6x (first two hits) + 1x (third hit), totaling up to a 2.2x damage multiplier.
 
 This critical will end early if any hit is parried or if the first hit whiffs entirely. This critical has a **9 second cooldown**.
 

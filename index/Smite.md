@@ -1,6 +1,6 @@
 ---
 title: Smite
-revid: 208552
+revid: 211240
 source: https://deepwoken.fandom.com/wiki/Smite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -32,7 +32,7 @@ When used, multiple white spheres appear around the user. These spheres will fir
 
 Pressing C will activate the **Smite** Resonance.
 
-If Smite is corrupted, the orbs will instead appear red and black and will apply random negative status effects on hit.
+If Smite is corrupted, the orbs will instead appear red and black and will apply a random status effect on hit. Potential effects are: 100% [Anti-Heal](Status_Effects.md#anti-heal), a slight self heal for the caster, [Taunt](Status_Effects.md#taunt), and reduced movement speed.
 
 ### _Smite_
 
