@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 211206
+revid: 211209
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -718,6 +718,71 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Deals 16.5 damage in an AoE on proc.
     -   Applies burn before Scorched Peak does a check to see if your opponent is burning, meaning Scorched Peak will be instantly procced if you guardbreak with a Bloodrend Mantra.
     -   Prerequisite: 40 Bloodrend, 40 Flamecharm
+
+### Boundless Potential
+
+These Talents [Unbound](Attributes_Unbound.md) their respective attributes, increasing the attribute cap from 75 to 100.
+
+-   Strength Unbounded \[Mastery Talent, Strength\] - You have gained the ability to surpass your limits and train your [Strength](Attributes.md#str) to its fullest.
+    -   Prerequisites: 75 Strength, speak to [Tolkat](Tolkat.md)
+        -   Obtaining this Talent at any point removes the quest part of the obtainment on all subsequent characters, immediately giving you the Talent upon reaching its attribute requirement.
+
+-   Fortitude Unbounded \[Mastery Talent, Fortitude\] - You have gained the ability to surpass your limits and train your [fortitude](Attributes.md#ftd) to its fullest.
+    -   Prerequisites: 75 Fortitude, speak to [Brutus](Brutus.md)
+        -   Obtaining this Talent at any point removes the quest part of the obtainment on all subsequent characters, immediately giving you the Talent upon reaching its attribute requirement.
+
+-   Agility Unbounded \[Mastery Talent, Agility\] - You have gained the ability to surpass your limits and train your [agility](Attributes.md#agl) to its fullest.
+    -   Prerequisites: 75 Agility, speak to [Windrunner](Windrunner.md)
+        -   Obtaining this Talent at any point removes the quest part of the obtainment on all subsequent characters, immediately giving you the Talent upon reaching its attribute requirement.
+
+-   Intelligence Unbounded \[Mastery Talent, Intelligence\] - You have gained the ability to surpass your limits and train your [Intelligence](Attributes.md#int) to its fullest.
+    -   Prerequisites: 75 Intelligence, complete the [Birdcage quest](Attributes_Unbound.md)
+        -   Obtaining this Talent at any point removes the quest part of the obtainment on all subsequent characters, immediately giving you the Talent upon reaching its attribute requirement.
+
+-   Willpower Unbounded \[Mastery Talent, Willpower\] - You have gained the ability to surpass your limits and train your [willpower](Attributes.md#wll) to its fullest.
+    -   Prerequisites: 75 Willpower, speak to [Akira](Akira.md) at [Castle Light](Castle_Light.md)
+        -   Obtaining this Talent at any point removes the quest part of the obtainment on all subsequent characters, immediately giving you the Talent upon reaching its attribute requirement.
+
+-   Charisma Unbounded \[Mastery Talent, Charisma\] - You have gained the ability to surpass your limits and train your [charisma](Attributes.md#cha) to its fullest.
+    -   Prerequisites: 75 Charisma, complete [Karliah](Karliah.md)'s quest
+        -   Obtaining this Talent at any point removes the quest part of the obtainment on all subsequent characters, immediately giving you the Talent upon reaching its attribute requirement.
+
+-   Light Weapons Unbounded \[Mastery Talent, Light Weapon\] - You have gained the ability to surpass your limits and train your Light Weapons attribute to its fullest.
+    -   Prerequisites: 75 Light Weapon, defeat any [boss](Bosses.md) / compete [Apprentice Kj](Apprentice_Kj.md)'s quest and speak to [Evengarde Rest](Evengarde_Rest.md)
+
+-   Medium Weapons Unbounded \[Mastery Talent, Medium Weapon\] - You have gained the ability to surpass your limits and train your Medium Weapons attribute to its fullest.
+    -   Prerequisites: 75 Medium Weapon, defeat any [boss](Bosses.md) / compete [Apprentice Kj](Apprentice_Kj.md)'s quest and speak to [Evengarde Rest](Evengarde_Rest.md)
+
+-   Heavy Weapons Unbounded \[Mastery Talent, Heavy Weapon\] - You have gained the ability to surpass your limits and train your Heavy Weapons attribute to its fullest.
+    -   Prerequisites: 75 Heavy Weapon, defeat any [boss](Bosses.md) / compete [Apprentice Kj](Apprentice_Kj.md)'s quest and speak to [Evengarde Rest](Evengarde_Rest.md)
+
+-   Bloodrend Unbounded \[Mastery Talent, Bloodrend\] - You have gained the ability to surpass your limits and train your [Bloodrend](Bloodrend.md) to its fullest. (+10 Health)
+    -   This Talent will be lost if you no longer meet its requirements.
+    -   Prerequisites: 75 Bloodrend, defeat any humanoid [boss](Bosses.md)
+
+-   Flamecharm Unbounded \[Mastery Talent, Flamecharm\] - You have gained the ability to surpass your limits and train your [flamecharm](Flamecharm.md) to its fullest. (+10 Health)
+    -   This Talent will be lost if you no longer meet its requirements.
+    -   Prerequisites: 75 Flamecharm, defeat any humanoid [boss](Bosses.md)
+
+-   Frostdraw Unbounded \[Mastery Talent, Frostdraw\] - You have gained the ability to surpass your limits and train your [frostdraw](Frostdraw.md) to its fullest. (+10 Health)
+    -   This Talent will be lost if you no longer meet its requirements.
+    -   Prerequisites: 75 Frostdraw, defeat any humanoid [boss](Bosses.md)
+
+-   Galebreathe Unbounded \[Mastery Talent, Galebreathe\] - You have gained the ability to surpass your limits and train your [galebreathe](Galebreathe.md) to its fullest. (+10 Health)
+    -   This Talent will be lost if you no longer meet its requirements.
+    -   Prerequisites: 75 Galebreathe, defeat any humanoid [boss](Bosses.md)
+
+-   Ironsing Unbounded \[Mastery Talent, Ironsing\] - You have gained the ability to surpass your limits and train your [ironsing](Ironsing.md) to its fullest. (+10 Health)
+    -   This Talent will be lost if you no longer meet its requirements.
+    -   Prerequisites: 75 Ironsing, defeat any humanoid [boss](Bosses.md)
+
+-   Shadowcast Unbounded \[Mastery Talent, Shadowcast\] - You have gained the ability to surpass your limits and train your [Shadowcast](Shadowcast.md) to its fullest. (+10 Health)
+    -   This Talent will be lost if you no longer meet its requirements.
+    -   Prerequisites: 75 Shadowcast, defeat any humanoid [boss](Bosses.md)
+
+-   Thundercall Unbounded \[Mastery Talent, Thundercall\] - You have gained the ability to surpass your limits and train your [thundercall](Thundercall.md) to its fullest. (+10 Health)
+    -   This Talent will be lost if you no longer meet its requirements.
+    -   Prerequisites: 75 Thundercall, defeat any humanoid [boss](Bosses.md)
 
 ### Brawler
 
