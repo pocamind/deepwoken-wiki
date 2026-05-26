@@ -1,6 +1,6 @@
 ---
 title: Laplace
-revid: 211273
+revid: 211292
 source: https://deepwoken.fandom.com/wiki/Laplace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Eastern Luminant, The Hive]
@@ -37,7 +37,7 @@ Requirements and Restrictions:
 -   Laplace cannot imbue weapons with Enchantments that are either unique or came out after the Verse 2 update.
     -   This includes: Tears of the Edenkite, Nemesis, Stormbreaker, Solar, Astral and Harrowing.
 
-Laplace will also give a random [Enchant Grease](Enchant_Grease.md) for 5 Knowledge when accessing his Shop UI, which can only be done after giving him one or more [Enchanted](Enchantments.md) items.
+Laplace will also give a random [Enchant Grease](Enchant_Grease.md) for 5 Knowledge when accessing his Shop UI.
 
 ## Location
 

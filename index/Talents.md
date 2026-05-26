@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 211254
+revid: 211293
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2540,10 +2540,12 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Already Dead \[Common Talent, [Equipment](Equipment.md)\] - You take reduced damage from abilities with a health cost.
     -   Removes [Deepspindle](Deepspindle.md) running critical self-damage.
     -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), Flame Within (on cast, NOT the burn ticks), Rush Hour, Shadow Travel, and Electrify.
-        -   When paired with the [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) Talent, Circuit Breaker, using Electrify will cause you to heal instead of taking damage.
+        -   When paired with the [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) Talent, Circuit Breaker, using Electrify will cause you to heal flat 3% instead of taking damage.
     -   Lowers self damage from the Poison (HP drain) Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~1%.
     -   Lowers the Wither application from the Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~2%.
     -   Lower the Wither application from [Symbiotic Sustain](Oath%253A_Linkstrider.md) to 5%
+    -   Shade Devour self damage is reduced by 50%
+    -   Rush Hour self damage is reduced by 22%
     -   Obtained from: [Deepscorn Casque](Deepscorn_Casque.md)
 
 -   Withering Soul \[Common Talent, [Outfit](Outfits.md)\] - Your Basic Attacks proc 12.5% of their damage as Wither. Wielding the [Deepspindle](Deepspindle.md) or [Umbrite Witherblade](Umbrite_Witherblade.md) will double the amount to 25%.
@@ -3065,6 +3067,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         -   This cannot give more than 50 Temporary Health in one instance.
     -   This reduces Rush Hour's self damage by 22%, from 4.5 damage per tick to 3.5 damage per tick.
     -   Despite what the description states, this Talent still procs when hitting monsters or other non-player enemies.
+    -   Combining Enhanced Flow and [**Already Dead**](#already-dead) will reduce the self damage taken from Rush Hour by 39%.
     -   Prerequisites: 90 Bloodrend, 90 Weapon (90 Light // 90 Medium // 90 Heavy), Rush Hour
 
 -   Torture Mastery \[Common Talent, Bloodrend, Weapon\] - Landing a critical on opponents applies 15 seconds of Torture Mastery. Heal any chip damage off players who have Torture Mastery on them. This duration is doubled if you have Rush Hour on.

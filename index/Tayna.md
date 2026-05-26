@@ -1,6 +1,6 @@
 ---
 title: Tayna
-revid: 192355
+revid: 211305
 source: https://deepwoken.fandom.com/wiki/Tayna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with She/her pronouns, Vow of Iron Exclusive, NPCs, Vendors]
@@ -27,7 +27,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Tayna is an [Adret](Adret.md) NPC. She sells [Sparks](Mantra_Modifiers.md) for 350 Notes each.
+Tayna is an [Adret](Adret.md) NPC. She sells [Sparks](Mantra_Modifiers.md) for 350 each.
 
 ## Location
 
@@ -157,4 +157,4 @@ Tayna is located at [Meteor Isle](Meteor_Isle.md), she can be found next to a ca
 
 ## Trivia
 
--   Currently the best and most guaranteed way to obtain specific [Sparks](Mantra_Modifiers.md).
+-   She is the only source to obtain [Sparks](Mantra_Modifiers.md) from in [Vow of Iron](Vow_of_Iron.md).

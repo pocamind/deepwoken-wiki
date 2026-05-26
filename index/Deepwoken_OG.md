@@ -1,6 +1,6 @@
 ---
 title: Deepwoken OG
-revid: 208368
+revid: 211295
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OG
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, In progress without reason, InProgressPages, "April Fools' Day events", Events]
@@ -59,6 +59,6 @@ During this event, all [Traan Zakshun](Traan_Zakshun.md) stocks were replaced wi
 
 ## Trivia
 
--   The reversion of combat mechanics to those of Verse 1 references a long-running sentiment from players for the game to return to the way it was in Verse 1, while in presentation intending to mimic _Fortnite: Battle Royale'_s widely celebrated "OG" updates that revert the game's map, items, and mechanics to those of some of its oldest versions.
+-   The reversion of combat mechanics to those of Verse 1 references a long-running sentiment from players for the game to return to the way it was in Verse 1, and in presentation intending to mimic _Fortnite: Battle Royale'_s widely celebrated "OG" updates that revert the game's map, items, and mechanics to those of some of its oldest versions.
 -   Deepwoken OG was the fifth annual April Fools' event.
     -   The four events prior were, in order of release: [Mudwoken](Mudwoken.md), [Coral Fever](Destroyman_III.md), [Warring States Era](Warring_States_Era.md), and [Deepwoken Battlegrounds](Deepwoken_Battlegrounds.md).

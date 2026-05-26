@@ -1,6 +1,6 @@
 ---
 title: Justicar Neophyte
-revid: 207989
+revid: 211285
 source: https://deepwoken.fandom.com/wiki/Justicar_Neophyte
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Outfits, Starter Outfits, Justicars]
@@ -13,11 +13,11 @@ categories: [Pathfinder Exclusive, Outfits, Starter Outfits, Justicars]
 | caption | Robes given to those who have just joined the journey to help others in need. These are woven to prioritize quick movement if needed. |
 | tier | Starter |
 | stat_req | Power 1 |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | durability | 1500 |
 | resistances | +15% Physical Armor , +5% Blunt Armor , +15% Elemental Armor |
-| obtainment | Justicar Origin (automatically crafted) |
+| obtainment | Justicar Origin (automatically crafted), The Depths |
 | selling_price | N/A |
 | weight | 1 |
 
@@ -40,3 +40,7 @@ This Outfit has no [Attribute](Attributes.md) requirement, but explicitly has a 
 This Outfit has 1500 durability and grants +15% Physical resistance ResistanceBlunt ResistanceSlash, +5% Blunt resistance ResistanceBlunt, and +15% Elemental resistance [ResistanceElemental](Attunements.md).
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 19.25% Blunt ResistanceBlunt, Slash ResistanceSlash, and 15% Elemental [ResistanceElemental](Attunements.md).
+
+## Triva
+
+On the 16th of May 2026 this outfit was shadow added as a schematic.
