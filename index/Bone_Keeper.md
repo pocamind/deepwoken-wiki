@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 201938
+revid: 211316
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1, The Depths]
@@ -119,7 +119,7 @@ Block
 -   Bone Keepers used to heal at a rate of 20 health per second (60 when Corrupted). This made them extremely tedious to defeat at times, locking out lower DPS builds from fighting them. After being made to fight it with [Jus Karita](Jus_Karita.md) and no equipment, which resulted in 70+ deaths, _Deepwoken_ developer Ragoozer had it removed.[\[1\]](#cite-note-1)
     -   This same update also buffed Jus Karita.
 -   Bone Keepers are the precursors of the [Kyrsgarde](Kyrsgarde.md), as mentioned by the [Kyrsglaive](Kyrsglaive.md) description.
--   The one found on the bridge before the Generator in [The Eternal Gale](Second_Layer/The_Ethironal_Shrine.md) does not have knockback on its **Charge** and **Femur Throw** moves. This is the only instance of this feature.
+-   The one found on the bridge before the Generator in [The Eternal Gale](Second_Layer/The_Ethironal_Shrine.md) does not have knockback on its **Charge** and **Femur Throw** moves. This is the only instance of this feature. (Currently bugged and has knockback.)
 -   They're called "boneboy" in the game files.
 
 ## References

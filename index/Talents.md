@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 211293
+revid: 211319
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -938,7 +938,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Prerequisite: 25 Charisma
 
 -   Chaotic Charm \[Common Talent, Charisma\] - Charm enemies nearby when attacked at low health. Enemies affected by this charm have their damage increased to anyone but you, and deal reduced damage towards you.
-    -   Applies a unique status effect for 15 seconds that is separate to charm as a whole. This status effect is what grants the additional damage reduction and increased damage to people who are not you. This status effect cannot have its duration reduced by Disbelief.
+    -   Applies a [unique status effect](Status_Effects.md#chaotic-charm) for 15 seconds that is separate to charm as a whole. This status effect is what grants the additional damage reduction and increased damage to people who are not you. This status effect cannot have its duration reduced by Disbelief.
     -   The additional damage reduction from Chaotic Charm scales on your Charisma investment, gaining 0.15% damage reduction per point in Charisma.
         -   This damage reduction is combined multiplicatively with Charm due to them being separate status effects.
     -   Automatically procs narcissist
@@ -966,7 +966,8 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Mutual Exclusives: Narcissist
 
 -   _**Dazing Finisher**_ \[Advanced Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
-    -   Daze duration from Dazing Finisher scales on your Charisma investment, capping at ?s with 55 Charisma.
+    -   Applies Daze for 3.35 seconds on proc.
+        -   This duration is reduced by 0.02 seconds for every point under 55 Charisma, having a minimum duration of 2.85 seconds at 30 Charisma.
     -   Prevents you from knocking back charmed players with flourishes, instead, dazing them.
     -   Prerequisites: 55 Charisma, All Charm Caster Talents
     -   Mutual Exclusives: Bulldozer
@@ -1952,7 +1953,8 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Prerequisites: 60 Flamecharm, Agitating Spark
 
 -   Pleeksty's Faith \[Common Talent, Willpower, Charisma, Flamecharm\] - When on fire, automatically quench flames at the cost of some ether.
-    -   Does not proc with flames produced by the user with Flame Within or Agitating Spark.
+    -   Costs 20 Ether.
+    -   Does not proc on self-applied flames.
     -   Is also a requirement to fight [Aska](Aska.md) in Firfire. Without either this Talent, Pleeksty's Will, or the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) you will wipe through his flames.
     -   Prerequisites: 25 Flamecharm, 15 Willpower, 15 Charisma
 
