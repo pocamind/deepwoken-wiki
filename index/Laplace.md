@@ -1,6 +1,6 @@
 ---
 title: Laplace
-revid: 211111
+revid: 211273
 source: https://deepwoken.fandom.com/wiki/Laplace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Eastern Luminant, The Hive]
@@ -24,11 +24,11 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 Laplace is a Ganymede who wears the [Hive Drone](Hive_Drone.md) outfit with a [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>).
 
-Handing in three [Enchanted](Enchantments.md) weapons will apply a random one on your currently equipped weapon. Additionally, for each Enchant you give to Laplace, the total amount is tallied.
+Handing in three [Enchanted](Enchantments.md) items will apply a random [Enchant](Enchantments.md) on your currently equipped weapon. Additionally, for each Enchant you give to Laplace, the total amount is tallied.
 
 Requirements and Restrictions:
 
--   You must be power 8 to give enchants to Laplace.
+-   You must be power 7 to give enchants to Laplace.
 -   Laplace can accept both Enchanted and Soulbounded weapons or equipment.
 -   Laplace cannot enchant legendary weapons or weapons that cannot hold an enchant.
     -   Examples: [Crypt Blade](Crypt_Blade.md), [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Boltcrusher](Boltcrusher.md), etc.
@@ -37,7 +37,7 @@ Requirements and Restrictions:
 -   Laplace cannot imbue weapons with Enchantments that are either unique or came out after the Verse 2 update.
     -   This includes: Tears of the Edenkite, Nemesis, Stormbreaker, Solar, Astral and Harrowing.
 
-Laplace will also give a random [Enchant Grease](Enchant_Grease.md) for 5 Knowledge when accessing his Shop UI.
+Laplace will also give a random [Enchant Grease](Enchant_Grease.md) for 5 Knowledge when accessing his Shop UI, which can only be done after giving him one or more [Enchanted](Enchantments.md) items.
 
 ## Location
 
@@ -130,7 +130,7 @@ Laplace's Lost & Found
 </tbody>
 </table>
 
-**Player is below Power 8:**
+**Player is below Power 7:**
 
 <table>
 <tbody>

@@ -1,6 +1,6 @@
 ---
 title: Ether Erudite
-revid: 189579
+revid: 211261
 source: https://deepwoken.fandom.com/wiki/Ether_Erudite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -12,7 +12,9 @@ categories: [Vow of Iron Exclusive, Mementos]
 |---|---|
 | description | A scholar of the essence of Ether - their superior intellect once stood unrivalled. |
 | unlock | Give Jeremiah all of the base-game Deep Gems (Insignia, Bloodless, Blessed, Wind, Wayward, Blue) |
+| starting attributes | 3 Light Weapon, 3 Medium Weapon, 3 Heavy Weapon, 1 Strength, 1 Fortitude, 2 Agility, 8 Intelligence, 2 Willpower |
 | final attributes | 50 Light Weapon, 50 Medium Weapon, 50 Heavy Weapon, 10 Strength, 20 Fortitude, 25 Agility, 150 Intelligence, 50 Willpower |
+| starting traits | 4 Songchant, -1 Proficiency |
 | final traits | 8 Songchant, 1 Proficiency |
 | starting armor | Pathfinder Arch-Sorcerer |
 | allowed weapons | Any |
@@ -27,7 +29,7 @@ This content is not accessible outside of this gamemode.
 
 **Ether Erudite** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. You will spawn with the following items: 1 [Bloodless Gem](Bloodless_Gem.md), 1 [Blue Gem](Blue_Gem.md), 1 [Wayward Gem](Wayward_Gem.md), 1 [Wind Gem](Wind_Gem.md), and an [Ether Surge](Ether_Surge.md) Enchantment stone.
 
-All of the [Deep Gems](Deep_Gems.md) have static spawns, or can otherwise be farmed in [the Depths](<The_Depths_(Vow_of_Iron).md>).
+All of the [Deep Gems](Deep_Gems.md) have static spawns or can otherwise be farmed in [the Depths](<The_Depths_(Vow_of_Iron).md>).
 
 ## Starting Abilities
 
@@ -289,9 +291,9 @@ Slash
     -   Getting hit by another element immediately changes your resistance to that element. i.e Getting hit by Shadowcast Mantras while having Galebreathe resistance will immediately change your resistance type to Shadowcast and vice versa.
         -   This means that multi-hitting Mantras are much less potent, even if your Everchanging Aegis type was not attuned to that Mantra.
     -   Your Aegis type can swap on block, dodge, and parry. You do not need to actually be _hit_ by the attack for the swap to occur, largely mitigating the downside.
-    -   The damage type you become resistant to is indicated by a colored shield, continuous damage of the same element will give a colored outline of the damage type.
+    -   The damage type you become resistant to is indicated by a colored shield; continuous damage of the same element will give a colored outline of the damage type.
         -   [Flamecharm](Flamecharm.md): Orange / [Frostdraw](Frostdraw.md): Blue / [Thundercall](Thundercall.md): Yellow / [Galebreathe](Galebreathe.md): Green / [Shadowcast](Shadowcast.md): Purple / [Ironsing](Ironsing.md): Grey / [Bloodrend](Bloodrend.md): Red
-    -   Does not effect Oath damage.
+    -   Does not affect Oath damage.
 
 -   _Overflowing Dam_ \[Rare Talent\] **250** \- Having full Ether for 2 seconds or more grants an aura to your attacks that grant them 10% more damage.
     -   The damage buff applies the moment you reach 100% Ether, despite what the Talent description says.
@@ -519,7 +521,7 @@ Slash
 
 ### Power 15
 
--   Approaching Singularity \[Common Talent\] **100** \- You now gain +1% Mantra PEN for every 10 point of Intelligence.
+-   Approaching Singularity \[Common Talent\] **100** \- You now gain +1% Mantra PEN for every 10 points of Intelligence.
     -   Gives 0.1% Mantra PEN per point in Intelligence.
         -   Provides +15% PEN at 150 Intelligence.
 
@@ -545,16 +547,11 @@ Slash
 ### Dravik, The Rat King
 
 -   Ether Amplification \[Memento Talent\] - For every Ether Erudite Stack you have, increase the size and damage of your Pressure Blast.
-    
-    -   Turns Pressure Blast light blue.
 
 -   Ether Blitz \[Memento Talent\] - For every Ether Erudite Stack you have, reduce the windup of your enhanced Master's Flourish. This consumes your Ether Erudite stacks on use.
-    
-    -   Turns Master's Flourish light blue.
 
 ### True Heart of Enmity
 
 -   Ether Burst \[Memento Talent\] - Landing Rapid Slashes on your opponent gives them an overflow of Ether, causing them to take bursts of damage based on how many Ether Erudite stacks you had.
     
     -   Consumes your Ether Erudite Stacks.
-    -   Turns your Rapid Slashes light blue.

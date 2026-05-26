@@ -1,6 +1,6 @@
 ---
 title: Drifter
-revid: 208685
+revid: 211262
 source: https://deepwoken.fandom.com/wiki/Drifter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -12,7 +12,9 @@ categories: [Vow of Iron Exclusive, Mementos]
 |---|---|
 | description | The world moves. They move faster. No one saw the moment they decided it was over. |
 | unlock | Defeat Shogun of the Prophet's Guard, Dravik, The Rat King, or True Heart of Enmity without taking any damage (self damage does not count) |
+| starting attributes | 8 Medium Weapon, 5 Strength, 1 Fortitude, 8 Agility, 3 Willpower, 2 Charisma |
 | final attributes | 150 Medium Weapon, 100 Strength, 20 Fortitude, 150 Agility, 50 Willpower, 25 Charisma |
+| starting traits | -6 Vitality, 2 Dexterity, 3 Songchant, 1 Erudition, 5 Proficiency |
 | final traits | 1 Vitality, 6 Dexterity, 7 Songchant, 3 Erudition, 8 Proficiency |
 | locked armor | Unsung |
 | allowed weapons | Sword |

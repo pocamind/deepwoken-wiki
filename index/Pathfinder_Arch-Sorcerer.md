@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder Arch-Sorcerer"
-revid: 209642
+revid: 211278
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Arch-Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, Outfits with Talents, Outfits with Exclusive Talents]
@@ -48,6 +48,5 @@ The [Devastating Power](Talents.md#devastating-power) Talent gives the player +1
 
 -   Expect to get a minimum of +40 Ether on common builds, with an upper limit of +140 Ether with the [Neuroplasticity](Talents.md#neuroplasticity), [Wisp Convergence](Talents.md#wisp-convergence), [Will o' Wisp](Talents.md#will-o-wisp) Talents, and the [Saintsworn](Oath%253A_Saintsworn.md) Oath.
     -   Wisp Convergence will not work if you do not have [Oathless](Oath%253A_Oathless.md), but it will still grant its additional Wisp Mantra slot.
--   The outdated version is similar to [Robin's](https://fireemblem.fandom.com/wiki/Robin) outfit from the Fire Emblem series.
--   A functionally superior version of [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md).
+-   The outdated version is [Robin's](https://fireemblem.fandom.com/wiki/Robin) outfit from the Fire Emblem series.
 -   **Current** pathfinder arch-sorcerer is made by **KAHAEL**

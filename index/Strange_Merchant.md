@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant
-revid: 208373
+revid: 211263
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -12,7 +12,9 @@ categories: [Vow of Iron Exclusive, Mementos]
 |---|---|
 | description | A strange being hailing from a time that no longer exists, they hauled a strange relic everywhere. |
 | unlock | Spend up to 16,000 Notes at various Mystery Boxes. |
+| starting attributes | 3 Shadowcast, 75 Light Weapon, 75 Medium Weapon, 75 Heavy Weapon, 1 Fortitude, 4 Intelligence, 5 Charisma |
 | final attributes | 50 Shadowcast, 100 Light Weapon, 100 Medium Weapon, 100 Heavy Weapon, 10 Fortitude, 75 Intelligence, 100 Charisma |
+| starting traits | 1 Proficiency, 1 Songchant, 2 Dexterity, 1 Erudition, -3 Vitality |
 | final traits | 8 Proficiency, 7 Songchant, 6 Dexterity, 6 Erudition, 1 Vitality |
 | aspect | Levit |
 | starting armor | Strange Merchant |

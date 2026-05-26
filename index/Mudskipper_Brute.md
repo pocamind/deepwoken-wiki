@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Brute
-revid: 201995
+revid: 211260
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -58,9 +58,9 @@ File:Mudskipper Brute Punch2.gif
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#purple)
+[DodgeTelegraph](Combat_Mechanics.md#red)
 
-High posture
+Dodge
 
  | 
 
@@ -76,6 +76,12 @@ File:Mudskipper Brute Thrust.gif
 
 -   This move autogrips knocked enemies.
 -   This attack is used most often when the player is too far away from the Brute for it to land its melee strikes.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
 
  | 
 

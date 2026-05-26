@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 201993
+revid: 211259
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -56,9 +56,9 @@ A far more powerful and dangerous variant of the [Mudskipper Brute](Mudskipper_B
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#purple)
+[DodgeTelegraph](Combat_Mechanics.md#red)
 
-High posture
+Red
 
  | 
 
@@ -72,6 +72,12 @@ High posture
 
 -   This move autogrips knocked enemies.
 -   This attack is used most often when the player is too far away from the Broodlord for it to land its melee strikes.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
 
  | 
 
@@ -103,8 +109,9 @@ High posture
     -   Natural health regeneration is unaffected. Artificial health regeneration is, however.
     -   In [Hell Mode](Hell_Mode.md), this is reduced to 50%.
         -   In [The Diluvian Mechanism](The_Diluvian_Mechanism.md), the amount of anti-heal is increased up to 100%[\[1\]](#cite-note-1), excluding health packs received from killing monsters.
--   **Sturdy** - When the Mudskipper Broodlord's natural armor is broken, it remains stunned for far less time than other monsters.
--   **Advanced Knowledge** - When damaged by a mantra at medium-long range, the Mudskipper Broodlord will make a parry sound, and negate the attack.
+-   **Sturdy** - When the Mudskipper Broodlord's natural armor is broken, it remains stunned for 50% less time than other monsters.
+-   **Adaptation** - When damaged by anything at medium-long range, the Mudskipper Broodlord will make a **parry it**, causing the parried to suffer parry stun and damage be negated.
+-   **Chained Attacks** - when a broodlord lands a hook, if it wasn't parried, the next one will have decreased windup, this does not apply to **Smash** or **Thrust**.
 
 ## Tips
 

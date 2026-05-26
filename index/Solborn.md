@@ -1,6 +1,6 @@
 ---
 title: Solborn
-revid: 208366
+revid: 211265
 source: https://deepwoken.fandom.com/wiki/Solborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -13,7 +13,9 @@ categories: [Vow of Iron Exclusive, Mementos]
 | description | Worthy of bonding with a phoenix, their heart kept an unquenchable flame alight. |
 | unlock | Destroy the throne of Zi'eer, the Fourth Prophet and survive phase 1. |
 | starting health | 230 |
+| starting attributes | 6 Flamecharm, 2 Strength, 2 Fortitude, 2 Agility, 2 Intelligence |
 | final attributes | 120 Flamecharm, 40 Strength, 30 Fortitude, 40 Agility, 35 Intelligence |
+| starting traits | 6 Songchant, 2 Erudition, 2 Dexterity, 1 Proficiency, 1 Vitality |
 | final traits | 7 Songchant, 4 Erudition, 3 Dexterity, 2 Proficiency, 2 Vitality |
 | aspect | Heliodar |
 | locked armor | Cindergarb |
@@ -28,7 +30,7 @@ This content is not accessible outside of this gamemode.
 
 **Solborn** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. It is unlocked by destroying the throne of [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) in his fight.
 
-This Memento gives the user access to a spawnable Phoenix that normally acts similarly to a campfire, but can be commanded to attack. Additionally, a lot of this Memento's abilities use the _Heartfire Gauge_, a gauge that lies above your posture bar, similar to Specter Path's Spectral Gauge.
+This Memento gives the user access to a spawnable Phoenix that normally acts similarly to a campfire but can be commanded to attack. Additionally, a lot of this Memento's abilities use the _Heartfire Gauge_, a gauge that lies above your posture bar, similar to Specter Path's Spectral Gauge.
 
 ## Starting Abilities
 
@@ -607,7 +609,7 @@ Fire
     -   Landing a basic attack while you have the Emperor Flame status effect will proc the flourish, dealing 15 Flamecharm damage, 25 Wither damage, and applying burn to the victim and anyone else nearby. This cannot proc on knocked enemies and does not proc Dazing Finisher.
     -   The Emperor Flame status effect lasts 10 seconds or until you land a basic attack. Emperor Flame has a 30 second cooldown.
     -   Hitting enemies with attacks that apply burn will grant Emperor Flame stacks. This will proc regardless of if the target is currently burning or not. There is a 2 second cooldown for stack gain.
-    -   Emperor Flame extinguishes burn applied to yourself through Agitating Spark. If Emperor Flame is on cooldown, your self applied burn will not be extinguished.
+    -   Emperor Flame extinguishes burn applied to yourself through Agitating Spark. If Emperor Flame is on cooldown, yourself applied burn will not be extinguished.
 -   Explosive Finish \[Common Talent, Flamecharm Exclusive\] **100** \- If an enemy is on fire when you flourish, blast them away with a fire blast.
     -   the equation for this damage is: (weapon damage + 1 blunt damage + 5 flame damage)
     -   Upon proccing Emperor Flame, this Talent will be put on a 3s cd.

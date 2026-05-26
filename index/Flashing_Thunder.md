@@ -1,6 +1,6 @@
 ---
 title: Flashing Thunder
-revid: 192657
+revid: 211266
 source: https://deepwoken.fandom.com/wiki/Flashing_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -12,7 +12,9 @@ categories: [Vow of Iron Exclusive, Mementos]
 |---|---|
 | description | Lightning always finds its mark. |
 | unlock | Defeat Dravik, The Rat King as a Sightless |
+| starting attributes | 5 Thundercall, 5 Medium Weapon, 3 Fortitude, 5 Agility, 3 Intelligence, 3 Willpower |
 | final attributes | 100 Thundercall, 100 Medium Weapon, 50 Fortitude, 100 Agility, 50 Intelligence, 45 Willpower |
+| starting traits | 3 Songchant, 2 Proficiency, 1 Vitality, 2 Erudition |
 | final traits | 4 Songchant, 4 Proficiency, 3 Vitality, 4 Erudition |
 | starting armor | Stormchanter's Raiments |
 | allowed weapons | Any |
