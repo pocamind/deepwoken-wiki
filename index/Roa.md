@@ -1,6 +1,6 @@
 ---
 title: Roa
-revid: 211214
+revid: 211307
 source: https://deepwoken.fandom.com/wiki/Roa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -31,6 +31,8 @@ Roa is located at shores of [Lower Erisia](Lower_Erisia.md) next to a broken [St
   
 
 ## Dialogue
+
+**Base Dialogue:**
 
 <table>
 <tbody>
@@ -76,6 +78,39 @@ Roa is located at shores of [Lower Erisia](Lower_Erisia.md) next to a broken [St
 </tr>
 <tr>
   <td colspan="6">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+This Dialogue is unlocked if the player is a [Castaway](Castaway.md).
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Huh. Surprised you made it out of there alive. Colour me impressed.</td>
+</tr>
+<tr>
+  <td colspan="12">Any clue what happened to the others?</td>
+</tr>
+<tr>
+  <td colspan="12">Afraid not. If Gram's still kicking he's probably headed back to his Justicar buddies. Orlandeau always said a captain went down with his ship, so l'd wager he's either a coward or drowned. I've got bigger fish to fry, anyway.</td>
+</tr>
+<tr>
+  <td colspan="12">Bigger fish to fry...?</td>
+</tr>
+<tr>
+  <td colspan="12">...How much do you know about Erisia?</td>
+</tr>
+<tr>
+  <td colspan="12">Well, it's where we're standing.</td>
+</tr>
+<tr>
+  <td>[See first instance]</td>
 </tr>
 </tbody>
 </table>
