@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 194618
+revid: 211391
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Monsters]
 |---|---|
 | health | 1200 , 3000 (Corrupted), 2500 (Crimson) , 6250 (Corrupted Crimson) |
 | attacks | Quick Slice, Triple Slash, Relentless Strikes |
-| drops | Strange Claw , Terrapod Shell , Mantra Modifiers , Crescent Cleaver (Corrupted OR Crimson) , Evanspear Greataxe (Corrupted OR Crimson) , Razor Cutlass (Corrupted OR Crimson) |
+| drops | Strange Claw , Terrapod Shell , Crimson Terrapod Shell (Crimson exclusive) , Mantra Modifiers , Crescent Cleaver (Corrupted OR Crimson) , Evanspear Greataxe (Corrupted OR Crimson) , Razor Cutlass (Corrupted OR Crimson) |
 | locations | Upper Erisia , The Viper's Jaw , Burning Stone Gardens , The Hidden Village , The Depths , Using Terrapod Bait |
 | challenges | -- Terrapod --, Terrapod Slayer I - Slay 10.Reward: +10% DMG; +5% RES, Terrapod Slayer II - Slay 25.Reward: +10% DMG; +5% RES, Terrapod Slayer III - Slay 100.Reward: +10% DMG; +5% RES |
 

@@ -1,6 +1,6 @@
 ---
 title: Prince of the Moon
-revid: 209226
+revid: 211369
 source: https://deepwoken.fandom.com/wiki/Prince_of_the_Moon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -12,8 +12,12 @@ categories: [Vow of Iron Exclusive, Mementos]
 |---|---|
 | description | Following in the footsteps of Zhatarn, the fallen Celestial prince, they sought power at the cost of madness. |
 | unlock | Defeat Shogun, Dravik, The Rat King, and True Heart of Enmity with the Blessing of the Moonseye Talent. |
+| starting health | 90 |
+| starting attributes | 4 Medium Weapon, 4 Agility, 4 Intelligence, 4 Willpower |
 | final attributes | 75 Medium Weapon, 80 Agility, 80 Intelligence, 80 Willpower |
-| final traits | 4 Proficiency, 4 Vitality, 3 Vitality |
+| starting traits | 2 Proficiency, 2 Songchant, -1 Vitality |
+| final traits | 4 Proficiency, 4 Songchant, 3 Vitality |
+| aspect | Lightborn |
 | resonance | Jar of Souls |
 | starting armor | Moonseye |
 | allowed weapons | Sword |
@@ -27,7 +31,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Prince of the Moon** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. This Memento is obtained by defeating all three progression bosses while having the [Blessing of the Moon](Talents.md#blessing-of-the-moon) Talent, which permanently applies tier three [Insanity](Insanity.md). The Blessing of the Moon Talent is obtained at [Moon's Eyrie](<Moon's_Eyrie.md>).
+**Prince of the Moon** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. This Memento is obtained by defeating all three progression bosses while having the [Blessing of the Moon](Talents.md#blessing-of-the-moon) Talent, which permanently applies tier three [Insanity](Insanity.md). The Blessing of the Moon Talent is obtained at [Moon's Eyrie](<Moon's_Eyrie.md>). A visual feature this memento bears is that your skin is always pale white, with gray Sclera, white Pupils and black hair.
 
 **If you unequip your [Soulthorn](Soulthorn.md), you will not be able to re-equip it.**
 

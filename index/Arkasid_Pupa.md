@@ -1,11 +1,9 @@
 ---
 title: Arkasid Pupa
-revid: 207674
+revid: 211366
 source: https://deepwoken.fandom.com/wiki/Arkasid_Pupa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Food]
-notices:
-  - "This page is currently being worked on. New content released with Freewoken. Please be patient as information is added!"
+categories: [Food]
 ---
 
 # Arkasid Pupa

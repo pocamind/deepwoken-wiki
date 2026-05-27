@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 210832
+revid: 211333
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -26,6 +26,10 @@ The Glossary can be accessed anytime by clicking on the Encyclopedia button at t
 -   The [Unspoken Vow](#unspoken-vow) of [Lightkeeping](#lightkeep) is tied to Aeod, who may have something to do with its origins.
 
 Dialogue: Interacting with a Lightkeep entry after activating the [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) Talent | Books: | Glossary Entries: [Lightkeep](#lightkeep)
+
+-   Klaris said that behind the Light, she felt the presence of Aeod, likening it to an origin or a source.
+
+Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) while wearing a [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) | Books: | Glossary Entries: [Lightkeep](#lightkeep)
 
 ### Black Divers
 
@@ -83,6 +87,8 @@ Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Chaser](Chaser,_Scholar_of_t
 Dialogue: [Aeroaseluniris Oricalum Forentus](Aeroaseluniris_Oricalum_Forentus.md), [Aesalath Kalafrid](Aezeroth_Kaladin.md), [Alpha](Alpha.md), [C'lantaa](<C'lantaa.md>), [Carrion](Carrion,_Father_of_Evolution.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [F'leche](<F'leche.md>), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Naerotiv](Naerotiv.md) | Books: | Glossary Entries: [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [Raeva](#raeva), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer)
 
 -   Thought to preside over the [Second Layer](#the-eternal-gale-the-second-layer), granting it the moniker of 'The Eternal Gale'.
+
+Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md)
 
 ### The High Convocation
 
@@ -398,17 +404,21 @@ Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Gloss
 
 Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Nimea](Nimea.md) | Books: | Glossary Entries: [Dawnfocal](#dawnfocal), [Lighthouses](#lighthouses), [Lightkeep](#lightkeep), [Radiant Tones](#radiant-tones), [The Luminants](#the-luminants), [The Moonseye](#the-moonseye)
 
+-   Though they're believed to incapable of using the [Song](#the-song), Klaris stated that they are in fact capable of forming [Vows](#vows). It seems that there is some debate as to whether Lightkeeping is a Verse of the [Song](#the-song) or something else entirely. Klaris mentioned that some refer to it as an [Unspoken Vow](#unspoken-vow).
+
+Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md)
+
 -   Accessing the faintest spark of [Lightkeeping](#lightkeep) through the Lightkeeper's Medallion, the name ['Aeod'](#aeod-the-waking-god) makes itself known.
 
 Interacting with a Lightkeep entry after activating the [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>)
 
--   Nimea mentioned that Lightkeepers are incapable of using the [Song](#the-song).
-
-Dialogue: [Nimea](Nimea.md)
-
 -   The [Radiant Tones](#radiant-tones) utilised by adherents of the Dawnwalker [Oath](#oaths) are based on research into [Lightkeeping](#lightkeep), though are incapable of Illuminating the Void.
 
 Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md)
+
+-   Nimea mentioned that Lightkeepers are incapable of using the [Song](#the-song).
+
+Dialogue: [Nimea](Nimea.md)
 
 ### Mantra
 
@@ -477,7 +487,7 @@ Dialogue: [Funke](Funke,_Master_of_Thunder.md), [Neero](Neero.md) | Books: [Lume
 -   Though only a theory, an Unspoken Vow is thought to be a [Vow](#vows) enacted without conscious intent.
 -   A chilling prospect indeed, that one may be party to a [Vow](#vows) without even realising it. Many have dismissed it as a paradox, or the productive of an overly active imagination.
 
-Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [Aeod, the Waking God](#aeod-the-waking-god)
+Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entries: [Aeod, the Waking God](#aeod-the-waking-god), [Lightkeep](#lightkeep)
 
 ### Vows
 
@@ -487,7 +497,7 @@ Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Gloss
 -   Vows are poorly understood by the people of the [Resurgence](#the-resurgence), but are still a fundamental part of their daily lives.
 -   Vows do not have to be made with others, and can even be made with oneself. Indeed, the powerful magic of an [Oath](#oaths) is facilitated by such a Vow.
 
-Dialogue: [Adrofalis](Adrofalis.md), [Delta](Delta.md), [Eiris](Eiris.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Lance's Brother](<Lance's_Brother.md>), [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md), [Samael](Samael.md), [Sordino](Sordino.md), [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) | Books: [Jericho's Journal](<Jericho's_Journal.md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [Lifeweave / Lifewoven](#lifeweave--lifewoven), [Oaths](#oaths), [The Drowned City of Celtor](#the-drowned-city-of-celtor), [The Old Stewards](#the-old-stewards), [Unspoken Vow](#unspoken-vow)
+Dialogue: [Adrofalis](Adrofalis.md), [Delta](Delta.md), [Eiris](Eiris.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Lance's Brother](<Lance's_Brother.md>), [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md), [Samael](Samael.md), [Sordino](Sordino.md), [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) | Books: [Jericho's Journal](<Jericho's_Journal.md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [Lifeweave / Lifewoven](#lifeweave--lifewoven), [Lightkeep](#lightkeep), [Oaths](#oaths), [The Drowned City of Celtor](#the-drowned-city-of-celtor), [The Old Stewards](#the-old-stewards), [Unspoken Vow](#unspoken-vow)
 
 -   Steward Bridges posited in his work 'Vows by the Sea: Inheritance' that the [Aspects](#aspects) of [Lumen](#lumen) may be the result of a [Hereditary Vow](#hereditary-vow).
 

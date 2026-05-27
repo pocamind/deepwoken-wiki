@@ -1,9 +1,11 @@
 ---
 title: Dungeons
-revid: 200299
+revid: 211357
 source: https://deepwoken.fandom.com/wiki/Dungeons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics, Dungeons, Locations]
+categories: [Stub pages with reason, StubPages, Mechanics, Dungeons, Locations]
+notices:
+  - "This page is a stub. It requires further information, or has little to no information. Missing info and image for The Cradle of Symphonies and image for The Throne of Lies."
 ---
 
 # Dungeons
@@ -31,6 +33,7 @@ All players within Dungeons automatically count as allies to each other.
 | [Temple Sparring Hall (Combat Training / Maestro)](<Temple_Sparring_Hall_(Dungeon).md>) | Training Area/Boss | Solo | A large sparring arena to hone the players ability, accessed by either challenging the [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) for a sparring match boss fight or by speaking to [Das](Das.md) and [Regarde](Regarde.md) for [Training Mode](Training_Mode.md). |  |
 | [Temple Sparring Hall (Temple of Mur)](<Temple_Sparring_Hall_(Temple_of_Mur).md>) | Boss | Solo | Within the [Temple of Mur](Temple_of_Mur.md), a hulking [Shogun](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>) lays waste to those who dare defy [The Lord Regent](The_Lord_Regent.md) and trespass its mighty blade. This dungeon is only accessible through the [Vow of Iron](Vow_of_Iron.md) gamemode. |  |
 | [The Blade Within](The_Blade_Within.md) | Oath Obtainment | Solo | An area within the players mind in which an AI version of the player is to be defeated in order to obtain [Oath: Bladeharper](Oath%253A_Bladeharper.md). It can be accessed by speaking to any of the [Sky Statues](Sky_Statue.md) with the requirements to obtain Bladeharper. |  |
+| [The Cradle of Symphonies](The_Cradle_of_Symphonies.md) | Boss | Solo |  |  |
 | [The Diluvian Mechanism](The_Diluvian_Mechanism.md) | Grinding Area | Both | A wave-based monster slaying dungeon, down the halls of the [Marauder's Entrance](<Marauder's_Entrance.md>), featuring 50 waves of monsters and enemies. It can be accessed by interacting with the [Diluvian Mechanism](<Diluvian_Mechanism_(NPC).md>) in Marauder's Entrance. |  |
 | [The Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md) | Grinding Area/Boss | Both | The harsh winds of the Eternal Gale fog the First Floor of the [Second Layer](Second_Layer.md). Featuring unique monsters and enemies such as [Bonekeepers](Bone_Keeper.md), [Bounders](Bounder.md), and the merciless [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md). It can be accessed by jumping into the [First Layer](First_Layer.md)'s void above 50% HP, speaking to [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) above Power 15, or by using the [Ignition Deepdriller.](<The_Chariot's_Spire.md>) |  |
 | [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | Tutorial | Solo | On the waters of the [Open Sea](Open_Sea.md) is the tutorial of _Deepwoken_, and the vessel for [Cap'n Orlandeaus](<Cap'n_Orlandeau.md>) crew. It can be accessed when first playing the game or by speaking to [The Captain](<Cap'n_Orlandeau.md>) in [Fragments of Self](Fragments_of_Self.md). |  |

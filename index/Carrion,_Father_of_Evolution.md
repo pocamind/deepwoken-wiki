@@ -1,11 +1,9 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 210988
+revid: 211336
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, Layer 2, Floor 2, Floor 1, Black Divers]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Ganymede NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, NPCs located in the Second Floor of the Second Layer, Black Divers]
 ---
 
 # Carrion, Father of Evolution

@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 206397
+revid: 211411
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, OutdatedPages, Guilds, Locations]
@@ -28,7 +28,7 @@ Entering the Guild Base for the first time, you will be met with a glowing outli
 
 Once hired, the [Treasurer](Treasurer.md) can be interacted with to hold the Notes donated to the Guild. Treasury can be used to upgrade or purchase Room Slots and hire certain NPCs depending on the Room Slot. However, hiring the treasurer will increase the prices of all the rooms. Without the treasurer, the 2nd room is 2,100 Notes, with them it is 4,100 Notes.
 
-Currently, there are 10 NPCs that can join your Guild Base with a certain amount of rooms purchased; making it both an achievement and benefit to the Guild.
+Currently, there are 8 NPCs that can join your Guild Base with a certain amount of rooms purchased; making it both an achievement and benefit to the Guild.
 
 -   The [Barber](Barber.md), which can be hired after building 6+ rooms for 3,000.
 -   The [Banker](Banker.md), which can be hired in the Trophy Room after building 6+ rooms for 10,000.
@@ -38,7 +38,6 @@ Currently, there are 10 NPCs that can join your Guild Base with a certain amount
 -   The [Artisan](Artisan.md), which can be hired after building the Trophy Room for 10,000.
 -   The [Blacksmith](Blacksmith.md), which can be hired after building the Armory for 1,000.
 -   The [Mess Chef](Mess_Chef.md), which can be hired after building the Mess Hall for 2,000.
--   ~The [Songwright](Songwright.md) which can be hired in the Song Room after building 9+ rooms for 20,000 .~ As of the 21/03/26 update, Songwrights were removed from the game. All Songwrights hired prior to this update have left all guildbases and players will not recieve refunds for their purchase.
 -   The Leader may expand the Guild Base by using either their personal notes on hand or the Guild's Treasury—with each expansion becoming staggeringly higher in price than the previous purchase. Should the Leader choose to they may remove rooms from the guild base by using the Chime of Dwelling inside of it (they are also able to exile members in the same menu).
 
 The pricing list is as follows: (Assuming you have the [Treasurer](Treasurer.md))
@@ -255,31 +254,24 @@ A giant room consisting a large circular arena in the center to fight your guild
 
  |
 
-Library's Donated Books
-
-Bandits raiding a Guild Base.
-
 ## Trivia
 
--   Although not purchasing the Treasurer makes the guild rooms cheaper to buy, you are not able to purchase any room costing more than 15,000 (i.e. Room 5 and above). This is because you can only hold a maximum of 15,000 at a time in Pathfinder mode, and to purchase any room costing more than this, you must give the respective amounts of notes to the Treasurer.
-    -   To combat this, a simple workaround would be to buy the first 4 Rooms of the guild base, and then buying the Treasure.
--   Previously, you could gain Attunement and Weapon EXP off of the combat dummies in the Training Hall room.
--   You will gain a small amount of experience for each new guild base you visit.
--   You do not need to have every single guild base room in order to buy the Arena Extension. You simply need to buy either room in the back middle left/middle right (the "back" being 3 purchased rooms deep).
--   Any item that can be carried ([Artifacts](Artifacts.md), [Summer Company](The_Summer_Company.md) crates, [Sacks](Chests_&_Sacks.md), etc.) that are placed inside a Guild Base will stay even if the entrance is moved, providing a useful way to transfer them over long distances.
-    -   However, if you travel to another server (such as going to the [Eastern Luminant](Luminants.md) or [The Depths](The_Depths.md) from the [Etrean Luminant](Luminants.md), every carriable item inside the guild base will despawn unless there is another guildmate in the server who has the guild base active.
--   The Thundercall Talent "Grand Skewer" is disabled while inside, as it can fling people out of the base.
-    -   Ironically, the functionally identical Ironsing Mantra "Rocket Lance" is not disabled.
-    -   (For those who are dense and don't get the joke, its **Iron**ic that the **Ironsing** mantra isn't disabled. unless this was an unintended pun.)
--   Although enemies aren't supposed to spawn inside the guild base, [Bandits](Bandit.md) can still spawn inside, and you can still fish up enemies such as [Mudskippers](Mudskipper.md) or [Lionfish](Lionfish.md) from the Fish Pond.
--   Guild Bases can provide use climbing walls, as they act as a small ledge.
--   Putting mobs or [Navaen Hostages](Navaen_Hostage.md) near the entrance of the Guild Base will not allow anyone to enter, useful for preventing assassinations or Voidwalkers.
--   There is a small area above Monkey's Paw which is considered to be part of the Aratel Sea, allowing you to place a guild base.
--   If you glitch out of the Guild Base and are thrown into the void outside, you will spawn outside of your guild base.
--   Any books that have been donated to the guild library are saved if the room is removed.
--   Guild Bases can be useful for training Charisma as the NPCs will fulfill the need of an audience.
--   The trees in the Quarters room can be cut down for wood with a lumber axe at the right angle.
--   The PVE dummy in the training hall can be used to build up [Chain of Perfection](Talent_Quests.md#chain-of-perfection) stacks.
--   As stated by Arch\_Mage\[_Citation Needed_\], there is an unknown feature that can permanently turn all NPCS in your guild base into long white haired moustache Felinors.
--   Voidwalkers that hunt you can teleport to your base, however, you will get the message "This is no longer a safehaven," to warn you.\[Confirmation needed\]
--   As of the 21/03/26 update, [Songwrights](Songwright.md) were removed from all Guild Bases and made unavailable to purchase. These were NPCs who previously upgraded your mantras in your guild base, eliminating the need to go to the [respective trainers](Attunement_Trainers.md) at the expense of a higher upgrade cost.
+-   Not purchasing the Treasurer makes guild rooms cheaper, but prevents you from buying rooms that cost more than 15,000, such as Room 5 and above. This is because Pathfinder mode only allows players to hold 15,000 at a time, meaning larger purchases require depositing notes through the Treasurer.
+    -   A workaround is to buy the first 4 guild rooms before purchasing the Treasurer.
+-   Previously, combat dummies in the Training Hall gave Attunement and Weapon EXP.
+-   Players gain a small amount of experience when visiting a new guild base.
+-   The Arena Extension does not require every guild room. It only requires one of the back-middle rooms, either left or right, located 3 purchased rooms deep.
+-   Carriable items, such as [Artifacts](Artifacts.md), [Summer Company](The_Summer_Company.md) crates, [Sacks](Chests_&_Sacks.md), and similar objects, will remain inside a Guild Base if the entrance is moved. This can be used to transfer items over long distances.
+    -   However, carriable items will despawn if the player switches servers, such as traveling between [Luminants](Luminants.md) or entering [The Depths](The_Depths.md), unless another guildmate remains in the server with the guild base active.
+-   [Grand Skewer](Talents.md#grand-skewer) is disabled inside Guild Bases because it can fling players out of the base.
+-   Although enemies are not intended to spawn inside Guild Bases, [Bandits](Bandit.md) may still appear, and enemies such as [Mudskippers](Mudskipper.md) or [Lionfish](Lionfish.md) can still be fished up from the Fish Pond.
+-   Guild Bases can be used as climbing ledges because their walls provide small footholds.
+-   Placing mobs or [Navaen Hostages](Navaen_Hostage.md) near a Guild Base entrance can prevent players from entering, which may help against assassinations or Voidwalkers.
+-   If a player glitches out of a Guild Base and falls into the surrounding void, they will respawn outside the Guild Base.
+-   Books donated to the [Guild Librarian](Guild_Librarian.md) are saved even if the Library room is removed.
+-   Guild Bases can help train Charisma, as their NPCs count as an audience.
+-   The trees in the Quarters room can be cut down for wood with a lumber axe if struck from the correct angle.
+-   The PVE dummy in the Training Hall can be used to build [Chain of Perfection](Talent_Quests.md#chain-of-perfection) stacks.
+-   According to Arch\_Mage\[_Citation Needed_\], there is an unknown feature that can permanently turn all Guild Base NPCs into long white-haired Felinors with moustaches.
+-   Voidwalkers hunting a player may be able to teleport to their Guild Base. If this happens, the player receives the message, "This is no longer a safehaven."\[Confirmation needed\]
+-   As of the March 21st, 2026 update, [Songwrights](Songwright.md) were removed from Guild Bases. They previously allowed players to upgrade mantras inside their Guild Base instead of visiting [Attunement Trainers](Attunement_Trainers.md), though at a higher cost.

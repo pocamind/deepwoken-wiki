@@ -1,6 +1,6 @@
 ---
 title: "Hunter's Brace"
-revid: 199745
+revid: 211329
 source: https://deepwoken.fandom.com/wiki/Hunter's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tools, Items]
@@ -15,7 +15,7 @@ categories: [Tools, Items]
 | droppable | No |
 | pass down | No |
 | desc | Strengthen your weapon arm, gaining the ability to parry normally overpowering strikes. |
-| obtainment | Sold at Summer Isle Con's Pawn for 60 , Sold at Merchant Ships for varying prices |
+| obtainment | Sold at Summer Isle Con's Pawn for 60 (CURRENTLY BUGGED), Sold at Merchant Ships for varying prices |
 
 ## Description
 

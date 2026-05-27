@@ -1,11 +1,9 @@
 ---
 title: Squelcap Pilaf
-revid: 208846
+revid: 211360
 source: https://deepwoken.fandom.com/wiki/Squelcap_Pilaf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, In progress with reason, InProgressPages, Food]
-notices:
-  - "This page is currently being worked on. New content released with Freewoken. Please be patient as information is added!"
+categories: [Pathfinder Exclusive, Food]
 ---
 
 # Squelcap Pilaf

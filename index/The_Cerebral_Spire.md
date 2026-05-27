@@ -1,11 +1,10 @@
 ---
 title: The Cerebral Spire
-revid: 187664
+revid: 211364
 source: https://deepwoken.fandom.com/wiki/The_Cerebral_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, Locations]
+categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Locations]
 notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
@@ -25,17 +24,18 @@ The Cerebral Spire is a Location in _Deepwoken_. It is exclusive to the [Vow of 
 
 ## Description
 
-The Cerebral Spire serves as the main hub for [the Inheritor](The_Inheritor.md) to power up and obtain abilities. Players are unable to take and deal damage while in this location.
+The Cerebral Spire serves as the central sanctuary where [the Inheritor](The_Inheritor.md) strengthens their power and unlocks new abilities. Within its walls, combat is suspended, leaving players unable to deal or receive damage to each other.
 
 ## Contents
 
 -   [Boundary](Boundary.md): Rifts allowing the player to teleport to and from the Cerebral Spire across the Luminant.
--   [Reclaimer of the Recollection](Reclaimer_of_the_Recollection.md): A [Gremor](Gremor.md) who grants [Power](Power.md), [Talents](Talents.md), [Mantras](Mantras.md), as well as a guide to the power-up and progress.
--   [Azurath](Azurath.md): A [Chest Master](Chest_Master.md).
+-   [Reclaimer of the Recollection](Reclaimer_of_the_Recollection.md): A [Gremor](Gremor.md) who grants guidance on progression and the story within the mementos in Vow of Iron.
+-   [Azurath](Azurath.md): The acting [Antiquarian](Antiquarian.md) within the spire.
 
 ## Trivia
 
 -   While within this area, the Inheritor's hunger will not deplete, but their thirst still will.
+-   Players can still perform assassinations on each other in this location, but the attack will not deal any damage.
 -   Four different contours of the song will play depending on the mementos boss progression:
     -   Contour 1 - Base Song
     -   Contour 2 - After defeating [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)

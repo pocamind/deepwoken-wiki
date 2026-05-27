@@ -1,9 +1,9 @@
 ---
 title: "Knell, The Lunatic Resonator"
-revid: 211096
+revid: 211363
 source: https://deepwoken.fandom.com/wiki/Knell%2C_The_Lunatic_Resonator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Anansi NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, Enemies, Bosses, Deceased characters]
+categories: [Anansi NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, Enemies, Bosses, Deceased characters, Voiced Characters]
 ---
 
 # Knell, The Lunatic Resonator
@@ -336,8 +336,7 @@ Knell, The Lunatic Resonator executes his opponent after knocking them:
   <td colspan="3">Can I help you?</td>
 </tr>
 <tr>
-  <td colspan="3">[See first instance]</td>
-  <td colspan="3">[See first instance]</td>
+  <td colspan="6">[See first instance]</td>
   <td colspan="3">NO!... no. Get OUT of my head fake person fake...</td>
 </tr>
 <tr>
