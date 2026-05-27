@@ -1,6 +1,6 @@
 ---
 title: Bosses
-revid: 208950
+revid: 211448
 source: https://deepwoken.fandom.com/wiki/Bosses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses, Mechanics]
@@ -24,8 +24,6 @@ The concrete, in-game method of determining if an Enemy/Monster is a **Boss** is
 -   Grants [Pluripotent Alloy](Pluripotent_Alloy.md) upon defeat.
 -   Grants [Ardour Manifestation](Ardour_Manifestation.md) upon defeat.
 -   Being in a Boss' combat tag allows you to zoom your camera out farther than normal.
-
-  
 
 ## World Bosses
 

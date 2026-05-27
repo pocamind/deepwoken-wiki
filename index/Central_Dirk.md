@@ -1,6 +1,6 @@
 ---
 title: Central Dirk
-revid: 196609
+revid: 211455
 source: https://deepwoken.fandom.com/wiki/Central_Dirk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, "Weapons with Multi-Hit Criticals", Daggers, Drops, Light Weapons]
@@ -48,3 +48,4 @@ Central Dirk uses the default Dagger critical, a series of 3 quick slashes. The 
 
 -   The design is somewhat reminiscent of the [Inquisitor's Straight Sword](<Inquisitor's_Greatsword.md>).
     -   The name further reinforces that it may originate from the Central Luminant.
+-   This weapon is exceptionally good for PvE builds that utilize [Ironsing](Ironsing.md)

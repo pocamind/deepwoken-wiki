@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 211190
+revid: 211451
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1114,8 +1114,6 @@ These are Talents found in "_Scrapsinger_" Category.
 -   Caltrops in real life are small, spiked weapons originally used as early as the Roman times to be used against men and horses. Later versions of Caltrops were used in the second world war to deflate tires of automobiles.
 -   The icons for Ironsing Talents formerly featured the symbol for Frostdraw. It was replaced with a unique icon during the 30th of August, 2024 update, 466 days after the attunement's release.
 -   The support Mantra **Iron Skin**, especially the Scrapsinger variant, might or might not be a reference to "The Indestructible Virgin" from _Scissor Seven_. [\[1\]](#cite-note-1)
-
-K1LLUA announcing the Ironsing path: Scrapsing in #polls, asking for either Trick or Treat.
 
 ## References
 

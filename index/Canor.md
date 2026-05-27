@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 198023
+revid: 211439
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -151,9 +151,13 @@ Canor has optional face markings that vary in appearance on each variant. These 
 -   The surnames of the Canor are noticeably German, or German inspired.
 -   Canor also seem to be known for their heavy weaponry, as the [Zweihänder](Zweihander.md) (a German weapon), which is known to be used by the Canor Borderwatchers. There is also the [Pale Morning](Pale_Morning.md), which is a replica of a Greathammer wielded by a Canor Warlord, and the [Canorian Axe](Canorian_Axe.md), a Greataxe that is a replica of ones used by the Canor Swornfangs.
 -   The Default Canor hair id is 20372960. [See on Roblox](https://www.roblox.com/catalog/20372960/Bed-Hair)
--   The design of the Canor is partially inspired by Mereleona from black clover confirmed by arch\_mage.
+-   The design of the Canor is partially inspired by Mereleona from black clover confirmed by arch\_mage.[\[1\]](#cite-note-1)
 -   The Lord Regent, seemingly, does not like Canor for an unknown reason.
 -   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Canor's aspect name was changed to Muttskipper.
 -   Arch\_Mage has confirmed Canor to be based on lions and dogs.
     -   This made them related to the once hated aspect known as the [Felinor](Felinor.md) due to the fact that Lions and Cats are part of the Felidae family.
     -   The name Canor is notably similar to canid, or canine, a term used for dogs. They also possess the unique Lone Wolf passive in Vow of Iron, further supporting their canine nature.
+
+## References
+
+1.  [↑](#cite-ref-1)

@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 209908
+revid: 211436
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -912,6 +912,7 @@ N/A
 
 -   Anyone who attempts to cast a Mantra while in the range of your Devouring Eye will have their Mantra cast canceled and the Ether cost will be consumed and transferred to the caster.
 -   Shares a cooldown with tranquil circle.
+-   While the description states it is a "fragile eye", it is unbreakable (last tested 27/05/2026).
 
  |
 | 

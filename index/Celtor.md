@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 203219
+revid: 211440
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -150,5 +150,3 @@ Nametag of a Celtor during Mudwoken.
 ## References
 
 1.  [↑](#cite-ref-1)
-    
-    Arch\_Mage stating that Celtor frequently gamble at Shipyards and Docks
