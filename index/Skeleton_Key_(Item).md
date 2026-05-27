@@ -1,6 +1,6 @@
 ---
 title: Skeleton Key (Item)
-revid: 185005
+revid: 211325
 source: https://deepwoken.fandom.com/wiki/Skeleton_Key_(Item)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Items]
@@ -18,6 +18,8 @@ categories: [Vow of Iron Exclusive, Items]
 | pass down | No |
 | desc | Unlock ALL the chests. |
 | obtainment | Mystery Boxes or Magic Coffin |
+
+Not to be confused with the [Resonance](Skeleton_Key.md).
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

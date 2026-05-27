@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 211319
+revid: 211323
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -938,10 +938,10 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Prerequisite: 25 Charisma
 
 -   Chaotic Charm \[Common Talent, Charisma\] - Charm enemies nearby when attacked at low health. Enemies affected by this charm have their damage increased to anyone but you, and deal reduced damage towards you.
-    -   Applies a [unique status effect](Status_Effects.md#chaotic-charm) for 15 seconds that is separate to charm as a whole. This status effect is what grants the additional damage reduction and increased damage to people who are not you. This status effect cannot have its duration reduced by Disbelief.
+    -   Applies a unique status effect, [Chaotic Charm](Status_Effects.md#chaotic-charm), for 15 seconds that is separate to charm as a whole. This status effect is what grants the additional damage reduction and increased damage to people who are not you. This status effect cannot have its duration reduced by Disbelief.
     -   The additional damage reduction from Chaotic Charm scales on your Charisma investment, gaining 0.15% damage reduction per point in Charisma.
         -   This damage reduction is combined multiplicatively with Charm due to them being separate status effects.
-    -   Automatically procs narcissist
+    -   The Charm application can proc Narcissist.
     -   Deals 0.1 typeless damage whenever it procs.
     -   Can be blocked, preventing damage and Charm proc.
     -   Damage and Charm is applied in a very small AoE around you on top of affecting the person who hit you directly.
@@ -966,7 +966,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Mutual Exclusives: Narcissist
 
 -   _**Dazing Finisher**_ \[Advanced Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
-    -   Applies Daze for 3.35 seconds on proc.
+    -   Applies [Daze](Status_Effects.md#daze) for 3.35 seconds on proc.
         -   This duration is reduced by 0.02 seconds for every point under 55 Charisma, having a minimum duration of 2.85 seconds at 30 Charisma.
     -   Prevents you from knocking back charmed players with flourishes, instead, dazing them.
     -   Prerequisites: 55 Charisma, All Charm Caster Talents

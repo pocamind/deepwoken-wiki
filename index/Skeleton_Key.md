@@ -1,6 +1,6 @@
 ---
 title: Skeleton Key
-revid: 210934
+revid: 211326
 source: https://deepwoken.fandom.com/wiki/Skeleton_Key
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -13,6 +13,8 @@ categories: [Resonances]
 | effect | Summon skeletal barriers that trap opponents and launch them across the battlefield. |
 | appearance | A grey skeletal wall, with hands embodying the bottom and the top being a symbol. |
 | cooldown | 2s duration, 5s if spiked variant |
+
+Not to be confused with the [item](<Skeleton_Key_(Item).md>).
 
 “ Summon skeletal barriers that trap opponents and launch them across the battlefield. ”
 

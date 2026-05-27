@@ -1,6 +1,6 @@
 ---
 title: Imperium Kata
-revid: 211215
+revid: 211324
 source: https://deepwoken.fandom.com/wiki/Imperium_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, "Weapons with Multi-Hit Criticals", Light Weapons]
@@ -60,4 +60,4 @@ This critical has a cooldown of 5 seconds.
 -   The **[Imperium Kata](Talents.md#imperium-kata)** Talent Card also gives +1 Passive Agility.
     -   When the style first released, it additionally granted +5 Health. This was patched shortly after.
 -   While its Talent description has a 20 LHT requirement, the fighting style can be obtained without it.
--   When selecting Imperium Kata in the [Character Creation](Character_Creation.md) it will give you the [Legion Kata](Legion_Kata.md) critical attack, until you equip a Cestus.
+-   When selecting Imperium Kata in [Character Creation](Character_Creation.md) it will give you the [Legion Kata](Legion_Kata.md) critical attack, until you equip a Cestus.
