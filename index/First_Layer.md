@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 209449
+revid: 211459
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, The Depths, Layer 1]
@@ -84,7 +84,7 @@ Scyphozia, being a naturally hostile location, is intentionally difficult to sur
 
 ### Talents & Equipment
 
--   _**[Carnivore](Talents.md#carnivore)**_, the Talent that makes up part of the **Apex Predator** Talent tree, is important if you plan to stay in The Depths in the long term. It removes the ability to consume plants (mutual exclusive with [Vegetarian](Boons_and_Flaws.md#vegetarian) flaw), but in exchange, gripping Players, NPCs, **AND** monsters will replenish your HP, Hunger, and Thirst meters. With most food in the Depths being poisonous, the steady supply of blue Jellyfish is more than enough to keep you satiated. Requires **5 Willpower** and **5 Strength**.
+-   _**[Carnivore](Talents.md#carnivore)**_, the Talent that makes up part of the **Apex Predator** Talent tree, is important if you plan to stay in The Depths in the long term. It removes the ability to consume plants (mutual exclusive with [Vegetarian](Boons_and_Flaws.md#vegetarian) flaw), but in exchange, gripping Players, NPCs, **AND** monsters will replenish your HP, Hunger, and Thirst meters. With most food in the Depths being poisonous, the steady supply of [Gigameds (electric jellyfish)](Gigamed.md) are more than enough to keep you satiated. Requires **5 Willpower** and **5 Strength**.
 -   _**[Conquer Your Fears](Talents.md#conquer-your-fears)**_, a Talent that makes up part of the **Mental Fortress** Talent tree, is a good way to combat the slow drain of Sanity that being within purgatory imposes. Though all Talents in the **Mental Fortress** Talent tree are beneficial inside The Depths, **Conquer Your Fears** is a surefire guarantee as, like **Carnivore**, it replenishes your Sanity upon killing monsters of the Deep. Requires **10 Willpower**.
 -   _**[Underdog](Talents.md#underdog)**_ allows more damage to larger foes and opponents with higher health than you. Almost every Depths mob, especially since the second part of this Talent will almost always be active in PvE. Requires **40 Willpower.**
 -   _**[Megalodaunt Coat](Megalodaunt_Coat.md)**_ and _**[Pathfinder Elite](Pathfinder_Elite.md)**_, these are the only two equipment items with the Damage Vs. Monsters stat, increasing your damage dealt to all [Monsters](Monsters.md).
@@ -189,7 +189,7 @@ _The first layer of the depths, where most souls go to die, holding more reliabl
 -   The [Trial of One](Trial_of_One.md) provides an effective guide to some of the monsters that permeate the depths (the Megalodaunt, Thresher, and the Enforcer), increasing your survival rate once you can conquer them.
 -   If you see a group of high-level people, log to the main menu. Your chances of not combat logging are better than your chances of not getting gripped in The Depths. There is also certain quests such as obtaining [Contractor](Oath%253A_Contractor.md) that require the player to grip people in The Depths, which gives them an incentive to ambush what may seem like jaywalking freshies.
 -   The same goes if there many people of the same guild flooding the server. It's not worth risking your chances to be caught in the crossfire of a depths gank, or a depths cleanse (killing anything that moves in the depths).
-    -   Certain guilds are known for purposefully wiping players in the depths, such as the **Axius,Sirno Club, Anguish, Akers, Sakura, Akai, Unnamed, Eznore, Nightcrawlers and Sweeperstop.**
+    -   Certain guilds are known for purposefully wiping players in the depths, such as the **Axius, Sirno Club, Anguish, Akers, Sakura, Akai, Unnamed, Eznore, Nightcrawlers, Sweeperstop, and Depths Gank Community.**
         -   Do note **this information is mercurial and may quickly become outdated**. Regardless, it's advised to switch servers if you see a player from these guilds, as they are still (probably) on high alert.
 -   Angels are very easily avoidable through scaling buildings and fleeing on high ground. Hiding in the top of buildings until your combat tag goes away can be very easy to do in most situations. Fighting is not a bad alternative however, as they do not have any game breaking moves to destroy you with. Simply trade parries with them and follow your normal combat procedure until they are knocked, and try guard-breaking them every once in a while, as their posture is not remarkably big.
 -   Having a sense of direction and environmental awareness is **vital** for your survivability and safety. Maximize the usage of your map (keybind 'M') if your new to the depths. Falling into the void while your above 60% Health (only applies for characters power 3+, as lower power leveled characters **will get wiped**) will send you to the Ethironal Shrine Outskirts in Layer 2, Floor one. In order to escape the floor unprepared, (Light Hook is not available) you will have to activate the Deepdriller or kill [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).

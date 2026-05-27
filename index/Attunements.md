@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 211312
+revid: 211463
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mantras, Mechanics, Attunement]
@@ -166,7 +166,7 @@ Note: All of the icons above are undoubtedly official representations of their b
 ## Trivia
 
 -   Attunement-less, as the name suggests, isn't an Attunement, rather a lack thereof.
--   Once you have selected an Attunement for the first time, it will be the only available Attunement in the character creation menu other than choosing Random or None until you either unlock more of them from their respective [trainers](Attunement_Trainers.md) or by choosing Random, obtaining one you haven't unlocked and wiping.
+-   Prior to the 5/15/2026 update[\[1\]](#cite-note-1), after selecting an Attunement for the first time, it would be the only available Attunement in the character creation menu other than choosing Random or None until you either unlocked more of them from their respective [trainers](Attunement_Trainers.md) or by choosing Random, obtaining one you haven't unlocked and wiping. Now all new players start the game having the four base attunements ([Flamecharm](Flamecharm.md), [Frostdraw](Frostdraw.md), [Galebreathe](Galebreathe.md), [Thundercall](Thundercall.md)) unlocked.
 -   When choosing a second Attunement to start with, you will only spawn in with the training item for the first Attunement- _whichever one has +6 points._ You can undo your selection by selecting Random or None.
 -   Selecting a new starting Attunement, you haven't unlocked yet on another slot will permanently unlock the Attunement across all your slots.
 -   **Water will never become an Attunement available to the public due to specific lore reasons-** only extremely powerful beings have the ability to manipulate water, as stated by Arch\_Mage.
@@ -176,3 +176,7 @@ Note: All of the icons above are undoubtedly official representations of their b
     -   The next day, "ELE" was changed to "BLD".
 -   The message that appears when training an attunement, "The elements are not in alignment..." is a hint relating to obtaining the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md) and will persist unless you meet the attunement stat requirements for it, which, unless you go out of your way to meet them with the intent to obtain Saintsworn, you most likely won't.
 -   A method to previously unlock attunements as a new player was to select the "Random" option in [Character Creation](Character_Creation.md), and then wiping the slot until all four base attunements were unlocked.
+
+## Navigation
+
+1.  [↑](#cite-ref-1) [Version History/2026](Version_History/2026.md)

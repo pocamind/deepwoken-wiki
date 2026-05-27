@@ -1,6 +1,6 @@
 ---
 title: Iron Blunderbuss
-revid: 210848
+revid: 211456
 source: https://deepwoken.fandom.com/wiki/Iron_Blunderbuss
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
@@ -45,4 +45,3 @@ Iron Blunderbuss uses a modified version of the default Rifle critical, having a
 
 -   Added in the Verse 2 update, this was among the first Rifles in Deepwoken, alongside the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>).
 -   The critical's speed is very similar to the regular swingspeed, meaning it can cause some very interesting mixups when combined with the M1 bullet.
--   cool pew pew

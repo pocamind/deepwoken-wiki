@@ -1,6 +1,6 @@
 ---
 title: Naerotiv
-revid: 203021
+revid: 211462
 source: https://deepwoken.fandom.com/wiki/Naerotiv
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Individuals with unspecified pronouns]
@@ -130,6 +130,12 @@ Naerotiv urges the Pathfinder to set their kind free by completing the ritual an
 </tr>
 <tr>
   <td colspan="4">My brother? He's somewhere deep in the city, I believe. It pains me to witness what's become of everyone. Such sophistication, now spoiled and purged. It's truly lamentable. Even in our simplest arts, before the thrall, my brother could fashion the finest spears of frost, infinitely more elegant than the conjured weaponry of our contemporaries. The spirit of my brother and the spirit of Kyrsa will stand with you should you invoke their blessings.</td>
+</tr>
+<tr>
+  <td colspan="4">Spears of frost, huh? Any chance you could fashion me one?</td>
+</tr>
+<tr>
+  <td colspan="4">Would that I could, frinwalter, I... Was never quite able to find the knack for it, however much I tried.Please accept my sincere apologies that I have failed you so.</td>
 </tr>
 <tr>
   <td colspan="4">[End Dialogue]</td>

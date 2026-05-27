@@ -1,6 +1,6 @@
 ---
 title: "Alsin's Landing"
-revid: 211046
+revid: 211461
 source: https://deepwoken.fandom.com/wiki/Alsin's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Locations, Locations in the Etrean Luminant]
@@ -23,6 +23,12 @@ The lively fortress of the Justicars - followers of Alsin, devoted to the creed 
 ## Overview
 
 Alsin's Landing is home to [The Justicar](The_Justicar.md)'s and a place for anyone to train or live at.
+
+## Contents
+
+### Inn
+
+For some reason, the Innkeep will tell you 'get out of my inn!', at least when you spawn as a Justicar for the first time.
 
 ## Quests
 
