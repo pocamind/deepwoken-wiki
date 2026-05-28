@@ -1,9 +1,9 @@
 ---
 title: Drakkard
-revid: 204459
+revid: 211583
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Vow of Iron Exclusive, Exclusive Aspects, Aspects]
+categories: [Vow of Iron Exclusive, Exclusive Aspects, Aspects]
 ---
 
 # Drakkard
@@ -49,7 +49,7 @@ An aspect of nomadic dragons from the North.
 <table>
 <tbody>
 <tr>
-  <td>File:Flame Icon.png</td>
+  <td></td>
   <td><b>Teachings of the Edenkite</b>
   <ul>
     <li><i>"Find your centre."</i>

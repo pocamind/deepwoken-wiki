@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 211090
+revid: 211605
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1144,7 +1144,7 @@ These are Talents found in "_Duelist Flame_" Category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Concussive Flash  
-(30 Flamecharm, 25 Strength, Flame Blind) | Your blinding light now concusses foes. | The Mantra **Flame Blind** now applies daze. |
+(30 Flamecharm, 25 Strength, Flame Blind) | Your blinding light now concusses foes. | The Mantra **Flame Blind** now applies [Daze](Status_Effects.md#daze). |
 
 **Falling Star Guard:**
 
@@ -1292,13 +1292,10 @@ These Talents are found in the _Withered Flame_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
-|  | Ash Flame  
-(90 Flamecharm, 90 Weapon) | The more [wither](Status_Effects.md#wither) your opponent has, the more damage your burn deals.
-Applies after modifiers so works extremely poorly with twisted puppets but well with Azure Flame.
-
- | N/A |
+|  | Ash Ember  
+(90 Flamecharm, 90 Weapon) | The more [wither](Status_Effects.md#wither) your opponent has, the more damage your burn deals. | Adds a flar amount of extra damage to each burn tick. |
 |  | Scorching Decay  
-(100 Flamecharm, 100 Weapon, Emperor Flame) | The [wither](Status_Effects.md#wither) dealt from your Emperor's Flame is massively increased. |
+(100 Flamecharm, 100 Weapon, Emperor Flame) | The [wither](Status_Effects.md#wither) dealt from your Emperor's Flame is massively increased. | Emperor Flame now applies 75 Wither instead of 25. |
 
 **Twisted Puppets:**
 

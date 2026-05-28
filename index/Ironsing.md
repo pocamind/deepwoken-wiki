@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 211451
+revid: 211621
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1008,13 +1008,13 @@ These are Talents found in "_Ironsinger_" Category.
 |  | Ironclad Punishment  
 (45 Ironsing) | Your Ironsing mantras deal more posture damage to enemies the more armor durability they have. | Gain a 0.15% posture damage modifier on Ironsing mantras for every 1% armor durability your opponent has. |
 |  | Laced Traps  
-(Caltrops, 45 Ironsing) | People hit by your 'Caltrops' cannot jump and are slowed for a small duration, while also applying [Sluggish](Status_Effects.md#sluggish) to PvE enemies for a few seconds. |  |
+(Caltrops, 45 Ironsing) | People hit by your 'Caltrops' cannot jump and are slowed for a small duration, while also applying [Sluggish](Status_Effects.md#b) to PvE enemies for a few seconds. |  |
 |  | Metal Shackles  
-(15 Strength, 45 Ironsing) | Guardbreaking an opponent prevents them from receiving speed boost for 5 seconds, while PvE opponents will be [Sluggish](Status_Effects.md#sluggish) for 12 seconds. |  |
+(15 Strength, 45 Ironsing) | Guardbreaking an opponent prevents them from receiving speed boost for 5 seconds, while PvE opponents will be [Sluggish](Status_Effects.md#b) for 12 seconds. |  |
 |  | Oh the Irony  
-(Taunt, 40 Charisma, 55 Ironsing) | Opponents affected by '[Taunt](Attunement-less.md#taunt)' receive double iron rods for the duration. |  |
+([Taunt](Attunement-less.md#taunt), 40 Charisma, 55 Ironsing) | Opponents affected by '[Taunt](Attunement-less.md#taunt)' receive double iron rods for the duration. |  |
 |  | Piercing Metal  
-(POWER 13, 60 Ironsing) | Deal additional armor damage to enemies per metal rod affecting them. | Deal 5% more armor damage to enemies per metal rod affecting them. |
+(Power 13, 60 Ironsing) | Deal additional armor damage to enemies per metal rod affecting them. | Deal 5% more armor damage to enemies per metal rod affecting them. |
 |  | Thornmail  
 (45 Ironsing) | Getting flourished applies a metal rod on your attacker. | Apply rods on your attacker when **you** are flourished. |
 
@@ -1062,7 +1062,7 @@ These are Talents found in "_Rending Needle_" Category. (You can only have one o
 Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Impaler, Rending Needle: Jailer, Gilded Path: Scrapsinger
 
  |
-|  | Conductor's cable  
+|  | Conductor's Cable  
 (75 Ironsing) | Applying Conductor rods on opponents steals 10% of their current armor durability to you. |  |
 |  | Rending Needle: Conductor  
 (75 Ironsing) | 5 metal rods will combine into a conductor rod. If the enemy uses any mantra other than Ironsing, they're dealt their elemental back in turn. | Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Impaler, Rending Needle: Jailer |

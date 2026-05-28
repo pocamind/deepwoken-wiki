@@ -1,6 +1,6 @@
 ---
 title: Relic Axe
-revid: 209214
+revid: 211614
 source: https://deepwoken.fandom.com/wiki/Relic_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -41,9 +41,9 @@ The Relic Axe is a [Heavy Weapon](Weapons.md) of legendary rarity that is obtain
 
 ## Critical
 
-The user performs an overhead slash with a [purple telegraph](Combat_Mechanics.md#purple) before sending out three stone pillars. If the opponent is hit by the pillars, they will be sent upwards and ragdolled.
+The user performs an overhead slash with a [red telegraph](Combat_Mechanics.md#red) before sending out three stone pillars. If the opponent is hit by the pillars, they will be sent upwards and ragdolled.
 
-These pillars can be broken and interacted with. The purple telegraph is only applied to the stone pillars themselves.
+These pillars can be broken and interacted with. The red telegraph is only applied to the stone pillars themselves.
 
 The critical has a cooldown of **5 seconds**.
 

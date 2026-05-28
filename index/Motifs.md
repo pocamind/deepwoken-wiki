@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 208927
+revid: 211636
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -10,13 +10,13 @@ categories: [Mechanics]
 
 ## Description
 
-Motifs are a tool used to replace your current [weapon](Weapons.md) critical with the critical from another weapon, this has restrictions and limitations however. To obtain a Motif, use a [Smith's Alloy](<Smith's_Alloy.md>) on a Motif-able weapon and choose the "Extract Motif" option. This will **permanently** destroy the weapon in the process.
+Motifs allow you to replace your [Weapons](Weapons.md) current critical attack with the critical attack from another weapon. However, there are certain restrictions and limitations to this. To obtain a Motif, use a [Smith's Alloy](<Smith's_Alloy.md>) on a Motif-compatible weapon and select the “Extract Motif” option. Doing this will permanently destroy the weapon, leaving behind only a [Formless Shard](Formless_Shard.md).
 
 Having a Motif on a weapon will make your weapon will go translucent on critical, showcasing a glowing version of the weapon the Motif is based on and **increasing the windup of your critical by 0.15s**. Default critical Motifs do not increase your critical windup.
 
 ## Obtaining and using Motifs
 
-To obtain a Motif, use a [Smith's Alloy](<Smith's_Alloy.md>) on a compatible weapon and choose the _Extract Motif_ option. Doing so will **destroy your weapon**, replacing it with a [Formless Shard](Formless_Shard.md) that will grant you the weapon's Motif as a item.
+To obtain a Motif, use a [Smith's Alloy](<Smith's_Alloy.md>) on a compatible weapon and choose the _Extract Motif_ option. Doing so will **destroy your weapon**, replacing it with a [Formless Shard](Formless_Shard.md) that will grant you the weapon's Motif as an item.
 
 Use the Motif item from your inventory to equip it onto your weapon. This will **replace your critical attack** with the critical attack of the weapon your Motif came from. For example, if you have a Crescent Cleaver Motif on your [Zweihander](Zweihander.md), it will have [Crescent Cleaver](Crescent_Cleaver.md)'s critical instead of the base Greatsword one. There are limitations and not every weapon can equip Motifs. See below for more information.
 
@@ -24,7 +24,7 @@ Motifs can be unequipped at any time by right clicking your equipped weapon; the
 
 ## Compatibility
 
-Motifs can only be applied to weapons that can be extracted for their Motif or weapons that can have their unique criticals overwritten. This means, most weapons with unique criticals **cannot** cannot equip a Motif. For example, You can apply a Motif to [The Flippers of Fate](The_Flippers_of_Fate.md) or [Crescent Cleaver](Crescent_Cleaver.md), but you cannot apply a Motif to [Katana](Katana.md). Motifs cannot be applied to [Soulwrought Weapons](Crazy_Slots.md#weapons).
+Motifs can only be applied to weapons that can be extracted for their Motif or weapons that can have their unique criticals overwritten. This means, most weapons with unique criticals **cannot** cannot equip a Motif. For example, you can apply a Motif to [The Flippers of Fate](The_Flippers_of_Fate.md) or [Crescent Cleaver](Crescent_Cleaver.md), but you cannot apply a Motif to [Katana](Katana.md). Motifs cannot be applied to [Soulwrought Weapons](Crazy_Slots.md#weapons).
 
 Any weapon with a default critical (excluding Fist, Pistol, Rifle, and Greatcannon weapons) can be used to obtain a Motif. Base critical Motifs can **only** be equipped onto other weapons within that weapon class with the only exception being the 'Sword' Motif.
 

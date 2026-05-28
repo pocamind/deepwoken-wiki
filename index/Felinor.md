@@ -1,9 +1,9 @@
 ---
 title: Felinor
-revid: 206144
+revid: 211590
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Aspects]
+categories: [Aspects]
 ---
 
 # Felinor
@@ -32,16 +32,13 @@ One of the most distinct aspects in Lumen for their infamous cat ears, Felinor g
 <table>
 <tbody>
 <tr>
-  <td>File:Nightchild.png</td>
-  <td><b>Nightchild</b>
-  <ul>
-    <li>"<i>Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces.</i>"
+  <td></td>
+  <td><b>Nightchild</b><p><i>Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces.</i></p>
   <ul>
     <li>1.25x agility when climbing, 1.5x agility when climbing wooden surfaces.</li>
     <li>Starts with 20% <a href="Stealth.md">Stealth</a> and has a 1.2x Stealth gain multiplier.
   <ul>
     <li>This Stealth gain multiplier <b>does not</b> apply to Stealth gained from Crouching, <a href="Talents.md#lowstride">Lowstride</a>, <a href="Murmur%253A_Tacet.md">Tacet</a>, or <a href="Talents.md#tacet-minimization">Tacet Minimization</a>.</li>
-  </ul></li>
   </ul></li>
   </ul></td>
 </tr>
@@ -63,13 +60,10 @@ One of the most distinct aspects in Lumen for their infamous cat ears, Felinor g
 <table>
 <tbody>
 <tr>
-  <td>File:Nightchild.png</td>
-  <td><b>Innate Agility</b>
-  <ul>
-    <li><i>You hinge on your instincts to keep you alive, even in battle, Slightly increase your dodge frames.</i>
+  <td></td>
+  <td><b>Innate Agility</b><p><i>You hinge on your instincts to keep you alive, even in battle, Slightly increase your dodge frames.</i></p>
   <ul>
     <li>x.xxs extra frames of invincibility when you dodge.</li>
-  </ul></li>
   </ul></td>
 </tr>
 </tbody>

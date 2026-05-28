@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 211465
+revid: 211619
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -957,11 +957,11 @@ These Talents are found in the _Aeromancer_ category.
 |  | Aeronade  
 (40 Galebreathe, Galetrap (Mantra)) | Your trap automatically detonates on contact with an object. (+2 Passive Agility) |  |
 |  | Stifled Jump  
-(Suffocating Impact) | [Suffocating](Status_Effects.md#suffocate) now applies [Dazed](Status_Effects.md#dazed) if enemies jump. Suffocated PvE enemies now also get [Sluggish](Status_Effects.md#sluggish) when they are suffocated. (+2 Passive Agility) |  |
+(Suffocating Impact) | [Suffocation](Status_Effects.md#b) now applies [Dazed](Status_Effects.md#b) if enemies jump. Suffocated PvE enemies now also get [Sluggish](Status_Effects.md#b) when they are suffocated. (+2 Passive Agility) |  |
 |  | Suffocating Impact  
 (35 Galebreathe, 15 Strength) | When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility) |  |
 |  | Gale Trap  
-(40 Galebreathe) | Knocking a player places a wind trap, causing anyone to pick up that body to get sent flying. Gain a speed boost picking up the body yourself. Killing PvE opponents gives you [Gale Reflection](Status_Effects.md#gale-reflection) instead. | Gale Reflection procs upon getting hit by an enemy, granting damage reduction and placing a Gale Trap on them. The damage of the Gale Trap scales with the strength of the enemy you killed. |
+(40 Galebreathe) | Knocking a player places a wind trap, causing anyone to pick up that body to get sent flying. Gain a speed boost picking up the body yourself. Killing PvE opponents gives you [Gale Reflection](Status_Effects.md#b) instead. | Gale Reflection procs upon getting hit by an enemy, granting damage reduction and placing a Gale Trap on them. The damage of the Gale Trap scales with the strength of the enemy you killed. |
 |  | Vacuum Punch  
 (20 Galebreathe, Gale Punch) | Your Gale Punch pulls enemies in before you hit them. |  |
 
@@ -976,7 +976,7 @@ These Talents are found in the _Galeforce_ category.
 |  | Breathing Impact  
 (30 Galebreathe) | Knocking enemies into objects with wind spells deals additional blunt damage based on how hard they're hit. |  |
 |  | Inhale  
-(60 Galebreathe) | Cancelling a wind spell stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. | This will stack the [Mantra Modifiers](Mantra_Modifiers.md) that were on the Inhaled mantra onto the next one you cast. Additionally, the next gale mantra you cast after Inhaling will receive a damage buff. This damage buff is (Inhaled mantra's level times 2)%; meaning a level 1 Inhale will be +2% damage while a level 5 Inhale will be +10%. Inhaling will also grant a Speed Boost and will imbue your melees with wind. |
+(60 Galebreathe) | Cancelling a wind spell stores its Power in your lungs for 5 seconds, empowering the next wind spell cast in that time. | This will stack the [Mantra Modifiers](Mantra_Modifiers.md) that were on the Inhaled mantra onto the next one you cast. Additionally, the next gale mantra you cast after Inhaling will receive a damage buff. This damage buff is (Inhaled mantra's level times 2)%; meaning a level 1 Inhale will be +2% damage while a level 5 Inhale will be +10%. Inhaling will also grant a Speed Boost and will imbue your melees with wind. |
 
 **Legion Shock Trooper:**
 
@@ -999,19 +999,8 @@ These Talents are found in the _Maestro's Technique_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
-|  | 
-Silencer's Song  
-(100 Galebreathe, 100 Weapon, Silencer's Blade)
-
- | 
-
-Silencer's Blade now procs on your mantras.
-
- | 
-
-Landing a Mantra on a [Suffocated](Status_Effects.md#suffocate) opponent will proc Silencer's Blade, extending the duration of the suffocation and granting you a speed boost.
-
- |
+|  | Silencer's Song  
+(100 Galebreathe, 100 Weapon, Silencer's Blade) | Silencer's Blade now procs on your mantras. | Landing a Mantra on a [Suffocated](Status_Effects.md#suffocation) opponent will proc Silencer's Blade, extending the duration of the suffocation and granting you a speed boost. |
 
 **Scholar of the Cloud:**
 
@@ -1029,10 +1018,10 @@ These Talents are found in the _Silencer_ category.
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 |  | A World Without Song  
-(75 Galebreathe, POWER 10, Silencer's Blade) | Every 3 hits with a Wind Mantra now procs [Suffocating.](Status_Effects.md#suffocate) | Procs on every 4 hits if you have less than 75 Galebreathe.  
+(75 Galebreathe, Power 10, Silencer's Blade) | Every 3 hits with a Wind Mantra now procs [Suffocating.](Status_Effects.md#suffocate) | Procs on every 4 hits if you have less than 75 Galebreathe.  
 Procs on every 5 hits if you have less than 40 Galebreathe. |
 |  | Silencer's Blade  
-(60 Galebreathe, POWER 10) | Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. | Grants a speed boost on proc. |
+(60 Galebreathe, Power 10) | Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. | Grants a speed boost on proc. |
 
 **Specter:**
 
@@ -1058,7 +1047,7 @@ These Talents are found in the _Whisper_ category.
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 |  | Haunted Gale  
-(40 Galebreathe, POWER 8) | Landing 3 Galebreathe Mantras without whiffing calls for a Haunted Phantom. The Phantom will attack alongside you for the next 8s before dissipating. | On proc, gain the Haunted status effect; all Mantras will spawn a Haunted Gale ghost that will attack your target, dealing Galebreathe damage. The ghost will only attack once per Mantra cast.
+(40 Galebreathe, Power 8) | Landing 3 Galebreathe Mantras without whiffing calls for a Haunted Phantom. The Phantom will attack alongside you for the next 8s before dissipating. | On proc, gain the Haunted status effect; all Mantras will spawn a Haunted Gale ghost that will attack your target, dealing Galebreathe damage. The ghost will only attack once per Mantra cast.
   
 Gale Wisp will extend the duration of Haunted by 3 seconds.
 

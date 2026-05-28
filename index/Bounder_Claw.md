@@ -1,6 +1,6 @@
 ---
 title: Bounder Claw
-revid: 195666
+revid: 211604
 source: https://deepwoken.fandom.com/wiki/Bounder_Claw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients, Drops]
@@ -18,11 +18,11 @@ categories: [Items, Ingredients, Drops]
 | pass down | No |
 | desc | Deceptively sharp, yet simultaneously brittle. |
 
-## Descriptio
+## Description
 
 Bounder Claw is a drop from [Bounders](Bounder.md), they can be found in the [Second Layer](Second_Layer.md) and [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
-When [Light Hook](Light_Hook.md)\-ing out of the [Second Layer](Second_Layer.md), you still keep the Bounder Claw.
+If you use the [Light Hook](Light_Hook.md) to get out of the [Second Layer](Second_Layer.md), you will keep the Bounder Claw.
 
 ## Usage
 

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 210173
+revid: 211610
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1286,7 +1286,7 @@ These Talents are found in the _Frostthorn_ category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Glacial Coasting  
-(50 Frostdraw, 25 Agility, Orbital Ice) | Sliding while Orbital Ice is active leaves trails of ice. (+1 Passive Agility) | Sliding leaves behind trails of ice. |
+(50 Frostdraw, 25 Agility, Orbital Ice) | Sliding while Orbital Ice is active leaves trails of ice. (+1 Passive Agility) |  |
 |  | Orbital Ice  
 (65 Frostdraw) | When landing a parry while standing on ice, automatically forms a ring of gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage, scaling with Frostdraw. (+2 Passive Agility) | Parrying while standing on ice creates a ring that absorbs 15% of the physical damage you take.  
 90 Second Cooldown. |

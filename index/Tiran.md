@@ -1,9 +1,9 @@
 ---
 title: Tiran
-revid: 185031
+revid: 211600
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Aspects]
+categories: [Aspects]
 ---
 
 # Tiran
@@ -30,13 +30,11 @@ Tiran is a rare [aspect](Aspects.md) that has a bird motif. They have special ci
 <table>
 <tbody>
 <tr>
-  <td><figure>File:Feather glider.png<figcaption></figcaption></figure></td>
-  <td><b>Feathered Glider</b>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td><b>Feathered Glider</b><p><i>As a show of independence when they come of age, Tirans will strike out on their own with just their hand-crafted glider, gliding down from the mountains peaks where they make their homes. You take 10% less fall damage.</i></p>
   <ul>
-    <li><i>"As a show of independence when they come of age, Tirans will strike out on their own with just their hand-crafted glider, gliding down from the mountains peaks where they make their homes. You take 10% less fall damage."</i>
-  <ul>
-    <li>Spawn with a Feathered Glider with infinite uses. The descent rate of it is also slightly lower, making you travel slightly further than with a regular glider.</li>
-  </ul></li>
+    <li>Spawn with a 'Feathered' Glider with infinite uses. The descent rate of it is also slightly lower, making you travel slightly further than with a regular glider.</li>
+    <li>Press <kbd><abbr>N</abbr></kbd> while midair to equip your glider.</li>
   </ul></td>
 </tr>
 <tr>
@@ -55,13 +53,10 @@ Tiran is a rare [aspect](Aspects.md) that has a bird motif. They have special ci
 <table>
 <tbody>
 <tr>
-  <td><figure>File:Feather glider.png<figcaption></figcaption></figure></td>
-  <td><b>Glide Mastery</b>
-  <ul>
-    <li><i>"Experience using the glider you crafted results in being able to glide faster in the air. You've also trained to quickly pull it out in dire situations, resulting in you no longer taking fall damage"</i>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td><b>Glide Mastery</b><p><i>Experience using the glider you crafted results in being able to glide faster in the air. You've also trained to quickly pull it out in dire situations, resulting in you no longer taking fall damage</i></p>
   <ul>
     <li>Your Feathered Glider is now sped up by X% and all fall damage is disabled.</li>
-  </ul></li>
   </ul></td>
 </tr>
 </tbody>

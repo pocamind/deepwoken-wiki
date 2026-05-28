@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 211323
+revid: 211638
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1787,22 +1787,22 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Heretic
 
--   _All the Dead Gods_ \[Rare Talent, Intelligence, Willpower\] - Your Basic Attacks now apply anti-heal and 5% [Heal Boost](Status_Effects.md#heal-boost) against PvE for 8s. (+7 Sanity)
+-   _All the Dead Gods_ \[Rare Talent, Intelligence, Willpower\] - Your Basic Attacks now apply anti-heal and 5% [Heal Boost](Status_Effects.md#b) against PvE for 8s. (+7 Sanity)
     -   Whenever you land an M1 or critical with the M1 tag, apply [Anti-Heal](Status_Effects.md#anti-heal) for 8 seconds.
     -   All the Dead Gods' anti-heal effectiveness for sources of active healing scales on your combined Willpower and Intelligence investment. This has a minimum value of 70% at 55 combined points of Intelligence and Willpower, and a maximum value of 100% at 105 combined points.
         -   All the Dead Gods loses 0.6% anti-heal for every **combined** point of Intelligence and Willpower below 105. For example, 80 combined points will have 85% anti-heal.
     -   All the Dead Gods' anti-heal effectiveness for sources of passive healing is always 100% regardless of your combined investment. Sources of passive healing include: [campfires](Campfire_Pit.md), Conditioned Runner, [Curse of the No Life King](Curse_of_the_No_Life_King.md), Chorus of Souls, and natural health regeneration.
     -   Wearing a [Ring of Pestilence](Ring_of_Pestilence.md) increases All the Dead Gods' anti-heal duration by 4 seconds; from 8 to 12.
     -   The anti-heal cannot be procced on allies, and it does not affect healthpacks.
-    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all non-passive healing gained from enemies who are currently affected by your anti-heal. This Talent grants +5% Heal Boost.
+    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all offensive healing (such as from [Bloodless Gems](Bloodless_Gem.md)) gained from targeting PvE enemies who are currently affected by your [Anti-Heal](Status_Effects.md#anti-heal). All Heal Boost sources are additive to eachother, and are applied as long as the target is suffering from any type of [Anti-Heal](Status_Effects.md#anti-heal). This Talent grants +5% Heal Boost.
     -   Prerequisites: 65 Willpower, 40 Intelligence
 
--   _**All Above, Gods Below**_ \[Advanced Talent, Intelligence, Willpower\] - Any healing your opponent were to receive while All The Dead Gods is active on them is stolen and given to you, increase your PvE [Heal Boost](Status_Effects.md#heal-boost) to 15% as well. (+20 Sanity)
+-   _**All Above, Gods Below**_ \[Advanced Talent, Intelligence, Willpower\] - Any healing your opponent were to receive while All The Dead Gods is active on them is stolen and given to you, increase your PvE [Heal Boost](Status_Effects.md#b) to 15% as well. (+20 Sanity)
     -   Though not visually displayed, the duration of this effect is separate from your anti-heal.
     -   All Above, Gods Below's duration scales on your Willpower and Intelligence investment. At 200 combined invest, it will last for the full duration of your All the Dead Gods. For every point below 200, All Above, Gods Below's duration will be reduced by 1% (relative to All the Dead Gods), down to a minimum of 50% of All the Dead Gods duration at 150 combined invest.
     -   This will not proc if you are the one who applied the healing; you cannot heal yourself by healing your opponent.
     -   This only procs on non-passive healing. For example (non exhaustive list): something like [Flame Wisp](Flamecharm.md#flame-wisp), spits, or [Bloodless Gem](Bloodless_Gem.md) will proc this effect, but campfires, Conditioned Runner, or [Curse of the No Life King](Curse_of_the_No_Life_King.md) will not.
-    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all non-passive healing gained from enemies who are currently affected by your anti-heal. This Talent grants +15% Heal Boost.
+    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all offensive healing (such as from [Bloodless Gems](Bloodless_Gem.md)) gained from targeting PvE enemies who are currently affected by your [Anti-Heal](Status_Effects.md#anti-heal). All Heal Boost sources are additive to eachother, and are applied as long as the target is suffering from any type of [Anti-Heal](Status_Effects.md#anti-heal). This Talent grants +15% Heal Boost.
     -   Prerequisites: All the Dead Gods, 100 Willpower, 100 Intelligence
 
 -   _Heretic's Sutra_ \[Quest Talent, Willpower\] - A chant that steers you into the state of [Insanity](Insanity.md) for 20 seconds.
@@ -1819,11 +1819,11 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         -   Note that this passive does **NOT** work with _Lose Your Mind_, as it only procs based on your current sanity percentage. And while Heretic's Sutra can help with sanity loss, it does not passively activate _Lose Your Mind_.
     -   Prerequisites: 80 Willpower, have had tier 1 insanity (shivering), and talk to [Kasen](Kasen.md), located in [Layer 2 Floor 1](Second_Layer/The_Ethironal_Shrine.md).
 
--   _Sin Stacker_ \[Rare Talent, Willpower\] - Your All The Dead Gods' duration is now based on how many stacks of antiheal you already have on your opponent, increase your PvE [Heal Boost](Status_Effects.md#heal-boost) to 10% instead. (+8 Sanity)
+-   _Sin Stacker_ \[Rare Talent, Willpower\] - Your All The Dead Gods' duration is now based on how many stacks of antiheal you already have on your opponent, increase your PvE [Heal Boost](Status_Effects.md#b) to 10% instead. (+8 Sanity)
     -   By landing additional basic attacks on a target affected by All the Dead Gods' Anti-Heal, you can increase the duration of subsequently applied Anti-Heal stacks by 1 second per Anti-Heal stacks affected the target.
         -   Starting at 1 Anti-Heal stack lasting 8 seconds, applying another will make the second stack last 9 seconds, and applying another will make the third stack last 10 seconds, etc.
     -   As Anti-Heal stacks decay, the additional duration they apply to future stacks will be nullified. For example, if you apply Stack 1 for 8 seconds and Stack 2 for 9 seconds, then wait until Stack 1 runs out of duration before landing another hit, Anti-Heal from the third M1 will only last 9 seconds.
-    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all non-passive healing gained from enemies who are currently affected by your anti-heal. This Talent grants +10% Heal Boost.
+    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all offensive healing (such as from [Bloodless Gems](Bloodless_Gem.md)) gained from targeting PvE enemies who are currently affected by your [Anti-Heal](Status_Effects.md#anti-heal). All Heal Boost sources are additive to eachother, and are applied as long as the target is suffering from any type of [Anti-Heal](Status_Effects.md#anti-heal). This Talent grants +10% Heal Boost.
     -   Prerequisites: All the Dead Gods, 90 Willpower
 
 ### Human Architecture

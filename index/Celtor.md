@@ -1,9 +1,9 @@
 ---
 title: Celtor
-revid: 211440
+revid: 211579
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Aspects]
+categories: [Aspects]
 ---
 
 # Celtor
@@ -33,7 +33,7 @@ Celtor are a common [aspect](Aspects.md) with a pale-ish green skin, grey hair a
 <table>
 <tbody>
 <tr>
-  <td><figure>File:Seaborne.png<figcaption></figcaption></figure></td>
+  <td><figure><figcaption></figcaption></figure></td>
   <td><b>Seaborne</b>
   <ul>
     <li>"<i>You have a keen understanding of ships and their maintenance.</i>"
@@ -61,7 +61,7 @@ Celtor are a common [aspect](Aspects.md) with a pale-ish green skin, grey hair a
 <table>
 <tbody>
 <tr>
-  <td><figure>File:Seaborne.png<figcaption></figcaption></figure></td>
+  <td><figure><figcaption></figcaption></figure></td>
   <td><b>Depths Denizen</b>
   <ul>
     <li><i>"The city you once called home is now your only way out of the depths, perhaps you could use this to your advantage. Gain extra leeway when attempting to escape the depths."</i>
