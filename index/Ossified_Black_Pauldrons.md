@@ -1,6 +1,6 @@
 ---
 title: Ossified Black Pauldrons
-revid: 210701
+revid: 211554
 source: https://deepwoken.fandom.com/wiki/Ossified_Black_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Arms, Pauldrons, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Pathfinder Exclusive, Equipment, Arms, Pauldrons, Craftable, Equipm
 | set talent | Captain's Call |
 | bankable | No |
 | droppable | No |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | No |
 | obtainment | Crafting 1 Blacksteel Pauldrons + 1 Shiva's Codex + 1 Ethereal Osseous Plate in the Lost Forge |
 | description | ... |

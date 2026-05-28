@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 210174
+revid: 211465
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -251,7 +251,7 @@ Wind [ResistanceGalebreathe](Galebreathe.md)
 -   Has a windup of 0.65 seconds with a 15 second cooldown.
 -   Highly recommended that you turn off shift-lock on use.
 -   Has great vertical mobility, almost acting like a double jump at times.
--   Can be used in combination with the [Cap Artist](Talents.md#cap-artist) Talent to ragdoll and fling yourself insanely far, but only in dungeons, such as layer 2.
+-   Can be used in combination with the [Cap Artist](Talents.md#cap-artist) Talent to ragdoll and fling yourself insanely far.
 
  |
 | 

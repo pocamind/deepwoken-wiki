@@ -1,9 +1,9 @@
 ---
 title: Auroran
-revid: 180451
+revid: 211551
 source: https://deepwoken.fandom.com/wiki/Auroran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Exclusive, Pages with broken file links, Aspects, Exclusive Aspects, Article stubs]
+categories: [Exclusive, Aspects, Exclusive Aspects, Article stubs]
 notices:
   - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
 ---
@@ -25,7 +25,7 @@ Not a lot of information known about this race, though it is a unique Gremor var
 <table>
 <tbody>
 <tr>
-  <td>File:Navae's Guidance.png</td>
+  <td></td>
   <td><b>Navae's Guidance</b>
   <ul>
     <li>"<i>Navae's star guides your path, showing you the way forwards. You are less prone to starvation</i>"

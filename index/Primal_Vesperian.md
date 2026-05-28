@@ -1,9 +1,9 @@
 ---
 title: Primal Vesperian
-revid: 196932
+revid: 211560
 source: https://deepwoken.fandom.com/wiki/Primal_Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Exclusive, Pages with broken file links, Aspects, Exclusive Aspects, Developer Spec]
+categories: [Exclusive, Aspects, Exclusive Aspects, Developer Spec]
 notices:
   - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
 ---
@@ -26,12 +26,12 @@ An alternate version (subrace) of Vesperian with dark chitin and white markings,
 
 _This is not an entirely different aspect in and of itself, more so a racial variant with special properties._
 
-## Racial Traits
+## Traits
 
 <table>
 <tbody>
 <tr>
-  <td>File:Chitin.png</td>
+  <td></td>
   <td><b>Chitin</b>
   <ul>
     <li>"<i>You have a layer of natural armor that replenishes when you rest.</i>"

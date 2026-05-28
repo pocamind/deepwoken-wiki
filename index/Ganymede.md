@@ -1,9 +1,9 @@
 ---
 title: Ganymede
-revid: 207220
+revid: 211555
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Aspects]
+categories: [Aspects]
 ---
 
 # Ganymede
@@ -48,7 +48,7 @@ Ganymedes are a snail-based [aspect](Aspects.md) in Deepwoken that appear with d
 <table>
 <tbody>
 <tr>
-  <td>File:Navae's Guidance.png</td>
+  <td></td>
   <td><b>Deepfolk</b>
   <ul>
     <li>"<i>The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects, as well as using less Knowledge in Knowledge exchanges.</i>"
@@ -76,7 +76,7 @@ Ganymedes are a snail-based [aspect](Aspects.md) in Deepwoken that appear with d
 <table>
 <tbody>
 <tr>
-  <td>File:Navae's Guidance.png</td>
+  <td></td>
   <td><b>Steady Mind</b>
   <ul>
     <li>"<i>Despite the finality of your mind and body succumbing to the effects of the depths, you manage to ward it off for a little longer.</i>"

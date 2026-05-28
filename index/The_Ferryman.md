@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 209902
+revid: 211474
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Voiced Characters]

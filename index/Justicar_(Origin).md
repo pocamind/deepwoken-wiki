@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 211334
+revid: 211464
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -238,7 +238,7 @@ Upon taking the Warder path, you will automatically be granted [Warder's Attire]
 | --- | --- | --- | --- | --- | --- | --- |
 | 
 
-**Karita Aid** (☆☆☆)
+**Alsin's Aid** (☆☆☆)
 
 **Support Mantra**
 
@@ -246,7 +246,7 @@ _Give your ally an aura that grants them more speed, and increase the amount of 
 
  | 
 
-## Karita Aid (☆☆☆)
+## Alsin's Aid (☆☆☆)
 
   
 **Support Mantra**  

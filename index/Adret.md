@@ -1,9 +1,9 @@
 ---
 title: Adret
-revid: 196181
+revid: 211566
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Aspects]
+categories: [Aspects]
 ---
 
 # Adret
@@ -32,7 +32,7 @@ Adret are a common [aspect](Aspects.md) that have blue skin with orange eyes and
 <table>
 <tbody>
 <tr>
-  <td><figure>File:Seaborne.png<figcaption></figcaption></figure></td>
+  <td><figure><figcaption></figcaption></figure></td>
   <td><b>Maudet</b>
   <ul>
     <li><i>"Your understanding of your destiny is such that learning new things comes naturally to you. People appreciate your diplomatic way of speaking."</i>

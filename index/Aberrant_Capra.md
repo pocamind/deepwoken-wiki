@@ -1,9 +1,9 @@
 ---
 title: Aberrant Capra
-revid: 177121
+revid: 211562
 source: https://deepwoken.fandom.com/wiki/Aberrant_Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Exclusive, Pages with broken file links, Aspects, Exclusive Aspects, Developer Spec]
+categories: [Exclusive, Aspects, Exclusive Aspects, Developer Spec]
 notices:
   - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
 ---
@@ -26,12 +26,12 @@ The Aberrant Capra is a subrace of the [Capra](Capra.md). Much like the [Primal 
 
 The Aberrant Capra has goat-like ears, blue eyes, four dark curved horns and spikes protruding from their face.
 
-## Racial Traits
+## Traits
 
 <table>
 <tbody>
 <tr>
-  <td>File:Seaborne.png</td>
+  <td></td>
   <td><b>Mark of Jurik</b> (Moon)
   <ul>
     <li>Buffs the sanity of one person they choose around them as long as they are at a campfire or level 5+</li>

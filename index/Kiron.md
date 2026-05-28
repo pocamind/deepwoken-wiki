@@ -1,9 +1,9 @@
 ---
 title: Kiron
-revid: 187513
+revid: 211553
 source: https://deepwoken.fandom.com/wiki/Kiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Aspects]
+categories: [Aspects]
 ---
 
 # Kiron
@@ -29,7 +29,7 @@ Kirons are a rare [aspect](Aspects.md) with bat-like features. Their Agility and
 <table>
 <tbody>
 <tr>
-  <td>File:Navae's Guidance.png</td>
+  <td></td>
   <td><b>Echolocator</b>
   <ul>
     <li>"<i>Your highly tuned hearing helps you navigate, seeing better in the dark and sensing potential threats.</i>"
@@ -55,18 +55,7 @@ Kirons are a rare [aspect](Aspects.md) with bat-like features. Their Agility and
 <table>
 <tbody>
 <tr>
-  <td>File:Navae's Guidance.png</td>
-  <td><b>Echolocator</b>
-  <ul>
-    <li>"<i>Your highly tuned hearing helps you navigate, seeing better in the dark and sensing potential threats.</i>"
-  <ul>
-    <li>When any nearby player unsheathes their weapon or an event spawns, their location will be pinged briefly.</li>
-    <li>Echolocator will ping through walls, even bypassing things like <a href="Murmur%253A_Tacet.md">Tacet</a> or other forms of invisibility.</li>
-  </ul></li>
-  </ul></td>
-</tr>
-<tr>
-  <td>File:Navae's Guidance.png</td>
+  <td></td>
   <td><b>Acute Hearing</b>
   <ul>
     <li><i>After years of using Echolocation, you've trained your ears to sense danger even further away. You are also able to sense when someone completes a job.</i>
@@ -109,7 +98,7 @@ Kirons were once isolated within [Saramaed Hollow](Saramaed_Hollow.md), possibly
 
 ### Echolocator
 
-Whenever nearby enemies unsheathe their weapons or an event spawns, ping the danger with your acute senses. This bypasses [Tacet](Murmur%253A_Tacet.md) and [Lowstride](Talents.md#assassin).
+Whenever nearby enemies unsheathe their weapons or an event spawns, ping the danger with your acute senses. This bypasses [Tacet](Murmur%253A_Tacet.md) and [Lowstride](Talents.md#lowstride).
 
 ## Features
 

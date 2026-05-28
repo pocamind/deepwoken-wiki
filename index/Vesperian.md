@@ -1,9 +1,9 @@
 ---
 title: Vesperian
-revid: 210666
+revid: 211559
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Aspects]
+categories: [Aspects]
 ---
 
 # Vesperian
@@ -32,7 +32,7 @@ Vesperians are described as a beetle themed aspect with organically grown masks 
 <table>
 <tbody>
 <tr>
-  <td>File:Chitin.png</td>
+  <td></td>
   <td><b>Chitin</b>
   <ul>
     <li>"<i>You have a layer of natural armor that replenishes when you rest.</i>"
@@ -62,7 +62,7 @@ Vesperians are described as a beetle themed aspect with organically grown masks 
 <table>
 <tbody>
 <tr>
-  <td><figure>File:Chitin.png<figcaption></figcaption></figure></td>
+  <td><figure><figcaption></figcaption></figure></td>
   <td><b>Hardened Shell</b>
   <ul>
     <li><i>"Your Natural Armor grows sturdier, being able to take more hits before breaking."</i>

@@ -1,9 +1,9 @@
 ---
 title: Gremor
-revid: 182565
+revid: 211544
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Aspects]
+categories: [Aspects]
 ---
 
 # Gremor
@@ -33,7 +33,7 @@ Gremors are an [aspect](Aspects.md) similar to deer. They appear with greenish, 
 <table>
 <tbody>
 <tr>
-  <td>File:Navae's Guidance.png</td>
+  <td></td>
   <td><b>Navae's Guidance</b>
   <ul>
     <li>"<i>Navae's star guides your path, showing you the way forward. Right-clicking on maps sets a Waymarker which can be followed. You are less prone to starvation.</i>"
