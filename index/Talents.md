@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 211638
+revid: 211645
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -15,7 +15,7 @@ categories: [Mechanics, Outfits, Skills, Talents]
 -   FIND A SPECIFIC TALENT: Input the Talent name to find the specific Talent and its requirements.
     -   _(i.e "Orbital lce" to find the description, requirements, and effect for Orbital lce)_
 -   FIND TALENTS GIVEN A REQUIREMENT: Input an investment number along with its attribute to find Talents that require that many points in that attribute.
-    -   _(i.e "40 Agility" to find Talents that you will have access to at 40 Agility)_
+    -   _(i.e "40 Agility" to find Talents that require 40 Agility)_
 -   FIND A GROUP OF TALENTS: Input a tree/category name to find Talents pertaining to that tree/category.
     -   _(i.e "Butterfly" to find Talents that are within Butterfly)_
 -   Each Talent has a list of tags listed after the Talent's name. These tags list the Talent's rarity and the name of the individual attribute(s) required to obtain it.
@@ -225,7 +225,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   [Galetrap](Galebreathe.md#galetrap) normally waits for contact with a target to begin its tornado, [Galetrap](Galebreathe.md#galetrap) now detonates once the trap stops moving.
     -   Prerequisite: [Galetrap](Galebreathe.md#galetrap) (Mantra)
 
--   Gale Trap \[Common Talent, Galebreathe\] - Knocking a player places a wind trap, causing anyone to pick up that body to get sent flying. Gain a speed boost picking up the body yourself. Killing PvE opponents gives you [Gale Reflection](Status_Effects.md#gale-reflection) instead.
+-   Gale Trap \[Common Talent, Galebreathe\] - Knocking a player places a wind trap, causing anyone to pick up that body to get sent flying. Gain a speed boost picking up the body yourself. Killing PvE opponents gives you [Gale Reflection](Status_Effects.md#b) instead.
     -   **Refer to [Galetrap](Galebreathe.md#galetrap) if you are looking for the [Galebreathe](Galebreathe.md) mantra instead.**
     -   Marks players knocked by you for 6s with "Gale Trap".
     -   If the user picks up a target they've marked, they will gain a 35% speed boost for 20 seconds.
@@ -233,10 +233,10 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Gale Reflection procs upon getting hit by an enemy, granting damage reduction to the attack and placing a Gale Trap on them. The damage of the Gale Trap scales with the strength of the enemy you killed.
     -   Prerequisite: Wind Step, 50 Galebreathe
 
--   Suffocating Impact \[Common Talent, Strength, Galebreathe\] - Flourishing enemies into walls applies [Winded](Status_Effects.md#winded) and [Suffocating](Status_Effects.md#suffocation) for a short duration. (+2 Passive Agility)
+-   Suffocating Impact \[Common Talent, Strength, Galebreathe\] - Flourishing enemies into walls applies [Winded](Status_Effects.md#b) and [Suffocation](Status_Effects.md#b) for a short duration. (+2 Passive Agility)
     -   Prerequisites: 15 Strength, 35 Galebreathe
 
--   _Stifled Jump_ \[Rare Talent, Galebreathe\] - [Suffocating](Status_Effects.md#suffocation) now applies [Dazed](Status_Effects.md#dazed) if enemies jump. Suffocated PvE enemies now also get [Sluggish](Status_Effects.md#sluggish) when they are suffocated. (+2 Passive Agility)
+-   _Stifled Jump_ \[Rare Talent, Galebreathe\] - [Suffocation](Status_Effects.md#b) now applies [Dazed](Status_Effects.md#b) if enemies jump. Suffocated PvE enemies now also get [Sluggish](Status_Effects.md#b) when they are suffocated. (+2 Passive Agility)
     -   The Daze effect lasts for 1 second.
     -   The Sluggish status effect applies a -15% damage debuff to affected targets.
     -   Prerequisite: Suffocating Impact
@@ -340,7 +340,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Annihilator
 
--   _**Collapsed Lung**_ \[Advanced Talent, Strength\] - Block breaking an opponent closes off their ability to Vent for 8s, with this duration scaling with Strength. PvE enemies instead get [Collapsed](Status_Effects.md#collapsed).
+-   _**Collapsed Lung**_ \[Advanced Talent, Strength\] - Block breaking an opponent closes off their ability to Vent for 8s, with this duration scaling with Strength. PvE enemies instead get [Collapsed](Status_Effects.md#b).
     -   Duration scales with investment up to its requirement, this effect lasts 8 seconds at 100 Strength and loses 0.04s for every investment point below 100 Strength.
         -   Collapsed Lung will have a 7 second duration at 75 Strength.
     -   Collapsed decreases the posture damage affected targets do to you by 40%.
@@ -415,7 +415,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   Deep Wound \[Common Talent, Agility\] - Assassinating a target applies anti-heal for 20s and gives you a speed boost for 6s. Assassination damage now scales with level against mobs.
     -   The damage increase granted from this Talent is significantly high in PVE, allowing you to one shot some very tanky enemies like Authority Commander despite their 5000 HP.
-    -   Leaves red cloud particles similar to the Talent "All the Dead Gods" on targets hit.
+    -   Applies 60% [Anti-Heal](Status_Effects.md#deep-wound), signified by red cloud particles.
     -   This anti-heal won't stack with any other anti-heal, the higher potency effect will take priority.
     -   Prerequisite: 35 Agility
     -   The [Assassin's Hood](<Assassin's_Hood.md>) equipment has this Talent.
@@ -494,7 +494,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Increases your movement speed while blocking by 6.6%, from -25% movement speed to -18.4%.
     -   Prerequisite: 5 Fortitude
 
--   Perseverance \[Common Talent, Fortitude, Willpower\] - Reduces the duration you're [Ragdolled](Status_Effects.md#ragdoll) and [Unconscious](Status_Effects.md#unconscious) for by 25%. (+5 Sanity)
+-   Perseverance \[Common Talent, Fortitude, Willpower\] - Reduces the duration you're [Ragdolled](Status_Effects.md#ragdoll) and [Unconscious](Status_Effects.md#b) for by 25%. (+5 Sanity)
     -   This can stack with other Talents to reduce knock time even further. (Ex. Defiance)
     -   Prerequisites: 30 Fortitude, 30 Willpower
     -   The [Ignition Trailblazer](Ignition_Trailblazer.md) Outfit has this Talent.
@@ -549,7 +549,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Berserker
 
--   Berserk \[Common Talent, Strength\] - One with nothing to lose has everything to gain. Succumb to burning rage within and enter [Berserk State](Status_Effects.md#berserk-state).
+-   Berserk \[Common Talent, Strength\] - One with nothing to lose has everything to gain. Succumb to burning rage within and enter [Berserk State](Status_Effects.md#b).
     -   While in the Berserk State, your M1s will nullify your opponent's armor, bypassing it entirely, and your criticals will gain 10% PEN. However, your own armor bars, including Natural Armor, will be drained fully for the duration of the Berserk State.
     -   Lasts 20 seconds, halved to 10 seconds if you do not meet the Talent's Strength requirement.
     -   Berserk can be deactivated after 10 seconds by using the Talent tool again.
@@ -643,16 +643,19 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Bloodrender
 
--   Bloodrender \[Mantra Level Talent, Bloodrend\] - Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras replenish your blood, steal blood and apply 'Blood Poisoning'.
+-   Bloodrender \[Mantra Level Talent, Bloodrend\] - Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras replenish your blood, steal blood and apply '[Blood Poisoning](Status_Effects.md#blood-poisoning)'.
     -   Obtained at 1 Bloodrend
 
 -   Adept Bloodrender \[Mantra Level Talent, Bloodrend\] - You can now obtain 1-star Bloodrender mantras.
+    -   This Talent will be removed from you if you no longer meet its requirements.
     -   Obtained at 20 Bloodrend
 
 -   Expert Bloodrender \[Mantra Level Talent, Bloodrend\] - You can now obtain 2-star Bloodrender mantras.
+    -   This Talent will be removed from you if you no longer meet its requirements.
     -   Obtained at 30 Bloodrend
 
 -   Master Bloodrender \[Mantra Level Talent, Bloodrend\] - You can now obtain 3-star Bloodrender mantras. Your maximum blood capacity is 25% more than a normal individual. You regen blood at a quicker pace. (+5 Health)
+    -   This Talent will be removed from you if you no longer meet its requirements.
     -   Obtained at 50 Bloodrend.
 
 -   Crimson Fountain \[Common Talent, Bloodrend\] - Blockbreaking or flourishing an enemy now spills a pool of blood below them.
@@ -666,7 +669,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   The damage to healing conversion is 1:1, meaning 20 healing = 20 damage.
     -   It works on all (non passive) healing, meaning you can block break them and then use something that would heal them them for additional damage. This however wouldn't work on things like Health Regen Potions or Conditioned Runner as that they are forms of passive healing.
     -   This works on healing outside of combat.
-    -   Works with Mindsoothe, Blood Scourge bell, Grand Support, Fadetrimmer's healing spray and etc.
+    -   Works with [Mindsoothe](Oath%253A_Blindseer.md#mindsoothe), [Blood Scourge](Blood_Scourge.md) bell, [Grand Support](Attunement-less.md#reinforce), Fadetrimmer's Revitalizing [Hair Spray](Oath%253A_Fadetrimmer.md#hair-spray) and etc.
     -   Prerequisite: 95 Bloodrend, Master Bloodrender
 
 -   _Rush Hour_ \[Rare Talent, Bloodrend\] - Stab yourself to become stronger, faster, and deal increased blood bar damage.
@@ -748,13 +751,13 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         -   Obtaining this Talent at any point removes the quest part of the obtainment on all subsequent characters, immediately giving you the Talent upon reaching its attribute requirement.
 
 -   Light Weapons Unbounded \[Mastery Talent, Light Weapon\] - You have gained the ability to surpass your limits and train your Light Weapons attribute to its fullest.
-    -   Prerequisites: 75 Light Weapon, defeat any [boss](Bosses.md) / compete [Apprentice Kj](Apprentice_Kj.md)'s quest and speak to [Evengarde Rest](Evengarde_Rest.md)
+    -   Prerequisites: 75 Light Weapon, defeat any [boss](Bosses.md) // compete [Apprentice Kj](Apprentice_Kj.md)'s quest and speak to [Evengarde Rest](Evengarde_Rest.md)
 
 -   Medium Weapons Unbounded \[Mastery Talent, Medium Weapon\] - You have gained the ability to surpass your limits and train your Medium Weapons attribute to its fullest.
-    -   Prerequisites: 75 Medium Weapon, defeat any [boss](Bosses.md) / compete [Apprentice Kj](Apprentice_Kj.md)'s quest and speak to [Evengarde Rest](Evengarde_Rest.md)
+    -   Prerequisites: 75 Medium Weapon, defeat any [boss](Bosses.md) // compete [Apprentice Kj](Apprentice_Kj.md)'s quest and speak to [Evengarde Rest](Evengarde_Rest.md)
 
 -   Heavy Weapons Unbounded \[Mastery Talent, Heavy Weapon\] - You have gained the ability to surpass your limits and train your Heavy Weapons attribute to its fullest.
-    -   Prerequisites: 75 Heavy Weapon, defeat any [boss](Bosses.md) / compete [Apprentice Kj](Apprentice_Kj.md)'s quest and speak to [Evengarde Rest](Evengarde_Rest.md)
+    -   Prerequisites: 75 Heavy Weapon, defeat any [boss](Bosses.md) // compete [Apprentice Kj](Apprentice_Kj.md)'s quest and speak to [Evengarde Rest](Evengarde_Rest.md)
 
 -   Bloodrend Unbounded \[Mastery Talent, Bloodrend\] - You have gained the ability to surpass your limits and train your [Bloodrend](Bloodrend.md) to its fullest. (+10 Health)
     -   This Talent will be lost if you no longer meet its requirements.
@@ -800,13 +803,13 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Reduces the opponents speed by a flat value of 5.
     -   Prerequisites: Use a Greataxe, 30 Heavy Weapon
 
--   Brazen Blow \[Common Talent, Heavy Weapon\] - Greataxes Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor.
+-   Brazen Blow \[Common Talent, Heavy Weapon\] - Greataxes Attacking an enemy slowed by your Greataxe grants you temporary [Hyperarmor](Status_Effects.md#b).
     -   The hyperarmor lasts 1 second. 20 second cooldown.
     -   Only procs on weapon attacks.
     -   Does not proc on uppercut.
     -   Prerequisites: Use a Greataxe, Impairing Blow, 30 Heavy Weapon
 
--   _Heavy Fatigue_ \[Rare Talent, Heavy Weapon\] - Greataxes Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll and applies [Sluggish](Status_Effects.md#sluggish) to PvE enemies for a few seconds.
+-   _Heavy Fatigue_ \[Rare Talent, Heavy Weapon\] - Greataxes Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll and applies [Sluggish](Status_Effects.md#b) to PvE enemies for a few seconds.
     -   Reduces opponents roll distance by 25% for 2.5s.
     -   The Sluggish status effect applies a -15% damage debuff to affected targets.
     -   Does not proc on uppercut.
@@ -836,7 +839,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Does not proc from [Grand Fisher Plate](Grand_Fisher_Plate.md) or [Wormwarder Lantern](Wormwarder_Lantern.md) despite them reducing your movement speed.
     -   Prerequisites: 60 Fortitude
 
--   Knuckle Guard \[Common Talent, Strength, Fortitude\] - Hitting [Dazed](Status_Effects.md#dazed) enemies grants you 10% posture resistance for 15s.
+-   Knuckle Guard \[Common Talent, Strength, Fortitude\] - Hitting [Daze](Status_Effects.md#b) enemies grants you 10% posture resistance for 15s.
     -   Knuckle Guard's duration will be reduced by 0.1s for every point of Fortitude and Strength below its requirements, having a minimum possible duration of 10.4 seconds with 30 Fortitude and 4 Strength, though this isn't very realistic.
     -   Prerequisities: 55 Fortitude, 25 Strength
 
@@ -931,7 +934,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Charm Caster
 
--   Charismatic Cast \[Common Talent, Charisma\] - Landing a hit with a mantra on an enemy applies [Charmed](Status_Effects.md#charm). Allies recover from being knocked twice as quickly when [Charmed](Status_Effects.md#charm) by you.
+-   Charismatic Cast \[Common Talent, Charisma\] - Landing a hit with a mantra on an enemy applies [Charm](Status_Effects.md#b). Allies recover from being knocked twice as quickly when [Charm](Status_Effects.md#b) by you.
     -   This charm lasts 10s (5s against Disbelief Talent).
     -   Targets _you've_ Charmed will deal 10% less damage to you.
     -   When applying Charm to an already Charmed target, if the new Charm's _total duration_ is longer than the current Charm's _remaining duration_, the original Charm will be replaced. If not, nothing will happen. It is highly recommended that you have Lasting Charisma if you wish to get use out of Charismatic Cast during ganks and other team fights.
@@ -955,7 +958,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   If you do not meet Lasting Charisma's investment requirement, the additional Charm duration will be reduced, losing 0.166s for every point of Charisma you have under 55, capping at a minimum of 15.83 seconds of Charm with 30 Charisma.
     -   Prerequisites: 55 Charisma, Charismatic Cast
 
--   Tough Love \[Common Talent, Charisma\] - Deal 10% more damage to enemies [Charmed](Status_Effects.md#charm) by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you applies [Charmed](Status_Effects.md#charm) briefly.
+-   Tough Love \[Common Talent, Charisma\] - Deal 10% more damage to enemies [Charm](Status_Effects.md#b) by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you applies [Charm](Status_Effects.md#b) briefly.
     -   Charms for 2 seconds with a 1 second cooldown.
     -   If attacked while on cooldown, the cooldown timer resets and you have to wait another second again to be able to proc Tough Love's Charm.
     -   The damage increase affects **all** forms of Charm, not exclusively Tough Love's.
@@ -965,7 +968,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Prerequisites: 25 Charisma, Charismatic Cast
     -   Mutual Exclusives: Narcissist
 
--   _**Dazing Finisher**_ \[Advanced Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
+-   _**Dazing Finisher**_ \[Advanced Talent, Charisma\] - Flourishing enemies that are [Charm](Status_Effects.md#b) by you cause them to not be knocked back and [Daze](Status_Effects.md#b) instead.
     -   Applies [Daze](Status_Effects.md#daze) for 3.35 seconds on proc.
         -   This duration is reduced by 0.02 seconds for every point under 55 Charisma, having a minimum duration of 2.85 seconds at 30 Charisma.
     -   Prevents you from knocking back charmed players with flourishes, instead, dazing them.
@@ -1133,7 +1136,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Does not steal or halt any Ether regen.
     -   Prerequisites: 45 Shadowcast, Dark God
 
--   Dark Waltz \[Common Talent, Shadowcast, Weapon\] - Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo. Also apply [Ether Sunder](Status_Effects.md#ether-sunder) to PvE enemies.
+-   Dark Waltz \[Common Talent, Shadowcast, Weapon\] - Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo. Also apply [Ether Sunder](Status_Effects.md#b) to PvE enemies.
     -   The Ether Sunder status effect grants you 30% damage reduction against affected enemies' elemental attacks.
     -   Prerequisites: 90 Shadowcast, 90 Weapon (90 Light // 90 Medium // 90 Heavy)
 
@@ -1258,7 +1261,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Duelist
 
--   _Concussion_ \[Rare Talent, Strength, Fortitude\] - Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual. Flourished PvE enemies get [Stagger](Status_Effects.md#stagger) for a few seconds.
+-   _Concussion_ \[Rare Talent, Strength, Fortitude\] - Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual. Flourished PvE enemies get [Stagger](Status_Effects.md#b) for a few seconds.
     -   The Stagger status effect makes your opponent take 33% more posture damage.
     -   Prerequisites: 20 Strength, 15 Fortitude
 
@@ -1318,7 +1321,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Empath
 
--   Cornered Fool \[Common Talent, Charisma\] - Blockbreaking a Charmed opponent procs Taunt for 5s, making them take and deal more damage.
+-   Cornered Fool \[Common Talent, Charisma\] - Blockbreaking a [Charm](Status_Effects.md#b) opponent procs Taunt for 5s, making them take and deal more damage.
     -   15 second cooldown.
     -   Despite what the description states, this applies Taunt for 6 seconds.
     -   Every point of Charisma below 85 will reduce the duration of this Taunt by 0.035 seconds, capping at a minimum of 5.12 seconds with 60 Charisma.
@@ -1349,7 +1352,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 -   Ether Absorption \[Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras.
     -   Prerequisite: 15 Intelligence
 
--   _Eureka_ \[Rare Talent, Intelligence\] - Gain a stack of [Inspiration](Status_Effects.md#inspiration) every time you land or parry a Mantra. Whiffing a Mantra removes a stack of [Inspiration](Status_Effects.md#inspiration).
+-   _Eureka_ \[Rare Talent, Intelligence\] - Gain a stack of [Inspiration](Status_Effects.md#b) every time you land or parry a Mantra. Whiffing a Mantra removes a stack of [Inspiration](Status_Effects.md#b).
     -   At 3 stacks, gain the Inspired buff for 30 seconds or until you cast a Mantra. Inspired increases the damage of your next Mantra cast by 10%.
         -   If you gain Inspired by parrying Mantras, you gain the Inspired status effect for 30 seconds.
         -   If you gain Inspired by landing Mantras, the Inspired status will be instantly consumed to increase the damage of the Mantra used to gain the status.
@@ -1436,7 +1439,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Fish
 
--   _Fishman_ \[Rare Talent\] - When your Blood is over 50%, you won't drown when [Unconscious](Status_Effects.md#unconscious) in water. Gain additional healing from knocking others [Unconscious](Status_Effects.md#unconscious) in water. (+5 Health)
+-   _Fishman_ \[Rare Talent\] - When your Blood is over 50%, you won't drown when [Unconscious](Status_Effects.md#b) in water. Gain additional healing from knocking others [Unconscious](Status_Effects.md#b) in water. (+5 Health)
     -   The old Scuba Drowner Talent was merged into this Talent.
 
 -   _Landshark_ \[Quest Talent\] - Killing a megalodaunt will grant lifesteal on your attacks for 30 seconds.
@@ -1501,12 +1504,15 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Obtained at 1 Flamecharm
 
 -   Adept Flamecharmer \[Mantra Level Talent, Flamecharm\] - You can now obtain 1-Star Leveled Flamecharmer Mantras.
+    -   This Talent will be removed from you if you no longer meet its requirements.
     -   Obtained at 20 Flamecharm
 
 -   Expert Flamecharmer \[Mantra Level Talent, Flamecharm\] - You can now obtain 2-Star Leveled Flamecharmer Mantras.
+    -   This Talent will be removed from you if you no longer meet its requirements.
     -   Obtained at 30 Flamecharm
 
 -   Master Flamecharmer \[Mantra Level Talent, Flamecharm\] - You can now obtain 3-Star Leveled Flamecharmer Mantras. (+5 Health)
+    -   This Talent will be removed from you if you no longer meet its requirements.
     -   Obtained at 50 Flamecharm
 
 -   Azure Flames \[Common Talent, Willpower, Flamecharm\] - Many of your flames turn blue, signifying their increased intensity.
@@ -1556,12 +1562,15 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Obtained at 1 Frostdraw
 
 -   Adept Frostdrawer \[Mantra Level Talent, Frostdraw\] - You can now obtain 1-Star Leveled Frostdrawer Mantras.
+    -   This Talent will be removed from you if you no longer meet its requirements.
     -   Obtained at 20 Frostdraw
 
 -   Expert Frostdrawer \[Mantra Level Talent, Frostdraw\] - You can now obtain 2-Star Leveled Frostdraw Mantras.
+    -   This Talent will be removed from you if you no longer meet its requirements.
     -   Obtained at 30 Frostdraw
 
 -   Master Frostdrawer \[Mantra Level Talent, Frostdraw\] - You can now obtain 3-Star Leveled Frostdraw Mantras. (+5 Health)
+    -   This Talent will be removed from you if you no longer meet its requirements.
     -   Obtained at 50 Frostdraw
 
 -   Cold Front \[Common Talent, Frostdraw\] - Your vent is imbued with glacial frost.
@@ -1617,12 +1626,15 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Obtained at 1 Galebreathe
 
 -   Adept Galebreather \[Mantra Level Talent, Galebreathe\] - You can now obtain 1-Star Leveled Galebreathe mantras.
+    -   This Talent will be removed from you if you no longer meet its requirements.
     -   Obtained at 20 Galebreathe
 
 -   Expert Galebreather \[Mantra Level Talent, Galebreathe\] - You can now obtain 2-Star Leveled Galebreathe mantras.
+    -   This Talent will be removed from you if you no longer meet its requirements.
     -   Obtained at 30 Galebreathe
 
 -   Master Galebreather \[Mantra Level Talent, Galebreathe\] - You can now obtain 3-Star Leveled Galebreathe mantras. (+5 Health)
+    -   This Talent will be removed from you if you no longer meet its requirements.
     -   Obtained at 50 Galebreathe
 
 ### Galeforce
@@ -1882,7 +1894,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Prerequisites: 100 Frostdraw, 100 Weapon (100 Light // 100 Medium // 100 Heavy)
 
 -   Frostbite \[Common Talent, Frostdraw\] - Enemies can no longer heal when under the effect of your chill. PvE enemies also net you 5% more [Heal Boost](Status_Effects.md#heal-boost) when they are chilled.
-    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all non-passive healing gained from enemies who are currently affected by your anti-heal. This Talent grants +5% Heal Boost.
+    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all offensive healing (such as from [Bloodless Gems](Bloodless_Gem.md)) gained from targeting PvE enemies who are currently affected by your [Anti-Heal](Status_Effects.md#anti-heal). All Heal Boost sources are additive to eachother, and are applied as long as the target is suffering from any type of [Anti-Heal](Status_Effects.md#anti-heal). This Talent grants +5% Heal Boost.
     -   Works with Glass Path: Crystallization.
     -   Prerequisite: 25 Frostdraw
 
@@ -1895,7 +1907,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   This only procs on non-passive healing. For example (non exhaustive list): something like [Flame Wisp](Flamecharm.md#flame-wisp), spits, or [Bloodless Gem](Bloodless_Gem.md) will proc this effect, but campfires, Conditioned Runner, or [Curse of the No Life King](Curse_of_the_No_Life_King.md) will not.
     -   If using Glass Path: Crystallization then every hit with a Frostdraw mantra will proc Saint Jay for 2 seconds. (Doesn't stack)
     -   The "on ice" effect of Saint Jay is bugged and does not work.
-    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all non-passive healing gained from enemies who are currently affected by your anti-heal. This Talent grants +10% Heal Boost.
+    -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all offensive healing (such as from [Bloodless Gems](Bloodless_Gem.md)) gained from targeting PvE enemies who are currently affected by your [Anti-Heal](Status_Effects.md#anti-heal). All Heal Boost sources are additive to eachother, and are applied as long as the target is suffering from any type of [Anti-Heal](Status_Effects.md#anti-heal). This Talent grants +10% Heal Boost.
     -   Prerequisite: Frostbite
 
 -   Stasis Strike \[Common Talent, Frostdraw, Weapon\] - Your crystal explosions deal more damage whenever your opponent is also bottom frozen.
