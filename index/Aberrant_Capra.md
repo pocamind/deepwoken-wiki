@@ -1,6 +1,6 @@
 ---
 title: Aberrant Capra
-revid: 211562
+revid: 211656
 source: https://deepwoken.fandom.com/wiki/Aberrant_Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Aspects, Exclusive Aspects, Developer Spec]
@@ -76,5 +76,6 @@ Sir Phaidros (the character given to SudoMesh) is the only existing Aberrant Cap
 
 ## Trivia
 
--   The 'Sir' isn't canon, and is just filler as the system doesn't allow for one of the name slots to be blank.
+-   The 'Sir' isn't canon, and is just filler ~as the system doesn't allow for one of the name slots to be blank.~
+    -   Despite this, [Heliodars](Heliodar.md) in Vow of Iron only have one name.
 -   The original name was Draconian, but was shot down for not making lore sense.

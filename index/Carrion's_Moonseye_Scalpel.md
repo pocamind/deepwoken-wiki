@@ -1,6 +1,6 @@
 ---
 title: "Carrion's Moonseye Scalpel"
-revid: 209231
+revid: 211655
 source: https://deepwoken.fandom.com/wiki/Carrion's_Moonseye_Scalpel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons]
@@ -37,7 +37,7 @@ _This page is for the [Developer Spec](Developer_Specs.md) weapon, not to be con
 
 ## Description
 
-A stat changed [Rifle Spear](Rifle_Spear.md) made specifically and only for Doctor Carrion, the person [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) is based off of.
+A stat changed [Rifle Spear](Rifle_Spear.md) made specifically and only for Doctor Carrion, a tester.
 
 ## Critical
 

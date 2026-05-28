@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 208602
+revid: 211657
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons, Kyrs series]
@@ -33,7 +33,7 @@ categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Wea
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Scion of Ethiron, Weird Trader |
-| description | The fall of Constellia was first heralded by a devastating piercing through its crystalline arches. Perhaps the most renowned member of the Kyrsan arsenal, the blade's explosive power can only be invoked through a solemn prayer to Ethiron. The words of this prayer worm their way into the minds of its bearer willing or not. |
+| description | The fall of Constellia was first heralded by a devastating barrage of a hundred Kyrsiegers piercing through its crystalline arches. Perhaps the most renowned member of the Kyrsan arsenal, the blade's explosive power can only be invoked through a solemn prayer to Ethiron. The words of this prayer worm their way into the minds of its bearer willing or not. |
 
 ## Description
 

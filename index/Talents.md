@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 211645
+revid: 211667
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -225,7 +225,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   [Galetrap](Galebreathe.md#galetrap) normally waits for contact with a target to begin its tornado, [Galetrap](Galebreathe.md#galetrap) now detonates once the trap stops moving.
     -   Prerequisite: [Galetrap](Galebreathe.md#galetrap) (Mantra)
 
--   Gale Trap \[Common Talent, Galebreathe\] - Knocking a player places a wind trap, causing anyone to pick up that body to get sent flying. Gain a speed boost picking up the body yourself. Killing PvE opponents gives you [Gale Reflection](Status_Effects.md#b) instead.
+-   Gale Trap \[Common Talent, Galebreathe\] - Knocking a player places a wind trap, causing anyone to pick up that body to get sent flying. Gain a speed boost picking up the body yourself. Killing PvE opponents gives you [Gale Reflection](Status_Effects.md#gale-reflection) instead.
     -   **Refer to [Galetrap](Galebreathe.md#galetrap) if you are looking for the [Galebreathe](Galebreathe.md) mantra instead.**
     -   Marks players knocked by you for 6s with "Gale Trap".
     -   If the user picks up a target they've marked, they will gain a 35% speed boost for 20 seconds.
@@ -236,7 +236,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   Suffocating Impact \[Common Talent, Strength, Galebreathe\] - Flourishing enemies into walls applies [Winded](Status_Effects.md#b) and [Suffocation](Status_Effects.md#b) for a short duration. (+2 Passive Agility)
     -   Prerequisites: 15 Strength, 35 Galebreathe
 
--   _Stifled Jump_ \[Rare Talent, Galebreathe\] - [Suffocation](Status_Effects.md#b) now applies [Dazed](Status_Effects.md#b) if enemies jump. Suffocated PvE enemies now also get [Sluggish](Status_Effects.md#b) when they are suffocated. (+2 Passive Agility)
+-   _Stifled Jump_ \[Rare Talent, Galebreathe\] - [Suffocating](Status_Effects.md#suffocation) now applies [Dazed](Status_Effects.md#dazed) if enemies jump. Suffocated PvE enemies now also get [Sluggish](Status_Effects.md#sluggish) when they are suffocated. (+2 Passive Agility)
     -   The Daze effect lasts for 1 second.
     -   The Sluggish status effect applies a -15% damage debuff to affected targets.
     -   Prerequisite: Suffocating Impact
@@ -340,8 +340,8 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Annihilator
 
--   _**Collapsed Lung**_ \[Advanced Talent, Strength\] - Block breaking an opponent closes off their ability to Vent for 8s, with this duration scaling with Strength. PvE enemies instead get [Collapsed](Status_Effects.md#b).
-    -   Duration scales with investment up to its requirement, this effect lasts 8 seconds at 100 Strength and loses 0.04s for every investment point below 100 Strength.
+-   _**Collapsed Lung**_ \[Advanced Talent, Strength\] - Block breaking an opponent closes off their ability to Vent for 8s, with this duration scaling with Strength. PvE enemies instead get [Collapsed](Status_Effects.md#collapsed).
+    -   The Vent negation duration scales with investment up to its requirement, this effect lasts 8 seconds at 100 Strength and loses 0.04s for every investment point below 100 Strength.
         -   Collapsed Lung will have a 7 second duration at 75 Strength.
     -   Collapsed decreases the posture damage affected targets do to you by 40%.
     -   Prerequisite: 100 Strength
@@ -494,7 +494,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Increases your movement speed while blocking by 6.6%, from -25% movement speed to -18.4%.
     -   Prerequisite: 5 Fortitude
 
--   Perseverance \[Common Talent, Fortitude, Willpower\] - Reduces the duration you're [Ragdolled](Status_Effects.md#ragdoll) and [Unconscious](Status_Effects.md#b) for by 25%. (+5 Sanity)
+-   Perseverance \[Common Talent, Fortitude, Willpower\] - Reduces the duration you're [Ragdolled](Status_Effects.md#ragdoll) and [Unconscious](Status_Effects.md#unconscious) for by 25%. (+5 Sanity)
     -   This can stack with other Talents to reduce knock time even further. (Ex. Defiance)
     -   Prerequisites: 30 Fortitude, 30 Willpower
     -   The [Ignition Trailblazer](Ignition_Trailblazer.md) Outfit has this Talent.
@@ -511,7 +511,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Battle Readiness
 
 -   **Armored Plating** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Put on extra plating on your armor, giving you 50 temp health whenever you are put in combat. Due to the weight of this additional plating, you have reduced speed at all times.
-    -   Gain 50 Temporary Health whenever combat starts at the cost of having a passive movement speed debuff even outside of combat.
+    -   Gain 50 [Temporary Health](Status_Effects.md#temporary-health) whenever combat starts at the cost of having a passive movement speed debuff even outside of combat.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
 
 -   **Crossguard** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - If you are using a sword, you gain 10% chip against other opponents wielding swords.
@@ -549,7 +549,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Berserker
 
--   Berserk \[Common Talent, Strength\] - One with nothing to lose has everything to gain. Succumb to burning rage within and enter [Berserk State](Status_Effects.md#b).
+-   Berserk \[Common Talent, Strength\] - One with nothing to lose has everything to gain. Succumb to burning rage within and enter [Berserk State](Status_Effects.md#berserk-state).
     -   While in the Berserk State, your M1s will nullify your opponent's armor, bypassing it entirely, and your criticals will gain 10% PEN. However, your own armor bars, including Natural Armor, will be drained fully for the duration of the Berserk State.
     -   Lasts 20 seconds, halved to 10 seconds if you do not meet the Talent's Strength requirement.
     -   Berserk can be deactivated after 10 seconds by using the Talent tool again.
@@ -789,7 +789,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Brawler
 
--   Bruiser's Mixup \[Common Talent\] - Switching your Fist Style mid-fight makes your basic Fist attacks inflict bleed temporarily.
+-   Bruiser's Mixup \[Common Talent\] - Switching your Fist Style mid-fight makes your basic Fist attacks inflict [bleed](Status_Effects.md#bleed) temporarily.
     -   Lasts for 4 seconds.
     -   Procs by pressing Y (Works even if you only have one Fist Style)
     -   8 Second cooldown between style change.
@@ -1760,13 +1760,13 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 -   _True Ether Bullets_ \[Rare Talent, Light Weapon // Medium Weapon // Heavy Weapon, Intelligence\] - Using Ether Bullets applies elemental damage of your highest investment.
     -   Landing 2 shots will make the 3rd shot deal elemental damage.
         -   The 3rd shot apply your attunement's elemental effect:
-            -   -   **[Flamecharm](Flamecharm.md)**: Your bulllets [Burn](Status_Effects.md#burn)/create an Eruption (Lava Serpent)/spawn Puppets (Twisted Puppets)
-                -   **[Frostdraw](Frostdraw.md)**: Your bullets apply [Chill](Status_Effects.md#chill)/1 [Crystal](Status_Effects.md#crystal) (Crystallization)
-                -   **[Thundercall](Thundercall.md)**: Your bullets apply [Shock](Status_Effects.md#shock)/1 [Surge Rod](Status_Effects.md#overloaded) (Surge Path)
-                -   **[Galebreathe](Galebreathe.md)**: Your bullets After Cut and briefly apply [Winded](Status_Effects.md#winded)
-                -   **[Shadowcast](Shadowcast.md)**: Your bullets [blinds](Status_Effects.md#obscured) the enemy/applies [Burn](Status_Effects.md#shadow-burn) (Twisted Puppets)
-                -   **[Ironsing](Ironsing.md)**: Your bullets apply [Metal Rods](Status_Effects.md#metal-rods)
-                -   **[Bloodrend](Bloodrend.md)**: Your bullets apply [Blood Poisoning](Status_Effects.md#blood-poisoning)
+            -   **[Flamecharm](Flamecharm.md)**: Your bulllets [Burn](Status_Effects.md#burn)/create an Eruption (Lava Serpent)/[spawn Puppets](Status_Effects.md#puppet-burn) (Twisted Puppets)
+            -   **[Frostdraw](Frostdraw.md)**: Your bullets apply [Chill](Status_Effects.md#chill)/1 [Crystal](Status_Effects.md#crystal) (Crystallization)
+            -   **[Thundercall](Thundercall.md)**: Your bullets apply [Shock](Status_Effects.md#shock)/1 [Surge Rod](Status_Effects.md#overloaded) (Surge Path)
+            -   **[Galebreathe](Galebreathe.md)**: Your bullets After Cut and briefly apply [Winded](Status_Effects.md#winded)
+            -   **[Shadowcast](Shadowcast.md)**: Your bullets [blinds](Status_Effects.md#obscured) the enemy/applies [Burn](Status_Effects.md#shadow-burn) (Twisted Puppets)
+            -   **[Ironsing](Ironsing.md)**: Your bullets apply [Metal Rods](Status_Effects.md#metal-rods)
+            -   **[Bloodrend](Bloodrend.md)**: Your bullets apply [Blood Poisoning](Status_Effects.md#blood-poisoning)
         -   If the user has multiple attunements at the same level, it will use the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
     -   **If the user has no attunement, this Talent has NO EFFECT. It is recommended to put one point into an attunement if using this Talent on an attunement-less build.**
     -   This Talent does not make guns scale off your attunement attributes, it just converts your Physical Damage to Elemental Damage.
