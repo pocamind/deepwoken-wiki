@@ -1,6 +1,6 @@
 ---
 title: Braun
-revid: 210101
+revid: 211708
 source: https://deepwoken.fandom.com/wiki/Braun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -87,3 +87,7 @@ This dialogue is unlocked if the player is a [Voidwalker](Voidwalker.md).
 </tr>
 </tbody>
 </table>
+
+## Triva
+
+-   Braun's hair id is 115520061093937

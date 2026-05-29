@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 210337
+revid: 211711
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Alloyable Weapons, Fists, Light Weapons, Weapons with Talents]
@@ -75,3 +75,4 @@ The critical has a cooldown of **6 seconds**.
 -   Coral Cestus is the only weapon to have an altered critical when alloyed.
 -   Currently the only Cestus that can be alloyed.
 -   The [Fang and Coil](Fang_and_Coil.md) running critical from [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) cannot be used on the Coral or Broodalloy Cestus.
+-   The talent Mudskipper Gripper could be a reference to _Deepwoken_ content creator [Skipper Gripper](https://www.youtube.com/@SkiperGripper).
