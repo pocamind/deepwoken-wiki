@@ -1,6 +1,6 @@
 ---
 title: Ether Imbued Earrings
-revid: 210035
+revid: 211691
 source: https://deepwoken.fandom.com/wiki/Ether_Imbued_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -31,4 +31,4 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 **Ether Imbued Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category.
 
-The [Ether Tension](Talents.md#ether-tension) Talent adds 10 true damage to your Mantra guardbreaks.
+The [Ether Tension](Talents.md#ether-tension) Talent deals 10 true damage when you guardbreak with a Mantra.

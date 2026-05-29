@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 211610
+revid: 211701
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -26,7 +26,7 @@ Landing Frostdraw [Mantras](Mantras.md) applies [Chill](Status_Effects.md#chill)
 
 Cantrips are, often minor, passive abilities that are granted upon obtaining any Mantra from the respective Attunement.
 
-**Purifying Frost** - Having any Frostdraw [Mantra](Mantras.md) means that you'll automatically purify certain forms of unsafe water, including any unsafe water collected in your [Canteen](Canteen.md) (excluding sea water), similar to the [Purifying Ring](Purifying_Ring.md).
+**Purifying Frost** - Automatically purify certain forms of unsafe water, including any unsafe water collected in your [Canteen](Canteen.md) (excluding sea water), similar to the [Purifying Ring](Purifying_Ring.md).
 
 ## Obtainment
 

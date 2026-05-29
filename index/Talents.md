@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 211667
+revid: 211690
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -934,7 +934,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Charm Caster
 
--   Charismatic Cast \[Common Talent, Charisma\] - Landing a hit with a mantra on an enemy applies [Charm](Status_Effects.md#b). Allies recover from being knocked twice as quickly when [Charm](Status_Effects.md#b) by you.
+-   Charismatic Cast \[Common Talent, Charisma\] - Landing a hit with a mantra on an enemy applies [Charmed](Status_Effects.md#charm). Allies recover from being knocked twice as quickly when [Charmed](Status_Effects.md#charm) by you.
     -   This charm lasts 10s (5s against Disbelief Talent).
     -   Targets _you've_ Charmed will deal 10% less damage to you.
     -   When applying Charm to an already Charmed target, if the new Charm's _total duration_ is longer than the current Charm's _remaining duration_, the original Charm will be replaced. If not, nothing will happen. It is highly recommended that you have Lasting Charisma if you wish to get use out of Charismatic Cast during ganks and other team fights.
@@ -958,7 +958,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   If you do not meet Lasting Charisma's investment requirement, the additional Charm duration will be reduced, losing 0.166s for every point of Charisma you have under 55, capping at a minimum of 15.83 seconds of Charm with 30 Charisma.
     -   Prerequisites: 55 Charisma, Charismatic Cast
 
--   Tough Love \[Common Talent, Charisma\] - Deal 10% more damage to enemies [Charm](Status_Effects.md#b) by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you applies [Charm](Status_Effects.md#b) briefly.
+-   Tough Love \[Common Talent, Charisma\] - Deal 10% more damage to enemies [Charmed](Status_Effects.md#charm) by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you applies [Charmed](Status_Effects.md#charm) briefly.
     -   Charms for 2 seconds with a 1 second cooldown.
     -   If attacked while on cooldown, the cooldown timer resets and you have to wait another second again to be able to proc Tough Love's Charm.
     -   The damage increase affects **all** forms of Charm, not exclusively Tough Love's.
@@ -968,7 +968,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Prerequisites: 25 Charisma, Charismatic Cast
     -   Mutual Exclusives: Narcissist
 
--   _**Dazing Finisher**_ \[Advanced Talent, Charisma\] - Flourishing enemies that are [Charm](Status_Effects.md#b) by you cause them to not be knocked back and [Daze](Status_Effects.md#b) instead.
+-   _**Dazing Finisher**_ \[Advanced Talent, Charisma\] - Flourishing enemies that are [Charmed](Status_Effects.md#charm) by you cause them to not be knocked back and [Dazed](Status_Effects.md#daze) instead.
     -   Applies [Daze](Status_Effects.md#daze) for 3.35 seconds on proc.
         -   This duration is reduced by 0.02 seconds for every point under 55 Charisma, having a minimum duration of 2.85 seconds at 30 Charisma.
     -   Prevents you from knocking back charmed players with flourishes, instead, dazing them.
@@ -1261,7 +1261,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Duelist
 
--   _Concussion_ \[Rare Talent, Strength, Fortitude\] - Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual. Flourished PvE enemies get [Stagger](Status_Effects.md#b) for a few seconds.
+-   _Concussion_ \[Rare Talent, Strength, Fortitude\] - Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual. Flourished PvE enemies get [tagger](Status_Effects.md#tagger) for a few seconds.
     -   The Stagger status effect makes your opponent take 33% more posture damage.
     -   Prerequisites: 20 Strength, 15 Fortitude
 
@@ -1293,7 +1293,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Prerequisites: 30 Strength, 30 Medium Weapon
     -   The [Authority Helm](Authority_Helm.md) and [Bulwark Helm](Grand_Authority_Sallet.md) equipment have this Talent.
 
--   _Strong Stern_ \[Rare Talent, Strength, Fortitude\] - The duration you are [Dazed](Status_Effects.md#dazed) from wall bangs is cut in half. Slightly reduce your guardbreak stun time from PvE enemies as well. (+5 Carry Load)
+-   _Strong Stern_ \[Rare Talent, Strength, Fortitude\] - The duration you are [Dazed](Status_Effects.md#daze) from wall bangs is cut in half. Slightly reduce your guardbreak stun time from PvE enemies as well. (+5 Carry Load)
     -   Prerequisites: 15 Strength, 25 Fortitude
     -   The [Ignition Trailblazer](Ignition_Trailblazer.md) Outfit has this Talent.
 
@@ -1352,7 +1352,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 -   Ether Absorption \[Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras.
     -   Prerequisite: 15 Intelligence
 
--   _Eureka_ \[Rare Talent, Intelligence\] - Gain a stack of [Inspiration](Status_Effects.md#b) every time you land or parry a Mantra. Whiffing a Mantra removes a stack of [Inspiration](Status_Effects.md#b).
+-   _Eureka_ \[Rare Talent, Intelligence\] - Gain a stack of [Inspiration](Status_Effects.md#inspired) every time you land or parry a Mantra. Whiffing a Mantra removes a stack of [Inspiration](Status_Effects.md#inspired).
     -   At 3 stacks, gain the Inspired buff for 30 seconds or until you cast a Mantra. Inspired increases the damage of your next Mantra cast by 10%.
         -   If you gain Inspired by parrying Mantras, you gain the Inspired status effect for 30 seconds.
         -   If you gain Inspired by landing Mantras, the Inspired status will be instantly consumed to increase the damage of the Mantra used to gain the status.
@@ -1439,7 +1439,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Fish
 
--   _Fishman_ \[Rare Talent\] - When your Blood is over 50%, you won't drown when [Unconscious](Status_Effects.md#b) in water. Gain additional healing from knocking others [Unconscious](Status_Effects.md#b) in water. (+5 Health)
+-   _Fishman_ \[Rare Talent\] - When your Blood is over 50%, you won't drown when [Unconscious](Status_Effects.md#unconscious) in water. Gain additional healing from knocking others [Unconscious](Status_Effects.md#unconscious) in water. (+5 Health)
     -   The old Scuba Drowner Talent was merged into this Talent.
 
 -   _Landshark_ \[Quest Talent\] - Killing a megalodaunt will grant lifesteal on your attacks for 30 seconds.
@@ -1785,7 +1785,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   The Stagger status effect makes your opponent take 33% more posture damage.
     -   Prerequisites: 50 Medium Weapon, Club equipped
 
--   Dispatch \[Common Talent, Medium Weapon\] - Clubs Bear Trapped targets deal 20% less posture. [Dazed](Status_Effects.md#dazed) targets deal 20% less posture. This can stack.
+-   Dispatch \[Common Talent, Medium Weapon\] - Clubs Bear Trapped targets deal 20% less posture. [Dazed](Status_Effects.md#daze) targets deal 20% less posture. This can stack.
     -   Prerequisites: Bear Trap, 55 Medium Weapon, Club equipped
 
 -   Hammerfall \[Common Talent, Medium Weapon\] - Clubs Aerial attacks do 25% more posture damage when blocked.
@@ -1799,7 +1799,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Heretic
 
--   _All the Dead Gods_ \[Rare Talent, Intelligence, Willpower\] - Your Basic Attacks now apply anti-heal and 5% [Heal Boost](Status_Effects.md#b) against PvE for 8s. (+7 Sanity)
+-   _All the Dead Gods_ \[Rare Talent, Intelligence, Willpower\] - Your Basic Attacks now apply anti-heal and 5% [Heal Boost](Status_Effects.md#heal-boost) against PvE for 8s. (+7 Sanity)
     -   Whenever you land an M1 or critical with the M1 tag, apply [Anti-Heal](Status_Effects.md#anti-heal) for 8 seconds.
     -   All the Dead Gods' anti-heal effectiveness for sources of active healing scales on your combined Willpower and Intelligence investment. This has a minimum value of 70% at 55 combined points of Intelligence and Willpower, and a maximum value of 100% at 105 combined points.
         -   All the Dead Gods loses 0.6% anti-heal for every **combined** point of Intelligence and Willpower below 105. For example, 80 combined points will have 85% anti-heal.
@@ -1809,7 +1809,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all offensive healing (such as from [Bloodless Gems](Bloodless_Gem.md)) gained from targeting PvE enemies who are currently affected by your [Anti-Heal](Status_Effects.md#anti-heal). All Heal Boost sources are additive to eachother, and are applied as long as the target is suffering from any type of [Anti-Heal](Status_Effects.md#anti-heal). This Talent grants +5% Heal Boost.
     -   Prerequisites: 65 Willpower, 40 Intelligence
 
--   _**All Above, Gods Below**_ \[Advanced Talent, Intelligence, Willpower\] - Any healing your opponent were to receive while All The Dead Gods is active on them is stolen and given to you, increase your PvE [Heal Boost](Status_Effects.md#b) to 15% as well. (+20 Sanity)
+-   _**All Above, Gods Below**_ \[Advanced Talent, Intelligence, Willpower\] - Any healing your opponent were to receive while All The Dead Gods is active on them is stolen and given to you, increase your PvE [Heal Boost](Status_Effects.md#heal-boost) to 15% as well. (+20 Sanity)
     -   Though not visually displayed, the duration of this effect is separate from your anti-heal.
     -   All Above, Gods Below's duration scales on your Willpower and Intelligence investment. At 200 combined invest, it will last for the full duration of your All the Dead Gods. For every point below 200, All Above, Gods Below's duration will be reduced by 1% (relative to All the Dead Gods), down to a minimum of 50% of All the Dead Gods duration at 150 combined invest.
     -   This will not proc if you are the one who applied the healing; you cannot heal yourself by healing your opponent.
@@ -1831,7 +1831,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
         -   Note that this passive does **NOT** work with _Lose Your Mind_, as it only procs based on your current sanity percentage. And while Heretic's Sutra can help with sanity loss, it does not passively activate _Lose Your Mind_.
     -   Prerequisites: 80 Willpower, have had tier 1 insanity (shivering), and talk to [Kasen](Kasen.md), located in [Layer 2 Floor 1](Second_Layer/The_Ethironal_Shrine.md).
 
--   _Sin Stacker_ \[Rare Talent, Willpower\] - Your All The Dead Gods' duration is now based on how many stacks of antiheal you already have on your opponent, increase your PvE [Heal Boost](Status_Effects.md#b) to 10% instead. (+8 Sanity)
+-   _Sin Stacker_ \[Rare Talent, Willpower\] - Your All The Dead Gods' duration is now based on how many stacks of antiheal you already have on your opponent, increase your PvE [Heal Boost](Status_Effects.md#heal-boost) to 10% instead. (+8 Sanity)
     -   By landing additional basic attacks on a target affected by All the Dead Gods' Anti-Heal, you can increase the duration of subsequently applied Anti-Heal stacks by 1 second per Anti-Heal stacks affected the target.
         -   Starting at 1 Anti-Heal stack lasting 8 seconds, applying another will make the second stack last 9 seconds, and applying another will make the third stack last 10 seconds, etc.
     -   As Anti-Heal stacks decay, the additional duration they apply to future stacks will be nullified. For example, if you apply Stack 1 for 8 seconds and Stack 2 for 9 seconds, then wait until Stack 1 runs out of duration before landing another hit, Anti-Heal from the third M1 will only last 9 seconds.
@@ -1893,9 +1893,9 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Currently bugged and applies through block/parry/dodge.
     -   Prerequisites: 100 Frostdraw, 100 Weapon (100 Light // 100 Medium // 100 Heavy)
 
--   Frostbite \[Common Talent, Frostdraw\] - Enemies can no longer heal when under the effect of your chill. PvE enemies also net you 5% more [Heal Boost](Status_Effects.md#heal-boost) when they are chilled.
+-   Frostbite \[Common Talent, Frostdraw\] - Enemies can no longer heal when under the effect of your chill. PvE enemies also net you 5% more [Heal Boost](Status_Effects.md) when they are chilled.
+    -   This effect is briefly applied after applying a Crystal.
     -   The [Heal Boost](Status_Effects.md#heal-boost) status effect increases all offensive healing (such as from [Bloodless Gems](Bloodless_Gem.md)) gained from targeting PvE enemies who are currently affected by your [Anti-Heal](Status_Effects.md#anti-heal). All Heal Boost sources are additive to eachother, and are applied as long as the target is suffering from any type of [Anti-Heal](Status_Effects.md#anti-heal). This Talent grants +5% Heal Boost.
-    -   Works with Glass Path: Crystallization.
     -   Prerequisite: 25 Frostdraw
 
 -   _Frozen Pin-Cushion_ \[Rare Talent, Frostdraw\] - Ice Daggers now freeze opponents.
@@ -2058,7 +2058,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   This works for both [Equipment](Equipment.md) and [Weapon](Weapons.md) requirements.
     -   Versatile lowers all requirements on things with more than one, so a 72 Galebreathe 37 Medium Weapon [Curved Blade of Winds](Curved_Blade_of_Winds.md) would be possible on a Khan for example. Additionally, Versatile stacks with [Silentheart's](Oath%253A_Silentheart.md) Weapon stat requirement reduction.
 
-### Intelligence
+### Intellisense
 
 -   Critical Engine \[Common Talent, Intelligence, Weapon\] - You gain the ability to use Deep Gems on your critical attack. Hold out the Deep Gem you wish to apply to your crit then use the tool to enhance your critical.
     -   Equipping a Deep Gem to your critical will not consume the Deep Gem.
@@ -2125,12 +2125,15 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Obtained at 1 Ironsing
 
 -   Adept Ironsinger \[Mantra Level Talent, Ironsing\] - You can now obtain 1-star Ironsinger mantras.
+    -   This Talent will be removed from you if you no longer meet its requirements.
     -   Obtained at 20 Ironsing
 
 -   Expert Ironsinger \[Mantra Level Talent, Ironsing\] - You can now obtain 2-star Ironsinger mantras.
+    -   This Talent will be removed from you if you no longer meet its requirements.
     -   Obtained at 30 Ironsing
 
 -   Master Ironsinger \[Mantra Level Talent, Ironsing\] - You can now obtain 3-star Ironsinger mantras. (+5 Health)
+    -   This Talent will be removed from you if you no longer meet its requirements.
     -   Obtained at 50 Ironsing
 
 -   _**Alloyblood**_ \[Advanced Talent, Ironsing\] - You don't bleed like others do. Bleed damage reduced by 30%. Blood loss is reduced by 75%.
@@ -2217,17 +2220,18 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Electrify \[Common Talent, Thundercall\] - Shock yourself and apply [Amped](Status_Effects.md#amped) for 15s. Can be used while [Carried](Status_Effects.md#carried) to escape.
     -   Grants a Talent tool.
     -   Electrify has a 1 minute cooldown.
-    -   Deals 5% of your **current** health as Thundercall self damage.
-        -   Wearing the [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) will remove Electrify's self damage. Additionally, pairing this with the [Deepscorn Casque](Deepscorn_Casque.md) will cause you to heal on Electrify cast instead.
-    -   Amped grants your weapon attacks a 10% damage buff and allows them to apply Shock or Surge Rods on hit.
+    -   Amped grants your weapon attacks a 10% damage buff and allows them to apply [Shock](Status_Effects.md#shock) or [Surge Rods](Status_Effects.md#overloaded) on hit.
     -   While Amped, you take 10% more damage from all sources.
     -   Deals Thundercall self damage with hitstun and applies Shock/Surge Rods to yourself on cast, if used without being carried.
+    -   If used while Carried, it deals damage to the player who is carrying you, forcing them to drop you. If used while not being Carried, it deals 5% of your **current** health as Thundercall self damage, and self applies 1 [Surge Rod](Status_Effects.md#overloaded)/[Shock](Status_Effects.md#shock) with hitstun.
+        -   Wearing the [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) will remove the self damage and self status application, and wearing the [Deepscorn Casque](Deepscorn_Casque.md) will reduce the self damage. Wearing both will heal you a flat 3% og your maximum health upon using Electrify.
     -   Formerly known as Static Withdraw.
     -   Prerequisites: 25 Thundercall
 
 -   Amplified Reflexes \[Common Talent, Thundercall\] - Amped now grants enhanced speed and parkour, but triples the self-damage on use and doubles its cooldown.
     -   Increases Electrify's cooldown from 1 minute to 2.
-    -   Deals 15% of your **current** health as Thundercall self damage. [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) still works to remove the self damage.
+    -   Deals 15% of your **current** health as Thundercall self ddamag.
+        -   [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) and [Deepscorn Casque](Deepscorn_Casque.md) can still be used, providing the same benefits as they do on base Electrify.
     -   Increases walk speed by 50% and grants a 20% buff to climb height. All other forms of parkour and movement are unaffected by Amplified Reflexes.
     -   Formerly known as Jumpstart.
     -   Prerequisites: 35 Thundercall, Electrify
@@ -2265,13 +2269,12 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Kickstarter
 
 -   Kickstart \[Common Talent, Fortitude // Charisma, Thundercall\] - Play the resurrector. Use your lightning to defibrillate your allies on the battlefield.
-    -   Use kickstart on a knocked target to bring them back up in 3 seconds at the cost of some ether.
+    -   Use kickstart on an Unconscious target to bring them back up and healing them for 10% of their maximum health. On use, this takes 5% of your Ether, draining an additional 20% on successful use.
     -   Kickstart's animation takes 3 seconds to complete, and you cannot act during this animation.
     -   Despite the description stating "allies", this can be used on non-allies and even humanoid NPCs.
-    -   Takes 5% ether on use and an extra 20% on successive use.
-    -   Heals 10% of the affected target's health.
-    -   Can be used on people who are using Kickstart or are affected by Paralytic Dust.
+    -   Can be used on people who are [Sleeping](Status_Effects.md#sleeping) from Cap Artist or [Paralytic Dust](Paralytic_Dust.md).
     -   Prerequisites: 40 Fortitude // 40 Charisma, 50 Thundercall
+        -   The [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) Outfit has this Talent
 
 ### Lancer
 

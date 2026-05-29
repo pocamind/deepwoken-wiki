@@ -1,6 +1,6 @@
 ---
 title: Dissonant Chimecaller
-revid: 211294
+revid: 211677
 source: https://deepwoken.fandom.com/wiki/Dissonant_Chimecaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Greathammers, Weapons with Unique Criticals, Heavy Weapons, Weapons with Unique Animations]
@@ -48,7 +48,7 @@ Equipping the Dissonant Chimecaller grants its unique [weapon Talent](Talents.md
 
 ## Critical
 
-The user reels the staff with a [red telegraph](Combat_Mechanics.md#red) before swinging forth, summoning a large bell that applies an [Ironsing](Ironsing.md) rod towards the target. The bell can **autogrip** the target if they are knocked or at low health and applies knockdown. The bell deals ~1.8x scaled damage.
+The user reels the staff with a [red telegraph](Combat_Mechanics.md#red) before swinging forth, summoning a large bell that launches toward the target and applies an [Ironsing](Ironsing.md) rod to them. The bell automatically locks onto the position of the closest non-ally opponent. The bell can **autogrip** the target if they are knocked or at low health and applies knockdown. The bell deals ~1.8x scaled damage.
 
 The critical has a cooldown of **15 seconds**.
 

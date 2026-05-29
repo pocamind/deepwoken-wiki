@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 211081
+revid: 211679
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -16,8 +16,8 @@ _**NOTE: If adding Enchantment-related information, remember to update both this
 
 Enchantments have a set chance to be applied to a weapon during the following scenarios.
 
--   Chiefly, any gear you find in chests or dropped by enemies have a small chance to be enchanted. (Except rings, torso and face slot gear, which cannot be enchanted).
--   Talking to [Laplace](Laplace.md) and trading three enchanted items for a new random enchant on your equipped [weapon](Weapons.md). Note that all Enchants added within the Layer 2 update and forwards are **not** rollable, such as Stormbreaker.
+-   Chiefly, any gear you find in chests, craft, or get dropped by enemies have a small chance to be enchanted. (even if the item is normally unenchantable, except Rings, Torso and Face slot gear, which cannot be enchanted unless they already had an enchantment before the verse 2 update).
+-   Talking to [Laplace](Laplace.md) and trading three enchanted items for a new random enchant on your equipped [weapon](Weapons.md). Note that all Enchants added within the Layer 2 update and forwards are **not** rollable, such as Stormbreaker, Nemisis, Curse of Ysley's Ember, Etc.
 -   [Laplace](Laplace.md) lets you turn in 5 [Knowledge](Knowledge.md) for a random [Enchant Grease](Enchant_Grease.md)
 -   Talking to [Calamus](Calamus.md) and completing her quest can give you 1 enchant Item.
 -   Talking to [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) allows you to turn in 5 [Kyrsan Medallions](Kyrsan_Medallions.md) for a random Enchant Grease or Enchant Stone.
@@ -2269,10 +2269,11 @@ Unobtainable
 -   If you plan to use Deferred for its damage increase, do note that unless your damage is above or equal to 83, 61, or 50 for heavy medium and light respectfully, it's better to use Detonation.
 -   Most, if not all curses emit sound when equipped, with some being louder than others
 -   Curse of the Unbidden has weird PvE interactions. Humanoid mob attacks can be countered, while non-humanoid ones can't be. More testing will be done (As of 12/2/24) - Proof : [https://youtu.be/MTHxAKa5cD0](https://youtu.be/MTHxAKa5cD0)
--   In Verse 1, it was possible to obtain a fourth enchant on the neck, face, or ring slot.
+-   In Verse 1, it was possible to obtain a fourth enchant on the torso, face, or ring slot.
 -   Blazing can NOT be used to ignite campfires that are unlit by m1's.
 -   The thunder strike caused by using Storm during the rain trains your [Thundercall](Thundercall.md) by a seemingly noticeable portion.
--   If you are to somehow have more than three equipment enchants equipped via unobtainable items, one of those enchants will be automatically disabled.
+
+-   If you are to somehow have more than three equipment enchants equipped via unobtainable items, one of those enchants will be automatically disabled. If you use a normally unenchantable Arms, Legs, or Head equipment ex. Bluestone Boots along with 2 Enchanted ones & use a unobtainable enchanted Face, Torso, or Ring despite already having your enchantable equipment slots full not being able to add more standard enchantable equipment, the only limit is 3 specifically enchanted items so all the enchants + the unenchantable equipment would work.
 
 ## References
 
