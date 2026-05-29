@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 201052
+revid: 211793
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -235,7 +235,7 @@ You can buy an official Sharko Plush made by Makeship [here](https://www.makeshi
 -   The line "You don't have to do anything anymore. Ever. Never ever." is a reference to [the intro](https://www.youtube.com/watch?v=7ZU2elURPPA) of the video game _[Disco Elysium](https://en.wikipedia.org/wiki/Disco_Elysium)_.
 -   The line "A Felinor can have a little bit of salami. As a treat." is a reference to the meme "Cats can have a little salami. As a treat."
 -   The line "Journey before destination." is the same as the, now removed, [Jetstriker](Oath%253A_Jetstriker.md) [Mystic](Mystic.md) dialogue.
--   ~The description of the Sharko Plush implies that Destroyman III isn't even barely as strong as a regular Sharko, being that one of the actions that you can do with him is freely punt him with no repercussion. All of his threats are empty. Do not let him intimidate you with the fact he's free of your monitor.~ No
+-   The description of the Sharko Plush implies that Destroyman III isn't even barely as strong as a regular Sharko, being that one of the actions that you can do with him is freely punt him with no repercussion. All of his threats are empty. Do not let him intimidate you with the fact he's free of your monitor.
 -   Developer ragoozer, despite being one of the owners of the game, was actually unable to buy a [Sharko Plush](https://www.makeship.com/products/sharko-plush) before they originally sold out.
 -   The line "IT'S JUST ONE OF THOSE DAYS." is a reference to the song _[Break Stuff](https://www.youtube.com/watch?v=ZpUYjpKg9KY)_ by Limp Bizkit.
 -   Destroyman III was ~turned into a plush~ granted a physical form through the 'Crowdfunded Murchendice Campaign' played out by the Drowned God Murchendice.

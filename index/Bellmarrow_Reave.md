@@ -1,6 +1,6 @@
 ---
 title: Bellmarrow Reave
-revid: 209821
+revid: 211856
 source: https://deepwoken.fandom.com/wiki/Bellmarrow_Reave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Medium Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals"]
@@ -35,13 +35,13 @@ categories: [Weapons, Twinblades, Medium Weapons, Weapons with Unique Criticals,
 
 ## Description
 
-The Bellmarrow Reave is a [Twinblade](Twinblades.md) weapon in the Medium category. The weapon is covered in round bells.
+The Bellmarrow Reave is a [Twinblade](Twinblades.md) weapon in the Medium category. The weapon is covered in round bells with cracked blades made from [Arkasids](Arkasid.md).
 
 ## Critical
 
-The user twirls the blade around before summoning a rain of bells directly above the target. This hits 7 times, with each hit having a **0.3x** scaled damage multiplier. These bells will inflict [Ironsing](Ironsing.md) rods when hit, and will **autogrip** the target if they are knocked or at low health.
+The user twirls the blade around before summoning a rain of bells directly above the target. This hits 7 times, with each hit having a **0.3x** scaled damage multiplier. These bells will inflict [Ironsing](Ironsing.md) rods on each of the 7 hits, and will **autogrip** the target if they are knocked or at low health.
 
-The critical has a cooldown of **10 seconds**.
+The critical has a cooldown of **8 seconds**.
 
 ## Trivia
 

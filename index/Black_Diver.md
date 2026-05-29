@@ -1,6 +1,6 @@
 ---
 title: Black Diver
-revid: 206862
+revid: 211737
 source: https://deepwoken.fandom.com/wiki/Black_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, The Divers]
@@ -44,8 +44,6 @@ This Outfit has 2600 durability and grants +30% Physical resistance ResistanceBl
 ## Trivia
 
 -   This outfit is the superior version of [Diver Apprentice](Diver_Apprentice_Robes.md) and [Diver Journeyman Robes](Diver_Journeyman_Robes.md).
--   Generically used Master outfit due to being fairly easy to make while having good stats and resistances.
-    -   Excellent equipment to counter [Shadowcast](Shadowcast.md) players (which a lot of depths gankers use), due to it's high Ether Regen and Shadow Armor.
 -   It is a reference to Bondrewd's outfit and the Umbra Hands' uniform from the anime and manga series, _Made in Abyss_.[\[1\]](#cite-note-1)
     -   The old Black Diver version was almost identical to Bondrewd's outfit.
 -   Worn by [Akira](Akira.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Dr. Carrion](Carrion,_Father_of_Evolution.md), and other Black Divers in [Castle Light](Castle_Light.md), also worn by the [Frostdraw](Frostdraw.md) and [Thundercall](Thundercall.md) trainers [Nell](Nell,_Master_of_Frost.md) and [Funke](Funke,_Master_of_Thunder.md) respectively.

@@ -1,6 +1,6 @@
 ---
 title: "Ringing Scholar's Raiments"
-revid: 209511
+revid: 211722
 source: https://deepwoken.fandom.com/wiki/Ringing_Scholar's_Raiments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Arms, Raiments]
