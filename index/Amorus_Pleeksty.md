@@ -1,9 +1,9 @@
 ---
 title: Amorus Pleeksty
-revid: 203081
+revid: 212090
 source: https://deepwoken.fandom.com/wiki/Amorus_Pleeksty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Individuals with He/him pronouns, Black Divers]
+categories: ["Content not present in-game", Individuals with He/him pronouns, Black Divers, Characters that are Deepwoken]
 ---
 
 # Amorus Pleeksty
@@ -14,6 +14,10 @@ categories: [Individuals with He/him pronouns, Black Divers]
 | aspect | Tiran[1] |
 | pronouns | He/him[1] |
 | affiliation | The Divers[2] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 “ The Eternal Flame and the Failure of Man. Amorus Pleeksty. I enjoy his work. ”
 

@@ -1,6 +1,6 @@
 ---
 title: "Day-night cycle"
-revid: 209987
+revid: 212085
 source: https://deepwoken.fandom.com/wiki/Day-night_cycle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -41,5 +41,4 @@ The day-night cycle, mechanically, has little effect in _Deepwoken_ besides chan
 ## Trivia
 
 -   In sped-up footage, you can notice two abrupt points during the night near the end and beginning of the cycle where the cycle progresses 5 minutes backward.
--   A Flaw called "[Wishbound](Boons_and_Flaws.md#special-flaws)" was given to players who made a wish with a, now retired, [developer](Developer_Specs.md#iltria-leafre-spellhardt-retired) for Money, Power, or [Astral](Astral.md). The Wishbound flaw gives you insanity whenever night falls.
-    -   Making a wish with said developer was the only way to obtain [Astral](Astral.md), until [Star Knight](Star_Knight.md) and subsequently other methods to obtain it was later released to the public.
+-   A Flaw called "[Wishbound](Boons_and_Flaws.md#special-flaws)" was given to players who made a wish with a, now retired, [developer](Developer_Specs.md#iltria-leafre-spellhardt-retired) for Money, Power, or [Astral](Astral.md) (which was the only way to obtain Astral until later on). The Wishbound flaw gave you insanity whenever night fell.

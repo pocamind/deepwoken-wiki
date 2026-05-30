@@ -1,9 +1,9 @@
 ---
 title: Duck
-revid: 198245
+revid: 212109
 source: https://deepwoken.fandom.com/wiki/Duck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Non-sapient species"]
+categories: ["Content not present in-game", "Non-sapient species"]
 ---
 
 # Duck
@@ -11,6 +11,10 @@ categories: ["Non-sapient species"]
 | Duck | |
 |---|---|
 | name | Duck[1] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

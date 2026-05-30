@@ -1,6 +1,6 @@
 ---
 title: Suri
-revid: 199619
+revid: 212102
 source: https://deepwoken.fandom.com/wiki/Suri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Quests, The Hive, NPCs located in the Eastern Luminant]

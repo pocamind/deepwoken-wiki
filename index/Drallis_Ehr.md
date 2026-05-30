@@ -1,9 +1,9 @@
 ---
 title: Drallis Ehr
-revid: 208463
+revid: 212088
 source: https://deepwoken.fandom.com/wiki/Drallis_Ehr
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Heads of government and state, Personnel of The Central Authority]
+categories: ["Content not present in-game", Heads of government and state, Personnel of The Central Authority]
 ---
 
 # Drallis Ehr
@@ -14,6 +14,10 @@ categories: [Heads of government and state, Personnel of The Central Authority]
 | alias | Grand Sovereign, Sovereign[1], Sovereign of Ages[1], Sovereign of Eras[2], Overseer of Epochs[3], Lumen's Savior[1] |
 | aspect | Adret[4] |
 | affiliation | Adretian Empire (formerly)[4], The Central Authority[4] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

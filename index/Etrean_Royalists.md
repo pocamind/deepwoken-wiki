@@ -1,9 +1,9 @@
 ---
 title: Etrean Royalists
-revid: 202305
+revid: 212112
 source: https://deepwoken.fandom.com/wiki/Etrean_Royalists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive]
+categories: [Vow of Iron Exclusive, Factions]
 ---
 
 # Etrean Royalists

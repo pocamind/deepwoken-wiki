@@ -1,9 +1,9 @@
 ---
 title: Maps
-revid: 199284
+revid: 212100
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Sailing, Locations, Map]
+categories: [Mechanics]
 ---
 
 # Maps
@@ -12,7 +12,7 @@ categories: [Sailing, Locations, Map]
 
 Deepwoken has ingame maps that you will automatically receive for free across all slots. These point out your current location, the location of allies, and most landmarks in the current map, as well as NPCs like Antiquarians or Smiths in your area. The map also shows cardinal directions.
 
-Landmarks are unblurred or unhidden as you visit them per-slot, and some (e.g. [Beloved Zofia](Beloved_Zofia.md), [Boatman's Watch](<Boatman's_Watch.md>), [Moons Eyrie](<Moon's_Eyrie.md>)) are in the [Voidsea](Voidsea.md) and thus not mapped at all.
+Some locations (e.g. [Beloved Zofia](Beloved_Zofia.md), [Boatman's Watch](<Boatman's_Watch.md>), [Moons Eyrie](<Moon's_Eyrie.md>)) are in the [Voidsea](Voidsea.md) and thus not mapped at all.
 
 The [Iron Vow](Vow_of_Iron.md) gamemode has a separate [map](Boundary.md).
 
@@ -20,7 +20,7 @@ The [Iron Vow](Vow_of_Iron.md) gamemode has a separate [map](Boundary.md).
 
 ## Interactive Maps
 
-A collection of interactive Deepwoken maps (_markers are appreciated_; ensure they are consistent on all maps):
+**NOTE: A majority of interactive maps are currently outdated.** A collection of interactive Deepwoken maps (_markers are appreciated_; ensure they are consistent on all maps):
 
 **Surface:**
 
@@ -196,11 +196,9 @@ _**OUTDATED:**_ An _**offsite**_ gallery of interactive [maps](https://map.deepw
     
     Green Screen Location ( Eastern Luminant )
     
--   In the update of 25.07.2025, the map was reworked and is now clearer in-game.
--   in the same update the depths map was bugged
--   The current interactive map is outdated.
+-   Previously, all landmarks were initially blurred until they were visited by the player, and your map progress only persisted per slot.
 -   The player marker will accurately track the players movement and position within the world from [Dimensional Travel](Dimensional_Travel.md), but will not track their ally markers properly if they're within the dimension.
 -   In-game maps have a small line of text in the bottom left corner about authorities or surveyors that created the maps.
     -   Etrean and Eastern Luminants: _Comissioned under the Authority of Sovereign Drallis Ehr, Overseer of Epochs._
     -   Lost Celtor: _Surveyed under the supervision of the Citadel by the Divers of Castle Light, 1464 CE. Do not trust this map or any information contained within._
-        -   This description is actually inaccurate, as 1464 has yet to happen. This is further evidence of the Depths' ability to warp reality and perception.
+        -   This description is actually inaccurate; the events of _Deepwoken_ taking place during year 1271 CE, 1464 CE has yet to happen. This is further evidence of the Depths' ability to warp reality and perception.
