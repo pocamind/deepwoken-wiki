@@ -1,9 +1,9 @@
 ---
 title: Stock
-revid: 211020
+revid: 211922
 source: https://deepwoken.fandom.com/wiki/Stock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, Vow of Iron Exclusive, NPCs, Quests]
+categories: [Ganymede NPCs, Vow of Iron Exclusive, NPCs, Quests, Individuals with unspecified pronouns]
 ---
 
 # Stock

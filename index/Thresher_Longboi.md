@@ -1,6 +1,6 @@
 ---
 title: Thresher Longboi
-revid: 211854
+revid: 211867
 source: https://deepwoken.fandom.com/wiki/Thresher_Longboi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Promotional Content, Merchandise]
@@ -12,7 +12,7 @@ notices:
 
 ## Description
 
-The **Thresher Longboi** was a plush released as part of a Deepwoken and Makeship collaboration, classified under the "longboi" category. Its campaign ran from May 3rd, 2025, to May 10th, 2025, before selling out. The plush measured 12.0 cm in height and 13.0 cm in length. It was made from polypropylene cotton and plush fabric (ultra soft fleece).
+The **Thresher Longboi** was a plush released as part of a Deepwoken and Makeship collaboration. Classified under the "longboi" category, it featured the [Thresher](Thresher.md) mob. Its campaign ran from May 3rd, 2025, to May 10th, 2025, before selling out. The plush measured 12.0 cm in height and 13.0 cm in length. It was made from polypropylene cotton and plush fabric (ultra soft fleece).
 
 ### Official Description
 
@@ -25,3 +25,5 @@ But we're sure you can maybe get some kind of value from this guy, too!"
 ## Trivia
 
 -   A total of 1,500 Thresher Longboi plushes were sold, and the campaign ended at 750% of its funding goal.
+-   This campaign ran alongside the [Mudskipper Pin Pack](Mudskipper_Pin_Pack.md).
+-   The official Makeship link for the Thresher Longboi can be found [here](https://www.makeship.com/products/thresher-longboi).

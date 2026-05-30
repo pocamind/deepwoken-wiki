@@ -1,6 +1,6 @@
 ---
 title: Sworn Angel
-revid: 204254
+revid: 211903
 source: https://deepwoken.fandom.com/wiki/Sworn_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Humanoids with Unobtainable Outfits, Humanoid Monsters]
@@ -102,4 +102,3 @@ categories: [Enemies, Enemies that can wield Enchantments, Humanoids with Unobta
 -   Sworn Angels are prone to retreating/dodging by moving backwards from you, making it sometimes frustrating to fight them.
 -   In the Trial of One, Sworn Angel's Gaze can affect each other Angel if they walk in front of the other while it's active, allowing for a chance to strike.
 -   In the Trial of One, executing one of the Sworn Angels will cause the other to automatically despawn, passing the trial with less effort.
--   Despite them being removed from the game, Sworn Angels seem to functionally serve as stand-in [Deep Angels](Deep_Angel.md) due to them being a stronger variant of the monster type.

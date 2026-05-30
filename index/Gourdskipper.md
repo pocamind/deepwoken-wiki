@@ -1,6 +1,6 @@
 ---
 title: Gourdskipper
-revid: 192043
+revid: 211901
 source: https://deepwoken.fandom.com/wiki/Gourdskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Humanoid Monsters, Hallowtide]
@@ -46,7 +46,7 @@ Gourdskippers, also known as Pumpskippers, are a unique enemy exclusive to the T
 | Name | Description |
 | --- | --- |
 | Jugular Slice | Pins down opponent before slicing their throat with their thumbnail.
-Similar to the [Instructor](Blade_Instructor.md), this only happens if you are knocked from sources such as Fire or by being dropped off a shoulder, they cannot normally grip.
+This only happens if you are knocked from sources such as Fire or by being dropped off a shoulder, they cannot normally grip.
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Conquest
-revid: 211731
+revid: 211898
 source: https://deepwoken.fandom.com/wiki/Conquest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Game Modes]

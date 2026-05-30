@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 210690
+revid: 211905
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, OutdatedPages, SpoilerPages, Deepwoken]
@@ -239,7 +239,6 @@ _"I don't know if I will be able to continue my services with in the Authority w
 -   One of the few people that knows the true intentions and identity of the Lord Regent while not being aligned with the Ministry.
 -   Very probably is under the direct command of Drallis Ehr.
 -   He is an Adret.
--   He once had a base in the Tomb of the Nameless Warrior, as that is where you find his journal.
 -   "Can solo every Centurion of the 11th legion" according to Arch\_Mage, be sure to note that he only says the one of the 11th Legion, not the hundred legions. As of right now, no known powerhouses exist in the 11th Legion, the only known fighters are the enemy NPCs encountered in game, who are all relative to Authority Captains. He can also beat the 11th Legion NPC Brutus, who uncaps your fortitude.
 -   He is currently hunting and trying to destroy [The Ministry](The_Ministry.md) and [Contractors](Oath%253A_Contractor.md).
 -   Genuinely believes in [The Central Authority](The_Central_Authority.md) as a force of peace.
@@ -1067,7 +1066,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   **Attunements:** _Any_
 -   **Alliances:** _The Central Authority [Authorityiconfaction](The_Central_Authority.md) (?)_
 -   **Enemies:** _Contractors, The Ministry [Ministryiconfaction](The_Ministry.md) (?)_
--   **Lore Sources:** _ragoozer, [Warden Jericho Journal](Journal_of_Warden_Jericho.md), [Windrunner](Windrunner.md)._
+-   **Lore Sources:** _ragoozer, [Windrunner](Windrunner.md)._
 
 -   Creators and source of power of the [Warmaster Oath](Oaths.md).[\[1\]](#cite-note-rag-1)
 -   Likely composed of important members of the Authority.
@@ -1620,7 +1619,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 ### The Great Drowning of Celtor
 
-**Lore Sources:** _Blindseer Stone, The Ministry (Mentioned), Warden Jericho's Journal (Mentioned), Celtorian Guard Dialouge (Year is stated)._
+**Lore Sources:** _Blindseer Stone, The Ministry (Mentioned), Celtorian Guard Dialouge (Year is stated)._
 
 -   A new king rose to power and seemingly through the machinations of the Ministry, the Celtorian Horror - a colossal sea monster[\[6\]](#cite-note-arch-6) - dragged the city beneath the waves.
 -   The City of Celtor is now located in [Scyphozia, The first Layer of The Depths](First_Layer.md).

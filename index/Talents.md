@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 211690
+revid: 211924
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -298,8 +298,9 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   _**Conditioned Runner**_ \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat. (+1 Passive Agility)
     -   After 3 seconds of sprinting without taking damage, gain increased health regeneration.
-    -   The health regen is reduced in PvP combat.
-    -   Prerequisites: All Alley Cat Talents, 25 Agility
+    -   The increased health regeneration is equal to +(Agility × 2)% health regen, having no bonus at 0 Agility, and scaling up to +200% at 100 Agility.
+    -   Health regen is reduced in PvP combat, reducing the effectiveness of this Talent. Additionally, this Talent is fully disabled in the [Chime of Conflict](Chime_of_Conflict.md).
+    -   Prerequisites: Endurance Runner, Scaredy Cat, 25 Agility
 
 ### All-Knowing
 
@@ -2306,7 +2307,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Despite what the Talent description says, you can still apply burn with Eruption Path.
         -   Burn can still be applied via: Agitating Spark, Flame Within (Self), Flash Point, Immolation, and hitting flammable terrain with Flamecharm or Thundercall Mantras.
         -   Because of there being so few sources of burn application with Eruption path, using Talents that require burn, especially Emperor Flame, with this path is not recommended. Those Talents all still function normally though of course.
-        -   Eruptions have 15 base damage with 5 Flamecharm Scaling. Formula to calculate damage here: "15 \* (1 + (5/10) \* (Flamecharm invest/100))"
+        -   Eruptions have 15 base damage with 5 Flamecharm Scaling. Formula to calculate damage here: "15 \* (1 + 0.005 \* Flamecharm-Investment)"
     -   Prerequisite: 40 Flamecharm
     -   Mutual Exclusive: Flashboil, The Final Act, Wraith Path: Twisted Puppets
 

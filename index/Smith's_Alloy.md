@@ -1,6 +1,6 @@
 ---
 title: "Smith's Alloy"
-revid: 204438
+revid: 211904
 source: https://deepwoken.fandom.com/wiki/Smith's_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Items]
@@ -51,7 +51,6 @@ When used on a compatible weapon, the Smith's Alloy can be used to destroy your 
 
 -   Five of them can be used to craft one [Armorer's Needle](<Armorer's_Needle.md>).
 -   You can hold up to 25 Smith's Alloys at any given point of time.
--   Smith's Alloy can be used on [False Memory](False_Memory.md).
 -   Smith's Alloy can be used in [Chime of Conflict](Chime_of_Conflict.md), and it'll save the data as it normally would.
 -   Smith's Alloy can't be used on Side Weapons, like Shields.
 -   Using Smith's Alloy won't soulbound your weapon. This can be useful for trading or upgrading the weapons of friends.

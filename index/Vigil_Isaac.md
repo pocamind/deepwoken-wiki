@@ -1,6 +1,6 @@
 ---
 title: Vigil Isaac
-revid: 208474
+revid: 211912
 source: https://deepwoken.fandom.com/wiki/Vigil_Isaac
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -37,7 +37,7 @@ Isaac is brother to [Apprentice Kj](Apprentice_Kj.md), having recently become a 
 ### "Vigil's Savior"
 
 1.  To start the quest, the player has to finish Apprentice Kj's dialogue. He will then ask the player to find and rescue Vigil Isaac.
-2.  Vigil Isaac can be found in a house at Upper Erisia, following a path leading from the waterfall at [Burning Stone Gardens](Burning_Stone_Gardens.md) or the [Sea Highway](Sea_Highway.md) connected to the [Isle of Vigils](Isle_of_Vigils.md).
+2.  Vigil Isaac can be found in a house at Upper Erisia, following a path leading from the waterfall at [Burning Stone Gardens](Burning_Stone_Gardens.md) connected to the [Isle of Vigils](Isle_of_Vigils.md).
 3.  After giving a Gale Stone to Vigil Isaac, head back to Apprentice Kj to complete the quest.
 
 ## Location

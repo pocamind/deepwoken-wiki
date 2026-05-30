@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 202386
+revid: 211914
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant, Territory of Etrea]
@@ -232,7 +232,6 @@ After all Authority Guards are defeated, peace is restored and all participating
     3.  Perform a [Flamecharm](Flamecharm.md) Check, which requires Flamecharm 40.
 
 -   Reward of doing Ploom's bidding is the _Pleeksty's Will_ Talent, which increases [Ether](Ether.md) gain from consuming mantra ingredients.
--   The _Pleeksty's Will_ Talent used to give increased [Reservoir](Reservoir.md) gain along with Ether but has since been removed, along with the removal of Reservoir.
 
 ### Frostdrawer Nell Quest
 

@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 211157
+revid: 211913
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -133,7 +133,7 @@ Alternative to missions, you can also gain 80 points from [Jailing](Fort_Merit.m
     -   Potential Locations:
         -   [Starswept Valley](The_Starswept_Valley.md) - near [Sordino](Sordino.md) and the [Union Hook](Union_Hooks.md) that leads up to the Widow Cave; 44 minute time limit
         -   [Starswept Valley](The_Starswept_Valley.md) - right before the [Lifevent](Lifevents.md) that leads towards the Widow cave; 38 minute 30 second time limit
-        -   [The Aratel Sea](The_Aratel_Sea.md) - near the [Sea Highway](Sea_Highway.md) in between [Summer Isle](Summer_Isle.md) and [Miner's Landing](<Miner's_Landing.md>); 1 hour 40 second time limit
+        -   [The Aratel Sea](The_Aratel_Sea.md) - near the overarching stone structure in between [Summer Isle](Summer_Isle.md) and [Miner's Landing](<Miner's_Landing.md>); 1 hour 40 second time limit
     -   Notes/Tips:
         -   When the Mission completes, the Legion Soldiers will immediately lose aggression.
         -   The Legion Soldiers and Captain will be completely passive if you have neutral or higher [Hundred Legions](The_Hundred_Legions.md) reputation.
@@ -295,6 +295,7 @@ Complete 10 missions as Squad leader, then speak to [Warden Jericho](Warden_Jeri
 -   **Breakthrough Drive** - Knocking a player refreshes your Glorious Charge cooldown and extends both effects it has by 5 seconds. \[90 second CD\]
 
 -   **Buster Call** - Radio in the Authority's navy for a buster call, sending out a barrage of bombardment wherever you see fit.
+    -   _**(CURRENTLY BROKEN, DOES NOT ACTIVATE)**_
     -   Grants a Talent tool that lights a flare and highlights a large AoE on the ground. After a considerable delay, that location will be bombed several times, dealing very high damage.
     -   Deals little to no pve monster damage (test if it does work on humanoids)
     -   Applies burn on hit.

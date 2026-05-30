@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 210932
+revid: 211917
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits]
@@ -23,10 +23,9 @@ You may also keep the stats of an Outfit you are currently wearing while choosin
     -   **Slash / Blunt Armor:** Reduce damage taken from Slash or Blunt attacks respectively.
 -   **Elemental Armor:** Reduce damage taken from elemental attacks. Stacks multiplicatively with the following:
     -   **Fire / Ice / Lightning / Wind / Shadow / Ironsing / Blood Armor:** Reduce damage taken from the respective [Attunement](Attunements.md).
-        -   **Note:** Against mantras with double typing (IE: Wind + Slash), the highest resistance is used to reduce its damage.
+-   **Note:** Against attacks with more than one damage type (IE: Wind + Slash), the highest resistance is used to reduce its damage.
 -   **Ether Regen:** Increase Ether regeneration.
--   **Sanity:** Gives bonus sanity to the Wearer.
-    -   Currently only the [Black Diver](Black_Diver.md), [Cala-Mariner](Cala-Mariner.md), and the [Darkened Bastion](Darkened_Bastion.md) Outfits have this stat.
+-   **Sanity:** Gives bonus [Sanity](Insanity.md) to the wearer.
 -   **Stealth:** Reduce the distance and peripheral vision cone at which NPCs and Monsters can spot the player.
     -   To see Outfits that grant Stealth, look over at the [Stealth](Stealth.md) page.
 -   **Carry Load:** Allows the user to carry more items.

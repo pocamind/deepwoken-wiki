@@ -1,6 +1,6 @@
 ---
 title: Primordial Lotuses
-revid: 204269
+revid: 211910
 source: https://deepwoken.fandom.com/wiki/Primordial_Lotuses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients, Harvestables]
@@ -112,4 +112,4 @@ This item cannot be banked.
 
 ## Trivia
 
--   The [Hidden Grove](The_Hidden_Grove.md), a now cut location, was able to produce any of the Primordial Lotuses depending on the season.
+-   [The Hidden Grove](The_Hidden_Grove.md), a now cut location, was able to produce any of the Primordial Lotuses depending on the season.

@@ -1,6 +1,6 @@
 ---
 title: Character Stats
-revid: 205579
+revid: 211920
 source: https://deepwoken.fandom.com/wiki/Character_Stats
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -62,8 +62,8 @@ Check out this website to better understand the calculation and try it out inter
 ### Armor
 
 -   **Physical Armor:** Reduce damage taken from weapons and physical Mantras. Stacks multiplicatively with the following:
-    -   **Slash Armor:** Reduce damage taken from bladed weapons such as swords, daggers, guns or axes.
-    -   **Blunt Armor:** Reduce damage taken from blunt weapons such as maces, fists or hammers.
+    -   **Slash Armor:** Reduce damage taken from bladed weapons such as swords, daggers or axes.
+    -   **Blunt Armor:** Reduce damage taken from blunt weapons such as clubs, fists or hammers.
 -   **Elemental Armor:** Reduce damage taken from elemental attacks. Stacks multiplicatively with the following:
     -   **Blood Armor:** Reduce damage taken from [Bloodrend](Bloodrend.md) attacks.
     -   **Fire Armor:** Reduce damage taken from [Flamecharm](Flamecharm.md) attacks.
@@ -77,20 +77,24 @@ Check out this website to better understand the calculation and try it out inter
 
 Equipment resistances are additive to each other while everything else is combined multiplicatively, leading to the following formula:
 
-Total damage reduction = (1 - ((1 - 0.Outfit General resist) \* (1 - 0.Outfit Specific resist) \* (1 - (0.Equipment resist + 0.Equipment resist + 0.Equipment resist + ...)) \* (1 - 0.other resists) \* (1 - 0.other resists) \* ...)) \* 100
+Total damage reduction = (1 - ((1 - Outfit General resist/100) × (1 - Outfit Specific resist/100) \* (1 - (Equipment resist + Equipment resist + Equipment resist + ...)/100) × (1 - other resists/100) × (1 - other resists/100) × ...)) × 100
+
+-   "Outfit General resist" is referring to **Physical Armor** or **Elemental armor**.
+-   "Outfit Specific resist" is referring to specific damage types; **Blunt**, **Slash**, **Bloodrend**, **Flamecharm**, **Frostdraw**, **Galebreathe**, **Ironsing**, **Shadowcast**, and **Thundercall**. You should only calculate for the damage type that is in relation to the "general resist", for example, calculating your Frostdraw resistance by using your Physical Armor stat as your general resist makes no sense.
+-   "Equipment resist" refers to the resistance stats on the [Equipment](Equipment.md) item(s), not any additional resistance gained through equipment Talents; those are to be calculated separately.
 
 Example 1: If you had [Prophet's Cloak](<Prophet's_Cloak.md>) with a 10 Elemental Resistance arms equipment and a 5 Elemental Resistance helmet, your Flamecharm resistance would look like this
 
--   (1-((1-0.25) \* (1-0.2) \* (1-(0.1 + 0.05))) \* 100 = 49% Flamecharm resistance
+-   (1 - ((1 - 25/100) × (1 - 20/100) × (1 - (10 + 5)/100)) × 100 = 49% Flamecharm resistance
 
-Example 2: If you were wearing [Authority Commander](Authority_Commander.md) with a 16 Physical resistance arms equipment, a 10 Physical resistance helmet, a [Confessor's Charm](<Confessor's_Charm.md>), [Padded Armor](Talents.md#natural-armor), and [Orbital Ice](Talents.md#frostthorn), your Blunt resistance would look like this
+Example 2: If you were wearing [Authority Commander](Authority_Commander.md) with a 16% Physical resistance arms equipment, a 10% Physical resistance helmet, a [Confessor's Charm](<Confessor's_Charm.md>), [Padded Armor](Talents.md#padded-armor), and [Orbital Ice](Talents.md#orbital-ice), your Blunt resistance would look like this
 
--   (1-((1-0.3) \* (1-0.1) \* (1-(0.16 + 0.1 + 0.03)) \* (1-0.03) \* (1-0.15))) \* 100 = 63.12% Blunt resistance
+-   (1 - ((1 - 30/100) × (1 - 10/100) × (1 - (16 + 10 + 3)/100) × (1 - 3/100) × (1 - 15/100))) × 100 = 63.12% Blunt resistance
 
 ### Damage Vs. Monsters
 
 -   Bonus damage against [Monsters](Monsters.md).
-    -   This stat can only be gained through the [Drowned](Drowned.md) Enchant, Echo Unlocks, and the [Megalodaunt Coat](Megalodaunt_Coat.md) and [Pathfinder Elite](Pathfinder_Elite.md) equipment.
+    -   This stat can only be gained through the [Drowned](Drowned.md) Enchant, [Echo Unlocks](Echoes.md#upgrades-unlocks-and-modifiers), and the [Megalodaunt Coat](Megalodaunt_Coat.md) and [Pathfinder Elite](Pathfinder_Elite.md) equipment.
 
 ## Talent Bonuses
 
