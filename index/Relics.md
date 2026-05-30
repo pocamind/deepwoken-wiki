@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 209211
+revid: 211999
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Mechanics, Relics]
@@ -111,6 +111,7 @@ One-time consumables that provide direct improvement value to items, equipment, 
 -   [Lysander Spellhardt](Lysander_Spellhardt.md)
 -   [Diver Expedition Sea Event](Random_Encounters.md#supply-the-diver-expedition)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
+-   [Deep Widow](Deep_Widow.md)
 -   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market
 
  |

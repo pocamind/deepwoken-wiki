@@ -1,9 +1,9 @@
 ---
 title: Fran
-revid: 200845
+revid: 212001
 source: https://deepwoken.fandom.com/wiki/Fran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Individuals with She/her pronouns, Cut Content, Characters mentioned in books]
+categories: [Individuals with She/her pronouns, "Content not present in-game", Cut Content, Characters mentioned in books]
 notices:
   - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
@@ -15,6 +15,10 @@ notices:
 | name | Fran[1] |
 | aspect | Tiran |
 | pronouns | She/her |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

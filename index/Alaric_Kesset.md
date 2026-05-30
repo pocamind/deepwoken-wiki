@@ -1,9 +1,9 @@
 ---
 title: Alaric Kesset
-revid: 198794
+revid: 212009
 source: https://deepwoken.fandom.com/wiki/Alaric_Kesset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Naval personnel of The Central Authority, Characters mentioned in books]
+categories: ["Content not present in-game", Naval personnel of The Central Authority, Characters mentioned in books]
 ---
 
 # Alaric Kesset
@@ -13,6 +13,10 @@ categories: [Naval personnel of The Central Authority, Characters mentioned in b
 | name | Alaric Kesset[1] |
 | alias | Authority Navy Captain[1] |
 | aspect | Adret[1] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

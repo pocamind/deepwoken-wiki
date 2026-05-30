@@ -1,9 +1,9 @@
 ---
 title: Worm
-revid: 181006
+revid: 212048
 source: https://deepwoken.fandom.com/wiki/Worm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Non-sapient species"]
+categories: ["Game-adjacent articles", "Non-sapient species"]
 ---
 
 # Worm
@@ -12,6 +12,10 @@ categories: ["Non-sapient species"]
 |---|---|
 | name | Worm |
 | habitat | First Layer |
+
+**Game-adjacent article**  
+This game content bears more significance to _Deepwoken'_s world than to the game.  
+Thus, this article focuses on that.
 
 ## Description
 

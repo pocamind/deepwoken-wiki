@@ -1,9 +1,9 @@
 ---
 title: Unidentified clam species
-revid: 192140
+revid: 212041
 source: https://deepwoken.fandom.com/wiki/Unidentified_clam_species
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Non-sapient species"]
+categories: ["Content not present in-game", "Non-sapient species"]
 ---
 
 # Unidentified clam species
@@ -11,6 +11,10 @@ categories: ["Non-sapient species"]
 | Unidentified clam species | |
 |---|---|
 | habitat | Southern Luminant[1] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: "Ferryman's Coat Cloth"
-revid: 206864
+revid: 212079
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Coat_Cloth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -22,7 +22,7 @@ categories: [Items, Drops, Ingredients]
 
 ## Description
 
-The **Ferryman's Coat Cloth** is a direct and chest drop from [The Ferryman](The_Ferryman.md). This is a very large piece of dark purple cloth, constantly emitting purple lightning.
+The **Ferryman's Coat Cloth** is a direct and chest drop from [The Ferryman](The_Ferryman.md). It's a very large piece of dark purple cloth, constantly emitting purple lightning.
 
 ## Uses
 

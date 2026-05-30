@@ -1,9 +1,9 @@
 ---
 title: Fox
-revid: 181005
+revid: 212044
 source: https://deepwoken.fandom.com/wiki/Fox
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Non-sapient species"]
+categories: ["Content not present in-game", "Non-sapient species"]
 ---
 
 # Fox
@@ -11,6 +11,10 @@ categories: ["Non-sapient species"]
 | Fox | |
 |---|---|
 | name | Fox[1] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 “ 'fox', like the old world animal? i remember Scholar Tullius giving a public lecture on those. what else will they come up with next? ”
 

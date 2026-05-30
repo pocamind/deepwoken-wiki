@@ -1,9 +1,9 @@
 ---
 title: Aspects
-revid: 209528
+revid: 212012
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Aspects, Character, Mechanics, Creation]
+categories: [Aspects, Character, Mechanics, Creation, Sapient species]
 ---
 
 # Aspects

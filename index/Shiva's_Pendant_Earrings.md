@@ -1,6 +1,6 @@
 ---
 title: "Shiva's Pendant Earrings"
-revid: 210793
+revid: 212080
 source: https://deepwoken.fandom.com/wiki/Shiva's_Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears, Equipment with Talents, Equipment with Exclusive Talents]
@@ -29,6 +29,8 @@ categories: [Equipment, Ears, Equipment with Talents, Equipment with Exclusive T
 Shiva's Pendant Earrings are Rare [Equipment](Equipment.md) items under the "Ears" category.
 
 The [Skillful Recovery](Talents.md#skillful-recovery) Talent recovers more posture in all forms of combat.
+
+Supposedly 35%
 
 ## Obtainment
 

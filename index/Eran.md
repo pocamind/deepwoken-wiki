@@ -1,9 +1,9 @@
 ---
 title: Eran
-revid: 195672
+revid: 212002
 source: https://deepwoken.fandom.com/wiki/Eran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Cut Content, Deceased characters, Characters mentioned in books, Individuals with She/her pronouns]
+categories: ["Content not present in-game", Cut Content, Deceased characters, Characters mentioned in books, Individuals with She/her pronouns]
 notices:
   - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
@@ -17,6 +17,10 @@ notices:
 | pronouns | She/her[1] |
 | family | Fran (girlfriend)[1] |
 | death | Ether drained by the God in the Machine[1] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

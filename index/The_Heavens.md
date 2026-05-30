@@ -1,9 +1,9 @@
 ---
 title: The Heavens
-revid: 179048
+revid: 212063
 source: https://deepwoken.fandom.com/wiki/The_Heavens
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, The Heavens, Locations]
+categories: [Stub pages without reason, StubPages, The Heavens, "Non-playable locations"]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---

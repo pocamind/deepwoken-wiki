@@ -1,9 +1,9 @@
 ---
 title: Edenkite
-revid: 205025
+revid: 212039
 source: https://deepwoken.fandom.com/wiki/Edenkite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Sapient species]
+categories: ["Content not present in-game", Sapient species]
 ---
 
 # Edenkite
@@ -12,6 +12,10 @@ categories: [Sapient species]
 |---|---|
 | name | Elder Edenkite[1][2] |
 | habitat | Northern Luminant[1] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

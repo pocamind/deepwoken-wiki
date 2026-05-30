@@ -1,9 +1,9 @@
 ---
 title: Ehkusa
-revid: 195081
+revid: 212004
 source: https://deepwoken.fandom.com/wiki/Ehkusa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Cut Content, Characters mentioned in books, The Hive]
+categories: ["Content not present in-game", Cut Content, Characters mentioned in books, The Hive]
 notices:
   - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
@@ -15,6 +15,10 @@ notices:
 | name | Ehkusa[1] |
 | aspect | Vesperian[1] |
 | affiliation | The Hive[1] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

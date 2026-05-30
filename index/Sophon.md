@@ -1,9 +1,9 @@
 ---
 title: Sophon
-revid: 206333
+revid: 212025
 source: https://deepwoken.fandom.com/wiki/Sophon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Individuals with He/him pronouns, Characters with status unknown]
+categories: ["Content not present in-game", Individuals with He/him pronouns, Characters of unknown living status]
 ---
 
 # Sophon
@@ -19,9 +19,9 @@ categories: [Vow of Iron Exclusive, Individuals with He/him pronouns, Characters
 
 Variants: [Ilji](Ilji.md)
 
-**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
-For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 “ My brother is a sworn warrior of the clan, and must answer their calls to arms. ”
 

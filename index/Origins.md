@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 210264
+revid: 212043
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Character, Mechanics, Creation, Origins, Features absent in Vow of Iron]
@@ -78,7 +78,7 @@ The player starts out having only the **[Castaway](Castaway.md)** origin, with t
 -   [Deepbound](Deepbound.md): An origin centered around the [First Layer](First_Layer.md) of [The Depths](The_Depths.md).
     -   Deepbounds get an experience boost while farming in the depths, while farming outside of it will net them reduced experience points.
     -   Deepbounds also gain exclusive access to the various amenities and benefits inside [Castle Light](Castle_Light.md).
-        -   While anyone can enter Castle Light, if they entered the depths by dying/drowning, instead of through a [Whirlpool](Whirlpools.md), they will not be able to enter Castle Light due to the yellow barrier in front of it. But a Deepbound can still enter Castle Light even if they die to enter the depths.
+        -   Also, while anyone can enter Castle Light, if they entered the depths by dying/drowning, instead of through a [Whirlpool](Whirlpools.md), they will not be able to enter Castle Light due to the yellow barrier in front of it. But a Deepbound can still enter Castle Light even if they die to enter the depths.
     -   Deepbounds gain a Talent Tool called [Call of the Deep](Deepbound.md#call-of-the-deep): Using it in the depths will teleport them to Castle Light, while using it in the overworld will bring them to the depths.
     -   Deepbounds can spawn in either [Castle Light](Castle_Light.md) or near [The Diluvian Mechanism](The_Diluvian_Mechanism.md), and they are affiliated with [The Divers](The_Divers.md).
 
@@ -99,7 +99,6 @@ The player starts out having only the **[Castaway](Castaway.md)** origin, with t
     -   Ignition Delvers also gain exclusive access to the [Hollow Forge](Hollow_Forge.md), which allows them to craft various [Relics](Relics.md) with recipes that wouldn't be accessible without it. Only Ignition Delvers have access to this.
     -   Ignition Delvers spawn with the [Union Hook](Talents.md#union-hook) Talent from the beginning, allowing them to use [Union Hooks](Union_Hooks.md) without having to do the quest for it first.
     -   Ignition Delvers gain exclusive access to the various amenities and benefits at [The Chariot's Spire](<The_Chariot's_Spire.md>).
-        -   Note: While anyone can enter The Chariot's Spire, if they entered the depths by dying/drowning, instead of through a [Whirlpool](Whirlpools.md), they will not be able to enter the chariot's spire due to the yellow barrier in front of it. An Ignition Delver will be subject to the same fate, unlike Deepbounds and their Castle Light.
         -   Ignition Delvers also gain exclusive access to the Deep Driller in [The Chariot's Spire](<The_Chariot's_Spire.md>), which allows them to reenter [Layer 2](Second_Layer.md) alongside 4 others without a [Light Hook](Light_Hook.md), starting at [The Frontier Furnace](The_Frontier_Furnace.md) with the generator already turned on. Although, this can only be done if the Ignition Delver has already escaped the second layer via the deep driller already.
     -   Ignition Deepdelvers can spawn in either [Miner's Landing](<Miner's_Landing.md>) in the eastern luminant or [The Chariot's Spire](<The_Chariot's_Spire.md>) in the depths, and they are affiliated with [The Ignition Union](The_Ignition_Union.md).
 

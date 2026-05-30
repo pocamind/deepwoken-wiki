@@ -1,9 +1,9 @@
 ---
 title: Saint Jay (individual)
-revid: 194262
+revid: 212017
 source: https://deepwoken.fandom.com/wiki/Saint_Jay_(individual)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Deceased characters, The Five Heroes]
+categories: ["Content not present in-game", Stub pages without reason, StubPages, Deceased characters, The Five Heroes]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -17,6 +17,10 @@ notices:
 | deathdate | 1233 CE[2] |
 
 _This is the renowned [Frostdrawer](Frostdraw.md) and [Circle of Honour](Circle_of_Honour.md) member. For the [Memento](Mementos.md) carrying their memories, see [Saint Jay](<Saint_Jay_(Memento).md>)._
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

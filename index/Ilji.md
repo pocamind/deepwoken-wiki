@@ -1,9 +1,9 @@
 ---
 title: Ilji
-revid: 198092
+revid: 212022
 source: https://deepwoken.fandom.com/wiki/Ilji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages requiring a cleanup, Quests]
+categories: ["Content not present in-game", Pages requiring a cleanup, Quests]
 notices:
   - "This page, by declaration of the Inquisition, is of insufficient quality and requires a cleanup to better meet the Wiki's quality standards. Help improve this article by improving formatting, spelling and the general layout. Within this dark a blazing light!"
 ---
@@ -13,6 +13,10 @@ notices:
 | Ilji | |
 |---|---|
 | family | Nanji (older sibling) |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 “ We were eachother's closest rivals in the way of the sword. We both trained to best eachother constantly. ”
 

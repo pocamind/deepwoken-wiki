@@ -1,12 +1,18 @@
 ---
 title: Caeranthil
-revid: 189557
+revid: 212056
 source: https://deepwoken.fandom.com/wiki/Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Destroyed locations]
+categories: ["Content not present in-game", Destroyed locations]
 ---
 
 # Caeranthil
+
+_This page is for Caeranthil, the island ravaged by the [Doom of Caeranthil](The_Doom_of_Caeranthil.md) boss._
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

@@ -1,9 +1,9 @@
 ---
 title: Gawain Corbet
-revid: 178306
+revid: 212000
 source: https://deepwoken.fandom.com/wiki/Gawain_Corbet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Characters mentioned in books]
+categories: ["Content not present in-game", Characters mentioned in books]
 ---
 
 # Gawain Corbet
@@ -13,6 +13,10 @@ categories: [Characters mentioned in books]
 | name | Gawain Corbet[1] |
 | aspect | Adret[1] |
 | affiliation | The Ignition Union[1] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

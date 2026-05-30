@@ -1,6 +1,6 @@
 ---
 title: Unsung
-revid: 206961
+revid: 212036
 source: https://deepwoken.fandom.com/wiki/Unsung
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Exclusive Outfits]
@@ -36,5 +36,5 @@ This Outfit has 3000 durability and grants +30% Physical resistance ResistanceBl
 
 ## Trivia
 
--   Despite being a unique Outfit for members of the _Order of the Unsung_ guild, it is worn by [Aska](Aska.md) and can be obtained normally in [Vow of Iron](Vow_of_Iron.md).
+-   Despite being a unique Outfit for _certain_ members of the _Order of the Unsung_ guild, it is worn by [Aska](Aska.md) and can be obtained normally in [Vow of Iron](Vow_of_Iron.md).
 -   This outfit is a clothing asset made by **SirAndrove2**
