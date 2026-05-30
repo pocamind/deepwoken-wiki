@@ -1,9 +1,9 @@
 ---
 title: Ulysses Disii
-revid: 208504
+revid: 211975
 source: https://deepwoken.fandom.com/wiki/Ulysses_Disii
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Black Divers, Characters mentioned in books, Individuals with unspecified pronouns]
+categories: ["Content not present in-game", Black Divers, Characters mentioned in books, Individuals with unspecified pronouns]
 ---
 
 # Ulysses Disii
@@ -13,6 +13,10 @@ categories: [Black Divers, Characters mentioned in books, Individuals with unspe
 | name | Ulysses Disii[1] |
 | alias | Ranger Commander[1], Commander[1] |
 | affiliation | The Divers[1], Black Divers division[1] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 “ How resolute of you. Should we clap? Should the High Convocation throw you a party? Should we invite Drallis Ehr? ”
 

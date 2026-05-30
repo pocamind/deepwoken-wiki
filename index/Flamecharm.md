@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 211605
+revid: 211971
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -516,6 +516,8 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 -   This Mantra is heavily incentivized for use in PvE.
 -   Cannot hitstun players.
 -   Has damage falloff at range, scaling from where the player is in reference to the target **not** where the Sentinel is.
+-   Can be use to break all of Chaser active Blood Jars if placed in the middle.
+-   Can break two cycles worth of Blood Jars if done as soon as Chaser Blood Jars are connected to him after you talk to him.
 -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md#sparks), causing the sentinel to remain at the cast position. Because the Sentinel normally rises _after_ its casted, this spark will leave the Sentinel at ground level if cast while grounded.
 
  |

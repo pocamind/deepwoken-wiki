@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 211648
+revid: 211961
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -112,7 +112,7 @@ Upon taking the Vanguard Path, you will automatically be granted [Justicar's Arm
 -   **Soaring Swiftkick** - Flying Swiftkick no longer consumes your speed boost and instead gives you more speed.
     -   Prerequisites: Flying Swiftkick
 -   **Vanguard Style** - When using the [Jus Karita](Jus_Karita.md) critical attack, turn it into a kick that brings your enemies up in the air. Landing the critical attack while your opponent is in the air brings them up and slightly stuns them while upgrading your next critical.
-    -   This new critical attack has 20 base damage, and adopts your current weapon's scaling stat.
+    -   This new critical attack has 20 base damage with no investment scaling.
 -   **Vanguard's Onslaught** - Landing a Vanguard Style Jus Karita critical attack makes you deal 20% more damage in the air for the next 5 seconds.
     -   Prerequisites: Vanguard Style
 

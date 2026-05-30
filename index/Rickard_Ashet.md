@@ -1,9 +1,9 @@
 ---
 title: Rickard Ashet
-revid: 178307
+revid: 211980
 source: https://deepwoken.fandom.com/wiki/Rickard_Ashet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Naval personnel of The Central Authority, Characters mentioned in books]
+categories: ["Content not present in-game", Naval personnel of The Central Authority, Characters mentioned in books]
 ---
 
 # Rickard Ashet
@@ -14,6 +14,10 @@ categories: [Naval personnel of The Central Authority, Characters mentioned in b
 | alias | Retired Venerable Fleet Admiral[1] |
 | aspect | Adret |
 | affiliation | The Central Authority[1] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 “ Anything's a bullet if you launch it fast enough. ”
 

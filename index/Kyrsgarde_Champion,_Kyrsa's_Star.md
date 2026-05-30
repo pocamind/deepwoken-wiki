@@ -1,6 +1,6 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 211186
+revid: 211969
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Individuals with He/him pronouns]
@@ -225,6 +225,7 @@ Parry
 
 ## Tips and Strategy
 
+-   **You can break the Permafrost Colosseum at any time.** If you don't feel like you are able to beat the Kyrsgarde Champion at any point while in it, you are able to get out and escape alive.
 -   If the player doesn't hit the Kyrsgarde Champion, Kyrsa's Star, it won't use its **Permafrost Colosseum** move. This lets you be able to practice and leave at any time you want.
     -   Though, if you walk far enough away from the gate, the initial two Kyrsgarde Lancers will respawn. This could either be a useful healthpack, or your untimely end.
 -   Be aware of your positioning, as the space-time collapse vortexes are still active even when you're fighting the Kyrsgarde Champion, Kyrsa's Star.

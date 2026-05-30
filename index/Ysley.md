@@ -1,9 +1,9 @@
 ---
 title: Ysley
-revid: 202185
+revid: 211974
 source: https://deepwoken.fandom.com/wiki/Ysley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages requiring a cleanup, Individuals with He/him pronouns, The Hive, Characters mentioned in books]
+categories: ["Content not present in-game", Pages requiring a cleanup, Individuals with He/him pronouns, The Hive, Characters mentioned in books]
 notices:
   - "This page, by declaration of the Inquisition, is of insufficient quality and requires a cleanup to better meet the Wiki's quality standards. Help improve this article by improving formatting, spelling and the general layout. Within this dark a blazing light!"
 ---
@@ -15,6 +15,10 @@ notices:
 | name | Ysley |
 | pronouns | He/him[1] |
 | affiliation | The Hive |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

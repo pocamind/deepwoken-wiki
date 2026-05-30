@@ -1,9 +1,9 @@
 ---
 title: "Ka'al"
-revid: 184310
+revid: 211982
 source: https://deepwoken.fandom.com/wiki/Ka'al
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Cut Content, The Hive, Characters mentioned in books, Deceased characters]
+categories: ["Content not present in-game", Cut Content, The Hive, Characters mentioned in books, Deceased characters]
 notices:
   - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
@@ -16,6 +16,10 @@ notices:
 | aspect | Vesperian[1] |
 | affiliation | The Hive[1] |
 | death | Sliced in half by Cirryn[1] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

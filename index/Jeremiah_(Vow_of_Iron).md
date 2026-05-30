@@ -1,6 +1,6 @@
 ---
 title: Jeremiah (Vow of Iron)
-revid: 195994
+revid: 211958
 source: https://deepwoken.fandom.com/wiki/Jeremiah_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the First Layer]
@@ -29,7 +29,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Jeremiah is an [Etrean](Etrean.md) NPC. If the player has a [Blessed Gem](Blessed_Gem.md) [Bloodless Gem](Bloodless_Gem.md), [Blue Gem](Blue_Gem.md), [Insignia Gem](Insignia_Gem.md), [Wayward Gem](Wayward_Gem.md), and [Wind Gem](Wind_Gem.md) in their inventory, Jeremiah can teach the [Ether Erudite](Ether_Erudite.md) [Memento](Mementos.md).
+Jeremiah is an [Etrean](Etrean.md) NPC. If the player has a [Blessed Gem](Blessed_Gem.md), [Bloodless Gem](Bloodless_Gem.md), [Blue Gem](Blue_Gem.md), [Insignia Gem](Insignia_Gem.md), [Wayward Gem](Wayward_Gem.md), and [Wind Gem](Wind_Gem.md) in their inventory, Jeremiah can teach the [Ether Erudite](Ether_Erudite.md) [Memento](Mementos.md).
 
 He wears a [Vanguard Brace](Vanguard_Brace.md), [Vanguard Boots](Vanguard_Boots.md), and [Polarised Eyeglasses](Polarised_Eyeglasses.md) with the [Cutthroat Light Armor](Cutthroat_Light_Armor.md) outfit.
 

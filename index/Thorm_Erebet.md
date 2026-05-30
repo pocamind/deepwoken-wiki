@@ -1,9 +1,9 @@
 ---
 title: Thorm Erebet
-revid: 198792
+revid: 211976
 source: https://deepwoken.fandom.com/wiki/Thorm_Erebet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Naval personnel of The Central Authority, Characters mentioned in books]
+categories: ["Content not present in-game", Naval personnel of The Central Authority, Characters mentioned in books]
 ---
 
 # Thorm Erebet
@@ -14,6 +14,10 @@ categories: [Naval personnel of The Central Authority, Characters mentioned in b
 | alias | Fleet Admiral[1] |
 | aspect | Adret[1] |
 | affiliation | The Central Authority[1] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

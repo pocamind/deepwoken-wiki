@@ -1,9 +1,9 @@
 ---
 title: Ryrda
-revid: 184097
+revid: 211979
 source: https://deepwoken.fandom.com/wiki/Ryrda
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Cut Content, The Hive, Deceased characters, Characters mentioned in books]
+categories: ["Content not present in-game", Cut Content, The Hive, Deceased characters, Characters mentioned in books]
 notices:
   - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
@@ -16,6 +16,12 @@ notices:
 | aspect | Vesperian |
 | affiliation | The Hive (previously)[2] |
 | death | Killed by Fran in revenge for Eran[1] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
+
+  
 
 ## Description
 

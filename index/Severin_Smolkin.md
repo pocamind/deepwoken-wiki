@@ -1,9 +1,9 @@
 ---
 title: Severin Smolkin
-revid: 193431
+revid: 211977
 source: https://deepwoken.fandom.com/wiki/Severin_Smolkin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Individuals with He/him pronouns, Gunsmiths, Characters mentioned in books]
+categories: ["Content not present in-game", In progress without reason, InProgressPages, Individuals with He/him pronouns, Gunsmiths, Characters mentioned in books]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -17,6 +17,10 @@ notices:
 | pronouns | He/him[1] |
 | affiliation | The Summer Company[1] |
 | family | Unnamed father[1] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

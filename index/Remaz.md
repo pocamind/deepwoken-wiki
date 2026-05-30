@@ -1,9 +1,9 @@
 ---
 title: Remaz
-revid: 199651
+revid: 211981
 source: https://deepwoken.fandom.com/wiki/Remaz
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Individuals with He/him pronouns, Cut Content, Characters mentioned in books, The Hive]
+categories: [Individuals with He/him pronouns, "Content not present in-game", Cut Content, Characters mentioned in books, The Hive]
 notices:
   - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
@@ -16,6 +16,10 @@ notices:
 | aspect | Vesperian[1] |
 | pronouns | He/him |
 | death | Sealed in the Lifeless Chamber with rogue Cirryn[1] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 211924
+revid: 211968
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2307,7 +2307,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Despite what the Talent description says, you can still apply burn with Eruption Path.
         -   Burn can still be applied via: Agitating Spark, Flame Within (Self), Flash Point, Immolation, and hitting flammable terrain with Flamecharm or Thundercall Mantras.
         -   Because of there being so few sources of burn application with Eruption path, using Talents that require burn, especially Emperor Flame, with this path is not recommended. Those Talents all still function normally though of course.
-        -   Eruptions have 15 base damage with 5 Flamecharm Scaling. Formula to calculate damage here: "15 \* (1 + 0.005 \* Flamecharm-Investment)"
+        -   Eruptions have 15 base damage with 5 Flamecharm Scaling. Formula to calculate damage here: "15 \* (1 + 0.005 \* Flamecharm Investment)"
     -   Prerequisite: 40 Flamecharm
     -   Mutual Exclusive: Flashboil, The Final Act, Wraith Path: Twisted Puppets
 
@@ -2330,7 +2330,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Spotter \[Common Talent, Charisma\] - Marking enemies while in Rhythm will now indicate their health status to your allies.
     -   Activated by using Callout (pressing Z).
-        -   Callout's keybind can be configured in settings.
     -   **Disabled on players with Not a Scratch.**
     -   Prerequisites: 40 Charisma, [Murmur: Rhythm](Murmur%253A_Rhythm.md), Callout OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
         -   Note: This Talent does not work if you don't have Callout, you'll need Callout to use Soulbreaker's Spotter.
@@ -2489,8 +2488,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Breathing Exercise \[Common Talent, Willpower\] - Your sanity recovers more quickly once out of terrifying situations. (+5 Health)
     -   Your passive sanity regen is increased by 50%
-        -   You do not regen sanity when something is actively draining it, like being in The Depths.
-    -   Increases passive sanity regeneration at day time 0.25>0.375 sanity per second (0.05>0.075 during night time), Campfire sanity regen 0.5>0.75 sanity per second.
+        -   You do not regen sanity when something is actively draining it, like being in [The Depths](The_Depths.md).
+    -   Increases passive sanity regeneration from 0.25/s -> 0.375/s during the day, 0.05/s -> 0.075/s during the night, and 0.5/s -> 0.75/s when resting at a [Campfire](Campfire_Pit.md).
     -   Prerequisite: 5 Willpower
     -   The [Celtor Commander Plate](Celtor_Commander_Plate.md) and [Pathfinder Lantern](Pathfinder_Lantern.md) equipment have this Talent.
 
@@ -2599,6 +2598,66 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   The amount of sanity damage per hit will scale down if you have less than 85 Willpower.
     -   Prerequisites: 85 Willpower
 
+### Miscellaneous
+
+-   Brassneck \[Common Talent, Strength, Fortitude\] - Knocking an enemy grants you 20% damage resistance for 15 seconds.
+    -   This **does** work on non humanoid monsters, granting you the damage resistance buff on kill.
+    -   Prerequisites: 35 Fortitude, 30 Strength
+    -   This Talent was previously named "Berserker."
+
+-   _Careful Handling_ \[Quest Talent\] - Reduce your chances of dropping ingredients on death.
+    -   Prerequisite: Complete [Suri](Suri.md)'s quest
+
+-   Dragon's Song \[Common Talent\] - Using a mantra after an uppercut grants ether.
+    -   Grants +20 Ether on proc.
+    -   2 second cooldown.
+
+-   Full Reset \[Common Talent\] - Knocking an enemy resets your [resonance](Resonance.md) cooldowns. This effect has a 60 second cooldown.
+    -   Prerequisites: [Power](Power.md) 16, Obtain resonance
+
+-   Gourmand \[Common Talent\] - Your hunger and thirst gain from eating is increased. (+5 Carry Load, +1 Posture)
+    -   Increases hunger and thirst gain by 20%.
+    -   Having this alongside the [Gourmet](Boons_and_Flaws.md#gourmet) Boon increases the hunger and thirst gain from eating by 80%.
+    -   Prerequisite: [Power](Power.md) 5
+    -   The [Chef's Toque](<Chef's_Toque.md>) equipment has this Talent.
+
+-   Heavy Haul \[Common Talent, Strength\] - Enemies who carry you move significantly slower. Take slightly less posture damage from large enemies. Takes one to know one.
+    -   Prerequisite: 15 Strength
+    -   The [Grand Authority Plate](Grand_Authority_Plate.md) equipment has this Talent.
+
+-   Martyr \[Common Talent\] - When you're knocked [Unconscious](Status_Effects.md#unconscious), enemies gain less health and posture, and allies around you are granted [Martyrdom](Status_Effects.md#martyrdom) for 20s.
+    -   Martyrdom grants +20% damage and damage reduction for 20 seconds.
+    -   Martyrdom cannot be given to the player who knocked you, even if they are your ally. Additionally, Martyr does not consider yourself an ally, meaning the buffs won't be applied to yourself.
+    -   Enemies who knock you restore only half of the posture and health they would normally obtain (50% -> 25%).
+    -   If the enemy have the Talent Replenishing Knockout, both Talents negate each other, resulting in a normal health pack.
+    -   Prerequisite: [Power](Power.md) 3
+
+-   Pack Mule \[Common Talent\] - The max quantity for food you can hold is increased by 5. (+10 Carry Load)
+    -   Stacks with the [Boon](Boons_and_Flaws.md#packmule) of the same name, increasing the maximum amount of food items you can carry in one stack from 10 to 20.
+    -   Prerequisite: 5 Fortitude
+
+-   _Pleeksty's Will_ \[Quest Talent\] - You gain significantly more ether from consuming elemental ingredients.
+    -   Consuming [Gale Stones](Gale_Stone.md), [Heartstars](Heartstar.md), [Dying Embers](Dying_Embers.md), [Spark Glands](Spark_Gland.md), and [Frigid Prisms](Frigid_Prism.md) gives significantly more Ether.
+    -   Consuming elemental ingredients has a 20 second cooldown.
+    -   Is also a requirement to fight [Aska](Aska.md) in Firfire. Without either this Talent, Pleeksty's Faith, or the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) you will wipe through his flames.
+    -   Prerequisite: "Ploom's Embers" Quest in [Etris](Etris.md) with 40 Flamecharm **OR** 50 Charisma **OR** by completing quest requirements.
+
+-   Polite Awakening \[Common Talent\] - Recover 15% of your max health after getting up from being downed. (Only Procs when below 20% HP) (+1 Passive Agility)
+    -   The [Khan Pauldrons](Legion_Pauldrons.md) and [Woodland Pauldrons](Woodland_Pauldrons.md) equipment have this Talent.
+
+-   Ready or Not \[Common Talent, Fortitude\] - The first attack to hit you while out of combat has its damage cut in half.
+    -   Prerequisite: 20 Fortitude
+    -   The [Royal Pathfinder](Royal_Pathfinder.md) equipment has this Talent.
+
+-   Replenishing Knockout \[Common Talent\] - You gain more health and posture from downing enemies.
+    -   Knocking enemies will replenish 1.5x more of your health and posture (50% -> 75%).
+    -   If the target has the Talent Martyr, both Talents negate each other, resulting in a normal health pack.
+    -   Prerequisite: [Power](Power.md) 3
+
+-   _Treefelling Blow_ \[Quest Talent\] - You can collect lumber from the trees you fell with your fists. It's only natural.
+    -   Allows you to gain [Wood](Wood.md) when you destroy trees with [Strong Left](Attunement-less.md#strong-left).
+    -   Prerequisites: Use [Strong Left](Attunement-less.md#strong-left) on a tree and then speak to [Korin](Korin.md) or [Drefa](Drefa.md) to obtain the Treefelling Blow quest. Once you have the quest, destroy 5 more trees with Strong Left and return to the respective quest giver.
+
 ### [Murmur](Murmur.md)
 
 -   **[Murmur: Ardour](Murmur%253A_Ardour.md)** \[Common Talent, Unlockable Talent\] - An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press H.
@@ -2608,12 +2667,10 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Gain a +2.5% (+5% if [Soulbreaker](Oath%253A_Soulbreaker.md)) damage buff to M1s and criticals with the M1 tag. Additionally applies a +15% damage buff to M1s and criticals with the M1 tag that guardbreak.
     -   Drains Ether while active. Ether drain scales inversely with your level, being entirely negated at power 20.
     -   Ardour automatically deactivates if you have no Ether. This also happens upon using Ardour Scream.
-    -   Ardour's activation keybind can be configured in settings.
     -   Prerequisite: Kill the [Dread Serpent](Dread_Serpent.md) or [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) OR talk with the [Old Stranger](Old_Stranger.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
 
 -   Ardour Scream \[Common Talent, Strength, Willpower\] - Amplify your shout into a scream using Ardour, dominating weaker foes, Victims take 12.5% more damage and 50% more posture damage for 10s. (Tool in your inventory) (+9 Sanity).
-    -   Activated by utilizing the Ardour Scream tool in your inventory or holding and releasing your Ardour hotkey.
-        -   Ardour's keybind can be configured in settings, changing the key you'll need to hold in order to activate Ardour Scream (default H).
+    -   Activated by utilizing the Ardour Scream tool in your inventory or holding and releasing your Ardour hotkey (H).
     -   Takes 100% Ether to be used, therefore deactivating Ardour.
         -   Can be used at 40% Ether rather than needing to be at 100% with the [Soulbreaker](Oath%253A_Soulbreaker.md) Oath.
     -   Instead of debuffing affected players and making them take 12.5% more damage, it actually applies an on-hit buff when attacking someone affected by Ardour Scream, granting a 25% damage buff to that attack. This means Ardour Scream **is** affected by the damage modifier cap.
@@ -2622,14 +2679,12 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: 40 Willpower, 15 Strength, [Murmur: Ardour](Murmur%253A_Ardour.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
 
 -   **[Murmur: Rhythm](Murmur%253A_Rhythm.md)** \[Common Talent, Unlockable Talent\] - An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched.
-    -   Rhythm's activation keybind can be configured in settings.
     -   Pings all nearby Monsters, NPC’s, and Players, through walls while gray-scaling your screen.
     -   Red = Low Health, Yellow = Moderate Health, Grey = Healthy.
     -   **Disabled on players with Not a Scratch.**
     -   Prerequisite: Complete the Quest in the [Second Layer](Second_Layer.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
 
 -   **[Murmur: Tacet](Murmur%253A_Tacet.md)** \[Common Talent, Unlockable Talent\] - An application of your Soul Murmur that enables the user to suppress their own murmur. Press T while crouched.
-    -   Tacet's activation keybind can be configured in settings.
     -   On use, a sphere around your character will be created. This sphere is commonly referred to as the 'Tacet bubble'. To everyone outside of the bubble, you are invisible.
     -   Tacet bubble size scales inversely on your level and your [stealth](Stealth.md) stat, becoming smaller the higher your level and the more stealth you have.
     -   Being in Tacet grants 400 Stealth, making you effectively invisible to PvE enemies; sometimes even physically touching the NPC directly will not cause them to aggro. However, the unaggro range is still fairly large, even in Tacet, so you may need to run away before reactivating Tacet.
@@ -2697,12 +2752,11 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Nimble Blade
 
 -   Fast Blade \[Common Talent, Agility\] - Extend the speed boost you get from successfully parrying an attack. (+1 Passive Agility)
-    -   Increases the parry speed boost from 12.5% to 27.5%, and duration from 0.5s to 1.5s.
-    -   Parrying without this Talent gives you a 12.5% speed boost, but it's barely noticeable and lasts for the duration of the parry (0.5s).
+    -   Increases the effectiveness of the on-parry speed boost from 12.5% to 27.5%, and duration its from 0.5s to 1.5s.
     -   Prerequisite: 20 Agility
 
 -   _Lightspeed Reflexes_ \[Rare Talent, Agility, Intelligence\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
-    -   Grants 0.15s of auto-parry frames.
+    -   The auto-parry window is 0.03s, almost requiring the player themselves to have light speed reflexes...
     -   Prerequisites: 20 Agility, 20 Intelligence
 
 -   Speed Emission \[Common Talent, Agility\] - Gain a slight speed boost after landing a vent.
@@ -2766,7 +2820,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Sleight of Hands \[Common Talent, Light Weapon\] - 1H Guns When you flourish an opponent you instantly load a bullet.
     -   Prerequisites: 50 Light Weapon, using a Pistol
 
--   Ultrakill \[Common Talent, Light Weapon\] - 1H Guns When under the effects of Rapid Fire you reload 2X as fast.
+-   Ultrakill \[Common Talent, Light Weapon\] - 1H Guns When under the effects of [Rapid Fire](Status_Effects.md#rapid-fire) you reload 2X as fast.
     -   Prerequisites: Rapid Fire, 55 Light Weapon, using a Pistol
 
 ### Politician
@@ -2954,9 +3008,9 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   _Family Recipe_ \[Quest Talent\] - You can now craft bombs at a crafting bench.
     -   [Iron Bombs](Iron_Bomb.md) are crafted with 2 [Iron](Ores.md#iron) and 1 [Coal](Ores.md#coal) at any crafting bench.
     -   Bombs have a base damage of 10, scaling on [Intelligence](Attributes.md#int). At 100 Intelligence, they deal 45.5 damage.
-    -   Bombs deal typeless damage, ignoring armor resistances.
+    -   Bombs deal typeless damage, ignoring armor resistances. They also [Ragdoll](Status_Effects.md#ragdoll) on hit.
     -   Press E while holding a bomb to throw it. Press M1 while holding a bomb to drop it at your feet.
-    -   Bombs do not deal self damage.
+    -   Bombs deal self damage.
     -   Bombs have a 5 second cooldown on throw.
     -   It is highly recommended that you use the [Miner's Hardhat](<Miner's_Hardhat.md>) when farming for the crafting materials, as it doubles your mining output with a chance to quadruple it.
     -   Prerequisite: Complete [Lucien](Lucien.md)'s quest.
@@ -3085,7 +3139,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         -   This cannot give more than 50 Temporary Health in one instance.
     -   This reduces Rush Hour's self damage by 22%, from 4.5 damage per tick to 3.5 damage per tick.
     -   Despite what the description states, this Talent still procs when hitting monsters or other non-player enemies.
-    -   Combining Enhanced Flow and [**Already Dead**](#already-dead) will reduce the self damage taken from Rush Hour by 39%.
+    -   Combining Enhanced Flow and Already Dead will reduce the self damage taken from Rush Hour by 39%.
     -   Prerequisites: 90 Bloodrend, 90 Weapon (90 Light // 90 Medium // 90 Heavy), Rush Hour
 
 -   Torture Mastery \[Common Talent, Bloodrend, Weapon\] - Landing a critical on opponents applies 15 seconds of Torture Mastery. Heal any chip damage off players who have Torture Mastery on them. This duration is doubled if you have Rush Hour on.
@@ -3127,6 +3181,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   _Dirty Boxing_ \[Rare Talent, Agility\] - Fist Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly and makes PvE enemies [Sluggish](Status_Effects.md#sluggish). (+1 Passive Agility)
     -   8 second cooldown.
     -   This Talent also works with [Jus Karita](Jus_Karita.md).
+    -   The Sluggish status effect grants 15% damage reduction against the target, lasting for the duration of the slow that procced it.
     -   Prerequisites: Any [Fist style](Fists.md) or Kick style equipped, 25 Agility
 
 -   Pocket Sand \[Common Talent, Strength, Light Weapon\] - Fist Feinting into an uppercut blinds, applies [Stagger](Status_Effects.md#stagger) to PvE enemies and also applies [Dazed](Status_Effects.md#dazed) briefly. We're even now, right?
@@ -3144,8 +3199,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Mutual Exclusive: Rending Needle: Augmenter
 
 -   Artisan's Blade \[Common Talent, Ironsing\] - Activating Scrapsinger forges a metal blade behind you for every 2 rods you consume. Metal blades will fire at a target upon landing an ironsing or metal infused attack.
-    -   Each Artisan Blade has 8 Base damage with 5 Ironsing scaling; simplified formula as follows: 8 + 0.04 \* Ironsing investment. They deal 4.5 posture damage each if blocked. Their damage cannot be modified.
-    -   Has 6.47x PVE scale (10 DMG PVP, 64.70 PVE DMG).
+    -   Each Artisan Blade has 8 Base damage with 5 Ironsing scaling; simplified formula as follows: 8 × (1 + 0.005 × Ironsing investment). They deal 4.5 posture damage each if blocked. Their damage cannot be modified.
+    -   Has a 6.47x PvE damage multiplier.
     -   Artisan's blade have windup of 1.2s.
     -   Parrying Artisan's blade gives brief Auto Parry frames.
     -   Pulling rods normally also procs this Talent.
@@ -3173,7 +3228,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Septicemia
 
 -   _**Gruesome Harvest**_ \[Advanced Talent, Bloodrend\] - Landing Bloodrend mantras on opponents with over 70% blood poison will give you slight temporary health.
-    -   Grants 15 flat temporary health on proc.
+    -   Grants 15 flat [Temporary Health](Status_Effects.md#temporary-health) on proc.
     -   Has a 2 second cooldown between procs.
     -   Prerequisite: 85 Bloodrend
 
@@ -3203,12 +3258,15 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Obtained at 1 Shadowcast
 
 -   Adept Shadowcaster \[Mantra Level Talent, Shadowcast\] - You can now obtain 1-star Leveled Shadowcaster Mantras.
+    -   This Talent will be removed from you if you no longer meet its requirements.
     -   Obtained at 20 Shadowcast
 
 -   Expert Shadowcaster \[Mantra Level Talent, Shadowcast\] - You can now obtain 2-star Leveled Shadowcaster Mantras.
+    -   This Talent will be removed from you if you no longer meet its requirements.
     -   Obtained at 30 Shadowcast
 
 -   Master Shadowcaster \[Mantra Level Talent, Shadowcast\] - You can now obtain 3-star Leveled Shadowcaster Mantras. (+5 Health)
+    -   This Talent will be removed from you if you no longer meet its requirements.
     -   Obtained at 50 Shadowcast
 
 -   Blossoming Darkness \[Common Talent, Shadowcast\] - The more Ether you drain during Shadow Roar, the bigger it gets.
@@ -3251,10 +3309,9 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Turtle Shell \[Common Talent, Fortitude\] - If your shield is on your back, take reduced backstab damage and negate Spine Cutter.
     -   Grants 25% damage reduction to attacks from the back.
-    -   **Currently does not work.**
     -   Turtle Shell is pretty inconsistent, as some attacks will bypass it entirely and deal their full damage. Ex: [Sightless Beam](Oath%253A_Blindseer.md#sightless-beam) and [Radiant Dawn](Oath%253A_Dawnwalker.md#radiant-dawn).
     -   Each time this Talent takes effect, white square particles will release from around the user.
-        -   This shares a visual effect with the [Arcwarder](Oath%253A_Arcwarder.md) "Arc Suit" mantra.
+        -   This shares a visual effect with the [Arc Module: Guard](Oath%253A_Arcwarder.md#arc-module-guard) Talent.
     -   Prerequisites: 50 Fortitude, Knight's Rally
 
 ### Shock Therapy
@@ -3281,10 +3338,11 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   [Bleed](Status_Effects.md#bleed) damage can proc this effect.
     -   Prerequisites: 60 Galebreathe, [Power](Power.md) 10
 
--   _**A World Without Song**_ \[Advanced Talent, Galebreathe\] - Every 3 hits with a Wind Mantra now procs [Suffocating.](Status_Effects.md#suffocate)
+-   _**A World Without Song**_ \[Advanced Talent, Galebreathe\] - Every 3 hits with a Wind Mantra now procs [Suffocating](Status_Effects.md#suffocation).
     -   Requires 4 hits to proc if you have less than 75 Galebreathe.
     -   Requires 5 hits to proc if you have less than 40 Galebreathe.
     -   Suffocation prevents the victim from casting Mantras and deals a small amount of damage over time.
+    -   Creates an Apparition on proc instead if you have Specter Path.
     -   Prerequisites: 75 Galebreathe, Silencer's Blade
 
 ### Silentheart
@@ -3368,14 +3426,13 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   _Golden Tongue_ \[Rare Talent, Charisma\] - Typing or using a gesture gives a random buff to you and those around you. (60 second cooldown)
     -   Sending a message in chat or using an emote will proc this Talent.
-    -   Can either restore 30% of max ether or grant 10% damage reduction for 30 seconds, similar to reinforce (does not stack).
+    -   Can either restore 30% of max ether or grant 10% damage reduction for 30 seconds. The damage reduction effect does not stack with [Reinforce](Attunement-less.md#reinforce).
     -   The buff is random for each person affected.
-    -   For every point in Charisma above 40, the cooldown will be decreased by 0.25 seconds, having a 45 second cooldown at 100 Charisma.
-    -   For every point in Charisma below 40, the cooldown will be increased by 0.25 seconds, having a 1 minute 6.25 second cooldown at 15 Charisma.
+    -   Has a 70 second cooldown at 0 Charisma, with every point of Charisma reducing its cooldown by 0.25 seconds. This has a 66.25 second cooldown at 15 Charisma, 60 second cooldown at 40 Charisma, and 45 second cooldown at 100 Charisma.
     -   Prerequisite: 40 Charisma
 
 -   Snake Oil \[Common Talent, Charisma\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a Talent description, I can't stop you.
-    -   Gain 40% more notes from selling items.
+    -   Gain 40% more Notes from selling items.
     -   Prerequisite: 30 Charisma
 
 ### Songmaster
@@ -3395,7 +3452,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   _Bloodiron Spirit_ \[Rare Talent\] - You regain some Armor upon killing enemies. (+5 Health)
     -   Any kill gives you 2.5% of your total armor durability.
-    -   Stacks with [Bloodiron Ring](Bloodiron_Ring.md), totalling in 5% armor per kill.
+    -   Also restores Natural Armor durability on kill.
+    -   Stacks with [Bloodiron Ring](Bloodiron_Ring.md), which has the same effect.
 
 ### Soulbreaker
 
@@ -3602,7 +3660,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisite: 50 Intelligence
     -   The [Veteran Adventurer](Veteran_Adventurer.md) Outfit has this Talent.
 
--   Hard Read \[Common Talent, Intelligence\] - Hitting your opponent during a feint will cause them to be [Dazed](Status_Effects.md#dazed).
+-   Hard Read \[Common Talent, Intelligence\] - Hitting your opponent during a feint will cause them to be [Dazed](Status_Effects.md#daze).
     -   Applies daze for 1 second.
     -   Prerequisite: 20 Intelligence
 
@@ -3619,7 +3677,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisite: 20 Intelligence
 
 -   Water off a Duck's Back \[Common Talent, Intelligence\] - Venting will shift any elemental status effects affecting you onto those hit by your vent. Will also remove potion splash statuses on vent.
-    -   Transfers [Suffocation](Status_Effects.md#suffocate), [Winded](Status_Effects.md#winded), [Chill](Status_Effects.md#chill), [Shock](Status_Effects.md#shock), [Burn](Status_Effects.md#burn), and [potion](Alchemy.md) effects from yourself to your enemy on vent.
+    -   Transfers [Suffocation](Status_Effects.md#suffocation), [Winded](Status_Effects.md#winded), [Chill](Status_Effects.md#chill), [Shock](Status_Effects.md#shock), [Burn](Status_Effects.md#burn), and [potion](Alchemy.md) effects from yourself to your enemy on vent.
     -   Prerequisite: 50 Intelligence
 
 ### Tamed Flame
@@ -3633,15 +3691,15 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Artisan Chef \[Common Talent, Intelligence, Charisma\] - The food you cook now becomes Artisan food, increasing its hunger and thirst gained by +25%.
     -   Increases food nutritional value by 25%.
-    -   Increases the amount of health regenerated by [Fondant Splitter's](Fondant_Splitter.md) critical by a flat +1.25 on each tick, totaling to +2.5 Health. This stacks additively with Master Chef's effect, which does the same thing.
-        -   Having both Master and Artisan Chef will increase the healing amount from [Fondant Splitter's](Fondant_Splitter.md) critical from a flat 15 to a flat 20.
+    -   Increases the amount of health regenerated by [Fondant Splitter's](Fondant_Splitter.md) critical by a flat +1.25 on each tick, totaling to +2.5 Health. This stacks additively with the healing increase on all other Facebook Talents.
+        -   Having all Tavernkeep will increase the healing amount from [Fondant Splitter's](Fondant_Splitter.md) critical from a flat 15 to a flat 24.
     -   Prerequisites: 25 Intelligence, 15 Charisma, Cooked 50 [Food](Food.md) items
         -   The food items must be cooked individually to count; bulk crafting will **not** count as multiple food items cooked. Additionally, any craftable food item works.
 
 -   Master Chef \[Common Talent, Intelligence, Charisma\] - Buffs applied by food you cook now have their buff effects amplified by +30%.
     -   Increases food boosts by 30%.
-    -   Increases the amount of health regenerated by [Fondant Splitter's](Fondant_Splitter.md) critical by a flat +1.25 on each tick, totaling to +2.5 Health. This stacks additively with Artisan Chef's effect, which does the same thing.
-        -   Having both Master and Artisan Chef will increase the healing amount from [Fondant Splitter's](Fondant_Splitter.md) critical from a flat 15 to a flat 20.
+    -   Increases the amount of health regenerated by [Fondant Splitter's](Fondant_Splitter.md) critical by a flat +1.25 on each tick, totaling to +2.5 Health. This stacks additively with the healing increase on all other Tavernkeep Talents.
+        -   Having all Tavernkeep Talents will increase the healing amount from [Fondant Splitter's](Fondant_Splitter.md) critical from a flat 15 to a flat 24.
     -   Prerequisites: 25 Intelligence, 15 Charisma, Cooked 50 [Food](Food.md) items
         -   The food items must be cooked individually to count; bulk crafting will **not** count as multiple food items cooked. Additionally, any craftable food item works.
 
@@ -3651,6 +3709,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   The hunger and thirst steal are NOT affected by damage modifiers or resistances, rather exclusively being based on scaled damage dealt.
     -   Acts similarly to and stacks additively with the Gluttony enchant.
     -   Procs on: [The Long Tong of The Law](The_Long_Tong_of_The_Law.md), [The Flippers of Fate](The_Flippers_of_Fate.md), [The Pastry Paster](The_Pastry_Paster.md), and [Fondant Splitter](Fondant_Splitter.md).
+    -   Increases the amount of health regenerated by [Fondant Splitter's](Fondant_Splitter.md) critical by a flat +2 on each tick, totaling to +4 Health. This stacks additively with the healing increase on all other Tavernkeep Talents.
+        -   Having all Tavernkeep Talents will increase the healing amount from [Fondant Splitter's](Fondant_Splitter.md) critical from a flat 15 to a flat 24.
     -   Obtained from: [Chef's Toque](<Chef's_Toque.md>)
 
 ### The Demon Blade
@@ -3803,12 +3863,15 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Obtained at 1 Thundercall
 
 -   Adept Thundercaller \[Mantra Level Talent, Thundercall\] - You can now obtain 1-star Thundercaller mantras.
+    -   This Talent will be removed from you if you no longer meet its requirements.
     -   Obtained at 20 Thundercall
 
 -   Expert Thundercaller \[Mantra Level Talent, Thundercall\] - You can now obtain 2-star Thundercaller mantras.
+    -   This Talent will be removed from you if you no longer meet its requirements.
     -   Obtained at 30 Thundercall
 
 -   Master Thundercaller \[Mantra Level Talent, Thundercall\] - You can now obtain 3-star Thundercaller mantras. (+5 Health)
+    -   This Talent will be removed from you if you no longer meet its requirements.
     -   Obtained at 50 Thundercall
 
 -   Discovery of Fire \[Common Talent, Thundercall\] - Flints and Flamecharm are for simpletons.
@@ -4047,7 +4110,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: Flying Swiftkick, [Justicar](<Justicar_(Origin).md>) Origin, promotion reward from the [Vanguard Path](<Justicar_(Origin).md#vanguard-path>)
 
 -   **Vanguard Style** \[Faction Talent, [Justicar](<Justicar_(Origin).md>) Exclusive\] - When using the [Jus Karita](Jus_Karita.md) critical attack, turn it into a kick that brings your enemies up in the air. Landing the critical attack while your opponent is in the air brings them up and slightly stun them while upgrading your next critical.
-    -   This new critical attack has 20 base damage, and adopts your current weapon's scaling stat.
+    -   This new critical attack has 20 base damage with no investment scaling.
     -   Prerequisites: [Justicar](<Justicar_(Origin).md>) Origin, promotion reward from the [Vanguard Path](<Justicar_(Origin).md#vanguard-path>)
 
 -   **Vanguard's Onslaught** \[Faction Talent, [Justicar](<Justicar_(Origin).md>) Exclusive\] - Landing a Vanguard Style [Jus Karita](Jus_Karita.md) critical attack makes you deal 20% more damage in the air for the next 5 seconds.
@@ -4079,6 +4142,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   This is additive with Vigil's Grace, granting +0.06x swing speed when combined.
     -   Both this and Vigil's Grace are applied before [Lightning Cloak](Thundercall.md#lightning-cloak)'s swing speed multiplier.
     -   Prerequisites: 70 Agility, [Adrenaline Surge](Attunement-less.md#adrenaline-surge) (Mantra)
+        -   The [Vigil Sentinel](Vigil_Sentinel.md) Outfit has this Talent
 
 -   Bear Trap \[Common Talent, Strength, Agility\] - Landing a hit with your critical makes your opponent unable to jump for a duration. Also slows your opponent and procs [Sluggish](Status_Effects.md#sluggish) on PvE. (+1 Passive Agility)
     -   The status effect is represented by blood pouring from the legs.
@@ -4105,7 +4169,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Works with M1s and criticals.
     -   Prerequisite: 25 Agility
 
--   Spinning Swordsman \[Common Talent, Agility\] - Running attacks do +15% extra damage when you have a [speed boost](Status_Effects.md#speed-boost). (+1 Passive Agility)
+-   Spinning Swordsman \[Common Talent, Agility\] - Running attacks do +15% extra damage when you have a speed boost. (+1 Passive Agility)
     -   Prerequisite: 20 Agility
 
 ### Visionshaper
@@ -4120,7 +4184,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Reality Shift \[Oath Talent, [Visionshaper](Oath%253A_Visionshaper.md)\] - Command the closest conjured servant to attack their hallucinating target, either using a Critical Attack or a Mantra.
     -   The last non-Oath mantra or critical attack you used before spawning your clones will be stored into the clone. The stored ability will be listed above the clone's head in white text with a purple outline.
-    -   Pressing J or utilizing the Reality Shift tool will make your clones use their stored ability.
+    -   Pressing J will make your clones use their stored ability.
     -   Clones created from Mirror Illusion or Illusory Counter's Reversal Spark will copy your opponent's last used critical or Mantra instead.
     -   If the clone is too far away from your opponent upon using Reality Shift, they will teleport to them.
     -   Clones will copy your attunement path and mantra modifiers when utilizing your mantras, but they do **not** utilize your enchants or most Talents.
@@ -4129,7 +4193,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Shaper Mimicry \[Oath Talent, [Visionshaper](Oath%253A_Visionshaper.md)\] - The servants you have conjured will imitate your actions when you Swing/Block/Parry/Jump.
     -   Although it isn't listed in the Talent description, your clones will also Vent when you Vent.
-        -   Your clones will still Vent even if you don't have enough Tempo.
+        -   Your clones will still Vent even if _you_ can't Vent due to not having enough Tempo or currently being in an animation.
     -   Prerequisites: [Oath: Visionshaper](Oath%253A_Visionshaper.md), turn in X [Void Feathers](Dark_Feather.md#void-feather) to [Surge](Surge.md) OR pay Surge 10 to skip Visionshaper's progression (requires you to have fully progressed the Oath previously).
 
 ### Vocalist
@@ -4186,7 +4250,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Warrior
 
--   _Chronostasis_ \[Rare Talent\] - Landing a Basic Attack or Critical puts the target's [Resonance](Resonance.md) on cooldown for a short duration, while also applying \[\[Status Effects#Ether Sunder\]|Ether Sunder\]\]\]to PvE opponents. (+1 Posture)
+-   _Chronostasis_ \[Rare Talent\] - Landing a Basic Attack or Critical puts the target's [Resonance](Resonance.md) on cooldown for a short duration, while also applying [Ether Sunder](Status_Effects.md#ether-sunder)to PvE opponents. (+1 Posture)
     -   On hit, apply a 13 second Resonance cooldown.
     -   This cannot proc if their Resonance is already on cooldown.
     -   The Ether Sunder status effect grants you 30% damage reduction against affected enemies' elemental attacks.
@@ -4239,66 +4303,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Scorching Decay \[Common Talent, Flamecharm, Weapon\] - The wither dealt from your Emperor's Flame is massively increased.
     -   Increases the Wither application from your Emperor Flame from 25 to 75.
     -   Prerequisites: Emperor Flame, 100 Flamecharm, 100 Weapon (100 Light // 100 Medium // 100 Heavy)
-
-### Miscellaneous
-
--   Brassneck \[Common Talent, Strength, Fortitude\] - Knocking an enemy grants you 20% damage resistance for 15 seconds.
-    -   This **does** work on non humanoid monsters, granting you the damage resistance buff on kill.
-    -   Prerequisites: 35 Fortitude, 30 Strength
-    -   This Talent was previously named "Berserker."
-
--   _Careful Handling_ \[Quest Talent\] - Reduce your chances of dropping ingredients on death.
-    -   Prerequisite: Complete [Suri](Suri.md)'s quest
-
--   Dragon's Song \[Common Talent\] - Using a mantra after an uppercut grants ether.
-    -   Grants +20 Ether on proc.
-    -   2 second cooldown.
-
--   Full Reset \[Common Talent\] - Knocking an enemy resets your [resonance](Resonance.md) cooldowns. This effect has a 60 second cooldown.
-    -   Prerequisites: [Power](Power.md) 16, Obtain resonance
-
--   Gourmand \[Common Talent\] - Your hunger and thirst gain from eating is increased. (+5 Carry Load, +1 Posture)
-    -   Increases hunger and thirst gain by 20%.
-    -   Having this alongside the [Gourmet](Boons_and_Flaws.md#gourmet) Boon increases the hunger and thirst gain from eating by 80%.
-    -   Prerequisite: [Power](Power.md) 5
-    -   The [Chef's Toque](<Chef's_Toque.md>) equipment has this Talent.
-
--   Heavy Haul \[Common Talent, Strength\] - Enemies who carry you move significantly slower. Take slightly less posture damage from large enemies. Takes one to know one.
-    -   Prerequisite: 15 Strength
-    -   The [Grand Authority Plate](Grand_Authority_Plate.md) equipment has this Talent.
-
--   Martyr \[Common Talent\] - When you're knocked [Unconscious](Status_Effects.md#unconscious), enemies gain less health and posture, and allies around you are granted [Martyrdom](Status_Effects.md#martyrdom) for 20s.
-    -   Martyrdom grants +20% damage and damage reduction for 20 seconds.
-    -   Martyrdom cannot be given to the player who knocked you, even if they are your ally. Additionally, Martyr does not consider yourself an ally, meaning the buffs won't be applied to yourself.
-    -   Enemies who knock you restore only half of the posture and health they would normally obtain (50% -> 25%).
-    -   If the enemy have the Talent Replenishing Knockout, both Talents negate each other, resulting in a normal health pack.
-    -   Prerequisite: [Power](Power.md) 3
-
--   Pack Mule \[Common Talent\] - The max quantity for food you can hold is increased by 5. (+10 Carry Load)
-    -   Stacks with the [Boon](Boons_and_Flaws.md#packmule) of the same name, increasing the maximum amount of food items you can carry in one stack from 10 to 20.
-    -   Prerequisite: 5 Fortitude
-
--   _Pleeksty's Will_ \[Quest Talent\] - You gain significantly more ether from consuming elemental ingredients.
-    -   Consuming [Gale Stones](Gale_Stone.md), [Heartstars](Heartstar.md), [Dying Embers](Dying_Embers.md), [Spark Glands](Spark_Gland.md), and [Frigid Prisms](Frigid_Prism.md) gives significantly more Ether.
-    -   Consuming elemental ingredients has a 20 second cooldown.
-    -   Is also a requirement to fight [Aska](Aska.md) in Firfire. Without either this Talent, Pleeksty's Faith, or the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) you will wipe through his flames.
-    -   Prerequisite: "Ploom's Embers" Quest in [Etris](Etris.md) with 40 Flamecharm **OR** 50 Charisma **OR** by completing quest requirements.
-
--   Polite Awakening \[Common Talent\] - Recover 15% of your max health after getting up from being downed. (Only Procs when below 20% HP) (+1 Passive Agility)
-    -   The [Khan Pauldrons](Legion_Pauldrons.md) and [Woodland Pauldrons](Woodland_Pauldrons.md) equipment have this Talent.
-
--   Ready or Not \[Common Talent, Fortitude\] - The first attack to hit you while out of combat has its damage cut in half.
-    -   Prerequisite: 20 Fortitude
-    -   The [Royal Pathfinder](Royal_Pathfinder.md) equipment has this Talent.
-
--   Replenishing Knockout \[Common Talent\] - You gain more health and posture from downing enemies.
-    -   Knocking enemies will replenish 1.5x more of your health and posture (50% -> 75%).
-    -   If the target has the Talent Martyr, both Talents negate each other, resulting in a normal health pack.
-    -   Prerequisite: [Power](Power.md) 3
-
--   _Treefelling Blow_ \[Quest Talent\] - You can collect lumber from the trees you fell with your fists. It's only natural.
-    -   Allows you to gain [Wood](Wood.md) when you destroy trees with [Strong Left](Attunement-less.md#strong-left).
-    -   Prerequisites: Use [Strong Left](Attunement-less.md#strong-left) on a tree and then speak to [Korin](Korin.md) or [Drefa](Drefa.md) to obtain the Treefelling Blow quest. Once you have the quest, destroy 5 more trees with Strong Left and return to the respective quest giver.
 
 ## Other
 
@@ -4895,6 +4899,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Multiple 
 -   Temple Guard: [Monastery Champion Robes](Monastery_Champion_Robes.md) - For the first 0.3s of your Critical Attack's windup, you take 90% less damage from any attacks that cancel your windup.
 
 -   Tenacity: [Ossified Barrel Helm](Ossified_Barrel_Helm.md) & [Hardened Barrel Helm](Hardened_Barrel_Helm.md) - Greatly shorten the amount of time you are guardbroken for.
+    
+    -   Reduces the guardbreak stun by 75%; from 1.05s to ~0.26s.
 
 -   Terrapod Tracer: [Terraplate Pauldrons](Terraplate_Pauldrons.md) - Deal 0.5% of our opponent's health to opponents who heal off you.
     -   Though not mentioned in the description, this only applies while the target is affected by [Anti-Heal](Status_Effects.md#anti-heal). Any potency of Anti-Heal works.
@@ -4918,9 +4924,11 @@ Certain Talents are given when a specific equipment or outfit is worn. Multiple 
     -   The hunger and thirst steal are NOT affected by damage modifiers or resistances, rather exclusively being based on scaled damage dealt.
     -   Acts similarly to and stacks additively with the Gluttony enchant.
     -   Procs on: [The Long Tong of The Law](The_Long_Tong_of_The_Law.md), [The Flippers of Fate](The_Flippers_of_Fate.md), [The Pastry Paster](The_Pastry_Paster.md), and [Fondant Splitter](Fondant_Splitter.md).
+    -   Increases the amount of health regenerated by [Fondant Splitter's](Fondant_Splitter.md) critical by a flat +1.25 on each tick, totaling to +2.5 Health. This stacks additively with the healing increase on all other Tavernkeep Talents.
+        -   Having all Tavernkeep Talents will increase the healing amount from [Fondant Splitter's](Fondant_Splitter.md) critical from a flat 15 to a flat 24.
 
 -   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) & [Etrean Guard](Etrean_Guard.md) - You have reduced stun duration when block broken.
-    -   Reduces the normal stun duration from 1.05 seconds to 0.7 seconds.
+    -   Reduces the guardbreak stun by 33%; from 1.05s to ~0.7s.
 
 -   Vigil's Grace: [Vigil Sentinel](Vigil_Sentinel.md) - Whenever you gain a speed boost, increase your swingspeed by 0.02.
     -   Stacks additively with Action Surge.
@@ -5040,7 +5048,7 @@ Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. These 
 
 -   Righteous Rage \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - In Berserk State You deal increased damage the lower your health is.
     
-    -   [Temporary Health](Status_Effects.md#temporary-health) does not count for this effect.
+    -   [Temporary Health](Status_Effects.md#temporary-health) does not count against this effect.
     -   Prerequisites: [Berserker](Berserker.md) Memento, defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
 
 -   Rip and Tear \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Regain health upon defeating an enemy.
