@@ -1,6 +1,6 @@
 ---
 title: Second Layer/New Kyrsa
-revid: 208906
+revid: 212163
 source: https://deepwoken.fandom.com/wiki/Second_Layer/New_Kyrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Second Floor of the Second Layer, Dungeons]
@@ -40,7 +40,7 @@ Due to the instability of New Kyrsa, there is a hard-set time limit displayed th
 
 After the Scion is defeated, another collapse will happen in 3 minutes. Failing to reach the escape point will slowly cover your screen in white before you die instantly after 10 seconds (minimum, as shown near the end of the video; [https://youtu.be/YwiBjmDwsh0](https://youtu.be/YwiBjmDwsh0)).
 
--   [Immortal Helm](../Immortal_Helm.md)'s Immortality talent or gaining a [Resonance](../Resonance.md) will save you, but your screen will stay as **pure white**, most likely leading to your death anyways (ex. blindly wandering and falling off a cliff, being attack by enemies you can’t see, etc).
+-   [Immortal Helm](../Immortal_Helm.md)'s Immortality talent or gaining a [Resonance](../Resonance.md) will save you, but your screen will stay as **pure white**, most likely leading to your death anyways (ex. blindly wandering and falling off a cliff, being attacked by enemies you can’t see, etc).
 
 ## Points of Interest
 

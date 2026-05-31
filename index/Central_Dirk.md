@@ -1,6 +1,6 @@
 ---
 title: Central Dirk
-revid: 211455
+revid: 212166
 source: https://deepwoken.fandom.com/wiki/Central_Dirk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, "Weapons with Multi-Hit Criticals", Daggers, Drops, Light Weapons]
@@ -38,7 +38,7 @@ categories: [Authority Faction Item, Weapons, "Weapons with Multi-Hit Criticals"
 
 ## Description
 
-Central Dirk is a LHT weapon under the Dagger category. It has a requirement of 50 LHT, a base damage of 15 and a weapon scaling of 7. It is a very good dagger, but not very optimal to get, so it's best to get a [Krulian Knife](Krulian_Knife.md) instead of grinding for this. Furthermore, it's a rare drop from [King Thresher](King_Thresher.md). This weapon can also be obtained from a Voidwalker's chest or rarely in a merchant ship.
+Central Dirk is a Light weapon under the Dagger category. It has a requirement of 50 LHT, a base damage of 15, and a weapon scaling of 7. You can easily obtain it by making a new [Authority Ensign](Authority_Ensign.md) slot, and then buying it from the armory and banking it.
 
 ## Critical
 
@@ -46,6 +46,5 @@ Central Dirk uses the default Dagger critical, a series of 3 quick slashes. The 
 
 ## Trivia
 
--   The design is somewhat reminiscent of the [Inquisitor's Straight Sword](<Inquisitor's_Greatsword.md>).
-    -   The name further reinforces that it may originate from the Central Luminant.
--   This weapon is exceptionally good for PvE builds that utilize [Ironsing](Ironsing.md)
+-   The design is somewhat reminiscent of the [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>).
+    -   The name further reinforces that it may originate from the [Central Luminant](Luminants.md).

@@ -1,6 +1,6 @@
 ---
 title: Rite of Authority
-revid: 203186
+revid: 212155
 source: https://deepwoken.fandom.com/wiki/Rite_of_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Swords, Medium Weapons, "Attunement-based Weapons", Weapons of The Central Authority, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals]
@@ -36,7 +36,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals 
 
 ## Description
 
-The Rite of Authority is a MED weapon in the Sword category that can be obtained by reaching Seneschal Rank in the Command division under the [Authority Ensign](Authority_Ensign.md) Origin and speaking to [Warden Jericho](Warden_Jericho.md).
+The Rite of Authority is a Medium Sword; an ornate saber capable of channeling Thundercall. It is exclusive to the [Authority Ensign](Authority_Ensign.md) Origin, and is obtained by reaching Seneschal rank in the Command Division and speaking to [Warden Jericho](Warden_Jericho.md).
 
 ## Critical
 

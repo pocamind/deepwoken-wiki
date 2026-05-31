@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 208196
+revid: 212157
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters, Enemies, Humanoids with Unobtainable Outfits]
@@ -180,15 +180,12 @@ The [Solborn](Solborn.md) & [Void Glutton](Void_Glutton.md) [Memento](Mementos.m
 **Blinkstrike**  
 (★★★)
 
- | Zi'eer will move to a specific distance from the Inheritor, ~briefly highlighted in yellow before~ dashing towards them and spinning through the air to slice them with his heel. If the Inheritor is hit, they will take moderate damage and be ragdolled. Otherwise, Zi'eer will follow up with **Flash Equalizer**.
+ | Zi'eer will move to a specific distance from the Inheritor, briefly highlighted in yellow before dashing towards them and spinning through the air to slice them with his heel. If the Inheritor is hit, they will take moderate damage and be ragdolled. Otherwise, Zi'eer will follow up with **Flash Equalizer**.
 
 -   Zi'eer is fully capable of going through walls with this attack.
     -   As a result, standing away from the walls of the arena is advised: Zi'eer may dash inside a wall, and do one or more attacks that become completely unreactable as a result of the wall hiding his animations.
 
 -   This attack is the first and only instance of sliding being required to avoid an attack, as well as the first use of a yellow telegraph.
-
--   **Due to new telegraphs being implemented, alongside this boss not being maintained, this attack lacks any highlight.**
-    -   **Somehow, this attack is also no longer able to be avoided via sliding, leading to this attack being completely unavoidable. Unfortunately, it is highly unlikely this will be fixed swiftly.**
 
  |  |
 | 
