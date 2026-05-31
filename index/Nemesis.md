@@ -1,6 +1,6 @@
 ---
 title: Nemesis
-revid: 206020
+revid: 212184
 source: https://deepwoken.fandom.com/wiki/Nemesis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Critical Attack Enchantments]
@@ -33,3 +33,7 @@ If you've marked multiple targets, you will teleport to each of them on critical
 -   Nemesis' critical **cannot** be buffed through damage modifiers.
 -   Nemesis' critical **can** proc "on critical" Talents, but as it cannot benefit from damage modifiers, certain Talents may not benefit it.
 -   Nemesis' critical has a range limit of 65-70 studs.
+
+## Trivia
+
+-   This Enchantment's visuals and sound effects are based off the cursed status from _Spiral Knights_.

@@ -1,6 +1,6 @@
 ---
 title: "Familiar Demon's Armor"
-revid: 209669
+revid: 212175
 source: https://deepwoken.fandom.com/wiki/Familiar_Demon's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Hallowtide, Outfits with Talents, Outfits with Exclusive Talents]
@@ -40,7 +40,7 @@ This Outfit has 2500 durability and grants +25% Physical resistance ResistanceBl
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistanceBlunt ResistanceSlash, 32.5% Flamecharm [ResistanceFlamecharm](Flamecharm.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
-The [Demon Step](Talents.md#demon-step) Talent grants a Talent tool that when activated makes the user charge forward in a straight line, gaining i-frames. This consumes 50 Ether and deals 20% of your current posture as self-posture damage on cast with a 1 second cooldown.
+The [Demon Step](Talents.md#demon-step) Talent grants a Talent tool that when activated makes the user charge forward in a straight line, gaining i-frames. This consumes 50 Ether with a 1 second cooldown.
 
 ## Trivia
 

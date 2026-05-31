@@ -1,6 +1,6 @@
 ---
 title: Displacement
-revid: 206350
+revid: 212185
 source: https://deepwoken.fandom.com/wiki/Displacement
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -27,3 +27,7 @@ Upon taking damage from a humanoid, Displacement has a 30% chance to proc. On pr
 ### Notes
 
 -   This enchantment does not proc against non-humanoid NPCs.
+
+## Trivia
+
+-   This Enchantment's sound effect on proc is taken from _The Legend of Zelda: Breath of the Wild's_ Remote Bomb explosion.

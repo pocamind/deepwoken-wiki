@@ -1,6 +1,6 @@
 ---
 title: Curse of the No Life King
-revid: 206325
+revid: 212186
 source: https://deepwoken.fandom.com/wiki/Curse_of_the_No_Life_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -51,4 +51,9 @@ The following effects have reduced effectiveness or are entirely disabled while 
 
 ## Trivia
 
--   This enchantment has the most individual balance changes of any thing in Deepwoken, and is made fun of within the community as being the most nerfed thing in the game.
+-   This enchantment has the most individual balance changes of anything in Deepwoken, and is made fun of within the community as being the most nerfed thing in the game.
+-   This Enchantment is a reference to [the No Life King](https://grimgar.fandom.com/wiki/No-Life_King) from _Fantasy of Grimgar and Ash. It might also be a reference to Hellsing, where Alucard's alias is "No-Life King"._
+    
+    Yayafino confirming the "Curse of The No Life King" is a reference from grimgar
+    
+   .

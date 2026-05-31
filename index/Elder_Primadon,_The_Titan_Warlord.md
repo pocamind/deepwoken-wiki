@@ -1,6 +1,6 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 211230
+revid: 212174
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters, Bosses]
@@ -62,6 +62,7 @@ Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned
  | Elder Primadon brings his right foot high in the air and roars. After a short while, he stomps the ground, dealing colossal damage to anyone unfortunate enough to be under his feet.
 
 -   This move can be parried, but it's much easier to run away given how long he winds up the move for.
+-   If Level 5 Prediction is used on this move it will deal about 9-10% of Elder Primadon's maximum health.
 
  |
 | 

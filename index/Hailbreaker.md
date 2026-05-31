@@ -1,6 +1,6 @@
 ---
 title: Hailbreaker
-revid: 203187
+revid: 212177
 source: https://deepwoken.fandom.com/wiki/Hailbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons with multiple Criticals]
@@ -22,7 +22,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Legendary 
 | attack duration | 0.9s |
 | endlag | 0.1s |
 | penetration | 15% |
-| special effect | Critical changes the stage of the weapon, changing its model and critical. There are three stages in total., Applies Chill or Crystal stacks if the user has the corresponding path. |
+| special effect | Critical changes the stage of the weapon, changing its model and critical. There are three stages in total. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
@@ -42,12 +42,11 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Legendary 
 
 ## Description
 
-The **Hailbreaker** is a [Greatsword](Weapons.md#greatswords) that scales with Frostdraw; it's a dark carbon fiber patterned blade with sharp edges and a slightly lighter-colored trim along the blade's length. The hilt has a futuristic appearance, incorporating glowing cyan accents, which enhance its high-tech aesthetic. It is only obtainable from [Coldheart Fortinbras](Coldheart_Fortinbras.md).
+The **Hailbreaker** is a [Greatsword](Greatswords.md) that scales with Frostdraw; it's a dark carbon fiber patterned blade with sharp edges and a slightly lighter-colored trim along the blade's length. The hilt has a futuristic appearance, incorporating glowing cyan accents, which enhance its high-tech aesthetic. It is only obtainable from [Coldheart Fortinbras](Coldheart_Fortinbras.md).
 
-This weapon comes with the following passives:
+This weapon comes with the following passive:
 
 -   **Ingenious Invention** - The Hailbreaker changes forms upon use of its critical. There are three stages in total, which each affect how the critical is performed.
--   **Cold-hearted Core** - Every hit landed with this weapon applies [Chill](Status_Effects.md#chill) or [Crystal](Status_Effects.md#crystal) stacks if the user has the corresponding path.
 
 ## Critical
 

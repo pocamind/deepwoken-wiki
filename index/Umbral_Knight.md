@@ -1,6 +1,6 @@
 ---
 title: Umbral Knight
-revid: 206099
+revid: 212182
 source: https://deepwoken.fandom.com/wiki/Umbral_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -30,7 +30,10 @@ On weapon hit, Umbral Knight causes a red slash after a 0.25 second delay, deali
 
 ## Trivia
 
--   Prior to January 4th, 2022, Umbral Knight was known as "Curse of the Umbral Knight", and on proc a red, shadowy figure would appear behind the enemy and perform a slash.
+-   Prior to [January 4th, 2024](Version_History/2024.md#january-4th-2024), Umbral Knight was known as "Curse of the Umbral Knight", and on proc a red, shadowy figure would appear behind the enemy and perform a slash.
     -   In early Verse 1, it was known that the "curse" of this enchantment was that you had to grip one player a day, or your character would be wiped. Whether this rumor is true or not is unknown.
 
 Old Umbral Knight
+
+-   Umbral Knight used to hit yourself when procced on an enemy with hyperarmor, this no longer occurs.
+    -   It was initially believed to be an intentional feature, but not even Arch\_Mage was aware it happened, and eventually it was removed.

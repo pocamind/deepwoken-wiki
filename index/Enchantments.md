@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 211679
+revid: 212181
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -28,7 +28,7 @@ Enchantments have a set chance to be applied to a weapon during the following sc
         -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
         -   [Saramaed Hollow](Saramaed_Hollow.md)
 
-You cannot 'stack' enchantments. If you obtain a helmet with Multiplicity while having boots with Multiplicity equipped, you can't equip the Multiplicity helmet.
+You cannot 'stack' two of the same enchantment; If you obtain a helmet with Multiplicity while having boots with Multiplicity equipped, you can't equip the Multiplicity helmet. Alternatively, if you gain Multiplicity on your helmet through [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) while having Multiplicity boots equipped, only one instance of Multiplicity will function.
 
 ## Mechanics
 
@@ -2229,8 +2229,20 @@ Unobtainable
 -   **[August 4th, 2025](Version_History/2025.md#august-4th-2025)** - [Curse of Rhaemen's Ember](<Curse_of_Ysley's_Ember.md>) was renamed to [Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>)
 -   **[Febuary 16th, 2026](Version_History/2026.md#febuary-16th-2026)** - The [Kyrsan Chill](Kyrsan_Chill.md) weapon enchant was added, [Curse of Captain Greene](Curse_of_Captain_Greene.md) and [Suffocated](<Suffocated_(enchantment).md>) weapon enchants were made publically obtainable.
 
-## Tips/Trivia
+## Trivia
 
+-   Curse of the No Life King has the most individual changes of any thing in Deepwoken, and is made fun of within the community as being the most nerfed thing in the game.
+-   Enchanted equipment used to not be able to be smelted by [Jarvis](Jarvis.md). When attempted, he would respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else."
+-   Having a shield, offhand pistol, or parrying dagger equipped along with an enchant will transfer the visual effect and properties of said enchant to the offhand.
+    -   Equipping an enchanted item as a sidearm will have its enchantment be overridden by your main weapon, including the lack of an enchantment.
+-   Providence of Storms, an enchant widely believed to be a removed enchant that combined Providence's Thorns and Obfuscation, was proven to be fake by Developer yayafino on January 1, 2023 on [DaboSenpai's stream](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir).
+-   Astral previously required having met a [Wishmaker](Developer_Specs.md#iltria-leafre-spellhardt-retired) to obtain the enchant.
+-   If you plan to use Deferred for its damage increase, do note that unless your damage is above or equal to 83, 61, or 50 for heavy medium and light respectfully, it is generally better to use Detonation instead.
+-   Most, if not all curse enchantments emit sound when equipped, with some being louder than others.
+-   In Verse 1, it was possible to obtain enchanted torso, face, or ring equipment.
+-   The thunder strike caused by using Storm and Stormbreaker during the rain trains your [Thundercall](Thundercall.md) by a seemingly noticeable portion.
+-   If you were to have more than three equipment enchants equipped at once via unobtainable items, one of those enchants will be automatically disabled. Head, arms, and leg equipment that cannot be enchanted do not count towards this limit.
+-   There is an exceptionally small chance that _any_ head, arms, and legs equipment can be enchanted upon dropping in a chest or being crafted, even if they are unenchantable via any other means. This allows some players to obtain items like a Drowned [Necrotic Cowl](Necrotic_Cowl.md).
 -   A few enchants are based on other series and shows.
     -   Elastic is a reference to Hisoka's Bungee Gum from _Hunter x Hunter_, hence why it was called Bungee Gum previously.
     -   Nemesis' visuals and sound effects are based off the cursed status from _Spiral Knights_.
@@ -2242,39 +2254,3 @@ Unobtainable
         Yayafino confirming the "Curse of The No Life King" is a reference from grimgar
         
        .
--   Curse of the No Life King has the most individual changes of any thing in Deepwoken, and is made fun of within the community as being the most nerfed thing in the game.
--   Enchanted equipment used to not be able to be smelted by Jarvis. When attempted, he would respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else."
--   Stormbreaker used to be able to movestack mantras and parry during its critical.
--   Umbral Knight lost its curse in a shadow update on **December 26/27, 2021**.
-    -   Before that, it used to be: "On proc will summon the Umbral Knight behind your target and will copy your M1s." It was mostly untested, but common belief (said by Infernasu) is that if you didn't grip at least one person per day, you would be absorbed into the weapon, this was not true though and has been confirmed by Yayafino to be a big lie._
-        
-        Yayafino confirming the old Umbral Knight curse was never real.
-        
-        
-        
-        
-        
-        _
-    -   When asked if he would consider adding it back, developer Arch\_Mage dismissed the idea as it would cause too much lag,[\[1\]](#cite-note-1) and still holds that sentiment to this day.
--   Having a shield or parrying dagger equipped along with an enchant will transfer the visual effect of said enchant to the shield/dagger. Do note that it is **purely** cosmetic and does not affect the side weapon's capabilities.
-    -   Equipping an enchanted item as a sidearm will have its enchantment be overridden by your main weapon, including the lack of an enchantment itself.
--   Providence of Storms, an enchant widely believed to be a removed enchant that combined Providence's Thorns and Obfuscation, was proven to be fake by Developer yayafino on January 1, 2023 on [DaboSenpai's stream](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir).
--   Ferocity has negative acceleration on its particles meaning they will follow your movement at 5x speed or higher.
--   Heroism (Formally known as "Blessing of the Hero") Enchant used to do 3x your scaled weapon damage as seen from [infernasus video](https://youtu.be/SOdkNcZATtA?si=ERCaXcVMek6acKTk)
--   Nemesis causes enemies to react to its critical even without a hitbox.
--   Obfuscation is incredibly useful when fighting block-heavy mobs like [Immortal Guardians](Immortal_Guardian.md) or [Enforcers](Enforcer.md).
--   Umbral Knight used to hit yourself when procced on an enemy with hyperarmor, this no longer occurs.
-    -   It was initially believed to be an intentional feature, but not even Arch\_Mage was aware it happened and eventually it was removed.
--   Astral previously required having met a [Wishmaker](Developer_Specs.md#iltria-leafre-spellhardt-retired) to obtain the enchant.
--   If you plan to use Deferred for its damage increase, do note that unless your damage is above or equal to 83, 61, or 50 for heavy medium and light respectfully, it's better to use Detonation.
--   Most, if not all curses emit sound when equipped, with some being louder than others
--   Curse of the Unbidden has weird PvE interactions. Humanoid mob attacks can be countered, while non-humanoid ones can't be. More testing will be done (As of 12/2/24) - Proof : [https://youtu.be/MTHxAKa5cD0](https://youtu.be/MTHxAKa5cD0)
--   In Verse 1, it was possible to obtain a fourth enchant on the torso, face, or ring slot.
--   Blazing can NOT be used to ignite campfires that are unlit by m1's.
--   The thunder strike caused by using Storm during the rain trains your [Thundercall](Thundercall.md) by a seemingly noticeable portion.
-
--   If you are to somehow have more than three equipment enchants equipped via unobtainable items, one of those enchants will be automatically disabled. If you use a normally unenchantable Arms, Legs, or Head equipment ex. Bluestone Boots along with 2 Enchanted ones & use a unobtainable enchanted Face, Torso, or Ring despite already having your enchantable equipment slots full not being able to add more standard enchantable equipment, the only limit is 3 specifically enchanted items so all the enchants + the unenchantable equipment would work.
-
-## References
-
-1.  [↑](#cite-ref-1)
