@@ -1,6 +1,6 @@
 ---
 title: Enchant Grease
-revid: 190443
+revid: 212187
 source: https://deepwoken.fandom.com/wiki/Enchant_Grease
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Enchantments, Equipment Enchantments]
@@ -43,7 +43,8 @@ These Enchant Greases can only be obtained through certain methods. Currently, t
 
 ## Trivia
 
--   You can use enchant grease on already enchanted equipment, it'll just switch the enchant.
+-   You can use Enchant Grease on already enchanted equipment, it'll just switch the enchant.
 -   Enchant Grease is undroppable, but sells for 200 notes if for some reason you want to sell it.
 -   You can pass down Enchant Grease through the [Hippocampal Pool](Hippocampal_Pool.md) for 40 [Echoes](Echoes.md).
 -   Enchant Grease was added in an update on 8/23/2024, Before this the only way to enchant equipment was to spend five [Kyrsan Medallions](Kyrsan_Medallions.md) at [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) whilst holding an equipment item.
+-   Attempting to use Enchant Grease in the [Second Layer](Second_Layer.md) will not work, displaying the message "The Gale interferes with the energy of the grease. Perhaps, on the surface..."
