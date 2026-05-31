@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 211995
+revid: 212151
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, World of Deepwoken, OutdatedPages, SpoilerPages]
@@ -1385,6 +1385,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 -   Although 'Water Magic' is not exactly an Attunement, it is exclusive to The Depths.[\[6\]](#cite-note-arch-6)
     -   Water Magic is the manifestation of the Song's wrath, with the capability of re-enacting Horrors upon island and cities, and the ability to sway and direct the Tide of the sea as seen fit. Those who wield this profound power have already discarded their humanity entirely.[\[6\]](#cite-note-arch-6)
         -   It's the complete inverse of the Flames that keep Humanity alive - the various forges and artifacts scattered throughout the Luminants, which possess immense power to whichever faction is able to wield them. The Lifeweaving Forges possessed by the Hive are able to power teleportation beacons, manufacture the terrifyingly strong Hive Golems, and fuel various contraptions, such as the Gate to the entrance to Greathive Aratel and the boats modified by Lifeweaver technology.
+        -   Water Magic comes directly from the Drowned Gods
 
 ## Oath Lore
 

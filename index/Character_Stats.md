@@ -1,6 +1,6 @@
 ---
 title: Character Stats
-revid: 212135
+revid: 212148
 source: https://deepwoken.fandom.com/wiki/Character_Stats
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -79,17 +79,17 @@ Check out this website to better understand the calculation and try it out inter
 
 ### Armor
 
--   **Physical Armor:** Reduce damage taken from weapons and physical Mantras. Stacks multiplicatively with the following:
-    -   **Slash Armor:** Reduce damage taken from bladed weapons such as swords, daggers or axes.
-    -   **Blunt Armor:** Reduce damage taken from blunt weapons such as clubs, fists or hammers.
--   **Elemental Armor:** Reduce damage taken from elemental attacks. Stacks multiplicatively with the following:
-    -   **Blood Armor:** Reduce damage taken from [Bloodrend](Bloodrend.md) attacks.
-    -   **Fire Armor:** Reduce damage taken from [Flamecharm](Flamecharm.md) attacks.
-    -   **Ice Armor:** Reduce damage taken from [Frostdraw](Frostdraw.md) attacks.
-    -   **Lightning Armor:** Reduce damage taken from [Thundercall](Thundercall.md) attacks.
-    -   **Metal Armor:** Reduce damage taken from [Ironsing](Ironsing.md) attacks.
-    -   **Wind Armor:** Reduce damage taken from [Galebreathe](Galebreathe.md) attacks.
-    -   **Shadow Armor:** Reduce damage taken from [Shadowcast](Shadowcast.md) attacks.
+-   **Physical Armor ResistanceBlunt ResistanceSlash:** Reduce damage taken from weapons and physical Mantras. When on [Outfits](Outfits.md), it stacks multiplicatively with its sub damage types:
+    -   **Slash Armor ResistanceSlash:** Reduce damage taken from bladed weapons such as swords, daggers or axes.
+    -   **Blunt Armor ResistanceBlunt:** Reduce damage taken from blunt weapons such as clubs, fists or hammers.
+-   **Elemental Armor [ResistanceElemental](Attunements.md):** Reduce damage taken from elemental attacks. When on [Outfits](Outfits.md), it stacks multiplicatively with its sub damage types:
+    -   **Blood Armor [ResistanceBloodrend](Bloodrend.md):** Reduce damage taken from [Bloodrend](Bloodrend.md) attacks.
+    -   **Fire Armor [ResistanceFlamecharm](Flamecharm.md):** Reduce damage taken from [Flamecharm](Flamecharm.md) attacks.
+    -   **Ice Armor [ResistanceFrostdraw](Frostdraw.md):** Reduce damage taken from [Frostdraw](Frostdraw.md) attacks.
+    -   **Lightning Armor [ResistanceThundercall](Thundercall.md):** Reduce damage taken from [Thundercall](Thundercall.md) attacks.
+    -   **Metal Armor [ResistanceIronsing](Ironsing.md):** Reduce damage taken from [Ironsing](Ironsing.md) attacks.
+    -   **Wind Armor [ResistanceGalebreathe](Galebreathe.md):** Reduce damage taken from [Galebreathe](Galebreathe.md) attacks.
+    -   **Shadow Armor [ResistanceShadowcast](Shadowcast.md):** Reduce damage taken from [Shadowcast](Shadowcast.md) attacks.
 
 #### Damage Reduction Calculation
 
@@ -97,18 +97,35 @@ Equipment resistances are additive to each other while everything else is combin
 
 Total damage reduction = 1 - ((1 - Outfit General resist%) × (1 - Outfit Specific resist%) \* (1 - (Equipment resist + Equipment resist + Equipment resist + ...)%) × (1 - other resists%) × (1 - other resists%) × ...)
 
--   "Outfit General resist" is referring to **Physical Armor** or **Elemental armor**.
--   "Outfit Specific resist" is referring to specific damage types; **Blunt**, **Slash**, **Bloodrend**, **Flamecharm**, **Frostdraw**, **Galebreathe**, **Ironsing**, **Shadowcast**, and **Thundercall**. You should only calculate for the damage type that is in relation to the "general resist", for example, calculating your Frostdraw resistance by using your Physical Armor stat as your general resist makes no sense.
+-   "Outfit General resist" is referring to **Physical Armor** or **Elemental armor** on [Outfits](Outfits.md).
+-   "Outfit Specific resist" is referring to specific damage type resistances on [Outfits](Outfits.md); **Blunt**, **Slash**, **Bloodrend**, **Flamecharm**, **Frostdraw**, **Galebreathe**, **Ironsing**, **Shadowcast**, and **Thundercall**.
 -   "Equipment resist" refers to the resistance stats on the [Equipment](Equipment.md) item(s), not any additional resistance gained through equipment Talents; those are to be calculated separately.
--   Monster Armor is additive to equipment resistances, and should be considered as such when calculating damage resistance in PvE.
+-   Monster Armor [ResistanceMonster](Monsters.md) is additive to equipment resistances, and should be considered as such when calculating damage resistance in PvE.
+-   If an attack has multiple damage types, your higher resistance stat will take priority. For example, if you have 35% Blunt resistance and 30% Flamecharm resistance, you'll resist 35% of [Ash Slam](Flamecharm.md#ash-slam)'s damage.
+-   Resistances should be calculated in reference to the damage type received. Notable damage types;
+    -   **Typeless damage** has no damage type and therefore cannot be resisted by your Equipment or Outfit resistance stats, leaving these categories blank.
+    -   **Oath damage** [ResistanceOath](Oaths.md) cannot be resisted by Armor, as there is no Outfit or Equipment that has "Oath Armor," meaning [Oathless](Oath%253A_Oathless.md)' Oath Armor will replace your Outfit and Equipment resistances in damage resistance calculations if applicable. However, if an Oath damage attack has multiple damage types, this resistance type may be superseded; see above.
+    -   **True damage** cannot be resisted at all.
 
-Example 1: If you had [Prophet's Cloak](<Prophet's_Cloak.md>) with a 10% Elemental Resistance arms equipment and a 5% Elemental Resistance helmet, and a [Light Eater Ring](Light_Eater_Ring.md), your Flamecharm resistance would look like this
+##### Examples
 
--   1 - ((1 - 25%) × (1 - 20%) × (1 - (10 + 5 + 2 + 2)%)) = 0.514 or 51.4% Flamecharm resistance
+Example 1: If you were wearing [Prophet's Cloak](<Prophet's_Cloak.md>) with a 6% Elemental resistance head equipment a 10% Elemental resistance arms equipment, and a [Light Eater Ring](Light_Eater_Ring.md), your Flamecharm resistance would look like this;
 
-Example 2: If you were wearing [Authority Commander](Authority_Commander.md) with a 16% Physical resistance arms equipment, a 10% Physical resistance helmet, a [Confessor's Charm](<Confessor's_Charm.md>), [Padded Armor](Talents.md#padded-armor), and [Orbital Ice](Talents.md#orbital-ice), your Blunt resistance would look like this
+1 - ((1 - 25%) × (1 - 20%) × (1 - (6 + 10 + 2 + 2)%)) = 0.52 or 52% Flamecharm resistance [ResistanceFlamecharm](Flamecharm.md)
 
--   1 - ((1 - 30%) × (1 - 10%) × (1 - (16 + 10 + 3)%) × (1 - 3%) × (1 - 15%)) = 0.6312 or 63.12% Blunt resistance
+Example 2: If you were wearing [Authority Commander](Authority_Commander.md) with a 10% Physical resistance head equipment, a 16% Physical resistance arms equipment, a [Confessor's Charm](<Confessor's_Charm.md>), [Padded Armor](Talents.md#padded-armor), and [Orbital Ice](Talents.md#orbital-ice), your Blunt resistance would look like this;
+
+1 - ((1 - 30%) × (1 - 10%) × (1 - (10 + 16 + 3)%) × (1 - 3%) × (1 - 15%)) = 0.6312 or 63.12% Blunt resistance ResistanceBlunt
+
+Example 3: If you are [Oathless](Oath%253A_Oathless.md) and are wearing [Ignition Deepdelver](Ignition_Deepdelver.md) with an 8% Physical resistance head equipment, a 12% Physical resistance [Drowned](Drowned.md) arms equipment, [Confessor's Charm](<Confessor's_Charm.md>) and [Steel Scales](Talents.md#steel-scales), and a maxed Monster Armor [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers), your resistance to Monster attacks that deal Slash damage would look like this;
+
+1 - ((1 - 30%) × (1 - (8 + 12 + 20 + 5 + 3)%) × (1 - 3%) × (1 - 8%)) = 0.6752 or 67.52% resistance against Slash ResistanceSlash\-based Monster [ResistanceMonster](Monsters.md) attacks
+
+Example 4: If your opponent has a 30 Slash damage attack with 35% PEN, and you were wearing a [Black Diver](Black_Diver.md) with an 8% Physical resistance head equipment, a 4% Physical resistance arms equipment, a [Bloodiron Ring](Bloodiron_Ring.md), and [Fists of Fortitude](Talents.md#fists-of-fortitude) active, your damage resistance would look like this;
+
+(1 - (((1 - 30%) × (1 - (8 + 4 + 2)%)))) × (1 - 35%) = 0.2587 or 25.87% armor resistance ResistanceBlunt ResistanceSlash
+
+1 - ((1 - 25.87%) × (1 - 15%)) = 0.3699 or 36.99% resistance, and 18.91 damage taken
 
 ## Talent Bonuses
 
