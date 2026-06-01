@@ -1,6 +1,6 @@
 ---
 title: Central Dirk
-revid: 212188
+revid: 212747
 source: https://deepwoken.fandom.com/wiki/Central_Dirk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, "Weapons with Multi-Hit Criticals", Daggers, Drops, Light Weapons]
@@ -38,7 +38,7 @@ categories: [Authority Faction Item, Weapons, "Weapons with Multi-Hit Criticals"
 
 ## Description
 
-Central Dirk is a Light weapon under the Dagger category. It has a requirement of 50 LHT, a base damage of 15, and a weapon scaling of 7. You can easily obtain it by making a new [Authority Ensign](Authority_Ensign.md) slot, and then buying it from the armory and banking it.
+Central Dirk is a Light weapon under the Dagger category. You can easily obtain it by making a new [Authority Ensign](Authority_Ensign.md) slot, and then buying it from the armory and banking it.
 
 ## Critical
 

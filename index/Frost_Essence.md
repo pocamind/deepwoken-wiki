@@ -1,6 +1,6 @@
 ---
 title: Frost Essence
-revid: 205546
+revid: 212793
 source: https://deepwoken.fandom.com/wiki/Frost_Essence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Items, Ingredients]
@@ -15,7 +15,7 @@ categories: [Pathfinder Exclusive, Relics, Items, Ingredients]
 | stack | x99 |
 | rarity | Relic |
 | usage | Crafting |
-| bankable | No |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | A chilling essence obtained within New Kyrsa, not unlike the kind that Kyrsans would fashion and adorn their weapons with. Layered upon the Champion's weapon was frost of a similar kind, though something of a different nature dwelled beneath. As you hold it, you feel yourself struggling to move, your joints locking up. |

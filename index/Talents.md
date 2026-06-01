@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 212650
+revid: 212777
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1541,7 +1541,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Natural Armor loss is based on scaled damage received and cannot normally be increased nor decreased by anything, with the exception being damage reductions, like [Reinforce](Attunement-less.md#reinforce), which will reduce the Natural Armor loss.
     -   Prerequisite: 40 Fortitude.
 
--   _To the Finish_ \[Rare Talent, Fortitude\] - You take 10% less damage when below 30% health. (+5 Health)
+-   _To the Finish_ \[Rare Talent, Fortitude\] - You take 10% less damage when below 30% health.
     -   For every point of Fortitude below 50, To the Finish loses 0.166% damage reduction, having a minimum value of 5.833% damage reduction at 25 Fortitude.
     -   Prerequisite: 50 Fortitude
 

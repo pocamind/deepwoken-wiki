@@ -1,6 +1,6 @@
 ---
 title: Voices of the Depths
-revid: 166312
+revid: 212773
 source: https://deepwoken.fandom.com/wiki/Voices_of_the_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Depths, Voiced Characters]
@@ -58,3 +58,4 @@ _"The state or situation of being alone."_
 
 -   "Odium" is a reference to the book series _The Stormlight Archive_, as are some of the first names that can be chosen.
 -   The Voices may be referencing the "Shards" in Brandon Sanderson's novels, including _The Stormlight Archive_.
+-   Enmity is a pain in the ass

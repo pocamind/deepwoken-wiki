@@ -1,6 +1,6 @@
 ---
 title: Eye of Malice
-revid: 205966
+revid: 212745
 source: https://deepwoken.fandom.com/wiki/Eye_of_Malice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weapons with Unique Animations, Swords, World Event, Legendary Weapons, Medium Weapons]
@@ -41,7 +41,7 @@ The Eye of Malice is a Legendary [Medium Sword](Weapons.md) that drops from [The
 
 This weapon has one passive ability:
 
-**Gaze of The Doom** **\-** Every basic attack applies the Mark of Malice, enhancing the critical. Signified by an orange eye with swirling effects.
+**Gaze of The Doom** - Every basic attack applies the Mark of Malice, enhancing the critical. Signified by an orange eye with swirling effects.
 
 ## Critical
 

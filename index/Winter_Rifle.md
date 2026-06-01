@@ -1,9 +1,9 @@
 ---
 title: Winter Rifle
-revid: 212437
+revid: 212719
 source: https://deepwoken.fandom.com/wiki/Winter_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Rifles, The Summer Company, Medium Weapons, Weapons with Talents, Craftable]
+categories: [Weapons, Rifles, Medium Weapons, Weapons with Talents, Craftable, Weapons of The Summer Company]
 ---
 
 # Winter Rifle

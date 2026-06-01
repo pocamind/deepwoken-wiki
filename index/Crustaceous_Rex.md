@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 191376
+revid: 212732
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -95,4 +95,4 @@ Crustaceous Rex is a hostile Giant-type mob. Whilst appearing scary, it is one o
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-crabcrab-1-0) [1.1](#cite-ref-crabcrab-1-1) [1.2](#cite-ref-crabcrab-1-2) [Version History: June 25th, 2023](Version_History/Uncollapsed.md#june-25th-2023)
+1.  ↑ [1.0](#cite-ref-crabcrab-1-0) [1.1](#cite-ref-crabcrab-1-1) [1.2](#cite-ref-crabcrab-1-2) Version History: [June 25th, 2023](Version_History/2023.md#june-25th-2023)

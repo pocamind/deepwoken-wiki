@@ -1,6 +1,6 @@
 ---
 title: Deepbound
-revid: 211015
+revid: 212778
 source: https://deepwoken.fandom.com/wiki/Deepbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Divers, Origins, Character]
@@ -50,7 +50,7 @@ Your experience gain while in the Depths is greatly increased, while your experi
 
 You can restore your sanity in the Depths by going to [Castle Light](Castle_Light.md) or defeating Monsters. Castle Light will always be open to you, even if you've drowned. Additionally, all NPCs and amenities at Castle Light will be accessible (e.g. the Banker, Antiquarian, and Stove).
 
--   ~Your [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation) is always an [Enforcer](Enforcer.md).~ As of a recent update the Origin was secretly changed so the Depths trial is no longer affected by Deepbound
+-   Your [Depths Trial](Cathedral_of_the_Interstice.md) is always an [Enforcer](Enforcer.md).
 
 ### Call of the Deep
 
@@ -74,7 +74,7 @@ When used in the overworld, the player will delve into the [First Layer](First_L
 ### Cons
 
 -   You gain reduced experience while outside of the Depths.
--   ~Your [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation) will always be an [Enforcer](Enforcer.md), though this is only really a con for lower levels.~
+-   Your [Depths Trial](Cathedral_of_the_Interstice.md) will always be an [Enforcer](Enforcer.md), though this is only really a con for lower levels.
 -   You cannot do [Trial of One](Trial_of_One.md), even if you escape the Depths at Power 1, though the [Diluvian Mechanism](The_Diluvian_Mechanism.md) may be a good alternative.
 -   Deepbound, at least in its progression, is very Depths centered, significantly raising the stakes, as a singular death will lead to you wiping.
 

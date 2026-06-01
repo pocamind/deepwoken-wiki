@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 212635
+revid: 212794
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -785,7 +785,7 @@ Certain bosses are **entirely immune** to Providence Thorns. These are: [Maestro
 
 **Obtainment:**
 
-Providence's Thorns can be obtained from its [Enchant Stone](Enchant_Stone.md), trading with [Laplace](Laplace.md), or obtaining a Providence's Thorns enchanted weapon from a chest.
+Providence's Thorns can be obtained from its [Enchant Stone](Enchant_Stone.md), crafting it with Any Enchant Stone, a Blessed Gem, and a Pristine Lotus, trading with [Laplace](Laplace.md), or obtaining a Providence's Thorns enchanted weapon from a chest.
 
 Providence's Thorns [Enchant Stone](Enchant_Stone.md):
 

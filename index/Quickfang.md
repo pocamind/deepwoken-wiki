@@ -1,6 +1,6 @@
 ---
 title: Quickfang
-revid: 201628
+revid: 212742
 source: https://deepwoken.fandom.com/wiki/Quickfang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons, Echoes]
@@ -49,7 +49,3 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 -   This is the only Rapier that features a hand guard.
 -   Due to its comparatively low stats, it is generally used to obtain rapier Talents early-game rather than for its stats.
-
-## Gallery
-
-Icon in Main Menu Selection

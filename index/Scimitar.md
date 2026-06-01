@@ -1,6 +1,6 @@
 ---
 title: Scimitar
-revid: 196675
+revid: 212770
 source: https://deepwoken.fandom.com/wiki/Scimitar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
@@ -44,7 +44,6 @@ Scimitar uses the default Sword critical, a piercing stab. It has a scaled damag
 
 This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
-## Gallery
+## Trivia
 
--   Has the fastest swing speed out of all sword weapons.
 -   In the July 7th 2025 update, the Scimitar was remodeled.

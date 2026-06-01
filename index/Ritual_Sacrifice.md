@@ -1,6 +1,6 @@
 ---
 title: Ritual Sacrifice
-revid: 212681
+revid: 212779
 source: https://deepwoken.fandom.com/wiki/Ritual_Sacrifice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Named Weapons, Legendary Weapons, Weapons with Talents]
@@ -20,7 +20,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | swing speed | 0.9x |
 | attack duration | 0.7s |
 | penetration | 25% |
-| talent | Sacrificial Boon - Sacrifice 5 knowledge to activate Blessing, giving you a random blessing from Navae. |
+| talent | Sacrificial Boon - Sacrifice 5 knowledge to activate Blessing, giving you a random blessing from Navae., Pierce Through - Remove the autoparry frames the first hit of your base spear critical has. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Iron Spear |
@@ -48,6 +48,8 @@ Dying with this weapon equipped or in your inventory causes it to **deteriorate 
 
 Equipping the Ritual Sacrifice grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
+### Sacrificial Boon
+
 **Sacrificial Boon** grants a random buff upon using the Talent tool at the cost of 5. This Talent has a 0.5 second cooldown. The buffs are as follows:
 
 -   20% damage buff. This buff is also applied to Mantras
@@ -56,6 +58,10 @@ Equipping the Ritual Sacrifice grants its unique [weapon Talent](Talents.md#weap
 -   Thirst restoration
 -   Stomach restoration
 -   [Speed Boost](Status_Effects.md#speed-boost) for 10 seconds
+
+### Pierce Through
+
+**Pierce Through** - Remove the autoparry frames the first hit of your base spear critical has.
 
 ## Critical
 

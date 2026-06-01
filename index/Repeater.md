@@ -1,9 +1,9 @@
 ---
 title: Repeater
-revid: 210837
+revid: 212774
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Offhand, Pistols, The Summer Company, Light Weapons]
+categories: [Weapons, Offhand, Pistols, Light Weapons, Weapons of The Summer Company]
 ---
 
 # Repeater
@@ -53,5 +53,5 @@ Repeater uses the default Pistol critical, an empowered shot. It has a scaled da
 
 ## References
 
-1.  [↑](#cite-ref-1) [June 6th, 2024](Version_History/2024.md#june-6th-2024) patchnotes
+1.  [↑](#cite-ref-1) Version History: [June 6th, 2024](Version_History/2024.md#june-6th-2024)
 2.  [↑](#cite-ref-2)

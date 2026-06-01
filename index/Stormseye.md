@@ -1,9 +1,9 @@
 ---
 title: Stormseye
-revid: 203712
+revid: 212734
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons that cannot be equipped on Silentheart, Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", The Summer Company, Medium Weapons]
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons of The Summer Company]
 ---
 
 # Stormseye
@@ -60,7 +60,7 @@ The critical has a cooldown of **10 seconds**.
 
 -   The Stormseye was inspired by the [Touch of Malice](https://destiny.fandom.com/wiki/Touch_of_Malice) from the _Destiny_ franchise and the [Wunderwaffe DG-2](https://callofduty.fandom.com/wiki/Wunderwaffe_DG-2) from the _Call of Duty_ franchise.[\[1\]](#cite-note-1)
 -   Elaborated on in its description, the Stormseye is the combination of the technology of guns and the energy of [Kyrsan Medallions](Kyrsan_Medallions.md) stolen from the Ignition Union, channeled using Thundercall.
-    -   The object in the middle of the gun has a [Kyrsan Medallion](Kyrsan_Medallions.md), furthering its connection to Layer 2.
+    -   The object in the middle of the gun has a [Kyrsan Medallion](Kyrsan_Medallions.md), furthering its connection to the Second Layer.
 -   The bullets shot from the Stormseye took on a yellow color, which would additionally turn blurple if the user had the Surge Path prior to its removal from rifles.
 -   Originally, [Funke, Master of Thunder](Funke,_Master_of_Thunder.md) did not use this weapon and instead used the [Hero Blade of Lightning](Hero_Blades.md).
     -   According to Arch\_Mage, NPCs were not coded to use rifles at the time, despite [Summer Dragoons](<Summer_Dragoon_(NPC).md>) existing.[\[2\]](#cite-note-2)
