@@ -1,6 +1,6 @@
 ---
 title: Pernach
-revid: 203264
+revid: 212569
 source: https://deepwoken.fandom.com/wiki/Pernach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]

@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 208856
+revid: 212500
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -33,6 +33,7 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
     L o w s t r i d e S t e a l t h \= S t e a l t h × 2 + 100 {\\displaystyle LowstrideStealth=Stealth\\times 2+100} {\\displaystyle LowstrideStealth=Stealth\\times 2+100}
 -   Being in [Tacet](Murmur%253A_Tacet.md) provides +400% flat Stealth. Tacet's Stealth cannot receive Stealth gain multipliers.
     -   This is doubled to +800% if you are using [Tacet Minimization](Talents.md#tacet-minimization) from the [Authority Ensign](Authority_Ensign.md) Origin.
+-   The [Sly](Boons_and_Flaws.md#unlockable-boons) Boon grands +15% Stealth.
 -   Equipping specific Outfits:
     -   [Darkened Bastion](Darkened_Bastion.md), [Familiar Assassin's Armor](<Familiar_Assassin's_Armor.md>), [Inquisition Light](Inquisition_Light.md), [Navaen Nomad Robes](Navaen_Nomad_Robes.md), [Navaen War Chief](Navaen_War_Chief.md), and [Whaler Coat](Whaler_Coat.md) all grant +50% Stealth.
     -   [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md) grants +40% Stealth.
@@ -66,14 +67,15 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
 
 ### Maximum Stealth
 
-The current maximum Stealth possible is **1,100%** or **1,180%**, depending on your Aspect;
+The current maximum Stealth possible is **1,130%** or **1,216%**, depending on your Aspect;
 
 -   [Felinor](Felinor.md) - 140% maximum base Stealth, 260% when crouching, and 380% with [Lowstride](Talents.md#lowstride).
--   Any other Aspect - 100% maximum base Stealth, 200% when crouching, and 300% with [Lowstride](Talents.md#lowstride).
--   If you have [Obvious](Boons_and_Flaws.md#obvious), your base Stealth is reduced by 20, or 24 if [Felinor](Felinor.md). This reduces the maximum Stealth to **1,060%** or **1,124%** depending on your Aspect;
-    -   An Obvious Felinor - 112% maximum base Stealth, 218% when crouching, and 324% with [Lowstride](Talents.md#lowstride).
-    -   Any other Aspect with Obvious - 80% maximum base Stealth, 170% when crouching, and 260% with [Lowstride](Talents.md#lowstride).
--   [Tacet](Murmur%253A_Tacet.md) provides 400% flat Stealth, and an additional 400% if you are using [Tacet Minimization](Talents.md#tacet-minimization).
+    -   A [Sly](Boons_and_Flaws.md#unlockable-boons) [Felinor](Felinor.md) - 158% maximum base Stealth, 287% when crouching, and 416% with [Lowstride](Talents.md#lowstride).
+    -   An [Obvious](Boons_and_Flaws.md#obvious) [Felinor](Felinor.md) - 112% maximum base Stealth, 218% when crouching, and 324% with [Lowstride](Talents.md#lowstride).
+-   Any other Aspect - 100% maximum base Stealth, 200% when Crouching, and 300% with [Lowstride](Talents.md#lowstride).
+    -   With [Sly](Boons_and_Flaws.md#unlockable-boons) - 115% maximum base Stealth, 222.5% when crouching, and 330% with [Lowstride](Talents.md#lowstride).
+    -   With [Obvious](Boons_and_Flaws.md#obvious) - 80% maximum base Stealth, 170% when crouching, and 260% with [Lowstride](Talents.md#lowstride).
+-   [Tacet](Murmur%253A_Tacet.md) provides 400% flat Stealth while active, and an additional 400% if you are using [Tacet Minimization](Talents.md#tacet-minimization).
 -   In the [Vow of Iron](Vow_of_Iron.md) gamemode, the [Rogue Assassin](Rogue_Assassin.md) Memento can reach a maximum Stealth value of **1,120** or **1,204%**, depending on the Ironsworn's Aspect. This Memento has 150 Agility when Power 20 alongside having access to Lowstride, Tacet, and Tacet Minimization.
 
 ## Usage

@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper Armor
-revid: 212290
+revid: 212564
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits, The Covenant of Flame, Outfits with Talents, Outfits with Exclusive Talents]
@@ -46,5 +46,4 @@ The [Intrepid Flame](Talents.md#intrepid-flame) Talent extinguishes [burn](Statu
 ## Trivia
 
 -   This Outfit is one of the requirements to fight [Aska](Aska.md).
-    -   Alternatively you can use the [Pleeksty's Faith](Talents.md#pleekstys-faith) OR [Pleeksty's Will](Talents.md#pleekstys-will) Talents instead of this Outfit.
-    -   **If you have none of these equipped, Aska will wipe you instead of starting the fight.**
+    -   Alternatively you can use the [Pleeksty's Faith](Talents.md#pleekstys-faith) OR [Pleeksty's Will](Talents.md#pleekstys-will) Talents instead of this Outfit. If you have none of these equipped, Aska will wipe you instead of starting the fight.

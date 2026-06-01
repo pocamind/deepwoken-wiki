@@ -1,6 +1,6 @@
 ---
 title: Withered Gale Pale
-revid: 211078
+revid: 212438
 source: https://deepwoken.fandom.com/wiki/Withered_Gale_Pale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Greathammers, Heavy Weapons, "Attunement-based Weapons", Weapons with Talents, Legendary Weapons, Reforged Weapons]
@@ -40,7 +40,7 @@ Variants: [Pale Morning](Pale_Morning.md)
 
 The Withered Gale Pale is an endgame [Galebreathe](Galebreathe.md) Greathammer, obtained by interacting with the [Lost Forge](Lost_Forge_of_Leiuna.md) with a [Pale Morning](Pale_Morning.md) equipped.
 
-## Talent: Soar
+## Talents
 
 Equipping the Withered Gale Pale grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

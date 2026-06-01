@@ -1,6 +1,6 @@
 ---
 title: Winter Rifle
-revid: 210560
+revid: 212437
 source: https://deepwoken.fandom.com/wiki/Winter_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, The Summer Company, Medium Weapons, Weapons with Talents, Craftable]
@@ -40,7 +40,7 @@ The Winter Rifle is a [Medium Weapon](Weapons.md#rifles), part of the rifle cate
 
 This weapon gains a unique visual effect when equipped, both held and when holstered.
 
-## Talent: Subzero
+## Talents
 
 Equipping the Winter Rifle grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

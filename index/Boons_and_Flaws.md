@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 206894
+revid: 212649
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics, Character, Creation, Features absent in Vow of Iron]
@@ -46,7 +46,7 @@ These Boons can be chosen at character creation with no requirements for obtainm
   </td>
   <td>Foods are much more nutritional.</td>
   <td>Grants a 50% increase to Stomach and Thirst gain from consuming food.</td>
-  <td>Having this alongside the <a href="Talents.md#gourmand">Gourmand</a> Talent will increase the Stomach and Thirst gain when eating food by 80%.</td>
+  <td>This also increases the duration of your <a href="Food.md">Food</a> buffs by 50%. Having this alongside the <a href="Talents.md#gourmand">Gourmand</a> Talent will increase the Stomach and Thirst gain when eating food by 80%.</td>
   <td>1 Flaw Point</td>
 </tr>
 <tr>
@@ -62,7 +62,7 @@ These Boons can be chosen at character creation with no requirements for obtainm
   </td>
   <td>You have a much higher max carry load, and can carry much larger quantities of food.</td>
   <td>Carry load is increased by 50, item stack limits are increased by 25% (rounded), and the maximum quantity of food you can carry is increased by 5.</td>
-  <td>This affects certain <a href="Relics.md">Relics</a> such as <a href="Dye_Packet.md">Dye Packets</a>. Stacks with the <a href="Talents.md#pack-mule">Pack Mule</a> Talent, granting you a combined total of +10 to the amount of food you can have on your person, double that of what the base is.</td>
+  <td>This affects certain <a href="Relics.md">Relics</a> such as <a href="Dye_Packet.md">Dye Packets</a>. Stacks with the <a href="Talents.md#cooks-kit">Cook's Kit</a> Talent, granting you a combined total of +10 to the amount of food you can have on your person, double that of what the base is.</td>
   <td>1 Flaw Point</td>
 </tr>
 <tr>
@@ -109,9 +109,9 @@ These Boons can be chosen at character creation, but require an additional requi
 <tr>
   <td><b>Sly</b><br>
   </td>
-  <td>You sweet talk your way out of trouble, gaining less bad reputation from committing crimes.</td>
+  <td>You sweet talk your way out of trouble and are naturally more stealthy, gaining less bad reputation from committing crimes.</td>
   <td>Reduces the amount of negative reputation gained from all sources.</td>
-  <td>N/A</td>
+  <td>Grants +15% <a href="Stealth.md">Stealth</a>.</td>
   <td>Unlocked from <a href="Reputation.md#bribe">paying off</a> negative reputation with any <a href="Reputation.md">faction</a>.</td>
   <td>1 Flaw Point</td>
 </tr>
@@ -232,7 +232,7 @@ These Flaws can be chosen at character creation, but require an additional requi
   <td>You start with much lower reputation towards all factions, putting all faction reputation in the negative.</td>
   <td>Paying off your reputation will reset it back to negative, as this is your starting value. Reputation can still be gained normally. Your starting reputation is low enough for guards to aggro on sight and for you to be <a href="Bounty_Hunting.md">bounty hunted</a> at Power 5, but depending on your origin, not low enough for <a href="Blacksmith.md">blacksmiths</a> and <a href="Antiquarian.md">antiquarians</a> to be disabled.</td>
   <td>Gain negative reputation from any faction you originally have positive reputation for (e.g. going from Neutral to Enemy Etrea reputation).</td>
-  <td>1 Flaw Point</td>
+  <td>2 Flaw Points</td>
 </tr>
 </tbody>
 </table>
@@ -302,20 +302,20 @@ These Flaws are granted via specific means instead of being chosen during charac
 
 -   Some boons are more worth taking than others:
     -   **Autodidact** is useful to help level up certain stat quicker or level up stats that are annoying to do manually. If you die, you can also Power up to restore your lives. However, a side effect of free investment points is that you will often be in EXP Debt, as you will "progress" more without meeting proper EXP quotas, hitting training caps faster. Unfortunately, this Boon becomes useless once you reach Power 20. This Boon stacks with the [Adret](Adret.md) Aspect Talent, Maudet, granting 6 free training points on every level up.
-    -   **Gourmet** is a well-rounded boon that even stacks with its Talent variant. You spend less time making food overall which is great for extended adventures with limited supplies. This Boon is generally not worth choosing if you plan on using the [Carnivore](Talents.md#carnivore) Talent, though.
+    -   **Gourmet** is a well-rounded boon that even stacks with its Talent variant. You spend less time making food overall which is great for extended adventures with limited supplies. Additionally, Gourmet's ability to increase the duration of [Food](Food.md) buffs by 50% makes it second to none if you wish to engage with this mechanic. It is recommended that you additionally take the [Tavernkeep](Talents.md#tavernkeep) Talents with this Boon to maximize the satiation and effects from eating certain foods.
     -   **Maverick**'s exp boost is a nice bonus but is fairly unnoticeable, and is negated by playing with some friends. Unfortunately, it becomes useless once you are fully invested.
     -   **Packmule** is very useful for builds that need to carry around a lot of loot, such as bank slots or PvE builds. While nice to have, it's not as impactful as many other Boons unless you're going for one of the aforementioned builds.
     -   **Scrapper** gives you more control over your build by granting additional [Aces](Aces.md). It can be worth taking if you are okay with omitting a long-lasting boon like Survivalist, Gourmet, or Steadfast. Though, if you happen to obtain the [Ace of Spades](Regalia.md#ace-of-spades) Regalia, this Boon will become obsolete.
-    -   **Sly** is largely seen as a waste of a Boon, as all it does is reduce the amount of reputation lost when doing things that might upset factions. It however may be useful for people who gank, especially in the Depths and around [Castle Light](Castle_Light.md).
+    -   **Sly** is largely seen as a waste of a Boon, as all it does is reduce the amount of reputation lost when doing things that might upset factions. It however may be useful for people who gank, especially in the Depths and around [Castle Light](Castle_Light.md) and for builds that want a very high [Stealth](Stealth.md) stat (e.g. for [Tacet](Murmur%253A_Tacet.md)).
     -   **Steadfast** grants a pretty big boost to your overall armor durability by reducing armor damage taken. This Boon is generally seen as a necessity on almost all builds due to its universal bonus that affects all types of combat. All other forms of armor durability reduction stack multiplicatively with this Boon, meaning there are diminishing returns if you plan to use more sources of this effect.
-    -   **Survivalist**'s immunity to [Acid Rain](Environmental_Hazards.md) might seem limited in usage since Acid Rain only happens naturally at [Upper Erisia](Upper_Erisia.md), but it can prove invaluable for spending time there. Acid Rain can also be triggered through the [Rain](<Rain_(enchantment).md>) enchantment if you also have a [Stench](Stench.md) enchantment equipped, making Survivalist a must have if you plan on using this enchantment combo. Survivalist also avoids the dangerous event of your [glider](Gliders.md) breaking when gliding into Acid Rain. In addition, it decreases the rate at which parasites in the Second Layer kill you ([This Video Demonstrates this fact](https://www.youtube.com/watch?v=QK2l_fndlBo)).
+    -   **Survivalist**'s immunity to [Acid Rain](Environmental_Hazards.md) might seem limited in usage since Acid Rain only happens naturally at [Upper Erisia](Upper_Erisia.md), but it can prove invaluable for spending time there. Acid Rain can also be triggered through the [Rain](<Rain_(enchantment).md>) enchantment if you also have a [Stench](Stench.md) enchantment equipped, making Survivalist a must have if you plan on using this enchantment combo. Survivalist also avoids the dangerous event of your [glider](Gliders.md) breaking when gliding into Acid Rain. In addition, it decreases the rate at which parasites in the [Second Layer](Second_Layer.md) kill you.
 
 ## Breakdown of Flaws
 
 -   Some Flaws are more worth taking than others:
     -   **Blind** gives you the Blinded effect constantly, heavily limiting your field-of-vision. If you can live through it long enough to obtain [Blindseer](Oath%253A_Blindseer.md), you can negate the Flaw's downside. This Flaw also provides protection from [Flame Blind](Flamecharm.md#flame-blind) and [Gaze](Attunement-less.md#gaze). Blind also grants your character milky-white eyes.
     -   **Deficient** is a downside for all builds that intend to use Mantras, and is generally not worth taking. However, if you decide to go for [Silentheart](Oath%253A_Silentheart.md), the effect is minor, though still a downside, as Ether can still be useful on this Oath.
-    -   **Fugitive** can be worked around with some patience by [Bribing](Reputation.md#bribe) NPCs, though some factions lack a bribe NPC and will require other methods. This Flaw is effectively negated by the [Noble](Regalia.md#noble) Regalia, as it gives you a large amount of starting reputation for all factions.
+    -   **Fugitive** can be worked around with some patience by [Bribing](Reputation.md#bribe) NPCs, though some factions lack a bribe NPC and will require other methods. This Flaw is effectively negated by the [Noble](Regalia.md#noble) Regalia, as it gives you a large amount of starting reputation for all factions. Additionally, as this Flaw grants 2 Flaw points, this Flaw is a great alternative to Simple.
     -   **Glutton** forces you to handle provisions more smartly, since you will likely need more food for extended sessions, but this can be somewhat worked around by using the [Carnivore](Talents.md#carnivore) and [Grand Feast](Talents.md#grand-feast) Talents or the [guild base](Guild_Bases.md) Mess Hall. This Flaw is **entirely** negated by the [Hungerless](Regalia.md#hungerless) Regalia, as it entirely disables passive stomach/thirst drain.
     -   **Haemophilia** is basically a free Flaw in most 1v1 situations, as the increased blood drain won't have an impact when you'll be knocked before your blood runs out, but in ganks you can die to blood before health runs out after some time. This Flaw (luckily) doesn't affect **blood drain** effects, such as utilizing or being hit by [Bloodrend](Bloodrend.md) Mantras, the blood cost from the Blood Loss [Corrupt Resonance](Resonance.md#corrupt-resonances) downside, [blood loss potions](Alchemy.md), or whiffing with or being hit by the [Curse of the Bloodthirsty](Curse_of_the_Bloodthirsty.md) enchantment, as blood drain effects are unaffected by blood damage modifiers.
     -   **Manic** is usually a free Flaw point; the increased Sanity loss is minimal, Sanity damage comes from few sources, and scratching can be completely avoided with some Talents. Additionally, having low Sanity can even benefit some builds.

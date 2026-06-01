@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 211272
+revid: 212644
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons, Weapons with multiple Criticals, The Covenant of Flame]
@@ -57,7 +57,7 @@ In [Pathfinder](Pathfinder.md), the Pleeksty's Inferno can be obtained from the 
 3.  Head to [Firfire](Firfire.md) and approach the [head of the village](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md). To the right of him will be an opening in the wall.
 4.  When you go through the opening, you'll see a path going to the left. Do not follow the path. Instead, go forward and jump down to the ledge beneath.
 5.  When you jump down, walk forward following the path. (Be careful, don't fall down, there's a hole in the middle of the path) Eventually, you'll reach three Orange Resonance Doors that require a [Resonance](Resonance.md), and 75 Flamecharm to open.
-6.  Fight [Aska](Aska.md) and defeat him. If you do not meet the requirements, you will be killed immediately through burning and wipe.
+6.  Fight [Aska](Aska.md) and defeat him. If you do not meet the requirements, you will be killed immediately through burning and wipe. Note that if you meet al the requirements but dont have a Resonance, he wont wipe you.
 
 Alternatively, if you meet all requirements and have the Destined [Echo](Echoes.md) Modifier, Aska will still attempt to burn you to death, but you will survive and obtain the weapon without needing to fight him.
 

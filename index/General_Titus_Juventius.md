@@ -1,6 +1,6 @@
 ---
 title: General Titus Juventius
-revid: 206386
+revid: 212637
 source: https://deepwoken.fandom.com/wiki/General_Titus_Juventius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Enemies, The Hundred Legions Enemies]
@@ -30,7 +30,7 @@ This content is not accessible outside of this gamemode.
 
 General Titus Juventius is a [boss](Bosses.md) fought at [The Polymarch](The_Polymarch.md) within the Eastern Luminant. He is the captain of his ship, commanding the Red Legion members, presumably the 49th Legion, and a user of [Oath: Blightsurger](Oath%253A_Blightsurger.md), yet a bit weaker than known by his older form. This boss is optional, as he is merely a mission-based boss that only helps you gain [Notes](Notes.md) to power up. If Titus's HP reaches 90%, he forfeits and you unlock the [Theros Disciple](Theros_Disciple.md) [Memento](Mementos.md) and gives the player the [Icarus Sun Shield](Icarus_Sun_Shield.md) before warping away from the player if gone through his dialog.
 
-A young, Silverback Khan with great stature, he's around twice the height of the player. His face forms a stern expression with yellow eyes, while donning a gold crown that sits atop his black dreads. He wears a dark blue [Legion Centurion](Legion_Centurion.md) with his [own cape](<Titus's_Cape.md>). Unlike his older version, he does not have the [Worldpiercer Gauntlets](Worldpiercer_Gauntlets.md) and has not unlocked his [Resonance](Resonance.md) yet, indicating that he still learns how to become stronger, though he should not be underestimated as he's still a tough foe to handle.
+A young, Silverback Khan with great stature, he's around twice the height of the player. His face forms a stern expression with bright yellow eyes, while donning a gold crown that sits atop his black dreads. He wears a dark blue [Legion Centurion](Legion_Centurion.md) with his [own cape](<Titus's_Cape.md>). Unlike his older version, he does not have the [Worldpiercer Gauntlets](Worldpiercer_Gauntlets.md) and has not unlocked his [Resonance](Resonance.md) yet, indicating that he still learns how to become stronger, though he should not be underestimated as he's still a tough foe to handle.
 
 ### Starting the Fight with Titus
 

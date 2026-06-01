@@ -1,9 +1,9 @@
 ---
 title: Summer Hullwrecker
-revid: 209550
+revid: 212517
 source: https://deepwoken.fandom.com/wiki/Summer_Hullwrecker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons, Greatcannons]
+categories: [Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons, Greatcannons, Weapons with Talents]
 ---
 
 # Summer Hullwrecker
@@ -38,6 +38,10 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons, Greatca
 ## Description
 
 A cannon engineered by the Summer Company. This weapon is seen as the entry point to the [Greatcannon](Weapons.md#greatacannons) weapon class, boasting the lowest requirements out of all of the cannons.
+
+## Talents
+
+Equipping the Summer Hullwrecker grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
 ## Critical
 

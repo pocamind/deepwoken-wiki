@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 212304
+revid: 212443
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", Heavy Weapons, Medium Weapons, Weapons with multiple Criticals, "Weapons with Multi-Hit Criticals", Weapons with Talents]
@@ -43,7 +43,7 @@ The Wyrmtooth boasts a massive 9 range and an above average weight of 7; it can 
 
 ~Whilst wielding this weapon, all [Silentheart](Oath%253A_Silentheart.md) abilities receive a **50% damage debuff**.[\[1\]](#cite-note-1)~ As of May 31st 2026, this debuff is no longer applied due to [Silentheart](Oath%253A_Silentheart.md)'s new weapon scaling for abilities [\[2\]](#cite-note-2)
 
-## Talent: Ebb and Flow
+## Talents
 
 Equipping the Wyrmtooth grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

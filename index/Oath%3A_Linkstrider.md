@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 212219
+revid: 212625
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -48,7 +48,7 @@ _Linkstrider **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oat
 
 ## Progression
 
-The only way to obtain each ability is to grip players with an Oath. However, this does not always need to be done at The Entropy Catalyst. **Entropy Link** is acquired on the first grip, then in order, **Symbiotic Link,** **Symbiotic Sustain,** and **Parasitic Leech**. This totals to 6 total player/boss executions: 3 to take the Oath, then 3 more to fully progress it (Same player grips do count). Alternatively, if the Oath has been fully progressed on another character before, 10 knowledge can be spent to fully progress it on the current character. To skip the progression for Linkstrider, interact with the slots where you place the people to max it out.
+The only ways to obtain each ability is to grip players with an Oath or killing a boss **while having a Pristine Lotus**. However, this does not always need to be done at The Entropy Catalyst. **Entropy Link** is acquired on the first grip, then in order, **Symbiotic Link,** **Symbiotic Sustain,** and **Parasitic Leech**. This totals to 6 total player/boss executions: 3 to take the Oath, then 3 more to fully progress it (Same player grips do count). Alternatively, if the Oath has been fully progressed on another character before, 10 knowledge can be spent to fully progress it on the current character. To skip the progression for Linkstrider, interact with the slots where you place the people to max it out.
 
 ## Effects
 

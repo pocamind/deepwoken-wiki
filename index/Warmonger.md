@@ -1,6 +1,6 @@
 ---
 title: Warmonger
-revid: 212396
+revid: 212435
 source: https://deepwoken.fandom.com/wiki/Warmonger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Named Weapons, Heavy Weapons, Legendary Weapons, Weapons with Talents]
@@ -44,7 +44,7 @@ The **Warmonger** is a Heavy Greathammer, an enhanced variant of the [Steel Maul
 
 Dying with this weapon equipped or in your inventory causes it to **deteriorate into its regular, non-Named, variant**. Dying in the [Chime of Conflict](Chime_of_Conflict.md) however, will not deteriorate the Warmonger, though its unique Talent is disabled there. Warmonger **cannot** be enchanted.
 
-## Talent: Pugnacious
+## Talents
 
 Equipping the Warmonger grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

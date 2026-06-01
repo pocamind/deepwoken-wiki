@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper Armor
-revid: 209579
+revid: 212546
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits, Outfits of The Central Authority, Outfits with Talents, "Outfits with Non-exclusive Talents"]
@@ -24,7 +24,7 @@ categories: [Outfits, Adept Outfits, Outfits of The Central Authority, Outfits w
 | selling_price | 10 |
 | weight | 1 |
 
-**Authority Peacekeeper Armour** is an Adept [Outfit](Outfits.md) in _Deepwoken_. This Outfit is exclusive to the [Authority Ensign](Authority_Ensign.md) Origin.
+**Authority Peacekeeper Armour** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

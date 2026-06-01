@@ -1,6 +1,6 @@
 ---
 title: Ironsinger Heavy Plate
-revid: 210514
+revid: 212476
 source: https://deepwoken.fandom.com/wiki/Ironsinger_Heavy_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -16,7 +16,7 @@ categories: [Equipment, Arms, Plates, Equipment with Talents, "Equipment with No
 | requirements | Power 12 |
 | weight | 2 |
 | innate stats | +10 Health , +5% Ironsing Armor , +2 Legendary Pips, +1 Rare Pip |
-| innate talent | Defiant until the End |
+| innate talent | Stay of Execution |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -28,7 +28,7 @@ categories: [Equipment, Arms, Plates, Equipment with Talents, "Equipment with No
 
 The Ironsinger Heavy Plate is an [Equipment](Equipment.md) item under the "Arms" category
 
-The [Defiant until the End](Talents.md#defiant-until-the-end) Talent causes your character to shout in defiance while being gripped, increasing the amount of time it takes for the grip animation to finish.
+The [Stay of Execution](Talents.md#stay-of-execution) Talent increases the amount of time it takes to execute you by 20%. If you save someone from being executed, you and that person gain 10 [Temporary Health](Status_Effects.md#temporary-health).
 
 ## Trivia
 

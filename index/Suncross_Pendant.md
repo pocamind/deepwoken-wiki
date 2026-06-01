@@ -1,6 +1,6 @@
 ---
 title: Suncross Pendant
-revid: 212341
+revid: 212568
 source: https://deepwoken.fandom.com/wiki/Suncross_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Equipment, Torso, Necklaces]
@@ -13,14 +13,16 @@ notices:
 | Suncross Pendant | |
 |---|---|
 | type | Torso |
+| rarity | Common |
+| selling price | N/A |
 | requirements | LVL 5 |
 | weight | 0.5 |
-| innate stats | +3% Elemental Armor |
+| innate stats | +3% Elemental Armor , +1 Legendary Pip |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Primadon, Titan of the East |
+| obtainment | Primadon, Titan of the East, The Depths |
 | description | A simple golden pendant in the likeness of the Suncross. Revered as a bringer of life and warmth by both Man and Celestial. |
 
 ## Description

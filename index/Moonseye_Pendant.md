@@ -1,6 +1,6 @@
 ---
 title: Moonseye Pendant
-revid: 212336
+revid: 212497
 source: https://deepwoken.fandom.com/wiki/Moonseye_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Equipment, Torso, Necklaces]
@@ -13,13 +13,16 @@ notices:
 | Moonseye Pendant | |
 |---|---|
 | type | Torso |
-| requirements | TBA |
+| rarity | TBA |
+| selling price | TBA |
+| requirements | Level 15 |
 | weight | 0.5 |
+| innate stats | TBA |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | TBA |
+| obtainment | Moon's Eyrie |
 | description | ... |
 
 ## Description

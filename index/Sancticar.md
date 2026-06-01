@@ -1,6 +1,6 @@
 ---
 title: Sancticar
-revid: 210375
+revid: 212421
 source: https://deepwoken.fandom.com/wiki/Sancticar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons, Weapons with Talents]
@@ -36,13 +36,11 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 
 The Sancticar is a [Staff](Weapons.md) weapon in the Medium category.
 
-## Obtainment
-
 The Sancticar spawns behind a white tree in the northeastern room of [Alsin's Landing](<Alsin's_Landing.md>), where it can be brought up by the player for 100.
 
 Location
 
-## Talent: Both Ends
+## Talents
 
 Equipping the Sancticar grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

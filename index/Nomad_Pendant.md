@@ -1,6 +1,6 @@
 ---
 title: Nomad Pendant
-revid: 210618
+revid: 212570
 source: https://deepwoken.fandom.com/wiki/Nomad_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -13,10 +13,9 @@ categories: [Equipment, Torso, Necklaces]
 | type | Torso |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 0.5 |
 | innate stats | +3% Elemental Armor , +1 Legendary Pip |
-| innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
@@ -26,4 +25,6 @@ categories: [Equipment, Torso, Necklaces]
 
 ## Description
 
-The Nomad Pendant is an [Equipment](Equipment.md) item under the "Torso" category. It has a golden chain attached to an object that resembles a die, particularly a D20, except made with a glassy like finish.
+The Nomad Pendant is an [Equipment](Equipment.md) item under the "Torso" category.
+
+It has a golden chain attached to an object that resembles a die, particularly a D20, except made with a glassy like finish.

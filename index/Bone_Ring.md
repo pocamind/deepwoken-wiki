@@ -1,6 +1,6 @@
 ---
 title: Bone Ring
-revid: 209828
+revid: 212603
 source: https://deepwoken.fandom.com/wiki/Bone_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Rings, Relics, Equipment Relics, Equipment]
@@ -29,4 +29,4 @@ The **Bone Ring** is a Ring [Relic](Relics.md) [Equipment](Equipment.md). It enh
 
 -   [Osseous Surge](Talents.md#osseous-surge) from [Marrowmade Boots](Marrowmade_Boots.md) gains a 50% damage buff.
 -   [Brachial Spear](Monster_Mantras.md#brachial-spear) gains a 30 damage increase.
--   [Bone Wisp](Monster_Mantras.md#bone-wisp) proc cooldown is removed, and its charges is increased from 3 to 5.
+-   [Bone Wisp](Monster_Mantras.md#bone-wisp) proc cooldown is reduced to 1 second, and its charges is increased from 3 to 5.

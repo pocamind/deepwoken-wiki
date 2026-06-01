@@ -1,6 +1,6 @@
 ---
 title: Power
-revid: 201080
+revid: 212627
 source: https://deepwoken.fandom.com/wiki/Power
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -60,5 +60,5 @@ To keep progressing, however, you will need regular EXP, obtained by killing thi
 ## Trivia
 
 -   As your Power increases, so does your damage towards all non-player enemies.
--   You gain 4 health per Power, starting at a base of 214 health at Power 1 and scaling up to 290 health at Power 20.
+-   You gain 4 health per Power, starting at a base of 224 health at Power 1 and scaling up to 300 health at Power 20.
 -   Before the Verse 2 update, the required amount of investment points was 5. However, this was increased to 15 after Verse 2. This was changed with the Power 60 to Power 20 compression.

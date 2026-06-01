@@ -1,6 +1,6 @@
 ---
 title: "Scoundrel's Saber"
-revid: 212400
+revid: 212422
 source: https://deepwoken.fandom.com/wiki/Scoundrel's_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Medium Weapons, Swords, Weapons with Unique Criticals, Weapons with Talents]
@@ -40,7 +40,7 @@ The Scoundrel's Saber is a Medium Sword weapon sold exclusively by [Traan Zakshu
 
 Obtainable in Vow of Iron in depth chests and through the [Strange Merchant](Strange_Merchant.md)'s Coffin.
 
-## Talent
+## Talents
 
 Equipping the Scoundrel's Saber grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

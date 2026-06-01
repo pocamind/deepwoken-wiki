@@ -1,6 +1,6 @@
 ---
 title: Wooden Staff
-revid: 212192
+revid: 212440
 source: https://deepwoken.fandom.com/wiki/Wooden_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons, Weapons with Talents]
@@ -40,7 +40,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 
 The Wooden Staff is a [Staff](Staves.md) weapon in the Medium category.
 
-## Talent: Both Ends
+## Talents
 
 Equipping the Wooden Staff grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

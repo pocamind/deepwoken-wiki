@@ -1,9 +1,9 @@
 ---
 title: Zweihander
-revid: 212320
+revid: 212446
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Alloyable Weapons, Heavy Weapons]
+categories: [Weapons, Greatswords, Alloyable Weapons, Heavy Weapons, Weapons with Talents]
 ---
 
 # Zweihander
@@ -44,7 +44,7 @@ The **Zweihander** is a standard Heavy Greatsword that can act as an entry point
 
 The [Alloyed](Pluripotent_Alloy.md) variant boasts increased stats with a higher requirement, allowing for lategame viability. The alloyed variant of the Zweihander also has a purple hue to indicate its change.
 
-## Talent: Devastating Recovery
+## Talents
 
 Equipping the Zweihander grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

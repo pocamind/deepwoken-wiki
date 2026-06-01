@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 212284
+revid: 212635
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -22,11 +22,11 @@ Enchantments have a set chance to be applied to a weapon during the following sc
 -   Talking to [Calamus](Calamus.md) and completing her quest can give you 1 enchant Item.
 -   Talking to [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) allows you to turn in 5 [Kyrsan Medallions](Kyrsan_Medallions.md) for a random Enchant Grease or Enchant Stone.
 -   Using an [Enchant Stone](Enchant_Stone.md) or [Enchant Grease](Enchant_Grease.md) to apply an enchantment to a weapon or piece of equipment respectively.
-    -   ~The [Deepshore Fossil](Deepshore_Fossil.md) is a great way to get a desired Enchantment Stone.~ as of update 5/31/26 the Deepshore Fossil was removed for Enchant crafting
-    -   Certain activities can provide heaps of Enchant Stones and more rarely Greases, these include but not limited to:
-        -   Certain [Bosses](Bosses.md)
-        -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
-        -   [Saramaed Hollow](Saramaed_Hollow.md)
+-   Non-exclusive [Enchant Stones](Enchant_Stone.md) and [Enchant Grease](Enchant_Grease.md) can be [crafted](Crafting_Recipes.md) by using two _catalyst_ ingredients and any other Enchant Stone/Grease.
+-   Certain activities can provide heaps of Enchant Stones and more rarely Greases, these include but not limited to:
+    -   Certain [Bosses](Bosses.md)
+    -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+    -   [Saramaed Hollow](Saramaed_Hollow.md)
 
 You cannot 'stack' two of the same enchantment; If you obtain a helmet with Multiplicity while having boots with Multiplicity equipped, you can't equip the Multiplicity helmet. Alternatively, if you gain Multiplicity on your helmet through [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) while having Multiplicity boots equipped, only one instance of Multiplicity will function.
 
@@ -892,7 +892,9 @@ Solar [Enchant Stone](Enchant_Stone.md):
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Stone](Enchant_Stone.md), 1 [Dying Embers](Dying_Embers.md), 1 [Insignia Gem](Insignia_Gem.md)
+    2.  Any [Enchant Stone](Enchant_Stone.md), 1 [Suncross Pendant](Suncross_Pendant.md), 1 [Insignia Gem](Insignia_Gem.md)
+        
 
   
 

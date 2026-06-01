@@ -1,6 +1,6 @@
 ---
 title: Silver Dagger
-revid: 203597
+revid: 212423
 source: https://deepwoken.fandom.com/wiki/Silver_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons, Weapons with Talents]
@@ -41,7 +41,7 @@ The Silver Dagger is a LHT dagger weapon that can be purchased at [Summer Isle](
 
 It is a decent dagger to use from early to mid game. However, it is highly suggested to use the [Gilded Knife](Gilded_Knife.md) instead as it outranks the Silver Dagger in everything except the swing speed (only .02x faster).
 
-## Talent: Assassin's Strike
+## Talents
 
 Equipping the Silver Dagger grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

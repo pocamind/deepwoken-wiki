@@ -1,6 +1,6 @@
 ---
 title: "Shiva's Codex"
-revid: 210653
+revid: 212506
 source: https://deepwoken.fandom.com/wiki/Shiva's_Codex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items, Ingredients]
@@ -19,7 +19,7 @@ categories: [Relics, Items, Ingredients]
 | droppable | No |
 | pass down | No |
 | desc | A manuscript scant in information on methods to further reinforce armor with Ether. Only a select few pages are legible. |
-| obtainment | Battle Royale (5 Points/Victory), War Mode (rare drop), Weird Trader |
+| obtainment | Battle Royale (5 Points/Victory), War Mode (rare drop), Weird Trader, Traan Zakshun black market for 5 |
 
 ## Description
 

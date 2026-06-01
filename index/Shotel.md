@@ -1,6 +1,6 @@
 ---
 title: Shotel
-revid: 209782
+revid: 212585
 source: https://deepwoken.fandom.com/wiki/Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Alloyable Weapons, Medium Weapons]

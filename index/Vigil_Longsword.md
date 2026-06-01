@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 212322
+revid: 212426
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Etrea, Alloyable Weapons, Weapons with Unique Criticals, Medium Weapons, Weapons with Talents]
@@ -41,7 +41,7 @@ The Vigil Longsword is a [Medium](Weapons.md#medium-weapons) longsword, used by 
 
 With the use of a [Pluripotent Alloy](Pluripotent_Alloy.md), Alloyed Vigil Longswords are equal to, if not better than the [Shattered Katana](Shattered_Katana.md) making it an easy endgame weapon to acquire if you have a [Pluripotent Alloy](Pluripotent_Alloy.md). Alloying a Vigil Longsword improves its stats and gives the blade a slight purple hue.
 
-## Talent: Sweeping Edge
+## Talents
 
 Equipping the Vigil Longsword grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
