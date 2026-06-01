@@ -1,6 +1,6 @@
 ---
 title: Vortex Echo
-revid: 206264
+revid: 212228
 source: https://deepwoken.fandom.com/wiki/Vortex_Echo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute based weapons", Weapons with Unique Animations, Relics, Legendary Weapons, Light Weapons, Relic Weapon]
@@ -43,7 +43,9 @@ The **Vortex Echo** is a [Relic](Relics.md) [Fists](Fists.md) weapon that requir
 
 The Critical attack will reduce almost all active cooldowns by 30 seconds (Mantras, Talents, Resonances, etc.) while applying 40 flat Wither damage to the user. This attack has no hitbox and deals no damage. 30 seconds cooldown (named Temporal Fatigue).
 
-Note: Mantras that have a cooldown that's longer than 30 seconds will not display Vortex Echo's effects correctly on their tooltips. Additionally, Temporal Fatigue IS a critical cooldown, you cannot swap to a different weapon and use their critical while Temporal Fatigue is on cooldown.
+If you do not meet Vortex Echo's attribute requirements, the cooldown reduction on critical will be halved to 15 seconds.
+
+Note: Mantras that have a cooldown that's longer than 15/30 seconds will not display Vortex Echo's effects correctly on their tooltips. Additionally, Temporal Fatigue IS a critical cooldown, you cannot swap to a different weapon and use their critical while Temporal Fatigue is on cooldown.
 
 | List of unaffected cooldowns: |
 | --- |

@@ -1,9 +1,9 @@
 ---
 title: Vigil Longsword
-revid: 209790
+revid: 212322
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Swords, Etrea, Alloyable Weapons, Weapons with Unique Criticals, Medium Weapons]
+categories: [Weapons, Criticals with M1 tag, Swords, Etrea, Alloyable Weapons, Weapons with Unique Criticals, Medium Weapons, Weapons with Talents]
 ---
 
 # Vigil Longsword
@@ -21,6 +21,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Etrea, Alloyable Weapons, W
 | swing speed | 1x |
 | attack duration | 0.6s |
 | penetration | 20% |
+| talent | Sweeping Edge - Your Master's Flourish is larger and can now proc flourish talents [sic]. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
@@ -36,9 +37,13 @@ categories: [Weapons, Criticals with M1 tag, Swords, Etrea, Alloyable Weapons, W
 
 ## Description
 
-The Vigil Longsword is a [Medium](Weapons.md#medium-weapons) longsword, used by the [Vigils of Etrea](The_Vigils.md). With typical Medium Weapon range, along with being balanced across all attributes, the Vigil Longsword becomes a very effective mid-tier weapon.
+The Vigil Longsword is a [Medium](Weapons.md#medium-weapons) longsword, used by [the Vigils](The_Vigils.md) of [Etrea](Etrea.md). With typical Medium Weapon range, along with being balanced across all attributes, the Vigil Longsword becomes a very effective mid-tier weapon.
 
 With the use of a [Pluripotent Alloy](Pluripotent_Alloy.md), Alloyed Vigil Longswords are equal to, if not better than the [Shattered Katana](Shattered_Katana.md) making it an easy endgame weapon to acquire if you have a [Pluripotent Alloy](Pluripotent_Alloy.md). Alloying a Vigil Longsword improves its stats and gives the blade a slight purple hue.
+
+## Talent: Sweeping Edge
+
+Equipping the Vigil Longsword grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
 ## Critical
 

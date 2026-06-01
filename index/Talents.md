@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 211968
+revid: 212415
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -261,9 +261,11 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisites: 80 Intelligence, interact with a [Cauldron](Cauldron.md)
         -   Was merged with the old Taste Test Talent.
 
--   Chemist's Bag \[Common Talent, Intelligence\] - You no longer drop Potions on death.
+-   Chemistry Kit \[Common Talent, Intelligence\] - You no longer drop potions on death. You have a 25% chance to brew an extra potion.
     -   Saltchemist salts innately provide this feature to your potions, however are not manually droppable.
-    -   Prerequisites: 80 Intelligence, interact with a [Cauldron](Cauldron.md)
+    -   When brewing potions, there's a 25% chance you'll gain 2 potions instead of 1.
+    -   The Wild Alchemy and Chemist's Bag Talents were merged into this Talent
+    -   Prerequisites: 25 Intelligence, interact with a [Cauldron](Cauldron.md)
 
 -   _Placebo Effect_ \[Rare Talent, Intelligence\] - Drinking potions near allies will share the potion's effect with them.
     -   Also procs potion sickness, causing allies to throw up upon usage if they've ingested a potion recently.
@@ -278,10 +280,6 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Removes the innate -25% effectiveness that Instant Health potions have, also increases their in-combat effectiveness from -75% to -50%. This only applies if the potion is drank.
     -   Prerequisites: 30 intelligence, 15 Fortitude // 15 Willpower, interact with a [Cauldron](Cauldron.md)
         -   This Talent was merged with the old Subsistence Talent.
-
--   Wild Alchemy \[Common Talent, Intelligence\] - You have a chance to brew 2 potions instead of 1.
-    -   25% chance to gives a duplicate of the brewed potion.
-    -   Prerequisite: 25 Intelligence, interacted with a [Cauldron](Cauldron.md)
 
 ### Alley Cat
 
@@ -370,7 +368,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Arcwarder
 
--   [**Oath: Arcwarder**](Oath%253A_Arcwarder.md) - You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot)
+-   [**Oath: Arcwarder**](Oath%253A_Arcwarder.md) - You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot, +5% PEN)
     -   Prerequisites: 20 Fortitude, 20 Flamecharm, 20 Thundercall, Complete [Alpha](Alpha.md)'s quest.
 
 -   Arc Module: Dash \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md)\] - In Arc Suit Your dashes become Jet Dashes, allowing you to attack while dashing.
@@ -538,7 +536,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Blindseer
 
--   [**Oath: Blindseer**](Oath%253A_Blindseer.md) - You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot, +1 Combat Mantra Slot)
+-   [**Oath: Blindseer**](Oath%253A_Blindseer.md) - You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot, +1 Combat Mantra Slot, +5% PEN)
     -   Prerequisites: 40 Willpower, all 3 Mental Fortress Talents, [Blindfold](Blindfold.md) / [Blind](Boons_and_Flaws.md#flaws) Flaw, and read the inscriptions in The [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
 
 -   All-Seeing Eye \[Oath Talent, [Blindseer](Oath%253A_Blindseer.md)\] - The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.
@@ -564,7 +562,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Bladeharper
 
--   [**Oath: Bladeharper**](Oath%253A_Bladeharper.md) - You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it. (+3 Combat Mantra Slot)
+-   [**Oath: Bladeharper**](Oath%253A_Bladeharper.md) - You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it. (+3 Combat Mantra Slot, +5% PEN)
     -   Prerequisites: 25 Agility // 25 Strength, 75 MED // a combined total of 90 in any weapon stat (75 MED // LHT + MED + HVY ≥ 90), defeat yourself after interacting with a [Sky Statue](Sky_Statue.md).
 
 -   Float Like a Butterfly \[Oath Talent, [Bladeharper](Oath%253A_Bladeharper.md)\] - While having True Strength active, cancel your air dash to enter a frenzy of slashes.
@@ -599,7 +597,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Blightsurger
 
--   [**Oath: Blightsurger**](Oath%253A_Blightsurger.md) - Fists and storm. Wield sacred lightning, tear through foes and leave them withered. (+2 Combat Mantra Slots +1 Wildcard Mantra Slot)
+-   [**Oath: Blightsurger**](Oath%253A_Blightsurger.md) - Fists and storm. Wield sacred lightning, tear through foes and leave them withered. (+2 Combat Mantra Slots +1 Wildcard Mantra Slot, +5% PEN)
     -   Prerequisites: Combined total of 80 in Strength/Fortitude/Agility (STR + FTD + AGL ≥ 80), 40 Galebreathe // Thundercall, high ally [The Hundred Legions](The_Hundred_Legions.md) reputation, defeat [Titus](Titus_Fulminus_Destellus.md), speak to [Brutus](Brutus.md).
 
 -   Anchor Shock \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md)\] - Your Blightshock prevents targets from using mobility mantras.
@@ -637,9 +635,8 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   Bloodwarden's Sense \[Common Talent, Bloodrend\] - Enemies you attack with a mantra above 60% Blood Poisoning are highlighted red briefly. Enemies who are highlighted red take 20% more blood poisoning.
     -   Prerequisite: 30 Bloodrend
 
--   _Smell of Blood_ \[Rare Talent, Bloodrend\] - When people touch a blood pool, briefly see their blood (or blood hemorrhage amount for PvE) and blood poison. This effect also occurs whenever you blockbreak your opponent.
-    -   Your opponent's blood percentage is shown as a red number. This is replaced with the blood hemorrhage percentage in PvE.
-    -   Your opponent's blood poisoning percentage is shown as a pink number.
+-   _Smell of Blood_ \[Rare Talent, Bloodrend\] - Enemies that touch your blood pools or are blockbroken by you are afflicted with [Bloodscent](Status_Effects.md#bloodscent) for 6s.
+    -   Bloodscent shows your opponent's blood percentage or blood hemorrhage percentage in PvE as a red number, and their [Blood Poisoning](Status_Effects.md#blood-poisoning) percentage as a pink number.
     -   Prerequisite: 65 Bloodrend
 
 ### Bloodrender
@@ -659,10 +656,10 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   This Talent will be removed from you if you no longer meet its requirements.
     -   Obtained at 50 Bloodrend.
 
--   Crimson Fountain \[Common Talent, Bloodrend\] - Blockbreaking or flourishing an enemy now spills a pool of blood below them.
-    -   Prerequisite: 40 Bloodrend
+-   Crimson Fountain \[Common Talent, Bloodrend\] - Blockbreaking or flourishing an enemy now spills a pool of blood below them. Blood mantras cast within blood pools have a reduced cost.
+    -   Prerequisite: 35 Bloodrend
 
--   First Blood \[Common Talent, Bloodrend\] - Your first blood mantra you use in combat has no blood cost.
+-   First Blood \[Common Talent, Bloodrend\] - Your first blood mantra you use in combat has no blood cost and deals additional blood drain.
     -   Prerequisite: 10 Bloodrend
 
 -   _Hemorrhaging Blow_ \[Rare Talent, Bloodrend\] - Block breaking your opponent with a blood mantra turns your opponent's combat healing into damage for 8 seconds
@@ -689,10 +686,6 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Buffs the next mantra’s damage by 25% upon proccing, signified by flowing blood out of your hands.
     -   Effect lasts 15s before disappearing.
     -   Prerequisite: 40 Bloodrend
-
--   Sheltering Grasp \[Common Talent, Bloodrend\] - Blood mantras cast within blood pools have a reduced blood cost.
-    -   Halves the blood cost.
-    -   Prerequisite: 30 Bloodrend
 
 ### Bloodsong
 
@@ -879,7 +872,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Chainwarden
 
--   [**Oath: Chainwarden**](Oath%253A_Chainwarden.md) - You vow to be the chain that binds the wicked and drags them back where they belong. There are those in this world who should not be free. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot)
+-   [**Oath: Chainwarden**](Oath%253A_Chainwarden.md) - You vow to be the chain that binds the wicked and drags them back where they belong. There are those in this world who should not be free. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot, +5% PEN)
     -   Prerequisites: Combined total of 40 in Strength/Fortitude/Willpower (STR + FTD + WLL ≥ 40), Authority reputation, defeat [Emar Vend](Emar_Vend.md).
 
 -   Perpetual Wrath \[Oath Talent, [Chainwarden](Oath%253A_Chainwarden.md)\] - Unleash the true power of Restrain. Each successive hit will increase its damage. stacking up to the base damage.
@@ -1116,7 +1109,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 -   Muffled Screams \[Common Talent, Agility\] - You quieten the cries of help of those you execute, reducing the distance at which their allies will hear it and come to assist, and reducing the effectiveness of Talents that slow your executions. (+1 Passive Agility)
     -   NPCs have a shortened aggro range from gripping allies in proximity.
-    -   Defiant Until The End and Last Second Negotiations affect your grip speed less.
+    -   Stay of Execution no longer affects your grip speed.
     -   Prerequisite: 50 Agility
 
 ### Darksiphon
@@ -1170,7 +1163,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Dawnwalker
 
--   [**Oath: Dawnwalker**](Oath%253A_Dawnwalker.md) - You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge. (+3 Combat Mantra Slots)
+-   [**Oath: Dawnwalker**](Oath%253A_Dawnwalker.md) - You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge. (+3 Combat Mantra Slots, +5% PEN)
     -   Prerequisites: [Power](Power.md) 15, Have 30 [Kyrsan Medallions](Kyrsan_Medallions.md) and speak to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md)
 
 -   Absolute Radiance \[Oath Talent,[Dawnwalker](Oath%253A_Dawnwalker.md)\] - Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period.
@@ -1374,7 +1367,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Prerequisites: 55 Intelligence
 
 -   Behind You \[Common Talent, Agility, Intelligence\] - Landing a basic attack behind your enemy after feinting a mantra will apply an ether slash, dealing extra damage based on how much ether you have left.
-    -   This deals a separate instance of physical damage, scaling on your weapon's damage and your current Ether%.
+    -   This deals a separate instance of physical damage, scaling on your current Ether%, dealing 15 damage when at full Ether.
     -   Unlike Spine Cutter, this has no cooldown.
     -   You can proc Behind you and Spine Cutter at the same time, but the proc window is very tight.
     -   Prerequisites: Keen Recovery, 40 Agility, 70 Intelligence
@@ -1440,11 +1433,12 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Fish
 
--   _Fishman_ \[Rare Talent\] - When your Blood is over 50%, you won't drown when [Unconscious](Status_Effects.md#unconscious) in water. Gain additional healing from knocking others [Unconscious](Status_Effects.md#unconscious) in water. (+5 Health)
+-   _Fishman_ \[Rare Talent\] - When your Blood is over 50%, you won't drown when [Unconscious](Status_Effects.md#unconscious) in water. Gain additional healing from knocking others [Unconscious](Status_Effects.md#unconscious) in water.
     -   The old Scuba Drowner Talent was merged into this Talent.
 
--   _Landshark_ \[Quest Talent\] - Killing a megalodaunt will grant lifesteal on your attacks for 30 seconds.
+-   _Landshark_ \[Quest Talent\] - Killing a [megalodaunt](Megalodaunt.md) will grant lifesteal on your attacks for 30 seconds.
     -   The lifesteal does not work in PvP.
+    -   This procs when killing any [Megalodaunt variant](<Megalodaunt_(disambiguation).md>)
 
 ### Fang and Coil
 
@@ -1536,7 +1530,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Freak Of Nature
 
--   _Exoskeleton_ \[Rare Talent, Fortitude\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+5 Health)
+-   _Exoskeleton_ \[Rare Talent, Fortitude\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active.
     -   Exoskeleton's resistance will be less effective if you do not meet its Fortitude requirement, losing 0.125% resistance for every point under 40 Fortitude, capping at 6.875% resistance with 15 Fortitude.
     -   Exoskeleton has 315 durability at power 1, scaling up to 600 durability at power 20.
     -   [Vesperian](Vesperian.md)'s Chitin damage reduction stacks multiplicatively with Exoskeleton.
@@ -2191,7 +2185,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Jetstriker
 
--   [**Oath: Jetstriker**](Oath%253A_Jetstriker.md) - You vow to flow with the Song itself, drifting across where the trails may take you. If the Song permeates everything, then let it be your conduit, and you its master. (+1 Wildcard Mantra Slot, +1 Mobility Mantra Slot, +8 Passive Agility)
+-   [**Oath: Jetstriker**](Oath%253A_Jetstriker.md) - You vow to flow with the Song itself, drifting across where the trails may take you. If the Song permeates everything, then let it be your conduit, and you its master. (+1 Wildcard Mantra Slot, +1 Mobility Mantra Slot, +8 Passive Agility, +5% PEN)
     -   Prerequisites: 50 Agility, beat [Alirian](Alirian.md) in a race.
 
 -   Acceleration Points \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - Striking an opponent in the back with mobility mantras or Basic Attacks now steals and grants additional momentum.
@@ -2370,10 +2364,11 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Liberator
 
--   Savior \[Common Talent, Willpower\] - After saving a player from being gripped gain a short speed boost for a short duration. (+1 Sanity)
-    -   "Saved" being interrupting a grip attempt.
-    -   The speed boost lasts 15 seconds.
-    -   Prerequisite: 15 Willpower
+-   Stay of Execution \[Common Talent, Willpower // Charisma\] - Increases the time taken to execute you by 20%. Saving others from being executed grants you both 10 [TempHP](Status_Effects.md#temporary-health) (20s CD) (+6 Sanity)
+    -   "Saved" being interrupting an execution attempt.
+    -   The Savior, Defiant until the End, and Last Second Negotiations Talents were merged into this Talent
+    -   Prerequisite: 25 Willpower // 25 Charisma
+        -   The [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md) has this Talent
 
 ### Lichtenberg
 
@@ -2390,12 +2385,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   2 minute cooldown.
     -   Prerequisite: [Power](Power.md) 8
 
--   Defiant until the End \[Common Talent, Willpower\] - Slow the enemy trying to execute you down with one last shout of your determination. (+6 Sanity)
-    -   Players with this Talent will shout "THINK YOU'VE SEEN THE LAST OF ME" when gripped, which slows down the grip attempt.
-    -   Stacks with Last Second Negotiations (with both a grip takes about 6.5 seconds).
-    -   The [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md) equipment has this Talent.
-    -   Prerequisite: 20 Willpower
-
 -   Last Resort \[Common Talent, Willpower\] - Deal +5% more damage when your health is below 25%. (+10 Sanity)
     -   Red particles appear around your shoulders while the Talent is active.
     -   Prerequisite: 35 Willpower
@@ -2406,7 +2395,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Linkstrider
 
--   [**Oath: Linkstrider**](Oath%253A_Linkstrider.md) - You vow to give up your own life for the sake of others. Stepping out of the fray, you become a foundation of your allies' strength. (+1 Wildcard Mantra Slot, +2 Support Mantra Slots)
+-   [**Oath: Linkstrider**](Oath%253A_Linkstrider.md) - You vow to give up your own life for the sake of others. Stepping out of the fray, you become a foundation of your allies' strength. (+1 Wildcard Mantra Slot, +2 Support Mantra Slots, +5% PEN)
     -   Prerequisites: Sacrifice 4 players with Oaths OR 4 [Scarlet Lotuses](Pristine_Lotus.md) in [The Entropy Catalyst](The_Entropy_Catalyst.md).
 
 -   Entropy Link \[Oath Talent, [Linkstrider](Oath%253A_Linkstrider.md)\] - The world is broken, linked by fragile webs. Traverse the path by stating your destination amidst the flame.
@@ -2450,7 +2439,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Old Habits Die Hard \[Common Talent, Willpower\] - Blocking an attack with your lingering block frames after failing a parry will cause the attack to deal 15% less posture damage. (+5 Health)
     -   Prerequisite: 20 Willpower
 
--   _Thresher Claws_ \[Rare Talent\] - All of your attacks have +5% more PEN. Your Basic Attacks and Criticals have an additional +5% PEN on top.
+-   _Thresher Claws_ \[Rare Talent\] - Grants +5% Weapon PEN. (+5% Weapon PEN)
     -   Prerequisite: [Power](Power.md) 13
 
 ### Marksman
@@ -2669,7 +2658,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Ardour automatically deactivates if you have no Ether. This also happens upon using Ardour Scream.
     -   Prerequisite: Kill the [Dread Serpent](Dread_Serpent.md) or [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) OR talk with the [Old Stranger](Old_Stranger.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
 
--   Ardour Scream \[Common Talent, Strength, Willpower\] - Amplify your shout into a scream using Ardour, dominating weaker foes, Victims take 12.5% more damage and 50% more posture damage for 10s. (Tool in your inventory) (+9 Sanity).
+-   Ardour Scream \[Common Talent, Strength, Willpower\] - Amplify your shout into a scream using Ardour, dominating weaker foes, Victims take 12.5% more damage and 50% more posture damage for 10s. (+9 Sanity).
     -   Activated by utilizing the Ardour Scream tool in your inventory or holding and releasing your Ardour hotkey (H).
     -   Takes 100% Ether to be used, therefore deactivating Ardour.
         -   Can be used at 40% Ether rather than needing to be at 100% with the [Soulbreaker](Oath%253A_Soulbreaker.md) Oath.
@@ -2764,7 +2753,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Oathless
 
--   [**Oath: Oathless**](Oath%253A_Oathless.md) - You vow to never be bound to any Oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+3 Wildcard Mantra Slots, +10 Health, +20% Oath Armor, +20% Monster Armor)
+-   [**Oath: Oathless**](Oath%253A_Oathless.md) - You vow to never be bound to any Oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+3 Wildcard Mantra Slots, +10 Health, +20% Oath Armor, +20% Monster Armor, +5% PEN)
     -   Prerequisites: Talk to [Cerulean](Cerulean.md) in the cave near [Miner's Landing](<Miner's_Landing.md>) docks, 10 minutes of playtime
 
 ### Omniscient
@@ -2847,7 +2836,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Celebrity \[Common Talent, Charisma\] - Your natural skill in mediating conflict makes people think more highly of you. Your base reputation with factions is higher and your reputation caps out higher.
     -   Prerequisite: 40 Charisma
-    -   This Talent was merged with the old "Diplomat" Talent.
+    -   Whenever you are knocked by town guards from a faction in which you have good reputation, the town guards will scold you instead of gripping you, letting you live.
+    -   Angering a faction by attacking a player ally of their own will prevent guards from aggroing on you.
 
 -   Under The Radar \[Common Talent, Charisma\] - The negative reputation threshold for a faction to put out posters of you is now higher. (+1 health)
     -   If it is stacked with the "Celebrity" Talent you can immediately avoid being hunted by [Voidwalkers](Voidwalker.md) until you lose one of the two Talents or continue to have a very bad reputation with [The Knives of Eylis](The_Knives_of_Eylis.md) or some other [faction](Reputation.md).
@@ -3058,7 +3048,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Saintsworn
 
--   [**Oath: Saintsworn**](Oath%253A_Saintsworn.md) - A vow to the fallen heroes. Press L to swap to Saintsblade. (+2 Combat Mantra Slots, +2 Support Mantra Slots, +1 Wildcard Mantra Slot)
+-   [**Oath: Saintsworn**](Oath%253A_Saintsworn.md) - A vow to the fallen heroes. Press L to swap to Saintsblade. (+2 Combat Mantra Slots, +2 Support Mantra Slots, +1 Wildcard Mantra Slot, +5% PEN)
     -   Prerequisites: 15 Flamecharm, 15 Galebreathe, 15 Shadowcast, 15 Frostdraw, 15 Thundercall, resonate with all of the Attunement obelisks in any order.
         -   The Flamecharm obelisk is at [Saramaed Summit](Saramaed_Summit.md), the Galebreathe obelisk is at [The Garden Reservoir](The_Garden_Reservoir.md), the Shadowcast obelisk is at [Moon's Eyrie](<Moon's_Eyrie.md>), the Frostdraw obelisk is atop the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), and the Thundercall obelisk is at [Boatman's Watch](<Boatman's_Watch.md>). See the [Saintsworn](Oath%253A_Saintsworn.md) page for more info.
 
@@ -3096,7 +3086,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Saltchemist
 
--   [**Oath: Saltchemist**](Oath%253A_Saltchemist.md) - You vow to dedicate body and mind to the furthering of the Material Arts. Your body is a conduit through which true knowledge shall be siphoned. Knowledge is power, and you shall be its vessel. (+1 Wildcard Mantra Slot, +1 Support Mantra Slot, +20 Carry Load)
+-   [**Oath: Saltchemist**](Oath%253A_Saltchemist.md) - You vow to dedicate body and mind to the furthering of the Material Arts. Your body is a conduit through which true knowledge shall be siphoned. Knowledge is power, and you shall be its vessel. (+1 Wildcard Mantra Slot, +1 Support Mantra Slot, +20 Carry Load, +5% PEN)
     -   Prerequisites: 75 Intelligence, complete [Ciea](Ciea.md)'s quest once.
 
 -   Perpetual Distillery \[Oath Talent, [Saltchemist](Oath%253A_Saltchemist.md)\] - Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots that will automatically produce 3 concoctions of your choice.
@@ -3347,10 +3337,11 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Silentheart
 
--   [**Oath: Silentheart**](Oath%253A_Silentheart.md) - You vow to reject the Words of the Song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. You can wield weapons with 25 points below their usual requirements. (+2 Posture, +10 Health)
+-   [**Oath: Silentheart**](Oath%253A_Silentheart.md) - You vow to reject the Words of the Song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. You can wield weapons with 25 points below their usual requirements. (+2 Posture, +10 Health, +5% PEN)
     -   Reduces the **weapon (LHT, MED, HVY)** requirement of all weapons by 25 points. This stacks with [Khan's](Khan.md) Versatile Talent.
         -   Similarly to [Khan's Versatile](Khan.md), for hybrid weapons this will affect every weapon stat requirement individually, allowing you to equip the [Wyrmtooth](Wyrmtooth.md) with 15 HVY and 35 MED.
     -   You can no longer cast Mantras nor gain Attunements. However, you can still obtain Mantras in the case that you want to use them for deals with [Deep Shrines](Deep_Shrines.md) (primarily [Shrine of Division](Deep_Shrines/Shrine_of_Division.md)).
+    -   You can no longer equip "elemental weapons."
     -   Prerequisites: 25 Strength, 25 Agility // 25 Charisma, combined 75 weapon invest (HVY + MED + LHT ≥ 75), be attunement-less, get gripped by any attunement user, go to the [Beloved Zofia](Beloved_Zofia.md) and talk to [The Dreadstar](The_Dreadstar.md).
 
 -   Ankle Cutter \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.
@@ -3419,11 +3410,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Silvertongue
 
--   Friends in High Places \[Common Talent, Charisma\] - Your connections often let you off the hook when you're in trouble with the law. Nepotism sure does pay!
-    -   Whenever you are knocked by town guards from a faction in which you have good reputation, the town guards will scold you instead of gripping you, letting you live.
-    -   Angering a faction by attacking a player ally of their own will prevent guards from aggroing on you.
-    -   Prerequisite: 20 Charisma
-
 -   _Golden Tongue_ \[Rare Talent, Charisma\] - Typing or using a gesture gives a random buff to you and those around you. (60 second cooldown)
     -   Sending a message in chat or using an emote will proc this Talent.
     -   Can either restore 30% of max ether or grant 10% damage reduction for 30 seconds. The damage reduction effect does not stack with [Reinforce](Attunement-less.md#reinforce).
@@ -3457,7 +3443,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Soulbreaker
 
--   [**Oath: Soulbreaker**](Oath%253A_Soulbreaker.md) - The sum of your fragments is greater than the whole. Though your very being is splintered and threatening to drift apart, every shard of you Vows to remain One. Your Oath is a solvent that joins all of your distinct selves into the gestalt you (+2 Combat Mantra Slots, +1 Wildcard Mantra Slot)
+-   [**Oath: Soulbreaker**](Oath%253A_Soulbreaker.md) - The sum of your fragments is greater than the whole. Though your very being is splintered and threatening to drift apart, every shard of you Vows to remain One. Your Oath is a solvent that joins all of your distinct selves into the gestalt you (+2 Combat Mantra Slots, +1 Wildcard Mantra Slot, +5% PEN)
     -   Gives your [Murmur: Ardour](Murmur%253A_Ardour.md) a new visual effect; a crackling purple lightning visual on your weapon. Additionally your Ardour will provide a 5% damage buff to light attacks and criticals with the M1 tag instead of the base 2.5%.
     -   Prerequisites: Combined 50 Charisma/Willpower total (CHA + WLL ≥ 50), and any [Murmur](Murmur.md). The rest of the requirements depends on the obtainment method.
         -   **Yunshul method**: Additional requirements: Hero/very high Ally reputation with [Etris](Etris.md), a [Resonance](Resonance.md), and have a Yun'shul Wish. **Obtainment method**: Step 1: Talk to [Theadre](Theadre.md) about The King being a God. Step 2: Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) about The King's Ardour. Step 3: Go to [Yun'shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and unlock it "For now I am one, but I wish to be three."
@@ -3532,7 +3518,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Starkindred
 
--   [**Oath: Starkindred**](Oath%253A_Starkindred.md) - You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you. (+8 Health, +2 Combat Mantra Slots, +1 Wildcard Mantra Slot)
+-   [**Oath: Starkindred**](Oath%253A_Starkindred.md) - You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you. (+8 Health, +2 Combat Mantra Slots, +1 Wildcard Mantra Slot, +5% PEN)
     -   Prerequisites: 40 Strength, 1 player grip, talk to Samael in the [Derelict Highchurch](Derelict_Highchurch.md) (Songseeker Wilds) and kill [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md), then return to [Samael](Samael.md).
 
 -   Death From Above \[Oath Talent, [Starkindred](Oath%253A_Starkindred.md)\] - Upon cancelling your Air Dash, reveal your wings and strike your enemy.
@@ -3759,13 +3745,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Gain increased EXP from [bounties](Bounty_Hunting.md) of all kinds, but gain reduced EXP from all other sources.
     -   Prerequisites: [Voidwalker](Voidwalker.md) Origin
 
-### The Negotiator
-
--   Last Second Negotiations \[Common Talent, Charisma\] - Most enemies will hesitate a moment longer to execute you.
-    -   Whenever you are getting gripped, your character will say "WAIT WAIT WAIT WAIT!!!", which has a chance to automatically cancel the grip attempt, forcing the target to attempt a grip again. This also slightly slows down the grip attempt.
-        -   Does not work in PVE.
-    -   Prerequisites: 55 Charisma, Friends in High Places, Snake Oil, Golden Tongue
-
 ### The Path, Unveiled
 
 -   **Justicar's Adaptation** \[Faction Talent, [Justicar](<Justicar_(Origin).md>) Exclusive\] - Jus Karita running attacks and criticals can now proc Jus Karita talents even if you arent currently using [Jus Karita](Jus_Karita.md). Your Jus Karita running attacks can now also proc fist talents.
@@ -3809,9 +3788,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   The Pickpocket keybind can be configured in settings.
     -   Gain +0.0002% PvE damage for every 1 you have. At 15,000 Notes, this provides a 3% damage buff.
     -   Prerequisites: 5 Agility, 10 Charisma
-
--   Master Thief \[Common Talent, Agility, Charisma\] - Gain more notes when mugging a player.
-    -   Prerequisites: Pickpocket, 25 Charisma
 
 -   _**Another Man's Trash**_ \[Advanced Talent, Agility, Charisma\] - Take unequipped [equipment](Equipment.md) when mugging a player. Gain a little more damage against PvE the more you are currently carrying. (+2 Passive Agility)
     -   If the player you are mugging doesn't have any Notes, you will still take any unequipped equipment.
@@ -4022,7 +3998,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   25 second cooldown.
     -   Audacity's buff duration will be reduced by 0.1 seconds for every point of Charisma and Strength you are below its requirements, capping at 35 seconds with 75 Charisma and 25 Strength.
     -   You create an AoE stun and slow around you when you start gripping someone.
-    -   Makes you immune to Defiant Until the End and Last Second Negotiation when it procs. (Bugged on NPCS)
+    -   Makes you immune to Stay of Execution when it procs. (Bugged on NPCS)
     -   The damage buff is indicated by a white glowing halo effect surrounding the affected player's head.
     -   Prerequisites: 100 Charisma, 50 Strength
 
@@ -4174,7 +4150,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Visionshaper
 
--   [**Oath: Visionshaper**](Oath%253A_Visionshaper.md) \[Oath Talent\] - You vow to only see that which you wish to see. Reality itself is malleable, pliable to your deft hands. (+1 Support Mantra Slot, +2 Combat Mantra Slots)
+-   [**Oath: Visionshaper**](Oath%253A_Visionshaper.md) \[Oath Talent\] - You vow to only see that which you wish to see. Reality itself is malleable, pliable to your deft hands. (+1 Support Mantra Slot, +2 Combat Mantra Slots, +5% PEN)
     -   Prerequisites: 50 Charisma, complete [Aelita's Encounter](Aelita.md) // [Carnival of Hearts](Carnival_of_Hearts.md), bring a [Dark Feather](Dark_Feather.md) to [Surge](Surge.md)
 
 -   Cheap Trick \[Oath Talent, [Visionshaper](Oath%253A_Visionshaper.md)\] - When hit below half health briefly disappear, leaving behind an illusion clone to keep your enemy occupied for a short duration. Briefly disappear after knocking an enemy.
@@ -4351,7 +4327,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   Landing weapon attacks while your health is at or below 30% will heal you for 1% of your maximum health.
 
 -   Continuous Bleed: [Razor Cutlass](Razor_Cutlass.md) - Every time you land a crit, flourish or uppercut, increase the amount of [bleed](Status_Effects.md#bleed) damage you deal for 15 seconds. This is stackable.
-    -   Adds one additional bleed tick per stack, but slightly reduces the damage each bleed tick deals. This equates to an ~90% net bleed damage increase per stack.
+    -   Adds one additional bleed tick per stack, but reduces the damage each bleed tick deals by 10%.
     -   This applies to all sources of bleed, not just Razor Cutlass' innate bleed.
     -   Each stack is counted separately from eachother with their own durations.
     -   Multi-hit criticals do not grant additional stacks.
@@ -4724,7 +4700,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Multiple 
 
 -   Instant Nucleation: [Frost Crystal Earrings](Frost_Crystal_Earrings.md) & [Hardened Crystal Earrings](Hardened_Crystal_Earrings.md) - Take less damage for a few seconds after you are guardbroken.
 
--   Intrepid Flame: [Flame Worshipper Armor](Flame_Worshipper_Armor.md) - Flames wear off twice as fast on you.
+-   Intrepid Flame: [Flame Worshipper Armor](Flame_Worshipper_Armor.md) - Flames wear off twice as fast on you. Flames that come from your Flame Within deal much less damage to you.
     -   Halves the maximum duration of any Burn that is applied to you.
     -   Does not work on Flame Within.
 
@@ -5756,7 +5732,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Multiple 
     
     -   Grants one instance of ragdoll immunity with a 20 second cooldown.
 
--   Merc Blade: [Mercenary's Hood](<Mercenary's_Hood.md>) - For every 10% stealth you have, deal 1 extra damage on all sources of damage.
+-   Mercenary Blade: [Mercenary's Hood](<Mercenary's_Hood.md>) - For every 10% stealth you have, deal 1 extra damage on all sources of damage.
 
 -   Navae's Connection: [Blessed Nomad Pendant](Blessed_Nomad_Pendant.md) - All Navaen related combat weapons are empowered.
 

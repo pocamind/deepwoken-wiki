@@ -1,6 +1,6 @@
 ---
 title: Charged Parasol Part
-revid: 202836
+revid: 212209
 source: https://deepwoken.fandom.com/wiki/Charged_Parasol_Part
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Drops, Ingredients]
@@ -13,7 +13,7 @@ categories: [Pathfinder Exclusive, Items, Drops, Ingredients]
 | value | N/A |
 | weight | N/A |
 | type | Ingredient |
-| bankable | No |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 
@@ -27,7 +27,7 @@ This content is not accessible outside of this gamemode.
 
 ## Uses
 
--   Trading it to [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) with give you the mantra **[Abyssal Tendrils](Monster_Mantras.md)**
+-   Trading it to [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) with give you the Mantra **[Abyssal Tendrils](Monster_Mantras.md)**
 
 ## Trivia
 

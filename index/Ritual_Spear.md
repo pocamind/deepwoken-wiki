@@ -1,6 +1,6 @@
 ---
 title: Ritual Spear
-revid: 202933
+revid: 212412
 source: https://deepwoken.fandom.com/wiki/Ritual_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Weapons with Talents]
@@ -42,7 +42,7 @@ The Ritual Spear is a Medium weapon and a good spear for the early to midgame. I
 
 The weapon itself is very similar to the [Iron Spear](Iron_Spear.md), having the same m1s and crits, only differing in stats.
 
-## Talent: Pierce Through
+## Talents
 
 Equipping the Ritual Spear grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

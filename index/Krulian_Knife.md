@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 203255
+revid: 212394
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Weapons with Talents, Weapons with multiple Criticals]
@@ -41,7 +41,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Critic
 
 The Krulian Knife is a boss weapon [dagger](Weapons.md) either obtained by defeating [the Ferryman](The_Ferryman.md) in any of his chests, or buying it from a [Merchant Ships](Travelling_Merchant.md) or [Traan Zakshun](Traan_Zakshun.md).
 
-## Talent: Cruel Counter
+## Talents
 
 Equipping the Krulian Knife grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

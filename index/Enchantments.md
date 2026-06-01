@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 212181
+revid: 212284
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -22,7 +22,7 @@ Enchantments have a set chance to be applied to a weapon during the following sc
 -   Talking to [Calamus](Calamus.md) and completing her quest can give you 1 enchant Item.
 -   Talking to [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) allows you to turn in 5 [Kyrsan Medallions](Kyrsan_Medallions.md) for a random Enchant Grease or Enchant Stone.
 -   Using an [Enchant Stone](Enchant_Stone.md) or [Enchant Grease](Enchant_Grease.md) to apply an enchantment to a weapon or piece of equipment respectively.
-    -   The [Deepshore Fossil](Deepshore_Fossil.md) is a great way to get a desired Enchantment Stone.
+    -   ~The [Deepshore Fossil](Deepshore_Fossil.md) is a great way to get a desired Enchantment Stone.~ as of update 5/31/26 the Deepshore Fossil was removed for Enchant crafting
     -   Certain activities can provide heaps of Enchant Stones and more rarely Greases, these include but not limited to:
         -   Certain [Bosses](Bosses.md)
         -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
@@ -2241,7 +2241,7 @@ Unobtainable
 -   Most, if not all curse enchantments emit sound when equipped, with some being louder than others.
 -   In Verse 1, it was possible to obtain enchanted torso, face, or ring equipment.
 -   The thunder strike caused by using Storm and Stormbreaker during the rain trains your [Thundercall](Thundercall.md) by a seemingly noticeable portion.
--   If you were to have more than three equipment enchants equipped at once via unobtainable items, one of those enchants will be automatically disabled. Head, arms, and leg equipment that cannot be enchanted do not count towards this limit.
+-   If you were to have more than three equipment enchants equipped at once via unobtainable items, one of those enchants will be automatically disabled. Head, arms, and leg equipment that cannot normally be enchanted also count towards this limit.
 -   There is an exceptionally small chance that _any_ head, arms, and legs equipment can be enchanted upon dropping in a chest or being crafted, even if they are unenchantable via any other means. This allows some players to obtain items like a Drowned [Necrotic Cowl](Necrotic_Cowl.md).
 -   A few enchants are based on other series and shows.
     -   Elastic is a reference to Hisoka's Bungee Gum from _Hunter x Hunter_, hence why it was called Bungee Gum previously.

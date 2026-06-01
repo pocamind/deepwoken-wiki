@@ -1,6 +1,6 @@
 ---
 title: Depthsplitter
-revid: 205631
+revid: 212368
 source: https://deepwoken.fandom.com/wiki/Depthsplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Twinblades, Weapons with Talents, Medium Weapons]
@@ -48,7 +48,7 @@ _Not to be confused with the [Lumensplitter](Lumensplitter.md)._
 
 The **Depthsplitter** is a medium twinblade weapon that is exclusive to [Vow of Iron](Vow_of_Iron.md).
 
-## Talent: Sadistic Split
+## Talents
 
 Equipping the Depthsplitter grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

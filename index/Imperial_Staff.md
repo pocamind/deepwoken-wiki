@@ -1,6 +1,6 @@
 ---
 title: Imperial Staff
-revid: 208361
+revid: 212387
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Staves, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with Talents, Weapons with multiple Criticals]
@@ -38,7 +38,7 @@ categories: [Weapons, Staves, Legendary Weapons, "Core-Attribute based weapons",
 
 The Imperial Staff is a Legendary [Staff](Staves.md) that scales with and requires [Strength](Attributes.md#str) in addition to Medium. It is a long bo staff that is capable of changing its length which it employs for a variety of unique attacks.
 
-## Talent: Both Ends
+## Talents
 
 Equipping the Imperial Staff grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
@@ -51,6 +51,8 @@ The standing critical is a long-ranged attack where the user swings their staff 
 The aerial critical is a slam with a **windup of 0.55s**, where the staff grows in size and slams back down onto the ground dealing high posture. This Critical counts as an uppercut procing talents such as soaring storm.
 
 The running critical is a multi-hit where the user spins the staff in their hands dealing **18 hits** in quick succession, each hit dealing roughly **0.3x scaled damage**. The crit grants a speed boost to the user for the duration of it, and getting parried at any point during the critical will end it. Can be cancelled manually by right-clicking during the attack.
+
+  
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Crucible Rapier
-revid: 202914
+revid: 212365
 source: https://deepwoken.fandom.com/wiki/Crucible_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons, Weapons with Talents]
@@ -40,7 +40,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 
 The Crucible Rapier is around the same as the [Apprentice Rapier](Apprentice_Rapier.md) and [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), not having too much of a difference except for higher damage & scaling plus a 20% penetration stat. It can be obtained in [Starswept Valley](The_Starswept_Valley.md) as well as the [Rogue Constructs](Rogue_Construct.md) at [Minityrsa](Minityrsa.md).
 
-## Talent: Punishing Riposte
+## Talents
 
 Equipping the Crucible Rapier grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

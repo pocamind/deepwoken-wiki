@@ -1,6 +1,6 @@
 ---
 title: Eyes of Ethiron
-revid: 211065
+revid: 212380
 source: https://deepwoken.fandom.com/wiki/Eyes_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, "Weapons with Multi-Attunement Scaling", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Legendary Weapons, Medium Weapons, Swords, Reforged Weapons, "Dual-wielded Weapons", "Attunement-based Weapons"]
@@ -44,7 +44,7 @@ This weapon comes with a passive ability:
 
 -   **Twisted After Cut** - Basic attacks apply After Cut dealing 5% of the initial damage of the attack, as well as stealing the opponent's Ether.
 
-## Talent: Sable Winds
+## Talents
 
 Equipping the Eyes of Ethiron grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

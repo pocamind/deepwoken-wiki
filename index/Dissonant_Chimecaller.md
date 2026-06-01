@@ -1,6 +1,6 @@
 ---
 title: Dissonant Chimecaller
-revid: 211677
+revid: 212369
 source: https://deepwoken.fandom.com/wiki/Dissonant_Chimecaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Greathammers, Weapons with Unique Criticals, Heavy Weapons, Weapons with Unique Animations]
@@ -40,7 +40,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons wi
 
 The Dissonant Chimecaller is a [Greathammer](Greathammers.md) weapon in the Heavy category.
 
-## Talent: Ancient Metalwork
+## Talents
 
 Equipping the Dissonant Chimecaller grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

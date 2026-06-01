@@ -1,6 +1,6 @@
 ---
 title: Big Brother
-revid: 211062
+revid: 212356
 source: https://deepwoken.fandom.com/wiki/Big_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Light Weapons, Weapons of The Central Authority, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Weapons with Talents, Legendary Weapons]
@@ -38,7 +38,7 @@ categories: [Weapons, Daggers, Light Weapons, Weapons of The Central Authority, 
 
 The Big Brother is a LHT weapon in the Dagger category that can be obtained by maxing out the Inquisitor division under the [Authority Ensign](Authority_Ensign.md) origin.
 
-## Talent: Swift Strike
+## Talents
 
 Equipping the Big Brother grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

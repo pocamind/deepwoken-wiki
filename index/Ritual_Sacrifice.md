@@ -1,6 +1,6 @@
 ---
 title: Ritual Sacrifice
-revid: 211652
+revid: 212411
 source: https://deepwoken.fandom.com/wiki/Ritual_Sacrifice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Named Weapons, Legendary Weapons, Weapons with Talents]
@@ -44,7 +44,7 @@ The **Ritual Sacrifice** is a Medium Spear, an enhanced version of the [Ritual S
 
 Dying with this weapon equipped or in your inventory causes it to **deteriorate into its regular, non-Named, variant**. Dying in the [Chime of Conflict](Chime_of_Conflict.md) however, will not deteriorate the Ritual Sacrifice, though its unique Talent is disabled there. Ritual Sacrifice **cannot** be enchanted.
 
-## Talent: Sacrificial Boon
+## Talents
 
 Equipping the Ritual Sacrifice grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

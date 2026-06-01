@@ -1,6 +1,6 @@
 ---
 title: "Acheron's Warspear"
-revid: 210208
+revid: 212352
 source: https://deepwoken.fandom.com/wiki/Acheron's_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Drops, Medium Weapons, Weapons with Talents]
@@ -40,7 +40,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 
 **Acheron's Warspear** is a [Medium Weapon](Weapons.md) that can be obtained by defeating a Corrupted [King Thresher](King_Thresher.md) in [The Depths](The_Depths.md) and is found fairly commonly inside [Layer 2](Second_Layer.md) chests. Despite subpar stats, it deals bleed damage, boosting its performance immensely.
 
-## Talent: Vital Wound
+## Talent
 
 Equipping the Acheron's Warspear grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

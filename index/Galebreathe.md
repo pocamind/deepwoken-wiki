@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 211619
+revid: 212204
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -372,7 +372,7 @@ Wind [ResistanceGalebreathe](Galebreathe.md)
 -   The trap can stick to players when thrown, having the tornado follow them for the full duration.
 -   Applies the [Suffocation](Status_Effects.md#suffocate) status effect.
 -   Shoots where cursor is unless you have shift lock activated which in this case shoots in the direction your character is facing.
--   Can be upgraded with the "**Aeronade**" Talent, causing the trap to detonate on contact with any object.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), causing the trap to detonate on contact with any object.
 -   Refer to [Gale Trap](Talents.md#gale-trap) if you are looking for the talent instead.
 
  |
@@ -954,8 +954,6 @@ These Talents are found in the _Aeromancer_ category.
 | --- | --- | --- | --- |
 |  | Aerogliding  
 (35 Galebreathe, 30 Agility) | When falling from a high place, hold spacebar to generate wind currents until you hit the floor. Also gives you more airtime with Gliders. (+2 Passive Agility) | Aerogliding slows your falls, preventing fall damage in some cases. Your gliders move almost horizontally, allowing for much greater travel distance. |
-|  | Aeronade  
-(40 Galebreathe, Galetrap (Mantra)) | Your trap automatically detonates on contact with an object. (+2 Passive Agility) |  |
 |  | Stifled Jump  
 (Suffocating Impact) | [Suffocation](Status_Effects.md#b) now applies [Dazed](Status_Effects.md#b) if enemies jump. Suffocated PvE enemies now also get [Sluggish](Status_Effects.md#b) when they are suffocated. (+2 Passive Agility) |  |
 |  | Suffocating Impact  

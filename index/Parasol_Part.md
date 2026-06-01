@@ -1,6 +1,6 @@
 ---
 title: Parasol Part
-revid: 201224
+revid: 212257
 source: https://deepwoken.fandom.com/wiki/Parasol_Part
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Drops, Ingredients]
@@ -11,7 +11,7 @@ categories: [Pathfinder Exclusive, Items, Drops, Ingredients]
 | Parasol Part | |
 |---|---|
 | value | 5,000 |
-| weight | N/A |
+| weight | None |
 | stack | x10 |
 | type | Ingredient |
 | rarity | Common |

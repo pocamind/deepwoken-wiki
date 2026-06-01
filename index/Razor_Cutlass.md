@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 210686
+revid: 212409
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Ingredients, Weapons with Talents]
@@ -45,7 +45,7 @@ Being a medium weapons that deals bleed on top of its normal attacks, the Razor 
 
 It may be crafted into an [Umbrite Witherblade](Umbrite_Witherblade.md) with 3 [Umbrite](Ores.md#umbrite), a [Dormant Splinter](Dormant_Splinter.md) and itself in [The Cold Forge](The_Cold_Forge.md).
 
-## Talent: Continuous Bleed
+## Talents
 
 Equipping the Razor Cutlass grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

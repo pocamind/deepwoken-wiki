@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 209767
+revid: 212384
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyable Weapons, Heavy Weapons, Weapons with Talents]
@@ -43,7 +43,7 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Greataxes, 
 
 The Halberd is a Greataxe type weapon used by the Central Authority. The Halberd is also [Alloyable](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats while giving it a purple tint.
 
-## Talent: Spinal Splinter
+## Talents
 
 Equipping the Halberd grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

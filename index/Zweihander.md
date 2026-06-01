@@ -1,6 +1,6 @@
 ---
 title: Zweihander
-revid: 209795
+revid: 212320
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Alloyable Weapons, Heavy Weapons]
@@ -22,6 +22,7 @@ categories: [Weapons, Greatswords, Alloyable Weapons, Heavy Weapons]
 | attack duration | 0.9s |
 | endlag | 0.1s |
 | penetration | 10% |
+| talent | Devastating Recovery - Enemies recover 50% less posture when parrying your Zweihander light attacks. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Soulwrought Greatsword |
@@ -42,6 +43,12 @@ categories: [Weapons, Greatswords, Alloyable Weapons, Heavy Weapons]
 The **Zweihander** is a standard Heavy Greatsword that can act as an entry point to the Greatsword weapon class. The Zweihander has two upgraded variants, the Alloyed Zweihander and the [Bloodbane](Bloodbane.md).
 
 The [Alloyed](Pluripotent_Alloy.md) variant boasts increased stats with a higher requirement, allowing for lategame viability. The alloyed variant of the Zweihander also has a purple hue to indicate its change.
+
+## Talent: Devastating Recovery
+
+Equipping the Zweihander grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+Enemies will recover 50% less posture when parrying your light attacks.
 
 ## Critical
 

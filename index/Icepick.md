@@ -1,6 +1,6 @@
 ---
 title: Icepick
-revid: 204842
+revid: 212386
 source: https://deepwoken.fandom.com/wiki/Icepick
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Weapons with Talents, Light Weapons]
@@ -44,11 +44,9 @@ This content is not accessible outside of this gamemode.
 
 The Icepick is a LHT weapon under the Rapier category, exclusive to [Vow of Iron](Vow_of_Iron.md).
 
-## Obtainment
-
 The Icepick is found at the [Starfield Tundra](Starfield_Tundra.md).
 
-## Talent: Shatter
+## Talents
 
 Equipping the Icepick grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

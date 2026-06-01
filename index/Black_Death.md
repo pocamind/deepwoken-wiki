@@ -1,6 +1,6 @@
 ---
 title: Black Death
-revid: 211072
+revid: 212357
 source: https://deepwoken.fandom.com/wiki/Black_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Reforged Weapons, Spears, Medium Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, The Ministry, "Attunement-based Weapons", "Core-Attribute based weapons", Legendary Weapons, Weapons with Talents, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -41,7 +41,7 @@ Variants: [Red Death](Red_Death.md)
 
 The **Black Death** is the sister of its [red counterpart](Red_Death.md), a tool of the Ministry which does not care about the mess it leaves behind.
 
-## Talent: Corporeal Dissolution
+## Talents
 
 Equipping the Black Death grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

@@ -1,6 +1,6 @@
 ---
 title: "Duke's Coat Fiber"
-revid: 190635
+revid: 212287
 source: https://deepwoken.fandom.com/wiki/Duke's_Coat_Fiber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drops, Items, Ingredients]
@@ -11,13 +11,13 @@ categories: [Drops, Items, Ingredients]
 | Duke's Coat Fiber | |
 |---|---|
 | value | 1,500 |
-| weight | N/A |
+| weight | None |
 | type | Ingredient |
 | rarity | Unique |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | Luxurious and soft, this scrap of ripped fabric betrays the mad dukes origin as a noble aristocrat. |
+| desc | Luxurious and soft, this scrap of ripped fabric betrays the mad dukes [sic] origin as a noble aristocrat. |
 | obtainment | Duke Ishamon Erisia, Fishing |
 
 ## Description

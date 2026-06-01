@@ -1,6 +1,6 @@
 ---
 title: Duskshot
-revid: 198701
+revid: 212371
 source: https://deepwoken.fandom.com/wiki/Duskshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Pistols, Weapons with Talents, Offhand, Light Weapons]
@@ -45,7 +45,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 The Duskshot is a Pistol weapon exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. The Duskshot's maximum [Bullet](Bullets.md) capacity is 4.
 
-## Talent: Hex Bullet
+## Talents
 
 Equipping the Duskshot grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

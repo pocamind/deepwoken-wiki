@@ -1,6 +1,6 @@
 ---
 title: Ethereal Bone Dust
-revid: 209059
+revid: 212251
 source: https://deepwoken.fandom.com/wiki/Ethereal_Bone_Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients]
@@ -15,8 +15,8 @@ categories: [Items, Ingredients]
 | stack | x1 |
 | type | Ingredient |
 | rarity | Unique |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | pass down | No |
 | desc | This doesn't feel safe to hold... |
 | obtainment | Scion of Ethiron (Chest) |

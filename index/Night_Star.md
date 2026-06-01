@@ -1,6 +1,6 @@
 ---
 title: Night Star
-revid: 205558
+revid: 212407
 source: https://deepwoken.fandom.com/wiki/Night_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Weapons with Talents, Clubs, Medium Weapons]
@@ -47,7 +47,7 @@ This content is not accessible outside of this gamemode.
 
 The **Night Star** is a blunt [Club](Clubs.md) type medium weapon.
 
-## Talent: Night Night
+## Talents
 
 Equipping the Night Star grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 200816
+revid: 212378
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character]
@@ -26,7 +26,7 @@ In order of carry load given:
 -   _Pocket Bombs_ gives 5 carry load.
 -   _Steady Footing_ gives 5 carry load.
 -   _Strong Stern_ gives 5 carry load.
--   _Pack Mule_ gives 10 carry load.
+-   _Cook's Kit_ gives 10 carry load.
 
 All of these [Talents](Talents.md) combined would provide +30 carry load. Any other talents not listed here have had their innate carry load removed as of the 17/2/26 update.
 
@@ -59,7 +59,7 @@ Combining both Talents and other sources, the total amounts to **390**. However,
 
 -   The [Another Man's Trash](Talents.md#another-mans-trash) Talent provides a damage buff in PvE, scaling on how much weight you are currently carrying. This grants a 1% damage buff for every 100 weight.
 -   If you are carrying more than 150% of your maximum carry load, items above the threshold will be voided if you leave the game. This does not apply in the [Vow of Iron](Vow_of_Iron.md) gamemode.
--   Interestingly, if you reduce your carry load (by taking off a backpack, for example) while at maximum capacity, you can still carry your previous max amount of items, even after rejoining. Though, if you drop any item, you won't be able to pick it back up.
+-   If you reduce your carry load (by taking off a backpack, for example) while at maximum capacity, you can still carry your previous max amount of items, even after rejoining. Though, if you drop any item, you won't be able to pick it back up.
 -   Five Talents that granted carry load have been removed from the game.
     -   _Volt Kick_ granted 7 carry load, but was removed on August 30th, 2024.
     -   _Pitcher_ and _Duelist's Dance_ granted 3 and 4 carry load respectively, but were removed on April 15th, 2025.

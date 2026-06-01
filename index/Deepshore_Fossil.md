@@ -1,9 +1,11 @@
 ---
 title: Deepshore Fossil
-revid: 205129
+revid: 212198
 source: https://deepwoken.fandom.com/wiki/Deepshore_Fossil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Floor 1, Layer 2]
+categories: [Cut Content, Items, Floor 1, Layer 2]
+notices:
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # Deepshore Fossil
@@ -22,15 +24,15 @@ categories: [Items, Floor 1, Layer 2]
 
 ## Description
 
-The Deepshore Fossil is an item that is obtained from [Layer 2](Second_Layer.md). It is a biomechanical organism used to create any non-exclusive [Enchant Stone](Enchant_Stone.md) of your choice. It will be consumed on usage.
+The Deepshore Fossil was an item that is obtained from [Layer 2](Second_Layer.md). It is a biomechanical organism used to create any non-exclusive [Enchant Stone](Enchant_Stone.md) of your choice. It will be consumed on usage.
 
 ## Obtainment
 
 ### Quest
 
-[Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) at [Castle Light](Castle_Light.md) in the First Layer of the Depths will give you the Fossil upon telling her information about the Second Layer. This quest is not repeatable.
+[Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) at [Castle Light](Castle_Light.md) in the First Layer of the Depths would give you the Fossil upon telling her information about the Second Layer. This quest was not repeatable.
 
-You will be able to tell her this once you meet the following requirements:
+You would be able to tell her this once you meet the following requirements:
 
 -   Have obtained Diver Journal I, II and III from the corpses in the [Second Layer](Second_Layer/The_Ethironal_Shrine.md):
     -   The first in the left wall of the [Nest Corridor](Nest_Corridor.md)
@@ -47,7 +49,7 @@ You do not need to accomplish all of these requirements in the same run or even 
 
 ### Other
 
-It can be sold by [Traan Zakshun](Traan_Zakshun.md) in his black market for 100.
+It could be sold by [Traan Zakshun](Traan_Zakshun.md) in his black market for 100.
 
 ## Trivia
 

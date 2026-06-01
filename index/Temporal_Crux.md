@@ -1,6 +1,6 @@
 ---
 title: Temporal Crux
-revid: 206198
+revid: 212264
 source: https://deepwoken.fandom.com/wiki/Temporal_Crux
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Ingredients, Drops]
@@ -11,7 +11,7 @@ categories: [Pathfinder Exclusive, Items, Ingredients, Drops]
 | Temporal Crux | |
 |---|---|
 | value | 500 |
-| weight | 0 |
+| weight | None |
 | type | Ingredient |
 | rarity | Unique |
 | bankable | Yes, (it costs 1 to unbank) |

@@ -1,9 +1,9 @@
 ---
 title: Dread Flesh
-revid: 190660
+revid: 212276
 source: https://deepwoken.fandom.com/wiki/Dread_Flesh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ingredients, Items]
+categories: [Ingredients, Items, Drops]
 ---
 
 # Dread Flesh

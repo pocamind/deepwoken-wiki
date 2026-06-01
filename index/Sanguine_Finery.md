@@ -1,6 +1,6 @@
 ---
 title: Sanguine Finery
-revid: 209682
+revid: 212346
 source: https://deepwoken.fandom.com/wiki/Sanguine_Finery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, World Event, Outfits with Talents, "Outfits with Non-exclusive Talents", Outfits with Exclusive Talents]
@@ -20,7 +20,7 @@ categories: [Outfits, Unique Outfits, World Event, Outfits with Talents, "Outfit
 | durability | 2600 |
 | resistances | +25% Physical Armor , +30% Elemental Armor , +25% Blood Armor |
 | buffs | +75% Ether Regen |
-| talents | Focused Hematoma, Sheltering Grasp |
+| talents | Focused Hematoma |
 | obtainment | Carnival of Hearts |
 | selling_price | 10 |
 | weight | 1 |

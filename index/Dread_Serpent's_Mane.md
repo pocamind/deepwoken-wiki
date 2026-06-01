@@ -1,9 +1,9 @@
 ---
 title: "Dread Serpent's Mane"
-revid: 206867
+revid: 212254
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent's_Mane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Ingredients]
+categories: [Items, Ingredients, Drops]
 ---
 
 # Dread Serpent's Mane
@@ -11,11 +11,11 @@ categories: [Items, Ingredients]
 | Dread Serpent's Mane | |
 |---|---|
 | value | N/A |
-| weight | 0 |
+| weight | None |
 | type | Ingredient |
 | rarity | Unique |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | pass down | No |
 | desc | The mane ripped from a dread serpent, a formidable task indeed. |
 | obtainment | Direct Drop from Dread Serpent |

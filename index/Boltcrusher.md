@@ -1,6 +1,6 @@
 ---
 title: Boltcrusher
-revid: 210830
+revid: 212236
 source: https://deepwoken.fandom.com/wiki/Boltcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Greathammers, The Ignition Union, "Attunement-based Weapons", Heavy Weapons, Weapons with multiple Criticals]
@@ -14,7 +14,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Legendary 
 | damage type | Blunt |
 | requirements | 55 HVY, 20 STR, 80 LTN |
 | oath | Silentheart |
-| damage | 25 |
+| damage | 23 |
 | scaling | HVY: 4.2, LTN: 7 |
 | posture damage | 8 |
 | range | 8.5 Sweep |
@@ -54,7 +54,7 @@ The Boltcrusher comes with two passive abilities:
 
 The Boltcrusher has two criticals.
 
-For the standing critical, the user reels back the weapon, drilling into them before spinning around and clobbering the enemy with the hammerhead side of the weapon, applying Sapped to the target. This has an estimated 1.6x multiplier.
+For the standing critical, the user reels back the weapon, drilling into them before spinning around and clobbering the enemy with the hammerhead side of the weapon, applying Sapped to the target. This has an estimated 1.6x multiplier. Your character's rotation speed is slowed during this attack.
 
 For the running critical, The user lifts the Boltcrusher up above their head before slamming it into the ground using the hammerhead side, creating a shockwave of lightning, applying Sapped to the target. This has an estimated 1.4x multiplier.
 

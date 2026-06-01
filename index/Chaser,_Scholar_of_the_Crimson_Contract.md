@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 210982
+revid: 212197
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Bosses, Black Divers, Voiced Characters, Ministry Enemies]
@@ -12,7 +12,7 @@ categories: [Pathfinder Exclusive, Enemies, Bosses, Black Divers, Voiced Charact
 |---|---|
 | health | 25k (+ 2.5k every person) |
 | drops | Large Layer 2 Chest (see Loot Table), Strange Tome Volume #2, Ardour manifestation, Pluripotent Alloy, Flareblood Kamas, Bloodforged Crown, Weathered Timepiece, Bloodfouler |
-| moves | Triple Blood Appendage, Powerful Blood Appendage, Burning Blood Explosion, Miasma Wave, Stalactite Fall, Transfusion, Sanguine Repulsion, Last Resort |
+| moves | Triple Blood Appendage, Powerful Blood Appendage, Burning Blood Explosion, Miasma Blast, Stalactite Fall, Transfusion, Sanguine Repulsion, Last Resort |
 | affiliation | The Divers (formerly), Black Divers division, The Ministry |
 | challenges | -- Chaser, Scholar of the Crimson Contract --, Deep Diver Thrombosis - Slay 10.Reward: +5% DMG; +2.5% RES |
 
@@ -87,7 +87,7 @@ Dodge
  |
 | 
 
-**Miasma Wave**  
+**Miasma Blast**  
 (★★☆)
 
  | Three waves of blood mist spread out under Chaser, covering the whole area.

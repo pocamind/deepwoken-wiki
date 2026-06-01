@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Hood"
-revid: 210595
+revid: 212222
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Hoods, Equipment with Talents, Equipment with Exclusive Talents]
@@ -16,7 +16,7 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Hoods, Equipment with Talen
 | requirements | None |
 | weight | 1 |
 | innate stats | +10% Stealth +1 Posture |
-| innate talent | Merc Blade |
+| innate talent | Mercenary Blade |
 | bankable | No |
 | droppable | No |
 | enchantable | Yes |
@@ -32,4 +32,4 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 Hoods are an [Equipment](Equipment.md) item under the "Head" category.
 
-The [Merc Blade](Talents.md#merc-blade) Talent grants an additional +1 damage to your attacks for every +10% stealth you have. This is applied to all sources of damage.
+The [Mercenary Blade](Talents.md#mercenary-blade) Talent grants an additional +1 damage to your attacks for every +10% stealth you have. This is applied to all sources of damage.

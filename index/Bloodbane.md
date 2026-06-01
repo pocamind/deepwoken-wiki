@@ -1,6 +1,6 @@
 ---
 title: Bloodbane
-revid: 211075
+revid: 212358
 source: https://deepwoken.fandom.com/wiki/Bloodbane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Named Weapons, Heavy Weapons, Weapons with Talents, Legendary Weapons]
@@ -20,7 +20,7 @@ categories: [Weapons, Greatswords, Named Weapons, Heavy Weapons, Weapons with Ta
 | swing speed | 0.8x |
 | attack duration | 0.9s |
 | endlag | 0.1s |
-| talent | Blood Drinker - Recover health on hit. When landing a critical, deal 30 bleed damage over 5 seconds. |
+| talent | Blood Drinker - Recover health on hit. When landing a critical, deal 30 bleed damage over 5 seconds., Devastating Recovery - Enemies recover 50% less posture when parrying your Zweihander light attacks. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Soulwrought Greatsword |
@@ -44,7 +44,7 @@ The **Bloodbane** is a Heavy Greatsword, an enhanced variant of the [Zweihander]
 
 Dying with this weapon equipped or in your inventory causes it to **deteriorate into its regular, non-Named, variant**. Dying in the [Chime of Conflict](Chime_of_Conflict.md) however, will not deteriorate the Bloodbane, though its unique Talent is disabled there. Bloodbane **cannot** be enchanted.
 
-## Talent: Blood Drinker
+## Talents
 
 Equipping the Bloodbane grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
@@ -53,6 +53,10 @@ Equipping the Bloodbane grants its unique [weapon Talent](Talents.md#weapon-tale
 On M1, restore 4% of your maximum health per target hit. This also procs on [Silentheart](Oath%253A_Silentheart.md) abilities.
 
 On critical, apply a Damage over Time status effect that deals 8 damage per tick 5 times for a maximum of 40 damage. If you are knocked during the lifespan of this effect, or hit by the critical while being knocked, you will be autogripped. This effect can be applied through dodge; parrying this attack is the only way to avoid this. This effect can only proc once per crit.
+
+### Devastating Recovery
+
+Enemies will recover 50% less posture when parrying your light attacks.
 
 ## Critical
 

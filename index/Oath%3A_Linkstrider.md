@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 210163
+revid: 212219
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -30,25 +30,25 @@ The Oath is acquired after taking the lives of 4 players and conducting a ritual
 ## Obtainment
 
 1.  Entropy Catalyst Method:
-    1.  Knock 4 different players with Oaths.
+    1.  Knock 3 different players with Oaths [Unconscious](Status_Effects.md#unconscious).
     2.  Take them to [The Entropy Catalyst](The_Entropy_Catalyst.md).
     3.  Place them in the craters, sacrificing them.
         -   Since the Entropy Catalyst is a voidzone, they will be sent to the depths.
     4.  Interact with the white orb that appears in the middle.
 2.  [Pristine Lotus](Pristine_Lotus.md) Method:
-    1.  Collect 4 [Pristine Lotuses](Pristine_Lotus.md) located around [The Entropy Catalyst](The_Entropy_Catalyst.md).
-    2.  Grip 4 players with Oaths **while you are combat tagged**. Can be the same player.
-        -   Upon gripping a player with an Oath, one of your [Pristine Lotuses](Pristine_Lotus.md) will be converted to a [Scarlet Lotus](Pristine_Lotus.md).
-    3.  Return to [The Entropy Catalyst](The_Entropy_Catalyst.md) with 4 [Scarlet Lotuses](Pristine_Lotus.md) and place them in the craters.
+    1.  Collect 3 [Pristine Lotuses](Pristine_Lotus.md) located around [The Entropy Catalyst](The_Entropy_Catalyst.md).
+    2.  Execute 3 players with Oaths or [Bosses](Bosses.md) **while you are combat tagged**. Can be the same player.
+        -   Upon executing a player with an Oath or a [boss](Bosses.md), one of your [Pristine Lotuses](Pristine_Lotus.md) will be converted to a [Scarlet Lotus](Pristine_Lotus.md).
+    3.  Return to [The Entropy Catalyst](The_Entropy_Catalyst.md) with 3 [Scarlet Lotuses](Pristine_Lotus.md) and place them in the craters.
     4.  Interact with the white orb that appears in the middle.
 
-Extra note: You can use a mix of both knocked players and Scarlet Lotus.
+Extra note: You can use a mix of both knocked players/killed bosses and Scarlet Lotus.
 
 _Linkstrider **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it._
 
 ## Progression
 
-The only way to obtain each ability is to grip players with an Oath. However, this does not always need to be done at The Entropy Catalyst. **Entropy Link** is acquired on the first grip, then in order, **Symbiotic Link,** **Symbiotic Sustain,** and **Parasitic Leech**. This totals to 7 total player grips: 4 to take the Oath, then 3 more to fully progress it (Same player grips do count). Alternatively, if the Oath has been fully progressed on another character before, 10 knowledge can be spent to fully progress it on the current character. To skip the progression for Linkstrider, interact with the slots where you place the people to max it out.
+The only way to obtain each ability is to grip players with an Oath. However, this does not always need to be done at The Entropy Catalyst. **Entropy Link** is acquired on the first grip, then in order, **Symbiotic Link,** **Symbiotic Sustain,** and **Parasitic Leech**. This totals to 6 total player/boss executions: 3 to take the Oath, then 3 more to fully progress it (Same player grips do count). Alternatively, if the Oath has been fully progressed on another character before, 10 knowledge can be spent to fully progress it on the current character. To skip the progression for Linkstrider, interact with the slots where you place the people to max it out.
 
 ## Effects
 

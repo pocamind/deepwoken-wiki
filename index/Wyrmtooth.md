@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 210642
+revid: 212304
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", Heavy Weapons, Medium Weapons, Weapons with multiple Criticals, "Weapons with Multi-Hit Criticals", Weapons with Talents]
@@ -41,7 +41,7 @@ The **Wyrmtooth** is a sword that drops from bosses and endgame events like the 
 
 The Wyrmtooth boasts a massive 9 range and an above average weight of 7; it can reliably outrange the majority of light and medium melee weapons and, paired with its decently high swing speed, allows you to maintain pressure on your opponents while remaining relatively safe.
 
-Whilst wielding this weapon, all [Silentheart](Oath%253A_Silentheart.md) abilities receive a **50% damage debuff**.[\[1\]](#cite-note-1)
+~Whilst wielding this weapon, all [Silentheart](Oath%253A_Silentheart.md) abilities receive a **50% damage debuff**.[\[1\]](#cite-note-1)~ As of May 31st 2026, this debuff is no longer applied due to [Silentheart](Oath%253A_Silentheart.md)'s new weapon scaling for abilities [\[2\]](#cite-note-2)
 
 ## Talent: Ebb and Flow
 
@@ -78,3 +78,8 @@ The cooldown for either critical is **10 seconds**.
 ## References
 
 1.  [↑](#cite-ref-1) Update log on 1/2/2026 applying the damage debuff change File:Wyrmtooth dmg debuff.png
+2.  [↑](#cite-ref-2)
+    
+    File:Image 2026-05-31 183757452.png
+    
+    Update log on 05/31/2026

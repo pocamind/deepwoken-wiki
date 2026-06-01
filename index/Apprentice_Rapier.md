@@ -1,6 +1,6 @@
 ---
 title: Apprentice Rapier
-revid: 206112
+revid: 212355
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons, Weapons with Talents]
@@ -39,7 +39,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 
 The Apprentice Rapier is an early-game Rapier. It acts as the entry point to the Rapier class.
 
-## Talent: Careful Stance
+## Talents
 
 Equipping the Apprentice Rapier grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 210333
+revid: 212364
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, Alloyable Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons with Talents]
@@ -42,7 +42,7 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Cr
 
 The Crescent Cleaver is a mid-game Heavy Weapon. The Crescent Cleaver is [Alloyable](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats and giving it a purple tint.
 
-## Talent: Spinal Shatter
+## Talents
 
 Equipping the Crescent Cleaver grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

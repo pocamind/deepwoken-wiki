@@ -1,6 +1,6 @@
 ---
 title: Forgotten Gladius
-revid: 206592
+revid: 212382
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Talents]
@@ -40,7 +40,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons wit
 
 The Forgotten Gladius is a midgame to endgame weapon obtained from [Primadon](Primadon,_Titan_of_the_East.md), [Voidwalker](Voidwalker.md) and [Fishing](Fishing.md) chests. This weapon has a base damage of 18 and has no special effect or passives.
 
-## Talent: Blitz
+## Talents
 
 Equipping the Forgotten Gladius grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

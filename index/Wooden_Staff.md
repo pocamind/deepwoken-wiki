@@ -1,6 +1,6 @@
 ---
 title: Wooden Staff
-revid: 212173
+revid: 212192
 source: https://deepwoken.fandom.com/wiki/Wooden_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons, Weapons with Talents]
@@ -51,9 +51,3 @@ Equipping the Wooden Staff grants its unique [weapon Talent](Talents.md#weapon-t
 Wooden Staff uses the default Staff critical, a pole vault before slamming the staff onto the target, knocking them away and applying [Knockdown](Status_Effects.md#knockdown). It has a scaled damage multiplier of **0.4x** on the pole vault and **2.2x** on the slam, and has a cooldown of **6 seconds**. This critical can break destructible terrain.
 
 This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
-
-  
-
-## Trivia
-
--   Despite many of the community's remarks to the contrary, this rapier is _not_ a direct upgrade to the other rapiers, which sometimes have more weight, scaling, base damage, speed, penetration, and different crits across the board. As such, it should be considered a (though popular) sidegrade.

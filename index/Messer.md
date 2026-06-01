@@ -1,6 +1,6 @@
 ---
 title: Messer
-revid: 210962
+revid: 212401
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Alloyable Weapons, Medium Weapons, Weapons with Talents]
@@ -44,7 +44,7 @@ The Messer is an early-game sword that can be found in chests in [Lower Erisia](
 
 The Messer can be [Alloyed](Pluripotent_Alloy.md), increasing its stats and requirements to make it a viable lategame weapon. The Messer gains a purple hue to indicate this change.
 
-## Talent: Finishing Slay
+## Talents
 
 Equipping the Messer grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

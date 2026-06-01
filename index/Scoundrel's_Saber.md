@@ -1,9 +1,9 @@
 ---
 title: "Scoundrel's Saber"
-revid: 204264
+revid: 212400
 source: https://deepwoken.fandom.com/wiki/Scoundrel's_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Medium Weapons, Swords, Weapons with Unique Criticals]
+categories: [Weapons, Criticals with M1 tag, Medium Weapons, Swords, Weapons with Unique Criticals, Weapons with Talents]
 ---
 
 # Scoundrel's Saber
@@ -19,6 +19,7 @@ categories: [Weapons, Criticals with M1 tag, Medium Weapons, Swords, Weapons wit
 | range | 8 Sweep |
 | swing speed | 1x |
 | attack duration | 0.6s |
+| talent | Scammer - If your opponent tries to parry the fake hit of your critical attack, your critical attack will inflict a stronger daze upon your opponent. |
 | special effect | Critical gains 10% more damage if landed on the opponent's back. |
 | m.equip | No |
 | m.extract | No |
@@ -37,11 +38,15 @@ categories: [Weapons, Criticals with M1 tag, Medium Weapons, Swords, Weapons wit
 
 The Scoundrel's Saber is a Medium Sword weapon sold exclusively by [Traan Zakshun](Traan_Zakshun.md) at the price of 650.
 
-Obtainable in Vow of Iron in depth chests and through the strange merchant's resonance.
+Obtainable in Vow of Iron in depth chests and through the [Strange Merchant](Strange_Merchant.md)'s Coffin.
+
+## Talent
+
+Equipping the Scoundrel's Saber grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
 ## Critical
 
-The user rushes forward, seemingly preparing to slice with the blade, instead delivering a fake blow that leads into a guardbreaking pommel strike.
+The user winds up for 0.8 seconds then rushes forward, seemingly preparing to slice with the blade, but instead delivering a fake blow that leads into a guardbreaking pommel strike.
 
 The pommel strike has a 1.1x scaled damage multiplier and Dazes for 2.5 seconds. If the user lands this critical on the opponent's back, it will gain a 10% damage bonus.
 

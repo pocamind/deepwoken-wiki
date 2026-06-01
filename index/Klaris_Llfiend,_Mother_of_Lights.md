@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 210985
+revid: 212212
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the First Layer, Oath Trainer, Black Divers]
@@ -225,8 +225,7 @@ Radiant Teachings
   The Ignition Union</td>
   <td colspan="3">Regarding Layer 2 Floor 1's<br>
   Optional Quests<br>
-  Mendacia's quest<br>
-  Deepshore Fossil quest</td>
+  Mendacia's quest</td>
   <td colspan="3">Regarding Layer 2 Floor 2<br>
   Dr. Diver<br>
   Kyrsan Medallions</td>
@@ -298,17 +297,14 @@ Radiant Teachings
 <tr>
   <td colspan="3">Spoken to Mendacia</td>
   <td colspan="3">Denied Mendacia's Quest</td>
-  <td colspan="6">Meet Deepshore Fossil Requirements</td>
 </tr>
 <tr>
   <td colspan="3">I met someone to be an 'Arch-Diver' down there. Any clue?</td>
   <td colspan="3">Can you tell me about the Interstice of Skies?</td>
-  <td colspan="6">Here's all my findings within the Gale.</td>
 </tr>
 <tr>
   <td colspan="3">An... Arch-Diver? Either you've come across a surviving diver with an inflated ego, or... <i>*She grimaces.*</i></td>
   <td colspan="3">...Never heard that phrase before in my life. I can only assume you're talking about the <a href="Glossary.md#the-eternal-gale-the-second-layer">Eternal Gale</a>? It's relatively unexplored, we've had <a href="Glossary.md#the-divers">Divers</a> make it far but never return.</td>
-  <td colspan="6"><i>*You hand her your findings and stories from the Gale, ranging from the lost <a href="Glossary.md#the-divers">Diver</a> journals to the secrets of the layer itself.*</i> ...I see. You've done a great deal for us. This is the least I can offer in gratitude: the Deepshore Fossil. A strange device we found deep within the Gale many moons ago, but without an idea of who should use it. It can produce one enchant stone of your choice, before passing. Please, you've done a lot for us. Take it.</td>
 </tr>
 <tr>
   <td colspan="3">Or what?</td>

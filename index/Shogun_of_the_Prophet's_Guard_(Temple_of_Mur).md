@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 209077
+revid: 212200
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Individuals with He/him pronouns, Enemies, Etrea Enemies]
@@ -13,7 +13,7 @@ categories: [Vow of Iron Exclusive, Bosses, Individuals with He/him pronouns, En
 | health | 4000 |
 | drops | 2 Knowledge, 2,000 Notes, Vibrant Gem, Pluripotent Alloy, Ardour Manifestation, Memento Talents |
 | weapon | The Endless Wave |
-| moves | High Cleave, Crush & Rend, Graceful Slicer, Severing Flourish, Low Cleave, Shogun's Brutality, Serpent-Slaying Sweep, Mortal Draw: Sakura Dance |
+| moves | High Cleave, Crush & Rend, Graceful Slicer, Severing Flourish, Low Cleave, Shogun's Brutality, Serpent-Slaying Sweep, Eight Heavens |
 | pronouns | He/him[1] |
 | affiliation | Etrea |
 
@@ -151,7 +151,7 @@ Dodge
  |
 | 
 
-**Mortal Draw: Sakura Dance**
+**Eight Heavens**
 
 (★★★)
 

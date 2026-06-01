@@ -1,6 +1,6 @@
 ---
 title: Serena
-revid: 176690
+revid: 212252
 source: https://deepwoken.fandom.com/wiki/Serena
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, NPCs, Enemies, NPCs located in the Eastern Luminant, Quests]
@@ -93,3 +93,4 @@ Serena would execute her opponent after knocking them:
 -   She was hostile to all NPCS of all factions.
 -   There used to be a bug where if there were two or more Serenas in a server and you gave water to one of them, the other/s would still thank you for the water, even though you hadn't actually given them the water.
 -   She didn't actually need _water_. If you gave her a canteen with any other liquid (even Celestial ichor), she would still accept it as if it were water.
+-   She was removed because "there was a softlock bug with it that was hard to test and it was an annoying event so it was just removed for both reasons".

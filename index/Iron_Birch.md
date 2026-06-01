@@ -1,6 +1,6 @@
 ---
 title: Iron Birch
-revid: 204203
+revid: 212389
 source: https://deepwoken.fandom.com/wiki/Iron_Birch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
@@ -40,7 +40,7 @@ categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
 
 The Iron Birch is a [Heavy](Weapons.md) axe. This weapon is considered one of the best heavy weapons due to it's unusually high swing speed and overall good damage.
 
-## Talent: Expeditious Combo
+## Talents
 
 Equipping the Iron Birch grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

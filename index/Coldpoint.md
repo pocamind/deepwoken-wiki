@@ -1,6 +1,6 @@
 ---
 title: Coldpoint
-revid: 211064
+revid: 212361
 source: https://deepwoken.fandom.com/wiki/Coldpoint
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weapons with Talents, Rapiers, Legendary Weapons, Light Weapons]
@@ -37,7 +37,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals 
 
 The Coldpoint is a Legendary Rapier; A long icicle kept forever frozen by a Vow, they were used as training weapons by the [Kyrsgarde](Kyrsgarde.md). It is obtained from the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>).
 
-## Talent: True Shatter
+## Talents
 
 Equipping the Coldpoint grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

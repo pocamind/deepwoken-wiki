@@ -1,6 +1,6 @@
 ---
 title: Kindred Edict
-revid: 192952
+revid: 212393
 source: https://deepwoken.fandom.com/wiki/Kindred_Edict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Weapons with Talents, "Core-Attribute based weapons"]
@@ -39,7 +39,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons wit
 
 The Kindred Edict is a Medium-Body Sword; a pallid, glimmering blade forged from the remnants of Celestial crash sites, used as a staple in the Starkindred Faith.
 
-## Talent: Blitz
+## Talents
 
 Equipping the Kindred Edict grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 

@@ -1,9 +1,9 @@
 ---
 title: Parasol Membrane
-revid: 205554
+revid: 212279
 source: https://deepwoken.fandom.com/wiki/Parasol_Membrane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Items, Ingredients]
+categories: [Pathfinder Exclusive, Items, Ingredients, Drops]
 ---
 
 # Parasol Membrane
@@ -11,14 +11,14 @@ categories: [Pathfinder Exclusive, Items, Ingredients]
 | Parasol Membrane | |
 |---|---|
 | value | N/A |
-| weight | N/A |
+| weight | None |
 | stack | x5 |
 | type | Ingredient |
 | rarity | Unique |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | pass down | No |
-| desc | The membrance of the Parasol, a clue to how the Parasol is able to spread the horrors of the depths across Lumen. Despite not regenerating itself, it was discovered to strangely aid in healing agents when combined with other materials. |
+| desc | The membrance of the Parasol, a clue to how the Parasol is able to spread the horrors of the depths [sic] across Lumen. Despite not regenerating itself, it was discovered to strangely aid in healing agents when combined with other materials. |
 | obtainment | Interluminary Parasol |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  

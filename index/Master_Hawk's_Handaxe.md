@@ -1,6 +1,6 @@
 ---
 title: "Master Hawk's Handaxe"
-revid: 202297
+revid: 212399
 source: https://deepwoken.fandom.com/wiki/Master_Hawk's_Handaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
@@ -42,7 +42,7 @@ categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
 
 Master Hawk's Handaxe is a [Heavy Weapon](Weapons.md) of the greataxe category. It has a base damage of 24, 0.8x Swing speed and 25% Chip damage.
 
-## Talent: Battle Frenzy
+## Talents
 
 Equipping the Master Hawk's Handaxe grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
