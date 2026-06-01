@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 212157
+revid: 212652
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters, Enemies, Humanoids with Unobtainable Outfits]
@@ -71,6 +71,12 @@ The [Solborn](Solborn.md) & [Void Glutton](Void_Glutton.md) [Memento](Mementos.m
 -   Attempting to dodge the attack will often lead to being hit, though roll-cancelling early can occasionally allow you to avoid damage if you remain in the center.
 -   This move only occurs during his first phase.
 
+_Uses Telegraph_
+
+[AvoidTelegraph](Combat_Mechanics.md#skull)
+
+Avoid
+
  |  |
 | 
 
@@ -80,7 +86,12 @@ The [Solborn](Solborn.md) & [Void Glutton](Void_Glutton.md) [Memento](Mementos.m
  | Similar to **Tendril Cage**, albeit with the circles being more tightly packed together. If the Inheritor does not dodge the attack, they will take damage and **Prepared Equalizer** will be triggered. Much like **Tendril Cage**, it will deal significantly more damage per hit.
 
 -   This move only occurs during his first phase.
--   **Due to this boss not being maintained, this attack appears to be nonfunctional. Doesn't seem to damage the player, even if not defended against.**
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
 
  |  |
 | 
@@ -106,30 +117,45 @@ The [Solborn](Solborn.md) & [Void Glutton](Void_Glutton.md) [Memento](Mementos.m
     -   During this, **Tendril Uprising** or **Flash Equalizer** will be used three times at the Inheritor's position, with a few seconds of delay between them. The third attack will have a shorter delay.
         -   Air Dashing after jumping is a surefire way to avoid these without having to consider which specific inputs to do. Using the sounds of **Tendril Uprising** can be useful for estimating when the next round of **Flash Equalizer** or **Tendril Uprising** will appear at your position.
 -   The first variation is far simpler; moving to the left or right while sprinting is the easiest way to avoid it. Be advised, the delay between Zi'eer's attacks will start immediately after the attack is summoned at The Coral Throne, and as such it is advised to wait for the next attack so as to not get attacked while M1ing.
-    -   During his second phase, the first variation is modified; Zi'eer will move to a set distance away from the Inheritor, and will raise his arm up in a lengthy animation, bringing it down after a second or two and summoning the wall. Dashing or sliding to avoid it is ill-advised, as Zi'eer may preform **Prophet's Drop Kick**, **Dash Kick**, or **Enhanced Requiem** immediately thereafter.
+    -   During his second phase, the first variation is modified; Zi'eer will move to a set distance away from the Inheritor, and will raise his arm up in a lengthy animation, bringing it down after a second or two and summoning the wall. Dashing or sliding to avoid it is ill-advised, as Zi'eer may preform **Dashing Kicks**, or **Enhanced Requiem** immediately thereafter.
+
+_Uses Telegraph_
+
+[AvoidTelegraph](Combat_Mechanics.md#skull)
+
+Avoid
 
  |  |
+| **Attacks unlocked on Phase 2** |
 | 
 
-**Dash Kick**  
+**Dashing Kicks**  
 (★★★)
 
- | Zi'eer moves to a set distance from the Inheritor, before strafing to the left or right and dashing towards the Inheritor, stopping once they reach a set distance away from them, causing them to turn around, strafe again, and dash towards the Inheritor one more time. After the second dash, Zi'eer will use **Prophet's Drop Punch** and **Tendril Cage** simultaneously.
+ | Zi'eer moves to a set distance from the Inheritor, before strafing to the left or right and dashing towards the Inheritor, stopping once they reach a set distance away from them, causing them to turn around, strafe again, and dash towards the Inheritor one more time.
 
 -   Due to the speed of the attack, you must [roll-cancel](Combat_Mechanics.md#advanced-movement) to avoid both dashes.
--   ~Before dashing, Zi'eer will briefly be highlighted in red.~ **Due to newer telegraphs being implemented, in addition this boss not being maintained, this attack lacks any indicator beyond Zi'eer strafing.**
+-   Before dashing, Zi'eer will briefly be highlighted in red.
 
- |  |
-| 
+**Dashes Telegraph**
 
-**Prophet's Drop Punch**  
-(★☆☆)
+_Uses Telegraph_
 
- | Zi'eer faces the Inheritor ~and is briefly highlighted in green~, before jumping into the air and slamming down, dealing moderate damage and ragdolling the Inheritor with little-to-no knockback.
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
+
+After the second dash, Zi'eer faces the Inheritor and is briefly highlighted in green, before jumping into the air and slams down simultaneously attacking with **Tendril Cage**, dealing moderate damage and ragdolling the Inheritor with little-to-no knockback.
 
 -   This move is extremely predictable. If unfamiliar, looking up at Zi'eer while airborne may help.
--   This move is only used following two **Dash Kicks**.
--   **Due to newer telegraphs being implemented, in addition this boss not being maintained, this attack lacks a highlight. Despite this, the attack remains incredibly predictable.**
+
+**Drop Slam Telegraph**
+
+_Uses Telegraph_
+
+[ParryTelegraph](Combat_Mechanics.md#green)
+
+Parry
 
  |  |
 | 
@@ -143,6 +169,12 @@ The [Solborn](Solborn.md) & [Void Glutton](Void_Glutton.md) [Memento](Mementos.m
     -   Presumably, the divebomb caused by not looking at Zi'eer is what the indicator refers to. _\[citation needed\]_
 -   Attempting to count how many times Zi'eer has dashed during the attack is a consistent, albeit difficult way to avoid the attack and time a parry or dodge.
     -   Alternatively, Spamming roll-cancel when you believe Zi'eer is about to divebomb you is one way to avoid the attack without counting the dashes. The Oni Mask helps in this regard.
+
+_Uses Telegraph_
+
+[AvoidTelegraph](Combat_Mechanics.md#skull)
+
+Avoid
 
  |  |
 | 
@@ -158,7 +190,6 @@ The [Solborn](Solborn.md) & [Void Glutton](Void_Glutton.md) [Memento](Mementos.m
 
 -   The first hit of this attack can be parried or dodged.
     -   The second hit is unavoidable if the first hit was not avoided. Even venting will not cause the attack to end prematurely.
--   This attack will only occur during his second phase.
 
  |  |
 | 
@@ -166,13 +197,17 @@ The [Solborn](Solborn.md) & [Void Glutton](Void_Glutton.md) [Memento](Mementos.m
 **Enhanced Requiem**  
 (★★★)
 
- | Zi'eer will ~briefly flash red and~ make a specific sound, moving his right hand lower and preparing an uppercut. After a small delay, he brings his arm upwards, before bringing his hand down. If this attack hits the Inheritor, they will take moderate damage and trigger a unique variant of **Prepared Equalizer**.
+ | Zi'eer will briefly flash red and make a specific sound, moving his right hand lower and preparing an uppercut. After a small delay, he brings his arm upwards, before bringing his hand down. If this attack hits the Inheritor, they will take moderate damage and trigger a unique variant of **Prepared Equalizer**.
 
 -   If the Inheritor isn't in front of Zi'eer when he brings his arm upwards, he will lunge towards them at high speeds, guaranteeing the attack's hitbox will connect.
     -   It is one of two attacks that cause Zi'eer to have a different animation while lunging towards the Inheritor if at a distance, unlike most other attacks which keep him in his idle pose while moving, meaning this attack is far more telegraphed than most others in his moveset.
         -   This behavior is shared with it's sister move, **Reeled Requiem**.
--   **Due to new telegraphs being implemented, alongside this boss not being maintained, this attack lacks any highlight, though the sound remains.**
--   This attack only occurs during his second phase.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
 
  |  |
 | 
@@ -184,8 +219,7 @@ The [Solborn](Solborn.md) & [Void Glutton](Void_Glutton.md) [Memento](Mementos.m
 
 -   Zi'eer is fully capable of going through walls with this attack.
     -   As a result, standing away from the walls of the arena is advised: Zi'eer may dash inside a wall, and do one or more attacks that become completely unreactable as a result of the wall hiding his animations.
-
--   This attack is the first and only instance of sliding being required to avoid an attack, as well as the first use of a yellow telegraph.
+-   This attack is the first and only instance of sliding being required to avoid an attack, as well a yellow telegraph.
 
  |  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Corvyn
-revid: 211042
+revid: 212659
 source: https://deepwoken.fandom.com/wiki/Corvyn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Justicars]
@@ -33,7 +33,7 @@ Corvyn is located inside of a stronghold on the leftside of [Alsin's Landing](<A
 
 ## Dialogue
 
-**Justicar:**
+**Base Dialogue:**
 
 <table>
 <tbody>
@@ -49,9 +49,7 @@ Corvyn is located inside of a stronghold on the leftside of [Alsin's Landing](<A
 </tbody>
 </table>
 
-**Unlockable Dialogue:**
-
-This dialogue is unlocked if the player is a [Voidwalker](Voidwalker.md).
+**Voidwalker:**
 
 <table>
 <tbody>

@@ -1,6 +1,6 @@
 ---
 title: Topol
-revid: 210306
+revid: 212660
 source: https://deepwoken.fandom.com/wiki/Topol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
@@ -31,7 +31,7 @@ Darbert is located in the dining hall at [Alsin's Landing](<Alsin's_Landing.md>)
 
 ## Dialogue
 
-**Justicar:**
+**Base Dialogue:**
 
 <table>
 <tbody>
@@ -47,9 +47,7 @@ Darbert is located in the dining hall at [Alsin's Landing](<Alsin's_Landing.md>)
 </tbody>
 </table>
 
-**Unlockable Dialogue:**
-
-This dialogue is unlocked if the player is a [Voidwalker](Voidwalker.md).
+**Voidwalker:**
 
 <table>
 <tbody>

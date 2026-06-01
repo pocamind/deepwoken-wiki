@@ -1,6 +1,6 @@
 ---
 title: Ritual Sacrifice
-revid: 212411
+revid: 212681
 source: https://deepwoken.fandom.com/wiki/Ritual_Sacrifice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Named Weapons, Legendary Weapons, Weapons with Talents]
@@ -13,8 +13,8 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | type | Spear |
 | damage type | Slash |
 | requirements | 35 MED |
-| damage | 19 |
-| scaling | MED: 5 |
+| damage | 25 |
+| scaling | MED: 7 |
 | posture damage | 5 |
 | range | 9 Lunge |
 | swing speed | 0.9x |

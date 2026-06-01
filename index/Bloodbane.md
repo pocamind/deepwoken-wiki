@@ -1,6 +1,6 @@
 ---
 title: Bloodbane
-revid: 212358
+revid: 212655
 source: https://deepwoken.fandom.com/wiki/Bloodbane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Named Weapons, Heavy Weapons, Weapons with Talents, Legendary Weapons]
@@ -13,14 +13,14 @@ categories: [Weapons, Greatswords, Named Weapons, Heavy Weapons, Weapons with Ta
 | type | Greatsword |
 | damage type | Slash |
 | requirements | 60 HVY, 30 STR |
-| damage | 20 |
-| scaling | HVY: 5 |
+| damage | 23 |
+| scaling | HVY: 7 |
 | posture damage | 7 |
 | range | 9 Sweep |
 | swing speed | 0.8x |
 | attack duration | 0.9s |
 | endlag | 0.1s |
-| talent | Blood Drinker - Recover health on hit. When landing a critical, deal 30 bleed damage over 5 seconds., Devastating Recovery - Enemies recover 50% less posture when parrying your Zweihander light attacks. |
+| talent | Blood Drinker - Recover health on hit. When landing a critical, deal 30 bleed damage over 5 seconds., Devastating Recovery - Enemies recover 30% less posture when parrying your Zweihander light attacks. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Soulwrought Greatsword |
@@ -56,7 +56,7 @@ On critical, apply a Damage over Time status effect that deals 8 damage per tick
 
 ### Devastating Recovery
 
-Enemies will recover 50% less posture when parrying your light attacks.
+Enemies will recover 30% less posture when parrying your light attacks.
 
 ## Critical
 

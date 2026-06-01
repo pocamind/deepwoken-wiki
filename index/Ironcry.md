@@ -1,6 +1,6 @@
 ---
 title: Ironcry
-revid: 210400
+revid: 212693
 source: https://deepwoken.fandom.com/wiki/Ironcry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Bows, Medium Weapons, Echoes]
@@ -44,7 +44,3 @@ The Ironcry is a MED weapon in the Bow category. It is obtained by spending 25 [
 ## Critical
 
 Ironcry uses the default Bow critical, pulling back the bow before firing a ranged shot. It has a scaled damage modifier of **1.25x** and a cooldown of **7 seconds**.
-
-## Gallery
-
-Icon in Main Menu Selection

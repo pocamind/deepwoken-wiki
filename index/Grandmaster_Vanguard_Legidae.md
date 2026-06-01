@@ -1,6 +1,6 @@
 ---
 title: Grandmaster Vanguard Legidae
-revid: 211165
+revid: 212666
 source: https://deepwoken.fandom.com/wiki/Grandmaster_Vanguard_Legidae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Individuals with He/him pronouns, In progress with reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -92,6 +92,8 @@ Grandmaster Vanguard Legidae is located in a stronghold on the western side of [
 **Elder:**
 
 **First Encounter:**
+
+If you have never talked to him before while being a Neophyte/Disciple, and haven't give him your name.
 
 <table>
 <tbody>

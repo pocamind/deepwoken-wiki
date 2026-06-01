@@ -1,6 +1,6 @@
 ---
 title: Elder Sasha
-revid: 210096
+revid: 212662
 source: https://deepwoken.fandom.com/wiki/Elder_Sasha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Justicars]
@@ -71,9 +71,7 @@ Elder Sasha is located on [Alsin's Landing](<Alsin's_Landing.md>), standing unde
 </tbody>
 </table>
 
-**Unlockable Dialogue:**
-
-This dialogue is unlocked if the player is a [Voidwalker](Voidwalker.md).
+**Voidwalker:**
 
 <table>
 <tbody>

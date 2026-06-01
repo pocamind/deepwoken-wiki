@@ -1,6 +1,6 @@
 ---
 title: "Alsin's Landing"
-revid: 211461
+revid: 212690
 source: https://deepwoken.fandom.com/wiki/Alsin's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Locations, Locations in the Etrean Luminant]
@@ -62,6 +62,7 @@ For some reason, the Innkeep will tell you 'get out of my inn!', at least when y
 -   [Kayla](Kayla.md)
 -   [Konga The Third](Konga_The_Third.md)
 -   [Kraphtalos](Kraphtalos.md)
+-   Lars
 -   Mars
 -   [Neophyte Jefferson](Neophyte_Jefferson.md)
 -   [Reva](Reva.md)

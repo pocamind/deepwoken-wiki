@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 211145
+revid: 212685
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Hundred Legions]
@@ -30,7 +30,7 @@ The Legion has several war heroes that are depicted by either their ornaments or
 
 The Hundred Legions consists of one hundred legions.
 
--   The [11th Legion](The_Hundred_Legions.md) consists of [Amara](Amara.md), [Atra](Atra.md), [Caitus](Caitus.md), [Gaius](Gaius.md), and [Lars](Lars.md).
+-   The [11th Legion](The_Hundred_Legions.md) consists of [Amara](Amara.md), [Atra](Atra.md), [Caitus](Caitus.md), [Gaius](Gaius.md), and Lars.
     -   The 11th Legion also has associated equipment pieces named after it: [11th Legion Plate](11th_Legion_Plate.md).
 -   The [49th Legion](The_Hundred_Legions.md) consists of [Polymarch Legion Soldiers](<Legion_Soldier_(The_Polymarch).md>) and [General Titus Juventius](General_Titus_Juventius.md), now known as [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
 

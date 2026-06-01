@@ -1,6 +1,6 @@
 ---
 title: Moonseye Pendant
-revid: 212497
+revid: 212675
 source: https://deepwoken.fandom.com/wiki/Moonseye_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Equipment, Torso, Necklaces]
@@ -24,6 +24,8 @@ notices:
 | pass down | Yes |
 | obtainment | Moon's Eyrie |
 | description | ... |
+
+_This page is about the [Pathfinder](Pathfinder.md) torso equipment. For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._
 
 ## Description
 

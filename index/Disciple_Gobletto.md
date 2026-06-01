@@ -1,6 +1,6 @@
 ---
 title: Disciple Gobletto
-revid: 210099
+revid: 212661
 source: https://deepwoken.fandom.com/wiki/Disciple_Gobletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Justicars]
@@ -71,9 +71,7 @@ Disciple Gobletto is located on [Alsin's Landing](<Alsin's_Landing.md>), standin
 </tbody>
 </table>
 
-**Unlockable Dialogue:**
-
-This dialogue is unlocked if the player is a [Voidwalker](Voidwalker.md).
+**Voidwalker:**
 
 <table>
 <tbody>

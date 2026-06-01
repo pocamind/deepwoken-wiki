@@ -1,6 +1,6 @@
 ---
 title: Esric
-revid: 210742
+revid: 212669
 source: https://deepwoken.fandom.com/wiki/Esric
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -46,9 +46,7 @@ Mars is located in the training grounds of [Alsin's Landing](<Alsin's_Landing.md
 </tbody>
 </table>
 
-**Unlockable Dialogue:**
-
-This dialogue is unlocked if the player is a [Voidwalker](Voidwalker.md).
+**Voidwalker:**
 
 <table>
 <tbody>

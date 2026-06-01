@@ -1,6 +1,6 @@
 ---
 title: Braun
-revid: 211708
+revid: 212657
 source: https://deepwoken.fandom.com/wiki/Braun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -70,9 +70,7 @@ Braun is located in a small workshop hall across from [Kraphtalos](Kraphtalos.md
 </tbody>
 </table>
 
-**Unlockable Dialogue:**
-
-This dialogue is unlocked if the player is a [Voidwalker](Voidwalker.md).
+**Voidwalker:**
 
 <table>
 <tbody>

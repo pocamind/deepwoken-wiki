@@ -1,6 +1,6 @@
 ---
 title: Warmonger
-revid: 212435
+revid: 212672
 source: https://deepwoken.fandom.com/wiki/Warmonger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Named Weapons, Heavy Weapons, Legendary Weapons, Weapons with Talents]
@@ -13,8 +13,8 @@ categories: [Weapons, Greathammers, Named Weapons, Heavy Weapons, Legendary Weap
 | type | Greathammer |
 | damage type | Blunt |
 | requirements | 60 HVY, 30 STR |
-| damage | 22 |
-| scaling | HVY: 7 |
+| damage | 27 |
+| scaling | HVY: 10 |
 | posture damage | 7 |
 | range | 9 Sweep |
 | swing speed | 0.8x |
