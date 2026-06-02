@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pauldrons
-revid: 209560
+revid: 212941
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Saramaed Hollow, Erisia, Maestro Evengarde Rest, The Doom of Caeranthil, Interluminary Parasol, Heart of Enmity, Deep Widow, Other sources:, Uncommon drop from Blacksteel Pirates and Blacksteel Pirate Captains |
+| obtainment | Chests from:, Saramaed Hollow, Erisia, Maestro Evengarde Rest, The Doom of Caeranthil, Interluminary Parasol, Heart of Enmity, Deep WidowDrops from:, Blacksteel Pirates and Blacksteel Pirate Captains |
 | description | ... |
 
 Blacksteel Set
@@ -33,8 +33,3 @@ Variants: [Helm](Blacksteel_Helm.md)
 ## Description
 
 Blacksteel Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category. They are commonly found in chests from [Erisia](Erisia.md), and can also be obtained as an uncommon drop from [Blacksteel Pirates](Blacksteel_Pirate.md) and [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md).
-
-## Trivia
-
--   The Blacksteel Pauldrons are part of the "Blacksteel" set; with the only other piece being the [Blacksteel Helm](Blacksteel_Helm.md).
--   This item can drop as a mob drop from [Blacksteel Pirates](Blacksteel_Pirate.md)

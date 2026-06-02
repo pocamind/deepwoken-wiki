@@ -1,6 +1,6 @@
 ---
 title: Worldpiercer Gauntlets
-revid: 212639
+revid: 212944
 source: https://deepwoken.fandom.com/wiki/Worldpiercer_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Fists, Light Weapons, The Hundred Legions]
@@ -95,7 +95,6 @@ This attack has a **5 second cooldown**.
 ## Trivia
 
 -   Before the 08/04/2025 update, the Worldpiercer Gauntlets were undroppable and unbankable, but they are now bankable and droppable.
--   Despite being unique rarity, these are enchantable, similar to the [Gaunts of Enmity](Gaunts_of_Enmity.md).
 -   These are used by [Titus](Titus_Fulminus_Destellus.md). The engravings on his gauntlets do not glow unless he is in his Sovereign State.
 -   During the 06/09/2025 update, the gauntlets were accidentally published into the game, likely being a remnant from testing, with the following properties:
     -   Being obtainable from a variety of unintended sources, such as [Chime of Conflict](Chime_of_Conflict.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), [The Depths](The_Depths.md), [Voidsea](Voidsea.md). or [Voidwalker](Voidwalker.md) chests.

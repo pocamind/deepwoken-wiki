@@ -1,6 +1,6 @@
 ---
 title: Skeleton Key
-revid: 211326
+revid: 212939
 source: https://deepwoken.fandom.com/wiki/Skeleton_Key
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -57,6 +57,7 @@ When obtained, Skeleton Key will spend its points on the following stats:
 
 -   A skeleton key is a key that can unlock any lock. This has nothing to do with the Resonance's actual function of making largely ineffective walls.
 -   Based on the dev spec ability under the same name used by Zartania, rebalanced and reworked for public use.
+-   The name, “Skeleton Key” is a reference to the Mario Party Superstars item that allows the user to freely travel across the map, which was the original effect of Skeleton Key. However the effect has been changed and not the name.
     -   Purportedly, when released, if a person obtained it in a new server/instance and joined an old server, the bell would function like said specs.
 -   A corrupted Skeleton Key does not guarantee five walls, as the number is still based on the resonance point usage.
 -   Skeleton Key walls when activated, will push in the direction you were looking when you first placed them, this means that if you were to place a Skeleton Key wall then go on the other side of it and then activate it, it will push towards you.

@@ -1,6 +1,6 @@
 ---
 title: Crimson Terrapod Shell
-revid: 210383
+revid: 212926
 source: https://deepwoken.fandom.com/wiki/Crimson_Terrapod_Shell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -23,7 +23,7 @@ categories: [Items, Drops, Ingredients]
 
 ## Description
 
-The **Crimson Terrapod Shell** is a rare drop from the [Crimson Terrapod](Terrapod.md). It cannot be dropped alongside every other rare monster part.
+The **Crimson Terrapod Shell** is a rare drop from the [Crimson Terrapod](Terrapod.md).
 
 ## Crafting
 

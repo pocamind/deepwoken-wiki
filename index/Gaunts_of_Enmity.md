@@ -1,6 +1,6 @@
 ---
 title: Gaunts of Enmity
-revid: 208948
+revid: 212943
 source: https://deepwoken.fandom.com/wiki/Gaunts_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Fists, Light Weapons]
@@ -94,5 +94,4 @@ This attack has a **5 second cooldown**.
 
 ## Trivia
 
--   The Gaunts of Enmity **are** enchantable despite their unique rarity.
 -   A sidegrade to the [Broodalloy Cestus](Coral_Cestus.md), having extremely similar stats, but exchanging Penetration for Chip Damage, while also keeping your style's Critical Attack.

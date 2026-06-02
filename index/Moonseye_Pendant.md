@@ -1,9 +1,9 @@
 ---
 title: Moonseye Pendant
-revid: 212803
+revid: 212929
 source: https://deepwoken.fandom.com/wiki/Moonseye_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Pathfinder Exclusive, Equipment, Torso, Necklaces]
+categories: [Stub pages without reason, StubPages, Equipment, Torso, Necklaces]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -24,10 +24,6 @@ notices:
 | pass down | Yes |
 | obtainment | The Depths |
 | description | A simple silver pendant in the likeness of the Moonseye. Wearing such a pendant is a sign of mourning in many cultures, a holdover from the Old World. |
-
-**[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
 
 ## Description
 

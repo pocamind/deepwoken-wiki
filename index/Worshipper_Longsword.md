@@ -1,6 +1,6 @@
 ---
 title: Worshipper Longsword
-revid: 212441
+revid: 212934
 source: https://deepwoken.fandom.com/wiki/Worshipper_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Talents, The Covenant of Flame]
@@ -52,3 +52,7 @@ This effect has no cooldown, allowing your [Master's Flourish](Attunement-less.m
 Worshipper Longsword uses the default Sword critical, a piercing stab. It has a scaled damage multiplier of **1.2x** and a cooldown of **3 seconds**. It deals **3x** the weapon's posture stat as posture damage.
 
 This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+
+## Trivia
+
+-   Using this weapon alongside the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) and [Worshipper's Shield](<Worshipper's_Shield.md>) will activate the Flame Worshipper Armor's [One With Flame](Talents.md#one-with-flame) Talent, providing several bonuses if the user is currently on [fire](Status_Effects.md#burn). While active, you'll gain 25% damage reduction, your [Medium Weapon Mantras](Attunement-less.md#medium-weapon-mantras) will turn orange, and your Mantras will apply [Burn](Status_Effects.md#burn) on hit.

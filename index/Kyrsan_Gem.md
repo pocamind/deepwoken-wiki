@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Gem
-revid: 205683
+revid: 212938
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Deep Gems, Mantras, Treasures]
@@ -40,7 +40,6 @@ This slows by 20%, with each subsequent stack slowing by an additional 4%.
 ### Notes
 
 -   Landing different Mantras **will not** increase the slow. Stack count can only be increased by landing the Mantra that applied the initial stack.
--   This Gem's cooldown is currently bugged, having a no cooldown instead of the 1s CD it's supposed to have.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 212925
+revid: 212948
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Voiced Characters]
@@ -106,6 +106,7 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 -   Parrying any of these hits after two parries of the Ferryman's attacks in quick succession, including via. previous failed instances of this attack, will grant an attack opportunity. Otherwise, gives no attack opportunity.
 
  |
+| **Attacks unlocked on Phase 2** |
 | 
 
 **Grand Volley**  
@@ -113,22 +114,13 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 
  | The most dangerous attack in the Ferryman's arsenal, he fires four, much slower, purple [Grand Javelins](Thundercall.md#grand-javelin) at any player within the arena.
 
--   He only uses this attack in phase two, replacing his Lightning Clones attack.
+-   Replaces his Lightning Clones attack.
 -   Each javelin hit does an estimated 150 damage, but is affected by Mantra, and Thunder resistance.
 -   Can be dodged by simply running anywhere but directly at The Ferryman.
 -   Has insanely high posture damage, almost always resulting in an instant guard-break.
 -   In a similar manner to his Lightning Assault attack, the Ferryman will give a (although much briefer) attack opportunity should any of these javelins be parried following _four_ successful parries—this requires this attack to be chained more than once, an intentionally failed Lightning Assault for one to two recent parries, or multiple players parrying at once. Otherwise, gives no attack opportunity.
 -   Similarly to Lightning Clones, Ranged Mantras will not trigger his Displacement, allowing for an attack opportunity.
 -   Can be ragdoll-cancelled.
-
- |
-| 
-
-**Vent**
-
- | An explosion of blue ether around the user that pushes opponents away.
-
--   He always vents when an attack would daze him.
 
  |
 

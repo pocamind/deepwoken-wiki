@@ -1,6 +1,6 @@
 ---
 title: "Worshipper's Shield"
-revid: 194903
+revid: 212937
 source: https://deepwoken.fandom.com/wiki/Worshipper's_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Offhand, The Covenant of Flame]
@@ -31,5 +31,5 @@ The Worshipper's Shield can be obtained by buying it from Lance's Food in [Etris
 
 ## Trivia
 
--   The icon on the shield is also found on the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) Outfit
--   The shield is meant to be paired with and probably was made by the same Flamepriest who made the [Worshipper Longsword](Worshipper_Longsword.md), albeit the sword being subpar.
+-   Using this weapon alongside the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) and [Worshipper Longsword](Worshipper_Longsword.md) will activate the Flame Worshipper Armor's [One With Flame](Talents.md#one-with-flame) Talent, providing several bonuses if the user is currently on [fire](Status_Effects.md#burn). While active, you'll gain 25% damage reduction, your [Medium Weapon Mantras](Attunement-less.md#medium-weapon-mantras) will turn orange, and your Mantras will apply [Burn](Status_Effects.md#burn) on hit.
+-   The shield is meant to be paired with the [Worshipper Longsword](Worshipper_Longsword.md), and both were probably made by the same Flamepriest.

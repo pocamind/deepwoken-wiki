@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 212638
+revid: 212945
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions, Humanoids with Unobtainable Outfits]
@@ -203,6 +203,7 @@ Block
  | 
 
  |
+| **Attacks unlocked on Phase 2** |
 | 
 
 **Blighted Sparks**  
@@ -210,7 +211,6 @@ Block
 
  | Titus summons three orbs of white lightning that lock onto the nearest opponent. If they are struck by this, they will be held in the air for a short time.
 
--   Titus will only use this move in his second phase.
 -   This move is easy to avoid if you run back or dash back.
 
 _Uses Telegraph_
@@ -229,7 +229,6 @@ Avoid
 
  | Titus channels his bell into two high-pressure beams of wind in a 360 degree motion. Those who are hit by the beams will be ragdolled and flung at a considerable distance.
 
--   Titus will only use this move in his second phase.
 -   This move can cause debris to fall.
 -   These beams are combined with the [Wind-Up](Wind-Up.md) blasts per hit, making this move **very deadly**.
 -   While he is winding up, it is best to start running or getting to higher levels to avoid the beams.
@@ -247,7 +246,7 @@ Avoid
 
 ### Passives
 
--   **Enough with Restraint** - Upon reaching 50% of his health, Titus will initiate a cutscene, healing 10% in the process and advancing to the next phase. For a brief moment, the Detainment Core will shake, causing debris too collapse from the ceiling. He will also be in Sovereign state for the rest of the fight.
+-   **Enough with Restraint** - Upon reaching 50% of his health, Titus will initiate a cutscene, healing 10% in the process and advancing to the next phase. For a brief moment, the Detainment Core will shake, causing debris to collapse from the ceiling. He will also be in Sovereign state for the rest of the fight.
 -   **Weakling Beater** - Titus will deal extra damage to NPCs in the Detainment Core.
 -   **Commander's Respite** - Titus will begin regenerating health when not actively engaged in combat.
 -   **Thorn Guard** - Titus is immune to the effects of [Providence's Thorns](<Providence's_Thorns.md>).
