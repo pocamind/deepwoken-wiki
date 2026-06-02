@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 212316
+revid: 213003
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -113,7 +113,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
         -   Adds a loud whooshing sound effect right before you do the move.
 
 -   **Ankle Cutter** - You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.
-    -   Deals 37.5/52.5 damage with innate [Bleed](Status_Effects.md#bleed), adding an additional 5.5/7.88 damage.
+    -   Deals **37.5/52.5** damage with innate [Bleed](Status_Effects.md#bleed).
     -   Has a fixed attack speed across all weapon types.
     -   Can be used while sliding down slopes at no cost to your speed.
     -   Flow State shortens the windup and increases the damage.
@@ -124,9 +124,9 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
     -   Can be feinted by pressing M2 during its windup.
     -   Movesets differ depending on the weapon type. Cooldowns are per weapon type; using Light and switching to Heavy will allow you to immediately use the Heavy variant.
     -   All variants are capable of auto-gripping with Flow State active.
-    -   Light - deals 37.5/48.75 Oath damage
-    -   Medium - deals 30/52.5 Oath damage
-    -   Heavy - deals 45/52.5 Oath damage
+    -   Light - deals **7.5** Oath damage with 40 Light Weapon scaling, dealing **37.5** damage at 100 Light Weapon. Flow State adds **+2.5** damage.
+    -   Medium - deals **6** Oath damage with 40 Medium Weapon scaling, dealing **30** damage at 100 Medium Weapon. Flow State adds **+22.5** damage.
+    -   Heavy - deals **9** Oath damage with 40 Heavy Weapon scaling, dealing **45** damage at 100 Heavy Weapon. Flow State adds **+7.5** damage.
 
 -   **Relentless Hunt** - M1 while doing an Aerial Attack to initiate a special gap closer attack.
     -   20s CD per weapon type, 6s CD if feinted.
@@ -134,9 +134,9 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
     -   Mostly used as a gap closer.
     -   Movesets differ depending on the weapon type.
     -   Has lower windup with Flow State active. The delay can trick opponents.
-    -   Light - 18 Oath damage, hits twice in Flow State, moving you back to the cast position
-    -   Medium - 36/54 Oath damage (18/27 + 18/27)
-    -   Heavy - 30/37.5 Oath damage
+    -   Light - **3.6** Oath damage with 40 Light Weapon scaling, dealing **18** damage at 100 Light Weapon. This ability hits twice in Flow State, moving you back to the cast position. The second hit from Flow State deals the same amount of damage as the initial hit.
+    -   Medium - **3.6** Oath damage per hit (2), with 40 Medium Weapon scaling, dealing **18** damage per hit (2) at 100 Medium Weapon. Flow State adds **9** damage to each hit (2).
+    -   Heavy - **6** Oath damage with 40 Heavy Weapon scaling, dealing **30** damage at 100 Heavy Weapon. Flow State adds **+7.5** damage.
 
 -   **Rising Star** - Press CTRL + M2 to activate a special uppercut attack.
     -   12s CD per weapon type, 4s CD if feinted. This cooldown is per weapon type; using Light then switching to Heavy will allow you to immediately use the Heavy Variant.
@@ -144,10 +144,10 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
     -   Changing your feint key will change Rising Star's \[M2\] activation key, however Rising Star is always bound to CTRL, even if your Crouch isn't.
     -   Procs all "on Uppercut" Talents.
     -   Movesets differ depending on the weapon type.
-    -   Light - 60/66 Oath damage (30/30 + 30/36)
-    -   Medium - 45/60 Oath damage
-    -   Heavy - 60 Oath damage, lower windup in Flow State
-        -   All Rising Star variants(aside heavy) give user brief momentum(view in gifs below).
+    -   Light - **6** Oath damage per hit (2), with 40 Light Weapon scaling, dealing **30** damage per hit at 100 Light Weapon. Flow State adds an additional damage instance that deals **1.2** damage with 40 Light Weapon scaling, adding **+6** damage at 100 Light Weapon.
+    -   Medium - **9** Oath damage with 40 Medium Weapon scaling, dealing **45** damage at 100 Medium Weapon. Flow State adds **+15** damage.
+    -   Heavy - **12** Oath damage with 40 Heavy Weapon scaling, dealing **60** damage at 100 Heavy Weapon. This ability has a lower windup in Flow State; 0.25s -> 0.2s.
+    -   Light and Medium Rising Star variants give user brief momentum (view in gifs below).
 
 -   **Vengeful Pursuit** - Your running M1's that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you
     -   Damage changes based on weapon type.

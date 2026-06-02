@@ -1,6 +1,6 @@
 ---
 title: Karita Swap
-revid: 208804
+revid: 212975
 source: https://deepwoken.fandom.com/wiki/Karita_Swap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Justicar#Karita Swap](Justicar%253Fredirect=no.md#karita-swap)
+-   [Justicar (Origin)#Karita Swap](<Justicar_(Origin).md#karita-swap>)

@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 211179
+revid: 213012
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Game Modes, Paths, Character]
@@ -53,9 +53,10 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
     
     -   You unlock a set of Talents and Mantras to purchase at Power 1, 5, 10, 15 and sometime 20.
 -   You will be level locked at Powers 5, 10, and 15, but defeating the following bosses will allow you to surpass these limits;
-    -   Defeating [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>) will allow you to progress past Power 5.
-    -   Defeating [Dravik, The Rat King](Dravik,_The_Rat_King.md) will allow you to progress past Power 10.
-    -   Defeating [True Heart of Enmity](True_Heart_of_Enmity.md) will allow you to progress past Power 15.
+    -   Defeating [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>) will allow you to progress 5 levels past your current limit.
+    -   Defeating [Dravik, The Rat King](Dravik,_The_Rat_King.md) will allow you to progress 5 levels past your current limit.
+    -   Defeating [True Heart of Enmity](True_Heart_of_Enmity.md) will allow you to progress 5 levels past your current limit.
+-   Defeating a certain boss does not set your limit to that power, you will only get 5 more levels per boss.
 -   Uniquely to these bosses, dying will instead revive you, gives you 50% Wither and heal the boss to full HP, along with doubling your damage.
     -   This effect will only trigger once per fight. Failing and returning to the boss will reenable this effect.
 -   Additionally, defeating the above bosses may grant you additional Talents or Mantras, depending on your Memento.

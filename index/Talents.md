@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 212901
+revid: 213013
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -527,7 +527,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   The second hit does not count as a weapon hit, meaning it ignores your weapon's Chip stat, it cannot proc [enchants](Enchantments.md), and it cannot proc any "on flourish" Talents.
     -   The second hit does not proc on non-humanoid targets.
     -   The following weapons can proc this effect: [Adretian Axe](Adretian_Axe.md), [Big Brother](Big_Brother.md), [Cavalry Saber](Cavalry_Saber.md), [Central Dirk](Central_Dirk.md), [Duskguard Axe](Duskguard_Axe.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Rite of Authority](Rite_of_Authority.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md). Additionally, the Alloyed variants of all of these weapons will also proc it.
-    -   Despite being found in the armory, the [Battleaxe](Battleaxe.md), [Stiletto](Stiletto.md), [Sword](<Sword_(weapon).md>), and [Worshipper Longsword](Worshipper_Longsword.md) do not proc this effect.
+    -   Despite being found in the armory, the [Battleaxe](Battleaxe.md), [Stiletto](Stiletto.md), and [Sword](<Sword_(weapon).md>) do not proc this effect.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
 
 -   **Steel Tread** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Gain a bit of knockback resistance as well as damage resistance against attacks that ragdoll you.
@@ -1719,7 +1719,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 -   _Execution_ \[Rare Talent, Light Weapon, Medium Weapon // Heavy Weapon\] - Your offhand gun attacks now count as flourishes and do a flat 20 extra damage when used with no bullets.
     -   Works with dual guns, adding 5 flat damage to every second shot.
-    -   Does not work with Hardened Enforcer Boots.
+    -   Does not work with [Hardened Enforcer Boots](Hardened_Enforcer_Boots.md) and Dazing Finisher.
     -   Prerequisites: 90 Light Weapon, 90 Medium Weapon // 90 Heavy Weapon, Using a Pistol
     -   Mutual Exclusive: Hip Shooter
 
@@ -4300,7 +4300,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Belief: [Worshipper Longsword](Worshipper_Longsword.md) - Your [medium weapon mantras](Attunement-less.md#medium-weapon-mantras) \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now deal extra damage based on how much Willpower you have.
     -   All of your Medium Weapon Mantras gain a second damage instance that scales directly on your Willpower investment. This deals physical damage.
-    -   This deals 0.15 damage per 1 Willpower investment. At maximum this will deal an additional 15 damage at 100 Willpower, or up to 15.45 if you have 103 Willpower.
+    -   This deals 0.15 damage per 1 [Willpower](Attributes.md#wll) investment. At maximum this will deal an additional 15 damage at 100 Willpower.
     -   This effect has no cooldown, allowing your [Master's Flourish](Attunement-less.md#masters-flourish) and [Twincleave](Attunement-less.md#twincleave) to benefit from this effect twice per cast.
     -   This secondary damage instance cannot receive damage modifiers.
 
@@ -4470,7 +4470,9 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Subzero: [Winter Rifle](Winter_Rifle.md) - Landing a running attack inflicts your opponent with a deep freeze. Additional light hits after the opponent thaws out will briefly slow them as well.
 
 -   Sweeping Edge: [Vigil Longsword](Vigil_Longsword.md) & [Alloyed Vigil Longsword](Vigil_Longsword.md) - Your [Master's Flourish](Attunement-less.md#masters-flourish) is larger and can now proc flourish talents.
-    -   Your Master's Flourish now counts as a flourish for Talent effects.
+    -   This cannot proc Dazing Finisher.
+    -   Notably, [Finisher's Ring](<Finisher's_Ring.md>) works with this, granting your Master's Flourish 40% more PEN.
+    -   Your Master's Flourish size is increased. This is the equivalent of +2 [Cloudstones](Mantra_Modifiers.md#regular-modifiers).
 
 -   Swift Strike: [Big Brother](Big_Brother.md) - Land a light attack behind your opponent to enhance your next critical, allowing you to teleport behind your opponent and strike them. This enhanced critical also procs assassination talents.
     -   On proc, you gain the Swift Strike status effect indefinitely. This effect will be consumed when you use your critical.
@@ -4724,7 +4726,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   [Visionshaper](Oath%253A_Visionshaper.md)'s Cheap Trick visual effect plays on proc.
     -   This can proc if an attack is blocked, dodged, or parried. When this happens, the visual effect will play, but nothing will happen.
 
--   Justicar's Gift: [Warder's Attire](<Warder's_Attire.md>) - Your [Justicar](<Justicar_(Origin).md>) support mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now heal your allies for 10 health instead of 5. Increase the duration of your [Karita Aid](<Justicar_(Origin).md#alsins-aid>) to 15 seconds.
+-   Justicar's Gift: [Warder's Attire](<Warder's_Attire.md>) - Your [Justicar](<Justicar_(Origin).md>) support mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now heal your allies for 10 health instead of 5. Increase the duration of your [Alsin's Aid](<Justicar_(Origin).md#alsins-aid>) to 15 seconds.
 
 -   Knack: [Eager Tradesman](Eager_Tradesman.md) - Trees yield more Wood when felled. Your Repair speed is increased.
     -   Increases the boat repair speed.
@@ -4798,7 +4800,9 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 
 -   One With Flame: [Flame Worshipper Armor](Flame_Worshipper_Armor.md) - When equipping a [Worshipper Longsword](Worshipper_Longsword.md) and [Worshipper Shield](<Worshipper's_Shield.md>), you take 25% less damage while on fire and every mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] you use sets enemies on fire.
     -   Gain 25% damage reduction while [burning](Status_Effects.md#burn), and all of your [Mantras](Mantras.md) apply [burn](Status_Effects.md#burn) on hit, if you are using the [Worshipper Longsword](Worshipper_Longsword.md) and [Worshipper's Shield](<Worshipper's_Shield.md>) alongside this Outfit.
-    -   Turns your weapon Mantras orange while active.
+    -   Turns your [Medium Weapon Mantras](Attunement-less.md#medium-weapon-mantras) orange while active. This does not change color based on your Flamecharm path.
+    -   Unlike Immolation, this can create Eruptions, and this effect is not limited to Physical damage Mantras and attacks with the Slash damage fx, allowing for much more variety.
+        -   As mentioned above, since Immolation _always_ applies [burn](Status_Effects.md#burn), and this doesnt, you can create an Eruption and apply burn simultaneously on eligible Mantras.
 
 -   Osseous Surge: [Marrowmade Boots](Marrowmade_Boots.md) - Flourishing an enemy enhances your boots for 10 seconds, allowing you to spawn a wave of bones in the way you're facing. Right click to activate this.
     -   Pressing M2 within 10 seconds of landing a flourish causes you to stomp on the ground and send a wave of bones in the direction you're facing.

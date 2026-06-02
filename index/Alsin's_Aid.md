@@ -1,11 +1,11 @@
 ---
-title: Karita Aid
-revid: 212980
-source: https://deepwoken.fandom.com/wiki/Karita_Aid
+title: "Alsin's Aid"
+revid: 212996
+source: https://deepwoken.fandom.com/wiki/Alsin's_Aid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
-# Karita Aid
+# Alsin's Aid
 
 Redirect to:
 

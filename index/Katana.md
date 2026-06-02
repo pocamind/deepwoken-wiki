@@ -1,9 +1,9 @@
 ---
 title: Katana
-revid: 211315
+revid: 213000
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Alloyable Weapons, Medium Weapons]
+categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Alloyable Weapons, Medium Weapons, Weapons of Etrea]
 ---
 
 # Katana

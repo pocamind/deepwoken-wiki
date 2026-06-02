@@ -1,6 +1,6 @@
 ---
 title: "Justicar's Aid"
-revid: 208652
+revid: 212974
 source: https://deepwoken.fandom.com/wiki/Justicar's_Aid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Justicar#Justicar's Aid](Justicar%253Fredirect=no.md#justicars-aid)
+-   [Justicar (Origin)#Justicar's Aid](<Justicar_(Origin).md#justicars-aid>)
