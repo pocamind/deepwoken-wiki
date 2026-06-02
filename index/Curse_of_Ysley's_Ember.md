@@ -1,6 +1,6 @@
 ---
 title: "Curse of Ysley's Ember"
-revid: 208627
+revid: 212911
 source: https://deepwoken.fandom.com/wiki/Curse_of_Ysley's_Ember
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -42,4 +42,4 @@ Unlike all other sources of Temporary Health, the Temporary Health given from th
 
 ## Trivia
 
--   This Enchantment was formerly called "Curse of Rhaemen's Ember"
+-   This Enchantment was formerly called "Curse of Rhaemen's Ember".

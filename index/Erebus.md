@@ -1,6 +1,6 @@
 ---
 title: Erebus
-revid: 210166
+revid: 212898
 source: https://deepwoken.fandom.com/wiki/Erebus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -32,4 +32,4 @@ Erebus procs on critical attack, applying a 1 minute cooldown to one of your opp
 ## Trivia
 
 -   **Erebus** was once only obtainable by winning certain community events held by Agamatsu, but was later made publicly obtainable in the Operation: Deep Healing update.
--   During the [April 1st, 2026 update](Deepwoken_OG.md), the Erebus Enchant Stone was sold for 1,000 in [Traan Zakshun's](Traan_Zakshun.md#bankrupt-extravaganza) Bankrupt Extravaganza. Because the [Crown](Crowns.md) cap is 999, this item could not be purchased.
+-   During the [Deepwoken OG](Version_History/2026.md#april-1st-2026) April Fools update, the Erebus Enchant Stone was sold for 1,000 in [Traan Zakshun's](Traan_Zakshun.md#bankrupt-extravaganza) Bankrupt Extravaganza. Because the [Crown](Crowns.md) cap is 999, this item could not be purchased.

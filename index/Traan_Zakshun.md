@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 212600
+revid: 212817
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -398,7 +398,7 @@ Sold Items
     <li><b>For 2 </b>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Forge_Needle.md">Forge Needle</a>, <a href="Glumfig.md">Glumfig</a>, <a href="Goodie_Bag.md">Goodie Bag</a>, <a href="Broken_Gatling_Gun.md">Broken Gatling Gun</a></li>
     <li><b>For 3 </b>: <a href="Smith's_Alloy.md">Smith's Alloy</a></li>
     <li><b>For 4 </b>: <a href="Moonseye_Tome.md">Moonseye Tome</a></li>
-    <li><b>For 5 </b>: <a href="Bluster.md">Bluster</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Gilded_Needle.md">Gilded Needle</a>, <a href="Stone.md">Stone</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Vampirism.md">Vampirism</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Shiva's_Codex.md">Shiva's Codex</a></li>
+    <li><b>For 5 </b>: <a href="Bluster.md">Bluster</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Gilded_Needle.md">Gilded Needle</a>, <a href="Stone.md">Stone</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Vampirism.md">Vampirism</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Shiva's_Codex.md">Shiva's Codex</a>, <a href="Trickster_Dust.md">Trickster's Dust</a></li>
     <li><b>For 7 </b>: <a href="Sinner's_Ash.md">Sinner's Ash</a></li>
     <li><b>For 8 </b>: <a href="Curse_of_Ysley's_Ember.md">Curse of Ysley's Ember</a> <a href="Enchant_Stone.md">Enchant Stone</a></li>
     <li><b>For 15 </b>: <a href="Astral.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a></li>
@@ -428,7 +428,7 @@ Sold Items
   </ul></li>
     <li><b>For 20 </b>: <a href="Dark_Pearls.md">Dark Pearls</a></li>
     <li><b>For 25 </b>: <a href="Simmerbloom_Diadem.md">Simmerbloom Diadem</a></li>
-    <li><b>For 250 </b>: <a href="Whistling_Periapt.md">Whistling Periapt</a></li>
+    <li><b>For 200 </b>: <a href="Whistling_Periapt.md">Whistling Periapt</a></li>
   </ul></td>
 </tr>
 </tbody>

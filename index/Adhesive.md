@@ -1,6 +1,6 @@
 ---
 title: Adhesive
-revid: 206349
+revid: 212913
 source: https://deepwoken.fandom.com/wiki/Adhesive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -14,7 +14,7 @@ categories: [Enchantments, Equipment Enchantments]
 | droppable | No |
 | pass down | No |
 | desc | Pulls your attacker towards you. |
-| obtainment | Finding an Adhesive enchanted item in a chestAdhesive Enchant Grease:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Grease), Exchanging 5 to Laplace (grants a random non-exclusive Enchant Grease), The Diluvian Mechanism, War Mode, Galewax Room in the Second Layer, Crafting : |
+| obtainment | Finding an Adhesive enchanted item in a chestAdhesive Enchant Grease:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Grease), Exchanging 5 to Laplace (grants a random non-exclusive Enchant Grease), The Diluvian Mechanism, War Mode, Galewax Room in the Second Layer, Crafting :, Any Enchant Grease, Blue Gem, Sap |
 
 ## Description
 

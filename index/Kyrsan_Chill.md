@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Chill
-revid: 208365
+revid: 212854
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Chill
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]

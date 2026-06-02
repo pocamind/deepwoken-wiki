@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 212777
+revid: 212901
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -526,9 +526,8 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   The second hit will only happen if the first one lands. This means it does not follow through on block.
     -   The second hit does not count as a weapon hit, meaning it ignores your weapon's Chip stat, it cannot proc [enchants](Enchantments.md), and it cannot proc any "on flourish" Talents.
     -   The second hit does not proc on non-humanoid targets.
-    -   These weapons are: [Central Dirk](Central_Dirk.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
-    -   The Alloyed variants of all of the above weapons proc this effect as well.
-    -   Despite being found in the armory, the [Adretian Axe](Adretian_Axe.md), [Battleaxe](Battleaxe.md), [Cavalry Saber](Cavalry_Saber.md), [Stiletto](Stiletto.md), [Sword](<Sword_(weapon).md>), and [Worshipper Longsword](Worshipper_Longsword.md) do not proc this effect.
+    -   The following weapons can proc this effect: [Adretian Axe](Adretian_Axe.md), [Big Brother](Big_Brother.md), [Cavalry Saber](Cavalry_Saber.md), [Central Dirk](Central_Dirk.md), [Duskguard Axe](Duskguard_Axe.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Rite of Authority](Rite_of_Authority.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md). Additionally, the Alloyed variants of all of these weapons will also proc it.
+    -   Despite being found in the armory, the [Battleaxe](Battleaxe.md), [Stiletto](Stiletto.md), [Sword](<Sword_(weapon).md>), and [Worshipper Longsword](Worshipper_Longsword.md) do not proc this effect.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin
 
 -   **Steel Tread** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Gain a bit of knockback resistance as well as damage resistance against attacks that ragdoll you.
@@ -4143,6 +4142,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Bleed is not accounted for in the damage modifier cap and bypasses armor.
     -   Speed Demon's bleed deals 2.5% of your weapon's damage every 0.3s, three times. This totals to +7.5% damage over a 0.9 second period.
     -   Works with M1s and criticals.
+    -   Does nothing if your weapon already has bleed
     -   Prerequisite: 25 Agility
 
 -   Spinning Swordsman \[Common Talent, Agility\] - Running attacks do +15% extra damage when you have a speed boost. (+1 Passive Agility)
@@ -4305,8 +4305,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   This secondary damage instance cannot receive damage modifiers.
 
 -   Blade Scholar: [Markor's Inheritor](<Markor's_Inheritor.md>) & [Alloyed Inheritor](<Markor's_Inheritor.md>) - Landing your fist critical attack switches your stance to that fist style. Retain the same swing speed and damage your Markor's Inheritor had. You gain more swingspeed the more Intelligence you have.
-    -   Landing your critical attack changes your weapon animations to that of your current fist style.
-    -   While this effect is active, your weapon gains increased swing speed, scaling on your Intelligence attribute.
+    -   Landing your critical attack changes your weapon animations to that of your current fist style for 15 seconds.
+    -   While this effect is active, your weapon gains increased swing speed, scaling on your Intelligence attribute. Additionally, you benefit from Fist Talents, including the PvE weapon damage buff you gain from having them.
 
 -   Blitz: [Forgotten Gladius](Forgotten_Gladius.md) & [Kindred Edict](Kindred_Edict.md) - Increase how quick you release your [Prominence Draw](Attunement-less.md#prominence-draw).
     -   Decreases Prominence Draw's windup by 0.1s (from 0.55s to 0.45s).

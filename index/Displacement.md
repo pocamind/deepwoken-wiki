@@ -1,6 +1,6 @@
 ---
 title: Displacement
-revid: 212185
+revid: 212887
 source: https://deepwoken.fandom.com/wiki/Displacement
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -14,7 +14,7 @@ categories: [Enchantments, Equipment Enchantments]
 | droppable | No |
 | pass down | No |
 | desc | Incoming hits may proc Displacement, granting a speed boost and clearing all stuns present. |
-| obtainment | Finding a Displacement enchanted item in a chestDisplacement Enchant Grease:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Grease), Exchanging 5 to Laplace (grants a random non-exclusive Enchant Grease), The Diluvian Mechanism, War Mode, Galewax Room in the Second Layer, Crafting : |
+| obtainment | Finding a Displacement enchanted item in a chestDisplacement Enchant Grease:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Grease), Exchanging 5 to Laplace (grants a random non-exclusive Enchant Grease), The Diluvian Mechanism, War Mode, Galewax Room in the Second Layer, Crafting :, Any Enchant Grease, Blast Spark, Wayward Gem |
 
 ## Description
 

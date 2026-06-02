@@ -1,6 +1,6 @@
 ---
 title: "Adar, Master of Metal"
-revid: 211536
+revid: 212810
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, The Ignition Union, NPCs located in the Eastern Luminant, Ignition Union Enemies]
@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 Adar is an [Etrean](Etrean.md) NPC who acts as both progression for the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) and the [Ironsing](Ironsing.md) trainer.
 
-In order to obtain Ironsing, you must bring the 6 main [Ores](Ores.md) to Adar (Iron, Gold, Erisore, Irithine, Astruline, and Umbrite). You must give them all to him at once. You can only do this when you have talked to [Rudral](Rudral.md) and shown him a [Pluripotent Alloy](Pluripotent_Alloy.md) or if you have obtained Ironsing before on a previous Slot.
+In order to obtain Ironsing, you must bring the 6 main [Ores](Ores.md) to Adar (Iron, Gold, Erisore, Irithine, Astruline, and Umbrite). You must give them all to him at once. You can only do this when you have talked to [the Miner's Landing blacksmith](Rudral.md) and shown him a [Pluripotent Alloy](Pluripotent_Alloy.md) or if you have obtained Ironsing before on a previous Slot.
 
 ## Location
 
@@ -166,15 +166,15 @@ Adar's arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md) alo
 -   _Perfect Flash_ - Having over 95% health causes Adar's mantras to do +25% damage. This damage bonus will scale down to 10% if his enemies are far away.
 -   _Gilded Path: Scrapsinger_ - Adar's Ironsing mantras now take a gold and iron color, and when flourishing an enemy, consumes any rods the enemy had and siphons their armor into Adar per rod.
 -   _Refine and Reuse_ - Whenever Adar consumes rods with Scrapsinger, the PEN incoming against him is reduced by 5% per rod for 14 seconds.
--   _Artisan's Blade_ - If Adar activates Scrapsinger, a metal blade is forged behind him every 2 rods he consumes. The metal blades will fire at the target if Adar lands an ironsing mantra.
+-   _Artisan's Blade_ - If Adar activates Scrapsinger, a metal blade is forged behind him every 2 rods he consumes. The metal blades will fire at the target if Adar lands an Ironsing mantra.
 -   _Songs Unforged_ - Adar's Darksteel Greatsword critical activates Scrapsinger.
 -   _Masterwork_ - Adar's successful hits from Artisan's Blades will proc metal rods and deal 50% more damage.
 -   _Reshape and Remold_ - If Adar procs Scrapsinger successfully, their enemy will take more armor damage. After hitting 10 stacks, his opponent will take +5% damage until the stacks drop below 10.
 -   _Exposed Durability_ - Adar deals 10% more damage to opponents with no armor durability left.
 -   _An Ironsinger's Instinct_ - Whenever Adar successfully dodges an attack, he coats himself in metal and reduces the damage of the next attack taken.
--   _Phantom Edge_ - Adar's m1's have 0.25 more range.
+-   _Phantom Edge_ - Adar's M1's have 0.25 more range.
 -   _Heavy Shoulders_ - If Adar's opponents have 3 or more rods, their dodges are slower.
--   _Ironclad Punishment_ - Adar's ironsing mantras deal more posture damage to enemies the more armor durability they have.
+-   _Ironclad Punishment_ - Adar's Ironsing mantras deal more posture damage to enemies the more armor durability they have.
 -   _Thornmail_ - If Adar gets flourished, he applies a metal rod to their attacker.
 -   _Metal Shackles_ - Adar prevents enemies from receiving speed boosts for 5s when he guardbreaks them.
 -   _Piercing Metal_ - Adar deals additional armor damage to enemies per metal rod affecting them.
@@ -369,6 +369,6 @@ Adar's arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md) alo
 -   Adar's appearance, specifically his hair, derives from an outfit by developer K1LLUAA.
     -   His hair combo can be found here: [1](https://www.roblox.com/catalog/7392396295/Black-Anime-Delinquent-Hair), [2](https://www.roblox.com/catalog/11308491438/Black-Messy-Anime-Hairstyle-17-0), [3](https://www.roblox.com/catalog/11104022976/Cursed-Hair)
 -   Adar's red scars are of Heliodar markings, though Adar himself is not a Heliodar.
--   Formerly, Adar could not be killed for [Silentheart](Oath%253A_Silentheart.md) progression and when talking to him while being one would prompt a message of him saying, "Huh? What're you giving me that look for?" This was changed in the November 10th, 2025 update, which finally allowed him to be fought and killed.
+-   Formerly, Adar could not be killed for [Silentheart](Oath%253A_Silentheart.md) progression and when talking to him while being one would only prompt a message of him saying, "Huh? What're you giving me that look for?" This was changed in the November 10th, 2025 update, which finally allowed him to be fought and killed. (He still says that.)
 -   Unlike the other [Attunement Trainers](Attunement_Trainers.md), Adar does not use a legendary weapon that uses Ironsing due to him having a [Darksteel Greatsword](Darksteel_Greatsword.md) already on his back.
--   He likes men
+-   He likes men. How do I know? Just look at him.

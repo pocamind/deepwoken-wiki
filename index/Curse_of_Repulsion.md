@@ -1,6 +1,6 @@
 ---
 title: Curse of Repulsion
-revid: 206322
+revid: 212906
 source: https://deepwoken.fandom.com/wiki/Curse_of_Repulsion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -14,11 +14,11 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 | droppable | No |
 | pass down | No |
 | desc | When you block attacks, you knock your attacker backwards. You receive +30% chip damage. |
-| obtainment | Curse of Repulsion Enchant Stone:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Stone), War Mode, Hell Mode, Scion of Ethiron, Maestro Evengarde Rest, Dread Serpent, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Second Layer, Diluvian Mechanism, Galewax Room in the Second Layer, Crafting : |
+| obtainment | Curse of Repulsion Enchant Stone:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Stone), War Mode, Hell Mode, Scion of Ethiron, Maestro Evengarde Rest, Dread Serpent, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Second Layer, Diluvian Mechanism, Galewax Room in the Second Layer, Crafting :, Any Enchant Stone, Odd Tentacle, Wayward Gem |
 
 ## Description
 
-Curse of Repulsion is a buffing curse [enchantment](Enchantments.md) that pushes away your opponent when you block their attacks.
+Curse of Repulsion is a curse [enchantment](Enchantments.md) that pushes away your opponent when you block their attacks.
 
 ## Effect
 

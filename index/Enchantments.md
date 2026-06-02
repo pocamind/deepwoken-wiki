@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 212794
+revid: 212902
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -27,6 +27,7 @@ Enchantments have a set chance to be applied to a weapon during the following sc
     -   Certain [Bosses](Bosses.md)
     -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
     -   [Saramaed Hollow](Saramaed_Hollow.md)
+-   [Crafting](Crafting_Station.md) [CraftingStation](Crafting_Station.md)
 
 You cannot 'stack' two of the same enchantment; If you obtain a helmet with Multiplicity while having boots with Multiplicity equipped, you can't equip the Multiplicity helmet. Alternatively, if you gain Multiplicity on your helmet through [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) while having Multiplicity boots equipped, only one instance of Multiplicity will function.
 
@@ -133,7 +134,8 @@ Blazing [Enchant Stone](Enchant_Stone.md):
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Blessed Gem](Blessed_Gem.md), [Dying Embers](Dying_Embers.md)
+        
 
   
 
@@ -210,7 +212,9 @@ Chilling [Enchant Stone](Enchant_Stone.md):
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Stone](Enchant_Stone.md) and [Frozen Membrane](Frozen_Membrane.md)
+    2.  Any [Enchant Stone](Enchant_Stone.md), [Blue Gem](Blue_Gem.md), and [Frigid Prism](Frigid_Prism.md)
+        
 
   
 
@@ -253,7 +257,9 @@ Deferred [Enchant Stone](Enchant_Stone.md):
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Aeon Logstone](Mantra_Modifiers.md#regular-modifiers), [Blessed Gem](Blessed_Gem.md)
+    2.  Any [Enchant Stone](Enchant_Stone.md), [Blessed Gem](Blessed_Gem.md), [Irithine](Ores.md#irithine)
+        
 
   
 
@@ -297,7 +303,9 @@ Detonation [Enchant Stone](Enchant_Stone.md):
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Blast Spark](Mantra_Modifiers.md#sparks), [Wayward Gem](Wayward_Gem.md)
+    2.  Any [Enchant Stone](Enchant_Stone.md), [Iron Bomb](Iron_Bomb.md), [Wayward Gem](Wayward_Gem.md)
+        
 
   
 
@@ -341,7 +349,8 @@ Elastic [Enchant Stone](Enchant_Stone.md):
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Sap](Sap.md), [Wayward Gem](Wayward_Gem.md)
+        
 
   
 
@@ -413,7 +422,9 @@ Gluttony [Enchant Stone](Enchant_Stone.md):
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Megurger](Megurger.md), [Wrath Gem](Wrath_Gem.md)
+    2.  Any [Enchant Stone](Enchant_Stone.md), [Ambrosial Chum](Ambrosial_Chum.md)
+        
 
   
 
@@ -457,7 +468,8 @@ Grim [Enchant Stone](Enchant_Stone.md):
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Bloodless Gem](Bloodless_Gem.md), [Void Feather](Dark_Feather.md#void-feather)
+        
 
   
 
@@ -543,7 +555,8 @@ Heroism [Enchant Stone](Enchant_Stone.md):
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Pure Gold](Ores.md#gold), [Smith's Alloy](<Smith's_Alloy.md>)
+        
 
   
 
@@ -610,7 +623,8 @@ Metal [Enchant Stone](Enchant_Stone.md):
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Iron](Ores.md#iron), [Smith's Alloy](<Smith's_Alloy.md>)
+        
 
   
 
@@ -658,7 +672,8 @@ Nemesis [Enchant Stone](Enchant_Stone.md):
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Ashes](Ashes.md), [Wayward Gem](Wayward_Gem.md)
+        
 
   
 
@@ -727,7 +742,8 @@ Obfuscation [Enchant Stone](Enchant_Stone.md):
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Glass Stone](Mantra_Modifiers.md#regular-modifiers), [Wind Gem](Wind_Gem.md)
+        
 
   
 
@@ -785,7 +801,7 @@ Certain bosses are **entirely immune** to Providence Thorns. These are: [Maestro
 
 **Obtainment:**
 
-Providence's Thorns can be obtained from its [Enchant Stone](Enchant_Stone.md), crafting it with Any Enchant Stone, a Blessed Gem, and a Pristine Lotus, trading with [Laplace](Laplace.md), or obtaining a Providence's Thorns enchanted weapon from a chest.
+Providence's Thorns can be obtained from its [Enchant Stone](Enchant_Stone.md), crafting it, trading with [Laplace](Laplace.md), or obtaining a Providence's Thorns enchanted weapon from a chest.
 
 Providence's Thorns [Enchant Stone](Enchant_Stone.md):
 
@@ -802,7 +818,8 @@ Providence's Thorns [Enchant Stone](Enchant_Stone.md):
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Blessed Gem](Blessed_Gem.md), [Pristine Lotus](Pristine_Lotus.md)
+        
 
   
 
@@ -848,7 +865,8 @@ Sear [Enchant Stone](Enchant_Stone.md):
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Blue Gem](Blue_Gem.md), [Dying Embers](Dying_Embers.md)
+        
 
   
 
@@ -892,8 +910,8 @@ Solar [Enchant Stone](Enchant_Stone.md):
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    1.  Any [Enchant Stone](Enchant_Stone.md), 1 [Dying Embers](Dying_Embers.md), 1 [Insignia Gem](Insignia_Gem.md)
-    2.  Any [Enchant Stone](Enchant_Stone.md), 1 [Suncross Pendant](Suncross_Pendant.md), 1 [Insignia Gem](Insignia_Gem.md)
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Insignia Gem](Insignia_Gem.md), [Suncross Pendant](Suncross_Pendant.md)
+    2.  Any [Enchant Stone](Enchant_Stone.md), [Dying Embers](Dying_Embers.md), [Insignia Gem](Insignia_Gem.md)
         
 
   
@@ -936,6 +954,8 @@ Stone [Enchant Stone](Enchant_Stone.md):
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
+    1.  Any [Enchant Stone](Enchant_Stone.md), Golem Chunk
+    2.  Any [Enchant Stone](Enchant_Stone.md), [Blessed Gem](Blessed_Gem.md), [Rock](Ores.md#rock)
 -   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 5.
     
 
@@ -979,7 +999,9 @@ Storm [Enchant Stone](Enchant_Stone.md):
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Spark Gland](Spark_Gland.md), [Wind Gem](Wind_Gem.md)
+    2.  Any [Enchant Stone](Enchant_Stone.md), [Ferryman's Coat Cloth](<Ferryman's_Coat_Cloth.md>)
+        
 
   
 
@@ -1006,7 +1028,7 @@ Stormbreaker replaces your weapon critical with a new one that throws your weapo
 
 **Obtainment:**
 
-Stormbreaker is exclusively obtained from its [Enchant Stone](Enchant_Stone.md).
+Stormbreaker is obtained from its [Enchant Stone](Enchant_Stone.md) and crafting.
 
 Stormbreaker [Enchant Stone](Enchant_Stone.md):
 
@@ -1023,7 +1045,8 @@ Stormbreaker [Enchant Stone](Enchant_Stone.md):
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  [Reversal Spark](Mantra_Modifiers.md#sparks), [Storm Enchant Stone](Storm.md)
+        
 
   
 
@@ -1092,7 +1115,8 @@ Tears of the Edenkite [Enchant Stone](Enchant_Stone.md):
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Dread Serpent's Mane](<Dread_Serpent's_Mane.md>)
+        
 
   
 
@@ -1134,7 +1158,9 @@ Umbral Knight [Enchant Stone](Enchant_Stone.md):
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Insignia Gem](Insignia_Gem.md), [Umbral Obsidian](Umbral_Obsidian.md)
+    2.  Any [Enchant Stone](Enchant_Stone.md), [Insignia Gem](Insignia_Gem.md), [Pure Umbrite](Ores.md#umbrite)
+        
 
   
 
@@ -1176,6 +1202,7 @@ Vampirism [Enchant Stone](Enchant_Stone.md):
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Ashes](Ashes.md), [Bloodless Gem](Bloodless_Gem.md)
 -   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 5.
     
 
@@ -1221,7 +1248,8 @@ Wild [Enchant Stone](Enchant_Stone.md):
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Cloudstone](Mantra_Modifiers.md#regular-modifiers), [Wind Gem](Wind_Gem.md)
+        
 
   
 
@@ -1337,7 +1365,8 @@ Curse of Repulsion [Enchant Stone](Enchant_Stone.md):
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Odd Tentacle](Odd_Tentacle.md), [Wayward Gem](Wayward_Gem.md)
+        
 
   
 
@@ -1408,7 +1437,8 @@ Curse of the Bloodthirsty [Enchant Stone](Enchant_Stone.md):
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Bloodless Gem](Bloodless_Gem.md), [Strange Claw](Strange_Claw.md)
+        
 
   
 
@@ -1456,7 +1486,9 @@ Curse of the No Life King [Enchant Stone](Enchant_Stone.md):
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Bloodless Gem](Bloodless_Gem.md), [Umbral Obsidian](Umbral_Obsidian.md)
+    2.  Any [Enchant Stone](Enchant_Stone.md), [Bloodless Gem](Bloodless_Gem.md), [Urchin](Urchin.md)
+        
 
   
 
@@ -1500,7 +1532,8 @@ Curse of the Unbidden [Enchant Stone](Enchant_Stone.md):
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Blue Gem](Blue_Gem.md), [Crystal Lens](Mantra_Modifiers.md#regular-modifiers)
+        
 
   
 
@@ -1616,7 +1649,8 @@ Curse of Yun'Shul [Enchant Stone](Enchant_Stone.md):
 -   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>)
+        
 
  |
 
@@ -1659,7 +1693,8 @@ Adhesive [Enchant Grease](Enchant_Grease.md):
 -   [War Mode](War_Mode.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Grease](Enchant_Grease.md), [Blue Gem](Blue_Gem.md), [Sap](Sap.md)
+        
 
   
 
@@ -1694,7 +1729,8 @@ Allure [Enchant Grease](Enchant_Grease.md):
 -   [War Mode](War_Mode.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Grease](Enchant_Grease.md), [Insignia Gem](Insignia_Gem.md), [Magnet Spark](Mantra_Modifiers.md#sparks)
+        
 
   
 
@@ -1727,7 +1763,8 @@ Bounce [Enchant Grease](Enchant_Grease.md):
 -   [War Mode](War_Mode.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Grease](Enchant_Grease.md), [Reversal Spark](Mantra_Modifiers.md#sparks), [Wind Gem](Wind_Gem.md)
+        
 
   
 
@@ -1760,7 +1797,8 @@ Displacement [Enchant Grease](Enchant_Grease.md):
 -   [War Mode](War_Mode.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Grease](Enchant_Grease.md), [Blast Spark](Mantra_Modifiers.md#sparks), [Wayward Gem](Wayward_Gem.md)
+        
 
   
 
@@ -1793,7 +1831,8 @@ Drowned [Enchant Grease](Enchant_Grease.md):
 -   [War Mode](War_Mode.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Grease](Enchant_Grease.md), [Insignia Gem](Insignia_Gem.md), [Umbral Obsidian](Umbral_Obsidian.md)
+        
 
   
 
@@ -1830,7 +1869,8 @@ Entanglement [Enchant Grease](Enchant_Grease.md):
 -   [War Mode](War_Mode.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Grease](Enchant_Grease.md), [Magnet Spark](Mantra_Modifiers.md#sparks), [Wayward Gem](Wayward_Gem.md)
+        
 
   
 
@@ -1853,7 +1893,8 @@ Upon taking damage from a humanoid target, this has a 25% chance to proc. On pro
 
 1.  +8% speed boost for 5 seconds. This scales on your current Tempo, granting a +40% speed boost at full Tempo.
 2.  +0% damage reduction to the hit that procced Ferocity. This scales on your current Tempo, applying 15% damage reduction at maximum Tempo.
-    
+
+**Obtainment:**
 
 Ferocity can be obtained from its [Enchant Grease](Enchant_Grease.md) or by obtaining a Ferocity enchanted equipment from a chest.
 
@@ -1865,7 +1906,11 @@ Ferocity [Enchant Grease](Enchant_Grease.md):
 -   [War Mode](War_Mode.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Grease](Enchant_Grease.md), [Bloodless Gem](Bloodless_Gem.md), [Strange Claw](Strange_Claw.md)
+    2.  Any [Enchant Grease](Enchant_Grease.md), [Bloodless Gem](Bloodless_Gem.md), [Megalodaunt Hide](Megalodaunt_Hide.md)
+        
+
+  
 
  |
 | 
@@ -1902,7 +1947,8 @@ Multiplicity [Enchant Grease](Enchant_Grease.md):
 -   [War Mode](War_Mode.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Grease](Enchant_Grease.md), [Blessed Gem](Blessed_Gem.md), [Multiplying Spark](Mantra_Modifiers.md#sparks)
+        
 
   
 
@@ -1968,7 +2014,8 @@ Stench [Enchant Grease](Enchant_Grease.md):
 -   [War Mode](War_Mode.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  Any [Enchant Grease](Enchant_Grease.md), [Chum](Chum.md), [Wind Gem](Wind_Gem.md)
+        
 
   
 
@@ -1989,7 +2036,7 @@ _Incoming damage is converted into damage over time and applied for 2.5s._
 
 Incoming damage is instead applied as a damage over time effect, over 2.5 seconds. User takes 10% of the initial incoming damage every 0.25s, 10 times.
 
-Similarly to Deferred, the damage over time from this Endchantment snapshots all of the relevant resistances and damage modifiers when the attack landed, meaning newly applied resistances/damage modifiers will not be considered and effects that run out will still have their bonuses applied.
+Similarly to Deferred, the damage over time from this Enchantment snapshots all of the relevant resistances and damage modifiers when the attack landed, meaning newly applied resistances/damage modifiers will not be considered and effects that run out will still have their bonuses applied.
 
 This enchantment will be disabled if you are using [Curse of the No Life King](Curse_of_the_No_Life_King.md) on your weapon or [Immortal Helm](Immortal_Helm.md).
 
@@ -2005,7 +2052,8 @@ Viscosity [Enchant Grease](Enchant_Grease.md):
 -   [War Mode](War_Mode.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+    1.  [Aeon Logstone](Mantra_Modifiers.md#regular-modifiers), Any [Enchant Grease](Enchant_Grease.md), [Blessed Gem](Blessed_Gem.md)
+        
 
  |
 

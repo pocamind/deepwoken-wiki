@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 210603
+revid: 212846
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -15,6 +15,54 @@ One of the most prevalent mechanics in the game is crafting. Recipes can be lear
 ## Utility Recipes
 
 These are recipes that are not used to produce food or potions.
+
+## Enchant Stones
+
+These recipes require you to be at a [Crafting Station](Crafting_Station.md) or have the [Master Craftsman](Talents.md#master-craftsman) Talent.
+
+-   [Blazing Enchant Stone](Blazing.md) - Any [Enchant Stone](Enchant_Stone.md), [Blessed Gem](Blessed_Gem.md), [Dying Embers](Dying_Embers.md)
+-   [Chilling Enchant Stone](Chilling.md) - Any [Enchant Stone](Enchant_Stone.md) and [Frozen Membrane](Frozen_Membrane.md) or Any [Enchant Stone](Enchant_Stone.md), [Blue Gem](Blue_Gem.md), and [Frigid Prism](Frigid_Prism.md)
+-   [Curse of Repulsion Enchant Stone](Curse_of_Repulsion.md) - Any [Enchant Stone](Enchant_Stone.md), [Odd Tentacle](Odd_Tentacle.md), [Wayward Gem](Wayward_Gem.md)
+-   [Curse of the Bloodthirsty Enchant Stone](Curse_of_the_Bloodthirsty.md) - Any [Enchant Stone](Enchant_Stone.md), [Bloodless Gem](Bloodless_Gem.md), [Strange Claw](Strange_Claw.md)
+-   [Curse of the No-Life King Enchant Stone](Curse_of_the_No_Life_King.md) - Any [Enchant Stone](Enchant_Stone.md), [Bloodless Gem](Bloodless_Gem.md), [Umbral Obsidian](Umbral_Obsidian.md) or Any [Enchant Stone](Enchant_Stone.md), [Bloodless Gem](Bloodless_Gem.md), [Urchin](Urchin.md)
+-   [Unbidden Enchant Stone](Curse_of_the_Unbidden.md) - Any [Enchant Stone](Enchant_Stone.md), [Blue Gem](Blue_Gem.md), [Crystal Lens](Mantra_Modifiers.md#regular-modifiers)
+-   [Curse of Yun'Shul Enchant Stone](<Curse_of_Yun'Shul.md>) - Any [Enchant Stone](Enchant_Stone.md), [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>)
+-   [Deferred Enchant Stone](Deferred.md) - Any [Enchant Stone](Enchant_Stone.md), [Aeon Logstone](Mantra_Modifiers.md#regular-modifiers), [Blessed Gem](Blessed_Gem.md) or Any [Enchant Stone](Enchant_Stone.md), [Blessed Gem](Blessed_Gem.md), [Irithine](Ores.md#irithine)
+-   [Detonation Enchant Stone](Detonation.md) - Any [Enchant Stone](Enchant_Stone.md), [Blast Spark](Mantra_Modifiers.md#sparks), [Wayward Gem](Wayward_Gem.md) or Any [Enchant Stone](Enchant_Stone.md), [Iron Bomb](Iron_Bomb.md), [Wayward Gem](Wayward_Gem.md)
+-   [Elastic Enchant Stone](Elastic.md) - Any [Enchant Stone](Enchant_Stone.md), [Sap](Sap.md), [Wayward Gem](Wayward_Gem.md)
+-   [Gluttony Enchant Stone](Gluttony.md) - Any [Enchant Stone](Enchant_Stone.md), [Megurger](Megurger.md), [Wrath Gem](Wrath_Gem.md) or Any [Enchant Stone](Enchant_Stone.md), [Ambrosial Chum](Ambrosial_Chum.md)
+-   [Grim Enchant Stone](Grim.md) - Any [Enchant Stone](Enchant_Stone.md), [Bloodless Gem](Bloodless_Gem.md), [Void Feather](Dark_Feather.md#void-feather)
+-   [Herosim Enchant Stone](Heroism.md) - Any [Enchant Stone](Enchant_Stone.md), [Pure Gold](Ores.md#gold), [Smith's Alloy](<Smith's_Alloy.md>)
+-   [Metal Enchant Stone](Metal.md) - Any [Enchant Stone](Enchant_Stone.md), [Iron](Ores.md#iron), [Smith's Alloy](<Smith's_Alloy.md>)
+-   [Nemesis Enchant Stone](Nemesis.md) - Any [Enchant Stone](Enchant_Stone.md), [Ashes](Ashes.md), [Wayward Gem](Wayward_Gem.md)
+-   [Obfuscation Enchant Stone](Obfuscation.md) - Any [Enchant Stone](Enchant_Stone.md), [Glass Stone](Mantra_Modifiers.md#regular-modifiers), [Wind Gem](Wind_Gem.md)
+-   [Providence's Thorns Enchant Stone](<Providence's_Thorns.md>) - Any [Enchant Stone](Enchant_Stone.md), [Blessed Gem](Blessed_Gem.md), [Pristine Lotus](Pristine_Lotus.md)
+-   [Sear Enchant Stone](Sear.md) - Any [Enchant Stone](Enchant_Stone.md), [Blue Gem](Blue_Gem.md), [Dying Embers](Dying_Embers.md)
+-   [Solar Enchant Stone](Solar.md) - Any [Enchant Stone](Enchant_Stone.md), [Insignia Gem](Insignia_Gem.md), [Suncross Pendant](Suncross_Pendant.md) or Any [Enchant Stone](Enchant_Stone.md), [Dying Embers](Dying_Embers.md), [Insignia Gem](Insignia_Gem.md)
+-   [Stone Enchant Stone](Stone.md) - Any [Enchant Stone](Enchant_Stone.md), Golem Chunk or Any [Enchant Stone](Enchant_Stone.md), [Blessed Gem](Blessed_Gem.md), [Rock](Ores.md#rock)
+-   [Storm Enchant Stone](Storm.md) - Any [Enchant Stone](Enchant_Stone.md), [Spark Gland](Spark_Gland.md), [Wind Gem](Wind_Gem.md) or Any [Enchant Stone](Enchant_Stone.md), [Ferryman's Coat Cloth](<Ferryman's_Coat_Cloth.md>)
+-   [Stormbreaker Enchant Stone](Stormbreaker.md) - [Reversal Spark](Mantra_Modifiers.md#sparks), [Storm Enchant Stone](Storm.md)
+-   [Tears of the Edenkite Enchant Stone](Tears_of_the_Edenkite.md) - Any [Enchant Stone](Enchant_Stone.md), [Dread Serpent's Mane](<Dread_Serpent's_Mane.md>)
+-   [Umbral Knight Enchant Stone](Umbral_Knight.md) - Any [Enchant Stone](Enchant_Stone.md), [Insignia Gem](Insignia_Gem.md), [Umbral Obsidian](Umbral_Obsidian.md) or Any [Enchant Stone](Enchant_Stone.md), [Insignia Gem](Insignia_Gem.md), [Pure Umbrite](Ores.md#umbrite)
+-   [Vampirism Enchant Stone](Vampirism.md) - Any [Enchant Stone](Enchant_Stone.md), [Ashes](Ashes.md), [Bloodless Gem](Bloodless_Gem.md)
+-   [Wild Enchant Stone](Wild.md) - Any [Enchant Stone](Enchant_Stone.md), [Cloudstone](Mantra_Modifiers.md#regular-modifiers), [Wind Gem](Wind_Gem.md)
+
+## Enchant Greases
+
+These recipes require you to be at a [Crafting Station](Crafting_Station.md) or have the [Master Craftsman](Talents.md#master-craftsman) Talent.
+
+-   [Adhesive Enchant Grease](Adhesive.md) - Any [Enchant Grease](Enchant_Grease.md), [Blue Gem](Blue_Gem.md), [Sap](Sap.md)
+-   [Allure Enchant Grease](Allure.md) - Any [Enchant Grease](Enchant_Grease.md), [Insignia Gem](Insignia_Gem.md), [Magnet Spark](Mantra_Modifiers.md#sparks)
+-   [Bounce Enchant Grease](Bounce.md) - Any [Enchant Grease](Enchant_Grease.md), [Reversal Spark](Mantra_Modifiers.md#sparks), [Wind Gem](Wind_Gem.md)
+-   [Displacement Enchant Grease](Displacement.md) - Any [Enchant Grease](Enchant_Grease.md), [Blast Spark](Mantra_Modifiers.md#sparks), [Wayward Gem](Wayward_Gem.md)
+-   [Drowned Enchant Grease](Drowned.md) - Any [Enchant Grease](Enchant_Grease.md), [Insignia Gem](Insignia_Gem.md), [Umbral Obsidian](Umbral_Obsidian.md)
+-   [Entanglement Enchant Grease](Entanglement.md) - Any [Enchant Grease](Enchant_Grease.md), [Magnet Spark](Mantra_Modifiers.md#sparks), [Wayward Gem](Wayward_Gem.md)
+-   [Ferocity Enchant Grease](Ferocity.md) - Any [Enchant Grease](Enchant_Grease.md), [Bloodless Gem](Bloodless_Gem.md), [Strange Claw](Strange_Claw.md) or Any [Enchant Grease](Enchant_Grease.md), [Bloodless Gem](Bloodless_Gem.md), [Megalodaunt Hide](Megalodaunt_Hide.md)
+-   [Multipicty Enchant Grease](Multiplicity.md) - Any [Enchant Grease](Enchant_Grease.md), [Blessed Gem](Blessed_Gem.md), [Multiplying Spark](Mantra_Modifiers.md#sparks)
+-   [Stench Enchant Grease](Stench.md) - Any [Enchant Grease](Enchant_Grease.md), [Chum](Chum.md), [Wind Gem](Wind_Gem.md)
+-   [Viscosity Enchant Grease](Viscosity.md) - [Aeon Logstone](Mantra_Modifiers.md#regular-modifiers), Any [Enchant Grease](Enchant_Grease.md), [Blessed Gem](Blessed_Gem.md)
+
+  
 
 ### _Non-Station Recipes_[CraftingEmpty](Crafting_Recipes.md)
 

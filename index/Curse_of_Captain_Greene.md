@@ -1,6 +1,6 @@
 ---
 title: Curse of Captain Greene
-revid: 206321
+revid: 212888
 source: https://deepwoken.fandom.com/wiki/Curse_of_Captain_Greene
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments, The Vat Exclusive]
@@ -41,4 +41,4 @@ Upon taking damage from a player, lose 100.
 
 ## Trivia
 
--   This enchantment was originally a Developer Spec before it was made publicly accessible during the February 16th, 2026 update, as a part of Operation Deep Healing.
+-   This enchantment was originally a Developer Spec before it was made publicly accessible during the [February 16th, 2026](Version_History/2026.md#february-16th-2026), as a part of Operation: Deep Healing.
