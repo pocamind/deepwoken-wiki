@@ -1,6 +1,6 @@
 ---
 title: Arkasid Pupa
-revid: 211366
+revid: 213015
 source: https://deepwoken.fandom.com/wiki/Arkasid_Pupa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -20,6 +20,7 @@ categories: [Food]
 | droppable | Yes |
 | pass down | No |
 | desc | It's rhythmically wiggling in your hand. Authorities accept specimens for disposal and issue a bounty payment upon submission. |
+| obtainment | Arkasid |
 
 ## Description
 

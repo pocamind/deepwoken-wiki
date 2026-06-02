@@ -1,6 +1,6 @@
 ---
 title: Summer Hullwrecker
-revid: 212716
+revid: 213042
 source: https://deepwoken.fandom.com/wiki/Summer_Hullwrecker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons, Greatcannons, Weapons with Talents, Weapons of The Summer Company]
@@ -22,7 +22,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons, Greatca
 | endlag | 0.1s |
 | penetration | 10% |
 | chip damage | 5% |
-| talent | Max Ammo - Landing the cannonball of your critical attack removes your critical attack's cooldown |
+| talent | Max Ammo - Landing the cannonball of your critical attack removes your critical attack's cooldown. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
@@ -43,6 +43,8 @@ A cannon engineered by the Summer Company. This weapon is seen as the entry poin
 ## Talents
 
 Equipping the Summer Hullwrecker grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+**Max Ammo** - Landing the cannonball of your critical attack removes your critical attack's cooldown.
 
 ## Critical
 

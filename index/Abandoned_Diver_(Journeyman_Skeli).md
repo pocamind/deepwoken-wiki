@@ -1,6 +1,6 @@
 ---
 title: Abandoned Diver (Journeyman Skeli)
-revid: 201365
+revid: 213036
 source: https://deepwoken.fandom.com/wiki/Abandoned_Diver_(Journeyman_Skeli)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, Members of Diver expeditions to the Second Layer, Deceased characters]
@@ -28,11 +28,11 @@ Skeli was an [Etrean](Etrean.md) [Diver](The_Divers.md) who eventually attained 
 
 Skeli was later assigned to the third expedition to the [Second Layer](Second_Layer.md). Their team was sent by [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) to rendezvous with Chaser, the sole survivor of the previous two expedition teams.[\[1\]](#cite-note-journal-ii-1)
 
-Skeli suspected that foul play was involved, and partially blamed Klaris for the situation. Despite the harsh conditions of the Second Layer, Skeli doubted that two entire expeditions could have been entirely wiped out. Based on testimony from the local [Kyrsgarde](Kyrsgarde.md), Skeli concluded Chaser had most likely engineered the end of his previous two teams and recorded their suspicions in their [journal](Diver_Journal,_II.md). Skeli feared what would happen if Chaser harnessed the power of [New Kyrsa](Second_Layer/New_Kyrsa.md) and stressed that he couldn't be trusted. The last pages of Skeli's journal were covered by frantic scribbles, seemingly to hide the contents within.[\[1\]](#cite-note-journal-ii-1)
+Skeli suspected that foul play was involved, and partially blamed Klaris for the situation. Despite the harsh conditions of the Second Layer, Skeli doubted that two entire expeditions could have been entirely wiped out. Based on testimony from the local [Kyrsgarde](Kyrsgarde.md), Skeli concluded Chaser had most likely engineered the end of his previous two teams and recorded their suspicions in their [journal](<Diver's_Journal%253A_Journeyman_Skeli.md>). Skeli feared what would happen if Chaser harnessed the power of [New Kyrsa](Second_Layer/New_Kyrsa.md) and stressed that he couldn't be trusted. The last pages of Skeli's journal were covered by frantic scribbles, seemingly to hide the contents within.[\[1\]](#cite-note-journal-ii-1)
 
 At one point, Skeli spoke with [Apprentice Hero](<Mauled_Diver_Corpse_(Apprentice_Hero).md>) and told them about [the Frontier Furnace](The_Frontier_Furnace.md)'s location.[\[3\]](#cite-note-journal-iii-3)
 
-Eventually, Skeli died and their lifeless corpse was left to freeze in the wastes. The abandoned Diver corpse, still carrying Skeli's journal, was later found by [the Pathfinder](The_Pathfinder.md). They able to pocket the [Diver Journal, II](Diver_Journal,_II.md) left behind by the corpse and turn it in to Klaris Llfiend for the [Deepshore Fossil](Deepshore_Fossil.md).
+Eventually, Skeli died and their lifeless corpse was left to freeze in the wastes. The abandoned Diver corpse, still carrying Skeli's journal, was later found by [the Pathfinder](The_Pathfinder.md). They able to pocket the [Diver's Journal: Journeyman Skeli](<Diver's_Journal%253A_Journeyman_Skeli.md>) left behind by the corpse.
 
 ## Dialogue
 

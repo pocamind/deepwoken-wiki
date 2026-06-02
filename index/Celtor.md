@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 211579
+revid: 213025
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -140,7 +140,7 @@ Celtor are most known for their unique racoon-like facial markings. These change
 Nametag of a Celtor during Mudwoken.
 
 -   Half of the surnames of the Celtor are of Russian origin \[Baranof (Baran=Ram/Sheep), Kotof (Kot=Cat), Bykof (Byk=Bull), Kalinof (Kalina=Viburnum), Sokolof (Sokol=Falcon), Petrof (Russian Name+of), Pavel (Russian Name as Surname)\].
--   During the 4/1/2022 April Fools update (Mudwoken), the Celtor aspect name was changed to Mustskipper.
+-   During the [Mudwoken](Version_History/2022-2021.md#april-1st-2022) April Fools update, the Celtor aspect name was changed to Mustskipper.
 -   Celtor is tied with Adret and Etrean for the most common aspect.
 -   Celtor are known to gamble often at shipyards and docks they find.[\[1\]](#cite-note-1)
 -   The pronunciation of Celtor is a heavily debated topic in the community with no clear answer.

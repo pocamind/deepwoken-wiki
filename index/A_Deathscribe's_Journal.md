@@ -1,6 +1,6 @@
 ---
 title: "A Deathscribe's Journal"
-revid: 172926
+revid: 213023
 source: https://deepwoken.fandom.com/wiki/A_Deathscribe's_Journal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -424,7 +424,7 @@ A Deathscribe's Journal
 > 
 > • Joseph Theus - MIA
 > 
-> • Sophodon Surad (THIS ONE'S IMPORTANT! black diver, gilded name, two symbols of rank either side, add sub-heading - "Retired after 43 years of honourable service in the [Black Divers'](Glossary.md#black-divers) Division, turning down a promotion to the [High Convocation](Glossary.md#the-high-convocation) of the [Citadel](Glossary.md#the-citadel-of-markor) of Markor." add motto "TO THE DEEPEST FATHOMS". oh my!!!)
+> • Sophodon Surad (THIS ONE'S IMPORTANT! black diver, gilded name, two symbols of rank either side, add sub-heading - "Retired after 43 years of honourable service in the [Black Divers'](Glossary.md#black-divers) Division, turning down a promotion to the [High Convocation](Glossary.md#the-high-convocation) of the [Citadel of Markor."](Glossary.md#the-citadel-of-markor) add motto "TO THE DEEPEST FATHOMS". oh my!!!)
 > 
 > • Romeo Janus (some luck, to be some random death right under \*a retirement name\*! good thing us memorial masons get our own individual carved monuments...)
 > 

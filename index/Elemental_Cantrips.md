@@ -1,6 +1,6 @@
 ---
 title: Elemental Cantrips
-revid: 211706
+revid: 213047
 source: https://deepwoken.fandom.com/wiki/Elemental_Cantrips
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Attunement]
@@ -30,7 +30,7 @@ The [Not a Scratch](Talents.md#not-a-scratch) Talent also provides this effect, 
 
 ### Frostdraw
 
-**Purifying Frost** This Cantrip automatically purify certain forms of unsafe water, including any unsafe water collected in your [Canteen](Canteen.md) (excluding sea water).
+**Purifying Frost;** This Cantrip automatically purify certain forms of unsafe water, including any unsafe water collected in your [Canteen](Canteen.md) (excluding sea water).
 
 The [Purifying Ring](Purifying_Ring.md) Equipment has a similar effect.
 

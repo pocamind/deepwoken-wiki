@@ -1,16 +1,18 @@
 ---
 title: "Diver Journal, III"
-revid: 178902
+revid: 213032
 source: https://deepwoken.fandom.com/wiki/Diver_Journal%2C_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Books, Diver Journals]
+categories: [Cut Content, Books, Diver Journals]
+notices:
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # Diver Journal, III
 
 ## Description
 
-_**Diver Journal, III**_ is a [Book](Books.md) found in the first floor of the [Second Layer](Second_Layer.md).
+_**Diver Journal, III**_ was a [Book](Books.md) found in the first floor of the [Second Layer](Second_Layer.md). It was changed to [Diver's Journal: Apprentice Hero](<Diver's_Journal%253A_Apprentice_Hero.md>).
 
 ## Text
 

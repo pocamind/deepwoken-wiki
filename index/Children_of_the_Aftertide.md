@@ -1,6 +1,6 @@
 ---
 title: Children of the Aftertide
-revid: 181008
+revid: 213024
 source: https://deepwoken.fandom.com/wiki/Children_of_the_Aftertide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Book Collections]
@@ -31,9 +31,11 @@ Children of the Aftertide I
 > 
 > As another example, The Navaean nomads' ways are still going strong, flourishing in the face of great adversity - somewhat of a paradox considering their culture's wandersome nature, their reliance on traditions of spoken word, and their consistent clashes with the encroaching imperial influence of the [Central Authority](Glossary.md#the-central-authority). The [Authority](Glossary.md#the-central-authority) themselves, as yet another example, struggle to find any solid cultural ground to stand on, despite being made up of numerous varied groups of people, each with their own colourful histories and customs. Instead, they rely upon loyalty to hierarchy and on military tradition to keep their political ties from fraying.
 > 
-> And then, of course, there are new cultures still emerging in the long wake after the [Tides](Glossary.md#the-tides), forming up in response to the changed ways of the people of the New World. Where there was a lack of rooted national history and shared past, a variety of stand-ins arose - companies, labour unions, and guilds of workers and adventurers alike. Within these non-societal units, unique traditions, hierarchies, and customs take shape. They fight for their place beneath the sun, like any other.
+> And then, of course, there are new cultures still emerging in the long wake after the [Tides](Glossary.md#the-tides), forming up in response to the changed ways of the people of the [New World](Glossary.md#the-aftertide). Where there was a lack of rooted national history and shared past, a variety of stand-ins arose - companies, labour unions, and guilds of workers and adventurers alike. Within these non-societal units, unique traditions, hierarchies, and customs take shape. They fight for their place beneath the sun, like any other.
 > 
 > Despite all this, our world remains at strife with itself, and destruction reigns over creation. We have proven, time and time again, that humanity can persevere in the face of incredible adversity, and band together during and after world-ending events. What we have woefully failed to do, however, is preserve the past - the circumstances did not allow us to do this well.
+> 
+> * * *
 > 
 > It is for this reason that I publish this journal of mine, containing within it a continuous study of the surface world’s cultures, traditions, customs, and ways of life - old and new alike. Here I have set the records of my investigative journey throughout the world, accompanied by my very close life-long friend, a Khan warrior named Anna Nemises. We hope these writings are found satisfactory in the face of posterity.
 > 

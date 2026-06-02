@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 213013
+revid: 213044
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4301,6 +4301,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Belief: [Worshipper Longsword](Worshipper_Longsword.md) - Your [medium weapon mantras](Attunement-less.md#medium-weapon-mantras) \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now deal extra damage based on how much Willpower you have.
     -   All of your Medium Weapon Mantras gain a second damage instance that scales directly on your Willpower investment. This deals physical damage.
     -   This deals 0.15 damage per 1 [Willpower](Attributes.md#wll) investment. At maximum this will deal an additional 15 damage at 100 Willpower.
+        -   Having [One With Flame](Flame_Worshipper_Armor.md) active increases Belief's damage by granting it Flamecharm scaling; for every 1 Flamecharm, Belief will gain an additional 0.05 damage, up to +5 damage from Flamecharm investment. Pairing 100 Flamecharm and 100 Willpower will net you +20 damage on your [Medium Weapon Mantras](Attunement-less.md#medium-weapon-mantras).
     -   This effect has no cooldown, allowing your [Master's Flourish](Attunement-less.md#masters-flourish) and [Twincleave](Attunement-less.md#twincleave) to benefit from this effect twice per cast.
     -   This secondary damage instance cannot receive damage modifiers.
 
@@ -4799,7 +4800,8 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   You will need a scaled damage of 187 (in Pathfinder) or 125 (in [Vow of Iron](Vow_of_Iron.md)) to reach this new heal cap.
 
 -   One With Flame: [Flame Worshipper Armor](Flame_Worshipper_Armor.md) - When equipping a [Worshipper Longsword](Worshipper_Longsword.md) and [Worshipper Shield](<Worshipper's_Shield.md>), you take 25% less damage while on fire and every mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] you use sets enemies on fire.
-    -   Gain 25% damage reduction while [burning](Status_Effects.md#burn), and all of your [Mantras](Mantras.md) apply [burn](Status_Effects.md#burn) on hit, if you are using the [Worshipper Longsword](Worshipper_Longsword.md) and [Worshipper's Shield](<Worshipper's_Shield.md>) alongside this Outfit.
+    -   This Talent's effects only activate while you are [burning](Status_Effects.md#burn) and you have the [Worshipper Longsword](Worshipper_Longsword.md) and [Worshipper's Shield](<Worshipper's_Shield.md>) equipped alongside this Outfit.
+    -   Gain 25% damage reduction and adds Flamecharm scaling to your [Belief](Worshipper_Longsword.md) while active. This increases your Belief's damage by +0.05 for every 1 Flamecharm investment you have, capping to +5 additional damage at 100 Flamecharm.
     -   Turns your [Medium Weapon Mantras](Attunement-less.md#medium-weapon-mantras) orange while active. This does not change color based on your Flamecharm path.
     -   Unlike Immolation, this can create Eruptions, and this effect is not limited to Physical damage Mantras and attacks with the Slash damage fx, allowing for much more variety.
         -   As mentioned above, since Immolation _always_ applies [burn](Status_Effects.md#burn), and this doesnt, you can create an Eruption and apply burn simultaneously on eligible Mantras.

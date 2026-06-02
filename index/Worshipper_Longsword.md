@@ -1,6 +1,6 @@
 ---
 title: Worshipper Longsword
-revid: 212934
+revid: 213051
 source: https://deepwoken.fandom.com/wiki/Worshipper_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Talents, The Covenant of Flame]
@@ -32,7 +32,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons wit
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests in: , Minityrsa, Deep Widow, Lodestar, Songseeker Wilds, Dread Serpent, Saramaed Hollow, Sold at Fort Merit Armory for 30 (Authority Ensign exclusive), Sold at Miner's Landing for 30 Vow of Iron:, Flame Worshipper Memento |
+| obtainment | Chests in: , Minityrsa, Deep Widow, Lodestar, Songseeker Wilds, Dread Serpent, Saramaed Hollow, Sold at Miner's Landing for 30 Vow of Iron:, Flame Worshipper Memento |
 | description | A blade forged by a notable Flamepriest, and dedicated to the forge it was reared from. |
 
 ## Description
@@ -43,7 +43,9 @@ The Worshipper Longsword is a midgame weapon obtainable from [Minityrsa](Minityr
 
 Equipping the Worshipper Longsword grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Belief** gives your [Medium Weapon Mantras](Attunement-less.md#medium-weapon-mantras) a secondary damage instance, dealing 0.15 \* your current Willpower investment as physical damage. For example, your Medium Mantras will deal 7.5 more damage at 50 Willpower and 15 more damage at 100 Willpower.
+**Belief** gives your [Medium Weapon Mantras](Attunement-less.md#medium-weapon-mantras) a secondary damage instance, dealing 0.15 × your current [Willpower](Attributes.md#wll) investment as physical damage. For example, your Medium Mantras will deal 7.5 more damage at 50 Willpower and 15 more damage at 100 Willpower.
+
+Having the [**One With Flame**](Talents.md#one-with-flame) Talent active adds additional Flamecharm scaling to your Belief, increasing its damage by +0.05 × your current [Flamecharm](Flamecharm.md) investment.
 
 This effect has no cooldown, allowing your [Master's Flourish](Attunement-less.md#masters-flourish) and [Twincleave](Attunement-less.md#twincleave) to benefit from this Talent's effects twice with one cast.
 
