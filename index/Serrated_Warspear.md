@@ -1,6 +1,6 @@
 ---
 title: Serrated Warspear
-revid: 202895
+revid: 213148
 source: https://deepwoken.fandom.com/wiki/Serrated_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Drops, Medium Weapons]
@@ -33,7 +33,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Corrupted King Thresher, Corrupted Thresher, Void Thresher, Nightmare Thresher |
+| obtainment | Corrupted King Thresher, Corrupted Thresher, Void Thresher, Nightmare Thresher, Sold in Traan Zakshun's regular shop for 650 |
 | description | ... |
 
 ## Description

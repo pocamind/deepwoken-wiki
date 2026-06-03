@@ -1,6 +1,6 @@
 ---
 title: "The Hammer's Call"
-revid: 206851
+revid: 213169
 source: https://deepwoken.fandom.com/wiki/The_Hammer's_Call
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -75,7 +75,7 @@ Shoulder to shoulder, together, tall!
 
 * * *
 
-> "The Hammer's Call" is a labour song, originating with the workers of the Ignition Union - the renowned freelancer company and labour union. The song itself is based on the tune of an old Adretian folk song, called "The Winding Homeward Road", and the words for this particular version - alongside with the modern arrangement, - were authored by Ignition Union member Gawain Corbet in 1272.
+> "The Hammer's Call" is a labour song, originating with the workers of the Ignition Union - the renowned freelancer company and labour union. The song itself is based on the tune of an old [Adretian](Glossary.md#adretian) folk song, called "The Winding Homeward Road", and the words for this particular version - alongside with the modern arrangement, - were authored by Ignition Union member Gawain Corbet in 1272.
 > 
 > Over the coming decades, the song would gain popularity among the Union labourers - with empowering lyrics and a steady rhythm, "The Hammer's Call" provided a convenient means for simultaneously keeping a consistent pace of labour between a group of people, as well as keeping up worker morale.
 > 

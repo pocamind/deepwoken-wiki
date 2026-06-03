@@ -1,6 +1,6 @@
 ---
 title: Trickster Dust
-revid: 209123
+revid: 213153
 source: https://deepwoken.fandom.com/wiki/Trickster_Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Items]
@@ -19,7 +19,7 @@ categories: [Pathfinder Exclusive, Relics, Items]
 | droppable | No |
 | pass down | No |
 | desc | The traces of powerful Visionshaper magic and trickery. It almost looks as if it rejects sources of ether around it, almost inverting it. |
-| obtainment | Carnival of Hearts, Weird Trader |
+| obtainment | Carnival of Hearts, Weird Trader, Sold in Traan Zakshun's black market for 5 |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

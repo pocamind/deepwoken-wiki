@@ -1,6 +1,6 @@
 ---
 title: "Vows by the Sea: Inheritance"
-revid: 206870
+revid: 213171
 source: https://deepwoken.fandom.com/wiki/Vows_by_the_Sea%3A_Inheritance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -23,7 +23,7 @@ _**Vows by the Sea: Inheritance**_ is a [Book](Books.md).
 >   
 > The contemporary understanding of the origins of the [Aspects](Glossary.md#aspects) of [Lumen](Glossary.md#lumen) can be said to stem primarily from the ‘Gremor Hypothesis’ posed by Steward Heidegard in his 877 CE study. In this essay, Heidegard delves into the spoken histories and folklore of the Gremor nomads, and proposes that the poorly understood mechanisms of [Vows](Glossary.md#vows) might be behind the internal ‘compass’ spoken of by the nomads.
 > 
-> Gremor folklore speaks of the descent of Navae to this world, the nursing of the falling goddess back to life by a wandering nomad, and a [Vow](Glossary.md#vows) made between this nomad and the [celestial](Glossary.md#the-celestials) Navae. While there are naturally accounts of the deer-horned Gremor during the Old World, it is only in post-tide sources that we find any mention of the innate compass the nomads use to navigate the seas.
+> Gremor folklore speaks of the descent of Navae to this world, the nursing of the falling goddess back to life by a wandering nomad, and a [Vow](Glossary.md#vows) made between this nomad and the [celestial](Glossary.md#the-celestials) Navae.
 > 
 > While there are naturally accounts of the deer-horned Gremor during the [Old World](Glossary.md#the-old-world), it is only in post-tidal sources that we find any mention of the innate compass the nomads use to navigate the seas.
 > 
@@ -35,7 +35,7 @@ _**Vows by the Sea: Inheritance**_ is a [Book](Books.md).
 > 
 > The traits we inherit are not a mixture of the different [Aspects](Glossary.md#aspects) we hold as our heritage - the child of a Gremor and a Celtor will take after the traits of only one of the parents. The mechanics of which parent takes priority in this assignment of traits are poorly understood and have widely been concluded to be down to a variety of disparate factors, such as the 'liveliness of one’s spirit' \[sic\], one's aptitude with the [Song](Glossary.md#the-song), or the intensity of one's Soul [Murmur](Glossary.md#soul-murmur).
 > 
-> There is naturally a taboo surrounding the use of [Vows](Glossary.md#vows) to enforce religious tenets. The origins of this taboo are unclear, but there exist some records of the religious institutions present in the days between the [Tides](Glossary.md#the-tides) and the establishment of the [Citadel](Glossary.md#the-citadel-of-markor). Recovered holy texts speak of sacraments made and promises broken on pain of death, and of the mandatory persecution of non-adherents.
+> There is naturally a taboo surrounding the use of [Vows](Glossary.md#vows) to enforce religious tenets. The origins of this taboo are unclear, but there exist some records of the religious institutions present in the days between the [Tides](Glossary.md#the-tides) and the establishment of the [Citadel](Glossary.md#citadel). Recovered holy texts speak of sacraments made and promises broken on pain of death, and of the mandatory persecution of non-adherents.
 > 
 > Of the faiths that survive from those days, such as the Covenant of Flame, none extant today enforce [Vows](Glossary.md#vows) upon their members.
 > 
@@ -47,13 +47,13 @@ _**Vows by the Sea: Inheritance**_ is a [Book](Books.md).
 > 
 > So, having stated the relevant background information, I posit that the [Aspects](Glossary.md#aspects) of [Lumen](Glossary.md#lumen) are the result of a [Hereditary Vow](Glossary.md#hereditary-vow). Supposing that a Vow was able to bestow upon the Gremor a preternatural ability such as Navae’s guidance, I believe that as a matter of course another Vow made long in the past may have originally bestowed the traits that the [Aspects](Glossary.md#aspects) of [Lumen](Glossary.md#lumen) exhibit today.
 > 
-> Free of the taboo of Religious [Vows](Glossary.md#vows), the animal worship of our ancestors gave way to an attribution of the traits of the animals worshipped as tenets of the [Vow](Glossary.md#vows). In the urging of the [Vow’s](Glossary.md#vows) adherents to emulate the traits of sacred animals in their actions (e.g. in the case of Canor, the loyalty of a wolf), they were physically granted the traits of said animals as the [Vow](Glossary.md#vows) was brought into fruition.
+> Free of the taboo of Religious [Vows](Glossary.md#vows), the animal worship of our ancestors gave way to an attribution of the traits of the animals worshipped as tenets of the [Vow](Glossary.md#vows). In the urging of the [Vow’s](Glossary.md#vows) adherents to emulate the traits of sacred animals in their actions (e.g. in the case of [Canor](Glossary.md#canor), the loyalty of a wolf), they were physically granted the traits of said animals as the [Vow](Glossary.md#vows) was brought into fruition.
 > 
 > This may have happened over some generations - the mechanism of how [Hereditary Vows](Glossary.md#hereditary-vow) are passed on through descendants isn’t fully known yet, but it seems plausible that, just as words are warped through consecutive exchanges, the [Vow’s](Glossary.md#vows) terms naturally evolved to be more explicit in its inclusion of the animal traits.
 > 
-> If [Aspects](Glossary.md#aspects) emerged from [Vows](Glossary.md#vows), we can also suppose that our far-flung ancestors would have had appearances more closely in line with one another. Working backwards, we might suppose that - with the common features shared between the [Aspects](Glossary.md#aspects) - our ancestors may have once resembled the Adret.
+> If [Aspects](Glossary.md#aspects) emerged from [Vows](Glossary.md#vows), we can also suppose that our far-flung ancestors would have had appearances more closely in line with one another. Working backwards, we might suppose that - with the common features shared between the [Aspects](Glossary.md#aspects) - our ancestors may have once resembled the [Adret](Glossary.md#adret).
 > 
-> This is of course a matter of some dispute as, were the Adret a 'vowless' [Aspects](Glossary.md#aspects), they would have been 'bred out' over the generations due to [Vows](Glossary.md#vows) taking precedence. It’s possible that some trait of the Adret was not shared by our common ancestors, and that that is why they continue to exist today.
+> This is of course a matter of some dispute as, were the [Adret](Glossary.md#adret) a 'vowless' [Aspects](Glossary.md#aspects), they would have been 'bred out' over the generations due to [Vows](Glossary.md#vows) taking precedence. It’s possible that some trait of the [Adret](Glossary.md#adret) was not shared by our common ancestors, and that that is why they continue to exist today.
 
 ## Trivia
 

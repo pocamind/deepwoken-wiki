@@ -1,6 +1,6 @@
 ---
 title: Strange Missives
-revid: 206838
+revid: 213164
 source: https://deepwoken.fandom.com/wiki/Strange_Missives
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books, The Moonlit Faith]
@@ -50,7 +50,7 @@ Strange Missives
 > 
 > We ask for more caution when selecting those to represent the beest of th'armati.
 > 
-> \- [Thalassis](Glossary.md#thalassis--the-acolyte), our confessor's Acolyte.
+> \- [Thalassis](Glossary.md#thalassis), our confessor's Acolyte.
 > 
 > \------------
 > 

@@ -1,9 +1,11 @@
 ---
 title: Deep Shrines/Shrine of Solitude
-revid: 199642
+revid: 213175
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Solitude
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, Mechanics]
+categories: [Cut Content, NPCs, Mechanics]
+notices:
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # Deep Shrines/Shrine of Solitude
@@ -14,17 +16,13 @@ categories: [Pathfinder Exclusive, NPCs, Mechanics]
 
 **If your looking for another shrine return to [Deep Shrines](../Deep_Shrines.md) or head to [Navigation](#navigation).**
 
-**[Pathfinder](../Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
-
 “ Won't you share with me your thoughts? Solitude need not be prolonged. ”
 
 ― Shrine Of Solitude
 
 ## Description
 
-Located in [Trial of One](../Trial_of_One.md), [Temple of Hearts](../Temple_of_Hearts.md) and [The Diluvian Mechanism](../The_Diluvian_Mechanism.md) on the opposite wall of the entrance.
+Was located in [Trial of One](../Trial_of_One.md), [Temple of Hearts](../Temple_of_Hearts.md) and [The Diluvian Mechanism](../The_Diluvian_Mechanism.md) on the opposite wall of the entrance.
 
 ## Usage and Effect
 
@@ -80,7 +78,7 @@ If the player is in [Trial of One](../Trial_of_One.md) and is not [Lone Warrior]
 
 ## Trivia
 
--   The Shrine of Solitude functions identically to removed [Mystics](../Mystic.md).
+-   The Shrine of Solitude functioned identically to [Mystics](../Mystic.md).
 
 ## Navigation
 

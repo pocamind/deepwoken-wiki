@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 211333
+revid: 213176
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -36,7 +36,7 @@ Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) while wearing a 
 -   The highest-ranking field personnel of the [Divers](#the-divers), granted oversight and authority second only to the Administrators of Operating Bases.
 -   Black Divers have all descended beyond the [First Layer](#scyphozia-the-first-layer) on solo expeditions and have lived to tell the tale. As such, every Black Diver stands as a formidable individual, with many of their rank consisting of the most brilliant (and twisted) minds of the era.
 
-Dialogue: [Akira](Akira.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) | Books: [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) | Glossary Entries:
+Dialogue: [Akira](Akira.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) | Books: [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>), [Diver's Journal: Journeyman Skeli](<Diver's_Journal%253A_Journeyman_Skeli.md>), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) | Glossary Entries:
 
 ### The Celestials
 
@@ -84,7 +84,7 @@ Dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Chaser](Chaser,_Scholar_of_t
 -   A [Drowned God](#the-drowned-gods) said to preside over Wind.
 -   Their gales are said to drag even Time itself into their wake.
 
-Dialogue: [Aeroaseluniris Oricalum Forentus](Aeroaseluniris_Oricalum_Forentus.md), [Aesalath Kalafrid](Aezeroth_Kaladin.md), [Alpha](Alpha.md), [C'lantaa](<C'lantaa.md>), [Carrion](Carrion,_Father_of_Evolution.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [F'leche](<F'leche.md>), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Naerotiv](Naerotiv.md) | Books: | Glossary Entries: [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [Raeva](#raeva), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer)
+Dialogue: [Aeroaseluniris Oricalum Forentus](Aeroaseluniris_Oricalum_Forentus.md), [Aesalath Kalafrid](Aezeroth_Kaladin.md), [Alpha](Alpha.md), [C'lantaa](<C'lantaa.md>), [Carrion](Carrion,_Father_of_Evolution.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [F'leche](<F'leche.md>), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Naerotiv](Naerotiv.md) | Books: | Glossary Entries: [Kyrsan / Kyrsgarde](#kyrsan--kyrsgarde), [Raeva](#raeva), [The City of New Kyrsa](#the-city-of-new-kyrsa), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer)
 
 -   Thought to preside over the [Second Layer](#the-eternal-gale-the-second-layer), granting it the moniker of 'The Eternal Gale'.
 
@@ -92,7 +92,7 @@ Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md)
 
 ### The High Convocation
 
--   The leadership body of the [Citadel](#the-citadel-of-markor) of Markor, the [High Convocation](#the-high-convocation) is a council of retired senior staff drawn from the Citadel's various divisions.
+-   The leadership body of the [Citadel of Markor](#the-citadel-of-markor), the [High Convocation](#the-high-convocation) is a council of retired senior staff drawn from the Citadel's various divisions.
 -   Members of the [High Convocation](#the-high-convocation) are known as [Convocants](#the-high-convocation).
 
 Dialogue: | Books: [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>), [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) | Glossary Entries: [The Citadel of Markor](#the-citadel-of-markor), [The High Convocation](#the-high-convocation)
@@ -123,7 +123,7 @@ Dialogue: [The Gaunt Man](The_Gaunt_Man.md)
 
 -   The strange inhabitants of the [Eternal Gale](#the-eternal-gale-the-second-layer). In contrast to the ferocious beasts that stalk its wastes, the [Kyrsans](#kyrsan) dwell in small villages sheltered from the gale.
 
-Dialogue: [??? (Scion Caller)](<%253F%253F%253F_(Scion_Caller).md>), [Amenre Skiggle Bop](Amenre_Skiggle_Bop.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [C'lantaa](<C'lantaa.md>), [Kaide](Kaide,_the_Drowned_Light.md), [Mendacia](Mendacia.md), [Misérables](Misérables.md), [Naerotiv](Naerotiv.md), [Okumay](Okumay.md) | Books: [Diver Journal, I](#diver-journal-i) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kaide, the Drowned Light](#kaide-the-drowned-light), [Kyrsan / Kyrsgarde](#kyrsan), [Raeva](#raeva)
+Dialogue: [??? (Scion Caller)](<%253F%253F%253F_(Scion_Caller).md>), [Amenre Skiggle Bop](Amenre_Skiggle_Bop.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [C'lantaa](<C'lantaa.md>), [Kaide](Kaide,_the_Drowned_Light.md), [Mendacia](Mendacia.md), [Misérables](Misérables.md), [Naerotiv](Naerotiv.md), [Okumay](Okumay.md) | Books: [Diver Journal, I](Diver_Journal,_I.md), [Diver's Journal: Apprentice Azel](<Diver's_Journal%253A_Apprentice_Azel.md>) | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Kaide, the Drowned Light](#kaide-the-drowned-light), [Kyrsan / Kyrsgarde](#kyrsan), [Raeva](#raeva)
 
 -   According to [Kaide](#kaide-the-drowned-light), the ruins within the [Second Layer](#the-eternal-gale-the-second-layer) are neither of [Celestial](#the-celestials) or Human make, having been constructed by the [Kyrsans](#kyrsan--kyrsgarde).
 -   [Kaide](#kaide-the-drowned-light) suggested that the [Second Layer](#the-eternal-gale-the-second-layer) may once have been the [Kyrsan](#kyrsan--kyrsgarde) world before it was consumed by the [Depths](#the-depths).
@@ -167,7 +167,7 @@ Dialogue: [Jeremiah](Jeremiah.md) when giving an [Idol of Yun'Shul](<Idol_of_Yun
 
 ### The Submergence of Celtor
 
--   In the year 904 CE, the Celtorian capital, the Great [City of Celtor](#the-drowned-city-of-celtor), was devastated and sunk by a colossal sea monster known only as the 'Celtorian Horror'.
+-   In the year 904 CE, the Celtorian capital, the Great [City of Celtor](#city-of-celtor), was devastated and sunk by a colossal sea monster known only as the 'Celtorian Horror'.
 -   Following the submergence of Celtor, much of the rest of the [Southern Luminant](#the-southern-luminant) was pulled under the waves and consumed by the [Voidsea](#the-voidsea).
 
 Dialogue: | Books: [Children of the Aftertide I](Children_of_the_Aftertide.md#vol-1) | Glossary Entries: [The Drowned City of Celtor](#the-drowned-city-of-celtor), [The Southern Luminant](#the-southern-luminant)
@@ -178,25 +178,41 @@ Dialogue: [Celtorian Guard](Celtorian_Guard.md)
 
 ## Factions
 
+### The Adretian Empire
+
+-   One of the first major powers to arise in the early days of the [Resurgence](#the-resurgence), the formerly isolated [Adret](#adret) were spurred on by a desire to correct the mistakes of the outside world.
+-   Presided over by a dynasty of [Adretian](#adretian) Emperors, their line was brought to an end by the Godstorm.
+-   Subduing the Godstorm, [Drallis Ehr](#drallis-ehr) ascended through popular support and became its [Sovereign](#sovereign).
+-   Heading a coalition of nations, the Adretian Empire was subsumed into the [Central Authority](#the-central-authority).
+
+Dialogue: | Books: | Glossary Entries: [Adret / Adretian](#adret--adretian), [The Central Authority](#the-central-authority), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
+
 ### The Central Authority
 
--   The predominant military and political force within the [Central Authority](#the-central-authority), and perhaps even across all of [Lumen](#lumen).
--   Built upon the foundations of the Adretian Empire who headed the coalition of nations that came together to found the [Central Authority](#the-central-authority) in 65 BCE.
--   The [Central Authority's](#the-central-authority) stated goal is to unify all of the world under one banner in a bid to present a united front against the [Depths](#the-depths).
--   To many, and indeed to those they have conquered, the [Central Authority](#the-central-authority) is an empire all the same.
+-   The predominant military and political force within the Central Authority, and perhaps even across all of [Lumen](#lumen).
+-   Built upon the foundations of the [Adretian Empire](#the-adretian-empire) who headed the coalition of nations that came together to found the Central Authority in 65 BCE.
+-   The Central Authority's stated goal is to unify all of the world under one banner in a bid to present a united front against the [Depths](#the-depths).
+-   To many, and indeed to those they have conquered, the Central Authority is an empire all the same.
 -   Despite their imperial proclivities, they are the primary funders of expeditions into the [Depths](#the-depths) by the [Divers](#the-divers) and the Ignition Union.
--   The [Central Authority](#the-central-authority) is helmed by the [Sovereign](#the-sovereign-drallis-ehr) [Drallis Ehr](#the-sovereign-drallis-ehr) and his Council. An immortal, the [Sovereign](#the-sovereign-drallis-ehr) has been the head of state for the [Central Authority](#the-central-authority) since its inception.
+-   The [Central Authority](#the-central-authority) is helmed by the [Sovereign](#sovereign) [Drallis Ehr](#drallis-ehr) and his Council. An immortal, the [Sovereign](#sovereign) has been the head of state for the Central Authority since its inception.
 
-Dialogue: [Akira](Akira.md), [Alpha](Alpha.md), [Amara](Amara.md), [Beiruul](Beiruul.md), [Blade Temple Guard](Blade_Temple_Guard.md), [Caitus](Caitus.md), [Calamus](Calamus.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Captain Trist](Captain_Trist.md), [Chud Steel](Chud_Steel.md), [Dapple-Horned Besul](Dapple-Horned_Besul.md), [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md), [Etrean Guard](Etrean_Guard.md), [Evengarde Rest](Evengarde_Rest.md), [Galpin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), [Hector](Hector.md), [Joshua](Joshua.md), [Joshua (Vow of Iron)](<Joshua_(Vow_of_Iron).md>), [Kelsius](Kelsius.md), [Kressa](Kressa.md), [Lysander Spellhardt](Lysander_Spellhardt.md), [Milgram](Milgram.md), [Neophyte Jefferson](Neophyte_Jefferson.md), [Nimea](Nimea.md), [Peipre](Peipre.md), [Quiet Stranger](Quiet_Stranger.md), [Sachan Shisui Kobura](Sachan_Shisui_Kobura.md), [Sachan Zaru Ganba](Sachan_Zaru_Ganba.md), [Scope](Scope.md), [Sentinel Augustus](Sentinel_Augustus.md), [Stock](Stock.md), [Windrunner](Windrunner.md) | Books: [Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>), [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>), [The Gideshu March](The_Gideshu_March.md) | Glossary Entries: [The Central Authority](#the-central-authority), [The Central Luminant](#the-central-luminant), [The Citadel of Markor](#the-citadel-of-markor)
+Dialogue: [Akira](Akira.md), [Alpha](Alpha.md), [Amara](Amara.md), [Beiruul](Beiruul.md), [Blade Temple Guard](Blade_Temple_Guard.md), [Caitus](Caitus.md), [Calamus](Calamus.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Captain Trist](Captain_Trist.md), [Chud Steel](Chud_Steel.md), [Dapple-Horned Besul](Dapple-Horned_Besul.md), [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md), [Etrean Guard](Etrean_Guard.md), [Evengarde Rest](Evengarde_Rest.md), [Galpin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), [Hector](Hector.md), [Joshua](Joshua.md), [Joshua (Vow of Iron)](<Joshua_(Vow_of_Iron).md>), [Kelsius](Kelsius.md), [Kressa](Kressa.md), [Lysander Spellhardt](Lysander_Spellhardt.md), [Milgram](Milgram.md), [Neophyte Jefferson](Neophyte_Jefferson.md), [Nimea](Nimea.md), [Peipre](Peipre.md), [Quiet Stranger](Quiet_Stranger.md), [Sachan Shisui Kobura](Sachan_Shisui_Kobura.md), [Sachan Zaru Ganba](Sachan_Zaru_Ganba.md), [Scope](Scope.md), [Sentinel Augustus](Sentinel_Augustus.md), [Stock](Stock.md), [Windrunner](Windrunner.md) | Books: [Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>), [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>), [The Gideshu March](The_Gideshu_March.md) | Glossary Entries: [Adret / Adretian](#adret--adretian), [Canor](#canor), [The Adretian Empire](#the-adretian-empire), [The Central Luminant](#the-central-luminant), [The Citadel of Markor](#the-citadel-of-markor)
 
 ### The Citadel of Markor
 
 -   Perhaps the most prominent research organization in [Lumen](#lumen), the Citadel pride themselves as the foremost keepers of knowledge, history, and research into [Lumen](#lumen) and the surrounding [Depths](#the-depths).
--   The Citadel receives the majority of its funding from the [Central Authority](#the-central-authority), a contribution that the [Authority](#the-central-authority) claims falls in line with their desire for global unity, and for a united front against the [Depths](#the-depths).
+-   The Citadel receives the majority of its funding from the [Central Authority](#the-central-authority), a contribution that the [Authority](#authority) claims falls in line with their desire for global unity, and for a united front against the [Depths](#the-depths).
 -   The organization is led by the [High Convocation](#the-high-convocation), a council of the Citadel's seniority.
 -   The widely used epoch of 'CE' in dates refers to 'Citadel Era', i.e. the years since the foundation of the Citadel.
 
-Dialogue: [Alpha](Alpha.md), [Carrion](Carrion,_Father_of_Evolution.md), [Galpin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), [Karliah](Karliah.md), [Sachan Shisui Kobura](Sachan_Shisui_Kobura.md), [Santen](Santen.md) | Books: [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>), [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [The Divers](#the-divers), [The High Convocation](#the-high-convocation), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
+Dialogue: [Alpha](Alpha.md), [Carrion](Carrion,_Father_of_Evolution.md), [Galpin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), [Karliah](Karliah.md), [Sachan Shisui Kobura](Sachan_Shisui_Kobura.md), [Santen](Santen.md) | Books: [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>), [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [The Divers](#the-divers), [The High Convocation](#the-high-convocation), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr), [The Resurgence](#the-resurgence)
+
+### The Divers
+
+-   An expeditionary organisation stemming from the [Citadel of Markor](#the-citadel-of-markor) that conduct routine expeditions into the [Depths](#the-depths) in order to gather research, materials, and eliminate emergent threats.
+-   Though seen as a noble profession by many, the survival rate of Apprentice Divers is staggeringly low.
+
+Dialogue: [Abandoned Diver](<Abandoned_Diver_(Journeyman_Skeli).md>), [Adrofalis](Adrofalis.md), [Akira](Akira.md), [Alina Sokolof](Alina_Sokolof.md), [Alpha](Alpha.md), [Carrion](Carrion,_Father_of_Evolution.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Karliah](Karliah.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Sarkale](Sarkale.md), [Vtreshi](Vtreshi.md) | Books: [Diver Journal, I](Diver_Journal,_I.md), [Diver's Journal: Apprentice Azel](<Diver's_Journal%253A_Apprentice_Azel.md>), [Diver's Journal: Journeyman Skeli](<Diver's_Journal%253A_Journeyman_Skeli.md>), [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) | Glossary Entries: [Castle Light](#castle-light), [Lighthook](#lighthook), [Radiant Tones](#radiant-tones), [The Central Authority](#the-central-authority)
 
 ### The Old Stewards
 
@@ -234,12 +250,12 @@ Dialogue: | Books: [Strange Missives](Strange_Missives.md) | Glossary Entries: [
 
 ### The Sovereign Drallis Ehr
 
--   An ageless Adretian man, the [Sovereign](#the-sovereign-drallis-ehr) has been the supreme ruler of the [Central Authority](#the-central-authority) since its inception.
--   The histories recount that [Drallis Ehr](#the-sovereign-drallis-ehr) became a hero in the Adretian Empire by dispelling the Godstorm that had brought the nation to its knees, bringing peace to its people. With the Adretian Emperor and his line having fallen into the Godstorm, Drallis took the reins and spearheaded the coalition that would become the [Central Authority](#the-central-authority).
--   Beyond the histories told by the [Citadel](#the-citadel-of-markor), little is known about the man himself. His identity is one of the most enduring mysteries of the era.
--   Some skeptics believe that the identity of the [Sovereign](#the-sovereign-drallis-ehr) is actually passed down in secret, and that the supposed immortality of its ruler is propaganda designed to suppress resistance.
+-   An ageless [Adretian](#adretian) man, the [Sovereign](#sovereign) has been the supreme ruler of the [Central Authority](#the-central-authority) since its inception.
+-   The histories recount that Drallis Ehr became a hero in the [Adretian Empire](#the-adretian-empire) by dispelling the Godstorm that had brought the nation to its knees, bringing peace to its people. With the [Adretian](#adretian) Emperor and his line having fallen into the Godstorm, Drallis took the reins and spearheaded the coalition that would become the [Central Authority](#the-central-authority).
+-   Beyond the histories told by the [Citadel](#citadel), little is known about the man himself. His identity is one of the most enduring mysteries of the era.
+-   Some skeptics believe that the identity of the [Sovereign](#sovereign) is actually passed down in secret, and that the supposed immortality of its ruler is propaganda designed to suppress resistance.
 
-Dialogue: [Chud Steel](Chud_Steel.md), [Sentinel Augustus](Sentinel_Augustus.md), [Warden Jericho](Warden_Jericho.md) | Books: [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md) | Glossary Entries: [The Central Authority](#the-central-authority), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
+Dialogue: [Chud Steel](Chud_Steel.md), [Sentinel Augustus](Sentinel_Augustus.md), [Warden Jericho](Warden_Jericho.md) | Books: [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md) | Glossary Entries: [The Adretian Empire](#the-adretian-empire), [The Central Authority](#the-central-authority), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
 
 ### Jurik, the Moonseye
 
@@ -551,7 +567,41 @@ Dialogue: [Azurath](Azurath.md), [Samael](Samael.md), [Soothsayer](Soothsayer.md
 
 Dialogue: [Samael](Samael.md)
 
+## People
+
+### Adret / Adretian
+
+-   The [Adret](#adret) are an odd-one-out among other [Aspects](#aspects), as their [Aspect](#aspects) does not grant them the qualities of any animals, but rather that of the mountains their ancestors called home. Their skin is typically a bluish-grey in hue.
+-   [Adretian](#adretian) culture adheres to a concept of a chosen path in life, known as a 'Maudet'.
+-   Supposedly hailing from a mountainous region before the coming of the [Tides](#the-tides), the Adret people consisted of a smattering of tribes and kingdoms isolated by their rugged landscape. As the [Tides](#the-tides) rose, the rest of the world opened up to the Adret, allowing them to expand and subdue their neighbours, thus forming the [Adretian Empire](#the-adretian-empire). Over time, the Empire formed a coalition with multiple other nations, becoming the [Central Authority](#the-central-authority).
+-   Lending to their history, the Adret have a reputation as bureaucrats and government officials.
+
+Dialogue: | Books: [The Gideshu March](The_Gideshu_March.md), [The Hammer's Call](<The_Hammer's_Call.md>), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Adret / Adretian](#adret--adretian), [The Adretian Empire](#the-adretian-empire), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
+
+### Canor
+
+-   An [Aspect](#aspects) with canine features and lion-like strength, often sporting a mane of hair on their head. Culturally, many Canor wear a form of eyeshadow in striking colours.
+-   They are known for their fierce loyalty, and frequently for their ferocity and combat prowess - lending them a reputation as powerful warriors. Often found as guards, generals, and loyal servants of the powerful.
+-   Historically, various Canor kingdoms and polities were subsumed and incorporated into the [Central Authority](#the-central-authority), and its predecessor empires. As a result, many Canor have adopted positions within its councils of governance.
+
+Dialogue: | Books: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries:
+
+### Pathfinders
+
+-   Those that make a living by exploring ruins and driftlands.
+-   Many are scavengers looking to fence the treasures they find, though there are many ways to turn a profit.
+
+Dialogue: [Beiruul](Beiruul.md), [Braun](Braun.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Disciple Gobletto](Disciple_Gobletto.md), [Forgotten Villager](Forgotten_Villager.md), [Neero](Neero.md), [Nimea](Nimea.md), [Roa](Roa.md), [Sarbu](Sarbu.md), [Seroth](Seroth.md), [Teacher](Teacher.md) | Books: [Archivist Journal: 'Megalodaunt'](<Archivist_Journal%253A_'Megalodaunt'.md>), [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>) | Glossary Entries:
+
 ## Time Periods
+
+### Aftertide / New World
+
+-   The years following the [Tides](#the-tides) and the death of the [Old World](#the-old-world).
+-   The chaotic beginning of this period is known as the [Shallows](#the-shallows).
+-   With mankind adapting to the New World, the [Resurgence](#the-resurgence) began.
+
+Dialogue: | Books: [Children of the Aftertide I](Children_of_the_Aftertide.md#vol-1) | Glossary Entries:
 
 ### The Canticlysm
 
@@ -565,20 +615,21 @@ Dialogue: [Celestial Telescope](Greathive_Aratel.md#observatory-2), [Ploom](Ploo
 -   The times before the [Tides](#the-tides) arrived.
 -   The [Canticlysm](#the-canticlysm) is often thought of as the defining era of the [Old World](#the-old-world).
 
-Dialogue: [Adrofalis](Adrofalis.md), [Bookkeeper Andros](Bookkeeper_Andros.md), [Regek](Regek.md) | Books: [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>), [Children of the Aftertide I](Children_of_the_Aftertide.md#vol-1), [Coldheart's Journal](<Coldheart's_Journal.md>), [Lumen's Folklore: Volume 'North'](<Lumen's_Folklore.md#volume-north>), [Our Fortress (Of Smoke And Steel)](<Our_Fortress_(Of_Smoke_And_Steel).md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [The Luminants](#the-luminants), [The Old Stewards](#the-old-stewards), [The Old World](#the-old-world)
+Dialogue: [Adrofalis](Adrofalis.md), [Bookkeeper Andros](Bookkeeper_Andros.md), [Regek](Regek.md) | Books: [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>), [Children of the Aftertide I](Children_of_the_Aftertide.md#vol-1), [Coldheart's Journal](<Coldheart's_Journal.md>), [Lumen's Folklore: Volume 'North'](<Lumen's_Folklore.md#volume-north>), [Our Fortress (Of Smoke And Steel)](<Our_Fortress_(Of_Smoke_And_Steel).md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [The Aftertide / New World](#the-aftertide--new-world), [The Luminants](#the-luminants), [The Old Stewards](#the-old-stewards), [The Old World](#the-old-world)
 
 ### The Resurgence
 
 -   The current period of history, usually dated around the fifth century BCE with mankind's adaptation to the new state of the world.
+-   The current epoch 'CE' used in dates refers to the establishment of the [Citadel of Markor](#the-citadel-of-markor).
 
-Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md) | Books: | Glossary Entries: [Vows](#vows)
+Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md) | Books: | Glossary Entries: [The Adretian Empire](#the-adretian-empire), [The Aftertide / New World](#the-aftertide--new-world), [Vows](#vows)
 
 ### The Shallows
 
 -   The period of history following the [Canticlysm](#the-canticlysm) in which technology and knowledge rapidly dwindled, ushering in a dark period of history in which little is recorded.
 -   Pushed to the very peaks of the world, mankind died in its droves to famine, conflict, and the horrors of the [Depths](#the-depths) that emerged with the [Tides](#the-tides).
 
-Dialogue: | Books: [Tale of the Storm](Tale_of_the_Storm.md) | Glossary Entries:
+Dialogue: | Books: [Tale of the Storm](Tale_of_the_Storm.md) | Glossary Entries: [The Aftertide / New World](#the-aftertide--new-world)
 
 ## Phenomena
 
@@ -587,7 +638,7 @@ Dialogue: | Books: [Tale of the Storm](Tale_of_the_Storm.md) | Glossary Entries:
 -   All living humans possess an 'Aspect', a peculiar trait that is passed down through the generations.
 -   Many Aspects cause their inheritor to take on the traits of a particular animal. Rarely, Aspects can take on the traits of something more abstract.
 
-Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) | Books: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Hereditary Vow](#hereditary-vow)
+Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) | Books: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Adret / Adretian](#adret--adretian), [Canor](#canor), [Hereditary Vow](#hereditary-vow)
 
 -   Steward Bridges posited in his work '[Vows](#vows) by the Sea: Inheritance' that the Aspects of [Lumen](#lumen) may be the result of a [Hereditary Vow](#hereditary-vow).
 -   Bridges suggested that the traits of the Aspects could be the result of early worship of animals or of the land.
@@ -615,7 +666,7 @@ Dialogue: | Books: [Coldheart's Journal](<Coldheart's_Journal.md>) | Glossary En
 -   The times since the Tides began are often referred to as 'The Aftertide', or as being 'Post-Tidal'.
 -   It is important to understand that the Tides are _not_ a historical event. They are an ongoing calamity, as [Lumen](#lumen) continues to slip further and further into the [Depths](#the-depths) below.
 
-Dialogue: [Alpha](Alpha.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Raphael](Raphael.md) | Books: [Children of the Aftertide I](Children_of_the_Aftertide.md#vol-1), [Coldheart's Journal](<Coldheart's_Journal.md>), [Lumen's Folklore: Volume 'North'](<Lumen's_Folklore.md#volume-north>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Tale of the Storm](Tale_of_the_Storm.md), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [The Celestials](#the-celestials), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Old Dead](#the-old-dead), [The Old World](#the-old-world), [The Shallows](#the-shallows) [The Song](#the-song), [The Voidsea](#the-voidsea)
+Dialogue: [Alpha](Alpha.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Raphael](Raphael.md) | Books: [Children of the Aftertide I](Children_of_the_Aftertide.md#vol-1), [Coldheart's Journal](<Coldheart's_Journal.md>), [Lumen's Folklore: Volume 'North'](<Lumen's_Folklore.md#volume-north>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Tale of the Storm](Tale_of_the_Storm.md), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Adret / Adretian](#adret--adretian), [The Aftertide / New World](#the-aftertide--new-world), [The Celestials](#the-celestials), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Old Dead](#the-old-dead), [The Old World](#the-old-world), [The Shallows](#the-shallows) [The Song](#the-song), [The Voidsea](#the-voidsea)
 
 ## Places
 
@@ -746,7 +797,11 @@ Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Carag
 
 Dialogue: [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Mendacia](Mendacia.md), [Naerotiv](Naerotiv.md) | Books: | Glossary Entries: [Kaide, the Drowned Light](#kaide-the-drowned-light), [The Eternal Gale, the Second Layer](#the-eternal-gale-the-second-layer)
 
--   Some refer to New Kyrsa as 'Ethiron's Bedchamber'.
+-   The city and its inhabitants appear to be caught in some form of loop, perhaps a consequence of [Ethiron's](#ethiron-the-maelstroms-eye) proximity.
+
+Dialogue: Speak to [Carrion](Carrion,_Father_of_Evolution.md) and then defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
+
+-   Some refer to New Kyrsa as '[Ethiron's](#ethiron-the-maelstroms-eye) Bedchamber'.
 
 Dialogue: [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
@@ -783,7 +838,7 @@ Dialogue: [Kaide](Kaide,_the_Drowned_Light.md)
 
 ### The Southern Luminant
 
--   Formerly home to the [City of Celtor](#the-drowned-city-of-celtor) before its Submergence.
+-   Formerly home to the [City of Celtor](#city-of-celtor) before its Submergence.
 -   Following the [Submergence of Celtor](#the-submergence-of-celtor), much of the Southern Luminant was pulled under the waves and consumed by the [Voidsea](#the-voidsea).
 -   The Southern Luminant is by most accounts uninhabited, though some say that scattered remnants of the islanders who once lived there still haunt its ruins.
 
@@ -831,13 +886,6 @@ Dialogue: [Cestis](Cestis.md), [Chud Steel](Chud_Steel.md) | Books: | Glossary E
 
 ## Terminology
 
-### The Divers
-
--   An expeditionary organisation stemming from the [Citadel](#the-citadel-of-markor) of Markor that conduct routine expeditions into the [Depths](#the-depths) in order to gather research, materials, and eliminate emergent threats.
--   Though seen as a noble profession by many, the survival rate of Apprentice Divers is staggeringly low.
-
-Dialogue: [Abandoned Diver](<Abandoned_Diver_(Journeyman_Skeli).md>), [Adrofalis](Adrofalis.md), [Akira](Akira.md), [Alina Sokolof](Alina_Sokolof.md), [Alpha](Alpha.md), [Carrion](Carrion,_Father_of_Evolution.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Karliah](Karliah.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Sarkale](Sarkale.md), [Vtreshi](Vtreshi.md) | Books: [Diver Journal, I](Diver_Journal,_I.md), [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) | Glossary Entries: [Castle Light](#castle-light), [Lighthook](#lighthook), [Radiant Tones](#radiant-tones), [The Central Authority](#the-central-authority)
-
 ### The Moonlit Dialect
 
 -   The native dialect of the [Lullaby Isles](#the-lullaby-isles), scarcely found outside of its walls.
@@ -846,13 +894,6 @@ Dialogue: [Abandoned Diver](<Abandoned_Diver_(Journeyman_Skeli).md>), [Adrofalis
 -   ['Aecta'](#the-moonlit-dialect) (plural 'Aecti') refers to a Chrysid who lives natively within the [Lullaby Isles](#the-lullaby-isles).
 
 Dialogue: [Liviu](Liviu.md), Any NPC stating a [Chrysid](Chrysid.md) players' name with the surname "Aecta" or "Aecti" | Books: [Ossuary Maintenance](Ossuary_Maintenance.md), [Strange Missives](Strange_Missives.md) | Glossary Entries:
-
-### Pathfinders
-
--   Those that make a living by exploring ruins and driftlands.
--   Many are scavengers looking to fence the treasures they find, though there are many ways to turn a profit.
-
-Dialogue: [Beiruul](Beiruul.md), [Braun](Braun.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Disciple Gobletto](Disciple_Gobletto.md), [Forgotten Villager](Forgotten_Villager.md), [Neero](Neero.md), [Nimea](Nimea.md), [Roa](Roa.md), [Sarbu](Sarbu.md), [Seroth](Seroth.md), [Teacher](Teacher.md) | Books: [Archivist Journal: 'Megalodaunt'](<Archivist_Journal%253A_'Megalodaunt'.md>), [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>) | Glossary Entries:
 
 ### Talent
 

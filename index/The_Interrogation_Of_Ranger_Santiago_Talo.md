@@ -1,6 +1,6 @@
 ---
 title: The Interrogation Of Ranger Santiago Talo
-revid: 206859
+revid: 213170
 source: https://deepwoken.fandom.com/wiki/The_Interrogation_Of_Ranger_Santiago_Talo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -88,7 +88,7 @@ The Interrogation Of Ranger Santiago Talo
 > 
 > RNGR: The thresher clamped down onto my arm, but Ranger Emirad dealt the killing blow to the beast moments after. The others were uninjured. The surgeons told me that the crushing force broke several bones, but I was still capable of completing our assignment.
 > 
-> CMDR: How resolute of you. Should we clap? Should the [High Convocation](Glossary.md#the-high-convocation) throw you a party? Should we invite [Drallis Ehr](Glossary.md#the-sovereign-drallis-ehr)? You're lucky you did not lose your arm, you --
+> CMDR: How resolute of you. Should we clap? Should the [High Convocation](Glossary.md#the-high-convocation) throw you a party? Should we invite [Drallis Ehr](Glossary.md#drallis-ehr)? You're lucky you did not lose your arm, you --
 > 
 > //\[REDACTED\]// \[commander reasonably displeased\]
 > 
@@ -140,7 +140,7 @@ The Interrogation Of Ranger Santiago Talo
 > 
 > CMDR: I will not hear it. Your orders were clear. You've already admitted your insubordination. Nevertheless...
 > 
-> Up until this point, our intel on the Landfall was incredibly limited. Even though your reckless actions were idiotic, the information gleaned by your unit will likely be of interest to High Command. Although your punishment will not be in my power, I will strongly recommend your assignment to sanitation duties at the [Citadel](Glossary.md#the-citadel-of-markor) for two weeks. However, as a former Ranger myself, it occurs to me you may be suffering from maladies of the mind. Prolonged exposure to the environment of the [Depths](Glossary.md#the-depths) can impair a [Diver's](Glossary.md#the-divers) judgement and critical thinking abilities. Thus, in my report to High Command, I will also include a recommendation for a week's leave, for recuperation.
+> Up until this point, our intel on the Landfall was incredibly limited. Even though your reckless actions were idiotic, the information gleaned by your unit will likely be of interest to High Command. Although your punishment will not be in my power, I will strongly recommend your assignment to sanitation duties at the [Citadel](Glossary.md#citadel) for two weeks. However, as a former Ranger myself, it occurs to me you may be suffering from maladies of the mind. Prolonged exposure to the environment of the [Depths](Glossary.md#the-depths) can impair a [Diver's](Glossary.md#the-divers) judgement and critical thinking abilities. Thus, in my report to High Command, I will also include a recommendation for a week's leave, for recuperation.
 > 
 > RNGR: I understand. Thank you, Commander.
 > 
@@ -156,7 +156,7 @@ The Interrogation Of Ranger Santiago Talo
 > 
 > RNGR: I see.
 > 
-> CMDR: Under current conditions, it would be too dangerous to risk the lives of our [Divers](Glossary.md#the-divers). We lose too many each year as is, and our recruitment numbers are low at the moment. In my opinion, if we had a forward operating base in [Scyphozia](Glossary.md#scyphozia-the-first-layer), perhaps we could. But as you already know, High Command is intensifying scouting missions in the region for that same reason. These recent... happenings... might start a fire under the seats of the [Convocants](Glossary.md#the-high-convocation), though. Maybe it's about time things got moving.  
+> CMDR: Under current conditions, it would be too dangerous to risk the lives of our [Divers](Glossary.md#the-divers). We lose too many each year as is, and our recruitment numbers are low at the moment. In my opinion, if we had a forward operating base in [Scyphozia](Glossary.md#scyphozia), perhaps we could. But as you already know, High Command is intensifying scouting missions in the region for that same reason. These recent... happenings... might start a fire under the seats of the [Convocants](Glossary.md#convocants), though. Maybe it's about time things got moving.  
 > \--  
 > RNGR: I understand, Commander. Thank you.
 > 

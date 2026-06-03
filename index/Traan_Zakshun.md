@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 213038
+revid: 213177
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -163,7 +163,7 @@ Traan's Salvaged Stock
 
   
 
-Depending on the rotation, he can sell 1 to 4 items at once. Typically, he sells 3 to 4 items each visit.
+Depending on the rotation, he can sell 1 to 8 items at once. Typically, he sells 3 to 6 items each visit.
 
 Traan's item descriptions will change randomly each time he sells goods from his Salvaged Stock:
 
@@ -181,6 +181,7 @@ Traan's item descriptions will change randomly each time he sells goods from his
 -   _I threw the guy I stole this from into the Megalodaunt nest not too far from here. Easiest clean-up ever._
 -   _I stole these from local bandits, by the way._
 -   _I would keep this for my own, you know... Buy my shelves are getting rather full._
+-   _Is it a True Seraph Spear or a True Seraph's Spear? Who even is the True Seraph? Where am I? Who are you?_
 -   _Isn't it weird how there's like, next to no fruit in Erisia? I had to plant my own tree near the shoreline... if you care._
 -   _It's had a little wear and tear, but who cares! Hey, that rhymed a little..._
 -   _It's not overpriced, I swear!_
@@ -195,6 +196,7 @@ Traan's item descriptions will change randomly each time he sells goods from his
 -   _Oh, haha, that's not dust, that's, uhm... an expensive finish, probably a fashion thing._
 -   _Oof, man. Are you sure you can afford this heat?_
 -   _People keep asking for these to be purple? I don't get it._
+-   _Really? That's the best outfit you could come up with?_
 -   _Regahl rega regi.. You pronounce it reg-ah-lee-ah right?_
 -   _Seems like a great deal, huh? But I'm NOT done yet!_
 -   _Seen this one before, you say? No no, in the business, we call that a 'remaster'!_
@@ -217,6 +219,7 @@ Traan's item descriptions will change randomly each time he sells goods from his
 -   _Used to know a guy who made these, you know... What happened to him? Oh, he's fine. He just doesn't make these anymore._
 -   _Use my special offer! You can get TWO items, for the price of one-plus-one item! Isn't that a steal?_
 -   _What's that? Do I have a reegahl... reeg... regi... Reh-gah-lee~ yah? You're talkin' crazy, pal._
+-   _Who's your buddy there behind you?_
 -   _Yes, this is my real name... legally._
 -   _You got any Ongo slices? I could really go for a snack..._
 -   _You know, I'm told that Drallis Ehr guy \*really\* likes this one... If that makes you any more interested?_
@@ -273,7 +276,7 @@ Sold Items
     <li><b>For 500 </b>: <a href="Needle's_Eye.md">Needle's Eye</a></li>
     <li><b>For 650 </b>:
   <ul>
-    <li><b>Medium Weapons</b>: <a href="Falchion.md">Alloyed Falchion</a>, <a href="Scalesplitter.md">Alloyed Scalesplitter</a>, <a href="Rifle_Spear.md">Rifle Spear</a>, <a href="Scoundrel's_Saber.md">Scoundrel's Saber</a></li>
+    <li><b>Medium Weapons</b>: <a href="Falchion.md">Alloyed Falchion</a>, <a href="Scalesplitter.md">Alloyed Scalesplitter</a>, <a href="Rifle_Spear.md">Rifle Spear</a>, <a href="Scoundrel's_Saber.md">Scoundrel's Saber</a>, <a href="Serrated_Warspear.md">Serrated Warspear</a></li>
     <li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></li>
   </ul></li>
     <li><b>For 750 </b>: True Seraph's Spear</li>
@@ -317,7 +320,7 @@ Traan's Black Market Cache
 
   
 
-The black market rotation always has 4 items in stock.
+The black market can have up to 8 items at once with a minimum of 4.
 
 Traan's item descriptions will change randomly each time he sells goods from his Black Market Cache:
 
@@ -354,7 +357,7 @@ Traan's item descriptions will change randomly each time he sells goods from his
 -   _Ohh yeah, this has gotta be one a kind, just look at the uhh... look at it!_
 -   _Okay, you really have to be careful with this._
 -   _Some guy literally walked through a mirror and handed me these, it was the strangest thing..._
--   _Thanks for looking, you know... You could actually buy it._
+-   _Thanks for looking, you know... you could actually buy it._
 -   _The Legendary Boot?.. Pff, good joke pal, I don't sell trash._
 -   _The Moonseye is real beautiful, huh. I never really gave it much thought before... Then again I haven't been here too long._
 -   _This isn't overpriced, it's MY SHOP!_
@@ -395,14 +398,13 @@ Sold Items
   <td>
   <ul>
     <li><b>For 1 </b>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Egg.md">Egg</a>, <a href="Hemobloom.md">Hemobloom</a>, <a href="Plumfruit_Muffin.md">Plumfruit Muffin</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Candle.md">Umbral Candle</a>, <a href="Void_Spire.md">Void Spire</a></li>
-    <li><b>For 2 </b>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Forge_Needle.md">Forge Needle</a>, <a href="Glumfig.md">Glumfig</a>, <a href="Goodie_Bag.md">Goodie Bag</a>, <a href="Broken_Gatling_Gun.md">Broken Gatling Gun</a></li>
+    <li><b>For 2 </b>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Broken_Gatling_Gun.md">Broken Gatling Gun</a>, <a href="Forge_Needle.md">Forge Needle</a>, <a href="Glumfig.md">Glumfig</a>, <a href="Goodie_Bag.md">Goodie Bag</a>,</li>
     <li><b>For 3 </b>: <a href="Smith's_Alloy.md">Smith's Alloy</a></li>
     <li><b>For 4 </b>: <a href="Moonseye_Tome.md">Moonseye Tome</a></li>
-    <li><b>For 5 </b>: <a href="Bluster.md">Bluster</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Gilded_Needle.md">Gilded Needle</a>, <a href="Stone.md">Stone</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Vampirism.md">Vampirism</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Shiva's_Codex.md">Shiva's Codex</a>, <a href="Trickster_Dust.md">Trickster's Dust</a></li>
+    <li><b>For 5 </b>: <a href="Bluster.md">Bluster</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Curse_of_Ysley's_Ember.md">Curse of Ysley's Ember</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Dread_Serpent's_Mane.md">Dread Serpent's Mane</a>, <a href="Dread_Serpent's_Tooth.md">Dread Serpent's Tooth</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Gilded_Needle.md">Gilded Needle</a>, <a href="Shiva's_Codex.md">Shiva's Codex</a>, <a href="Stone.md">Stone</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Trickster_Dust.md">Trickster Dust</a>, <a href="Vampirism.md">Vampirism</a> <a href="Enchant_Stone.md">Enchant Stone</a></li>
     <li><b>For 7 </b>: <a href="Sinner's_Ash.md">Sinner's Ash</a></li>
-    <li><b>For 8 </b>: <a href="Curse_of_Ysley's_Ember.md">Curse of Ysley's Ember</a> <a href="Enchant_Stone.md">Enchant Stone</a></li>
-    <li><b>For 10 </b>: <a href="Astral.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a></li>
-    <li><b>For 100 </b>: <a href="Deepshore_Fossil.md">Deepshore Fossil</a></li>
+    <li><b>For 10 </b>: <a href="Astral.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Crimson_Terrapod_Shell.md">Crimson Terrapod Shell</a></li>
+    <li><b>For 50 </b>: <a href="Champion's_Alloy.md">Champion's Alloy</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -413,7 +415,7 @@ Sold Items
     <li><b>For 3 </b>: <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Frost.md">Hero's Blade of Frost</a>, <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a>, <a href="Hero's_Blade_of_Wind.md">Hero's Blade of Wind</a>, <a href="Wraithclaw.md">Wraithclaw</a></li>
     <li><b>For 4 </b>: <a href="Crypt_Blade.md">Crypt Blade</a>, <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>, <a href="Imperator's_Edge.md">Imperator's Edge</a>, <a href="Red_Death.md">Red Death</a>, <a href="Soulthorn.md">Soulthorn</a>, <a href="Stormseye.md">Stormseye</a></li>
     <li><b>For 10 </b>: <a href="First_Light.md">First Light</a></li>
-    <li><b>For 40 </b>: <a href="Dormant_Splinter.md">Dormant Splinter</a></li>
+    <li><b>For 35 </b>: <a href="Dormant_Splinter.md">Dormant Splinter</a></li>
   </ul></td>
 </tr>
 <tr>

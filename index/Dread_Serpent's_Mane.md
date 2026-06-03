@@ -1,6 +1,6 @@
 ---
 title: "Dread Serpent's Mane"
-revid: 212254
+revid: 213144
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent's_Mane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients, Drops]
@@ -18,7 +18,7 @@ categories: [Items, Ingredients, Drops]
 | droppable | Yes |
 | pass down | No |
 | desc | The mane ripped from a dread serpent, a formidable task indeed. |
-| obtainment | Direct Drop from Dread Serpent |
+| obtainment | Direct Drop from Dread Serpent, Sold in Traan Zakshun's black market for 5 |
 
 ## Description
 
