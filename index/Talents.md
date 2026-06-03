@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 213063
+revid: 213090
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4394,7 +4394,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     
     -   Grants a Talent tool that grants the [Fortified](Status_Effects.md#fortified) status effect, granting 15% damage reduction at the cost of reducing your movement speed by 36%.
 
--   Max Ammo: [Summer Hullwrecker](Summer_Hullwrecker.md) - Landing the cannonball of your critical attack remobes your critical attack's cooldown.
+-   Max Ammo: [Summer Hullwrecker](Summer_Hullwrecker.md) - Landing the cannonball of your critical attack removes your critical attack's cooldown.
+    -   As long as the cannonball lands on the target, this critical can be reused infinitely.
 
 -   Mudskipper Gripper: [Coral Cestus](Coral_Cestus.md) - When executing an opponent with your critical attack, summon [mudskippers](Mudskipper.md) to aid you in battle.
     -   Summons two [Mudskippers](Mudskipper.md). These Mudskippers can be either [Miniskippers](Mudskipper.md) or [Bloatskippers](Mudskipper.md#bloatskipper).

@@ -1,6 +1,6 @@
 ---
 title: Sophon
-revid: 212025
+revid: 213103
 source: https://deepwoken.fandom.com/wiki/Sophon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Content not present in-game", Individuals with He/him pronouns, Characters of unknown living status]

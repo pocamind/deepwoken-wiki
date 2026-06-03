@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 210652
+revid: 213088
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, World Event, Monsters, Bosses]
