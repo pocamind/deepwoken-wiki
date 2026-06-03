@@ -1,9 +1,9 @@
 ---
 title: Aegis Gem
-revid: 204017
+revid: 213126
 source: https://deepwoken.fandom.com/wiki/Aegis_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Treasures, Mantras, Deep Gems, The Vat Exclusive]
+categories: [Treasures, Mantras, Deep Gems, The Vat Exclusive]
 ---
 
 # Aegis Gem
@@ -20,10 +20,6 @@ categories: [Pathfinder Exclusive, Treasures, Mantras, Deep Gems, The Vat Exclus
 | pass down | No |
 | desc | It's unnaturally dense...On hit, grants Aegis, reducing damage by 10% for 10 seconds. (10s CD) |
 | obtainment | The Gaunt Man for 1 Doom of Caeranthil's ScaleVow of Iron:, Mystery Boxes |
-
-**[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 213111
+revid: 213120
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, Equipment, In progress with VOI reason]
@@ -1527,7 +1527,7 @@ _+5% Ironsing Armor_
 
 +1 Rare Pip  
 +2 Legendary Pips  
-_+Talent: [**Defiant until the End**](Talents.md#defiant-until-the-end)_  
+_+Talent: [**Stay of Execution**](Talents.md#stay-of-execution)_  
 **Requires Power 12**
 
  | N/A |

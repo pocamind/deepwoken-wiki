@@ -1,6 +1,6 @@
 ---
 title: Suncross Pendant
-revid: 213105
+revid: 213140
 source: https://deepwoken.fandom.com/wiki/Suncross_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Torso, Necklaces]
@@ -20,7 +20,7 @@ categories: [Pathfinder Exclusive, Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Primadon, Titan of the East, The Depths, Chaser, Scholar of the Crimson Contract |
+| obtainment | Primadon, Titan of the East, The Depths, Chaser, Scholar of the Crimson Contract, Saramaed Hollow |
 | description | A simple golden pendant in the likeness of the Suncross. Revered as a bringer of life and warmth by both Man and Celestial. |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  

@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Gem
-revid: 212938
+revid: 213131
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Deep Gems, Mantras, Treasures]

@@ -1,6 +1,6 @@
 ---
 title: Warped Blue Gem
-revid: 205675
+revid: 213134
 source: https://deepwoken.fandom.com/wiki/Warped_Blue_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems, Relics, Fishing Exclusive]

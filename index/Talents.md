@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 213090
+revid: 213119
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4299,7 +4299,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   Works in PvE, but you cannot have more than 1 PvE combat tag, so it won't be very effective.
 
 -   Belief: [Worshipper Longsword](Worshipper_Longsword.md) - Your [medium weapon mantras](Attunement-less.md#medium-weapon-mantras) \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now deal extra damage based on how much Willpower you have.
-    -   All of your Medium Weapon Mantras gain a second damage instance that scales directly on your Willpower investment. This deals physical damage.
+    -   All of your Medium Weapon Mantras gain a second damage instance that scales directly on your Willpower investment. This deals **true damage**.
     -   This deals 0.15 damage per 1 [Willpower](Attributes.md#wll) investment. At maximum this will deal an additional 15 damage at 100 Willpower.
         -   Having [One With Flame](Flame_Worshipper_Armor.md) active increases Belief's damage by granting it Flamecharm scaling; for every 1 Flamecharm, Belief will gain an additional 0.05 damage, up to +5 damage from Flamecharm investment. Pairing 100 Flamecharm and 100 Willpower will net you +20 damage on your [Medium Weapon Mantras](Attunement-less.md#medium-weapon-mantras).
     -   This effect has no cooldown, allowing your [Master's Flourish](Attunement-less.md#masters-flourish) and [Twincleave](Attunement-less.md#twincleave) to benefit from this effect twice per cast.
@@ -4338,7 +4338,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   Multi-hit criticals do not grant additional stacks.
 
 -   Corporeal Dissolution: [Black Death](Black_Death.md) - Applies [Wither](Status_Effects.md#wither) on any weapon attack that drains Ether, and scales on the amount of Ether drain.
-    -   This is capped at 30 Wither per proc.
+    -   This is capped at 10 Wither per proc.
 
 -   Cruel Counter: [Krulian Knife](Krulian_Knife.md) - When using your initial charge up on your Krulian Knife, if you interrupt someone's attack with it apply Cruel Counter on them, massively increasing the damage they take from your critical attacks.
     -   If you interrupt someone's attack with the shock from your [Krulian Charge](Krulian_Knife.md) critical, apply the Cruel Counter status effect to your opponent, increasing all damage taken by critical attacks for 20 seconds.
@@ -4348,7 +4348,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Curved Edge: [Nemit's Sickle](<Nemit's_Sickle.md>) - Your [light weapon mantras](Attunement-less.md#light-weapon-mantras) \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now gain 60% more chip.
 
--   Devastating Recovery: [Zweihander](Zweihander.md), [Alloyed Zweihander](Zweihander.md) & [Bloodbane](Bloodbane.md) - Enemies recover 50% less posture when parrying your Zweihander light attacks.
+-   Devastating Recovery: [Zweihander](Zweihander.md), [Alloyed Zweihander](Zweihander.md) & [Bloodbane](Bloodbane.md) - Enemies recover 30% less posture when parrying your Zweihander light attacks.
     -   This is not to be confused with the [Devastating Recovery](#devastating-recovery) Greatsword Talent
 
 -   Ebb and Flow: [Wyrmtooth](Wyrmtooth.md) - Landing a [medium mantra](Attunement-less.md#medium-weapon-mantras) \[_[sic](https://en.wikipedia.org/wiki/sic)_\] increases your next [heavy mantra](Attunement-less.md#heavy-weapon-mantras)'s \[_[sic](https://en.wikipedia.org/wiki/sic)_\] level by 1 and vice versa. This is stackable and can be increased to a max of +5 levels. All stacks are removed if your medium/heavy mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] is defended against.

@@ -1,6 +1,6 @@
 ---
 title: Might Gem
-revid: 205267
+revid: 213132
 source: https://deepwoken.fandom.com/wiki/Might_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]

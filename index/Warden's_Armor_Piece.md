@@ -1,6 +1,6 @@
 ---
 title: "Warden's Armor Piece"
-revid: 212261
+revid: 213141
 source: https://deepwoken.fandom.com/wiki/Warden's_Armor_Piece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -21,7 +21,7 @@ categories: [Items, Drops, Ingredients]
 
 ## Description
 
-**Warden's Armor Piece** is a direct drop from [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)' chest or as a direct drop from [Authority Chainwardens](Authority_Chainwarden.md).
+**Warden's Armor Piece** is a piece of metal dropped from [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)' chest or directly dropped from [Authority Chainwardens](Authority_Chainwarden.md).
 
 ## Uses
 

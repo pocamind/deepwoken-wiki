@@ -1,6 +1,6 @@
 ---
 title: Wrath Gem
-revid: 205268
+revid: 213137
 source: https://deepwoken.fandom.com/wiki/Wrath_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]
@@ -50,4 +50,4 @@ This Gem can also be used to craft a variety of items.
 
 ## Trivia
 
-Likely inspired by the wrath gem from the enigma mod for terraria.
+-   Likely inspired by the wrath gem from the Enigma mod for Terraria.
