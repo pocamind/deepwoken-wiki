@@ -1,6 +1,6 @@
 ---
 title: Arkasid
-revid: 211473
+revid: 213066
 source: https://deepwoken.fandom.com/wiki/Arkasid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages with reason, StubPages, Monsters]
@@ -14,13 +14,13 @@ notices:
 |---|---|
 | health | 2400 |
 | attacks | Arm Swipes, Paralyzing Throw, Pounce, Spin Strikes |
-| drops | Arkasid Carapace, Arkasid Pupa |
+| drops | Arkasid Carapace, Arkasid Pupa, Dormant Splinter |
 | locations | Simforea |
 | challenges | -- Arkasid --, Good Night - Slay 3.Reward: +5% DMG; +2.5% RES, Sleep Tight - Slay 9.Reward: +5% DMG; +2.5% RES, Don't Let The Bed Bugs Bite - Slay 15.Reward: +5% DMG; +2.5% RES |
 
 ## Description
 
-Arkasids are spider-like mite monsters found throughout [Simforea](Simforea.md). Once an invasive threat across Lumen, they hunted in packs and overran settlements until a rare unified effort drove them from the surface into [The Depths](First_Layer.md)
+Arkasids are spider-like mite monsters found throughout [Simforea](Simforea.md). Once an invasive threat across Lumen, they hunted in packs and overran settlements until a rare unified effort drove them from the surface and into [The Depths](First_Layer.md).
 
 ## Moveset
 

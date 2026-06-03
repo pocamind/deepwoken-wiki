@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 209662
+revid: 213064
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -16,7 +16,7 @@ Bloodrend Icon
 
 ## Description
 
-**Bloodrend** is an [Attunement](Attunements.md) that grants the user the ability to control, manipulate, and conjure their own [blood](https://deepwoken.fandom.com/wiki/Combat_Mechanics#Survival_Basics).
+**Bloodrend** is an [Attunement](Attunements.md) that grants the user the ability to control, manipulate, and conjure their own and other's [blood](https://deepwoken.fandom.com/wiki/Combat_Mechanics#Survival_Basics).
 
 Bloodrenders excel in long fights, their power ramping up as the fight goes on due to the effects applied to enemies from Blood Poison and Blood Drain. They can counter their opponents' sustain while using sustain to benefit themselves. However, Bloodrend is difficult to make use of outside of single target combat, as blood poison decays, making it hard to achieve high percentages of it against multiple enemies.
 
@@ -79,6 +79,8 @@ This Cantrip allows the player to consume raw meat-type [Food](Food.md) items wi
 ## Mantras
 
 All Bloodrend Mantras have 2.75 Bloodrend scaling unless stated otherwise.
+
+  
 
 ### Combat Mantras
 

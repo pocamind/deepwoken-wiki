@@ -1,6 +1,6 @@
 ---
 title: "Trickster's Habit"
-revid: 209687
+revid: 213065
 source: https://deepwoken.fandom.com/wiki/Trickster's_Habit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, World Event, Outfits with Talents, "Outfits with Non-exclusive Talents", Outfits with Exclusive Talents]
@@ -59,12 +59,12 @@ List of afflictions being:
 
 -   Suffocation applied to self for a few seconds. \[Yikes! You're out of breath.\]
 -   Randomizes your Spit CD, anywhere between 5-20~ seconds. Indicated by black cross marks coming off your body. \[Heh, cat got your tongue!\]
--   Lowers your Swingspeed. Indicated by black cross marks coming off of your body. \[Clumsy like a sack of bricks!\]
+-   Fatigued Swings which lowers your Swingspeed. Indicated by black cross marks coming off of your body. \[Clumsy like a sack of bricks!\]
 
 ## Trivia
 
 -   Worn by [Tillian](Tillian.md) during the Carnival of Hearts.
 -   This Outfit shares identical stats with [Jester's Garb](<Jester's_Garb.md>), the outfit worn by [Aelita](Aelita.md) in the [Carnival of Hearts](Carnival_of_Hearts.md).
--   The black cross effect procs the [Charged Return](Talents.md#charged-return) Talent, granting +10% weapon damage while under its effect.
+-   The "Fatigued Swings" status can proc the [Charged Return](Talents.md#charged-return) Talent, granting +10% weapon damage while under its effect.
 -   Both afflictions where your Taunt cooldown and swingspeed are modified use the same visual effect.
 -   Occasionally, the text and buff may not line up. It is unknown if this is a bug or intentional case.

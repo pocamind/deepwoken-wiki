@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 211913
+revid: 213053
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -355,7 +355,7 @@ Complete 10 missions as Squad leader, then speak to [Warden Jericho](Warden_Jeri
 
 **Support Mantra**
 
-_Yell with valor and courage, increasing the speed of those who are in your party for 20 seconds and making them unknockable for 10 seconds._
+_Yell with valor and courage, increasing the speed of nearby allies for 20 seconds and making them unknockable for 10 seconds._
 
  | 
 
@@ -363,7 +363,7 @@ _Yell with valor and courage, increasing the speed of those who are in your part
 
   
 **Support Mantra**  
-_Yell with valor and courage, increasing the speed of those who are in your party for 20 seconds and making them unknockable for 10 seconds._
+_Yell with valor and courage, increasing the speed of nearby allies for 20 seconds and making them unknockable for 10 seconds._
 
  |
 | 
@@ -381,9 +381,8 @@ Command Division, given automatically after entering the division
  |
 | 
 
-**Effect:** _User lets out a yell, buffing their allies. All of their squadmates gain a speed boost for 20 seconds and become unknockable for 10._
+**Effect:** _User lets out a yell, buffing their allies. All of their nearby allies gain a speed boost for 20 seconds and become unknockable for 10._
 
--   This Mantra can only be used while you are in a Squad.
 -   The Breakthrough Drive Talent resets this Mantra's cooldown, as well as increasing the duration of both effects by 5 seconds upon knocking a player [Unconscious](Status_Effects.md#unconscious). This has a 90 second cooldown.
 
  |

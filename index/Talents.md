@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 213044
+revid: 213063
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1303,7 +1303,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 ### Elemental Rebound
 
 -   Charged Return \[Common Talent, Strength, Willpower\] - Being under an elemental status effect causes your Basic Attacks and Criticals to do 10% more damage.
-    -   Procs on Burn, Chill, Shock, Fear (from the Fear the Dark Talent), Winded, and Suffocation.
+    -   Procs on Burn, Chill, Shock, Fear (from the Fear the Dark Talent), Winded, Fatigued Swings (from Mocking Favor), and Suffocation.
         -   Also procs if the aforementioned status effects are self-applied, like using Flame Within or Agitating Spark to self apply burn.
     -   Prerequisites: 20 Willpower, 15 Strength
 

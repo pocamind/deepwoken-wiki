@@ -1,6 +1,6 @@
 ---
 title: "Familiar Occultist's Armor"
-revid: 209672
+revid: 213059
 source: https://deepwoken.fandom.com/wiki/Familiar_Occultist's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Hallowtide, Outfits with Talents, Outfits with Exclusive Talents]
@@ -54,6 +54,7 @@ The [Life Leech](Talents.md#life-leech) Talent grants healing whenever your summ
     -   [Visionshaper](Oath%253A_Visionshaper.md) clones from [Mirror Illusion](Oath%253A_Visionshaper.md#mirror-illusion)
     -   [You'll Need to Get Past Me](Talents.md#youll-need-to-get-past-me)
     -   [Wraith Path: Twisted Puppets](Talents.md#wraith-path-twisted-puppets)' puppets
+    -   [Blacksteel Pirate](Blacksteel_Pirate.md) summoned from the Captain's Call talent on the Ossified Black Set.
 
 ## Trivia/Notes
 
