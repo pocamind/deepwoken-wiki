@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 213177
+revid: 213178
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -32,7 +32,7 @@ He is a young carafe brown Canor with short, dark green hair that sweeps to the 
 
 Traan got into the business by working alongside his grandmother, [Naan Zakshun](Naan_Zakshun.md), during the [Etrean Civil War](Etrean_Civil_War.md). During this time, he learned to create kelp hats and gave one to her to wear. He also has a love of ongos that dates back to his youth.[\[1\]](#cite-note-nan-1)
 
-Traan Zakshun's shop runs on an hourly rotation. Every hour, he sells two to four items chosen at random from a list. He can sell the same item multiple times, on the same rotation, and across multiple rotations. Most of their shop consists of uncommon weapons and schematics that are geared towards mid-game.
+Traan Zakshun's shop runs on an hourly rotation. Every hour, he sells two to eight items chosen at random from a list. He can sell the same item multiple times, on the same rotation, and across multiple rotations. Most of their shop consists of uncommon weapons and schematics that are geared towards mid-game.
 
 Once every 20 hours Traan Zakshun will appear hosting a [Black Market Cache](#black-market) for rare items such as [Relics](Relics.md) and Legendary [Weapons](Weapons.md). These items are only sold for [Crowns](Crowns.md) and only one item total can be purchased per black market visit.
 

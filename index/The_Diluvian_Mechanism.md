@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 206890
+revid: 213182
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the First Layer, Dungeons, Layer 1]
@@ -35,10 +35,6 @@ Taking too long in a wave will automatically add the Timebomb modifier to the cu
 ### Trial of the Meek
 
 When attempting the option to start Diluvian Mechanism at Power 3 and below, you have an option to choose the Trial of the Meek instead of the regular trial. This trial provides no difference in gameplay or loot, with the only main difference being that it removes the limit cap of 5 people as long as anybody trying to enter the trial with you is also below Power 3.
-
-### Shrine of Solitude
-
-A Shrine of Solitude, identical to the one found in the Trial of One lies against the wall. This can be used between waves to roll for preferred mantras regardless of origin.
 
 ## Modifiers & Environmental Hazards
 
@@ -262,7 +258,7 @@ Based on the power of the user(s), the starting wave will differ;
 
 **\*TIMEBOMB MODIFIER\***
 
- | 2 [Corrupted](Monsters.md#scyphozia) [Bounders](Bounder.md) | It's best to target 1 Bounder first before targeting the other. Ideally, you can be near one Bounder's spawn point and force them into the corner, making it harder for them to run away. Standing near/behind the [Deep Shrines/Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md) with have neither [Bounder](Bounder.md) "aggro" onto you, allowing for a quick heal or waiting out cooldowns. (UPD: Recently, both Bounders will "aggro" on you, distance doesn't matter anymore) |
+ | 2 [Corrupted](Monsters.md#scyphozia) [Bounders](Bounder.md) | It's best to target 1 Bounder first before targeting the other. Ideally, you can be near one Bounder's spawn point and force them into the corner, making it harder for them to run away. |
 | 26 | 
 
 2 [Corrupted](Monsters.md#scyphozia) [Stone Knights](Stone_Knight.md)  

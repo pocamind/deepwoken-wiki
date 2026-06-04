@@ -1,6 +1,6 @@
 ---
 title: "Marauder's Entrance"
-revid: 169612
+revid: 213181
 source: https://deepwoken.fandom.com/wiki/Marauder's_Entrance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer]
@@ -28,12 +28,10 @@ After entering, there is a hall inside which is where [The Diluvian Mechanism](<
 
 -   Houses two [Gear Cabinets](Training_Gear.md) on both sides.
 -   There are bookshelves at the right side, which can be inspected for [Books](Books.md).
--   Two lockers can be found on both sides within the main archway.
 
 ### Large Hallway
 
 -   Going forward, the Diluvian Mechanism can be found within the center of the large hall.
--   While inside the dungeon after interacting with the Diluvian Mechanism, the [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md) can be found in one of the sides.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 210286
+revid: 213184
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Attributes, Attunement, Training Gear]
@@ -229,8 +229,7 @@ A held hearthgem
     -   [Saramaed Hollow](Saramaed_Hollow.md): 2 total - both are in the main lobby area, and are located near the [Antiquarian](Antiquarian.md).
     -   [Tutorial](Tutorial.md): In the room with the [Antiquarian](Antiquarian.md).
     -   [Trial of One](Trial_of_One.md): 2 total
-        1.  One in the hallway leading up to the trial.
-        2.  The other is next to the [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md).
+        1.  One in the hallway leading up to the trial
 
 ## Trivia
 

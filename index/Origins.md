@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 212043
+revid: 213186
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Character, Mechanics, Creation, Origins, Features absent in Vow of Iron]
@@ -70,7 +70,6 @@ The player starts out having only the **[Castaway](Castaway.md)** origin, with t
 
 -   [Lone Warrior](Lone_Warrior.md): An origin much like Castaway, but with the twist that they spawn directly in the [Trial of One](Trial_of_One.md).
     -   While other origins, excluding Deepbounds, may partake in the Trial of One, only Lone Warriors gain these boons.
-        -   Lone Warriors gain exclusive access to the [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md) inside the Trial of One.
         -   If Lone Warriors complete the Trial of One, they will be given the [Mark of the Lone Warrior](Talents.md#mark-of-the-lone-warrior) Talent, which increases experience gain while solo, and grants a 5% damage boost if your opponent has equal to or less [Combat Tags](Combat_Tag.md) than you. This Talent deactivates when any of your allies is in your server.
     -   Lone Warriors do not get access to the [Justicar Whistle](Castaway.md#justicar-whistle).
     -   Lone Warriors spawn directly and only in the [Trial of One](Trial_of_One.md), which itself is in [Minityrsa](Minityrsa.md).

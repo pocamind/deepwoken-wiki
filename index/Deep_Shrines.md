@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 202225
+revid: 213180
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics, Features absent in Vow of Iron]
@@ -56,12 +56,6 @@ Shrine of Division: For 5 and a Mantra of your choice, obtain a Roll 2.
 
 **Shrine of Unification**: For 5 and 2 Talents of your choice, get a Whisper Draw.
 
-Shrine of Solitude
-
-  
-
-**Shrine of Solitude**: This shrine acts like a Mystic, allowing you to affect your card draws.
-
 ## Trivia
 
 -   [Ganymedes](Ganymede.md) can do deep deals with a discount of 1 knowledge off of all shrines, except the Shrine of Conceit and the Shrine of Mastery.
@@ -72,14 +66,9 @@ Shrine of Solitude
 -   You can use any shrine besides Solitude to obtain Contractor, however, Shrine Of Order is currently bugged and does not count towards Contractor progression.
 -   Shrine of Order used to grant an additional random [Flaw](Boons_and_Flaws.md) on use. This was removed on September 6th, 2025 due to the recent changes of the time with Talents gaining reduced effects if you do not meet their requirements.
 -   Deep Shrines may be a means for [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) to communicate, due to them appearing in the [Temple of Hearts](Temple_of_Hearts.md). Both the main shrine and Deep Shrines speak using the same font, as well as engaging in deals.
--   The Shrine of Solitude is unique in that it:
-    -   Is present in dungeons, specifically the [Trial of One](Trial_of_One.md) and [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
-    -   Previously had no visible "eyes," in contrast to the other deep shrines at the time.
-    -   Talks in lowercase, unlike all other shrines.
-        -   It is also much less hostile, asking only to lessen its solitude (whereas other shrines degrade you and command you a puppet).
 -   Before Shrine of Ostentation (Now the Shrine of Chance), the only way to obtain more Rare Talents on a fully progressed build was to obtain either [Ardour](Murmur%253A_Ardour.md) or [Rhythm](Murmur%253A_Rhythm.md) and their child Talents, Ardour Scream or Spotter. Then after removing your Murmur with a [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish, you would be granted a new Talent hand that was guaranteed to have a rare Talent in it.
     -   This method was extremely tedious if you were missing more than one rare, very expensive, and not every build could utilize it.
--   Shrine of Solitude will softlock you from the game, making you unable to move, attack, block, parry, or dodge while Trial of One is in the process of just spawning in a new mob.
 -   As of the 28/02/2023 patch, Shrine of Order's 25 stat point reduction limit does not work on attunements.
 -   The [Shrine of Ostentation](Deep_Shrines/Shrine_of_Ostentation.md) allowed you to transfer Rare Talents into Common/Advanced Talents and vice versa. This effect was merged into the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md), along with Ostentation itself being removed on the September 15th, 2025 update.
+-   The [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md) previously allowed players to favor specific Talents and Mantras. This became obsolete after favoring and foretelling were added, leading to the removal of Mystics and, later, the Shrine of Solitude itself.
 -   Deep Shrines models were reworked on the update of **15 September, 2025** to be more performant.

@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 208949
+revid: 213185
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dungeons, Locations in the Etrean Luminant, Locations]
@@ -121,10 +121,9 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 -   All monsters fought in the trials will have their HP greatly reduced so that they can be defeated in a decent amount of time at Power 1.
 -   Any mob can spawn Attuned. This can catch even the best of players off-guard and they might die to an unexpected [Thunderstruck](Monsters.md#attuned-monsters) or [Flamewreathed](Monsters.md#attuned-monsters) Enforcer.
     -   If you are playing [attunement-less](Attunement-less.md) and encounter a [Shadowmeld](Monsters.md#attuned-monsters) version of any monster, play it safe, as they will effectively have double health, due to their 50% Physical Resistance.
--   If you are using the [Lone Warrior](Lone_Warrior.md) Origin, you may use the [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md) inside the Trial.
 -   It is best to prepare yourself, as you will have to do all mobs in one sitting (except for the initial parry challenge and the Megalodaunt)
 -   Once one of the [Sworn Angels](Sworn_Angel.md) dies, the other will die shortly after. It is highly recommended to attack the knocked body of one Angel while defending yourself against the other to execute the knocked Angel and clear this challenge faster.
--   Two [Training Gear Cabinets](Training_Gear.md) can be found in the Trial of One [Dungeon](Dungeons.md), with one next to the [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md), and the other in the corridor of the arena entrance. Training Gear can be purchased and used either pre or post-Trial to speed up the transition to conventional progression.
+-   Two [Training Gear Cabinets](Training_Gear.md) can be found in the Trial of One [Dungeon](Dungeons.md), and the other in the corridor of the arena entrance. Training Gear can be purchased and used either pre or post-Trial to speed up the transition to conventional progression.
 -   In the Vow of Iron Trial, it is recommended to put down a Campfire and heal between enemy spawns, as they are delayed similar to the old trial, letting you heal anywhere between 10-50% Health for free ontop of enemy healthpacks.
 
 ## Trivia

@@ -1,6 +1,6 @@
 ---
 title: Lone Warrior
-revid: 211014
+revid: 213187
 source: https://deepwoken.fandom.com/wiki/Lone_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Origins, Character]
@@ -34,8 +34,6 @@ Lone Warriors spawn in the [Trial of One](Trial_of_One.md) with the [Stranded](S
 
 ## Effects
 
-Lone Warriors can use the [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md) in the Trial of One to influence their Talent and Mantra hands.
-
 After completing the Trial of One, Lone Warriors will be given the [Mark of the Lone Warrior](Talents.md#mark-of-the-lone-warrior) Talent. Mark of the Lone Warrior increases experience gained while solo and grants a 5% damage buff if your opponent has equal to or less combat tags than you. Mark of the Lone Warrior's damage buff will not work if any of your allies are in the server.
 
 ## Pros and Cons
@@ -60,3 +58,7 @@ Your starting faction [reputation](Reputation.md) is:
 -   **Enemy** of [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md), [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md) and [The Hundred Legions](The_Hundred_Legions.md)
 -   **Neutral** with all other factions [Authorityiconfaction](The_Central_Authority.md) [Navaeiconfaction](The_Children_of_Navae.md) [Diversiconfaction](The_Divers.md) [Summericonfaction](The_Summer_Company.md) [Hiveiconfaction](The_Hive.md)
 -   _Note: Your chosen [Aspect](Aspects.md) may affect your starting reputation._
+
+## Trivia
+
+-   Lone Warrior was previously the only Origin that could use the [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md) in the Trial of One to influence Talent and Mantra hands. This benefit became obsolete after the Shrine of Solitude was removed entirely.
