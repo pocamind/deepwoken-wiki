@@ -1,6 +1,6 @@
 ---
 title: Rite of Authority
-revid: 212155
+revid: 213236
 source: https://deepwoken.fandom.com/wiki/Rite_of_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Swords, Medium Weapons, "Attunement-based Weapons", Weapons of The Central Authority, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals]
@@ -42,7 +42,7 @@ The Rite of Authority is a Medium Sword; an ornate saber capable of channeling T
 
 The user performs a Thundercall-infused upslash, shocking the opponent and sending them flying. If the attack lands, the user leaps into the air and plunges downwards, striking and shocking the opponent again.
 
-The first hit has 0.7x scaled damage, the second hit has 1x scaled damage.
+The first hit has 0.7x scaled damage, the second hit has 2x scaled damage.
 
 If the first hit is blocked, it will deal 3 posture damage and won't progress to the second hit. If the second hit is blocked, it will deal 9.5 posture damage.
 

@@ -1,6 +1,6 @@
 ---
 title: Golden Swordfish
-revid: 210487
+revid: 213240
 source: https://deepwoken.fandom.com/wiki/Golden_Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Rapiers, Weapons with Unique Criticals, Light Weapons, Fishing Exclusive, "Weapons with Multi-Hit Criticals"]
@@ -34,8 +34,6 @@ categories: [Weapons, Criticals with M1 tag, Rapiers, Weapons with Unique Critic
 | pass down | Yes |
 | obtainment | Fishing |
 | description | The fabled catch of an angler without parallel. The sea trembles in your wake. |
-
-w
 
 ## Description
 
