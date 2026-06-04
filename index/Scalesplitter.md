@@ -1,9 +1,9 @@
 ---
 title: Scalesplitter
-revid: 213002
+revid: 213197
 source: https://deepwoken.fandom.com/wiki/Scalesplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Twinblades, Etrea, Alloyable Weapons, Medium Weapons, Weapons of Etrea]
+categories: [Weapons, Criticals with M1 tag, Twinblades, Alloyable Weapons, Medium Weapons, Weapons of Etrea]
 ---
 
 # Scalesplitter

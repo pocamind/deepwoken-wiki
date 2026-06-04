@@ -1,6 +1,6 @@
 ---
 title: General Titus Juventius
-revid: 212637
+revid: 213200
 source: https://deepwoken.fandom.com/wiki/General_Titus_Juventius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Enemies, The Hundred Legions Enemies]
@@ -10,7 +10,7 @@ categories: [Vow of Iron Exclusive, Bosses, Enemies, The Hundred Legions Enemies
 
 | General Titus Juventius | |
 |---|---|
-| health | 92000 |
+| health | 92000 ( 9200 to defeat ) |
 | attacks | Worldpiercing Deluge, Commander's Rage, Splitting Ascension, Sovereign Drive, Wrathful Stomp, Warp Kick, Blighted Sparks |
 | drops | Icarus Sun Shield, ??? |
 | locations | The PolymarchThe Valley of Heroes |

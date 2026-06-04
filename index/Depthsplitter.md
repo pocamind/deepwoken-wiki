@@ -1,9 +1,9 @@
 ---
 title: Depthsplitter
-revid: 212368
+revid: 213198
 source: https://deepwoken.fandom.com/wiki/Depthsplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Twinblades, Weapons with Talents, Medium Weapons]
+categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Twinblades, Weapons with Talents, Medium Weapons, Weapons of Etrea]
 ---
 
 # Depthsplitter

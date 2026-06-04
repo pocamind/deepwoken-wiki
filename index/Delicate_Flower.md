@@ -1,6 +1,6 @@
 ---
 title: Delicate Flower
-revid: 199257
+revid: 213202
 source: https://deepwoken.fandom.com/wiki/Delicate_Flower
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Quest Item]
@@ -13,8 +13,8 @@ categories: [Items, Quest Item]
 | value | 0 |
 | weight | 0 |
 | type | Quest Item |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | pass down | No |
 | desc | The petals feel like they could fall off at any moment. |
 

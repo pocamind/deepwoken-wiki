@@ -1,11 +1,9 @@
 ---
 title: Urek Felhand
-revid: 204301
+revid: 213201
 source: https://deepwoken.fandom.com/wiki/Urek_Felhand
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Deceased characters, The Five Heroes, Oath Trainer, Humanoids with Unobtainable Outfits]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Deceased characters, The Five Heroes, Oath Trainer, Humanoids with Unobtainable Outfits]
 ---
 
 # Urek Felhand

@@ -1,6 +1,6 @@
 ---
 title: Primal Slab
-revid: 160367
+revid: 213196
 source: https://deepwoken.fandom.com/wiki/Primal_Slab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items]

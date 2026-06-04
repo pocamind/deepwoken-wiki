@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 213053
+revid: 213199
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -254,9 +254,9 @@ These Talents can be chosen upon being promoted at any point in your Ensign play
     -   The second hit will only happen if the first one lands. This means it does not follow through on block.
     -   The second hit does not count as a weapon hit, meaning it ignores your weapon's Chip stat, it cannot proc [enchants](Enchantments.md), and it cannot proc any "on flourish" Talents.
     -   The second hit does not proc on non-humanoid targets.
-    -   These weapons are: [Central Dirk](Central_Dirk.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
+    -   These weapons are: [Adretian Axe](Adretian_Axe.md), [Big Brother](Big_Brother.md), [Cavalry Saber](Cavalry_Saber.md), [Central Dirk](Central_Dirk.md), [Duskguard Axe](Duskguard_Axe.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Rite of Authority](Rite_of_Authority.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
     -   The Alloyed variants of all of the above weapons proc this effect as well.
-    -   Despite being found in the armory, the [Adretian Axe](Adretian_Axe.md), [Battleaxe](Battleaxe.md), [Cavalry Saber](Cavalry_Saber.md), [Stiletto](Stiletto.md), [Sword](<Sword_(weapon).md>), and [Worshipper Longsword](Worshipper_Longsword.md) do not proc this effect.
+    -   Despite being found in the armory, the [Battleaxe](Battleaxe.md), [Stiletto](Stiletto.md), and [Sword](<Sword_(weapon).md>) do not proc this effect.
 
 -   **Riot Shield** - While you are fighting two or more opponents and are using a [shield](Shields.md), reduce the total amount of chip damage you take by 40%.
     -   Grants 40% damage reduction to chip damage, does **not** reduce your opponent's chip % by 40.
