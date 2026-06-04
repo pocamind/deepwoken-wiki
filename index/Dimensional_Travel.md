@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 208544
+revid: 213235
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -50,8 +50,7 @@ The function activating the Resonance has been dependent on what state of 'using
 When obtained, Dimensional Travel will spend its Resonance points on the following stats:
 
 -   **Use in Combat:** If this stat is invested into, the user can use the Resonance while in combat. Deducts a sizeable amount of Resonance points.
-    -   While using this in combat, the Resonance will go into a lengthy wind up. During the wind up, the user is still able to perform basic actions before being teleported into The Interstice.
-    -   Even while on combat, the user gains hyperarmor, however they will be unable to defend themselves during the wind up.
+    -   While using this in combat, the Resonance will go into a lengthy wind-up, granting [Hyperarmor](Status_Effects.md#hyperarmor). However, you will not be able to defend yourself against attacks during the windup.
 -   **Capacity:** The more points that are invested into this stat, the higher the number of players that can enter the realm before the portal automatically closes.
 -   **Travel Speed:** The more points are invested into this stat, the faster that players will travel through [The Interstice](The_Interstice.md).
     -   The math behind it is complicated, but at its simplest form, the multiplier to your distance travelled is in 0.333 increments, being a minimum of 1.333x and a maximum of 6.666x.

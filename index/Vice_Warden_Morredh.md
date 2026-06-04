@@ -1,6 +1,6 @@
 ---
 title: Vice Warden Morredh
-revid: 210966
+revid: 213203
 source: https://deepwoken.fandom.com/wiki/Vice_Warden_Morredh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority, Oath Trainer]
@@ -39,41 +39,32 @@ Vice Warden Morredh is located in the dining room near the entrance of the Fort 
 
 ## Dialogue
 
-**Base Dialogue:**
+**No Chainwarden:**
 
-**Neutral Reputation:**
+**Base Dialogue:**
 
 <table>
 <tbody>
 <tr>
-  <td>Begin Dialogue</td>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Neutral Reputation with The Central Auhtority</td>
+  <td>Negative Reputation</td>
 </tr>
 <tr>
   <td>Hm? I'm busy. Go bother one of the guards.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
-
-**Negative Reputation:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
   <td>Hm? I don't have time for you, lowlife. There are bigger fish to fry.</td>
 </tr>
 <tr>
-  <td>[End Dialogue]</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
 
 **Obtaining Chainwarden:**
+
+If the player meets the requirement to obtain [Chainwarden](Oath%253A_Chainwarden.md).
 
 **Quest Start:**
 
@@ -103,7 +94,7 @@ Vice Warden Morredh is located in the dining room near the entrance of the Fort 
 </tbody>
 </table>
 
-**Quest In-Progress:**
+**Quest Ongoing:**
 
 <table>
 <tbody>
@@ -119,9 +110,9 @@ Vice Warden Morredh is located in the dining room near the entrance of the Fort 
 </tbody>
 </table>
 
-**Having Chainwarden:**
+**Has Chainwarden:**
 
-These dialogues are unlocked if the player has obtained [Oath: Chainwarden](Oath%253A_Chainwarden.md)
+If the player has [Chainwarden](Oath%253A_Chainwarden.md).
 
 **In-Progress:**
 

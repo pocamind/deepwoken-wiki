@@ -1,6 +1,6 @@
 ---
 title: Gale Essence
-revid: 211100
+revid: 213230
 source: https://deepwoken.fandom.com/wiki/Gale_Essence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Ingredients]
@@ -19,7 +19,7 @@ categories: [Pathfinder Exclusive, Items, Ingredients]
 | droppable | No |
 | pass down | No |
 | desc | A tangled fragment of a greater spiral. Though the gale within feels steady and even, you know that if a million voices were to howl all at once, the sounds of the two may collide and overlap, until only noise remains. |
-| obtainment | Kyrsgarde ChampionWeird Trader |
+| obtainment | Kyrsgarde Champion, Weird Trader, Sold in Traan Zakshun's black market for 20 |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -42,7 +42,7 @@ The Gale Essence can craft into a few items with the [Lost Forge](Lost_Forge_of_
     -   [Gale Enhanced Beads](Gale_Enhanced_Beads.md): [Windswept Enchant Stone](Windswept.md) + [Monastery Beads](Monastery_Beads.md) + 1x Gale Essence
     -   [Gale Enhanced Earrings](Gale_Enhanced_Earrings.md): [Emerald Tusk Earrings](Emerald_Tusk_Earrings.md) + 5x [Gale Stone](Gale_Stone.md) + 1x Gale Essence
 -   Miscellaneous
-    -   999x [Gale Bullets](Bullet_Casings.md#gale): [Bullet](Bullet_Casings.md) + 1x Gale Essence
+    -   999x [Gale Bullets](Bullet_Casings.md#gale): [Bullet](Bullets.md) + 1x Gale Essence
 
 ## Trivia
 

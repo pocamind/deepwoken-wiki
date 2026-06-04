@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 213143
+revid: 213221
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, Vendors, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
@@ -39,10 +39,11 @@ The Weird Trader will request three items total, with each item coming from the 
   <td><b>Items</b></td>
   <td>
   <ul>
-    <li><b><a href="Ingredients.md"><b>Ingredients</b></a></b>: <a href="Alestrian_Coral.md">Alestrian Coral</a>, <a href="Bamboo_Bundle.md">Bamboo Bundle</a>, <a href="Beeswax.md">Beeswax</a>, <a href="Browncap.md">Browncap</a>, <a href="Calabash.md">Calabash</a>, <a href="Dentifilo.md">Dentifilo</a>, <a href="Dread_Flesh.md">Dread Flesh</a>, <a href="Egg.md">Egg</a>, <a href="Gathered_Wheat.md">Gathered Wheat</a>, <a href="Gobletto.md">Gobletto</a>, <a href="Hemobloom.md">Hemobloom</a>, <a href="Latchgrain.md">Latchgrain</a>, <a href="Ongo.md">Ongo</a>, <a href="Pomar.md">Pomar</a>, <a href="Raw_Heavy_Meat.md">Raw Heavy Meat</a>, <a href="Raw_Parasol_Brain.md">Raw Parasol Brain</a>, <a href="Redd.md">Redd</a>, <a href="Sap.md">Sap</a>, <a href="Spider_Egg.md">Spider Egg</a>, <a href="Squelcap.md">Squelcap</a>, <a href="Thresher_Egg.md">Thresher Egg</a></li>
+    <li><b><a href="Ingredients.md"><b>Ingredients</b></a></b>: <a href="Alestrian_Coral.md">Alestrian Coral</a>, <a href="Bamboo_Bundle.md">Bamboo Bundle</a>, <a href="Beeswax.md">Beeswax</a>, <a href="Browncap.md">Browncap</a>, <a href="Calabash.md">Calabash</a>, <a href="Dentifilo.md">Dentifilo</a>, <a href="Egg.md">Egg</a>, <a href="Gathered_Wheat.md">Gathered Wheat</a>, <a href="Gobletto.md">Gobletto</a>, <a href="Hemobloom.md">Hemobloom</a>, <a href="Latchgrain.md">Latchgrain</a>, <a href="Ongo.md">Ongo</a>, <a href="Pomar.md">Pomar</a>, <a href="Pumpkin.md">Pumpkin</a>, <a href="Redd.md">Redd</a>, <a href="Sap.md">Sap</a>, <a href="Spider_Egg.md">Spider Egg</a>, <a href="Squelcap.md">Squelcap</a>, <a href="Thresher_Egg.md">Thresher Egg</a></li>
+    <li><b><a href="Bosses.md"><b>Boss</b></a> <a href="Food.md"><b>Food</b></a></b>: <a href="Dread_Flesh.md">Dread Flesh</a>, <a href="Primal_Slab.md">Primal Slab</a>, <a href="Raw_Heavy_Meat.md">Raw Heavy Meat</a>, <a href="Raw_Parasol_Brain.md">Raw Parasol Brain</a></li>
     <li><b><a href="Primordial_Lotuses.md"><b>Lotuses</b></a></b>: <a href="Primordial_Lotuses.md#brilliant-lotus">Brilliant Lotus</a>, <a href="Primordial_Lotuses.md#empyrean-lotus">Empyrean Lotus</a>, <a href="Primordial_Lotuses.md#hellfire-lotus">Hellfire Lotus</a>, <a href="Primordial_Lotuses.md#miasmic-lotus">Miasmic Lotus</a>, <a href="Pristine_Lotus.md">Pristine Lotus</a>, <a href="Pristine_Lotus.md">Scarlet Lotus</a>, <a href="Primordial_Lotuses.md#skyvalor-lotus">Skyvalor Lotus</a>, <a href="Primordial_Lotuses.md#zephyr-lotus">Zephyr Lotus</a></li>
-    <li><b><a href="Fishing.md"><b>Fish</b></a></b>: <a href="Chum.md">Chum</a>, <a href="Fish_Meat.md">Fish Meat</a>, <a href="Pufferfish.md">Pufferfish</a>, <a href="Red_Snapper.md">Red Snapper</a>, <a href="Squid.md">Squid</a>, <a href="Swordfish.md">Swordfish</a>, <a href="Tuna.md">Tuna</a></li>
-    <li><b><a href="Ores.md"><b>Ores</b></a></b>: <a href="Ores.md#erisore">Erisore</a>, <a href="Ores.md#gold">Gold</a>, <a href="Ores.md#iron">Iron</a>, <a href="Ores.md#rock">Rock</a>, <a href="Ores.md#umbrite">Umbrite</a>, <a href="Ores.md#astruline">Pure Astruline</a> <a href="Ores.md#erisore">Pure Erisore</a>, <a href="Ores.md#gold">Pure Gold</a>, <a href="Ores.md#iron">Pure Iron</a>, <a href="Ores.md#umbrite">Pure Umbrite</a></li>
+    <li><b><a href="Fishing.md"><b>Fish</b></a></b>: <a href="Chum.md">Chum</a>, <a href="Fish_Meat.md">Fish Meat</a>, <a href="Pufferfish.md">Pufferfish</a>, <a href="Red_Snapper.md">Red Snapper</a>, <a href="Sea_Bass.md">Sea Bass</a>, <a href="Squid.md">Squid</a>, <a href="Swordfish.md">Swordfish</a>, <a href="Tuna.md">Tuna</a></li>
+    <li><b><a href="Ores.md"><b>Ores</b></a></b>: <a href="Ores.md#erisore">Erisore</a>, <a href="Ores.md#gold">Gold</a>, <a href="Ores.md#indichite">Indichite</a>, <a href="Ores.md#iron">Iron</a>, <a href="Ores.md#rock">Rock</a>, <a href="Ores.md#umbrite">Umbrite</a>, <a href="Ores.md#astruline">Pure Astruline</a> <a href="Ores.md#erisore">Pure Erisore</a>, <a href="Ores.md#gold">Pure Gold</a>, <a href="Ores.md#iron">Pure Iron</a>, <a href="Ores.md#umbrite">Pure Umbrite</a></li>
     <li><b><a href="Mantra_Modifiers.md"><b>Mantra Modifiers</b></a></b>:
   <ol>
     <li>Most <a href="Deep_Gems.md">Deep Gems</a></li>
@@ -77,7 +78,8 @@ A random item from the following list:
   <td><b>Items</b></td>
   <td>
   <ul>
-    <li><a href="Relics.md">Relics</a>: <a href="Astral.md">Astral Enchant Stone</a>, <a href="Champion's_Alloy.md">Champion's Alloy</a>, (1) <a href="Dye_Packet.md">Dye Packet</a>, <a href="Frost_Essence.md">Frost Essence</a>, <a href="Gale_Essence.md">Gale Essence</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Mantle_of_Enmity.md">Mantle of Enmity</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Shiva's_Codex.md">Shiva's Codex</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Trickster_Dust.md">Trickster Dust</a></li>
+    <li><a href="Items.md">Items</a>: <a href="Exotic_Hide.md">Exotic Hide</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Astral.md">Astral Enchant Stone</a>, <a href="Champion's_Alloy.md">Champion's Alloy</a>, <a href="Dye_Packet.md">Dye Packet</a>, <a href="Frost_Essence.md">Frost Essence</a>, <a href="Gale_Essence.md">Gale Essence</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Shiva's_Codex.md">Shiva's Codex</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Trickster_Dust.md">Trickster Dust</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -100,7 +102,7 @@ A random item from the following list:
   <td>
   <ul>
     <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Pathfinder_Elite.md">Pathfinder Elite</a></li>
-    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Imperator's_Fury.md">Imperator's Fury</a>, <a href="Whistling_Periapt.md">Whistling Periapt</a></li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Imperator's_Fury.md">Imperator's Fury</a>, <a href="Mantle_of_Enmity.md">Mantle of Enmity</a>, <a href="Whistling_Periapt.md">Whistling Periapt</a></li>
   </ul></td>
 </tr>
 </tbody>

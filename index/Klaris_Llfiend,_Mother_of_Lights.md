@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 212212
+revid: 213211
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the First Layer, Oath Trainer, Black Divers]
@@ -216,32 +216,36 @@ Radiant Teachings
   <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>.</td>
+  <td colspan="8">Base Dialogue</td>
+  <td colspan="4">While defeating Chaser or Ethiron in the Second Layer</td>
 </tr>
 <tr>
-  <td colspan="3">Regarding Layer 2 Floor 1's<br>
+  <td colspan="8">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>.</td>
+  <td colspan="4">[See Victory Lines]</td>
+</tr>
+<tr>
+  <td colspan="2">Regarding Layer 2 Floor 1's<br>
   Standard Walkthrough<br>
   Chaser<br>
   The Ignition Union</td>
-  <td colspan="3">Regarding Layer 2 Floor 1's<br>
+  <td colspan="2">Regarding Layer 2 Floor 1's<br>
   Optional Quests<br>
   Mendacia's quest</td>
-  <td colspan="3">Regarding Layer 2 Floor 2<br>
+  <td colspan="2">Regarding Layer 2 Floor 2<br>
   Dr. Diver<br>
   Kyrsan Medallions</td>
-  <td colspan="3">Others<br>
+  <td colspan="2">Others<br>
   A Lightkeeper<br>
-  Dawnwalker Skip<br>
-  Defeating Chaser/Ethiron in while in the Second Layer</td>
+  Dawnwalker Skip</td>
 </tr>
 <tr>
-  <td colspan="3">[See Floor 1 Standard]</td>
-  <td colspan="3">[See Floor 1 Optional]</td>
-  <td colspan="3">[See Floor 2]</td>
-  <td colspan="3">[See Others]</td>
+  <td colspan="2">[See Floor 1 Standard]</td>
+  <td colspan="2">[See Floor 1 Optional]</td>
+  <td colspan="2">[See Floor 2]</td>
+  <td colspan="2">[See Others]</td>
 </tr>
 <tr>
-  <td colspan="12">[End Dialogue]</td>
+  <td colspan="8">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -341,7 +345,7 @@ Radiant Teachings
 </tr>
 <tr>
   <td colspan="3"><i>*Her eyes light up briefly*</i> Well I'll be.. So it's true? I had heard the stories about the City under the Gale, but I never imagined anything concrete would be produced. You could buy an entire Kingdom with those Medallions... if anyone knew that City existed, that is. Fortunately you may still be rewarded for your haul, how about you sell them to me?</td>
-  <td colspan="3">[<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
+  <td colspan="3">[Opens <a href="#shop"><u>Shop UI</u></a>]</td>
   <td colspan="6"><i>*Her nose wrinkles in a look of disgust.*</i> I can only assume you found Dr. Carrion. Pay him no mind, he's absolutely useless for anything practical. He would let the world drown just to focus on his insane zoology expeditions.</td>
 </tr>
 <tr>
@@ -349,7 +353,7 @@ Radiant Teachings
   <td colspan="9">[End Dialogue]</td>
 </tr>
 <tr>
-  <td colspan="3">[<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
+  <td colspan="3">[Opens <a href="#shop"><u>Shop UI</u></a>]</td>
 </tr>
 <tr>
   <td colspan="3">[End Dialogue]</td>
@@ -362,38 +366,29 @@ Radiant Teachings
 <table>
 <tbody>
 <tr>
-  <td colspan="20">Begin Dialogue</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Talked to Nimea</td>
   <td colspan="4">Having Dawnwalker</td>
   <td colspan="4">Maxing out Dawnwalker</td>
-  <td colspan="4">Defeated Chaser</td>
-  <td colspan="4">Defeated Ethiron</td>
 </tr>
 <tr>
   <td colspan="4">You wouldn't happen to know a Lightkeeper from the Etrean Luminant, would you?</td>
   <td colspan="4">What's the significance of the Moonseye over our heads?</td>
   <td colspan="4">I'm ready. Let me speak the Words in their entirety. [10 Knowledge]</td>
-  <td colspan="2">Second Layer via Ligthook</td>
-  <td colspan="2">Second Layer via Void</td>
-  <td colspan="4">Whatever you've done has caused the <a href="Glossary.md#the-eternal-gale-the-second-layer">Eternal Gale</a> to destabilize! You need to get out before it's too late. I managed to call forth a <a href="Glossary.md#light-hook">Light Hook</a>, but only at the front of the City! Get to it quickly before that place is torn from eternity!</td>
 </tr>
 <tr>
   <td colspan="4">Ah... You must mean Viqh. I suppose I do know her yes, I learnt a great deal from her Gift.</td>
   <td colspan="4"><a href="Glossary.md#lightkeep">Lightkeepers</a> are not the only ones that project Light. So too does the <a href="Glossary.md#the-moonseye">Moonseye</a> cast its Light upon both halves of <a href="Glossary.md#lumen">Lumen</a>. Just as its watchful gaze keeps what little of the world that remains whole, we bear its image in the hope that we can take back what was lost.</td>
   <td colspan="2">Requirements Met</td>
   <td colspan="2">Not Enough Knowledge</td>
-  <td colspan="2">Seems some of the disturbance has cleared up thanks to your efforts... Hitch a ride on the <a href="Glossary.md#light-hook">Light Hook</a> or delve deeper, your choice.</td>
-  <td colspan="2">It doesn't matter who you are - you've done us all a favour. Hitch a ride on the <a href="Glossary.md#light-hook">Light Hook</a> or delve deeper, your choice.</td>
-  <td colspan="4">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="4">...How is she?</td>
   <td colspan="4">The Moonseye projects Light? Why is that?</td>
   <td colspan="2">Hm. I won't deny that I'm impressed. Maybe it wasn't a mistake to share this <a href="Glossary.md#oaths">Oath</a> with you.</td>
   <td colspan="2">Not everyone can be a prodigy, but I respect your confidence. Keep at it, diver.</td>
-  <td colspan="4">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="4"><i>*Klaris gives you a puzzled expression, seeming momentarily like she might dismiss your question, but conceding.*</i> She is... preoccupied. <a href="Glossary.md#lightkeep">Lightkeepers</a> do not get a great deal of rest, and what time she had spare she often spent writing.</td>
@@ -410,6 +405,33 @@ Radiant Teachings
 </tr>
 <tr>
   <td colspan="4">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Victory Lines:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="6">Defeating Chaser</td>
+  <td colspan="6">Defeating Ethiron</td>
+</tr>
+<tr>
+  <td colspan="3">Entered Second Layer via Ligthook</td>
+  <td colspan="3">Entered Second Layer via Void</td>
+  <td colspan="6">Whatever you've done has caused the <a href="Glossary.md#the-eternal-gale-the-second-layer">Eternal Gale</a> to destabilize! You need to get out before it's too late. I managed to call forth a <a href="Glossary.md#light-hook">Light Hook</a>, but only at the front of the City! Get to it quickly before that place is torn from eternity!</td>
+</tr>
+<tr>
+  <td colspan="3">Seems some of the disturbance has cleared up thanks to your efforts... Hitch a ride on the <a href="Glossary.md#light-hook">Light Hook</a> or delve deeper, your choice.</td>
+  <td colspan="3">It doesn't matter who you are - you've done us all a favour. Hitch a ride on the <a href="Glossary.md#light-hook">Light Hook</a> or delve deeper, your choice.</td>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -502,9 +524,13 @@ Radiant Teachings
         `8465862459   7337593886`
 -   Klaris' Eyes and Facial Marking have a slight glow within them.
 -   Despite her more supportive role and her abilities coming in the form of magic rather than martial arts, Klaris is still rather muscular.[\[5\]](#cite-note-5)
--   Some extra dialogue was removed/revamped when [Enchant Grease](Enchant_Grease.md) was added to the game.
-    -   The old version of the dialogue can be viewed [here](https://deepwoken.fandom.com/wiki/Klaris_Llfiend,_Mother_of_Lights?oldid=112179#Shop_UI:~:text=Equipment%20Enchantment%20%5B5%20Medallions%5D).
 -   Attempting to enhance your skills as a [Dawnwalker](Oath%253A_Dawnwalker.md) while fully progressed will prompt the message, "Your mastery can go no further."
+-   Multiple past reworks have made Klaris's dialogue go through multiple changes, removing certain lines and etc. A non-exhaustive list is shown below. You must be signed in to view these links to due Fandom limitations.
+    -   On the [August 23, 2024](Version_History/2024.md#august-23-2024) update, dialogues pertaining to [enchanting](Enchantments.md) your [equipment](Equipment.md) with random enchants was removed.([viewable here](https://deepwoken.fandom.com/wiki/Klaris_Llfiend,_Mother_of_Lights?oldid=112179#Shop_UI:~:text=Equipment%20Enchantment%20%5B5%20Medallions%5D), See Shop UI)
+        -   This update added the [Enchant Grease](Enchant_Grease.md), and replaced the option to imbuing your equipment with a random enchantment that Klaris used to sell. Before this, she would imply that she was enchanting your equipments with [Enchant Stones](Enchant_Stone.md).
+    -   On the [June 31, 2026](Version_History/2026.md#june-31-2026) update, dialogues pertaining to the [Deepshore Fossil](Deepshore_Fossil.md) was removed ([viewable here](https://deepwoken.fandom.com/wiki/Klaris_Llfiend,_Mother_of_Lights?oldid=210985#Floor_1_Optional:~:text=*You%20hand%20her,us.%20Take%20it.), See Unlockable Dialogues -> Floor 1 Optional)
+        -   This update added the option to craft [Enchant Stones](Enchant_Stone.md) that were previously uncraftable. (Barring [Traan Zakshun](Traan_Zakshun.md)'s black market) Klaris used to be the sole provider of the (one-time use) [Deepshore Fossil](Deepshore_Fossil.md) through a questline, which allowed you to enchant your weapons with most enchants. All of the enchants that the Deepshore Fossil gave was made craftable, and thus the item became obsolete, and was therefore removed from the game along with its questline.
+        -   Alongside Deepshore Fossil's removal are also the removal of certain questline-specific items: [Diver Journal, I](Diver_Journal,_I.md), [Diver Journal, II](Diver_Journal,_II.md), and [Diver Journal, III](Diver_Journal,_III.md), with them being replaced by new books.
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 213178
+revid: 213227
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -401,9 +401,14 @@ Sold Items
     <li><b>For 2 </b>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Broken_Gatling_Gun.md">Broken Gatling Gun</a>, <a href="Forge_Needle.md">Forge Needle</a>, <a href="Glumfig.md">Glumfig</a>, <a href="Goodie_Bag.md">Goodie Bag</a>,</li>
     <li><b>For 3 </b>: <a href="Smith's_Alloy.md">Smith's Alloy</a></li>
     <li><b>For 4 </b>: <a href="Moonseye_Tome.md">Moonseye Tome</a></li>
-    <li><b>For 5 </b>: <a href="Bluster.md">Bluster</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Curse_of_Ysley's_Ember.md">Curse of Ysley's Ember</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Dread_Serpent's_Mane.md">Dread Serpent's Mane</a>, <a href="Dread_Serpent's_Tooth.md">Dread Serpent's Tooth</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Gilded_Needle.md">Gilded Needle</a>, <a href="Shiva's_Codex.md">Shiva's Codex</a>, <a href="Stone.md">Stone</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Trickster_Dust.md">Trickster Dust</a>, <a href="Vampirism.md">Vampirism</a> <a href="Enchant_Stone.md">Enchant Stone</a></li>
+    <li><b>For 5 </b>: <a href="Dread_Serpent's_Mane.md">Dread Serpent's Mane</a>, <a href="Dread_Serpent's_Tooth.md">Dread Serpent's Tooth</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Gilded_Needle.md">Gilded Needle</a>, <a href="Nautilodaunt_Beak.md">Nautilodaunt Beak</a>, <a href="Shiva's_Codex.md">Shiva's Codex</a>, <a href="Trickster_Dust.md">Trickster Dust</a>
+  <ul>
+    <li><b><a href="Enchant_Stone.md">Enchant Stones</a>/<a href="Enchant_Grease.md">Enchant Grease</a></b>: <a href="Bluster.md">Bluster</a>, <a href="Curse_of_Ysley's_Ember.md">Curse of Ysley's Ember</a>, <a href="Stench.md">Stench</a>, <a href="Stone.md">Stone</a>, <a href="Vampirism.md">Vampirism</a></li>
+  </ul></li>
     <li><b>For 7 </b>: <a href="Sinner's_Ash.md">Sinner's Ash</a></li>
     <li><b>For 10 </b>: <a href="Astral.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Crimson_Terrapod_Shell.md">Crimson Terrapod Shell</a></li>
+    <li><b>For 15 </b>: <a href="Parasol_Membrane.md">Parasol Membrane</a></li>
+    <li><b>For 20 </b>: <a href="Gale_Essence.md">Gale Essence</a></li>
     <li><b>For 50 </b>: <a href="Champion's_Alloy.md">Champion's Alloy</a></li>
   </ul></td>
 </tr>

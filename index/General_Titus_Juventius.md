@@ -1,6 +1,6 @@
 ---
 title: General Titus Juventius
-revid: 213200
+revid: 213234
 source: https://deepwoken.fandom.com/wiki/General_Titus_Juventius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Enemies, The Hundred Legions Enemies]
@@ -13,7 +13,7 @@ categories: [Vow of Iron Exclusive, Bosses, Enemies, The Hundred Legions Enemies
 | health | 92000 ( 9200 to defeat ) |
 | attacks | Worldpiercing Deluge, Commander's Rage, Splitting Ascension, Sovereign Drive, Wrathful Stomp, Warp Kick, Blighted Sparks |
 | drops | Icarus Sun Shield, ??? |
-| locations | The PolymarchThe Valley of Heroes |
+| locations | The Polymarch, The Valley of Heroes, Monkey's Paw |
 | affiliation | The Hundred Legions |
 
 Variants: [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)

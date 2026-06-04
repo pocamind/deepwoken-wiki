@@ -1,6 +1,6 @@
 ---
 title: Ciea
-revid: 198569
+revid: 213204
 source: https://deepwoken.fandom.com/wiki/Ciea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Eastern Luminant]
@@ -12,7 +12,7 @@ categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in
 |---|---|
 | name | Ciea |
 | aspect | Vesperian |
-| location | Starswept Valley (In a cave aboveWidow's Hollow and next to Shrine of Mastery) |
+| location | Starswept Valley (In a cave above Widow's Hollow, next to Shrine of Mastery) |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -32,13 +32,13 @@ Ciea is a female Vesperian that tells the player to make potions with specific e
 -   A potion that harms its victims _**(Browncaps, Bluecaps or Pomars)**_
 -   A potion to regenerate ether _**(Dentifilo, Bluecaps)**_
 
-There may be different options when you talk to Ciea, but for the ones listed you'll have to use those specific ingredients or else she won't take it.
+Every fulfilled request gives EXP. Fulfilling 3 requests gives you the [Harvester](Talents.md#harvester) Talent.
+
+There may be different options when you talk to Ciea, but for the ones listed, you'll have to use those specific ingredients or else she won't take it. You can use diluted potions (potions with only 1 copy of an ingredient) without any detriments to rewards given.
 
 Her quest is needed to get the [Saltchemist](Oath%253A_Saltchemist.md) Oath.
 
-You can use diluted potions (potions with only 1 copy of an ingredient). This does not appear to have any effect on EXP or Talent yields.
-
-Every fulfilled request gives EXP. Fulfilling 3 requests gives you the [Harvester](Talents.md#harvester) Talent.
+**NOTE**: _Certain ingredients such as [Redd](Redd.md) **do not spawn** during [Winter](Seasons.md#winter)._ Keep this in mind before doing her quest.
 
 ## Location
 
@@ -46,7 +46,7 @@ Ciea is located in [Starswept Valley](The_Starswept_Valley.md) right beside the 
 
 ## Dialogue
 
-These colors in dialogue are for convenience. They do not appear in-game.
+The colors in dialogue are for convenience. They do not appear in game.
 
 **First Encounter:**
 
