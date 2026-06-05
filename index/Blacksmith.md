@@ -1,6 +1,6 @@
 ---
 title: Blacksmith
-revid: 208867
+revid: 213289
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Vendors, NPCs, Humanoids with Unobtainable Outfits]

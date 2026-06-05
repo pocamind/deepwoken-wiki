@@ -1,6 +1,6 @@
 ---
 title: Crowns
-revid: 211242
+revid: 213292
 source: https://deepwoken.fandom.com/wiki/Crowns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Currency, Mechanics]
@@ -25,7 +25,7 @@ Crowns are an end-game currency that can be obtained from completing end game ac
 
 Crown can be obtained in 3 ways: [World Bosses](Bosses.md#world-bosses), [World Events](World_Events.md) or [War Mode](War_Mode.md).
 
--   **World Bosses** (namely [Heart of Enmity](Heart_of_Enmity.md), [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) and the [Interluminary Parasol](Interluminary_Parasol.md)), and [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md) will reward up to 2 Crowns (based on contribution) when defeated.
+-   **World Bosses,** namely [Heart of Enmity](Heart_of_Enmity.md), [The Doom of Caeranthil](The_Doom_of_Caeranthil.md), [Interluminary Parasol](Interluminary_Parasol.md), and [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md) will reward up to 2 Crowns (based on contribution) when defeated.
     -   [Scion of Ethiron](Scion_of_Ethiron.md) is capped at 1 Crown per kill, based on contribution.
 -   **War Mode** will reward Crowns to the winning guild based on individual contribution and the Warchest score.
 -   **World Events** such as **Carnival of Hearts** and **Battle Royale** (may need testing) each reward two crowns upon victory.

@@ -1,6 +1,6 @@
 ---
 title: "Adar, Master of Metal"
-revid: 212810
+revid: 213244
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, The Ignition Union, NPCs located in the Eastern Luminant, Ignition Union Enemies]
@@ -176,7 +176,7 @@ Adar's arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md) alo
 -   _Heavy Shoulders_ - If Adar's opponents have 3 or more rods, their dodges are slower.
 -   _Ironclad Punishment_ - Adar's Ironsing mantras deal more posture damage to enemies the more armor durability they have.
 -   _Thornmail_ - If Adar gets flourished, he applies a metal rod to their attacker.
--   _Metal Shackles_ - Adar prevents enemies from receiving speed boosts for 5s when he guardbreaks them.
+-   _Metal Shackles_ - Adar prevents enemies from receiving speed boosts for 5 seconds when he guard-breaks them.
 -   _Piercing Metal_ - Adar deals additional armor damage to enemies per metal rod affecting them.
 -   _Polished Armor_ - Adar receives 10% less damage when his armor protects him from an attack.
 -   _Laced Traps_ - Enemies hit by Adar's 'Caltrops' cannot jump and are slowed for a small duration.
@@ -371,4 +371,4 @@ Adar's arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md) alo
 -   Adar's red scars are of Heliodar markings, though Adar himself is not a Heliodar.
 -   Formerly, Adar could not be killed for [Silentheart](Oath%253A_Silentheart.md) progression and when talking to him while being one would only prompt a message of him saying, "Huh? What're you giving me that look for?" This was changed in the November 10th, 2025 update, which finally allowed him to be fought and killed. (He still says that.)
 -   Unlike the other [Attunement Trainers](Attunement_Trainers.md), Adar does not use a legendary weapon that uses Ironsing due to him having a [Darksteel Greatsword](Darksteel_Greatsword.md) already on his back.
--   He likes men. How do I know? Just look at him.
+-   Adar is homosexual.

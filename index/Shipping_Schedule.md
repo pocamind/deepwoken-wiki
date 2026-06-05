@@ -1,6 +1,6 @@
 ---
 title: Shipping Schedule
-revid: 190712
+revid: 213310
 source: https://deepwoken.fandom.com/wiki/Shipping_Schedule
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Quest Item]
@@ -10,8 +10,11 @@ categories: [Quest Item]
 
 | Shipping Schedule | |
 |---|---|
-| bankable | Yes |
-| droppable | Yes |
+| value | None |
+| weight | None |
+| type | Quest Item |
+| bankable | No |
+| droppable | No |
 | pass down | No |
 | desc | A categorical list of every incoming Etrean and Gremor prisoner scheduled to be imprisoned at the fort, including the dates they will arrive. |
 

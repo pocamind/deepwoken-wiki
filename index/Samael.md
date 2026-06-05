@@ -1,6 +1,6 @@
 ---
 title: Samael
-revid: 210993
+revid: 213318
 source: https://deepwoken.fandom.com/wiki/Samael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Oath Trainer, The Starkindred Church]
@@ -25,15 +25,13 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Samael is an NPC. They are a Starkindred.
-
-They will grant the [Starkindred](Oath%253A_Starkindred.md) Oath.
-
-They are located in the hidden area in the [Derelict Highchurch](Derelict_Highchurch.md), go down the trapdoor ladder and walk around the library interacting with a red book on a bookshelf; this will collapse the false wall hiding the large white double doors. The book is the same each time. Interact with the book again to open the doors. They will be found to the left of the unconscious [Celestial](Celestial.md).
+Samael is an NPC. They are a Starkindred and is also the trainer for the [Starkindred](Oath%253A_Starkindred.md) Oath. He praises the [Celestial](Celestial.md) that has been captured.
 
 They wear a [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) over a dark cloak and hood and dons a bright yellow Starkindred halo. On their back are a pair of black wings.
 
-Their old appearance simply left them with the old Angel mask that completely hid their identity while keeping the [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) outfit.
+## Location
+
+Samael is located in a hidden area underneath the [Derelict Highchurch](Derelict_Highchurch.md). In the library underneath the church in a room only opened once a bookshelf has been interacted with.
 
 ## Dialogue
 
@@ -378,3 +376,4 @@ These dialogues are unlocked if the player has obtained [Oath: Starkindred](Oath
 ## Trivia
 
 -   Of the currently playable aspects in-game, Samael cannot be any of the following based on the absence of their defining traits: Adret, Capra, Chrysid, Ganymede, Gremor, Tiran, or Vesperian. This narrows the possibilities to Canor, Celtor, Etrean, and Khan.
+-   Their old appearance simply left them with the old [Lesser Angel](Hollow_Angel.md) mask that completely hid their identity while keeping the [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) Outfit.

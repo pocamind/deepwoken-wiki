@@ -1,6 +1,6 @@
 ---
 title: Delicate Flower
-revid: 213202
+revid: 213314
 source: https://deepwoken.fandom.com/wiki/Delicate_Flower
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Quest Item]
@@ -10,15 +10,15 @@ categories: [Items, Quest Item]
 
 | Delicate Flower | |
 |---|---|
-| value | 0 |
-| weight | 0 |
+| value | None |
+| weight | None |
 | type | Quest Item |
 | bankable | No |
 | droppable | No |
 | pass down | No |
 | desc | The petals feel like they could fall off at any moment. |
 
-## **Description**
+## Description
 
 The Delicate Flower is an item that is obtainable from [Suri](Suri.md) in the [Greathive Aratel](Greathive_Aratel.md). You must take it to a grave in [Isle of Vigils](Isle_of_Vigils.md), specifically in a graveyard near the main area. If you get hit when you are holding the flower, it will become a Ruined Flower, and the quest will have to be restarted.
 

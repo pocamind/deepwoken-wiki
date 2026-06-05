@@ -1,6 +1,6 @@
 ---
 title: Soul Hearthgem
-revid: 200083
+revid: 213315
 source: https://deepwoken.fandom.com/wiki/Soul_Hearthgem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Quest Item]
@@ -10,9 +10,11 @@ categories: [Pathfinder Exclusive, Items, Quest Item]
 
 | Soul Hearthgem | |
 |---|---|
-| type | Quest item |
-| bankable | Yes |
-| droppable | Yes |
+| value | None |
+| weight | None |
+| type | Quest Item |
+| bankable | No |
+| droppable | No |
 | pass down | No |
 | desc | What could this object be for? A key of some kind? |
 

@@ -1,6 +1,6 @@
 ---
 title: Ploom
-revid: 191586
+revid: 213284
 source: https://deepwoken.fandom.com/wiki/Ploom
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant, The Covenant of Flame, Individuals with unspecified pronouns]
@@ -20,9 +20,13 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Ploom is a [Ganymede](Ganymede.md) reading a book located within Lance's Food in [Etris](Etris.md). They provide the [Talent](Talents.md) [Pleeksty's Will](Talents.md#inferno), which allows the player to gain significantly more ether from consuming elemental ingredients. This requires either fifty (50) [Charisma](Attributes.md#cha), forty (40) [Flamecharm](Flamecharm.md), or three (3) [Dying Embers](Dying_Embers.md).
+Ploom is a [Ganymede](Ganymede.md) NPC. They are able to grant the [Talent](Talents.md) [Pleeksty's Will](Talents.md#pleekstys-will) if the player has either fifty (50) [Charisma](Attributes.md#cha), forty (40) [Flamecharm](Flamecharm.md), or three (3) [Dying Embers](Dying_Embers.md).
 
 They wear the [Flame Worshipper Armor](Flame_Worshipper_Armor.md).
+
+## Location
+
+Ploom is located inside of Lance's Food Shop at [Etris](Etris.md).
 
 ## Dialogue
 
@@ -42,7 +46,7 @@ They wear the [Flame Worshipper Armor](Flame_Worshipper_Armor.md).
   <td colspan="12">What are you reading?</td>
 </tr>
 <tr>
-  <td colspan="12">'The Eternal Flame and the Failure of Man'. Amorus <a href="Glossary.md#amorus-pleeksty">Pleeksty</a>. I enjoy his work.</td>
+  <td colspan="12">'The Eternal Flame and the Failure of Man'. Amorus <a href="Glossary.md#pleeksty">Pleeksty</a>. I enjoy his work.</td>
 </tr>
 <tr>
   <td colspan="12">Anything you could teach me?</td>
@@ -66,8 +70,8 @@ They wear the [Flame Worshipper Armor](Flame_Worshipper_Armor.md).
   <td colspan="4">[End Dialogue]</td>
   <td colspan="2">Well... I guess I can show you a couple things.</td>
   <td colspan="2">Well.. No, I don't think so.</td>
-  <td colspan="2">Oh thats so wonderful! It's so difficult finding others familiar with <a href="Glossary.md#amorus-pleeksty">Pleeksty</a> here in the East.</td>
-  <td colspan="2">No, no I don't think you are that familiar with <a href="Glossary.md#amorus-pleeksty">Pleeksty</a>. It is highly unlikely an Easterner would be familiar with one of the greatest Western <a href="Glossary.md#flamecharm">Flamecharmers</a> of our time..</td>
+  <td colspan="2">Oh thats so wonderful! It's so difficult finding others familiar with <a href="Glossary.md#pleeksty">Pleeksty</a> here in the East.</td>
+  <td colspan="2">No, no I don't think you are that familiar with <a href="Glossary.md#pleeksty">Pleeksty</a>. It is highly unlikely an Easterner would be familiar with one of the greatest Western <a href="Glossary.md#flamecharm">Flamecharmers</a> of our time..</td>
 </tr>
 <tr>
   <td colspan="4"></td>
@@ -121,7 +125,7 @@ They wear the [Flame Worshipper Armor](Flame_Worshipper_Armor.md).
   <td colspan="4">What can you tell me about Pleeksty?</td>
 </tr>
 <tr>
-  <td>Oh, a few things, I hope! The man known as Amorus <a href="Glossary.md#amorus-pleeksty">Pleektsy</a> is thought to have been pre-tidal, born at the advent of the <a href="Glossary.md#the-canticlysm">Canticlysm</a>. We know that <a href="Glossary.md#amorus-pleeksty">Pleektsy</a> hailed from the Tiran homelands, and it's thought that the cave he descended into is somewhere in their vicinity. This cave, of course, is thought to lead directly to the <a href="Glossary.md#the-vents-the-third-layer">Third Layer</a> of the <a href="Glossary.md#the-depths">Depths</a>. It was there that <a href="Glossary.md#amorus-pleeksty">Pleeksty</a> laid claim to his prize - a flower of <a href="Glossary.md#korilfiend-the-infernos-provenance">Korilfiend</a>.</td>
+  <td>Oh, a few things, I hope! The man known as Amorus <a href="Glossary.md#pleektsy">Pleektsy</a> is thought to have been pre-tidal, born at the advent of the <a href="Glossary.md#the-canticlysm">Canticlysm</a>. We know that <a href="Glossary.md#pleektsy">Pleektsy</a> hailed from the Tiran homelands, and it's thought that the cave he descended into is somewhere in their vicinity. This cave, of course, is thought to lead directly to the <a href="Glossary.md#third-layer">Third Layer</a> of the <a href="Glossary.md#the-depths">Depths</a>. It was there that <a href="Glossary.md#pleeksty">Pleeksty</a> laid claim to his prize - a flower of <a href="Glossary.md#korilfiend">Korilfiend</a>.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 212790
+revid: 213270
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -25,7 +25,7 @@ categories: [Oaths]
 
 ― Entropy Link Description
 
-The Oath is acquired after taking the lives of 4 players or bosses and conducting a ritual at the [Entropy Catalyst](The_Entropy_Catalyst.md), a mysterious ancient mechanism that allows the conductor to exist in two states at the same time. With the knowledge you acquire in this new state, you are able to morph the bonds that connect all souls.
+The Oath is acquired after taking the lives of 3 players or bosses and conducting a ritual at the [Entropy Catalyst](The_Entropy_Catalyst.md), a mysterious ancient mechanism that allows the conductor to exist in two states at the same time. With the knowledge you acquire in this new state, you are able to morph the bonds that connect all souls.
 
 ## Obtainment
 

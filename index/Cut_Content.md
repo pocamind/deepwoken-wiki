@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 210855
+revid: 213306
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -91,15 +91,18 @@ This page is about content that has either been removed or changed drastically i
 
 ## Talents
 
--   **Aerial Assault** \[Common Talent, Echo Talent\] - Allows you to move quickly when you dodge mid-air. (+2 Passive Agility)
-    -   In the [March 8th, 2025](Version_History/2025.md#march-8th-2025) update, Aerial Assault was made base behavior. The quest to obtain this Echo Talent and the NPC who gave you that quest, [Ivory](Ivory.md), were removed as well.
-
 -   **A Deal from Below** \[Generic Talent, Rare Talent\] - You have a higher chance of being granted Whispers. However, you are more susceptible to insanity. (+2 Health)
     -   This Talent gave you such a potent insanity gain percentage that you could passively gain Tier 1 Insanity while outside of the Depths.
     -   Along with **Lose Your Mind,** which used to deal _double_ damage at max insanity, a bug was found where Lose Your Mind's max damage buff was always active as long as you had some form of Insanity, effectively granting you permanent double or even _quadruple_ damage, as showcased in Shirafune's video.
 
 -   **Adept** \[Legendary Talent\] - Taking this Talent will make it easier to progress.
     -   In the [December 23rd, 2022](Version_History/2022-2021.md#december-23rd-2022) update, Adept was removed from the game.
+
+-   **Aeronade** \[Common Talent, Galebreathe\] - Your trap automatically detonates on contact with an object.
+    -   In the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update, Aeronade was converted into the Blast Spark modifier for Gale Trap.
+
+-   **Aerial Assault** \[Common Talent, Echo Talent\] - Allows you to move quickly when you dodge mid-air. (+2 Passive Agility)
+    -   In the [March 8th, 2025](Version_History/2025.md#march-8th-2025) update, Aerial Assault was made base behavior. The quest to obtain this Echo Talent and the NPC who gave you that quest, [Ivory](Ivory.md), were removed as well.
 
 -   **Aerial Kick** \[Common Priority Talent\] - \[Fist\] When using a Light Attack while airborne propel yourself forward and do a kick downwards. (+1 Posture,+3 Carry Load, +1 Health)
     -   In the [December 23rd, 2022](Version_History/2022-2021.md#december-23rd-2022) update, all Aerial Talents were removed and instead became a part of base combat.
@@ -143,8 +146,11 @@ This page is about content that has either been removed or changed drastically i
 -   **Boulder Climb** \[Common Talent, Agility\] - Your climb height increases when you slide jump.
     -   In the [August 23rd, 2024](Version_History/2024.md#august-23rd-2024) update, Boulder climb was merged into Kick Off.
 
--   **Chime of Conflict (TALENT)** \[Common Talent\] - Drift in and out of reality, challenging those hailing from distant lands. Grants you the ability to access the PvP Arena.
+-   **Chime of Conflict** \[Common Talent\] - Drift in and out of reality, challenging those hailing from distant lands. Grants you the ability to access the PvP Arena.
     -   In the [July 26th, 2024](Version_History/2024.md#july-26th-2024) update, Chime of Conflict was changed from being an unlockable Talent to an account wide unlock. As a side effect of this change, the Chime of Conflict Talent was removed. The [Chime of Conflict](Chime_of_Conflict.md) can still be accessed through the utility Tool.
+
+-   **Chemist's Bag** \[Common Talent, Intelligence\] - You no longer drop Potions on death.
+    -   In the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update, Chemist's Bag and Wild Alchemy were merged into Chemistry Kit.
 
 -   **Command: Fight** \[Common Talent, Charisma\] - Command your servants to fight for their master, granting them enhanced stats for a duration.
     -   In the [June 21st, 2024](Version_History/2024.md#june-21st-2024) update, Command: Fight became a base Vow of Mastery command.
@@ -169,6 +175,9 @@ This page is about content that has either been removed or changed drastically i
 
 -   **Crystal Breaker** \[Common Talent, Frostdraw\] - When breaking someone's posture detonate any active crystals on their body. (+5 Elemental Intensity, +3 Health)
     -   In the [May 15th, 2023](Version_History/2023.md#may-15th-2023) update, Crystal Breaker became base behavior for Glass Path: Crystallization.
+
+-   **Defiant until the End** \[Common Talent, Willpower\] - Slow the enemy trying to execute you down with one last shout of your determination.
+    -   In the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update, Defiant until the End, Last Second Negotiations, and Savior were merged into Stay of Execution.
 
 -   **Depths Connection** \[Common Talent\] - Your interaction with The Depths allows you to easily draw Ether from the surrounding air.
     -   In the [August 30th, 2024](Version_History/2024.md#august-30th-2024) shadow update, Depths Connection was removed from the game.
@@ -224,6 +233,9 @@ This page is about content that has either been removed or changed drastically i
 -   **Flaming Uppercut** \[Common Talent, Flamecharm\] - Ignite flames on an enemy when you uppercut them.
     -   In the [October 20th, 2023](Version_History/2023.md#october-20th-2023) update, Flaming Uppercut was merged into Flaming Flourish.
 
+-   **Friends in High Places** \[Common Talent, Charisma\] - Your connections often let you off the hook when you're in trouble with the law. Nepotism sure does pay!
+    -   In the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update, Friends in High Places was merged into Celebrity.
+
 -   **Frozone** \[Rare Talent, Frostdraw\] - You are no longer required to be over water to use Ice Skates. (+5 Elemental Intensity)
     -   In the [October 28, 2023](Version_History/2023.md#october-28-2023) update, Frozone became base behavior for Ice Skate.
 
@@ -275,11 +287,17 @@ This page is about content that has either been removed or changed drastically i
 -   **Jumpstart** \[Common Talent, Thundercall\] - Using Static Withdraw when not being carried applies Jumpstart, increasing your ability to scale walls, your speed and applies shock to all outgoing physical damage and damage taken. Grants a +10% damage multiplier.
     -   In the [December 13th, 2025](Version_History/2025.md#december-13th-2025) update, Jumpstart was removed and replaced with Amplified Reflexes.
 
+-   **Just a Taste** \[Common Talent, Bloodrend\] - First bloodrend mantra you hit in combat has increased blood drain.
+    -   In the [May 31t, 2026](Version_History/2026.md#may-31t-2026) update, Just a Taste was merged into First Blood.
+
 -   **Lasting Image** \[Oath Talent\] - Your illusions last longer.
     -   In the [November 28th, 2022](Version_History/2022-2021.md#november-28th-2022) update, Lasting Image was removed from the game.
 
 -   **Last Laugh** \[Common Talent, Flamecharm\] - Gain the ability to incinerate yourself when down with Flame Within. If Phoenix Flames procs, you will only be restored up to 25% of your HP instead of the full 50%.
     -   In the [September 2nd, 2024](Version_History/2024.md#september-2nd-2024) update, Last Laugh was merged into Flame Within.
+
+-   **Last Second Negotiations** \[Common Talent, Charisma\] - Most enemies will hesitate a moment longer to execute you.
+    -   In the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update, Last Second Negotiations, Defiant until the End, and Savior were merged into Stay of Execution.
 
 -   **Legendary Echoes - Receive a random Legendary Talent.**
     -   With [Verse 2](Version_History/2022-2021.md#december-23rd-2022) update most Legendary Talents have turned into Advanced Talents, while other Legendary Talents decreased in rarity to Rare.
@@ -306,6 +324,9 @@ This page is about content that has either been removed or changed drastically i
     -   In the [September 13th, 2024](Version_History/2024.md#september-13th-2024) update, Mani Katti was removed with the Silentheart "Unparalleled Vengeance" rework.
 -   This was later reinvented into [Silent Cascade](Talents.md#silent-cascade), which instead now requires physical attacks rather than Dread stacks.
 
+-   **Master Thief** \[Common Talent, Charisma\] - Gain more notes when mugging a player.
+    -   In the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update, Master Thief was made innate behavior for Pickpocket.
+
 -   **Mercy Kill** \[Common Talent\] - When you flourish an enemy much weaker than you, you kill them instantly. Enemies that are greatly weaker than you die instantly from a single hit.
     -   In the [October 5th, 2025](Version_History/2025.md#october-5th-2025) update, Mercy Kill was made innate.
 
@@ -323,6 +344,9 @@ This page is about content that has either been removed or changed drastically i
 
 -   **One Handed Training** \[Common Talent, Heavy\] - \[Heavy Weapons\] You can now wield heavy weapons one handed.
     -   In the [July 26th, 2024](Version_History/2024.md#july-26th-2024) update, One Handed Training was made innate, but you still need 40 Heavy Weapon to wield your weapon one handed.
+
+-   **Pack Mule** \[Common Talent, Fortitude\] - The max quantity for food you can hold is increased by 5.
+    -   In the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update, Pack Mule and Survival Kit were merged into Cook's Kit.
 
 -   **Perfect Cancel** \[Generic Talent, Common Talent\] - \[Gun\] Permanently cut your ether bar in half but remove the cost of mantra cancelling (+4 Ether, +7 Reservoir)
 
@@ -357,6 +381,9 @@ This page is about content that has either been removed or changed drastically i
 -   **Salesperson** \[Common Talent, Charisma\] - Vendors pay more for your sold items. Pretty sure they just pay extra to get you to leave them alone. (+2 Ether, +2 Health)
     -   In the [December 13th, 2022](Version_History/2022-2021.md#december-13th-2022) update, Salesperson was merged into Snake Oil.
 
+-   **Savior** \[Common Talent, Willpower\] - After saving a player from being gripped gain a short speed boost for a short duration. (+1 Sanity)
+    -   In the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update, Savior, Defiant until the End, and Last Second Negotiations were merged into Stay of Execution.
+
 -   **Scorched Earth** \[Common Talent, Flamecharm\] - Posture breaking an opponent causes your Eruptions to be Empowered for the next 10s. 45s CD
     -   In the [June 21st, 2024](Version_History/2024.md#june-21st-2024) update, Scorched Earth was merged into Flash Point.
 
@@ -364,7 +391,10 @@ This page is about content that has either been removed or changed drastically i
     -   In the [January 18th, 2026](Version_History/2026.md#january-18th-2026) update, Scuba Drowner was made innate and reworked, now always preventing death if your remaining blood is above 50% and no longer utilizing a cooldown.
 
 -   **Shatter Spear** \[Rare Talent, Frostdraw\] - Your ice spear now lodges into human opponents and explodes. (+5 Elemental Intensity, +3 Health)
-    -   In the [May 15, 2023](Version_History/2023.md#may-15-2023) update, Shatter Spear was removed as it became a base behavior for Ice Lance.
+    -   In the [May 15th, 2023](Version_History/2023.md#may-15th-2023) update, Shatter Spear was removed as it became a base behavior for Ice Lance.
+
+-   **Sheltering Grasp** \[Common Talent, Bloodrend\] - Blood mantras cast within blood pools have a reduced blood cost.
+    -   In the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update, Sheltering Grasp was merged into Crimson Fountain.
 
 -   **Silencer's Edge** \[Common Talent, Galebreathe\] - Meleeing a 'Suffocated' opponent will grant you a speed boost. (+1 Elemental Intensity)
     -   In the [December 1st, 2023](Version_History/2023.md#december-1st-2023) update, Silencer's Edge was merged into Silencer's Blade.
@@ -378,6 +408,9 @@ This page is about content that has either been removed or changed drastically i
 -   **Stormcaller Slash** \[Common Talent\] - Call forth the fury of storms by pressing F at the end of your move.
     -   After casting Lightning Blade, pressing F within a second would deliver extra slashes at the end of the mantra.
     -   In the [January 19th, 2024](Version_History/2024.md#january-19th-2024) update, Stormcaller Slash was made base behavior for Lightning Blade.
+
+-   **Survival Kit** \[Common Talent, Mind\] - You keep a well-stocked set of tools on your person at all times. Your flint never runs out of uses.
+    -   In the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update, Survival Kit and Pack Mule were merged into Cook's Kit.
 
 -   **Subsistence** \[Rare talent, Intelligence\] - As a skilled apothecarian, you are more accustomed to potions and gain greater benefits from ingesting potions that affect your regeneration. (+3 Health)
     -   In the [December 1st, 2023](Version_History/2023.md#december-1st-2023) update, Subsistence was merged into Potion Quaffer.
@@ -433,6 +466,9 @@ This page is about content that has either been removed or changed drastically i
 
 -   **Warrior's Respite** \[Rare Talent, Fortitude\] - Stop moving for 15 seconds in order to initiate healing.
     -   In the [April 15th, 2025](Version_History/2025.md#april-15th-2025) update, Warrior's Respite talent was made innate.
+
+-   **Wild Alchemy** \[Common Talent, Intelligence\] - You have a chance to brew 2 potions instead of 1.
+    -   In the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update, Wild Alchemy and Chemist's Bag were merged into Chemistry Kit.
 
 -   **Wildfire** \[Common Talent, Flamecharm\] - Pressing F before releasing your Fire Palm will release a wider but shorter flame.
     -   In the [August 16th, 2024](Version_History/2024.md#august-16th-2024) update, Wildfire became base behavior Fire Palm.
@@ -566,6 +602,9 @@ Charisma
 -   **[Sea Highways](Sea_Highway.md) -** Removed on the [October 25th, 2025](Version_History/2025.md#october-25th-2025) update, Sea Highways were large structures scattered through the [Etrean Sea](The_Etrean_Sea.md) and [Aratel Sea](The_Aratel_Sea.md). Powered by Thundercall, it allowed boats to receive a 'jolt' of energy to travel significantly faster between frequently traversed areas.
 -   **Smuggler Investigation** - An [Authority Ensign](Authority_Ensign.md) mission that would spawn a ship of smugglers carrying green [Barrels](Barrel.md). It's mission description read "_There's some shipments being smuggled without our permission at Summer Isle. Search the surrounding waters for ships, What you do with the supplies is up to you._"
     
+-   **[Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md) -** Removed on the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update, the Shrine of Solitude functioned identically to the removed [Mystics](Mystic.md), hence their later removal.
+-   **[Deepshore Fossil](Deepshore_Fossil.md) -** Removed on the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update by community vote, it allowed the player to select a non-exclusive [Enchant Stone](Enchant_Stone.md) of choice. All other gameplay mechanics relating to the Deepshore Fossil were also removed.
+-   **[Repair Hammer](Repair_Hammer.md) -** Removed on the [April 18th, 2026](Version_History/2026.md#april-18th-2026) update, Repair Hammers were removed in place for [Repair Materials](Repair_Materials.md), a stackable and craftable item used directly repair ships.
 
 ## Mystic
 

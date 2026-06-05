@@ -1,6 +1,6 @@
 ---
 title: Yamaketzal
-revid: 192236
+revid: 213317
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Voiced Characters]
@@ -23,7 +23,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Yamaketzal is a [Capra](Capra.md) NPC found right outside of [Songseeker Temple](Songseeker_Temple.md) in [Songseeker Wilds](Songseeker_Wilds.md). He appears to be drunk, as he is swaying around and talking in an odd manner.
+Yamaketzal is a [Capra](Capra.md) NPC. He appears to be drunk, as he is swaying around and talking in an odd manner.
 
 Talking to Yamaketzal above [Power](Power.md) 5 will unlock the [Echo Talent](Echoes.md#echo-talentsitems), [Chime of Conflict](Chime_of_Conflict.md). The Chime of Conflict allows the player to fight in instanced PVP arenas against other players. Additionally, he can help player claim Echo Talents that they've unlocked in another slot, but don't own on their current slot.
 
@@ -32,6 +32,10 @@ Speaking to Yamaketzal after claiming the Chime of Conflict will tell the player
 Furthermore, if the player character has the [Tarnished](Boons_and_Flaws.md#flaws) Flaw, Yamaketzal can remove it from the player for the price of 1000, making it possible to reroll their [Resonance](Resonance.md) again.
 
 Despite his disheveled appearance, the combination of these two behaviors and his broad, if drunkenly muddled, knowledge of the world indicates that Yamaketzal is both powerful and knowledgeable.
+
+## Location
+
+Yamaketzal can be found standing right outside of the [Songseeker Temple](Songseeker_Temple.md) in [Songseeker Wilds](Songseeker_Wilds.md).
 
 ## Dialogue
 
@@ -183,16 +187,6 @@ Despite his disheveled appearance, the combination of these two behaviors and hi
 </tr>
 <tr>
   <td>[End Dialogue], players Resonance is untarnished</td>
-</tr>
-</tbody>
-</table>
-
-**Claim Echo Talents:**
-
-<table>
-<tbody>
-<tr>
-  <td></td>
 </tr>
 </tbody>
 </table>

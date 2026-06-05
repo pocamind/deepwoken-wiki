@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 213119
+revid: 213245
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3042,7 +3042,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   _Wisp Convergence_ \[Rare Talent, [Oathless](Oath%253A_Oathless.md)\] - When empowered by the Chorus, your Wisps now grant their elements to your strikes.
     -   This will not proc unless you have every Wisp Mantra equipped and active. If one of your Wisps runs out, this Talent will deactivate until you recast the Wisp.
     -   Your basic attacks will apply the following [Status Effects](Status_Effects.md): [Burn](Status_Effects.md#burn), [Shock](Status_Effects.md#shock), [Chill](Status_Effects.md#chill), [Winded](Status_Effects.md#winded), [Shadow](Status_Effects.md#shadow), [Metal Rods](Status_Effects.md#metal-rods), and [Blood Poison](Status_Effects.md#blood-poison) all at once.
-    -   These effects will be replaced with their Attunement path's counterpart effect if you have the respective Attunement path.
+    -   These effects will be replaced with their Attunement path's counterpart effect if you have the respective Attunement path. (Except crystallization, currently broken)
     -   This Talent will not work if you do not have the Oathless Oath.
     -   Prerequisites: [Oath: Oathless](Oath%253A_Oathless.md), Chorus of Souls
 

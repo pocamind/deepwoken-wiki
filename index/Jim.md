@@ -1,6 +1,6 @@
 ---
 title: Jim
-revid: 201946
+revid: 213268
 source: https://deepwoken.fandom.com/wiki/Jim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Individuals with unspecified pronouns]
@@ -92,7 +92,7 @@ Jim is located at the [Etris Docks](Etris_Docks.md), in of one of the buildings.
   <td>Don't try to fool me. You don't have 2 Dying Embers yet.</td>
 </tr>
 <tr>
-  <td>[End Dialogue], Curiosity Talent Hand obtained</td>
+  <td>[End Dialogue], 3 Full Training points and Curiosity Talent Hand obtained</td>
   <td>[End Dialogue]</td>
 </tr>
 </tbody>

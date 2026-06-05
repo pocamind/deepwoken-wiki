@@ -1,6 +1,6 @@
 ---
 title: Petris
-revid: 208456
+revid: 213253
 source: https://deepwoken.fandom.com/wiki/Petris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the First Layer]
@@ -34,13 +34,13 @@ Petris is located in [The City of the Drowned](The_City_of_the_Drowned.md), righ
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin Dialogue</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="12">Flames will call the Ferryman... That's what they told me... I-... I thought he would give me gifts like the tales of old. That monster...</td>
+  <td>Flames will call the Ferryman... That's what they told me... I-... I thought he would give me gifts like the tales of old. That monster...</td>
 </tr>
 <tr>
-  <td colspan="12">[End Dialogue]</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

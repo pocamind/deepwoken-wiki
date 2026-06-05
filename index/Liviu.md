@@ -1,6 +1,6 @@
 ---
 title: Liviu
-revid: 201846
+revid: 213298
 source: https://deepwoken.fandom.com/wiki/Liviu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Hive, Humanoids with Unobtainable Outfits]

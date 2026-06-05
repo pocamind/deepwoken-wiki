@@ -1,6 +1,6 @@
 ---
 title: "Vyrelda, Master of Blood"
-revid: 208120
+revid: 213302
 source: https://deepwoken.fandom.com/wiki/Vyrelda%2C_Master_of_Blood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with She/her pronouns, Stub pages with reason, StubPages, Pathfinder Exclusive, NPCs, Attunement Trainers, NPCs located in the First Floor of the Second Layer, NPCs located in the Eastern Luminant, Enemies]
@@ -27,13 +27,15 @@ This content is not accessible outside of this gamemode.
 
 Vyrelda is an [Etrean](Etrean.md) NPC who acts as both progression for the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) and the [Bloodrend](Bloodrend.md) trainer.
 
-She was a former student who studied under the Second Prophet with Chaser. She joined the Ministry solely to get access to Bloodrend, and wishes to not affiliate with them, for reasons unknown. She is located in an igloo of [Firfire](Firfire.md), in the Second Layer. She is found treating a wounded Diver.
+She was a former student who studied under the Second Prophet alongside Chaser. She joined the Ministry solely to gain access to Bloodrend, though she does not wish to affiliate with them for unknown reasons.
 
-She appears to be friendly, albeit stern towards the player. She is seen healing a lost Diver by clotting their wounds and restoring their blood through blood magic, despite not being affiliated with the Divers.
+Vyrelda appears to be friendly, albeit stern toward the player. She is first seen treating a wounded Diver, clotting their wounds and restoring their blood through blood magic despite not being affiliated with the Divers.
 
-After obtaining Bloodrend she can be found in [Derelict Highchurch](Derelict_Highchurch.md), account wide.
+The outfit she wears is [Sanguine Finery](Sanguine_Finery.md), obtained exclusively from the [Carnival of Hearts](Carnival_of_Hearts.md).
 
-The outfit she is wearing is [Sanguine Finery](Sanguine_Finery.md) obtained exclusively from the [Carnival of Hearts](Carnival_of_Hearts.md).
+## Location
+
+Vyrelda is first found inside an igloo in [Firfire](Firfire.md), located in the [Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md). After obtaining Bloodrend, she can be found in [Derelict Highchurch](Derelict_Highchurch.md) account-wide.
 
 ## Dialogue
 

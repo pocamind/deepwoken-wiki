@@ -1,6 +1,6 @@
 ---
 title: Golden Swordfish
-revid: 213240
+revid: 213293
 source: https://deepwoken.fandom.com/wiki/Golden_Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Rapiers, Weapons with Unique Criticals, Light Weapons, Fishing Exclusive, "Weapons with Multi-Hit Criticals"]
@@ -50,7 +50,7 @@ The combination of these 2 factors makes the **Golden Swordfish** extraordinaril
 
 ## Critical
 
-The user winds up before charging forward with the weapon, dealing damage 5 times.
+The user winds up before charging forward with the weapon, dealing damage 5 times. This critical is shared with the [Trident Spear](Trident_Spear.md).
 
 The critical has a cooldown of **5 seconds**.
 
@@ -59,12 +59,11 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 ## Trivia
 
 -   The stats are a copy of the [Crucible Rapier](Crucible_Rapier.md), but with exactly 0.1 more range.
--   Most likely a reference to how many players suggested for the swordfish to be an equipable weapon.
+-   This weapon's motif CANNOT be applied to other rapiers, despite it being a rapier itself. Extracting the critical of the Golden Swordfish will grant the Trident Motif, which is only compatible with spears.
+-   Despite acting like a Soulbound weapon in the sense that it cannot be dropped in any way, it can still be put into an [Item Bank](Item_Bank.md) without costing Knowledge, provided it is not [Enchanted](Enchantments.md).
+-   Before its release, many players suggested for a swordfish to be an equippable weapon.
 -   The critical is a reference to the belief that swordfish hunt by "skewering."[\[1\]](#cite-note-1) However, this is false. Swordfish mainly hunt by slashing and dismembering smaller fish with their bill. Ironically, it would be more accurate for this weapon to be a medium sword.
     -   The so-called "sword" bill of a typical swordfish is not particularly strong, but there is a historical precedent for it being used as a weapon.
-    -   The critical itself is the same critical used by the [Trident Spear](Trident_Spear.md).
-        -   This weapon's motif CANNOT be applied to other rapiers, despite it being a rapier itself. Extracting the critical of the Golden Swordfish will grant the Trident Motif, which is only compatible with spears.
--   Despite acting like a Soulbound weapon in the sense that it cannot be dropped in any way, it can still be put into an [Item Bank](Item_Bank.md) without costing Knowledge, provided it is not [Enchanted](Enchantments.md).
 
 ## References
 

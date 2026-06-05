@@ -1,6 +1,6 @@
 ---
 title: Legion Intelligence
-revid: 206813
+revid: 213312
 source: https://deepwoken.fandom.com/wiki/Legion_Intelligence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Quest Item, Books]
@@ -10,9 +10,11 @@ categories: [Items, Quest Item, Books]
 
 | Legion Intelligence | |
 |---|---|
+| value | None |
+| weight | None |
 | type | Quest Item |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | pass down | No |
 | desc | The parchment is rough between your fingers, the note tightly hidden by a clay seal bearing the all-too-familiar emblem of the Hundred Legions. The temptation to break into the contents is truly agonising. |
 | obtainment | Caitus |

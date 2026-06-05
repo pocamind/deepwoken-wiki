@@ -1,20 +1,20 @@
 ---
 title: Manor Key
-revid: 154405
+revid: 213311
 source: https://deepwoken.fandom.com/wiki/Manor_Key
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Quest Item]
+categories: [Quest Item]
 ---
 
 # Manor Key
 
 | Manor Key | |
 |---|---|
-| value | Unsellable |
+| value | None |
 | weight | None |
 | type | Quest item |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | pass down | No |
 | desc | A peculiar key given to you by the Lord Regent. |
 
