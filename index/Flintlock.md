@@ -1,6 +1,6 @@
 ---
 title: Flintlock
-revid: 212711
+revid: 213353
 source: https://deepwoken.fandom.com/wiki/Flintlock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Offhand, Light Weapons, Weapons of The Summer Company]
@@ -21,6 +21,7 @@ categories: [Weapons, Pistols, Offhand, Light Weapons, Weapons of The Summer Com
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
+| capacity | 4 |
 | offhand | Yes |
 | offhand cd | 2.4s |
 | rarity | Uncommon |
@@ -35,7 +36,7 @@ categories: [Weapons, Pistols, Offhand, Light Weapons, Weapons of The Summer Com
 
 ## Description
 
-The Flintlock is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_Isle.md) for 100 [Notes](Notes.md) or can be found through [chests](Chests_&_Sacks.md) in [The Depths](The_Depths.md), through [chests](Chests_&_Sacks.md) in [Lower Erisia](Lower_Erisia.md), and through [Bounties](Bounty_Hunting.md). It requires 20 points in Light weapons to be utilized.
+The Flintlock is a [gun](Guns.md) that requires 20 points in Light weapons to be utilized.
 
 The Flintlock has a Bullet capacity of 4 when held without a second gun.
 

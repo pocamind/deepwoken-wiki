@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 212774
+revid: 213357
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Offhand, Pistols, Light Weapons, Weapons of The Summer Company]
@@ -21,6 +21,7 @@ categories: [Weapons, Offhand, Pistols, Light Weapons, Weapons of The Summer Com
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
+| capacity | 6 |
 | offhand | Yes |
 | offhand cd | 2.2s |
 | rarity | Uncommon |

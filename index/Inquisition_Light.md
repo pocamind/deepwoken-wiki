@@ -1,6 +1,6 @@
 ---
 title: Inquisition Light
-revid: 210181
+revid: 213371
 source: https://deepwoken.fandom.com/wiki/Inquisition_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Outfits of The Central Authority, Outfits with Talents, Outfits with Exclusive Talents, Outfits with Variants]
@@ -22,7 +22,7 @@ categories: [Outfits, Unique Outfits, Outfits of The Central Authority, Outfits 
 | talents | Lethal Dose |
 | obtainment | Authority Ensign Origin, Inquisition Division (automatically crafted) |
 | selling_price | 10 |
-| weight | 1 |
+| weight | N/A |
 | shirt | Shirt • Pants (Default), Shirt • Pants (Capeless) |
 
 **Inquisition Light** is a Unique [Outfit](Outfits.md) in _Deepwoken_.

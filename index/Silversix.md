@@ -1,6 +1,6 @@
 ---
 title: Silversix
-revid: 203295
+revid: 213352
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Pistols, Offhand, Light Weapons, Echoes]
@@ -21,7 +21,9 @@ categories: [Pathfinder Exclusive, Weapons, Pistols, Offhand, Light Weapons, Ech
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
+| capacity | 6 |
 | offhand | Yes |
+| offhand cd | ?s |
 | rarity | Common |
 | selling price | 7 |
 | weight | 2 |

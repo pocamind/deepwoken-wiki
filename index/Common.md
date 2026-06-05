@@ -1,11 +1,9 @@
 ---
 title: Common
-revid: 203125
+revid: 213380
 source: https://deepwoken.fandom.com/wiki/Common
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Society and culture]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Society and culture]
 ---
 
 # Common

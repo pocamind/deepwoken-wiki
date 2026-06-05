@@ -1,6 +1,6 @@
 ---
 title: Maljuror
-revid: 210538
+revid: 213376
 source: https://deepwoken.fandom.com/wiki/Maljuror
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Random Encounters, The Starkindred Church, Humanoids with Unobtainable Outfits]
@@ -93,5 +93,9 @@ Killing them rewards you with a [chest](Chests_&_Sacks.md) with regular [Songsee
 
 ## Trivia
 
--   Maljuror's name could perhaps hint to how they became hollow, as another interpretation could be from the prefix 'Mal-' meaning bad or ill, and a juror being someone who takes an oath, combining these gives you 'Bad Oath taker', or simplified to 'Oathbreaker'.
--   Malijurors became like this because of Ichor's rejection, in result of them "losing faith and falling into sin, punished by divinity within them that twisted them into wretched beasts."
+-   The prefix 'Mal-' means bad or ill, and a juror is someone who takes an oath, combining these gives you 'Bad Oath taker', or simplified to 'Oathbreaker'.
+-   Malijurors became like this because of Ichor's rejection, in result of them "losing faith and falling into sin, punished by divinity within them that twisted them into wretched beasts."[\[1\]](#cite-note-samael-1)
+
+## References
+
+1.  [↑](#cite-ref-samael-1-0) [Samael](Samael.md)

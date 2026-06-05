@@ -1,6 +1,6 @@
 ---
 title: "Warder's Attire"
-revid: 212969
+revid: 213373
 source: https://deepwoken.fandom.com/wiki/Warder's_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Outfits, Unique Outfits, Justicars, Outfits with Talents, Outfits with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Pathfinder Exclusive, Outfits, Unique Outfits, Justicars, Outfits w
 | talents | Justicar's Gift |
 | obtainment | Justicar Origin, Warder Path |
 | selling_price | 10 |
-| weight | 1 |
+| weight | N/A |
 | shirt | Shirt • Pants |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  

@@ -1,6 +1,6 @@
 ---
 title: Union Initiate
-revid: 210184
+revid: 213369
 source: https://deepwoken.fandom.com/wiki/Union_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Outfits, Starter Outfits, The Ignition Union]
@@ -12,14 +12,14 @@ categories: [Pathfinder Exclusive, Outfits, Starter Outfits, The Ignition Union]
 |---|---|
 | tier | Starter |
 | stat_req | Power 6 |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | durability | 1500 |
 | resistances | +15% Physical Armor , +5% Elemental Armor |
 | buffs | +10 Carry Load |
 | obtainment | Ignition Delver Origin |
 | selling_price | N/A |
-| weight | 1 |
+| weight | N/A |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

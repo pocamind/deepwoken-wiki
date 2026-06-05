@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 212378
+revid: 213345
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character]
@@ -53,20 +53,20 @@ All of these miscellaneous sources combined would theoretically provide 360 carr
 
 ## Total Carry Load
 
-Combining both Talents and other sources, the total amounts to **390**. However, your character can carry 20% more than your carry load would normally allow, with the drawback of gradually reducing your movement speed. Accounting for this, the real maximum theoretical carry load is **468**. A build which obtains this carry load is quite simple to create, and can be found [here](https://deepwoken.co/builder?id=Db429pN6).
+Combining both Talents and other sources, the total amounts to **390**. However, your character can carry 20% more than your carry load would normally allow, with the drawback of gradually reducing your movement speed. Accounting for this, the real maximum theoretical carry load is **468**. A build which obtains this carry load is quite simple to create, and can be found [here](https://deepwoken.co/builder?id=LIeKTFNW).
 
 ## Trivia
 
--   The [Another Man's Trash](Talents.md#another-mans-trash) Talent provides a damage buff in PvE, scaling on how much weight you are currently carrying. This grants a 1% damage buff for every 100 weight.
+-   The [Another Man's Trash](Talents.md#another-mans-trash) Talent provides a damage buff in PvE, scaling on how much weight you are currently carrying. This grants a 1% damage buff for every 100 weight carried.
 -   If you are carrying more than 150% of your maximum carry load, items above the threshold will be voided if you leave the game. This does not apply in the [Vow of Iron](Vow_of_Iron.md) gamemode.
 -   If you reduce your carry load (by taking off a backpack, for example) while at maximum capacity, you can still carry your previous max amount of items, even after rejoining. Though, if you drop any item, you won't be able to pick it back up.
 -   Five Talents that granted carry load have been removed from the game.
-    -   _Volt Kick_ granted 7 carry load, but was removed on August 30th, 2024.
-    -   _Pitcher_ and _Duelist's Dance_ granted 3 and 4 carry load respectively, but were removed on April 15th, 2025.
-    -   _Lootskipper_ granted 4 carry load, but was removed on July 15th, 2025.
-    -   _Ether Conduit_ granted 7 carry load, but was removed on August 4th, 2025.
--   On the February 17th, 2026 update, several changes were made regarding carry load;
+    -   _Volt Kick_ granted 7 carry load, but was removed on [August 30th, 2024](Version_History/2024.md#august-30th-2024).
+    -   _Pitcher_ and _Duelist's Dance_ granted 3 and 4 carry load respectively, but were removed on [April 15th, 2025](Version_History/2025.md#april-15th-2025).
+    -   _Lootskipper_ granted 4 carry load, but was removed on [July 15th, 2025](Version_History/2025.md#july-15th-2025).
+    -   _Ether Conduit_ granted 7 carry load, but was removed on [August 4th, 2025](Version_History/2025.md#august-4th-2025).
+-   On the [February 17th, 2026](Version_History/2026.md#february-17th-2026) update, several changes were made regarding carry load;
     -   A few Talents had their innate carry load changed: Gourmand 2 -> 5, Steady Footing 9 -> 5, Strong Stern 9 -> 5, Pack Mule 1 -> 10
     -   25 Talents and 4 Quest Talents had their innate carry load removed. This resulted in the theoretical maximum carry load build losing 170 carry load. Mileage may vary on pre-existing bank slots.
     -   The innate carry load gained from Strength investment was reduced from 1 per point to 0.5 per point, but Fortitude was changed to give 0.5 carry load per investment point as a tradeoff.
-    -   The weight of equipment items were changed, with it being based on equipment type rather than it being a flat 2 per item.
+    -   The weight of [equipment](Equipment.md) items were changed, with it being based on equipment type rather than it being a flat 2 per item.

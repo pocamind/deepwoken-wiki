@@ -1,6 +1,6 @@
 ---
 title: Boltcrusher
-revid: 212601
+revid: 213340
 source: https://deepwoken.fandom.com/wiki/Boltcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Greathammers, "Attunement-based Weapons", Heavy Weapons, Weapons with multiple Criticals, Weapons of The Ignition Union]
@@ -34,7 +34,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Legendary 
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Finnegan The Lost |
+| obtainment | Finnegan The Lost (direct drop), Sold in Traan Zakshun's black market for 4 |
 | description | A cutting-edge Deepdelver creation, uniquely modified from their renowned explosive picks, this boring tool is designed to quarry and demolish the deep's toughest materials - and those who can't uphold up their end of a deal. Infused with crackling Thundercall, this powerhouse channels booming lightning with every strike, reducing rock to rubble & foes to fragments. From depths to peaks across the land, the Union's tools ignite; a path is blown. Onwards we march, powered by a spark. |
 
 ## Description
@@ -63,5 +63,8 @@ Both the running and the standing version share a cooldown of **10 seconds**. Th
 ## Trivia
 
 -   The line _"From depths to peaks across the land, the Union's tools ignite; a path is blown. Onwards we march, powered by a spark."_ from the item's description is a reference to [The Hammer's Call](<The_Hammer's_Call.md>), the Ignition Union's in-universe anthem.
--   Due to a bug, being guardbroken by the Boltcrusher's running Critical would prevent M1 attacks.
--   This weapon is one of two weapons that is able to mine ores, the other being the [Quartztone Pickaxe](Quartztone_Pickaxe.md).
+-   This weapon is one of two weapons that is able to mine ores while equipped, the other being the [Quartztone Pickaxe](Quartztone_Pickaxe.md).
+
+## References
+
+{{History})

@@ -1,6 +1,6 @@
 ---
 title: Voices of the Depths
-revid: 212773
+revid: 213336
 source: https://deepwoken.fandom.com/wiki/Voices_of_the_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Depths, Voiced Characters]
@@ -54,8 +54,191 @@ _"The state or situation of being alone."_
 -   It mentions that the player could possibly be "what we have been searching for". It is unknown what the Voice means by this.
 -   This Voice seems at least more benevolent than the others Voices who run the Trials. The Voice rewards the "lone warrior" who pass his trials with a rapid increase of Talents, experience, and unlocking their true potential by allowing the player to face true adversity.
 
+## Dialogue
+
+**Base Dialogue:**
+
+**First Encounter:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="0">Dialogue begins</td>
+</tr>
+<tr>
+  <td>[Voice of Odium] <b>What a fetid lump of waste these ones are.</b></td>
+</tr>
+<tr>
+  <td>[Voice of Sequestration] <b>Oh, little ones... You mustn't leave your cage... Though it is simply <i>adorable </i>to watch you struggle...</b></td>
+</tr>
+<tr>
+  <td>[Voice of Enmity] <b>These ones are fit for crushing... I shall relish in scraping their remains off the floor.</b></td>
+</tr>
+<tr>
+  <td>[Voice of Odium] <b>Just be quick about it, will you? Their stench is already nauseating...</b></td>
+</tr>
+<tr>
+  <td colspan="0">[End Dialogue], the <a href="Cathedral_of_the_Interstice.md">Trial</a> begins.</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="0">Dialogue begins</td>
+</tr>
+<tr>
+  <td>[Voice of Enmity] <b>These ones are fit for crushing... I shall relish in scraping their remains off the floor.</b></td>
+</tr>
+<tr>
+  <td>[Voice of Odium] <b>Just be quick about it, will you? Their stench is already nauseating...</b></td>
+</tr>
+<tr>
+  <td colspan="0">[End Dialogue], the <a href="Cathedral_of_the_Interstice.md">Trial</a> begins.</td>
+</tr>
+</tbody>
+</table>
+
+**Completed Trial:**
+
+**First Trial Fulfilled:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="0">Dialogue begins</td>
+</tr>
+<tr>
+  <td>[Voice of Enmity] <b>...</b></td>
+</tr>
+<tr>
+  <td>[Voice of Authority] <b>THE CONDITIONS HAVE BEEN FUILFILLED. THEY ARE TO LEAVE UNSCATHED.</b></td>
+</tr>
+<tr>
+  <td>[Voice of Sequestration] <b>Be seeing you soon, my lovelies...</b></td>
+</tr>
+<tr>
+  <td colspan="0">[End Dialogue], you are sent back to the surface.</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Trials Fulfilled:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="0">Dialogue begins</td>
+</tr>
+<tr>
+  <td>[Voice of Authority] <b>THE CONDITIONS HAVE BEEN FUILFILLED. THEY ARE TO LEAVE UNSCATHED.</b></td>
+</tr>
+<tr>
+  <td colspan="0">[End Dialogue], you are sent back to the surface.</td>
+</tr>
+</tbody>
+</table>
+
+**Defeated Enmity/True Enmity:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="0">Dialogue begins</td>
+</tr>
+<tr>
+  <td>[Voice of Enmity] <b>This... is no triumph Your arrogance only spoils the offering you will make when your soul is claimed by our Master below.</b></td>
+</tr>
+<tr>
+  <td>[Voice of Authority] <b>THE CONDITIONS HAVE BEEN FUILFILLED. THEY ARE TO LEAVE UNSCATHED.</b></td>
+</tr>
+<tr>
+  <td>[Voice of Odium] <i><b>*Deep sigh*</b></i></td>
+</tr>
+<tr>
+  <td colspan="0">[End Dialogue], you are sent back to the surface.</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+**Low Power:**
+
+This dialogue happens if the player is [Power](Power.md) 1-4.
+
+<table>
+<tbody>
+<tr>
+  <td>Dialogue begins</td>
+</tr>
+<tr>
+  <td>[Voice of Enmity] <b>Snivelling little creatures... Detestable... I'd like to crush them under my thumb merely to hear the squelch of their pathetic frame folding in on itself.</b></td>
+</tr>
+<tr>
+  <td>[Voice of Odium] <i><b>*Sigh.*</b></i></td>
+</tr>
+<tr>
+  <td>[Voice of Odium] <b>Just get them out of here, will you? I don't want them staining the hall with their putrid filth.</b></td>
+</tr>
+<tr>
+  <td>[End Dialogue], you are sent back to the surface.</td>
+</tr>
+</tbody>
+</table>
+
+**Heart of Enmity:**
+
+If 5 players enter the [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation) then [Enmity](Heart_of_Enmity.md) shall come to punish you for your ignorance.
+
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Dialogue begins</td>
+</tr>
+<tr>
+  <td>[Voice of Enmity] <b>These ones deserve true punishment... They seek to make a mockery of this place with sheer numbers.</b></td>
+</tr>
+<tr>
+  <td>[Voice of Odium] <b>I suppose we can thin their numbers...</b></td>
+</tr>
+<tr>
+  <td>[Voice of Enmity] <b>Despicable. You deem yourselves worthy of a challenge? Allow me to educate you on your folly.</b></td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue], fight starts</td>
+</tr>
+</tbody>
+</table>
+
+**Vow of Iron:**
+
+After Defeating [Dravik, The Rat King](Dravik,_The_Rat_King.md) the Voices will read your mind before coming to the conclusion that re-surfacing where you want is not without cost before the [True Heart of Enmity](True_Heart_of_Enmity.md) comes down to handle you, himself.
+
+<table>
+<tbody>
+<tr>
+  <td colspan="0">Dialogue begins</td>
+</tr>
+<tr>
+  <td>[Voice of Enmity] <b>You reek of such contemptible arrogance... They think themselves worthy to strike a bargain with us...</b></td>
+</tr>
+<tr>
+  <td>[Voice of Odium] <b>To resurface where it pleases?... A trivial boon to grant. But can it afford the price?..</b></td>
+</tr>
+<tr>
+  <td>[Voice of Enmity] <b>Ah, the vainglorious folly... I shall make this agony everlasting.</b></td>
+</tr>
+<tr>
+  <td colspan="0">[End Dialogue], True Heart of Enmity teleports into frame.</td>
+</tr>
+</tbody>
+</table>
+
 ## Trivia
 
 -   "Odium" is a reference to the book series _The Stormlight Archive_, as are some of the first names that can be chosen.
 -   The Voices may be referencing the "Shards" in Brandon Sanderson's novels, including _The Stormlight Archive_.
--   Enmity is a pain in the ass

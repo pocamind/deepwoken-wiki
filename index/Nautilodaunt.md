@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 207616
+revid: 213377
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -164,6 +164,7 @@ On a final note, you **cannot** sneak attack the Nautilodaunt while it is burrow
 -   It is named after the Nautilus, a family of shelled cephalopods.
 -   Despite being nearly impossible to see the Nautilodaunts armor can be broken
 -   It is internally referred to as ".squidward."[\[1\]](#cite-note-1)
+-   May spawn Frostdraw attuned
 
 ## References
 

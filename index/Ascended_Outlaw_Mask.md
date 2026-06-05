@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Mask
-revid: 209408
+revid: 213334
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -33,7 +33,7 @@ Variants: [Hat](Ascended_Outlaw_Hat.md) · [Robes](Ascended_Outlaw_Robes.md) · 
 
 The Ascended Outlaw Mask is an [Equipment](Equipment.md) item under the "Face" category, and is a part of the Ascended Outlaw Set. Originating from the Western Luminant, the Ascended Outlaw Mask is a green mask with upwards facing triangles, almost mimicking the mouth of a beast.
 
-The [Destructive Yell](Talents.md#destructive-yell) Talent breaks campfires around the player when they use [Ardour Scream](Murmur%253A_Ardour.md) _(currently bugged)_ and also doubles its range. This normally increases it from 95 studs to 190, but with [Soulbreaker's Soul Infusion](Oath%253A_Soulbreaker.md), your range is further increased from 245 to 490, granting almost **QUINTUPLE** the normal range of [Ardour Scream](Murmur%253A_Ardour.md).
+The [Destructive Yell](Talents.md#destructive-yell) Talent breaks campfires around the player when they use [Ardour Scream](Murmur%253A_Ardour.md) and also doubles its range. This normally increases it from 95 studs to 190, but with [Soulbreaker's Soul Infusion](Oath%253A_Soulbreaker.md), your range is further increased from 245 to 490, granting almost **QUINTUPLE** the normal range of [Ardour Scream](Murmur%253A_Ardour.md).
 
 ## Obtainment
 

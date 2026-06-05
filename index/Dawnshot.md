@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 212722
+revid: 213355
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Alloyable Weapons, Offhand, Light Weapons, Weapons of The Summer Company]
@@ -24,7 +24,9 @@ categories: [Weapons, Pistols, Alloyable Weapons, Offhand, Light Weapons, Weapon
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
+| capacity | 4 |
 | offhand | Yes |
+| offhand cd | 2.7s |
 | rarity | Rare |
 | selling price | 25 |
 | weight | 2 |
@@ -37,9 +39,9 @@ categories: [Weapons, Pistols, Alloyable Weapons, Offhand, Light Weapons, Weapon
 
 ## Description
 
-The Dawnshot is a midgame gun, which can be obtained through the [First Layer](First_Layer.md), [Summer Isle](Summer_Isle.md) Events, [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Minityrsa](Minityrsa.md) or the [Songseeker Wilds](Songseeker_Wilds.md). It requires 40 Light Weapon to be used and has good overall stats for its midgame role. It can be upgraded with a [Pluripotent Alloy](Pluripotent_Alloy.md) to turn it into an endgame weapon and give it a slightly lighter hue
+The Dawnshot is a midgame [Pistol](Pistols.md). It requires 40 Light Weapon to be used and has good overall stats for its midgame role. It can be upgraded with a [Pluripotent Alloy](Pluripotent_Alloy.md) to turn it into an endgame weapon and give it a slightly lighter hue
 
-The Dawnshot's maximum [Bullet](Bullet_Casings.md) capacity is 4.
+The Dawnshot's maximum [Bullet](Bullets.md) capacity is 4.
 
 ## Critical
 

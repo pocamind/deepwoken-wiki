@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Roscoe"
-revid: 212723
+revid: 213361
 source: https://deepwoken.fandom.com/wiki/Rosen's_Roscoe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Offhand, Light Weapons, Weapons of The Summer Company]
@@ -22,6 +22,7 @@ categories: [Weapons, Pistols, Offhand, Light Weapons, Weapons of The Summer Com
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
+| capacity | 6 |
 | offhand | Yes |
 | offhand cd | 1.3s |
 | rarity | Rare |
@@ -40,6 +41,8 @@ Rosen's Roscoe is a Pistol type weapon that can be used both in both dual and si
 
 In comparison to most other Pistols, it has a comparatively low scaling of 11 and a low base damage of 16. Despite this, it can still be a viable option for any gun user.
 
+The Rosen's Roscoe has a [bullet](Bullets.md) capacity of 6.
+
 ## Critical
 
 Rosen's Roscoe uses the default Pistol critical, an empowered shot. It has a scaled damage multiplier of **1.2x** and a cooldown of **3 seconds**. If your 1H pistol is out of ammo, you will not be able to use your critical. This critical's damage will lessen the farther the projectile travels.
@@ -48,4 +51,4 @@ Rosen's Roscoe uses the default Pistol critical, an empowered shot. It has a sca
 
 -   The gun's model is similar to a Remington 1858 revolver.
 -   The weapon is also called 'big iron' in the campfire menu.
--   Along with the [Divine Flintlock](Crazy_Slots.md#light) and [Iron Requiem](Iron_Requiem.md), these are the only three pistols in the game to have a unique sound effect on M1/crit.
+-   Along with the [Soulwrought Gun](Crazy_Slots.md#weapons) and [Iron Requiem](Iron_Requiem.md), these are the only three pistols in the game to have a unique sound effect on M1/crit.

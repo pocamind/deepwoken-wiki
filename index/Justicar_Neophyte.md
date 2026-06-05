@@ -1,6 +1,6 @@
 ---
 title: Justicar Neophyte
-revid: 211285
+revid: 213367
 source: https://deepwoken.fandom.com/wiki/Justicar_Neophyte
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Outfits, Starter Outfits, Justicars]
@@ -19,7 +19,7 @@ categories: [Pathfinder Exclusive, Outfits, Starter Outfits, Justicars]
 | resistances | +15% Physical Armor , +5% Blunt Armor , +15% Elemental Armor |
 | obtainment | Justicar Origin (automatically crafted), The Depths |
 | selling_price | N/A |
-| weight | 1 |
+| weight | N/A |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

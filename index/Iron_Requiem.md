@@ -1,6 +1,6 @@
 ---
 title: Iron Requiem
-revid: 212597
+revid: 213362
 source: https://deepwoken.fandom.com/wiki/Iron_Requiem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Pistols, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Weapons with multiple Criticals, Weapons of The Ignition Union]
@@ -22,6 +22,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Pistols, L
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
+| capacity | 6 |
 | offhand | No |
 | rarity | Mythical |
 | selling price | 100 |

@@ -1,6 +1,6 @@
 ---
 title: Whaler Initiate
-revid: 210183
+revid: 213370
 source: https://deepwoken.fandom.com/wiki/Whaler_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Outfits, Starter Outfits, The Knives of Eylis]
@@ -14,14 +14,14 @@ categories: [Pathfinder Exclusive, Outfits, Starter Outfits, The Knives of Eylis
 | tier | Starter |
 | price | 100 |
 | stat_req | Power 5 |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | durability | 1500 |
 | resistances | +15% Physical Armor , +5% Elemental Armor |
 | buffs | +25% Stealth |
 | obtainment | Voidwalker Origin (automatically crafted) |
 | selling_price | N/A |
-| weight | 1 |
+| weight | N/A |
 | shirt | Shirt • Pants |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  

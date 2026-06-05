@@ -1,6 +1,6 @@
 ---
 title: Dragoon
-revid: 203711
+revid: 213358
 source: https://deepwoken.fandom.com/wiki/Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Light Weapons, Offhand]
@@ -21,7 +21,9 @@ categories: [Weapons, Pistols, Light Weapons, Offhand]
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
+| capacity | 4 |
 | offhand | Yes |
+| offhand cd | 3s |
 | rarity | Uncommon |
 | selling price | 14 |
 | weight | 2 |
@@ -34,7 +36,9 @@ categories: [Weapons, Pistols, Light Weapons, Offhand]
 
 ## Description
 
-The Dragoon is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_Isle.md) for 500 [Notes](Notes.md) or can be found through [chests](Chests_&_Sacks.md) in [The Depths](The_Depths.md), from [Bounties](Bounty_Hunting.md), or [Chime of Conflict](Chime_of_Conflict.md). It requires 65 points in Light Weapon to be equipped.
+The Dragoon is an endgame [Pistol](Pistols.md) weapon. It requires 65 points in Light Weapon to be equipped.
+
+Dragoon has a [bullet](Bullets.md) capacity of 4.
 
 ## Critical
 

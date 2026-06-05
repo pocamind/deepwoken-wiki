@@ -1,6 +1,6 @@
 ---
 title: Shock Corps Light
-revid: 210182
+revid: 213372
 source: https://deepwoken.fandom.com/wiki/Shock_Corps_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Outfits of The Central Authority, Outfits with Talents, Outfits with Exclusive Talents, Outfits with Variants]
@@ -22,7 +22,7 @@ categories: [Outfits, Unique Outfits, Outfits of The Central Authority, Outfits 
 | talents | Battle-Hardened |
 | obtainment | Authority Ensign Origin, Shock Corps Division (automatically crafted) |
 | selling_price | 10 |
-| weight | 1 |
+| weight | N/A |
 | shirt | Shirt • Pants (Default), Shirt • Pants (Red) |
 
 **Shock Corps Light** is a Unique [Outfit](Outfits.md) in _Deepwoken_.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 213245
+revid: 213343
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2460,13 +2460,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   This talent has no effect on [Rifle Spear](Rifle_Spear.md).
     -   Prerequisites: 95 Medium Weapon, Rifle Equipped
 
-### Master Survivalist
-
--   Survival Kit \[Common Talent, Mind\] - You keep a well-stocked set of tools on your person at all times. Your flint never runs out of uses.
-    -   Flint now has infinite uses.
-    -   Obtainment: Wipe with Iron Gut and Termite.
-    -   Prerequisite: 20 Mind (20 Intelligence // 20 Willpower // 20 Charisma).
-
 ### Meditative Trance
 
 -   _Impervious Slumber_ \[Rare Talent, Fortitude\] - Getting hit while [Unconscious](Status_Effects.md#unconscious) no longer resets your time [Unconscious](Status_Effects.md#unconscious).
@@ -2620,10 +2613,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Enemies who knock you restore only half of the posture and health they would normally obtain (50% -> 25%).
     -   If the enemy have the Talent Replenishing Knockout, both Talents negate each other, resulting in a normal health pack.
     -   Prerequisite: [Power](Power.md) 3
-
--   Pack Mule \[Common Talent\] - The max quantity for food you can hold is increased by 5. (+10 Carry Load)
-    -   Stacks with the [Boon](Boons_and_Flaws.md#packmule) of the same name, increasing the maximum amount of food items you can carry in one stack from 10 to 20.
-    -   Prerequisite: 5 Fortitude
 
 -   _Pleeksty's Will_ \[Quest Talent\] - You gain significantly more ether from consuming elemental ingredients.
     -   Consuming [Gale Stones](Gale_Stone.md), [Heartstars](Heartstar.md), [Dying Embers](Dying_Embers.md), [Spark Glands](Spark_Gland.md), and [Frigid Prisms](Frigid_Prism.md) gives significantly more Ether.
@@ -3595,7 +3584,13 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Voltaic Conductor \[Common Talent, Dual Attunement, Ironsing, Thundercall\] - Your Thundercall Mantras deal 30% chip damage against enemies with conductor rods.
     -   Prerequisites: Rending Needle: Conductor, 40 Thundercall, 75 Ironsing
 
-### Survival Instinct
+### Survival Kit
+
+-   Cook's Kit \[Common Talent, Fortitude, Mind\] - Each food item's max quantity is increased by 5. Your kit comes with a lighter. (+10 Carry Load)
+    -   You can now light a [Campfire Pit](Campfire_Pit.md) without the use of a [Flint](Flint.md) by interacting with it.
+    -   The stack limit of all [food](Food.md) items is increased by 5; from 10 to 15. This stacks with the [Packmule](Boons_and_Flaws.md#packmule) Boon, allowing you to carry 20 of the same food item.
+    -   The old [Pack Mule](Cut_Content.md#pack-mule) and [Survival Kit](Cut_Content.md#survival-kit) Talents were merged into this Talent.
+    -   Prerequisites: 5 Fortitude, 5 Mind (5 Intelligence // 5 Willpower // 5 Charisma).
 
 -   Iron Gut \[Common Talent, Fortitude // Willpower\] - You have resistance against being poisoned by foods.
     -   Does not work when eating [Pufferfish](Pufferfish.md) (gamebreaking).

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 211251
+revid: 213379
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1435,7 +1435,7 @@ _Rush down your opponent cutting them apart._
 
  | 
 
-Slash ResistanceSlash
+Typeless
 
  | 
 
@@ -1450,8 +1450,9 @@ Slash ResistanceSlash
 -   Deals 10 posture damage.
 -   Has a windup of 0.67 seconds.
 -   Upgrading the Mantra increases teleportation range.
--   Bypasses armor resistances, but the damage can still be resisted with other sources of damage reduction.
+-   Deals typeless damage, bypassing armor resistances.
 -   Teleports the user to the enemy the cursor is pointed at.
+-   Gains +60% Chip damage when wielded with the [Nemit's Sickle](<Nemit's_Sickle.md>).
 
  |
 | 
@@ -1500,6 +1501,7 @@ Slash ResistanceSlash
 -   If you go too long without landing slashes, run out of Ether, or move too far away from an opponent, Ceaseless Slashes will end early.
 -   Can be modified with Crystal/Perfect lenses to increase the time you have between slashes, allowing them to be chained together over a longer duration.
 -   Can be modified with Drift/Rush shards but has seemingly no effect.
+-   Gains +60% Chip damage when wielded with the [Nemit's Sickle](<Nemit's_Sickle.md>).
 
  |
 | 
@@ -1529,7 +1531,7 @@ Blunt ResistanceBlunt
 
  | 
 
-30 Light Weapon, [Jus Karita](Jus_Karita.md)
+30 Light Weapon, [Jus Karita](Talents.md#jus-karita) Talent
 
  |
 | 
@@ -1538,6 +1540,7 @@ Blunt ResistanceBlunt
 
 -   Deals 20/22/24/26/28 base damage per level with 1.65 Light Weapon scaling.
 -   Wind-up is **HEAVILY** reduced upon being used directly after Karita Leap.
+-   Gains +60% Chip damage when wielded with the [Nemit's Sickle](<Nemit's_Sickle.md>).
 
  |
 | 
@@ -1567,7 +1570,7 @@ Blunt ResistanceBlunt
 
  | 
 
-30 Light Weapon, [Jus Karita](Jus_Karita.md)
+30 Light Weapon, [Jus Karita](Talents.md#jus-karita) Talent
 
  |
 | 
@@ -1576,6 +1579,7 @@ Blunt ResistanceBlunt
 
 -   Deals 30/33/36/39/42 base damage per level with 1.65 Light Weapon scaling.
 -   Hitting a wall causes you to backflip.
+-   Gains +60% Chip damage when wielded with the [Nemit's Sickle](<Nemit's_Sickle.md>).
 
  |
 
@@ -1645,13 +1649,17 @@ Slash ResistanceSlash
 
 **Effect:** _User performs a spinning double slice with their sword._
 
--   Deals 3+5.4/6+10.8/9+16.2/12+21.6/15+27 base damage per level with 1.65 Medium Weapon scaling.
+-   The first hit has a base damage of 3/6/9/12/15[/18/21/24/27/30](Wyrmtooth.md) base damage per level with 1.65 Medium Weapon scaling.
+-   The second hit has a base damage of 5.4/10.8/16.2/21.6/27[/32.4/37.8/43.2/48.6/54](Wyrmtooth.md) base damage per level with 1.65 Medium Weapon scaling.
 -   Deals 5 posture damage per hit (2).
 -   Initial hit has 0.525 wind-up with the follow-up having 0.4s wind-up.
 -   0.35s endlag.
 -   Has 37% chip damage.
 -   Knocks the opponent back in the direction the user is facing.
 -   Can be modified with a Glass/Magnifying stone to make it bigger.
+-   Wielding the [Vigil Longsword](Vigil_Longsword.md) makes your Master's Flourish bigger and allows it to proc "on flourish" effects.
+-   Changes color to orange if [One With Flame](Flame_Worshipper_Armor.md) is active.
+-   Gains additional true damage scaling on your Willpower investment if you are wielding thr [Worshipper Longsword](Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](Flame_Worshipper_Armor.md) is active.
 
  |
 | 
@@ -1688,12 +1696,14 @@ Slash ResistanceSlash
 
 **Effect:** _User locks onto all the closest targets that are in range, then dashes forward and performs a large AoE slice._
 
--   Deals 9/17/25/33/41 base damage per level with 1.65 Medium Weapon scaling.
+-   Deals 9/17/25/33/41[/49/57/65/73/81](Wyrmtooth.md) base damage per level with 1.65 Medium Weapon scaling.
 -   Deals **50% less damage** if used while your weapon is sheathed or if used on a non-medium weapon.
 -   Deals 5 posture damage.
 -   Has a wind-up of 0.5 seconds with an endlag of 0.2 seconds.
 -   Can be modified with Glass Stones and Magnifying Stones to increase it's tracking range.
 -   Having the [Forgotten Gladius](Forgotten_Gladius.md) or [Kindred Edict](Kindred_Edict.md) equipped will heavily decrease its windup.
+-   Changes color to orange if [One With Flame](Flame_Worshipper_Armor.md) is active.
+-   Gains additional true damage scaling on your Willpower investment if you are wielding thr [Worshipper Longsword](Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](Flame_Worshipper_Armor.md) is active.
 
  |
 | 
@@ -1730,11 +1740,14 @@ Slash ResistanceSlash
 
 **Effect:** _User unleashes 2 slashes, the first moving them forward, the second launching them backwards._
 
--   Deals 9+18.75/10.2+21.25/11.4+23.75/12.6+26.25/13.8+28.25 base damage per level with 1.65 Medium Weapon scaling.
+-   The first hit has 9/10.2/11.4/12.6/13.8[/15/16.2/17.4/18.6/19.8](Wyrmtooth.md) base damage per level with 1.65 Medium Weapon scaling.
+-   The second hit has 18.75/21.25/23.75/26.25/28.75[/31.25/33.75/36.25/38.75/41.25](Wyrmtooth.md) base damage per level with 1.65 Medium Weapon scaling.
 -   Deals 6.75 posture damage per hit (2).
 -   Initial hit has a wind-up of 0.5s, with the follow-up attack having a 0.4s wind-up.
 -   Twincleave has an endlag of 0.4s.
 -   Can change the direction you launch backwards by turning your camera.
+-   Changes color to orange if [One With Flame](Flame_Worshipper_Armor.md) is active.
+-   Gains additional true damage scaling on your Willpower investment if you are wielding thr [Worshipper Longsword](Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](Flame_Worshipper_Armor.md) is active.
 
  |
 | 
@@ -1771,7 +1784,7 @@ Slash ResistanceSlash
 
 **Effect:** _User dashes towards the camera and unleashes a wide slash. Can be performed again if the first slash lands._
 
--   Deals 19.1/24.2/29.3/34.4/39.5 base damage per hit with 1.3 Medium Weapon scaling.
+-   Deals 19.1/24.2/29.3/34.4/39.5[/44.6/49.7/54.8/59.9/65](Wyrmtooth.md) base damage per hit with 1.3 Medium Weapon scaling.
 -   Deals 16 posture damage and is 360 blockable.
 -   Has a 25 second cooldown.
 -   Has a 0.55s wind-up.
@@ -1781,6 +1794,8 @@ Slash ResistanceSlash
 -   Due to it being aimed with the camera, it can be a very useful tool for aerial mobility.
 -   Does not register hits until the end of the move's animation, meaning you can phase through opponents without damaging them if used at close range.
     -   Because of this, it is recommended to use this Mantra after uppercuts or while looking at the floor to land it in CQC.
+-   Changes color to orange if [One With Flame](Flame_Worshipper_Armor.md) is active.
+-   Gains additional true damage scaling on your Willpower investment if you are wielding thr [Worshipper Longsword](Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](Flame_Worshipper_Armor.md) is active.
 
  |
 | 
@@ -1817,9 +1832,11 @@ Slash ResistanceSlash
 
 **Effect:** _User readies their blade before performing a swift strike that uppercuts any targets within range and the user into the air._
 
--   Deals 20/22/24/26/28 base damage with 1.65 Medium Weapon scaling.
+-   Deals 20/22/24/26/28[/30/32/34/36/38](Wyrmtooth.md) base damage with 1.65 Medium Weapon scaling.
 -   Deals 12 posture damage.
 -   Uppercuts.
+-   Changes color to orange if [One With Flame](Flame_Worshipper_Armor.md) is active.
+-   Gains additional true damage scaling on your Willpower investment if you are wielding thr [Worshipper Longsword](Worshipper_Longsword.md). This true damage will additionally scale on your Flamecharm if [One With Flame](Flame_Worshipper_Armor.md) is active.
 
  |
 
@@ -1889,7 +1906,7 @@ Slash ResistanceSlash
 
 **Effect:** _User performs a heavy downwards swing that cleaves through the air, sending out 3 large blasts of air that ragdoll and knockback._
 
--   Deals 8/10.5/13/15.5/18 base damage per level, per hit (3) with 1.65 Heavy Weapon scaling.
+-   Deals 8/10.5/13/15.5/18[/20.5/23/25.5/28/30.5](Wyrmtooth.md) base damage per level, per hit (3) with 1.65 Heavy Weapon scaling.
 -   Deals 12 posture damage per hit (3).
 -   Initial hit has a windup of 0.75s with each followup hit having a windup of 0.2s each.
 -   Dazes opponents on hit.
@@ -1932,8 +1949,8 @@ Slash ResistanceSlash (1st Hit), Blunt ResistanceBlunt (Kicks)
 
 **Effect:** _User does an initial swing with a second long wind-up, then kicks the enemy into the air, followed by kicking them away._
 
--   Initial hit deals 30/32/34/36/38 base damage per level with 1.65 Heavy Weapon scaling.
--   The kicks deal 15/16/17/18/19 base damage per level, per hit (2) with 1.65 Heavy Weapon scaling.
+-   Initial hit deals 30/32/34/36/38[/40/42/44/46/48](Wyrmtooth.md) base damage per level with 1.65 Heavy Weapon scaling.
+-   The kicks deal 15/16/17/18/19[/20/21/22/23/24](Wyrmtooth.md) base damage per level, per hit (2) with 1.65 Heavy Weapon scaling.
 -   Deals 20/22/24/26/GB posture damage per level on the first hit. The second hit always deals 4 posture damage.
     -   Initial hit instantly guard breaks at level 5.
 -   The final hit applies [True Daze](Status_Effects.md#true-daze).

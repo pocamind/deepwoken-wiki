@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 213332
+revid: 213338
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -389,7 +389,7 @@ Sold Items
   <td>
   <ul>
     <li><b>For 25 </b>: <a href="Darkened_Bastion.md">Darkened Bastion</a></li>
-    <li><b>For 75 </b>: <a href="Celtorian_Tideknight.md">Celtorian Tideknight</a></li>
+    <li><b>For 50 </b>: <a href="Celtorian_Tideknight.md">Celtorian Tideknight</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -397,7 +397,7 @@ Sold Items
   (Mostly <a href="Relics.md">Relics</a>)</td>
   <td>
   <ul>
-    <li><b>For 1 </b>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Egg.md">Egg</a>, <a href="Hemobloom.md">Hemobloom</a>, <a href="Plumfruit_Muffin.md">Plumfruit Muffin</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Candle.md">Umbral Candle</a>, <a href="Void_Spire.md">Void Spire</a></li>
+    <li><b>For 1 </b>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Egg.md">Egg</a>, <a href="Hemobloom.md">Hemobloom</a>, <a href="Plumfruit_Muffin.md">Plumfruit Muffin</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Terrapod_Shell.md">Terrapod Shell</a>, <a href="Candle.md">Umbral Candle</a>, <a href="Void_Spire.md">Void Spire</a></li>
     <li><b>For 2 </b>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Broken_Gatling_Gun.md">Broken Gatling Gun</a>, <a href="Forge_Needle.md">Forge Needle</a>, <a href="Glumfig.md">Glumfig</a>, <a href="Goodie_Bag.md">Goodie Bag</a>,</li>
     <li><b>For 3 </b>: <a href="Smith's_Alloy.md">Smith's Alloy</a></li>
     <li><b>For 4 </b>: <a href="Moonseye_Tome.md">Moonseye Tome</a></li>
@@ -419,7 +419,7 @@ Sold Items
   <ul>
     <li><b>For 1 </b>: <a href="Kindred_Edict.md">Kindred Edict</a></li>
     <li><b>For 3 </b>: <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Frost.md">Hero's Blade of Frost</a>, <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a>, <a href="Hero's_Blade_of_Wind.md">Hero's Blade of Wind</a>, <a href="Wraithclaw.md">Wraithclaw</a></li>
-    <li><b>For 4 </b>: <a href="Crypt_Blade.md">Crypt Blade</a>, <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>, <a href="Imperator's_Edge.md">Imperator's Edge</a>, <a href="Red_Death.md">Red Death</a>, <a href="Soulthorn.md">Soulthorn</a>, <a href="Stormseye.md">Stormseye</a></li>
+    <li><b>For 4 </b>: <a href="Boltcrusher.md">Boltcrusher</a>, <a href="Crypt_Blade.md">Crypt Blade</a>, <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>, <a href="Imperator's_Edge.md">Imperator's Edge</a>, <a href="Red_Death.md">Red Death</a>, <a href="Soulthorn.md">Soulthorn</a>, <a href="Stormseye.md">Stormseye</a></li>
     <li><b>For 10 </b>: <a href="First_Light.md">First Light</a></li>
     <li><b>For 35 </b>: <a href="Dormant_Splinter.md">Dormant Splinter</a></li>
   </ul></td>
