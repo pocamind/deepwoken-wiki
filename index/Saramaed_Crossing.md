@@ -1,14 +1,20 @@
 ---
 title: Saramaed Crossing
-revid: 172779
+revid: 213446
 source: https://deepwoken.fandom.com/wiki/Saramaed_Crossing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the Eastern Luminant, Lawless Territory, Territory of The Ignition Union]
+categories: [Locations, Locations in the Eastern Luminant, Territory of The Ignition Union, Lawless Territory]
 ---
 
 # Saramaed Crossing
 
-Template:Location2
+LocationL Saramaed Crossing LocationR
+
+LAWLESS TERRITORY OF The Ignition Union
+
+A derelict passage that bears the scars of industry.
+
+  
 
 ## Overview
 

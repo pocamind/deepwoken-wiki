@@ -1,9 +1,11 @@
 ---
 title: Nightmare Thresher
-revid: 211034
+revid: 213467
 source: https://deepwoken.fandom.com/wiki/Nightmare_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters]
+categories: [Cut Content, Monsters]
+notices:
+  - This page contains Cut Content These enemies currently do not spawn anywhere due to a bug.
 ---
 
 # Nightmare Thresher

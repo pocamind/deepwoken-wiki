@@ -1,11 +1,11 @@
 ---
 title: Maestro Alkhurst Legato
-revid: 212951
+revid: 213386
 source: https://deepwoken.fandom.com/wiki/Maestro_Alkhurst_Legato
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Maestros of the Vigils, Circle of Honour members]
+categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, In progress with reason, InProgressPages, Maestros of the Vigils, Circle of Honour members]
 notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
+  - This page is currently being worked on. Missing majority of dialogue.
 ---
 
 # Maestro Alkhurst Legato

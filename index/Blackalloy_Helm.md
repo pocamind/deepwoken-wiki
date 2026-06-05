@@ -1,6 +1,6 @@
 ---
 title: Blackalloy Helm
-revid: 209438
+revid: 213418
 source: https://deepwoken.fandom.com/wiki/Blackalloy_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -40,4 +40,4 @@ The [Sloped Plate](Talents.md#sloped-plate) Talent reduces the amount of damage 
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent [Captain's Call](Talents.md#captains-call) - Call up two [Blacksteel Pirates](Blacksteel_Pirate.md) to aid you in battle \[5 minute CD\].
+Set Talent [Captain's Call](Talents.md#captains-call) - Call up two [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md) to aid you in battle \[5 minute CD\].

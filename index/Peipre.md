@@ -1,6 +1,6 @@
 ---
 title: Peipre
-revid: 213327
+revid: 213381
 source: https://deepwoken.fandom.com/wiki/Peipre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority, Individuals with unspecified pronouns]
@@ -122,3 +122,4 @@ This dialogue is unlocked after the player has defeated [Knell, The Lunatic Reso
     -   Peipre actually has green eyes, but the eye magnified through the telescope is blue.
     -   Peipre, like all NPCs, will turn to whoever is talking to them. This causes his eye to no longer be aligned with the telescope, though doesn't cause the magnified image of his eye to disappear.
 -   Peipre wears the [Inquisition Light](Inquisition_Light.md) Outfit, though it's never stated of Peipre is a member of [The Inquisition](The_Inquisition.md).
+-   Peipre's name is likely a pun on "peeper".

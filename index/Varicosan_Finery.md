@@ -1,6 +1,6 @@
 ---
 title: Varicosan Finery
-revid: 212550
+revid: 213415
 source: https://deepwoken.fandom.com/wiki/Varicosan_Finery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, Outfits with Talents, Outfits with Exclusive Talents]
@@ -20,7 +20,7 @@ categories: [Outfits, Expert Outfits, Outfits with Talents, Outfits with Exclusi
 | durability | 1500 |
 | resistances | +20% Physical Armor , +20% Elemental Armor |
 | talents | Benefactor |
-| obtainment | First Layer, Primadon, The Diluvian Mechanism, Moon's Eyrie, Sea Events, Sold by Nyanna for 200 , Sold in Traan Zakshun's regular shop for 200 Vow of Iron:, Sold in Naan Zakshun's regular shop for 200 |
+| obtainment | First Layer, Primadon, The Diluvian Mechanism, Moon's Eyrie, Sea Events, The Understrand, Sold by Nyanna for 200 , Sold in Traan Zakshun's regular shop for 200 Vow of Iron:, Sold in Naan Zakshun's regular shop for 200 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants (Default), Shirt • Pants (Dress) |

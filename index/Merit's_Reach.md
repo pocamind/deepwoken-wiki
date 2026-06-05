@@ -1,6 +1,6 @@
 ---
 title: "Merit's Reach"
-revid: 166696
+revid: 213398
 source: https://deepwoken.fandom.com/wiki/Merit's_Reach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Territory of The Central Authority, Lawless Territory]
@@ -8,7 +8,13 @@ categories: [Locations, Locations in the Eastern Luminant, Territory of The Cent
 
 # Merit's Reach
 
-Template:Location2
+LocationL Merit's Reach LocationR
+
+LAWLESS TERRITORY OF The Central Authority
+
+Once a prison at the edge of Etrean influence, now a forward base for the Authority.
+
+  
 
 **Merit's Reach** is a location in _Deepwoken_. It is a landmark found in [Fort Merit](Fort_Merit.md).
 

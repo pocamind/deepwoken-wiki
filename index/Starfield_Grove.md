@@ -1,6 +1,6 @@
 ---
 title: Starfield Grove
-revid: 203698
+revid: 213407
 source: https://deepwoken.fandom.com/wiki/Starfield_Grove
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant, Voidzones]
@@ -8,7 +8,13 @@ categories: [Pages with broken file links, Locations, Locations in the Eastern L
 
 # Starfield Grove
 
-Template:Location2
+LocationL Starfield Grove LocationR
+
+Voidzone
+
+The beauty of the valley, the Star Tree stands tall.
+
+  
 
 File:Cavern thingy yes.png
 

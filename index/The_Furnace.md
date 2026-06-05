@@ -1,14 +1,20 @@
 ---
 title: The Furnace
-revid: 179140
+revid: 213433
 source: https://deepwoken.fandom.com/wiki/The_Furnace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the Eastern Luminant, Lawless Territory]
+categories: [Locations, Locations in the Eastern Luminant, Territory of The Summer Company, Lawless Territory]
 ---
 
 # The Furnace
 
-Template:Location2
+LocationL The Furnace LocationR
+
+LAWLESS TERRITORY OF The Summer Company
+
+Heat rises beneath the hall, exacerbating the exhaustion of conflict.
+
+  
 
 **The Furnace** is a Location in _Deepwoken_. It is under the [Summer Isle](Summer_Isle.md) Castle.
 

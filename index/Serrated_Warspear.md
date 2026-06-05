@@ -1,6 +1,6 @@
 ---
 title: Serrated Warspear
-revid: 213148
+revid: 213432
 source: https://deepwoken.fandom.com/wiki/Serrated_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Drops, Medium Weapons]
@@ -38,7 +38,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 
 ## Description
 
-The Serrated Warspear is a midgame to endgame [Medium Weapon](Weapons.md) obtained from Corrupted [King Threshers](King_Thresher.md), corrupted [Threshers](Thresher.md) and [Void Threshers](Thresher.md). It is on the rarer side of weapons due to being a direct drop from a mob.
+The Serrated Warspear is a midgame to endgame [Medium Weapon](Weapons.md) obtained from Corrupted [King Threshers](King_Thresher.md), corrupted [Threshers](Thresher.md) and [Void Threshers](Thresher.md). It is on the rarer side of weapons due to being a direct drop from a mob(Or a [Traan Zakshun](Traan_Zakshun.md) stock item).
 
 ## Critical
 

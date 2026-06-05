@@ -1,6 +1,6 @@
 ---
 title: District of Commerce
-revid: 189697
+revid: 213395
 source: https://deepwoken.fandom.com/wiki/District_of_Commerce
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]
@@ -10,7 +10,13 @@ notices:
 
 # District of Commerce
 
-Template:Location2
+LocationL District of Commerce LocationR
+
+LAWLESS TERRITORY OF Lost Celtor
+
+The heart of the city's trade, whose streets once brimmed with exuberance and life, now only plies its own share of miseries, tragedies, and long-nursed agonies.
+
+  
 
 **District of Commerce** is a location in _Deepwoken_. It is a landmark in [The City of the Drowned](The_City_of_the_Drowned.md).
 

@@ -1,6 +1,6 @@
 ---
 title: Starfield Veldt
-revid: 184647
+revid: 213403
 source: https://deepwoken.fandom.com/wiki/Starfield_Veldt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Voidzones]
@@ -8,7 +8,13 @@ categories: [Pages with broken file links, Locations, Voidzones]
 
 # Starfield Veldt
 
-Template:Location2
+LocationL Starfield Veldt LocationR
+
+Voidzone
+
+The beauty of the Veldt, the Star Tree stands tall.
+
+  
 
 File:Starfield veldet.jpg
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 213343
+revid: 213468
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -165,6 +165,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   Exposed Durability \[Common Talent, Ironsing\] - Deal 10% more damage to opponents with no armor durability left.
     -   Also affect players with no outfit ([Stranded](Stranded.md) Outfit)
     -   Always procs on your Basic Attacks if you have Berserk active, and with any attack against Berserk users.
+    -   Direct synergy with Arachnid's Weave, and the Metal Enchant, both of which allows you to reduce the opponent's armor at great speed on top of Ironsing's already high Armor damage. The Metal Enchant also works better on applicable weapons with M1-tagged, multi-hitting, criticals or special attacks.
     -   Prerequisite: 60 Ironsing
 
 -   _Phantom Edge_ \[Rare Talent, Ironsing\] - Your weapon Basic Attacks have +0.25 range.
@@ -4582,7 +4583,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         -   Primarily, this is just 20% Mantra PEN, however this will also affect non-Mantra/weapon damage sources like Crystal detonations, Eruptions, Surge overloads, and others.
         -   [Reinforce's](Attunement-less.md#reinforce) general resistance is affected by PEN, meaning Crippling Darkness will make things such as bleed or Steam, which bypass armor, deal more damage against Reinforce than they would otherwise.
 
--   Crippling Impact: [Reinforced War Plate](Reinforced_War_Plate.md) - Landing a critical with someone while [Wrath Gem](Wrath_Gem.md) is active disables their vent for a few seconds.
+-   Crippling Impact: [Reinforced War Plate](Reinforced_War_Plate.md) - Landing a critical on someone while [Wrath Gem](Wrath_Gem.md) is active disables their [vent](Combat_Mechanics.md#tempo) for a few seconds.
     -   Procs through parry, block and dodge with no cooldown.
     -   Duration is 5 seconds + 0.02 seconds per point of Strength, lasting 7 seconds at 100 Strength.
     -   Wrath Gems last 9 seconds with no visual indication.
@@ -4804,8 +4805,8 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 
 -   Osseous Surge: [Marrowmade Boots](Marrowmade_Boots.md) - Flourishing an enemy enhances your boots for 10 seconds, allowing you to spawn a wave of bones in the way you're facing. Right click to activate this.
     -   Pressing M2 within 10 seconds of landing a flourish causes you to stomp on the ground and send a wave of bones in the direction you're facing.
-    -   Deals 50 damage and can be jumped over or parried. This attack is unblockable and undodgeable, having the [Green Telegraph](Combat_Mechanics.md#green).
-    -   The damage this ability deals can be enhanced by wearing the [Bone Ring](Bone_Ring.md), increasing its damage to 75.
+    -   Deals 30 damage and can be jumped over or parried. This attack is unblockable and undodgeable, having the [Green Telegraph](Combat_Mechanics.md#green).
+    -   The damage this ability deals can be enhanced by wearing the [Bone Ring](Bone_Ring.md), increasing its damage to 45.
 
 -   Overflow: [Heretic's Memento](<Heretic's_Memento.md>) - Double the amount of [tempo](Combat_Mechanics.md#tempo) you receive when landing light attacks.
 

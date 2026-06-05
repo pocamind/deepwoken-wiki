@@ -1,6 +1,6 @@
 ---
 title: Beloved Zofia
-revid: 188738
+revid: 213408
 source: https://deepwoken.fandom.com/wiki/Beloved_Zofia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Pages with broken file links, Locations, Locations in the Etrean Luminant, Voidzones]
@@ -12,7 +12,13 @@ categories: [Pathfinder Exclusive, Pages with broken file links, Locations, Loca
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-Template:Location2
+LocationL Beloved Zofia LocationR
+
+Voidzone
+
+An abandoned ship lost to time, now corrupted by the spirits of the Voidsea.
+
+  
 
 File:Beloved Zofia Closer Print -D.png
 

@@ -1,14 +1,20 @@
 ---
 title: "Light's Causeway"
-revid: 199091
+revid: 213434
 source: https://deepwoken.fandom.com/wiki/Light's_Causeway
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [The Divers, Layer 1, Lawless Territory, Locations in the First Layer, Locations]
+categories: [Locations, Locations in the First Layer, Territory of The Divers, Lawless Territory]
 ---
 
 # Light's Causeway
 
-Template:Location2
+LocationL Light's Causeway LocationR
+
+LAWLESS TERRITORY OF The Divers
+
+In a narrow crook of the wastes, light beams out and offers respite to the Divers who risk condemning their souls to the abyss forever.
+
+  
 
 Light's Causeway is a location in Deepwoken. It is a sub-location of [Castle Light](Castle_Light.md).
 

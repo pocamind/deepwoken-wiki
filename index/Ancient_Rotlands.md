@@ -1,6 +1,6 @@
 ---
 title: Ancient Rotlands
-revid: 199860
+revid: 213466
 source: https://deepwoken.fandom.com/wiki/Ancient_Rotlands
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Voidzones]
@@ -10,7 +10,13 @@ notices:
 
 # Ancient Rotlands
 
-Template:Location2
+LocationL Ancient Rotlands LocationR
+
+Voidzone
+
+The scent of decay suffocates this murky land, once the home of a fallen Celestial.
+
+  
 
 **Ancient Rotlands** is a location in Deepwoken. It is a [Voidzone](Voidzones.md) area found in the [Eastern Luminant](Luminants.md).
 

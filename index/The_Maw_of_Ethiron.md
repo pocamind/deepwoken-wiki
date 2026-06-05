@@ -1,6 +1,6 @@
 ---
 title: The Maw of Ethiron
-revid: 196410
+revid: 213409
 source: https://deepwoken.fandom.com/wiki/The_Maw_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the First Floor of the Second Layer]
@@ -12,7 +12,11 @@ categories: [Pathfinder Exclusive, Locations, Locations in the First Floor of th
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-Template:Location2
+LocationL The Maw of Ethiron LocationR
+
+The air around you falls to an unsettling silence. The air is still, as a tower rises above.
+
+  
 
 ## Overview
 

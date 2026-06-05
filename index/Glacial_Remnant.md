@@ -1,17 +1,20 @@
 ---
 title: Glacial Remnant
-revid: 199724
+revid: 213447
 source: https://deepwoken.fandom.com/wiki/Glacial_Remnant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations, Locations in the Eastern Luminant, Voidzones]
+categories: [Stub pages without reason, StubPages, Locations, Locations in the Etrean Luminant, Voidzones]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
-  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Glacial Remnant
 
-Template:Location2
+LocationL Glacial Remnant LocationR
+
+Voidzone
+
+  
 
 ## Overview
 

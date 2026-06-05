@@ -1,6 +1,6 @@
 ---
 title: The Entropy Catalyst
-revid: 185015
+revid: 213401
 source: https://deepwoken.fandom.com/wiki/The_Entropy_Catalyst
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Voidzones]
@@ -8,7 +8,13 @@ categories: [Locations, Locations in the Eastern Luminant, Voidzones]
 
 # The Entropy Catalyst
 
-Template:Location2
+LocationL The Entropy Catalyst LocationR
+
+Voidzone
+
+The machina hisses ominously against the nature surrounding it, standing as a protest against life itself.
+
+  
 
 ## Description
 

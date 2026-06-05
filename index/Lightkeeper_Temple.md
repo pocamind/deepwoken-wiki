@@ -1,6 +1,6 @@
 ---
 title: Lightkeeper Temple
-revid: 205556
+revid: 213394
 source: https://deepwoken.fandom.com/wiki/Lightkeeper_Temple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant, Voidzones]
@@ -12,7 +12,10 @@ categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant,
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-Template:Location2
+LocationL Lightkeeper Temple LocationR
+
+  
+  
 
 ## Overview
 

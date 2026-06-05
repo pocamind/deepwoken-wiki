@@ -1,6 +1,6 @@
 ---
 title: Crescendo
-revid: 212501
+revid: 213449
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons]

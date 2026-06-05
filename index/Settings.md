@@ -1,6 +1,6 @@
 ---
 title: Settings
-revid: 208353
+revid: 213422
 source: https://deepwoken.fandom.com/wiki/Settings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -143,10 +143,8 @@ There are 8 combat related settings.
 
 There are 2 network related settings.
 
--   **Ping Compensation Any/West NA/East NA/Europe/Asia/Oceania/South America** - "Which region you'd like to be matchmaked into for different gamemodes. Not guaranteed.
+-   **Preferred Region Any/West NA/East NA/Europe/Asia/Oceania/South America** - "Which region you'd like to be matchmaked into for different gamemodes. Not guaranteed.
 -   **Ping Compensation On/Off** - "Delays incoming damage slightly to help you react."
-
-  
 
 ## Accessibility
 

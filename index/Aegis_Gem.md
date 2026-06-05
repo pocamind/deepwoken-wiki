@@ -1,6 +1,6 @@
 ---
 title: Aegis Gem
-revid: 213126
+revid: 213420
 source: https://deepwoken.fandom.com/wiki/Aegis_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems, The Vat Exclusive]
@@ -16,7 +16,7 @@ categories: [Treasures, Mantras, Deep Gems, The Vat Exclusive]
 | type | Deep Gem |
 | rarity | Legendary |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | pass down | No |
 | desc | It's unnaturally dense...On hit, grants Aegis, reducing damage by 10% for 10 seconds. (10s CD) |
 | obtainment | The Gaunt Man for 1 Doom of Caeranthil's ScaleVow of Iron:, Mystery Boxes |

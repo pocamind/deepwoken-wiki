@@ -1,6 +1,6 @@
 ---
 title: Cathedral of the Interstice
-revid: 212658
+revid: 213412
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_the_Interstice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]
@@ -8,7 +8,11 @@ categories: [Locations, Locations in the First Layer, Territory of Lost Celtor, 
 
 # Cathedral of the Interstice
 
-Template:Location2
+LocationL Cathedral of the Interstice LocationR
+
+LAWLESS TERRITORY OF Lost Celtor
+
+  
 
 ## Overview
 

@@ -1,6 +1,6 @@
 ---
 title: "Vigil's Mark"
-revid: 194977
+revid: 213413
 source: https://deepwoken.fandom.com/wiki/Vigil's_Mark
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant, Territory of Etrea, Lawless Territory]
@@ -8,7 +8,13 @@ categories: [Locations, Locations in the Etrean Luminant, Territory of Etrea, La
 
 # Vigil's Mark
 
-Template:Location2
+LocationL Vigil's Mark LocationR
+
+LAWLESS TERRITORY OF Etrea
+
+A common spot for vigils-to-be to test both mettle and metal.
+
+  
 
 **Vigil's Mark** is a location in _Deepwoken_. It is a landmark near the [Temple of the Blade](Temple_of_the_Blade.md).
 

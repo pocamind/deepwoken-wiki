@@ -1,6 +1,6 @@
 ---
 title: Deep Thresher Nest
-revid: 178376
+revid: 213424
 source: https://deepwoken.fandom.com/wiki/Deep_Thresher_Nest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Voidzones]
@@ -8,7 +8,11 @@ categories: [Locations, Locations in the Eastern Luminant, Voidzones]
 
 # Deep Thresher Nest
 
-Template:Location2
+LocationL Deep Thresher Nest LocationR
+
+Voidzone
+
+  
 
 **The Deep Thresher Nest** is a location in _Deepwoken._ It is a [Voidzone](Voidzones.md) found in [Aratel Island](Aratel_Island.md).
 

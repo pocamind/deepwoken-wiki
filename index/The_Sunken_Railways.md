@@ -1,6 +1,6 @@
 ---
 title: The Sunken Railways
-revid: 205960
+revid: 213410
 source: https://deepwoken.fandom.com/wiki/The_Sunken_Railways
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Second Floor of the Second Layer]
@@ -12,7 +12,11 @@ categories: [Pathfinder Exclusive, Locations, Locations in the Second Floor of t
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-Template:Location2
+LocationL The Sunken Railways LocationR
+
+Once a testament to the grand technologies of Kyrsa, now left to the rot of eternity.
+
+  
 
 **The Sunken Railways** is a location in _Deepwoken_. It is a sub-location of [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
 

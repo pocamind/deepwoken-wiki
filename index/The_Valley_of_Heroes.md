@@ -1,6 +1,6 @@
 ---
 title: The Valley of Heroes
-revid: 182251
+revid: 213390
 source: https://deepwoken.fandom.com/wiki/The_Valley_of_Heroes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant, Voidzones]
@@ -8,7 +8,13 @@ categories: [Locations, Locations in the Etrean Luminant, Voidzones]
 
 # The Valley of Heroes
 
-Template:Location2
+LocationL The Valley of Heroes LocationR
+
+Voidzone
+
+A valley left forgotten, a place of power that draws the heavens downward.
+
+  
 
 **Valley of Heroes** is a location in _Deepwoken_. It is a landmark in [Minityrsa](Minityrsa.md) found in [The Etrean Sea](The_Etrean_Sea.md).
 

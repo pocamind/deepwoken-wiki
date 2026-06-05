@@ -1,6 +1,6 @@
 ---
 title: "The Chariot's Spire"
-revid: 199440
+revid: 213406
 source: https://deepwoken.fandom.com/wiki/The_Chariot's_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the First Layer, Territory of The Ignition Union, Lawless Territory]
@@ -12,7 +12,13 @@ categories: [Pathfinder Exclusive, Locations, Locations in the First Layer, Terr
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-Template:Location2
+LocationL The Chariot's Spire LocationR
+
+LAWLESS TERRITORY OF The Ignition Union
+
+The indomitable tower sprawls into the vast depths below, welcoming all to its sinful grasp.
+
+  
 
 The Chariot's Spire is an [Ignition Union](The_Ignition_Union.md) base within [Scyphozia](First_Layer.md). It is sparsely populated, and serves as a resupply point for Deepdelvers journeying into The [Eternal Gale](Second_Layer.md).
 
