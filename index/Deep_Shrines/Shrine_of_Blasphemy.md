@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Blasphemy
-revid: 209168
+revid: 213333
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Blasphemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics]
@@ -44,7 +44,7 @@ This shrine has two effects depending on your [Power](../Power.md):
 -   With the three [Power](../Power.md) Ups granted, you immediately gain 3.
 -   Since you gain bonus damage in PvE based on your level, you immediately attain higher damage against non-players.
 -   Shrine of Blasphemy cannot grant the [Simple](../Boons_and_Flaws.md#simple) or [Vegetarian](../Boons_and_Flaws.md#vegetarian) Flaws, any unlockable Flaw ([Blind](../Boons_and_Flaws.md#flaws) or [Fugitive](../Boons_and_Flaws.md#flaws)), and cannot grant nor remove any special Flaws (like [Tarnished](../Boons_and_Flaws.md#flaws) or [Disgraced](../Boons_and_Flaws.md#flaws)).
--   Rerolling **one** [Flaw](../Boons_and_Flaws.md#flaws) worth two Flaw points ([Simple](../Boons_and_Flaws.md#simple)) results in **two** Flaws (each worth one Flaw point).\[requires testing\]
+-   Rerolling **one** [Flaw](../Boons_and_Flaws.md#flaws) worth two Flaw points ([Simple](../Boons_and_Flaws.md#simple), [Fugitive](../Boons_and_Flaws.md#flaws)) results in **two** Flaws (each worth one Flaw point).\[requires testing\]
 
 ## Dialogue
 

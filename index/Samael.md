@@ -1,6 +1,6 @@
 ---
 title: Samael
-revid: 213318
+revid: 213325
 source: https://deepwoken.fandom.com/wiki/Samael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Oath Trainer, The Starkindred Church]
@@ -25,7 +25,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Samael is an NPC. They are a Starkindred and is also the trainer for the [Starkindred](Oath%253A_Starkindred.md) Oath. He praises the [Celestial](Celestial.md) that has been captured.
+Samael is an NPC. They are a Starkindred.
+
+Samael serves as the trainer for the [Starkindred](Oath%253A_Starkindred.md) Oath. They praise the [Celestial](Celestial.md) that has been captured.
 
 They wear a [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) over a dark cloak and hood and dons a bright yellow Starkindred halo. On their back are a pair of black wings.
 

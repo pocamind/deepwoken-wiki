@@ -1,6 +1,6 @@
 ---
 title: Peipre
-revid: 212111
+revid: 213327
 source: https://deepwoken.fandom.com/wiki/Peipre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority, Individuals with unspecified pronouns]
@@ -117,7 +117,6 @@ This dialogue is unlocked after the player has defeated [Knell, The Lunatic Reso
 
 ## Trivia
 
--   [Joachim Peiper](https://en.wikipedia.org/wiki/Joachim_Peiper) was an infamous member of the _[Waffen-SS](https://en.wikipedia.org/wiki/Waffen-SS)_.
 -   Peipre seems to be a different [Capra](Capra.md) variant to the available options.
 -   Peipre has a unique telescope.
     -   Peipre actually has green eyes, but the eye magnified through the telescope is blue.

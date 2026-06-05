@@ -1,6 +1,6 @@
 ---
 title: "Knell, The Lunatic Resonator"
-revid: 213324
+revid: 213326
 source: https://deepwoken.fandom.com/wiki/Knell%2C_The_Lunatic_Resonator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Anansi NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, Enemies, Bosses, Deceased characters, Voiced Characters]
@@ -29,7 +29,7 @@ This content is not accessible outside of this gamemode.
 
 Knell, The Lunatic Resonator is a humanoid [Boss](Bosses.md) found in [Simforea](Simforea.md), an island in the [Voidsea](Voidsea.md) within the [Eastern Luminant](Luminants.md).
 
-During the time of the Old World,[\[2\]](#cite-note-raiments-2) Knell was an inhabitant of Simforea, where he was an [Ironsinger](Ironsing.md) scholar. Knell had a keen fascination with sound, which became the object of his research, and in particular was drawn to bells and chimes of various designs.[\[3\]](#cite-note-garb-3)[\[4\]](#cite-note-4) This translated to him frequently adorning his apparel and crafts with the instruments.[\[5\]](#cite-note-capeline-5)[\[6\]](#cite-note-tie-6)[\[7\]](#cite-note-reave-7)
+During the time of the Old World,[\[2\]](#cite-note-raiments-2) Knell was an inhabitant of Simforea, where he was a scholar. Knell had a keen fascination with sound, which became the object of his research, and in particular was drawn to bells and chimes of various designs.[\[3\]](#cite-note-garb-3)[\[4\]](#cite-note-4) This translated to him frequently adorning his apparel and crafts with the instruments.[\[5\]](#cite-note-capeline-5)[\[6\]](#cite-note-tie-6)[\[7\]](#cite-note-reave-7)
 
 Knell also hoped to one day obtain a [Resonance](Resonance.md).[\[1\]](#cite-note-bestiary-1) To help with this, he had his [clothes](<Ringing_Scholar's_Garb.md>) infused with [Indichite](Ores.md#indichite). Such a process could help his soul better resonate, but was also unstable.[\[3\]](#cite-note-garb-3)
 
