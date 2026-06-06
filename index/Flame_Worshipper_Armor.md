@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper Armor
-revid: 212933
+revid: 213512
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits, The Covenant of Flame, Outfits with Talents, Outfits with Exclusive Talents]
@@ -43,7 +43,7 @@ This Outfit has 1000 durability, grants +10% Physical resistance ResistanceBlunt
 
 The [Intrepid Flame](Talents.md#intrepid-flame) Talent halves the maximum duration of any [Burn](Status_Effects.md#burn) effect that is applied to the user. [Flame Within](Talents.md#flame-within)'s duration is not reduced, granting damage reduction to your Flame Within instead.
 
-The [One With Flame](Talents.md#one-with-flame) Talent grants several buffs to the player if they are currently [burning](Status_Effects.md#burn) and are using the [Worshipper's Shield](<Worshipper's_Shield.md>) and [Worshipper Longsword](Worshipper_Longsword.md). While active, you gain 25% damage reduction, your Mantras apply [burn](Status_Effects.md#burn) on hit, and your [Medium Weapon Mantras](Attunement-less.md#medium-weapon-mantras) become orange.
+The [One With Flame](Talents.md#one-with-flame) Talent grants several buffs to the player if they are currently [burning](Status_Effects.md#burn) and are using the [Worshipper's Shield](<Worshipper's_Shield.md>) and [Worshipper Longsword](Worshipper_Longsword.md). While active, you gain 25% damage reduction, your Mantras apply [burn](Status_Effects.md#burn) on hit, your [Medium Weapon Mantras](Attunement-less.md#medium-weapon-mantras) become orange, and the [Worshipper Longsword](Worshipper_Longsword.md)'s [Belief](Talents.md#belief) Talent gains Flamecharm scaling.
 
 ## Trivia
 

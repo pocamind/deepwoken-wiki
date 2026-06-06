@@ -1,6 +1,6 @@
 ---
 title: Light Hook
-revid: 210125
+revid: 213516
 source: https://deepwoken.fandom.com/wiki/Light_Hook
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Tools, The Divers]
@@ -14,7 +14,7 @@ categories: [Items, Tools, The Divers]
 | bankable | No |
 | droppable | No |
 | pass down | No |
-| desc | Call on Klaris to safely retrieve you frrom the Eternal Gale. |
+| desc | Call on Klaris to safely retrieve you from the Eternal Gale. |
 
 ## Description
 

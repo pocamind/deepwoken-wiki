@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 205734
+revid: 213508
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -135,3 +135,4 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
 -   **Be extremely careful** with who you let into your trial, as you have no idea if the Pathfinder you're helping has an [Echo Modifier](Echoes.md) such as Vow of Thorns or Deep Champion, or if they have activated the [Shrine of Courage](Shrine_of_Courage.md). It's recommended to bring Pathfinder friends to help you progress Blindseer.
 -   The mask of a statue in [The Lordsgrove](The_Lordsgrove.md) (across from the one of a Hivelord, to the left when you enter) features the old [Vesperian](Vesperian.md) variation of Blindseer.
 -   A red Blindseer eye was used as the visual warning for unparryable attacks before being replaced with the dynamic Telegraphing system which shows a variety of glyphs instead. (Changed in the May 24, 2025 update)
+-   And no, you can’t get the oath from the summer isle glyphs (I tried)

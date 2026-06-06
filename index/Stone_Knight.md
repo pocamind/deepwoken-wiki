@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 213082
+revid: 213515
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -114,7 +114,7 @@ A Stone Knight executes the player:
 -   The Blizzard Knight spawns only as a pack of 6, thus it is recommended to slowly fight them one at a time rather than risk being infinitely stunned.
 -   You can right-click after getting kick or hit with Terra Eruption to cancel the ragdoll.
 -   Their Kick is very quick so always keep an eye out.
--   Brickwall can help you recover much more quickly from the ragdoll from the Kick and Terra Eruption especially being attacked by more than one Stone Knight.
+-   The Talent "Brick Wall" can help you recover much more quickly from the ragdoll from the Kick and Terra Eruption especially being attacked by more than one Stone Knight.
 
 ## Trivia
 

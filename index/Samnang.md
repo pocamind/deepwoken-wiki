@@ -1,9 +1,9 @@
 ---
 title: Samnang
-revid: 210994
+revid: 213513
 source: https://deepwoken.fandom.com/wiki/Samnang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Quests, Clan Mofisu, Humanoids with Unobtainable Outfits]
+categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs, Quests, Clan Mofisu, Humanoids with Unobtainable Outfits]
 ---
 
 # Samnang
@@ -12,7 +12,7 @@ categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusiv
 |---|---|
 | name | Samnang |
 | aspect | Etrean |
-| pronouns | He/him |
+| pronouns | He/they |
 | location | The Lordsgrove |
 | affiliation | Clan Mofisu |
 | family | Clan Mofisu, Sophon (brother) |

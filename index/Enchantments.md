@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 213224
+revid: 213511
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -1730,7 +1730,8 @@ Allure [Enchant Grease](Enchant_Grease.md):
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
     1.  Any [Enchant Grease](Enchant_Grease.md), [Insignia Gem](Insignia_Gem.md), [Magnet Spark](Mantra_Modifiers.md#sparks)
-        
+-   Sold in [Traan Zakshun](Traan_Zakshun.md)'s black market for 5
+    
 
   
 

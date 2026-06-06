@@ -1,6 +1,6 @@
 ---
 title: Iron Cestus
-revid: 204740
+revid: 213509
 source: https://deepwoken.fandom.com/wiki/Iron_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Fists, Light Weapons]
@@ -13,7 +13,7 @@ categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons,
 | type | Fist |
 | damage type | Blunt |
 | requirements | N/A |
-| damage | 13.8 |
+| damage | 13.5 |
 | scaling | LHT: 7.5 |
 | posture damage | 5 |
 | range | 6 Sweep |

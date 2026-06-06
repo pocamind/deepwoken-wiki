@@ -1,6 +1,6 @@
 ---
 title: Fondant Splitter
-revid: 211066
+revid: 213506
 source: https://deepwoken.fandom.com/wiki/Fondant_Splitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium Weapons, Legendary Weapons, Relics, Relic Weapon]
@@ -64,9 +64,10 @@ This critical has a cooldown of **20 seconds**.
 -   Similarly to the [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), when resting at a campfire the weapon will display a different name being: _"Spongey and rich, with a hint of... Umbrite."_
 -   The Fondant Splitter is functionally soulbound, similar to the [Diver's Light Plate](<Diver's_Light_Plate.md>).
 -   The weapon is a reference to a popular trend among the community, where people used to bake real Dormant Splinter cakes in order to get a hint from Nuttoons.[\[1\]](#cite-note-1)
--   The weapon originally required 5 MED and LVL 3 on release, but was changed to its current state on [December 24th, 2024](Version_History/2024.md#december-24th-2024).
+-   The weapon originally was enchantable[\[2\]](#cite-note-2) and required 5 MED and LVL 3 on release, but was changed to its current state on [December 24th, 2024](Version_History/2024.md#december-24th-2024).
 -   The weapon's crit was exclusive to the 'Calabash' spec weapon before release.
 
 ### References
 
 1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2) [documentation of fondant splitter change (in deepwoken info server)](https://discord.com/channels/883838743172218891/883840765644660736/1321007733230665840)
