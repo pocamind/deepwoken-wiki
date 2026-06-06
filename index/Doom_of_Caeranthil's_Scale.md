@@ -1,6 +1,6 @@
 ---
 title: "Doom of Caeranthil's Scale"
-revid: 205636
+revid: 213483
 source: https://deepwoken.fandom.com/wiki/Doom_of_Caeranthil's_Scale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -19,6 +19,7 @@ categories: [Items, Drops, Ingredients]
 | droppable | Yes |
 | pass down | No |
 | desc | A much-prized trophy you prised off the beast. |
+| obtainment | The Doom of Caeranthil (direct drop), Sold in Traan Zakshun's black market for 30 |
 
 ## Description
 

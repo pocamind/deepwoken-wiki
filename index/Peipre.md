@@ -1,6 +1,6 @@
 ---
 title: Peipre
-revid: 213381
+revid: 213491
 source: https://deepwoken.fandom.com/wiki/Peipre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority, Individuals with unspecified pronouns]
@@ -13,7 +13,7 @@ categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern
 | name | Peipre |
 | aspect | Capra |
 | location | Port Merit |
-| affiliation | The Central Authority |
+| affiliation | The Central Authority, The Inquisition |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -22,6 +22,8 @@ This content is not accessible outside of this gamemode.
 ## Description
 
 Peipre is a [Capra](Capra.md) NPC. They are a member of [The Central Authority](The_Central_Authority.md) investigating the arrival of [Simforea](Simforea.md).
+
+Peipre wears the [Inquisition Light](Inquisition_Light.md) Outfit and wields the [Big Brother](Big_Brother.md) on their back, signifying their allegiance to [The Inquisition](The_Inquisition.md).
 
 ## Location
 
@@ -121,5 +123,8 @@ This dialogue is unlocked after the player has defeated [Knell, The Lunatic Reso
 -   Peipre has a unique telescope.
     -   Peipre actually has green eyes, but the eye magnified through the telescope is blue.
     -   Peipre, like all NPCs, will turn to whoever is talking to them. This causes his eye to no longer be aligned with the telescope, though doesn't cause the magnified image of his eye to disappear.
--   Peipre wears the [Inquisition Light](Inquisition_Light.md) Outfit, though it's never stated of Peipre is a member of [The Inquisition](The_Inquisition.md).
--   Peipre's name is likely a pun on "peeper".
+-   Peipre's name is a play on the word "peeping," specifically describing someone as a "peeper" referring to someone who secretly watches.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1)

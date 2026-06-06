@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 188689
+revid: 213493
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Divers, The Citadel of Markor]
@@ -22,7 +22,7 @@ categories: [Factions, The Divers, The Citadel of Markor]
 
 ## Description
 
-The Citadel Divers, more commonly known as just The Divers, are a faction implanted in The Central Luminant at the Island of [Markor](Markor.md). They are a sub-division of the [Citadel of Markor](The_Citadel_of_Markor.md), and their primary field of operation is [The Depths](The_Depths.md), where they are focused on the traversal and research of the realm, discovering and reporting valuable data to The Citadel. They were founded in 57 CE (Citadel Era) by the High Convocation of the Citadel, the governing council of the Citadel of Markor. The first leader of the Divers organisation was [Deukalion Akarad](Deukalion_Akarad.md), affectionately known as "Father Diver", who was assigned to train a core of field researchers and agents who would be sent to [The Depths](The_Depths.md).[\[1\]](#cite-note-0-1)
+The Citadel Divers, more commonly known as just The Divers, are a faction headquartered in The Central Luminant at the Island of [Markor](Markor.md). They are a sub-division of the [Citadel of Markor](The_Citadel_of_Markor.md), and their primary field of operation is [The Depths](The_Depths.md), where they are focused on the traversal and research of the realm, discovering and reporting valuable data to The Citadel. They were founded in 57 CE (Citadel Era) by the High Convocation of the Citadel, the governing council of the Citadel of Markor. The first leader of the Divers organisation was [Deukalion Akarad](Deukalion_Akarad.md), affectionately known as "Father Diver", who was assigned to train a core of field researchers and agents who would be sent to [The Depths](The_Depths.md).[\[1\]](#cite-note-0-1)
 
 Their stated purpose is to learn to better understand [The Depths](The_Depths.md) in order to combat its expansion and protect the surface from the creatures of the Deep.[\[1\]](#cite-note-0-1) The Divers consist of a variety of ranks given to each and every diver based on their power and knowledge; the standard Diver is the vast majority of the Divers, typically normal scholars and researchers who are interested in various facets of the world. They do not typically live long and make up about 95% of the Divers. The other 5% consist of more powerful Divers including Black Divers, which are prestigious and extremely strong individuals who appear very few in every generation of Divers. They assist the Divers by taking on foes a normal Diver wouldn’t be able to handle, typically representing one squad of normal Divers on their own. Notable Black Divers include Amorus Pleeksty, who kept very loose relations with the Divers before his disappearance and Akira, who can be found at Castle Light after talking to him in The Scyphozia. The Divers utilize the Song to fight primarily when their lives are in danger, but some Divers are selfish and do not hesitate to fight for their own research and interest, even against other Divers. Therefore, there is frequent conflict within the ranks.
 
@@ -77,7 +77,7 @@ You can also complete the [Layer 2](Second_Layer.md) Floor 1 dungeon to get a de
 -   While being in "The Divers" [Guild](Guilds.md), or having started as a Deepbound, you were previously able to gain [Contractor](Oath%253A_Contractor.md) without a reputation loss. However, in an update this was silently patched, and your reputation will now properly be set to hunted.
 -   The Divers is the only faction capable of having players join that survived since testing, with all other lore factions removed. Upon joining, players will have max reputation with the Divers on their next character.
 -   The official Divers server is held at discord.gg/the-divers-citadel-919399201681592340
--   The current leader of The Divers Guild in-game is [R0bustic](https://www.roblox.com/users/34919504/profile).
+-   The current leader of The Divers Guild in-game is [R0bustic](https://www.roblox.com/users/34919504/profile). The Divers guild is titled the Order of Fathoms.
 
 ## References
 

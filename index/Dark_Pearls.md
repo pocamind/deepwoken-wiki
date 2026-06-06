@@ -1,6 +1,6 @@
 ---
 title: Dark Pearls
-revid: 209918
+revid: 213481
 source: https://deepwoken.fandom.com/wiki/Dark_Pearls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears, Relics, Equipment Relics]
@@ -21,7 +21,7 @@ categories: [Equipment, Ears, Relics, Equipment Relics]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Sold in Traan Zakshun's black market for 20 |
+| obtainment | Sold in Traan Zakshun's black market for 25 |
 | description | A daring statement to the upper class, these earrings contain pearls taken from the clutches of enormous, vicious clams native to the southern seas before the Submergence. Their rarity has only deepened with time; not only were they perilously difficult to obtain, but the very creatures that produced them are now all but extinct. |
 
 ## Description
@@ -30,7 +30,7 @@ categories: [Equipment, Ears, Relics, Equipment Relics]
 
 When equipped, the pearls emit faint magic circles while ink blots out from within.
 
-[Inky Pearls](Talents.md#inky-pearls) turns your [Vent](Combat_Mechanics.md#tempo) black and makes it drain 47.5 Ether from targets it hits. This also increases your Vent's Ether cost on successful hit from 22.5 to 47.5, as well as proccing Shadowcast Talents and [Twisted Puppets'](Talents.md#twisted-puppets) burn.
+[Inky Pearls](Talents.md#inky-pearls) turns your [Vent](Combat_Mechanics.md#tempo) black and makes it drain 47.5 Ether from targets it hits. This also increases your Vent's Ether cost on successful hit from 22.5 to 47.5, as well as proccing Shadowcast Talents and [Twisted Puppets'](Talents.md#twisted-puppets) [burn](Status_Effects.md#shadow-burn).
 
 ## Trivia
 
