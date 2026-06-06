@@ -1,6 +1,6 @@
 ---
 title: "Arachnid's Weave"
-revid: 213469
+revid: 213476
 source: https://deepwoken.fandom.com/wiki/Arachnid's_Weave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, Outfits with Talents, Outfits with Exclusive Talents]
@@ -42,9 +42,10 @@ This Outfit has 2100 durability, grants +20% Physical resistance ResistanceBlunt
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 20% Physical ResistanceBlunt ResistanceSlash, 44.75% Ironsing [ResistanceIronsing](Ironsing.md), 44.75% Bloodrend [ResistanceBloodrend](Bloodrend.md), 41.5% Thundercall [ResistanceThundercall](Thundercall.md), and 35% Elemental [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceShadowcast](Shadowcast.md).
 
-The [Corrosive Touch](Talents.md#corrosive-touch) Talent makes your Critical attacks and Flourishes corrode your opponent's armor, draining an additional 5% of their armor on proc. Corrosive Touch has a 10 second cooldown. Direct synergy with the Ironsing Attunement and Metal Enchant due to theirs high armor durability damage, along with Ironsing having the Exposed Durability talent, which increases your damage output if the opponent has no armor. Having both Arachnid, Ironsing and Metal enchant _**will**_ allow you to eat the opponent's armor in few attacks.
+The [Corrosive Touch](Talents.md#corrosive-touch) Talent makes your Critical attacks and Flourishes corrode your opponent's armor, draining an additional 5% of their armor on proc. Corrosive Touch has a 10 second cooldown.
 
 ## Trivia/Notes
 
 -   This outfit has the lowest Physical resistance out of any Master armor, with a measly 20%.
 -   Arachnid's Weave originally had 15% Physical resist and a staggering 40% Elemental resist. This, along with its name (it was originally called Arachnid's Corset) were shadow updated on the same day this Outfit was added to the game.
+-   The Corrosive Touch Talent has a great synergy with the [Ironsing](Ironsing.md) Attunement and [Metal](Metal.md) Enchant.

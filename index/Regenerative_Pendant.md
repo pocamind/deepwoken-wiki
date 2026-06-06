@@ -1,6 +1,6 @@
 ---
 title: Regenerative Pendant
-revid: 210763
+revid: 213478
 source: https://deepwoken.fandom.com/wiki/Regenerative_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Craftable, Torso, Necklaces, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -46,6 +46,8 @@ When wearing the full equipment set, you will gain the Set Talent.
 
 Set Talent: [Critical Heal](Talents.md#critical-heal) - Everytime you heal, you have a chance to proc a Critical Heal, healing you 30 health. \[5 second CD\]
 
+The heal chance is weighted, having a higher chance the more healing you receive.
+
 The following sources of healing **cannot** proc Critical Heal:
 
 -   Any source of 'passive' healing (unexhaustive list below)
@@ -62,7 +64,7 @@ The following sources of healing **can** proc Critical Heal:
 -   Instant Health [potions](Alchemy.md)
 -   Ticks of healing from [Blood Scourge](Blood_Scourge.md)
 -   Ticks of healing from [Linkstrider's](Oath%253A_Linkstrider.md) [Parasitic Leech](Oath%253A_Linkstrider.md#parasitic-leech)
--   [Bloodtide Ritual](Bloodrend.md)'s Lifesteal
+-   [Bloodtide Ritual](Bloodrend.md#bloodtide-ritual)'s Lifesteal
 -   [Multiplicity](Multiplicity.md) Enchantment
 -   [Flame Wisp](Flamecharm.md#flame-wisp) Healing
 -   [Life Leech](Talents.md#life-leech) from [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>)

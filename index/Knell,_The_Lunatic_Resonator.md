@@ -1,6 +1,6 @@
 ---
 title: "Knell, The Lunatic Resonator"
-revid: 213326
+revid: 213470
 source: https://deepwoken.fandom.com/wiki/Knell%2C_The_Lunatic_Resonator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Anansi NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, Enemies, Bosses, Deceased characters, Voiced Characters]
@@ -354,7 +354,7 @@ Knell, The Lunatic Resonator executes his opponent after knocking them:
 -   Knell does not respawn after being defeated, on account of being [dead](Death.md). If one wishes to fight him again, one must ask [Yun'Shul, Keeper of Hearts](<Yun'Shul,_Keeper_of_Hearts.md>) to return him from [The Depths](The_Depths.md) to the surface via an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) or the [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
     -   This makes Knell the only boss to permanently die in the [Pathfinder](Pathfinder.md) gamemode without player input:
         -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Raeva Ferash Kenestos](<Kyrsgarde_Champion,_Kyrsa's_Star.md>) and the [Scion of Ethiron](Scion_of_Ethiron.md) are revived by the temporal anomalies present in [New Kyrsa](Second_Layer/New_Kyrsa.md).
-        -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md), the [Dread Serpent](Dread_Serpent.md), the [Interluminary Parasol](Interluminary_Parasol.md), and [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md) will respawn, either due to being species comprised of multiple individuals or simply for gameplay convenience.
+        -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md), the [Dread Serpent](Dread_Serpent.md), the [Interluminary Parasol](Interluminary_Parasol.md), and [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md) will respawn, either due to being species comprised of multiple individuals or simply for gameplay convenience.(Or they may simply swim out the Depths, true reason, however, will most likely remain unknown,)
         -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) will escape the Depths himself.
         -   The fights against [The Ferryman](The_Ferryman.md), the [Heart of Enmity](Heart_of_Enmity.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) and [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) are not to the death.
 -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/131895593576238/Dolis-Tribal-Robes) • [Pants](https://www.roblox.com/catalog/131855934926710/Dolis-Tribal-Robes)
