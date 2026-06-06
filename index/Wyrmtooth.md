@@ -1,9 +1,9 @@
 ---
 title: Wyrmtooth
-revid: 212930
+revid: 213500
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Swords, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", Heavy Weapons, Medium Weapons, Weapons with multiple Criticals, "Weapons with Multi-Hit Criticals", Weapons with Talents]
+categories: [Weapons, Swords, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", Heavy Weapons, Medium Weapons, Weapons with multiple Criticals, "Weapons with Multi-Hit Criticals", Weapons with Talents]
 ---
 
 # Wyrmtooth
@@ -41,8 +41,6 @@ The **Wyrmtooth** is a sword that drops from bosses and endgame events like the 
 
 The Wyrmtooth boasts a massive 9 range and an above average weight of 7; it can reliably outrange the majority of light and medium melee weapons and, paired with its decently high swing speed, allows you to maintain pressure on your opponents while remaining relatively safe.
 
-~Whilst wielding this weapon, all [Silentheart](Oath%253A_Silentheart.md) abilities receive a **50% damage debuff**.[\[1\]](#cite-note-1)~ As of May 31st 2026, this debuff is no longer applied due to [Silentheart](Oath%253A_Silentheart.md)'s new weapon scaling for abilities [\[2\]](#cite-note-2)
-
 ## Talents
 
 Equipping the Wyrmtooth grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
@@ -66,20 +64,9 @@ The cooldown for either critical is **10 seconds**.
 ## Trivia
 
 -   Wyrmtooth proccing both Medium and Heavy Talents includes both the Medium and Heavy weapon variants of the [Silentheart](Oath%253A_Silentheart.md) moves, proccing the heavy ones if the medium ones are on cooldown.
--   Before the update that granted Wyrmtooth the ability to proc Talents from both weapon classes, it could only proc Talents from the [Thunderblade](Talents.md#thunderblade) Talent tree and [Destructive Recovery](Talents.md#destructive-recovery).
+    -   However, as the Silentheart abilities scale on their respective attributes (heavy attacks on Heavy Weapons and vice versa for the medium ones), this weapon can be very expensive to use on a Silentheart build without sacrificing damage.
+-   Before the update that classified Wyrmtooth as both a Sword and Greatsword, it could only proc Talents from the [Thunderblade](Talents.md#thunderblade) Talent tree and [Destructive Recovery](Talents.md#destructive-recovery).
 -   Wyrmtooth benefits from the Heavy weapon hit count for [Enchant](Enchantments.md) effects. For example, Detonation will proc after landing 3 hits instead of 4.
--   On the April 13th, 2024 update, the Wyrmtooth was purported to have had its PEN increased to 25% but this was never applied ingame until June 9th, 2025, when the PEN was shadow fixed to 25%.
--   Akin to the [Railblade](Railblade.md), it can only be wielded with one hand.
-    -   Both weapons share the same light attack animations.
+-   On the [April 13th, 2024](Version_History/2024.md#april-13th-2024) update, the Wyrmtooth was purported to have had its PEN increased to 25% but this was never applied ingame until [June 9th, 2025](Version_History/2025.md#june-9th-2025), when the PEN was shadow fixed to 25%.
+-   This weapon shares basic attack animations with the [Railblade](Railblade.md).
 -   Both its criticals formerly lacked the universal windup VFX. Its sliding critical also lacked a sound cue.
--   It once had 10 range and 6 weight, with a 6s cooldown for its critical attacks.
--   Despite the nerfs to its range, the weapons model wasn't shortened accordingly.
-
-## References
-
-1.  [↑](#cite-ref-1) Update log on 1/2/2026 applying the damage debuff change File:Wyrmtooth dmg debuff.png
-2.  [↑](#cite-ref-2)
-    
-    File:Image 2026-05-31 183757452.png
-    
-    Update log on 05/31/2026

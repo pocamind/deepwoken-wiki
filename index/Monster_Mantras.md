@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 212624
+revid: 213498
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -451,9 +451,8 @@ Typeless
 
 -   Deals 15 typeless damage on proc, bypassing armor resistances.
 -   Alternatively procs on all uppercut Mantras, such as Skyshatter Kick and Celestial Assault.
--   Ragdolls the target on hit.
 -   3 charges unmodded (5 with [Bone Ring](Bone_Ring.md))
--   5 second cooldown (no cd with Bone Ring)
+-   5 second cooldown (1s cd with Bone Ring)
 -   Bone Wisp has various inconsistencies on what can or cannot proc it. Below is a list of all things that are confirmed on whether or not they proc it.
     -   The following abilities can proc Bone Wisp:
         -   Base combat: Uppercuts, Flourishes, and Offhand [Pistol](Pistols.md) shots (even if you do not have [Execution](Talents.md#execution)).
