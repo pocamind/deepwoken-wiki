@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 211793
+revid: 213661
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -65,6 +65,7 @@ You can buy an official Sharko Plush made by Makeship [here](https://www.makeshi
 -   HINT: If you can't solve a puzzle and have to use the wiki, you are foolish and I will laugh at you. As a friend. Like, in a friendly way.
 -   HINT: If you die in Deepwoken, you go to hell.
 -   HINT: If you shower, there's a higher chance of you finding happiness. Try it out sometime.
+-   HINT: I'm sixty steps ahead of you. You're playing checkers while I'm playing chess. While you're playing water polo, I'm playing strategic simulations of historic warfare.
 -   HINT: The sorcerer has harmed me once more.
 -   HINT: The strength of the Megurger comes from the concept, not the physical object.
 -   HINT: This game is awful. The developers really suck.
@@ -72,6 +73,7 @@ You can buy an official Sharko Plush made by Makeship [here](https://www.makeshi
 -   Hey, do you mind if I dig around in your inventory a bit? I'm hungry.
 -   I can tell you've never churned butter before. Look at you. Churnless, pathetic.
 -   I could end you in one hit if I really wanted to. Watch your back.
+-   I could really go for a Kyrsdog right about now...
 -   I had a pet fish once. His name was Rodrigo. I was real hungry though, so...
 -   ...I should buy a boat.
 -   I'm hungry. Like, I really could go for some rigatoni right now.

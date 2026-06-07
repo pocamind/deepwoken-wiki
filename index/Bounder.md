@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 200117
+revid: 213668
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, The Depths]
@@ -56,7 +56,7 @@ Block
  |
 | 
 
-**Charge**  
+**Bound**  
 (★★★)
 
  | The Bounder lowers its head and continuously stomps its foot before charging in the direction of their prey, knocking them down and damaging them in the process.
@@ -77,7 +77,7 @@ Dodge
 
 | Name | Description |
 | --- | --- |
-| **Feast** | Picks the victim up with both hands and opens it's mouth wide open, then places them in it's mouth, eating them. |
+| **Slam** | Raises both hands slightly higher and slams it on the victim, killing them. |
 
 ## Trivia
 

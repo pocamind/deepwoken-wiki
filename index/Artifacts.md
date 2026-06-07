@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 206440
+revid: 213665
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Interactible Objects, Mechanics]
@@ -36,6 +36,7 @@ An Artifact is also necessary to activate the [Deep Crucible](Deep_Crucible.md).
 -   [Meteor Isle](Meteor_Isle.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [The Starswept Valley](The_Starswept_Valley.md)
+-   [The Vashtir Sea](The_Aratel_Sea.md)
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Chance
-revid: 213653
+revid: 213656
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Chance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Vendors, NPCs, Mechanics]
@@ -59,15 +59,12 @@ Shrine of Chance
     -   You can exchange a Common Talent for an Advanced Talent and vice versa via **Talent Exchange**.
     -   You can exchange a Common or Advanced Talent for a Rare via **Talent Elevation**.
     -   You can exchange a Rare Talent and potentially receive a Talent hand that has both Common and Advanced Talents via **Talent Degradation**.
--   You can exchange a Faction Talent a hand of Faction Talents.
-    -   Players exiled from the [Authority Ensign](../Authority_Ensign.md) Origin are unable to reroll their faction Talents.
-    -   You cannot exchange a base Faction Talent to gain a Talent that is exclusive to a [Division](../Authority_Ensign.md) or [Path](<../Justicar_(Origin).md>). For example, you cannot get a Talent from your [Ensign Division](../Authority_Ensign.md) by exchanging [Crossguard](../Talents.md#crossguard).
+-   Players who are exiled from their faction are unable to reroll their faction Talents.
+-   When using the Faction Talent exchange, you cannot exchange a base Faction Talent to gain a Talent that is exclusive to a [Division](../Authority_Ensign.md) or [Path](<../Justicar_(Origin).md>). For example, you cannot get a Talent from your [Ensign Division](../Authority_Ensign.md) by exchanging [Crossguard](../Talents.md#crossguard).
 -   The Talent Draw is affected by Talent Favoring and Foretelling, make sure to use them to not waste Knowledge.
 -   You must meet the requirements at least one non-mutually exclusive Talent in order to exchange a Talent for another.
     -   For example, if the only Rare Talents you can obtain are [Observation](../Talents.md#observation) and [Safety Dance](../Talents.md#safety-dance), you will not be able to exchange [Risky Moves](../Talents.md#risky-moves) for them, however if you also meet the requirements of (but don't already own) [Cheap Shot](../Talents.md#cheap-shot), then you will be able to exchange [Risky Moves](../Talents.md#risky-moves) for either of the Leaf in the Wind Talents.
 -   You cannot trade away a Talent if it is a prerequisite of another Talent. You must get rid of each Talent in the reverse requirement order to trade them away.
--   One of the most valuable Deep Shrines, this lets you obtain Talents you might have missed.
--   The Shrine of Chance used to be located at [Fort Merit](../Fort_Merit.md), but was moved to Meteor Isle.
 
 ## Dialogue
 
@@ -131,6 +128,12 @@ If the player has an unchosen Talent, Mantra, or Trait hand, this dialogue will 
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   The Shrine of Chance used to be located at [Fort Merit](../Fort_Merit.md), but was moved to Meteor Isle.
+
+  
 
 ## Navigation
 

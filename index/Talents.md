@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 213648
+revid: 213664
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1705,7 +1705,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 -   _Armor Piercing_ \[Rare Talent, Medium Weapon // Light Weapon\] - Guns Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied.
     -   Mathematically speaking, Armor Piercing is effectively a multiplicative 10% increase to your PEN against blunt armor, applied **after** all other PEN sources, meaning Armor Piercing has heavy diminishing returns based on how much PEN you have.
-        -   While at 0% PEN, this effectively grants +10% PEN against blunt armor, but this amount gets reduced by 1% for every 10% PEN you have. The formula is as follows: (1 - ((1 - Current PEN/100) \* (1 - 0.1))) \* 100 = effective PEN against blunt armor.
+        -   While at 0% PEN, this effectively grants +10% PEN against blunt armor, but this amount gets reduced by 1% for every 10% PEN you have. The formula is as follows: 1 - ((1 - Current PEN%) × (1 - 0.1)) = effective PEN against blunt armor.
         -   For example: having 20% PEN + Armor Piercing is equivalent to having 28% PEN against blunt armor (+8).
     -   Specific rifles benefit less from Armor Piercing than others due to their damage typings.
         -   For [Rifle Spear](Rifle_Spear.md), this will only proc on critical, due to Rifle Spear being a slash based weapon.
@@ -1731,7 +1731,6 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 -   _Hip Shooter_ \[Rare Talent, Light Weapon, Medium Weapon // Heavy Weapon\] - When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile.
     -   This requires you to have [bullets](Bullets.md) in your inventory.
-    -   Currently does not work.
     -   5 second cooldown.
     -   Prerequisites: 25 Light Weapon, 50 Medium Weapon // 50 Heavy Weapon, Using an Offhand Pistol
     -   Mutual Exclusive: Execution
@@ -1773,8 +1772,6 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   True Ether Bullets now procs in 2 hits instead of 3.
     -   Adds 1.2 Intelligence scaling to your Pistols. Stacks with the [Rosen's Ring](<Rosen's_Ring.md>).
     -   Prerequisites: 90 Light Weapon, 60 Intelligence, True Ether Bullets, Using a Pistol
-
-BUG NOTE: This talent is currently experiencing a bug AGAIN as of June 7, 2026, and will not work with any attunement.
 
 ### Hammer Rage
 
@@ -2427,8 +2424,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   _Mark of the Lone Warrior_ \[Origin Talent, [Lone Warrior](Lone_Warrior.md)\] - Progress much faster when progressing alone. Gain a damage boost when facing threats alone and also when outnumbered.
     -   Grants an experience multiplier if no other player has credit for the mob kill or event completion.
     -   Deal 5% more damage to opponents you've combat tagged or opponents who have combat tagged you, but only if they have less or an equal amount of combat tags as you.
-    -   The damage buff also scales additively for every combat tag you have above 1. (Ex - 50% at 10 combat tags)
-    -   The buff was also stated to bypass damage cap.
     -   The damage buff does not work if any of your allies are in the server, even if you have [No Holds Barred](Settings.md) toggled on.
     -   Prerequisites: [Lone Warrior](Lone_Warrior.md) Origin, complete [Trial of One](Trial_of_One.md)
 
@@ -2828,9 +2823,9 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Public Figure
 
 -   Celebrity \[Common Talent, Charisma\] - Your base reputation with factions is higher and your reputation caps out higher. Reduces the penalty for committing crimes.
-    -   Prerequisite: 40 Charisma
     -   Whenever you are knocked by town guards from a faction in which you have good reputation, the town guards will scold you instead of gripping you, letting you live.
     -   Angering a faction by attacking a player ally of their own will prevent guards from aggroing on you.
+    -   Prerequisite: 40 Charisma
 
 -   Under The Radar \[Common Talent, Charisma\] - The negative reputation threshold for a faction to put out posters of you is now higher. (+1 health)
     -   If it is stacked with the "Celebrity" Talent you can immediately avoid being hunted by [Voidwalkers](Voidwalker.md) until you lose one of the two Talents or continue to have a very bad reputation with [The Knives of Eylis](The_Knives_of_Eylis.md) or some other [faction](Reputation.md).
