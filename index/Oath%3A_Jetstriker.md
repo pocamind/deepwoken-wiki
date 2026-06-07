@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 208855
+revid: 213564
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -153,25 +153,153 @@ On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot
 
 #### Combat Mantras
 
--   **Fake Strike** - Trick your opponent and quickly go behind them.
-    -   Plays your current M1 animation as an "fake strike", then quickly teleports and strikes behind the target.
-    -   Deals 21.68 Oath damage 3 times, adding up to 65.04 Oath damage.
-    -   Recolors to your dye and increases base damage by 20% when used at 100% momentum.
-    -   Slowly forces the user forwards, preventing user directional input. (Seen below)
-        -   However does not prevent user from sliding, allowing user to move much faster.
-    -   The "real strike" hitboxes are in front of the user, allowing the user to purposely rotate and miss to bait out parries.
-    -   Has a cooldown of 15 seconds once the move has ended. (Full cooldown on feint/whiff)
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Fake Strike** (☆☆☆)
+
+**Combat Mantra**
+
+_Trick your opponent and quickly go behind them._
+
+ | 
+
+## Fake Strike (☆☆☆)
+
+  
+**Combat Mantra**  
+_Trick your opponent and quickly go behind them._
+
+ |
+| 
+
+(?) Ether [IconEther](Ether.md)
+
+ | 
+
+TBA
+
+ | 
+
+TBA
+
+ |
+| 
+
+**Effect:** _Plays your current M1 animation as an "fake strike", then quickly teleports and strikes behind the target._
+
+-   Deals 21.68 Oath damage 3 times, adding up to 65.04 Oath damage.
+-   Recolors to your dye and increases base damage by 20% when used at 100% momentum.
+-   Slowly forces the user forwards, preventing user directional input. (Seen below)
+    -   However does not prevent user from sliding, allowing user to move much faster.
+-   The "real strike" hitboxes are in front of the user, allowing the user to purposely rotate and miss to bait out parries.
+-   Has a cooldown of 15 seconds once the move has ended. (Full cooldown on feint/whiff)
+
+ |
 
 #### Mobility Mantras
 
--   **Jet Kick** - Rush forward with a jet kick. Requires a target if you're in combat.
-    -   A simple dash that damages targets it comes in contact with.
-    -   Deals 38.25 Oath damage.
-    -   Recolors to your dye and increases base damage by 20% when used at 100% momentum.
-    -   Out of combat, it simply targets in front of the player model, allowing free mobility.
-    -   In combat, becomes mouse aimed, can target enemies upwards as well.
-        -   Will also cancel your physical momentum on contact. (Seen below)
-    -   Has a cooldown of 13 seconds once the move has ended. (Full cooldown on whiff)
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Jet Kick** (☆☆☆)
+
+**Mobility Mantra**
+
+_Rush forward with a jet kick. Requires a target if you're in combat._
+
+ | 
+
+## Jet Kick (☆☆☆)
+
+  
+**Mobility Mantra**  
+_Rush forward with a jet kick. Requires a target if you're in combat._
+
+ |
+| 
+
+(?) Ether [IconEther](Ether.md)
+
+ | 
+
+TBA
+
+ | 
+
+TBA
+
+ |
+| 
+
+**Effect:** _A simple dash that damages targets it comes in contact with._
+
+-   Deals 38.25 Oath damage.
+-   Recolors to your dye and increases base damage by 20% when used at 100% momentum.
+-   Out of combat, it simply targets in front of the player model, allowing free mobility.
+-   In combat, becomes mouse aimed, can target enemies upwards as well.
+    -   Will also cancel your physical momentum on contact. (Seen below)
+-   Has a cooldown of 13 seconds once the move has ended. (Full cooldown on whiff)
+
+ |
 
 ## Notes
 

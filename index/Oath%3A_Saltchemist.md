@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 205290
+revid: 213558
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -103,20 +103,83 @@ This Oath makes the Perpetual Distillery appear on your character's arm.
 
 #### Combat Mantras
 
--   **Lethal Injection** - Lunge forward and inject the targeted person with all of your auto-brew potions.
-    -   Costs 50 ether to cast.
-    -   Has a 0.5sec windup.
-    -   This injects all of the _negative_ effects of every potion in your Distillery, none of the positive effects will apply.
-    -   Puts all potions in your Distillery on cooldown. If a potion is on cooldown when using Lethal Injection, its effect will be omitted from your Mantra.
-    -   Has a shorter cooldown than your potions do.
-    -   Has the unique property of being able to apply several of the same kind of potion.
-    -   Deals a small amount of hit-stun.
-    -   Does **1** damage on hit, however damage potions can be added to your Distillery to make it deal more damage.
-    -   Damage potions have a significantly reduced effect on Lethal Injection, dealing 1/3rd (33.333~%) of their original damage.
-        -   Because of this, you'll have to heavily invest if you want your Lethal Injection to be a damage tool, potentially removing any support or debuff potions from your Distillery.
-    -   Auto-tracks.
--   Obtained after crafting 1 [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers) + 1 [Pluripotent Alloy](Pluripotent_Alloy.md) + 1 [Stardust](Stardust.md) together.
-    -   Only the Vibrant Gem is consumed.
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Lethal Injection** (☆☆☆)
+
+**Combat Mantra**
+
+_Lunge forward and inject the targeted person with all of your auto-brew potions._
+
+ | 
+
+## Lethal Injection (☆☆☆)
+
+  
+**Combat Mantra**  
+_Lunge forward and inject the targeted person with all of your auto-brew potions._
+
+ |
+| 
+
+(?) Ether [IconEther](Ether.md)
+
+ | 
+
+TBA
+
+ | 
+
+Crafting 1 [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers) + 1 [Pluripotent Alloy](Pluripotent_Alloy.md) + 1 [Stardust](Stardust.md) together. (Only the Vibrant Gem is consumed)
+
+ |
+| 
+
+**Effect:** _Dash forward and stab the target with all your 3 auto-brew potions_
+
+-   Costs 50 ether to cast.
+-   Has a 0.5sec windup.
+-   This injects all of the _negative_ effects of every potion in your Distillery, none of the positive effects will apply.
+-   Puts all potions in your Distillery on cooldown. If a potion is on cooldown when using Lethal Injection, its effect will be omitted from your Mantra.
+-   Has a shorter cooldown than your potions do.
+-   Has the unique property of being able to apply several of the same kind of potion.
+-   Deals a small amount of hit-stun.
+-   Does **1** damage on hit, however damage potions can be added to your Distillery to make it deal more damage.
+-   Damage potions have a significantly reduced effect on Lethal Injection, dealing 1/3rd (33.333~%) of their original damage.
+    -   Because of this, you'll have to heavily invest if you want your Lethal Injection to be a damage tool, potentially removing any support or debuff potions from your Distillery.
+-   Auto-tracks.
+
+ |
 
 ## Trivia
 

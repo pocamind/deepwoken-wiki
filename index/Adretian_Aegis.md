@@ -1,6 +1,6 @@
 ---
 title: Adretian Aegis
-revid: 202199
+revid: 213568
 source: https://deepwoken.fandom.com/wiki/Adretian_Aegis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Pathfinder Exclusive, Weapons, The Central Authority, Shields, Offhand]

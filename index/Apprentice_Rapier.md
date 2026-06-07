@@ -1,6 +1,6 @@
 ---
 title: Apprentice Rapier
-revid: 212355
+revid: 213574
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons, Weapons with Talents]
@@ -43,7 +43,7 @@ The Apprentice Rapier is an early-game Rapier. It acts as the entry point to the
 
 Equipping the Apprentice Rapier grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Careful Stance** - gain a bit more autoparry frames on successful parries.
+**Careful Stance** grants increased autoparry frames.
 
 ## Critical
 

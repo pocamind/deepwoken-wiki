@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 211298
+revid: 213563
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers]
@@ -69,21 +69,216 @@ This Oath grants 3 Combat Mantra Slots. As for appearance, it changes the eye co
 
 #### Combat Mantras
 
--   **Blinding Dawn** - Spin rapidly to unleash powerful rays of light.
-    -   Has 1.2s windup, takes 2.1s to land all hits.
-    -   Deals 18 total hits of Oath damage, with 9.333 base damage per hit.
+| 
+**Name**
 
--   **Radiant Kick** - Kick your foes at the speed of light.
-    -   Has 0.45s windup
-    -   Deals a base of 19.5 Oath damage twice.
+ | 
 
--   **Radiant Dawn** - Strike down your foes with your blinding light.
-    -   Deals 46.5 base Oath damage.
-    -   Takes 1.45s (to hit), 0.45s (to jump in air) + 1s to land.
-    -   This Mantra is **unparriable** and guardbreaks if anybody attempts to do so.
-    -   This move has an early hitbox. It registers a hit before the attack hits the ground. Make sure to dodge **before** the move is going to land.
-    -   Requires the player to actually hit the floor after the initial leap for the explosion to go off in a certain timeframe.
-        -   This means that in low-gravity environments such as [Scyphozia](First_Layer.md), this mantra is very inconsistent in combat use.
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Blinding Dawn** (☆☆☆)
+
+**Combat Mantra**
+
+_Spin rapidly to unleash powerful rays of light._
+
+ | 
+
+## Blinding Dawn (☆☆☆)
+
+  
+**Combat Mantra**  
+_Spin rapidly to unleash powerful rays of light._
+
+ |
+| 
+
+55 Ether [IconEther](Ether.md)
+
+ | 
+
+Oath [ResistanceOath](Oaths.md)
+
+ | 
+
+Costs 30 Kyrsan Medallions
+
+ |
+| 
+
+**Effect:** _User stands on their hands and spins, shooting beams of light out of their feet._
+
+-   Has 1.2s windup, takes 2.1s to land all hits.
+-   Deals 18 total hits of Oath damage, with 9.333 base damage per hit.
+
+ |
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Radiant Kick** (☆☆☆)
+
+**Combat Mantra**
+
+_Kick your foes at the speed of light._
+
+ | 
+
+## Radiant Kick (☆☆☆)
+
+  
+**Combat Mantra**  
+_Kick your foes at the speed of light._
+
+ |
+| 
+
+70 Ether [IconEther](Ether.md)
+
+ | 
+
+Oath [ResistanceOath](Oaths.md)
+
+ | 
+
+Costs 15 Kyrsan Medallions
+
+ |
+| 
+
+**Effect:** _Teleport to your opponent with a flashing kick._
+
+-   Has 0.45s windup
+-   Deals a base of 19.5 Oath damage twice.
+
+ |
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Radiant Dawn** (☆☆☆)
+
+**Combat Mantra**
+
+_Strike down your foes with your blinding light._
+
+ | 
+
+## Radiant Dawn (☆☆☆)
+
+  
+**Combat Mantra**  
+_Strike down your foes with your blinding light._
+
+ |
+| 
+
+100 Ether [IconEther](Ether.md)
+
+ | 
+
+Oath [ResistanceOath](Oaths.md)
+
+ | 
+
+Costs 15 Kyrsan Medallions
+
+ |
+| 
+
+**Effect:** _User leaps into the air and then comes back down with an unparryable slam._
+
+-   Deals 46.5 base Oath damage.
+-   Takes 1.45s (to hit), 0.45s (to jump in air) + 1s to land.
+-   This Mantra is **unparryable** and guardbreaks if anybody attempts to do so.
+-   This move has an early hitbox. It registers a hit before the attack hits the ground. Make sure to dodge **before** the move is going to land.
+-   Requires the player to actually hit the floor after the initial leap for the explosion to go off in a certain timeframe.
+    -   This means that in low-gravity environments such as [Scyphozia](First_Layer.md), this mantra is very inconsistent in combat use.
+
+ |
 
 ## Trivia
 

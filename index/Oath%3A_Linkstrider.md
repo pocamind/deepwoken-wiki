@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 213270
+revid: 213561
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -88,23 +88,149 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
 
 #### Support Mantras
 
--   **Symbiotic Sustain** - Activate when linked to an ally to sacrifice your own health to them.
-    -   If linked to an ally (signified by blue cord), sacrifice 6% (4.8% if equipped with [Deepscorn Casque](Deepscorn_Casque.md)) of your HP to be turned into wither to restore 15% of the target's HP overtime. This ability can be interrupted.
-    -   It has a 22.5 second cooldown.
-    -   Does **not** work with any deep gem besides Blue.
-    -   Obtained upon killing 2 players with [Oaths](Oaths.md).
+| 
+**Name**
 
--   **Parasitic Leech** - Activate when linked to an enemy to leech their own health for a short duration.
-    -   If linked to an enemy (signified by red cord), steal HP from the target in ticks. You can move while this is active, but not block, attack, nor cast. The amount of HP gained from the Leech is a proportion of the target's total HP.
-        -   Leeches 7% of an enemy's HP and gives you the flat amount of HP stolen back.
-        -   For example, [Duke](Duke_Ishamon_Erisia.md) grants more HP than a [Mindless Servant](Mindless_Servant.md), since he has a significantly higher Health Pool.
-    -   Parryable. A successful parry on the first tick will cause Parasitic Leech to fail, not initiating its cooldown.
-    -   Blockable. While blocking may stop the damage, it will not stop the caster's healing.
-    -   Especially effective against targets who cannot parry, such as Ferryman, healing as much as a bar and a half at once.
-    -   Can be used with Bloodless to heal more health.
-    -   Can be used with a Wind Gem to make it easier to avoid being hit while leeching.
-    -   Leech ticks can proc [Hard Read](Talents.md#hard-read), and most blocking related talents.
-    -   Obtained upon killing 3 players with [Oaths](Oaths.md).
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Symbiotic Sustain** (☆☆☆)
+
+**Support Mantra**
+
+_Activate when linked to an ally to sacrifice your own health to them._
+
+ | 
+
+## Symbiotic Sustain (☆☆☆)
+
+  
+**Support Mantra**  
+_Activate when linked to an ally to sacrifice your own health to them._
+
+ |
+| 
+
+(?) Ether [IconEther](Ether.md)
+
+ | 
+
+N/A
+
+ | 
+
+Upon killing 2 players with [Oaths](Oaths.md)
+
+ |
+| 
+
+**Effect:** _If linked to an ally (signified by blue cord), sacrifice 6% (4.8% if equipped with [Deepscorn Casque](Deepscorn_Casque.md)) of your HP to be turned into wither to restore 15% of the target's HP overtime. This ability can be interrupted._
+
+-   It has a 22.5 second cooldown.
+-   Does **not** work with any deep gem besides Blue.
+
+ |
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Parasitic Leech** (☆☆☆)
+
+**Support Mantra**
+
+_Activate when linked to an ally to sacrifice your own health to them._
+
+ | 
+
+## Parasitic Leech (☆☆☆)
+
+  
+**Support Mantra**  
+_Activate when linked to an ally to sacrifice your own health to them._
+
+ |
+| 
+
+(?) Ether [IconEther](Ether.md)
+
+ | 
+
+N/A
+
+ | 
+
+Upon killing 3 players with [Oaths](Oaths.md)
+
+ |
+| 
+
+**Effect:** _If linked to an enemy (signified by red cord), steal HP from the target in ticks. You can move while this is active, but not block, attack, nor cast. The amount of HP gained from the Leech is a proportion of the target's total HP._
+
+-   Leeches 7% of an enemy's HP and gives you the flat amount of HP stolen back.
+-   For example, [Duke](Duke_Ishamon_Erisia.md) grants more HP than a [Mindless Servant](Mindless_Servant.md), since he has a significantly higher Health Pool.
+-   Parryable. A successful parry on the first tick will cause Parasitic Leech to fail, not initiating its cooldown.
+-   Blockable. While blocking may stop the damage, it will not stop the caster's healing.
+-   Especially effective against targets who cannot parry, such as Ferryman, healing as much as a bar and a half at once.
+-   Can be used with Bloodless to heal more health.
+-   Can be used with a Wind Gem to make it easier to avoid being hit while leeching.
+-   Leech ticks can proc [Hard Read](Talents.md#hard-read), and most blocking related talents.
+
+ |
 
 ## Trivia
 

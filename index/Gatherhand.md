@@ -1,18 +1,12 @@
 ---
 title: Gatherhand
-revid: 212047
+revid: 213613
 source: https://deepwoken.fandom.com/wiki/Gatherhand
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Game-adjacent articles", In progress with reason, InProgressPages, Society and culture]
-notices:
-  - This page is currently being worked on. Needs letters in Gatherhand
+categories: [Society and culture]
 ---
 
 # Gatherhand
-
-**Game-adjacent article**  
-This game content bears more significance to _Deepwoken'_s world than to the game.  
-Thus, this article focuses on that.
 
 ## Description
 
@@ -24,9 +18,7 @@ Gatherhand was also used in [Erisia](Erisia.md), where various statues of the is
 
 During 1271 CE[\[3\]](#cite-note-3), [Lance](Lance.md)'s shop Lance's Food bore a sign written in Gatherhand.[\[4\]](#cite-note-4)
 
-### Letters
-
-In Gatherhand, letters that are underlined emphasize capitalization.
+## Alphabet
 
 <table>
 <tbody>
@@ -91,9 +83,16 @@ In Gatherhand, letters that are underlined emphasize capitalization.
 </tbody>
 </table>
 
+### Notes
+
+-   The letter X does not make an ingame appearance, and instead reflects their historical usage in the basic alphabet.
+-   Gatherhand 'O' will mirror itself when used at the end of a word.
+-   Letters in Gatherhand that are underlined represent capitalization.
+-   (The Gatherhand letters shown above are from avocado53's Calligraphr font. Thank you for allowing us to use this!)
+
 ## Trivia
 
--   The earliest form of Gatherhand was shown in the [Oath: Saintsworn](Oath%253A_Saintsworn.md) cosmetic and its [respective weapon](Oath%253A_Saintsworn.md#abilities).
+-   The earliest usage of Gatherhand being implemented into the game goes to the [Oath: Saintsworn](Oath%253A_Saintsworn.md) cosmetic and its [respective weapon](Oath%253A_Saintsworn.md#abilities).
 
 ## References
 

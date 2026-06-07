@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 203419
+revid: 213555
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -25,7 +25,7 @@ categories: [Oaths]
 
 ― Your Scissors upon an Oathbreak
 
-Fadetrimmer is a enigmatic Oath taken by all barbers in order to morph the physical appearance of their customers. By taking this Oath, you are given a pair of seemingly sentient scissors, as you and your new companion set out to fix the direst of hairlines and trims.
+Fadetrimmer is an enigmatic Oath taken by all barbers in order to morph the physical appearance of their customers. By taking this Oath, you are given a pair of seemingly sentient scissors, as you and your new companion set out to fix the direst of hairlines and trims.
 
 ## Obtainment
 
@@ -72,21 +72,150 @@ This Oath grants 1 Combat Mantra Slot, and 2 Wildcard Mantra Slots. As for appea
 
 #### Combat Mantras
 
--   **Close Shave** - Close the distance and deliver a fast slash.
-    -   Aims in the direction of the cursor.
-    -   Deals 50 Oath DMG with 0 songchant.
-    -   Deals 56 Oath DMG with 6 songchant.
-    -   Deals 18 posture damage if blocked.
-    -   Has 5% chip damage. This allows it to change your opponent's haircut even if they block it.
-    -   Can be used for movement.
-    -   Has a cooldown of 20 seconds.
+| 
+**Name**
 
--   **Precision Cuts** - Snip forward 3 times with your scissors!
-    -   Deals 60 Oath DMG with 0 songchant (20 per hit).
-    -   Deals 67.2 Oath DMG with 6 songchant (22.4 per hit)
-    -   Deals 9 posture damage per hit.
-    -   This move applies very low auto parry frames.
-    -   Has a cooldown of 15 seconds.
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Close Shave** (☆☆☆)
+
+**Combat Mantra**
+
+_Close the distance and deliver a fast slash._
+
+ | 
+
+## Close Shave (☆☆☆)
+
+  
+**Combat Mantra**  
+_Close the distance and deliver a fast slash._
+
+ |
+| 
+
+65 Ether [IconEther](Ether.md)
+
+ | 
+
+Slash ResistanceSlash + Oath [ResistanceOath](Oaths.md)
+
+ | 
+
+Obtained with the Oath
+
+ |
+| 
+
+**Effect:** _User aims in the direction of the cursor to a target, then dashes forward and performs a quick slash._
+
+-   Deals 50 Oath DMG with 0 songchant.
+-   Deals 56 Oath DMG with 6 songchant.
+-   Deals 18 posture damage if blocked.
+-   Has 5% chip damage. This allows it to change your opponent's haircut even if they block it.
+-   Can be used for movement.
+-   Has a cooldown of 20 seconds.
+
+ |
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Precision Cuts** (☆☆☆)
+
+**Combat Mantra**
+
+_Snip forward 3 times with your scissors!_
+
+ | 
+
+## Precision Cuts (☆☆☆)
+
+  
+**Combat Mantra**  
+_Snip forward 3 times with your scissors!_
+
+ |
+| 
+
+50 Ether [IconEther](Ether.md)
+
+ | 
+
+Slash ResistanceSlash + Oath [ResistanceOath](Oaths.md)
+
+ | 
+
+Obtained with the Oath
+
+ |
+| 
+
+**Effect:** _Wind up your scissors and throw out three quick cuts._
+
+-   Deals 60 Oath DMG with 0 songchant (20 per hit).
+-   Deals 67.2 Oath DMG with 6 songchant (22.4 per hit)
+-   Deals 9 posture damage per hit.
+-   This move applies very low auto parry frames.
+-   Has a cooldown of 15 seconds.
+
+ |
 
 ## Trivia
 

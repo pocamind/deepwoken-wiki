@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 213188
+revid: 213557
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -148,33 +148,226 @@ All of these Talents are obtained with the Oath. These are the base Murmur Talen
 
 #### Combat Mantras
 
--   **Ardour Slicer** - Close the distance and deliver a fast slash using your Ardour.
-    -   User launches a projectile similar to Wind Blade.
-    -   Deals 28 Oath damage.
-    -   Has 40% chip damage.
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Ardour Slicer** (☆☆☆)
+
+**Combat Mantra**
+
+_Close the distance and deliver a fast slash using your Ardour._
+
+ | 
+
+## Ardour Slicer (☆☆☆)
+
+  
+**Combat Mantra**  
+_Close the distance and deliver a fast slash using your Ardour._
+
+ |
+| 
+
+65 Ether [IconEther](Ether.md)
+
+ | 
+
+Slash ResistanceSlash
+
+ | 
+
+Shrine deal
+
+ |
+| 
+
+**Effect:** _User launches a projectile similar to [Wind Blade](Galebreathe.md#wind-blade)._
+
+-   Deals 28 Oath damage.
+-   Has 40% chip damage.
     -   Deals 18 posture damage.
-    -   Projectile goes really far (~150 studs) and can hit multiple people at once.
+-   Projectile goes really far (~150 studs) and can hit multiple people at once.
     -   Upon hit, pushes the enemy in the direction of a projectile.
-    -   Has a windup of 0.5 seconds and a cooldown of 12 seconds.
-    -   This projectile can sometimes phase through opponents if used up close.
-    -   The projectile changes color based on your Oath cosmetic [dye](Dye_Packet.md).
+-   Has a windup of 0.5 seconds and a cooldown of 12 seconds.
+-   This projectile can sometimes phase through opponents if used up close.
+-   The projectile changes color based on your Oath cosmetic [dye](Dye_Packet.md).
 
--   **Rhythm Advance** - Channel your Rhythm and track down your opponent.
-    -   User starts rapidly spinning around, and after some time hits enemy with a similar attack to an uppercut.
-    -   Deals 50 Physical damage.
+ |
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Rhythm Advance** (☆☆☆)
+
+**Combat Mantra**
+
+_Channel your Rhythm and track down your opponent._
+
+ | 
+
+## Rhythm Advance (☆☆☆)
+
+  
+**Combat Mantra**  
+_Channel your Rhythm and track down your opponent._
+
+ |
+| 
+
+(?) Ether [IconEther](Ether.md)
+
+ | 
+
+TBA
+
+ | 
+
+Shrine deal
+
+ |
+| 
+
+**Effect:** _User starts rapidly spinning around, and after some time hits enemy with a similar attack to an uppercut._
+
+-   User starts rapidly spinning around, and after some time hits enemy with a similar attack to an uppercut.
+-   Deals 50 Physical damage.
     -   Deals 20 posture damage.
-    -   Upon using an M1 after cast, it can hit instantly without winding up.
-    -   On successful hit, shows HP and Posture of enemies you hit.
-    -   Provides I-Frames during entire move.
-    -   AOE attack, can hit multiple people at once.
+-   Upon using an M1 after cast, it can hit instantly without winding up.
+-   On successful hit, shows HP and Posture of enemies you hit.
+-   Provides I-Frames during entire move.
+-   AOE attack, can hit multiple people at once.
 
--   **Tacet Kick** - Slip out of perception and deliver a brutal kick.
-    -   Similarly to [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick), the user turns invisible before teleporting to the opponent with the use of Tacet and kicking them.
-    -   Deals 19 physical damage.
-    -   Deals 12 posture damage.
-    -   Could prove useful in catching players.
-    -   Despite going invisible you do not gain iframes during this move.
-    -   The on-hit visual effect changes color based on your Oath cosmetic [dye](Dye_Packet.md).
+ |
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Tacet Kick** (☆☆☆)
+
+**Combat Mantra**
+
+_Slip out of perception and deliver a brutal kick._
+
+ | 
+
+## Tacet Kick (☆☆☆)
+
+  
+**Combat Mantra**  
+_Slip out of perception and deliver a brutal kick._
+
+ |
+| 
+
+(?) Ether [IconEther](Ether.md)
+
+ | 
+
+TBA
+
+ | 
+
+Shrine deal
+
+ |
+| 
+
+**Effect:** _Similarly to [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick), the user turns invisible before teleporting to the opponent with the use of Tacet and kicking them._
+
+-   Deals 19 physical damage.
+-   Deals 12 posture damage.
+-   Could prove useful in catching players.
+-   Despite going invisible you do not gain iframes during this move.
+-   The on-hit visual effect changes color based on your Oath cosmetic [dye](Dye_Packet.md).
+
+ |
 
 ## Trivia
 

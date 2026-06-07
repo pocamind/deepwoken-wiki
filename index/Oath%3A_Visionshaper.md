@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 208861
+revid: 213577
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -113,34 +113,226 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
 
 #### Combat Mantras
 
--   **Illusory Servants** - Illusory servants to await your commands
-    -   Windup of 0.5 seconds, spawns an illusory clone, grants user invisibility + I-frames for 0.2 seconds.
-    -   The last non-[Visionshaper](Oath%253A_Visionshaper.md) mantra or critical attack you used before spawning your clone will be saved.
-    -   Cancelling an attack will still count as "using it", causing the clone to store feinted/interrupted moves.
-    -   The name of currently stored attacks is written above the clone's head in white text with a purple outline. (Clears on use)
-    -   The [modifiers](Mantra_Modifiers.md) of mantras will be copied.
-    -   Clones disappear in 3 hits, but are immune to damage over time effects.
-    -   Clones cannot copy enchantments/talents.
-    -   If the targeted player has the Disbelief Talent, clone duration is halved.
-    -   The damage of the clones its 50% of the unscaled and unleveled damage of your basic attack, crit, or mantra.
-    -   Clones will delay their running attacks until yours is finished, allowing for free pressure. Clone running attacks also deal 100% of your unscaled damage, rather than 50%.
-    -   Can be modified with Aeon Logstones and Eternal Logstones, which increase the duration and cooldown proportionately. It's generally better to leave this mantra unmodified for a shorter cooldown.
-    -   Cooldown scales with modifiers.
+| 
+**Name**
 
--   **Illusory Counter** - Fool others into striking and retaliate.
-    -   Ready a stance for a brief moment. If hit during the stance, negate the attack, swap places with your opponent, and spawn a Visionshaper Clone on the right side of your opponent.
-    -   The counter animation plays before the actual counter is activated, which may result in you being hit "during the counter".
-    -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks) which spawns a clone of your opponent, similar to Mirror Illusion. (Bugged, just like Mirror Illusion 1/19/2026)
-    -   User can't move while using Illusory Counter.
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Illusory Servants** (☆☆☆)
+
+**Combat Mantra**
+
+_Illusory servants to await your commands_
+
+ | 
+
+## Illusory Servants (☆☆☆)
+
+  
+**Combat Mantra**  
+_Illusory servants to await your commands_
+
+ |
+| 
+
+(?) Ether [IconEther](Ether.md)
+
+ | 
+
+TBA
+
+ | 
+
+TBA
+
+ |
+| 
+
+**Effect:** _Windup of 0.5 seconds, spawns an illusory clone, grants user invisibility + I-frames for 0.2 seconds._
+
+-   The last non-[Visionshaper](Oath%253A_Visionshaper.md) mantra or critical attack you used before spawning your clone will be saved.
+-   Cancelling an attack will still count as "using it", causing the clone to store feinted/interrupted moves.
+-   The name of currently stored attacks is written above the clone's head in white text with a purple outline. (Clears on use)
+-   The [modifiers](Mantra_Modifiers.md) of mantras will be copied.
+-   Clones disappear in 3 hits, but are immune to damage over time effects.
+-   Clones cannot copy enchantments/talents.
+-   If the targeted player has the Disbelief Talent, clone duration is halved.
+-   The damage of the clones its 50% of the unscaled and unleveled damage of your basic attack, crit, or mantra.
+-   Clones will delay their running attacks until yours is finished, allowing for free pressure. Clone running attacks also deal 100% of your unscaled damage, rather than 50%.
+-   Can be modified with Aeon Logstones and Eternal Logstones, which increase the duration and cooldown proportionately. It's generally better to leave this mantra unmodified for a shorter cooldown.
+-   Cooldown scales with modifiers.
+
+ |
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Illusory Counter** (☆☆☆)
+
+**Combat Mantra**
+
+_Fool others into striking and retaliate._
+
+ | 
+
+## Illusory Counter (☆☆☆)
+
+  
+**Combat Mantra**  
+_Fool others into striking and retaliate._
+
+ |
+| 
+
+(?) Ether [IconEther](Ether.md)
+
+ | 
+
+TBA
+
+ | 
+
+TBA
+
+ |
+| 
+
+**Effect:** _Ready a stance for a brief moment. If hit during the stance, negate the attack, swap places with your opponent, and spawn a Visionshaper Clone on the right side of your opponent._
+
+-   The counter animation plays before the actual counter is activated, which may result in you being hit "during the counter".
+-   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks) which spawns a clone of your opponent, similar to Mirror Illusion. (Bugged, just like Mirror Illusion 1/19/2026)
+-   User can't move while using Illusory Counter.
+
+ |
 
 #### Support Mantras
 
--   **Mirror Illusion** - Mirror your opponents and use their arsenal to your advantage.
-    -   This mantra knocks back targets within its radius and creates an allied clone of them.
-        -   Has the same properties as allied Visionshaper clones, including Shaper Mimicry.
-        -   The clone stores the target's last used non-Visionshaper mantra or critical attack, and will attempt to use it on its target when using Reality Shift. (Currently bugged as of 3/21/2026, Clone will stand still and not follow commands, BUT this seems to only happen in PVE.)
-        -   Deals 30 (oath?) damage.
-        -   Only works on humanoids.
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Mirror Illusion** (☆☆☆)
+
+**Combat Mantra**
+
+_Mirror your opponents and use their arsenal to your advantage._
+
+ | 
+
+## Mirror Illusion (☆☆☆)
+
+  
+**Combat Mantra**  
+_Mirror your opponents and use their arsenal to your advantage._
+
+ |
+| 
+
+(?) Ether [IconEther](Ether.md)
+
+ | 
+
+Oath(?) [ResistanceOath](Oaths.md)
+
+ | 
+
+TBA
+
+ |
+| 
+
+**Effect:** _This mantra knocks back targets within its radius and creates an allied clone of them._
+
+-   Has the same properties as allied Visionshaper clones, including Shaper Mimicry.
+    -   The clone stores the target's last used non-Visionshaper mantra or critical attack, and will attempt to use it on its target when using Reality Shift. (Currently bugged as of 3/21/2026, Clone will stand still and not follow commands, BUT this seems to only happen in PVE.)
+    -   Deals 30 (oath?) damage.
+    -   Only works on humanoids.
+
+ |
 
 ## Notes
 

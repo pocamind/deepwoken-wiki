@@ -1,6 +1,6 @@
 ---
 title: "Nemit's Sickle"
-revid: 212406
+revid: 213567
 source: https://deepwoken.fandom.com/wiki/Nemit's_Sickle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Weapons with Talents]
@@ -57,4 +57,4 @@ The critical has a cooldown of **4 seconds**.
 ## Trivia
 
 -   This weapon serves as an alternate for [Alloyed Tanto](Tanto.md), which is often used as a pseudo medium weapon.
--   Remodeled on December 24th 2024 as a part of the World Events update.
+-   Remodeled on [December 24th, 2024](Version_History/2024.md#december-24th-2024) as a part of the World Events update.

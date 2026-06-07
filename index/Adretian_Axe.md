@@ -1,6 +1,6 @@
 ---
 title: Adretian Axe
-revid: 209796
+revid: 213569
 source: https://deepwoken.fandom.com/wiki/Adretian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Greataxes, Heavy Weapons, Alloyable Weapons]
