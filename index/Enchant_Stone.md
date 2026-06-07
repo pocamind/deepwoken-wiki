@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 212787
+revid: 213619
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Enchantments, Weapon Enchantments]
@@ -38,7 +38,8 @@ Most of the game's Enchant Stones have non-exclusive obtainment locations, meani
 -   Chance to obtain from a chest from several dungeons including: [Second Layer](Second_Layer.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), and [Saramaed Hollow](Saramaed_Hollow.md).
 -   Chance to obtain from [War Mode](War_Mode.md) and [Hell Mode](Hell_Mode.md).
 -   Unlocking the [Galewax](Galewax.md) Room from the [Second Layer](Second_Layer.md). This room always contains three tiny chests, that have a **25%** chance of providing a random non-exclusive Enchant Stone per chest. If not an Enchant Stone, it's a random [Kyrsweapon](Weapons.md).
--   Certain enchants, namely [Stone](Stone.md) and [Vampirism](Vampirism.md) can additionally be sold during [Traan Zakshun's](Traan_Zakshun.md) black market for 5, but are otherwise non-exclusive enchants.
+-   Certain enchants can additionally be sold during [Traan Zakshun's](Traan_Zakshun.md) black market for 5, but are otherwise non-exclusive enchants.
+-   [Crafting](Crafting_Recipes.md) them with any other Enchant Stone and two catalyst ingredients. The recipe depends on the Enchant Stone; see their individual pages or the main [Enchantments](Enchantments.md) page.
 
 ### Exclusive Enchants
 
@@ -54,7 +55,7 @@ These Enchant Stones can only be obtained through certain methods. These are: As
 -   _**[Kyrsan Chill](Kyrsan_Chill.md)**_ can only be obtained from the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>).
 -   _**[Nightbringer](Nightbringer.md)**_ drops directly from [Parliament](Parliament.md) and [Prime Megalodaunts](Prime_Megalodaunt.md). It is guaranteed to drop from Parliament.
 -   _**[Parasol's Blight](<Parasol's_Blight.md>)**_ can be exclusively bought from [The Gaunt Man](The_Gaunt_Man.md) for 1 [Parasol Part](Parasol_Part.md).
--   _**[Suffocated](<Suffocated_(enchantment).md>)**_ is exclusively obtained by [crafting](Crafting_Recipes.md) 1 [Windswept](Windswept.md) Enchant Stone and 2 [Gale Essence](Gale_Essence.md) at the [Lost Forge](Lost_Forge_of_Leiuna.md).
+-   _**[Suffocated](<Suffocated_(enchantment).md>)**_ is exclusively obtained by [crafting](Crafting_Recipes.md) 1 [Windswept](Windswept.md) Enchant Stone and 2 [Gale Essence](Gale_Essence.md) at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md) [CraftingEmpty](Lost_Forge_of_Leiuna.md).
 -   _**[Windswept](Windswept.md)**_ can only be obtained from [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>) and [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
 
 ### [Vow of Iron](Vow_of_Iron.md) Enchantments

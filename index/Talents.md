@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 213535
+revid: 213648
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1276,6 +1276,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 -   _Spine Cutter_ \[Rare Talent, Strength, Agility\] - Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage. (+2 Passive Agility)
     -   5 second cooldown per enemy. The cooldown indicator may suggest the cooldown is per enemy type, but it isn't.
     -   The second slash has no PEN.
+    -   The damage isn't actually your weapon's raw damage, it's your weapon's damage without modifiers except halved.
     -   Can proc from some [physical](Attunement-less.md) Mantras and criticals with the M1 tag.
     -   Prerequisites: 20 Strength, 25 Agility
 
