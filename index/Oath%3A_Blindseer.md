@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 213508
+revid: 213530
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -23,17 +23,17 @@ categories: [Oaths]
 
 ## Obtainment
 
-Blindseer glyphs at Temple of the Forgotten Flame
+[Blindseer glyphs](<%253F%253F%253F_(Blindseer_Glyphs).md>) at [the Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md)
 
 -   Meet the following requirements:
     -   Have 40 Willpower
     -   Have the 3 Talents from the [Mental Fortress](https://deepwoken.fandom.com/wiki/Talents#Mental_Fortress) set: **Breathing Exercise**, **Conquer your Fears** and **Disbelief** from Talent rolls, not equipment. (You can reroll these into different talents at the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md) once you obtain the oath)
     -   Be blind through the **Blinded** Talent from Blindfolds. (The [Blind](Boons_and_Flaws.md#flaws) Flaw method currently does not work)
--   Head to Lower Erisia and make your way to the bandit village past the camp in the ruins.
+-   Head to [Lower Erisia](Lower_Erisia.md) and make your way to the village past the camp in the ruins.
 -   Above Path's Respite lies the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). Climb up the wall bordering the village to reach it.
 -   Climb above the temple doors or go through them if they are open and proceed inside the temple.
     -   Watch out for the [Watcher](Watcher.md) guarding the temple, as they will spawn a [Hollow Angel](Hollow_Angel.md) if they catch sight of you. Once inside the temple, proceed through a passage on the left.
--   Inside the room, interact with the [Blindseer Glyph](<%253F%253F%253F_(Blindseer_Glyphs).md>) while blind (either from the flaw or from a [Blindfold](Blindfold.md))
+-   Inside the room, interact with the [Blindseer Glyph](<%253F%253F%253F_(Blindseer_Glyphs).md>) while blind either from the Blind flaw or from a [Blindfold](Blindfold.md) (any other glyphs cannot be used to obtain the oath)
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/F7yoFW0rlME)._
 
@@ -47,13 +47,13 @@ Blindseer will only progress if you are faced with a trial. If both the Blindsee
 
 Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowledge](Knowledge.md) can be spent to immediately unlock all related Talents.
 
-The hints toward how to progress this Oath are glyphs located at [Summer Isle](Summer_Isle.md) _\- in the colosseum-looking structure, and the_ [Lightkeeper Temple](Lightkeeper_Temple.md) _\- in the room with the King Thresher._
+The hints toward how to progress this Oath are glyphs located at [Summer Isle](Summer_Isle.md) _\- in the colosseum-looking structure, and the_ [Lightkeeper Temple](Lightkeeper_Temple.md) _\- in the prison room._
 
 ## Effects
 
 This Oath grants the player 1 Wildcard Mantra, 1 Support Mantra, 1 Combat Mantra slots and 10 Sanity.
 
-This Oath also grants the players full vision and increased brightness **while wearing a Blindfold**, it also cures the Blindness flaw. Blindseer appears as an eye in front of the player's Blindfold. When used with [Vesperians](Vesperian.md), they can be seen with two glowing prong-shaped markings and a glowing Blindseer icon above their mask. While you gain full vision, you still benefit from the positives effects of Blinded, namely the sanity bonus and the immunity to blinding mantras. You are not forced to keep the blindfold after obtaining the Oath.
+This Oath also grants the players full vision and increased brightness **while wearing a Blindfold**, it also cures the Blindness flaw. Blindseer appears as an eye in front of the player's Blindfold. When used with [Vesperians](Vesperian.md), they can be seen with two glowing prong-shaped markings and a glowing Blindseer icon above their mask. While you gain full vision, you still benefit from the positive effects of Blinded, namely the sanity bonus and the immunity to blinding mantras. You are not forced to keep the blindfold after obtaining the Oath.
 
 With the stat requirements, the Talents, the blinded Talent and the Oath Talent stats, you total a large amount of sanity (154 sanity, nearly double your initial 80 sanity), allowing you to stay for an extensive amount of time in The Depths at no risk.
 
@@ -73,45 +73,235 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
 
 #### Combat Mantras
 
--   **Sightless Beam** - Turn insanity against your enemies, incredibly strong against depths creatures.
-    -   Fires a high pressure beam from your eyes. The entire beam deals around 150 damage as basic dmg (0 songchant). With extra damage and posture dealt at the start of the beam.
-    -   This mantra can make you go insane if you use it too much.
-    -   Sightless Beam can be canceled midway by pressing F.
-    -   Steals eyesight proccing the blind effect if enough hits land.
-    -   Has a **high** windup.
-        -   Not parryable, deals a little bit of posture damage every hit. Can be used to bait vents by staying at a distance.
-    -   Deals bonus damage to any monsters from the Depths family (Gigameds, Crustaceous Rex, Nautilodaunt, Enforcer).
-        -   Nautilodaunts and Enforcers are very likely to just block the entire beam. It is advised to get a friend to distract them.
-    -   You can run during the windup, but can only walk while the beam is active.
-    -   Getting hit by a Vent while using Sightless Beam cancels it.
--   Obtainment: 5 Pathfinders helped in the Depths Trial (must be alive)
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Sightless Beam** (☆☆☆)
+
+**Combat Mantra**
+
+_Turn insanity against your enemies, incredibly strong against depths creatures._
+
+ | 
+
+## Sightless Beam (☆☆☆)
+
+  
+**Combat Mantra**  
+_Turn insanity against your enemies, incredibly strong against depths creatures._
+
+ |
+| 
+
+40 Ether [IconEther](Ether.md)
+
+ | 
+
+Oath [ResistanceOath](Oaths.md)
+
+ | 
+
+5 Pathfinders helped in the Depths Trial (must be alive)
+
+ |
+| 
+
+**Effect:** _User fires a high pressure beam from their eyes at the cost of their Sanity._
+
+-   The entire beam deals around 150 damage as basic dmg (0 songchant). With extra damage and posture dealt at the start of the beam.
+-   This mantra can make you go insane if you use it too much.
+-   Sightless Beam can be canceled midway by pressing F.
+-   Steals eyesight proccing the blind effect if enough hits land.
+-   Has a **high** windup.
+    -   Not parryable, deals a little bit of posture damage every hit. Can be used to bait vents by staying at a distance.
+-   Deals bonus damage to any monsters from the Depths family (Gigameds, Crustaceous Rex, Nautilodaunt, Enforcer).
+    -   Nautilodaunts and Enforcers are very likely to just block the entire beam. It is advised to get a friend to distract them.
+-   You can run during the windup, but can only walk while the beam is active.
+-   Getting hit by a Vent while using Sightless Beam cancels it.
+
+ |
 
 #### Support Mantras
 
--   **Mindsoothe** - Give comfort to your allies by sharing in their burden.
-    -   Heals your allies for a flat 60 health at the cost of your Sanity.
-    -   Has a 60 second cooldown.
-    -   Allies include Guildmates, Roblox friends, and those with whom you share a Vow of Mastery or Vow of Allegiance with.
-    -   The sanity cost is only deducted on a successful heal.
-    -   Hold block during the cast animation to heal everyone in range, regardless of ally status.
-    -   Doesn't work on NPCs.
-    -   Doesn't have a ritual unlike the gif shown below
--   Obtainment: 1 Pathfinder helped in the Depths Trial (must be alive)
+| 
+**Name**
 
--   **Tranquil Circle** - All within the ring cannot cast Mantras. Those who stand within the ring gain 10% Monster Armor and 10% Damage vs Monsters.
-    -   This affects everybody, including the caster and their allies, making even yourself unable to cast Mantras.
-    -   Bosses are immune to the silencing aspect.
-    -   While inside the circle, gain total immunity to Mantra damage.
-    -   While in the circle gain immunity to the effects of [Gravity Field](Gravity_Field.md)
-    -   This is one of the few sources of Monster Armor and Damage vs Monsters, making it exceptionally useful for M1 PvE builds.
-    -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md#sparks). This makes the circle much smaller but makes it follow the user.
-    -   Shares a cooldown with devouring eye.
--   Obtainment: 3 Pathfinders helped in the Depths Trial (must be alive)
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Mindsoothe** (☆☆☆)
+
+**Support Mantra**
+
+_Give comfort to your allies by sharing in their burden._
+
+ | 
+
+## Mindsoothe (☆☆☆)
+
+  
+**Support Mantra**  
+_Give comfort to your allies by sharing in their burden._
+
+ |
+| 
+
+50 Ether [IconEther](Ether.md)
+
+ | 
+
+N/A
+
+ | 
+
+1 Pathfinder helped in the Depths Trial (must be alive)
+
+ |
+| 
+
+**Effect:** _Heals your allies for a flat 60 health at the cost of your Sanity._
+
+-   Has a 60 second cooldown.
+-   Allies include Guildmates, Roblox friends, and those with whom you share a Vow of Mastery or Vow of Allegiance with.
+-   The sanity cost is only deducted on a successful heal.
+-   Hold block during the cast animation to heal everyone in range, regardless of ally status.
+-   Doesn't work on NPCs.
+-   Doesn't have a ritual unlike the gif shown below
+
+ |
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Tranquil Circle** (☆☆☆)
+
+**Support Mantra**
+
+_All within the ring cannot cast Mantras. Those who stand within the ring gain 10% Monster Armor and 10% Damage vs Monsters._
+
+ | 
+
+## Tranquil Circle (☆☆☆)
+
+  
+**Support Mantra**  
+_All within the ring cannot cast Mantras. Those who stand within the ring gain 10% Monster Armor and 10% Damage vs Monsters._
+
+ |
+| 
+
+50 Ether [IconEther](Ether.md)
+
+ | 
+
+N/A
+
+ | 
+
+3 Pathfinders helped in the Depths Trial (must be alive)
+
+ |
+| 
+
+**Effect:** _This affects everybody, including the caster and their allies, making even yourself unable to cast Mantras._
+
+-   Bosses are immune to the silencing aspect.
+-   While inside the circle, gain total immunity to Mantra damage.
+-   While in the circle gain immunity to the effects of [Gravity Field](Gravity_Field.md)
+-   This is one of the few sources of Monster Armor and Damage vs Monsters, making it exceptionally useful for M1 PvE builds.
+-   Shares a cooldown with devouring eye.
+-   Can be modified with a [Magnet Spark](Mantra_Modifiers.md#sparks). This makes the circle much smaller but makes it follow the user.
+
+ |
 
 ## Notes
 
 -   **Blindseer Mantras don't scale with Willpower at all.**
--   Having the [Blind](Boons_and_Flaws.md#flaws) Flaw used to remove the Blindfold requirement, and would essentially be a free boon point with this oath
+-   Having the [Blind](Boons_and_Flaws.md#flaws) Flaw used to remove the Blindfold requirement, and would essentially be a free boon point with this oath.
 -   While you don't need to keep the Blindfold equipped after obtaining the Oath, having the _Blinded_ Talent grants immunity to abilities like [Gaze](Attunement-less.md#gaze) and [Flame Blind](Flamecharm.md#flame-blind). The [Blind](Boons_and_Flaws.md#flaws) flaw also grants this effect.
 -   Well-suited Oath for PvE.
 -   Pairs well with Lose Your Mind, a Talent that makes you deal more damage the more insane you are.
@@ -135,4 +325,3 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
 -   **Be extremely careful** with who you let into your trial, as you have no idea if the Pathfinder you're helping has an [Echo Modifier](Echoes.md) such as Vow of Thorns or Deep Champion, or if they have activated the [Shrine of Courage](Shrine_of_Courage.md). It's recommended to bring Pathfinder friends to help you progress Blindseer.
 -   The mask of a statue in [The Lordsgrove](The_Lordsgrove.md) (across from the one of a Hivelord, to the left when you enter) features the old [Vesperian](Vesperian.md) variation of Blindseer.
 -   A red Blindseer eye was used as the visual warning for unparryable attacks before being replaced with the dynamic Telegraphing system which shows a variety of glyphs instead. (Changed in the May 24, 2025 update)
--   And no, you can’t get the oath from the summer isle glyphs (I tried)

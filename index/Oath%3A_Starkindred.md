@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 210749
+revid: 213536
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Starkindred Church]
@@ -27,7 +27,7 @@ categories: [Oaths, The Starkindred Church]
 
 [The Starkindred Faith](https://deepwoken.fandom.com/wiki/Glossary#The_Starkindred_Faith) is one of the major religions on Lumen, worshipping the [Celestials](Celestial.md). It's foothold and sphere of influence is strongest in the [Western Luminant](https://deepwoken.fandom.com/wiki/Luminants#Western_Luminant), where it's military strength rivals that of the Hundred Legions. It's influence appears to be much weaker in the Eastern Luminant, where it acts more like an esoteric cult.
 
-The powers of this particular Oath comes from one drinking the Holy Ichor, the blood of a Celestial. The Ichor seems to give the consumer some form of higher awareness but leaves their body in constant agonizing pain. It is the Celestial counterpart to becoming a [Deepwoken](Deepwoken.md).
+The power of this particular Oath comes from one drinking the Holy Ichor, the blood of a Celestial. The Ichor seems to give the consumer some form of higher awareness but leaves their body in constant agonizing pain. It is the Celestial counterpart to becoming a [Deepwoken](Deepwoken.md).
 
 ## Obtainment
 
@@ -92,31 +92,220 @@ This Oath grants 2 Combat Mantra slots, 1 Wildcard Mantra slot, and 8 Health. Ad
 
 #### Combat Mantras
 
--   **Ascension** - Take to the skies for a devastating strike.
-    -   The user rises into the air before swooping in.
-    -   Deals 37 Oath damage with 1.65 Strength scaling.
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Ascension** (☆☆☆)
+
+**Combat Mantra**
+
+_Take to the skies for a devastating strike._
+
+ | 
+
+## Ascension (☆☆☆)
+
+  
+**Combat Mantra**  
+_Take to the skies for a devastating strike._
+
+ |
+| 
+
+(?) Ether [IconEther](Ether.md)
+
+ | 
+
+Oath [ResistanceOath](Oaths.md)
+
+ | 
+
+Obtained after the first Sinner kill
+
+ |
+| 
+
+**Effect:** _The user rises into the air before swooping in._
+
+-   Deals 37 Oath damage with 1.65 Strength scaling.
     -   This attack cannot be parried or blocked, indicated by a sound effect and a red [Telegraph](https://deepwoken.fandom.com/wiki/Combat_Mechanics#Telegraphed_Attacks).
         -   This does not guardbreak, it entirely ignores your block, dealing its full damage and applying shaky block to anyone who attempts to block it.
     -   Applies hard knockdown on hit.
     -   [Wayward Gem](Wayward_Gem.md) will not proc on this Mantra.
     -   Can knockdown any enemy ingame.
     -   If used mid-air, the move will not work but will still charge you ether.
--   Obtained after the first Sinner kill.
 
--   **Celestial Assault** - Use your wings and deliver two critical blows.
-    -   Deliver a vertical slash (that launches the user and target up) and a horizontal slash (that pushes the target).
-    -   Deals 40 (20\*2) Oath damage with 1.65 Strength scaling.
+ |
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Sinister Halo** (☆☆☆)
+
+**Combat Mantra**
+
+_Emit a spinning ring of celestial energy, trapping and shredding any who steps before its wake._
+
+ | 
+
+## Sinister Halo (☆☆☆)
+
+  
+**Combat Mantra**  
+_Emit a spinning ring of celestial energy, trapping and shredding any who steps before its wake._
+
+ |
+| 
+
+(?) Ether [IconEther](Ether.md)
+
+ | 
+
+Oath [ResistanceOath](Oaths.md)
+
+ | 
+
+Obtained after the second Sinner kill
+
+ |
+| 
+
+**Effect:** _Similar to the Galebreathe Mantra [Tornado](Galebreathe.md#tornado), but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits._
+
+-   Deals 42 (3 \* 14) Oath damage with 1.65 Strength scaling.
+-   Hits 14 times.
+    -   Deals 0.4 posture damage per hit (14), totaling to 5.6 posture damage if all hits are blocked.
+-   Has a 0.6 second windup (with wings) and a 15 second cooldown.
+
+ |
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Celestial Assault** (☆☆☆)
+
+**Combat Mantra**
+
+_Use your wings and deliver two critical blows._
+
+ | 
+
+## Celestial Assault (☆☆☆)
+
+  
+**Combat Mantra**  
+_Use your wings and deliver two critical blows._
+
+ |
+| 
+
+(?) Ether [IconEther](Ether.md)
+
+ | 
+
+Oath [ResistanceOath](Oaths.md)
+
+ | 
+
+Obtained after the third Sinner kill
+
+ |
+| 
+
+**Effect:** _Deliver a vertical slash (that launches the user and target up) and a horizontal slash (that pushes the target)._
+
+-   Deals 40 (20\*2) Oath damage with 1.65 Strength scaling.
     -   Deals 8 posture damage per hit.
     -   Initial 0.5 second windup (with wings) and a 10 second cooldown.
--   Obtained after the third Sinner kill.
 
--   **Sinister Halo** - Emit a spinning ring of celestial energy, trapping and shredding any who steps before its wake.
-    -   Deals 42 (3 \* 14) Oath damage with 1.65 Strength scaling.
-    -   Hits 14 times.
-    -   Has a 0.6 second windup (with wings) and a 15 second cooldown.
-    -   Deals 0.4 posture damage per hit (14), totaling to 5.6 posture damage if all hits are blocked.
-    -   Similar to the Galebreathe Mantra [Tornado](Galebreathe.md#tornado), but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits.
-    -   Obtained after the second Sinner kill.
+ |
 
 ## Notes
 

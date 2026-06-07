@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 213518
+revid: 213533
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -13080,6 +13080,8 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   Most notably, the game refers to this "stance" as One-Handed, and as such, you will not gain the posture damage bonus of the Two-Handed stance.
 -   Similar to the Two-Handed stance, you cannot use offhand weapons, and any equipped Shield will be put on your back. This allows you to use [Turtle Shell](Talents.md#turtle-shell) on Dual Wielded Light Weapons.
 -   Only specific weapons have access to this "stance." These weapons can be found here.
+
+if youre a TRUE GAMER like me just f to parry with formless shard ez 5 bar
 
 ## Key Terminology
 

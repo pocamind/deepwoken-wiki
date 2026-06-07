@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 213383
+revid: 213537
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -55,7 +55,7 @@ Justicars spawn at [Alsin's Landing](<Alsin's_Landing.md>) with the [Justicar Ne
 
 Justicar's progression is based around helping [Castaways](Castaway.md), which is rewarded in the form of experience points and promotion points. Using [Justicar's Aid](<Justicar_(Origin).md#justicars-aid>) will allow you to choose from a list of Castaways who have used their [Justicar Whistle](Castaway.md#justicar-whistle). This reveals their name, [Power](Power.md), Luminant, general location, and server region.
 
--   Helping [Castaway](Castaway.md) progress via events, killing their [Voidwalker](Voidwalker.md), and etc. will provide you with 45-50 rankpoints per event.
+-   Helping [Castaway](Castaway.md) progress via events, killing their [Voidwalker](Voidwalker.md), and etc. will provide you with 15-50 rankpoints per event.
     -   Using **Justicar's Aid** will massively speed up this process, although beware that if you die, or the Castaway dies during this, you will lose 50 points.
     -   Note that you are not required to use **Justicar's Aid** to be eligible for point gains from this, although using it will help in speeding up the process a lot.
 

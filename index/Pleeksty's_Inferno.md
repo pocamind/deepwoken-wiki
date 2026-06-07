@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 212644
+revid: 213548
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons, Weapons with multiple Criticals, The Covenant of Flame]

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 210646
+revid: 213539
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Central Authority]
@@ -106,43 +106,232 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 
 #### Combat Mantras
 
--   **Restrain** - Deliver a powerful kick that binds your opponent's soul to yours.
-    -   Deals 10 posture, and 31 Oath damage, increasing damage by +8 with each Perpetual Wrath stack. (Max of 55)
-    -   Will inflict Enchained (Single target), Perpetual Wrath, and lowers in cooldown when landed, including on block.
-    -   Unaffected by [Bloodless Gem](Bloodless_Gem.md).
-    -   Dazes for 0.5 seconds.
-    -   Procs Tough Love on uncharmed targets.
-    -   1 second cooldown when landed, including on block.
-    -   10 second cooldown when whiffed/interrupted.
--   Obtainment: Obtained with the Oath.
+| 
+**Name**
 
--   **Impel** - Blast through your opponent's guard and pull them towards you.
-    -   Deals 5.5 damage and 6 posture per hit, totaling to 22 damage and 24 posture if all 4 orbs connect.
-    -   Procs Chainlash on the _**first**_ hit, past 15 studs. (Procs through block)
-        -   Innately has Chainlash, does not require the card to proc.
-        -   Impel's Chainlash can be movestacked with Mantras, although it ends Chainlash early, removing the kick. (Very small window to movestack, needs testing)
-    -   Max range of 45 studs, however over past 40 studs Enchained is cleared, cancelling Chainlash.
-    -   Fires 4 projectiles in the direction you are facing, but can be mouse aimed out of shiftlock. (Aim is slightly delayed)
-    -   Doesn't cancel on parry nor has auto parry frames forcing opponents to parry each projectile individually.
-    -   No endlag on whiff or hit, unless Chainlash procs.
-    -   Has a cooldown of 15 seconds.
--   Obtainment: Obtained after the first _Enchained_ [Hunted Player](Reputation.md#reputation-status)/Humanoid Boss grip.
+ | 
 
--   **Rupture** - Detonate your chained target, unleashing a powerful blast that shatters their restraints and inflicts significant damage.
-    -   **Base variant** will do 2 melee punches, dealing 36 damage (20.6 + 15.4) and 30 posture (15 + 15).
-        -   Each punch dazes targets for 0.5 seconds.
-        -   The second punch will only commence if the first one lands/hits block.
-        -   Windup of the _first_ punch is sped up by [Insignia Gem](Insignia_Gem.md).
-    -   **Enchained variant** creates AOE explosions centered at _all_ Enchained targets, ragdolling/flinging them, and dealing 37 damage and 15 posture.
-        -   Inflicts _**anti-roll**_ for 1.35 seconds similar to [Frozen Legs](Talents.md#frozen-warrior), allowing for true combos with mantras such as [Ice Eruption](Frostdraw.md#ice-eruption).
-        -   Will strongly fling enemies **away from your relative direction**. (Ex. enemies above you will fling upwards)
-            -   You can [wallbang](Status_Effects.md#true-daze) off the environment, jumping above targets while using the mantra can [wallbang](Status_Effects.md#true-daze) off the ground.
-        -   Adding a [Reversal Spark](Mantra_Modifiers.md#sparks), will prevent [wallbangs](Status_Effects.md#true-daze), weaken knockback, and instead fling _diagonally and downwards_ in the **opposite direction of your camera**.
-        -   Not sped up by [Insignia Gem](Insignia_Gem.md).
-        -   The _**anti-roll**_ effect currently procs through block. (Bug)
-        -   Has hyperarmor on its second chained hit.
-    -   Has a cooldown of 15 seconds.
-    -   Obtainment: Obtained after the first _Enchained_ [Hunted Player](Reputation.md#reputation-status)/Humanoid Boss grip.
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Restrain** (☆☆☆)
+
+**Combat Mantra**
+
+_Deliver a powerful kick that binds your opponent's soul to yours._
+
+ | 
+
+## Restrain (☆☆☆)
+
+  
+**Combat Mantra**  
+_Deliver a powerful kick that binds your opponent's soul to yours._
+
+ |
+| 
+
+50 Ether [IconEther](Ether.md)
+
+ | 
+
+Oath [ResistanceOath](Oaths.md)
+
+ | 
+
+Obtained with the Oath
+
+ |
+| 
+
+**Effect:** _User twists their body to unleash a devastating kick. If this lands or is blocked, your opponent will be chained to you, disallowing their escape._
+
+-   Deals 10 posture, and 31 damage.
+-   Will inflict Enchained (Single target), Perpetual Wrath, and lowers in cooldown when landed, including on block.
+-   Unaffected by [Bloodless Gem](Bloodless_Gem.md).
+-   Dazes for 0.5 seconds.
+-   1 second cooldown when landed, including on block.
+-   10 second cooldown when whiffed/interrupted.
+
+ |
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Impel** (☆☆☆)
+
+**Combat Mantra**
+
+_Blast through your opponent's guard and pull them towards you._
+
+ | 
+
+## Impel (☆☆☆)
+
+  
+**Combat Mantra**  
+_Blast through your opponent's guard and pull them towards you._
+
+ |
+| 
+
+(?) Ether [IconEther](Ether.md)
+
+ | 
+
+Oath [ResistanceOath](Oaths.md)
+
+ | 
+
+Obtained after the first _Enchained_ [Hunted Player](Reputation.md#reputation-status)/Humanoid Boss grip.
+
+ |
+| 
+
+**Effect:**
+
+-   Deals 5.5 damage and 6 posture per hit, totaling to 22 damage and 24 posture if all 4 orbs connect.
+-   Procs Chainlash on the _**first**_ hit, past 15 studs. (Procs through block)
+    -   Innately has Chainlash, does not require the card to proc.
+    -   Impel's Chainlash can be movestacked with Mantras, although it ends Chainlash early, removing the kick. (Very small window to movestack, needs testing)
+-   Max range of 45 studs, however over past 40 studs Enchained is cleared, cancelling Chainlash.
+-   Fires 4 projectiles in the direction you are facing, but can be mouse aimed out of shiftlock. (Aim is slightly delayed)
+-   Doesn't cancel on parry nor has auto parry frames forcing opponents to parry each projectile individually.
+-   No endlag on whiff or hit, unless Chainlash procs.
+-   Has a cooldown of 15 seconds.
+
+ |
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Rupture** (☆☆☆)
+
+**Combat Mantra**
+
+_Detonate your chained target, unleashing a powerful blast that shatters their restraints and inflicts significant damage._
+
+ | 
+
+## Rupture (☆☆☆)
+
+  
+**Combat Mantra**  
+_Detonate your chained target, unleashing a powerful blast that shatters their restraints and inflicts significant damage._
+
+ |
+| 
+
+50 Ether [IconEther](Ether.md)
+
+ | 
+
+Oath [ResistanceOath](Oaths.md)
+
+ | 
+
+Obtained after the first _Enchained_ [Hunted Player](Reputation.md#reputation-status)/Humanoid Boss grip.
+
+ |
+| 
+
+**Effect:** _User punches the target twice, dazing them with each hit. If the target is **enchained**, then the target will be detonated instead, and flung towards the user's cursor._
+
+-   **Base variant** will do 2 melee punches, dealing 36 damage (20.6 + 15.4) and 30 posture (15 + 15).
+    -   Each punch dazes targets for 0.5 seconds.
+    -   The second punch will only commence if the first one lands/hits block.
+    -   Windup of _first_ punch is sped up by [Insignia Gem](Insignia_Gem.md).
+-   **Enchained variant** creates AOE explosions centered at _all_ Enchained targets, ragdolling/flinging them, and dealing 37 damage and 15 posture.
+    -   Inflicts _**anti-roll**_ for 1.35 seconds similar to [Frozen Legs](Talents.md#frozen-legs), allowing for true combos with mantras.
+    -   Will strongly fling enemies **away from your relative direction**. (Ex. enemies above you will fling upwards)
+        -   You can [wallbang](Status_Effects.md#true-daze) off the environment, jumping above targets while using the mantra can [wallbang](Status_Effects.md#true-daze) off the ground.
+    -   Adding a [Reversal Spark](Mantra_Modifiers.md#sparks), will prevent [wallbangs](Status_Effects.md#true-daze), weaken knockback, and instead fling _diagonally and downwards_ in the **opposite direction of your camera**.
+    -   Has hyperarmor on its second chained hit.
+-   Has a cooldown of 15 seconds.
+
+ |
 
 ## Trivia
 

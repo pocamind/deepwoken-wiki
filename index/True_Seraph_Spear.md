@@ -1,6 +1,6 @@
 ---
 title: True Seraph Spear
-revid: 212425
+revid: 213527
 source: https://deepwoken.fandom.com/wiki/True_Seraph_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Drops, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with Talents]
@@ -57,4 +57,3 @@ The critical has a cooldown of **7 seconds**.
 
 -   The spear is named after "Seraph", the highest level of angels in Ancient Judaism.
 -   True Seraph's Spear has the highest Chip damage stat out of all medium weapons.
--   True Seraph's Slash is a community meme.

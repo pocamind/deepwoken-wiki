@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 213468
+revid: 213535
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1772,6 +1772,8 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   True Ether Bullets now procs in 2 hits instead of 3.
     -   Adds 1.2 Intelligence scaling to your Pistols. Stacks with the [Rosen's Ring](<Rosen's_Ring.md>).
     -   Prerequisites: 90 Light Weapon, 60 Intelligence, True Ether Bullets, Using a Pistol
+
+BUG NOTE: This talent is currently experiencing a bug AGAIN as of June 7, 2026, and will not work with any attunement.
 
 ### Hammer Rage
 
