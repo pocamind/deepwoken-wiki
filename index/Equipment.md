@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 213120
+revid: 213753
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, Equipment, In progress with VOI reason]
@@ -2622,6 +2622,14 @@ _+Talent: [**Robber Baron**](Talents.md#robber-baron)_
  | N/A |
 |  | [Imperator's Fury](<Imperator's_Fury.md>) | _+Talent: [**Brute Strength**](Talents.md#brute-strength)_
 
+**Requires Power 5**
+
+ | N/A |
+|  | [Jadeite Megalodaunt](Jadeite_Megalodaunt.md)  
+(**Relic**)  
+(**Animated**) | +2 Legendary Pips
+
+_+Talent: [**Good Luck Charm**](Talents.md#good-luck-charm)_  
 **Requires Power 5**
 
  | N/A |

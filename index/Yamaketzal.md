@@ -1,6 +1,6 @@
 ---
 title: Yamaketzal
-revid: 213317
+revid: 213771
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Voiced Characters]
@@ -97,39 +97,48 @@ Yamaketzal can be found standing right outside of the [Songseeker Temple](Songse
   <td colspan="6"><b>Reference</b></td>
 </tr>
 <tr>
-  <td colspan="6">Drowned. Just like you. <i>*He looks you dead in the eyes and gives you a wry smile.*</i></td>
+  <td colspan="6">Drowned. Just like you. <i>*He looks you dead in the eyes and gives you a wry smile.*</i><br>
+  </td>
   <td colspan="6">Mentions the act of Drowning, being sent to <a href="The_Depths.md">The Depths</a>.</td>
 </tr>
 <tr>
-  <td colspan="6">Me? I'm Duke Erisia, yeh, that one who made all those rocks move...</td>
+  <td colspan="6">Me? I'm Duke Erisia, yeh, that one who made all those rocks move...<br>
+  </td>
   <td colspan="6">Mentions <a href="Duke_Ishamon_Erisia.md">The Duke</a>, who got the ability to create <a href="Rock_Golem.md">Rock Golems</a> with his Resonance.</td>
 </tr>
 <tr>
-  <td colspan="6">Me? Yer lookin' at the Lord Regent of Etrea... Real scary one I am... Watch it yeh?...</td>
+  <td colspan="6">Me? Yer lookin' at the Lord Regent of Etrea... Real scary one I am... Watch it yeh?...<br>
+  </td>
   <td colspan="6">Mentions <a href="The_Lord_Regent.md">The Lord Regent</a>, the current and mysterious leader of <a href="Etris.md">Etris</a>.</td>
 </tr>
 <tr>
-  <td colspan="6">Jus' a washed up somebody... Or someone who used to be somebody... Keh heh...</td>
+  <td colspan="6">Jus' a washed up somebody... Or someone who used to be somebody... Keh heh...<br>
+  </td>
   <td colspan="6">Might tie in with the <a href="Origins.md">origins</a> of the players, being found, washed up on the shore.</td>
 </tr>
 <tr>
-  <td colspan="6">Me? Ferryman's what I am... Dredged up from the dregs of the dregs, tormenting mortal spirits 'n' that... Ironic, coz they were the ones tormenting me...</td>
+  <td colspan="6">Me? Ferryman's what I am... Dredged up from the dregs of the dregs, tormenting mortal spirits 'n' that... Ironic, coz they were the ones tormenting me...<br>
+  </td>
   <td colspan="6">Mentions <a href="The_Ferryman.md">The Ferryman</a> and his possible origins. "Dredged" refers to the act of cleaning the bed (bottom) part of a body of water, be it a lake, a river or the sea.</td>
 </tr>
 <tr>
-  <td colspan="6">Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny things y'learn when you discard everything in pursuit of your goals... Heh heh...</td>
+  <td colspan="6">Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny things y'learn when you discard everything in pursuit of your goals... Heh heh...<br>
+  </td>
   <td colspan="6">Mentions Gunsmith Rosen, the inventor of <a href="Guns.md">Guns</a></td>
 </tr>
 <tr>
-  <td colspan="6">Me? Driver's what I am, got some horses, real nice ones, travel way over land we do. Not a puddle in sight...</td>
+  <td colspan="6">Me? Driver's what I am, got some horses, real nice ones, travel way over land we do. Not a puddle in sight...<br>
+  </td>
   <td colspan="6">Mentions the Drivers, people riding horses in the other Luminants</td>
 </tr>
 <tr>
-  <td colspan="6">Me? I'm a right proper Warden I am... Guardin' everyone... From my inability to keep from this bottle...</td>
+  <td colspan="6">Me? I'm a right proper Warden I am... Guardin' everyone... From my inability to keep from this bottle...<br>
+  </td>
   <td colspan="6">Mentions the Wardens of <a href="The_Central_Authority.md">The Central Authority</a>. Mainly just talking about his drinking habits, though.</td>
 </tr>
 <tr>
-  <td colspan="6">Me? Songmast'r Tz'araan, I am... The mighty Songseeker mistress... Think free for yerself, student... But not outside th' box!... Heh heh...</td>
+  <td colspan="6">Me? Songmast'r Tz'araan, I am... The mighty Songseeker mistress... Think free for yerself, student... But not outside th' box!... Heh heh...<br>
+  </td>
   <td colspan="6">Mentions <a href="Tz'araan.md">Songmaster Tz'araan</a>, the Songseeker mistress.</td>
 </tr>
 </tbody>
@@ -152,7 +161,8 @@ Yamaketzal can be found standing right outside of the [Songseeker Temple](Songse
 </tr>
 <tr>
   <td colspan="2">A cryin' shame...</td>
-  <td colspan="2">Respectable... at the very least.</td>
+  <td colspan="2">Respectable... at the very least.<br>
+  </td>
   <td colspan="2">Not bad... Not bad at all.</td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 213700
+revid: 213762
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1542,7 +1542,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Natural Armor loss is based on scaled damage received and cannot normally be increased nor decreased by anything, with the exception being damage reductions, like [Reinforce](Attunement-less.md#reinforce), which will reduce the Natural Armor loss.
     -   Prerequisite: 40 Fortitude.
 
--   _To the Finish_ \[Rare Talent, Fortitude\] - You take 10% less damage when below 30% health.
+-   _To The Finish_ \[Rare Talent, Fortitude\] - You take 10% less damage when below 30% health.
     -   For every point of Fortitude below 50, To the Finish loses 0.166% damage reduction, having a minimum value of 5.833% damage reduction at 25 Fortitude.
     -   Prerequisite: 50 Fortitude
 
@@ -1721,6 +1721,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 -   _Execution_ \[Rare Talent, Light Weapon, Medium Weapon // Heavy Weapon\] - Your offhand gun attacks now count as flourishes and do a flat 20 extra damage when used with no bullets.
     -   Works with dual guns, adding 5 flat damage to every second shot.
+    -   The extra damage is true damage.
     -   Does not work with [Hardened Enforcer Boots](Hardened_Enforcer_Boots.md) and Dazing Finisher.
     -   Prerequisites: 90 Light Weapon, 90 Medium Weapon // 90 Heavy Weapon, Using a Pistol
     -   Mutual Exclusive: Hip Shooter
@@ -4668,6 +4669,8 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   This does not allow you to parry **all** unparryable monster attacks.
     -   The armor durability lost is based on the amount of damage you would have taken normally.
     -   When parrying attacks that are slide, jump, or slide only, the armor loss penalty will be greatly increased.
+
+-   Good Luck Charm: [Jadeite Megalodaunt](Jadeite_Megalodaunt.md) - Makes you feel a little better, probably.
 
 -   Grotesque Resilience: [Parasol Planter](Parasol_Planter.md) - You take reduced damage from 'Damage over Time' effects.
     -   Reduces Burn damage by 50%

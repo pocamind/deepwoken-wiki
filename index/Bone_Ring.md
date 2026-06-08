@@ -1,9 +1,9 @@
 ---
 title: Bone Ring
-revid: 212603
+revid: 213731
 source: https://deepwoken.fandom.com/wiki/Bone_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Rings, Relics, Equipment Relics, Equipment]
+categories: [Pathfinder Exclusive, Rings, Relics, Equipment Relics, Equipment]
 ---
 
 # Bone Ring
@@ -22,6 +22,10 @@ categories: [Rings, Relics, Equipment Relics, Equipment]
 | pass down | No |
 | obtainment | Kyrsgarde Champion |
 | description | A ring made purely of dense bone. Improve all bone related attacks you do. |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

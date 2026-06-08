@@ -1,6 +1,6 @@
 ---
 title: Maestro Alkhurst Legato
-revid: 213714
+revid: 213773
 source: https://deepwoken.fandom.com/wiki/Maestro_Alkhurst_Legato
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, Maestros of the Vigils, Circle of Honour members]
@@ -215,7 +215,7 @@ This dialogue is unlocked after the player has spoken to [High Monk Junsui](High
   <td colspan="3">I met someone by the name of High Monk Junsui, from the Monastery of Mur ... Are you two familiar?</td>
 </tr>
 <tr>
-  <td colspan="9"></td>
+  <td colspan="9">[See other instance]</td>
   <td colspan="3"><i>*The Maestro smiles at the mention of the name.*</i> Oh? How curious... Yes, indeed. I know him. Him and I are very close, and we've known eachother since we were but young men... If I may request, do pass my dearest regards to the him the next time you see him. It has been a while since we've last spoken.</td>
 </tr>
 <tr>
@@ -224,7 +224,7 @@ This dialogue is unlocked after the player has spoken to [High Monk Junsui](High
 </tr>
 <tr>
   <td colspan="9"></td>
-  <td colspan="3"><i>*Alkhurst's gaze drifts wistfully, reminiscing.*</i> We trained at the Temple together, in our youth. Under my predecessor, Maestro Nocturne, we both learned our basics of combat, and became the closest friends. Eventually, we drifted apart, as he joined the Monastery of <a href="Glossary.md#mur-of-light">Mur</a>, and I stayed in the Temple of the Blade... But to the surprise of us both, we were reunited once again within the Circle of Honour. Weboth became members at around the same time... Junsui has always been a kindred soul, and an ever-steadfast ally of mine. I would trust him with my life.</td>
+  <td colspan="3"><i>*Alkhurst's gaze drifts wistfully, reminiscing.*</i> We trained at the Temple together, in our youth. Under my predecessor, Maestro Nocturne, we both learned our basics of combat, and became the closest friends. Eventually, we drifted apart, as he joined the Monastery of <a href="Glossary.md#mur-of-light">Mur</a>, and I stayed in the Temple of the Blade... But to the surprise of us both, we were reunited once again within the Circle of Honour. We both became members at around the same time... Junsui has always been a kindred soul, and an ever-steadfast ally of mine. I would trust him with my life.</td>
 </tr>
 <tr>
   <td colspan="9"></td>
@@ -688,8 +688,6 @@ This dialogue is unlocked after the player has defeated the [True Heart of Enmit
 </tr>
 </tbody>
 </table>
-
-  
 
 ## Trivia
 

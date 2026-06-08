@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 213704
+revid: 213754
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -410,7 +410,7 @@ Sold Items
     <li><b>For 15 </b>: <a href="Parasol_Membrane.md">Parasol Membrane</a></li>
     <li><b>For 20 </b>: <a href="Frost_Essence.md">Frost Essence</a>, <a href="Gale_Essence.md">Gale Essence</a></li>
     <li><b>For 30 </b>: <a href="Doom_of_Caeranthil's_Scale.md">Doom of Caeranthil's Scale</a></li>
-    <li><b>For 50 </b>: <a href="Champion's_Alloy.md">Champion's Alloy</a></li>
+    <li><b>For 50 </b>: <a href="Champion's_Alloy.md">Champion's Alloy</a>, <a href="Charged_Parasol_Part.md">Charged Parasol Part</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -420,7 +420,7 @@ Sold Items
     <li><b>For 1 </b>: <a href="Kindred_Edict.md">Kindred Edict</a></li>
     <li><b>For 3 </b>: <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Hero's_Blade_of_Frost.md">Hero's Blade of Frost</a>, <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a>, <a href="Hero's_Blade_of_Wind.md">Hero's Blade of Wind</a>, <a href="Wraithclaw.md">Wraithclaw</a></li>
     <li><b>For 4 </b>: <a href="Boltcrusher.md">Boltcrusher</a>, <a href="Crypt_Blade.md">Crypt Blade</a>, <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>, <a href="Imperator's_Edge.md">Imperator's Edge</a>, <a href="Red_Death.md">Red Death</a>, <a href="Soulthorn.md">Soulthorn</a>, <a href="Stormseye.md">Stormseye</a></li>
-    <li><b>For 10 </b>: <a href="First_Light.md">First Light</a></li>
+    <li><b>For 8 </b>: <a href="First_Light.md">First Light</a></li>
     <li><b>For 35 </b>: <a href="Dormant_Splinter.md">Dormant Splinter</a></li>
   </ul></td>
 </tr>
@@ -434,7 +434,12 @@ Sold Items
     <li><b>Head</b>: <a href="Aazel's_Horns.md">Aazel's Horns</a></li>
     <li><b>Torso</b>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>, <a href="Tiran_Pendant.md">Tiran Pendant</a>, <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></li>
   </ul></li>
-    <li><b>For 25 </b>: <a href="Dark_Pearls.md">Dark Pearls</a>, <a href="Simmerbloom_Diadem.md">Simmerbloom Diadem</a></li>
+    <li><b>For 25 </b>:
+  <ul>
+    <li><b>Head</b>: <a href="Simmerbloom_Diadem.md">Simmerbloom Diadem</a></li>
+    <li><b>Torso</b>: <a href="Jadeite_Megalodaunt.md">Jadeite Megalodaunt</a></li>
+    <li><b>Ears</b>: <a href="Dark_Pearls.md">Dark Pearls</a></li>
+  </ul></li>
     <li><b>For 200 </b>: <a href="Whistling_Periapt.md">Whistling Periapt</a></li>
   </ul></td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: Charged Parasol Part
-revid: 212725
+revid: 213756
 source: https://deepwoken.fandom.com/wiki/Charged_Parasol_Part
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Drops, Ingredients]
@@ -13,9 +13,11 @@ categories: [Pathfinder Exclusive, Items, Drops, Ingredients]
 | value | N/A |
 | weight | N/A |
 | type | Ingredient |
+| rarity | Common |
 | bankable | Yes |
 | droppable | No |
 | pass down | No |
+| obtainment | Interluminary Parasol, Sold in Traan Zakshun's black market for 50 |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
