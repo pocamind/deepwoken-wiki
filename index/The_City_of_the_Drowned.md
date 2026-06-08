@@ -1,6 +1,6 @@
 ---
 title: The City of the Drowned
-revid: 213397
+revid: 213680
 source: https://deepwoken.fandom.com/wiki/The_City_of_the_Drowned
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]
@@ -59,5 +59,5 @@ These locations can also be found on the [Depths Layer 1 map](https://deepwoken.
 ### Shadowcast Spelltrainer Quest
 
 -   If you are unattuned with [Shadowcast](Shadowcast.md), [Nostor, Master of Shadow](Nostor,_Master_of_Shadow.md) will give you a quest.
--   They will ask you for 5 Umbral Obsidian, obtain them and give it to them. If you have completed it before they will only ask for 3.
--   Doing this will result in a potion that will attune you with [Shadowcast](Shadowcast.md).
+    -   They will ask you for 5 Umbral Obsidian, obtain them and give it to them. If you have completed it before they will only ask for 3.
+    -   Doing this will result in a potion that will attune you with [Shadowcast](Shadowcast.md).

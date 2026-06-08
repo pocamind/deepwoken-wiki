@@ -1,6 +1,6 @@
 ---
 title: Ambrosial Chum
-revid: 213534
+revid: 213686
 source: https://deepwoken.fandom.com/wiki/Ambrosial_Chum
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -17,6 +17,7 @@ notices:
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
+| desc | We're going to catch a big one! |
 | obtainment | Cooking |
 
-Crafted from One [Primal Slab](Primal_Slab.md), [Raw Parasol Brain](Raw_Parasol_Brain.md), and [Raw Heavy Meat](Raw_Heavy_Meat.md).
+Crafted from One [Primal Slab](Primal_Slab.md), [Raw Parasol Brain](Raw_Parasol_Brain.md), [Dread Flesh](Dread_Flesh.md) and [Raw Heavy Meat](Raw_Heavy_Meat.md).

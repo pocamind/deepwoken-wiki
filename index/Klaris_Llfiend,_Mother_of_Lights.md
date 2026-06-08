@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 213647
+revid: 213682
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the First Layer, Oath Trainer, Black Divers]
@@ -31,7 +31,7 @@ Klaris Llfiend, Mother of Lights, is a [Canor](Canor.md) NPC. She is a [Black Di
 
 She is a young Canor who has long golden hair that end onto her shoulders. Two bangs rest on both sides of her face, reaching down to her upper chest. Her pupils glow white and have a "web" shape to it, and has vibrant yellow facial markings resembling lightning patterns. Above her head floating orb that resembles the [Moonseye](Moonseye.md), a sideffect of being a Dawnwalker. As a result of being the inventor/discoverer of the Radiant Tones she wears the standard [Black Diver](Black_Diver.md) outfit.
 
-Of the Divers, she is considered one of the strongest, surpassing [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)[\[1\]](#cite-note-1) and being on par with [Akira](Akira.md).
+Of the Divers, she is considered one of the strongest, along with [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and [Akira](Akira.md).[\[1\]](#cite-note-1)
 
 She is rather rude at times, frequently insulting those she views as weak, and is generally disliked by her fellow Divers.[\[2\]](#cite-note-2) She also appears rather arrogant, as she banished [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) to [New Kyrsa](Second_Layer/New_Kyrsa.md) for disagreeing with her and how she reacts to players under Power 15 talking to her.[\[3\]](#cite-note-3)
 
@@ -528,16 +528,15 @@ Radiant Teachings
 -   Multiple past reworks have made Klaris's dialogue go through multiple changes, removing certain lines and etc. A non-exhaustive list is shown below. You must be signed in to view these links to due Fandom limitations.
     -   On the [August 23, 2024](Version_History/2024.md#august-23-2024) update, dialogues pertaining to [enchanting](Enchantments.md) your [equipment](Equipment.md) with random enchants was removed.([viewable here](https://deepwoken.fandom.com/wiki/Klaris_Llfiend,_Mother_of_Lights?oldid=112179#Shop_UI:~:text=Equipment%20Enchantment%20%5B5%20Medallions%5D), See Shop UI)
         -   This update added the [Enchant Grease](Enchant_Grease.md), and replaced the option to imbuing your equipment with a random enchantment that Klaris used to sell. Before this, she would imply that she was enchanting your equipments with [Enchant Stones](Enchant_Stone.md).
-    -   According to [ArchMage](https://deepwoken.fandom.com/wiki/User:ArchRBX). Klaris is a married butch [Lesbian](https://en.wikipedia.org/wiki/Lesbian).[\[6\]](#cite-note-6)
     -   On the [June 31, 2026](Version_History/2026.md#june-31-2026) update, dialogues pertaining to the [Deepshore Fossil](Deepshore_Fossil.md) was removed ([viewable here](https://deepwoken.fandom.com/wiki/Klaris_Llfiend,_Mother_of_Lights?oldid=210985#Floor_1_Optional:~:text=*You%20hand%20her,us.%20Take%20it.), See Unlockable Dialogues -> Floor 1 Optional)
         -   This update added the option to craft [Enchant Stones](Enchant_Stone.md) that were previously uncraftable. (Barring [Traan Zakshun](Traan_Zakshun.md)'s black market) Klaris used to be the sole provider of the (one-time use) [Deepshore Fossil](Deepshore_Fossil.md) through a questline, which allowed you to enchant your weapons with most enchants. All of the enchants that the Deepshore Fossil gave was made craftable, and thus the item became obsolete, and was therefore removed from the game along with its questline.
         -   Alongside Deepshore Fossil's removal are also the removal of certain questline-specific items: [Diver Journal, I](Diver_Journal,_I.md), [Diver Journal, II](Diver_Journal,_II.md), and [Diver Journal, III](Diver_Journal,_III.md), with them being replaced by new books.
 
 ## References
 
-1.  [↑](#cite-ref-1) [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
+1.  [↑](#cite-ref-1) NPC dialogue: [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)  
+    
 2.  [↑](#cite-ref-2) [Mark Adaset](Mark_Adaset.md)
 3.  [↑](#cite-ref-3) [Cap'n Orlandeau](<Cap'n_Orlandeau.md>)
 4.  [↑](#cite-ref-4)
 5.  [↑](#cite-ref-5)
-6.  [↑](#cite-ref-6)

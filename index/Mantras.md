@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 213495
+revid: 213669
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -47,11 +47,15 @@ Ranged Mantra Resistance; Standing from the center of the green circle, there is
 
 Ranged Mantras are any Mantras that can deal damage from at least 30 studs away, these Mantras have their damage fall off, reaching fully ranged resistance past 60 studs, Certain enemies like the [Scion of Ethiron](Scion_of_Ethiron.md) do not have this resistance while other enemies such as the [Megalodaunts](Megalodaunt.md) do have ranged resistance. Humanoid mobs such as the [Bandit Leader](Bandit_Leader.md) can roll and block ranged attacks, but this does not apply to most monster mobs, like the Megalodaunt that cannot block or roll.
 
+### Ritual Casting
+
+Numerous amounts of Support Mantras, namely every Wisp, will require the player to perform a Ritual Cast. When a player uses a Mantra that requires a Ritual Cast, a staff will appear on the screen, prompting the player to press keys that correspond with the current letter from the given list: Z, X, C, and V. Ritual keys added via modifiers will always have the 5th key highlighted in purple, signifying that the key will be randomized for every Ritual Cast.
+
 ## Upgrading Mantras
 
 _Main Article - [Attunement Trainers](Attunement_Trainers.md)_
 
-All Mantras can be upgraded from their respective element and trainer or from the guild base's Songwright (at the cost of spending 50% more notes) as long as you have the points allocated into them. Each 20 points allocated in your element/attribute will allow you to upgrade your Mantra(s).
+All Mantras can be upgraded from their respective element and trainer or from a [Mantra Lectern](Mantra_Lectern.md) (at the cost of spending 50% more notes) as long as you have the points allocated into them. Each 20 points allocated in your element/attribute will allow you to upgrade your Mantra(s).
 
 There are 5 Mantra Levels you can have, starting from Level 1 to Level 5:
 
@@ -68,9 +72,9 @@ Each Mantra level gives a damage boost and increases effects from modifiers. The
 
 _Main Article - [Mantra Modifiers](Mantra_Modifiers.md)_
 
-To modify a Mantra, the player needs to go to a Mantra Modification table, typically located on populated islands or inside your guild base with the given upgrades.
+To modify a Mantra, the player needs to go to a Mantra Lectern, typically located on populated islands or inside your guild base with the given upgrades.
 
--   At a Mantra Modification table, **all** Mantras the person has will be shown to them on a display that pops up.
+-   At a Mantra Lectern, **all** Mantras the person has will be shown to them on a display that pops up.
 -   After picking a Mantra to modify, **all** usable modifiers in the user's inventory will be shown.
     -   Mantra Modifiers include the following:
         -   [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) increase size at the cost of speed.

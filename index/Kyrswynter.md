@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 208581
+revid: 213683
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals, Kyrs series]
@@ -42,7 +42,7 @@ The **Kyrswynter** is a Legendary Spear; an intricate curved and wrapped white p
 
 The Kyrswynter comes with a single passive ability:
 
--   **Subzero Strike -** Enemies are blasted away with an explosion on flourish, dealing extra damage and proccing Chill or Crystal stacks. This does 10 base damage. ([Dazing Finisher](Talents.md#dazing-finisher)/[Bulldozer](Talents.md#bulldozer) do not proc)
+-   **Subzero Strike -** Enemies are blasted away with an explosion on flourish, dealing extra damage and proccing Chill or Crystal stacks. This does 10 base damage. ([Dazing Finisher](Talents.md#dazing-finisher) does not proc.)
 
 ## Obtainment
 
