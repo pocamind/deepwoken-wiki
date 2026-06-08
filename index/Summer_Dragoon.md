@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon
-revid: 209659
+revid: 213691
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, The Summer Company, Outfits with Talents, Outfits with Exclusive Talents]
@@ -43,9 +43,12 @@ This Outfit has 2800 durability and grants +30% Physical resistance ResistanceBl
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 47.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), 40.5% Ironsing [ResistanceIronsing](Ironsing.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
-The [Sunset Ricochet](Talents.md#sunset-ricochet) Talent makes your bullets ricochet to a nearby enemy when hitting an opponent. Visually, the bullets that ricochet towards a nearby opponent are signified by an orange line. Bullets that ricochet will hit targets for a certain number of times before dissipating, and applies on-hit Talents per hit.
+The [Sunset Ricochet](Talents.md#sunset-ricochet) Talent makes your bullets ricochet to a nearby enemy when hitting an opponent. Bullets that ricochet will hit targets for 35% of the weapon's scaled damage, and has a range of 21 studs per target.
+
+Visually, the bullets that ricochet towards a nearby opponent are signified by an orange line traveling between targets.
 
 ## Trivia
 
 -   Richocheted bullets can proc enchants (Bugged)
+-   Despite Sunset Ricochet's description, bullets are not required for ricochets.
 -   Dragoons were mounted infantrymen that existed from the 16th-18th centuries, wielding a [similarly named firearm](Dragoon.md).

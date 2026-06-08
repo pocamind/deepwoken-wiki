@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdelver
-revid: 212559
+revid: 213693
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, The Ignition Union, Outfits with Talents, Outfits with Exclusive Talents]
@@ -42,9 +42,11 @@ The outfit has 3000 durability, grants +30% Physical resistance ResistanceBlunt 
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 44.75% Ironsing [ResistanceIronsing](Ironsing.md), 44.7% Frostdraw [ResistanceFrostdraw](Frostdraw.md), and 35% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
-The [Force Your Way](Talents.md#force-your-way) Talent grants the player the ability to parry un-parryable attacks from large monsters at the cost of some armor durability. The armor durability lost is based on the damage the attack would've done. Whenever an attack that's not normally parryable is parried, the armor will let off some sparks and steam (which is purely visual). Note that normally unparryable attacks have a much stricter parry timing than regular attacks, which will take some getting used to.
+The [Force Your Way](Talents.md#force-your-way) Talent grants the player the ability to parry unparryable attacks from large monsters at the cost of some armor durability. The armor durability lost is based on the damage the attack would've done. Note that normally unparryable attacks have a much stricter parry timing than regular attacks, which will take some getting used to.
 
 This effect is also given by the arms equipment [Ignition Gauntlets](Ignition_Gauntlets.md). The [Grand Fisher Plate](Grand_Fisher_Plate.md) and [Hunter's Brace](<Hunter's_Brace.md>) have similar effects.
+
+Visually, an unparryable attack that is parried will cause steam and heat to release from the user.
 
 ## Trivia
 

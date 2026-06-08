@@ -1,6 +1,6 @@
 ---
 title: Amorus Pleeksty
-revid: 212090
+revid: 213689
 source: https://deepwoken.fandom.com/wiki/Amorus_Pleeksty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Content not present in-game", Individuals with He/him pronouns, Black Divers, Characters that are Deepwoken]
@@ -25,7 +25,7 @@ E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 
-**Amorus Pleeksty** is a legendary former Diver,[\[2\]](#cite-note-worshipperarmor-2) known for inventing [Flamecharm](Flamecharm.md)[\[3\]](#cite-note-gflame-3) and being a Deepwoken[\[4\]](#cite-note-4), and thus immortal.
+**Amorus Pleeksty** is a legendary former [Diver](The_Divers.md),[\[2\]](#cite-note-worshipperarmor-2) known for inventing [Flamecharm](Flamecharm.md)[\[3\]](#cite-note-gflame-3) and being a Deepwoken[\[4\]](#cite-note-4), and thus immortal.
 
 Amorus ate a part of the Drowned God of the Third Layer, [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), in the form of a meteor flower he encountered in the gardens of the layer.[\[3\]](#cite-note-gflame-3) This is what gave him his pyrokinetic powers, allowing him to talk to, command, and "charm" fire itself. This resulted in him inventing the modern art of [Flamecharm](Flamecharm.md), turning what was originally a crude magic largely conjured by accident into an actual technique.
 

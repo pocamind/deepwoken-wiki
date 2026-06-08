@@ -1,6 +1,6 @@
 ---
 title: "Cala-Mariner"
-revid: 212137
+revid: 213692
 source: https://deepwoken.fandom.com/wiki/Cala-Mariner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, Outfits with Talents, Outfits with Exclusive Talents]
@@ -42,9 +42,11 @@ The Outfit has 2200 durability, grants +25% Physical resistance ResistanceBlunt 
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistanceBlunt ResistanceSlash, 54.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), 51.25% Bloodrend [ResistanceBloodrend](Bloodrend.md), and 35% Elemental [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
-Additionally, it provides the [Tidal Shock](Talents.md#tidal-shock) Talent. This makes your Critical attacks apply short Daze and trigger Tidal Shock's effect, while the wearer visually lets out waves and bubbles.
+Additionally, it provides the [Tidal Shock](Talents.md#tidal-shock) Talent. This makes your Critical attacks apply short Daze and trigger Tidal Shock's effect.
 
-On [Tidal Shock](Talents.md#tidal-shock) proc, for the next 4s, any Mantra that hits you will have its damage voided, letting out a vent similar to the [Nautilodaunt](Nautilodaunt.md). Tidal Shock has a 13 second cooldown.
+On [Tidal Shock](Talents.md#tidal-shock) proc, for the next 4s, any Mantra that hits you will have its damage voided. Tidal Shock has a 13 second cooldown.
+
+Visually, when Tidal Shock is enabled on the wearer, the user emits bubble effects. When Tidal Shock procs on the user, they will let out a [Nautilodaunt](Nautilodaunt.md)'s vent.
 
 ## Trivia/Notes
 

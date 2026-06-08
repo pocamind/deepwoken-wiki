@@ -1,6 +1,6 @@
 ---
 title: "Ferryman's Coat"
-revid: 209673
+revid: 213694
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Outfits with Talents, Outfits with Exclusive Talents]
@@ -42,7 +42,9 @@ This Outfit has 2500 durability and grants +20% Physical resistance ResistanceBl
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 24% Blunt ResistanceBlunt, 20% Slash ResistanceSlash, 51.25% Thundercall [ResistanceThundercall](Thundercall.md), 38.25% Galebreathe [ResistanceGalebreathe](Galebreathe.md), and 35% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md).
 
-The Outfit provides the [Ferryman's Curse](Talents.md#ferrymans-curse) Talent, which has a 20% chance to convert incoming elemental damage into Lightning damage. On proc, the Outfit (visually) lets out bolts of lightning.
+The Outfit provides the [Ferryman's Curse](Talents.md#ferrymans-curse) Talent, which has a 20% chance to convert incoming elemental damage into Lightning damage.
+
+Visually, the user will let out lightning bolts whenever Ferryman's Curse procs.
 
 ## Trivia
 

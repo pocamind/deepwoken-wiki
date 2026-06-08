@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 211701
+revid: 213703
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -880,7 +880,7 @@ Having the [Attunement Path](Attunements.md#alternative-paths) Talent **Glass Pa
 
 **Combat Mantra**
 
-_Impale your foes with a brutal ice barrage. Does +50% damage if enemy is airborne, or after a Crystal Knee._
+_Impale your foes with a brutal ice barrage. Does +25% damage if enemy is airborne, or after a Crystal Knee._
 
  | 
 
@@ -888,7 +888,7 @@ _Impale your foes with a brutal ice barrage. Does +50% damage if enemy is airbor
 
   
 **Combat Mantra**  
-_Impale your foes with a brutal ice barrage. Does +50% damage if enemy is airborne, or after a Crystal Knee._
+_Impale your foes with a brutal ice barrage. Does +25% damage if enemy is airborne, or after a Crystal Knee._
 
  |
 | 

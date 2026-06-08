@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 213480
+revid: 213704
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -20,7 +20,7 @@ categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him 
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
 For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
-“ Here's todays lineup. Try not to drool. ”
+“ Here's the current lineup. Try not to drool. ”
 
 ― Traan Zakshun
 

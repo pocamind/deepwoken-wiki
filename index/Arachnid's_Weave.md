@@ -1,6 +1,6 @@
 ---
 title: "Arachnid's Weave"
-revid: 213476
+revid: 213690
 source: https://deepwoken.fandom.com/wiki/Arachnid's_Weave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, Outfits with Talents, Outfits with Exclusive Talents]
@@ -43,6 +43,8 @@ This Outfit has 2100 durability, grants +20% Physical resistance ResistanceBlunt
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 20% Physical ResistanceBlunt ResistanceSlash, 44.75% Ironsing [ResistanceIronsing](Ironsing.md), 44.75% Bloodrend [ResistanceBloodrend](Bloodrend.md), 41.5% Thundercall [ResistanceThundercall](Thundercall.md), and 35% Elemental [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceShadowcast](Shadowcast.md).
 
 The [Corrosive Touch](Talents.md#corrosive-touch) Talent makes your Critical attacks and Flourishes corrode your opponent's armor, draining an additional 5% of their armor on proc. Corrosive Touch has a 10 second cooldown.
+
+Visually, a critical attack will have a siphoning effect when landed.
 
 ## Trivia/Notes
 
