@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Roscoe"
-revid: 213361
+revid: 213713
 source: https://deepwoken.fandom.com/wiki/Rosen's_Roscoe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Offhand, Light Weapons, Weapons of The Summer Company]
@@ -39,7 +39,7 @@ categories: [Weapons, Pistols, Offhand, Light Weapons, Weapons of The Summer Com
 
 Rosen's Roscoe is a Pistol type weapon that can be used both in both dual and single-handed styles. It resembles a classical revolver and was originally created by a student of [Gunsmith Rosen](Gunsmith_Rosen.md) of [The Summer Company](The_Summer_Company.md).
 
-In comparison to most other Pistols, it has a comparatively low scaling of 11 and a low base damage of 16. Despite this, it can still be a viable option for any gun user.
+In comparison to most other Pistols, it has a comparatively low scaling of 11 and a low base damage of 16 yet excels in its posture damage and chip damage, outclassing all the other pistols in those departments, thus it can still be a viable option for any gun user.
 
 The Rosen's Roscoe has a [bullet](Bullets.md) capacity of 6.
 

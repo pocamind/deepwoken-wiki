@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 213241
+revid: 213716
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -129,7 +129,7 @@ Your range of vision is severely reduced, with everything far away from you bein
 
 ### Temporary Health
 
-Signified by a white bar on your health bar, gain a Temporary Health bar which decays at a rate of 1 Temporary health lost per second. You cannot have more than 200 flat temporary health at any given time. Damage taken from almost all sources will damage your Temporary Health before it damages your actual health bar. This is gained through the use of certain [Bloodrend](Bloodrend.md) Talents like [Sow and Mend](Talents.md#sow-and-mend), [Armored Plating](Talents.md#armored-plating), [Enhanced Flow](Talents.md#enhanced-flow), as well as the [Vampirism](Vampirism.md) Enchant. Alternatively, it can be applied to your opponent with the [Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>) enchantment. Having [Anti-Heal](#anti-heal) applied on you will reduce or negate the amount of Temporary Health given.
+Signified by a white bar on your health bar, gain a Temporary Health bar which decays at a rate of 1 Temporary health lost per second. You cannot have more than 200 flat temporary health at any given time. Damage taken from almost all sources will damage your Temporary Health before it damages your actual health bar. This is gained through the use of certain [Bloodrend](Bloodrend.md) Talents like [Sow and Mend](Talents.md#sow-and-mend), [Armored Plating](Talents.md#armored-plating), [Enhanced Flow](Talents.md#enhanced-flow), the Talents from the Necrotic set, as well as the [Vampirism](Vampirism.md) Enchant. Alternatively, it can be applied to your opponent with the [Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>) enchantment. Having [Anti-Heal](#anti-heal) applied on you will reduce or negate the amount of Temporary Health given.
 
 ### Enhanced Perception
 
