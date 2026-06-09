@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 213190
+revid: 213860
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Quests, NPCs, Mechanics]
@@ -331,7 +331,7 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
   <td><div><p><b>Quest location</b>: <a href="Etris.md">Etris</a>, <a href="Etris_Palace.md">Etris Palace</a>, <a href="Duke_Erisia's_Manor.md">Duke Erisia's Manor</a>, <a href="Duke_Erisia's_Laboratory.md">Duke Erisia's Laboratory</a><br>
   </p>
   <p><br>
-  <b>Guide</b>: Speak to <a href="Kennith.md">Kennith</a> while having "Friend" or higher <a href="Etrea.md">Etrea</a> reputation, then speak to <a href="Bookkeeper_Andros.md">Bookkeeper Andros</a>, choosing the first dialogue line. Speak to Andros again, going down the first dialogue line a second time.</p>
+  <b>Guide</b>: Speak to <a href="Kennith.md">Kennith</a> while having "Ally" or higher <a href="Etrea.md">Etrea</a> reputation, then speak to <a href="Bookkeeper_Andros.md">Bookkeeper Andros</a>, choosing the first dialogue line. Speak to Andros again, going down the first dialogue line a second time.</p>
   <p>From here, head to the Navaen Nomad camp at the <a href="Etrean_Wilds.md">Etrean Wilds</a>, there will be trails in the dirt on the outskirts, leading to where Kennith's body will be found. Speak to the <a href="Royal_Etrean_Guard.md">Royal Etrean Guard</a> and make your way to the <a href="Etris_Palace.md">Etris Palace</a>. You may need ally <a href="Etrea.md">Etrea</a> reputation to get in without the guards attacking you.</p>
   <ul>
     <li>If you have completed this quest before, you can skip this step, instead speaking to any of the <a href="Royal_Etrean_Guard.md">Royal Etrean Guards</a> at the Palace.</li>

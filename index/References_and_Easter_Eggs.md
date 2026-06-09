@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 200638
+revid: 213861
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -282,7 +282,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 
 #### Layer 1 (Scyphozia)
 
--   Among one of the cliffs, a **pineapple** can be found. This is a reference to [SpongeBob's House](https://spongebob.fandom.com/wiki/SpongeBob%27s_house).
+-   Among one of the cliffs, a **xineapple** can be found. This is a reference to [SpongeBob's House](https://spongebob.fandom.com/wiki/SpongeBob%27s_house).
     -   Some of the King Gigameds that spawn with hats near it may start dancing to a tune from _SpongeBob_.
 -   The City of the Drowned likely draws inspiration from H.P. Lovecraft's _Call of Cthulhu_, being very similar to the sunken city of [R'lyeh](<https://lovecraft.fandom.com/wiki/R'lyeh>), which is inhabited by Cthulhu, who is likely an inspiration for the **[Nautilodaunt](Nautilodaunt.md).**
 
