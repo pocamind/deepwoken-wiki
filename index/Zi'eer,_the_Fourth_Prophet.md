@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 212652
+revid: 213822
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters, Enemies, Humanoids with Unobtainable Outfits]
@@ -281,8 +281,6 @@ Dodge
 
 -   Zi'eer is voiced by Deepwoken Content Creator [demstormz](https://www.youtube.com/@demstormz).
     -   Additionally, he provides the voice for [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and [The Ferryman](The_Ferryman.md).
-    -   On Vow of Iron's release, the voice acting for Zi'eer proved to be rather controversial. A vocal group of Deepwoken's playerbase voiced disapproval for Zi'eer's voicelines, calling his voice 'twinkish', 'unfitting', 'chopped' among a variety of critiques.
-
 -   After the Inheritor's first encounter with Zi'eer, the Fragments of Else seems to be dimmed and contain less particle effects than normal. _\[citation needed\]_
 -   The Reclaimer of the Recollection has different dialogue depending on whether the Inheritor lost or won against Zi'eer:
     -   If the Inheritor lost: The Reclaimer will inform the Inheritor their memento, and many other, ended with Zi'eer; nobody was capable of killing him. However, The Reclaimer thinks there's still a way to defeat him, undiscovered.
@@ -291,7 +289,6 @@ Dodge
     -   This badge was not dropped alongside Vow of Iron, and was instead added on December 18th, 2025.
     -   Zi'eer is the first and only boss to grant players a badge for defeating them.
 -   The boss fight was designed by developer par.[\[1\]](#cite-note-1)
-
 -   Zi'eer has unique dialogue with the Inheritor within the Etris Palace dependent on how many times they've talked to them. This can be achieved by leaving The Throne of Lies while not combat tagged (such as in the cutscene), leaving the game while loading, or simply being unable to connect to the Instanced fight.
     -   This seems to indicate that, at some point during development, fighting Zi'eer did not wipe the player's slot, whether or not you lost or won. It remains unclear why this was scrapped, though the dialogue remains in-game regardless.
 

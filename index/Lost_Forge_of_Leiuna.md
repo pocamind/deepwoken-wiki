@@ -1,6 +1,6 @@
 ---
 title: Lost Forge of Leiuna
-revid: 205979
+revid: 213852
 source: https://deepwoken.fandom.com/wiki/Lost_Forge_of_Leiuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, World Event]
@@ -24,7 +24,7 @@ The Lost Forge of Leiuna is a large volcanic island that was once a town of smit
 
 ## The Lost Forge
 
-To enter the Lost Forge, the player must utilize the tendrils of the [Interluminary Parasol](Interluminary_Parasol.md) to smash the wall open.
+To enter the Lost Forge, the player must utilize the tendrils of the [Interluminary Parasol](Interluminary_Parasol.md) to smash the wall open, or the player may utilize a [Bomb](Iron_Bomb.md) to explode the wall.
 
 After 20 minutes, the door leading to the Lost Forge will regenerate.
 

@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 212162
+revid: 213853
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -48,11 +48,13 @@ Every M1 of Soulthorn that connects applies a Soul Mark. Up to three Soul Marks 
 
 At 0 stacks, the sword glows and emits particle effects, and does nothing.
 
-At 1-2 stacks, the user rises up and applies a [Moonseye Mark](Status_Effects.md#moonseye-mark) for a brief moment, then unleashes a chop that reels the affected opponent to the user and detonates the mark. Parriable and does high posture damage. Blockbreaks at 2 stacks.
+At 1-2 stacks, the user rises up and applies a [Moonseye Mark](Status_Effects.md#moonseye-mark) for a brief moment, then unleashes a chop that reels the affected opponent to the user and detonates the mark. Parriable and does high posture damage. Blockbreaks at 2 stacks. Landing this usually confirms your next Aerial Attack or quick mantra.
 
-At 3 stacks, the user teleports to the opponent and performs a downslash, unleashing multiple hits after a considerable delay. The user will gain True Hyperarmor for the entire duration. Parriable and does high posture damage.
+At 3 stacks, the user teleports to the opponent and performs a downslash, unleashing multiple hits after a considerable delay. The user will gain True Hyperarmor for the entire duration. Parriable and does high posture damage. Due to its True Hyperarmor, Moonlight/Moonlit Barrage can be used as a counter. Its delayed attack also allow you to use it as a nasty Dodge-Catcher after feinting.
 
 All criticals have a cooldown of **5 seconds**.
+
+It'd be appreciated if testing is done to figure out the damage of both Moonlight Smite stages, and that of Moonlight Barrage. Moreover, testing should be done to figure out whether those criticals deal Typeless damage like Nocturne, or not.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Diver Apprentice Robes
-revid: 206707
+revid: 213829
 source: https://deepwoken.fandom.com/wiki/Diver_Apprentice_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits, The Divers]
@@ -14,7 +14,7 @@ categories: [Outfits, Adept Outfits, The Divers]
 | tier | Adept |
 | crafting_req | x4 Cloth, x4 Fiber, x3 Crystal Lens |
 | price | 50 |
-| stat_req | Power 5, 10 Intelligence |
+| stat_req | Power 5 |
 | bankable | Yes |
 | droppable | Yes |
 | durability | 1000 |
@@ -32,7 +32,7 @@ categories: [Outfits, Adept Outfits, The Divers]
 
 This Outfit costs 50 and requires four (4) [Cloth](Cloth.md), four (4) [Fiber](Fiber.md), and three (3) [Crystal Lenses](Mantra_Modifiers.md#regular-modifiers) to craft.
 
-This Outfit additionally requires the player to be at least [Power](Power.md) 5 and have at least 10 [Intelligence](Attributes.md#int) to be crafted.
+This Outfit additionally requires the player to be at least [Power](Power.md) 5 to be crafted.
 
 Alternatively, using the [Deepbound](Deepbound.md) Origin will grant it for free, ignoring all requirements.
 

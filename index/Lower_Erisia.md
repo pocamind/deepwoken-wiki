@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 196449
+revid: 213838
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant]
@@ -28,18 +28,37 @@ This island is recommended for those [Power Level](Power.md) 1 through 10 for gr
 
 ## Points of Interest
 
-### Named
+### The Viper's Jaw
 
--   [Viper's Jaw](<The_Viper's_Jaw.md>)
--   [Path's Respite](<Path's_Respite.md>)
--   [Pathfinder's Respite](<Pathfinder's_Respite.md>)
+Main Article - [The Viper's Jaw](<The_Viper's_Jaw.md>)
 
-### Unnamed
+-   The general cave system of Erisia.
+    -   One of the caves holds a camp for the [11th Legion](The_Hundred_Legions.md), and an ore deposit.
+    -   Another cave connects the main entrance to the eastern shoreline.
 
--   Ruins Camp
-    -   A small, ruined Blackstone tower between the entrance and the Bandit Village, acts as a point for Bandit Camp events to take place and has a permanent campfire.
-    -   Has a permanent campfire.
-    -   Two Bandits and one Bandit Leader are always to spawn there as a event.
+### Statues of Erisian Nobles
+
+A set of weathered structures that house the statues of the former and current nobles of Erisia. Resting on the main entrance is [Alastir](Alastir.md), who provides insight about the island's current ruler.
+
+This area can be accessed by going into the cave from the left of the gate, or through breaking a set of wooden boards guarded by Bandits at the far left side when going up the slope.
+
+-   At the very front of the archway is a row of statues, featuring the past and present nobles of Erisia.
+    -   The statue of the first noble is destroyed.
+    -   The nobles of Erisia are labeled in [Gatherhand](Gatherhand.md) from left to right:
+        -   Duke [Irivien Erisia](Irivien_Erisia.md), The Sea's Savant
+        -   Duchess [Thera Erisia](Thera_Erisia.md), The Needle's Eye
+        -   Duke [Nir Erisia](Nir_Erisia.md), The Noble
+        -   Duke [Ferasci Erisia](Ferasci_Erisia.md), The Songspeller
+        -   Duke [Percimion Erisia](Percimion_Erisia.md), The Dramatic
+        -   Duke [Iskeban Erisia](Iskeban_Erisia.md), The Wind's Guide
+        -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), The Stonelife Lord
+    -   Duke Ishamon Erisia's statue is seemingly destroyed and only features his eyeglasses.
+
+### Ruined Building
+
+-   A small, ruined Blackstone tower between the entrance and Path's Respite acts as a point for Bandit Camp events to take place and has a permanent campfire.
+-   Has a permanent campfire.
+-   Two Bandits and one Bandit Leader are always to spawn there as a event.
 
 ## Missions
 

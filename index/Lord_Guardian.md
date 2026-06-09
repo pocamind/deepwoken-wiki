@@ -1,6 +1,6 @@
 ---
 title: Lord Guardian
-revid: 213818
+revid: 213828
 source: https://deepwoken.fandom.com/wiki/Lord_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Abolished positions]
@@ -16,9 +16,9 @@ categories: [Abolished positions]
 
 ## Description
 
-The Lord Guardians are a line of temporary rulers that govern the kingdom of Etrea in the absence of [Rolen Vashtir](Rolen_Vashtir.md). The title was been passed down over the decades to ensure the throne remained occupied.[\[1\]](#cite-note-andy-1)
+The Lord Guardians are a line of temporary rulers that govern the kingdom of Etrea in the absence of [Rolen Vashtir](Rolen_Vashtir.md). The title was been passed down over the decades to act as [Etrea](Etrea.md)'s governance in lieu of the monarchy.[\[1\]](#cite-note-andy-1)
 
-[Ji'ang](<Ji'ang.md>) was the last Lord Guardian. After Ji'ang's death at his hands, [Zi'eer](The_Lord_Regent.md) assumed power, replacing the position with Lord Regent.[\[2\]](#cite-note-2)[\[3\]](#cite-note-3)
+[Ji'ang](<Ji'ang.md>) was the last Lord Guardian. After Ji'ang's death at his hands, [Zi'eer](The_Lord_Regent.md) assumed power, replacing the position with that of the Lord Regent.[\[2\]](#cite-note-2)[\[3\]](#cite-note-3)
 
 ## References
 

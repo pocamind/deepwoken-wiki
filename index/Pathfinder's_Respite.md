@@ -1,16 +1,14 @@
 ---
 title: "Pathfinder's Respite"
-revid: 196450
+revid: 213837
 source: https://deepwoken.fandom.com/wiki/Pathfinder's_Respite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant]
+categories: [Cut Content, Locations, Locations in the Etrean Luminant]
+notices:
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # Pathfinder's Respite
-
-**[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
 
 LocationL Pathfinder's Respite LocationR
 
@@ -18,31 +16,11 @@ A peaceful grotto to escape the horrors of a cursed land lost to time.
 
   
 
-**Pathfinder's Respite** is a location in _Deepwoken_. It is a landmark in [Lower Erisia](Lower_Erisia.md) found in the [Etrean Sea](The_Etrean_Sea.md).
+**Pathfinder's Respite** was a location in _Deepwoken_. It is a landmark in [Lower Erisia](Lower_Erisia.md) found in the [Etrean Sea](The_Etrean_Sea.md).
 
 ## Overview
 
-Pathfinder's Respite is a set of weathered structures that house the statues of the former and current nobles of Erisia. Resting on one of the sides is an NPC named [Alastir](Alastir.md). Completing his dialogue will give you access to bringing him hostages.
-
-## Points of Interest
-
-### Statues of Erisian Nobles
-
--   At the very front of the archway is a row of statues, featuring the past and present nobles of Erisia.
-    -   The statue of the first noble is destroyed.
-    -   The nobles of Erisia are labeled from left to right:
-        -   Duke [Irivien Erisia](Irivien_Erisia.md), The Sea's Savant
-        -   Duchess [Thera Erisia](Thera_Erisia.md), The Needle's Eye
-        -   Duke [Nir Erisia](Nir_Erisia.md), The Noble
-        -   Duke [Ferasci Erisia](Ferasci_Erisia.md), The Songspeller
-        -   Duke [Percimion Erisia](Percimion_Erisia.md), The Dramatic
-        -   Duke [Iskeban Erisia](Iskeban_Erisia.md), The Wind's Guide
-        -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), The Stonelife Lord
-    -   Duke Ishamon Erisia's statue is seemingly destroyed and only features his eyeglasses.
-
-### Guild Banner
-
--   A [Guild Banner](Guild_Banners.md) can be found behind the statues.
+Pathfinder's Respite is a small den with a spot of flowers in the middle. Resting on one of the sides is an NPC named [Alastir](Alastir.md). Completing his dialogue will give you access to bringing him hostages and a [Glider](Gliders.md) schematic. [Ivory](Ivory.md), the [Aerial Assault](Talents.md#air-dash) questgiver used to reside here, as the ability is now innate.
 
 ## Missions
 

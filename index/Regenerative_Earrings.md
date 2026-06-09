@@ -1,6 +1,6 @@
 ---
 title: Regenerative Earrings
-revid: 213479
+revid: 213834
 source: https://deepwoken.fandom.com/wiki/Regenerative_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -56,18 +56,19 @@ The following sources of healing **cannot** proc Critical Heal:
     -   [Chorus of Souls](Talents.md#chorus-of-souls)
     -   [Conditioned Runner](Talents.md#conditioned-runner)
     -   [Campfire Pits](Campfire_Pit.md)
--   [Fadetrimmer](Oath%253A_Fadetrimmer.md) Revitalizing [Hair Spray](Oath%253A_Fadetrimmer.md#hair-spray)
 
 The following sources of healing **can** proc Critical Heal:
 
--   [Grand Feast](Talents.md#grand-feast) / [Replenishing Knockout](Talents.md#replenishing-knockout) / Health received on mob kill
--   Instant Health [potions](Alchemy.md)
--   Ticks of healing from [Blood Scourge](Blood_Scourge.md)
--   Ticks of healing from [Linkstrider's](Oath%253A_Linkstrider.md) [Parasitic Leech](Oath%253A_Linkstrider.md#parasitic-leech)
--   [Bloodtide Ritual](Bloodrend.md#bloodtide-ritual)'s Lifesteal
--   [Multiplicity](Multiplicity.md) Enchantment
--   [Flame Wisp](Flamecharm.md#flame-wisp) Healing
--   [Life Leech](Talents.md#life-leech) from [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>)
--   [Bloodless Gems](Bloodless_Gem.md)
--   [Sanguine Transfuser](Sanguine_Transfuser.md)'s critical attack
--   [Corrupted Payback](Payback.md) healing
+-   Any source of 'non-passive' healing (unexhaustive list below)
+    -   [Grand Feast](Talents.md#grand-feast) / [Replenishing Knockout](Talents.md#replenishing-knockout) / Health received on mob kill
+    -   Instant Health [potions](Alchemy.md)
+    -   Ticks of healing from [Blood Scourge](Blood_Scourge.md)
+    -   Ticks of healing from [Linkstrider's](Oath%253A_Linkstrider.md) [Parasitic Leech](Oath%253A_Linkstrider.md#parasitic-leech)
+    -   [Bloodtide Ritual](Bloodrend.md#bloodtide-ritual)'s Lifesteal
+    -   [Multiplicity](Multiplicity.md) Enchantment
+    -   [Flame Wisp](Flamecharm.md#flame-wisp) Healing
+    -   [Phoenix Impact](Talents.md#phoenix-impact)
+    -   [Life Leech](Talents.md#life-leech) from [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>)
+    -   [Bloodless Gems](Bloodless_Gem.md)
+    -   [Sanguine Transfuser](Sanguine_Transfuser.md)'s critical attack
+    -   [Corrupted Payback](Payback.md) healing

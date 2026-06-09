@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 213546
+revid: 213851
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics, Character, Creation, Features absent in Vow of Iron]
@@ -230,7 +230,7 @@ These Flaws can be chosen at character creation, but require an additional requi
   </td>
   <td>Your past isn't so spotless. All <a href="Reputation.md">Factions</a> hate you.</td>
   <td>You start with much lower reputation towards all factions, putting all faction reputation in the negative.</td>
-  <td>Paying off your reputation will reset it back to negative, as this is your starting value. Reputation can still be gained normally. Your starting reputation is low enough for guards to aggro on sight and for you to be <a href="Bounty_Hunting.md">bounty hunted</a> at Power 5, but depending on your origin, not low enough for <a href="Blacksmith.md">blacksmiths</a> and <a href="Antiquarian.md">antiquarians</a> to be disabled.</td>
+  <td>Reputation can still be gained normally. Your starting reputation is low enough for guards to aggro on sight and for you to be <a href="Bounty_Hunting.md">bounty hunted</a> at Power 5, but depending on your origin, not low enough for <a href="Blacksmith.md">blacksmiths</a> and <a href="Antiquarian.md">antiquarians</a> to be disabled.</td>
   <td>Gain negative reputation from any faction you originally have positive reputation for (e.g. going from Neutral to Enemy Etrea reputation).</td>
   <td>2 Flaw Points</td>
 </tr>
@@ -315,7 +315,7 @@ These Flaws are granted via specific means instead of being chosen during charac
 -   Some Flaws are more worth taking than others:
     -   **Blind** gives you the Blinded effect constantly, heavily limiting your field-of-vision. If you can live through it long enough to obtain [Blindseer](Oath%253A_Blindseer.md), you can negate the Flaw's downside. This Flaw also provides protection from [Flame Blind](Flamecharm.md#flame-blind) and [Gaze](Attunement-less.md#gaze). Blind also grants your character milky-white eyes.
     -   **Deficient** is a downside for all builds that intend to use Mantras, and is generally not worth taking. However, if you decide to go for [Silentheart](Oath%253A_Silentheart.md), the effect is minor, though still a downside, as Ether can still be useful on this Oath.
-    -   **Fugitive** can be worked around with some patience by [Bribing](Reputation.md#bribe) NPCs, (EDIT: Bribing NPCS do \*NOT\* work, due to the bribe npcs setting your reputation to your base reputation, which is negative.) though some factions lack a bribe NPC and will require other methods. This Flaw is effectively negated by the [Noble](Regalia.md#noble) Regalia, as it gives you a large amount of starting reputation for all factions. Additionally, as this Flaw grants 2 Flaw points, this Flaw is a great alternative to Simple.
+    -   **Fugitive** can be worked around by taking quests on [Job Boards](Job_Boards.md) designated by Factions. This Flaw is effectively negated by the [Noble](Regalia.md#noble) Regalia, as it gives you a large amount of starting reputation for all factions. Additionally, as this Flaw grants 2 Flaw points, this Flaw is a great alternative to Simple.
     -   **Glutton** forces you to handle provisions more smartly, since you will likely need more food for extended sessions, but this can be somewhat worked around by using the [Carnivore](Talents.md#carnivore) and [Grand Feast](Talents.md#grand-feast) Talents or the [guild base](Guild_Bases.md) Mess Hall. This Flaw is **entirely** negated by the [Hungerless](Regalia.md#hungerless) Regalia, as it entirely disables passive stomach/thirst drain.
     -   **Haemophilia** is basically a free Flaw in most 1v1 situations, as the increased blood drain won't have an impact when you'll be knocked before your blood runs out, but in ganks you can die to blood before health runs out after some time. This Flaw (luckily) doesn't affect **blood drain** effects, such as utilizing or being hit by [Bloodrend](Bloodrend.md) Mantras, the blood cost from the Blood Loss [Corrupt Resonance](Resonance.md#corrupt-resonances) downside, [blood loss potions](Alchemy.md), or whiffing with or being hit by the [Curse of the Bloodthirsty](Curse_of_the_Bloodthirsty.md) enchantment, as blood drain effects are unaffected by blood damage modifiers.
     -   **Manic** is usually a free Flaw point; the increased Sanity loss is minimal, Sanity damage comes from few sources, and scratching can be completely avoided with some Talents. Additionally, having low Sanity can even benefit some builds.
