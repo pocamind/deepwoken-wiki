@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 213661
+revid: 213864
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -57,9 +57,11 @@ You can buy an official Sharko Plush made by Makeship [here](https://www.makeshi
 -   Every good thing that happens to you in this game is preplanned like a show. There's an audience waiting for your downfall.
 -   Fish names can be so silly. Did you know there's a seabream species calls "Boops Boops"? There's a "Dumb Gulper Shark" too. How mean!
 -   Flamecharm? Daring today, aren't we?
+-   Hey, do you mind if I dig around in your inventory a bit? I'm hungry.
 -   HINT: Chanting 'Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza' at the white tree in Etris unlocks a secret eighth attunement.
 -   HINT: Don't tell the Internal Revenue Sharkos that I'm here. Why? No particular reason.
 -   HINT: Getting mugged in Erisia? Just say 'no'! Legally, bandits can't rob you if you refuse.
+-   HINT: How much wood could a woodchuck chuck if a woodchuck could chuck wood? Probably not that much, right?
 -   HINT: I should be rising in the sky...
 -   HINT: I write down all of your balance complaints to engineer them to be even worse.
 -   HINT: If you can't solve a puzzle and have to use the wiki, you are foolish and I will laugh at you. As a friend. Like, in a friendly way.
@@ -70,7 +72,6 @@ You can buy an official Sharko Plush made by Makeship [here](https://www.makeshi
 -   HINT: The strength of the Megurger comes from the concept, not the physical object.
 -   HINT: This game is awful. The developers really suck.
 -   HINT: Use code '!redeem AGAMATSU' right now to receive a free prize!
--   Hey, do you mind if I dig around in your inventory a bit? I'm hungry.
 -   I can tell you've never churned butter before. Look at you. Churnless, pathetic.
 -   I could end you in one hit if I really wanted to. Watch your back.
 -   I could really go for a Kyrsdog right about now...

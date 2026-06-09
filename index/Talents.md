@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 213774
+revid: 213873
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1769,10 +1769,14 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Despite the fact that you can obtain this from Greatcannons, this Talent does **nothing** on them.
     -   Prerequisites: 30 Intelligence, 20 Weapon (20 LHT // 20 MED // 20 HVY), Using a Pistol/Rifle/Greatcannon
 
+-   -   Bug Note: This talent is experiencing a bug as of June 9th 2026, and will not work with any attunement.
+
 -   _**Prime Ether Bullets**_ \[Advanced Talent, Intelligence, Light Weapon\] - Your bullets take one less hit to proc elemental effects and now have slight intelligence scaling. \[Dual Gun\]
     -   True Ether Bullets now procs in 2 hits instead of 3.
     -   Adds 1.2 Intelligence scaling to your Pistols. Stacks with the [Rosen's Ring](<Rosen's_Ring.md>).
     -   Prerequisites: 90 Light Weapon, 60 Intelligence, True Ether Bullets, Using a Pistol
+
+-   -   Bug Note: This talent is experiencing a bug as of June 9th 2026, and will not work with any attunement.
 
 ### Hammer Rage
 

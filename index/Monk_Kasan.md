@@ -1,6 +1,6 @@
 ---
 title: Monk Kasan
-revid: 200219
+revid: 213866
 source: https://deepwoken.fandom.com/wiki/Monk_Kasan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Circle of Honour members]

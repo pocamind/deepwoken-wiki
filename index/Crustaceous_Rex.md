@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 212732
+revid: 213868
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -42,12 +42,18 @@ Crustaceous Rex is a hostile Giant-type mob. Whilst appearing scary, it is one o
  |  |
 | 
 
-**Crab Crab**<[\[1\]](#cite-note-crabcrab-1)  
+**Crab Crab**[\[1\]](#cite-note-crabcrab-1)  
 (★★★)
 
  | The Crustaceous Rex raises its **Right Claw** and crabs its foe, crushing and dealing medium damage.
 
 -   If the opponent is at low enough health, **it will split them in half, auto-gripping.**
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
 
  |  |
 | 
@@ -58,6 +64,12 @@ Crustaceous Rex is a hostile Giant-type mob. Whilst appearing scary, it is one o
  | The Crustaceous Rex jumps up, promptly slamming down onto its bottom and dealing medium damage to foes in a large radius.
 
 -   Temporarily ragdolls those it hits.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
 
  |  |
 | 
@@ -85,9 +97,9 @@ Crustaceous Rex is a hostile Giant-type mob. Whilst appearing scary, it is one o
 
 ## Trivia
 
--   One of the only [monsters](Monsters.md) in [The Depths](The_Depths.md) that one can run away from without climbing.
+-   One of the only [Monsters](Monsters.md) in [The Depths](The_Depths.md) that one can run away from without climbing.
     -   The Enforcer in Hell Mode, losing its pull ability, can also be ran away from.
--   Likely inspired by "Giant Crab" from Darksouls 3
+-   Likely inspired by "Giant Crab" from Darksouls 3.
     -   Is an almost exact copy of the foam spray, also having a slow effect when hit
 -   The crab tends to glitch itself into objects, mainly by its claws, which makes it easier to deal with.
 -   The crab's Crab is canonically named how it is. It wasn't a spelling mistake. It is not that the developer's intended to say Crab Crab, as all the other moves were referred to as a grab, but instead misspelled Grab, thus making it lore to cover up their mistake. No siree.[\[1\]](#cite-note-crabcrab-1)

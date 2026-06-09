@@ -1,6 +1,6 @@
 ---
 title: Bluestone Pauldrons
-revid: 212149
+revid: 213870
 source: https://deepwoken.fandom.com/wiki/Bluestone_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses, Pauldrons, Equipment with Talents, Equipment with Exclusive Talents]
@@ -19,10 +19,10 @@ categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses, Pauldrons, 
 | innate talent | Ether Emergency |
 | set | Bluestone Pauldrons, Bluestone Boots |
 | set talent | Etherguard |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Crafting:, Crafting Station + Bluesteel Boots + 1x Warped Blue Gem, Vow of Iron:, Sold in Naan Zakshun's black market for 1,000 |
 | description | ... |
 

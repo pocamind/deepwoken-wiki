@@ -1,6 +1,6 @@
 ---
 title: Bluestone Boots
-revid: 210082
+revid: 213871
 source: https://deepwoken.fandom.com/wiki/Bluestone_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Craftable, Equipment with Set Bonuses, Boots]
@@ -19,10 +19,10 @@ categories: [Equipment, Legs, Craftable, Equipment with Set Bonuses, Boots]
 | innate talent | I'm Blue |
 | set | Bluestone Pauldrons, Bluestone Boots |
 | set talent | Etherguard |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Crafting:, Crafting Station + Bluesteel Boots + 1x Warped Blue GemVow of Iron:, Sold in Naan Zakshun's black market for 1,000 |
 | description | ... |
 
