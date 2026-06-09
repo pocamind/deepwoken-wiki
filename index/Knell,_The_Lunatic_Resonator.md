@@ -1,6 +1,6 @@
 ---
 title: "Knell, The Lunatic Resonator"
-revid: 213470
+revid: 213801
 source: https://deepwoken.fandom.com/wiki/Knell%2C_The_Lunatic_Resonator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Anansi NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, Enemies, Bosses, Deceased characters, Voiced Characters]
@@ -65,7 +65,7 @@ _For a visual guide, consider watching [this video.](https://www.youtube.com/wat
 
 _Uses Telegraph_
 
-[JumpTelegraph](Combat_Mechanics.md#white)
+[JumpTelegraph](Combat_Mechanics.md#magenta)
 
 Jump
 

@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 204658
+revid: 213785
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Dual-wielded Weapons", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -48,7 +48,7 @@ This weapon comes with a passive ability:
 
 The Curved Blade of Winds has two critical attacks, with it reflecting on the user's weapon stance. Both criticals apply [Suffocation](Status_Effects.md#suffocate) or spawn Apparitions when landed.
 
-For the One-Handed Critical, the user propels in a whirlwind of air, gravitating towards their cursor. This has a scaled damage modifier of 0.25x per hit. Deals 2.5 posture damage per hit if blocked.
+For the One-Handed (Dual Wielded) Critical, the user propels in a whirlwind of air, gravitating towards their cursor. This has a scaled damage modifier of 0.25x per hit. Deals 2.5 posture damage per hit if blocked.
 
 For the Two-Handed Critical, the user shoots a blast of air and on collision or after a short amount of time it will proceed to explode. This has a scaled damage modifier of 0.3x per hit. Deals 1.5 posture damage per hit if blocked.
 

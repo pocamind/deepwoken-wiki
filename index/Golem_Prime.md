@@ -1,6 +1,6 @@
 ---
 title: Golem Prime
-revid: 206381
+revid: 213806
 source: https://deepwoken.fandom.com/wiki/Golem_Prime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters]
@@ -89,6 +89,12 @@ Dodge
  | The golem raises its leg before giving a powerful earthshaking stomp.
 
 -   Auto-grips if low enough.
+
+_Uses Telegraph_
+
+[JumpTelegraph](Combat_Mechanics.md#magenta)
+
+Jump
 
  |  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 213116
+revid: 213804
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -589,7 +589,7 @@ Most attacks with this indicator deal high posture damage.
  |
 | 
 
-White
+Magenta
 
  | File:Whitetelegraph.png | 
 
@@ -605,6 +605,7 @@ Attacks with this indicator can be jumped over.
 -   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Champion's Quake, Altitude Swipes, Crossrend Cryocleave
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Stonelife Quake, Tempest Kick
 -   [Titus Fulminus Destellus:](Titus_Fulminus_Destellus.md) Wrathful Stomp, World Piercing Deluge
+-   [Rock Golem](Rock_Golem.md), [Golem Prime](Golem_Prime.md): Stomp
 
  |
 | 
@@ -665,8 +666,6 @@ Some of these attacks have unique mechanics regarding how/if they can be avoided
 -   Red for [Bloodrend](Bloodrend.md)
 
 \*\*Possibly a bug, but [Titus](Titus_Fulminus_Destellus.md)' _Worldshattering Smackdown_ is dodgeable albeit having a green telegraph. Refer to [this video](https://streamable.com/h20tpc).
-
-  
 
 ## Status Effects
 

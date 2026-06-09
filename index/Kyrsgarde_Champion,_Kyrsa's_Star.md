@@ -1,6 +1,6 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 211969
+revid: 213802
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Individuals with He/him pronouns]
@@ -97,7 +97,7 @@ Duck
 
 _Uses Telegraph_
 
-[JumpTelegraph](Combat_Mechanics.md#white)
+[JumpTelegraph](Combat_Mechanics.md#magenta)
 
 Jump
 
@@ -131,7 +131,7 @@ Dodge
 
 _Uses Telegraph_
 
-[JumpTelegraph](Combat_Mechanics.md#white)
+[JumpTelegraph](Combat_Mechanics.md#magenta)
 
 Jump
 

@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 212156
+revid: 213820
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant, Heads of government and state, Humanoids with Unobtainable Outfits]
@@ -458,6 +458,8 @@ If the player steps on or near the throne that **The Lord Regent** is sitting on
 -   Zi'eer (Lord Regent) hair ID: 6536289312; and the link: [https://www.roblox.com/catalog/6536308118/Long-White-Hair](https://www.roblox.com/catalog/6536308118/Long-White-Hair) (colored differently ingame)
 -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/9639911906/Dark-Elf-Outrider-Slight-Fix) / [Pants](https://www.roblox.com/catalog/7434547604/Dark-Elf-Outrider)
 -   The Lord Regent is supposed to be voiced by Deepwoken Content Creator [demstormz](https://www.youtube.com/@demstormz). However, despite having fully recorded voice lines for his dialogue, they for some reason were not implemented.
+
+  
 
 ## References
 

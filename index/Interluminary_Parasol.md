@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 213088
+revid: 213800
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, World Event, Monsters, Bosses]
@@ -50,7 +50,7 @@ This giant foe's moveset is relatively simple and is easy to avoid; however it d
 **Abyssal Hive**  
 (★☆☆)
 
- | The Parasol spits out a random Monster, varied to a [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Mudskipper Brute](Mudskipper_Brute.md), [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Void Thresher](Thresher.md), and [Nautilodaunt](Nautilodaunt.md). It can only spawn one type of creature at a time, and can sometimes spawn two of them.
+ | The Parasol spits out a random Monster, varied to a [Mudskipper Brute](Mudskipper_Brute.md), [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Void Thresher](Thresher.md), and [Nautilodaunt](Nautilodaunt.md). It can only spawn one type of creature at a time, and can sometimes spawn two of them.
 
 -   Parasol mostly uses this after getting a hit with any of its moves. Therefore, the less hits you take, the less additional enemies you have to deal with.
 
@@ -83,6 +83,12 @@ This giant foe's moveset is relatively simple and is easy to avoid; however it d
 -   This move is only used when it has Parasol Planting.
 -   Uppercutting its tendrils gives enough height to avoid this attack.
 
+_Uses Telegraph_
+
+[JumpTelegraph](Combat_Mechanics.md#magenta)
+
+Jump
+
  |
 | 
 
@@ -90,6 +96,12 @@ This giant foe's moveset is relatively simple and is easy to avoid; however it d
 (★★★)
 
  | The Parasol starts to convulse, charging up a large static pulse that sends nearby targets flying.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
 
  |
 

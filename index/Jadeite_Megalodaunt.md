@@ -1,6 +1,6 @@
 ---
 title: Jadeite Megalodaunt
-revid: 213760
+revid: 213814
 source: https://deepwoken.fandom.com/wiki/Jadeite_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Equipment Relics, Equipment, Torso]
@@ -34,3 +34,4 @@ The [Good Luck Charm](Talents.md#good-luck-charm) Talent has an unknown effect; 
 
 -   If you have the Cloth Physics [Setting](Settings.md) on, the charm will have physics applied to it, bouncing around as you move.
 -   The charm emits sparkling visual effects, which can change color to match dyes applied to it.
+-   The charm appears to resemble depictions of Cthulhu charms, due to its dark green coloring and strikingly similar pose.

@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 206378
+revid: 213812
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -77,7 +77,7 @@ Dodge
 
 _Uses Telegraph_
 
-[JumpTelegraph](Combat_Mechanics.md#white)
+[JumpTelegraph](Combat_Mechanics.md#magenta)
 
 Jump
 

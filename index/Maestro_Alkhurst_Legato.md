@@ -1,6 +1,6 @@
 ---
 title: Maestro Alkhurst Legato
-revid: 213773
+revid: 213808
 source: https://deepwoken.fandom.com/wiki/Maestro_Alkhurst_Legato
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, Maestros of the Vigils, Circle of Honour members]
@@ -196,7 +196,7 @@ Maestro Alkhurst Legato is located in the [Temple Sparring Hall](Temple_Sparring
 
 **High Monk Junsui:**
 
-This dialogue is unlocked after the player has spoken to [High Monk Junsui](High_Monk_Junsui.md) at the [The Golden Rat](The_Golden_Rat.md).
+This dialogue is unlocked after the player has spoken to fully spoken to Alkhurst Legato and talked to [High Monk Junsui](High_Monk_Junsui.md) at [The Golden Rat](The_Golden_Rat.md).
 
 **First Encounter:**
 
@@ -212,7 +212,7 @@ This dialogue is unlocked after the player has spoken to [High Monk Junsui](High
   <td colspan="3">Is there any way I can help the Vigils out?</td>
   <td colspan="3">I wanted to ask about the situation in Etrea again.</td>
   <td colspan="3">How do you know there are no spies within your ranks again? Zi'eer's agents could be anywhere.</td>
-  <td colspan="3">I met someone by the name of High Monk Junsui, from the Monastery of Mur ... Are you two familiar?</td>
+  <td colspan="3">I met someone by the name of High Monk Junsui, from the Monastery of Mur... Are you two familiar?</td>
 </tr>
 <tr>
   <td colspan="9">[See other instance]</td>

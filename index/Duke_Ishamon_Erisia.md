@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 212092
+revid: 213799
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
@@ -64,7 +64,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
 _Uses Telegraph_
 
-[JumpTelegraph](Combat_Mechanics.md#white)
+[JumpTelegraph](Combat_Mechanics.md#magenta)
 
 Jump
 
@@ -132,7 +132,7 @@ Duck
 
 _Uses Telegraph_
 
-[JumpTelegraph](Combat_Mechanics.md#white)
+[JumpTelegraph](Combat_Mechanics.md#magenta)
 
 Jump
 

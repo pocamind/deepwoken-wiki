@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 213762
+revid: 213774
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -263,7 +263,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         -   Was merged with the old Taste Test Talent.
 
 -   Chemistry Kit \[Common Talent, Intelligence\] - You no longer drop potions on death. You have a 25% chance to brew an extra potion.
-    -   Saltchemist salts innately provide this feature to your potions, however are not manually droppable.
+    -   Saltchemist salts innately make your potions not drop on death, however are not manually droppable.
     -   When brewing potions, there's a 25% chance you'll gain 2 potions instead of 1.
     -   The Wild Alchemy and Chemist's Bag Talents were merged into this Talent
     -   Prerequisites: 25 Intelligence, interact with a [Cauldron](Cauldron.md)

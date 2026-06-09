@@ -1,6 +1,6 @@
 ---
 title: Carnival of Hearts
-revid: 210671
+revid: 213783
 source: https://deepwoken.fandom.com/wiki/Carnival_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, World Event, Dungeons]
@@ -77,7 +77,7 @@ Exhaustive Loot Table
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Dye_Packet.md">Dye Packet</a>, <a href="Gilded_Needle.md">Gilded Needle</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, Trickster's Dust, <a href="Void_Spire.md">Void Spire</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Dye_Packet.md">Dye Packet</a>, <a href="Gilded_Needle.md">Gilded Needle</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Trickster_Dust.md">Trickster Dust</a>, <a href="Void_Spire.md">Void Spire</a></li>
     <li><a href="Items.md">Items</a>: <a href="Cake.md">Cake</a>, <a href="Iron_Bomb.md">Iron Bomb</a></li>
     <li>EXP, scaling on the amount of eliminated players</li>
   </ul></td>
