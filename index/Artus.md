@@ -1,6 +1,6 @@
 ---
 title: Artus
-revid: 199118
+revid: 213874
 source: https://deepwoken.fandom.com/wiki/Artus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs]

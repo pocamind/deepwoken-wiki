@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 213873
+revid: 213875
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3145,6 +3145,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: 80 Bloodrend, 40 Charisma, Manipulator
 
 -   Donation Drive \[Common Talent, Charisma, Bloodrend\] - Consuming 'Charm' on an opponent replenishes some blood. Additionally, you can also activate this effect and Manipulator through blockbreaking with a Bloodrend mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
+    -   Restores around 2/3rds of a bar of blood on proc.
     -   Donation Drive's cooldown scales on your Charisma investment, having an 8 second cooldown at 60 Charisma and gaining 0.1s for every point in Charisma below 60.
     -   Donation Drive has a 8.5 second cooldown at 55 Charisma, and a maximum cooldown of 10.5 seconds at 35 Charisma.
     -   Prerequisites: 50 Bloodrend, 55 Charisma, Manipulator
