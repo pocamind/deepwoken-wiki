@@ -1,6 +1,6 @@
 ---
 title: Edenbrand Hellcoil
-revid: 204198
+revid: 213887
 source: https://deepwoken.fandom.com/wiki/Edenbrand_Hellcoil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Heavy Weapons, Greatcannons, "Weapons with Multi-Hit Criticals"]
@@ -37,7 +37,7 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Heav
 
 ## Description
 
-The Edenbrand Hellcoil is a very large [cannon Weapon](Weapons.md#greatcannons) held with both hands. The cannon showcases a dragon motif, akin to ancient eastern cultures in the real world.
+The Edenbrand Hellcoil is a [Greatcannon](Greatcannons.md) weapon held with both hands. The cannon showcases a dragon motif, akin to ancient eastern cultures in the real world.
 
 ## Critical
 

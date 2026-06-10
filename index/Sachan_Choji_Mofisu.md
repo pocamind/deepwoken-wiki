@@ -1,11 +1,11 @@
 ---
 title: Sachan Choji Mofisu
-revid: 193741
+revid: 213886
 source: https://deepwoken.fandom.com/wiki/Sachan_Choji_Mofisu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Sachans]
+categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Sachans]
 notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Sachan Choji Mofisu
@@ -21,6 +21,10 @@ notices:
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
+
+## Description
+
+Sachan Choji Mofisu, also known as Choji Mofisu, is the leader of [Clan Mofisu](Clan_Mofisu.md) and one of the four sachans of the [Etrean Royalists](Etrean_Royalists.md). A devout follower of [Mur Of Light](Mur_Of_Light.md) alongside his Clan.
 
 ## References
 

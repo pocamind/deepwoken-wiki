@@ -1,6 +1,6 @@
 ---
 title: Artus
-revid: 213874
+revid: 213877
 source: https://deepwoken.fandom.com/wiki/Artus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs]
@@ -43,7 +43,7 @@ Artus is located outside of the [Summer Isle](Summer_Isle.md) castle, standing n
   <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="2">You ever think about the Adret? They really aren't like the rest of us.</td>
+  <td colspan="2">You ever think about the <a href="Glossary.md#adret">Adret</a>? They really aren't like the rest of us.</td>
 </tr>
 <tr>
   <td colspan="2">Uhh...</td>
@@ -54,7 +54,7 @@ Artus is located outside of the [Summer Isle](Summer_Isle.md) castle, standing n
 </tr>
 <tr>
   <td>Oh. Uh. No offence. Just, well, the rest of the people in this world take after animals, right? Whereas you... Well, you don't, right?</td>
-  <td>Well, the rest of us each take after animals, right? Snakes, deers, insects, and so on. But the Adret... They don't have any of those traits, do they?</td>
+  <td>Well, the rest of us each take after animals, right? Snakes, deers, insects, and so on. But the <a href="Glossary.md#adret">Adret..</a>. They don't have any of those traits, do they?</td>
 </tr>
 <tr>
   <td colspan="2">I guess.</td>
@@ -66,7 +66,7 @@ Artus is located outside of the [Summer Isle](Summer_Isle.md) castle, standing n
   <td colspan="2">Go on.</td>
 </tr>
 <tr>
-  <td colspan="2">So these old books speak here and there of the people back then, only, there's no mention of the Adret anywhere. It's like they came into existence with the waves themselves...</td>
+  <td colspan="2">So these old books speak here and there of the people back then, only, there's no mention of the <a href="Glossary.md#adret">Adret</a> anywhere. It's like they came into existence with the waves themselves...</td>
 </tr>
 <tr>
   <td colspan="2">[End Dialogue]</td>
