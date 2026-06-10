@@ -1,6 +1,6 @@
 ---
 title: Carnival of Hearts
-revid: 213783
+revid: 213924
 source: https://deepwoken.fandom.com/wiki/Carnival_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, World Event, Dungeons]
@@ -56,7 +56,7 @@ The minigames happen in a random order. Once all minigames are completed, all re
 
 ## Rewards
 
--   Eliminated players have a chance of spawning chests where they were standing. Additionally, when all three games are over, a chest spawns in the center of the Carnival for each remaining player. Chests will spawn inside the circus that contain mixed loot.
+Eliminated players have a chance of spawning chests where they were standing. Additionally, when all three games are over, a chest spawns in the center of the Carnival for each remaining player. Chests will spawn inside the circus that contain mixed loot.
 
 ### 
 
@@ -69,7 +69,7 @@ Exhaustive Loot Table
   <td>
   <ul>
     <li><b>Adept</b>: <a href="Carefree_Garments.md">Carefree Garments</a></li>
-    <li><b>Expert</b>: <a href="Cerulean_Gown.md">Cerulean Gown</a></li>
+    <li><b>Expert</b>: <a href="Cerulean_Gown.md">Cerulean Gown</a>, <a href="Seamstress's_Attire.md">Seamstress's Attire</a></li>
     <li><b>Unique</b>: <a href="Cindergarb.md"><font>Cindergarb</font></a>, <a href="Icebringer's_Vestments.md"><font>Icebringer's Vestments</font></a>, <a href="Jade_Vigil's_Weave.md"><font>Jade Vigil's Weave</font></a> <a href="Jester's_Garb.md"><font>Jester's Garb</font></a>, <a href="Sanguine_Finery.md"><font>Sanguine Finery</font></a>, <a href="Stormchanter's_Raiments.md"><font>Stormchanter's Raiments</font></a>, <a href="Tempestmaker's_Threads.md"><font>Tempestmaker's Threads</font></a>, <a href="Trickster's_Habit.md"><font>Trickster's Habit</font></a>, <a href="Vigil_Sentinel.md"><font>Vigil Sentinel</font></a></li>
   </ul></td>
 </tr>
@@ -107,7 +107,7 @@ Exhaustive Loot Table
     <li><b>Unique Head</b>: <a href="Tillian's_Beret.md">Tillian's Beret</a></li>
     <li><b>Generic Head</b>: <a href="Assassin's_Hood.md">Assassin's Hood</a></li>
   </ol></li>
-    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:</li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Assassin's_Cloak.md">Assassin's Cloak</a></li>
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>:</li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:
   <ol>

@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 211327
+revid: 213926
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1, The Depths]
@@ -77,9 +77,9 @@ Dodge
 
 _Uses Telegraph_
 
-[BlockTelegraph](Combat_Mechanics.md#blue)
+[AvoidTelegraph](Combat_Mechanics.md#skull)
 
-Block
+Avoid
 
  |  |
 | 

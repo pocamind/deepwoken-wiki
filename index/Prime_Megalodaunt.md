@@ -1,6 +1,6 @@
 ---
 title: Prime Megalodaunt
-revid: 208152
+revid: 213920
 source: https://deepwoken.fandom.com/wiki/Prime_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Vat Exclusive]
@@ -109,6 +109,8 @@ Dodge
 (★☆☆)
 
  | The Prime Megalodaunt turns invisible, with a white ring signifying where they are. After a moment, it turns visible again and appears over its target, grabs it, holds it up, and chews it down, before throwing it away and ragdolling it.
+
+-   This attack drains ether and increases sanity gain upon landing.
 
 _Uses Telegraph_
 

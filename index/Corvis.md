@@ -1,6 +1,6 @@
 ---
 title: Corvis
-revid: 200247
+revid: 213895
 source: https://deepwoken.fandom.com/wiki/Corvis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Cut Content, NPCs, Individuals with unspecified pronouns]
@@ -26,7 +26,7 @@ Corvis was a [Ganymede](Ganymede.md) NPC.
 
 ## Location
 
-Corvis was located at [Upper Erisia](Upper_Erisia.md), near a tent where they resided.
+Corvis was located at [Upper Erisia](Upper_Erisia.md), near [The Hidden Village](The_Hidden_Village.md) where their tent resided.
 
 ## Dialogue
 

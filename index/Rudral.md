@@ -1,6 +1,6 @@
 ---
 title: Rudral
-revid: 213290
+revid: 213928
 source: https://deepwoken.fandom.com/wiki/Rudral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Humanoids with Unobtainable Outfits]
@@ -21,7 +21,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Rudral is a [Capra](Capra.md) NPC. They are the [Blacksmith](Blacksmith.md) for [Miner's Landing](<Miner's_Landing.md>) and act as a guide in helping the player obtain [Ironsing](Ironsing.md).
+Rudral is a [Capra](Capra.md) NPC. They are the [Blacksmith](Blacksmith.md) for [Miner's Landing](<Miner's_Landing.md>).
+
+Rudral is familiar with [Adar](Adar,_Master_of_Metal.md) and will act as a guide in helping [The Pathfinder](The_Pathfinder.md) obtain [Ironsing](Ironsing.md).
 
 ## Location
 

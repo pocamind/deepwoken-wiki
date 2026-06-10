@@ -1,6 +1,6 @@
 ---
 title: Dangerous Depths Pin Pack
-revid: 213320
+revid: 213922
 source: https://deepwoken.fandom.com/wiki/Dangerous_Depths_Pin_Pack
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Promotional Content, Merchandise]
@@ -23,4 +23,4 @@ Either way, Chaser's sneering expression will at least draw aggro away from you.
 
 ## Trivia
 
--   The official Makeship link for the Lord Regent Plush can be found [here](https://www.makeship.com/products/dangerous-depths-pin-pack).
+-   The official Makeship link for the Dangerous Depths Pin Pack can be found [here](https://www.makeship.com/products/dangerous-depths-pin-pack).

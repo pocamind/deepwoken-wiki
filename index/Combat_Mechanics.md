@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 213804
+revid: 213927
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -498,11 +498,12 @@ In some cases, Monster attacks with this indicator are parryable with [Force You
 
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md): Powerful Blood Appendage
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Gale Stomp
+-   [Knell, The Lunatic Resonator](Knell,_The_Lunatic_Resonator.md): A Toll of the Bell
+-   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Crossrend Cryocleave, Snowgrave, Splintering Thrust
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md): Grab
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Splitting Ascension, Sovereign Drive, Skycrash, Commander's Whirlthrow
 -   [Scion of Ethiron](Scion_of_Ethiron.md): Bonegrow
 -   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Severing Flourish, Serpent-Slaying Sweep, Mortal Draw: Sakura Dance
--   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Crossrend Cryocleave, Snowgrave, Splintering Thrust
 
  |
 | 
@@ -522,15 +523,16 @@ Some Monster attacks with this indicator are parryable with [Force Your Way](Ign
 
 **Monster Attacks**
 
--   [Bonekeeper](Bone_Keeper.md): Leap, Bone Spikes
+-   [Bonekeeper](Bone_Keeper.md): Bone Spikes
 -   [Bounder](Bounder.md): Leap
 -   [King Thresher](King_Thresher.md): Body Slam
 -   [Nautilodaunt](Nautilodaunt.md) (all variants): Drop-Kick
 
 **Boss Attacks**
 
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Warp Kick
+-   [Knell, The Lunatic Resonator](Knell,_The_Lunatic_Resonator.md): Raining Resonance
 -   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Rime-Rise
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Warp Kick
 
  |
 | 
@@ -547,8 +549,8 @@ Attacks with this indicator must be parried. They will guardbreak if blocked.
 
 **Player Attacks**
 
--   [Light's Final Toll](<Light's_Final_Toll.md>) (all variants) stage IV critical
--   [Marrowmade Boots](Marrowmade_Boots.md) Special ability
+-   [Light's Final Toll](<Light's_Final_Toll.md>) (all variants) Stage IV critical
+-   [Marrowmade Boots](Marrowmade_Boots.md): Special ability
 
 **Monster Attacks**
 
@@ -557,15 +559,12 @@ Attacks with this indicator must be parried. They will guardbreak if blocked.
 
 **Boss Attacks**
 
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldshattering Smackdown, Commander's Rage
--   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Graceful Slicer, Mortal Draw: Sakura Dance
+-   [Knell, The Lunatic Resonator](Knell,_The_Lunatic_Resonator.md): Pouncing Grapple
+-   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Blizzard's Sanction, Pylons of Frost
 -   [Parliament](Parliament.md): Curb Stomp
 -   [Scion of Ethiron](Scion_of_Ethiron.md): Whiplash
--   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Blizzard's Sanction, Pylons of Frost
-
-**Miscellaneous**
-
--   [Carnival of Hearts](Carnival_of_Hearts.md): Beam Blitz Ice Beam
+-   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Graceful Slicer, Mortal Draw: Sakura Dance
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldshattering Smackdown, Commander's Rage
 
  |
 | 
@@ -582,9 +581,9 @@ Most attacks with this indicator deal high posture damage.
 
 **Boss Attacks**
 
+-   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Decapitating Sweep
 -   [Parliament](Parliament.md): Owl Dash
 -   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Low Cleave
--   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Decapitating Sweep
 
  |
 | 
@@ -599,13 +598,17 @@ Attacks with this indicator can be jumped over.
  |
 | All attacks that have this attribute:
 
+**Monster Attacks**
+
+-   [Rock Golem](Rock_Golem.md) (all variants): Stomp
+
 **Boss Attacks**
 
--   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Shogun's Brutality
--   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Champion's Quake, Altitude Swipes, Crossrend Cryocleave
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Stonelife Quake, Tempest Kick
+-   [Knell, The Lunatic Resonator](Knell,_The_Lunatic_Resonator.md): Arachnid Leap
+-   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Champion's Quake, Altitude Swipes, Crossrend Cryocleave
+-   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Shogun's Brutality
 -   [Titus Fulminus Destellus:](Titus_Fulminus_Destellus.md) Wrathful Stomp, World Piercing Deluge
--   [Rock Golem](Rock_Golem.md), [Golem Prime](Golem_Prime.md): Stomp
 
  |
 | 
@@ -641,15 +644,16 @@ Some of these attacks have unique mechanics regarding how/if they can be avoided
 
 **Monster Attacks**
 
+-   [Bone Keeper](Bone_Keeper.md): Leap
 -   [Nautilodaunt Officiate](Nautilodaunt_Officiate.md): Furious Stomp
 
 **Boss Attacks**
 
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md): Tempest Eye
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md): Sudden Ambush, Pressure Eruption
 -   [Heart of Enmity](Heart_of_Enmity.md): Event Horizon
 -   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Altitude Swipes, Champion's Quake
 -   [Knell, The Lunatic Resonator](Knell,_The_Lunatic_Resonator.md): Carilion Call
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md): Tempest Eye
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Chorus Divide: Shattering Crescendo
 
  |

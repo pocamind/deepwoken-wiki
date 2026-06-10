@@ -1,11 +1,11 @@
 ---
 title: The City of the Drowned
-revid: 213680
+revid: 213912
 source: https://deepwoken.fandom.com/wiki/The_City_of_the_Drowned
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]
+categories: [Stub pages with reason, StubPages, Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
+  - "This page is a stub. It requires further information, or has little to no information. Missing video of entering Depths for the first time."
 ---
 
 # The City of the Drowned

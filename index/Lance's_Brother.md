@@ -1,6 +1,6 @@
 ---
 title: "Lance's Brother"
-revid: 208450
+revid: 213918
 source: https://deepwoken.fandom.com/wiki/Lance's_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Vendors, Quests, Etrea, NPCs located in the Etrean Luminant]
@@ -58,7 +58,7 @@ After accepting the quest, (?) will spawn a food crate at the back of his shop. 
   <td>Need some help around here?</td>
 </tr>
 <tr>
-  <td>Everyone talks about Lance and how he's so great... Even our own mother doesn't remember my name.</td>
+  <td>Everyone talks about Lance and how he's so great... Even our mother doesn't remember my name.</td>
   <td>Yeah, funny that you should mention it. I have a box of supplies for the Vigils training in the temple. Stratos by the pond was asking after it, since I've been a bit slow to deliver... Think you could take it?</td>
 </tr>
 <tr>
@@ -96,7 +96,7 @@ After accepting the quest, (?) will spawn a food crate at the back of his shop. 
   <td>You okay?</td>
 </tr>
 <tr>
-  <td>"Everyone talks about Lance and how he's so great... Even our own mother doesn't remember my name."</td>
+  <td>Everyone talks about Lance and how he's so great... Even our mother doesn't remember my name.</td>
 </tr>
 <tr>
   <td>Well, what is your name?</td>
@@ -130,7 +130,7 @@ After accepting the quest, (?) will spawn a food crate at the back of his shop. 
   <td>You okay?</td>
 </tr>
 <tr>
-  <td>"Everyone talks about Lance and how he's so great... Even our own mother doesn't remember my name."</td>
+  <td>Everyone talks about Lance and how he's so great... Even our mother doesn't remember my name.</td>
 </tr>
 <tr>
   <td>Well, what is your name?</td>

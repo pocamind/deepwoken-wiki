@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 213306
+revid: 213894
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -594,8 +594,8 @@ Charisma
 -   **Shrine of Dominion/Domination -** Swaps your lowest stat and your highest stat, (eg. Your 0 Agility is swapped with your 80 Willpower, resulting in 80 Agility and 0 Willpower), This was going to be added in verse 2 along with all of the other Deep Shrines but was scrapped as it was way too overpowered.
 -   **Skill Books -** Before the current training gears, the player would have to find various NPCs scattered around the world that sold items related with the skill, along with Skill Books, which were essentially similar to the current training gear, but would only have 5 uses. There was a skill book for each skill.
     -   Psia was the Willpower trainer, located at Etris, and was only seen for a few days after Deepwoken's release before being quietly removed in a shadow-update.
--   **Sparring Instructor -** Sparring with the instructor used to cost 20 notes. You could also spar with another player by talking to the Instructor NPC.
--   **Corvis-** An NPC in earlier versions of the game that was in a tent by [The Hidden Village](The_Hidden_Village.md) who mentions Stormcall. He was described as 'old lore' that was meant to be removed.
+-   **[Blade Instructor](Blade_Instructor.md)\-** In the [Isle of Vigils](Isle_of_Vigils.md), players were able to spar with an instructor at the cost of 20. You could also spar with another player by talking to the instructor.
+-   **[Corvis](Corvis.md)\-** An NPC in earlier versions of the game that was in a tent by [The Hidden Village](The_Hidden_Village.md) who mentions Stormcall. He was described as 'old lore' that was meant to be removed.
 -   **Universal Uniques -** Special items available in limited numbers across the entire game. Gripping owners of these items would grant them to the killer and losing them would readd them to the lootpool to be reobtained. This was cut due to limitations of the Roblox Engine.
 -   **Obtained the [Deepshore Fossil](Deepshore_Fossil.md) Triumph -** On the [August 25th, 2025](Version_History/2025.md#august-25th-2025) update, the [Echo](Echoes.md) triumph requiring the player to obtain the Deepshore Fossil was removed in place for the 'Cleared a World Event' triumph.
 -   **[Shrine of Ostentation](Deep_Shrines/Shrine_of_Ostentation.md) -** Removed on the [September 15th, 2025](Version_History/2025.md#september-15th-2025) update, for 10 [Knowledge](Knowledge.md), the Shrine of Ostentation allowed the player to transfer a Common or Advanced Talent into a random Rare Talent and vice versa. This shrine was later merged with the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md).

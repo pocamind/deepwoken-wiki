@@ -1,6 +1,6 @@
 ---
 title: Vesque
-revid: 191685
+revid: 213915
 source: https://deepwoken.fandom.com/wiki/Vesque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -31,15 +31,15 @@ Vesque is located in the [Isle of Vigils](Isle_of_Vigils.md) standing under a sm
 
 **First Encounter:**
 
-**Negative Reputation:**
+**Bad Reputation:**
 
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td>Tch. Get lost. And keep my name out of your mouth, you hear?</td>
+  <td>-Tch. Get lost. And keep my name out of your mouth, you hear?</td>
 </tr>
 <tr>
   <td>I haven't even said your name?</td>
@@ -53,18 +53,18 @@ Vesque is located in the [Isle of Vigils](Isle_of_Vigils.md) standing under a sm
 </tbody>
 </table>
 
-**Requirements Unmet:**
+**Good Reputation:**
 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="12">Hm? You don't look like much. I've got things to do. Maybe when you've made a name for yourself, heh... You'll say it was all due to this encounter.</td>
+  <td>Hm? You don't look like much. I've got things to do. Maybe when you've made a name for yourself, heh... You'll say it was all due to this encounter.</td>
 </tr>
 <tr>
-  <td colspan="12">[End Dialogue]</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -74,43 +74,41 @@ Vesque is located in the [Isle of Vigils](Isle_of_Vigils.md) standing under a sm
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="12">So you're the talk of the town, huh? All I'm saying is that if it were me... Well. Let's just say I'd do it with a little more expertise. I can demonstrate how <i>I</i> would have killed it, if you want.</td>
+  <td colspan="2">So you're the talk of the town, huh? All I'm saying is that if it were me... Well. Let's just say I'd do it with a little more expertise. I can demonstrate how <i>I</i> would have killed it, if you want.</td>
 </tr>
 <tr>
-  <td colspan="6">If I let you teach me will you leave me alone?</td>
-  <td colspan="6">Don't Vigils usually use blades?</td>
+  <td>If I let you teach me will you leave me alone?</td>
+  <td>Don't Vigils usually use blades?</td>
 </tr>
 <tr>
-  <td colspan="6">You'll be thankful when you kill those things twice as effectively. Now, the proper way of doing things goes a little like this...</td>
-  <td colspan="6">Tch. Looks like you haven't done your reading. The Blade is the wielder's conviction. Their precision. Their cunning. When you have all of that in spades, well. Then you don't need a weapon. Then you <i>are</i> the weapon.</td>
+  <td>You'll be thankful when you kill those things twice as effectively. Now, the proper way of doing things goes a little like this...</td>
+  <td>Tch. Looks like you haven't done your reading. The Blade is the wielder's conviction. Their precision. Their cunning. When you have all of that in spades, well. Then you don't need a weapon. Then you <i>are</i> the weapon.</td>
 </tr>
 <tr>
-  <td colspan="12">[End Dialogue]</td>
+  <td>[End Dialogue], Fang and Coil obtained</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
 
-**Fang and Coil obtained:**
+**Subsequent Encounters:**
 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin Dialogue</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="12">Your stance could do with some work. Your shoulders and footwork are all off.</td>
+  <td>Your stance could do with some work. Your shoulders and footwork are all off.</td>
 </tr>
 <tr>
-  <td colspan="12">Don't Vigils usually use blades?</td>
+  <td>Don't Vigils usually use blades?</td>
 </tr>
 <tr>
-  <td colspan="12">[See first instance]</td>
-</tr>
-<tr>
-  <td colspan="12">[End Dialogue]</td>
+  <td>[See first instance]</td>
 </tr>
 </tbody>
 </table>

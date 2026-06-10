@@ -1,9 +1,9 @@
 ---
 title: Stratos
-revid: 203804
+revid: 213900
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, Pages with broken file links, Quests, Etrea, NPCs located in the Etrean Luminant, NPCs]
+categories: [Etrean NPCs, Pages with broken file links, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Stratos
@@ -21,24 +21,24 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Stratos is the second-in-command of the Blade Temple, residing on the [Isle of Vigils](Isle_of_Vigils.md). He is found sitting in front of a small pond at the main entrance of the [Temple of the Blade](Temple_of_the_Blade.md). In order to talk to him, you need to have good reputation with [Etrea](Etrea.md) (around ~75 reputation, in the middle of neutral and ally points), otherwise he refuses to talk to you unless you have his [delivery](<Lance's_Brother.md#crate-delivery-quest>). In which case, he will pay you 25 Notes for the trouble. He says that he will teach you once you feel the "essence of the wind", starting his [quest](#windwaker-quest).
+Stratos is an [Etrean](Etrean.md) NPC. They are the second-in-command of the Blade Temple, behind [Evengarde Rest](Evengarde_Rest.md).
 
-## Windwaker Quest
+To speak with him normally, players must have good [Reputation](Reputation.md) with [Etrea](Etrea.md), around 75 reputation, between neutral and ally status. If the player does not meet this requirement, Stratos will refuse to speak to them unless they are carrying his [delivery](<Lance's_Brother.md#crate-delivery-quest>). If the player has the delivery, he will reward them with 25 Notes. After speaking with him, Stratos says he will teach the player once they feel the "essence of the wind", starting his [quest](#windwaker-quest).
 
-To complete the quest, you must have the following requirements fulfilled:
+### Quest
 
--   Have 15 points in [Galebreathe](Galebreathe.md) **(NOT HAVING 15 OR MORE WILL SOFTLOCK YOU FROM GETTING THE TALENT AND BUG THE QUESTLINE)**
--   Have "Friend" reputation with Etrea (~75). This is equal to spawning as an Etrean, killing the bandits, and doing the Delivery quest.
+To complete Stratos' quest, the player must meet the following requirements:
 
-### The Reward
+-   Have 15 points in [Galebreathe](Galebreathe.md).
+-   Have "Friend" [Reputation](Reputation.md) with Etrea, around 75 reputation.
 
-When meeting the requirements, talk to Stratos to receive the "[Windwaker](Talents.md)" Talent. Similarly to "[Produce Spark](Talents.md#flamecharmer)", "[Flame Within](Talents.md#amoran-seeker)" and "[Discovery of Fire](Talents.md#thundercaller)", you can activate the Talent by equipping it or clicking on it within your inventory. Windwaker will grant your boat a temporary speed boost (similar to going through Sea Highways) before going on a long cooldown (~55 sec).
+Once these requirements are met, speaking to Stratos again will grant the [Windwaker](Talents.md#windwaker) Talent. This Talent appears as an ability in the player's inventory and can be activated while on any boat.
 
-File:Arch proof.png
+## Location
+
+Stratos can be found meditating in front of a fountain at the [Temple of the Blade](Temple_of_the_Blade.md) at the [Isle of Vigils](Isle_of_Vigils.md).
 
 ## Dialogue
-
-Updated according to 2/24/26
 
 **Reputation Not Met:**
 
@@ -189,5 +189,9 @@ Updated according to 2/24/26
 ## Trivia
 
 -   The name of the Talent is taken from _The Legend of Zelda: The Wind Waker_.
--   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead says one of these lines: "Nice try." "What was that? I felt a calm breeze..."
--   The quest previously wanted you to sail on wind highways for a certain amount of time, but after the removal of sea highways, Stratos will just give you the talent after returning to him.
+-   Attempting to spook Stratos with a [Hallowtide Mask](Hallowtide_Mask.md) will fail, causing him to say, "What was that? I felt a calm breeze..."
+-   Stratos' quest previously required the player to sail through [Sea Highways](Sea_Highway.md) for a certain amount of time.[\[1\]](#cite-note-1) After Sea Highways were removed, Stratos now grants the Talent after the player returns to him after a span of time.
+
+## References
+
+1.  [↑](#cite-ref-1) File:Windwaker Sea Highways.png

@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 203392
+revid: 213890
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pages with broken file links, NPCs]
@@ -19,7 +19,7 @@ Bankers are NPCs that a player can utilize to store items across slots. You can 
 
 ### Safe Deposit Boxes
 
-Bankers have a unique ability to let the player store items **across slots**, even if you wiped all your slots, your items would still be there. Items are stored forever until the player takes it out.
+Bankers have a unique ability to let the player store items **across slots**, even if you wiped all your slots, your items would still be there. Items are stored forever until the player takes it out. When accessing the Banking UI by a Banker, players are immune to all forms of outside damage.
 
 The following item types are sorted as follows:
 
@@ -105,14 +105,43 @@ Players can also give [artifacts](Artifacts.md) to banker NPCs, and in return th
   <td>Can I access my account?</td>
 </tr>
 <tr>
-  <td>[End Dialogue], opens Luminary Banking Co. UI</td>
+  <td>[Opens Luminary Banking Co. UI]</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
 
-**Unlockable Dialogue:**
+**Unlockable Dialogues:**
 
-This dialogue is unlocked if the player attempts to open their Bank whilst carrying an unconscious player.
+**Artifact:**
+
+This dialogue will appear if the player is holding an [Artifact](Artifacts.md) while speaking to a Banker.
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Welcome, esteemed customer, to the Luminary Bank! How can I help you?</td>
+</tr>
+<tr>
+  <td>I'd like to turn in an object of interest. [Artifacts]</td>
+</tr>
+<tr>
+  <td>That's quite the find! How did you get that? We'll take it off your hands and hand it to the relevant authorities. I've reimbursed you for your trouble.</td>
+</tr>
+<tr>
+  <td>[End Dialogue], player gains loot and Notes</td>
+</tr>
+</tbody>
+</table>
+
+**Hostage:**
+
+This dialogue will appear if the player attempts to open their Bank whilst carrying an unconscious player.
 
 <table>
 <tbody>
@@ -127,6 +156,24 @@ This dialogue is unlocked if the player attempts to open their Bank whilst carry
 </tr>
 <tr>
   <td>Er... You're not trying to hold this stranger on your shoulder hostage, are you?</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Wrong Guild:**
+
+This dialogue will appear if the player attempts to speak to a Banker in a different [Guild Base](Guild_Bases.md) than their own.
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Er, sorry, you don't have an account with us...</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

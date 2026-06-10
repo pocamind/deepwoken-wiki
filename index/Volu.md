@@ -1,6 +1,6 @@
 ---
 title: Volu
-revid: 198757
+revid: 213916
 source: https://deepwoken.fandom.com/wiki/Volu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, The Ministry]

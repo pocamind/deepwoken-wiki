@@ -1,6 +1,6 @@
 ---
 title: Regek
-revid: 211115
+revid: 213897
 source: https://deepwoken.fandom.com/wiki/Regek
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Attunement Trainers, NPCs, The Hive, NPCs located in the Eastern Luminant, Quests]
@@ -24,15 +24,11 @@ This content is not accessible outside of this gamemode.
 
 Regek is a [Vesperian](Vesperian.md) NPC. They act as [Attunement-less](Attunement-less.md) trainer.
 
-In order for the player to upgrade their mantras they must first complete quest given by Regek in which you need to collect sap from 3 Soulblooms (You need to have washed your face at the [Lightkeeper Temple](Lightkeeper_Temple.md) to activate the quest.)
-
-After completing the quest you can upgrade your physical Mantras at Regek, this unlocks it on the entire account.
-
-The first 2 Soulblooms can be found in the [Canopy Plaza](Greathive_Aratel.md) in the blacksmith's area, with the 3rd being located outside of the [Observatory](Greathive_Aratel.md).
+To upgrade Attunement-less Mantras, players must first complete Regek's quest by collecting sap from three Soulblooms. This quest cannot be started until the player has washed their face. The quest will finish account-wide, allowing the player to upgrade mantras even on slots that have never spoken to Regek.
 
 ## Location
 
-They can be found inside the _Archives_ section of [Greathive Aratel](Greathive_Aratel.md).
+Regek can be found inside of a section labeled "Archives" in the Root Canopy of [Greathive Aratel](Greathive_Aratel.md).
 
 ## Dialogue
 

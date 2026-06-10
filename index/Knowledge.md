@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 202104
+revid: 213893
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics, Currency]
@@ -103,7 +103,7 @@ Each transaction is conducted via dialogue option, with Knowledge being _consume
 -   Power-gained Knowledge will be enough to make a deal with the Shrine of Order at Power 10.
 -   [Ganymedes](Ganymede.md) have a special racial bonus that make [Deep Shrines](Deep_Shrines.md) cost one less Knowledge point to make a deal with.
     -   Most [Deep Shrines](Deep_Shrines.md) will cost 4 Knowledge.
-    -   [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) and [Shrine of Ostentation](Deep_Shrines/Shrine_of_Ostentation.md) will cost 9 Knowledge.
+    -   [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) will cost 9 Knowledge.
     -   The [Shrine of Conceit](Deep_Shrines/Shrine_of_Conceit.md) and [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md) are unaffected, and will still cost 1 Knowledge.
 -   An icon identical to the old Knowledge icon was in the game during the early beta. Its purpose was unknown.
 -   Knowledge is not simply just knowing about things; it is specifically "forbidden knowledge" as described by [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), which explains why it is valuable enough to be traded with other beings.
