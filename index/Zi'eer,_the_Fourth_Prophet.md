@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 213822
+revid: 213930
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters, Enemies, Humanoids with Unobtainable Outfits]
@@ -104,6 +104,12 @@ Dodge
 -   Jumping or any form of upwards mobility is required to avoid this attack.
 -   Attempting to parry while airborne during this attack will cause Zi'eer to use **Tendril Uprising** once.
 -   This attack is not used by itself, instead being a component in his other attacks.
+
+_Uses Telegraph_
+
+[JumpTelegraph](Combat_Mechanics.md#magenta)
+
+Jump
 
  |  |
 | 
@@ -219,7 +225,14 @@ Dodge
 
 -   Zi'eer is fully capable of going through walls with this attack.
     -   As a result, standing away from the walls of the arena is advised: Zi'eer may dash inside a wall, and do one or more attacks that become completely unreactable as a result of the wall hiding his animations.
--   This attack is the first and only instance of sliding being required to avoid an attack, as well a yellow telegraph.
+-   Dispite the yellow telegraph, this attack can **not** be avoid by crouching, but only by sliding.
+    -   This attack is the first and only instance of sliding being required to avoid an attack.
+
+_Uses Telegraph_
+
+[DuckTelegraph](Combat_Mechanics.md#yellow)
+
+Duck
 
  |  |
 | 

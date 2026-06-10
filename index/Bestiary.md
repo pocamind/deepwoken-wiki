@@ -1,6 +1,6 @@
 ---
 title: Bestiary
-revid: 210280
+revid: 213941
 source: https://deepwoken.fandom.com/wiki/Bestiary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -471,6 +471,14 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
     <li>Slay 10</li>
   </ul></td>
   <td>+15% damage and +7.5% resistance</td>
+</tr>
+<tr>
+  <td><a href="Titus_Fulminus_Destellus.md">Titus Fulminus Destellus</a></td>
+  <td>Legion's Forsaken
+  <ul>
+    <li>Slay 1*</li>
+  </ul><p><small>*You have to actually kill him by using an attack that automatically executes.</small></p></td>
+  <td>+5% damage and +2.5% resistance</td>
 </tr>
 </tbody>
 </table>

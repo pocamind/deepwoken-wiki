@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 213732
+revid: 213945
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions, Humanoids with Unobtainable Outfits]
@@ -17,6 +17,7 @@ categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, 
 | pronouns | He/him |
 | affiliation | The Hundred Legions, 49th Legion |
 | locations | Merit Detainment Core |
+| challenges | -- Titus Fulminus Destellus --, Legion's Forsaken - Slay 1*Reward: +5% DMG; +2.5% RES |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
