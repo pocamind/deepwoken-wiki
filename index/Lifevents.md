@@ -1,6 +1,6 @@
 ---
 title: Lifevents
-revid: 178986
+revid: 214013
 source: https://deepwoken.fandom.com/wiki/Lifevents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -24,4 +24,4 @@ While falling, a user can land below a jump pad and gain an upward boost.
 
 ## Trivia
 
--   After the player lands after using a lifevent, they are completely immune to fall damage for about 5 seconds.
+-   After the player lands after using a lifevent, they are immune to fall damage for about 5 seconds. (Or rather, it seems to give an immense resistance to fall damage as you can still take damage if for reasons such as server lag, you get launched really high.)

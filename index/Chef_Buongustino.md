@@ -1,6 +1,6 @@
 ---
 title: Chef Buongustino
-revid: 210972
+revid: 214003
 source: https://deepwoken.fandom.com/wiki/Chef_Buongustino
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, Pages with broken file links, NPCs, Vendors, Quests]
@@ -29,6 +29,8 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 ## Description
 
 Chef Buongustino is a [Felinor](Felinor.md) NPC. He is one of the most brilliant culinary minds in the [Eastern Luminant](Luminants.md).
+
+Buongustino originally had a business in [Etris](Etris.md), but the [Etrean Civil War](Etrean_Civil_War.md) forced him to relocated to the [Isle of Vigils](Isle_of_Vigils.md).
 
 Buongustino requests help from the player to be their sous-chef, by making orders and providing the recipes to cook the [Food](Food.md). After obtaining the requested food and showing it to Buongustino, he'll take it in exchange for some [Notes](Notes.md) and a small chest. After making an order, there is a small period of downtime until a new order comes in.
 
@@ -237,6 +239,11 @@ Chef Buongustino is located near the docks of the [Isle of Vigils](Isle_of_Vigil
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Buongustino is most likely a portmanteau of buongustaio, an Italian term meaning a gourmet, and "-tino", a common suffix for Italian names.
+-   Buongustino will call [The Inheritor](The_Inheritor.md) a "pagliaccio" if they offend him, a clown.
 
 ## References
 

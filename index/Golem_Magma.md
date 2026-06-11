@@ -1,6 +1,6 @@
 ---
 title: Golem Magma
-revid: 192070
+revid: 214030
 source: https://deepwoken.fandom.com/wiki/Golem_Magma
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Monsters]
@@ -53,6 +53,12 @@ In combat Golem Magmas are very hardy, having moderately high health and high sl
 
  | The golem charges a laser from its core before firing it, creating a small AOE at the point of impact and dealing medium damage.
 
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
+
  |  |
 | 
 
@@ -62,6 +68,12 @@ In combat Golem Magmas are very hardy, having moderately high health and high sl
  | The golem raises its leg before giving a powerful earthshaking stomp.
 
 -   Auto-grips if low enough
+
+_Uses Telegraph_
+
+[JumpTelegraph](Combat_Mechanics.md#magenta)
+
+Jump
 
  |  |
 | 
@@ -79,6 +91,12 @@ In combat Golem Magmas are very hardy, having moderately high health and high sl
 
  | The golem winds up its arm before quickly swinging it outwards.
 
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
+
  |  |
 | 
 
@@ -92,6 +110,12 @@ In combat Golem Magmas are very hardy, having moderately high health and high sl
 -   The rubble falls incredibly fast making it very hard to react to.
 -   Due to the above two points, this attack is generally not worth defending yourself against, as there's a chance that it won't even hit you, and even if it would hit you, the chance of you reacting to it and responding accordingly is relatively low.
 -   This can lag players on lower-end devices.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Iris
-revid: 199829
+revid: 213997
 source: https://deepwoken.fandom.com/wiki/Iris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with They/them pronouns, Vow of Iron Exclusive, NPCs, Quests]
@@ -15,6 +15,7 @@ categories: [Vesperian NPCs, Individuals with They/them pronouns, Vow of Iron Ex
 | pronouns | They/them |
 | location | The Lordsgrove |
 | affiliation | The Hive |
+| family | Iris' brother |
 
 Variants: [Suri](Suri.md)
 

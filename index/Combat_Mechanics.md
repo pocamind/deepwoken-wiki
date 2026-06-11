@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 213984
+revid: 214016
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -35,6 +35,9 @@ _There are many elements to the GUI, each one playing its own part. In order to 
   <td>A visual representation of the player's ability to guard against attacks. Building this bar indicates negative standing, you should do your best to keep this bar as low as possible during combat. When the next attack causes the posture to exceed the bar, the next blocked hit will instead guard break, stunning you for 1.05s.
   <ul>
     <li>Posture can be restored through many methods: the passive Posture regeneration when not sprinting or blocking, Parrying attacks, landing a Taunt (<kbd><abbr>T</abbr></kbd>), or through the use of certain <a href="Talents.md">Talents</a>.</li>
+  </ul>
+  <ul>
+    <li>Posture can have multipliers effecting the maximum &amp; minimum given from various <a href="Talents.md">Talents</a>, <a href="Enchantments.md">Enchantments</a>, or other effects. posture damage delt has a soft cap of 1.5x where all posture multipliers after get halved with a maximum hard cap of 1.75x where you cannot do more than 175% of the posture damage an attack was meant to deal. Posture damage received has a hard cap of 0.5x where you cannot take less than 50% of the posture damage the attack was meant to deal.</li>
     <li>When blocking while in shaky block frames, your posture bar glows red to indicate that your block isn't full yet.<figure><figcaption></figcaption></figure></li>
   </ul><figure><figcaption></figcaption></figure></td>
 </tr>
@@ -58,8 +61,11 @@ _There are many elements to the GUI, each one playing its own part. In order to 
   <th>Ether Bar</th>
   <td>A visual representation of the player's Ether amount. Ether is Deepwoken's form of mana, and <a href="Mantras.md">Mantras</a> cannot be used without sufficient Ether.
   <ul>
+    <li>you can increase Ether regeneration via wearing certain <a href="Outfits.md">outfits</a> usually master <a href="Outfits.md">outfits</a>, or via various <a href="Talents.md">Talents</a>.</li>
+  </ul>
+  <ul>
     <li>Different Mantras use varying amounts of Ether. Adding <a href="Mantra_Modifiers.md">Mantra Modifiers</a> will increase the amount of Ether required to cast.</li>
-    <li>Ether passively regenerates in combat as long as you have tempo.</li>
+    <li>Ether passively regenerates in combat as long as you have tempo. If you run out of tempo you regenerate 0.5% of your ether bar per second.</li>
     <li>Ether also regenerates passively and faster when out of combat.</li>
   </ul><figure><figcaption></figcaption></figure></td>
 </tr>
@@ -69,14 +75,14 @@ _There are many elements to the GUI, each one playing its own part. In order to 
   <ul>
     <li>Tempo is gained by hitting or being hit</li>
     <li>Tempo decreases over time (1% per 0.6s) and is "stored" when out of combat</li>
-    <li>With at least 40 Tempo, press <kbd><abbr>G</abbr></kbd> to Vent. This pushes away anyone near you but can be parried and blocked. With more <a href="Traits.md#erudition">Erudition</a>, venting becomes easier to do as you will have more Tempo, as well as Tempo regen.</li>
+    <li>With at least 40 Tempo, press <kbd><abbr>G</abbr></kbd> to Vent. This pushes away anyone near you but can be parried and blocked, if you get your vent parried or blocked it leaves you stunned, if you miss your vent entirely you also get left stunned. With more <a href="Traits.md#erudition">Erudition</a>, venting becomes easier to do as you will have more Tempo, as well as Tempo regen.</li>
   </ul><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Armor Durability</th>
-  <td>A visual representation of the player's current <a href="Outfits.md">armor</a> durability. When this bar is depleted, the player's armor is considered "broken", and you will start taking damage as if you have no armor on at all.
+  <td>A visual representation of the player's current <a href="Outfits.md">armor</a> durability. When this bar is depleted, the player's armor is considered "broken", and you will start taking damage as if you have no armor on at all from your <a href="Outfits.md">outfit</a>, <a href="Equipment.md">Equipment</a> or any other sources.
   <ul>
-    <li>Armour can be repaired through various methods, such as a Blacksmith, using <a href="Talents.md">Talents</a>, the Metal <a href="Enchantments.md">Enchantment</a>, or a <a href="Bloodiron_Ring.md">Bloodiron Ring</a>.</li>
+    <li>Armor can be repaired through various methods, such as a Blacksmith, using <a href="Talents.md">Talents</a>, the Metal <a href="Enchantments.md">Enchantment</a>, or a <a href="Bloodiron_Ring.md">Bloodiron Ring</a>.</li>
   </ul><p>Assuming you managed to pick up the <a href="Talents.md#exoskeleton">Exoskeleton</a> Talent or if you are a <a href="Vesperian.md">Vesperian</a>, there will be two armor bars instead- the white representing <a href="Outfits.md">Armor</a>, and the green representing Natural Armor.</p><figure><figcaption></figcaption></figure></td>
 </tr>
 </tbody>
@@ -675,7 +681,7 @@ Main article: [Status Effects](Status_Effects.md)
 <tbody>
 <tr>
   <th>Broken</th>
-  <td>Represented by torn-up clothes on the victim. Lose all defensive bonuses from the equipped <a href="Outfits.md">outfit</a>.<p>Occurs when armor durability reaches below 0%.</p></td>
+  <td>Represented by torn-up clothes on the victim. Lose all defensive bonuses from the equipped <a href="Outfits.md">outfit</a>, <a href="Equipment.md">Equipment</a> or any other sources.<p>Occurs when armor durability reaches below 0%.</p></td>
   <td></td>
 </tr>
 <tr>
@@ -757,7 +763,8 @@ Main article: [Status Effects](Status_Effects.md)
     <li>Bloodless Gems on Mantras</li>
     <li>Campfire regeneration</li>
     <li><a href="Blood_Scourge.md">Blood Scourge</a> <a href="Resonance.md">Resonance</a></li>
-  </ul><p>Does not proc/work on allies and people in the same guild as you.</p>
+  </ul><p>Does not affect health packs from knocking an enemy.</p>
+  <p>Does not proc/work on allies and people in the same guild as you.</p>
   <p><i>Sources include <a href="Mudskipper_Broodlord.md">Mudskipper Broodlords</a>, players with the Talents “All the Dead Gods” or "Deep Wound", or <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>. The effectiveness of the anti-heal scales on the source.</i></p></td>
   <td></td>
 </tr>

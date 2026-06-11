@@ -1,6 +1,6 @@
 ---
 title: Roa
-revid: 213898
+revid: 213999
 source: https://deepwoken.fandom.com/wiki/Roa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -23,6 +23,8 @@ This content is not accessible outside of this gamemode.
 ## Description
 
 Roa is a [Celtor](Celtor.md) NPC. They have a grudge against [Duke Erisia](Duke_Ishamon_Erisia.md).
+
+Roa was an inhabitant of [Erisia](Erisia.md) before it drifted into the [Voidsea](Voidsea.md).
 
 ## Location
 
@@ -117,4 +119,4 @@ This Dialogue is unlocked if the player is a [Castaway](Castaway.md).
 
 ## Trivia
 
-Compared to other Marten [Celtor](Celtor.md)'s their eyes are a light gray.
+-   Compared to other Marten [Celtor](Celtor.md)'s their eyes are a light gray.

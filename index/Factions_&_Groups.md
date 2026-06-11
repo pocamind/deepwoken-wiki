@@ -1,9 +1,11 @@
 ---
 title: "Factions & Groups"
-revid: 197948
+revid: 214011
 source: https://deepwoken.fandom.com/wiki/Factions_%26_Groups
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Factions]
+categories: [Pages requiring a cleanup, Factions]
+notices:
+  - "This page, by declaration of the Inquisition, is of insufficient quality and requires a cleanup to better meet the Wiki's quality standards. Help improve this article by improving formatting, spelling and the general layout. Within this dark a blazing light!"
 ---
 
 # Factions & Groups

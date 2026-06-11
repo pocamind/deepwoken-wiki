@@ -1,6 +1,6 @@
 ---
 title: Tillian
-revid: 203715
+revid: 214008
 source: https://deepwoken.fandom.com/wiki/Tillian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, World Event, NPCs]
@@ -20,7 +20,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Tillian is a unique NPC that is found exclusively during the [Carnival of Hearts](Carnival_of_Hearts.md) [World Event](World_Events.md) or in the Mocking Favor Talent from the [Jester's Garb](<Jester's_Garb.md>) outfit, giving a random boon or affliction when taunting.
+Tillian is a [Canor](Canor.md) NPC that is found exclusively during the [Carnival of Hearts](Carnival_of_Hearts.md) [World Event](World_Events.md) or in the Mocking Favor Talent from the [Jester's Garb](<Jester's_Garb.md>) outfit, giving a random boon or affliction when taunting.
 
 He is a young albino Canor sporting long, messy, and spiky white hair. He's outwardly charismatic & overly confident. Tillian's pupils are unique in the way they resemble an upward purple crescent. Furthermore, he has orange eyeliner, unique markings, and a 4-pointed star on one eye _(with a basic gradient on the other)_. Tillian also has a piercing sitting below his lips.
 
