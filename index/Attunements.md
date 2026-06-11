@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 211463
+revid: 213989
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mantras, Mechanics, Attunement]
@@ -49,7 +49,7 @@ Attunement Mantras can be upgraded at their respective [Spelltrainers](Attunemen
 
 ## Base Attunements
 
-Attunements unlocked on spawn.
+Attunements unlocked from [Character Creation](Character_Creation.md).
 
 [Attunement-less](Attunement-less.md)
 
@@ -103,7 +103,7 @@ Attunements requiring the completion of a quest to obtain and cannot be chosen f
 
 ## Attunement Paths
 
-Many [Talents](Talents.md) offer "Paths" which act either as alternatives to an attunement's base behavior or blend such of two different attunements into one hybrid path, often changing the attunement's appearance with it.
+Many [Talents](Talents.md) offer "Paths" which act either as alternatives to an attunement's base behavior or blend behaviors of two different attunements into one hybrid path, often changing the attunement's appearance with it.
 
 Note: All of the icons above are undoubtedly official representations of their base attunements, as seen from the in-game [Character Creation](Character_Creation.md) screen. This status also applies to the "Random" selection. However, there exist icons for each of these Attunement Path Talents, found on this wiki or other locations, but the officiality of these are uncertain, largely due to their lack of uniformity. This section exists to list all of these more miscellaneous icons in one place.
 

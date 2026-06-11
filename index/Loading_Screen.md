@@ -1,6 +1,6 @@
 ---
 title: Loading Screen
-revid: 204598
+revid: 213987
 source: https://deepwoken.fandom.com/wiki/Loading_Screen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -61,9 +61,9 @@ During the loading processes, the resources are rendered in so the player can in
 
 -   Damage resisted by your Armor depletes an equivalent amount of your Armor Durability. Once depleted fully, your Armor will be broken an no longer provide any resistances. You can repair Armor at a [Smith](Blacksmith.md), or by using a [Repair Kit](Repair_Kit.md).
 -   PEN is short for Armor Penetration and represents how much of your enemy's Armor Resistances your attacks ignore. For example, if you have 50% PEN on your Physical attack and your opponent has 50% Physical Armor, they'll only resist 25% of the damage.
--   Your Armor Resistances from different sources are multiplied together, _not_ added. This means 50% Physical Armor from your Outfit and 50% Physical Armor from your [Equipment](Equipment.md) will resist 75% of Physical Damage, not 100%!
-
-You can see how much Armor Resistance you have total in your Journal.
+-   Your Armor Resistances from different sources are multiplied together, _not_ added. This means 50% Physical Armor from your Outfit and 50% Physical Armor from your [Equipment](Equipment.md) will resist 75% of Physical Damage, not 100%!  
+      
+    You can see how much Armor Resistance you have total in your Journal.
 
 ### Factions
 
