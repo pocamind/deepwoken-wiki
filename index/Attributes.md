@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 210288
+revid: 213950
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -53,7 +53,7 @@ Body **(BDY)** and Mind **(MND)** are categories for the Core Attributes. Talent
 ### Strength (STR)
 
 -   Physical strength. _Increases **carry load** and **armor penetration**_. This Attribute falls under the Body category.
-    -   Increases [Carry Load](Carry_Load.md) by 1 per point in Strength.
+    -   Increases [Carry Load](Carry_Load.md) by 0.5 per point in Strength.
     -   For every point in strength, gain 0.1% melee and mantra penetration.
     -   Many heavy weapons require an amount of Strength to be held, such as a _[Petra's Anchor](<Petra's_Anchor.md>)_ needing 10 STR, or a _[Hivelord's Hubris](<Hivelord's_Hubris.md>)_ needing 60 STR.
 -   Unlocks Strength-related [Talents](Talents.md) and [Mantras](Attunement-less.md#strength-mantras).
@@ -63,6 +63,7 @@ Body **(BDY)** and Mind **(MND)** are categories for the Core Attributes. Talent
 ### Fortitude (FTD)
 
 -   Resilience against threats. _Increases **Health** slightly per point._ This Attribute falls under the Body category.
+    -   Increases [Carry Load](Carry_Load.md) by 0.5 per point in Fortitude.
     -   Every point in Fortitude increases your chances to resist food poisoning when eating raw materials.
     -   At 50 Fortitude, can eat most raw materials without vomiting.
     -   Adds 0.5 HP to your character for every Fortitude point up until you reach 50 Fortitude. At 50 Fortitude, this bonus will be halved, with each additional point only adding 0.25 HP.

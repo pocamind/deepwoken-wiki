@@ -1,6 +1,6 @@
 ---
 title: Star Knight
-revid: 199815
+revid: 213956
 source: https://deepwoken.fandom.com/wiki/Star_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters, Knights]
@@ -90,9 +90,7 @@ Dodge
 ### Passives
 
 -   **Celestial Stone** - Stone Knights have 55% resistance against Slash Damage.
-
 -   **Artificial Construct** - The [Bloodless Gem](Bloodless_Gem.md) does not work against Stone Knights as they don't have blood.
-
 -   **Monster Resistance** - Physical attacks deal ??? less damage to Stone Knights.
 
 ## **Finisher**

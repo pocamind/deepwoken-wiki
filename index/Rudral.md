@@ -1,6 +1,6 @@
 ---
 title: Rudral
-revid: 213928
+revid: 213955
 source: https://deepwoken.fandom.com/wiki/Rudral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Humanoids with Unobtainable Outfits]

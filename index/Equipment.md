@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 213753
+revid: 213949
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, Equipment, In progress with VOI reason]
@@ -3263,7 +3263,7 @@ _+2% Physical Armor_
 
  |
 |  | [Bone Ring](Bone_Ring.md)  
-(**Relic**) | Increases the damage of [Osseous Surge](Talents.md#osseous-surge) and [Brachial Spear](Monster_Mantras.md#brachial-spear). [Bone Wisp](Monster_Mantras.md#bone-wisp) gains additional charges and has its cooldown removed.
+(**Relic**) | Increases the damage of [Osseous Surge](Talents.md#osseous-surge) and [Brachial Spear](Monster_Mantras.md#brachial-spear). [Bone Wisp](Monster_Mantras.md#bone-wisp) gains additional charges and has its cooldown reduced to 1 second.
 
   
 +1 Uncommon Pip  
