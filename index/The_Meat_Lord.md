@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 213330
+revid: 213977
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Vendors, Random Encounters, NPCs, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant]
@@ -20,7 +20,7 @@ categories: [Adret NPCs, Individuals with He/him pronouns, Vendors, Random Encou
 
 ## Description
 
-The Meat Lord is an NPC merchant who is also a [Random Encounter](Random_Encounters.md). He sells various meat dishes and weapons labelled as "The Meat Lord's Selection." He is wearing the [Authority Captain Uniform](Authority_Captain_Uniform.md), which he killed members of [The Central Authority](The_Central_Authority.md) for, with [Grand Pauldrons](Grand_Pauldrons.md), [Grand Boots](Grand_Boots.md), and a dyed version of the [Blackleaf Helm](Blackleaf_Helm.md).
+The Meat Lord is an NPC merchant who is also a [Random Encounter](Random_Encounters.md). He sells various meat dishes and weapons labelled as "The Meat Lord's Selection." He is wearing the [Authority Captain Uniform](Authority_Captain_Uniform.md), which he killed members of [The Central Authority](The_Central_Authority.md) for, with [Grand Pauldrons](Grand_Pauldrons.md), [Grand Boots](Grand_Boots.md), and a dyed version of the [Blackleaf Helm](Blackleaf_Helm.md). He is the most powerful character in Deepwoken.
 
 ## Locations
 

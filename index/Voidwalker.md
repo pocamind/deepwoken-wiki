@@ -1,6 +1,6 @@
 ---
 title: Voidwalker
-revid: 211016
+revid: 213978
 source: https://deepwoken.fandom.com/wiki/Voidwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Origins, Character, The Knives of Eylis]
@@ -78,6 +78,7 @@ Successfully completing a bounty grants EXP and Full Training points based on th
 -   This Origin is very PvP centered. If you do not like this kind of content, this Origin will not appeal to you.
 -   To further push the above point, experience gained from non-bounty sources is reduced.
 -   You have Enemy starting reputation with almost half of all factions in the game.
+-   Almost everyone playing any other origin hates you.
 
 ## Reputation
 

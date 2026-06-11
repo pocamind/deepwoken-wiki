@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 213221
+revid: 213982
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, Vendors, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
@@ -75,11 +75,11 @@ A random item from the following list:
 <table>
 <tbody>
 <tr>
-  <td><b>Items</b></td>
+  <td><b>Misc</b></td>
   <td>
   <ul>
-    <li><a href="Items.md">Items</a>: <a href="Exotic_Hide.md">Exotic Hide</a></li>
-    <li><a href="Relics.md">Relics</a>: <a href="Astral.md">Astral Enchant Stone</a>, <a href="Champion's_Alloy.md">Champion's Alloy</a>, <a href="Dye_Packet.md">Dye Packet</a>, <a href="Frost_Essence.md">Frost Essence</a>, <a href="Gale_Essence.md">Gale Essence</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Shiva's_Codex.md">Shiva's Codex</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Trickster_Dust.md">Trickster Dust</a></li>
+    <li><a href="Items.md">Items</a>: <a href="Charged_Parasol_Part.md">Charged Parasol Part</a>, <a href="Exotic_Hide.md">Exotic Hide</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Astral.md">Astral Enchant Stone</a>, <a href="Champion's_Alloy.md">Champion's Alloy</a>, <a href="Dye_Packet.md">Dye Packet</a>, <a href="Frost_Essence.md">Frost Essence</a>, <a href="Gale_Essence.md">Gale Essence</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Shiva's_Codex.md">Shiva's Codex</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Trickster_Dust.md">Trickster Dust</a>, <a href="Mantle_of_Enmity.md">Mantle of Enmity</a>, <a href="Whistling_Periapt.md">Whistling Periapt</a>, <a href="Dormant_Splinter.md">Dormant Splinter</a></li>
   </ul></td>
 </tr>
 <tr>

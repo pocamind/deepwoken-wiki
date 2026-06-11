@@ -1,9 +1,9 @@
 ---
 title: Fishing Rod
-revid: 205256
+revid: 213970
 source: https://deepwoken.fandom.com/wiki/Fishing_Rod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Tools, Craftable]
+categories: [Tools, Craftable, Echo Unlockables]
 ---
 
 # Fishing Rod

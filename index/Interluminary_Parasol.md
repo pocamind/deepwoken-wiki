@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 213800
+revid: 213985
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, World Event, Monsters, Bosses]
@@ -70,7 +70,7 @@ This giant foe's moveset is relatively simple and is easy to avoid; however it d
 **Abyssal Storm**  
 (★★☆)
 
- | At random intervals, the Parasol creates a small stormcloud, striking random targets.
+ | At random intervals, the Parasol creates a stormclouds surrounding itself, striking random targets.
 
  |
 | 
@@ -81,7 +81,6 @@ This giant foe's moveset is relatively simple and is easy to avoid; however it d
  | The Parasol sends a current of electricity across its tendrils, shocking targets that are within the area of a tendril.
 
 -   This move is only used when it has Parasol Planting.
--   Uppercutting its tendrils gives enough height to avoid this attack.
 
 _Uses Telegraph_
 
@@ -96,12 +95,6 @@ Jump
 (★★★)
 
  | The Parasol starts to convulse, charging up a large static pulse that sends nearby targets flying.
-
-_Uses Telegraph_
-
-[DodgeTelegraph](Combat_Mechanics.md#red)
-
-Dodge
 
  |
 

@@ -1,9 +1,9 @@
 ---
 title: Canteen
-revid: 206419
+revid: 213959
 source: https://deepwoken.fandom.com/wiki/Canteen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Tools]
+categories: [Tools, Echo Unlockables]
 ---
 
 # Canteen

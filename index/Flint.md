@@ -1,9 +1,9 @@
 ---
 title: Flint
-revid: 196144
+revid: 213966
 source: https://deepwoken.fandom.com/wiki/Flint
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Tools]
+categories: [Tools, Echo Unlockables]
 ---
 
 # Flint

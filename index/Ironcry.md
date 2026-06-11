@@ -1,9 +1,9 @@
 ---
 title: Ironcry
-revid: 212740
+revid: 213963
 source: https://deepwoken.fandom.com/wiki/Ironcry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Weapons, Bows, Medium Weapons, Echoes]
+categories: [Pathfinder Exclusive, Weapons, Bows, Medium Weapons, Echo Unlockables]
 ---
 
 # Ironcry
