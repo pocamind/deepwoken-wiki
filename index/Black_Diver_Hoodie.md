@@ -1,6 +1,6 @@
 ---
 title: Black Diver Hoodie
-revid: 211896
+revid: 214225
 source: https://deepwoken.fandom.com/wiki/Black_Diver_Hoodie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Promotional Content, Merchandise]
@@ -27,4 +27,4 @@ Prove to the outside world that your sanity is very much intact."
 ## Trivia
 
 -   A total of 304 Black Diver Hoodies were sold, and the campaign ended at 101% of its funding goal.
--   The official Makeship link for the Mudskipper Pin Pack can be found [here](https://www.makeship.com/products/black-diver-hoodie).
+-   The official Makeship link for the Black Diver Hoodie can be found [here](https://www.makeship.com/products/black-diver-hoodie).

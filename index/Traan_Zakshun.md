@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 213859
+revid: 214207
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -442,9 +442,9 @@ Sold Items
     <li><b>Head</b>: <a href="Aazel's_Horns.md">Aazel's Horns</a></li>
     <li><b>Torso</b>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>, <a href="Tiran_Pendant.md">Tiran Pendant</a>, <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></li>
   </ul></li>
+    <li><b>For 20 </b>: <a href="Simmerbloom_Diadem.md">Simmerbloom Diadem</a></li>
     <li><b>For 25 </b>:
   <ul>
-    <li><b>Head</b>: <a href="Simmerbloom_Diadem.md">Simmerbloom Diadem</a></li>
     <li><b>Torso</b>: <a href="Jadeite_Megalodaunt.md">Jadeite Megalodaunt</a></li>
     <li><b>Ears</b>: <a href="Dark_Pearls.md">Dark Pearls</a></li>
   </ul></li>

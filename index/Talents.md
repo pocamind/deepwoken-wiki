@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 213875
+revid: 214206
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2095,7 +2095,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Grants +0.2% damage per 1 [Stealth](Stealth.md) to attacks that hit your opponent's back. This affects all damage sources that can receive damage modifiers.
     -   Stealth that is not gained from [Equipment](Equipment.md) or [Outfit](Outfits.md) sources do not count towards this Talent.
         -   Strangely, the [Obvious](Boons_and_Flaws.md#obvious) Flaw is an exception to this, reducing your backhit damage by 4%.
-        -   The following [Stealth](Stealth.md) sources **do not** apply to this Talent's damage buff: [Felinor](Felinor.md)'s innate Stealth **and** its Stealth gain multiplier, Agility investment, Crouching, Lowstrude, Murmur: Tacet, and Tacet Minimization.
+        -   The following [Stealth](Stealth.md) sources **do not** apply to this Talent's damage buff: [Felinor](Felinor.md)'s innate Stealth **and** its Stealth gain multiplier, Agility investment, Crouching, Lowstride, Murmur: Tacet, and Tacet Minimization.
     -   This does **not** buff [assassinations](Combat_Mechanics.md#assassination).
     -   See the [Stealth](Stealth.md) page for info on where stealth can be obtained.
         -   The maximum Stealth you can gain from Equipment alone is 30% (+6% damage).
@@ -4700,10 +4700,9 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Grants a Talent tool that applies buffs to yourself and allies.
     -   Hyperbody lasts 30 seconds, but the duration is reduced by 3 seconds per person affected, including yourself.
     -   Hyperbody has a 2 minute cooldown.
-    -   Increases your movement speed by 7.5 studs/s. This speed boost will halve in effectiveness for each ally buffed.
-        -   For example, at one ally you'll only gain +3.75 studs/s movement speed, at two allies this'll be reduced further to +1.875 studs per second, and so on.
+    -   Increases your movement speed by 7.5 studs/s, split evenly among each ally buffed.
         -   This counts as a speed boost for Talent effects.
-    -   Increases your passive health regeneration by 2.37x. Every ally buffed will reduce the health regeneration bonus by 10%.
+    -   Grants +50% passive health regeneration, split among each ally buffed.
     -   Grants a 35.5% damage reduction buff. This is **increased** by 20% multiplicatively for every ally buffed.
         -   For example at one ally, this will grant +42.6% damage reduction, at two allies this will grant 51.12% damage reduction, and so on.
     -   Hyperbody can stack if one of your allies uses it, though the total effectiveness will only be 90% of the base effectiveness.
@@ -5592,7 +5591,7 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
 
 ### Toxic Personality
 
--   Compelling Offer \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Any charmed enemy below 50% hit with your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] or critical will mysteriously begin attacking everyone but you. \[\[\[Status Effects#Madness|Madness\]\]\] Your [taunt](Attunement-less.md#taunt) also now functions as a counter that stacks damage multipliers with every successful taunt.
+-   Compelling Offer \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Any charmed enemy below 50% hit with your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] or critical will mysteriously begin attacking everyone but you. \[[Madness](Status_Effects.md#madness)\] Your [taunt](Attunement-less.md#taunt) also now functions as a counter that stacks damage multipliers with every successful taunt.
     
     -   Madness from this Talent procs when attacking charmed enemies who are below 50% health.
     -   Madness prevents non-boss enemies from dealing damage and hitstunning you.
