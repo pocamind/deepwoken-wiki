@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Medallions
-revid: 200369
+revid: 214149
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Medallions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Layer 2, Floor 2, Currency]
