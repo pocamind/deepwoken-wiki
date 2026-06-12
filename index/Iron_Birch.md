@@ -1,6 +1,6 @@
 ---
 title: Iron Birch
-revid: 214012
+revid: 214061
 source: https://deepwoken.fandom.com/wiki/Iron_Birch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents, Weapons of The Hive]
@@ -54,4 +54,4 @@ Iron Birch uses the default Greataxe critical, an overhead swing. It has a scale
 
 ## Trivia
 
--   The Iron Birch is a reference to the [Iron Battle Axe](https://destiny.fandom.com/wiki/Iron_Battle_Axe) from the game [Destiny 2](https://en.wikipedia.org/wiki/Destiny_2).
+-   The Iron Birch is a reference to the [Iron Battle Axe](https://destiny.fandom.com/wiki/Iron_Battle_Axe) from the game _[Destiny 2](https://en.wikipedia.org/wiki/Destiny_2)_.

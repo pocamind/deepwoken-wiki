@@ -1,6 +1,6 @@
 ---
 title: Arkasid
-revid: 213475
+revid: 214097
 source: https://deepwoken.fandom.com/wiki/Arkasid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages with reason, StubPages, Monsters]
@@ -20,7 +20,11 @@ notices:
 
 ## Description
 
-Arkasids are spider-like mite monsters found throughout [Simforea](Simforea.md). Once an invasive threat across Lumen, they hunted in packs and overran settlements until a rare unified effort drove them from the surface and into [The Depths](First_Layer.md).
+Arkasids are spider-like mite monsters found throughout [Simforea](Simforea.md). Once an invasive threat across Lumen, they hunted in packs and overran settlements until a rare unified effort drove them from the surface and into [The Depths](First_Layer.md).[\[1\]](#cite-note-bestiary-1)
+
+Though Arkasids are described as spider-like, their breeding cycles are more akin to those of cicadas.[\[1\]](#cite-note-bestiary-1)
+
+It was said that the eradication efforts against the Arkasids required an immense effort from all Luminants, creating a rare moment of unity within Lumen.[\[1\]](#cite-note-bestiary-1)
 
 ## Moveset
 
@@ -71,14 +75,9 @@ Arkasids are spider-like mite monsters found throughout [Simforea](Simforea.md).
     -   As mentioned above, having the [Brick Wall](Talents.md#brick-wall) Talent negates the [Ragdoll](Status_Effects.md#ragdoll) and [Sleep](Status_Effects.md#sleep) effects, applying a slow instead.
 -   All of the Arkasid attacks deal very low posture damage, so blocking attacks is a valid strategy.
 -   Using the [Providence Thorns](<Providence's_Thorns.md>) enchantment is recommended, as parrying their **Spin Strikes** attack with it will deal a good amount of damage back to them.
--   [Mute](Regalia.md) does not work on Arkasids.[\[1\]](#cite-note-1)
-
-## Trivia
-
--   Though Arkasids are described as spider-like, their breeding cycles are more akin to those of cicadas.[\[2\]](#cite-note-bestiary-2)
--   It was said that the eradication efforts against the Arkasids required an immense effort from all Luminants, creating a rare moment of unity within Lumen.[\[2\]](#cite-note-bestiary-2)
+-   [Mute](Regalia.md) does not work on Arkasids.[\[2\]](#cite-note-2)
 
 ## References
 
-1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=wnHicBRUt1k](https://www.youtube.com/watch?v=wnHicBRUt1k)
-2.  ↑ [2.0](#cite-ref-bestiary-2-0) [2.1](#cite-ref-bestiary-2-1) [Bestiary](Bestiary.md): [Arkasid](Bestiary.md#arkasid)
+1.  ↑ [1.0](#cite-ref-bestiary-1-0) [1.1](#cite-ref-bestiary-1-1) [1.2](#cite-ref-bestiary-1-2) [Bestiary](Bestiary.md): [Arkasid](Bestiary.md#arkasid)
+2.  [↑](#cite-ref-2) [https://www.youtube.com/watch?v=wnHicBRUt1k](https://www.youtube.com/watch?v=wnHicBRUt1k)

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 213511
+revid: 214036
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -29,8 +29,6 @@ Enchantments have a set chance to be applied to a weapon during the following sc
     -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Crafting](Crafting_Station.md) [CraftingStation](Crafting_Station.md)
 
-You cannot 'stack' two of the same enchantment; If you obtain a helmet with Multiplicity while having boots with Multiplicity equipped, you can't equip the Multiplicity helmet. Alternatively, if you gain Multiplicity on your helmet through [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) while having Multiplicity boots equipped, only one instance of Multiplicity will function.
-
 ## Mechanics
 
 Enchanted weapons/equipment have special mechanics compared to their regular counterparts.
@@ -40,6 +38,7 @@ Enchanted items cannot be dropped on death.
 -   Equipping an enchanted item for the first time will Soulbound it to you. Soulbounded items cannot be dropped. However, they can still be unequipped, stored in your bank or sold to an antiquarian.
 -   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 40 [Echoes](Echoes.md) per item.
 -   Items cannot be "un-enchanted", however, another Enchant Stone or Grease can be used on it to replace the enchantment.
+-   You cannot 'stack' two of the same enchantment; If you obtain a helmet with Multiplicity while having boots with Multiplicity equipped, you can't equip the Multiplicity helmet. Alternatively, if you gain Multiplicity on your helmet through [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) while having Multiplicity boots equipped, only one instance of Multiplicity will function.
 
 ## Variants
 

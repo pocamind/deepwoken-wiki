@@ -1,6 +1,6 @@
 ---
 title: Roa
-revid: 213999
+revid: 214094
 source: https://deepwoken.fandom.com/wiki/Roa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -119,4 +119,4 @@ This Dialogue is unlocked if the player is a [Castaway](Castaway.md).
 
 ## Trivia
 
--   Compared to other Marten [Celtor](Celtor.md)'s their eyes are a light gray.
+-   Compared to other Marten [Celtors](Celtor.md), their eyes are a light gray.

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 213914
+revid: 214063
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -85,7 +85,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
     -   Stacks up to 5 times and each stack grants 5% mantra resistance leading to 25% total mantra resistance.
 
 -   **Merciless Blade** - You can now execute enemies much faster.
-    -   Grip speed is increased by 25% (3 seconds down to 2.25 seconds)
+    -   Grip speed is increased by 40% (3 seconds down to 1.8 seconds)
     -   Comes with the Oath.
 
 -   **True Vantage** - Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.

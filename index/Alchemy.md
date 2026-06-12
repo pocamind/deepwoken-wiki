@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 210727
+revid: 214035
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Consumables, Alchemy]
@@ -562,7 +562,7 @@ When brewing potions for an instant effect (like Rejuvenation or Soothing), poti
     -   Keep in mind that players innately have resistances to slows unless casting a Mantra, so this may not be that effective.
 
 -   **Health Regeneration** - 3 Beeswax or Goblettos + 2 Spider Eggs
-    -   Heals the most of any potion over 30 seconds - can be enough to fully heal a character with low max HP.
+    -   Heals the most of any potion over 30 seconds - can be enough to heal around 2 bars of health.
     -   If you have the Potion Quaffer Talent, A better recipe for this would be 3 Goblettos and 2 Beeswax.
 
 -   **Damage over Time** - 3 Plumfruits + 2 Spider Eggs

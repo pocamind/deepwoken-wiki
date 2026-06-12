@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 210693
+revid: 214078
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -300,8 +300,7 @@ Lightning [ResistanceThundercall](Thundercall.md)
 -   Has a base damage of 5/6.5/8/9.5/11 per level, per hit (3) with 2.75 Thundercall scaling.
 -   Deals 5 posture damage per hit (3).
 -   14 second cooldown.
--   Deals 38.31 (12.77\*3) DMG, 10 posture, 14s CD
--   With 6 Songchant 43.2 (14.4\*3) DMG
+-   Shared a cooldown with [Ice Daggers](Frostdraw.md#ice-daggers).
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to double the amount of projectiles conjured, but halve the damage and posture damage per projectile.
 -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md#sparks) making the projectiles home towards the target and removing the beams of thunder.
 

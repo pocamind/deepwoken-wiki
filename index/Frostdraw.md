@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 213703
+revid: 214077
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -406,6 +406,7 @@ Ice [ResistanceFrostdraw](Frostdraw.md)
 -   If used in water, the daggers won't spawn.
 -   Can grant an additional effect with the _Frozen Pin-Cushion_ Talent, which freezes the target or detonates their crystals upon hit.
 -   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the range of casting the Mantra.
+-   Shares a cooldown with [Fleeting Sparks](Thundercall.md#fleeting-sparks).
 
  |
 | 

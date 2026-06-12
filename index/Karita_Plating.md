@@ -1,6 +1,6 @@
 ---
 title: Karita Plating
-revid: 212738
+revid: 214098
 source: https://deepwoken.fandom.com/wiki/Karita_Plating
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Weapons with Unique Criticals, Weapons with Talents, "Core-Attribute based weapons", Fists, Justicars, Legendary Weapons, Weapons with multiple Criticals]
@@ -35,6 +35,10 @@ categories: [Pathfinder Exclusive, Weapons, Weapons with Unique Criticals, Weapo
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
+
+“ Why would these make you faster? Seems like they would slow you down, if anything. ”
+
+― The Pathfinder
 
 ## Description
 

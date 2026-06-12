@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 214016
+revid: 214062
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -359,7 +359,7 @@ Defenses/Info
 
 Circle\*
 
- | File:Circletelegraph.png | The color of this indicator changes depending on the attack used.  
+ | File:CircleTelegraph.png | The color of this indicator changes depending on the attack used.  
 
 This indicator is most prevalent on attacks that can be used by players.  
 Not all unblockable attacks have this indicator.  
@@ -392,7 +392,7 @@ Not all unblockable attacks have this indicator.
 
 Crosshair\*
 
- | File:Crosshairtelegraph.png | This indicator is most prevalent on attacks that make use of homing projectiles.  
+ | File:CrosshairTelegraph.png | This indicator is most prevalent on attacks that make use of homing projectiles.  
 
 The animation and duration of this indicator changes depending on the time it will take to said projectiles to hit their target.  
 The color of this indicator changes depending on the attack used.  
@@ -409,9 +409,9 @@ The color of this indicator changes depending on the attack used.
  |
 | 
 
-Pink
+High Posture
 
- | File:Purpletelegraph.png | Most attacks with this indicator deal high posture damage.  
+ |  | Most attacks with this indicator deal high posture damage.  
 
 Most Monster attacks with this indicator are parryable with [Force Your Way](Ignition_Deepdelver.md).  
 
@@ -445,9 +445,9 @@ Most Monster attacks with this indicator are parryable with [Force Your Way](Ign
  |
 | 
 
-Red
+Dodge
 
- | File:Redtelegraph.png | 
+ |  | 
 
   
 Attacks with this indicator must be dodged. They will guardbreak if blocked.
@@ -508,9 +508,9 @@ In some cases, Monster attacks with this indicator are parryable with [Force You
  |
 | 
 
-Blue
+Block
 
- | File:Bluetelegraph.png | Most attacks with this indicator deal high posture damage.  
+ |  | Most attacks with this indicator deal high posture damage.  
 
 Some Monster attacks with this indicator are parryable with [Force Your Way](Ignition_Deepdelver.md).  
 
@@ -537,9 +537,9 @@ Some Monster attacks with this indicator are parryable with [Force Your Way](Ign
  |
 | 
 
-Green
+Parry
 
- | File:Greentelegraph.png | 
+ |  | 
 
   
 Attacks with this indicator must be parried. They will guardbreak if blocked.
@@ -569,9 +569,9 @@ Attacks with this indicator must be parried. They will guardbreak if blocked.
  |
 | 
 
-Yellow
+Duck (Crouch)
 
- | File:Yellowtelegraph.png | Attacks with this indicator can be crouched under.
+ |  | Attacks with this indicator can be crouched under.
 
   
 Most attacks with this indicator deal high posture damage.
@@ -588,9 +588,9 @@ Most attacks with this indicator deal high posture damage.
  |
 | 
 
-Magenta
+Jump
 
- | File:Whitetelegraph.png | 
+ |  | 
 
   
 Attacks with this indicator can be jumped over.
@@ -613,7 +613,7 @@ Attacks with this indicator can be jumped over.
  |
 | 
 
-Orange
+Slide
 
  |  | Attacks with this indicator must be slid under.
 
@@ -631,7 +631,7 @@ Orange
 
 Skull
 
- | File:Skulltelegraph.png | You need to physically move out of the way of these attacks to dodge them.
+ | File:SkullTelegraph.png | You need to physically move out of the way of these attacks to dodge them.
 
 Some of these attacks have unique mechanics regarding how/if they can be avoided. Please check the enemy pages for more info.  
 
@@ -669,7 +669,7 @@ Some of these attacks have unique mechanics regarding how/if they can be avoided
 -   Light grey for [Ironsing](Ironsing.md)
 -   Red for [Bloodrend](Bloodrend.md)
 
-\*\*Possibly a bug, but [Titus](Titus_Fulminus_Destellus.md)' _Worldshattering Smackdown_ is dodgeable albeit having a green telegraph. Refer to [this video](https://streamable.com/h20tpc).
+\*\*Possibly a bug, but [Titus](Titus_Fulminus_Destellus.md)' _Worldshattering Smackdown_ is dodgeable albeit having a parry telegraph. Refer to [this video](https://streamable.com/h20tpc).
 
 ## Status Effects
 
