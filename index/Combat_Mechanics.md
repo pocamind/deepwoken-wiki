@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 214062
+revid: 214340
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -569,9 +569,9 @@ Attacks with this indicator must be parried. They will guardbreak if blocked.
  |
 | 
 
-Duck (Crouch)
+Duck
 
- |  | Attacks with this indicator can be crouched under.
+ |  | Attacks with this indicator can be crouched and slid under.
 
   
 Most attacks with this indicator deal high posture damage.
@@ -609,21 +609,6 @@ Attacks with this indicator can be jumped over.
 -   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Champion's Quake, Altitude Swipes, Crossrend Cryocleave
 -   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Shogun's Brutality
 -   [Titus Fulminus Destellus:](Titus_Fulminus_Destellus.md) Wrathful Stomp, World Piercing Deluge
-
- |
-| 
-
-Slide
-
- |  | Attacks with this indicator must be slid under.
-
-  
-
- |
-| All attacks that have this attribute:
-
-**Boss Attacks**
-
 -   [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>): Blinkstrike
 
  |

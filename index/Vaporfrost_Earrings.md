@@ -1,6 +1,6 @@
 ---
 title: Vaporfrost Earrings
-revid: 210892
+revid: 214342
 source: https://deepwoken.fandom.com/wiki/Vaporfrost_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -32,4 +32,4 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 The Vaporfrost Earrings are an [Equipment](Equipment.md) item underneath the "Ears" category, which can be crafted at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
 
-The [Drop Dead](Talents.md#drop-dead) Talent grants damage reduction whenever you are crouching.
+The [Drop Dead](Talents.md#drop-dead) Talent grants 25% damage reduction whenever you are crouching or sliding.

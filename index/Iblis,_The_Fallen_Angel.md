@@ -1,6 +1,6 @@
 ---
 title: "Iblis, The Fallen Angel"
-revid: 201847
+revid: 214314
 source: https://deepwoken.fandom.com/wiki/Iblis%2C_The_Fallen_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Enemies, Enemies with Oaths, The Starkindred Church, Humanoids with Unobtainable Outfits]
@@ -22,10 +22,6 @@ categories: [Individuals with He/him pronouns, Enemies, Enemies with Oaths, The 
 ## Description
 
 Iblis, The Fallen Angel, is a powerful [Starkindred](Oath%253A_Starkindred.md) apostate located in [Starfield Grove](Starfield_Grove.md) [Voidzone](Voidzones.md). He must be defeated to obtain [Starkindred](Oath%253A_Starkindred.md).
-
-## Location
-
-Iblis is
 
 ## Moveset
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 208593
+revid: 214331
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -142,22 +142,188 @@ You _**cannot**_ oath skip Blightsurger. Attempting to do will have Brutus beat 
 
 #### Combat Mantras
 
--   **Skycrash** - Leap towards your enemies and stomp knocking up enemies caught.
-    -   Deals 35 Oath damage, the followup strike deals 20 Oath damage. Both hits have 1.65 Strength scaling.
-    -   Ragdolls and applies Daze on hit.
-    -   During the leap, you will have hyperarmor for 1 second.
-    -   While under the effects of Sovereign State, Skycrash will automatically be used a second time.
+| 
+**Name**
 
--   **Sovereign Drive** - Dash forward in a blink, knocking down enemies in your path.
-    -   Deals 18 Oath damage with 1.65 Strength scaling.
-    -   Applies Daze and Blightshock on hit.
-    -   Knockdowns on hit.
+ | 
 
--   **Warp Kick** - Perform a kick, then warp to your enemies for a second followup kick.
-    -   Each hit deals 20 Oath damage with 1.65 Strength scaling (hits twice).
-    -   Knocks the opponent back on the second hit, despite what is shown in the gif below.
-    -   Teleports to opponents within range.
-    -   Applies Blightshock on hit.
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Skycrash** (☆☆☆)
+
+**Combat Mantra**
+
+_Dash forward in a blink, knocking down enemies in your path._
+
+ | 
+
+## Skycrash (☆☆☆)
+
+  
+**Combat Mantra**  
+_Dash forward in a blink, knocking down enemies in your path._
+
+ |
+| 
+
+50 Ether [IconEther](Ether.md)
+
+ | 
+
+Oath [ResistanceOath](Oaths.md) + Blunt ResistanceBlunt
+
+ | 
+
+TBA
+
+ |
+| 
+
+**Effect:** _Leap towards your opponent and crush them with your might._
+
+-   Has a base damage of 35 with 1.65 Strength scaling.
+-   While under the effects of Sovereign State, Skycrash will automatically be used a second time.
+    -   This followup strike has a base damage of 20 with 1.65 Strength scaling.
+-   Ragdolls and applies Daze on hit.
+-   During the leap, you will have hyperarmor for 1 second.
+
+ |
+| 
+
+**Sovereign Drive** (☆☆☆)
+
+**Combat Mantra**
+
+_Dash forward in a blink, knocking down enemies in your path._
+
+ | 
+
+## Sovereign Drive (☆☆☆)
+
+  
+**Combat Mantra**  
+_Dash forward in a blink, knocking down enemies in your path._
+
+ |
+| 
+
+50 Ether [IconEther](Ether.md)
+
+ | 
+
+Oath [ResistanceOath](Oaths.md) + Blunt ResistanceBlunt
+
+ | 
+
+TBA
+
+ |
+| 
+
+**Effect:** _Rush forwards and knock down your foe._
+
+-   Has a base damage of 18 with with 1.65 Strength scaling.
+-   Applies Daze and Blightshock on hit.
+-   Knockdowns on hit.
+
+ |
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Warp Kick** (☆☆☆)
+
+**Combat Mantra**
+
+_Perform a kick, then warp to your enemies for a second followup kick._
+
+ | 
+
+## Warp Kick (☆☆☆)
+
+  
+**Combat Mantra**  
+_Perform a kick, then warp to your enemies for a second followup kick._
+
+ |
+| 
+
+50 Ether [IconEther](Ether.md)
+
+ | 
+
+Oath [ResistanceOath](Oaths.md) + Blunt ResistanceBlunt
+
+ | 
+
+TBA
+
+ |
+| 
+
+**Effect:** _Perform two kicks of devastating strength._
+
+-   Has a base damage of 20 per hit (2) with 1.65 Strength scaling.
+-   Knocks the opponent back on the second hit, despite what is shown in the gif below.
+-   Teleports to opponents within range.
+-   This attack is counted as a weapon critical for Talent effects.
+-   Applies Blightshock on hit.
+
+ |
 
 ## Trivia
 
