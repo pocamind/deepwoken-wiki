@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 213557
+revid: 214446
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -11,7 +11,7 @@ categories: [Oaths]
 | Oath:  Soulbreaker | |
 |---|---|
 | oath_req | Any Murmur, A Resonance (dependant), High Ally rep with Etrea (dependant), 50 points in charisma or willpower (Combined) |
-| effects | +2 Combat Mantra Slot, +1 Wildcard Mantra Slot, Ability to wield all the Murmurs |
+| effects | +2 Combat Mantra Slot, +1 Wildcard Mantra Slot, Ability to wield all three Murmurs, +5% PEN |
 
 “ THEN IT IS SO. AND ONCE YOU DRIFT, KNOW THAT IT WILL BE INTO OUR EMBRACE. ”
 
@@ -64,7 +64,7 @@ This Oath can be progressed via making deals with [Deep Shrines](Deep_Shrines.md
 
 ## Effects
 
-This Oath grants 2 Combat Mantra Slots and 1 Wildcard Mantra slot.
+This Oath grants 2 Combat Mantra Slots, 1 Wildcard Mantra slot, and +5% PEN.
 
 You immediately obtain the remaining [Murmurs](Murmur.md) you do not have, and their Talent upgrades (if any), regardless of your stats as Oath Talents (meaning you cannot use them in shrines involving Talents). Notably, these Oath-given Murmur Talents do not count for the prerequisites of other Talents/abilities such as [Echoing Lunatic](Talents.md#echoing-lunatic) or [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick).
 
@@ -201,7 +201,7 @@ _Close the distance and deliver a fast slash using your Ardour._
 
  | 
 
-Slash ResistanceSlash
+\[missing, add\]
 
  | 
 
@@ -212,9 +212,9 @@ Shrine deal
 
 **Effect:** _User launches a projectile similar to [Wind Blade](Galebreathe.md#wind-blade)._
 
--   Deals 28 Oath damage.
+-   Deals 28 damage.
 -   Has 40% chip damage.
-    -   Deals 18 posture damage.
+-   Deals 18 posture damage.
 -   Projectile goes really far (~150 studs) and can hit multiple people at once.
     -   Upon hit, pushes the enemy in the direction of a projectile.
 -   Has a windup of 0.5 seconds and a cooldown of 12 seconds.
@@ -272,11 +272,11 @@ _Channel your Rhythm and track down your opponent._
  |
 | 
 
-(?) Ether [IconEther](Ether.md)
+65 Ether [IconEther](Ether.md)
 
  | 
 
-TBA
+[Blunt](Status_Effects.md#blunt)
 
  | 
 
@@ -288,7 +288,7 @@ Shrine deal
 **Effect:** _User starts rapidly spinning around, and after some time hits enemy with a similar attack to an uppercut._
 
 -   User starts rapidly spinning around, and after some time hits enemy with a similar attack to an uppercut.
--   Deals 50 Physical damage.
+-   Deals 50 damage.
     -   Deals 20 posture damage.
 -   Upon using an M1 after cast, it can hit instantly without winding up.
 -   On successful hit, shows HP and Posture of enemies you hit.
@@ -346,11 +346,11 @@ _Slip out of perception and deliver a brutal kick._
  |
 | 
 
-(?) Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
-TBA
+[Blunt](Status_Effects.md#blunt)
 
  | 
 
@@ -361,7 +361,7 @@ Shrine deal
 
 **Effect:** _Similarly to [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick), the user turns invisible before teleporting to the opponent with the use of Tacet and kicking them._
 
--   Deals 19 physical damage.
+-   Deals 19 damage.
 -   Deals 12 posture damage.
 -   Could prove useful in catching players.
 -   Despite going invisible you do not gain iframes during this move.

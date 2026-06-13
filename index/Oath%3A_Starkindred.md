@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 214155
+revid: 214448
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Starkindred Church]
@@ -11,7 +11,7 @@ categories: [Oaths, The Starkindred Church]
 | Oath: Starkindred | |
 |---|---|
 | oath_req | 40 Strength + 1 Player Grip |
-| effects | +2 Combat Mantra slots, +1 Wildcard Mantra Slot, +8 Health, Modified Fire Blade, Better Aerial Assault |
+| effects | +2 Combat Mantra slots, +1 Wildcard Mantra Slot, +8 Health, +5% PEN, Modified Fire Blade |
 
 “ THE PATH YOU CHOOSE TO FOLLOW IS WROUGHT WITH LIES. DECEIT. YOU ARE THE TRUE FOOLS, PLAYING AS GOD. ”
 
@@ -59,7 +59,7 @@ Alternatively you can pay [Samael](Samael.md) 10 to skip killing the Sinners. Ho
 
 ## Effects
 
-This Oath grants 2 Combat Mantra slots, 1 Wildcard Mantra slot, and 8 Health. Additionally, the [Flamecharm](Flamecharm.md) Mantra [Fire Blade](Flamecharm.md#fire-blade) is modified by this Oath, causing the user to rise into the sky, and unleash a screen shaking, heavily modified, multi-hitting Fire Blade, several times the size of the original. This effect can be disabled with the use of a [Reversal Spark](Mantra_Modifiers.md). As for appearance, aside from the wings which appear anytime you utilize a starkindred mantra, a white halo with 4 spikes connected to it will continuously circle around the user's neck.
+This Oath grants 2 Combat Mantra slots, 1 Wildcard Mantra slot, +5% PEN, and 8 Health. Additionally, the [Flamecharm](Flamecharm.md) Mantra [Fire Blade](Flamecharm.md#fire-blade) is modified by this Oath, causing the user to rise into the sky, and unleash a screen shaking, heavily modified, multi-hitting Fire Blade, several times the size of the original. This effect can be disabled with the use of a [Reversal Spark](Mantra_Modifiers.md#sparks). As for appearance, aside from the wings which appear anytime you utilize a starkindred mantra, a white halo with 4 spikes connected to it will continuously circle around the user's neck.
 
 ## Abilities
 
@@ -141,7 +141,7 @@ _Take to the skies for a devastating strike._
  |
 | 
 
-(?) Ether [IconEther](Ether.md)
+50 Ether [IconEther](Ether.md)
 
  | 
 
@@ -156,13 +156,13 @@ Obtained after the first Sinner kill
 
 **Effect:** _The user rises into the air before swooping in._
 
--   Deals 37 Oath damage with 1.65 Strength scaling.
-    -   This attack cannot be parried or blocked, indicated by a sound effect and a red [Telegraph](https://deepwoken.fandom.com/wiki/Combat_Mechanics#Telegraphed_Attacks).
-        -   This does not guardbreak, it entirely ignores your block, dealing its full damage and applying shaky block to anyone who attempts to block it.
-    -   Applies hard knockdown on hit.
-    -   [Wayward Gem](Wayward_Gem.md) will not proc on this Mantra.
-    -   Can knockdown any enemy ingame.
-    -   If used mid-air, the move will not work but will still charge you ether.
+-   Deals 37 damage with 1.65 Strength scaling.
+-   This attack cannot be parried or blocked, indicated by a sound effect and a red [Telegraph](Combat_Mechanics.md#telegraphed-attacks).
+    -   This does not guardbreak, it entirely ignores your block, dealing its full damage and applying shaky block to anyone who attempts to block it.
+-   Applies hard [knockdown](Status_Effects.md#knockdown) on hit.
+-   [Wayward Gem](Wayward_Gem.md) will not proc on this Mantra.
+-   Can [knockdown](Status_Effects.md#knockdown) any enemy ingame.
+-   If used mid-air, the move will not work but will still charge you ether.
 
  |
 
@@ -215,7 +215,7 @@ _Emit a spinning ring of celestial energy, trapping and shredding any who steps 
  |
 | 
 
-(?) Ether [IconEther](Ether.md)
+40 Ether [IconEther](Ether.md)
 
  | 
 
@@ -230,9 +230,8 @@ Obtained after the second Sinner kill
 
 **Effect:** _Similar to the Galebreathe Mantra [Tornado](Galebreathe.md#tornado), but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits._
 
--   Deals 42 (3 \* 14) Oath damage with 1.65 Strength scaling.
--   Hits 14 times.
-    -   Deals 0.4 posture damage per hit (14), totaling to 5.6 posture damage if all hits are blocked.
+-   Deals 3 damage per hit (14) with 1.65 Strength scaling
+-   Deals 0.4 posture damage per hit (14), totaling to 5.6 posture damage if all hits are blocked.
 -   Has a 0.6 second windup (with wings) and a 15 second cooldown.
 
  |
@@ -286,7 +285,7 @@ _Use your wings and deliver two critical blows._
  |
 | 
 
-(?) Ether [IconEther](Ether.md)
+50 Ether [IconEther](Ether.md)
 
  | 
 
@@ -301,8 +300,8 @@ Obtained after the third Sinner kill
 
 **Effect:** _Deliver a vertical slash (that launches the user and target up) and a horizontal slash (that pushes the target)._
 
--   Deals 40 (20\*2) Oath damage with 1.65 Strength scaling.
-    -   Deals 8 posture damage per hit.
+-   Deals 20 damage per hit (2) with 1.65 Strength scaling.
+    -   Deals 8 posture damage per hit (2).
     -   Initial 0.5 second windup (with wings) and a 10 second cooldown.
 
  |

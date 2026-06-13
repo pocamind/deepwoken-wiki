@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 210009
+revid: 214438
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -11,7 +11,7 @@ categories: [Oaths]
 | Oath: Bladeharper | |
 |---|---|
 | oath_req | 75 MED, or a sum of 90 points invested into weapon stats, 25 AGL or STR |
-| effects | +3 Combat Mantra |
+| effects | +5% PEN, +3 Combat Mantra |
 
 “ Your presence here... We both know what it means. If you believe yourself ready, this is where you shall pledge yourself to the Blade. ”
 
@@ -52,7 +52,7 @@ The Oath can be progressed through interaction with the different other [Sky Sta
 
 ## Effects
 
-_Upon obtaining this Oath, two snake bracelets will wrap around your arms._
+Upon obtaining this Oath, two snake bracelets will wrap around your arms.
 
 ## Abilities
 
@@ -65,12 +65,12 @@ _Upon obtaining this Oath, two snake bracelets will wrap around your arms._
     -   Grants access to Float like a Butterfly.
     -   Removes the proc condition on Soaring Storm and increases its damage.
     -   Empowers your Bladeharper Mantras. True Strength's affects are listed under each Mantra.
-    -   Grants a Speed Boost. This Speed Boost can be used to proc Talents (e.g. [Speed Demon](Talents.md#vigil-swordsman) or [Cheap Shot](Talents.md#trickster)) and lasts for the entire duration of True Strength.
+    -   Grants a Speed Boost. This Speed Boost can be used to proc Talents (e.g. [Speed Demon](Talents.md#speed-demon) or [Cheap Shot](Talents.md#cheap-shot)) and lasts for the entire duration of True Strength.
 
 ### Talents
 
 -   **Lithe Step** - When Sprinting, roll-cancel and instantly vanish and surge with unmatched speed
-    -   Makes the player briefly invisible, similar to [Rush of Ancients](Oath%253A_Jetstriker.md).
+    -   Makes the player briefly invisible, similar to [Rush of Ancients](Oath%253A_Jetstriker.md#rush-of-ancients).
     -   Lithe Step will not provide immunity frames to your dodge, but grants a noticeable speed boost during it.
     -   Lithe Step has a 3 second cooldown. This cooldown is reduced to 1 second while in True Strength.
 -   Obtainment: Obtained along with the Oath, after the first Mind Reflection fight.
@@ -98,10 +98,10 @@ _Upon obtaining this Oath, two snake bracelets will wrap around your arms._
 
 -   **Reveal** - Pour your heart out, and reveal your true strength.
     -   Toggle On and Off the True Strength state.
-    -   While in Reveal's True Strength state, you passively build up [Wither](Status_Effects.md#wither) (reduced max HP) on yourself.
+    -   While in Reveal's True Strength state, you passively build up [Wither](Talents.md#wither) (reduced max HP) on yourself.
     -   If you go below 10% HP, Reveal will automatically turn off.
     -   This takes about **2.5 SECONDS TO ACTIVATE**. Use it wisely, or not at all.
-    -   Oddly enough, this procs things that require you to take damage like [Agitating Spark](Talents.md#immolator) and [Prediction](Attunement-less.md#prediction) despite Reveal not actually dealing damage. Your current HP does not need to get replaced with Wither for this to take effect, and other sources of Wither application/True Strength do not do this.
+    -   Oddly enough, this procs things that require you to take damage like [Agitating Spark](Talents.md#agitating-spark) and [Prediction](Attunement-less.md#prediction) despite Reveal not actually dealing damage. Your current HP does not need to get replaced with Wither for this to take effect, and other sources of Wither application/True Strength do not do this.
 -   Obtainment: Obtained after the final Mind Reflection fight along with Float Like a Butterfly
 
 ### Mantras
@@ -157,7 +157,7 @@ _Slice your opponent with your palm._
  |
 | 
 
-TBA [IconEther](Ether.md)
+50 Ether [IconEther](Ether.md)
 
  | 
 
@@ -174,7 +174,7 @@ Obtained with the Oath
 
 -   Deals 31 damage, per hit (1, 2 if in True Strength).
 -   Hits a second time in True Strength, uppercutting the target. This procs Soaring Storm and all other relevant "on uppercut" effects.
--   Applies [Dazed](Status_Effects.md#dazed) on hit.
+-   Applies [Dazed](Status_Effects.md#daze) on hit.
 -   Has a 15x PvE multiplier.
 
  |
@@ -197,7 +197,7 @@ _Cut through your opponent_
  |
 | 
 
-TBA [IconEther](Ether.md)
+50 Ether [IconEther](Ether.md)
 
  | 
 
@@ -250,7 +250,6 @@ Finally the most important piece of advice, stay calm, as you would with any and
 -   Strangely, the mirror self can use [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick) even if you don't have the Mantra or the Murmur, but they won't use weapon Mantras.
 -   The mirror self's moveset doesn't change if you die and go back to fight it again. Additionally it seems to reuse the AI from [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
 -   When [Poser's Ring](<Poser's_Ring.md>) is used the clone will behave as if it doesn't have the ring.
--   Bladeharper's icon is off-center.
 
 ## Navigation
 

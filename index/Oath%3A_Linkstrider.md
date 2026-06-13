@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 213561
+revid: 214443
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -11,7 +11,7 @@ categories: [Oaths]
 | Oath: Linkstrider | |
 |---|---|
 | oath_req | None |
-| effects | +2 Support Mantra, +1 Wildcard Mantra |
+| effects | +2 Support Mantra, +1 Wildcard Mantra, +5% PEN |
 
 “ The Entropy Catalyst generated enough force to fundamentally change your state of existence. You now exist between two states, your newfound clarity making the imperceptible Bonds between all souls malleable to you. ”
 
@@ -52,7 +52,7 @@ The only ways to obtain each ability is to grip players with an Oath or killing 
 
 ## Effects
 
-This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearance-wise, its users wear a blue necklace and their irises become light cyan.
+This Oath grants 2 Support Mantra slots, 1 Wildcard Mantra slot, and +5% PEN. Appearance-wise, its users wear a blue necklace and their irises become light cyan.
 
 ## Abilities
 
@@ -137,7 +137,7 @@ _Activate when linked to an ally to sacrifice your own health to them._
  |
 | 
 
-(?) Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -150,10 +150,11 @@ Upon killing 2 players with [Oaths](Oaths.md)
  |
 | 
 
-**Effect:** _If linked to an ally (signified by blue cord), sacrifice 6% (4.8% if equipped with [Deepscorn Casque](Deepscorn_Casque.md)) of your HP to be turned into wither to restore 15% of the target's HP overtime. This ability can be interrupted._
+**Effect:** _If linked to an ally (signified by blue cord), sacrifice 6% of your HP to be turned into [Wither](Status_Effects.md#wither) to restore 15% of the target's HP overtime. This ability can be interrupted._
 
 -   It has a 22.5 second cooldown.
--   Does **not** work with any deep gem besides Blue.
+-   Does **not** work with any [Deep Gem](Deep_Gems.md) besides [Blue Gems](Blue_Gem.md).
+-   [Deepscorn Casque](Deepscorn_Casque.md) can be used to reduce the self-[Wither](Status_Effects.md#wither) to 4.8%.
 
  |
 
@@ -206,7 +207,7 @@ _Activate when linked to an ally to sacrifice your own health to them._
  |
 | 
 
-(?) Ether [IconEther](Ether.md)
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -226,7 +227,7 @@ Upon killing 3 players with [Oaths](Oaths.md)
 -   Parryable. A successful parry on the first tick will cause Parasitic Leech to fail, not initiating its cooldown.
 -   Blockable. While blocking may stop the damage, it will not stop the caster's healing.
 -   Especially effective against targets who cannot parry, such as Ferryman, healing as much as a bar and a half at once.
--   Can be used with Bloodless to heal more health.
+-   Can be used with [Bloodless Gems](Bloodless_Gem.md) to heal more health.
 -   Can be used with a Wind Gem to make it easier to avoid being hit while leeching.
 -   Leech ticks can proc [Hard Read](Talents.md#hard-read), and most blocking related talents.
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 213603
+revid: 214440
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ministry]
@@ -11,7 +11,7 @@ categories: [Oaths, The Ministry]
 | Oath: Contractor | |
 |---|---|
 | oath_req | Positive reputation with Etrea, Neutral/Positive reputation with The Ministry, Obtained a Resonance |
-| effects | +2 Combat Mantra, +1 Wildcard Mantra, +10 Ether |
+| effects | +2 Combat Mantra, +1 Wildcard Mantra, +10 Ether, +5% PEN |
 
 “ There's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you. ”
 
@@ -126,7 +126,7 @@ _The Hidden Tendril contracts, pulling both the contractor and target closer. Th
  |
 | 
 
-(?) Ether [IconEther](Ether.md)
+50 Ether [IconEther](Ether.md)
 
  | 
 
@@ -141,9 +141,10 @@ Obtained upon unlocking the oath
 
 **Effect:** _Reel in a marked target before separating, creating distance._
 
+-   Deals 44 damage.
+-   Deals 28 posture damage if blocked.
 -   Can slam people into walls.
--   Only usable if Hidden Tendril is applied to the target.
--   Deals 44 Oath damage and 28 posture if blocked.
+-   Only usable if [Hidden Tendril](Status_Effects.md#hidden-tendril) is applied to the target.
 
  |
 
@@ -196,7 +197,7 @@ _Whip forward a tendril. If it connects, it deals damage to the target, and give
  |
 | 
 
-(?) Ether [IconEther](Ether.md)
+50 Ether [IconEther](Ether.md)
 
  | 
 
@@ -211,10 +212,10 @@ Killing 1 player with [Oaths](Oaths.md) in [The Depths](First_Layer.md)
 
 **Effect:** _Being attacked with the blue aura will ignore the attack and stun the attacker for about 2 seconds, acting as a counter._
 
+-   The whip hit deals 20 damage.
 -   Non-Humanoids will bypass the counter aura, instead outright hitting you.
 -   Can be vented out of.
 -   Countering a non-grabbable humanoid mob will deal damage.
--   The whip hit deals 20 Oath damage.
 -   Although the whip can be blocked and parried, doing so does not negate the effects of the Mantra.
 -   The counters stun has a range limit. (this will still negate the damage of the attack)
 
@@ -269,7 +270,7 @@ _Summon a black casting circle before enveloping a humanoid target in tendrils a
  |
 | 
 
-(?) Ether [IconEther](Ether.md)
+50 Ether [IconEther](Ether.md)
 
  | 
 
@@ -284,11 +285,12 @@ Killing 2 players with [Oaths](Oaths.md) in [The Depths](First_Layer.md)
 
 **Effect:** _The target faces judgment as they are pierced with dozens of black tendrils._
 
--   Applies Hidden Tendril.
+-   Deals 59.93 (6.38 + 53.55) damage.
+-   Deals 7 posture damage if blocked.
+-   Applies [Hidden Tendril](Status_Effects.md#hidden-tendril).
 -   The target gains invincibility frames while active.
 -   **Instantly executes** if it brings the target's HP to 0 or is used on a knocked target.
--   Can be vented out of, and can also be parried as soon as you hear the 'snap' sound.
--   Deals 59.93 (6.38 + 53.55) Oath damage, 7 posture if blocked.
+-   Can be [vented](Combat_Mechanics.md#tempo) out of, and can also be parried as soon as you hear the 'snap' sound.
 -   Goes on a short cooldown if feinted.
 
  |

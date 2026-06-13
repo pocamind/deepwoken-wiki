@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 213577
+revid: 214450
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -10,8 +10,8 @@ categories: [Oaths]
 
 | Oath: Visionshaper | |
 |---|---|
-| oath_req | 50 Charisma, Completing the Aelita encounter, One Dark Feather |
-| effects | +1 Support Mantra, +2 Combat Mantra |
+| oath_req | 50 Charisma, Completing the Aelita encounter or the Carnival of Hearts, One Dark Feather |
+| effects | +1 Support Mantra, +2 Combat Mantra, +5% PEN |
 
 _For the version that existed prior to the 13th September, 2024, see [here](Oath%253A_Visionshaper/Old_Visionshaper.md)._
 
@@ -60,7 +60,7 @@ The abilities below are listed in order of obtainment.
 
 ## Effects
 
-This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wise, it creates a purple, wispy ethereal particle effect which stems from the user's right eye, this eye trail can be [dyed](Dye_Packet.md).
+This Oath grants 1 Support Mantra slot, 2 Combat Mantra slots, and +5% PEN. Appearance-wise, it creates a purple, wispy ethereal particle effect which stems from the user's right eye, this eye trail can be [dyed](Dye_Packet.md).
 
 ## Abilities
 
@@ -162,11 +162,11 @@ _Illusory servants to await your commands_
  |
 | 
 
-(?) Ether [IconEther](Ether.md)
+70 Ether [IconEther](Ether.md)
 
  | 
 
-TBA
+N/A
 
  | 
 
@@ -240,11 +240,11 @@ _Fool others into striking and retaliate._
  |
 | 
 
-(?) Ether [IconEther](Ether.md)
+70 Ether [IconEther](Ether.md)
 
  | 
 
-TBA
+N/A
 
  | 
 
@@ -256,7 +256,7 @@ TBA
 **Effect:** _Ready a stance for a brief moment. If hit during the stance, negate the attack, swap places with your opponent, and spawn a Visionshaper Clone on the right side of your opponent._
 
 -   The counter animation plays before the actual counter is activated, which may result in you being hit "during the counter".
--   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks) which spawns a clone of your opponent, similar to Mirror Illusion. (Bugged, just like Mirror Illusion 1/19/2026)
+-   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks) which spawns a clone of your opponent, similar to Mirror Illusion.
 -   User can't move while using Illusory Counter.
 
  |
@@ -312,7 +312,7 @@ _Mirror your opponents and use their arsenal to your advantage._
  |
 | 
 
-(?) Ether [IconEther](Ether.md)
+50 Ether [IconEther](Ether.md)
 
  | 
 
@@ -327,10 +327,10 @@ TBA
 
 **Effect:** _This mantra knocks back targets within its radius and creates an allied clone of them._
 
+-   Deals 30 damage.
 -   Has the same properties as allied Visionshaper clones, including Shaper Mimicry.
-    -   The clone stores the target's last used non-Visionshaper mantra or critical attack, and will attempt to use it on its target when using Reality Shift. (Currently bugged as of 3/21/2026, Clone will stand still and not follow commands, BUT this seems to only happen in PVE.)
-    -   Deals 30 (oath?) damage.
-    -   Only works on humanoids.
+    -   The clone stores the target's last used non-Visionshaper mantra or critical attack, and will attempt to use it on its target when using Reality Shift.
+-   Only works on humanoids.
 
  |
 

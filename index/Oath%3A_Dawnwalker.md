@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 213563
+revid: 214441
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers]
@@ -11,7 +11,7 @@ categories: [Oaths, The Divers]
 | Oath: Dawnwalker | |
 |---|---|
 | oath_req | 30 Kyrsan Medallions Power 15 |
-| effects | +3 Combat Mantra |
+| effects | +5% PEN, +3 Combat Mantra |
 
 “ You shall connect with the light around us, surrounding all of Lumen. ”
 
@@ -43,7 +43,7 @@ _**Reobtaining** Dawnwalker after [Oathbreaking](Oaths.md#oathbreaker---oath-rem
 
 ## Effects
 
-This Oath grants 3 Combat Mantra Slots. As for appearance, it changes the eye color of the user to white and creates a [Moonseye](Moonseye.md) symbol above their head, with a disk spinning around its axis. The Moonseye can be dyed and both the eye and the disc will follow the dye color.
+This Oath grants 3 Combat Mantra Slots and +5% PEN. As for appearance, it changes the eye color of the user to white and creates a [Moonseye](Moonseye.md) symbol above their head, with a disk spinning around its axis. The Moonseye can be dyed and both the eye and the disc will follow the dye color.
 
 ## Abilities
 
@@ -51,7 +51,7 @@ This Oath grants 3 Combat Mantra Slots. As for appearance, it changes the eye co
 
 -   **Absolute Radiance** - Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period.
     -   Activates after doing any amount of damage with dawnwalker mantras, last 7 seconds with a 12 second cooldown on proc.
-    -   While this is active, gain immunity to the following status effects: [Burn](Status_Effects.md#burn), [Chill](Status_Effects.md#chill), [Shock](Status_Effects.md#shock), [Suffocate](Status_Effects.md#suffocate), [Blindness](Status_Effects.md#obscured), [Metal Rods](Status_Effects.md#metal-rods), Saint Jay, Anti-Heal.
+    -   While this is active, gain immunity to the following status effects: [Burn](Status_Effects.md#burn), [Chill](Status_Effects.md#chill), [Shock](Status_Effects.md#shock), [Suffocate](Status_Effects.md#suffocate), [Blindness](Status_Effects.md#obscured), [Metal Rods](Status_Effects.md#metal-rods), Saint Jay, [Anti-Heal](Status_Effects.md#anti-heal).
     -   Does not clear any active elemental status effects, only prevents new ones from proccing.
 
 -   **Luminous Flash** - After dealing a certain amount of damage while in "Absolute Radiance", gain a chance to empower your strikes with pure light.
@@ -133,8 +133,8 @@ Costs 30 Kyrsan Medallions
 
 **Effect:** _User stands on their hands and spins, shooting beams of light out of their feet._
 
+-   Deals 9.33 damage per hit (18) for a total of 167.94 damage if all hits land.
 -   Has 1.2s windup, takes 2.1s to land all hits.
--   Deals 18 total hits of Oath damage, with 9.333 base damage per hit.
 
  |
 
@@ -202,8 +202,8 @@ Costs 15 Kyrsan Medallions
 
 **Effect:** _Teleport to your opponent with a flashing kick._
 
+-   Deals 19.5 damage per hut (2).
 -   Has 0.45s windup
--   Deals a base of 19.5 Oath damage twice.
 
  |
 
@@ -271,7 +271,7 @@ Costs 15 Kyrsan Medallions
 
 **Effect:** _User leaps into the air and then comes back down with an unparryable slam._
 
--   Deals 46.5 base Oath damage.
+-   Deals 46.5 damage.
 -   Takes 1.45s (to hit), 0.45s (to jump in air) + 1s to land.
 -   This Mantra is **unparryable** and guardbreaks if anybody attempts to do so.
 -   This move has an early hitbox. It registers a hit before the attack hits the ground. Make sure to dodge **before** the move is going to land.

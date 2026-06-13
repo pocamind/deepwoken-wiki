@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 213530
+revid: 214427
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -11,7 +11,7 @@ categories: [Oaths]
 | Oath: Blindseer | |
 |---|---|
 | oath_req | 40 Willpower, 3 Mental Fortress Talents |
-| effects | +1 Support Mantra, +1 Wildcard Mantra, +1 Combat Mantra, +10 Sanity |
+| effects | +1 Support Mantra, +1 Wildcard Mantra, +1 Combat Mantra, +10 Sanity, +5% PEN |
 
 “ The light rearranges into a missive now legible. It details the tenets of an Oath - that we are born with our eyes closed, and we merely choose to open them. ”
 
@@ -51,7 +51,7 @@ The hints toward how to progress this Oath are glyphs located at [Summer Isle](S
 
 ## Effects
 
-This Oath grants the player 1 Wildcard Mantra, 1 Support Mantra, 1 Combat Mantra slots and 10 Sanity.
+This Oath grants the player 1 Wildcard Mantra, 1 Support Mantra, 1 Combat Mantra slots, 10 Sanity, and +5% PEN.
 
 This Oath also grants the players full vision and increased brightness **while wearing a Blindfold**, it also cures the Blindness flaw. Blindseer appears as an eye in front of the player's Blindfold. When used with [Vesperians](Vesperian.md), they can be seen with two glowing prong-shaped markings and a glowing Blindseer icon above their mask. While you gain full vision, you still benefit from the positive effects of Blinded, namely the sanity bonus and the immunity to blinding mantras. You are not forced to keep the blindfold after obtaining the Oath.
 

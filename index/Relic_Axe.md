@@ -1,6 +1,6 @@
 ---
 title: Relic Axe
-revid: 212613
+revid: 214480
 source: https://deepwoken.fandom.com/wiki/Relic_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -32,12 +32,12 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Mu
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Stone Knight |
+| obtainment | Stone KnightBlizzard Knight |
 | description | ... |
 
 ## Description
 
-The Relic Axe is a [Heavy Weapon](Weapons.md) of legendary rarity that is obtainable as a rare direct drop from [Stone Knights](Stone_Knight.md) found in the [Starswept Valley](The_Starswept_Valley.md), [Saramaed Hollow](Saramaed_Hollow.md), or at any of the Star Trees respectively.
+The Relic Axe is a [Heavy Weapon](Weapons.md) of legendary rarity that is obtainable as a rare direct drop from [Stone Knights](Stone_Knight.md) found in the [Starswept Valley](The_Starswept_Valley.md), [Saramaed Hollow](Saramaed_Hollow.md), or at any of the Star Trees respectively. It can also dropped by the [Blizzard variant](Stone_Knight.md#blizzard-knight) of Stone Knights found in the [The Valley of Heroes](The_Valley_of_Heroes.md).
 
 ## Critical
 

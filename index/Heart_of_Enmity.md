@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 211219
+revid: 214478
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Bosses, Voiced Characters]
@@ -113,6 +113,12 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
  | The Heart of Enmity raises its arm and charges a pull attack, forcing players to go within the attack's blind spot near Enmity. Anybody caught outside the blind spot will be pulled and take serious damage.
 
 -   During this charge up, Enmity is free to be hit.
+
+_Uses Telegraph_
+
+[AvoidTelegraph](Combat_Mechanics.md#avoid)
+
+Avoid
 
  | 
 

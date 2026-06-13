@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 213539
+revid: 214428
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Central Authority]
@@ -11,7 +11,7 @@ categories: [Oaths, The Central Authority]
 | Oath: Chainwarden | |
 |---|---|
 | oath_req | Ally/Hero Reputation with The Central Authority, A sum of 40 points invested in Strength, Fortitude and Willpower |
-| effects | +1 Wildcard Mantra slot+2 Combat Mantra slot |
+| effects | +5% PEN, +1 Wildcard Mantra slot, +2 Combat Mantra slot |
 
 “ Chain those who oppose our justice. Should you find someone truly worthy of being ensnared by our chains, the Words will surely find you. ”
 
@@ -59,7 +59,7 @@ Known humanoid bosses are:
 
 ## Effects
 
-The Oath grants 2 Combat and 1 Wildcard mantra slots.
+The Oath grants 2 Combat Mantra Slots, 1 Wildcard Mantra Slot, and +5% PEN.
 
 As for appearance, it adds a chained gauntlet to your left arm, and a chained belt to the waist. The chains can be vividly dyed, however the gauntlet is much darker when recolored. If a pair of Cestus is equipped, the gauntlet overrides the appearance of the Cestus on the left arm, this effect however does not carry over to any similar [Arms Equipment](Equipment.md#arms) such as the [Moonseye Gauntlets](Moonseye_Gauntlets.md), keeping both gauntlets on the left arm.
 

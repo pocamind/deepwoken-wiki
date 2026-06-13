@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 213558
+revid: 214445
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -11,7 +11,7 @@ categories: [Oaths]
 | Saltchemist | |
 |---|---|
 | oath_req | 75 Intelligence, Complete Ciea's quest (1 time) |
-| effects | +1 Wildcard Mantra, +1 Support Mantra, +20 Carryload |
+| effects | +1 Wildcard Mantra, +1 Support Mantra, +20 Carry Load, +5% PEN |
 
 “ A wave of transcendent energy washes over you, and you feel as though you can see all of the fundamental building blocks of matter sprawled out like a wave in front of you. ”
 
@@ -152,11 +152,11 @@ _Lunge forward and inject the targeted person with all of your auto-brew potions
  |
 | 
 
-(?) Ether [IconEther](Ether.md)
+50 Ether [IconEther](Ether.md)
 
  | 
 
-TBA
+N/A
 
  | 
 
@@ -167,14 +167,13 @@ Crafting 1 [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers) + 1 [Pluripotent
 
 **Effect:** _Dash forward and stab the target with all your 3 auto-brew potions_
 
--   Costs 50 ether to cast.
 -   Has a 0.5sec windup.
 -   This injects all of the _negative_ effects of every potion in your Distillery, none of the positive effects will apply.
 -   Puts all potions in your Distillery on cooldown. If a potion is on cooldown when using Lethal Injection, its effect will be omitted from your Mantra.
 -   Has a shorter cooldown than your potions do.
 -   Has the unique property of being able to apply several of the same kind of potion.
 -   Deals a small amount of hit-stun.
--   Does **1** damage on hit, however damage potions can be added to your Distillery to make it deal more damage.
+-   Does **1** damage on hit as hitregistry, however damage potions can be added to your Distillery to make it deal more damage.
 -   Damage potions have a significantly reduced effect on Lethal Injection, dealing 1/3rd (33.333~%) of their original damage.
     -   Because of this, you'll have to heavily invest if you want your Lethal Injection to be a damage tool, potentially removing any support or debuff potions from your Distillery.
 -   Auto-tracks.

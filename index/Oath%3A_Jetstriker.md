@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 213564
+revid: 214442
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -11,7 +11,7 @@ categories: [Oaths]
 | Oath: Jetstriker | |
 |---|---|
 | oath_req | 50 Agility |
-| effects | +1 Wildcard Mantra, +1 Mobility Mantra, +8 Passive AgilityAll Talents Effects, +5 Health, +5 Ether, +12 Passive Agility |
+| effects | +1 Wildcard Mantra, +1 Mobility Mantra, +8 Passive Agility, +5% PENAll Talents Effects, +5 Health, +5 Ether, +12 Passive Agility |
 
 _For the version that existed prior to March 29, 2024, see [here](Oath%253A_Jetstriker/Old_Jetstriker.md)._
 
@@ -94,7 +94,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ## Effects
 
-On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot, and +8 Passive Agility. You will gain a new GUI identical to [Oath: Blightsurger](Oath%253A_Blightsurger.md), this however represents your "[momentum](#abilites)". You will also visually gain two dyable "Jetstriker Anklets" at your feet, and your eyes will now default to a slight desaturated light blue when undyed. (Images below) The talents will additionally provide you with a passive: +5 Health, +5 Ether, and +12 Passive Agility.
+On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot, +5% PEN, and +8 Passive Agility. You will gain a new GUI identical to [Oath: Blightsurger](Oath%253A_Blightsurger.md), this however represents your "[momentum](#abilites)". You will also visually gain two dyable "Jetstriker Anklets" at your feet, and your eyes will now default to a slight desaturated light blue when undyed. (Images below) The talents will additionally provide you with a passive: +5 Health, +5 Ether, and +12 Passive Agility.
 
 ## Abilities
 
@@ -143,7 +143,7 @@ On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot
 -   **Rush of Ancients** - Dashing at maximum sprint momentum makes you one with the wind itself. (+4 Passive Agility)
     -   Sprinting at maximum momentum, now buffs your rolls/air dashes, increasing distance by 75%, and briefly turning the user invisible.
     -   Jumping the frame after rolling increases the distance by an additional 70%.
-    -   Other dash boosting talents such as [Phantom Step](Talents.md#specter) with Rush of Ancients will stack, further increasing the roll's distance.
+    -   Other dash boosting talents such as [Phantom Step](Talents.md#phantom-step) with Rush of Ancients will stack, further increasing the roll's distance.
     -   Rollcasting with Rush of Ancients effectively hides your animations, causing uppercuts, quick mantras, and certain criticals to become completely unreactable.
     -   If you're using the Phantom Step Talent with Rush of Ancients, the dashes will stack, increasing your dash range. This, however, lacks visuals.
     -   Outside combat: has a cooldown of 0 seconds.
@@ -202,11 +202,11 @@ _Trick your opponent and quickly go behind them._
  |
 | 
 
-(?) Ether [IconEther](Ether.md)
+45 Ether [IconEther](Ether.md)
 
  | 
 
-TBA
+\[missing, add\]
 
  | 
 
@@ -217,7 +217,7 @@ TBA
 
 **Effect:** _Plays your current M1 animation as an "fake strike", then quickly teleports and strikes behind the target._
 
--   Deals 21.68 Oath damage 3 times, adding up to 65.04 Oath damage.
+-   Deals 21.68 damage per hit (3), adding up to 65.04 Oath damage.
 -   Recolors to your dye and increases base damage by 20% when used at 100% momentum.
 -   Slowly forces the user forwards, preventing user directional input. (Seen below)
     -   However does not prevent user from sliding, allowing user to move much faster.
@@ -277,11 +277,11 @@ _Rush forward with a jet kick. Requires a target if you're in combat._
  |
 | 
 
-(?) Ether [IconEther](Ether.md)
+45 Ether [IconEther](Ether.md)
 
  | 
 
-TBA
+\[missing, add\]
 
  | 
 
@@ -292,7 +292,7 @@ TBA
 
 **Effect:** _A simple dash that damages targets it comes in contact with._
 
--   Deals 38.25 Oath damage.
+-   Deals 38.25 damage.
 -   Recolors to your dye and increases base damage by 20% when used at 100% momentum.
 -   Out of combat, it simply targets in front of the player model, allowing free mobility.
 -   In combat, becomes mouse aimed, can target enemies upwards as well.
@@ -308,7 +308,7 @@ TBA
 
 ## Trivia
 
--   Jetstream Pursuit was derived from the old [Legendary Talent](Cut_Content.md#legendary-talents) 'Vanishing Follow-Up', which was removed once Layer 2 was released over combat reworks.
+-   Jetstream Pursuit was derived from the old [Legendary Talent](Cut_Content.md#legendary-talent) 'Vanishing Follow-Up', which was removed once Layer 2 was released over combat reworks.
 -   The old [Vigil's Grace](Oath%253A_Jetstriker/Old_Jetstriker.md#abilities) Talent previously had 0 downtime with [Command: Run](Vow_of_Mastery.md#commands), allowing players to infinitely true combo other players with knockdown, leading to the creation of knockdown immunity.
 -   Back when Talent categories had unique lines, the category line for Jetstriker was "Journey before destination."
 -   The old name "Windrunner" and Talent category line for Jetstriker are both references to _The Stormlight Archive_.

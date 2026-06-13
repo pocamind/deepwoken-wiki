@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 214331
+revid: 214439
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -11,7 +11,7 @@ categories: [Weapons, Oaths, The Hundred Legions]
 | Oath: Blightsurger | |
 |---|---|
 | oath_req | High Ally rep with The Hundred Legions, A sum of 80 points invested in Strength, Fortitude and Agility, 40 Galebreathe or Thundercall |
-| effects | +2 Combat Mantra Slots+1 Wildcard Mantra Slots |
+| effects | +5% PEN, +2 Combat Mantra Slots, +1 Wildcard Mantra Slots |
 
 | Sovereign Bangle | |
 |---|---|
@@ -127,7 +127,7 @@ You _**cannot**_ oath skip Blightsurger. Attempting to do will have Brutus beat 
     -   This does **not** proc on the Blightshock from Sovereign Bangle.
 
 -   **Blight Pierce** - Your Blightshock attacks pierce through your enemies hyperarmor and gain more penetration.
-    -   Blightshock now works similar to regular [Shock](Status_Effects.md#shock), canceling hyperarmor.
+    -   Blightshock now works similar to regular [Shock](Status_Effects.md#shock) canceling hyperarmor.
     -   Your Sovereign Bangle attacks, Skycrash, and Sovereign Drive now have +15% PEN.
     -   Your Warp Kick now has +20% PEN.
 
@@ -209,8 +209,8 @@ TBA
 -   Has a base damage of 35 with 1.65 Strength scaling.
 -   While under the effects of Sovereign State, Skycrash will automatically be used a second time.
     -   This followup strike has a base damage of 20 with 1.65 Strength scaling.
--   Ragdolls and applies Daze on hit.
--   During the leap, you will have hyperarmor for 1 second.
+-   Ragdolls and applies [Daze](Status_Effects.md#daze) on hit.
+-   During the leap, you will have [Hyperarmor](Status_Effects.md#hyperarmor) for 1 second.
 
  |
 | 
@@ -248,8 +248,8 @@ TBA
 **Effect:** _Rush forwards and knock down your foe._
 
 -   Has a base damage of 18 with with 1.65 Strength scaling.
--   Applies Daze and Blightshock on hit.
--   Knockdowns on hit.
+-   Applies [Daze](Status_Effects.md#daze) and [Blightshock](Status_Effects.md#blightshock) on hit.
+-   [Knockdowns](Status_Effects.md#knockdown) on hit.
 
  |
 
@@ -321,7 +321,7 @@ TBA
 -   Knocks the opponent back on the second hit, despite what is shown in the gif below.
 -   Teleports to opponents within range.
 -   This attack is counted as a weapon critical for Talent effects.
--   Applies Blightshock on hit.
+-   Applies [Blightshock](Status_Effects.md#blightshock) on hit.
 
  |
 

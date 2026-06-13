@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 213555
+revid: 214433
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -11,7 +11,7 @@ categories: [Oaths]
 | Oath: Fadetrimmer | |
 |---|---|
 | oath_req | Power 12, 12 haircuts |
-| effects | +2 Combat Mantra Slot, +1 Wildcard Mantra Slots |
+| effects | +2 Combat Mantra Slot, +1 Wildcard Mantra Slots, +5% PEN |
 
 “ Yeah. We are a pretty underground Oath. You probably haven't heard of us. ”
 
@@ -43,7 +43,7 @@ _Fadetrimmer **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oat
 
 ## Effects
 
-This Oath grants 1 Combat Mantra Slot, and 2 Wildcard Mantra Slots. As for appearance, the user has scissors hanging off the side of their hip.
+This Oath grants 1 Combat Mantra Slot, 2 Wildcard Mantra Slots, and +5% PEN. As for appearance, the user has scissors hanging off the side of their hip.
 
 ## Abilities
 
@@ -64,8 +64,8 @@ This Oath grants 1 Combat Mantra Slot, and 2 Wildcard Mantra Slots. As for appea
     -   Applies the spray that was selected in the Hair Products' popup menu.
     -   The sprays have no endlag, allowing you to use weapon attacks during their animations. This is very strong for burn synergies with the Flammable spray.
     -   All three hair products have a 10 second cooldown.
-        -   Flammable ignites the opponent or causes an Eruption if you have Flamecharm's [Eruption Path](Flamecharm.md#lava-serpent). Parryable and blockable.
-        -   Charming Charms the opponent for 15 seconds. Parryable and blockable.
+        -   Flammable [ignites](Status_Effects.md#burn) the opponent or causes an Eruption if you have Flamecharm's [Eruption Path](Flamecharm.md#lava-serpent). Parryable and blockable.
+        -   Charming [Charms](Status_Effects.md#charm) the opponent for 15 seconds. Parryable and blockable.
         -   Revitalizing heals a flat 10% HP of the target. 10s cd. Can heal non-allies and even mobs. Unparryable and unblockable.
 
 ### Mantras
@@ -125,7 +125,7 @@ _Close the distance and deliver a fast slash._
 
  | 
 
-Slash ResistanceSlash + Oath [ResistanceOath](Oaths.md)
+Oath [ResistanceOath](Oaths.md)
 
  | 
 
@@ -136,8 +136,7 @@ Obtained with the Oath
 
 **Effect:** _User aims in the direction of the cursor to a target, then dashes forward and performs a quick slash._
 
--   Deals 50 Oath DMG with 0 songchant.
--   Deals 56 Oath DMG with 6 songchant.
+-   Deals 50 damage.
 -   Deals 18 posture damage if blocked.
 -   Has 5% chip damage. This allows it to change your opponent's haircut even if they block it.
 -   Can be used for movement.
@@ -198,7 +197,7 @@ _Snip forward 3 times with your scissors!_
 
  | 
 
-Slash ResistanceSlash + Oath [ResistanceOath](Oaths.md)
+Oath [ResistanceOath](Oaths.md)
 
  | 
 
@@ -209,8 +208,7 @@ Obtained with the Oath
 
 **Effect:** _Wind up your scissors and throw out three quick cuts._
 
--   Deals 60 Oath DMG with 0 songchant (20 per hit).
--   Deals 67.2 Oath DMG with 6 songchant (22.4 per hit)
+-   Deals 60 damage (20 per hit).
 -   Deals 9 posture damage per hit.
 -   This move applies very low auto parry frames.
 -   Has a cooldown of 15 seconds.
@@ -228,9 +226,9 @@ Obtained with the Oath
     -   The spray itself does not move far from the point of use and doesn't carry the player's momentum, which makes attempting to land it while moving substantially more difficult.
 -   Although the Flammable and Charming hair sprays are parryable, they apply their full status effect on the very first tick, meaning that if you don't perfectly parry it, your parry won't do anything except end the move early. This makes blocking a much safer option when it comes to defending against this attack.
 -   Hair Product deals no posture damage and restores no posture upon being blocked/parried.
--   While the Charming Hair Product seems to be useless due to the existence of [Charismatic Cast](Talents.md#charm-caster), it actually does have some, somewhat niche uses.
+-   While the Charming Hair Product seems to be useless due to the existence of [Charismatic Cast](Talents.md#charismatic-cast), it actually does have some, somewhat niche uses.
     -   The Charm duration from the Charming Hair Product is 15 seconds, which is longer than Charismatic Cast's Charm, so it can be useful for low/no Charisma builds that cannot afford the Lasting Charisma Talent.
-    -   Additionally, the spray is technically a multihit with each hit applying Charm, so it will therefore proc [Narcissist's](Talents.md#toxic-personality) [Overcharm](Status_Effects.md#overcharm) instantly upon use.
+    -   Additionally, the spray is technically a multihit with each hit applying Charm, so it will therefore proc [Narcissist](Talents.md#narcissist)'s [Overcharm](Status_Effects.md#overcharm) instantly upon use.
 -   Flammable Hair Product is largely seen as useless due to it being a fairly slow option to apply burn/proc Eruptions that does no damage by itself- using [Flamecharm](Flamecharm.md) mantras applies burn/procs Eruptions while dealing actual damage at the same time.
     -   Additionally, due to burn and Eruptions scaling on your Flamecharm investment, the Flammable Hair Product will have very low damage output unless you have high Flamecharm investment... at which point it becomes almost entirely pointless.
 -   Due to Revitalizing, Fadetrimmer is a solid Oath choice for a support-based build, especially since the cooldown is very low and you can heal more than one ally at the same time with it. However, [Linkstrider](Oath%253A_Linkstrider.md) is still arguably the best support Oath.

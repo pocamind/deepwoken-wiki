@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 208852
+revid: 214420
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ignition Union]
@@ -11,7 +11,7 @@ categories: [Oaths, The Ignition Union]
 | Oath: Arcwarder | |
 |---|---|
 | oath_req | 20 Fortitude, 20 Flamecharm, 20 Thundercall, Completing Alpha's Quest |
-| effects | +1 Wildcard Mantra, +2 Combat Mantra |
+| effects | +5% PEN, +1 Wildcard Mantra, +2 Combat Mantra |
 
 “ Look at that! Seems like it fits you just fine. Why not go put it to practice? Hm... Although, it doesn't seem quite attuned to you yet. Nothing you can't figure out, I'm sure. ”
 

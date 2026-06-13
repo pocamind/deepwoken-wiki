@@ -1,6 +1,6 @@
 ---
 title: Moonseye Tome
-revid: 209156
+revid: 214482
 source: https://deepwoken.fandom.com/wiki/Moonseye_Tome
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Items]
@@ -19,7 +19,7 @@ categories: [Pathfinder Exclusive, Relics, Items]
 | droppable | Yes, but not on death |
 | pass down | No |
 | desc | A scrawled and raving account of the prophetic dream received by the Prophet Pariah of the Lullaby Isles, the short-lived leader of a Lunar Cult who voyaged into the Voidsea in the hopes of finding a stairway to the heavens. Though indecipherable, the tome seems to contain more pages than allowed by its size. All copies of the original volume were burnt, but even hundreds of years after its author's demise, new volumes spotaneously appear in libraries and chapels across the Central Luminant. They are swiftly burnt and all records expunged. |
-| obtainment | Chaser, Crypt of the Unbroken, First Layer, Diluvian Mechanism, Moon's Eyrie, Lysander Spellhardt, Primadon, Fishing, Hell Mode, Weird Trader, Heart of Enmity, Titus Fulminus Destellus, Sold in Traan Zakshun's black market for 4 , Goodie Bag |
+| obtainment | Chaser, Scholar of the Crimson Contract, Crypt of the Unbroken, First Layer, Diluvian Mechanism, Moon's Eyrie, Lysander Spellhardt, Primadon, Titan of the East, Fishing, Hell Mode, Weird Trader, Heart of Enmity, Titus Fulminus Destellus, Elder Primadon, The Titan Warlord, Sold in Traan Zakshun's black market for 4 , Goodie Bag |
 
 _This page is about the [Relic](Relics.md). For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._
 

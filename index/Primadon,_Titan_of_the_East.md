@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 208883
+revid: 214459
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -78,13 +78,15 @@ In the [Vow of Iron](Vow_of_Iron.md) gamemode however, it is not required to sum
 
 _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)._
 
-| Name | Description |
-| --- | --- |
+| Name | Description | Medias |
+| --- | --- | --- |
 | 
 **Stomp**  
 (★☆☆)
 
  | Primadon raises its **right** foot and stomps once.
+
+ | 
 
  |
 | 
@@ -93,6 +95,8 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
 (★☆☆)
 
  | Primadon performs 3 quick stomps with its **left** foot.
+
+ | 
 
  |
 | 
@@ -103,6 +107,8 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
  | Primadon winds up its **left** arm to deliver a powerful punch.
 
 -   Only used against players that are in front of him but not near his legs.
+
+ | 
 
  |
 | 
@@ -120,6 +126,8 @@ _Uses Telegraph_
 [HighPostureTelegraph](Combat_Mechanics.md#purple)
 
 High posture
+
+ | 
 
  |
 | 
@@ -140,6 +148,8 @@ _Uses Telegraph_
 
 Dodge
 
+ | 
+
  |
 | 
 
@@ -156,6 +166,8 @@ _Uses Telegraph_
 
 High posture
 
+ | 
+
  |
 | 
 
@@ -163,6 +175,8 @@ High posture
 (★☆☆)
 
  | Primadon jumps backward while throwing 1 rock at the player, creating distance between the two.
+
+ | 
 
  |
 | 
@@ -174,6 +188,8 @@ High posture
 
 -   Automatically used when dropping below 50% health
 -   Signified by a red mist that surrounds Primadon's body.
+
+ | 
 
  |
 

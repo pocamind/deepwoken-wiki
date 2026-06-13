@@ -1,9 +1,9 @@
 ---
 title: Combat Mechanics
-revid: 214340
+revid: 214475
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Mechanics]
+categories: [Mechanics]
 ---
 
 # Combat Mechanics
@@ -357,11 +357,11 @@ Defenses/Info
 | --- | --- | --- |
 | 
 
-Circle\*
+Guardbreak\*
 
- | File:CircleTelegraph.png | The color of this indicator changes depending on the attack used.  
+ |  | This indicator is most prevalent on attacks used by players that will instantly guardbreak if blocked, regardless of posture.  
 
-This indicator is most prevalent on attacks that can be used by players.  
+The color of this indicator changes depending on the attack used.  
 Not all unblockable attacks have this indicator.  
 
  |
@@ -390,9 +390,9 @@ Not all unblockable attacks have this indicator.
  |
 | 
 
-Crosshair\*
+Homing\*
 
- | File:CrosshairTelegraph.png | This indicator is most prevalent on attacks that make use of homing projectiles.  
+ |  | This indicator is most prevalent on attacks that make use of homing projectiles.  
 
 The animation and duration of this indicator changes depending on the time it will take to said projectiles to hit their target.  
 The color of this indicator changes depending on the attack used.  
@@ -614,9 +614,9 @@ Attacks with this indicator can be jumped over.
  |
 | 
 
-Skull
+Avoid
 
- | File:SkullTelegraph.png | You need to physically move out of the way of these attacks to dodge them.
+ |  | You need to physically move out of the way of these attacks to dodge them.
 
 Some of these attacks have unique mechanics regarding how/if they can be avoided. Please check the enemy pages for more info.  
 

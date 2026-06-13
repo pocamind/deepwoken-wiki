@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 210649
+revid: 214444
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Legendary Weapons, "Attunement-based Weapons"]
@@ -11,7 +11,7 @@ categories: [Weapons, Oaths, Weapons with Unique Criticals, "Weapons with Multi-
 | Oath: Saintsworn | |
 |---|---|
 | oath_req | 15 Flamecharm, Thundercall, Frostdraw, Galebreathe, ShadowcastResonate with every attunement obelisk |
-| effects | +2 Combat Mantra Slots, +2 Support Mantra Slots, +1 Wildcard Mantra Slot |
+| effects | +2 Combat Mantra Slots, +2 Support Mantra Slots, +1 Wildcard Mantra Slot, +5% PEN |
 
 | Saintsblade | |
 |---|---|
@@ -186,22 +186,357 @@ These Talents do not have modified effects depending on Saint Stance, and as suc
 
 Blade of Saints is the only Saintsworn Mantra. Blade of Saints varies in accordance to your current Saint Stance.
 
--   **Blade of Saints: Flamecharm Saint Stance**
-    -   Rise into the air, and slam down your Saintsblade to apply burn and knockdown to anyone hit.
+**Flamecharm:**
 
--   **Blade of Saints: Galebreathe Saint Stance**
-    -   You propel yourself forwards with the winds, uppercutting anyone in your wake.
-    -   Procs [Meteor Impact](Talents.md#meteor-impact).
+| 
+**Name**
 
--   **Blade of Saints: Shadowcast Saint Stance**
-    -   The Saintsblade releases a horizontal mid-range slash of darkness that pulls enemies along with it, knocking them up at the end of its path.
+ | 
 
--   **Blade of Saints: Frostdraw Saint Stance**
-    -   Use your Saintsblade to shoot out 3 crescent-shaped ice projectiles, followed up by a lunge which applies heavy knockback.
+**Ether Cost**
 
--   **Blade of Saints: Thundercall Saint Stance**
-    -   Slash twice with your Saintsblade, applying knockdown on the second hit, followed up by a devastating bolt of lightning that applies stun.
-    -   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the amount of lightning strikes.
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Blade of Saints** (☆☆☆)
+
+**Combat Mantra**
+
+_Conjure a blade attack depending on your Saint stance_
+
+ | 
+
+## Blade of Saints (☆☆☆)
+
+  
+**Combat Mantra**  
+_Conjure a blade attack depending on your Saint stance_
+
+ |
+| 
+
+50 Ether [IconEther](Ether.md)
+
+ | 
+
+Fire [ResistanceFlamecharm](Flamecharm.md)
+
+ | 
+
+Obtained with the Oath
+
+ |
+| 
+
+**Effect:** _Rise into the air, and slam down your Saintsblade to apply [burn](Status_Effects.md#burn) and [knockdown](Status_Effects.md#knockdown) to anyone hit._
+
+-   Upon changing your Saint Stance, this ability will change accordingly.
+
+ |
+
+**Frostdraw:**
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Blade of Saints** (☆☆☆)
+
+**Combat Mantra**
+
+_Conjure a blade attack depending on your Saint stance_
+
+ | 
+
+## Blade of Saints (☆☆☆)
+
+  
+**Combat Mantra**  
+_Conjure a blade attack depending on your Saint stance_
+
+ |
+| 
+
+50 Ether [IconEther](Ether.md)
+
+ | 
+
+Ice [ResistanceFrostdraw](Frostdraw.md)
+
+ | 
+
+Obtained with the Oath
+
+ |
+| 
+
+**Effect:** _Use your Saintsblade to shoot out 3 crescent-shaped ice projectiles, followed up by a lunge which applies heavy knockback._
+
+-   Upon changing your Saint Stance, this ability will change accordingly.
+
+ |
+
+**Galebreathe:**
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Blade of Saints** (☆☆☆)
+
+**Combat Mantra**
+
+_Conjure a blade attack depending on your Saint stance_
+
+ | 
+
+## Blade of Saints (☆☆☆)
+
+  
+**Combat Mantra**  
+_Conjure a blade attack depending on your Saint stance_
+
+ |
+| 
+
+50 Ether [IconEther](Ether.md)
+
+ | 
+
+Wind [ResistanceGalebreathe](Galebreathe.md)
+
+ | 
+
+Obtained with the Oath
+
+ |
+| 
+
+**Effect:** _You propel yourself forwards with the winds, uppercutting anyone in your wake._
+
+-   Procs [Meteor Impact](Talents.md#meteor-impact).
+-   Upon changing your Saint Stance, this ability will change accordingly.
+
+ |
+
+**Shadowcast:**
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Blade of Saints** (☆☆☆)
+
+**Combat Mantra**
+
+_Conjure a blade attack depending on your Saint stance_
+
+ | 
+
+## Blade of Saints (☆☆☆)
+
+  
+**Combat Mantra**  
+_Conjure a blade attack depending on your Saint stance_
+
+ |
+| 
+
+50 Ether [IconEther](Ether.md)
+
+ | 
+
+Shadow [ResistanceShadowcast](Shadowcast.md)
+
+ | 
+
+Obtained with the Oath
+
+ |
+| 
+
+**Effect:** _The Saintsblade releases a horizontal mid-range slash of darkness that pulls enemies along with it, knocking them up at the end of its path._
+
+-   Upon changing your Saint Stance, this ability will change accordingly.
+
+ |
+
+**Thundercall:**
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Blade of Saints** (☆☆☆)
+
+**Combat Mantra**
+
+_Conjure a blade attack depending on your Saint stance_
+
+ | 
+
+## Blade of Saints (☆☆☆)
+
+  
+**Combat Mantra**  
+_Conjure a blade attack depending on your Saint stance_
+
+ |
+| 
+
+50 Ether [IconEther](Ether.md)
+
+ | 
+
+Lightning [ResistanceThundercall](Thundercall.md)
+
+ | 
+
+Obtained with the Oath
+
+ |
+| 
+
+**Effect:** _Slash twice with your Saintsblade, applying [knockdown](Status_Effects.md#knockdown) on the second hit, followed up by a devastating bolt of lightning that applies stun._
+
+-   Gains additional hits when modified with [Cloud](Mantra_Modifiers.md#regular-modifiers) & [Stratus Stones](Mantra_Modifiers.md#regular-modifiers).
+-   Upon changing your Saint Stance, this ability will change accordingly.
+
+ |
 
 ## Dialogue
 
