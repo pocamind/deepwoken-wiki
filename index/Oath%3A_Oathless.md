@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 213876
+revid: 214352
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -147,7 +147,7 @@ _Harness your Chorus of Wisps to unleash a devastating blast._
 
  | 
 
-Oath [ResistanceOath](Oaths.md)(?)
+Oath [ResistanceOath](Oaths.md)
 
  | 
 

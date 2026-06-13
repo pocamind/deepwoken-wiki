@@ -1,6 +1,6 @@
 ---
 title: "Pariah's Keepsake"
-revid: 205857
+revid: 214381
 source: https://deepwoken.fandom.com/wiki/Pariah's_Keepsake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, The Divers]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings, The Divers]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Etrea VS Eylis Sea Event, Duke Ishamon Erisia, Deep Widow, Lodestar, First Layer, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Chime of Conflict, Any chest ( Luck Based ) |
+| obtainment | Etrea VS Eylis Sea Event, Duke Ishamon Erisia, Deep Widow, Lodestar, First Layer, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Chime of Conflict, Ancient Rotlands (Deep Cave), Any chest ( Luck Based ) |
 | description | You deal +20% extra damage to factions who hate you. |
 
 ## Description

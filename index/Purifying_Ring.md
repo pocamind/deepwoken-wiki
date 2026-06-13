@@ -1,6 +1,6 @@
 ---
 title: Purifying Ring
-revid: 181754
+revid: 214366
 source: https://deepwoken.fandom.com/wiki/Purifying_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Etrea VS Eylis Sea Event, First Layer, Lodestar, Duke Ishamon Erisia, Heart of Enmity, Maestro Evengarde Rest, Dread Serpent, War Mode |
+| obtainment | Chests from:, Etrea VS Eylis Sea Event, First Layer, Lodestar, Duke Ishamon Erisia, Heart of Enmity, Maestro Evengarde Rest, Dread Serpent, War Mode, Ancient Rotlands (Deep Cave) |
 | description | A silver ring that eradicates the murk in the water surrounding it. |
 
 ## Description

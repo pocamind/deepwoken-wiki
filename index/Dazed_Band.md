@@ -1,6 +1,6 @@
 ---
 title: Dazed Band
-revid: 205847
+revid: 214368
 source: https://deepwoken.fandom.com/wiki/Dazed_Band
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Etrea vs Eylis Sea Event, Miner's Landing, Duke Ishamon Erisia, Lodestar, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Heart of Enmity, First Layer, Maestro Evengarde Rest, War Mode, Dread Serpent, Saramaed Hollow, Deep Widow, Authority Ensign Missions |
+| obtainment | Chests from:, Etrea vs Eylis Sea Event, Miner's Landing, Duke Ishamon Erisia, Lodestar, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Heart of Enmity, First Layer, Maestro Evengarde Rest, War Mode, Dread Serpent, Saramaed Hollow, Deep Widow, Authority Ensign Missions, Ancient Rotlands (Deep Cave) |
 | description | Flourishing an opponent has a chance to stun them automatically. |
 
 ## Description

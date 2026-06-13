@@ -1,6 +1,6 @@
 ---
 title: Gold Ring
-revid: 205849
+revid: 214376
 source: https://deepwoken.fandom.com/wiki/Gold_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Lower Erisia, Polis, LodestarVow of Iron:, Spear Dancer Memento |
+| obtainment | Chests from:, Lower Erisia, Polis, Lodestar, Ancient Rotlands (Deep Cave)Vow of Iron:, Spear Dancer Memento |
 | description | A simple gold ring. |
 
 ## Description
