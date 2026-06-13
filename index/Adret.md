@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 211566
+revid: 214264
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -145,15 +145,15 @@ Adret has a set of optional face markings that come in a variety of colors depen
 
 -   [Ishan](Ishan.md), an NPC in the [Summer Isle](Summer_Isle.md) refers to the Adret as "_different_", stating that they did not come from the "Old World", but rather from somewhere else, theorizing that they come from the waves. He also cites that they are the only aspect that is not related to an animal.
 -   There appears to be a heavy Adretian presence in the Central Authority military's upper ranks.
--   Adret are **not** fish.[\[1\]](#cite-note-1)
--   According to Arch\_Mage, Adret were made with some inspiration from the Goliath aspect from D&D and Obligators from Mistborn. Their face tattoos are directly inspired by Mistborn.[\[2\]](#cite-note-2)[\[3\]](#cite-note-3)
+-   Adret are **not** fish.[\[1\]](#cite-note-1)[\[2\]](#cite-note-2)
+-   According to Arch\_Mage, Adret were made with some inspiration from the Goliath aspect from D&D and Obligators from Mistborn. Their face tattoos are directly inspired by Mistborn.[\[3\]](#cite-note-3)[\[4\]](#cite-note-4)
 -   During the 4/1/2022 April Fools update (Mudwoken), Adret's aspect name was changed to Markskipper.
 -   Adret innate Talent stacks with Autodidact, meaning every single time you get a power up, you get 6 points instead of the usual 3.
 -   Namesake of the [Adretian Axe](Adretian_Axe.md) and [Adretian Aegis](Adretian_Aegis.md).
--   Note: The passive Autodidact you gained from the aspect can stack with the Autodidact boon.(not confirmed or patched)
 
 ## References
 
 1.  [↑](#cite-ref-1)
 2.  [↑](#cite-ref-2)
 3.  [↑](#cite-ref-3)
+4.  [↑](#cite-ref-4)

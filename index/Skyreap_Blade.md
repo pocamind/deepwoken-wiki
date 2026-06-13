@@ -1,6 +1,6 @@
 ---
 title: Skyreap Blade
-revid: 211231
+revid: 214245
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Greataxes, Event Item, Hallowtide, Heavy Weapons]
@@ -47,6 +47,8 @@ The first two swings deal 20 posture damage while the third guard breaks.
 The critical has the following scaled damage multipliers: 0.6x (first two hits) + 1x (third hit), totaling up to a 2.2x damage multiplier.
 
 This critical will end early if any hit is parried or if the first hit whiffs entirely. This critical has a **9 second cooldown**.
+
+  
 
 ## Trivia
 

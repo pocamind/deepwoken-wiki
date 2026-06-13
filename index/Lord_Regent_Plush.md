@@ -1,6 +1,6 @@
 ---
 title: Lord Regent Plush
-revid: 214222
+revid: 214248
 source: https://deepwoken.fandom.com/wiki/Lord_Regent_Plush
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Promotional Content, Merchandise]
