@@ -1,6 +1,6 @@
 ---
 title: Fury Nautilodaunt
-revid: 214514
+revid: 214527
 source: https://deepwoken.fandom.com/wiki/Fury_Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Depths]
@@ -122,13 +122,13 @@ Dodge
 -   **Monster Resistance** - Physical attacks deal ??? less damage to Nautilodaunts.
 -   **Monster Resistance** - has 70-80% elemental reduction.
 
-## **Combat / Tips**
+## Combat / Tips
 
 While the normal variant of this enemy has the health equivalent to a [Megalodaunt](Megalodaunt.md), making it the weakest of the endgame tier mobs in terms of stats, the Fury Nautilodaunt has an increased health pool by 1400 points, making it a bit of a tougher encounter. It has an incredible amount of resistance to a variety of attack types, and it's also unique in the fact that it has a much smarter AI along with the ability to **Block**, **Parry**, and **Dodge**.
 
 While this mob can **not** be merely stat checked, most strategies that work on [The Enforcer](Enforcer.md) will also work on the Nautilodaunt, aside from the fact that he has much higher damage. Even with it's near-immunity to[Mantras](Mantras.md), it can still be posture broken incredibly fast and easily with mantras such as[Tornado](Galebreathe.md#tornado) or [Caltrops](Ironsing.md#caltrops). Take note that with the additional health of this variant comes the passive ability of applying the Electrifying status effect, making it harder to land a hit with the true-stun and removal of hyper-armor.
 
-Keep in mind standard humanoid boss PVE tactics such as stacking attacks, grouping up, and running to heal can still work against this mob, and due to it's incredibly low health at 2400 (which can reach numbers as small as 150-200 with PvE Scaling,) it will die incredibly fast. It also cannot reliably parry Critical Attacks if a feint is used beforehand, making instant guardbreak crits such as the [Pernach](Pernach.md) and a majority of [Heavy Weapons](Weapons.md) like the [Evanspear Greataxe](Evanspear_Greataxe.md) for example will make this mob into a far easier challenge.
+Keep in mind standard humanoid boss PVE tactics such as stacking attacks, grouping up, and running to heal can still work against this mob, and due to it's incredibly low health at 2400 (which makes it increasingly susceptible to PvE scaling), it will die incredibly fast. It also cannot reliably parry Critical Attacks if a feint is used beforehand, making instant guardbreak crits such as the [Pernach](Pernach.md) and a majority of [Heavy Weapons](Weapons.md) like the [Evanspear Greataxe](Evanspear_Greataxe.md) for example will make this mob into a far easier challenge.
 
 However, without a "cheese weapon," such as the aforementioned [Evanspear Greataxe](Evanspear_Greataxe.md), each of the Nautilodaunt's attacks can prove difficult, so they will be gone through in order:
 

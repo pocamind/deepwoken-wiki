@@ -1,6 +1,6 @@
 ---
 title: Lost Diver
-revid: 205006
+revid: 214523
 source: https://deepwoken.fandom.com/wiki/Lost_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, The Divers]
@@ -10,7 +10,7 @@ categories: [Pathfinder Exclusive, Enemies, The Divers]
 
 | Lost Diver | |
 |---|---|
-| health | 1,000 |
+| health | 1000 |
 | drops | Markor's Inheritor |
 | weapon | Markor's Inheritor |
 | moves | Assault, Critical, Gale Lunge, Prominence Draw |
@@ -18,10 +18,6 @@ categories: [Pathfinder Exclusive, Enemies, The Divers]
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-“ The Drowned shall never know peace. ”
-
-― Lost Diver
 
 ## Description
 
@@ -90,6 +86,5 @@ A Lost Diver executes it's opponent after knocking them:
     -   Help us.
     -   Help us. Please.
 -   They only use [Galebreathe](Galebreathe.md), fitting as they are trapped in the Layer 2, The Eternal Gale.
--   As their outfit and name suggests, these were most likely Divers (specifically Black Divers) who got lost during an expedition into the Second Layer, and lost their sanity.
-    -   However, they still seem to have some humanity left in them, as they beg the player for help before attacking them.
--   Their death phrase, 'The Drowned shall never know peace.', likely refers to how a human's soul is never truly destroyed, instead shattering and being remolded into new beings such as [Krulians](Krulian.md).
+-   As their outfit and name suggests, these were most likely Black Divers who found their way into New Kyrsa. However, they still seem to have some humanity left in them, as they beg the player for help before attacking them.
+-   Their death phrase, 'The Drowned shall never know peace.' likely refers to how a human's soul is never truly allowed to pass on, instead shattering to pieces.

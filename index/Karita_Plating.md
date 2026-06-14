@@ -1,6 +1,6 @@
 ---
 title: Karita Plating
-revid: 214098
+revid: 214516
 source: https://deepwoken.fandom.com/wiki/Karita_Plating
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Weapons with Unique Criticals, Weapons with Talents, "Core-Attribute based weapons", Fists, Justicars, Legendary Weapons, Weapons with multiple Criticals]
@@ -43,6 +43,8 @@ This content is not accessible outside of this gamemode.
 ## Description
 
 Karita Plating is a legendary [Jus Karita](Jus_Karita.md) Light Weapon. To obtain this weapon, speak to [Konga The Third](Konga_The_Third.md) while being a Vanguard [Justicar](<Justicar_(Origin).md>) and meeting this weapon's stat requirements.
+
+It was created by [Konga the 2nd](Konga_the_2nd.md) for use in conjunction with the Konga lineage's Slider Style.
 
 ## Talents
 

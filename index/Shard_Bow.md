@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 210940
+revid: 214538
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -54,4 +54,4 @@ When obtained, Shard Bow will spend its points on the following stats:
 -   Possibly a reference to the Risk of Rain Huntress ability called "Ballista" which makes you jump into the sky and fire three "energy bolts."
 -   Shard bow's string stretches when pulled back, unlike real world bows, in which the string does not stretch, but rather the legs bend.
 -   Shard bow appears to be a 'Bare bow' which is an unmodified version of a recurve bow.
--   Due a bug, the Corrupted variant had Flamecharm scaling, increasing its base damage from 100 to up to 105.
+-   Due a bug, the Corrupted variant had Flamecharm scaling, increasing its base damage from 70 to up to 105.

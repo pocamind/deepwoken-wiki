@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 213716
+revid: 214543
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -446,7 +446,7 @@ Cast your [Imperator's Edge](<Imperator's_Edge.md>) neutral critical twice with 
 
 ### Krulian Charge
 
-Applied from using the [Krulian Knife](Krulian_Knife.md) Critical, gain a pink [Shock](#shock) effect on your basic attacks for 10 seconds. Also grants a {{status|Speed Boost|speed boost\]\] for the same duration. Additionally, this changes your Krulian Knife's critical into a pink [Lightning Assault](Thundercall.md#lightning-assault)\-like attack. This effect can be passed onto other weapons if you swap weapons, but the special critical and visual effect is exclusive to the Krulian Knife. Signified by your weapon cackling with light pink lightning.
+Applied from using the [Krulian Knife](Krulian_Knife.md) Critical, gain a pink [Shock](#shock) effect on your basic attacks for 10 seconds. Also grants a [Speed Boost](#speed-boost) for the same duration. Additionally, this changes your Krulian Knife's critical into a pink [Lightning Assault](Thundercall.md#lightning-assault)\-like attack. This effect can be passed onto other weapons if you swap weapons, but the special critical and visual effect is exclusive to the Krulian Knife. Signified by your weapon cackling with light pink lightning.
 
 ### Cruel Counter
 

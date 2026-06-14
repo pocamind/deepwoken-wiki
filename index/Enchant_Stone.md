@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 213619
+revid: 214539
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Enchantments, Weapon Enchantments]
@@ -45,7 +45,7 @@ Most of the game's Enchant Stones have non-exclusive obtainment locations, meani
 
 These Enchant Stones can only be obtained through certain methods. These are: Astral, Bluster, Curse of Ysley's Ember, Curse of The Authoritative, Curse of Void, Harrowing, Nightbringer, Parasol's Blight, and Windswept.
 
--   _**[Astral](Astral.md)**_ can only be obtained from the [Weird Trader](Weird_Trader.md), in the chest at [Moon's Eyrie](<Moon's_Eyrie.md>), or as a drop from [Star Knights](Star_Knight.md) and [Moon Knights](Moon_Knight.md). Astral can also be sold for 15 in [Traan Zakshun's](Traan_Zakshun.md) black market.
+-   _**[Astral](Astral.md)**_ can only be obtained from the [Weird Trader](Weird_Trader.md), in the chest at [Moon's Eyrie](<Moon's_Eyrie.md>), or as a drop from [Star Knights](Star_Knight.md) and [Moon Knights](Moon_Knight.md). Astral can also be sold for 10 in [Traan Zakshun's](Traan_Zakshun.md) black market.
 -   _**[Bluster](Bluster.md)**_ can be obtained from [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) or bought from [Traan Zakshun](Traan_Zakshun.md) in his black market for 5.
 -   _**[Curse of Captain Greene](Curse_of_Captain_Greene.md)**_ can be exclusively bought from [The Gaunt Man](The_Gaunt_Man.md) for 1 [Exotic Hide](Exotic_Hide.md).
 -   _**[Curse of the Authoritative](Curse_of_the_Authoritative.md)**_ can only be obtained from [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
