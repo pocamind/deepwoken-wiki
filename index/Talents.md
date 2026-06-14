@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 214206
+revid: 214510
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2482,7 +2482,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Recover sanity when killing monsters in The Depths, the amount depending on how strong the monster is.
     -   You regain Sanity when Allies grip a humanoid near you (either a player or a mob).
     -   Prerequisites: 10 Willpower, Breathing Exercise
-    -   The [Diver's Light Plate](<Diver's_Light_Plate.md>) equipment has this Talent.
+    -   The [Diver's Light Plate](<Diver's_Light_Plate.md>) and [Enforcer Boots](Enforcer_Boots.md) equipment have this Talent.
 
 -   Disbelief \[Common Talent, Willpower\] - Reduces the duration of illusions cast on you by 30%. Halves the duration of the [y](Status_Effects.md#ncl) status on you. (+5 Sanity)
     -   [Visionshaper](Oath%253A_Visionshaper.md) clones that are targeting you have their duration reduced by 30%.

@@ -1,9 +1,11 @@
 ---
 title: Sanguine Candle
-revid: 186363
+revid: 214511
 source: https://deepwoken.fandom.com/wiki/Sanguine_Candle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive]
+categories: [Stub pages without reason, StubPages, Vow of Iron Exclusive]
+notices:
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Sanguine Candle
