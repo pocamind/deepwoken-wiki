@@ -1,6 +1,6 @@
 ---
 title: Worshipper Longsword
-revid: 213114
+revid: 214489
 source: https://deepwoken.fandom.com/wiki/Worshipper_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Talents, The Covenant of Flame]
@@ -17,7 +17,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons wit
 | scaling | MED: 4 |
 | posture damage | 5 |
 | range | 8 Sweep |
-| swing speed | 1.03x |
+| swing speed | 1x |
 | attack duration | 0.6s |
 | talent | Belief - Your medium weapon mantras now deal extra damage based on how much Willpower you have. |
 | m.equip | Yes |

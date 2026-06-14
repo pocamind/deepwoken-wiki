@@ -1,6 +1,6 @@
 ---
 title: Gale Enhanced Ring
-revid: 210344
+revid: 214486
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, Craftable]
@@ -24,7 +24,7 @@ categories: [Equipment, Rings, Craftable]
 
 ## Description
 
-**Gale Enhanced Ring** is a Ring [Equipment](Equipment.md) piece that grants its user the ability to proc [Suffocation](Status_Effects.md#suffocate) when you flourish an opponent.
+**Gale Enhanced Ring** is a Ring [Equipment](Equipment.md) piece that grants its user the ability to proc [Suffocation](Status_Effects.md#suffocate) when they flourish an opponent.
 
 The Suffocation status effects lasts for 4.5 seconds. If you have the [Apparitions](Talents.md#apparitions) Talent from the [Specter Path](Talents.md#haunted-gale-specter), this Ring will instead spawn an Apparition that attacks the target, applying [Winded](Status_Effects.md#winded) for 5 seconds.
 

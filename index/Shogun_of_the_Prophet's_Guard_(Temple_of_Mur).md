@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 213798
+revid: 214483
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Individuals with He/him pronouns, Enemies, Etrea Enemies]
@@ -164,23 +164,15 @@ Dodge
 
 ## Tips
 
-It is recommended to enter the [Temple of Mur](Temple_of_Mur.md) [Boundary](Boundary.md) to unlock it for future runs as it allows you to very quickly retry the boss if you fail.
-
-The Shogun has no set attack pattern, and will chain moves together seemingly at random. It will not however use the same attack twice in a row.
-
-You can tell whenever he is are attacking or not by the sudden snaps in stance; use this to your advantage to deal or avoid incoming damage.
-
-Attempting to kite The Shogun and kill them with ranged attacks will prove tedious; he will will parry any attack attempted from a distance unless they are in the middle of an attack animation.
-
-The Shogun's attacks have deceivingly large hitboxes. If you don't know if you will be hit, it's best to assume you will, and to act accordingly.
-
-The Shogun of the Prophet's Guard has minimal downtime between attacks, chaining them together at great speeds.
-
-The Shogun has 2 attacks with blind spots: Crush & Rend and Severing Flourish can be walked behind after his first hit.
-
-If you attempt to parry Low Cleave, you can still crouch under it despite being in lingering block frames, However this is not recommended, as this just puts extra stress on you for almost no upside
-
-**The Shogun can use his ultimate attack more than once. Remember to look out for it at all times once he is below half health.**
+-   It is recommended to enter the [Temple of Mur](Temple_of_Mur.md) [Boundary](Boundary.md) to unlock it for future runs as it allows you to very quickly retry the boss if you fail.
+-   The Shogun has no set attack pattern, and will chain moves together seemingly at random. It will not however use the same attack twice in a row.
+-   You can tell whenever he is are attacking or not by the sudden snaps in stance; use this to your advantage to deal or avoid incoming damage.
+-   Attempting to kite The Shogun and kill them with ranged attacks will prove tedious; he will will parry any attack attempted from a distance unless they are in the middle of an attack animation.
+-   The Shogun's attacks have deceivingly large hitboxes. If you don't know if you will be hit, it's best to assume you will, and to act accordingly.
+-   The Shogun has minimal downtime between attacks, chaining them together at great speeds.
+-   The Shogun has 2 attacks with blind spots: Crush & Rend and Severing Flourish can be walked behind after his first hit.
+-   If you attempt to parry **Low Cleave**, you can still crouch under it despite being in lingering block frames, However this is not recommended, as this just puts extra stress on you for almost no benefit.
+-   **The Shogun can use his ultimate attack more than once. Remember to look out for it at all times once he is below half health.**
 
 ## Trivia
 
