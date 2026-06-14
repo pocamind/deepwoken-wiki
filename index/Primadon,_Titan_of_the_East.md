@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 214459
+revid: 214495
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -123,9 +123,9 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#purple)
+[DodgeTelegraph](Combat_Mechanics.md#red)
 
-High posture
+Dodge
 
  | 
 
@@ -162,9 +162,9 @@ Dodge
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#purple)
+[DodgeTelegraph](Combat_Mechanics.md#red)
 
-High posture
+Dodge
 
  | 
 

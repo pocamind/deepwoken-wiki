@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt Officiate
-revid: 200140
+revid: 214505
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt_Officiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with reason, InProgressPages, Monsters, The Depths]
@@ -90,12 +90,6 @@ Guardbreak
 
  | Nautilodaunt Officiate initiates a full sprint before committing to a drop kick on its prey.
 
-_Uses Telegraph_
-
-[ParryTelegraph](Combat_Mechanics.md#cyan)
-
-Parry
-
  | 
 
  |
@@ -113,7 +107,7 @@ _Uses Telegraph_
 
 [DodgeTelegraph](Combat_Mechanics.md#red)
 
-Dodge
+Red
 
  | 
 
@@ -129,9 +123,9 @@ Dodge
 
 _Uses Telegraph_
 
-[JumpTelegraph](Combat_Mechanics.md#white)
+[JumpTelegraph](Combat_Mechanics.md#magenta)
 
-Jump
+Magenta
 
  | 
 

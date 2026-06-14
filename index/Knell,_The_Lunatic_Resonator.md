@@ -1,6 +1,6 @@
 ---
 title: "Knell, The Lunatic Resonator"
-revid: 214491
+revid: 214494
 source: https://deepwoken.fandom.com/wiki/Knell%2C_The_Lunatic_Resonator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Anansi NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, Enemies, Bosses, Deceased characters, Voiced Characters]
@@ -348,9 +348,9 @@ Knell, The Lunatic Resonator executes his opponent after knocking them:
 
 ## Trivia
 
--   Knell's final Bestiary name is a possible reference to the song "For Whom The Bell Tolls" by Metallica ,as they also had a previous Metallica based event featuring their 72 seasons album release, [here](https://youtube.com/watch?v=B_HSa1dEL9s&is=cIXw9OtuDMw_GHOO)
 -   Knell's name comes from the noun used to describe the sound of a bell, especially when rung solemnly for a death or funeral.
 -   Knell is the only entity whose title in the [Bestiary](Bestiary.md) differs from their usual name.
+-   Knell's final Bestiary name is a possible reference to the song "For Whom The Bell Tolls" by Metallica, as they also had a previous Metallica based event featuring their 72 seasons album release, [here](https://youtube.com/watch?v=B_HSa1dEL9s&is=cIXw9OtuDMw_GHOO).
 -   Knell and his fight appear to be heavily inspired by the boss [Widow](https://hollowknight.wiki/w/Widow) from _Hollow Knight: Silksong_. Both have extremely similar attacks with rushdown swipes, and the myriads of thrown bell attacks. The two also share a design detail of two pins lodged in their backs.
 -   Knell does not respawn after being defeated, on account of being [dead](Death.md). If one wishes to fight him again, one must ask [Yun'Shul, Keeper of Hearts](<Yun'Shul,_Keeper_of_Hearts.md>) to return him from [The Depths](The_Depths.md) to the surface via an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) or the [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
     -   This makes Knell the only boss to permanently die in the [Pathfinder](Pathfinder.md) gamemode without player input:

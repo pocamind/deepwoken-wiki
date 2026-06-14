@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 214442
+revid: 214496
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -206,7 +206,7 @@ _Trick your opponent and quickly go behind them._
 
  | 
 
-\[missing, add\]
+Oath [ResistanceOath](Oaths.md)
 
  | 
 
@@ -281,7 +281,7 @@ _Rush forward with a jet kick. Requires a target if you're in combat._
 
  | 
 
-\[missing, add\]
+Oath [ResistanceOath](Oaths.md)
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 214446
+revid: 214497
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -201,7 +201,7 @@ _Close the distance and deliver a fast slash using your Ardour._
 
  | 
 
-\[missing, add\]
+Oath [ResistanceOath](Oaths.md)
 
  | 
 
@@ -276,7 +276,7 @@ _Channel your Rhythm and track down your opponent._
 
  | 
 
-[Blunt](Status_Effects.md#blunt)
+Blunt ResistanceBlunt
 
  | 
 
@@ -350,7 +350,7 @@ _Slip out of perception and deliver a brutal kick._
 
  | 
 
-[Blunt](Status_Effects.md#blunt)
+Blunt ResistanceBlunt
 
  | 
 

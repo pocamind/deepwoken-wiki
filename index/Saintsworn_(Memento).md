@@ -1,6 +1,6 @@
 ---
 title: Saintsworn (Memento)
-revid: 208362
+revid: 214503
 source: https://deepwoken.fandom.com/wiki/Saintsworn_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -57,6 +57,358 @@ The Saintsworn is a resolute champion, drawing power from the sacred forces of t
             -   **[Winter's Protection](Talents.md#winters-protection)**: Effect _with Ether Proselyte_ is currently unknown.
 
 -   Verses of Harmony \[Memento Talent\] - Each elemental stance grants access to select talents from the corresponding attunement.
+
+**Flamecharm:**
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Blade of Saints** (☆☆☆)
+
+**Combat Mantra**
+
+_Conjure a blade attack depending on your Saint stance_
+
+ | 
+
+## Blade of Saints (☆☆☆)
+
+  
+**Combat Mantra**  
+_Conjure a blade attack depending on your Saint stance_
+
+ |
+| 
+
+50 Ether [IconEther](Ether.md)
+
+ | 
+
+Fire [ResistanceFlamecharm](Flamecharm.md)
+
+ | 
+
+N/A
+
+ |
+| 
+
+**Effect:** _Rise into the air, and slam down your Saintsblade to apply [burn](Status_Effects.md#burn) and [knockdown](Status_Effects.md#knockdown) to anyone hit._
+
+-   Upon changing your Saint Stance, this ability will change accordingly.
+
+ |
+
+**Frostdraw:**
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Blade of Saints** (☆☆☆)
+
+**Combat Mantra**
+
+_Conjure a blade attack depending on your Saint stance_
+
+ | 
+
+## Blade of Saints (☆☆☆)
+
+  
+**Combat Mantra**  
+_Conjure a blade attack depending on your Saint stance_
+
+ |
+| 
+
+50 Ether [IconEther](Ether.md)
+
+ | 
+
+Ice [ResistanceFrostdraw](Frostdraw.md)
+
+ | 
+
+N/A
+
+ |
+| 
+
+**Effect:** _Use your Saintsblade to shoot out 3 crescent-shaped ice projectiles, followed up by a lunge which applies heavy knockback._
+
+-   Upon changing your Saint Stance, this ability will change accordingly.
+
+ |
+
+**Galebreathe:**
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Blade of Saints** (☆☆☆)
+
+**Combat Mantra**
+
+_Conjure a blade attack depending on your Saint stance_
+
+ | 
+
+## Blade of Saints (☆☆☆)
+
+  
+**Combat Mantra**  
+_Conjure a blade attack depending on your Saint stance_
+
+ |
+| 
+
+50 Ether [IconEther](Ether.md)
+
+ | 
+
+Wind [ResistanceGalebreathe](Galebreathe.md)
+
+ | 
+
+N/A
+
+ |
+| 
+
+**Effect:** _You propel yourself forwards with the winds, uppercutting anyone in your wake._
+
+-   Procs [Meteor Impact](Talents.md#meteor-impact).
+-   Upon changing your Saint Stance, this ability will change accordingly.
+
+ |
+
+**Shadowcast:**
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Blade of Saints** (☆☆☆)
+
+**Combat Mantra**
+
+_Conjure a blade attack depending on your Saint stance_
+
+ | 
+
+## Blade of Saints (☆☆☆)
+
+  
+**Combat Mantra**  
+_Conjure a blade attack depending on your Saint stance_
+
+ |
+| 
+
+50 Ether [IconEther](Ether.md)
+
+ | 
+
+Shadow [ResistanceShadowcast](Shadowcast.md)
+
+ | 
+
+N/A
+
+ |
+| 
+
+**Effect:** _The Saintsblade releases a horizontal mid-range slash of darkness that pulls enemies along with it, knocking them up at the end of its path._
+
+-   Upon changing your Saint Stance, this ability will change accordingly.
+
+ |
+
+**Thundercall:**
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Blade of Saints** (☆☆☆)
+
+**Combat Mantra**
+
+_Conjure a blade attack depending on your Saint stance_
+
+ | 
+
+## Blade of Saints (☆☆☆)
+
+  
+**Combat Mantra**  
+_Conjure a blade attack depending on your Saint stance_
+
+ |
+| 
+
+50 Ether [IconEther](Ether.md)
+
+ | 
+
+Lightning [ResistanceThundercall](Thundercall.md)
+
+ | 
+
+N/A
+
+ |
+| 
+
+**Effect:** _Slash twice with your Saintsblade, applying [knockdown](Status_Effects.md#knockdown) on the second hit, followed up by a devastating bolt of lightning that applies stun._
+
+-   Gains additional hits when modified with [Cloud](Mantra_Modifiers.md#regular-modifiers) & [Stratus Stones](Mantra_Modifiers.md#regular-modifiers).
+-   Upon changing your Saint Stance, this ability will change accordingly.
+
+ |
 
 ## Verses of Harmony
 

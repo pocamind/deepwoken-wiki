@@ -1,6 +1,6 @@
 ---
 title: Naerotiv
-revid: 211462
+revid: 214502
 source: https://deepwoken.fandom.com/wiki/Naerotiv
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Individuals with unspecified pronouns]
@@ -12,8 +12,9 @@ categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Second
 |---|---|
 | name | Naerotiv |
 | species | Kyrsan |
+| pronouns | He/him[1] |
 | location | Kyrsan Wilds |
-| family | Frosviernr Joraelnaero |
+| family | Frosviernr Joraelnaero (brother) |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -25,15 +26,13 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Naerotiv is a [Kyrsan](Kyrsgarde.md) NPC. They are located to the right of the entrance to the [second floor](Second_Layer/New_Kyrsa.md) of the [Second Layer](Second_Layer.md#new-kyrsa-the-sleeping-city-f2). They have a brother named [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md) further into the city, who made and gives the player the [Kyrswynter](Kyrswynter.md). Interacting with Naerotiv is needed as a step to obtain the aforementioned [Kyrswynter](Kyrswynter.md).
+Naerotiv is a [Kyrsan](Kyrsgarde.md) NPC. He is located to the right of the entrance to the [second floor](Second_Layer/New_Kyrsa.md) of the [Second Layer](Second_Layer.md#new-kyrsa-the-sleeping-city-f2). He has a brother named [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md) further into the city, who made and gives the player the [Kyrswynter](Kyrswynter.md). Interacting with Naerotiv is needed as a step to obtain the aforementioned [Kyrswynter](Kyrswynter.md).
 
-Naerotiv tells you how the [City](Second_Layer/New_Kyrsa.md) came to be today, about how the [Kyrsans](Kyrsgarde.md) once lived, and where they built a shrine over [Ethiron's scion](Scion_of_Ethiron.md) to ensure it remains asleep, which eventually led to the [City](Second_Layer/New_Kyrsa.md) being developed.
+Naerotiv tells you how the [City of New Kyrsa](Second_Layer/New_Kyrsa.md) came to be today, about how the [Kyrsans](Kyrsgarde.md) once lived, and where they built a shrine over [Ethiron's Scion](Scion_of_Ethiron.md) to ensure it remains asleep, which eventually led to the City being developed. He mentions of how they used a ritual, namely the The Ninefold Blessings of Marrow, to ensure the Scion remains asleep. When the Ninth blessing was left incomplete as a result of the Kyrsans attempting to harness the puppet's power.
 
-Naerotiv also tells you of how they used a ritual, namely the _**The Ninefold Blessings of Marrow**_, to ensure that [Ethiron's puppet](Scion_of_Ethiron.md) remains asleep. Until The Scholars thought of harnessing the puppet's power, which ultimately led to the [Kyrsan's](Kyrsgarde.md) downfall. With the ritual failing on the last, ninth, step.
+Once the Scion was awoken, it released a sound, a Tone of Song, which deafened everyone around the City. A sound that turned all of the [Kyrsans](Kyrsgarde.md) nearby into puppets, just like itself.
 
-Once [Ethiron's puppet](Scion_of_Ethiron.md) was awoken, it released a sound, a Tone of Song, which deafened everyone around the [City](Second_Layer/New_Kyrsa.md). A sound that turned all of the [Kyrsans](Kyrsgarde.md) nearby into puppets, just like itself.
-
-Naerotiv urges the Pathfinder to set their kind free by completing the ritual and sealing the [Scion of Ethiron](Scion_of_Ethiron.md) away for good. If not, the Gale present in the [Second Layer](Second_Layer.md) would seep through and eventually engulf the Surface as well.
+Naerotiv urges the Pathfinder to set his kind free by completing the ritual and sealing the [Scion of Ethiron](Scion_of_Ethiron.md) away for good. If not, the Gale present in the [Second Layer](Second_Layer.md) would seep through and eventually engulf the Surface as well.
 
 ## Dialogue
 
@@ -149,3 +148,5 @@ Naerotiv urges the Pathfinder to set their kind free by completing the ritual an
 -   [Alpha](Alpha.md) mentions of how [The Ignition Union](The_Ignition_Union.md) is trying to use the Gale to harness infinite power as well, same as The Scholars.
     -   But that idea was the very thing that led to the [Kyrsan's](Kyrsgarde.md) downfall.
 -   His name, "Naerotiv" is a play on the word "narrative".
+
+1.  [↑](#cite-ref-1) Frosvierner Joraelnaero
