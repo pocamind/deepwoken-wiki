@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 214416
+revid: 214547
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -95,6 +95,8 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 
 -   **Unmatched Dexterity** - Press X to Quick Swap between weapons within your toolbar.
     -   Swaps your current weapon with a random one on your hotbar.
+        -   Weapon swap will not swap to a weapon you are currently holding (not equipped, but holding the weapon out).
+        -   You can use this to confirm a weapon swap while using 3 weapons.
     -   This Talent passively allows Silenthearts to manually swap equipment or weapons while in danger as well.
     -   Notably, the [Curse of the No Life King](Curse_of_the_No_Life_King.md) and [Curse of Void](Curse_of_Void.md) curse effects of always having a stained healthbar have their durations extended for 60 seconds upon taking damage. This means you cannot avoid being sent to [The Depths](The_Depths.md) by swapping to a non-cursed weapon just before being knocked Unconscious.
 

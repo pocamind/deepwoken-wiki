@@ -1,6 +1,6 @@
 ---
 title: Blessed Gem
-revid: 213127
+revid: 214576
 source: https://deepwoken.fandom.com/wiki/Blessed_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]
@@ -27,7 +27,7 @@ The **Blessed Gem** is a teal diamond-shaped [Deep Gem](Deep_Gems.md).
 
 ## Effect
 
-Upon landing a Mantra with a Blessed Gem equipped, the cooldown of your Mantra will instantly be halved. This effect has a 5 second cooldown.
+Upon landing a Mantra with a Blessed Gem equipped, the cooldown of your Mantra will instantly be halved. If the Mantra only starts its cooldown once it ends, the cooldown will only be halved if the final part of the Mantra lands. This effect has a 5 second cooldown.
 
 ### Notes
 

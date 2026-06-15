@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 214438
+revid: 214585
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -28,8 +28,6 @@ categories: [Oaths]
 The Bladeharper Oath is a result of the player conducting a **Reflection Ritual** at the Sky Statues scattered around the [Luminants](Luminants.md). The user makes a Vow with their own weapon, to spend the rest of their future with their own blade, out of the many futures presented to them during the Reflection Ritual.
 
 ## Obtainment
-
-**NOTE:** As of 13/05/2026, Obtainment and progression are currently bugged. While you still have to fight your mirror six times total for all the talents and mantras, you currently have to fight three of these mirrors per trial. The first one grants the usual rewards for the first encounter, though the second one grants the talents and mantras for the second and third encounter, making the last [Sky Statue](Sky_Statue.md) optional. This makes obtaining the Oath substantially more difficult than it otherwise would be.
 
 1.  The Oath requires 25 AGL or STR, plus either 75 points in Medium Weapon or a total of 90 points spread across any Weapon stats. The weapon equipped by a player must also not be [Fists](Fists.md), else the interaction will not start the Oath quest.
 2.  Interact with one of the numerous [Sky Statues](Sky_Statue.md) located throughout both Luminants. This will transport you to Blade Within.

@@ -1,6 +1,6 @@
 ---
 title: Iron Requiem
-revid: 213362
+revid: 214568
 source: https://deepwoken.fandom.com/wiki/Iron_Requiem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Pistols, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Weapons with multiple Criticals, Weapons of The Ignition Union]
@@ -45,6 +45,8 @@ The Iron Requiem has a [Bullet](Bullets.md) capacity of 6, meaning you get a lit
 For the **standing critical**, the user fires a large bullet that explodes on contact. The critical has 42 base damage with 5 Ironsing Scaling, dealing 63 damage at 100 Ironsing. Deals 14 posture damage if blocked.
 
 For the **running critical**, whip around wildly and continuously fire the pistol around your opponent, applying a rod each time the pistol is fired. This critical can fire up to 4 or less bullets, and will not work if there is no ammo loaded. This attack has a base damage of 12 per hit with 5 Ironsing scaling, dealing 18 damage per hit at 100 Ironsing. Deals 1.5 posture damage per hit if blocked.
+
+The cooldown on both criticals is 7 seconds.
 
 ## Trivia
 
