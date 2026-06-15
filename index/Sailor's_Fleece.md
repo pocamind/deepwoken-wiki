@@ -1,9 +1,9 @@
 ---
 title: "Sailor's Fleece"
-revid: 210785
+revid: 214808
 source: https://deepwoken.fandom.com/wiki/Sailor's_Fleece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Equipment with Styles]
+categories: [Equipment with Styles, Equipment, Arms]
 ---
 
 # Sailor's Fleece
@@ -14,6 +14,7 @@ categories: [Equipment, Arms, Equipment with Styles]
 | rarity | Uncommon |
 | selling price | 14 |
 | weight | 2 |
+| styles | Dark Corduroy, Dark Knit, Light Knit, Light Corduroy |
 | innate stats | +1 Posture , +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |

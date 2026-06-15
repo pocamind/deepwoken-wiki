@@ -1,9 +1,9 @@
 ---
 title: Specialist Boots
-revid: 210800
+revid: 214814
 source: https://deepwoken.fandom.com/wiki/Specialist_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
+categories: [Equipment with Styles, Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Specialist Boots
@@ -15,6 +15,7 @@ categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses, Equi
 | selling price | N/A |
 | requirements | Power 20, 30 Galebreathe, 30 Thundercall |
 | weight | 1 |
+| styles | 21st Legion, 49th Legion, 84th Legion, The Immortals |
 | innate stats | +1 Posture , +1 Uncommon Pip |
 | innate talent | Flashwind |
 | set | Specialist Helmet, Specialist Plate, Specialist Boots |
@@ -53,6 +54,8 @@ Damage modifiers and the PvE damage multiplier do not count towards this thresho
 After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
 
 1.  1 [Shock Trooper Boots](Shock_Trooper_Boots.md) + 15 [Smith's Alloys](<Smith's_Alloy.md>) + 3 [Windswept Enchant Stones](Enchant_Stone.md).
+
+  
 
 ## Navigation
 

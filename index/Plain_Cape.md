@@ -1,14 +1,14 @@
 ---
 title: Plain Cape
-revid: 209844
+revid: 214730
 source: https://deepwoken.fandom.com/wiki/Plain_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Torso, Capes]
+categories: [Equipment, Torso, Capes, Equipment with Styles]
 ---
 
 # Plain Cape
 
-| Cape | |
+| Plain Cape | |
 |---|---|
 | type | Torso |
 | rarity | Uncommon |
@@ -26,4 +26,4 @@ categories: [Equipment, Torso, Capes]
 
 ## Description
 
-Capes are an [Equipment](Equipment.md) item under the "Torso" category. They can be found through chests in [Minityrsa](Minityrsa.md) and [Songseeker Wilds](Songseeker_Wilds.md).
+The Plain Cape is an [Equipment](Equipment.md) item under the "Torso" category. They can be found through chests in [Minityrsa](Minityrsa.md) and [Songseeker Wilds](Songseeker_Wilds.md).

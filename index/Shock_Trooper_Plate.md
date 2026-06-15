@@ -1,9 +1,9 @@
 ---
 title: Shock Trooper Plate
-revid: 210795
+revid: 214815
 source: https://deepwoken.fandom.com/wiki/Shock_Trooper_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Plates]
+categories: [Equipment with Styles, Equipment, Arms, Plates]
 ---
 
 # Shock Trooper Plate
@@ -15,6 +15,7 @@ categories: [Equipment, Arms, Plates]
 | selling price | N/A |
 | requirements | Power 10 |
 | weight | 2 |
+| styles | 21st Legion, 49th Legion, 84th Legion, The Immortals |
 | innate stats | +5 Health , +2 Rare Pips |
 | set | Shock Trooper Helmet, Shock Trooper Plate, Shock Trooper Boots |
 | set talent | N/A |

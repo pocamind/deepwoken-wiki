@@ -1,9 +1,9 @@
 ---
 title: Imperial Boots
-revid: 210509
+revid: 214834
 source: https://deepwoken.fandom.com/wiki/Imperial_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Legs, Boots]
+categories: [Equipment with Styles, Equipment, Legs, Boots]
 ---
 
 # Imperial Boots
@@ -15,6 +15,7 @@ categories: [Equipment, Legs, Boots]
 | selling price | 14 |
 | requirements | Power 10 |
 | weight | 1 |
+| styles | Brushed, Galvanized |
 | innate stats | +5 Health , +2 Rare Pips, +1 Legendary Pip |
 | innate talent | N/A |
 | set | Imperial Pauldrons, Imperial Boots |
@@ -28,7 +29,7 @@ categories: [Equipment, Legs, Boots]
 
 ## Description
 
-Imperial Boots are an [Equipment](Equipment.md) item under the "Legs" category. They can be found through chests in [Aratel Island](Aratel_Island.md).
+The Imperial Boots are an [Equipment](Equipment.md) item under the "Legs" category.
 
 ## Trivia
 

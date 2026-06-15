@@ -1,6 +1,6 @@
 ---
 title: Iron Blunderbuss
-revid: 212712
+revid: 214668
 source: https://deepwoken.fandom.com/wiki/Iron_Blunderbuss
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, Medium Weapons, Weapons of The Summer Company]
@@ -18,7 +18,7 @@ categories: [Weapons, Rifles, Medium Weapons, Weapons of The Summer Company]
 | posture damage | 5 |
 | range | 8 Sweep |
 | swing speed | 0.97x |
-| penetration | 25% |
+| penetration | 10% |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed |

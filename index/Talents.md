@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 214510
+revid: 214770
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2081,7 +2081,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Inquisitive Lethality
 
--   **Backstabber** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage.
+-   **Backstabber** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage. \[15 second CD\]
     -   Procs on M1s, [Silentheart](Oath%253A_Silentheart.md) abilities, and criticals with the M1 tag.
     -   This Talent does not have a range limit.
     -   Applies daze and ragdolls.
@@ -2224,14 +2224,11 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   While Amped, you take 10% more damage from all sources.
     -   Deals Thundercall self damage with hitstun and applies Shock/Surge Rods to yourself on cast, if used without being carried.
     -   If used while Carried, it deals damage to the player who is carrying you, forcing them to drop you. If used while not being Carried, it deals 5% of your **current** health as Thundercall self damage, and self applies 1 [Surge Rod](Status_Effects.md#overloaded)/[Shock](Status_Effects.md#shock) with hitstun.
-        -   Wearing the [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) will remove the self damage and self status application, and wearing the [Deepscorn Casque](Deepscorn_Casque.md) will reduce the self damage. Wearing both will heal you a flat 3% og your maximum health upon using Electrify.
+        -   Wearing the [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) will remove the self damage and self status application, and wearing the [Deepscorn Casque](Deepscorn_Casque.md) will reduce the self damage. Wearing both will heal you a flat 12 health upon using Electrify.
     -   Formerly known as Static Withdraw.
     -   Prerequisites: 25 Thundercall
 
--   Amplified Reflexes \[Common Talent, Thundercall\] - Amped now grants enhanced speed and parkour, but triples the self-damage on use and doubles its cooldown.
-    -   Increases Electrify's cooldown from 1 minute to 2.
-    -   Deals 15% of your **current** health as Thundercall self ddamag.
-        -   [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) and [Deepscorn Casque](Deepscorn_Casque.md) can still be used, providing the same benefits as they do on base Electrify.
+-   Amplified Reflexes \[Common Talent, Thundercall\] - Amped now grants enhanced speed and parkour.
     -   Increases walk speed by 50% and grants a 20% buff to climb height. All other forms of parkour and movement are unaffected by Amplified Reflexes.
     -   Formerly known as Jumpstart.
     -   Prerequisites: 35 Thundercall, Electrify
@@ -3411,7 +3408,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Has a 70 second cooldown at 0 Charisma, with every point of Charisma reducing its cooldown by 0.25 seconds. This has a 66.25 second cooldown at 15 Charisma, 60 second cooldown at 40 Charisma, and 45 second cooldown at 100 Charisma.
     -   Prerequisite: 40 Charisma
 
--   Snake Oil \[Common Talent, Charisma\] - Gain 40% more Notes from selling items.
+-   Snake Oil \[Common Talent, Charisma\] - Gain 40% more Notes from selling items. This is getting downright criminal. But I'm just a talent description, I can't stop you.
     -   Prerequisite: 30 Charisma
 
 ### Songmaster
@@ -4492,6 +4489,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   Uppercutting your opponent applies the [Vital Wound](Status_Effects.md#vital-wound) status effect, reducing their **passive** posture recovery by 30% for 30 seconds.
     -   This has no cooldown, but cannot be reapplied to the same target once active.
 
+-   Worshipper's Tolerance: [Worshipper's Shield](<Worshipper's_Shield.md>) - Reduce the burn damage you take by 15%. While on fire, parrying an opponent's attack now sets them on fire \[45 second CD\].
+
 ## Equipment Talents
 
 Certain Talents are given when a specific Equipment or Outfit is worn. Multiple copies of the same Talent do not stack. Equipment Talents are listed in alphabetical order:
@@ -4526,7 +4525,10 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 -   Benefactor: [Varicosan Finery](Varicosan_Finery.md) - Gain reputation for selling goods to Antiquarians within faction territories.
     -   Grants faction [reputation](Reputation.md) when selling items to their respective Antiquarian.
 
--   Blinded: [Blindfold](Blindfold.md) & Variants - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.
+-   Blind Spot: [Inquisitor's Visor](<Inquisitor's_Visor.md>) - Land Critical Attack or Hidden Blade Apply [Blinded](Status_Effects.md#blinded) for 5 seconds.
+    -   15 second cooldown.
+
+-   Blinded: [Blindfold](Blindfold.md) - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.
     -   Makes everything darker and creates fog at long distances
     -   Even though the [Blindseer](Oath%253A_Blindseer.md) Oath grants full vision even with a Blindfold, the Talent still works.
     -   The Talent grants immunity to the [Flame Blind](Flamecharm.md#flame-blind) and [Gaze](Attunement-less.md#gaze) Mantras.
@@ -4571,7 +4573,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 
 -   Circuit Breaker: [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) - Electrify no longer deals self-damage on use.
     -   The Electrify Talent tool no longer consumes health on use.
-    -   When paired with the [Deepscorn Casque](Deepscorn_Casque.md) Talent, Already Dead, using Electrify will cause you to heal instead.
+    -   When paired with the [Deepscorn Casque](Deepscorn_Casque.md) Talent, Already Dead, using Electrify will cause you to heal 12 health instead.
 
 -   Coldseep Reactor: [Grand Fisher Helm](Grand_Fisher_Helm.md) - By cultivating the localized chemosynthetic microorganisms within the Depths and utilizing them as a power source, your helm thrums with a protective field of static electricity and heat.
     -   Grants full immunity to the [Second Layer's](Second_Layer.md) Parasites.
@@ -4596,13 +4598,15 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 -   Cruentare: [Crimson Terraplate Pauldrons](Crimson_Terraplate_Pauldrons.md) - Increase the amount of all [bleed](Status_Effects.md#bleed) damage you deal by 50%. Your [Whirling Blade](Monster_Mantras.md#whirling-blade) now heals you when landing it.
     -   Whirling Blade heals you for 25% of damage dealt.
 
+-   Dancing Steps of War - When landing a flourish, gain a speed boost and massively reduce the cooldown of your dodges for 2 seconds.
+    -   The duration of this effect can be increased by proccing Etrean Sashimo's Talent, [Traditional Execution](#traditional-execution).
+
 -   Demon Step: [Familiar Demon's Armor](<Familiar_Demon's_Armor.md>) - Activate to gain brief iframes while moving forward. This requires 50 ether to activate and increases your posture by 20% each use.
     -   On use, lose 50 Ether to travel a short distance forwards in iframes. Additionally, 20% of your current posture will be dealt to you as self-posture damage.
     -   1 second cooldown.
 
--   Destructive Yell: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md) - Your Ardour Screams now break campfires around you, while increasing its range by 2x.
+-   Destructive Yell: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md) - Your Ardour Screams now break campfires around you and have a larger AoE.
     -   Your Ardour Scream now destroys all campfires within its range.
-    -   Also doubles the range of your Ardour Scream.
 
 -   Devastating Power: [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) - Gain extra Ether for every Mantra in your arsenal.
     -   Gain 10 Ether for every Mantra you have equipped.
@@ -4897,6 +4901,8 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 -   Survivalist: [Pathfinder Cloak](Pathfinder_Cloak.md) & [Ranger's Boots](<Ranger's_Boots.md>) - Resist the effects of Weather Effects.
     -   Reduces the damage taken from [Acid Rain](Environmental_Hazards.md).
 
+-   Swift Blade: Blademaster Robe - Proccing [Wind Gem](Wind_Gem.md) now gives you 10% more light attack posture during its duration. Extend the duration of [Wind Gems](Wind_Gem.md) by 2 seconds.
+
 -   Tempest Evolution: [Tempestmaker's Threads](<Tempestmaker's_Threads.md>) - Your slide-jumped [Wind Blades](Galebreathe.md#wind-blade) are naturally stronger and if landed grant +20% damage in the air for a few seconds.
     -   Grants a 20% damage buff to your slide-jump [Wind Blade](Galebreathe.md#wind-blade). Also increases its range.
 
@@ -4915,12 +4921,16 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Only grants a 10% damage buff, the Talent was nerfed but the description was never changed.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
 
+-   Thresher Thrasher: [Thresher Charm](Thresher_Charm.md) - Adapt to the ways of the thresher, increasing how long you are able to stay underground with [Beast Burrow](Monster_Mantras.md#beast-burrow) by 30%, and reducing its cooldown by 25%.
+
 -   Tidekeeper: [Celtorian Tideknight](Celtorian_Tideknight.md) - Losing 25% of your health within the span of 3 seconds grants a 15% damage buff, 20% defense buff, and prevents from being knocked for 10 seconds.
 
 -   Tidal Shock: [Cala-Mariner](Cala-Mariner.md) - Landing a successful Critical Attack will temporarily put you in a state where you dodge all mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\], as well as dazing your opponent.
     -   Your Critical attacks will apply Daze on hit.
     -   For the next 4s after landing your Critical attack, if you were to be hit by any Mantra, you'll automatically dodge the Mantra, voiding its damage. The dodge vfx is similar to [Nautilodaunt's](Nautilodaunt.md) Vent vfx, but it displaces you physically.
     -   13 second cooldown.
+
+-   Traditional Execution: [Etrean Sashimono](Etrean_Sashimono.md) - Flourishing an opponent turns your next critical attack into the [Katana](Katana.md) critical attack. Also extends [Dancing Steps Of War](#dancing-steps-of-war)'s effects by 0.5 seconds.
 
 -   Umami: [Chef's Toque](<Chef's_Toque.md>) - Feast on foes with mighty cutlery. Chef Weapons now steal opponents hunger.
     -   Has a 35% chance to proc with a 3 cooldown per **proc attempt**, going on cooldown even if it fails to proc.
@@ -5010,6 +5020,9 @@ Certain Talents are given when you equip a full equipment set, though not all eq
     -   This applies the [Fearful](Status_Effects.md#fearful) status effect for 19 seconds.
     -   Wrath gems have a 10 second cooldown, meaning you can potentially disable your opponent's ability to use their critical indefinitely.
     -   Reinforced War Set: [Reinforced War Helmet](Reinforced_War_Helmet.md), [Reinforced War Plate](Reinforced_War_Plate.md), [Reinforced War Boots](Reinforced_War_Boots.md)
+
+-   Momentum: Blademaster Set - Speed boosts now give you a bit of extra chip based on how fast the speed boosts are making you.
+    -   Blademaster Set: [Blademaster's Robe](<Blademaster's_Robe.md>), [Geta](Geta.md)
 
 -   Offensive Recovery: Ascended Outlaw Set - If all your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] have [Might Gems](Might_Gem.md) equipped, lose posture any time you hit opponents block with a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].
     -   If **all** of your Mantras have a [Might Gem](Might_Gem.md) equipped, hitting your opponent's block with Mantras will restore your posture.

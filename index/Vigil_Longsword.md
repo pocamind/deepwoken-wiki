@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 213649
+revid: 214781
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Alloyable Weapons, Weapons with Unique Criticals, Medium Weapons, Weapons with Talents, Weapons of Etrea]
@@ -45,7 +45,7 @@ With the use of a [Pluripotent Alloy](Pluripotent_Alloy.md), Alloyed Vigil Longs
 
 Equipping the Vigil Longsword grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Swedping Edge** increases the size of your [Master's Flourish](Attunement-less.md#masters-flourish) and allows it to proc "on-flourish" effects.
+**Sweeping Edge** increases the size of your [Master's Flourish](Attunement-less.md#masters-flourish) and allows it to proc "on-flourish" effects.
 
 [Dazing Finisher](Talents.md#dazing-finisher) does not work with this.
 

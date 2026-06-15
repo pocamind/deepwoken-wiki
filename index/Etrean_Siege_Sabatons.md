@@ -1,9 +1,9 @@
 ---
 title: Etrean Siege Sabatons
-revid: 210037
+revid: 214793
 source: https://deepwoken.fandom.com/wiki/Etrean_Siege_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Legs, Sabatons, Etrea]
+categories: [Equipment with Styles, Equipment, Legs, Sabatons]
 ---
 
 # Etrean Siege Sabatons
@@ -15,6 +15,7 @@ categories: [Equipment, Legs, Sabatons, Etrea]
 | selling price | 25 |
 | requirements | Power 5 |
 | weight | 1 |
+| styles | Anaconda, Cobra, Default, Mamba, Psammophis |
 | innate stats | +4 Health |
 | innate talent | N/A |
 | set | Etrean Siege Cuirass, Etrean Siege Sabatons |
@@ -28,6 +29,4 @@ categories: [Equipment, Legs, Sabatons, Etrea]
 
 ## Description
 
-Etrean Siege Sabatons are an [Equipment](Equipment.md) item under the "Legs" category.
-
-They can be found through chests in the [Second Layer](Second_Layer.md) and [Crypt of the Unbroken](Crypt_of_the_Unbroken.md).
+The Etrean Siege Sabatons are an [Equipment](Equipment.md) item under the "Legs" category.

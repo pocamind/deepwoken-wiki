@@ -1,9 +1,9 @@
 ---
 title: Specialist Helmet
-revid: 210798
+revid: 214816
 source: https://deepwoken.fandom.com/wiki/Specialist_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
+categories: [Equipment with Styles, Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Specialist Helmet
@@ -15,6 +15,7 @@ categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses, Eq
 | selling price | 25 |
 | requirements | Power 20, 30 Galebreathe, 30 Thundercall |
 | weight | 1 |
+| styles | 21st Legion, 49th Legion, 84th Legion, The Immortals |
 | innate stats | +8 Health |
 | innate talent | Volt Draft |
 | set | Specialist Helmet, Specialist Plate, Specialist Boots |
@@ -32,7 +33,7 @@ Variants: [Plate](Specialist_Plate.md) · [Boots](Specialist_Boots.md)
 
 ## Description
 
-The Specialist Helmet is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Head" category, and is a part of the Shock Trooper Set. Worn by Legion Shock Troopers, the Shock Trooper Helmet is a black and gold full plate helmet.
+The Specialist Helmet is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Head" category, and is a part of the Shock Trooper Set. Worn by Legion Shock Troopers, the Specialist Helmet is a black and gold full plate helmet.
 
 [Volt Draft](Talents.md#volt-draft) allows your Inhale-enhanced basic attacks to strike your opponent with a Storm Strike. This has a 5 second duration after using Inhale with a 20 Second cooldown.
 
@@ -57,6 +58,8 @@ After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within th
 1.  1 [Shock Trooper Helmet](Shock_Trooper_Helmet.md) + 2 [Warden's Armor Pieces](<Warden's_Armor_Piece.md>) + 2 [Storm Enchant Stones](Enchant_Stone.md).
 2.  1 [Shock Trooper Helmet](Shock_Trooper_Helmet.md) + 1 [Ferryman's Coat Cloth](<Ferryman's_Coat_Cloth.md>) + 1 [Storm Enchant Stone](Enchant_Stone.md).
 3.  1 [Shock Trooper Helmet](Shock_Trooper_Helmet.md) + 1 [Duke's Coat Fiber](<Duke's_Coat_Fiber.md>) + 1 [Storm Enchant Stone](Enchant_Stone.md).
+
+  
 
 ## Navigation
 

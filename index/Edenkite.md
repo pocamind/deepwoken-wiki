@@ -1,6 +1,6 @@
 ---
 title: Edenkite
-revid: 212039
+revid: 214750
 source: https://deepwoken.fandom.com/wiki/Edenkite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Content not present in-game", Sapient species]
@@ -16,6 +16,8 @@ categories: ["Content not present in-game", Sapient species]
 **Content is not present in-game**  
 The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
 E.G. a character mentioned in a book doesn't exist as an interactible NPC.
+
+  
 
 ## Description
 

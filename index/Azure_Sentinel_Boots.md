@@ -1,6 +1,6 @@
 ---
 title: Azure Sentinel Boots
-revid: 205831
+revid: 214629
 source: https://deepwoken.fandom.com/wiki/Azure_Sentinel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -17,7 +17,7 @@ categories: [Equipment, Legs, Boots]
 | weight | 1 |
 | innate stats | +2 Rare Pips |
 | innate talent | N/A |
-| set | Azure Royal Guard, Azure Royal Guard Boots |
+| set | Azure Royal Guard, Azure Sentinel Boots |
 | set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -28,4 +28,4 @@ categories: [Equipment, Legs, Boots]
 
 ## Description
 
-The Azure Royal Guard Boots are an [Equipment](Equipment.md) item under the "Legs" category.
+The Azure Sentinel Boots are an [Equipment](Equipment.md) item under the "Legs" category.

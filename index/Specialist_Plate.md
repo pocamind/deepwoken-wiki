@@ -1,9 +1,9 @@
 ---
 title: Specialist Plate
-revid: 210799
+revid: 214819
 source: https://deepwoken.fandom.com/wiki/Specialist_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
+categories: [Equipment with Styles, Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Specialist Plate
@@ -15,6 +15,7 @@ categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses, Equ
 | selling price | N/A |
 | requirements | Power 20, 30 Galebreathe, 30 Thundercall |
 | weight | 2 |
+| styles | 21st Legion, 49th Legion, 84th Legion, The Immortals |
 | innate stats | +5 Health , +1 Rare Pip |
 | innate talent | Stormcall |
 | set | Specialist Helmet, Specialist Plate, Specialist Boots |
@@ -57,6 +58,8 @@ After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within th
 1.  1 [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 3 [Storm Enchant Stones](Enchant_Stone.md).
 2.  1 [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) + 3 [Storm Enchant Stone](Enchant_Stone.md).
 3.  1 [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 1 [Storm Enchant Stone](Enchant_Stone.md).
+
+  
 
 ## Navigation
 

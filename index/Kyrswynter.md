@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 213683
+revid: 214741
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals, Kyrs series]
@@ -14,7 +14,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Spears, "A
 | damage type | Slash |
 | requirements | 50 MED, 75 ICE |
 | oath | Silentheart |
-| damage | 16 + 2.4 BLD |
+| damage | 17 + 2.55 BLD |
 | scaling | MED: 5, ICE: 3 |
 | posture damage | 6 |
 | range | 9 Lunge |

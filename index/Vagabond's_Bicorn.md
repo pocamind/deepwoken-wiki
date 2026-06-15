@@ -1,9 +1,9 @@
 ---
 title: "Vagabond's Bicorn"
-revid: 210885
+revid: 214788
 source: https://deepwoken.fandom.com/wiki/Vagabond's_Bicorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Hats]
+categories: [Equipment with Styles, Equipment, Head, Hats]
 ---
 
 # Vagabond's Bicorn
@@ -15,6 +15,7 @@ categories: [Equipment, Head, Hats]
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
+| styles | Dark Fabric, Dark Leather, Light Fabric, Light Leather |
 | innate stats | +4 Health , +1 Uncommon Pip |
 | innate talent | N/A |
 | bankable | Yes |
@@ -26,4 +27,4 @@ categories: [Equipment, Head, Hats]
 
 ## Description
 
-The Vagabond's Bicorn is an Equipment in the "_Head_" category.
+The Vagabond's Bicorn is an Equipment in the "Head" category.

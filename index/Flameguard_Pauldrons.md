@@ -1,9 +1,9 @@
 ---
 title: Flameguard Pauldrons
-revid: 210145
+revid: 214831
 source: https://deepwoken.fandom.com/wiki/Flameguard_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Pauldrons]
+categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
 ---
 
 # Flameguard Pauldrons
@@ -15,6 +15,7 @@ categories: [Equipment, Arms, Pauldrons]
 | selling price | 7 |
 | requirements | Power 8 |
 | weight | 2 |
+| styles | Brushed, Galvanized |
 | innate stats | +1 Rare Pip |
 | innate talent | N/A |
 | set | Flameguard Pauldrons, Flameguard Boots |

@@ -1,9 +1,9 @@
 ---
 title: Aristocrat Coat
-revid: 209367
+revid: 214621
 source: https://deepwoken.fandom.com/wiki/Aristocrat_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Coats, Equipment with Talents, Equipment with Exclusive Talents]
+categories: [Equipment, Arms, Coats, Equipment with Talents, Equipment with Exclusive Talents, Equipment with Styles]
 ---
 
 # Aristocrat Coat

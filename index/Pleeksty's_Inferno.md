@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 213548
+revid: 214676
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons, Weapons with multiple Criticals, The Covenant of Flame]
@@ -20,7 +20,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Clubs, "At
 | range | 8 Sweep |
 | swing speed | 0.94x |
 | attack duration | 0.7s |
-| penetration | 30% |
+| penetration | 10% |
 | chip damage | 10% |
 | m.equip | No |
 | m.extract | No |

@@ -1,9 +1,9 @@
 ---
 title: Flameguard Boots
-revid: 210144
+revid: 214830
 source: https://deepwoken.fandom.com/wiki/Flameguard_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Legs, Boots]
+categories: [Equipment with Styles, Equipment, Legs, Boots]
 ---
 
 # Flameguard Boots
@@ -15,6 +15,7 @@ categories: [Equipment, Legs, Boots]
 | selling price | 25 |
 | requirements | Power 5 |
 | weight | 1 |
+| styles | Brushed, Galvanized |
 | innate stats | +3 Health , +2 Rare Pips |
 | innate talent | N/A |
 | set | Flameguard Pauldrons, Flameguard Boots |
@@ -28,4 +29,4 @@ categories: [Equipment, Legs, Boots]
 
 ## Description
 
-Flameguard Boots are an [Equipment](Equipment.md) item under the "Legs" category.
+The Flameguard Boots are an [Equipment](Equipment.md) item under the "Legs" category.

@@ -1,9 +1,9 @@
 ---
 title: Grand Authority Sabatons
-revid: 210352
+revid: 214821
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Legs, Sabatons]
+categories: [Equipment with Styles, Equipment, Legs, Sabatons]
 ---
 
 # Grand Authority Sabatons
@@ -15,9 +15,10 @@ categories: [Equipment, Legs, Sabatons]
 | selling price | 25 |
 | requirements | Power 5 |
 | weight | 1 |
+| styles | Bulwark, Juggernaut |
 | innate stats | +4 Health , +2 Rare Pips |
 | innate talent | N/A |
-| set | Grand Authority Plate, Grand Authority Sabatons |
+| set | Grand Authority Sallet, Grand Authority Plate, Grand Authority Sabatons |
 | set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -28,8 +29,4 @@ categories: [Equipment, Legs, Sabatons]
 
 ## Description
 
-Grand Authority Sabatons are an [Equipment](Equipment.md) item under the "Legs" category.
-
-## Trivia
-
--   The Grand Authority Sabatons were originally designed as part of an Authority-themed set, the _Grand Authority Armament's_ \[_[sic](https://en.wikipedia.org/wiki/sic)_\] set, alongside the [Bulwark Helm](Grand_Authority_Sallet.md), which is why the latter provides the same Talent as the [Authority Helm](Authority_Helm.md). For some unknown reason, they were separated, with the Grand Authority Plate and Sabatons, being colored yellow rather than red.
+The Grand Authority Sabatons are an [Equipment](Equipment.md) item under the "Legs" category.

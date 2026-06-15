@@ -1,9 +1,9 @@
 ---
 title: "Big Alchemist's Hat"
-revid: 209430
+revid: 214783
 source: https://deepwoken.fandom.com/wiki/Big_Alchemist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
+categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Big Alchemist's Hat
@@ -15,13 +15,14 @@ categories: [Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
+| styles | Leather, Quatrefoil |
 | innate stats | +1 Rare Pips |
 | innate talent | Apothecary |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, First Layer, Duke Erisia, Starswept Valley, War Mode, Chime of Conflict |
+| obtainment | Aratel Island, First Layer, Duke Erisia, Starswept Valley, War Mode, Chime of Conflict |
 | description | ... |
 
 ## Description

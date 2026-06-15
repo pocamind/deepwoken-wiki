@@ -1,9 +1,9 @@
 ---
 title: Shock Trooper Helmet
-revid: 210796
+revid: 214817
 source: https://deepwoken.fandom.com/wiki/Shock_Trooper_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Helmets]
+categories: [Equipment with Styles, Equipment, Head, Helmets]
 ---
 
 # Shock Trooper Helmet
@@ -15,6 +15,7 @@ categories: [Equipment, Head, Helmets]
 | selling price | N/A |
 | requirements | Power 10 |
 | weight | 1 |
+| styles | 21st Legion, 49th Legion, 84th Legion, The Immortals |
 | innate stats | +8 Health , +1 Rare Pip |
 | set | Shock Trooper Helmet, Shock Trooper Plate, Shock Trooper Boots |
 | set talent | N/A |

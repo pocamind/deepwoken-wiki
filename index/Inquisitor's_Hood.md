@@ -1,9 +1,9 @@
 ---
 title: "Inquisitor's Hood"
-revid: 213098
+revid: 214775
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Hoods, The Central Authority]
+categories: [Equipment, Head, Hoods, Equipment of The Central Authority]
 ---
 
 # Inquisitor's Hood
@@ -23,8 +23,6 @@ categories: [Equipment, Head, Hoods, The Central Authority]
 | pass down | Yes |
 | obtainment | Chests from:, Authority Ensign Missions, The Starswept Valley, Fishing |
 | description | A shroud worn proud by the members of the Inquisition. |
-
-This page consists of three different items that have the same stats and an extremely similar appearance and naming convention, being the Black Inquisitor's Hood, Crimson Inquisitor's Hood, and Pale Inquisitor's Hood.
 
 ## Description
 

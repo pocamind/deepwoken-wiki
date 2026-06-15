@@ -1,9 +1,9 @@
 ---
 title: Citadel Frames
-revid: 209919
+revid: 214797
 source: https://deepwoken.fandom.com/wiki/Citadel_Frames
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Face, Glasses, Equipment with Styles, The Divers]
+categories: [Equipment with Styles, Equipment, Face, Glasses, The Divers]
 ---
 
 # Citadel Frames
@@ -15,6 +15,7 @@ categories: [Equipment, Face, Glasses, Equipment with Styles, The Divers]
 | selling price | 25 |
 | requirements | N/A |
 | weight | 0.5 |
+| styles | Amber Browline, Amber Round, Azure Browline, Azure Round, Black Browline, Black Round |
 | innate stats | +5 Health , -1 Posture , +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
@@ -26,7 +27,7 @@ categories: [Equipment, Face, Glasses, Equipment with Styles, The Divers]
 
 ## Description
 
-**Citadel Frames** are an [Equipment](Equipment.md) item under the "Face" category. These Diver-branded glasses reduce the wearer's posture due to not being their prescription.
+The Citadel Frames are an [Equipment](Equipment.md) item under the "Face" category. These Diver-branded glasses reduce the wearer's posture due to not being their prescription.
 
 ## Trivia
 

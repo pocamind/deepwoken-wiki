@@ -1,9 +1,9 @@
 ---
 title: "Guard's Kabuto"
-revid: 210357
+revid: 214790
 source: https://deepwoken.fandom.com/wiki/Guard's_Kabuto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Helmets, Equipment, Head]
+categories: [Equipment with Styles, Helmets, Equipment, Head]
 ---
 
 # Guard's Kabuto
@@ -15,6 +15,7 @@ categories: [Helmets, Equipment, Head]
 | selling price | 25 |
 | requirements | Power 5 |
 | weight | 1 |
+| styles | Cobra, Guard |
 | innate stats | +8 Health , +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
@@ -26,8 +27,8 @@ categories: [Helmets, Equipment, Head]
 
 ## Description
 
-The Captain's Kabuto is an Equipment item under the Head category.
+The Guard's Kabuto is an Equipment item under the Head category.
 
 ## Trivia
 
--   The Guard's Kabuto Along with [Captain's Kabuto](<Captain's_Kabuto.md>), and [Royal Guard's Kabuto](<Royal_Guard's_Kabuto.md>) are almost the same Equipment Armor, with only slightly different colors.
+-   The Guard's Kabuto, along with the [Captain's Kabuto](<Captain's_Kabuto.md>), and [Royal Guard's Kabuto](<Royal_Guard's_Kabuto.md>) are almost the same Equipment Armor, with only slightly different colors.

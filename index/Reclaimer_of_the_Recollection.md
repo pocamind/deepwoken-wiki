@@ -1,6 +1,6 @@
 ---
 title: Reclaimer of the Recollection
-revid: 211287
+revid: 214729
 source: https://deepwoken.fandom.com/wiki/Reclaimer_of_the_Recollection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Vow of Iron Exclusive, SpoilerPages, In progress with reason, InProgressPages, Vendors, NPCs, Voiced Characters, Circle of Honour members, NPCs located in the Cerebral Spire, Humanoids with Unobtainable Outfits]
@@ -29,7 +29,7 @@ The Reclaimer of the Recollection is a [Gremor](Gremor.md) NPC. They serve as th
 
 The Reclaimer is the only way the player is able to increase their power and gain further abilities regarding their [Mementos](Mementos.md). They also provide information on how to unlock new Mementos.
 
-They're an Aspen [Gremor](Gremor.md) in stage 2 of aging (50-59 years old). He wears the [Light's Final Toll](<Light's_Final_Toll.md>) beads on his arm, a [Canticlysm Pendant](Canticlysm_Pendant.md), and an [Adventurer Coat](Adventurer_Coat.md). Additionally, he wears a pair of [geta](<https://en.wikipedia.org/wiki/Geta_(footwear)>).
+They're an Aspen [Gremor](Gremor.md) in stage 2 of aging (50-59 years old). He wears the [Light's Final Toll](<Light's_Final_Toll.md>) beads on his arm, a [Canticlysm Pendant](Canticlysm_Pendant.md), and an [Adventurer Coat](Adventurer_Coat.md). Additionally, he wears a pair of [geta](Geta.md).
 
 ## Location
 

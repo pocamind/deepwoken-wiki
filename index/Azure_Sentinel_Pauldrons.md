@@ -1,6 +1,6 @@
 ---
 title: Azure Sentinel Pauldrons
-revid: 176349
+revid: 214632
 source: https://deepwoken.fandom.com/wiki/Azure_Sentinel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -17,7 +17,7 @@ categories: [Equipment, Arms]
 | weight | 2 |
 | innate stats | +2 Rare Pips, +1 Legendary Pip |
 | innate talent | N/A |
-| set | Azure Royal Guard, Azure Royal Guard Boots |
+| set | Azure Sentinel Pauldrons, Azure Sentinel Boots |
 | set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -28,9 +28,8 @@ categories: [Equipment, Arms]
 
 ## Description
 
-The Azure Royal Guard is an [Equipment](Equipment.md) item in the "Arms" category, commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md).
+The Azure Sentinel Pauldrons are an [Equipment](Equipment.md) item in the "Arms" category, commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md).
 
 ## Trivia
 
--   Arguably, the Blue [Royal Guard](Aspirant_Mask.md) could be included, as it has almost identical coloration with the same material. However, the Royal Guard mask also has two other variants, while the Azure Royal Guard set has no variants.
 -   This is the only common tier item you can get from [Duke Erisia](Duke_Ishamon_Erisia.md).

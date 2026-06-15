@@ -1,9 +1,9 @@
 ---
 title: "Alchemist's Hat"
-revid: 209363
+revid: 214786
 source: https://deepwoken.fandom.com/wiki/Alchemist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
+categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Alchemist's Hat
@@ -13,15 +13,16 @@ categories: [Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-
 | type | Head |
 | rarity | Uncommon |
 | selling price | 14 |
-| requirements | None |
+| requirements | N/A |
 | weight | 1 |
+| styles | Leather, Quatrefoil |
 | innate stats | +1 Uncommon Pip |
 | innate talent | Apothecary |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, First Layer, Lodestar, Voidwalker Bounties, Duke Erisia |
+| obtainment | Aratel Island, First Layer, Lodestar, Voidwalker Bounties, Duke Erisia |
 | description | ... |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Sanguine Transfuser
-revid: 212233
+revid: 214670
 source: https://deepwoken.fandom.com/wiki/Sanguine_Transfuser
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Light Weapons, Daggers, Craftable, "Attunement-based Weapons", "Weapons with Multi-Hit Criticals", Relics, Relic Weapon]
@@ -14,7 +14,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons wi
 | damage type | Slash |
 | requirements | 50 LHT; 75 BLD |
 | oath | Silentheart |
-| damage | 16.5 |
+| damage | 13 |
 | scaling | LHT: 6.5, BLD: 4 |
 | posture damage | 4.5 |
 | range | 6.5 Sweep |

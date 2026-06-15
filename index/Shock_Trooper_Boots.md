@@ -1,9 +1,9 @@
 ---
 title: Shock Trooper Boots
-revid: 210794
+revid: 214818
 source: https://deepwoken.fandom.com/wiki/Shock_Trooper_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Legs, Boots]
+categories: [Equipment with Styles, Equipment, Legs, Boots]
 ---
 
 # Shock Trooper Boots
@@ -15,6 +15,7 @@ categories: [Equipment, Legs, Boots]
 | selling price | N/A |
 | requirements | Power 10 |
 | weight | 1 |
+| styles | 21st Legion, 49th Legion, 84th Legion, The Immortals |
 | innate stats | +2 Posture , +1 Uncommon Pip |
 | set | Shock Trooper Helmet, Shock Trooper Plate, Shock Trooper Boots |
 | set talent | N/A |
