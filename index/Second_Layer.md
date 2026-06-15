@@ -1,6 +1,6 @@
 ---
 title: Second Layer
-revid: 211246
+revid: 214599
 source: https://deepwoken.fandom.com/wiki/Second_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, The Depths, Layer 2]
@@ -43,4 +43,4 @@ Along with this, heavy winds are amidst throughout the area, blowing away any wh
 
 ## New Kyrsa, The Sleeping City
 
-The Second Floor of the **Second Layer**, located directly atop [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>)'s bedchamber, New Kyrsa, The Sleeping City is incredibly unstable, experiencing **space-time distortions** and frequent collapses. New Kyrsa is stuck in a time loop; **every 15 minutes, you are teleported back to the entrance.** Numerous hostile [Kyrsgarde](Kyrsgarde.md) inhabit the city, sworn to protect Ethiron at all costs. In order to ensure Ethiron's continued slumber, a 9-fold ritual is performed on his [puppet](Scion_of_Ethiron.md). Unfortunately, the last one failed.But SmellyEllie prevailed
+The Second Floor of the **Second Layer**, located directly atop [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>)'s bedchamber, New Kyrsa, The Sleeping City is incredibly unstable, experiencing **space-time distortions** and frequent collapses. New Kyrsa is stuck in a time loop; **every 15 minutes, you are teleported back to the entrance.** Numerous hostile [Kyrsgarde](Kyrsgarde.md) inhabit the city, sworn to protect Ethiron at all costs. In order to ensure Ethiron's continued slumber, a 9-fold ritual is performed on his [puppet](Scion_of_Ethiron.md). Unfortunately, the last one failed.

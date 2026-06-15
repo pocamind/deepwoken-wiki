@@ -1,16 +1,12 @@
 ---
 title: Battle Royale
-revid: 210933
+revid: 214598
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, StubPages, World Event]
+categories: [StubPages, World Event]
 ---
 
 # Battle Royale
-
-**[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
 
 **Battle Royale** is a [World Event](World_Events.md) that takes place on [Kingmaker's Isle](<Kingmaker's_Isle.md>) in the [Open Sea](Open_Sea.md). Players spawn with nothing but the bare essentials and must jump off from [The Floating Keep](The_Floating_Keep.md) into [Kingmaker's Isle](<Kingmaker's_Isle.md>) to gather loot, [Talents](Talents.md), [Mantras](Mantras.md) and more to fight their way through the rest to be the last person standing.
 

@@ -1,6 +1,6 @@
 ---
 title: Frosviernr Joraelnaero
-revid: 197992
+revid: 214596
 source: https://deepwoken.fandom.com/wiki/Frosviernr_Joraelnaero
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Kyrsan NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, Quests, NPCs located in the Second Floor of the Second Layer]
@@ -14,6 +14,7 @@ categories: [Kyrsan NPCs, Pathfinder Exclusive, Individuals with He/him pronouns
 | species | Kyrsan |
 | pronouns | He/him[1] |
 | location | New Kyrsa |
+| family | Naerotiv (brother) |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

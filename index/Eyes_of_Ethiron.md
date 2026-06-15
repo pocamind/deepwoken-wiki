@@ -1,6 +1,6 @@
 ---
 title: Eyes of Ethiron
-revid: 213786
+revid: 214593
 source: https://deepwoken.fandom.com/wiki/Eyes_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, "Weapons with Multi-Attunement Scaling", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Legendary Weapons, Medium Weapons, Swords, Reforged Weapons, "Dual-wielded Weapons", "Attunement-based Weapons"]
@@ -64,6 +64,13 @@ These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Tal
 
 -   This weapon is merely invoking the name of [Ethiron, The Maelstrom's Eye](<Ethiron,_The_Maelstrom's_Eye.md>), and has no further connection to him.[\[1\]](#cite-note-1)
 -   The [Gatherhand](Gatherhand.md) inscription on the weapon are transcribed to: "A murky gale slips thru town, Soft air hums a quiet curse, Folk fall as lambs go out, A whole mass wanes to nil"
+-   The weapons innate talent can lead to some ridiculous results:
+    -   Being able to spawn 45 Shadow Seekers with the [Shadow Seeker](Shadowcast.md#shadow-seekers) mantra, trough [inhaling](Talents.md#inhale) a mantra with 4 [Stratus Stones](Mantra_Modifiers.md) and 4 [Cloudstones](Mantra_Modifiers.md), and then casting Shadow Seekers. You need the [Neural Overload](Talents.md) talent to make this happen.
+        -   Without [Neural Overload](Talents.md#neural-overload) the cap is 35 shadow seekers.
+    -   (Needs testing!) Makes [Shade Devour](Shadowcast.md#shade-devour) give a 33.3% damage buff. Also requires [Neural Overload](Talents.md#neural-overload) with the same setup but with [vibrant gems](Mantra_Modifiers.md) and [Shade Devour](Shadowcast.md#shade-devour) instead.
+        -   Damage buff caps at 30% without [Neural Overload](Talents.md#neural-overload).
+    -   Extremely large [shadow roar](Shadowcast.md#shadow-roar).
+    -   Very large mantras in general.
 
 ## References
 

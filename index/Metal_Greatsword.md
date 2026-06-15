@@ -1,6 +1,6 @@
 ---
 title: Metal Greatsword
-revid: 214583
+revid: 214594
 source: https://deepwoken.fandom.com/wiki/Metal_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Heavy Weapons, "Attunement-based Weapons", Weapons with Talents, Weapons with Unique Criticals, Weapons with multiple Criticals]
@@ -60,4 +60,4 @@ Both criticals have a cooldown of **8 seconds**.
 
 -   The Metal Greatsword has the highest base damage of any weapon in the game.
 -   Like all other ability-bound weapons, the [Enchantment](Enchantments.md) and quality star bonus from your main weapon carries over to the Metal Greatsword.
--   pairs really well with light weapons, due to the change in swing speed mid-fight.
+-   Pairs really well with light weapons, due to the sheer contrast in swing speed.
