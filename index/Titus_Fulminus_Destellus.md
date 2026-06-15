@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 213945
+revid: 214606
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions, Humanoids with Unobtainable Outfits]
@@ -257,6 +257,7 @@ Avoid
 ### Talents
 
 -   Brute Strength - Titus' vent is replaced with a ground slam attack that knocks back enemies.
+-   Blight Pierce - While Titus is in sovereign state his attacks will interrupt attacks through hyperarmor.
 
 ### Finishers
 

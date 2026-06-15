@@ -1,6 +1,6 @@
 ---
 title: Gravity Field
-revid: 208532
+revid: 214602
 source: https://deepwoken.fandom.com/wiki/Gravity_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -52,3 +52,4 @@ When obtained, Gravity Field will spend its points on the following stats:
 -   Useful to use when you know your opponent is low and want to trap them to ensure their demise.
 -   Doing a running attack against the field will make you escape the field (probably a bug)
 -   Certain Mantras, such as Permafrost Prison, will cancel gravity field whether used before or after activating it.
+-   Gravity field was added in august 1st 2022.

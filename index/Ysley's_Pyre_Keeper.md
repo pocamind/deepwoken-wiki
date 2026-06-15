@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 214584
+revid: 214600
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", "Multi-Weapon Scaling", Heavy Weapons, Weapons with multiple Criticals, Weapons of The Hive]
@@ -78,4 +78,4 @@ These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Tal
 -   It has the most amount of critical attack variations (Five, one for nearly every possible character state).
 -   The sliding critical slashes don't match the animations.
     -   Three circular slashes somehow appear from the dagger in the singular 360˚ front flip despite the dagger not being moved more than the rest of the body.
--   quite powerful with the [Switchblade](Talents.md#switchblade) talent, due to overlapping investment points.
+-   Quite powerful with the [Switchblade](Talents.md#switchblade) talent, due to overlapping investment points.
