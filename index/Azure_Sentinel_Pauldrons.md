@@ -1,9 +1,9 @@
 ---
 title: Azure Sentinel Pauldrons
-revid: 214632
+revid: 214922
 source: https://deepwoken.fandom.com/wiki/Azure_Sentinel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms]
+categories: [Equipment, Arms, Pauldrons]
 ---
 
 # Azure Sentinel Pauldrons
@@ -28,8 +28,4 @@ categories: [Equipment, Arms]
 
 ## Description
 
-The Azure Sentinel Pauldrons are an [Equipment](Equipment.md) item in the "Arms" category, commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md).
-
-## Trivia
-
--   This is the only common tier item you can get from [Duke Erisia](Duke_Ishamon_Erisia.md).
+The Azure Sentinel Pauldrons are an [Equipment](Equipment.md) item in the "Arms" category.

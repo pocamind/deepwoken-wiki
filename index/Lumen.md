@@ -1,6 +1,6 @@
 ---
 title: Lumen
-revid: 129768
+revid: 214913
 source: https://deepwoken.fandom.com/wiki/Lumen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Locations](Locations%253Fredirect=no.md)
+-   Category:Locations

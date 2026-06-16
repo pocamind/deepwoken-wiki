@@ -1,6 +1,6 @@
 ---
 title: "Adventurer's Scarf"
-revid: 214731
+revid: 214898
 source: https://deepwoken.fandom.com/wiki/Adventurer's_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Scarves, Equipment with Styles]
@@ -27,7 +27,3 @@ categories: [Equipment, Torso, Scarves, Equipment with Styles]
 ## Description
 
 The Adventurer's Scarf is an [Equipment](Equipment.md) item under the "Torso" category. They can be found through chests on [Aratel Island](Aratel_Island.md).
-
-## Trivia
-
--   The scarves have the highest variety of any equipment, having a total of 8 variants.

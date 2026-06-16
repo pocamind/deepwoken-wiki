@@ -1,9 +1,9 @@
 ---
 title: "Adjudicator's Coat"
-revid: 214812
+revid: 214901
 source: https://deepwoken.fandom.com/wiki/Adjudicator's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Coats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
+categories: [Equipment with Styles, Equipment, Arms, Coats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Adjudicator's Coat
@@ -15,6 +15,7 @@ categories: [Equipment, Arms, Coats, Equipment with Talents, "Equipment with Non
 | selling price | 25 |
 | requirements | Power 8 |
 | weight | 2 |
+| styles | Ash, Pink, Rural, Sable, Tawny |
 | innate stats | +2 Rare Pips |
 | innate talent | Unwavering Resolve |
 | bankable | Yes |
@@ -33,4 +34,4 @@ The Adjudicator's Coat is an animated [Equipment](Equipment.md) item under the "
 ## Trivia
 
 -   Together with the [Authority Commander Coat](Authority_Commander_Coat.md), It used to be unsellable but this was later changed due to it clogging players' inventories.
--   This used to have the [Hardened Nerves](Cut_Content.md#hardened-nerves) Talent, before being replaced with [Unwavering Resolve](Talents.md#unwavering-resolve) in April 5th, 2024.
+-   This used to have the [Hardened Nerves](Cut_Content.md#hardened-nerves) Talent, before being replaced with [Unwavering Resolve](Talents.md#unwavering-resolve) during the [April 5th, 2024](Version_History/2024.md#april-5th-2024) update.

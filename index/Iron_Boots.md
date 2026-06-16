@@ -1,9 +1,9 @@
 ---
 title: Iron Boots
-revid: 205837
+revid: 214890
 source: https://deepwoken.fandom.com/wiki/Iron_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Legs, Boots]
+categories: [Equipment with Styles, Equipment, Legs, Boots]
 ---
 
 # Iron Boots
@@ -13,8 +13,9 @@ categories: [Equipment, Legs, Boots]
 | type | Legs |
 | rarity | Common |
 | selling price | 7 |
-| requirements | N/A |
+| requirements | None |
 | weight | 1 |
+| styles | Brushed, Galvanized |
 | innate stats | +2 Rare Pips |
 | innate talent | N/A |
 | set | Iron Pauldrons, Iron Boots |
@@ -23,7 +24,7 @@ categories: [Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Layer One |
+| obtainment | Chests from:, First Layer |
 | description | ... |
 
 ## Description

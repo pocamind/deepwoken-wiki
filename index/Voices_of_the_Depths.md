@@ -1,9 +1,11 @@
 ---
 title: Voices of the Depths
-revid: 214694
+revid: 214927
 source: https://deepwoken.fandom.com/wiki/Voices_of_the_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, The Depths, Voiced Characters]
+categories: [Pages requiring a cleanup, NPCs, The Depths, Voiced Characters]
+notices:
+  - "This page, by declaration of the Inquisition, is of insufficient quality and requires a cleanup to better meet the Wiki's quality standards. Help improve this article by improving formatting, spelling and the general layout. Within this dark a blazing light!"
 ---
 
 # Voices of the Depths

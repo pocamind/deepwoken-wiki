@@ -1,9 +1,9 @@
 ---
 title: Silver Pauldrons
-revid: 210802
+revid: 214865
 source: https://deepwoken.fandom.com/wiki/Silver_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Pauldrons]
+categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
 ---
 
 # Silver Pauldrons
@@ -15,6 +15,7 @@ categories: [Equipment, Arms, Pauldrons]
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
+| styles | Brushed, Galvanized |
 | innate stats | +3 Health , +2 Rare Pips |
 | innate talent | N/A |
 | set | Silver Knight's Helm, Silver Pauldrons, Silver Sabatons |

@@ -1,9 +1,9 @@
 ---
 title: Regenerative Earrings
-revid: 213834
+revid: 214894
 source: https://deepwoken.fandom.com/wiki/Regenerative_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
+categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Regenerative Earrings
@@ -15,6 +15,7 @@ categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Se
 | selling price | 25 |
 | requirements | Power 8 |
 | weight | 0.1 |
+| styles | Tarnished Gold, Tarnished Silver, Unblemished Gold, Unblemished Silver |
 | innate stats | +5 Ether +1 Rare Pip |
 | innate talent | Blood Convergence |
 | set | Regenerative Pendant, Regenerative Earrings |
@@ -36,7 +37,7 @@ Variants: [Pendant](Regenerative_Pendant.md)
 
 ## Description
 
-The Regenerative Earrings are a pair of craftable earrings similar to the [Trueblood Earrings](Trueblood_Earrings.md) from the [Vow of Iron](Vow_of_Iron.md) gamemode, but made from common [Pathfinder](Pathfinder.md) mode drops.
+The Regenerative Earrings are an [Equipment](Equipment.md) item found under the "Ears" category. The Regenerative Earrings is similar to the [Trueblood Earrings](Trueblood_Earrings.md) from the [Vow of Iron](Vow_of_Iron.md) gamemode, but made from common [Pathfinder](Pathfinder.md) mode drops.
 
 The [Blood Convergence](Talents.md#blood-convergence) Talent grants 10% more healing from all healing sources when you have [Temporary Health](Status_Effects.md#temporary-health).
 

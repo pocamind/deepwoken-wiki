@@ -1,9 +1,9 @@
 ---
 title: True Seraph Spear
-revid: 213527
+revid: 214853
 source: https://deepwoken.fandom.com/wiki/True_Seraph_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Spears, Drops, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with Talents]
+categories: [Weapons, Criticals with M1 tag, Spears, Drops, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with Talents]
 ---
 
 # True Seraph Spear
@@ -52,6 +52,8 @@ This attack deals 0.5x scaled damage per hit (4).
 The user performs a quick downslash before lunging forward. Both hits of this critical have **innate** [bleed](Status_Effects.md#bleed) and deal 1x scaled damage. This critical has a windup of 0.5 seconds.
 
 The critical has a cooldown of **7 seconds**.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

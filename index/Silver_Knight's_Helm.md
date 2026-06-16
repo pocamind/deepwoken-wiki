@@ -1,9 +1,9 @@
 ---
 title: "Silver Knight's Helm"
-revid: 210801
+revid: 214864
 source: https://deepwoken.fandom.com/wiki/Silver_Knight's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Helmets]
+categories: [Equipment with Styles, Equipment, Head, Helmets]
 ---
 
 # Silver Knight's Helm
@@ -15,6 +15,7 @@ categories: [Equipment, Head, Helmets]
 | selling price | 25 |
 | requirements | Power 8 |
 | weight | 1 |
+| styles | Brushed, Galvanized |
 | innate stats | +10 Health , +1 Uncommon Pip, +1 Rare Pip |
 | innate talent | N/A |
 | set | Silver Knight's Helm, Silver Pauldrons, Silver Sabatons |
@@ -28,11 +29,12 @@ categories: [Equipment, Head, Helmets]
 
 ## Description
 
-The Silver Knight's Helm, formerly known as the Knight's Helm, is an Equipment in the "_Head_" category.
+The Silver Knight's Helm is an Equipment in the "Head" category.
 
   
 
 ## Trivia
 
 -   Considered one of the best Head [Equipment](Equipment.md) pieces, due to it being one of the few helmets that are able to reach 30 HP.
--   It is worn by the [Tideknights](Tideknight.md) found in wave 46 of [the Diluvian Mechanism](The_Diluvian_Mechanism.md).
+-   It is worn by the [Tideknights](Tideknight.md) found in [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
+-   Formerly known as the Knight's Helm.

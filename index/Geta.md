@@ -1,6 +1,6 @@
 ---
 title: Geta
-revid: 214687
+revid: 214852
 source: https://deepwoken.fandom.com/wiki/Geta
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Legs, Equipment with Set Bonuses, Equipment with Exclusive Talents, Equipment with Talents, Equipment with Styles, Etrea]
@@ -16,7 +16,7 @@ categories: [Pathfinder Exclusive, Equipment, Legs, Equipment with Set Bonuses, 
 | weight | 1 |
 | innate stats | +2 Rare Pips |
 | innate talent | Dancing Steps Of War |
-| set | Blademaster's Robe, Geta, Etrean Sashimono |
+| set | Blademaster's Robe, Geta |
 | set talent | Momentum |
 | bankable | Yes |
 | droppable | Yes |
@@ -31,13 +31,19 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Geta are a pair of traditional wooden shoes [Equipment](Equipment.md) that are dropped by [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
+Geta are an [Equipment](Equipment.md) item under the "Legs" category.
 
-The [Dancing Steps of War](Talents.md#dancing-steps-of-war) Talent grants a speed boost and reduces your dodge cooldown for 2 seconds upon landing a flourish.
+They are a pair of traditional wooden shoes that are dropped by [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+
+The [Dancing Steps Of War](Talents.md#dancing-steps-of-war) Talent grants a speed boost and reduces your dodge cooldown for 2 seconds upon landing a flourish.
 
 ## Set Talent
 
-When wearing the full equipment set, you will gain the Set Talent.  
-The [Etrean Sashimono](Etrean_Sashimono.md) is not required for, nor contributes to the acquisition of the Set Talent.
+When wearing the full equipment set, you will gain the Set Talent.
 
 **Momentum** - Speed boosts now give you a bit of extra chip based on how fast the speed boosts are making you.
+
+## Trivia
+
+-   The effects from the Dancing Steps Of War Talent will have their duration increased by 0.5s if you are using the [Etrean Sashimono](Etrean_Sashimono.md).
+-   _[Geta](<https://en.wikipedia.org/wiki/Geta_(footwear)>)_ are a type of traditional Japanese footwear that date back to the days of ancient China.

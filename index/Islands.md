@@ -1,6 +1,6 @@
 ---
 title: Islands
-revid: 11707
+revid: 214912
 source: https://deepwoken.fandom.com/wiki/Islands
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Locations](Locations%253Fredirect=no.md)
+-   Category:Locations

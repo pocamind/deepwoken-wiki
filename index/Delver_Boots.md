@@ -1,9 +1,9 @@
 ---
 title: Delver Boots
-revid: 209930
+revid: 214883
 source: https://deepwoken.fandom.com/wiki/Delver_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Legs, Boots, Layer 2, Floor 1, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
+categories: [Equipment with Styles, Equipment, Legs, Boots, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Delver Boots
@@ -15,6 +15,7 @@ categories: [Equipment, Legs, Boots, Layer 2, Floor 1, Craftable, Equipment with
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
+| styles | Delver, Galeworn |
 | innate stats | +2 Posture , +1 Uncommon Pip |
 | innate talent | Surestep |
 | bankable | Yes |
@@ -26,7 +27,7 @@ categories: [Equipment, Legs, Boots, Layer 2, Floor 1, Craftable, Equipment with
 
 ## Description
 
-A set of boots that prevents you from being knocked off your feet by the harsh winds of the Eternal Gale.
+The Delver Boots are an [Equipment](Equipment.md) item under the "Legs" category.
 
 The [Surestep](Talents.md#surestep) Talent makes you immune to the ragdoll and flinging effect of the winds of the Second Layer. You are still affected by the harsh winds' movement debuff, however.
 

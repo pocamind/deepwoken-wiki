@@ -1,9 +1,9 @@
 ---
 title: Grand Boots
-revid: 210353
+revid: 214887
 source: https://deepwoken.fandom.com/wiki/Grand_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Legs, Boots]
+categories: [Equipment with Styles, Equipment, Legs, Boots]
 ---
 
 # Grand Boots
@@ -14,6 +14,7 @@ categories: [Equipment, Legs, Boots]
 | rarity | Common |
 | selling price | 7 |
 | requirements | Power 5 |
+| styles | Brushed, Galvanized |
 | innate stats | +5 Health , +1 Posture |
 | innate talent | N/A |
 | set | Grand Pauldrons, Grand Boots |
@@ -27,7 +28,7 @@ categories: [Equipment, Legs, Boots]
 
 ## Description
 
-The Grand Boots are [Equipment](Equipment.md) items under the "Legs" category, and is a part of the Grand Set.
+The Grand Boots are an [Equipment](Equipment.md) item under the "Legs" category, and are a part of the Grand Set.
 
 ## Trivia
 

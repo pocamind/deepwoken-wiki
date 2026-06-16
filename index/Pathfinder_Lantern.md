@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Lantern
-revid: 214803
+revid: 214926
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Lantern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -27,7 +27,9 @@ categories: [Equipment with Styles, Equipment, Torso, Equipment with Talents, "E
 
 ## Description
 
-The Pathfinder Lantern is an [Equipment](Equipment.md) item under the "Torso" category. It can be crafted on the [Crafting Station](Crafting_Station.md) using the following materials:
+The Pathfinder Lantern is an [Equipment](Equipment.md) item under the "Torso" category.
+
+It can be crafted on the [Crafting Station](Crafting_Station.md) using the following materials:
 
 -   (1) [Dying Ember](Dying_Embers.md) or [Spark Gland](Spark_Gland.md)
 -   (1) [Iron](Ores.md#iron)

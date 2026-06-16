@@ -1,9 +1,9 @@
 ---
 title: Azure Sentinel Boots
-revid: 214629
+revid: 214885
 source: https://deepwoken.fandom.com/wiki/Azure_Sentinel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Legs, Boots]
+categories: [Equipment with Styles, Equipment, Legs, Boots]
 ---
 
 # Azure Sentinel Boots
@@ -15,6 +15,7 @@ categories: [Equipment, Legs, Boots]
 | selling price | 25 |
 | requirements | N/A |
 | weight | 1 |
+| styles | Brushed, Galvanized |
 | innate stats | +2 Rare Pips |
 | innate talent | N/A |
 | set | Azure Royal Guard, Azure Sentinel Boots |

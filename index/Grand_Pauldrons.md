@@ -1,9 +1,9 @@
 ---
 title: Grand Pauldrons
-revid: 176447
+revid: 214888
 source: https://deepwoken.fandom.com/wiki/Grand_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Pauldrons]
+categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
 ---
 
 # Grand Pauldrons
@@ -15,6 +15,7 @@ categories: [Equipment, Arms, Pauldrons]
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
+| styles | Brushed, Galvanized |
 | innate stats | +2 Rare Pips |
 | innate talent | N/A |
 | set | Grand Pauldrons, Grand Boots |
@@ -23,7 +24,7 @@ categories: [Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:, Duke Erisia, The Depths (First Layer) |
+| obtainment | Chests From:, Duke Erisia, First Layer |
 | description | ... |
 
 ## Description
@@ -32,4 +33,4 @@ The Grand Pauldrons are an [Equipment](Equipment.md) item under the "Arms" categ
 
 ## Trivia
 
--   Used by [The Meat Lord](The_Meat_Lord.md) together with the rest of the Grand set.
+-   Worn by [The Meat Lord](The_Meat_Lord.md), along with the rest of the Grand set.

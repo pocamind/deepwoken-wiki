@@ -1,9 +1,9 @@
 ---
 title: Legion Boots
-revid: 210576
+revid: 214881
 source: https://deepwoken.fandom.com/wiki/Legion_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Legs, Boots]
+categories: [Equipment with Styles, Equipment, Legs, Boots]
 ---
 
 # Legion Boots
@@ -15,6 +15,7 @@ categories: [Equipment, Legs, Boots]
 | selling price | 25 |
 | requirements | Power 5 |
 | weight | 1 |
+| styles | Brushed, Galvanized |
 | innate stats | +3 Health , +2 Rare Pips |
 | innate talent | N/A |
 | set | Legion Helmet, Legion Pauldrons, Legion Boots |
@@ -28,10 +29,9 @@ categories: [Equipment, Legs, Boots]
 
 ## Description
 
-Legion Boots are an [Equipment](Equipment.md) item under the "Legs" category. They can be found through chests in [Erisia](Erisia.md) and the [Deep Widow](Deep_Widow.md).
+The Legion Boots are an [Equipment](Equipment.md) item under the "Legs" category.
 
 ## Trivia
 
 -   Worn by NPCs belonging to [The Hundred Legions](The_Hundred_Legions.md).
--   A very rare drop from sources that aren't Erisia or Deep Widow, most likely ~2%
--   Used to be called Khan Boots
+-   Formerly known as "Khan Boots."

@@ -1,6 +1,6 @@
 ---
 title: The Foreman
-revid: 214804
+revid: 214929
 source: https://deepwoken.fandom.com/wiki/The_Foreman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
@@ -21,7 +21,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Foreman is a short [Canor](Canor.md) NPC. He is the one behind Nagatony's Picture Booth.
+The Foreman is a [Canor](Canor.md) NPC. He runs Nagatony's Picture Booth.
+
+He is a short, balding man.
 
 ## Location
 

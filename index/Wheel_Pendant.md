@@ -1,9 +1,9 @@
 ---
 title: Wheel Pendant
-revid: 210910
+revid: 214907
 source: https://deepwoken.fandom.com/wiki/Wheel_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Torso, Necklaces]
+categories: [Equipment with Styles, Equipment, Torso, Necklaces]
 ---
 
 # Wheel Pendant
@@ -14,13 +14,14 @@ categories: [Equipment, Torso, Necklaces]
 | rarity | Rare |
 | selling price | 25 |
 | weight | 0.5 |
+| styles | Tarnished, Unblemished |
 | innate stats | +1 Rare Pip, +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Second Layer, Hell Mode, Ministry Scout Ambush, Maestro Evengarde Rest, Lodestar, Dread Serpent, Saramaed Hollow, Voidwalker Chests, Chaser, Scholar of the Crimson Contract, Deep Widow |
+| obtainment | Second Layer, Hell Mode, Ministry Scout, Maestro Evengarde Rest, Lodestar, Dread Serpent, Saramaed Hollow, Voidwalker Chests, Chaser, Scholar of the Crimson Contract, Deep Widow |
 | description | ... |
 
 ## Description

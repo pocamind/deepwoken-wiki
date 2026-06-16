@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Sallet
-revid: 214824
+revid: 214925
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Sallet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Helmets, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -36,3 +36,4 @@ The [Strong Hold](Talents.md#strong-hold) Talent reduces posture damage taken by
 ## Trivia
 
 -   The helmet is based on a real world helm called the sallet, which was commonly used Europe around the 15th century.
+-   Though always designed to be part of an Authority-themed set, the _Grand Authority Armament's_ \[_[sic](https://en.wikipedia.org/wiki/sic)_\], alongside the [Grand Authority Plate](Grand_Authority_Plate.md), the Grand Authority Sallet spent many years as a separate piece of equipment, called the Bulwark Helm. It was renamed to Grand Authority Sallet during the [15 June, 2026](Version_History/2026.md#15-june-2026) update.

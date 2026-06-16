@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 214770
+revid: 214910
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4828,7 +4828,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Increases _[Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md)_ and _[Purple Cloud](Purple_Cloud.md)_ damage by 5%.
     -   Counts as a damage modifier, so it will build up to and is affected by the damage modifier cap.
 
--   Praise The Sun: [Revitalizing Pendant](Revitalizing_Pendant.md) & Solar Pendant - When standing in sunlight increase your natural health regen and reduce how long antiheal effects last on you.
+-   Praise The Sun: [Revitalizing Pendant](Revitalizing_Pendant.md) & [Radial Pendant](Radial_Pendant.md) - When standing in sunlight increase your natural health regen and reduce how long antiheal effects last on you.
 
 -   Primal Rage: [Titanslayer's Adornment](<Titanslayer's_Adornment.md>) - If you are below 50%, unleash your rage and increase the amount of damage you deal for 25 seconds as well as being able to see enemy health when you hit them. \[3 minute CD\]
     -   Grants a Talent tool that can only be used while under 50% health.

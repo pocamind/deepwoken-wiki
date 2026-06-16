@@ -1,9 +1,9 @@
 ---
 title: Legion Helmet
-revid: 214591
+revid: 214879
 source: https://deepwoken.fandom.com/wiki/Legion_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Helmets]
+categories: [Equipment with Styles, Equipment, Head, Helmets]
 ---
 
 # Legion Helmet
@@ -15,6 +15,7 @@ categories: [Equipment, Head, Helmets]
 | selling price | 25 |
 | requirements | Power 10 |
 | weight | 1 |
+| styles | Brushed, Galvanized |
 | innate stats | +10 Health , +2 Posture , +1 Uncommon Pip |
 | innate talent | N/A |
 | set | Legion Helmet, Legion Pauldrons, Legion Boots |

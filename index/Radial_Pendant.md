@@ -1,9 +1,9 @@
 ---
 title: Radial Pendant
-revid: 212326
+revid: 214908
 source: https://deepwoken.fandom.com/wiki/Radial_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces, Equipment with Talents, Equipment with Exclusive Talents]
+categories: [Equipment with Styles, Vow of Iron Exclusive, Equipment, Torso, Necklaces, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Radial Pendant
@@ -14,6 +14,7 @@ categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces, Equipment with 
 | rarity | Rare |
 | selling price | 25 |
 | weight | 0.5 |
+| styles | Tarnished, Unblemished |
 | innate stats | +2 Rare Pips, +1 Legendary Pip |
 | innate talent | Praise The Sun |
 | bankable | No |
@@ -31,10 +32,10 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Solar Pendant is an [Equipment](Equipment.md) item under the "Torso" category.
+The Radial Pendant is an [Equipment](Equipment.md) item under the "Torso" category.
 
 The [Praise The Sun](Talents.md#praise-the-sun) Talent grants increased health regeneration and hastens the decay of Anti-Heal status effects if you are under direct sunlight.
 
 ## Trivia
 
--   The [Wheel Pendant](Wheel_Pendant.md) was previously named "Old World Sun Pendant". This was seen as a continuity issue, as the [Suncross](Suncross.md) has always looked the same throughout time, so nobody would ever recognize the design as a "sun". The Solar Pendant shares its design with the Wheel Pendant, but still references the concept of the sun, thereby reintroducing this continuity issue.
+-   The [Wheel Pendant](Wheel_Pendant.md) was previously named "Old World Sun Pendant". This was seen as a continuity issue, as the [Suncross](Suncross.md) has always looked the same throughout time, so nobody would ever recognize the design as a "sun". The Radial shares its design with the Wheel Pendant, but remained named "Solar Pendant" for a considerable amount of time, thus still referencing the concept of the sun and reintroducing this continuity issue.

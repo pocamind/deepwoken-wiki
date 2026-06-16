@@ -1,6 +1,6 @@
 ---
 title: "Blademaster's Robe"
-revid: 214686
+revid: 214930
 source: https://deepwoken.fandom.com/wiki/Blademaster's_Robe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Arms, Equipment with Set Bonuses, Equipment with Exclusive Talents, Equipment with Talents, Equipment with Styles, Etrea]
@@ -10,13 +10,13 @@ categories: [Pathfinder Exclusive, Equipment, Arms, Equipment with Set Bonuses, 
 
 | Blademaster's Robe | |
 |---|---|
-| type | Legs |
+| type | Arms |
 | rarity | Legendary |
 | selling price | 50 |
-| weight | 1 |
+| weight | 2 |
 | innate stats | +3 Rare Pips |
 | innate talent | Swift Blade |
-| set | Blademaster's Robe, Geta, Etrean Sashimono |
+| set | Blademaster's Robe, Geta |
 | set talent | Momentum |
 | bankable | Yes |
 | droppable | Yes |
@@ -37,7 +37,6 @@ The [Swift Blade](Talents.md#swift-blade) Talent grants a 10% posture damage buf
 
 ## Set Talent
 
-When wearing the full equipment set, you will gain the Set Talent.  
-The [Etrean Sashimono](Etrean_Sashimono.md) is not required for, nor contributes to the acquisition of the Set Talent.
+When wearing the full equipment set, you will gain the Set Talent.
 
 **Momentum** - Speed boosts now give you a bit of extra chip based on how fast the speed boosts are making you.

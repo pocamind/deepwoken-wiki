@@ -1,9 +1,9 @@
 ---
 title: Demon Mask
-revid: 214740
+revid: 214858
 source: https://deepwoken.fandom.com/wiki/Demon_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Face, Masks, Equipment with Styles]
+categories: [Equipment with Styles, Equipment, Face, Masks]
 ---
 
 # Demon Mask
@@ -15,6 +15,7 @@ categories: [Equipment, Face, Masks, Equipment with Styles]
 | selling price | 25 |
 | requirements | None |
 | weight | 0.5 |
+| styles | Anaconda, Cobra, Mamba, Oni, Psammophis, Taipan |
 | innate stats | +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
@@ -28,4 +29,4 @@ categories: [Equipment, Face, Masks, Equipment with Styles]
 
 The Demon Mask is an [Equipment](Equipment.md) item under the "Face" category.
 
-It is a mask reminiscent of the Japanese "oni." Two horns sprout from the forehead, with another two jutting out from the chin area. The entire mask is fashioned in a growl, the mask baring it's teeth to viewers. A circular hole appears on top of the mask. When worn, the Demon Mask completely covers the wearer's face.
+It is a mask reminiscent of a Japanese _oni_. Two horns sprout from the forehead, with another two jutting out from the chin area. The entire mask is fashioned in a growl, the mask baring it's teeth to viewers. A circular hole appears on top of the mask. When worn, the Demon Mask completely covers the wearer's face.

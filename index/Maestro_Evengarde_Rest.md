@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 214697
+revid: 214932
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Etrea]
@@ -318,14 +318,15 @@ Exhaustive Loot Table
     <li><a href="Equipment.md#arms"><b>Arm Equipment</b></a>:
   <ol>
     <li><b>Legendary Arms</b>: <a href="Monastery_Champion_Robes.md"><font>Monastery Champion Robes</font></a></li>
-    <li><b>Generic Arms</b>:</li>
+    <li><b>Generic Arms</b>: <a href="Blademaster's_Robe.md">Blademaster's Robe</a></li>
   </ol></li>
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>:</li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:
   <ol>
     <li><b>Legendary Torso</b>: <a href="Monastery_Beads.md"><font>Monastery Beads</font></a>.</li>
-    <li><b>Generic Torso</b>:</li>
+    <li><b>Generic Torso</b>: <a href="Etrean_Sashimono.md">Etrean Sashimono</a></li>
   </ol></li>
+    <li><a href="Equipment.md#legs"><b>Legs Equipment</b></a>: <a href="Geta.md">Geta</a></li>
     <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Blindfold.md">Blindfold</a></li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:</li>
     <li><a href="Equipment.md#rings"><b>Rings</b></a>:

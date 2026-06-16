@@ -1,9 +1,9 @@
 ---
 title: Silver Sabatons
-revid: 210803
+revid: 214866
 source: https://deepwoken.fandom.com/wiki/Silver_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Legs, Sabatons]
+categories: [Equipment with Styles, Equipment, Legs, Sabatons]
 ---
 
 # Silver Sabatons
@@ -15,6 +15,7 @@ categories: [Equipment, Legs, Sabatons]
 | selling price | 25 |
 | requirements | Power 5 |
 | weight | 1 |
+| styles | Brushed, Galvanized |
 | innate stats | +3 Health +2 Rare Pips, +1 Legendary Pip |
 | innate talent | N/A |
 | set | Silver Knight's Helm, Silver Pauldrons, Silver Sabatons |
@@ -28,4 +29,4 @@ categories: [Equipment, Legs, Sabatons]
 
 ## Description
 
-Silver Sabatons are accessories under the "**Legs**" category. They can be found through chests in [Starswept Valley](The_Starswept_Valley.md).
+The Silver Sabatons are an [Equipment](Equipment.md) item under the "Legs" category.
