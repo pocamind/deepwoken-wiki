@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 213668
+revid: 215017
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, The Depths]
@@ -41,9 +41,9 @@ Bounders are comparatively harder to kill than most other monsters in the world 
 
 _Uses Telegraph_
 
-[BlockTelegraph](Combat_Mechanics.md#blue)
+[AvoidTelegraph](Combat_Mechanics.md#skull)
 
-Block
+Avoid
 
  |
 | 

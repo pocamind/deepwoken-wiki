@@ -1,6 +1,6 @@
 ---
 title: "Worshipper's Shield"
-revid: 214997
+revid: 215018
 source: https://deepwoken.fandom.com/wiki/Worshipper's_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Offhand, The Covenant of Flame, Weapons with Talents]
@@ -29,8 +29,6 @@ categories: [Weapons, Shields, Offhand, The Covenant of Flame, Weapons with Tale
 ## Description
 
 The Worshipper's Shield is a [Offhand](Weapons.md) in the [Shields](Weapons.md#offhand) category. The requirement to wield it is 40 Fortitude.
-
-The Worshipper's Tolerance talent reduces burn damage you take by 15% and applies burn when you parry an attack while on fire (45 second cooldown).
 
 ## Talents
 

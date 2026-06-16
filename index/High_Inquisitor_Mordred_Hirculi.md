@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Mordred Hirculi
-revid: 214761
+revid: 215059
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Mordred_Hirculi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Inquisitors of The Central Authority, Deceased characters]

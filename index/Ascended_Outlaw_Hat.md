@@ -1,9 +1,9 @@
 ---
 title: Ascended Outlaw Hat
-revid: 214744
+revid: 215051
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Hats, Head, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents, Equipment with Styles]
+categories: [Equipment with Styles, Equipment, Hats, Head, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Ascended Outlaw Hat
@@ -15,6 +15,7 @@ categories: [Equipment, Hats, Head, Craftable, Equipment with Set Bonuses, Equip
 | selling price | N/A |
 | requirements | Power 20 |
 | weight | 1 |
+| styles | Farmland, Fog, Mountain, Tundra, Valley |
 | innate stats | +2 Posture , +1 Legendary Pip |
 | innate talent | Mass Effect |
 | set | Ascended Outlaw Hat, Ascended Outlaw Robes, Ascended Outlaw Boots, Ascended Outlaw Mask |
@@ -32,11 +33,11 @@ Variants: [Robes](Ascended_Outlaw_Robes.md) · [Boots](Ascended_Outlaw_Boots.md)
 
 ## Description
 
-The Ascended Outlaw Hat is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Head" category, and is a part of the Ascended Outlaw Set. The Ascended Outlaw Hat is a green Kasa hat that originated in the Western Luminant.
+The Ascended Outlaw Hat is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Head" category, and is a part of the Ascended Outlaw Set. The Ascended Outlaw Hat is a Kasa hat that originated in the Western Luminant.
 
 The [Mass Effect](Talents.md#mass-effect) Talent increases the strength of your [Might Gems](Might_Gem.md) for every Might Gem you have equipped on your Mantras.
 
-Increases the effectiveness of your Might Gems by 2.25% per Might Gem equipped. This can increase the posture damage effect from your Might Gems from +10% to a maximum of +39.25% on the right setup.
+Increases the effectiveness of your Might Gems by 2.25% additively per Might Gem equipped. This can increase the posture damage effect from your Might Gems from +10% to a maximum of +39.25% on the right setup.
 
 ## Set Talent
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 214968
+revid: 215012
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2555,14 +2555,14 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Mindbreaker
 
 -   Echoing Lunatic \[Common Talent, Willpower\] - Your Ardour Scream now applies a bit of insanity.
-    -   Prerequisites: 55 Willpower, Ardour Scream
     -   Removes around 10 sanity (flat value, not %).
     -   The effects of this talent may be negated if the Ardour Scream is blocked, similarly to the roars of Megalodaunts/Primadon.
-    -   Doesn't work with Ardour Scream from soulbreaker.
+    -   Prerequisites: 55 Willpower, [Ardour Scream](#ardour-scream)
+        -   The Oath-given Ardour Scream from [Soulbreaker](Oath%253A_Soulbreaker.md) does not allow you to meet this Talent's prerequisites. You will have to obtain this Talent prior to unlocking the Oath.
 
 -   _Lose Your Mind_ \[Rare Talent, Strength, Fortitude\] - Deal more damage the more insane you are. Grants +15% damage at maximum insanity. (+5 Sanity)
     -   The damage buff starts at 70% Sanity (Tier 1 [Insanity](Insanity.md)) and scales non-linearly with your sanity until it caps out at +15% damage with 0% Sanity (Tier 3 Insanity).
-    -   The specific specific formula is- f(x) = 15 - 15 \* (x/0.7)^1.2 {0.7≥x≥0} (x= current sanity / maximum sanity)
+    -   The specific specific formula is- f(x) = 15 - 15 × (x/0.7)1.2 {0.7≥x≥0} (x= current sanity / maximum sanity)
         -   ex. 321 sanity w/ 175 current sanity would be a 3.89% increase.
         -   View the calculator here: [https://www.desmos.com/calculator/q9hbw3enrw](https://www.desmos.com/calculator/q9hbw3enrw)
     -   [Deepbound's](Deepbound.md) Sanity gain from killing mobs in [the Depths](The_Depths.md) is reduced.

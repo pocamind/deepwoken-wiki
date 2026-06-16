@@ -1,9 +1,9 @@
 ---
 title: Western Outlaw Hat
-revid: 214779
+revid: 215050
 source: https://deepwoken.fandom.com/wiki/Western_Outlaw_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Hats, Equipment with Styles]
+categories: [Equipment with Styles, Equipment, Head, Hats]
 ---
 
 # Western Outlaw Hat
@@ -15,6 +15,7 @@ categories: [Equipment, Head, Hats, Equipment with Styles]
 | selling price | N/A |
 | requirements | Power 10 |
 | weight | 1 |
+| styles | Farmland, Fog, Mountain, Tundra, Valley |
 | innate stats | +2 Posture , +1 Legendary Pip |
 | set | Western Outlaw Hat, Western Outlaw Robes, Western Outlaw Boots, Western Outlaw Mask |
 | set talent | N/A |
@@ -31,6 +32,6 @@ Variants: [Robes](Western_Outlaw_Robes.md) Â· [Boots](Western_Outlaw_Boots.md) Â
 
 ## Description
 
-The Western Outlaw Hat is an [Equipment](Equipment.md) item under the "Head" category, and is a part of the Western Outlaw Set. The Western Outlaw Hat is a green Kasa hat that originated in the Western Luminant.
+The Western Outlaw Hat is an [Equipment](Equipment.md) item under the "Head" category, and is a part of the Western Outlaw Set. The Western Outlaw Hat is a Kasa hat that originated in the Western Luminant.
 
 This item is used to craft the [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md) at the [Merit Detainment Core](Merit_Detainment_Core.md).

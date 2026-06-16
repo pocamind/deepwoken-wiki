@@ -1,9 +1,9 @@
 ---
 title: Ether Refined Brim
-revid: 214704
+revid: 215028
 source: https://deepwoken.fandom.com/wiki/Ether_Refined_Brim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Equipment, Hats, Head, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents, Equipment with Styles]
+categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Hats, Head, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Ether Refined Brim
@@ -15,6 +15,7 @@ categories: [Pathfinder Exclusive, Equipment, Hats, Head, Craftable, Equipment w
 | selling price | ??? |
 | requirements | Power 16 |
 | weight | 1 |
+| styles | Default, Lilac, Navy, Sky, Verdant |
 | innate stats | +5 Health , +2 Legendary Pips |
 | innate talent | Sorcerer's Skill |
 | set | Ether Refined Brim, Ether Refined Mantle |

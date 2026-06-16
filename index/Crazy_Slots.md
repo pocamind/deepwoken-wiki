@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 213083
+revid: 215016
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -178,7 +178,7 @@ The user rises into the air and fires three Soulwrought spears. Also used by [Sw
 The user rises into the air and plummet towards their cursor.
 
 -   Deals 75 damage.
--   Can sometimes deal no damage.
+-   Large hitbox is behind the user; will not deal damage if you land on or in front of the target
 
 ### Soulwrought Greatsword
 

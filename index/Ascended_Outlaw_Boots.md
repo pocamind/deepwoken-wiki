@@ -1,9 +1,9 @@
 ---
 title: Ascended Outlaw Boots
-revid: 214745
+revid: 215054
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents, Equipment with Styles]
+categories: [Equipment with Styles, Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Ascended Outlaw Boots
@@ -15,13 +15,14 @@ categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses, Equi
 | selling price | N/A |
 | requirements | Power 20 |
 | weight | 1 |
+| styles | Mountain, Tundra, Valley |
 | innate stats | +3% Lightning Armor , +3% Wind Armor , +1 Uncommon Pip, +1 Rare Pip |
 | innate talent | Stronger Under Pressure |
 | set | Ascended Outlaw Hat, Ascended Outlaw Robes, Ascended Outlaw Boots, Ascended Outlaw Mask |
 | set talent | Offensive Recovery |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | No |
+| enchantable | Only on craft[1] |
 | pass down | Yes |
 | obtainment | Crafting:, Prison Crafting Station + Western Outlaw Boots + 3x Gilded Needle + 3x Might Gem |
 | description | Tattered and unassuming, these rags serve as the perfect occlusion for any hidden weapons or stolen contraband. |
@@ -32,7 +33,7 @@ Variants: [Hat](Ascended_Outlaw_Hat.md) · [Robes](Ascended_Outlaw_Robes.md) · 
 
 ## Description
 
-The Ascended Outlaw Boots is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Ascended Outlaw Set. The Ascended Outlaw Boots are a pair of green tattered pants that originated from the Western Luminant.
+The Ascended Outlaw Boots is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Ascended Outlaw Set. The Ascended Outlaw Boots are a pair of tattered pants that originated from the Western Luminant.
 
 The [Stronger Under Pressure](Talents.md#stronger-under-pressure) Talent makes your [Might Gems](Might_Gem.md) apply a 5% slow per combat tag, for 1 second. This has no cooldown.
 
@@ -55,4 +56,4 @@ After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench[CraftingE
 
 ## Navigation
 
-1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.
+1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

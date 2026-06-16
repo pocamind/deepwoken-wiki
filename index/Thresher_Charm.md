@@ -1,6 +1,6 @@
 ---
 title: Thresher Charm
-revid: 214813
+revid: 215033
 source: https://deepwoken.fandom.com/wiki/Thresher_Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso]
@@ -19,7 +19,7 @@ categories: [Equipment with Styles, Equipment, Torso]
 | innate stats | +2 Rare Pips |
 | innate talent | Thresher Thrasher |
 | bankable | ? |
-| droppable | ? |
+| droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Chests from:The Starswept Valley |

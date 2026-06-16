@@ -1,9 +1,9 @@
 ---
 title: Ether Refined Mantle
-revid: 214705
+revid: 215030
 source: https://deepwoken.fandom.com/wiki/Ether_Refined_Mantle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Arms, Equipment, Craftable, Equipment with Set Bonuses, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents, Equipment with Styles]
+categories: [Equipment with Styles, Pathfinder Exclusive, Arms, Equipment, Craftable, Equipment with Set Bonuses, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
 ---
 
 # Ether Refined Mantle
@@ -15,13 +15,14 @@ categories: [Pathfinder Exclusive, Arms, Equipment, Craftable, Equipment with Se
 | selling price | 100 |
 | requirements | Power 12, 5 Intelligence |
 | weight | 2 |
+| styles | Default, Lilac, Navy, Sky, Verdant |
 | innate stats | +7 Health , +1 Rare Pip, +2 Legendary Pips |
 | innate talent | Overflowing DamSorcerer's Surge |
 | set | Ether Refined Brim, Ether Refined Mantle |
 | set talent | Sorcerer's Supply |
 | bankable | No |
 | droppable | No |
-| enchantable | No |
+| enchantable | Only on craft[1] |
 | pass down | No |
 | obtainment | Crafting 1 Ether Refined Hide + 1 Shiva's Codex + 1 Warlock's Mantle in the Lost Forge |
 | description | A finely woven gown imbued with the artistry of master songsmiths from the Northern Luminant. Enchanted by melodies intricately woven into its fabric, this garment bestows supernatural properties, amplifying the wearer's prowess and performance in battle. |
@@ -52,4 +53,4 @@ This increases your [Tempo](Combat_Mechanics.md#tempo) by 10 in [Pathfinder](Pat
 
 ## Navigation
 
-1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.
+1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

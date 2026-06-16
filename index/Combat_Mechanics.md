@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 214544
+revid: 215020
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -523,8 +523,6 @@ Some Monster attacks with this indicator are parryable with [Force Your Way](Ign
 
 **Monster Attacks**
 
--   [Bonekeeper](Bone_Keeper.md): Bone Spikes
--   [Bounder](Bounder.md): Leap
 -   [King Thresher](King_Thresher.md): Body Slam
 -   [Nautilodaunt](Nautilodaunt.md) (all variants): Drop-Kick
 
@@ -600,6 +598,7 @@ Attacks with this indicator can be jumped over.
 
 **Monster Attacks**
 
+-   [Bonekeeper](Bone_Keeper.md): Bone Spikes
 -   [Rock Golem](Rock_Golem.md) (all variants): Stomp
 
 **Boss Attacks**
@@ -630,6 +629,7 @@ Some of these attacks have unique mechanics regarding how/if they can be avoided
 **Monster Attacks**
 
 -   [Bone Keeper](Bone_Keeper.md): Leap
+-   [Bounder](Bounder.md): Leap
 -   [Nautilodaunt Officiate](Nautilodaunt_Officiate.md): Furious Stomp
 
 **Boss Attacks**
