@@ -1,9 +1,9 @@
 ---
 title: Plain Cape
-revid: 214730
+revid: 214971
 source: https://deepwoken.fandom.com/wiki/Plain_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Torso, Capes, Equipment with Styles]
+categories: [Equipment with Styles, Equipment, Torso, Capes]
 ---
 
 # Plain Cape
@@ -15,6 +15,7 @@ categories: [Equipment, Torso, Capes, Equipment with Styles]
 | selling price | 14 |
 | requirements | Power 5 |
 | weight | 0.5 |
+| styles | Authority, Black, Blue, Golden, Green, Grey, Red, White |
 | innate stats | +3% Physical Armor , +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |
@@ -26,4 +27,4 @@ categories: [Equipment, Torso, Capes, Equipment with Styles]
 
 ## Description
 
-The Plain Cape is an [Equipment](Equipment.md) item under the "Torso" category. They can be found through chests in [Minityrsa](Minityrsa.md) and [Songseeker Wilds](Songseeker_Wilds.md).
+The Plain Cape is an [Equipment](Equipment.md) item under the "Torso" category.

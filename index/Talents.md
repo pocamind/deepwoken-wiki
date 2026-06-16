@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 214910
+revid: 214968
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4527,6 +4527,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 
 -   Blind Spot: [Inquisitor's Visor](<Inquisitor's_Visor.md>) - Land Critical Attack or Hidden Blade Apply [Blinded](Status_Effects.md#blinded) for 5 seconds.
     -   15 second cooldown.
+    -   Can be procced by [Mantle of Enmity](Mantle_of_Enmity.md).
 
 -   Blinded: [Blindfold](Blindfold.md) - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.
     -   Makes everything darker and creates fog at long distances

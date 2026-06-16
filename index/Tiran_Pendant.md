@@ -1,9 +1,9 @@
 ---
 title: Tiran Pendant
-revid: 210868
+revid: 214973
 source: https://deepwoken.fandom.com/wiki/Tiran_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Torso, Necklaces, Relics, Equipment with Talents, Equipment with Exclusive Talents]
+categories: [Equipment with Styles, Equipment, Torso, Necklaces, Relics, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Tiran Pendant
@@ -15,6 +15,7 @@ categories: [Equipment, Torso, Necklaces, Relics, Equipment with Talents, Equipm
 | selling price | 100 |
 | requirements | Power 5 |
 | weight | 0.5 |
+| styles | Tarnished, Unblemished |
 | innate stats | +2 Health , +1 Legendary Pip |
 | innate talent | Featherfall |
 | bankable | Yes, (it costs 1 to unbank) |
@@ -28,12 +29,9 @@ categories: [Equipment, Torso, Necklaces, Relics, Equipment with Talents, Equipm
 
 The Tiran Pendant is a [Relic](Relics.md) [Equipment](Equipment.md) item under the "Torso" category.
 
-The [Featherfall](Talents.md#featherfall) Talent grants nearly complete immunity to fall damage.
-
-After negating 225 fall damage (tracked across servers), the pendant will go on cooldown for 2 minutes.
+The [Featherfall](Talents.md#featherfall) Talent grants near-complete immunity to fall damage. After preventing a total of 225 fall damage (tracked across all servers), the Talent enters a 2-minute cooldown.
 
 ## Trivia
 
 -   The third (or second) equippable [Relic](Relics.md), released after [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) and at the same time as [Warmaster's Medallion](<Warmaster's_Medallion.md>).
 -   Used to have a bug which relogging while the passive was on cooldown would double the cooldown leading to massive cooldowns on the passive.
--   This is one of the droppable torso relics alongside the [Warmaster's Medallion](<Warmaster's_Medallion.md>), [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>), and the [Whistling Periapt](Whistling_Periapt.md).

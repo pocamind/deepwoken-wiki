@@ -1,6 +1,6 @@
 ---
 title: "Ringing Scholar's Raiments"
-revid: 211722
+revid: 215006
 source: https://deepwoken.fandom.com/wiki/Ringing_Scholar's_Raiments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Arms, Raiments]
@@ -30,9 +30,13 @@ categories: [Pathfinder Exclusive, Equipment, Arms, Raiments]
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
+\[\]
+
 Ringing Scholar's Set
 
 Variants: [Capeline](<Ringing_Scholar's_Capeline.md>) · [Boots](<Ringing_Scholar's_Boots.md>) · [Necktie](<Ringing_Scholar's_Necktie.md>)
+
+\[\]
 
 ## Description
 

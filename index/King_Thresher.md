@@ -1,6 +1,6 @@
 ---
 title: King Thresher
-revid: 208958
+revid: 214937
 source: https://deepwoken.fandom.com/wiki/King_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -10,7 +10,7 @@ categories: [Monsters]
 
 | King Thresher | |
 |---|---|
-| health | 2900, 7250 (Corrupted) |
+| health | 2500, 6250 (Corrupted) |
 | attacks | Royal Breath, Arm Swipes, Bites, Tail Swipe, Burrow, Body Slam |
 | drops | (Common), King Thresher Spine(Rare), Mantra Modifiers, First Ranger Duster(Rare), Acheron's Warspear, Serrated Warspear, True Seraph's Spear |
 | locations | Starswept Valley, The Depths, The Diluvian Mechanism |

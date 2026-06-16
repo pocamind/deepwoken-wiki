@@ -1,9 +1,9 @@
 ---
 title: Monastery Champion Robes
-revid: 211379
+revid: 214966
 source: https://deepwoken.fandom.com/wiki/Monastery_Champion_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Equipment with Talents, Equipment with Exclusive Talents]
+categories: [Equipment with Styles, Equipment, Arms, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Monastery Champion Robes
@@ -15,6 +15,7 @@ categories: [Equipment, Arms, Equipment with Talents, Equipment with Exclusive T
 | selling price | 50 |
 | requirements | Power 12 |
 | weight | 2 |
+| styles | Champion (Cotton), Champion (Linen), Oni (Cotton), Oni (Linen) |
 | innate stats | +8 Health , +1 Posture , +2 Legendary Pips, +1 Rare Pip |
 | innate talent | Temple Guard |
 | set | Monastery Cowl, Monastery Champion Robes, Monastery Beads |
@@ -30,9 +31,8 @@ categories: [Equipment, Arms, Equipment with Talents, Equipment with Exclusive T
 
 The Monastery Champion Robes are an [Equipment](Equipment.md) item under the "Arms" category. It is rarely found within chests rewarded by [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) and the [Etris: Siege](Cinders_of_Etris.md) event.
 
-[Temple Guard](Talents.md#temple-guard) grants 90% damage reduction to any attack that cancels your critical attack within the first 0.3s of its animation. This does not prevent your critical attack from being canceled, and does not work if the attack doesn't cancel your critical (i.e. hyper armor).
+The [Temple Guard](Talents.md#temple-guard) Talent grants 90% damage reduction to any attack that cancels your critical attack within the first 0.3s of its animation. This does not prevent your critical attack from being canceled, and does not work if the attack doesn't cancel your critical (i.e. hyper armor).
 
 ## Trivia
 
 -   The Monastery Champion set was designed by J3STTR, being the winning entry of the "Vigils Equipment Art Concept Contest", leading to its addition.
--   Owing to its high innate health, pips and unique talent, the Monastery Champion Robes are a very competent endgame Arms Equipment, coming close to the likes of the [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md) and the [Diver's Light Plate](<Diver's_Light_Plate.md>).

@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 211756
+revid: 214935
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -28,6 +28,8 @@ The Thresher is a large crocodilian [Monster](Monsters.md) that is commonly foun
 When found in the [Voidsea](Voidsea.md), Threshers become Void Threshers, having slightly less health and a more grayscaled appearance as well as having white cracks along their bodies, as a result of the Voidsea's influence.
 
 Appearing as a blind crocodilian with large teeth and green scales, they have an incredible sense of smell as well as possessing an arsenal of sharp claws that can easily hunt and kill their prey respectively. They are evidently social creatures as they tend to live in nests, though the density and size of their nests affect the behavior of male Threshers. This leads into a competition between the males, emerging a [King](King_Thresher.md) in their stead that leads the pack.
+
+Threshers are an ancient species, and the people of [Aratel Island](Aratel_Island.md) carved charms in their likeness in the past.[\[1\]](#cite-note-1)
 
 They are not all hostile though, as [Sordino](Sordino.md), a man found at the [Starswept Valley](The_Starswept_Valley.md), that has managed to tame some of these Threshers in which you can ride as a [mount](Mounts.md) - provided you have the [Crowns](Crowns.md) to buy such an elusive beast.
 
@@ -105,3 +107,7 @@ Dodge
 -   You can use [Thresher Bait](Monster_Bait.md) to spawn Threshers near water, just like Megalodaunt Bait.
 -   Prior to October 1st, 2023, the [Thresher Spine](Thresher_Spine.md) had no description, making it the only [Monster](Monsters.md) drop not to have one.
 -   Originally, no Thresher could swim. If they ended up in the sea they would sink and despawn.
+
+## References
+
+1.  [↑](#cite-ref-1) [Thresher Charm](Thresher_Charm.md)

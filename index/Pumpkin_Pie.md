@@ -1,6 +1,6 @@
 ---
 title: Pumpkin Pie
-revid: 175652
+revid: 214988
 source: https://deepwoken.fandom.com/wiki/Pumpkin_Pie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -40,4 +40,4 @@ Additionally, it grants the Heal buff, affecting 35% of the Stomach bar. The buf
 
 ### Recipe
 
--   1 [Egg](Egg.md) or [Thresher Egg](Thresher_Egg.md), 1 [Gathered Wheat](Gathered_Wheat.md), and 2 [Pumpkins](Pumpkin.md).
+-   1 [Egg](Egg.md) or [Thresher Egg](Thresher_Egg.md), 1 [Gathered Wheat](Gathered_Wheat.md), and 2 [Pumpkins](Pumpkin.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).

@@ -1,9 +1,9 @@
 ---
 title: Aristocrat Coat
-revid: 214621
+revid: 214947
 source: https://deepwoken.fandom.com/wiki/Aristocrat_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Coats, Equipment with Talents, Equipment with Exclusive Talents, Equipment with Styles]
+categories: [Equipment with Styles, Equipment, Arms, Coats, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Aristocrat Coat
@@ -15,6 +15,7 @@ categories: [Equipment, Arms, Coats, Equipment with Talents, Equipment with Excl
 | selling price | 14 |
 | requirements | Power 10 |
 | weight | 2 |
+| styles | Beige, Burgundy, Slate |
 | innate stats | +6 Health , +2 Rare Pips, +1 Legendary Pip |
 | innate talent | Art of the Deal |
 | set | Tophat, Aristocrat Coat, Aristocrat Eyeglasses |

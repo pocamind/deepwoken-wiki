@@ -1,6 +1,6 @@
 ---
 title: "Worshipper's Shield"
-revid: 214896
+revid: 214997
 source: https://deepwoken.fandom.com/wiki/Worshipper's_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Offhand, The Covenant of Flame, Weapons with Talents]
@@ -36,7 +36,9 @@ The Worshipper's Tolerance talent reduces burn damage you take by 15% and applie
 
 Equipping the Worshipper's Shield grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
+**Worshipper's Tolerance** reduces [Burn](Status_Effects.md#burn) damage taken by 15%. Additionally, if you are currently [burning](Status_Effects.md#burn), parrying your opponent will set them [on fire](Status_Effects.md#burn), 45 second cooldown.
+
 ## Trivia
 
 -   Using this weapon alongside the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) and [Worshipper Longsword](Worshipper_Longsword.md) will activate the Flame Worshipper Armor's [One With Flame](Talents.md#one-with-flame) Talent, providing several bonuses if the user is currently on [fire](Status_Effects.md#burn). While active, you'll gain 25% damage reduction, your [Medium Weapon Mantras](Attunement-less.md#medium-weapon-mantras) will turn orange, and your Mantras will apply [Burn](Status_Effects.md#burn) on hit.
--   The shield is meant to be paired with the [Worshipper Longsword](Worshipper_Longsword.md).
+-   This shield was the first non-Pistol offhand weapon to receive a weapon Talent.

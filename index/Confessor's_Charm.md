@@ -1,9 +1,9 @@
 ---
 title: "Confessor's Charm"
-revid: 209842
+revid: 214969
 source: https://deepwoken.fandom.com/wiki/Confessor's_Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Torso, Necklaces]
+categories: [Equipment with Styles, Equipment, Torso, Necklaces]
 ---
 
 # Confessor's Charm
@@ -15,6 +15,7 @@ categories: [Equipment, Torso, Necklaces]
 | selling price | 25 |
 | requirements | Power 5 |
 | weight | 0.5 |
+| styles | Classic, Tarnished |
 | innate stats | +3% Physical Armor , +1 Rare Pip, +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |
@@ -30,5 +31,4 @@ The Confessor's Charm is an [Equipment](Equipment.md) item under the "Torso" cat
 
 ## Trivia
 
--   Both Confessor's Charm & [Canticlysm Pendant](Canticlysm_Pendant.md) were added together a while after the release of Verse Two, they came out on 2/06/23. They were also added along with [Old Blood Earrings](Old_Blood_Earrings.md) & [Moonlit Earrings](Crescent_Earrings.md), Both Earrings also being one of the best Earring pieces in their own way.
 -   Shares stats with the [Pendant of Order](Pendant_of_Order.md).

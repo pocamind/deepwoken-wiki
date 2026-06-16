@@ -1,9 +1,9 @@
 ---
 title: Azure Sentinel Pauldrons
-revid: 214922
+revid: 214954
 source: https://deepwoken.fandom.com/wiki/Azure_Sentinel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Pauldrons]
+categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
 ---
 
 # Azure Sentinel Pauldrons
@@ -15,6 +15,7 @@ categories: [Equipment, Arms, Pauldrons]
 | selling price | 7 |
 | requirements | None |
 | weight | 2 |
+| styles | Brushed, Galvanized |
 | innate stats | +2 Rare Pips, +1 Legendary Pip |
 | innate talent | N/A |
 | set | Azure Sentinel Pauldrons, Azure Sentinel Boots |

@@ -1,9 +1,9 @@
 ---
 title: Monastery Cowl
-revid: 211378
+revid: 214961
 source: https://deepwoken.fandom.com/wiki/Monastery_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Cowls, Equipment with Talents, "Equipment with Non-exclusive Talents"]
+categories: [Equipment with Styles, Equipment, Head, Cowls, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Monastery Cowl
@@ -15,6 +15,7 @@ categories: [Equipment, Head, Cowls, Equipment with Talents, "Equipment with Non
 | selling price | 25 |
 | requirements | Power 6 |
 | weight | 1 |
+| styles | Cotton, Linen |
 | innate stats | +5% Stealth , +2 Rare Pips |
 | innate talent | Blade Dancer |
 | set | Monastery Cowl, Monastery Champion Robes, Monastery Beads |

@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 214828
+revid: 214953
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -26,9 +26,9 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Traan Zakshun is a [Canor](Canor.md) NPC. He is a merchant who sells various outfit schematics and weapons labelled as "Traan's Salvaged Stock".
+Traan Zakshun is a [Canor](Canor.md) NPC. He is a merchant who sells various outfit schematics, equipment, and weapons labelled as "Traan's Salvaged Stock".
 
-He is a young carafe brown Canor with short, dark green hair that sweeps to the right. He wields an [Iron Twinblade](Iron_Twinblade.md) on his back and wears the [Carefree Garments](Carefree_Garments.md) outfit. Traan also wears a hat made out of kelp on his head, which he claims is for later consumption.
+He is a middle-aged carafe brown Canor with short, dark green hair that sweeps to the right. Both of his eyes are in a vibrant lime hue, accompanied with a small upwards crescent. On his face is a scar that forms from the bridge of his nose to the left side of his face, and markings that consist of a fading green eyeshadow on the top, with downward facing crescents that have three individual streaks on the bottom. He wields an [Iron Twinblade](Iron_Twinblade.md) on his back and wears the [Carefree Garments](Carefree_Garments.md) outfit, complimented with an ivory [Suncross Pendant](Suncross_Pendant.md). Traan also wears a hat made out of kelp on his head, fashioned with two kelp leaves attached by a crown which he claims is for later consumption.
 
 Traan got into the business by working alongside his grandmother, [Naan Zakshun](Naan_Zakshun.md), during the [Etrean Civil War](Etrean_Civil_War.md). During this time, he learned to create kelp hats and gave one to her to wear. He also has a love of ongos that dates back to his youth.[\[1\]](#cite-note-nan-1)
 
@@ -333,6 +333,7 @@ Traan's item descriptions will change randomly each time he sells goods from his
 -   _Don't even ask, man._
 -   _Got somethin' that might interest ya..._
 -   _Have I seen you before? Yeah, wait... you told people my stock sucked... Wait. Actually, that might've been someone else. I \*will\* find them._
+-   _Ignore the scuff marks, there were barnacles on it when I found it._
 -   _I barely know what I'm looking at here._
 -   _I gave one of these away for free yesterday. You missed out._
 -   _I need to use these crowns to buy some earplugs, for that eardrum-rupturing sea snake..._
@@ -358,6 +359,7 @@ Traan's item descriptions will change randomly each time he sells goods from his
 -   _Okay, you really have to be careful with this._
 -   _Some guy literally walked through a mirror and handed me these, it was the strangest thing..._
 -   _Thanks for looking, you know... you could actually buy it._
+-   _That glowy Diver lady's bright, but not that bright. See this scar on my face? I convinced her a regular egg was an exotic Megalodaunt egg and walked away with a whole shipment of dye packets. Worth every bruise._
 -   _The Legendary Boot?.. Pff, good joke pal, I don't sell trash._
 -   _The Moonseye is real beautiful, huh. I never really gave it much thought before... Then again I haven't been here too long._
 -   _This isn't overpriced, it's MY SHOP!_
@@ -370,10 +372,11 @@ Traan's item descriptions will change randomly each time he sells goods from his
 -   _What? No, it doesn't come in purple. What kind of question is that, man?_
 -   _Where'd I get this? Fell outta the back of a carriage, yeah?_
 -   _Whispers say this was lost to time... ooOOOooo !!_
+-   _Why are my eyes green? B'cus it's all I see._
 -   _You buy it - you break it. Wait a sec..._
 -   _You got cash for a crown? I'm running low on change here... If not, it's fine._
 -   _You want it? It's yours, my friend! As long as you have enough crowns._
--   _You want my hat instead? I actually made it out of dried kelp, I'm saving it for later. Not for sale._
+-   _You want my hat instead? I actually made it out of dried kelp, I'm saving it for later. \*Not\* for sale._
 -   _You wouldn't believe how hard these were to find._
 
 ## Black Market Shop Rotation
@@ -457,7 +460,7 @@ Sold Items
 ## Trivia
 
 -   Traan Zakshun's name is a play on the word "transaction." This is only further reinstated by him being a merchant.
-    -   Traan's name was originally "Trahne Zakshun", however it was changed in the June 30th, 2025 update, as too many people were pronouncing it as "train saction" and not "transaction".
+    -   Traan's name was originally "Trahne Zakshun", however it was changed in the [June 30th, 2025](Version_History/2025.md#june-30th-2025) update, as too many people were pronouncing it as "train saction" and not "transaction".
 -   Traan's shop dialogues contain references to other media:
     -   "_A strange blue turnip salesman once told me that deep forests, like the ones in Upper Erisia, bring in good coin. Gotta say, he's right._" is a reference to the turnip salesman from _Rogue Lineage_.
     -   "_...What's an 'angel statue'? Look, I think you're confusing me for someone else here, buddy._" is a reference to a running joke in _Terraria_ that involves several merchant NPCs referencing the Angel Statue item.
@@ -465,8 +468,9 @@ Sold Items
     -   "_You want it? It's yours, my friend! As long as you have enough crowns._" is a reference to Morshu from _Link: The Faces of Evil_.
     -   "_Colour makes us hungry - everything's connected!_" is a reference to the song _Redesign your Logo_ by Lemon Demon.
 -   As stated by Traan himself and Nuttoons, the developer who made the character, Traan mugs freshies and bandits around Erisia for the wares that they sell in his regular shop rotation.[\[3\]](#cite-note-0-3) This draws similarity to the [Loot Bag Gacha](Loot_Bag_Gacha.md) NPCs, although unlike Traan, the loot bag gacha NPCs collect their goods off of corpses rather than getting his hands dirty himself.
+-   Traan's original appearance did not have a scar, nor green makeup.
 
-## Referen ces
+## References
 
 1.  ↑ [1.0](#cite-ref-nan-1-0) [1.1](#cite-ref-nan-1-1) [1.2](#cite-ref-nan-1-2) [Naan Zakshun](Naan_Zakshun.md)
 2.  [↑](#cite-ref-2) [Scoundrel's Saber](<Scoundrel's_Saber.md>) description

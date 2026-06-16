@@ -1,9 +1,9 @@
 ---
 title: Canticlysm Pendant
-revid: 209841
+revid: 214967
 source: https://deepwoken.fandom.com/wiki/Canticlysm_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Torso, Necklaces]
+categories: [Equipment with Styles, Equipment, Torso, Necklaces]
 ---
 
 # Canticlysm Pendant
@@ -15,19 +15,16 @@ categories: [Equipment, Torso, Necklaces]
 | selling price | 25 |
 | requirements | Power 5 |
 | weight | 0.5 |
+| styles | Metal, Precious Stone, Tarnished |
 | innate stats | +3% Elemental Armor , +1 Rare Pip, +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chaser, Scholar of the Crimson Contract, Hell Mode, Lodestar, Maestro Evengarde Rest, Elder Primadon, The Titan Warlord, Heart of Enmity |
+| obtainment | Chests from:, Chaser, Scholar of the Crimson Contract, Hell Mode, Lodestar, Maestro Evengarde Rest, Elder Primadon, The Titan Warlord, Heart of Enmity |
 | description | ... |
 
 ## Description
 
-The Canticlysm Pendant is an [Equipment](Equipment.md) item under the "Torso" category. You can commonly find after defeating Chaser. Alternatively, you can farm Hell Mode for it, but it won't be as common. This is without a doubt, currently the _second_ best Torso piece. Unless you prefer Physical Armor over Elemental, then [Confessor's Charm](<Confessor's_Charm.md>) is for you.
-
-## Trivia
-
--   Both Canticlysm Pendant & [Confessor's Charm](<Confessor's_Charm.md>) were added together a while after the release of Verse Two, they came out on 2/06/23. They were also added along with [Old Blood Earrings](Old_Blood_Earrings.md) & [Moonlit Earrings](Crescent_Earrings.md), Both Earrings also being one of the best Earring pieces in their own way.
+The Canticlysm Pendant is an [Equipment](Equipment.md) item under the "Torso" category.

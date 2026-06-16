@@ -1,9 +1,9 @@
 ---
 title: Pendant of Order
-revid: 210747
+revid: 214972
 source: https://deepwoken.fandom.com/wiki/Pendant_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Event Only Content, Equipment, Torso, Necklaces]
+categories: [Equipment with Styles, Event Only Content, Equipment, Torso, Necklaces]
 notices:
   - "This page contains Event Exclusive Content This page contains content that was only present during an event, and was removed after. It may come back during seasonal times or re-runs."
 ---
@@ -17,6 +17,7 @@ notices:
 | selling price | N/A |
 | requirements | Power 5 |
 | weight | 0.5 |
+| styles | Balanced, Classic, Glory, Oldhead |
 | innate stats | +3% Physical Armor , +1 Rare Pip, +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |

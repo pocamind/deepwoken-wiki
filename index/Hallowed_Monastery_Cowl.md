@@ -1,9 +1,9 @@
 ---
 title: Hallowed Monastery Cowl
-revid: 210493
+revid: 214959
 source: https://deepwoken.fandom.com/wiki/Hallowed_Monastery_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Head, Cowls, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
+categories: [Equipment with Styles, Vow of Iron Exclusive, Equipment, Head, Cowls, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
 ---
 
 # Hallowed Monastery Cowl
@@ -15,6 +15,7 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Cowls, Equipment with Talen
 | selling price | 50 |
 | requirements | None |
 | weight | 1 |
+| styles | Cotton, Linen |
 | innate stats | +5% Stealth , +2 Rare Pips |
 | innate talent | Blade Dancer, Footwork Mastery |
 | set | Hallowed Monastery Cowl, Hallowed Monastery Beads |

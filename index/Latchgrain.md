@@ -1,6 +1,6 @@
 ---
 title: Latchgrain
-revid: 208960
+revid: 214992
 source: https://deepwoken.fandom.com/wiki/Latchgrain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Ingredients, Harvestables]
@@ -27,8 +27,6 @@ notices:
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-  
 
 ## Description
 
