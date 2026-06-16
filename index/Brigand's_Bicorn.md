@@ -1,9 +1,9 @@
 ---
 title: "Brigand's Bicorn"
-revid: 214734
+revid: 215139
 source: https://deepwoken.fandom.com/wiki/Brigand's_Bicorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Hats, Equipment with Styles]
+categories: [Equipment with Styles, Equipment, Head, Hats]
 ---
 
 # Brigand's Bicorn
@@ -15,6 +15,7 @@ categories: [Equipment, Head, Hats, Equipment with Styles]
 | selling price | 14 |
 | requirements | Power 6 |
 | weight | 1 |
+| styles | Fabric, Leather |
 | innate stats | +3 Health , +2 Rare Pips |
 | innate talent | Spare Nails, Emergency Repairs |
 | set | Brigand's Bicorn, Brigand's Cloak |

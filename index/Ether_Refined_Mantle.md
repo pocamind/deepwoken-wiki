@@ -1,6 +1,6 @@
 ---
 title: Ether Refined Mantle
-revid: 215030
+revid: 215153
 source: https://deepwoken.fandom.com/wiki/Ether_Refined_Mantle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Arms, Equipment, Craftable, Equipment with Set Bonuses, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -50,6 +50,8 @@ When wearing the full equipment set, you will gain the Set Talent.
 Set Talent: [Sorcerer's Supply](Talents.md#sorcerers-supply) - Increase the amount of [Tempo](Combat_Mechanics.md#tempo) you have by 10/30.
 
 This increases your [Tempo](Combat_Mechanics.md#tempo) by 10 in [Pathfinder](Pathfinder.md) and 30 in [Vow of Iron](Vow_of_Iron.md).
+
+  
 
 ## Navigation
 

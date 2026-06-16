@@ -1,6 +1,6 @@
 ---
 title: "Konga's Parka"
-revid: 210518
+revid: 215178
 source: https://deepwoken.fandom.com/wiki/Konga's_Parka
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Parkas, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]

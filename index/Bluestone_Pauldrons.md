@@ -1,6 +1,6 @@
 ---
 title: Bluestone Pauldrons
-revid: 214485
+revid: 215146
 source: https://deepwoken.fandom.com/wiki/Bluestone_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses, Pauldrons, Equipment with Talents, Equipment with Exclusive Talents]
@@ -42,7 +42,7 @@ When wearing the full equipment set, you will gain the Set Talent.
 
 Set Talent: [Etherguard](Talents.md#etherguard) - [Warped Blue Gems](Warped_Blue_Gem.md) now provide a bonus effect when landed using a mantra, [Etherguard](Status_Effects.md#etherguard). This effect gives extra resistances to mantras based on how much ether they cost to cast + gain elemental protection against PvE.
 
-Etherguard applies the [Etherguard](Status_Effects.md#etherguard) status effect to yourself for 15 seconds. While you have this status effect, Mantras will deal reduced damage to you based on their Ether cost and you will gain elemental resistance against NPCs.
+Etherguard applies the [Etherguard](Status_Effects.md#etherguard) status effect to yourself for 15 seconds. While you have this status effect, Mantras will deal reduced damage to you based on their Ether cost (10 Ether = 1% Resistance) and you will gain elemental resistance against NPCs.
 
 ## Obtainment
 

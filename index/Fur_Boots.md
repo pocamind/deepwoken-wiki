@@ -1,9 +1,9 @@
 ---
 title: Fur Boots
-revid: 209734
+revid: 215177
 source: https://deepwoken.fandom.com/wiki/Fur_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Equipment, Legs, Boots, Equipment with Styles]
+categories: [Equipment with Styles, Equipment, Legs, Boots]
 ---
 
 # Fur Boots
@@ -15,6 +15,7 @@ categories: [Pages with broken file links, Equipment, Legs, Boots, Equipment wit
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
+| styles | Black, White |
 | innate stats | +3 Health , +2% Elemental Armor , +1 Rare Pip |
 | innate talent | N/A |
 | set | Fur Pauldrons, Fur Boots |
@@ -23,13 +24,9 @@ categories: [Pages with broken file links, Equipment, Legs, Boots, Equipment wit
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Erisia, Minityrsa, Lodestar (Black), Songseeker Wilds, Starswept Valley, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, War Mode (Black), Authority Ensign Missions (White) |
+| obtainment | Chests from:, Erisia, Minityrsa, Lodestar, Songseeker Wilds, Starswept Valley, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, War Mode, Authority Ensign Missions |
 | description | ... |
 
 ## Description
 
 The Fur Boots are an [Equipment](Equipment.md) item under the "Boots" category.
-
-## Trivia
-
--   The only pair of boots that has styles.

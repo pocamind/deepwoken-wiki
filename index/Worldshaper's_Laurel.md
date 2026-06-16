@@ -1,9 +1,9 @@
 ---
 title: "Worldshaper's Laurel"
-revid: 202035
+revid: 215082
 source: https://deepwoken.fandom.com/wiki/Worldshaper's_Laurel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Exclusive, Equipment, Head, Ornaments, Hats]
+categories: [Equipment with Styles, Exclusive, Equipment, Head, Ornaments, Hats]
 notices:
   - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
 ---
@@ -14,11 +14,13 @@ notices:
 |---|---|
 | type | Head |
 | rarity | Unique |
-| selling price | Unsellable |
+| selling price | N/A |
+| requirements | None |
 | weight | 1 |
+| styles | Classic, Tarnished |
 | innate stats | N/A |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | (Unobtainable) |
@@ -30,6 +32,5 @@ The Worldshaper's Laurel is an unobtainable [Equipment](Equipment.md) item under
 
 ## Trivia
 
--   This item cannot be dropped by the user.
 -   This is the only unobtainable [Equipment](Equipment.md) piece that can be obtained by people who aren't moderators/contributors.
--   This is also worn by the hero of wind seen wearing it when you use the hero blade critical
+-   This is also worn by [Trinity Galenwarde](Trinity_Galenwarde.md), Hero of the Wind.

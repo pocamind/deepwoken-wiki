@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 213537
+revid: 215111
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -86,7 +86,7 @@ As you can only gain a maximum of 4 promotions which inludes Path promotions, yo
 -   **Justicar's Preference** - Replace your critical with the [Jus Karita](Jus_Karita.md) critical attack.
     -   Regardless of your currently equipped weapon, this will replace your critical attack/attacks with [Jus Karita](Jus_Karita.md)'s.
     -   The Jus Karita critical will adopt your equipped weapon's scaling stat.
-    -   Having the Vanguard Style Talent will override this Talent, allowing you to use the Vanguard Style critical on any weapon instead of the Jus Karita one.
+    -   Having the Vanguard Style Talent will override this Talent, allowing you to use the Vanguard Style critical on any weapon instead of the Jus Karita one, at the cost of increasing your critical cooldown from 3 seconds to 8 seconds.
 -   **Justicar's Technique** - Replace your running light attack with the Jus Karita running light attack. With the Justicar's Training, your legs extend the range of this running attack by an extra 0.5.
 -   **Swiftfoot** - Reduce all slows you recieve by 10%.
 -   **Trained Legs** - Slightly increase your climb strength.
@@ -112,7 +112,7 @@ Upon taking the Vanguard Path, you will automatically be granted [Justicar's Arm
 -   **Soaring Swiftkick** - Flying Swiftkick no longer consumes your speed boost and instead gives you more speed.
     -   Prerequisites: Flying Swiftkick
 -   **Vanguard Style** - When using the [Jus Karita](Jus_Karita.md) critical attack, turn it into a kick that brings your enemies up in the air. Landing the critical attack while your opponent is in the air brings them up and slightly stuns them while upgrading your next critical.
-    -   This new critical attack has 20 base damage with no investment scaling.
+    -   This new critical attack has a windup of 0.47 seconds and 20 base damage with no investment scaling.
 -   **Vanguard's Onslaught** - Landing a Vanguard Style Jus Karita critical attack makes you deal 20% more damage in the air for the next 5 seconds.
     -   Prerequisites: Vanguard Style
 

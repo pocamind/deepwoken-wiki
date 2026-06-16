@@ -1,6 +1,6 @@
 ---
 title: Ambrosial Chum
-revid: 214985
+revid: 215154
 source: https://deepwoken.fandom.com/wiki/Ambrosial_Chum
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Food, Craftable]
@@ -19,7 +19,7 @@ notices:
 | droppable | Yes |
 | pass down | No |
 | desc | We're going to catch a big one! |
-| obtainment | Cooking |
+| obtainment | Cooking either 1 Dread Flesh, Primal Slab, Raw Heavy Meat, or Raw Parasol Brain |
 
 ## Description
 

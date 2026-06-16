@@ -1,9 +1,9 @@
 ---
 title: Simple Pauldrons
-revid: 210807
+revid: 215097
 source: https://deepwoken.fandom.com/wiki/Simple_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Pauldrons]
+categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
 ---
 
 # Simple Pauldrons
@@ -15,13 +15,14 @@ categories: [Equipment, Arms, Pauldrons]
 | selling price | 7 |
 | requirements | None |
 | weight | 2 |
+| styles | Not So Simple, Simple |
 | innate stats | +2 Health |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, The Depths (First Layer), Erisia, Sea Events |
+| obtainment | Chests from:, Duke Erisia, First Layer, Erisia, Sea Events |
 | description | Either they're of low complexity or someone needs a punch. |
 
 ## Description

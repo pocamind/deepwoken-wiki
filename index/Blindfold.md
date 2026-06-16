@@ -1,9 +1,9 @@
 ---
 title: Blindfold
-revid: 214897
+revid: 215132
 source: https://deepwoken.fandom.com/wiki/Blindfold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Face, Equipment with Styles, Equipment with Talents, Equipment with Exclusive Talents]
+categories: [Equipment with Styles, Equipment, Face, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Blindfold
@@ -15,6 +15,7 @@ categories: [Equipment, Face, Equipment with Styles, Equipment with Talents, Equ
 | selling price | 25 |
 | requirements | None |
 | weight | 0.5 |
+| styles | Black, Crimson, White |
 | innate stats | +1 Common Pip |
 | innate talent | Blinded |
 | bankable | Yes |
@@ -26,13 +27,13 @@ categories: [Equipment, Face, Equipment with Styles, Equipment with Talents, Equ
 
 ## Description
 
-A Blindfold is a rare [Equipment](Equipment.md) item under the "Face" category.
+The Blindfold is an [Equipment](Equipment.md) item under the "Face" category.
 
-Equipping any of them will give you the [Blinded](Talents.md#blinded) talent, which is required to unlock the [Blindseer](Oath%253A_Blindseer.md) Oath.
+Equipping any of them will grant you the [Blinded](Talents.md#blinded) talent, which is required to unlock the [Blindseer](Oath%253A_Blindseer.md) Oath.
 
 ## Trivia
 
--   Model wse, the Crimson and Black blindfold are visually the exact same, just with different colors.
+-   Model wise, the Crimson and Black blindfold are visually the exact same, just with different colors.
 -   [Gremor](Gremor.md) get a small circle of clear vision around them when affected by the Blinded Talent.
 -   The [Blinded](Talents.md#blinded) Talent originally made the screen completely black so the user could not see anything other than chat messages and the GUI.
-    -   Many players would use this to troll freshies by tricking them to put it on, because the blindfold could not be taken off without a campfire, removing it in the inventory, or putting on another piece of face equipment, and it's very difficult to find a campfire when you can't see anything around you. (Not then, atleast.)
+    -   Many players used this to troll freshies by tricking them into equipping it, as the blindfold could not be removed without a campfire, removing it through the inventory, or equipping another piece of face equipment. Since finding a campfire was extremely difficult while completely blinded, many unsuspecting players would end up stranded. (At least back then.)

@@ -1,6 +1,6 @@
 ---
 title: Exotic Hide
-revid: 213217
+revid: 215155
 source: https://deepwoken.fandom.com/wiki/Exotic_Hide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -17,7 +17,7 @@ categories: [Items, Drops, Ingredients]
 | droppable | No |
 | pass down | No |
 | desc | The tough yet flexible skin of a Megalodaunt. Despite their appearance, they are relatively poor swimmers, opting instead to climb out of undersea crevasses that bore through the surface world into the Depths. Their nests litter the less populated shores of the world. |
-| obtainment | Exotic Megalodaunt (guaranteed), Weird Trader |
+| obtainment | Exotic Megalodaunt (guaranteed direct drop), Weird Trader |
 
 ## Description
 

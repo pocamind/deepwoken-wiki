@@ -1,9 +1,9 @@
 ---
 title: "High Inquisitor's Hood"
-revid: 214776
+revid: 215091
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Hoods, Equipment of The Central Authority]
+categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment of The Central Authority]
 ---
 
 # High Inquisitor's Hood
@@ -15,6 +15,7 @@ categories: [Equipment, Head, Hoods, Equipment of The Central Authority]
 | selling price | 25 |
 | requirements | Power 5 |
 | weight | 1 |
+| styles | Authority, Black, Blue, Golden, Green, Grey, Red, White |
 | innate stats | +2 Legendary Pips |
 | innate talent | N/A |
 | bankable | Yes |
@@ -26,8 +27,13 @@ categories: [Equipment, Head, Hoods, Equipment of The Central Authority]
 
 ## Description
 
-The **High Inquisitor's Hood** is a Rare [Equipment](Equipment.md) item under the "Head" category.
+The High Inquisitor's Hood is an [Equipment](Equipment.md) item under the "Head" category.
 
 ## Trivia
 
--   Other Inquisitor Hoods include: [Handler's Hood](<Handler's_Hood.md>) and [Inquisitor's Hood](<Inquisitor's_Hood.md>).
+-   Other Inquisitor Hoods include the [Handler's Hood](<Handler's_Hood.md>) and [Inquisitor's Hood](<Inquisitor's_Hood.md>).
+-   This item will drop more commonly if completing Authority Ensign missions while in the Inquisitor Division.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1)

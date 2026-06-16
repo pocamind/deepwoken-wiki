@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 213019
+revid: 215109
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -208,7 +208,7 @@ Wind [ResistanceGalebreathe](Galebreathe.md)
 -   Has a base damage of 18/20.5/23/25.5/28 per level with 2.75 Galebreathe scaling.
 -   The Tempest Wind variant has a base damage of 15/22.5/30/37.5/45 per level with 2.75 Galebreathe scaling.
 -   The default variant deals 12 posture damage regardless of level, while the Tempest Wind variant deals 4/5/6/7/8 posture damage per level.
--   Both variants have a windup of 0.5 seconds.
+-   Both variants have a windup of 0.425 seconds.
 -   Projectile lasts about 3-5 seconds
 -   Modifying with a [Drift](Mantra_Modifiers.md#regular-modifiers)/[Rush Shards](Mantra_Modifiers.md#regular-modifiers) will increase projectile's speed significantly.
 -   Casting Wind Blade while sliding will perform the "**Tempest Wind**" variant of the Mantra. This version deals increased damage at the cost of range, as well as proccing the [Suffocation](Status_Effects.md#suffocation) status effect innately.

@@ -1,6 +1,6 @@
 ---
 title: Battle Royale
-revid: 214598
+revid: 215102
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [StubPages, World Event]
@@ -8,23 +8,11 @@ categories: [StubPages, World Event]
 
 # Battle Royale
 
+Kingmaker's Isle, the unforgiving grounds of Battle Royale, where fresh starts are mandatory and mercy is nowhere to be found
+
+## Description
+
 **Battle Royale** is a [World Event](World_Events.md) that takes place on [Kingmaker's Isle](<Kingmaker's_Isle.md>) in the [Open Sea](Open_Sea.md). Players spawn with nothing but the bare essentials and must jump off from [The Floating Keep](The_Floating_Keep.md) into [Kingmaker's Isle](<Kingmaker's_Isle.md>) to gather loot, [Talents](Talents.md), [Mantras](Mantras.md) and more to fight their way through the rest to be the last person standing.
-
-this event appear every 1h30
-
-06:00 | 07:30 | 9:00
-
-10:30 | 12:00 | 13:30
-
-15:00 | 16:30 | 18:00
-
-19:30 | 21:00 | 22:30
-
-00:00 | 01:30 | 03:00
-
-04:30
-
-UTC
 
 ## Mechanics
 
@@ -38,9 +26,10 @@ UTC
 -   Every once in a while a [Resonant Dawn Meteor](Random_Encounters.md#resonant-dawn) will fall on a random location that will grant a random [Resonance](Resonance.md) (no healthpack) to the player that interacts with it, however this takes a while as it locks the user in a lengthy animation in which they cannot act and can be interrupted by other players via damage, making them have to interact with it again if interrupted.
     -   Battle Royale's Resonant Dawn does not spawn a [Star Knight](Star_Knight.md).
 -   Dying will set you to spectate your killer, letting you switch around who to spectate or to return to the Battle Royale lobby.
--   Obtaining 5 points will award you with a [Shiva's Codex](<Shiva's_Codex.md>) and 2 [Crowns](Crowns.md).
--   Winning will award you with a [Shiva's Finger](<Shiva's_Finger.md>), [Shiva's Codex](<Shiva's_Codex.md>), and 2 [Crowns](Crowns.md).
--   The game "ends" once there is only one group standing. _Have no fear, and reach the top._
+-   Reward Eligibility begins when there is at least 20 players in a Battle Royale match.
+    -   Obtaining 5 points will award you with a [Shiva's Codex](<Shiva's_Codex.md>) and 2 [Crowns](Crowns.md).
+    -   Winning will award you with a [Shiva's Finger](<Shiva's_Finger.md>), [Shiva's Codex](<Shiva's_Codex.md>), and 2 [Crowns](Crowns.md).
+-   The game "ends" once there is only one group standing.
 
 ## Locations
 

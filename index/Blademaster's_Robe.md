@@ -1,9 +1,9 @@
 ---
 title: "Blademaster's Robe"
-revid: 214990
+revid: 215136
 source: https://deepwoken.fandom.com/wiki/Blademaster's_Robe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Equipment, Arms, Equipment with Set Bonuses, Equipment with Exclusive Talents, Equipment with Talents, Equipment with Styles, Etrea]
+categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Arms, Equipment with Set Bonuses, Equipment with Exclusive Talents, Equipment with Talents, Etrea]
 ---
 
 # Blademaster's Robe
@@ -14,6 +14,7 @@ categories: [Pathfinder Exclusive, Equipment, Arms, Equipment with Set Bonuses, 
 | rarity | Legendary |
 | selling price | 50 |
 | weight | 2 |
+| styles | Dark (Ronin, Saint), Light (Ronin, Saint), Red (Ronin, Saint), Seafoam (Ronin, Saint) |
 | innate stats | +3 Rare Pips |
 | innate talent | Swift Blade |
 | set | Blademaster's Robe, Geta |

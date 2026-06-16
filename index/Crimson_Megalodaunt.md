@@ -1,9 +1,9 @@
 ---
 title: Crimson Megalodaunt
-revid: 204768
+revid: 215185
 source: https://deepwoken.fandom.com/wiki/Crimson_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Monsters]
+categories: [Monsters]
 ---
 
 # Crimson Megalodaunt
@@ -40,8 +40,6 @@ They are a significantly rarer sight, and are only found in a few select locatio
 
  | 
 
-File:12380435ffcad9ab148cc4efc0d2431d.gif
-
  |
 | 
 
@@ -62,8 +60,6 @@ Dodge
 
  | 
 
-File:5cf51f97715cb446694e04e182b80cde.gif
-
  |
 | 
 
@@ -76,8 +72,6 @@ File:5cf51f97715cb446694e04e182b80cde.gif
 -   There is a shorter-ranged AoE version and a longer-ranged single-target version. Both function the same.
 
  | 
-
-File:B55204dfa9965dc0a031810bc2fd80e9.gif
 
  |
 | 
@@ -110,8 +104,6 @@ Dodge
 
  | 
 
-File:45ff19cd1d3ec14a54164a391764943e.gif
-
  |
 | 
 
@@ -139,8 +131,6 @@ Dodge
  | Similar to the standard **Roar**, but the ring effects are colored orange and it doesn't apply any debuffs. Additionally, flaming swords will begin raining down that inflict Flamecharm damage on hit.
 
  | 
-
-File:B957ae3baf7b1f5753d02fa790f1049b (online-video-cutter.com) (1).gif
 
  |
 | 

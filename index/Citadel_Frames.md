@@ -1,6 +1,6 @@
 ---
 title: Citadel Frames
-revid: 214797
+revid: 215143
 source: https://deepwoken.fandom.com/wiki/Citadel_Frames
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Face, Glasses, The Divers]
@@ -15,7 +15,7 @@ categories: [Equipment with Styles, Equipment, Face, Glasses, The Divers]
 | selling price | 25 |
 | requirements | N/A |
 | weight | 0.5 |
-| styles | Amber Browline, Amber Round, Azure Browline, Azure Round, Black Browline, Black Round |
+| styles | Amber (Browline, Round), Azure (Browline, Round), Black (Browline, Round) |
 | innate stats | +5 Health , -1 Posture , +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |

@@ -1,9 +1,9 @@
 ---
 title: "Investigator's Hat"
-revid: 210512
+revid: 215086
 source: https://deepwoken.fandom.com/wiki/Investigator's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
+categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Investigator's Hat
@@ -15,13 +15,14 @@ categories: [Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-
 | selling price | 25 |
 | requirements | Power 6 |
 | weight | 1 |
+| styles | Fabric, Leather |
 | innate stats | +4 Health , +1 Uncommon Pip, +1 Rare Pips |
 | innate talent | Give and Take |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Sea Events Duke Erisia |
+| obtainment | Sea Events, Duke Erisia |
 | description | ... |
 
 ## Description

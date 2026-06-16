@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 213000
+revid: 215070
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Alloyable Weapons, Medium Weapons, Weapons of Etrea]
@@ -35,6 +35,20 @@ categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Uniqu
 | obtainment | Minityrsa, Merchant Ships, The Depths, Pure Erisore turn-in, Moon's Eyrie, The Diluvian Mechanism, Lodestar, Songseeker Wilds, Sold in Traan Zakshun's regular shop for 300 , Crypt of the Unbroken, Chime of Conflict, Saramaed HollowAlloyed:, Alloying a Katana, Maestro Evengarde Rest, Lodestar |
 | description | An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map. |
 
+**
+
+Alloyed Katana
+
+**[
+
+Withered Phantomcleave
+
+](Withered_Phantomcleave.md)[
+
+Phantomcleave
+
+](Phantomcleave.md)
+
 ## Description
 
 The Katana is a Medium Weapon that has a base damage of 18 and requires 25 MED to equip. Its damage is increased by 25% (5% when Alloyed) when wearing the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), or [Royal Etrean Guard](Royal_Etrean_Guard.md) [outfits](Outfits.md), due to their innate Talent: _[Paired Soul](Talents.md#paired-soul)_.
@@ -53,7 +67,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 -   Use the Alloyed Katana over the Shattered Katana if you want to keep the normal katana critical when 2 handing.
 -   With [Paired Soul](Talents.md#paired-soul) and high investment, the non-Alloyed Katana can deal more damage than its Alloyed Counterpart.
--   It is one of four weapons that comes with a scabbard, the others being the [Shattered Katana](Shattered_Katana.md), [Purple Cloud](Purple_Cloud.md), and the [Bloodfouler](Bloodfouler.md)
+-   It is one of four weapons that comes with a scabbard shown on your character, the others being the [Shattered Katana](Shattered_Katana.md), [Purple Cloud](Purple_Cloud.md), and the [Bloodfouler](Bloodfouler.md).
 -   [Akira](Akira.md) carries the Katana on his back while it's not in use (and notably, without a sheath) whereas everyone else carries it on their hip.
     -   His katana simply floats behind him. This is canon.
 -   On April 28, 2022, game developer ragoozer proposed an animation rework for Swords using the Katana as an example in the Official Deepwoken Discord server. Ultimately, this did not go through as a result of a community poll.

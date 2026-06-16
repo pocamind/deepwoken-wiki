@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 214448
+revid: 215107
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Starkindred Church]
@@ -67,7 +67,7 @@ This Oath grants 2 Combat Mantra slots, 1 Wildcard Mantra slot, +5% PEN, and 8 H
 
 -   **Wings**
     -   Using any of your Starkindred Mantras or Death from Above will grow two pairs of wings on the user for 60 seconds.
-    -   While active, Air Dash goes much further in any direction, however the effectiveness is reduced if going horizontally.
+    -   While active, Air dash goes much further horizontally, but has no increased distance when going vertically.
     -   Starkindred mantras have slightly faster cast time while the wings are out as you do not repeat the wing growing animation.
     -   If undyed, comes in the color of your hair color.
     -   The mantra **[Fire Blade](Flamecharm.md#fire-blade)** now launches the user upward before releasing a large plume of flames, dealing increased damage (0.6x Fire Blade Damage, ticks 4 times). Deep Gems are disabled when using this. To remove this effect, apply a [Reversal Spark](Mantra_Modifiers.md#sparks) to **Fire Blade**.
@@ -80,7 +80,7 @@ This Oath grants 2 Combat Mantra slots, 1 Wildcard Mantra slot, +5% PEN, and 8 H
     -   Cancelling an Air Dash without your wings grows your wings without having to use any Starkindred Mantras.
     -   Cancelling an Air Dash with your wings out makes you perform three large slashes with your weapon.
     -   Deals 75 (25\*3) Slash damage.
-    -   Deals 25 posture damage per hit.
+    -   Deals 15 posture damage per hit.
     -   Despite what is shown in the gif, Death From Above no longer has hyperarmor.
 -   Obtained after the third Sinner kill.
 
@@ -302,7 +302,7 @@ Obtained after the third Sinner kill
 
 -   Deals 20 damage per hit (2) with 1.65 Strength scaling.
     -   Deals 8 posture damage per hit (2).
-    -   Initial 0.5 second windup (with wings) and a 10 second cooldown.
+    -   Initial 0.5 second windup (with wings) and a 20 second cooldown.
 
  |
 

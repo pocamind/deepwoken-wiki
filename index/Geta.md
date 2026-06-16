@@ -1,9 +1,9 @@
 ---
 title: Geta
-revid: 214852
+revid: 215152
 source: https://deepwoken.fandom.com/wiki/Geta
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Equipment, Legs, Equipment with Set Bonuses, Equipment with Exclusive Talents, Equipment with Talents, Equipment with Styles, Etrea]
+categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Legs, Equipment with Set Bonuses, Equipment with Exclusive Talents, Equipment with Talents, Etrea]
 ---
 
 # Geta
@@ -14,6 +14,7 @@ categories: [Pathfinder Exclusive, Equipment, Legs, Equipment with Set Bonuses, 
 | rarity | Legendary |
 | selling price | 50 |
 | weight | 1 |
+| styles | Dark, Light |
 | innate stats | +2 Rare Pips |
 | innate talent | Dancing Steps Of War |
 | set | Blademaster's Robe, Geta |

@@ -1,9 +1,9 @@
 ---
 title: Threadwork Kilt
-revid: 210865
+revid: 215081
 source: https://deepwoken.fandom.com/wiki/Threadwork_Kilt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Torso]
+categories: [Equipment with Styles, Equipment, Torso]
 ---
 
 # Threadwork Kilt
@@ -15,6 +15,7 @@ categories: [Equipment, Torso]
 | selling price | Unknown |
 | requirements | Power 5 |
 | weight | 0.5 |
+| styles | Houndstooth, Masterwork, Threadwork, Well-Crafted |
 | innate stats | +1 Posture , +20 Carry Load , +1 Rare Pip |
 | bankable | Yes |
 | droppable | Yes |

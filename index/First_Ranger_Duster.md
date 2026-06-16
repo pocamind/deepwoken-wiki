@@ -1,9 +1,9 @@
 ---
 title: First Ranger Duster
-revid: 209739
+revid: 215164
 source: https://deepwoken.fandom.com/wiki/First_Ranger_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Dusters, Equipment with Styles]
+categories: [Equipment with Styles, Equipment, Arms, Dusters]
 ---
 
 # First Ranger Duster
@@ -15,6 +15,7 @@ categories: [Equipment, Arms, Dusters, Equipment with Styles]
 | selling price | 25 |
 | requirements | Power 10 |
 | weight | 2 |
+| styles | Azure, Cloud, Jade, Lavender, Umber |
 | innate stats | +10 Health , +2 Posture , +2 Rare Pips |
 | innate talent | N/A |
 | bankable | Yes |
@@ -26,4 +27,4 @@ categories: [Equipment, Arms, Dusters, Equipment with Styles]
 
 ## Description
 
-The First Ranger Duster is an animated [Equipment](Equipment.md) item under the "Arms" category, exclusively obtained as a rare drop from [King Threshers](King_Thresher.md).
+The First Ranger Duster is an animated [Equipment](Equipment.md) item under the "Arms" category. It is exclusively obtained as a rare drop from [King Threshers](King_Thresher.md).

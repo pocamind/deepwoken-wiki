@@ -1,6 +1,6 @@
 ---
 title: Chorus of Agonies
-revid: 213080
+revid: 215128
 source: https://deepwoken.fandom.com/wiki/Chorus_of_Agonies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons, Legendary Weapons]
@@ -25,7 +25,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Mu
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Unique |
-| selling price | ? |
+| selling price | 100 |
 | weight | 2 |
 | bankable | Yes |
 | droppable | No |
@@ -44,7 +44,7 @@ Similar to all other drops from the Heart of Enmity, it automatically Soulbounds
 
 The user stomps the ground, applying Knockdown and Daze to those hit. If landed, the attack will follow up with an overhead strike that sends the opponent away. The first hit deals **0.5x scaled damage**, while the second deals **1x** (for a total of **1.5x scaled damage**).
 
-The critical has a cooldown of **6 seconds**.
+The critical has a cooldown of **10 seconds**.
 
 ## Trivia
 

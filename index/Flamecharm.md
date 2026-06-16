@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 213687
+revid: 215108
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -210,7 +210,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 **Effect:** Caster draws out and propels bullets of flames from their hands towards the cursor's location. Clicking again while firing will fire additional bullets, at the cost of more Ether.
 
 -   Has a base damage of 6.5/8.5/10.5/12.5/14.5 per level, per hit with 2.75 Flamecharm scaling.
--   Has a windup of 0.35 seconds and no cooldown.
+-   Has an initial starting windup of 0.375 seconds and no cooldown.
 -   Deals 1 posture damage per hit.
 -   Has 5.13x PvE scaling (multiply damage dealt by 5.13 for PvE damage).
 -   Inflicts Burn.
@@ -428,7 +428,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 
 -   Has a base damage of 26/27.5/29/30.5/32 with 2.75 Flamecharm scaling.
 -   Deals 5 posture damage.
--   Has a windup of 0.7 seconds with 0.2 seconds of endlag, and a 16 second cooldown.
+-   Has a windup of 0.45 seconds with 0.2 seconds of endlag, and a 16 second cooldown.
 -   Has 9.14x PvE scaling (multiply damage dealt by 9.14 for PvE damage).
 -   Inflicts Burn.
 -   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase size, every +1 in size makes it 10% bigger.

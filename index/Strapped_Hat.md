@@ -1,9 +1,9 @@
 ---
 title: Strapped Hat
-revid: 210825
+revid: 215115
 source: https://deepwoken.fandom.com/wiki/Strapped_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
+categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Strapped Hat
@@ -15,6 +15,7 @@ categories: [Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-
 | selling price | 25 |
 | requirements | Power 6 |
 | weight | 1 |
+| styles | Default, Grey Fabric, Double Fabric, Double Leather |
 | innate stats | +3 Health , +2 Rare Pips |
 | innate talent | ExterminatorEureka |
 | bankable | Yes |
