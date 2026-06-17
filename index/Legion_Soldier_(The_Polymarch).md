@@ -1,6 +1,6 @@
 ---
 title: Legion Soldier (The Polymarch)
-revid: 206880
+revid: 215409
 source: https://deepwoken.fandom.com/wiki/Legion_Soldier_(The_Polymarch)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Enemies]
@@ -23,7 +23,7 @@ This content is not accessible outside of this gamemode.
 
 A 49th Legion Soldier is an enemy NPC that can be found only at the [The Polymarch](The_Polymarch.md) and are a red recolor of the [Legion Soldier](Legion_Soldier.md)
 
-A 49th Legion Soldier wears a Red [11th Legion Plate](11th_Legion_Plate.md), a [Khan Helmet](Legion_Helmet.md), a pair of [Khan Pauldrons](Legion_Pauldrons.md) and a pair of [Khan Boots](Legion_Boots.md) with their aspect.
+A 49th Legion Soldier wears a Red [11th Legion Plate](11th_Legion_Plate.md), a [Legion Helmet](Legion_Helmet.md), a pair of [Legion Pauldrons](Legion_Pauldrons.md) and a pair of [Legion Boots](Legion_Boots.md) with their aspect.
 
 ## Moveset
 

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 215255
+revid: 215411
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
@@ -249,14 +249,16 @@ Head: [Assassin's Hood](<Assassin's_Hood.md>)
 Arms: [Assassin's Cloak](<Assassin's_Cloak.md>)
 
  |
-| File:Authorityhelm.png | [Authority Helm](Authority_Helm.md) | _+8 Health_
+|  | [Authority Helm](Authority_Helm.md)  
+(**Styles**) | _+8 Health_
 
 +1 Uncommon Pip  
 +1 Rare Pip  
 _+Talent: [**Strong Hold**](Talents.md#strong-hold)_  
 **Requires Power 10, 10 Fortitude OR [Authority Ensign](Authority_Ensign.md)**
 
- | N/A |
+ | Styles:  
+Brushed & Galvanized |
 | File:Barrel Helmet.png | [Barrel Helm](Barrel_Helm.md) | _+5 Health_
 
 +1 Uncommon Pip
@@ -555,7 +557,7 @@ Arms: [Grand Fisher Plate](Grand_Fisher_Plate.md) |
 _+1 Posture'_ | Set: Guardian  
 Head: [Guardian Helmet](Guardian_Helmet.md)  
 Arms: [Guardian Pauldrons](Guardian_Pauldrons.md) |
-| File:Dark Gumshoe Hat1.png | [Gumshoe Hat](Gumshoe_Hat.md)  
+|  | [Gumshoe Hat](Gumshoe_Hat.md)  
 (**Styles**)  
 (**Set**) | +1 Rare Pip | Styles:  
 Dark, Grey, Ochre & White
@@ -649,16 +651,20 @@ Legs: [Legion Boots](Legion_Boots.md) |
 +2 Rare Pips
 
  | N/A |
-| File:Monastery Champion Cowl NEW.png | [Monastery Cowl](Monastery_Cowl.md)  
+| File:Monastery Champion Cowl Cotton.png | [Monastery Cowl](Monastery_Cowl.md)  
+(**Styles**)  
 (**Set**)  
 (**Legendary**) | _+5% Stealth_
 
 +2 Rare Pips  
 _+Talent: [**Blade Dancer**](Talents.md#blade-dancer)_
 
- | Variants:  
-[Monastery](#monastery-cowl) & [Gale Enhanced](#gale-enhanced-cowl)
+ | Styles:  
+Cotton & Linen
 
+  
+Variants:  
+[Monastery](#monastery-cowl) & [Gale Enhanced](#gale-enhanced-cowl)  
   
 Set: Monastery Champion  
 Head: [Monastery Cowl](Monastery_Cowl.md)  
@@ -3521,8 +3527,8 @@ _+2% Wind Armor_
 -   Highest theoretical **Stealth** kit in game is 30% stealth. (10% [Dark Owl Chapeau](Dark_Owl_Chapeau.md), 6% [Mercenary's Garb](<Mercenary's_Garb.md>)/[Ministry Cloak](Ministry_Cloak.md)/[Dark Owl Cloak](Dark_Owl_Cloak.md), 5% [Shrouded Cape](Shrouded_Cape.md), 6% Duelist's Mask, 3% [Master Thief Earrings](Master_Thief_Earrings.md)/[Ossified Blood Earrings](Ossified_Blood_Earrings.md))
     -   These will grant a total of 36% Stealth instead if the player is a [Felinor](Felinor.md).
 -   Highest theoretical **Ether** kit in game is 403 ETH. (30 ETH [Moon](Moon_Ring.md) and [Waning Ring](Waning_Ring.md), x2 24 ETH Scaling Rings/[Ferryman's Ring](<Ferryman's_Ring.md>), 68 ETH (Drowned) [Diver's Light Plate](<Diver's_Light_Plate.md>) or equivalent, 44 ETH [Fauld of Enmity](Fauld_of_Enmity.md), 64 ETH [Tillian's Beret](<Tillian's_Beret.md>), 54 ETH [Star Boots](Star_Boots.md) or equivalent, 30 ETH [Hivelord Mask](Hivelord_Mask.md), 35 ETH [Old Blood Earrings](Old_Blood_Earrings.md))
--   Highest theoretical **Posture** kit is 22.5 Posture. (4x 3 Posture Legendary Rings, 2 Posture [Khan Helmet](Legion_Helmet.md)/[Gladiator Helm](Gladiator_Helm.md)/[Western Outlaw Hat](Western_Outlaw_Hat.md), 1 Posture [Threadwork Kilt](Threadwork_Kilt.md), 1 Posture [Inquisitor's Visor](<Inquisitor's_Visor.md>), 3 Posture [Glassdancer Wraps](Glassdancer_Wraps.md)/[Moonseye Gauntlets](Moonseye_Gauntlets.md)/[Western Outlaw Robes](Western_Outlaw_Robes.md), 3.5 Posture [Wartreads of Enmity](Wartreads_of_Enmity.md) with max Anchor pips)
+-   Highest theoretical **Posture** kit is 22.5 Posture. (4x 3 Posture Legendary Rings, 2 Posture [Legion Helmet](Legion_Helmet.md)/[Gladiator Helm](Gladiator_Helm.md)/[Western Outlaw Hat](Western_Outlaw_Hat.md), 1 Posture [Threadwork Kilt](Threadwork_Kilt.md), 1 Posture [Inquisitor's Visor](<Inquisitor's_Visor.md>), 3 Posture [Glassdancer Wraps](Glassdancer_Wraps.md)/[Moonseye Gauntlets](Moonseye_Gauntlets.md)/[Western Outlaw Robes](Western_Outlaw_Robes.md), 3.5 Posture [Wartreads of Enmity](Wartreads_of_Enmity.md) with max Anchor pips)
     -   Conversely, the lowest **Posture** you can have on any character is 17, with [Citadel Frames](Citadel_Frames.md) and [Dark Pearls](Dark_Pearls.md).
 -   Highest theoretical **Health** kit in game is 185 HP. (9 HP [Moon Ring](Moon_Ring.md), 9 HP [Waning Rings](Waning_Ring.md), 26 HP [Transfusion Ring](Transfusion_Ring.md), 7 HP Scaling Ring/[Ferryman's Ring](<Ferryman's_Ring.md>), 47 HP (Drowned) [Diver's Light Plate](<Diver's_Light_Plate.md>) or equivalent, 18 [Fauld of Enmity](Fauld_of_Enmity.md), 30 HP [Silver Knight's Helm](<Silver_Knight's_Helm.md>) or equivalent, 32 HP [Star Boots](Star_Boots.md) or equivalent, 2 HP [Dark Pearls](Dark_Pearls.md), 5 HP [Citadel Frames](Citadel_Frames.md))
--   Having multiple pieces of equipment with [Drowned](Drowned.md) **does not increase your stats further.**
+-   Having multiple pieces of equipment with [Drowned](Drowned.md) **does not increase your stats further**.
 -   The Damage vs Monsters and Monster Armor pips are the only pip types to be removed from the game. In an update on June 24th, 2025, these stats were effectively made innate with the addition of the [Bestiary](Bestiary.md) system, removing their necessity. Following this change, all DvM pips were transferred into Health or Sanity pips (depending on the equipment type) and all Monster Armor pips were transferred into Physical Resistance pips.

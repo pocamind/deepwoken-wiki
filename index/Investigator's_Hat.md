@@ -1,6 +1,6 @@
 ---
 title: "Investigator's Hat"
-revid: 215086
+revid: 215406
 source: https://deepwoken.fandom.com/wiki/Investigator's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talent
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Sea Events, Duke Erisia |
+| obtainment | Sea Events, Duke Ishamon Erisia |
 | description | ... |
 
 ## Description

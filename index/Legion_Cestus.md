@@ -1,6 +1,6 @@
 ---
 title: Legion Cestus
-revid: 214582
+revid: 215408
 source: https://deepwoken.fandom.com/wiki/Legion_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Fists, Light Weapons, Weapons with Talents]
@@ -101,4 +101,4 @@ This attack has a **5 second cooldown**.
 
 ## Trivia
 
-Using this weapon at 100 [thundercall](Thundercall.md) investment, together with a source of the [Poison](Status_Effects.md#poison) status effect, leads to nearly 1.13 seconds of [shaky block](Combat_Mechanics.md#posture), which is close to double the normal duration. (requires testing, could be 1.08 seconds)
+-   Using this weapon at 100 [thundercall](Thundercall.md) investment, together with a source of the [Poison](Status_Effects.md#poison) status effect, leads to nearly 1.13 seconds of [shaky block](Combat_Mechanics.md#posture), which is close to double the normal duration. (requires testing, could be 1.08 seconds)
