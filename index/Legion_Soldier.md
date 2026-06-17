@@ -1,6 +1,6 @@
 ---
 title: Legion Soldier
-revid: 179960
+revid: 215462
 source: https://deepwoken.fandom.com/wiki/Legion_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Hundred Legions, The Hundred Legions Enemies]
@@ -12,7 +12,7 @@ categories: [Enemies, The Hundred Legions, The Hundred Legions Enemies]
 |---|---|
 | health | 300 |
 | drops | Gale Stone, Ritual Spear |
-| weapon | Champion's Sword, Ritual Spear, Khan Shield |
+| weapon | Champion's Sword, Ritual Spear, Legion Shield |
 | moves | Assault, Critical, Gale Lunge, Wind Blade |
 
 ## Description
@@ -23,7 +23,7 @@ A Legion Soldier is an enemy NPC that can be found in [Viper's Jaw](<The_Viper's
 -   Hundred Legions ambush event (anywhere)
 -   Legion encampment (Eastern Luminant)
 
-A Legion Soldier wears a [11th Legion Plate](11th_Legion_Plate.md), a [Khan Helmet](Legion_Helmet.md), a pair of [Khan Pauldrons](Legion_Pauldrons.md) and a pair of [Khan Boots](Legion_Boots.md) with their aspect.
+A Legion Soldier wears a [11th Legion Plate](11th_Legion_Plate.md), a [Legion Helmet](Legion_Helmet.md), a pair of [Legion Pauldrons](Legion_Pauldrons.md) and a pair of [Legion Boots](Legion_Boots.md) with their aspect.
 
 Legion Camp is located at the cave next to the Bandit Village in [Upper Erisia](Upper_Erisia.md), but has also an entrance next to the [Lower Erisia](Lower_Erisia.md) beach
 

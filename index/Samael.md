@@ -1,6 +1,6 @@
 ---
 title: Samael
-revid: 213325
+revid: 215489
 source: https://deepwoken.fandom.com/wiki/Samael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Oath Trainer, The Starkindred Church]
@@ -261,7 +261,7 @@ These dialogues are unlocked if the player has obtained [Oath: Starkindred](Oath
 </tr>
 <tr>
   <td colspan="2">The sinners are still out there, but I cannot deny that you have proven your piety. Perhaps your task is greater than merely taking care of loose ends. The stars will avail themselves to you, of this I am sure.</td>
-  <td colspan="2">TBA</td>
+  <td colspan="2">Do not presume to know that which is not yours. I have given you a task.</td>
   <td colspan="2">...Is the Suncross a Celestial?</td>
   <td colspan="2">Does the Moonseye hold a similar position?</td>
 </tr>

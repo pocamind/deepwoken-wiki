@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 214495
+revid: 215451
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -209,18 +209,16 @@ Dodge
 
 Exhaustive Loot Table
 
-**This loot table may be missing items, please help if you can!**
-
 <table>
 <tbody>
 <tr>
   <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
   <td>
   <ul>
-    <li><b>Starter</b>: <a href="Eager_Tradesman.md">Eager Tradesman</a>, <a href="Pathfinder_Sorcerer.md">Pathfinder Sorcerer</a>, <a href="Scholar.md">Scholar</a>, <a href="Merchant_Robes.md">Merchant Robes</a>.</li>
-    <li><b>Adept</b>: <a href="Pathfinder_Thaumaturge.md">Pathfinder Thaumaturge</a>, <a href="Navaen_Nomad_Robes.md">Navaen Nomad Robes</a>.</li>
-    <li><b>Expert</b>: <a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>, <a href="Troublemaker's_Overcoat.md">Troublemaker's Overcoat</a>, <a href="Hive_Tactician_Armor.md">Hive Tactician Armor</a>, <a href="Seamstress's_Attire.md">Seamstress's Attire</a>.</li>
-    <li><b>Master</b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Navaen_War_Chief.md">Navaen War Chief</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a>, <a href="Titanslayer's_Adornment.md">Titanslayer's Adornment</a> (very rare).</li>
+    <li><b>Starter</b>: <a href="Eager_Tradesman.md">Eager Tradesman</a>, <a href="Pathfinder_Sorcerer.md">Pathfinder Sorcerer</a>, <a href="Scholar.md">Scholar</a>, <a href="Merchant_Robes.md">Merchant Robes</a></li>
+    <li><b>Adept</b>: <a href="Pathfinder_Thaumaturge.md">Pathfinder Thaumaturge</a>, <a href="Navaen_Nomad_Robes.md">Navaen Nomad Robes</a></li>
+    <li><b>Expert</b>: <a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>, <a href="Troublemaker's_Overcoat.md">Troublemaker's Overcoat</a>, <a href="Hive_Tactician_Armor.md">Hive Tactician Armor</a>, <a href="Seamstress's_Attire.md">Seamstress's Attire</a></li>
+    <li><b>Master</b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Navaen_War_Chief.md">Navaen War Chief</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a>, <a href="Titanslayer's_Adornment.md">Titanslayer's Adornment</a> (very rare)</li>
   </ul></td>
 </tr>
 <tr>
@@ -228,47 +226,47 @@ Exhaustive Loot Table
   <td>
   <ul>
     <li><a href="Items.md">Items</a>: <a href="Primadon_Pelt.md">Primadon Pelt</a> (rare, direct drop), <a href="Deep_Gems.md">Deep Gems</a>, <a href="Mantra_Modifiers.md#regular-modifiers">Vibrant Gems</a>, <a href="Mantra_Modifiers.md">Tier 2 Mantra Modifiers</a>, <a href="Umbral_Obsidian.md">Umbral Obsidian</a></li>
-    <li>Some <a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Enchantments.md#curses">Curse of Ysley's Ember Enchant Stone</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Void_Spire.md">Void Spire</a></li>
+    <li>Some <a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Curse_of_Ysley's_Ember.md">Curse of Ysley's Ember Enchant Stone</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Void_Spire.md">Void Spire</a></li>
   </ul></td>
 </tr>
 <tr>
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>Legendary Weapons</b>: <a href="Imperator's_Edge.md"><font>Imperator's Edge</font></a>, <a href="Imperial_Staff.md"><font>Imperial Staff</font></a>, <a href="Stormseye.md"><font>Stormseye</font></a>, <a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a>.</li>
-    <li><b>Alloyed Weapons</b>: TBA.</li>
-    <li><b>Generic Weapons</b>:TBA.
+    <li><b>Legendary Weapons</b>: <a href="Imperator's_Edge.md"><font>Imperator's Edge</font></a>, <a href="Imperial_Staff.md"><font>Imperial Staff</font></a>, <a href="Stormseye.md"><font>Stormseye</font></a>, <a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a></li>
+    <li><b>Alloyed Weapons</b>: TBA</li>
+    <li><b>Generic Weapons</b>:TBA
   <ol>
-    <li><b>Light Weapons</b>: TBA.</li>
-    <li><b>Medium Weapons</b>: <a href="Forgotten_Gladius.md">Forgotten Gladius</a>, <a href="Katana.md">Katana</a>, <a href="Shattered_Katana.md">Shattered Katana</a>.</li>
-    <li><b>Heavy Weapons</b>: TBA.</li>
+    <li><b>Light Weapons</b>: TBA</li>
+    <li><b>Medium Weapons</b>: <a href="Forgotten_Gladius.md">Forgotten Gladius</a>, <a href="Katana.md">Katana</a>, <a href="Shattered_Katana.md">Shattered Katana</a></li>
+    <li><b>Heavy Weapons</b>: TBA</li>
   </ol></li>
-    <li><b>Offhand Weapons</b>: TBA.</li>
+    <li><b>Offhand Weapons</b>: TBA</li>
   </ul></td>
 </tr>
 <tr>
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Legion_Helmet.md">Khan Helmet</a>, <a href="Royal_Guard's_Kabuto.md">Royal Guard's Kabuto</a>, <a href="Vigil_Hood.md">Vigil Hood</a>, <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a>, <a href="Strapped_Hat.md">Strapped Hat</a> (Black).</li>
-    <li><a href="Equipment.md#arms"><b>Arm Equipment</b></a>:
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Legion_Helmet.md">Legion Helmet</a>, <a href="Royal_Guard's_Kabuto.md">Royal Guard's Kabuto</a>, <a href="Vigil_Hood.md">Vigil Hood</a>, <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a>, <a href="Strapped_Hat.md">Strapped Hat</a></li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:
   <ol>
-    <li><b>Legendary Arms</b>: <a href="Providence_Coat.md"><font>Providence Coat</font></a>, <a href="Star_Duster.md"><font>Star Duster</font></a>.</li>
-    <li><b>Generic Arms</b>: <a href="Assassin's_Cloak.md">Assassin's Cloak</a> (Pale).</li>
+    <li><b>Legendary Arms</b>: <a href="Providence_Coat.md"><font>Providence Coat</font></a>, <a href="Star_Duster.md"><font>Star Duster</font></a></li>
+    <li><b>Generic Arms</b>: <a href="Assassin's_Cloak.md">Assassin's Cloak</a></li>
   </ol></li>
-    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Imperial_Boots.md">Imperial Boots</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a>.</li>
-    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a><b>:</b>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Imperial_Boots.md">Imperial Boots</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a></li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:
   <ol>
-    <li><b>Relic Torso</b>: <a href="Tiran_Pendant.md">Tiran Pendant</a>.</li>
-    <li><b>Generic Torso</b>: <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, <a href="Confessor's_Charm.md">Confessor's Charm</a>, <a href="Curseblood_Pendant.md">Curseblood Pendant</a>, <a href="Red_Eye_Pendant.md">Red Eye Pendant</a>.</li>
+    <li><b>Relic Torso</b>: <a href="Tiran_Pendant.md">Tiran Pendant</a></li>
+    <li><b>Generic Torso</b>: <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, <a href="Confessor's_Charm.md">Confessor's Charm</a>, <a href="Curseblood_Pendant.md">Curseblood Pendant</a>, <a href="Red_Eye_Pendant.md">Red Eye Pendant</a></li>
   </ol></li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>, <a href="Citadel_Frames.md">Citadel Frames</a> (All).</li>
-    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a><b>: <a href="Old_Blood_Earrings.md">Old Blood Earrings</a>.</b></li>
-    <li><a href="Equipment.md#rings"><b>Rings</b></a><b>:</b>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>, <a href="Citadel_Frames.md">Browline Citadel Frames</a>, <a href="Citadel_Frames.md">Round Citadel Frames</a></li>
+    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Old_Blood_Earrings.md">Old Blood Earrings</a></li>
+    <li><a href="Equipment.md#rings"><b>Rings</b></a>:
   <ol>
-    <li><b>Relic Ring</b>: <a href="Ring_of_the_Primal_King.md">Ring of the Primal King</a></li>
-    <li><b>Legendary Rings</b>: <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Charged_Ring.md"><font>Charged Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a> .</li>
-    <li><b>Generic Rings</b>: <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Diver's_Ring.md">Diver's Ring</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>, <a href="Chained_Ring.md">Chained Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>.</li>
+    <li><b><a href="Vow_of_Iron.md">Vow of Iron</a><abbr></abbr> exclusive</b>: <a href="Ring_of_the_Primal_King.md">Ring of the Primal King</a></li>
+    <li><b>Legendary Rings</b>: <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Charged_Ring.md"><font>Charged Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a></li>
+    <li><b>Generic Rings</b>: <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Diver's_Ring.md">Diver's Ring</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>, <a href="Chained_Ring.md">Chained Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a></li>
   </ol></li>
   </ul></td>
 </tr>

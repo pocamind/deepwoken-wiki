@@ -1,6 +1,6 @@
 ---
 title: Brutus
-revid: 194953
+revid: 215471
 source: https://deepwoken.fandom.com/wiki/Brutus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, The Hundred Legions, NPCs located in the Eastern Luminant, Oath Trainer]
@@ -26,11 +26,13 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Brutus is a [Khan](Khan.md) NPC. He is a prisoner within the [Fort Merit](Fort_Merit.md) prison as a member of [The Hundred Legions](The_Hundred_Legions.md), and has a history with [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
+Brutus is a [Khan](Khan.md) NPC. He is He is a member of [The Hundred Legions](The_Hundred_Legions.md) and a prisoner within [Fort Merit](Fort_Merit.md).
 
-He allows you to unbound your [Fortitude](Attributes_Unbound.md). Talking to him will prompt a beatdown that will knock you and leave you at barely any health, along with draining you of all your armor. This bypasses [Chitin](Talents.md#innate-aspect-talents)/[Exoskeleton](Talents.md#freak-of-nature), and does not drain it.
+Brutus has a history with [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md). At some point after the [Etrean Civil War](Etrean_Civil_War.md), he was captured and imprisoned within Fort Merit.[\[1\]](#cite-note-1)
 
-He wears the old [Legion Centurion](Legion_Centurion.md) [Outfit](Outfits.md) with [Khan Pauldrons](Legion_Pauldrons.md).
+He allows you to unbound your [Fortitude](Attributes_Unbound.md). Talking to him will prompt a beatdown that will knock you and leave you at barely any health, along with draining you of all your armor. This bypasses [Chitin](Talents.md#chitin)/[Exoskeleton](Talents.md#exoskeleton), and does not drain it.
+
+He wears the old [Legion Centurion](Legion_Centurion.md) [Outfit](Outfits.md) with [Legion Pauldrons](Legion_Pauldrons.md).
 
 He is noticeably larger than most other people, including you.
 
@@ -147,3 +149,7 @@ This dialogue will only appear if the player has received dialogue from [Titus](
 -   You can use a training vest and let him beatdown you to increase Fortitude.
 -   His hair ID is 5143078089.
 -   His variant is Silverback.
+
+## References
+
+1.  [↑](#cite-ref-1) Brutus is not present within his cell in the [Vow of Iron](Vow_of_Iron.md) gamemode.

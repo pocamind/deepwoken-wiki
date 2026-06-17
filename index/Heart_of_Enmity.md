@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 215252
+revid: 215466
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Bosses, Voiced Characters]
@@ -194,7 +194,7 @@ After Heart of Enmity is defeated, everyone who participated is rewarded with a 
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>:
   <ol>
     <li><b>Unique Legs</b>: <a href="Wartreads_of_Enmity.md"><font>Wartreads of Enmity</font></a></li>
-    <li><b>Generic Legs</b>: <a href="Autumn_Boots.md">Autumn Boots</a>, <a href="Etrean_Siege_Sabatons.md">Etrean Siege Sabatons</a>, <a href="Fur_Boots.md">Fur Boots</a>, <a href="Grand_Authority_Sabatons.md">Grand Authority Sabatons</a>, <a href="Legion_Boots.md">Khan Boots</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Tracker's_Boots.md">Tracker's Boots</a>, <a href="Winter_Corps_Boots.md">Winter Corps Boots</a>, <a href="Woodland_Boots.md">Woodland Boots</a></li>
+    <li><b>Generic Legs</b>: <a href="Autumn_Boots.md">Autumn Boots</a>, <a href="Etrean_Siege_Sabatons.md">Etrean Siege Sabatons</a>, <a href="Fur_Boots.md">Fur Boots</a>, <a href="Grand_Authority_Sabatons.md">Grand Authority Sabatons</a>, <a href="Legion_Boots.md">Legion Boots</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Tracker's_Boots.md">Tracker's Boots</a>, <a href="Winter_Corps_Boots.md">Winter Corps Boots</a>, <a href="Woodland_Boots.md">Woodland Boots</a></li>
   </ol></li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:
   <ol>

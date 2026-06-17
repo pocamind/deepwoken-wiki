@@ -1,6 +1,6 @@
 ---
 title: "Dravik, the Rat King (NPC)"
-revid: 201856
+revid: 215435
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_the_Rat_King_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Deceased characters, The Golden Rats, Humanoids with Unobtainable Outfits]
@@ -50,7 +50,7 @@ A phantom of [the Inheritor](The_Inheritor.md)'s victory - the late Dravik, the 
   <td>I need to know how to pass the barrier surrounding the Lord Regent's place.</td>
 </tr>
 <tr>
-  <td>All of this for Zi'eer, eh? Well, if I'm being honest, he might be a bit out of your league, kid. The only person I know who might be capable of taking on him was a young prodigy from the Blade Temple. He's off training in the West with the Hundred Legions now... I don't really blame him - the Blade Temple is a shadow of it's former self.</td>
+  <td>All of this for Zi'eer, eh? Well, if I'm being honest, he might be a bit out of your league, kid. The only person I know who might be capable of taking on him was a young prodigy from the Blade Temple. He's off training in the West with the Hundred Legions now... I don't really blame him - the Blade Temple is a shadow of it's [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] former self.</td>
 </tr>
 <tr>
   <td>That doesn't matter, how do I pass the barrier?</td>

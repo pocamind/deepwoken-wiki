@@ -1,6 +1,6 @@
 ---
 title: War Mode
-revid: 213125
+revid: 215468
 source: https://deepwoken.fandom.com/wiki/War_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -98,7 +98,7 @@ Marked Player Kill Chest
   <ul>
     <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Big_Alchemist's_Hat.md">Big Alchemist's Hat</a>, <a href="Blackleaf_Helm.md">Blackleaf Helm</a>, <a href="Feathertop_Helm.md">Feathertop Helm</a>, <a href="Investigator's_Hat.md">Investigator's Hat</a>, <a href="Vagabond's_Bicorn.md">Vagabond's Bicorn</a></li>
     <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Brilliant_Pauldrons.md">Brilliant Pauldron</a>, <a href="Celtor_Commander_Plate.md">Celtor Commander Plate</a><a href="Deepwoken_Cloak.md">Deepwoken Cloak</a>, <a href="Fur_Pauldrons.md">Fur Pauldrons</a>, <a href="Ironsinger_Heavy_Plate.md">Ironsinger Heavy Plate</a>, <a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Providence_Coat.md">Providence Coat</a>, <a href="Sandrunner_Wraps.md">Sandrunner Wraps</a>, <a href="Star_Duster.md">Star Duster</a>, <a href="Tracker's_Brace.md">Tracker's Brace</a>, <a href="Warden_Pauldrons.md">Warden Pauldrons</a></li>
-    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Celtorian_Sabatons.md">Celtorian Sabatons</a>, <a href="Fur_Boots.md">Fur Boots</a>, <a href="Grand_Authority_Sabatons.md">Grand Authority Sabatons</a>, <a href="Imperial_Boots.md">Imperial Boots</a>, <a href="Legion_Boots.md">Khan Boots</a>, <a href="Novice_Boots.md">Novice Boots</a>, <a href="Phalanx_Heavy_Boots.md">Phalanx Heavy Boots</a>, <a href="Tracker's_Boots.md">Tracker's Boots</a></li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Celtorian_Sabatons.md">Celtorian Sabatons</a>, <a href="Fur_Boots.md">Fur Boots</a>, <a href="Grand_Authority_Sabatons.md">Grand Authority Sabatons</a>, <a href="Imperial_Boots.md">Imperial Boots</a>, <a href="Legion_Boots.md">Legion Boots</a>, <a href="Novice_Boots.md">Novice Boots</a>, <a href="Phalanx_Heavy_Boots.md">Phalanx Heavy Boots</a>, <a href="Tracker's_Boots.md">Tracker's Boots</a></li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Dark_Owl_Cape.md">Dark Owl Cape</a>, <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a></li>
     <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Headband.md">Headband</a></li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Old_Blood_Earrings.md">Old Blood Earrings</a></li>
@@ -146,7 +146,7 @@ Warchest
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Legion_Helmet.md">Khan Helmet</a></li>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Legion_Helmet.md">Legion Helmet</a></li>
     <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Ironsinger_Heavy_Plate.md">Ironsinger Heavy Plate</a>, <a href="Imperial_Pauldrons.md">Imperial Pauldrons</a>, <a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Ministry_Operative_Cloak.md">Ministry Operative Cloak</a></li>
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Grand_Authority_Sabatons.md">Grand Authority Sabatons</a>, <a href="Phalanx_Heavy_Boots.md">Phalanx Heavy Boots</a></li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></li>

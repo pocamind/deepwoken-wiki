@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 213787
+revid: 215499
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Mechanics, Relics]
@@ -229,9 +229,6 @@ This works with all other "on Vent" effects.
 | 
 
  | **[Frost Ring](Frost_Ring.md)** - A glacial ring that applies a slow to opponents you hit with your light attacks. Subsequent hits add to the slow, albiet with significantly less potency than the initial stack. |
-| 
-
- | **[Jadeite Megalodaunt](Jadeite_Megalodaunt.md)** - A waist-worn Megalodaunt charm that grants the "[Good Luck Charm](Talents.md#good-luck-charm)" Talent. This Talent has unknown effects. |
 | 
 
  | **[Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>)** - A Medallion that grants the "[Elegy of Light](Talents.md#elegy-of-light)" Talent. When activated, you are immune to all Deep Gem effects from any opponent, and have your own Deep Gems buffed, for 3 minutes.

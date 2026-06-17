@@ -1,6 +1,6 @@
 ---
 title: Etrean Sashimono
-revid: 215156
+revid: 215497
 source: https://deepwoken.fandom.com/wiki/Etrean_Sashimono
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Torso, Equipment with Exclusive Talents, Equipment with Talents, Etrea]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Torso, Equi
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Maestro Evengarde Rest |
-| description | Once traditionally carried to battle by Etrean warriors, the sashimo style of banner is now little more than a historic artefact or curiosity. Ever since the Lord Regent's ascension to the throne, such battle standards have fallen out of fashion. Curiously, although various designs have survived to this day, no written records of them appear to remain, contemporary or otherwise. The significance of these once-important symbols is all but lost on the modern day observer - with the sole exception of the recognisable standard of the Kingdom of Etrea. |
+| description | Once traditionally carried to battle by Etrean warriors, the sashimono style of banner is now little more than a historic artefact or curiosity. Ever since the Lord Regent's ascension to the throne, such battle standards have fallen out of fashion. Curiously, although various designs have survived to this day, no written records of them appear to remain, contemporary or otherwise. The significance of these once-important symbols is all but lost on the modern day observer - with the sole exception of the recognisable standard of the Kingdom of Etrea. |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -33,3 +33,8 @@ This content is not accessible outside of this gamemode.
 The Etrean Sashimono is a traditional banner [Equipment](Equipment.md) dropped by [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
 
 The [Traditional Execution](Talents.md#traditional-execution) Talent changes your next critical attack to the [Katana](Katana.md)'s critical after landing a Flourish. This also extends the duration of [Dancing Steps Of War](Talents.md#dancing-steps-of-war), [Geta](Geta.md)'s Talent, by 0.5 seconds on proc.
+
+## Trivia
+
+-   A _[sashimono](https://en.wikipedia.org/wiki/sashimono)_ is a banner worn by soldiers during Feudal Japan.
+-   The Joy Style is of the [Transgender flag](https://en.wikipedia.org/wiki/Transgender_flag).

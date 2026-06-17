@@ -1,6 +1,6 @@
 ---
 title: Hugo
-revid: 207422
+revid: 215440
 source: https://deepwoken.fandom.com/wiki/Hugo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, Vendors, NPCs]
@@ -68,7 +68,7 @@ The Three Cheers Menu
   <td>I'd like to ask you something, tavernkeep.</td>
 </tr>
 <tr>
-  <td><i>*The feathers on his balding head wiggle in attention.*</i> Of course, of course! Anything for my customers. Ask away!</td>
+  <td><i>The feathers on his balding head wiggle in <b>attention.</b>* Of course, of course! Anything for my customers. Ask away!</i> [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>]</td>
 </tr>
 <tr>
   <td>How did you come to be the landlord of the Three Cheers?</td>
@@ -118,3 +118,8 @@ The Three Cheers Menu
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Given Fabantou's name origins, Hugo is likely named after [Victor Hugo](https://en.wikipedia.org/wiki/Victor_Hugo).
+-   There is a formatting error in one of Hugo's lines, causing his entire sentence to be rendered as a stage direction. Unlike most directions, which are lighter in color, only the word "attention.\*" is the proper color.

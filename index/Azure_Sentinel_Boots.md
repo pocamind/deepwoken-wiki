@@ -1,6 +1,6 @@
 ---
 title: Azure Sentinel Boots
-revid: 214885
+revid: 215475
 source: https://deepwoken.fandom.com/wiki/Azure_Sentinel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Boots]
@@ -18,7 +18,7 @@ categories: [Equipment with Styles, Equipment, Legs, Boots]
 | styles | Brushed, Galvanized |
 | innate stats | +2 Rare Pips |
 | innate talent | N/A |
-| set | Azure Royal Guard, Azure Sentinel Boots |
+| set | Azure Sentinel Pauldrons, Azure Sentinel Boots |
 | set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

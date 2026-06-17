@@ -1,6 +1,6 @@
 ---
 title: Commander Morredh
-revid: 203064
+revid: 215447
 source: https://deepwoken.fandom.com/wiki/Commander_Morredh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Military personnel of The Central Authority]
@@ -27,6 +27,8 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 Commander Morredh is a [Canor](Canor.md) NPC. Being a [Canor](Canor.md) has afforded him more benefits than other non-[Adret](Adret.md) in [The Central Authority](The_Central_Authority.md), earning him the position of Commander.
 
+During this period, Morredh became frustrated with the number of civilians walking around [Fort Merit](Fort_Merit.md) to see [Warden Jericho](Warden_Jericho.md), unaware of their shared allegiance to the [Circle of Honour](Circle_of_Honour.md).
+
 ## Location
 
 Commander Morredh is located in the dining room near the entrance of the [Fort Merit](Fort_Merit.md) prison.
@@ -39,10 +41,10 @@ Commander Morredh is located in the dining room near the entrance of the [Fort M
   <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="2"><i>*The Canor officer that stands before you appears disgrunteld with something.*</i> Another civilian? <i>Bah</i>. I bet you're here to see the Warden, like the rest of them. Well, he's <b>not in the dungeon</b>. Get out of my sight.</td>
+  <td colspan="2"><i>*The <a href="Glossary.md#canor">Canor</a> officer that stands before you appears disgrunteld with something.*</i> Another civilian? <i>Bah</i>. I bet you're here to see the Warden, like the rest of them. Well, he's <b>not in the dungeon</b>. Get out of my sight.</td>
 </tr>
 <tr>
-  <td>'The rest of them'? What do you mean?</td>
+  <td>'The rest of them?'? [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] What do you mean?</td>
   <td>You have a problem with the Warden?</td>
 </tr>
 <tr>

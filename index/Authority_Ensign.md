@@ -1,9 +1,9 @@
 ---
 title: Authority Ensign
-revid: 214698
+revid: 215501
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
+categories: [Pathfinder Exclusive, Central Authority Enemies, The Central Authority, Character, Origins, Faction Origins]
 ---
 
 # Authority Ensign
@@ -265,7 +265,7 @@ These Talents can be chosen upon being promoted at any point in your Ensign play
 
 ## Divisions
 
-Upon reaching the Lance Corporal rank and meeting the additional requirements of a Division, you can join them, granting exclusive bonuses such as [Weapons](Weapons.md), Unique [Outfits](Outfits.md), [Talents](Talents.md), and new dialogue that changes depending on your rank and Division. Additionally, the AWOL timer will no longer appear, allowing you to go where you please, and most Authority NPCs who aren't in active combat will salute you when you approach them.
+Upon reaching the Lance Corporal rank and meeting the additional requirements of a Division, you can join them, granting exclusive bonuses such as [Weapons](Weapons.md), Unique [Outfits](Outfits.md), [Talents](Talents.md), and new dialogue that changes depending on your rank and Division. Additionally, the AWOL timer will no longer appear, allowing you to go where you please, and most Authority NPCs, including both who aren't in active combat and regular NPCs found within Fort Merit, will salute you when you approach them.
 
 At maximum Division rank, you will gain clearance to purchase to the lategame weapons in the Fort Merit Armory, such as the [Sovereign's Punishment](<Sovereign's_Punishment.md>) and various [Alloyed](Pluripotent_Alloy.md) variants of Armory weapons.
 

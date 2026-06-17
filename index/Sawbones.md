@@ -1,6 +1,6 @@
 ---
 title: Sawbones
-revid: 194924
+revid: 215441
 source: https://deepwoken.fandom.com/wiki/Sawbones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Military personnel of The Central Authority]
@@ -47,7 +47,7 @@ Sawbones can be found behind his desk within the medical bay of [Fort Merit](For
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td><i>*A weary Canor appears to be tending to some paperwork, unamused by your presence. You presume this is the surgeon. His eyes stay fixed on the paperwork.*</i> We don't treat civilians in the fortress without the Warden's explicit approval. If you need something stitched up, try the barber in Port Merit. Good day to you.</td>
+  <td><i>*A weary <a href="Glossary.md#canor">Canor</a> appears to be tending to some paperwork, unamused by your presence. You presume this is the surgeon. His eyes stay fixed on the paperwork.*</i> We don't treat civilians in the fortress without the Warden's explicit approval. If you need something stitched up, try the barber in Port Merit. Good day to you.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

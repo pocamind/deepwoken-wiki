@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 213064
+revid: 215502
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -374,7 +374,7 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 **Effect:** _Perform a short wind-up before throwing an uppercut of blood into the air while launching 3 blood slashes forwards into the ground._
 
 -   Deals 8/10/12/14/16 damage per level, per slash, 5 posture per slash, 0.6s windup, 10.5s CD
--   Has 9.178x PVE scale (57.42 PVP DMG, 527.01 PVE DMG)
+-   Has 9.178x PVE scale (48 PVP DMG, 440.5 PVE DMG)
 
  |
 | 

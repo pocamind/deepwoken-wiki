@@ -1,6 +1,6 @@
 ---
 title: "Operation 'Puppet Master' Report"
-revid: 206827
+revid: 215478
 source: https://deepwoken.fandom.com/wiki/Operation_'Puppet_Master'_Report
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -71,3 +71,7 @@ Operation 'Puppet Master' Report
 > The Etreans appear to have had a mental veil put over them in order to subjugate and control them, the same veil we Inquisitor's use as a shield. But this veil was different, it was cold and held like a leech siphoning its host. [Authority](Glossary.md#the-central-authority) veils are administered by a single handler, powerful seals like this require intense concentration to keep active. But a mental veil capable of subjugating an entire city? The very notion is unprecedented.
 > 
 > This report must reach Warden Jericho's hands. Whatever this Lord Regent actually is, it is clear peace was never an option. This conflict between the [Authority](Glossary.md#the-central-authority) and Etrea is intentional and there are forces at play that we are yet to understand. Should I feel the hands of this creature pry too close to my mind, I will take the necessary measures to insure I am not captured.
+
+## Trivia
+
+-   This book can obtained in the [Vow of Iron](Vow_of_Iron.md) gamemode, even though the operation takes place after the events of Vow of Iron.

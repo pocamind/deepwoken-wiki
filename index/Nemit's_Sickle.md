@@ -1,6 +1,6 @@
 ---
 title: "Nemit's Sickle"
-revid: 214674
+revid: 215412
 source: https://deepwoken.fandom.com/wiki/Nemit's_Sickle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Weapons with Talents]
@@ -33,7 +33,7 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, "Weapons with Mult
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Songseeker Wilds, Minityrsa, Starswept Valley, Merchant Ships, Ferryman |
+| obtainment | Songseeker Wilds, Minityrsa, Starswept Valley, Merchant Ships, The Ferryman |
 | description | ... |
 
 ## Description

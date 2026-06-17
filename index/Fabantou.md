@@ -1,9 +1,9 @@
 ---
 title: Fabantou
-revid: 207421
+revid: 215438
 source: https://deepwoken.fandom.com/wiki/Fabantou
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Eastern Luminant, Humanoids with Unobtainable Outfits]
+categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Eastern Luminant, Humanoids with Unobtainable Outfits]
 ---
 
 # Fabantou
@@ -12,6 +12,7 @@ categories: [Felinor NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in 
 |---|---|
 | name | Fabantou |
 | aspect | Felinor |
+| pronouns | He/him |
 | location | The Three Cheers |
 | affiliation | The Central Authority |
 
@@ -175,4 +176,4 @@ The Three Cheers Menu
 
 ## Trivia
 
--   His name originates from an alias used by Monsieur Thénardier in _Les Misérables_. The phrases he says when purchasing drinks are lyrics taken from Master of the House, a song sung by Thénardier.
+-   His name originates from an alias used by Monsieur Thénardier in _[Les Misérables](https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables)_. The phrases he says when purchasing drinks are lyrics taken from Master of the House, a song sung by Thénardier.

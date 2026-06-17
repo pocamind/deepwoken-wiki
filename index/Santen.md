@@ -1,6 +1,6 @@
 ---
 title: Santen
-revid: 191615
+revid: 215474
 source: https://deepwoken.fandom.com/wiki/Santen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
@@ -22,7 +22,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Santen is a [Ganymede](Ganymede.md) NPC. She appears to be aged shown by the wrinkles around her eyes. Santen is the cartographer for [The Central Authority](The_Central_Authority.md), trained by her parents in the Citadel of Markor to make maps since she "could hold a pen." She wears a [Black Deepwoken Cloak](Deepwoken_Cloak.md), the [Seamstress's Attire](<Seamstress's_Attire.md>) outfit, a [Brigand's Bicorn](<Brigand's_Bicorn.md>), and a [Pathfinder's Backpack](<Pathfinder's_Backpack.md>).
+Santen is a [Ganymede](Ganymede.md) NPC. Santen is the cartographer for [The Central Authority](The_Central_Authority.md), trained by her parents in the Citadel of Markor to make maps since she "could hold a pen."
+
+She appears to be aged shown by the wrinkles around her eyes.
+
+She wears a Black [Deepwoken Cloak](Deepwoken_Cloak.md), the [Seamstress's Attire](<Seamstress's_Attire.md>) outfit, a [Brigand's Bicorn](<Brigand's_Bicorn.md>), and a [Pathfinder's Backpack](<Pathfinder's_Backpack.md>).
 
 ## Location
 

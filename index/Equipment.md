@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 215411
+revid: 215414
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
@@ -214,6 +214,7 @@ _+Talent: [**Apothecary**](Talents.md#apothecary)_
  | Variants:  
 [Normal](#alchemists-hat) & [Big](#big-alchemists-hat) |
 | File:WesternOutlawHat.png | [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)  
+(**Styles**)  
 (**Set**) | _+2 Posture_
 
 +1 Legendary Pip  
@@ -221,9 +222,12 @@ _+Talent: [**Mass Effect**](Talents.md#mass-effect)_
 _+Set Talent: [**Offensive Recovery**](Talents.md#offensive-recovery)_  
 **Requires Power 20**
 
- | Variants:  
-[Western](#western-outlaw-hat) & [Ascended](#ascended-outlaw-hat)
+ | Styles:  
+Farmland, Fog, Mountain, Tundra & Valley
 
+  
+Variants:  
+[Western](#western-outlaw-hat) & [Ascended](#ascended-outlaw-hat)  
   
 Set: Ascended Outlaw  
 Head: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)  
@@ -409,6 +413,7 @@ _+Talent: [**Already Dead**](Talents.md#already-dead)_
 Head: [Deepwoken Hood](Deepwoken_Hood.md)  
 Arms: [Deepwoken Cloak](Deepwoken_Cloak.md) |
 |  | [Ether Refined Brim](Ether_Refined_Brim.md)  
+(**Styles**)  
 (**Set**)  
 (**Unique**) | _+5 Health_
 
@@ -417,9 +422,12 @@ _+Talent: [**Sorcerer's Skill**](Talents.md#sorcerers-skill)_
 _+Set Talent: [**Sorcerer's Supply**](Talents.md#sorcerers-supply)_  
 **Requires Power 16**
 
- | Variants:  
-[Warlock](#warlocks-brim) & [Ether Refined](#ether-refined-brim)
+ | Styles:  
+Default, Lilac, Navy, Sky & Verdant
 
+  
+Variants:  
+[Warlock](#warlocks-brim) & [Ether Refined](#ether-refined-brim)  
   
 Set: Ether Refined  
 Head: [Ether Refined Brim](Ether_Refined_Brim.md)  
@@ -808,16 +816,23 @@ Legs: [Shock Trooper Boots](Shock_Trooper_Boots.md)
 
  |
 | File:KnightHelm.png | [Silver Knight's Helm](<Silver_Knight's_Helm.md>)  
+(**Styles**)  
 (**Set**) | _+10 Health_
 
 +1 Uncommon Pip  
 +1 Rare Pip  
 **Requires Power 8**
 
- | Set: Silver Knight  
+ | Styles:  
+Brushed & Galvanized
+
+  
+Set: Silver Knight  
 Head: [Silver Knight's Helm](<Silver_Knight's_Helm.md>)  
 Arms: [Silver Pauldrons](Silver_Pauldrons.md)  
-Legs: [Silver Sabatons](Silver_Sabatons.md) |
+Legs: [Silver Sabatons](Silver_Sabatons.md)
+
+ |
 |  | [Simmerbloom Diadem](Simmerbloom_Diadem.md)  
 (**Unique**) | _+5 Health_
 
@@ -938,8 +953,7 @@ Lilac, Navy, Sky & Verdant
 
   
 Variants:  
-[Warlock](#warlocks-brim) & [Ether Refined](#ether-refined-brim)
-
+[Warlock](#warlocks-brim) & [Ether Refined](#ether-refined-brim)  
   
 Set: Warlock  
 Head: [Warlock's Brim](<Warlock's_Brim.md>)  
@@ -947,15 +961,18 @@ Arms: [Warlock's Mantle](<Warlock's_Mantle.md>)
 
  |
 | File:WesternOutlawHat.png | [Western Outlaw Hat](Western_Outlaw_Hat.md)  
+(**Styles**)  
 (**Set**) | _+2 Posture_
 
 +1 Legendary Pip  
 **Requires Power 10**
 
- | Variants:  
-[Western](#western-outlaw-hat) & [Ascended](#ascended-outlaw-hat)
+ | Styles:  
+Farmland, Fog, Mountain, Tundra & Valley
 
   
+Variants:  
+[Western](#western-outlaw-hat) & [Ascended](#ascended-outlaw-hat)  
 Set: Western Outlaw  
 Head: [Western Outlaw Hat](Western_Outlaw_Hat.md)  
 Arms: [Western Outlaw Robes](Western_Outlaw_Robes.md)  
@@ -1020,7 +1037,7 @@ Variants/Set
 | --- | --- | --- | --- |
 |  | [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>)  
 (**Set**)  
-(**Animated**)  
+(**Cloth Physics**)  
 (**Mythical**) | _+5 Health_
 
 +3 Legendary Pips  
@@ -1033,7 +1050,7 @@ Arms: [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>)
 Legs: [Abyss Wanderer's Boots](<Abyss_Wanderer's_Boots.md>) |
 | File:Sable Adjudicator's.png | [Adjudicator's Coat](<Adjudicator's_Coat.md>)  
 (**Styles**)  
-(**Animated**) | +2 Rare Pips
+(**Cloth Physics**) | +2 Rare Pips
 
 _+Talent: [**Unwavering Resolve**](Talents.md#unwavering-resolve)_  
 **Requires Power 8**
@@ -1042,7 +1059,7 @@ _+Talent: [**Unwavering Resolve**](Talents.md#unwavering-resolve)_
 Ash, Pink, Rural, Sable & Tawny |
 |  | [Adventurer Coat](Adventurer_Coat.md)  
 (**Styles**)  
-(**Animated**) | _+3 Health_
+(**Cloth Physics**) | _+3 Health_
 
 +2 Rare Pips  
 **Requires Power 5**
@@ -1069,6 +1086,7 @@ Face: [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
 
  |
 | File:WesternOutlawRobes.png | [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md)  
+(**Styles**)  
 (**Set**) | _+3 Posture_
 
 +1 Rare Pip  
@@ -1077,9 +1095,12 @@ _+Talent: [**Ether Pinpoint**](Talents.md#ether-pinpoint)_
 _+Set Talent: [**Offensive Recovery**](Talents.md#offensive-recovery)_  
 **Requires Power 20**
 
- | Variants:  
-[Western](#western-outlaw-robes) & [Ascended](#ascended-outlaw-robes)
+ | Styles:  
+Mountain, Tundra & Valley
 
+  
+Variants:  
+[Western](#western-outlaw-robes) & [Ascended](#ascended-outlaw-robes)  
   
 Set: Ascended Outlaw  
 Head: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)  
@@ -1091,7 +1112,7 @@ Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
 | File:Pale Assassin Cloak.png | [Assassin's Cloak](<Assassin's_Cloak.md>)  
 (**Styles**)  
 (**Set**)  
-(**Animated**) | _+6 Health_  
+(**Cloth Physics**) | _+6 Health_  
 _+3% Stealth_
 
 +2 Rare Pips  
@@ -1110,7 +1131,7 @@ Arms: [Assassin's Cloak](<Assassin's_Cloak.md>)
  |
 | File:Ruby Authority Commander Coat.png | [Authority Commander Coat](Authority_Commander_Coat.md)  
 (**Styles**)  
-(**Animated**) | _+10 Health_
+(**Cloth Physics**) | _+10 Health_
 
 +2 Rare Pips  
 **Requires Power 12**
@@ -1173,7 +1194,7 @@ Legs: [Geta](Geta.md)
 **Requires Power 5**
 
  | Variants:  
-[Bluesteel](#bluesteel-boots) & [Bluestone](#bluestone-boots)
+[Bluesteel](#bluesteel-pauldrons) & [Bluestone](#bluestone-pauldrons)
 
   
 Set: Bluesteel  
@@ -1190,7 +1211,7 @@ _+Set Talent: [**Etherguard**](Talents.md#etherguard)_
 **Requires Power 5**
 
  | Variants:  
-[Bluesteel](#bluesteel-boots) & [Bluestone](#bluestone-boots)
+[Bluesteel](#bluesteel-pauldrons) & [Bluestone](#bluestone-pauldrons)
 
   
 Set: Bluestone  
@@ -1232,7 +1253,7 @@ Head: [Celtor Commander Helm](Celtor_Commander_Helm.md)
 Arms: [Celtor Commander Plate](Celtor_Commander_Plate.md)  
 Legs: [Celtorian Sabatons](Celtorian_Sabatons.md) |
 |  | [Champion's Cape](<Champion's_Cape.md>)  
-(**Animated**)  
+(**Cloth Physics**)  
 (**Unique**) | _+10% Lightning Armor_
 
 +2 Rare Pips  
@@ -1311,6 +1332,7 @@ _+Talent: **[Berserker](Cut_Content.md#berserker)**_
 
  | N/A |
 | File:Ether Refined Mantle.png | [Ether Refined Mantle](Ether_Refined_Mantle.md)  
+(**Styles**)  
 (**Set**)  
 (**Unique**) | _+7 Health_
 
@@ -1321,9 +1343,12 @@ _+Talent: [**Sorcerer's Surge**](Talents.md#sorcerers-surge)_
 _+Set Talent: [**Sorcerer's Supply**](Talents.md#sorcerers-supply)_  
 **Requires Power 12, 5 Intelligence**
 
- | Variants:  
-[Warlock](#warlocks-mantle) & [Ether Refined](#ether-refined-mantle)
+ | Styles:  
+Default, Lilac, Navy, Sky & Verdant
 
+  
+Variants:  
+[Warlock](#warlocks-mantle) & [Ether Refined](#ether-refined-mantle)  
   
 Set: Ether Refined  
 Head: [Ether Refined Brim](Ether_Refined_Brim.md)  
@@ -1344,7 +1369,7 @@ Arms: [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)
 Legs: [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md) |
 |  | [Evanspear War Plate](Evanspear_War_Plate.md)  
 (**Set**)  
-(**Animated**) | _+6 Health_  
+(**Cloth Physics**) | _+6 Health_  
 _+2 Posture_
 
 +1 Rare Pip  
@@ -1361,9 +1386,9 @@ Arms: [Evanspear War Plate](Evanspear_War_Plate.md)
 Legs: [Evanspear War Boots](Evanspear_War_Boots.md)
 
  |
-| File:Lavender First Ranger Duster.png | [First Ranger Duster](First_Ranger_Duster.md)  
+|  | [First Ranger Duster](First_Ranger_Duster.md)  
 (**Styles**)  
-(**Animated**) | _+10 Health_  
+(**Cloth Physics**) | _+10 Health_  
 _+2 Posture_
 
 +2 Rare Pips  
@@ -1381,7 +1406,7 @@ _+1 Posture_
  | Set: Flameguard  
 Arms: [Flameguard Pauldrons](Flameguard_Pauldrons.md)  
 Legs: [Flameguard Boots](Flameguard_Boots.md) |
-| File:White Parka.png | [Fur Parka](Fur_Parka.md)  
+|  | [Fur Parka](Fur_Parka.md)  
 (**Styles**) | _+2 Health_  
 _+1 Posture_
 
@@ -1391,7 +1416,7 @@ _+Talent: [**Steady Footing**](Talents.md#steady-footing)_
 
  | Styles:  
 Black, Brown & White |
-| File:Black Fur Pauldrons.png | [Fur Pauldrons](Fur_Pauldrons.md)  
+|  | [Fur Pauldrons](Fur_Pauldrons.md)  
 (**Styles**)  
 (**Set**) | _+3 Health_
 
@@ -1471,7 +1496,7 @@ Legs: [Grand Boots](Grand_Boots.md) |
 _+1 Posture_ | Set: Guardian  
 Head: [Guardian Helmet](Guardian_Helmet.md)  
 Arms: [Guardian Pauldrons](Guardian_Pauldrons.md) |
-| File:Gumshoe Long Coat.png | [Gumshoe Longcoat](Gumshoe_Longcoat.md)  
+|  | [Gumshoe Longcoat](Gumshoe_Longcoat.md)  
 (**Styles**)  
 (**Set**) | _+2 Health_
 
@@ -1525,19 +1550,26 @@ _+Talent: [**Force Your Way**](Talents.md#force-your-way)_
 **Requires Power 12**
 
  | N/A |
-| File:Imperial Pauldrons.png | [Imperial Pauldrons](Imperial_Pauldrons.md)  
+|  | [Imperial Pauldrons](Imperial_Pauldrons.md)  
+(**Styles**)  
 (**Set**) | _+7 Health_  
 _+1 Posture_
 
 +2 Rare Pips  
 **Requires Power 8**
 
- | Set: Imperial  
+ | Styles:  
+Brushed & Galvanized
+
+  
+Set: Imperial  
 Arms: [Imperial Pauldrons](Imperial_Pauldrons.md)  
-Legs: [Imperial Boots](Imperial_Boots.md) |
+Legs: [Imperial Boots](Imperial_Boots.md)
+
+ |
 |  | [Inquisitor's Duster](<Inquisitor's_Duster.md>)  
 (**Styles**)  
-(**Animated**) | +2 Rare Pips
+(**Cloth Physics**) | +2 Rare Pips
 
 **Requires Power 5**
 
@@ -1564,7 +1596,7 @@ _+Talent: [**Stay of Execution**](Talents.md#stay-of-execution)_
  | N/A |
 | File:Faded Justicar Coat.png | [Justicar Defender Coat](Justicar_Defender_Coat.md)  
 (**Styles**)  
-(**Animated**) | +2 Rare Pips
+(**Cloth Physics**) | +2 Rare Pips
 
 **Requires Power 5**
 
@@ -1609,7 +1641,7 @@ Arms: [Legion Phalanx Plate](Legion_Phalanx_Plate.md)
 Legs: [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md) |
 | File:Sharko coat.png | [Megalodaunt Coat](Megalodaunt_Coat.md)  
 (**Styles**)  
-(**Animated**) | _+5% Damage vs. Monsters_
+(**Cloth Physics**) | _+5% Damage vs. Monsters_
 
 +2 Rare Pips  
 **Requires Power 5**
@@ -1629,7 +1661,7 @@ Arms: [Mercenary's Garb](<Mercenary's_Garb.md>)
 Legs: [Mercenary's Boots](<Mercenary's_Boots.md>) |
 | File:Smoke ministry cloak.PNG | [Ministry Cloak](Ministry_Cloak.md)  
 (**Styles**)  
-(**Animated**) | _+5 Health_  
+(**Cloth Physics**) | _+5 Health_  
 _+10 Ether_
 
 +1 Rare Pip  
@@ -1692,7 +1724,7 @@ _+Set Talent: [**Captain's Call**](Talents.md#captains-call)_
 [Blacksteel](#blacksteel-pauldrons) & [Ossified Black](#ossified-black-pauldrons)
 
   
-Set: Blackalloy  
+Set: Ossified Black  
 Head: [Ossified Black Helm](Ossified_Black_Helm.md)  
 Arms: [Ossified Black Pauldrons](Ossified_Black_Pauldrons.md)
 
@@ -1707,7 +1739,7 @@ _+Talent: [**Simple Buff**](Talents.md#simple-buff)_
 [Simple](#simple-pauldrons) & [Ossified Simple](#ossified-simple-pauldrons) |
 | File:Crimson elite pathfinder.png | [Pathfinder Elite](Pathfinder_Elite.md)  
 (**Styles**)  
-(**Animated**)  
+(**Cloth Physics**)  
 (**Legendary**) | _+5% Damage vs. Monsters_
 
 +2 Rare Pip  
@@ -1747,7 +1779,7 @@ Arms: [Redsteel Pauldrons](Redsteel_Pauldrons.md)
 Legs: [Redsteel Boots](Redsteel_Boots.md) |
 |  | [Reinforced War Plate](Reinforced_War_Plate.md)  
 (**Set**)  
-(**Animated**) | _+6 Health_  
+(**Cloth Physics**) | _+6 Health_  
 _+2 Posture_
 
 +1 Rare Pip  
@@ -1768,14 +1800,14 @@ Legs: [Reinforced War Boots](Reinforced_War_Boots.md)
  |
 | File:Faded Royal Duelist.png | [Royal Duelist](Royal_Duelist.md)  
 (**Styles**)  
-(**Animated**) | +2 Rare Pips
+(**Cloth Physics**) | +2 Rare Pips
 
 **Requires Power 5**
 
  | Styles:  
 Dark, Faded, Purple, Red, Rose & Stained |
 |  | [Royal Pathfinder](Royal_Pathfinder.md)  
-(**Animated**) | _+6 Health_
+(**Cloth Physics**) | _+6 Health_
 
 +2 Rare Pips  
 +1 Legendary Pip  
@@ -1805,7 +1837,7 @@ Arms: [Sandrunner Wraps](Sandrunner_Wraps.md)
 Torso: [Sandrunner Scarf](Sandrunner_Scarf.md) |
 | File:ShockTrooperPlate.png | [Shock Trooper Plate](Shock_Trooper_Plate.md)  
 (**Set**)  
-(**Animated**) | _+5 Health_
+(**Cloth Physics**) | _+5 Health_
 
 +2 Rare Pips  
 **Requires Power 10**
@@ -1820,17 +1852,24 @@ Arms: [Shock Trooper Plate](Shock_Trooper_Plate.md)
 Legs: [Shock Trooper Boots](Shock_Trooper_Boots.md)
 
  |
-| File:Static-assets-upload15149895911827136801.png | [Silver Pauldrons](Silver_Pauldrons.md)  
+| File:Silver Pauldrons.png | [Silver Pauldrons](Silver_Pauldrons.md)  
+(**Styles**)  
 (**Set**) | _+3 Health_  
 _+1 Posture_
 
 +2 Rare Pips  
 **Requires Power 8**
 
- | Set: Silver Knight  
+ | Styles:  
+Brushed & Galvanized
+
+  
+Set: Silver Knight  
 Head: [Silver Knight's Helm](<Silver_Knight's_Helm.md>)  
 Arms: [Silver Pauldrons](Silver_Pauldrons.md)  
-Legs: [Silver Sabatons](Silver_Sabatons.md) |
+Legs: [Silver Sabatons](Silver_Sabatons.md)
+
+ |
 | File:Simple Pauldrons.png | [Simple Pauldrons](Simple_Pauldrons.md) | _+2 Health_  
 _+1 Posture_
 
@@ -1857,7 +1896,7 @@ Face: [Smith's Goggles](<Smith's_Goggles.md>)
  |
 | File:ShockTrooperPlate.png | [Specialist Plate](Specialist_Plate.md)  
 (**Set**)  
-(**Animated**) | _+5 Health_
+(**Cloth Physics**) | _+5 Health_
 
 +1 Rare Pip  
 _+Talent: [**Stormcall**](Talents.md#stormcall)_  
@@ -1896,7 +1935,7 @@ _+1 Posture_
  | N/A |
 |  | [Summer Scarf](Summer_Scarf.md)  
 (**Series**)  
-(**Animated**) | _+5 Health_
+(**Cloth Physics**) | _+5 Health_
 
 +1 Legendary Pip  
 **Requires Power 5**
@@ -1912,7 +1951,7 @@ _+Talent: [**Terrapod Tracer**](Talents.md#terrapod-tracer)_
  | Variants:  
 [Terraplate](#terraplate-pauldrons), [Crimson Terraplate](#crimson-terraplate-pauldrons) |
 |  | [Titus's Cape](<Titus's_Cape.md>)  
-(**Animated**)  
+(**Cloth Physics**)  
 (**Unique**) | _+10% Lightning Armor_
 
 +2 Rare Pips  
@@ -1961,7 +2000,7 @@ _+2 Posture_
 | File:Navy Warlock Mantle.png | [Warlock's Mantle](<Warlock's_Mantle.md>)  
 (**Styles**)  
 (**Set**)  
-(**Animated**)  
+(**Cloth Physics**)  
 (**Unique**) | _+7 Health_
 
 +1 Rare Pip  
@@ -1974,8 +2013,7 @@ Lilac, Navy, Sky & Verdant
 
   
 Variants:  
-[Warlock](#warlocks-brim) & [Ether Refined](#ether-refined-brim)
-
+[Warlock](#warlocks-mantle) & [Ether Refined](#ether-refined-mantle)  
   
 Set: Warlock  
 Head: [Warlock's Brim](<Warlock's_Brim.md>)  
@@ -1983,15 +2021,19 @@ Arms: [Warlock's Mantle](<Warlock's_Mantle.md>)
 
  |
 | File:WesternOutlawRobes.png | [Western Outlaw Robes](Western_Outlaw_Robes.md)  
+(**Styles**)  
 (**Set**) | _+3 Posture_
 
 +1 Rare Pip  
 +1 Legendary Pip  
 **Requires Power 10**
 
- | Variants:  
-[Western](#western-outlaw-robes) & [Ascended](#ascended-outlaw-robes)
+ | Styles:  
+Mountain, Tundra & Valley
 
+  
+Variants:  
+[Western](#western-outlaw-robes) & [Ascended](#ascended-outlaw-robes)  
   
 Set: Western Outlaw  
 Head: [Western Outlaw Hat](Western_Outlaw_Hat.md)  
@@ -2068,6 +2110,7 @@ Variants/Set
 Arms: [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>)  
 Legs: [Abyss Wanderer's Boots](<Abyss_Wanderer's_Boots.md>) |
 | File:WesternOutlawBoots.png | [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)  
+(**Styles**)  
 (**Set**) | _+3% Lightning Armor_  
 _+3% Wind Armor_
 
@@ -2077,9 +2120,12 @@ _+Talent: [**Stronger Under Pressure**](Talents.md#stronger-under-pressure)_
 _+Set Talent: [**Offensive Recovery**](Talents.md#offensive-recovery)_  
 **Requires Power 20**
 
- | Variants:  
-[Western](#western-outlaw-boots) & [Ascended](#ascended-outlaw-boots)
+ | Styles:  
+Mountain, Tundra & Valley
 
+  
+Variants:  
+[Western](#western-outlaw-boots) & [Ascended](#ascended-outlaw-boots)  
   
 Set: Ascended Outlaw  
 Head: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)  
@@ -2097,10 +2143,16 @@ Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
  | Set: Autumn  
 Arms: [Autumn Pauldrons](Autumn_Pauldrons.md)  
 Legs: [Autumn Boots](Autumn_Boots.md) |
-| File:Static-assets-upload10948241571813513916.png | [Azure Sentinel Boots](Azure_Sentinel_Boots.md)  
-(**Set**) | +2 Rare Pips | Set: Azure Sentinel  
+| File:Azure Sentinel Boots.png | [Azure Sentinel Boots](Azure_Sentinel_Boots.md)<be>(**Styles**)  
+(**Set**) | +2 Rare Pips | Styles:  
+Brushed & Galvanized
+
+  
+Set: Azure Sentinel  
 Arms: [Azure Sentinel Pauldrons](Azure_Sentinel_Pauldrons.md)  
-Legs: [Azure Sentinel Boots](Azure_Sentinel_Boots.md) |
+Legs: [Azure Sentinel Boots](Azure_Sentinel_Boots.md)
+
+ |
 |  | [Bluesteel Boots](Bluesteel_Boots.md)  
 (**Set**) | _+3 Health_
 
@@ -2211,7 +2263,7 @@ Legs: [Evanspear War Boots](Evanspear_War_Boots.md)
  | Set: Flameguard  
 Arms: [Flameguard Pauldrons](Flameguard_Pauldrons.md)  
 Legs: [Flameguard Boots](Flameguard_Boots.md) |
-| File:White fur boots.png | [Fur Boots](Fur_Boots.md)  
+|  | [Fur Boots](Fur_Boots.md)  
 (**Styles**)  
 (**Set**) | _+3 Health_  
 _+2% Elemental Armor_
@@ -2286,17 +2338,24 @@ Arms: [Hardened Enforcer Plate](Hardened_Enforcer_Plate.md)
 Legs: [Hardened Enforcer Boots](Hardened_Enforcer_Boots.md)
 
  |
-| File:Imperial Boots.png | [Imperial Boots](Imperial_Boots.md)  
+|  | [Imperial Boots](Imperial_Boots.md)  
+(**Styles**)  
 (**Set**) | _+5 Health_
 
 +2 Rare Pips  
 +1 Legendary Pip  
 **Requires Power 10**
 
- | Set: Imperial  
+ | Styles:  
+Brushed & Galvanized
+
+  
+Set: Imperial  
 Arms: [Imperial Pauldrons](Imperial_Pauldrons.md)  
-Legs: [Imperial Boots](Imperial_Boots.md) |
-| File:Static-assets-upload12369006146430102616.png | [Iron Boots](Iron_Boots.md)  
+Legs: [Imperial Boots](Imperial_Boots.md)
+
+ |
+| File:Iron Boots.png | [Iron Boots](Iron_Boots.md)  
 (**Set**) | +2 Rare Pips | Set: Iron  
 Arms: [Iron Pauldrons](Iron_Pauldrons.md)  
 Legs: [Iron Boots](Iron_Boots.md) |
@@ -2424,15 +2483,22 @@ Legs: [Shock Trooper Boots](Shock_Trooper_Boots.md)
 
  |
 | File:Silver Sabatons.png | [Silver Sabatons](Silver_Sabatons.md)  
+(**Styles**)  
 (**Set**) | _+3 Health_
 
 +2 Rare Pips  
 **Requires Power 5**
 
- | Set: Silver Knight  
+ | Styles:  
+Brushed & Galvanized
+
+  
+Set: Silver Knight  
 Head: [Silver Knight's Helm](<Silver_Knight's_Helm.md>)  
 Arms: [Silver Pauldrons](Silver_Pauldrons.md)  
-Legs: [Silver Sabatons](Silver_Sabatons.md) |
+Legs: [Silver Sabatons](Silver_Sabatons.md)
+
+ |
 | File:ShockTrooperBoots.png | [Specialist Boots](Specialist_Boots.md)  
 (**Set**) | _+1 Posture_
 
@@ -2500,6 +2566,7 @@ Legs: [Wartreads of Enmity](Wartreads_of_Enmity.md)
 Face: [Thrall of Enmity](Thrall_of_Enmity.md)  
 Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md) |
 | File:WesternOutlawBoots.png | [Western Outlaw Boots](Western_Outlaw_Boots.md)  
+(**Styles**)  
 (**Set**) | _+5 Health_  
 _+3% Lightning Armor_  
 _+3% Wind Armor_  
@@ -2507,9 +2574,12 @@ _+3% Wind Armor_
 +1 Rare Pip  
 **Requires Power 10**
 
- | Variants:  
-[Western](#western-outlaw-boots) & [Ascended](#ascended-outlaw-boots)
+ | Styles:  
+Mountain, Tundra & Valley
 
+  
+Variants:  
+[Western](#western-outlaw-boots) & [Ascended](#ascended-outlaw-boots)  
   
 Set: Western Outlaw  
 Head: [Western Outlaw Hat](Western_Outlaw_Hat.md)  
@@ -2558,8 +2628,8 @@ Variants/Set
  |
 | --- | --- | --- | --- |
 | File:Dawn Scarf.png | [Adventurer's Scarf](<Adventurer's_Scarf.md>)  
-(**Series**)  
-(**Animated**) | _+3% Elemental Armor_
+(**Styles**)  
+(**Cloth Physics**) | _+3% Elemental Armor_
 
 +1 Rare Pip  
 +1 Legendary Pip  
@@ -2639,9 +2709,9 @@ Arms: [Bastions of Enmity](Bastions_of_Enmity.md)
 Legs: [Wartreads of Enmity](Wartreads_of_Enmity.md)  
 Face: [Thrall of Enmity](Thrall_of_Enmity.md)  
 Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md) |
-| File:Onyx Fleet Warden Cape.png | [Fleet Warden Cape](Fleet_Warden_Cape.md)  
+|  | [Fleet Warden Cape](Fleet_Warden_Cape.md)  
 (**Styles**)  
-(**Animated**) | _+3% Elemental Armor_
+(**Cloth Physics**) | _+3% Elemental Armor_
 
 +1 Rare Pip  
 +1 Legendary Pip  
@@ -2679,7 +2749,7 @@ _+Talent: [**Robber Baron**](Talents.md#robber-baron)_
  | N/A |
 |  | [Jadeite Megalodaunt](Jadeite_Megalodaunt.md)  
 (**Relic**)  
-(**Animated**) | +2 Legendary Pips
+(**Cloth Physics**) | +2 Legendary Pips
 
 _+Talent: [**Good Luck Charm**](Talents.md#good-luck-charm)_  
 **Requires Power 5**
@@ -2822,9 +2892,9 @@ _+Talent: [**Praise The Sun**](Talents.md#praise-the-sun)_
 **Requires Power 5**
 
  | N/A |
-| File:Static-assets-upload6078901116095484260.png | [Shrouded Cape](Shrouded_Cape.md)  
+|  | [Shrouded Cape](Shrouded_Cape.md)  
 (**Styles**)  
-(**Animated**) | _+2% Elemental Armor_  
+(**Cloth Physics**) | _+2% Elemental Armor_  
 _+5% Stealth_<br
 
 +1 Rare Pip  
@@ -2847,7 +2917,8 @@ _+20 Carry Load_
 
  | N/A |
 |  | [Thresher Charm](Thresher_Charm.md)  
-(**Styles**) | +2 Rare Pips
+(**Styles**)  
+(**Cloth Physics**) | +2 Rare Pips
 
 _+Talent: [**Thresher Thrasher**](Talents.md#thresher-thrasher)_  
 **Requires Power 5**
@@ -2948,13 +3019,17 @@ Face: [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
 
  |
 | File:WesternOutlawMask.png | [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)  
+(**Styles**)  
 (**Set**) | +1 Common Pip
 
 _+Talent: [**Destructive Yell**](Talents.md#destructive-yell)_
 
- | Variants:  
-[Western](#western-outlaw-mask) & [Ascended](#ascended-outlaw-mask)
+ | Styles:  
+Mountain, Tundra & Valley
 
+  
+Variants:  
+[Western](#western-outlaw-mask) & [Ascended](#ascended-outlaw-mask)  
   
 Set: Ascended Outlaw  
 Head: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)  
@@ -3021,7 +3096,7 @@ Variants:
 
  | N/A |
 |  | [Eyeglasses](Eyeglasses.md) | +1 Common Pip | N/A |
-| File:BlackHeadband.png | [Headband](Headband.md)  
+|  | [Headband](Headband.md)  
 (**Styles**) | +1 Common Pip | Styles:  
 Black, Orange, Yellow, Red, Blue, Green, & White |
 |  | [Hivelord Mask](Hivelord_Mask.md) | +2 Rare Pips | N/A |
@@ -3105,9 +3180,13 @@ Face: [Thrall of Enmity](Thrall_of_Enmity.md)
 Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md) |
 |  | [Warrior's Eyepatch](<Warrior's_Eyepatch.md>) | +1 Rare Pip | N/A |
 | File:WesternOutlawMask.png | [Western Outlaw Mask](Western_Outlaw_Mask.md)  
-(**Set**) | +1 Common Pip | Variants:  
-[Western](#western-outlaw-mask) & [Ascended](#ascended-outlaw-mask)
+(**Styles**)  
+(**Set**) | +1 Common Pip | Styles:  
+Mountain, Tundra & Valley
 
+  
+Variants:  
+[Western](#western-outlaw-mask) & [Ascended](#ascended-outlaw-mask)  
   
 Set: Western Outlaw  
 Head: [Western Outlaw Hat](Western_Outlaw_Hat.md)  

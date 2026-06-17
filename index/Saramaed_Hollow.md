@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 215197
+revid: 215420
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Dungeons, Locations, Locations in the Eastern Luminant]
@@ -116,13 +116,13 @@ Exhaustive Loot Table
     <li><a href="Equipment.md#head"><b>Head Equipment</b></a>:
   <ol>
     <li><b>Unique Head</b>: <a href="Simmerbloom_Diadem.md"><font>Simmerbloom Diadem</font></a></li>
-    <li><b>Generic Head</b>: <a href="Blackleaf_Helm.md">Blackleaf Helm</a>, <a href="Brigand's_Bicorn.md">Brigand's Bicorn</a>, <a href="Legion_Helmet.md">Khan Helmet</a>, <a href="Strapped_Hat.md">Strapped Hat</a>, <a href="Ten-Gallon_Hat.md">Ten-Gallon Hat</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Gladiator_Helm.md">Gladiator Helm</a></li>
+    <li><b>Generic Head</b>: <a href="Blackleaf_Helm.md">Blackleaf Helm</a>, <a href="Brigand's_Bicorn.md">Brigand's Bicorn</a>, <a href="Legion_Helmet.md">Legion Helmet</a>, <a href="Strapped_Hat.md">Strapped Hat</a>, <a href="Ten-Gallon_Hat.md">Ten-Gallon Hat</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Gladiator_Helm.md">Gladiator Helm</a></li>
   </ol></li>
     <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:
   <ol>
     <li><b>Mythical Arms</b>: <a href="Abyss_Wanderer's_Plate.md"><font>Abyss Wanderer's Plate</font></a>, <a href="Delver's_Duster.md"><font>Delver's Duster</font></a></li>
     <li><b>Legendary Arms</b>: <a href="Deepwoken_Cloak.md"><font>Deepwoken Cloak</font></a>, <a href="Ignition_Gauntlets.md"><font>Ignition Gauntlets</font></a>, <a href="Ironsinger_Heavy_Plate.md"><font>Ironsinger Heavy Plate</font></a></li>
-    <li><b>Generic Arms</b>: <a href="Fur_Parka.md">Fur Parka</a>, <a href="Imperial_Pauldrons.md">Imperial Pauldrons</a>, <a href="Legion_Pauldrons.md">Khan Pauldrons</a>, <a href="Blacksteel_Pauldrons.md">Blacksteel Pauldrons</a>, <a href="Iron_Pauldrons.md">Iron Pauldrons</a>, <a href="Steel_Pauldrons.md">Steel Pauldrons</a>, <a href="Redsteel_Pauldrons.md">Redsteel Pauldrons</a>, <a href="Gladiator_Pauldrons.md">Gladiator Pauldrons</a></li>
+    <li><b>Generic Arms</b>: <a href="Fur_Parka.md">Fur Parka</a>, <a href="Imperial_Pauldrons.md">Imperial Pauldrons</a>, <a href="Legion_Pauldrons.md">Legion Pauldrons</a>, <a href="Blacksteel_Pauldrons.md">Blacksteel Pauldrons</a>, <a href="Iron_Pauldrons.md">Iron Pauldrons</a>, <a href="Steel_Pauldrons.md">Steel Pauldrons</a>, <a href="Redsteel_Pauldrons.md">Redsteel Pauldrons</a>, <a href="Gladiator_Pauldrons.md">Gladiator Pauldrons</a></li>
   </ol></li>
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>:
   <ol>

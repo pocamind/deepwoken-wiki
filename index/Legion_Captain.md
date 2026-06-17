@@ -1,6 +1,6 @@
 ---
 title: Legion Captain
-revid: 194421
+revid: 215452
 source: https://deepwoken.fandom.com/wiki/Legion_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Ambush Enemies, The Hundred Legions, The Hundred Legions Enemies]
@@ -23,7 +23,7 @@ The Legion Captain is a type of enemy NPC that can only be found in [Starswept V
 -   Legion Captain vs [Authority Lieutenant](Authority_Lieutenant.md) (Starswept Valley)
 -   Hundred Legions ambush (Anywhere)
 
-A Legion Captain wears a [Legion Centurion](Legion_Centurion.md) outfit, a [Khan Helmet](Legion_Helmet.md), a pair of [Khan Pauldrons](Legion_Pauldrons.md) and a pair of [Khan Boots](Legion_Boots.md). They are exclusively [Khans](Khan.md).
+A Legion Captain wears a [Legion Centurion](Legion_Centurion.md) outfit, a [Legion Helmet](Legion_Helmet.md), a pair of [Legion Pauldrons](Legion_Pauldrons.md) and a pair of [Legion Boots](Legion_Boots.md). They are exclusively [Khans](Khan.md).
 
 ## Moveset
 

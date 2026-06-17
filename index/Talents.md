@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 215012
+revid: 215472
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1286,7 +1286,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 -   Strong Hold \[Common Talent, Strength, Medium Weapon\] - Medium Weapons When above 33% health and two-handing, posture damage taken is reduced by 5%. (+1 Passive Agility)
     -   Prerequisites: 30 Strength, 30 Medium Weapon
-    -   The [Authority Helm](Authority_Helm.md) and [Bulwark Helm](Grand_Authority_Sallet.md) equipment have this Talent.
+    -   The [Authority Helm](Authority_Helm.md) and [Grand Authority Sallet](Grand_Authority_Sallet.md) equipment have this Talent.
 
 -   _Strong Stern_ \[Rare Talent, Strength, Fortitude\] - The duration you are [Dazed](Status_Effects.md#daze) from wall bangs is cut in half. Slightly reduce your guardbreak stun time from PvE enemies as well. (+5 Carry Load)
     -   Prerequisites: 15 Strength, 25 Fortitude
@@ -2622,7 +2622,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisite: "Ploom's Embers" Quest in [Etris](Etris.md) with 40 Flamecharm **OR** 50 Charisma **OR** by completing quest requirements.
 
 -   Polite Awakening \[Common Talent\] - Recover 15% of your max health after getting up from being downed. (Only Procs when below 20% HP) (+1 Passive Agility)
-    -   The [Khan Pauldrons](Legion_Pauldrons.md) and [Woodland Pauldrons](Woodland_Pauldrons.md) equipment have this Talent.
+    -   The [Legion Pauldrons](Legion_Pauldrons.md) and [Woodland Pauldrons](Woodland_Pauldrons.md) equipment have this Talent.
 
 -   Ready or Not \[Common Talent, Fortitude\] - The first attack to hit you while out of combat has its damage cut in half.
     -   Prerequisite: 20 Fortitude

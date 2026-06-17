@@ -1,9 +1,9 @@
 ---
 title: Trimmed Overcoat
-revid: 210880
+revid: 215423
 source: https://deepwoken.fandom.com/wiki/Trimmed_Overcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Equipment with Styles]
+categories: [Equipment with Styles, Equipment, Arms, Coats]
 ---
 
 # Trimmed Overcoat
@@ -15,6 +15,7 @@ categories: [Equipment, Arms, Equipment with Styles]
 | selling price | 25 |
 | requirements | Power 5 |
 | weight | 2 |
+| styles | Black, Brown, White |
 | innate stats | +3 Health , +1 Uncommon Pip, +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
@@ -26,7 +27,9 @@ categories: [Equipment, Arms, Equipment with Styles]
 
 ## Description
 
-The Trimmed Overcoat is an [Equipment](Equipment.md) item under the "Arms" category. They are thick coats made to protect its wearers from the environment.
+The Trimmed Overcoat is an [Equipment](Equipment.md) item under the "Arms" category.
+
+They are thick coats made to protect its wearers from the environment.
 
 ## Trivia
 
