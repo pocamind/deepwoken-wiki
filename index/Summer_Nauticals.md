@@ -1,9 +1,9 @@
 ---
 title: Summer Nauticals
-revid: 209716
+revid: 215372
 source: https://deepwoken.fandom.com/wiki/Summer_Nauticals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Face, Glasses, Equipment with Styles]
+categories: [Equipment with Styles, Equipment, Face, Glasses]
 ---
 
 # Summer Nauticals
@@ -13,8 +13,9 @@ categories: [Equipment, Face, Glasses, Equipment with Styles]
 | type | Face |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | N/A |
+| requirements | None |
 | weight | 0.5 |
+| styles | Classic, Dusk, Seaglass |
 | innate stats | +1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
@@ -22,7 +23,7 @@ categories: [Equipment, Face, Glasses, Equipment with Styles]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Summer Isle (rare) |
-| description | Timeless eyewear produced by the Summer Company. In this world, It's drip or drown. You have no way of knowing if these are genuine. |
+| description | Timeless eyewear produced by the Summer Company. In this world, it's drip or drown. You have no way of knowing if these are genuine. |
 
 ## Description
 

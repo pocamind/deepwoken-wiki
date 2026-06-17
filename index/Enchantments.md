@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 214525
+revid: 215391
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -2300,8 +2300,8 @@ Unobtainable
     -   Bounce, Viscosity, Deferred and Stench are most likely a reference to glyphs and enchantments from _Shattered Pixel Dungeon._
     -   Stormbreaker is based mechanically on Thor from _God of War_ and it's namesake is the mythical axe _Stormbreaker_ wielded by Thor from _Avengers: Infinity War._
     -   The sound effect for the Displacement proc is taken from _The Legend of Zelda: Breath of the Wild's_ Remote Bomb explosion.
-    -   Curse of The No Life King is a reference to [the No Life King](https://grimgar.fandom.com/wiki/No-Life_King) from _Fantasy of Grimgar and Ash. It might also be a reference to Hellsing, where Alucard's alias is "No-Life King"._
-        
-        Yayafino confirming the "Curse of The No Life King" is a reference from grimgar
-        
-       .
+    -   Curse of The No Life King is a reference to [the No Life King](https://grimgar.fandom.com/wiki/No-Life_King) from _Fantasy of Grimgar and Ash. It might also be a reference to Hellsing, where Alucard's alias is "No-Life King"._[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1)

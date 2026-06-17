@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 215265
+revid: 215386
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -373,7 +373,7 @@ Traan's item descriptions will change randomly each time he sells goods from his
 -   _Where'd I get this? Fell outta the back of a carriage, yeah?_
 -   _Whispers say this was lost to time... ooOOOooo !!_
 -   _Why are my eyes green? B'cus it's all I see._
--   _Y'know I sold [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) a [Moon Ring](Moon_Ring.md)? He HATES it when I tell people that!_
+-   _Y'know I sold Maestro Evengarde Rest a Moon Ring? He HATES it when I tell people that!_
 -   _You buy it - you break it. Wait a sec..._
 -   _You got cash for a crown? I'm running low on change here... If not, it's fine._
 -   _You want it? It's yours, my friend! As long as you have enough crowns._

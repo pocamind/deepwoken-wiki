@@ -1,6 +1,6 @@
 ---
 title: Dew Drop Earrings
-revid: 199219
+revid: 215368
 source: https://deepwoken.fandom.com/wiki/Dew_Drop_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -26,7 +26,7 @@ categories: [Equipment, Ears]
 
 ## Description
 
-**Dewdrop Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category.
+Dewdrop Earrings are an [Equipment](Equipment.md) item under the "Ears" category.
 
 ## Trivia
 

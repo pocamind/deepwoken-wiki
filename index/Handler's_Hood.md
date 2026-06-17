@@ -1,6 +1,6 @@
 ---
 title: "Handler's Hood"
-revid: 215268
+revid: 215387
 source: https://deepwoken.fandom.com/wiki/Handler's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment of The Central Authority]

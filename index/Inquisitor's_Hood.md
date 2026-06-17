@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Hood"
-revid: 215296
+revid: 215375
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment of The Central Authority]

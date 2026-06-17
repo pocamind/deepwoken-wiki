@@ -1,6 +1,6 @@
 ---
 title: Fur Parka
-revid: 215206
+revid: 215384
 source: https://deepwoken.fandom.com/wiki/Fur_Parka
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Parkas, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -27,7 +27,9 @@ categories: [Equipment with Styles, Equipment, Arms, Parkas, Equipment with Tale
 
 ## Description
 
-The Fur Parka is an [Equipment](Equipment.md) item under the "Arms" category. They are winter coats with a neck collar full of warm fur to protect you against the cold. All 3 variants are commonly found in [Aratel Island](Aratel_Island.md).
+The Fur Parka is an [Equipment](Equipment.md) item under the "Arms" category.
+
+They are winter coats with a neck collar full of warm fur to protect you against the cold. All 3 variants are commonly found in [Aratel Island](Aratel_Island.md).
 
 [Steady Footing](Talents.md#steady-footing) reduces knockback taken and negates the additional slide distance effect from standing on ice.
 

@@ -1,6 +1,6 @@
 ---
 title: Brilliant Cape
-revid: 214902
+revid: 215389
 source: https://deepwoken.fandom.com/wiki/Brilliant_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso, Capes]
@@ -15,7 +15,7 @@ categories: [Equipment with Styles, Equipment, Torso, Capes]
 | selling price | 14 |
 | requirements | LVL 5 |
 | weight | 0.5 |
-| styles | Adretian Hero, Antihero, Beastslayer, Brilliant, Kingmaker, Lightbringer, Northerner, Paladin, Snowbringer, Ranger |
+| styles | Adretian Hero, Antihero, Beastslayer, Default, Kingmaker, Lightbringer, Northerner, Paladin, Snowbringer, Ranger |
 | innate stats | +3% Elemental Armor , +1 Legendary Pip |
 | innate talent | N/A |
 | set | Brilliant Pauldron, Brilliant Boots, Brilliant Cape |

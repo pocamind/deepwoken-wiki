@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 213438
+revid: 215394
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant, Territory of The Summer Company]
@@ -28,13 +28,13 @@ One of the most eventful populated islands in the Eastern Luminant, having basic
 
 Main Article - [Guns](Guns.md) The Summer Isle's main attractions are the firearms, which can be found inside the main building at the gunsmith, the prices being:
 
--   [Flintlocks](Flintlock.md) - 100 Notes. The first guns the player to access early-game, dealing 10 damage on hit.
+-   [Flintlocks](Flintlock.md) - 100 Notes. The first guns the player to access early-game, dealing 11 damage on hit.
 -   Req: 20 LHT.
 
--   [Revolvers](Repeater.md) - 200 Notes. Similar to the flintlocks with a slight increase in damage (13) and a massive increase in swing speed. (M1's flow into each other, spammable)
+-   [Repeaters](Repeater.md) - 200 Notes. Similar to the flintlocks with a slight increase in damage (14) and a massive increase in swing speed. (M1's flow into each other, spammable)
 -   Req: 65 LHT.
 
--   [Dragoons](Dragoon.md) - 500 Notes. Similar to the flintlocks with a massive increase in damage (20), but cooldown increased. (M1 spam combo cannot be used)
+-   [Dragoons](Dragoon.md) - 500 Notes. Similar to the flintlocks with a massive increase in damage (16), but cooldown increased. (M1 spam combo cannot be used)
 -   Req: 65 LHT.
 
 Notes:

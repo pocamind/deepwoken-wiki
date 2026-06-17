@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Sallet
-revid: 215208
+revid: 215366
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Sallet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Helmets, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -25,7 +25,7 @@ categories: [Equipment with Styles, Equipment, Head, Helmets, Equipment with Tal
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Duke Erisia, Miner's Landing, Second Layer, Interluminary Parasol, Hell Mode, Maestro Evengarde Rest |
-| description | ... |
+| description | A fine sallet-style helmet of dark, galvanised steel. This particular style of helmet originates from the Canorian kingdoms of old, eventually becoming part of the Central Authority's armoury. Although primarily utilised by the lighter squadrons of the Central Authority Shock Corps, these helmets are highly valued by various mercenaries and brigands as well, who appreciate the design's sturdy and lightweight properties, often choosing to substitute metal for leather. |
 
 ## Description
 

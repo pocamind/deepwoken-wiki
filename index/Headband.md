@@ -1,6 +1,6 @@
 ---
 title: Headband
-revid: 215246
+revid: 215369
 source: https://deepwoken.fandom.com/wiki/Headband
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Face, Bandanas]
@@ -27,7 +27,7 @@ categories: [Equipment with Styles, Equipment, Face, Bandanas]
 
 ## Description
 
-The Headband is an [equipment](Equipment.md) item under the "Face" category.
+The Headband is an [Equipment](Equipment.md) item under the "Face" category.
 
 ## Trivia
 

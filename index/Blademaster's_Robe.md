@@ -1,6 +1,6 @@
 ---
 title: "Blademaster's Robe"
-revid: 215272
+revid: 215388
 source: https://deepwoken.fandom.com/wiki/Blademaster's_Robe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Arms, Equipment with Set Bonuses, Equipment with Exclusive Talents, Equipment with Talents, Etrea]
@@ -32,7 +32,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Blademaster's Robe is a traditional robe [Equipment](Equipment.md) that are dropped by [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
+The Blademaster's Robe are an [Equipment](Equipment.md) item under the "Arms" category.
+
+It is a traditional robe that is dropped by [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
 
 The [Swift Blade](Talents.md#swift-blade) Talent grants a 10% posture damage buffs to your light attacks while you are affected by the [Wind Gem](Wind_Gem.md). Additionally, [Wind Gems](Wind_Gem.md) last 2 seconds longer with this equipment.
 
@@ -44,4 +46,4 @@ When wearing the full equipment set, you will gain the Set Talent.
 
 ## Trivia
 
--   The outfit is most likely a _[kimono](https://en.wikipedia.org/wiki/kimono)_ worn using the _katahada-nugi_ styke, a traditional Japanese style of wearing clothing in which one sleeve and shoulder are removed from the garment, leaving one shoulder exposed.
+-   The outfit is most likely a _[kimono](https://en.wikipedia.org/wiki/kimono)_ worn using the _katahada-nugi_ style, a traditional Japanese style of wearing clothing in which one sleeve and shoulder are removed from the garment, leaving one shoulder exposed.

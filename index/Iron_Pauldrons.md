@@ -1,6 +1,6 @@
 ---
 title: Iron Pauldrons
-revid: 215317
+revid: 215378
 source: https://deepwoken.fandom.com/wiki/Iron_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
@@ -14,7 +14,7 @@ categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
 | rarity | Rare |
 | selling price | 14 |
 | requirements | LVL 5 |
-| weight | 2 |
+| weight | 2.5 |
 | styles | Classic, Galvanized |
 | innate stats | +1 Posture , +2 Rare Pips |
 | innate talent | N/A |

@@ -1,6 +1,6 @@
 ---
 title: Withered Gale Pale
-revid: 212438
+revid: 215364
 source: https://deepwoken.fandom.com/wiki/Withered_Gale_Pale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Greathammers, Heavy Weapons, "Attunement-based Weapons", Weapons with Talents, Legendary Weapons, Reforged Weapons]
@@ -47,6 +47,8 @@ Equipping the Withered Gale Pale grants its unique [weapon Talent](Talents.md#we
 **Soar** allows you to retain your full momentum during your weapon's critical attack. This Talent is extremely good when paired with speed boosts, slides, or Gale/Phantom Step dashes.
 
 Equipping [Motifs](Motifs.md) onto Withered Gale Pale will **disable** its weapon Talent.
+
+(This Talent is currently bugged and you wont keep momentum when using the critical)
 
 ## Critical
 
