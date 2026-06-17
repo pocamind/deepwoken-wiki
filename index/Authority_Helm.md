@@ -1,6 +1,6 @@
 ---
 title: Authority Helm
-revid: 215098
+revid: 215304
 source: https://deepwoken.fandom.com/wiki/Authority_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Equipment with Styles, Equipment, Head, Helmets, Drops, Equipment of The Central Authority, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -13,7 +13,7 @@ categories: [Authority Faction Item, Equipment with Styles, Equipment, Head, Hel
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 10, 10 Fortitude, OR Authority Ensign |
+| requirements | 10 FTD && LVL 10, OR Authority Ensign |
 | weight | 1 |
 | faction | Authority |
 | styles | Brushed, Galvanized |
@@ -28,7 +28,9 @@ categories: [Authority Faction Item, Equipment with Styles, Equipment, Head, Hel
 
 ## Description
 
-The Authority Helm is an [Equipment](Equipment.md) item under the "Head" category. The iconic headgear of [The Central Authority](The_Central_Authority.md) fighting forces.
+The Authority Helm is an [Equipment](Equipment.md) item under the "Head" category.
+
+The iconic headgear of [The Central Authority](The_Central_Authority.md) fighting forces.
 
 The [Strong Hold](Talents.md#strong-hold) Talent reduces posture damage taken by 5% while two-handing a Medium weapon. This Talent will be disabled if your health goes below 35%.
 

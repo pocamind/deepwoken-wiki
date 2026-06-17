@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pirate Captain
-revid: 208399
+revid: 215288
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pirate_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -19,7 +19,7 @@ categories: [Enemies]
 
 The Blacksteel Pirate captain can be encountered during the Hostage Mission for the [Authority Ensign](Authority_Ensign.md) Origin. This NPC spawns alongside 5 [Blacksteel Pirates](Blacksteel_Pirate.md). This enemy is very strong, be aware.
 
-They wear a [Darksteel Plate](Darksteel_Plate.md), a dyed black [Silver Knight's Helm](<Silver_Knight's_Helm.md>), a Black Cape, and a pair of [Blacksteel Pauldrons](Blacksteel_Pauldrons.md).
+They wear a [Darksteel Plate](Darksteel_Plate.md), a dyed black [Silver Knight's Helm](<Silver_Knight's_Helm.md>), a Black [Plain Cape](Plain_Cape.md), and a pair of [Blacksteel Pauldrons](Blacksteel_Pauldrons.md).
 
 ## Moves
 

@@ -1,6 +1,6 @@
 ---
 title: "Handler's Hood"
-revid: 215095
+revid: 215268
 source: https://deepwoken.fandom.com/wiki/Handler's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment of The Central Authority]
@@ -23,7 +23,7 @@ categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment of The Cen
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Authority Ensign Missions, The Starswept Valley, Fishing |
-| description | A shroud worn proud by the members of the Inquisition. |
+| description | A shroud worn proud by the higher ranking members of the Central Authority Inquisition. Becoming a Handler is no easy feat for any Inquisitor, and requires a high expertise in a variety of skills. Handlers often act as trusted agents commanded directly by the High Inquisitors, extending the reach of their activities far beyond Authority territory. They are the measured blades which slice apart the chains which seek to bind all. |
 
 ## Description
 

@@ -1,9 +1,9 @@
 ---
 title: Gumshoe Hat
-revid: 209733
+revid: 215214
 source: https://deepwoken.fandom.com/wiki/Gumshoe_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Hats, Equipment with Styles]
+categories: [Equipment with Styles, Equipment, Head, Hats]
 ---
 
 # Gumshoe Hat
@@ -15,6 +15,7 @@ categories: [Equipment, Head, Hats, Equipment with Styles]
 | selling price | 7 |
 | requirements | None |
 | weight | 1 |
+| styles | Dark, Grey, Ocre, White |
 | innate stats | +1 Rare Pip |
 | innate talent | N/A |
 | set | Gumshoe Hat, Gumshoe Longcoat |
@@ -23,9 +24,9 @@ categories: [Equipment, Head, Hats, Equipment with Styles]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Fort Merit, Songseeker Wilds, Starswept Valley |
+| obtainment | Chests from:, Fort Merit, Songseeker Wilds, Starswept Valley |
 | description | ... |
 
 ## Description
 
-The Gumshoe Hat is an accessory under the "_Head_" category. They can be found in chests from [Fort Merit](Fort_Merit.md).
+The Gumshoe Hat is an [Equipment](Equipment.md) item under the "Head" category. They can be found in chests from [Fort Merit](Fort_Merit.md).

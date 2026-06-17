@@ -1,6 +1,6 @@
 ---
 title: Songseeker Flamecharmer
-revid: 201868
+revid: 215233
 source: https://deepwoken.fandom.com/wiki/Songseeker_Flamecharmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers, Humanoids with Unobtainable Outfits]
@@ -11,7 +11,7 @@ categories: [Enemies, Songseekers, Humanoids with Unobtainable Outfits]
 | Songseeker Flamecharmer | |
 |---|---|
 | health | 900 |
-| drops | Dying Embers, Red Royal Guard (Mask) |
+| drops | Dying Embers, Aspirant Mask |
 | weapon | Fists |
 | moves | Assault, Critical, Fire Blade, Flame Repulsion, Fire Palm, Fire Eruption, Flame Ballista |
 
@@ -21,7 +21,7 @@ categories: [Enemies, Songseekers, Humanoids with Unobtainable Outfits]
 
 A Songseeker Flamecharmer is an enemy NPC that can only be found in [Songseeker Wilds](Songseeker_Wilds.md). They can appear in Random Encounters or on fixed spawns in [Songseeker Wilds](Songseeker_Wilds.md).
 
-A Songseeker Flamecharmer wears a Royal Guard Mask (Red) and an Unknown/Unlisted outfit, Varying with their [aspect](Aspects.md) and gender.
+A Songseeker Flamecharmer wears an Aspirant Mask (Carmine) and an Unknown/Unlisted outfit, Varying with their [aspect](Aspects.md) and gender.
 
 ## Moveset
 

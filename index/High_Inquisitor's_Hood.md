@@ -1,6 +1,6 @@
 ---
 title: "High Inquisitor's Hood"
-revid: 215091
+revid: 215277
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment of The Central Authority]
@@ -23,7 +23,7 @@ categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment of The Cen
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Authority Ensign Missions, The Starswept Valley, Fishing |
-| description | A shroud worn proud by the members of the Inquisition. |
+| description | A shroud worn proudly by highest ranking [sic] members of the Inquisition of the Central Authority. Orchestrating whole divisions of Inquisitors like relentless, haunting shadows, the High Inquisitors are the faithful eyes and ears of the Authority all over Lumen. |
 
 ## Description
 

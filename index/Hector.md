@@ -1,6 +1,6 @@
 ---
 title: Hector
-revid: 205370
+revid: 215286
 source: https://deepwoken.fandom.com/wiki/Hector
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Naval personnel of The Central Authority, Military personnel of The Central Authority]
@@ -27,7 +27,7 @@ Hector is an [Adret](Adret.md) NPC. He joined the Authority Navy only to be post
 
 Unhappy with his position, Hector has no real stake in the Authority's goals, and is perfectly willing to help facilitate the escape of [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md). Should such a breakout succeed, Hector hopes to use the opportunity to desert the military and return home.
 
-He wears the [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md) outfit, a Golden Cape, and [Tracker's Boots](<Tracker's_Boots.md>).
+He wears the [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md) outfit, a Golden [Plain Cape](Plain_Cape.md), and [Tracker's Boots](<Tracker's_Boots.md>).
 
 ## Location
 

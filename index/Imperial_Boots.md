@@ -1,6 +1,6 @@
 ---
 title: Imperial Boots
-revid: 214834
+revid: 215337
 source: https://deepwoken.fandom.com/wiki/Imperial_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Boots]
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Equipment, Legs, Boots]
 | type | Legs |
 | rarity | Uncommon |
 | selling price | 14 |
-| requirements | Power 10 |
+| requirements | LVL 10 |
 | weight | 1 |
 | styles | Brushed, Galvanized |
 | innate stats | +5 Health , +2 Rare Pips, +1 Legendary Pip |

@@ -1,6 +1,6 @@
 ---
 title: Songseeker Galebreather
-revid: 201960
+revid: 215244
 source: https://deepwoken.fandom.com/wiki/Songseeker_Galebreather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers, Humanoids with Unobtainable Outfits]
@@ -11,7 +11,7 @@ categories: [Enemies, Songseekers, Humanoids with Unobtainable Outfits]
 | Songseeker Galebreather | |
 |---|---|
 | health | 1000 |
-| drops | Gale Stone, Royal Guard (Green) |
+| drops | Gale Stone, Aspirant Mask |
 | weapon | Fists |
 | moves | Assault, Critical, Gale Lunge, Heavenly Wind, Air Force |
 
@@ -21,7 +21,7 @@ categories: [Enemies, Songseekers, Humanoids with Unobtainable Outfits]
 
 A Songseeker Galebreather is an enemy NPC that can be found in [Songseeker Wilds](Songseeker_Wilds.md). They can appear in Random Encounters, on fixed spawns, or in the Songseeker Fanactics [job](Job_Boards.md#songseeker-wilds).
 
-A Songseeker Galebreather wears a [Royal Guard Mask (Green)](Aspirant_Mask.md) and an Unknown/Unlisted outfit, Varying with their [aspect](Aspects.md) and gender.
+A Songseeker Galebreather wears an Aspirant Mask (Emerald) and an Unknown/Unlisted outfit, Varying with their [aspect](Aspects.md) and gender.
 
 ## Moveset
 

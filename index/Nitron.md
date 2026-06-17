@@ -1,6 +1,6 @@
 ---
 title: Nitron
-revid: 194891
+revid: 215225
 source: https://deepwoken.fandom.com/wiki/Nitron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Vow of Iron Exclusive, NPCs, Vendors, The Summer Company, Individuals with unspecified pronouns]
@@ -100,4 +100,4 @@ This dialogue can only appear if the player has not made at least 200 Bullet Cas
 
 ## Trivia
 
--   They wear a Black Hood and the [Summer Company Uniform](Summer_Company_Uniform.md).
+-   They wear a [Plain Hood](Plain_Hood.md) and the [Summer Company Uniform](Summer_Company_Uniform.md).

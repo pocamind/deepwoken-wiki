@@ -1,6 +1,6 @@
 ---
 title: Thresher Charm
-revid: 215033
+revid: 215310
 source: https://deepwoken.fandom.com/wiki/Thresher_Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso]
@@ -18,7 +18,7 @@ categories: [Equipment with Styles, Equipment, Torso]
 | styles | Default, Hang In There |
 | innate stats | +2 Rare Pips |
 | innate talent | Thresher Thrasher |
-| bankable | ? |
+| bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |

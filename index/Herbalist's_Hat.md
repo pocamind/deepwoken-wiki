@@ -1,6 +1,6 @@
 ---
 title: "Herbalist's Hat"
-revid: 214785
+revid: 215338
 source: https://deepwoken.fandom.com/wiki/Herbalist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talent
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, First Layer, Lodestar, Voidwalker Bounties, Duke Erisia |
+| obtainment | Chests from:, Aratel Island, First Layer, Lodestar, Voidwalker Bounties, Duke Ishamon Erisia |
 | description | ... |
 
 ## Description

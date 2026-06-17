@@ -1,6 +1,6 @@
 ---
 title: Private Kernel
-revid: 208293
+revid: 215287
 source: https://deepwoken.fandom.com/wiki/Private_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 Private Kernel is a [Celtor](Celtor.md) NPC. He possesses information on who [The Central Authority](The_Central_Authority.md) contains in the [Merit Detainment Core](Merit_Detainment_Core.md).
 
-He is equipped with an [Authority Helm](Authority_Helm.md), a green-dyed cape, [Leather Boots](Leather_Boots.md), and the [Authority Peacekeeper](Authority_Peacekeeper.md) [Outfit](Outfits.md). On his back, he wields an [Adretian Axe](Adretian_Axe.md).
+He is equipped with an [Authority Helm](Authority_Helm.md), a green-dyed [Plain Cape](Plain_Cape.md), [Leather Boots](Leather_Boots.md), and the [Authority Peacekeeper](Authority_Peacekeeper.md) [Outfit](Outfits.md). On his back, he wields an [Adretian Axe](Adretian_Axe.md).
 
 ## Location
 

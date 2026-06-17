@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Hood"
-revid: 215092
+revid: 215296
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment of The Central Authority]
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment of The Cen
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 1 |
 | styles | Black, Crimson, Pale |
 | innate stats | +1 Legendary Pip |
@@ -23,11 +23,11 @@ categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment of The Cen
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Authority Ensign Missions, The Starswept Valley, Fishing |
-| description | A shroud worn proud by the members of the Inquisition. |
+| description | A shroud worn proudly by the rank-and-file members of the Central Authority Inquisition. Often deployed individually behind enemy lines, Inquisitors are an invaluable tool to the Central Authority, excelling in acts of espionage, sabotage, and subterfuge. |
 
 ## Description
 
-The **Inquisitor's Hood** is a Rare [Equipment](Equipment.md) item under the "Head" category.
+The Inquisitor's Hood is an [Equipment](Equipment.md) item under the "Head" category.
 
 ## Trivia
 

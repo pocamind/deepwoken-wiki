@@ -1,9 +1,9 @@
 ---
 title: Fur Pauldrons
-revid: 209735
+revid: 215203
 source: https://deepwoken.fandom.com/wiki/Fur_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Pauldrons, Equipment with Styles]
+categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
 ---
 
 # Fur Pauldrons
@@ -15,6 +15,7 @@ categories: [Equipment, Arms, Pauldrons, Equipment with Styles]
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
+| styles | Black, White |
 | innate stats | +3 Health , +1 Rare Pips |
 | innate talent | N/A |
 | set | Fur Pauldrons, Fur Boots |
@@ -23,7 +24,7 @@ categories: [Equipment, Arms, Pauldrons, Equipment with Styles]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Erisia, Dread Serpent, Aratel Island, Lodestar (Both), Starswept Valley (White), Maestro Evengarde Rest (Black), War Mode (White), Authority Ensign Missions (White) |
+| obtainment | Chests from:, Erisia, Dread Serpent, Aratel Island, Lodestar, Starswept Valley, Maestro Evengarde Rest, War Mode, Authority Ensign |
 | description | ... |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 205360
+revid: 215284
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant]
@@ -114,7 +114,7 @@ Below is a list of potential items that can spawn in chests in Songseeker Wilds.
     <li><a href="Equipment.md#head"><b>Head Equipment</b></a>:</li>
     <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Flameguard_Pauldrons.md">Flameguard Pauldrons</a>, <a href="Glassdancer_Wraps.md">Glassdancer Wraps</a>, <a href="Royal_Duelist.md">Royal Duelist</a></li>
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Brilliant_Boots.md">Brilliant Boots</a>, <a href="Legion_Boots.md">Legion Boots</a>, <a href="Ranger's_Boots.md">Ranger's Boots</a></li>
-    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: Cape</li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Plain_Cape.md">Plain Cape</a></li>
     <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Blindfold.md">Blindfold</a>, <a href="Eyeglasses.md">Eyeglasses</a></li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:</li>
     <li><a href="Equipment.md#rings"><b>Rings</b></a>:</li>

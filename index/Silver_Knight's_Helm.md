@@ -1,6 +1,6 @@
 ---
 title: "Silver Knight's Helm"
-revid: 214864
+revid: 215332
 source: https://deepwoken.fandom.com/wiki/Silver_Knight's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Helmets]
@@ -29,12 +29,12 @@ categories: [Equipment with Styles, Equipment, Head, Helmets]
 
 ## Description
 
-The Silver Knight's Helm is an Equipment in the "Head" category.
+The Silver Knight's Helm is an [Equipment](Equipment.md) item under the "Head" category.
 
   
 
 ## Trivia
 
--   Considered one of the best Head [Equipment](Equipment.md) pieces, due to it being one of the few helmets that are able to reach 30 HP.
+-   Considered one of the best Head Equipment pieces, due to it being one of the few helmets that are able to reach 30 HP.
 -   It is worn by the [Tideknights](Tideknight.md) found in [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 -   Formerly known as the Knight's Helm.

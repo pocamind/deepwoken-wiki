@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 205661
+revid: 215258
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, NPCs, Vendors, Random Encounters]
@@ -43,7 +43,7 @@ Sold Items
     <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Big_Alchemist's_Hat.md">Big Alchemist's Hat</a>, <a href="Bloodfeather_Cowl.md">Bloodfeather Cowl</a>, <a href="Guard's_Kabuto.md">Guard's Kabuto</a>, <a href="Legion_Helmet.md">Khan Helmet</a></li>
     <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Brigand's_Cloak.md">Brigand's Cloak</a>, <a href="Delver's_Duster.md">Delver's Duster</a>, <a href="Flameguard_Pauldrons.md">Flameguard Pauldrons</a>, <a href="Fur_Parka.md">Fur Parka</a>, <a href="Glassdancer_Wraps.md">Glassdancer Wraps</a>, <a href="Hive_Scourge_Cuirass.md">Hive Scourge Cuirass</a>, <a href="Imperial_Pauldrons.md">Imperial Pauldrons</a>, <a href="Ironsinger_Heavy_Plate.md">Ironsinger Heavy Plate</a>, <a href="Legion_Pauldrons.md">Khan Pauldrons</a>, <a href="Redsteel_Pauldrons.md">Redsteel Pauldrons</a>, <a href="Royal_Pathfinder.md">Royal Pathfinder</a>, <a href="Star_Duster.md">Star Duster</a>, <a href="Steel_Pauldrons.md">Steel Pauldrons</a>, <a href="Trimmed_Overcoat.md">Trimmed Overcoat</a>, <a href="Vanguard_Brace.md">Vanguard Brace</a>, <a href="Winter_Corps_Parka.md">Winter Corps Parka</a></li>
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Leather_Boots.md">Leather Boots</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Silver_Sabatons.md">Silver Sabatons</a>, <a href="Star_Boots.md">Star Boots</a>, <a href="Woodland_Boots.md">Woodland Boots</a></li>
-    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Confessor's_Charm.md">Confessor's Charm</a>, <a href="Curseblood_Pendant.md">Curseblood Pendant</a>, Dawn Scarf</li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Adventurer's_Scarf.md">Adventurer's Scarf</a>, <a href="Confessor's_Charm.md">Confessor's Charm</a>, <a href="Curseblood_Pendant.md">Curseblood Pendant</a></li>
     <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: Duelist's Mask, <a href="Smith's_Goggles.md">Smith's Goggles</a></li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Ruby_Drop_Earrings.md">Ruby Drop Earrings</a>, <a href="Ruby_Pendant_Earrings.md">Ruby Pendant Earrings</a></li>
   </ul></td>
@@ -54,7 +54,7 @@ Sold Items
   <ul>
     <li><a href="Relics.md"><b>Relics</b></a>: <a href="Dye_Packet.md">Dye Packet</a></li>
     <li><a href="Books.md"><b>Books</b></a>: <a href="Archivist_Journal%253A_'Megalodaunt'.md">Archivist Journal: 'Megalodaunt'</a>, <a href="Children_of_the_Aftertide.md">Children of the Aftertide I</a>, <a href="Eggs_In_A_Basket.md">Eggs In A Basket</a>, <a href="Tale_of_the_Storm.md">Tale of the Storm</a>, <a href="The_Ferryman's_Lullaby.md">The Ferryman's Lullaby</a>, <a href="The_Hammer's_Call.md">The Hammer's Call</a>, <a href="The_Gideshu_March.md">The Gideshu March</a></li>
-    <li><a href="Food.md"><b>Foods</b></a>: <a href="Cake.md">Cake</a>, <a href="Cooked_Fish.md">Cooked Fish</a>, <a href="Cooked_Squid.md">Cooked Squid</a>, <a href="Fish_Omelette.md">Fish Omelette</a>, <a href="Fruit_Salad.md">Fruit Salad</a>, <a href="Noodles.md">Noodles</a>, <a href="Mushroom_Bisque.md">Mushroom Bisque</a>, <a href="Mushroom_Omelette.md">Mushroom Omelette</a>, <a href="Omelette.md">Omelette</a>, <a href="Seafood_Boil.md">Seafood Boil</a></li>
+    <li><a href="Food.md"><b>Food</b></a>: <a href="Cake.md">Cake</a>, <a href="Cooked_Fish.md">Cooked Fish</a>, <a href="Cooked_Squid.md">Cooked Squid</a>, <a href="Fish_Omelette.md">Fish Omelette</a>, <a href="Fruit_Salad.md">Fruit Salad</a>, <a href="Noodles.md">Noodles</a>, <a href="Mushroom_Bisque.md">Mushroom Bisque</a>, <a href="Mushroom_Omelette.md">Mushroom Omelette</a>, <a href="Omelette.md">Omelette</a>, <a href="Seafood_Boil.md">Seafood Boil</a></li>
     <li><b>Tools</b>: <a href="Canteen.md">Canteen</a>, <a href="Gliders.md">Glider</a>, <a href="Hunter's_Brace.md">Hunter's Brace</a>, <a href="Lumber_Axe.md">Lumber Axe</a>, <a href="Pickaxe.md">Pickaxe</a>, <a href="Repair_Kit.md">Repair Kit</a>, <a href="Flint.md">Umbral Flint</a></li>
   </ul></td>
 </tr>

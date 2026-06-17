@@ -1,6 +1,6 @@
 ---
 title: Iron Boots
-revid: 214890
+revid: 215315
 source: https://deepwoken.fandom.com/wiki/Iron_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Boots]
@@ -15,7 +15,7 @@ categories: [Equipment with Styles, Equipment, Legs, Boots]
 | selling price | 7 |
 | requirements | None |
 | weight | 1 |
-| styles | Brushed, Galvanized |
+| styles | Classic, Galvanized |
 | innate stats | +2 Rare Pips |
 | innate talent | N/A |
 | set | Iron Pauldrons, Iron Boots |
@@ -29,4 +29,4 @@ categories: [Equipment with Styles, Equipment, Legs, Boots]
 
 ## Description
 
-The Iron Boots are an [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Iron Set.
+The Iron Boots are an [Equipment](Equipment.md) item under the "Legs" category, and are a part of the Iron Set.

@@ -1,6 +1,6 @@
 ---
 title: "Ringing Scholar's Capeline"
-revid: 211721
+revid: 215291
 source: https://deepwoken.fandom.com/wiki/Ringing_Scholar's_Capeline
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Head, Hats]
@@ -35,4 +35,6 @@ Variants: [Raiments](<Ringing_Scholar's_Raiments.md>) · [Boots](<Ringing_Schola
 
 ## Description
 
-The Ringing Scholar's Capeline is a legendary black hat [Equipment](Equipment.md) that drops from [Knell, The Lunatic Resonator](Knell,_The_Lunatic_Resonator.md).
+The Ringing Scholar's Capeline is an [Equipment](Equipment.md) item under the "Head" category.
+
+It is a legendary black hat [Equipment](Equipment.md) that drops from [Knell, The Lunatic Resonator](Knell,_The_Lunatic_Resonator.md).

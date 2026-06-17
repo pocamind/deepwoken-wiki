@@ -1,6 +1,6 @@
 ---
 title: Caster Fur Pauldrons
-revid: 209851
+revid: 215200
 source: https://deepwoken.fandom.com/wiki/Caster_Fur_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -38,7 +38,7 @@ Variants: [Boots](Caster_Fur_Boots.md)
 
 ## Description
 
-The Fur Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category.
+The Caster Fur Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category.
 
 The [Ether Upgrade](Talents.md#ether-upgrade) Talent increases the level of all of your Mantras by +1. This is an on-cast bonus, and is not displayed on your Mantra's tooltip.
 

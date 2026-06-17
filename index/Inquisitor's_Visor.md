@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Visor"
-revid: 215093
+revid: 215267
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Visor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, In progress with reason, InProgressPages, Equipment, Head, Equipment of The Central Authority]

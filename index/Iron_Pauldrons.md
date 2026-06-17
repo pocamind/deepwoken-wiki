@@ -1,6 +1,6 @@
 ---
 title: Iron Pauldrons
-revid: 214891
+revid: 215317
 source: https://deepwoken.fandom.com/wiki/Iron_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
@@ -13,9 +13,9 @@ categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
 | type | Arms |
 | rarity | Rare |
 | selling price | 14 |
-| requirements | None |
+| requirements | LVL 5 |
 | weight | 2 |
-| styles | Brushed, Galvanized |
+| styles | Classic, Galvanized |
 | innate stats | +1 Posture , +2 Rare Pips |
 | innate talent | N/A |
 | set | Iron Pauldrons, Iron Boots |
@@ -24,9 +24,9 @@ categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:, Erisia, Isle of Vigils, Duke Erisia, Fort Merit, First Layer |
+| obtainment | Chests From:, Erisia, Isle of Vigils, Duke Ishamon Erisia, Fort Merit, First Layer |
 | description | ... |
 
 ## Description
 
-The Iron Pauldrons are an [Equipment](Equipment.md) item under the "Arm" category, and is a part of the Iron Set.
+The Iron Pauldrons are an [Equipment](Equipment.md) item under the "Arm" category, and are a part of the Iron Set.

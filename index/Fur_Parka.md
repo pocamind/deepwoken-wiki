@@ -1,9 +1,9 @@
 ---
 title: Fur Parka
-revid: 209736
+revid: 215206
 source: https://deepwoken.fandom.com/wiki/Fur_Parka
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Parkas, Equipment with Styles, Equipment with Talents, "Equipment with Non-exclusive Talents"]
+categories: [Equipment with Styles, Equipment, Arms, Parkas, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Fur Parka
@@ -15,6 +15,7 @@ categories: [Equipment, Arms, Parkas, Equipment with Styles, Equipment with Tale
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
+| styles | Black, Brown, White |
 | innate stats | +2 Health , +1 Posture , +1 Rare Pip |
 | innate talent | Steady Footing |
 | bankable | Yes |
@@ -26,13 +27,12 @@ categories: [Equipment, Arms, Parkas, Equipment with Styles, Equipment with Tale
 
 ## Description
 
-The Parka is an [Equipment](Equipment.md) item under the "Arms" category. They are winter coats with a neck collar full of warm fur to protect you against the cold. All 3 variants are commonly found in [Aratel Island](Aratel_Island.md).
+The Fur Parka is an [Equipment](Equipment.md) item under the "Arms" category. They are winter coats with a neck collar full of warm fur to protect you against the cold. All 3 variants are commonly found in [Aratel Island](Aratel_Island.md).
 
 [Steady Footing](Talents.md#steady-footing) reduces knockback taken and negates the additional slide distance effect from standing on ice.
 
 ## Trivia
 
--   As seen above, Brown Parka is the only Parka without square pads.
--   White Parka has different innate stats/pips compared to Black & Brown. White has +2 Health, +1 Rare Pip, and +1 Uncommon Pip while the others have 2 Health, 1 Posture, and +1 Rare Pip.
+-   The Brown Fur Parka is the only Parka without square pads.
 -   The Black Parka variant is worn by Authority Captains and can be obtained by them upon defeat.
 -   Parkas look similar to the [Trimmed Overcoat](Trimmed_Overcoat.md).

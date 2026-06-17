@@ -1,6 +1,6 @@
 ---
 title: Imperial Pauldrons
-revid: 214833
+revid: 215251
 source: https://deepwoken.fandom.com/wiki/Imperial_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Pauldrons]

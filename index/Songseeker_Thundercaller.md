@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 208881
+revid: 215235
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers, Humanoids with Unobtainable Outfits]
@@ -11,7 +11,7 @@ categories: [Enemies, Songseekers, Humanoids with Unobtainable Outfits]
 | Songseeker Thundercaller | |
 |---|---|
 | health | 900 |
-| drops | Spark Gland, Green Royal Guard (Mask) |
+| drops | Spark Gland, Aspirant Mask |
 | weapon | Fists |
 | moves | Assault, Critical, Jolt Grab, Lightning Impact, Storm Blades, Lightning Assault, Lightning Stream |
 
@@ -21,7 +21,7 @@ categories: [Enemies, Songseekers, Humanoids with Unobtainable Outfits]
 
 A Songseeker Thundercaller is an enemy NPC that can only be found in [Songseeker Wilds](Songseeker_Wilds.md). They can appear in Random Encounters or on fixed spawns in [Songseeker Wilds](Songseeker_Wilds.md).
 
-A Songseeker Thundercaller wears a Royal Guard Mask (Green) and an Unknown/Unlisted outfit, Varying with their [aspect](Aspects.md) and gender.
+A Songseeker Thundercaller wears an Aspirant Mask (Gold) and an Unknown/Unlisted outfit, Varying with their [aspect](Aspects.md) and gender.
 
 A Songseeker Thundercaller's arsenal consists of [Fists](Fists.md) **(Way of Navae)** and the [Thundercall](Thundercall.md) attunement:
 

@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 213251
+revid: 215247
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Bosses, Black Divers, Voiced Characters, Ministry Enemies]
@@ -280,7 +280,7 @@ Exhaustive Loot Table
     <li><b>Relic Torso</b>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></li>
     <li><b>Generic Torso</b>: <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, <a href="Confessor's_Charm.md">Confessor's Charm</a>, <a href="Dark_Owl_Cloak.md">Dark Owl Cloak</a>, <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a>, <a href="Sandrunner_Scarf.md">Sandrunner Scarf</a></li>
   </ol></li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Citadel_Frames.md">Citadel Frames</a> (All Variants), <a href="Demon_Mask.md">Demon Mask</a>, <a href="Hivelord_Mask.md">Hivelord Mask</a>, <a href="Aspirant_Mask.md">Royal Guard</a> (Red), <a href="Ten-Gallon_Bandana.md">Ten-Gallon Bandana</a></li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Aspirant_Mask.md">Aspirant Mask</a>, <a href="Citadel_Frames.md">Browline Citadel Frames</a>, <a href="Demon_Mask.md">Demon Mask</a>, <a href="Hivelord_Mask.md">Hivelord Mask</a>, <a href="Citadel_Frames.md">Round Citadel Frames</a>, <a href="Ten-Gallon_Bandana.md">Ten-Gallon Bandana</a></li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Crescent_Earrings.md">Moonlit Earrings</a>, <a href="Old_Blood_Earrings.md">Old Blood Earrings</a>, <a href="Practicioner's_Earrings.md">Practicioner's Earrings</a></li>
     <li><a href="Equipment.md#rings"><b>Rings</b></a>:
   <ol>

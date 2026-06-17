@@ -1,6 +1,6 @@
 ---
 title: "Ten-Gallon Hat"
-revid: 213308
+revid: 215302
 source: https://deepwoken.fandom.com/wiki/Ten-Gallon_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -13,7 +13,7 @@ categories: [Equipment, Head, Hats]
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | None |
+| requirements | LVL 5 |
 | weight | 1 |
 | innate stats | +2 Posture , +1 Rare Pip |
 | innate talent | N/A |
@@ -28,7 +28,9 @@ categories: [Equipment, Head, Hats]
 
 ## Description
 
-The Ten-Gallon Hat is an [Equipment](Equipment.md) item in the "Head" category. It's a wide-brimmed cowboy hat typically made of felt or straw.
+The Ten-Gallon Hat is an [Equipment](Equipment.md) item in the "Head" category.
+
+It's a wide-brimmed cowboy hat.
 
 ## Trivia
 

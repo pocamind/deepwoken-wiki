@@ -1,6 +1,6 @@
 ---
 title: Silver Sabatons
-revid: 214866
+revid: 215323
 source: https://deepwoken.fandom.com/wiki/Silver_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Sabatons]
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Equipment, Legs, Sabatons]
 | type | Legs |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 1 |
 | styles | Brushed, Galvanized |
 | innate stats | +3 Health +2 Rare Pips, +1 Legendary Pip |
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Legs, Sabatons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, Duke Erisia, Starswept Valley, Chime of Conflict, Maestro Evengarde Rest |
+| obtainment | Chests from:, Aratel Island, Duke Ishamon Erisia, Starswept Valley, Chime of Conflict, Maestro Evengarde Rest |
 | description | ... |
 
 ## Description

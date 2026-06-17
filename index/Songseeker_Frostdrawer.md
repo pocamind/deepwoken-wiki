@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 201870
+revid: 215231
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers, Humanoids with Unobtainable Outfits]
@@ -11,7 +11,7 @@ categories: [Enemies, Songseekers, Humanoids with Unobtainable Outfits]
 | Songseeker Frostdrawer | |
 |---|---|
 | health | 1000 |
-| drops | Frigid Prism, Blue Royal Guard |
+| drops | Frigid Prism, Aspirant Mask |
 | weapon | Fists |
 | moves | Assault, Critical, Ice Spikes, Ice Daggers, Ice Blade, Ice Eruption, Ice Smash |
 
@@ -19,7 +19,7 @@ categories: [Enemies, Songseekers, Humanoids with Unobtainable Outfits]
 
 Songseeker Frostdrawers are enemy NPCs that can be found in [Songseeker Wilds](Songseeker_Wilds.md) and on [Minityrsa](Minityrsa.md). They can appear in Random Encounters or on fixed spawns in [Songseeker Wilds](Songseeker_Wilds.md). As for [Minityrsa](Minityrsa.md), they can only spawn in Random Encounters.
 
-Songseeker Frostdrawers wear a Royal Guard Mask (Blue) and an Unknown/Unlisted outfit, Varying with their [aspect](Aspects.md) and gender.
+Songseeker Frostdrawers wear an Aspirant Mask (Saphire) and an Unknown/Unlisted outfit, Varying with their [aspect](Aspects.md) and gender.
 
 ## Moveset
 

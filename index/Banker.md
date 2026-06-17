@@ -1,9 +1,9 @@
 ---
 title: Banker
-revid: 213890
+revid: 215189
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Pages with broken file links, NPCs]
+categories: [Adret NPCs, NPCs]
 ---
 
 # Banker
@@ -33,8 +33,6 @@ The following item types are sorted as follows:
 [Enchanted](Enchantments.md) items are prioritized first in their respective category.
 
 Players start with six free slots, each holding one item, almost all items can be put inside the bank slots. Soulbound and Relic items will have to go through a **Vow of Safekeeping,** where 1 is spent to create the vow.
-
-File:BANK.png
 
 Each slot will call a small, or large fee depending on how many slots you currently have. The listed prices below apply to every new slot, (e.g, the 15th slot would cost 2,500 .)
 

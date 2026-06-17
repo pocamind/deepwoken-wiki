@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 214478
+revid: 215252
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Bosses, Voiced Characters]
@@ -183,9 +183,9 @@ After Heart of Enmity is defeated, everyone who participated is rewarded with a 
     <li><a href="Equipment.md#head"><b>Head Equipment</b></a>:
   <ol>
     <li><b>Unique Head</b>: <a href="Aegis_of_Enmity.md"><font>Aegis of Enmity</font></a></li>
-    <li><b>Generic Head</b>: <a href="Blackleaf_Helm.md">Blackleaf Helm</a>, <a href="Blacksteel_Helm.md">Blacksteel Helm</a>, <a href="Celtor_Commander_Helm.md">Celtor Commander Helm</a>, <a href="Dark_Cowl.md">Dark Cowl</a>, <a href="Dark_Owl_Chapeau.md">Dark Owl Chapeau</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Goldleaf_Helm.md">Goldleaf Helm</a>, <a href="Guard's_Kabuto.md">Guard's Kabuto</a>, <a href="Investigator's_Hat.md">Investigator's Hat</a>, <a href="Phalanx_Helmet.md">Phalanx Helmet</a>, <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a>, <a href="Smith's_Bandana.md">Smith's Bandana</a>, <a href="Strapped_Hat.md">Strapped Hat</a> (Black), <a href="Vigil_Hood.md">Vigil Hood</a></li>
+    <li><b>Generic Head</b>: <a href="Blackleaf_Helm.md">Blackleaf Helm</a>, <a href="Blacksteel_Helm.md">Blacksteel Helm</a>, <a href="Celtor_Commander_Helm.md">Celtor Commander Helm</a>, <a href="Dark_Cowl.md">Dark Cowl</a>, <a href="Dark_Owl_Chapeau.md">Dark Owl Chapeau</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Goldleaf_Helm.md">Goldleaf Helm</a>, <a href="Guard's_Kabuto.md">Guard's Kabuto</a>, <a href="Investigator's_Hat.md">Investigator's Hat</a>, <a href="Phalanx_Helmet.md">Phalanx Helmet</a>, <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a>, <a href="Smith's_Bandana.md">Smith's Bandana</a>, <a href="Strapped_Hat.md">Strapped Hat</a>, <a href="Vigil_Hood.md">Vigil Hood</a></li>
   </ol></li>
-    <li><a href="Equipment.md#arms"><b>Arm Equipment</b></a>:
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:
   <ol>
     <li><b>Unique Arms</b>: <a href="Bastions_of_Enmity.md"><font>Bastions of Enmity</font></a></li>
     <li><b>Legendary Arms</b>: <a href="Ironsinger_Heavy_Plate.md"><font>Ironsinger Heavy Plate</font></a></li>
@@ -194,7 +194,7 @@ After Heart of Enmity is defeated, everyone who participated is rewarded with a 
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>:
   <ol>
     <li><b>Unique Legs</b>: <a href="Wartreads_of_Enmity.md"><font>Wartreads of Enmity</font></a></li>
-    <li><b>Generic Legs</b>: <a href="Autumn_Boots.md">Autumn Boots</a>, <a href="Etrean_Siege_Sabatons.md">Etrean Siege Sabatons</a>, <a href="Fur_Boots.md">Fur Boots</a> (White) <a href="Grand_Authority_Sabatons.md">Grand Authority Sabatons</a>, <a href="Legion_Boots.md">Khan Boots</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Tracker's_Boots.md">Tracker's Boots</a>, <a href="Winter_Corps_Boots.md">Winter Corps Boots</a>, <a href="Woodland_Boots.md">Woodland Boots</a></li>
+    <li><b>Generic Legs</b>: <a href="Autumn_Boots.md">Autumn Boots</a>, <a href="Etrean_Siege_Sabatons.md">Etrean Siege Sabatons</a>, <a href="Fur_Boots.md">Fur Boots</a>, <a href="Grand_Authority_Sabatons.md">Grand Authority Sabatons</a>, <a href="Legion_Boots.md">Khan Boots</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Tracker's_Boots.md">Tracker's Boots</a>, <a href="Winter_Corps_Boots.md">Winter Corps Boots</a>, <a href="Woodland_Boots.md">Woodland Boots</a></li>
   </ol></li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:
   <ol>
@@ -205,10 +205,10 @@ After Heart of Enmity is defeated, everyone who participated is rewarded with a 
     <li><a href="Equipment.md#face"><b>Face Equipment</b></a>:
   <ol>
     <li><b>Unique Face</b>: <a href="Thrall_of_Enmity.md"><font>Thrall of Enmity</font></a></li>
-    <li><b>Generic Face</b>: <a href="Aristocrat_Eyeglasses.md">Aristocrat Eyeglasses</a> (Red), <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>, <a href="Citadel_Frames.md">Citadel Frames</a> (All Variants), Duelist's Mask, <a href="Headband.md">Headband</a> (Black, Orange, Red), <a href="Aspirant_Mask.md">Royal Guard</a> (Blue), <a href="Ten-Gallon_Bandana.md">Ten-Gallon Bandana</a></li>
+    <li><b>Generic Face</b>: <a href="Aspirant_Mask.md">Aspirant Mask</a>, <a href="Aristocrat_Eyeglasses.md">Aristocrat Eyeglasses</a>, <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>, <a href="Citadel_Frames.md">Browline Citadel Frames</a>, Duelist's Mask, <a href="Headband.md">Headband</a>, <a href="Citadel_Frames.md">Round Citadel Frames</a>, <a href="Ten-Gallon_Bandana.md">Ten-Gallon Bandana</a></li>
   </ol></li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Old_Blood_Earrings.md">Old Blood Earrings</a></li>
-    <li><a href="Equipment.md#rings"><b>Rings</b></a><b>: <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Diver's_Ring.md">Diver's Ring</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Heavy_Hands_Ring.md">Heavy Hands Ring</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Pariah's_Keepsake.md">Pariah's Keepsake</a>, <a href="Purifying_Ring.md">Purifying Ring</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>, <a href="Ring_of_Wisps.md">Ring of Wisps</a>, <a href="Windmill_Ring.md">Windmill Ring</a>. Essentially all Rare rarity Rings.</b></li>
+    <li><a href="Equipment.md#rings"><b>Rings</b></a> <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Diver's_Ring.md">Diver's Ring</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Heavy_Hands_Ring.md">Heavy Hands Ring</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Pariah's_Keepsake.md">Pariah's Keepsake</a>, <a href="Purifying_Ring.md">Purifying Ring</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>, <a href="Ring_of_Wisps.md">Ring of Wisps</a>, <a href="Windmill_Ring.md">Windmill Ring</a></li>
   </ul></td>
 </tr>
 </tbody>

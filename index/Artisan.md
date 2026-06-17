@@ -1,6 +1,6 @@
 ---
 title: Artisan
-revid: 213888
+revid: 215195
 source: https://deepwoken.fandom.com/wiki/Artisan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Guild Base]

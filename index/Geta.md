@@ -1,6 +1,6 @@
 ---
 title: Geta
-revid: 215152
+revid: 215264
 source: https://deepwoken.fandom.com/wiki/Geta
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Legs, Equipment with Set Bonuses, Equipment with Exclusive Talents, Equipment with Talents, Etrea]
@@ -34,7 +34,7 @@ This content is not accessible outside of this gamemode.
 
 Geta are an [Equipment](Equipment.md) item under the "Legs" category.
 
-They are a pair of traditional wooden shoes that are dropped by [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+They are a pair of traditional wooden shoes that are dropped by [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
 
 The [Dancing Steps Of War](Talents.md#dancing-steps-of-war) Talent grants a speed boost and reduces your dodge cooldown for 2 seconds upon landing a flourish.
 

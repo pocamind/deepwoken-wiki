@@ -1,6 +1,6 @@
 ---
 title: Celtor Wastes
-revid: 199858
+revid: 215278
 source: https://deepwoken.fandom.com/wiki/Celtor_Wastes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -72,7 +72,7 @@ Below is a list of potential items that can spawn in chests in Celtor Wastes.
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Alchemist's_Hat.md">Alchemist's Hat</a>, <a href="Assassin's_Hood.md">Assassin's Hood</a> (Series), <a href="Barrel_Helm.md">Barrel Helm</a>, <a href="Big_Alchemist's_Hat.md">Big Alchemist's Hat</a>, <a href="Big_Herbalist's_Hat.md">Big Herbalist's Hat</a>, Black hood, <a href="Blackleaf_Helm.md">Blackleaf Helm</a>, <a href="Blacksteel_Helm.md">Blacksteel Helm</a>, <a href="Strapped_Hat.md">Strapped Hat</a> (Both variants}, <a href="Brigand's_Bicorn.md">Brigand's Bicorn</a>, <a href="Captain's_Kabuto.md">Captain's Kabuto</a>, <a href="Dark_Cowl.md">Dark Cowl</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Feathertop_Helm.md">Feathertop Helm</a>, <a href="Gladiator_Helm.md">Gladiator Helm</a>, <a href="Goldleaf_Helm.md">Goldleaf Helm</a>, <a href="Guard's_Kabuto.md">Guard's Kabuto</a>, <a href="Guardian_Helmet.md">Guardian Helmet</a>, <a href="Herbalist's_Hat.md">Herbalist's Hat</a>, <a href="Legate_Helm.md">Legate Helm</a>, <a href="Royal_Guard's_Kabuto.md">Royal Guard's Kabuto</a>, <a href="Smith's_Bandana.md">Smith's Bandana</a>, <a href="Ten-Gallon_Hat.md">Ten-Gallon Hat</a>, <a href="Vagabond's_Bicorn.md">Vagabond's Bicorn</a>, <a href="Vigil_Hood.md">Vigil Hood</a></li>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Alchemist's_Hat.md">Alchemist's Hat</a>, <a href="Assassin's_Hood.md">Assassin's Hood</a> (Series), <a href="Barrel_Helm.md">Barrel Helm</a>, <a href="Big_Alchemist's_Hat.md">Big Alchemist's Hat</a>, <a href="Big_Herbalist's_Hat.md">Big Herbalist's Hat</a>, <a href="Blackleaf_Helm.md">Blackleaf Helm</a>, <a href="Blacksteel_Helm.md">Blacksteel Helm</a>, <a href="Strapped_Hat.md">Strapped Hat</a> (Both variants}, <a href="Brigand's_Bicorn.md">Brigand's Bicorn</a>, <a href="Captain's_Kabuto.md">Captain's Kabuto</a>, <a href="Dark_Cowl.md">Dark Cowl</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Feathertop_Helm.md">Feathertop Helm</a>, <a href="Gladiator_Helm.md">Gladiator Helm</a>, <a href="Goldleaf_Helm.md">Goldleaf Helm</a>, <a href="Guard's_Kabuto.md">Guard's Kabuto</a>, <a href="Guardian_Helmet.md">Guardian Helmet</a>, <a href="Herbalist's_Hat.md">Herbalist's Hat</a>, <a href="Legate_Helm.md">Legate Helm</a>, <a href="Plain_Hood.md">Plain Hood</a>, <a href="Royal_Guard's_Kabuto.md">Royal Guard's Kabuto</a>, <a href="Smith's_Bandana.md">Smith's Bandana</a>, <a href="Ten-Gallon_Hat.md">Ten-Gallon Hat</a>, <a href="Vagabond's_Bicorn.md">Vagabond's Bicorn</a>, <a href="Vigil_Hood.md">Vigil Hood</a></li>
   </ul>
   <ul>
     <li>Legendary Arms Equipment: <a href="Moonseye_Gauntlets.md"><font>Moonseye Gauntlets</font></a>, <a href="Providence_Coat.md"><font>Providence Coat</font></a>, <a href="Star_Duster.md"><font>Star Duster</font></a></li>

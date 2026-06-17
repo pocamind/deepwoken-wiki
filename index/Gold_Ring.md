@@ -1,6 +1,6 @@
 ---
 title: Gold Ring
-revid: 214376
+revid: 215346
 source: https://deepwoken.fandom.com/wiki/Gold_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -10,15 +10,14 @@ categories: [Equipment, Rings]
 
 | Gold Ring | |
 |---|---|
-| type | Ring |
+| type | Rings |
 | rarity | Uncommon |
 | selling price | 14 |
-| requirements | N/A |
-| weight | 0.1 |
+| requirements | None |
 | innate stats | +1 Uncommon Pip |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | No |
+| enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Lower Erisia, Polis, Lodestar, Ancient Rotlands (Deep Cave)Vow of Iron:, Spear Dancer Memento |
 | description | A simple gold ring. |

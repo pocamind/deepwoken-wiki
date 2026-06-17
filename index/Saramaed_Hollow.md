@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 205957
+revid: 215197
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Dungeons, Locations, Locations in the Eastern Luminant]
@@ -129,8 +129,8 @@ Exhaustive Loot Table
     <li><b>Legendary Legs</b>: <a href="Abyss_Wanderer's_Boots.md"><font>Abyss Wanderer's Boots</font></a></li>
     <li><b>Generic Legs</b>: <a href="Flameguard_Boots.md">Flameguard Boots</a>, <a href="Iron_Boots.md">Iron Boots</a>, <a href="Imperial_Boots.md">Imperial Boots</a>, <a href="Novice_Boots.md">Novice Boots</a>, <a href="Grand_Boots.md">Grand Boots</a></li>
   </ol></li>
-    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Curseblood_Pendant.md">Curseblood Pendant</a>, <a href="Nomad_Pendant.md">Nomad Pendant</a>, <a href="Red_Eye_Pendant.md">Red Eye Pendant</a>, <a href="Seafarer_Pendant.md">Seafarer Pendant</a>, <a href="Varicosa_Medallion.md">Varicosa Medallion</a>, <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, Scarf (All Variants)</li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Citadel_Frames.md">Citadel Frames</a> (All Variants), Duelist's Mask, <a href="Headband.md">Headband</a>, <a href="Rebel's_Bandana.md">Rebel's Bandana</a>, <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>, <a href="Aristocrat_Eyeglasses.md">Aristocrat Eyeglasses</a></li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Curseblood_Pendant.md">Curseblood Pendant</a>, <a href="Nomad_Pendant.md">Nomad Pendant</a>, <a href="Red_Eye_Pendant.md">Red Eye Pendant</a>, <a href="Seafarer_Pendant.md">Seafarer Pendant</a>, <a href="Varicosa_Medallion.md">Varicosa Medallion</a>, <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, <a href="Adventurer's_Scarf.md">Adventurer's Scarf</a></li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Citadel_Frames.md">Browline Citadel Frames</a>, Duelist's Mask, <a href="Headband.md">Headband</a>, <a href="Rebel's_Bandana.md">Rebel's Bandana</a>, <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>, <a href="Aristocrat_Eyeglasses.md">Aristocrat Eyeglasses</a>, <a href="Citadel_Frames.md">Round Citadel Frames</a></li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Crystal_Pendant_Earrings.md">Crystal Pendant Earrings</a>, <a href="Pendant_Earrings.md">Pendant Earrings</a></li>
     <li><a href="Equipment.md#rings"><b>Rings</b></a>:
   <ol>

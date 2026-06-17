@@ -1,9 +1,9 @@
 ---
 title: Headband
-revid: 209729
+revid: 215246
 source: https://deepwoken.fandom.com/wiki/Headband
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Face, Bandanas, Equipment with Styles]
+categories: [Equipment with Styles, Equipment, Face, Bandanas]
 ---
 
 # Headband
@@ -15,6 +15,7 @@ categories: [Equipment, Face, Bandanas, Equipment with Styles]
 | selling price | 25 |
 | requirements | None |
 | weight | 0.5 |
+| styles | Black, Blue, Green, Orange, Red, White, Yellow |
 | innate stats | +1 Common Pip |
 | innate talent | N/A |
 | bankable | Yes |
@@ -30,4 +31,4 @@ The Headband is an [equipment](Equipment.md) item under the "Face" category.
 
 ## Trivia
 
--   The stats, sell price, and description of the headband used to vary based on variant, giving the Headband the highest stat variety of all items in the game. This was changed to be fully standardized in the April 19th, 2026 update, when they added the Equipment Styles feature.
+-   The stats, sell price, and description of the headband used to vary based on variant, giving the Headband the highest stat variety of all items in the game. This was changed to be fully standardized in the [April 18th, 2026](Version_History/2026.md#april-18th-2026) update when they added the Equipment Styles feature.

@@ -1,6 +1,6 @@
 ---
 title: Nimea
-revid: 193186
+revid: 215358
 source: https://deepwoken.fandom.com/wiki/Nimea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -25,7 +25,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Nimea is an [Etrean](Etrean.md) NPC who provides insight into the [Lightkeepers](Lightkeepers.md), offering background on the situation in the Hidden Village, the condition of its civilians, and possible explanations for their fate. She also discusses her personal connection with Viqh, the Lightkeeper of the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md).
+Nimea is an [Etrean](Etrean.md) NPC.
+
+She provides insight into the [Lightkeepers](Lightkeepers.md), offering background on the situation in the Hidden Village, the condition of its civilians, and possible explanations for their fate. She also discusses her personal connection with Viqh, the Lightkeeper of the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md).
 
 Nimea is a File Etrean wearing the [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) [Outfit](Outfits.md) and [Leather Boots](Leather_Boots.md). Based on her visible wrinkles, she appears to be in Stage 2 of [Aging](Age.md), likely placing her between 50 and 59 years old.
 
@@ -48,48 +50,53 @@ Nimea is located inside a house at [The Hidden Village](The_Hidden_Village.md).
   <td colspan="4">Heavy is the burden of the <a href="Glossary.md#lightkeep">Lightkeeper</a> for the world rests on their shoulders.</td>
 </tr>
 <tr>
-  <td colspan="2">Huh.</td>
   <td colspan="2">What is this place?</td>
+  <td colspan="2">That's a curious saying.</td>
 </tr>
 <tr>
-  <td colspan="2"><i>*She smiles.*</i> It's an old saying.</td>
   <td colspan="2">That's what I'm trying to figure out. It contradicts the other architecture of this <a href="Glossary.md#driftlands">Driftland</a> - as if this village was constructed by a completely different culture.</td>
+  <td colspan="2"><i>*She smiles.*</i> It's an old one.</td>
 </tr>
 <tr>
-  <td colspan="2">What's a Lightkeeper?</td>
   <td colspan="2">Why do you think that is?</td>
+  <td colspan="2">What exactly is a Lightkeeper?</td>
 </tr>
 <tr>
-  <td colspan="2">A <a href="Glossary.md#lightkeep">Lightkeeper</a> is someone who radiates 'Light' from their soul. They're responsible for maintaining the system of travel between <a href="Glossary.md#the-luminants">Luminants</a> - the Interstitial <a href="Glossary.md#lighthouse">Lighthouses</a>.</td>
   <td colspan="2">The way the people of this village lived seems to suggest that they were salvagers. Presumably, they came here the last time this <a href="Glossary.md#driftlands">Driftland</a> appeared and made a living salvaging what they could from the ruins, much like how <a href="Glossary.md#pathfinders">Pathfinders</a> today search for objects of interest here.</td>
+  <td colspan="2">A <a href="Glossary.md#lightkeep">Lightkeeper</a> is someone who radiates 'Light' from their soul. They're responsible for maintaining the system of travel between <a href="Glossary.md#the-luminants">Luminants</a> - the Interstitial <a href="Glossary.md#lighthouse">Lighthouses</a>.</td>
 </tr>
 <tr>
-  <td colspan="2">What's Light in this context?</td>
   <td colspan="2">What happened to them?</td>
+  <td colspan="2">I assume you don't mean the light you get from a lamp?</td>
 </tr>
 <tr>
-  <td colspan="2">Light is to Void as paint is to a canvas - it draws out substance. It can illuminate things that have long since faded. Although, these effects are quite temporary. <a href="Glossary.md#lightkeep">Lightkeepers</a> must constantly draw upon their own soul to project this Light, and it takes quite the toll.</td>
   <td colspan="2">There are no signs of a struggle. It's as if they vanished overnight when this place drifted. One day, they were in the Light. The next... Not.</td>
+  <td colspan="2">The Light of a <a href="Glossary.md#lightkeep">Lightkeeper</a> is to Void as paint is to a canvas - it draws out substance. Or, I suppose you could say it's like peeling back the paint of a whitewashed wall to expose the wallpaper, but that's not quite as poetic. It can illuminate things that have long since faded. Although, these effects are quite temporary. <a href="Glossary.md#lightkeep">Lightkeepers</a> must constantly draw upon their own soul to project this Light, and it takes quite the toll.</td>
 </tr>
 <tr>
-  <td colspan="2">You seem pretty knowledgeable on these things.</td>
   <td colspan="2">[End Dialogue]</td>
+  <td colspan="2">You seem pretty knowledgeable on these things.</td>
 </tr>
 <tr>
+  <td colspan="2"></td>
   <td colspan="2"><i>*A wistful expression plays upon her face.*</i> A childhood friend of mine was born with the Gift. The first in the <a href="Glossary.md#the-luminants">Luminant</a> in decades, so they said. <i>*She sighs.*</i> I had only ever wished that we could have both lived a normal life together; that they had never found her Gift.</td>
 </tr>
 <tr>
-  <td>Duty Calls, I suppose.</td>
+  <td colspan="2"></td>
+  <td>Duty calls, I suppose.</td>
   <td>I'm sorry.</td>
 </tr>
 <tr>
+  <td colspan="2"></td>
   <td>Naturally. What use is a normal life to a world fading away? What would an idle experience grant to its memory? <i>*She stares at the table, lost in her thoughts with a pained expression.*</i></td>
   <td>There's no need. She still lives, I'm sure of it. They wouldn't let her Light drown.</td>
 </tr>
 <tr>
+  <td colspan="2"></td>
   <td colspan="2">What is this place?</td>
 </tr>
 <tr>
+  <td colspan="2"></td>
   <td colspan="2">[See first instance]</td>
 </tr>
 </tbody>

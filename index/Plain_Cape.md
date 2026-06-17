@@ -1,6 +1,6 @@
 ---
 title: Plain Cape
-revid: 214971
+revid: 215309
 source: https://deepwoken.fandom.com/wiki/Plain_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso, Capes]
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Equipment, Torso, Capes]
 | type | Torso |
 | rarity | Uncommon |
 | selling price | 14 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 0.5 |
 | styles | Authority, Black, Blue, Golden, Green, Grey, Red, White |
 | innate stats | +3% Physical Armor , +1 Legendary Pip |
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Torso, Capes]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Minityrsa, Songseeker Wilds, Duke Erisia, Maestro Evengarde Rest, Saramaed Summit |
+| obtainment | Chests from:, Minityrsa, Songseeker Wilds, Duke Ishamon Erisia, Maestro Evengarde Rest, Saramaed Summit |
 | description | ... |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Hat
-revid: 215051
+revid: 215292
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Hats, Head, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -33,7 +33,9 @@ Variants: [Robes](Ascended_Outlaw_Robes.md) · [Boots](Ascended_Outlaw_Boots.md)
 
 ## Description
 
-The Ascended Outlaw Hat is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Head" category, and is a part of the Ascended Outlaw Set. The Ascended Outlaw Hat is a Kasa hat that originated in the Western Luminant.
+The Ascended Outlaw Hat is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Head" category, and is a part of the Ascended Outlaw Set.
+
+The Ascended Outlaw Hat is a Kasa hat that originated in the Western Luminant.
 
 The [Mass Effect](Talents.md#mass-effect) Talent increases the strength of your [Might Gems](Might_Gem.md) for every Might Gem you have equipped on your Mantras.
 

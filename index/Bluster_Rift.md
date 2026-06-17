@@ -1,6 +1,6 @@
 ---
 title: Bluster Rift
-revid: 205964
+revid: 215259
 source: https://deepwoken.fandom.com/wiki/Bluster_Rift
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Locations, Locations in the Eastern Luminant]
@@ -70,7 +70,7 @@ Events that spawn in Bluster Rift that do not involve combat. For more info, see
     <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Assassin's_Hood.md">Assassin's Hood</a>, <a href="Authority_Helm.md">Authority Helm</a>, <a href="Big_Alchemist's_Hat.md">Big Alchemist's Hat</a>, <a href="Big_Herbalist's_Hat.md">Big Herbalist's Hat</a>, <a href="Blackleaf_Helm.md">Blackleaf Helm</a>, <a href="Gladiator_Helm.md">Gladiator Helm</a>, <a href="Legion_Helmet.md">Legion Helmet</a>, <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a>, <a href="Vigil_Hood.md">Vigil Hood</a></li>
     <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Assassin's_Cloak.md">Assassin's Cloak</a>, <a href="Fur_Parka.md">Fur Parka</a>, <a href="Fur_Pauldrons.md">Fur Pauldrons</a>, <a href="Star_Duster.md">Star Duster</a>, <a href="Royal_Pathfinder.md">Royal Pathfinder</a>, <a href="Legion_Pauldrons.md">Legion Pauldrons</a>, <a href="Silver_Pauldrons.md">Silver Pauldrons</a>, <a href="Woodland_Pauldrons.md">Woodland Pauldrons</a></li>
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Flameguard_Boots.md">Flameguard Boots</a>, <a href="Imperial_Boots.md">Imperial Boots</a>, <a href="Legion_Boots.md">Khan Boots</a>, <a href="Silver_Sabatons.md">Silver Sabatons</a>, <a href="Tracker's_Boots.md">Tracker's Boots</a>, <a href="Vanguard_Boots.md">Vanguard Boots</a>, <a href="Woodland_Boots.md">Woodland Boots</a></li>
-    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: Scarf (all variants)</li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Adventurer's_Scarf.md">Adventurer's Scarf</a></li>
     <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Headband.md">Headband</a>, <a href="Warrior's_Eyepatch.md">Warrior's Eyepatch</a></li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Crystal_Pendant_Earrings.md">Crystal Pendant Earrings</a>, <a href="Practicioner's_Earrings.md">Practicioner's Earrings</a>, <a href="Ruby_Drop_Earrings.md">Ruby Drop Earrings</a></li>
     <li><a href="Equipment.md#rings"><b>Rings</b></a>:</li>

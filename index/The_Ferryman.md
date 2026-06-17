@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 213089
+revid: 215263
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Voiced Characters]
@@ -207,16 +207,13 @@ Exhaustive Loot Table
 <tbody>
 <tr>
   <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
-  <td>
-  <ul>
-    <li><b>Unique</b>: <a href="Ferryman's_Coat.md"><font>Ferryman's Coat</font></a></li>
-  </ul></td>
+  <td><p><a href="Ferryman's_Coat.md"><font>Ferryman's Coat</font></a></p></td>
 </tr>
 <tr>
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li><a href="Items.md">Items</a>: <a href="Ferryman's_Coat_Cloth.md"><font>Ferryman's Coat Cloth</font></a>, <a href="Books.md#the-ferrymans-lullaby">The Ferryman's Lullaby</a> (Book), All <a href="Deep_Gems.md">Deep Gems</a>, <a href="Umbral_Obsidian.md">Umbral Obsidian</a>, <a href="Treasures.md">Diamond</a> (Extremely Rare)</li>
+    <li><a href="Items.md">Items</a>: <a href="Ferryman's_Coat_Cloth.md"><font>Ferryman's Coat Cloth</font></a>, <a href="The_Ferryman's_Lullaby.md">The Ferryman's Lullaby</a> (Book), All <a href="Deep_Gems.md">Deep Gems</a>, <a href="Umbral_Obsidian.md">Umbral Obsidian</a></li>
     <li><a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a></li>
   </ul></td>
 </tr>
@@ -224,53 +221,52 @@ Exhaustive Loot Table
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a>.</li>
-    <li><b>Legendary Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Stormseye.md"><font>Stormseye</font></a>.</li>
+    <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a></li>
+    <li><b>Legendary Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Stormseye.md"><font>Stormseye</font></a></li>
     <li><b>Alloyed Weapons</b>: N/A</li>
     <li><b>Generic Weapons</b>:
   <ol>
-    <li><b>Light Weapons</b>: <a href="Krulian_Knife.md">Krulian Knife</a>, <a href="Nemit's_Sickle.md">Nemit's Sickle</a>.</li>
-    <li><b>Medium Weapons</b>: <a href="Crescendo.md">Crescendo</a>.</li>
+    <li><b>Light Weapons</b>: <a href="Krulian_Knife.md">Krulian Knife</a>, <a href="Nemit's_Sickle.md">Nemit's Sickle</a></li>
+    <li><b>Medium Weapons</b>: <a href="Crescendo.md">Crescendo</a></li>
     <li><b>Heavy Weapons</b>: N/A</li>
   </ol></li>
     <li><b>Offhand Weapons</b>: N/A</li>
-    <li><b>Seasonal Exclusive Weapons</b>: <a href="Iron_Birch.md">Iron Birch</a> (Winter), <a href="Shattered_Katana.md">Shattered Katana</a> (Winter).</li>
+    <li><b>Seasonal Exclusive Weapons</b>: <a href="Iron_Birch.md">Iron Birch</a> (Winter), <a href="Shattered_Katana.md">Shattered Katana</a> (Winter)</li>
   </ul></td>
 </tr>
 <tr>
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a><b>:</b>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>:
   <ol>
     <li><b>All Seasons</b>: N/A</li>
-    <li><b>Seasonal Exclusive</b>: <a href="Assassin's_Hood.md">Assassin's Hood</a> (Winter).</li>
+    <li><b>Seasonal Exclusive</b>: <a href="Assassin's_Hood.md">Assassin's Hood</a> (Winter)</li>
   </ol></li>
-    <li><a href="Equipment.md#arms"><b>Arm Equipment</b></a><b>:</b>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:
   <ol>
     <li><b>All Seasons</b>: N/A</li>
-    <li><b>Seasonal Exclusive</b>: <a href="Adjudicator's_Coat.md">Adjudicator's Coat</a> (Winter), <a href="Authority_Commander_Coat.md">Authority Commander Coat</a> (Winter), <a href="Assassin's_Cloak.md">Assassin's Cloak</a>, <a href="Justicar_Defender_Coat.md">Justicar Defender Coat</a> (Summer &amp; Winter).</li>
+    <li><b>Seasonal Exclusive</b>: <a href="Adjudicator's_Coat.md">Adjudicator's Coat</a> (Winter), <a href="Authority_Commander_Coat.md">Authority Commander Coat</a> (Winter), <a href="Assassin's_Cloak.md">Assassin's Cloak</a>, <a href="Justicar_Defender_Coat.md">Justicar Defender Coat</a> (Summer &amp; Winter)</li>
   </ol></li>
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: N/A</li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:
   <ol>
     <li><b>All Seasons</b>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>.</li>
-    <li><b>Seasonal Exclusive</b>: Scarf (Black) (Winter).</li>
+    <li><b>Seasonal Exclusive</b>: <a href="Adventurer's_Scarf.md">Adventurer's Scarf</a> (Winter)</li>
   </ol></li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a><b>:</b>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>:
   <ol>
     <li><b>All Seasons</b>: N/A</li>
-    <li><b>Seasonal Exclusive</b>: <a href="Brow_Stud.md">Brow Stud</a> (Winter), <a href="Dermal_Stud.md">Dermal Stud</a> (Winter), <a href="Headband.md">Headband</a> (Winter), <a href="Moon_Brow_Rings.md">Moon Brow Rings</a> (Winter), <a href="Moon_Lip_Ring.md">Moon Lip Ring</a> (Winter), <a href="Moon_Septum_Ring.md">Moon Septum Ring</a> (Winter), <a href="Nose_Stud.md">Nose Stud</a> (Winter), <a href="Snakebite_Studs.md">Snakebite Studs</a> (Winter), <a href="Warrior's_Eyepatch.md">Warrior's Eyepatch</a> (Winter).</li>
+    <li><b>Seasonal Exclusive</b>: <a href="Brow_Stud.md">Brow Stud</a> (Winter), <a href="Dermal_Stud.md">Dermal Stud</a> (Winter), <a href="Headband.md">Headband</a> (Winter), <a href="Moon_Brow_Rings.md">Moon Brow Rings</a> (Winter), <a href="Moon_Lip_Ring.md">Moon Lip Ring</a> (Winter), <a href="Moon_Septum_Ring.md">Moon Septum Ring</a> (Winter), <a href="Nose_Stud.md">Nose Stud</a> (Winter), <a href="Snakebite_Studs.md">Snakebite Studs</a> (Winter), <a href="Warrior's_Eyepatch.md">Warrior's Eyepatch</a> (Winter)</li>
   </ol></li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:
   <ol>
     <li><b>All Seasons</b>: <a href="Crescent_Earrings.md">Moonlit Earrings</a>.</li>
-    <li><b>Seasonal Exclusive</b>: <a href="Amethyst_Pendant_Earrings.md">Amethyst Pendant Earrings</a> (Summer &amp; Autumn).</li>
+    <li><b>Seasonal Exclusive</b>: <a href="Amethyst_Pendant_Earrings.md">Amethyst Pendant Earrings</a> (Summer &amp; Autumn)</li>
   </ol></li>
     <li><a href="Equipment.md#rings"><b>Rings</b></a>:
   <ol>
-    <li><b>All Seasons</b>: <a href="Akira's_Ring.md"><font>Akira's Ring</font></a>, <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a> <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Ferryman's_Ring.md"><font>Ferryman's Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a>. Almost all Legendary Rings.<br>
-  </li>
+    <li><b>All Seasons</b>: <a href="Akira's_Ring.md"><font>Akira's Ring</font></a>, <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a> <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Ferryman's_Ring.md"><font>Ferryman's Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Waning_Ring.md"><font>Waning Ring</font></a></li>
   </ol></li>
   </ul></td>
 </tr>

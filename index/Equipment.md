@@ -1,11 +1,12 @@
 ---
 title: Equipment
-revid: 213949
+revid: 215255
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Stub pages with reason, StubPages, Equipment, In progress with VOI reason]
+categories: [Pages with broken file links, Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. There is little information about Vow of Iron-exclusive equipments. Please help us improve the page through editing, or wait for an updated version of the page to release."
+  - "This page is currently being worked on. This page is currently in-progress, as a lot of the equipment texture changes and new styles have yet to be docummented by the wiki. Please be patient as this page undergoes changes."
 ---
 
 # Equipment
@@ -303,10 +304,6 @@ Head: [Blacksteel Helm](Blacksteel_Helm.md)
 Arms: [Blacksteel Pauldrons](Blacksteel_Pauldrons.md)
 
  |
-| File:Black Hood.png | Black Hood  
-(**Series**) | _+1 Posture_  
-_+4% Stealth_ | Variants:  
-[Black](#black-hood) & [Brown](#brown-hood) |
 |  | [Bloodfeather Cowl](Bloodfeather_Cowl.md)  
 (**Set**) | _+5% Shadow Armor_  
 _+6% Stealth_
@@ -347,18 +344,6 @@ _+1 Posture_
 
 _+Talent: [**Broodlord's Scream**](Talents.md#broodlords-scream)_  
 **Requires Power 10**
-
- | N/A |
-| File:Brown Hood.png | Brown Hood  
-(**Series**) | _+1 Posture_  
-_+4% Stealth_ | Variants:  
-[Black](#black-hood) & [Brown](#brown-hood) |
-| File:Bulwark Helm.png | [Bulwark Helm](Grand_Authority_Sallet.md) | _+3 Health_
-
-+1 Rare Pip  
-+1 Legendary Pip  
-_+Talent: [**Strong Hold**](Talents.md#strong-hold)_  
-**Requires Power 8**
 
  | N/A |
 | File:Captainskabuto.png | [Captain's Kabuto](<Captain's_Kabuto.md>)  
@@ -524,6 +509,25 @@ Arms: [Gladiator Pauldrons](Gladiator_Pauldrons.md) |
 
  | Variants:  
 [Blackleaf](#blackleaf-helm) & [Goldleaf](#goldleaf-helm) |
+| File:Bulwark Helm.png | [Grand Authority Sallet](Grand_Authority_Sallet.md)  
+(**Styles**)  
+(**Set**) | _+3 Health_
+
++1 Rare Pip  
++1 Legendary Pip  
+_+Talent: [**Strong Hold**](Talents.md#strong-hold)_  
+**Requires Power 8**
+
+ | Styles:  
+Bulwark & Juggernaught
+
+  
+Set: Grand Authority  
+Head: [Grand Authority Sallet](Grand_Authority_Sallet.md)  
+Arms: [Grand Authority Plate](Grand_Authority_Plate.md)  
+Legs: [Grand Authority Sabatons](Grand_Authority_Sabatons.md)
+
+ |
 |  | [Grand Fisher Helm](Grand_Fisher_Helm.md)  
 (**Set**)  
 (**Mythical**) | _+5 Health_  
@@ -585,12 +589,12 @@ _+Talent: [**Iron Gut**](Talents.md#iron-gut)_
  | Variants:  
 [Handler's](#handlers-hood) & [High Inquisitor's](#high-inquisitors-hood) |
 | File:Black Inquisitor's Hood.png | [Inquisitor's Hood](<Inquisitor's_Hood.md>)  
-(**Series**) | +1 Legendary Pip
+(**Styles**) | +1 Legendary Pip
 
 **Requires Power 5**
 
- | Variants:  
-Black, Crimson, & Pals |
+ | Styles:  
+TBA |
 | File:ImmortalHelm.png | [Immortal Helm](Immortal_Helm.md)  
 (**Legendary**) | +1 Rare Pip  
 +1 Legendary Pip
@@ -718,6 +722,14 @@ Head: [Ossified Black Helm](Ossified_Black_Helm.md)
 Arms: [Ossified Black Pauldrons](Ossified_Black_Pauldrons.md)
 
  |
+| File:Parasol Planter.png | [Parasol Planter](Parasol_Planter.md)  
+(**Unique**) | _+2 Health_
+
++3 Rare Pip  
+_+Talent: [**Grotesque Resilience**](Talents.md#grotesque-resilience)_  
+**Requires Power 10**
+
+ | N/A |
 |  | [Party Hat](Party_Hat.md)  
 (**Limited Time Event**) | N/A | N/A |
 |  | [Phalanx Helmet](Phalanx_Helmet.md)  
@@ -732,14 +744,10 @@ _+Talent: [**Precise Swing**](Talents.md#precise-swing)_
 Head: [Phalanx Helmet](Phalanx_Helmet.md)  
 Arms: [Legion Phalanx Plate](Legion_Phalanx_Plate.md)  
 Legs: [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md) |
-| File:Parasol Planter.png | [Parasol Planter](Parasol_Planter.md)  
-(**Unique**) | _+2 Health_
-
-+3 Rare Pip  
-_+Talent: [**Grotesque Resilience**](Talents.md#grotesque-resilience)_  
-**Requires Power 10**
-
- | N/A |
+| File:Black Hood.png | [Plain Hood](Plain_Hood.md)  
+(**Styles**) | _+1 Posture_  
+_+4% Stealth_ | Styles:  
+TBA |
 |  | [Pumpkin Head](Pumpkin_Head.md)  
 (**Hallowtide**)  
 (**Legendary**) | N/A | N/A |
@@ -839,6 +847,16 @@ Arms: [Specialist Plate](Specialist_Plate.md)
 Legs: [Specialist Boots](Specialist_Boots.md)
 
  |
+|  | [Strapped Hat](Strapped_Hat.md)  
+(**Styles**) | _+3 Health_
+
++2 Rare Pips  
+_+Talent: **[Exterminator](Cut_Content.md#exterminator)**_  
+_+Talent: [**Eureka**](Talents.md#eureka)_  
+**Requires Power 6**
+
+ | Styles:  
+Default, Grey Fabric, Double Fabric & Double Leather |
 |  | [Ten-Gallon Hat](Ten-Gallon_Hat.md)  
 (**Set**) | _+2 Posture_
 
@@ -890,16 +908,6 @@ Arms: [Aristocrat Coat](Aristocrat_Coat.md)
 Face: [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
 
  |
-| File:Black Strapped Hat.png | [Strapped Hat](Strapped_Hat.md)  
-(**Series**) | _+3 Health_
-
-+2 Rare Pips  
-_+Talent: **[Exterminator](Cut_Content.md#exterminator)**_  
-_+Talent: [**Eureka**](Talents.md#eureka)_  
-**Requires Power 6**
-
- | Variants:  
-Black & Double |
 |  | [Vagabond's Bicorn](<Vagabond's_Bicorn.md>) | _+4 Health_
 
 +1 Uncommon Pip
@@ -1036,7 +1044,7 @@ Ash, Pink, Rural, Sable & Tawny |
  | Styles:  
 Black, Brown, Green, White |
 | File:Slate Aristocrat Coat.png | [Aristocrat Coat](Aristocrat_Coat.md)  
-(**Series**)  
+(**Styles**)  
 (**Set**) | _+6 Health_
 
 +2 Rare Pips  
@@ -1044,7 +1052,7 @@ Black, Brown, Green, White |
 _+Talent: [**Art of the Deal**](Talents.md#art-of-the-deal)_  
 **Requires Power 10**
 
- | Variants:  
+ | Styles:  
 Beige, Burgundy & Slate
 
   
@@ -1112,15 +1120,15 @@ Amber, Haze, Bronze, Gold, Royal, Ruby, Stygian & Verdant |
  | Set: Autumn  
 Arms: [Autumn Pauldrons](Autumn_Pauldrons.md)  
 Legs: [Autumn Boots](Autumn_Boots.md) |
-| File:Azure Royal Guard.png | [Azure Royal Guard](Azure_Sentinel_Pauldrons.md)  
+| File:Azure Royal Guard.png | [Azure Sentinel Pauldrons](Azure_Sentinel_Pauldrons.md)  
 (**Set**) | +2 Rare Pips  
 +1 Legendary Pip  
 
 **Requires Power 8**
 
- | Set: Azure Royal Guard  
-Arms: [Azure Royal Guard](Azure_Sentinel_Pauldrons.md)  
-Legs: [Azure Royal Guard Boots](Azure_Sentinel_Boots.md) |
+ | Set: Azure Sentinel  
+Arms: [Azure Sentinel Pauldrons](Azure_Sentinel_Pauldrons.md)  
+Legs: [Azure Sentinel Boots](Azure_Sentinel_Boots.md) |
 |  | [Bastions of Enmity](Bastions_of_Enmity.md)  
 (**Set**)  
 (**Unique**) | _+10 Health_  
@@ -1135,9 +1143,24 @@ Arms: [Bastions of Enmity](Bastions_of_Enmity.md)
 Legs: [Wartreads of Enmity](Wartreads_of_Enmity.md)  
 Face: [Thrall of Enmity](Thrall_of_Enmity.md)  
 Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md) |
-| 
+|  | [Blademaster's Robe](<Blademaster's_Robe.md>)  
+(**Styles**)  
+(**Set**)  
+(**Legebdary**) | +3 Rare Pips
 
- | [Bluesteel Pauldrons](Bluesteel_Pauldrons.md)  
+_+Talent: [**Swift Blade**](Talents.md#swift-blade)_  
+_+Set Talent: [**Momentum**](Talents.md#momentum)_
+
+ | Styles:  
+TBA
+
+  
+Set: Blademaster  
+Arms: [Blademaster's Robe](<Blademaster's_Robe.md>)  
+Legs: [Geta](Geta.md)
+
+ |
+|  | [Bluesteel Pauldrons](Bluesteel_Pauldrons.md)  
 (**Set**) | _+5 Health_
 
 +2 Rare Pips  
@@ -1152,9 +1175,7 @@ Arms: [Bluesteel Pauldrons](Bluesteel_Pauldrons.md)
 Legs: [Bluesteel Boots](Bluesteel_Boots.md)
 
  |
-| 
-
- | [Bluestone Pauldrons](Bluestone_Pauldrons.md)  
+|  | [Bluestone Pauldrons](Bluestone_Pauldrons.md)  
 (**Set**) | _+5 Health_
 
 +2 Rare Pips  
@@ -1398,11 +1419,8 @@ _+Talent: [**Lightweight**](Talents.md#lightweight)_
 **Requires Power 8**
 
  | N/A |
-| 
-
-File:Gauthority.png
-
- | [Grand Authority Plate](Grand_Authority_Plate.md)  
+| File:Gauthority.png | [Grand Authority Plate](Grand_Authority_Plate.md)  
+(**Styles**)  
 (**Set**) | _+8 Health_
 
 +1 Uncommon Pip  
@@ -1411,9 +1429,16 @@ File:Gauthority.png
 _+Talent: [**Heavy Haul**](Talents.md#heavy-haul)_  
 **Requires Power 10**
 
- | Set: Grand Authority  
+ | Styles:  
+Bulwark & Juggernaught
+
+  
+Set: Grand Authority  
+Head: [Grand Authority Sallet](Grand_Authority_Sallet.md)  
 Arms: [Grand Authority Plate](Grand_Authority_Plate.md)  
-Legs: [Grand Authority Sabatons](Grand_Authority_Sabatons.md) |
+Legs: [Grand Authority Sabatons](Grand_Authority_Sabatons.md)
+
+ |
 |  | [Grand Fisher Plate](Grand_Fisher_Plate.md)  
 (**Set**)  
 (**Mythical**) | _+10 Health_  
@@ -1615,11 +1640,7 @@ _+Talent: [**Eureka**](Talents.md#eureka)_
 **Requires Power 8**
 
  | N/A |
-| 
-
-File:Monastery Champion Robes NEW.png
-
- | [Monastery Champion Robes](Monastery_Champion_Robes.md)  
+| File:Monastery Champion Robes NEW.png | [Monastery Champion Robes](Monastery_Champion_Robes.md)  
 (**Set**)  
 (**Legendary**) | _+8 Health_  
 _+1 Posture_
@@ -1652,9 +1673,7 @@ _+1 Posture_
  | Set: Novice  
 Arms: [Novice Brace](Novice_Brace.md)  
 Legs: [Novice Boots](Novice_Boots.md) |
-| 
-
- | [Ossified Black Pauldrons](Ossified_Black_Pauldrons.md)  
+|  | [Ossified Black Pauldrons](Ossified_Black_Pauldrons.md)  
 (**Set**) | _+3 Health_  
 _+1 Posture_
 
@@ -2072,10 +2091,10 @@ Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
  | Set: Autumn  
 Arms: [Autumn Pauldrons](Autumn_Pauldrons.md)  
 Legs: [Autumn Boots](Autumn_Boots.md) |
-| File:Static-assets-upload10948241571813513916.png | [Azure Royal Guard Boots](Azure_Sentinel_Boots.md)  
-(**Set**) | +2 Rare Pips | Set: Azure Royal Guard  
-Arms: [Azure Royal Guard](Azure_Sentinel_Pauldrons.md)  
-Legs: [Azure Royal Guard Boots](Azure_Sentinel_Boots.md) |
+| File:Static-assets-upload10948241571813513916.png | [Azure Sentinel Boots](Azure_Sentinel_Boots.md)  
+(**Set**) | +2 Rare Pips | Set: Azure Sentinel  
+Arms: [Azure Sentinel Pauldrons](Azure_Sentinel_Pauldrons.md)  
+Legs: [Azure Sentinel Boots](Azure_Sentinel_Boots.md) |
 |  | [Bluesteel Boots](Bluesteel_Boots.md)  
 (**Set**) | _+3 Health_
 
@@ -2121,9 +2140,7 @@ _+Talent: [**Cosmic Connection**](Talents.md#cosmic-connection)_
 
  | Variants:  
 [Star](#star-boots) & [Celestial](#celestial-boots) |
-| 
-
- | [Celtorian Sabatons](Celtorian_Sabatons.md)  
+|  | [Celtorian Sabatons](Celtorian_Sabatons.md)  
 (**Set**) | _+4 Health_
 
 +2 Rare Pips  
@@ -2204,15 +2221,41 @@ Arms: [Fur Pauldrons](Fur_Pauldrons.md)
 Legs: [Fur Boots](Fur_Boots.md)
 
  |
+|  | [Geta](Geta.md)  
+(**Styles**)  
+(**Set**)  
+(**Legendary**) | +1 Rare Pip
+
+_+Talent: [**Dancing Steps Of War**](Talents.md#dancing-steps-of-war)_  
+_+Set Talent: [**Momentum**](Talents.md#momentum)_  
+**Requires Power 12**
+
+ | Styles:  
+Dark & Light
+
+  
+Set: Blademaster  
+Arms: [Blademaster's Robe](<Blademaster's_Robe.md>)  
+Legs: [Geta](Geta.md)
+
+ |
 | File:Grand Authority Sabatons.png | [Grand Authority Sabatons](Grand_Authority_Sabatons.md)  
+(**Styles**)  
 (**Set**) | _+4 Health_
 
 +2 Rare Pips  
 **Requires Power 5**
 
- | Set: Grand Authority  
+ | Styles:  
+Bulwark & Juggernaught
+
+  
+Set: Grand Authority  
+Head: [Grand Authority Sallet](Grand_Authority_Sallet.md)  
 Arms: [Grand Authority Plate](Grand_Authority_Plate.md)  
-Legs: [Grand Authority Sabatons](Grand_Authority_Sabatons.md) |
+Legs: [Grand Authority Sabatons](Grand_Authority_Sabatons.md)
+
+ |
 | File:Grand Boots.png | [Grand Boots](Grand_Boots.md)  
 (**Set**) | _+1 Posture_
 
@@ -2508,6 +2551,16 @@ Variants/Set
 
  |
 | --- | --- | --- | --- |
+| File:Dawn Scarf.png | [Adventurer's Scarf](<Adventurer's_Scarf.md>)  
+(**Series**)  
+(**Animated**) | _+3% Elemental Armor_
+
++1 Rare Pip  
++1 Legendary Pip  
+**Requires Power 5**
+
+ | Styles:  
+Default, Black, Crimson, Dawn, Desert, Dusk, Forest, Tundra & White |
 | File:Amedan Pendant.png | [Amedan Pendant](Amedan_Pendant.md) | _+3% Elemental Armor_
 
 +1 Rare Pip  
@@ -2515,14 +2568,6 @@ Variants/Set
 **Requires Power 5**
 
  | N/A |
-| File:Black Cape.png | Black Cape  
-(**Series**) | _+3% Physical Armor_
-
-+1 Legendary Pip  
-**Requires Power 5**
-
- | Variants:  
-[Black](#black-cape) & [Golden](#golden-cape) |
 | File:Brilliant Cape.png | [Brilliant Cape](Brilliant_Cape.md)  
 (**Set**) | _+3% Elemental Armor_
 
@@ -2566,6 +2611,15 @@ _+2% Stealth_
 Head: [Dark Owl Chapeau](Dark_Owl_Chapeau.md)  
 Arms: [Dark Owl Cloak](Dark_Owl_Cloak.md)  
 Torso: [Dark Owl Cape](Dark_Owl_Cape.md) |
+| File:Etrean Sashimono Anaconda | [Etrean Sashimono](Etrean_Sashimono.md)  
+(**Styles**)  
+(**Legendary**) | +1 Rare Pip  
++1 Legendary Pip
+
+_+Talent: [**Traditional Execution**](Talents.md#traditional-execution)_
+
+ | Styles:  
+TBA |
 |  | [Fauld of Enmity](Fauld_of_Enmity.md)  
 (**Set**)  
 (**Unique**) | +1 Rare Pip  
@@ -2605,14 +2659,6 @@ Set: Gale Monastery
 Head: [Gale Enhanced Cowl](Gale_Enhanced_Cowl.md)
 
  |
-| File:Golden Cape.png | Golden Cape  
-(**Series**) | _+3% Physical Armor_
-
-+1 Legendary Pip  
-**Requires Power 5**
-
- | Variants:  
-[Black](#black-cape) & [Golden](#golden-cape) |
 |  | [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>) | _+50 Carry Load_
 
 +2 Rare Pips  
@@ -2671,11 +2717,7 @@ Arms: [Bastions of Enmity](Bastions_of_Enmity.md)
 Legs: [Wartreads of Enmity](Wartreads_of_Enmity.md)  
 Face: [Thrall of Enmity](Thrall_of_Enmity.md)  
 Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md) |
-| 
-
-File:Monastery Champion Beads NEW.png
-
- | [Monastery Beads](Monastery_Beads.md)  
+| File:Monastery Champion Beads NEW.png | [Monastery Beads](Monastery_Beads.md)  
 (**Set**)  
 (**Legendary**) | _+3% Elemental Armor_
 
@@ -2704,12 +2746,14 @@ Torso: [Monastery Beads](Monastery_Beads.md)
 **Requires Power 5**
 
  | N/A |
-| File:Pathfinder lantern front.png | [Pathfinder Lantern](Pathfinder_Lantern.md) | _+10 Sanity_
+| File:Pathfinder lantern front.png | [Pathfinder Lantern](Pathfinder_Lantern.md)  
+(**Styles**) | _+10 Sanity_
 
 +1 Uncommon Pip  
 _+Talent: [**Breathing Exercise**](Talents.md#breathing-exercise)_
 
- | N/A |
+ | Styles:  
+Left & Right |
 |  | [Pathfinder's Backpack](<Pathfinder's_Backpack.md>) | _+35 Carry Load_
 
 +1 Uncommon Pip  
@@ -2723,6 +2767,14 @@ _+Talent: [**Robber Baron**](Talents.md#robber-baron)_
 **Requires Power 5**
 
  | N/A |
+| File:Black Cape.png | [Plain Cape](Plain_Cape.md)  
+(**Styles**) | _+3% Physical Armor_
+
++1 Legendary Pip  
+**Requires Power 5**
+
+ | Styles:  
+TBA |
 |  | [Red Eye Pendant](Red_Eye_Pendant.md) | _+3% Elemental Armor_
 
 +1 Legendary Pip  
@@ -2759,16 +2811,6 @@ _+Talent: [**Praise The Sun**](Talents.md#praise-the-sun)_
 **Requires Power 5**
 
  | N/A |
-| File:Dawn Scarf.png | Scarf  
-(**Series**)  
-(**Animated**) | _+3% Attunement Armor, changes depending on Scarf Variant_
-
-+1 Rare Pip  
-+1 Legendary Pip  
-**Requires Power 5**
-
- | Variants:  
-[Adventurer's](<Adventurer's_Scarf.md>), Black, Crimson, Dawn, Desert, Forest, Tundra & White |
 |  | [Seafarer Pendant](Seafarer_Pendant.md) | +1 Legendary Pip
 
 **Requires Power 5**
@@ -2798,6 +2840,14 @@ _+20 Carry Load_
 **Requires Power 5**
 
  | N/A |
+|  | [Thresher Charm](Thresher_Charm.md)  
+(**Styles**) | +2 Rare Pips
+
+_+Talent: [**Thresher Thrasher**](Talents.md#thresher-thrasher)_  
+**Requires Power 5**
+
+ | Styles:  
+Default & Hang In There |
 | File:Tiran Pendant Equipment.png | [Tiran Pendant](Tiran_Pendant.md)  
 (**Relic**) | _+2 Health_
 
@@ -2907,6 +2957,10 @@ Legs: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)
 Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
 
  |
+| File:Blue.PNG | [Aspirant Mask](Aspirant_Mask.md)  
+(**Styles**) | +1 Uncommon Pip  
++1 Rare Pip | Styles:  
+Carmine, Emerald, Gold & Saphire |
 |  | [Authority Prototype Mask](Authority_Prototype_Mask.md) | +1 Common Pip | Variants:  
 [Prototype](#authority-prototype-mask) & [Voltspark](#authority-voltspark-mask) |
 |  | [Authority Voltspark Mask](Authority_Voltspark_Mask.md) | _+3% Lightning Armor_
@@ -2973,6 +3027,15 @@ _+Talent: [**Angel's Guise**](Talents.md#angels-guise)_
  | Variants:  
 [Hollow](#hollow-angel-mask), [Sworn](#sworn-angel-mask) |
 |  | [Iron Mask](Iron_Mask.md) | +1 Common Pip | N/A |
+|  | [Inquisitor's Visor](<Inquisitor's_Visor.md>)  
+(**Styles**) | _\-5 Health_  
+_+1 Posture_
+
++2 Rare Pips  
+_+Talent: [**Blind Slot**](Talents.md#blind-slot)_
+
+ | Styles:  
+Darksteel, Gold & Steel |
 |  | [Moon Brow Rings](Moon_Brow_Rings.md)  
 (**Series**) | _+1 Health_ | Variants:  
 [Brow](#moon-brow-rings), [Dermal](#moon-dermal-rings), [Lip](#moon-lip-ring) & [Septum](#moon-septum-ring) |
@@ -3003,10 +3066,6 @@ Face: [Necrotic Mask](Necrotic_Mask.md)
  |
 |  | [Nose Stud](Nose_Stud.md) | _+1 Health_ | N/A |
 |  | [Polarised Eyeglasses](Polarised_Eyeglasses.md) | +1 Common Pip | N/A |
-| File:Blue.PNG | [Royal Guard](Aspirant_Mask.md)  
-(**Series**) | +1 Uncommon Pip  
-+1 Rare Pip | Styles:  
-Blue, Green & Red |
 | File:Smith's Goggles1.png | [Smith's Goggles](<Smith's_Goggles.md>)  
 (**Set**) | +1 Common Pip | Set: Smith's  
 Head: [Smith's Bandana](<Smith's_Bandana.md>)  
@@ -3243,7 +3302,7 @@ Innate Effects
 +1 Uncommon Pip
 
  |
-|  | [Blindseer's Ring](<Blindseer's_Ring.md>) | Increase all healing you receive by 20-33%. Reduce all damage you deal by 15%.
+|  | [Blindseer's Ring](<Blindseer's_Ring.md>) | Increase all healing you receive by 20% in [Pathfinder](Pathfinder.md) or 33% in [Vow of Iron](Vow_of_Iron.md). Reduce all damage you deal by 15%.
 
   
 _+10 Sanity_ +1 Uncommon Pip
@@ -3462,7 +3521,7 @@ _+2% Wind Armor_
 -   Highest theoretical **Stealth** kit in game is 30% stealth. (10% [Dark Owl Chapeau](Dark_Owl_Chapeau.md), 6% [Mercenary's Garb](<Mercenary's_Garb.md>)/[Ministry Cloak](Ministry_Cloak.md)/[Dark Owl Cloak](Dark_Owl_Cloak.md), 5% [Shrouded Cape](Shrouded_Cape.md), 6% Duelist's Mask, 3% [Master Thief Earrings](Master_Thief_Earrings.md)/[Ossified Blood Earrings](Ossified_Blood_Earrings.md))
     -   These will grant a total of 36% Stealth instead if the player is a [Felinor](Felinor.md).
 -   Highest theoretical **Ether** kit in game is 403 ETH. (30 ETH [Moon](Moon_Ring.md) and [Waning Ring](Waning_Ring.md), x2 24 ETH Scaling Rings/[Ferryman's Ring](<Ferryman's_Ring.md>), 68 ETH (Drowned) [Diver's Light Plate](<Diver's_Light_Plate.md>) or equivalent, 44 ETH [Fauld of Enmity](Fauld_of_Enmity.md), 64 ETH [Tillian's Beret](<Tillian's_Beret.md>), 54 ETH [Star Boots](Star_Boots.md) or equivalent, 30 ETH [Hivelord Mask](Hivelord_Mask.md), 35 ETH [Old Blood Earrings](Old_Blood_Earrings.md))
--   Highest theoretical **Posture** kit is 21.5 Posture. (4x 3 Posture Legendary Rings, 2 Posture [Khan Helmet](Legion_Helmet.md)/[Gladiator Helm](Gladiator_Helm.md)/[Western Outlaw Hat](Western_Outlaw_Hat.md), 1 Posture [Threadwork Kilt](Threadwork_Kilt.md), 3 Posture [Glassdancer Wraps](Glassdancer_Wraps.md)/[Moonseye Gauntlets](Moonseye_Gauntlets.md)/[Western Outlaw Robes](Western_Outlaw_Robes.md), 3.5 Posture [Wartreads of Enmity](Wartreads_of_Enmity.md) with max Anchor pips)
+-   Highest theoretical **Posture** kit is 22.5 Posture. (4x 3 Posture Legendary Rings, 2 Posture [Khan Helmet](Legion_Helmet.md)/[Gladiator Helm](Gladiator_Helm.md)/[Western Outlaw Hat](Western_Outlaw_Hat.md), 1 Posture [Threadwork Kilt](Threadwork_Kilt.md), 1 Posture [Inquisitor's Visor](<Inquisitor's_Visor.md>), 3 Posture [Glassdancer Wraps](Glassdancer_Wraps.md)/[Moonseye Gauntlets](Moonseye_Gauntlets.md)/[Western Outlaw Robes](Western_Outlaw_Robes.md), 3.5 Posture [Wartreads of Enmity](Wartreads_of_Enmity.md) with max Anchor pips)
     -   Conversely, the lowest **Posture** you can have on any character is 17, with [Citadel Frames](Citadel_Frames.md) and [Dark Pearls](Dark_Pearls.md).
 -   Highest theoretical **Health** kit in game is 185 HP. (9 HP [Moon Ring](Moon_Ring.md), 9 HP [Waning Rings](Waning_Ring.md), 26 HP [Transfusion Ring](Transfusion_Ring.md), 7 HP Scaling Ring/[Ferryman's Ring](<Ferryman's_Ring.md>), 47 HP (Drowned) [Diver's Light Plate](<Diver's_Light_Plate.md>) or equivalent, 18 [Fauld of Enmity](Fauld_of_Enmity.md), 30 HP [Silver Knight's Helm](<Silver_Knight's_Helm.md>) or equivalent, 32 HP [Star Boots](Star_Boots.md) or equivalent, 2 HP [Dark Pearls](Dark_Pearls.md), 5 HP [Citadel Frames](Citadel_Frames.md))
 -   Having multiple pieces of equipment with [Drowned](Drowned.md) **does not increase your stats further.**
