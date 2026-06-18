@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 215628
+revid: 215876
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Individuals with He/him pronouns, Enemies, Etrea Enemies]
@@ -50,6 +50,11 @@ His attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined wi
 
  | The Shogun performs a simple upward slash toward the right with his blade. This has no highlight, and acts as a regular attack.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   💀 Autogrip
+
  | 
 
  |
@@ -60,6 +65,11 @@ His attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined wi
 (★☆☆)
 
  | The Shogun kicks forward, obscuring themselves partially with dust, before swinging downward at the player. This has no highlight, and acts as a regular attack.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   💀 Autogrip
 
  | 
 
@@ -74,9 +84,14 @@ His attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined wi
 
 _Uses Telegraph_
 
-[ParryTelegraph](Combat_Mechanics.md#green)
+[ParryTelegraph](Combat_Mechanics.md#parry)
 
 Parry
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   💀 Autogrip
 
  | 
 
@@ -91,9 +106,14 @@ Parry
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   💀 Autogrip
 
  | 
 
@@ -108,9 +128,15 @@ Dodge
 
 _Uses Telegraph_
 
-[BlockTelegraph](Combat_Mechanics.md#blue)
+[BlockTelegraph](Combat_Mechanics.md#block)
 
 Block
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   ↻ Undodgeable
+-   ↓ Crouch/Slide
+-   💀 Autogrip
 
  | 
 
@@ -125,9 +151,15 @@ Block
 
 _Uses Telegraph_
 
-[JumpTelegraph](Combat_Mechanics.md#magenta)
+[JumpTelegraph](Combat_Mechanics.md#jump)
 
 Jump
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ↑ Jump-Avoidable
+-   💀 Autogrip
 
  | 
 
@@ -142,9 +174,14 @@ Jump
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   💀 Autogrip
 
  | 
 
@@ -157,6 +194,11 @@ Dodge
 (★★★)
 
  | The Shogun lets out a distinct roar, indicating a devastating combo. It will perform two rapid slashes without highlights, followed by two devastating slashes with Red highlights, and finally ends with four slower slashes with Green highlights. Once this attack is used it goes on cooldown for about a minute, and can be reused after.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   💀 Autogrip
 
  | 
 

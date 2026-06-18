@@ -1,6 +1,6 @@
 ---
 title: Emel
-revid: 192469
+revid: 215977
 source: https://deepwoken.fandom.com/wiki/Emel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pathfinder Exclusive, NPCs, The Ministry, NPCs located in the Eastern Luminant, Quests, Individuals with unspecified pronouns]
@@ -14,6 +14,8 @@ categories: [Adret NPCs, Pathfinder Exclusive, NPCs, The Ministry, NPCs located 
 | aspect | Adret |
 | location | Summer Isle, islet near the port |
 | affiliation | The Ministry |
+
+Variants: [Imel](Imel.md) · [Rimil](Rimil.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

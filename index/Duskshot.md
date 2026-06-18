@@ -1,6 +1,6 @@
 ---
 title: Duskshot
-revid: 213360
+revid: 215974
 source: https://deepwoken.fandom.com/wiki/Duskshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Pistols, Weapons with Talents, Offhand, Light Weapons, Weapons of The Summer Company]

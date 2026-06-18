@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 206362
+revid: 215891
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Hive, Hive Enemies, Ambush Enemies]
@@ -15,6 +15,8 @@ categories: [Monsters, The Hive, Hive Enemies, Ambush Enemies]
 | locations | Starswept Valley, Bluster Rift, Faction Ambushes |
 
 Golem Constructs
+
+Variants: [Rogue Construct](Rogue_Construct.md)
 
 “ DON'T STAND IN THE WAY OF TRUE PROGRESS. ”
 
@@ -38,6 +40,10 @@ Hive Constructs can spawn in [Starswept Valley](The_Starswept_Valley.md) and [Bl
 
  | The Construct stomps the ground, dealing high damage.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -52,9 +58,13 @@ Hive Constructs can spawn in [Starswept Valley](The_Starswept_Valley.md) and [Bl
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  | 
 
@@ -67,6 +77,9 @@ Dodge
  | The Construct screams, signifying that **Meteor Punch** is off cooldown and can be used again.
 
 -   Stay cautious of the Meteor Punch attack after he uses this move.
+
+-   ☕︎ Harmless
+-   «» Misc.
 
  | 
 
@@ -81,6 +94,10 @@ Dodge
 -   Deals roughly 200 damage total.
 -   Insta-grips/insta-executes.
 
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+
  | 
 
  |
@@ -92,6 +109,11 @@ Dodge
  | Used alongside 'Stomp', spawns a few temporary trees within 1 second, allowing it to climb some short walls.
 
 -   You cannot walk through some of the tree's leaves.
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   ☕︎ Harmless
 
  | 
 

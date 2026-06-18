@@ -1,6 +1,6 @@
 ---
 title: "Gale Master's Earrings"
-revid: 210346
+revid: 215967
 source: https://deepwoken.fandom.com/wiki/Gale_Master's_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Talents, Equipment with Exclusive Talents]
@@ -24,7 +24,7 @@ categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Talents, Equ
 | obtainment | Any Chest in Vow of Iron, Mystery Boxes |
 | description | Putting these on, you feel as if you are light as a cloud. |
 
-Variants: [Emerald Tusk Earrings](Emerald_Tusk_Earrings.md)
+Variants: [Emerald Tusk Earrings](Emerald_Tusk_Earrings.md) · [Gale Enhanced Earrings](Gale_Enhanced_Earrings.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

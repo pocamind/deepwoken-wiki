@@ -1,9 +1,9 @@
 ---
 title: Anklets of Alsin
-revid: 213572
+revid: 215987
 source: https://deepwoken.fandom.com/wiki/Anklets_of_Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Fists, Light Weapons, Justicars]
+categories: [Weapons, Fists, Light Weapons, Justicars, Jus Karita Weapons]
 ---
 
 # Anklets of Alsin

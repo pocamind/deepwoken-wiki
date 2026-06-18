@@ -1,6 +1,6 @@
 ---
 title: Chipped Sword
-revid: 206334
+revid: 215923
 source: https://deepwoken.fandom.com/wiki/Chipped_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Quests, NPCs, NPCs located in the Etrean Luminant]
@@ -11,6 +11,8 @@ categories: [Pathfinder Exclusive, Quests, NPCs, NPCs located in the Etrean Lumi
 | Chipped Sword | |
 |---|---|
 | location | Isle of Vigils |
+
+Variants: [Scattered Possessions](Scattered_Possessions.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

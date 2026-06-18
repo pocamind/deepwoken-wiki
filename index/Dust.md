@@ -1,6 +1,6 @@
 ---
 title: Dust
-revid: 208516
+revid: 215975
 source: https://deepwoken.fandom.com/wiki/Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, The Divers, NPCs located in the First Layer, Individuals with unspecified pronouns]
@@ -14,6 +14,8 @@ categories: [Pathfinder Exclusive, NPCs, The Divers, NPCs located in the First L
 | aspect | Celtor |
 | location | Castle Light |
 | affiliation | The Divers |
+
+Variants: [Mote](Mote.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

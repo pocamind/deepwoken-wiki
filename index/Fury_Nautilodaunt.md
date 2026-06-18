@@ -1,6 +1,6 @@
 ---
 title: Fury Nautilodaunt
-revid: 214527
+revid: 215963
 source: https://deepwoken.fandom.com/wiki/Fury_Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Depths]
@@ -15,7 +15,7 @@ categories: [Monsters, The Depths]
 | drops | Odd Tentacle, Pathfinder Elite (Very Rare), Stormseye, Nautilodaunt Beak, Justicar's Armor, Cala-Mariner, Martial Artist, Black Diver |
 | locations | The City of the Drowned, The Vat |
 
-Variants: [Nautilodaunt](Nautilodaunt.md)
+Variants: [Nautilodaunt](Nautilodaunt.md) · [Nautilodaunt Officiate](Nautilodaunt_Officiate.md)
 
 ## Description
 
@@ -39,6 +39,10 @@ Finally, it is also observed to be much more durable than a regular Nautilodaunt
 
 -   These have very long hitstun with very little delay between each hit, **do not** attempt to retaliate or parry immediately after being hit, as you will only be interrupted again. Instead, let the Fury Nautilodaunt hit you two more times before attempting to parry its next punch.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -46,6 +50,10 @@ Finally, it is also observed to be much more durable than a regular Nautilodaunt
 (★★☆)
 
  | Fury Nautilodaunt's punches would randomly lead into a kick, forcing the opponent backwards. To then close the distance for another attack, sliding towards you to deliver another kick.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -57,6 +65,11 @@ Finally, it is also observed to be much more durable than a regular Nautilodaunt
 
 -   This is most commonly used to close the distance between targets that are at a higher elevation than it; often being used after Electro Stomp.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⟡ Movement
+
  |
 | 
 
@@ -67,9 +80,13 @@ Finally, it is also observed to be much more durable than a regular Nautilodaunt
 
 _Uses Telegraph_
 
-[ParryTelegraph](Combat_Mechanics.md#cyan)
+[ParryTelegraph](Combat_Mechanics.md#parry)
 
 Parry
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -84,9 +101,13 @@ Parry
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  |
 | 
@@ -98,6 +119,9 @@ Dodge
 
 -   If the Fury Nautilodaunt feints and you whiff your parry, **dodge** the next attack instead of attempting to parry it.
 
+-   «» Misc.
+-   ☕︎ Harmless
+
  |
 | 
 
@@ -105,6 +129,9 @@ Dodge
 (★☆☆)
 
  | If hit by any move that utilizes the Song (such as a Mantra, certain Resonances, or a Vent from the player), the Fury Nautilodaunt will near-completely negate the damage of said Mantra. This can happen even during other moves.
+
+-   «» Misc.
+-   ☕︎ Harmless
 
  |
 

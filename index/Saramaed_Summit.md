@@ -1,12 +1,14 @@
 ---
 title: Saramaed Summit
-revid: 213404
+revid: 215865
 source: https://deepwoken.fandom.com/wiki/Saramaed_Summit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Voidzones, Locations in the Eastern Luminant]
 ---
 
 # Saramaed Summit
+
+Variants: [Saramaed Summit (Vow of Iron)](<Saramaed_Summit_(Vow_of_Iron).md>)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

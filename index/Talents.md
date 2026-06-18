@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 215778
+revid: 215804
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -833,7 +833,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Does not proc from [Grand Fisher Plate](Grand_Fisher_Plate.md) or [Wormwarder Lantern](Wormwarder_Lantern.md) despite them reducing your movement speed.
     -   Prerequisites: 60 Fortitude
 
--   Knuckle Guard \[Common Talent, Strength, Fortitude\] - Hitting [Daze](Status_Effects.md#b) enemies grants you 10% posture resistance for 15s.
+-   Knuckle Guard \[Common Talent, Strength, Fortitude\] - Hitting [Dazed](Status_Effects.md#daze) enemies grants you 10% posture resistance for 15s.
     -   Knuckle Guard's duration will be reduced by 0.1s for every point of Fortitude and Strength below its requirements, having a minimum possible duration of 10.4 seconds with 30 Fortitude and 4 Strength, though this isn't very realistic.
     -   Prerequisities: 55 Fortitude, 25 Strength
 
@@ -1713,16 +1713,18 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
             -   In some circumstances, Armor Piercing may give your opponent higher weighting on their elemental resistances by lowering their blunt resistance, causing them to resist your damage based on their elemental resistance instead. Alternatively, if they have higher elemental resistance than blunt resistance, Armor Piercing will do nothing at all.
     -   Prerequisites: 30 Medium Weapon // 30 Light Weapon and have completed the [Trig quest](Summer_Isle.md#trig-quest) (helping The Summer Company)
     -   The [Summer Company Uniform](Summer_Company_Uniform.md) Outfit has this Talent.
+    -   Mutual Exclusive: [Bulletproof](#bulletproof), due to them being quest rewards from the opposite endings of the same quest.
 
 -   Bulletproof \[Common Talent, Fortitude, Medium Weapon, Light Weapon\] - You take no Armor damage from guns. You take 5% less Armor damage from other sources.
     -   This has no effect on your natural armor.
     -   This Talent simply removes/reduces armor damage taken, it has no effect on PEN.
     -   Prerequisites: 20 Medium Weapon OR 20 Light Weapon OR 20 Fortitude, completed the [Trig quest](Summer_Isle.md#trig-quest) (helping Asius)
+    -   Mutual Exclusive: [Armor Piercing](#armor-piercing), due to them being quest rewards for the opposite endings of the same quest.
 
 -   _Execution_ \[Rare Talent, Light Weapon, Medium Weapon // Heavy Weapon\] - Your offhand gun attacks now count as flourishes and do a flat 20 extra damage when used with no bullets.
     -   Works with dual guns, adding 5 flat damage to every second shot.
     -   The extra damage is true damage.
-    -   Does not work with [Hardened Enforcer Boots](Hardened_Enforcer_Boots.md) and Dazing Finisher.
+    -   Does not work with [Unnecessary Theatrics](#unnecessary-theatrics) and [Dazing Finisher](#dazing-finisher).
     -   Prerequisites: 90 Light Weapon, 90 Medium Weapon // 90 Heavy Weapon, Using a Pistol
     -   Mutual Exclusive: Hip Shooter
 
@@ -1739,7 +1741,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 -   Parting Gift \[Common Talent, Light Weapon\] - After you land a flourish, gain the ability to shoot bullets for 5 seconds. \[Dual Gun\]
     -   On proc, all dual gun M1s within the next 5 seconds have projectiles.
     -   Procs even if your flourish is parried or blocked.
-    -   The projectile M1s from this Talent can proc True Ether Bullets.
+    -   The projectile M1s from this Talent can proc [True Ether Bullets](#true-ether-bullets).
     -   Prerequisites: 75 Light Weapon, Using a Pistol
 
 -   Quickdraw \[Common Talent, Light Weapon\] - Allows you to fire your offhand gun right after swinging. \[Not necessary on dual guns\]
@@ -1767,16 +1769,14 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   **If the user has no attunement, this Talent has NO EFFECT. It is recommended to put one point into an attunement if using this Talent on an attunement-less build.**
     -   This Talent does not make guns scale off your attunement attributes, it just converts your Physical Damage to Elemental Damage.
     -   Despite the fact that you can obtain this from Greatcannons, this Talent does **nothing** on them.
-    -   Prerequisites: 30 Intelligence, 20 Weapon (20 LHT // 20 MED // 20 HVY), Using a Pistol/Rifle/Greatcannon
-
--   -   Bug Note: This talent is experiencing a bug as of June 9th 2026, and will not work with any attunement.
+    -   Currently bugged and does not work.
+    -   Prerequisites: 30 Intelligence, 20 Weapon (20 Light // 20 Medium // 20 Heavy), Using a Pistol/Rifle/Greatcannon
 
 -   _**Prime Ether Bullets**_ \[Advanced Talent, Intelligence, Light Weapon\] - Your bullets take one less hit to proc elemental effects and now have slight intelligence scaling. \[Dual Gun\]
     -   True Ether Bullets now procs in 2 hits instead of 3.
     -   Adds 1.2 Intelligence scaling to your Pistols. Stacks with the [Rosen's Ring](<Rosen's_Ring.md>).
-    -   Prerequisites: 90 Light Weapon, 60 Intelligence, True Ether Bullets, Using a Pistol
-
--   -   Bug Note: This talent is experiencing a bug as of June 9th 2026, and will not work with any attunement.
+    -   Currently bugged and does not work.
+    -   Prerequisites: 90 Light Weapon, 60 Intelligence, [True Ether Bullets](#true-ether-bullets), Using a Pistol
 
 ### Hammer Rage
 
@@ -2174,12 +2174,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Thornmail \[Common Talent, Ironsing\] - Getting flourished applies a metal rod on your attacker.
     -   Prerequisite: 45 Ironsing
-
-### Instigator
-
--   Enrage \[Common Talent, Unlockable Talent\] - Whenever you stun an opponent who's taunted with encore, enrage them.
-    -   Unlock requirement: wipe while using the [Strange Merchant](Strange_Merchant.md) memento.
-    -   Prerequisites: 65 charisma, Encore
 
 ### Javelin Lord
 
@@ -3903,7 +3897,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisite: 65 Bloodrend, Sow and Mend
 
 -   Hypovolemic Focus \[Common Talent\] - While you have [temporary health](Status_Effects.md#temporary-health), your opponent regains far less posture from parrying you
-    -   The opponent regains 20% less posture damage from parrying you.
+    -   The opponent restores 20% less posture from parrying you.
     -   Prerequisite: 65 Bloodrend, Sow and Mend
 
 ### Trickster
@@ -4303,8 +4297,15 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   This secondary damage instance cannot receive damage modifiers.
 
 -   Blade Scholar: [Markor's Inheritor](<Markor's_Inheritor.md>) & [Alloyed Inheritor](<Markor's_Inheritor.md>) - Landing your fist critical attack switches your stance to that fist style. Retain the same swing speed and damage your Markor's Inheritor had. You gain more swingspeed the more Intelligence you have.
-    -   Landing your critical attack changes your weapon animations to that of your current fist style for 15 seconds.
-    -   While this effect is active, your weapon gains increased swing speed, scaling on your Intelligence attribute. Additionally, you benefit from Fist Talents, including the PvE weapon damage buff you gain from having them.
+    -   Landing your critical attack changes your weapon animations to that of your current fist style for 15 seconds. This cannot be refreshed while active.
+    -   While this effect is active, your weapon gains increased swing speed, scaling on your Intelligence attribute. Though not mentioned, you will also gain +2 [Intelligence](Attributes.md#int) scaling on your weapon while active.
+        -   The swing speed bonus is equal to: Markor's Base swing speed (0.85) + 0.002 × Intelligence investment, capping at 1.05x at 100 Intelligence.
+    -   This manually changes your weapons to Fists on proc, setting your stats on each weapon swing. This has a few upsides and downsides;
+        -   **Upsides**: You'll be able to benefit from Fist Talents while it is active, as well as the Fists PvE effect of increased blunt damage, scaling on the amount of Fists Talents you have.
+        -   **Downsides**: Because your bare hands cannot be enchanted, your Weapon Enchantment will be disabled while active. You cannot proc your Greatsword Talents while active. Quality star bonuses on your Inheritor will not transfer over to the Fists.
+        -   Your [Silentheart](Oath%253A_Silentheart.md) abilities will change to the Light Weapon ones while this is active. This isnt inherently an upside nor a downside, but keep in mind that these abilities scale on the respective attribute.
+    -   Because [Untrained Fist](Untrained_Fist.md) doesn't have a bare hands weapon variant, it bugs with this Talent, resulting in you continuing to use your Inheritor, with all buffs applied.
+    -   Using [Sovereign State](#sovereign-state) while this is active will extend the duration of the effect, until your Sovereign State ends.
 
 -   Blitz: [Forgotten Gladius](Forgotten_Gladius.md) & [Kindred Edict](Kindred_Edict.md) - Increase how quick you release your [Prominence Draw](Attunement-less.md#prominence-draw).
     -   Decreases Prominence Draw's windup by 0.1s (from 0.55s to 0.45s).
@@ -4346,7 +4347,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Curved Edge: [Nemit's Sickle](<Nemit's_Sickle.md>) - Your [light weapon mantras](Attunement-less.md#light-weapon-mantras) \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now gain 60% more chip.
 
 -   Devastating Recovery: [Zweihander](Zweihander.md), [Alloyed Zweihander](Zweihander.md) & [Bloodbane](Bloodbane.md) - Enemies recover 30% less posture when parrying your Zweihander light attacks.
-    -   This is not to be confused with the [Devastating Recovery](#devastating-recovery) Greatsword Talent
+    -   This is not to be confused with the [Destructive Recovery](#destructive-recovery) Greatsword Talent
 
 -   Ebb and Flow: [Wyrmtooth](Wyrmtooth.md) - Landing a [medium mantra](Attunement-less.md#medium-weapon-mantras) \[_[sic](https://en.wikipedia.org/wiki/sic)_\] increases your next [heavy mantra](Attunement-less.md#heavy-weapon-mantras)'s \[_[sic](https://en.wikipedia.org/wiki/sic)_\] level by 1 and vice versa. This is stackable and can be increased to a max of +5 levels. All stacks are removed if your medium/heavy mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] is defended against.
     -   This effect **only** applies when alternating weapon Mantras. For example, if you land one heavy Mantra and then follow up with two medium Mantras, the second medium Mantra will **not** receive the buff; your stacks won't be lost, the effect just won't be applied.
@@ -4372,10 +4373,10 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   This cannot guardbreak.
     -   This does not benefit from posture damage modifiers. Additionally, your weapon's damage and weight stat have no impact on this Talent's effects.
 
--   Finishing Slay: [Messer](Messer.md) & [Alloyed Mssser](Messer.md) - If you land a critical attack while also having stacks from the Chain of Perfection talent, consume all those for a massive damaging attack. This works on other players as well.
-    -   Consumes all of your Chains of Perfection stacks for a secondary instance of damage on your critical.
-    -   This deals 7 **typeless** damage per Chain of Perfection stack. Deals 166 **typeless** damage per Chain of Perfection stack in PvE.
-    -   The first 5 hits that normally do not grant stacks will contribute to this, allowing you to deal 150 typeless PvP damage or 3.5k typeless PvE damage at maximum chain stacks.
+-   Finishing Slay: [Messer](Messer.md) & [Alloyed Messer](Messer.md) - If you land a critical attack while also having stacks from the Chain of Perfection talent, consume all those for a massive damaging attack. This works on other players as well.
+    -   Consumes all of your [Perfection](Status_Effects.md#perfection) stacks for a secondary instance of damage on your critical.
+    -   This deals 7 **typeless** damage per Perfection stack. Deals 166 **typeless** damage per Chain of Perfection stack in PvE.
+    -   The first 5 hits that normally do not grant Perfection stacks will contribute to this, allowing you to deal 150 typeless PvP damage or 3.5k typeless PvE damage at maximum chain stacks.
     -   The damage this deals can be increased with damage modifiers, though it is not considered weapon damage so it is fairly difficult to buff.
     -   Finishing Slay has no cooldown, allowing for multihit criticals to benefit from it multiple times. However, finishing slay can only proc once per damage instance in a critical hit, for example if you hit three targets with your critical, Finishing Slay will only proc on one of them, and the other two will not take any additional damage.
     -   This procs on [Motif](Motifs.md) and [enchant](Enchantments.md)\-granted criticals.
@@ -4399,7 +4400,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Phantom: [Withered Phantomcleave](Withered_Phantomcleave.md) - For the next 5 seconds, your next basic attack bypasses block after landing a crit. \[45 second CD\]
 
--   Pierce Through: [Ritual Spear](Ritual_Spear.md) - Remove the autoparry frames the first hit of your base spear critical has.
+-   Pierce Through: [Ritual Spear](Ritual_Spear.md) & [Ritual Sacrifice](Ritual_Sacrifice.md) - Remove the autoparry frames the first hit of your base spear critical has.
     -   The **default** spear critical no longer gets canceled if the first hit is parried. Additionally, parrying the first hit of this critical does not provide autoparry frames.
 
 -   Pugnacious: [Warmonger](Warmonger.md) - Become stronger the more you are combat tagged. Gain even more strength whenever you grip a player.
@@ -4462,7 +4463,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Spinal Shatter: [Crescent Cleaver](Crescent_Cleaver.md) & [Alloyed Crescent Cleaver](Crescent_Cleaver.md) - Landing the [Crescent Cleaver](Crescent_Cleaver.md) critical attack causes your opponent to be unable to sprint for 8 seconds. \[10 second CD\]
     -   Does not work if you replace the Crescent Cleaver critical with a [Motif](Motifs.md).
 
--   Spinal Splinter: [Halberd](Halberd.md) - Landing a backstab with your critical deals 15 extra true damage.
+-   Spinal Splinter: [Halberd](Halberd.md) & [Alloyed Halberd](Halberd.md) - Landing a backstab with your critical deals 15 extra true damage.
 
 -   Static Beatdown: [Legion Cestus](Legion_Cestus.md) - Landing a Thundercall mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] electrifies the metal in your Cestus for 8 seconds, extending how long your opponents are stuck in shaky block based on your total Thundercall investment.
     -   Increases shaky block duration by 0.004s per point in Thundercall. At 100 Thundercall, shaky block lasts 1 second against players with 1x or slower swing speed weapons.
@@ -4470,7 +4471,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Subzero: [Winter Rifle](Winter_Rifle.md) - Landing a running attack inflicts your opponent with a deep freeze. Additional light hits after the opponent thaws out will briefly slow them as well.
 
 -   Sweeping Edge: [Vigil Longsword](Vigil_Longsword.md) & [Alloyed Vigil Longsword](Vigil_Longsword.md) - Your [Master's Flourish](Attunement-less.md#masters-flourish) is larger and can now proc flourish talents.
-    -   This cannot proc Dazing Finisher.
+    -   This cannot proc [Dazing Finisher](#dazing-finisher) and [Unnecessary Theatrics](#unnecessary-theatrics).
     -   Notably, [Finisher's Ring](<Finisher's_Ring.md>) works with this, granting your Master's Flourish 40% more PEN.
     -   Your Master's Flourish size is increased. This is the equivalent of +2 [Cloudstones](Mantra_Modifiers.md#regular-modifiers).
 
@@ -4600,7 +4601,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Whirling Blade heals you for 25% of damage dealt.
 
 -   Dancing Steps of War - When landing a flourish, gain a speed boost and massively reduce the cooldown of your dodges for 2 seconds.
-    -   The duration of this effect can be increased by proccing Etrean Sashimo's Talent, [Traditional Execution](#traditional-execution).
+    -   The duration of this effect can be increased by proccing [Etrean Sashimono](Etrean_Sashimono.md)'s Talent, [Traditional Execution](#traditional-execution).
 
 -   Demon Step: [Familiar Demon's Armor](<Familiar_Demon's_Armor.md>) - Activate to gain brief iframes while moving forward. This requires 50 ether to activate and increases your posture by 20% each use.
     -   On use, lose 50 Ether to travel a short distance forwards in iframes. Additionally, 20% of your current posture will be dealt to you as self-posture damage.
@@ -4902,7 +4903,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 -   Survivalist: [Pathfinder Cloak](Pathfinder_Cloak.md) & [Ranger's Boots](<Ranger's_Boots.md>) - Resist the effects of Weather Effects.
     -   Reduces the damage taken from [Acid Rain](Environmental_Hazards.md).
 
--   Swift Blade: Blademaster Robe - Proccing [Wind Gem](Wind_Gem.md) now gives you 10% more light attack posture during its duration. Extend the duration of [Wind Gems](Wind_Gem.md) by 2 seconds.
+-   Swift Blade: [Blademaster's Robe](<Blademaster's_Robe.md>) - Proccing [Wind Gem](Wind_Gem.md) now gives you 10% more light attack posture during its duration. Extend the duration of [Wind Gems](Wind_Gem.md) by 2 seconds.
 
 -   Tempest Evolution: [Tempestmaker's Threads](<Tempestmaker's_Threads.md>) - Your slide-jumped [Wind Blades](Galebreathe.md#wind-blade) are naturally stronger and if landed grant +20% damage in the air for a few seconds.
     -   Grants a 20% damage buff to your slide-jump [Wind Blade](Galebreathe.md#wind-blade). Also increases its range.

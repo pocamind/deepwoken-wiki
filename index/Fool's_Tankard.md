@@ -1,6 +1,6 @@
 ---
 title: "Fool's Tankard"
-revid: 199024
+revid: 215955
 source: https://deepwoken.fandom.com/wiki/Fool's_Tankard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Light Weapons]
@@ -31,6 +31,8 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Light Weapons]
 | pass down | Yes |
 | obtainment | Fabantou at The Three Cheers for 50 |
 | description | You've truly lost it. |
+
+Variants: [The Golden Fool](The_Golden_Fool.md)
 
 ## Description
 

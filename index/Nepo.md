@@ -1,6 +1,6 @@
 ---
 title: Nepo
-revid: 210999
+revid: 215820
 source: https://deepwoken.fandom.com/wiki/Nepo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Summer Company, Reputation]
@@ -15,6 +15,8 @@ categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive
 | pronouns | He/him |
 | location | Summer Isle |
 | affiliation | The Summer Company |
+
+Variants: [Valois](Valois.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

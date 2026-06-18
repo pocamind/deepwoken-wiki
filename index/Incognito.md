@@ -1,6 +1,6 @@
 ---
 title: Incognito
-revid: 191475
+revid: 215885
 source: https://deepwoken.fandom.com/wiki/Incognito
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, Mantras, Quests, NPCs located in the Eastern Luminant, NPCs]

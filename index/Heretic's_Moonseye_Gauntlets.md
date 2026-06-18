@@ -1,6 +1,6 @@
 ---
 title: "Heretic's Moonseye Gauntlets"
-revid: 210499
+revid: 215892
 source: https://deepwoken.fandom.com/wiki/Heretic's_Moonseye_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Gloves, Equipment with Talents, Equipment with Exclusive Talents]

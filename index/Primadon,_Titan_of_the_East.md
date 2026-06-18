@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 215451
+revid: 215842
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -15,6 +15,8 @@ categories: [Monsters, Bosses]
 | drops | 8 ChestsSmall chest , (First Kill), 2 Knowledge(≥20% damage dealt), 1 Knowledge, Primadon Pelt (rare), Misc, see loot table |
 | locations | Primadon's Hunting GroundsThe Monkey's Paw |
 | challenges | -- Primadon, Titan of the East --, The Missing Link - Slay 10.Reward: +30% DMG; +15% RES |
+
+Variants: [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md)
 
 “ In this time there were rumours of a Primadon who devoured a hoard of treasure... ”
 
@@ -86,6 +88,10 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
 
  | Primadon raises its **right** foot and stomps once.
 
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+
  | 
 
  |
@@ -95,6 +101,10 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
 (★☆☆)
 
  | Primadon performs 3 quick stomps with its **left** foot.
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  | 
 
@@ -107,6 +117,11 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
  | Primadon winds up its **left** arm to deliver a powerful punch.
 
 -   Only used against players that are in front of him but not near his legs.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  | 
 
@@ -123,9 +138,14 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ☣ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ↗ Ragdoll
 
  | 
 
@@ -144,9 +164,15 @@ Dodge
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⛊ Blockable
+-   ⚠︎ Unparryable
+-   § Dodgeable
+-   ⤻ Ragdoll
+-   𓂘 Grab
 
  | 
 
@@ -162,9 +188,13 @@ Dodge
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 
@@ -175,6 +205,10 @@ Dodge
 (★☆☆)
 
  | Primadon jumps backward while throwing 1 rock at the player, creating distance between the two.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 
@@ -188,6 +222,8 @@ Dodge
 
 -   Automatically used when dropping below 50% health
 -   Signified by a red mist that surrounds Primadon's body.
+
+-   ¤ Debuff
 
  | 
 

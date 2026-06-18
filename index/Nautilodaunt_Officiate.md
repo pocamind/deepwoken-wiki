@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt Officiate
-revid: 214505
+revid: 215816
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt_Officiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with reason, InProgressPages, Monsters, The Depths]
@@ -17,7 +17,7 @@ notices:
 | drops | Odd Tentacle, Pathfinder Elite (Very Rare), Stormseye, Nautilodaunt Beak, Justicar's Armor, Cala-Mariner, Martial Artist, Astruline, Pathfinder's Backpack |
 | locations | The Depths |
 
-Variants: [Nautilodaunt](Nautilodaunt.md)
+Variants: [Nautilodaunt](Nautilodaunt.md) · [Fury Nautilodaunt](Fury_Nautilodaunt.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
@@ -42,6 +42,10 @@ They have the body shape and fighting style of a [Nautilodaunt](Nautilodaunt.md)
 -   These are similar to a [Nautilodaunt](Nautilodaunt.md)'s Punches, the difference being theyre slightly slower, enough to throw off those accustomed to the regular Nautilodaunt's pace.
 -   Works similarly to a humanoid enemy's Assault, finishing off with **Kick** after enough Punches have been thrown out.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -54,6 +58,10 @@ They have the body shape and fighting style of a [Nautilodaunt](Nautilodaunt.md)
 
 -   Usually uses another attack to follow-up after, meaning you must stay on guard.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -63,6 +71,11 @@ They have the body shape and fighting style of a [Nautilodaunt](Nautilodaunt.md)
 (★★★)
 
  | The Nautilodaunt Officiate initiates a full sprint before flipping into the air and descending down towards their prey with a kick.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⟡ Movement
 
  | 
 
@@ -76,9 +89,13 @@ They have the body shape and fighting style of a [Nautilodaunt](Nautilodaunt.md)
 
 _Uses Telegraph_
 
-[GuardbreakTelegraph](Combat_Mechanics.md#circle)
+[GuardbreakTelegraph](Combat_Mechanics.md#guardbreak)
 
 Guardbreak
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  | 
 
@@ -89,6 +106,16 @@ Guardbreak
 (★★★)
 
  | Nautilodaunt Officiate initiates a full sprint before committing to a drop kick on its prey.
+
+_Uses Telegraph_
+
+[ParryTelegraph](Combat_Mechanics.md#parry)
+
+Parry
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 
@@ -105,9 +132,14 @@ Guardbreak
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
-Red
+Dodge
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   💀 Autogrip
 
  | 
 
@@ -123,9 +155,14 @@ Red
 
 _Uses Telegraph_
 
-[JumpTelegraph](Combat_Mechanics.md#magenta)
+[JumpTelegraph](Combat_Mechanics.md#jump)
 
-Magenta
+Jump
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   ↑ Jump-Avoidable
 
  | 
 
@@ -143,9 +180,14 @@ Magenta
 
 _Uses Telegraph_
 
-[ParryTelegraph](Combat_Mechanics.md#green)
+[ParryTelegraph](Combat_Mechanics.md#parry)
 
 Parry
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   ↻ Undodgeable
+-   ↑ Jump-Avoidable
 
  | 
 
@@ -159,6 +201,9 @@ Parry
 
 -   It can only **Feint** its **Punch** attack.
 
+-   ☕︎ Harmless
+-   «» Misc.
+
  | 
 
  |
@@ -170,6 +215,9 @@ Parry
  | If hit by an elemental move, the Nautilodaunt Officiate will gain a blue aura and near-completely negate the damage of said attack.
 
 -   This move seems to activate passively.
+
+-   ☕︎ Harmless
+-   «» Misc.
 
  | 
 

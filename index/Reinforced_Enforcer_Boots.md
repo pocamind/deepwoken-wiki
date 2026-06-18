@@ -1,6 +1,6 @@
 ---
 title: Reinforced Enforcer Boots
-revid: 210765
+revid: 215846
 source: https://deepwoken.fandom.com/wiki/Reinforced_Enforcer_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]

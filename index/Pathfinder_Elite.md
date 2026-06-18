@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Elite
-revid: 209721
+revid: 215835
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Elite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Drops, Coats, Equipment with Styles]
@@ -23,6 +23,8 @@ categories: [Equipment, Arms, Drops, Coats, Equipment with Styles]
 | pass down | Yes |
 | obtainment | Rare Drop from Nautilodaunts, Reward from Weird Trader, The Diluvian Mechanism Wave 50 |
 | description | ... |
+
+Variants: [Corrupted Pathfinder Elite](Corrupted_Pathfinder_Elite.md)
 
 ## Description
 

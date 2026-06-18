@@ -1,6 +1,6 @@
 ---
 title: Emerald Tusk Earrings
-revid: 201181
+revid: 216005
 source: https://deepwoken.fandom.com/wiki/Emerald_Tusk_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -23,6 +23,8 @@ categories: [Equipment, Ears]
 | pass down | Yes |
 | obtainment | Chests from:, Duke Erisia, Fishing, Lodestar, Maestro Evengarde Rest, The Understrand, First Layer, Sea Events |
 | description | ... |
+
+Variants: [Gale Enhanced Earrings](Gale_Enhanced_Earrings.md) · [Gale Master's Earrings](<Gale_Master's_Earrings.md>)
 
 ## Description
 

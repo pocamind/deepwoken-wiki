@@ -1,12 +1,14 @@
 ---
 title: Fragments of Self
-revid: 210013
+revid: 215958
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the First Layer, Death, The Depths]
 ---
 
 # Fragments of Self
+
+Variants: [Fragments of Else](Fragments_of_Else.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

@@ -1,6 +1,6 @@
 ---
 title: Ether Refined Brim
-revid: 215359
+revid: 215941
 source: https://deepwoken.fandom.com/wiki/Ether_Refined_Brim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Hats, Head, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -26,6 +26,8 @@ categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Hats, Head,
 | pass down | No |
 | obtainment | Crafting 1 Ether Refined Hide + 1 Shiva's Codex + 1 Warlock's Brim in the Lost Forge |
 | description | A finely crafted hat worn by master wizards of the Northen Luminant, imbued with song woven into its fabric. It amplifies the wearer's power in battle. |
+
+Variants: [Sorcerer's Brim](<Sorcerer's_Brim.md>)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

@@ -1,6 +1,6 @@
 ---
 title: True Heart of Enmity
-revid: 215691
+revid: 215902
 source: https://deepwoken.fandom.com/wiki/True_Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters]

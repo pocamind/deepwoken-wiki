@@ -1,6 +1,6 @@
 ---
 title: Fragments of Else
-revid: 201248
+revid: 215957
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Else
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Locations]

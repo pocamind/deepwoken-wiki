@@ -1,6 +1,6 @@
 ---
 title: Yakob
-revid: 215280
+revid: 216001
 source: https://deepwoken.fandom.com/wiki/Yakob
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
@@ -26,7 +26,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Yakob is an [Adret](Adret.md) NPC and an ensign of [the Authority](The_Central_Authority.md). Upon meeting the player as an [ensign](Authority_Ensign.md) themself, he'll greet them and talk about how happy the folks of [Fort Merit](Fort_Merit.md) were about the wave of recruits.
+Yakob is an [Adret](Adret.md) NPC. He is a soldier of [The Central Authority](The_Central_Authority.md).
+
+Upon meeting the player as an [ensign](Authority_Ensign.md) themself, he'll greet them and talk about how happy the folks of [Fort Merit](Fort_Merit.md) were about the wave of recruits.
 
 ## Location
 
@@ -94,7 +96,7 @@ Yakob is located inside of [The Three Cheers](The_Three_Cheers.md), sitting at a
 </tbody>
 </table>
 
-**Seneschal / Handler / Operator:**
+**Division Maxed:**
 
 <table>
 <tbody>
@@ -102,7 +104,7 @@ Yakob is located inside of [The Three Cheers](The_Three_Cheers.md), sitting at a
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td><i>*The Adret salutes with pride.*</i> [Rank]!</td>
+  <td><i>*The <a href="Glossary.md#adret">Adret</a> salutes with pride.*</i> [Rank]!</td>
 </tr>
 <tr>
   <td>At ease, soldier.</td>

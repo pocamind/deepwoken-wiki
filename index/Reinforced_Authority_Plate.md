@@ -1,6 +1,6 @@
 ---
 title: Reinforced Authority Plate
-revid: 210764
+revid: 215845
 source: https://deepwoken.fandom.com/wiki/Reinforced_Authority_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Plates, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]

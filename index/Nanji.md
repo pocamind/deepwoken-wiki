@@ -1,6 +1,6 @@
 ---
 title: Nanji
-revid: 203677
+revid: 215814
 source: https://deepwoken.fandom.com/wiki/Nanji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Etrea]
@@ -14,6 +14,8 @@ categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean
 | aspect | Etrean |
 | location | Etris |
 | family | Ilji (younger brother) |
+
+Variants: [Samnang](Samnang.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

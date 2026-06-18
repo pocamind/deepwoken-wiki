@@ -1,6 +1,6 @@
 ---
 title: Necrotic Mask
-revid: 211223
+revid: 215819
 source: https://deepwoken.fandom.com/wiki/Necrotic_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Face, Masks, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -25,7 +25,7 @@ categories: [Pathfinder Exclusive, Equipment, Face, Masks, Craftable, Equipment 
 | obtainment | Crafting 1 Bloodfeather Mask + 1 Necrotic Membrane + 1 Parasol Part in the Lost Forge |
 | description | ... |
 
-Variants: [Bloodfeather Mask](Bloodfeather_Mask.md)
+Variants: [Bloodfeather Mask](Bloodfeather_Mask.md) · [Bloodcurdle Mask](Bloodcurdle_Mask.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

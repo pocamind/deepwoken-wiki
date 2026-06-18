@@ -1,6 +1,6 @@
 ---
 title: Rimil
-revid: 213419
+revid: 215849
 source: https://deepwoken.fandom.com/wiki/Rimil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, NPCs, The Ministry, NPCs located in the Eastern Luminant, Quests, Individuals with unspecified pronouns]
@@ -15,7 +15,7 @@ categories: [Canor NPCs, Pathfinder Exclusive, NPCs, The Ministry, NPCs located 
 | location | Meteor Isle |
 | affiliation | The Ministry |
 
-Variants: [Emel](Emel.md)
+Variants: [Emel](Emel.md) · [Imel](Imel.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

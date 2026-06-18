@@ -1,6 +1,6 @@
 ---
 title: Ruby Drop Earrings
-revid: 198524
+revid: 215861
 source: https://deepwoken.fandom.com/wiki/Ruby_Drop_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -22,6 +22,8 @@ categories: [Equipment, Ears]
 | pass down | Yes |
 | obtainment | Chests from:, Aratel Island, Starswept Valley, Lodestar, Duke Erisia, Maestro Evengarde Rest |
 | description | ... |
+
+Variants: [Flare Drop Earrings](Flare_Drop_Earrings.md)
 
 ## Description
 

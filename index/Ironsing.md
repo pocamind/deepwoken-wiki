@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 211621
+revid: 216016
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -16,7 +16,9 @@ Ironsing Icon
 
 ## Description
 
-**Ironsing** is an [Attunement](Attunements.md) based around the ability to harness and manipulate metal, commonly used by Blacksmiths around the Luminants. It applies metal rods to enemies, allowing for a variety of interactions depending on the chosen Talents.
+**Ironsing** is an [Attunement](Attunements.md) based around the ability to harness and manipulate metal, commonly used by Blacksmiths around the Luminants.
+
+Ironsingers make use of applying Metal Rods to enemies, allowing for a variety of interactions depending on the chosen Talents. Most primarily, accumulating enough Metal Rods on a target will allow the user to perform an **Iron Pull**, which will cause the target to be dragged towards the user by pressing X.
 
 ## Obtainment
 

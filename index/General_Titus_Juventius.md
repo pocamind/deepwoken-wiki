@@ -1,6 +1,6 @@
 ---
 title: General Titus Juventius
-revid: 213234
+revid: 215914
 source: https://deepwoken.fandom.com/wiki/General_Titus_Juventius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Enemies, The Hundred Legions Enemies]
@@ -52,6 +52,10 @@ A young, Silverback Khan with great stature, he's around twice the height of the
 -   This attack can easily be avoided by jumping.
 -   Titus is most likely to follow up with Warp Kick if landed, which can be very problematic if you're ragdolled.
 
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -62,6 +66,10 @@ A young, Silverback Khan with great stature, he's around twice the height of the
 
  | Titus unleashes an echoing roar that temporarily amplifies his attacks.
 
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+
  | 
 
  |
@@ -71,6 +79,11 @@ A young, Silverback Khan with great stature, he's around twice the height of the
 (★★★)
 
  | Titus ascends into the air, crashing into the ground and knocking down opponents.
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤓ Knockdown
 
  | 
 
@@ -83,6 +96,11 @@ A young, Silverback Khan with great stature, he's around twice the height of the
  | Titus dashes forward in a blink, knocking down enemies in its path.
 
 -   This move may be used twice or more.
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤓ Knockdown
 
  | 
 
@@ -97,6 +115,10 @@ A young, Silverback Khan with great stature, he's around twice the height of the
 -   This move can be easily avoided by jumping.
 -   Titus is most likely to follow up with Warp Kick if this move is used.
 
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -110,6 +132,11 @@ A young, Silverback Khan with great stature, he's around twice the height of the
 -   This move is most commonly used when the player is far away from him, especially if he landed moves like Commander's Whirlthrow or Worldshattering Smackdown.
 -   This move may be used twice or more, and is more dangerous as the player will be constantly ragdolled and Dazed.
 
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
  | 
 
  |
@@ -121,6 +148,10 @@ A young, Silverback Khan with great stature, he's around twice the height of the
  | Titus summons three orbs of white lightning that lock onto the nearest opponent. If they are struck by this, they will be held in the air for a short time.
 
 -   Titus will only use this move in his second phase.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 

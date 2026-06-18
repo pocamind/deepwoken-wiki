@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 215414
+revid: 215783
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
@@ -23,20 +23,20 @@ Equipment is a type of item usually found in chests, but can also be exchanged f
 
 There are 7 different types of equipment: Head, Arms, Legs, Torso, Face, Ears, and Rings.
 
-Most equipment comes with innate stats that always appear, for example: **+1 Posture** for the Star Dusters or **+8 Health** from an Authority Helm. Some can even have Talents (These Talents cannot be to meet Talent requirements, and they do not grant the Talent's stat bonuses(e.g. you cannot use Mercenary's Boots' Endurance Runner to obtain Conditioned Runner, nor will this equipment grant any Passive Agility)). Only some Head, Legs, Arms and Relics Equipments have Talents. Talents granted by equipment do not stack with their regular variants. _Innate stats are displayed in grey_, and _Talents are displayed in light purple_.
+Most equipment comes with innate stats that always appear, for example: **+1 Posture** for the Star Dusters or **+8 Health** from an Authority Helm. Some can even have Talents (These Talents cannot be to meet Talent requirements, and they do not grant the Talent's stat bonuses(e.g. you cannot use Mercenary's Boots' Endurance Runner to obtain Conditioned Runner, nor will this equipment grant any Passive Agility)). Talents granted by equipment do not stack with their regular variants. _Innate stats are displayed in grey_, and _Talents are displayed in light purple_.
 
 By wearing all equipment within a Set, you may be eligible to obtain the equipment's Set Talent; an additional Talent that is exclusive to that Set. To make up for the Set Talents being exclusive and requiring you to wear equipment that otherwise might not be that good, the Set Talents are very powerful, but niche and specific. Not all equipment sets have a Set Talent. _Set Talents are displayed in blurple_.
 
 ## Pips
 
-All equipment (with few exceptions), when obtained, will roll for random stats. These random stats are dictated by Pips, indicated at the bottom right of the tooltip and at the bottom of the tool. These Pips represent the bonus stats of an item and what amount of the stat they grant.  
+All equipment, when obtained, will roll for random stats in the form of Pips, indicated at the bottom right of the tooltip and at the bottom of the tool. These Pips represent the bonus stats of an item and what amount of the stat they grant. The total amount of Pips an item can have is dictated by their amount of Quality stars and thr Innate Pips the equipment item has, which is a set value per-equipment.  
 All Pips are displayed in order of rarity, which is: Common, Uncommon, Rare, and Legendary
 
 Pips are rolled with stat diversity, requiring that at least two different stats are present, meaning equipment purely consisting of one stat are impossible (bugged or old equipment will be rerolled when equipped). This rule is only applied to equipment that has **3** or more pips.
 
 Pips can be rerolled with a [Armorer's Needle](<Armorer's_Needle.md>) or [Gilded Needle](Gilded_Needle.md). The Armorer's Needle will change a Pip of choice into a different, random stat (e.g. Health -> Ether), while the Gilded Needle will allow you to choose what the Pip changes to.
 
-Every equipment item you come across has a chance to have quality stars. Quality stars on an equipment item will grant them additional Pips, with the amount of pips and the pip types given depending on how many quality stars the equipment item has (see below). You can add quality stars to a pre-existing equipment item by using the [Forge Needle](Forge_Needle.md).
+Every equipment item you come across has a chance to have quality stars. Quality stars on an equipment item will grant them additional Pips, with the amount of Pips and the Pip types given depending on how many quality stars the equipment item has (see below). You can add quality stars to a pre-existing equipment item by using the [Forge Needle](Forge_Needle.md).
 
 Additionally, Head, Legs, and Arms equipment gain +1 Health for every quality star they have. Face, Ears, Torso, and Rings equipment cannot have more than two quality stars.
 
@@ -1334,7 +1334,8 @@ _+Talent: **[Berserker](Cut_Content.md#berserker)**_
 | File:Ether Refined Mantle.png | [Ether Refined Mantle](Ether_Refined_Mantle.md)  
 (**Styles**)  
 (**Set**)  
-(**Unique**) | _+7 Health_
+(**Unique**)  
+(**Cloth Physics**) | _+7 Health_
 
 +1 Rare Pip  
 +2 Legendary Pips  
@@ -2748,7 +2749,7 @@ _+Talent: [**Robber Baron**](Talents.md#robber-baron)_
 
  | N/A |
 |  | [Jadeite Megalodaunt](Jadeite_Megalodaunt.md)  
-(**Relic**)  
+(**Legendary**)  
 (**Cloth Physics**) | +2 Legendary Pips
 
 _+Talent: [**Good Luck Charm**](Talents.md#good-luck-charm)_  
@@ -2782,7 +2783,8 @@ _+Talent: [**Elegy of Light**](Talents.md#elegy-of-light)_
 [Choker](#maljuror-choker) & [Jougs](#maljuror-jougs) |
 |  | [Mantle of Enmity](Mantle_of_Enmity.md)  
 (**Set**)  
-(**Relic**) | +1 Rare Pip
+(**Relic**)  
+(**Cloth Physics**) | +1 Rare Pip
 
 _+Talent: [**Heartwing Beat**](Talents.md#heartwing-beat)_  
 **Requires Power 12**
@@ -3421,7 +3423,12 @@ _+2% Physical Armor_
 
  |
 |  | [Charged Ring](Charged_Ring.md)  
-(**Legendary**) | Reduces the charges required to proc Crystal Explosions and Surge Overloads from 6 to 5. |
+(**Legendary**) | Reduces the charges required to proc Crystal Explosions and Surge Overloads from 6 to 5.
+
+  
++1 Rare Pip
+
+ |
 |  | [Cryptwaker's Ring](<Cryptwaker's_Ring.md>)  
 (**Legendary**) | Buff the health of any mobs you spawn with Parasol's Blight. Bonekeepers also now have a chance to spawn from your Parasol's Blight.
 

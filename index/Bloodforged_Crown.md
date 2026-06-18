@@ -1,6 +1,6 @@
 ---
 title: Bloodforged Crown
-revid: 209815
+revid: 215983
 source: https://deepwoken.fandom.com/wiki/Bloodforged_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Ornaments, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -23,6 +23,8 @@ categories: [Equipment, Head, Ornaments, Equipment with Talents, "Equipment with
 | pass down | Yes |
 | obtainment | Chaser, Scholar of the Crimson Contract |
 | description | ... |
+
+Variants: [Infused Bloodforged Crown](Infused_Bloodforged_Crown.md) · [The No-Life King's Crown](<The_No-Life_King's_Crown.md>)
 
 ## Description
 

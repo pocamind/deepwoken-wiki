@@ -1,6 +1,6 @@
 ---
 title: Taiga
-revid: 192001
+revid: 215798
 source: https://deepwoken.fandom.com/wiki/Taiga
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
@@ -78,7 +78,7 @@ Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the
 </tbody>
 </table>
 
-**Seneschal / Handler / Operator:**
+**Division Maxed:**
 
 <table>
 <tbody>

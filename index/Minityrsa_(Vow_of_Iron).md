@@ -1,6 +1,6 @@
 ---
 title: Minityrsa (Vow of Iron)
-revid: 201467
+revid: 215877
 source: https://deepwoken.fandom.com/wiki/Minityrsa_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages]

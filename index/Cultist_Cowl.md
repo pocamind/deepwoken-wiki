@@ -1,6 +1,6 @@
 ---
 title: Cultist Cowl
-revid: 209872
+revid: 215929
 source: https://deepwoken.fandom.com/wiki/Cultist_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Cowls, Equipment with Talents, Equipment with Exclusive Talents]

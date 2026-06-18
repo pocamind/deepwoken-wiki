@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 210996
+revid: 216017
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats, Humanoids with Unobtainable Outfits, Enemies]
@@ -15,6 +15,8 @@ categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats, 
 | weapon | Soulwrought Axe |
 | moves | Axe Swings, Critical, Feint, Golden Tornado, Gilded Rushdown, Aureate Flourish, Gilded Left, Glowing Slashes, Ruler's Rush, Three Swing Cleave, Pasmarkintini, Sparkle Blitz, Rodent Pounce, Rites of the Rat, King's Might: Glistening Crush |
 | affiliation | The Golden Rats |
+
+Variants: [Dravik, the Rat King (NPC)](<Dravik,_the_Rat_King_(NPC).md>)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

@@ -1,6 +1,6 @@
 ---
 title: Petris
-revid: 213253
+revid: 215836
 source: https://deepwoken.fandom.com/wiki/Petris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the First Layer]
@@ -14,6 +14,8 @@ categories: [Etrean NPCs, Pathfinder Exclusive, Individuals with He/him pronouns
 | aspect | Etrean |
 | pronouns | He/him[1] |
 | location | The City of the Drowned |
+
+Variants: [Petris (Vow of Iron)](<Petris_(Vow_of_Iron).md>)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

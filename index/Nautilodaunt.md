@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 213377
+revid: 215815
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -15,6 +15,8 @@ categories: [Monsters]
 | locations | First Layer, The City of the Drowned, The Diluvian Mechanism |
 
 _For the stronger variant that utilizes Thundercall, see [Fury Nautilodaunt](Fury_Nautilodaunt.md)._
+
+Variants: [Fury Nautilodaunt](Fury_Nautilodaunt.md) · [Nautilodaunt Officiate](Nautilodaunt_Officiate.md)
 
 “ ...Denizens of Scyphozia, Nautilodaunts are a chilling reminder that those of the Deep are not simply mindless monsters, but can possess startling intelligence. ”
 
@@ -50,6 +52,10 @@ Their skill and strength are even recognized by the [Voices of the Depths](Voice
 
 -   These have long hitstun with very little delay between each hit, **do not** attempt to retaliate or parry immediately after being hit, as you will only be interrupted again. Instead, let the Nautilodaunt hit you two more times before attempting to parry its next punch.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -57,6 +63,10 @@ Their skill and strength are even recognized by the [Voices of the Depths](Voice
 (★★☆)
 
  | Nautilodaunt's punches randomly lead into a kicking flourish, forcing the opponent backwards. They typically close the distance created for another attack by powerwalking, sliding towards you, or using **Flip-Kick**.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -68,6 +78,11 @@ Their skill and strength are even recognized by the [Voices of the Depths](Voice
 
 -   This is most commonly used to close the distance between targets that are at a higher elevation than it; often being used after Grand Stomp.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⟡ Movement
+
  |
 | 
 
@@ -78,9 +93,13 @@ Their skill and strength are even recognized by the [Voices of the Depths](Voice
 
 _Uses Telegraph_
 
-[ParryTelegraph](Combat_Mechanics.md#cyan)
+[ParryTelegraph](Combat_Mechanics.md#parry)
 
 Parry
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -95,9 +114,13 @@ Parry
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  |
 | 
@@ -109,6 +132,9 @@ Dodge
 
 -   If the Nautilodaunt feints and you whiff your parry, **dodge** the next attack instead of attempting to parry it.
 
+-   «» Misc.
+-   ☕︎ Harmless
+
  |
 | 
 
@@ -116,6 +142,9 @@ Dodge
 (★☆☆)
 
  | If hit by any move that utilizes the Song (such as a Mantra, certain Resonances, or a Vent from the player), the Nautilodaunt will near-completely negate the damage of said Mantra. This can happen even during other moves.
+
+-   «» Misc.
+-   ☕︎ Harmless
 
  |
 

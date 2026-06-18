@@ -1,6 +1,6 @@
 ---
 title: Caster Fur Boots
-revid: 215174
+revid: 215915
 source: https://deepwoken.fandom.com/wiki/Caster_Fur_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]

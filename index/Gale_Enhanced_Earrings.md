@@ -1,6 +1,6 @@
 ---
 title: Gale Enhanced Earrings
-revid: 210341
+revid: 215966
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -24,7 +24,7 @@ categories: [Equipment, Ears, Craftable, Equipment with Talents, Equipment with 
 | obtainment | Crafting 1 Emerald Tusk Earrings + 5 Gale Stone + 1 Gale Essence in the Lost Forge |
 | description | Putting these on, you feel as if you are light as a cloud. |
 
-Variants: [Emerald Tusk Earrings](Emerald_Tusk_Earrings.md)
+Variants: [Emerald Tusk Earrings](Emerald_Tusk_Earrings.md) · [Gale Master's Earrings](<Gale_Master's_Earrings.md>)
 
 ## Description
 

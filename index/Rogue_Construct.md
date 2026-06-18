@@ -1,6 +1,6 @@
 ---
 title: Rogue Construct
-revid: 206364
+revid: 215858
 source: https://deepwoken.fandom.com/wiki/Rogue_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -38,6 +38,10 @@ It can be tipped over, so if you have [Grand Javelin](Thundercall.md#grand-javel
 
 -   Can insta-grip/insta-execute
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -52,9 +56,13 @@ It can be tipped over, so if you have [Grand Javelin](Thundercall.md#grand-javel
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  | 
 
@@ -67,6 +75,9 @@ Dodge
  | The Construct screams, signifying that **Meteor Punch** is off cooldown and can be used again.
 
 -   Stay cautious of the Meteor Punch attack after he uses this move.
+
+-   ☕︎ Harmless
+-   «» Misc.
 
  | 
 
@@ -81,6 +92,10 @@ Dodge
 -   Deals roughly 200 damage total.
 -   Insta-grips/insta-executes.
 
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+
  | 
 
  |
@@ -92,6 +107,11 @@ Dodge
  | Used alongside 'Stomp', spawns a few temporary trees within 1 second, allowing it to climb some short walls.
 
 -   You cannot walk through some of the tree's leaves.
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   ☕︎ Harmless
 
  | 
 

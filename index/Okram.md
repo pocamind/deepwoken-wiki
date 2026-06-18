@@ -1,6 +1,6 @@
 ---
 title: Okram
-revid: 194892
+revid: 215826
 source: https://deepwoken.fandom.com/wiki/Okram
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs, Individuals with unspecified pronouns]

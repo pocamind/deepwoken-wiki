@@ -1,6 +1,6 @@
 ---
 title: Gudrin
-revid: 195863
+revid: 215910
 source: https://deepwoken.fandom.com/wiki/Gudrin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Divers, Reputation]
@@ -15,6 +15,8 @@ categories: [Celtor NPCs, Individuals with They/them pronouns, Pathfinder Exclus
 | pronouns | They/them |
 | location | First Layer |
 | affiliation | The Divers |
+
+Variants: [Trafalgar](Trafalgar.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

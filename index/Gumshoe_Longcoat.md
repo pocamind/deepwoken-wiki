@@ -1,6 +1,6 @@
 ---
 title: Gumshoe Longcoat
-revid: 215220
+revid: 215909
 source: https://deepwoken.fandom.com/wiki/Gumshoe_Longcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Coats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -26,6 +26,8 @@ categories: [Equipment with Styles, Equipment, Arms, Coats, Equipment with Talen
 | pass down | Yes |
 | obtainment | Chests From:, Songseeker Wilds, MinityrsaDropped From:, Dread Serpent |
 | description | ... |
+
+Variants: [Prosperous Gumshoe Longcoat](Prosperous_Gumshoe_Longcoat.md)
 
 ## Description
 

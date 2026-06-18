@@ -1,6 +1,6 @@
 ---
 title: Necrotic Demon Horns
-revid: 210704
+revid: 215818
 source: https://deepwoken.fandom.com/wiki/Necrotic_Demon_Horns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Horns, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -24,7 +24,7 @@ categories: [Equipment, Head, Horns, Craftable, Equipment with Talents, Equipmen
 | obtainment | Crafting:, 1 Aazel's Horns + 1 Necrotic Membrane at the Lost Forge |
 | description | An otherworldly set of faux horns. Faint scratches on the back spell 'Aazel', though the writing is weathered almost beyond recognition. Whoever wore these must have long since drowned. Strangely, they're warm to the touch... |
 
-Variants: [Aazel's Horns](<Aazel's_Horns.md>)
+Variants: [Aazel's Horns](<Aazel's_Horns.md>) · [Flame Demon Horns](Flame_Demon_Horns.md)
 
 ## Description
 

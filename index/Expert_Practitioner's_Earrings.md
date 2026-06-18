@@ -1,6 +1,6 @@
 ---
 title: "Expert Practitioner's Earrings"
-revid: 211692
+revid: 215946
 source: https://deepwoken.fandom.com/wiki/Expert_Practitioner's_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Talents, Equipment with Exclusive Talents]

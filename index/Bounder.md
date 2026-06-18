@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 215017
+revid: 215984
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, The Depths]
@@ -14,6 +14,8 @@ categories: [Monsters, Layer 2, The Depths]
 | attacks | Leap, Slash, Charge |
 | drops | Bounder Claw, Mantra Modifiers |
 | challenges | -- Bounder --, Bounder Slayer I - Slay 10.Reward: +5% DMG; +2.5% RES, Bounder Slayer II - Slay 25.Reward: +5% DMG; +2.5% RES, Bounder Slayer III - Slay 100.Reward: +5% DMG; +2.5% RES |
+
+Variants: [Gallery](Bounder/Gallery.md)
 
 “ Deep gashes creating elegant lines decorate the body. They're beast-like in nature, with an extreme depth to each one. A sense of dread washes over you, almost as if you were in the gaze of a predator. ”
 
@@ -41,9 +43,14 @@ Bounders are comparatively harder to kill than most other monsters in the world 
 
 _Uses Telegraph_
 
-[AvoidTelegraph](Combat_Mechanics.md#skull)
+[AvoidTelegraph](Combat_Mechanics.md#avoid)
 
 Avoid
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   ⤻ Ragdoll
 
  |
 | 
@@ -52,6 +59,10 @@ Avoid
 (★☆☆)
 
  | The Bounder slashes its arms at its prey either once or twice, utilizing their claws to tear through them.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -63,9 +74,15 @@ Avoid
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⟡ Movement
+-   ⤻ Ragdoll
 
  |
 

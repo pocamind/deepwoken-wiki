@@ -1,6 +1,6 @@
 ---
 title: Reinforced Enforcer Plate
-revid: 210766
+revid: 215847
 source: https://deepwoken.fandom.com/wiki/Reinforced_Enforcer_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Plates, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]

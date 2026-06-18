@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 209092
+revid: 215970
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -15,6 +15,8 @@ categories: [Monsters]
 | drops | Rare chance to drop Mantra Modifiers |
 | locations | The Etrean Sea, The Aratel Sea, Voidsea, The Starswept Valley, Minityrsa, Duke Erisia's Manor |
 | challenges | -- Brainsucker --, Beakbuster - Slay 10.Reward: +10% DMG; +5% RES, Cephalorin Champion - Slay 25.Reward: +10% DMG; +5% RES, Chiropterous Conqueror - Slay 100.Reward: +10% DMG; +5% RES |
+
+Variants: [Lavasucker](Lavasucker.md)
 
 “ Cephalorins were some of the first monsters to be noted in historic records, though they were initially described as small bat-like creatures that predated on rodents and poultry. It seems that they've since grown up somewhat, and moved on to larger prey. ”
 
@@ -40,6 +42,10 @@ Being some of the oldest creatures discovered, their common name comes from the 
 
  | Flies up, swoops down and attacks the player.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -49,6 +55,10 @@ Being some of the oldest creatures discovered, their common name comes from the 
 (★☆☆)
 
  | Raises its leg and scratches the player.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 

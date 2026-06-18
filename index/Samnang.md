@@ -1,6 +1,6 @@
 ---
 title: Samnang
-revid: 213513
+revid: 215864
 source: https://deepwoken.fandom.com/wiki/Samnang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs, Quests, Clan Mofisu, Humanoids with Unobtainable Outfits]

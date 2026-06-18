@@ -1,6 +1,6 @@
 ---
 title: Dockson
-revid: 194290
+revid: 215939
 source: https://deepwoken.fandom.com/wiki/Dockson
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Vendors, Individuals with unspecified pronouns]
@@ -14,6 +14,8 @@ categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Easter
 | aspect | Etrean |
 | location | Summer Isle |
 | affiliation | The Summer Company |
+
+Variants: [Porter](Porter.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

@@ -1,6 +1,6 @@
 ---
 title: Nomad Pendant
-revid: 212570
+revid: 215823
 source: https://deepwoken.fandom.com/wiki/Nomad_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -22,6 +22,8 @@ categories: [Equipment, Torso, Necklaces]
 | pass down | Yes |
 | obtainment | Primadon, Titan of the East, First Layer, Saramaed Hollow, Miner's Landing, Heart of Enmity |
 | description | ... |
+
+Variants: [Blessed Nomad Pendant](Blessed_Nomad_Pendant.md)
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Graha
-revid: 208524
+revid: 215912
 source: https://deepwoken.fandom.com/wiki/Graha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Divers, Individuals with unspecified pronouns]
@@ -14,6 +14,8 @@ categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Fir
 | aspect | Vesperian |
 | location | Castle Light |
 | affiliation | The Divers |
+
+Variants: [Stewart](Stewart.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

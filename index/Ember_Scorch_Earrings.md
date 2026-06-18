@@ -1,6 +1,6 @@
 ---
 title: Ember Scorch Earrings
-revid: 210565
+revid: 215976
 source: https://deepwoken.fandom.com/wiki/Ember_Scorch_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -23,6 +23,8 @@ categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Ta
 | pass down | No |
 | obtainment | Crafted w/ 1 Ruby Pendant Earrings + 5 Dying Embers + 1 Blazing Enchant Stone at Lost Forge of Leiuna |
 | description | Wearing these makes you feel a fire in your heart with every swing. |
+
+Variants: [Ruby Scorch Earrings](Ruby_Scorch_Earrings.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

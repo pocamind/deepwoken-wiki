@@ -1,6 +1,6 @@
 ---
 title: Necrotic Cowl
-revid: 214603
+revid: 215817
 source: https://deepwoken.fandom.com/wiki/Necrotic_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Craftable, Equipment, Equipment with Set Bonuses, Head, Equipment with Talents, Equipment with Exclusive Talents]
@@ -25,7 +25,7 @@ categories: [Pathfinder Exclusive, Craftable, Equipment, Equipment with Set Bonu
 | obtainment | Crafting 1 Bloodfeather Cowl + 1 Necrotic Membrane + 1 Parasol Part in the Lost Forge |
 | description | ... |
 
-Variants: [Bloodfeather Cowl](Bloodfeather_Cowl.md)
+Variants: [Bloodfeather Cowl](Bloodfeather_Cowl.md) · [Bloodcurdle Cowl](Bloodcurdle_Cowl.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

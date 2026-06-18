@@ -1,6 +1,6 @@
 ---
 title: Ossified Blood Earrings
-revid: 210679
+revid: 215831
 source: https://deepwoken.fandom.com/wiki/Ossified_Blood_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Earrings, Craftable, Equipment with Talents, Equipment with Exclusive Talents]

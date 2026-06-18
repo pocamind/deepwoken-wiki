@@ -1,6 +1,6 @@
 ---
 title: Morning Star
-revid: 212405
+revid: 215806
 source: https://deepwoken.fandom.com/wiki/Morning_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons, Weapons with Talents]
@@ -36,6 +36,8 @@ categories: [Weapons, Clubs, Medium Weapons, Weapons with Talents]
 | pass down | Yes |
 | obtainment | Crypt of the Unbroken, Starswept Valley, Deep Widow, Lodestar, Chime of Conflict, Dread Serpent, Saramaed Hollow, Voidwalker Bounties |
 | description | ... |
+
+Variants: [Night Star](Night_Star.md)
 
 ## Description
 

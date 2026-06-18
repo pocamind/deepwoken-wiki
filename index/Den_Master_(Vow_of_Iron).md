@@ -1,6 +1,6 @@
 ---
 title: Den Master (Vow of Iron)
-revid: 191398
+revid: 215937
 source: https://deepwoken.fandom.com/wiki/Den_Master_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, Vendors, NPCs]

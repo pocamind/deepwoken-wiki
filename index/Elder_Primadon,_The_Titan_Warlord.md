@@ -1,6 +1,6 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 215417
+revid: 216015
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters, Bosses]
@@ -15,6 +15,8 @@ categories: [Pathfinder Exclusive, Monsters, Bosses]
 | drops | 1 Relic Chest, 8 Chests (see loot table), 3 Knowledge, 2 Crowns, Primadon Pelt (direct drop), Primal Slab (direct drop) |
 | locations | Monkey's Paw |
 | challenges | -- Primadon, Titan of the East --, The Missing Link - Slay 10.Reward: +30% DMG; +15% RES |
+
+Variants: [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -53,6 +55,10 @@ Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned
 
  | Elder Primadon will raise his right foot and stomps after a delay.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -64,6 +70,10 @@ Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned
 -   This move can be parried, but it's much easier to run away given how long he winds up the move for.
 -   If Level 5 Prediction is used on this move it will deal about 9-10% of Elder Primadon's maximum health.
 
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+
  |
 | 
 
@@ -71,6 +81,10 @@ Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned
 (★★☆)
 
  | Elder Primadon will raise his left foot, eventually stomping three consecutive times.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -81,6 +95,10 @@ Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned
  | Elder Primadon will raise his left foot, eventually stomping six consecutive times.
 
 -   This move's stomps will be at a higher pitch, making it possible to differentiate from his triple stomp.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -93,6 +111,11 @@ Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned
 -   Elder Primadon can aim this move to hit people above him.
 -   Has a variable wind-up.
 
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
  |
 | 
 
@@ -103,9 +126,14 @@ Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#purple)
+[HighPostureTelegraph](Combat_Mechanics.md#highposture)
 
 High posture
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ↗ Ragdoll
 
  |
 | 
@@ -119,9 +147,14 @@ High posture
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   blockable?
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 | 
@@ -136,9 +169,13 @@ Dodge
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#purple)
+[HighPostureTelegraph](Combat_Mechanics.md#highposture)
 
 High posture
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -147,6 +184,10 @@ High posture
 (★☆☆)
 
  | Elder Primadon will jump backwards while throwing two rocks at his target.
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -160,9 +201,13 @@ High posture
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   blockable?
+-   § Dodgeable
 
 _**Autogrips**_ |
 | 
@@ -175,6 +220,10 @@ _**Autogrips**_ |
 -   When enraged, Elder Primadon will do attacks slightly quicker, but also leave much less room for attacks in between attacks.
     -   You can still hit Elder Primadon twice with decently fast weapons after his generic kick and after he is finished with a stomp attack.
 
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   dodgeable?
+
  |
 | 
 
@@ -184,6 +233,11 @@ _**Autogrips**_ |
  | Elder Primadon does a stomp, a kick, then a triple stomp in quick succession.
 
 -   When Elder Primadon is enraged, the pause between the stomp, kick and triple stomp is near zero, meaning you can't attack after the first stomp without being kicked.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 | 
@@ -197,6 +251,10 @@ _**Autogrips**_ |
 -   You can block the kick, but this requires relatively high posture. Alternatively, you can roll cancel his punch so a second roll will be available for the kick.
 -   Elder Primadon will have a much longer pause after the kick compared to his other moves even if enraged, allowing for potentially more damage.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -206,6 +264,10 @@ _**Autogrips**_ |
  | Elder Primadon will raise his left foot, eventually stomping once, then feinting the second. Afterwards he will punch.
 
 -   Unlike the regular stomp feint, Elder Primadon will not follow up with a kick if he feints triple stomp.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

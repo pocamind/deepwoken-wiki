@@ -1,9 +1,9 @@
 ---
 title: Karita Plating
-revid: 214516
+revid: 215986
 source: https://deepwoken.fandom.com/wiki/Karita_Plating
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Weapons, Weapons with Unique Criticals, Weapons with Talents, "Core-Attribute based weapons", Fists, Justicars, Legendary Weapons, Weapons with multiple Criticals]
+categories: [Pathfinder Exclusive, Weapons, Weapons with Unique Criticals, Weapons with Talents, "Core-Attribute based weapons", Fists, Justicars, Legendary Weapons, Weapons with multiple Criticals, Jus Karita Weapons]
 ---
 
 # Karita Plating

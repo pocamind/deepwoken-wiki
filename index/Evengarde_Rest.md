@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 211311
+revid: 215945
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Quests, Etrea, Bosses, NPCs located in the Etrean Luminant, Maestros of the Vigils]
@@ -16,6 +16,8 @@ categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive
 | pronouns | He/him |
 | location | Temple of the Blade |
 | affiliation | Etrea |
+
+Variants: [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) · [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

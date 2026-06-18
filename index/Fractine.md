@@ -1,6 +1,6 @@
 ---
 title: Fractine
-revid: 213880
+revid: 215956
 source: https://deepwoken.fandom.com/wiki/Fractine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Legendary Weapons, Weapons with multiple Criticals]
@@ -35,6 +35,8 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Core-Attribut
 | pass down | Yes |
 | obtainment | Voidsea Events, Moon's Eyrie, Semblance, Dread Serpent |
 | description | Ill-fated blade of void, once whole but nevermore., Bound through Vow to the soul of a former wielder; soul now claimed by the void, shattered, fragments; through Vow, blade now fractured remnant; semblance of that which once claimed it. |
+
+Variants: [Ferractine](Ferractine.md)
 
 ## Description
 

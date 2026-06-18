@@ -1,6 +1,6 @@
 ---
 title: Seraphina
-revid: 201413
+revid: 215871
 source: https://deepwoken.fandom.com/wiki/Seraphina
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -13,6 +13,8 @@ categories: [Capra NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in th
 | name | Seraphina |
 | aspect | Capra |
 | location | Etris Docks |
+
+Variants: [Cheruba](Cheruba.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

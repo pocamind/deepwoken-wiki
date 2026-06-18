@@ -1,6 +1,6 @@
 ---
 title: "Justicar's Armor"
-revid: 209654
+revid: 215989
 source: https://deepwoken.fandom.com/wiki/Justicar's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, Justicars, Outfits with Talents, Outfits with Exclusive Talents]
@@ -43,7 +43,7 @@ This Outfit has 2800 durability and grants +30% Physical resistance ResistanceBl
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 33.5% Blunt ResistanceBlunt, 30% Slash ResistanceSlash, 33.5% Frostdraw [ResistanceFrostdraw](Frostdraw.md), 33.5% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 
-The [The Path, Unveiled](Talents.md#the-path-unveiled) Talent increases your [Jus Karita](Jus_Karita.md)/[Anklets of Alsin](Anklets_of_Alsin.md) damage by 10%.
+The [The Path, Unveiled](Talents.md#the-path-unveiled) Talent grants a 10% damage buff to your Jus Karita Weapons.
 
 ## Trivia
 

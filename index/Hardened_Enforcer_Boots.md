@@ -1,6 +1,6 @@
 ---
 title: Hardened Enforcer Boots
-revid: 213299
+revid: 215903
 source: https://deepwoken.fandom.com/wiki/Hardened_Enforcer_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -25,6 +25,8 @@ categories: [Pathfinder Exclusive, Equipment, Legs, Boots, Equipment with Set Bo
 | pass down | No |
 | obtainment | Crafted with 1 Enforcer Boots + 1 Enmity's Armor Piece + 1 Ethereal Bone Dust at the Lost Forge |
 | description | ... |
+
+Variants: [Reinforced Enforcer Boots](Reinforced_Enforcer_Boots.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

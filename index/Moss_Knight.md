@@ -1,6 +1,6 @@
 ---
 title: Moss Knight
-revid: 204573
+revid: 215809
 source: https://deepwoken.fandom.com/wiki/Moss_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Monsters, Knights]
@@ -17,7 +17,7 @@ notices:
 | drops | ?? |
 | locations | Bluster Rapids, The Starswept Valley |
 
-Variants: [Stone Knight](Stone_Knight.md)
+Variants: [Stone Knight](Stone_Knight.md) · [Star Knight](Star_Knight.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
@@ -39,6 +39,10 @@ Moss Knights a type of [Stone Knight](Stone_Knight.md), spawning along [The Star
 
 -   **Insta-executes the player if health is low.**
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |  |
 | 
 
@@ -51,9 +55,14 @@ Moss Knights a type of [Stone Knight](Stone_Knight.md), spawning along [The Star
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |  |
 | 
@@ -64,6 +73,10 @@ Dodge
  | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to [Wind Blade](Galebreathe.md#wind-blade).
 
 -   Deals Galebreathe damage.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |  |
 | 
@@ -77,9 +90,14 @@ Dodge
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |  |
 | 
@@ -90,6 +108,11 @@ Dodge
  | Spawns a few temporary trees within 1 second. These trees last for 4 and do not have collisions and just obscure your view. They will make a wood-looking particle when they are about to dissapear.
 
 -   This move is sometimes paired with Terra Eruption.
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   ☕︎ Harmless
 
  |  |
 

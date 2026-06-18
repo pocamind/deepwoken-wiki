@@ -1,6 +1,6 @@
 ---
 title: Corrupted Immortal Helm
-revid: 209864
+revid: 215927
 source: https://deepwoken.fandom.com/wiki/Corrupted_Immortal_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Helmets, Corrupt Equipment, Equipment with Talents, Equipment with Exclusive Talents]

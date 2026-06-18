@@ -1,6 +1,6 @@
 ---
 title: Ferenc
-revid: 199124
+revid: 215951
 source: https://deepwoken.fandom.com/wiki/Ferenc
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs, Reputation, Etrean Royalists, Individuals with unspecified pronouns]
@@ -14,6 +14,8 @@ categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs, Reputation, Etrean Royali
 | aspect | Etrean |
 | location | Isle of Vigils |
 | affiliation | Etrean Royalists |
+
+Variants: [Kazue](Kazue.md) · [Seon](Seon.md) · [Yen](Yen.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

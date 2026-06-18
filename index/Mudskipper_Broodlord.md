@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 213496
+revid: 215811
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -18,6 +18,8 @@ categories: [Monsters]
 
 _This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Mudskipper_(disambiguation).md>)._
 
+Variants: [Gallery](Mudskipper_Broodlord/Gallery.md)
+
 ## Description
 
 A far more powerful and dangerous variant of the [Mudskipper Brute](Mudskipper_Brute.md). They appear more intelligent, capable of using their fellow [Mudskippers](Mudskipper.md) as tools, and are distinguished from their weaker counterparts by their purple hue.
@@ -34,6 +36,10 @@ A far more powerful and dangerous variant of the [Mudskipper Brute](Mudskipper_B
 
  | The Broodlord throws a brutal and powerful punch.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -43,6 +49,10 @@ A far more powerful and dangerous variant of the [Mudskipper Brute](Mudskipper_B
 (★☆☆)
 
  | The Broodlord throws another brutal and heavy blow. Typically used right after Punch.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 
@@ -56,9 +66,14 @@ A far more powerful and dangerous variant of the [Mudskipper Brute](Mudskipper_B
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
-Red
+Dodge
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  | 
 
@@ -79,6 +94,12 @@ _Uses Telegraph_
 
 Dodge
 
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤓ Knockdown
+-   💀 Autogrip
+
  | 
 
  |
@@ -89,6 +110,11 @@ Dodge
 
  | Hurls a [Mudskipper](Mudskipper.md) or [Bloatskipper](Mudskipper.md#bloatskipper) at the opponent. If Mudskipper, it will act as a new summoned enemy. If Bloatskipper, it will explode upon impact.
 
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   \+ Summon
+
  | 
 
  |
@@ -98,6 +124,12 @@ Dodge
 (★☆☆)
 
  | Unleashes a blood-curdling screech that alerts any nearby mobs of your presence, as well as summoning two [Mudskippers](Mudskipper.md) that can be either a [Bloatskipper](Mudskipper.md#bloatskipper) or a [Miniskipper](Mudskipper.md). Two of the same Mudskipper type can spawn as well. Applies anti-heal and deals sanity damage. The scream can be blocked to avoid anti heal.
+
+-   ¤ Debuff
+-   \+ Summon
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 

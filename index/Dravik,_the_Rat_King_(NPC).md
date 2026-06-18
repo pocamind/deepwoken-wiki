@@ -1,6 +1,6 @@
 ---
 title: "Dravik, the Rat King (NPC)"
-revid: 215435
+revid: 216018
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_the_Rat_King_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Deceased characters, The Golden Rats, Humanoids with Unobtainable Outfits]
@@ -18,6 +18,8 @@ categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusiv
 | affiliation | Etrea (formerly), The Golden Rats |
 | death | Killed by a member of the Circle of Honour |
 | deathdate | 1233 CE[2] |
+
+Variants: [Dravik, The Rat King (Boss)](Dravik,_The_Rat_King.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

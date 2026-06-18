@@ -1,6 +1,6 @@
 ---
 title: Armourer Kev
-revid: 201843
+revid: 215994
 source: https://deepwoken.fandom.com/wiki/Armourer_Kev
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority, Humanoids with Unobtainable Outfits]
@@ -22,7 +22,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Armourer Kev is an [Adret](Adret.md) NPC. He is the armorer for [The Central Authority](The_Central_Authority.md)'s garrison in the [Eastern Luminant](Luminants.md) and sells a variety of [Weapons](Weapons.md) related to the faction that are locked behind the [Authority Ensign](Authority_Ensign.md) [Origin](Origins.md).
+Armourer Kev is an [Adret](Adret.md) NPC. He is the armorer for [The Central Authority](The_Central_Authority.md)'s garrison in the [Eastern Luminant](Luminants.md).
+
+Kev sells a variety of [Weapons](Weapons.md) related to the faction that are locked behind the [Authority Ensign](Authority_Ensign.md) [Origin](Origins.md).
 
 ## Location
 
@@ -90,7 +92,7 @@ Armourer Kev is located inside the bottom level of the fortress at [Fort Merit](
 </tbody>
 </table>
 
-**Seneschal / Handler / Operator:**
+**Division Maxed:**
 
 <table>
 <tbody>

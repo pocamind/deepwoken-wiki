@@ -1,6 +1,6 @@
 ---
 title: Cave Master (Vow of Iron)
-revid: 191354
+revid: 215918
 source: https://deepwoken.fandom.com/wiki/Cave_Master_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, Vendors, NPCs]

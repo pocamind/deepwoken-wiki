@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Plate
-revid: 214822
+revid: 215911
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Plates, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -26,6 +26,8 @@ categories: [Equipment with Styles, Equipment, Arms, Plates, Equipment with Tale
 | pass down | Yes |
 | obtainment | Chests from:, Duke Erisia, The Eternal Gale, Miner's Landing, Primadon, Maestro Evengarde Rest, Dread Serpent |
 | description | ... |
+
+Variants: [Reinforced Authority Plate](Reinforced_Authority_Plate.md)
 
 ## Description
 

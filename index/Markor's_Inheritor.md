@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 212503
+revid: 215790
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, "Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Greatswords, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyable Weapons, Heavy Weapons, Weapons with Talents]
@@ -45,6 +45,25 @@ Markor's Inheritor is a [Heavy Greatsword](Weapons.md) that requires 30 HVY and 
 ## Talents
 
 Equipping the Markor's Inheritor grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+Upon landing your weapon critical, **Blade Scholar** procs, swapping your weapon to Fists for 15 seconds. The damage and Swing Speed stats while on the Fist weapon are equal to your Markor's Inheritor, but they scale on your [Intelligence](Attributes.md#int) attribute.
+
+The Swing Speed increase is equal to: 0.85 (Inheritor Swing Speed) + 0.002 × Intelligence investment, capping at 1.05x at 100 Intelligence. You will also gain +2 Intelligence scaling on your weapon while active.
+
+This effect is not refreshable, requiring you to land another critical attack _after_ the effect lands to re-proc it. However, using [Blightsurger](Oath%253A_Blightsurger.md)'s Sovereign State during the effect will extend the prolong the duration of Blade Scholar until your Sovereign State ends.
+
+If you are using [Untrained Fist](Untrained_Fist.md), your weapon and animations will remain as the Inheritor, as Untrained Fist does not have a bare hands variant. This removes a few of thr downsides of this Talent, while also not incurring Untrained Fist's -50% damage passive.
+
+This manually changes your weapon to Fists on proc, setting your stats on each weapon swing. This has a few upsides and downsides;
+
+-   **Upsides**:
+    -   You'll be able to benefit from Fist and Light Weapon Talents while it is active, as well as the Fists PvE effect of increased blunt damage, scaling on the amount of Fists Talents you have.
+-   **Downsides**:
+    -   Because your bare hands cannot be enchanted, your Weapon Enchantment will be disabled while active.
+    -   You cannot proc your Greatsword or Heavy Talents while active.
+    -   Quality star bonuses on your Inheritor will not transfer over to the Fists.
+-   **Other**:
+    -   Your [Silentheart](Oath%253A_Silentheart.md) abilities will change to the Light Weapon ones while this is active. This isnt inherently an upside nor a downside, but keep in mind that these abilities scale on the respective attribute.
 
 ## Critical
 

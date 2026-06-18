@@ -1,6 +1,6 @@
 ---
 title: Gale Enhanced Beads
-revid: 215519
+revid: 215964
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Beads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Craftable, Torso, Equipment with Talents, Equipment with Exclusive Talents]
@@ -26,6 +26,8 @@ categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Craftable, 
 | pass down | No |
 | obtainment | Crafting 1 Monastery Beads + 1 Gale Essence + 1 Windswept Enchant Stone at Lost Forge |
 | description | ... |
+
+Variants: [Hallowed Monastery Beads](Hallowed_Monastery_Beads.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

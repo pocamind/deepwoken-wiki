@@ -1,6 +1,6 @@
 ---
 title: Santen
-revid: 215474
+revid: 216002
 source: https://deepwoken.fandom.com/wiki/Santen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
@@ -58,23 +58,9 @@ Santen is located inside of a building at the edges of [Fort Merit](Fort_Merit.m
 </tbody>
 </table>
 
-**Inquisition Division:**
+**Any Division:**
 
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td><i>*The cartographer shoots you a baleful glare, saluting brusquely.*</i> Perhaps you'd be able to kindly tell your higher-ups that it's possible to illustrate a point on their maps <i>without</i> the use of a dagger? <i>Stabbing</i> at them doesn't make them any more durable, you know!..</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
-
-**Command / Shock Corps Division:**
+**Division Unmaxed:**
 
 <table>
 <tbody>
@@ -83,6 +69,22 @@ Santen is located inside of a building at the edges of [Fort Merit](Fort_Merit.m
 </tr>
 <tr>
   <td><i>*She pauses at your approach, a little stilted.*</i> If Jericho's sent you, [Rank], the map he requested is not done yet. It's really hard to work off amateur field sketches and word-of-mouth to chart some obscure island, so gimme some more time, okay?</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Division Maxed:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*The cartographer shoots you a baleful glare, saluting brusquely.*</i> Perhaps you'd be able to kindly tell your higher-ups that it's possible to illustrate a point on their maps <i>without</i> the use of a dagger? <i>Stabbing</i> at them doesn't make them any more durable, you know!..</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

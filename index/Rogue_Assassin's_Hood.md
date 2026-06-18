@@ -1,6 +1,6 @@
 ---
 title: "Rogue Assassin's Hood"
-revid: 210775
+revid: 215855
 source: https://deepwoken.fandom.com/wiki/Rogue_Assassin's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Hoods, Head, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -27,8 +27,8 @@ categories: [Vow of Iron Exclusive, Equipment, Hoods, Head, Equipment with Talen
 Variants: [Assassin's Hood](<Assassin's_Hood.md>)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 ## Description
 

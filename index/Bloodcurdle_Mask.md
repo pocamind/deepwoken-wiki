@@ -1,6 +1,6 @@
 ---
 title: Bloodcurdle Mask
-revid: 211694
+revid: 215996
 source: https://deepwoken.fandom.com/wiki/Bloodcurdle_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Face, Masks, Equipment with Talents, Equipment with Exclusive Talents]
@@ -17,7 +17,7 @@ categories: [Vow of Iron Exclusive, Equipment, Face, Masks, Equipment with Talen
 | weight | 0.5 |
 | innate stats | +5% Shadow Armor +1 Rare Pip |
 | innate talent | Blood Plague |
-| set | Bloodcurdle Cowl, Bloodcurdle Mask |
+| set | Bloodcurdle Cowl, p |
 | set talent | Bloodless Overdrive |
 | bankable | No |
 | droppable | No |
@@ -26,7 +26,7 @@ categories: [Vow of Iron Exclusive, Equipment, Face, Masks, Equipment with Talen
 | obtainment | TBA |
 | description | ... |
 
-Variants: [Bloodfeather Mask](Bloodfeather_Mask.md)
+Variants: [Bloodfeather Mask](Bloodfeather_Mask.md) · [Necrotic Mask](Necrotic_Mask.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
@@ -34,7 +34,7 @@ This content is not accessible outside of this gamemode.
 
 Bloodcurdle Set
 
-Variants: [Bloodcurdle Cowl](Bloodcurdle_Cowl.md)
+Variants: [Cowl](Bloodcurdle_Cowl.md)
 
 ## Description
 

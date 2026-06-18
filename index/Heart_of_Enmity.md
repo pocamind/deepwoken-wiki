@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 215466
+revid: 215895
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Bosses, Voiced Characters]
@@ -15,6 +15,8 @@ categories: [Pathfinder Exclusive, Bosses, Voiced Characters]
 | drops | Chest, Mantle of Enmity, Chorus of Agonies, Aegis of Enmity, Wartreads of Enmity, Gaunts of Enmity, Fauld of Enmity, Bastions of Enmity, Thrall of Enmity, Heretic's Memento, Dormant Splinter, Etc. (Check Loot Table/Rewards)Direct Drops, Enforcer's Axe, Enforcer Eye, Chorus of Agonies, Enmity's Armor Piece |
 | locations | Cathedral of the Interstice |
 | challenges | -- The Heart of Enmity --, Greater Hatred - Slay 10.Reward: +15% DMG; +7.5% RES |
+
+Variants: [True Heart of Enmity](True_Heart_of_Enmity.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -52,6 +54,8 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 -   They don't have the Enforcer Pull or Whirlwind attacks.
 -   [Carnivore](Talents.md#apex-predator) is disabled against the Servants of Enmity.
 
+-   \+ Summon
+
  | 
 
  |
@@ -67,6 +71,12 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 -   This attack rarely can also be used to attack other outlier players trying to heal, when he bats them the victim can be batted towards another person and collide with them which can end up killing them or the other.
 -   It is best advised to try blocking this attack instead of parrying/dodging as he will punish you for both, you need good posture + the [Ardour](Murmur%253A_Ardour.md) Murmur however.
 
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   𓂘 Grab
+-   ⤻ Ragdoll
+
  | 
 
  |
@@ -76,6 +86,10 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 (★★☆)
 
  | The Heart of Enmity kneels down on one leg and swings his axe twice, dealing significant damage.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 
@@ -89,6 +103,11 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 
 -   The stomp may also be cancelled into Condemnation's Fall, and Sadist's Fury.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
+
  | 
 
  |
@@ -101,6 +120,11 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 
 -   He uses this attack when someone is far from him.
 -   Heart of Enmity doesn't jump into the sky despite the belief, its just a bug.
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   ↻ Undodgeable
+-   ⤻ Ragdoll
 
  | 
 
@@ -120,6 +144,11 @@ _Uses Telegraph_
 
 Avoid
 
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   ✴︎ Pull
+
  | 
 
  |
@@ -129,7 +158,7 @@ Avoid
 -   Enchantment Immunity - The Heart of Enmity is immune to all [Enchantments](Enchantments.md).
 -   Potion Immunity - The Heart of Enmity is immune to all [Potion](Alchemy.md) effects.
 -   **Enmity's Rot - The Heart of Enmity applies a powerful anti-heal on attacks that last for 30 seconds.**
--   **Last Rite - Anytime a player dies a Corrupted Servants of Enmity will spawn possessing 20,000 hp.**
+-   **Last Rite - Any time a player dies a Corrupted Servant of Enmity will spawn, possessing 20,000 hp.**
 
 ## Battle Dialogues
 

@@ -1,6 +1,6 @@
 ---
 title: Hale
-revid: 192082
+revid: 215908
 source: https://deepwoken.fandom.com/wiki/Hale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Vow of Iron Exclusive, NPCs, Vendors, Individuals with unspecified pronouns]

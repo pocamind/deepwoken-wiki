@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Operative Cloak"
-revid: 210752
+revid: 215843
 source: https://deepwoken.fandom.com/wiki/Prophet's_Operative_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Cloaks, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]

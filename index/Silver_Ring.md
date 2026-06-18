@@ -1,6 +1,6 @@
 ---
 title: Silver Ring
-revid: 215348
+revid: 216004
 source: https://deepwoken.fandom.com/wiki/Silver_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -13,7 +13,7 @@ categories: [Equipment, Rings]
 | type | Rings |
 | rarity | Uncommon |
 | selling price | 14 |
-| requirements | N/A |
+| requirements | None |
 | innate stats | +1 Uncommon Pip |
 | bankable | Yes |
 | droppable | Yes |

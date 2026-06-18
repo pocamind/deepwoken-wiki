@@ -1,6 +1,6 @@
 ---
 title: Feathertop Helm
-revid: 214787
+revid: 215950
 source: https://deepwoken.fandom.com/wiki/Feathertop_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Helmets]
@@ -24,6 +24,8 @@ categories: [Equipment with Styles, Equipment, Head, Helmets]
 | pass down | Yes |
 | obtainment | Duke Ishamon Erisia, First Layer, Maestro Evengarde Rest, Dread Serpent, Lodestar, Interluminary Parasol, War Mode, Sea Events, Artifact Turn-ins |
 | description | ... |
+
+Variants: [Sky Warrior Helm](Sky_Warrior_Helm.md)
 
 ## Description
 

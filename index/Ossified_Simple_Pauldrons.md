@@ -1,6 +1,6 @@
 ---
 title: Ossified Simple Pauldrons
-revid: 214111
+revid: 215833
 source: https://deepwoken.fandom.com/wiki/Ossified_Simple_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Arms, Craftable, Pauldrons, Equipment with Talents, Equipment with Exclusive Talents]
@@ -23,6 +23,8 @@ categories: [Pathfinder Exclusive, Equipment, Arms, Craftable, Pauldrons, Equipm
 | pass down | No |
 | obtainment | Crafting 1 Simple Pauldrons + 1 Ethereal Osseous Plate +1 Shiva's Codex in the Lost Forge |
 | description | Either they're of low complexity or someone's in need of a punch. |
+
+Variants: [Super Simple Pauldrons](Super_Simple_Pauldrons.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

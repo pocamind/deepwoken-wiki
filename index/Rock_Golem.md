@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 213925
+revid: 215854
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -16,7 +16,7 @@ categories: [Monsters]
 | locations | Burning Stone Gardens, Upper Erisia |
 | challenges | -- Stonelife Golem --, Pebbleslayer - Slay 10.Reward: +10% DMG; +5% RES, Boulderslayer - Slay 25.Reward: +10% DMG; +5% RES, Mountainslayer - Slay 100.Reward: +10% DMG; +5% RES |
 
-Variants: [Golem](Rock_Golem.md)
+Variants: [Golem Prime](Golem_Prime.md) · [Golem Magma](Golem_Magma.md)
 
 “ One by one, the townsfolk went missing. Every time, great big tracks were left in the mud. The kind his stone men leave. ”
 
@@ -43,11 +43,17 @@ In combat Rock Golems are very hardy, having moderately high health and high sla
 **Rapid Spin**  
 (★☆☆)
 
+-   ResistanceBlunt Blunt
+
  | The golem starts spinning its arms, rapidly dealing low damage.
 
 -   Hits 30 times in total.
 -   Grants autoparry frames.
     -   You can attack the golem through these autoparry frames.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 
@@ -57,13 +63,19 @@ In combat Rock Golems are very hardy, having moderately high health and high sla
 **Laser**  
 (★☆☆)
 
+-   ◯ Typeless
+
  | The golem charges a laser from its core before firing it, creating a small AOE at the point of impact and dealing medium damage.
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  |  |
 | 
@@ -71,15 +83,22 @@ Dodge
 **Stomp**  
 (★☆☆)
 
+-   ResistanceBlunt Blunt
+
  | The golem raises its leg before giving a powerful earthshaking stomp.
 
 -   Auto-grips if low enough
 
 _Uses Telegraph_
 
-[JumpTelegraph](Combat_Mechanics.md#magenta)
+[JumpTelegraph](Combat_Mechanics.md#jump)
 
 Jump
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   ↻ Undodgeable
+-   ↑ Jump-Avoidable
 
  |  |
 | 
@@ -87,7 +106,13 @@ Jump
 **Ground Slam**  
 (★☆☆)
 
+-   ResistanceBlunt Blunt
+
  | The golem brings both of its arms over its head, before quickly slamming them down into a vicious swing.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |  |
 | 
@@ -95,19 +120,28 @@ Jump
 **Uppercut**  
 (★★☆)
 
+-   ResistanceBlunt Blunt
+
  | The golem winds up its arm before quickly swinging it outwards.
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#purple)
+[HighPostureTelegraph](Combat_Mechanics.md#highposture)
 
 High posture
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ↗ Ragdoll
 
  |  |
 | 
 
 **Scream**  
 (★★★)
+
+-   ResistanceBlunt Blunt
 
  | The golem screams, making the ceiling above it drop rubble, dealing high damage if landing on player.
 
@@ -119,9 +153,13 @@ High posture
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ☣ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  | 
 

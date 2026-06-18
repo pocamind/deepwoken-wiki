@@ -1,6 +1,6 @@
 ---
 title: Golem Prime
-revid: 213806
+revid: 216011
 source: https://deepwoken.fandom.com/wiki/Golem_Prime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters]
@@ -16,7 +16,7 @@ categories: [Pathfinder Exclusive, Monsters]
 | locations | Duke Erisia's Manor, The Diluvian Mechanism |
 | challenges | -- Stonelife Golem --, Pebbleslayer - Slay 10.Reward: +10% DMG; +5% RES, Boulderslayer - Slay 25.Reward: +10% DMG; +5% RES, Mountainslayer - Slay 100.Reward: +10% DMG; +5% RES |
 
-Variants: [Golem](Rock_Golem.md)
+Variants: [Rock Golem](Rock_Golem.md) · [Golem Magma](Golem_Magma.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -40,11 +40,17 @@ In combat, Golem Primes are very hardy, having moderately high health and high s
 **Recessive Spin**  
 (★★☆)
 
+-   ResistanceBlunt Blunt
+
  | The golem starts spinning its arms, rapidly dealing medium damage at an insane speed.
 
 -   Hits 40 times in total.
 -   Grants autoparry frames.
     -   You can attack the golem through these autoparry frames.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 
@@ -54,13 +60,19 @@ In combat, Golem Primes are very hardy, having moderately high health and high s
 **Prime Laser**  
 (★★☆)
 
+-   ◯ Typeless
+
  | The golem charges up a red laser before firing it, dealing massive damage in a small AoE.
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  | 
 
@@ -70,13 +82,19 @@ Dodge
 **Laser Barrage**  
 (★★★)
 
+-   ◯ Typeless
+
  | The golem charges up a laser before firing a barrage of them, dealing high damage rapidly.
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  | 
 
@@ -85,6 +103,8 @@ Dodge
 
 **Stomp**  
 (★☆☆)
+
+-   ResistanceBlunt Blunt
 
  | The golem raises its leg before giving a powerful earthshaking stomp.
 
@@ -96,13 +116,24 @@ _Uses Telegraph_
 
 Jump
 
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   ↻ Undodgeable
+-   ↑ Jump-Avoidable
+
  |  |
 | 
 
 **Ground Slam**  
 (★☆☆)
 
+-   ResistanceBlunt Blunt
+
  | The golem brings its arms over its head, before quickly slamming them down into the ground in a vicious swing.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |  |
 | 
@@ -110,19 +141,28 @@ Jump
 **Uppercut**  
 (★★☆)
 
+-   ResistanceBlunt Blunt
+
  | The golem winds up its arm behind it, before quickly swinging it outwards.
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#purple)
+[HighPostureTelegraph](Combat_Mechanics.md#highposture)
 
 High posture
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ↗ Ragdoll
 
  |  |
 | 
 
 **Scream**  
 (★★★)
+
+-   ResistanceBlunt Blunt
 
  | The golem screams, making the ceiling above it drop rubble, dealing high damage if the rubble lands on a player.
 
@@ -133,9 +173,13 @@ High posture
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ☣ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Fur Boots
-revid: 215177
+revid: 215961
 source: https://deepwoken.fandom.com/wiki/Fur_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Boots]
@@ -26,6 +26,8 @@ categories: [Equipment with Styles, Equipment, Legs, Boots]
 | pass down | Yes |
 | obtainment | Chests from:, Erisia, Minityrsa, Lodestar, Songseeker Wilds, Starswept Valley, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, War Mode, Authority Ensign Missions |
 | description | ... |
+
+Variants: [Caster Fur Boots](Caster_Fur_Boots.md)
 
 ## Description
 

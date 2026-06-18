@@ -1,6 +1,6 @@
 ---
 title: Porter
-revid: 206065
+revid: 215840
 source: https://deepwoken.fandom.com/wiki/Porter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Vow of Iron Exclusive, NPCs, NPCs located in the Eastern Luminant, Vendors, Individuals with unspecified pronouns]

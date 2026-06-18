@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard"
-revid: 204575
+revid: 215874
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Enemies]
@@ -15,6 +15,8 @@ categories: [Vow of Iron Exclusive, Enemies]
 | weapon | The Endless Wave |
 | moves | High Cleave, Crush & Rend, Graceful Slicer, Severing Flourish |
 | affiliation | Etrea |
+
+Variants: [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
@@ -39,6 +41,11 @@ Their attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined 
 
  | The Shogun performs a simple upward slash toward the right with their blade. This has no highlight, and acts as a regular attack.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   💀 Autogrip
+
  | 
 
  |
@@ -49,6 +56,11 @@ Their attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined 
 (★☆☆)
 
  | The Shogun kicks forward, obscuring themselves partially with dust, before swinging downward at the player. This has no highlight, and acts as a regular attack.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   💀 Autogrip
 
  | 
 
@@ -61,6 +73,11 @@ Their attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined 
 
  | The Shogun highlights Green, leaping backwards a fair distance before slashing twice in opposing directions, moving them towards the player.
 
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   💀 Autogrip
+
  | 
 
  |
@@ -71,6 +88,11 @@ Their attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined 
 (★★☆)
 
  | The Shogun highlights Red, spinning around into two devastating slashes that cannot be parried. The first slash is very delayed, and a roll cancel must be employed to avoid the attack completely.
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   💀 Autogrip
 
  | 
 
