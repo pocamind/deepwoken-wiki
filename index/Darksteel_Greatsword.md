@@ -1,9 +1,9 @@
 ---
 title: Darksteel Greatsword
-revid: 212587
+revid: 215508
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Weapons with Unique Criticals, Alloyable Weapons, Heavy Weapons, Weapons of The Ignition Union]
+categories: [Pathfinder Exclusive, Weapons, Greatswords, Weapons with Unique Criticals, Alloyable Weapons, Heavy Weapons, Weapons of The Ignition Union]
 ---
 
 # Darksteel Greatsword
@@ -35,7 +35,9 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Alloyable Weap
 | obtainment | Maestro Evengarde Rest, Saramaed Hollow, Darksteel Pirates, First Layer, Heart of Enmity, Duke Ishamon Erisia, Lodestar, The Doom of Caeranthil, Tower Event, Chime of Conflict, War Mode, Chaser, Scholar of the Crimson Contract, Interluminary Parasol, Moon's Eyrie, Dread Serpent, The Understrand, Pure Astruline turn-in, Sold at Miner's Landing for 200 , Sold at The Floating Keep Blacksmith for 200 Alloyed:, Alloying a Darksteel Greatsword, Dread Serpent, Heart of Enmity, Interluminary Parasol, Lodestar, The Doom of Caeranthil, Blacksteel Pirate Captain, Sold by Traan Zakshun for 650 |
 | description | Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep. |
 
-Template:ModeCounterpart
+**[Pathfinder](Pathfinder.md) Exclusive**  
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 215020
+revid: 215541
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -372,10 +372,11 @@ Not all unblockable attacks have this indicator.
 -   Default [Greatsword](Greatswords.md) and Club criticals (White)
 -   [Fire Blade](Flamecharm.md#fire-blade) at level 5 (Orange)
 -   [Ice Smash](Frostdraw.md#ice-smash) at level 5 (Light Blue)
+-   [Thunder Kick](Thundercall.md#thunder-kick) at level 5 (Yellow)
 -   [Iron Slam](Ironsing.md#iron-slam) at level 5 (Grey)
 -   [Kanabo](Kanabo.md) running critical (White)
+-   [Bloodfouler](Bloodfouler.md) critical (White)
 -   [Duskguard Axe](Duskguard_Axe.md) critical (White)
--   [Thunder Kick](Thundercall.md#thunder-kick) at level 5 (Yellow)
 
 **Monster Attacks**
 

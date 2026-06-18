@@ -1,9 +1,9 @@
 ---
 title: The Lord Regent
-revid: 214316
+revid: 215511
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Individuals with He/him pronouns, NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant, Heads of government and state, Humanoids with Unobtainable Outfits]
+categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant, Heads of government and state, Humanoids with Unobtainable Outfits]
 ---
 
 # The Lord Regent
@@ -17,7 +17,9 @@ categories: [Etrean NPCs, Individuals with He/him pronouns, NPCs, Quests, Etrea,
 | location | Etris Palace |
 | affiliation | The Ministry, Etrea |
 
-Template:ModeCounterpart
+**[Pathfinder](Pathfinder.md) Exclusive**  
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 “ Ah, perfect. All I needed was for you to secure the area. Your services will no longer be needed. ”
 

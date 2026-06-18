@@ -1,9 +1,9 @@
 ---
 title: Starfield Grove
-revid: 213407
+revid: 215518
 source: https://deepwoken.fandom.com/wiki/Starfield_Grove
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant, Voidzones]
+categories: [Locations, Locations in the Eastern Luminant, Voidzones]
 ---
 
 # Starfield Grove
@@ -15,8 +15,6 @@ Voidzone
 The beauty of the valley, the Star Tree stands tall.
 
   
-
-File:Cavern thingy yes.png
 
 **Starfield Grove** is a location in _Deepwoken_. It is a [Voidzone](Voidzones.md) island found in the East Luminant.
 
@@ -32,5 +30,4 @@ A map can be found at [Maps#Surface](Maps.md#surface).
 
 ## Trivia
 
--   Please add image and information if you have any.
 -   This area is one of three areas that contain a Star Tree, along with the [Starfield Veldt](Starfield_Veldt.md) and [Starfield Tundra](Starfield_Tundra.md).

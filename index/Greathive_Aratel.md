@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 213445
+revid: 215512
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Territory of The Hive]
@@ -24,18 +24,21 @@ Greathive Aratel is a city built in a giant tree on the sea. Inside this tree is
 
 To enter Greathive Aratel, you must have:
 
--   washed your face at the [Lightkeeper Temple](Lightkeeper_Temple.md) (requires you to be at least [Power](Power.md) 10 to wash your face) on any character or slot, and
+-   washed your face (requires you to be at least [Power](Power.md) 10 to wash your face) on any character or slot, and
 -   have visited the [Eastern Luminant](Luminants.md#etrean-and-eastern-luminants) at least once on your current character.
 
-Once you meet these requirements, you will be able to use the Greathive Fountains found in: [The Lordsgrove](The_Lordsgrove.md); [The Hidden Village](The_Hidden_Village.md); left of [Etris Palace](Etris_Palace.md) when entering [The King's Garden](<The_King's_Garden.md>) in [Etris](Etris.md); behind a tree near [Friid](Friid,_Master_of_Gale.md) at the [Isle of Vigils](Isle_of_Vigils.md).
-
-Alternatively, you can [sail](Ships_&_Sailing.md) to Greathive Aratel, but getting to the top requires mobility mantras, clever usage of [gliders](Gliders.md), lots of parkour and jumping on the heads of players. If you washed your face at the Lightkeeper Temple and have already invoked the Greathive fountain found in The Lordsgrove, you can sail to the shipyard of the Greathive Aratel and use the fountain in there in order to get teleported up to the entrance floor of Greathive Aratel.
+Alternatively, you can [sail](Ships_&_Sailing.md) to Greathive Aratel, but getting to the top requires mobility mantras, clever usage of [gliders](Gliders.md), lots of parkour and jumping on the heads of players. If you washed your face and have already invoked the Greathive fountain found in The Lordsgrove, you can sail to the shipyard of the Greathive Aratel and use the fountain in there in order to get teleported up to the entrance floor of Greathive Aratel.
 
 ## Contents
 
-Greathive Aratel is split up into 4 floors and will be categorized as such.
+Greathive Aratel is split up into 4 floors:
 
-### Entrance
+-   Unnamed first floor
+-   Root Plaza
+-   Heart Plaza
+-   Canopy Plaza
+
+### First Floor
 
 There is a Heat Stone resting spot and Fountains functioning as fast travel.
 
@@ -43,34 +46,24 @@ Hive Fountains
 
 #### Greathive Fountains
 
--   The player can find five of [The Hive](The_Hive.md)'s fountains within Greathive Aratel.
-    -   The left will send you to [Summer Isle](Summer_Isle.md).
-    -   The middle-left will send you to [Miner's Landing](<Miner's_Landing.md>).
-    -   The middle will send you to [The Lordsgrove](The_Lordsgrove.md).
-    -   The middle-right will send you to [Ancient Rotlands](Ancient_Rotlands.md).
-    -   The right will send you to [Upper Erisia](Upper_Erisia.md).
-    -   Fountains have a cooldown of 30 seconds, unless you are teleporting in from the [Etrean Luminant](Luminants.md#etrean-and-eastern-luminants), where there is no initial cooldown.
--   Additionally, there are fountains around the [Etrean Luminant](Luminants.md#etrean-and-eastern-luminants) which allow you to teleport back to Greathive Aratel:
+-   Five of [The Hive](The_Hive.md)'s fountains can be found within Greathive Aratel.
+    -   The left fountain leads to [Summer Isle](Summer_Isle.md).
+    -   The middle-left fountain leads to [Miner's Landing](<Miner's_Landing.md>).
+    -   The center fountain leads to [The Lordsgrove](The_Lordsgrove.md).
+    -   The middle-right fountain leads to [Ancient Rotlands](Ancient_Rotlands.md).
+    -   The right fountain leads to [The Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
+    -   Fountains have a 30-second cooldown, unless you are teleporting from the [Etrean Luminant](Luminants.md#etrean-and-eastern-luminants), in which case no initial cooldown is applied.
+-   Several fountains throughout the [Etrean Luminant](Luminants.md#etrean-and-eastern-luminants) can be used to return to Greathive Aratel:
     -   Inside [The Hidden Village](The_Hidden_Village.md).
-    -   [The King's Garden](<The_King's_Garden.md>), left of [Etris Palace](Etris_Palace.md).
-        
-        Fountain found at [Isle of Vigils](Isle_of_Vigils.md).
-        
-    -   [Isle of Vigils](Isle_of_Vigils.md), opposite the path (right path) of [Friid](Friid,_Master_of_Gale.md), inside the ruins of a building beside a tree.
--   Fountain found at [The Lordsgrove](The_Lordsgrove.md). It is the largest in size of all hive teleporters.
-    
-    There is also a fountain in [The Lordsgrove](The_Lordsgrove.md) which allows you to teleport back to Greathive Aratel.
-
-Fountain found at [Etris](Etris.md).
-
-The doors to enter [The Lordsgrove](The_Lordsgrove.md).
-
-Fountain found in [The Hidden Village](The_Hidden_Village.md).
+    -   Within [The King's Garden](<The_King's_Garden.md>), to the left of [Etris Palace](Etris_Palace.md).
+    -   At [Isle of Vigils](Isle_of_Vigils.md), opposite the path leading to [Friid](Friid,_Master_of_Gale.md), inside the ruins beside a tree.
+    -   At [The Lordsgrove](The_Lordsgrove.md).
+-   The fountain in [The Lordsgrove](The_Lordsgrove.md) is the largest of all Hive teleporters.
 
 #### Shipyard
 
 -   In the entrance floor of the Greathive Aratel and to the left, the player can find a Shipyard fountain that will spawn the player down to the shipyard area, In the shipyard the player can spawn, craft and recall their [ships](Ships_&_Sailing.md).
-    -   If the player is famous with [The Hive](The_Hive.md), the [Shipwright](Shipwright.md) will bring up ship modification, or [Lifeweaving](Lifeweave.md), the former being a confirmed, upcoming feature.
+    -   If the player is famous with [The Hive](The_Hive.md), the [Shipwright](Shipwright.md) will bring up ship modification, or [Lifeweaving](Lifeweave.md).
     -   The Shipwright NPC will not spawn, repair or recall a player's ship until the player reaches ally reputation with The Hive.
 
 #### Library
@@ -137,17 +130,7 @@ The most powerful being in the universe rules over his subjects
 
 #### Observatory
 
--   Players can find the Celestial Telescope here.
--   Players can buy a [Tourniquet](Training_Gear.md#attunement-training-gears) (BLD), [Hemafrost](Training_Gear.md#attunement-training-gears) (ICE), [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) (LTN), [Gale Kata](Training_Gear.md#attunement-training-gears) (WND), [Pure Heart](Training_Gear.md#attunement-training-gears) (SDW), and a [Ferrofluid](Training_Gear.md#attunement-training-gears) (MTL) here for 25.
-
-#### Balconies
-
--   [Flint](Flint.md) and [Wood](Wood.md) can be purchased here.
--   Features a lovely view of the [Eastern Luminant](Luminants.md#etrean-and-eastern-luminants).
-
-## Observatory
-
-Greathive Aratel is home to the Celestial Telescope, which can give players insight on the [Lore](Lore.md) of [Constellia](Constellia.md) and the [Celestials](Celestial.md).
+Greathive Aratel is home to the Celestial Telescope, which offers players a glimpse into the [Lore](Lore.md) surrounding [Constellia](Constellia.md) and the [Celestials](Celestial.md).
 
 Players can crank the telescope clockwise or counterclockwise to position it to other celestial objects:
 
@@ -155,21 +138,28 @@ Players can crank the telescope clockwise or counterclockwise to position it to 
 
 -   Turning it counterclockwise will show these images, play the song "To Sleep, Dreaming (Contour 1)" and give you a good chunk of experience (with a side effect of making you incredibly sad):
 
+[Instruments](Instruments.md) can also be purchased here.
+
+#### Balconies
+
+-   [Flint](Flint.md) and [Wood](Wood.md) can be purchased here.
+-   Features a lovely view of the [Eastern Luminant](Luminants.md#etrean-and-eastern-luminants)
+
 ## Quests
 
-### Tending the Beloved Quest (Suri Quest)
+### Grave Tending (Suri Quest)
 
 -   Go and talk to [Suri](Suri.md). He will give you a flower, and a task to go and place it at the grave of his brother on the [Isle of Vigils](Isle_of_Vigils.md). The flower can be destroyed by unnecessary movement (taking damage), though, so he suggests taking the safest route.
 -   If you come back to [Suri](Suri.md) after completing this quest, you get a Vibrant Gem.
--   A reference to a quest in [Hollow](https://en.m.wikipedia.org/wiki/Hollow_Knight) [Knight](https://en.m.wikipedia.org/wiki/Hollow_Knight) with the same premise.
+-   A reference to a quest in [Hollow Knight](https://en.m.wikipedia.org/wiki/Hollow_Knight) with the same premise.
 
 ### Blooming Souls Quest (Soul Flower Quest)
 
--   Talk to the Librarian named [Regek](Regek.md), in the Archives Room. They will tell you to fetch 3 Souls from special flowers that bloom within the Greathive, all of which located in the Canopy Plaza. They are called Soulblooms. (You need to wash your face at the temple to be able to take the quest)
+-   Talk to the NPC named [Regek](Regek.md), in a small library room, hey will tell you to fetch 3 Souls from special flowers that bloom within the Greathive, all of which located in the Canopy Plaza. They are called Soulblooms. (You need to wash your face at the temple to be able to take the quest)
     -   A red flower located outside near the observatory balcony. Mind your footing.
     -   A white flower, located near the [Blacksmith](Blacksmith.md), facing in front of it.
     -   A blue flower, hanging at the side of a tree root across the room from the Blacksmith.
--   Completing this quest gives a handful of EXP and access to upgrade [Physical Mantras](Attunement-less.md).
+-   Completing this quest gives a handful of EXP and access to upgrade [Attunement-less](Attunement-less.md) Mantras on every character.
 
 ## Trivia
 
@@ -178,9 +168,6 @@ Players can crank the telescope clockwise or counterclockwise to position it to 
 -   Parts of the Greathive can be seen emitting black particles, which is fireproofing that allows [Flamecharm](Flamecharm.md) to be used within the Greathive without the whole thing going up in flames.
 -   Everyone inside Greathive Aratel is a [Hivekin](Hivekin.md): either a [Vesperian](Vesperian.md), [Ganymede](Ganymede.md), or [Chrysid](Chrysid.md).
 -   The Soulblooms have an option to taste the flower's sap. When attempting to do so, your Character has a violent gut feeling it is not for ingestion and ultimately decides not to.
--   The "Temple of the Forgotten Flame" portal can take you to different locations in [Upper Erisia](Upper_Erisia.md).
--   The Shipwright NPC will not spawn, repair or recall a player's ship until the player reaches ally reputation with [The Hive](The_Hive.md).
 -   Artifacts are able to spawn at Hive. However, originally, Bankers did not exist in Aratel meaning they couldn't be made use of, without travelling to either [Fort Merit](Fort_Merit.md) or [Miner's Landing](<Miner's_Landing.md>), for over two years.
--   In front of the Blacksmith, there is an orange pool of liquid that can be used to refill the canteen.
 -   According to [Destroyman III](Destroyman_III.md), Greathive Aratel makes the best soft shell tacos in the entire Luminant.
--   Back in [Verse 1](Verse_1.md), there would be only three Teleporters instead of five.
+-   Back in [Verse 1](Verse_1.md), there was only three Teleporters instead of five.

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 214493
+revid: 215526
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers]
@@ -55,7 +55,7 @@ This Oath grants 3 Combat Mantra Slots and +5% PEN. As for appearance, it change
     -   Does not clear any active elemental status effects, only prevents new ones from proccing.
 
 -   **Luminous Flash** - After dealing a certain amount of damage while in "Absolute Radiance", gain a chance to empower your strikes with pure light.
-    -   On proc, a basic attack will: Hit the maximum hard cap of damage (1.5x), dazes the target, and grants +45 tempo
+    -   On proc, a basic attack will: Hit the maximum hard cap of damage (1.5x for PvP, 1.75x for PvE), dazes the target, and grants +45 tempo
     -   CD of ~30–50 seconds. The cooldown has a chance to not proc, allowing you to chain another Luminous Flash.
     -   Has a small aura on proc.
     -   Despite having a definitive cooldown it is possible to chain multiple times in a row or over a short period of time resulting in a massive burst of damage. Example: [Killing The Ferryman due to three in a short burst.](https://medal.tv/games/roblox/clips/2dLtDCFCRFPGAd/d1337IECORiz?invite=cr-MSxkbXQsMjA4MzQxMDcs)
