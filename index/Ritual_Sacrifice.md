@@ -1,6 +1,6 @@
 ---
 title: Ritual Sacrifice
-revid: 212779
+revid: 215547
 source: https://deepwoken.fandom.com/wiki/Ritual_Sacrifice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Named Weapons, Legendary Weapons, Weapons with Talents]
@@ -61,7 +61,7 @@ Equipping the Ritual Sacrifice grants its unique [weapon Talent](Talents.md#weap
 
 ### Pierce Through
 
-**Pierce Through** - Remove the autoparry frames the first hit of your base spear critical has.
+**Pierce Through** augments the first hit of your **default spear** critical. Your critical attack will no longer cancel if the first hit is parried, without giving autoparry frames. The second hit of your spear critical will almost always land because of this.
 
 ## Critical
 

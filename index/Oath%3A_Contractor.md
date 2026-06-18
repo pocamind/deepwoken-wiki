@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 214440
+revid: 215557
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ministry]
@@ -36,7 +36,7 @@ The Oath allows you to manipulate the Puppet Strings of [Zi'eer](The_Lord_Regent
     -   You can also get this by trading Knowledge with [Soothsayer](Soothsayer.md) (require at least 10 Knowledge to have neutral reputation with [The Ministry](The_Ministry.md)) This method can get you reputation much faster than most methods.
         -   It is also advised to avoid killing [Ministry Scouts](Ministry_Scout.md) if you're looking to acquire this Oath, in order to keep your reputation with ministry as neutral as possible.
 2.  Start the [Duke Erisia](Duke_Ishamon_Erisia.md) questline. Proceed to get kill credit for the Duke. (Do note that abandoning the quest or talking to Regent after completion without enough Ministry reputation locks you out of contractor \[needs more testing)
-3.  Make a deal with 4 separate [Deep Shrines](Deep_Shrines.md). Remember, 4 DIFFERENT shrines, not the same one 4 times. Any Shrine except the **Shrines of Solitude,** **Mastery (Attributes option) and Order** works, including those in [The Depths](First_Layer.md).
+3.  Make a deal with 4 separate [Deep Shrines](Deep_Shrines.md). Remember, 4 DIFFERENT shrines, not the same one 4 times. Any Shrine except the **Shrines of** **Mastery (Attributes option) and Order** work, including those in [The Depths](First_Layer.md).
 4.  Unlock your [Resonance](Resonance.md).
 5.  Go to the Depths and talk to [Yun'Shul's shrine](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). Ask it for a wish and then pick "What happened to this place?"
 

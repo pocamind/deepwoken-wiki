@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 215542
+revid: 215618
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Central Authority]
@@ -85,7 +85,7 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 
 -   **Chainlash** - On flourish, gain the ability to summon a chain on an enemy for 5 seconds by right clicking. This lets you whip your chain to seize and yank enemies towards you, setting them up for a crushing kick.
     -   Upon right clicking within 5 seconds of flourishing a humanoid target, enchain them and pull them to you.
-        -   Has a range limit, measured to be approximately 80~ studs.
+        -   Has a range limit of 80 studs.
     -   "**The yank**" is procced by Impel or flourishes, moving targets, but dealing no hitstun or damage.
         -   2 seconds true endlag on flourish.
         -   Also procs off of ~Emperor Flame~(currently not the case) and [Razor Blitz](Bloodrend.md#razor-blitz), alongside [Kyrswynter](Kyrswynter.md) and mid-uppercut flourishes.

@@ -1,6 +1,6 @@
 ---
 title: "Abyss Wanderer's Boots"
-revid: 211022
+revid: 215632
 source: https://deepwoken.fandom.com/wiki/Abyss_Wanderer's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, The Divers]
@@ -25,6 +25,8 @@ categories: [Equipment, Legs, Boots, The Divers]
 | pass down | Yes |
 | obtainment | Saramaed Hollow |
 | description | ... |
+
+Variants: [Gallery](<Abyss_Wanderer's_Boots/Gallery.md>)
 
 Abyss Wanderer's Set
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 215472
+revid: 215594
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1756,7 +1756,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 -   _True Ether Bullets_ \[Rare Talent, Light Weapon // Medium Weapon // Heavy Weapon, Intelligence\] - Using Ether Bullets applies elemental damage of your highest investment.
     -   Landing 2 shots will make the 3rd shot deal elemental damage.
         -   The 3rd shot apply your attunement's elemental effect:
-            -   **[Flamecharm](Flamecharm.md)**: Your bulllets [Burn](Status_Effects.md#burn)/create an Eruption (Lava Serpent)/[spawn Puppets](Status_Effects.md#puppet-burn) (Twisted Puppets)
+            -   **[Flamecharm](Flamecharm.md)**: Your bullets [Burn](Status_Effects.md#burn)/create an Eruption (Lava Serpent)/[spawn Puppets](Status_Effects.md#puppet-burn) (Twisted Puppets)
             -   **[Frostdraw](Frostdraw.md)**: Your bullets apply [Chill](Status_Effects.md#chill)/1 [Crystal](Status_Effects.md#crystal) (Crystallization)
             -   **[Thundercall](Thundercall.md)**: Your bullets apply [Shock](Status_Effects.md#shock)/1 [Surge Rod](Status_Effects.md#overloaded) (Surge Path)
             -   **[Galebreathe](Galebreathe.md)**: Your bullets After Cut and briefly apply [Winded](Status_Effects.md#winded)

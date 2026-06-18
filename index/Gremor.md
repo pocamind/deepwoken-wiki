@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 211544
+revid: 215617
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -120,6 +120,40 @@ The deer folk of the land are among the few that still consider themselves free 
 -   Ymara
     
 
+## Features
+
+### Horns
+
+Gremor horns come in a variety of shapes and sizes, and can be [dyed](Dye_Packet.md).
+
+**Aspen:**
+
+**Birch:**
+
+**Cedar:**
+
+**Redwood:**
+
+**Teak:**
+
+**Hallowtide:**
+
+### Freckles
+
+Gremor facial markings consist of freckles, which can be [dyed](Dye_Packet.md).
+
+**Aspen:**
+
+**Birch:**
+
+**Cedar:**
+
+**Redwood:**
+
+**Teak:**
+
+**Hallowtide:**
+
 ## Trivia
 
 -   In [The Depths](The_Depths.md), your compass is tilted differently than on the surface, forcing you to tilt your camera angle in order to use it.
@@ -128,7 +162,7 @@ The deer folk of the land are among the few that still consider themselves free 
 -   When wearing a helmet/hat, it won't hide the horns.
 -   One of the only obtainable 2 aspects in the game that have the Fortitude Stat Bonus, with the other being [Vesperian](Vesperian.md).
 -   Combining the Reduced Hunger loss with Carnivore, you almost will never be below Half Hunger. (Unless you are trying to)
--   [Gran Sudaruska](Gran_Sudaruska.md) could potentially be a Gremor.[\[1\]](#cite-note-1)
+-   [Sudaruska](Sudaruska.md) could potentially be a Gremor.[\[1\]](#cite-note-1)
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: "Abyss Wanderer's Plate"
-revid: 211021
+revid: 215629
 source: https://deepwoken.fandom.com/wiki/Abyss_Wanderer's_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, The Divers, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -25,6 +25,8 @@ categories: [Equipment, Arms, Plates, The Divers, Equipment with Talents, "Equip
 | pass down | Yes |
 | obtainment | Saramaed Hollow |
 | description | ... |
+
+Variants: [Gallery](<Abyss_Wanderer's_Plate/Gallery.md>)
 
 Abyss Wanderer's Set
 

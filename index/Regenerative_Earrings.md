@@ -1,6 +1,6 @@
 ---
 title: Regenerative Earrings
-revid: 214894
+revid: 215544
 source: https://deepwoken.fandom.com/wiki/Regenerative_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -51,7 +51,7 @@ The heal chance is weighted, having a higher chance the more healing you receive
 
 The following sources of healing **cannot** proc Critical Heal:
 
--   Any source of 'passive' healing (unexhaustie list below)
+-   Any source of 'passive' healing (unexhaustive list below)
     -   Passive health regeneration
     -   [Curse of the No Life King](Curse_of_the_No_Life_King.md)
     -   [Chorus of Souls](Talents.md#chorus-of-souls)

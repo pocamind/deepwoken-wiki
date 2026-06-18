@@ -1,6 +1,6 @@
 ---
 title: Etrean Siege Sabatons
-revid: 214793
+revid: 215616
 source: https://deepwoken.fandom.com/wiki/Etrean_Siege_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Sabatons]
