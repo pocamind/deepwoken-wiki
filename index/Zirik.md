@@ -1,6 +1,6 @@
 ---
 title: Zirik
-revid: 195864
+revid: 215668
 source: https://deepwoken.fandom.com/wiki/Zirik
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Hive, Reputation]
@@ -15,6 +15,8 @@ categories: [Ganymede NPCs, Individuals with They/them pronouns, Pathfinder Excl
 | pronouns | They/them |
 | location | The Lordsgrove |
 | affiliation | The Hive |
+
+Variants: [Isul](Isul.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

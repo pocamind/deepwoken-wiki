@@ -1,6 +1,6 @@
 ---
 title: Blackalloy Helm
-revid: 215525
+revid: 215661
 source: https://deepwoken.fandom.com/wiki/Blackalloy_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Helmets, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]

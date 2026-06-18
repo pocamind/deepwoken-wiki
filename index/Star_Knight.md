@@ -1,6 +1,6 @@
 ---
 title: Star Knight
-revid: 213974
+revid: 215719
 source: https://deepwoken.fandom.com/wiki/Star_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters, Knights]
@@ -37,6 +37,10 @@ Star Knights are a stronger and very rare variant of [Stone Knights](Stone_Knigh
 
 -   **Insta-executes the player if health is low.**
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |  |
 | 
 
@@ -49,9 +53,14 @@ Star Knights are a stronger and very rare variant of [Stone Knights](Stone_Knigh
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |  |
 | 
@@ -60,6 +69,10 @@ Dodge
 (★★☆)
 
  | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to [Wind Blade](Galebreathe.md#wind-blade).
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |  |
 | 
@@ -73,9 +86,14 @@ Dodge
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |  |
 | 
@@ -84,6 +102,10 @@ Dodge
 (★★☆)
 
  | Rains down white flaming javelins from the sky, similarly to a Crimson Megalodaunt's Pyroclastic Roar/First Light's critical.
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |  |
 

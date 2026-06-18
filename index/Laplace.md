@@ -1,6 +1,6 @@
 ---
 title: Laplace
-revid: 211292
+revid: 215749
 source: https://deepwoken.fandom.com/wiki/Laplace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Eastern Luminant, The Hive]
@@ -15,6 +15,8 @@ categories: [Ganymede NPCs, Individuals with He/him pronouns, Pathfinder Exclusi
 | pronouns | He/him |
 | location | Greathive Aratel |
 | affiliation | The Hive |
+
+Variants: [Lunaris](Lunaris.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

@@ -1,6 +1,6 @@
 ---
 title: "Beginner's Brace"
-revid: 209433
+revid: 215659
 source: https://deepwoken.fandom.com/wiki/Beginner's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Braces, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -32,7 +32,9 @@ Variants: [Novice Brace](Novice_Brace.md)
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
-Beginner Set
+Beginner's Set
+
+Variants: [Boots](<Beginner's_Boots.md>)
 
 ## Description
 

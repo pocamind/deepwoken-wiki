@@ -1,6 +1,6 @@
 ---
 title: Mark Adaset
-revid: 206083
+revid: 215766
 source: https://deepwoken.fandom.com/wiki/Mark_Adaset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Divers]
@@ -15,6 +15,8 @@ categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive,
 | pronouns | He/him |
 | location | Castle Light |
 | affiliation | The Divers |
+
+Variants: [Alina Sokolof](Alina_Sokolof.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

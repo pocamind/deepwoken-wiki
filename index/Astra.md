@@ -1,6 +1,6 @@
 ---
 title: Astra
-revid: 191325
+revid: 215652
 source: https://deepwoken.fandom.com/wiki/Astra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant, Etrea, Individuals with unspecified pronouns]
@@ -15,6 +15,8 @@ categories: [Etrean NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in t
 | aspect | Etrean |
 | location | Etris |
 | affiliation | Etrea |
+
+Variants: [Estrella](Estrella.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

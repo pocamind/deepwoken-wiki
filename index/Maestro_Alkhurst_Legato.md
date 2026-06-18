@@ -1,6 +1,6 @@
 ---
 title: Maestro Alkhurst Legato
-revid: 213808
+revid: 215759
 source: https://deepwoken.fandom.com/wiki/Maestro_Alkhurst_Legato
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, Maestros of the Vigils, Circle of Honour members]
@@ -19,7 +19,7 @@ categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusiv
 | death | Killed during the Invasion of the Isle of Vigils |
 | deathdate | Between 1233 CE[1] and 1271 CE[2] |
 
-Variants: [Evengarde Rest](Evengarde_Rest.md)
+Variants: [Evengarde Rest](Evengarde_Rest.md) · [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  

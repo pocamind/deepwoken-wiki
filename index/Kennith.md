@@ -1,6 +1,6 @@
 ---
 title: Kennith
-revid: 209187
+revid: 215746
 source: https://deepwoken.fandom.com/wiki/Kennith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, SpoilerPages, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, NPCs located in the Second Floor of the Second Layer]
@@ -17,6 +17,8 @@ notices:
 | pronouns | He/him |
 | location | Etris, Kyrsan Wilds |
 | affiliation | Etrea |
+
+Variants: [Kennith (Vow of Iron)](<Kennith_(Vow_of_Iron).md>)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

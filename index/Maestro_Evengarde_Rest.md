@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 214932
+revid: 215760
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Etrea]
@@ -17,11 +17,11 @@ categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Etrea]
 | affiliation | Etrea |
 | challenges | -- Maestro Evengarde Rest --, Sparring Buddy - Slay 10.Reward: +5% DMG; +2.5% RES |
 
-Variants: [Evengarde Rest](Evengarde_Rest.md)
+Variants: [Evengarde Rest](Evengarde_Rest.md) · [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 “ …Your movements lack discipline. ”
 
@@ -55,6 +55,10 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 
  | Swings his katana at his opponent up to three times and finishes the combo with a flourish kick.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -67,6 +71,10 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 
 -   While parrying the initial hit should cancel the critical, there is a chance for a bug to occur and him to continue with the critical anyway.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -78,6 +86,11 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
  | Swings his blade in a spinning motion, performing two gale-infused slashes.
 
 -   The windup is extremely fast, making this attack very difficult to react to.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   💀 Autogrip
 
  | 
 
@@ -92,6 +105,11 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 -   After doing this attack, he will be vulnerable and won't parry/dodge any attacks, but only for a short period
 -   Blockable, but requires incredibly high posture. Not recommended.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   💀 Autogrip
+
  | 
 
  |
@@ -103,6 +121,11 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
  | Leaps into the air, with his trajectory marked by a white light, before plunging his sword into the ground, unleashing green shockwaves.
 
 -   Stay defensive if he uses this, as he's likely to follow up with another attack.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   💀 Autogrip
 
  | 
 
@@ -116,6 +139,11 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 
 -   This will be a great time to deal some damage because he won't be blocking, parrying, or dodging.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   💀 Autogrip
+
  | 
 
  |
@@ -128,6 +156,11 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 
 -   Same counterplay as One Mind.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   💀 Autogrip
+
  | 
 
  |
@@ -139,6 +172,11 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
  | Sheathes his blade and then flash steps forward, phantoms of gale cutting the area in his wake.
 
 -   Best choice is to dodge.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   💀 Autogrip
 
  | 
 
@@ -154,6 +192,11 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 -   Will only use this move at range to prevent zoning.
 -   Unfortunately, due to how Deepwoken handles elevation, the perception of "ranged" can vary drastically, simply standing on ice can be enough to trigger this move.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
+
  | 
 
  |
@@ -165,6 +208,11 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
  | An explosion of blue ether around the user that pushes opponents away.
 
 -   Given the knockback properties of a Vent, it's common for him to follow up with Mortal Draw: Pressure for an extremely deadly combo.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ☕︎ Harmless
 
  | 
 
@@ -179,6 +227,12 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 -   Triggered by spitting on him **at any point**. Charisma can not bypass this.
 -   Spitting anywhere while in his arena, even if not directly on Maestro himself, will trigger Tempest Eye when the fight starts. If you spit at any point before interacting with Maestro, exit the dungeon and reenter it.
 -   Reduces reputation with Etrea by a great amount.
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   Ø Undefendable
+-   💀 Autogrip
 
  | 
 

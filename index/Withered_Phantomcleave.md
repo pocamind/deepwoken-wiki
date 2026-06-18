@@ -1,6 +1,6 @@
 ---
 title: Withered Phantomcleave
-revid: 212439
+revid: 215672
 source: https://deepwoken.fandom.com/wiki/Withered_Phantomcleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Medium Weapons, Legendary Weapons, Weapons with Talents, Reforged Weapons]
@@ -35,7 +35,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Uniqu
 | obtainment | Interact with the Lost Forge at the Lost Forge of Leiuna while wielding the Alloyed Katana |
 | description | The forge's workings singe a memory into the alloyed vessel, thinning its form into translucence. The cast of a vigil swordsman reflects from its depths, appearing sullen and drained of all vitality. |
 
-Variants: [Alloyed Katana](Katana.md)
+Variants: [Alloyed Katana](Katana.md) · [Phantomcleave](Phantomcleave.md)
 
 ## Description
 

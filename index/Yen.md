@@ -1,6 +1,6 @@
 ---
 title: Yen
-revid: 195919
+revid: 215671
 source: https://deepwoken.fandom.com/wiki/Yen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs, Reputation, Etrean Royalists, Individuals with unspecified pronouns]
@@ -15,7 +15,7 @@ categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs, Reputation, Etrean Royali
 | location | Songseeker Wilds |
 | affiliation | Etrean Royalists |
 
-Variants: [Ferenc](Ferenc.md)
+Variants: [Ferenc](Ferenc.md) · [Kazue](Kazue.md) · [Seon](Seon.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

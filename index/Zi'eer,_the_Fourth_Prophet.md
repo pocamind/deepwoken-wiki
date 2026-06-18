@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 214338
+revid: 215669
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters, Enemies, Humanoids with Unobtainable Outfits]
@@ -58,6 +58,10 @@ The [Solborn](Solborn.md) & [Void Glutton](Void_Glutton.md) [Memento](Mementos.m
 -   Jumping during this attack will cause Zi'eer to use **Flash Equalizer**.
 -   This attack will only occur during the first phase.
 
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+
  |  |
 | 
 
@@ -73,9 +77,13 @@ The [Solborn](Solborn.md) & [Void Glutton](Void_Glutton.md) [Memento](Mementos.m
 
 _Uses Telegraph_
 
-[AvoidTelegraph](Combat_Mechanics.md#skull)
+[AvoidTelegraph](Combat_Mechanics.md#avoid)
 
 Avoid
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
 
  |  |
 | 
@@ -89,9 +97,13 @@ Avoid
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  |  |
 | 
@@ -107,9 +119,14 @@ Dodge
 
 _Uses Telegraph_
 
-[JumpTelegraph](Combat_Mechanics.md#magenta)
+[JumpTelegraph](Combat_Mechanics.md#jump)
 
 Jump
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   ↑ Jump-Avoidable
 
  |  |
 | 
@@ -127,7 +144,7 @@ Jump
 
 _Uses Telegraph_
 
-[AvoidTelegraph](Combat_Mechanics.md#skull)
+[AvoidTelegraph](Combat_Mechanics.md#avoid)
 
 Avoid
 
@@ -147,9 +164,13 @@ Avoid
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
 After the second dash, Zi'eer faces the Inheritor and is briefly highlighted in green, before jumping into the air and slams down simultaneously attacking with **Tendril Cage**, dealing moderate damage and ragdolling the Inheritor with little-to-no knockback.
 
@@ -159,9 +180,13 @@ After the second dash, Zi'eer faces the Inheritor and is briefly highlighted in 
 
 _Uses Telegraph_
 
-[ParryTelegraph](Combat_Mechanics.md#green)
+[ParryTelegraph](Combat_Mechanics.md#parry)
 
 Parry
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
 
  |  |
 | 
@@ -178,9 +203,13 @@ Parry
 
 _Uses Telegraph_
 
-[AvoidTelegraph](Combat_Mechanics.md#skull)
+[AvoidTelegraph](Combat_Mechanics.md#avoid)
 
 Avoid
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  |  |
 | 
@@ -197,6 +226,10 @@ Avoid
 -   The first hit of this attack can be parried or dodged.
     -   The second hit is unavoidable if the first hit was not avoided. Even venting will not cause the attack to end prematurely.
 
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+
  |  |
 | 
 
@@ -211,9 +244,13 @@ Avoid
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  |  |
 | 
@@ -228,9 +265,14 @@ Dodge
 
 _Uses Telegraph_
 
-[DuckTelegraph](Combat_Mechanics.md#yellow)
+[DuckTelegraph](Combat_Mechanics.md#duck)
 
 Duck
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   ↓ Crouch/Slide
 
  |  |
 | 
@@ -245,6 +287,10 @@ Duck
 -   On occasion, the delay between Zi'eer's attacks seems to be considerably shorter after this attack, even if parried or dodged.
 -   Seemingly, this attack has an extensive cooldown, or is rarer than most of his attacks; In most fights, Zi'eer only uses this attack once. Sometimes, it isn't used at all.
 
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+
  |  |
 | 
 
@@ -256,6 +302,11 @@ Duck
 -   This move only occurs upon damaging Zi'eer's Shield sufficiently.
 -   While this attack is being charged up, Zi'eer's Shield is disabled, leaving him defenseless.
 -   Attacking Zi'eer during this attack will end the fight, counting as a win for the Inheritor.
+
+-   Ø Undefendable
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
 
  |  |
 

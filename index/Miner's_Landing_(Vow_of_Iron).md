@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing (Vow of Iron)"
-revid: 200584
+revid: 215776
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Locations, Locations in the Eastern Luminant, Territory of The Ignition Union]

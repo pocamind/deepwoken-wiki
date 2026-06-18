@@ -1,6 +1,6 @@
 ---
 title: "Veteran Ranger's Boots"
-revid: 210894
+revid: 215682
 source: https://deepwoken.fandom.com/wiki/Veteran_Ranger's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]

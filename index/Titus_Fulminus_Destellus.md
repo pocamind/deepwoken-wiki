@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 214606
+revid: 215697
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions, Humanoids with Unobtainable Outfits]
@@ -18,6 +18,8 @@ categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, 
 | affiliation | The Hundred Legions, 49th Legion |
 | locations | Merit Detainment Core |
 | challenges | -- Titus Fulminus Destellus --, Legion's Forsaken - Slay 1*Reward: +5% DMG; +2.5% RES |
+
+Variants: [General Titus Juventius](General_Titus_Juventius.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
@@ -56,6 +58,10 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
 -   These moves are typically slow and can often lead to the player missing a parry.
 -   Because he has the effect of Commander's Rage and throughout the entire second phase, his attacks become Unparryable being telegraphed.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |  |
 | 
 
@@ -64,6 +70,10 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
 (★☆☆)
 
  | Titus quickly slams down both arms into the ground, knocking players away with a powerful vent.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 
@@ -80,9 +90,13 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
 
 _Uses Telegraph_
 
-[JumpTelegraph](Combat_Mechanics.md#white)
+[JumpTelegraph](Combat_Mechanics.md#jump)
 
 Jump
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 
@@ -96,6 +110,11 @@ Jump
 
 -   This move is very similar to Worldpiercing Deluge, in which it shares the same animation.
 
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   𓂘 Grab
+
  | 
 
  |
@@ -107,6 +126,10 @@ Jump
  | Titus unleashes an echoing roar that temporarily amplifies his attacks.
 
 -   This move can cause debris to fall.
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
 
  | 
 
@@ -120,6 +143,13 @@ Jump
 
 -   Almost always leads to Warp Kick if Titus lands this move.
 
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+-   💀 Autogrip
+-   𓂘 Grab
+
  | 
 
  |
@@ -129,6 +159,11 @@ Jump
 (★★★)
 
  | Titus ascends into the air, crashing into the ground and knocking down opponents.
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤓ Knockdown
 
  | 
 
@@ -144,9 +179,14 @@ Jump
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤓ Knockdown
 
  | 
 
@@ -161,6 +201,11 @@ Dodge
 -   This move may be used twice or more.
 -   When amplified by Commander's Rage or in second phase, Titus will use Skycrash again if he does not hit anyone initially
 -   This move will briefly stun him if he bashes into a surface.
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤓ Knockdown
 
  | 
 
@@ -177,9 +222,13 @@ Dodge
 
 _Uses Telegraph_
 
-[JumpTelegraph](Combat_Mechanics.md#white)
+[JumpTelegraph](Combat_Mechanics.md#jump)
 
 Jump
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 
@@ -197,9 +246,14 @@ Jump
 
 _Uses Telegraph_
 
-[BlockTelegraph](Combat_Mechanics.md#blue)
+[BlockTelegraph](Combat_Mechanics.md#block)
 
 Block
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  | 
 
@@ -216,9 +270,15 @@ Block
 
 _Uses Telegraph_
 
-[AvoidTelegraph](Combat_Mechanics.md#skull)
+[AvoidTelegraph](Combat_Mechanics.md#avoid)
 
 Avoid
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
+-   💀 Autogrip
 
  | 
 
@@ -237,9 +297,13 @@ Avoid
 
 _Uses Telegraph_
 
-[AvoidTelegraph](Combat_Mechanics.md#skull)
+[AvoidTelegraph](Combat_Mechanics.md#avoid)
 
 Avoid
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Sky Warrior Helm
-revid: 210808
+revid: 215723
 source: https://deepwoken.fandom.com/wiki/Sky_Warrior_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Helmets, Equipment with Talents, Equipment with Exclusive Talents]

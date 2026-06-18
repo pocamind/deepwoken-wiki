@@ -1,6 +1,6 @@
 ---
 title: "Beginner's Boots"
-revid: 209428
+revid: 215657
 source: https://deepwoken.fandom.com/wiki/Beginner's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Equipment with Set Bonuses, Boots, Equipment with Talents, Equipment with Exclusive Talents]
@@ -31,9 +31,9 @@ Variants: [Novice Boots](Novice_Boots.md)
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
-Beginner Set
+Beginner's Set
 
-Variants: [Beginner's Brace](<Beginner's_Brace.md>)
+Variants: [Brace](<Beginner's_Brace.md>)
 
 ## Description
 

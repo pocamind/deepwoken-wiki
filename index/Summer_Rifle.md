@@ -1,6 +1,6 @@
 ---
 title: Summer Rifle
-revid: 212721
+revid: 215713
 source: https://deepwoken.fandom.com/wiki/Summer_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, Medium Weapons, Weapons of The Summer Company]
@@ -30,6 +30,8 @@ categories: [Weapons, Rifles, Medium Weapons, Weapons of The Summer Company]
 | pass down | Yes |
 | obtainment | Chests from:, Chime of Conflict, The Depths, Bounty Hunting, Deep Widow, Fishing, Lodestar, Saramaed Hollow, Sea Events, Moon's Eyrie, Pure Erisore turn in |
 | description | A standard issue firearm produced by the Summer Company. A reliable firearm, though somewhat less elegant than their more expensive models. |
+
+Variants: [Winter Rifle](Winter_Rifle.md)
 
 ## Description
 

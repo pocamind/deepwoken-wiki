@@ -1,6 +1,6 @@
 ---
 title: Suri
-revid: 212102
+revid: 215711
 source: https://deepwoken.fandom.com/wiki/Suri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Quests, The Hive, NPCs located in the Eastern Luminant]
@@ -16,6 +16,8 @@ categories: [Vesperian NPCs, Individuals with He/him pronouns, Pathfinder Exclus
 | location | Greathive Aratel |
 | affiliation | The Hive |
 | family | Suri's brother (deceased) |
+
+Variants: [Iris](Iris.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

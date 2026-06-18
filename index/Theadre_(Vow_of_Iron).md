@@ -1,6 +1,6 @@
 ---
 title: Theadre (Vow of Iron)
-revid: 199943
+revid: 215702
 source: https://deepwoken.fandom.com/wiki/Theadre_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs]

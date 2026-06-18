@@ -1,6 +1,6 @@
 ---
 title: Kazue
-revid: 199954
+revid: 215745
 source: https://deepwoken.fandom.com/wiki/Kazue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs, Reputation, Etrean Royalists, Individuals with unspecified pronouns]
@@ -15,7 +15,7 @@ categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs, Reputation, Etrean Royali
 | location | The Sable Estate |
 | affiliation | Etrean Royalists |
 
-Variants: [Ferenc](Ferenc.md)
+Variants: [Ferenc](Ferenc.md) · [Seon](Seon.md) · [Yen](Yen.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

@@ -1,6 +1,6 @@
 ---
 title: "Tillian's Beret"
-revid: 210867
+revid: 215698
 source: https://deepwoken.fandom.com/wiki/Tillian's_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, World Event, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -23,6 +23,8 @@ categories: [Equipment, World Event, Head, Hats, Equipment with Talents, "Equipm
 | pass down | Yes |
 | obtainment | Carnival of Hearts |
 | description | A beret with a sleek texture and fit, evidently the work of a skilled tailor - must've cost a pretty penny. Though to those which money has no meaning, the visual statement outweighs any price. |
+
+Variants: [Jester's Beret](<Jester's_Beret.md>) · [Trickster's Beret](<Trickster's_Beret.md>)
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Regenerative Pendant
-revid: 215424
+revid: 215733
 source: https://deepwoken.fandom.com/wiki/Regenerative_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Craftable, Torso, Necklaces, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -26,6 +26,8 @@ categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Craftable, 
 | pass down | No |
 | obtainment | Crafted using a 1 Curseblood Pendant + 5 Curse of the No Life King Enchant Stones + 1 Parasol Membrane at the Lost Forge |
 | description | ... |
+
+Variants: [Trueblood Pendant](Trueblood_Pendant.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

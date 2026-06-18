@@ -1,6 +1,6 @@
 ---
 title: Prototype Railblade
-revid: 212593
+revid: 215724
 source: https://deepwoken.fandom.com/wiki/Prototype_Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Weapons with Unique Animations, Greatswords, Heavy Weapons, Weapons with multiple Criticals, Weapons of The Ignition Union]

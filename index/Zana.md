@@ -1,6 +1,6 @@
 ---
 title: Zana
-revid: 210979
+revid: 215670
 source: https://deepwoken.fandom.com/wiki/Zana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Enemies, Quests]
@@ -15,6 +15,8 @@ categories: [Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NP
 | weapon | Shattered Katana |
 | moves | Assault, Critical |
 | pronouns | They/them |
+
+Variants: [Karas](Karas.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
@@ -152,6 +154,10 @@ Zana's arsenal consists only of a [Shattered Katana](Shattered_Katana.md):
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -159,6 +165,10 @@ Zana's arsenal consists only of a [Shattered Katana](Shattered_Katana.md):
 (★☆☆)
 
  | Zana performs a quick vertical and horizontal slash, which he then follows up with two additional delayed aftercuts.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

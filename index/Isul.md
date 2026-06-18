@@ -1,6 +1,6 @@
 ---
 title: Isul
-revid: 199102
+revid: 215737
 source: https://deepwoken.fandom.com/wiki/Isul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with They/them pronouns, Vow of Iron Exclusive, NPCs, The Hive, Reputation]

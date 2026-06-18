@@ -1,6 +1,6 @@
 ---
 title: Ishan
-revid: 213878
+revid: 215734
 source: https://deepwoken.fandom.com/wiki/Ishan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
@@ -14,6 +14,8 @@ categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Easter
 | aspect | Etrean |
 | location | Summer Isle |
 | affiliation | The Summer Company |
+
+Variants: [Artus](Artus.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

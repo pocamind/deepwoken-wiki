@@ -1,6 +1,6 @@
 ---
 title: Karas
-revid: 196472
+revid: 215744
 source: https://deepwoken.fandom.com/wiki/Karas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Enemies, Quests]
@@ -151,6 +151,10 @@ Karas' arsenal consists only of a [Shattered Katana](Shattered_Katana.md):
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -158,6 +162,10 @@ Karas' arsenal consists only of a [Shattered Katana](Shattered_Katana.md):
 (★☆☆)
 
  | Karas performs a quick vertical and horizontal slash, which he then follows up with two additional delayed aftercuts.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

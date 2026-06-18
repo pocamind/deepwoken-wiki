@@ -1,6 +1,6 @@
 ---
 title: Korin
-revid: 194675
+revid: 215748
 source: https://deepwoken.fandom.com/wiki/Korin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, Etrea, Quests, NPCs located in the Etrean Luminant]
@@ -15,6 +15,8 @@ categories: [Etrean NPCs, Individuals with They/them pronouns, Pathfinder Exclus
 | pronouns | They/them |
 | location | Etris |
 | affiliation | Etrea |
+
+Variants: [Drefa](Drefa.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

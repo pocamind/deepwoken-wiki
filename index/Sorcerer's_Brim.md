@@ -1,6 +1,6 @@
 ---
 title: "Sorcerer's Brim"
-revid: 210813
+revid: 215721
 source: https://deepwoken.fandom.com/wiki/Sorcerer's_Brim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Hats, Equipment, Head, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]

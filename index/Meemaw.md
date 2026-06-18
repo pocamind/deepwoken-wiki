@@ -1,6 +1,6 @@
 ---
 title: Meemaw
-revid: 191543
+revid: 215767
 source: https://deepwoken.fandom.com/wiki/Meemaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Individuals with She/her pronouns, Vow of Iron Exclusive, NPCs, Quests]

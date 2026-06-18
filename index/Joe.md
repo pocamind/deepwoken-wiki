@@ -1,6 +1,6 @@
 ---
 title: Joe
-revid: 201947
+revid: 215741
 source: https://deepwoken.fandom.com/wiki/Joe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, NPCs, Individuals with unspecified pronouns]

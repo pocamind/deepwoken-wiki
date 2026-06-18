@@ -1,6 +1,6 @@
 ---
 title: "Ranger's Brace"
-revid: 210757
+revid: 215728
 source: https://deepwoken.fandom.com/wiki/Ranger's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Braces]
@@ -25,6 +25,8 @@ categories: [Equipment, Arms, Braces]
 | pass down | Yes |
 | obtainment | Chests From:, Artifacts, Blacksteel Pirate, Duke Ishamon Erisia, Erisia, Hell Mode, Maestro Evengarde Rest, Dread Serpent, Chaser |
 | description | ... |
+
+Variants: [Veteran Ranger's Brace](<Veteran_Ranger's_Brace.md>)
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Vesna
-revid: 213385
+revid: 215683
 source: https://deepwoken.fandom.com/wiki/Vesna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with They/them pronouns, Vow of Iron Exclusive, Vendors, NPCs, Humanoids with Unobtainable Outfits]

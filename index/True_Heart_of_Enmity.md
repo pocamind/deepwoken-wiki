@@ -1,6 +1,6 @@
 ---
 title: True Heart of Enmity
-revid: 215467
+revid: 215691
 source: https://deepwoken.fandom.com/wiki/True_Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters]
@@ -57,6 +57,8 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 -   They don't have the Enforcer Pull or Whirlwind attacks.
 -   This is one of the best times to drink [Etris Flasks](Etris_Flask.md) due to the high charging time.
 
+-   \+ Summon
+
  | 
 
  |
@@ -69,6 +71,12 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 
 -   This attack rarely can also be used to attack other outlier players trying to heal, when he bats them the victim can be batted towards another person and collide with them which can end up killing them or the other.
 
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+-   𓂘 Grab
+
  | 
 
  |
@@ -79,6 +87,10 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 
  | The Heart of Enmity kneels down on one leg and swings his axe twice, dealing significant damage.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -88,6 +100,9 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 (☆☆☆)
 
  | The Heart of Enmity quickly darts from one side to another, often following up with an attack.
+
+-   ☕︎ Harmless
+-   ⟡ Movement
 
  | 
 
@@ -101,6 +116,10 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 
 -   Only uses this attack after using Reposition.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -110,6 +129,10 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 (★★☆)
 
  | The Heart of Enmity quickly leaps up with his wings before striking the player with his axe.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 
@@ -122,6 +145,11 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
  | The Heart of Enmity delivers a powerful stomp then slamming his axe down, the stomp knocks down the victim.
 
 -   The stomp may also be cancelled into Condemnation's Fall, and Sadist's Fury.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
 
  | 
 
@@ -136,6 +164,11 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 -   He uses this attack when someone is far from him.
 -   Heart of Enmity doesn't jump into the sky despite the belief, its just a bug.
 
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   ↻ Undodgeable
+-   ⤻ Ragdoll
+
  | 
 
  |
@@ -145,6 +178,11 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 (★★☆)
 
  | The Heart of Enmity winds up his axe quickly before delivering a fast swing of his axe that knocks the player back far.
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  | 
 
@@ -158,6 +196,12 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 
 -   Only the secondary slam is parryable/blockable, not the charge.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+-   ⤓ Knockdown
+
  | 
 
  |
@@ -169,6 +213,11 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
  | The Heart of Enmity raises its arm and charges a pull attack, forcing players to go within the attack's blind spot near Enmity. Anybody caught outside the blind spot will be pulled and take serious damage.
 
 -   During this charge up, Enmity is free to be hit.
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   ✴︎ Pull
 
  | 
 

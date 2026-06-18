@@ -1,6 +1,6 @@
 ---
 title: Rashet
-revid: 199587
+revid: 215729
 source: https://deepwoken.fandom.com/wiki/Rashet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Reputation, Military personnel of The Central Authority, Individuals with unspecified pronouns]
@@ -14,6 +14,8 @@ categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern
 | aspect | Adret |
 | location | Merit's Reach |
 | affiliation | The Central Authority |
+
+Variants: [Rohan](Rohan.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

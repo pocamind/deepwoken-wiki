@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 210171
+revid: 215770
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -17,6 +17,8 @@ categories: [Monsters]
 | challenges | -- Megalodaunt --, Sharktooth Necklace - Slay 10.Reward: +10% DMG; +5% RES, Not So Daunting - Slay 25.Reward: +10% DMG; +5% RES, A Bigger Boat - Slay 100.Reward: +10% DMG; +5% RES |
 
 _This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Megalodaunt_(disambiguation).md>)._
+
+Variants: [Gallery](Megalodaunt/Gallery.md)
 
 “ \[...\] There's something marvelous about these creatures, some sort of almost mankind-like understanding between each other. Yet, to us, they are simply considered 'monsters.' You all fail to see it's social prowess, without not even a consideration of the possibilities; what if we were able to exploit this hierarchy for our own purpose? \[...\] ”
 
@@ -52,10 +54,16 @@ In addition to be found wandering around various places or loitering around in s
 **Slash**  
 (★☆☆)
 
+-   ResistanceSlash Slash
+
  | A short range swipe using their arms. Can slash once or twice, and if once can be paired with **Kick**, which counts as its own move.
 
 -   Heavy posture damage. Will commonly block break after two hits.
 -   If the Megalodaunt slashes twice, it will take longer to attack again.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 
@@ -65,6 +73,8 @@ In addition to be found wandering around various places or loitering around in s
 **Kick**  
 (★★☆)
 
+-   ResistanceBlunt Blunt
+
  | The Megalodaunt will wind up its right leg back with a red circle effect before delivering a kick that ragdolls and sends the player flying.
 
 -   Causes the player to be [Dazed](Status_Effects.md#dazed) if kicked into a wall.
@@ -73,9 +83,14 @@ In addition to be found wandering around various places or loitering around in s
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ↗ Ragdoll
 
  | 
 
@@ -91,6 +106,11 @@ Dodge
 -   Blocking negates much of but not all the Insanity gain.
 -   Dangerous in [The Depths](The_Depths.md).
 
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ¤ Debuff
+
  | 
 
  |
@@ -101,6 +121,9 @@ Dodge
 
  | If the target is above it, the Megalodaunt will jump in the direction of its opponent to close the distance. Often used after **Kick**.
 
+-   ☕︎ Harmless
+-   ⟡ Movement
+
  | 
 
  |
@@ -110,6 +133,10 @@ Dodge
 (★☆☆)
 
  | The Megalodaunt leans forward and bites down, ragdolling those hit. Only used while in water.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Mantle of Enmity
-revid: 213213
+revid: 215762
 source: https://deepwoken.fandom.com/wiki/Mantle_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Relics, Equipment Relics, Equipment with Talents, Equipment with Exclusive Talents]
@@ -25,6 +25,8 @@ categories: [Equipment, Torso, Relics, Equipment Relics, Equipment with Talents,
 | pass down | No |
 | obtainment | Heart of Enmity, Weird Trader |
 | description | The wings of the Heart of Enmity. As you don them, a seething dark essence courses through you, whispering forbidden truths into your mind. The corruption is subtle at first... but with each beat of these cursed wings, you feel your will slipping, weighing you down, surrendering to something far more sinister. |
+
+Variants: [Gallery](Mantle_of_Enmity/Gallery.md)
 
 ## Description
 

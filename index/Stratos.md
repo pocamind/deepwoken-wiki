@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 213900
+revid: 215714
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pages with broken file links, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -14,6 +14,8 @@ categories: [Etrean NPCs, Pages with broken file links, Pathfinder Exclusive, NP
 | aspect | Etrean |
 | location | Temple of the Blade |
 | affiliation | Etrea |
+
+Variants: [Cirrus](Cirrus.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

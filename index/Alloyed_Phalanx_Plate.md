@@ -1,6 +1,6 @@
 ---
 title: Alloyed Phalanx Plate
-revid: 209366
+revid: 215647
 source: https://deepwoken.fandom.com/wiki/Alloyed_Phalanx_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Plates, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]

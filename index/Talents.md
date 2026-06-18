@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 215594
+revid: 215778
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1423,7 +1423,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Deals 10 flat Flamecharm damage on top of your weapon's scaled damage.
     -   Meteor Impact's damage can be buffed via damage modifiers, but does not scale on your Flamecharm investment.
     -   Meteor impact is used by light attacking after using some Mantras that end with both user and victim suspended in air, including: [Rising Flame](Flamecharm.md#rising-flame), [Flame Leap](Flamecharm.md#flame-leap), [Rising Frost](Frostdraw.md#rising-frost), [Rising Wind](Galebreathe.md#rising-wind), [Lightning Impact](Thundercall.md#lightning-impact), [Flashfire Sweep](Hybrid_Abilities.md#flashfire-sweep) and [Saintsworn's](Oath%253A_Saintsworn.md) Galebreathe Blade of Saints. There may be more that do, but simply aren't documented yet.
-        -   [Rising Thunder](Thundercall.md#rising-thunder) can also activate it, but only if the initial grab guard breaks, which is very unlikely. Additionally, Wind Blade can activate it as well, but only if you use the Tempest Wind Talent's variant of the Mantra.
+        -   [Rising Thunder](Thundercall.md#rising-thunder) can also activate it, but only if the initial grab guard breaks, which is very unlikely.
     -   Some Mantras, despite leaving both players in the air, **can't** activate Meteor Impact, such as [Celestial Assault](Oath%253A_Starkindred.md), or [Skyshatter Kick](Attunement-less.md#skyshatter-kick) (Round Spark).
     -   Prerequisites: Any "Rising" Mantra, 25 Flamecharm
         -   [Rising Flame](Flamecharm.md#rising-flame), [Rising Frost](Frostdraw.md#rising-frost), [Rising Thunder](Thundercall.md#rising-thunder), [Rising Wind](Galebreathe.md#rising-wind), or [Rising Shadow](Shadowcast.md#rising-shadow)

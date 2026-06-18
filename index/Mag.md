@@ -1,6 +1,6 @@
 ---
 title: Mag
-revid: 215279
+revid: 215761
 source: https://deepwoken.fandom.com/wiki/Mag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Summer Company, Vendors, Individuals with unspecified pronouns]
@@ -14,6 +14,8 @@ categories: [Gremor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Easter
 | aspect | Gremor |
 | location | Summer Isle |
 | affiliation | The Summer Company |
+
+Variants: [Nitron](Nitron.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

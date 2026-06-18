@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 213515
+revid: 215715
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -43,6 +43,10 @@ Moss Knights are similar to Desert Knights, spawning in singles in [Bluster Rift
 
 -   **Insta-executes the player if health is low.**
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |  |
 | 
 
@@ -55,9 +59,14 @@ Moss Knights are similar to Desert Knights, spawning in singles in [Bluster Rift
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |  |
 | 
@@ -68,6 +77,10 @@ Dodge
  | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to [Wind Blade](Galebreathe.md#wind-blade).
 
 -   Deals Galebreathe damage.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |  |
 | 
@@ -81,9 +94,14 @@ Dodge
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |  |
 

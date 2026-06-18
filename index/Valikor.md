@@ -1,6 +1,6 @@
 ---
 title: Valikor
-revid: 210997
+revid: 215688
 source: https://deepwoken.fandom.com/wiki/Valikor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Talents, Etrea]
@@ -15,6 +15,8 @@ categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive
 | pronouns | He/him |
 | location | Temple of the Blade |
 | affiliation | Etrea |
+
+Variants: [Valikor (Vow of Iron)](<Valikor_(Vow_of_Iron).md>)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

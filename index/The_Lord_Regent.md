@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 215511
+revid: 215705
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant, Heads of government and state, Humanoids with Unobtainable Outfits]
@@ -16,6 +16,8 @@ categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive
 | pronouns | He/him |
 | location | Etris Palace |
 | affiliation | The Ministry, Etrea |
+
+Variants: [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

@@ -1,6 +1,6 @@
 ---
 title: Lavasucker
-revid: 205227
+revid: 215750
 source: https://deepwoken.fandom.com/wiki/Lavasucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Monsters]
@@ -35,6 +35,10 @@ _Also referred to as Lava Bat or Magma Bat._
 (★☆☆)
 
  | Flies up, swoops down and attacks the player.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 

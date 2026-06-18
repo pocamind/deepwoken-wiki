@@ -1,6 +1,6 @@
 ---
 title: Withered Death Knell
-revid: 210048
+revid: 215674
 source: https://deepwoken.fandom.com/wiki/Withered_Death_Knell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Animations, Light Weapons, Reforged Weapons]
@@ -34,7 +34,7 @@ categories: [Weapons, Fists, "Attunement-based Weapons", Legendary Weapons, Weap
 | obtainment | Interact with the Lost Forge at the Lost Forge of Leiuna while wielding the Light's Final Toll |
 | description | A reminder that all songs must be consumed. |
 
-Variants: [Light's Final Toll](<Light's_Final_Toll.md>)
+Variants: [Light's Final Toll](<Light's_Final_Toll.md>) · [The Death Knell](The_Death_Knell.md)
 
 ## Description
 

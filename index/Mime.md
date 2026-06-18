@@ -1,6 +1,6 @@
 ---
 title: Mime
-revid: 203886
+revid: 215774
 source: https://deepwoken.fandom.com/wiki/Mime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests, Ganymede NPCs]
@@ -13,6 +13,8 @@ categories: [Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs 
 | aspect | Ganymede |
 | pronouns | He/him |
 | location | Songseeker Wilds |
+
+Variants: [Incognito](Incognito.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

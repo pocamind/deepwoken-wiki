@@ -1,12 +1,14 @@
 ---
 title: "Miner's Landing"
-revid: 201150
+revid: 215775
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant, Territory of The Ignition Union]
 ---
 
 # Miner's Landing
+
+Variants: [Miner's Landing (Vow of Iron)](<Miner's_Landing_(Vow_of_Iron).md>)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

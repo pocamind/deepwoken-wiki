@@ -1,6 +1,6 @@
 ---
 title: "Well-kept Gravestone"
-revid: 199823
+revid: 215677
 source: https://deepwoken.fandom.com/wiki/Well-kept_Gravestone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -12,6 +12,8 @@ categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etr
 |---|---|
 | aspect | Vesperian |
 | location | Isle of Vigils |
+
+Variants: [Well-tended Gravestone](Well-tended_Gravestone.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

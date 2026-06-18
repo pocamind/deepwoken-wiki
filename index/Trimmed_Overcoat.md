@@ -1,6 +1,6 @@
 ---
 title: Trimmed Overcoat
-revid: 215423
+revid: 215692
 source: https://deepwoken.fandom.com/wiki/Trimmed_Overcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Coats]
@@ -24,6 +24,8 @@ categories: [Equipment with Styles, Equipment, Arms, Coats]
 | pass down | Yes |
 | obtainment | Chests from:, Summer Isle, Erisia, Duke Ishamon Erisia, Hell Mode, Maestro Evengarde Rest, Lodestar, Dread Serpent, War Mode, Chaser, Scholar of the Crimson Contract, Heart of Enmity, Authority Ensign Missions |
 | description | A thick coat to protect you against the elements. |
+
+Variants: [Extra Thick Overcoat](Extra_Thick_Overcoat.md)
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Blackalloy Pauldrons
-revid: 213416
+revid: 215664
 source: https://deepwoken.fandom.com/wiki/Blackalloy_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -34,7 +34,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 Blackalloy Set
 
-Variants: [Blackalloy Helm](Blackalloy_Helm.md)
+Variants: [Helm](Blackalloy_Helm.md)
 
 ## Description
 

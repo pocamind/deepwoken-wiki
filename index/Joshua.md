@@ -1,6 +1,6 @@
 ---
 title: Joshua
-revid: 203089
+revid: 215742
 source: https://deepwoken.fandom.com/wiki/Joshua
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -15,6 +15,8 @@ categories: [Etrean NPCs, Pathfinder Exclusive, Individuals with He/him pronouns
 | pronouns | He/him[1] |
 | location | Etris |
 | affiliation | Etrea |
+
+Variants: [Joshua (Vow of Iron)](<Joshua_(Vow_of_Iron).md>)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

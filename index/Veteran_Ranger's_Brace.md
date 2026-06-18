@@ -1,6 +1,6 @@
 ---
 title: "Veteran Ranger's Brace"
-revid: 210896
+revid: 215681
 source: https://deepwoken.fandom.com/wiki/Veteran_Ranger's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Braces, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]

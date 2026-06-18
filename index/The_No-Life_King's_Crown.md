@@ -1,6 +1,6 @@
 ---
 title: "The No-Life King's Crown"
-revid: 210863
+revid: 215704
 source: https://deepwoken.fandom.com/wiki/The_No-Life_King's_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Head, Ornaments, Craftable, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -23,6 +23,8 @@ categories: [Pathfinder Exclusive, Equipment, Head, Ornaments, Craftable, Equipm
 | pass down | No |
 | obtainment | Crafted using 1 Bloodforged Crown + 1 Ethereal Osseous Plate + 1 Necrotic Membrane at the Lost Forge |
 | description | ... |
+
+Variants: [Infused Bloodforged Crown](Infused_Bloodforged_Crown.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

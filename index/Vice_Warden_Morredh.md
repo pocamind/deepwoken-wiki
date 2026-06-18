@@ -1,6 +1,6 @@
 ---
 title: Vice Warden Morredh
-revid: 213203
+revid: 215680
 source: https://deepwoken.fandom.com/wiki/Vice_Warden_Morredh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority, Oath Trainer]
@@ -16,6 +16,8 @@ categories: [Canor NPCs, Pathfinder Exclusive, Individuals with He/him pronouns,
 | pronouns | He/him[1] |
 | location | Fort Merit |
 | affiliation | The Central Authority |
+
+Variants: [Commander Morredh](Commander_Morredh.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

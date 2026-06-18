@@ -1,6 +1,6 @@
 ---
 title: Lunaris
-revid: 200042
+revid: 215758
 source: https://deepwoken.fandom.com/wiki/Lunaris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs]

@@ -1,6 +1,6 @@
 ---
 title: Armored Sensor Mask
-revid: 209368
+revid: 215649
 source: https://deepwoken.fandom.com/wiki/Armored_Sensor_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Face, Masks, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]

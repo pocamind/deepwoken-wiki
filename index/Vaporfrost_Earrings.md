@@ -1,6 +1,6 @@
 ---
 title: Vaporfrost Earrings
-revid: 214342
+revid: 215684
 source: https://deepwoken.fandom.com/wiki/Vaporfrost_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -23,6 +23,8 @@ categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Ta
 | pass down | No |
 | obtainment | Crafted w/ 1 Dew Drop Earrings + 5 Frigid Prism + 1 Frost Essence at the Lost Forge of Leiuna |
 | description | ... |
+
+Variants: [Vapordrop Earrings](Vapordrop_Earrings.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  

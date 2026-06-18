@@ -1,6 +1,6 @@
 ---
 title: Steel Maul
-revid: 213954
+revid: 215718
 source: https://deepwoken.fandom.com/wiki/Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Alloyable Weapons, Heavy Weapons, Weapons with Talents]
@@ -37,6 +37,8 @@ categories: [Weapons, Greathammers, Alloyable Weapons, Heavy Weapons, Weapons wi
 | pass down | Yes |
 | obtainment | Sold at Etris Weaponry for 100 , Lower Erisia (Chests), Chime of Conflict, Brainsucker, Isle of Vigils (Chests)Alloyed:, Alloying a Steel MaulVow of Iron:, Berserker Memento |
 | description | A sturdy maul perfect for knocking walls and people down alike. |
+
+Variants: [Warmonger](Warmonger.md) · [Saint Jay's Hammer](<Saint_Jay's_Hammer.md>)
 
 ## Description
 

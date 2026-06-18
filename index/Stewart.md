@@ -1,6 +1,6 @@
 ---
 title: Stewart
-revid: 208539
+revid: 215717
 source: https://deepwoken.fandom.com/wiki/Stewart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Vow of Iron Exclusive, NPCs, NPCs located in the First Layer, The Divers, Individuals with unspecified pronouns]

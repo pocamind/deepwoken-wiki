@@ -1,6 +1,6 @@
 ---
 title: Tayna
-revid: 211305
+revid: 215710
 source: https://deepwoken.fandom.com/wiki/Tayna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with She/her pronouns, Vow of Iron Exclusive, NPCs, Vendors]
