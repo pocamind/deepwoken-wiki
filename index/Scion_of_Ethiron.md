@@ -1,9 +1,9 @@
 ---
 title: Scion of Ethiron
-revid: 216100
+revid: 216445
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2, The Depths]
+categories: [Pathfinder Exclusive, Monsters, Bosses, Layer 2, Floor 2, The Depths]
 ---
 
 # Scion of Ethiron
@@ -60,8 +60,6 @@ _For a visual guide consider watching [this video](https://youtu.be/xJqekqeHmlg)
 
  | 
 
-File:Ethi ult.gif
-
  |
 | 
 
@@ -78,8 +76,6 @@ File:Ethi ult.gif
 
  | 
 
-File:Blinding Gale.gif
-
  |
 | 
 
@@ -95,8 +91,6 @@ File:Blinding Gale.gif
 -   § Dodgeable
 
  | 
-
-File:Ethi laser.gif
 
  |
 | 
@@ -121,8 +115,6 @@ Parry
 
  | 
 
-File:Big fist.gif
-
  |
 | 
 
@@ -142,8 +134,6 @@ File:Big fist.gif
 -   ↻ Undodgeable
 
  | 
-
-File:Bone Toss.gif
 
  |
 | 
@@ -170,8 +160,6 @@ Dodge
 
  | 
 
-File:Bone floor.gif
-
  |
 | 
 
@@ -188,8 +176,6 @@ File:Bone floor.gif
 -   § Dodgeable
 
  | 
-
-File:Bonestream.gif
 
  |
 | 

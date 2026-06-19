@@ -1,9 +1,9 @@
 ---
 title: Terrapod
-revid: 216045
+revid: 216286
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Monsters]
+categories: [Monsters]
 ---
 
 # Terrapod
@@ -58,7 +58,7 @@ Media
 -   ⛊ Blockable
 -   § Dodgeable
 
- | File:1 swing.gif |
+ |  |
 | 
 
 **Triple Slash**  
@@ -70,7 +70,7 @@ Media
 -   ⛊ Blockable
 -   § Dodgeable
 
- | File:Headcrab 3 swings.gif |
+ |  |
 | 
 
 **Relentless Strikes**  
@@ -82,7 +82,7 @@ Media
 -   ⛊ Blockable
 -   § Dodgeable
 
- | File:A lot of swings (online-video-cutter.com).gif |
+ |  |
 
 ## Finisher
 

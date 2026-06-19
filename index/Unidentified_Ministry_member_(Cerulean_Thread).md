@@ -1,9 +1,9 @@
 ---
 title: Unidentified Ministry member (Cerulean Thread)
-revid: 201489
+revid: 216268
 source: https://deepwoken.fandom.com/wiki/Unidentified_Ministry_member_(Cerulean_Thread)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Articles with conjectural titles, Individuals with They/them pronouns, Deceased characters]
+categories: ["Content not present in-game", Articles with conjectural titles, Individuals with They/them pronouns, Deceased characters]
 notices:
   - "The archives... are incomplete? While this page's contents are based on real information within the Deepwoken universe, the title itself is conjectural."
 ---
@@ -16,6 +16,10 @@ notices:
 | affiliation | The Ministry[1], Etrea (as a spy)[1] |
 | death | Killed by Maestro Evengarde Rest[1] |
 | deathdate | Between 1233 CE[2] and 1271 CE[3][1] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

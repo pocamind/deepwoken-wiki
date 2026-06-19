@@ -1,6 +1,6 @@
 ---
 title: World Events
-revid: 209020
+revid: 216299
 source: https://deepwoken.fandom.com/wiki/World_Events
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Bosses]
@@ -44,4 +44,5 @@ Disasters are events that occur globally on the server without a UI pop-up, it's
 -   Unique rewards for each world event ([Eye of Malice](Eye_of_Malice.md), [Parasol Planter](Parasol_Planter.md) etc.)
 -   [Resonance](Resonance.md) progression and a great amount of attribute EXP
 -   [Crowns](Crowns.md)
+-   (Caeranthil's Wake only) [Fang and Coil](Fang_and_Coil.md) Fist style
 -   (Cinders of Etris only) [Justicar](<Justicar_(Origin).md>) Origin

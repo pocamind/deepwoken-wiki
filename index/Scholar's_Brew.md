@@ -1,6 +1,6 @@
 ---
 title: "Scholar's Brew"
-revid: 207826
+revid: 216257
 source: https://deepwoken.fandom.com/wiki/Scholar's_Brew
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -42,7 +42,8 @@ It has a unique effect where it grants EXP for all [Attunements](Attunements.md)
 
 ### Recipe
 
--   1 of any [Mantra Modifier](Mantra_Modifiers.md) and 1 of any [Mushroom](Ingredients.md#mushrooms) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
+-   1 of any [Mantra Modifier](Mantra_Modifiers.md) and 1 of any [Mushroom](Ingredients.md#mushrooms) (excluding [Bluecaps](Bluecap.md)) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
+-   1 [Bluecap](Bluecap.md) and 1 of any [Mushroom](Ingredients.md#mushrooms) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
 
 ## Trivia
 

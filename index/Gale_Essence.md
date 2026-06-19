@@ -1,6 +1,6 @@
 ---
 title: Gale Essence
-revid: 216222
+revid: 216235
 source: https://deepwoken.fandom.com/wiki/Gale_Essence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Ingredients]
@@ -27,7 +27,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The **Gale Essence** is a relic ingredient item obtained by defeating the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>). You can find the item in his chest.
+The **Gale Essence** is a [Relic](Relics.md) Ingredient item obtained by defeating the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>). You can find the item in his chest.
 
 This relic is used as a crafting ingredient.
 

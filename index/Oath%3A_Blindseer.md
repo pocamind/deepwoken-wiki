@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 216219
+revid: 216251
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -137,16 +137,16 @@ Oath [ResistanceOath](Oaths.md)
 
 **Effect:** _User fires a high pressure beam from their eyes at the cost of their Sanity._
 
--   The entire beam deals around 150 damage as basic dmg (0 songchant). With extra damage and posture dealt at the start of the beam.
+-   The entire beam deals around 150 damage. The damage and posture damage is front loaded towards the start of the attack, with subsequent hits dealing less damage.
 -   This mantra can make you go insane if you use it too much.
 -   Sightless Beam can be canceled midway by pressing F.
 -   Steals eyesight proccing the blind effect if enough hits land.
 -   Has a **high** windup.
-    -   Not parryable, deals a little bit of posture damage every hit. Can be used to bait vents by staying at a distance.
+-   Cannot be parried.
 -   Deals bonus damage to any monsters from the Depths family (Gigameds, Crustaceous Rex, Nautilodaunt, Enforcer).
     -   Nautilodaunts and Enforcers are very likely to just block the entire beam. It is advised to get a friend to distract them.
 -   You can run during the windup, but can only walk while the beam is active.
--   Getting hit by a Vent while using Sightless Beam cancels it.
+-   Getting hit by a [Vent](Combat_Mechanics.md#tempo) while using Sightless Beam cancels it.
 
  |
 
@@ -218,10 +218,11 @@ N/A
 
 -   Has a 60 second cooldown.
 -   Allies include Guildmates, Roblox friends, and those with whom you share a Vow of Mastery or Vow of Allegiance with.
+-   Casting Mindsoothe on an ally who is acted by [Charm](Status_Effects.md#charm), [Taunt](Status_Effects.md#taunt), or [Dazed](Status_Effects.md#dazed) will clear the effect from them. Additionally, casting Mindsoothe on an ally who is being targetted by a [Visionshaper](Oath%253A_Visionshaper.md) clone will cause the clone to despawn.
 -   The sanity cost is only deducted on a successful heal.
 -   Hold block during the cast animation to heal everyone in range, regardless of ally status.
 -   Doesn't work on NPCs.
--   Doesn't have a ritual unlike the gif shown below
+-   Doesn't have a ritual unlike what is shown in the gif.
 
  |
 
@@ -290,10 +291,9 @@ N/A
 **Effect:** _This affects everybody, including the caster and their allies, making even yourself unable to cast Mantras._
 
 -   Bosses are immune to the silencing aspect.
--   While inside the circle, gain total immunity to Mantra damage.
--   While in the circle gain immunity to the effects of [Gravity Field](Gravity_Field.md)
+-   While inside the circle, gain total immunity to Mantra damage and to the effects of the [Gravity Field](Gravity_Field.md) Resonance.
 -   This is one of the few sources of Monster Armor and Damage vs Monsters, making it exceptionally useful for M1 PvE builds.
--   Shares a cooldown with devouring eye.
+-   Shares a cooldown with [Devouring Eye](Shadowcast.md#devouring-eye).
 -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md#sparks). This makes the circle much smaller but makes it follow the user.
 
  |

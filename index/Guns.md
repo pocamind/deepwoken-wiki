@@ -1,16 +1,14 @@
 ---
 title: Guns
-revid: 209279
+revid: 216313
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons]
+categories: [Weapons]
 ---
 
 # Guns
 
-File:A vesperian using guns.png
-
-A [Vesperian](Vesperian.md) firing a [Flintlock](Flintlock.md).
+A player firing a [Flintlock](Flintlock.md).
 
 ## Description
 

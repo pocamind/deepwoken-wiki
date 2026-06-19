@@ -1,6 +1,6 @@
 ---
 title: Primal Vesperian
-revid: 211560
+revid: 216357
 source: https://deepwoken.fandom.com/wiki/Primal_Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Aspects, Exclusive Aspects, Developer Spec]

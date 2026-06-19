@@ -1,9 +1,9 @@
 ---
 title: Vincent Zeneke
-revid: 206318
+revid: 216258
 source: https://deepwoken.fandom.com/wiki/Vincent_Zeneke
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Scholars and researchers, Individuals with unspecified pronouns]
+categories: ["Content not present in-game", Scholars and researchers, Individuals with unspecified pronouns]
 ---
 
 # Vincent Zeneke
@@ -12,6 +12,10 @@ categories: [Scholars and researchers, Individuals with unspecified pronouns]
 |---|---|
 | name | Vincent Zeneke |
 | aspect | Ganymede |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

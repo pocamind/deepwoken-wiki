@@ -1,6 +1,6 @@
 ---
 title: Fabantou
-revid: 215949
+revid: 216346
 source: https://deepwoken.fandom.com/wiki/Fabantou
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Eastern Luminant, Humanoids with Unobtainable Outfits]
@@ -33,6 +33,8 @@ Formerly in charge of [the Central Authority](The_Central_Authority.md)'s mess h
 Fabantou is located inside The Three Cheers, standing behind the bar.
 
 ## Shop
+
+Fabantou will not sell any items if the player is a max rank of their division, or not an [Authority Ensign](Authority_Ensign.md).
 
 The Three Cheers Menu
 

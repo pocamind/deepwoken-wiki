@@ -1,37 +1,33 @@
 ---
 title: "R/place - Marking Territory"
-revid: 186554
+revid: 216421
 source: https://deepwoken.fandom.com/wiki/R/place_-_Marking_Territory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages requiring a cleanup, Community Compositions]
-notices:
-  - "This page, by declaration of the Inquisition, is of insufficient quality and requires a cleanup to better meet the Wiki's quality standards. Help improve this article by improving formatting, spelling and the general layout. Within this dark a blazing light!"
+categories: [Community Compositions]
 ---
 
 # R/place - Marking Territory
 
-Behold - r/place 2022: [https://place-atlas.stefanocoding.me/](https://place-atlas.stefanocoding.me/) (if you want to look closer)
+The glory of the Deepwoken community.
 
-r/place is a community event that Reddit does near April Fool's Day. During this eventful storm of art, vandalism, and much more, the Deepwoken community banded together for a single purpose. Mark territory on the canvas. The Deepwoken community fought to earn a spot on the never-ending canvas. The final glory was something valuable, something quite amazing. It may be small, but brought a feeling of wholesomeness for the community, something that has not been felt before. Ladies, Gentleman, or to anyone who it may concern, the final product:
+## Description
 
-The glory of the deepwoken community.
+Behold, the Deepwoken community's contribution to r/place 2022.
 
-# What is r/place?
+r/place is a collaborative Reddit event held around April Fool's Day, where users work together on a massive shared canvas by placing individual pixels. Throughout the event, millions of participants created artwork, defended their creations, and competed for limited space on the ever-changing board.
 
-r/place is a community event that Reddit does near April Fool's Day. r/place is basically a large canvas full of creativity of the four million redditors that participated in this amazing event. A breathtaking amount of hard work, artwork, and recognition was put into this.
+During r/place 2022, the Deepwoken community united with a single goal: to establish a place for the game on the canvas. Through coordination and persistence, the community successfully secured a small section of the board. While modest in size, the final artwork became a symbol of community spirit and cooperation, creating a rare sense of unity among Deepwoken players.
 
-r/place
+## Timeline
 
-# Timeline:
+### The Original Plan
 
-## The Original Plan
+On April 3rd, 2022, HorrorTM, a head moderator of the official Deepwoken Discord server, shared two links with the community. One outlined the construction plan, while the other provided the coordinates of the intended location. The operation was initially successful, with the Deepwoken logo even appearing in the thumbnail of a video by MoistCr1tical.
 
-  
+However, the artwork soon came under attack. The original logo was gradually overwritten and transformed by another community, led by Spanish YouTuber Putupau. Unable to maintain control of the area, the Deepwoken community was ultimately forced to abandon its original location.
 
-HorrorTM, head moderator of the official discord of Deepwoken, sends out 2 links on April 3rd, 2022. One laid out the plan(now deleted to stop vandalism of others) and the other linked to the coordinates. It was an overall success, even making in into MoistCr1tical's thumbnail. However, a unknown force attacked. Our beloved small pixel Deepwoken logo started to disappear, and take a new shape. Putupau, a small Spanish youtuber, kicked us out of our lovely little kingdom.
+### Reconstruction
 
-## Reconstruction
+Rather than giving up, the community regrouped and relocated to a quieter section of the canvas. AreaForce and Agamatsu helped organize the reconstruction effort, providing a revised design and new coordinates.
 
-Primadon's face in its full glory.
-
-We treaded on, moving our location to a more passive side of the canvas. AreaForce and Agamatsu led the charge, giving us a new plan. Sporting the trident logo and the quote "The Deep Calls", the new plan was a success. As we continued expanding, we started adding the finishing touches. The Bell, the Owl's mask, Primadon, the Red Variant of the Calabash, Rogue Lineage Scroom, and the blindseer oath was featured. The infamous quote "block parry dodge" was also included.
+The new artwork featured the Deepwoken trident logo alongside the iconic phrase "The Deep Calls." With stronger coordination and fewer territorial conflicts, the project proved successful. As development continued, additional Deepwoken references were incorporated, including a Bell, an Owl mask, Primadon, a Red Calabash, a Rogue Lineage Scroom, and the Blindseer Oath symbol. The well-known community phrase "block parry dodge" was also included, serving as a tribute to one of Deepwoken's most recognizable memes.

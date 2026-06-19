@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 215618
+revid: 216252
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Central Authority]
@@ -229,7 +229,7 @@ _Blast through your opponent's guard and pull them towards you._
  |
 | 
 
-(?) Ether [IconEther](Ether.md)
+50 Ether [IconEther](Ether.md)
 
  | 
 
@@ -242,7 +242,7 @@ Obtained after the first _Enchained_ [Hunted Player](Reputation.md#reputation-st
  |
 | 
 
-**Effect:**
+**Effect:** _User fires four chain projectiles out of their hand. If the target is far enough away, they will be chained and pulled towards the user._
 
 -   Deals 5.5 damage and 6 posture per hit, totaling to 22 damage and 24 posture if all 4 orbs connect.
 -   Procs Chainlash on the _**first**_ hit, past 15 studs. (Procs through block)
@@ -325,12 +325,13 @@ Obtained after the first _Enchained_ [Hunted Player](Reputation.md#reputation-st
     -   The second punch will only commence if the first one lands/hits block.
     -   Windup of _first_ punch is sped up by [Insignia Gem](Insignia_Gem.md).
 -   **Enchained variant** creates AOE explosions centered at _all_ Enchained targets, ragdolling/flinging them, and dealing 37 damage and 15 posture.
-    -   Inflicts _**anti-roll**_ for 1.35 seconds similar to [Frozen Legs](Talents.md#frozen-legs), allowing for true combos with mantras.
+    -   Inflicts _**anti-roll**_ for 1.35 seconds, allowing for true combos with mantras.
     -   Will strongly fling enemies **away from your relative direction**. (Ex. enemies above you will fling upwards)
         -   You can [wallbang](Status_Effects.md#true-daze) off the environment, jumping above targets while using the mantra can [wallbang](Status_Effects.md#true-daze) off the ground.
     -   Adding a [Reversal Spark](Mantra_Modifiers.md#sparks), will prevent [wallbangs](Status_Effects.md#true-daze), weaken knockback, and instead fling _diagonally and downwards_ in the **opposite direction of your camera**.
-    -   Has hyperarmor on its second chained hit.
+    -   Has [Hyperarmor](Status_Effects.md#hyperarmor) on its second chained hit.
 -   Has a cooldown of 15 seconds.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks) to disable the enchained variant of the Mantra.
 
  |
 

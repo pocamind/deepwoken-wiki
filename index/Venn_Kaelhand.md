@@ -1,9 +1,9 @@
 ---
 title: Venn Kaelhand
-revid: 174663
+revid: 216263
 source: https://deepwoken.fandom.com/wiki/Venn_Kaelhand
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Deceased characters]
+categories: ["Content not present in-game", Deceased characters]
 ---
 
 # Venn Kaelhand
@@ -12,6 +12,10 @@ categories: [Deceased characters]
 |---|---|
 | name | Venn Kaelhand[1] |
 | death | Eaten by a Crimson Megalodaunt[1] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 
