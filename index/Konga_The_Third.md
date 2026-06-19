@@ -1,9 +1,9 @@
 ---
 title: Konga The Third
-revid: 211043
+revid: 216469
 source: https://deepwoken.fandom.com/wiki/Konga_The_Third
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Justicars]
+categories: [Vesperian NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Justicars, Members of the Konga lineage]
 ---
 
 # Konga The Third

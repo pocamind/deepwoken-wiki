@@ -1,9 +1,9 @@
 ---
 title: Urek Felhand
-revid: 213201
+revid: 216488
 source: https://deepwoken.fandom.com/wiki/Urek_Felhand
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Deceased characters, The Five Heroes, Oath Trainer, Humanoids with Unobtainable Outfits]
+categories: ["Game-adjacent articles", Deceased characters, The Five Heroes, Oath Trainer, Humanoids with Unobtainable Outfits]
 ---
 
 # Urek Felhand
@@ -15,6 +15,10 @@ categories: [Deceased characters, The Five Heroes, Oath Trainer, Humanoids with 
 | aspect | Kiron |
 | affiliation | The Five Heroes |
 | death | Soul embedded into an obelisk.[1] |
+
+**Game-adjacent article**  
+This game content bears more significance to _Deepwoken'_s world than to the game.  
+Thus, this article focuses on that.
 
 ## Description
 

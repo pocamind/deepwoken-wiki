@@ -1,9 +1,9 @@
 ---
 title: Emiya Konga
-revid: 208475
+revid: 216477
 source: https://deepwoken.fandom.com/wiki/Emiya_Konga
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Individuals with unspecified pronouns]
+categories: ["Content not present in-game", Individuals with unspecified pronouns, Members of the Konga lineage]
 ---
 
 # Emiya Konga
@@ -12,6 +12,10 @@ categories: [Individuals with unspecified pronouns]
 |---|---|
 | name | Emiya Konga[1] |
 | family | Konga lineage[2], Konga The Third (great grandson)[3] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

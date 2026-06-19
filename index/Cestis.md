@@ -1,6 +1,6 @@
 ---
 title: Cestis
-revid: 191359
+revid: 216502
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, The Ministry, Quests, NPCs located in the Eastern Luminant]
@@ -102,19 +102,19 @@ Cestis is located at [Meteor Isle](Meteor_Isle.md) sitting inside a tent, in his
   <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="12">1-3 Assasinations</td>
+  <td colspan="12">1-3 Bounty Hunts</td>
 </tr>
 <tr>
   <td colspan="12">Ah, good work. Here's some pocket money. Don't spend it all in one place, alright?</td>
 </tr>
 <tr>
-  <td colspan="12">4-5 Assasinations</td>
+  <td colspan="12">4-5 Bounty Hunts</td>
 </tr>
 <tr>
   <td colspan="12">Ah, good work as always. You know what? You might be of more use to us than I thought initally..</td>
 </tr>
 <tr>
-  <td colspan="12">6-10 Assasinations</td>
+  <td colspan="12">6-10 Bounty Hunts</td>
 </tr>
 <tr>
   <td colspan="12">Ahaha.. A natural born killer.. Although you may want to make use of <font>Tacet</font> to sneak up on your foes more easily...</td>

@@ -1,9 +1,9 @@
 ---
 title: Spellhardt family
-revid: 185029
+revid: 216475
 source: https://deepwoken.fandom.com/wiki/Spellhardt_family
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Families, Hallowtide]
+categories: ["Game-adjacent articles", Families and lineages, Hallowtide]
 ---
 
 # Spellhardt family
@@ -14,6 +14,10 @@ categories: [Families, Hallowtide]
 | head | Lysander Spellhardt |
 | origin | Constellia |
 | locations | The Floating Keep |
+
+**Game-adjacent article**  
+This game content bears more significance to _Deepwoken'_s world than to the game.  
+Thus, this article focuses on that.
 
 ## Description
 

@@ -1,9 +1,9 @@
 ---
 title: Faust
-revid: 211678
+revid: 216491
 source: https://deepwoken.fandom.com/wiki/Faust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Oath Trainer, The Five Heroes, Deceased characters]
+categories: ["Game-adjacent articles", Oath Trainer, The Five Heroes, Deceased characters]
 ---
 
 # Faust
@@ -15,6 +15,10 @@ categories: [Oath Trainer, The Five Heroes, Deceased characters]
 | aspect | Capra[1] |
 | affiliation | The Five Heroes |
 | death | Soul sealed in an obelisk.[2] |
+
+**Game-adjacent article**  
+This game content bears more significance to _Deepwoken'_s world than to the game.  
+Thus, this article focuses on that.
 
 ## Description
 

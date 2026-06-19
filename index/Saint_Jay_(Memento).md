@@ -1,6 +1,6 @@
 ---
 title: Saint Jay (Memento)
-revid: 208381
+revid: 216494
 source: https://deepwoken.fandom.com/wiki/Saint_Jay_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -8,7 +8,7 @@ categories: [Vow of Iron Exclusive, Mementos]
 
 # Saint Jay (Memento)
 
-| Saint Jay (Memento) | |
+| Saint Jay | |
 |---|---|
 | description | Hallowed disciple of Faust, the Hero of frost; sworn foe of the traitorous Urek. A spirit of justice once concealed by ice. |
 | unlock | Unlocked by default |

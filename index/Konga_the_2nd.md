@@ -1,9 +1,9 @@
 ---
 title: Konga the 2nd
-revid: 214430
+revid: 216468
 source: https://deepwoken.fandom.com/wiki/Konga_the_2nd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Individuals with unspecified pronouns, Members of the Konga lineage]
+categories: ["Content not present in-game", Individuals with unspecified pronouns, Members of the Konga lineage]
 ---
 
 # Konga the 2nd
@@ -12,6 +12,10 @@ categories: [Individuals with unspecified pronouns, Members of the Konga lineage
 |---|---|
 | name | Konga (forename unknown)[1] |
 | family | Konga lineage[1] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

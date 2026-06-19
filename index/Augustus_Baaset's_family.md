@@ -1,9 +1,9 @@
 ---
 title: "Augustus Baaset's family"
-revid: 174106
+revid: 216472
 source: https://deepwoken.fandom.com/wiki/Augustus_Baaset's_family
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Articles with conjectural titles, Families]
+categories: [In progress without reason, InProgressPages, Articles with conjectural titles, Families and lineages]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
   - "The archives... are incomplete? While this page's contents are based on real information within the Deepwoken universe, the title itself is conjectural."

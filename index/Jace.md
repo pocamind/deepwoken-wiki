@@ -1,9 +1,9 @@
 ---
 title: Jace
-revid: 211118
+revid: 216487
 source: https://deepwoken.fandom.com/wiki/Jace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [The Five Heroes, Deceased characters, Oath Trainer]
+categories: ["Game-adjacent articles", The Five Heroes, Deceased characters, Oath Trainer]
 ---
 
 # Jace
@@ -15,6 +15,10 @@ categories: [The Five Heroes, Deceased characters, Oath Trainer]
 | aspect | Khan[1] |
 | affiliation | The Five Heroes |
 | death | Soul sealed in an obelisk.[2] |
+
+**Game-adjacent article**  
+This game content bears more significance to _Deepwoken'_s world than to the game.  
+Thus, this article focuses on that.
 
 ## Description
 

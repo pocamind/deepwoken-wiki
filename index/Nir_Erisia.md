@@ -1,9 +1,9 @@
 ---
 title: Nir Erisia
-revid: 208092
+revid: 216485
 source: https://deepwoken.fandom.com/wiki/Nir_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Members of the Erisia family, Individuals with unspecified pronouns]
+categories: ["Content not present in-game", Members of the Erisia family, Individuals with unspecified pronouns]
 ---
 
 # Nir Erisia
@@ -13,6 +13,10 @@ categories: [Members of the Erisia family, Individuals with unspecified pronouns
 | name | Nir Erisia[1] |
 | alias | Duke Nir Erisia[1], The Noble[1] |
 | family | Erisia family[1], Thera Erisia (mother; deceased)[2] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

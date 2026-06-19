@@ -1,9 +1,9 @@
 ---
 title: Tessa
-revid: 211097
+revid: 216500
 source: https://deepwoken.fandom.com/wiki/Tessa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [The Five Heroes, Deceased characters, Oath Trainer]
+categories: ["Game-adjacent articles", The Five Heroes, Deceased characters, Oath Trainer]
 ---
 
 # Tessa
@@ -15,6 +15,10 @@ categories: [The Five Heroes, Deceased characters, Oath Trainer]
 | aspect | Adret[1] |
 | affiliation | The Five Heroes |
 | death | Killed during a battle[2] |
+
+**Game-adjacent article**  
+This game content bears more significance to _Deepwoken'_s world than to the game.  
+Thus, this article focuses on that.
 
 ## Description
 

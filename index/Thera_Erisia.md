@@ -1,9 +1,9 @@
 ---
 title: Thera Erisia
-revid: 208088
+revid: 216483
 source: https://deepwoken.fandom.com/wiki/Thera_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Individuals with She/her pronouns, Members of the Erisia family, Deceased characters]
+categories: ["Content not present in-game", Individuals with She/her pronouns, Members of the Erisia family, Deceased characters]
 ---
 
 # Thera Erisia
@@ -15,6 +15,10 @@ categories: [Individuals with She/her pronouns, Members of the Erisia family, De
 | pronouns | She/her[2] |
 | family | Erisia family[1], Nir Erisia (son)[2] |
 | death | Allegedly died of blood loss following a dispute[2] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

@@ -1,9 +1,9 @@
 ---
 title: Iskeban Erisia
-revid: 193962
+revid: 216481
 source: https://deepwoken.fandom.com/wiki/Iskeban_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Members of the Erisia family, Individuals with unspecified pronouns]
+categories: ["Content not present in-game", Members of the Erisia family, Individuals with unspecified pronouns]
 ---
 
 # Iskeban Erisia
@@ -13,6 +13,10 @@ categories: [Members of the Erisia family, Individuals with unspecified pronouns
 | name | Iskeban Erisia[1] |
 | alias | Duke Iskeban Erisia[1], The Wind's Guide[1] |
 | family | Erisia family[1] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

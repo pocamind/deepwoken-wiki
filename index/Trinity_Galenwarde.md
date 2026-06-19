@@ -1,9 +1,9 @@
 ---
 title: Trinity Galenwarde
-revid: 211956
+revid: 216490
 source: https://deepwoken.fandom.com/wiki/Trinity_Galenwarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [The Five Heroes, Deceased characters, Oath Trainer]
+categories: ["Game-adjacent articles", The Five Heroes, Deceased characters, Oath Trainer]
 ---
 
 # Trinity Galenwarde
@@ -15,6 +15,10 @@ categories: [The Five Heroes, Deceased characters, Oath Trainer]
 | aspect | Tiran[1] |
 | affiliation | The Five Heroes |
 | death | Soul sealed in an obelisk.[2] |
+
+**Game-adjacent article**  
+This game content bears more significance to _Deepwoken'_s world than to the game.  
+Thus, this article focuses on that.
 
 ## Description
 
