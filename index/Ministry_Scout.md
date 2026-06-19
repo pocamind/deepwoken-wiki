@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 208947
+revid: 216059
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Ministry, Ministry Enemies]
@@ -34,6 +34,10 @@ A Ministry Scout's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and t
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -41,6 +45,10 @@ A Ministry Scout's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and t
 (★★☆)
 
  | User unleashes a quick flurry of slashes.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -50,6 +58,11 @@ A Ministry Scout's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and t
 
  | Windup before turning invisible and dashing forward, dealing medium damage to anyone in front of caster while applying darkness.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⟡ Movement
+
  |
 | 
 
@@ -57,6 +70,10 @@ A Ministry Scout's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and t
 (★☆☆)
 
  | The caster dashes forward and does 3 shadow infused slashes with their weapon.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -66,6 +83,10 @@ A Ministry Scout's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and t
 
  | The user makes a swipe with their right hand before releasing a large sphere of shadow.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -74,6 +95,11 @@ A Ministry Scout's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and t
 
  | The caster raises their hand and lifts one target in the air, then proceeds to slam them in the ground.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
+
  |
 | 
 
@@ -81,6 +107,11 @@ A Ministry Scout's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and t
 (★☆☆)
 
  | An explosion of blue ether around the user that pushes opponents away.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ☕︎ Harmless
 
  |
 

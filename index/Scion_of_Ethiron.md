@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 205027
+revid: 216100
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2, The Depths]
@@ -54,6 +54,10 @@ _For a visual guide consider watching [this video](https://youtu.be/xJqekqeHmlg)
 -   This attack can be cancelled with a group by attacking three small gale balls at the first floor, but is un-recommended due to the time it takes, along with requiring 2 people.
 -   This attack is able to be tanked on the right setup, but is not recommended.
 
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+
  | 
 
 File:Ethi ult.gif
@@ -68,6 +72,10 @@ File:Ethi ult.gif
 
 -   This animation is shared with Pressured Wind, however does a pitiful 1 damage.
 
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+
  | 
 
 File:Blinding Gale.gif
@@ -81,6 +89,10 @@ File:Blinding Gale.gif
  | The Scion charges up its arm and releases a purple laser, locking onto a random player and forcing them to parry it.
 
 -   While the damage is punishing if you get hit by the full beam, you should parry it on reaction to taking damage rather than reacting to the animation, as the animation is shared with Blinding Gale.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 
@@ -98,9 +110,14 @@ File:Ethi laser.gif
 
 _Uses Telegraph_
 
-[ParryTelegraph](Combat_Mechanics.md#green)
+[ParryTelegraph](Combat_Mechanics.md#parry)
 
 Parry
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   ↻ Undodgeable
+-   ⤻ Ragdoll
 
  | 
 
@@ -120,6 +137,10 @@ File:Big fist.gif
 -   If the bone collides with a wall, it will fizzle out and despawn.
 -   This attack always targets the same players in the same order unless someone dies/leaves.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   ↻ Undodgeable
+
  | 
 
 File:Bone Toss.gif
@@ -137,9 +158,15 @@ File:Bone Toss.gif
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+-   ↑ Jump-Avoidable
 
  | 
 
@@ -156,6 +183,10 @@ File:Bone floor.gif
 -   Similar to Bonegrow in able to remain active during other attacks, but sends you further, is more constant, does more damage, and is completely unable to be blocked.
 -   To avoid this move, you must jump, or hold the Jump key and leave to another floor.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
 File:Bonestream.gif
@@ -169,6 +200,8 @@ File:Bonestream.gif
  | The Scion summons 1 Kyrsgarde Sniper on up to 9 Shrines, these have greatly reduced health and stats and are unable to move.
 
 -   These only serve to heal you in the fight via killing them.
+
+-   \+ Summon
 
  | 
 

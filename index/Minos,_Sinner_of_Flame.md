@@ -1,6 +1,6 @@
 ---
 title: "Minos, Sinner of Flame"
-revid: 201862
+revid: 216135
 source: https://deepwoken.fandom.com/wiki/Minos%2C_Sinner_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Starkindred Church, Enemies with Oaths, Individuals with unspecified pronouns, Humanoids with Unobtainable Outfits]
@@ -32,6 +32,10 @@ Minos' arsenal consists of a True Seraph's Spear along with the [Flamecharm](Fla
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -40,6 +44,10 @@ Minos' arsenal consists of a True Seraph's Spear along with the [Flamecharm](Fla
 
  | Enters a stance before performing a quick swipe, will perform an additional short lunge if the first hit lands.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -47,6 +55,9 @@ Minos' arsenal consists of a True Seraph's Spear along with the [Flamecharm](Fla
 (★☆☆)
 
  | Performs a fake attack, before pulling back and committing to an attack.
+
+-   ☕︎ Harmless
+-   «» Misc.
 
  |
 | 
@@ -57,6 +68,11 @@ Minos' arsenal consists of a True Seraph's Spear along with the [Flamecharm](Fla
 
  | While he has his wings out, Minos will rise in the air before unleashing a big wave of flames in front of him, dealing heavy damage if all hits land.
 
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
  |
 | 
 
@@ -64,6 +80,10 @@ Minos' arsenal consists of a True Seraph's Spear along with the [Flamecharm](Fla
 (★★☆)
 
  | Minos gathers flames in his hand and spins it like a whip grabbing anyone around him, before slamming them into the ground and inflicting Burn.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -73,6 +93,11 @@ Minos' arsenal consists of a True Seraph's Spear along with the [Flamecharm](Fla
 
  | Conjures a flaming arrow and fires it at the nearest target, homes in and ricochets if blocked.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
  |
 | 
 
@@ -80,6 +105,11 @@ Minos' arsenal consists of a True Seraph's Spear along with the [Flamecharm](Fla
 (★★☆)
 
  | Rises into the air, before swooping in downwards. This applies hard knockdown on hit.
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤓ Knockdown
 
  |
 | 
@@ -89,6 +119,10 @@ Minos' arsenal consists of a True Seraph's Spear along with the [Flamecharm](Fla
 
  | Launches a multi hit halo of divine energy forward, shredding anyone caught in its range.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -96,5 +130,9 @@ Minos' arsenal consists of a True Seraph's Spear along with the [Flamecharm](Fla
 (★★☆)
 
  | Delivers an upward slash that makes both parties airborne,before delivering another sideway slash that sends the target away.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |

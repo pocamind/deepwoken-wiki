@@ -1,6 +1,6 @@
 ---
 title: Semblance
-revid: 203302
+revid: 216163
 source: https://deepwoken.fandom.com/wiki/Semblance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -30,6 +30,10 @@ The Semblance uses the [Galebreathe](Galebreathe.md) attunement with Specter Pat
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -37,6 +41,10 @@ The Semblance uses the [Galebreathe](Galebreathe.md) attunement with Specter Pat
 (★★☆)
 
  | Semblace uses the critical attack of their equipped weapon. Refer to the [Fractine](Fractine.md), [Soulthorn](Soulthorn.md), and [Nocturne](Nocturne.md) pages for more info.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -46,6 +54,9 @@ The Semblance uses the [Galebreathe](Galebreathe.md) attunement with Specter Pat
 
  | Attacks, but stops during the windup in an attempt to catch the opponent off-guard.
 
+-   ☕︎ Harmless
+-   «» Misc.
+
  |
 | 
 
@@ -53,6 +64,10 @@ The Semblance uses the [Galebreathe](Galebreathe.md) attunement with Specter Pat
 (★☆☆)
 
  | The Semblance creates a bubble. After it's been made, any player or non-allied npc that steps inside is severely slowed.
+
+-   ¤ Debuff
+-   «» Misc.
+-   ☕︎ Harmless
 
  |
 | 
@@ -62,6 +77,10 @@ The Semblance uses the [Galebreathe](Galebreathe.md) attunement with Specter Pat
 
  | The Semblance shoots out an arc of gale.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -70,6 +89,10 @@ The Semblance uses the [Galebreathe](Galebreathe.md) attunement with Specter Pat
 
  | The Semblance conjures up a line of 4 wind projectiles before sending them towards the target.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -77,6 +100,10 @@ The Semblance uses the [Galebreathe](Galebreathe.md) attunement with Specter Pat
 (★☆☆)
 
  | The Semblance dashes forwards kicking with a rush of winds dealing damage.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Etrean Soldier
-revid: 194370
+revid: 216080
 source: https://deepwoken.fandom.com/wiki/Etrean_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Etrea Enemies]
@@ -39,6 +39,10 @@ An Etrean Soldier's arsenal only consists of a [Battleaxe](Battleaxe.md) or [Rit
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -51,6 +55,10 @@ An Etrean Soldier's arsenal only consists of a [Battleaxe](Battleaxe.md) or [Rit
 
 -   Battleaxe critical is not blockable.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -58,6 +66,10 @@ An Etrean Soldier's arsenal only consists of a [Battleaxe](Battleaxe.md) or [Rit
 (★☆☆)
 
  | User lunges forward with their weapon coated in wind.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -68,6 +80,10 @@ An Etrean Soldier's arsenal only consists of a [Battleaxe](Battleaxe.md) or [Rit
  | A powerful wind blast.
 
 -   Applies [Suffocation](Status_Effects.md#suffocate) on hit, disabling Mantra casts.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

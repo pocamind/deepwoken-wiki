@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunter (NPC)
-revid: 176948
+revid: 216127
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies]
@@ -33,6 +33,10 @@ A Bounty Hunter's arsenal consists of a either a [Trident Spear](Trident_Spear.m
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -47,6 +51,10 @@ A Bounty Hunter's arsenal consists of a either a [Trident Spear](Trident_Spear.m
 -   Canorian Axe critical is not blockable.
 -   Falchion critical deals very high chip damage.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -54,6 +62,10 @@ A Bounty Hunter's arsenal consists of a either a [Trident Spear](Trident_Spear.m
 (★★☆)
 
  | User unleashes a barrage of blows at their opponent.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -63,6 +75,10 @@ A Bounty Hunter's arsenal consists of a either a [Trident Spear](Trident_Spear.m
 
  | Gaze into your opponent's souls.
 
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -70,6 +86,10 @@ A Bounty Hunter's arsenal consists of a either a [Trident Spear](Trident_Spear.m
 (★★☆)
 
  | A powerful, flinging punch that shatters the air.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

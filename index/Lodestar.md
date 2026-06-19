@@ -1,6 +1,6 @@
 ---
 title: Lodestar
-revid: 215465
+revid: 216167
 source: https://deepwoken.fandom.com/wiki/Lodestar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Enemies with Oaths]
@@ -39,6 +39,10 @@ The Lodestar's arsenal consists of the weapon known as the [Guiding Star](Guidin
 
  | Performs 3 basic attacks before sending the opponent away with a flourishing arrow shot.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -46,6 +50,10 @@ The Lodestar's arsenal consists of the weapon known as the [Guiding Star](Guidin
 (★★☆)
 
  | Fires three explosive arrows at the target.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -55,6 +63,10 @@ The Lodestar's arsenal consists of the weapon known as the [Guiding Star](Guidin
 
  | Lodestar forms 4 swords of ice around the user, which rapidly rotate for a few seconds before shooting off into the distance.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -62,6 +74,10 @@ The Lodestar's arsenal consists of the weapon known as the [Guiding Star](Guidin
 (★☆☆)
 
  | Lodestar forms 3 daggers of ice before throwing them towards the nearest target.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -71,6 +87,10 @@ The Lodestar's arsenal consists of the weapon known as the [Guiding Star](Guidin
 
  | Lodestar ascends before performing a quick spinning dash towards the target.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -79,6 +99,10 @@ The Lodestar's arsenal consists of the weapon known as the [Guiding Star](Guidin
 
  | Lodestar fires a high pressure beam from their blindfolded eyes.
 
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -86,6 +110,10 @@ The Lodestar's arsenal consists of the weapon known as the [Guiding Star](Guidin
 (★☆☆)
 
  | Lodestar conjures up a line of 4 wind projectiles before sending them towards the target.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

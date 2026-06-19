@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde Brute
-revid: 201344
+revid: 216152
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Layer 2, Monsters, Floor 2]
@@ -40,9 +40,13 @@ An unusual deviation from the typical Kyrsgarde, the Kyrsgarde Brute is a blunt 
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  |
 | 
@@ -56,9 +60,13 @@ Dodge
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  |
 

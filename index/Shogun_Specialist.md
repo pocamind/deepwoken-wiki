@@ -1,6 +1,6 @@
 ---
 title: Shogun Specialist
-revid: 199735
+revid: 216183
 source: https://deepwoken.fandom.com/wiki/Shogun_Specialist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Enemies, Etrea Enemies]
@@ -35,6 +35,11 @@ The Shogun Specialist is an enemy NPC that can be found in [Etris](<Etris_(Vow_o
 
  | Shogun Specialist raises his blade, performing a quick diagonal strike downwards, followed by another upwards, spinning around, holding his stance for a second and delivering a final upwards swing afterwards which does increased damage.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   💀 Autogrip
+
  |
 | 
 
@@ -44,6 +49,11 @@ The Shogun Specialist is an enemy NPC that can be found in [Etris](<Etris_(Vow_o
  | Swings his blade in a spinning motion, performing two gale-infused slashes.
 
 -   Extremely difficult to react to, having an extremely fast windup.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   💀 Autogrip
 
  |
 | 
@@ -55,6 +65,11 @@ The Shogun Specialist is an enemy NPC that can be found in [Etris](<Etris_(Vow_o
 
 -   This will be a great time to deal some damage because he won't be blocking, parrying, or dodging.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   💀 Autogrip
+
  |
 | 
 
@@ -64,6 +79,11 @@ The Shogun Specialist is an enemy NPC that can be found in [Etris](<Etris_(Vow_o
  | Sheathes his blade, drawing the winds into it, before unleashing it as a large dome of razor wind.
 
 -   Same counterplay as One Mind.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   💀 Autogrip
 
  |
 | 
@@ -75,5 +95,10 @@ The Shogun Specialist is an enemy NPC that can be found in [Etris](<Etris_(Vow_o
 
 -   Best choice is to dodge.
 -   This move can make the Specialist go through walls
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   💀 Autogrip
 
  |

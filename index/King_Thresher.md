@@ -1,6 +1,6 @@
 ---
 title: King Thresher
-revid: 214937
+revid: 216094
 source: https://deepwoken.fandom.com/wiki/King_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -38,6 +38,10 @@ A King Thresher is required to be killed to complete [Jessamine](Jessamine.md)'s
 
  | The King Thresher stands on its hind legs and swipes twice. Deals moderate damage.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |  |
 | 
 
@@ -46,6 +50,10 @@ A King Thresher is required to be killed to complete [Jessamine](Jessamine.md)'s
 
  | The King Thresher bites 3 times in quick succession. Deals moderate damage.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |  |
 | 
 
@@ -53,6 +61,12 @@ A King Thresher is required to be killed to complete [Jessamine](Jessamine.md)'s
 (★★☆)
 
  | The King Thresher brings its tail back and flicks around to deliver a powerful blow that deals a tremendous amount of posture damage. Deals moderate damage. Attacks following this move come out sooner.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ↑ Jump-Avoidable
+-   ⤻ Ragdoll
 
  |  |
 | 
@@ -67,9 +81,14 @@ A King Thresher is required to be killed to complete [Jessamine](Jessamine.md)'s
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |  |
 | 
@@ -83,9 +102,13 @@ Dodge
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  |  |
 | 
@@ -97,9 +120,15 @@ Dodge
 
 _Uses Telegraph_
 
-[BlockTelegraph](Combat_Mechanics.md#blue)
+[BlockTelegraph](Combat_Mechanics.md#block)
 
 Block
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   ↻ Undodgeable
+-   ↑ Jump-Avoidable
+-   ⤻ Ragdoll
 
  |  |
 

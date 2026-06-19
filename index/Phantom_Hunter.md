@@ -1,6 +1,6 @@
 ---
 title: Phantom Hunter
-revid: 197933
+revid: 216184
 source: https://deepwoken.fandom.com/wiki/Phantom_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive]
@@ -39,6 +39,9 @@ The **Phantom Hunter** is an enemy that is summoned by a [Sanguine Candle](Sangu
   <td><center><b>Assualt</b></center></td>
   <td>The Phantom Hunter performs a basic attack using their weapon.<div>
   <ul>
+    <li>𓆩✧𓆪 Parryable</li>
+    <li>⛊ Blockable</li>
+    <li>§ Dodgeable</li>
   </ul></div></td>
   <td></td>
 </tr>
@@ -46,12 +49,17 @@ The **Phantom Hunter** is an enemy that is summoned by a [Sanguine Candle](Sangu
   <td><center><b>Feint</b></center></td>
   <td>The Phantom Hunter cancels an attack to fake out the player.<div>
   <ul>
+    <li>«» Misc.</li>
+    <li>☕︎ Harmless</li>
   </ul></div></td>
 </tr>
 <tr>
   <td><center><b>Critical</b></center></td>
   <td>The Phantom hunter performs a large horizontal slash using their weapon.<div>
   <ul>
+    <li>𓆩✧𓆪 Parryable</li>
+    <li>⛊ Blockable</li>
+    <li>§ Dodgeable</li>
   </ul></div></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
@@ -59,6 +67,9 @@ The **Phantom Hunter** is an enemy that is summoned by a [Sanguine Candle](Sangu
   <td><center><b>Twincleave</b></center></td>
   <td>The Phantom Hunter unleashes 2 slashes, the first moving them forward, the second launching them backwards.<div>
   <ul>
+    <li>𓆩✧𓆪 Parryable</li>
+    <li>⛊ Blockable</li>
+    <li>§ Dodgeable</li>
   </ul></div></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
@@ -66,6 +77,10 @@ The **Phantom Hunter** is an enemy that is summoned by a [Sanguine Candle](Sangu
   <td><center><b>Judgement</b></center></td>
   <td>The Phantom Hunter summons a black casting circle before enveloping the player in tendrils and tearing them apart.<div>
   <ul>
+    <li>𓆩✧𓆪 Parryable</li>
+    <li>⛊ Blockable</li>
+    <li>§ Dodgeable</li>
+    <li>💀 Autogrip</li>
   </ul></div></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper
-revid: 215457
+revid: 216061
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Central Authority Enemies]
@@ -38,6 +38,10 @@ Their arsenal is composed of a [Rifle Spear](Rifle_Spear.md), [Cavalry Saber](Ca
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -51,6 +55,10 @@ Their arsenal is composed of a [Rifle Spear](Rifle_Spear.md), [Cavalry Saber](Ca
 
 -   Adretian Axe critical is not blockable.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -58,6 +66,10 @@ Their arsenal is composed of a [Rifle Spear](Rifle_Spear.md), [Cavalry Saber](Ca
 (★★☆)
 
  | Slams down with a blade coated in flame, dealing heavy damage in an arc.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -69,6 +81,10 @@ Their arsenal is composed of a [Rifle Spear](Rifle_Spear.md), [Cavalry Saber](Ca
 
 -   Cancels if parried.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -76,6 +92,11 @@ Their arsenal is composed of a [Rifle Spear](Rifle_Spear.md), [Cavalry Saber](Ca
 (★☆☆)
 
  | The Peacekeeper lunges forward to grab and slam the player into the ground, igniting them in flames.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
 
  |
 

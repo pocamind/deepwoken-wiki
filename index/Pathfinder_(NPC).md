@@ -1,6 +1,6 @@
 ---
 title: Pathfinder (NPC)
-revid: 201749
+revid: 216122
 source: https://deepwoken.fandom.com/wiki/Pathfinder_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies]
@@ -39,6 +39,10 @@ A Pathfinder's arsenal consists of a [Battleaxe](Battleaxe.md) or [Sword](<Sword
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -47,6 +51,11 @@ A Pathfinder's arsenal consists of a [Battleaxe](Battleaxe.md) or [Sword](<Sword
 
  | Raises weapon before firmly slamming it down into the ground.
 
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤓ Knockdown
+
  |
 | 
 
@@ -54,6 +63,11 @@ A Pathfinder's arsenal consists of a [Battleaxe](Battleaxe.md) or [Sword](<Sword
 (★★☆)
 
  | An eruption of ice spikes in front of user. Deals moderate damage and applies freeze.
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ❆ Stun
 
  |
 

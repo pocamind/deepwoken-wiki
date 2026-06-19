@@ -1,6 +1,6 @@
 ---
 title: Captain Marley
-revid: 205644
+revid: 216177
 source: https://deepwoken.fandom.com/wiki/Captain_Marley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Central Authority Enemies]
@@ -37,6 +37,10 @@ Captain Marley's arsenal consists of the [Central Dirk](Central_Dirk.md) along w
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -44,6 +48,10 @@ Captain Marley's arsenal consists of the [Central Dirk](Central_Dirk.md) along w
 (★★☆)
 
  | User unleashes a quick flurry of slashes.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -53,6 +61,10 @@ Captain Marley's arsenal consists of the [Central Dirk](Central_Dirk.md) along w
 
  | User forms three daggers of ice before throwing them towards the nearest person.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -60,6 +72,10 @@ Captain Marley's arsenal consists of the [Central Dirk](Central_Dirk.md) along w
 (★★☆)
 
  | Marley conjures three cubes of ice. On recast, he fires these ice cubes as projectiles towards the player.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -69,6 +85,10 @@ Captain Marley's arsenal consists of the [Central Dirk](Central_Dirk.md) along w
 
  | Marley forms a spear of ice in his offhand and lunges towards the player. If this lands, the ice spear will be embedded into the target. The embedded spear will then shatter after a delay, dealing additional damage.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -76,6 +96,11 @@ Captain Marley's arsenal consists of the [Central Dirk](Central_Dirk.md) along w
 (★★☆)
 
  | Marley ascends before performing a quick spinning dash towards his target.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Vigil Captain
-revid: 194219
+revid: 216144
 source: https://deepwoken.fandom.com/wiki/Vigil_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Etrea Enemies, Enemies that can wield Enchantments]
@@ -31,6 +31,10 @@ A Vigil Captain's arsenal consists of a [Vigil Longsword](Vigil_Longsword.md) ([
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -38,6 +42,10 @@ A Vigil Captain's arsenal consists of a [Vigil Longsword](Vigil_Longsword.md) ([
 (★★☆)
 
  | Performs an upward slash in front of the user.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -47,6 +55,10 @@ A Vigil Captain's arsenal consists of a [Vigil Longsword](Vigil_Longsword.md) ([
 
  | User lunges forward with their weapon coated in wind.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -54,6 +66,10 @@ A Vigil Captain's arsenal consists of a [Vigil Longsword](Vigil_Longsword.md) ([
 (★☆☆)
 
  | User shoots out an arc of gale.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -63,6 +79,10 @@ A Vigil Captain's arsenal consists of a [Vigil Longsword](Vigil_Longsword.md) ([
 
  | User swiftly strikes the opponent with winds taking the shape of a star.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -70,6 +90,10 @@ A Vigil Captain's arsenal consists of a [Vigil Longsword](Vigil_Longsword.md) ([
 (★★☆)
 
  | The Vigil Captain punches the air shooting out a gust of wind.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -79,6 +103,10 @@ A Vigil Captain's arsenal consists of a [Vigil Longsword](Vigil_Longsword.md) ([
 
  | User winds up before teleporting a short distance horizontally while dealing damage.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -86,6 +114,11 @@ A Vigil Captain's arsenal consists of a [Vigil Longsword](Vigil_Longsword.md) ([
 (★★☆)
 
  | The Vigil Captain sheathes their sword before following up with a teleporting uppercut.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
 
  |
 

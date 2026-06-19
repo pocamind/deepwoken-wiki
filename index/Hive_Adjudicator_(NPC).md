@@ -1,6 +1,6 @@
 ---
 title: Hive Adjudicator (NPC)
-revid: 201828
+revid: 216089
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Hive Enemies, Ambush Enemies, Humanoids with Unobtainable Outfits]
@@ -33,6 +33,10 @@ A Hive Adjudicator's arsenal consists of either the [Katana](Katana.md) or the [
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -45,6 +49,10 @@ A Hive Adjudicator's arsenal consists of either the [Katana](Katana.md) or the [
 
 -   Iron Birch's critical is not bloackable.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -52,6 +60,10 @@ A Hive Adjudicator's arsenal consists of either the [Katana](Katana.md) or the [
 (★★☆)
 
  | Caster slams down with their blade coated in flames.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -61,6 +73,11 @@ A Hive Adjudicator's arsenal consists of either the [Katana](Katana.md) or the [
 
  | Caster dashes forward covered in flames; knocking down whoever is in its path.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⟡ Movement
+
  |
 | 
 
@@ -68,6 +85,10 @@ A Hive Adjudicator's arsenal consists of either the [Katana](Katana.md) or the [
 (★☆☆)
 
  | User forms three daggers of ice before throwing them towards the nearest person.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -77,6 +98,10 @@ A Hive Adjudicator's arsenal consists of either the [Katana](Katana.md) or the [
 
  | User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -84,6 +109,11 @@ A Hive Adjudicator's arsenal consists of either the [Katana](Katana.md) or the [
 (★★☆)
 
  | Sends out a tether that latches onto a target before pulling them in.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ✴︎ Pull
 
  |
 

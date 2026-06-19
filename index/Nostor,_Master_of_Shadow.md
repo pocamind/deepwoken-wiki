@@ -1,6 +1,6 @@
 ---
 title: "Nostor, Master of Shadow"
-revid: 208073
+revid: 216118
 source: https://deepwoken.fandom.com/wiki/Nostor%2C_Master_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, The Ministry, Ministry Enemies, NPCs located in the First Layer]
@@ -44,6 +44,10 @@ Nostor's arsenal consists of a [Crypt Blade](Crypt_Blade.md) along with the [Sha
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -51,6 +55,11 @@ Nostor's arsenal consists of a [Crypt Blade](Crypt_Blade.md) along with the [Sha
 (★★☆)
 
  | Impales blade into the ground, causing a shockwave of darkness to occur before applying a shadow chain.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ¤ Debuff
 
  |
 | 
@@ -60,6 +69,11 @@ Nostor's arsenal consists of a [Crypt Blade](Crypt_Blade.md) along with the [Sha
 
  | User performs a wind-up before rushing forward as a shadow orb, hitting anyone in their path while applying darkness.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⟡ Movement
+
  |
 | 
 
@@ -67,6 +81,10 @@ Nostor's arsenal consists of a [Crypt Blade](Crypt_Blade.md) along with the [Sha
 (★★☆)
 
  | User unleashes a barrage of blows against their foes.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

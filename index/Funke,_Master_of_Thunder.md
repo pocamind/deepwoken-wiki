@@ -1,6 +1,6 @@
 ---
 title: "Funke, Master of Thunder"
-revid: 208254
+revid: 216117
 source: https://deepwoken.fandom.com/wiki/Funke%2C_Master_of_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, The Divers, Diver Enemies, NPCs located in the Eastern Luminant]
@@ -44,6 +44,10 @@ Funke's arsenal consists of a [Stormseye](Stormseye.md) along with the [Thunderc
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -51,6 +55,10 @@ Funke's arsenal consists of a [Stormseye](Stormseye.md) along with the [Thunderc
 (★★★)
 
  | Charges the rifle up before circling around the opponent, appearing in short flashes as they fire shots.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -61,6 +69,11 @@ Funke's arsenal consists of a [Stormseye](Stormseye.md) along with the [Thunderc
 
  | Teleports to the nearest target before sending out a shocking AoE.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
+
  |
 | 
 
@@ -69,6 +82,10 @@ Funke's arsenal consists of a [Stormseye](Stormseye.md) along with the [Thunderc
 
  | User performs an empowered lightning kick, shocking and knocking away any opponents.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -76,6 +93,10 @@ Funke's arsenal consists of a [Stormseye](Stormseye.md) along with the [Thunderc
 (★★☆)
 
  | User performs a wind-up before throwing a powerful, flinging punch that shatters the air.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

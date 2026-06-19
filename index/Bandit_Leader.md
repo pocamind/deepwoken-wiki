@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 196448
+revid: 216057
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Bandits, Ambush Enemies]
@@ -40,6 +40,10 @@ A Bandit Leader's arsenal consists of a starter weapon, being a [Battleaxe](Batt
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -53,6 +57,10 @@ A Bandit Leader's arsenal consists of a starter weapon, being a [Battleaxe](Batt
 
 -   Battleaxe and Mace criticals are not blockable.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -60,6 +68,8 @@ A Bandit Leader's arsenal consists of a starter weapon, being a [Battleaxe](Batt
 (★★☆)
 
  | Attacks, but stops during the windup in an attempt to catch the opponent off-guard.
+
+-   ☕︎ Harmless
 
  |
 

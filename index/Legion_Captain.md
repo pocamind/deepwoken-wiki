@@ -1,6 +1,6 @@
 ---
 title: Legion Captain
-revid: 215452
+revid: 216066
 source: https://deepwoken.fandom.com/wiki/Legion_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Ambush Enemies, The Hundred Legions, The Hundred Legions Enemies]
@@ -37,6 +37,10 @@ A Legion Captain's arsenal consists of either a [Champion's Sword](<Champion's_S
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -44,6 +48,10 @@ A Legion Captain's arsenal consists of either a [Champion's Sword](<Champion's_S
 (★★☆)
 
  | The Legion Captain uses the critical attack of their currently equipped weapon. See the individual weapon pages for more info: [Champion's Sword](<Champion's_Sword.md>), [Ritual Spear](Ritual_Spear.md), [Legion Kata](Legion_Kata.md), [Imperial Staff](Imperial_Staff.md).
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -53,6 +61,10 @@ A Legion Captain's arsenal consists of either a [Champion's Sword](<Champion's_S
 
  | User lunges forward with their weapon coated in wind.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -60,6 +72,10 @@ A Legion Captain's arsenal consists of either a [Champion's Sword](<Champion's_S
 (★☆☆)
 
  | User leaps high into the air before striking down.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -69,6 +85,10 @@ A Legion Captain's arsenal consists of either a [Champion's Sword](<Champion's_S
 
  | User empowers their weapon before elegantly releasing a cut that forms a small controllable tempest.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -76,6 +96,10 @@ A Legion Captain's arsenal consists of either a [Champion's Sword](<Champion's_S
 (★★☆)
 
  | User casts several fast, wind-enhanced slashes that form a star.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -85,6 +109,11 @@ A Legion Captain's arsenal consists of either a [Champion's Sword](<Champion's_S
 
  | Winds up and hurls a powerful punch that shatters the air and flings the opponent away.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
  |
 | 
 
@@ -92,6 +121,10 @@ A Legion Captain's arsenal consists of either a [Champion's Sword](<Champion's_S
 (★★☆)
 
  | User unleashes a barrage of blows at their opponent.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

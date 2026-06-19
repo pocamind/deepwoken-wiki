@@ -1,6 +1,6 @@
 ---
 title: Ministry Bloodrender
-revid: 188891
+revid: 216160
 source: https://deepwoken.fandom.com/wiki/Ministry_Bloodrender
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Ministry Enemies, The Ministry, Enemies that can wield Enchantments]
@@ -39,6 +39,10 @@ A Ministry Bloodrender uses [Bloodrend](Bloodrend.md) Mantras and the [Krulian K
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -46,6 +50,10 @@ A Ministry Bloodrender uses [Bloodrend](Bloodrend.md) Mantras and the [Krulian K
 (★★☆)
 
  | The Ministry Bloodrender enters a stance before unleashing a flurry of slashes.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -55,6 +63,11 @@ A Ministry Bloodrender uses [Bloodrend](Bloodrend.md) Mantras and the [Krulian K
 
  | The Ministry Bloodrender conjures a cross, ragdolling and throwing enemies back.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
  |
 | 
 
@@ -63,6 +76,10 @@ A Ministry Bloodrender uses [Bloodrend](Bloodrend.md) Mantras and the [Krulian K
 
  | The Ministry Bloodrender conjures a tornado of blood where they're facing and sends it out.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -70,6 +87,10 @@ A Ministry Bloodrender uses [Bloodrend](Bloodrend.md) Mantras and the [Krulian K
 (★★☆)
 
  | The Ministry Bloodrender creates a scythe out of their own blood and swings it.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

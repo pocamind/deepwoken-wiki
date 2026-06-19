@@ -1,6 +1,6 @@
 ---
 title: Authority Captain
-revid: 205650
+revid: 216075
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Central Authority Enemies, Enemies that can wield Enchantments]
@@ -33,6 +33,10 @@ Their arsenal consists of an [Cavalry Saber](Cavalry_Saber.md) or an [Adretian A
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -45,6 +49,10 @@ Their arsenal consists of an [Cavalry Saber](Cavalry_Saber.md) or an [Adretian A
 
 -   Adretian Axe critical is not blockable.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -52,6 +60,10 @@ Their arsenal consists of an [Cavalry Saber](Cavalry_Saber.md) or an [Adretian A
 (★★☆)
 
  | User winds-up before conjuring and slamming a spiked ice club into the ground ahead.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -61,6 +73,11 @@ Their arsenal consists of an [Cavalry Saber](Cavalry_Saber.md) or an [Adretian A
 
  | Erupts ice from the ground trapping anyone caught in it.
 
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ❆ Stun
+
  |
 | 
 
@@ -68,6 +85,10 @@ Their arsenal consists of an [Cavalry Saber](Cavalry_Saber.md) or an [Adretian A
 (★★☆)
 
  | Rains down shards of ice.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -78,6 +99,10 @@ Their arsenal consists of an [Cavalry Saber](Cavalry_Saber.md) or an [Adretian A
  | The user freezes themselves to quickly mend their wounds.
 
 -   Ends if you hit the person inside, however they have autoparry frames.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

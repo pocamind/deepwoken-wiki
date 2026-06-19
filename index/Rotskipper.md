@@ -1,6 +1,6 @@
 ---
 title: Rotskipper
-revid: 193299
+revid: 216131
 source: https://deepwoken.fandom.com/wiki/Rotskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Humanoid Monsters]
@@ -34,6 +34,10 @@ Note that while their form is frail, they will still take a hefty beating if att
 
  | Weakly smacks opponent over and over again until knocked.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -43,6 +47,10 @@ Note that while their form is frail, they will still take a hefty beating if att
  | Having lost both its arms, it resorts to smacking the opponent with its head.
 
 -   Even weaker, slower _and_ easier to parry than Scratch.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Carbuncle
-revid: 196324
+revid: 216082
 source: https://deepwoken.fandom.com/wiki/Carbuncle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1]
@@ -35,6 +35,10 @@ Carbuncles consist of only two attacks, utilizing their elongated hands from its
 
  | Bellow out a short, low-pitched voice, lashing out with one attack that dishes heavy damage.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -44,6 +48,10 @@ Carbuncles consist of only two attacks, utilizing their elongated hands from its
  | Bellow out a long, high-pitched voice, leaping first then lashing out with four, slow attacks in quick succession.
 
 -   Has very awkward parry timings.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

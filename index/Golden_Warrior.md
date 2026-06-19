@@ -1,6 +1,6 @@
 ---
 title: Golden Warrior
-revid: 206679
+revid: 216069
 source: https://deepwoken.fandom.com/wiki/Golden_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Enemies, The Golden Rats]
@@ -39,6 +39,10 @@ Their arsenal consists of a [Soulwrought Axe](Crazy_Slots.md#weapons) and the [G
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -46,6 +50,11 @@ Their arsenal consists of a [Soulwrought Axe](Crazy_Slots.md#weapons) and the [G
 (★★☆)
 
  | Raises axe upward before slamming it down to the ground.
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤓ Knockdown
 
  |
 | 
@@ -57,6 +66,11 @@ Their arsenal consists of a [Soulwrought Axe](Crazy_Slots.md#weapons) and the [G
 
 -   Taunt makes you take 20% more damage, deal 10% more damage to the person who applied the status, and removes your ability to jump.
 
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ¤ Debuff
+
  |
 | 
 
@@ -64,6 +78,10 @@ Their arsenal consists of a [Soulwrought Axe](Crazy_Slots.md#weapons) and the [G
 (★★☆)
 
  | User reels in their weapon to then downslam it onto their foes and follow up with 2 uppercuting kicks.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -73,6 +91,10 @@ Their arsenal consists of a [Soulwrought Axe](Crazy_Slots.md#weapons) and the [G
 
  | User lunges forward with their weapon coated in wind.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -81,6 +103,10 @@ Their arsenal consists of a [Soulwrought Axe](Crazy_Slots.md#weapons) and the [G
 
  | User leaps high into the air before diving down, striking any targeted opponent.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -88,6 +114,10 @@ Their arsenal consists of a [Soulwrought Axe](Crazy_Slots.md#weapons) and the [G
 (★★☆)
 
  | User preforms a teleporting slash in the shape of star before returning to their original position.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

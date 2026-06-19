@@ -1,6 +1,6 @@
 ---
 title: Lost Diver
-revid: 214523
+revid: 216112
 source: https://deepwoken.fandom.com/wiki/Lost_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, The Divers]
@@ -37,6 +37,10 @@ Assault
 
  | The Lost Diver firmly swings blade at opponent before finishing up the combo by kicking them.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |  |
 | 
 
@@ -44,6 +48,10 @@ Critical
 (★★☆)
 
  | The Lost Diver raises right leg before firmly slamming it down into the ground below.
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  |  |
 | 
@@ -53,6 +61,10 @@ Gale Lunge
 
  | The Lost Diver lunges forward with their weapon coated in wind.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |  |
 | 
 
@@ -60,6 +72,10 @@ Prominence Draw
 (★★☆)
 
  | The Lost Diver locks onto all the closest target that is in their range, then dashes forward and performs a large AoE slice.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |  |
 

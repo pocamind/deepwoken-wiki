@@ -1,6 +1,6 @@
 ---
 title: Golden Rat Bouncer
-revid: 211899
+revid: 216110
 source: https://deepwoken.fandom.com/wiki/Golden_Rat_Bouncer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, The Golden Rats, NPCs]
@@ -37,6 +37,10 @@ Their arsenal consists of a [Soulwrought Axe](Crazy_Slots.md#weapons) and the [G
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -44,6 +48,11 @@ Their arsenal consists of a [Soulwrought Axe](Crazy_Slots.md#weapons) and the [G
 (★★☆)
 
  | Raises axe upward before slamming it down to the ground.
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤓ Knockdown
 
  |
 | 
@@ -53,6 +62,10 @@ Their arsenal consists of a [Soulwrought Axe](Crazy_Slots.md#weapons) and the [G
 
  | User lunges forward with their weapon coated in wind.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -61,6 +74,10 @@ Their arsenal consists of a [Soulwrought Axe](Crazy_Slots.md#weapons) and the [G
 
  | User leaps high into the air before diving down, striking any targeted opponent.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -68,6 +85,11 @@ Their arsenal consists of a [Soulwrought Axe](Crazy_Slots.md#weapons) and the [G
 (★★☆)
 
  | User grabs their target before spinning them in 360 degrees and then tossing them.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 

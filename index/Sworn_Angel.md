@@ -1,6 +1,6 @@
 ---
 title: Sworn Angel
-revid: 211903
+revid: 216157
 source: https://deepwoken.fandom.com/wiki/Sworn_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Humanoids with Unobtainable Outfits, Humanoid Monsters]
@@ -32,6 +32,10 @@ categories: [Enemies, Enemies that can wield Enchantments, Humanoids with Unobta
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -39,6 +43,10 @@ categories: [Enemies, Enemies that can wield Enchantments, Humanoids with Unobta
 (★★☆)
 
  | Enters a stance before performing a quick swipe, will perform an additional short lunge if the first hit lands.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -48,6 +56,8 @@ categories: [Enemies, Enemies that can wield Enchantments, Humanoids with Unobta
 
  | Performs a fake attack, before pulling back and committing to a thrust.
 
+-   ☕︎ Harmless
+
  |
 | 
 
@@ -55,6 +65,10 @@ categories: [Enemies, Enemies that can wield Enchantments, Humanoids with Unobta
 (★☆☆)
 
  | The Angel's eyes light up, stunning anyone facing them if it isn't parried/blocked.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -64,6 +78,10 @@ categories: [Enemies, Enemies that can wield Enchantments, Humanoids with Unobta
 
  | A swirling symbol appears around the Angel's eyes, causing a insanity shiver effect while they look at you.
 
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -72,6 +90,10 @@ categories: [Enemies, Enemies that can wield Enchantments, Humanoids with Unobta
 
  | Quickly performs a medium ranged jab that transfers all of their posture damage onto the target.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -79,6 +101,9 @@ categories: [Enemies, Enemies that can wield Enchantments, Humanoids with Unobta
 (☆☆☆)
 
  | Quickly dashes a long distance, purely for mobility.
+
+-   ☕︎ Harmless
+-   ⟡ Movement
 
  |
 | 
@@ -90,6 +115,10 @@ categories: [Enemies, Enemies that can wield Enchantments, Humanoids with Unobta
 
 -   Deals typeless damage.
 -   Has autoparry frames.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

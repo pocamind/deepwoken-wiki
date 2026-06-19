@@ -1,6 +1,6 @@
 ---
 title: Ambrosial Chum
-revid: 215154
+revid: 216195
 source: https://deepwoken.fandom.com/wiki/Ambrosial_Chum
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Food, Craftable]
@@ -13,7 +13,7 @@ notices:
 | Ambrosial Chum | |
 |---|---|
 | weight | 2 |
-| stack | x? |
+| stack | x37(?) |
 | type | Food |
 | bankable | Yes |
 | droppable | Yes |
@@ -30,3 +30,7 @@ notices:
 ### Recipe
 
 -   1 [Dread Flesh](Dread_Flesh.md), [Primal Slab](Primal_Slab.md), [Raw Heavy Meat](Raw_Heavy_Meat.md), or [Raw Parasol Brain](Raw_Parasol_Brain.md), no [Campfire](Campfire_Pit.md) required.
+
+## Trivia
+
+-   Despite being a "Food" item, Ambrosial Chum cannot be made into Artisan quality using the [Artisan Chef](Talents.md#artisan-chef) Talent.

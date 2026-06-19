@@ -1,6 +1,6 @@
 ---
 title: Gale Essence
-revid: 213230
+revid: 216222
 source: https://deepwoken.fandom.com/wiki/Gale_Essence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Ingredients]
@@ -15,7 +15,7 @@ categories: [Pathfinder Exclusive, Items, Ingredients]
 | stack | x99 |
 | type | Relic |
 | usage | Crafting |
-| bankable | No |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | A tangled fragment of a greater spiral. Though the gale within feels steady and even, you know that if a million voices were to howl all at once, the sounds of the two may collide and overlap, until only noise remains. |

@@ -1,6 +1,6 @@
 ---
 title: Authority Lieutenant
-revid: 205606
+revid: 216107
 source: https://deepwoken.fandom.com/wiki/Authority_Lieutenant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Central Authority Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -33,6 +33,10 @@ Their arsenal is composed of an Cavalry Saber/Adretian Axe/Mace along with the [
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -46,6 +50,10 @@ Their arsenal is composed of an Cavalry Saber/Adretian Axe/Mace along with the [
 
 -   Adretian Axe and Mace criticals are not blockable.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -53,6 +61,10 @@ Their arsenal is composed of an Cavalry Saber/Adretian Axe/Mace along with the [
 (★★☆)
 
  | User slams down with their blade coated in flames.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -62,6 +74,11 @@ Their arsenal is composed of an Cavalry Saber/Adretian Axe/Mace along with the [
 
  | User lunges forward for a grab that slams and burns incoming opponents into the ground.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
+
  |
 | 
 
@@ -69,6 +86,11 @@ Their arsenal is composed of an Cavalry Saber/Adretian Axe/Mace along with the [
 (★★★)
 
  | User imbues their fist with flames that explode on impact with the ground.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 

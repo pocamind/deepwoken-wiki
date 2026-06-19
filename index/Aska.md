@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 209264
+revid: 216217
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, NPCs, Enemies, NPCs located in the First Floor of the Second Layer, The Covenant of Flame, Individuals with unspecified pronouns]
@@ -54,6 +54,10 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 
  | Aska performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -64,6 +68,11 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 
 -   The first part of this move resembles the first part of the Flamecharm Mantra, _Fire Eruption_.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
  |
 | 
 
@@ -72,6 +81,12 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 
  | Aska lunges forward for a grab that slams the player into the ground, as well as setting them on fire.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
+-   𓂘 Grab
+
  |
 | 
 
@@ -79,6 +94,11 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 (★★☆)
 
  | Aska creates an orb that will shoot fireballs at the player.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   \+ Summon
 
  |
 | 
@@ -90,6 +110,10 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 
 -   This move has a tendency to glitch the player into a wall. Be careful.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -97,6 +121,11 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 (★★★)
 
  | Aska imbues their fist with flames that explode on impact with the ground. Strikes twice in front of the boss and creates a bursting explosion each time, ragdolling the player.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 | 
@@ -108,6 +137,10 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 
 -   Cancels if parried.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -115,6 +148,10 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 (★★☆)
 
  | Aska fires a blast of flames at the player.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

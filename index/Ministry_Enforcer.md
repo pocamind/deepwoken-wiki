@@ -1,6 +1,6 @@
 ---
 title: Ministry Enforcer
-revid: 196035
+revid: 216125
 source: https://deepwoken.fandom.com/wiki/Ministry_Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, Enemies with Oaths, The Ministry, Ministry Enemies]
@@ -34,6 +34,9 @@ Their arsenal consists of the [Way of Navae](Way_of_Navae.md) along with the [Sh
   (★☆☆)</center></td>
   <td>Performs 3 basic attacks before sending the opponent away with a flourish.<div>
   <ul>
+    <li>𓆩✧𓆪 Parryable</li>
+    <li>⛊ Blockable</li>
+    <li>§ Dodgeable</li>
   </ul></div></td>
 </tr>
 <tr>
@@ -41,6 +44,9 @@ Their arsenal consists of the [Way of Navae](Way_of_Navae.md) along with the [Sh
   (★★☆)</center></td>
   <td>Raises right leg before firmly slamming it down into the ground below.<div>
   <ul>
+    <li>𓆩✧𓆪 Parryable</li>
+    <li>⛉ Unblockable</li>
+    <li>§ Dodgeable</li>
   </ul></div></td>
 </tr>
 <tr>
@@ -48,6 +54,9 @@ Their arsenal consists of the [Way of Navae](Way_of_Navae.md) along with the [Sh
   (★☆☆)</center></td>
   <td>Gorge on your own health to push away opponents and grant a damage bonus to melee attacks.<div>
   <ul>
+    <li>𓆩✧𓆪 Parryable</li>
+    <li>⛊ Blockable</li>
+    <li>§ Dodgeable</li>
   </ul></div></td>
 </tr>
 <tr>
@@ -55,6 +64,10 @@ Their arsenal consists of the [Way of Navae](Way_of_Navae.md) along with the [Sh
   (★★☆)</center></td>
   <td>Windup before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness.<div>
   <ul>
+    <li>𓆩✧𓆪 Parryable</li>
+    <li>⛊ Blockable</li>
+    <li>§ Dodgeable</li>
+    <li>⟡ Movement</li>
   </ul></div></td>
 </tr>
 <tr>
@@ -62,6 +75,10 @@ Their arsenal consists of the [Way of Navae](Way_of_Navae.md) along with the [Sh
   (★★☆)</center></td>
   <td>Conjure shadows around your enemy before warping to them after a delay.<div>
   <ul>
+    <li>𓆩✧𓆪 Parryable</li>
+    <li>⛊ Blockable</li>
+    <li>§ Dodgeable</li>
+    <li>⛧ Teleport</li>
   </ul></div></td>
 </tr>
 <tr>
@@ -69,6 +86,10 @@ Their arsenal consists of the [Way of Navae](Way_of_Navae.md) along with the [Sh
   (★★★)</center></td>
   <td>A slow axe kick that ragdolls and flings nearby opponents on contact.<div>
   <ul>
+    <li>𓆩✧𓆪 Parryable</li>
+    <li>⛊ Blockable</li>
+    <li>§ Dodgeable</li>
+    <li>⤻ Ragdoll</li>
   </ul></div></td>
 </tr>
 <tr>
@@ -79,6 +100,9 @@ Their arsenal consists of the [Way of Navae](Way_of_Navae.md) along with the [Sh
     <li>The move will instantly execute if it brings HP to 0.</li>
   </ul><div>
   <ul>
+    <li>𓆩✧𓆪 Parryable</li>
+    <li>⛊ Blockable</li>
+    <li>§ Dodgeable</li>
   </ul></div></td>
 </tr>
 </tbody>

@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pirate
-revid: 176706
+revid: 216119
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pirate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -33,6 +33,10 @@ Their arsenal consists of either a [Darksteel Greatsword](Darksteel_Greatsword.m
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -47,6 +51,10 @@ Their arsenal consists of either a [Darksteel Greatsword](Darksteel_Greatsword.m
 -   Battleaxe and Mace criticals are not blockable. Darksteel Greatsword critical deals high posture damage.
 -   Battleaxe critical has hyperarmor during the windup animation. Darksteel Greatsword critical has true hyperarmor during the full animation.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -54,6 +62,11 @@ Their arsenal consists of either a [Darksteel Greatsword](Darksteel_Greatsword.m
 (★★☆)
 
  | A powerful, flinging punch that shatters the air.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 | 
@@ -63,6 +76,10 @@ Their arsenal consists of either a [Darksteel Greatsword](Darksteel_Greatsword.m
 
  | User unleashes a barrage of blows at their opponent.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -70,6 +87,11 @@ Their arsenal consists of either a [Darksteel Greatsword](Darksteel_Greatsword.m
 (★★☆)
 
  | Windup before turning invisible and dashing forward, dealing very minor damage to anyone in front of caster while applying darkness.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⟡ Movement
 
  |
 | 
@@ -79,6 +101,11 @@ Their arsenal consists of either a [Darksteel Greatsword](Darksteel_Greatsword.m
 
  | A heavy downwards swing that cleaves through the air, sending out 3 large blasts of air that ragdoll and knockback.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
  |
 | 
 
@@ -86,6 +113,10 @@ Their arsenal consists of either a [Darksteel Greatsword](Darksteel_Greatsword.m
 (★☆☆)
 
  | A melee strike that transfers their posture damage on hit.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

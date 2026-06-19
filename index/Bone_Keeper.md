@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 215853
+revid: 216081
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1, The Depths]
@@ -43,9 +43,15 @@ If you would prefer a visual guide, consider watching _[this video](https://www.
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   𓂘 Grab
+-   💀 Autogrip
 
  |  |
 | 
@@ -54,6 +60,12 @@ Dodge
 (★★☆)
 
  | The Bone Keeper readies up a stance before charging forward, ragdolling and knocking those hit, as well as dealing considerable health damage and posture damage. The Bone Keeper skids to a stop if successfully parried.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⟡ Movement
+-   ⤻ Ragdoll
 
  |  |
 | 
@@ -64,6 +76,10 @@ Dodge
  | The Bone Keeper will wind up its right arm, before thrusting forward with its hand spinning, hitting three times.
 
 -   It may follow up with **Leap**, even if you parried, with it being more likely if you didn't.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |  |
 | 
@@ -77,9 +93,14 @@ Dodge
 
 _Uses Telegraph_
 
-[AvoidTelegraph](Combat_Mechanics.md#skull)
+[AvoidTelegraph](Combat_Mechanics.md#avoid)
 
 Avoid
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   ↻ Undodgeable
+-   💀 Autogrip
 
  |  |
 | 
@@ -93,9 +114,15 @@ Avoid
 
 _Uses Telegraph_
 
-[JumpTelegraph](Combat_Mechanics.md#magenta)
+[JumpTelegraph](Combat_Mechanics.md#jump)
 
 Jump
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   ↻ Undodgeable
+-   ⤻ Ragdoll
+-   ↑ Jump-Avoidable
 
  |  |
 | 
@@ -107,6 +134,11 @@ Jump
 
 -   The femur itself behaves like a projectile, with a small AoE on impact and being able to collide with the physical world.
 -   The timing for your defense depends on your distance from the Bone Keeper.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |  |
 

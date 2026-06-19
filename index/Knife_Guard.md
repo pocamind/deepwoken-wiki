@@ -1,6 +1,6 @@
 ---
 title: Knife Guard
-revid: 195055
+revid: 216123
 source: https://deepwoken.fandom.com/wiki/Knife_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enemies, Knives of Eylis Enemies]
@@ -34,6 +34,10 @@ A Knife Guard's arsenal only consists of a [Whaling Knife](Whaling_Knife.md):
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -41,6 +45,10 @@ A Knife Guard's arsenal only consists of a [Whaling Knife](Whaling_Knife.md):
 (★★☆)
 
  | The pirate uses the Whaling Knife's special critical, creating a wave of red energy as they slash forward.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

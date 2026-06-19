@@ -1,6 +1,6 @@
 ---
 title: Prisoner
-revid: 201850
+revid: 216178
 source: https://deepwoken.fandom.com/wiki/Prisoner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Humanoids with Unobtainable Outfits]
@@ -33,6 +33,10 @@ A Prisoners arsenal consists of Legion Kata.
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -40,6 +44,11 @@ A Prisoners arsenal consists of Legion Kata.
 (★★☆)
 
  | A powerful, flinging punch that shatters the air.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 

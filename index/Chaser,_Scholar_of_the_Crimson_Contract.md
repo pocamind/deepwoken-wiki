@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 215247
+revid: 216101
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Bosses, Black Divers, Voiced Characters, Ministry Enemies]
@@ -50,6 +50,10 @@ _For a visual guide, consider watching [this video](https://www.youtube.com/watc
 
 -   Blocking all three hits will cause a lot of posture damage, so attempt to parry it.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -64,9 +68,16 @@ _For a visual guide, consider watching [this video](https://www.youtube.com/watc
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ✴︎ Pull
+-   ⤻ Ragdoll
+-   𓂘 Grab
 
  | 
 
@@ -81,6 +92,11 @@ Dodge
 -   Does low posture damage, but comes out faster than his other moves.
 -   The aforementioned casting sound:  
     
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  | 
 
@@ -97,9 +113,14 @@ Dodge
 
 _Uses Telegraph_
 
-[JumpTelegraph](Combat_Mechanics.md#white)
+[JumpTelegraph](Combat_Mechanics.md#jump)
 
 Jump
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   ↑ Jump-Avoidable
 
  | 
 
@@ -113,6 +134,11 @@ Jump
 
 -   During the second phase of the fight, Chaser will collapse the ceiling, triggering this attack for the last time for the remainder of the fight. He may attempt to use it again, but it will fail.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
  | 
 
  |
@@ -124,6 +150,11 @@ Jump
  | Chaser uses blood to imitate a vent, launching away all players near him and causing them to ragdoll. Happens a few seconds after he is down.
 
 -   The first instance of this does the most damage.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  | 
 
@@ -137,6 +168,9 @@ Jump
 -   Chaser will use this move everytime after he leaves his vulnerable state.
 -   He cannot use this move after all blood jars have been broken.
 
+-   ☕︎ Harmless
+-   «» Misc.
+
  | 
 
  |
@@ -148,6 +182,10 @@ Jump
  | Chaser unleashes around 25 localized attacks on the player(s) while utilizing all of his moves in a frenzy.
 
 -   You must stay in the circle just below him to avoid this attack.
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 
@@ -162,6 +200,10 @@ Jump
 -   This pushes away anyone trying to stand inside of the circle to avoid the constant damage inflicted by Last Resort.
 -   The slams do a moderate amount of damage as well.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -175,6 +217,8 @@ Jump
 -   Chaser will be highlighted in red while this attack is in use.
 -   This attack is only available once there are no (or only a few) jars left.
 -   This attack also drains him for 250 health.
+
+-   «» Misc.
 
  | 
 

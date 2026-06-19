@@ -1,6 +1,6 @@
 ---
 title: Ministry Footpad
-revid: 194976
+revid: 216138
 source: https://deepwoken.fandom.com/wiki/Ministry_Footpad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, The Ministry, Ministry Enemies]
@@ -33,6 +33,10 @@ A Ministry footpad's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |  |
 | 
 
@@ -40,6 +44,10 @@ A Ministry footpad's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and
 (★★☆)
 
  | User unleashes a quick flurry of slashes.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |  |
 | 
@@ -49,6 +57,10 @@ A Ministry footpad's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and
 
  | Gorge on your own health to push away opponents and grant a damage bonus to melee attacks.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |  |
 | 
 
@@ -56,6 +68,11 @@ A Ministry footpad's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and
 (★★☆)
 
  | Windup before turning invisible and dashing forward, dealing very minor damage to anyone in front of caster and stealing Ether.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⟡ Movement
 
  |  |
 | 
@@ -65,6 +82,11 @@ A Ministry footpad's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and
 
  | Conjure shadows around your enemy before warping to them after a delay.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
+
  |  |
 | 
 
@@ -72,6 +94,11 @@ A Ministry footpad's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and
 (★★☆)
 
  | A slow axe kick that ragdolls and flings nearby opponents on contact.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |  |
 

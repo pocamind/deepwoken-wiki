@@ -1,6 +1,6 @@
 ---
 title: Finnegan The Lost
-revid: 208626
+revid: 216159
 source: https://deepwoken.fandom.com/wiki/Finnegan_The_Lost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters, Deepdelvers]
@@ -32,6 +32,10 @@ Although the Drowned Delver job can be rarely seen offered by [The Ignition Unio
 
  | Finnegan performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -39,6 +43,11 @@ Although the Drowned Delver job can be rarely seen offered by [The Ignition Unio
 (★★☆)
 
  | Finnegan flips the Boltcrusher backwards before slamming it into the player, followed by a twirling strike that sends them flying.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 | 
@@ -48,6 +57,11 @@ Although the Drowned Delver job can be rarely seen offered by [The Ignition Unio
 
  | If Finnegan is running towards the player when they use their critical, their critical is instead a short dash forward followed by a devastating lightning-charged slam.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
+
  |
 | 
 
@@ -56,6 +70,11 @@ Although the Drowned Delver job can be rarely seen offered by [The Ignition Unio
 
  | Finnegan conjures a lance of Thundercall and throws it towards the player.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
  |
 | 
 
@@ -63,6 +82,10 @@ Although the Drowned Delver job can be rarely seen offered by [The Ignition Unio
 (★☆☆)
 
  | Finnegan conjures cubes of Ironsing and tethers them together with Thundercall.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -74,6 +97,12 @@ Although the Drowned Delver job can be rarely seen offered by [The Ignition Unio
 
 currently bugged the mantra won’t hit until end of attack nor will you be able to parry or block it until it ends only for Finn
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⟡ Movement
+-   ⤓ Knockdown
+
  |
 | 
 
@@ -81,6 +110,11 @@ currently bugged the mantra won’t hit until end of attack nor will you be able
 (★★☆)
 
  | Finnegan summons a lightning bolt in their free hand and slams it into the ground, sending forth a cascading omnidirectional wave of lightning.
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Black Diver (NPC)
-revid: 208490
+revid: 216105
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths, Diver Enemies, Black Divers]
@@ -37,6 +37,10 @@ A Black Diver's arsenal consists of either a [Forgotten Gladius](Forgotten_Gladi
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -49,6 +53,10 @@ A Black Diver's arsenal consists of either a [Forgotten Gladius](Forgotten_Gladi
 
 -   Pale Morning and Markor's Inheritor criticals are not blockable.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -56,6 +64,10 @@ A Black Diver's arsenal consists of either a [Forgotten Gladius](Forgotten_Gladi
 (★★☆)
 
  | Diver lunges forward with their weapon coated in wind.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -65,6 +77,10 @@ A Black Diver's arsenal consists of either a [Forgotten Gladius](Forgotten_Gladi
 
  | User casts several fast, wind enhanced slashes that form a star, dealing high damage.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -73,6 +89,11 @@ A Black Diver's arsenal consists of either a [Forgotten Gladius](Forgotten_Gladi
 (★★☆)
 
  | Teleports to the nearest target before sending out a shocking AoE.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
 
  |
 | 
@@ -84,6 +105,11 @@ A Black Diver's arsenal consists of either a [Forgotten Gladius](Forgotten_Gladi
 
 -   This variant uses [Surge Path: Unstable Capacitor](Talents.md#unstable-capacitor).
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
+
  |
 | 
 
@@ -91,6 +117,11 @@ A Black Diver's arsenal consists of either a [Forgotten Gladius](Forgotten_Gladi
 (★★★)
 
  | User rushes forwards and grabs their opponent. If this lands, they will teleport into the sky and crash down as a bolt of lightning.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 | 
@@ -100,6 +131,10 @@ A Black Diver's arsenal consists of either a [Forgotten Gladius](Forgotten_Gladi
 
  | User performs a wind-up before conjuring and slamming a spiked ice club into the ground ahead.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -107,6 +142,10 @@ A Black Diver's arsenal consists of either a [Forgotten Gladius](Forgotten_Gladi
 (★★☆)
 
  | User starts spinning rapidly while unleashing powerful rays of light.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -116,6 +155,12 @@ A Black Diver's arsenal consists of either a [Forgotten Gladius](Forgotten_Gladi
 
  | User teleports to the nearest opponent with a kick at the speed of light.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
+-   ⤻ Ragdoll
+
  |
 | 
 
@@ -123,6 +168,11 @@ A Black Diver's arsenal consists of either a [Forgotten Gladius](Forgotten_Gladi
 (★★★)
 
  | User leaps into the air before crashing down with the power of light.
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 

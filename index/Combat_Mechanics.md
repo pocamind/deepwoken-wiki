@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 215541
+revid: 216210
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -364,6 +364,10 @@ Guardbreak\*
 The color of this indicator changes depending on the attack used.  
 Not all unblockable attacks have this indicator.  
 
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+
  |
 | All attacks that have this attribute:
 
@@ -398,6 +402,10 @@ Homing\*
 The animation and duration of this indicator changes depending on the time it will take to said projectiles to hit their target.  
 The color of this indicator changes depending on the attack used.  
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | All attacks that have this attribute:
 
@@ -415,6 +423,10 @@ High Posture
  |  | Most attacks with this indicator deal high posture damage.  
 
 Most Monster attacks with this indicator are parryable with [Force Your Way](Ignition_Deepdelver.md).  
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | All attacks that have this attribute:
@@ -454,6 +466,10 @@ Dodge
 Attacks with this indicator must be dodged. They will guardbreak if blocked.
 
 In some cases, Monster attacks with this indicator are parryable with [Force Your Way](Ignition_Deepdelver.md).
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  |
 | All attacks that have this attribute:
@@ -515,6 +531,10 @@ Block
 
 Some Monster attacks with this indicator are parryable with [Force Your Way](Ignition_Deepdelver.md).  
 
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   ↻ Undodgeable
+
  |
 | All attacks that have this attribute:
 
@@ -542,6 +562,10 @@ Parry
 
   
 Attacks with this indicator must be parried. They will guardbreak if blocked.
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
 
  |
 | All attacks that have this attribute:
@@ -575,6 +599,8 @@ Duck
   
 Most attacks with this indicator deal high posture damage.
 
+-   ↓ Crouch/Slide
+
  |
 | All attacks that have this attribute:
 
@@ -593,6 +619,8 @@ Jump
 
   
 Attacks with this indicator can be jumped over.
+
+-   ↑ Jump-Avoidable
 
  |
 | All attacks that have this attribute:
@@ -619,6 +647,10 @@ Avoid
  |  | You need to physically move out of the way of these attacks to dodge them.
 
 Some of these attacks have unique mechanics regarding how/if they can be avoided. Please check the enemy pages for more info.  
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
 
  |
 | All attacks that have this attribute:

@@ -1,6 +1,6 @@
 ---
 title: Teacher
-revid: 201752
+revid: 216067
 source: https://deepwoken.fandom.com/wiki/Teacher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs]
@@ -46,6 +46,10 @@ A Teacher's arsenal consists of their [Fists](Fists.md):
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -54,6 +58,11 @@ A Teacher's arsenal consists of their [Fists](Fists.md):
 
  | Raises weapon before firmly slamming it down into the ground.
 
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤓ Knockdown
+
  |
 | 
 
@@ -61,6 +70,11 @@ A Teacher's arsenal consists of their [Fists](Fists.md):
 (★★☆)
 
  | An eruption of ice spikes in front of user. Deals moderate damage and applies freeze.
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ❆ Stun
 
  |
 

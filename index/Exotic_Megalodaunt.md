@@ -1,6 +1,6 @@
 ---
 title: Exotic Megalodaunt
-revid: 199962
+revid: 216171
 source: https://deepwoken.fandom.com/wiki/Exotic_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -34,6 +34,10 @@ The Exotic Megalodaunt (also referred to as Money Sharko) is a giant humanoid sh
 
 -   Heavy posture damage. Will commonly block break after two hits.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -46,9 +50,13 @@ The Exotic Megalodaunt (also referred to as Money Sharko) is a giant humanoid sh
 
 _Uses Telegraph_
 
-[ParryTelegraph](Combat_Mechanics.md#green)
+[ParryTelegraph](Combat_Mechanics.md#parry)
 
-Green
+Parry
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
 
  | 
 
@@ -69,9 +77,14 @@ Green
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ☣ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  | 
 
@@ -86,6 +99,10 @@ Dodge
 -   Easily parryable.
 -   There is a shorter ranged AOE version and a longer range, individual target version. Both function the same.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -98,6 +115,11 @@ Dodge
 
 -   Blocking negates much of but not all the insanity gain.
 -   Increases posture damage against all players affected by the roar, similarly to Ardour Scream.
+
+-   ¤ Debuff
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 
@@ -113,6 +135,10 @@ Dodge
 -   Players executed by the Cero move will be completely vaporized and will not drop a loot bag for others to interact with.
 -   Can either fire it immediately or delay its use of the laser beam. Watch carefully for what it will try to do.
 
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+
  | 
 
  |
@@ -125,6 +151,9 @@ Dodge
 
 -   This can chain into a different move eg: Slash feint into a Kick.
 
+-   ☕︎ Harmless
+-   «» Misc.
+
  | 
 
  |
@@ -134,6 +163,9 @@ Dodge
 (☆☆☆)
 
  | If the target is above it, the Exotic Megalodaunt will Jump at the direction of it's opponent to close the distance. Often used after Kick.
+
+-   ☕︎ Harmless
+-   ⟡ Movement
 
  | 
 

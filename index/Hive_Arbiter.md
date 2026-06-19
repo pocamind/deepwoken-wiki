@@ -1,6 +1,6 @@
 ---
 title: Hive Arbiter
-revid: 195200
+revid: 216113
 source: https://deepwoken.fandom.com/wiki/Hive_Arbiter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Hive Enemies, Ambush Enemies]
@@ -33,6 +33,10 @@ A Hive Arbiter's arsenal consists of a [Katana](Katana.md) and [Flamecharm](Flam
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -40,6 +44,10 @@ A Hive Arbiter's arsenal consists of a [Katana](Katana.md) and [Flamecharm](Flam
 (★★☆)
 
  | Sheathes blade before dashing forward and unleashing a quick slash.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -49,6 +57,10 @@ A Hive Arbiter's arsenal consists of a [Katana](Katana.md) and [Flamecharm](Flam
 
  | Caster slams down with their blade coated in flames.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -56,6 +68,11 @@ A Hive Arbiter's arsenal consists of a [Katana](Katana.md) and [Flamecharm](Flam
 (★☆☆)
 
  | Caster dashes forward covered in flames; knocking down whoever is in its path.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⟡ Movement
 
  |
 | 
@@ -65,6 +82,11 @@ A Hive Arbiter's arsenal consists of a [Katana](Katana.md) and [Flamecharm](Flam
 
  | Caster sheathes their blade and then teleports into an uppercutting slash.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
+
  |
 | 
 
@@ -72,6 +94,10 @@ A Hive Arbiter's arsenal consists of a [Katana](Katana.md) and [Flamecharm](Flam
 (★★☆)
 
  | Caster sends powerful slash that chips through block and slashes through armor.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

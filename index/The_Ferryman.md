@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 215263
+revid: 216031
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Voiced Characters]
@@ -62,6 +62,9 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 -   He cannot teleport close to you, and if he does so, he will teleport again.
 -   In Phase 2, this will be accompanied by a small pulse akin to [Flamecharm's](Flamecharm.md) Flame Repulsion and King Gigamed's repulsion move.
 
+-   ⛧ Teleport
+-   ☕︎ Harmless
+
  |
 | 
 
@@ -75,6 +78,9 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 -   He grants an attack opportunity whilst summoning his clones, but there is no ending attack opportunity afterward. This attack opportunity duration is shared with Grand Volley.
 -   Unlike melee, ranged Mantras will not trigger his Displacement, allowing for an additional attack opportunity if you have one.
 -   Killing the clones while having the [Grand Feast](Talents.md#apex-predator) Talent will replenish health, Ether and Tempo.
+
+-   \+ Summon
+-   ☕︎ Harmless
 
  |
 | 
@@ -90,6 +96,11 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 -   Grants auto-parry frames during this attack in both phases. Parrying a single instance of a Lightning Strike will automatically parry the following pulses, ONLY if each pulse hits you. If a pulse misses, you will have to parry again to restart the auto-parry frames. If you are in a bad spot or do not want to rush, this can be helpful for avoiding damage.
 -   Due to the attack being faster in the second phase, a much "longer" attack opportunity will be given afterward.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   💀 Autogrip
+
  |
 | 
 
@@ -104,6 +115,11 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 -   Becomes much faster in phase two.
 -   The Ferryman has auto-parry frames during this attack, nullifying any hits that may be about to hit him while executing Lightning Assault.
 -   Parrying any of these hits after two parries of the Ferryman's attacks in quick succession, including via. previous failed instances of this attack, will grant an attack opportunity. Otherwise, gives no attack opportunity.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   💀 Autogrip
 
  |
 | **Attacks unlocked on Phase 2** |
@@ -121,6 +137,12 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 -   In a similar manner to his Lightning Assault attack, the Ferryman will give a (although much briefer) attack opportunity should any of these javelins be parried following _four_ successful parries—this requires this attack to be chained more than once, an intentionally failed Lightning Assault for one to two recent parries, or multiple players parrying at once. Otherwise, gives no attack opportunity.
 -   Similarly to Lightning Clones, Ranged Mantras will not trigger his Displacement, allowing for an attack opportunity.
 -   Can be ragdoll-cancelled.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+-   💀 Autogrip
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Authority Cager
-revid: 210012
+revid: 216141
 source: https://deepwoken.fandom.com/wiki/Authority_Cager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Enemies, Central Authority Enemies, Enemies that can wield Enchantments]
@@ -41,6 +41,10 @@ Their arsenal consists of a [Duskguard Axe](Duskguard_Axe.md) (can be enchanted)
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -49,6 +53,11 @@ Their arsenal consists of a [Duskguard Axe](Duskguard_Axe.md) (can be enchanted)
 
  | Raises axe upward before slamming it down to the ground.
 
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤓ Knockdown
+
  |
 | 
 
@@ -56,6 +65,11 @@ Their arsenal consists of a [Duskguard Axe](Duskguard_Axe.md) (can be enchanted)
 (★☆☆)
 
  | Authority Cager conjures a ring of lightning blades.
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤓ Knockdown
 
  |
 

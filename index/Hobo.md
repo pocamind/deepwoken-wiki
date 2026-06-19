@@ -1,6 +1,6 @@
 ---
 title: Hobo
-revid: 208575
+revid: 216032
 source: https://deepwoken.fandom.com/wiki/Hobo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Enemies]
@@ -41,6 +41,10 @@ A Hobo's arsenal consists of [Fists](Fists.md) **(Way of Navae)** and the [Flame
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -48,6 +52,11 @@ A Hobo's arsenal consists of [Fists](Fists.md) **(Way of Navae)** and the [Flame
 (★★☆)
 
  | An eruption of flame under the user hitting anyone nearby.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 | 
@@ -57,6 +66,11 @@ A Hobo's arsenal consists of [Fists](Fists.md) **(Way of Navae)** and the [Flame
 
  | User dashes forward covered in flames; hitting anyone in their path.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⟡ Movement
+
  |
 | 
 
@@ -64,6 +78,10 @@ A Hobo's arsenal consists of [Fists](Fists.md) **(Way of Navae)** and the [Flame
 (★☆☆)
 
  | After a wind-up of ~2 seconds, user releases a burning AoE blast.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -73,6 +91,10 @@ A Hobo's arsenal consists of [Fists](Fists.md) **(Way of Navae)** and the [Flame
 
  | User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -80,6 +102,10 @@ A Hobo's arsenal consists of [Fists](Fists.md) **(Way of Navae)** and the [Flame
 (★★☆)
 
  | User spins and releases a fury of flames that sends both the user and opponent vertically into the air.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

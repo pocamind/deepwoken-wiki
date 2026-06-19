@@ -1,6 +1,6 @@
 ---
 title: Grudge
-revid: 211802
+revid: 216150
 source: https://deepwoken.fandom.com/wiki/Grudge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, Enemies]
@@ -49,6 +49,10 @@ The Grudge wields a Wraithclaw alongside the Haunted Path: Specter in its attack
 
  | The Grudge performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -56,6 +60,10 @@ The Grudge wields a Wraithclaw alongside the Haunted Path: Specter in its attack
 (★★☆)
 
  | The Grudge unleashes a barrage of six slashes.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -65,6 +73,11 @@ The Grudge wields a Wraithclaw alongside the Haunted Path: Specter in its attack
 
  | The Grudge releases an explosion of blue ether, pushing their opponent away.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ☕︎ Harmless
+
  |
 | 
 
@@ -73,12 +86,20 @@ The Grudge wields a Wraithclaw alongside the Haunted Path: Specter in its attack
 
  | The Grudge launches a slash of wind towards their opponent.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
 **Wind Forge**
 
  | The Grudge conjures several blades of wind that impales the opponent.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -88,6 +109,10 @@ The Grudge wields a Wraithclaw alongside the Haunted Path: Specter in its attack
 
  | The Grudge releases a punch of wind that knocks the opponent back.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -96,6 +121,10 @@ The Grudge wields a Wraithclaw alongside the Haunted Path: Specter in its attack
 
  | The Grudge creates a swirl of sharp winds that carve the opponents within it.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -103,6 +132,11 @@ The Grudge wields a Wraithclaw alongside the Haunted Path: Specter in its attack
 (★★☆)
 
  | The Grudge, in the blink of an eye, rushes forward, releasing aftercuts of wind for the distance it travelled.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⟡ Movement
 
  |
 

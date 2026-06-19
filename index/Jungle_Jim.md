@@ -1,6 +1,6 @@
 ---
 title: Jungle Jim
-revid: 197935
+revid: 216189
 source: https://deepwoken.fandom.com/wiki/Jungle_Jim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Pages requiring a cleanup, In progress without reason, InProgressPages, Individuals with unspecified pronouns]
@@ -41,6 +41,10 @@ Jungle Jim wields [Gale Pale](Gale_Pale.md). Additionally, they visibly possess 
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -48,6 +52,10 @@ Jungle Jim wields [Gale Pale](Gale_Pale.md). Additionally, they visibly possess 
 (★★☆)
 
  | Jim uses the Gale Pale critical (identical to [Pale Morning](Pale_Morning.md)).
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  | 
 
@@ -59,6 +67,11 @@ Jungle Jim wields [Gale Pale](Gale_Pale.md). Additionally, they visibly possess 
 
  | A quick dash signified by a red-line effect.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
+
  | 
 
  |
@@ -69,6 +82,10 @@ Jungle Jim wields [Gale Pale](Gale_Pale.md). Additionally, they visibly possess 
 
  | Jungle Jim spins around, unleashing a flurry of 4 kicks infused with the wind.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -78,6 +95,10 @@ Jungle Jim wields [Gale Pale](Gale_Pale.md). Additionally, they visibly possess 
 (★☆☆)
 
  | Jim unleashes 2 slashes, the first moving them forward, the second launching them backwards.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 
@@ -90,6 +111,11 @@ Jungle Jim wields [Gale Pale](Gale_Pale.md). Additionally, they visibly possess 
  | Summons a black casting circle before enveloping his target in black tendrils and tearing them apart.
 
 -   The move will instantly execute if it brings HP to 0.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   💀 Autogrip
 
  | 
 

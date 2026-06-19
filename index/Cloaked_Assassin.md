@@ -1,6 +1,6 @@
 ---
 title: Cloaked Assassin
-revid: 204297
+revid: 216121
 source: https://deepwoken.fandom.com/wiki/Cloaked_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -33,6 +33,10 @@ Their arsenal consists of either a [Whaling Knife](Whaling_Knife.md), [Krulian K
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -40,6 +44,10 @@ Their arsenal consists of either a [Whaling Knife](Whaling_Knife.md), [Krulian K
 (★★☆)
 
  | User unleashes a quick flurry of slashes.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -49,6 +57,11 @@ Their arsenal consists of either a [Whaling Knife](Whaling_Knife.md), [Krulian K
 
  | A powerful, flinging punch that shatters the air.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
  |
 | 
 
@@ -56,6 +69,11 @@ Their arsenal consists of either a [Whaling Knife](Whaling_Knife.md), [Krulian K
 (★☆☆)
 
  | A quick dash signified by a red-line effect, which teleports the user some distance forward upon activation.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
 
  |
 | 
@@ -65,6 +83,9 @@ Their arsenal consists of either a [Whaling Knife](Whaling_Knife.md), [Krulian K
 
  | A dash that sends the user a considerable distance forward. Deals no damage.
 
+-   ☕︎ Harmless
+-   ⟡ Movement
+
  |
 | 
 
@@ -72,6 +93,10 @@ Their arsenal consists of either a [Whaling Knife](Whaling_Knife.md), [Krulian K
 (★☆☆)
 
  | Forms three daggers of ice before throwing them towards the nearest person.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -81,6 +106,11 @@ Their arsenal consists of either a [Whaling Knife](Whaling_Knife.md), [Krulian K
 
  | An eruption of ice spikes in front of user. Deals moderate damage and applies freeze.
 
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ❆ Stun
+
  |
 | 
 
@@ -88,6 +118,11 @@ Their arsenal consists of either a [Whaling Knife](Whaling_Knife.md), [Krulian K
 (★☆☆)
 
  | Grapples onto an enemy and pulls them in.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ✴︎ Pull
 
  |
 | 
@@ -97,6 +132,8 @@ Their arsenal consists of either a [Whaling Knife](Whaling_Knife.md), [Krulian K
 
  | The user's body is enveloped in a lightning-like cloak, improving agility, swing speed, and granting lightning dashes.
 
+-   ☕︎ Harmless
+
  |
 | 
 
@@ -104,6 +141,11 @@ Their arsenal consists of either a [Whaling Knife](Whaling_Knife.md), [Krulian K
 (★☆☆)
 
  | Targets one enemy within a radius around the caster (signified by a red glow around the targeted foe) and lifts them up into the air before slamming them down.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
 
  |
 | 
@@ -113,6 +155,11 @@ Their arsenal consists of either a [Whaling Knife](Whaling_Knife.md), [Krulian K
 
  | The user pulls back weapon and rushes forward in a shadowy attack
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⟡ Movement
+
  |
 | 
 
@@ -120,6 +167,11 @@ Their arsenal consists of either a [Whaling Knife](Whaling_Knife.md), [Krulian K
 (★★☆)
 
  | Summons a chain out of their hand that quickly pulls you towards them.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ✴︎ Pull
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Parliament
-revid: 201250
+revid: 216172
 source: https://deepwoken.fandom.com/wiki/Parliament
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses, The Vat Exclusive]
@@ -35,6 +35,10 @@ Talon Swipe
 -   It can use this attack multiple times back-to-back, and is usually used during the downtime between other attacks.
 -   Swipes from its right arm come more quickly, while swings from its left arm are delayed somewhat.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -47,9 +51,13 @@ Strong Swipe
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  | 
 
@@ -66,9 +74,13 @@ Shade Cloak
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  | 
 
@@ -84,9 +96,13 @@ Curb Stomp
 
 _Uses Telegraph_
 
-[ParryTelegraph](Combat_Mechanics.md#green)
+[ParryTelegraph](Combat_Mechanics.md#parry)
 
 Parry
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   ↻ Undodgeable
 
  | 
 
@@ -97,6 +113,8 @@ Feather Coat
 (★★☆)
 
  | The Parliament raises and looks at its hand, giving itself a constant aura of black feathers and a full chip damage buff, lasting for 15 seconds.
+
+-   «» Misc.
 
  | 
 
@@ -110,6 +128,12 @@ Owl Dash
 
 -   Can end early without hitting you if it "collides" with something due to its large size.
 -   It will step back and gain distance before using this attack.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ↓ Crouch/Slide
+-   ⟡ Movement
 
  | 
 
@@ -126,9 +150,15 @@ Overhead Grab
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
+-   𓂘 Grab
 
  | 
 
@@ -141,6 +171,10 @@ Flock of Feathers
  | Bursts into a puff of feathers that targets the closest target, dealing substantial armor and chip damage on block.
 
 -   **Overhead Grab** and **Owl Dash** are typically used after this.
+
+-   ✦ Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 

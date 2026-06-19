@@ -1,6 +1,6 @@
 ---
 title: "Iblis, The Fallen Angel"
-revid: 214314
+revid: 216098
 source: https://deepwoken.fandom.com/wiki/Iblis%2C_The_Fallen_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Enemies, Enemies with Oaths, The Starkindred Church, Humanoids with Unobtainable Outfits]
@@ -35,6 +35,10 @@ Iblis' arsenal consists of a True Seraph's Spear along with the [Flamecharm](Fla
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -43,6 +47,10 @@ Iblis' arsenal consists of a True Seraph's Spear along with the [Flamecharm](Fla
 
  | The user performs a quick downslash before lunging forward. Both hits of this critical have innate bleed.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -50,6 +58,8 @@ Iblis' arsenal consists of a True Seraph's Spear along with the [Flamecharm](Fla
 (★★☆)
 
  | Performs a fake attack, before pulling back and committing to a thrust.
+
+-   ☕︎ Harmless
 
  |
 | 
@@ -60,6 +70,11 @@ Iblis' arsenal consists of a True Seraph's Spear along with the [Flamecharm](Fla
 
  | While he has his wings out, Iblis will rise in the air before unleashing a big wave of flames in front of him, dealing heavy damage if all hits land.
 
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
  |
 | 
 
@@ -67,6 +82,10 @@ Iblis' arsenal consists of a True Seraph's Spear along with the [Flamecharm](Fla
 (★★☆)
 
  | Iblis gathers flames in his hand and spins it like a whip grabbing anyone around him, before slamming them into the ground and inflicting Burn.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -76,6 +95,11 @@ Iblis' arsenal consists of a True Seraph's Spear along with the [Flamecharm](Fla
 
  | Conjures a flaming arrow and fires it at the nearest target, homes in and ricochets if blocked.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
  |
 | 
 
@@ -83,6 +107,11 @@ Iblis' arsenal consists of a True Seraph's Spear along with the [Flamecharm](Fla
 (★★☆)
 
  | Rises into the air, before swooping in downwards. This applies hard knockdown on hit.
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤓ Knockdown
 
  |
 | 
@@ -92,6 +121,10 @@ Iblis' arsenal consists of a True Seraph's Spear along with the [Flamecharm](Fla
 
  | Launches a multi hit halo of divine energy forward, shredding anyone caught in its range.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -99,6 +132,10 @@ Iblis' arsenal consists of a True Seraph's Spear along with the [Flamecharm](Fla
 (★★☆)
 
  | Delivers an upward slash that makes both parties airborne before delivering another sideway slash that sends the target away.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

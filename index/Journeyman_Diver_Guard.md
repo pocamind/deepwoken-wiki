@@ -1,6 +1,6 @@
 ---
 title: Journeyman Diver Guard
-revid: 194992
+revid: 216106
 source: https://deepwoken.fandom.com/wiki/Journeyman_Diver_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Divers, Diver Enemies, Ambush Enemies]
@@ -35,6 +35,10 @@ A Journeymen Diver's arsenal consists of either a [Acheron's Warspear](<Acheron'
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -45,6 +49,10 @@ A Journeymen Diver's arsenal consists of either a [Acheron's Warspear](<Acheron'
 
 -   The Markor's Inheritor criticial is not blockable.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -52,6 +60,10 @@ A Journeymen Diver's arsenal consists of either a [Acheron's Warspear](<Acheron'
 (★★☆)
 
  | Diver lunges forward with their weapon coated in wind.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -62,6 +74,10 @@ A Journeymen Diver's arsenal consists of either a [Acheron's Warspear](<Acheron'
 
  | Teleports to the nearest target before sending out a shocking AoE.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -69,6 +85,11 @@ A Journeymen Diver's arsenal consists of either a [Acheron's Warspear](<Acheron'
 (★★☆)
 
  | Sends a projectile that latches onto a target before pulling them in. Has insane range.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ✴︎ Pull
 
  |
 | 
@@ -78,6 +99,10 @@ A Journeymen Diver's arsenal consists of either a [Acheron's Warspear](<Acheron'
 
  | Throws out three daggers of ice that fly to you and damage you, freezing you in place momentarily.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -85,6 +110,10 @@ A Journeymen Diver's arsenal consists of either a [Acheron's Warspear](<Acheron'
 (★★☆)
 
  | Wraps their weapon in fire and strikes, dealing massive posture damage if blocked.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -94,6 +123,10 @@ A Journeymen Diver's arsenal consists of either a [Acheron's Warspear](<Acheron'
 
  | Conjure shadows around your enemy before warping to them after a delay.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -102,6 +135,9 @@ A Journeymen Diver's arsenal consists of either a [Acheron's Warspear](<Acheron'
 
  | Snaps their fingers and swaps their location with another target.
 
+-   ☕︎ Harmless
+-   «» Misc.
+
  |
 | 
 
@@ -109,6 +145,11 @@ A Journeymen Diver's arsenal consists of either a [Acheron's Warspear](<Acheron'
 (★☆☆)
 
  | An explosion of blue ether around the user that pushes opponents away.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ☕︎ Harmless
 
  |
 

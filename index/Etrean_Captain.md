@@ -1,6 +1,6 @@
 ---
 title: Etrean Captain
-revid: 199072
+revid: 216205
 source: https://deepwoken.fandom.com/wiki/Etrean_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Etrea Enemies]
@@ -35,6 +35,10 @@ A Etrean Captain's arsenal consists of a [Vigil Longsword](Vigil_Longsword.md) (
 
  | Etrean Captain performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -43,6 +47,10 @@ A Etrean Captain's arsenal consists of a [Vigil Longsword](Vigil_Longsword.md) (
 (★★☆)
 
  | Etrean Captain performs an upward slash in front of the user.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -53,6 +61,10 @@ A Etrean Captain's arsenal consists of a [Vigil Longsword](Vigil_Longsword.md) (
 
  | Etrean Captain lunges forward with their weapon coated in wind.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -61,6 +73,10 @@ A Etrean Captain's arsenal consists of a [Vigil Longsword](Vigil_Longsword.md) (
 (★☆☆)
 
  | Etrean Captain shoots out an arc of gale.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -71,6 +87,10 @@ A Etrean Captain's arsenal consists of a [Vigil Longsword](Vigil_Longsword.md) (
 
  | Etrean Captain swiftly strikes the opponent with winds taking the shape of a star.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -79,6 +99,10 @@ A Etrean Captain's arsenal consists of a [Vigil Longsword](Vigil_Longsword.md) (
 (★★☆)
 
  | The Etrean Captain punches the air shooting out a gust of wind.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -89,6 +113,10 @@ A Etrean Captain's arsenal consists of a [Vigil Longsword](Vigil_Longsword.md) (
 
  | Etrean Captain winds up before teleporting a short distance horizontally while dealing damage.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -97,6 +125,11 @@ A Etrean Captain's arsenal consists of a [Vigil Longsword](Vigil_Longsword.md) (
 (★★☆)
 
  | The Etrean Captain sheathes their sword before following up with a teleporting uppercut.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
 
  |
 

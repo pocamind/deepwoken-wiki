@@ -1,6 +1,6 @@
 ---
 title: Thief
-revid: 214522
+revid: 216058
 source: https://deepwoken.fandom.com/wiki/Thief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Bandits]
@@ -35,6 +35,10 @@ Their arsenal only consists of a [Silver Dagger](Silver_Dagger.md):
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -42,6 +46,10 @@ Their arsenal only consists of a [Silver Dagger](Silver_Dagger.md):
 (★★☆)
 
  | Unleashes a quick flurry attack onto their opponent.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

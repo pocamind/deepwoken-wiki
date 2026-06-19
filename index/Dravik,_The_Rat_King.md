@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 216017
+revid: 216024
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats, Humanoids with Unobtainable Outfits, Enemies]
@@ -51,6 +51,10 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
  | Dravik uses his battleaxe to slash his opponent.
 
+-   𓆩✧𓆪 Parryable
+-   § Dodgeable
+-   ⛊ Blockable
+
  | 
 
  |
@@ -61,12 +65,19 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
  | Dravik raises his battleaxe before firmly slamming it down into the ground.
 
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+
  |  |
 | 
 
 **Feint**
 
  | Dravik cancels his attack mid swing to fake out the player.
+
+-   «» Misc.
+-   ☕︎ Harmless
 
  |  |
 | 
@@ -79,6 +90,10 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 -   There is a noticeable delay between the first swing and the follow-up spins.
 -   A low-pitched sound cue plays to indicate this attack.
+
+-   𓆩✧𓆪 Parryable
+-   § Dodgeable
+-   ⛊ Blockable
 
  | 
 
@@ -96,6 +111,10 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 -   The rushing part is similar to **Ruler's Rush**, which may throw you off.
 -   A higher-pitched sound cue plays to indicate this attack, along with having different visual effects.
 
+-   𓆩✧𓆪 Parryable
+-   § Dodgeable
+-   ⛉ Unblockable
+
  | 
 
  |
@@ -111,6 +130,11 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 -   The slam can be feinted into Gilded Lefts.
 -   The slam may also be jumped over.
+
+-   𓆩✧𓆪 Parryable
+-   § Dodgeable
+-   ⛉ Unblockable
+-   ↑ Jump-Avoidable
 
  | 
 
@@ -128,6 +152,10 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 -   Following what's said from the above, sometimes if you stand into the circle given by the visuals, you won't be hit, but standing right at the back of it gets you hit.
 -   Oddly, this move seems to have the highest chance of a voiceline playing. For whatever reason, this seems to be intentional, as Pasmarkinti used to have the highest chance, but was deliberately changed to this move.
 
+-   𓆩✧𓆪 Parryable
+-   § Dodgeable
+-   ⛊ Blockable
+
  | 
 
  |
@@ -141,6 +169,10 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 -   This move can be feinted into **Ruler's Rush** after any of the slashes.
 -   The windup is similar to the first swing of **Golden Tornado**, but faster
+
+-   𓆩✧𓆪 Parryable
+-   § Dodgeable
+-   ⛊ Blockable
 
  | 
 
@@ -156,6 +188,10 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 -   This move is only performed after feinting **Glowing Slashes**.
 -   Dravik may follow this move up with **Glistening Crush**
 
+-   𓆩✧𓆪 Parryable
+-   § Dodgeable
+-   ⛉ Unblockable
+
  | 
 
  |
@@ -168,6 +204,10 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
  | Dravik performs three swings at a consistent interval: first from the player's right side, then left side and finishing with an overhead swing.
 
 -   This move is always followed by **Pasmarkinti**.
+
+-   𓆩✧𓆪 Parryable
+-   § Dodgeable
+-   ⛊ Blockable
 
  | 
 
@@ -183,6 +223,10 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 -   This move can be used up to three times in a row.
 -   Dravik can feint the third slash of any of the three attacks into a slower slash.
 
+-   𓆩✧𓆪 Parryable
+-   § Dodgeable
+-   ⛊ Blockable
+
  | 
 
  |
@@ -196,6 +240,10 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 -   This move is rarely ever used, mostly when the player is at a distance and facing away from Dravik.
 -   This move has no sound or visual cue, making it very hard to react to.
+
+-   𓆩✧𓆪 Parryable
+-   § Dodgeable
+-   ⛊ Blockable
 
  | 
 
@@ -211,6 +259,10 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 -   This move is heavily telegraphed.
 -   This move also has an absurd hitbox, if you back up 1ft or two, you can easily dodge it.
 
+-   𓆩✧𓆪 Parryable
+-   § Dodgeable
+-   ⛊ Blockable
+
  | 
 
  |
@@ -225,6 +277,10 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 -   This can be overlapped with Dravik's other attacks, causing you to be overwhelmed if not careful.
 -   During his second phase, Dravik summons two sets of axes.
 
+-   𓆩✧𓆪 Parryable
+-   § Dodgeable
+-   ⛊ Blockable
+
  | 
 
  |
@@ -238,6 +294,10 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 -   The swing itself is quite quick, so try to learn the timing of the attack. Do not panic dodge.
 -   Unlike **Aureate Flourish'**s slam, if you try to jump over this, you will die.
+
+-   𓆩✧𓆪 Parryable
+-   § Dodgeable
+-   ⛉ Unblockable
 
  | 
 

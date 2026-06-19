@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 215253
+revid: 216203
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Disaster, Monsters, Bosses, Events]
@@ -49,6 +49,9 @@ It can be damaged by cannons, if you do not want to attack him in close combat.
 
 -   He will use either Sudden Ambush or Pressure Eruption after this move.
 
+-   «» Misc.
+-   ☕︎ Harmless
+
  | 
 
  |
@@ -58,6 +61,11 @@ It can be damaged by cannons, if you do not want to attack him in close combat.
 (★★☆)
 
  | The Doom summons multiple geysers underneath players that fling you into the air, able to knock players from their boat into the water, dealing great damage.
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |  |
 | 
@@ -72,6 +80,11 @@ It can be damaged by cannons, if you do not want to attack him in close combat.
 -   Surprisingly, though not recommended, this is parryable with [Force Your Way](Talents.md#force-your-way).
 -   This will sink your boat if the Doom lands on you on its way down
 
+-   ☣ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   💀 Autogrip
+
  | 
 
  |
@@ -82,6 +95,11 @@ It can be damaged by cannons, if you do not want to attack him in close combat.
 
  | When getting attacked by weapons, the Doom spins horizontally, knocking back players and doing a low amount of damage.
 
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   ⤻ Ragdoll
+
  |  |
 | 
 
@@ -89,6 +107,10 @@ It can be damaged by cannons, if you do not want to attack him in close combat.
 (★☆☆)
 
  | The Doom charges up, before unleashing a powerful roar that does damage, summoning multiple waves that do damage to boats and carry away swept enemies.
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
 
  | 
 
@@ -104,6 +126,12 @@ It can be damaged by cannons, if you do not want to attack him in close combat.
 -   This can fling you back into the attack, dealing very significant damage.
 -   It is highly recommended to try to avoid this attack if possible.
 
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   ↻ Undodgeable
+-   ⤻ Ragdoll
+-   💀 Autogrip
+
  |  |
 | 
 
@@ -115,6 +143,11 @@ It can be damaged by cannons, if you do not want to attack him in close combat.
 -   This attack is scripted to only be used when Caeranthil swims to [Etris](Etris.md)' docks and this attack will always be aimed at the docks.
 -   It will wait at Etris' docks, staying idle, until a player is nearby the docks to use the move.
 -   Bypasses [Celtorian Tideknight](Celtorian_Tideknight.md)'s Talent.
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   💀 Autogrip
 
  | 
 

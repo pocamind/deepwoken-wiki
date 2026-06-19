@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 208335
+revid: 216056
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Bandits, Ambush Enemies]
@@ -35,6 +35,10 @@ A Bandit's arsenal consists of a starter weapon, them being either a [Battleaxe]
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -47,6 +51,10 @@ A Bandit's arsenal consists of a starter weapon, them being either a [Battleaxe]
 \[[Stiletto](Stiletto.md)\] Unleash a quick flurry attack on opponent.
 
 -   Battleaxe and Mace criticals are not blockable.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

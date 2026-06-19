@@ -1,6 +1,6 @@
 ---
 title: Forgotten Villager
-revid: 207469
+revid: 216074
 source: https://deepwoken.fandom.com/wiki/Forgotten_Villager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, NPCs located in the Etrean Luminant]
@@ -42,6 +42,10 @@ A Forgotten Villager's arsenal only consists of their [Fists](Fists.md), using t
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -49,6 +53,10 @@ A Forgotten Villager's arsenal only consists of their [Fists](Fists.md), using t
 (★★☆)
 
  | Raises their leg up before stomping the ground in front of them.
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  |
 

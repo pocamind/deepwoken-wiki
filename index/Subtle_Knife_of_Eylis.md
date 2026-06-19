@@ -1,6 +1,6 @@
 ---
 title: Subtle Knife of Eylis
-revid: 209105
+revid: 216092
 source: https://deepwoken.fandom.com/wiki/Subtle_Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths, Knives of Eylis Enemies]
@@ -38,6 +38,10 @@ A Subtle Knife of Eylis is equipped with a Whaling Knife that has a chance to be
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -45,6 +49,10 @@ A Subtle Knife of Eylis is equipped with a Whaling Knife that has a chance to be
 (★★☆)
 
  | The knife uses the Whaling Knife's special critical, creating a wave of red energy as they slash forward.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -54,6 +62,10 @@ A Subtle Knife of Eylis is equipped with a Whaling Knife that has a chance to be
 
  | Conjures a growing orb that slows down the movement of everyone except Knives of Eylis members.
 
+-   ¤ Debuff
+-   «» Misc.
+-   ☕︎ Harmless
+
  |
 | 
 
@@ -61,6 +73,9 @@ A Subtle Knife of Eylis is equipped with a Whaling Knife that has a chance to be
 (☆☆☆)
 
  | An agile dash.
+
+-   ⟡ Movement
+-   ☕︎ Harmless
 
  |
 | 
@@ -70,6 +85,9 @@ A Subtle Knife of Eylis is equipped with a Whaling Knife that has a chance to be
 
  | An adrenaline rush of mobility. Grants a speed boost to the caster.
 
+-   ☕︎ Harmless
+-   «» Misc.
+
  |
 | 
 
@@ -77,6 +95,11 @@ A Subtle Knife of Eylis is equipped with a Whaling Knife that has a chance to be
 (★☆☆)
 
  | Rush down your opponent cutting them apart.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
 
  |
 | 
@@ -86,6 +109,11 @@ A Subtle Knife of Eylis is equipped with a Whaling Knife that has a chance to be
 
  | Winds up and hurls a powerful punch that shatters the air and flings the opponent away.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
  |
 | 
 
@@ -93,6 +121,11 @@ A Subtle Knife of Eylis is equipped with a Whaling Knife that has a chance to be
 (★☆☆)
 
  | A vengeful rush.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
 
  |
 

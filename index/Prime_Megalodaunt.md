@@ -1,6 +1,6 @@
 ---
 title: Prime Megalodaunt
-revid: 213920
+revid: 216170
 source: https://deepwoken.fandom.com/wiki/Prime_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Vat Exclusive]
@@ -39,6 +39,10 @@ Despite all of the above, they behave like regular Megalodaunts. Master its atta
 -   Heavy posture damage.
 -   Prime Megalodaunts attack with a much quicker pace and don't leave much time for you to attack back. Do not get greedy for hits as you can get punished easily.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -51,9 +55,13 @@ Despite all of the above, they behave like regular Megalodaunts. Master its atta
 
 _Uses Telegraph_
 
-[ParryTelegraph](Combat_Mechanics.md#green)
+[ParryTelegraph](Combat_Mechanics.md#parry)
 
-Green
+Parry
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
 
  | 
 
@@ -70,9 +78,14 @@ Green
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[HighPostureTelegraph](Combat_Mechanics.md#hp)
 
-Dodge
+High posture
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ↗ Ragdoll
 
  | 
 
@@ -87,6 +100,10 @@ Dodge
 -   Lasts as long as auto-parry frames, meaning you can simply parry once to parry the whole attack.
 -   There is a shorter-ranged AoE version and a longer-ranged single-target version. Both function the same.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -99,6 +116,11 @@ Dodge
 
 -   Usually used as the Prime Megalodaunt's first move.
 -   Blocking negates much of but not all the Insanity gain.
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ¤ Debuff
 
  | 
 
@@ -114,9 +136,17 @@ Dodge
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[HighPostureTelegraph](Combat_Mechanics.md#hp)
 
-Dodge
+High posture
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   💀 Autogrip
+-   ⛧ Teleport
+-   𓂘 Grab
+-   ⤻ Ragdoll
 
  | 
 
@@ -132,9 +162,14 @@ Dodge
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
 
  | 
 
@@ -152,9 +187,14 @@ Dodge
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   💀 Autogrip
 
  | 
 
@@ -165,6 +205,9 @@ Dodge
 (☆☆☆)
 
  | If the target is above it, the Prime Megalodaunt will jump in the direction of its opponent to close the distance. Often used after **Kick**.
+
+-   ☕︎ Harmless
+-   ⟡ Movement
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: "Knell, The Lunatic Resonator"
-revid: 214534
+revid: 216143
 source: https://deepwoken.fandom.com/wiki/Knell%2C_The_Lunatic_Resonator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Anansi NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, Enemies, Bosses, Humanoid Bosses, Deceased characters, Voiced Characters]
@@ -53,6 +53,10 @@ _For a visual guide, consider watching [this video.](https://www.youtube.com/wat
 
  | Knell slashes at the player with his claws six times.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -65,9 +69,14 @@ _For a visual guide, consider watching [this video.](https://www.youtube.com/wat
 
 _Uses Telegraph_
 
-[JumpTelegraph](Combat_Mechanics.md#magenta)
+[JumpTelegraph](Combat_Mechanics.md#jump)
 
 Jump
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   ↑ Jump-Avoidable
 
  | 
 
@@ -84,9 +93,15 @@ Jump
 
 _Uses Telegraph_
 
-[ParryTelegraph](Combat_Mechanics.md#green)
+[ParryTelegraph](Combat_Mechanics.md#parry)
 
 Parry
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   𓂘 Grab
+-   ¤ Debuff
 
  | 
 
@@ -97,6 +112,11 @@ Parry
 (★☆☆)
 
  | Knell flicks one of his hands upwards, causing a small cluster of bells to fall on the player.
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   💀 Autogrip
 
  | 
 
@@ -109,6 +129,11 @@ Parry
  | Knell throws both of his hands forwards, causing a large cluster of bells to fall on the player.
 
 -   This attack is simmilar to **Bell Fall** but applies knockdown upon being hit.
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤓ Knockdown
 
  | 
 
@@ -124,9 +149,13 @@ Parry
 
 _Uses Telegraph_
 
-[BlockTelegraph](Combat_Mechanics.md#blue)
+[BlockTelegraph](Combat_Mechanics.md#block)
 
 Block
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   ↻ Undodgeable
 
  | 
 
@@ -140,6 +169,10 @@ Block
  | Knell twirls in place and summon needles that rain from above.
 
 -   The needles have collision, which could interrupt your movement.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 
@@ -155,9 +188,15 @@ Block
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+-   ⤓ Knockdown
 
  | 
 
@@ -174,9 +213,14 @@ Dodge
 
 _Uses Telegraph_
 
-[AvoidTelegraph](Combat_Mechanics.md#skull)
+[AvoidTelegraph](Combat_Mechanics.md#avoid)
 
 Avoid
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   Ø Undefendable
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Ministry Agent
-revid: 206358
+revid: 216146
 source: https://deepwoken.fandom.com/wiki/Ministry_Agent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, Individuals with They/them pronouns, NPCs, Enemies, Ministry Enemies]
@@ -86,6 +86,10 @@ The Agent wields the [Deepspindle](Deepspindle.md) along with a variety of [Shad
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -93,6 +97,10 @@ The Agent wields the [Deepspindle](Deepspindle.md) along with a variety of [Shad
 (★★☆)
 
  | Lunges forward, marking an enemy before dealing damage multiple times. This critical attack applies true stun, preventing any and all actions while being hit.
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  |
 | 
@@ -104,6 +112,10 @@ The Agent wields the [Deepspindle](Deepspindle.md) along with a variety of [Shad
 
 -   This attack can summon multiple tendrils to grab multiple people simultaneously.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -111,6 +123,11 @@ The Agent wields the [Deepspindle](Deepspindle.md) along with a variety of [Shad
 (★☆☆)
 
  | A quick dash signified by a red-line effect, the mantra teleports him forward upon hitting the player or the player's block.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
 
  |
 | 
@@ -120,6 +137,11 @@ The Agent wields the [Deepspindle](Deepspindle.md) along with a variety of [Shad
 
  | Windup before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⟡ Movement
+
  |
 | 
 
@@ -127,6 +149,11 @@ The Agent wields the [Deepspindle](Deepspindle.md) along with a variety of [Shad
 (★★☆)
 
  | The user performs a slow axe kick, causing nearby opponents to be ragdolled and flung back.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 | 
@@ -136,6 +163,10 @@ The Agent wields the [Deepspindle](Deepspindle.md) along with a variety of [Shad
 
  | The user swipes with their right hand before releasing a large sphere of shadow. It hits twice and covers the opponent in shadow both times.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -143,6 +174,11 @@ The Agent wields the [Deepspindle](Deepspindle.md) along with a variety of [Shad
 (★☆☆)
 
  | An explosion of blue ether around the user that pushes opponents away.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ☕︎ Harmless
 
  |
 

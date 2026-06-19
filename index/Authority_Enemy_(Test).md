@@ -1,6 +1,6 @@
 ---
 title: Authority Enemy (Test)
-revid: 191330
+revid: 216181
 source: https://deepwoken.fandom.com/wiki/Authority_Enemy_(Test)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Articles with conjectural titles, Stub pages without reason, StubPages, Central Authority Enemies]
@@ -34,6 +34,10 @@ Assault
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |  |
 | 
 
@@ -42,6 +46,10 @@ Assault
 
  | Reels the weapon back before delivering a strong stab.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |  |
 | 
 
@@ -49,6 +57,10 @@ Assault
 (★★☆)
 
  | Performs a ritual, after which quickly throws 3 flaming daggers at the target.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |  |
 

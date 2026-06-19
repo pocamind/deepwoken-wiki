@@ -1,6 +1,6 @@
 ---
 title: Emar Vend
-revid: 201351
+revid: 216155
 source: https://deepwoken.fandom.com/wiki/Emar_Vend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Enemies with Oaths, Central Authority defectors]
@@ -43,6 +43,10 @@ Emar Vend wields a Metal Darksteel Greatsword, Two of the three [Chainwarden](Oa
 
  | Emar Vend performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -52,6 +56,11 @@ Emar Vend wields a Metal Darksteel Greatsword, Two of the three [Chainwarden](Oa
  | Emar Vend stands his ground before harshly swinging his Darksteel Greatsword.
 
 -   Vend gains true hyperarmor during this attack animation. Do not attempt to hitstun him out of it.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
 
  |
 | 
@@ -63,6 +72,11 @@ Emar Vend wields a Metal Darksteel Greatsword, Two of the three [Chainwarden](Oa
 
 -   This applies a chain if it hits or is blocked, limiting your movement. This attack should be parried or dodged if possible.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ¤ Debuff
+
  |
 | 
 
@@ -71,6 +85,10 @@ Emar Vend wields a Metal Darksteel Greatsword, Two of the three [Chainwarden](Oa
 
  | Emar Vend hides his torso with his hands, creating caltrops and throwing them at the last second.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -78,5 +96,10 @@ Emar Vend wields a Metal Darksteel Greatsword, Two of the three [Chainwarden](Oa
 (☆☆☆)
 
  | An explosion of blue ether around the user that pushes opponents away.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ☕︎ Harmless
 
  |

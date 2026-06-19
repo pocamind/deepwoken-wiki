@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 215231
+revid: 216060
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers, Humanoids with Unobtainable Outfits]
@@ -33,6 +33,10 @@ A Songseeker Frostdrawer's arsenal consists of [Fists](Fists.md) **(Way of Navae
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -40,6 +44,10 @@ A Songseeker Frostdrawer's arsenal consists of [Fists](Fists.md) **(Way of Navae
 (★★☆)
 
  | Raises left leg before slamming it to the ground below.
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  |
 | 
@@ -49,6 +57,10 @@ A Songseeker Frostdrawer's arsenal consists of [Fists](Fists.md) **(Way of Navae
 
  | Conjure a spike of ice from the ground at cursor location.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -56,6 +68,10 @@ A Songseeker Frostdrawer's arsenal consists of [Fists](Fists.md) **(Way of Navae
 (★★☆)
 
  | User forms three daggers of ice before throwing them towards the nearest person.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -65,6 +81,10 @@ A Songseeker Frostdrawer's arsenal consists of [Fists](Fists.md) **(Way of Navae
 
  | Creates two blades of ice and rushes forward rapidly slashing.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -72,6 +92,11 @@ A Songseeker Frostdrawer's arsenal consists of [Fists](Fists.md) **(Way of Navae
 (★★☆)
 
  | Erupts ice from the ground trapping anyone caught in it.
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ❆ Stun
 
  |
 | 
@@ -81,6 +106,10 @@ A Songseeker Frostdrawer's arsenal consists of [Fists](Fists.md) **(Way of Navae
 
  | Creates a giant mace of ice to smash opponents with.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -88,6 +117,11 @@ A Songseeker Frostdrawer's arsenal consists of [Fists](Fists.md) **(Way of Navae
 (★☆☆)
 
  | An explosion of blue ether around the user that pushes opponents away.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ☕︎ Harmless
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Bloodstarved Hunter
-revid: 205622
+revid: 216190
 source: https://deepwoken.fandom.com/wiki/Bloodstarved_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Vow of Iron Exclusive]
@@ -48,6 +48,9 @@ The Bloodstarved Hunter wields [The Death Knell](The_Death_Knell.md) and utilize
   (★☆☆)</center></td>
   <td>Performs 3 basic attacks before sending the opponent away with a flourish.<div>
   <ul>
+    <li>𓆩✧𓆪 Parryable</li>
+    <li>⛊ Blockable</li>
+    <li>§ Dodgeable</li>
   </ul></div></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
@@ -56,6 +59,9 @@ The Bloodstarved Hunter wields [The Death Knell](The_Death_Knell.md) and utilize
   (★★☆)</center></td>
   <td>Jim uses the Death Knell critical (identical to <a href="Light's_Final_Toll.md">Light's Final Toll</a>).<div>
   <ul>
+    <li>𓆩✧𓆪 Parryable</li>
+    <li>⛊ Blockable</li>
+    <li>§ Dodgeable</li>
   </ul></div></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
@@ -64,6 +70,10 @@ The Bloodstarved Hunter wields [The Death Knell](The_Death_Knell.md) and utilize
   (★☆☆)</center></td>
   <td>A quick dash signified by a red-line effect.<div>
   <ul>
+    <li>𓆩✧𓆪 Parryable</li>
+    <li>⛊ Blockable</li>
+    <li>§ Dodgeable</li>
+    <li>⛧ Teleport</li>
   </ul></div></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
@@ -75,6 +85,10 @@ The Bloodstarved Hunter wields [The Death Knell](The_Death_Knell.md) and utilize
     <li>The move will instantly execute if it brings HP to 0.</li>
   </ul><div>
   <ul>
+    <li>𓆩✧𓆪 Parryable</li>
+    <li>⛊ Blockable</li>
+    <li>§ Dodgeable</li>
+    <li>💀 Autogrip</li>
   </ul></div></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>

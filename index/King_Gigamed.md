@@ -1,6 +1,6 @@
 ---
 title: King Gigamed
-revid: 213976
+revid: 216095
 source: https://deepwoken.fandom.com/wiki/King_Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -39,9 +39,13 @@ Sometimes, they can be very stylish and dapper.
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -55,9 +59,13 @@ Dodge
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -70,6 +78,8 @@ Dodge
 -   The summoned Gigameds will die after using Electric Stun Pulse, along with having 1 health, allowing them to die to even a Vent.
     -   Electric Stun Pulse is a [Gigamed](Gigamed.md) attack that, similar to Greater Stun Pulse, causes a pulse of a electricity in an AoE. This attack is blockable and dodgeable, but not parryable.
 -   If killed, the summoned Gigameds will give you a solid healthpack.
+
+-   \+ Summon
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Fighter
-revid: 194939
+revid: 216068
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Ignition Union, Ignition Union Enemies]
@@ -37,6 +37,10 @@ An Ignition Union Fighter is equipped with either a [Falchion](Falchion.md) or [
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -50,6 +54,10 @@ An Ignition Union Fighter is equipped with either a [Falchion](Falchion.md) or [
 -   The Falchion critical has extremely high chip damage.
 -   The Darksteel Greatsword critical deals very high posture damage and grants hyperarmor for the full attack animation.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -57,6 +65,10 @@ An Ignition Union Fighter is equipped with either a [Falchion](Falchion.md) or [
 (★☆☆)
 
  | User leaps into the air and pelts the enemy with a trio of metal rods.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -66,6 +78,10 @@ An Ignition Union Fighter is equipped with either a [Falchion](Falchion.md) or [
 
  | User forms five rifles out of metal that open fire on their target.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -73,6 +89,10 @@ An Ignition Union Fighter is equipped with either a [Falchion](Falchion.md) or [
 (★★☆)
 
  | User rushes forward while surrounded by an array of metal swords.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Songseeker Flamecharmer
-revid: 215233
+revid: 216062
 source: https://deepwoken.fandom.com/wiki/Songseeker_Flamecharmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers, Humanoids with Unobtainable Outfits]
@@ -35,6 +35,10 @@ A Songseeker Flamecharmer's arsenal consists of [Fists](Fists.md) (**Way of Nava
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -42,6 +46,10 @@ A Songseeker Flamecharmer's arsenal consists of [Fists](Fists.md) (**Way of Nava
 (★★☆)
 
  | Raises left leg before slamming it to the ground below.
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  |
 | 
@@ -51,6 +59,10 @@ A Songseeker Flamecharmer's arsenal consists of [Fists](Fists.md) (**Way of Nava
 
  | User slams down with their blade coated in flames.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -58,6 +70,10 @@ A Songseeker Flamecharmer's arsenal consists of [Fists](Fists.md) (**Way of Nava
 (★☆☆)
 
  | After a wind-up of ~2 seconds, user releases a burning AoE blast.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -67,6 +83,10 @@ A Songseeker Flamecharmer's arsenal consists of [Fists](Fists.md) (**Way of Nava
 
  | Conjures a wave of fire from the palm of the users hand.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -74,6 +94,11 @@ A Songseeker Flamecharmer's arsenal consists of [Fists](Fists.md) (**Way of Nava
 (★★☆)
 
  | An eruption of flame under the user hitting anyone nearby.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 | 
@@ -83,6 +108,11 @@ A Songseeker Flamecharmer's arsenal consists of [Fists](Fists.md) (**Way of Nava
 
  | Conjures a blazing arrow that tracks opponents.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
  |
 | 
 
@@ -90,6 +120,11 @@ A Songseeker Flamecharmer's arsenal consists of [Fists](Fists.md) (**Way of Nava
 (★☆☆)
 
  | An explosion of blue ether around the user that pushes opponents away.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ☕︎ Harmless
 
  |
 

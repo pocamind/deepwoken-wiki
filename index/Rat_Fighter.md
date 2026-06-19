@@ -1,6 +1,6 @@
 ---
 title: Rat Fighter
-revid: 206680
+revid: 216129
 source: https://deepwoken.fandom.com/wiki/Rat_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, The Golden Rats]
@@ -35,6 +35,10 @@ Their arsenal consists of a [Soulwrought Axe](Crazy_Slots.md#weapons) and the [G
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -42,6 +46,11 @@ Their arsenal consists of a [Soulwrought Axe](Crazy_Slots.md#weapons) and the [G
 (★★☆)
 
  | Raises axe upward before slamming it down to the ground.
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤓ Knockdown
 
  |
 | 
@@ -51,6 +60,10 @@ Their arsenal consists of a [Soulwrought Axe](Crazy_Slots.md#weapons) and the [G
 
  | User lunges forward with their weapon coated in wind.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -59,6 +72,10 @@ Their arsenal consists of a [Soulwrought Axe](Crazy_Slots.md#weapons) and the [G
 
  | User leaps high into the air before diving down, striking any targeted opponent.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -66,6 +83,10 @@ Their arsenal consists of a [Soulwrought Axe](Crazy_Slots.md#weapons) and the [G
 (★★☆)
 
  | Reels back and swing their weapon, unleashing an onslaught of blows if it hits.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

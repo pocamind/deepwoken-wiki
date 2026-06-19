@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 215449
+revid: 216048
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
@@ -32,7 +32,7 @@ This content is not accessible outside of this gamemode.
 
 Defeating him will also allow [Galebreathe](Galebreathe.md) users to unlock the [Pillars of Erisia](Galebreathe.md#pillars-of-erisia) Mantra in a Whisper hand, which is a modified version of his Gale Stomp.
 
-He is a noble who resided in the City of [Celtor](Lost_Celtor.md) before its submergence and part of a lineage that ruled the island of [Erisia](Erisia.md). In appearance, Duke Erisia is a Marten [Celtor](Celtor.md). He wears a Slate Aristocrat Coat over the [Eager Tradesman](Eager_Tradesman.md) starter outfit with [Eyeglasses](Eyeglasses.md). He also has a green [Resonance](Resonance.md) by his side that allows him to create and control [Rock Golems](Rock_Golem.md). Duke Erisia can also use his Resonance to summon Golem arms that swing alongside his fists, and he wields extremely powerful, exclusive [Galebreathe](Galebreathe.md) [Mantras](Mantras.md).
+He is a noble who resided in the City of [Celtor](Lost_Celtor.md) before its submergence and part of a lineage that ruled the island of [Erisia](Erisia.md). In appearance, Duke Erisia is a Marten [Celtor](Celtor.md). He wears a Slate [Aristocrat Coat](Aristocrat_Coat.md) over the [Eager Tradesman](Eager_Tradesman.md) starter outfit with [Eyeglasses](Eyeglasses.md). He also has a green [Resonance](Resonance.md) by his side that allows him to create and control [Rock Golems](Rock_Golem.md). Duke Erisia can also use his Resonance to summon Golem arms that swing alongside his fists, and he wields extremely powerful, exclusive [Galebreathe](Galebreathe.md) [Mantras](Mantras.md).
 
 ## Moveset
 
@@ -50,6 +50,12 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
 -   Duke Erisia will **only** use any of his 3 Golem arm attacks after using **Strong Left**.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
+-   ⤻ Ragdoll
+
  | 
 
  |
@@ -64,9 +70,14 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
 _Uses Telegraph_
 
-[JumpTelegraph](Combat_Mechanics.md#magenta)
+[JumpTelegraph](Combat_Mechanics.md#jump)
 
 Jump
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   ↑ Jump-Avoidable
 
  | 
 
@@ -82,9 +93,13 @@ Jump
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  | 
 
@@ -100,9 +115,14 @@ Dodge
 
 _Uses Telegraph_
 
-[DuckTelegraph](Combat_Mechanics.md#yellow)
+[DuckTelegraph](Combat_Mechanics.md#duck)
 
 Duck
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   ↻ Undodgeable
+-   ↓ Crouch/Slide
 
  | 
 
@@ -116,9 +136,14 @@ Duck
 
 _Uses Telegraph_
 
-[DuckTelegraph](Combat_Mechanics.md#yellow)
+[DuckTelegraph](Combat_Mechanics.md#duck)
 
 Duck
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   ↓ Crouch/Slide
 
  | 
 
@@ -132,9 +157,14 @@ Duck
 
 _Uses Telegraph_
 
-[JumpTelegraph](Combat_Mechanics.md#magenta)
+[JumpTelegraph](Combat_Mechanics.md#jump)
 
 Jump
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   ↑ Jump-Avoidable
 
  | 
 
@@ -150,6 +180,13 @@ Jump
 -   No range limit, damage is always induced if the counter is hit.
 -   Can deflect [Providence's Thorns](<Providence's_Thorns.md>).
 -   Only used once the posture shield is down. (Phase 2).
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   ⏱ Counter
+-   ⤻ Ragdoll
+-   Ø Undefendable
 
  | 
 
@@ -167,6 +204,14 @@ Jump
 -   If evaded for long enough and then you get hit by them, the Duke will not teleport nor deal any damage.
 -   Block breaking duke while he is rising into the air cancels it.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
+-   ⤻ Ragdoll
+-   𓂘 Grab
+-   💀 Autogrip
+
  | 
 
  |
@@ -181,9 +226,15 @@ Jump
 
 _Uses Telegraph_
 
-[GuardbreakTelegraph](Combat_Mechanics.md#circle)
+[GuardbreakTelegraph](Combat_Mechanics.md#guardbreak)
 
 Guardbreak
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+-   💀 Autogrip
 
  | 
 
@@ -199,9 +250,15 @@ Guardbreak
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+-   💀 Autogrip
 
  | 
 
@@ -215,6 +272,11 @@ Dodge
 
 -   Covers a large Area of Effect.
 -   More often to happen if Duke takes major damage quickly.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   💀 Autogrip
 
  | 
 
@@ -230,6 +292,8 @@ Dodge
 -   If fought solo, they may become a threat as they will combo you while fighting Ishamon if not killed fast enough.
 -   There are ten pods in the room, and thus a maximum of ten Servants that can be summoned in a fight. Generally, he will summon three batches of three before summoning a lone Servant.
 -   Only used once the posture shield is down. (Phase 2)
+
+-   \+ Summon
 
  | 
 

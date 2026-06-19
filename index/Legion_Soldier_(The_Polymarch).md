@@ -1,6 +1,6 @@
 ---
 title: Legion Soldier (The Polymarch)
-revid: 215492
+revid: 216185
 source: https://deepwoken.fandom.com/wiki/Legion_Soldier_(The_Polymarch)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Enemies]
@@ -37,6 +37,10 @@ A Legion Soldier's arsenal consists of either a [Champion's Sword](<Champion's_S
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -47,6 +51,10 @@ A Legion Soldier's arsenal consists of either a [Champion's Sword](<Champion's_S
 
 \[[Ritual Spear](Ritual_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -55,6 +63,10 @@ A Legion Soldier's arsenal consists of either a [Champion's Sword](<Champion's_S
 
  | User lunges forward with their weapon coated in wind.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -62,6 +74,10 @@ A Legion Soldier's arsenal consists of either a [Champion's Sword](<Champion's_S
 (★☆☆)
 
  | User shoots out an arc of gale.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

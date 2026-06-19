@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 215453
+revid: 216070
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Hundred Legions, The Hundred Legions Enemies]
@@ -35,6 +35,10 @@ A Legion Sniper's arsenal consists of either a [Ritual Spear](Ritual_Spear.md), 
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -45,6 +49,10 @@ A Legion Sniper's arsenal consists of either a [Ritual Spear](Ritual_Spear.md), 
 
 \[[Ritual Spear](Ritual_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands.  
 \[[Fists](Fists.md)\] Grabs opponent and slams them into the ground.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -57,6 +65,10 @@ A Legion Sniper's arsenal consists of either a [Ritual Spear](Ritual_Spear.md), 
 -   This move will insta-grip/execute if it hits you while knocked or at low health.
 -   This move has a very short cooldown with them able to use it after around just 2.5s.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -64,6 +76,10 @@ A Legion Sniper's arsenal consists of either a [Ritual Spear](Ritual_Spear.md), 
 (★★☆)
 
  | User fires an arrow of lightning at the sky, causing multiple drops of thunder to rain at the location of their foes.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -73,6 +89,10 @@ A Legion Sniper's arsenal consists of either a [Ritual Spear](Ritual_Spear.md), 
 
  | User heavily kicks forward, producing an unrelenting kick like a clap of thunder.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -81,6 +101,10 @@ A Legion Sniper's arsenal consists of either a [Ritual Spear](Ritual_Spear.md), 
 
  | User produces a highly potent field of electromagnetism, shocking all inside.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -88,6 +112,10 @@ A Legion Sniper's arsenal consists of either a [Ritual Spear](Ritual_Spear.md), 
 (★☆☆)
 
  | An explosion of blue ether around the user that pushes opponents away.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

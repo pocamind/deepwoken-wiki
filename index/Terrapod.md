@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 211391
+revid: 216045
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -54,6 +54,10 @@ Media
 
  | The Terrapod does a singular slice at its opponent and then quickly retreats.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | File:1 swing.gif |
 | 
 
@@ -62,6 +66,10 @@ Media
 
  | The Terrapod attacks three times in a row, similar to Relentless Strikes but much shorter.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | File:Headcrab 3 swings.gif |
 | 
 
@@ -69,6 +77,10 @@ Media
 (★★★)
 
  | The Terrapod begins slashing in front of itself for several seconds while moving towards it's victim. In total, the Terrapod slashes 10 times.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | File:A lot of swings (online-video-cutter.com).gif |
 

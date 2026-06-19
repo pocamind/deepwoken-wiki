@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Guard
-revid: 194378
+revid: 216085
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ignition Union Enemies]
@@ -33,6 +33,10 @@ An Ignition Union Guard is equipped with either a [Falchion](Falchion.md) or an 
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -46,6 +50,10 @@ An Ignition Union Guard is equipped with either a [Falchion](Falchion.md) or an 
 -   Flachion critical has extremely high chip damage.
 -   Alloyed Darksteel Greatsword critical has very high posture damage and grants hyperarmor for the full attack animation.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -53,6 +61,10 @@ An Ignition Union Guard is equipped with either a [Falchion](Falchion.md) or an 
 (★☆☆)
 
  | The user stomps on the ground, spawning a flurry of metal spikes.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -62,6 +74,10 @@ An Ignition Union Guard is equipped with either a [Falchion](Falchion.md) or an 
 
  | The user spawns 5 guns behind them which will start firing at the target immediately.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -69,6 +85,10 @@ An Ignition Union Guard is equipped with either a [Falchion](Falchion.md) or an 
 (★★★)
 
  | Form a lance to impale the target, before sending them flying.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -78,6 +98,11 @@ An Ignition Union Guard is equipped with either a [Falchion](Falchion.md) or an 
 
  | Conjure a chain to pull your opponent.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ✴︎ Pull
+
  |
 | 
 
@@ -85,6 +110,12 @@ An Ignition Union Guard is equipped with either a [Falchion](Falchion.md) or an 
 (★★☆)
 
  | Form yourself into a metal ball and rush forward.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⟡ Movement
+-   ⤓ Knockdown
 
  |
 

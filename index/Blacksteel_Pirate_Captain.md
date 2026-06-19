@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pirate Captain
-revid: 215288
+revid: 216179
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pirate_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -33,6 +33,10 @@ Their arsenal consists of a [Darkalloy Greatsword](Darksteel_Greatsword.md) and 
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -43,6 +47,11 @@ Their arsenal consists of a [Darkalloy Greatsword](Darksteel_Greatsword.md) and 
 
 -   The Blacksteel Pirate Captain gains true hyperarmor during this attack's entire animation.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
+
  |
 | 
 
@@ -50,6 +59,10 @@ Their arsenal consists of a [Darkalloy Greatsword](Darksteel_Greatsword.md) and 
 (★☆☆)
 
  | The user performs a diagonal shadow-infused slash.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -59,6 +72,11 @@ Their arsenal consists of a [Darkalloy Greatsword](Darksteel_Greatsword.md) and 
 
  | The user performs a slow axe kick, causing nearby opponents to be ragdolled and flung back.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
  |
 | 
 
@@ -66,6 +84,10 @@ Their arsenal consists of a [Darkalloy Greatsword](Darksteel_Greatsword.md) and 
 (★★☆)
 
  | User creates a large black sword from their hands, using it to slash the enemy in front of them.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -75,6 +97,11 @@ Their arsenal consists of a [Darkalloy Greatsword](Darksteel_Greatsword.md) and 
 
  | A heavy downwards swing that cleaves through the air, sending out 3 large blasts of air that ragdoll and knockback.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
  |
 | 
 
@@ -83,6 +110,11 @@ Their arsenal consists of a [Darkalloy Greatsword](Darksteel_Greatsword.md) and 
 
  | Windup before turning invisible and dashing forward, dealing very minor damage to anyone in front of caster while applying darkness.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⟡ Movement
+
  |
 | 
 
@@ -90,6 +122,10 @@ Their arsenal consists of a [Darkalloy Greatsword](Darksteel_Greatsword.md) and 
 (★★☆)
 
  | User leans and emits a giant cloud of shadow. It deals constant damage and ether drain per second to anyone who stands in it.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

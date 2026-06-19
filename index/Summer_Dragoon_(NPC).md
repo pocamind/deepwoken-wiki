@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon (NPC)
-revid: 191848
+revid: 216126
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, The Summer Company, Summer Company Enemies]
@@ -31,6 +31,10 @@ Summer Dragoons are high ranking members of [The Summer Company](The_Summer_Comp
 
  | Alternates attacks between firing the rifle and attacking with the stock before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -38,6 +42,10 @@ Summer Dragoons are high ranking members of [The Summer Company](The_Summer_Comp
 (★★☆)
 
  | Fires a long ranged bullet
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -47,6 +55,11 @@ Summer Dragoons are high ranking members of [The Summer Company](The_Summer_Comp
 
  | Taunts those around the caster, causing opponents to be unable to jump and to take 20% more damage. However, in their rage they deal 10% extra damage.
 
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ¤ Debuff
+
  |
 | 
 
@@ -55,6 +68,11 @@ Summer Dragoons are high ranking members of [The Summer Company](The_Summer_Comp
 
  | A quick dash signified by a red-line effect.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
+
  |
 | 
 
@@ -62,6 +80,11 @@ Summer Dragoons are high ranking members of [The Summer Company](The_Summer_Comp
 (★★☆)
 
  | User performs a short wind-up before throwing a powerful, flinging punch that shatters the air.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 

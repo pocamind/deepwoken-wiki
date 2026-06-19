@@ -1,6 +1,6 @@
 ---
 title: Celtorian Guard
-revid: 194377
+revid: 216083
 source: https://deepwoken.fandom.com/wiki/Celtorian_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Guards, Lost Celtor Enemies]
@@ -33,6 +33,10 @@ Their arsenal consists of either a [Messer](Messer.md) or [Trident Spear](Triden
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -43,6 +47,10 @@ Their arsenal consists of either a [Messer](Messer.md) or [Trident Spear](Triden
 
 \[[Trident Spear](Trident_Spear.md)\] Winds up before charging forward with the weapon, dealing damage multiple times.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -51,6 +59,10 @@ Their arsenal consists of either a [Messer](Messer.md) or [Trident Spear](Triden
 
  | User gazes into their opponents' souls causing them to kneel in fear.
 
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -58,6 +70,10 @@ Their arsenal consists of either a [Messer](Messer.md) or [Trident Spear](Triden
 (★★☆)
 
  | User locks onto all the closest targets that are in range, then dashes forward and performs a large AoE slice.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

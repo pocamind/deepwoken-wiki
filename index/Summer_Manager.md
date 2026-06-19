@@ -1,6 +1,6 @@
 ---
 title: Summer Manager
-revid: 194382
+revid: 216088
 source: https://deepwoken.fandom.com/wiki/Summer_Manager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Summer Company Enemies]
@@ -35,6 +35,10 @@ A Summer Manager's arsenal only consists of a [Flintlock](Flintlock.md) pistol:
 
  | Fires short-ranged bullets at opponent 3 times before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -42,6 +46,10 @@ A Summer Manager's arsenal only consists of a [Flintlock](Flintlock.md) pistol:
 (★★☆)
 
  | Fires a long-ranged bullet at opponent.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -51,6 +59,11 @@ A Summer Manager's arsenal only consists of a [Flintlock](Flintlock.md) pistol:
 
  | Taunts those around the caster, causing opponents to be unable to jump and to take 20% more damage. However, in their rage they deal 10% extra damage.
 
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ¤ Debuff
+
  |
 | 
 
@@ -58,6 +71,10 @@ A Summer Manager's arsenal only consists of a [Flintlock](Flintlock.md) pistol:
 (★☆☆)
 
  | A melee strike that transfers the casters posture damage on hit.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

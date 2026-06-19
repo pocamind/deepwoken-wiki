@@ -1,6 +1,6 @@
 ---
 title: Authority Commander (Enemy)
-revid: 207029
+revid: 216050
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Central Authority Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -31,6 +31,10 @@ Their arsenal is composed of either an [Adretian Axe](Adretian_Axe.md) or [Caval
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -43,6 +47,10 @@ Their arsenal is composed of either an [Adretian Axe](Adretian_Axe.md) or [Caval
 
 -   Adretian Axe critical is not blockable.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -50,6 +58,10 @@ Their arsenal is composed of either an [Adretian Axe](Adretian_Axe.md) or [Caval
 (★☆☆)
 
  | After a ~2 second wind-up, releases a burning area-of-effect blast that pushes back enemies.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -59,6 +71,10 @@ Their arsenal is composed of either an [Adretian Axe](Adretian_Axe.md) or [Caval
 
  | Summon a legion of flaming spearmen that lunge inwards.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -67,6 +83,11 @@ Their arsenal is composed of either an [Adretian Axe](Adretian_Axe.md) or [Caval
 
  | User lunges forward for a grab that slams and burns incoming opponents into the ground.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
+
  |
 | 
 
@@ -74,6 +95,10 @@ Their arsenal is composed of either an [Adretian Axe](Adretian_Axe.md) or [Caval
 (★★☆)
 
  | User slams down with their blade coated in flames.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -85,6 +110,10 @@ Their arsenal is composed of either an [Adretian Axe](Adretian_Axe.md) or [Caval
 
 -   Cancels if parried.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -92,6 +121,11 @@ Their arsenal is composed of either an [Adretian Axe](Adretian_Axe.md) or [Caval
 (★★★)
 
  | Strike the ground, turning it to ash.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 | 
@@ -101,6 +135,10 @@ Their arsenal is composed of either an [Adretian Axe](Adretian_Axe.md) or [Caval
 
  | User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -108,6 +146,11 @@ Their arsenal is composed of either an [Adretian Axe](Adretian_Axe.md) or [Caval
 (★★☆)
 
  | Conjure a flaming arrow and fire it at your target.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 

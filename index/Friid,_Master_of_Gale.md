@@ -1,6 +1,6 @@
 ---
 title: "Friid, Master of Gale"
-revid: 208123
+revid: 216114
 source: https://deepwoken.fandom.com/wiki/Friid%2C_Master_of_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, NPCs located in the Etrean Luminant]
@@ -44,6 +44,10 @@ Friid's arsenal consists of a [Curved Blade of Winds](Curved_Blade_of_Winds.md) 
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -51,6 +55,10 @@ Friid's arsenal consists of a [Curved Blade of Winds](Curved_Blade_of_Winds.md) 
 (★★☆)
 
  | Performs a short wind-up before conjuring a vicious whirlwind of slashes that moves forward.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -60,6 +68,10 @@ Friid's arsenal consists of a [Curved Blade of Winds](Curved_Blade_of_Winds.md) 
 
  | User uppercuts their opponent, teleporting and kicking them around.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -67,6 +79,11 @@ Friid's arsenal consists of a [Curved Blade of Winds](Curved_Blade_of_Winds.md) 
 (★★☆)
 
  | User performs a short wind-up before throwing a powerful, flinging punch that shatters the air.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 208256
+revid: 216115
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with They/them pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, Diver Enemies, NPCs located in the Etrean Luminant]
@@ -38,6 +38,10 @@ Nell's arsenal consists of a [Gran Sudaruska](Gran_Sudaruska.md) along with the 
 
  | Performs 3 basic attacks before sending the opponent away with a flourish. After 4 hits, multiple ice shards starts to rain down.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -45,6 +49,10 @@ Nell's arsenal consists of a [Gran Sudaruska](Gran_Sudaruska.md) along with the 
 (★★☆)
 
  | Spins their axe with rapid succession, freezing the floor and sending them and their opponent into the air.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -54,6 +62,10 @@ Nell's arsenal consists of a [Gran Sudaruska](Gran_Sudaruska.md) along with the 
 
  | Nell encases herself in ice and starts to recover health, hitting theirin this state causes theirto parry that attack and ends this Mantra.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -61,6 +73,10 @@ Nell's arsenal consists of a [Gran Sudaruska](Gran_Sudaruska.md) along with the 
 (★☆☆)
 
  | Nell summons a lance and rushes towards the opponent. They rarely use this in close combat, only using it to catch out of range opponents.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -70,6 +86,10 @@ Nell's arsenal consists of a [Gran Sudaruska](Gran_Sudaruska.md) along with the 
 
  | Nell fires off a frost beam from theirmouth, dealing constant damage and spreading ice around.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -77,6 +97,11 @@ Nell's arsenal consists of a [Gran Sudaruska](Gran_Sudaruska.md) along with the 
 (★★☆)
 
  | Nell stomps the ground, causing large ice to form in front of theirand encasing opponents.
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ❆ Stun
 
  |
 | 
@@ -86,6 +111,10 @@ Nell's arsenal consists of a [Gran Sudaruska](Gran_Sudaruska.md) along with the 
 
  | Nell summons 4 rotating blades around theirthat deals constant damage and ends with them becoming a projectile.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -94,6 +123,10 @@ Nell's arsenal consists of a [Gran Sudaruska](Gran_Sudaruska.md) along with the 
 
  | Nell summons a glaive of ice and does a barrage attack that raises both theirand the opponent into the air.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -101,6 +134,10 @@ Nell's arsenal consists of a [Gran Sudaruska](Gran_Sudaruska.md) along with the 
 (★★☆)
 
  | Nell summons dual blades and does a barrage of attacks using both of them. Cancels on parry.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -112,6 +149,10 @@ Nell's arsenal consists of a [Gran Sudaruska](Gran_Sudaruska.md) along with the 
 
 -   They mostly use these when they are out of range for theirottheirmoves or when they want to trick the opponent after they get parried.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -119,6 +160,10 @@ Nell's arsenal consists of a [Gran Sudaruska](Gran_Sudaruska.md) along with the 
 (★★☆)
 
  | Nell summons an ice obelisk on top of the opponent, turning the floor into ice.
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -128,6 +173,10 @@ Nell's arsenal consists of a [Gran Sudaruska](Gran_Sudaruska.md) along with the 
 
  | Nell conjures 3 ice cubes behind her. After a set amount of time or recasting, all 3 gets thrown towards the opponent.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -135,6 +184,10 @@ Nell's arsenal consists of a [Gran Sudaruska](Gran_Sudaruska.md) along with the 
 (★★☆)
 
  | Nell summons a huge ice club and hits the ground, guardbreaking anyone that it hits.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

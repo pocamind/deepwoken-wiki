@@ -1,6 +1,6 @@
 ---
 title: Blade Temple Guard
-revid: 194417
+revid: 216071
 source: https://deepwoken.fandom.com/wiki/Blade_Temple_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Guards, Etrea Enemies]
@@ -30,6 +30,10 @@ A Blade Temple Guard's arsenal consists of a [Katana](Katana.md) along with the 
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -37,6 +41,10 @@ A Blade Temple Guard's arsenal consists of a [Katana](Katana.md) along with the 
 (★★☆)
 
  | Sheathes blade before dashing forward and unleashing a quick slash.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -46,6 +54,10 @@ A Blade Temple Guard's arsenal consists of a [Katana](Katana.md) along with the 
 
  | User lunges forward with their weapon coated in wind.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -54,6 +66,10 @@ A Blade Temple Guard's arsenal consists of a [Katana](Katana.md) along with the 
 
  | User shoots out an arc of gale.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -61,6 +77,11 @@ A Blade Temple Guard's arsenal consists of a [Katana](Katana.md) along with the 
 (★★☆)
 
  | User sheathes their sword before following up with a teleporting uppercut.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
 
  |
 

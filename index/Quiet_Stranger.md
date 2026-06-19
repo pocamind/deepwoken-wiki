@@ -1,6 +1,6 @@
 ---
 title: Quiet Stranger
-revid: 200167
+revid: 216145
 source: https://deepwoken.fandom.com/wiki/Quiet_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, The Ministry, NPCs located in the Etrean Luminant, Enemies, Enemies with Oaths]
@@ -72,6 +72,10 @@ The Quiet Stranger's arsenal consists of a [Krulian Knife](Krulian_Knife.md), th
 
  | Firmly swings dagger at the opponent and finishes the combo by kicking them.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -80,6 +84,10 @@ The Quiet Stranger's arsenal consists of a [Krulian Knife](Krulian_Knife.md), th
 
  | User unleashes a quick flurry of slashes.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -87,6 +95,11 @@ The Quiet Stranger's arsenal consists of a [Krulian Knife](Krulian_Knife.md), th
 (★★☆)
 
  | The Quiet Stranger briefly goes invisible before teleporting above the player and knocking them down with a kick.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
 
  |
 | 
@@ -97,5 +110,10 @@ The Quiet Stranger's arsenal consists of a [Krulian Knife](Krulian_Knife.md), th
  | Summons a black casting circle before enveloping your target in black tendrils and tearing them apart.
 
 -   This move will instantly execute if it brings HP to 0.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ❆ Stun
 
  |

@@ -1,6 +1,6 @@
 ---
 title: Mechalodaunt
-revid: 210411
+revid: 216133
 source: https://deepwoken.fandom.com/wiki/Mechalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Ambush Enemies, The Ignition Union, Ignition Union Enemies]
@@ -41,6 +41,10 @@ However, it seems that some Mechalodaunts have been brought back under control, 
 -   Heavy posture damage. Will commonly block break after two hits.
 -   If the Megalodaunt slashes twice, it will take longer to attack again.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -57,9 +61,14 @@ However, it seems that some Mechalodaunts have been brought back under control, 
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ↗ Ragdoll
 
  | 
 
@@ -75,6 +84,11 @@ Dodge
 -   It will take longer to attack again after using this.
 -   Uses **Bite** instead if in water.
 
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ↗ Ragdoll
+
  | 
 
  |
@@ -87,6 +101,10 @@ Dodge
 
 -   Lasts as long as auto-parry frames, meaning you can simply parry once to parry the whole attack.
 -   There is a shorter-ranged AoE version and a longer-ranged single-target version. Both function the same.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 
@@ -101,6 +119,11 @@ Dodge
 -   Has very limited range.
 -   It can sometimes turn around and miss it altogether.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   💀 Autogrip
+
  | 
 
  |
@@ -110,6 +133,11 @@ Dodge
 (★★★)
 
  | The Mechalodaunt will spin around, marking a glowing round area around itself with a laser, creating a fiery explosion after a small delay.
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  | 
 
@@ -124,6 +152,11 @@ Dodge
 -   Usually used as the Mechalodaunt's first move.
 -   Blocking negates much of but not all the Insanity gain.
 
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ¤ Debuff
+
  | 
 
  |
@@ -134,6 +167,9 @@ Dodge
 
  | If the target is above it, the Mechalodaunt will jump in the direction of its opponent to close the distance. Often used after **Kick**, as well as frequently using **Furnace Explosion** after jumping.
 
+-   ☕︎ Harmless
+-   ⟡ Movement
+
  | 
 
  |
@@ -143,6 +179,10 @@ Dodge
 (★☆☆)
 
  | The Mechalodaunt leans forward and bites down, ragdolling those hit. Only used while in water.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 

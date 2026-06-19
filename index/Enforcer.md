@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 207030
+revid: 216025
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Depths]
@@ -38,6 +38,10 @@ The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and En
 
 -   This is a slower attack that does high health and posture damage.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -50,6 +54,10 @@ The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and En
 
 -   This attack is faster but does less health and posture damage than High Swing.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -61,6 +69,10 @@ The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and En
  | The Enforcer kicks straight forward, throwing anyone hit far back and dazing them.
 
 -   This does low damage with moderate knockback.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 
@@ -78,6 +90,10 @@ The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and En
 -   This attack hurts a lot if not properly defended/avoided
 -   The Servants of Enmity cannot use this attack.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -92,6 +108,11 @@ The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and En
 -   Enforcers spawned during [Hell Mode](Hell_Mode.md) will not be able to use this attack.
 -   The Servants of Enmity cannot use this attack.
 
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ✴︎ Pull
+
  |  |
 | 
 
@@ -103,6 +124,9 @@ The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and En
 -   The Enforcer only feints its swing attacks.
 -   If The Enforcer feints and you whiff your parry, **dodge** the next attack instead of attempting to parry it.
 -   You could also hold f on your failed parry to block it, but this is reliant on you having spare posture.
+
+-   «» Misc.
+-   ☕︎ Harmless
 
  | 
 

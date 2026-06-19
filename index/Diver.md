@@ -1,6 +1,6 @@
 ---
 title: Diver
-revid: 206018
+revid: 216091
 source: https://deepwoken.fandom.com/wiki/Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Diver Enemies, Ambush Enemies]
@@ -34,6 +34,10 @@ A Diver's arsenal consists of either a [Razor Cutlass](Razor_Cutlass.md), [Iron 
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -47,6 +51,10 @@ A Diver's arsenal consists of either a [Razor Cutlass](Razor_Cutlass.md), [Iron 
 
 -   Iron Birch critical is not blockable.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -56,6 +64,11 @@ A Diver's arsenal consists of either a [Razor Cutlass](Razor_Cutlass.md), [Iron 
 
  | Teleports to the nearest target before sending out a shocking AoE.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
+
  |
 | 
 
@@ -63,6 +76,10 @@ A Diver's arsenal consists of either a [Razor Cutlass](Razor_Cutlass.md), [Iron 
 (★★☆)
 
  | User lunges forward with their weapon coated in wind.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -74,6 +91,10 @@ A Diver's arsenal consists of either a [Razor Cutlass](Razor_Cutlass.md), [Iron 
 
 -   Cancels if parried.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -81,6 +102,10 @@ A Diver's arsenal consists of either a [Razor Cutlass](Razor_Cutlass.md), [Iron 
 (★☆☆)
 
  | An Arc of ice.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

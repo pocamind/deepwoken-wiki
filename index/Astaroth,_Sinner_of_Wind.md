@@ -1,6 +1,6 @@
 ---
 title: "Astaroth, Sinner of Wind"
-revid: 201863
+revid: 216136
 source: https://deepwoken.fandom.com/wiki/Astaroth%2C_Sinner_of_Wind
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies with Oaths, The Starkindred Church, Individuals with unspecified pronouns, Humanoids with Unobtainable Outfits]
@@ -31,6 +31,10 @@ Asraroth's arsenal consists of a True Seraph's Spear along with the [Galebreathe
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -38,6 +42,10 @@ Asraroth's arsenal consists of a True Seraph's Spear along with the [Galebreathe
 (★★☆)
 
  | Enters a stance before performing a quick swipe, will perform an additional short lunge if the first hit lands.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -47,6 +55,8 @@ Asraroth's arsenal consists of a True Seraph's Spear along with the [Galebreathe
 
  | Performs a fake attack, before pulling back and committing to a thrust.
 
+-   ☕︎ Harmless
+
  |
 | 
 
@@ -54,6 +64,10 @@ Asraroth's arsenal consists of a True Seraph's Spear along with the [Galebreathe
 (★☆☆)
 
  | Lunges forward with their weapon out, dealing damage and inflicting Winded/Suffocate, used to close distance.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -63,6 +77,10 @@ Asraroth's arsenal consists of a True Seraph's Spear along with the [Galebreathe
 
  | Rises into the air, before apbrutly slamming back down onto the ground, dealing moderate damage.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -70,6 +88,10 @@ Asraroth's arsenal consists of a True Seraph's Spear along with the [Galebreathe
 (★☆☆)
 
  | Delivers a uppercut, if it connects, both parties are raised into the air, and you will take multi hit wind damage.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -79,6 +101,11 @@ Asraroth's arsenal consists of a True Seraph's Spear along with the [Galebreathe
 
  | Rises into the air, before swooping in downwards. This applies hard knockdown on hit.
 
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤓ Knockdown
+
  |
 | 
 
@@ -87,6 +114,10 @@ Asraroth's arsenal consists of a True Seraph's Spear along with the [Galebreathe
 
  | Launches a multi hit halo of divine energy forward, shredding anyone caught in its range.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -94,6 +125,10 @@ Asraroth's arsenal consists of a True Seraph's Spear along with the [Galebreathe
 (★★☆)
 
  | Delivers an upward slash that makes both parties airborne before delivering another sideway slash that sends the target away.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

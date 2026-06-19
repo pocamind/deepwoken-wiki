@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 213868
+revid: 216052
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -39,6 +39,10 @@ Crustaceous Rex is a hostile Giant-type mob. Whilst appearing scary, it is one o
 -   This also friendly fires mobs.
 -   Exceptionally easy to get out of the way of.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |  |
 | 
 
@@ -51,9 +55,15 @@ Crustaceous Rex is a hostile Giant-type mob. Whilst appearing scary, it is one o
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   ↻ Undodgeable
+-   ⤻ Ragdoll
+-   𓂘 Grab
 
  |  |
 | 
@@ -67,9 +77,14 @@ Dodge
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |  |
 | 
@@ -81,6 +96,10 @@ Dodge
 
 -   Parrying the first swing will cancel the second.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |  |
 | 
 
@@ -88,6 +107,10 @@ Dodge
 (★☆☆)
 
  | The Crustaceous Rex raises **Both of Its Arms** in the air, smashing them down onto its opponent and dealing medium damage.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |  |
 

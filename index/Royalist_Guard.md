@@ -1,6 +1,6 @@
 ---
 title: Royalist Guard
-revid: 203399
+revid: 216186
 source: https://deepwoken.fandom.com/wiki/Royalist_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, Etrean Royalists Enemies]
@@ -31,6 +31,10 @@ A Royalist Guard arsenal consists of a [Katana](Katana.md) along with the [Galeb
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -38,6 +42,10 @@ A Royalist Guard arsenal consists of a [Katana](Katana.md) along with the [Galeb
 (★★☆)
 
  | Performs an upward slash in front of the user.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -47,6 +55,10 @@ A Royalist Guard arsenal consists of a [Katana](Katana.md) along with the [Galeb
 
  | User lunges forward with their weapon coated in wind.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -54,6 +66,10 @@ A Royalist Guard arsenal consists of a [Katana](Katana.md) along with the [Galeb
 (★☆☆)
 
  | User shoots out an arc of gale.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

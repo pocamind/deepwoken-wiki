@@ -1,6 +1,6 @@
 ---
 title: Horseshoe Crab
-revid: 210684
+revid: 216209
 source: https://deepwoken.fandom.com/wiki/Horseshoe_Crab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -21,7 +21,7 @@ categories: [Monsters]
 
 ## Description
 
-The Horseshoe Crab is an abomination that only appears during the [Charisma Unbound](Attributes_Unbound.md) quest or at [Songseeker Mines](https://deepwoken.fandom.com/wiki/Songseeker_Wilds#Mineshaft) in [Vow of Iron](Vow_of_Iron.md).
+The Horseshoe Crab is an abomination that only appears during the [Charisma Unbound](Attributes_Unbound.md) quest or at [Songseeker Mines](Songseeker_Wilds.md#mineshaft) in [Vow of Iron](Vow_of_Iron.md).
 
 Horseshoe Crabs are small, brown creatures with a long tail. They have a hard shell on top, with a mouth underneath, presumably used for slaughtering their foes. They have an appetite for human flesh
 
@@ -33,7 +33,13 @@ Horseshoe Crabs are small, brown creatures with a long tail. They have a hard sh
 **Leech**  
 (★★★)
 
+-   ◍ True
+
  | The Horseshoe Crab latches on to the player, slowly consuming their blood for roughly 10 seconds.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   ↻ Undodgeable
 
  |  |
 

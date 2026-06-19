@@ -1,6 +1,6 @@
 ---
 title: Coldheart Fortinbras
-revid: 210651
+revid: 216162
 source: https://deepwoken.fandom.com/wiki/Coldheart_Fortinbras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters, Enemies that can wield Enchantments]
@@ -35,6 +35,10 @@ Fortinbras' arsenal consists of the [Hailbreaker](Hailbreaker.md) along with the
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -42,6 +46,11 @@ Fortinbras' arsenal consists of the [Hailbreaker](Hailbreaker.md) along with the
 (★★☆)
 
  | Fortinbras winds up his blade and performs two quick slashes, freezing his opponent in place.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ❆ Stun
 
  |
 | 
@@ -51,6 +60,10 @@ Fortinbras' arsenal consists of the [Hailbreaker](Hailbreaker.md) along with the
 
  | Summons four spinning blades of ice around himself. They deal constant damage before being launched as projectiles.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -58,6 +71,10 @@ Fortinbras' arsenal consists of the [Hailbreaker](Hailbreaker.md) along with the
 (★★☆)
 
  | Creates spikes out of his own blood and uses them to impale his enemies. Drains blood on hit.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -67,6 +84,10 @@ Fortinbras' arsenal consists of the [Hailbreaker](Hailbreaker.md) along with the
 
  | Summons an ice glaive and performs a barrage that lifts both himself and the opponent into the air.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -74,6 +95,10 @@ Fortinbras' arsenal consists of the [Hailbreaker](Hailbreaker.md) along with the
 (★☆☆)
 
  | Summons a flock of rapid moving ice birds in front of himself, attacking his opponent from all angles.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

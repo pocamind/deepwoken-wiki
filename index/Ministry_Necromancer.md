@@ -1,6 +1,6 @@
 ---
 title: Ministry Necromancer
-revid: 201260
+revid: 216042
 source: https://deepwoken.fandom.com/wiki/Ministry_Necromancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Enemies, The Ministry, Ministry Enemies]
@@ -35,6 +35,10 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |  |
 | 
 
@@ -42,6 +46,10 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 (★★☆)
 
  | User unleashes a quick flurry of slashes.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |  |
 | 
@@ -51,6 +59,10 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 
  | User leans and emits a giant cloud of shadow. It deals constant damage and ether drain per second to anyone who stands in it.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |  |
 | 
 
@@ -58,6 +70,10 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 (★☆☆)
 
  | Summons a total of three [Blue](Necroskipper.md) or [Redskippers](Necroskipper.md) before becoming invulnerable and remaining idle until all the Mudskippers are killed.
+
+-   \+ Summon
+-   «» Misc.
+-   ☕︎ Harmless
 
  |  |
 | 
@@ -67,6 +83,10 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 
  | The user snaps their fingers, and sends 3 orbs that slowly chase nearby enemies until the duration has expired or the orb has made contact with the target.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |  |
 | 
 
@@ -74,6 +94,10 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 (★ ☆ ☆)
 
  | The user swipes with their right hand before conjuring three portals that launch shadow chains towards the users cursor. These chains slow you and drain your Ether.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |  |
 

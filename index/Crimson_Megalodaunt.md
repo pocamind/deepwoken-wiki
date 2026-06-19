@@ -1,6 +1,6 @@
 ---
 title: Crimson Megalodaunt
-revid: 215185
+revid: 216148
 source: https://deepwoken.fandom.com/wiki/Crimson_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -38,6 +38,10 @@ They are a significantly rarer sight, and are only found in a few select locatio
 -   Heavy posture damage. Will commonly block break after two hits.
 -   If the Megalodaunt slashes twice, it will take longer to attack again.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -54,9 +58,14 @@ They are a significantly rarer sight, and are only found in a few select locatio
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ↗ Ragdoll
 
  | 
 
@@ -71,6 +80,10 @@ Dodge
 -   Lasts as long as auto-parry frames, meaning you can simply parry once to parry the whole attack.
 -   There is a shorter-ranged AoE version and a longer-ranged single-target version. Both function the same.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -83,6 +96,11 @@ Dodge
 
 -   Usually used as the Crimson Megalodaunt's first move.
 -   Blocking negates much of but not all the Insanity gain.
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ¤ Debuff
 
  | 
 
@@ -98,9 +116,17 @@ Dodge
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   💀 Autogrip
+-   ⛧ Teleport
+-   𓂘 Grab
+-   ⤻ Ragdoll
 
  | 
 
@@ -116,9 +142,15 @@ Dodge
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
+-   ⤻ Ragdoll
 
  | 
 
@@ -130,6 +162,10 @@ Dodge
 
  | Similar to the standard **Roar**, but the ring effects are colored orange and it doesn't apply any debuffs. Additionally, flaming swords will begin raining down that inflict Flamecharm damage on hit.
 
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -140,6 +176,9 @@ Dodge
 
  | If the target is above it, the Crimson Megalodaunt will jump in the direction of its opponent to close the distance. Often used after **Kick**.
 
+-   ☕︎ Harmless
+-   ⟡ Movement
+
  | 
 
  |
@@ -149,6 +188,10 @@ Dodge
 (★☆☆)
 
  | The Crimson Megalodaunt leans forward and bites down, ragdolling those hit. Only used while in water.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 

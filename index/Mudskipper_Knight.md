@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Knight
-revid: 201884
+revid: 216096
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Humanoid Monsters]
@@ -39,6 +39,10 @@ Within the Etrean Luminant and in [Scyphozia](First_Layer.md), they wield a [Fal
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -49,6 +53,10 @@ Within the Etrean Luminant and in [Scyphozia](First_Layer.md), they wield a [Fal
 
 -   The 'block-ability' of the Mudskipper Knight depends on what weapon they're wielding.
     -   Most notably [Falchion](Falchion.md)'s critical has very high chip damage and [Zweihander](Zweihander.md)'s critical is unblockable.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

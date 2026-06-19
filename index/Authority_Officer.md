@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 201745
+revid: 216064
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Central Authority Enemies]
@@ -41,6 +41,10 @@ Their arsenal consists of a [Cavalry Saber](Cavalry_Saber.md), [Adretian Axe](Ad
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -55,6 +59,10 @@ Their arsenal consists of a [Cavalry Saber](Cavalry_Saber.md), [Adretian Axe](Ad
 -   Mace and Adretian Axe criticals are not blockable.
 -   Adretian Axe critical grants hyperarmor during its windup.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -62,6 +70,11 @@ Their arsenal consists of a [Cavalry Saber](Cavalry_Saber.md), [Adretian Axe](Ad
 (★★☆)
 
  | Grabs the nearest target with an electrified grasp.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
 
  |
 | 
@@ -71,6 +84,10 @@ Their arsenal consists of a [Cavalry Saber](Cavalry_Saber.md), [Adretian Axe](Ad
 
  | User performs an empowered lightning kick, shocking and knocking away any opponents.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -78,6 +95,10 @@ Their arsenal consists of a [Cavalry Saber](Cavalry_Saber.md), [Adretian Axe](Ad
 (★☆☆)
 
  | Arcing blades of electricity.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

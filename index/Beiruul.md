@@ -1,6 +1,6 @@
 ---
 title: Beiruul
-revid: 201347
+revid: 216103
 source: https://deepwoken.fandom.com/wiki/Beiruul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, Enemies, Children of Navae Enemies, The Children of Navae, NPCs located in the Eastern Luminant, Quests]
@@ -151,6 +151,10 @@ Beiruul's arsenal consists of [Way of Navae](Way_of_Navae.md) and the [Frostdraw
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -158,6 +162,10 @@ Beiruul's arsenal consists of [Way of Navae](Way_of_Navae.md) and the [Frostdraw
 (★★☆)
 
  | Raises right leg before firmly slamming it down into the ground below.
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  |
 | 
@@ -167,6 +175,10 @@ Beiruul's arsenal consists of [Way of Navae](Way_of_Navae.md) and the [Frostdraw
 
  | A powerful, flinging punch that shatters the air.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -174,6 +186,10 @@ Beiruul's arsenal consists of [Way of Navae](Way_of_Navae.md) and the [Frostdraw
 (★★☆)
 
  | User unleashes a barrage of blows at their opponent.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -183,6 +199,10 @@ Beiruul's arsenal consists of [Way of Navae](Way_of_Navae.md) and the [Frostdraw
 
  | Creates two blades of ice and rushes forward rapidly slashing.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -191,6 +211,10 @@ Beiruul's arsenal consists of [Way of Navae](Way_of_Navae.md) and the [Frostdraw
 
  | Creates a giant mace of ice to smash opponents with.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -198,6 +222,10 @@ Beiruul's arsenal consists of [Way of Navae](Way_of_Navae.md) and the [Frostdraw
 (★★☆)
 
  | Creates a lance of ice to impale opponents with.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

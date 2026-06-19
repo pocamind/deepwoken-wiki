@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 214935
+revid: 216033
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -41,7 +41,13 @@ They are not all hostile though, as [Sordino](Sordino.md), a man found at the [S
 **Arm Swipe**  
 (★☆☆)
 
+-   ResistanceSlash Slash
+
  | The Thresher stands on its hind legs and swipes twice. Deals moderate damage and 15 posture damage. Deals [Bleed](Status_Effects.md#bleed) and chips through block.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |  |
 | 
@@ -49,7 +55,13 @@ They are not all hostile though, as [Sordino](Sordino.md), a man found at the [S
 **Bite**  
 (★☆☆)
 
+-   ResistanceSlash Slash
+
  | The Thresher bites three times in quick succession. The 3rd hit is slightly delayed compared to the animation. Deals moderate damage and 15 posture damage. Deals [Bleed](Status_Effects.md#bleed) and chips through block.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |  |
 | 
@@ -57,13 +69,23 @@ They are not all hostile though, as [Sordino](Sordino.md), a man found at the [S
 **Tail Swipe**  
 (★★☆)
 
+-   ResistanceBlunt Blunt
+
  | The Thresher brings its tail back and flicks around to deliver a powerful blow that deals moderate damage and 20 posture damage. Attacks following this move come out sooner.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ↑ Jump-Avoidable
+-   ⤻ Ragdoll
 
  |  |
 | 
 
 **Burrow**  
 (★★☆)
+
+-   ResistanceBlunt Blunt
 
  | The Thresher burrows underground to avoid being hit and digs towards the player, jumping out once close enough or after a few seconds and dealing moderate damage.
 
@@ -73,9 +95,14 @@ They are not all hostile though, as [Sordino](Sordino.md), a man found at the [S
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |  |
 

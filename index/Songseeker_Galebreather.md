@@ -1,6 +1,6 @@
 ---
 title: Songseeker Galebreather
-revid: 215244
+revid: 216093
 source: https://deepwoken.fandom.com/wiki/Songseeker_Galebreather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers, Humanoids with Unobtainable Outfits]
@@ -35,6 +35,10 @@ A Songseeker Galebreather's arsenal consists of [Fists](Fists.md) **(Way of Nava
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -42,6 +46,10 @@ A Songseeker Galebreather's arsenal consists of [Fists](Fists.md) **(Way of Nava
 (★★☆)
 
  | Raises left leg before slamming it to the ground below.
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  |
 | 
@@ -51,6 +59,10 @@ A Songseeker Galebreather's arsenal consists of [Fists](Fists.md) **(Way of Nava
 
  | User lunges forward with their weapon coated in wind.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -58,6 +70,10 @@ A Songseeker Galebreather's arsenal consists of [Fists](Fists.md) **(Way of Nava
 (★★☆)
 
  | Leap high into the air before diving down, striking any targeted opponent.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -67,6 +83,10 @@ A Songseeker Galebreather's arsenal consists of [Fists](Fists.md) **(Way of Nava
 
  | A burst of air directly in front of the user.
 
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -74,6 +94,11 @@ A Songseeker Galebreather's arsenal consists of [Fists](Fists.md) **(Way of Nava
 (★☆☆)
 
  | An explosion of blue ether around the user that pushes opponents away.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ☕︎ Harmless
 
  |
 

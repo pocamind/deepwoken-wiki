@@ -1,6 +1,6 @@
 ---
 title: Old Knife of Eylis
-revid: 199672
+revid: 216137
 source: https://deepwoken.fandom.com/wiki/Old_Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies that can wield Enchantments, Enemies, Ambush Enemies, Knives of Eylis Enemies]
@@ -31,6 +31,10 @@ An Old Knife of Eylis' appearance consists of their [uniform](Whaler_Coat.md), a
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -38,6 +42,10 @@ An Old Knife of Eylis' appearance consists of their [uniform](Whaler_Coat.md), a
 (★★☆)
 
  | The experienced knife thrusts forward whilst creating a wave of red energy.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -47,6 +55,10 @@ An Old Knife of Eylis' appearance consists of their [uniform](Whaler_Coat.md), a
 
  | Conjures a growing orb that slows down the movement of everyone except their own members.
 
+-   ¤ Debuff
+-   «» Misc.
+-   ☕︎ Harmless
+
  |
 | 
 
@@ -54,6 +66,11 @@ An Old Knife of Eylis' appearance consists of their [uniform](Whaler_Coat.md), a
 (★☆☆)
 
  | A quick dash signified by a red-line effect.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
 
  |
 | 
@@ -63,6 +80,9 @@ An Old Knife of Eylis' appearance consists of their [uniform](Whaler_Coat.md), a
 
  | The knife quickly makes an agile dash.
 
+-   ⟡ Movement
+-   ☕︎ Harmless
+
  |
 | 
 
@@ -71,6 +91,11 @@ An Old Knife of Eylis' appearance consists of their [uniform](Whaler_Coat.md), a
 
  | Swiftly rushes into the enemy and cuts them apart.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
+
  |
 | 
 
@@ -78,5 +103,8 @@ An Old Knife of Eylis' appearance consists of their [uniform](Whaler_Coat.md), a
 (☆☆☆)
 
  | Gains a mobility boost for a short duration of time.
+
+-   «» Misc.
+-   ☕︎ Harmless
 
  |

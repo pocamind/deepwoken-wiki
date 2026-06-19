@@ -1,6 +1,6 @@
 ---
 title: Blade Instructor
-revid: 195032
+revid: 216090
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enemies, Etrea Enemies]
@@ -37,6 +37,10 @@ An Instructor's arsenal consisted of either a [Battleaxe](Battleaxe.md), [Sword]
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -50,6 +54,10 @@ An Instructor's arsenal consisted of either a [Battleaxe](Battleaxe.md), [Sword]
 
 -   Battleaxe and Mace criticals are not blockable.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -57,6 +65,9 @@ An Instructor's arsenal consisted of either a [Battleaxe](Battleaxe.md), [Sword]
 (★★☆)
 
  | Attacks, but then stops mid-way to catch the player off guard.
+
+-   ☕︎ Harmless
+-   «» Misc.
 
  |
 

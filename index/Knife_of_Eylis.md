@@ -1,6 +1,6 @@
 ---
 title: Knife of Eylis
-revid: 209540
+revid: 216072
 source: https://deepwoken.fandom.com/wiki/Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Knives of Eylis Enemies]
@@ -30,6 +30,10 @@ A Knife of Eylis' arsenal only consists of a [Whaling Knife](Whaling_Knife.md):
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -37,6 +41,10 @@ A Knife of Eylis' arsenal only consists of a [Whaling Knife](Whaling_Knife.md):
 (★★☆)
 
  | The knife uses the Whaling Knife's special critical, creating a wave of red energy as they slash forward.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -46,6 +54,11 @@ A Knife of Eylis' arsenal only consists of a [Whaling Knife](Whaling_Knife.md):
 
  | Winds up and hurls a powerful punch that shatters the air and flings the opponent away.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
  |
 | 
 
@@ -54,6 +67,11 @@ A Knife of Eylis' arsenal only consists of a [Whaling Knife](Whaling_Knife.md):
 
  | A quick dash signified by a red-line effect.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
+
  |
 | 
 
@@ -61,6 +79,11 @@ A Knife of Eylis' arsenal only consists of a [Whaling Knife](Whaling_Knife.md):
 (★☆☆)
 
  | Swiftly rushes into the enemy and cuts them apart.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
 
  |
 

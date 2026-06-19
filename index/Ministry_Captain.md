@@ -1,6 +1,6 @@
 ---
 title: Ministry Captain
-revid: 189724
+revid: 216109
 source: https://deepwoken.fandom.com/wiki/Ministry_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ministry Enemies]
@@ -33,6 +33,10 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -40,6 +44,10 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 (★★☆)
 
  | User unleashes a quick flurry of slashes.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -49,6 +57,11 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 
  | Windup before turning invisible and dashing forward, dealing very minor damage to anyone in front of caster while applying darkness.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⟡ Movement
+
  |
 | 
 
@@ -56,6 +69,10 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 (★☆☆)
 
  | The caster dashes forward and does 3 shadow infused slashes with their weapon.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -65,6 +82,10 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 
  | Releases a roar of shadow and Debris in the direction of the enemy doing minor damage.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -72,6 +93,10 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 (★☆☆)
 
  | The user makes a swipe with their right hand before releasing a large sphere of shadow.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -81,6 +106,11 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 
  | The caster raises their their hand and lifts one target in the air, then proceeds to slam them in the ground.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
+
  |
 | 
 
@@ -88,6 +118,11 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 (★☆☆)
 
  | The caster conjures shadows around the enemy that deals damage and teleports the caster towards them.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
 
  |
 

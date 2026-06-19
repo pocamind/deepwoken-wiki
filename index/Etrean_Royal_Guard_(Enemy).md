@@ -1,6 +1,6 @@
 ---
 title: Etrean Royal Guard (Enemy)
-revid: 210090
+revid: 216053
 source: https://deepwoken.fandom.com/wiki/Etrean_Royal_Guard_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Etrea Enemies]
@@ -35,6 +35,10 @@ An Etrean Royal Guard's arsenal only consists of a [Katana](Katana.md):
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -42,6 +46,10 @@ An Etrean Royal Guard's arsenal only consists of a [Katana](Katana.md):
 (★★☆)
 
  | Sheathes blade before dashing forward and unleashing a quick slash.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -51,6 +59,11 @@ An Etrean Royal Guard's arsenal only consists of a [Katana](Katana.md):
 
  | Swiftly unsheathes blade and delivers an upwards strike.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
+
  |
 | 
 
@@ -59,6 +72,10 @@ An Etrean Royal Guard's arsenal only consists of a [Katana](Katana.md):
 
  | Lunges forward with their weapon coated in wind.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -66,6 +83,10 @@ An Etrean Royal Guard's arsenal only consists of a [Katana](Katana.md):
 (★★☆)
 
  | Performs a short wind-up before throwing a powerful, flinging punch that shatters the air.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

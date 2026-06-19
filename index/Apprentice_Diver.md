@@ -1,6 +1,6 @@
 ---
 title: Apprentice Diver
-revid: 201117
+revid: 216087
 source: https://deepwoken.fandom.com/wiki/Apprentice_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Diver Enemies]
@@ -33,6 +33,10 @@ An Apprentice Diver's arsenal consists of either a [Razor Cutlass](Razor_Cutlass
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -43,6 +47,10 @@ An Apprentice Diver's arsenal consists of either a [Razor Cutlass](Razor_Cutlass
 
 -   Iron Birch critical is not blockable.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -51,6 +59,11 @@ An Apprentice Diver's arsenal consists of either a [Razor Cutlass](Razor_Cutlass
 
  | Teleports to the nearest opponent before sending out a shocking AoE.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
+
  |
 | 
 
@@ -58,6 +71,10 @@ An Apprentice Diver's arsenal consists of either a [Razor Cutlass](Razor_Cutlass
 (★★☆)
 
  | User lunges forward with their weapon coated in wind.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

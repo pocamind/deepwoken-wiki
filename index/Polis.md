@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 213265
+revid: 216079
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Enemies, Etrea Enemies, Individuals with unspecified pronouns, Justicars]
@@ -247,6 +247,10 @@ Polis' arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md), hi
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -257,6 +261,11 @@ Polis' arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md), hi
 
 -   Polis gains true hyperarmor during the full animation of this attack.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
+
  |
 | 
 
@@ -264,6 +273,10 @@ Polis' arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md), hi
 (★★☆)
 
  | User lunges forward with their weapon coated in wind.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -273,6 +286,10 @@ Polis' arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md), hi
 
  | User uppercuts their opponent, releasing a barrage of strikes.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -280,6 +297,11 @@ Polis' arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md), hi
 (★★☆)
 
  | User performs a short wind-up before throwing a powerful, flinging punch that shatters the air.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 | 
@@ -289,6 +311,10 @@ Polis' arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md), hi
 
  | User unleashes a barrage of blows against their foes.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -297,6 +323,10 @@ Polis' arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md), hi
 
  | User reels in their weapon to then downslam it onto their foes and follow up with 2 uppercuting kicks.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -304,6 +334,11 @@ Polis' arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md), hi
 (★☆☆)
 
  | User launches themselves into a flying kick, backflipping into the air if they hit a wall.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Hive Guard
-revid: 195002
+revid: 216073
 source: https://deepwoken.fandom.com/wiki/Hive_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Hive, Hive Enemies]
@@ -35,6 +35,10 @@ A Hive Guard's arsenal consists of a [Ritual Spear](Ritual_Spear.md) that has a 
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -42,6 +46,10 @@ A Hive Guard's arsenal consists of a [Ritual Spear](Ritual_Spear.md) that has a 
 (★★☆)
 
  | Unleash a quick slash and short lunge.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -51,6 +59,10 @@ A Hive Guard's arsenal consists of a [Ritual Spear](Ritual_Spear.md) that has a 
 
  | The Hive Guard slams down with their blade coated in flames.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -59,6 +71,11 @@ A Hive Guard's arsenal consists of a [Ritual Spear](Ritual_Spear.md) that has a 
 
  | The Hive Guard dashes forward covered in flames, hitting anyone in their path.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⟡ Movement
+
  |
 | 
 
@@ -66,6 +83,10 @@ A Hive Guard's arsenal consists of a [Ritual Spear](Ritual_Spear.md) that has a 
 (★☆☆)
 
  | The Hive Guard shoot a projectile that explodes after a short delay and blinds those looking at it.
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
 
  |
 

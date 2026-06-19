@@ -1,6 +1,6 @@
 ---
 title: Moon Knight
-revid: 209222
+revid: 216151
 source: https://deepwoken.fandom.com/wiki/Moon_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -36,6 +36,10 @@ Some Moon Knights may spawn clipped inside of a rock near the center of the isla
 
 -   **Insta-executes the player if health is low.**
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -48,9 +52,14 @@ Some Moon Knights may spawn clipped inside of a rock near the center of the isla
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 | 
@@ -59,6 +68,10 @@ Dodge
 (★★☆)
 
  | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to [Wind Blade](Galebreathe.md#wind-blade).
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -72,9 +85,14 @@ Dodge
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 | 
@@ -86,6 +104,10 @@ Dodge
 
 -   Strangely enough, these deal wind damage.
 -   Moon Knights will not do any additional attack while this one is active.
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

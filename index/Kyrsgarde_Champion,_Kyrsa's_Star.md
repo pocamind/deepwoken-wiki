@@ -1,6 +1,6 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 213802
+revid: 216223
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Individuals with He/him pronouns]
@@ -28,7 +28,7 @@ This content is not accessible outside of this gamemode.
 
 Raeva Ferash Kenestos, the Kyrsgarde Champion, is a boss located in [New Kyrsa](Second_Layer/New_Kyrsa.md). He is a muscular white-coil Kyrsan donning uniquely colored armor, alongside a black cape that ends with a purple gradient. An immensely powerful and skilled Kyrsgarde, he wields a large, pale glaive that bears [Moonseye](Moonseye.md) motifs, which is highly capable of utilizing frost.
 
-According to [his manifesto](Words_of_Light.md), he served for New Kyrsa even during the [raid on Constellia](Constellia.md), who was gravely aware of the mass killings that took place. Amongst the ruins of Constellia, he discovered an essence of light that was the Celestial [Raeva](Glossary.md#raeva), breaking him free [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>)'s control and ultimately having a goal of destroying the latter and his Scion for the Heavens and New Kyrsa.
+According to [his manifesto](Words_of_Light.md), he served for New Kyrsa even during the [raid on Constellia](Constellia.md), who was gravely aware of the mass killings that took place. Amongst the ruins of Constellia, he discovered an essence of Light that was the Celestial [Raeva](Glossary.md#raeva), breaking him free [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>)'s control and ultimately having a goal of destroying the latter and his Scion for the Heavens and New Kyrsa.
 
 He can be encountered after achieving the following requirements:
 
@@ -51,6 +51,12 @@ After these conditions have been fulfilled, entering the main city will spawn th
 -   This move is only used when you deal damage to it.
 -   Can be destroyed.
 
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   ☕︎ Harmless
+-   Ø Undefendable
+
  | 
 
  |
@@ -63,9 +69,13 @@ After these conditions have been fulfilled, entering the main city will spawn th
 
 _Uses Telegraph_
 
-[ParryTelegraph](Combat_Mechanics.md#green)
+[ParryTelegraph](Combat_Mechanics.md#parry)
 
 Parry
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
 
  | 
 
@@ -81,9 +91,14 @@ Parry
 
 _Uses Telegraph_
 
-[DuckTelegraph](Combat_Mechanics.md#yellow)
+[DuckTelegraph](Combat_Mechanics.md#duck)
 
 Duck
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ↓ Crouch/Slide
 
  | 
 
@@ -97,9 +112,15 @@ Duck
 
 _Uses Telegraph_
 
-[JumpTelegraph](Combat_Mechanics.md#magenta)
+[JumpTelegraph](Combat_Mechanics.md#jump)
 
 Jump
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   ↑ Jump-Avoidable
+-   ↓ Crouch/Slide
 
  | 
 
@@ -113,9 +134,13 @@ Jump
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[HighPostureTelegraph](Combat_Mechanics.md#hp)
 
-Dodge
+High posture
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  | 
 
@@ -131,9 +156,14 @@ Dodge
 
 _Uses Telegraph_
 
-[JumpTelegraph](Combat_Mechanics.md#magenta)
+[JumpTelegraph](Combat_Mechanics.md#jump)
 
 Jump
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   ↑ Jump-Avoidable
 
  | 
 
@@ -149,9 +179,13 @@ Jump
 
 _Uses Telegraph_
 
-[BlockTelegraph](Combat_Mechanics.md#blue)
+[BlockTelegraph](Combat_Mechanics.md#block)
 
 Block
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   ↻ Undodgeable
 
  | 
 
@@ -165,9 +199,13 @@ Block
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[HighPostureTelegraph](Combat_Mechanics.md#hp)
 
-Dodge
+High posture
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  | 
 
@@ -181,9 +219,14 @@ Dodge
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ↑ Jump-Avoidable
 
  | 
 
@@ -194,6 +237,16 @@ Dodge
 (★★★)**
 
  | Enraged, the Champion raises its glaive and summons two ice spikes, rushing forth and delivering two slices.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
+
+Dodge
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 
@@ -209,9 +262,13 @@ Dodge
 
 _Uses Telegraph_
 
-[ParryTelegraph](Combat_Mechanics.md#green)
+[ParryTelegraph](Combat_Mechanics.md#parry)
 
 Parry
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
 
  | 
 
@@ -226,12 +283,12 @@ Parry
 ## Tips and Strategy
 
 -   **You can break the Permafrost Colosseum at any time.** If you don't feel like you are able to beat the Kyrsgarde Champion at any point while in it, you are able to get out and escape alive.
--   If the player doesn't hit the Kyrsgarde Champion, Kyrsa's Star, it won't use its **Permafrost Colosseum** move. This lets you be able to practice and leave at any time you want.
+-   If the player doesn't hit the Kyrsgarde Champion, it won't use its **Permafrost Colosseum** move. This lets you be able to practice and leave at any time you want.
     -   Though, if you walk far enough away from the gate, the initial two Kyrsgarde Lancers will respawn. This could either be a useful healthpack, or your untimely end.
--   Be aware of your positioning, as the space-time collapse vortexes are still active even when you're fighting the Kyrsgarde Champion, Kyrsa's Star.
+-   Be aware of your positioning, as the space-time collapse vortexes are still active even when you're fighting the Kyrsgarde Champion.
 -   Light weapons and fast medium weapons are better than heavy weapons, since it allows you to get a lot more m1's in between its attacks. Although, heavy is safer if you do not know how to properly fight him yet.
 -   Sustain is very important on this fight, using [Bloodless Gem](Bloodless_Gem.md) on your mantras is recommended.
--   Defeating the Kyrsgarde Champion, Kyrsa's Star as a group reduces the chances of getting its exclusive drops.
+-   Defeating the Kyrsgarde Champion as a group reduces the chances of getting its exclusive drops.
     -   Additionally, most of its exclusive drops are both undroppable and unbankable.
 
 ## Drops

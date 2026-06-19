@@ -1,6 +1,6 @@
 ---
 title: Goesh and Draud
-revid: 206490
+revid: 216169
 source: https://deepwoken.fandom.com/wiki/Goesh_and_Draud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -56,6 +56,10 @@ When the other is alive:
 
  | The twins perform 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -63,6 +67,10 @@ When the other is alive:
 (★★☆)
 
  | The twins ready their finger, firing up a shadow shot.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -72,6 +80,11 @@ When the other is alive:
 
  | The twins ready themselves before turning into shadows and dashing forward.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⟡ Movement
+
  |
 | 
 
@@ -80,6 +93,11 @@ When the other is alive:
 
  | The twins get into a stance before delivering a devastating and slow axe kick.
 
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
  |
 | 
 
@@ -87,6 +105,11 @@ When the other is alive:
 (★☆☆)
 
  | The twins will make shadowy afterimages around their opponent before teleporting to them after a short time.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
 
  |
 

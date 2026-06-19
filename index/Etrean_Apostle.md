@@ -1,6 +1,6 @@
 ---
 title: Etrean Apostle
-revid: 196225
+revid: 216214
 source: https://deepwoken.fandom.com/wiki/Etrean_Apostle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive]
@@ -8,7 +8,7 @@ categories: [Vow of Iron Exclusive]
 
 # Etrean Apostle
 
-| Jungle Mertet | |
+| Etrean Apostle | |
 |---|---|
 | health | ? |
 | weapon | Wraithclaw |
@@ -21,7 +21,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Etrean Apostle is an enemy NPC that can be found in [Etris](<Etris_(Vow_of_Iron).md>) when taking on the "Etrean Apostle" job from [Isle of Vigils](Isle_of_Vigils.md). They have a lot of health and deal significant damage, so it's recommended to be careful when fighting them. Their moveset is essentially just a lesser version of [Duke of Erisia](Duke_Ishamon_Erisia.md), so these guys can be taken as practice for the boss itself in Pathfinder. 
+The **Etrean Apostle**, known as "**Jungle Mertet**" in its combat tag, is an enemy NPC that can be found in [Etris](<Etris_(Vow_of_Iron).md>) when taking on the "Etrean Apostle" job from [Isle of Vigils](Isle_of_Vigils.md). They have a lot of health and deal significant damage, so it's recommended to be careful when fighting them. Their moveset is essentially just a lesser version of [Duke of Erisia](Duke_Ishamon_Erisia.md), so these guys can be taken as practice for the boss itself in Pathfinder.
 
 ## Moveset
 
@@ -35,7 +35,11 @@ The Etrean Apostle is an enemy NPC that can be found in [Etris](<Etris_(Vow_of_I
 
 -   Will daze targets if they hit a wall while ragdolled.
 
--   \-
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+-   💀 Autogrip
 
  |
 | 
@@ -47,6 +51,11 @@ The Etrean Apostle is an enemy NPC that can be found in [Etris](<Etris_(Vow_of_I
 
 -   Covers a large Area of Effect.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   💀 Autogrip
+
  |
 | 
 
@@ -54,6 +63,12 @@ The Etrean Apostle is an enemy NPC that can be found in [Etris](<Etris_(Vow_of_I
 (★★☆)
 
  | Etrean Apostle will charge up a punch, and teleport to his target,
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
+-   ⤻ Ragdoll
 
  |
 | 
@@ -66,6 +81,8 @@ The Etrean Apostle is an enemy NPC that can be found in [Etris](<Etris_(Vow_of_I
 -   If fought solo, they may become a real threat as they will combo you while fighting him if not killed fast enough.
 -   He can summon an infinite amount of these servants, and they use the move judgement mostly
 
+-   \+ Summon
+
  |
 | 
 
@@ -77,12 +94,24 @@ The Etrean Apostle is an enemy NPC that can be found in [Etris](<Etris_(Vow_of_I
 -   No range limit, damage is always induced if the counter is hit.
 -   Can deflect [Providence's Thorns](<Providence's_Thorns.md>).
 
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   ⏱ Counter
+-   ⤻ Ragdoll
+-   Ø Undefendable
+
  |
 | 
 
 **Judgement**
 
  | The Etrean Apostle summons a black casting circle before enveloping the player in tendrils and tearing them apart.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   💀 Autogrip
 
  |
 | 
@@ -91,11 +120,19 @@ The Etrean Apostle is an enemy NPC that can be found in [Etris](<Etris_(Vow_of_I
 
  | The Etrean Apostle shoots out a projectile of wind in front of you with 2 wraiths following it.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
 **Wind Vortex**
 
  | The Etrean Apostle shoots out a vortex of wind towards you.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |

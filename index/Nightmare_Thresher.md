@@ -1,6 +1,6 @@
 ---
 title: Nightmare Thresher
-revid: 213467
+revid: 216147
 source: https://deepwoken.fandom.com/wiki/Nightmare_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Monsters]
@@ -31,6 +31,10 @@ Nightmare Threshers are a special variant of [Thresher](Thresher.md) that spawn 
 
  | The Nightmare Thresher stands on its hind legs and swipes twice. Deals moderate damage and 15 posture damage.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |  |
 | 
 
@@ -39,6 +43,10 @@ Nightmare Threshers are a special variant of [Thresher](Thresher.md) that spawn 
 
  | The Nightmare Thresher bites three times in quick succession. The 3rd hit is slightly delayed compared to the animation. Deals moderate damage and 15 posture damage.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |  |
 | 
 
@@ -46,6 +54,12 @@ Nightmare Threshers are a special variant of [Thresher](Thresher.md) that spawn 
 (★★☆)
 
  | The Nightmare Thresher brings its tail back and flicks around to deliver a powerful blow that deals a tremendous amount of posture damage. Deals moderate damage. Attacks following this move come out sooner.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ↑ Jump-Avoidable
+-   ⤻ Ragdoll
 
  |  |
 | 
@@ -57,9 +71,14 @@ Nightmare Threshers are a special variant of [Thresher](Thresher.md) that spawn 
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |  |
 | 
@@ -69,6 +88,10 @@ Dodge
 
  | The Nightmare Thresher breathes black and green flames in front of itself, applying burn on hit.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |  |
 | 
 
@@ -76,6 +99,11 @@ Dodge
 (★★☆)
 
  | The Nightmare Thresher bites you before leaping backwards and charging at you.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |  |
 

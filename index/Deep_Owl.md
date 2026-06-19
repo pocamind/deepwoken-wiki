@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 212035
+revid: 216039
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -43,29 +43,45 @@ Unlocking the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md) require
 | --- | --- | --- |
 | 
 **Talon Swipe**  
-(★☆☆)  
+(★☆☆)
+
+-   ResistanceSlash Slash
 
  | The Deep Owl swipes with one of its arms, the windup depending on which arm is used.
 
 -   It can use this attack multiple times back-to-back, and is usually used during the downtime between other attacks.
 -   Swipes from its right arm come more quickly, while swings from its left arm are delayed somewhat.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |  |
 | 
 
 **Owl Dash**  
-(★☆☆)  
+(★☆☆)
+
+-   [ResistanceShadowcast](Shadowcast.md) Shadow
 
  | The Deep Owl kneels on the ground for a moment before performing a spinning assault with shadowy waves in the target's direction.
 
 -   Can end early without hitting you if it "collides" with something due to its large size.
 -   It will step back and gain distance before using this attack.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ↓ Crouch/Slide
+-   ⟡ Movement
+
  |  |
 | 
 
 **Overhead Grab**  
-(★★★)  
+(★★★)
+
+-   [ResistanceShadowcast](Shadowcast.md) Shadow
 
  | Jumps into the air while turning into a burst of feathers, then descends back down to grab the player before flying upwards.
 
@@ -74,19 +90,31 @@ Unlocking the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md) require
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#purple)
+[HighPostureTelegraph](Combat_Mechanics.md#highposture)
 
 High posture
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
+-   𓂘 Grab
 
  |  |
 | 
 
 **Flock of Feathers**  
-(★★☆)  
+(★★☆)
+
+-   [ResistanceShadowcast](Shadowcast.md) Shadow
 
  | Bursts into a puff of feathers that targets the closest target, dealing substantial armor and chip damage on block.
 
 -   **Overhead Grab** and **Owl Dash** are typically used after this.
+
+-   ✦ Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |  |
 

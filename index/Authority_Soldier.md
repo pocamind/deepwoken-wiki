@@ -1,6 +1,6 @@
 ---
 title: Authority Soldier
-revid: 215455
+revid: 216077
 source: https://deepwoken.fandom.com/wiki/Authority_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Central Authority Enemies]
@@ -37,6 +37,10 @@ An Authority Soldier's arsenal consists of either a [Adretian Axe](Adretian_Axe.
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -49,6 +53,10 @@ An Authority Soldier's arsenal consists of either a [Adretian Axe](Adretian_Axe.
 
 -   Adretian Axe critical is not blockable.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -56,6 +64,10 @@ An Authority Soldier's arsenal consists of either a [Adretian Axe](Adretian_Axe.
 (★★☆)
 
  | Slams down with a blade coated in flame, dealing heavy damage in an arc.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -65,6 +77,10 @@ An Authority Soldier's arsenal consists of either a [Adretian Axe](Adretian_Axe.
 
  | Summon a legion of flaming spearmen that lunge inwards.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -72,6 +88,11 @@ An Authority Soldier's arsenal consists of either a [Adretian Axe](Adretian_Axe.
 (★☆☆)
 
  | The Soldier lunges forward to grab and slam the player into the ground, igniting them in flames.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
 
  |
 

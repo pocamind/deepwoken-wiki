@@ -1,6 +1,6 @@
 ---
 title: "Adar, Master of Metal"
-revid: 213244
+revid: 216120
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, The Ignition Union, NPCs located in the Eastern Luminant, Ignition Union Enemies]
@@ -44,6 +44,10 @@ Adar's arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md) alo
 
  | Adar performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -54,6 +58,11 @@ Adar's arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md) alo
 
 -   Adar gains true hyperarmor during this attack's animation.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
+
  |
 | 
 
@@ -61,6 +70,10 @@ Adar's arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md) alo
 (★★☆)
 
  | Adar stomps the ground, causing a flurry of metal spikes to erupt in front of him.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -70,6 +83,10 @@ Adar's arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md) alo
 
  | Adar throws out 6 caltrops upon use, which stay on the ground for a while and damage anyone who steps on them.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -77,6 +94,10 @@ Adar's arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md) alo
 (★★☆)
 
  | Adar conjures 5 rifles above him that begin to fire 3 salvos at any target.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -86,6 +107,10 @@ Adar's arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md) alo
 
  | Adar conjures a vortex of blades before rushing forward.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -93,6 +118,10 @@ Adar's arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md) alo
 (★★★)
 
  | Adar coats himself in iron-bits. While active, each M1 will summon a greatsword that swings alongside Adar every 3 seconds.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -102,6 +131,10 @@ Adar's arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md) alo
 
  | Adar causes a gesture with his right hand, causing a barrage of spikey metal projectiles to impale enemies nearby.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -109,6 +142,10 @@ Adar's arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md) alo
 (★★☆)
 
  | Adar forms a large spikey iron rod before slamming it down forwards.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -118,6 +155,10 @@ Adar's arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md) alo
 
  | Adar performs a short windup before tightly hugging the opponent, crushing their bones before sending them away.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -125,6 +166,10 @@ Adar's arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md) alo
 (★★☆)
 
  | After a small wind-up, Adar conjures an iron claw on his left arm before thrusting forward, pushing back any targets on his way.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -134,6 +179,11 @@ Adar's arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md) alo
 
  | Adar rushes forward while encased in a metal ball, knocking down any targets in the way.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
+
  |
 | 
 
@@ -141,6 +191,10 @@ Adar's arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md) alo
 (★★☆)
 
  | Adar jumps in the air before throwing out 3 projectiles towards where he aims at.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -150,6 +204,10 @@ Adar's arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md) alo
 
  | Adar does an initial swing with a second long wind-up, then throws the enemy into the air and kicks them away.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -157,6 +215,10 @@ Adar's arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md) alo
 (★★☆)
 
  | Adar pulls out a gatling gun, mowing down enemies on his way, similar to a Mechalodaunt's Bullet Fury.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

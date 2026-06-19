@@ -1,6 +1,6 @@
 ---
 title: Arkasid
-revid: 214097
+revid: 216142
 source: https://deepwoken.fandom.com/wiki/Arkasid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages with reason, StubPages, Monsters]
@@ -36,6 +36,10 @@ It was said that the eradication efforts against the Arkasids required an immens
 
  | The Arkasid swipes at the player twice in quick succession.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |  |
 | 
 
@@ -46,6 +50,12 @@ It was said that the eradication efforts against the Arkasids required an immens
 
 -   The [Sleeping](Status_Effects.md#sleeping) effect can be avoided by having the [Brick Wall](Talents.md#brick-wall) Talent, applying a slow instead.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ¤ Debuff
+-   ↗ Ragdoll
+
  |  |
 | 
 
@@ -54,6 +64,11 @@ It was said that the eradication efforts against the Arkasids required an immens
 
  | The Arkasid pounces towards the player after a short wind up.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
  |  |
 | 
 
@@ -61,6 +76,10 @@ It was said that the eradication efforts against the Arkasids required an immens
 (★★☆)
 
  | The Arkasid spins, rapidly hitting the target multiple times.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |  |
 

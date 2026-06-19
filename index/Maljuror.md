@@ -1,6 +1,6 @@
 ---
 title: Maljuror
-revid: 213376
+revid: 216180
 source: https://deepwoken.fandom.com/wiki/Maljuror
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Random Encounters, The Starkindred Church, Humanoids with Unobtainable Outfits]
@@ -35,6 +35,10 @@ Killing them rewards you with a [chest](Chests_&_Sacks.md) with regular [Songsee
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -42,6 +46,10 @@ Killing them rewards you with a [chest](Chests_&_Sacks.md) with regular [Songsee
 (★★☆)
 
  | Maljuror unleashes a horizontal slash that hits twice and dazes the opponent.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -51,6 +59,10 @@ Killing them rewards you with a [chest](Chests_&_Sacks.md) with regular [Songsee
 
  | Maljuror forcefully slams down their blade coated in flames.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -58,6 +70,10 @@ Killing them rewards you with a [chest](Chests_&_Sacks.md) with regular [Songsee
 (★★★)
 
  | Maljuror gathers flames in their hand and spins it like a whip grabbing opponents around them, before slamming them into the ground.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -68,6 +84,12 @@ Killing them rewards you with a [chest](Chests_&_Sacks.md) with regular [Songsee
  | The Maljuror lunges forwards and grabs you, whispering into your ears and greatly draining your sanity.
 
 -   This attack shares an animation with [Dread Whisper](Attunement-less.md#dread-whisper), though the visual and sound effects are entirely unique.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ❆ Stun
+-   𓂘 Grab
 
  |
 

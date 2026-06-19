@@ -1,6 +1,6 @@
 ---
 title: Watcher
-revid: 201005
+revid: 216028
 source: https://deepwoken.fandom.com/wiki/Watcher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -41,6 +41,12 @@ Their body is malnourished to an extent that their ribcage is visible, and their
 -   Only one Hollow Angel will be spawned if the Watcher is at the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
 -   The Watcher cannot use Leap during Watcher's Gaze.
 
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   ¤ Debuff
+-   \+ Summon
+
  |
 | 
 
@@ -50,6 +56,9 @@ Their body is malnourished to an extent that their ribcage is visible, and their
  | The Watcher leaps to a different vantage point.
 
 -   The Watcher will not use this if it is using Watcher's Gaze.
+
+-   ☕︎ Harmless
+-   ⟡ Movement
 
  |
 

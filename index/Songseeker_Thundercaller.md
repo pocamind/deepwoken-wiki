@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 215235
+revid: 216063
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers, Humanoids with Unobtainable Outfits]
@@ -37,6 +37,10 @@ A Songseeker Thundercaller's arsenal consists of [Fists](Fists.md) **(Way of Nav
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -44,6 +48,10 @@ A Songseeker Thundercaller's arsenal consists of [Fists](Fists.md) **(Way of Nav
 (★★☆)
 
  | Raises left leg before slamming it to the ground below.
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
 
  |
 | 
@@ -53,6 +61,11 @@ A Songseeker Thundercaller's arsenal consists of [Fists](Fists.md) **(Way of Nav
 
  | Dashes forward grabbing someone into a chokehold and electrocuting them.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
+
  |
 | 
 
@@ -60,6 +73,10 @@ A Songseeker Thundercaller's arsenal consists of [Fists](Fists.md) **(Way of Nav
 (★★☆)
 
  | Rises into the air slamming back down with lightning empowered kick.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -69,6 +86,10 @@ A Songseeker Thundercaller's arsenal consists of [Fists](Fists.md) **(Way of Nav
 
  | Conjures blade shaped lightning that shocking anyone within.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -76,6 +97,12 @@ A Songseeker Thundercaller's arsenal consists of [Fists](Fists.md) **(Way of Nav
 (★★☆)
 
  | Rushes forward like a bolt of lightning.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⟡ Movement
+-   ⛧ Teleport
 
  |
 | 
@@ -85,6 +112,11 @@ A Songseeker Thundercaller's arsenal consists of [Fists](Fists.md) **(Way of Nav
 
  | A stream of lightning that hooks onto an opponent before shocking them multiple times.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ✴︎ Pull
+
  |
 | 
 
@@ -92,6 +124,11 @@ A Songseeker Thundercaller's arsenal consists of [Fists](Fists.md) **(Way of Nav
 (★☆☆)
 
  | An explosion of blue ether around the user that pushes opponents away.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ☕︎ Harmless
 
  |
 

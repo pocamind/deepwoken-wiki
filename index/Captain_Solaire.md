@@ -1,6 +1,6 @@
 ---
 title: Captain Solaire
-revid: 208441
+revid: 216174
 source: https://deepwoken.fandom.com/wiki/Captain_Solaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Enemies, Enemies that can wield Enchantments, Central Authority Enemies]
@@ -53,6 +53,10 @@ This variant of Solaire wields a [Warden Ceremonial Sword](Warden_Ceremonial_Swo
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -60,6 +64,10 @@ This variant of Solaire wields a [Warden Ceremonial Sword](Warden_Ceremonial_Swo
 (★★★)
 
  | Solaire dashes forwards and performs a 360° horizontal slash.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -69,6 +77,10 @@ This variant of Solaire wields a [Warden Ceremonial Sword](Warden_Ceremonial_Swo
 
  | Solaire whistles, signaling the Merit's cannons to fire upon you.
 
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -76,6 +88,12 @@ This variant of Solaire wields a [Warden Ceremonial Sword](Warden_Ceremonial_Swo
 (★★☆)
 
  | Solaire rushes forwards in a zig-zagging trail.
+
+-   ⟡ Movement
+-   ⛧ Teleport
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -85,6 +103,12 @@ This variant of Solaire wields a [Warden Ceremonial Sword](Warden_Ceremonial_Swo
 
  | Solaire hooks their opponent with lightning before pulling them into melee range.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ✴︎ Pull
+-   𓂘 Grab
+
  |
 | 
 
@@ -93,6 +117,12 @@ This variant of Solaire wields a [Warden Ceremonial Sword](Warden_Ceremonial_Swo
 
  | Solaire rushes forwards and grabs their opponent. If this lands, they will teleport into the sky and crash down as a bolt of lightning.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+-   𓂘 Grab
+
  |
 | 
 
@@ -100,6 +130,10 @@ This variant of Solaire wields a [Warden Ceremonial Sword](Warden_Ceremonial_Swo
 (★★☆)
 
  | Solaire conjures three lightning orbs before sending them towards their targets.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 
@@ -117,6 +151,10 @@ This variant of Solaire wields an [Alloyed Adretian Axe](Adretian_Axe.md#alloyed
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -127,6 +165,11 @@ This variant of Solaire wields an [Alloyed Adretian Axe](Adretian_Axe.md#alloyed
 
 -   Solaire gains hyperarmor during the windup of this attack.
 
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤓ Knockdown
+
  |
 | 
 
@@ -134,6 +177,11 @@ This variant of Solaire wields an [Alloyed Adretian Axe](Adretian_Axe.md#alloyed
 (★★☆)
 
  | Solaire imbues their fist with flames that explode on impact with the ground. Strikes twice in front of the user and creates a bursting explosion each time.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 | 
@@ -143,6 +191,11 @@ This variant of Solaire wields an [Alloyed Adretian Axe](Adretian_Axe.md#alloyed
 
  | Solaire snaps their fingers, summoning an orb of flames that implodes and blinds opponents temporarily.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ¤ Debuff
+
  |
 | 
 
@@ -150,6 +203,11 @@ This variant of Solaire wields an [Alloyed Adretian Axe](Adretian_Axe.md#alloyed
 (★☆☆)
 
  | Solaire lunges forward for a grab that slams and burns incoming opponents into the ground.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   𓂘 Grab
 
  |
 | 
@@ -159,6 +217,12 @@ This variant of Solaire wields an [Alloyed Adretian Axe](Adretian_Axe.md#alloyed
 
  | Solaire gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ✴︎ Pull
+-   𓂘 Grab
+
  |
 | 
 
@@ -167,6 +231,10 @@ This variant of Solaire wields an [Alloyed Adretian Axe](Adretian_Axe.md#alloyed
 
  | Solaire forcefully slams down their blade coated in flames.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -174,6 +242,11 @@ This variant of Solaire wields an [Alloyed Adretian Axe](Adretian_Axe.md#alloyed
 (★★☆)
 
  | Solaire spins and releases a fury of flames that sends both the user and opponent vertically into the air.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   𓂘 Grab
 
  |
 
@@ -193,6 +266,10 @@ This variant also has [Murmur: Ardour](Murmur%253A_Ardour.md).
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -203,6 +280,11 @@ This variant also has [Murmur: Ardour](Murmur%253A_Ardour.md).
 
 -   Solaire gains hyperarmor during the windup of this attack.
 
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤓ Knockdown
+
  |
 | 
 
@@ -210,6 +292,10 @@ This variant also has [Murmur: Ardour](Murmur%253A_Ardour.md).
 (★☆☆)
 
  | Solaire casts out a straight beam of lightning from where they are facing.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -219,6 +305,11 @@ This variant also has [Murmur: Ardour](Murmur%253A_Ardour.md).
 
  | Solaire touches their face, before snapping their fingers and summoning a white haired clone of themselves.
 
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   \+ Summon
+
  |
 | 
 
@@ -226,6 +317,11 @@ This variant also has [Murmur: Ardour](Murmur%253A_Ardour.md).
 (★☆☆)
 
  | Solaire conjures and throws a spear of lightning aimed at their target.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 | 
@@ -235,6 +331,12 @@ This variant also has [Murmur: Ardour](Murmur%253A_Ardour.md).
 
  | Solaire grapples onto a target with a stream of lightning before pulling them in.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ✴︎ Pull
+-   𓂘 Grab
+
  |
 | 
 
@@ -243,6 +345,10 @@ This variant also has [Murmur: Ardour](Murmur%253A_Ardour.md).
 
  | Solaire conjures a shocking orb from the end of their hammer, dealing rapid damage. Does not have autoparry frames.
 
+-   ✦ Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -250,6 +356,10 @@ This variant also has [Murmur: Ardour](Murmur%253A_Ardour.md).
 (★☆☆)
 
  | Solaire dashes forward before performing two slashes, sending out 2 short-ranged arcs of lightning forward that pierce through targets.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -261,6 +371,11 @@ This variant also has [Murmur: Ardour](Murmur%253A_Ardour.md).
 
 -   Solaire gains hyperarmor during the windup of this attack.
 
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤓ Knockdown
+
  |
 | 
 
@@ -268,6 +383,11 @@ This variant also has [Murmur: Ardour](Murmur%253A_Ardour.md).
 (★☆☆)
 
  | Solaire conjures and slams a bolt of lightning into the ground from their right hand, causing volleys of lightning strikes to spread out.
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 

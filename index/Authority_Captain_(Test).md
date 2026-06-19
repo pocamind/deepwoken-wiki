@@ -1,6 +1,6 @@
 ---
 title: Authority Captain (Test)
-revid: 191329
+revid: 216182
 source: https://deepwoken.fandom.com/wiki/Authority_Captain_(Test)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Articles with conjectural titles, Stub pages without reason, StubPages, Central Authority Enemies, Enemies]
@@ -34,6 +34,10 @@ Assault
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |  |
 | 
 
@@ -41,6 +45,10 @@ Assault
 (★★☆)
 
  | Reels the weapon back before delivering a strong stab.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |  |
 | 
@@ -50,6 +58,10 @@ Assault
 
  | The Authority Captain dashes forwards with their left hand charged with lightning; if a target is hit, they slam the target into the ground before sending out a small AoE around the himself.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |  |
 | 
 
@@ -58,6 +70,10 @@ Assault
 
  | The Authority Captain conjures a bolt of lightning into the ground from their right hand, causing volleys of lightning strikes to spread out.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |  |
 | 
 
@@ -65,6 +81,8 @@ Assault
 (★★★)
 
  | The Authority Captain conjures balls of thunder and shoots them in multiple directions. After a second they come back and shoot out once more.
+
+-   NA
 
  |  |
 

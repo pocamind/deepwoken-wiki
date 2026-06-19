@@ -1,6 +1,6 @@
 ---
 title: "Amashi, Master of Flame"
-revid: 208122
+revid: 216116
 source: https://deepwoken.fandom.com/wiki/Amashi%2C_Master_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, NPCs located in the Eastern Luminant]
@@ -43,6 +43,10 @@ Amashi's arsenal consists of a [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>)
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -50,6 +54,10 @@ Amashi's arsenal consists of a [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>)
 (★★☆)
 
  | Impales blade into the ground, causing a burst of flame while conjuring the avatar of the Hero Blade of Flame.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -59,6 +67,10 @@ Amashi's arsenal consists of a [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>)
 
  | User slams down with their blade coated in flames.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -66,6 +78,12 @@ Amashi's arsenal consists of a [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>)
 (★★★)
 
  | Snap your fingers, shooting a projectile that blinds those who dare gaze at it.
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   ¤ Debuff
+-   «» Misc.
 
  |
 | 
@@ -75,6 +93,10 @@ Amashi's arsenal consists of a [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>)
 
  | After a wind-up of ~2 seconds, user releases a burning AoE blast.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -82,6 +104,11 @@ Amashi's arsenal consists of a [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>)
 (★★☆)
 
  | User dashes forward covered in flames; hitting anyone in their path.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⟡ Movement
 
  |
 | 
@@ -91,6 +118,10 @@ Amashi's arsenal consists of a [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>)
 
  | User emits a blast under them that propels the caster and nearby opponents up in the air.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -98,6 +129,11 @@ Amashi's arsenal consists of a [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>)
 (★★★)
 
  | Strike the ground, turning it to ash.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 | 
@@ -107,6 +143,10 @@ Amashi's arsenal consists of a [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>)
 
  | User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -114,6 +154,11 @@ Amashi's arsenal consists of a [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>)
 (★★☆)
 
  | Conjure a flaming arrow and fire it at your target.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Deep Angel
-revid: 191379
+revid: 216158
 source: https://deepwoken.fandom.com/wiki/Deep_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enemies, Enemies that can wield Enchantments]
@@ -32,6 +32,10 @@ Deep Angels were removed from the game on June 9th, 2025. Static encounters in t
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -40,6 +44,10 @@ Deep Angels were removed from the game on June 9th, 2025. Static encounters in t
 
  | Enters a stance before performing a quick swipe, will perform an additional short lunge if the first hit lands.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -47,6 +55,8 @@ Deep Angels were removed from the game on June 9th, 2025. Static encounters in t
 (★★☆)
 
  | Performs a fake attack, before pulling back and committing to a thrust.
+
+-   ☕︎ Harmless
 
  |
 | 
@@ -58,6 +68,10 @@ Deep Angels were removed from the game on June 9th, 2025. Static encounters in t
 
 -   Deals very low damage.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -66,6 +80,9 @@ Deep Angels were removed from the game on June 9th, 2025. Static encounters in t
 
  | Quickly dashes a long distance, purely for mobility.
 
+-   ☕︎ Harmless
+-   ⟡ Movement
+
  |
 | 
 
@@ -73,6 +90,10 @@ Deep Angels were removed from the game on June 9th, 2025. Static encounters in t
 (★☆☆)
 
  | A hit which will empty the Deep Angel's posture upon landing.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -84,6 +105,10 @@ Deep Angels were removed from the game on June 9th, 2025. Static encounters in t
 
 -   Deals typeless damage.
 -   Has autoparry frames.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

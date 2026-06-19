@@ -1,6 +1,6 @@
 ---
 title: Mindless Servant
-revid: 201354
+revid: 216043
 source: https://deepwoken.fandom.com/wiki/Mindless_Servant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies]
@@ -37,6 +37,10 @@ A Mindless Servant's arsenal only consists of their hands:
 
 -   Has relatively high hitstun.
 -   If you whiff a parry against this attack, let the next attack hit you instead of retaliating, as you'll just get hit again.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

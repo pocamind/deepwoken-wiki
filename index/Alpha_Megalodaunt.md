@@ -1,6 +1,6 @@
 ---
 title: Alpha Megalodaunt
-revid: 199421
+revid: 216197
 source: https://deepwoken.fandom.com/wiki/Alpha_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -40,10 +40,16 @@ Despite all of the above, they behave like regular Megalodaunts.
 **Slash**  
 (★☆☆)
 
+-   ResistanceBlunt ResistanceSlash Physical
+
  | A short range swipe using their arms. Can slash once or twice, and if once can be paired with **Kick**.
 
 -   Heavy posture damage. Will commonly block break after two hits.
 -   If the Megalodaunt slashes twice, it will take longer to attack again.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 
@@ -53,6 +59,8 @@ Despite all of the above, they behave like regular Megalodaunts.
 **Kick**  
 (★★☆)
 
+-   ResistanceBlunt ResistanceSlash Physical
+
  | The Alpha Megalodaunt will wind up its right leg back with a red circle effect before delivering a kick that ragdolls and sends the player flying.
 
 -   Causes the player to be [Dazed](Status_Effects.md#dazed) if kicked into a wall.
@@ -61,9 +69,14 @@ Despite all of the above, they behave like regular Megalodaunts.
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ↗ Ragdoll
 
  | 
 
@@ -73,10 +86,16 @@ Dodge
 **Thousand Needles**  
 (★☆☆)
 
+-   ResistanceBlunt ResistanceSlash Physical
+
  | The Alpha Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second.
 
 -   Lasts as long as auto-parry frames, meaning you can simply parry once to parry the whole attack.
 -   There is a shorter-ranged AoE version and a longer-ranged single-target version. Both function the same.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 
@@ -92,6 +111,11 @@ Dodge
 -   Blocking negates much of but not all the Insanity gain.
 -   Dangerous in [The Depths](The_Depths.md).
 
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ¤ Debuff
+
  | 
 
  |
@@ -100,15 +124,25 @@ Dodge
 **Tacet Hug**  
 (★★☆)
 
+-   ResistanceBlunt ResistanceSlash Physical
+
  | The Alpha Megalodaunt turns invisible, with a white ring signifying where they are. After a moment, it turns visible again and appears over its target, grabs it, holds it up, and chews it down, before throwing it away and ragdolling it.
 
 -   If its target is mid-air after it turns invisible, it will instead use **Tacet Drop Kick**.
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   💀 Autogrip
+-   ⛧ Teleport
+-   𓂘 Grab
+-   ⤻ Ragdoll
 
  | 
 
@@ -118,15 +152,23 @@ Dodge
 **Tacet Drop Kick**  
 (★☆☆)
 
+-   ResistanceBlunt ResistanceSlash Physical
+
  | Starts out similarly to **Tacet Hug**, but after it turns visible again, it will throw out its entire body in a drop kick, flinging and ragdolling targets hit.
 
 -   Cannot be used on its own, and is only used as a variant for **Tacet Hug**.
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
 
 Dodge
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
+-   ⤻ Ragdoll
 
  | 
 
@@ -138,6 +180,9 @@ Dodge
 
  | If the target is above it, the Alpha Megalodaunt will jump in the direction of its opponent to close the distance. Often used after **Kick**.
 
+-   ☕︎ Harmless
+-   ⟡ Movement
+
  | 
 
  |
@@ -147,6 +192,10 @@ Dodge
 (★☆☆)
 
  | The Alpha Megalodaunt leans forward and bites down, ragdolling those hit. Only used while in water.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Hive Scout
-revid: 211089
+revid: 216111
 source: https://deepwoken.fandom.com/wiki/Hive_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Hive Enemies]
@@ -36,6 +36,10 @@ A Hive Scout's arsenal consists of either an [Iron Birch](Iron_Birch.md), [Razor
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -49,6 +53,10 @@ A Hive Scout's arsenal consists of either an [Iron Birch](Iron_Birch.md), [Razor
 
 -   The Iron Birch critical is not blockable.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -56,6 +64,10 @@ A Hive Scout's arsenal consists of either an [Iron Birch](Iron_Birch.md), [Razor
 (★★☆)
 
  | User slams down with their blade coated in flames.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -65,6 +77,11 @@ A Hive Scout's arsenal consists of either an [Iron Birch](Iron_Birch.md), [Razor
 
  | Caster dashes forward covered in flames; knocking down whoever is in its path.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⟡ Movement
+
  |
 | 
 
@@ -72,6 +89,11 @@ A Hive Scout's arsenal consists of either an [Iron Birch](Iron_Birch.md), [Razor
 (★☆☆)
 
  | A quick dash signified by a red-line effect, which teleports the user some distance forward upon activation.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
 
  |
 

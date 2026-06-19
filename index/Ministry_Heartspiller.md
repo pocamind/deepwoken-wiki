@@ -1,6 +1,6 @@
 ---
 title: Ministry Heartspiller
-revid: 198555
+revid: 216168
 source: https://deepwoken.fandom.com/wiki/Ministry_Heartspiller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Ministry, Ministry Enemies]
@@ -64,6 +64,10 @@ A Ministry Heartspiller wields a [Red Death](Red_Death.md) alongside a mix of Sh
 
  | The Heartspiller performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -71,6 +75,10 @@ A Ministry Heartspiller wields a [Red Death](Red_Death.md) alongside a mix of Sh
 (★★☆)
 
  | The Heartspiller raises their spear to the sky, before bringing it down, unleashing a barrage of orbs.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -80,6 +88,11 @@ A Ministry Heartspiller wields a [Red Death](Red_Death.md) alongside a mix of Sh
 
  | The Heartspiller releases an explosion of blue ether, pushing their enemy away.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ☕︎ Harmless
+
  |
 | 
 
@@ -87,6 +100,10 @@ A Ministry Heartspiller wields a [Red Death](Red_Death.md) alongside a mix of Sh
 (★☆☆)
 
  | The Heartspiller swipes with their right hand before releasing a large sphere of shadow, hitting their enemy twice and applying shadow.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -98,6 +115,10 @@ A Ministry Heartspiller wields a [Red Death](Red_Death.md) alongside a mix of Sh
 
 -   This attack can summon multiple tendrils to grab multiple people simultaneously.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -105,6 +126,11 @@ A Ministry Heartspiller wields a [Red Death](Red_Death.md) alongside a mix of Sh
 (★★☆)
 
  | The Heartspiller performs a slow axe kick, causing their enemy to be ragdolled and flung back.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 | 
@@ -114,6 +140,11 @@ A Ministry Heartspiller wields a [Red Death](Red_Death.md) alongside a mix of Sh
 
  | The Heartspiller conjures a cross, ragdolling and throwing enemies back.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
  |
 | 
 
@@ -121,6 +152,10 @@ A Ministry Heartspiller wields a [Red Death](Red_Death.md) alongside a mix of Sh
 (★★☆)
 
  | The Heartspiller will flash 5 times while charging before quickly dashing forward and throwing a blood-infused punch. If fully charged, this move gains the ability to guardbreak.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

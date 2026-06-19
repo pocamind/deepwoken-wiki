@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad
-revid: 212117
+revid: 216076
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Children of Navae, Children of Navae Enemies]
@@ -42,6 +42,10 @@ Their arsenal consists of a [Gremorian Longspear](Gremorian_Longspear.md) along 
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -49,6 +53,10 @@ Their arsenal consists of a [Gremorian Longspear](Gremorian_Longspear.md) along 
 (★★☆)
 
  | Throws spear at opponent and then pulling them in with a white chain.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 
@@ -86,6 +94,10 @@ Their arsenal consists of a [Gremorian Longspear](Gremorian_Longspear.md) along 
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -93,6 +105,10 @@ Their arsenal consists of a [Gremorian Longspear](Gremorian_Longspear.md) along 
 (★★☆)
 
  | Throws spear at opponent and then pulling them in with a white chain.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -102,6 +118,11 @@ Their arsenal consists of a [Gremorian Longspear](Gremorian_Longspear.md) along 
 
  | Forms a path of ice spikes in front of user.
 
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ❆ Stun
+
  |
 | 
 
@@ -110,6 +131,10 @@ Their arsenal consists of a [Gremorian Longspear](Gremorian_Longspear.md) along 
 
  | Forms three daggers of ice before throwing them towards the nearest person.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -117,6 +142,11 @@ Their arsenal consists of a [Gremorian Longspear](Gremorian_Longspear.md) along 
 (★★☆)
 
  | Forms four chains of ice that lock on and stun you on hit.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ¤ Debuff
 
  |
 

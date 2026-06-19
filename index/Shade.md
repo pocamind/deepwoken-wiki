@@ -1,6 +1,6 @@
 ---
 title: Shade
-revid: 176733
+revid: 216166
 source: https://deepwoken.fandom.com/wiki/Shade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -30,6 +30,10 @@ A Shade uses the [Shattered Katana](Shattered_Katana.md) with Specter [Galebreat
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -37,6 +41,10 @@ A Shade uses the [Shattered Katana](Shattered_Katana.md) with Specter [Galebreat
 (★★☆)
 
  | Performs a quick vertical and horizontal slash, which are followed with two additional delayed aftercuts.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -46,6 +54,10 @@ A Shade uses the [Shattered Katana](Shattered_Katana.md) with Specter [Galebreat
 
  | The Shade shoots out an arc of gale.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -53,6 +65,10 @@ A Shade uses the [Shattered Katana](Shattered_Katana.md) with Specter [Galebreat
 (★☆☆)
 
  | The Shade conjures up a line of 4 wind projectiles before sending them towards the target.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -62,6 +78,10 @@ A Shade uses the [Shattered Katana](Shattered_Katana.md) with Specter [Galebreat
 
  | The Shade dashes forwards kicking with a rush of winds dealing damage.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -69,6 +89,9 @@ A Shade uses the [Shattered Katana](Shattered_Katana.md) with Specter [Galebreat
 (★☆☆)
 
  | The Shade creates a bubble. After it's been made, any player or non-allied npc that steps inside is severely slowed.
+
+-   «» Misc.
+-   ¤ Debuff
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Necroskipper
-revid: 201825
+revid: 216161
 source: https://deepwoken.fandom.com/wiki/Necroskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Humanoid Monsters, Humanoids with Unobtainable Outfits]
@@ -35,6 +35,10 @@ Seemingly from the same magic of the Necromancy, they also wear colour-coded arm
 
  | Weakly scratches opponent over and over again until knocked.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -42,6 +46,11 @@ Seemingly from the same magic of the Necromancy, they also wear colour-coded arm
 (★★☆)
 
  | Conjures a Flaming Arrow before firing it at an opponent.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 
@@ -55,6 +64,10 @@ Seemingly from the same magic of the Necromancy, they also wear colour-coded arm
 
  | Weakly smacks opponent over and over again until knocked.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -63,6 +76,10 @@ Seemingly from the same magic of the Necromancy, they also wear colour-coded arm
 
  | The Blueskipper conjures a spike of ice from the ground.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -70,6 +87,10 @@ Seemingly from the same magic of the Necromancy, they also wear colour-coded arm
 (★★☆)
 
  | User forms 4 ice blades around them before they start to spin at high speeds, dealing light damage and firing off in opposite directions once finished.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

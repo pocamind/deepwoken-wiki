@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Arcwarder
-revid: 195718
+revid: 216124
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, Enemies that can wield Enchantments, Enemies with Oaths, Ignition Union Enemies]
@@ -31,6 +31,10 @@ An Ignition Union Arcwarder's arsenal consists of a [Railblade](Railblade.md), a
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -38,6 +42,11 @@ An Ignition Union Arcwarder's arsenal consists of a [Railblade](Railblade.md), a
 (★★☆)
 
  | Enters a stance before rushing forward, unleashing a fiery whirlwind on enemy contact.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
 
  |
 | 
@@ -47,6 +56,11 @@ An Ignition Union Arcwarder's arsenal consists of a [Railblade](Railblade.md), a
 
  | While in the air, performs a fiery downwards sweep, applying Knockdown and Burn.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
+
  |
 | 
 
@@ -54,6 +68,9 @@ An Ignition Union Arcwarder's arsenal consists of a [Railblade](Railblade.md), a
 (☆☆☆)
 
  | Conjures and equips their Arcwarder suit.
+
+-   «» Misc.
+-   ☕︎ Harmless
 
  |
 | 
@@ -63,6 +80,10 @@ An Ignition Union Arcwarder's arsenal consists of a [Railblade](Railblade.md), a
 
  | Performs a quick stomp on the ground that releases a wave of energy around the user, dealing both fire and lightning damage.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -70,6 +91,11 @@ An Ignition Union Arcwarder's arsenal consists of a [Railblade](Railblade.md), a
 (★★☆)
 
  | Shoots out a laser from the user's eyes that explode after a second, dealing both fire and lightning damage.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 | 
@@ -79,6 +105,10 @@ An Ignition Union Arcwarder's arsenal consists of a [Railblade](Railblade.md), a
 
  | Conjures a ring of lightning blades that deal AoE damage with a brief stun.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -87,6 +117,10 @@ An Ignition Union Arcwarder's arsenal consists of a [Railblade](Railblade.md), a
 
  | User forcefully slams down their blade coated in flames.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -94,6 +128,10 @@ An Ignition Union Arcwarder's arsenal consists of a [Railblade](Railblade.md), a
 (★★★)
 
  | The user pulls out a Gatling gun, mowing down the enemies that get caught in its line of fire. Inflicts burn.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

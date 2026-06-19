@@ -1,6 +1,6 @@
 ---
 title: Immortal Guardian
-revid: 194338
+revid: 216102
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -43,6 +43,10 @@ An Immortal Guardian's arsenal consists of a [Soulwrought Greatsword](Crazy_Slot
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  | 
 
  |
@@ -52,6 +56,11 @@ An Immortal Guardian's arsenal consists of a [Soulwrought Greatsword](Crazy_Slot
 (★★☆)
 
  | Raises weapon before firmly slamming it down into the ground.
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ⤓ Knockdown
 
  | 
 

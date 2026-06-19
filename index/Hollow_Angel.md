@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 201886
+revid: 216029
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies that can wield Enchantments, Layer 1, The Depths, Humanoid Monsters]
@@ -35,6 +35,10 @@ categories: [Enemies that can wield Enchantments, Layer 1, The Depths, Humanoid 
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -42,6 +46,10 @@ categories: [Enemies that can wield Enchantments, Layer 1, The Depths, Humanoid 
 (★★☆)
 
  | Enters a stance before performing a quick swipe. Performs an additional short lunge if the first hit lands.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -51,6 +59,8 @@ categories: [Enemies that can wield Enchantments, Layer 1, The Depths, Humanoid 
 
  | Interrupts the wind-up of a thrust, before pulling back and committing to a real attack.
 
+-   ☕︎ Harmless
+
  |
 | 
 
@@ -58,6 +68,10 @@ categories: [Enemies that can wield Enchantments, Layer 1, The Depths, Humanoid 
 (★☆☆)
 
  | Its eyes light up, stunning anyone facing them who hasn't parried or blocked.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -67,6 +81,10 @@ categories: [Enemies that can wield Enchantments, Layer 1, The Depths, Humanoid 
 
  | Its eyes gain a circular aura, occasionally stunning whoever is looking at them briefly.
 
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -75,6 +93,10 @@ categories: [Enemies that can wield Enchantments, Layer 1, The Depths, Humanoid 
 
  | Quickly performs a medium ranged jab that transfers all of their posture damage onto the target.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -82,6 +104,9 @@ categories: [Enemies that can wield Enchantments, Layer 1, The Depths, Humanoid 
 (☆☆☆)
 
  | Quickly dashes a long distance. Purely for mobility.
+
+-   ☕︎ Harmless
+-   ⟡ Movement
 
  |
 | 
@@ -93,6 +118,10 @@ categories: [Enemies that can wield Enchantments, Layer 1, The Depths, Humanoid 
 
 -   Grants autoparry frames.
 -   Deals typeless damage.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

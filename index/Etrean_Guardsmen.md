@@ -1,6 +1,6 @@
 ---
 title: Etrean Guardsmen
-revid: 194930
+revid: 216055
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardsmen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Etrea Enemies, Guards]
@@ -43,6 +43,10 @@ An Etrean Guardsmen's arsenal consists of either a [Battleaxe](Battleaxe.md), [R
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -55,6 +59,10 @@ An Etrean Guardsmen's arsenal consists of either a [Battleaxe](Battleaxe.md), [R
 
 -   The Battleaxe and Mace criticals are not blockable.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -62,6 +70,10 @@ An Etrean Guardsmen's arsenal consists of either a [Battleaxe](Battleaxe.md), [R
 (★★☆)
 
  | User lunges forward with their weapon coated in wind.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: The Fisherman
-revid: 176728
+revid: 216156
 source: https://deepwoken.fandom.com/wiki/The_Fisherman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters, Enemies that can wield Enchantments, Enemies with Oaths]
@@ -35,6 +35,10 @@ The Fisherman uses their enchanted [Halberd](Halberd.md) in addition to [Thunder
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -42,6 +46,10 @@ The Fisherman uses their enchanted [Halberd](Halberd.md) in addition to [Thunder
 (★★☆)
 
  | The Fisherman charges at the opponent, attacking with a spinning horizontal slash.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -51,6 +59,11 @@ The Fisherman uses their enchanted [Halberd](Halberd.md) in addition to [Thunder
 
  | The Fisherman casts a stream of lightning that pulls the opponent towards them.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ✴︎ Pull
+
  |
 | 
 
@@ -58,6 +71,11 @@ The Fisherman uses their enchanted [Halberd](Halberd.md) in addition to [Thunder
 (★☆☆)
 
  | The Fisherman strikes their opponent from above with lightning.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
 
  |
 | 
@@ -67,6 +85,10 @@ The Fisherman uses their enchanted [Halberd](Halberd.md) in addition to [Thunder
 
  | The Fisherman raises their leg and kicks their opponent with thunder.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -74,6 +96,10 @@ The Fisherman uses their enchanted [Halberd](Halberd.md) in addition to [Thunder
 (★★☆)
 
  | The Fisherman conjures five blades of thunder in front of them.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -85,6 +111,11 @@ The Fisherman uses their enchanted [Halberd](Halberd.md) in addition to [Thunder
 
 -   Chains even if blocked.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ¤ Debuff
+
  |
 | 
 
@@ -93,6 +124,11 @@ The Fisherman uses their enchanted [Halberd](Halberd.md) in addition to [Thunder
 
  | If the opponent is chained (via Restraint, or if they flourish you), detonate the opponent, dealing a high amount of damage.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
  |
 | 
 
@@ -100,6 +136,11 @@ The Fisherman uses their enchanted [Halberd](Halberd.md) in addition to [Thunder
 (★★★)
 
  | The Fisherman punches the ground, causing five surging waves of lightning to travel along the ground.
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Serena
-revid: 212252
+revid: 216104
 source: https://deepwoken.fandom.com/wiki/Serena
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, NPCs, Enemies, NPCs located in the Eastern Luminant, Quests]
@@ -40,6 +40,10 @@ Serena's arsenal consisted of a [Shotel](Shotel.md) along with the [Frostdraw](F
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -50,6 +54,10 @@ Serena's arsenal consisted of a [Shotel](Shotel.md) along with the [Frostdraw](F
 
 -   Has 100% chip damage.
 
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
  |
 | 
 
@@ -57,6 +65,10 @@ Serena's arsenal consisted of a [Shotel](Shotel.md) along with the [Frostdraw](F
 (★★☆)
 
  | User performs a wind-up before slamming an ice club into the ground.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 | 
@@ -66,6 +78,11 @@ Serena's arsenal consisted of a [Shotel](Shotel.md) along with the [Frostdraw](F
 
  | A flurry of ice spikes.
 
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ❆ Stun
+
  |
 | 
 
@@ -73,6 +90,10 @@ Serena's arsenal consisted of a [Shotel](Shotel.md) along with the [Frostdraw](F
 (★★☆)
 
  | Rains down shards of ice.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
 
  |
 
