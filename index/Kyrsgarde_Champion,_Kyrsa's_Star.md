@@ -1,6 +1,6 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 216223
+revid: 216464
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Individuals with He/him pronouns]
@@ -153,6 +153,7 @@ High posture
  | The Kyrsgarde Champion crouches slightly before jumping up and crashing into the ground.
 
 -   This attack deals damage as soon as The Champion's feet touch the ground.
+-   Can be parried with [Force Your Way](Talents.md) but will cost an immense amount of armor
 
 _Uses Telegraph_
 

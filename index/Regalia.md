@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 216021
+revid: 216465
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -8,13 +8,13 @@ categories: [Mechanics]
 
 # Regalia
 
-**Regalia** are passive abilities that positively affect progression or aid the player in some way. The only way to obtain them is random chance upon character creation, Most regalia are kept on the new character if the previous character with Regalia was wiped power 10 or below. (see below for which regalia is always lost upon wipe)
+**Regalia** are passive abilities that positively affect progression or aid the player in some way. The only way to obtain them is random chance upon character creation or when leveling up, Most regalia are kept on the new character if the previous character with Regalia was wiped power 10 or below. (see below for which regalia is always lost upon wipe)
 
 ## Obtainment
 
--   Regalia can be randomly obtained every time you create a character.
+-   Regalia can be randomly obtained every time you buy a new slot, wiping a slot above pwr 10, or randomly when powering up mid progression.
 -   Your odds of obtaining a Regalia increase the more progressed your previous character was (no specifics on how much it boosts it).
--   You may only have 1 Regalia per character, and your character acquiring a Regalia is not guaranteed.[\[1\]](#cite-note-archinfo-1)[\[2\]](#cite-note-2)
+-   You may only have 1 Regalia per character, obtaining a Regalia is extremely rare & not guaranteed.[\[1\]](#cite-note-archinfo-1)[\[2\]](#cite-note-2)
 
 ## List of Regalia
 
@@ -118,7 +118,12 @@ You are granted an additional [Resonance](Resonance.md) choice when rerolling or
 
 -   For almost the entirety of the game's lifespan, Mute was the only Regalia known to exist, until Arch\_Mage told the community about the others and the obtainment method.[\[1\]](#cite-note-archinfo-1)
 -   Regalia, as a definition, are the emblems or insignia of royalty, especially the crown, scepter, and other ornaments used at a coronation.
+
 -   Mute regalia used to work on Ministry Necromancers, Ministry Scouts And Immortal guardians but it was fixed. Despite being a bug, immortal guardians had unique dialogues upon knocking a player with mute regalia.
+
+-   You can obtain two regalias consecutively, such as having a Mute build wiping it & immediately obtaining Mute again at the start of your character on the same slot.
+
+-   You can have your regalia Change mid progression such as going from worthy regalia to Animal Queen mid prog.(this is unconfirmed but has been reported happening.)
 
 ## References
 

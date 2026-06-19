@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 214893
+revid: 216459
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Alloyable Weapons, Weapons with Unique Criticals, Medium Weapons, Weapons with Talents, Weapons of Etrea]
@@ -45,9 +45,9 @@ With the use of a [Pluripotent Alloy](Pluripotent_Alloy.md), Alloyed Vigil Longs
 
 Equipping the Vigil Longsword grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Sweeping Edge** increases the size of your [Master's Flourish](Attunement-less.md#masters-flourish) and allows it to proc "on-flourish" effects.
+**Sweeping Edge** increases the size of your [Master's Flourish](Attunement-less.md#masters-flourish) and allows it to proc "on-flourish" effects, such as Talents and Mantras.
 
-[Dazing Finisher](Talents.md#dazing-finisher) does not work with this.
+[Dazing Finisher](Talents.md#dazing-finisher) and [Unnecessary Theatrics](Talents.md#unnecessary-theatrics) do not work with this.
 
 ## Critical
 
@@ -59,5 +59,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   When Alloyed, it's basically a [Shattered Katana](Shattered_Katana.md), but it does more DMG in exchange for less PEN. The Alloyed Vigil Longsword, Weight, Swing Speed, and Range remain the same as the regular non-alloyed Vigil Longsword.
 -   Due to an inconsistency with the model and the weapons range, it was changed to increase the length of the blade.
