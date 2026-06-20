@@ -1,9 +1,11 @@
 ---
 title: The Vigils
-revid: 209898
+revid: 216558
 source: https://deepwoken.fandom.com/wiki/The_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Factions, Etrea]
+categories: [Pages requiring a cleanup, Factions, Etrea]
+notices:
+  - "This page, by declaration of the Inquisition, is of insufficient quality and requires a cleanup to better meet the Wiki's quality standards. Help improve this article by improving formatting, spelling and the general layout. Within this dark a blazing light!"
 ---
 
 # The Vigils
@@ -33,26 +35,6 @@ Not much is confirmed about their ranking system since most Vigils maintain a po
 -   Maestro, the leaders of the Vigils. There can only be one Maestro at a given time.
 
 After befriending Evengarde, he reveals his knowledge about the true nature of Etrea's government. His stance towards [The Ministry](The_Ministry.md) implies that the Vigils aren't held under the same sort of control that Etrean citizens and soldiers are.
-
-## Gameplay
-
--   Their base spans across a set of islands on [The Etrean Sea](The_Etrean_Sea.md), near to [Erisia](Erisia.md). Players may choose to spawn on the Isle of Vigils, where they will have been rescued by [Aristo](Aristo.md).
--   Their reputation is dependent upon the player's reputation with Etrea.
-
-## Reputation
-
--   Serves The Kingdom of Etrea
--   Enemies with The Ministry
--   Enemies with The Central Authority
-
-## Notable Members
-
--   [Evengarde Rest](Evengarde_Rest.md) (Maestro)
--   [Stratos](Stratos.md) (Second-in-command, Keeper)
--   [Isaac](Vigil_Isaac.md) (Swordsman)
--   [Kj](Apprentice_Kj.md) (Apprentice)
--   [Kelsius](Kelsius.md) (Librarian)
--   [Aristo](Aristo.md) (Initiate)
 
 ## Trivia
 

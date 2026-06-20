@@ -1,6 +1,6 @@
 ---
 title: Egg
-revid: 216297
+revid: 216574
 source: https://deepwoken.fandom.com/wiki/Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Harvestables, Food Ingredients]
@@ -66,10 +66,6 @@ Eggs are an ingredient commonly found atop high places. They can be gathered in 
 #### [Greathive Aratel](Greathive_Aratel.md)
 
 -   In the tree to the left of the Balcony entrance up the stairs from the blacksmith
-
-#### [Lightkeeper Temple](Lightkeeper_Temple.md)
-
--   Several Thresher eggs in nests scattered around the area.
 
 #### [Fort Merit](Fort_Merit.md)
 

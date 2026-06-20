@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 215800
+revid: 216561
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -379,7 +379,7 @@ Dialogue: [Nell](Nell,_Master_of_Frost.md) | Books: [Lumen's Folklore: Volume 'A
 
 -   The ability to manipulate air through the [Song](#the-song).
 
-Dialogue: [Friid](Friid,_Master_of_Gale.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>) | Glossary Entries:
+Dialogue: [Friid](Friid,_Master_of_Gale.md), [Stratos](Stratos.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>) | Glossary Entries:
 
 ### Hereditary Vow
 
@@ -496,7 +496,7 @@ Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Celes
 
 -   The ability to produce and manipulate electromagnetism through the [Song](#the-song).
 
-Dialogue: [Funke](Funke,_Master_of_Thunder.md), [Neero](Neero.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>) | Glossary Entries:
+Dialogue: [Funke](Funke,_Master_of_Thunder.md), [Kelsius](Kelsius.md), [Neero](Neero.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>) | Glossary Entries:
 
 ### Unspoken Vow
 
@@ -576,7 +576,7 @@ Dialogue: [Samael](Samael.md)
 -   Supposedly hailing from a mountainous region before the coming of the [Tides](#the-tides), the Adret people consisted of a smattering of tribes and kingdoms isolated by their rugged landscape. As the [Tides](#the-tides) rose, the rest of the world opened up to the Adret, allowing them to expand and subdue their neighbours, thus forming the [Adretian Empire](#the-adretian-empire). Over time, the Empire formed a coalition with multiple other nations, becoming the [Central Authority](#the-central-authority).
 -   Lending to their history, the Adret have a reputation as bureaucrats and government officials.
 
-Dialogue: [Artus](Artus.md), [Ishan](Ishan.md), [Yakob](Yakob.md) | Books: [The Gideshu March](The_Gideshu_March.md), [The Hammer's Call](<The_Hammer's_Call.md>), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Adret / Adretian](#adret--adretian), [The Adretian Empire](#the-adretian-empire), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
+Dialogue: [Artus](Artus.md), [Ishan](Ishan.md), [Karliah](Karliah.md), [Yakob](Yakob.md) | Books: [The Gideshu March](The_Gideshu_March.md), [The Hammer's Call](<The_Hammer's_Call.md>), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Adret / Adretian](#adret--adretian), [The Adretian Empire](#the-adretian-empire), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
 
 ### Canor
 

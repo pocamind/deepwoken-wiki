@@ -1,6 +1,6 @@
 ---
 title: Beeswax
-revid: 213778
+revid: 216575
 source: https://deepwoken.fandom.com/wiki/Beeswax
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Harvestables, Items]
@@ -29,7 +29,7 @@ Beeswax can be found hanging off of large trees in a few fixed spots, especially
 ### Used in
 
 -   A main competent to craft the [Canteen](Canteen.md).
--   Used to craft [Candle](Candle.md)'s
+-   Used to craft [Candle](Candle.md)
 
 ## Triva
 

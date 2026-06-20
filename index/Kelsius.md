@@ -1,6 +1,6 @@
 ---
 title: Kelsius
-revid: 204774
+revid: 216563
 source: https://deepwoken.fandom.com/wiki/Kelsius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, Central Authority defectors]
@@ -173,7 +173,7 @@ Kelsius is located inside the library at [Temple of the Blade](Temple_of_the_Bla
 </tr>
 <tr>
   <td>[See first instance]</td>
-  <td>Myself? What an interesting question to ask a librarian... <i>*Ahem.*</i> Well, before I came here to the Temple I was an officer in the <a href="Glossary.md#the-central-authority">Central Authority</a>. Specifically, I worked in the Shock Corps as a Thundercaller.</td>
+  <td>Myself? What an interesting question to ask a librarian... <i>*Ahem.*</i> Well, before I came here to the Temple I was an officer in the <a href="Glossary.md#the-central-authority">Central Authority</a>. Specifically, I worked in the Shock Corps as a <a href="Glossary.md#thundercall">Thundercaller</a>.</td>
 </tr>
 <tr>
   <td></td>

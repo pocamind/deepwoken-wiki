@@ -1,6 +1,6 @@
 ---
 title: Gumshoe Hat
-revid: 216467
+revid: 216567
 source: https://deepwoken.fandom.com/wiki/Gumshoe_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats]
@@ -29,4 +29,6 @@ categories: [Equipment with Styles, Equipment, Head, Hats]
 
 ## Description
 
-The Gumshoe Hat is an [Equipment](Equipment.md) item under the "Head" category. They can be found in chests from [Fort Merit](Fort_Merit.md).
+The Gumshoe Hat is an [Equipment](Equipment.md) item under the "Head" category.
+
+They can be found in chests from [Fort Merit](Fort_Merit.md).

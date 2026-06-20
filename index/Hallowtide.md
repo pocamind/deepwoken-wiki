@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 208414
+revid: 216556
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Events, Hallowtide]
@@ -88,12 +88,12 @@ Main article: [Joy](Joy.md)
 
 ### New Helmets
 
--   The Familiar Priest Helmet, Familiar Heretic Helmet, and Familiar Knight Helmet can be obtained by turning in 30, 35, and 50 "Joy" respectively. Four of the helmets are references to [Rogue Lineage](https://www.roblox.com/games/3016661674/Rogue-Lineage), Monad Studios' previous main game.
-    -   The Familiar Priest Helmet is an exact replica of the [Church Knight Helmet](https://rogue-lineage.fandom.com/wiki/Helmets) from Rogue Lineage.
-    -   The Familiar Heretic Helmet is an exact replica of the [Dark Sigil Knight (Wraith Knight) Helmet](https://rogue-lineage.fandom.com/wiki/Helmets) from Rogue Lineage.
-    -   The Familiar Knight Helmet is an exact replica of the [Sigil Helmet](https://rogue-lineage.fandom.com/wiki/Helmets) from Rogue Lineage.
+-   The [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>), [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>), and [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>) can be obtained by turning in 30, 35, and 50 "Joy" respectively. Four of the helmets are references to [Rogue Lineage](https://www.roblox.com/games/3016661674/Rogue-Lineage), Monad Studios' previous main game.
+    -   The [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>) is an exact replica of the [Church Knight Helmet](https://rogue-lineage.fandom.com/wiki/Helmets) from Rogue Lineage.
+    -   The [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>) is an exact replica of the [Dark Sigil Knight (Wraith Knight) Helmet](https://rogue-lineage.fandom.com/wiki/Helmets) from Rogue Lineage.
+    -   The [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>) is an exact replica of the [Sigil Helmet](https://rogue-lineage.fandom.com/wiki/Helmets) from Rogue Lineage.
     -   The Shroom helmets are a remodeled version of the [Scroom](https://rogue-lineage.fandom.com/wiki/Scroom) from Rogue Lineage.
-    -   The Pumpkin Head is a a replica of the heads on the [Gourdskippers](Pumpkin_Head.md).
+    -   The [Pumpkin Head](Pumpkin_Head.md) is a a replica of the heads on the [Gourdskippers](Pumpkin_Head.md).
 
 ### Aspect Variants
 

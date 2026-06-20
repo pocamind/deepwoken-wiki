@@ -1,6 +1,6 @@
 ---
 title: Prince of the Moon
-revid: 211369
+revid: 216551
 source: https://deepwoken.fandom.com/wiki/Prince_of_the_Moon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -592,8 +592,9 @@ Defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
 
 ## Trivia
 
--   The memento is based off of developer melonbeards spec character.[\[1\]](#cite-note-1)
+-   The memento is based on developer melonbeard's spec character.[\[1\]](#cite-note-1)[\[2\]](#cite-note-2)
 
 ## References
 
 1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2)

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 215804
+revid: 216542
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2657,12 +2657,12 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   **Disabled on players with Not a Scratch.**
     -   Prerequisite: Complete the Quest in the [Second Layer](Second_Layer.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
 
--   **[Murmur: Tacet](Murmur%253A_Tacet.md)** \[Common Talent, Unlockable Talent\] - An application of your Soul Murmur that enables the user to suppress their own murmur. Press T while crouched.
+-   **[Murmur: Tacet](Murmur%253A_Tacet.md)** \[Common Talent, Unlockable Talent\] - An application of your Soul Murmur that enables the user to suppress their own murmur. Press while crouched.
     -   On use, a sphere around your character will be created. This sphere is commonly referred to as the 'Tacet bubble'. To everyone outside of the bubble, you are invisible.
     -   Tacet bubble size scales inversely on your level and your [stealth](Stealth.md) stat, becoming smaller the higher your level and the more stealth you have.
     -   Being in Tacet grants 400 Stealth, making you effectively invisible to PvE enemies; sometimes even physically touching the NPC directly will not cause them to aggro. However, the unaggro range is still fairly large, even in Tacet, so you may need to run away before reactivating Tacet.
     -   Tacet will be **disabled** during [Hell Mode](Hell_Mode.md), [Diluvian](The_Diluvian_Mechanism.md), and [Depths Trials](Cathedral_of_the_Interstice.md).
-    -   After 3 seconds of not crouching, Tacet will deactivate. After 1.5s of sprinting, Tacet will deactivate. Attacking, being hit, or using [Soulbreaker's](Oath%253A_Soulbreaker.md) Formless will instantly deactivate Tacet.
+    -   After 1 second of not crouching, Tacet will deactivate. After ~0.5s of sprinting, Tacet will deactivate. Attacking, being hit, or using [Soulbreaker's](Oath%253A_Soulbreaker.md) Formless will instantly deactivate Tacet.
     -   Prerequisites: 10 Charisma and 5 [Cestis Bounties](Cestis.md) or 5 [Bounty Hunting Contracts](Bounty_Hunting.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
 
 ### Natural Armor

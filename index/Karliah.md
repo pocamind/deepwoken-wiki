@@ -1,6 +1,6 @@
 ---
 title: Karliah
-revid: 215448
+revid: 216536
 source: https://deepwoken.fandom.com/wiki/Karliah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, The Divers, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -48,7 +48,7 @@ NOTE: **This quest is not repeatable.** Choosing the dialogues that escort Karli
   <td colspan="24">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="24"><i>*You can see a young Adret woman packing supplies into a bag, too absorbed in her preparations to notice her surroundings.*</i></td>
+  <td colspan="24"><i>*You can see a young <a href="Glossary.md#adret">Adret</a> woman packing supplies into a bag, too absorbed in her preparations to notice her surroundings.*</i></td>
 </tr>
 <tr>
   <td colspan="24">Hello?</td>

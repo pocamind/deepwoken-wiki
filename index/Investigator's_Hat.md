@@ -1,6 +1,6 @@
 ---
 title: "Investigator's Hat"
-revid: 215992
+revid: 216541
 source: https://deepwoken.fandom.com/wiki/Investigator's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -23,7 +23,7 @@ categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talent
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Sea Events, Duke Ishamon Erisia |
-| description | ... |
+| description | "Well, I'd rather not be always working, but with crime, you don't make your own hours. However, no matter where I go, the show is always the same... Dead body. Stage left." |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Deepbound
-revid: 213865
+revid: 216571
 source: https://deepwoken.fandom.com/wiki/Deepbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Divers, Origins, Character]
@@ -92,8 +92,7 @@ Your starting faction [reputation](Reputation.md) is:
 -   The Deepbound Origin was originally a Flaw, added before Origins even existed, however this was changed into an Origin during the 8/22/2022 update.
 -   Deepbound is obtained only after talking to Akira about joining The Divers; you don't have to accept the request to join the Guild in order to obtain Deepbound. This misconception led to a handful of players leaving/disbanding their guilds.
     -   There was a bug in which joining The Divers as an Officer or Leader of your own guild would make you one in the Divers guild.
--   Both [Voidwalker](Voidwalker.md) and Deepbound were suggested by user MrTheBest2, who was later made a tester for a period of time.[\[1\]](#cite-note-1)
--   ~Currently, even if you pick to spawn at [Castle Light](Castle_Light.md) or [the Diluvian Mechanism](The_Diluvian_Mechanism.md), it will spawn you at [The City of the Drowned](The_City_of_the_Drowned.md).~ (You now spawn in castle light/del. mechanism)
+-   Both [Voidwalker](Voidwalker.md) and Deepbound were suggested by user MrTheBest2, who was later made a tester.[\[1\]](#cite-note-1)
 
 ## References
 

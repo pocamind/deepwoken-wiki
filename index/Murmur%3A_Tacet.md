@@ -1,6 +1,6 @@
 ---
 title: "Murmur: Tacet"
-revid: 199675
+revid: 216543
 source: https://deepwoken.fandom.com/wiki/Murmur%3A_Tacet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Murmurs]
@@ -23,7 +23,7 @@ categories: [Murmurs]
 
 The only actions a user can perform during Tacet are crouch walking, rolling, vaulting over small obstacles, falling down ledges, and holding items. Uncrouching, attacking, being hit, or interacting with the world will deactivate Tacet.
 
-You will also have a small window of 3 seconds (1.5s if you run) in which you can stand without losing Tacet, this allows you to move more agilely, climb walls and do parkour in general.
+You will also have a very small window of 1 second (~0.5s if you run) in which you can stand without losing Tacet, this allows you to move more agilely, climb walls and do parkour in general.
 
 The detection range of the invisibility scales inversely on the player's Power and [Stealth](Stealth.md) stat: the higher Power and Stealth, the closer entities need to be to spot the user. The detection range (for PVP) is indicated by a ring around the user.
 

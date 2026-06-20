@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 215714
+revid: 216566
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pages with broken file links, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -107,7 +107,7 @@ Stratos can be found meditating in front of a fountain at the [Temple of the Bla
 </tr>
 <tr>
   <td colspan="6">Yes, my disciple, please take this gift. I hope that it shall guide you on your journeys as you have been guided to me.</td>
-  <td colspan="6">(Galebreathe not unlocked) Hm... You understand the wind but you do not make use of it... Perhaps return once you learn the way of a Galebreather.</td>
+  <td colspan="6">(Galebreathe not unlocked) Hm... You understand the wind but you do not make use of it... Perhaps return once you learn the way of a <a href="Glossary.md#galebreathe">Galebreather</a>.</td>
 </tr>
 <tr>
   <td colspan="6">[End Dialogue], Quest completed</td>

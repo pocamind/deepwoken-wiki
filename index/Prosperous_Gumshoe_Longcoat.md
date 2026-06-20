@@ -1,6 +1,6 @@
 ---
 title: Prosperous Gumshoe Longcoat
-revid: 215844
+revid: 216548
 source: https://deepwoken.fandom.com/wiki/Prosperous_Gumshoe_Longcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Coats, Equipment with Talents, Equipment with Exclusive Talents]

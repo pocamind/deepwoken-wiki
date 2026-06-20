@@ -1,9 +1,9 @@
 ---
 title: Mudskipper Brute
-revid: 216206
+revid: 216532
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Monsters]
+categories: [Monsters]
 ---
 
 # Mudskipper Brute
@@ -38,8 +38,6 @@ The Mudskipper Brute (commonly known as Bruteskipper) is a mutated version of th
 
  | 
 
-File:Mudskipper Brute Punch1.gif
-
  |
 | 
 
@@ -53,8 +51,6 @@ File:Mudskipper Brute Punch1.gif
 -   § Dodgeable
 
  | 
-
-File:Mudskipper Brute Punch2.gif
 
  |
 | 
@@ -76,8 +72,6 @@ Dodge
 -   ⤻ Ragdoll
 
  | 
-
-File:Mudskipper Brute Thrust.gif
 
  |
 | 
@@ -104,8 +98,6 @@ Dodge
 
  | 
 
-File:Mudskipper Brute Slamdown.gif
-
  |
 | 
 
@@ -121,8 +113,6 @@ File:Mudskipper Brute Slamdown.gif
 -   § Dodgeable
 
  | 
-
-File:Mudskipper Brute Roar.gif
 
  |
 

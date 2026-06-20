@@ -1,6 +1,6 @@
 ---
 title: Watcher
-revid: 216028
+revid: 216539
 source: https://deepwoken.fandom.com/wiki/Watcher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -133,7 +133,7 @@ This dialogue is exclusive to the Watchers at [The Temple of the Forgotten Flame
 </tr>
 <tr>
   <td colspan="2">A PLAYTHING, PERHAPS? THE LORDLING HAS SERVED OUR ENDS WELL, EVEN IF HE DID NOT BECOME A THRALL AS YOU DID.</td>
-  <td colspan="2">THE THINNING PLAYS TRICKS EVEN ON THE AWARE. WE DID NOT FORESEE THAT THIS SPIT OF LAND WOULD DRIFT SO. IT HAS BEEN AN AMUSING DETOUR.</td>
+  <td colspan="2">A GLIMPSE WAS ALL WE GOT. THE THINNING PLAYS TRICKS EVEN ON THE AWARE. WE DID NOT FORESEE THAT THIS SPIT OF LAND WOULD DRIFT SO. IT HAS BEEN AN AMUSING DETOUR.</td>
 </tr>
 <tr>
   <td colspan="4">[End Dialogue]</td>

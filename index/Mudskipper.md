@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 216040
+revid: 216544
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Humanoid Monsters]
@@ -26,6 +26,10 @@ _This might have not been the page you were looking for, if you were looking for
 There are a few types and variants of **Mudskippers**. Where more can be found in the [Mudskipper (disambiguation)](<Mudskipper_(disambiguation).md>) page, this page covers two variants of Mudskippers.
 
 ## Description
+
+The Mudskippers are a large category with lots of variations made up of mindless enemies formed from the bodies of the decayed, or by the forceful conversion from a [Nautilodaunt](Nautilodaunt.md). Their notable feature aside from their bright unusual colours, are their empty eyes and the large mass of coral on their head that covers one of their eyes. They all used to be human at some point or another, but their corpses are now piloted by a parasite.
+
+They are mostly in complete lack of intellect with a [few exceptions](Mudskipper_Knight.md), leaving them only able to scratch their enemy with no sense of basic combat knowledge, making them entirely defenseless if fought back. However, they seem to still have some sense of intellect, as they will only attack you one at a time, and will tend to swap out if there are multiple.
 
 While weak on their own, these earlygame enemies can be a threat when they attack alongside other enemies. Mudskippers are notorious for their high hitstun attacks that can easily stunlock unexperienced players to death.
 
@@ -125,13 +129,7 @@ Miniskippers are exclusively spawned from [Mudskipper Brutes](Mudskipper_Brute.m
     -   If there are more than one Enhanced Mudskippers, they will often spam this Mantra. Hold block when you feel that they are going to do this.
 -   Bloated Mudskippers will explode after being gripped, so take care to move away if anyone is low.
     -   This will also instantly execute any knocked enemies nearby, including you or your allies.
--   When fighting a [Mudskipper Brute](Mudskipper_Brute.md) or [Broodlord](Mudskipper_Broodlord.md), it is imperative that you take out their summons as quickly as possible, as they can and will interrupt your fight, and if not killed in-time, the brute/broodlord could stop you from getting a healthpack
-
-## Lore
-
-The Mudskippers are a large category with lots of variations made up of mindless enemies formed from the bodies of the decayed, or by the forceful conversion from a [Nautilodaunt](Nautilodaunt.md). Their notable feature aside from their bright unusual colours, are their empty eyes and the large mass of coral on their head that covers one of their eyes. They all used to be human at some point or another, but their corpses are now piloted by a parasite.
-
-They are mostly in complete lack of intellect with a [few exceptions](Mudskipper_Knight.md), leaving them only able to scratch their enemy with no sense of basic combat knowledge, making them entirely defenseless if fought back. However, they seem to still have some sense of intellect, as they will only attack you one at a time, and will tend to swap out if there are multiple.
+-   When fighting a [Mudskipper Brute](Mudskipper_Brute.md) or [Broodlord](Mudskipper_Broodlord.md), it is imperative that you take out their summons as quickly as possible, as they can and will interrupt your fight, and if not killed in-time, the brute/broodlord could stop you from getting a healthpack.
 
 ## Trivia
 
