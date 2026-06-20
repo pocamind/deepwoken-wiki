@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 214317
+revid: 216516
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -953,6 +953,9 @@ N/A
 -   The distance teleported will be reduced if you aren't moving when you cast the Mantra.
 -   For ~2.5s after teleporting, all fall damage is negated.
 -   Shares a cooldown with [Flame Leap](Flamecharm.md#flame-leap) and [Strong Leap](Attunement-less.md#strong-leap).
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to chain multiple dashes in a row. The amount of dashes you gain per cast is dictated by the level of your Neural Pathway; e.g. 2 dashes at level 2, 3 at level 3 and so on.
+    -   At level 3 onward, you can press M2 to end the Mantra early.
+    -   This spark increases the Mantra's cooldown by 30 seconds.
 
  |
 | 

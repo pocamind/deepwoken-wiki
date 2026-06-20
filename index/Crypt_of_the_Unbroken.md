@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 213402
+revid: 216518
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant, Voidzones]
@@ -96,7 +96,7 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 -   Good place to farm books, the library has tons of bookshelves.
 -   Characters with the Mute [Regalia](Regalia.md) are instead spared and insulted when knocked by [Immortal Guardians](Immortal_Guardian.md), similar to various town guards.
 -   If you are inexperienced with farming this dungeon, you can simply lure the [Immortal Guardians](Immortal_Guardian.md) out of the dungeon to avoid going to The Depths because it is a Voidzone.
--   Please note that the crypt entrance can be blocked and it cannot be broken to fix this just server hop.
+-   Please note that the crypt entrance can be blocked and it cannot be broken, it will open after the server time has reached 15 minutes.
     -   If you however want to access the blocked entrance follow these steps:
         1.  Get two heavy weapons in your hotbar (unequipped)
         2.  Sprint to the entrance

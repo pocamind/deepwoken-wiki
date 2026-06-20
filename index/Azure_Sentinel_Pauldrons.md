@@ -1,6 +1,6 @@
 ---
 title: Azure Sentinel Pauldrons
-revid: 214954
+revid: 216510
 source: https://deepwoken.fandom.com/wiki/Azure_Sentinel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Duke Erisia |
+| obtainment | Chests from:, Duke Erisia, Lower Erisia |
 | description | ... |
 
 ## Description
