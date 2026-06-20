@@ -1,9 +1,9 @@
 ---
 title: The Guy
-revid: 211023
+revid: 216589
 source: https://deepwoken.fandom.com/wiki/The_Guy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, The Summer Company, Quests, NPCs located in the Eastern Luminant, Voiced Characters]
+categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Pages with broken file links, NPCs, The Summer Company, Quests, NPCs located in the Eastern Luminant, Voiced Characters]
 ---
 
 # The Guy
@@ -29,6 +29,10 @@ This content is not accessible outside of this gamemode.
 The Guy, simply The Guy, is a Canor that works for [The Summer Company](The_Summer_Company.md). He is the assumed leader of a team composed by [Mercille](Mercille.md), [Prentis](Prentis.md) and [Sierra](Sierra.md), running a mission to get some resources for the Company.
 
 ## Location
+
+File:Detailed location.png
+
+Location of the mini-fortress, where The Guy is located (updated map)
 
 The Guy is located in [Bluster Rift](Bluster_Rift.md), standing by a tent inside a little fort built infront of [Meteor Isle](Meteor_Isle.md)
 
