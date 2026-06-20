@@ -1,6 +1,6 @@
 ---
 title: "Investigator's Hat"
-revid: 216541
+revid: 216583
 source: https://deepwoken.fandom.com/wiki/Investigator's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -32,3 +32,5 @@ The Investigator's Hat is an [Equipment](Equipment.md) item under the "Head" cat
 ## Trivia
 
 -   Worn by [Kennith](Kennith.md).
+-   The description is a line spoken by [Dick Gumshoe](https://aceattorney.fandom.com/wiki/Dick_Gumshoe) during the infamous [Turnabout Big Top](https://aceattorney.fandom.com/wiki/Turnabout_Big_Top), the reviled third case in _[Phoenix Wright: Ace Attorney – Justice for All](https://en.wikipedia.org/wiki/Phoenix_Wright:_Ace_Attorney_%E2%80%93_Justice_for_All)_.
+    -   Dick Gumshoe does not wear a hat.

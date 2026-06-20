@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 216445
+revid: 216584
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters, Bosses, Layer 2, Floor 2, The Depths]
@@ -27,7 +27,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Scion of Ethiron is a boss encountered within his bedchamber at the end of the [second floor](Second_Layer/New_Kyrsa.md) of the [Eternal Gale](Second_Layer.md). It's treated as a "final boss" to the game, allowing the access of endgame content such as [Kyrsan Medallions](Kyrsan_Medallions.md) among other things. It is tied to [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), acting as his puppet and avatar, with sealing it also sealing him temporarily, as described by [Naerotiv](Naerotiv.md). After being awoken by your disturbance, it takes the form of a skeletal monster made up of bones and feathers, with it's head being distinctively tetrahedron shaped, with a color scheme of purple-pinks and yellow fiber protruding from each corner. It also completely **empties your lighthook** to 0 minutes if any time was remaining.
+The Scion of Ethiron is a boss encountered at the end of the [second floor](Second_Layer/New_Kyrsa.md) of the [Eternal Gale](Second_Layer.md). It's treated as a "final boss" to the game, allowing the access of endgame content such as [Kyrsan Medallions](Kyrsan_Medallions.md) among other things. It is tied to [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), acting as his puppet and avatar, with sealing it also sealing him temporarily, as described by [Naerotiv](Naerotiv.md). After being awoken by your disturbance, it takes the form of a skeletal monster made up of bones and feathers, with it's head being distinctively tetrahedron shaped, with a color scheme of purple-pinks and yellow fiber protruding from each corner. It also completely **empties your lighthook** to 0 minutes if any time was remaining.
 
 It uses a variety of attacks to defeat you, notably summoning bones and directing them at either the player or the ground. In addition, it has the abilities of [Galebreathe](Galebreathe.md), able to fire a large laser, blind you, or fire a devastating death sphere at the player, obliterating any hit by it. Do note it is **heavily resistant** to [Vampirism](Enchantments.md) and [Bloodless Gems](Deep_Gems.md).
 

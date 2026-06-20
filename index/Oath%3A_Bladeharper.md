@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 214585
+revid: 216585
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Bladeharper** is one of the 17 obtainable Oaths in _Deepwoken_. It's known for the user's ability to gain extreme proficiency with its slash-based attacks, and the ability to massively buff its offensive means by landing consecutive hits or sacrificing health.
+**[Oath](Oaths.md): Bladeharper** is one of the 17 obtainable Oaths in _Deepwoken_. It's known for the user's ability to gain extreme proficiency with its slash-based attacks, and the ability to massively buff its offensive means by landing consecutive hits or through sacrificing health.
 
 “ Within your mind, many futures present themselves before you. Only your own must stand supreme. ”
 
@@ -31,10 +31,10 @@ The Bladeharper Oath is a result of the player conducting a **Reflection Ritual*
 
 1.  The Oath requires 25 AGL or STR, plus either 75 points in Medium Weapon or a total of 90 points spread across any Weapon stats. The weapon equipped by a player must also not be [Fists](Fists.md), else the interaction will not start the Oath quest.
 2.  Interact with one of the numerous [Sky Statues](Sky_Statue.md) located throughout both Luminants. This will transport you to Blade Within.
-3.  Defeat Mind's Reflection (a 1:1 copy of yourself, including weapon, Talents and mantras) to obtain the Oath.
-    1.  It will use all mantras you have, not just the ones you have equipped and also Bladeharper mantras you haven't unlocked(Ex, at the first he can use palmstrike and at the last he can use decimate). It's best to get rid of unwanted mantras via [Deep Shrines](Deep_Shrines.md) if you're not ready.
-    2.  It seems to not have the same mantra modifiers that you may have. For example: Frostdraw's Warden Blades can become bigger using stratus stones but the mirror will have the original size and possibly the original level (not tested).
-    3.  The mirror starts out with 1 life in the first encounter, increasing by 1 for each encounter (1 + 2 + 3). When the mirror loses a life and still has lives, it vents then teleports back within the center of the Blade Within to return to neutral. This makes 6 in total to obtain and fully progress the oath. **NOTE:** Losing to your Bladeharper NPC _DOES_ result in losing a life.
+3.  Defeat Mind's Reflection (a 1:1 copy of yourself, which has your currently equipped weapon, Talents and Mantras) to obtain the Oath.
+    1.  It will use all Mantras you have, not just the ones you have equipped, and also Bladeharper Mantras that you haven't unlocked (e.g. On the first statue, the mirror can use Palm Strike and at the last statue the mirror can use Decimate). It's best to get rid of unwanted Mantras via [Deep Shrines](Deep_Shrines.md) if you're not ready.
+    2.  It seems to not have the same Mantra modifiers that you may have. For example: Frostdraw's Warden Blades can become bigger using stratus stones but the mirror will have the original size and possibly the original level (not tested).
+    3.  The mirror starts out with 1 life in the first encounter, increasing by 1 for each encounter (1 + 2 + 3). When the mirror loses a life and still has lives, it vents then teleports back within the center of the Blade Within to return to neutral. This makes 6 in total to obtain and fully progress the oath. **NOTE:** Losing to your Bladeharper mirror _**DOES**_ result in losing a life.
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/2MkMAHH03x4)._
 
@@ -42,11 +42,11 @@ _Bladeharper **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oat
 
 ## Progression
 
-The Oath can be progressed through interaction with the different other [Sky Statues](Sky_Statue.md) and defeating Mind's Reflection again with each, up to three times, granting the player up to 2 mantras and corresponding Talents.
+The Oath can be progressed through interaction with the different other [Sky Statues](Sky_Statue.md) and defeating Mind's Reflection again with each, up to three times, granting the player up to 2 Mantras and corresponding Talents.
 
--   Obtaining the Oath grants Lithe Step and Palm Strike.
--   The second Sky Statue yields Soaring Storm and Untouchable.
--   The final Sky statue will give Reveal, Float Like A Butterfly, and Decimate.
+-   Obtaining the Oath grants the Talent Lithe Step and Mantra Palm Strike.
+-   The second Sky Statue grants the Talents Soaring Storm and Untouchable.
+-   The final Sky statue will grants Reveal, Float Like A Butterfly, and Decimate.
 
 ## Effects
 
@@ -58,7 +58,7 @@ Upon obtaining this Oath, two snake bracelets will wrap around your arms.
 
 -   **True Strength**
     -   By proccing Untouchable or Reveal, enter the True Strength state.
-        -   If procced from Untouchable, it lasts 15 seconds. If procced from Reveal, the set duration is removed, but you passively [Wither](Status_Effects.md#wither) your own health bar instead (lowers your maximum HP).
+        -   If procced from Untouchable, it lasts 15 seconds. If procced from Reveal, the set duration is removed, but you passively [Wither](Status_Effects.md#wither) your own health bar instead ([Wither](Status_Effects.md#wither) lowers your maximum HP).
     -   Lowers Lithe Step's cooldown from 3s to 1s.
     -   Grants access to Float like a Butterfly.
     -   Removes the proc condition on Soaring Storm and increases its damage.
@@ -71,28 +71,28 @@ Upon obtaining this Oath, two snake bracelets will wrap around your arms.
     -   Makes the player briefly invisible, similar to [Rush of Ancients](Oath%253A_Jetstriker.md#rush-of-ancients).
     -   Lithe Step will not provide immunity frames to your dodge, but grants a noticeable speed boost during it.
     -   Lithe Step has a 3 second cooldown. This cooldown is reduced to 1 second while in True Strength.
--   Obtainment: Obtained along with the Oath, after the first Mind Reflection fight.
+-   Obtainment: Obtained along with the Oath, after beating the first Mind Reflection fight.
 
 -   **Soaring Storm** - Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an Oath ability.
     -   Deals a total of 24 Oath & Slash damage (hits 6 times with each hit dealing 4 damage).
     -   Proc condition is removed and damage is increased if in True Strength.
     -   Deals 6.5 Oath & Slash damage per tick in True Strength, dealing 39 damage total.
-    -   Applies to all forms of uppercuts, including Mantras such as [Rising Flame](Flamecharm.md#rising-flame), Round Spark [Skyshatter Kick](Attunement-less.md#skyshatter-kick), or certain weapon criticals such as the [Wraithclaw](Wraithclaw.md).
-    -   Obtainment: Obtained after the second Mind Reflection fight.
+    -   Applies to all forms of uppercuts, including Mantras such as [Rising Flame](Flamecharm.md#rising-flame), Round Spark [Skyshatter Kick](Attunement-less.md#skyshatter-kick), or certain weapon criticals such as the aerial variant of the [Wraithclaw](Wraithclaw.md) critical.
+    -   Obtainment: Obtained after beating the second Mind Reflection fight.
 
 -   **Untouchable** - By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration.
-    -   Upon proccing Untouchable, enter the True Strength state for 15 seconds where your uppercuts, air attack, and Oath mantras are empowered.
+    -   Upon proccing Untouchable, enter the True Strength state for 15 seconds where your uppercuts, air attack, and Oath Mantras are empowered.
     -   To proc the Talent you must build up 10 Untouchable stacks by landing your attacks.
-        -   Weapon attacks build up 2 stacks each, resulting in 5 hits for Untouchable to proc. You gain stacks for every hit on a multihitting critical, allowing you to instantly enter True Strength with some weapon criticals.
+        -   Weapon attacks build up 2 stacks each, resulting in 5 hits for Untouchable to proc. You will still gain 2 stacks for every hit even on a multihitting critical, allowing you to instantly enter True Strength with some weapon criticals.
         -   Non weapon attacks (like Burn, Mantras, Eruptions, etc.) build up 1 stack each. Bleed does not build up stacks however.
--   Obtainment: Obtained after the second Mind Reflection fight along with Soaring Storm.
+-   Obtainment: Obtained after beating the second Mind Reflection fight along with Soaring Storm.
 
 -   **Float Like a Butterfly** - While having True Strength active, cancel your air dash to enter a frenzy of slashes.
     -   It has a cooldown of 5 seconds.
     -   Deals a total of 28 Oath & Slash damage (hits 4 times with each hit dealing 7 damage).
     -   Only accessible when True Strength is active.
     -   It is movestackeable with any Mantra that can be casted mid-air.
-    -   Obtainment: Obtained after the third and final Mind Reflection fight.
+    -   Obtainment: Obtained after the beating third Mind Reflection fight.
 
 -   **Reveal** - Pour your heart out, and reveal your true strength.
     -   Toggle On and Off the True Strength state.
@@ -100,7 +100,7 @@ Upon obtaining this Oath, two snake bracelets will wrap around your arms.
     -   If you go below 10% HP, Reveal will automatically turn off.
     -   This takes about **2.5 SECONDS TO ACTIVATE**. Use it wisely, or not at all.
     -   Oddly enough, this procs things that require you to take damage like [Agitating Spark](Talents.md#agitating-spark) and [Prediction](Attunement-less.md#prediction) despite Reveal not actually dealing damage. Your current HP does not need to get replaced with Wither for this to take effect, and other sources of Wither application/True Strength do not do this.
--   Obtainment: Obtained after the final Mind Reflection fight along with Float Like a Butterfly
+-   Obtainment: Obtained after beating the third Mind Reflection fight along with Float Like a Butterfly
 
 ### Mantras
 
@@ -219,17 +219,21 @@ Defeat the final Mind Reflection
 
 Note: Attacks with multiple damage typings will be resisted by whatever resistance is higher (e.g. if you had 35% Blunt resistance and 30% Wind resistance, you'd resist 35% of Rising Wind's damage). In this case, all of Bladeharper's attacks deal Oath and Physical damage. This means they will be resisted by your Physical resistance unless you're using [Oathless](Oath%253A_Oathless.md) and you have less than 20% Physical resistance.
 
+Note: Attacks with multiple damage typings will be resisted by whatever resistance is higher (e.g. if you had 35% Blunt resistance and 30% Wind resistance, you'd resist 35% of Rising Wind's damage). In this case, all of Bladeharper's attacks deal Oath and Physical damage. This means they will be resisted by your Physical resistance unless you're using [Oathless](Oath%253A_Oathless.md) and you have less than 20% Physical resistance.
+
 ## Strategy
 
-The mirror is an NPC and so it does not come up with tactics and plans before the fight, it simply uses abilities periodically and swings its sword.
+The mirror is an NPC, and so it does not come up with tactics and plans before the fight, it simply uses abilities such as mantras periodically, and uses its weapon through light attacks and criticals.
 
-It is recommended to have mantras for this fight and a high Attunement level as it allows you to use your mantras more often than it will, but do not spam, as it can parry or dodge some moves. Stay calm and use your Ether wisely in order to overwhelm the mirror. If you have played the game for a while, then it should take probably a little longer to have the mirror killed.
+It is recommended to have Mantras for this fight and a high Attunement level, (If you have chosen an Attunement), as it allows you to use your Mantras more often than it will, but try not to spam, as it can parry or dodge some moves. Stay calm and use your Ether wisely in order to overwhelm the mirror.
 
-When fighting the mirror keep in mind that it has all of your Talents and such, but there are times when it can do something that you haven't seen before. The mirror gains the next progression of the Oath whilst fighting it; For example on the second fight they will possess only Soaring Storm and Untouchable when fighting so plan accordingly.
+When fighting the mirror keep in mind that it has all of your Talents and such, but there are times when it can do something that you haven't seen before. The mirror gains the next progression of the Oath whilst fighting it; For example, on the second fight they will possess only Soaring Storm and Untouchable when fighting, so plan accordingly.
 
-The mirror parries quite often along with dodging your moves at times, but it does not vent unless it loses a life. It also has a tendency to stay just outside of your range (and in turn you will stay just outside of your mirror's), so use this opportunity to hit it with mantras, another way to abuse this is by staying away, taking that time to heal and get back into fighting.
+The mirror parries quite often along with dodging your moves at times, but it does not vent unless it loses a life. It also has a tendency to stay just outside of your range (and in turn you will stay just outside of your mirror's), so use this opportunity to hit it with Mantras. Note that the mirror can run just as fast as you, even outrunning you if your health is low enough, so think twice before creating distance.
 
-If you still have difficulty fighting it then try switching to a weaker weapon, though this is not recommended as this can slow down your ability to kill the mirror and causes you to rely mostly on your mantras. But on the other hand, this causes the mirror to also be weaker as it also deals less damage but if you are hit too much then it is just better for you to distance yourself and wait for the mirror to make a mistake and fight back.
+If you still have difficulty fighting it then try switching to a weaker weapon, though this is not recommended as this can slow down your ability to kill the mirror and causes you to rely mostly on your Mantras. But on the other hand, this causes the mirror to also be weaker as it also deals less damage, however, if you are hit too much then it is better for you to distance yourself and wait for the mirror to make a mistake and fight back.
+
+Due to some humanoid AI changes, the mirror can _**block**_ _and **parry**_ during moves such as weapon criticals, Mantras, uppercuts and M1's. In order to combat this, do not try to interrupt the move with non-guardbreaking/grounding moves (e.g. M1's and some mantras and criticals), as it will be able to punish _you_ instead of _you_ punishing _it_.
 
 Finally the most important piece of advice, stay calm, as you would with any and every enemy in the game. Good luck in your fights.
 
@@ -245,9 +249,10 @@ Finally the most important piece of advice, stay calm, as you would with any and
     -   When asked about this, Melonbeard said "No Sukuna build"
         -   Ironically, in Jujutsu Kaisen, Sukuna used to wield a trident spear during the Heian Era, meaning a Sukuna build would've still been possible even with this restriction
     -   As a carryover from this, you still cannot enter the [Blade Within](The_Blade_Within.md) while wielding a fist weapon. With that being said, the Oath and all of its abilities function like normal with this weapon type.
--   Strangely, the mirror self can use [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick) even if you don't have the Mantra or the Murmur, but they won't use weapon Mantras.
--   The mirror self's moveset doesn't change if you die and go back to fight it again. Additionally it seems to reuse the AI from [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
--   When [Poser's Ring](<Poser's_Ring.md>) is used the clone will behave as if it doesn't have the ring.
+-   Strangely, the mirror can use [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick) even if you don't have the Mantra or the Murmur, but they won't use weapon Mantras.
+-   The mirror's moveset doesn't change if you die and go back to fight it again. Additionally it seems to reuse the AI from [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
+-   When [Poser's Ring](<Poser's_Ring.md>) is used, the clone will behave as if it doesn't have the ring.
+    -   This is because the mirror is unable to sheathe/unsheathe its weapon, and if Poser's Ring did work, the mirror would be incapable of dealing damage through light attacks and criticals.
 
 ## Navigation
 
