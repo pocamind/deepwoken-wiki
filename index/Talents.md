@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 216676
+revid: 216706
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4508,8 +4508,8 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 
 -   Already Dead: [Deepscorn Casque](Deepscorn_Casque.md) - You take reduced damage from abilities with a health cost.
     -   Removes the self damage from [Deepspindle's](Deepspindle.md) running critical.
-    -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), Flame Within (on cast, NOT the burn ticks), Rush Hour, Shadow Travel, and Electrify.
-        -   When paired with the [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) Talent, Circuit Breaker, using Electrify will cause you to heal instead of taking damage.
+    -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), [Flame Within](#flame-within) (on cast, NOT the burn ticks), [Rush Hour](#rush-hour), [Shadow Travel](#shadow-travel), and [Electrify](#electrify).
+        -   When paired with the [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) Talent, [Circuit Breaker](#circuit-breaker), using [Electrify](#electrify) will cause you to heal 12 health instead of taking damage.
     -   Lowers self damage from the Poison (HP drain) Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~1%.
     -   Lowers the Wither application from the Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~2%.
 
@@ -4604,7 +4604,9 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Whirling Blade heals you for 25% of damage dealt.
 
 -   Dancing Steps of War - When landing a flourish, gain a speed boost and massively reduce the cooldown of your dodges for 2 seconds.
-    -   The duration of this effect can be increased by proccing [Etrean Sashimono](Etrean_Sashimono.md)'s Talent, [Traditional Execution](#traditional-execution).
+    -   Provides a 35% [Speed Boost](Status_Effects.md#speed-boost).
+    -   Reduces your dodge cooldown to 0.5s while active. This affects both dodge types.
+    -   The duration of this effect can be increased by 0.5s by proccing [Etrean Sashimono](Etrean_Sashimono.md)'s Talent, [Traditional Execution](#traditional-execution).
 
 -   Demon Step: [Familiar Demon's Armor](<Familiar_Demon's_Armor.md>) - Activate to gain brief iframes while moving forward. This requires 50 ether to activate and increases your posture by 20% each use.
     -   On use, lose 50 Ether to travel a short distance forwards in iframes. Additionally, 20% of your current posture will be dealt to you as self-posture damage.
@@ -4907,6 +4909,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Reduces the damage taken from [Acid Rain](Environmental_Hazards.md).
 
 -   Swift Blade: [Blademaster's Robe](<Blademaster's_Robe.md>) - Proccing [Wind Gem](Wind_Gem.md) now gives you 10% more light attack posture during its duration. Extend the duration of [Wind Gems](Wind_Gem.md) by 2 seconds.
+    -   The posture damage buff also applies to critical attacis with the M1 tag.
 
 -   Tempest Evolution: [Tempestmaker's Threads](<Tempestmaker's_Threads.md>) - Your slide-jumped [Wind Blades](Galebreathe.md#wind-blade) are naturally stronger and if landed grant +20% damage in the air for a few seconds.
     -   Grants a 20% damage buff to your slide-jump [Wind Blade](Galebreathe.md#wind-blade). Also increases its range.
@@ -5027,6 +5030,8 @@ Certain Talents are given when you equip a full equipment set, though not all eq
     -   Reinforced War Set: [Reinforced War Helmet](Reinforced_War_Helmet.md), [Reinforced War Plate](Reinforced_War_Plate.md), [Reinforced War Boots](Reinforced_War_Boots.md)
 
 -   Momentum: Blademaster Set - Speed boosts now give you a bit of extra chip based on how fast the speed boosts are making you.
+    -   The Speed Boost -> Chip Damage conversion is 10:1. For example, having the [Wind Gem](Wind_Gem.md)'s 40% speed boost active will provide +4% Chip Damage.
+    -   Chip Damage cannot receive any PEN, and does not benefit from most damage modifiers.
     -   Blademaster Set: [Blademaster's Robe](<Blademaster's_Robe.md>), [Geta](Geta.md)
 
 -   Offensive Recovery: Ascended Outlaw Set - If all your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] have [Might Gems](Might_Gem.md) equipped, lose posture any time you hit opponents block with a mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\].

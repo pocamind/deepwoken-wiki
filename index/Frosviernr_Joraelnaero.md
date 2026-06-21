@@ -1,6 +1,6 @@
 ---
 title: Frosviernr Joraelnaero
-revid: 216697
+revid: 216724
 source: https://deepwoken.fandom.com/wiki/Frosviernr_Joraelnaero
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Kyrsan NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, Quests, NPCs located in the Second Floor of the Second Layer]
@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Frosviernr is an NPC found in [second floor](Second_Layer/New_Kyrsa.md) of the [Second Layer](Second_Layer.md), in an alleyway behind a building following the right side of the city during the escape sequence. He made and wields the [Kyrswynter](Kyrswynter.md).
+Frosviernr is a [Kyrsan](Kyrsgarde.md) NPC found in [second floor](Second_Layer/New_Kyrsa.md) of the [Second Layer](Second_Layer.md), in an alleyway behind a building following the right side of the city during the escape sequence. He made and wields the [Kyrswynter](Kyrswynter.md).
 
 He is the brother of fellow Kyrsan [Naerotiv](Naerotiv.md).
 
@@ -96,4 +96,4 @@ He is the brother of fellow Kyrsan [Naerotiv](Naerotiv.md).
 
 ## References
 
-1.  [↑](#cite-ref-1) [Naerotiv](Naerotiv.md)
+1.  [↑](#cite-ref-1) NPC dialogue: [Naerotiv](Naerotiv.md)

@@ -1,6 +1,6 @@
 ---
 title: Naerotiv
-revid: 214502
+revid: 216723
 source: https://deepwoken.fandom.com/wiki/Naerotiv
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Individuals with unspecified pronouns]
@@ -26,7 +26,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Naerotiv is a [Kyrsan](Kyrsgarde.md) NPC. He is located to the right of the entrance to the [second floor](Second_Layer/New_Kyrsa.md) of the [Second Layer](Second_Layer.md#new-kyrsa-the-sleeping-city-f2). He has a brother named [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md) further into the city, who made and gives the player the [Kyrswynter](Kyrswynter.md). Interacting with Naerotiv is needed as a step to obtain the aforementioned [Kyrswynter](Kyrswynter.md).
+Naerotiv is a [Kyrsan](Kyrsgarde.md) NPC.
+
+He is located to the right of the entrance to the [second floor](Second_Layer/New_Kyrsa.md) of the [Second Layer](Second_Layer.md#new-kyrsa-the-sleeping-city-f2). He has a brother named [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md) further into the city, who made and gives the player the [Kyrswynter](Kyrswynter.md). Interacting with Naerotiv is needed as a step to obtain the aforementioned [Kyrswynter](Kyrswynter.md).
 
 Naerotiv tells you how the [City of New Kyrsa](Second_Layer/New_Kyrsa.md) came to be today, about how the [Kyrsans](Kyrsgarde.md) once lived, and where they built a shrine over [Ethiron's Scion](Scion_of_Ethiron.md) to ensure it remains asleep, which eventually led to the City being developed. He mentions of how they used a ritual, namely the The Ninefold Blessings of Marrow, to ensure the Scion remains asleep. When the Ninth blessing was left incomplete as a result of the Kyrsans attempting to harness the puppet's power.
 
@@ -149,4 +151,4 @@ Naerotiv urges the Pathfinder to set his kind free by completing the ritual and 
     -   But that idea was the very thing that led to the [Kyrsan's](Kyrsgarde.md) downfall.
 -   His name, "Naerotiv" is a play on the word "narrative".
 
-1.  [↑](#cite-ref-1) Frosvierner Joraelnaero
+1.  [↑](#cite-ref-1) [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md)

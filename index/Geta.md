@@ -1,6 +1,6 @@
 ---
 title: Geta
-revid: 215264
+revid: 216699
 source: https://deepwoken.fandom.com/wiki/Geta
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Legs, Equipment with Set Bonuses, Equipment with Exclusive Talents, Equipment with Talents, Etrea]
@@ -36,13 +36,15 @@ Geta are an [Equipment](Equipment.md) item under the "Legs" category.
 
 They are a pair of traditional wooden shoes that are dropped by [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
 
-The [Dancing Steps Of War](Talents.md#dancing-steps-of-war) Talent grants a speed boost and reduces your dodge cooldown for 2 seconds upon landing a flourish.
+The [Dancing Steps Of War](Talents.md#dancing-steps-of-war) Talent grants a 35% speed boost and reduces your dodge cooldown down to 0.5s for 2 seconds upon landing a flourish.
 
 ## Set Talent
 
 When wearing the full equipment set, you will gain the Set Talent.
 
 **Momentum** - Speed boosts now give you a bit of extra chip based on how fast the speed boosts are making you.
+
+This has a 10:1 conversion rate. For example, if you have the [Wind Gem](Wind_Gem.md) speed boost active (+40% speed), you will gain +4% chip damage.
 
 ## Trivia
 

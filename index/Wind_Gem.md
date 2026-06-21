@@ -1,6 +1,6 @@
 ---
 title: Wind Gem
-revid: 213136
+revid: 216708
 source: https://deepwoken.fandom.com/wiki/Wind_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]
@@ -27,13 +27,14 @@ The **Wind Gem** is a green diamond-shaped [Deep Gem](Deep_Gems.md).
 
 ## Effect
 
-Upon landing a Mantra with a Wind Gem equipped, gain a [speed boost](Status_Effects.md#speed-boost) for 10 seconds. This effect has a 10 second cooldown.
+Upon landing a Mantra with a Wind Gem equipped, gain a +40% [speed boost](Status_Effects.md#speed-boost) for 10 seconds. This effect has a 10 second cooldown.
 
 ### Notes
 
--   This Gem is best used on easy to hit Mantras with low cooldowns.
+-   This Gem is best used on easy-to-hit Mantras with low cooldowns.
 -   If you have the Brain [Food Buff](Status_Effects.md#food-buff) from the [Grilled Parasol Brain](Grilled_Parasol_Brain.md), Wind Gem's speed boost duration will be increased from 10 seconds to 15.
-    -   This allows you to refresh your speed boost duration before it runs out.
+-   If you are wearing the [Blademaster's Robe](<Blademaster's_Robe.md>), yiur Wind Gem duration will be increased by 2 seconds; from 10 seconds to 12. Additionally, your light attacks and Criticals with the M1 tag will gain +10% Posture damage during the Wind Gem speed boost.
+-   Wind Gem's cooldown is **equal to** its duration, meaning that you cannot reapply its effect while it is active, even if you are using either of the above effects.
 -   There are several [Talents](Talents.md) that grant bonuses when you have an active speed boost, making this Gem a great applicator for them.
 
 ## Crafting

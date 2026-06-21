@@ -1,6 +1,6 @@
 ---
 title: "Blademaster's Robe"
-revid: 215430
+revid: 216704
 source: https://deepwoken.fandom.com/wiki/Blademaster's_Robe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Arms, Equipment with Set Bonuses, Equipment with Exclusive Talents, Equipment with Talents, Etrea]
@@ -36,13 +36,15 @@ The Blademaster's Robe are an [Equipment](Equipment.md) item under the "Arms" ca
 
 It is a traditional robe that is dropped by [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
 
-The [Swift Blade](Talents.md#swift-blade) Talent grants a 10% posture damage buffs to your light attacks while you are affected by the [Wind Gem](Wind_Gem.md). Additionally, [Wind Gems](Wind_Gem.md) last 2 seconds longer with this equipment.
+The [Swift Blade](Talents.md#swift-blade) Talent grants a 10% posture damage buff to your light attacks and Criticals with the M1 tag while you are affected by the [Wind Gem](Wind_Gem.md). Additionally, [Wind Gems](Wind_Gem.md) last 2 seconds longer with this equipment.
 
 ## Set Talent
 
 When wearing the full equipment set, you will gain the Set Talent.
 
 **Momentum** - Speed boosts now give you a bit of extra chip based on how fast the speed boosts are making you.
+
+This has a 10:1 conversion rate. For example, if you have the [Wind Gem](Wind_Gem.md) speed boost active (+40% speed), you will gain +4% chip damage.
 
 ## Trivia
 
