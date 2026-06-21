@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde Crawler
-revid: 216153
+revid: 216681
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Crawler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Floor 2, Layer 2, Monsters]
@@ -12,7 +12,7 @@ categories: [Pathfinder Exclusive, Floor 2, Layer 2, Monsters]
 |---|---|
 | health | 2800 |
 | attacks | Cloaking Assault |
-| drops | Frozen Membrane, Kyrsan Schematic |
+| drops | Frozen Membrane, Kyrsan Schematic, Amedan Pendant |
 | locations | The Sunken Railways in New Kyrsa, The Sleeping City |
 | challenges | -- Kyrsgarde --, Guardians of Kyrsa - Slay 10.Reward: +5% DMG; +2.5% RES, Mortal Coil - Slay 25.Reward: +5% DMG; +2.5% RES, Eternal Rest - Slay 100.Reward: +5% DMG; +2.5% RES |
 

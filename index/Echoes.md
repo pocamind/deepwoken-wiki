@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 210283
+revid: 216672
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Echoes, Character, Mechanics, Creation, Features absent in Vow of Iron]
@@ -106,7 +106,7 @@ Catching anything with a [Fishing Rod](Fishing_Rod.md) counts.
 | 
 
  | 2 | Drink an [Attribute Flask](Ingredients.md#lotuses).  
-[Attunement Potions](Attunement_Potions.md) do not count. |
+[Attunement Potions](Attunement_Potions.md) do not count. (Must be strength, fortitude, agility, willpower, charisma) |
 | 
 
  | 2 | Craft a [Master Armor](Outfits.md). |
@@ -289,12 +289,12 @@ There are 11 upgrades and 15 unlocks to purchase. Each upgrade can be purchased 
 </tr>
 <tr>
   <td><b>Soul Plasticity</b></td>
-  <td>Grants immunity to the Tarnished flaw.</td>
+  <td>Grants immunity to the <a href="Boons_and_Flaws.md#flaws">Tarnished</a> flaw.</td>
   <td>500 Echoes</td>
 </tr>
 <tr>
   <td><b>Multifaceted</b></td>
-  <td>The Attribute points you usually receive from your Aspect are free for you to allocate.</td>
+  <td>The Attribute points you usually receive from your <a href="Aspects.md">Aspect</a> are free for you to allocate.</td>
   <td>250 Echoes</td>
 </tr>
 <tr>
@@ -361,6 +361,11 @@ There are 11 upgrades and 15 unlocks to purchase. Each upgrade can be purchased 
   <td><b>Glider</b></td>
   <td>You start with a <a href="Gliders.md">Glider</a> to traverse the open air.</td>
   <td>25 Echoes</td>
+</tr>
+<tr>
+  <td><b>Choice of Chance</b></td>
+  <td>Receive up to 4 cards per hand from the <a href="Deep_Shrines/Shrine_of_Chance.md">Shrine of Chance</a>.</td>
+  <td>200 Echoes</td>
 </tr>
 </tbody>
 </table>
@@ -485,7 +490,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 -   Unlike all the other bosses in the game, defeating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md), [Heart of Enmity](Heart_of_Enmity.md), [Parliament](Parliament.md), [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>), and [Interluminary Parasol](Interluminary_Parasol.md) do not reward Echoes.
     -   This technically makes them the only true "optional" bosses in the game, as they are not required for W Rank.
 -   The [Leather Gloves](Leather_Gloves.md) and [Boots](Leather_Boots.md) from the Starting Equipment Echo Unlock are equipped automatically at the end of character creation. This means, if you've chosen [Lone Warrior](Lone_Warrior.md), you can spawn in the [Trial of One](Trial_of_One.md) with equipment on.
--   Attempting to unequip the [Leather Gloves](Leather_Gloves.md) or [Boots](Leather_Boots.md) from the Starting Equipment Echo Unlock will cause the item to be **permanently deleted**.
+    -   Attempting to unequip the [Leather Gloves](Leather_Gloves.md) or [Boots](Leather_Boots.md) will cause the item to be **permanently deleted**.
 -   Multifaceted makes the 5 innate [Aspect](Aspects.md) points free to allocate. For example instead of having 3 Fortitude and 2 Willpower on a [Vesperian](Vesperian.md), all of your stats will be at 0 and you will be given 5 free points to invest. This allows for much more build diversity with all aspects.
     -   After purchasing Multifaceted, any pre-existing slot that didn't invest into stats that were increased by their Aspect will be able to use [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md) to reallocate them.
 -   Elementalist allows you to have more then 2 elements on character starts so rather then have just 2 maximum you can start with 4 or 3 or even all of them, with this you can also allocate your attunement points freely such as starting a character with 3 Flame 2 Ice 3 Shadow and 2 Gale, or 9 Blood and 1 Thunder, etc. This will take points out of your starting points though.

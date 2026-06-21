@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Plate
-revid: 215911
+revid: 216677
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Plates, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -25,7 +25,7 @@ categories: [Equipment with Styles, Equipment, Arms, Plates, Equipment with Tale
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Duke Erisia, The Eternal Gale, Miner's Landing, Primadon, Maestro Evengarde Rest, Dread Serpent |
-| description | ... |
+| description | A fine cuirass of dark, galvanised steel. The relative lightness of the chestplate, contrasted with its sturdiness and resistance to corrosion, make this piece a favourite among members of the Central Authority Shock Corps, especially among units which utilise hit-and-run precision strike tactics. Sellswords, mercenaries, and bandits of the Eastern Luminant tend to mimic this versatile style of armour using leather instead. |
 
 Variants: [Reinforced Authority Plate](Reinforced_Authority_Plate.md)
 

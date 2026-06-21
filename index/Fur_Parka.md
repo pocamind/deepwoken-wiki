@@ -1,6 +1,6 @@
 ---
 title: Fur Parka
-revid: 215384
+revid: 216666
 source: https://deepwoken.fandom.com/wiki/Fur_Parka
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Parkas, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -36,5 +36,5 @@ They are winter coats with a neck collar full of warm fur to protect you against
 ## Trivia
 
 -   The Brown Fur Parka is the only Parka without square pads.
--   The Black Parka variant is worn by Authority Captains and can be obtained by them upon defeat.
+-   The Black Parka variant is worn by [Authority Captains](Authority_Captain.md) and can be obtained by them upon defeat.
 -   Parkas look similar to the [Trimmed Overcoat](Trimmed_Overcoat.md).

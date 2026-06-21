@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 216638
+revid: 216676
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2060,8 +2060,10 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Intellisense
 
--   Critical Engine \[Common Talent, Intelligence, Weapon\] - You gain the ability to use Deep Gems on your critical attack. Hold out the Deep Gem you wish to apply to your crit then use the tool to enhance your critical.
+-   Critical Engine \[Common Talent, Intelligence, Weapon\] - You gain the ability to use [Deep Gems](Deep_Gems.md) on your critical attack. Hold out the Deep Gem you wish to apply to your crit then use the tool to enhance your critical.
+    -   Equip the Deep Gem by holding the item and clicking, similar to how you would equip a Deep Gem to a Mantra.
     -   Equipping a Deep Gem to your critical will not consume the Deep Gem.
+    -   Attempting to equip another Deep Gem to your critical attack will cause the old one to be overridden by the new one.
     -   Proccing this Talent will put the respective Deep Gem on cooldown if it has one.
     -   [Mantle of Enmity](Mantle_of_Enmity.md) can proc Critical Engine. If you use a [Blessed Gem](Blessed_Gem.md), your Mantle aerial attack will halve your critical cooldown rather than your Mantle's.
     -   [Aegis Gem](Aegis_Gem.md) grants you 10% damage reduction for 10 seconds on hit.
@@ -2070,6 +2072,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   [Bloodless Gem](Bloodless_Gem.md) Reduces your critical damage by 20%, but grants healing equal to 30% of the damage dealt.
     -   [Blue Gem](Blue_Gem.md) grants you Ether back on hit. The Ether restoration is 1:1 with scaled damage dealt; it cannot be increased nor decreased through modifiers or resistances. This effect does not have PvE scaling.
     -   [Insignia Gem](Insignia_Gem.md) reduces the windup of your next Mantra cast by 15% on hit.
+    -   [Kyrsan Gem](Kyrsan_Gem.md) applies a stacking slow on hit.
     -   [Might Gem](Might_Gem.md) increases the posture damage of your critical by 10%.
         -   The posture damage bonus can be increased with the [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md) Talent, scaling on how many Might Gems you have equipped on your Mantras.
     -   [Warped Blue Gem](Warped_Blue_Gem.md) grants the [Etherguard](Status_Effects.md#etherguard) status effect on hit if you are wearing the [Bluestone Set](Bluestone_Pauldrons.md).

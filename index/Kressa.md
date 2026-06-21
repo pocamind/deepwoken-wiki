@@ -1,11 +1,9 @@
 ---
 title: Kressa
-revid: 201976
+revid: 216679
 source: https://deepwoken.fandom.com/wiki/Kressa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, In progress with reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Ignition Union]
-notices:
-  - This page is currently being worked on. Missing location map
+categories: [Khan NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Ignition Union]
 ---
 
 # Kressa
@@ -24,7 +22,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Kressa** is a [Khan](Khan.md) NPC. She is a member of [The Ignition Union](The_Ignition_Union.md).
+Kressa is a [Khan](Khan.md) NPC. She is a member of [The Ignition Union](The_Ignition_Union.md).
 
 ## Location
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 215391
+revid: 216675
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -1832,7 +1832,8 @@ Drowned [Enchant Grease](Enchant_Grease.md):
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
     1.  Any [Enchant Grease](Enchant_Grease.md), [Insignia Gem](Insignia_Gem.md), [Umbral Obsidian](Umbral_Obsidian.md)
-        
+-   Sold in [Traan Zakshun](Traan_Zakshun.md)'s Black Market for 10
+    
 
   
 

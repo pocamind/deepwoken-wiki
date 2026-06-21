@@ -1,6 +1,6 @@
 ---
 title: Galewax
-revid: 214540
+revid: 216651
 source: https://deepwoken.fandom.com/wiki/Galewax
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Items, Layer 2, Floor 1]
