@@ -1,6 +1,6 @@
 ---
 title: Notes
-revid: 216314
+revid: 216648
 source: https://deepwoken.fandom.com/wiki/Notes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Currency]
@@ -70,9 +70,8 @@ There are many means to obtain Notes, with some being better than others.
 -   Even at high Carry Load and with proper [Origins](Origins.md), doing [The Diluvian Mechanism](The_Diluvian_Mechanism.md) for Notes takes too long compared to the Notes received and the time traveling takes.
     -   The [Moonseye Tome](Moonseye_Tome.md) and [Knowledge](Knowledge.md) that can be provided by the Mechanism can help offset this, but is highly variable in nature.
 
-## Trivia/Notes
+## Trivia
 
 -   The Note cap was formerly 10,000. In the [July 24th, 2023](Version_History/2023.md#july-24th-2023) update, this was changed to 15,000.
--   The currency being named "Notes" is a reference to musical notes, tying in with Deepwoken's [musical](Lore.md#the-song) [theming](Lore.md#resonance-bells).
--   As we know Notes are a special variety of shell, how shells came to be used as currency is unknown.
+-   The currency being named "Notes" is a reference to musical notes, tying in with _Deepwoken'_s musical theming.
 -   In an unknown update, the symbol for Notes was visually touched up.

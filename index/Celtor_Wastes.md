@@ -1,6 +1,6 @@
 ---
 title: Celtor Wastes
-revid: 216280
+revid: 216624
 source: https://deepwoken.fandom.com/wiki/Celtor_Wastes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -77,7 +77,7 @@ Below is a list of potential items that can spawn in chests in Celtor Wastes.
     <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:
   <ol>
     <li><b>Legendary Arms</b>: <a href="Moonseye_Gauntlets.md"><font>Moonseye Gauntlets</font></a>, <a href="Providence_Coat.md"><font>Providence Coat</font></a>, <a href="Star_Duster.md"><font>Star Duster</font></a></li>
-    <li><b>Generic Arms</b>: <a href="Assassin's_Cloak.md">Assassin's Cloak</a>, <a href="Brigand's_Cloak.md">Brigand's Cloak</a>, <a href="Brilliant_Pauldrons.md">Brilliant Pauldron</a>, <a href="Celtor_Commander_Plate.md">Celtor Commander Plate</a>, <a href="Enforcer_Plate.md">Enforcer Plate</a>, <a href="Grand_Pauldrons.md">Grand Pauldrons</a>, <a href="Guardian_Pauldrons.md">Guardian Pauldrons</a>, <a href="Iron_Pauldrons.md">Iron Pauldrons</a>, <a href="Sandrunner_Wraps.md">Sandrunner Wraps</a>, <a href="Simple_Pauldrons.md">Simple Pauldrons</a>, <a href="Smith's_Gloves.md">Smith's Gloves</a>, <a href="Steel_Pauldrons.md">Steel Pauldrons</a></li>
+    <li><b>Generic Arms</b>: <a href="Assassin's_Cloak.md">Assassin's Cloak</a>, <a href="Brigand's_Cloak.md">Brigand's Cloak</a>, <a href="Brilliant_Pauldrons.md">Brilliant Pauldrons</a>, <a href="Celtor_Commander_Plate.md">Celtor Commander Plate</a>, <a href="Enforcer_Plate.md">Enforcer Plate</a>, <a href="Grand_Pauldrons.md">Grand Pauldrons</a>, <a href="Guardian_Pauldrons.md">Guardian Pauldrons</a>, <a href="Iron_Pauldrons.md">Iron Pauldrons</a>, <a href="Sandrunner_Wraps.md">Sandrunner Wraps</a>, <a href="Simple_Pauldrons.md">Simple Pauldrons</a>, <a href="Smith's_Gloves.md">Smith's Gloves</a>, <a href="Steel_Pauldrons.md">Steel Pauldrons</a></li>
   </ol></li>
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Autumn_Boots.md">Autumn Boots</a>, <a href="Azure_Sentinel_Boots.md">Azure Royal Guard Boots</a>, <a href="Celtorian_Sabatons.md">Celtorian Sabatons</a>, <a href="Enforcer_Boots.md">Enforcer Boots</a>, <a href="Grand_Boots.md">Grand Boots</a>, <a href="Iron_Boots.md">Iron Boots</a>, <a href="Redsteel_Boots.md">Redsteel Boots</a></li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a>, <a href="Pathfinder's_Backpack.md">Pathfinder's Backpack</a>, <a href="Varicosa_Medallion.md">Varicosa Medallion</a></li>

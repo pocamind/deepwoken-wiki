@@ -1,6 +1,6 @@
 ---
 title: Etrean Sashimono
-revid: 215990
+revid: 216593
 source: https://deepwoken.fandom.com/wiki/Etrean_Sashimono
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Torso, Equipment with Exclusive Talents, Equipment with Talents, Etrea]
@@ -37,5 +37,7 @@ The [Traditional Execution](Talents.md#traditional-execution) Talent changes you
 ## Trivia
 
 -   A _[sashimono](https://en.wikipedia.org/wiki/sashimono)_ is a banner worn by soldiers during Feudal Japan.
--   The Pride Style is of the [Pride flag](<https://en.wikipedia.org/wiki/Rainbow_flag_(LGBTQ)>).
--   The Joy Style is of the [Transgender flag](https://en.wikipedia.org/wiki/Transgender_flag).
+-   Two of the Styles are nods to flags used by the [LGBTQ community](https://en.wikipedia.org/wiki/LGBTQ_community).
+    -   The Pride Style is of the [Pride flag](<https://en.wikipedia.org/wiki/Rainbow_flag_(LGBTQ)>).
+    -   The Joy Style is of the [Transgender flag](https://en.wikipedia.org/wiki/Transgender_flag).
+    -   These are both references to the phrase "Pride and Joy".

@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 216590
+revid: 216641
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Individuals with He/him pronouns, Enemies, Etrea Enemies]
@@ -13,7 +13,7 @@ categories: [Vow of Iron Exclusive, Bosses, Individuals with He/him pronouns, En
 | health | 4000 |
 | drops | 2 Knowledge, 2,000 Notes, Vibrant Gem, Pluripotent Alloy, Ardour Manifestation, Memento Talents |
 | weapon | The Endless Wave |
-| moves | Upsweep, Kick Slam, Aerial Double, Double Swing, Great Cleave, Triplefang, Shadowfold, Eight Heavens |
+| moves | High Cleave, Crush & Rend, Graceful Slicer, Severing Flourish, Low Cleave, Shogun's Brutality, Serpent-Slaying Sweep, Eight Heavens |
 | pronouns | He/him[1] |
 | affiliation | Etrea |
 
@@ -44,7 +44,7 @@ His attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined wi
 | Name | Description | Media |
 | --- | --- | --- |
 | 
-**Upsweep**
+**High Cleave**
 
 (★☆☆)
 
@@ -60,7 +60,7 @@ His attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined wi
  |
 | 
 
-**Kick Slam**
+**Crush & Rend**
 
 (★☆☆)
 
@@ -76,7 +76,7 @@ His attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined wi
  |
 | 
 
-**Aerial Double**
+**Graceful Slicer**
 
 (★☆☆)
 
@@ -98,7 +98,7 @@ Parry
  |
 | 
 
-**Double Swing**
+**Severing Flourish**
 
 (★★☆)
 
@@ -120,7 +120,7 @@ Dodge
  |
 | 
 
-**Great Cleave**
+**Low Cleave**
 
 (★☆☆)
 
@@ -143,7 +143,7 @@ Block
  |
 | 
 
-**Triplefang**
+**Shogun's Brutality**
 
 (★★☆)
 
@@ -166,7 +166,7 @@ Jump
  |
 | 
 
-**Shadowfold**
+**Serpent-Slaying Sweep**
 
 (★★★)
 
@@ -212,8 +212,8 @@ Dodge
 -   Attempting to kite The Shogun and kill them with ranged attacks will prove tedious; he will will parry any attack attempted from a distance unless they are in the middle of an attack animation.
 -   The Shogun's attacks have deceivingly large hitboxes. If you don't know if you will be hit, it's best to assume you will, and to act accordingly.
 -   The Shogun has minimal downtime between attacks, chaining them together at great speeds.
--   The Shogun has 2 attacks with blind spots: Kick Slam and Double Swing can be walked behind after his first hit.
--   If you attempt to parry **Great Cleave**, you can still crouch under it despite being in lingering block frames, However this is not recommended, as this just puts extra stress on you for almost no benefit.
+-   The Shogun has 2 attacks with blind spots: Crush & Rend and Severing Flourish can be walked behind after his first hit.
+-   If you attempt to parry **Low Cleave**, you can still crouch under it despite being in lingering block frames, However this is not recommended, as this just puts extra stress on you for almost no benefit.
 -   **The Shogun can use his ultimate attack more than once. Remember to look out for it at all times once he is below half health.**
 
 ## Trivia

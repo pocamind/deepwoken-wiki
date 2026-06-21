@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 216101
+revid: 216623
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Bosses, Black Divers, Voiced Characters, Ministry Enemies]
@@ -316,7 +316,7 @@ Exhaustive Loot Table
   <ol>
     <li><b>Mythical Arms</b>: <a href="Delver's_Duster.md"><font>Delver's Duster</font></a></li>
     <li><b>Legendary Arms</b>: <a href="Ironsinger_Heavy_Plate.md"><font>Ironsinger Heavy Plate</font></a></li>
-    <li><b>Generic Arms</b>: <a href="Brilliant_Pauldrons.md">Brilliant Pauldron</a>, <a href="Legion_Phalanx_Plate.md">Legion Phalanx Plate</a>, <a href="Ranger's_Brace.md">Ranger's Brace</a>, <a href="Smith's_Gloves.md">Smith's Gloves</a>, <a href="Trimmed_Overcoat.md">Trimmed Overcoat</a></li>
+    <li><b>Generic Arms</b>: <a href="Brilliant_Pauldrons.md">Brilliant Pauldrons</a>, <a href="Legion_Phalanx_Plate.md">Legion Phalanx Plate</a>, <a href="Ranger's_Brace.md">Ranger's Brace</a>, <a href="Smith's_Gloves.md">Smith's Gloves</a>, <a href="Trimmed_Overcoat.md">Trimmed Overcoat</a></li>
   </ol></li>
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Winter_Corps_Boots.md">Winter Corps Boots</a></li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:

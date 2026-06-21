@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 215783
+revid: 216617
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
@@ -1229,7 +1229,7 @@ _+4% Stealth_
  | Set: Brigand  
 Head: [Brigand's Bicorn](<Brigand's_Bicorn.md>)  
 Arms: [Brigand's Cloak](<Brigand's_Cloak.md>) |
-| File:Brilliant Pauldrons.png | [Brilliant Pauldron](Brilliant_Pauldrons.md)  
+| File:Brilliant Pauldrons.png | [Brilliant Pauldrons](Brilliant_Pauldrons.md)  
 (**Set**) | _+5 Health_
 
 +2 Rare Pips  
@@ -1237,7 +1237,7 @@ Arms: [Brigand's Cloak](<Brigand's_Cloak.md>) |
 **Requires Power 10**
 
  | Set: Brilliant  
-Arms: [Brilliant Pauldron](Brilliant_Pauldrons.md)  
+Arms: [Brilliant Pauldrons](Brilliant_Pauldrons.md)  
 Legs: [Brilliant Boots](Brilliant_Boots.md)  
 Torso: [Brilliant Cape](Brilliant_Cape.md) |
 |  | [Celtor Commander Plate](Celtor_Commander_Plate.md)  
@@ -2188,7 +2188,7 @@ Legs: [Bluestone Boots](Bluestone_Boots.md)
  |
 | File:Brilliant Boots.png | [Brilliant Boots](Brilliant_Boots.md)  
 (**Set**) | +2 Rare Pips | Set: Brilliant  
-Arms: [Brilliant Pauldron](Brilliant_Pauldrons.md)  
+Arms: [Brilliant Pauldrons](Brilliant_Pauldrons.md)  
 Legs: [Brilliant Boots](Brilliant_Boots.md)  
 Torso: [Brilliant Cape](Brilliant_Cape.md) |
 |  | [Celestial Boots](Celestial_Boots.md) | +2 Rare Pips  
@@ -2652,7 +2652,7 @@ Default, Black, Crimson, Dawn, Desert, Dusk, Forest, Tundra & White |
 **Requires Power 5**
 
  | Set: Brilliant  
-Arms: [Brilliant Pauldron](Brilliant_Pauldrons.md)  
+Arms: [Brilliant Pauldrons](Brilliant_Pauldrons.md)  
 Legs: [Brilliant Boots](Brilliant_Boots.md)  
 Torso: [Brilliant Cape](Brilliant_Cape.md) |
 | File:Canticlysm Pendant.png | [Canticlysm Pendant](Canticlysm_Pendant.md) | _+3% Elemental Armor_

@@ -1,6 +1,6 @@
 ---
 title: Jeremiah
-revid: 215738
+revid: 216622
 source: https://deepwoken.fandom.com/wiki/Jeremiah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Vendors]
@@ -51,7 +51,7 @@ Potential Rewards
   <td>
   <ul>
     <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Deepwoken_Hood.md">Deepwoken Hood</a></li>
-    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Brilliant_Pauldrons.md">Brilliant Pauldron</a>, <a href="Star_Duster.md">Star Duster</a></li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Brilliant_Pauldrons.md">Brilliant Pauldrons</a>, <a href="Star_Duster.md">Star Duster</a></li>
     <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Demon_Mask.md">Demon Mask</a>, <a href="Eyeglasses.md">Eyeglasses</a>, <a href="Iron_Mask.md">Iron Mask</a>, <a href="Polarised_Eyeglasses.md">Polarised Eyeglasses</a></li>
     <li><a href="Equipment.md#rings"><b>Rings</b></a>: <a href="Akira's_Ring.md">Akira's Ring</a>, <a href="Dawnfist's_Ring.md">Dawnfist's Ring</a>, <a href="Maestro's_Ring.md">Maestro's Ring</a>, <a href="Prophet's_Ring.md">Prophet's Ring</a></li>
   </ul></td>

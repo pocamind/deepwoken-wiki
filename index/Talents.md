@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 216542
+revid: 216638
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1573,7 +1573,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Venting creates an ice patch on the floor and applies Chill to any enemy hit by it.
     -   Increases your Vent damage by 40% and changes its damage type to Frostdraw.
         -   This also applies to the [Imperator's Fury](<Imperator's_Fury.md>)'s Talent despite its damage being otherwise unmodifiable.
-    -   Prerequisites: Cryonis, 25 Frostdraw
+    -   Prerequisites: 25 Frostdraw
 
 ### Frozen Lightning
 
@@ -1883,7 +1883,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Also grants the ability to freeze and damage boats with Greatsword and Greataxe criticals.
     -   Frost Buster procs on **any** critical when used on a Greatsword or Greataxe including some strange cases such as critical-replacing Enchantments ([Curse of the Unbidden](Curse_of_the_Unbidden.md), [Nemesis](Nemesis.md), and [Stormbreaker](Stormbreaker.md)) and all fist style criticals on [Markor's Inheritor](<Markor's_Inheritor.md>).
     -   Because Frost Buster has no cooldown and has such a large amount of coverage, it is one of the best ice patch applicators in the game.
-    -   Prerequisites: Cryonis, 15 Heavy Weapon, 45 Frostdraw
+    -   Prerequisites: 15 Heavy Weapon, 45 Frostdraw
 
 -   Frozen Anchor \[Common Talent, Frostdraw, Weapon\] - Apply bottom freeze and chill to your opponent whenever you land a flourish, uppercut, or crit. 10s CD.
     -   Functions similarly to Meteor Impact, applying on any Mantra that would proc it.

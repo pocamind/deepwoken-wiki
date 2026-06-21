@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Sabatons
-revid: 214821
+revid: 216647
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Sabatons]
@@ -25,7 +25,7 @@ categories: [Equipment with Styles, Equipment, Legs, Sabatons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Duke Ishamon Erisia, The Eternal Gale, Miner's Landing, Maestro Evengarde Rest, Dread Serpent, Lodestar, Saramaed Hollow, Heart of Enmity, War Mode |
-| description | ... |
+| description | A fine pair of dark, galvanised steel sabatons. The relative lightness of the boots, contrasted with their sturdiness and resistance to corrosion, make them a favourite among members of the Central Authority Shock Corps, especially among units which utilise hit-and-run precision strike tactics. Sellswords, mercenaries, and bandits of the Eastern Luminant tend to mimic this versatile style of armour using leather instead. |
 
 ## Description
 

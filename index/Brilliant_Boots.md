@@ -1,6 +1,6 @@
 ---
 title: Brilliant Boots
-revid: 214877
+revid: 216614
 source: https://deepwoken.fandom.com/wiki/Brilliant_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Boots]
@@ -18,7 +18,7 @@ categories: [Equipment with Styles, Equipment, Legs, Boots]
 | styles | Brushed, Galvanized |
 | innate stats | +2 Rare Pips |
 | innate talent | N/A |
-| set | Brilliant Pauldron, Brilliant Boots, Brilliant Cape |
+| set | Brilliant Pauldrons, Brilliant Boots, Brilliant Cape |
 | set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

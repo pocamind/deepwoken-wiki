@@ -1,6 +1,6 @@
 ---
 title: Brilliant Pauldrons
-revid: 214878
+revid: 216613
 source: https://deepwoken.fandom.com/wiki/Brilliant_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
@@ -18,7 +18,7 @@ categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
 | styles | Brushed, Galvanized |
 | innate stats | +5 Health , +2 Rare Pips, +1 Legendary Pip |
 | innate talent | N/A |
-| set | Brilliant Pauldron, Brilliant Boots, Brilliant Cape |
+| set | Brilliant Pauldrons, Brilliant Boots, Brilliant Cape |
 | set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -29,7 +29,7 @@ categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
 
 ## Description
 
-The Brilliant Pauldrons is an [Equipment](Equipment.md) item under the "Arms" category.
+The Brilliant Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category.
 
 ## Trivia
 

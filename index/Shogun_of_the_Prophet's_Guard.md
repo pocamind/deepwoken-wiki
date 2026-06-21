@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard"
-revid: 216591
+revid: 216642
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Enemies]
@@ -13,7 +13,7 @@ categories: [Vow of Iron Exclusive, Enemies]
 | health | 1000 |
 | drops | 2 Knowledge, 1,000 Notes |
 | weapon | The Endless Wave |
-| moves | Upsweep, Kick Slam, Aerial Double, Double Swing |
+| moves | High Cleave, Crush & Rend, Graceful Slicer, Severing Flourish |
 | affiliation | Etrea |
 
 Variants: [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
@@ -35,7 +35,7 @@ Their attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined 
 | Name | Description | Media |
 | --- | --- | --- |
 | 
-**Upsweep**
+**High Cleave**
 
 (★☆☆)
 
@@ -51,7 +51,7 @@ Their attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined 
  |
 | 
 
-**Kick Slam**
+**Crush & Rend**
 
 (★☆☆)
 
@@ -67,7 +67,7 @@ Their attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined 
  |
 | 
 
-**Aerial Double**
+**Graceful Slicer**
 
 (★☆☆)
 
@@ -83,7 +83,7 @@ Their attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined 
  |
 | 
 
-**Double Swing**
+**Severing Flourish**
 
 (★★☆)
 
