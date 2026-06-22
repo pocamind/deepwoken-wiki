@@ -1,6 +1,6 @@
 ---
 title: "Warmaster's Medallion"
-revid: 214974
+revid: 216739
 source: https://deepwoken.fandom.com/wiki/Warmaster's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso, Necklaces, Relics, Equipment Relics, Equipment with Talents, Equipment with Exclusive Talents]
@@ -34,9 +34,7 @@ The [Actions Speak Louder](Talents.md#actions-speak-louder) Talent reduces the c
 ## Trivia
 
 -   The second (or third) equippable [Relic](Relics.md), released after [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) and at the same time as [Tiran Pendant](Tiran_Pendant.md).
--   Many elements share motifs with [The Central Authority](The_Central_Authority.md):
-    -   There are 3 Authority emblems outside of the attachment.
-    -   The neon blades could represent the Circle of Honor, as it is surrounded by a circular border and is the source of the [Warmaster Oath](Oaths.md#warmaster) comes from.
-    -   This is strange, as Warmasters have no correlation with the Authority.
+-   Many elements, namely the four-pronged stars in the medallion, share motifs with the [Circle of Honour](Circle_of_Honour.md).
+    -   Though the Authority shares no correlation with Warmasters, three emblems can be seen outside of the attachment.
 -   Has virtually no downside on slots with the Dissonant [echo modifier](Echoes.md).
 -   The downside originally doubled resonance cooldown, being reduced to 50% (1.5x) in the 4/26/25 update, then being reduced to 20% (1.2x) in the [July 12th, 2025](Version_History/2025.md#july-12th-2025) update.
