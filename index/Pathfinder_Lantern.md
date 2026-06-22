@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Lantern
-revid: 214926
+revid: 216752
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Lantern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso, Equipment with Talents, "Equipment with Non-exclusive Talents"]

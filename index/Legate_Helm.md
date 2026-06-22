@@ -1,6 +1,6 @@
 ---
 title: Legate Helm
-revid: 210574
+revid: 216763
 source: https://deepwoken.fandom.com/wiki/Legate_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -14,15 +14,15 @@ categories: [Equipment, Head, Helmets]
 | rarity | Uncommon |
 | selling price | 14 |
 | weight | 1 |
-| innate stats | +5 Health +1 Posture |
+| innate stats | +5 Health , +1 Posture |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Duke Erisia, Deep Widow, Voidwalker Bounties, First Layer, LodestarFound from:, Artifact Turn-ins |
-| description | ... |
+| description | Survival is your strength. |
 
 ## Description
 
-The Legate Helm is an Equipment item in the "_Head_" category.
+The Legate Helm is an Equipment item in the "Head" category.

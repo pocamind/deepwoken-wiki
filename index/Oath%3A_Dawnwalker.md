@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 215526
+revid: 216755
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers]
@@ -43,7 +43,7 @@ _**Reobtaining** Dawnwalker after [Oathbreaking](Oaths.md#oathbreaker---oath-rem
 
 ## Effects
 
-This Oath grants 3 Combat Mantra Slots and +5% PEN. As for appearance, it changes the eye color of the user to white and creates a [Moonseye](Moonseye.md) symbol above their head, with a disk spinning around its axis. The Moonseye can be dyed and both the eye and the disc will follow the dye color.
+This Oath grants 3 Combat Mantra Slots and +5% PEN. As for appearance, it changes the eye color of the user to white and creates a [Moonseye](Moonseye.md) symbol above their head, with a disk spinning around its axis. The Moonseye can be [dyed](Dye_Packet.md).
 
 ## Abilities
 

@@ -1,6 +1,6 @@
 ---
 title: Brilliant Pauldrons
-revid: 216613
+revid: 216748
 source: https://deepwoken.fandom.com/wiki/Brilliant_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
@@ -15,7 +15,7 @@ categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
 | selling price | 7 |
 | requirements | None |
 | weight | 2 |
-| styles | Brushed, Galvanized |
+| styles | Debonair (Brushed, Rough), Warlike (Brushed, Rough) |
 | innate stats | +5 Health , +2 Rare Pips, +1 Legendary Pip |
 | innate talent | N/A |
 | set | Brilliant Pauldrons, Brilliant Boots, Brilliant Cape |

@@ -1,9 +1,9 @@
 ---
 title: Starfield Veldt
-revid: 213403
+revid: 216762
 source: https://deepwoken.fandom.com/wiki/Starfield_Veldt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Voidzones]
+categories: [Locations, Voidzones]
 ---
 
 # Starfield Veldt
@@ -15,8 +15,6 @@ Voidzone
 The beauty of the Veldt, the Star Tree stands tall.
 
   
-
-File:Starfield veldet.jpg
 
 **Starfield Veldt** is a location in _Deepwoken_. It is a [Voidzone](Voidzones.md) island found in the Eastern Luminant.
 

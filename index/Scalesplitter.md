@@ -1,6 +1,6 @@
 ---
 title: Scalesplitter
-revid: 216693
+revid: 216770
 source: https://deepwoken.fandom.com/wiki/Scalesplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Twinblades, Alloyable Weapons, Medium Weapons, Weapons of Etrea]
@@ -33,7 +33,7 @@ categories: [Weapons, Criticals with M1 tag, Twinblades, Alloyable Weapons, Medi
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Depths, Duke Ishamon Erisia, Moon's EyrieAlloyed:, Alloying a Scalesplitter, Crypt of the Unbroken, Sold by Traan Zakshun for 650 |
+| obtainment | The Depths, Duke Ishamon Erisia, Moon's Eyrie, Songseeker WildsAlloyed:, Alloying a Scalesplitter, Crypt of the Unbroken, Sold by Traan Zakshun for 650 |
 | description | Base, AlloyedAn ancient Etrean twinblade, recently rediscovered as a fragment of driftland surfaced, revealing the remnants of a long-lost Etrean platoon that had perished and been claimed by the void ages ago. Now, this weapon, once thought lost to time, has re-emerged into circulation, carrying with it echoes of forgotten battles.An ancient Etrean twinblade, recently repurposed and refurbished with alloys of the contemporary world, taken from the void's grasp and returned to life. Now this weapon, once worn by time and war, has been sharpened and restored, given another chance to taste glory once more. With its renewed form, it stands as a fusion of old-world craftmanship and modern innovation, ready to carve its name into history again with you. |
 
 Variants: [Depthsplitter](Depthsplitter.md)

@@ -1,6 +1,6 @@
 ---
 title: "Royal Guard's Kabuto"
-revid: 214792
+revid: 216742
 source: https://deepwoken.fandom.com/wiki/Royal_Guard's_Kabuto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Helmets]
@@ -15,7 +15,7 @@ categories: [Equipment with Styles, Equipment, Head, Helmets]
 | selling price | 25 |
 | requirements | Power 10 |
 | weight | 1 |
-| styles | Mamba, Navy |
+| styles | Mamba, Royal Guard |
 | innate stats | +8 Health , +1 Rare Pip, +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |
