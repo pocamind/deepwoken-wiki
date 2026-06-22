@@ -1,6 +1,6 @@
 ---
 title: Duelist Mask
-revid: 216781
+revid: 216790
 source: https://deepwoken.fandom.com/wiki/Duelist_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -24,6 +24,8 @@ categories: [Equipment, Face, Masks]
 | obtainment | Chests from:, Miner's Landing, Saramaed Hollow, Crypt of the Unbroken, Maestro Evengarde Rest, Dread Serpent, Chime of Conflict, Heart of Enmity, Voidsea |
 | description | ... |
 
+Variants: [Corrupted Duelist Mask](Corrupted_Duelist_Mask.md)
+
 ## Description
 
-The Duelist's Mask is an [Equipment](Equipment.md) item under the "Face" category. It is an ovular mask that is pure white with one big circle that has a black outline in the middle of the mask. In the middle column is a black line connecting the circle to the middle of the bottom of the mask.
+The Duelist Mask is an [Equipment](Equipment.md) item under the "Face" category. It is an ovular mask that is pure white with one big circle that has a black outline in the middle of the mask. In the middle column is a black line connecting the circle to the middle of the bottom of the mask.

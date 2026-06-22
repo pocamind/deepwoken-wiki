@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 216674
+revid: 216807
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -261,7 +261,7 @@ Sold Items
     <li><b>For 100 </b>: <a href="Frigid_Prism.md">Frigid Prism</a>, <a href="Gale_Stone.md">Gale Stone</a>, <a href="Heartstar.md">Heartstar</a></li>
     <li><b>For 1,000 </b>: <a href="Dye_Packet.md">Dye Packet</a></li>
     <li><b>For 2,500 </b>: <a href="Glumfig.md">Glumfig</a></li>
-    <li><b>For 15,000 </b>: <a href="Goodie_Bag.md">Goodie Bag</a></li>
+    <li><b>For 15,000 </b>: <a href="Goodie_Bag.md">Goodie Bag</a> (<a href="Hallowtide.md">Hallowtide</a> only)</li>
   </ul></td>
 </tr>
 <tr>
@@ -281,7 +281,7 @@ Sold Items
     <li><b>Medium Weapons</b>: <a href="Falchion.md">Alloyed Falchion</a>, <a href="Scalesplitter.md">Alloyed Scalesplitter</a>, <a href="Rifle_Spear.md">Rifle Spear</a>, <a href="Scoundrel's_Saber.md">Scoundrel's Saber</a>, <a href="Serrated_Warspear.md">Serrated Warspear</a></li>
     <li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></li>
   </ul></li>
-    <li><b>For 750 </b>: True Seraph's Spear</li>
+    <li><b>For 750 </b>: <a href="True_Seraph_Spear.md">True Seraph Spear</a></li>
     <li><b>For 1,000 </b>: <a href="Krulian_Knife.md">Krulian Knife</a></li>
     <li><b>For 1,250 </b>:
   <ul>
@@ -404,7 +404,7 @@ Sold Items
   <td>
   <ul>
     <li><b>For 1 </b>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Egg.md">Egg</a>, <a href="Hemobloom.md">Hemobloom</a>, <a href="Plumfruit_Muffin.md">Plumfruit Muffin</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Terrapod_Shell.md">Terrapod Shell</a>, <a href="Candle.md">Umbral Candle</a>, <a href="Void_Spire.md">Void Spire</a></li>
-    <li><b>For 2 </b>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Broken_Gatling_Gun.md">Broken Gatling Gun</a>, <a href="Forge_Needle.md">Forge Needle</a>, <a href="Glumfig.md">Glumfig</a>, <a href="Goodie_Bag.md">Goodie Bag</a></li>
+    <li><b>For 2 </b>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Broken_Gatling_Gun.md">Broken Gatling Gun</a>, <a href="Forge_Needle.md">Forge Needle</a>, <a href="Glumfig.md">Glumfig</a>, <a href="Goodie_Bag.md">Goodie Bag</a> (<a href="Hallowtide.md">Hallowtide</a> only)</li>
     <li><b>For 3 </b>: <a href="Smith's_Alloy.md">Smith's Alloy</a></li>
     <li><b>For 4 </b>: <a href="Moonseye_Tome.md">Moonseye Tome</a></li>
     <li><b>For 5 </b>: <a href="Dread_Serpent's_Mane.md">Dread Serpent's Mane</a>, <a href="Dread_Serpent's_Tooth.md">Dread Serpent's Tooth</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Gilded_Needle.md">Gilded Needle</a>, <a href="Nautilodaunt_Beak.md">Nautilodaunt Beak</a>, <a href="Shiva's_Codex.md">Shiva's Codex</a>, <a href="Trickster_Dust.md">Trickster Dust</a>

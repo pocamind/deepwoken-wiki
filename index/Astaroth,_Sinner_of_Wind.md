@@ -1,6 +1,6 @@
 ---
 title: "Astaroth, Sinner of Wind"
-revid: 216136
+revid: 216810
 source: https://deepwoken.fandom.com/wiki/Astaroth%2C_Sinner_of_Wind
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies with Oaths, The Starkindred Church, Individuals with unspecified pronouns, Humanoids with Unobtainable Outfits]
@@ -21,7 +21,7 @@ Astaroth, Sinner of Wind, is a powerful [Starkindred](Oath%253A_Starkindred.md) 
 
 ## Moveset
 
-Asraroth's arsenal consists of a True Seraph's Spear along with the [Galebreathe](Galebreathe.md) attunement and [Starkindred](Oath%253A_Starkindred.md) Oath:
+Asraroth's arsenal consists of a [True Seraph Spear](True_Seraph_Spear.md) along with the [Galebreathe](Galebreathe.md) attunement and [Starkindred](Oath%253A_Starkindred.md) Oath:
 
 | Name/Danger | Description |
 | --- | --- |

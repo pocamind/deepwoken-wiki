@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 216210
+revid: 216817
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -325,7 +325,7 @@ _When fighting, while dealing damage is important, reducing their posture can al
 <tr>
   <th>Air Counter</th>
   <td>Pressing <kbd><abbr>M2</abbr></kbd> midair while your opponent preforms a wall jump or certain air based moved such as <a href="Talents.md#strong-leap">Strong Leap</a> quickly closes the distance and hits them. Air Counters innately do not deal damage, instead being used as tools to chase your opponent.<p>Air Counter can be initiated by pressing <kbd><abbr>M2</abbr></kbd> while midair when your opponent: climbs something, uses the Galebreathe Talent <a href="Talents.md#wind-step">Wind Step</a>, uses a vertical mobility Mobility Mantra such as <a href="Flamecharm.md#flame-leap">Flame Leap</a> or <a href="Attunement-less.md#strong-leap">Strong Leap</a>, gets hit by <a href="Eyes_of_Ethiron.md">Eyes of Ethiron</a>'a two-handed critical, or uses a <a href="Lifevents.md">Lifevent</a>.</p>
-  <p>Having thr <a href="Talents.md#cut-to-the-chase">Cut to the Chase</a> Talent will add 10 True damage to your air counters.</p></td>
+  <p>Having the <a href="Talents.md#cut-to-the-chase">Cut to the Chase</a> Talent will add 10 True damage to your air counters.</p></td>
 </tr>
 </tbody>
 </table>

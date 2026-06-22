@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 211636
+revid: 216808
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -33,7 +33,7 @@ Any weapon with a default critical (excluding Fist, Pistol, Rifle, and Greatcann
 There are a few specific weapons that can equip Motifs despite them not being Motif-able themselves. For instance, you can Motif [Whaling Knife](Whaling_Knife.md)'s critical onto the [Tanto](Tanto.md), but you can't apply Tanto's critical to any other weapon. These weapons are:
 
 -   Light Weapons: [Needle's Eye](<Needle's_Eye.md>) / [Tanto](Tanto.md) / [Alloyed Tanto](Tanto.md)
--   Medium Weapons: [Gremorian Longspear](Gremorian_Longspear.md) / [Alloyed Longspear](Gremorian_Longspear.md) / [Hunting Bow](Hunting_Bow.md) / [Shadebolt](Shadebolt.md) / True Seraph's Spear
+-   Medium Weapons: [Gremorian Longspear](Gremorian_Longspear.md) / [Alloyed Longspear](Gremorian_Longspear.md) / [Hunting Bow](Hunting_Bow.md) / [Shadebolt](Shadebolt.md) / [True Seraph Spear](True_Seraph_Spear.md)
 -   Heavy Weapons: [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) / [First Light](First_Light.md)
 
 ### 

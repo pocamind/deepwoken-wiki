@@ -1,6 +1,6 @@
 ---
 title: Glacial Lionfish
-revid: 216149
+revid: 216809
 source: https://deepwoken.fandom.com/wiki/Glacial_Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,7 @@ categories: [Monsters]
 |---|---|
 | health | 600015000 (Corrupted) |
 | attacks | Bite, Chilling Cero |
-| drops | Lionfish Scale, Vibrant Gem, Frigid Prism, True Seraph's Spear |
+| drops | Lionfish Scale, Vibrant Gem, Frigid Prism, True Seraph Spear |
 | locations | First Layer, Voidsea, The Aratel Sea |
 | challenges | -- Lionfish --, Lionfish Slayer I - Slay 10.Reward: +10% DMG; +5% RES, Lionfish Slayer II - Slay 25.Reward: +10% DMG; +5% RES, Lionfish Slayer III - Slay 100.Reward: +10% DMG; +5% RES |
 
@@ -21,8 +21,6 @@ categories: [Monsters]
 Glacial Lionfish are the product of an unknown phenomena, which will cause the genetic makeup of creatures in the world to experience certain mutations, granting them unique traits that is atypical to their biology. The Glacial Lionfish is one example, with the mutation causing them to be attuned to [Frostdraw](Frostdraw.md).
 
 Glacial Lionfish only features a primarily white coloring and blue blank eyes. In addition, it is observed that Glacial Lionfish may utilize [Frostdraw](Frostdraw.md) by invoking the Song through its attacks, causing them to inflict Chilling, and in the case of its Cero attack, gain a blue coloration and leave ice where it lands.
-
-Notably enough, it's the only other way to obtain the extremely rare True Seraph's Spear.
 
 ## Moves
 

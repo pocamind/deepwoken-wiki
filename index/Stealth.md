@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 215227
+revid: 216794
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -28,40 +28,40 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
     -   Every point of [Agility](Attributes.md#agl) grants +0.2% Stealth.
     -   Passive Agility does **not** grant Stealth.
 -   The [Felinor](Felinor.md) aspect starts with +20% Stealth and has a 1.2x multiplier on Stealth gain.
-    -   The Stealth gain multiplier does not apply to Stealth gained from crouching or [Lowstride](Talents.md#lowstride).
+    -   The Stealth gain multiplier does not apply to Stealth gained from crouching, [Lowstride](Talents.md#lowstride), Felinor's flat stealth, Tacet, or [Taced Minimization](Talents.md#taced-minimization).
 -   The [Lowstride](Talents.md#lowstride) Talent doubles the Stealth bonuses from crouching; increasing your Stealth by 100% multiplicatively and adding +100% flat Stealth, while crouching.  
     L o w s t r i d e S t e a l t h \= S t e a l t h × 2 + 100 {\\displaystyle LowstrideStealth=Stealth\\times 2+100} {\\displaystyle LowstrideStealth=Stealth\\times 2+100}
 -   Being in [Tacet](Murmur%253A_Tacet.md) provides +400% flat Stealth. Tacet's Stealth cannot receive Stealth gain multipliers.
     -   This is doubled to +800% if you are using [Tacet Minimization](Talents.md#tacet-minimization) from the [Authority Ensign](Authority_Ensign.md) Origin.
 -   The [Sly](Boons_and_Flaws.md#unlockable-boons) Boon grands +15% Stealth.
--   Equipping specific Outfits:
+-   The [Obvious](Boons_and_Flaws.md#obvious) Flaw grants -20% Stealth.
+-   **Equipping specific Outfits**:
     -   [Darkened Bastion](Darkened_Bastion.md), [Familiar Assassin's Armor](<Familiar_Assassin's_Armor.md>), [Inquisition Light](Inquisition_Light.md), [Navaen Nomad Robes](Navaen_Nomad_Robes.md), [Navaen War Chief](Navaen_War_Chief.md), and [Whaler Coat](Whaler_Coat.md) all grant +50% Stealth.
     -   [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md) grants +40% Stealth.
     -   [Whaler Initiate](Whaler_Initiate.md) grants +25% Stealth.
-    -   Some Outfits have the [Lowstride](Talents.md#lowstride) Talent:
+    -   **Some Outfits have the [Lowstride](Talents.md#lowstride) Talent**:
         -   [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md), [Diver Journeyman Robes](Diver_Journeyman_Robes.md), [Hive Adjudicator](Hive_Adjudicator.md), [Hive Drone](Hive_Drone.md), [Pathfinder Sorcerer](Pathfinder_Sorcerer.md), [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md), [Shadow Hunter](Shadow_Hunter.md), and [Steel Plate](Steel_Plate.md)
 -   Wearing the following Equipment:
-    -   Head:
+    -   [**Head Equipment**](Equipment.md#head):
         -   [Dark Owl Chapeau](Dark_Owl_Chapeau.md) and [Mercenary's Hood](<Mercenary's_Hood.md>) grant 10% Stealth.
         -   [Bloodfeather Cowl](Bloodfeather_Cowl.md), [Bloodcurdle Cowl](Bloodcurdle_Cowl.md), and [Necrotic Cowl](Necrotic_Cowl.md) grant 6% Stealth.
         -   [Assassin's Hood](<Assassin's_Hood.md>), [Rogue Assassin's Hood](<Rogue_Assassin's_Hood.md>), [Monastery Cowl](Monastery_Cowl.md), [Gale Enhanced Cowl](Gale_Enhanced_Cowl.md), and [Hallowed Monastery Cowl](Hallowed_Monastery_Cowl.md) grant 5% Stealth.
         -   [Dark Cowl](Dark_Cowl.md) and [Plain Hood](Plain_Hood.md) grant 4% Stealth.
-    -   Arms:
+    -   [**Arms Equipment**](Equipment.md#arms):
         -   [Dark Owl Cloak](Dark_Owl_Cloak.md), [Mercenary's Garb](<Mercenary's_Garb.md>), [Bounty Hunter's Garb](<Bounty_Hunter's_Garb.md>), [Ministry Operative Cloak](Ministry_Operative_Cloak.md), and [Prophet's Operative Cloak](<Prophet's_Operative_Cloak.md>) grant 6% Stealth.
         -   [Sandrunner Wraps](Sandrunner_Wraps.md) grants 4% Stealth.
         -   [Assassin's Cloak](<Assassin's_Cloak.md>) grants 3% Stealth.
-    -   Legs: N/A
-    -   Torso:
+    -   [**Leg Equipment**](Equipment.md#legs): N/A
+    -   [**Torso Equipment**](Equipment.md#torso):
         -   [Shrouded Cape](Shrouded_Cape.md) grants 5% Stealth.
         -   [Dark Owl Cape](Dark_Owl_Cape.md) grants 2% Stealth.
-    -   Face:
-        -   Duelist's Mask, Corrupted Duelist's Mask grant 6% Stealth.
-    -   Earrings:
+    -   [**Face Equipment**](Equipment.md#face):
+        -   [Duelist Mask](Duelist_Mask.md), [Corrupted Duelist Mask](Corrupted_Duelist_Mask.md) grant 6% Stealth.
+    -   [**Ear Equipment**](Equipment.md#ears):
         -   [Master Thief Earrings](Master_Thief_Earrings.md), [Assassin's Earrings](<Assassin's_Earrings.md>), and [Ossified Blood Earrings](Ossified_Blood_Earrings.md) grant 3% Stealth.
-    -   Rings: N/A
-    -   Some Equipment items have the [Lowstride](Talents.md#lowstride) Talent:
+    -   [**Rings**](Equipment.md#rings): N/A
+    -   **Some Equipment items have the [Lowstride](Talents.md#lowstride) Talent**:
         -   [Assassin's Cloak](<Assassin's_Cloak.md>), [Hive Scourge Cuirass](Hive_Scourge_Cuirass.md), and [Tracker's Boots](<Tracker's_Boots.md>)
--   The [Obvious](Boons_and_Flaws.md#obvious) Flaw grants -20% Stealth.
 
 **Calculator [here](https://www.desmos.com/calculator/ar6qiytogo).**
 

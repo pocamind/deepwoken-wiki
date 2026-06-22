@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 216706
+revid: 216801
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4483,7 +4483,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   The teleport has a range limit.
     -   20 second cooldown.
 
--   True Seraph Slash: True Seraph's Spear - Landing the first hit of your critical attack enhances your next critical, giving you access to the Angels' spear smite ability.
+-   True Seraph Slash: [True Seraph Spear](True_Seraph_Spear.md) - Landing the first hit of your critical attack enhances your next critical, giving you access to the Angels' spear smite ability.
     -   This deals 0.5x your weapons scaled damage per hit (4), dealt as typeless damage.
 
 -   True Shatter: [Coldpoint](Coldpoint.md) - Landing a critical shatters your opponent, ridding them of their speed debuffs and dealing true damage scaling off how slow they were.
@@ -5748,7 +5748,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Multiple 
     
     -   10 second cooldown.
 
--   Fictitious Force: Corrupted Duelist's Mask - Reduce the power of all speed boosts you gain by 50%. Deal extra true damage based on how fast you are.
+-   Fictitious Force: [Corrupted Duelist Mask](Corrupted_Duelist_Mask.md) - Reduce the power of all speed boosts you gain by 50%. Deal extra true damage based on how fast you are.
     
     -   Halves the effectiveness of all speed boosts.
     -   Adds true damage to your attacks, with the true damage scaling on your speed boosts and momentum.

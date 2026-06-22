@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 216672
+revid: 216843
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Echoes, Character, Mechanics, Creation, Features absent in Vow of Iron]
@@ -106,7 +106,7 @@ Catching anything with a [Fishing Rod](Fishing_Rod.md) counts.
 | 
 
  | 2 | Drink an [Attribute Flask](Ingredients.md#lotuses).  
-[Attunement Potions](Attunement_Potions.md) do not count. (Must be strength, fortitude, agility, willpower, charisma) |
+[Attunement Potions](Attunement_Potions.md) do not count. (Must be strength, fortitude, agility, intelligence, willpower, charisma) |
 | 
 
  | 2 | Craft a [Master Armor](Outfits.md). |

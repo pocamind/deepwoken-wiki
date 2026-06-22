@@ -1,6 +1,6 @@
 ---
 title: "Iblis, The Fallen Angel"
-revid: 216098
+revid: 216813
 source: https://deepwoken.fandom.com/wiki/Iblis%2C_The_Fallen_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Enemies, Enemies with Oaths, The Starkindred Church, Humanoids with Unobtainable Outfits]
@@ -12,6 +12,7 @@ categories: [Individuals with He/him pronouns, Enemies, Enemies with Oaths, The 
 |---|---|
 | health | 3500 |
 | drops | N/A |
+| weapon | True Seraph Spear |
 | moves | Fire Blade, Flaming Scourge, Flame Ballista, Sinister Halo, Ascension, Celestial Assault |
 | pronouns | He/him[1] |
 
@@ -25,7 +26,7 @@ Iblis, The Fallen Angel, is a powerful [Starkindred](Oath%253A_Starkindred.md) a
 
 ## Moveset
 
-Iblis' arsenal consists of a True Seraph's Spear along with the [Flamecharm](Flamecharm.md) attunement and [Starkindred](Oath%253A_Starkindred.md) Oath:
+Iblis' arsenal consists of a [True Seraph Spear](True_Seraph_Spear.md) along with the [Flamecharm](Flamecharm.md) attunement and [Starkindred](Oath%253A_Starkindred.md) Oath:
 
 | Name/Danger | Description |
 | --- | --- |

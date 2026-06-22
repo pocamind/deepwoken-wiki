@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 214077
+revid: 216844
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1249,7 +1249,7 @@ These Talents are found in the _Frostdrawer_ category.
 |  | Master Frostdrawer  
 (50 Frostdraw) | You can now obtain 3-Star Frostdraw Mantras. (+5 Health) |  |
 |  | Cold Front  
-(25 Frostdraw, Cryonis) | Your Vent is imbued with glacial frost. | Venting creates an ice patch on the floor and applies Chill to any enemy hit by it. |
+(25 Frostdraw) | Your Vent is imbued with glacial frost. | Venting creates an ice patch on the floor and applies Chill to any enemy hit by it. |
 
 **Cryomancer:**
 
@@ -1341,7 +1341,7 @@ These Talents are found in the _Ice Age_ category.
 |  | Frostbite  
 (25 Frostdraw) | Enemies can no longer heal when under the effect of your chill. PvE enemies also net you 5% more [Heal Boost](Status_Effects.md#heal-boost) when they are chilled. |  |
 |  | Frost Buster  
-(45 Frostdraw, 15 Heavy Weapon, Cryonis) | Greatsword Criticals and Greathammer Criticals now leave a place Ice below the path they carve. | Using your Greatsword or Greataxe critical (not Greathammer nor Greatcannon) creates three ice patches in a horizontal line in front of your character. These ice patches last 1 minute 30 seconds. Additionally allows your critical to freeze and damage boats. |
+(45 Frostdraw, 15 Heavy Weapon) | Greatsword Criticals and Greathammer Criticals now leave a place Ice below the path they carve. | Using your Greatsword or Greataxe critical (not Greathammer nor Greatcannon) creates three ice patches in a horizontal line in front of your character. These ice patches last 1 minute 30 seconds. Additionally allows your critical to freeze and damage boats. |
 |  | Frozen Anchor  
 (100 Frostdraw, 100 Weapon) | Apply bottom freeze and chill to your opponent whenever you land a flourish, uppercut, or crit. 10s CD | Successfully flourishing, uppercutting or critting an opponent freezes them, preventing them from rotating their character and moving overall. |
 |  | Frozen Pin-Cushion  

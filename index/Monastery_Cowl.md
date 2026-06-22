@@ -1,6 +1,6 @@
 ---
 title: Monastery Cowl
-revid: 215803
+revid: 216818
 source: https://deepwoken.fandom.com/wiki/Monastery_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Cowls, Equipment with Talents, "Equipment with Non-exclusive Talents"]

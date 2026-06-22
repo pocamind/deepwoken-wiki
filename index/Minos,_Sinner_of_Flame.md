@@ -1,6 +1,6 @@
 ---
 title: "Minos, Sinner of Flame"
-revid: 216135
+revid: 216811
 source: https://deepwoken.fandom.com/wiki/Minos%2C_Sinner_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Starkindred Church, Enemies with Oaths, Individuals with unspecified pronouns, Humanoids with Unobtainable Outfits]
@@ -12,6 +12,7 @@ categories: [Enemies, The Starkindred Church, Enemies with Oaths, Individuals wi
 |---|---|
 | health | 2100 |
 | drops | N/A |
+| weapon | True Seraph Spear |
 | moves | Assault, Critical, Feint, Fire Blade (Starkindred variation), Flaming Scourge, Flame Ballista, Sinister Halo, Ascension, Celestial Assault |
 
 ## Description
@@ -22,7 +23,7 @@ Minos, Sinner of Flame, is a powerful [Starkindred](Oath%253A_Starkindred.md) ap
 
 ## Moveset
 
-Minos' arsenal consists of a True Seraph's Spear along with the [Flamecharm](Flamecharm.md) attunement and [Starkindred](Oath%253A_Starkindred.md) Oath:
+Minos' arsenal consists of a [True Seraph Spear](True_Seraph_Spear.md) along with the [Flamecharm](Flamecharm.md) attunement and [Starkindred](Oath%253A_Starkindred.md) Oath:
 
 | Name/Danger | Description |
 | --- | --- |

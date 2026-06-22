@@ -1,6 +1,6 @@
 ---
 title: Loot Tables
-revid: 216777
+revid: 216797
 source: https://deepwoken.fandom.com/wiki/Loot_Tables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -151,7 +151,7 @@ _A crypt known to hold the [Gran Sudaruska](Gran_Sudaruska.md), protected by Min
     <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Etrean_Siege_Cuirass.md">Etrean Siege Cuirass</a>, <a href="Hive_Scourge_Cuirass.md">Hive Scourge Cuirass</a>, <a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Ministry_Operative_Cloak.md">Ministry Operative Cloak</a>, <a href="Royal_Duelist.md">Royal Duelist</a>, <a href="Winter_Corps_Parka.md">Winter Corps Parka</a></li>
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Etrean_Siege_Sabatons.md">Etrean Siege Sabatons</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Winter_Corps_Boots.md">Winter Corps Boots</a></li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Red_Eye_Pendant.md">Red Eye Pendant</a></li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: Duelist's Mask</li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Duelist_Mask.md">Duelist Mask</a></li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:</li>
     <li><a href="Equipment.md#rings"><b>Rings</b></a>:</li>
   </ul></td>

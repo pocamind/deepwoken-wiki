@@ -1,6 +1,6 @@
 ---
 title: "Abaddon, Sinner of Ice"
-revid: 216134
+revid: 216812
 source: https://deepwoken.fandom.com/wiki/Abaddon%2C_Sinner_of_Ice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Quests, The Starkindred Church, Enemies with Oaths, Individuals with unspecified pronouns, Humanoids with Unobtainable Outfits]
@@ -12,7 +12,7 @@ categories: [Enemies, Quests, The Starkindred Church, Enemies with Oaths, Indivi
 |---|---|
 | health | 2100 |
 | drops | N/A |
-| weapon | True Seraph's Spear |
+| weapon | True Seraph Spear |
 | moves | Assault, Critical, Feint, Ice Eruption, Ice Daggers, Sinister Halo, Ascension, Celestial Assault |
 
 ## Description
@@ -23,7 +23,7 @@ Abbadon, Sinner of Ice, is a powerful [Starkindred](Oath%253A_Starkindred.md) ap
 
 ## Moveset
 
-Abaddon's arsenal consists of a True Seraph's Spear along with the [Frostdraw](Frostdraw.md) attunement and [Starkindred](Oath%253A_Starkindred.md) Oath:
+Abaddon's arsenal consists of a [True Seraph Spear](True_Seraph_Spear.md) along with the [Frostdraw](Frostdraw.md) attunement and [Starkindred](Oath%253A_Starkindred.md) Oath:
 
 | Name/Danger | Description |
 | --- | --- |

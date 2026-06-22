@@ -1,6 +1,6 @@
 ---
 title: Vesque
-revid: 213915
+revid: 216846
 source: https://deepwoken.fandom.com/wiki/Vesque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -39,7 +39,7 @@ Vesque is located in the [Isle of Vigils](Isle_of_Vigils.md) standing under a sm
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td>-Tch. Get lost. And keep my name out of your mouth, you hear?</td>
+  <td>Tch. Get lost. And keep my name out of your mouth, you hear?</td>
 </tr>
 <tr>
   <td>I haven't even said your name?</td>

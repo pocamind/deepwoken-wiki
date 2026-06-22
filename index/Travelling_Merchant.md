@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 215421
+revid: 216791
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, NPCs, Vendors, Random Encounters]
@@ -44,7 +44,7 @@ Sold Items
     <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Brigand's_Cloak.md">Brigand's Cloak</a>, <a href="Delver's_Duster.md">Delver's Duster</a>, <a href="Flameguard_Pauldrons.md">Flameguard Pauldrons</a>, <a href="Fur_Parka.md">Fur Parka</a>, <a href="Glassdancer_Wraps.md">Glassdancer Wraps</a>, <a href="Hive_Scourge_Cuirass.md">Hive Scourge Cuirass</a>, <a href="Imperial_Pauldrons.md">Imperial Pauldrons</a>, <a href="Ironsinger_Heavy_Plate.md">Ironsinger Heavy Plate</a>, <a href="Legion_Pauldrons.md">Legion Pauldrons</a>, <a href="Redsteel_Pauldrons.md">Redsteel Pauldrons</a>, <a href="Royal_Pathfinder.md">Royal Pathfinder</a>, <a href="Star_Duster.md">Star Duster</a>, <a href="Steel_Pauldrons.md">Steel Pauldrons</a>, <a href="Trimmed_Overcoat.md">Trimmed Overcoat</a>, <a href="Vanguard_Brace.md">Vanguard Brace</a>, <a href="Winter_Corps_Parka.md">Winter Corps Parka</a></li>
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Leather_Boots.md">Leather Boots</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Silver_Sabatons.md">Silver Sabatons</a>, <a href="Star_Boots.md">Star Boots</a>, <a href="Woodland_Boots.md">Woodland Boots</a></li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Adventurer's_Scarf.md">Adventurer's Scarf</a>, <a href="Confessor's_Charm.md">Confessor's Charm</a>, <a href="Curseblood_Pendant.md">Curseblood Pendant</a></li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: Duelist's Mask, <a href="Smith's_Goggles.md">Smith's Goggles</a></li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Duelist_Mask.md">Duelist Mask</a>, <a href="Smith's_Goggles.md">Smith's Goggles</a></li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Ruby_Drop_Earrings.md">Ruby Drop Earrings</a>, <a href="Ruby_Pendant_Earrings.md">Ruby Pendant Earrings</a></li>
   </ul></td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 216784
+revid: 216842
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
@@ -613,14 +613,16 @@ _+Talent: [**Immortality**](Talents.md#immortality)_
 **Requires Power 5**
 
  | N/A |
-| File:Investigator's Hat1.png | [Investigator's Hat](<Investigator's_Hat.md>) | _+4 Health_
+|  | [Investigator's Hat](<Investigator's_Hat.md>)  
+(**Styles**) | _+4 Health_
 
 +1 Uncommon Pip  
 +1 Rare Pip  
 _+Talent: [**Give and Take**](Talents.md#give-and-take)_  
 **Requires Power 6**
 
- | N/A |
+ | Styles:  
+Fabric & Leather |
 |  | [Jester's Beret](<Jester's_Beret.md>)  
 (**Unique**) | _+3 Health_  
 _+10 Ether_
@@ -659,7 +661,7 @@ Legs: [Legion Boots](Legion_Boots.md) |
 +2 Rare Pips
 
  | N/A |
-| File:Monastery Champion Cowl Cotton.png | [Monastery Cowl](Monastery_Cowl.md)  
+|  | [Monastery Cowl](Monastery_Cowl.md)  
 (**Styles**)  
 (**Set**)  
 (**Legendary**) | _+5% Stealth_
@@ -2688,7 +2690,7 @@ _+2% Stealth_
 Head: [Dark Owl Chapeau](Dark_Owl_Chapeau.md)  
 Arms: [Dark Owl Cloak](Dark_Owl_Cloak.md)  
 Torso: [Dark Owl Cape](Dark_Owl_Cape.md) |
-| File:Etrean Sashimono Anaconda | [Etrean Sashimono](Etrean_Sashimono.md)  
+|  | [Etrean Sashimono](Etrean_Sashimono.md)  
 (**Styles**)  
 (**Legendary**) | +1 Rare Pip  
 +1 Legendary Pip
@@ -2696,7 +2698,7 @@ Torso: [Dark Owl Cape](Dark_Owl_Cape.md) |
 _+Talent: [**Traditional Execution**](Talents.md#traditional-execution)_
 
  | Styles:  
-TBA |
+Anaconda, Cobra, Forbidden, Joy, Mamba, Peace, Pride, Psammophis & Royal |
 |  | [Fauld of Enmity](Fauld_of_Enmity.md)  
 (**Set**)  
 (**Unique**) | +1 Rare Pip  
@@ -2824,7 +2826,7 @@ Torso: [Monastery Beads](Monastery_Beads.md)
 **Requires Power 5**
 
  | N/A |
-| File:Pathfinder lantern front.png | [Pathfinder Lantern](Pathfinder_Lantern.md)  
+|  | [Pathfinder Lantern](Pathfinder_Lantern.md)  
 (**Styles**) | _+10 Sanity_
 
 +1 Uncommon Pip  
