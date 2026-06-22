@@ -1,6 +1,6 @@
 ---
 title: Duelist Mask
-revid: 215973
+revid: 216781
 source: https://deepwoken.fandom.com/wiki/Duelist_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]

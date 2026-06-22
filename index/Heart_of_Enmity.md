@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 216619
+revid: 216787
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Bosses, Voiced Characters]
@@ -185,7 +185,7 @@ After Heart of Enmity is defeated, everyone who participated is rewarded with a 
   <td>
   <ul>
     <li>One or two <a href="Crowns.md">Crowns</a> (depending on damage dealt)</li>
-    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Baneful_Syrinx.md">Baneful Syrinx</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, non-exclusive <a href="Enchant_Grease.md">Enchant Grease</a>, non-exclusive <a href="Enchant_Stone.md">Enchant Stones</a> (Curse enchants drop more commonly than non-curse enchants), <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Baneful_Syrinx.md">Baneful Syrinx</a>, non-exclusive <a href="Enchant_Grease.md">Enchant Grease</a>, non-exclusive <a href="Enchant_Stone.md">Enchant Stones</a> (Curse enchants drop more commonly than non-curse enchants), <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -234,7 +234,7 @@ After Heart of Enmity is defeated, everyone who participated is rewarded with a 
     <li><a href="Equipment.md#face"><b>Face Equipment</b></a>:
   <ol>
     <li><b>Unique Face</b>: <a href="Thrall_of_Enmity.md"><font>Thrall of Enmity</font></a></li>
-    <li><b>Generic Face</b>: <a href="Aspirant_Mask.md">Aspirant Mask</a>, <a href="Aristocrat_Eyeglasses.md">Aristocrat Eyeglasses</a>, <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>, <a href="Citadel_Frames.md">Browline Citadel Frames</a>, Duelist's Mask, <a href="Headband.md">Headband</a>, <a href="Citadel_Frames.md">Round Citadel Frames</a>, <a href="Ten-Gallon_Bandana.md">Ten-Gallon Bandana</a></li>
+    <li><b>Generic Face</b>: <a href="Aspirant_Mask.md">Aspirant Mask</a>, <a href="Aristocrat_Eyeglasses.md">Aristocrat Eyeglasses</a>, <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>, <a href="Citadel_Frames.md">Browline Citadel Frames</a>, <a href="Duelist_Mask.md">Duelist Mask</a>, <a href="Headband.md">Headband</a>, <a href="Citadel_Frames.md">Round Citadel Frames</a>, <a href="Ten-Gallon_Bandana.md">Ten-Gallon Bandana</a></li>
   </ol></li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Old_Blood_Earrings.md">Old Blood Earrings</a></li>
     <li><a href="Equipment.md#rings"><b>Rings</b></a> <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Diver's_Ring.md">Diver's Ring</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Heavy_Hands_Ring.md">Heavy Hands Ring</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Pariah's_Keepsake.md">Pariah's Keepsake</a>, <a href="Purifying_Ring.md">Purifying Ring</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>, <a href="Ring_of_Wisps.md">Ring of Wisps</a>, <a href="Windmill_Ring.md">Windmill Ring</a></li>

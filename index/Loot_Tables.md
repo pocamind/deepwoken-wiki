@@ -1,6 +1,6 @@
 ---
 title: Loot Tables
-revid: 216620
+revid: 216777
 source: https://deepwoken.fandom.com/wiki/Loot_Tables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -108,13 +108,17 @@ _A snow covered island where the [Trial of One](Trial_of_One.md) is located, con
 
 ## [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) Loot Table
 
-_A crypt known to hold the [Gran Sudaruska](Gran_Sudaruska.md), protected by Ministry experiments. Inside is also the [Shrine of Temptation](Deep_Shrines/Shrine_of_Temptation.md)_
+_A crypt known to hold the [Gran Sudaruska](Gran_Sudaruska.md), protected by Ministry experiments. Inside is also the [Shrine of Temptation](Deep_Shrines/Shrine_of_Temptation.md)._
 
 <table>
 <tbody>
 <tr>
   <td><a href="Outfits.md">Outfit Schematics</a></td>
-  <td><a href="Royal_Etrean_Guard.md">Royal Etrean Guard</a>, <a href="Justicar's_Armor.md">Justicar's Armor</a></td>
+  <td>
+  <ul>
+    <li><b>Expert</b>: <a href="Cloak_of_Winds.md">Cloak of Winds</a></li>
+    <li><b>Master</b>: <a href="Royal_Etrean_Guard.md">Royal Etrean Guard</a>, <a href="Justicar's_Armor.md">Justicar's Armor</a></li>
+  </ul></td>
 </tr>
 <tr>
   <td><b>Miscellaneous</b></td>
@@ -132,9 +136,9 @@ _A crypt known to hold the [Gran Sudaruska](Gran_Sudaruska.md), protected by Min
     <li><b>Alloyed Weapons</b>:</li>
     <li><b>Generic Weapons</b>:
   <ol>
-    <li><b>Light Weapons</b>: <a href="Iron_Cestus.md">Iron Cestus</a></li>
-    <li><b>Medium Weapons</b>: <a href="Katana.md">Katana</a>, <a href="Razor_Cutlass.md">Razor Cutlass</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a>, <a href="Morning_Star.md">Morning Star</a>, <a href="Crescendo.md">Crescendo</a></li>
-    <li><b>Heavy Weapons</b>: <a href="Crescent_Cleaver.md">Crescent Cleaver</a>, <a href="Inquisitor's_Greatsword.md">Inquisitor's Greatsword</a>, <a href="Canorian_Axe.md">Canorian Axe</a></li>
+    <li><b>Light Weapons</b>: <a href="Canor_Fang.md">Canor Fang</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Iron_Cestus.md">Iron Cestus</a></li>
+    <li><b>Medium Weapons</b>: <a href="Katana.md">Katana</a>, <a href="Razor_Cutlass.md">Razor Cutlass</a>, <a href="Morning_Star.md">Morning Star</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a>, <a href="Crescendo.md">Crescendo</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Canorian_Axe.md">Canorian Axe</a>, <a href="Crescent_Cleaver.md">Crescent Cleaver</a>, <a href="Inquisitor's_Greatsword.md">Inquisitor's Greatsword</a></li>
   </ol></li>
     <li><b>Offhand Weapons</b>: <a href="Old_World_Greatshield.md">Old World Greatshield</a></li>
   </ul></td>
@@ -144,8 +148,8 @@ _A crypt known to hold the [Gran Sudaruska](Gran_Sudaruska.md), protected by Min
   <td>
   <ul>
     <li><a href="Equipment.md#head"><b>Head Equipment</b></a>:</li>
-    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Winter_Corps_Parka.md">Winter Corps Parka</a>, <a href="Etrean_Siege_Cuirass.md">Etrean Siege Cuirass</a>, <a href="Hive_Scourge_Cuirass.md">Hive Scourge Cuirass</a>, <a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Ministry_Operative_Cloak.md">Ministry Operative Cloak</a></li>
-    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Winter_Corps_Boots.md">Winter Corps Boots</a>, <a href="Etrean_Siege_Sabatons.md">Etrean Siege Sabatons</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a></li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Etrean_Siege_Cuirass.md">Etrean Siege Cuirass</a>, <a href="Hive_Scourge_Cuirass.md">Hive Scourge Cuirass</a>, <a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Ministry_Operative_Cloak.md">Ministry Operative Cloak</a>, <a href="Royal_Duelist.md">Royal Duelist</a>, <a href="Winter_Corps_Parka.md">Winter Corps Parka</a></li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Etrean_Siege_Sabatons.md">Etrean Siege Sabatons</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Winter_Corps_Boots.md">Winter Corps Boots</a></li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Red_Eye_Pendant.md">Red Eye Pendant</a></li>
     <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: Duelist's Mask</li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:</li>

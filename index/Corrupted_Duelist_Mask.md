@@ -1,6 +1,6 @@
 ---
 title: Corrupted Duelist Mask
-revid: 215926
+revid: 216789
 source: https://deepwoken.fandom.com/wiki/Corrupted_Duelist_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Face, Masks, Corrupt Equipment, Equipment with Talents, Equipment with Exclusive Talents]
@@ -23,6 +23,8 @@ categories: [Vow of Iron Exclusive, Equipment, Face, Masks, Corrupt Equipment, E
 | pass down | No |
 | obtainment | The Depths (Vow of Iron) |
 | description | ... |
+
+Variants: [Duelist Mask](Duelist_Mask.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  

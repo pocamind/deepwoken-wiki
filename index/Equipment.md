@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 216617
+revid: 216784
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
@@ -3092,7 +3092,7 @@ Variants:
  |
 | File:Demon Mask1.png | [Demon Mask](Demon_Mask.md) | +1 Rare Pip | N/A |
 |  | [Dermal Stud](Dermal_Stud.md) | _+1 Health_ | N/A |
-|  | Duelist's Mask | _+6% Stealth_
+|  | [Duelist Mask](Duelist_Mask.md) | _+6% Stealth_
 
 +1 Rare Pip
 
@@ -3610,7 +3610,7 @@ _+2% Wind Armor_
 -   If you want to wear a specific equipment piece, but it has awful stats, you can [smelt](Transmogrification.md) something with good stats and apply the piece you want to wear as vanity.
 -   You can't enchant Torso, Face, Ears, and Ring Equipment. However, there's a couple of instances of these items existing due to being obtainable back in [Verse One](Verse_1.md). There has been evidence shown that unobtainable enchanted equipment won't void even when re-equipped, and the enchant still functions as it normally would (Info from October 12, 2023)
 -   Mythical Pips, despite being said to exist by devs, are unused. No equipment piece uses mythical pips.
--   Highest theoretical **Stealth** kit in game is 30% stealth. (10% [Dark Owl Chapeau](Dark_Owl_Chapeau.md), 6% [Mercenary's Garb](<Mercenary's_Garb.md>)/[Ministry Cloak](Ministry_Cloak.md)/[Dark Owl Cloak](Dark_Owl_Cloak.md), 5% [Shrouded Cape](Shrouded_Cape.md), 6% Duelist's Mask, 3% [Master Thief Earrings](Master_Thief_Earrings.md)/[Ossified Blood Earrings](Ossified_Blood_Earrings.md))
+-   Highest theoretical **Stealth** kit in game is 30% stealth. (10% [Dark Owl Chapeau](Dark_Owl_Chapeau.md), 6% [Mercenary's Garb](<Mercenary's_Garb.md>)/[Ministry Cloak](Ministry_Cloak.md)/[Dark Owl Cloak](Dark_Owl_Cloak.md), 5% [Shrouded Cape](Shrouded_Cape.md), 6% [Duelist Mask](Duelist_Mask.md), 3% [Master Thief Earrings](Master_Thief_Earrings.md)/[Ossified Blood Earrings](Ossified_Blood_Earrings.md))
     -   These will grant a total of 36% Stealth instead if the player is a [Felinor](Felinor.md).
 -   Highest theoretical **Ether** kit in game is 403 ETH. (30 ETH [Moon](Moon_Ring.md) and [Waning Ring](Waning_Ring.md), x2 24 ETH Scaling Rings/[Ferryman's Ring](<Ferryman's_Ring.md>), 68 ETH (Drowned) [Diver's Light Plate](<Diver's_Light_Plate.md>) or equivalent, 44 ETH [Fauld of Enmity](Fauld_of_Enmity.md), 64 ETH [Tillian's Beret](<Tillian's_Beret.md>), 54 ETH [Star Boots](Star_Boots.md) or equivalent, 30 ETH [Hivelord Mask](Hivelord_Mask.md), 35 ETH [Old Blood Earrings](Old_Blood_Earrings.md))
 -   Highest theoretical **Posture** kit is 22.5 Posture. (4x 3 Posture Legendary Rings, 2 Posture [Legion Helmet](Legion_Helmet.md)/[Gladiator Helm](Gladiator_Helm.md)/[Western Outlaw Hat](Western_Outlaw_Hat.md), 1 Posture [Threadwork Kilt](Threadwork_Kilt.md), 1 Posture [Inquisitor's Visor](<Inquisitor's_Visor.md>), 3 Posture [Glassdancer Wraps](Glassdancer_Wraps.md)/[Moonseye Gauntlets](Moonseye_Gauntlets.md)/[Western Outlaw Robes](Western_Outlaw_Robes.md), 3.5 Posture [Wartreads of Enmity](Wartreads_of_Enmity.md) with max Anchor pips)

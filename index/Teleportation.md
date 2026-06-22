@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 211036
+revid: 216775
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -24,7 +24,7 @@ categories: [Resonances]
 
 ### Appearance
 
-On usage, a gold ring expands on the ground around the user. When charged, particles will rise from the ring indicating it's charged state.
+On usage, a gold ring expands on the ground around the user. When charged, particles will rise from the ring indicating its charged state.
 
 Shortly after charging, all players inside **Teleportation's** radius will be teleported to the set waypoint, appearing similar to the teleportation used by [Greathive Aratel](Greathive_Aratel.md)'s fountains.
 
@@ -74,7 +74,7 @@ In the Eastern Luminant, you are given permanent preset waypoints at the followi
 
 ### Resonance Points
 
-When obtained, Teleportation will invest it's Resonance points on the following stats:
+When obtained, Teleportation will invest its Resonance points on the following stats:
 
 -   **Player Markers:** If this stat is invested into, markers can be placed on players. The marker follows them around and persists through servers.
 -   **Max Markers:** The more points that are invested in this stat, the higher your maximum waypoint marker capacity is.
@@ -83,7 +83,7 @@ When obtained, Teleportation will invest it's Resonance points on the following 
 
 If Teleportation is Drowned, in addition to the extra Resonance points to spend, the maximum amount of points that can be invested into the Max Markers stat is increased to 7.
 
-If Teleportation is used in combat, it's cooldown is doubled upon usage.
+If Teleportation is used in combat, its cooldown is doubled upon usage.
 
 ## Trivia
 
