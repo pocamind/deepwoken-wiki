@@ -1,6 +1,6 @@
 ---
 title: Duskpole
-revid: 212372
+revid: 217178
 source: https://deepwoken.fandom.com/wiki/Duskpole
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Staves, Medium Weapons, Weapons with Talents]
@@ -33,7 +33,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Saramaed Hollow, Duke Ishamon Erisia, Sea Events, Songseeker Wilds, Voidwalker Bounties, Minityrsa |
+| obtainment | Chests from:, Saramaed Hollow, Duke Ishamon Erisia, Sea Events, First Layer, Songseeker Wilds, Voidwalker Bounties, Minityrsa |
 | description | ... |
 
 ## Description

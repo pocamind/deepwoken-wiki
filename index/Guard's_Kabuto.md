@@ -1,6 +1,6 @@
 ---
 title: "Guard's Kabuto"
-revid: 217162
+revid: 217180
 source: https://deepwoken.fandom.com/wiki/Guard's_Kabuto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Helmets, Equipment, Head]
@@ -27,7 +27,7 @@ categories: [Equipment with Styles, Helmets, Equipment, Head]
 
 ## Description
 
-The Guard's Kabuto is an Equipment item under the Head category.
+The Guard's Kabuto is an [Equipment](Equipment.md) item under the "Head" category.
 
 ## Trivia
 
