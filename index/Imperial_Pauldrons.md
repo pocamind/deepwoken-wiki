@@ -1,6 +1,6 @@
 ---
 title: Imperial Pauldrons
-revid: 215251
+revid: 217136
 source: https://deepwoken.fandom.com/wiki/Imperial_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 8 |
+| requirements | LVL 8 |
 | weight | 2 |
 | styles | Brushed, Galvanized |
 | innate stats | +7 Health , +1 Posture , +2 Rare Pips |

@@ -1,6 +1,6 @@
 ---
 title: Western Outlaw Mask
-revid: 215047
+revid: 217018
 source: https://deepwoken.fandom.com/wiki/Western_Outlaw_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Face, Masks]

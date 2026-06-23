@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Flame"
-revid: 210268
+revid: 217148
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Medium Weapons, Hero Blades]
@@ -40,7 +40,7 @@ The Hero's Blade of Flame is an elemental weapon serving as the [Flamecharm](Fla
 
 ## Critical
 
-The user plunges the weapon into the ground and unleashes the Hero of Flame, creating a whirlwind of flames around the user.
+The user plunges the weapon into the ground and exhausts the Hero of Flame, creating a whirlwind of flames around the user.
 
 This critical deals 5 Flamecharm damage with 5 scaling, hitting up to 5 times.
 

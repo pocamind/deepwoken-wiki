@@ -1,6 +1,6 @@
 ---
 title: Western Outlaw Boots
-revid: 215046
+revid: 217016
 source: https://deepwoken.fandom.com/wiki/Western_Outlaw_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Boots]

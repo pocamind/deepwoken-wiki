@@ -1,9 +1,9 @@
 ---
 title: The Citadel of Markor
-revid: 199612
+revid: 217154
 source: https://deepwoken.fandom.com/wiki/The_Citadel_of_Markor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Departments and divisions of The Central Authority, The Citadel of Markor, Locations in the Central Luminant]
+categories: ["Content not present in-game", In progress without reason, InProgressPages, Departments and divisions of The Central Authority, The Citadel of Markor, Locations in the Central Luminant]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -17,6 +17,10 @@ notices:
 | territory | Markor[2] |
 | goals | Learning about the Lumen and the Depths., Overcoming the Depths and stopping the Voidsea from consuming all of the Surface. |
 | founded | 1 CE[1] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 
@@ -44,7 +48,7 @@ In 108 CE, a fire broke out in the Citadel's archives, destroying some of their 
 
 -   The Citadel of Markor is loosely based off of the [Mouseion of Alexandria](https://en.wikipedia.org/wiki/Mouseion), a large, ancient institution that was notable for its research into various arts and sciences.
     -   The Library of Alexandria was part of the institution as well.
-        -   An incident in 48 BCE involving Julius Caesar's soldiers setting fire to ships, which spread and destroyed a portion of the library. This may also reflect on the fire that occurred in the Markor Citadel.
+        -   An incident in 48 BCE involved Julius Caesar's soldiers setting fire to ships, which later spread and destroyed a portion of the library. This may also reflect on the fire that occurred in the Markor Citadel.
 
 ## References
 

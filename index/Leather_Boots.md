@@ -1,6 +1,6 @@
 ---
 title: Leather Boots
-revid: 216902
+revid: 217168
 source: https://deepwoken.fandom.com/wiki/Leather_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Boots, Fishing Loot, Echo Unlockables]

@@ -1,6 +1,6 @@
 ---
 title: Ossified Simple Pauldrons
-revid: 215833
+revid: 217118
 source: https://deepwoken.fandom.com/wiki/Ossified_Simple_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Arms, Craftable, Pauldrons, Equipment with Talents, Equipment with Exclusive Talents]
@@ -35,6 +35,8 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 The Ossified Simple Pauldrons are an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Arms" category.
 
 The [Simple Buff](Talents.md#simple-buff) Talent grants a 7.5% damage buff to M1s (15% in Vow of Iron).
+
+  
 
 ## Navigation
 

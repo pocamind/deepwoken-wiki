@@ -1,9 +1,9 @@
 ---
 title: The High Convocation
-revid: 179825
+revid: 217150
 source: https://deepwoken.fandom.com/wiki/The_High_Convocation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, The Citadel of Markor, Councils]
+categories: ["Content not present in-game", Stub pages without reason, StubPages, The Citadel of Markor, Councils]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -14,6 +14,10 @@ notices:
 |---|---|
 | territory | The Citadel of Markor |
 | goals | Controlling all operations within the Citadel of Markor.[1][2] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

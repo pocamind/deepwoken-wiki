@@ -1,6 +1,6 @@
 ---
 title: Simple Pauldrons
-revid: 215097
+revid: 217122
 source: https://deepwoken.fandom.com/wiki/Simple_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
@@ -31,5 +31,5 @@ The Simple Pauldrons are an [Equipment](Equipment.md) item under the "Arms" cate
 
 ## Trivia
 
--   Used by higher-ranking [Knives of Eylis](The_Knives_of_Eylis.md) members (I.E. [Subtle Knife of Eylis](Subtle_Knife_of_Eylis.md)).
+-   Used by higher-ranking [Knives of Eylis](The_Knives_of_Eylis.md) members such as the [Subtle Knife of Eylis](Subtle_Knife_of_Eylis.md).
 -   Can be used to craft the [Ossified Simple Pauldrons](Ossified_Simple_Pauldrons.md) at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).

@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Boots
-revid: 215054
+revid: 217023
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]

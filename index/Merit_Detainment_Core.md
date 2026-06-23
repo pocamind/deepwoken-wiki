@@ -1,6 +1,6 @@
 ---
 title: Merit Detainment Core
-revid: 208888
+revid: 216979
 source: https://deepwoken.fandom.com/wiki/Merit_Detainment_Core
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant, Territory of The Central Authority, Dungeons]
@@ -20,7 +20,7 @@ Deep below the fortress, all that the Authority wishes to extinguish are buried.
 
 ## Overview
 
-The **Merit Detainment Core** is a location in _Deepwoken_. It is a complex prison in [Fort Merit](Fort_Merit.md) that you can enter without any requirements. It's controlled by [The Central Authority](The_Central_Authority.md), containing only the most dangerous people.
+The **Merit Detainment Core** is a location in _Deepwoken_. It is a complex prison below [Fort Merit](Fort_Merit.md) that you can enter without any requirements. It's controlled by [The Central Authority](The_Central_Authority.md), containing only the most dangerous people.
 
 This dungeon is recommended for a party of people preferably [Power](Power.md) 20.
 

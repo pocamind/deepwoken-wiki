@@ -1,6 +1,6 @@
 ---
 title: "Vagabond's Bicorn"
-revid: 214788
+revid: 217102
 source: https://deepwoken.fandom.com/wiki/Vagabond's_Bicorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats]

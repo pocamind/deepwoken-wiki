@@ -1,6 +1,6 @@
 ---
 title: Authority Lieutenant
-revid: 216107
+revid: 216982
 source: https://deepwoken.fandom.com/wiki/Authority_Lieutenant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Central Authority Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -19,7 +19,7 @@ categories: [Enemies, Central Authority Enemies, Ambush Enemies, Enemies that ca
 
 The Authority Lieutenant is an NPC found outside the shipwright hut in [Fort Merit](Fort_Merit.md), via [Faction Ambushes](Faction_Ambushes.md), or fighting with [Legion Captains](Legion_Captain.md) in [Starswept Valley](The_Starswept_Valley.md).
 
-Their appearance consists of a Authority Captain Uniform, a black [Shrouded Cape](Shrouded_Cape.md) and, unusually for an Authority member, [Polarised Eyeglasses](Polarised_Eyeglasses.md), however for some odd reason they wear their [helmet](Authority_Helm.md) too. They are similar in appearance to the [Authority Captain](Authority_Captain.md) and [Authority Commander](<Authority_Commander_(Enemy).md>).
+Their appearance consists of a Authority Captain Uniform, the [Bluesteel Boots](Bluesteel_Boots.md) and [Pauldrons](Bluesteel_Pauldrons.md), a black [Shrouded Cape](Shrouded_Cape.md) and, unusually for an Authority member, [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md), however for some odd reason they wear their [helmet](Authority_Helm.md) too. They are similar in appearance to the [Authority Captain](Authority_Captain.md) and [Authority Commander](<Authority_Commander_(Enemy).md>).
 
 ## Moveset
 

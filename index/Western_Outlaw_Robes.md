@@ -1,6 +1,6 @@
 ---
 title: Western Outlaw Robes
-revid: 215049
+revid: 217017
 source: https://deepwoken.fandom.com/wiki/Western_Outlaw_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms]

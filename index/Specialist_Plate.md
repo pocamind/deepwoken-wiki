@@ -1,6 +1,6 @@
 ---
 title: Specialist Plate
-revid: 214819
+revid: 217049
 source: https://deepwoken.fandom.com/wiki/Specialist_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]

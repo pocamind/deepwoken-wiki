@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 211634
+revid: 217024
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -1286,8 +1286,6 @@ A pair of black plated boots with gold highlights with the _Flashwind_ Talent. F
 #### Set Bonus: \[Shock Trooper Specialist\]
 
 When wearing all equipment in the set, you gain the Shock Trooper Specialist Talent. Upon meeting a 100 accumulative damage threshold with Galebreathe and Thundercall Mantras, strike your opponents with a Stormcall Strike, dealing 40 damage with no scaling. This has no cooldown. [Grand Javelin](Thundercall.md#grand-javelin), [Electro Carve](Thundercall.md#electro-carve), and [Thunder Kick](Thundercall.md#thunder-kick) turn green, gaining a 15% increase to their base damage. [Astral Wind](Galebreathe.md#astral-wind), [Gale Lunge](Galebreathe.md#gale-lunge), and [Champion's Whirlthrow](Galebreathe.md#champions-whirlthrow) turn yellow, gaining a 15% increase to their base damage.
-
-  
 
 ## Trivia
 
