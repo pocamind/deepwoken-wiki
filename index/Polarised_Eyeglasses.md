@@ -1,6 +1,6 @@
 ---
 title: Polarised Eyeglasses
-revid: 196930
+revid: 216859
 source: https://deepwoken.fandom.com/wiki/Polarised_Eyeglasses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Glasses]
@@ -26,7 +26,9 @@ categories: [Equipment, Face, Glasses]
 
 ## Description
 
-The **Polarised Eyeglasses** are an [Equipment](Equipment.md) item under the "Face" category. Eyeglasses can be obtained in Minityrsa and Songseeker Chests.
+Polarised Eyeglasses are an [Equipment](Equipment.md) item under the "Face" category.
+
+Eyeglasses can be obtained in Minityrsa and Songseeker Chests.
 
 ## Trivia
 

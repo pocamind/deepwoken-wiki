@@ -1,6 +1,6 @@
 ---
 title: Sky Warrior Helm
-revid: 215723
+revid: 216936
 source: https://deepwoken.fandom.com/wiki/Sky_Warrior_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Helmets, Equipment with Talents, Equipment with Exclusive Talents]
@@ -32,6 +32,6 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-The Sky Warrior's Helm is an Equipment in the "_Head_" category.
+The Sky Warrior Helm is an Equipment in the "Head" category.
 
 The [Sky Aid](Talents.md#sky-aid) Talent grants 80% damage reduction as long as you are airborne.

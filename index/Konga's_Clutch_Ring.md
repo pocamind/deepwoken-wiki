@@ -1,6 +1,6 @@
 ---
 title: "Konga's Clutch Ring"
-revid: 215341
+revid: 216870
 source: https://deepwoken.fandom.com/wiki/Konga's_Clutch_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -13,7 +13,8 @@ categories: [Equipment, Rings]
 | type | Rings |
 | rarity | Uncommon |
 | selling price | 14 |
-| requirements | N/A |
+| requirements | None |
+| weight | 0.1 |
 | innate stats | +1 Uncommon Pip |
 | bankable | Yes |
 | droppable | Yes |

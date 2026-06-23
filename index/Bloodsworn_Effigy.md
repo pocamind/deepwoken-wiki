@@ -1,6 +1,6 @@
 ---
 title: Bloodsworn Effigy
-revid: 213981
+revid: 216857
 source: https://deepwoken.fandom.com/wiki/Bloodsworn_Effigy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Weapons]
@@ -39,7 +39,6 @@ The Bloodsworn Effigy is an upcoming [Legendary](Weapons.md) spear. It takes the
 
 -   This weapon is the winner of Deepwoken's Third Official Art Contest, held from August 5th to August 7th, 2023.
 -   This weapon was never implemented ingame; even though it won the Official Art Competition in 2023. This was only revealed by **Agamatsu** on a podcast on June 23rd **2025**, nearly **2 years** after it's contest win.[\[1\]](#cite-note-1)
--   It has been over 1000 days. The Bloodsworn Effigy has not yet been added.
 
 ## References
 

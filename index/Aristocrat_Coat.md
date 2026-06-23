@@ -1,6 +1,6 @@
 ---
 title: Aristocrat Coat
-revid: 215329
+revid: 216935
 source: https://deepwoken.fandom.com/wiki/Aristocrat_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Coats, Equipment with Talents, Equipment with Exclusive Talents]
@@ -24,17 +24,15 @@ categories: [Equipment with Styles, Equipment, Arms, Coats, Equipment with Talen
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Summer Isle |
+| obtainment | Summer Isle |
 | description | Any man worth his salt or indeed worth the salt of a hundred other men would have a coat like this, you're sure. |
 
 ## Description
 
-Aristocrat Coat is an [Equipment](Equipment.md) item under the "Arms" category.
-
-It is commonly found in chests from [Summer Isle](Summer_Isle.md).
+The Aristocrat Coat is an [Equipment](Equipment.md) item under the "Arms" category.
 
 [Art of the Deal](Talents.md#art-of-the-deal) reduces the purchase price of items by 10%.
 
 ## Trivia
 
--   The Slate variant of this coat is used by [Duke Erisia](Duke_Ishamon_Erisia.md).
+-   The Slate style of this coat is used by [Duke Erisia](Duke_Ishamon_Erisia.md).

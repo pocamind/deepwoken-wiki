@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 216031
+revid: 216863
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Voiced Characters]
@@ -309,7 +309,7 @@ Exhaustive Loot Table
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td><i>*He yawns deeply.*</i> Oh, it seems like one of you land dwellers has finally decided to wake me up. Well squirt, what do you want?<br>
+  <td><i>*He yawns deeply.*</i> Oh, it seems one of you land dwellers has finally decided to wake me up. Well squirt, what do you want?<br>
   </td>
 </tr>
 <tr>

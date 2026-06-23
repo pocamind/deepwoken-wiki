@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 216801
+revid: 216875
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2231,8 +2231,9 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: 35 Thundercall, Electrify
     -   Mutual Exclusive: Amplified Rage
 
--   Amplified Rage \[Common Talent, Thundercall\] - Amped now grants you an additional +10% weapon damage.
+-   Amplified Rage \[Common Talent, Thundercall\] - Amped now grants you an additional +10% weapon damage. Also self-damage and cooldown by 3x.
     -   Increases Amped's damage buff from +10% to +20%.
+    -   The final sentence in this Talent's description is lying; it does not increase Electrify's cooldown, nor its self damage.
     -   Formerly Known as Raging Static.
     -   Prerequisites: 35 Thundercall, Electrify
     -   Mutual Exclusive: Amplified Reflexes

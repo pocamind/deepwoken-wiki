@@ -1,6 +1,6 @@
 ---
 title: Azure Sentinel Pauldrons
-revid: 216510
+revid: 216949
 source: https://deepwoken.fandom.com/wiki/Azure_Sentinel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
@@ -30,3 +30,7 @@ categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
 ## Description
 
 The Azure Sentinel Pauldrons are an [Equipment](Equipment.md) item in the "Arms" category.
+
+## Trivia
+
+-   Formerly known as Azure Guard Pauldrons.

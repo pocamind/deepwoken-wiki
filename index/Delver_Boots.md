@@ -1,6 +1,6 @@
 ---
 title: Delver Boots
-revid: 214883
+revid: 216896
 source: https://deepwoken.fandom.com/wiki/Delver_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Boots, Craftable, Equipment with Talents, Equipment with Exclusive Talents]

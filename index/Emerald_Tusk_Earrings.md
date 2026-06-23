@@ -1,6 +1,6 @@
 ---
 title: Emerald Tusk Earrings
-revid: 216005
+revid: 216849
 source: https://deepwoken.fandom.com/wiki/Emerald_Tusk_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -28,4 +28,4 @@ Variants: [Gale Enhanced Earrings](Gale_Enhanced_Earrings.md) · [Gale Master's 
 
 ## Description
 
-**Emerald Tusk Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category.
+Emerald Tusk Earrings are an [Equipment](Equipment.md) item under the "Ears" category.

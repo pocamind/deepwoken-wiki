@@ -1,9 +1,9 @@
 ---
 title: Bellmarrow Reave
-revid: 212504
+revid: 216958
 source: https://deepwoken.fandom.com/wiki/Bellmarrow_Reave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Twinblades, Medium Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals"]
+categories: [Weapons, Criticals with M1 tag, Twinblades, Medium Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals"]
 ---
 
 # Bellmarrow Reave
@@ -42,6 +42,8 @@ The Bellmarrow Reave is a [Twinblade](Twinblades.md) weapon in the Medium catego
 The user twirls the blade around before summoning a rain of bells directly above the target. This hits 7 times, with each hit having a **0.3x** scaled damage multiplier. These bells will inflict [Ironsing](Ironsing.md) rods on each of the 7 hits, and will **autogrip** the target if they are knocked or at low health.
 
 The critical has a cooldown of **8 seconds**.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

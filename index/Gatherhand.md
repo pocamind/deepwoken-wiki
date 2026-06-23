@@ -1,6 +1,6 @@
 ---
 title: Gatherhand
-revid: 213613
+revid: 216858
 source: https://deepwoken.fandom.com/wiki/Gatherhand
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Society and culture]
@@ -88,7 +88,6 @@ During 1271 CE[\[3\]](#cite-note-3), [Lance](Lance.md)'s shop Lance's Food bore 
 -   The letter X does not make an ingame appearance, and instead reflects their historical usage in the basic alphabet.
 -   Gatherhand 'O' will mirror itself when used at the end of a word.
 -   Letters in Gatherhand that are underlined represent capitalization.
--   (The Gatherhand letters shown above are from avocado53's Calligraphr font. Thank you for allowing us to use this!)
 
 ## Trivia
 

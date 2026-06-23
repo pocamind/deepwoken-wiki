@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 216755
+revid: 216865
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers]
@@ -10,7 +10,7 @@ categories: [Oaths, The Divers]
 
 | Oath: Dawnwalker | |
 |---|---|
-| oath_req | 30 Kyrsan Medallions Power 15 |
+| oath_req | 30 Kyrsan Medallions Power 10 |
 | effects | +5% PEN, +3 Combat Mantra |
 
 “ You shall connect with the light around us, surrounding all of Lumen. ”
@@ -29,7 +29,7 @@ This Oath utilizes the power of the **Radiant Tones**, a Verse of the Song that 
 
 ## Obtainment
 
-1.  Speak to [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) in Castle Light and ask to learn the secret of "radiant magic". This costs 30 and gives you the base Oath along with its Blinding Dawn Mantra. (Klaris will only allow you to obtain the oath after reaching Power 15 or above)
+1.  Speak to [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) in Castle Light and ask to learn the secret of "radiant magic". This costs 30 and gives you the base Oath along with its Blinding Dawn Mantra. (Klaris will only allow you to obtain the oath after reaching Power 10 or above)
 2.  You can upgrade the Oath in exchange for 15 (per skill) by speaking to Klaris again. The Oath costs 75 (105 if Oath broken previously) in total from base to max. The order you get the upgrades is:
 
 -   Blinding Dawn upon Oath obtainment 30 (60 if Oath broken previously)

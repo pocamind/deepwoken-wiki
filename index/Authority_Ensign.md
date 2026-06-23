@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 216508
+revid: 216904
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Central Authority Enemies, The Central Authority, Character, Origins, Faction Origins]
@@ -199,23 +199,29 @@ Alternative to missions, you can also gain 80 points from [Jailing](Fort_Merit.m
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>Light Weapons</b>: <a href="Central_Dirk.md">Central Dirk</a></li>
+    <li><b>Light Weapons</b>: <a href="Central_Dirk.md">Central Dirk</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a></li>
   </ul></td>
 </tr>
 <tr>
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Handler's_Hood.md">Handler's Hood</a>, <a href="High_Inquisitor's_Hood.md">High Inquisitor's Hood</a>, <a href="Inquisitor's_Hood.md">Inquisitor's Hood</a></li>
-    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Bluesteel_Pauldrons.md">Bluesteel Pauldrons</a>, <a href="Deepwoken_Cloak.md">Deepwoken Cloak</a>, <a href="Fur_Pauldrons.md">Fur Pauldrons</a>, <a href="Imperial_Pauldrons.md">Imperial Pauldrons</a>, <a href="Inquisitor's_Duster.md">Inquisitor's Duster</a>, <a href="Trimmed_Overcoat.md">Trimmed Overcoat</a></li>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Deepwoken_Hood.md">Deepwoken Hood</a></li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Bluesteel_Pauldrons.md">Bluesteel Pauldrons</a>, <a href="Deepwoken_Cloak.md">Deepwoken Cloak</a>, <a href="Fur_Pauldrons.md">Fur Pauldrons</a>, <a href="Imperial_Pauldrons.md">Imperial Pauldrons</a>, <a href="Trimmed_Overcoat.md">Trimmed Overcoat</a></li>
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Fur_Boots.md">Fur Boots</a>, <a href="Grand_Boots.md">Grand Boots</a>, <a href="Imperial_Boots.md">Imperial Boots</a></li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Headband.md">Headband</a>, <a href="Inquisitor's_Visor.md">Inquisitor's Visor</a></li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Headband.md">Headband</a></li>
     <li><a href="Equipment.md#rings"><b>Rings</b></a>:
   <ol>
     <li><b>Generic Rings</b>: <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a></li>
     <li><b>Legendary Rings</b>: <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a></li>
   </ol></li>
+    <li><b>Inquisition Division Exclusive</b>:
+  <ul>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Handler's_Hood.md">Handler's Hood</a>, <a href="High_Inquisitor's_Hood.md">High Inquisitor's Hood</a>, <a href="Inquisitor's_Hood.md">Inquisitor's Hood</a></li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Inquisitor's_Duster.md">Inquisitor's Duster</a></li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Inquisitor's_Visor.md">Inquisitor's Visor</a></li>
+  </ul></li>
   </ul></td>
 </tr>
 </tbody>

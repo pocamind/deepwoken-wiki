@@ -1,6 +1,6 @@
 ---
 title: "Lifeweaver's Hat"
-revid: 215754
+revid: 216916
 source: https://deepwoken.fandom.com/wiki/Lifeweaver's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -16,7 +16,7 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Hats, Equipment with Talent
 | requirements | None |
 | weight | 1 |
 | innate stats | +1 Uncommon Pip |
-| innate talent | Natural HealingIron Gut |
+| innate talent | Natural Healing, Iron Gut |
 | bankable | No |
 | droppable | No |
 | enchantable | Yes |

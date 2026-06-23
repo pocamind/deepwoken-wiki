@@ -1,6 +1,6 @@
 ---
 title: Wormwarder Lantern
-revid: 214970
+revid: 216964
 source: https://deepwoken.fandom.com/wiki/Wormwarder_Lantern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso, Backpack, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Equipment with Styles, Equipment, Torso, Backpack, Craftable, Equip
 | bankable | No |
 | droppable | No |
 | enchantable | No |
-| pass down | No |
+| pass down | Yes |
 | obtainment | Crafting:, Crafting Station + Galewax 2x + Irithine 4x + 4 Spark Gland (Says 1 in-game) |
 | description | A modified version of the lanterns found in sanctuary outposts across the explored Eternal Gale. This one is portable, though only generates enough charge for its user. |
 
