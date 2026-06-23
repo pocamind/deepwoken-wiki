@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 216875
+revid: 217348
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3200,7 +3200,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   _**Reshape and Remold**_ \[Advanced Talent, Ironsing\] - Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting 10 stacks, the opponent will take +5% damage until the stacks drop below 10.
     -   Increases the armor **drain** effect of your rods by 25%, from 2% drain to 2.5%.
     -   The effectiveness of the increased armor drain scales down if you have less than 70 Ironsing.
-    -   5% DMG bonus is currently bugged. (Since Summer 2023)
     -   Your Scrapsinger proc vfx is changed after obtaining this Talent.
     -   Prerequisites: 70 Ironsing, All Scrapsinger Talents
 

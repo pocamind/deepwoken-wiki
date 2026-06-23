@@ -1,6 +1,6 @@
 ---
 title: Gumshoe Hat
-revid: 216873
+revid: 217189
 source: https://deepwoken.fandom.com/wiki/Gumshoe_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats]
@@ -37,7 +37,7 @@ They can be found in chests from [Fort Merit](Fort_Merit.md).
 
 -   The description is a line spoken by [Dick Gumshoe](https://aceattorney.fandom.com/wiki/Dick_Gumshoe) during [Turnabout Samurai](https://aceattorney.fandom.com/wiki/Turnabout_Samurai), the third case in _[Phoenix Wright: Ace Attorney](https://en.wikipedia.org/wiki/Phoenix_Wright:_Ace_Attorney)_.
     -   Dick Gumshoe does not wear a hat.
-    -   The description was added in by developer Naktigonis.[\[1\]](#cite-note-1)
+    -   The description was added by Naktigonis.[\[1\]](#cite-note-1)
 
 ## References
 

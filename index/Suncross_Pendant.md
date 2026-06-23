@@ -1,6 +1,6 @@
 ---
 title: Suncross Pendant
-revid: 214920
+revid: 217302
 source: https://deepwoken.fandom.com/wiki/Suncross_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Torso, Necklaces]

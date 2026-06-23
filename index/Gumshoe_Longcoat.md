@@ -1,6 +1,6 @@
 ---
 title: Gumshoe Longcoat
-revid: 216874
+revid: 217190
 source: https://deepwoken.fandom.com/wiki/Gumshoe_Longcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Coats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -40,7 +40,7 @@ The [Hard Read](Talents.md#hard-read) Talent [Dazes](Status_Effects.md#dazed) yo
 ## Trivia
 
 -   The description is paraphrased from a conversation between [Dick Gumshoe](https://aceattorney.fandom.com/wiki/Dick_Gumshoe) and [Miles Edgeworth](https://aceattorney.fandom.com/wiki/Miles_Edgeworth) during [Bridge to the Turnabout](https://aceattorney.fandom.com/wiki/Bridge_to_the_Turnabout), the fifth case of _[Phoenix Wright: Ace Attorney – Trials and Tribulations](https://en.wikipedia.org/wiki/Phoenix_Wright:_Ace_Attorney_%E2%80%93_Trials_and_Tribulations)_.
-    -   The description was added in by developer Naktigonis.[\[1\]](#cite-note-1)
+    -   The description was added by Naktigonis.[\[1\]](#cite-note-1)
 
 ## References
 

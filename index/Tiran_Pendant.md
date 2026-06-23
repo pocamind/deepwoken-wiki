@@ -1,6 +1,6 @@
 ---
 title: Tiran Pendant
-revid: 214973
+revid: 217347
 source: https://deepwoken.fandom.com/wiki/Tiran_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso, Necklaces, Relics, Equipment with Talents, Equipment with Exclusive Talents]

@@ -1,6 +1,6 @@
 ---
 title: "High Inquisitor's Hood"
-revid: 216878
+revid: 217372
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment of The Central Authority]
@@ -15,7 +15,7 @@ categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment of The Cen
 | selling price | 25 |
 | requirements | Power 5 |
 | weight | 1 |
-| styles | Authority, Black, Blue, Golden, Green, Grey, Red, White |
+| styles | Brown, Dark, Navy, Relentless, Shadow, Smoke, Titan, Vermilion |
 | innate stats | +2 Legendary Pips |
 | innate talent | N/A |
 | bankable | Yes |

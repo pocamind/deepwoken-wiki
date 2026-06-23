@@ -1,6 +1,6 @@
 ---
 title: Temple Sparring Hall (Dungeon)
-revid: 213425
+revid: 217471
 source: https://deepwoken.fandom.com/wiki/Temple_Sparring_Hall_(Dungeon)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Locations, Locations in the Etrean Luminant, Territory of Etrea, Dungeons]
@@ -26,7 +26,7 @@ A solemn sanctuary carved in stone, where warriors hone the dancing steps of war
 
 Temple Sparring Hall is an enormous hall with many hanging lanterns made in a Japanese-like style, surrounded by stone statues and with the lanterns on the roof.
 
-To enter the Temple Sparring Hall, players will have to speak with [Das](Das.md) in the
+To enter the Temple Sparring Hall, players will have to speak with [Das](Das.md) in the non-dungeon variant of the [Temple Sparring Hall](Temple_Sparring_Hall.md) in the Etrean Luminant, or speak to [Regarde](Regarde.md) at the Heart Plaza in [Greathive Aratel](Greathive_Aratel.md).
 
 ## Trivia
 

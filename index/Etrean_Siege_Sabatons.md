@@ -1,6 +1,6 @@
 ---
 title: Etrean Siege Sabatons
-revid: 215616
+revid: 217405
 source: https://deepwoken.fandom.com/wiki/Etrean_Siege_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Sabatons]
@@ -15,7 +15,7 @@ categories: [Equipment with Styles, Equipment, Legs, Sabatons]
 | selling price | 25 |
 | requirements | Power 5 |
 | weight | 1 |
-| styles | Anaconda, Cobra, Default, Mamba, Psammophis |
+| styles | Anaconda, Cobra, Mamba, Psammophis, Steel |
 | innate stats | +4 Health |
 | innate talent | N/A |
 | set | Etrean Siege Cuirass, Etrean Siege Sabatons |

@@ -1,6 +1,6 @@
 ---
 title: "Handler's Hood"
-revid: 216881
+revid: 217378
 source: https://deepwoken.fandom.com/wiki/Handler's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment of The Central Authority]
@@ -15,7 +15,7 @@ categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment of The Cen
 | selling price | 25 |
 | requirements | Power 5 |
 | weight | 1 |
-| styles | Brown, Dark, Navy Relentless, Shadow, Smoke, Titan, Vermillion |
+| styles | Brown, Dark, Navy Relentless, Shadow, Smoke, Titan, Vermilion |
 | innate stats | +2 Legendary Pips |
 | innate talent | N/A |
 | bankable | Yes |

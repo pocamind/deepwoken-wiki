@@ -1,6 +1,6 @@
 ---
 title: Gale Boots
-revid: 216903
+revid: 217258
 source: https://deepwoken.fandom.com/wiki/Gale_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -33,6 +33,12 @@ This content is not accessible outside of this gamemode.
 The Gale Boots are an [Equipment](Equipment.md) item under the "Legs" category.
 
 The [Wind Step](Talents.md#wind-step) Talent allows you to double jump by placing the winds at your feet. Slide jumping will cause a wind leap, greatly propelling you forwards. The [Gale Boots](Talents.md#gale-boots) Talent halves all fall damage taken.
+
+## Gallery
+
+Gale Boots uses the same model as [Leather Boots](Leather_Boots.md).
+
+  
 
 ## Trivia
 

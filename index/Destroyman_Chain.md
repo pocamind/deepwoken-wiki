@@ -1,6 +1,6 @@
 ---
 title: Destroyman Chain
-revid: 215636
+revid: 217398
 source: https://deepwoken.fandom.com/wiki/Destroyman_Chain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Equipment, Torso, Necklaces]
@@ -34,5 +34,5 @@ It resembles the ultimate creature, [Destroyman III](Destroyman_III.md).
 
 ## Trivia
 
--   The +0.1% Physical Armor is a joke referencing the [Confessor's Charm](<Confessor's_Charm.md>) and [Pendant of Order](Pendant_of_Order.md), which are widely considered the most optimized torso equipment due to their +3.0% Physical Armor.
+-   The +0.1% Physical Armor is a joke referencing the [Confessor's Charm](<Confessor's_Charm.md>) and [Pendant of Order](Pendant_of_Order.md), which are widely considered the most optimal torso equipment due to their +3.0% Physical Armor.
 -   Only 11 of these chains exist.

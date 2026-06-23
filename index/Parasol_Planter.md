@@ -1,9 +1,9 @@
 ---
 title: Parasol Planter
-revid: 214733
+revid: 217289
 source: https://deepwoken.fandom.com/wiki/Parasol_Planter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World Event, Equipment, Head, Hats, Equipment with Talents, Equipment with Exclusive Talents, Equipment with Styles]
+categories: [Equipment with Styles, World Event, Equipment, Head, Hats, Equipment with Talents, Equipment with Exclusive Talents]
 ---
 
 # Parasol Planter
@@ -15,6 +15,7 @@ categories: [World Event, Equipment, Head, Hats, Equipment with Talents, Equipme
 | selling price | 100 |
 | requirements | Power 10 |
 | weight | 1 |
+| styles | Fabric, Leather, Robust |
 | innate stats | +2 Health +3 Rare Pips |
 | innate talent | Grotesque Resilience |
 | bankable | Yes |

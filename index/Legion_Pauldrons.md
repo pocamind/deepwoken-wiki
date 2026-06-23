@@ -1,6 +1,6 @@
 ---
 title: Legion Pauldrons
-revid: 214882
+revid: 217225
 source: https://deepwoken.fandom.com/wiki/Legion_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Pauldrons, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -32,3 +32,7 @@ categories: [Equipment with Styles, Equipment, Arms, Pauldrons, Equipment with T
 The Legion Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category.
 
 The [Polite Awakening](Talents.md#polite-awakening) Talent recovers 15% of your max health after getting up from being downed with a short cooldown. This Talent will not activate if you heal to 20% of your maximum health while knocked.
+
+## Trivia
+
+-   Formerly known as "Khan Pauldrons."

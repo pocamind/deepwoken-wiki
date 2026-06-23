@@ -1,6 +1,6 @@
 ---
 title: Hallowed Monastery Beads
-revid: 215907
+revid: 217265
 source: https://deepwoken.fandom.com/wiki/Hallowed_Monastery_Beads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Torso, Equipment with Talents, Equipment with Exclusive Talents]
@@ -40,4 +40,4 @@ The [Focused Strikes](Talents.md#focused-strikes) Talent increases the posture d
 
 ## Trivia
 
--   The original [Monastery Champion](Monastery_Champion_Robes.md) set was designed by J3STTR, being the winning entry of the "Vigils Equipment Art Concept Contest", leading to its addition.
+-   The original Monastery Champion set was designed by J3STTR, being the winning entry of the "Vigils Equipment Art Concept Contest", leading to its addition.

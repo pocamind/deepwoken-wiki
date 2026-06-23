@@ -1,6 +1,6 @@
 ---
 title: Shrouded Cape
-revid: 215080
+revid: 217239
 source: https://deepwoken.fandom.com/wiki/Shrouded_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso, Capes]
@@ -13,7 +13,7 @@ categories: [Equipment with Styles, Equipment, Torso, Capes]
 | type | Torso |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 5 |
+| requirements | LVL 5 |
 | weight | 0.5 |
 | styles | Black, Dusk, Midnight, Red, White |
 | innate stats | +5% Stealth , +2% Elemental Armor , +1 Rare Pip, +1 Legendary Pip |

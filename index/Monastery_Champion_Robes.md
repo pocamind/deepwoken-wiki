@@ -1,6 +1,6 @@
 ---
 title: Monastery Champion Robes
-revid: 214966
+revid: 217279
 source: https://deepwoken.fandom.com/wiki/Monastery_Champion_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Equipment with Talents, Equipment with Exclusive Talents]
@@ -15,7 +15,7 @@ categories: [Equipment with Styles, Equipment, Arms, Equipment with Talents, Equ
 | selling price | 50 |
 | requirements | Power 12 |
 | weight | 2 |
-| styles | Champion (Cotton), Champion (Linen), Oni (Cotton), Oni (Linen) |
+| styles | Champion (Cotton, Linen), Oni (Cotton, Linen) |
 | innate stats | +8 Health , +1 Posture , +2 Legendary Pips, +1 Rare Pip |
 | innate talent | Temple Guard |
 | set | Monastery Cowl, Monastery Champion Robes, Monastery Beads |
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Arms, Equipment with Talents, Equ
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Maestro Evengarde Rest (3%), Etris: Siege, The Diluvian Mechanism, Fishing Chests |
+| obtainment | Chests from:, Maestro Evengarde Rest, Etris: Siege, The Diluvian Mechanism, Fishing Chests |
 | description | ... |
 
 ## Description

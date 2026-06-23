@@ -1,6 +1,6 @@
 ---
 title: Monastery Cowl
-revid: 216818
+revid: 217280
 source: https://deepwoken.fandom.com/wiki/Monastery_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Cowls, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Head, Cowls, Equipment with Talen
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Maestro Evengarde Rest (3%), Etris: Siege, Fishing Chests |
+| obtainment | Chests from:, Maestro Evengarde Rest, Etris: Siege, Fishing Chests |
 | description | ... |
 
 Variants: [Gale Enhanced Cowl](Gale_Enhanced_Cowl.md) · [Hallowed Monastery Cowl](Hallowed_Monastery_Cowl.md)

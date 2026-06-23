@@ -1,6 +1,6 @@
 ---
 title: Etrean Siege Cuirass
-revid: 215615
+revid: 217396
 source: https://deepwoken.fandom.com/wiki/Etrean_Siege_Cuirass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Cuirasses, Etrea, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -15,7 +15,7 @@ categories: [Equipment with Styles, Equipment, Arms, Cuirasses, Etrea, Equipment
 | selling price | 25 |
 | requirements | Power 10 |
 | weight | 2 |
-| styles | Anaconda, Cobra, Default, Mamba, Psammophis |
+| styles | Anaconda, Cobra, Mamba, Psammophis, Steel |
 | innate stats | +8 Health , +1 Uncommon Pip, +1 Rare Pip, +1 Legendary Pip |
 | innate talent | Battle Tendency |
 | set | Etrean Siege Cuirass, Etrean Siege Sabatons |

@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 215499
+revid: 217322
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Mechanics, Relics]
@@ -256,8 +256,6 @@ After a certain amount of damage has been negated, the pendant will go on cooldo
 
  |
 | 
-
-File:Warmaster Medallion Relic.png
 
  | **[Warmaster's Medallion](<Warmaster's_Medallion.md>)** - A Medallion that grants the "[Actions Speak Louder](Talents.md#actions-speak-louder)" Talent, reducing your Critical Attack cooldown by 20%, but increasing your [Resonance](Resonance.md) cooldown by 20%.
 

@@ -1,6 +1,6 @@
 ---
 title: Emar Vend
-revid: 216155
+revid: 217470
 source: https://deepwoken.fandom.com/wiki/Emar_Vend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Enemies with Oaths, Central Authority defectors]
@@ -14,12 +14,15 @@ categories: [Pathfinder Exclusive, Enemies, Enemies with Oaths, Central Authorit
 | drops | None |
 | weapon | Darksteel Greatsword |
 | moves | Assault, Critical, Restrain, Caltrops, Vent |
+| pronouns | He/him[1] |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-Emar Vend is a rogue Authority [Chainwarden](Oath%253A_Chainwarden.md) who is the captor of an [Authority Soldier](Authority_Soldier.md). He is part of the obtainment of [Oath: Chainwarden](Oath%253A_Chainwarden.md).
+## Description
+
+Emar Vend is a rogue Authority [Chainwarden](Oath%253A_Chainwarden.md) who is the captor of an [Authority Soldier](Chained_Captive.md). He is part of the obtainment of [Oath: Chainwarden](Oath%253A_Chainwarden.md).
 
 He wields a Darksteel Greatsword with the Metal [Enchantment](Enchantments.md) and uses [Chainwarden](Oath%253A_Chainwarden.md) mantras.
 
@@ -103,3 +106,8 @@ Emar Vend wields a Metal Darksteel Greatsword, Two of the three [Chainwarden](Oa
 -   ☕︎ Harmless
 
  |
+
+## References
+
+1.  [↑](#cite-ref-1) NPC dialogue: [Chained Captive](Chained_Captive.md)  
+    _He's been camping out in this old fort, waiting for the right moment to steal one of the Company's boats._

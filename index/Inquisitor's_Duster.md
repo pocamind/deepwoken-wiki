@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Duster"
-revid: 215883
+revid: 217463
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Dusters, Equipment of The Central Authority]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Arms, Dusters, Equipment of The C
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Doom of Caeranthil (World Event) |
+| obtainment | The Doom of Caeranthil (World Event)Authority Ambush |
 | description | ... |
 
 Variants: [Gallery](<Inquisitor's_Duster/Gallery.md>)

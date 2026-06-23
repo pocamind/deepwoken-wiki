@@ -1,6 +1,6 @@
 ---
 title: Ordergeddon
-revid: 201309
+revid: 217304
 source: https://deepwoken.fandom.com/wiki/Ordergeddon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Events]

@@ -1,6 +1,6 @@
 ---
 title: Kindred Edict
-revid: 212393
+revid: 217473
 source: https://deepwoken.fandom.com/wiki/Kindred_Edict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Weapons with Talents, "Core-Attribute based weapons"]
@@ -66,3 +66,4 @@ These criticals have the M1 tag, allowing them to proc M1-exclusive [Talents](Ta
 -   There was bug on this weapon's release where the stats and description of this weapon change depending on the Luminant the player was in, gaining +1 base damage, +5% PEN, 25 higher Medium requirement, and having its core attribute requirement be changed from Body to Agility in the [Etrean Luminant](Luminants.md). Additionally, it had a Unique item rarity in the Etrean Luminant, scrapping any [enchantments](Enchantments.md) you may have had on the weapon if you swapped Luminants with it.
     -   This was due to the Etrean Luminant servers not being updated, so they still had the old version of the Kindred Edict.
 -   Judging by the aerial critical and the weapon's model, Kindred Edict could be a _Hollow Knight_ reference. The aerial critical resembles the pogo from Hollow Knight's base attack, and the weapon's model is similar to that of Hollow Knight's [Nail](https://hollowknight.fandom.com/wiki/Nail).
+-   Uniquely, this weapon uses the running attack animation from [Spears](Spears.md).

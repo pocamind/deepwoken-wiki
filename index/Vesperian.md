@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 211601
+revid: 217252
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -153,3 +153,7 @@ The old Blindseer mask
 -   As with other hivekin, Vesperians share similar names. (Vesperian: Sekhigi, Ganymede: Sekhige, Chrysid: Sehika)
 -   The developers, Nuttoons and Arch\_Mage, have the [Primal Vesperian](Primal_Vesperian.md) aspect as a [Developer Spec](Developer_Specs.md), giving them horned variants of the mask, most likely based on the [primal aspid](https://hollowknight.fandom.com/wiki/Primal_Aspid) enemies in Hollow Knight.
 -   The 16th mask on the list is taken from one of Arch\_Mage's first games, [Yggdrasil](https://www.roblox.com/games/361122402/Yggdrasil). Seen on one of the monsters, the mask in-game is slightly altered, [as can be seen here](https://imgur.com/M9wJnet).
+
+## References
+
+1.  ↑ [1.00](#cite-ref-merch-1-0) [1.01](#cite-ref-merch-1-1) [1.02](#cite-ref-merch-1-2) [1.03](#cite-ref-merch-1-3) [1.04](#cite-ref-merch-1-4) [1.05](#cite-ref-merch-1-5) [1.06](#cite-ref-merch-1-6) [1.07](#cite-ref-merch-1-7) [1.08](#cite-ref-merch-1-8) [1.09](#cite-ref-merch-1-9) [1.10](#cite-ref-merch-1-10) [1.11](#cite-ref-merch-1-11) [1.12](#cite-ref-merch-1-12) [1.13](#cite-ref-merch-1-13) [1.14](#cite-ref-merch-1-14) [1.15](#cite-ref-merch-1-15) [1.16](#cite-ref-merch-1-16) [1.17](#cite-ref-merch-1-17) [1.18](#cite-ref-merch-1-18) [1.19](#cite-ref-merch-1-19) [1.20](#cite-ref-merch-1-20) [1.21](#cite-ref-merch-1-21) Some Vesperian masks were given official names through the names of corresponding Roblox accessories sold as [Deepwoken merchandise](Deepwoken_UGC.md).

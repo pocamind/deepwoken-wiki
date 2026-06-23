@@ -1,9 +1,9 @@
 ---
 title: Old Stewards
-revid: 217163
+revid: 217192
 source: https://deepwoken.fandom.com/wiki/Old_Stewards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Content not present in-game", Stub pages without reason, StubPages, Old Stewards]
+categories: [Stub pages without reason, StubPages, Old Stewards]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -15,10 +15,6 @@ notices:
 | subunits | Society of Luminance |
 | territory | Adrofalis' laboratory |
 | goals | Preserve & research knowledge of the Old World, Prevent knowledge of the Old World from falling into the wrong hands |
-
-**Content is not present in-game**  
-The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
-E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 The Old Stewards are a secret organization who preserve and research knowledge of Old World before the Tides.[\[1\]](#cite-note-1) The group has had several, now defunct, precursor organizations, including the Society of Luminance.[\[2\]](#cite-note-2)
 
