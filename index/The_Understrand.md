@@ -1,6 +1,6 @@
 ---
 title: The Understrand
-revid: 213440
+revid: 217535
 source: https://deepwoken.fandom.com/wiki/The_Understrand
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant, Locations in the First Layer, Territory of The Ministry, Lawless Territory]
@@ -38,7 +38,7 @@ The Understrand is primarily used for the obtainment of the [Deepspindle](Deepsp
 -   Alternatively, the Ministry Agent will always initiate combat with the player if the entered through the Ministry Cache event inside various districts in [The City of the Drowned](The_City_of_the_Drowned.md) or at [Minityrsa](Minityrsa.md). They will spawn a chest that has a chance to drop the [Deepspindle](Deepspindle.md), [Deepscorn Casque](Deepscorn_Casque.md), [Darkened Bastion](Darkened_Bastion.md), [Dormant Splinter](Dormant_Splinter.md), [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>), [The Strange Tome](Strange_Tomes.md) Volume 3, [Crypt Blade](Crypt_Blade.md), [Shadebolt](Shadebolt.md).
     -   Through this method, the player will fight the following enemy depending on their reputation:
         -   Low Ministry Reputation: [Ministry Agent](Ministry_Agent.md)
-        -   Friend with ministry and neutral with divers (may need more testing) [Mudskipper Broodlord](Mudskipper_Broodlord.md)
+        -   Somewhat high friend with ministry and neutral with divers (may need more testing) [Mudskipper Broodlord](Mudskipper_Broodlord.md)
         -   Ally Ministry and Low Divers Reputation: [Black Diver](<Black_Diver_(NPC).md>)
 
 ## Trivia
