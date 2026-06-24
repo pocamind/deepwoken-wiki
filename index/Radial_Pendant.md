@@ -1,6 +1,6 @@
 ---
 title: Radial Pendant
-revid: 217311
+revid: 217525
 source: https://deepwoken.fandom.com/wiki/Radial_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Vow of Iron Exclusive, Equipment, Torso, Necklaces, Equipment with Talents, Equipment with Exclusive Talents]
@@ -38,4 +38,4 @@ The [Praise The Sun](Talents.md#praise-the-sun) Talent grants increased health r
 
 ## Trivia
 
--   The [Wheel Pendant](Wheel_Pendant.md) was previously named "Old World Sun Pendant". This was seen as a continuity issue, as the [Suncross](Suncross.md) has always looked the same throughout time, so nobody would ever recognize the design as a "sun". The Radial shares its design with the Wheel Pendant, but remained named "Solar Pendant" for a considerable amount of time, thus still referencing the concept of the sun and reintroducing this continuity issue.
+-   The Radial Pendant was previously named "Solar Pendant".

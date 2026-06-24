@@ -1,6 +1,6 @@
 ---
 title: Naan Zakshun
-revid: 215813
+revid: 217528
 source: https://deepwoken.fandom.com/wiki/Naan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, Vendors, NPCs, NPCs located in the First Layer, Circle of Honour members]
@@ -383,7 +383,7 @@ Sold Items
     <li><b>Head</b>: <a href="Blackalloy_Helm.md">Blackalloy Helm</a><abbr></abbr>, <a href="Bloodcurdle_Cowl.md">Bloodcurdle Cowl</a><abbr></abbr>, <a href="Hallowed_Monastery_Cowl.md">Hallowed Monastery Cowl</a><abbr></abbr>, <a href="Rogue_Assassin's_Hood.md">Rogue Assassin's Hood</a><abbr></abbr>, <a href="Specialist_Helmet.md">Specialist Helmet</a></li>
     <li><b>Arms</b>: <a href="Blackalloy_Pauldrons.md">Blackalloy Pauldrons</a><abbr></abbr>, <a href="Bluestone_Pauldrons.md">Bluestone Pauldrons</a>, <a href="Bounty_Hunter's_Garb.md">Bounty Hunter's Garb</a><abbr></abbr>, <a href="Reinforced_Authority_Plate.md">Reinforced Authority Plate</a><abbr></abbr>, <a href="Reinforced_Enforcer_Plate.md">Reinforced Enforcer Plate</a><abbr></abbr>, <a href="Specialist_Plate.md">Specialist Plate</a>, <a href="Trackstar_Pauldrons.md">Trackstar Pauldrons</a><abbr></abbr>, <a href="Veteran_Ranger's_Brace.md">Veteran Ranger's Brace</a><abbr></abbr></li>
     <li><b>Legs</b>: <a href="Ascended_Outlaw_Boots.md">Ascended Outlaw Boots</a>, <a href="Bluestone_Boots.md">Bluestone Boots</a>, <a href="Celestial_Boots.md">Celestial Boots</a>, <a href="Specialist_Boots.md">Specialist Boots</a></li>
-    <li><b>Torso</b>: <a href="Blessed_Nomad_Pendant.md">Blessed Nomad Pendant</a><abbr></abbr>, <a href="Brilliant_Cape.md">Brilliant Cape</a>, Solar Pendant<abbr></abbr>, <a href="Trueblood_Pendant.md">Trueblood Pendant</a><abbr></abbr></li>
+    <li><b>Torso</b>: <a href="Blessed_Nomad_Pendant.md">Blessed Nomad Pendant</a><abbr></abbr>, <a href="Brilliant_Cape.md">Brilliant Cape</a>, <a href="Radial_Pendant.md">Radial Pendant</a><abbr></abbr>, <a href="Trueblood_Pendant.md">Trueblood Pendant</a><abbr></abbr></li>
     <li><b>Face</b>: <a href="Ascended_Outlaw_Mask.md">Ascended Outlaw Mask</a>, <a href="Authority_Voltspark_Mask.md">Authority Voltspark Mask</a>, <a href="Bloodcurdle_Mask.md">Bloodcurdle Mask</a><abbr></abbr>, <a href="Oni_Mask.md">Oni Mask</a><abbr></abbr></li>
     <li><b>Rings</b>: <a href="Azure_Duelist_Ring.md">Azure Duelist Ring</a><abbr></abbr>, <a href="Divine_Cast_Ring.md">Divine Cast Ring</a><abbr></abbr>, <a href="Evengardes_Keepsake.md">Evengardes Keepsake</a><abbr></abbr></li>
   </ul></li>

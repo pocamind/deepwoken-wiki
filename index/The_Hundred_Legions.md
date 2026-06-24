@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 215460
+revid: 217522
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Hundred Legions]
@@ -30,9 +30,26 @@ The Legion has several war heroes that are depicted by either their ornaments or
 
 The Hundred Legions consists of one hundred legions.
 
--   The [11th Legion](The_Hundred_Legions.md) consists of [Amara](Amara.md), [Atra](Atra.md), [Caitus](Caitus.md), [Gaius](Gaius.md), and Lars.
-    -   The 11th Legion also has associated equipment pieces named after it: [11th Legion Plate](11th_Legion_Plate.md).
--   The [49th Legion](The_Hundred_Legions.md) consists of [Polymarch Legion Soldiers](<Legion_Soldier_(The_Polymarch).md>) and [General Titus Juventius](General_Titus_Juventius.md), now known as [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
+-   The [11th Legion](The_Hundred_Legions.md).
+    -   consists of [Amara](Amara.md), [Atra](Atra.md), [Caitus](Caitus.md), [Gaius](Gaius.md), and Lars.
+    -   Has associated outfit, [11th Legion Plate](11th_Legion_Plate.md).
+-   The 21st Legion.
+    -   Has an associated [Specialist set](Specialist_Plate.md) style.
+-   The [49th Legion](The_Hundred_Legions.md).
+    -   consists of [Polymarch Legion Soldiers](<Legion_Soldier_(The_Polymarch).md>) and [General Titus Juventius](General_Titus_Juventius.md), now known as [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
+    -   Has an associated [Specialist set](Specialist_Plate.md) style.
+-   The 77th Legion.
+    -   Implied to be the inventers of the [Imperator's Fury](<Imperator's_Fury.md>)
+-   The 84th Legion.
+    -   Has an associated [Specialist set](Specialist_Plate.md) style.
+
+Other notable members of the hundred legions.
+
+-   The Evanspear Centurion.
+    -   Has associated equipment, [Evanspear War set](Evanspear_War_Helmet.md) and [Reinforced War set](Reinforced_War_Helmet.md).
+    -   Has an associated weapon, the [Evanspear Greataxe](Evanspear_Greataxe.md)
+-   The Immortals
+    -   Has an associated [Specialist set](Specialist_Plate.md) style.
 
 ## Relationships
 

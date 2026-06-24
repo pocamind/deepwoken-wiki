@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 217348
+revid: 217523
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4920,7 +4920,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     
     -   Reduces the guardbreak stun by 75%; from 1.05s to ~0.26s.
 
--   Terrapod Tracer: [Terraplate Pauldrons](Terraplate_Pauldrons.md) - Deal 0.5% of our opponent's health to opponents who heal off you.
+-   Terrapod Tracer: [Terraplate Pauldrons](Terraplate_Pauldrons.md) - Deal 0.5% of your opponent's health to opponents who heal off you.
     -   Though not mentioned in the description, this only applies while the target is affected by [Anti-Heal](Status_Effects.md#anti-heal). Any potency of Anti-Heal works.
     -   Opponents who attempt to heal off you (e.g. with [Bloodless Gems](Bloodless_Gem.md)) while affected by Anti-Heal take 0.5% of their maximum health as damage.
     -   This has a 0.5 second cooldown.
