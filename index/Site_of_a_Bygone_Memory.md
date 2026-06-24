@@ -1,6 +1,6 @@
 ---
 title: Site of a Bygone Memory
-revid: 217182
+revid: 217518
 source: https://deepwoken.fandom.com/wiki/Site_of_a_Bygone_Memory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, NPCs]

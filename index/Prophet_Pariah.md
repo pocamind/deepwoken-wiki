@@ -1,9 +1,9 @@
 ---
 title: Prophet Pariah
-revid: 203209
+revid: 217510
 source: https://deepwoken.fandom.com/wiki/Prophet_Pariah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Deceased characters]
+categories: ["Content not present in-game", Deceased characters]
 ---
 
 # Prophet Pariah
@@ -12,6 +12,10 @@ categories: [Deceased characters]
 |---|---|
 | alias | Prophet PariahProphet Pariah of the Lullaby Isles |
 | death | Deceased prior to the events of the game |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 “ The unending cacophony of voices millionfold assaults your senses, leaving you bereft of thought. They soon trail off, almost ashamed. ”
 

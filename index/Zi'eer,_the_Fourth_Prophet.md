@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 215669
+revid: 217505
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters, Enemies, Humanoids with Unobtainable Outfits]
@@ -32,7 +32,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 Zi'eer, the Fourth Prophet of the Ministry, is the final [boss](Bosses.md) and main antagonist of the [Vow of Iron](Vow_of_Iron.md) gamemode.
 
-He, along with [The Ministry](The_Ministry.md), stormed [Etris Palace](Etris_Palace.md), killing [Lord Guardian Ji'ang](<Ji'ang.md>) and usurping [Etrea](Etrea.md)'s throne as its Regent for once and for all. From there, he shielded the palace with an impenetrable barrier to ensure that he could not be taken down, and placed a Mind Veil over the people in Etris.
+He, along with [The Ministry](The_Ministry.md), stormed [Etris Palace](Etris_Palace.md), killing [Lord Guardian](Lord_Guardian.md) [Ji'ang](<Ji'ang.md>) and usurping [Etrea](Etrea.md)'s throne as its Regent for once and for all. From there, he shielded the palace with an impenetrable barrier to ensure that he could not be taken down, and placed a Mind Veil over the people in Etris.
 
 If [the Inheritor](The_Inheritor.md) challenges him within the [Etris Palace](Etris_Palace.md), they are transported to [The Throne of Lies](The_Throne_of_Lies.md), where they must defeat Zi'eer. Regardless of the outcome, this is the end of their journey through Etrea's past. Post-fight, the Inheritor encounters the [Reclaimer](Reclaimer_of_the_Recollection.md) in the [Fragments of Else](Fragments_of_Else.md), informing them that nobody was truly able to best Zi'eer, but he hopes memories from the mementos might reveal a weakness, should the Inheritor fail to defeat Zi'eer.
 
@@ -62,7 +62,9 @@ The [Solborn](Solborn.md) & [Void Glutton](Void_Glutton.md) [Memento](Mementos.m
 -   ⛉ Unblockable
 -   § Dodgeable
 
- |  |
+ | 
+
+ |
 | 
 
 **Tendril Cage**  
@@ -85,7 +87,9 @@ Avoid
 -   ⛉ Unblockable
 -   ↻ Undodgeable
 
- |  |
+ | 
+
+ |
 | 
 
 **Tendril Cascade**  
@@ -105,7 +109,9 @@ Dodge
 -   ⛉ Unblockable
 -   § Dodgeable
 
- |  |
+ | 
+
+ |
 | 
 
 **Flash Equalizer**  
@@ -128,7 +134,9 @@ Jump
 -   ↻ Undodgeable
 -   ↑ Jump-Avoidable
 
- |  |
+ | 
+
+ |
 | 
 
 **Brushstrokes of Black**  
@@ -148,7 +156,9 @@ _Uses Telegraph_
 
 Avoid
 
- |  |
+ | 
+
+ |
 | **Attacks unlocked on Phase 2** |
 | 
 
@@ -188,7 +198,9 @@ Parry
 -   ⛉ Unblockable
 -   ↻ Undodgeable
 
- |  |
+ | 
+
+ |
 | 
 
 **Blinking Divebomb**  
@@ -211,7 +223,9 @@ Avoid
 -   ⛉ Unblockable
 -   § Dodgeable
 
- |  |
+ | 
+
+ |
 | 
 
 **Reeled Requiem**  
@@ -230,7 +244,9 @@ Avoid
 -   ⛉ Unblockable
 -   § Dodgeable
 
- |  |
+ | 
+
+ |
 | 
 
 **Enhanced Requiem**  
@@ -252,13 +268,15 @@ Dodge
 -   ⛉ Unblockable
 -   § Dodgeable
 
- |  |
+ | 
+
+ |
 | 
 
 **Blinkstrike**  
 (★★★)
 
- | Zi'eer will move to a specific distance from the Inheritor, briefly highlighted in yellow before dashing towards them and spinning through the air to slice them with his heel. If the Inheritor is hit, they will take moderate damage and be ragdolled. Otherwise, Zi'eer will follow up with **Flash Equalizer**.
+ | Zi'eer will move to a specific distance from the Inheritor, briefly highlighted in yellow before dashing towards them and spinning through the air to slice them with his heel. If the Inheritor is hit, they will take moderate damage and be ragdolled.
 
 -   Zi'eer is fully capable of going through walls with this attack.
     -   As a result, standing away from the walls of the arena is advised: Zi'eer may dash inside a wall, and do one or more attacks that become completely unreactable as a result of the wall hiding his animations.
@@ -274,7 +292,22 @@ Duck
 -   ↻ Undodgeable
 -   ↓ Crouch/Slide
 
- |  |
+Otherwise upon being not hit by the first attack, Zi'eer will follow up with **Flash Equalizer**.
+
+_Uses Telegraph_
+
+[JumpTelegraph](Combat_Mechanics.md#jump)
+
+Jump
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   ↑ Jump-Avoidable
+
+ | 
+
+ |
 | 
 
 **Lightspeed Strike**  
@@ -291,7 +324,9 @@ Duck
 -   ⛉ Unblockable
 -   § Dodgeable
 
- |  |
+ | 
+
+ |
 | 
 
 **The Master of the House**  
@@ -308,7 +343,9 @@ Duck
 -   ⛉ Unblockable
 -   ↻ Undodgeable
 
- |  |
+ | 
+
+ |
 
 ### Passives
 
@@ -353,6 +390,7 @@ Duck
 -   The boss fight was designed by developer par.[\[1\]](#cite-note-1)
 -   Zi'eer has unique dialogue with the Inheritor within the Etris Palace dependent on how many times they've talked to them. This can be achieved by leaving The Throne of Lies while not combat tagged (such as in the cutscene), leaving the game while loading, or simply being unable to connect to the Instanced fight.
     -   This seems to indicate that, at some point during development, fighting Zi'eer did not wipe the player's slot, whether or not you lost or won. It remains unclear why this was scrapped, though the dialogue remains in-game regardless.
+-   Zi'eer is the only boss fight in the Vow of Iron storyline that doesn't allow you to revive, unlike [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>), [Dravik, The Rat King](Dravik,_The_Rat_King.md) & [True Heart of Enmity](True_Heart_of_Enmity.md).
 
 ## References
 

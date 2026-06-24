@@ -1,6 +1,6 @@
 ---
 title: Eyes of Ethiron
-revid: 216720
+revid: 217519
 source: https://deepwoken.fandom.com/wiki/Eyes_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, "Weapons with Multi-Attunement Scaling", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Legendary Weapons, Medium Weapons, Swords, Reforged Weapons, "Dual-wielded Weapons", "Attunement-based Weapons"]
@@ -56,7 +56,7 @@ The Eyes of Ethiron has two critical attacks, with it reflecting on the user's w
 
 For the One-Handed (Dual Wielded) Critical, the user swirls forward, leaving a trail of Shadow-imbued wind behind.
 
-For the Two-Handed Critical, the user unleashes a malevolent tornado, sending targets upwards when hit.
+For the Two-Handed Critical, the user unleashes a malevolent tornado, sending targets upwards when hit. Notably, this makes opponents that are flung upwards able to be [Air Countered](Combat_Mechanics.md).
 
 These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Talents.md) effects. Both criticals have a cooldown of **10 seconds**.
 

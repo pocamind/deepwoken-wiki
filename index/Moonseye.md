@@ -1,6 +1,6 @@
 ---
 title: Moonseye
-revid: 214507
+revid: 217508
 source: https://deepwoken.fandom.com/wiki/Moonseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages requiring a cleanup, In progress without reason, InProgressPages, Natural phenomena]
@@ -37,7 +37,7 @@ The Starkindred Faith see the Moonseye as a gate to a promised land that they wi
 
 -   The Moonseye projects a Light that is believed to be the same as a Lightkeeper's.
 -   The Celestials, namely [Zhatarn](Zhatarn.md) had siphoned souls out of the Moonseye for power, causing said souls pain as they are ripped away from their eternal rest.[\[2\]](#cite-note-2)
--   A wide amount of evidence supports the idea that the Moonseye contains a mass of souls, and if proven true, may hold the souls of the [Old Dead](Glossary.md#old-dead).
+-   A wide amount of evidence supports the idea that the Moonseye contains a mass of souls, and if proven true, may hold the souls of the [Old Dead](Glossary.md#the-old-dead).
     -   Following the Tides, the Moonseye no longer pulls souls of the departed into it, but rather the Depths.
         -   The Depths has a stronger pull on souls than the Moonseye. Even so, the Moonseye's pull is still noticeable, given the swirling vortex that surrounds it.
     -   The mural when reading the [Moonseye Tome](Moonseye_Tome.md) depicts souls floating towards the Moonseye.

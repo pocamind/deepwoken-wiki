@@ -1,9 +1,9 @@
 ---
 title: Zhatarn
-revid: 196952
+revid: 217509
 source: https://deepwoken.fandom.com/wiki/Zhatarn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Individuals with He/him pronouns, Celestials, The Heavens]
+categories: ["Content not present in-game", Individuals with He/him pronouns, Celestials, The Heavens]
 ---
 
 # Zhatarn
@@ -15,6 +15,10 @@ categories: [Individuals with He/him pronouns, Celestials, The Heavens]
 | species | Celestial |
 | pronouns | He/him[2] |
 | affiliation | The Heavens (formerly)[2][3] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Descriptions
 

@@ -1,6 +1,6 @@
 ---
 title: Terraplate Pauldrons
-revid: 216572
+revid: 217514
 source: https://deepwoken.fandom.com/wiki/Terraplate_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pauldrons, Equipment, Arms, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -33,5 +33,9 @@ The [Terrapod Tracer](Talents.md#terrapod-tracer) Talent makes your opponents wh
 ## Trivia
 
 -   This item is used as a crafting component for the [Crimson Terraplate Pauldrons](Crimson_Terraplate_Pauldrons.md).
+
+  
+
+## Navigation
 
 1.  ↑ [1.0](#cite-ref-unenchantable-1-0) [1.1](#cite-ref-unenchantable-1-1) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

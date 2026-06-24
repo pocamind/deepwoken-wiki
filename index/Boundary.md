@@ -1,6 +1,6 @@
 ---
 title: Boundary
-revid: 201549
+revid: 217507
 source: https://deepwoken.fandom.com/wiki/Boundary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mechanics]
@@ -8,7 +8,7 @@ categories: [Vow of Iron Exclusive, Mechanics]
 
 # Boundary
 
-###### (Not to be confused with [The Boundary](Lore.md#the-boundary), the space between Lumen and The Depths.)
+_Not to be confused with [The Boundary](Lore.md#the-boundary), the space between Lumen and The Depths._
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
