@@ -1,11 +1,9 @@
 ---
 title: Captain Solaire
-revid: 216174
+revid: 217541
 source: https://deepwoken.fandom.com/wiki/Captain_Solaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Enemies, Enemies that can wield Enchantments, Central Authority Enemies]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Pathfinder Exclusive, Enemies, Enemies that can wield Enchantments, Central Authority Enemies]
 ---
 
 # Captain Solaire

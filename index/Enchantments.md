@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 216675
+revid: 217611
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -70,7 +70,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 
 [View main page](Astral.md)
 
-File:Astral.gif
+[Enchant Astral](Astral.md)
 
 _Grants +20% weapon damage in PvE. Call down stars alongside your critical attacks, and after parrying thrice._
 
@@ -145,7 +145,7 @@ Blazing [Enchant Stone](Enchant_Stone.md):
 
 [View main page](Bluster.md)
 
-File:Bluster.gif
+[Enchant Bluster](Bluster.md)
 
 _After landing a few stacks of Bluster, start a countdown to an explosion that scales off your m1 damage. Land attacks during this countdown to make it explode faster. This explosion scales with your weapon investment._
 
@@ -269,7 +269,7 @@ Deferred [Enchant Stone](Enchant_Stone.md):
 
 [View main page](Detonation.md)
 
-File:Detonationgif.gif
+[Enchant Detonation](Detonation.md)
 
 _Once enough stacks have been applied, an explosion is detonated._
 
@@ -360,7 +360,7 @@ Elastic [Enchant Stone](Enchant_Stone.md):
 
 [View main page](Erebus.md)
 
-File:Erebus1.gif
+[Enchant Erebus](Erebus.md)
 
 _An enchant once lost to time, now given to the mighty. When landing a critical, make your opponent forget how to use a mantra for a minute._
 
@@ -566,7 +566,7 @@ Heroism [Enchant Stone](Enchant_Stone.md):
 
 [View main page](Kyrsan_Chill.md)
 
-File:Kyrsan Chill.gif
+[Enchant Kyrsan Chill](Kyrsan_Chill.md)
 
 _On critical hits, apply a slow that increases with each crit. At 5 stacks fully encase your opponent in ice._
 
@@ -683,7 +683,7 @@ Nemesis [Enchant Stone](Enchant_Stone.md):
 
 [View main page](Nightbringer.md)
 
-File:NightbringerEnchant.gif
+[Enchant Nightbringer](Nightbringer.md)
 
  | 
 
@@ -753,7 +753,7 @@ Obfuscation [Enchant Stone](Enchant_Stone.md):
 
 [View main page](<Parasol's_Blight.md>)
 
-File:Parasol's Blight.gif
+[Enchant Parasol's Blight](<Parasol's_Blight.md>)
 
 _Hitting a player infects their body with Parasol's Blight. If a player who is infected is killed, their corpse is turned into one of the Parasol's Minions. This also has a chance of proccing on PvE enemies you kill._
 
@@ -784,7 +784,7 @@ Parasol's Blight Enchant Stone can be obtained by exchanging 1 [Parasol Part](Pa
 
 [View main page](<Providence's_Thorns.md>)
 
-File:Enchant Providence Thorns.gif
+[Enchant Providence's Thorns](<Providence's_Thorns.md>)
 
 _Parrying attacks damages your foes._
 
@@ -967,7 +967,7 @@ Stone [Enchant Stone](Enchant_Stone.md):
 
 [View main page](Storm.md)
 
-File:NewStormEnchant.gif
+[Enchant Storm](Storm.md)
 
 _Shock your foes on hit every 5s. Rain will upgrade this shock into a lightning bolt called down from above._
 
@@ -1011,7 +1011,7 @@ Storm [Enchant Stone](Enchant_Stone.md):
 
 [View main page](Stormbreaker.md)
 
-File:Stormbreakergif.gif
+[Enchant Stormbreaker](Stormbreaker.md)
 
 _Your critical attack is replaced with Stormbreaker Hurl, allowing you to launch your weapon. Shock your foes on hit every 5s. Occasionally, a lightning bolt may be called down from above._
 
@@ -1056,7 +1056,7 @@ Stormbreaker [Enchant Stone](Enchant_Stone.md):
 
 [View main page](<Suffocated_(enchantment).md>)
 
-File:Suffocated.gif
+[Enchant Suffocated](<Suffocated_(enchantment).md>)
 
 _Landing a critical, uppercut, flourish, or offhand attack procs suffocation._
 
@@ -1081,7 +1081,7 @@ Suffocated Enchant Stone can be crafted at the [Lost Forge](Lost_Forge_of_Leiuna
 
 [View main page](Tears_of_the_Edenkite.md)
 
-File:Tears of edenkite.gif
+[Enchant Tears of the Edenkite](Tears_of_the_Edenkite.md)
 
 _On critical attacks and flourishes, produce homing bubble projectiles. 20s CD_
 
@@ -1126,7 +1126,7 @@ Tears of the Edenkite [Enchant Stone](Enchant_Stone.md):
 
 [View main page](Umbral_Knight.md)
 
-File:Umbralknightgif2.gif
+[Enchant Umbral Knight](Umbral_Knight.md)
 
 _On hit, the Umbral Knight will strike your foes for 20% of your weapon's damage after a 0.25s delay. 5s CD._
 
@@ -1259,7 +1259,7 @@ Wild [Enchant Stone](Enchant_Stone.md):
 
 [View main page](Windswept.md)
 
-File:Windswept.gif
+[Enchant Windswept](Windswept.md)
 
 _After landing enough stacks, proc winded on your opponent. The duration scales with your weapon investment._
 
@@ -1302,7 +1302,7 @@ Windswept Enchant Stone can as a chest drop from [Titus Fulminus Destellus](Titu
 
 [View main page](Curse_of_Captain_Greene.md)
 
-File:Curse of Captain Greene Gif.gif
+[Enchant Curse of Captain Greene](Curse_of_Captain_Greene.md)
 
 _Known throughout the Summer Company, many heard of the famous treasurer Captain Greene. You inherit his strange ability of gaining damage the more rich you are. However since you aren't Captrain \[_[sic](https://en.wikipedia.org/wiki/sic)_\] Greene himself, you lose notes whenever you get hit. A strange curse indeed..._
 
@@ -1333,7 +1333,7 @@ Curse of Captain Greene Enchant Stone can be obtained by trading 1 [Exotic Hide]
 
 [View main page](Curse_of_Repulsion.md)
 
-File:Curse.gif
+[Enchant Curse of Repulsion](Curse_of_Repulsion.md)
 
 _When you block attacks, you knock your attacker backwards. You receive +30% chip damage._
 
@@ -1376,7 +1376,7 @@ Curse of Repulsion [Enchant Stone](Enchant_Stone.md):
 
 [View main page](Curse_of_the_Authoritative.md)
 
-File:COA.gif
+[Enchant Curse of the Authoritative](Curse_of_the_Authoritative.md)
 
 _On critical, uppercut, or flourish, apply Authoritative on your opponent making them take 50% more posture damage. When you get guardbroken, take 50% more damage._
 
@@ -1448,7 +1448,7 @@ Curse of the Bloodthirsty [Enchant Stone](Enchant_Stone.md):
 
 [View main page](Curse_of_the_No_Life_King.md)
 
-File:Curse of the no life king.gif
+[Enchant Curse of the No Life King](Curse_of_the_No_Life_King.md)
 
 _Grants passive regen and damages the sanity of your foes, but succumb to the insanity much faster, lose twice as much blood, and never be more than a step away from death. The amount of healing scales with your weapon stat invested._
 
@@ -1498,7 +1498,7 @@ Curse of the No Life King [Enchant Stone](Enchant_Stone.md):
 
 [View main page](Curse_of_the_Unbidden.md)
 
-File:Curse of the unbidden.gif
+[Enchant Curse of the Unbidden](Curse_of_the_Unbidden.md)
 
 _Your critical attack is replaced with Unbidden Counter, restoring posture and stunning your attacker. Your attacks drain Ether on hit._
 
@@ -1543,7 +1543,7 @@ Curse of the Unbidden [Enchant Stone](Enchant_Stone.md):
 
 [View main page](Curse_of_Void.md)
 
-File:Curse of Void Battleaxe.gif
+[Enchant Curse of Void](Curse_of_Void.md)
 
 _Every enemy you slay while equipping this weapon will always be Drowned. Enemies hit will also experience reduced healing. It also applies 10 seconds of [Ether Sunder](Status_Effects.md#ether-sunder) to PvE enemies._
 
@@ -1576,7 +1576,7 @@ Curse of Void Enchant Stone can be obtained by exchanging 25 [Void Spires](Void_
 
 [View main page](<Curse_of_Ysley's_Ember.md>)
 
-File:Rhaemens ember.gif
+[Enchant Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>)
 
 _Once enough stacks have been applied, the Fire of Life geminates. The explosion deals a random amount of damage and grants temporary health to the affected targets._
 
@@ -2254,6 +2254,30 @@ Unobtainable
 
  |
 
+## Trivia
+
+-   Curse of the No Life King has the most individual changes of any thing in Deepwoken, and is made fun of within the community as being the most nerfed thing in the game.
+-   Enchanted equipment used to not be able to be smelted by [Jarvis](Jarvis.md). When attempted, he would respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else."
+-   Having a shield, offhand pistol, or parrying dagger equipped along with an enchant will transfer the visual effect and properties of said enchant to the offhand.
+    -   Equipping an enchanted item as a sidearm will have its enchantment be overridden by your main weapon, including the lack of an enchantment.
+-   Providence of Storms, an enchant widely believed to be a removed enchant that combined Providence's Thorns and Obfuscation, was proven to be fake by Developer yayafino on January 1, 2023 on [DaboSenpai's stream](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir).
+-   Astral previously required having met a [Wishmaker](Developer_Specs.md#iltria-leafre-spellhardt-retired) to obtain the enchant.
+-   If you plan to use Deferred for its damage increase, do note that unless your damage is above or equal to 83, 61, or 50 for heavy medium and light respectfully, it is generally better to use Detonation instead.
+-   Most, if not all curse enchantments emit sound when equipped, with some being louder than others.
+-   In Verse 1, it was possible to obtain enchanted torso, face, or ring equipment.
+-   The thunder strike caused by using Storm and Stormbreaker during the rain trains your [Thundercall](Thundercall.md) by a seemingly noticeable portion.
+-   If you were to have more than three equipment enchants equipped at once via unobtainable items, one of those enchants will be automatically disabled. Head, arms, and leg equipment that cannot normally be enchanted also count towards this limit.
+-   There is an exceptionally small chance that _any_ head, arms, and legs equipment can be enchanted upon dropping in a chest or being crafted, even if they are unenchantable via any other means. This allows some players to obtain items like a Drowned [Necrotic Cowl](Necrotic_Cowl.md).
+-   A few enchants are based on other series and shows.
+    -   Elastic is a reference to Hisoka's Bungee Gum from _Hunter x Hunter_, hence why it was called Bungee Gum previously.
+    -   Nemesis' visuals and sound effects are based off the cursed status from _Spiral Knights_.
+    -   Bounce, Viscosity, Deferred and Stench are most likely a reference to glyphs and enchantments from _Shattered Pixel Dungeon._
+    -   Stormbreaker is based mechanically on Thor from _God of War_ and it's namesake is the mythical axe _Stormbreaker_ wielded by Thor from _Avengers: Infinity War._
+    -   The sound effect for the Displacement proc is taken from _The Legend of Zelda: Breath of the Wild's_ Remote Bomb explosion.
+    -   Curse of The No Life King is a reference to [the No Life King](https://grimgar.fandom.com/wiki/No-Life_King) from _Fantasy of Grimgar and Ash_. It might also be a reference to _Hellsing_, where Alucard's alias is "No-Life King".[\[1\]](#cite-note-1)
+
+  
+
 ## Changelogs
 
 -   **[January 2nd, 2022](Version_History/2022-2021.md#january-2nd-2022)** - [Hero Blade of Flame, Frost, Lightning, Shadow & Wind](Hero_Blades.md) can no longer be enchanted.
@@ -2275,33 +2299,11 @@ Unobtainable
 -   **[July 12th, 2024](Version_History/2024.md#july-12th-2024)** - The weapon enchant [Curse of Repulsion](Curse_of_Repulsion.md) was added.
 -   **[August 23rd, 2024](Version_History/2024.md#august-23rd-2024)** - Equipment enchantments can now be obtained via [Enchant Grease](Enchant_Grease.md) [Relic](Relics.md) through [Laplace](Laplace.md) or [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
 -   **[February 1st, 2025](Version_History/2025.md#february-1st-2025)** - The weapon enchant [Curse of Rhaemen's Ember](<Curse_of_Ysley's_Ember.md>) is added.
--   **[July 7th, 2025](Version_History/2025.md#july-7th-2025)** - The weapon enchants [Void](Curse_of_Void.md), [Parasol's Blight](<Parasol's_Blight.md>) and [Nightbringer](Nightbringer.md) were added, the equipment enchantment [Rain](<Rain_(enchantment).md>) was also added.
--   **[July 15th, 2025](Version_History/2025.md#july-15th-2025)** - The weapon enchant [Void](Curse_of_Void.md) was renamed to [Curse of Void](Curse_of_Void.md).
+-   **[July 7th, 2025](Version_History/2025.md#july-7th-2025)** - The weapon enchants Void, [Parasol's Blight](<Parasol's_Blight.md>) and [Nightbringer](Nightbringer.md) were added, the equipment enchantment [Rain](<Rain_(enchantment).md>) was also added.
+-   **[July 15th, 2025](Version_History/2025.md#july-15th-2025)** - The weapon enchant Void was renamed to [Curse of Void](Curse_of_Void.md).
 -   **[July 25th, 2025](Version_History/2025.md#july-25th-2025)** - The weapon enchants [Windswept](Windswept.md), [Curse of the Authoritative](Curse_of_the_Authoritative.md), and [Bluster](Bluster.md) were added
 -   **[August 4th, 2025](Version_History/2025.md#august-4th-2025)** - [Curse of Rhaemen's Ember](<Curse_of_Ysley's_Ember.md>) was renamed to [Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>)
 -   **[Febuary 16th, 2026](Version_History/2026.md#febuary-16th-2026)** - The [Kyrsan Chill](Kyrsan_Chill.md) weapon enchant was added, [Curse of Captain Greene](Curse_of_Captain_Greene.md) and [Suffocated](<Suffocated_(enchantment).md>) weapon enchants were made publically obtainable.
-
-## Trivia
-
--   Curse of the No Life King has the most individual changes of any thing in Deepwoken, and is made fun of within the community as being the most nerfed thing in the game.
--   Enchanted equipment used to not be able to be smelted by [Jarvis](Jarvis.md). When attempted, he would respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else."
--   Having a shield, offhand pistol, or parrying dagger equipped along with an enchant will transfer the visual effect and properties of said enchant to the offhand.
-    -   Equipping an enchanted item as a sidearm will have its enchantment be overridden by your main weapon, including the lack of an enchantment.
--   Providence of Storms, an enchant widely believed to be a removed enchant that combined Providence's Thorns and Obfuscation, was proven to be fake by Developer yayafino on January 1, 2023 on [DaboSenpai's stream](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir).
--   Astral previously required having met a [Wishmaker](Developer_Specs.md#iltria-leafre-spellhardt-retired) to obtain the enchant.
--   If you plan to use Deferred for its damage increase, do note that unless your damage is above or equal to 83, 61, or 50 for heavy medium and light respectfully, it is generally better to use Detonation instead.
--   Most, if not all curse enchantments emit sound when equipped, with some being louder than others.
--   In Verse 1, it was possible to obtain enchanted torso, face, or ring equipment.
--   The thunder strike caused by using Storm and Stormbreaker during the rain trains your [Thundercall](Thundercall.md) by a seemingly noticeable portion.
--   If you were to have more than three equipment enchants equipped at once via unobtainable items, one of those enchants will be automatically disabled. Head, arms, and leg equipment that cannot normally be enchanted also count towards this limit.
--   There is an exceptionally small chance that _any_ head, arms, and legs equipment can be enchanted upon dropping in a chest or being crafted, even if they are unenchantable via any other means. This allows some players to obtain items like a Drowned [Necrotic Cowl](Necrotic_Cowl.md).
--   A few enchants are based on other series and shows.
-    -   Elastic is a reference to Hisoka's Bungee Gum from _Hunter x Hunter_, hence why it was called Bungee Gum previously.
-    -   Nemesis' visuals and sound effects are based off the cursed status from _Spiral Knights_.
-    -   Bounce, Viscosity, Deferred and Stench are most likely a reference to glyphs and enchantments from _Shattered Pixel Dungeon._
-    -   Stormbreaker is based mechanically on Thor from _God of War_ and it's namesake is the mythical axe _Stormbreaker_ wielded by Thor from _Avengers: Infinity War._
-    -   The sound effect for the Displacement proc is taken from _The Legend of Zelda: Breath of the Wild's_ Remote Bomb explosion.
-    -   Curse of The No Life King is a reference to [the No Life King](https://grimgar.fandom.com/wiki/No-Life_King) from _Fantasy of Grimgar and Ash. It might also be a reference to Hellsing, where Alucard's alias is "No-Life King"._[\[1\]](#cite-note-1)
 
 ## References
 

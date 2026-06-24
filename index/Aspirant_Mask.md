@@ -1,6 +1,6 @@
 ---
 title: Aspirant Mask
-revid: 216695
+revid: 217537
 source: https://deepwoken.fandom.com/wiki/Aspirant_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Face, Masks]
@@ -30,3 +30,7 @@ categories: [Equipment with Styles, Equipment, Face, Masks]
 The Aspirant Mask is an [Equipment](Equipment.md) item under the "Face" category.
 
 Each Aspirant Mask has a triangular shape. At the top, two horns gradually curve out, and three cylindrical slits on each side are incised into the mask for sight.
+
+## Trivia
+
+The final sentence of the description is similar to the quote from Quran 2:156 "Indeed, to Allah we belong, and to him we'll return".
