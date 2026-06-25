@@ -1,6 +1,6 @@
 ---
 title: Lullaby Isles
-revid: 216692
+revid: 217720
 source: https://deepwoken.fandom.com/wiki/Lullaby_Isles
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Content not present in-game", Locations in the Central Luminant, Locations, The Moonlit Faith]
@@ -11,8 +11,6 @@ categories: ["Content not present in-game", Locations in the Central Luminant, L
 **Content is not present in-game**  
 The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
 E.G. a character mentioned in a book doesn't exist as an interactible NPC.
-
-  
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Nanji
-revid: 215814
+revid: 217789
 source: https://deepwoken.fandom.com/wiki/Nanji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Etrea]
@@ -42,7 +42,7 @@ Completing their sidequest will reward you with EXP, positive [Etrea](Etrea.md) 
 
 ## Location
 
-Nanji is located at the bridge heading towards the [Barber](Barber.md) and [Nerin](Nerin.md) at [Etrea](Etrea.md).
+Nanji is located at the bridge heading towards the [Barber](Barber.md) and [Nerin](Nerin.md) at [Etris](Etris.md).
 
 ## Dialogue
 

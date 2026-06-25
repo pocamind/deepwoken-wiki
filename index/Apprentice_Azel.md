@@ -1,11 +1,11 @@
 ---
-title: Azel Corbet
-revid: 217735
-source: https://deepwoken.fandom.com/wiki/Azel_Corbet
+title: Apprentice Azel
+revid: 217736
+source: https://deepwoken.fandom.com/wiki/Apprentice_Azel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
-# Azel Corbet
+# Apprentice Azel
 
 Redirect to:
 

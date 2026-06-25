@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 216466
+revid: 217790
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, World Event, Monsters, Bosses]
@@ -43,6 +43,7 @@ This giant foe's moveset is relatively simple and is easy to avoid; however it d
 
 -   Autogrips players if they are knocked.
 -   If the player is guardbroken through this attack, they will not be poisoned.
+-   This attack will **go through dodge** unless you have talents like [Ghost](Talents.md).
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable
@@ -58,6 +59,7 @@ This giant foe's moveset is relatively simple and is easy to avoid; however it d
  | The Parasol spits out a random Monster, varied to a [Mudskipper Brute](Mudskipper_Brute.md), [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Void Thresher](Thresher.md), and [Nautilodaunt](Nautilodaunt.md). It can only spawn one type of creature at a time, and can sometimes spawn two of them.
 
 -   Parasol mostly uses this after getting a hit with any of its moves. Therefore, the less hits you take, the less additional enemies you have to deal with.
+-   Interestingly, getting guardbroken by **Pierce** does not activate this move.
 
 -   𓆩✧𓆪 Parryable
 -   ⛉ Unblockable

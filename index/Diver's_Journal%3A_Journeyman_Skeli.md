@@ -1,6 +1,6 @@
 ---
 title: "Diver's Journal: Journeyman Skeli"
-revid: 213158
+revid: 217730
 source: https://deepwoken.fandom.com/wiki/Diver's_Journal%3A_Journeyman_Skeli
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books, Diver Journals]
@@ -10,7 +10,7 @@ categories: [Books, Diver Journals]
 
 ## Description
 
-_**Diver's Journal: Journeyman Skeli**_ is a [Book](Books.md) found in the first floor of the [Second Layer](Second_Layer.md).
+_**Diver's Journal: Journeyman Skeli**_ is a [Book](Books.md) found in the first floor of the [Second Layer](Second_Layer.md), written by and collected from the corpse of [Journeyman Skeli](<Abandoned_Diver_(Journeyman_Skeli).md>).
 
 ## Text
 

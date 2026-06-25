@@ -1,6 +1,6 @@
 ---
 title: Curse of the No Life King
-revid: 217649
+revid: 217788
 source: https://deepwoken.fandom.com/wiki/Curse_of_the_No_Life_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -30,7 +30,7 @@ Additionally, your basic attacks reduces your opponent's sanity by 2% with every
 
 ### Curse
 
-Your health bar is permanently stained while this enchantment is equipped. Taking damage will extend this effect for 60 seconds, meaning your healthbar will remained stained for some time after weapon swapping. This means if you die at any point while a Curse of the No Life King weapon is equipped, you will be sent to [The Depths](The_Depths.md).
+Your [Health State](Status_Effects.md#health-states) is set to [Cursed](Status_Effects.md#cursed) while a Curse of the No Life King enchanted weapon is equipped, "staining" your health bar, and making every death send you to [The Depths](The_Depths.md). Taking damage will extend this effect for 60 seconds, meaning your healthbar will remained stained for some time after weapon swapping. This may not be visually displayed as a stained healthbar due to a bug.
 
 You take 2x blood damage from all damage sources while in the Overworld.
 
@@ -46,7 +46,7 @@ The following effects have reduced effectiveness or are entirely disabled while 
 
 -   [Wyrmtooth](Wyrmtooth.md) will prioritize Heavy Weapons investment over Medium Weapons.
 -   This enchantment does not work in the [Chime of Conflict](Chime_of_Conflict.md).
--   If you unequip your weapon, the life that this enchantment stole will come back, assuming it's the reason why your healthbar was stained in the first place.
+-   If you unequip your weapon, the life that this enchantment stole will come back after 60 seconds, assuming it's the reason why your healthbar was stained in the first place.
 -   Blood **drain** effects are entirely unaffected by Curse of the No Life King's double blood damage curse. This means this curse does not affect the blood loss [Resonance Downside](Resonance.md#corrupted-resonances) nor casting or being hit by [Bloodrend](Bloodrend.md) Mantras.
 
 ## Trivia

@@ -1,9 +1,9 @@
 ---
 title: Abandoned Diver (Journeyman Skeli)
-revid: 213036
+revid: 217765
 source: https://deepwoken.fandom.com/wiki/Abandoned_Diver_(Journeyman_Skeli)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, Members of Diver expeditions to the Second Layer, Deceased characters]
+categories: [Etrean NPCs, Pathfinder Exclusive, "Game-adjacent articles", NPCs, NPCs located in the First Floor of the Second Layer, The Divers, Members of Diver expeditions to the Second Layer, Deceased characters, Characters mentioned in books]
 ---
 
 # Abandoned Diver (Journeyman Skeli)
@@ -22,7 +22,13 @@ categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First 
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
+**Game-adjacent article**  
+This game content bears more significance to _Deepwoken'_s world than to the game.  
+Thus, this article focuses on that.
+
 ## Description
+
+**Abandoned Diver** is the lifeless body of **Apprentice Skeli**. The player is able to pocket the [Diver's Journal: Journeyman Skeli](<Diver's_Journal%253A_Journeyman_Skeli.md>) left behind by the corpse.
 
 Skeli was an [Etrean](Etrean.md) [Diver](The_Divers.md) who eventually attained the rank of Journeyman. Skeli had past encounters with the [Black Diver](Black_Divers_division.md) [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), and witnessed him volunteer to lead an expedition to the [Second Layer](Second_Layer.md). Skeli considered Chaser's eagerness out of character.[\[1\]](#cite-note-journal-ii-1)
 
@@ -32,7 +38,7 @@ Skeli suspected that foul play was involved, and partially blamed Klaris for the
 
 At one point, Skeli spoke with [Apprentice Hero](<Mauled_Diver_Corpse_(Apprentice_Hero).md>) and told them about [the Frontier Furnace](The_Frontier_Furnace.md)'s location.[\[3\]](#cite-note-journal-iii-3)
 
-Eventually, Skeli died and their lifeless corpse was left to freeze in the wastes. The abandoned Diver corpse, still carrying Skeli's journal, was later found by [the Pathfinder](The_Pathfinder.md). They able to pocket the [Diver's Journal: Journeyman Skeli](<Diver's_Journal%253A_Journeyman_Skeli.md>) left behind by the corpse.
+Eventually, Skeli died and their lifeless corpse was left to freeze in the wastes. The abandoned Diver corpse, still carrying Skeli's journal, was later found by [the Pathfinder](The_Pathfinder.md).
 
 ## Dialogue
 
@@ -59,7 +65,7 @@ Eventually, Skeli died and their lifeless corpse was left to freeze in the waste
   <td><i>*You leave the body alone.*</i></td>
 </tr>
 <tr>
-  <td>[End Dialogue], player obtains <a href="Diver_Journal,_II.md">Diver Journal, II</a></td>
+  <td>[End Dialogue], player obtains <a href="Diver's_Journal%253A_Journeyman_Skeli.md">Diver's Journal: Journeyman Skeli</a></td>
   <td>[End Dialogue]</td>
 </tr>
 </tbody>

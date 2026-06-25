@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 216587
+revid: 217783
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -9,6 +9,30 @@ categories: [Mechanics]
 # Status Effects
 
 Status effects are effects that can negatively or positively affect the player. Some of these are deadly and should be taken with caution.
+
+## Health States
+
+Displayed on your health bar, these display the vitality of your character, telling you what would happen should you perish.
+
+### Healthy
+
+Your health state is normal. Perishing will send you to your spawn location and change your health state to [Injured](#injured).
+
+### Injured
+
+You have perished. Perishing again will send you to [the Depths](The_Depths.md). This effect can be cleared, returning you to [Healthy](#healthy) by escaping [the Depths](The_Depths.md) or [Powering](Power.md) up.
+
+### Drowned
+
+You are in [the Depths](The_Depths.md). Perishing will send you to the [Fragments of Self](Fragments_of_Self.md) in [Pathfinder](Pathfinder.md) or [Fragments of Else](Fragments_of_Else.md) in [Vow of Iron](Vow_of_Iron.md). [Escape](Cathedral_of_the_Interstice.md) the [Depths](The_Depths.md) to clear this effect, restoring you back to [Healthy](#healthy) when you arrive back on the Surface.
+
+### Void
+
+You are in a [Voidzone](Voidzones.md) or in the range of a [Void Spire](Void_Spire.md) while being Power 15 or higher. While you have the Void health state, all incoming healing is massively reduced and perishing will send you to [the Depths](The_Depths.md) regardless of you were [Injured](#injured) or not. While in a Voidzone, the edges of your screen will have a white cracked effect. While under the effects of a [Void Spire](Void_Spire.md), the screen will go monochrome. Leave the Void one to clear this state.
+
+### Cursed
+
+You currently have a [Curse of the No Life King](Curse_of_the_No_Life_King.md) or [Curse of Void](Curse_of_Void.md) enchanted weapon equipped. Similar to [Injured](#injured), perishing will send you to [the Depths](The_Depths.md). This effect can be removed by changing your weapon or enchantment, returning you to your previous state. However, this effect will persist for 60 seconds after you take damage, preventing you from swapping to a different weapon to prevent your trip to [the Depths](The_Depths.md).
 
 ## General
 
@@ -114,10 +138,6 @@ While active, suffer from 50% [Anti-Heal](#anti-heal) for 10 seconds, halving al
 #### Broodlord Rot
 
 While active, suffer from 80% [Anti-Heal](#anti-heal) meaning you will only get healed 20% of any healing source instead of the full heal. This effect can be applied through being hit by a [Mudskipper Broodlord](Mudskipper_Broodlord.md). This effect is amplified in [The Diluvian Mechanism](The_Diluvian_Mechanism.md) but does not apply to health packs from killing monsters, and reduced in [Hell Mode](Hell_Mode.md). This does not stack with any other source of [Anti-Heal](#anti-heal), as the higher potency [Anti-Heal](#anti-heal) will take priority. Signified by purple smoke on your character.
-
-### Void
-
-While affected by Void, all incoming healing is massively reduced and perishing will send you to [the Depths](The_Depths.md) regardless of if your healthbar was stained or not. This effect is applied by being in a [Voidzone](Voidzones.md) or [Void Spire](Void_Spire.md). While in a Voidzone, the edges of your screen will have a white cracked effect. While under the effects of a [Void Spire](Void_Spire.md), the screen will go monochrome.
 
 ### Fear
 

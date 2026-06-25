@@ -1,6 +1,6 @@
 ---
 title: "Diver's Journal: Apprentice Hero"
-revid: 213050
+revid: 217759
 source: https://deepwoken.fandom.com/wiki/Diver's_Journal%3A_Apprentice_Hero
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books, Diver Journals]
@@ -8,9 +8,11 @@ categories: [Books, Diver Journals]
 
 # Diver's Journal: Apprentice Hero
 
+_For its older version, see Diver Journal, III (old version)._
+
 ## Description
 
-_**Diver's Journal: Apprentice Hero**_ is a [Book](Books.md) found in the first floor of the [Second Layer](Second_Layer.md).
+_**Diver's Journal: Apprentice Hero**_ is a [Book](Books.md) found in the first floor of the [Second Layer](Second_Layer.md), written by and collected from the corpse of [Apprentice Hero](<Mauled_Diver_Corpse_(Apprentice_Hero).md>).
 
 ## Text
 
@@ -60,4 +62,4 @@ Diver's Journal: Apprentice Hero
 
 ## Trivia
 
--   This journal serves as a replacement for [Diver Journal, III](Diver_Journal,_III.md).
+-   This journal serves as a replacement for Diver Journal, III.

@@ -1,6 +1,6 @@
 ---
 title: Curse of Void
-revid: 217647
+revid: 217786
 source: https://deepwoken.fandom.com/wiki/Curse_of_Void
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments, The Vat Exclusive]
@@ -30,7 +30,7 @@ In PvE, your weapon attacks apply [Ether Sunder](Status_Effects.md#ether-sunder)
 
 ### Curse
 
-Your healthbar is permanently stained while a Curse of Void enchanted weapon is equipped, making every death send you to [The Depths](The_Depths.md). Taking damage will extend this effect for 60 seconds, meaning your healthbar will remained stained for some time after weapon swapping. This may not be visually displayed as a stained healthbar due to a bug.
+Your [Health State](Status_Effects.md#health-states) is set to [Cursed](Status_Effects.md#cursed) while a Curse of Void enchanted weapon is equipped, "staining" your health bar, and making every death send you to [The Depths](The_Depths.md). Taking damage will extend this effect for 60 seconds, meaning your healthbar will remained stained for some time after weapon swapping. This may not be visually displayed as a stained healthbar due to a bug.
 
 ### Notes
 

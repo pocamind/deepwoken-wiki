@@ -1,6 +1,6 @@
 ---
 title: "Diver's Journal: Apprentice Azel"
-revid: 213161
+revid: 217731
 source: https://deepwoken.fandom.com/wiki/Diver's_Journal%3A_Apprentice_Azel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books, Diver Journals]
@@ -10,7 +10,7 @@ categories: [Books, Diver Journals]
 
 ## Description
 
-_**Diver's Journal: Apprentice Azel**_ is a [Book](Books.md) found in the first floor of the [Second Layer](Second_Layer.md).
+_**Diver's Journal: Apprentice Azel**_ is a [Book](Books.md) found in the first floor of the [Second Layer](Second_Layer.md), written by and collected from the corpse of [Apprentice Azel](<Mauled_Diver_Corpse_(Apprentice_Azel).md>).
 
 ## Text
 

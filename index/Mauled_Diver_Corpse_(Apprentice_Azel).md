@@ -1,9 +1,9 @@
 ---
 title: Mauled Diver Corpse (Apprentice Azel)
-revid: 217706
+revid: 217769
 source: https://deepwoken.fandom.com/wiki/Mauled_Diver_Corpse_(Apprentice_Azel)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Pathfinder Exclusive, "Game-adjacent articles", NPCs, NPCs located in the First Floor of the Second Layer, The Divers]
+categories: [Adret NPCs, Pathfinder Exclusive, "Game-adjacent articles", NPCs, NPCs located in the First Floor of the Second Layer, The Divers, Members of Diver expeditions to the Second Layer, Deceased characters, Characters mentioned in books]
 ---
 
 # Mauled Diver Corpse (Apprentice Azel)
@@ -27,11 +27,9 @@ Thus, this article focuses on that.
 
 ## Description
 
-Azel Corbet was an [apprentice diver](The_Divers.md) participating in the expedition to the [Second Layer](Second_Layer.md) led by [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md). He is the author of the [Diver's Journal: Apprentice Azel](<Diver's_Journal%253A_Apprentice_Azel.md>).
+**Mauled Diver Corpse** is the lifeless body of **Azel Corbet**. The player is able to pocket the [Diver's Journal: Apprentice Azel](<Diver's_Journal%253A_Apprentice_Azel.md>) left behind by the corpse and read the logs of what never escaped from the Eternal Gale.
 
-An aspiring diver apprentice, who met his demise during the Divers' expedition to the [Second Layer](Second_Layer.md). After being betrayed by [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) he hid in the [Nest Corridor](Nest_Corridor.md) and wrote his last thoughts in his journal before being eaten alive by [bounders](Bounder.md).[\[1\]](#cite-note-journal-1)
-
-Mauled Diver Corpse is the lifeless body of [Azel Corbet](<Mauled_Diver_Corpse_(Apprentice_Azel).md>). The player is able to pocket the journal left behind by the corpse and read the logs of what never escaped from the Eternal Gale.
+Azel Corbet was an [apprentice diver](The_Divers.md) participating in the expedition to the [Second Layer](Second_Layer.md) led by [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), where he would eventually meet his demise. After being betrayed by [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) he hid in the [Nest Corridor](Nest_Corridor.md) and wrote his last thoughts in his journal before being eaten alive by [bounders](Bounder.md).[\[1\]](#cite-note-journal-1)
 
 ## Dialogue
 
@@ -52,7 +50,7 @@ Mauled Diver Corpse is the lifeless body of [Azel Corbet](<Mauled_Diver_Corpse_(
   <td><i>*You leave the body alone*</i></td>
 </tr>
 <tr>
-  <td>[End Dialogue], player obtains <a href="Diver_Journal,_I.md">Diver Journal, I</a></td>
+  <td>[End Dialogue], player obtains <a href="Diver's_Journal%253A_Apprentice_Azel.md">Diver's Journal: Apprentice Azel</a></td>
   <td>[End Dialogue]</td>
 </tr>
 </tbody>

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 215162
+revid: 217773
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -123,7 +123,8 @@ All of these Talents are obtained with the Oath. These are the base Murmur Talen
 -   **Soul Infusion** - Infuse Ardour into your executions. If your execute is interrupted, the opponent remains down for a longer amount of time. Your Ardour Screams are projected further.
     -   Reduces Ardour Scream's minimum Ether to cast from 100% ether to 40%. It will still drain all of your Ether however.
     -   You automatically use Ardour Scream for free upon finishing an execution.
-    -   Massively increase the range of Ardour Scream from 95 studs to 245. Great for combat tagging multiple people at once.
+    -   Massively increase the range of Ardour Scream from 95 studs to 200 (+105 studs). Great for combat tagging multiple people at once.
+    -   Can be used in combination with the Ascended Outlaw Mask to make your Ardour Scream go to an immense 300 studs.
     -   Purple lightning particles are left on knocked players after the secondary effect of this Talent procs.
     -   You perform grips much faster and have a unique grip animation. The grip animation approximately takes 1.8 seconds to complete, which is even faster than using [Blood Scourge](Blood_Scourge.md).
 

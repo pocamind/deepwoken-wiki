@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 217708
+revid: 217795
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -199,7 +199,6 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   The [Warlock's Mantle](<Warlock's_Mantle.md>) equipment has this Talent.
 
 -   _Perfect Flash_ \[Rare Talent, Intelligence\] - Having over 95% health causes your mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] to do +25% damage. This damage bonus will scale down to 10% if your enemies are far away.
-    -   Poser's ring won't count towards the health threshold until sheathed, maintaining the bonus even after being "damaged".
     -   Prerequisite: 25 Intelligence
 
 ### Aerial Dancer
@@ -3109,7 +3108,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Sanguine Wager
 
 -   Enhanced Flow \[Common Talent, Bloodrend, Weapon\] - Refine your Rush Hour, allowing you to now also gain temp health whenever you hit a player while using Rush Hour. You now also take less damage from Rush Hour.
-    -   When you land basic attacks during Rush Hour, gain [Temporary Health](Status_Effects.md#temporary-health) equal to 30% of your weapon's scaled damage.
+    -   When you land basic attacks during Rush Hour, gain [Temporary Health](Status_Effects.md#temporary-health) equal to 30% of your weapon's scaled damage (unaffected by damage modifiers or resistances).
         -   This cannot give more than 50 Temporary Health in one instance.
     -   This reduces Rush Hour's self damage by 22%, from 4.5 damage per tick to 3.5 damage per tick.
     -   Despite what the description states, this Talent still procs when hitting monsters or other non-player enemies.
@@ -4537,7 +4536,8 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 -   Blood Convergence: [Regenerative Earrings](Regenerative_Earrings.md) & [Trueblood Earrings](Trueblood_Earrings.md) - Receive 10% more healing from all healing sources when you have [temp health](Status_Effects.md#temporary-health).
 
 -   Blood Necrosis: [The No-Life King's Crown](<The_No-Life_King's_Crown.md>) - Your [bloodless gems](Bloodless_Gem.md) heal 33% less than usual.
-    -   You will now need a scaled damage of 94 (up from 63) to heal 15 health, and a scaled damage of 187 to reach 30 healing.
+    -   Despite its description, bloodless gems actually heal 16.5% less than usual,
+    -   You will now need a scaled damage of 78.5 (up from 63) to heal 15 health, and a scaled damage of 157 to reach 30 healing.
 
 -   Blood Pact: [Regenerative Pendant](Regenerative_Pendant.md) & [Trueblood Pendant](Trueblood_Pendant.md) - Gain 50 bonus [temporary health](Status_Effects.md#temporary-health) whenever you knock/kill an enemy.
 
@@ -4817,7 +4817,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
         -   As mentioned above, since Immolation _always_ applies [burn](Status_Effects.md#burn), and this doesnt, you can create an Eruption and apply burn simultaneously on eligible Mantras.
 
 -   Osseous Surge: [Marrowmade Boots](Marrowmade_Boots.md) - Flourishing an enemy enhances your boots for 10 seconds, allowing you to spawn a wave of bones in the way you're facing. Right click to activate this.
-    -   Pressing M2 within 10 seconds of landing a flourish causes you to stomp on the ground and send a wave of bones in the direction you're facing.
+    -   Pressing within 10 seconds of landing a flourish causes you to stomp on the ground and send a wave of bones in the direction you're facing.
     -   Deals 30 damage and can be jumped over or parried. This attack is unblockable and undodgeable, having the [Green Telegraph](Combat_Mechanics.md#green).
     -   The damage this ability deals can be enhanced by wearing the [Bone Ring](Bone_Ring.md), increasing its damage to 45.
 
@@ -5261,11 +5261,11 @@ Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. These 
     -   Summoning an adult Phoenix, then commanding it to take air will allow you to select a spot where it should Divebomb on the next usage of the Talent.
     -   Prerequisite: [Solborn](Solborn.md) Memento
 
--   Heliodar Wings \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Take flight \[H\].
+-   Heliodar Wings \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Take flight \[\].
     
     -   Gives a Talent tool that allows you to fly. This flight will passively drain your Heartfire Gauge. Using the wings with an empty Heartfire Gauge will set you on fire.
     -   Attempting to use this during the [Rat King](Dravik,_The_Rat_King.md) fight will cause him to use the Sparkle Blitz move.
-    -   While flying, hold Space to ascend, Ctrl to descend, and Q to speed up.
+    -   While flying, hold to ascend, to descend, and to speed up.
     -   Prerequisites: [Solborn](Solborn.md) Memento, defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
 
 ### Immolator
@@ -5577,7 +5577,7 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
 
 ### Strange Merchant
 
--   Magic Coffin \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - A jack of all trades, all attribute requirements are ignored. Activate your Coffin with C.
+-   Magic Coffin \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - A jack of all trades, all attribute requirements are ignored. Activate your Coffin with.
     
     -   Activating your Coffin takes 50. This Note cost will increase by 50 per Power, costing 1,000 at Power 20.
     -   When used, the Coffin acts like a loot box, randomly rolling an item to give you.

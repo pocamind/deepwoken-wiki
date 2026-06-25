@@ -1,6 +1,6 @@
 ---
 title: Coldpoint
-revid: 212361
+revid: 217798
 source: https://deepwoken.fandom.com/wiki/Coldpoint
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weapons with Talents, Rapiers, Legendary Weapons, Light Weapons]
@@ -45,7 +45,7 @@ Equipping the Coldpoint grants its unique [weapon Talent](Talents.md#weapon-tale
 
 ## Critical
 
-The user reels their rapier back briefly, before piercing through the target in a short flash, applying [Chill](Status_Effects.md#chill) or [Crystal](Status_Effects.md#crystal) when hit.
+The user reels their rapier back briefly, before piercing through the target in a short flash dealing 35 posture, applying [Chill](Status_Effects.md#chill) or [Crystal](Status_Effects.md#crystal) when hit.
 
 The critical has a cooldown of **10 seconds**.
 
