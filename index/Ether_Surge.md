@@ -1,6 +1,6 @@
 ---
 title: Ether Surge
-revid: 212844
+revid: 217655
 source: https://deepwoken.fandom.com/wiki/Ether_Surge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Enchantments, Weapon Enchantments]

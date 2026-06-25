@@ -1,9 +1,9 @@
 ---
 title: Captain Greene
-revid: 204453
+revid: 217615
 source: https://deepwoken.fandom.com/wiki/Captain_Greene
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Individuals with He/him pronouns]
+categories: [Individuals with He/him pronouns, "Content not present in-game"]
 ---
 
 # Captain Greene
@@ -13,6 +13,10 @@ categories: [Individuals with He/him pronouns]
 | name | Greene |
 | alias | Captain |
 | pronouns | He/him |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

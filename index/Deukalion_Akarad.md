@@ -1,9 +1,9 @@
 ---
 title: Deukalion Akarad
-revid: 213772
+revid: 217616
 source: https://deepwoken.fandom.com/wiki/Deukalion_Akarad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Individuals with He/him pronouns, Black Divers, Deceased characters]
+categories: ["Content not present in-game", Individuals with He/him pronouns, Black Divers, Deceased characters]
 ---
 
 # Deukalion Akarad
@@ -17,6 +17,10 @@ categories: [Individuals with He/him pronouns, Black Divers, Deceased characters
 | affiliation | The Divers[1], Black Divers division[1], The Pioneers[1] |
 | death | Among The Pioneers who perished during the first expedition into the Depths[1] |
 | deathdate | 59 CE[1] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

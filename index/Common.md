@@ -1,12 +1,16 @@
 ---
 title: Common
-revid: 213380
+revid: 217620
 source: https://deepwoken.fandom.com/wiki/Common
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Society and culture]
+categories: ["Game-adjacent articles", Society and culture]
 ---
 
 # Common
+
+**Game-adjacent article**  
+This game content bears more significance to _Deepwoken'_s world than to the game.  
+Thus, this article focuses on that.
 
 “ Justicar? Frozen Coast? Are you speaking common? ”
 

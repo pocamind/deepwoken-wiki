@@ -1,9 +1,9 @@
 ---
 title: Scholars of Markor
-revid: 188665
+revid: 217711
 source: https://deepwoken.fandom.com/wiki/Scholars_of_Markor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [The Citadel of Markor]
+categories: ["Content not present in-game", The Citadel of Markor]
 ---
 
 # Scholars of Markor
@@ -14,6 +14,10 @@ categories: [The Citadel of Markor]
 | subunits | Scholars' Orchestra of the Scholars of Markor[1], Blade Scholars of Markor[3] |
 | goals | Researching the Surface and it's history.[1][2] |
 | founded | Early days of the Citadel of Markor[1] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

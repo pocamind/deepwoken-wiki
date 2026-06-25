@@ -1,6 +1,6 @@
 ---
 title: Site of a Bygone Memory
-revid: 217518
+revid: 217669
 source: https://deepwoken.fandom.com/wiki/Site_of_a_Bygone_Memory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, NPCs]
@@ -25,3 +25,7 @@ Interacting with it will begin the fight against [General Titus Juventius](Gener
 ## Location
 
 The Site of a Bygone Memory is located in the center of [The Polymarch](The_Polymarch.md)'s deck.
+
+## Trivia
+
+-   Though refered to as a carving, the Site appears to actually be an embelishment.

@@ -1,6 +1,6 @@
 ---
 title: Erebus
-revid: 212898
+revid: 217642
 source: https://deepwoken.fandom.com/wiki/Erebus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]

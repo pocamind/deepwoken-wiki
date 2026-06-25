@@ -1,9 +1,9 @@
 ---
 title: Constellia
-revid: 212060
+revid: 217681
 source: https://deepwoken.fandom.com/wiki/Constellia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Content not present in-game", Celestial Cities, The Heavens, Destroyed locations]
+categories: ["Content not present in-game", Celestial cities, The Heavens, Destroyed locations]
 ---
 
 # Constellia

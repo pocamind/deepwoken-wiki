@@ -1,6 +1,6 @@
 ---
 title: Curse of the No Life King
-revid: 212858
+revid: 217649
 source: https://deepwoken.fandom.com/wiki/Curse_of_the_No_Life_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]

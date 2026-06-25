@@ -1,9 +1,9 @@
 ---
 title: Gunsmith Rosen
-revid: 211309
+revid: 217618
 source: https://deepwoken.fandom.com/wiki/Gunsmith_Rosen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Individuals with He/him pronouns, Gunsmiths]
+categories: ["Content not present in-game", Individuals with He/him pronouns, Gunsmiths]
 ---
 
 # Gunsmith Rosen
@@ -15,6 +15,10 @@ categories: [Individuals with He/him pronouns, Gunsmiths]
 | aspect | Vesperian[1] |
 | pronouns | He/him[2] |
 | affiliation | The Summer Company |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 “ The son of a village blacksmith, a young Gunsmith Rosen took to the seas and returned an older man, bringing with him the spark of inspiration that brought firearms into the world. ”
 

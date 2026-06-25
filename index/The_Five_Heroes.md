@@ -1,9 +1,9 @@
 ---
 title: The Five Heroes
-revid: 209220
+revid: 217713
 source: https://deepwoken.fandom.com/wiki/The_Five_Heroes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [The Five Heroes, Dissolved organizations]
+categories: ["Game-adjacent articles", The Five Heroes, Dissolved organizations]
 ---
 
 # The Five Heroes
@@ -12,6 +12,10 @@ categories: [The Five Heroes, Dissolved organizations]
 |---|---|
 | territory | Saintsworn Obelisks |
 | goals | Saving Lumen., Sealing their souls in obelisks to immortalize themselves. |
+
+**Game-adjacent article**  
+This game content bears more significance to _Deepwoken'_s world than to the game.  
+Thus, this article focuses on that.
 
 “ FIVE WE PLEDGE OUR SOUL LET WIELDER BLADE HEED OUR CALL BEAR THIS TORCH BEYOND OUR FALL ”
 

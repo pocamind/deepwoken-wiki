@@ -1,6 +1,6 @@
 ---
 title: "Providence's Thorns"
-revid: 212867
+revid: 217638
 source: https://deepwoken.fandom.com/wiki/Providence's_Thorns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]

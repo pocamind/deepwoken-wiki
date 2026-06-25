@@ -1,6 +1,6 @@
 ---
 title: Curse of the Authoritative
-revid: 212907
+revid: 217650
 source: https://deepwoken.fandom.com/wiki/Curse_of_the_Authoritative
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]

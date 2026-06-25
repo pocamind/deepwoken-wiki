@@ -1,9 +1,9 @@
 ---
 title: Mauled Diver Corpse (Apprentice Azel)
-revid: 213160
+revid: 217706
 source: https://deepwoken.fandom.com/wiki/Mauled_Diver_Corpse_(Apprentice_Azel)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, The Divers]
+categories: [Adret NPCs, Pathfinder Exclusive, "Game-adjacent articles", NPCs, NPCs located in the First Floor of the Second Layer, The Divers]
 ---
 
 # Mauled Diver Corpse (Apprentice Azel)
@@ -20,6 +20,10 @@ categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First F
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
+
+**Game-adjacent article**  
+This game content bears more significance to _Deepwoken'_s world than to the game.  
+Thus, this article focuses on that.
 
 ## Description
 

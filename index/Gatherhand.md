@@ -1,12 +1,16 @@
 ---
 title: Gatherhand
-revid: 216858
+revid: 217619
 source: https://deepwoken.fandom.com/wiki/Gatherhand
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Society and culture]
+categories: ["Game-adjacent articles", Society and culture]
 ---
 
 # Gatherhand
+
+**Game-adjacent article**  
+This game content bears more significance to _Deepwoken'_s world than to the game.  
+Thus, this article focuses on that.
 
 ## Description
 

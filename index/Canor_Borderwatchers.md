@@ -1,9 +1,9 @@
 ---
 title: Canor Borderwatchers
-revid: 217531
+revid: 217683
 source: https://deepwoken.fandom.com/wiki/Canor_Borderwatchers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Content not present in-game"]
+categories: ["Content not present in-game", Organizations of unknown status]
 ---
 
 # Canor Borderwatchers

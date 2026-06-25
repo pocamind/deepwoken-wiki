@@ -1,9 +1,9 @@
 ---
 title: Enchantments
-revid: 217611
+revid: 217660
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
+categories: [Mechanics, Weapons, Equipment]
 ---
 
 # Enchantments
@@ -1960,7 +1960,7 @@ Multiplicity [Enchant Grease](Enchant_Grease.md):
 
 [View main page](<Rain_(enchantment).md>)
 
-File:DWRainEnchant.gif
+[Enchant Rain](<Rain_(enchantment).md>)
 
 _Incoming hits may summon rain clouds above you._
 
@@ -2078,7 +2078,7 @@ These Enchantments are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode.
 
 [View main page](Ether_Surge.md)
 
-File:Ether Surge.gif
+[Enchant Ether Surge](Ether_Surge.md)
 
 _Landing enough light attacks gives you infinite ether for some time._
 

@@ -1,6 +1,6 @@
 ---
 title: "Parasol's Blight"
-revid: 212866
+revid: 217639
 source: https://deepwoken.fandom.com/wiki/Parasol's_Blight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, The Vat Exclusive]

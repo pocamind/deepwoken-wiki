@@ -1,9 +1,9 @@
 ---
 title: Dawnfist
-revid: 190737
+revid: 217612
 source: https://deepwoken.fandom.com/wiki/Dawnfist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Individuals with They/them pronouns]
+categories: ["Content not present in-game", Individuals with They/them pronouns]
 ---
 
 # Dawnfist
@@ -12,6 +12,10 @@ categories: [Individuals with They/them pronouns]
 |---|---|
 | alias | Dawnfist[1] |
 | pronouns | They/them[1] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Barrel
-revid: 189713
+revid: 217631
 source: https://deepwoken.fandom.com/wiki/Barrel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Interactible Objects]
@@ -8,7 +8,9 @@ categories: [Interactible Objects]
 
 # Barrel
 
-A player standing next to various sized Barrels
+_Not to be confused with the weapon, [The Barrel](The_Barrel.md)._
+
+A player standing next to Barrels of various sizes
 
 ## Description
 
@@ -30,3 +32,4 @@ Barrels can be stacked in many creative ways beyond simple towers. Players have 
 
 -   Ginormous Barrels bigger than the player can be found at [The Hidden Village](The_Hidden_Village.md) and the [Beloved Zofia](Beloved_Zofia.md).
 -   There was an infamous moment of time where green Barrels would spawn throughout [The Aratel Sea](The_Aratel_Sea.md). This came from the now cut [Smuggler Investigation](Cut_Content.md#other) mission given by the [Authority Ensign](Authority_Ensign.md) [Origin](Origins.md).
+-   As of June 24th 2026, there were counted in-game to be **516** Barrels in the [Eastern Luminant](Luminants.md), featuring **21** unique sizes of Barrels, and **330** Barrels in the [Etrean Luminant](Luminants.md), featuring **18** unique sizes of Barrels.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 217523
+revid: 217708
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -218,13 +218,9 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Automatically ends after 5 seconds, although it can be reactivated midair up to 3 times, however the windup will cause the user to take fall damage.
         -   By air stalling you can continually reactivate Aerogliding and prevent fall damage.
     -   When active, also lightly pushes user forwards, giving the user control.
-    -   Greatly reduces height loss with glider, allowing for much longer distances to be traveled. (Stacks with Feathered Glider)
+    -   Greatly reduces height loss with glider, allowing for much longer distances to be traveled. (Stacks with [Feathered Glider](#feathered-glider))
     -   Prerequisites: 35 Galebreathe, 30 Agility
         -   Was merged with the "The Old Wind" Talent.
-
--   Aeronade \[Common Talent, Galebreathe\] - Your Galetrap automatically detonates on contact with an object. (+2 Passive Agility)
-    -   [Galetrap](Galebreathe.md#galetrap) normally waits for contact with a target to begin its tornado, [Galetrap](Galebreathe.md#galetrap) now detonates once the trap stops moving.
-    -   Prerequisite: [Galetrap](Galebreathe.md#galetrap) (Mantra)
 
 -   Gale Trap \[Common Talent, Galebreathe\] - Knocking a player places a wind trap, causing anyone to pick up that body to get sent flying. Gain a speed boost picking up the body yourself. Killing PvE opponents gives you [Gale Reflection](Status_Effects.md#gale-reflection) instead.
     -   **Refer to [Galetrap](Galebreathe.md#galetrap) if you are looking for the [Galebreathe](Galebreathe.md) Mantra instead.**
@@ -2084,7 +2080,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Inquisitive Lethality
 
--   **Backstabber** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage. \[15 second CD\]
+-   **Backstabber** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage. \[15 second CD\] (+1 Passive Agility)
     -   Procs on M1s, [Silentheart](Oath%253A_Silentheart.md) abilities, and criticals with the M1 tag.
     -   This Talent does not have a range limit.
     -   Applies daze and ragdolls.

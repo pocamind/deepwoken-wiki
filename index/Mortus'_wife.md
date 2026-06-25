@@ -1,9 +1,9 @@
 ---
 title: "Mortus' wife"
-revid: 192255
+revid: 217705
 source: https://deepwoken.fandom.com/wiki/Mortus'_wife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Articles with conjectural titles, Individuals with She/her pronouns]
+categories: ["Content not present in-game", Articles with conjectural titles, Individuals with She/her pronouns]
 notices:
   - "The archives... are incomplete? While this page's contents are based on real information within the Deepwoken universe, the title itself is conjectural."
 ---
@@ -15,6 +15,10 @@ notices:
 | pronouns | She/her[1] |
 | family | Mortus (husband)[1] |
 | death | Caught by an "octopus"[1] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 “ **The Pathfinder**: What happened to your wife?  
 **Mortus**: Fish got 'er. Were like one of them octopuses or summin'. We was tryin' to lure it to land to catch it. Caught us instead. We don't fish for them octopuses no more. ”

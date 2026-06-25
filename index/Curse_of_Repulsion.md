@@ -1,6 +1,6 @@
 ---
 title: Curse of Repulsion
-revid: 212906
+revid: 217651
 source: https://deepwoken.fandom.com/wiki/Curse_of_Repulsion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]

@@ -1,6 +1,6 @@
 ---
 title: Curse of Captain Greene
-revid: 214529
+revid: 217652
 source: https://deepwoken.fandom.com/wiki/Curse_of_Captain_Greene
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments, The Vat Exclusive]

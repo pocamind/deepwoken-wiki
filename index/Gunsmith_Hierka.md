@@ -1,9 +1,9 @@
 ---
 title: Gunsmith Hierka
-revid: 188232
+revid: 217617
 source: https://deepwoken.fandom.com/wiki/Gunsmith_Hierka
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Individuals with He/him pronouns, Gunsmiths, Bureau of Research personnel]
+categories: ["Content not present in-game", Individuals with He/him pronouns, Gunsmiths, Bureau of Research personnel]
 ---
 
 # Gunsmith Hierka
@@ -14,6 +14,10 @@ categories: [Individuals with He/him pronouns, Gunsmiths, Bureau of Research per
 | alias | Gunsmith[1] |
 | pronouns | He/him[1] |
 | affiliation | The Central Authority[1], Bureau of Research[1], The Summer Company (as a spy)[1] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

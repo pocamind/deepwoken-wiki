@@ -1,6 +1,6 @@
 ---
 title: Brilliant Cape
-revid: 217436
+revid: 217671
 source: https://deepwoken.fandom.com/wiki/Brilliant_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso, Capes]
