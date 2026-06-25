@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 216251
+revid: 217799
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -209,7 +209,7 @@ N/A
 
  | 
 
-1 Pathfinder helped in the Depths Trial (must be alive)
+Obtained with the Oath
 
  |
 | 

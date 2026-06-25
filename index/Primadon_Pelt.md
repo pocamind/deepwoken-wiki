@@ -1,6 +1,6 @@
 ---
 title: Primadon Pelt
-revid: 212263
+revid: 217809
 source: https://deepwoken.fandom.com/wiki/Primadon_Pelt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]

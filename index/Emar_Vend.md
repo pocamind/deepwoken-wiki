@@ -1,6 +1,6 @@
 ---
 title: Emar Vend
-revid: 217470
+revid: 217822
 source: https://deepwoken.fandom.com/wiki/Emar_Vend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Enemies with Oaths, Central Authority defectors]
@@ -22,17 +22,15 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Emar Vend is a rogue Authority [Chainwarden](Oath%253A_Chainwarden.md) who is the captor of an [Authority Soldier](Chained_Captive.md). He is part of the obtainment of [Oath: Chainwarden](Oath%253A_Chainwarden.md).
+**Emar Vend** is a rogue Authority [Chainwarden](Oath%253A_Chainwarden.md) who is the captor of an [Authority Soldier](Chained_Captive.md). He is part of the obtainment of [Oath: Chainwarden](Oath%253A_Chainwarden.md).
 
 He wields a Darksteel Greatsword with the Metal [Enchantment](Enchantments.md) and uses [Chainwarden](Oath%253A_Chainwarden.md) mantras.
 
 ## Tips
 
--   He really isn't that big of a deal. Try to think of him like a strong Bandit : just parry his attacks and strike just after with an M1. Just try not to block to much, as his weapon does a lot of posture Damage.
-
--   Putting your Guild Base outside and luring him in the basement of the building might be a good strategy : when below half Health, get out and get into your base to regenerate (only if you have a campfire). The alternative could be to place a campfire.
-
--   He only has one Ranged attack. Using yours might give you a better chance against him.
+-   He really isn't that big of a deal. Try to think of him like a strong [Bandit](Bandit.md): just parry his attacks and strike right after with an M1. Just try not to block too much, as his weapon deals a lot of posture damage.
+-   Putting your [Guild Base](Guild_Bases.md) outside and luring him into the basement of the building might be a good strategy: when below half health, get out and get into your base to regenerate (if you have a [Campfire](Campfire_Pit.md)). The alternative could be to place a Campfire.
+-   He only has one ranged attack, [Caltrops](Ironsing.md#caltrops). Using your own ranged attacks might give you a better chance against him.
 
 ## Moves
 
@@ -106,6 +104,10 @@ Emar Vend wields a Metal Darksteel Greatsword, Two of the three [Chainwarden](Oa
 -   ☕︎ Harmless
 
  |
+
+## Trivia
+
+-   When hovering over his [Combat Tag](Combat_Tag.md), his name is displayed as "Kaido Leshi".
 
 ## References
 

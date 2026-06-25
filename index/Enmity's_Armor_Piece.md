@@ -1,6 +1,6 @@
 ---
 title: "Enmity's Armor Piece"
-revid: 205553
+revid: 217800
 source: https://deepwoken.fandom.com/wiki/Enmity's_Armor_Piece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -17,6 +17,7 @@ categories: [Items, Drops, Ingredients]
 | droppable | Yes |
 | pass down | No |
 | desc | A nigh-indestructible piece of Enmity itself; touching it with bare skin fills your mind with visions of anguish and the whispers of tortured souls. |
+| obtainment | Heart of Enmity (direct drop) |
 
 ## Description
 

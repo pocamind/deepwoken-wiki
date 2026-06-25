@@ -1,6 +1,6 @@
 ---
 title: Jungle Jim
-revid: 216189
+revid: 217820
 source: https://deepwoken.fandom.com/wiki/Jungle_Jim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Pages requiring a cleanup, In progress without reason, InProgressPages, Individuals with unspecified pronouns]
@@ -25,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Jungle Jim is a Mini Boss exclusive to [Vow of Iron](Vow_of_Iron.md). They have a chance to appear when igniting a [Sanguine Candle](Sanguine_Candle.md).
+**Jungle Jim**, known as **Pale Ravager** in its death message, is a Mini Boss exclusive to [Vow of Iron](Vow_of_Iron.md). They have a chance to appear when igniting a [Sanguine Candle](Sanguine_Candle.md).
 
 Jungle Jim is a Hallowtide [Vesperian](Vesperian.md) with green dyed eyes, and wears a [Prophet's Cloak](<Prophet's_Cloak.md>), [Moonseye Gauntlets](Moonseye_Gauntlets.md), a [Shade Fleet Warden Cape](Fleet_Warden_Cape.md), and a pair of black-dyed [Tracker's Boots](<Tracker's_Boots.md>). Additionally, they have a custom animated halo.
 
