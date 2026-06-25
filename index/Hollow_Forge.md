@@ -1,6 +1,6 @@
 ---
 title: Hollow Forge
-revid: 191472
+revid: 217831
 source: https://deepwoken.fandom.com/wiki/Hollow_Forge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -71,7 +71,7 @@ The Hollow Forge has the following recipes
   <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="8"><i>*The Hollow Forge belts out hit, awaiting use.*</i></td>
+  <td colspan="8"><i>*The Hollow Forge belts out heat, awaiting use.*</i></td>
 </tr>
 <tr>
   <td colspan="2">[Forge] 3 Pluripotent Alloy → 1 Smith's Alloy</td>

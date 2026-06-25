@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 212151
+revid: 217829
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, World of Deepwoken, OutdatedPages, SpoilerPages]
@@ -2069,7 +2069,7 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
 -   Purple
     -   The color purple is often a motif of Drowned Gods or those connected to Drowned Gods
         -   Corrupted bells are purple in the card drawing screen and are commonly a purple color.
-        -   The only known Krulian, The Ferryman, wields purple [Thundercall](Thundercall.md), though the only reason for him doing so is that he likes the color.
+        -   One of the known Krulians, The Ferryman, wields purple [Thundercall](Thundercall.md), though the only reason for him doing so is that he likes the color.
         -   Ethiron's Scion wields purple [Galebreathe](Galebreathe.md).
         -   Pieces of the forge as well as the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md) sport purple fire, with both being connected to the Drowned God Korilfiend.
         -   The player, as they are not connected to any Gods, are unable to harness any sort of purple elements.

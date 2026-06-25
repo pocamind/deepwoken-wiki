@@ -1,6 +1,6 @@
 ---
 title: Etrean Apostle
-revid: 216214
+revid: 217824
 source: https://deepwoken.fandom.com/wiki/Etrean_Apostle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive]
@@ -21,7 +21,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The **Etrean Apostle**, known as "**Jungle Mertet**" in its combat tag, is an enemy NPC that can be found in [Etris](<Etris_(Vow_of_Iron).md>) when taking on the "Etrean Apostle" job from [Isle of Vigils](Isle_of_Vigils.md). They have a lot of health and deal significant damage, so it's recommended to be careful when fighting them. Their moveset is essentially just a lesser version of [Duke of Erisia](Duke_Ishamon_Erisia.md), so these guys can be taken as practice for the boss itself in Pathfinder.
+The **Etrean Apostle**, known as "**Jungle Mertet**" in its combat tag, is an enemy NPC that can be found in [Etris](<Etris_(Vow_of_Iron).md>) when taking on the "Etrean Apostle" job from [Isle of Vigils](Isle_of_Vigils.md). They have a lot of health and deal significant damage, so it's recommended to be careful when fighting them. Their moveset is essentially just a lesser version of [Duke of Erisia](Duke_Ishamon_Erisia.md), so these guys can be taken as practice for the boss itself in [Pathfinder](Pathfinder.md).
 
 ## Moveset
 
