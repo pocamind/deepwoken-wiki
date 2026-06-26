@@ -1,6 +1,6 @@
 ---
 title: "Vyrelda, Master of Blood"
-revid: 213302
+revid: 217846
 source: https://deepwoken.fandom.com/wiki/Vyrelda%2C_Master_of_Blood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with She/her pronouns, Stub pages with reason, StubPages, Pathfinder Exclusive, NPCs, Attunement Trainers, NPCs located in the First Floor of the Second Layer, NPCs located in the Eastern Luminant, Enemies]
@@ -159,19 +159,6 @@ Vyrelda is first found inside an igloo in [Firfire](Firfire.md), located in the 
 <tr>
   <td colspan="12">Drink it. If it starts to hurt, it's probably doing it's job.</td>
 </tr>
-</tbody>
-</table>
-
-**Silentheart:**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="12">I don't have time for this.</td>
-</tr>
 <tr>
   <td colspan="12">[End Dialogue]</td>
 </tr>
@@ -193,6 +180,9 @@ Vyrelda is first found inside an igloo in [Firfire](Firfire.md), located in the 
 </tr>
 <tr>
   <td colspan="12">Can't see anything you need improvement on.</td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

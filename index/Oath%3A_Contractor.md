@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 215786
+revid: 217847
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ministry]
@@ -35,12 +35,12 @@ The Oath allows you to manipulate the Puppet Strings of [Zi'eer](The_Lord_Regent
         -   The Bounty version of [The Ministry](The_Ministry.md) takes about 4-5 kills. You need to deal approximately 60% of the dmg to the target and deaths caused by environmental causes such as Blood Loss or Starvation will not count.
     -   You can also get this by trading Knowledge with [Soothsayer](Soothsayer.md) (require at least 10 Knowledge to have neutral reputation with [The Ministry](The_Ministry.md)) This method can get you reputation much faster than most methods.
         -   It is also advised to avoid killing [Ministry Scouts](Ministry_Scout.md) if you're looking to acquire this Oath, in order to keep your reputation with ministry as neutral as possible.
-2.  Start the [Duke Erisia](Duke_Ishamon_Erisia.md) questline. Proceed to get kill credit for the Duke. (Do note that abandoning the quest or talking to Regent after completion without enough Ministry reputation locks you out of contractor \[needs more testing)
+2.  Start the [Duke Erisia](Duke_Ishamon_Erisia.md) questline. Proceed to get kill credit for the Duke.
 3.  Make a deal with 4 separate [Deep Shrines](Deep_Shrines.md). Remember, 4 DIFFERENT shrines, not the same one 4 times. Any Shrine except the **Shrines of** **Mastery (Attributes option) and Order** work, including those in [The Depths](First_Layer.md).
 4.  Unlock your [Resonance](Resonance.md).
 5.  Go to the Depths and talk to [Yun'Shul's shrine](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). Ask it for a wish and then pick "What happened to this place?"
-
-1.  Go back to Regent and select "No, but I know of your true nature. I know you intend to repeat what happened in Celtor by drowning Etris." When he asks "...are you here to stop me?...", afterwards select "No, I came to join you." then, finish the dialogue and you will obtain the Oath **(Choosing the "Yes, I did." dialogue will kill you.)**
+6.  IMPORTANT NOTICE: It has been confirmed by Aswqe that you need EVERY SINGLE prerequisite before talking to Regent. For example, forgetting to obtain sufficient reputation with The Ministry and going to speak with the Lord Regent will SOFTLOCK you out of obtaining the oath; you can't forget a requirement and go back to get it - MAKE SURE TO SPEAK WITH THE LORD REGENT AFTER OBTAINING EVERY SINGLE PREREQUISITE.
+7.  Go back to Regent and select "No, but I know of your true nature. I know you intend to repeat what happened in Celtor by drowning Etris." When he asks "...are you here to stop me?...", afterwards select "No, I came to join you." then, finish the dialogue and you will obtain the Oath **(Choosing the "Yes, I did." dialogue will kill you.)**
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/ZNPA1u1I-WI) or consider using [this guide](https://docs.google.com/presentation/d/1S5p4sBCiRxKeBhj_WYiugtzEIl-ZuTL_YMuPqfQZRkU/edit?usp=sharing)._
 

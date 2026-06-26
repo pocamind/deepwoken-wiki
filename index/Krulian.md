@@ -1,6 +1,6 @@
 ---
 title: Krulian
-revid: 205024
+revid: 217841
 source: https://deepwoken.fandom.com/wiki/Krulian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sapient species]
@@ -22,7 +22,7 @@ categories: [Sapient species]
 
 Krulians are a mysterious species that possesses demigod-like powers. They are essentially the missing link between the [Drowned Gods](Lore.md#drowned-gods) and the people of Lumen.
 
-According to [The Ferryman](The_Ferryman.md), not many Krulians have been seen by the people of The Etrean Luminant, implying that Krulians are either from [The Depths](The_Depths.md) or some islands in the [Voidsea](Voidsea.md). He also mentions that they are the "next step in the evolutionary chain" and that they are "the superior aspect that will live on after the Drowned Gods awake."
+According to [The Ferryman](The_Ferryman.md), not many Krulians have been seen by mankind, implying that Krulians are either from [The Depths](The_Depths.md) or some islands in the [Voidsea](Voidsea.md). He also mentions that they are the "next step in the evolutionary chain" and that they are "the superior aspect that will live on after the Drowned Gods awake."
 
 They have no set appearance, shapeshifting into whatever they see fit. In the Ferryman's case, he appears as a white-haired Etrean wearing the [Ferryman's Coat](<Ferryman's_Coat.md>). Whereas [The Gaunt Man](The_Gaunt_Man.md) is a tall pale humanoid who doesn't appear to be trying to take the appearance of any of Lumen's aspects. He wears the [Varicosan Finery](Varicosan_Finery.md) outfit.
 

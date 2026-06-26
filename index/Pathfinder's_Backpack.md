@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder's Backpack"
-revid: 210745
+revid: 217842
 source: https://deepwoken.fandom.com/wiki/Pathfinder's_Backpack
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Backpack, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -11,8 +11,8 @@ categories: [Equipment, Torso, Backpack, Equipment with Talents, "Equipment with
 | Pathfinder's Backpack | |
 |---|---|
 | type | Torso |
-| rarity | Uncommon |
-| selling price | 14 |
+| rarity | Common |
+| selling price | Unsellable |
 | requirements | None |
 | weight | 0.5 |
 | innate stats | +1 Uncommon Pip |
@@ -21,7 +21,7 @@ categories: [Equipment, Torso, Backpack, Equipment with Talents, "Equipment with
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | High-Tier Voidwalker Bounties, Duke Erisia, Lodestar, First Layer |
+| obtainment | Low-Tier Voidwalker Bounties, Lodestar, First Layer |
 | description | A backpack with plenty of room for all of the supplies a Pathfinder might need on their travels. |
 
 ## Description
