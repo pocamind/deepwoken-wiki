@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Lantern
-revid: 216752
+revid: 217919
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Lantern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Torso, Equipment with Talents, "E
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Lower Erisia, Crafting: (1) Dying Ember or Spark Gland, (1) Iron, (1) Fiber, Diluvian MechanismVow of Iron:, Sightless Memento, Flashing Thunder Memento |
+| obtainment | Chests from:, Lower Erisia, Crafting: (1) Dying Ember or Spark Gland, (1) Iron, (1) Fiber, The Diluvian MechanismVow of Iron:, Sightless Memento, Flashing Thunder Memento |
 | description | A sturdy lantern used to illuminate the path forward. With light as our guide, we are never truly lost. |
 
 ## Description

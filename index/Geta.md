@@ -1,6 +1,6 @@
 ---
 title: Geta
-revid: 216699
+revid: 217885
 source: https://deepwoken.fandom.com/wiki/Geta
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Legs, Equipment with Set Bonuses, Equipment with Exclusive Talents, Equipment with Talents, Etrea]
@@ -13,6 +13,7 @@ categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Legs, Equip
 | type | Legs |
 | rarity | Legendary |
 | selling price | 50 |
+| requirements | Power 12 |
 | weight | 1 |
 | styles | Dark, Light |
 | innate stats | +2 Rare Pips |

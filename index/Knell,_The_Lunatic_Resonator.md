@@ -1,9 +1,9 @@
 ---
 title: "Knell, The Lunatic Resonator"
-revid: 216143
+revid: 217898
 source: https://deepwoken.fandom.com/wiki/Knell%2C_The_Lunatic_Resonator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Anansi NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, Enemies, Bosses, Humanoid Bosses, Deceased characters, Voiced Characters]
+categories: [Anansi NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, Bosses, Humanoid Bosses, Deceased characters, Voiced Characters]
 ---
 
 # Knell, The Lunatic Resonator

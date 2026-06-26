@@ -1,6 +1,6 @@
 ---
 title: Hemobloom
-revid: 213815
+revid: 217915
 source: https://deepwoken.fandom.com/wiki/Hemobloom
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients, Harvestables]
@@ -18,7 +18,7 @@ categories: [Items, Ingredients, Harvestables]
 | droppable | Yes |
 | pass down | No |
 | desc | A pale white and red bloom, strangely it produces crystals of blood not unlike our own, it's said that these grow where great warriors pass. |
-| obtainment | The Valley of HeroesTraan Zakshun |
+| obtainment | The Valley of Heroes (Winter), Sold in Traan Zakshun's black market for 1 |
 
 ## Description
 

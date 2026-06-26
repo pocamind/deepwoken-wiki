@@ -1,6 +1,6 @@
 ---
 title: Harrowing
-revid: 212849
+revid: 217922
 source: https://deepwoken.fandom.com/wiki/Harrowing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Hallowtide, Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]
@@ -14,7 +14,7 @@ categories: [Hallowtide, Enchantments, Weapon Enchantments, Enchantments that pr
 | droppable | No |
 | pass down | No |
 | desc | Obscures your opponent's health, posture, and armor bars. Also causes PvE to get Confusion on successful hits. |
-| obtainment | Harrowing Enchant Stone:, Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '23 Hallowtide Medal [10 Knowledge], Goodie Bag |
+| obtainment | Harrowing Enchant Stone:, Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '23 Hallowtide Medal [10 ], Goodie Bag |
 
 ## Description
 

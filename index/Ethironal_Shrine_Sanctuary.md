@@ -1,9 +1,9 @@
 ---
 title: Ethironal Shrine Sanctuary
-revid: 188743
+revid: 217918
 source: https://deepwoken.fandom.com/wiki/Ethironal_Shrine_Sanctuary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Pages with broken file links, Locations, Locations in the First Floor of the Second Layer]
+categories: [Pathfinder Exclusive, Locations, Locations in the First Floor of the Second Layer]
 ---
 
 # Ethironal Shrine Sanctuary
@@ -12,13 +12,11 @@ categories: [Pathfinder Exclusive, Pages with broken file links, Locations, Loca
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-LocationL ethironal shrine sanctuary LocationR
+LocationL Ethironal Shrine Sanctuary LocationR
 
 Stepping into the shrine the storm takes new form.
 
   
-
-File:Ethironalsanc.png
 
 ## Overview
 
@@ -42,5 +40,4 @@ The three Diver journals can be found here.
 ## Trivia
 
 -   This is main First Floor location, since almost all the action takes place here. Generator, [Frontier Furnace](The_Frontier_Furnace.md), [Pilgrim's Respite](<Pilgrim's_Respite.md>) and even Firfire are located in Ethironal Shrine Sanctuary.
--   The reason why wind blows is unknown, but this is the reason why Second Layer is called Eternal Gale. Wind blows here everytime, and it doesnt stop.
 -   The Spear of Nakti is most likely named after Naktigonis, the composer of the game’s soundtrack.

@@ -1,9 +1,11 @@
 ---
 title: "F'leche"
-revid: 196023
+revid: 217901
 source: https://deepwoken.fandom.com/wiki/F'leche
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Tiran NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer]
+categories: [Tiran NPCs, Individuals with She/her pronouns, Cut Content, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer]
+notices:
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # F'leche
@@ -25,11 +27,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-F'leche is a [Tiran](Tiran.md) NPC. She is one of several individuals who have become trapped in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md), and is having trouble remembering her past.
+F'leche was a [Tiran](Tiran.md) NPC. She was one of several individuals who have become trapped in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md), and is having trouble remembering her past.
 
 At one point, she encountered [C'lantaa](<C'lantaa.md>), but ended up driving him off.
 
-She is wearing a [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) with [Eyeglasses](Eyeglasses.md). Similar with other residents of the city, she is unable to recall her past. Unable to remember the name of the [Kyrsgarde](Kyrsgarde.md), but notes that they weren't always this frenzied until the presence of the player in the city. She gives insight to summoning [Ethiron](Scion_of_Ethiron.md), talks about the obelisks needed to be de-activated.
+She wore a [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) with [Eyeglasses](Eyeglasses.md). Similar with other residents of the city, she is unable to recall her past. Unable to remember the name of the [Kyrsgarde](Kyrsgarde.md), but notes that they weren't always this frenzied until the presence of the player in the city. She gives insight to summoning [Ethiron](Scion_of_Ethiron.md), talks about the obelisks needed to be de-activated.
 
 ## Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: Aspirant Mask
-revid: 217537
+revid: 217913
 source: https://deepwoken.fandom.com/wiki/Aspirant_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Face, Masks]
@@ -33,4 +33,6 @@ Each Aspirant Mask has a triangular shape. At the top, two horns gradually curve
 
 ## Trivia
 
-The final sentence of the description is similar to the quote from Quran 2:156 "Indeed, to Allah we belong, and to him we'll return".
+-   The final sentence of the description is similar to the quote from Quran 2:156 "Indeed, to Allah we belong, and to him we'll return".
+-   Previously, they were called "Royal Guard Masks" and had different items for each color.
+-   Old versions of the [Starkindred](Oath%253A_Starkindred.md) sinners wore these masks.

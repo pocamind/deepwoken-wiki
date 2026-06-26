@@ -1,6 +1,6 @@
 ---
 title: Sworn Angel
-revid: 216157
+revid: 217900
 source: https://deepwoken.fandom.com/wiki/Sworn_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Humanoids with Unobtainable Outfits, Humanoid Monsters]
@@ -20,7 +20,7 @@ categories: [Enemies, Enemies that can wield Enchantments, Humanoids with Unobta
 
 ## Description
 
-**Sworn Angels**, previously known as **Angels**, are white and dull-yellow humanoid creatures with wings. They wield the Soulwrought Spear from the [Crazy Slots](Crazy_Slots.md) [Resonance](Resonance.md) and use Crazy Slots' Soulwrought Spear light shots ability. Sworn Angels currently only spawn as the fifth challenge in the [Trial of One](Trial_of_One.md) by the Voice of Solitude and from the 10th wave of [The Diluvian Mechanism](The_Diluvian_Mechanism.md). Sworn Angels can also spawn with enchants which differentiate them from their [Hollow](Hollow_Angel.md) counterparts.
+**Sworn Angels**, previously known as **Angels**, are white and dull-yellow humanoid creatures with wings. They wield the Soulwrought Spear from the [Crazy Slots](Crazy_Slots.md) [Resonance](Resonance.md) and use Crazy Slots' Soulwrought Spear light shots ability. Sworn Angels can either be spawned as the fifth challenge in the [Trial of One](Trial_of_One.md) by the Voice of Solitude, by the [Watchers](Watcher.md), or from the 10th wave of [The Diluvian Mechanism](The_Diluvian_Mechanism.md). Sworn Angels can also spawn with enchants which differentiate them from their [Hollow](Hollow_Angel.md) counterparts.
 
 ## Moveset
 
@@ -131,3 +131,4 @@ categories: [Enemies, Enemies that can wield Enchantments, Humanoids with Unobta
 -   Sworn Angels are prone to retreating/dodging by moving backwards from you, making it sometimes frustrating to fight them.
 -   In the Trial of One, Sworn Angel's Gaze can affect each other Angel if they walk in front of the other while it's active, allowing for a chance to strike.
 -   In the Trial of One, executing one of the Sworn Angels will cause the other to automatically despawn, passing the trial with less effort.
+-   They **CAN** be spawned by [Watchers](Watcher.md) when you are above [Power](Power.md) 8-10(testing needed), so being below that will spawn a [Hollow Angel](Hollow_Angel.md) as usual.

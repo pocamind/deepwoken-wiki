@@ -1,9 +1,9 @@
 ---
 title: Plath
-revid: 217879
+revid: 217892
 source: https://deepwoken.fandom.com/wiki/Plath
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer]
+categories: [Celtor NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer]
 ---
 
 # Plath
@@ -12,6 +12,7 @@ categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Second
 |---|---|
 | name | Plath |
 | aspect | Celtor |
+| pronouns | They/them |
 | location | Kyrsan Wilds |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  

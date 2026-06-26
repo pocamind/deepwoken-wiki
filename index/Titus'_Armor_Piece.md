@@ -1,6 +1,6 @@
 ---
 title: "Titus' Armor Piece"
-revid: 212281
+revid: 217909
 source: https://deepwoken.fandom.com/wiki/Titus'_Armor_Piece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -16,7 +16,7 @@ categories: [Items, Drops, Ingredients]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | Ripped from the larger-than-life commander of the 49th legion. |
+| desc | Ripped from the larger-than-life commander of the 49th Legion. |
 | obtainment | Titus Fulminus Destellus |
 
 ## Description

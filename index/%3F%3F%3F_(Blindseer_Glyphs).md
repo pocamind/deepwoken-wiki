@@ -1,6 +1,6 @@
 ---
 title: ??? (Blindseer Glyphs)
-revid: 191267
+revid: 217907
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(Blindseer_Glyphs)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant, Oath Trainer]
