@@ -1,6 +1,6 @@
 ---
 title: Iron Vessel
-revid: 208617
+revid: 217861
 source: https://deepwoken.fandom.com/wiki/Iron_Vessel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -106,11 +106,11 @@ _Conjure metal from within, impaling surrounding entities._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Metal + Slash + [Bleed](Status_Effects.md#bleed)
+Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -145,11 +145,11 @@ _Summon a large metal pillar._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Metal + Blunt + [Bleed](Status_Effects.md#bleed)
+Metal [ResistanceIronsing](Ironsing.md) + Blunt ResistanceBlunt + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -239,7 +239,7 @@ _A powerful gravitational pull._
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
@@ -278,11 +278,11 @@ _A powerful kick laced with metal._
  |
 | 
 
-30 Ether
+30 Ether [IconEther](Ether.md)
 
  | 
 
-Metal + Slash
+Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash
 
  | 
 
@@ -367,11 +367,11 @@ _Create a lance, impale your opponent, and send them flying._
  |
 | 
 
-35 Ether
+35 Ether [IconEther](Ether.md)
 
  | 
 
-Metal + Slash + [Bleed](Status_Effects.md#bleed)
+Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -457,11 +457,11 @@ _Summon a blade of metal to swing alongside you._
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
-Metal + Slash
+Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash
 
  | 
 
@@ -501,11 +501,11 @@ _A powerful slash that chips through block and slashes through armor._
  |
 | 
 
-45 Ether
+45 Ether [IconEther](Ether.md)
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -587,11 +587,11 @@ _Sharp metal traps._
  |
 | 
 
-82 Ether
+82 Ether [IconEther](Ether.md)
 
  | 
 
-Ironsing
+Metal [ResistanceIronsing](Ironsing.md)
 
  | 
 
@@ -664,11 +664,11 @@ _Conjure a giant rod of metal and slam it down._
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
-Metal + Slash + [Bleed](Status_Effects.md#bleed)
+Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -702,11 +702,11 @@ _Conjure metal swords and rush forward with them._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Metal + Slash + [Bleed](Status_Effects.md#bleed)
+Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -798,11 +798,11 @@ _Cut through your opponent._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Oath + Slash
+Oath [ResistanceOath](Oaths.md) + Slash ResistanceSlash
 
  | 
 

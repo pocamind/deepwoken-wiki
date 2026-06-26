@@ -1,6 +1,6 @@
 ---
 title: Theros Disciple
-revid: 210005
+revid: 217868
 source: https://deepwoken.fandom.com/wiki/Theros_Disciple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -102,11 +102,11 @@ _Perform a kick, then warp to your enemies for a second followup kick._
  |
 | 
 
-TBA
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Oath + Blunt
+Oath [ResistanceOath](Oaths.md) + Blunt ResistanceBlunt
 
  | 
 
@@ -192,15 +192,15 @@ _Dash forward in a blink, knocking down enemies in your path._
  |
 | 
 
-TBA
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Blunt + Oath
+Oath [ResistanceOath](Oaths.md) + Blunt ResistanceBlunt
 
  | 
 
-**250**
+250
 
  |
 | 
@@ -233,15 +233,15 @@ _Kick a gust of wind forward, if it hits an enemy leap into the air and launch 3
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Wind
+Wind [ResistanceGalebreathe](Galebreathe.md)
 
  | 
 
-**250**
+250
 
  |
 | 
@@ -329,15 +329,15 @@ _A devastating crash of wind._
  |
 | 
 
-100
+100 Ether [IconEther](Ether.md)
 
  | 
 
-Wind
+Wind [ResistanceGalebreathe](Galebreathe.md)
 
  | 
 
-**450**
+450
 
  |
 | 
@@ -372,7 +372,7 @@ Lightning
 
  | 
 
-**450**
+450
 
  |
 | 
@@ -453,15 +453,15 @@ _Use wind to uppercut and propel yourself into the air. Press F after hitting an
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Wind + Blunt
+Wind [ResistanceGalebreathe](Galebreathe.md) + Blunt ResistanceBlunt
 
  | 
 
-**700**
+700
 
  |
 | 
@@ -496,15 +496,15 @@ _A lifting torrent of wind._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Wind + Slash
+Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
 
  | 
 
-**700**
+700
 
  |
 | 
@@ -593,15 +593,15 @@ _Form a punch of wind in your fist and release it._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Wind + Slash
+Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
 
  | 
 
-**950**
+950
 
  |
 | 
@@ -636,15 +636,15 @@ _Dash forward in a blink, knocking down enemies in your path._
  |
 | 
 
-TBA
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Oath + Blunt
+Oath [ResistanceOath](Oaths.md) + Oath [ResistanceOath](Oaths.md)
 
  | 
 
-**950**
+950
 
  |
 | 
@@ -713,7 +713,7 @@ _A cloak of lightning itself._
  |
 | 
 
-20 Ether
+20 Ether [IconEther](Ether.md)
 
  | 
 
@@ -721,7 +721,7 @@ N/A
 
  | 
 
-**1,250**
+1,250
 
  |
 | 
@@ -758,11 +758,11 @@ _Rise up with your opponent and crash down as a bolt of lightning._
  |
 | 
 
-70 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 
-Lightning
+Lightning [ResistanceThundercall](Thundercall.md)
 
  | 
 

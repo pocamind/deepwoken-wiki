@@ -1,6 +1,6 @@
 ---
 title: Void Glutton
-revid: 208208
+revid: 217869
 source: https://deepwoken.fandom.com/wiki/Void_Glutton
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -88,11 +88,11 @@ _Form a shockwave of darkness._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Shadow
+Shadow [ResistanceShadowcast](Shadowcast.md)
 
  | 
 
@@ -238,7 +238,7 @@ _Summons a fragile eye that consumes the Ether of those who try to cast Mantras 
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
@@ -246,7 +246,7 @@ N/A
 
  | 
 
-**250**
+250
 
  |
 | 
@@ -312,15 +312,15 @@ _Roar a wave of shadows._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Shadow
+Shadow [ResistanceShadowcast](Shadowcast.md)
 
  | 
 
-**450**
+450
 
  |
 | 
@@ -392,15 +392,15 @@ _Gorge on your own health for raw strength_
  |
 | 
 
-55 Ether
+55 Ether [IconEther](Ether.md)
 
  | 
 
-Shadow
+Shadow [ResistanceShadowcast](Shadowcast.md)
 
  | 
 
-**700**
+700
 
  |
 | 
@@ -480,15 +480,15 @@ _Create a shadow vortex that pulls in everything in its surrounding._
  |
 | 
 
-100 Ether
+100 Ether [IconEther](Ether.md)
 
  | 
 
-Blunt
+Blunt ResistanceBlunt
 
  | 
 
-**950**
+950
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Spear Dancer
-revid: 211258
+revid: 217854
 source: https://deepwoken.fandom.com/wiki/Spear_Dancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -145,7 +145,7 @@ _An agile dash._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -186,11 +186,11 @@ _A powerful slash that chips through block and slashes through armor._
  |
 | 
 
-45 Ether
+45 Ether [IconEther](Ether.md)
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -290,11 +290,11 @@ _Dart around the battlefield with devastating cleaves delivered in quick success
  |
 | 
 
-45 Ether
+45 Ether [IconEther](Ether.md)
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -331,11 +331,11 @@ _Close the distance and deliver a fast slash._
  |
 | 
 
-65 Ether
+65 Ether [IconEther](Ether.md)
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -416,7 +416,7 @@ _Predict an opponent's attack and reflect it._
  |
 | 
 
-100 Ether
+100 Ether [IconEther](Ether.md)
 
  | 
 
@@ -456,11 +456,11 @@ _Trick your opponent and quickly go behind them._
  |
 | 
 
-45 Ether
+45 Ether [IconEther](Ether.md)
 
  | 
 
-Oath
+Oath [ResistanceOath](Oaths.md)
 
  | 
 
@@ -498,11 +498,11 @@ _A javelin that opens into 30 barbs. Strike the afflicted to deal massive damage
  |
 | 
 
-TBA
+TBA [IconEther](Ether.md)
 
  | 
 
-?
+(?)
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Drifter
-revid: 212692
+revid: 217857
 source: https://deepwoken.fandom.com/wiki/Drifter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -117,7 +117,7 @@ _An adrenaline rush of mobility._
  |
 | 
 
-20 Ether
+20 Ether [IconEther](Ether.md)
 
  | 
 
@@ -157,11 +157,11 @@ _Rush down your opponent cutting them apart._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -265,11 +265,11 @@ _Close the distance and deliver a fast slash._
  |
 | 
 
-65 Ether
+65 Ether [IconEther](Ether.md)
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -308,11 +308,11 @@ _A powerful slash that chips through block and slashes through armor._
  |
 | 
 
-45 Ether
+45 Ether [IconEther](Ether.md)
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -351,11 +351,11 @@ _Switftly unsheathe your blade and deliver an upwards strike._
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -467,11 +467,11 @@ _Dart around the battlefield with devastating cleaves delivered in quick success
  |
 | 
 
-45 Ether
+45 Ether [IconEther](Ether.md)
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -584,11 +584,11 @@ _A melee strike that removes your posture's damage on hit._
  |
 | 
 
-80 Ether
+80 Ether [IconEther](Ether.md)
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -624,11 +624,11 @@ _Step forward and slice through your enemies. Ability can be activated again on 
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper
-revid: 208379
+revid: 217851
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos, The Covenant of Flame]
@@ -103,11 +103,11 @@ _Conjure a cone of flames in front of you. Pressing F during windup will release
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -219,11 +219,11 @@ _Summon a legion of flaming spearmen that lunge inwards._
  |
 | 
 
-30 Ether
+30 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -322,11 +322,11 @@ _Slicing blades of flame._
  |
 | 
 
-45 Ether
+45 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -368,11 +368,11 @@ _Leap up leaving behind a burst of flames._
  |
 | 
 
-35 Ether
+35 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -464,11 +464,11 @@ _Bear down on your foes with repeated fiery slashes._
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -511,11 +511,11 @@ _Dash forward in a spiral of flames._
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -607,11 +607,11 @@ _A vicious grasp of flames. Receive a damage buff if you land this attack._
  |
 | 
 
-90
+90 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 

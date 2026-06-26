@@ -1,6 +1,6 @@
 ---
 title: Inheritor of the Gale
-revid: 205928
+revid: 217860
 source: https://deepwoken.fandom.com/wiki/Inheritor_of_the_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -135,11 +135,11 @@ _Slicing blades of wind._
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
-Wind
+Wind [ResistanceGalebreathe](Galebreathe.md)
 
  | 
 
@@ -179,11 +179,11 @@ _A powerful wind blast._
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
-Wind
+Wind [ResistanceGalebreathe](Galebreathe.md)
 
  | 
 
@@ -326,7 +326,7 @@ _A blast of wind._
  |
 | 
 
-20 Ether
+20 Ether [IconEther](Ether.md)
 
  | 
 
@@ -423,11 +423,11 @@ _A rush of piercing wind._
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
-Wind + Slash
+Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
 
  | 
 
@@ -524,7 +524,7 @@ _A blast of wind._
  |
 | 
 
-20 Ether
+20 Ether [IconEther](Ether.md)
 
  | 
 
@@ -622,11 +622,11 @@ _A devastating crash of wind._
  |
 | 
 
-100 Ether
+100 Ether [IconEther](Ether.md)
 
  | 
 
-Wind
+Wind [ResistanceGalebreathe](Galebreathe.md)
 
  | 
 

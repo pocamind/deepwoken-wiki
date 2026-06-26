@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 217513
+revid: 217876
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
@@ -382,7 +382,8 @@ _+Talent: [**Umami**](Talents.md#umami)_
  | N/A |
 | File:Static-assets-upload321884259233421803.png | [Dark Cowl](Dark_Cowl.md) | _+1 Posture_  
 _+4% Stealth_ | N/A |
-|  | [Dark Owl Chapeau](Dark_Owl_Chapeau.md)<be>(**Set**) | _+5% Shadow Armor_  
+|  | [Dark Owl Chapeau](Dark_Owl_Chapeau.md)  
+(**Set**) | _+5% Shadow Armor_  
 _+10% Stealth_
 
 +1 Rare Pip  

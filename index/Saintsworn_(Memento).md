@@ -1,6 +1,6 @@
 ---
 title: Saintsworn (Memento)
-revid: 214503
+revid: 217864
 source: https://deepwoken.fandom.com/wiki/Saintsworn_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -604,11 +604,11 @@ _Sweep with flames and lightning before following into a devastating uppercut._
  |
 | 
 
-30 Ether
+30 Ether [IconEther](Ether.md)
 
  | 
 
-Lightning (Leg Sweep), Fire + Blunt (Uppercut)
+Lightning [ResistanceThundercall](Thundercall.md) (Leg Sweep), Fire [ResistanceFlamecharm](Flamecharm.md) + Blunt ResistanceBlunt (Uppercut)
 
  | 
 
@@ -641,11 +641,11 @@ _A barrage of freezing blades._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -687,11 +687,11 @@ _A shadowy hand._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Shadow + Slash (Grab), Blunt (Slam)
+Shadow [ResistanceShadowcast](Shadowcast.md) + Slash ResistanceSlash (Grab), Blunt ResistanceBlunt (Slam)
 
  | 
 
@@ -730,7 +730,7 @@ _Summon a servant of Shade_
  |
 | 
 
-70 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 
@@ -765,11 +765,11 @@ _Form a punch of wind in your fist and release it._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Wind + Slash
+Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
 
  | 
 
@@ -867,11 +867,11 @@ _An unrelenting kick like a clap of thunder._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Lightning
+Lightning [ResistanceThundercall](Thundercall.md)
 
  | 
 
@@ -910,11 +910,11 @@ _A shadowy hand._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Shadow + Slash (Grab), Blunt (Slam)
+Shadow [ResistanceShadowcast](Shadowcast.md) + Slash ResistanceSlash (Grab), Blunt ResistanceBlunt (Slam)
 
  | 
 
@@ -953,11 +953,11 @@ _Use wind to uppercut and propel yourself into the air. Press F after hitting an
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Wind + Blunt
+Wind [ResistanceGalebreathe](Galebreathe.md) + Blunt ResistanceBlunt
 
  | 
 
@@ -1001,7 +1001,7 @@ With Haunted Gale, increases the duration of your Phantoms by 3s._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1089,7 +1089,7 @@ _A servant of ice._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1127,11 +1127,11 @@ _An awful blast of dark energy._
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
-Shadow
+Shadow [ResistanceShadowcast](Shadowcast.md)
 
  | 
 
@@ -1210,7 +1210,7 @@ _A servant of lightning._
  |
 | 
 
-70 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1289,7 +1289,7 @@ _A servant of flames._
  |
 | 
 
-70 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 
@@ -1328,11 +1328,11 @@ _A strike from the heavens._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Wind
+Wind [ResistanceGalebreathe](Galebreathe.md)
 
  | 
 
@@ -1417,11 +1417,11 @@ _Conjure a cone of flames in front of you. Pressing F during windup will release
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -1458,11 +1458,11 @@ _Strike the ground, turning it to ash._
  |
 | 
 
-35 Ether
+35 Ether [IconEther](Ether.md)
 
  | 
 
-Fire + Blunt
+Fire [ResistanceFlamecharm](Flamecharm.md) + Blunt ResistanceBlunt
 
  | 
 
@@ -1499,11 +1499,11 @@ _Roar a wave of shadows._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Shadow
+Shadow [ResistanceShadowcast](Shadowcast.md)
 
  | 
 
@@ -1584,11 +1584,11 @@ _Go forth with spinning kicks infused with the wind_
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
-Wind + Slash
+Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
 
  | 
 
@@ -1621,11 +1621,11 @@ _An arc of ice._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -1709,11 +1709,11 @@ _Rise up with your opponent and crash down as a bolt of lightning._
  |
 | 
 
-70 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 
-Lightning
+Lightning [ResistanceThundercall](Thundercall.md)
 
  | 
 
@@ -1748,11 +1748,11 @@ _Form a Shockwave of darkness._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Shadow, Blunt (Slam)
+Shadow [ResistanceShadowcast](Shadowcast.md), Blunt ResistanceBlunt (Slam)
 
  | 
 
@@ -1789,11 +1789,11 @@ _Gaining inspiration from the Duke of Erisia, call forth a malicious gale from y
  |
 | 
 
-70 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 
-Wind + Slash
+Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
 
  | 
 

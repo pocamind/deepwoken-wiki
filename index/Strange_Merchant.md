@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant
-revid: 211263
+revid: 217867
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -97,11 +97,11 @@ _Kick your foes at the speed of light._
  |
 | 
 
-70 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 
-Oath
+Oath [ResistanceOath](Oaths.md)
 
  | 
 
@@ -135,7 +135,7 @@ _Charm those around you with your powerful voice._
  |
 | 
 
-100 Ether
+100 Ether [IconEther](Ether.md)
 
  | 
 
@@ -248,7 +248,7 @@ _Taunt those around you, causing them to be unable to jump and to take 20% more 
  |
 | 
 
-100 Ether
+100 Ether [IconEther](Ether.md)
 
  | 
 
@@ -350,11 +350,11 @@ _Strike down your foes with your blinding light._
  |
 | 
 
-100
+100 Ether [IconEther](Ether.md)
 
  | 
 
-Oath
+Oath [ResistanceOath](Oaths.md)
 
  | 
 
@@ -459,11 +459,11 @@ _Spin rapidly to unleash powerful rays of light._
  |
 | 
 
-55
+55 Ether [IconEther](Ether.md)
 
  | 
 
-Oath
+Oath [ResistanceOath](Oaths.md)
 
  | 
 

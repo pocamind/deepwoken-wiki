@@ -1,6 +1,6 @@
 ---
 title: Sightless
-revid: 208378
+revid: 217853
 source: https://deepwoken.fandom.com/wiki/Sightless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -95,11 +95,11 @@ _Fire plasma energy. Deals additional damage in PvE._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Flamecharm + Thundercall
+Fire [ResistanceFlamecharm](Flamecharm.md) + Lightning [ResistanceThundercall](Thundercall.md)
 
  | 
 
@@ -220,7 +220,7 @@ _Gaze into your opponent's souls._
  |
 | 
 
-70 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 
@@ -333,7 +333,7 @@ _Opponents facing you are briefly rendered immobile._
  |
 | 
 
-100 Ether
+100 Ether [IconEther](Ether.md)
 
  | 
 
@@ -444,11 +444,11 @@ _Turn insanity against your enemies, incredibly strong against depths creatures.
  |
 | 
 
-100 Ether
+100 Ether [IconEther](Ether.md)
 
  | 
 
-Oath
+Oath [ResistanceOath](Oaths.md)
 
  | 
 
@@ -539,7 +539,7 @@ _Predict an opponent's attack and reflect it._
  |
 | 
 
-100 Ether
+100 Ether [IconEther](Ether.md)
 
  | 
 

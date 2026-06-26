@@ -1,6 +1,6 @@
 ---
 title: Breaker
-revid: 211257
+revid: 217856
 source: https://deepwoken.fandom.com/wiki/Breaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -133,11 +133,11 @@ _Show your foes your strength._
  |
 | 
 
-35 Ether
+35 Ether [IconEther](Ether.md)
 
  | 
 
-Blunt
+Blunt ResistanceBlunt
 
  | 
 
@@ -228,7 +228,7 @@ _Kick off of the ground with your strength, sending you into the air._
  |
 | 
 
-70 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 
@@ -325,11 +325,11 @@ _Unleash a barrage of blows against your foes._
  |
 | 
 
-30 Ether
+30 Ether [IconEther](Ether.md)
 
  | 
 
-Blunt
+Blunt ResistanceBlunt
 
  | 
 
@@ -371,11 +371,11 @@ _Toss the ground infront of you._
  |
 | 
 
-35 Ether
+35 Ether [IconEther](Ether.md)
 
  | 
 
-Blunt
+Blunt ResistanceBlunt
 
  | 
 
@@ -455,11 +455,11 @@ _Grab and throw your enemies._
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
-Blunt
+Blunt ResistanceBlunt
 
  | 
 
@@ -546,11 +546,11 @@ _Unleash two devastating kicks with your brute strength._
  |
 | 
 
-120 Ether
+120 Ether [IconEther](Ether.md)
 
  | 
 
-Blunt
+Blunt ResistanceBlunt
 
  | 
 

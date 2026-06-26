@@ -1,6 +1,6 @@
 ---
 title: Saint Jay (Memento)
-revid: 216494
+revid: 217852
 source: https://deepwoken.fandom.com/wiki/Saint_Jay_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -107,11 +107,11 @@ _Fire a beam of ice._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -152,11 +152,11 @@ _Form an ice spear and lunges forward._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -197,11 +197,11 @@ _Absorb damage then return fury upon your foes._
  |
 | 
 
-30 Ether (Counter), 30 Ether (Slash)
+30 Ether [IconEther](Ether.md) (Counter), 30 Ether [IconEther](Ether.md) (Slash)
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -282,11 +282,11 @@ _Conjure a glaive of frost to launch your opponents skywards._
  |
 | 
 
-30 Ether
+30 Ether [IconEther](Ether.md)
 
  | 
 
-Ice + Slash
+Ice [ResistanceFrostdraw](Frostdraw.md) + Slash ResistanceSlash
 
  | 
 
@@ -382,11 +382,11 @@ _An arc of ice._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -428,11 +428,11 @@ _A colossal mace of ice._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -532,11 +532,11 @@ _A sharp disk of ice._
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -580,15 +580,15 @@ _Unleash a powerful pressure blast from the weight of your weapon._
  |
 | 
 
-35 Ether
+35 Ether [IconEther](Ether.md)
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
-**1200**
+1,200
 
  |
 | 
@@ -684,11 +684,11 @@ _Enter a state of cryostasis._
  |
 | 
 
-45 Ether
+45 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 

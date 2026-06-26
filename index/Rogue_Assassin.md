@@ -1,6 +1,6 @@
 ---
 title: Rogue Assassin
-revid: 195745
+revid: 217855
 source: https://deepwoken.fandom.com/wiki/Rogue_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -102,7 +102,7 @@ _Pull out a hidden blade and quickly stab your opponent, dealing a percentage of
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
@@ -242,7 +242,7 @@ _An agile dash._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -283,11 +283,11 @@ _A vengeful rush. Deals additional damage the lower your health is below 50%._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Slash + [Bleed](Status_Effects.md#bleed)
+Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -390,11 +390,11 @@ _Rush down your opponent cutting them apart._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -509,11 +509,11 @@ _Click to reveal yourself and deliver a rapid flurry of slashes that can chain t
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -624,7 +624,7 @@ _An adrenaline rush of mobility._
  |
 | 
 
-20 Ether
+20 Ether [IconEther](Ether.md)
 
  | 
 

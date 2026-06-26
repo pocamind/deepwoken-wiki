@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 217795
+revid: 217871
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2547,7 +2547,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Mindbreaker
 
--   Echoing Lunatic \[Common Talent, Willpower\] - Your Ardour Scream now applies a bit of insanity.
+-   Echoing Lunatic \[Common Talent, Willpower\] - Your Ardour Scream now inflicts insanity. (+3 Sanity)
     -   Removes around 10 sanity (flat value, not %).
     -   The effects of this talent may be negated if the Ardour Scream is blocked, similarly to the roars of Megalodaunts/Primadon.
     -   Prerequisites: 55 Willpower, [Ardour Scream](#ardour-scream)

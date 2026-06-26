@@ -1,6 +1,6 @@
 ---
 title: Prince of the Moon
-revid: 216551
+revid: 217863
 source: https://deepwoken.fandom.com/wiki/Prince_of_the_Moon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -110,11 +110,11 @@ _Deliver a powerful kick that binds your opponent's soul to yours._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Oath
+Oath [ResistanceOath](Oaths.md)
 
  | 
 
@@ -209,11 +209,11 @@ _Form a shockwave of darkness._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Shadow
+Shadow [ResistanceShadowcast](Shadowcast.md)
 
  | 
 
@@ -373,11 +373,11 @@ _Form a Shockwave of darkness._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Shadow, Blunt (Slam)
+Shadow [ResistanceShadowcast](Shadowcast.md), Blunt ResistanceBlunt (Slam)
 
  | 
 
@@ -466,11 +466,11 @@ _Detonate your chained target, unleashing a powerful blast that shatters their r
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Oath
+Oath [ResistanceOath](Oaths.md)
 
  | 
 
@@ -568,7 +568,7 @@ _FEAR ME_
  |
 | 
 
-35 Ether
+35 Ether [IconEther](Ether.md)
 
  | 
 

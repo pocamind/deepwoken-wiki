@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 215697
+revid: 217849
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions, Humanoids with Unobtainable Outfits]
@@ -633,6 +633,7 @@ This dialogue is unlocked if the player meets the requirements for [Oath: Blight
 -   Strangely enough, unlike other bosses, Titus does not drop [Pluripotent Alloy](Pluripotent_Alloy.md) nor [Ardour Manifestation](Ardour_Manifestation.md) and doesn't count in the bestiary.
     -   This is because Titus does not actually die nor despawn when you defeat him most of the time. If you do manage to autogrip him however, he will appropriately grant these rewards.
 -   Titus second phase can be bypassed when the player uses [Poser's Ring](<Poser's_Ring.md>) (if quick enough) or the [Moppet](Moppet.md) weapon. When this happens, a loot chest will drop and Titus' health will fall to zero. He will then enter his second phase animation and his health will return, but he will stay completely docile and will not attack the player. Killing him again will not give any extra loot.
+-   The windup for Warp kick matches the windup of the critical for the [Imperium Kata](Imperium_Kata.md)
 
 ## References
 

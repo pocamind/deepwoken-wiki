@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 216844
+revid: 217880
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -21,12 +21,6 @@ Frostdraw icon
 ### Abilities
 
 Landing Frostdraw [Mantras](Mantras.md) applies [Chill](Status_Effects.md#chill), which slows down enemies and is able to be improved upon with certain [Talents](Talents.md). Adding [Logstones](Mantra_Modifiers.md#regular-modifiers) to certain Mantras can increase the duration of Chill.
-
-### Cantrip(s)
-
-Cantrips are, often minor, passive abilities that are granted upon obtaining any Mantra from the respective Attunement.
-
-**Purifying Frost** - Automatically purify certain forms of unsafe water, including any unsafe water collected in your [Canteen](Canteen.md) (excluding sea water), similar to the [Purifying Ring](Purifying_Ring.md).
 
 ## Obtainment
 
@@ -59,6 +53,12 @@ You can speak to [Nell](Nell,_Master_of_Frost.md) at [Etris](Etris.md) or a [Man
 ### Mantra Damage Calculation
 
 The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#mantra-damage-calculation) page. Alternatively, use this **[Desmos calculator](https://www.desmos.com/calculator/xoovzbiltk)**.
+
+## Cantrip(s)
+
+Cantrips are, often minor, passive abilities that are granted upon obtaining any Mantra from the respective Attunement.
+
+**Purifying Frost** - Automatically purify certain forms of unsafe water, including any unsafe water collected in your [Canteen](Canteen.md) (excluding sea water), similar to the [Purifying Ring](Purifying_Ring.md).
 
 ## Mantras
 

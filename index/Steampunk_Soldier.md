@@ -1,6 +1,6 @@
 ---
 title: Steampunk Soldier
-revid: 211264
+revid: 217866
 source: https://deepwoken.fandom.com/wiki/Steampunk_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -99,11 +99,11 @@ _Jet forwards with flames and slam anyone you catch in your clutches._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -143,11 +143,11 @@ _Form and toss daggers of ice at your aimed opponent._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -288,11 +288,11 @@ _Toss a nimble dagger._
  |
 | 
 
-55 Ether
+55 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -335,11 +335,11 @@ _Form an ice spear and lunges forward._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -445,11 +445,11 @@ _Manifest cubes of Ice to fire at your enemies. Cast the Mantra again to fire cu
  |
 | 
 
-45 Ether (Summon), 45 Ether (Fire Manually), 0 Ether (Fired Automatically)
+45 Ether [IconEther](Ether.md) (Summon), 45 Ether [IconEther](Ether.md) (Fire Manually), 0 Ether [IconEther](Ether.md) (Fired Automatically)
 
  | 
 
-Ice
+Ice [ResistanceFrostdraw](Frostdraw.md)
 
  | 
 
@@ -560,7 +560,7 @@ _A servant of flames._
  |
 | 
 
-70 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 
@@ -635,11 +635,11 @@ _Fire a steam grenade at your opponent and create a massive area of steam._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Steam
+(?)
 
  | 
 

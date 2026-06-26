@@ -1,6 +1,6 @@
 ---
 title: Flashing Thunder
-revid: 211266
+revid: 217859
 source: https://deepwoken.fandom.com/wiki/Flashing_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -123,11 +123,11 @@ _Arcing blades of electricity._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Lightning + Slash
+Lightning [ResistanceThundercall](Thundercall.md) + Slash ResistanceSlash
 
  | 
 
@@ -170,11 +170,11 @@ _Step forward and slice through your enemies. Ability can be activated again on 
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -259,7 +259,7 @@ _A cloak of lightning itself._
  |
 | 
 
-20 Ether
+20 Ether [IconEther](Ether.md)
 
  | 
 
@@ -358,11 +358,11 @@ _Close the distance and deliver a fast slash._
  |
 | 
 
-65 Ether
+65 Ether [IconEther](Ether.md)
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -454,11 +454,11 @@ _Close the distance and deliver a fast slash using your Ardour._
  |
 | 
 
-65 Ether
+65 Ether [IconEther](Ether.md)
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -560,11 +560,11 @@ _Conjure weapons of thunder with your ether._
  |
 | 
 
-45 Ether
+45 Ether [IconEther](Ether.md)
 
  | 
 
-Lightning
+Lightning [ResistanceThundercall](Thundercall.md)
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 217790
+revid: 217870
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, World Event, Monsters, Bosses]
@@ -43,7 +43,8 @@ This giant foe's moveset is relatively simple and is easy to avoid; however it d
 
 -   Autogrips players if they are knocked.
 -   If the player is guardbroken through this attack, they will not be poisoned.
--   This attack will **go through dodge** unless you have talents like [Ghost](Talents.md).
+-   Depending on the variant this attack will **go through dodge** unless you have talents like [Ghost](Talents.md).
+-   This attack has 2 variants one is a simple launch of one of its tendrils towards a player the second variant will hold the player in place dealing higher poison and massive damage being able to partially bypass [Payback](Payback.md)
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable

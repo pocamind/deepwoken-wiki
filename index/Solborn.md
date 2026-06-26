@@ -1,6 +1,6 @@
 ---
 title: Solborn
-revid: 211265
+revid: 217865
 source: https://deepwoken.fandom.com/wiki/Solborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -96,11 +96,11 @@ _Slicing blades of flame._
  |
 | 
 
-45 Ether
+45 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -142,11 +142,11 @@ _A bullet of flames shot through each hand._
  |
 | 
 
-10 Ether per shot
+10 Ether [IconEther](Ether.md) per shot
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -241,11 +241,11 @@ _Dash forward in a spiral of flames._
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -340,7 +340,7 @@ _Undying flame._
  |
 | 
 
-80 Ether
+80 Ether [IconEther](Ether.md)
 
  | 
 
@@ -386,11 +386,11 @@ _A rising tornado of flames._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -478,11 +478,11 @@ _Lash out with flames._
  |
 | 
 
-70 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -574,11 +574,11 @@ _Charge up an exertion of flames that knocks opponents backwards. If you take da
  |
 | 
 
-30 Ether
+30 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -673,11 +673,11 @@ _Emit a spinning ring of celestial energy, trapping and shredding any who steps 
  |
 | 
 
-(?)
+(?) Ether [IconEther](Ether.md)
 
  | 
 
-Oath
+Oath [ResistanceOath](Oaths.md)
 
  | 
 
@@ -754,11 +754,11 @@ _Jet forwards with flames and slam anyone you catch in your clutches._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Fire
+Fire [ResistanceFlamecharm](Flamecharm.md)
 
  | 
 
@@ -836,11 +836,11 @@ _Take to the skies for a devastating strike._
  |
 | 
 
-(?)
+(?) Ether [IconEther](Ether.md)
 
  | 
 
-Oath
+Oath [ResistanceOath](Oaths.md)
 
  | 
 
@@ -877,11 +877,11 @@ _Strike the ground, turning it to ash._
  |
 | 
 
-35 Ether
+35 Ether [IconEther](Ether.md)
 
  | 
 
-Fire + Blunt
+Fire [ResistanceFlamecharm](Flamecharm.md) + Blunt ResistanceBlunt
 
  | 
 
@@ -960,11 +960,11 @@ _Use your wings and deliver two critical blows._
  |
 | 
 
-(?)
+(?) Ether [IconEther](Ether.md)
 
  | 
 
-Oath
+Oath [ResistanceOath](Oaths.md)
 
  | 
 

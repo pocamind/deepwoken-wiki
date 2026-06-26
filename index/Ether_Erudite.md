@@ -1,6 +1,6 @@
 ---
 title: Ether Erudite
-revid: 211261
+revid: 217858
 source: https://deepwoken.fandom.com/wiki/Ether_Erudite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -86,7 +86,7 @@ _Predict an opponent's attack and reflect it._
  |
 | 
 
-100 Ether
+100 Ether [IconEther](Ether.md)
 
  | 
 
@@ -204,11 +204,11 @@ _Conjure concentrated orbs of Ether to launch at your enemy._
  |
 | 
 
-30 Ether
+30 Ether [IconEther](Ether.md)
 
  | 
 
-Blunt
+Blunt ResistanceBlunt
 
  | 
 
@@ -246,11 +246,11 @@ _A powerful slash that chips through block and slashes through armor._
  |
 | 
 
-45 Ether
+45 Ether [IconEther](Ether.md)
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -352,7 +352,7 @@ _Using your mind's eye, you force your imagined position into reality, appearing
  |
 | 
 
-70 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 
@@ -394,11 +394,11 @@ _Unleash a powerful pressure blast from the weight of your weapon._
  |
 | 
 
-35 Ether
+35 Ether [IconEther](Ether.md)
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -495,11 +495,11 @@ _Rush down your opponent cutting them apart._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 

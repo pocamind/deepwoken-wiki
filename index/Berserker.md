@@ -1,6 +1,6 @@
 ---
 title: Berserker
-revid: 195741
+revid: 217850
 source: https://deepwoken.fandom.com/wiki/Berserker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -127,11 +127,11 @@ _Leap into the air and slam down with vengeance._
  |
 | 
 
-35 Ether
+35 Ether [IconEther](Ether.md)
 
  | 
 
-Blood +
+Blood [ResistanceBloodrend](Bloodrend.md) + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -173,7 +173,7 @@ _Taunt those around you, causing them to be unable to jump and to take 20% more 
  |
 | 
 
-100 Ether
+100 Ether [IconEther](Ether.md)
 
  | 
 
@@ -217,7 +217,7 @@ _Brace yourself against attacks and gain hyperarmour._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
@@ -255,11 +255,11 @@ _Rush at your enemies with your full physical force._
  |
 | 
 
-60 Ether
+60 Ether [IconEther](Ether.md)
 
  | 
 
-Blunt
+Blunt ResistanceBlunt
 
  | 
 
@@ -299,7 +299,7 @@ _Kick off of the ground with your strength, sending you into the air._
  |
 | 
 
-70 Ether
+70 Ether [IconEther](Ether.md)
 
  | 
 
@@ -398,11 +398,11 @@ _Conjure a scythe of blood and swing._
  |
 | 
 
-50 Ether
+50 Ether [IconEther](Ether.md)
 
  | 
 
-Blood
+Blood [ResistanceBloodrend](Bloodrend.md)
 
  | 
 
@@ -436,11 +436,11 @@ _Absorb damage then return fury upon your foes._
  |
 | 
 
-30 Ether (Counter), 30 Ether (Slash)
+30 Ether [IconEther](Ether.md) (Counter), 30 Ether [IconEther](Ether.md) (Slash)
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -477,11 +477,11 @@ _Unleash a powerful pressure blast from the weight of your weapon._
  |
 | 
 
-35 Ether
+35 Ether [IconEther](Ether.md)
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -520,11 +520,11 @@ _Switftly unsheathe your blade and deliver an upwards strike._
  |
 | 
 
-40 Ether
+40 Ether [IconEther](Ether.md)
 
  | 
 
-Slash
+Slash ResistanceSlash
 
  | 
 
@@ -612,11 +612,11 @@ _Charge up a strong punch infused with your blood._
  |
 | 
 
-35 Ether
+35 Ether [IconEther](Ether.md)
 
  | 
 
-Blood
+Blood [ResistanceBloodrend](Bloodrend.md)
 
  | 
 
@@ -653,11 +653,11 @@ _Reel back and swing your weapon, unleashing an onslaught of blows if it hits._
  |
 | 
 
-65 Ether
+65 Ether [IconEther](Ether.md)
 
  | 
 
-Slash (1st Hit), Blunt (Kicks)
+Slash ResistanceSlash (1st Hit), Blunt ResistanceBlunt (Kicks)
 
  | 
 
