@@ -1,6 +1,6 @@
 ---
 title: Storm
-revid: 217637
+revid: 217985
 source: https://deepwoken.fandom.com/wiki/Storm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -12,7 +12,7 @@ categories: [Enchantments, Weapon Enchantments]
 |---|---|
 | bankable | Yes |
 | droppable | No |
-| pass down | No |
+| pass down | Yes |
 | desc | Shock your foes on hit every 5s. Rain will upgrade this shock into a lightning bolt called down from above. |
 | obtainment | Finding a Storm enchanted weapon in a chest, LaplaceStorm Enchant Stone:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Stone), War Mode, Hell Mode, Scion of Ethiron, Maestro Evengarde Rest, Dread Serpent, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Second Layer, Diluvian Mechanism, Galewax Room in the Second Layer, Crafting :, Any Enchant Stone, Spark Gland, Wind Gem, Any Enchant Stone, Ferryman's Coat Cloth |
 

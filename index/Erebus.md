@@ -1,6 +1,6 @@
 ---
 title: Erebus
-revid: 217642
+revid: 218000
 source: https://deepwoken.fandom.com/wiki/Erebus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -12,7 +12,7 @@ categories: [Enchantments, Weapon Enchantments]
 |---|---|
 | bankable | Yes |
 | droppable | No |
-| pass down | No |
+| pass down | Yes |
 | desc | An enchant once lost to time, now given to the mighty. When landing a critical, make your opponent forget how to use a mantra for a minute. |
 | obtainment | Erebus Enchant Stone:, Win 20 Battle Royale matches on the same character. |
 

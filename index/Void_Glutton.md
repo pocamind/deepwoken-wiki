@@ -1,6 +1,6 @@
 ---
 title: Void Glutton
-revid: 217869
+revid: 217937
 source: https://deepwoken.fandom.com/wiki/Void_Glutton
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -22,6 +22,10 @@ categories: [Vow of Iron Exclusive, Mementos]
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
+
+“ Leave a trail of bodies behind as you complete your objective. ”
+
+― Void Glutton obtainment hint
 
 ## Description
 

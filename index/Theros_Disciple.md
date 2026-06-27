@@ -1,6 +1,6 @@
 ---
 title: Theros Disciple
-revid: 217868
+revid: 217968
 source: https://deepwoken.fandom.com/wiki/Theros_Disciple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -24,6 +24,10 @@ categories: [Vow of Iron Exclusive, Mementos]
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
+
+“ Defeat a mighty commander on the high sea - a harbinger of blood and thunder from the West. ”
+
+― Theros Disciple obtainment hint
 
 ## Description
 
@@ -368,7 +372,7 @@ _Conjure up surging waves of lightning that travel along the ground._
 
  | 
 
-Lightning
+Lightning [ResistanceThundercall](Thundercall.md)
 
  | 
 
@@ -640,7 +644,7 @@ _Dash forward in a blink, knocking down enemies in your path._
 
  | 
 
-Oath [ResistanceOath](Oaths.md) + Oath [ResistanceOath](Oaths.md)
+Oath [ResistanceOath](Oaths.md) + Blunt ResistanceBlunt
 
  | 
 

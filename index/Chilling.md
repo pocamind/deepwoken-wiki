@@ -1,6 +1,6 @@
 ---
 title: Chilling
-revid: 212834
+revid: 218004
 source: https://deepwoken.fandom.com/wiki/Chilling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]
@@ -12,7 +12,7 @@ categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Critic
 |---|---|
 | bankable | Yes |
 | droppable | No |
-| pass down | No |
+| pass down | Yes |
 | desc | Chill your foes. Applies Bottom Freeze once enough stacks have been applied. |
 | obtainment | Finding a Chilling enchanted weapon in a chest, LaplaceChilling Enchant Stone:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Stone), War Mode, Hell Mode, Scion of Ethiron, Maestro Evengarde Rest, Dread Serpent, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Second Layer, Diluvian Mechanism, Galewax Room in the Second Layer, Crafting :, Any Enchant Stone, Frozen Membrane, Any Enchant Stone, Blue Gem, Frigid Prism |
 

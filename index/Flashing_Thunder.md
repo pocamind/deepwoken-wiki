@@ -1,6 +1,6 @@
 ---
 title: Flashing Thunder
-revid: 217859
+revid: 217962
 source: https://deepwoken.fandom.com/wiki/Flashing_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -24,6 +24,10 @@ categories: [Vow of Iron Exclusive, Mementos]
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
+
+“ Beat the Rat King with your third eye open, forfeiting your sense of sight. ”
+
+― Flashing Thunder obtainment hint
 
 ## Description
 

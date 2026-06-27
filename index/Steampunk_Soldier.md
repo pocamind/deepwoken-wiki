@@ -1,6 +1,6 @@
 ---
 title: Steampunk Soldier
-revid: 217866
+revid: 217967
 source: https://deepwoken.fandom.com/wiki/Steampunk_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -24,6 +24,10 @@ categories: [Vow of Iron Exclusive, Mementos]
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
+
+“ Succeed in showing that superior firepower triumphs over all. ”
+
+― Steampunk Soldier obtainment hint
 
 ## Description
 

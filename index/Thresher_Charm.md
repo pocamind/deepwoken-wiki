@@ -1,6 +1,6 @@
 ---
 title: Thresher Charm
-revid: 216829
+revid: 218030
 source: https://deepwoken.fandom.com/wiki/Thresher_Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso]
@@ -33,4 +33,5 @@ The [Thresher Thrasher](Talents.md#thresher-thrasher) Talent enhances the [Beast
 
 ## Trivia
 
+-   If you have the Cloth Physics [Setting](Settings.md) on, the charm will have physics applied to it, bouncing around as you move.
 -   The Hang In There Style is a reference to [Hang in there, Baby](https://en.wikipedia.org/wiki/Hang_in_there,_Baby), a common format of motivational poster featuring an animal hanging onto a branch, cord, or similar structure.

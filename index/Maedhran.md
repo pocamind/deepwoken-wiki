@@ -1,6 +1,6 @@
 ---
 title: Maedhran
-revid: 196173
+revid: 218029
 source: https://deepwoken.fandom.com/wiki/Maedhran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Vendors, NPCs located in the Eastern Luminant]
@@ -197,7 +197,6 @@ After every dialogue option the player is given the option to interrupt Maedhran
 </tr>
 <tr>
   <td colspan="2">Aeon Logstone [100 Notes]</td>
-  <td colspan="2">Amnesic Driftwood [100 Notes]</td>
   <td colspan="2">Cloudstone [100 Notes]</td>
   <td colspan="2">Crystal Lens [100 Notes]</td>
   <td colspan="2">Drift Shard [100 Notes]</td>
@@ -231,4 +230,4 @@ After every dialogue option the player is given the option to interrupt Maedhran
     -   Pardon?
     -   Huh?
     -   I'm sorry, what?
--   He's a more expensive vendor compared to the Den Master, selling [Cloudstones](Mantra_Modifiers.md#regular-modifiers), [Drift Shards](Mantra_Modifiers.md#regular-modifiers), [Crystal Lenses](Mantra_Modifiers.md#regular-modifiers), and [Amnesic Driftwoods](Mantra_Modifiers.md#regular) for 100 instead of 10.
+-   He's a more expensive vendor compared to the Den Master, selling [Cloudstones](Mantra_Modifiers.md#regular-modifiers), [Drift Shards](Mantra_Modifiers.md#regular-modifiers), and [Crystal Lenses](Mantra_Modifiers.md#regular-modifiers), for 100 instead of 10.

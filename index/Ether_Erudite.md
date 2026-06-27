@@ -1,6 +1,6 @@
 ---
 title: Ether Erudite
-revid: 217858
+revid: 217961
 source: https://deepwoken.fandom.com/wiki/Ether_Erudite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -24,6 +24,10 @@ categories: [Vow of Iron Exclusive, Mementos]
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
+
+“ Complete a task for the one who seeks mysterious artifacts in the Depths. ”
+
+― Ether Erudite obtainment hint
 
 ## Description
 

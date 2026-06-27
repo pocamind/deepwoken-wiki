@@ -1,6 +1,6 @@
 ---
 title: Breaker
-revid: 217856
+revid: 217955
 source: https://deepwoken.fandom.com/wiki/Breaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -27,11 +27,15 @@ categories: [Vow of Iron Exclusive, Mementos]
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
+“ Vanquish the largest foe all on your own. ”
+
+― Breaker obtainment hint
+
 ## Description
 
 **Breaker** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. You get access to both [Legion Kata](Legion_Kata.md) and [Way of Navae](Way_of_Navae.md) fighting styles.
 
-The Breaker is a hulking brute, empowering themself throughout the fight, culminating in devasting Strongs Left and Rapid Punches who could split mountains in halve.
+The Breaker is a hulking brute, empowering themselves throughout the fight, leaving Mantras like Strong Left and Rapid Punches extremely devastating.
 
 ## Starting Abilities
 

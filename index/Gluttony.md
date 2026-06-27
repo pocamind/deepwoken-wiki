@@ -1,6 +1,6 @@
 ---
 title: Gluttony
-revid: 212845
+revid: 217999
 source: https://deepwoken.fandom.com/wiki/Gluttony
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -12,7 +12,7 @@ categories: [Enchantments, Weapon Enchantments]
 |---|---|
 | bankable | Yes |
 | droppable | No |
-| pass down | No |
+| pass down | Yes |
 | desc | Steals Water and Stomach from those you hit. |
 | obtainment | Finding a Gluttony enchanted weapon in a chest, LaplaceGluttony Enchant Stone:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Stone), War Mode, Hell Mode, Scion of Ethiron, Maestro Evengarde Rest, Dread Serpent, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Second Layer, Diluvian Mechanism, Galewax Room in the Second Layer, Crafting :, Any Enchant Stone, Megurger, Wrath Gem, Any Enchant Stone, Ambrosial Chum |
 

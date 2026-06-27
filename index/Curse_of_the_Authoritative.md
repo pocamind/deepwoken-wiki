@@ -1,6 +1,6 @@
 ---
 title: Curse of the Authoritative
-revid: 217650
+revid: 218014
 source: https://deepwoken.fandom.com/wiki/Curse_of_the_Authoritative
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -12,7 +12,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 |---|---|
 | bankable | Yes |
 | droppable | No |
-| pass down | No |
+| pass down | Yes |
 | desc | On critical, uppercut, or flourish, apply Authoritative on your opponent making them take 50% more posture damage. When you get guardbroken, take 50% more damage. |
 | obtainment | Curse of the Authoritative Enchant Stone:, Titus Fulminus Destellus |
 

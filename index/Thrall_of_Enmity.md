@@ -1,6 +1,6 @@
 ---
 title: Thrall of Enmity
-revid: 215701
+revid: 218032
 source: https://deepwoken.fandom.com/wiki/Thrall_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -28,7 +28,7 @@ categories: [Equipment, Face, Masks, Equipment with Talents, "Equipment with Non
 
 ## Description
 
-The **Thrall of Enmity** is a Unique [Equipment](Equipment.md) item under the "Face" category, obtained exclusively from the [Heart of Enmity](Heart_of_Enmity.md).
+The **Thrall of Enmity** is a Unique [Equipment](Equipment.md) item under the "Face" category, obtained from the [Heart of Enmity](Heart_of_Enmity.md) and Elder Primadon.
 
 The [Lose Your Mind](Talents.md#lose-your-mind) Talent grants you an incremental damage boost the lower your sanity is. The damage boost starts at 70% sanity (tier 1 insanity) scales nonlinearly until 0% sanity, where it grants a 15% damage buff.
 

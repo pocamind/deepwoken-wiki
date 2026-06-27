@@ -1,6 +1,6 @@
 ---
 title: Saintsworn (Memento)
-revid: 217864
+revid: 217938
 source: https://deepwoken.fandom.com/wiki/Saintsworn_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -26,6 +26,10 @@ _This page is for the [Memento](Mementos.md). For the Oath, see [Oath: Saintswor
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
+
+“ Bring a memento of each attunement to its respective shrine. ”
+
+― Saintsworn (Memento) obtainment hint
 
 ## Overview
 

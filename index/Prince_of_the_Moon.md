@@ -1,6 +1,6 @@
 ---
 title: Prince of the Moon
-revid: 217863
+revid: 217939
 source: https://deepwoken.fandom.com/wiki/Prince_of_the_Moon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -28,6 +28,10 @@ _This page is about the Vow of Iron [Memento](Mementos.md). For other uses, see 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
+
+“ Defeat 3 powerful foes under the blessing of the moon ”
+
+― Prince of the Moon obtainment hint
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant
-revid: 217867
+revid: 217965
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -25,6 +25,10 @@ categories: [Vow of Iron Exclusive, Mementos]
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
+
+“ Spend an exorbitant amount of notes at a box most mysterious. ”
+
+― Strange Merchant obtainment hint
 
 ## Description
 

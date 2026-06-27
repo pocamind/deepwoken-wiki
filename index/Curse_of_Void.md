@@ -1,6 +1,6 @@
 ---
 title: Curse of Void
-revid: 217786
+revid: 218010
 source: https://deepwoken.fandom.com/wiki/Curse_of_Void
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments, The Vat Exclusive]
@@ -12,7 +12,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments, The Vat Excl
 |---|---|
 | bankable | Yes |
 | droppable | No |
-| pass down | No |
+| pass down | Yes |
 | desc | Every enemy you slay while equipping this weapon will always be Drowned. Enemies hit will also experience reduced healing. It also applies 10 seconds of Ether Sunder to PvE opponents. |
 | obtainment | Curse of Void Enchant Stone:, Trading 25 Void Spires and 10 to The Gaunt Man |
 

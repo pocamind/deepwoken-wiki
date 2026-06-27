@@ -1,6 +1,6 @@
 ---
 title: Inheritor of the Gale
-revid: 217860
+revid: 217940
 source: https://deepwoken.fandom.com/wiki/Inheritor_of_the_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -25,6 +25,10 @@ categories: [Vow of Iron Exclusive, Mementos]
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
+
+“ Conquer the foes in Etris alone. ”
+
+― Inheritor of the Gale obtainment hint
 
 ## Description
 
