@@ -1,9 +1,9 @@
 ---
 title: ??? (FalseMan)
-revid: 217935
+revid: 218033
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(FalseMan)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Cut Content, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Individuals with unspecified pronouns]
+categories: [Cut Content, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Individuals with unspecified pronouns, Deceased characters]
 notices:
   - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---

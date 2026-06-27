@@ -1,6 +1,6 @@
 ---
 title: Sworn Angel Mask
-revid: 210828
+revid: 218036
 source: https://deepwoken.fandom.com/wiki/Sworn_Angel_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks, Equipment with Talents, Equipment with Exclusive Talents]

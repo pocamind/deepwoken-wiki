@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 216465
+revid: 218038
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -109,6 +109,8 @@ Vomiting, the [Gluttony](Gluttony.md) Enchantment, and emergency blood regenerat
 The amount of Knowledge gained with the Insightful Regalia is 1.5x the amount without the Regalia, rounding to the nearest number. For example, something that would reward 1 Knowledge will instead reward 2, but if it would reward 2 Knowledge it would give 3 instead.
 
 This works with the [Moonseye Tome](Moonseye_Tome.md), granting 150 knowledge upon first time use and 75 Knowledge on all subsequent uses.
+
+This Regalia is **kept** upon wiping at or below Power 10.
 
 ### Oscillator[\[4\]](#cite-note-archnamedrop2-4)
 

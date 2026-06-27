@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 217977
+revid: 218034
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
@@ -207,12 +207,13 @@ Legs: [Wartreads of Enmity](Wartreads_of_Enmity.md)
 Face: [Thrall of Enmity](Thrall_of_Enmity.md)  
 Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md) |
 |  | [Alchemist's Hat](<Alchemist's_Hat.md>)  
+(**Styles**)  
 (**Series**) | +1 Uncommon Pip
 
 _+Talent: [**Apothecary**](Talents.md#apothecary)_
 
  | Styles:  
-Leather, Quatrefoil
+Leather & Quatrefoil
 
   
 Variants:  
@@ -276,12 +277,13 @@ Brushed & Galvanized |
  | Variants:  
 [Barrel](#barrel-helm) & [Ossified Barrel](#ossified-barrel-helm) |
 |  | [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)  
+(**Styles**)  
 (**Series**) | +1 Rare Pip
 
 _+Talent: [**Apothecary**](Talents.md#apothecary)_
 
  | Styles:  
-Leather, Quatrefoil
+Leather & Quatrefoil
 
   
 Variants:  
@@ -289,13 +291,14 @@ Variants:
 
  |
 |  | [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>)  
+(**Styles**)  
 (**Series**) | +1 Rare Pip
 
 _+Talent: [**Herbivore**](Talents.md#herbivore)_  
 _+Talent: [**Iron Gut**](Talents.md#iron-gut)_
 
  | Styles:  
-Leather, Quatrefoil
+Leather & Quatrefoil
 
   
 Variants:  
@@ -355,13 +358,14 @@ _+Talent: [**Cauterized Wounds**](Talents.md#cauterized-wounds)_
  | Variants:  
 [Bloodforged](#bloodforged-crown) & [The No-Life King's](#the-no-life-kings-crown) |
 |  | [Brigand's Bicorn](<Brigand's_Bicorn.md>)  
-(**Set**) | _+3 Health_  
+(**Styles**)  
+(**Set**) | _+3 Health_
 
 +2 Rare Pips  
 **Requires Power 6**
 
  | Styles:  
-Fabric, Leather
+Fabric & Leather
 
   
 Set: Brigand  
@@ -377,13 +381,14 @@ _+Talent: [**Broodlord's Scream**](Talents.md#broodlords-scream)_
 
  | N/A |
 |  | [Captain's Kabuto](<Captain's_Kabuto.md>)  
+(**Styles**)  
 (**Series**) | _+8 Health_
 
 +1 Rare Pip  
 **Requires Power 5**
 
  | Styles:  
-Cobra, Guard
+Cobra & Guard
 
   
 Variants:  
@@ -509,7 +514,8 @@ Legs: [Evanspear War Boots](Evanspear_War_Boots.md)
 **Requires Power 8**
 
  | N/A |
-|  | [Feathertop Helm](Feathertop_Helm.md) | _+3 Health_
+|  | [Feathertop Helm](Feathertop_Helm.md)  
+(**Styles**) | _+3 Health_
 
 +1 Uncommon Pip
 
@@ -585,13 +591,14 @@ _+Talent: [**Coldseep Reactor**](Talents.md#coldseep-reactor)_
 Head: [Grand Fisher Helm](Grand_Fisher_Helm.md)  
 Arms: [Grand Fisher Plate](Grand_Fisher_Plate.md) |
 |  | [Guard's Kabuto](<Guard's_Kabuto.md>)  
+(**Styles**)  
 (**Series**) | _+8 Health_
 
 +1 Rare Pip  
 **Requires Power 5**
 
  | Styles:  
-Cobra, Guard
+Cobra & Guard
 
   
 Variants:  
@@ -615,12 +622,13 @@ Arms: [Gumshoe Longcoat](Gumshoe_Longcoat.md)
 
  |
 |  | [Handler's Hood](<Handler's_Hood.md>)  
+(**Styles**)  
 (**Series**) | +2 Legendary Pips
 
 **Requires Power 5**
 
  | Styles:  
-Brown, Dark, Navy, Relentless, Shadow, Smoke, Titan, Vermilion
+Brown, Dark, Navy, Relentless, Shadow, Smoke, Titan & Vermilion
 
   
 Variants:  
@@ -628,13 +636,14 @@ Variants:
 
  |
 |  | [Herbalist's Hat](<Herbalist's_Hat.md>)  
+(**Styles**)  
 (**Series**) | +1 Uncommon Pip
 
 _+Talent: [**Herbivore**](Talents.md#herbivore)_  
 _+Talent: [**Iron Gut**](Talents.md#iron-gut)_
 
  | Styles:  
-Leather, Quatrefoil
+Leather & Quatrefoil
 
   
 Variants:  
@@ -642,12 +651,13 @@ Variants:
 
  |
 |  | [High Inquisitor's Hood](<High_Inquisitor's_Hood.md>)  
+(**Styles**)  
 (**Series**) | +2 Legendary Pips
 
 **Requires Power 5**
 
  | Styles:  
-Brown, Dark, Navy, Relentless, Shadow, Smoke, Titan, Vermilion
+Brown, Dark, Navy, Relentless, Shadow, Smoke, Titan & Vermilion
 
   
 Variants:  
@@ -660,7 +670,7 @@ Variants:
 **Requires Power 5**
 
  | Styles:  
-Brown, Dark, Navy, Relentless, Shadow, Smoke, Titan, Vermilion |
+Brown, Dark, Navy, Relentless, Shadow, Smoke, Titan & Vermilion |
 | File:ImmortalHelm.png | [Immortal Helm](Immortal_Helm.md)  
 (**Legendary**) | +1 Rare Pip  
 +1 Legendary Pip
@@ -702,6 +712,7 @@ _+1 Posture_
 |  | [Legate Helm](Legate_Helm.md) | _+5 Health_  
 _+1 Posture_ | N/A |
 |  | [Legion Helmet](Legion_Helmet.md)  
+(**Styles**)  
 (**Set**) | _+10 Health_  
 _+2 Posture_
 
@@ -709,7 +720,7 @@ _+2 Posture_
 **Requires Power 10**
 
  | Styles:  
-Brushed, Galvanized
+Brushed & Galvanized
 
   
 Set: Legion  
@@ -718,12 +729,13 @@ Arms: [Legion Pauldrons](Legion_Pauldrons.md)
 Legs: [Legion Boots](Legion_Boots.md)
 
  |
-|  | [Miner's Hardhat](<Miner's_Hardhat.md>) | _+1 Posture_
+|  | [Miner's Hardhat](<Miner's_Hardhat.md>)  
+(**Styles**) | _+1 Posture_
 
 +2 Rare Pips
 
  | Styles:  
-Brass Rookie, Brass Roughneck, Steel Rookie, Steel Roughneck |
+Brass Rookie, Brass Roughneck, Steel Rookie & Steel Roughneck |
 |  | [Monastery Cowl](Monastery_Cowl.md)  
 (**Styles**)  
 (**Set**)  
@@ -802,6 +814,7 @@ Arms: [Ossified Black Pauldrons](Ossified_Black_Pauldrons.md)
 
  |
 |  | [Parasol Planter](Parasol_Planter.md)  
+(**Styles**)  
 (**Unique**) | _+2 Health_
 
 +3 Rare Pip  
@@ -809,7 +822,7 @@ _+Talent: [**Grotesque Resilience**](Talents.md#grotesque-resilience)_
 **Requires Power 10**
 
  | Styles:  
-Fabric, Leather, Robust |
+Fabric, Leather & Robust |
 |  | [Party Hat](Party_Hat.md)  
 (**Limited Time Event**) | N/A | N/A |
 |  | [Phalanx Helmet](Phalanx_Helmet.md)  
@@ -851,6 +864,7 @@ Legs: [Reinforced War Boots](Reinforced_War_Boots.md)
 
  |
 |  | [Royal Guard's Kabuto](<Royal_Guard's_Kabuto.md>)  
+(**Styles**)  
 (**Series**) | _+8 Health_  
 
 +1 Rare Pip  
@@ -858,7 +872,7 @@ Legs: [Reinforced War Boots](Reinforced_War_Boots.md)
 **Requires Power 10**
 
  | Styles:  
-Mamba, Royal Guard
+Mamba & Royal Guard
 
   
 Variants:  
@@ -872,13 +886,14 @@ _+Talent: [**Seamaster's Guile**](Talents.md#seamasters-guile)_
 
  | N/A |
 |  | [Shock Trooper Helmet](Shock_Trooper_Helmet.md)  
+(**Styles**)  
 (**Set**) | _+8 Health_
 
 +1 Rare Pip  
 **Requires Power 10**
 
  | Styles:  
-21st Legion, 49th Legion, 84th Legion, The Immortals
+21st Legion, 49th Legion, 84th Legion & The Immortals
 
   
 Variants:  
@@ -926,6 +941,7 @@ Head: [Smith's Bandana](<Smith's_Bandana.md>)
 Arms: [Smith's Gloves](<Smith's_Gloves.md>)  
 Face: [Smith's Goggles](<Smith's_Goggles.md>) |
 |  | [Specialist Helmet](Specialist_Helmet.md)  
+(**Styles**)  
 (**Set**) | _+8 Health_
 
 _+Talent: [**Volt Draft**](Talents.md#volt-draft)_  
@@ -933,7 +949,7 @@ _+Set Talent: [**Shock Trooper Specialist**](Talents.md#shock-trooper-specialist
 **Requires Power 20, 30 Galebreathe, 30 Thundercall**
 
  | Styles:  
-21st Legion, 49th Legion, 84th Legion, The Immortals
+21st Legion, 49th Legion, 84th Legion & The Immortals
 
   
 Variants:  
@@ -953,7 +969,7 @@ _+Talent: [**Eureka**](Talents.md#eureka)_
 **Requires Power 6**
 
  | Styles:  
-Default, Grey Fabric, Double Fabric & Double Leather |
+Default, Grey Fabric, Double (Fabric, Leather) |
 |  | [Ten-Gallon Hat](Ten-Gallon_Hat.md)  
 (**Set**) | _+2 Posture_
 
@@ -1005,12 +1021,13 @@ Arms: [Aristocrat Coat](Aristocrat_Coat.md)
 Face: [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
 
  |
-|  | [Vagabond's Bicorn](<Vagabond's_Bicorn.md>) | _+4 Health_
+|  | [Vagabond's Bicorn](<Vagabond's_Bicorn.md>)  
+(**Styles**) | _+4 Health_
 
 +1 Uncommon Pip
 
  | Styles:  
-Dark Fabric, Dark Leather, Light Fabric, Light Leather |
+Dark (Fabric, Leather) & Light (Fabric, Leather) |
 |  | [Vigil Hood](Vigil_Hood.md) | +2 Rare Pips  
 +1 Legendary Pip  
 
@@ -1089,7 +1106,9 @@ _+Talent: [**Ashes on the Fire**](Talents.md#ashes-on-the-fire)_
 
  | N/A |
 |  | [Worldshaper's Laurel](<Worldshaper's_Laurel.md>)  
-(**Unobtainable**) | N/A | N/A |
+(**Unobtainable**)  
+(**Styles**) | N/A | Styles:  
+Tarnished & Unblemished |
 
 **Arms:**
 
@@ -1142,7 +1161,7 @@ Ash, Pink, Rural, Sable & Tawny |
 **Requires Power 5**
 
  | Styles:  
-Black, Brown, Green, White |
+Black, Brown, Green & White |
 |  | [Aristocrat Coat](Aristocrat_Coat.md)  
 (**Styles**)  
 (**Set**) | _+6 Health_
@@ -1225,13 +1244,14 @@ Amber, Haze, Bronze, Gold, Royal, Ruby, Stygian & Verdant |
 Arms: [Autumn Pauldrons](Autumn_Pauldrons.md)  
 Legs: [Autumn Boots](Autumn_Boots.md) |
 |  | [Azure Sentinel Pauldrons](Azure_Sentinel_Pauldrons.md)  
+(**Styles**)  
 (**Set**) | +2 Rare Pips  
 +1 Legendary Pip  
 
 **Requires Power 8**
 
  | Styles:  
-Brushed, Galvanized
+Brushed & Galvanized
 
   
 Set: Azure Sentinel  
@@ -1262,7 +1282,7 @@ _+Talent: [**Swift Blade**](Talents.md#swift-blade)_
 _+Set Talent: [**Momentum**](Talents.md#momentum)_
 
  | Styles:  
-Dark (Ronin, Saint), Light (Ronin, Saint), Red (Ronin, Saint), Seafoam (Ronin, Saint)
+Dark (Ronin, Saint), Light (Ronin, Saint), Red (Ronin, Saint) & Seafoam (Ronin, Saint)
 
   
 Set: Blademaster  
@@ -1303,6 +1323,7 @@ Legs: [Bluestone Boots](Bluestone_Boots.md)
 
  |
 |  | [Brigand's Cloak](<Brigand's_Cloak.md>)  
+(**Styles**)  
 (**Set**) | _+3 Health_  
 _+4% Stealth_
 
@@ -1310,7 +1331,7 @@ _+4% Stealth_
 **Requires Power 5**
 
  | Styles:  
-Fabric, Leather
+Fabric & Leather
 
   
 Set: Brigand  
@@ -1319,6 +1340,7 @@ Arms: [Brigand's Cloak](<Brigand's_Cloak.md>)
 
  |
 | File:Brilliant Pauldrons.png | [Brilliant Pauldrons](Brilliant_Pauldrons.md)  
+(**Styles**)  
 (**Set**) | _+5 Health_
 
 +2 Rare Pips  
@@ -1326,7 +1348,7 @@ Arms: [Brigand's Cloak](<Brigand's_Cloak.md>)
 **Requires Power 10**
 
  | Styles:  
-Debonair (Brushed, Rough), Warlike (Brushed, Rough)
+Debonair (Brushed, Rough) & Warlike (Brushed, Rough)
 
   
 Set: Brilliant  
@@ -1452,6 +1474,7 @@ Arms: [Ether Refined Mantle](Ether_Refined_Mantle.md)
 
  |
 |  | [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)  
+(**Styles**)  
 (**Set**) | _+8 Health_
 
 +1 Uncommon Pip  
@@ -1461,7 +1484,7 @@ _+Talent: [**Battle Tendency**](Talents.md#battle-tendency)_
 **Requires Power 10**
 
  | Styles:  
-Anaconda, Cobra, Mamba, Psammophis, Steel
+Anaconda, Cobra, Mamba, Psammophis & Steel
 
   
 Set: Etrean Siege  
@@ -1506,7 +1529,7 @@ _+1 Posture_
 **Requires Power 8**
 
  | Styles:  
-Brushed, Galvanized
+Brushed & Galvanized
 
   
 Set: Flameguard  
@@ -1591,13 +1614,14 @@ _+Talent: [**Diver's Resilience**](Talents.md#divers-resilience)_
 Head: [Grand Fisher Helm](Grand_Fisher_Helm.md)  
 Arms: [Grand Fisher Plate](Grand_Fisher_Plate.md) |
 | File:Grand Pauldrons.png | [Grand Pauldrons](Grand_Pauldrons.md)  
+(**Styles**)  
 (**Set**) | _+1 Posture_
 
 +2 Rare Pips  
 **Requires Power 5**
 
  | Styles:  
-Brushed, Galvanized
+Brushed & Galvanized
 
   
 Set: Grand  
@@ -1630,6 +1654,8 @@ Arms: [Gumshoe Longcoat](Gumshoe_Longcoat.md)
 |  | [Hardened Enforcer Plate](Hardened_Enforcer_Plate.md)  
 (**Set**) | _+1 Posture_
 
++1 Rare Pip  
++1 Legendary Pip  
 _+Talent: **[Berserker](Cut_Content.md#berserker)**_  
 _+Talent: [**Enforcer's Strength**](Talents.md#enforcers-strength)_  
 _+Set Talent: [**Enforcer's Pull**](Talents.md#enforcers-pull)_  
@@ -1690,13 +1716,14 @@ Legs: [Imperial Boots](Imperial_Boots.md)
  | Styles:  
 Brown, Dark, Navy, Smoke & Titan |
 |  | [Iron Pauldrons](Iron_Pauldrons.md)  
+(**Styles**)  
 (**Set**) | _+1 Posture_
 
 +2 Rare Pips  
 **Requires Power 5**
 
  | Styles:  
-Classic, Galvanized
+Classic & Galvanized
 
   
 Set: Iron  
@@ -1736,14 +1763,15 @@ Legs: [Leather Boots](Leather_Boots.md) |
 _+1 Posture_ | Set: Leather  
 Arms: [Leather Gloves](Leather_Gloves.md)/[Leather Pauldrons](Leather_Pauldrons.md)  
 Legs: [Leather Boots](Leather_Boots.md) |
-|  | [Legion Pauldrons](Legion_Pauldrons.md) | _+3 Health_
+|  | [Legion Pauldrons](Legion_Pauldrons.md)  
+(**Styles**) | _+3 Health_
 
 +2 Rare Pips  
 _+Talent: [**Polite Awakening**](Talents.md#polite-awakening)_  
 **Requires Power 8**
 
  | Styles:  
-Brushed, Galvanized
+Brushed & Galvanized
 
   
 Set: Legion  
@@ -1795,7 +1823,7 @@ _+10 Ether_
 **Requires Power 8**
 
  | Styles:  
-Onyx, Pink, Scarlet, Verdant, Yellow, & Smoke |
+Onyx, Pink, Scarlet, Verdant, Yellow & Smoke |
 |  | [Ministry Operative Cloak](Ministry_Operative_Cloak.md) | _+6% Stealth_
 
 +2 Rare Pips  
@@ -1805,6 +1833,7 @@ _+Talent: [**Eureka**](Talents.md#eureka)_
 
  | N/A |
 |  | [Monastery Champion Robes](Monastery_Champion_Robes.md)  
+(**Styles**)  
 (**Set**)  
 (**Legendary**) | _+8 Health_  
 _+1 Posture_
@@ -1815,7 +1844,7 @@ _+Talent: [**Temple Guard**](Talents.md#temple-guard)_
 **Requires Power 12**
 
  | Styles:  
-Champion (Cotton, Linen), Oni (Cotton, Linen)
+Champion (Cotton, Linen) & Oni (Cotton, Linen)
 
   
 Set: Monastery Champion  
@@ -1953,7 +1982,7 @@ _+Talent: [**Ready or Not**](Talents.md#ready-or-not)_
 +1 Rare Pip
 
  | Styles:  
-Dark (Corduroy, Knit), Light (Corduroy, Knit) |
+Dark (Corduroy, Knit) & Light (Corduroy, Knit) |
 |  | [Sandrunner Wraps](Sandrunner_Wraps.md)  
 (**Set**) | _+6 Health_  
 _+8% Fire Armor_  
@@ -1968,6 +1997,7 @@ _+Talent: [**Kick Off**](Talents.md#kick-off)_
 Arms: [Sandrunner Wraps](Sandrunner_Wraps.md)  
 Torso: [Sandrunner Scarf](Sandrunner_Scarf.md) |
 |  | [Shock Trooper Plate](Shock_Trooper_Plate.md)  
+(**Styles**)  
 (**Set**)  
 (**Cloth Physics**) | _+5 Health_
 
@@ -1975,7 +2005,7 @@ Torso: [Sandrunner Scarf](Sandrunner_Scarf.md) |
 **Requires Power 10**
 
  | Styles:  
-21st Legion, 49th Legion, 84th Legion, The Immortals
+21st Legion, 49th Legion, 84th Legion & The Immortals
 
   
 Variants:  
@@ -2004,13 +2034,14 @@ Arms: [Silver Pauldrons](Silver_Pauldrons.md)
 Legs: [Silver Sabatons](Silver_Sabatons.md)
 
  |
-|  | [Simple Pauldrons](Simple_Pauldrons.md) | _+2 Health_  
+|  | [Simple Pauldrons](Simple_Pauldrons.md)  
+(**Styles**) | _+2 Health_  
 _+1 Posture_
 
 +1 Common Pip
 
  | Styles:  
-Not So Simple, Simple
+Not So Simple & Simple
 
   
 Variants:  
@@ -2035,6 +2066,7 @@ Face: [Smith's Goggles](<Smith's_Goggles.md>)
 
  |
 |  | [Specialist Plate](Specialist_Plate.md)  
+(**Styles**)  
 (**Set**)  
 (**Cloth Physics**) | _+5 Health_
 
@@ -2044,7 +2076,7 @@ _+Set Talent: [**Shock Trooper Specialist**](Talents.md#shock-trooper-specialist
 **Requires Power 20, 30 Galebreathe, 30 Thundercall**
 
  | Styles:  
-21st Legion, 49th Legion, 84th Legion, The Immortals
+21st Legion, 49th Legion, 84th Legion & The Immortals
 
   
 Variants:  
@@ -2083,7 +2115,7 @@ _+1 Posture_
 **Requires Power 5**
 
  | Variants:  
-[Default](Summer_Scarf.md), [Threadwork](Summer_Scarf.md) |
+[Summer](Summer_Scarf.md), [Threadwork](Summer_Scarf.md) |
 |  | [Terraplate Pauldrons](Terraplate_Pauldrons.md) | +2 Rare Pips  
 +1 Legendary Pip
 
@@ -2120,7 +2152,7 @@ Legs: [Tracker's Boots](<Tracker's_Boots.md>) |
 **Requires Power 5**
 
  | Styles:  
-Black, Brown, & White |
+Black, Brown & White |
 | File:Vanguardbrace.png | [Vanguard Brace](Vanguard_Brace.md)  
 (**Set**) | _+3 Health_  
 _+1 Posture_
@@ -2329,6 +2361,7 @@ Legs: [Bluestone Boots](Bluestone_Boots.md)
 
  |
 | File:Brilliant Boots.png | [Brilliant Boots](Brilliant_Boots.md)  
+(**Styles**)  
 (**Set**) | +2 Rare Pips | Styles:  
 Brushed, Galvanized
 
@@ -2357,13 +2390,14 @@ _+Talent: [**Cosmic Connection**](Talents.md#cosmic-connection)_
 Head: [Celtor Commander Helm](Celtor_Commander_Helm.md)  
 Arms: [Celtor Commander Plate](Celtor_Commander_Plate.md)  
 Legs: [Celtorian Sabatons](Celtorian_Sabatons.md) |
-|  | [Delver Boots](Delver_Boots.md) | _+2 Posture_
+|  | [Delver Boots](Delver_Boots.md)  
+(**Styles**) | _+2 Posture_
 
 +1 Uncommon Pip  
 _+Talent: [**Surestep**](Talents.md#surestep)_
 
  | Styles:  
-Delver, Galeworn |
+Delver & Galeworn |
 |  | [Enforcer Boots](Enforcer_Boots.md)  
 (**Set**) | _+1 Posture_
 
@@ -2380,13 +2414,14 @@ Legs: [Enforcer Boots](Enforcer_Boots.md)
 
  |
 |  | [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md)  
+(**Styles**)  
 (**Set**) | _+4 Health_
 
 +2 Rare Pips  
 **Requires Power 5**
 
  | Styles:  
-Anaconda, Cobra, Mamba, Psammophis, Steel
+Anaconda, Cobra, Mamba, Psammophis & Steel
 
   
 Set: Etrean Siege  
@@ -2411,13 +2446,14 @@ Legs: [Evanspear War Boots](Evanspear_War_Boots.md)
 
  |
 |  | [Flameguard Boots](Flameguard_Boots.md)  
+(**Styles**)  
 (**Set**) | _+3 Health_
 
 +2 Rare Pips  
 **Requires Power 5**
 
  | Styles:  
-Brushed, Galvanized
+Brushed & Galvanized
 
   
 Set: Flameguard  
@@ -2477,13 +2513,14 @@ Legs: [Grand Authority Sabatons](Grand_Authority_Sabatons.md)
 
  |
 | File:Grand Boots.png | [Grand Boots](Grand_Boots.md)  
+(**Styles**)  
 (**Set**) | _+1 Posture_
 
 +2 Rare Pips  
 **Requires Power 5**
 
  | Styles:  
-Brushed, Galvanized
+Brushed & Galvanized
 
   
 Set: Grand  
@@ -2524,8 +2561,9 @@ Legs: [Imperial Boots](Imperial_Boots.md)
 
  |
 |  | [Iron Boots](Iron_Boots.md)  
+(**Styles**)  
 (**Set**) | +2 Rare Pips | Styles:  
-Classic, Galvanized
+Classic & Galvanized
 
   
 Set: Iron  
@@ -2534,12 +2572,13 @@ Legs: [Iron Boots](Iron_Boots.md)
 
  |
 |  | [Leather Boots](Leather_Boots.md)  
+(**Styles**)  
 (**Set**) | _+4 Health_
 
 +1 Common Pip
 
  | Styles:  
-Rough, Smooth
+Rough & Smooth
 
   
 Set: Leather  
@@ -2548,13 +2587,14 @@ Legs: [Leather Boots](Leather_Boots.md)
 
  |
 |  | [Legion Boots](Legion_Boots.md)  
+(**Styles**)  
 (**Set**) | _+3 Health_
 
 +2 Rare Pips  
 **Requires Power 5**
 
  | Styles:  
-Brushed, Galvanized
+Brushed & Galvanized
 
   
 Set: Legion  
@@ -2653,13 +2693,14 @@ Legs: [Reinforced War Boots](Reinforced_War_Boots.md)
 
  |
 |  | [Shock Trooper Boots](Shock_Trooper_Boots.md)  
+(**Styles**)  
 (**Set**) | _+2 Posture_
 
 +1 Uncommon Pip  
 **Requires Power 10**
 
  | Styles:  
-21st Legion, 49th Legion, 84th Legion, The Immortals
+21st Legion, 49th Legion, 84th Legion & The Immortals
 
   
 Variants:  
@@ -2688,6 +2729,7 @@ Legs: [Silver Sabatons](Silver_Sabatons.md)
 
  |
 |  | [Specialist Boots](Specialist_Boots.md)  
+(**Styles**)  
 (**Set**) | _+1 Posture_
 
 +1 Uncommon Pip  
@@ -2696,7 +2738,7 @@ _+Set Talent: [**Shock Trooper Specialist**](Talents.md#shock-trooper-specialist
 **Requires Power 20, 30 Galebreathe, 30 Thundercall**
 
  | Styles:  
-21st Legion, 49th Legion, 84th Legion, The Immortals
+21st Legion, 49th Legion, 84th Legion & The Immortals
 
   
 Variants:  
@@ -2827,22 +2869,24 @@ Variants/Set
 
  | Styles:  
 Default, Black, Crimson, Dawn, Desert, Dusk, Forest, Tundra & White |
-|  | [Amedan Pendant](Amedan_Pendant.md) | _+3% Elemental Armor_
+|  | [Amedan Pendant](Amedan_Pendant.md)  
+(**Styles**) | _+3% Elemental Armor_
 
 +1 Rare Pip  
 +1 Legendary Pip  
 **Requires Power 5**
 
  | Styles:  
-Tarnished, Unblemished |
+Tarnished & Unblemished |
 |  | [Brilliant Cape](Brilliant_Cape.md)  
+(**Styles**)  
 (**Set**) | _+3% Elemental Armor_
 
 +1 Legendary Pip  
 **Requires Power 5**
 
  | Styles:  
-Adretian Hero, Antihero, Beastslayer, Default, Kingmaker, Lightbringer, Northerner, Paladin, Snowbringer, Ranger
+Adretian Hero, Antihero, Beastslayer, Default, Kingmaker, Lightbringer, Northerner, Paladin, Snowbringer & Ranger
 
   
 Set: Brilliant  
@@ -2851,22 +2895,24 @@ Legs: [Brilliant Boots](Brilliant_Boots.md)
 Torso: [Brilliant Cape](Brilliant_Cape.md)
 
  |
-|  | [Canticlysm Pendant](Canticlysm_Pendant.md) | _+3% Elemental Armor_
+|  | [Canticlysm Pendant](Canticlysm_Pendant.md)  
+(**Styles**) | _+3% Elemental Armor_
 
 +1 Rare Pip  
 +1 Legendary Pip  
 **Requires Power 5**
 
  | Styles:  
-Metal, Precious Stone, Tarnished |
-| File:Confessors Charm.png | [Confessor's Charm](<Confessor's_Charm.md>) | _+3% Physical Armor_
+Metal, Precious Stone & Tarnished |
+| File:Confessors Charm.png | [Confessor's Charm](<Confessor's_Charm.md>)  
+(**Styles**) | _+3% Physical Armor_
 
 +1 Rare Pip  
 +1 Legendary Pip  
 **Requires Power 5**
 
  | Styles:  
-Classic, Tarnished |
+Classic & Tarnished |
 |  | [Curseblood Pendant](Curseblood_Pendant.md) | _+3% Elemental Armor_
 
 +1 Legendary Pip  
@@ -2994,6 +3040,7 @@ Legs: [Wartreads of Enmity](Wartreads_of_Enmity.md)
 Face: [Thrall of Enmity](Thrall_of_Enmity.md)  
 Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity.md) |
 |  | [Monastery Beads](Monastery_Beads.md)  
+(**Styles**)  
 (**Set**)  
 (**Legendary**) | _+3% Elemental Armor_
 
@@ -3001,7 +3048,7 @@ Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity
 **Requires Power 5**
 
  | Styles:  
-Oni, Polished Stone, Wood
+Oni, Polished Stone & Wood
 
   
 Variants:  
@@ -3031,21 +3078,22 @@ Torso: [Monastery Beads](Monastery_Beads.md)
 _+Talent: [**Breathing Exercise**](Talents.md#breathing-exercise)_
 
  | Styles:  
-Left & Right |
+Default & Right |
 |  | [Pathfinder's Backpack](<Pathfinder's_Backpack.md>) | _+35 Carry Load_
 
 +1 Uncommon Pip  
 _+Talent: [**Robber Baron**](Talents.md#robber-baron)_
 
  | N/A |
-|  | [Pendant of Order](Pendant_of_Order.md) | _+3% Physical Armor_
+|  | [Pendant of Order](Pendant_of_Order.md)  
+(**Styles**) | _+3% Physical Armor_
 
 +1 Rare Pip  
 +1 Legendary Pip  
 **Requires Power 5**
 
  | Styles:  
-Balanced, Classic, Glory, Oldhead |
+Balanced, Classic, Glory & Oldhead |
 |  | [Plain Cape](Plain_Cape.md)  
 (**Styles**) | _+3% Physical Armor_
 
@@ -3053,7 +3101,7 @@ Balanced, Classic, Glory, Oldhead |
 **Requires Power 5**
 
  | Styles:  
-Authority, Black, Blue, Golden, Green, Grey, Red, White |
+Authority, Black, Blue, Golden, Green, Grey, Red & White |
 |  | [Red Eye Pendant](Red_Eye_Pendant.md) | _+3% Elemental Armor_
 
 +1 Legendary Pip  
@@ -3106,21 +3154,23 @@ _+5% Stealth_<br
 
  | Styles:  
 Red, Black, Midnight & White |
-|  | [Suncross Pendant](Suncross_Pendant.md) | _+3% Elemental Armor_
+|  | [Suncross Pendant](Suncross_Pendant.md)  
+(**Styles**) | _+3% Elemental Armor_
 
 +1 Legendary Pip  
 **Requires Power 5**
 
  | Styles:  
-Tarnished, Unblemished |
-|  | [Threadwork Kilt](Threadwork_Kilt.md) | _+1 Posture_  
+Tarnished & Unblemished |
+|  | [Threadwork Kilt](Threadwork_Kilt.md)  
+(**Styles**) | _+1 Posture_  
 _+20 Carry Load_  
 
 +1 Rare Pip  
 **Requires Power 5**
 
  | Styles:  
-Houndstooth, Masterwork, Threadwork, Well-Crafted |
+Houndstooth, Masterwork, Threadwork & Well-Crafted |
 |  | [Thresher Charm](Thresher_Charm.md)  
 (**Styles**)  
 (**Cloth Physics**) | +2 Rare Pips
@@ -3131,6 +3181,7 @@ _+Talent: [**Thresher Thrasher**](Talents.md#thresher-thrasher)_
  | Styles:  
 Default & Hang In There |
 |  | [Tiran Pendant](Tiran_Pendant.md)  
+(**Styles**)  
 (**Relic**) | _+2 Health_
 
 +1 Legendary Pip  
@@ -3138,7 +3189,7 @@ _+Talent: [**Featherfall**](Talents.md#featherfall)_
 **Requires Power 5**
 
  | Styles:  
-Tarnished, Unblemished |
+Tarnished & Unblemished |
 |  | [Trickster's Scarf](<Trickster's_Scarf.md>)  
 (**Styles**)  
 (**Unique**) | +2 Legendary Pips  
@@ -3160,9 +3211,10 @@ Amber, Black, Lavender & White |
 **Requires Power 5**
 
  | N/A |
-|  | [Wheel Pendant](Wheel_Pendant.md) | +1 Rare Pip  
+|  | [Wheel Pendant](Wheel_Pendant.md)  
+(**Styles**) | +1 Rare Pip  
 +1 Legendary Pip | Styles:  
-Tarnished, Unblemished
+Tarnished & Unblemished
 
   
 Variants:  
@@ -3170,13 +3222,14 @@ Variants:
 
  |
 |  | [Warmaster's Medallion](<Warmaster's_Medallion.md>)  
+(**Styles**)  
 (**Relic**) | +1 Legendary Pip
 
 _+Talent: [**Actions Speak Louder**](Talents.md#actions-speak-louder)_  
 **Requires Power 5**
 
  | Styles:  
-Glorious, Martial, Radiant, Valiant |
+Glorious, Martial, Radiant & Valiant |
 |  | [Whistling Periapt](Whistling_Periapt.md)  
 (**Relic**) | _+1 Health_  
 _+8% Wind Armor_  
@@ -3185,13 +3238,14 @@ _+Talent: [**Whistleguard**](Talents.md#whistleguard)_
 **Requires Power 5**
 
  | N/A |
-|  | [Wormwarder Lantern](Wormwarder_Lantern.md) | _+10 Sanity_  
+|  | [Wormwarder Lantern](Wormwarder_Lantern.md)  
+(**Styles**) | _+10 Sanity_  
 _+10 Carry Load_
 
 _+Talent: [**Wormwarder**](Talents.md#wormwarder)_
 
  | Styles:  
-Frontier, Furnace |
+Frontier & Furnace |
 |  | [Tied Tie](Tied_Tie.md)  
 (**Unobtainable**) | _+5 Health_
 
@@ -3302,8 +3356,9 @@ Variants:
 [Round](Citadel_Frames.md) & [Browline](Citadel_Frames.md)
 
  |
-|  | [Demon Mask](Demon_Mask.md) | +1 Rare Pip | Styles:  
-Anaconda, Cobra, Mamba, Oni, Psammophis, Taipan |
+|  | [Demon Mask](Demon_Mask.md)  
+(**Styles**) | +1 Rare Pip | Styles:  
+Anaconda, Cobra, Mamba, Oni, Psammophis & Taipan |
 |  | [Dermal Stud](Dermal_Stud.md) | _+1 Health_ | N/A |
 |  | [Duelist Mask](Duelist_Mask.md) | _+6% Stealth_
 
@@ -3371,7 +3426,7 @@ Face: [Smith's Goggles](<Smith's_Goggles.md>) |
 |  | [Summer Nauticals](Summer_Nauticals.md)  
 (**Styles**) | +1 Rare Pip | Styles:  
 Classic, Dusk & Seaglass |
-| File:Sworn Angel Mask1.png | [Sworn Angel Mask](Sworn_Angel_Mask.md)  
+|  | [Sworn Angel Mask](Sworn_Angel_Mask.md)  
 (**Series**) | +2 Rare Pips
 
 _+Talent: [**Angel's Guise**](Talents.md#angels-guise)_

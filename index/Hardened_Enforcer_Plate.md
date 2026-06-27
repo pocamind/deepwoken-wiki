@@ -1,6 +1,6 @@
 ---
 title: Hardened Enforcer Plate
-revid: 215896
+revid: 218037
 source: https://deepwoken.fandom.com/wiki/Hardened_Enforcer_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -15,7 +15,7 @@ categories: [Pathfinder Exclusive, Equipment, Arms, Plates, Craftable, Equipment
 | selling price | 14 |
 | requirements | Power 8 |
 | weight | 2 |
-| innate stats | +1 Posture |
+| innate stats | +1 Posture , +1 Rare Pip, +1 Legendary Pip |
 | innate talent | BerserkerEnforcer's Strength |
 | set | Hardened Enforcer Plate, Hardened Enforcer Boots |
 | set talent | Enforcer's Pull |
