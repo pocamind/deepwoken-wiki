@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 216497
+revid: 218039
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -936,15 +936,16 @@ N/A
 
 **Effect:** _After a short delay and indicator, instantly swap location with whatever target your cursor is on._
 
--   Range scales with current health.
 -   This can be used on NPCs, players or monsters.
--   Has 0.8s wind up, blockable (needs testing)
--   Estimated 300 - 350 Stud range.
+-   Has 0.8s wind up out of combat, windup scales with range in combat, blockable? (needs testing)
+-   150-300 (depending on hp) Stud range but still plays the animation 10% over your current range (e.g. max hp 300 stud range will still play the animation out at 320 studs but not anything over 330)
 -   Cannot be used while in water or airborne.
 -   30 Second Cooldown.
 -   Can be used for escaping situations or for trolling.
--   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase its range.
--   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to speed up the casting and shorten the cooldown but greatly reduce the range. This allows you to use the mantra in Chime.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to supposably increase range but currently does nothing.
+-   Can be modified with [Aeon](Mantra_Modifiers.md#regular-modifiers)/[Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) but currently does nothing.
+-   Mantra Levels currently do nothing.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to speed up the casting speed to 0.6 seconds, shorten the cooldown to 5 seconds, greatly reduce the range to 40-50 studs (depends on hp). This allows you to use the mantra in Chime of Conflict.
 
  |
 
