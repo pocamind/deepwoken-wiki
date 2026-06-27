@@ -1,6 +1,6 @@
 ---
 title: ??? (FalseMan)
-revid: 217908
+revid: 217935
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(FalseMan)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Individuals with unspecified pronouns]
@@ -14,6 +14,7 @@ notices:
 |---|---|
 | aspect | Felinor |
 | location | New Kyrsa, The Sleeping City |
+| death | Committed suicide |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

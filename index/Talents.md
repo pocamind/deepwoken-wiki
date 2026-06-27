@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 217871
+revid: 217929
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4305,7 +4305,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   Because [Untrained Fist](Untrained_Fist.md) doesn't have a bare hands weapon variant, it bugs with this Talent, resulting in you continuing to use your Inheritor, with all buffs applied.
     -   Using [Sovereign State](#sovereign-state) while this is active will extend the duration of the effect, until your Sovereign State ends.
 
--   Blitz: [Forgotten Gladius](Forgotten_Gladius.md) & [Kindred Edict](Kindred_Edict.md) - Increase how quick you release your [Prominence Draw](Attunement-less.md#prominence-draw).
+-   Blitz: [Forgotten Gladius](Forgotten_Gladius.md) - Increase how quick you release your [Prominence Draw](Attunement-less.md#prominence-draw).
     -   Decreases Prominence Draw's windup by 0.1s (from 0.55s to 0.45s).
     -   Adds a new sound effect to Prominence Draw.
 

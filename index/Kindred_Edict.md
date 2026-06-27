@@ -1,9 +1,9 @@
 ---
 title: Kindred Edict
-revid: 217473
+revid: 217927
 source: https://deepwoken.fandom.com/wiki/Kindred_Edict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Weapons with Talents, "Core-Attribute based weapons"]
+categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Core-Attribute based weapons"]
 ---
 
 # Kindred Edict
@@ -20,7 +20,6 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons wit
 | swing speed | 1.05x |
 | attack duration | 0.6s |
 | penetration | 10% |
-| talent | Blitz - Increase how quick you release your Prominence Draw. |
 | special effect | Critical cooldown is cleared on hit and can be used multiple times.Applies Wither on critical if your Starkindred wings are out. |
 | m.equip | No |
 | m.extract | No |
@@ -38,12 +37,6 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons wit
 ## Description
 
 The Kindred Edict is a Medium-Body Sword; a pallid, glimmering blade forged from the remnants of Celestial crash sites, used as a staple in the Starkindred Faith.
-
-## Talents
-
-Equipping the Kindred Edict grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
-
-**Blitz** reduces the Windup of your [Prominence Draw](Attunement-less.md#prominence-draw) by 0.1s (from 0.55s to 0.45s).
 
 ## Critical
 
