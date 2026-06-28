@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 216064
+revid: 218048
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Central Authority Enemies]
@@ -12,7 +12,7 @@ categories: [Enemies, Enemies that can wield Enchantments, Central Authority Ene
 |---|---|
 | health | 400 |
 | drops | Authority Helm, Spark Gland |
-| weapon | Cavalry Saber, Mace, Adretian Axe |
+| weapon | Officer Saber, Mace, Adretian Axe |
 | moves | Assault, Critical, Jolt Grab, Thunder Kick |
 
 ## Description

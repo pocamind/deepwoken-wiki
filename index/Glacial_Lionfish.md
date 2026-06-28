@@ -1,6 +1,6 @@
 ---
 title: Glacial Lionfish
-revid: 216809
+revid: 218052
 source: https://deepwoken.fandom.com/wiki/Glacial_Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -24,8 +24,8 @@ Glacial Lionfish only features a primarily white coloring and blue blank eyes. I
 
 ## Moves
 
-| **Name** | **Description** | **Media** |  |
-| --- | --- | --- | --- |
+| **Name** | **Description** | **Media** |
+| --- | --- | --- |
 | 
 **Bite**  
 (★☆☆)
@@ -38,7 +38,7 @@ Glacial Lionfish only features a primarily white coloring and blue blank eyes. I
 -   ⛊ Blockable
 -   § Dodgeable
 
- |  |
+ |
 | 
 
 **Glacial Cero**  

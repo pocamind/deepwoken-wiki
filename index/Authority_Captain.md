@@ -1,6 +1,6 @@
 ---
 title: Authority Captain
-revid: 216075
+revid: 218046
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Central Authority Enemies, Enemies that can wield Enchantments]
@@ -12,7 +12,7 @@ categories: [Enemies, Central Authority Enemies, Enemies that can wield Enchantm
 |---|---|
 | health | 4000 |
 | drops | Parka (Series) |
-| weapon | Cavalry Saber, Adretian Axe |
+| weapon | Officer Saber, Adretian Axe |
 | moves | Assault, Critical, Ice Smash, Ice Eruption, Glacial Shower, Iceberg |
 
 ## Description
