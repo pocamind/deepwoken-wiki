@@ -1,6 +1,6 @@
 ---
 title: Maestro Alkhurst Legato
-revid: 215759
+revid: 218056
 source: https://deepwoken.fandom.com/wiki/Maestro_Alkhurst_Legato
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, Maestros of the Vigils, Circle of Honour members]
@@ -56,13 +56,13 @@ Maestro Alkhurst Legato is located in the [Temple Sparring Hall](Temple_Sparring
 </tr>
 <tr>
   <td colspan="20"><font>[Reclaimer of the Recollection speaks to the player]</font><br>
-  <i>*The Reclaimer's voice echoes in your head.*</i> Maestro Alkhurst Legato... A senior member of the Circle, whose duty of defending the Isle of Vigils from Zi'eers [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] assaults unfortunately prevented him from facing the Regent. Alkhurst's efforts were valiant, even heroic, considering the circumstances... His contributions aided our cause significantly.</td>
+  <i>*The Reclaimer's voice echoes in your head.*</i> Maestro Alkhurst Legato... A senior member of the Circle, whose duty of defending the Isle of Vigils from Zi'eer's assaults unfortunately prevented him from facing the Regent. Alkhurst's efforts were valiant, even heroic, considering the circumstances... His contributions aided our cause significantly.</td>
 </tr>
 <tr>
   <td colspan="20">What happened to him, in the end?</td>
 </tr>
 <tr>
-  <td colspan="20">Alkhurst, too, was a bearer of an Iron Memento. Although, he was unable to accomplish his mission. Some years after the Recollection's time, without support from the Etrean Royalists, the Regent's forces attempted one final push against the island. He gave his life defending the temple, repealing Zi'eers [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] forces for good. Speak to him the words of our Circle, Inheritor, and observe what unfolds.</td>
+  <td colspan="20">Alkhurst, too, was a bearer of an Iron Memento. Although, he was unable to accomplish his mission. Some years after the Recollection's time, without support from the Etrean Royalists, the Regent's forces attempted one final push against the island. He gave his life defending the temple, repealing Zi'eer's forces for good. Speak to him the words of our Circle, Inheritor, and observe what unfolds.</td>
 </tr>
 <tr>
   <td colspan="20">In Iron we recall.</td>
@@ -298,13 +298,13 @@ This dialogue is unlocked after the player has defeated the [Shogun of the Proph
 </tr>
 <tr>
   <td colspan="20"><font>[Reclaimer of the Recollection speaks to the player]</font><br>
-  <i>*The Reclaimer's voice echoes in your head.*</i> Maestro Alkhurst Legato... A senior member of the Circle, whose duty of defending the Isle of Vigils from Zi'eers [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] assaults unfortunately prevented him from facing the Regent. Alkhurst's efforts were valiant, even heroic, considering the circumstances... His contributions aided our cause significantly.</td>
+  <i>*The Reclaimer's voice echoes in your head.*</i> Maestro Alkhurst Legato... A senior member of the Circle, whose duty of defending the Isle of Vigils from Zi'eer's assaults unfortunately prevented him from facing the Regent. Alkhurst's efforts were valiant, even heroic, considering the circumstances... His contributions aided our cause significantly.</td>
 </tr>
 <tr>
   <td colspan="20">What happened to him, in the end?</td>
 </tr>
 <tr>
-  <td colspan="20">Alkhurst, too, was a bearer of an Iron Memento. Although, he was unable to accomplish his mission. Some years after the Recollection's time, without support from the Etrean Royalists, the Regent's forces attempted one final push against the island. He gave his life defending the temple, repealing Zi'eers [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] forces for good. Speak to him the words of our Circle, Inheritor, and observe what unfolds.</td>
+  <td colspan="20">Alkhurst, too, was a bearer of an Iron Memento. Although, he was unable to accomplish his mission. Some years after the Recollection's time, without support from the Etrean Royalists, the Regent's forces attempted one final push against the island. He gave his life defending the temple, repealing Zi'eer's forces for good. Speak to him the words of our Circle, Inheritor, and observe what unfolds.</td>
 </tr>
 <tr>
   <td colspan="20">In Iron we recall.</td>
@@ -397,13 +397,13 @@ This dialogue is unlocked after the player has defeated [Dravik, The Rat King](D
 </tr>
 <tr>
   <td colspan="45"><font>[Reclaimer of the Recollection speaks to the player]</font><br>
-  <i>*The Reclaimer's voice echoes in your head.*</i> Maestro Alkhurst Legato... A senior member of the Circle, whose duty of defending the Isle of Vigils from Zi'eers [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] assaults unfortunately prevented him from facing the Regent. Alkhurst's efforts were valiant, even heroic, considering the circumstances... His contributions aided our cause significantly.</td>
+  <i>*The Reclaimer's voice echoes in your head.*</i> Maestro Alkhurst Legato... A senior member of the Circle, whose duty of defending the Isle of Vigils from Zi'eer's assaults unfortunately prevented him from facing the Regent. Alkhurst's efforts were valiant, even heroic, considering the circumstances... His contributions aided our cause significantly.</td>
 </tr>
 <tr>
   <td colspan="45">What happened to him, in the end?</td>
 </tr>
 <tr>
-  <td colspan="45">Alkhurst, too, was a bearer of an Iron Memento. Although, he was unable to accomplish his mission. Some years after the Recollection's time, without support from the Etrean Royalists, the Regent's forces attempted one final push against the island. He gave his life defending the temple, repealing Zi'eers [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] forces for good. Speak to him the words of our Circle, Inheritor, and observe what unfolds.</td>
+  <td colspan="45">Alkhurst, too, was a bearer of an Iron Memento. Although, he was unable to accomplish his mission. Some years after the Recollection's time, without support from the Etrean Royalists, the Regent's forces attempted one final push against the island. He gave his life defending the temple, repealing Zi'eer's forces for good. Speak to him the words of our Circle, Inheritor, and observe what unfolds.</td>
 </tr>
 <tr>
   <td colspan="45">In Iron we recall.</td>
@@ -577,13 +577,13 @@ This dialogue is unlocked after the player has defeated the [True Heart of Enmit
 </tr>
 <tr>
   <td colspan="20"><font>[Reclaimer of the Recollection speaks to the player]</font><br>
-  <i>*The Reclaimer's voice echoes in your head.*</i> Maestro Alkhurst Legato... A senior member of the Circle, whose duty of defending the Isle of Vigils from Zi'eers [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] assaults unfortunately prevented him from facing the Regent. Alkhurst's efforts were valiant, even heroic, considering the circumstances... His contributions aided our cause significantly.</td>
+  <i>*The Reclaimer's voice echoes in your head.*</i> Maestro Alkhurst Legato... A senior member of the Circle, whose duty of defending the Isle of Vigils from Zi'eer's assaults unfortunately prevented him from facing the Regent. Alkhurst's efforts were valiant, even heroic, considering the circumstances... His contributions aided our cause significantly.</td>
 </tr>
 <tr>
   <td colspan="20">What happened to him, in the end?</td>
 </tr>
 <tr>
-  <td colspan="20">Alkhurst, too, was a bearer of an Iron Memento. Although, he was unable to accomplish his mission. Some years after the Recollection's time, without support from the Etrean Royalists, the Regent's forces attempted one final push against the island. He gave his life defending the temple, repealing Zi'eers [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] forces for good. Speak to him the words of our Circle, Inheritor, and observe what unfolds.</td>
+  <td colspan="20">Alkhurst, too, was a bearer of an Iron Memento. Although, he was unable to accomplish his mission. Some years after the Recollection's time, without support from the Etrean Royalists, the Regent's forces attempted one final push against the island. He gave his life defending the temple, repealing Zi'eer's forces for good. Speak to him the words of our Circle, Inheritor, and observe what unfolds.</td>
 </tr>
 <tr>
   <td colspan="20">In Iron we recall.</td>
