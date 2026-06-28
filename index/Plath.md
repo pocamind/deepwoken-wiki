@@ -1,6 +1,6 @@
 ---
 title: Plath
-revid: 217892
+revid: 218066
 source: https://deepwoken.fandom.com/wiki/Plath
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -21,7 +21,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Plath is a [Celtor](Celtor.md) NPC found kneeling on a rock in the [Kyrsan Wilds](Kyrsan_Wilds.md). They guide the player on how to enter the city through the [Great Library of New Kyrsa](Second_Layer/New_Kyrsa.md#great-library-of-new-kyrsa).
+Plath is a [Celtor](Celtor.md) NPC.
+
+Plath can be found kneeling on a rock in the [Kyrsan Wilds](Kyrsan_Wilds.md). They guide the player on how to enter the city through the [Great Library of New Kyrsa](Second_Layer/New_Kyrsa.md#great-library-of-new-kyrsa).
 
 ## Dialogue
 
