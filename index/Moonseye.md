@@ -1,6 +1,6 @@
 ---
 title: Moonseye
-revid: 217629
+revid: 218071
 source: https://deepwoken.fandom.com/wiki/Moonseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages requiring a cleanup, In progress without reason, InProgressPages, Natural phenomena]
@@ -15,7 +15,7 @@ _This page is about the celestial object and its symbolism. For other uses, see 
 
 “ AH! ALL SO CLEAR! THE MOONSEYE! NOT A REFLECTION, NO - ITS OWN LIGHT! NO WONDER IT IS SO COVETED! ”
 
-― Soothsayer about the Moonseye
+― Soothsayer
 
   
 

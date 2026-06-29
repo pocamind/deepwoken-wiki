@@ -1,6 +1,6 @@
 ---
 title: Naerotiv
-revid: 216723
+revid: 218083
 source: https://deepwoken.fandom.com/wiki/Naerotiv
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Individuals with unspecified pronouns]
@@ -136,7 +136,7 @@ Naerotiv urges the Pathfinder to set his kind free by completing the ritual and 
   <td colspan="4">Spears of frost, huh? Any chance you could fashion me one?</td>
 </tr>
 <tr>
-  <td colspan="4">Would that I could, frinwalter, I... Was never quite able to find the knack for it, however much I tried.Please accept my sincere apologies that I have failed you so.</td>
+  <td colspan="4">Would that I could, frinwalter, I... Was never quite able to find the knack for it, however much I tried. Please accept my sincere apologies that I have failed you so.</td>
 </tr>
 <tr>
   <td colspan="4">[End Dialogue]</td>

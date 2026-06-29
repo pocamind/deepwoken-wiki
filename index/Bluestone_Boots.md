@@ -1,6 +1,6 @@
 ---
 title: Bluestone Boots
-revid: 215149
+revid: 218069
 source: https://deepwoken.fandom.com/wiki/Bluestone_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Craftable, Equipment with Set Bonuses, Boots]
@@ -49,5 +49,7 @@ Etherguard applies the [Etherguard](Status_Effects.md#etherguard) status effect 
 This item is crafted using the following recipe:
 
 1.  1 [Bluesteel Boots](Bluesteel_Boots.md) + 1 [Warped Blue Gem](Warped_Blue_Gem.md).
+
+## Navigation
 
 1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

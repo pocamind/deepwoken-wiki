@@ -1,6 +1,6 @@
 ---
 title: Silver Ring
-revid: 216004
+revid: 218072
 source: https://deepwoken.fandom.com/wiki/Silver_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -19,7 +19,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Lower Erisia, Layer 2 Floor 1, Layer 1, Duke Erisia, Maestro Evengarde Rest, Chaser, Saramaed Hollow, Miner's Landing, Summer Isle, Scion of Ethiron, Etris Seige, Pure ore turn-ins |
+| obtainment | Chests from:, Lower Erisia, Layer 2 Floor 1, Layer 1, Duke Ishamon Erisia, Maestro Evengarde Rest, Chaser, Saramaed Hollow, Miner's Landing, Summer Isle, Scion of Ethiron, Etris Seige, Pure ore turn-ins |
 | description | A simple silver ring. |
 
 ## Description

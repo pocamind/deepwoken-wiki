@@ -1,6 +1,6 @@
 ---
 title: Dissonant Chimecaller
-revid: 218065
+revid: 218070
 source: https://deepwoken.fandom.com/wiki/Dissonant_Chimecaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, Greathammers, Weapons with Unique Criticals, Heavy Weapons, Weapons with Unique Animations]
@@ -56,4 +56,5 @@ The critical has a cooldown of **15 seconds**.
 
 -   Attempting to equip this weapon on [Silentheart](Oath%253A_Silentheart.md) will display the message: "The bells fall silent. The staff refuses your touch."
 -   This weapon's critical is based off of [Knell](Knell,_The_Lunatic_Resonator.md)'s **A Toll of the Bell** move.
+-   This weapon has been given the semi commonly used nickname of "Resonant Crimemauler" by the developer Nuttoons.
 -   Strangely, despite directly mentioning Ironsing's Metal Rods in the Talent description, Ancient Metalwork does not require you to have the Ironsing Attunement or your opponent to have any Rods on them for it to activate.

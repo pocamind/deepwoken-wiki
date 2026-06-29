@@ -1,6 +1,6 @@
 ---
 title: Ouroboral Husk
-revid: 206000
+revid: 218080
 source: https://deepwoken.fandom.com/wiki/Ouroboral_Husk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Items, Effigies]
@@ -41,6 +41,7 @@ A teleportation circle will appear below the user's feet, and after a short dela
 
 ## Trivia
 
+-   'Ouroboral' comes from the word Ouroboros, a snake that eats its own tail, it is a symbol that represents Cycles.
 -   Ouroboral husk is located in the utility category in your inventory rather than the Relic category.
 -   Ouroboral Husk was added alongside [Baneful Syrinx](Baneful_Syrinx.md) and [Reciprocal Bonecharm](Reciprocal_Bonecharm.md) in the same update, with all three Relics having the same function of teleporting the user to specific locations.
 -   A glitch can possibly happen when you choose Skyward Vent that instead teleports you south of the bridge in midair where the Ironsing Attunement Trainer is located
