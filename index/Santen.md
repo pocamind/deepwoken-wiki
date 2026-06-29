@@ -1,9 +1,9 @@
 ---
 title: Santen
-revid: 216002
+revid: 218100
 source: https://deepwoken.fandom.com/wiki/Santen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
+categories: [Ganymede NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
 ---
 
 # Santen
@@ -12,6 +12,7 @@ categories: [Ganymede NPCs, Pathfinder Exclusive, NPCs, NPCs located in the East
 |---|---|
 | name | Santen |
 | aspect | Ganymede |
+| pronouns | She/her |
 | location | Fort Merit |
 | affiliation | The Central Authority |
 | family | Unnamed parents |
@@ -22,7 +23,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Santen is a [Ganymede](Ganymede.md) NPC. Santen is the cartographer for [The Central Authority](The_Central_Authority.md), trained by her parents in the Citadel of Markor to make maps since she "could hold a pen."
+Santen is a [Ganymede](Ganymede.md) NPC. Santen is the cartographer for [The Central Authority](The_Central_Authority.md)'s Eastern garrison.
+
+Santen was trained by her parents in the Citadel of Markor to make maps since she "could hold a pen."
 
 She appears to be aged shown by the wrinkles around her eyes.
 

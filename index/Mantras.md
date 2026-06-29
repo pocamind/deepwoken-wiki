@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 215764
+revid: 218097
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -20,6 +20,89 @@ Mantras are obtained by receiving a [Whisper Draw](Whisper_Draw.md) upon Powerin
 
 If you are unsatisfied with a mantra you have chosen, it can be rerolled via the [Shrine of Temptation](Deep_Shrines/Shrine_of_Temptation.md) or split into two Talents with the [Shrine of Division](Deep_Shrines/Shrine_of_Division.md). Opposite to the [Shrine of Division](Deep_Shrines/Shrine_of_Division.md), the [Shrine of Unification](Deep_Shrines/Shrine_of_Unification.md) can combine two talents to create a [Whisper Draw](Whisper_Draw.md).
 
+**Amount of talents and mantras available to get through Roll 2's listed here:**
+
+<table><caption></caption>
+<tbody>
+<tr>
+  <th>Amount of Roll 2's</th>
+  <th>Amount of mantras</th>
+  <th>Amount of talents</th>
+</tr>
+<tr>
+  <td>0 Roll 2's</td>
+  <td>13 mantras</td>
+  <td>50 talents</td>
+</tr>
+<tr>
+  <td>1 Roll 2's</td>
+  <td>12 mantras</td>
+  <td>52 talents</td>
+</tr>
+<tr>
+  <td>2 Roll 2's</td>
+  <td>11 mantras</td>
+  <td>54 talents</td>
+</tr>
+<tr>
+  <td>3 Roll 2's</td>
+  <td>10 mantras</td>
+  <td>56 talents</td>
+</tr>
+<tr>
+  <td>4 Roll 2's</td>
+  <td>9 mantras</td>
+  <td>58 talents</td>
+</tr>
+<tr>
+  <td>5 Roll 2's</td>
+  <td>8 mantras</td>
+  <td>60 talents</td>
+</tr>
+<tr>
+  <td>6 Roll 2's</td>
+  <td>7 mantras</td>
+  <td>62 talents</td>
+</tr>
+<tr>
+  <td>7 Roll 2's</td>
+  <td>6 mantras</td>
+  <td>64 talents</td>
+</tr>
+<tr>
+  <td>8 Roll 2's</td>
+  <td>5 mantras</td>
+  <td>66 talents</td>
+</tr>
+<tr>
+  <td>9 Roll 2's</td>
+  <td>4 mantras</td>
+  <td>68 talents</td>
+</tr>
+<tr>
+  <td>10 Roll 2's</td>
+  <td>3 mantras</td>
+  <td>70 talents</td>
+</tr>
+<tr>
+  <td>11 Roll 2's</td>
+  <td>2 mantras</td>
+  <td>72 talents</td>
+</tr>
+<tr>
+  <td>12 Roll 2's</td>
+  <td>1 mantras</td>
+  <td>74 talents</td>
+</tr>
+<tr>
+  <td>13 Roll 2's</td>
+  <td>0 mantras</td>
+  <td>76 talents</td>
+</tr>
+</tbody>
+</table>
+
+  
 A player's Mantras are tied to their character's stats - the higher a given stat, the more Mantras you can obtain from that stat. Much like weapons and armor, Mantras can also have 1-3 stars which correlate with their stat requirement and strength. Mantras with higher stars have higher stat requirements.
 
 ## Classification of Mantras
@@ -89,6 +172,7 @@ To modify a Mantra, the player needs to go to a Mantra Lectern, typically locate
             -   e.g. Fleeting Sparks with a Blast Spark changes the mantra to chase down and detonate on foes instead of shocking them from range.
     -   Mantra modifiers, except for Sparks, increase the Ether cost of a Mantra. It is possible for a Mantra to consume most of, if not all, of a players Ether upon one use.
     -   You can also change the name of a Mantra by clicking on its name while applying modifiers to the said mantra.
+        -   The Talent [Spell Shout](Valikor.md) will make your character shout the name of used mantra, including the changed ones.
     -   Mantras can also be modified with [Deep Gems](Deep_Gems.md) by left-clicking while holding the Deep Gem and selecting the mantra you wish to apply the Deep Gem to, providing new effects depending on the gem applied.
 -   You can identify what modifiers you have on your Mantra by hovering your mouse over it. Including its Ether cost in numbers & percentage, as well as how many signs on a ritual Mantra.
 
