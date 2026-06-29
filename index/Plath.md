@@ -1,6 +1,6 @@
 ---
 title: Plath
-revid: 218066
+revid: 218088
 source: https://deepwoken.fandom.com/wiki/Plath
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer]

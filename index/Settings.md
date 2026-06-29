@@ -1,6 +1,6 @@
 ---
 title: Settings
-revid: 213422
+revid: 218085
 source: https://deepwoken.fandom.com/wiki/Settings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -11,6 +11,8 @@ categories: [Mechanics]
 By clicking the cogwheel icon on the top left of the screen, you can change your in-game settings.
 
 ## Controls
+
+**PC:**
 
 -   Basic Attack M1
 -   Offhand Attack M2
@@ -23,22 +25,21 @@ By clicking the cogwheel icon on the top left of the screen, you can change your
 -   Vent G
 -   Crouch Ctrl
 -   Interact E
+-   Air Counter Space + M2
 
 * * *
 
 -   Execute B
 -   Carry V
--   Change Stance Y
--   Taunt T
--   Gesture K
--   Reload Gun Z / Y
--   Resonance C
--   Glider N
 
 * * *
 
--   Angle Sails Left Z
--   Angle Sails Right C
+-   Change Stance Y
+-   Taunt T
+-   Gesture {{{2}}}
+-   Reload Gun Z / Y
+-   Resonance C
+-   Glider N
 
 * * *
 
@@ -61,6 +62,13 @@ These Keybinds will only appear if you have the respective ability.
 -   Arc Module: Null L
 -   Shaper Swap X
 -   Reality Shift J
+-   Chainlash M2
+
+* * *
+
+-   Angle Sails Left Z
+-   Angle Sails Right C
+-   Fire Cannon M1
 
 * * *
 
@@ -75,6 +83,176 @@ These Keybinds will only appear if you have the respective ability.
 -   Hotbar Slot 8 8
 -   Hotbar Slot 9 9
 -   Hotbar Slot 10 0
+
+* * *
+
+-   Ritual Cast 1 Z
+-   Ritual Cast 2 X
+-   Ritual Cast 3 C
+-   Ritual Cast 4 V
+    
+
+**Console:**
+
+_The button names may be different depending on console type._
+
+**Xbox:**
+
+-   Basic Attack R1
+-   Offhand Attack L2
+-   Critical Attack R2
+-   Feint / Cancel L2
+-   Camera Lock / Lock On R3
+-   Block / Parry L1
+-   Dodge B
+-   Vent Y
+-   Crouch L3
+-   Interact X
+-   Air Counter A + L2
+
+* * *
+
+-   Execute ↑ DPAD + X
+-   Carry ↓ DPAD + X
+
+* * *
+
+-   Change Stance Unbound
+-   Taunt Unbound
+-   Gesture Unbound
+-   Reload Gun L2
+-   Resonance Unbound
+-   Glider A + Y
+
+* * *
+
+Ability-exclusive Keybinds
+
+These Keybinds will only appear if you have the respective ability.
+
+-   Sovereign State Unbound
+-   Iron Pull Unbound
+-   Callout Unbound
+-   Ardour Unbound
+-   Rhythm Unbound
+-   Tacet Unbound
+-   Unmatched Dexterity Unbound
+-   Phantom Step Unbound
+-   Cap Artist Unbound
+-   Pickpocket Unbound
+-   Symbiotic Link Unbound
+-   Saintsblade Unbound
+-   Arc Module: Null Unbound
+-   Shaper Swap Unbound
+-   Reality Shift Unbound
+-   Chainlash L2
+
+* * *
+
+-   Angle Sails Left L1
+-   Angle Sails Right R1
+-   Fire Cannon R1
+
+* * *
+
+-   Backpack / Journal L2 + View Button
+-   Hotbar Slot 1 ← DPAD
+-   Hotbar Slot 2 ↑ DPAD
+-   Hotbar Slot 3 → DPAD
+-   Hotbar Slot 4 ↓ DPAD
+-   Hotbar Slot 5 L2 + ← DPAD
+-   Hotbar Slot 6 L2 + ↑ DPAD
+-   Hotbar Slot 7 L2 + → DPAD
+-   Hotbar Slot 8 L2 + ↓ DPAD
+-   Hotbar Slot 9 L2 + X
+-   Hotbar Slot 10 L2 + Y
+
+* * *
+
+-   Ritual Cast 1 ← DPAD
+-   Ritual Cast 2 → DPAD
+-   Ritual Cast 3 ↑ DPAD
+-   Ritual Cast 4 ↓ DPAD
+    
+
+**PlayStation:**
+
+-   Basic Attack R1
+-   Offhand Attack L2
+-   Critical Attack R2
+-   Feint / Cancel L2
+-   Camera Lock / Lock On R3
+-   Block / Parry L1
+-   Dodge O
+-   Vent ∆
+-   Crouch L3
+-   Interact □
+-   Air Counter X + L2
+
+* * *
+
+-   Execute ↑ DPAD + □
+-   Carry ↓ DPAD + □
+
+* * *
+
+-   Change Stance Unbound
+-   Taunt Unbound
+-   Gesture Unbound
+-   Reload Gun L2
+-   Resonance Unbound
+-   Glider A + Y
+
+* * *
+
+Ability-exclusive Keybinds
+
+These Keybinds will only appear if you have the respective ability.
+
+-   Sovereign State Unbound
+-   Iron Pull Unbound
+-   Callout Unbound
+-   Ardour Unbound
+-   Rhythm Unbound
+-   Tacet Unbound
+-   Unmatched Dexterity Unbound
+-   Phantom Step Unbound
+-   Cap Artist Unbound
+-   Pickpocket Unbound
+-   Symbiotic Link Unbound
+-   Saintsblade Unbound
+-   Arc Module: Null Unbound
+-   Shaper Swap Unbound
+-   Reality Shift Unbound
+-   Chainless L2
+
+* * *
+
+-   Angle Sails Left L1
+-   Angle Sails Right R1
+-   Fire Cannon R1
+
+* * *
+
+-   Backpack / Journal L2 + PS Button
+-   Hotbar Slot 1 ← DPAD
+-   Hotbar Slot 2 ↑ DPAD
+-   Hotbar Slot 3 → DPAD
+-   Hotbar Slot 4 ↓ DPAD
+-   Hotbar Slot 5 L2 + ← DPAD
+-   Hotbar Slot 6 L2 + ↑ DPAD
+-   Hotbar Slot 7 L2 + → DPAD
+-   Hotbar Slot 8 L2 + ↓ DPAD
+-   Hotbar Slot 9 L2 + □
+-   Hotbar Slot 10 L2 + ∆
+
+* * *
+
+-   Ritual Cast 1 ← DPAD
+-   Ritual Cast 2 → DPAD
+-   Ritual Cast 3 ↑ DPAD
+-   Ritual Cast 4 ↓ DPAD
+    
 
 ## Interface
 

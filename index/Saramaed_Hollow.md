@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 216792
+revid: 218087
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Dungeons, Locations, Locations in the Eastern Luminant]
@@ -62,12 +62,14 @@ It is worth noting that the lava is not as deadly as one might expect. Falling i
 
 Monsters within the Saramaed Hollow have adapted to the fiery heat of their domain, gaining 1 of 2 (or both) abilities. The deeper one goes, the more adapted monsters will appear, eventually culminating in monsters with both adaptations.
 
--   _Magma Guard_ - The monster becomes immune to DvM. These monsters have a rocky exterior. (Note.Innate PvE scaling, such as from your Power level, isn't affected.)
+Additionally, some mobs' appearances are overridden, making them look like rocks. This also means you can NOT tell which variant a mob is by only viewing it from afar. For example, a Crimson Megalodaunt and a normal Megalodaunt may have the same rock appearance, meaning you will be unable to tell the difference. Be cautious.
+
+-   _Magma Guard_ - The monster becomes immune to DvM. These monsters have a rocky exterior. (Note: Innate PvE scaling, such as from your Power level, isn't affected.)
 -   _Magma Flow_ - The monster procs an effect on hit that weakens your armor and nullifies your Monster Armor temporarily. These monsters will drip with molten lava.
 
 ## Monsters
 
-Monster shown here will start showing up and replacing other monsters the deeper one goes in the order shown, but may show up much earlier or even show up later on. A Mudskipper Broodlord can appear in Floor 5 for example, while a regular Megalodaunt might show up in Floor 20.
+Monsters shown here will start showing up and replacing other monsters the deeper one goes in the order shown, but may show up much earlier or even show up later on. A Mudskipper Broodlord can appear in Floor 5 for example, while a regular Megalodaunt might show up in Floor 20.
 
 ## Loot
 

@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 213913
+revid: 218089
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -50,6 +50,7 @@ You can buy an official Sharko Plush made by Makeship [here](https://www.makeshi
 -   AD BREAK: selling cbow 2k
 -   Cheh tahh sehh kee gah... Pess kahh tahh... Hm? Oh, sorry, I was just singing the menu theme.
 -   Condiments are calories... never forget that.
+-   Did you say something just now? Sorry, I didn't catch that. I was busy pondering my orb.
 -   Did you know I'm actually your twin brother? I know it sounds cliche but I have a 500 page lore document in the works to explain how.
 -   Did you know the Q button makes you dodge?
 -   Do the developers even read community suggestions? I told them to make the game better ten times already, and they still haven't.
@@ -74,12 +75,14 @@ You can buy an official Sharko Plush made by Makeship [here](https://www.makeshi
 -   HINT: The strength of the Megurger comes from the concept, not the physical object.
 -   HINT: This game is awful. The developers really suck.
 -   HINT: Use code '!redeem AGAMATSU' right now to receive a free prize!
+-   How do you tap into Lifeweaving, anyway?
 -   I can tell you've never churned butter before. Look at you. Churnless, pathetic.
 -   I could end you in one hit if I really wanted to. Watch your back.
 -   I could really go for a Kyrsdog right about now...
 -   I had a pet fish once. His name was Rodrigo. I was real hungry though, so...
 -   ...I should buy a boat.
 -   I'm hungry. Like, I really could go for some rigatoni right now.
+-   I'm kinda bored... Know any jokes? You notwithstanding.
 -   I'm kind of like the Sun Tzu of Deepwoken, if you really think about it.
 -   I'm the Mario of this duo. You're the Luigi. You're the secondary. I'm the main star.
 -   If you don't feed me, I will die. Can you live with that guilt?
@@ -99,6 +102,7 @@ You can buy an official Sharko Plush made by Makeship [here](https://www.makeshi
 -   Sometimes I like to stare at the ocean and imagine terrifying eyes rising from the deep beyond. It gives me the best nightmares.
 -   Talking so much is getting me really tired. Maybe you should close the game so I can take a break?
 -   TIP: A felinor can have a little bit of salami. As a treat.
+-   TIP: Always read legal agreements front to back! That fine print isn't just for show, either.
 -   TIP: And then BOOM! I get the bell. New Layer 2 bell! New Layer 2 bell.
 -   TIP: Are you staying hydrated and fed? Fevers spread through healthy hosts. I'm just looking out for both of us.
 -   TIP: Be kind to food workers. You've heard of how many kings got poisoned, right?
