@@ -1,9 +1,9 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 217505
+revid: 218104
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters, Enemies, Humanoids with Unobtainable Outfits]
+categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters, Enemies, Humanoids with Unobtainable Outfits, Prophets of The Ministry]
 notices:
   - "This page contains spoilers This page contains significant information on the game's story and lore, you are still in time to turn back."
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 218097
+revid: 218108
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -16,88 +16,90 @@ _**NOTE: You can search a Mantra's name using the search bar and it'll take you 
 
 Considered to be the root of Ether's usage - **Mantras**, sometimes referred to in lore as _words of the Song_, are the heart of _Deepwoken's_ magic system. Simply put, these are the magic abilities that you use to fend off your adversaries or assist yourself in achieving specific goals.
 
-Mantras are obtained by receiving a [Whisper Draw](Whisper_Draw.md) upon Powering up (Power 2, 4, 6, 8, 9, 10, 12, 14, 16, 18, 19, and 20. A total of 12 mantras you will get by Powering up), an additional Whisper Draw can be earned by completing one of a few tasks, such as completing [Kelsius' Quest](Kelsius.md)/[Tutorial](Tutorial.md), defeating a [World Boss](Bosses.md), or escaping [The Depths](The_Depths.md), with only one additional Whisper Draw being able to be obtained this way, bringing the total of [Whisper Draws](Whisper_Draw.md) from Powering up to 13.
+Mantras are obtained by receiving a [Whisper Draw](Whisper_Draw.md) upon Powering up (**Power 2, 4, 6, 8, 9, 10, 12, 14, 16, 18, 19, and 20.** A total of 12 Mantras you will get by Powering up), an additional Whisper Draw can be earned by completing one of a few tasks, such as completing [Kelsius' Quest](Kelsius.md) or the [Tutorial](Tutorial.md), defeating a [World Boss](Bosses.md), or escaping [The Depths](The_Depths.md), with only one additional Whisper Draw being able to be obtained this way across all methods, bringing the total of [Whisper Draws](Whisper_Draw.md) from Powering up to 13.
 
-If you are unsatisfied with a mantra you have chosen, it can be rerolled via the [Shrine of Temptation](Deep_Shrines/Shrine_of_Temptation.md) or split into two Talents with the [Shrine of Division](Deep_Shrines/Shrine_of_Division.md). Opposite to the [Shrine of Division](Deep_Shrines/Shrine_of_Division.md), the [Shrine of Unification](Deep_Shrines/Shrine_of_Unification.md) can combine two talents to create a [Whisper Draw](Whisper_Draw.md).
+If you are unsatisfied with the selection of Mantras you've been given, you can choose the **Roll 2** card in a Whisper Draw to grant you 2 Talents instead of a Mantra.
 
-**Amount of talents and mantras available to get through Roll 2's listed here:**
+If you are unsatisfied with a Mantra you have chosen, it can be rerolled via the [Shrine of Temptation](Deep_Shrines/Shrine_of_Temptation.md) or split into two Talents with the [Shrine of Division](Deep_Shrines/Shrine_of_Division.md). Opposite to the [Shrine of Division](Deep_Shrines/Shrine_of_Division.md), the [Shrine of Unification](Deep_Shrines/Shrine_of_Unification.md) can combine two Talents to create a [Whisper Draw](Whisper_Draw.md).
+
+**Amount of Talents available to gain through Roll 2's, compared to the amount of Mantras you have:**
 
 <table><caption></caption>
 <tbody>
 <tr>
-  <th>Amount of Roll 2's</th>
-  <th>Amount of mantras</th>
-  <th>Amount of talents</th>
+  <th>Roll 2's used</th>
+  <th>Total Mantras possessed</th>
+  <th>Total Talents possessed</th>
 </tr>
 <tr>
   <td>0 Roll 2's</td>
-  <td>13 mantras</td>
-  <td>50 talents</td>
+  <td>13 Mantras</td>
+  <td>50 Talents</td>
 </tr>
 <tr>
   <td>1 Roll 2's</td>
-  <td>12 mantras</td>
-  <td>52 talents</td>
+  <td>12 Mantras</td>
+  <td>52 Talents</td>
 </tr>
 <tr>
   <td>2 Roll 2's</td>
-  <td>11 mantras</td>
-  <td>54 talents</td>
+  <td>11 Mantras</td>
+  <td>54 Talents</td>
 </tr>
 <tr>
   <td>3 Roll 2's</td>
-  <td>10 mantras</td>
-  <td>56 talents</td>
+  <td>10 Mantras</td>
+  <td>56 Talents</td>
 </tr>
 <tr>
   <td>4 Roll 2's</td>
-  <td>9 mantras</td>
-  <td>58 talents</td>
+  <td>9 Mantras</td>
+  <td>58 Talents</td>
 </tr>
 <tr>
   <td>5 Roll 2's</td>
-  <td>8 mantras</td>
-  <td>60 talents</td>
+  <td>8 Mantras</td>
+  <td>60 Talents</td>
 </tr>
 <tr>
   <td>6 Roll 2's</td>
-  <td>7 mantras</td>
-  <td>62 talents</td>
+  <td>7 Mantras</td>
+  <td>62 Talents</td>
 </tr>
 <tr>
   <td>7 Roll 2's</td>
-  <td>6 mantras</td>
-  <td>64 talents</td>
+  <td>6 Mantras</td>
+  <td>64 Talents</td>
 </tr>
 <tr>
   <td>8 Roll 2's</td>
-  <td>5 mantras</td>
-  <td>66 talents</td>
+  <td>5 Mantras</td>
+  <td>66 Talents</td>
 </tr>
 <tr>
   <td>9 Roll 2's</td>
-  <td>4 mantras</td>
-  <td>68 talents</td>
+  <td>4 Mantras</td>
+  <td>68 Talents</td>
 </tr>
 <tr>
   <td>10 Roll 2's</td>
-  <td>3 mantras</td>
-  <td>70 talents</td>
+  <td>3 Mantras</td>
+  <td>70 Talents</td>
 </tr>
 <tr>
   <td>11 Roll 2's</td>
-  <td>2 mantras</td>
-  <td>72 talents</td>
+  <td>2 Mantras</td>
+  <td>72 Talents</td>
 </tr>
 <tr>
   <td>12 Roll 2's</td>
-  <td>1 mantras</td>
-  <td>74 talents</td>
+  <td>1 Mantras</td>
+  <td>74 Talents</td>
 </tr>
 <tr>
   <td>13 Roll 2's</td>
-  <td>0 mantras</td>
-  <td>76 talents</td>
+  <td>0 Mantras</td>
+  <td>76 Talents</td>
 </tr>
 </tbody>
 </table>
@@ -172,7 +174,7 @@ To modify a Mantra, the player needs to go to a Mantra Lectern, typically locate
             -   e.g. Fleeting Sparks with a Blast Spark changes the mantra to chase down and detonate on foes instead of shocking them from range.
     -   Mantra modifiers, except for Sparks, increase the Ether cost of a Mantra. It is possible for a Mantra to consume most of, if not all, of a players Ether upon one use.
     -   You can also change the name of a Mantra by clicking on its name while applying modifiers to the said mantra.
-        -   The Talent [Spell Shout](Valikor.md) will make your character shout the name of used mantra, including the changed ones.
+        -   The Talent [Spell Shout](Valikor.md) will make your character shout the name of the Mantra when you use it, or its new name if it was renamed.
     -   Mantras can also be modified with [Deep Gems](Deep_Gems.md) by left-clicking while holding the Deep Gem and selecting the mantra you wish to apply the Deep Gem to, providing new effects depending on the gem applied.
 -   You can identify what modifiers you have on your Mantra by hovering your mouse over it. Including its Ether cost in numbers & percentage, as well as how many signs on a ritual Mantra.
 

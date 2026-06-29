@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 216081
+revid: 218111
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1, The Depths]
@@ -90,6 +90,7 @@ Dodge
  | The Bone Keeper leaps a small distance towards its target, crushing it with its impact, dealing serious damage if not avoided.
 
 -   It seems to lack range, especially since it leaps towards you, potentially overshooting, meaning it can be avoided as long as you dont move towards where it is going to land.
+-   It can be countered by rolling under it while its in the air
 
 _Uses Telegraph_
 
