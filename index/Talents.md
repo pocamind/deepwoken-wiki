@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 217929
+revid: 218183
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -5882,3 +5882,4 @@ Certain Talents are given when you equip a full equipment set, though not all eq
 -   The total amount of Talent Cards at Power 20 without Roll 2's or Mantra Quests is 47.
 -   The term "Talents" may be a reference to _the Wheel of Time_'s Talents that are associated with its magic system.
 -   The Talent, Mythic Stability, has the same name as the passive, Mythic Stability, owned by the Sigil Knight Commander in Rogue Lineage. They both have the same effects.
+-   The Talent "Action Surge" is a reference to Dungeons and Dragons, specifically a reference about the Fighter Class and their feat ability "Action Surge" letting them act more times on a single turn, similar as how this talent lets you attack faster.

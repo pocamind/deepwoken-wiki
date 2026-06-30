@@ -1,9 +1,9 @@
 ---
 title: "C'lantaa"
-revid: 217902
+revid: 218182
 source: https://deepwoken.fandom.com/wiki/C'lantaa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Tiran NPCs, Individuals with He/him pronouns, Cut Content, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer]
+categories: [Tiran NPCs, Individuals with He/him pronouns, Cut Content, NPCs]
 notices:
   - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
@@ -17,15 +17,15 @@ notices:
 | pronouns | He/him |
 | location | New Kyrsa, The Sleeping City |
 
-**[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
-
 ## Description
 
-C'lantaa was a [Tiran](Tiran.md) NPC found in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) in a building with the teleporter to the tunnel near the vent into [The Sunken Railways](The_Sunken_Railways.md). He wore the [Cala-Mariner](Cala-Mariner.md) outfit. Similar with other residents of the city, he is unable to recall his past aside from not having a well-off one.
+C'lantaa was a [Tiran](Tiran.md) NPC.
+
+He was found in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) in a building with the teleporter to the tunnel near the vent into [The Sunken Railways](The_Sunken_Railways.md). Similar with other residents of the city, he is unable to recall his past aside from not having a well-off one.
 
 He attempted to communicate with the local [Kyrsgarde](Kyrsgarde.md), but was wounded in the process. He suspects the mist is the vector by which [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>) is enslaving the Kyrsgarde.
+
+He wore the [Cala-Mariner](Cala-Mariner.md) outfit.
 
 ## Dialogue
 

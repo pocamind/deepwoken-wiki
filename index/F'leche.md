@@ -1,9 +1,9 @@
 ---
 title: "F'leche"
-revid: 217901
+revid: 218170
 source: https://deepwoken.fandom.com/wiki/F'leche
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Tiran NPCs, Individuals with She/her pronouns, Cut Content, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer]
+categories: [Tiran NPCs, Individuals with She/her pronouns, Cut Content, NPCs]
 notices:
   - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
@@ -16,10 +16,6 @@ notices:
 | aspect | Tiran |
 | pronouns | She/her |
 | location | New Kyrsa, The Sleeping City |
-
-**[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
 
 “ You! You have no idea how happy I am to see your face right now. I thought I was losing myself from the loneliness of this city! ”
 

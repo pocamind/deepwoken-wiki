@@ -1,9 +1,9 @@
 ---
 title: Infamous Baz
-revid: 191476
+revid: 218177
 source: https://deepwoken.fandom.com/wiki/Infamous_Baz
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, Cut Content, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
+categories: [Felinor NPCs, Cut Content, Individuals with He/him pronouns, NPCs]
 notices:
   - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Visor"
-revid: 217872
+revid: 218168
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Visor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Equipment of The Central Authority]
@@ -12,7 +12,7 @@ categories: [Equipment with Styles, Equipment, Head, Equipment of The Central Au
 |---|---|
 | type | Face |
 | rarity | Rare |
-| selling price | N/A |
+| selling price | 25 |
 | requirements | Power 8 |
 | weight | 0.5 |
 | styles | Darksteel, Gold, Steel |
