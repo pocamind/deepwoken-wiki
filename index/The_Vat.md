@@ -1,6 +1,6 @@
 ---
 title: The Vat
-revid: 201045
+revid: 218138
 source: https://deepwoken.fandom.com/wiki/The_Vat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the First Layer, Dungeons, The Depths]
@@ -47,3 +47,4 @@ Upon completing all three trials, you'll be reunited with [The Gaunt Man](The_Ga
 
 -   It should be noted that you can wipe from this trial and you shouldn't go unprepared. It is highly advised that you have your bell check ready in case something goes south, so you'll have a higher chance of success.
 -   The trials start almost instantly after you leave the force field.
+-   Providence Thorns' effect does not deal any damage in The Gaunt Man's trial.

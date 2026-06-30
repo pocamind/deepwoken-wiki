@@ -1,6 +1,6 @@
 ---
 title: Settings
-revid: 218127
+revid: 218128
 source: https://deepwoken.fandom.com/wiki/Settings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -238,7 +238,7 @@ These Keybinds will only appear if you have the respective ability.
 -   [Rhythm](Murmur%253A_Rhythm.md) (Crouching) - Unbound / Unbound
 -   [Tacet](Murmur%253A_Tacet.md) (Crouching) - Unbound / Unbound
 -   [Unmatched Dexterity](Oath%253A_Silentheart.md#unmatched-dexterity) - Unbound / Unbound
--   [Phantom Step](Talents.md#phantom-step) Unbound / Unbound
+-   [Phantom Step](Talents.md#phantom-step) - Unbound / Unbound
 -   [Cap Artist](Talents.md#cap-artist) - Unbound / Unbound
 -   [Pickpocket](Talents.md#pickpocket) - Unbound / Unbound
 -   [Symbiotic Link](Oath%253A_Linkstrider.md#symbiotic-link) - Unbound / Unbound

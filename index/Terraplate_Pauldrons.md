@@ -1,6 +1,6 @@
 ---
 title: Terraplate Pauldrons
-revid: 217514
+revid: 218131
 source: https://deepwoken.fandom.com/wiki/Terraplate_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pauldrons, Equipment, Arms, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
@@ -28,7 +28,7 @@ categories: [Pauldrons, Equipment, Arms, Craftable, Equipment with Talents, Equi
 
 The Terraplate Pauldrons is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Arms" category.
 
-The [Terrapod Tracer](Talents.md#terrapod-tracer) Talent makes your opponents who heal off of you (such as with [Bloodless Gems](Bloodless_Gem.md)) while affected by [Anti-Heal](Status_Effects.md#anti-heal) take 0.5% of their maximum health as self damage. This has a 0.5 second cooldown.
+The [Terrapod Tracer](Talents.md#terrapod-tracer) Talent makes your opponents who heal off of you (such as with [Bloodless Gems](Bloodless_Gem.md)) while affected by [Anti-Heal](Status_Effects.md#anti-heal) take 0.5% of their maximum health as self-damage. This has a 0.5 second cooldown.
 
 ## Trivia
 

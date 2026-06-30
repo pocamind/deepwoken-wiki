@@ -1,6 +1,6 @@
 ---
 title: The Gaunt Man
-revid: 205201
+revid: 218137
 source: https://deepwoken.fandom.com/wiki/The_Gaunt_Man
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Krulian NPCs, Pathfinder Exclusive, NPCs, Vendors]
@@ -241,6 +241,7 @@ The Gaunt Man will task you with taking on [The Vat](The_Vat.md), a dungeon that
 
 -   All items sold by the Gaunt Man ([Curse of Void](Curse_of_Void.md) Enchant, [Rain](<Rain_(enchantment).md>) Enchant, [Curse of Captain Greene](Curse_of_Captain_Greene.md) Enchant, [Parasol's Blight](<Parasol's_Blight.md>) Enchant, and the [Aegis Gem](Aegis_Gem.md)) will be inactive if you have not completed his experiments on that character.
     -   This also applies to the [Nightbringer](Nightbringer.md) Enchant, even though he doesn't sell you this item.
+-   Providence Thorns does not work in the Gaunt Man's Trial.
 -   Though it appears that the Gaunt Man is offering you the [Kyrsan Necklace](Kyrsan_Necklace.md) for the [Charged Bonecharm](Charged_Bonecharm.md), it is actually the opposite.
 -   If you've beaten [The Ferryman](The_Ferryman.md) during Spring and have asked what he is, a new dialogue option for The Gaunt Man will appear after his experiment, in which he confirms that he's a [Krulian](Krulian.md).
     -   This may mean that Krulians are made up of more than just souls, as in a previous dialogue line, he uses an analogy to compare the player as a single stalk of wheat, but himself to bread. This can be inferred to meaning the stalk wheat = a singular soul, but as bread is made up of more than just wheat, Krulians may be made up of more than just souls. Though, given both how bread is made in gameplay and the Gaunt Man's lack of knowledge, he may well really just mean that he's multiple people.

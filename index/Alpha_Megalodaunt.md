@@ -1,6 +1,6 @@
 ---
 title: Alpha Megalodaunt
-revid: 216197
+revid: 218136
 source: https://deepwoken.fandom.com/wiki/Alpha_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -105,7 +105,7 @@ Dodge
 **Roar**  
 (★★☆)
 
- | Lets out a roar at nearby targets, inflicting [Insanity](Insanity.md) and [Fear](Status_Effects.md#fear).
+ | Lets out a roar at nearby targets, inflicting [Insanity](Status_Effects.md#insanity) and [Fear](Status_Effects.md#fear).
 
 -   Usually used as the Alpha Megalodaunt's first move.
 -   Blocking negates much of but not all the Insanity gain.
@@ -124,7 +124,7 @@ Dodge
 **Tacet Hug**  
 (★★☆)
 
--   ResistanceBlunt ResistanceSlash Physical
+-   Typeless
 
  | The Alpha Megalodaunt turns invisible, with a white ring signifying where they are. After a moment, it turns visible again and appears over its target, grabs it, holds it up, and chews it down, before throwing it away and ragdolling it.
 
@@ -193,9 +193,10 @@ Dodge
 
  | The Alpha Megalodaunt leans forward and bites down, ragdolling those hit. Only used while in water.
 
--   𓆩✧𓆪 Parryable
+-   ⚠︎ Unparryable
 -   ⛊ Blockable
 -   § Dodgeable
+-   ⤻ Ragdoll
 
  | 
 
@@ -203,7 +204,7 @@ Dodge
 
 ### Passives
 
--   **Thick Hide** - Alpha Megalodaunts automatically extinguish [burn](Status_Effects.md#burn).
+-   **Thick Hide** - Alpha Megalodaunts automatically extinguish [Burn](Status_Effects.md#burn).
 -   **Monster Resistance** - Has an innate ~25% resistance to physical hits.
 
 ## Finisher
