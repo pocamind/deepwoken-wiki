@@ -1,6 +1,6 @@
 ---
 title: Duskguard Axe
-revid: 217516
+revid: 218117
 source: https://deepwoken.fandom.com/wiki/Duskguard_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greataxes, Heavy Weapons, Weapons of The Central Authority, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals]
@@ -43,7 +43,7 @@ The Duskguard Axe is a HVY weapon in the Greataxe category that can be obtained 
 
 The user reels the axe backwards before chopping the opponent and guardbreaking them. The opponent will be lodged into the axe as the user leaps and smashes them into the ground, dazing them for 1.5 seconds in the end.
 
-The initial hit does not count as a hit despite guardbreaking; this means it won't proc any Talents that proc on damage dealt, and it does not deal damage. If the initial hit guardbreaks no on guardbreak effects or talents will proc such as [Cornered Fool](https://deepwoken.fandom.com/wiki/Talents#Cornered_Fool). The second hit has a 1.375x scaled damage multiplier.
+The initial hit does not count as a hit or weapon attack despite guardbreaking; this means it won't proc any Talents that proc on damage dealt, and it does not deal damage. Though, this hit can still proc general "on guardbreak" effects, like [Cornered Fool](Talents.md#cornered-fool). The second hit has a 1.375x scaled damage multiplier.
 
 The critical has a cooldown of **10 seconds**.
 

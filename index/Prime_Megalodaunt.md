@@ -1,6 +1,6 @@
 ---
 title: Prime Megalodaunt
-revid: 216170
+revid: 218114
 source: https://deepwoken.fandom.com/wiki/Prime_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Vat Exclusive]
@@ -158,7 +158,7 @@ High posture
 
  | Starts out similarly to **Tacet Hug**, but after it turns visible again, it will throw out its entire body in a drop kick, flinging and ragdolling targets hit.
 
--   The Prime Megalodaunt is the only variant that can use this attack on its own.
+-   While Alpha & Crimson Megalodaunts can use this attack too the Prime Megalodaunt is the only variant that can use this attack on its own.
 
 _Uses Telegraph_
 
@@ -181,9 +181,10 @@ Dodge
 
  | The Prime Megalodaunt raises its entire body upwards, opening its jaws to begin charging up a dark orb. Once fully charged, It hunches back down, firing a massive laser beam at its target. This attack is similar to the [Lionfish](Lionfish.md)'s own Cero attack.
 
--   This is its most dangerous move, as it requires attention, precise timing, and deals high damage.
+-   This is its most dangerous move, as it requires attention, precise timing, and deals high damage
 -   Can either fire it immediately upon hunching or delay the firing of the laser beam. Watch carefully for what it will try to do.
 -   Players executed by the **Cero** move will be completely vaporized and will not drop a loot bag for others to interact with.
+-   This attack does high sanity damage so if you have low sanity beware.
 
 _Uses Telegraph_
 

@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 213755
+revid: 218118
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -71,6 +71,7 @@ This critical is mostly used as a distraction or pressure as opposed to dealing 
 -   With [Warmaster's Medallion](<Warmaster's_Medallion.md>)'s Talent, _Actions Speak Louder_, the critical cooldown is reduced to 20 seconds.
     -   If you add the [Critical Engine](Talents.md#critical-engine) Talent with [Blessed Gem](Blessed_Gem.md) to your [Warmaster's Medallion](<Warmaster's_Medallion.md>), you can bring the First Light critical down to 10 seconds, as the Blessed Gem effect that halves your cooldown is applied **after** Warmaster's Medallion.
 -   The model of the flaming swords that are seen in the critical are identical to the [Worshipper Longsword](Worshipper_Longsword.md).
+-   The First Light's new model may take inspiration from the [Telamonster](https://www.roblox.com/catalog/93136746/Telamonster-the-Chaos-Edge) ROBLOX gear. It shares multiple similarities with the gear, such as a red and gold color scheme, being a fire-based sword, and the two wing-like structures at both weapons' guards.
 
 ## References
 
