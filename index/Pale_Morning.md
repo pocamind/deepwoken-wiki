@@ -1,6 +1,6 @@
 ---
 title: Pale Morning
-revid: 215834
+revid: 218126
 source: https://deepwoken.fandom.com/wiki/Pale_Morning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Heavy Weapons]

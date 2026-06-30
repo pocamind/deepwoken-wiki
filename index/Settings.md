@@ -1,6 +1,6 @@
 ---
 title: Settings
-revid: 218085
+revid: 218127
 source: https://deepwoken.fandom.com/wiki/Settings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -14,82 +14,89 @@ By clicking the cogwheel icon on the top left of the screen, you can change your
 
 **PC:**
 
--   Basic Attack M1
--   Offhand Attack M2
--   Critical Attack M3 / R
--   Feint / Cancel M2
--   Camera Lock Shift
--   Sprint Alt
--   Block / Parry F
--   Dodge Q
--   Vent G
--   Crouch Ctrl
--   Interact E
--   Air Counter Space + M2
+-   Camera Lock - Shift / Unbound
+-   Interact - E
+-   Open Map - M / Unbound
+-   Summon Ship - N / Unbound
 
 * * *
 
--   Execute B
--   Carry V
+-   Sprint - Alt / Unbound
+-   Jump - Space / Unbound
+-   Crouch - Ctrl / Unbound
+-   Gesture / Emote - {{{2}}} / Unbound
 
 * * *
 
--   Change Stance Y
--   Taunt T
--   Gesture {{{2}}}
--   Reload Gun Z / Y
--   Resonance C
--   Glider N
+-   Basic Attack - M1 / Unbound
+-   Offhand Attack - M2 / Unbound
+-   Critical Attack - M3 / R
+-   Block / Parry - F / Unbound
+-   Change Stance - Y / Unbound
+-   Reload Gun - Z / Y
+-   Air Counter \[Midair\] - M2 / Unbound
 
 * * *
 
-Ability-exclusive Keybinds
+-   Feint / Cancel - M2 / Unbound
+-   Dodge - Q / Unbound
+-   Vent - G / Unbound
+
+* * *
+
+-   Execute - B / Unbound
+-   Carry - V / Unbound
+
+* * *
+
+-   Taunt / Spit - T / Unbound
+-   Resonance - C / Unbound
+-   Glider \[Midair\] - N / Unbound
 
 These Keybinds will only appear if you have the respective ability.
 
--   Sovereign State X
--   Iron Pull X
--   Callout Z
--   Ardour H
--   Rhythm G
--   Tacet T
--   Unmatched Dexterity X
--   Phantom Step X
--   Cap Artist Comma
--   Pickpocket N
--   Symbiotic Link X
--   Saintsblade N
--   Arc Module: Null L
--   Shaper Swap X
--   Reality Shift J
--   Chainlash M2
+-   [Sovereign State](Oath%253A_Blightsurger.md#sovereign-state) - X / Unbound
+-   [Iron Pull](Ironsing.md) - X / Unbound
+-   [Callout](Talents.md#callout) - Z / Unbound
+-   [Ardour](Murmur%253A_Ardour.md) - H / Unbound
+-   [Rhythm](Murmur%253A_Rhythm.md) (Crouching) - G / Unbound
+-   [Tacet](Murmur%253A_Tacet.md) (Crouching) - T / Unbound
+-   [Unmatched Dexterity](Oath%253A_Silentheart.md#unmatched-dexterity) - X / Unbound
+-   [Phantom Step](Talents.md#phantom-step) - X / Unbound
+-   [Cap Artist](Talents.md#cap-artist) - Comma / Unbound
+-   [Pickpocket](Talents.md#pickpocket) - N / Unbound
+-   [Symbiotic Link](Oath%253A_Linkstrider.md#symbiotic-link) - X / Unbound
+-   [Saintsblade](Oath%253A_Saintsworn.md#saintsblade) - L / Unbound
+-   [Arc Module: Null](Oath%253A_Arcwarder.md#arc-module-null) - L / Unbound
+-   [Shaper Swap](Oath%253A_Visionshaper.md#shaper-swap) - X / Unbound
+-   [Reality Shift](Oath%253A_Visionshaper.md#reality-shift) - J / Unbound
+-   [Chainlash](Oath%253A_Chainwarden.md#chainlash) - M2 / Unbound
 
 * * *
 
--   Angle Sails Left Z
--   Angle Sails Right C
--   Fire Cannon M1
+-   Angle Sails Left - Z / Unbound
+-   Angle Sails Right - C / Unbound
+-   Fire Cannon - M1 / Unbound
 
 * * *
 
--   Backpack / Journal Tab
--   Hotbar Slot 1 1
--   Hotbar Slot 2 2
--   Hotbar Slot 3 3
--   Hotbar Slot 4 4
--   Hotbar Slot 5 5
--   Hotbar Slot 6 6
--   Hotbar Slot 7 7
--   Hotbar Slot 8 8
--   Hotbar Slot 9 9
--   Hotbar Slot 10 0
+-   Hotbar Slot 1 - 1 / Unbound
+-   Hotbar Slot 2 - 2 / Unbound
+-   Hotbar Slot 3 - 3 / Unbound
+-   Hotbar Slot 4 - 4 / Unbound
+-   Hotbar Slot 5 - 5 / Unbound
+-   Hotbar Slot 6 - 6 / Unbound
+-   Hotbar Slot 7 - 7 / Unbound
+-   Hotbar Slot 8 - 8 / Unbound
+-   Hotbar Slot 9 - 9 / Unbound
+-   Hotbar Slot 10 - 0 / Unbound
 
 * * *
 
--   Ritual Cast 1 Z
--   Ritual Cast 2 X
--   Ritual Cast 3 C
--   Ritual Cast 4 V
+-   Ritual Cast 1 - Z / Unbound
+-   Ritual Cast 2 - X / Unbound
+-   Ritual Cast 3 - C / Unbound
+-   Ritual Cast 4 - V / Unbound
     
 
 **Console:**
@@ -98,160 +105,174 @@ _The button names may be different depending on console type._
 
 **Xbox:**
 
--   Basic Attack R1
--   Offhand Attack L2
--   Critical Attack R2
--   Feint / Cancel L2
--   Camera Lock / Lock On R3
--   Block / Parry L1
--   Dodge B
--   Vent Y
--   Crouch L3
--   Interact X
--   Air Counter A + L2
+-   Camera Lock / Lock On - R3 / Unbound
+-   Interact - X
+-   Open Map - L2 + View / Unbound
+-   Summon Ship - N / Unbound
 
 * * *
 
--   Execute ↑ DPAD + X
--   Carry ↓ DPAD + X
+-   Jump - A / Unbound
+-   Crouch - L3 / Unbound
+-   Gesture / Emote - Unbound / Unbound
 
 * * *
 
--   Change Stance Unbound
--   Taunt Unbound
--   Gesture Unbound
--   Reload Gun L2
--   Resonance Unbound
--   Glider A + Y
+-   Basic Attack - R1 / Unbound
+-   Offhand Attack - L2 / Unbound
+-   Critical Attack - R2 / Unbound
+-   Block / Parry - L1 / Unbound
+-   Change Stance - Unbound / Unbound
+-   Reload Gun - L2 / Unbound
+-   Air Counter \[Midair\] - A + L2 / Unbound
 
 * * *
 
-Ability-exclusive Keybinds
+-   Feint / Cancel - L2 / Unbound
+-   Dodge - B / Unbound
+-   Vent - Y / Unbound
+
+* * *
+
+-   Execute - ↑ DPAD + X / Unbound
+-   Carry - ↓ DPAD + X / Unbound
+
+* * *
+
+-   Taunt / Spit - Unbound / Unbound
+-   Resonance - Unbound / Unbound
+-   Glider \[Midair\] - A + Y / Unbound
 
 These Keybinds will only appear if you have the respective ability.
 
--   Sovereign State Unbound
--   Iron Pull Unbound
--   Callout Unbound
--   Ardour Unbound
--   Rhythm Unbound
--   Tacet Unbound
--   Unmatched Dexterity Unbound
--   Phantom Step Unbound
--   Cap Artist Unbound
--   Pickpocket Unbound
--   Symbiotic Link Unbound
--   Saintsblade Unbound
--   Arc Module: Null Unbound
--   Shaper Swap Unbound
--   Reality Shift Unbound
--   Chainlash L2
+-   [Sovereign State](Oath%253A_Blightsurger.md#sovereign-state) - Unbound / Unbound
+-   [Iron Pull](Ironsing.md) - Unbound / Unbound
+-   [Callout](Talents.md#callout) - Unbound / Unbound
+-   [Ardour](Murmur%253A_Ardour.md) - Unbound / Unbound
+-   [Rhythm](Murmur%253A_Rhythm.md) (Crouching) - Unbound / Unbound
+-   [Tacet](Murmur%253A_Tacet.md) (Crouching) - Unbound / Unbound
+-   [Unmatched Dexterity](Oath%253A_Silentheart.md#unmatched-dexterity) - Unbound / Unbound
+-   [Phantom Step](Talents.md#phantom-step) - Unbound / Unbound
+-   [Cap Artist](Talents.md#cap-artist) - Unbound / Unbound
+-   [Pickpocket](Talents.md#pickpocket) - Unbound / Unbound
+-   [Symbiotic Link](Oath%253A_Linkstrider.md#symbiotic-link) - Unbound / Unbound
+-   [Saintsblade](Oath%253A_Saintsworn.md#saintsblade) - Unbound / Unbound
+-   [Arc Module: Null](Oath%253A_Arcwarder.md#arc-module-null) - Unbound / Unbound
+-   [Shaper Swap](Oath%253A_Visionshaper.md#shaper-swap) - Unbound / Unbound
+-   [Reality Shift](Oath%253A_Visionshaper.md#reality-shift) - Unbound / Unbound
+-   [Chainlash](Oath%253A_Chainwarden.md#chainlash) - L2 / Unbound
 
 * * *
 
--   Angle Sails Left L1
--   Angle Sails Right R1
--   Fire Cannon R1
+-   Angle Sails Left - L1 / Unbound
+-   Angle Sails Right - R1 / Unbound
+-   Fire Cannon - R1 / Unbound
 
 * * *
 
--   Backpack / Journal L2 + View Button
--   Hotbar Slot 1 ← DPAD
--   Hotbar Slot 2 ↑ DPAD
--   Hotbar Slot 3 → DPAD
--   Hotbar Slot 4 ↓ DPAD
--   Hotbar Slot 5 L2 + ← DPAD
--   Hotbar Slot 6 L2 + ↑ DPAD
--   Hotbar Slot 7 L2 + → DPAD
--   Hotbar Slot 8 L2 + ↓ DPAD
--   Hotbar Slot 9 L2 + X
--   Hotbar Slot 10 L2 + Y
+-   Hotbar Slot 1 - ← DPAD / Unbound
+-   Hotbar Slot 2 - ↑ DPAD / Unbound
+-   Hotbar Slot 3 - → DPAD / Unbound
+-   Hotbar Slot 4 - ↓ DPAD / Unbound
+-   Hotbar Slot 5 - L2 + ← DPAD / Unbound
+-   Hotbar Slot 6 - L2 + ↑ DPAD / Unbound
+-   Hotbar Slot 7 - L2 + → DPAD / Unbound
+-   Hotbar Slot 8 - L2 + ↓ DPAD / Unbound
+-   Hotbar Slot 9 - L2 + X / Unbound
+-   Hotbar Slot 10 - L2 + Y / Unbound
 
 * * *
 
--   Ritual Cast 1 ← DPAD
--   Ritual Cast 2 → DPAD
--   Ritual Cast 3 ↑ DPAD
--   Ritual Cast 4 ↓ DPAD
+-   Ritual Cast 1 - ← DPAD / Unbound
+-   Ritual Cast 2 - → DPAD / Unbound
+-   Ritual Cast 3 - ↑ DPAD / Unbound
+-   Ritual Cast 4 - ↓ DPAD / Unbound
     
 
 **PlayStation:**
 
--   Basic Attack R1
--   Offhand Attack L2
--   Critical Attack R2
--   Feint / Cancel L2
--   Camera Lock / Lock On R3
--   Block / Parry L1
--   Dodge O
--   Vent ∆
--   Crouch L3
--   Interact □
--   Air Counter X + L2
+-   Camera Lock / Lock On - R3 / Unbound
+-   Interact - □
+-   Open Map - L2 + PS Button / Unbound
+-   Summon Ship - Unbound / Unbound
 
 * * *
 
--   Execute ↑ DPAD + □
--   Carry ↓ DPAD + □
+-   Jump - X / Unbound
+-   Crouch - L3 / Unbound
+-   Gesture / Emote - Unbound / Unbound
 
 * * *
 
--   Change Stance Unbound
--   Taunt Unbound
--   Gesture Unbound
--   Reload Gun L2
--   Resonance Unbound
--   Glider A + Y
+-   Basic Attack - R1 / Unbound
+-   Offhand Attack - L2 / Unbound
+-   Critical Attack - R2 / Unbound
+-   Block / Parry - L1 / Unbound
+-   Change Stance - Unbound / Unbound
+-   Reload Gun - L2 / Unbound
+-   Air Counter \[Midair\] - X + L2 / Unbound
 
 * * *
 
-Ability-exclusive Keybinds
+-   Feint / Cancel - L2 / Unbound
+-   Dodge - O / Unbound
+-   Vent - ∆ / Unbound
+
+* * *
+
+-   Execute - ↑ DPAD + □ / Unbound
+-   Carry - ↓ DPAD + □ / Unbound
+
+* * *
+
+-   Taunt / Spit - Unbound / Unbound
+-   Resonance - Unbound / Unbound
+-   Glider \[Midair\] - X + ∆ / Unbound
 
 These Keybinds will only appear if you have the respective ability.
 
--   Sovereign State Unbound
--   Iron Pull Unbound
--   Callout Unbound
--   Ardour Unbound
--   Rhythm Unbound
--   Tacet Unbound
--   Unmatched Dexterity Unbound
--   Phantom Step Unbound
--   Cap Artist Unbound
--   Pickpocket Unbound
--   Symbiotic Link Unbound
--   Saintsblade Unbound
--   Arc Module: Null Unbound
--   Shaper Swap Unbound
--   Reality Shift Unbound
--   Chainless L2
+-   [Sovereign State](Oath%253A_Blightsurger.md#sovereign-state) - Unbound / Unbound
+-   [Iron Pull](Ironsing.md) - Unbound / Unbound
+-   [Callout](Talents.md#callout) - Unbound / Unbound
+-   [Ardour](Murmur%253A_Ardour.md) - Unbound / Unbound
+-   [Rhythm](Murmur%253A_Rhythm.md) (Crouching) - Unbound / Unbound
+-   [Tacet](Murmur%253A_Tacet.md) (Crouching) - Unbound / Unbound
+-   [Unmatched Dexterity](Oath%253A_Silentheart.md#unmatched-dexterity) - Unbound / Unbound
+-   [Phantom Step](Talents.md#phantom-step) Unbound / Unbound
+-   [Cap Artist](Talents.md#cap-artist) - Unbound / Unbound
+-   [Pickpocket](Talents.md#pickpocket) - Unbound / Unbound
+-   [Symbiotic Link](Oath%253A_Linkstrider.md#symbiotic-link) - Unbound / Unbound
+-   [Saintsblade](Oath%253A_Saintsworn.md#saintsblade) - Unbound / Unbound
+-   [Arc Module: Null](Oath%253A_Arcwarder.md#arc-module-null) - Unbound / Unbound
+-   [Shaper Swap](Oath%253A_Visionshaper.md#shaper-swap) - Unbound / Unbound
+-   [Reality Shift](Oath%253A_Visionshaper.md#reality-shift) - Unbound / Unbound
+-   [Chainlash](Oath%253A_Chainwarden.md#chainlash) - L2 / Unbound
 
 * * *
 
--   Angle Sails Left L1
--   Angle Sails Right R1
--   Fire Cannon R1
+-   Angle Sails Left - L1 / Unbound
+-   Angle Sails Right - R1 / Unbound
+-   Fire Cannon - R1 / Unbound
 
 * * *
 
--   Backpack / Journal L2 + PS Button
--   Hotbar Slot 1 ← DPAD
--   Hotbar Slot 2 ↑ DPAD
--   Hotbar Slot 3 → DPAD
--   Hotbar Slot 4 ↓ DPAD
--   Hotbar Slot 5 L2 + ← DPAD
--   Hotbar Slot 6 L2 + ↑ DPAD
--   Hotbar Slot 7 L2 + → DPAD
--   Hotbar Slot 8 L2 + ↓ DPAD
--   Hotbar Slot 9 L2 + □
--   Hotbar Slot 10 L2 + ∆
+-   Hotbar Slot 1 - ← DPAD / Unbound
+-   Hotbar Slot 2 - ↑ DPAD / Unbound
+-   Hotbar Slot 3 - → DPAD / Unbound
+-   Hotbar Slot 4 - ↓ DPAD / Unbound
+-   Hotbar Slot 5 - L2 + ← DPAD / Unbound
+-   Hotbar Slot 6 - L2 + ↑ DPAD / Unbound
+-   Hotbar Slot 7 - L2 + → DPAD / Unbound
+-   Hotbar Slot 8 - L2 + ↓ DPAD / Unbound
+-   Hotbar Slot 9 - L2 + □ / Unbound
+-   Hotbar Slot 10 - L2 + ∆ / Unbound
 
 * * *
 
--   Ritual Cast 1 ← DPAD
--   Ritual Cast 2 → DPAD
--   Ritual Cast 3 ↑ DPAD
--   Ritual Cast 4 ↓ DPAD
+-   Ritual Cast 1 - ← DPAD / Unbound
+-   Ritual Cast 2 - → DPAD / Unbound
+-   Ritual Cast 3 - ↑ DPAD / Unbound
+-   Ritual Cast 4 - ↓ DPAD / Unbound
     
 
 ## Interface
