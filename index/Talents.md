@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 218234
+revid: 218239
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1435,6 +1435,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 -   _Landshark_ \[Quest Talent\] - Killing a [megalodaunt](Megalodaunt.md) will grant lifesteal on your attacks for 30 seconds.
     -   The lifesteal does not work in PvP.
     -   This procs when killing any [Megalodaunt variant](<Megalodaunt_(disambiguation).md>)
+    -   This Talent is unobtainable.
 
 ### Fang and Coil
 
@@ -5683,6 +5684,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Blade Threading: [Ferractine](Ferractine.md) - Your Metal Greatsword now has Metal Fakeout as its critical attack. Landing Critical attacks applies metal rod and slow.
     
     -   The [Metal Fakeout](Ironsing.md#metal-fakeout) critical will only work if your target is within [Metal Fakeout](Ironsing.md#metal-fakeout)'s targeting range. Additionally, this critical counts as a weapon attack, and not a Mantra. Applies [Bleed](Status_Effects.md#bleed) on hit.
+
+-   Champion's Shield: [Icarus Sun Shield](Icarus_Sun_Shield.md) - Deal an extra 25% more posture. Deal even more posture the more posture you have.
 
 -   Hex Bullet: [Duskshot](Duskshot.md) - Bullets that hit your opponents block shatter into dust on impact, unleashing a maddening smoke that increases your opponent's sanity.
 

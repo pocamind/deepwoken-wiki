@@ -1,9 +1,9 @@
 ---
 title: Icarus Sun Shield
-revid: 204367
+revid: 218237
 source: https://deepwoken.fandom.com/wiki/Icarus_Sun_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Weapons, Shields, The Hundred Legions, Offhand]
+categories: [Vow of Iron Exclusive, Weapons, Shields, The Hundred Legions, Offhand, Weapons with Talents]
 ---
 
 # Icarus Sun Shield
@@ -13,7 +13,8 @@ categories: [Vow of Iron Exclusive, Weapons, Shields, The Hundred Legions, Offha
 | type | Shield |
 | requirements | 60 FTD |
 | max posture | 10 |
-| special effect | Posture recovery from parrying is reduced by 40%. |
+| talent | Champion's Shield - Deal an extra 25% more posture. Deal even more posture the more posture you have. |
+| special effect | While one-handing, posture recovery from parrying is reduced by 40%. |
 | offhand | Offhand only |
 | rarity | Uncommon |
 | selling price | 14 |
@@ -36,6 +37,12 @@ The Icarus Sun Shield is a [offhand weapon](Weapons.md) in the Shield category. 
 The shield's silhouette is identical to the [Legion Shield](Legion_Shield.md), however the Khan symbol in the middle of the shield has been changed to be glowing a yellowish orange color and the symbol itself is changed to be [Titus](General_Titus_Juventius.md)'s face.
 
 The only obtainment for the Icarus Sun Shield is by defeating [General Titus Juventius](General_Titus_Juventius.md) by lowering his health below 90%, after that the shield will be given to whoever has contributed to doing damage to Titus.
+
+## Talents
+
+Equipping the Icarus Sun Shield grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+**Champion's Shield** increases the posture damage you deal by 25%. Additionally, you will gain a further posture damage buff, scaling on the amount of posture your character has.
 
 ## Trivia
 

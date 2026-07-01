@@ -1,6 +1,6 @@
 ---
 title: Attribute Flasks
-revid: 211909
+revid: 218245
 source: https://deepwoken.fandom.com/wiki/Attribute_Flasks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Tools, Consumables, Craftable]
@@ -13,8 +13,8 @@ categories: [Items, Tools, Consumables, Craftable]
 | value | 30 |
 | weight | N/A |
 | type | Consumable |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | pass down | No |
 | desc | A rare flask containg [sic] raw power, holding the potential to increase the attributes of its user. |
 
@@ -23,8 +23,8 @@ categories: [Items, Tools, Consumables, Craftable]
 | value | 30 |
 | weight | N/A |
 | type | Consumable |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | pass down | No |
 | desc | A rare flask containg [sic] raw power, holding the potential to increase the attributes of its user. |
 
@@ -33,8 +33,8 @@ categories: [Items, Tools, Consumables, Craftable]
 | value | 30 |
 | weight | N/A |
 | type | Consumable |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | pass down | No |
 | desc | A rare flask containg [sic] raw power, holding the potential to increase the attributes of its user. |
 
@@ -43,8 +43,8 @@ categories: [Items, Tools, Consumables, Craftable]
 | value | 30 |
 | weight | N/A |
 | type | Consumable |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | pass down | No |
 | desc | A rare flask containg [sic] raw power, holding the potential to increase the attributes of its user. |
 
@@ -53,8 +53,8 @@ categories: [Items, Tools, Consumables, Craftable]
 | value | 30 |
 | weight | N/A |
 | type | Consumable |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | pass down | No |
 | desc | A rare flask containg [sic] raw power, holding the potential to increase the attributes of its user. |
 
@@ -63,8 +63,8 @@ categories: [Items, Tools, Consumables, Craftable]
 | value | 30 |
 | weight | N/A |
 | type | Consumable |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | pass down | No |
 | desc | A rare flask containg [sic] raw power, holding the potential to increase the attributes of its user. |
 
