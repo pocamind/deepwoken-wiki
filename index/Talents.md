@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 218183
+revid: 218185
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3212,9 +3212,11 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisite: 65 Bloodrend
 
 -   Juicy Snack \[Common Talent, Fortitude, Bloodrend\] - Eliminating enemies returns their amount of blood poison as health to you.
+    -   Grants 20% of their blood poisoning as healing.
     -   Prerequisites: 60 Bloodrend, 20 Fortitude
 
--   _Panacea_ \[Rare Talent, Bloodrend\] - Hitting an enemy with a Bloodrend mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] stops their blood poison from decaying for 7 seconds.
+-   _Panacea_ \[Rare Talent, Bloodrend\] - Hitting an enemy with a Bloodrend mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] stops their blood poison from decaying briefly.
+    -   Lasts 7 seconds.
     -   Prerequisite: 65 Bloodrend
 
 -   Tainted Ground \[Common Talent, Bloodrend\] - Enemies who stand in blood pools do not decay blood poison and gain 15% more blood poisoning.
