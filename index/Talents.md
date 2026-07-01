@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 218185
+revid: 218234
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4546,9 +4546,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 -   Blood Plague: [Necrotic Mask](Necrotic_Mask.md) & [Bloodcurdle Mask](Bloodcurdle_Mask.md) - For every light attack you land, add one Blood Plague stack on your opponent. Landing a Critical Attack converts all Blood Plague stacks into temporary health but missing the attack loses them.
     
     -   M1s apply stacks of [Blood Plague](Status_Effects.md#blood-plague).
-    -   On critical, all Blood Plague stacks will be consumed to grant [Temporary Health](Status_Effects.md#temporary-health) if your critical attack lands, with the amount of Temporary Health given scaling on the stacks of Blood Plague.
-    -   The stacks of Blood Plague will be consumed regardless of if your critical attack lands, however.
-
+    -   On critical, all Blood Plague stacks will be consumed to grant 2 + (2 × stack count) [Temporary Health](Status_Effects.md#temporary-health), if the attack lands.
 -   Blood Siphon: [Necrotic Cowl](Necrotic_Cowl.md) & [Bloodcurdle Cowl](Bloodcurdle_Cowl.md) - Your Critical Attack now siphons a bit of health, healing you 10% of the damage you dealt.
 
 -   Breeze: [Stratos' Cloak](<Stratos'_Cloak.md>) - Gain a permanent +2 speed buff at all times.

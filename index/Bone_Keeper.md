@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 218111
+revid: 218230
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1, The Depths]
@@ -154,6 +154,7 @@ Jump
 -   Bone Keepers are the precursors of the [Kyrsgarde](Kyrsgarde.md), as mentioned by the [Kyrsglaive](Kyrsglaive.md) description.
 -   The one found on the bridge before the Generator in [The Eternal Gale](Second_Layer/The_Ethironal_Shrine.md) does not have knockback on its **Charge** and **Femur Throw** moves. This is the only instance of this feature. (Currently bugged and has knockback.)
 -   They're called "boneboy" in the game files.
+-   They are hostile to [Mudskipper Broodlords](Mudskipper_Broodlord.md)
 
 ## References
 

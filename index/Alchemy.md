@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 217521
+revid: 218235
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Consumables, Alchemy]
@@ -586,19 +586,21 @@ When brewing potions for an instant effect (like Rejuvenation or Soothing), poti
     -   Alternatively, you could add 2 more of any different Sanity loss ingredient, but duration might prove more effective.
     -   Alternatively, for [Saltchemists](Oath%253A_Saltchemist.md), 3 Bluecaps + 2 Redds + Antithetic Salts, applying a much more potent sanity loss over time effect. This will also deal a small amount of damage on contact.
 
--   **Blood Restoration** - 3 Hemoblooms
+-   **Blood Restoration** - 3 Hemoblooms + \[2 Extra Ingredients of Choice\]
     -   The secondary ingredient can be anything you want, as no other ingredient will improve upon the blood restoration effects.
 
 -   **Blood Drain** \[Saltchemist Exclusive\] - 3 Hemoblooms + 2 Glumfigs + Antithetic Salts
     -   Due to this potion effect in general being [Saltchemist](Oath%253A_Saltchemist.md) Exclusive, the ingredients used reflect this.
     -   Biotic and Aromatic Salts are highly recommended for this potion, as they can drain a very significant amount of your opponent's blood without causing any issues for yourself.
-    -   Damage ingredients (Glumfigs) were used here due to blood loss also being tied to damage dealt. These of course, can be changed if you wish to have a different additional effect.
+    -   Damage ingredients (Glumfigs) were used here due to blood loss also being tied to damage dealt. These of course, can be changed if you wish to have a different secondary effect.
     -   It isn't recommended to have too many of these potions in your Distillery, as blood is not a resource you can get back very easily, and these drain a significant amount of blood per potion.
--   **Wither Restoration** - 3 Grudgeroots
+
+-   **Wither Restoration** - 3 Grudgeroot + \[2 Extra Ingredients of Choice\]
     -   The secondary ingredient can be anything you want \[aside from duration increasing ingredients since this is an instant effect potion\], as no other ingredient will improve upon the **[Wither](Status_Effects.md#wither)** restoration effects.
     -   With enough Potency, drinking just one of these potions is enough to cancel out the **Wither** downside of a corrupted resonance.
     -   A surprisingly useful potion to have on hand or inside the distillery as there are lots of sources that can apply **Wither**. Stacking this with the **Placebo Effect** talent can help you clear the **Wither** of allies as well.
--   **Wither Application** \[Saltchemist Exclusive\] - 3 Grudgeroots + \[2 Extra Ingredients of Choice\] + Antithetic Salts + Aromatic Salts + Biotic Salts
+
+-   **Wither Application** \[Saltchemist Exclusive\] - 3 Grudgeroot + \[2 Extra Ingredients of Choice\] + Antithetic Salts
     -   Due to this potion effect in general being [Saltchemist](Oath%253A_Saltchemist.md) Exclusive, the ingredients used reflect this.
     -   Biotic and Aromatic Salts are highly recommended for this potion, as they can drain a very significant amount of your opponent's **Wither** without causing too much issues for yourself or allies. Additionally, having the **Chain Reaction** talent will increase the potency by 40% due to Aromatic Salts reapplying the potion effect.
 
