@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 214187
+revid: 218188
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -72,7 +72,7 @@ No Stat Requirement
 
 [Dawnwalker](Oath%253A_Dawnwalker.md)
 
-LVL 15
+LVL 10
 
 [Fadetrimmerfinal](Oath%253A_Fadetrimmer.md)
 
