@@ -1,6 +1,6 @@
 ---
 title: Justicar (Origin)
-revid: 216010
+revid: 218257
 source: https://deepwoken.fandom.com/wiki/Justicar_(Origin)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Character, Origins]
@@ -291,7 +291,7 @@ Warder Path, given automatically after joining it.
 -   Evil, sabotaging Castaways with ill-intent.
     -   Some Castaways can, using [Justicar Whistle](Castaway.md#justicar-whistle) to, spawn you into [Whirlpools](Whirlpools.md) or atop of mountains to kill you, and thus lose rank. Although you do not lose any rank points in the first 10 seconds of teleporting to a Castaway, and you gain details of the location of your target before teleporting.
     -   Some Castaways can, using [Justicar Whistle](Castaway.md#justicar-whistle) to, bait Justicars into a trapped area with a lot of players or a restricted area, leading them to a quick death.
-    -   These events are highly unlikely due to the majority of Castaways being newer players.
+    -   These events can be avoided by using your spawn i-frames to see the situation. Though if there is fighting you may want to be quick.
 -   Ironically, Justicars benefit most from competent Castaways who can quickly complete events, such as veteran players, who likely do not need a Justicar's help in the first place. Such a scenario is unlikely during intended gameplay.
 
 ## Reputation
