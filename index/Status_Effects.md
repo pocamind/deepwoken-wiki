@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 218031
+revid: 218254
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -382,9 +382,9 @@ Grants a +20% damage and +50% posture damage modifier to any player attacking yo
 
 ### Parasol's Blight
 
-Applied by being hit by weapon attacks from weapons that have the [Parasol's Blight](<Parasol's_Blight.md>) enchant. If you die while under the effect of this status, your corpse will explode, and a monster will spawn. This effect lasts 60 seconds (refreshable by landing additional hits), and can **only** be applied to players. The monster can be a [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Prime Megalodaunt](Prime_Megalodaunt.md), [Void Thresher](Thresher.md), or a [Nautilodaunt](Nautilodaunt.md); these monsters can be [Corrupted](Monsters.md#scyphozia) if used in [The Depths](The_Depths.md). This effect has no visual indicator.
+Applied by being hit by weapon attacks from weapons that have the [Parasol's Blight](<Parasol's_Blight.md>) enchant. If you die while under the effect of this status, your corpse will explode, and a monster will spawn. This effect lasts 60 seconds (refreshable by landing additional hits), and can **only** be applied to players. The monster can be a [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Prime Megalodaunt](Prime_Megalodaunt.md), [Void Thresher](Thresher.md), [Nautilodaunt](Nautilodaunt.md), or if a [Cryptwaker's Ring](<Cryptwaker's_Ring.md>) is equipped, a [Bone Keeper](Bone_Keeper.md); these monsters can be [Corrupted](Monsters.md#scyphozia) if used in [The Depths](The_Depths.md). This effect has no visual indicator.
 
-### Void
+### Curse of Void
 
 Applied from being hit by a player with the [Curse of Void](Curse_of_Void.md) enchant, gain 40% anti-heal for 30 seconds. Additionally, if you were to perish while affected by void, you will be sent to [the Depths](The_Depths.md) no matter how many lives you had previously. The user of this enchantment also has a permanently stained healthbar, however. Void is signified by a grey fog on your character.
 

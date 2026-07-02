@@ -1,6 +1,6 @@
 ---
 title: Eyes of Ethiron
-revid: 217519
+revid: 218248
 source: https://deepwoken.fandom.com/wiki/Eyes_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Talents, "Weapons with Multi-Attunement Scaling", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Legendary Weapons, Medium Weapons, Swords, Reforged Weapons, "Dual-wielded Weapons", "Attunement-based Weapons"]
@@ -65,7 +65,7 @@ These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Tal
 -   This weapon is merely invoking the name of [Ethiron, The Maelstrom's Eye](<Ethiron,_The_Maelstrom's_Eye.md>), and has no further connection to him.[\[1\]](#cite-note-1)
 -   The [Gatherhand](Gatherhand.md) inscription on the weapon are transcribed to: "A murky gale slips thru town, Soft air hums a quiet curse, Folk fall as lambs go out, A whole mass wanes to nil"
 -   The weapons innate Talent can lead to some ridiculous results:
-    -   Being able to spawn 35 to 45 [Shadow Seekers](Shadowcast.md#shadow-seekers) by [Inhale](Talents.md#inhale) a Mantra with maximum [Cloud](Mantra_Modifiers.md#regular-modifiers) and Stratos Stones.
+    -   Being able to spawn 35 to 45 [Shadow Seekers](Shadowcast.md#shadow-seekers) by [Inhale](Talents.md#inhale) a Mantra with maximum [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md).
     -   Extremely large [Shadow Roar](Shadowcast.md#shadow-roar).
     -   Very large Shadowcast Mantras in general.
 

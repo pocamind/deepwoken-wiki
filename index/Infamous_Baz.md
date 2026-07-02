@@ -1,6 +1,6 @@
 ---
 title: Infamous Baz
-revid: 218177
+revid: 218249
 source: https://deepwoken.fandom.com/wiki/Infamous_Baz
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Cut Content, Individuals with He/him pronouns, NPCs]
@@ -24,7 +24,9 @@ notices:
 
 ## Description
 
-Infamous Baz was a Felinor NPC spotted in the back corner of [The King's Garden](<The_King's_Garden.md>) in Etris. They were located in a back corner of the garden to the right of the palace.
+Infamous Baz was a [Felinor](Felinor.md) NPC.
+
+They were found in the back corner of [The King's Garden](<The_King's_Garden.md>) in [Etris](Etris.md). They were located in a back corner of the garden to the right of the palace.
 
 ## Location
 
