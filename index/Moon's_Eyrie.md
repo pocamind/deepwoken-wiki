@@ -1,6 +1,6 @@
 ---
 title: "Moon's Eyrie"
-revid: 213441
+revid: 218266
 source: https://deepwoken.fandom.com/wiki/Moon's_Eyrie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Voidzones]
@@ -18,11 +18,15 @@ A beacon calling out from the Void to the Old Dead above. Dreams are so frequent
 
   
 
-Moon's Eyrie is a non-static Drifting Island type Location in Deepwoken found in the [Voidsea](Voidsea.md), located in the [Eastern Luminant](Luminants.md) approximately to the east of the map's compass.
+Moon's Eyrie is a non-static Drifting Island type Location in Deepwoken found in the [Voidsea](Voidsea.md), located in the [Eastern Luminant](Luminants.md).
 
 ## Overview
 
 Moon's Eyrie is a mysterious island found within the Voidsea, potentially made as a sort of vault for the Celestials' weapons. It has strange architecture, many evident ties to the [Moonseye](Moonseye.md), and is guarded by several [Moon Knights](Moon_Knight.md).
+
+Moon's Eyrie's location on the minimap
+
+  
 
   
 

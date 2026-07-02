@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 213235
+revid: 218263
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -76,7 +76,17 @@ If Dimensional Travel is Drowned, in addition to the extra Resonance points to s
 -   If you get teleported to the [Voidheart](Voidheart.md) due to a [Voidwalker](Voidwalker.md) bounty expiring while inside The Interstice, you get teleported far into the [Voidsea](Voidsea.md) (possibly the Voidheart's coordinates multiplied by your **Dimensional Travel** distance stat.)
     -   Voidwalker bounties also expire if the targets are separated via The Interstice long enough, rendering this a means of escape for either, albeit inconvenient.
 -   [Random Encounters](Random_Encounters.md) from the [Voidsea](Voidsea.md) can briefly occur when arriving to or leaving The Interstice, due to your character being in the [Voidsea](Voidsea.md) for a short period.
-    -   This includes the [Dread Serpent](Dread_Serpent.md), this bug used to be patched, but it appears to be back.
+    -   This includes the [Dread Serpent](Dread_Serpent.md), this bug used to be patched, but it has been unpatched by agamatsu's AI coding
+        
+       .
+        
+
+  
+
+  
+
+  
+
 -   Gravity inside the Distortion Realm used to be reduced.
 -   There used to be a bug where buildings could be found in The Interstice.
 -   You cannot climb the structures in [The Interstice](The_Interstice.md).

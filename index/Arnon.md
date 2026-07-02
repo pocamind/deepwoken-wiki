@@ -1,6 +1,6 @@
 ---
 title: Arnon
-revid: 212792
+revid: 218271
 source: https://deepwoken.fandom.com/wiki/Arnon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -15,8 +15,6 @@ notices:
 | name | Lars |
 | aspect | Felinor |
 | location | Alsin's Landing |
-
-This page is about the NPC named Lars in [Alsin's Landing](<Alsin's_Landing.md>). For the other Lars, see Lars (The Viper's Jaw).
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

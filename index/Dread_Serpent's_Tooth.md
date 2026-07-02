@@ -1,6 +1,6 @@
 ---
 title: "Dread Serpent's Tooth"
-revid: 213149
+revid: 218260
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent's_Tooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
@@ -23,7 +23,7 @@ categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
 
 ## Description
 
-The **Dread Serpent's Tooth** is used to gain the "[Dread Breath](Monster_Mantras.md#dread-breath)" [Monster Mantra](Monster_Mantras.md) from [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) in [Castle Light](Castle_Light.md) after he has been interacted with in Floor 2 of the [Second Layer](Second_Layer.md). It can be obtained as rare drop from a [Dread Serpent](Dread_Serpent.md), and cannot be dropped alongside every other rare monster part. It can also be used to craft the [Familiar Demon's Armor](<Familiar_Demon's_Armor.md>) in the blacksmith.
+The **Dread Serpent's Tooth** is used to gain the "[Dread Breath](Monster_Mantras.md#dread-breath)" [Monster Mantra](Monster_Mantras.md) from [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) in [Castle Light](Castle_Light.md) after he has been interacted with in Floor 2 of the [Second Layer](Second_Layer.md). It can be obtained as rare drop from a [Dread Serpent](Dread_Serpent.md), and cannot be dropped alongside every other rare monster part. It can also be used to craft the [Familiar Demon's Armor](<Familiar_Demon's_Armor.md>) in the blacksmith. The **Dread Serpent's Tooth** can additionally be crafted into the [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md).
 
 ## Trivia
 

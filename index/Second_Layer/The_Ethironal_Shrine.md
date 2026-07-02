@@ -1,6 +1,6 @@
 ---
 title: Second Layer/The Ethironal Shrine
-revid: 208412
+revid: 218272
 source: https://deepwoken.fandom.com/wiki/Second_Layer/The_Ethironal_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Dungeons]
@@ -149,7 +149,7 @@ These optional quests are not essential to the main objective of clearing the se
 4.  Instead of going down the path, turn to the right of the main path (left when you are coming up), and go down the path.
 5.  Light the Candles with Galewax and you'll be greeted to the Galewax secret.
 
-### [Deepshore Fossil](../Deepshore_Fossil.md)
+### [Deepshore Fossil](../Deepshore_Fossil.md) (UNOBTAINABLE/REMOVED)
 
 -   **THIS IS A ONE TIME QUEST PER CHARACTER.** You are not required to do all of these in one run, they may be split and done at your own pace.
 

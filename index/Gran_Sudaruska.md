@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 213644
+revid: 218268
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons that cannot be equipped on Contractor, Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons]
@@ -87,4 +87,4 @@ The critical has a cooldown of **10 seconds.**
     -   Fimbulwinter is a harsh winter that preludes Ragnarök in Norse mythology.
 -   Bizarrely, Gran Sudaruska used to have a Power requirement of 3, despite it being impossible to meet the stat requirements within Power 3.
 -   Gran Sudaruska could be used one handed even if the One Handed Training Talent was not obtained prior to its removal.
--   Gran Sudaruska's Critical attack used to only be a spherical hitbox infront of the player. However, on the July 5th 2024 update, this was instead changed to be a 360 hitbox around the player.
+-   Gran Sudaruska's Critical attack used to only be a spherical hitbox infront of the player. However, on the [July 5th, 2024](Version_History/2024.md#july-5th-2024) update, this was instead changed to be a 360 hitbox around the player.
