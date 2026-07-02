@@ -1,6 +1,6 @@
 ---
 title: Arnon
-revid: 218271
+revid: 218278
 source: https://deepwoken.fandom.com/wiki/Arnon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -10,9 +10,9 @@ notices:
 
 # Arnon
 
-| Lars | |
+| Arnon | |
 |---|---|
-| name | Lars |
+| name | Arnon |
 | aspect | Felinor |
 | location | Alsin's Landing |
 
@@ -56,7 +56,7 @@ Lars is located in the training grounds of [Alsin's Landing](<Alsin's_Landing.md
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td>Take th- erm...</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
@@ -66,5 +66,4 @@ Lars is located in the training grounds of [Alsin's Landing](<Alsin's_Landing.md
 
 ## Trivia
 
--   Even though having only one line of dialogue, Lars's name is visible during normal gameplay.
--   Their hair ID is \_\_\_.
+-   Even though having only one line of dialogue, Arnon's name is visible during normal gameplay.
