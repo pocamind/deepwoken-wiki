@@ -1,6 +1,6 @@
 ---
 title: Dentifilo
-revid: 190758
+revid: 218342
 source: https://deepwoken.fandom.com/wiki/Dentifilo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Harvestables, Alchemy, Mushrooms]
@@ -25,7 +25,7 @@ categories: [Ingredients, Harvestables, Alchemy, Mushrooms]
 
 ## Description
 
-A small mushroom with a dotted cap. It can commonly be found in [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Minitrysa](Minityrsa.md), and [Songseeker Wilds](Songseeker_Wilds.md), in groups of ~3.
+A small mushroom with a dotted cap. It can commonly be found in [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Minitrysa](Minityrsa.md), and [Songseeker Wilds](Songseeker_Wilds.md), in groups of around three.
 
 ## Crafting
 
@@ -39,4 +39,5 @@ A small mushroom with a dotted cap. It can commonly be found in [Etris](Etris.md
 
 -   Currently the smallest type of mushroom in game.
 -   If used in [Alchemy](Alchemy.md), the primary affect applied is **Soothing**; Secondary effect is **Disgusting**.
--   One of 4 mushroom types, along with the [Gobletto](Gobletto.md), [Browncap](Browncap.md), and [Bluecap](Ingredients.md).
+-   One of four mushroom types, along with the [Gobletto](Gobletto.md), [Browncap](Browncap.md), and [Bluecap](Ingredients.md).
+-   For some reason, this mushroom doesn't make [Carnivores](Talents.md#carnivore) sick.

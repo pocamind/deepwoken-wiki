@@ -1,6 +1,6 @@
 ---
 title: Elder Sasha
-revid: 218333
+revid: 218340
 source: https://deepwoken.fandom.com/wiki/Elder_Sasha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Justicars]
@@ -26,7 +26,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Elder Sasha is an [Adret](Adret.md) NPC. She shares a story of escaping a [Voidwalker](Voidwalker.md) by utilizing a [Hobo](Hobo.md)'s stash.
+Elder Sasha is an [Adret](Adret.md) NPC. She is a [Justicar](<Justicar_(Origin).md>).
+
+After escaping a [Voidwalker](Voidwalker.md) by utilizing a [Hobo](Hobo.md)'s stash, she shared the story with her fellows at [Alsin's Landing](<Alsin's_Landing.md>).
 
 ## Location
 
