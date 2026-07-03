@@ -1,6 +1,6 @@
 ---
 title: Topol
-revid: 212660
+revid: 218309
 source: https://deepwoken.fandom.com/wiki/Topol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
@@ -12,7 +12,7 @@ notices:
 
 | Topol | |
 |---|---|
-| name | Darbert |
+| name | Topol |
 | aspect | Etrean |
 | location | Alsin's Landing |
 | affiliation | The Justicar |
@@ -23,11 +23,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Darbert is an [Etrean](Etrean.md) NPC.
+Topol is an [Etrean](Etrean.md) NPC.
 
 ## Location
 
-Darbert is located in the dining hall at [Alsin's Landing](<Alsin's_Landing.md>).
+Topol is located in the dining hall at [Alsin's Landing](<Alsin's_Landing.md>).
 
 ## Dialogue
 
@@ -65,4 +65,5 @@ Darbert is located in the dining hall at [Alsin's Landing](<Alsin's_Landing.md>)
 
 ## Trivia
 
--   Due to having only one line of dialogue, Darbert's name is not visible during normal gameplay.
+-   Due to having only one line of dialogue, Topol's name is not visible during normal gameplay.
+-   Originally named Darbert.

@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 216787
+revid: 218327
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Bosses, Voiced Characters]
@@ -166,7 +166,7 @@ Avoid
 | --- | --- |
 | **Battle initiation** | Despicable. You deem yourselves worthy of a challenge? Allow me to educate you on your folly. |
 | **While using 'Enmity's Call'** | I WILL DELIVER PUNISHMENT! |
-| **While using 'Homerun Bat'** | WHO DO YOU THINK YOU'RE CROSSING? |
+| **While using 'Homerun Bat'** | NOT EVEN FIT FOR CRUSHING! |
 | **While using 'The Brutalizer'** | KNEEL! |
 | **Defeat** | This... is no triumph. Your arrogance only spoils the offering you will make when your soul is claimed by our Master below. |
 

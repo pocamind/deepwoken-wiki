@@ -1,6 +1,6 @@
 ---
 title: Infamous Baz
-revid: 218249
+revid: 218320
 source: https://deepwoken.fandom.com/wiki/Infamous_Baz
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Cut Content, Individuals with He/him pronouns, NPCs]

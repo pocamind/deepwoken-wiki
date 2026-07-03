@@ -1,6 +1,6 @@
 ---
 title: "Worshipper's Shield"
-revid: 216744
+revid: 218321
 source: https://deepwoken.fandom.com/wiki/Worshipper's_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Offhand, The Covenant of Flame, Weapons with Talents]
@@ -14,7 +14,7 @@ categories: [Weapons, Shields, Offhand, The Covenant of Flame, Weapons with Tale
 | requirements | 40 FTD |
 | max posture | 6 |
 | talent | Worshipper's Tolerance - Reduce the burn damage you take by 15%. While on fire, parrying an opponent's attack now sets them on fire [45 second CD]. |
-| special effect | Your posture recovery from parrying is reduced by 40%. |
+| special effect | While one-handing, posture recovery from parrying is reduced by 40%. |
 | offhand | Offhand only |
 | rarity | Uncommon |
 | selling price | 14 |

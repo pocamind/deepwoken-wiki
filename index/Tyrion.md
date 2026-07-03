@@ -1,16 +1,16 @@
 ---
-title: Sherman
-revid: 218296
-source: https://deepwoken.fandom.com/wiki/Sherman
+title: Tyrion
+revid: 218292
+source: https://deepwoken.fandom.com/wiki/Tyrion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
 ---
 
-# Sherman
+# Tyrion
 
-| Sherman | |
+| Tyrion | |
 |---|---|
-| name | Sherman |
+| name | Tyrion |
 | aspect | Canor |
 | location | Alsin's Landing |
 
@@ -20,11 +20,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Sherman is a [Canor](Canor.md) NPC. Seemingly focused on training, they can be heard counting aloud while practicing alone.
+Tyrion is a [Canor](Canor.md) NPC.
 
 ## Location
 
-Sherman is located in the training grounds of [Alsin's Landing](<Alsin's_Landing.md>).
+Tyrion is located in the food stands of [Alsin's Landing](<Alsin's_Landing.md>).
 
 ## Dialogue
 
@@ -36,7 +36,7 @@ Sherman is located in the training grounds of [Alsin's Landing](<Alsin's_Landing
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td>5... 6.. 7!</td>
+  <td>The Justicars could learn a thing or two about drinks from the Authority...</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
@@ -54,7 +54,7 @@ This dialogue is unlocked if the player is a [Voidwalker](Voidwalker.md).
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td>Hey, back off! I'm not looking for trouble!</td>
+  <td>H-hah... Hey, I'm not looking for trouble...</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
@@ -64,5 +64,4 @@ This dialogue is unlocked if the player is a [Voidwalker](Voidwalker.md).
 
 ## Trivia
 
--   Due to having only one line of dialogue, Sherman's name is not visible during normal gameplay.
--   Originally named Kars.
+-   Due to having only one line of dialogue, Tyrion's name is not visible during normal gameplay.

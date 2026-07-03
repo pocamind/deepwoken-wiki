@@ -1,6 +1,6 @@
 ---
 title: Erland
-revid: 210298
+revid: 218311
 source: https://deepwoken.fandom.com/wiki/Erland
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -10,9 +10,9 @@ notices:
 
 # Erland
 
-| Harbert | |
+| Erland | |
 |---|---|
-| name | Harbert |
+| name | Erland |
 | aspect | Capra |
 | location | Alsin's Landing |
 
@@ -22,7 +22,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Harbert is a [Capra](Capra.md) NPC.
+Erland is a [Capra](Capra.md) NPC.
+
+## Location
+
+Erland is located inside of a Bookstack tower on the bottom floor at [Alsin's Landing](<Alsin's_Landing.md>).
 
 ## Dialogue
 
@@ -62,4 +66,5 @@ This dialogue is unlocked if the player is a [Voidwalker](Voidwalker.md).
 
 ## Trivia
 
--   Due to having only one line of dialogue, Harbert's name is not visible during normal gameplay.
+-   Due to having only one line of dialogue, Erland's name is not visible during normal gameplay.
+-   Originally named Harbert.

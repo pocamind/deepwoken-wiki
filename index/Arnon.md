@@ -1,6 +1,6 @@
 ---
 title: Arnon
-revid: 218278
+revid: 218313
 source: https://deepwoken.fandom.com/wiki/Arnon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -28,7 +28,7 @@ They wear the [Pathfinder Sorcerer](Pathfinder_Sorcerer.md) outfit and an [Adven
 
 ## Location
 
-Lars is located in the training grounds of [Alsin's Landing](<Alsin's_Landing.md>), next to Mars.
+Lars is located in the training grounds of [Alsin's Landing](<Alsin's_Landing.md>), next to [Esric](Esric.md).
 
 ## Dialogue
 
@@ -67,3 +67,4 @@ Lars is located in the training grounds of [Alsin's Landing](<Alsin's_Landing.md
 ## Trivia
 
 -   Even though having only one line of dialogue, Arnon's name is visible during normal gameplay.
+-   Originally named Lars.

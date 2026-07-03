@@ -1,6 +1,6 @@
 ---
 title: Karack
-revid: 213917
+revid: 218307
 source: https://deepwoken.fandom.com/wiki/Karack
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
@@ -12,7 +12,7 @@ notices:
 
 | Karack | |
 |---|---|
-| name | Warbert |
+| name | Karack |
 | aspect | Tiran |
 | location | Alsin's Landing |
 | affiliation | The Justicar |
@@ -23,11 +23,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Warbert is a [Tiran](Tiran.md) NPC.
+Karack is a [Tiran](Tiran.md) NPC.
 
 ## Location
 
-Warbert is located inside of a stronghold on the leftside of [Alsin's Landing](<Alsin's_Landing.md>).
+Karack is located inside of a stronghold on the leftside of [Alsin's Landing](<Alsin's_Landing.md>).
 
 ## Dialogue
 
@@ -67,4 +67,5 @@ This dialogue is unlocked if the player is a [Voidwalker](Voidwalker.md).
 
 ## Trivia
 
--   Due to having only one line of dialogue, Warbert's name is not visible during normal gameplay.
+-   Due to having only one line of dialogue, Karack's name is not visible during normal gameplay.
+-   Originally named Warbert.

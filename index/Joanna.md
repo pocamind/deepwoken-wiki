@@ -1,6 +1,6 @@
 ---
 title: Joanna
-revid: 210741
+revid: 218286
 source: https://deepwoken.fandom.com/wiki/Joanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -10,9 +10,9 @@ notices:
 
 # Joanna
 
-| Jonas | |
+| Joanna | |
 |---|---|
-| name | Jonas |
+| name | Joanna |
 | aspect | Celtor |
 | location | Alsin's Landing |
 
@@ -22,11 +22,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Jonas is a [Celtor](Celtor.md) NPC.
+Joanna is a [Celtor](Celtor.md) NPC.
 
 ## Location
 
-Jonas is located near a [Pomar](Pomar.md) tree at [Alsin's Landing](<Alsin's_Landing.md>).
+Joanna is located near a [Pomar](Pomar.md) tree at [Alsin's Landing](<Alsin's_Landing.md>).
 
 ## Dialogue
 
@@ -66,4 +66,5 @@ This dialogue is unlocked if the player is a [Voidwalker](Voidwalker.md).
 
 ## Trivia
 
--   Due to having only one line of dialogue, Jonas' name is not visible during normal gameplay.
+-   Due to having only one line of dialogue, Joanna's name is not visible during normal gameplay.
+-   Originally named Jonas.

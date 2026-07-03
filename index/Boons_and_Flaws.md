@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 214199
+revid: 218319
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics, Character, Creation, Features absent in Vow of Iron]
@@ -18,7 +18,7 @@ They are modifiers that effect gameplay in various ways, including vital core me
 
 ## Boons
 
-Boons are positive and helpful effects that are chosen in Character Creation. The number of Boons able to be picked is dependent on the number of Flaws that have been picked, with more selected Flaws equaling more Flaw Points and therefore more Boons. You can only have a maximum of 2 Boons at once.
+Boons are positive and helpful effects that are chosen in Character Creation. The number of Boons able to be picked is dependent on the number of Flaws that have been picked, with more selected Flaws equaling more Boon Points, and therefore more Boons. You can only have a maximum of 2 Boons at once.
 
 **Base Boons:**
 
@@ -39,15 +39,15 @@ These Boons can be chosen at character creation with no requirements for obtainm
   <td>You get a free attribute to invest at every level.</td>
   <td>Gain 3 free investment points every Power up, consuming an investment each use.</td>
   <td>Uses general experience upon use, possibly taking you into exp debt. Cannot be used to bypass the 330 investment point limit. Stacks with the <a href="Adret.md">Adret</a> aspect Talent, Maudet, giving you 6 free points on every Power up.</td>
-  <td>1 Flaw Point</td>
+  <td>1 Boon Point</td>
 </tr>
 <tr>
   <td><b>Gourmet</b><br>
   </td>
   <td>Foods are much more nutritional.</td>
   <td>Grants a 50% increase to Stomach and Thirst gain from consuming food.</td>
-  <td>This also increases the duration of your <a href="Food.md">Food</a> buffs by 50%. Having this alongside the <a href="Talents.md#gourmand">Gourmand</a> Talent will increase the Stomach and Thirst gain when eating food by 80%.</td>
-  <td>1 Flaw Point</td>
+  <td>This also increases the duration (amount of the food bar the buff affects) of your <a href="Food.md">Food</a> buffs by 50%. Having this alongside the <a href="Talents.md#gourmand">Gourmand</a> Talent will increase the Stomach and Thirst gain when eating food by 80%.</td>
+  <td>1 Boon Point</td>
 </tr>
 <tr>
   <td><b>Maverick</b><br>
@@ -55,7 +55,7 @@ These Boons can be chosen at character creation with no requirements for obtainm
   <td>Doing things alone yields greater experience.</td>
   <td>Increases EXP gain by an unknown percentage if no other players aid you when defeating mobs or completing events.</td>
   <td>N/A</td>
-  <td>1 Flaw Point</td>
+  <td>1 Boon Point</td>
 </tr>
 <tr>
   <td><b>Packmule</b><br>
@@ -63,15 +63,15 @@ These Boons can be chosen at character creation with no requirements for obtainm
   <td>You have a much higher max carry load, and can carry much larger quantities of food.</td>
   <td>Carry load is increased by 50, item stack limits are increased by 25% (rounded), and the maximum quantity of food you can carry is increased by 5.</td>
   <td>This affects certain <a href="Relics.md">Relics</a> such as <a href="Dye_Packet.md">Dye Packets</a>. Stacks with the <a href="Talents.md#cooks-kit">Cook's Kit</a> Talent, granting you a combined total of +10 to the amount of food you can have on your person, double that of what the base is.</td>
-  <td>1 Flaw Point</td>
+  <td>1 Boon Point</td>
 </tr>
 <tr>
   <td><b>Scrapper</b><br>
   </td>
   <td>You gain an extra <a href="Aces.md">Ace</a> every other <a href="Whisper_Draw.md">Whisper roll</a>.</td>
-  <td>Every other Mantra hand from leveling grants an additional Ace, granting +6 Aces by the time your build is completed.</td>
+  <td>Every other Mantra hand from leveling grants an additional Ace, granting +6 Aces by the time you reach Power 20.</td>
   <td>Grants an Ace at Powers 4, 8, 10, 14, 18, and 20.</td>
-  <td>1 Flaw Point</td>
+  <td>1 Boon Point</td>
 </tr>
 <tr>
   <td><b>Steadfast</b><br>
@@ -79,7 +79,7 @@ These Boons can be chosen at character creation with no requirements for obtainm
   <td>Your armor retains more durability when attacked.</td>
   <td>Reduces the amount of armor durability lost from being hit by 25%.</td>
   <td>Stacks multiplicatively with other armor durability damage reduction sources like <a href="Talents.md#armor-conserver">Armor Conserver</a> and the <a href="Armorer's_Ring.md">Armorer's Ring</a>.</td>
-  <td>1 Flaw Point</td>
+  <td>1 Boon Point</td>
 </tr>
 <tr>
   <td><b>Survivalist</b><br>
@@ -87,7 +87,7 @@ These Boons can be chosen at character creation with no requirements for obtainm
   <td>You are resistant to environmental effects.</td>
   <td>Grants immunity to acid rain. Parasites also accumulate on you ~33% slower.</td>
   <td>N/A</td>
-  <td>1 Flaw Point</td>
+  <td>1 Boon Point</td>
 </tr>
 </tbody>
 </table>
@@ -111,16 +111,16 @@ These Boons can be chosen at character creation, but require an additional requi
   </td>
   <td>You sweet talk your way out of trouble and are naturally more stealthy, gaining less bad reputation from committing crimes.</td>
   <td>Reduces the amount of negative reputation gained from all sources.</td>
-  <td>Grants +15% <a href="Stealth.md">Stealth</a>.</td>
+  <td>Also grants +15% <a href="Stealth.md">Stealth</a>.</td>
   <td>Unlocked from <a href="Reputation.md#bribe">paying off</a> negative reputation with any <a href="Reputation.md">faction</a>.</td>
-  <td>1 Flaw Point</td>
+  <td>1 Boon Point</td>
 </tr>
 </tbody>
 </table>
 
 ## Flaws
 
-Flaws are negative and harmful effects, most often chosen in Character Creation. Most Flaws can be rerolled by talking to the [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) or [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md) if you are over Power 17 or if you have ready used the Power Up deal with the Shrine. Choosing Flaws will grant Flaw Points, allowing you to choose more Boons.
+Flaws are negative and harmful effects, most often chosen in Character Creation. Most Flaws can be rerolled by talking to the [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) or [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md) if you are over Power 17 or if you have ready used the Power Up deal with the Shrine. Flaws grant Boon Points, allowing the player to choose more Boons. You can only select 2 Boon Points worth of Flaws in Character Creation.
 
 **Base Flaws:**
 
@@ -140,8 +140,8 @@ These Flaws can be chosen at character creation with no requirements for obtainm
   </td>
   <td>You regenerate Ether more slowly.</td>
   <td>Your Ether regeneration is reduced by an unknown percentage. This affects the boosted Ether regeneration from Tempo as well.</td>
-  <td>This does not affect things that grant a flat amount of Ether, such as instant Ether <a href="Alchemy.md">potions</a> or the <a href="Talents.md#ether-conduit">Ether Absorption</a> Talent.</td>
-  <td>1 Flaw Point</td>
+  <td>This does not affect things that grant a flat amount of Ether, such as instant Ether <a href="Alchemy.md">potions</a> or the <a href="Talents.md#ether-absorption">Ether Absorption</a> Talent.</td>
+  <td>1 Boon Point</td>
 </tr>
 <tr>
   <td><b>Glutton</b><br>
@@ -149,23 +149,23 @@ These Flaws can be chosen at character creation with no requirements for obtainm
   <td>Your hunger and thirst is depleted faster.</td>
   <td>Stomach and thirst meters passively decrease ~50%-100% faster.</td>
   <td>Does not affect the stomach loss any non-passive source, such as the <a href="Gluttony.md">Gluttony</a> Enchant or <a href="Chef's_Toque.md">Chef's Toque</a>.</td>
-  <td>1 Flaw Point</td>
+  <td>1 Boon Point</td>
 </tr>
 <tr>
   <td><b>Haemophilia</b><br>
   </td>
   <td>You bleed more</td>
   <td>Blood loss from taking damage is increased by an unknown amount.</td>
-  <td>Does not affect the blood loss from casting/being hit by <a href="Bloodrend.md">Bloodrend</a> Mantras, the blood loss from whiffing your <a href="Curse_of_the_Bloodthirsty.md">Curse of the Bloodthirsty</a> Enchant M1s, nor the Blood Loss <a href="Resonance.md#corrupt-resonances">Corrupt Resonance</a> downside.</td>
-  <td>1 Flaw Point</td>
+  <td>Does not affect <b>blood drain</b> effects (see <a href="#trivia">Trivia</a> for more info).</td>
+  <td>1 Boon Point</td>
 </tr>
 <tr>
   <td><b>Manic</b><br>
   </td>
   <td>All insanity gained from attacks is heavily amplified.</td>
   <td>All incoming insanity and insanity damage is increased greatly.</td>
-  <td>Does not affect percentage based sanity damage, such as <a href="Talents.md#heretic">Heretic's Sutra</a> or <a href="Talents.md#mindbreaker">Shared Misery</a>.</td>
-  <td>1 Flaw Point</td>
+  <td>Does not affect percentage based sanity damage, such as <a href="Talents.md#heretics-sutra">Heretic's Sutra</a> or <a href="Talents.md#shared-misery">Shared Misery</a>.</td>
+  <td>1 Boon Point</td>
 </tr>
 <tr>
   <td><b>Obvious</b><br>
@@ -173,7 +173,7 @@ These Flaws can be chosen at character creation with no requirements for obtainm
   <td>Enemies detect you more easily.</td>
   <td>Grants -20% <a href="Stealth.md">stealth</a>, meaning Monsters and other NPCs can detect you at a further distance.</td>
   <td>N/A</td>
-  <td>1 Flaw Point</td>
+  <td>1 Boon Point</td>
 </tr>
 <tr>
   <td><b>Simple</b><br>
@@ -189,7 +189,7 @@ These Flaws can be chosen at character creation with no requirements for obtainm
   <td>Having to physically take the life of another makes you lose stomach.</td>
   <td>Lose around 2-3% of your stomach meter when manually gripping NPCs or players.</td>
   <td>Effectively disabled with the <a href="Talents.md#carnivore">Carnivore</a> Talent. Can also be circumvented by gripping your opponent via other means like drowning or burning.</td>
-  <td>1 Flaw Point</td>
+  <td>1 Boon Point</td>
 </tr>
 <tr>
   <td><b>Vegetarian</b><br>
@@ -197,7 +197,7 @@ These Flaws can be chosen at character creation with no requirements for obtainm
   <td>Eating the flesh of animals has a chance to make you vomit.</td>
   <td>Eating meat-based foods has an ~50% chance to make you vomit.</td>
   <td>You cannot obtain <a href="Talents.md#carnivore">Carnivore</a> if you have this Flaw. Despite being a base Flaw, this Flaw cannot be obtained from the <a href="Deep_Shrines/Shrine_of_Blasphemy.md">Shrine of Blasphemy</a>.</td>
-  <td>1 Flaw Point</td>
+  <td>1 Boon Point</td>
 </tr>
 </tbody>
 </table>
@@ -223,7 +223,7 @@ These Flaws can be chosen at character creation, but require an additional requi
   <td>You gain a less extreme version of the <a href="Talents.md#miscellaneous">Blinded Talent</a>, cascading everything in darkness; making things even if close up hard to discern from your other surroundings.</td>
   <td>This Flaw provides protection from <a href="Flamecharm.md#flame-blind">Flame Blind</a> and <a href="Attunement-less.md#gaze">Gaze</a>. As <a href="Gremor.md">Gremors</a> are blessed by Navae, you gain an area around your character in which there is light, greatly assisting your ability to see. Your character's eyes become a pale grey/white. Additionally, instead of pure darkness, the Blind effect for Gremors has a more green hue instead.</td>
   <td>Unlocked after obtaining <a href="Oath%253A_Blindseer.md">Blindseer</a> for the first time.</td>
-  <td>1 Flaw Point</td>
+  <td>1 Boon Point</td>
 </tr>
 <tr>
   <td><b>Fugitive</b><br>
@@ -231,7 +231,7 @@ These Flaws can be chosen at character creation, but require an additional requi
   <td>Your past isn't so spotless. All <a href="Reputation.md">Factions</a> hate you.</td>
   <td>You start with much lower reputation towards all factions, putting all faction reputation in the negative.</td>
   <td>Reputation can still be gained normally. Your starting reputation is low enough for guards to aggro on sight and for you to be <a href="Bounty_Hunting.md">bounty hunted</a> at Power 5, but depending on your origin, not low enough for <a href="Blacksmith.md">blacksmiths</a> and <a href="Antiquarian.md">antiquarians</a> to be disabled.</td>
-  <td>Gain negative reputation from any faction you originally have positive reputation for (e.g. going from Neutral to Enemy Etrea reputation).</td>
+  <td>Gain negative reputation from any faction you originally have positive reputation for (e.g. going from <b>Neutral</b> to <b>Enemy</b> Etrea reputation).</td>
   <td>2 Flaw Points</td>
 </tr>
 </tbody>
@@ -274,9 +274,9 @@ These Flaws are granted via specific means instead of being chosen during charac
   </td>
   <td>Your <a href="Resonance.md">Resonance</a> is harder to call forth.</td>
   <td>Increases Resonance startup by 1 second, along with a varying unique debuff depending on the Resonance. This Flaw prevents you from rerolling your Resonance with <a href="Shrine_of_Yun'Shul,_Keeper_of_Hearts.md">Yun'Shul</a> until it's removed.</td>
-  <td>Unobtainable if you have the <b>Soul Plasticity</b> <a href="Echoes.md#upgrades-unlocks-and-modifiers">Echo Unlock</a>.</td>
+  <td>Unobtainable if you have the <b><a href="Echoes.md#upgrades-unlocks-and-modifiers">Soul Plasticity</a></b> <a href="Echoes.md#upgrades-unlocks-and-modifiers">Echo Unlock</a>.</td>
   <td>Obtained from rerolling your Resonance with <a href="Shrine_of_Yun'Shul,_Keeper_of_Hearts.md">Yun'Shul</a> or when using an <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a> to do the same thing.</td>
-  <td>Removed by giving <a href="Yamaketzal.md">Yamaketzal</a> 1,000, <a href="Carrion,_Father_of_Evolution.md">Carrion, Father of Evolution</a> 1, or by obtaining Clarity from <a href="Misérables.md">Misérables</a> for 15. Also cleared from all slots permanently if you purchase the Soul Plasticity <a href="Echoes.md#upgrades-unlocks-and-modifiers">Echo Unlock</a> for 500 Echoes.</td>
+  <td>Removed by giving <a href="Yamaketzal.md">Yamaketzal</a> 1,000, <a href="Carrion,_Father_of_Evolution.md">Carrion, Father of Evolution</a> 1, or by obtaining Clarity from <a href="Misérables.md">Misérables</a> for 15. Also cleared from all slots permanently if you purchase the <a href="Echoes.md#upgrades-unlocks-and-modifiers">Soul Plasticity</a> <a href="Echoes.md#upgrades-unlocks-and-modifiers">Echo Unlock</a> for 500 Echoes.</td>
 </tr>
 <tr>
   <td><b>Vacant</b><br>
@@ -300,37 +300,41 @@ These Flaws are granted via specific means instead of being chosen during charac
 
 ## Breakdown of Boons
 
+-   Your Boon choice is fairly consequential, as they cannot be changed after leaving Character Creation. Though, with that being said, Boon choice is ultimately up to personal preference, with most of them granting minor benefits.
 -   Some boons are more worth taking than others:
     -   **Autodidact** is useful to help level up certain stat quicker or level up stats that are annoying to do manually. If you die, you can also Power up to restore your lives. However, a side effect of free investment points is that you will often be in EXP Debt, as you will "progress" more without meeting proper EXP quotas, hitting training caps faster. Unfortunately, this Boon becomes useless once you reach Power 20. This Boon stacks with the [Adret](Adret.md) Aspect Talent, Maudet, granting 6 free training points on every level up.
     -   **Gourmet** is a well-rounded boon that even stacks with its Talent variant. You spend less time making food overall which is great for extended adventures with limited supplies. Additionally, Gourmet's ability to increase the duration of [Food](Food.md) buffs by 50% makes it second to none if you wish to engage with this mechanic. It is recommended that you additionally take the [Tavernkeep](Talents.md#tavernkeep) Talents with this Boon to maximize the satiation and effects from eating certain foods.
     -   **Maverick**'s exp boost is a nice bonus but is fairly unnoticeable, and is negated by playing with some friends. Unfortunately, it becomes useless once you are fully invested.
     -   **Packmule** is very useful for builds that need to carry around a lot of loot, such as bank slots or PvE builds. While nice to have, it's not as impactful as many other Boons unless you're going for one of the aforementioned builds.
-    -   **Scrapper** gives you more control over your build by granting additional [Aces](Aces.md). It can be worth taking if you are okay with omitting a long-lasting boon like Survivalist, Gourmet, or Steadfast. Though, if you happen to obtain the [Ace of Spades](Regalia.md#ace-of-spades) Regalia, this Boon will become obsolete.
-    -   **Sly** is largely seen as a waste of a Boon, as all it does is reduce the amount of reputation lost when doing things that might upset factions. It however may be useful for people who gank, especially in the Depths and around [Castle Light](Castle_Light.md) and for builds that want a very high [Stealth](Stealth.md) stat (e.g. for [Tacet](Murmur%253A_Tacet.md)).
-    -   **Steadfast** grants a pretty big boost to your overall armor durability by reducing armor damage taken. This Boon is generally seen as a necessity on almost all builds due to its universal bonus that affects all types of combat. All other forms of armor durability reduction stack multiplicatively with this Boon, meaning there are diminishing returns if you plan to use more sources of this effect.
+    -   **Scrapper** gives you more control over your build by granting additional [Aces](Aces.md). This Boon is less necessary for players that have a good way to generate [Knowledge](Knowledge.md), such as a stash of [Moonseye Tomes](Moonseye_Tome.md). If you happen to obtain the [Ace of Spades](Regalia.md#ace-of-spades) Regalia, this Boon will become obsolete.
+    -   **Sly** is largely seen as a waste of a Boon, as all it does is reduce the amount of reputation lost when doing things that might upset factions. It however may be useful for people who gank, especially in [the Depths](The_Depths.md) and around [Castle Light](Castle_Light.md), and for builds that want a very high [Stealth](Stealth.md) stat (e.g. for [Tacet](Murmur%253A_Tacet.md)). The [Stealth](Stealth.md) from this Boon is affected by Stealth multipliers, such as [Felinor](Felinor.md) and crouching/[Lowstride](Talents.md#lowstride).
+    -   **Steadfast** grants a pretty big boost to your overall armor durability by reducing armor damage taken. This Boon is generally seen as a must-take on almost all builds due to its universal bonus that affects all types of combat. All other forms of armor durability reduction stack multiplicatively with this Boon, meaning there are diminishing returns if you plan to use more sources of this effect.
     -   **Survivalist**'s immunity to [Acid Rain](Environmental_Hazards.md) might seem limited in usage since Acid Rain only happens naturally at [Upper Erisia](Upper_Erisia.md), but it can prove invaluable for spending time there. Acid Rain can also be triggered through the [Rain](<Rain_(enchantment).md>) enchantment if you also have a [Stench](Stench.md) enchantment equipped, making Survivalist a must have if you plan on using this enchantment combo. Survivalist also avoids the dangerous event of your [glider](Gliders.md) breaking when gliding into Acid Rain. In addition, it decreases the rate at which parasites in the [Second Layer](Second_Layer.md) kill you.
 
 ## Breakdown of Flaws
 
+-   Your Flaw choice during Character Creation is largely inconsequential (barring Blind), as you can exchange any non-Special Flaw for a random Base Flaw at the [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md). Simple and Vegetarian cannot be obtained through this. Note: You need to be Power 17+ or have used the Shrine of Blasphemy Power Up deal prior to unlock Flaw conversion.
 -   Some Flaws are more worth taking than others:
-    -   **Blind** gives you the Blinded effect constantly, heavily limiting your field-of-vision. If you can live through it long enough to obtain [Blindseer](Oath%253A_Blindseer.md), you can negate the Flaw's downside. This Flaw also provides protection from [Flame Blind](Flamecharm.md#flame-blind) and [Gaze](Attunement-less.md#gaze). Blind also grants your character milky-white eyes.
+    -   **Blind** gives you the [Blinded](Status_Effects.md#blinded) effect constantly, heavily limiting your field-of-vision. If you can live through it long enough to obtain [Blindseer](Oath%253A_Blindseer.md), you can negate the Flaw's downside entirely. This Flaw also provides protection from [Flame Blind](Flamecharm.md#flame-blind) and [Gaze](Attunement-less.md#gaze). Blind also grants your character milky-white eyes. [Gremors](Gremor.md) notably have a small vision radius while blinded, and lighting sources can also be used (such as the [Pathfinder Lantern](Pathfinder_Lantern.md) to slightly mitigate the downsides of this Flaw.
     -   **Deficient** is a downside for all builds that intend to use Mantras, and is generally not worth taking. However, if you decide to go for [Silentheart](Oath%253A_Silentheart.md), the effect is minor, though still a downside, as Ether can still be useful on this Oath.
-    -   **Fugitive** can be worked around by taking quests on [Job Boards](Job_Boards.md) designated by Factions. This Flaw is effectively negated by the [Noble](Regalia.md#noble) Regalia, as it gives you a large amount of starting reputation for all factions. Additionally, as this Flaw grants 2 Flaw points, it is a great alternative to Simple.
+    -   **Fugitive** can be worked around by taking quests on [Job Boards](Job_Boards.md) designated by Factions to farm Reputation. If you care about having good reputations with most or all Factions, this Flaw can be a serious time sink, and may not be worth taking for players dislike this aspect of the Flaw. This Flaw is effectively negated by the [Noble](Regalia.md#noble) Regalia, as it gives you a large amount of starting reputation for all factions. Additionally, as this Flaw grants 2 Flaw points, it is a great alternative to Simple.
     -   **Glutton** forces you to handle provisions more smartly, since you will likely need more food for extended sessions, but this can be somewhat worked around by using the [Carnivore](Talents.md#carnivore) and [Grand Feast](Talents.md#grand-feast) Talents or the [guild base](Guild_Bases.md) Mess Hall. This Flaw is **entirely** negated by the [Hungerless](Regalia.md#hungerless) Regalia, as it entirely disables passive stomach/thirst drain.
-    -   **Haemophilia** is basically a free Flaw in most 1v1 situations, as the increased blood drain won't have an impact when you'll be knocked before your blood runs out, but in ganks you can die to blood before health runs out after some time. This Flaw (luckily) doesn't affect **blood drain** effects, such as utilizing or being hit by [Bloodrend](Bloodrend.md) Mantras, the blood cost from the Blood Loss [Corrupt Resonance](Resonance.md#corrupt-resonances) downside, [blood loss potions](Alchemy.md), or whiffing with or being hit by the [Curse of the Bloodthirsty](Curse_of_the_Bloodthirsty.md) enchantment, as blood drain effects are unaffected by blood loss modifiers.
-    -   **Manic** is usually a free Flaw point; the increased Sanity loss is minimal, Sanity damage comes from few sources, and scratching can be completely avoided with some Talents. Additionally, having low Sanity can even benefit some builds.
-    -   **Obvious** grants -20% [stealth](Stealth.md) on spawn, increasing the radius at which enemies will detect you. Because of this, this Flaw will largely only affect PvE with one exception being [Tacet](Murmur%253A_Tacet.md)'s range, as that is affected by your Stealth stat. This Flaw can be dangerous in areas like [the Depths](The_Depths.md). The [Felinor](Felinor.md) aspect almost entirely negates this Flaw, as the Aspect starts with 20% stealth. Though, because of Felinor's innate 1.2x stealth multiplier, you'll have -4% stealth, which is negligible and can be negated by a mere 2 [Agility](Attributes.md#agl).
+    -   **Haemophilia** is basically a free Flaw in most 1v1 situations, as the increased blood loss won't have an impact when you'll be knocked before your blood runs out, but in ganks you can die to blood before health runs out after some time. This Flaw (luckily) doesn't affect **blood drain** effects, such as utilizing or being hit by [Bloodrend](Bloodrend.md) Mantras, the blood cost from the Blood Loss [Corrupt Resonance](Resonance.md#corrupt-resonances) downside, [blood loss potions](Alchemy.md), or whiffing with or being hit by the [Curse of the Bloodthirsty](Curse_of_the_Bloodthirsty.md) enchantment, as blood drain effects are unaffected by blood loss modifiers.
+    -   **Manic** is usually a free Boon Point; the increased Sanity loss is minimal, Sanity damage comes from few sources, and scratching can be completely avoided with some Talents. Additionally, having low Sanity can even benefit some builds.
+    -   **Obvious** grants -20% [stealth](Stealth.md) on spawn, increasing the radius at which enemies will detect you. Because of this, this Flaw will largely only affect PvE with one exception being [Tacet](Murmur%253A_Tacet.md)'s range, as that is affected by your Stealth stat. This Flaw can be dangerous in areas like [the Depths](The_Depths.md). The Stealth from this Flaw is affected by Stealth multipliers, such as [Felinor](Felinor.md) and crouching/[Lowstride](Talents.md#lowstride). The [Felinor](Felinor.md) aspect's innate 20% Stealth and 1.2x Stealth multipliers makes it so an Obvious Felinor starts with -4% Stealth; counteracted by a mere 2 [Agility](Attributes.md#agl) investment. This Flaw should not be taken on any [Inquisition Division](Authority_Ensign.md#inquisition-division) [Authority Ensign](Authority_Ensign.md) builds that wish to utilize the [Fatal Stealth](Talents.md#fatal-stealth) Talent, as the negative Stealth from this Flaw contributes to that Talent, applying a damage deficit to your backstabs. This Flaw's downside can be mitigated through [Agility](Attributes.md#agl) investment, [Equipment](Equipment.md) and [Outfits](Outfits.md), etc. see [Stealth](Stealth.md) for a list of all Stealth gain sources.
     -   **Simple**'s EXP gain rate decrease is not problematic for the patient, but it can be annoying to power up at higher levels. It'll also mean it takes more time to get back your first life via powering up. The exp gain downside of this Flaw is negated when fully progressed. The reduced [Knowledge](Knowledge.md) gain from this Flaw can hurt, but there are some workarounds; if you gain Knowledge in increments of 1 or 2 (most Knowledge gain sources fall under this range), the Flaw will not hurt you as it rounds. Alternatively, gaining Knowledge in increments of any even number that is not divisible by 4 will cause your Knowledge gain to round up. The [Insightful](Regalia.md#insightful) Regalia somewhat overpowers the decreased Knowledge gain downside of this Flaw, allowing you to gain slightly more Knowledge than you would previously.
-    -   **Squeamish** will cause you to lose stomach upon manually executing enemies. As [food](Food.md) buffs are tied to your stomach bar, you'll also lose those more quickly than other character might. Other than that, you typically won't eat more than other characters. Regardless, be sure to carry an ample supply of food. This Flaw can be effectively negated if you obtain the [Carnivore](Talents.md#carnivore) Talent, as this will cause you to instead gain stomach and hydration after killing foes. Any form of automatic execution (e.g. [Blood Scourge](Blood_Scourge.md), blood loss, drowning, or burning) will not trigger this Flaw.
+    -   **Squeamish** will cause you to lose stomach upon manually executing enemies. As [food](Food.md) buffs are tied to your stomach bar, you'll also lose those more quickly than other character might. Other than that, you typically won't eat more than other characters. Regardless, be sure to carry an ample supply of food. This Flaw can be effectively negated if you obtain the [Carnivore](Talents.md#carnivore) Talent, as this will cause you to instead gain stomach and hydration after killing foes. Any form of automatic execution (e.g. [Blood Scourge](Blood_Scourge.md), blood loss, drowning, or [burning](Status_Effects.md#burn)) will not trigger this Flaw.
     -   **Vegetarian**'s inability to consume meat can be easily avoided; there are many other food sources other than meat/meat related items and the [Guild Base Mess Hall](Guild_Bases.md) sells a Vegetarian option. Vegetarian only grants a ~50% chance to vomit when eating meat-based foods, so they are still viable options in a pinch. Picking this Flaw will make it impossible to obtain the [Carnivore](Talents.md#carnivore) Talent, which some players may find useful. [Bloodrend](Bloodrend.md)'s _Carnivorous_ [Cantrip](Elemental_Cantrips.md) does not negate this Flaw's effects; you still have a chance to vomit when consuming raw meat.
+-   Ideally, all Special Flaws should be removed from your character as soon as possible, as they only apply negative effects with no silver lining.
 
 ## Trivia
 
--   Prior to the official release of the game, Blind was a selectable Flaw for 1 point. This was removed during testing for unknown reasons, although was it was brought back during the August 16th, 2022 update, being unlocked after gaining [Blindseer](Oath%253A_Blindseer.md).
+-   Prior to the official release of the game, Blind was a selectable Flaw for 1 point. This was removed during testing for unknown reasons, although was it was brought back during the [August 16th, 2022](Version_History/2022-2021.md#august-16th-2022) update, being unlocked after gaining [Blindseer](Oath%253A_Blindseer.md).
 -   Deepbound used to be a Flaw, but it was changed to be an unlockable [origin](Origins.md).
 -   The Restless Flaw was originally obtainable when [Oathbreaking](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) [Oathless](Oath%253A_Oathless.md) and using [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), however this Flaw is currently unobtainable.
--   The [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) used to grant a random base Flaw on use, this was removed during the September 6th, 2025 update.
+-   The [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) used to grant a random base Flaw on use, this was removed during the [September 6th, 2025](Version_History/2025.md#september-6th-2025) update.
 -   There used to be more Boons and Flaws. The currently known ones are Adept (likely the original version of the Talent) and Seasick.
+-   The icon for thr Restless Flaw is a [Troll Face](https://en.wikipedia.org/wiki/Troll_Face) of [Haske Vantage](Developer_Specs.md#arch-mage-haske-vantage), developer Arch\_Mage's [Primal Vesperian](Primal_Vesperian.md).
 -   While not confirmed, Wishbound's passive insanity gain shares some similarities with the Latin concept/word, lunaticus. Within it's Latin origins, the word refers to diseases caused by the moon, such as madness or epilepsy.
 
 Having the _Blind_ Flaw at night. (No, this isn't just a black image. Look carefully.)

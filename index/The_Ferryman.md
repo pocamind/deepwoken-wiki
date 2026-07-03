@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 217895
+revid: 218326
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Humanoid Bosses, Bosses, Voiced Characters]
@@ -441,7 +441,7 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
 -   He is considered a significant enemy of the Authority by Chainwarden progression, likely due to his alignment with the Depths.
 -   He bears a near-identical appearance to [Korin](Korin.md), the only difference being eye coloration.
 -   The Ferryman's Lightning Clones will display the [Lightning Clones](Thundercall.md#lightning-clones) death FX when they die. Strangely, the color of this FX changes depending on the **player's** Thundercall path, being yellow at base and blurple if they have [Surge Path](Talents.md#surge-path-unstable-capacitor).
--   He also wears earrings during the fight, though they dont show before are after it, only during the the fight
+-   The Ferryman wears the [Master Thief Earrings](Master_Thief_Earrings.md), but they're only visible during the fight.
 
 ## References
 

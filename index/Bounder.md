@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 215984
+revid: 218280
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, The Depths]
@@ -94,7 +94,7 @@ Dodge
 
 | Name | Description |
 | --- | --- |
-| **Slam** | Raises both hands slightly higher and slams it on the victim, killing them. |
+| **Feast** | Picks the victim up with both hands and opens it's mouth wide open, then places them in it's mouth, eating them. |
 
 ## Trivia
 
