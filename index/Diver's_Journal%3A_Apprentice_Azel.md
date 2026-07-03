@@ -1,12 +1,14 @@
 ---
 title: "Diver's Journal: Apprentice Azel"
-revid: 217731
+revid: 218368
 source: https://deepwoken.fandom.com/wiki/Diver's_Journal%3A_Apprentice_Azel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books, Diver Journals]
 ---
 
 # Diver's Journal: Apprentice Azel
+
+_This is the book availabe in the current game version. For its older counterpart, see [Diver Journal, I](Diver_Journal,_I.md)._
 
 ## Description
 

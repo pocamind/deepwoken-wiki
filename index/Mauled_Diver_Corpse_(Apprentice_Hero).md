@@ -1,9 +1,9 @@
 ---
 title: Mauled Diver Corpse (Apprentice Hero)
-revid: 217754
+revid: 218377
 source: https://deepwoken.fandom.com/wiki/Mauled_Diver_Corpse_(Apprentice_Hero)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, "Game-adjacent articles", NPCs, NPCs located in the First Floor of the Second Layer, The Divers, Members of Diver expeditions to the Second Layer, Deceased characters, Characters mentioned in books]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, The Divers, Members of Diver expeditions to the Second Layer, Deceased characters, Characters mentioned in books]
 ---
 
 # Mauled Diver Corpse (Apprentice Hero)
@@ -22,10 +22,6 @@ categories: [Etrean NPCs, Pathfinder Exclusive, "Game-adjacent articles", NPCs, 
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-**Game-adjacent article**  
-This game content bears more significance to _Deepwoken'_s world than to the game.  
-Thus, this article focuses on that.
-
 ## Description
 
 **Mauled Diver Corpse** is the lifeless body of **Apprentice Hero**. The player is able to pocket the [Diver's Journal: Apprentice Hero](<Diver's_Journal%253A_Apprentice_Hero.md>) left behind by the corpse.
@@ -36,7 +32,7 @@ In [his Journal](<Diver's_Journal%253A_Apprentice_Hero.md>) he wrote about his l
 
 This resulted in Hero resorting to eating eggs of the [Second Layer](Second_Layer.md)'s parasites. They knew what happens to those, who get infested with parasites, but couldn't help themselves. They wrote their last thoughts before they turned into a [husk of themselves](Diver_Husk.md).[\[1\]](#cite-note-journal-iii-1)
 
-  
+They were later mauled by a Bounder.
 
 ## Dialogue
 
@@ -65,7 +61,13 @@ This resulted in Hero resorting to eating eggs of the [Second Layer](Second_Laye
 </tbody>
 </table>
 
+## Trivia
+
+-   The description of the corpse says it was slashed across the back, but the wounds are very clearly across the front.
+-   Despite all signs pointing to Hero being killed by parasites, the corpse doesn't show any symptoms of such. They instead appear to have been killed while running from a Bounder. This oddity was preserved even after the Diver Journals were rewritten into the Diver's Journals.
+
 ## References
 
-1.  ↑ [1.0](#cite-ref-journal-iii-1-0) [1.1](#cite-ref-journal-iii-1-1) [1.2](#cite-ref-journal-iii-1-2) [1.3](#cite-ref-journal-iii-1-3) [1.4](#cite-ref-journal-iii-1-4) [1.5](#cite-ref-journal-iii-1-5) [1.6](#cite-ref-journal-iii-1-6) [Diver Journal, III](Diver_Journal,_III.md)
+1.  ↑ [1.0](#cite-ref-journal-iii-1-0) [1.1](#cite-ref-journal-iii-1-1) [1.2](#cite-ref-journal-iii-1-2) [1.3](#cite-ref-journal-iii-1-3) [1.4](#cite-ref-journal-iii-1-4) [1.5](#cite-ref-journal-iii-1-5) [1.6](#cite-ref-journal-iii-1-6) [Book](Books.md): [Diver's Journal: Apprentice Hero](<Diver's_Journal%253A_Apprentice_Hero.md>)  
+    
 2.  [↑](#cite-ref-2) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md). As such, events taking place during the events of the game in Verse 2 will be assumed to occur during the year 1272 CE, due to [The Hammer's Call](<The_Hammer's_Call.md>), which was released in Verse 2, containing an event occurring within 1272.

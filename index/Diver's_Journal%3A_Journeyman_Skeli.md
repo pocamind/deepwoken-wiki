@@ -1,12 +1,14 @@
 ---
 title: "Diver's Journal: Journeyman Skeli"
-revid: 217730
+revid: 218367
 source: https://deepwoken.fandom.com/wiki/Diver's_Journal%3A_Journeyman_Skeli
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books, Diver Journals]
 ---
 
 # Diver's Journal: Journeyman Skeli
+
+_This is the book availabe in the current game version. For its older counterpart, see [Diver Journal, II](Diver_Journal,_II.md)._
 
 ## Description
 

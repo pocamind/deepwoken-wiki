@@ -1,6 +1,6 @@
 ---
 title: Atra
-revid: 212687
+revid: 218351
 source: https://deepwoken.fandom.com/wiki/Atra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, The Hundred Legions, Quests, NPCs located in the Etrean Luminant]
@@ -22,7 +22,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Atra is a [Khan](Khan.md) NPC. She is a member of [The Hundred Legions](The_Hundred_Legions.md) and currently belong to the 11th Scouting Legion. She stays with her group composed of [Caitus](Caitus.md), Lars, [Gaius](Gaius.md) and [Amara](Amara.md).
+Atra is a [Khan](Khan.md) NPC. She is a member of [The Hundred Legions](The_Hundred_Legions.md) and currently belong to the 11th Scouting Legion. She stays with her group composed of [Caitus](Caitus.md), [Lars](Lars.md), [Gaius](Gaius.md) and [Amara](Amara.md).
 
 She gives you the 'Legion Scout' [quest](Quests.md), urging you to find Lars, another scout of the 11th Legion.
 

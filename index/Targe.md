@@ -1,6 +1,6 @@
 ---
 title: Targe
-revid: 218323
+revid: 218357
 source: https://deepwoken.fandom.com/wiki/Targe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Offhand]
@@ -27,4 +27,6 @@ categories: [Weapons, Shields, Offhand]
 
 ## Description
 
-A shield that can be bought in the weaponry shop at [Etris](Etris.md) and common from chests in [Erisia](Erisia.md)
+A basic wooden shield.
+
+It can be bought in the weaponry shop at [Etris](Etris.md) and common from chests in [Erisia](Erisia.md).

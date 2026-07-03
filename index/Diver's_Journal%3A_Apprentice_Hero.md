@@ -1,6 +1,6 @@
 ---
 title: "Diver's Journal: Apprentice Hero"
-revid: 217759
+revid: 218369
 source: https://deepwoken.fandom.com/wiki/Diver's_Journal%3A_Apprentice_Hero
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books, Diver Journals]
@@ -8,7 +8,7 @@ categories: [Books, Diver Journals]
 
 # Diver's Journal: Apprentice Hero
 
-_For its older version, see Diver Journal, III (old version)._
+_This is the book availabe in the current game version. For its older counterpart, see [Diver Journal, III](Diver_Journal,_III.md)._
 
 ## Description
 
@@ -59,7 +59,3 @@ Diver's Journal: Apprentice Hero
 -   [Apprentice Hero](<Mauled_Diver_Corpse_(Apprentice_Hero).md>)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) (Mentioned only)
 -   [Journeyman Skeli](<Abandoned_Diver_(Journeyman_Skeli).md>) (Mentioned only)
-
-## Trivia
-
--   This journal serves as a replacement for Diver Journal, III.

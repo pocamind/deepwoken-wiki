@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 216561
+revid: 218346
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -379,7 +379,7 @@ Dialogue: [Nell](Nell,_Master_of_Frost.md) | Books: [Lumen's Folklore: Volume 'A
 
 -   The ability to manipulate air through the [Song](#the-song).
 
-Dialogue: [Friid](Friid,_Master_of_Gale.md), [Stratos](Stratos.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>) | Glossary Entries:
+Dialogue: [Amara](Amara.md), [Friid](Friid,_Master_of_Gale.md), [Stratos](Stratos.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>) | Glossary Entries:
 
 ### Hereditary Vow
 

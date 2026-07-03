@@ -1,6 +1,6 @@
 ---
 title: Amara
-revid: 212684
+revid: 218347
 source: https://deepwoken.fandom.com/wiki/Amara
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Pathfinder Exclusive, Individuals with She/her pronouns, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
@@ -27,7 +27,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Amara is a [Khan](Khan.md) NPC. She is a Centurion of the [11th Legion](The_Hundred_Legions.md) and stays with her group of scouts composed of [Atra](Atra.md), [Caitus](Caitus.md), [Gaius](Gaius.md) and Lars.
+Amara is a [Khan](Khan.md) NPC. She is a Centurion of the [11th Legion](The_Hundred_Legions.md) and stays with her group of scouts composed of [Atra](Atra.md), [Caitus](Caitus.md), [Gaius](Gaius.md) and [Lars](Lars.md).
 
 She also teaches you the [Legion Kata](Fists.md) fighting style after turning in a Captain's Recc obtained by assisting the 11th Legion in [Aratel Island](Aratel_Island.md) or in [Upper Erisia](Upper_Erisia.md).
 
@@ -62,8 +62,8 @@ Amara is located in [Erisia](Erisia.md) in the [The Viper's Jaw](<The_Viper's_Ja
   <td colspan="4">[End Dialogue]</td>
   <td colspan="2">Help out the Centurions in Aratel, though be careful, not all of them may be friendly. Once you've got their approval, return to me with a recommendation and I'll teach you.</td>
   <td colspan="2">I see, Captain Abydos/Acacia/Acheron/Acnes/Cyrus/Xavos/Zash really admires your efforts.<br>
-  Has Galebreathe: You seem very familiar with the way of Galebreathing already, you can take this form of martial arts to its prime in no time.<br>
-  No Galebreathe: It doesn't seem you're that familiar with Galebreathing at all... You won't be able to reach it's full potential just yet.<br>
+  Has Galebreathe: You seem very familiar with the way of <a href="Glossary.md#galebreathing">Galebreathing</a> already, you can take this form of martial arts to its prime in no time.<br>
+  No Galebreathe: It doesn't seem you're that familiar with <a href="Glossary.md#galebreathing">Galebreathing</a> at all... You won't be able to reach it's full potential just yet.<br>
   I wish you the best of luck, comrade (Friend rep) / [First Name] (Ally rep), the Legion truly appreciates the work you have done, but our job isn't quite done yet.</td>
 </tr>
 <tr>
