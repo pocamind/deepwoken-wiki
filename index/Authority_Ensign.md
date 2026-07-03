@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 218267
+revid: 218335
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Central Authority Enemies, The Central Authority, Character, Origins, Faction Origins]
@@ -133,7 +133,7 @@ Alternative to missions, you can also gain 80 points from [Jailing](Fort_Merit.m
     -   Potential Locations:
         -   [Starswept Valley](The_Starswept_Valley.md) - near [Sordino](Sordino.md) and the [Union Hook](Union_Hooks.md) that leads up to the Widow Cave; 44 minute time limit
         -   [Starswept Valley](The_Starswept_Valley.md) - right before the [Lifevent](Lifevents.md) that leads towards the Widow cave; 38 minute 30 second time limit
-        -   [The Aratel Sea](The_Aratel_Sea.md) - near the overarching stone structure in between [Summer Isle](Summer_Isle.md) and [Miner's Landing](<Miner's_Landing.md>); 1 hour 40 second time limit
+        -   [Siirka Point](Siirka_Point.md); 1 hour 40 second time limit
     -   Notes/Tips:
         -   When the Mission completes, the Legion Soldiers will immediately lose aggression.
         -   The Legion Soldiers and Captain will be completely passive if you have neutral or higher [Hundred Legions](The_Hundred_Legions.md) reputation.

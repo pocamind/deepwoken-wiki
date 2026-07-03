@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 216865
+revid: 218331
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers]
@@ -137,37 +137,6 @@ Costs 30 Kyrsan Medallions
 -   Has 1.2s windup, takes 2.1s to land all hits.
 
  |
-
-| 
-**Name**
-
- | 
-
-**Ether Cost**
-
- | 
-
-**Damage Type**
-
- | 
-
-**Requirements**
-
- | 
-
-**Ether Cost**
-
- | 
-
-**Damage Type**
-
- | 
-
-  
-**Requirements**
-
- |
-| --- | --- | --- | --- | --- | --- | --- |
 | 
 
 **Radiant Kick** (☆☆☆)
@@ -202,41 +171,10 @@ Costs 15 Kyrsan Medallions
 
 **Effect:** _Teleport to your opponent with a flashing kick._
 
--   Deals 19.5 damage per hut (2).
+-   Deals 19.5 damage per hit (2).
 -   Has 0.45s windup
 
  |
-
-| 
-**Name**
-
- | 
-
-**Ether Cost**
-
- | 
-
-**Damage Type**
-
- | 
-
-**Requirements**
-
- | 
-
-**Ether Cost**
-
- | 
-
-**Damage Type**
-
- | 
-
-  
-**Requirements**
-
- |
-| --- | --- | --- | --- | --- | --- | --- |
 | 
 
 **Radiant Dawn** (☆☆☆)
