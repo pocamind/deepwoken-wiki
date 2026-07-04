@@ -1,6 +1,6 @@
 ---
 title: Ironsinger Heavy Plate
-revid: 212476
+revid: 218483
 source: https://deepwoken.fandom.com/wiki/Ironsinger_Heavy_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Plates, Equipment with Talents, "Equipment with No
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, The Eternal Gale, Scyphozia, Chaser (guaranteed on every kill), Scion of Ethiron, Saramaed Hollow, War Mode, Heart of Enmity, Purchased from Merchant Ships |
+| obtainment | Chests from:, The Eternal Gale, Scyphozia, Chaser, Scion of Ethiron, Saramaed Hollow, War Mode, Heart of Enmity, Purchased from Merchant Ships |
 | description | ... |
 
 ## Description

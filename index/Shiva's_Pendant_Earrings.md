@@ -1,6 +1,6 @@
 ---
 title: "Shiva's Pendant Earrings"
-revid: 214249
+revid: 218482
 source: https://deepwoken.fandom.com/wiki/Shiva's_Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears, Equipment with Talents, Equipment with Exclusive Talents]

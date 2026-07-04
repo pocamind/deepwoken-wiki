@@ -1,6 +1,6 @@
 ---
 title: "Warlock's Mantle"
-revid: 209712
+revid: 218476
 source: https://deepwoken.fandom.com/wiki/Warlock's_Mantle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, World Event, Equipment with Styles, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -11,7 +11,7 @@ categories: [Equipment, Arms, World Event, Equipment with Styles, Equipment with
 | Warlock's Mantle | |
 |---|---|
 | type | Arms |
-| rarity | Unique |
+| rarity | Mythical |
 | selling price | 100 |
 | requirements | Power 125 Intelligence |
 | weight | 2 |
@@ -32,7 +32,7 @@ Variants: [Brim](<Warlock's_Brim.md>)
 
 ## Description
 
-The Warlocks Mantle is a Unique tier [Equipment](Equipment.md) item under the "Arms" category. It is found in chests dropped by [The Doom of Caeranthil](The_Doom_of_Caeranthil.md). This item is used to craft the [Ether Refined Mantle](Ether_Refined_Mantle.md).
+The Warlocks Mantle is a Mythical tier [Equipment](Equipment.md) item under the "Arms" category. It is found in chests dropped by [The Doom of Caeranthil](The_Doom_of_Caeranthil.md). This item is used to craft the [Ether Refined Mantle](Ether_Refined_Mantle.md).
 
 It has the innate Talent [Overflowing Dam](Talents.md#overflowing-dam), causing your M1 attacks to deal 10% more damage while your Ether bar is full. Overflowing Dam's damage buff scales on your Intelligence investment, losing 0.125% per point of Intelligence below 40. At 5 Intelligence, you will only gain a 5.625% damage buff.
 

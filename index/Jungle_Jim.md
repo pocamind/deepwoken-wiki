@@ -1,6 +1,6 @@
 ---
 title: Jungle Jim
-revid: 217820
+revid: 218484
 source: https://deepwoken.fandom.com/wiki/Jungle_Jim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Pages requiring a cleanup, In progress without reason, InProgressPages, Individuals with unspecified pronouns]
@@ -16,7 +16,7 @@ notices:
 | health | ? |
 | drops | Gale Pale |
 | weapon | Gale Pale |
-| moves | Revenge, Judgement, Twincleave, Twister Kicks |
+| moves | Revenge, Judgement, Twincleave, Twister Kicks, Gale Lunge |
 | affiliation | The Ministry |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

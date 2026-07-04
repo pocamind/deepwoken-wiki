@@ -1,9 +1,9 @@
 ---
 title: Relics
-revid: 217322
+revid: 218475
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Equipment, Mechanics, Relics]
+categories: [Equipment, Mechanics, Relics]
 ---
 
 # Relics
@@ -246,8 +246,6 @@ This attack has a base damage of 22.5 and copies the scaling stat of your equipp
 
  |
 | 
-
-File:Tiran Pendant Relic.png
 
  | **[Tiran Pendant](Tiran_Pendant.md)** - A pendant that grants the "[Featherfall](Talents.md#featherfall)" Talent, which massively reduces fall damage.
 

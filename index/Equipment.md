@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 218034
+revid: 218480
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
@@ -439,7 +439,7 @@ _+Talent: [**Already Dead**](Talents.md#already-dead)_
 **Requires Power 8**
 
  | N/A |
-| File:Deepwoken Hood1.png | [Deepwoken Hood](Deepwoken_Hood.md)  
+|  | [Deepwoken Hood](Deepwoken_Hood.md)  
 (**Set**) | +2 Rare Pips  
 +1 Legendary Pip
 
@@ -1234,7 +1234,7 @@ Arms: [Assassin's Cloak](<Assassin's_Cloak.md>)
 
  | Styles:  
 Amber, Haze, Bronze, Gold, Royal, Ruby, Stygian & Verdant |
-| File:Autumn pauldrons.png | [Autumn Pauldrons](Autumn_Pauldrons.md)  
+|  | [Autumn Pauldrons](Autumn_Pauldrons.md)  
 (**Set**) | _+2 Health_
 
 +2 Rare Pips  
@@ -1339,7 +1339,7 @@ Head: [Brigand's Bicorn](<Brigand's_Bicorn.md>)
 Arms: [Brigand's Cloak](<Brigand's_Cloak.md>)
 
  |
-| File:Brilliant Pauldrons.png | [Brilliant Pauldrons](Brilliant_Pauldrons.md)  
+|  | [Brilliant Pauldrons](Brilliant_Pauldrons.md)  
 (**Styles**)  
 (**Set**) | _+5 Health_
 
@@ -2109,7 +2109,8 @@ _+1 Posture_
  | N/A |
 |  | [Summer Scarf](Summer_Scarf.md)  
 (**Series**)  
-(**Cloth Physics**) | _+5 Health_
+(**Cloth Physics**)  
+(**Mythical**) | _+5 Health_
 
 +1 Legendary Pip  
 **Requires Power 5**
@@ -2175,7 +2176,7 @@ _+2 Posture_
 (**Styles**)  
 (**Set**)  
 (**Cloth Physics**)  
-(**Unique**) | _+7 Health_
+(**Mythical**) | _+7 Health_
 
 +1 Rare Pip  
 +2 Legendary Pips  
@@ -2360,7 +2361,7 @@ Arms: [Bluestone Pauldrons](Bluestone_Pauldrons.md)
 Legs: [Bluestone Boots](Bluestone_Boots.md)
 
  |
-| File:Brilliant Boots.png | [Brilliant Boots](Brilliant_Boots.md)  
+|  | [Brilliant Boots](Brilliant_Boots.md)  
 (**Styles**)  
 (**Set**) | +2 Rare Pips | Styles:  
 Brushed, Galvanized
@@ -2904,7 +2905,7 @@ Torso: [Brilliant Cape](Brilliant_Cape.md)
 
  | Styles:  
 Metal, Precious Stone & Tarnished |
-| File:Confessors Charm.png | [Confessor's Charm](<Confessor's_Charm.md>)  
+|  | [Confessor's Charm](<Confessor's_Charm.md>)  
 (**Styles**) | _+3% Physical Armor_
 
 +1 Rare Pip  
@@ -3607,7 +3608,7 @@ Ears: [Regenerative Earrings](Regenerative_Earrings.md)
 
  | Variants:  
 [Ruby Pendant](#ruby-pendant-earrings) & [Ember Scorch](#ember-scorch-earrings) |
-| File:Shiva's Pendant Earrings.png | [Shiva's Pendant Earrings](<Shiva's_Pendant_Earrings.md>) | +1 Common Pip
+|  | [Shiva's Pendant Earrings](<Shiva's_Pendant_Earrings.md>) | +1 Common Pip
 
 +1 Rare Pip  
 _+Talent: [**Skillful Recovery**](Talents.md#skillful-recovery)_
