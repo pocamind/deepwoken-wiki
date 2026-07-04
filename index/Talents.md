@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 218239
+revid: 218496
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1250,7 +1250,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
 
 ### Duelist
 
--   _Concussion_ \[Rare Talent, Strength, Fortitude\] - Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual. Flourished PvE enemies get [tagger](Status_Effects.md#tagger) for a few seconds.
+-   _Concussion_ \[Rare Talent, Strength, Fortitude\] - Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual. Flourished PvE enemies get [Stagger](Status_Effects.md#stagger) for a few seconds.
     -   The Stagger status effect makes your opponent take 33% more posture damage.
     -   Prerequisites: 20 Strength, 15 Fortitude
 
@@ -1910,7 +1910,7 @@ These Talents [Unbound](Attributes_Unbound.md) their respective attributes, incr
     -   Your Crystal detonations deal 67% more damage against targets who are bottom frozen.
     -   Prerequisites: Glass Path, Crystallization, 90 Frostdraw, 90 Weapon (90 Light // 90 Medium // 90 Heavy)
 
--   _**Unyielding Frost**_ \[Advanced Talent, Frostdraw\] - Your Chill can proc through block, with blocked Chilling proc lasting 80% of the duration.
+-   _**Unyielding Frost**_ \[Advanced Talent, Frostdraw\] - Your Chill can proc through block, with blocked Chilling procs lasting 80% of the duration.
     -   If you have less than 100 Frostdraw, your chilled duration (when applied through block) will be reduced down to 25% of its original duration instead.
     -   Does not proc Frozen Legs.
     -   Prerequisite: 100 Frostdraw
@@ -3213,7 +3213,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisite: 65 Bloodrend
 
 -   Juicy Snack \[Common Talent, Fortitude, Bloodrend\] - Eliminating enemies returns their amount of blood poison as health to you.
-    -   Grants 20% of their blood poisoning as healing.
+    -   The conversion rate of Blood Poison to healing is 1:1.
     -   Prerequisites: 60 Bloodrend, 20 Fortitude
 
 -   _Panacea_ \[Rare Talent, Bloodrend\] - Hitting an enemy with a Bloodrend mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] stops their blood poison from decaying briefly.

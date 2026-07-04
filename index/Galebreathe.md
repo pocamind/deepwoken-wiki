@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 215109
+revid: 218492
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -955,11 +955,11 @@ These Talents are found in the _Aeromancer_ category.
 |  | Aerogliding  
 (35 Galebreathe, 30 Agility) | When falling from a high place, hold spacebar to generate wind currents until you hit the floor. Also gives you more airtime with Gliders. (+2 Passive Agility) | Aerogliding slows your falls, preventing fall damage in some cases. Your gliders move almost horizontally, allowing for much greater travel distance. |
 |  | Stifled Jump  
-(Suffocating Impact) | [Suffocation](Status_Effects.md#b) now applies [Dazed](Status_Effects.md#b) if enemies jump. Suffocated PvE enemies now also get [Sluggish](Status_Effects.md#b) when they are suffocated. (+2 Passive Agility) |  |
+(Suffocating Impact) | [Suffocating](Status_Effects.md#suffocation) now applies [Dazed](Status_Effects.md#dazed) if enemies jump. Suffocated PvE enemies now also get [Sluggish](Status_Effects.md#sluggish) when they are suffocated. (+2 Passive Agility) |  |
 |  | Suffocating Impact  
 (35 Galebreathe, 15 Strength) | When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility) |  |
 |  | Gale Trap  
-(40 Galebreathe) | Knocking a player places a wind trap, causing anyone to pick up that body to get sent flying. Gain a speed boost picking up the body yourself. Killing PvE opponents gives you [Gale Reflection](Status_Effects.md#b) instead. | Gale Reflection procs upon getting hit by an enemy, granting damage reduction and placing a Gale Trap on them. The damage of the Gale Trap scales with the strength of the enemy you killed. |
+(40 Galebreathe) | Knocking a player places a wind trap, causing anyone to pick up that body to get sent flying. Gain a speed boost picking up the body yourself. Killing PvE opponents gives you [Gale Reflection](Status_Effects.md#gale-reflection) instead. | Gale Reflection procs upon getting hit by an enemy, granting damage reduction and placing a Gale Trap on them. The damage of the Gale Trap scales with the strength of the enemy you killed. |
 |  | Vacuum Punch  
 (20 Galebreathe, Gale Punch) | Your Gale Punch pulls enemies in before you hit them. |  |
 
@@ -1016,7 +1016,7 @@ These Talents are found in the _Silencer_ category.
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 |  | A World Without Song  
-(75 Galebreathe, Power 10, Silencer's Blade) | Every 3 hits with a Wind Mantra now procs [Suffocating.](Status_Effects.md#suffocate) | Procs on every 4 hits if you have less than 75 Galebreathe.  
+(75 Galebreathe, Power 10, Silencer's Blade) | Every 3 hits with a Wind Mantra now procs [Suffocating](Status_Effects.md#suffocation). | Procs on every 4 hits if you have less than 75 Galebreathe.  
 Procs on every 5 hits if you have less than 40 Galebreathe. |
 |  | Silencer's Blade  
 (60 Galebreathe, Power 10) | Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. | Grants a speed boost on proc. |

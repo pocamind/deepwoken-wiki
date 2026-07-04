@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 217880
+revid: 218489
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1351,7 +1351,7 @@ These Talents are found in the _Ice Age_ category.
 |  | Stasis Strike  
 (90 Frostdraw, 90 Weapon, Glass Path: Crystallization) | Your crystal explosions deal more damage whenever your opponent is also bottom frozen. | Your crystal detonations deal 67% more damage against targets who are bottom frozen. |
 |  | Unyielding Frost  
-(100 Frostdraw) | Your Chill can proc through block, with blocked Chilling proc lasting 80% of the duration. | If you have less than 100 Frostdraw, your chill duration (when applied through block) will be reduced further to only 25% of its original duration. |
+(100 Frostdraw) | Your Chill can proc through block, with blocked Chilling procs lasting 80% of the duration. | If you have less than 100 Frostdraw, your chill duration (when applied through block) will be reduced further to only 25% of its original duration. |
 
 ## Trivia
 
