@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 216252
+revid: 218396
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Central Authority]
@@ -179,37 +179,6 @@ Obtained with the Oath
 -   10 second cooldown when whiffed/interrupted.
 
  |
-
-| 
-**Name**
-
- | 
-
-**Ether Cost**
-
- | 
-
-**Damage Type**
-
- | 
-
-**Requirements**
-
- | 
-
-**Ether Cost**
-
- | 
-
-**Damage Type**
-
- | 
-
-  
-**Requirements**
-
- |
-| --- | --- | --- | --- | --- | --- | --- |
 | 
 
 **Impel** (☆☆☆)
@@ -255,37 +224,6 @@ Obtained after the first _Enchained_ [Hunted Player](Reputation.md#reputation-st
 -   Has a cooldown of 15 seconds.
 
  |
-
-| 
-**Name**
-
- | 
-
-**Ether Cost**
-
- | 
-
-**Damage Type**
-
- | 
-
-**Requirements**
-
- | 
-
-**Ether Cost**
-
- | 
-
-**Damage Type**
-
- | 
-
-  
-**Requirements**
-
- |
-| --- | --- | --- | --- | --- | --- | --- |
 | 
 
 **Rupture** (☆☆☆)

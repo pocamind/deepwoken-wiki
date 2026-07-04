@@ -1,6 +1,6 @@
 ---
 title: "Aazel's Horns"
-revid: 216612
+revid: 218413
 source: https://deepwoken.fandom.com/wiki/Aazel's_Horns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Horns]

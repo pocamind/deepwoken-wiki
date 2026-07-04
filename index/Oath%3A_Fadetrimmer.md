@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 214433
+revid: 218393
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -143,37 +143,6 @@ Obtained with the Oath
 -   Has a cooldown of 20 seconds.
 
  |
-
-| 
-**Name**
-
- | 
-
-**Ether Cost**
-
- | 
-
-**Damage Type**
-
- | 
-
-**Requirements**
-
- | 
-
-**Ether Cost**
-
- | 
-
-**Damage Type**
-
- | 
-
-  
-**Requirements**
-
- |
-| --- | --- | --- | --- | --- | --- | --- |
 | 
 
 **Precision Cuts** (☆☆☆)

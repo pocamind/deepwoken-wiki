@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 214439
+revid: 218394
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -252,37 +252,6 @@ TBA
 -   [Knockdowns](Status_Effects.md#knockdown) on hit.
 
  |
-
-| 
-**Name**
-
- | 
-
-**Ether Cost**
-
- | 
-
-**Damage Type**
-
- | 
-
-**Requirements**
-
- | 
-
-**Ether Cost**
-
- | 
-
-**Damage Type**
-
- | 
-
-  
-**Requirements**
-
- |
-| --- | --- | --- | --- | --- | --- | --- |
 | 
 
 **Warp Kick** (☆☆☆)

@@ -1,6 +1,6 @@
 ---
 title: Kyrsblade
-revid: 204973
+revid: 218464
 source: https://deepwoken.fandom.com/wiki/Kyrsblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Kyrs series]
@@ -33,7 +33,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Kyrs series
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Layer 2 Chests |
+| obtainment | Chaser, Scholar of the Crimson Contract, Scion of Ethiron |
 | description | ... |
 
 ## Description

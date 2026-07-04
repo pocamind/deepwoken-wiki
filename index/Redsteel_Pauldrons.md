@@ -1,6 +1,6 @@
 ---
 title: Redsteel Pauldrons
-revid: 210760
+revid: 218423
 source: https://deepwoken.fandom.com/wiki/Redsteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -12,7 +12,7 @@ categories: [Equipment, Arms, Pauldrons]
 |---|---|
 | type | Arms |
 | rarity | Rare |
-| selling price | 25(Assumed) |
+| selling price | 25 |
 | requirements | None |
 | weight | 2 |
 | innate stats | +3 Health , +1 Posture , +2 Rare Pips |
@@ -32,4 +32,4 @@ The Redsteel Pauldrons are an [Equipment](Equipment.md) item under the "Arms" ca
 
 ## Trivia
 
--   The **Red** counterpart to the [Bluesteel Pauldrons](Bluesteel_Pauldrons.md).
+-   The red counterpart to the [Bluesteel Pauldrons](Bluesteel_Pauldrons.md).

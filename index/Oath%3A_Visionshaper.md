@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 214450
+revid: 218386
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -190,37 +190,6 @@ TBA
 -   Cooldown scales with modifiers.
 
  |
-
-| 
-**Name**
-
- | 
-
-**Ether Cost**
-
- | 
-
-**Damage Type**
-
- | 
-
-**Requirements**
-
- | 
-
-**Ether Cost**
-
- | 
-
-**Damage Type**
-
- | 
-
-  
-**Requirements**
-
- |
-| --- | --- | --- | --- | --- | --- | --- |
 | 
 
 **Illusory Counter** (☆☆☆)

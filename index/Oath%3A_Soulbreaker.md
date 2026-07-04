@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 217773
+revid: 218388
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -222,37 +222,6 @@ Shrine deal
 -   The projectile changes color based on your Oath cosmetic [dye](Dye_Packet.md).
 
  |
-
-| 
-**Name**
-
- | 
-
-**Ether Cost**
-
- | 
-
-**Damage Type**
-
- | 
-
-**Requirements**
-
- | 
-
-**Ether Cost**
-
- | 
-
-**Damage Type**
-
- | 
-
-  
-**Requirements**
-
- |
-| --- | --- | --- | --- | --- | --- | --- |
 | 
 
 **Rhythm Advance** (☆☆☆)
@@ -296,37 +265,6 @@ Shrine deal
 -   AOE attack, can hit multiple people at once.
 
  |
-
-| 
-**Name**
-
- | 
-
-**Ether Cost**
-
- | 
-
-**Damage Type**
-
- | 
-
-**Requirements**
-
- | 
-
-**Ether Cost**
-
- | 
-
-**Damage Type**
-
- | 
-
-  
-**Requirements**
-
- |
-| --- | --- | --- | --- | --- | --- | --- |
 | 
 
 **Tacet Kick** (☆☆☆)

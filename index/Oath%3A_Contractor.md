@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 218075
+revid: 218397
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ministry]
@@ -147,37 +147,6 @@ Obtained upon unlocking the oath
 -   Only usable if [Hidden Tendril](Status_Effects.md#hidden-tendril) is applied to the target.
 
  |
-
-| 
-**Name**
-
- | 
-
-**Ether Cost**
-
- | 
-
-**Damage Type**
-
- | 
-
-**Requirements**
-
- | 
-
-**Ether Cost**
-
- | 
-
-**Damage Type**
-
- | 
-
-  
-**Requirements**
-
- |
-| --- | --- | --- | --- | --- | --- | --- |
 | 
 
 **Equalizer** (☆☆☆)
@@ -220,37 +189,6 @@ Killing 1 player with [Oaths](Oaths.md) in [The Depths](First_Layer.md)
 -   The counters stun has a range limit. (this will still negate the damage of the attack)
 
  |
-
-| 
-**Name**
-
- | 
-
-**Ether Cost**
-
- | 
-
-**Damage Type**
-
- | 
-
-**Requirements**
-
- | 
-
-**Ether Cost**
-
- | 
-
-**Damage Type**
-
- | 
-
-  
-**Requirements**
-
- |
-| --- | --- | --- | --- | --- | --- | --- |
 | 
 
 **Judgement** (☆☆☆)

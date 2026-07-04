@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Hood
-revid: 209928
+revid: 218469
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hoods]
@@ -30,11 +30,6 @@ Deepwoken Set
 
 Variants: [Cloak](Deepwoken_Cloak.md)
 
-## Deepwoken Hood
+## Description
 
-A Deepwoken Hood is an [equipment](Equipment.md) under the "_Head_" category.
-
-## Trivia
-
--   Although not the best for HP, this is one of the 3 best equipment headears for resistance stats. Alternatives include the [Vigil Hood](Vigil_Hood.md) and the [Tillian's Beret](<Tillian's_Beret.md>). Highest Potential Stats - Phys & Elem Armor: 17% (w/ 10 health)
--   It seems equipment that requires stats to equip is bugged because it is possible to equip this on a build with 0 agility as long as you meet the level requirement.
+The Deepwoken Hood is an [Equipment](Equipment.md) under the "Head" category.

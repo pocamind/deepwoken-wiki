@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 217933
+revid: 218383
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -157,37 +157,6 @@ Upon killing 2 players with [Oaths](Oaths.md)
 -   [Deepscorn Casque](Deepscorn_Casque.md) can be used to reduce the self-[Wither](Status_Effects.md#wither) to 4.8%.
 
  |
-
-| 
-**Name**
-
- | 
-
-**Ether Cost**
-
- | 
-
-**Damage Type**
-
- | 
-
-**Requirements**
-
- | 
-
-**Ether Cost**
-
- | 
-
-**Damage Type**
-
- | 
-
-  
-**Requirements**
-
- |
-| --- | --- | --- | --- | --- | --- | --- |
 | 
 
 **Parasitic Leech** (☆☆☆)

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 215107
+revid: 218390
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Starkindred Church]
@@ -165,37 +165,6 @@ Obtained after the first Sinner kill
 -   If used mid-air, the move will not work but will still charge you ether.
 
  |
-
-| 
-**Name**
-
- | 
-
-**Ether Cost**
-
- | 
-
-**Damage Type**
-
- | 
-
-**Requirements**
-
- | 
-
-**Ether Cost**
-
- | 
-
-**Damage Type**
-
- | 
-
-  
-**Requirements**
-
- |
-| --- | --- | --- | --- | --- | --- | --- |
 | 
 
 **Sinister Halo** (☆☆☆)
@@ -235,37 +204,6 @@ Obtained after the second Sinner kill
 -   Has a 0.6 second windup (with wings) and a 15 second cooldown.
 
  |
-
-| 
-**Name**
-
- | 
-
-**Ether Cost**
-
- | 
-
-**Damage Type**
-
- | 
-
-**Requirements**
-
- | 
-
-**Ether Cost**
-
- | 
-
-**Damage Type**
-
- | 
-
-  
-**Requirements**
-
- |
-| --- | --- | --- | --- | --- | --- | --- |
 | 
 
 **Celestial Assault** (☆☆☆)

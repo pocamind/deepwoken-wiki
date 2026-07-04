@@ -1,6 +1,6 @@
 ---
 title: "Tracker's Brace"
-revid: 210873
+revid: 218445
 source: https://deepwoken.fandom.com/wiki/Tracker's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Braces]
@@ -26,6 +26,6 @@ categories: [Equipment, Arms, Braces]
 | obtainment | Chests from:, Erisia, War Mode, Maestro Evengarde Rest, Lodestar, Dread Serpent |
 | description | ... |
 
-## Overview
+## Description
 
 The Tracker's Brace is an [Equipment](Equipment.md) item under the "Arms" category.

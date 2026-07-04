@@ -1,6 +1,6 @@
 ---
 title: Bluecap
-revid: 217825
+revid: 218387
 source: https://deepwoken.fandom.com/wiki/Bluecap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Ingredients, Harvestables, Alchemy, Mushrooms]
@@ -26,11 +26,13 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-A consumable mushroom that that is blue and has a tube-like stalk. This is used to [uncap](Attributes_Unbound.md) [intelligence](Attributes.md) by consuming one after completing the [birdcage](The_Birdcage.md) quest. Can only be found in the basement a ruined building in [Upper Erisia](Upper_Erisia.md). Be careful when trying to collect these, as the area they are found in is filled with noxious gas, which does damage over time.
+A consumable mushroom that that is blue and has a tube-like stalk. It resembles a [Browncap](Browncap.md), but blue.
+
+This is used to [uncap](Attributes_Unbound.md) [intelligence](Attributes.md) by consuming one after completing the [birdcage](The_Birdcage.md) quest. Can only be found in the basement a ruined building in [Upper Erisia](Upper_Erisia.md). Be careful when trying to collect these, as the area they are found in is filled with noxious gas, which does damage over time.
 
 It can be used to make [ether and sanity regen potions](Alchemy.md).
 
 ## Trivia
 
 -   If used in [Alchemy](Alchemy.md), the primary affect applied is **(unknown)**. It restores sanity.
--   One of 4 mushroom types, along with the [Browncap](Browncap.md), [Dentifilo](Dentifilo.md), and [Gobletto.](Gobletto.md)
+-   One of four mushroom types, along with the Browncap, [Dentifilo](Dentifilo.md), and [Gobletto](Gobletto.md).

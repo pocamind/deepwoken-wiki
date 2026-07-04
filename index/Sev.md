@@ -1,6 +1,6 @@
 ---
 title: Sev
-revid: 215872
+revid: 218471
 source: https://deepwoken.fandom.com/wiki/Sev
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Eastern Luminant]

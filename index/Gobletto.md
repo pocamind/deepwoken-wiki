@@ -1,6 +1,6 @@
 ---
 title: Gobletto
-revid: 198999
+revid: 218389
 source: https://deepwoken.fandom.com/wiki/Gobletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Harvestables, Alchemy, Mushrooms]
@@ -42,4 +42,4 @@ It is recommended not to eat Goblettos, because they cause the consumer to vomit
 -   With the [Disguise](Attunement-less.md#disguise) mantra, you can turn into a gobletto. This requires it to be modified with 1 Reversal spark, and 1 Tornado spark.
     -   This is the only Ingredient that you can transform into.
 -   If used in [Alchemy](Alchemy.md), the primary affect applied is **Invigorating**. Secondary effect is **Decelerate**.
--   One of 4 mushroom types, along with the [Browncap](Browncap.md), [Dentifilo](Dentifilo.md), and [Bluecap](Bluecap.md).
+-   One of four mushroom types, along with the [Browncap](Browncap.md), [Dentifilo](Dentifilo.md), and [Bluecap](Bluecap.md).

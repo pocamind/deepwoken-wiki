@@ -1,6 +1,6 @@
 ---
 title: Kyrsedge
-revid: 205117
+revid: 218465
 source: https://deepwoken.fandom.com/wiki/Kyrsedge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons, Kyrs series]
@@ -33,7 +33,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Layer 2 |
+| obtainment | Chaser, Scholar of the Crimson Contract, Scion of Ethiron |
 | description | ... |
 
 ## Description

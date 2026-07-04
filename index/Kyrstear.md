@@ -1,6 +1,6 @@
 ---
 title: Kyrstear
-revid: 205390
+revid: 218466
 source: https://deepwoken.fandom.com/wiki/Kyrstear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Parrying Daggers, Offhand, Kyrs series]
@@ -21,7 +21,7 @@ categories: [Weapons, Parrying Daggers, Offhand, Kyrs series]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Second Layer Chests |
+| obtainment | Chaser, Scholar of the Crimson Contract, Scion of Ethiron |
 | description | Suited to the unpredictable movements of the Kyrsgarde. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: "Shiva's Codex"
-revid: 218378
+revid: 218399
 source: https://deepwoken.fandom.com/wiki/Shiva's_Codex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items, Ingredients]
@@ -29,7 +29,7 @@ This item is **bankable.**
 
 ## Crafting
 
-The Shiva's Codex can craft into a few items with the [Lost Forge](Lost_Forge_of_Leiuna.md) found at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
+The Shiva's Codex can craft into several items using the [Lost Forge](Lost_Forge_of_Leiuna.md) found at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
 
 -   [Equipment](Equipment.md)
     -   [Shiva's Pendant Earrings](<Shiva's_Pendant_Earrings.md>): [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md) + 1x [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 1x Shiva's Codex
