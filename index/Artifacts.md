@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 213665
+revid: 218380
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Interactible Objects, Mechanics]
@@ -41,7 +41,7 @@ An Artifact is also necessary to activate the [Deep Crucible](Deep_Crucible.md).
 ## Trivia
 
 -   The piece of the Forge Artifact used to sell for 800.
--   Artifacts spawn after an hour.
+-   Artifacts spawn after 15 minutes.
 -   Anyone standing nearby whilst you turn in an Artifact will also receive notes and XP.
     -   Be cautious bringing an Artifact to a bank. Players occasionally will jump others holding them due to the ease of loot.
     -   Hiding them in a Guild Base is also an option, as you won't be seen carrying it around and can create a guild entrance next to a bank to take Artifacts out of.

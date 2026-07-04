@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 217660
+revid: 218381
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Weapons, Equipment]
@@ -888,7 +888,7 @@ Applies a [Solar Mark](Status_Effects.md#solar-mark) on Critical, Uppercut, or F
 
 If you hit a marked enemy with a [Vent](Combat_Mechanics.md#tempo), steal their Tempo to refund your Vent's Tempo cost, removing the Solar Mark. If your opponent does not have enough Tempo to afford your Vent cost, you will pay the difference with your own Tempo.
 
-If a PvE enemy has the Solar Mark, your Vent damage against them is massively increased.
+When fighting PvE enemies, your Vent damage against them is massively increased.
 
 **Obtainment:**
 
