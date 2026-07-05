@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 218250
+revid: 218725
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]

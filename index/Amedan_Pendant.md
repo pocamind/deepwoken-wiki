@@ -1,6 +1,6 @@
 ---
 title: Amedan Pendant
-revid: 217143
+revid: 218723
 source: https://deepwoken.fandom.com/wiki/Amedan_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Torso, Necklaces]

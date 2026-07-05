@@ -1,6 +1,6 @@
 ---
 title: Arnon
-revid: 218329
+revid: 218722
 source: https://deepwoken.fandom.com/wiki/Arnon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -22,13 +22,13 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Lars is an [Felinor](Felinor.md) NPC.
+Arnon is a [Felinor](Felinor.md) NPC.
 
 They wear the [Pathfinder Sorcerer](Pathfinder_Sorcerer.md) outfit and an [Adventurer Coat](Adventurer_Coat.md) styled white.
 
 ## Location
 
-Lars is located in the training grounds of [Alsin's Landing](<Alsin's_Landing.md>), next to [Esric](Esric.md).
+Arnon is located in the training grounds of [Alsin's Landing](<Alsin's_Landing.md>), next to [Esric](Esric.md).
 
 ## Dialogue
 

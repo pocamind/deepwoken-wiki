@@ -1,6 +1,6 @@
 ---
 title: Sev
-revid: 218471
+revid: 218724
 source: https://deepwoken.fandom.com/wiki/Sev
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Eastern Luminant]
@@ -33,7 +33,7 @@ Manycolored Equipment is an account-wide unlock and **cannot** dye [Oath](Oaths.
 
 ## Location
 
-Sev can be found leaning back against one of the houses with the [Blacksmith](Blacksmith.md) inside, in [Meteor Isle](Meteor_Isle.md)
+Sev can be found leaning back against one of the houses with the [Blacksmith](Blacksmith.md) inside, in [Meteor Isle](Meteor_Isle.md).
 
 ## Shop
 

@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 218319
+revid: 218719
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics, Character, Creation, Features absent in Vow of Iron]
@@ -181,7 +181,7 @@ These Flaws can be chosen at character creation with no requirements for obtainm
   <td>You learn things at a slower rate than others.</td>
   <td>Sharply increases the EXP curve, making leveling slower, especially on later levels. Reduces <a href="Knowledge.md">Knowledge</a> gain by 25%, rounding to the nearest whole number.</td>
   <td>Despite being a base Flaw, this Flaw cannot be obtained from the <a href="Deep_Shrines/Shrine_of_Blasphemy.md">Shrine of Blasphemy</a>.</td>
-  <td>2 Flaw Points</td>
+  <td>2 Boon Points</td>
 </tr>
 <tr>
   <td><b>Squeamish</b><br>
@@ -232,7 +232,7 @@ These Flaws can be chosen at character creation, but require an additional requi
   <td>You start with much lower reputation towards all factions, putting all faction reputation in the negative.</td>
   <td>Reputation can still be gained normally. Your starting reputation is low enough for guards to aggro on sight and for you to be <a href="Bounty_Hunting.md">bounty hunted</a> at Power 5, but depending on your origin, not low enough for <a href="Blacksmith.md">blacksmiths</a> and <a href="Antiquarian.md">antiquarians</a> to be disabled.</td>
   <td>Gain negative reputation from any faction you originally have positive reputation for (e.g. going from <b>Neutral</b> to <b>Enemy</b> Etrea reputation).</td>
-  <td>2 Flaw Points</td>
+  <td>2 Boon Points</td>
 </tr>
 </tbody>
 </table>

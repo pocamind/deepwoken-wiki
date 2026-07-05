@@ -1,6 +1,6 @@
 ---
 title: Second Layer/The Ethironal Shrine
-revid: 218272
+revid: 218720
 source: https://deepwoken.fandom.com/wiki/Second_Layer/The_Ethironal_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Dungeons]
@@ -60,6 +60,7 @@ To do this repeat the same steps as the Main method up to 4
 2.  to complete the puzzle you must enter the right symbols in the 4 slots before the spikes reach you **(The spikes wipe you instantly)** the code is fairly simple, from the entrance it goes 2 1 3 4, if you are confused on which side you came from if you follow from the gray door the order will be 4 3 1 2.
 3.  Run from the 2 bounders until you reach a portal
 4.  enter the portal **(Requires defeating chaser once on your character before)**
+5.  Additionally, entering Floor 2 this way removes your lighthook.
 
 ## Hazards
 
