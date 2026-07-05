@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Duster"
-revid: 217463
+revid: 218539
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Dusters, Equipment of The Central Authority]
@@ -17,12 +17,12 @@ categories: [Equipment with Styles, Equipment, Arms, Dusters, Equipment of The C
 | weight | 2 |
 | styles | Brown, Dark, Navy, Smoke, Titan |
 | innate stats | +2 Rare Pips |
-| innate talent | None |
+| innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Doom of Caeranthil (World Event)Authority Ambush |
+| obtainment | Chests from:, The Doom of Caeranthil, Authority Ambush |
 | description | ... |
 
 Variants: [Gallery](<Inquisitor's_Duster/Gallery.md>)

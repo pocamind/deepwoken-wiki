@@ -1,6 +1,6 @@
 ---
 title: Ether
-revid: 218460
+revid: 218500
 source: https://deepwoken.fandom.com/wiki/Ether
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mantras]
@@ -18,8 +18,9 @@ categories: [Character, Mantras]
 -   Regenerates faster with higher [Tempo](Combat_Mechanics.md#tempo), regenerates **VERY** slowly at 0 tempo.
 -   Excluding Ether gained from [Equipment](Equipment.md), the maximum obtainable Ether is 750 (120 base, 200 from Intelligence, 150 from Charisma, 150 from Erudition, and up to 130 from [Devastating Power](Talents.md#devastating-power) (not 140 because you lack 25 points for charisma if you get [Chorus Of Souls](https://deepwoken.fandom.com/wiki/Talents#:~:text=Sage%20of%20Wisps-,Chorus%20of%20Souls,-%5BAdvanced%20Talent%2C)).
     -   [Devastating Power](Talents.md#devastating-power) talent can give 140 ether with [Saintsworn](Oath%253A_Saintsworn.md) and [Chorus Of Souls](https://deepwoken.fandom.com/wiki/Talents#:~:text=Sage%20of%20Wisps-,Chorus%20of%20Souls,-%5BAdvanced%20Talent%2C).
--   Maximum ether obtainable increases if you have not bought [Multifaceted](https://deepwoken.fandom.com/wiki/Echoes#Unlocks:~:text=500%20Echoes-,Multifaceted,-The%20Attribute%20points) [Echo modifier](Echoes.md), +4 ether from 2 [Intelligence](Attributes.md#int) and +4.5 from 3 [Charisma](<https://deepwoken.fandom.com/wiki/Attributes#CHA:~:text=investment%20points.-,Charisma,-(CHA)>). The [aspect](Aspects.md) that can get the most ether from not getting [Multifaceted](https://deepwoken.fandom.com/wiki/Echoes#Unlocks:~:text=500%20Echoes-,Multifaceted,-The%20Attribute%20points) is [Celtor](Celtor.md) with a whopping 8.5 additional ether.
     -   [Contractor](Oath%253A_Contractor.md) or [Saintsworn](Oath%253A_Saintsworn.md) must be used, as they benefit the most from [Devastating Power](Talents.md#devastating-power).
+-   Maximum ether obtainable increases if you have not bought [Multifaceted](https://deepwoken.fandom.com/wiki/Echoes#Unlocks:~:text=500%20Echoes-,Multifaceted,-The%20Attribute%20points) [Echo modifier](Echoes.md).
+    -   The [aspect](Aspects.md) that can get the most ether from not getting [Multifaceted](https://deepwoken.fandom.com/wiki/Echoes#Unlocks:~:text=500%20Echoes-,Multifaceted,-The%20Attribute%20points) is [Celtor](Celtor.md) with a whopping 8.5 additional ether.
 -   Currently (04/07/2026) maximum ether is 1153, reaching this amount is not reccomended unless you wish to cast [Mantras](Mantras.md) that are modified to the limit.
 
 ## **Trivia**

@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Cloak
-revid: 215148
+revid: 218511
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Cloaks, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -39,4 +39,7 @@ The [Blade Dancer](Talents.md#blade-dancer) Talent resets your roll cooldown upo
 ## Trivia
 
 -   The Deepwoken Cloak was added along with the game's release but was soon removed for an unknown reason, and there were only three known people that had it after its removal. It was re-added on [May 10th, 2022](Version_History/2022-2021.md#may-10th-2022).
--   For at least two years, there was a bug that swapped the positions of the Deepwoken Cloak's sleeves when worn by players.
+
+## References
+
+1.  ↑ [1.0](#cite-ref-bug-1-0) [1.1](#cite-ref-bug-1-1) For at least two years, there was a bug that swapped the positions of the Deepwoken Cloak's sleeves when worn by players.
