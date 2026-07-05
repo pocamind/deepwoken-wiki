@@ -1,6 +1,6 @@
 ---
 title: "Konga's Clutch Ring"
-revid: 216870
+revid: 218718
 source: https://deepwoken.fandom.com/wiki/Konga's_Clutch_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Lower Erisia, Layer 2 Floor 1, First Layer, Duke Erisia, Maestro Evengarde Rest, Lodestar, Chaser, Saramaed Hollow, Miner's Landing, Summer Isle, Scion of Ethiron, Etris Seige, Chime of Conflict, Pure ore turn-ins, Authority Ensign Missions, First Layer, Heart of Enmity, Deep Widow |
+| obtainment | Chests from:, Lower Erisia, Layer 2 Floor 1, First Layer, Duke Erisia, Maestro Evengarde Rest, Lodestar, Chaser, Saramaed Hollow, Miner's Landing, Summer Isle, Scion of Ethiron, Etris Seige, Chime of Conflict, Pure ore turn-ins, Authority Ensign Missions, First Layer, Heart of Enmity, Deep Widow, Primadon, Titan of the East |
 | description | Ring of the infamous thief Emiya Konga. Allows the user to slide with little delay. |
 
 ## Description

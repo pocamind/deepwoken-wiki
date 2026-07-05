@@ -1,16 +1,16 @@
 ---
 title: "Shiva's Codex"
-revid: 218707
+revid: 218717
 source: https://deepwoken.fandom.com/wiki/Shiva's_Codex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Relics, Items, Ingredients]
+categories: [Items, Ingredients]
 ---
 
 # Shiva's Codex
 
 | Shiva's Codex | |
 |---|---|
-| value | ? |
+| value | N/A |
 | stack | x? |
 | type | Ingredient |
 | rarity | Unique |
@@ -23,7 +23,7 @@ categories: [Relics, Items, Ingredients]
 
 ## Description
 
-The **Shiva's Codex** is an unusable tome [Relic](Relics.md). Its only use is in crafting [Equipment](Equipment.md).
+The **Shiva's Codex** is an unusable tome Item. Its only use is in crafting [Equipment](Equipment.md).
 
 ## Crafting
 

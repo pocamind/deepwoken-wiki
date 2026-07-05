@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 218475
+revid: 218716
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Mechanics, Relics]
@@ -314,9 +314,6 @@ This item is most notably used as the main crafting component for some other Rel
 -   _(Consumed on usage)_
 
  |
-| 
-
- | **[Shiva's Codex](<Shiva's_Codex.md>)** - A [crafting](Crafting_Recipes.md) component for several items. |
 | 
 
  | **[Trickster Dust](Trickster_Dust.md)** - A [crafting](Crafting_Recipes.md) component for several items. |
