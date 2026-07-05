@@ -1,6 +1,6 @@
 ---
 title: Ignition Gauntlets
-revid: 215888
+revid: 218671
 source: https://deepwoken.fandom.com/wiki/Ignition_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Gloves, The Ignition Union, Equipment with Talents, Equipment with Exclusive Talents]
@@ -28,7 +28,7 @@ Variants: [Reforged Gauntlets](Reforged_Gauntlets.md)
 
 ## Description
 
-The Ignition Gauntlets is an Equipment item under the "Arms" category.
+The Ignition Gauntlets are an Equipment item under the "Arms" category.
 
 The [Force Your Way](Talents.md#force-your-way) Talent allows you to parry unparryable attacks from giant monsters at the cost of your armor durability.
 
@@ -36,4 +36,3 @@ The [Force Your Way](Talents.md#force-your-way) Talent allows you to parry unpar
 
 -   Prior to this equipment being added, the only way to get the Force Your Way Talent was by equipping the [Ignition Deepdelver](Ignition_Deepdelver.md) outfit.
     -   The [Grand Fisher Plate](Grand_Fisher_Plate.md) and [Hunter's Brace](<Hunter's_Brace.md>) also give you the ability to parry most unparryable moves in PvE, however.
--   Compared to the [Grand Fisher Plate](Grand_Fisher_Plate.md), this sacrifices one Legendary pip for a Rare pip, along with Force your Way using armor durability, but does not have the -3% movespeed penalty.

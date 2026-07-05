@@ -1,6 +1,6 @@
 ---
 title: Parliament
-revid: 216172
+revid: 218713
 source: https://deepwoken.fandom.com/wiki/Parliament
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses, The Vat Exclusive]
@@ -10,7 +10,7 @@ categories: [Monsters, Bosses, The Vat Exclusive]
 
 | Parliament | |
 |---|---|
-| health | 15,000? |
+| health | 18,000 |
 | attacks | Talon Swipe, Strong Swipe, Shade Cloak, Curb Stomp, Feather Coat, Owl Dash, Overhead Grab, Flock of Feathers |
 | drops | Void Feather, Nightbringer Enchant Stone (guaranteed) |
 | locations | The Vat |
@@ -183,4 +183,4 @@ Flock of Feathers
 ### Passives
 
 -   Shadowmeld Shade - All of the Parliament's attacks steal Ether on hit.
--   Thorn Guard - The Parliament is immune to the effects of [Providence's Thorns](<Providence's_Thorns.md>).
+-   Thorn Guard - The Parliament is immune to the effects of [Providence's Thorns](<Providence's_Thorns.md>). The visual effects will appear, but will deal no damage.

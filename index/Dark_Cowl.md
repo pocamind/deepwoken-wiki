@@ -1,6 +1,6 @@
 ---
 title: Dark Cowl
-revid: 215931
+revid: 218659
 source: https://deepwoken.fandom.com/wiki/Dark_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Cowls]
@@ -28,4 +28,4 @@ Variants: [Cultist Cowl](Cultist_Cowl.md)
 
 ## Description
 
-The Dark Cowl is an Equipment item in the "_Head_" category.
+The Dark Cowl is an Equipment item in the "Head" category.

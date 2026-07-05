@@ -1,6 +1,6 @@
 ---
 title: True Seraph Spear
-revid: 216798
+revid: 218714
 source: https://deepwoken.fandom.com/wiki/True_Seraph_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Spears, Drops, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with Talents]
@@ -43,7 +43,7 @@ The True Seraph Spear is a MED [weapon](Weapons.md). Some consider this to be th
 
 Equipping the True Seraph Spear grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-Upon landing the first hit of your critical attack, **True Seraph Slash** enhances your next critical attack, replacing it with the Angels' spear smite ability.
+Upon landing the first hit of your critical attack, regardless if parried or not, **True Seraph Slash** enhances your next critical attack, replacing it with the Angels' spear smite ability.
 
 This attack deals 0.5x scaled damage per hit (4).
 

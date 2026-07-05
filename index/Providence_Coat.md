@@ -1,6 +1,6 @@
 ---
 title: Providence Coat
-revid: 210754
+revid: 218675
 source: https://deepwoken.fandom.com/wiki/Providence_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Coats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Coats, Equipment with Talents, "Equipment with Non
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, The Depths (First Layer), Fishing, War Mode, Primadon |
+| obtainment | Chests from:, First Layer, Fishing, War Mode, Primadon |
 | description | ... |
 
 ## Description
@@ -32,5 +32,4 @@ The [Braced Collapse](Talents.md#braced-collapse) Talent reduces the damage take
 
 ## Trivia
 
--   Despite the rarity of the coat being Legendary, it is quite common.
 -   The appearance of the item is a reference to Dante's outfit in _Devil May Cry 5_.

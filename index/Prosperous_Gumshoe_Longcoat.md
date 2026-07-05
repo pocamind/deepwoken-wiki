@@ -1,6 +1,6 @@
 ---
 title: Prosperous Gumshoe Longcoat
-revid: 216814
+revid: 218598
 source: https://deepwoken.fandom.com/wiki/Prosperous_Gumshoe_Longcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Coats, Equipment with Talents, Equipment with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Coats, Equipment with Talen
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | TBA |
+| obtainment | The Depths (Vow of Iron) |
 | description | ... |
 
 Variants: [Gumshoe Longcoat](Gumshoe_Longcoat.md)
