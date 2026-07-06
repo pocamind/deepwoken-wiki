@@ -1,6 +1,6 @@
 ---
 title: Sandrunner Wraps
-revid: 210787
+revid: 218827
 source: https://deepwoken.fandom.com/wiki/Sandrunner_Wraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Wraps, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -28,6 +28,6 @@ categories: [Equipment, Arms, Wraps, Equipment with Talents, "Equipment with Non
 
 ## Description
 
-Sandrunner Wraps are an [Equipment](Equipment.md) item under the "Arms" category. They are commonly found in chests in [Miner's Landing](<Miner's_Landing.md>).
+The Sandrunner Wraps are an [Equipment](Equipment.md) item under the "Arms" category.
 
 The [Kick Off](Talents.md#kick-off) Talent grants various bonuses to climbing and parkour.

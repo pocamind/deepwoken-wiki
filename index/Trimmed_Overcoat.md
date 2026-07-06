@@ -1,6 +1,6 @@
 ---
 title: Trimmed Overcoat
-revid: 215692
+revid: 218797
 source: https://deepwoken.fandom.com/wiki/Trimmed_Overcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Coats]
@@ -30,8 +30,6 @@ Variants: [Extra Thick Overcoat](Extra_Thick_Overcoat.md)
 ## Description
 
 The Trimmed Overcoat is an [Equipment](Equipment.md) item under the "Arms" category.
-
-They are thick coats made to protect its wearers from the environment.
 
 ## Trivia
 

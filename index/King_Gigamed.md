@@ -1,6 +1,6 @@
 ---
 title: King Gigamed
-revid: 216095
+revid: 218818
 source: https://deepwoken.fandom.com/wiki/King_Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -94,10 +94,8 @@ Dodge
 
 ## Trivia
 
--   King Gigamed is basically a "power check". Don't fight it at low levels. However, for high-leveled players it's free exp and loot (Stat Check Level: 10/11).
-    -   King Gigamed is completely trivialized if the player has [Animal King](Regalia.md), as the Gigameds it spawns will not aggro, allowing for a free healthpack.
--   There is an extremely rare chance that a King Gigamed will spawn whilst playing [Jellyfish Jam](https://www.youtube.com/watch?v=LDE7DvHSVUA), a reference to _Spongebob Squarepants_. They _should_ also spawn with an oversized [Ten-Gallon Hat](Ten-Gallon_Hat.md) too. The chance of this spawning as a natural event is 1/5000.
--   Greater Stun Pulse & Static Discharge is one of the few attacks that can't ever be parried, even with Talents that allow you to parry un-parryable attacks.
+-   -   King Gigamed is completely trivialized if the player has [Animal King](Regalia.md), as the Gigameds it spawns will not aggro, allowing for a free healthpack.
+-   There is an extremely rare chance that a King Gigamed will spawn with an oversized Ten- Gallon Hat whilst playing [Jellyfish Jam](https://www.youtube.com/watch?v=LDE7DvHSVUA), a reference to _Spongebob Squarepants_ too.
 -   King Gigamed has an intentionally cowardly behavior, meaning it will jump around objects and move in ways that makes it harder for you to fight it.
--   Despite not looking like it, The King Gigamed has a back, meaning you can proc [Spine Cutter](Talents.md) on it.
+-   Despite not looking like it, The King Gigamed has a back, meaning you can proc [Spine Cutter](Talents.md#spine-cutter) on it.
 -   You can fight King Gigameds at low levels by venting when they are about to spawn Gigameds to get a healthpack, this is a consistent way as you get a lot of tempo from m1ing.

@@ -1,6 +1,6 @@
 ---
 title: Ethereal Osseous Plate
-revid: 210562
+revid: 218784
 source: https://deepwoken.fandom.com/wiki/Ethereal_Osseous_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Craftable, Ingredients, Items]
@@ -12,7 +12,7 @@ categories: [Craftable, Ingredients, Items]
 |---|---|
 | value | N/A |
 | weight | N/A |
-| stack | x? |
+| stack | x1 |
 | type | Ingredient |
 | rarity | Unique |
 | bankable | No |

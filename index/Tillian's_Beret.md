@@ -1,6 +1,6 @@
 ---
 title: "Tillian's Beret"
-revid: 215698
+revid: 218815
 source: https://deepwoken.fandom.com/wiki/Tillian's_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, World Event, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -28,11 +28,11 @@ Variants: [Jester's Beret](<Jester's_Beret.md>) · [Trickster's Beret](<Trickste
 
 ## Description
 
-Tillian's Beret is a head equipment obtained from the [Carnival of Hearts](Carnival_of_Hearts.md).
+Tillian's Beret is an [Equipment](Equipment.md) item under the "Head" category.
 
 The [Cap Artist](Talents.md#cap-artist) Talent allows you to press Comma while crouching to ragdoll your character and put yourself into a sleep-like state where you cannot move or use any abilities. Pressing Comma again will deactivate this ability. Cap Artist's hotkey can be changed in settings.
 
 ## Trivia
 
 -   Worn by [Tillian](Tillian.md).
--   Until 12/29/2024, the item could not be sold due to a bug that made Unique rarity items unsellable.
+-   Until [December 29th, 2024](Version_History/2024.md#december-29th-2024), the item could not be sold due to a bug that made Unique rarity items unsellable.

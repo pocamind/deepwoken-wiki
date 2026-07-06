@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 218281
+revid: 218787
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -80,18 +80,18 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 
 ### Talents
 
--   **Dread Fighter** - Parrying and getting hit by mantras now give you stacks of Dread. Each stack increases your mantra resistance, up to 25%. Each stack lasts for 15 seconds.
+-   **Dread Fighter** - Parrying and getting hit by mantras now give you stacks of [Dread](Status_Effects.md#dread). Each stack lasts for 15 seconds.
+    -   Dread stacks grant 5% Mantra resistance per stack, stacking up to 25% with 5 stacks.
     -   Stacks of dread are represented as a halo that grows from your chest. Each stack makes the halo larger and raises your mantra resistance.
-    -   Stacks up to 5 times and each stack grants 5% mantra resistance leading to 25% total mantra resistance.
 
--   **Merciless Blade** - You can now execute enemies much faster.
-    -   Grip speed is increased by 40% (3 seconds down to 1.8 seconds)
+-   **Merciless Blade** - Increases your Execute speed by 40%.
+    -   Reduces execution animation duration by 1.2 seconds (3 seconds down to 1.8).
     -   Comes with the Oath.
 
--   **True Vantage** - Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.
+-   **True Vantage** - [Venting](Combat_Mechanics.md#tempo) makes you invisible briefly, as well as boosting your speed.
     -   This turns your Vents Red which is purely cosmetic.
         -   If you have used Dyes, instead turns your vents to your tattoo colour.
-        -   This does not affect [Brute Strength](https://deepwoken.fandom.com/wiki/Talents#Brute_Strength)
+        -   This does not affect [Brute Strength](Talents.md#brute-strength)'s Vent.
 
 -   **Unmatched Dexterity** - Press X to Quick Swap between weapons within your toolbar.
     -   Swaps your current weapon with a random one on your hotbar.
@@ -151,13 +151,15 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
     -   Heavy - **12** Oath damage with 40 Heavy Weapon scaling, dealing **60** damage at 100 Heavy Weapon. This ability has a lower windup in Flow State; 0.25s -> 0.2s.
     -   Light and Medium Rising Star variants give user brief momentum (view in gifs below).
 
--   **Vengeful Pursuit** - Your running M1's that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you
+-   **Vengeful Pursuit** - Your running M1's that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you.
+    -   Deals slash damage.
+    -   Deals 5 posture damage if blocked.
     -   Damage changes based on weapon type.
-        -   Light - **18** Base Damage with **4** STR and **4** LHT scaling
-        -   Medium - **21.6** Base Damage with **4** STR and **4** MED scaling
-        -   Heavy - **25.2** Base Damage with **4** STR and **4** HVY scaling
+        -   Light - **18** Base Damage with **3** STR and **3** LHT scaling.
+        -   Medium - **21.6** Base Damage with **3** STR and **3** MED scaling.
+        -   Heavy - **25.2** Base Damage with **3** STR and **3** HVY scaling.
     -   8 second cooldown.
-    -   This move procs [Bear Trap](Talents.md#bear-trap).
+    -   This attack procs [Bear Trap](Talents.md#bear-trap).
 
 -   **Silent Cascade** - Landing any physical attacks on your opponent charges up your Silent Cascade, a devastating barrage that can be unleashed with Ctrl + M2.
     -   Landing 8 weapon attacks or Silentheart abilities grants the Silent Cascade status effect, allowing you to use the Silent Cascade attack. This effect lasts 30 seconds or until you use Silent Cascade.

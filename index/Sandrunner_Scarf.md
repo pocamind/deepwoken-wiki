@@ -1,6 +1,6 @@
 ---
 title: Sandrunner Scarf
-revid: 210786
+revid: 218835
 source: https://deepwoken.fandom.com/wiki/Sandrunner_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Scarves]
@@ -28,4 +28,4 @@ categories: [Equipment, Torso, Scarves]
 
 ## Description
 
-The Sandrunner Scarf is an [Equipment](Equipment.md) item under the "Torso" category. It is a small scarf, used for protecting one's face against the sandstorms of Starswept.
+The Sandrunner Scarf is an [Equipment](Equipment.md) item under the "Torso" category.

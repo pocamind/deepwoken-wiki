@@ -1,6 +1,6 @@
 ---
 title: Royal Pathfinder
-revid: 215330
+revid: 218840
 source: https://deepwoken.fandom.com/wiki/Royal_Pathfinder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -34,3 +34,5 @@ The [Ready or Not](Talents.md#ready-or-not) Talent halves damage taken by the fi
 
 -   It has gained a reputation as one of the most hated equipment items in the game, due to it being associated with toxic players during Verse 1.
     -   This association grew so great that [Zana](Zana.md), a parody of those players, wears it.
+
+{{History}\]

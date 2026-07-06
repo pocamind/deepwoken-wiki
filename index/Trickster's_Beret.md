@@ -1,6 +1,6 @@
 ---
 title: "Trickster's Beret"
-revid: 215693
+revid: 218811
 source: https://deepwoken.fandom.com/wiki/Trickster's_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -32,7 +32,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The **Trickster's Beret** is a Unique [Equipment](Equipment.md) Item found under the "Head" category.
+The Trickster's Beret is a Unique [Equipment](Equipment.md) Item found under the "Head" category.
 
 The [Jester's Ruse](Talents.md#jesters-ruse) Talent has a 10% chance to nullify incoming **and** outgoing damage on hit.
 

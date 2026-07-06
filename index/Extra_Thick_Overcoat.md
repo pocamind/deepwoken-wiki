@@ -1,6 +1,6 @@
 ---
 title: Extra Thick Overcoat
-revid: 215947
+revid: 218792
 source: https://deepwoken.fandom.com/wiki/Extra_Thick_Overcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Equipment with Talents, Equipment with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Equipment with Talents, Equ
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | TBA |
+| obtainment | The Depths (Vow of Iron) |
 | description | An essential winter coat to protect you against the cold. |
 
 Variants: [Trimmed Overcoat](Trimmed_Overcoat.md)
@@ -32,6 +32,6 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-The Overcoat is an [Equipment](Equipment.md) item under the "Arms" category.
+The Extra Thick Overcoatis an [Equipment](Equipment.md) item under the "Arms" category.
 
 The [Weather Resistant](Talents.md#weather-resistant) Talent grants 30% damage reduction if the current weather is less than ideal.

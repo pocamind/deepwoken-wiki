@@ -1,6 +1,6 @@
 ---
 title: Maestro Alkhurst Legato
-revid: 218056
+revid: 218783
 source: https://deepwoken.fandom.com/wiki/Maestro_Alkhurst_Legato
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, Maestros of the Vigils, Circle of Honour members]
@@ -27,7 +27,9 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Alkhurst Legato was a figure of note among the [Circle of Honour](Circle_of_Honour.md). He was the previous [Maestro](Maestro.md) before [Evengarde Rest](Evengarde_Rest.md), and the successor of [Maestro Nocturne](<Nocturne_(individual).md>). In his youth, he trained with [High Monk Junsui](High_Monk_Junsui.md) and later tutored the Vigils alongside [Dravik](<Dravik,_the_Rat_King_(NPC).md>) before their ways parted.
+Maestro Alkhurst Legato is an [Etrean](Etrean.md) NPC. He was a figure of note among the [Circle of Honour](Circle_of_Honour.md).
+
+Legato was the previous [Maestro](Maestro.md) before [Evengarde Rest](Evengarde_Rest.md), and the successor of [Maestro Nocturne](<Nocturne_(individual).md>). In his youth, he trained with [High Monk Junsui](High_Monk_Junsui.md) and later tutored the Vigils alongside [Dravik](<Dravik,_the_Rat_King_(NPC).md>) before their ways parted.
 
 Legato is a notably aged man. His hair is short and black with bangs parting away in a symmetrical manner, with a good portion tied into a ponytail. He dons a stern expression through his cerulean eyes, and has a slight scar on the left side of his cheek. To the right of his head is a glowing white "crown" in the shape of three four-pronged stars connected with each other, signifying that he is a [Warmaster](Oaths.md).
 

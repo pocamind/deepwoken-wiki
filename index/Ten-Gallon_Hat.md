@@ -1,6 +1,6 @@
 ---
 title: "Ten-Gallon Hat"
-revid: 215302
+revid: 218823
 source: https://deepwoken.fandom.com/wiki/Ten-Gallon_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -34,4 +34,4 @@ It's a wide-brimmed cowboy hat.
 
 ## Trivia
 
--   This hat is used for the Extremely Rare [King Gigamed](King_Gigamed.md) that wears a hat and plays the [Jellyfish Jam](https://www.youtube.com/watch?v=oWqAf4eex14) song. The hat is largely scaled in size.
+-   This hat appears on an extremely rare variant of [King Gigamed](King_Gigamed.md), which spawns wearing an oversized version of the Ten-Gallon Hat while the [Jellyfish Jam](https://www.youtube.com/watch?v=oWqAf4eex14) theme plays.

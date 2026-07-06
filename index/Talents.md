@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 218761
+revid: 218790
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3324,8 +3324,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Silentheart
 
 -   [**Oath: Silentheart**](Oath%253A_Silentheart.md) - You vow to reject the Words of the Song, denying yourself of mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] in pursuit of your own path to true strength, no matter the cost. You can wield weapons with 25 points below their usual requirements. (+2 Posture, +10 Health, +5% PEN)
-    -   Reduces the **weapon (LHT, MED, HVY)** requirement of all weapons by 25 points. This stacks with [Khan's](Khan.md) Versatile Talent.
-        -   Similarly to [Khan's Versatile](Khan.md), for hybrid weapons this will affect every weapon stat requirement individually, allowing you to equip the [Wyrmtooth](Wyrmtooth.md) with 15 HVY and 35 MED.
+    -   Reduces the **weapon (LHT, MED, HVY)** requirement of all weapons by 25 points. This stacks with [Khan](Khan.md)'s [Versatile](#versatile) Talent.
+        -   Similarly to [Khan](Khan.md)'s [Versatile](#versatile), for hybrid weapons this will affect every weapon stat requirement individually, allowing you to equip the [Wyrmtooth](Wyrmtooth.md) with 15 HVY and 35 MED.
     -   You can no longer cast Mantras nor gain Attunements. However, you can still obtain Mantras in the case that you want to use them for deals with [Deep Shrines](Deep_Shrines.md) (primarily [Shrine of Division](Deep_Shrines/Shrine_of_Division.md)).
     -   You can no longer equip "elemental weapons."
     -   Prerequisites: 25 Strength, 25 Agility // 25 Charisma, combined 75 weapon invest (HVY + MED + LHT ≥ 75), be attunement-less, get gripped by any attunement user, go to the [Beloved Zofia](Beloved_Zofia.md) and talk to [The Dreadstar](The_Dreadstar.md).
@@ -3335,7 +3335,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Attack speed scales on your weapon's swingspeed stat.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
--   Dread Fighter \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - Parrying and getting hit by mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now give you stacks of Dread. Each stack increases your mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] resistance, up to 25%. Each stack lasts for 15 seconds.
+-   Dread Fighter \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - Parrying and getting hit by mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now give you stacks of [Dread](Status_Effects.md#dread). Each stack lasts for 15 seconds.
     -   Stacks of dread are represented as a halo that grows from your chest. Each stack makes the halo larger and adds 5% Mantra resistance. Stacks up to 5 times for 25% Mantra resistance.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
@@ -3354,8 +3354,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Can proc your weapon's [Enchantment](Enchantments.md), putting Silentheart Enchant procs on cooldown for 30 seconds.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
--   Merciless Blade \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - You can now execute enemies much faster.
-    -   Grip speed is increased by 25% (3 seconds down to 2.25 seconds).
+-   Merciless Blade \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - Increases your Execution speed by 40%.
+    -   Reduces the animation duration for Executing down to 1.8 seconds (from 3).
     -   Prerequisite: [Oath: Silentheart](Oath%253A_Silentheart.md)
 
 -   Relentless Hunt \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - M1 while doing an Aerial Attack to initiate a special gap closer attack.
@@ -3378,19 +3378,19 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Your next uppercut while you have the Silent Cascade status effect will perform the Silent Cascade attack.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
--   True Vantage \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.
+-   True Vantage \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - [Venting](Combat_Mechanics.md#tempo) makes you invisible briefly, as well as boosting your speed.
     -   Changes your Vent color to align with your Oath Cosmetic color. Can be [dyed](Dye_Packet.md).
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
 -   Unmatched Dexterity \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - Press X to Quick Swap between weapons within your toolbar.
-    -   This keybind can be changed in settings.
     -   Selects a random weapon on your hotbar to equip.
     -   Works on offhand weapons.
     -   This Talent passively allows Silenthearts to manually swap equipment and weapons while in danger as well.
-    -   Notably, the [Curse of the No Life King](Curse_of_the_No_Life_King.md) and [Curse of Void](Curse_of_Void.md) curse effects of always having a stained healthbar have their durations extended for 60 seconds upon taking damage. This means you cannot avoid being sent to [The Depths](The_Depths.md) by swapping swapping to a non-cursed weapon just before being knocked Unconscious.
+    -   Notably, the [Curse of the No Life King](Curse_of_the_No_Life_King.md) and [Curse of Void](Curse_of_Void.md) curse effects of having a [Cursed](Status_Effects.md#cursed) (stained) healthbar have their durations extended for 60 seconds upon taking damage. This means you cannot avoid being sent to [the Depths](The_Depths.md) by swapping swapping to a non-cursed weapon just before being knocked Unconscious.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
--   Vengeful Pursuit \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - Your running attacks that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you. 8s CD
+-   Vengeful Pursuit \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - Your running attacks that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you.
+    -   8 second cooldown.
     -   Base damage and scaling depend on your current weapon's type; Light, Medium, or Heavy.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once)
 

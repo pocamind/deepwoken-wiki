@@ -1,9 +1,9 @@
 ---
 title: Tophat
-revid: 210871
+revid: 218814
 source: https://deepwoken.fandom.com/wiki/Tophat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Hats, Equipment with Styles, Equipment with Talents, "Equipment with Non-exclusive Talents"]
+categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
 ---
 
 # Tophat
@@ -15,6 +15,7 @@ categories: [Equipment, Head, Hats, Equipment with Styles, Equipment with Talent
 | selling price | 25 |
 | requirements | Power 6 |
 | weight | 1 |
+| styles | Beige, Burgundy, Slate |
 | innate stats | +4 Health , +1 Uncommon Pip, +1 Rare Pips |
 | innate talent | Give and Take |
 | set | Tophat, Aristocrat Coat, Aristocrat Eyeglasses |
@@ -28,10 +29,10 @@ categories: [Equipment, Head, Hats, Equipment with Styles, Equipment with Talent
 
 ## Description
 
-The Tophat is an Equipment in the "_Head_" category.
+The Tophat is an [Equipment](Equipment.md) item under the "Head" category.
 
 [Give and Take](Talents.md#give-and-take) reduces the damage taken by and dealt to allies.
 
 ## Trivia
 
--   This item specifically, for some reason, used to have no stats and was impossible to sell; this was fixed in the 10/3/2022 update.
+-   This item specifically, for some reason, used to have no stats and was impossible to sell; this was fixed in the [October 3rd, 2022](Version_History/2022-2021.md#october-3rd-2022) update.
