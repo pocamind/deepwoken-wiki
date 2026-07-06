@@ -1,6 +1,6 @@
 ---
 title: Ongo
-revid: 177667
+revid: 218731
 source: https://deepwoken.fandom.com/wiki/Ongo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Consumables, Harvestables, Food Ingredients]
@@ -23,7 +23,7 @@ categories: [Consumables, Harvestables, Food Ingredients]
 
 ## Description
 
-A consumable fruit resembling an apple. It can commonly be found in [Etris](Etris.md) and [Songseeker Wilds](Songseeker_Wilds.md) hanging in trees of quantities 4-8.
+A consumable fruit resembling an apple. Can be found at [Isle of Vigils](Isle_of_Vigils.md) on two bushes near [Vesque](Vesque.md) and mantra shop in quantities of 3 on each bush.
 
 ## Crafting
 

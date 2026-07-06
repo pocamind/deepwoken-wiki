@@ -1,6 +1,6 @@
 ---
 title: Wrath Gem
-revid: 213137
+revid: 218740
 source: https://deepwoken.fandom.com/wiki/Wrath_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]
@@ -41,6 +41,7 @@ Upon landing a Mantra with a Wrath Gem equipped, apply the [Wrath](Status_Effect
     -   The [Lasting Trauma](Talents.md#lasting-trauma) Set Talent from the Reinforced War Set additionally applies the [Fearful](Status_Effects.md#fearful) status effect for 19 seconds whenever you land a Mantra with a Wrath Gem equipped, disabling your opponent's ability to use their critical attack.
 -   For usage with [Critical Engine](Talents.md#critical-engine), the damage buff will not be applied to the hit that procced the Deep Gem, but will be applied to subsequent hits after granting the Wrath status effect. It is highly suggested that you use a multi-hitting critical for this Gem.
 -   Wrath Gem's damage buff is affected by the damage modifier cap.
+-   You are guaranteed to get 1 Wrath Gem (and [Might Gem](Might_Gem.md)) for every time you defeat Titus Fulminus Destellus.
 
 ## Crafting
 

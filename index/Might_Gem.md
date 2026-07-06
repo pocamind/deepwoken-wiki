@@ -1,6 +1,6 @@
 ---
 title: Might Gem
-revid: 213132
+revid: 218741
 source: https://deepwoken.fandom.com/wiki/Might_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]
@@ -40,6 +40,7 @@ Grants a +10% posture damage modifier to the Mantra it is applied on.
     -   The [Stronger Under Pressure](Talents.md#stronger-under-pressure) Talent from the [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md) additionally applies a slowing debuff to your opponent when you land a Mantra with a Might Gem equipped. The effectiveness of the slow scales on the amount of player combat tags you have.
     -   The [Offensive Recovery](Talents.md#offensive-recovery) Set Talent from the [Ascended Outlaw Set](Ascended_Outlaw_Hat.md) restores a percentage of your posture if a Mantra with a Might Gem equipped hits your opponent's block. This Talent will only work if every Mantra in your arsenal has a Might Gem equipped.
 -   A 10% or 15% increase in posture damage is a very low amount, as even high posture damage Mantras that deal 30 or more posture damage will only have their posture damage increased by around 3. Because of this, this Gem is not recommended for usage unless you're using the [Ascended Outlaw Set](Ascended_Outlaw_Hat.md).
+-   You are guaranteed to get 1 Might Gem (and [Wrath Gem](Wrath_Gem.md)) for every time you defeat Titus Fulminus Destellus.
 
 ## Crafting
 

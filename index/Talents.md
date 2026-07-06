@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 218496
+revid: 218742
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2633,12 +2633,12 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### [Murmur](Murmur.md)
 
--   **[Murmur: Ardour](Murmur%253A_Ardour.md)** \[Common Talent, Unlockable Talent\] - An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press H.
+-   **[Murmur: Ardour](Murmur%253A_Ardour.md)** \[Common Talent, Unlockable Talent\] - An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press.
     -   While active your weapon's swing trail will become purple and your weapon will emit a soft hum sound effect.
         -   If you have [Soulbreaker](Oath%253A_Soulbreaker.md), your weapon will passively emit purple lightning while its unsheathed.
     -   Increases outgoing M1 posture damage by 20% and reduces incoming posture damage by 15%. The posture damage buff also applies to criticals with the M1 tag.
     -   Gain a +2.5% (+5% if [Soulbreaker](Oath%253A_Soulbreaker.md)) damage buff to M1s and criticals with the M1 tag. Additionally applies a +15% damage buff to M1s and criticals with the M1 tag that guardbreak.
-    -   Drains Ether while active. Ether drain scales inversely with your level, being entirely negated at power 20.
+    -   Drains Ether while active. Ether drain scales inversely with your level, being entirely negated at Power 20.
     -   Ardour automatically deactivates if you have no Ether. This also happens upon using Ardour Scream.
     -   Prerequisite: Kill the [Dread Serpent](Dread_Serpent.md) or [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) OR talk with the [Old Stranger](Old_Stranger.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
 

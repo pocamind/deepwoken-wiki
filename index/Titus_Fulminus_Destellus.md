@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 217849
+revid: 218737
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions, Humanoids with Unobtainable Outfits]
@@ -340,6 +340,8 @@ Avoid
 ## Rewards
 
 Titus drops a variety of unique items that cannot be found elsewhere.
+
+You are guaranteed to get 1 [Wrath Gem](Wrath_Gem.md) and [Might Gem](Might_Gem.md) for every time you defeat Titus Fulminus Destellus.
 
 In addition to his unique chest (see below for the table), an additional chest is rewarded for each participating player, dropping at their feet. This chest can include:
 
