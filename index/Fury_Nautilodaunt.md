@@ -1,6 +1,6 @@
 ---
 title: Fury Nautilodaunt
-revid: 215963
+revid: 218759
 source: https://deepwoken.fandom.com/wiki/Fury_Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Depths]
@@ -10,7 +10,7 @@ categories: [Monsters, The Depths]
 
 | Fury Nautilodaunt | |
 |---|---|
-| health | 2400, 6000 (Corrupted) |
+| health | 1600, 4000(Corrupted) |
 | attacks | Punch, Kick, Flip-Kick, Drop-Kick, Electro Stomp, Feint, Vent |
 | drops | Odd Tentacle, Pathfinder Elite (Very Rare), Stormseye, Nautilodaunt Beak, Justicar's Armor, Cala-Mariner, Martial Artist, Black Diver |
 | locations | The City of the Drowned, The Vat |
@@ -172,5 +172,5 @@ On a final note, you **cannot** sneak attack the Nautilodaunt while it is burrow
 
 ## Trivia
 
--   The Fury Nautilodaunt originally had 1200 HP, which was then shadow buffed to 1800 HP. And then finally shadowbuffed to 2400.
+-   The Fury Nautilodaunt originally had 1200 HP, which was then shadow buffed to 1800 HP, then shadowbuffed to 2400, then nerfed down to 1600 HP.
 -   They're slightly taller than normal Nautilodaunts.

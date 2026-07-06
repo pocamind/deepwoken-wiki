@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 218755
+revid: 218761
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3113,7 +3113,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         -   This cannot give more than 50 Temporary Health in one instance.
     -   This reduces Rush Hour's self damage by 22%, from 4.5 damage per tick to 3.5 damage per tick.
     -   Despite what the description states, this Talent still procs when hitting monsters or other non-player enemies.
-    -   Weapons that deal no direct damage on hit, like the [Moppet](Moppet.md) or Katanas with [Poser's Ring](<Poser's_Ring.md>) will still give the same [Temporary Health](Status_Effects.md#temporary-health) it would normally.
     -   Combining Enhanced Flow and Already Dead will reduce the self damage taken from Rush Hour by 39%.
     -   Prerequisites: 90 Bloodrend, 90 Weapon (90 Light // 90 Medium // 90 Heavy), Rush Hour
 
