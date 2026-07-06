@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 218742
+revid: 218755
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2420,7 +2420,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   _Mark of the Lone Warrior_ \[Origin Talent, [Lone Warrior](Lone_Warrior.md)\] - Progress much faster when progressing alone. Gain a damage boost when facing threats alone and also when outnumbered.
     -   Grants an experience multiplier if no other player has credit for the mob kill or event completion.
     -   Deal 5% more damage to opponents you've combat tagged or opponents who have combat tagged you, but only if they have less or an equal amount of combat tags as you.
-    -   The damage buff does not work if any of your allies are in the server, even if you have [No Holds Barred](Settings.md) toggled on.
+    -   The damage buff does work even if any of your allies are in the server, regardless of if you have [No Holds Barred](Settings.md) toggled on or not.
     -   Prerequisites: [Lone Warrior](Lone_Warrior.md) Origin, complete [Trial of One](Trial_of_One.md)
 
 ### Maestro's Technique
@@ -3113,6 +3113,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         -   This cannot give more than 50 Temporary Health in one instance.
     -   This reduces Rush Hour's self damage by 22%, from 4.5 damage per tick to 3.5 damage per tick.
     -   Despite what the description states, this Talent still procs when hitting monsters or other non-player enemies.
+    -   Weapons that deal no direct damage on hit, like the [Moppet](Moppet.md) or Katanas with [Poser's Ring](<Poser's_Ring.md>) will still give the same [Temporary Health](Status_Effects.md#temporary-health) it would normally.
     -   Combining Enhanced Flow and Already Dead will reduce the self damage taken from Rush Hour by 39%.
     -   Prerequisites: 90 Bloodrend, 90 Weapon (90 Light // 90 Medium // 90 Heavy), Rush Hour
 

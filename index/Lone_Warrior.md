@@ -1,6 +1,6 @@
 ---
 title: Lone Warrior
-revid: 213187
+revid: 218751
 source: https://deepwoken.fandom.com/wiki/Lone_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Origins, Character]
@@ -34,7 +34,7 @@ Lone Warriors spawn in the [Trial of One](Trial_of_One.md) with the [Stranded](S
 
 ## Effects
 
-After completing the Trial of One, Lone Warriors will be given the [Mark of the Lone Warrior](Talents.md#mark-of-the-lone-warrior) Talent. Mark of the Lone Warrior increases experience gained while solo and grants a 5% damage buff if your opponent has equal to or less combat tags than you. Mark of the Lone Warrior's damage buff will not work if any of your allies are in the server.
+After completing the Trial of One, Lone Warriors will be given the [Mark of the Lone Warrior](Talents.md#mark-of-the-lone-warrior) Talent. Mark of the Lone Warrior increases experience gained while solo and grants a 5% damage buff if your opponent has equal to or less combat tags than you. Mark of the Lone Warrior's damage buff does work even if any of your allies are in the server.
 
 ## Pros and Cons
 

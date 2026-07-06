@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Roscoe"
-revid: 213713
+revid: 218746
 source: https://deepwoken.fandom.com/wiki/Rosen's_Roscoe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Offhand, Light Weapons, Weapons of The Summer Company]
@@ -52,3 +52,4 @@ Rosen's Roscoe uses the default Pistol critical, an empowered shot. It has a sca
 -   The gun's model is similar to a Remington 1858 revolver.
 -   The weapon is also called 'big iron' in the campfire menu.
 -   Along with the [Soulwrought Gun](Crazy_Slots.md#weapons) and [Iron Requiem](Iron_Requiem.md), these are the only three pistols in the game to have a unique sound effect on M1/crit.
+-   If offhanded it's shot cooldown is 1.3 seconds.

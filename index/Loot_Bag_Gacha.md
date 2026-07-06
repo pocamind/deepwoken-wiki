@@ -1,6 +1,6 @@
 ---
 title: Loot Bag Gacha
-revid: 215257
+revid: 218748
 source: https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Articles with conjectural titles, Pathfinder Exclusive, NPCs, Mechanics, Quests, Vendors]
@@ -134,5 +134,6 @@ Marae
 ## Trivia
 
 -   [Jeremiah](Jeremiah.md), located in the [City of the Drowned](The_City_of_the_Drowned.md) in the [First Layer](First_Layer.md), serves a similar purpose, instead taking [Gems](Treasures.md).
--   Often seen as a rip-off, as the price of 350 Notes may be rather steep considering the usually lackluster loot that can more easily be obtained by grinding
+-   Often seen as a rip-off, as the price of 350 Notes may be rather steep considering the usually lackluster loot that can more easily be obtained by grinding.
+-   Each of the Loot Bag Gacha NPC's names end with "-ae".
 -   There was a Loot Bag Gacha NPC named [Malisae](Loot_Bag_Gacha.md#malisae) in [Miner's Landing](<Miner's_Landing.md>), before she was repurposed to become [Deepdelver Tau](Deepdelver_Tau.md), an NPC that is primarily used to enter the [Saramaed Hollow](Saramaed_Hollow.md) [Dungeon](Dungeons.md), on the [September 6th, 2024](Version_History/2024.md#september-6th-2024) update.

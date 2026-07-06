@@ -1,22 +1,16 @@
 ---
 title: The Vents
-revid: 218745
+revid: 218747
 source: https://deepwoken.fandom.com/wiki/The_Vents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # The Vents
 
-The Vents is another name for the Third Layer of The Depths. Not much is known about this place and what it holds, But it is known that the place is being ruled by a Drowned God named Korilfiend. It is also a "Heart" for The Covenant of Flame.
+## The Vents
 
-  
+The Vents is the name for Layer 3 of the depths, specifically "The Carnal Vents". The Vents is described as an inhospitable wasteland, a place under the control of the Drowned God, [Korilfiend, the Inferno's Provenance](<Korilfiend,_the_Inferno's_Provenance.md>).
 
-  
+### Trivia
 
-  
-
-  
-
-  
-
-agamatsu please release layer 3 and release me from ur basement
+-   The Deepwoken of [Flamecharm](Flamecharm.md), [Amorus Pleeksty](Amorus_Pleeksty.md), is said to reside here.

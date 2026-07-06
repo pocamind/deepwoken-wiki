@@ -1,9 +1,11 @@
 ---
 title: Resonance
-revid: 214028
+revid: 218757
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Resonances, Mechanics]
+categories: [In progress with reason, InProgressPages, Resonances, Mechanics]
+notices:
+  - This page is currently being worked on. Page is undergoing some formatting changes. Some information will be lost.
 ---
 
 # Resonance
@@ -12,15 +14,36 @@ categories: [Resonances, Mechanics]
 
 ― Soul Resonance badge
 
-**Resonances,** also known as **Bells**, are individual unique abilities the player character can obtain through a near-death experience in _Deepwoken_, represented by your character's connection with the Song in the form of a hip-slung bell that can come in various shapes and colors. Once the Resonance itself is obtained, players can call forth their ability at will with the C key. Obtaining a Resonance grants the player 5 [Knowledge](Knowledge.md).
+## Description
 
-Obtaining a Resonance will also allow the opening of Resonance Doors around [The Depths](The_Depths.md) and Overworld that can lead to shortcuts and hidden passageways, allowing access to the [Temple of Hearts](Temple_of_Hearts.md) in the Depths, where resides the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), a very helpful NPC that many would deem important in most progressions. For a quick guide, consider watching [this video](https://www.youtube.com/watch?v=9i1-6TMZRVU).
+**Resonance,** commonly referred to as a **Bell**, is a type of personalized ability in _Deepwoken_. It is represented by the soul of the player's connection with the Song, usually manifesting as instruments worn on the player's hip.
 
-You can also obtain a Resonance from a very rare event in the overworld called the "[Resonant Dawn Meteor](Random_Encounters.md#resonant-dawn)." This meteor can appear in [Minityrsa](Minityrsa.md), [Summer Isle](Summer_Isle.md), [Starswept Valley](The_Starswept_Valley.md), [Bluster Rift](Bluster_Rift.md), and [Voidsea](Voidsea.md), and will be protected by a [Star Knight](Star_Knight.md). Once it is defeated, the meteor can be interacted with to obtain a random Resonance.
+## Gameplay
 
-Resonances can also be obtained through the Ancient Soul [Regalia](Regalia.md).
+As previously said, Resonances are a type of ability personal to the user, usually beneficial for combat and transportation uses.
 
-See the [Obtaining](#obtaining) section for how to obtain a **Resonance**.
+### Usage
+
+Players can call forth their Resonances at will by pressing C.
+
+Each Resonance has a set amount of Resonance Points when they are obtained or rerolled. They are randomly distributed across different attributes of a Resonance (e.g. Sacred Field's Resonance Points being spent on the type of resistance and the strength of said resistance), allowing for extreme diversity.
+
+If a Resonance has been rerolled at least once, the player will gain the [Tarnished](Boons_and_Flaws.md#special-flaws) Flaw, granting a 1 second startup with a varying unique debuff depending on the Resonance. This will prevent rerolling until the Flaw is removed through the following:
+
+-   [Yamaketzal](Yamaketzal.md) for 1000
+-   [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) for 1
+-   [Misérables](Misérables.md)' clarity for 15
+-   [Soul Plasticity Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers) for 500 Echoes
+
+### Rerolling
+
+Resonances can be rerolled by speaking to the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) with an available Wish or using an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>).
+
+Rerolling a Resonance grants a hand of three random cards, with an additional fourth being the previous Resonance. The fourth card has a chance to be a Corrupted Resonance. If the player already has a Corrupted Resonance, rerolling will have both their Normal and Corrupted counterparts on the fourth and fifth card respectively.
+
+## List of Resonances
+
+Resonances are divided into four categories, being Normal Resonances, Corrupted Resonances, Legendary Resonances, and Drowned Resonances.
 
 | 
 **NORMAL RESONANCES**
@@ -28,11 +51,39 @@ See the [Obtaining](#obtaining) section for how to obtain a **Resonance**.
  |
 | --- |
 
+Normal Resonances are regular, common Resonances. They do not have any extra upsides, downsides, or rarity compared to sub-category Resonances such as **Corrupted Resonances** (see below), but they are still susceptible to being a variant.
+
+_(From data of 100 rerolls, the calculated chance of getting a normal **Resonance** was 92% (276/300, almost guaranteed per reroll))_
+
+Corrupted Resonances are a sub-category of Normal Resonances which are obtained identically to any other Resonances, or can be obtained by using a [Sinner's Ash](<Sinner's_Ash.md>) to corrupt a Normal Resonance. They are rarer and stronger versions of Normal Resonances, which grant greater point allocation and additional effects, albeit at the cost of one downside. Some downsides can be mitigated or synergized with, putting the user at an advantage.
+
+The downsides of a Corrupted Resonance include:
+
+-   **WITHER:** On use, the player will receive [Wither](Status_Effects.md#wither) for 10% of their max HP.
+-   **MANIA:** On use, the player will lose 40 sanity.
+-   **POISON:** On use, the player will lose 7% HP.[\[1\]](#cite-note-1) If used below 6% health, you will be left at 1 health.
+-   **BLOOD LOSS:** On use the player will lose 15% of their max blood. (Bypasses the Talent Cauterized Wounds)
+-   **FLAMING:** Unique to Corrupted Shard Bow. On use, the player will be inflicted with white flames.
+
+_(From data of 100 rerolls, the calculated chance of getting a **Corrupted Resonance** was 4% (1.333% per card))_
+
+The list of Normal Resonances is shown below:
+
 | 
 **LEGENDARY RESONANCES**
 
  |
 | --- |
+
+Legendary Resonances are a category of Resonances that are extremely rare than both Normal and Corrupted Resonances. These Resonances have a pity system, where a Legendary Resonance will be guaranteed in the next reroll if a player did not obtain one after 100 rerolls.
+
+_(From data of 100 rerolls, the calculated chance of getting a Legendary Resonance was 3.67% (~1.223% per card))_
+
+In addition, Legendary Resonances have their Corrupted counterpart, being Drowned Resonances. They functionally remain the same as Corrupt Resonances and have similar obtainment, but are exceptionally rare to obtain naturally.
+
+_(From data of 100 rerolls, the calculated chance of getting a corrupted Legendary Resonance (drowned) was 0.333% (0.111% per card))_
+
+The list of Legendary Resonances is shown below:
 
 | 
 **UNOBTAINABLE RESONANCES**
@@ -44,8 +95,8 @@ These Resonances are exclusive to NPCs, bosses, or developers and cannot be acqu
 
 -   Corrupted Top-Pop - [Akira](Akira.md)
 -   Dream Eater - [Haske Vantage](Primal_Vesperian.md)
--   Golem Creation - [Duke Erisia](Duke_Ishamon_Erisia.md)
--   Soul Siphon - [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   Golem Creation - [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)
+-   Soul Siphon - [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   Chorus Divide: Shattering Crescendo - [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 -   Unnamed Ice Resonance(?) - [Coldheart Fortinbras](Coldheart_Fortinbras.md)
 -   Unnamed Teleportation Resonance - [Kraphtalos](Kraphtalos.md)
@@ -64,78 +115,13 @@ These Resonances are exclusive to NPCs, bosses, or developers and cannot be acqu
 -   Unnamed Resonance - [Grandmaster Vanguard Legidae](Grandmaster_Vanguard_Legidae.md)
 -   Unnamed Resonance - [Grandmaster Warder Sapphire](Grandmaster_Warder_Sapphire.md)
 
-## Overview
+## Obtainment
 
-**Resonances** are one of the many skills that players can obtain, and can be seen as a sort of divine blessing. They are quite formidable tools in the right hands, with varying effects including (**but not limited to**) momentary invisibility, map-wide teleportation, and near-instant executions. **Corrupted** **Resonances,** on the other hand, are more akin to curses and [Cursed Enchants](Enchantments.md), where they offer more powerful effects and useful effects of the provided **Resonance** at the cost of ailing the holder in some way, shape, or form.
-
-**Resonances** have a set amount of unseen **Resonance Points** when they are obtained. They are randomly distributed to different attributes of the **Resonance** to achieve uniqueness between players and inspire creativity. Due to this, even if two people have the same exact **Resonance**, the properties may likely differ between them- such as Active Time, Speed, or Purpose Fulfillment. However, these points aren't infinite, and where one property of a **Resonance** might get high allocation, that would equally mean that other properties aren't getting much attention. For example, a high-healing reaper bell is less likely to have massive AOE unless the system is in your favor. **Corrupted Resonances** have more points to spend, resulting in more potent attributes for a Resonance.
-
-See the [Obtaining](#obtaining) section for how to obtain a **Resonance**.
-
-**Resonances** are physically manifested as instruments; though, in-game, the player is currently only able to obtain a bell-shaped **Resonance**. Upon obtainment, both the color and model of your bell are chosen randomly. Rerolling your **Resonance** will alter the appearance of your bell. You can use a [Dye Packet](Dye_Packet.md) to color your bell according to your preference.
-
-## Variants
-
-**Resonances** of any category are susceptible to Variants. Variants of **Resonances** are not able to be changed or swayed in any way unless the **Resonance** itself is rerolled, so it's up to chance what variant of what **Resonance** someone obtains.
-
-### Normal Resonances
-
-**Normal Resonances** are regular, common **Resonances**. They do not have any extra upsides, downsides, or rarity compared to sub-category **Resonances** such as **Corrupted Resonances** (see below), but they are still susceptible to being a variant.
-
-_(From data of 100 rerolls, the calculated chance of getting a normal **Resonance** was 92% (276/300, almost guaranteed per reroll))_
-
-### Corrupted Resonances
-
-**Corrupted Resonances** are a sub-category of **Normal Resonances** which are obtained identically to any other **Resonances**, or can be obtained by using a [Sinner's Ash](<Sinner's_Ash.md>) to corrupt your **Normal Resonance**. They are rarer and stronger versions of **Normal Resonances**, yet come with a consequence upon use, and give more points for the point-allocation system of **Resonances** and even give **extra effects to some**, allowing them to grant stronger benefits and fulfill their purpose in a way that is arguably better than that of a **Normal Resonance**.
-
-Known side-effects include:
-
--   **WITHER:** On use player will receive [Wither](Status_Effects.md#wither) for 10% of their max HP.
--   **MANIA:** On use, player will lose 40 sanity.
--   **POISON:** On use, player will lose 7% HP.[\[1\]](#cite-note-1) If used below 6% health, you will be left at 1 health.
--   **BLOOD LOSS:** On use player will lose 15% of their max blood. (Bypasses the Talent Cauterized Wounds)
-
-Downsides do not appear to be correlated to any **Resonances**, meaning any **Resonance** can get any **one** downside, and can vary in severity.
-
--   Ironically, many **Resonance** effects can straight up mitigate or invalidate their downside, such as ones that grant invincibility or resistances. This would be in the case of an **Corrupted Blood Scourge with Poison**, where you would lose health upon calling the ability forth, but then regain the lost health and gain potentially more once the ability works.
--   Some Talents can benefit off the downsides as well, such as combining _Lose Your Mind_ and _Piercing Will_ with a **Corrupted Resonance with Mania.**
--   There is an exception to this rule, being the [Shard Bow](Shard_Bow.md) **Resonance**, which inflicts a unique Self Burn downside. This lights you on fire with white flames. This downside can be easily dealt with by dodging backwards as soon as you fire your Shard bow.
-
-In the end, the true power of your **Corrupted Resonance** is reliant on you, your build, and your creativity, but also... _luck_.
-
-All **Corrupted Resonance effects** are listed in their corresponding **Resonance** page.
-
-_(From data of 100 rerolls, the calculated chance of getting a **Corrupted Resonance** was 4% (1.333% per card))_
-
-### Legendary Resonances
-
-**Legendary Resonances** are a category of **Resonances** separate from **Normal Resonances** which are _also_ obtained identically to **Normal Resonances** and their **Corrupt Resonance** versions, albeit being exceedingly rarer than both **Normal** and **Corrupted Resonances**. The only **Legendary Resonances** in the game currently are [Teleportation](Teleportation.md) and [Dimensional Travel](Dimensional_Travel.md). **Legendary Resonances** also have a **Corrupt Resonance** counterpart, being _**Drowned Resonances**_, but these are incredibly difficult to obtain, naturally being extraordinarily rare due to their overlap between being a **Legendary** and **Corrupted** resonance at the same time. These resonances have a pity feature: if you don't get a legendary bell for 100 rerolls on your slot, you'll get it on the next reroll. Because of how Resonance rerolling works, if you currently have a Legendary Resonance, it will be guaranteed to show up in every roll, but with different stats; **this will reset your Legendary pity with every reroll**.
-
-_(From data of 100 rerolls, the calculated chance of getting a Legendary Resonance was 3.67% (~1.223% per card))_
-
-### Drowned Resonances
-
-These function identically to **Corrupted Resonances**, with the same chance of being obtained on an eligible **Resonance** card. The only difference is that they can only be obtained on a **Legendary Resonance**. This, of course, makes natural obtainment of these extremely rare. They can be more easily obtained by using Sinner's Ash on a **Legendary Resonance**, or repeatedly rerolling until the fourth card in your **Resonance** card selection, which will always be your current **Resonance**, turns from Legendary to Drowned.
-
-_(From data of 100 rerolls, the calculated chance of getting a corrupted Legendary Resonance (drowned) was 0.333% (0.111% per card))_
-
-### Tarnished Resonances
-
-**Tarnished Resonances** are yet another sub/category of **Resonances**. Unlike the other variants, obtaining, and getting rid of a **Tarnished Resonance** is totally in the player's hands. Upon rerolling a **Resonance** (see the 'Rerolling a **Resonance**' heading for specifics), the player's new Resonance will be inflicted with a new flaw called Tarnished. Upon receival of this flaw, **you will not be able to reroll your bell or make any more wishes...** but don't be scared, you can fix this!
-
-Tarnished bells have a 1 second wind-up to being casted after activation.
-
-Removing Tarnished requires the player to travel to either [Yamaketzal](Yamaketzal.md) and pay 1000 notes, go to [Misérables](Misérables.md) and choose Clarity, or go to Carrion, Father of Evolution and pay 1 Knowledge. Going to [Yamaketzal](Yamaketzal.md) or Carrion, Father of Evolution will simply remove your Tarnished status, without granting a wish, whereas going to [Misérables](Misérables.md) will remove your Tarnished status and grant a wish at the Shrine of Yun'Shul so that you may reroll once again. [Misérables](Misérables.md) can be found in floor 2 of the [second layer](Second_Layer.md), after which, if the player talked to [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) and made him spawn in [Castle Light](Castle_Light.md) he can now untarnish your bell for 1 knowledge instead of 15 at the [Misérables](Misérables.md) how ever, this will NOT grant you a wish with Yun'Shul. You can also completely be immune to being Tarnished if you have the Echo Upgrade "[Soul Plasticity](Echoes.md)"
-
-## Obtaining
-
-Obtaining your **Resonance** is judged by how far your character has come in terms of fighting experience- typically through Bosses (see below), [Mobs](Monsters.md), or Players. Conquering Bosses is the most common way for people to gain Progress (see below) and eventually unlock their **Resonance**, as many of them have a strong connection with the Song in some way, shape, or form.
+Obtaining your **Resonance** is judged by how far your character has come in terms of fighting experience, typically through Bosses (see below), [Mobs](Monsters.md), or Players. Defeating Bosses is the most common way for people to gain Progress (see below) and eventually unlock their **Resonance**, as many of them have a strong connection with the Song in some way, shape, or form.
 
 _If you do not talk to [Sibex](Sibex.md), you will be in the dark on how far your character has come since they first awoke, so for those looking to unlock their **Resonance** for the first time, paying a visit to him is advised-- and [**please visit his page**](Sibex.md) to understand what you must do with him, as well as how to interpret what he tells you._
 
-YOU DO **NOT** NEED TO FOLLOW THE PATH THAT YOU ARE GIVEN. KILLING BOSSES WILL GIVE YOU PROGRESS, JUST NOT BONUS PROGRESS IF YOU ARENT ON THE BOSS PATH.
-
-You can also very rarely obtain your Resonance from the [Resonant Dawn](Random_Encounters.md#resonant-dawn) event, although you do not get to pick your Resonance this way.
+You can also very rarely obtain your Resonance from the [Resonant Dawn](Random_Encounters.md#resonant-dawn) event, although the Resonance will be random when obtained this way.
 
 The Ancient Soul [Regalia](Regalia.md) grants you a hand of Resonance draws upon creating a character.
 
@@ -143,9 +129,9 @@ The Ancient Soul [Regalia](Regalia.md) grants you a hand of Resonance draws upon
 
 The main factor in obtaining a **Resonance** is _how far you are in the hidden stat known as **Progress**_ (commonly referred to by the community as "bell prog"). There are many ways to obtain Progress, and the most effective ways can vary from character to character- which can be judged by [Sibex](Sibex.md), who will inspect your Soul and inform you on what the best way for you to obtain Progress is. Additionally, he can also make note of how close you are to obtaining your **Resonance**.
 
-| **Possible dialogue results:** |
+| **Possible dialogue results** |
 | --- |
-| **Boss Path** | **Depths Path** | **PVP Path** | **Inspired Regalia** |
+| **Boss Path** | **Depths Path** | **PvP Path** | **Inspired Regalia** |
 | **Sibex:** "Ah... I can hear your Soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..." | **Sibex:** "Ah... An inquisitive soul... Your Soul's curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you..." | **Sibex:** "Ah... I can hear the drumbeats of war within your Soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..." | **Sibex:** "Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off." |
 
 **Boss Path:**
@@ -204,7 +190,7 @@ When killing players, you will not gain Progress upon grip unless they are aroun
 
  |
 
-**PVP Path:**
+**PvP Path:**
 
 | **What to do:** |
 | --- |
@@ -226,7 +212,7 @@ Another important thing to note is The [Chime of Conflict](Chime_of_Conflict.md)
 
 ### Collision with Fate - Achieving your Resonance
 
-_**IMPORTANT NOTE 1: Jumping in the void with less than half HP will STILL wipe you even if you have maximum Progress.**_
+**Note_:_ Jumping into the void below 50% health will STILL wipe you even if you have maximum Progress.**
 
 Once you face death in The Depths and your health goes down to 0%, if you have maximum Progress:
 
@@ -236,37 +222,18 @@ Once you face death in The Depths and your health goes down to 0%, if you have m
 -   **Your Blood, Thirst and Hunger meters will be replenished.**
 -   **Your [Sanity](Insanity.md) will be fully replenished**
 -   **You will get 5** [Knowledge](Knowledge.md)
+-   **You will gain the Resonant Soul Badge if this is your first ever Resonance**
 -   **Finally, a hand of 3 cards (4 if you have [Oscillator](Regalia.md)) will appear before you, with each card providing their name, rarity, and a brief description of what they do.** Deep magenta cards indicate a **Corrupted Resonance**, light gold cards are **Legendary**, while light lavender cards are **Drowned**.
 
 Once you select your card, using C will activate your **Resonance**.
-
-_**IMPORTANT NOTE 2: Resonance** obtainment is sometimes used by players as a get-out-of-jail-card in The Depths._
 
 -   While many players choose to commit to "bell checking" in order to obtain their bell quickly by intentionally dying to enemies, other players might instead choose to obtain their bell through the natural intended means of defying death. **Obtaining your Resonance through the intended means will save you from being knocked once in Layer 1/[Scyphozia](First_Layer.md) or Layer 2/[Eternal Gale](Second_Layer.md)/[New Kyrsa](Second_Layer/New_Kyrsa.md), and most likely save you from wiping.**
 -   Otherwise, it's safest to bell check in Layer 2 **after obtaining a [Light Hook](Light_Hook.md) from [Klaris](Klaris_Llfiend,_Mother_of_Lights.md)**, as the Light Hook prevents you from being wiped in Layer 2.
 -   Note that any cause of death, including from enemies, PVP, dying from [Insanity](Insanity.md), and [parasites](Second_Layer/The_Ethironal_Shrine.md#parasites) in Layer 2 is able to bell check.
 
-## Rerolling & Resonance Doors
-
-Around [The Depths](The_Depths.md) and Overworld, **Resonance Doors** (example in the picture below) can be found. **Resonance Doors** are greyish doors with a white sphere in their center that require a **Resonance** to be opened. They facilitate shortcuts to get through normally impassable areas of the map.
-
-This very specific and unique **Resonance Door** is within a cave in The Depths, which leads to the [Temple of Hearts](Temple_of_Hearts.md). Within the temple resides the Shrine of Yun'Shul. _**Interacting with the shrine without having a Resonance WILL WIPE YOU (Unless you're a Deepbound)**_ **(not possible by legitimate methods, unless you used the deepbound-exclusive crevice)**_._ The shrine provides many different "wishes", one of which is rerolling your **Resonance**, giving you another **Resonance** card draw.
-
-The draw consists of four cards, three of which are selected randomly (identically to the three you rolled when first obtaining your resonance) and the last of the four always being your current **Resonance**, albeit with a different stat allocation.
-
--   If your current **Resonance** isn't a **Corrupted Resonance**, the fourth card has a chance of being **Corrupted**. If your current **Resonance** _is_ a **Corrupted Resonance**, the fourth card will always be a _non-corrupted_ version of your **Resonance** with an extra fifth card of your **Corrupted Resonance** alongside it.
-
-This is not without a cost, however. Rerolling your **Resonance** inflicts you with the _[Tarnished](Boons_and_Flaws.md#flaws)_ Flaw, which can severely downgrade your **Resonance** and prevents you from making a wish again. As stated before, [Yamaketzal](Yamaketzal.md) is able to remove _Tarnished_ from you for 1000 Notes, whereas making a deal with [Misérables](Misérables.md) will clear the _Tarnished_ flaw and will return your resonance to normal. You can also just buy the [Soul Plasticity](Echoes.md) echoes upgrade, as this disables the ability to have a tarnished bell altogether.
-
--   One can visit [Yamaketzal](Yamaketzal.md) or [Carrion](Carrion,_Father_of_Evolution.md) to remove the _[Tarnished](Boons_and_Flaws.md#flaws)_ Flaw, without gaining a wish, which allows them to reroll with an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) as using an Idol does not require you to have free wishes.
--   Otherwise, [Misérables](Misérables.md) will remove the _[Tarnished](Boons_and_Flaws.md#flaws)_ Flaw, which also grants the player a wish. This method of removing _Tarnished_ allows the player to directly reroll at the Shrine of Yun'Shul.
--   If you have the [Soul Plasticity](Echoes.md) echoes upgrade you won't be able to have a _Tarnished_ resonance.
-
-In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, players will get one free wish from [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) every 3 levels.
-
 ## Trivia
 
--   You need Power 3 to reroll your bell
+-   You need Power 3 to reroll your bell.
 -   **Resonances** cannot be used when doing [Chime of Conflict 1v1s](Chime_of_Conflict.md).
 -   The higher the level you are, the easier it is to obtain a **Resonance**. This is because every time you power up, the requirements for your resonance lower, rather than getting more experience towards your resonance per power level.
 -   **Resonances** come in the form of any instrument, but the Bell-form is the only one seen in game.
