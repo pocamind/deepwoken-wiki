@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 218790
+revid: 219149
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4345,7 +4345,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   A weaker version of this effect is applied when your critical lands without interrupting one of their attacks.
         -   This damage modifier **bypasses** the damage modifier cap, potentially allowing for absurd critical damage output.
 
--   Curved Edge: [Nemit's Sickle](<Nemit's_Sickle.md>) - Your [light weapon mantras](Attunement-less.md#light-weapon-mantras) \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now gain 60% more chip.
+-   Curved Edge: [Nemit's Sickle](<Nemit's_Sickle.md>) - Your [light weapon mantras](Attunement-less.md#light-weapon-mantras) \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now gain 30% more chip.
 
 -   Devastating Recovery: [Zweihander](Zweihander.md), [Alloyed Zweihander](Zweihander.md) & [Bloodbane](Bloodbane.md) - Enemies recover 30% less posture when parrying your Zweihander light attacks.
     -   This is not to be confused with the [Destructive Recovery](#destructive-recovery) Greatsword Talent
