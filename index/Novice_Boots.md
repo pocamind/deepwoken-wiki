@@ -1,6 +1,6 @@
 ---
 title: Novice Boots
-revid: 215824
+revid: 218888
 source: https://deepwoken.fandom.com/wiki/Novice_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages using duplicate arguments in template calls, Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -30,6 +30,10 @@ Variants: [Beginner's Boots](<Beginner's_Boots.md>)
 
 ## Description
 
-Novice Boots are an [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Novice Set.
+The Novice Boots are an [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Novice Set.
 
 The [Steady Footing](Talents.md#steady-footing) Talent lessens the effects of knockback on the player, especially on ice.
+
+## Gallery
+
+{{History}\]

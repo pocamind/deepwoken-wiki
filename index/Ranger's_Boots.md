@@ -1,6 +1,6 @@
 ---
 title: "Ranger's Boots"
-revid: 215727
+revid: 218863
 source: https://deepwoken.fandom.com/wiki/Ranger's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Equipment with Talents, Equipment with Exclusive Talents]
@@ -30,8 +30,10 @@ Variants: [Veteran Ranger's Boots](<Veteran_Ranger's_Boots.md>)
 
 ## Description
 
-Ranger's Boots are an [Equipment](Equipment.md) item under the "Legs" category.
-
-They can be found through chests in [Songseeker Wilds](Songseeker_Wilds.md) and by winning matches in the [Chime of Conflict](Chime_of_Conflict.md).
+The Ranger's Boots are an [Equipment](Equipment.md) item under the "Legs" category.
 
 The [Survivalist](Talents.md#survivalist) Talent reduces the damage taken from certain weather effects like [Acid Rain](Environmental_Hazards.md).
+
+## Trivia
+
+-   The exclusive Talent granted by these boots are the same as the effects given by the [Survivalist](Boons_and_Flaws.md) Boon.

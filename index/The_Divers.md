@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 213493
+revid: 219074
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Divers, The Citadel of Markor]
@@ -22,7 +22,7 @@ categories: [Factions, The Divers, The Citadel of Markor]
 
 ## Description
 
-The Citadel Divers, more commonly known as just The Divers, are a faction headquartered in The Central Luminant at the Island of [Markor](Markor.md). They are a sub-division of the [Citadel of Markor](The_Citadel_of_Markor.md), and their primary field of operation is [The Depths](The_Depths.md), where they are focused on the traversal and research of the realm, discovering and reporting valuable data to The Citadel. They were founded in 57 CE (Citadel Era) by the High Convocation of the Citadel, the governing council of the Citadel of Markor. The first leader of the Divers organisation was [Deukalion Akarad](Deukalion_Akarad.md), affectionately known as "Father Diver", who was assigned to train a core of field researchers and agents who would be sent to [The Depths](The_Depths.md).[\[1\]](#cite-note-0-1)
+The Citadel Divers, more commonly known as just The Divers, are a faction headquartered in The Central Luminant at the Island of [Markor](Markor.md). They are a sub-division of [The Citadel of Markor](The_Citadel_of_Markor.md), and their primary field of operation is [The Depths](The_Depths.md), where they are focused on the traversal and research of the realm, discovering and reporting valuable data to The Citadel. They were founded in 57 CE (Citadel Era) by the High Convocation of the Citadel, the governing council of the Citadel of Markor. The first leader of the Divers organisation was [Deukalion Akarad](Deukalion_Akarad.md), affectionately known as "Father Diver", who was assigned to train a core of field researchers and agents who would be sent to [The Depths](The_Depths.md).[\[1\]](#cite-note-0-1)
 
 Their stated purpose is to learn to better understand [The Depths](The_Depths.md) in order to combat its expansion and protect the surface from the creatures of the Deep.[\[1\]](#cite-note-0-1) The Divers consist of a variety of ranks given to each and every diver based on their power and knowledge; the standard Diver is the vast majority of the Divers, typically normal scholars and researchers who are interested in various facets of the world. They do not typically live long and make up about 95% of the Divers. The other 5% consist of more powerful Divers including Black Divers, which are prestigious and extremely strong individuals who appear very few in every generation of Divers. They assist the Divers by taking on foes a normal Diver wouldn’t be able to handle, typically representing one squad of normal Divers on their own. Notable Black Divers include Amorus Pleeksty, who kept very loose relations with the Divers before his disappearance and Akira, who can be found at Castle Light after talking to him in The Scyphozia. The Divers utilize the Song to fight primarily when their lives are in danger, but some Divers are selfish and do not hesitate to fight for their own research and interest, even against other Divers. Therefore, there is frequent conflict within the ranks.
 
@@ -83,6 +83,8 @@ You can also complete the [Layer 2](Second_Layer.md) Floor 1 dungeon to get a de
 
 1.  ↑ [1.0](#cite-ref-0-1-0) [1.1](#cite-ref-0-1-1) [1.2](#cite-ref-0-1-2) [1.3](#cite-ref-0-1-3) [1.4](#cite-ref-0-1-4) [1.5](#cite-ref-0-1-5) [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md)
 2.  ↑ [2.0](#cite-ref-dj-2-0) [2.1](#cite-ref-dj-2-1) [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>)
-3.  [↑](#cite-ref-3) [Diver Journal, I](Diver_Journal,_I.md)
-4.  [↑](#cite-ref-4) [Diver Journal, II](Diver_Journal,_II.md)
-5.  [↑](#cite-ref-5) [Diver Journal, III](Diver_Journal,_III.md)
+3.  [↑](#cite-ref-3) [Book](Books.md): [Diver's Journal: Apprentice Azel](<Diver's_Journal%253A_Apprentice_Azel.md>)  
+    
+4.  [↑](#cite-ref-4) [Book](Books.md): [Diver's Journal: Journeyman Skeli](<Diver's_Journal%253A_Journeyman_Skeli.md>)  
+    
+5.  [↑](#cite-ref-5) [Book](Books.md): [Diver's Journal: Apprentice Hero](<Diver's_Journal%253A_Apprentice_Hero.md>)

@@ -1,6 +1,6 @@
 ---
 title: Bastions of Enmity
-revid: 209424
+revid: 219013
 source: https://deepwoken.fandom.com/wiki/Bastions_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Arms, Equipment]
@@ -28,9 +28,8 @@ categories: [Arms, Equipment]
 
 ## Description
 
-The **Bastions of Enmity** is a Unique [Equipment](Equipment.md) item under the "Arms" category, obtained exclusively from the [Heart of Enmity](Heart_of_Enmity.md).
+The Bastions of Enmity are an Unique [Equipment](Equipment.md) item under the "Arms" category, obtained exclusively from the [Heart of Enmity](Heart_of_Enmity.md).
 
 ## Trivia
 
 -   This equipment was secretly nerfed shortly after release. It previously granted the wearer 17 innate health.
--   Has the same pips as the [Diver's Light Plate](<Diver's_Light_Plate.md>) and [Grand Fisher Plate](Grand_Fisher_Plate.md) with 1 extra innate Posture, making this the best arms equipment in the game.

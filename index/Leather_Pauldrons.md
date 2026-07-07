@@ -1,6 +1,6 @@
 ---
 title: Leather Pauldrons
-revid: 210572
+revid: 218900
 source: https://deepwoken.fandom.com/wiki/Leather_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -23,9 +23,9 @@ categories: [Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Erisia chests |
+| obtainment | Chests from:, Lower Erisia |
 | description | ... |
 
 ## Description
 
-The Leather Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category. They are commonly found in chests from [Erisia](Erisia.md).
+The Leather Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category.

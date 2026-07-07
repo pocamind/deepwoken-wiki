@@ -1,6 +1,6 @@
 ---
 title: "Beginner's Brace"
-revid: 215659
+revid: 218889
 source: https://deepwoken.fandom.com/wiki/Beginner's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Braces, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -23,7 +23,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Braces, Equipment with Set 
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | TBA |
+| obtainment | Bluster Rapids |
 | description | ... |
 
 Variants: [Novice Brace](Novice_Brace.md)
@@ -38,7 +38,7 @@ Variants: [Boots](<Beginner's_Boots.md>)
 
 ## Description
 
-The Novice Brace is an [Equipment](Equipment.md) item under the Arms category, and is a part of the Novice Set.
+The Beginner's Brace is an [Equipment](Equipment.md) item under the Arms category, and is a part of the Beginner's Set.
 
 The [Beginner's Luck](Talents.md#beginners-luck) Talent increases the amount of loot you find in chests.
 

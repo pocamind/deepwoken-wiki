@@ -1,6 +1,6 @@
 ---
 title: "Beginner's Boots"
-revid: 215657
+revid: 218882
 source: https://deepwoken.fandom.com/wiki/Beginner's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Equipment with Set Bonuses, Boots, Equipment with Talents, Equipment with Exclusive Talents]
@@ -22,7 +22,7 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Equipment with Set Bonuses,
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | TBA |
+| obtainment | Bluster Rapids |
 | description | They've just been broken in. |
 
 Variants: [Novice Boots](Novice_Boots.md)
@@ -37,7 +37,7 @@ Variants: [Brace](<Beginner's_Brace.md>)
 
 ## Description
 
-The Beginner's Boots is an [Equipment](Equipment.md) item under the "Legs" category.
+The Beginner's Boots are an [Equipment](Equipment.md) item under the "Legs" category.
 
 The [Safety First](Talents.md#safety-first) Talent grants 25% damage reduction for 30 seconds at the start of any fight.
 

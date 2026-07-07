@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Hood"
-revid: 215129
+revid: 219049
 source: https://deepwoken.fandom.com/wiki/Assassin's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hoods, Equipment with Talents, "Equipment with Non-exclusive Talents"]

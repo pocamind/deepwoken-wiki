@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Earrings"
-revid: 215662
+revid: 218891
 source: https://deepwoken.fandom.com/wiki/Assassin's_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Talents, Equipment with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Talents, Equ
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | TBA |
+| obtainment | The Depths (Vow of Iron) |
 | description | ... |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
@@ -30,6 +30,6 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Assassin's Thief Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category.
+The Assassin's Earrings are an [Equipment](Equipment.md) items under the "Ears" category.
 
 The [Sharpened Dagger](Talents.md#sharpened-dagger) Talent grants an additional 1 **true damage** to attacks that hit your opponent's back. In PvE, this is increased to 4 damage.

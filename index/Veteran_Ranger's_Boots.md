@@ -1,6 +1,6 @@
 ---
 title: "Veteran Ranger's Boots"
-revid: 215682
+revid: 218860
 source: https://deepwoken.fandom.com/wiki/Veteran_Ranger's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -38,7 +38,7 @@ Variants: [Brace](<Veteran_Ranger's_Brace.md>)
 
 ## Description
 
-Ranger's Boots are an [Equipment](Equipment.md) piece under the "**Legs**" category.
+The Veteran Ranger's Boots are an [Equipment](Equipment.md) piece under the "Legs" category.
 
 The [Conditioning](Talents.md#conditioning) Talent grants 40% resistance to slows.
 
@@ -49,3 +49,5 @@ When wearing the full equipment set, you will gain the Set Talent.
 Set Talent: [Hunting Trap](Talents.md#hunting-trap) - Place down a trap that upon being stepped on will render your opponent unable to move for a bit. \[60 second CD\]
 
 This grants a Talent tool that places a bear trap on use with a 60 second cooldown. Walking onto a bear trap deals high damage and renders you immobile for a few seconds. The bear trap cannot be triggered again once its already been trigged. You can trigger your own bear trap.
+
+{{History}\]

@@ -1,9 +1,9 @@
 ---
 title: Wartreads of Enmity
-revid: 210902
+revid: 219024
 source: https://deepwoken.fandom.com/wiki/Wartreads_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Boots, Equipment]
+categories: [Equipment, Boots]
 ---
 
 # Wartreads of Enmity
@@ -28,16 +28,14 @@ categories: [Pages with broken file links, Boots, Equipment]
 
 ## Description
 
-The **Wartreads of Enmity** is a Unique [Equipment](Equipment.md) item under the "Legs" category, obtained exclusively from the [Heart of Enmity](Heart_of_Enmity.md).
-
-## Gallery
-
-File:Screenshot 2024-12-24 180543.png
-
-File:Wartreadsplaceholder.png
+The Wartreads of Enmity are an Unique [Equipment](Equipment.md) item under the "Legs" category, obtained exclusively from the [Heart of Enmity](Heart_of_Enmity.md).
 
 ## Trivia
 
 -   This equipment was secretly nerfed shortly after release. It previously granted the wearer +10 innate HP and two additional rare pips.
     -   Additionally, the Wartreads previously had the Perseverance talent and no innate Posture, but this was changed on the January 11th, 2025 update.
--   In an interview, Arch\_Mage mentioned that incentivizing new content, like Luminants and layers of the Depths, is tough without power-creeping current equipment. Because of this, it's likely that the Enmity set was initially given superior stats to test the player base's reaction to a shake up of the equipment metagame.
+-   In an interview, Arch\_Mage mentioned that incentivizing new content, like Luminants and layers of the Depths, is tough without power-creeping current equipment. Because of this, it's likely that the Enmity set was initially given superior stats to test the player base's reaction to a shake up of the equipment metagame.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1)

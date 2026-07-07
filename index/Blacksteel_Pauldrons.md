@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pauldrons
-revid: 215311
+revid: 218993
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -32,6 +32,4 @@ Variants: [Helm](Blacksteel_Helm.md)
 
 ## Description
 
-Blacksteel Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category.
-
-They are commonly found in chests from [Erisia](Erisia.md), and can also be obtained as an uncommon drop from [Blacksteel Pirates](Blacksteel_Pirate.md) and [Blacksteel Pirate Captains](Blacksteel_Pirate_Captain.md).
+The Blacksteel Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category.

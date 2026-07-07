@@ -1,6 +1,6 @@
 ---
 title: Immortal Helm
-revid: 215886
+revid: 218922
 source: https://deepwoken.fandom.com/wiki/Immortal_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Equipment with Talents, Equipment with Exclusive Talents]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Helmets, Equipment with Talents, Equipment with Ex
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Immortal Guardian |
+| obtainment | Immortal Guardian (Direct drop) |
 | description | Helm of an Immortal Guardian. The product of Ministry experimentation, it's thought that these helmets enthrall their wielders by means of a Mind Veil, causing immediate death should they ever be removed. It seems that in prying this helmet off that this functionality has been disabled. You hope. |
 
 Variants: [Corrupted Immortal Helm](Corrupted_Immortal_Helm.md)
@@ -31,8 +31,6 @@ Variants: [Corrupted Immortal Helm](Corrupted_Immortal_Helm.md)
 The Immortal Helm is an [Equipment](Equipment.md) item under the "Head" category.
 
 The [Immortality](Talents.md#immortality) Talent prevents the wearer from being knocked [Unconscious](Status_Effects.md#unconscious) upon taking lethal damage for two seconds while at 1% HP. The effect only lasts for one hit or until the duration expires.
-
-The Immortal Helm drops from the bodies of the [Immortal Guardians](Immortal_Guardian.md) and cannot drop from a chest.
 
 ## Trivia
 

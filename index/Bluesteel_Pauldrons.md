@@ -1,6 +1,6 @@
 ---
 title: Bluesteel Pauldrons
-revid: 215298
+revid: 218982
 source: https://deepwoken.fandom.com/wiki/Bluesteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -38,4 +38,4 @@ These are used to craft the [Bluestone Pauldrons](Bluestone_Pauldrons.md).
 
 ## Trivia
 
--   The **Blue** counterpart to the [Redsteel Pauldrons](Redsteel_Pauldrons.md).
+-   The blue counterpart to the [Redsteel Pauldrons](Redsteel_Pauldrons.md).

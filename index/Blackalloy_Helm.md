@@ -1,6 +1,6 @@
 ---
 title: Blackalloy Helm
-revid: 215661
+revid: 219000
 source: https://deepwoken.fandom.com/wiki/Blackalloy_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Helmets, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -38,7 +38,7 @@ Variants: [Pauldrons](Blackalloy_Pauldrons.md)
 
 ## Description
 
-The Blacksteel Helm is an [Equipment](Equipment.md) item under the "Head" category.
+The Blackalloy Helm is an [Equipment](Equipment.md) item under the "Head" category.
 
 The [Sloped Plate](Talents.md#sloped-plate) Talent reduces the amount of damage you take from attacks that guard break you by a flat 10.
 

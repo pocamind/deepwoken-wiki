@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 212846
+revid: 219070
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -161,8 +161,6 @@ These recipes are exclusive to [The Cold Forge](The_Cold_Forge.md)
 
 -   **[Celestial Boots](Celestial_Boots.md)**
     -   [Astral Enchant Stone](Enchant_Stone.md) + 2 [Star Boots](Star_Boots.md)
--   **[Champion's Alloy](<Champion's_Alloy.md>)**
-    -   [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>)
 -   **[Fondant Splitter](Fondant_Splitter.md)**
     -   [Dormant Splinter](Dormant_Splinter.md) + 1 [Cake](Cake.md) + 1 [Sword](<Sword_(weapon).md>)
     -   [Dormant Splinter](Dormant_Splinter.md) + 1 [Cake](Cake.md) + 1 [Katana](Katana.md)
@@ -177,6 +175,8 @@ These recipes are exclusive to [The Cold Forge](The_Cold_Forge.md)
 
 These recipes are exclusive to [The Lost Forge](Lost_Forge_of_Leiuna.md)
 
+-   [**Champion's Alloy**](<Champion's_Alloy.md>)
+    -   1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>)\+ 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>)\+ 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>)
 -   **[Gale Enhanced Ring](Gale_Enhanced_Ring.md)**
     -   1 [Finisher's Ring](<Finisher's_Ring.md>) + 1 [Gale Essence](Gale_Essence.md)
 -   **[Gale Enhanced Earrings](Gale_Enhanced_Earrings.md)**

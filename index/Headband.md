@@ -1,6 +1,6 @@
 ---
 title: Headband
-revid: 215369
+revid: 218931
 source: https://deepwoken.fandom.com/wiki/Headband
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Face, Bandanas]

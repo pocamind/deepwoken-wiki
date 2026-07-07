@@ -1,6 +1,6 @@
 ---
 title: Black Divers division
-revid: 209209
+revid: 219073
 source: https://deepwoken.fandom.com/wiki/Black_Divers_division
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, The Divers, Black Divers]
@@ -45,8 +45,8 @@ In 1272 CE[\[2\]](#cite-note-2) [Chaser](Chaser,_Scholar_of_the_Crimson_Contract
 1.  ↑ [1.0](#cite-ref-fathoms-1-0) [1.1](#cite-ref-fathoms-1-1) [1.2](#cite-ref-fathoms-1-2) [1.3](#cite-ref-fathoms-1-3) [Book](Books.md): [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md)  
     
 2.  [↑](#cite-ref-2) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md). As such, events taking place during the events of the game in Verse 2 will be assumed to occur during the year 1272 CE, due to [The Hammer's Call](<The_Hammer's_Call.md>), which was released in Verse 2, containing an event occurring within 1272.
-3.  [↑](#cite-ref-3) [Book](Books.md): [Diver Journal, I](Diver_Journal,_I.md)  
+3.  [↑](#cite-ref-3) [Book](Books.md): [Diver's Journal: Apprentice Azel](<Diver's_Journal%253A_Apprentice_Azel.md>)  
     
-4.  [↑](#cite-ref-4) [Book](Books.md): [Diver Journal, II](Diver_Journal,_II.md)  
+4.  [↑](#cite-ref-4) [Book](Books.md): [Diver's Journal: Journeyman Skeli](<Diver's_Journal%253A_Journeyman_Skeli.md>)  
     
-5.  [↑](#cite-ref-5) [Book](Books.md): [Diver Journal, III](Diver_Journal,_III.md)
+5.  [↑](#cite-ref-5) [Book](Books.md): [Diver's Journal: Apprentice Hero](<Diver's_Journal%253A_Apprentice_Hero.md>)

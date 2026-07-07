@@ -1,6 +1,6 @@
 ---
 title: Bluesteel Boots
-revid: 215328
+revid: 218983
 source: https://deepwoken.fandom.com/wiki/Bluesteel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -38,4 +38,4 @@ These are used to craft the [Bluestone Boots](Bluestone_Boots.md).
 
 ## Trivia
 
--   The **Blue** counterpart to [Redsteel Boots](Redsteel_Boots.md).
+-   The blue counterpart to [Redsteel Boots](Redsteel_Boots.md).

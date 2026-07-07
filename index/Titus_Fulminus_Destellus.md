@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 218737
+revid: 219092
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions, Humanoids with Unobtainable Outfits]
@@ -43,7 +43,7 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
 
 1.  Have high 'Ally' or above reputation with [The Hundred Legions](The_Hundred_Legions.md).
 2.  Speak with [Caitus](Caitus.md) at the Legion camp at [Lower Erisia](Lower_Erisia.md) to obtain the [Legion Intelligence](Legion_Intelligence.md) quest item.
-3.  Having the Legion Intelligence will unlock a unique set of dialogue with Titus. Selecting it will start the fight.
+3.  Having the Legion Intelligence or [Imperium Kata](Imperium_Kata.md) will unlock a unique set of dialogue with Titus. Selecting it will start the fight.
 
 ## Moves
 

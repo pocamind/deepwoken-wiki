@@ -1,6 +1,6 @@
 ---
 title: The Cradle of Symphonies
-revid: 211359
+revid: 219051
 source: https://deepwoken.fandom.com/wiki/The_Cradle_of_Symphonies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Dungeons]
@@ -13,3 +13,9 @@ notices:
 LocationL The Cradle of Symphonies LocationR
 
 A vast amphitheatre, where cataclysm once took form in ruinous verse, its echoes devouring far more than was ever theirs to claim.
+
+  
+
+## Description
+
+The Cradle of Symphonies is the arena where the player fights [Knell, The Lunatic Resonator](Knell,_The_Lunatic_Resonator.md). It is a large colosseum with bells scattered through out.

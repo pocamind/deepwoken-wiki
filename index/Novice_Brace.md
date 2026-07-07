@@ -1,6 +1,6 @@
 ---
 title: Novice Brace
-revid: 215825
+revid: 218887
 source: https://deepwoken.fandom.com/wiki/Novice_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Braces]
@@ -30,4 +30,4 @@ Variants: [Beginner's Brace](<Beginner's_Brace.md>)
 
 ## Description
 
-The Novice Brace is an [Equipment](Equipment.md) item under the "Arms" category, and are a part of the Novice Set.
+The Novice Brace is an [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Novice Set.

@@ -1,6 +1,6 @@
 ---
 title: "Familiar Heretic's Helm"
-revid: 210136
+revid: 218974
 source: https://deepwoken.fandom.com/wiki/Familiar_Heretic's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Event Item, Hallowtide]
@@ -26,7 +26,7 @@ categories: [Equipment, Head, Helmets, Event Item, Hallowtide]
 
 ## Description
 
-The Familiar Heretic's Helm is an [Equipment](Equipment.md) item under the "Head" category. It is very rare due to being an event item.
+The Familiar Heretic's Helm is an [Equipment](Equipment.md) item under the "Head" category.
 
 ## Trivia
 

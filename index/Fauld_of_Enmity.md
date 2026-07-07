@@ -1,6 +1,6 @@
 ---
 title: Fauld of Enmity
-revid: 210139
+revid: 219033
 source: https://deepwoken.fandom.com/wiki/Fauld_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso]
@@ -28,10 +28,9 @@ categories: [Equipment, Torso]
 
 ## Description
 
-The **Fauld of Enmity** is a Unique [Equipment](Equipment.md) item under the "Torso" category, obtained exclusively from the [Heart of Enmity](Heart_of_Enmity.md).
+The Fauld of Enmity is a Unique [Equipment](Equipment.md) item under the "Torso" category, obtained exclusively from the [Heart of Enmity](Heart_of_Enmity.md).
 
 ## Trivia
 
 -   This item, along with [Threadwork Kilt](Threadwork_Kilt.md) are the first "waist" equipment added to Deepwoken.
--   This piece of equipment currently grants the most potential health out of all other torso equipment. (Being 18 HP)
 -   The Fauld Of Enmity is the only droppable item from the Enmity set.

@@ -1,6 +1,6 @@
 ---
 title: Seasons
-revid: 218332
+revid: 219091
 source: https://deepwoken.fandom.com/wiki/Seasons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -10,7 +10,7 @@ categories: [Mechanics]
 
 ## Description
 
-Seasons are a core part of _Deepwoken's_ world system. Each season lasts two in-game months, making a full year eight months long. One in-game month corresponds to a single real-life day, with seasons transitioning at Midnight UTC (7 PM EST).
+Seasons are a core part of _Deepwoken's_ world system. Each season lasts two in-game months, making a full year eight months long. One in-game month corresponds to a single real-life day, with seasons transitioning at Midnight UTC (7-8 PM EST depending on daylight savings).
 
 In the calendar, the first month of a season ends with **"-span"**, while the second ends with **"-fall."** The only exception to this rule is Spring, with its last month ending in **"-watch."**
 

@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 214196
+revid: 219068
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Books]
@@ -29,7 +29,7 @@ Some books are part of specific quests or are physically in the world, and thus 
 
 -   A Light In The Sky: [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md) (Hallowtide exclusive).
 -   Coldheart's Journal: [The Cold Forge](The_Cold_Forge.md).
--   Diver's Journal: Apprentice Azel/Journeyman Skeli/Apprentice Hero: [Second Layer](Second_Layer.md).
+-   Diver's Journals: [Second Layer](Second_Layer.md).
 -   Legion Intelligence: Talking to [Caitus](Caitus.md).
 -   Ministry Field Report: [Outpost Antumbra](Outpost_Antumbra.md).
 -   Jericho's Journal: [Fort Merit](Fort_Merit.md), behind [Warden Jericho](Warden_Jericho.md).
@@ -54,9 +54,9 @@ Currently there are 30 books and book collections:
 -   [Coldheart's Journal](<Coldheart's_Journal.md>)
 -   [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>)
 -   [Debriefing Log on Operator Polaris Enigvidion](Debriefing_Log_on_Operator_Polaris_Enigvidion.md)
--   [Diver Journal: Apprentice Azel](<Diver's_Journal%253A_Apprentice_Azel.md>)
--   [Diver Journal: Apprentice Hero](<Diver's_Journal%253A_Apprentice_Hero.md>)
--   [Diver Journal: Journeyman Skeli](<Diver's_Journal%253A_Journeyman_Skeli.md>)
+-   [Diver's Journal: Apprentice Azel](<Diver's_Journal%253A_Apprentice_Azel.md>)
+-   [Diver's Journal: Apprentice Hero](<Diver's_Journal%253A_Apprentice_Hero.md>)
+-   [Diver's Journal: Journeyman Skeli](<Diver's_Journal%253A_Journeyman_Skeli.md>)
 -   [Eggs In A Basket](Eggs_In_A_Basket.md): A sailor's shanty. ~100 words.
 -   [Fading Book](Fading_Book.md): A placeholder for removed books. Its pages fading, crumbling. ~50 words.
 -   [The Ferryman's Lullaby](<The_Ferryman's_Lullaby.md>): The lyrics of a folk song regarding [The Ferryman](The_Ferryman.md). ~200 words.
@@ -86,15 +86,15 @@ Currently there are 30 books and book collections:
 
 ### Removed books
 
-Currently 4 books were fully removed from the game:
+Currently 7 books were fully removed from the game:
 
+-   [Diver Journal, I](Diver_Journal,_I.md)
+-   [Diver Journal, II](Diver_Journal,_II.md)
+-   [Diver Journal, III](Diver_Journal,_III.md)
 -   [God in the Machine](God_in_the_Machine.md)
 -   [Lament of Cirryn](Lament_of_Cirryn.md)
 -   [My Warm Blood](My_Warm_Blood.md)
 -   [Stars Above, and the Blade between](Stars_Above,_and_the_Blade_between.md)
--   [Diver Journal, I](Diver_Journal,_I.md)
--   [Diver Journal, II](Diver_Journal,_II.md)
--   [Diver Journal, III](Diver_Journal,_III.md)
 
 ## Trivia
 

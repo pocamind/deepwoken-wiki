@@ -1,6 +1,6 @@
 ---
 title: Aegis of Enmity
-revid: 215418
+revid: 219006
 source: https://deepwoken.fandom.com/wiki/Aegis_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -15,7 +15,7 @@ categories: [Equipment, Head, Helmets]
 | selling price | 100 |
 | requirements | Power 12 |
 | weight | 1 |
-| innate stats | +5 Health , +1 Posture +2 Legendary Pips |
+| innate stats | +5 Health , +1 Posture , +2 Legendary Pips |
 | innate talent | N/A |
 | set | Aegis of Enmity, Bastions of Enmity, Wartreads of Enmity, Thrall of Enmity, Fauld of Enmity/Mantle of Enmity |
 | set talent | N/A |
@@ -28,7 +28,7 @@ categories: [Equipment, Head, Helmets]
 
 ## Description
 
-The **Aegis of Enmity** is a Unique [Equipment](Equipment.md) item under the "Head" category.
+The Aegis of Enmity is a Unique [Equipment](Equipment.md) item under the "Head" category.
 
 ## Trivia
 

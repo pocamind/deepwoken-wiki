@@ -1,6 +1,6 @@
 ---
 title: Guardian Helmet
-revid: 216531
+revid: 218959
 source: https://deepwoken.fandom.com/wiki/Guardian_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -14,7 +14,7 @@ categories: [Equipment, Head, Helmets]
 | rarity | Uncommon |
 | selling price | 14 |
 | weight | 1 |
-| innate stats | +5 Health +1 Posture |
+| innate stats | +5 Health , +1 Posture |
 | innate talent | N/A |
 | set | Guardian Helmet, Guardian Pauldrons |
 | set talent | N/A |
@@ -27,4 +27,4 @@ categories: [Equipment, Head, Helmets]
 
 ## Description
 
-The Guardian Helm is an [Equipment](Equipment.md) item under the "Head" category, and is a part of the Guardian Set.
+The Guardian Helmet is an [Equipment](Equipment.md) item under the "Head" category, and is a part of the Guardian Set.

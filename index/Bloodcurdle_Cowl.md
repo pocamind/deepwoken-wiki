@@ -1,6 +1,6 @@
 ---
 title: Bloodcurdle Cowl
-revid: 215995
+revid: 218985
 source: https://deepwoken.fandom.com/wiki/Bloodcurdle_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Equipment with Set Bonuses, Hoods, Equipment with Talents, Equipment with Exclusive Talents]
@@ -48,4 +48,4 @@ Set Talent: [Bloodless Overdrive](Talents.md#bloodless-overdrive) - Gain bonus [
 
 ## Trivia
 
--   The Bloodletter Talent does nothing, as it was made innate during the June 6th, 2024 Update. Despite that, this equipment item, added in December of 2025 still has this Talent as a carryover from its base variant, the [Bloodfeather Cowl](Bloodfeather_Cowl.md).
+-   The Bloodletter Talent does nothing, as it was made innate during the [June 6th, 2024](Version_History/2024.md#june-6th-2024) update. Despite that, this equipment item, added in December of 2025 still has this Talent as a carryover from its base variant, the [Bloodfeather Cowl](Bloodfeather_Cowl.md).

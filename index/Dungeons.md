@@ -1,6 +1,6 @@
 ---
 title: Dungeons
-revid: 211357
+revid: 219052
 source: https://deepwoken.fandom.com/wiki/Dungeons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages with reason, StubPages, Mechanics, Dungeons, Locations]
