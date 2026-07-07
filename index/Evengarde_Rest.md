@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 215945
+revid: 219147
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Quests, Etrea, Bosses, NPCs located in the Etrean Luminant, Maestros of the Vigils]
@@ -85,7 +85,13 @@ This dialogue is unlocked once the player has completed the [Lost Sibling Quest]
   <td colspan="3">Should the tides shift... I would gladly stand at your side in vanquishing that foul creature. For too long has Etrea been subject to the whims of others. Be that the Ministry or the <a href="Glossary.md#the-central-authority">Authority</a>...</td>
 </tr>
 <tr>
-  <td colspan="12">[End Dialogue]</td>
+  <td colspan="6">[End Dialogue]</td>
+  <td colspan="3">What if Etrea could stand on its own?</td>
+  <td colspan="3">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td colspan="3">[See first instance]</td>
 </tr>
 </tbody>
 </table>

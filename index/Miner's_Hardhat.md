@@ -1,6 +1,6 @@
 ---
 title: "Miner's Hardhat"
-revid: 217058
+revid: 219148
 source: https://deepwoken.fandom.com/wiki/Miner's_Hardhat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats, Helmets, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -23,7 +23,7 @@ categories: [Equipment with Styles, Equipment, Head, Hats, Helmets, Equipment wi
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Mineskippers |
-| description | ... |
+| description | A standard issue mining helmet, popular among those who would delve deep into the ground for minerals. Offers a nice bit of protection for your noggin against potential cave-ins, debris, and rubble... Just watch out for the blackdamp. |
 
 ## Description
 
