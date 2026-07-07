@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 218188
+revid: 219121
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -218,7 +218,14 @@ Upon breaking an Oath, unique effects will occur:
         -   "Hmm... Perhaps you are ready after all... But be mindful that this is only the beginning." / **\[End Dialogue\]**
             -   You'll be brought to [A Conscious Intersection](A_Conscious_Intersection.md) again and by talking to [The Nestmind](The_Nestmind.md) again, you'll **regain** [Visionshaper](Oath%253A_Visionshaper.md) (You'll need [void feathers](Dark_Feather.md)).
 
-Note: Wiping after breaking your Oath will leave the "Obtained an Oath" echo task incomplete if you didn't make a new Oath prior to wiping.
+Notes:
+
+-   Wiping after breaking your Oath will leave the "Obtained an Oath" echo task incomplete if you didn't make a new Oath prior to wiping.
+
+-   In the event that your character is holding a weapon that they should not be able to hold, it will be stripped from them and returned to your inventory.
+    -   Examples of these circumstances include but are not limited to:
+        -   Not meeting a stat requirement(s)
+        -   Lore-related conflict (ex. Silentheart holding an attuned weapon)
 
 ## Lore Oaths
 

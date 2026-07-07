@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 214504
+revid: 219139
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics]
@@ -18,6 +18,8 @@ notices:
 
 Dialogue is present throughout _Deepwoken_ as it can contain lore, unique interactions and paths, and other tips that would not be found without speaking with NPCs. Guards of [Factions & Groups](Factions_&_Groups.md) will respond differently to you depending on your [Reputation](Reputation.md) with their corresponding faction.
 
+Read more about Reputation [here](Reputation.md)
+
 ## Attribute Check Requirements
 
 [Ploom](Ploom.md) - Flamecharm Requirement: 40 | Charisma Requirement: 50 [Karliah](Karliah.md) - Charisma Requirement: 10 (Notes) / 20 (Persuade) / 50 (Rethink) [Hobo](Hobo.md) - Charisma Requirement: 50 [Akira](Akira.md) - Charisma Requirement: ~100
@@ -26,11 +28,9 @@ Dialogue is present throughout _Deepwoken_ as it can contain lore, unique intera
 
 ## [Etreaiconfaction](Etrea.md) Etrea
 
-###### Read more about Reputation [here](Reputation.md)
-
 Talking to Guards
 
--   Very Good Reputation - "Welcome back \[name\], it's good to see you again." | "Pleasant journeys, \[name\]!"
+-   Very Good Reputation - "Welcome back \[name\], it's good to see you again." | "Pleasant journeys, \[name\]!" | "Welcome back. The instructors were just wondering where you'd got to."
 -   Good Reputation - "Pleasant journeys, friend." | "Welcome, friend of Etrea."
 -   Neutral Reputation - "Welcome, traveler. keep out of trouble for me, won't you?" | "Greetings, traveller. Don't cause any trouble, alright?"
 -   Unfriendly Reputation - "Move along, outsider. I don't have time for you." | _\*The guard glances at you with distaste, but does not block your path.\*_
@@ -107,7 +107,7 @@ Talking to Guards
 
 -   Very Good Reputation - "Alright, \[Name\]? Good to see a familiar face."
 -   Good Reputation - "How's it going mate?" | "Seas been treating you well mate?"
--   Neutral Reputation - "You on your break or something? Some of us still have work to do." | "placeholder"
+-   Neutral Reputation - "You on your break or something? Some of us still have to work."
 -   Unfriendly Reputation- "placeholder" | "placeholder"
 
 ## Celtor Reputation

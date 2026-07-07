@@ -1,12 +1,18 @@
 ---
 title: Battle Royale
-revid: 215102
+revid: 219130
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [StubPages, World Event]
 ---
 
 # Battle Royale
+
+LocationL Battle Royale LocationR
+
+Starting from scratch, warriors from across Lumen compete to be the last one standing!
+
+  
 
 Kingmaker's Isle, the unforgiving grounds of Battle Royale, where fresh starts are mandatory and mercy is nowhere to be found
 

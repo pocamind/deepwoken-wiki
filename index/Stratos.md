@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 216566
+revid: 219144
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pages with broken file links, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -184,6 +184,22 @@ Stratos can be found meditating in front of a fountain at the [Temple of the Bla
 </tr>
 <tr>
   <td colspan="6">[End Dialogue], Given 25</td>
+</tr>
+</tbody>
+</table>
+
+**Stratos' Cloak:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="6">You have done a great service for our people.. It is within my right to grant you this. Don the cloak of winds, we would be honored to have you representing our<p>order.</p></td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

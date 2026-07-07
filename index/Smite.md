@@ -1,6 +1,6 @@
 ---
 title: Smite
-revid: 211240
+revid: 219112
 source: https://deepwoken.fandom.com/wiki/Smite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]

@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 209896
+revid: 219140
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, Reputation, Mechanics]
@@ -17,38 +17,45 @@ The enemies sent differ depending on the extent of the player's negative reputat
 | Faction | Enemy(s) | Dialogue | Loot Pool |
 | --- | --- | --- | --- |
 | N/A | 
--   1-3 [Lowly Bandits](Bandit.md)
--   1-3 [Bandit Captains](Bandit_Leader.md)
+-   1-3 [Bandits](Bandit.md)
+-   1-3 [Bandit Leaders](Bandit_Leader.md)
 -   3 [Bounty Hunters](<Bounty_Hunter_(NPC).md>)
 -   3 [Cloaked Assassins](Cloaked_Assassin.md)
 
  | 
 
+-   "Ah, screw it! Kill 'em!"
+-   "I can't believe they fell for it!"
+-   "Man, these weaklings never stop coming, do they?
+-   "The suckers just keep on coming!"
 -   "This'll be a good one!"
 -   "There they are!"
+-   "To the depths with it, this one's dying!"
 -   "Quite the reward for this one, yeah?"
 
  | 
 
--   Lower Erisia ([Lowly Bandits](Bandit.md))
+-   Lower Erisia ([Bandits](Bandit.md))
 -   Songseeker Wilds ([Bounty Hunters](<Bounty_Hunter_(NPC).md>))
--   Starswept Valley ([Cloaked Assassins](Cloaked_Assassin.md))
+-   The Starswept Valley ([Cloaked Assassins](Cloaked_Assassin.md))
 
  |
 | [Etrea](Etrea.md) | 
 
 -   3 [Vigil Captains](Vigil_Captain.md)
 -   3 [Vigil Swordsmen](Vigil_Swordsman.md)
--   3 [Etrean Soldier](Etrean_Soldier.md)
+-   3 [Etrean Soldiers](Etrean_Soldier.md)
 
  | 
 
+-   "For the blood of our fathers we will bring you to justice!"
+-   "Say your prayers, outlander!"
 -   "Under decree of the Lord Regent, your life is forfeit!"
 -   "You won't get away with what you've done!"
 
  | 
 
--   Starswept Valley
+-   The Starswept Valley
 
  |
 | [Authority](The_Central_Authority.md) | 
@@ -109,7 +116,7 @@ The enemies sent differ depending on the extent of the player's negative reputat
 -   Miner's Landing
 
  |
-| [Hundred Legions](The_Hundred_Legions.md) | 
+| [The Hundred Legions](The_Hundred_Legions.md) | 
 
 -   3 [Legion Captains](Legion_Captain.md)
 -   3 [Legion Soldiers](Legion_Soldier.md)
@@ -124,8 +131,8 @@ The enemies sent differ depending on the extent of the player's negative reputat
 
  | 
 
--   Starswept Valley ([Legion Captains](Legion_Captain.md)
--   Upper Erisia ([Legion Soldiers](Legion_Soldier.md)
+-   The Starswept Valley ([Legion Captains](Legion_Captain.md))
+-   Upper Erisia ([Legion Soldiers](Legion_Soldier.md))
 
  |
 | [The Summer Company](The_Summer_Company.md) | 
@@ -145,7 +152,7 @@ The enemies sent differ depending on the extent of the player's negative reputat
 -   Summer Isles
 
  |
-| [Ministry](The_Ministry.md) | 
+| [The Ministry](The_Ministry.md) | 
 
 -   1-3 [Ministry Enforcers](Ministry_Enforcer.md)
 -   1-3 [Ministry Footpads](Ministry_Footpad.md)
@@ -161,7 +168,7 @@ The enemies sent differ depending on the extent of the player's negative reputat
 -   Crypt of the Unbroken
 
  |
-| [Hive](The_Hive.md) | 
+| [The Hive](The_Hive.md) | 
 
 -   1-3 Modified [Hive Adjudicators](<Hive_Adjudicator_(NPC).md>)
 -   1-3 Modified [Hive Arbiters](Hive_Arbiter.md)
@@ -177,7 +184,7 @@ The enemies sent differ depending on the extent of the player's negative reputat
 -   Modified Starswept Valley
 
  |
-| [Hive](The_Hive.md) | 
+| [The Hive](The_Hive.md) | 
 
 -   1 [Hive Construct](Hive_Construct.md)
 
@@ -193,7 +200,7 @@ The enemies sent differ depending on the extent of the player's negative reputat
 | [The Divers](The_Divers.md) | 
 
 -   3 [Divers](Diver.md)
--   3 [Diver Journeymen](Journeyman_Diver_Guard.md)
+-   3 [Journeyman Diver Guards](Journeyman_Diver_Guard.md)
 
  | 
 
@@ -208,7 +215,7 @@ The enemies sent differ depending on the extent of the player's negative reputat
  |
 | [The Divers](The_Divers.md) | 
 
--   3 [Black Diver](<Black_Diver_(NPC).md>)
+-   3 [Black Divers](<Black_Diver_(NPC).md>)
 
  | 
 

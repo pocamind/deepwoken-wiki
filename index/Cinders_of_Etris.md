@@ -1,6 +1,6 @@
 ---
 title: Cinders of Etris
-revid: 209037
+revid: 219137
 source: https://deepwoken.fandom.com/wiki/Cinders_of_Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Random Encounters, Etrea, Disaster]
@@ -69,9 +69,10 @@ Up to nine NPCs are in this event.
 ## Trivia
 
 -   **NPCs will have special dialogue during this event, such as:**
-    -   _Get to the town center, Hurry!_
-    -   _The town is burning! It's burning! Help!_
-    -   _We need all the help we can get! Get to the town and clear out the Authority! Please!_
+    -   "Get to the town center! Hurry!"
+    -   "The town is burning! It's burning! Help!"
+    -   "The town! They're sieging the town!"
+    -   "We need all the help we can get! Get to the town and clear out the Authority! Please!"
 -   Authority Guards will also have special dialogue nearing the end of the event, such as:
     -   _ONE FINAL PUSH! TO THE CENTER, ROUT THEM!_
 -   One of the only places that will never burn in the Etris Raid Event is [Lord Regents](The_Lord_Regent.md) Palace.

@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 218089
+revid: 219093
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]

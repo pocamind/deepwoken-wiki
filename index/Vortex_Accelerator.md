@@ -1,6 +1,6 @@
 ---
 title: Vortex Accelerator
-revid: 190382
+revid: 219110
 source: https://deepwoken.fandom.com/wiki/Vortex_Accelerator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Equipment Relics, Relics]
@@ -28,6 +28,6 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Vortex Accelerator is a [Relic](Relics.md) [Equipment](Equipment.md) under the "Rings" Category.
+The Vortex Accelerator is a [Relic](Relics.md) [Equipment](Equipment.md) under the "Rings" Category.
 
 This ring lowers your Mantra cooldowns based on how low your health is. At low health, low cooldown Mantras essentially have no cooldown.

@@ -1,6 +1,6 @@
 ---
 title: Moonseye Tome
-revid: 214482
+revid: 219100
 source: https://deepwoken.fandom.com/wiki/Moonseye_Tome
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Items]

@@ -1,6 +1,6 @@
 ---
 title: Lavasucker
-revid: 215750
+revid: 219122
 source: https://deepwoken.fandom.com/wiki/Lavasucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Monsters]

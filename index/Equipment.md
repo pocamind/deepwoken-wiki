@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 218480
+revid: 219126
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
@@ -192,7 +192,7 @@ _+8% Fire Armor_
 
  | Variants:  
 [Aazel's](#aazels-horns) & [Necrotic Demon](#necrotic-demon-horns) |
-| File:Aegis of Enmity2.png | [Aegis of Enmity](Aegis_of_Enmity.md)  
+|  | [Aegis of Enmity](Aegis_of_Enmity.md)  
 (**Set**)  
 (**Unique**) | _+5 Health_  
 _+1 Posture_
@@ -243,7 +243,7 @@ Legs: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)
 Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
 
  |
-| File:VigilHood.png | [Assassin's Hood](<Assassin's_Hood.md>)  
+|  | [Assassin's Hood](<Assassin's_Hood.md>)  
 (**Styles**)  
 (**Set**) | _+5% Stealth_
 
@@ -270,7 +270,7 @@ _+Talent: [**Strong Hold**](Talents.md#strong-hold)_
 
  | Styles:  
 Brushed & Galvanized |
-| File:Barrel Helmet.png | [Barrel Helm](Barrel_Helm.md) | _+5 Health_
+|  | [Barrel Helm](Barrel_Helm.md) | _+5 Health_
 
 +1 Uncommon Pip
 
@@ -315,7 +315,7 @@ _+Talent: [**Concussive Force**](Talents.md#concussive-force)_
 
  | Variants:  
 [Blackleaf](#blackleaf-helm) & [Goldleaf](#goldleaf-helm) |
-| File:Blacksteel Helm(Better Lighting).png | [Blacksteel Helm](Blacksteel_Helm.md)  
+|  | [Blacksteel Helm](Blacksteel_Helm.md)  
 (**Set**) | _+10 Health_
 
 +1 Uncommon Pip  
@@ -415,7 +415,7 @@ _+Talent: [**Umami**](Talents.md#umami)_
 **Requires Power 8**
 
  | N/A |
-| File:Static-assets-upload321884259233421803.png | [Dark Cowl](Dark_Cowl.md) | _+1 Posture_  
+|  | [Dark Cowl](Dark_Cowl.md) | _+1 Posture_  
 _+4% Stealth_ | N/A |
 |  | [Dark Owl Chapeau](Dark_Owl_Chapeau.md)  
 (**Set**) | _+5% Shadow Armor_  
@@ -605,7 +605,7 @@ Variants:
 [Guard's](#guards-kabuto), [Royal Guard's](#royal-guards-kabuto), [Captain's](#captains-kabuto)
 
  |
-| File:Guardian helm.png | [Guardian Helmet](Guardian_Helmet.md)  
+|  | [Guardian Helmet](Guardian_Helmet.md)  
 (**Set**) | _+5 Health_  
 _+1 Posture'_ | Set: Guardian  
 Head: [Guardian Helmet](Guardian_Helmet.md)  
@@ -671,7 +671,7 @@ Variants:
 
  | Styles:  
 Brown, Dark, Navy, Relentless, Shadow, Smoke, Titan & Vermilion |
-| File:ImmortalHelm.png | [Immortal Helm](Immortal_Helm.md)  
+|  | [Immortal Helm](Immortal_Helm.md)  
 (**Legendary**) | +1 Rare Pip  
 +1 Legendary Pip
 
@@ -1002,7 +1002,7 @@ _+Talent: [**Cap Artist**](Talents.md#cap-artist)_
 
  | Variants:  
 [Tillian's](#tillians-beret) & [Jester's](#jesters-beret) |
-| File:Slate Tophat.png | [Tophat](Tophat.md)  
+|  | [Tophat](Tophat.md)  
 (**Styles**)  
 (**Set**) | _+4 Health_
 
@@ -1034,7 +1034,7 @@ Dark (Fabric, Leather) & Light (Fabric, Leather) |
 **Requires Power 6, 10 Agility**
 
  | N/A |
-| File:Navy Warlock Brim.png | [Warlock's Brim](<Warlock's_Brim.md>)  
+|  | [Warlock's Brim](<Warlock's_Brim.md>)  
 (**Styles**)  
 (**Set**)  
 (**Unique**) | _+5 Health_
@@ -1144,7 +1144,7 @@ _+Talent: [**Kick Off**](Talents.md#kick-off)_
  | Set: Abyss Wanderer  
 Arms: [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>)  
 Legs: [Abyss Wanderer's Boots](<Abyss_Wanderer's_Boots.md>) |
-| File:Sable Adjudicator's.png | [Adjudicator's Coat](<Adjudicator's_Coat.md>)  
+|  | [Adjudicator's Coat](<Adjudicator's_Coat.md>)  
 (**Styles**)  
 (**Cloth Physics**) | +2 Rare Pips
 
@@ -1205,7 +1205,7 @@ Legs: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)
 Face: [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md)
 
  |
-| File:Pale Assassin Cloak.png | [Assassin's Cloak](<Assassin's_Cloak.md>)  
+|  | [Assassin's Cloak](<Assassin's_Cloak.md>)  
 (**Styles**)  
 (**Set**)  
 (**Cloth Physics**) | _+6 Health_  
@@ -1225,7 +1225,7 @@ Head: [Assassin's Hood](<Assassin's_Hood.md>)
 Arms: [Assassin's Cloak](<Assassin's_Cloak.md>)
 
  |
-| File:Ruby Authority Commander Coat.png | [Authority Commander Coat](Authority_Commander_Coat.md)  
+|  | [Authority Commander Coat](Authority_Commander_Coat.md)  
 (**Styles**)  
 (**Cloth Physics**) | _+10 Health_
 
@@ -1401,7 +1401,7 @@ _+Talent: [**Disbelief**](Talents.md#disbelief)_
 Head: [Dark Owl Chapeau](Dark_Owl_Chapeau.md)  
 Arms: [Dark Owl Cloak](Dark_Owl_Cloak.md)  
 Torso: [Dark Owl Cape](Dark_Owl_Cape.md) |
-| File:Black Deepwoken Cloak.png | [Deepwoken Cloak](Deepwoken_Cloak.md)  
+|  | [Deepwoken Cloak](Deepwoken_Cloak.md)  
 (**Styles**)  
 (**Set**)  
 (**Legendary**) | _+5 Health_  
@@ -1421,7 +1421,7 @@ Head: [Deepwoken Hood](Deepwoken_Hood.md)
 Arms: [Deepwoken Cloak](Deepwoken_Cloak.md)
 
  |
-| File:DelvingDuster.png | [Delver's Duster](<Delver's_Duster.md>)  
+|  | [Delver's Duster](<Delver's_Duster.md>)  
 (**Mythical**) | _+5 Health_
 
 +3 Legendary Pips  
@@ -1680,7 +1680,7 @@ _+Talent: [**Lowstride**](Talents.md#lowstride)_
 **Requires Power 12**
 
  | N/A |
-| File:IgnitionGauntlets.png | [Ignition Gauntlets](Ignition_Gauntlets.md)  
+|  | [Ignition Gauntlets](Ignition_Gauntlets.md)  
 (**Legendary**) | _+8 Health_  
 _+1 Posture_
 
@@ -1741,7 +1741,7 @@ _+Talent: [**Stay of Execution**](Talents.md#stay-of-execution)_
 **Requires Power 12**
 
  | N/A |
-| File:Faded Justicar Coat.png | [Justicar Defender Coat](Justicar_Defender_Coat.md)  
+|  | [Justicar Defender Coat](Justicar_Defender_Coat.md)  
 (**Styles**)  
 (**Cloth Physics**) | +2 Rare Pips
 
@@ -1793,7 +1793,7 @@ _+Talent: [**Hoplite**](Talents.md#hoplite)_
 Head: [Phalanx Helmet](Phalanx_Helmet.md)  
 Arms: [Legion Phalanx Plate](Legion_Phalanx_Plate.md)  
 Legs: [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md) |
-| File:Sharko coat.png | [Megalodaunt Coat](Megalodaunt_Coat.md)  
+|  | [Megalodaunt Coat](Megalodaunt_Coat.md)  
 (**Styles**)  
 (**Cloth Physics**) | _+5% Damage vs. Monsters_
 
@@ -1898,7 +1898,7 @@ _+Talent: [**Simple Buff**](Talents.md#simple-buff)_
 
  | Variants:  
 [Simple](#simple-pauldrons) & [Ossified Simple](#ossified-simple-pauldrons) |
-| File:Crimson elite pathfinder.png | [Pathfinder Elite](Pathfinder_Elite.md)  
+|  | [Pathfinder Elite](Pathfinder_Elite.md)  
 (**Styles**)  
 (**Cloth Physics**)  
 (**Legendary**) | _+5% Damage vs. Monsters_
@@ -2145,7 +2145,7 @@ _+1 Posture_
  | Set: Tracker  
 Arms: [Tracker's Brace](<Tracker's_Brace.md>)  
 Legs: [Tracker's Boots](<Tracker's_Boots.md>) |
-| File:Brown Overcoat.png | [Trimmed Overcoat](Trimmed_Overcoat.md)  
+|  | [Trimmed Overcoat](Trimmed_Overcoat.md)  
 (**Styles**) | _+3 Health_
 
 +1 Uncommon Pip  
@@ -2154,7 +2154,7 @@ Legs: [Tracker's Boots](<Tracker's_Boots.md>) |
 
  | Styles:  
 Black, Brown & White |
-| File:Vanguardbrace.png | [Vanguard Brace](Vanguard_Brace.md)  
+|  | [Vanguard Brace](Vanguard_Brace.md)  
 (**Set**) | _+3 Health_  
 _+1 Posture_
 
@@ -2172,7 +2172,7 @@ _+2 Posture_
 **Requires Power 12**
 
  | N/A |
-| File:Navy Warlock Mantle.png | [Warlock's Mantle](<Warlock's_Mantle.md>)  
+|  | [Warlock's Mantle](<Warlock's_Mantle.md>)  
 (**Styles**)  
 (**Set**)  
 (**Cloth Physics**)  
@@ -2658,7 +2658,7 @@ Arms: [Legion Phalanx Plate](Legion_Phalanx_Plate.md)
 Legs: [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)
 
  |
-| File:Ranger Boots.png | [Ranger's Boots](<Ranger's_Boots.md>)  
+|  | [Ranger's Boots](<Ranger's_Boots.md>)  
 (**Set**) | +1 Rare Pip
 
 _+Talent: [**Survivalist**](Talents.md#survivalist)_
@@ -2784,7 +2784,7 @@ _+Talent: [**Ready or Not**](Talents.md#ready-or-not)_
  | Set: Vanguard  
 Arms: [Vanguard Brace](Vanguard_Brace.md)  
 Legs: [Vanguard Boots](Vanguard_Boots.md) |
-| File:Wartreads of Enmity.png | [Wartreads of Enmity](Wartreads_of_Enmity.md)  
+|  | [Wartreads of Enmity](Wartreads_of_Enmity.md)  
 (**Set**)  
 (**Unique**) | _+5 Health_  
 _+1 Posture_
@@ -3417,6 +3417,7 @@ Face: [Necrotic Mask](Necrotic_Mask.md)
 
  |
 |  | [Nose Stud](Nose_Stud.md) | _+1 Health_ | N/A |
+| File:Rabel's Bandana.png | [Rebel's Bandana](<Rebel's_Bandana.md>) | +1 Uncommon Pip | N/A |
 |  | [Polarised Eyeglasses](Polarised_Eyeglasses.md) | +1 Common Pip | N/A |
 | File:Smith's Goggles1.png | [Smith's Goggles](<Smith's_Goggles.md>)  
 (**Set**) | +1 Common Pip | Set: Smith's  
@@ -3434,8 +3435,7 @@ _+Talent: [**Angel's Guise**](Talents.md#angels-guise)_
 
  | Variants:  
 [Hollow](#hollow-angel-mask), [Sworn](#sworn-angel-mask) |
-| File:Rabel Bandana.png | [Rebel's Bandana](<Rebel's_Bandana.md>) | +1 Uncommon Pip | N/A |
-| File:TenGallonBandana.png | [Ten-Gallon Bandana](Ten-Gallon_Bandana.md) | +1 Uncommon Pip | N/A |
+|  | [Ten-Gallon Bandana](Ten-Gallon_Bandana.md) | +1 Uncommon Pip | N/A |
 |  | [The Guy's Eyeglasses](<The_Guy's_Eyeglasses.md>) | +1 Common Pip | N/A |
 |  | [Thrall of Enmity](Thrall_of_Enmity.md)  
 (**Set**)  
@@ -3557,7 +3557,7 @@ _+Talent: [**Way of the Wind**](Talents.md#way-of-the-wind)_
 
  | Variants:  
 [Emerald Tusk](#emerald-tusk-earrings) & [Gale Enhanced](#gale-enhanced-earrings) |
-| File:MasterThief.png | [Master Thief Earrings](Master_Thief_Earrings.md) | _+3% Stealth_
+|  | [Master Thief Earrings](Master_Thief_Earrings.md) | _+3% Stealth_
 
 +2 Rare Pips
 

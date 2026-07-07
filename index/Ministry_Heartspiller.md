@@ -1,6 +1,6 @@
 ---
 title: Ministry Heartspiller
-revid: 216168
+revid: 219132
 source: https://deepwoken.fandom.com/wiki/Ministry_Heartspiller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Ministry, Ministry Enemies]
@@ -50,7 +50,7 @@ As stated by Arch Mage, you don't have to meet any requirements for the NPC to s
 -   Be seeing you soon.
     
 
-Additionally, if the pathfinder hostage is still alive when the agent is gripped, they will say "Thank you...", "Please. You have to leave this place. Please." or "Stranger. You don't know what you stepped into, I'm sorry."
+Additionally, if the pathfinder hostage is still alive when the agent is gripped, they will say "Thank you...", "Please, you have to get away from here. Please." or "Stranger. You don't know what you stepped into, I'm sorry."
 
 ## Moveset
 

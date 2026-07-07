@@ -1,6 +1,6 @@
 ---
 title: Depths Supercharger
-revid: 190396
+revid: 219108
 source: https://deepwoken.fandom.com/wiki/Depths_Supercharger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -20,7 +20,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | The FerrymanThe Depths |
+| obtainment | The Ferryman, The Depths (Vow of Iron) |
 | description | Limits you to 2 mantras but greatly empowers them and boosts your Ether and Tempo. |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
@@ -29,8 +29,10 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Depths Supercharger is a [Relic](Relics.md) [Equipment](Equipment.md) item under the "Ring" category.
+The Depths Supercharger is a [Relic](Relics.md) [Equipment](Equipment.md) item under the "Ring" category.
 
 This Ring reduces the user's Mantra slots down to two in exchange for greatly buffing their Mantras and giving the user more Ether and Tempo.
 
-The "great buff" mentioned is simply increasing the 2 selected mantras' level by 3.
+## Trivia
+
+-   The "great buff" mentioned is simply increasing the 2 selected mantras' level by 3.
