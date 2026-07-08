@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 218388
+revid: 219190
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -288,7 +288,7 @@ _Slip out of perception and deliver a brutal kick._
 
  | 
 
-Blunt ResistanceBlunt
+Oath [ResistanceOath](Oaths.md)
 
  | 
 

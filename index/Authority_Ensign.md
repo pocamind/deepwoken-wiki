@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 218335
+revid: 219195
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Central Authority Enemies, The Central Authority, Character, Origins, Faction Origins]
@@ -431,7 +431,7 @@ Complete 10 missions solo, then speak to [High Inquisitor Merey](High_Inquisitor
 
 -   **Flanking Maneuvers** - Enemies you assassinate take more PEN from your squadmates in your party.
 
--   **Stature Break** - Landing a backstab of any kind disables posture for 8 seconds.
+-   **Stature Break** - Landing a backstab of any kind disables posture for 4 seconds. \[8 second CD\]
     -   This applies the [Paused Posture](Status_Effects.md#paused-posture) Status effect, denying _most_ sources of Posture restoration.
     -   During Paused Posture, you cannot restore posture by: passive posture regen, [Parrying](Combat_Mechanics.md#parrying), or the [Steady Nerves](Talents.md#steady-nerves) Talent. All other forms of posture restoration entirely ignore this status effect.
 

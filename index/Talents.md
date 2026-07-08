@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 219179
+revid: 219200
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2104,7 +2104,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   **Flanking Maneuvers** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Enemies you assassinate take more PEN from your squadmates in your party.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
 
--   **Stature Break** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Landing a backstab of any kind disables posture for 8 seconds.
+-   **Stature Break** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Landing a backstab of any kind disables posture for 4 seconds. \[8 second CD\]
     -   This applies the [Paused Posture](Status_Effects.md#paused-posture) Status effect, denying _most_ sources of Posture restoration.
     -   During Paused Posture, you cannot restore posture by: passive posture regen, [Parrying](Combat_Mechanics.md#parrying), or the [Steady Nerves](#steady-nerves) Talent. All other forms of posture restoration entirely ignore this status effect.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
@@ -4549,6 +4549,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     
     -   M1s apply stacks of [Blood Plague](Status_Effects.md#blood-plague).
     -   On critical, all Blood Plague stacks will be consumed to grant 2 + (2 × stack count) [Temporary Health](Status_Effects.md#temporary-health), if the attack lands.
+
 -   Blood Siphon: [Necrotic Cowl](Necrotic_Cowl.md) & [Bloodcurdle Cowl](Bloodcurdle_Cowl.md) - Your Critical Attack now siphons a bit of health, healing you 10% of the damage you dealt.
 
 -   Breeze: [Stratos' Cloak](<Stratos'_Cloak.md>) - Gain a permanent +2 speed buff at all times.
@@ -4669,7 +4670,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 
 -   Fleetfoot: [Carefree Garments](Carefree_Garments.md) - Gain an initial speed boost when slide jumping.
 
--   Focused Hematoma: [Sanguine Finery](Sanguine_Finery.md) - Decrease outside sources of blood loss by 25% and increase the amount of temporary health you receive by 15%.
+-   Focused Hematoma: [Sanguine Finery](Sanguine_Finery.md) - Increase the amount of [temporary health](Status_Effects.md#temporary-health) you receive by 15%.
 
 -   Focused Strikes: [Gale Enhanced Beads](Gale_Enhanced_Beads.md) & [Hallowed Monastery Beads](Hallowed_Monastery_Beads.md) - All criticals deal 15% more posture damage.
 
@@ -4840,7 +4841,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   Grants a 25% damage buff for the duration of the buff.
     -   The health highlight on hit effect is very similar to [Soulbreaker's](Oath%253A_Soulbreaker.md) Heart Reverb Talent.
 
--   Refreeze: [Icebringer's Vestments](<Icebringer's_Vestments.md>) - Landing any sort of ability that causes bottom freeze reduces the cooldown of your Orbital Ice by 8 seconds.
+-   Refreeze: [Icebringer's Vestments](<Icebringer's_Vestments.md>) - Landing any sort of ability that causes bottom freeze reduces the cooldown of your [Orbital Ice](#orbital-ice) by 20 seconds.
 
 -   Repeated Blows: [Reinforced War Boots](Reinforced_War_Boots.md) - Any [strength](Attunement-less.md#strength) mantra \[_[sic](https://en.wikipedia.org/wiki/sic)_\] that has a [Wrath Gem](Wrath_Gem.md) on it will reset its cooldown if you land a critical while a Wrath Gem is active.
     -   Wrath Gems are active for 9 seconds with no visual indication.
@@ -4911,6 +4912,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 
 -   Tempest Evolution: [Tempestmaker's Threads](<Tempestmaker's_Threads.md>) - Your slide-jumped [Wind Blades](Galebreathe.md#wind-blade) are naturally stronger and if landed grant +20% damage in the air for a few seconds.
     -   Grants a 20% damage buff to your slide-jump [Wind Blade](Galebreathe.md#wind-blade). Also increases its range.
+    -   Grants a 20% damage buff for 15 seconds after landing lide-jump [Wind Blade](Galebreathe.md#wind-blade). This buff will only he applied while you are airborne.
 
 -   Temple Guard: [Monastery Champion Robes](Monastery_Champion_Robes.md) - For the first 0.3s of your Critical Attack's windup, you take 90% less damage from any attacks that cancel your windup.
 
@@ -4977,7 +4979,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
     -   The Wither applied is based off your weapon's scaled damage.
 
 -   Wind Dancer: [Windrunner Robes](Windrunner_Robes.md) - Roll cancelling twice in quick succession will grant you a speed boost. One of your rolls must dodge a hit.
-    -   Grants a 10% speed boost for 8 seconds.
+    -   Grants a 10% speed boost for 12 seconds.
     -   10 second cooldown.
 
 -   Winter's Protection: [Winter Corps Parka](Winter_Corps_Parka.md) - Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale.

@@ -1,11 +1,9 @@
 ---
 title: Mushroom Costume
-revid: 202744
+revid: 219192
 source: https://deepwoken.fandom.com/wiki/Mushroom_Costume
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Event Only Content, Equipment, Head, Helmets, Event Item, Hallowtide]
-notices:
-  - "This Page contains items ONLY obtainable through an event. The unique variants of the Costume are only obtainable through the Gourdskipper event, and as such, are no longer obtainable until Hallowtide."
+categories: [Equipment, Head, Helmets, Event Item, Hallowtide]
 ---
 
 # Mushroom Costume
@@ -22,7 +20,7 @@ notices:
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | All Variants:, Trial of The Gourdskipper, Goodie BagBase Mushroom Costume:, Lysander Spellhardt [100 Joy], Any Blacksmith if you have the '22 Hallowtide Medal [5 Knowledge] |
+| obtainment | All Variants:, Trial of The Gourdskipper, Goodie Bag, Any Blacksmith if you have the '23 Hallowtide Medal, Mushroom Costume [5 Knowledge], Metalshroom Costume [7 Knowledge], Glowshroom Costume [7 Knowledge], Charmshroom Costume [10 Knowledge], Zapshroom Costume [10 Knowledge], Lysander Spellhardt [100 Joy] (Mushroom Costume only) |
 | description | A fullbody mushroom costume. You feel the strange urge to change your name to Fungbert, or perhaps Fungula. |
 
 ## Description

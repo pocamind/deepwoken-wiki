@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 219161
+revid: 219193
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -716,7 +716,7 @@ Blunt ResistanceBlunt
 
 **Mobility Mantra**
 
-_An agile dash._
+_Launch forwards into an agile dash._
 
  | 
 
@@ -724,7 +724,7 @@ _An agile dash._
 
   
 **Mobility Mantra**  
-_An agile dash._
+_Launch forwards into an agile dash._
 
  |
 | 
@@ -749,6 +749,7 @@ N/A
 -   Upgrading makes the dash longer.
 -   Can be modified with Crystal/Perfect Lenses to make it slightly longer.
 -   Can be modified with a Spring Spark to lower travel distance but increases amount of uses from 1 to 2.
+-   This Mantra was formerly named 'Dash'.
 
  |
 | 

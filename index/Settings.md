@@ -1,6 +1,6 @@
 ---
 title: Settings
-revid: 219181
+revid: 219194
 source: https://deepwoken.fandom.com/wiki/Settings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -180,8 +180,10 @@ These Keybinds will only appear if you have the respective ability.
 -   Hotbar Slot 6 - LT + ↑ DPAD
 -   Hotbar Slot 7 - LT + → DPAD
 -   Hotbar Slot 8 - LT + ↓ DPAD
--   Hotbar Slot 9 - LT + X
--   Hotbar Slot 10 - LT + Y
+-   Hotbar Slot 9 - LT + A
+-   Hotbar Slot 10 - LT + B
+-   Hotbar Slot 11 - LT + X
+-   Hotbar Slot 12 - LT + Y
 
 * * *
 
@@ -266,8 +268,10 @@ These Keybinds will only appear if you have the respective ability.
 -   Hotbar Slot 6 - L2 + ↑ DPAD
 -   Hotbar Slot 7 - L2 + → DPAD
 -   Hotbar Slot 8 - L2 + ↓ DPAD
--   Hotbar Slot 9 - L2 + □
--   Hotbar Slot 10 - L2 + ∆
+-   Hotbar Slot 9 - L2 + X
+-   Hotbar Slot 10 - L2 + O
+-   Hotbar Slot 11 - L2 + □
+-   Hotbar Slot 12 - L2 + ∆
 
 * * *
 
