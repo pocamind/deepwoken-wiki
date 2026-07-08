@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Visor"
-revid: 218168
+revid: 219158
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Visor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Equipment of The Central Authority]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Head, Equipment of The Central Au
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Fort Merit, Authority Ensign Missions (Inquisition Division only) |
+| obtainment | Chests from:, Fort Merit, Authority Ensign Missions (Inquisition Division only), Starswept Valley |
 | description | A metal visor favoured by the Inquisitors of the Central Authority. The perfect facewear to steel your visage from the world around you-hide your identity and emotions while retaining a look that commands authority on the field. |
 
 ## Description
