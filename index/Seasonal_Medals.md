@@ -1,6 +1,6 @@
 ---
 title: Seasonal Medals
-revid: 171768
+revid: 219235
 source: https://deepwoken.fandom.com/wiki/Seasonal_Medals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Mechanics, Hallowtide, Events]
@@ -41,6 +41,10 @@ All Hallowtide medals allow you to craft [**Hallowtide**](Hallowtide.md)\-exclus
 -   **Hallowtide '23 Medal**: Allows you to craft [Hallowtide](Hallowtide.md)\-exclusive items released during 2023.
     -   [Pumpkin Head](Pumpkin_Head.md) \[3 Knowledge\]
     -   [Mushroom Costume](Mushroom_Costume.md) \[5 Knowledge\]
+    -   [Glowshroom Costume](Mushroom_Costume.md) \[7 Knowledge\]
+    -   [Metalshroom Costume](Mushroom_Costume.md) \[7 Knowledge\]
+    -   [Charmshroom Costume](Mushroom_Costume.md) \[10 Knowledge\]
+    -   [Zapshroom Costume](Mushroom_Costume.md) \[10 Knowledge\]
     -   [Putrid Edenstaff](Putrid_Edenstaff.md) \[7 Knowledge\]
     -   [Bloodtide Trident](Bloodtide_Trident.md) \[7 Knowledge\]
     -   [Drakemaw Gauntlets](Drakemaw_Gauntlets.md) \[7 Knowledge\]

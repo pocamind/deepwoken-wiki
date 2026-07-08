@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 219193
+revid: 219225
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1327,7 +1327,7 @@ Blunt ResistanceBlunt
 -   Does **not** apply insanity.
 -   Incredibly fast and hard to react without predicting it, meaning it's rather easy to land on the least defensive type of players.
 -   Grants iframes to the user and the opponent hit for the duration of the stun.
-    -   This allows for Twisted Flames' Puppets to home in closer and for teammates using mantras such as [Eclipse Kick](Shadowcast.md#eclipse-kick) to try timing these to hit the opponent as soon as they're released.
+    -   This allows for Twisted Flames' Puppets to home in closer and for teammates using Mantras such as [Eclipse Kick](Shadowcast.md#eclipse-kick) to try timing these to hit the opponent as soon as they're released.
 -   Can be modified with Crystal/Perfect Lenses to increase the distance travelled with the lunge.
 
  |
@@ -1499,7 +1499,7 @@ Slash ResistanceSlash
 -   Deals 20 > 25 > 30 > 35 > 40 base damage on the initial hits with 1.65 Light Weapon scaling. This damage does not scale on Mantra level.
 -   After each hit, three damage ticks will follow. These scale on your Mantra's level.
     -   The secondary damage ticks deal 6.67/7.67/8.67/9.67/10.67 base damage per level, per hit (3) with 1.65 Light Weapon scaling.
--   The hitbox of this attack is shaped like a wide cone in front of you. Although the secondary slashes only hit one person, anyone inside of the hitbox of your attack will take the base damage of the mantra.
+-   The hitbox of this attack is shaped like a wide cone in front of you. Although the secondary slashes only hit one person, anyone inside of the hitbox of your attack will take the base damage of the Mantra.
 -   Can perform a maximum of 5 slashes, ending after the 5th slash, or sometimes more if you regain enough Ether during the Mantra or time slashes in a specific manner.
 -   Constantly consumes Ether while invisible.
 -   If you go too long without landing slashes, run out of Ether, or move too far away from an opponent, Ceaseless Slashes will end early.
@@ -2028,9 +2028,9 @@ Slash ResistanceSlash
 -   **Summon Cauldron** used to be one of the most powerful Mantras out there, being able to proc _Bulldozer_ for free if you movestacked it with flourish.
 -   **Exhaustion Strike** used to be able to guardbreak players and monsters by transferring posture, this of course is no longer the case.
 -   **Tacet Drop Kick** used to require 20 Strength, but was shadow changed to require 5 Strength. Similarly, **Throw** used to require 5 Strength, but was shadow changed to require 35.
--   Strangely, **Prominence Draw** deals less damage if used while your weapon is sheathed on cast or if your weapon isn't a medium weapon. This is the only weapon mantra to deal reduced damage if you aren't using the respective weapon type.
--   You can obtain and use weapon mantras from other weapon classes as long as you meet their requirements.
--   All weapon mantras used to have a requirement of 8 weapon investment.
+-   Strangely, **Prominence Draw** deals less damage if used while your weapon is sheathed on cast or if your weapon isn't a medium weapon. This is the only weapon Mantra to deal reduced damage if you aren't using the respective weapon type.
+-   You can obtain and use weapon Mantras from other weapon classes as long as you meet their requirements.
+-   All weapon Mantras used to have a requirement of 8 weapon investment.
 -   **Throw** is the only Attunement-less Mantra to have quality stars, being 2 stars.
     -   **Ceaseless Slashes** used to have 3 stars, but was changed to 0.
     -   **Rapid Punches** used to be 1 star, but was changed to 0.

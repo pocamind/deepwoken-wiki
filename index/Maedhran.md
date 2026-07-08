@@ -1,9 +1,9 @@
 ---
 title: Maedhran
-revid: 218029
+revid: 219236
 source: https://deepwoken.fandom.com/wiki/Maedhran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Vendors, NPCs located in the Eastern Luminant]
+categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Vendors]
 ---
 
 # Maedhran
@@ -36,7 +36,7 @@ The Mantra Modifiers he sells are:
 
 ## Location
 
-Maehdran can be found standing outside of the house [Maura](Maura.md) resides at [Miner's Landing](<Miner's_Landing.md>).
+Maehdran can be found in a small house near the water wheel at [Miner's Landing](<Miner's_Landing.md>).
 
 ## Dialogue
 
@@ -208,8 +208,8 @@ After every dialogue option the player is given the option to interrupt Maedhran
   <td colspan="10">Nice. That'll be [X] Notes.</td>
 </tr>
 <tr>
-  <td colspan="5">Requirements Met</td>
-  <td colspan="5">Not Enough Notes</td>
+  <td colspan="5">[Sufficient Notes]</td>
+  <td colspan="5">[Insufficient Notes]</td>
 </tr>
 <tr>
   <td colspan="5">Awesome. I'd tell you a story about my daring adventures, but that item tells its own story. Cool, huh?</td>

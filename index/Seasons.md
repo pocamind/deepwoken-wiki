@@ -1,6 +1,6 @@
 ---
 title: Seasons
-revid: 219091
+revid: 219244
 source: https://deepwoken.fandom.com/wiki/Seasons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -24,8 +24,6 @@ Seasonal mob changes also occur. For example, [Blizzard Knights](Stone_Knight.md
 
 **Months**: Hearthspan, Rootwatch
 
-Examples of Spring.
-
 -   Rain is more common.
 -   Fruits and wheat will start to spawn.
 -   Grass and Leaves are green.
@@ -33,8 +31,6 @@ Examples of Spring.
 ### Summer
 
 **Months**: Seedspan, Bloomfall
-
-Examples of Summer.
 
 -   Rain is less common.
 -   Abundant with fruits and wheat.
@@ -45,16 +41,12 @@ Examples of Summer.
 
 **Months**: Scythespan, Ardfall
 
-Examples of Autumn.
-
 -   Rain has an average chance of appearing.
 -   Grass and Leaves are orange or orange variations.
 
 ### Winter
 
 **Months**: Saltspan, Rimefall
-
-Examples of Winter.
 
 -   Snow will cover the grass and leaves.
 -   Fruits, vegetables, etc. will not spawn.

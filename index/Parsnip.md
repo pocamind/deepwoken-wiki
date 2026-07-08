@@ -1,9 +1,11 @@
 ---
 title: Parsnip
-revid: 200520
+revid: 219237
 source: https://deepwoken.fandom.com/wiki/Parsnip
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
+categories: [Celtor NPCs, Cut Content, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
+notices:
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # Parsnip
@@ -15,19 +17,19 @@ categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Easter
 | location | Miner's Landing |
 | affiliation | The Ignition Union |
 
-**[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
-
 “ Oh, you know. The weather. Things and such. What the _HELL_ do you think I'm talking about?! Do you not hear that ruckus in the upper level? ”
 
 ― Parsnip
 
 ## Description
 
-Parsnip is a [Celtor](Celtor.md) NPC. They work for the [Ignition Union](The_Ignition_Union.md).
+Parsnip was a [Celtor](Celtor.md) NPC. They worked for the [Ignition Union](The_Ignition_Union.md).
 
-He is wearing the [Ignition Welder](Ignition_Welder.md) outfit.
+He wore the [Ignition Welder](Ignition_Welder.md) outfit.
+
+## Location
+
+Parsnip was located inside of a small house near the water wheel at [Miner's Landing](<Miner's_Landing.md>).
 
 ## Dialogue
 
@@ -71,5 +73,5 @@ He is wearing the [Ignition Welder](Ignition_Welder.md) outfit.
 
 ## Trivia
 
--   When referring to something "familiar," Parsnip most likely is referencing the [Mechalodaunt](Mechalodaunt.md) to the [Megalodaunt](Megalodaunt.md). This is further proven by finding [Summer Company Goons](Summer_Goon.md) fighting [Mechalodaunts](Mechalodaunt.md) in [Saramaed Summit](Saramaed_Summit.md).
+-   When referring to something "familiar," Parsnip was most likely referencing the [Mechalodaunt](Mechalodaunt.md) to the [Megalodaunt](Megalodaunt.md). This is further proven by finding [Summer Company Goons](Summer_Goon.md) fighting [Mechalodaunts](Mechalodaunt.md) in [Saramaed Summit](Saramaed_Summit.md).
 -   Parsnip's words imply Hell as a concept exists in the world of _Deepwoken_.

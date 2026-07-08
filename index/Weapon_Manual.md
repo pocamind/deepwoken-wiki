@@ -1,6 +1,6 @@
 ---
 title: Weapon Manual
-revid: 203553
+revid: 219252
 source: https://deepwoken.fandom.com/wiki/Weapon_Manual
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Training Gear]

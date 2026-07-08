@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 219092
+revid: 219251
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions, Humanoids with Unobtainable Outfits]
@@ -12,7 +12,7 @@ categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, 
 |---|---|
 | health | 70000 (+10k per player) |
 | drops | Chest (see loot pool), Titus's Cape, Titus's Raiment, Titus' Armor Piece, Edenbrand Hellcoil, Worldpiercer Gauntlets, Evanspear War Set, Shock Trooper Set, Western Outlaw Set, Might and Wrath Gems (guaranteed), Several Enchant Stones |
-| moves | The Legion's Martial Arts, Worldpiercing Deluge, Worldshattering Smackdown, Commander's Rage, Commander's Whirlthrow, Vengeful Rushdown, Sovereign Drive, Skycrash, Wrathful Stomp, Warp Kick, Blighted Sparks, Chorus Divide: Shattering Crescendo |
+| moves | The Legion's Martial Arts, Worldpiercing Deluge, Worldshattering Smackdown, Commander's Rage, Commander's Whirlthrow, Vengeful Rushdown, Sovereign Drive, Skycrash, Wrathful Stomp, Warp Kick, Thunder Volley, Chorus Divide: Shattering Crescendo |
 | aspect | Khan |
 | pronouns | He/him |
 | affiliation | The Hundred Legions, 49th Legion |

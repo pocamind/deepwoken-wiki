@@ -1,9 +1,11 @@
 ---
 title: Kressa
-revid: 216679
+revid: 219238
 source: https://deepwoken.fandom.com/wiki/Kressa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Ignition Union]
+categories: [Khan NPCs, Individuals with She/her pronouns, Cut Content, NPCs, NPCs located in the Eastern Luminant, The Ignition Union]
+notices:
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # Kressa
@@ -16,17 +18,13 @@ categories: [Khan NPCs, Individuals with She/her pronouns, Pathfinder Exclusive,
 | location | Miner's Landing |
 | affiliation | The Ignition Union |
 
-**[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
-
 ## Description
 
-Kressa is a [Khan](Khan.md) NPC. She is a member of [The Ignition Union](The_Ignition_Union.md).
+Kressa was a [Khan](Khan.md) NPC. She was a member of [The Ignition Union](The_Ignition_Union.md).
 
 ## Location
 
-Kressa is located inside of the board room climbing up from [Miner's Landing](<Miner's_Landing.md>).
+Kressa was located inside of the board room climbing up from [Miner's Landing](<Miner's_Landing.md>).
 
 ## Dialogue
 

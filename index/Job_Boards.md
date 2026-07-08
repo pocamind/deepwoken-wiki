@@ -1,11 +1,9 @@
 ---
 title: Job Boards
-revid: 201758
+revid: 219250
 source: https://deepwoken.fandom.com/wiki/Job_Boards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Quests, Mechanics]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Quests, Mechanics]
 ---
 
 # Job Boards
@@ -28,10 +26,10 @@ Territories fully controlled by a single faction (e.g., [Fort Merit](Fort_Merit.
 
 _Jobs relating to Erisia can be given by [Etrea](Etrea.md) [Etreaiconfaction](Etrea.md), [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md), and [The Hundred Legions](The_Hundred_Legions.md) ._
 
--   **A Daunting Task** : _A Megalodaunt has been spotted in the region. With due caution, a price has been placed upon its head._
+-   (From [Etreaiconfaction](Etrea.md) ) **A Daunting Task** : _A Megalodaunt has been spotted in the region. With due caution, a price has been placed upon its head._
     -   Tasks the player with slaying a [Megalodaunt](Megalodaunt.md).
 
--   [Authorityiconfaction](The_Central_Authority.md) **Authority Patrol** : _Authority scouts have been spotted in the region. A reward has been promised to whoever can send them packing._
+-   (From [Navaeiconfaction](The_Children_of_Navae.md) [Etreaiconfaction](Etrea.md) ) [Authorityiconfaction](The_Central_Authority.md) **Authority Patrol** : _Authority scouts have been spotted in the region. A reward has been promised to whoever can send them packing._
     -   Tasks the player with defeating two [Authority Officers](Authority_Officer.md) and two [Authority Soldiers](Authority_Soldier.md).
 
 -   **Black Feathers** :
@@ -43,7 +41,7 @@ _Jobs relating to Erisia can be given by [Etrea](Etrea.md) [Etreaiconfaction](Et
 -   **Forge Recall** : _In order to prevent one of the Duke's creations from reporting back to him, a reward is being offered for its destruction._
     -   Tasks the player with slaying a [Stonespark](Stonespark.md).
 
--   (From [Navaeiconfaction](The_Children_of_Navae.md) ) [Knives of Eylis](The_Knives_of_Eylis.md) **Knife To Antler** : _Knives hired by the Authority have captured a travelling party of Navaen nomads. Free them._
+-   (From [Navaeiconfaction](The_Children_of_Navae.md) [Etreaiconfaction](Etrea.md) ) [Knives of Eylis](The_Knives_of_Eylis.md) **Knife To Antler** : _Knives hired by the Authority have captured a travelling party of Navaen nomads. Free them._
     -   Tasks the player with defeating three [Knife of Eylis](Knife_of_Eylis.md)'.
 
 -   (From: [Authorityiconfaction](The_Central_Authority.md) [Etreaiconfaction](Etrea.md) ) [Authorityiconfaction](The_Central_Authority.md) [Etreaiconfaction](Etrea.md) **The Eastern Conflict** : _The Authority have mounted an assault but have been ambushed by a contingent of Etrean soldiers. Lend your blade._
@@ -75,8 +73,8 @@ _Jobs relating to Summer Isle can be given by [The Summer Company](The_Summer_Co
 
 _Jobs relating to the Starswept Valley can be given by [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md), [The Hive](The_Hive.md) [Hiveiconfaction](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), and [The Hundred Legions](The_Hundred_Legions.md) ._
 
--   **Aratel's Blood**
-    -   Tasks the player with defeating three enemy soldiers, either three [Hive Scouts](Hive_Scout.md) or three [Vigil Swordsmans](Vigil_Swordsman.md).
+-   (From [Hiveiconfaction](The_Hive.md) ) [Etreaiconfaction](Etrea.md) [Hiveiconfaction](The_Hive.md) **Aratel's Blood**
+    -   Tasks the player with defeating three enemy soldiers, either three [Hive Scouts](Hive_Scout.md) or three [Etrean Soldiers](Etrean_Soldier.md).
 
 -   (From [Navaeiconfaction](The_Children_of_Navae.md) ) [Authorityiconfaction](The_Central_Authority.md) **Authority Patrol** : _Authority scouts have been spotted in the region. A reward has been promised to whoever can send them packing._
     -   Tasks the player with defeating two [Authority Officers](Authority_Officer.md) and two [Authority Soldiers](Authority_Soldier.md).
@@ -84,7 +82,7 @@ _Jobs relating to the Starswept Valley can be given by [The Central Authority](T
 -   (From [Authorityiconfaction](The_Central_Authority.md) ) [Authorityiconfaction](The_Central_Authority.md) **Clash Of Empires** : _Tensions between the Hundred Legions and the Central Authority have come to a head. A dispute between soldiers of the rival empires has exploded into a bloodbath. Put a stop to this._
     -   Tasks the player with defeating two enemy soldiers, either two [Legion Soldiers](Legion_Soldier.md) or two [Authority Officers](Authority_Officer.md).
 
--   **Lodestar Bounty** : _A mysterious figure wielding a bow and wandering around aimlessly has been causing a surprising amount of trouble. A reward is offered to whoever can put a stop to this madness._
+-   (From [Authorityiconfaction](The_Central_Authority.md) ) **Lodestar Bounty** : _A mysterious figure wielding a bow and wandering around aimlessly has been causing a surprising amount of trouble. A reward is offered to whoever can put a stop to this madness._
     -   Tasks the player with defeating [Lodestar](Lodestar.md).
 
 -   (From [Authorityiconfaction](The_Central_Authority.md) [Hiveiconfaction](The_Hive.md) ) [Authorityiconfaction](The_Central_Authority.md) [Hiveiconfaction](The_Hive.md) **Restricted Technology**

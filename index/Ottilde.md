@@ -1,6 +1,6 @@
 ---
 title: Ottilde
-revid: 195944
+revid: 219233
 source: https://deepwoken.fandom.com/wiki/Ottilde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Ignition Union]
@@ -22,7 +22,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Ottilde is a Chrysid NPC. She is a worker of [The Ignition Union](The_Ignition_Union.md).
+Ottilde is a [Chrysid](Chrysid.md) NPC. She is a worker of [The Ignition Union](The_Ignition_Union.md).
 
 Ottilde has known nothing but the Union since she was born.
 
@@ -58,7 +58,7 @@ Ottilde is located at [Miner's Landing](<Miner's_Landing.md>) right in front of 
   <td colspan="4">Mum lived in the Isles in her youth, surrounded by this deeply extensive family that I could only dream of. It's all she ever spoke about. The festivities, the meals, the dances, all shared together. She'd gush on and on about stories of whatever mischievous antics she and her thrice-removed cousins got up to, or some gossip about the tales of some estranged Aunt. But as she grew older, so did her memory. Her brow would just... furrow... and her lips would purse, telling fewer details of each story, fading, muddling.</td>
 </tr>
 <tr>
-  <td colspan="2">Why'd she the Isles leave to come here? [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>]</td>
+  <td colspan="2">Why'd she leave the Isles to come here?</td>
   <td colspan="2">Festivities?</td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@ Ottilde is located at [Miner's Landing](<Miner's_Landing.md>) right in front of 
 </tr>
 <tr>
   <td colspan="2">Well, I hope you're alright.</td>
-  <td colspan="2">Why'd she the Isles leave to come here? [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>]</td>
+  <td colspan="2">Why'd she leave the Isles to come here?</td>
 </tr>
 <tr>
   <td colspan="2"><i>*She trails off, pensive.*</i> I've my motivations to keep me going - I'll find my way there, trust me.</td>

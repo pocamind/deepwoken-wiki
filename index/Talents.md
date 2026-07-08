@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 219200
+revid: 219239
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4056,11 +4056,13 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Both Ends \[Common Talent, Weapon Talent, Medium Weapon\] - Pressing M2 after landing a light attack with the staff performs a follow-up swing from the opposite end.
     -   This attack comes out much faster, but only deals 45% of your weapon damage.
     -   This has the M1 tag, allowing it to proc M1-exclusive Talents and [Enchantment](Enchantments.md) effects.
+    -   This has a 1 second cooldown. This cooldown is shared with [Counter Spin](#counter-spin).
     -   Prerequisite: Equip any [Staff](Staves.md); this Talent is a weapon Talent.
 
 -   Counter Spin \[Common Talent, Medium Weapon\] - After blocking an attack, press M2 to counter with your staff.
     -   On proc, swiftly thrust your Staff forwards, dealing 45% of your weapon's damage on hit.
     -   This has the M1 tag, allowing it to proc M1-exclusive Talents and [Enchantment](Enchantments.md) effects.
+    -   This has a 1 second cooldown. This cooldown is shared with [Both Ends](#both-ends).
     -   Prerequisites: [Staff](Staves.md) equipped, 35 Medium Weapon
 
 ### Vanguard Techniques

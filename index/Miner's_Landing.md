@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing"
-revid: 215775
+revid: 219202
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant, Territory of The Ignition Union]
@@ -44,7 +44,7 @@ Miner's Landing's Docks.
 
 ### Town
 
-The town is one of the main parts of Miner's Landing. Buildings throughout the town are the Pub, [Antiquarian](Antiquarian.md), [Inn](Inn.md), and an unnamed building containing a Celtor named [Parsnip](Parsnip.md). A blacksmith and a well are found in the town. No monsters or enemy factions spawn in the town. There's a bank where you can turn in [artifacts](Artifacts.md) and buy the [Ignition Union Uniform](Ignition_Union_Uniform.md) for 50 notes.
+The town is one of the main parts of Miner's Landing. Buildings throughout the town are the Pub, [Antiquarian](Antiquarian.md), [Inn](Inn.md), and an unnamed building. A blacksmith and a well are found in the town. No monsters or enemy factions spawn in the town. There's a bank where you can turn in [artifacts](Artifacts.md) and buy the [Ignition Union Uniform](Ignition_Union_Uniform.md) for 50 notes.
 
 Behind the water wheel there is a room that contains a few NPCs that give quests, and [Delta](Delta.md) who gives the [Arcwarder](Oath%253A_Arcwarder.md) [Oath](Oaths.md). Taking an elevator up, you can find [Calypso](Calypso.md). The area ahead of this part is the Upper Landing.
 

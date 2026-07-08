@@ -1,6 +1,6 @@
 ---
 title: Blacksmith
-revid: 213289
+revid: 219234
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Vendors, NPCs, Humanoids with Unobtainable Outfits]
@@ -21,7 +21,7 @@ categories: [Individuals with He/him pronouns, Vendors, NPCs, Humanoids with Uno
 
 ## Description
 
-The Blacksmiths are stationary NPCs found in numerous towns across Lumen. They are the primary station used to craft and manage [Outfits](Outfits.md). They are also the leading source of [Cloth](Cloth.md) and [Fiber](Fiber.md), essential to craft Outfits, as well as selling utility tools.
+Blacksmith are stationary NPCs found in numerous towns across Lumen. They are the primary station used to craft and manage [Outfits](Outfits.md). They are also the leading source of [Cloth](Cloth.md) and [Fiber](Fiber.md), essential to craft Outfits, as well as selling utility tools.
 
 Blacksmiths have 3 functions: opening the [Outfits](Outfits.md) menu, crafting [Seasonal Medals](Seasonal_Medals.md), and exchanging [Pure Ores](Ores.md) for moderate-tier loot. Additionally, they sell:
 
@@ -85,6 +85,10 @@ Smithy's Supplies
   <td><center><figure><figcaption></figcaption></figure>20 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
   <td><div>Iron</div><div><i>A crucial ore in blacksmithing, foundational to hundreds of alloys.</i></div></td>
 </tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>50 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Gold</div><div><i>A rare and precious ore found deep beneath the ground.</i></div></td>
+</tr>
 </tbody>
 </table>
 
@@ -103,10 +107,6 @@ Smithy's Tools
 <tr>
   <td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
   <td><div>Flint</div><div><i>A sharp flint and a scrap of pyrite used for starting fires.</i></div></td>
-</tr>
-<tr>
-  <td><center><figure><figcaption></figcaption></figure>50 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
-  <td><div>Gold</div><div><i>A rare and precious ore found deep beneath the ground.</i></div></td>
 </tr>
 </tbody>
 </table>

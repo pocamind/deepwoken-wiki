@@ -1,6 +1,6 @@
 ---
 title: Maura
-revid: 218277
+revid: 219232
 source: https://deepwoken.fandom.com/wiki/Maura
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Reputation]
@@ -31,7 +31,7 @@ The Pathfinder can pay them up to 1,200 to restore their reputation back to neut
 
 ## Location
 
-Maura is located inside of a house going up the Union Hook at [Miner's Landing](<Miner's_Landing.md>).
+Maura is located inside of the pub at [Miner's Landing](<Miner's_Landing.md>)
 
 ## Dialogue
 

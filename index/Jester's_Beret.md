@@ -1,9 +1,9 @@
 ---
 title: "Jester's Beret"
-revid: 215879
+revid: 219231
 source: https://deepwoken.fandom.com/wiki/Jester's_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Equipment, Head, Craftable, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
+categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Head, Craftable, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
 ---
 
 # Jester's Beret
@@ -15,6 +15,7 @@ categories: [Pathfinder Exclusive, Equipment, Head, Craftable, Hats, Equipment w
 | selling price | 100 |
 | requirements | Power 10 |
 | weight | 1 |
+| styles | Chaos, Joker, Mono, Rogue, Wishmaker |
 | innate stats | +3 Health , +10 Ether , +2 Rare Pips, +1 Legendary Pip |
 | innate talent | Cap ArtistJester's Ruse |
 | bankable | No |
@@ -37,6 +38,8 @@ The Jester's Beret is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) Un
 The [Jester's Ruse](Talents.md#jesters-ruse) Talent has a 10% chance to nullify incoming **and** outgoing damage on hit.
 
 The [Cap Artist](Talents.md#cap-artist) Talent allows you to press Comma while crouching to ragdoll your character and put yourself into a sleep-like state where you cannot move or use any abilities. Pressing Comma again will deactivate this ability. Cap Artist's hotkey can be changed in settings.
+
+  
 
 ## Navigation
 
