@@ -1,6 +1,6 @@
 ---
 title: Settings
-revid: 219090
+revid: 219181
 source: https://deepwoken.fandom.com/wiki/Settings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -90,6 +90,8 @@ These Keybinds will only appear if you have the respective ability.
 -   Hotbar Slot 8 - 8 / Unbound
 -   Hotbar Slot 9 - 9 / Unbound
 -   Hotbar Slot 10 - 0 / Unbound
+-   Hotbar Slot 11 - \- / Unbound
+-   Hotbar Slot 12 - \= / Unbound
 
 * * *
 
@@ -105,30 +107,30 @@ _The button names may be different depending on console type._
 
 **Xbox:**
 
--   Camera Lock / Lock On - R3
+-   Camera Lock / Lock On - RSB
 -   Interact - X
--   Open Map - L2 + View
+-   Open Map - LT + View
 -   Summon Ship - N
 
 * * *
 
 -   Jump - A
--   Crouch - L3
+-   Crouch - LSB
 -   Gesture / Emote - Unbound
 
 * * *
 
--   Basic Attack - R1
--   Offhand Attack - L2
--   Critical Attack - R2
--   Block / Parry - L1
+-   Basic Attack - RB
+-   Offhand Attack - LT
+-   Critical Attack - RT
+-   Block / Parry - LB
 -   Change Stance - Unbound
--   Reload Gun - L2
--   Air Counter \[Midair\] - A + L2
+-   Reload Gun - LT
+-   Air Counter \[Midair\] - LT
 
 * * *
 
--   Feint / Cancel - L2
+-   Feint / Cancel - LT
 -   Dodge - B
 -   Vent - Y
 
@@ -160,13 +162,13 @@ These Keybinds will only appear if you have the respective ability.
 -   [Arc Module: Null](Oath%253A_Arcwarder.md#arc-module-null) - Unbound
 -   [Shaper Swap](Oath%253A_Visionshaper.md#shaper-swap) - Unbound
 -   [Reality Shift](Oath%253A_Visionshaper.md#reality-shift) - Unbound
--   [Chainlash](Oath%253A_Chainwarden.md#chainlash) - L2
+-   [Chainlash](Oath%253A_Chainwarden.md#chainlash) - LT
 
 * * *
 
--   Angle Sails Left - L1
--   Angle Sails Right - R1
--   Fire Cannon - R1
+-   Angle Sails Left - LB
+-   Angle Sails Right - RB
+-   Fire Cannon - RB
 
 * * *
 
@@ -174,12 +176,12 @@ These Keybinds will only appear if you have the respective ability.
 -   Hotbar Slot 2 - ↑ DPAD
 -   Hotbar Slot 3 - → DPAD
 -   Hotbar Slot 4 - ↓ DPAD
--   Hotbar Slot 5 - L2 + ← DPAD
--   Hotbar Slot 6 - L2 + ↑ DPAD
--   Hotbar Slot 7 - L2 + → DPAD
--   Hotbar Slot 8 - L2 + ↓ DPAD
--   Hotbar Slot 9 - L2 + X
--   Hotbar Slot 10 - L2 + Y
+-   Hotbar Slot 5 - LT + ← DPAD
+-   Hotbar Slot 6 - LT + ↑ DPAD
+-   Hotbar Slot 7 - LT + → DPAD
+-   Hotbar Slot 8 - LT + ↓ DPAD
+-   Hotbar Slot 9 - LT + X
+-   Hotbar Slot 10 - LT + Y
 
 * * *
 
@@ -210,7 +212,7 @@ These Keybinds will only appear if you have the respective ability.
 -   Block / Parry - L1
 -   Change Stance - Unbound
 -   Reload Gun - L2
--   Air Counter \[Midair\] - X + L2
+-   Air Counter \[Midair\] - L2
 
 * * *
 

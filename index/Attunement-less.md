@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 216516
+revid: 219161
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -712,7 +712,7 @@ Blunt ResistanceBlunt
  |
 | 
 
-**Dash** (☆☆☆)
+**Agile Dash** (☆☆☆)
 
 **Mobility Mantra**
 
@@ -720,7 +720,7 @@ _An agile dash._
 
  | 
 
-## Dash (☆☆☆)
+## Agile Dash (☆☆☆)
 
   
 **Mobility Mantra**  

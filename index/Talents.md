@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 219149
+revid: 219179
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2183,7 +2183,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Jetstriker
 
--   [**Oath: Jetstriker**](Oath%253A_Jetstriker.md) - You vow to flow with the Song itself, drifting across where the trails may take you. If the Song permeates everything, then let it be your conduit, and you its master. (+1 Wildcard Mantra Slot, +1 Mobility Mantra Slot, +8 Passive Agility, +5% PEN)
+-   [**Oath: Jetstriker**](Oath%253A_Jetstriker.md) - You vow to flow with the Song itself, drifting across where the trails may take you. If the Song permeates everything, then let it be your conduit, and you its master. (+1 Wildcard Mantra Slot, +1 Mobility Mantra Slot, +5% PEN)
     -   Prerequisites: 50 Agility, beat [Alirian](Alirian.md) in a race.
 
 -   Acceleration Points \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - Striking an opponent in the back with mobility mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] or Basic Attacks now steals and grants additional momentum.
@@ -2200,11 +2200,11 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   When proccing on non-humanoid NPCs, sends you to the center of the NPC's hitbox.
     -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
 
--   Rush of Ancients \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - Dashing at maximum sprint momentum makes you one with the wind itself. (+4 Passive Agility)
+-   Rush of Ancients \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - Dashing at maximum sprint momentum makes you one with the wind itself.
     -   Extends your dash distance and makes you invisible for a very brief duration when you dash.
     -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
 
--   Stratos Step \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - Holding space while climbing will now let your perform Stratos Steps to get even higher. (+5 Health, +3 Passive Agility)
+-   Stratos Step \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - Holding space while climbing will now let your perform Stratos Steps to get even higher. (+5 Health)
     -   Stratos Steps will only proc twice before going on a cooldown. Said cooldown applies to individual steps. Additionally, Stratos Step consumes Ether per step.
     -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
 
@@ -3146,7 +3146,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Scholar of the Cloud
 
--   _Windwaker_ \[Quest Talent, Galebreathe\] - Call upon a gust of wind to propel your boat even faster.
+-   _Windwaker_ \[Quest Talent, Galebreathe\] - Call upon a gust of wind to propel your boat even faster. (Around 5x faster than normal.)
+    -   60 second cooldown.
     -   The ability can be used as long as the player is standing on a boat, even if not in control.
     -   Сannot be used in combat.
     -   Prerequisites: 15 Galebreathe, [Stratos](Stratos.md)' quest.
@@ -4668,7 +4669,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 
 -   Fleetfoot: [Carefree Garments](Carefree_Garments.md) - Gain an initial speed boost when slide jumping.
 
--   Focused Hematoma: [Sanguine Finery](Sanguine_Finery.md) - Decrease outside sources of blood loss by 25% but reduce the amount of temporary health you receive by 15%.
+-   Focused Hematoma: [Sanguine Finery](Sanguine_Finery.md) - Decrease outside sources of blood loss by 25% and increase the amount of temporary health you receive by 15%.
 
 -   Focused Strikes: [Gale Enhanced Beads](Gale_Enhanced_Beads.md) & [Hallowed Monastery Beads](Hallowed_Monastery_Beads.md) - All criticals deal 15% more posture damage.
 

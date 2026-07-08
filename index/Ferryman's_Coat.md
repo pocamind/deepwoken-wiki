@@ -1,6 +1,6 @@
 ---
 title: "Ferryman's Coat"
-revid: 213694
+revid: 219173
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Outfits with Talents, Outfits with Exclusive Talents]
@@ -18,7 +18,7 @@ categories: [Outfits, Unique Outfits, Outfits with Talents, Outfits with Exclusi
 | bankable | Yes |
 | droppable | No |
 | durability | 2500 |
-| resistances | +20% Physical Armor , +5% Blunt Armor , +35% Elemental Armor , +25% Lightning Armor , +5% Wind Armor |
+| resistances | +25% Physical Armor , +5% Blunt Armor , +35% Elemental Armor , +25% Lightning Armor , +5% Wind Armor |
 | buffs | +50% Ether Regen |
 | talents | Ferryman's Curse |
 | obtainment | The Ferryman |
@@ -38,9 +38,9 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 12
 
 ### _Armor Stats_
 
-This Outfit has 2500 durability and grants +20% Physical resistance ResistanceBlunt ResistanceSlash, +5% Blunt Resisistance ResistanceBlunt, +35% Elemental resistance [ResistanceElemental](Attunements.md), +25% Lightning resistance [ResistanceThundercall](Thundercall.md), +5% Wind resistance [ResistanceGalebreathe](Galebreathe.md), and +50% Ether Regen [IconEther](Ether.md).
+This Outfit has 2500 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +5% Blunt Resisistance ResistanceBlunt, +35% Elemental resistance [ResistanceElemental](Attunements.md), +25% Lightning resistance [ResistanceThundercall](Thundercall.md), +5% Wind resistance [ResistanceGalebreathe](Galebreathe.md), and +50% Ether Regen [IconEther](Ether.md).
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 24% Blunt ResistanceBlunt, 20% Slash ResistanceSlash, 51.25% Thundercall [ResistanceThundercall](Thundercall.md), 38.25% Galebreathe [ResistanceGalebreathe](Galebreathe.md), and 35% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md).
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28.75% Blunt ResistanceBlunt, 25% Slash ResistanceSlash, 51.25% Thundercall [ResistanceThundercall](Thundercall.md), 38.25% Galebreathe [ResistanceGalebreathe](Galebreathe.md), and 35% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md).
 
 The Outfit provides the [Ferryman's Curse](Talents.md#ferrymans-curse) Talent, which has a 20% chance to convert incoming elemental damage into Lightning damage.
 

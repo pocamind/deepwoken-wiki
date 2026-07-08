@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 204338
+revid: 219175
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Legendary Weapons, "Attunement-based Weapons", Fists, Light Weapons, Weapons with multiple Criticals]
@@ -21,7 +21,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals 
 | swing speed | 1.1x |
 | attack duration | 0.5s |
 | penetration | 10% |
-| chip damage | 25% |
+| chip damage | 15% |
 | special effect | Aftercut is applied to all attacks. |
 | m.equip | No |
 | m.extract | No |

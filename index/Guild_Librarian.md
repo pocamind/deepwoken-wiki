@@ -1,6 +1,6 @@
 ---
 title: Guild Librarian
-revid: 191458
+revid: 219189
 source: https://deepwoken.fandom.com/wiki/Guild_Librarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Guild Base]
@@ -92,3 +92,7 @@ The **Guild Librarian** is an NPC located inside of [Guild Bases](Guild_Bases.md
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   The cooldown between donating books lasts for around a minute and a half and is shared between guild members.

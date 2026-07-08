@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 218392
+revid: 219178
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -11,7 +11,7 @@ categories: [Oaths]
 | Oath: Jetstriker | |
 |---|---|
 | oath_req | 50 Agility |
-| effects | +1 Wildcard Mantra, +1 Mobility Mantra, +8 Passive Agility, +5% PENAll Talents Effects, +5 Health, +5 Ether, +12 Passive Agility |
+| effects | +1 Wildcard Mantra, +1 Mobility Mantra, +5% PENAll Talents Effects, +5 Health, +5 Ether |
 
 _For the version that existed prior to March 29, 2024, see [here](Oath%253A_Jetstriker/Old_Jetstriker.md)._
 
@@ -94,7 +94,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ## Effects
 
-On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot, +5% PEN, and +8 Passive Agility. You will gain a new GUI identical to [Oath: Blightsurger](Oath%253A_Blightsurger.md), this however represents your "[momentum](#abilites)". You will also visually gain two dyable "Jetstriker Anklets" at your feet, and your eyes will now default to a slight desaturated light blue when undyed. (Images below) The talents will additionally provide you with a passive: +5 Health, +5 Ether, and +12 Passive Agility.
+On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot, and +5% PEN. You will gain a new GUI identical to [Oath: Blightsurger](Oath%253A_Blightsurger.md), this however represents your "[momentum](#abilites)". You will also visually gain two dyable "Jetstriker Anklets" at your feet, and your eyes will now default to a slight desaturated light blue when undyed. (Images below) The talents will additionally provide you with a passive: +5 Health, +5 Ether, and +12 Passive Agility.
 
 ## Abilities
 
@@ -111,7 +111,7 @@ On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot
 
 ### Talents
 
--   **Acceleration Points** - Striking an opponent in the back with mobility mantras or basic attacks now steals and grants additional momentum. (+5 Passive Agility)
+-   **Acceleration Points** - Striking an opponent in the back with mobility mantras or basic attacks now steals and grants additional momentum.
     -   Provides a slow effect on the opponent for 2.5 seconds, seemingly also preventing momentum gain.
     -   Activated by landing any basic attack, uppercut, flourish, or critical attack behind an opponent.
         -   While critical attacks do proc Acceleration Points, they will not benefit from any additional momentum gain to the user. (Other than the pre-existing 50%)
@@ -132,7 +132,7 @@ On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot
     -   Flourishes procced from specific talents such as [Emperor's Flame](Flamecharm.md#the-emperors-blade) can also activate this talent.
     -   Has a cooldown of 15 seconds.
 
--   **Stratos Step** - While wall-boosting, hold space and at the end of the wall-boost, and you will be boosted further upwards. (+5 Health, +3 Passive Agility)
+-   **Stratos Step** - While wall-boosting, hold space and at the end of the wall-boost, and you will be boosted further upwards. (+5 Health)
     -   Hold space while climbing to create up to two "steps" that boost you, and other players upwards.
         -   In combat you are currently only limited to one "step". (Possibly a bug)
     -   [Kick Off](Talents.md#kick-off) is greatly recommended as you do not normally gain any fall damage resistance.
@@ -140,7 +140,7 @@ On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot
     -   In combat: has a cooldown of 6 seconds. (Bugged, should be 6-11 seconds, cf. 03/08/2025 patch notes)
     -   Outside combat: has a cooldown of 5-10 seconds, scaling linearly by user's remaining HP.
 
--   **Rush of Ancients** - Dashing at maximum sprint momentum makes you one with the wind itself. (+4 Passive Agility)
+-   **Rush of Ancients** - Dashing at maximum sprint momentum makes you one with the wind itself.
     -   Sprinting at maximum momentum, now buffs your rolls/air dashes, increasing distance by 75%, and briefly turning the user invisible.
     -   Jumping the frame after rolling increases the distance by an additional 70%.
     -   Other dash boosting talents such as [Phantom Step](Talents.md#phantom-step) with Rush of Ancients will stack, further increasing the roll's distance.
