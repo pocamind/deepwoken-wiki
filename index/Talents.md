@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 219239
+revid: 219381
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3293,9 +3293,10 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Shock Therapy
 
--   Grounding Bolt \[Common Talent, Thundercall, Weapon\] - Anytime you summon a lightning strike on your opponent, apply knockdown if it lands.
-    -   10 second cooldown.
-    -   Storm Strikes from the [Specialist Set](Specialist_Helmet.md) Talents, [Storm](Storm.md)/[Stormbreaker](Stormbreaker.md) Enchants during the rain, Scorched Peak, Fulgurite Formation's lightning strikes all proc this Talent.
+-   Grounding Bolt \[Common Talent, Thundercall, Weapon\] - Anytime you summon a lightning strike on your opponent, disable their ability to jump. Uppercutting your opponent while they are unable to jump now strikes them with another bolt of lightning.
+    -   Makes the opponent unable to jump for 10 seconds. This effect's duration resets upon subsequent eligible lightning strike hits.
+        -   Eligible lighting strikes include: Storm Strikes from [Volt Draft](#volt-draft) and [Shock Trooper Specialist](#shock-trooper-specialist), [Storm](Storm.md)/[Stormbreaker](Stormbreaker.md) Enchants during the rain, [Scorched Peak](#scorched-peak), and [Fulgurite Formation](#fulgurite-formation).
+    -   Grounding Bolt's lightning strikes deal 15 Thundercall damage. This has no cooldown, and triggers of _any_ uppercut, including Mantras with the uppercut tag.
     -   Prerequisites: 90 Thundercall, 90 Weapon (90 Light // 90 Medium // 90 Heavy)
 
 ### Showboater

@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 219206
+revid: 219345
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -584,7 +584,7 @@ Dialogue: [Artus](Artus.md), [Ishan](Ishan.md), [Karliah](Karliah.md), [Yakob](Y
 -   They are known for their fierce loyalty, and frequently for their ferocity and combat prowess - lending them a reputation as powerful warriors. Often found as guards, generals, and loyal servants of the powerful.
 -   Historically, various Canor kingdoms and polities were subsumed and incorporated into the [Central Authority](#the-central-authority), and its predecessor empires. As a result, many Canor have adopted positions within its councils of governance.
 
-Dialogue: [Commander Morredh](Commander_Morredh.md), [The Foreman](The_Foreman.md), [Sawbones](Sawbones.md) | Books: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries:
+Dialogue: [Commander Morredh](Commander_Morredh.md), [The Foreman](The_Foreman.md), [Sawbones](Sawbones.md), [Schnitzel](Mantra_Collector.md) | Books: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries:
 
 ### Pathfinders
 

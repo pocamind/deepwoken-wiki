@@ -1,6 +1,6 @@
 ---
 title: Maljuror Jougs
-revid: 210586
+revid: 219372
 source: https://deepwoken.fandom.com/wiki/Maljuror_Jougs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso]

@@ -1,6 +1,6 @@
 ---
 title: High Monk Junsui
-revid: 213824
+revid: 219382
 source: https://deepwoken.fandom.com/wiki/High_Monk_Junsui
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs, Deceased characters, Circle of Honour members]
@@ -230,6 +230,8 @@ High Monk Junsui is located inside of [The Golden Rat](The_Golden_Rat.md), stand
 
 -   Junsui is a Japanese name meaning "pure".
     -   It was partially chosen due to resembling the name "Jinshi", a character in _The Apothecary Diaries_, a historical drama novel, manga and anime series set in a fictionalized version of Tang Dynasty China.
+-   Junsui has a unique Iron Memento on his braided sash.
+    -   This same unique Iron Memento can also be found in Nagatony's Picture Booth.
 
 ## References
 

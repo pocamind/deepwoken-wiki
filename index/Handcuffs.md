@@ -1,6 +1,6 @@
 ---
 title: Handcuffs
-revid: 219262
+revid: 219375
 source: https://deepwoken.fandom.com/wiki/Handcuffs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Fists, Light Weapons, Weapons with Unique Animations]
@@ -32,7 +32,7 @@ categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons,
 | obtainment | Being killed by an Authority Ensign player. |
 | description | Your trusty weapon. |
 
-_For the page about esaping the [Prison Tower](Fort_Merit.md#prison-tower) after being jailed by an [Authority Ensign](Authority_Ensign.md) or other Authority NPCs, refer to the [Escaping Jail](Fort_Merit.md#escaping-jail) page._
+_For the page about esaping the [Prison Tower](Fort_Merit.md#prison-tower) after being jailed by an [Authority Ensign](Authority_Ensign.md) or other Authority NPCs, see [here](Fort_Merit.md#escaping-jail)._
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 218039
+revid: 219380
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1033,7 +1033,11 @@ These Talents are found in the _Shock Therapy_ category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Grounding Bolt  
-(90 Thundercall, 90 Weapon) | Anytime you summon a lightning strike on your opponent, apply knockdown if it lands. | Has a 10 second cooldown. Only lightning strikes from the following abilities proc this Talent: [Shock Trooper Specialist](Talents.md#shock-trooper-specialist) set Talent, [Volt Draft](Specialist_Helmet.md) Talent, [Scorched Peak](Talents.md#scorched-peak), and [Fulgurite Formation](Talents.md#fulgurite-formation). |
+(90 Thundercall, 90 Weapon) | Anytime you summon a lightning strike on your oppponent, disable their ability to jump. Uppercutting your opponent while they are unable to jump now strikes them with another bolt of lightning. | Makes the opponent unable to jump for 10 seconds, refreshing its duration if procced while active. Grounding Bolt's lightning strikes deal 15 Thundercall damage with no cooldown, applying upon landing _any_ uppercut ability, including uppercut-tagged Mantras.  
+  
+Eligible lighting strikes include: Storm Strikes from [Volt Draft](Talents.md#volt-draft) and [Shock Trooper Specialist](Talents.md#shock-trooper-specialist), [Storm](Storm.md)/[Stormbreaker](Stormbreaker.md) Enchants during the rain, [Scorched Peak](Talents.md#scorched-peak), and [Fulgurite Formation](Talents.md#fulgurite-formation).
+
+ |
 
 **Static Weaver:**
 

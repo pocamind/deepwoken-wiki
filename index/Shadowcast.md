@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 217481
+revid: 219364
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -377,6 +377,7 @@ Blunt ResistanceBlunt (Slam)
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
 -   [Drift](Mantra_Modifiers.md#regular-modifiers) and [Rush Shards](Mantra_Modifiers.md#regular-modifiers) increase projectile speed.
 -   [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) increase range.
+-   You cannot cast Mantras while Rising Shadow is active.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), removing the damage to apply the [Shadowed Touch](Status_Effects.md#shadowed-touch) status effect. This effect massively increases your opponent's Mantra Ether cost and returns a portion of that Ether to you. If your Ether is full when they cast a Mantra, the Ether gained will overflow into your Tempo instead and you will emit a wave of shadow.
 
  |
@@ -417,6 +418,7 @@ Shadow [ResistanceShadowcast](Shadowcast.md)
 -   Has a 15 second cooldown.
 -   Has 9.179x PvE scaling (multiply damage dealt by 9.179 to get PvE damage).
 -   You cannot cast Mantras while Shadow Meteor is active.
+-   Using a Crits immediately cancels Shadow Meteor.
 -   Shares a cooldown with [Shadow Seekers](Shadowcast.md#shadow-seekers).
 
  |
@@ -540,7 +542,7 @@ Mult. Spark: Blunt ResistanceBlunt (1st Hit), Shadow [ResistanceShadowcast](Shad
     -   This is dealt as a separate instance of damage, meaning people with [Risky Moves](Talents.md#risky-moves), [Ghost](Talents.md#ghost), or [Dark Rift](Talents.md#dark-rift) can dodge it getting hit by the ragdoll.
 -   If Eclipse Kick gets parried, the user will be forced into a [Knockdown](Status_Effects.md#knockdown) state, giving their opponent an opportunity to attack. This also applies if the spark variant of the Mantra is parried.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
--   The axe kick does not proc [Deep Gems](Deep_Gems.md), the Multiplying Spark's high kick does.
+-   The axe kick does [Deep Gems](Deep_Gems.md), the Multiplying Spark's high kick does not proc.
 -   The Multiplying Spark initial kick does pure Blunt damage, the main Eclipse Kick attack deals pure Shadowcast damage.
 -   Can also break certain tiles and fell trees.
 -   Unaffected by damage modifiers with the exception of inhale while using the [Eyes of Ethiron](Eyes_of_Ethiron.md) weapon.
@@ -628,7 +630,8 @@ Blunt ResistanceBlunt
 
 -   Has a base damage of 2/3.6/5.2/6.8/8.4 with 2.75 Shadowcast scaling.
 -   Automatically guardbreaks.
--   Has a 20 second cooldown.
+-   Has a Cooldown of 3 minutes or more
+-   it seems like it doesn't work mobs or isn't working right now.
 -   Applies PVE tag to anyone who is near it.
 -   Automatically extinguishes burn on those grabbed.
 -   Landing a [Shadow Gun](#shadow-gun) or [Shadow Seekers](#shadow-seekers) into the vortex after it has grabbed a target will cause it to explode, dealing extra damage.
