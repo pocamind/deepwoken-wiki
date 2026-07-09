@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 219242
+revid: 219436
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, Reputation, Mechanics]
@@ -26,6 +26,7 @@ The enemies sent differ depending on the extent of the player's negative reputat
 
 -   "Ah, screw it! Kill 'em!"
 -   "I can't believe they fell for it!"
+-   "Let's get them!"
 -   "Man, these weaklings never stop coming, do they?"
 -   "Surprise!"
 -   "The suckers just keep on coming!"

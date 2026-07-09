@@ -1,6 +1,6 @@
 ---
 title: Deepwoken OST
-revid: 215085
+revid: 219458
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OST
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, In progress with reason, InProgressPages, Deepwoken]
@@ -45,7 +45,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 10 | [To Fight, Sanguine](https://soundcloud.com/naktigonis/to-fight-sanguine) | 2:26 | Default Combat Music |  |
 | 11 | [To Shores, Distant](https://soundcloud.com/naktigonis/to-shores-distant) | 2:08 | [Boatman's Watch](<Boatman's_Watch.md>), [Starfield Veldt](Starfield_Veldt.md), [The Aratel Sea](The_Aratel_Sea.md), and [The Etrean Sea](The_Etrean_Sea.md) |  |
 | 12 | [The Trappings Of A Lord](https://soundcloud.com/naktigonis/the-trappings-of-a-lord) | 2:30 | [Erisia](Erisia.md) |  |
-| 13 | [Of Labours, Veiled](https://soundcloud.com/naktigonis/of-labours-veiled) | 2:20 | [Beloved Zofia](Beloved_Zofia.md), [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), [Derelict Highchurch](Derelict_Highchurch.md), [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>), [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>), [The Entropy Catalyst](The_Entropy_Catalyst.md), [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md), and [Voidheart](Voidheart.md) |  |
+| 13 | [Of Labours, Veiled](https://soundcloud.com/naktigonis/of-labours-veiled) | 2:20 | [Beloved Zofia](Beloved_Zofia.md), [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), [Derelict Highchurch](Derelict_Highchurch.md), [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>), [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>), [The Entropy Catalyst](The_Entropy_Catalyst.md), [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md), [The Interstice](The_Interstice.md), and [Voidheart](Voidheart.md) |  |
 | 14 | [The Sun, Gleaming](https://soundcloud.com/naktigonis/the-sun-gleaming) | 2:10 | [Merit's Reach](<Merit's_Reach.md>), [Meteor Isle](Meteor_Isle.md), [Songseeker Wilds](Songseeker_Wilds.md), [The Lordsgrove](The_Lordsgrove.md), and [The Monkey's Paw](<The_Monkey's_Paw.md>) |  |
 | 15 | [Thrill Of The Hunt](https://soundcloud.com/naktigonis/thrill-of-the-hunt) | 2:08 | [Merit's Reach](<Merit's_Reach.md>) (Combat), [Meteor Isle](Meteor_Isle.md) (Combat), [Songseeker Wilds](Songseeker_Wilds.md) (Combat), [The Lordsgrove](The_Lordsgrove.md) (Combat), and [The Monkey's Paw](<The_Monkey's_Paw.md>) |  |
 | 16 | [Of Smoke And Steel](https://soundcloud.com/naktigonis/of-smoke-and-steel) | 2:16 | [Summer Isle](Summer_Isle.md) |  |

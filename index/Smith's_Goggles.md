@@ -1,6 +1,6 @@
 ---
 title: "Smith's Goggles"
-revid: 205228
+revid: 219417
 source: https://deepwoken.fandom.com/wiki/Smith's_Goggles
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Goggles]
@@ -28,7 +28,7 @@ categories: [Equipment, Face, Goggles]
 
 ## Description
 
-Smith's Goggles are an [Equipment](Equipment.md) item under the "Face” category and is a part of the Smith Set.
+The Smith's Goggles are an [Equipment](Equipment.md) item under the "Face” category, and is a part of the Smith Set.
 
 ## Trivia
 

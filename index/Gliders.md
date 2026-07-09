@@ -1,9 +1,9 @@
 ---
 title: Gliders
-revid: 213960
+revid: 219431
 source: https://deepwoken.fandom.com/wiki/Gliders
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Tools, Echo Unlockables]
+categories: [Tools, Echo Unlockables]
 ---
 
 # Gliders
@@ -13,15 +13,13 @@ categories: [Pages with broken file links, Tools, Echo Unlockables]
 | usage | Allows the user to glide across long distances. |
 | recipe | x2 Stick, x2 Cloth, x2 Stick, x2 Megalodaunt Hide |
 
-**Gliders** are utility items in _Deepwoken_ that give the player the ability to glide.
-
 ## Description
 
-Gliders are a utility that can be crafted with a schematic given in [Pathfinder's Respite](<Pathfinder's_Respite.md>). It gives the player the ability to glide, allowing easy travel through terrain. There is also a special Feathered Glider, which is given to [Tirans](Tiran.md) as an innate Talent.
+Gliders are a utility that gives the player the ability to glide, allowing easy travel through terrain.
 
 ## Obtaining
 
-Anyone is able to craft a glider at any point. Simply head to a [Crafting Station](Crafting_Station.md), use the glider recipe (x2 Stick, x2 Cloth) and craft it. **You no longer need a schematic to craft it.**
+Anyone is able to craft a glider at any point. Simply head to a [Crafting Station](Crafting_Station.md), use the glider recipe (x2 Stick, x2 Cloth) and craft it.
 
 Both Gliders and Sharkscale Gliders can also be sold in [Merchant Ships](Travelling_Merchant.md).
 
@@ -45,5 +43,5 @@ An addition to gliders, [Galebreathe](Galebreathe.md) users can eventually obtai
 
 ## Trivia
 
--   The Feathered Glider comes in 4 different colors, each matching the aspect variant of the Tiran using it. (Crow variant pictured.)
+-   The Feathered Glider comes in 4 different colors, each matching the aspect variant of the Tiran using it.
 -   The glider used to require a schematic to craft, however this is no longer the case. It is unlocked by default.

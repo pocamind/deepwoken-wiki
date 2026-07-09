@@ -1,6 +1,6 @@
 ---
 title: Lodestar
-revid: 216626
+revid: 219478
 source: https://deepwoken.fandom.com/wiki/Lodestar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Enemies with Oaths]
@@ -82,24 +82,12 @@ The Lodestar's arsenal consists of the weapon known as the [Guiding Star](Guidin
  |
 | 
 
-**Crystal Impale**  
+**Crystal Knee**  
 (★★☆)
 
- | Lodestar ascends before performing a quick spinning dash towards the target.
+ | Lodestar crystallizes their leg before performing a flip-kick on its opponent, sending those hit into the air.
 
 -   𓆩✧𓆪 Parryable
--   ⛊ Blockable
--   § Dodgeable
-
- |
-| 
-
-**Sightless Beam**  
-(★★☆)
-
- | Lodestar fires a high pressure beam from their blindfolded eyes.
-
--   ⚠︎ Unparryable
 -   ⛊ Blockable
 -   § Dodgeable
 

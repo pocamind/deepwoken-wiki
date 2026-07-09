@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 219139
+revid: 219428
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics]
@@ -46,12 +46,12 @@ Talking to guards/camp masters
 
 _Do note that alongside Adrets, Gremors start off with Good reputation with the Children of Navae_
 
-## Empire/Legion Reputation
+## Hundred Legions Reputation
 
 Talking to Guards
 
 -   Very Good Reputation - "Ah, one of my favorite comrades." | "The empire appreciates your contributions \[Name\] keep it up!"
--   Good Reputation - "Good to see you again Comrade"| "Good to see you again fellow leigonaire."
+-   Good Reputation - "Good to see you again, comrade."| "Good to see you again fellow leigonaire."
 -   Neutral Reputation - "Stay out of trouble traveller trouble lies everywhere here." | "The empire appreciates your contributions traveller."
 -   Unfriendly Reputation - "The Empire's wrath will come down on you if you stay on this path..." | "..."
 

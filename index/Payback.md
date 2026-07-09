@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 219226
+revid: 219477
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -36,7 +36,7 @@ If Payback is corrupted, it gains lifesteal from the reflected damage, equal to 
 
 -   Posture reflected will be based on how much damage was taken, with low damage dealing low posture while high damage deals high posture.
 -   80% of damage will be completely absorbed when the Payback is charging. True Damage (ex: [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) critical) can bypass this, but will still have the damage reflected back.
--   In PvE, Corrupted Payback will only heal up to 50 health.
+-   In PvE, Corrupted Payback will only heal up to 50 health. (As of 7/8/2026, PvP also has a cap of 50 health)
 
 #### _Variants_
 

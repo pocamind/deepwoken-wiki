@@ -1,6 +1,6 @@
 ---
 title: Goldleaf Helm
-revid: 210351
+revid: 219409
 source: https://deepwoken.fandom.com/wiki/Goldleaf_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -25,10 +25,9 @@ categories: [Equipment, Head, Helmets]
 
 ## Description
 
-The _Goldleaf Helm_ is a piece of Equipment in the "Head" category, being a gold variant of the [Blackleaf Helm](Blackleaf_Helm.md).
-
-The _Goldleaf Helm_ grants less pips than the [Blackleaf Helm](Blackleaf_Helm.md).
+The Goldleaf Helm is an Equipment item under the "Head" category.
 
 ## Trivia
 
--   The Goldleaf Helm is worn by the [Golden Warriors](Golden_Warrior.md) in the [Rat's Den](<Rat's_Den.md>)
+-   Worn by [Golden Warriors](Golden_Warrior.md) and [Rat Fighters](Rat_Fighter.md).
+-   A gold version of the [Blackleaf Helm](Blackleaf_Helm.md) while having lesser stats.

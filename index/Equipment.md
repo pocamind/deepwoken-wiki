@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 219126
+revid: 219391
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
@@ -3384,7 +3384,7 @@ _+Talent: [**Angel's Guise**](Talents.md#angels-guise)_
 _+1 Posture_
 
 +2 Rare Pips  
-_+Talent: [**Blind Slot**](Talents.md#blind-slot)_
+_+Talent: [**Blind Spot**](Talents.md#blind-spot)_
 
  | Styles:  
 Darksteel, Gold & Steel |
