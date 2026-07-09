@@ -1,6 +1,6 @@
 ---
 title: Handcuffs
-revid: 208704
+revid: 219262
 source: https://deepwoken.fandom.com/wiki/Handcuffs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Fists, Light Weapons, Weapons with Unique Animations]
@@ -32,11 +32,11 @@ categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons,
 | obtainment | Being killed by an Authority Ensign player. |
 | description | Your trusty weapon. |
 
-For the page about esaping the [Prison Tower](Fort_Merit.md#prison-tower) after being jailed by an [Authority Ensign](Authority_Ensign.md) or other Authority NPCs, refer to the [Escaping Jail](Fort_Merit.md#escaping-jail) page.
+_For the page about esaping the [Prison Tower](Fort_Merit.md#prison-tower) after being jailed by an [Authority Ensign](Authority_Ensign.md) or other Authority NPCs, refer to the [Escaping Jail](Fort_Merit.md#escaping-jail) page._
 
 ## Description
 
-**Handcuffs** are a pair of heavily rusted handcuffs worn by prisoners of [the Central Authority](The_Central_Authority.md). While this weapon is equipped, you will not be able to swim, use [Mantras](Mantras.md), your Resonance, hold any item in your hands, and your movement speed will be heavily reduced.
+**Handcuffs** are a pair of heavily rusted handcuffs worn by prisoners of [the Central Authority](The_Central_Authority.md). While this weapon is equipped, you will not be able to swim, use [Mantras](Mantras.md), use your [Resonance](Resonance.md), or hold any item in your hands, and your movement speed will be heavily reduced.
 
 This weapon is automatically equipped upon being detained (gripped) by an [Authority Ensign](Authority_Ensign.md) player or by speaking to a few Authority NPCs ([Chud Steel](Chud_Steel.md), [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md), [High Inquisitor Merey](High_Inquisitor_Merey.md), [Sentinel Augustus](Sentinel_Augustus.md), and [Warden Jericho](Warden_Jericho.md)) while having Enemy or lower Authority reputation. You will also be teleported into Fort Merit's prison and a 10 minute countdown to your execution will start. If the countdown reaches 0 while you still have the handcuffs on, you will be immediately drowned and sent to [The Depths](The_Depths.md).
 

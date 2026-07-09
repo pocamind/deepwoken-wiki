@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 218381
+revid: 219263
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Weapons, Equipment]
@@ -1312,7 +1312,7 @@ _Known throughout the Summer Company, many heard of the famous treasurer Captain
 
 Your weapon's base damage is tied to your current [Notes](Notes.md).
 
-Your weapon's base damage is reduced by 15%. For every Note you have, your weapon's base damage will be increased by 0.002%, capping at +15% base damage with 15k Notes.
+Your weapon's base damage is reduced by 7.5%. For every Note you have, your weapon's base damage will be increased by 0.001%, capping at +7.5% base damage with 15k Notes.
 
 Upon taking damage from a player, lose 100 Notes. Upon landing a weapon attack, your opponent will lose 50 Notes. Both of these effects are signified by a coin splash sound effect.
 

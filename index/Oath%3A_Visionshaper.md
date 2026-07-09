@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 218386
+revid: 219264
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -305,7 +305,6 @@ TBA
 
 ## Notes
 
--   You are supposed to be able to meet the "Complete [Aelita's Encounter](Aelita.md)" requirement for obtainment by participating in the [Carnival of Hearts](Carnival_of_Hearts.md), however this has been bugged since its addition and does not work.
 -   Almost exclusively a PvP Oath, as the clones die very easily in PvE and deal significantly less damage than the user. On top of this, Mirror Illusion doesn't even hit non-humanoids.
 -   If you wish to dye the Visionshaper eye trail Oath cosmetic, you need to [dye](Dye_Packet.md) the Visionshaper Cosmetic, **not** your actual eyes. - as of June 1st, 2025.
 

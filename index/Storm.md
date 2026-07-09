@@ -1,6 +1,6 @@
 ---
 title: Storm
-revid: 217985
+revid: 219305
 source: https://deepwoken.fandom.com/wiki/Storm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -41,3 +41,4 @@ Additionally this applies [Shock](Status_Effects.md#shock) or one [Surge Rod](St
 ## Trivia
 
 -   The lightning strike caused from proccing this enchantment while it is raining grants [Thundercall](Thundercall.md) experience.
+-   If u stun **monster** and proc storm in same time - stun effect will consist of lightning in the same colour as the storm

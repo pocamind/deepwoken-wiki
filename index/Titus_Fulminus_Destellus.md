@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 219251
+revid: 219307
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions, Humanoids with Unobtainable Outfits]
@@ -261,7 +261,7 @@ Block
 | **Attacks unlocked on Phase 2** |
 | 
 
-**Blighted Sparks**  
+**Thunder Volley**  
 (★★☆)
 
  | Titus summons three orbs of white lightning that lock onto the nearest opponent. If they are struck by this, they will be held in the air for a short time.
