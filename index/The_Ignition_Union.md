@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 214192
+revid: 219390
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Factions, The Ignition Union]
@@ -116,6 +116,7 @@ Enemy-Neutral Reputation
 -   Opposed to what their name might suggest, they’re predominantly [Ironsing](Ironsing.md) users.
 -   The Ignition Union has the most Owned Territories out of every Faction at 4, and is tied with [The Divers](The_Divers.md) for the most Passive NPCs at 7.
     -   The Ignition Union have more by technicality, due to [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and [Karliah](Karliah.md) being former members of The Divers rather than active members.
+-   The Ignition Union is Communist, as hinted at by the [Arcwarder](Oath%253A_Arcwarder.md) description, which references a popular quote from the Communist writer, Karl Marx. As well as the name of the faction itself being a nod to the Communist nature of The Union.
 
 ## Navigation
 

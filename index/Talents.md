@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 219381
+revid: 219387
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2186,7 +2186,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   [**Oath: Jetstriker**](Oath%253A_Jetstriker.md) - You vow to flow with the Song itself, drifting across where the trails may take you. If the Song permeates everything, then let it be your conduit, and you its master. (+1 Wildcard Mantra Slot, +1 Mobility Mantra Slot, +5% PEN)
     -   Prerequisites: 50 Agility, beat [Alirian](Alirian.md) in a race.
 
--   Acceleration Points \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - Striking an opponent in the back with mobility mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] or Basic Attacks now steals and grants additional momentum.
+-   Acceleration Points \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - Striking an opponent in the back with mobility mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] or Basic Attacks now steals and grants additional momentum. (+5 Passive Agility)
     -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
 
 -   Decisive Winds \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - When damage below 50% health, don an aura of [Decisive Winds](Status_Effects.md#decisive-winds) for 10s. (+5 Ether)
@@ -2200,11 +2200,11 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   When proccing on non-humanoid NPCs, sends you to the center of the NPC's hitbox.
     -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
 
--   Rush of Ancients \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - Dashing at maximum sprint momentum makes you one with the wind itself.
+-   Rush of Ancients \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - Dashing at maximum sprint momentum makes you one with the wind itself. (+4 Passive Agility)
     -   Extends your dash distance and makes you invisible for a very brief duration when you dash.
     -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
 
--   Stratos Step \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - Holding space while climbing will now let your perform Stratos Steps to get even higher. (+5 Health)
+-   Stratos Step \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - Holding space while climbing will now let your perform Stratos Steps to get even higher. (+5 Health, +3 Passive Agility)
     -   Stratos Steps will only proc twice before going on a cooldown. Said cooldown applies to individual steps. Additionally, Stratos Step consumes Ether per step.
     -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
 

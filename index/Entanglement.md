@@ -1,6 +1,6 @@
 ---
 title: Entanglement
-revid: 218022
+revid: 219386
 source: https://deepwoken.fandom.com/wiki/Entanglement
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -29,5 +29,5 @@ This has no cooldown. If this enchantment procs while it is currently active, th
 ### Notes
 
 -   This enchantment does not proc against non-humanoids.
--   Damaging status effects cannot initially proc this enchantment, however, the damage reduction from this enchantment will apply yto them if it activates.
+-   Damaging status effects cannot initially proc this enchantment, however, the damage reduction from this enchantment will apply to them if it activates.
 -   The 10% damage reduction also applies to the hit that procced this enchant.
