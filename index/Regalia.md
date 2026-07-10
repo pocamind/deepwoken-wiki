@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 218038
+revid: 219535
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -8,13 +8,13 @@ categories: [Mechanics]
 
 # Regalia
 
-**Regalia** are passive abilities that positively affect progression or aid the player in some way. The only way to obtain them is random chance upon character creation or when leveling up, Most regalia are kept on the new character if the previous character with Regalia was wiped power 10 or below. (see below for which regalia is always lost upon wipe)
+**Regalia** are passive abilities that positively affect progression or aid the player in some way. The only way to obtain them is through random chance upon character creation or when leveling up. Most Regalia are kept on the new character if the previous character with Regalia was wiped at Power 10 or below (see below for which Regalia are always lost upon wipe).
 
 ## Obtainment
 
--   Regalia can be randomly obtained every time you buy a new slot, wiping a slot above pwr 10, or randomly when powering up mid progression.
--   Your odds of obtaining a Regalia increase the more progressed your previous character was (no specifics on how much it boosts it).
--   You may only have 1 Regalia per character, obtaining a Regalia is extremely rare & not guaranteed.[\[1\]](#cite-note-archinfo-1)[\[2\]](#cite-note-2)
+-   Regalia can be randomly obtained every time you buy a new slot, wiping a slot above Power 10, or randomly when powering up mid progression.
+-   Your odds of obtaining a Regalia increase the more progressed your previous character was (the extent of the increase in odds is unknown).
+-   You may only have 1 Regalia per character, though obtaining a Regalia is extremely rare & not guaranteed.[\[1\]](#cite-note-archinfo-1)[\[2\]](#cite-note-2)
 
 ## List of Regalia
 
@@ -26,10 +26,10 @@ This Regalia is **kept** upon wiping below Power 10.
 
 #### Exceptions
 
--   Mute does **not** work in some locations.
-    -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md), (Mute does not work on initial aggro. Waiting 15 seconds will unaggro most monsters in Dilluvian.)
+-   Mute does **not** work in some locations:
+    -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md) (Mute does not work on initial aggro. Waiting 15 seconds will unaggro most monsters in the Diluvian)
     -   Most Dungeons, such as the [Second Layer](Second_Layer.md) or [Trial of One](Trial_of_One.md)
--   Mute does **not** work against some monsters (mostly constructs and robots).
+-   Mute does **not** work against some monsters (mostly constructs and robots):
     -   [Stone Knights](Stone_Knight.md)
     -   [Blizzard Knights](Stone_Knight.md#blizzard-knight)
     -   [Rock Golems](Rock_Golem.md)
@@ -39,9 +39,9 @@ This Regalia is **kept** upon wiping below Power 10.
     -   Ambush [Mechalodaunts](Mechalodaunt.md)
     -   [Bone Keepers](Bone_Keeper.md)
     -   [Arkasids](Arkasid.md)
--   Mute **does work** against some humanoids.
+-   Mute **does work** against some humanoids:
     -   [Hollow Angels](Hollow_Angel.md) (if not summoned by a [Watcher](Watcher.md))
--   Mute will still make the following passive, but when provoked they will **not** unaggro after 15 seconds:
+-   Mute will still make the following passive, but when provoked, they will **not** unaggro after 15 seconds:
     -   [King Threshers](King_Thresher.md)
     -   [Thresher](Thresher.md)
     -   [Deep Owls](Deep_Owl.md)
@@ -62,7 +62,7 @@ Grants increased [Resonance progress](Resonance.md#bell-progress) gain from all 
 
 ### Worthy
 
-Grants unique dialogue with the [Legendary Boot](Legendary_Boot.md). Functionally, this does nothing to progression, abilities, or anything crucial to the game, but it is just a silly piece of dialogue.
+Grants unique dialogue with the [Legendary Boot](Legendary_Boot.md). Functionally, this does nothing to progression, abilities, or anything crucial to the game. It is just a silly piece of dialogue.
 
 "The Legendary Boot waits for the day that one worthy will claim it. Someone worthy with smaller feet."
 
@@ -72,17 +72,17 @@ When creating a character, you start with a hand of [Resonance](Resonance.md) dr
 
 This cannot be obtained if you have the [Tarnished](Boons_and_Flaws.md#flaws) Flaw.
 
-This Regalia is **not** kept upon wiping at any power level.
+This Regalia is **not** kept upon wiping at any Power.
 
 ### Noble[\[3\]](#cite-note-archnamedrop1-3)
 
-A flat increase is applied to your reputation with each faction. Additionally, [Bandits](Bandit.md), [Blacksteel Pirates](Blacksteel_Pirate.md), [Bounty Hunters](<Bounty_Hunter_(NPC).md>), and other 'factionless' humans will not aggro onto you unless provoked, effectively being a reverse Mute regalia, if you will.
+A flat increase is applied to your reputation with each faction. Additionally, [Bandits](Bandit.md), [Blacksteel Pirates](Blacksteel_Pirate.md), [Bounty Hunters](<Bounty_Hunter_(NPC).md>), and other 'factionless' humans will not aggro onto you unless provoked (effectively being a reverse Mute Regalia).
 
 ### Inheritance[\[3\]](#cite-note-archnamedrop1-3)
 
 You start with 1,000 [Notes](Notes.md) and 50 [Knowledge](Knowledge.md), as well as every item from the Advanced Tools [Echo Unlocks](Echoes.md#upgrades-unlocks-and-modifiers), even if you haven't purchased them.
 
-This Regalia is **not** kept upon wiping at any power level.
+This Regalia is **not** kept upon wiping at any Power.
 
 ### Ace of Spades[\[3\]](#cite-note-archnamedrop1-3)
 
@@ -106,7 +106,7 @@ Vomiting, the [Gluttony](Gluttony.md) Enchantment, and emergency blood regenerat
 
 [Knowledge](Knowledge.md) gain from all sources is increased.
 
-The amount of Knowledge gained with the Insightful Regalia is 1.5x the amount without the Regalia, rounding to the nearest number. For example, something that would reward 1 Knowledge will instead reward 2, but if it would reward 2 Knowledge it would give 3 instead.
+The amount of Knowledge gained with the Insightful Regalia is 1.5x the amount without the Regalia, rounding to the nearest integer. For example, a reward of 1 Knowledge will instead reward 2, and a reward of 2 Knowledge will yield 3.
 
 This works with the [Moonseye Tome](Moonseye_Tome.md), granting 150 knowledge upon first time use and 75 Knowledge on all subsequent uses.
 
@@ -119,13 +119,11 @@ You are granted an additional [Resonance](Resonance.md) choice when rerolling or
 ## Trivia
 
 -   For almost the entirety of the game's lifespan, Mute was the only Regalia known to exist, until Arch\_Mage told the community about the others and the obtainment method.[\[1\]](#cite-note-archinfo-1)
--   Regalia, as a definition, are the emblems or insignia of royalty, especially the crown, scepter, and other ornaments used at a coronation.
+-   Regalia by definition are the emblems or insignia of royalty, especially the crown, scepter, and other ornaments used at a coronation.
 
--   Mute regalia used to work on Ministry Necromancers, Ministry Scouts And Immortal guardians but it was fixed. Despite being a bug, immortal guardians had unique dialogues upon knocking a player with mute regalia.
+-   The Mute Regalia previously worked on Ministry Necromancers, Ministry Scouts, and Immortal Guardians, but it was fixed. Despite being a bug, Immortal Guardians had unique dialogue upon knocking a player with Mute.
 
--   You can obtain two regalias consecutively, such as having a Mute build wiping it & immediately obtaining Mute again at the start of your character on the same slot.
-
--   You can have your regalia Change mid progression such as going from worthy regalia to Animal Queen mid prog.(this is unconfirmed but has been reported happening.)
+-   Whilst unconfirmed, it is speculated that your Regalia can change mid-progression, such as switching from the Worthy Regalia to the Mute Regalia.
 
 ## References
 

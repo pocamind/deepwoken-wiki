@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 216063
+revid: 219540
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers, Humanoids with Unobtainable Outfits]
@@ -21,7 +21,7 @@ categories: [Enemies, Songseekers, Humanoids with Unobtainable Outfits]
 
 A Songseeker Thundercaller is an enemy NPC that can only be found in [Songseeker Wilds](Songseeker_Wilds.md). They can appear in Random Encounters or on fixed spawns in [Songseeker Wilds](Songseeker_Wilds.md).
 
-A Songseeker Thundercaller wears an Aspirant Mask (Gold) and an Unknown/Unlisted outfit, Varying with their [aspect](Aspects.md) and gender.
+A Songseeker Thundercaller wears an Aspirant Mask (Gold) and an Unknown/Unlisted outfit, varying with their [aspect](Aspects.md) and gender.
 
 A Songseeker Thundercaller's arsenal consists of [Fists](Fists.md) **(Way of Navae)** and the [Thundercall](Thundercall.md) attunement:
 
@@ -160,9 +160,8 @@ A Songseeker Thundercaller executes it's opponent after knocking them:
 
 -   Despite being immune to [assassination](Stealth.md), the player can still sneak behind and use a powerful mantra to pile up some good damage.
 -   Constantly flourishing them/using Mantras will prevent them from spamming Mantras.
--   Lightning Stream can be extremely dangerous, especially if a Flame Songseeker fires a fully charged flame ballista while you're being dragged towards the caster of the stream
--   Songseeker Thundercallers can pose a significant threat if they team up with a Songseeker Flamecharmer or a Songseeker Frostdrawer. Always block Lightning Stream since their range and landing the Mantra is quite high, grabbing you back to them.
--   Running away from Thundercallers can be difficult since they will immediately use Lighting Stream.
+-   Lightning Stream can be extremely dangerous, especially if a Flame Songseeker fires a fully charged flame ballista while you're being dragged towards the caster of the stream. It can also make fleeing difficult.
+-   Songseeker Thundercallers can pose a significant threat if paired with a Songseeker Flamecharmer or a Songseeker Frostdrawer. Always attempt to block Lightning Stream to avoid losing control of the fight and being put into close proximity of all of the Songseekers at once.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Apprentice Diver
-revid: 216087
+revid: 219538
 source: https://deepwoken.fandom.com/wiki/Apprentice_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Diver Enemies]
@@ -92,7 +92,7 @@ An Apprentice Diver's arsenal consists of either a [Razor Cutlass](Razor_Cutlass
 
 ## Finisher
 
-An Apprentice Diver executes it's opponent after knocking them:
+An Apprentice Diver executes its opponent after knocking them:
 
 | Name | Description |
 | --- | --- |

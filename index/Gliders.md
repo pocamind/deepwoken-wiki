@@ -1,6 +1,6 @@
 ---
 title: Gliders
-revid: 219431
+revid: 219539
 source: https://deepwoken.fandom.com/wiki/Gliders
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tools, Echo Unlockables]
@@ -44,4 +44,4 @@ An addition to gliders, [Galebreathe](Galebreathe.md) users can eventually obtai
 ## Trivia
 
 -   The Feathered Glider comes in 4 different colors, each matching the aspect variant of the Tiran using it.
--   The glider used to require a schematic to craft, however this is no longer the case. It is unlocked by default.
+-   Prior to the 21 June 2024 update, Gliders were required to be unlocked via a quest. Prior to a patch update on 9 May 2023, Gliders required a schematic to be craftable.

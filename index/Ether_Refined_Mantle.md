@@ -1,6 +1,6 @@
 ---
 title: Ether Refined Mantle
-revid: 215942
+revid: 219531
 source: https://deepwoken.fandom.com/wiki/Ether_Refined_Mantle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Arms, Equipment, Craftable, Equipment with Set Bonuses, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -41,7 +41,9 @@ Variants: [Brim](Ether_Refined_Brim.md)
 
 The Ether Refined Mantle is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) Unique tier [Equipment](Equipment.md) item under the "Arms" category.
 
-The [Sorcerer's Surge](Talents.md#sorcerers-surge) Talent reduces the cooldown of your [Vent](Combat_Mechanics.md#tempo) by 2.5 seconds, entirely removing the Vent cooldown. The [Overflowing Dam](Talents.md#overflowing-dam) Talent grants a 10% damage buff to your M1s while your Ether bar is full. Overflowing Dam's damage buff scales on your Intelligence investment, losing 0.125% per point of Intelligence below 40. At 5 Intelligence, you will only gain a 5.625% damage buff.
+The [Sorcerer's Surge](Talents.md#sorcerers-surge) Talent reduces the cooldown of your [Vent](Combat_Mechanics.md#tempo) by 2.5 seconds, entirely removing the Vent cooldown.
+
+The [Overflowing Dam](Talents.md#overflowing-dam) Talent grants a 10% damage buff to your M1s while your Ether bar is full. Overflowing Dam's damage buff scales on your Intelligence investment, losing 0.125% per point of Intelligence below 40. At 5 Intelligence, you will only gain a 5.625% damage buff.
 
 This item is the [Pathfinder](Pathfinder.md) equivalent of the [Sorcerer's Mantle](<Sorcerer's_Mantle.md>).
 
