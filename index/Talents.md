@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 219502
+revid: 219547
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4303,9 +4303,10 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   This secondary damage instance cannot receive damage modifiers.
 
 -   Blade Scholar: [Markor's Inheritor](<Markor's_Inheritor.md>) & [Alloyed Inheritor](<Markor's_Inheritor.md>) - Landing your fist critical attack switches your stance to that fist style. Retain the same swing speed and damage your Markor's Inheritor had. You gain more swingspeed the more Intelligence you have.
-    -   Landing your critical attack changes your weapon animations to that of your current fist style for 15 seconds. This cannot be refreshed while active.
+    -   Landing your critical attack changes your weapon to [Iron Cestus](Iron_Cestus.md) or [Anklets of Alsin](Anklets_of_Alsin.md), matching your animations with that of your current fist style for 15 seconds. This cannot be refreshed while active.
     -   The swing speed bonus is equal to: Markor's Base swing speed (0.85) + 0.002 × Intelligence investment, capping at 1.05x at 100 Intelligence. This of course, only applies _during_ Blade Scholar. Though not mentioned in the description, you will also gain +2 [Intelligence](Attributes.md#int) scaling on your weapon while active.
-    -   This manually changes your weapons to an [Iron Cestus](Iron_Cestus.md) on proc. This has a few upsides and downsides;
+    -   Your [Enchantment](Enchantments.md) on your Inheritor carries over, but Quality Star bonuses do not. Additionally, the increased Heavy Weapons Scaling from Alloyed Inheritor does not apply during Blade Scholar's effect.
+    -   This manually changes your weapon to Fists on proc. This has a few upsides and downsides;
         -   **Upsides**: You'll be able to benefit from Fist Talents while it is active, as well as the Fists PvE effect of increased blunt damage, scaling on the amount of Fists Talents you have.
         -   **Downsides**: You cannot proc your Greatsword Talents while active. If you do not have a learned Fist Style, you will change to [Untrained Fist](Untrained_Fist.md), halving your weapon damage.
         -   Your [Silentheart](Oath%253A_Silentheart.md) abilities will change to the Light Weapon ones while this is active. This isnt inherently an upside nor a downside, but keep in mind that these abilities scale on the respective attribute.

@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 219500
+revid: 219546
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, "Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Greatswords, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyable Weapons, Heavy Weapons, Weapons with Talents]
@@ -46,19 +46,19 @@ Markor's Inheritor is a [Heavy Greatsword](Weapons.md) that requires 30 HVY and 
 
 Equipping the Markor's Inheritor grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-Upon landing your weapon critical, **Blade Scholar** procs, swapping your weapon to Fists for 15 seconds. The damage and Swing Speed stats while on the Fist weapon are equal to your Markor's Inheritor, but they scale on your [Intelligence](Attributes.md#int) attribute.
+Upon landing your weapon critical, **Blade Scholar** procs, swapping your weapon to [Iron Cestus](Iron_Cestus.md)/[Anklets of Alsin](Anklets_of_Alsin.md) for 15 seconds.
 
-The Swing Speed increase is equal to: 0.85 (Inheritor Swing Speed) + 0.002 × Intelligence investment, capping at 1.05x at 100 Intelligence. You will also gain +2 Intelligence scaling on your weapon while active.
+While active, your base damage will bet set to 24, and scaling to 7 Heavy Weapons and 2 Intelligence. The increased scaling from [Alloyed Inheritor](<Markor's_Inheritor.md>) does **not** apply. Additionally, your swing speed will be set to 0.85x, but you will gain +0.002x swing speed for every point in [Intelligence](Attributes.md#int), capping at 1.05x swing speed at 100 Intelligence. All other stats will be the same as the Cestus. The stat changes are handled internally, and will not be displayed on your weapon tooltip.
 
-This effect is not refreshable, requiring you to land another critical attack _after_ the effect lands to re-proc it. However, using [Blightsurger](Oath%253A_Blightsurger.md)'s Sovereign State during the effect will extend the prolong the duration of Blade Scholar until your Sovereign State ends.
+This effect is not refreshable, requiring you to land another critical attack _after_ the effect ends to reapply it. However, using [Blightsurger](Oath%253A_Blightsurger.md)'s Sovereign State during the effect will extend the prolong the duration of Blade Scholar until your Sovereign State ends. Quality stars on your Inheritor do not carry over when Blade Scholar activates, but [Enchantments](Enchantments.md) do.
 
-This manually changes your weapon to Fists on proc, setting your stats on each weapon swing. This has a few upsides and downsides;
+This manually changes your weapon to Fists on proc. This has a few upsides and downsides;
 
 -   **Upsides**:
     -   You'll be able to benefit from Fist and Light Weapon Talents while it is active, as well as the Fists PvE effect of increased blunt damage, scaling on the amount of Fists Talents you have.
 -   **Downsides**:
     -   You cannot proc your Greatsword or Heavy Talents while active.
-    -   Your Range and other stats that aren't explicitly carried over by this Talent will be temporarily reduced while your weapon is Fists.
+    -   Your Range and other stats that aren't explicitly carried over by this Talent will be the same as the [Iron Cestus](Iron_Cestus.md)/[Anklets of Alsin](Anklets_of_Alsin.md), being reduced compared to the Inheritor.
     -   If you do not have a [Fist Style](Fists.md#styles), you will equip [Untrained Fist](Untrained_Fist.md), halving your weapon damage while active.
 -   **Other**:
     -   Your [Silentheart](Oath%253A_Silentheart.md) abilities will change to the Light Weapon ones while this is active. This isnt inherently an upside nor a downside, but keep in mind that these abilities scale on the respective attribute.
@@ -66,8 +66,6 @@ This manually changes your weapon to Fists on proc, setting your stats on each w
 ## Critical
 
 Markor's Inheritor will inherit the critical attack of your last used [Fist Style](Fists.md), allowing for a large amount of build diversity. If you do not have a fist style, then [Untrained Fist](Untrained_Fist.md)'s critical will be used.
-
-Stats wise, these criticals are the same as their base fist variants, however they will have a set **base damage** value instead of utilizing Markor's; these criticals will deal **very** low damage. They do keep the heavy scaling from Markor's Inheritor however. All fist styles, with the exception of Untrained Fist use a base damage of 12. Untrained Fist uses 15 instead.
 
 **Fang and Coil:**
 
@@ -131,6 +129,6 @@ This attack has a **5 second cooldown**.
 
 ## Trivia
 
--   Markor's Inheritor can use the [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) [Fang and Coil](Fang_and_Coil.md) critical, which is uncommon even amongst fist weapons.
+-   Markor's Inheritor can use the [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) [Fang and Coil](Fang_and_Coil.md) critical, which is uncommon, even amongst fist weapons.
 -   Markor's Inheritor is the only Heavy weapon that has an aerial kick as an aerial attack. Heavies used to have fist-style aerial attacks, until a unique heavy aerial was added.
--   It can proc Fist Talents on critical.
+-   It can proc Fist Talents on critical, even if Blade Scholar is not active.

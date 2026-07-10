@@ -1,6 +1,6 @@
 ---
 title: Parsnip
-revid: 219237
+revid: 219549
 source: https://deepwoken.fandom.com/wiki/Parsnip
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Cut Content, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
@@ -25,7 +25,7 @@ notices:
 
 Parsnip was a [Celtor](Celtor.md) NPC. They worked for the [Ignition Union](The_Ignition_Union.md).
 
-He wore the [Ignition Welder](Ignition_Welder.md) outfit.
+They wore the [Ignition Welder](Ignition_Welder.md) outfit.
 
 ## Location
 
