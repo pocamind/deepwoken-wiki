@@ -1,6 +1,6 @@
 ---
 title: Diver Husk
-revid: 216097
+revid: 219492
 source: https://deepwoken.fandom.com/wiki/Diver_Husk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Layer 2]
@@ -12,7 +12,7 @@ categories: [Pathfinder Exclusive, Enemies, Layer 2]
 |---|---|
 | health | 20005000 (Corrupted) |
 | drops | None |
-| weapon | Crucible Rapier, Zweihander, Katana, Halberd |
+| weapon | Crucible Rapier, Zweihander, Katana, Halberd, Shotel, Central Dirk, Forge Greathammer |
 | moves | Critical, Strong Left |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -59,7 +59,7 @@ Diver Husks has an arsenal of weapons known across Lumen:
 **Critical**  
 (★★☆)
 
- | Standard Critical of their current weapon.
+ | Uses the Standard Critical of their current weapon.
 
 -   The Zweihander critical is **unblockable**.
 

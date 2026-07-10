@@ -1,6 +1,6 @@
 ---
 title: The Vents
-revid: 219490
+revid: 219498
 source: https://deepwoken.fandom.com/wiki/The_Vents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -14,3 +14,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ### Trivia
 
 -   The Deepwoken of [Flamecharm](Flamecharm.md), [Amorus Pleeksty](Amorus_Pleeksty.md), is said to reside here.
+-   [Saramaed](Saramaed_Summit.md) is a notable location that is connected to Layer 3 where the depths bleed into the surface.

@@ -1,6 +1,6 @@
 ---
 title: Lucien
-revid: 215757
+revid: 219495
 source: https://deepwoken.fandom.com/wiki/Lucien
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests]

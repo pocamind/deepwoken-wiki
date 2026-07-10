@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 219387
+revid: 219502
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3296,7 +3296,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Grounding Bolt \[Common Talent, Thundercall, Weapon\] - Anytime you summon a lightning strike on your opponent, disable their ability to jump. Uppercutting your opponent while they are unable to jump now strikes them with another bolt of lightning.
     -   Makes the opponent unable to jump for 10 seconds. This effect's duration resets upon subsequent eligible lightning strike hits.
         -   Eligible lighting strikes include: Storm Strikes from [Volt Draft](#volt-draft) and [Shock Trooper Specialist](#shock-trooper-specialist), [Storm](Storm.md)/[Stormbreaker](Stormbreaker.md) Enchants during the rain, [Scorched Peak](#scorched-peak), and [Fulgurite Formation](#fulgurite-formation).
-    -   Grounding Bolt's lightning strikes deal 15 Thundercall damage. This has no cooldown, and triggers of _any_ uppercut, including Mantras with the uppercut tag.
+    -   Grounding Bolt's lightning strikes deal 15 Thundercall damage. This has no cooldown.
+    -   Grounding Bolt's lightning strikes trigger by landing _any_ uppercut ability on a target who is affected by _any_ anti-jump ability. This means non-basic attack uppercuts (such as certain Mantras or weapon criticals) can trigger this effect, and all anti-jump abilities (e.g. [Taunt](Attunement-less.md#taunt) or [Bear Trap](#bear-trap)) can allow you to trigger Grounding Bolt as well.
     -   Prerequisites: 90 Thundercall, 90 Weapon (90 Light // 90 Medium // 90 Heavy)
 
 ### Showboater
@@ -4297,19 +4298,17 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Belief: [Worshipper Longsword](Worshipper_Longsword.md) - Your [medium weapon mantras](Attunement-less.md#medium-weapon-mantras) \[_[sic](https://en.wikipedia.org/wiki/sic)_\] now deal extra damage based on how much Willpower you have.
     -   All of your Medium Weapon Mantras gain a second damage instance that scales directly on your Willpower investment. This deals **true damage**.
     -   This deals 0.15 damage per 1 [Willpower](Attributes.md#wll) investment. At maximum this will deal an additional 15 damage at 100 Willpower.
-        -   Having [One With Flame](Flame_Worshipper_Armor.md) active increases Belief's damage by granting it Flamecharm scaling; for every 1 Flamecharm, Belief will gain an additional 0.05 damage, up to +5 damage from Flamecharm investment. Pairing 100 Flamecharm and 100 Willpower will net you +20 damage on your [Medium Weapon Mantras](Attunement-less.md#medium-weapon-mantras).
+        -   Having [One With Flame](#one-with-flame) active increases Belief's damage by granting it Flamecharm scaling; for every 1 Flamecharm, Belief will gain an additional 0.05 damage, up to +5 damage from Flamecharm investment. Pairing 100 Flamecharm and 100 Willpower will net you +20 damage on your [Medium Weapon Mantras](Attunement-less.md#medium-weapon-mantras).
     -   This effect has no cooldown, allowing your [Master's Flourish](Attunement-less.md#masters-flourish) and [Twincleave](Attunement-less.md#twincleave) to benefit from this effect twice per cast.
     -   This secondary damage instance cannot receive damage modifiers.
 
 -   Blade Scholar: [Markor's Inheritor](<Markor's_Inheritor.md>) & [Alloyed Inheritor](<Markor's_Inheritor.md>) - Landing your fist critical attack switches your stance to that fist style. Retain the same swing speed and damage your Markor's Inheritor had. You gain more swingspeed the more Intelligence you have.
     -   Landing your critical attack changes your weapon animations to that of your current fist style for 15 seconds. This cannot be refreshed while active.
-    -   While this effect is active, your weapon gains increased swing speed, scaling on your Intelligence attribute. Though not mentioned, you will also gain +2 [Intelligence](Attributes.md#int) scaling on your weapon while active.
-        -   The swing speed bonus is equal to: Markor's Base swing speed (0.85) + 0.002 × Intelligence investment, capping at 1.05x at 100 Intelligence.
-    -   This manually changes your weapons to Fists on proc, setting your stats on each weapon swing. This has a few upsides and downsides;
+    -   The swing speed bonus is equal to: Markor's Base swing speed (0.85) + 0.002 × Intelligence investment, capping at 1.05x at 100 Intelligence. This of course, only applies _during_ Blade Scholar. Though not mentioned in the description, you will also gain +2 [Intelligence](Attributes.md#int) scaling on your weapon while active.
+    -   This manually changes your weapons to an [Iron Cestus](Iron_Cestus.md) on proc. This has a few upsides and downsides;
         -   **Upsides**: You'll be able to benefit from Fist Talents while it is active, as well as the Fists PvE effect of increased blunt damage, scaling on the amount of Fists Talents you have.
-        -   **Downsides**: Because your bare hands cannot be enchanted, your Weapon Enchantment will be disabled while active. You cannot proc your Greatsword Talents while active. Quality star bonuses on your Inheritor will not transfer over to the Fists.
+        -   **Downsides**: You cannot proc your Greatsword Talents while active. If you do not have a learned Fist Style, you will change to [Untrained Fist](Untrained_Fist.md), halving your weapon damage.
         -   Your [Silentheart](Oath%253A_Silentheart.md) abilities will change to the Light Weapon ones while this is active. This isnt inherently an upside nor a downside, but keep in mind that these abilities scale on the respective attribute.
-    -   Because [Untrained Fist](Untrained_Fist.md) doesn't have a bare hands weapon variant, it bugs with this Talent, resulting in you continuing to use your Inheritor, with all buffs applied.
     -   Using [Sovereign State](#sovereign-state) while this is active will extend the duration of the effect, until your Sovereign State ends.
 
 -   Blitz: [Forgotten Gladius](Forgotten_Gladius.md) - Increase how quick you release your [Prominence Draw](Attunement-less.md#prominence-draw).

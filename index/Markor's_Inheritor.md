@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 217125
+revid: 219500
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, "Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Greatswords, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyable Weapons, Heavy Weapons, Weapons with Talents]
@@ -52,16 +52,14 @@ The Swing Speed increase is equal to: 0.85 (Inheritor Swing Speed) + 0.002 × In
 
 This effect is not refreshable, requiring you to land another critical attack _after_ the effect lands to re-proc it. However, using [Blightsurger](Oath%253A_Blightsurger.md)'s Sovereign State during the effect will extend the prolong the duration of Blade Scholar until your Sovereign State ends.
 
-If you are using [Untrained Fist](Untrained_Fist.md), your weapon and animations will remain as the Inheritor, as Untrained Fist does not have a bare hands variant. This removes a few of the downsides of this Talent, while also not incurring Untrained Fist's -50% damage passive.
-
 This manually changes your weapon to Fists on proc, setting your stats on each weapon swing. This has a few upsides and downsides;
 
 -   **Upsides**:
     -   You'll be able to benefit from Fist and Light Weapon Talents while it is active, as well as the Fists PvE effect of increased blunt damage, scaling on the amount of Fists Talents you have.
 -   **Downsides**:
-    -   Because your bare hands cannot be enchanted, your Weapon Enchantment will be disabled while active.
     -   You cannot proc your Greatsword or Heavy Talents while active.
-    -   Quality star bonuses on your Inheritor will not transfer over to the Fists.
+    -   Your Range and other stats that aren't explicitly carried over by this Talent will be temporarily reduced while your weapon is Fists.
+    -   If you do not have a [Fist Style](Fists.md#styles), you will equip [Untrained Fist](Untrained_Fist.md), halving your weapon damage while active.
 -   **Other**:
     -   Your [Silentheart](Oath%253A_Silentheart.md) abilities will change to the Light Weapon ones while this is active. This isnt inherently an upside nor a downside, but keep in mind that these abilities scale on the respective attribute.
 
