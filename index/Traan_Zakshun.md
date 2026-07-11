@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 216807
+revid: 219679
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -394,7 +394,7 @@ Sold Items
   <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
   <td>
   <ul>
-    <li><b>For 25 </b>: <a href="Darkened_Bastion.md">Darkened Bastion</a></li>
+    <li><b>For 20 </b>: <a href="Darkened_Bastion.md">Darkened Bastion</a></li>
     <li><b>For 50 </b>: <a href="Celtorian_Tideknight.md">Celtorian Tideknight</a></li>
   </ul></td>
 </tr>
@@ -411,7 +411,7 @@ Sold Items
   <ul>
     <li><a href="Enchant_Stone.md"><b>Enchant Stones</b></a> &amp; <a href="Enchant_Grease.md"><b>Enchant Grease</b></a>: <a href="Allure.md">Allure</a>, <a href="Bluster.md">Bluster</a>, <a href="Curse_of_Ysley's_Ember.md">Curse of Ysley's Ember</a>, <a href="Stench.md">Stench</a>, <a href="Stone.md">Stone</a>, <a href="Vampirism.md">Vampirism</a></li>
   </ul></li>
-    <li><b>For 7 </b>: <a href="Sinner's_Ash.md">Sinner's Ash</a></li>
+    <li><b>For 6 </b>: <a href="Sinner's_Ash.md">Sinner's Ash</a></li>
     <li><b>For 10 </b>: <a href="Astral.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Crimson_Terrapod_Shell.md">Crimson Terrapod Shell</a>, <a href="Drowned.md">Drowned</a> <a href="Enchant_Grease.md">Enchant Grease</a></li>
     <li><b>For 15 </b>: <a href="Parasol_Membrane.md">Parasol Membrane</a></li>
     <li><b>For 20 </b>: <a href="Frost_Essence.md">Frost Essence</a>, <a href="Gale_Essence.md">Gale Essence</a></li>
