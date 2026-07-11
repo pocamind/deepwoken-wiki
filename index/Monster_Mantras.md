@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 213498
+revid: 219666
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -160,14 +160,15 @@ Blunt ResistanceBlunt
  |
 | 
 
-**Effect:** _The user digs into the ground, pulling out a comically large bone, and throwing it for hefty damage. This move has a large startup and is based on the [Bone Keeper's](Bone_Keeper.md) '**Femur Throw'** attack._
+**Effect:** _The user digs into the ground, pulling out a comically large bone, and throwing it for hefty damage. This move has a large startup and is based on the [Bone Keeper](Bone_Keeper.md)'s '**Femur Throw'** attack._
 
 -   Deals about 100 damage.
+    -   Landing direct hits with this Mantra deals less damage than landing the AoE.
 -   Applies HEAVY posture damage, almost always guardbreaking.
 -   Grants hyperarmor during startup.
--   Ragdolls the opponent very far.
--   The range is a little less than twice the distance between [Das](Das.md) and [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) in the [Temple Sparring Hall](Temple_Sparring_Hall.md).
--   Has 9.18x PvE scaling
+-   [Ragdolls](Status_Effects.md#ragdoll) the opponent and flings them on hit.
+-   Has 9.18x PvE scaling.
+-   The damage of this Mantra can be improved by equipping the [Bone Ring](Bone_Ring.md), granting it 30 additional damage.
 
  |
 | 
@@ -199,11 +200,11 @@ Slash ResistanceSlash
  |
 | 
 
-**Effect:** _The user grows coral on their back and sprays coral in every direction. Based on the [Megalodaunt's](Megalodaunt.md) '**Thousand Needles'** attack._
+**Effect:** _The user grows coral on their back and sprays coral in every direction. Based on the [Megalodaunt](<Megalodaunt_(disambiguation).md>)'s '**Thousand Needles'** attack._
 
--   This mantra deals 90 damage to ships.
--   This mantra has ~4 damage per hit with 8 hits, totalling for ~32 damage
--   This mantra has ~9.18x PvE scaling
+-   This Mantra has ~4 damage per hit with 8 hits, totalling for ~32 damage.
+-   Deals 90 damage to ships.
+-   This Mantra has 9.18x PvE scaling.
 
  |
 | 
@@ -237,8 +238,8 @@ Ice ResistanceSlash
 
 **Effect:** _The user shoots out a devastating beam of compressed ice, based on the [Dread Serpent](Dread_Serpent.md)'s **Ice Beam**. This move stuns and procs ice, slowing enemies._
 
--   Inflicts Chill.
--   It will proc crystals if the user has **Glass Path: Crystallization**.
+-   Inflicts [Chill](Status_Effects.md#chill).
+-   It will change color to pink and apply [crystals](Status_Effects.md#crystal) if the user has [Glass Path: Crystallization](Talents.md#glass-path-crystallization).
 
  |
 | 
@@ -270,11 +271,11 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
  |
 | 
 
-**Effect:** _Pull out a Gatling gun, mowing down the enemies in your way. This mantra is based on the [Mechalodaunt's](Mechalodaunt.md) '**Bullet Fury'** attack._
+**Effect:** _Pull out a Gatling gun, mowing down the enemies in your way. This mantra is based on the [Mechalodaunt](Mechalodaunt.md)'s '**Bullet Fury'** attack._
 
 -   The bullets do not stun, dealing minuscule damage with a short range of fire.
--   Inflicts Burn and sets the user on fire.
--   Will proc eruptions if the user has **Eruption Path: Lava Serpent**.
+-   Inflicts [Burn](Status_Effects.md#burn) and sets the user [on fire](Status_Effects.md#burn).
+-   Will proc eruptions instead of applying burn if the user has [Eruption Path: Lava Serpent](Talents.md#eruption-path-lava-serpent).
 
  |
 | 
@@ -308,9 +309,9 @@ Slash ResistanceSlash
 
 **Effect:** _The user grows a [Terrapod](Terrapod.md) claw from their left arm and begins to spin forward after a short windup._
 
--   Deals ~6 damage per hit with bleed damage and a total of 6 hits, totalling to 36+5.4 bleed damage.
--   Deals about 10 posture
--   Cancels if parried.
+-   Deals ~6 damage per hit with innate [bleed](Status_Effects.md#bleed) damage and a total of 6 hits, totalling to 36 + bleed.
+-   Deals about 10 posture in total.
+-   Cancels if parried. The movement speed increase will be retained after it has been parried, lasting until the Mantra would have ended.
 -   Can be modified with Aeon and Eternal Logstones to increase the number of times it hits
 -   Can be modified with Drift and Rush Shards, but it doesn't seem to do anything (needs testing)
 
@@ -377,12 +378,13 @@ Blunt ResistanceBlunt
  |
 | 
 
-**Effect:** _Burrow into the ground, giving invincibility for its duration. Click to cancel the Mantra and hit anybody above, knocking them upwards. Based on the [Thresher's](Thresher.md) '**Burrow'**._
+**Effect:** _Burrow into the ground, giving invincibility for its duration. Click to cancel the Mantra and hit anybody above, knocking them upwards. Based on the [Thresher](Thresher.md)'s '**Burrow'**._
 
+-   Deals 35 damage.
+-   The burrow has a duration of 3 seconds, ending early if you get close to a player/NPC.
+    -   Unlike [Sanguine Dive](Bloodrend.md#sanguine-dive) and [Shade Step](Shadowcast.md#shade-step), this cannot be manually deactivated early by pressing M1.
+-   Can be enhanced by using the [Thresher Charm](Thresher_Charm.md), increasing the burrow duration by 30%, and reducing its cooldown by 25%.
 -   Shares a cooldown with [Shade Step](Shadowcast.md#shade-step) and [Sanguine Dive](Bloodrend.md#sanguine-dive).
--   Functions similar to [Sanguine Dive](Bloodrend.md#sanguine-dive). After ~3 seconds, or if you are near someone, you will be forced to un-burrow out of the ground.
--   Unlike [Sanguine Dive](Bloodrend.md#sanguine-dive) or [Shade Step](Shadowcast.md#shade-step) this mantra can not be ended early by pressing M1.
--   Deals 39 damage with 2 songchant, probably has a base unmodified damage of 35
 
  |
 

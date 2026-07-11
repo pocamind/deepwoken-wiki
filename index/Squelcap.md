@@ -1,6 +1,6 @@
 ---
 title: Squelcap
-revid: 219658
+revid: 219663
 source: https://deepwoken.fandom.com/wiki/Squelcap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Ingredients, Harvestables, Mushrooms]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | value | 15 |
 | weight | 1 |
-| stack | x99? |
+| stack | x99x |
 | type | Ingredient |
 | food type | ?? |
 | stomach | ??% |
@@ -28,14 +28,12 @@ notices:
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
+## Description
+
+A tall white mushroom. It can only be found at [Simforea](Simforea.md).
+
 ## Crafting
 
 ### Used In
 
 [Squelcap Pilaf](Squelcap_Pilaf.md) - 3 [Latchgrain](Latchgrain.md), 1 Squelcap at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
-
-## Trivia
-
-Can be found at simforeira.
-
-One spot locations is the bottom of a zipline

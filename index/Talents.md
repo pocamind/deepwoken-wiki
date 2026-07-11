@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 219547
+revid: 219673
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3947,22 +3947,19 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Twisted Puppets
 
 -   Wraith Path: Twisted Puppets \[Common Talent, Dual Attunement, Flamecharm, Shadowcast\] - Your Flamecharm mantras \[_[sic](https://en.wikipedia.org/wiki/sic)_\] summon puppets of shadow and flame. Your flames are now black.
-    -   Turns [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>), [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Rosen's Hellflame](<Rosen's_Hellflame.md>), [Blazing](Blazing.md), and [Railblade's](Railblade.md) criticals and all Flamecharm Mantras black. Additionally, the orange on the [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>)'s and [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)'s models change to black. And the orange on [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)'s model changes to purple.
+    -   Turns [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>), [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Rosen's Hellflame](<Rosen's_Hellflame.md>), [Blazing](Blazing.md), and [Railblade](Railblade.md)'s criticals and all Flamecharm Mantras black. Additionally, the orange on the [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>) to grey, [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) to black, and [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) to purple.
     -   Twisted Puppets has two different burn types. They both look identical and they **both** scale on your Flamecharm investment, deal Flamecharm damage, and _drain_ 6.25 Ether per tick from affected players.
-        -   Shadow damage from any source applies **Shadow Burn**. Shadow Burn does 75% less damage than base Flamecharm burn. This burn type cannot be applied to knocked targets.
-        -   Anything that would normally apply burn applies **Puppet Burn**. Puppet Burn does 87.5% less damage than base Flamecharm burn. Puppet Burn allows you to spawn Puppets.
-        -   Both these damage multipliers are applied after other damage boosters such as Ash Ember thus working extremely poorly with it.
-    -   Puppets deal 20 **typeless** damage with **no** innate investment scaling. Because Puppets deal typeless damage, they **bypass** armor resistances and Everchanging Aegis. They do **NOT** do True Damage however, as general resistances still work on them.
+        -   Shadow damage from any source applies **[Shadow Burn](Status_Effects.md#shadow-burn)**. Shadow Burn does 75% less damage than base Flamecharm burn. This burn type cannot be applied to knocked targets.
+        -   Anything that would normally apply burn applies **[Puppet Burn](Status_Effects.md#puppet-burn)**. Puppet Burn does 87.5% less damage than base Flamecharm burn. Puppet Burn spawns Twisted Puppets every 4 seconds, that travel to where the target initially was when the Puppet was spawned.
+    -   Puppets deal 20 **typeless** damage with **no** innate investment scaling. Because Puppets deal typeless damage, they **bypass** armor resistances and aren't affected by [Everchanging Aegis](#everchanging-aegis).
     -   Puppet damage can be increased with damage modifiers. Additionally, Puppet damage is reduced when it's raining unless you have the Unyielding Inferno Talent.
     -   Puppets deal 10 posture damage.
-    -   Puppets spawn whenever Puppet Burn deals damage with a 4 second cooldown.
     -   Increases the uptime of your [Flame of Denial](Flamecharm.md#flame-of-denial) by 25%, from 25 seconds to 31.25.
     -   Prerequisites: 40 Flamecharm & 40 Shadowcast
     -   Mutual Exclusives: Eruption Path: Lava Serpent, Azure Flames, Flashboil
 
 -   Burning Puppets \[Common Talent, Dual Attunement, Flamecharm, Shadowcast\] - Your puppets can now inflict burn and fire-based Talents when they explode.
-    -   Grants Puppets 5 Flamecharm scaling, increasing their damage by 0.1 per point in Flamecharm.
-        -   Your Puppets will deal 30 damage at 100 Flamecharm with this talent.
+    -   Grants Puppets 5 Flamecharm scaling, increasing their damage by 0.1 per point in Flamecharm, up to 30 at 100 Flamecharm.
     -   Your Puppets apply Puppet burn, allowing you to spawn more Puppets.
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
 
@@ -3976,13 +3973,12 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Explosive Rage \[Common Talent, Dual Attunement, Flamecharm, Shadowcast\] - Causing explosion will make your puppets go into a frenzy - speeding up and dealing 50% more damage.
     -   The buff is signified by an orange swirling aura around your Puppets.
     -   Buffs all currently alive Puppets and all Puppets that spawn within the next 10 seconds.
-    -   The damage buff is bugged and does not work.
-    -   The following abilities and Talents proc Explosive Rage: Explosive Finish, Emperor Flame, The Final Act, and the [Detonation](Detonation.md) enchant.
+        -   The damage buff only applies to newly created Puppets, unlike the movement speed buff, which affects both old and new Puppets.
+    -   The following abilities and Talents proc Explosive Rage: [Explosive Finish](#explosive-finish), [Emperor Flame](#emperor-flame), [The Final Act](#the-final-act), [Scorchblood](#scorchblood), and the [Detonation](Detonation.md) enchant.
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
 
 -   Moths to a Flame \[Common Talent, Dual Attunement, Flamecharm, Shadowcast\] - You summon a puppet of black flames that homes onto enemies with black flames.
-    -   Your Puppets home onto the closest entity (excluding yourself) who is burning from either of the Twisted Puppets burn types.
-        -   This can include allies.
+    -   Your Puppets home onto the closest entity (excluding yourself) who is burning from either of the Twisted Puppets burn types. This can include allies.
     -   Puppets move significantly faster when they get close to a burning target.
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
 

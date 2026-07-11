@@ -1,6 +1,6 @@
 ---
 title: Soothsayer
-revid: 206028
+revid: 219662
 source: https://deepwoken.fandom.com/wiki/Soothsayer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, Reputation, NPCs, NPCs located in the Etrean Luminant, The Ministry, Individuals with unspecified pronouns]
@@ -66,6 +66,7 @@ Exact location of Soothsayer on the map:
     <li><b>AH! ALL SO CLEAR! TO THINK SUCH A THING WAS WATCHING US ALL ALONG!</b></li>
     <li><b>AH! ALL SO CLEAR! YUN'SHUL STIRS! THE KEEPER TAKES THAT WHICH IS HIS HAUL!</b></li>
     <li><b>AH! SO CLEAR! A BILLION WORLDS! A VAST TAPESTRY OF LIVES ACROSS THE COSMOS! ALL SNUFFED OUT! ALL GONE!</b></li>
+    <li><b>AH! ALL SO CLEAR! LAYERS! FOLDS OF THE ALL-FABRIC! EVERY SPAN BETWIXT THE STARS COLLASPSED. DRAWN TOGETHER!</b></li>
   </ul></td>
   <td colspan="2">[See first instance]</td>
 </tr>

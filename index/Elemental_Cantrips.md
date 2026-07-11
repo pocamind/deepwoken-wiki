@@ -1,12 +1,18 @@
 ---
 title: Elemental Cantrips
-revid: 213047
+revid: 219667
 source: https://deepwoken.fandom.com/wiki/Elemental_Cantrips
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Attunement]
 ---
 
 # Elemental Cantrips
+
+“ Wielding any Mantra of an element grants you Cantrips of that element. Cantrips are minor feats available to wielders of an element, such as lighting campfires or purifying drinking water. ”
+
+― [Loading Screen](Loading_Screen.md) tip
+
+  
 
 ## Overview
 
