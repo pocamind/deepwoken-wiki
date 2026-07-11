@@ -1,6 +1,6 @@
 ---
 title: Voices of the Depths
-revid: 214927
+revid: 219645
 source: https://deepwoken.fandom.com/wiki/Voices_of_the_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages requiring a cleanup, NPCs, The Depths, Voiced Characters]
@@ -244,3 +244,4 @@ After Defeating [Dravik, The Rat King](Dravik,_The_Rat_King.md) the Voices will 
 
 -   "Odium" is a reference to the book series _The Stormlight Archive_, as are some of the first names that can be chosen.
 -   The Voices may be referencing the "Shards" in Brandon Sanderson's novels, including _The Stormlight Archive_.
+-   The Voice of Odium is voiced by Naktigonis.

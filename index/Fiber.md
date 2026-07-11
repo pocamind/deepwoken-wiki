@@ -1,6 +1,6 @@
 ---
 title: Fiber
-revid: 190629
+revid: 219646
 source: https://deepwoken.fandom.com/wiki/Fiber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]
@@ -19,7 +19,7 @@ categories: [Items, Craftable, Ingredients]
 | droppable | Yes |
 | pass down | No |
 | desc | A small gathering of natural fibers. |
-| obtainment | Bought for 3 from every vendor., Crafting together two (2) Bamboo Bundles, Marram Grass, or one (1) Spider Egg. |
+| obtainment | Bought for 3 from every vendor, Bought for 3 inside the Alchemy room of a Guild Base, Crafting together two (2) Bamboo Bundles, Marram Grass, or one (1) Spider Egg |
 
 **Fiber** is an essential resource used to craft [Outfits](Outfits.md) and other tools.
 

@@ -1,6 +1,6 @@
 ---
 title: Squelcap
-revid: 208843
+revid: 219658
 source: https://deepwoken.fandom.com/wiki/Squelcap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Ingredients, Harvestables, Mushrooms]
@@ -33,3 +33,9 @@ This content is not accessible outside of this gamemode.
 ### Used In
 
 [Squelcap Pilaf](Squelcap_Pilaf.md) - 3 [Latchgrain](Latchgrain.md), 1 Squelcap at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
+
+## Trivia
+
+Can be found at simforeira.
+
+One spot locations is the bottom of a zipline

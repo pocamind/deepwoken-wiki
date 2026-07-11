@@ -1,6 +1,6 @@
 ---
 title: Remnants of Soul
-revid: 216533
+revid: 219643
 source: https://deepwoken.fandom.com/wiki/Remnants_of_Soul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics]
@@ -31,3 +31,4 @@ The Remnants of Soul is a [Relic](Relics.md) containing a mix of healing remedie
 ## Trivia
 
 -   Due to it being green healing it most likely also works with [Critical Heal](Talents.md#critical-heal).
+-   Warning as of 7/10/26: Remnants of Soul are currently bugged and will NOT heal you, they cannot stack past 2 which is obviously not intended. It's advised you don't waste your remnants.

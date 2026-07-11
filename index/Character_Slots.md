@@ -1,6 +1,6 @@
 ---
 title: Character Slots
-revid: 187413
+revid: 219640
 source: https://deepwoken.fandom.com/wiki/Character_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes, Mechanics]
@@ -44,12 +44,12 @@ The slot selection menu serves as a list of all of your character slots.
 ### Slot Letters
 
 -   The slot letter is the first piece of text presented for each slot.
--   The maximum of 100 character slots corresponds to the slot letters starting from A to Z then AA to AZ then BA to BZ, and finally CA to CL.
+-   The maximum of 100 character slots corresponds to the slot letters starting from A to Z then AA to AZ then BA to BZ, and finally CA to CV.
     -   Following the 26th character slot, each following slot will have two letters, starting with A then a second letter from A to Z.
     -   Following the 52nd character slot, each following slot will have two letters, starting with B then a second letter from A to Z.
     -   Following the 78th character slot, each following slot will have two letters, starting with C then a second letter from A to V.
 -   The slot letter(s) cannot be changed and is tied to the slot the moment you purchase it.
--   Two slots cannot have identical letter combinations as the slot letter is a key identifier for each slot.
+-   Two slots cannot have identical letter combinations as the slot letter is a key identifier for each slot, and slots are given the letter(s) in sequential order.
 
 ### Character Name
 

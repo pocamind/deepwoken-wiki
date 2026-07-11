@@ -1,6 +1,6 @@
 ---
 title: Weapon Manual
-revid: 219252
+revid: 219656
 source: https://deepwoken.fandom.com/wiki/Weapon_Manual
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Training Gear]
@@ -11,8 +11,8 @@ categories: [Items, Training Gear]
 | Weapon Manual | |
 |---|---|
 | value | 3 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | pass down | No |
 | obtainment | Gear Cabinets |
 
