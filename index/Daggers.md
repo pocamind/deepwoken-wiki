@@ -1,9 +1,9 @@
 ---
 title: Daggers
-revid: 204993
+revid: 219566
 source: https://deepwoken.fandom.com/wiki/Daggers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Weapons with Multi-Hit Criticals", Weapons, Light Weapons, Weapons by Class]
+categories: ["Weapons with Multi-Hit Criticals", Weapons, Light Weapons, Weapon Classes]
 ---
 
 # Daggers

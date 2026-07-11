@@ -1,16 +1,20 @@
 ---
 title: Greatcannons
-revid: 211228
+revid: 219613
 source: https://deepwoken.fandom.com/wiki/Greatcannons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Weapons with Multi-Hit Criticals", Weapons, Heavy Weapons, Weapons by Class]
+categories: ["Weapons with Multi-Hit Criticals", Weapons, Heavy Weapons, Weapon Classes]
 ---
 
 # Greatcannons
 
 ## Description
 
-Greatcannons are large, cannon weapons, wielded with both hands. These weapons have indescribable firepower at the price of being incredibly heavy and cumbersome. Uniquely to Greatcannons, they do not receive reduced aerial attack damage unlike all other heavy weapon classes.
+Greatcannons are large, cannon weapons, wielded with both hands. These weapons have indescribable firepower at the price of being incredibly heavy and cumbersome.
+
+Like all other Heavy Weapon categories, _most_ Greatcannons are locked into the Two-Handed Stance, with this restriction typically being removed by having at least 40 Heavy Weapons investment.
+
+After parrying an attack, your next light attack will gain [Hyperarmor](Status_Effects.md#hyperarmor).
 
 ## Default Animations
 
@@ -19,6 +23,11 @@ The Greatcannons weapon class comes with a set of default weapon animations.
 ## Default Critical
 
 Greatcannons uses the default Greatcannon critical, firing the cannon and dealing damage in a large unparryable shockwave in front of the user before firing a projectile. The shockwave applies daze and has a scaled damage multiplier of **0.75x**. The projectile is mouse aim-able and explodes on contact, applying [Burn](Status_Effects.md#burn) with a scaled damage multiplier of **1x**. This critical has a cooldown of **7 seconds**. The projectile's damage will lessen the farther the projectile travels.
+
+## Trivia
+
+-   Unlike all other Heavy Weapon classes, Greatcannons are the only one to not suffer the -15% aerial attack damage penalty.
+-   There is almost no visual difference between the two stances on Greatcannons, though you can still change stances on them.
 
 ## Weapons
 

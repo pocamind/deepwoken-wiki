@@ -1,9 +1,9 @@
 ---
 title: Rapiers
-revid: 204991
+revid: 219615
 source: https://deepwoken.fandom.com/wiki/Rapiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Weapons, Light Weapons, Weapons by Class]
+categories: [Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Weapons, Light Weapons, Weapon Classes]
 ---
 
 # Rapiers
@@ -16,7 +16,7 @@ These weapons are traditionally locked to the One Handed stance.
 
 ## PvE Mechanics
 
-Using a light attack after parrying will riposte your opponent, adding a secondary damage instance to your attack that deals reduced damage.
+Using a weapon attack after parrying will riposte your opponent, adding a secondary damage instance to your attack that deals 70% of your hits damage. This secondary damage instance will apply to every hit of your Critical Attack.
 
 ## Default Animations
 

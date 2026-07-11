@@ -1,12 +1,32 @@
 ---
 title: Staves
-revid: 208930
+revid: 219634
 source: https://deepwoken.fandom.com/wiki/Staves
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Medium Weapons, Weapons by Class]
+categories: [Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Weapons, Medium Weapons, Weapon Classes]
 ---
 
 # Staves
+
+## Description
+
+Staves are polearm weapons with two blunt ends.
+
+Staves specialize in follow-up strikes featuring the opposite end of your Staff. These attacks, triggered by pressing M2 after triggering the conditional for [Both Ends](Talents.md#both-ends) or [Counter Strike](Talents.md#counter-strike), deal 45% of your weapon's damage. These attacks are much faster than a standard basic attack, and have the M1 tag, allowing them to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+
+The follow-up strikes have a 1 second cooldown, shared between all Talents that trigger them.
+
+Typically, these weapons can freely swap between the One and Two-Handed stances.
+
+## Default Animations
+
+The Staves weapon class comes with a set of default weapon animations.
+
+## Default Critical
+
+Staves uses the default Staff critical, a pole vault before slamming the staff onto the target, knocking them away and applying [Knockdown](Status_Effects.md#knockdown). It has a scaled damage multiplier of **0.4x** on the pole vault and **2.2x** on the slam, and has a cooldown of **6 seconds**. This critical can break destructible terrain.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Weapons
 

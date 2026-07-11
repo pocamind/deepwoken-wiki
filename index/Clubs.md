@@ -1,9 +1,9 @@
 ---
 title: Clubs
-revid: 206187
+revid: 219565
 source: https://deepwoken.fandom.com/wiki/Clubs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Medium Weapons, Weapons by Class]
+categories: [Weapons, Medium Weapons, Weapon Classes]
 ---
 
 # Clubs

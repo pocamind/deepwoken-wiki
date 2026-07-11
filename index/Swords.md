@@ -1,9 +1,9 @@
 ---
 title: Swords
-revid: 206189
+revid: 219569
 source: https://deepwoken.fandom.com/wiki/Swords
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Criticals with M1 tag, Weapons, Medium Weapons, Weapons by Class]
+categories: [Criticals with M1 tag, Weapons, Medium Weapons, Weapon Classes]
 ---
 
 # Swords

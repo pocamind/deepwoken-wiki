@@ -1,6 +1,6 @@
 ---
 title: Staffs
-revid: 214916
+revid: 219636
 source: https://deepwoken.fandom.com/wiki/Staffs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   Category:Staves
+-   [Staves](Staves.md)
