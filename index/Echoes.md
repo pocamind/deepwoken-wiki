@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 219718
+revid: 219732
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Echoes, Character, Mechanics, Creation, Features absent in Vow of Iron]
@@ -480,22 +480,21 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 -   The actual effects of "Resonance Rarity" boosts the chance to receive Corrupted and Legendary Resonances by 0.2x per upgrade, with your chance doubling at the max upgrade.
 -   There are a few sources of damage that bypass Glass Bones' effects, allowing you to take the damage without being knocked. These are:
     -   The [Boulder](Training_Gear.md#attribute-training-gears) training gear
-    -   [Starvation](Status_Effects.md#parchedstarved)
+    -   [Starvation](Status_Effects.md#starved)
 -   Loose Change does not make you lose Notes when you take damage from any source like the description implies, instead only attacks from humanoids reduce your Notes, though it can be inconsistent at times.
 -   Any Mantra hand not granted from leveling, and any Talent/Mantra hand granted from [Deep Shrines](Deep_Shrines.md) do not get autopicked with Destined so you can abuse this to look for cards with more comfort.
 -   Unlike all the other bosses in the game, defeating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md), [Heart of Enmity](Heart_of_Enmity.md), [Parliament](Parliament.md), [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>), and [Interluminary Parasol](Interluminary_Parasol.md) do not reward Echoes.
     -   This technically makes them the only true "optional" bosses in the game, as they are not required for W Rank.
 -   The [Leather Gloves](Leather_Gloves.md) and [Boots](Leather_Boots.md) from the Starting Equipment Echo Unlock are equipped automatically at the end of character creation. This means, if you've chosen [Lone Warrior](Lone_Warrior.md), you can spawn in the [Trial of One](Trial_of_One.md) with equipment on.
-    -   Attempting to unequip the [Leather Gloves](Leather_Gloves.md) or [Boots](Leather_Boots.md) will cause the item to be **permanently deleted**.
 -   Multifaceted makes the 5 innate [Aspect](Aspects.md) points free to allocate. For example instead of having 3 Fortitude and 2 Willpower on a [Vesperian](Vesperian.md), all of your stats will be at 0 and you will be given 5 free points to invest. This allows for much more build diversity with all aspects.
-    -   After purchasing Multifaceted, any pre-existing slot that didn't invest into stats that were increased by their Aspect will be able to use [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md) to reallocate them.
--   Elementalist allows you to have more then 2 elements on character starts so rather then have just 2 maximum you can start with 4 or 3 or even all of them, with this you can also allocate your attunement points freely such as starting a character with 3 Flame 2 Ice 3 Shadow and 2 Gale, or 9 Blood and 1 Thunder, etc. This will take points out of your starting points though.
+    -   After purchasing Multifaceted, all pre-existing characters will have their Aspect-given attribute points uninvested, while you keep any Talent or Mantra that you no longer meet the requirements of.
+-   Elementalist allows you to choose more than 2 elements during [Character Creation](Character_Creation.md). Additionally, this Echo Unlock allows you to freely allocate attribute points into the starting Attunements, such as starting a character with 3 Flame 2 Ice 3 Shadow and 2 Gale, or 9 Blood and 1 Thunder, etc. This will take points out of your starting points though.
 
 ## Trivia
 
 -   On March 16th, 2025, [Chad09999 or Midq](https://www.youtube.com/watch?v=fcB0KECJA6A%7C) became the first player to achieve W rank with the _Glass Bones_ modifier.
--   On December 13th, 2025, with the addition of the [Vow of Iron](Vow_of_Iron.md), the **Ironwoken** and **Vow of Thorns** Echo Modifiers were removed form the game.
+-   On [December 13th, 2025](Version_History/2025.md#december-13th-2025), with the addition of the [Vow of Iron](Vow_of_Iron.md), the **Ironwoken** and **Vow of Thorns** Echo Modifiers were removed form the game.
     -   While Vow of Thorns was "removed", it was really re-purposed to handle certain mechanics in Vow of Iron; meaning that if you had a slot with Vow of thorns before it was removed, that slot and any future instances of it will have the "IronVow" echo modifier instead, making them drown from every surface death
         -   This can be fixed by pressing the "enable all/disable all" button in the echo-modifier section of character-creation.
 -   Chain of Perfection was initially made to not gain stacks on mantra hits. But due to _massive_ community uproar the change was reverted but made multihits give you less stacks.
--   Visually, combining all Echo Modifiers grants 3.1x Echoes, but, dividing 427/3.1 will give you 137.8125. Instead, Dividing by 427/3.15 will give you 140, the maximum amount of Echoes. This is due to the game always rounding to the nearest tenth, even if the value is not true.
+-   Visually, combining all Echo Modifiers grants 3.1x Echoes, but dividing 421/3.1 will give you 136. Instead, Dividing by 420.9/3.05 will give you 138, the maximum amount of Echoes. This is due to the game always rounding to the nearest tenth, even if the value is not true.

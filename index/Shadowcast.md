@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 219705
+revid: 219724
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -208,7 +208,7 @@ Shadow [ResistanceShadowcast](Shadowcast.md)
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
 -   Adding [Crystal](Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) will increase the range of your Shadow gun, this will however reduce the damage of the Mantra.
 -   Adding [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) will increase the height and width of the blast, this will however reduce the damage of the Mantra.
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), making your Shadow Gun a barrage that deals more damage. It will, however, also remove the guaranteed guardbreak and double the Ether cost from what's displayed (i.e. a 40 Ether cost Shadow Gun will actually cost 80 of your Ether if a Blast Spark is equipped).
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), making your Shadow Gun a barrage that deals more damage. It will, however, also remove the guaranteed guardbreak and triples the Ether cost from what's displayed (i.e. a 50 Ether cost Shadow Gun will actually cost 150 of your Ether if a Blast Spark is equipped).
     -   Has a base damage of 11.88/13.86/15.84/17.82/19.8 per level, per hit (3) with 2.75 Shadowcast scaling. Deals 160% of the base variant's damage if all hits land.
     -   Drains 4.48/5.06/5.56/6.14/6.72 Ether per level, per hit (3) with 2.75 Shadowcast scaling. Drains 50% of the base variant's Ether if all hits land.
 

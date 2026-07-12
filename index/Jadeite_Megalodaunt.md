@@ -1,6 +1,6 @@
 ---
 title: Jadeite Megalodaunt
-revid: 219719
+revid: 219733
 source: https://deepwoken.fandom.com/wiki/Jadeite_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso]
@@ -28,9 +28,7 @@ categories: [Equipment, Torso]
 
 The Jadeite Megalodaunt is an [Equipment](Equipment.md) item under the "Torso" category. It is a waist-worn Megalodaunt charm made out of jade.
 
-The [Good Luck Charm](Talents.md#good-luck-charm) talent has an unknown effect; "Makes you feel a little better, probably." However, many players speculate that this talent increases the rare item drop rates from mobs, similar the deleted talent, Lootskipper.
-
-This makes the Jadeite Megalodaunt Charm highly sought after by players who want to farm [Moon Knights](Moon_Knight.md) for the [Astral](Astral.md) Enchant.
+The [Good Luck Charm](Talents.md#good-luck-charm) Talent has an unknown effect; "Makes you feel a little better, probably."
 
 ## Trivia
 

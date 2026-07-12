@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 215502
+revid: 219735
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -976,4 +976,4 @@ These are Talents found in "_Quack Doctor_" Category.
 -   **Crucifixion** is a reference to Klaus' "Unbreakable Cross Shield" from _Blood Blockade Battlefront_; confirmed by a tester.
 -   **Vein Tendrils** could be a reference to Spider-Man, from Marvel Comics.
 -   Scarlet Cyclone was changed from 0 stars to 2 stars on 2/26/2026
--   Bloodrend's Mantras all used to be red in color by default until the release of [Vow of Iron](Vow_of_Iron.md), in which the color of some mantras were changed to a shade of purple to comply with Roblox's maturity policies.
+-   Bloodrend's Mantras all used to be red in color by default until the release of [Vow of Iron](Vow_of_Iron.md), in which the color of some mantras were changed to ~a shade of purple~ (it has now changed to a pinkish red color as of july 12th 2026) to comply with Roblox's maturity policies.
