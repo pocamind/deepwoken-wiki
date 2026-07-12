@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 218489
+revid: 219710
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -58,7 +58,15 @@ The formula to calculate Mantra damage is included on the [Mantras](Mantras.md#m
 
 Cantrips are, often minor, passive abilities that are granted upon obtaining any Mantra from the respective Attunement.
 
-**Purifying Frost** - Automatically purify certain forms of unsafe water, including any unsafe water collected in your [Canteen](Canteen.md) (excluding sea water), similar to the [Purifying Ring](Purifying_Ring.md).
+**Purifying Frost** - Automatically purify certain forms of unsafe water collected in your [Canteen](Canteen.md), turning it into fresh drinking water. Sea water and the [Celestial](Celestial.md) Ichor cannot be purified by this Cantrip.
+
+The [Purifying Ring](Purifying_Ring.md) Equipment has a similar effect. Most collectible water sources are already drinkable, removing most of the need for this Cantrip.
+
+Purifiable water sources include:
+
+-   [Guild Base](Guild_Bases.md) Fishing Pond water
+-   [Temple of the Blade](Temple_of_the_Blade.md) water, located in front of [Stratos](Stratos.md)
+-   [The Garden Reservoir](The_Garden_Reservoir.md) acid water
 
 ## Mantras
 

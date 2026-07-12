@@ -1,6 +1,6 @@
 ---
 title: True Heart of Enmity
-revid: 218328
+revid: 219687
 source: https://deepwoken.fandom.com/wiki/True_Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters]
@@ -195,6 +195,7 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
  | The Heart of Enmity, filled with contempt, makes an unparryable charge towards the player, sending them upwards before slowly taking flight and crashing down at them, dealing major damage.
 
 -   Only the secondary slam is parryable/blockable, not the charge.
+-   The charge is not instant, therefore dodging too early would result in losing lots of health from both hits.
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable

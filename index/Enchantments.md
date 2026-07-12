@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 219263
+revid: 219713
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Weapons, Equipment]
@@ -839,7 +839,7 @@ _Weapon gains +5% PEN. Applies Cauterize on hit for 15s, as well as draining the
 
 Your weapon gains 5% PEN. Landing hits with your weapon applies stacks of [Cauterize](Status_Effects.md#cauterized), increasing the incoming PEN your opponent takes by (LHT: 5.45%, MED: 8%, HVY: 10%) per stack. Cauterized caps at +40% incoming PEN.
 
-Cauterize's PEN bonus is applied to all damage sources like Mantras. Sear **does not** bypass the 50% PEN cap.
+Cauterize's PEN bonus is applied to all damage sources like Mantras. Sear **does not** bypass the 50% PEN cap unless you have Ether Overdrive or Million Ton Piercer.
 
 Additionally, drain your opponent's thirst equal to 20% of your weapon's scaled damage.
 

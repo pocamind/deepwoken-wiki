@@ -1,6 +1,6 @@
 ---
 title: Tomb of the Nameless Warrior
-revid: 206357
+revid: 219701
 source: https://deepwoken.fandom.com/wiki/Tomb_of_the_Nameless_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant]
@@ -25,7 +25,7 @@ Tomb of the Nameless Warrior is a cavern that is home to a single [Rotskipper](R
 
 The entrance can be found on a shore around the rear of [Erisia](Erisia.md).
 
-This location has [Erisore](Ores.md#erisore) in abundance, which can be made into [Navaen Nomad Robes](Navaen_Nomad_Robes.md) and other outfits that require it
+This location has [Erisore](Ores.md#erisore) in abundance, an ore primarily used to craft certain [Outfits](Outfits.md).
 
 ## Maps
 

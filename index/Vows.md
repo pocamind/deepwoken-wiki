@@ -1,6 +1,6 @@
 ---
 title: Vows
-revid: 173454
+revid: 219702
 source: https://deepwoken.fandom.com/wiki/Vows
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Talents, Character]
@@ -35,6 +35,10 @@ The Vow of Companionship is different due to the fact that it is created between
 ### Hereditary Vows
 
 These are Vows that were made prior to the arrival of most animal-based [aspects](Aspects.md) in Lumen, and the ones that allowed said aspects to exist in the first place. They were made a long time in the past by pagan tribes who worshipped animals, causing the descendents of those tribes to have animal-characteristics, as described in the book ["Vows by the Sea: Inheritance"](Books.md). The only aspect that does not possess a hereditary vow are the [Adret](Adret.md).[\[2\]](#cite-note-2)
+
+### [Vow of Iron](Vow_of_Iron.md)
+
+The Vow of Iron is both a separate gamemode for the players to experience (see more at [Vow of Iron](Vow_of_Iron.md) page), and a lore based Vow. The goals of Vow Of Iron is to find a way to take down [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) (Currently and widely known as [The Lord Regent](The_Lord_Regent.md).) in the past (1233 CE) by wielding the Memories ([Mementos](Mementos.md)) of those killed by his hand during his rise of power. Vow of Iron is the Vow everyone in the [Circle of Honour](Circle_of_Honour.md) took.
 
 ## References
 

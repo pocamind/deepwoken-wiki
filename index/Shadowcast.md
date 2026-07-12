@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 219364
+revid: 219705
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -53,8 +53,6 @@ Cantrips are, often minor, passive abilities that are granted upon obtaining any
 ### Night Vision
 
 This Cantrip increases the brightness in dark locations, allowing the player to see better in low-light environments.
-
-This Cantrip's effect is either extremely minor, or it does not currently work.
 
 ## Mantras
 

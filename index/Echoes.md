@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 219647
+revid: 219718
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Echoes, Character, Mechanics, Creation, Features absent in Vow of Iron]
@@ -54,13 +54,13 @@ Ranks by themselves do nothing, beside rank W, S and A that give a badge and, in
 | --- | --- | --- |
 | 
 
- | W | 140 (427 w/ all Echoes Modifiers except Glass Bones) |
+ | W | 138 (421 w/ all Echoes Modifiers except Glass Bones) |
 | 
 
- | S | 140 (Must do all Echoes tasks) |
+ | S | 138 (Must do all Echo Triumphs) |
 | 
 
- | A | 112-139 |
+ | A | 112-137 |
 | 
 
  | B | 87-111 |
@@ -103,10 +103,6 @@ Catching anything with a [Fishing Rod](Fishing_Rod.md) counts.
 | 
 
  | 1 | Win a [Chime of Conflict](Chime_of_Conflict.md) match. |
-| 
-
- | 2 | Drink an [Attribute Flask](Ingredients.md#lotuses).  
-[Attunement Potions](Attunement_Potions.md) do not count. (Must be strength, fortitude, agility, intelligence, willpower, charisma) |
 | 
 
  | 2 | Craft a [Master Armor](Outfits.md). |

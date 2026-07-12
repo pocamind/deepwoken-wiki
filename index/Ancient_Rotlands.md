@@ -1,6 +1,6 @@
 ---
 title: Ancient Rotlands
-revid: 214355
+revid: 219697
 source: https://deepwoken.fandom.com/wiki/Ancient_Rotlands
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Voidzones]
@@ -41,10 +41,6 @@ The Ancient Rotlands is a **[Voidzone](Voidzones.md)**, meaning you will be sent
 ### Derelict Highchurch
 
 -   High above the Ancient Rotlands is the [Derelict Highchurch](Derelict_Highchurch.md), a place controlled by the Starkindred Church, it can be accessed by taking the path in the back of the Rotlands.
-
-### Primordial Lotuses
-
--   [Zephyr Lotus](Primordial_Lotuses.md#zephyr-lotus) and [Miasmic Lotus](Primordial_Lotuses.md#miasmic-lotus) can be found scattered throughout the Rotlands used to make flasks for upgrading Agility and Charisma.
 
 ## Trivia
 

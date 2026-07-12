@@ -1,6 +1,6 @@
 ---
 title: The Cerebral Spire
-revid: 211364
+revid: 219694
 source: https://deepwoken.fandom.com/wiki/The_Cerebral_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Locations]
@@ -32,10 +32,14 @@ The Cerebral Spire serves as the central sanctuary where [the Inheritor](The_Inh
 -   [Reclaimer of the Recollection](Reclaimer_of_the_Recollection.md): A [Gremor](Gremor.md) who grants guidance on progression and the story within the mementos in Vow of Iron.
 -   [Azurath](Azurath.md): The acting [Antiquarian](Antiquarian.md) within the spire.
 
+Walking up the spiral stairway, you will stumble upon the Memory Pods. Those Memory Pods can take you to your respective Memory Task. (Ex: Simian Terror,Dancer.)
+
 ## Trivia
 
 -   While within this area, the Inheritor's hunger will not deplete, but their thirst still will.
 -   Players can still perform assassinations on each other in this location, but the attack will not deal any damage.
+-   Meanwhile players cannot fight in this location, campfires can be broken still and spawned NPC's can still fight with eachother.
+-   Everything has reversed colors in The Cerebral Spire. (Excluding the game's UI.)
 -   Four different contours of the song will play depending on the mementos boss progression:
     -   Contour 1 - Base Song
     -   Contour 2 - After defeating [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)

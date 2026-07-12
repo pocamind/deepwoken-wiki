@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 218110
+revid: 219698
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Game Modes, Paths, Character]
@@ -67,7 +67,7 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
     -   [Etris Flasks](Etris_Flask.md) can be quickly drank to restore 50% HP (60% with [Etrean](Etrean.md)). However, this is a limited resource that will only be refilled by returning to [The Cerebral Spire](The_Cerebral_Spire.md), entering [The Depths](<The_Depths_(Vow_of_Iron).md>), or by escaping The Depths. Upon creating your character, you will only have 1 Etris Flask charge, but more charges can be bought across the Luminant.
     -   [Campfires](Campfire_Pit.md) can still be used to restore your health.
     -   Health Packs only grants 5% HP. Enemies in The Depths provide no Health Packs.
-    -   Entering a Boundary will heal you to full however.
+    -   Entering a Boundary will heal you to full however. (You can also enter a Boundary while being Combat Tagged.)
 -   Vow of Iron characters have a permanently stained health bar. Any death will send them to The Depths.
 -   Vow of Iron characters face a unique Depths Trial that features [Bone Keeper](Bone_Keeper.md), [Parliament](Parliament.md), [Prime Megalodaunt](Prime_Megalodaunt.md) and [Nautilodaunt Officiate](Nautilodaunt_Officiate.md).
 -   Auto Parry is completely removed, requiring you to manually parry continuous attacks.
@@ -79,7 +79,7 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
 -   Defeating enemies yields only one item. This item is usually an equipment or weapon drop and is rarely a miscellaneous item unlike Pathfinder.
     -   Dedicated loot drops are almost entirely absent in Vow of Iron, only existing through Chest drops.
 -   Chests cannot be opened. Instead, they must be carried and brought to certain NPCs or The Cerebral Spire to be opened. Chests yield random loot and large amount of Notes, which is necessary for progression.
-    -   Interacting with a chest will have you carry it in a sack on your shoulder. You can carry multiple chests at once, however, getting put in hitstun or ragdolled will have you drop the sack.
+    -   Interacting with a chest will have you carry it in a sack on your shoulder. You can't carry multiple chests at once, however, getting put in hitstun or ragdolled will have you drop the sack.
 -   There are static items around the map that can be picked up. For example, the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) can be found at [Saramaed Summit](Saramaed_Summit.md).
 -   Black loot boxes can be found around the map, where you spend Notes to obtain a random item.
 
