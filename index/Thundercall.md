@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 219380
+revid: 219720
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -903,6 +903,7 @@ N/A
 -   \[\] Second Cooldown.
 -   When Sapping ends, the target is shocked. If you have surge path, it will apply a Surge stack.
 -   Can be modified with [Aeon](Mantra_Modifiers.md#regular-modifiers)/[Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to increase its uses.
+-   Is currently bugged visually with Surge Path: Unstable Capacitor, and does not correctly change all of its vfx colors to the intended blurple color of the path.
 
  |
 | 
