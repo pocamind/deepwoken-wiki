@@ -1,6 +1,6 @@
 ---
 title: "Champion's Alloy"
-revid: 219606
+revid: 219755
 source: https://deepwoken.fandom.com/wiki/Champion's_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]
@@ -36,3 +36,4 @@ categories: [Items, Craftable, Ingredients]
 -   This item has the highest sell price in the game. It is so high in fact, that the [Snake Oil](Talents.md#snake-oil) Talent will not increase the sell price further, as the base value is already the Note cap.
 -   Strangely, the Champion's Alloy has physics when dropped, as you drop the entire physical model.
     -   Perhaps even more strangely than that, when you drop the Champion's Alloy, you drop the entire stack of said item even when not using the 'drop all' feature; carrying three Champion's Alloys? You'll drop all three just by pressing backspace once.
+-   Despite what the description says, the item is crafted at the lost forge and not the cold forge.

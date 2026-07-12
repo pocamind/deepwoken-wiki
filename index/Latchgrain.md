@@ -1,6 +1,6 @@
 ---
 title: Latchgrain
-revid: 214992
+revid: 219739
 source: https://deepwoken.fandom.com/wiki/Latchgrain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Ingredients, Harvestables]
@@ -17,8 +17,8 @@ notices:
 | stack | x99? |
 | type | Ingredient |
 | food type | ?? |
-| stomach | ??% |
-| water | ??% |
+| stomach | 2% |
+| water | 2% |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

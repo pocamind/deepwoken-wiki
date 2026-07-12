@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 219735
+revid: 219737
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -963,7 +963,7 @@ These are Talents found in "_Quack Doctor_" Category.
         -   _Bloodwarden's Sense_ - Enemies you attack with a mantra are highlighted red briefly.
     -   70% - _Gruesome Harvest_ Talent is Activatable
         -   _**Gruesome Harvest**_ - Landing Bloodrend mantras on opponents will give you 15 temporary health.
--   The [Ironsing](Ironsing.md) Talent, Alloyblood changes the color of your Bloodrend mantras to a blue-ish grey.
+-   The [Ironsing](Ironsing.md) Talent, Alloyblood changes the color of your Bloodrend mantras to a grey-ish blue.
 -   Chaser seems to be using his own version of Bloodrend - tailored and handcrafted by none other than the Second Prophet, as said in [Vyrelda](Vyrelda,_Master_of_Blood.md)'s dialogue, which is special.
 -   While Bloodrend might seem like it'd be a good counter against [Curse of the No Life King](Curse_of_the_No_Life_King.md) users and people with the [Haemophilia](Boons_and_Flaws.md#haemophilia) Flaw, Bloodrend Mantra blood drain is actually entirely unaffected by blood damage modifiers.
 -   The blood cost for casting Bloodrend Mantras is also completely unaffected by blood damage modifiers like [Alloyblood](Talents.md#alloyblood), [Cauterized Wounds](Talents.md#cauterized-wounds), [Curse of the No Life King](Curse_of_the_No_Life_King.md) Enchant, and the aforementioned [Haemophilia](Boons_and_Flaws.md#haemophilia) Flaw; removing the possible synergy between Bloodrend and [Bloodforged Crown](Bloodforged_Crown.md).
@@ -975,5 +975,4 @@ These are Talents found in "_Quack Doctor_" Category.
 -   **Veinbreaker** is likely a reference to Slayer's "Mappa hunch" in Guilty Gear Strive.
 -   **Crucifixion** is a reference to Klaus' "Unbreakable Cross Shield" from _Blood Blockade Battlefront_; confirmed by a tester.
 -   **Vein Tendrils** could be a reference to Spider-Man, from Marvel Comics.
--   Scarlet Cyclone was changed from 0 stars to 2 stars on 2/26/2026
--   Bloodrend's Mantras all used to be red in color by default until the release of [Vow of Iron](Vow_of_Iron.md), in which the color of some mantras were changed to ~a shade of purple~ (it has now changed to a pinkish red color as of july 12th 2026) to comply with Roblox's maturity policies.
+-   Scarlet Cyclone was changed from 0 stars to 2 stars in the [February, 26th, 2026](Version_History/2026.md#february-26th-2026) update.
