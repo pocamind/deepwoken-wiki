@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 216056
+revid: 219939
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Bandits, Ambush Enemies]
@@ -11,8 +11,8 @@ categories: [Enemies, Bandits, Ambush Enemies]
 | Bandit | |
 |---|---|
 | health | 180 |
-| drops | Lesser Mantra Modifiers |
-| weapon | Starter Weapons, Battleaxe, Sword, Messer, Mace, Stiletto |
+| drops | Lesser Mantra Modifiers, Corsair Outlaw |
+| weapon | Battleaxe, Sword, Messer, Mace, Stiletto |
 | moves | Assault, Critical |
 
 ## Description

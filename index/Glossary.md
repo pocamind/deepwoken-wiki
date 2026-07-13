@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 219345
+revid: 219936
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -576,7 +576,7 @@ Dialogue: [Samael](Samael.md)
 -   Supposedly hailing from a mountainous region before the coming of the [Tides](#the-tides), the Adret people consisted of a smattering of tribes and kingdoms isolated by their rugged landscape. As the [Tides](#the-tides) rose, the rest of the world opened up to the Adret, allowing them to expand and subdue their neighbours, thus forming the [Adretian Empire](#the-adretian-empire). Over time, the Empire formed a coalition with multiple other nations, becoming the [Central Authority](#the-central-authority).
 -   Lending to their history, the Adret have a reputation as bureaucrats and government officials.
 
-Dialogue: [Artus](Artus.md), [Ishan](Ishan.md), [Karliah](Karliah.md), [Yakob](Yakob.md) | Books: [The Gideshu March](The_Gideshu_March.md), [The Hammer's Call](<The_Hammer's_Call.md>), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Adret / Adretian](#adret--adretian), [The Adretian Empire](#the-adretian-empire), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
+Dialogue: [Artus](Artus.md), [Ishan](Ishan.md), [Karliah](Karliah.md), [Kayla](Kayla.md), [Yakob](Yakob.md) | Books: [The Gideshu March](The_Gideshu_March.md), [The Hammer's Call](<The_Hammer's_Call.md>), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Adret / Adretian](#adret--adretian), [The Adretian Empire](#the-adretian-empire), [The Sovereign Drallis Ehr](#the-sovereign-drallis-ehr)
 
 ### Canor
 

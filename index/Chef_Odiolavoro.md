@@ -1,9 +1,9 @@
 ---
 title: Chef Odiolavoro
-revid: 215921
+revid: 219927
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Pages with broken file links, NPCs, NPCs located in the Etrean Luminant, Quests]
+categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests]
 ---
 
 # Chef Odiolavoro
@@ -30,35 +30,25 @@ Odiolavoro opened up shop in [Etris](Etris.md) recently and is hoping to one day
 
 He requests help with making orders, by providing the food recipe and requesting you cook it. After cooking (or buying) the item, bring it to him, where he'll take it from your inventory in exchange for the quest reward. These quests give you various ingredients, the chef weapons, and the [Chef's Toque](<Chef's_Toque.md>). [Artisan](Talents.md#tavernkeep) food rewards are currently unknown. After a few orders there is a very short cooldown.
 
-The orders are as follows:
+The possible orders are as follow:
 
 | Visual | Recipe | Ingredients | Campfire Required? |
 | --- | --- | --- | --- |
 | 
-File:UllaCandiedFruit.png
-
  | Candied Fruit | 2x Ongo/2x Plumfruit/1x Calabash/1x Pomar/2x Redd + Sap | ◯ |
 | 
-
-File:YummerCrabPizza.png
 
  | Crab Pizza | 1x Crustacean Meat + 1x Bread + 1x Cheese | ✗ |
 | 
 
-File:UllaBread.png
-
  | Bread | 3x Gathered Wheat | ◯ |
 | 
-
-File:UllaSweetBun.png
 
  | Sticky Bun | 3x Gathered Wheat + 1x Sap | ◯ |
 | 
 
  | Urchin Stew | 3x Urchin | ◯ |
 | 
-
-File:UllaNoodles.png
 
  | Noodles | 1x Egg + 2x Gathered Wheat | ✗ |
 | 
@@ -69,22 +59,14 @@ File:UllaNoodles.png
  | Sauteed Scallops | 2x Scallops | ◯ |
 | 
 
-File:UllaPlumfruitMuffin.png
-
  | Plumfruit Muffin | 1x Gathered Wheat + 1x Plumfruit | ◯ |
 | 
-
-File:UllaCake.png
 
  | Cake | 1x Egg + 3x Gathered Wheat + 1x Sap | ◯ |
 | 
 
-File:UllaFishStew.png
-
  | Fish Stew | 1x Fish Meat + 1x Squid/1x Dried Seaweed/1x Scallops | ◯ |
 | 
-
-File:YummerGrilledCheese.png
 
  | Grilled Cheese | 1x Bread + 1x Cheese | ◯ |
 | 
@@ -92,17 +74,11 @@ File:YummerGrilledCheese.png
  | Fish Omelette | 2x Egg + 1x Fish Meat | ◯ |
 | 
 
-File:Mushroom omlette.jpg
-
  | [Mushroom Omelette](Mushroom_Omelette.md) | 2x Egg + 1x Gobletto/1x Browncap/1x Dentifilo | ◯ |
 | 
 
-File:UllaGlazedFish.png
-
  | Glazed Fish | 1x Fish Meat + 1x Sap | ◯ |
 | 
-
-File:UllaOmelette.png
 
  | Omelette | 2x Egg | ◯ |
 | 
@@ -112,8 +88,6 @@ File:UllaOmelette.png
 
  | Calamari | 1x Gathered Wheat + 1x Squid | ◯ |
 | 
-
-File:UllaFriedEgg.png
 
  | Cooked Egg | 1x Egg | ◯ |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Kayla
-revid: 210834
+revid: 219935
 source: https://deepwoken.fandom.com/wiki/Kayla
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -37,7 +37,7 @@ Kayla is located inside of the first story of the library at [Alsin's Landing](<
   <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="2"><i>*A messy-haired Adretian sits before you. They appear to be a bit gloomy.*</i></td>
+  <td colspan="2"><i>*A messy-haired <a href="Glossary.md#adretian">Adretian</a> sits before you. They appear to be a bit gloomy.*</i></td>
 </tr>
 <tr>
   <td colspan="2">What's the problem?</td>

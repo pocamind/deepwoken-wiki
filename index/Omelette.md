@@ -1,6 +1,6 @@
 ---
 title: Omelette
-revid: 207824
+revid: 219916
 source: https://deepwoken.fandom.com/wiki/Omelette
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]

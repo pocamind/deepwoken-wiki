@@ -1,6 +1,6 @@
 ---
 title: Glazed Fish
-revid: 207798
+revid: 219901
 source: https://deepwoken.fandom.com/wiki/Glazed_Fish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]

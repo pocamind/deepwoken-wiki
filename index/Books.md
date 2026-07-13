@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 219136
+revid: 219951
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Books]
@@ -57,7 +57,7 @@ Currently there are 30 books and book collections:
 -   [Diver's Journal: Apprentice Azel](<Diver's_Journal%253A_Apprentice_Azel.md>)
 -   [Diver's Journal: Apprentice Hero](<Diver's_Journal%253A_Apprentice_Hero.md>)
 -   [Diver's Journal: Journeyman Skeli](<Diver's_Journal%253A_Journeyman_Skeli.md>)
--   [Eggs In A Basket](Eggs_In_A_Basket.md): A sailor's shanty. ~100 words.
+-   [Eggs In A Basket](Eggs_In_A_Basket.md): A sailor's shanty. 107 words, <1m reading time.
 -   [Fading Book](Fading_Book.md): A placeholder for removed books. Its pages fading, crumbling. ~50 words.
 -   [The Ferryman's Lullaby](<The_Ferryman's_Lullaby.md>): The lyrics of a folk song regarding [The Ferryman](The_Ferryman.md). ~200 words.
 -   [The Gideshu March](The_Gideshu_March.md): [The Central Authority](The_Central_Authority.md)'s anthem and its brief history. Playable on [Instruments](Instruments.md). ~500 words.

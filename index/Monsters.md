@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 216282
+revid: 219957
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -56,23 +56,29 @@ Certain Monsters have unique visual effects when attuned.
 
 ## Humanoid Monsters
 
-**Exclusive to the [Etrean Luminant](Luminants.md) & [Scyphozia](First_Layer.md)**
+### 
 
-**Exclusive to [Eastern Luminant](Luminants.md)**
+**Etrean Luminant**
 
-**Exclusive to [Trial of One](Trial_of_One.md) and [Diluvian Mechanism](The_Diluvian_Mechanism.md)**
+### 
 
-**Exclusive to [Etrean Luminant](Luminants.md), [Scyphozia](First_Layer.md), and [Diluvian Mechanism](The_Diluvian_Mechanism.md)**
+**Eastern Luminant**
 
-**Exclusive to [Etrean Luminant](Luminants.md), [Eastern Luminant](Luminants.md), [Scyphozia](First_Layer.md), and [Diluvian Mechanism](The_Diluvian_Mechanism.md)**
+### 
 
-  
+**The Depths**
 
-**Exclusive to [Etrean Luminant](Luminants.md), [Eastern Luminant](Luminants.md), and [Scyphozia](First_Layer.md)**
+**Scyphozia:**
 
-**Exclusive to [Voidsea](Voidsea.md)**
+**The Eternal Gale:**
 
-**Exclusive to [The Eternal Gale](Second_Layer.md)**
+### 
+
+**Dungeons**
+
+**The Diluvian Mechanism:**
+
+**Trial of One:**
 
 ## Non-Humanoid Monsters
 

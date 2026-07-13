@@ -1,6 +1,6 @@
 ---
 title: Redd Juice
-revid: 175653
+revid: 219920
 source: https://deepwoken.fandom.com/wiki/Redd_Juice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]

@@ -1,6 +1,6 @@
 ---
 title: Sushi
-revid: 175660
+revid: 219924
 source: https://deepwoken.fandom.com/wiki/Sushi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]

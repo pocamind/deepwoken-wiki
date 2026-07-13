@@ -1,6 +1,6 @@
 ---
 title: Grandmaster Warder Sapphire
-revid: 212998
+revid: 219934
 source: https://deepwoken.fandom.com/wiki/Grandmaster_Warder_Sapphire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Individuals with She/her pronouns, In progress with reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -51,7 +51,7 @@ If you have never introduced yourself, Sapphire will not know your name.
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td><i>*The Chrysid lady acknowledges you politely.*</i> The Ah, a new face among our ranks? Be welcome, Neophyte / Disciple, and safe. I am Grandmaster Warder Sapphire -an adherent of the path of the Warder, sought by those who desire to aid and provide succour to the weak and weary. It is good to see newcomers who choose to follow in Alsin's path. What is your name, Justicar?</td>
+  <td><i>*The Chrysid lady acknowledges you politely.*</i> The Ah, a new face among our ranks? Be welcome, [Rank], and safe. I am Grandmaster Warder Sapphire - an adherent of the path of the Warder, sought by those who desire to aid and provide succour to the weak and weary. It is good to see newcomers who choose to follow in Alsin's path. What is your name, Justicar?</td>
 </tr>
 <tr>
   <td>I am [First Name], ma'am.</td>
@@ -132,13 +132,13 @@ After you have introduced yourself to Sapphire.
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td><i>*Grandmaster Sapphire smiles.*</i> Be welcome, [First Name], and safe. I hope your journey in Alsin's footsteps has not been too difficult thus far. If it is advice or counsel you seek, you may return to me one you've gained greater experience as a Justicar -perhaps then I can offer some assistance. Those who seek to tread the path of the Warder oft seek my counsel and experience.</td>
+  <td><i>*Grandmaster Sapphire smiles.*</i> Be welcome, [First Name], and safe. I hope your journey in Alsin's footsteps has not been too difficult thus far. If it is advice or counsel you seek, you may return to me one you've gained greater experience as a Justicar - perhaps then I can offer some assistance. Those who seek to tread the path of the Warder oft seek my counsel and experience.</td>
 </tr>
 <tr>
   <td>How can I gain more experience as a Justicar?</td>
 </tr>
 <tr>
-  <td>In the East, it is a commonly-held belief among the Justicars that in aiding others pursue their path, we embody the philosophy of Alsin's teachings. Should you also wish to do so, you may answer the Justicar's Call and offer your aid to all those who might need it. Guide them, and assist them -like Alsin guides and assists us. Though, naturally, you may also gain a deeper understanding of the Path in more traditional ways of training.</td>
+  <td>In the East, it is a commonly-held belief among the Justicars that in aiding others pursue their path, we embody the philosophy of Alsin's teachings. Should you also wish to do so, you may answer the Justicar's Call and offer your aid to all those who might need it. Guide them, and assist them - like Alsin guides and assists us. Though, naturally, you may also gain a deeper understanding of the Path in more traditional ways of training.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

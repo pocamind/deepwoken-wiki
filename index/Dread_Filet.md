@@ -1,6 +1,6 @@
 ---
 title: Dread Filet
-revid: 212275
+revid: 219896
 source: https://deepwoken.fandom.com/wiki/Dread_Filet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]

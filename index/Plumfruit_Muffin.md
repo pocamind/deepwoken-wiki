@@ -1,6 +1,6 @@
 ---
 title: Plumfruit Muffin
-revid: 207825
+revid: 219918
 source: https://deepwoken.fandom.com/wiki/Plumfruit_Muffin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]

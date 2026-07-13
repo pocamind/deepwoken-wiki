@@ -1,6 +1,6 @@
 ---
 title: Plain Boiled Brined Aged Fermented Hotdog
-revid: 185454
+revid: 219917
 source: https://deepwoken.fandom.com/wiki/Plain_Boiled_Brined_Aged_Fermented_Hotdog
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Food]

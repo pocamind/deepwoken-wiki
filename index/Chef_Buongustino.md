@@ -1,9 +1,9 @@
 ---
 title: Chef Buongustino
-revid: 215920
+revid: 219926
 source: https://deepwoken.fandom.com/wiki/Chef_Buongustino
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, Pages with broken file links, NPCs, Vendors, Quests]
+categories: [Felinor NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Vendors, Quests]
 ---
 
 # Chef Buongustino
@@ -34,35 +34,25 @@ Buongustino originally had a business in [Etris](Etris.md), but the [Etrean Civi
 
 Buongustino requests help from the player to be their sous-chef, by making orders and providing the recipes to cook the [Food](Food.md). After obtaining the requested food and showing it to Buongustino, he'll take it in exchange for some [Notes](Notes.md) and a small chest. After making an order, there is a small period of downtime until a new order comes in.
 
-The orders are as follows:
+The possible orders are as follow:
 
 | Visual | Recipe | Ingredients | Campfire Required? |
 | --- | --- | --- | --- |
 | 
-File:UllaCandiedFruit.png
-
  | Candied Fruit | 2x Ongo/2x Plumfruit/1x Calabash/1x Pomar/2x Redd + Sap | ◯ |
 | 
-
-File:YummerCrabPizza.png
 
  | Crab Pizza | 1x Crustacean Meat + 1x Bread + 1x Cheese | ✗ |
 | 
 
-File:UllaBread.png
-
  | Bread | 3x Gathered Wheat | ◯ |
 | 
-
-File:UllaSweetBun.png
 
  | Sticky Bun | 3x Gathered Wheat + 1x Sap | ◯ |
 | 
 
  | Urchin Stew | 3x Urchin | ◯ |
 | 
-
-File:UllaNoodles.png
 
  | Noodles | 1x Egg + 2x Gathered Wheat | ✗ |
 | 
@@ -73,22 +63,14 @@ File:UllaNoodles.png
  | Sauteed Scallops | 2x Scallops | ◯ |
 | 
 
-File:UllaPlumfruitMuffin.png
-
  | Plumfruit Muffin | 1x Gathered Wheat + 1x Plumfruit | ◯ |
 | 
-
-File:UllaCake.png
 
  | Cake | 1x Egg + 3x Gathered Wheat + 1x Sap | ◯ |
 | 
 
-File:UllaFishStew.png
-
  | Fish Stew | 1x Fish Meat + 1x Squid/1x Dried Seaweed/1x Scallops | ◯ |
 | 
-
-File:YummerGrilledCheese.png
 
  | Grilled Cheese | 1x Bread + 1x Cheese | ◯ |
 | 
@@ -96,17 +78,11 @@ File:YummerGrilledCheese.png
  | Fish Omelette | 2x Egg + 1x Fish Meat | ◯ |
 | 
 
-File:Mushroom omlette.jpg
-
  | [Mushroom Omelette](Mushroom_Omelette.md) | 2x Egg + 1x Gobletto/1x Browncap/1x Dentifilo | ◯ |
 | 
 
-File:UllaGlazedFish.png
-
  | Glazed Fish | 1x Fish Meat + 1x Sap | ◯ |
 | 
-
-File:UllaOmelette.png
 
  | Omelette | 2x Egg | ◯ |
 | 
@@ -116,8 +92,6 @@ File:UllaOmelette.png
 
  | Calamari | 1x Gathered Wheat + 1x Squid | ◯ |
 | 
-
-File:UllaFriedEgg.png
 
  | Cooked Egg | 1x Egg | ◯ |
 | 

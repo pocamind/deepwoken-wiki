@@ -1,6 +1,6 @@
 ---
 title: "Scoundrel's Saber"
-revid: 213882
+revid: 219958
 source: https://deepwoken.fandom.com/wiki/Scoundrel's_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Medium Weapons, Swords, Weapons with Unique Criticals, Weapons with Talents]
@@ -46,7 +46,7 @@ Equipping the Scoundrel's Saber grants its unique [weapon Talent](Talents.md#wea
 
 ## Critical
 
-The user winds up for 0.8 seconds then rushes forward, seemingly preparing to slice with the blade, but instead delivering a fake blow that leads into a guardbreaking pommel strike.
+The user rushes forward, delivering a fake blow that leads into a guardbreaking pommel strike.
 
 The pommel strike has a 1.1x scaled damage multiplier and Dazes for 2.5 seconds. If the user lands this critical on the opponent's back, it will gain a 10% damage bonus.
 

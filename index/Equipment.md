@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 219391
+revid: 219943
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
@@ -837,10 +837,10 @@ _+Talent: [**Precise Swing**](Talents.md#precise-swing)_
 Head: [Phalanx Helmet](Phalanx_Helmet.md)  
 Arms: [Legion Phalanx Plate](Legion_Phalanx_Plate.md)  
 Legs: [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md) |
-| File:Black Hood.png | [Plain Hood](Plain_Hood.md)  
+|  | [Plain Hood](Plain_Hood.md)  
 (**Styles**) | _+1 Posture_  
 _+4% Stealth_ | Styles:  
-TBA |
+Black (Hood Down), Black (Hood Up), Brown (Hood Down), Brown (Hood Up) |
 |  | [Pumpkin Head](Pumpkin_Head.md)  
 (**Hallowtide**)  
 (**Legendary**) | N/A | N/A |

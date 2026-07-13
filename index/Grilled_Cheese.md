@@ -1,6 +1,6 @@
 ---
 title: Grilled Cheese
-revid: 207823
+revid: 219902
 source: https://deepwoken.fandom.com/wiki/Grilled_Cheese
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -39,7 +39,7 @@ When consumed, it replenishes 30% Stomach and 2% Water.
 
 ## Trivia
 
--   The **Grilled Cheese** takes almost the entire area of a Roblox character's hand, which is 1 square stud. From this and the conversion of one stud to 28 centimeters[\[1\]](#cite-note-1), we can calculate that the breadth of Deepwoken's Grilled Cheese is close to one square foot.
+-   The Grilled Cheese takes almost the entire area of a Roblox character's hand, which is 1 square stud. From this and the conversion of one stud to 28 centimeters[\[1\]](#cite-note-1), we can calculate that the breadth of Deepwoken's Grilled Cheese is close to one square foot.
 
 ## References
 

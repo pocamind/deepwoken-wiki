@@ -1,6 +1,6 @@
 ---
 title: Deepwoken OG
-revid: 211295
+revid: 219910
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OG
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, In progress without reason, InProgressPages, "April Fools' Day events", Events]
@@ -24,8 +24,8 @@ Deepwoken OG (referred to in update logs as "_[Deep Healing](Verse_3.md#operatio
 
 After running an algorithm to pick community suggestions at random to determine what the everyday, "true median player" wants from the game, two suggestions were added to the game, per "super\_sonicmarioexe\_fan67" and "xx\_chimedwellah\_xx"'s respective brief, 3-word long suggestions:
 
--   Reverting the combat mechanics to those of [Verse 1](Verse_1.md); "revert the combat", and
--   giving [Boats](Ships_&_Sailing.md) the ability to fly, because boats need to be able to fly in order to "fix flying boats".
+-   Reverting the combat mechanics to those of [Verse 1](Verse_1.md); "revert the combat"
+-   Giving [Boats](Ships_&_Sailing.md) the ability to fly, because boats need to be able to fly in order to "fix flying boats".
 
 ## Changes
 

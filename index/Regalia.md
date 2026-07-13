@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 219707
+revid: 219932
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -20,30 +20,9 @@ categories: [Mechanics]
 
 ### Mute
 
-~Mute (also known as “Animal King”) has the ability to make monsters unable to see you, meaning they won't attack unless you attack them first. This includes [Primadon](Primadon,_Titan_of_the_East.md) and the [Dread Serpent](Dread_Serpent.md). Monsters get an AI similar to to Town Guards when aggroed; they will unaggro the player if you don't attack them for over 15 seconds. Most humanoid enemies will not still aggro to the player on sight.~
-
-**As of 7/8/2026,the Regalia has been reworked.**[\[3\]](#cite-note-3)
-
-Instead of making monsters see you as an ally, it greately reduces their aggro range against the player.
-
-There's no exact stat showcasing the aggro range, however most players reported it as being "near useless."
+Mute (also known as “Animal King”) grants the user majorly decreased aggro range around **all** monsters. It also **does work** against some humanoids
 
 This Regalia is **kept** upon wiping below Power 10.
-
-#### Exceptions
-
--   Mute does **not** work in some locations:
-    -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md) (Mute does not work on initial aggro. ~Waiting 15 seconds will unaggro most monsters in the Diluvian~)
-    -   Most Dungeons, such as the [Second Layer](Second_Layer.md) or [Trial of One](Trial_of_One.md)
-
-~Mute does **not** work against some monsters (mostly constructs and robots)~
-
-As of the rework, it should apply to almost any monster aggro range.
-
--   Mute **does work** against some humanoids:
-    -   [Hollow Angels](Hollow_Angel.md) (if not summoned by a [Watcher](Watcher.md))
-
-(The Regalia wouldn't be reverted as stated by testers and other notable people.)[\[4\]](#cite-note-4)[\[5\]](#cite-note-5)
 
 ### Two-Faced
 
@@ -65,7 +44,7 @@ Grants unique dialogue with the [Legendary Boot](Legendary_Boot.md). Functionall
 
 "The Legendary Boot waits for the day that one worthy will claim it. Someone worthy with smaller feet."
 
-### Ancient Soul[\[6\]](#cite-note-archnamedrop1-6)
+### Ancient Soul[\[3\]](#cite-note-archnamedrop1-3)
 
 When creating a character, you start with a hand of [Resonance](Resonance.md) draws.
 
@@ -73,37 +52,35 @@ This cannot be obtained if you have the [Tarnished](Boons_and_Flaws.md#flaws) Fl
 
 This Regalia is **not** kept upon wiping at any Power.
 
-### Noble[\[6\]](#cite-note-archnamedrop1-6)
+### Noble[\[3\]](#cite-note-archnamedrop1-3)
 
 A flat increase is applied to your reputation with each faction. Additionally, [Bandits](Bandit.md), [Blacksteel Pirates](Blacksteel_Pirate.md), [Bounty Hunters](<Bounty_Hunter_(NPC).md>), and other 'factionless' humans will not aggro onto you unless provoked (effectively being a reverse Mute Regalia).
 
-### Inheritance[\[6\]](#cite-note-archnamedrop1-6)
+### Inheritance[\[3\]](#cite-note-archnamedrop1-3)
 
 You start with 1,000 [Notes](Notes.md) and 50 [Knowledge](Knowledge.md), as well as every item from the Advanced Tools [Echo Unlocks](Echoes.md#upgrades-unlocks-and-modifiers), even if you haven't purchased them.
 
 This Regalia is **not** kept upon wiping at any Power.
 
-### Ace of Spades[\[6\]](#cite-note-archnamedrop1-6)
+### Ace of Spades[\[3\]](#cite-note-archnamedrop1-3)
 
 You start with 20 [Aces](Aces.md).
 
 This Regalia is **kept** upon wiping at or below Power 10.
 
-### Joker[\[7\]](#cite-note-archnamedrop2-7)
+### Joker[\[4\]](#cite-note-archnamedrop2-4)
 
 You are granted an additional [Talent](Talents.md) choice in each Talent hand.
 
 This Regalia is **kept** upon wiping at or below Power 10.
 
-### Hungerless[\[7\]](#cite-note-archnamedrop2-7)
+### Hungerless[\[4\]](#cite-note-archnamedrop2-4)
 
 You no longer passively lose hunger or thirst. You lose a lot less hunger and thirst while regenerating blood (3 Bars of blood for 5% of Hunger and Thirst).
 
 Vomiting, the [Gluttony](Gluttony.md) Enchantment, and emergency blood regeneration will still cause you to lose hunger and thirst at a normal rate.
 
-This Regalia is **kept** upon wiping at or below Power 10.
-
-### Insightful[\[7\]](#cite-note-archnamedrop2-7)
+### Insightful[\[4\]](#cite-note-archnamedrop2-4)
 
 [Knowledge](Knowledge.md) gain from all sources is increased.
 
@@ -113,7 +90,7 @@ This works with the [Moonseye Tome](Moonseye_Tome.md), granting 150 knowledge up
 
 This Regalia is **kept** upon wiping at or below Power 10.
 
-### Oscillator[\[7\]](#cite-note-archnamedrop2-7)
+### Oscillator[\[4\]](#cite-note-archnamedrop2-4)
 
 You are granted an additional [Resonance](Resonance.md) choice when rerolling or obtaining one.
 
@@ -121,17 +98,11 @@ You are granted an additional [Resonance](Resonance.md) choice when rerolling or
 
 -   For almost the entirety of the game's lifespan, Mute was the only Regalia known to exist, until Arch\_Mage told the community about the others and the obtainment method.[\[1\]](#cite-note-archinfo-1)
 -   Regalia by definition are the emblems or insignia of royalty, especially the crown, scepter, and other ornaments used at a coronation.
-
 -   The Mute Regalia previously worked on Ministry Necromancers, Ministry Scouts, and Immortal Guardians, but it was fixed. Despite being a bug, Immortal Guardians had unique dialogue upon knocking a player with Mute.
-
--   Whilst unconfirmed, it is speculated that your Regalia can change mid-progression, such as switching from the Worthy Regalia to the Mute Regalia.
 
 ## References
 
 1.  ↑ [1.0](#cite-ref-archinfo-1-0) [1.1](#cite-ref-archinfo-1-1) [1.2](#cite-ref-archinfo-1-2) [https://www.youtube.com/watch?v=pUgSI5Xg0VQ](https://www.youtube.com/watch?v=pUgSI5Xg0VQ)
 2.  [↑](#cite-ref-2)
-3.  [↑](#cite-ref-3) [https://discord.com/channels/920707638034067486/920709120548544564/1524209473013682200](https://discord.com/channels/920707638034067486/920709120548544564/1524209473013682200)
-4.  [↑](#cite-ref-4) [https://discord.com/channels/920707638034067486/1525167372108038195/1525216855646666822](https://discord.com/channels/920707638034067486/1525167372108038195/1525216855646666822)
-5.  [↑](#cite-ref-5) [https://discord.com/channels/920707638034067486/1525167372108038195/1525174784940314806](https://discord.com/channels/920707638034067486/1525167372108038195/1525174784940314806)
-6.  ↑ [6.0](#cite-ref-archnamedrop1-6-0) [6.1](#cite-ref-archnamedrop1-6-1) [6.2](#cite-ref-archnamedrop1-6-2) [6.3](#cite-ref-archnamedrop1-6-3)
-7.  ↑ [7.0](#cite-ref-archnamedrop2-7-0) [7.1](#cite-ref-archnamedrop2-7-1) [7.2](#cite-ref-archnamedrop2-7-2) [7.3](#cite-ref-archnamedrop2-7-3)
+3.  ↑ [3.0](#cite-ref-archnamedrop1-3-0) [3.1](#cite-ref-archnamedrop1-3-1) [3.2](#cite-ref-archnamedrop1-3-2) [3.3](#cite-ref-archnamedrop1-3-3)
+4.  ↑ [4.0](#cite-ref-archnamedrop2-4-0) [4.1](#cite-ref-archnamedrop2-4-1) [4.2](#cite-ref-archnamedrop2-4-2) [4.3](#cite-ref-archnamedrop2-4-3)

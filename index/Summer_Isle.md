@@ -1,9 +1,9 @@
 ---
 title: Summer Isle
-revid: 215394
+revid: 219854
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant, Territory of The Summer Company]
+categories: [Locations, Locations in the Eastern Luminant, Territory of The Summer Company]
 ---
 
 # Summer Isle
@@ -72,17 +72,17 @@ Within the castle's ground floor, on the opposite side of where the Antiquarian/
 
 -   You can talk to them even as an enemy of Summer Company.
 
-File:Red Crate.png
-
 #### Scope
 
 Within the tower on the left side of the castle's entrance stairs, Scope needs to recover crates filled with explosives that have been stolen by the bandits/Ignition Union, and what other better way to retrieve the crates is there than just sending you to do it.
 
 These boxes of explosives can be found all across Isle, usually being tended to by Summer Company guards post offscreen battle. Returning to Scope with one of these boxes in hand, will net you a chest that will have loot from the item table below, and a small amount of positive reputation with the Summer Company.
 
--   Scope could be a pun based on sniper rifles and other guns that have a "scope".
+Explosive Crate Event
 
-### Shipwright
+  
+
+#### Shipwright
 
 The Shipwright is located on the rocky beach within a castle like structure.
 
@@ -99,8 +99,6 @@ The Shipwright is located on the rocky beach within a castle like structure.
 
 -   Can be found outside the Inn
 -   Will give you something random out of his sack for 350 notes.
--   The sack can contain random equipment.
--   It's a scam.
 
 #### The Guildmaster
 
@@ -108,11 +106,7 @@ The Shipwright is located on the rocky beach within a castle like structure.
 
 #### Trig
 
-[Trig](Trig.md) is an NPC at the entrance of the Guildhall/Inn (if you have interest points on, it's marked as Guildhall). His quest sends you to find [Asius](Asius.md), a merchant who hasn't been paying his dues to the Summer Company.
-
-File:RobloxScreenShot20211227 094500945.png
-
-Asius can be found behind the Inn if you follow the path leading away from the Inn, in an alcove facing the hive.
+[Trig](Trig.md) is an NPC at the entrance of the Guildhall/Inn (if you have interest points on, it's marked as Guildhall). His quest sends you to find [Asius](Asius.md), a merchant who hasn't been paying his dues to the Summer Company. Asius can be found behind the Inn if you follow the path leading away from the Inn, in an alcove facing the hive.
 
 You will be given two quest dialogue options after answering why you're meeting him:
 
@@ -123,11 +117,9 @@ You will be given two quest dialogue options after answering why you're meeting 
 1.  Answering with the first dialogue option and returning to Trig will cause him to send three Summer Company guards after you, and will get you negative Summer Company reputation, and zero EXP if you don't kill the guards.
 2.  Answering the second dialogue option will have Asius reluctantly hand you an invisible stack of ship documents, his vessel sunken at sea and the documents the final few things to show for it. Returning to Trig will have him reward you with not only positive Summer Company reputation and EXP, but will also unlock **a rare Talent called "Armor Piercing" that can be obtained from Talent hands.** (obviously, it affects only guns)
 
--   Trig could be a pun about the word "trigger" based on the Summer Company's association with ballistics.
-
 ### Reputation Reset
 
--   Nepo, an NPC found on a bridge can reset your reputation with Summer Company. (You might want to memorize this, as it’s very easy to anger the Summer Company)
+-   Nepo, an NPC found on a bridge can reset your reputation with Summer Company.
 
 ### The Furnace
 
@@ -139,19 +131,16 @@ This place contains [Jarvis](Jarvis.md), a NPC who allows you smelt two equipmen
 
 A cave opening facing the Shipwright's building, easy to spot.
 
--   Contains Coal, Rock and Iron, enough for bullets and flint.
-
 ### Circular Structure
 
 -   A circular building located outside of the castle, near the Inn.
--   Within the structure is presumably a hive teleporter prototype, out of function.
 -   In the circular structure, there is a [Blindseer Glyphs](<%253F%253F%253F_(Blindseer_Glyphs).md>), hinting towards how to progress and unlock [Blindseer](Oath%253A_Blindseer.md) mantras.
 
 ### Castle Ruins
 
--   A castle like building in ruins, nothing of interest is inside or near it, _until you look closely._ Inside the ruins, in the room to the left of the entrance, you may find a small crack in the floor which you may drop down into. Inside, a basement could be found with barrels, and possibly chests.
+-   A castle-like building in ruins. Inside, in the room to the left of the entrance, a small crack in the floor can be found, allowing you to drop into a hidden basement containing barrels and, occasionally, chests.
 -   You can get there by taking the zipline on the main castle, and continuing forward.
--   Additionally, the basement is the location of an NPC you need to talk to when in the process of obtaining the [Chainwarden](Oath%253A_Chainwarden.md) [Oath](Oaths.md), which was added on the 26th of July, 2024.
+-   Additionally, the [Chained Captive](Chained_Captive.md) can be located here if you have spoken with [Vice Warden Morredh](Vice_Warden_Morredh.md).
 
 The Summer Company cannon
 
@@ -166,10 +155,7 @@ Events that spawn in Summer Isle. For more info, see [Random Encounters](Random_
 
 #### Explosive Crate (QUEST)
 
--   Summer Company Thugs with dead Ignition Union Footsoldiers, surrounding a crate with explosives, which you can turn in to Scope for a chance at good loot.
--   Explosive Crate Event
-    
-    From what I have seen, if you also kill the Summer Company Thugs surrounding the crate, a chest will spawn.
+-   Summer Company Thugs with dead Ignition Union Footsoldiers, surrounding a crate with explosives, which you can turn in to Scope for a small chest and Summer Company reputation.
 
 #### Bandit Ambush
 
@@ -184,7 +170,7 @@ Events that spawn in Summer Isle. For more info, see [Random Encounters](Random_
 #### Ignition Union V.S. Summer Company [Summericonfaction](The_Summer_Company.md)
 
 -   Ignition Union Footsoldiers fighting with Summer Company Thugs.
--   You will be rewarded with a decent amount of XP and a chest, which side wins doesn't matter.
+-   Upon killing two of either faction, a small chest will be rewarded and positive reputation respectively.
 
 #### Ministry Massacre [Ministryiconfaction](The_Ministry.md)
 
@@ -194,7 +180,7 @@ Events that spawn in Summer Isle. For more info, see [Random Encounters](Random_
 #### Nomads [Navaeiconfaction](The_Children_of_Navae.md) V.S. The Ministry [Ministryiconfaction](The_Ministry.md)
 
 -   One [Eastern Nomad Leader](Eastern_Nomad_Leader.md) and one [Eastern Nomad](Eastern_Nomad.md) fighting off two [Ministry Scouts](Ministry_Scout.md).
--   You will be rewarded with a decent amount of XP and a chest, which side wins doesn't matter. Although Ministry Scouts do give more XP upon killing.
+-   Upon killing two of either faction, a small chest will be rewarded and positive reputation respectively.
 
 ## Loot Table & Purchasable Items
 

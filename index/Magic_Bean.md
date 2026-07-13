@@ -1,6 +1,6 @@
 ---
 title: Magic Bean
-revid: 205020
+revid: 219909
 source: https://deepwoken.fandom.com/wiki/Magic_Bean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]

@@ -1,6 +1,6 @@
 ---
 title: Treasures
-revid: 215792
+revid: 219952
 source: https://deepwoken.fandom.com/wiki/Treasures
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures]
@@ -37,12 +37,14 @@ Obtaining Treasures from chests will automatically convert them into [Trinkets](
  | Platinum Bar | _The only metal fit for a king. But how about a ring?_ | 55 |
 | 
 
- | Ruby | _A glittering red corundum._ | ? |
+ | Ruby | _A glittering red corundum._ | 58 |
 | 
 
  | Sapphire | _A glittering blue corundum._ | 30 |
 
--   All gems and their drop rates represent real world values.[\[1\]](#cite-note-1)
+## Trivia
+
+-   Previously gems and their drop rates represented real world values.[\[1\]](#cite-note-1)
 -   Along with [Gold Rings](Gold_Ring.md), Gold Bars can be melted down into [Gold](Ores.md#gold) at a campfire. Strangely, the [Gold Plate](Gold_Plate.md) cannot melted down into raw Gold.
     -   The melting point of gold is 1,064 °C, which means campfire must be ludicrously hot.
 -   The Emerald's description is a reference to Chaos Emeralds from the _Sonic_ franchise. While the former reference is more likely, Emeralds were also used in _Rogue Lineage_ to unlock the Faceless class, which is Chaotic Aligned.
@@ -51,4 +53,6 @@ Obtaining Treasures from chests will automatically convert them into [Trinkets](
 -   All gems are held slightly lower than [Deep Gems](Deep_Gems.md) in the player's hand.
 -   Emeralds, which are used in crafting [Familiar Assassin's Armor](<Familiar_Assassin's_Armor.md>), can be found commonly in [Songseeker Wilds](Songseeker_Wilds.md), as the chests have a high chance to drop them.
 
-1.  [↑](#cite-ref-1) ["⚖️ Changed gem values and drop rates to better represent their actual historical values. Diamond (20 -> 6), Ruby (6 -> 20), Emerald (7 -> 16), Sapphire (6 -> 10)"](https://deepwoken.fandom.com/wiki/Version_History/2025#July_24th,_2025). Update logs on July 24, 2025.
+## References
+
+1.  [↑](#cite-ref-1) [July 24th, 2025](Version_History/2025.md#july-24th-2025)
