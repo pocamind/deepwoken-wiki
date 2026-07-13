@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Cape
-revid: 209921
+revid: 219816
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Capes]
@@ -23,7 +23,7 @@ categories: [Equipment, Torso, Capes]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Deep Owl, Miner's Landing, Lodestar, Maestro Evengarde Rest, Duke Ishamon Erisia, Interluminary Parasol, War Mode |
+| obtainment | Drops from:, Deep Owl |
 | description | ... |
 
 Dark Owl Set

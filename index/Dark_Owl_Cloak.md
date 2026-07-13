@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Cloak
-revid: 209922
+revid: 219810
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Cloaks, Equipment with Talents, "Equipment with No
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Chime of Conflict, Miner's Landing, Saramaed Summit, Duke Erisia, Maestro Evengarde Rest, Dread Serpent, PrimadonDrops from:, Deep Owl rarely, Deep Widow |
+| obtainment | Drops from:, Deep Owl |
 | description | ... |
 
 Dark Owl Set

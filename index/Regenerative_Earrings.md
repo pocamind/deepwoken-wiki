@@ -1,6 +1,6 @@
 ---
 title: Regenerative Earrings
-revid: 217845
+revid: 219818
 source: https://deepwoken.fandom.com/wiki/Regenerative_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Set Bonuses, Equipment with Talents, Equipment with Exclusive Talents]
@@ -15,7 +15,7 @@ categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Ears, Craft
 | selling price | 25 |
 | requirements | Power 8 |
 | weight | 0.1 |
-| styles | Tarnished Gold, Tarnished Silver, Unblemished Gold, Unblemished Silver |
+| styles | Tarnished (Gold, Silver), Unblemished (Gold, Silver) |
 | innate stats | +5 Ether +1 Rare Pip |
 | innate talent | Blood Convergence |
 | set | Regenerative Pendant, Regenerative Earrings |

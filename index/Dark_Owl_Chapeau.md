@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Chapeau
-revid: 213504
+revid: 219808
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Chapeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -23,7 +23,7 @@ categories: [Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Diluvian Mechanism, Deep Owl, Miner's Landing, Deep Widow, Duke Ishamon Erisia, Lodestar, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Voidwalker, Voidsea, Chime of Conflict |
+| obtainment | Direct drop from:, Deep Owl |
 | description | ... |
 
 Dark Owl Set
