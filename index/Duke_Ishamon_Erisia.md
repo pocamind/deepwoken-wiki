@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 217896
+revid: 219853
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Bosses, Humanoid Bosses, Voiced Characters, Members of the Erisia family]

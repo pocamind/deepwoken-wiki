@@ -1,6 +1,6 @@
 ---
 title: Rapiers
-revid: 219615
+revid: 219833
 source: https://deepwoken.fandom.com/wiki/Rapiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Weapons, Light Weapons, Weapon Classes]
@@ -16,7 +16,7 @@ These weapons are traditionally locked to the One Handed stance.
 
 ## PvE Mechanics
 
-Using a weapon attack after parrying will riposte your opponent, adding a secondary damage instance to your attack that deals 70% of your hits damage. This secondary damage instance will apply to every hit of your Critical Attack.
+Using a weapon attack within 1 second of parrying an attack will riposte your opponent, adding a secondary damage instance to the attack that deals 33% of your hit's total damage. This secondary damage instance benefits from [Chain of Perfection](Talents.md#chain-of-perfection) separately. This also applies to critical attacks, but not every hit will benefit due to the proc window being so small.
 
 ## Default Animations
 

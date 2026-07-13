@@ -1,9 +1,11 @@
 ---
 title: The Summer Company
-revid: 199715
+revid: 219828
 source: https://deepwoken.fandom.com/wiki/The_Summer_Company
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Factions, The Summer Company]
+categories: [In progress with reason, InProgressPages, Factions, The Summer Company]
+notices:
+  - This page is currently being worked on. Reworked description is unfinished. List of random encounters involving the Summer Company is missing.
 ---
 
 # The Summer Company
@@ -13,6 +15,7 @@ categories: [Factions, The Summer Company]
 | leader | Gunsmith Rosen |
 | territory | Summer Isle |
 | goals | Profit, no matter who's the customer, Aggresively compete with the Ignition Union |
+| founded | Before or during 1062 CE[1] |
 
 “ If you're not here to buy something, then leave. ”
 
@@ -20,27 +23,25 @@ categories: [Factions, The Summer Company]
 
 ## Description
 
-The Summer Company is a faction that operates in their fortified island, the **[Summer Isle](Summer_Isle.md)** in [The Aratel Sea](The_Aratel_Sea.md).
+The Summer Company is a faction that operates in their headquarters, [Summer Isle](Summer_Isle.md), in [The Aratel Sea](The_Aratel_Sea.md). They are the premier manufacturers of firearms and ammunition in Lumen.
 
-As their name implies, they are a merchant Company that is the overworld's chief supplier and manufacturer of firearms and ammunition.
+The company was founded prior to 1062 CE when the [son of a young village blacksmith](Gunsmith_Rosen.md) who journeyed into the sea, returning with the innovations of guns and forever changing the art of combat.[\[2\]](#cite-note-2)[\[3\]](#cite-note-3)
 
-As mentioned in the flavour text for the [Flintlock](Flintlock.md), the Summer Company was founded when a blacksmith originating from the Etrean Luminant returned from his trip abroad, bringing with him the technologies of a foreign land, mainly - the gun, or the common firearm.
+[The Authority](The_Central_Authority.md) had sent [Gunsmith Hierka](Gunsmith_Hierka.md) of the [Bureau of Research](Bureau_of_Research.md) to steal the company's secrets, resulting in the creation of the [Rifle Spear](Rifle_Spear.md).
 
-They are one of the three factions employed by [The Authority](The_Central_Authority.md).
-
-They frequently come to blows with the [Ignition Union](The_Ignition_Union.md), who steal their gunpowder and explosives for themselves. In retaliation, they snuck into [Miner's Landing](<Miner's_Landing.md>) and accidentally activated unfinished prototypes of the Union's security devices, the [Mechalodaunts](Megalodaunt.md), making the cyborgs aggressively attack friend and foe alike.
-
-They also buy and sell their guns to the Authority, seen by the rifles and rifle spears that some of the Authority NPCs wield.
+They frequently come to blows with [Ignition Union](The_Ignition_Union.md), who steal their gunpowder and explosives for themselves, In retaliation, they snuck into [Miner's Landing](<Miner's_Landing.md>) and accidentally activated unfinished prototypes of the Union's security devices, the [Mechalodaunts](Megalodaunt.md), making the cyborgs aggressively attack friend and foe alike.
 
 ## Reputation
 
-As with all other groups in the game, having too low of a reputation with the Summer Company will have multiple adverse effects. The Antiquarian, Blacksmith, Jarvis and all Store NPCs will refuse to trade with you if the Summer Company considers you an enemy. Furthermore, Summer Company Guards will attack you on sight below a certain Reputation. It is worth noting that the Explosives Crate quest/turn-in NPC is not affected by your Reputation.
+All [origins](Origins.md) start with neutral [reputation](Reputation.md) with the Summer Company. Upon having negative reputation with the Summer Company, being within the vicinity of Summer Isle will cause a foghorn to blare and have their cannon fire at the player afterwards, dealing heavy damage.
 
-Another of the adverse effects are if you get to close to the island when you have a bad reputation, a loud foghorn sound will play and a few seconds after you will be shot with a cannon that does MASSIVE damage and can 2 shot the average player.
+[Nepo](Nepo.md), who is located in a bridge behind the castle at Summer Isle, can reset the player's reputation with the Summer Company.
 
-To restore your reputation with the Summer Company, head to the Bridge behind Fort Summer. At the end of the bridge, leaning against a pillar, is a Summer Company Guard reading a book. Talking to this NPC whilst your Reputation with the Summer Company is favorable will not result in anything, however, if you speak to them whilst you are considered an Enemy of the Summer Company, they inform you that they "Collect the crime tax around here", and will restore your reputation with the Summer Company to being favorable for a price ranging from 30-300 notes. (Ignition Union Members can use the NPC and it takes the Notes but doesnt actually reset your Reputation to Neutral)
+[Trig](Trig.md)'s Unfinished Business quest allows the player to net a good chunk of Summer Company reputation if the player retrieves the money from [Asius](Asius.md).
 
-In addition, turning in explosive crates and sacks ([Starswept Valley](The_Starswept_Valley.md) and [Bluster Rift](Bluster_Rift.md) respectively) allows you to increase your reputation with the Summer Company.
+The Summer Company has jobs posted on [job boards](Job_Boards.md) in Summer Isle and [Songseeker Wilds](Songseeker_Wilds.md), making reputation gain somewhat limited.
+
+In addition, turning in explosive crates and sacks to [Scope](Scope.md) and [Mercille](Mercille.md) in Summer Isle and [Bluster Rift](Bluster_Rift.md) respectively increases reputation with the Summer Company.
 
 The Summer Company is among the factions to have a Bounty Board.
 
@@ -90,3 +91,9 @@ Neutral-Bad Reputation:
     -   [Scope](Scope.md) is named after the scope.
     -   [Trig](Trig.md) is named after the trigger.
     -   [Mag](Mag.md) is named after the magazine.
+
+## Navigation
+
+1.  [↑](#cite-ref-1) Our Fortress (Of Smoke And Steel
+2.  [↑](#cite-ref-2) [Our Fortress (Of Smoke And Steel)](<Our_Fortress_(Of_Smoke_And_Steel).md>)
+3.  [↑](#cite-ref-3) [Flintlock](Flintlock.md) description

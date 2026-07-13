@@ -1,6 +1,6 @@
 ---
 title: Kraphtalos
-revid: 211039
+revid: 219829
 source: https://deepwoken.fandom.com/wiki/Kraphtalos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -26,7 +26,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Kraphtalos is an old [Canor](Canor.md) NPC. He is a retired [Justicar](The_Justicar.md) at [Alsin's Landing](<Alsin's_Landing.md>) that was formerly known for using his [Resonance](Resonance.md) to transport others across the Luminant. As Justicars began working more independently and his own pressure to constantly teleport people, he left behind that path to pursue pottery instead.
+Kraphtalos is an old [Canor](Canor.md) NPC.
+
+He is a retired [Justicar](The_Justicar.md) at [Alsin's Landing](<Alsin's_Landing.md>) that was formerly known for using his [Resonance](Resonance.md) to transport others across the Luminant. As Justicars began working more independently and his own pressure to constantly teleport people he decided to leave that path behind to pursue pottery instead.
 
 Kraphtalos wears the sightly darkened down version of the [Justicar's Armor](<Justicar's_Armor.md>) outfit, a rocky version of the [Silver Pauldrons](Silver_Pauldrons.md) with a rocky pair of [Silver Sabatons](Silver_Sabatons.md), and [Smith's Goggles](<Smith's_Goggles.md>).
 

@@ -1,6 +1,6 @@
 ---
 title: Ether Refined Mantle
-revid: 219531
+revid: 219850
 source: https://deepwoken.fandom.com/wiki/Ether_Refined_Mantle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Arms, Equipment, Craftable, Equipment with Set Bonuses, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -15,7 +15,7 @@ categories: [Equipment with Styles, Pathfinder Exclusive, Arms, Equipment, Craft
 | selling price | 100 |
 | requirements | Power 12, 5 Intelligence |
 | weight | 2 |
-| styles | Default, Lilac, Navy, Sky, Verdant |
+| styles | Lilac, Navy, Sky, Sorcerer, Verdant |
 | innate stats | +7 Health , +1 Rare Pip, +2 Legendary Pips |
 | innate talent | Overflowing DamSorcerer's Surge |
 | set | Ether Refined Brim, Ether Refined Mantle |

@@ -1,11 +1,9 @@
 ---
 title: Resonance
-revid: 219542
+revid: 219827
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Resonances, Mechanics]
-notices:
-  - This page is currently being worked on. Page is undergoing some formatting changes. Some information will be lost.
+categories: [Resonances, Mechanics]
 ---
 
 # Resonance
