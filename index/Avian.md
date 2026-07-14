@@ -1,9 +1,9 @@
 ---
 title: Avian
-revid: 215654
+revid: 219999
 source: https://deepwoken.fandom.com/wiki/Avian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
 ---
 
 # Avian
@@ -23,7 +23,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Avian is a young [Etrean](Etrean.md) NPC who believes [Evengarde Rest](Evengarde_Rest.md) is a fraud. He will ask the player bring him a Weapon Manual so that he can become stronger in order to defeat [Evengarde Rest](Evengarde_Rest.md).
+Avian is an [Etrean](Etrean.md) NPC. They believe [Evengarde Rest](Evengarde_Rest.md) is a fraud.
+
+They will ask the player bring them a Weapon Manual so that they can become stronger.
 
 ## Location
 

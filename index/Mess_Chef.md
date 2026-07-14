@@ -1,9 +1,9 @@
 ---
 title: Mess Chef
-revid: 191548
+revid: 220007
 source: https://deepwoken.fandom.com/wiki/Mess_Chef
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Guild Base, Vendors]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Guild Base, Vendors, Individuals with unspecified pronouns]
 ---
 
 # Mess Chef
@@ -19,7 +19,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The **Mess Chef** is an NPC located inside of [Guild Bases](Guild_Bases.md). They can be hired for 2000 to prepare foods available at any time.
+The Mess Chef is an NPC located inside of [Guild Bases](Guild_Bases.md). They can be hired for 2000 to prepare foods available at any time.
 
 ## Shop
 

@@ -1,9 +1,9 @@
 ---
 title: Gild
-revid: 191449
+revid: 219994
 source: https://deepwoken.fandom.com/wiki/Gild
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Layer]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Individuals with unspecified pronouns]
 ---
 
 # Gild
@@ -25,7 +25,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Gild is an old [Celtor](Celtor.md) NPC. He wears [Merchant Robes](Merchant_Robes.md) and has apparently been stuck in the depths ever since Celtor sank below the Tides.
+Gild is a [Celtor](Celtor.md) NPC. They are an older fellow who has been stuck in [The City of the Drowned](The_City_of_the_Drowned.md) since it sank.
+
+They wear [Merchant Robes](Merchant_Robes.md).
 
 ## Location
 

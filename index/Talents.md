@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 219738
+revid: 219971
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4600,6 +4600,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 
 -   Cruentare: [Crimson Terraplate Pauldrons](Crimson_Terraplate_Pauldrons.md) - Increase the amount of all [bleed](Status_Effects.md#bleed) damage you deal by 50%. Your [Whirling Blade](Monster_Mantras.md#whirling-blade) now heals you when landing it.
     -   Whirling Blade heals you for 25% of damage dealt.
+        -   The user can proc this on the mobs summoned by [The Weaving Web](The_Weaving_Web.md) as its wielder.
 
 -   Dancing Steps of War - When landing a flourish, gain a speed boost and massively reduce the cooldown of your dodges for 2 seconds.
     -   Provides a 35% [Speed Boost](Status_Effects.md#speed-boost).

@@ -1,6 +1,6 @@
 ---
 title: Seraphina
-revid: 215871
+revid: 219968
 source: https://deepwoken.fandom.com/wiki/Seraphina
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -22,7 +22,9 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Seraphina is a [Capra](Capra.md) NPC. They are a vendor who sells starter equipment aimed towards new and early game players. They function identically to [Bari](Bari.md).
+Seraphina is a [Capra](Capra.md) NPC. They are a vendor who sells starter equipment aimed towards new and early game players.
+
+They function identically to [Bari](Bari.md).
 
 ## Location
 

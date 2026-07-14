@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 218394
+revid: 219966
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -10,7 +10,7 @@ categories: [Weapons, Oaths, The Hundred Legions]
 
 | Oath: Blightsurger | |
 |---|---|
-| oath_req | High Ally rep with The Hundred Legions, A sum of 80 points invested in Strength, Fortitude and Agility, 40 Galebreathe or Thundercall |
+| oath_req | High Ally rep with The Hundred Legions, A sum of 80 points invested in Strength, Fortitude and Agility, A sum of 40 points invested in Galebreathe or Thundercall |
 | effects | +5% PEN, +2 Combat Mantra Slots, +1 Wildcard Mantra Slots |
 
 | Sovereign Bangle | |

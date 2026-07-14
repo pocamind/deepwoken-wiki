@@ -1,9 +1,9 @@
 ---
 title: Ezra
-revid: 200162
+revid: 219981
 source: https://deepwoken.fandom.com/wiki/Ezra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests]
+categories: [Capra NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests]
 ---
 
 # Ezra
@@ -12,6 +12,7 @@ categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern
 |---|---|
 | name | Ezra |
 | aspect | Capra |
+| pronouns | He/him |
 | location | Songseeker Wilds |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -20,7 +21,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Ezra is a [Capra](Capra.md) NPC who gives a quest to kill Songseekers at the [Derelict Highchurch](Derelict_Highchurch.md). He also provides some information about Songseeker lore. Upon completing his quest, you gain a Bravery Talent hand.
+Ezra is a [Capra](Capra.md) NPC.
+
+Ezra gives a quest to kill Songseekers at the [Derelict Highchurch](Derelict_Highchurch.md). He also provides some information about Songseekers. Upon completing his quest, you gain a Bravery Talent hand.
 
 Before [Samael](Samael.md) and the [Starkindred](Oath%253A_Starkindred.md) took over the [Derelict Highchurch](Derelict_Highchurch.md), it was a place for Ezra and the [Capra](Capra.md) to worship Mother [Ku](Capra.md), a [Celestial](Celestial.md). When [Samael](Samael.md) took over, he turned it into a place to "worship" an unknown [Celestial](Celestial.md).
 

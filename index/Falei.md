@@ -1,6 +1,6 @@
 ---
 title: Falei
-revid: 191432
+revid: 219991
 source: https://deepwoken.fandom.com/wiki/Falei
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, The Divers]
@@ -26,7 +26,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Falei is a [Ganymede](Ganymede.md) NPC located in the [Sanctuary Gatehouse](Sanctuary_Gatehouse.md) in [The Eternal Gale](Second_Layer/The_Ethironal_Shrine.md). One of the [Apprentice Divers](Apprentice_Diver.md) whom joined [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) in his expedition into the Second Layer before his betrayal. He gives tips about the strong gale winds in the layer.
+Falei is a [Ganymede](Ganymede.md) NPC. He is one of the [Apprentice Divers](Apprentice_Diver.md) who joined [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) in his expedition into the Second Layer before his betrayal.
+
+He is located in the [Sanctuary Gatehouse](Sanctuary_Gatehouse.md) in [The Eternal Gale](Second_Layer.md). He gives tips about the strong gale winds in the layer.
 
 ## Dialogue
 

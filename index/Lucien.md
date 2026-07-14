@@ -1,9 +1,9 @@
 ---
 title: Lucien
-revid: 219495
+revid: 219988
 source: https://deepwoken.fandom.com/wiki/Lucien
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests]
+categories: [Felinor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests, Individuals with unspecified pronouns]
 ---
 
 # Lucien
@@ -23,7 +23,11 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Lucien is a [Felinor](Felinor.md) NPC. They teach the player the recipe to crafting [Iron Bombs](Iron_Bomb.md) through the [Quest](Talent_Quests.md) "Mineskipper Mayhem". His helmet is a heirloom from [Meemaw](Meemaw.md), who also survived Mineskippers with the same helmet.
+Lucien is a [Felinor](Felinor.md) NPC. They are a miner working in the [Songseeker Wilds](Songseeker_Wilds.md).
+
+Lucien teaches the player the recipe to crafting [Iron Bombs](Iron_Bomb.md) through the [Quest](Talent_Quests.md) "Mineskipper Mayhem".
+
+Their helmet is an heirloom from [Meemaw](Meemaw.md), who also survived Mineskippers with the same helmet.
 
 ## Location
 

@@ -1,6 +1,6 @@
 ---
 title: Nimea
-revid: 215358
+revid: 219967
 source: https://deepwoken.fandom.com/wiki/Nimea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -25,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Nimea is an [Etrean](Etrean.md) NPC.
+Nimea is an [Etrean](Etrean.md) NPC. She is on [Erisia](Erisia.md) to investigate [The Hidden Village](The_Hidden_Village.md).
 
 She provides insight into the [Lightkeepers](Lightkeepers.md), offering background on the situation in the Hidden Village, the condition of its civilians, and possible explanations for their fate. She also discusses her personal connection with Viqh, the Lightkeeper of the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md).
 

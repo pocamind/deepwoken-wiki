@@ -1,6 +1,6 @@
 ---
 title: Delta
-revid: 208473
+revid: 219962
 source: https://deepwoken.fandom.com/wiki/Delta
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Quests, Oath Trainer]
@@ -28,7 +28,7 @@ This content is not accessible outside of this gamemode.
 
 Delta is [Canor](Canor.md) NPC. He works for [The Ignition Union](The_Ignition_Union.md).
 
-Delta is responsible for handing out Arcsuits, though he doesn't entirely understand the mechanics behind their function. Still, he's aware of the basics of Oaths and doesn't appreciate damaging the suits.
+Delta is responsible for handing out Arc Suits, though he doesn't entirely understand the mechanics behind their function. Still, he's aware of the basics of Oaths and doesn't appreciate damaging the suits.
 
 [The Pathfinder](The_Pathfinder.md) is required to speak with him to obtain and progress the [Arcwarder](Oath%253A_Arcwarder.md) Oath after they rescue [Epsi](Epsi.md) and speak with [Alpha](Alpha.md).
 
@@ -74,7 +74,12 @@ Delta can be found inside the lower-mountain part of the town, specifically behi
   <td colspan="6">Alpha sent me.</td>
 </tr>
 <tr>
-  <td colspan="6">Alpha? Odd... It's not often he sends an outsider to me. In that case... I believe <i>this</i> is what he wanted you to have - our Union's treasured Arc Suit. It'll surely assist you while delving through this place. But.. hm. Let me check something.</td>
+  <td colspan="3">[Player is not an <a href="Ignition_Delver.md">Ignition Delver</a>]</td>
+  <td colspan="3">[Player is an <a href="Ignition_Delver.md">Ignition Delver</a>]</td>
+</tr>
+<tr>
+  <td colspan="3">Alpha? Odd... It's not often he sends an outsider to me. In that case... I believe <i>this</i> is what he wanted you to have - our Union's treasured Arc Suit. It'll surely assist you while delving through this place. But.. hm. Let me check something.</td>
+  <td colspan="3">Alpha sent you, eh? That's quite the commendation, recruit. Seems you've proven yourself worthy of an Arc Suit. It'll surely assist you while delving through this place. But.. hm. Let me check something.</td>
 </tr>
 <tr>
   <td colspan="6">Alright.</td>

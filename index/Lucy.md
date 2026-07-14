@@ -1,6 +1,6 @@
 ---
 title: Lucy
-revid: 191526
+revid: 219972
 source: https://deepwoken.fandom.com/wiki/Lucy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, NPCs, NPCs located in the First Layer, Individuals with unspecified pronouns]
@@ -16,7 +16,9 @@ categories: [Gremor NPCs, NPCs, NPCs located in the First Layer, Individuals wit
 
 ## Description
 
-Lucy is a [Gremor](Gremor.md) NPC that appears sprawled out on the floor in [The City of the Drowned](The_City_of_the_Drowned.md). They appear to have a grudge against [The Divers](The_Divers.md) and might be slightly insane as they hear voices talking to them.
+Lucy is a [Gremor](Gremor.md) NPC.
+
+They appear sprawled out on the floor in [The City of the Drowned](The_City_of_the_Drowned.md). They appear to have a grudge against [The Divers](The_Divers.md) and might be slightly insane as they hear voices talking to them.
 
 ## Location
 

@@ -1,9 +1,9 @@
 ---
 title: Emil
-revid: 215979
+revid: 220002
 source: https://deepwoken.fandom.com/wiki/Emil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs, Quests]
+categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs, Quests, Individuals with unspecified pronouns]
 ---
 
 # Emil
@@ -13,7 +13,7 @@ categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs, Quests]
 | name | Emil |
 | aspect | Etrean |
 | location | Temple Sparring Hall |
-| affiliation | Etrea |
+| affiliation | The Vigils |
 
 Variants: [Avian](Avian.md)
 
@@ -23,7 +23,9 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Emil is a young [Etrean](Etrean.md) NPC who believes [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md) is a fraud. He will ask the player bring him a [Weapon Manual](Weapon_Manual.md) so that he can become stronger in order to surpass Legato.
+Emil is a young [Etrean](Etrean.md) NPC. They are a student at the [Temple of the Blade](Temple_of_the_Blade.md).
+
+Emil believes [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md)'s strength is fading and hopes to surpass him. They will ask [The Inheritor](The_Inheritor.md) to bring them a [Weapon Manual](Weapon_Manual.md) so that they can become stronger and surpass Legato.
 
 ## Location
 
