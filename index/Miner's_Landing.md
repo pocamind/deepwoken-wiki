@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing"
-revid: 219202
+revid: 220008
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant, Territory of The Ignition Union]
@@ -22,11 +22,11 @@ The pride and efforts of the Union have culminated in this research base.
 
   
 
-**Miner's Landing** is a location in _Deepwoken_. It is found in the East Luminant.
+**Miner's Landing** is a location in _Deepwoken_. It is found in the Eastern Luminant.
 
 ## Overview
 
-Miner's Landing is an [Ignition Union](The_Ignition_Union.md) island past the [Songseeker Wilds](Songseeker_Wilds.md) Sea Highway. It introduces a great deal of new NPCs, equipment, [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), and the [Mechalodaunt](Mechalodaunt.md).
+Miner's Landing is the [Ignition Union](The_Ignition_Union.md)'s base of operations in the East, situated on a large island that houses a volcano.
 
 It contains a Voidzone, the [Saramaed Summit](Saramaed_Summit.md). It also contains a dungeon, the [Saramaed Hollow](Saramaed_Hollow.md), which is the main way of progression for people with the [Ignition Delver](Ignition_Delver.md) [origin](Origins.md) (who subsequently spawn here as well.)
 

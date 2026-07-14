@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 214444
+revid: 220010
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Legendary Weapons, "Attunement-based Weapons"]
@@ -545,6 +545,8 @@ See [Saintsworn Obelisks](Saintsworn_Obelisks.md#dialogue).
 ## Trivia
 
 -   This Oath was created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md), [Blightsurger](Oath%253A_Blightsurger.md), and [Visionshaper](Oath%253A_Visionshaper.md).
+-   The Saintsblade's runes translated from [Gatherhand](Gatherhand.md) say "FAUST UREK TESSA TRINITY JACE", corresponding with the Five Heroes.
+    -   In addition, the Oath Cosmetic will have the heroes' names written in Gatherhand on the blades that correspond with their Attunement.
 -   The 15 investment requirement in each attunement only applies to talking to their respective obelisk, not to obtaining the Oath in general. This means, you can talk to a number of the obelisks [pre-Shrine of Order](Deep_Shrines/Shrine_of_Order.md) while you still meet their requirements, and then talk to the remaining obelisks [post-Shrine of Order](Deep_Shrines/Shrine_of_Order.md) to obtain the Oath with less than 15 invest in some of your attunements.
 -   The text that appears when training an attunement, "The elements are not in alignment..." is a hint towards obtaining Saintsworn and was added with the release of the Oath.
 -   Saint's Synergy, Ether Proselyte('s Mantra level increasing effect), and Hero's Assist can all proc when not using the Saintsblade. The rest of the Saintsworn Oath does nothing while not using the weapon.
