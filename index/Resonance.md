@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 219827
+revid: 220023
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -35,7 +35,7 @@ If a Resonance has been rerolled at least once, the player will gain the [Tarnis
 
 ### Rerolling
 
-Resonances can be rerolled by speaking to the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) with an available Wish or using an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>).
+Resonances can be rerolled by speaking to the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) with an available Wish or by using an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>).
 
 Rerolling a Resonance grants a hand of three random cards, with an additional fourth being the previous Resonance. The fourth card has a chance to be a Corrupted Resonance. If the player already has a Corrupted Resonance, rerolling will have both their Normal and Corrupted counterparts on the fourth and fifth card respectively.
 
@@ -51,7 +51,7 @@ Resonances are divided into four categories, being Normal Resonances, Corrupted 
 
 Normal Resonances are regular, common Resonances. They do not have any extra upsides, downsides, or rarity compared to sub-category Resonances such as **Corrupted Resonances** (see below), but they are still susceptible to being a variant.
 
-_(From data of 100 rerolls, the calculated chance of getting a normal **Resonance** was 92% (276/300, almost guaranteed per reroll))_
+_(From data of 100 rerolls, the calculated chance of getting a normal Resonance was 92% (276/300, almost guaranteed per reroll))_
 
 Corrupted Resonances are a sub-category of Normal Resonances which are obtained identically to any other Resonances, or can be obtained by using a [Sinner's Ash](<Sinner's_Ash.md>) to corrupt a Normal Resonance. They are rarer and stronger versions of Normal Resonances, which grant greater point allocation and additional effects, albeit at the cost of one downside. Some downsides can be mitigated or synergized with, putting the user at an advantage.
 
@@ -63,7 +63,7 @@ The downsides of a Corrupted Resonance include:
 -   **BLOOD LOSS:** On use the player will lose 15% of their max blood. (Bypasses the Talent Cauterized Wounds)
 -   **FLAMING:** Unique to Corrupted Shard Bow. On use, the player will be inflicted with white flames.
 
-_(From data of 100 rerolls, the calculated chance of getting a **Corrupted Resonance** was 4% (1.333% per card))_
+_(From data of 100 rerolls, the calculated chance of getting a Corrupted Resonance was 4% (1.333% per card))_
 
 The list of Normal Resonances is shown below:
 
@@ -115,9 +115,9 @@ These Resonances are exclusive to NPCs, bosses, or developers and cannot be acqu
 
 ## Obtainment
 
-Obtaining your **Resonance** is judged by your character's fighting experience, typically through Bosses (see below), [Mobs](Monsters.md), or Players. Defeating Bosses is the most common way for people to gain Progress (see below) and eventually unlock their **Resonance**, as many Bosses have a strong connection with the Song.
+Obtaining your Resonance is judged by your character's fighting experience, typically through Bosses (see below), [Mobs](Monsters.md), or Players. Defeating Bosses is the most common way for people to gain Progress (see below) and eventually unlock their Resonance, as many Bosses have a strong connection with the Song.
 
-_If you do not talk to [Sibex](Sibex.md), you will be in the dark on how far your character has come since they first awoke, so for those looking to unlock their **Resonance** for the first time, paying a visit to him is advised-- [**please visit his page**](Sibex.md) to understand how to interpret what he tells you._
+_If you do not talk to [Sibex](Sibex.md), you will be in the dark on how far your character has come since they first awoke, so for those looking to unlock their Resonance for the first time, paying a visit to him is advised-- [**please visit his page**](Sibex.md) to understand how to interpret what he tells you._
 
 You can also obtain your Resonance from the very rare [Resonant Dawn](Random_Encounters.md#resonant-dawn) event, although you will have no choice of your Resonance.
 
@@ -125,7 +125,7 @@ The Ancient Soul [Regalia](Regalia.md) grants you a hand of Resonance draws upon
 
 ### The Path - Progress & Nature of Your Soul
 
-The main factor in obtaining a **Resonance** is _how far you are in the hidden stat known as **Progress**_ (commonly referred to by the community as "Bell Prog"). There are many ways to obtain Progress, and the most effective ways can vary by character. This can be judged by [Sibex](Sibex.md), who will inspect your Soul and inform you on what the best way for you to obtain Progress is. Additionally, he can also make note of how close you are to obtaining your **Resonance**.
+The main factor in obtaining a Resonance is _how far you are in the hidden stat known as Progress_ (commonly referred to by the community as "Bell Prog"). There are many ways to obtain Progress, and the most effective ways can vary by character. This can be judged by [Sibex](Sibex.md), who will inspect your Soul and inform you on what the best way for you to obtain Progress is. Additionally, he can also make note of how close you are to obtaining your Resonance.
 
 | **Possible dialogue results** |
 | --- |
@@ -212,7 +212,7 @@ Another important thing to note is The [Chime of Conflict](Chime_of_Conflict.md)
 
 **Note_:_ Jumping into the void below 50% health will STILL wipe you even if you have maximum Progress.**
 
-Once you face death in The Depths and your health reaches 0%, if you have maximum Progress:
+Once you face death in [The Depths](The_Depths.md) and your health reaches 0%, if you have maximum Progress:
 
 -   Instead of getting knocked, you will experience **divine intervention:**
 -   **An air-splitting bell choir will play throughout the entirety of The Depths as you rise once again.**
@@ -231,25 +231,24 @@ Once you select your card, using C will activate your **Resonance**.
 
 ## Trivia
 
--   You need Power 3 to reroll your **Resonance**.
--   **Resonances** cannot be used when doing [Chime of Conflict 1v1s](Chime_of_Conflict.md).
--   The higher the level you are, the easier it is to obtain a **Resonance**. This is because every time you power up, the requirements for your R**esonance** lower, rather than getting more experience towards your **Resonance** per power level.
--   **Resonances** come in the form of any instrument, but the bell-form is the only one seen in game.
--   The most popular, now debunked, method around the time _Deepwoken_ released involved staying in The Depths for _seven hours straight_ whilst farming for level & luck. Although being comically wrong, it set the groundwork for people to discover the truth behind **Resonances.**
--   A number of doors other than the one at the [Temple of Hearts](Temple_of_Hearts.md) require a **Resonance** to open. One was at the end of the parkour in the Depths prior to it becoming the home of the Diluvian Mechanism, one is in [Saramaed Summit](Saramaed_Summit.md), and one is near a waterfall at [Aratel Island](Aratel_Island.md).
--   It is speculated that the amount of Progress needed for a **Resonance** is shared among all slots in an account (if the previous slot gets a **Resonance** early, then other slots will likely get it early, too).
--   If [Sibex](Sibex.md) tells you "Well look at you, my friend! You're practically beaming with the Song!" but you don't have a **Resonance**, DO NOT try to bell check, as it is most likely a bug. If this happens, rejoin until his dialogue changes.
--   Before **Resonances** had Cards, the only way to know what rarity your **Resonance** was from a circular aura that occurred when you obtained it, being white for **Common**, purple for **Corrupted**, and yellow for **Legendary**.
--   Near release, there were rumors of Blessed **Resonances** - opposite of **Corrupted Resonances** - existing and being equally as rare. These have been debunked and do not exist in the game.
+-   You need Power 3 to reroll your Resonance.
+-   Resonances cannot be used when doing [Chime of Conflict 1v1s](Chime_of_Conflict.md).
+-   The higher the level you are, the easier it is to obtain a Resonance. This is because every time you power up, the requirements for your Resonance lower, rather than getting more experience towards your Resonance per power level.
+-   Resonances come in the form of any instrument, but the bell-form is the only one seen in game.
+-   Formerly, the most popular method to obtain Progress around the time _Deepwoken_ released involved staying in The Depths for _seven hours straight_ whilst farming for level & luck. Although long debunked, it set the groundwork for people to discover the truth behind Resonances**.**
+-   A number of doors other than the two at the [Temple of Hearts](Temple_of_Hearts.md) require a Resonance to open. Three doors are required to be opened before entering [Aska's](Aska.md) cave, one is in [Saramaed Summit](Saramaed_Summit.md), and one is near a waterfall at [Aratel Island](Aratel_Island.md).
+-   It is speculated that the amount of Progress needed for a Resonance is shared among all slots in an account (if the previous slot gets a Resonance early, then other slots will likely get it early, too).
+-   If [Sibex](Sibex.md) tells you "Well look at you, my friend! You're practically beaming with the Song!" but you don't have a Resonance, DO NOT try to bell check, as it is most likely a bug. If this happens, rejoin until his dialogue changes.
+-   Before Resonances had Cards, the only way to know what rarity your Resonance was from a circular aura that occurred when you obtained it, being white for Common, purple for Corrupted, and yellow for Legendary.
+-   Near release, there were rumors of Blessed Resonances - opposite of Corrupted Resonances - existing and being equally as rare. These have been debunked and do not exist in the game.
 -   Two of the bell models resemble the Beckoning Bell and Small Resonant Bell from _Bloodborne_.
 -   Ragoozer has confirmed that he is interested in **Evolved Bells**.\[citation needed\]
--   **Resonances** might not be common knowledge to most, seeing as [Alastir](Alastir.md) had noted the bell on [Duke Erisia's](Duke_Ishamon_Erisia.md) waist but did not recognize it as a Resonance
--   Arch Mage confirmed that back in Verse One, Adept & Mark of the Lone Warrior didn't affect **Resonance** progression.
--   If you reroll a **Corrupted Resonance** or **Drowned Resonance**, you will get 5 cards, 3 new **Resonances**, the corrupted bell you had (different variant & points) and the non corrupted bell version you had.
--   The Boss Path can switch to the Depths Path suddenly for unknown reasons, likely due to a bug.
--   Bosses are the most efficient way to gain **Resonance** progression.
--   Being a Deepbound and having the Depths Path is usually enough to get your **Resonance** just by reaching Power 20.
--   Within the [Second Layer of the Depths](Second_Layer.md) exists a set of three **Resonance** doors under [Firfire](Firfire.md), which have a unique orange-coloration; the significance of this is unknown, but it is theorized that they were created by the _[unique Flamecharmer](Aska.md) behind the doors, who awaits the arrival of their [lord](Amorus_Pleeksty.md)._
+-   Resonances might not be common knowledge to most, seeing as [Alastir](Alastir.md) had noted the bell on [Duke Erisia's](Duke_Ishamon_Erisia.md) waist but did not recognize it as a Resonance.
+-   Arch\_Mage confirmed that back in Verse One, Adept & Mark of the Lone Warrior didn't affect Resonance progression.
+-   It has been reported that the Boss Path can switch to the Depths Path suddenly for unknown reasons, likely due to a bug.
+-   Bosses are the most efficient way to gain Resonance progression.
+-   Being a Deepbound and having the Depths Path is usually enough to get your Resonance just by reaching Power 20.
+-   Within the [Second Layer of the Depths](Second_Layer.md) exists a set of three Resonance doors under [Firfire](Firfire.md), which have a unique orange-coloration; the significance of this is unknown, but it is theorized that they were created by the _[unique Flamecharmer](Aska.md) behind the doors, who awaits the arrival of their [lord](Amorus_Pleeksty.md)._
 
 ## References
 

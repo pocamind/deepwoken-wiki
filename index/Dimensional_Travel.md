@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 218263
+revid: 220024
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -20,7 +20,7 @@ categories: [Resonances]
 
 ### Description
 
-**Dimensional Travel**, also referred to as _Kamui_ or _Distortion Realm_, is a [Resonance](Resonance.md) or "bell" that players can obtain and is exceedingly rare to roll.
+**Dimensional Travel**, commonly referred to as _Kamui_ or _Distortion Realm_, is a Legendary [Resonance](Resonance.md) that is exceedingly rare to roll.
 
 ### Appearance
 
@@ -28,13 +28,13 @@ Upon usage, the user will leave behind a vortex shaped portal and be transported
 
 ## Usage
 
-Pressing C will activate the **Dimensional Travel** Resonance.
+Pressing C will activate the Dimensional Travel Resonance.
 
-When activated, the user is transported into an alternate dimension known as [The Interstice](The_Interstice.md) and will briefly leave a lingering portal to allow other players to enter. The resonance cannot be activated if the user is in combat, unless the **Use in Combat** Resonance stat is invested into. Each step taken inside The Interstice will translate to a varying number of steps taken outside of The Interstice, depending on your resonance point allocation.
+When activated, the user is transported into an alternate dimension known as [The Interstice](The_Interstice.md) and will briefly leave a lingering portal to allow other players to enter. The Resonance cannot be activated if the user is in combat, unless the **Use in Combat** Resonance stat is invested into. Each step taken inside The Interstice will translate to a varying number of steps taken outside of The Interstice, depending on your Resonance point allocation.
 
-While in [The Interstice](The_Interstice.md) the user gains a small buff to their defense and damage
+While in [The Interstice](The_Interstice.md), the user gains a small buff to their defense and damage.
 
-Dimensional Travel cannot be used in: [Etris Palace](Etris_Palace.md), [Voidheart](Voidheart.md), [Guild Bases](Guild_Bases.md), the [Depths trial](Cathedral_of_the_Interstice.md), or instanced dungeons (such as the [Second Layer](Second_Layer.md) or [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>))
+Dimensional Travel cannot be used in: [Etris Palace](Etris_Palace.md), [Voidheart](Voidheart.md), [Guild Bases](Guild_Bases.md), the [Depths trial](Cathedral_of_the_Interstice.md), or instanced dungeons (such as the [Second Layer](Second_Layer.md) or [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>)).
 
 The function activating the Resonance has been dependent on what state of 'using the resonance' you're in:
 
@@ -64,22 +64,20 @@ If Dimensional Travel is Drowned, in addition to the extra Resonance points to s
 
 -   Upon successful exiting The Interstice, you will be unable to interact with chests for 30 seconds.
 -   If used while in combat, Dimensional Travel will have a significantly longer windup.
-    -   The user will also find themselves unable to utilize any combat mechanics, rendering them defenseless to attacks
--   Like [Portals](Portals.md), Dimensional Travel can be very useful in ambushing/ganking other players. It is even harder to detect than Portals.
+    -   The user will also find themselves unable to utilize any combat mechanics, rendering them defenseless to attacks.
+-   Like [Portals](Portals.md), Dimensional Travel can be very useful in ambushing other players. It is even harder to detect than Portals.
 -   Despite looking like a better than average area for combat, it is _**incredibly dangerous**_ to fight in [The Interstice](The_Interstice.md) while in the [First Layer](First_Layer.md), as being forcefully teleported out of the realm by falling into an opening or being downed and being above the void can result in an instant wipe.
 -   You cannot take players that are knocked into [The Interstice](The_Interstice.md).
 -   Functions similarly and is likely inspired by Tobi's "Kamui" ability from Naruto; both involve entering a largely featureless separate dimension with a floor composed of black blocks that also enable transportation over long distances. Both also invoke swirl patterns when used.
     -   Amusingly also similar to Minecraft's Nether travel mechanics, both allowing extra distance to be covered in the overworld by traversing a distance in a separate dimension.
 -   When in the [First Layer](First_Layer.md), if you leave the map and fall out of the world or get stuck inside of terrain, it will act as a reset and spawn you at one of the spawn locations.
--   Attempting to use **Dimensional Travel** in the [Second Layer](Second_Layer.md) will fling you in the direction of your momentum, with dialogue from an unknown entity saying, “FALSE REALMS CANNOT SAVE YOU.”
+-   Attempting to use Dimensional Travel in the [Second Layer](Second_Layer.md) will fling you in the direction of your momentum, with dialogue from an unknown entity saying, “FALSE REALMS CANNOT SAVE YOU.”
     -   If used properly, timing a jump to change the angle of your momentum can allow you to gain great amounts of distance in a desirable direction over a short time. This is frequently used for speedrunning.
--   If you get teleported to the [Voidheart](Voidheart.md) due to a [Voidwalker](Voidwalker.md) bounty expiring while inside The Interstice, you get teleported far into the [Voidsea](Voidsea.md) (possibly the Voidheart's coordinates multiplied by your **Dimensional Travel** distance stat.)
+-   If you get teleported to the [Voidheart](Voidheart.md) due to a [Voidwalker](Voidwalker.md) bounty expiring while inside The Interstice, you get teleported far into the [Voidsea](Voidsea.md) (possibly the Voidheart's coordinates multiplied by your Dimensional Travel distance stat.)
     -   Voidwalker bounties also expire if the targets are separated via The Interstice long enough, rendering this a means of escape for either, albeit inconvenient.
 -   [Random Encounters](Random_Encounters.md) from the [Voidsea](Voidsea.md) can briefly occur when arriving to or leaving The Interstice, due to your character being in the [Voidsea](Voidsea.md) for a short period.
-    -   This includes the [Dread Serpent](Dread_Serpent.md), this bug used to be patched, but it has been unpatched by agamatsu's AI coding
-        
-       .
-        
+
+The [Dread Serpent](Dread_Serpent.md) can be encountered via this interaction.
 
   
 
@@ -87,9 +85,11 @@ If Dimensional Travel is Drowned, in addition to the extra Resonance points to s
 
   
 
--   Gravity inside the Distortion Realm used to be reduced.
+  
+
+-   Gravity inside The Interstice used to be reduced.
 -   There used to be a bug where buildings could be found in The Interstice.
 -   You cannot climb the structures in [The Interstice](The_Interstice.md).
 -   You can fish in the cracks of the floor.
--   All healing in [The Interstice](The_Interstice.md) is greatly hampered, similarly to [Voidzones](Voidzones.md)
+-   All healing in [The Interstice](The_Interstice.md) is greatly hampered, similarly to [Voidzones](Voidzones.md).
 -   When trying to use Dimensional Travel in [The Interstice](The_Interstice.md), while in the [First Layer](First_Layer.md), if the location viewed is a kill brick, the message "You might suffocate in here" will be displayed.

@@ -1,6 +1,6 @@
 ---
 title: Beeswax
-revid: 216575
+revid: 220018
 source: https://deepwoken.fandom.com/wiki/Beeswax
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Harvestables, Items]
@@ -22,15 +22,13 @@ categories: [Ingredients, Harvestables, Items]
 
 ## Description
 
-Beeswax can be found hanging off of large trees in a few fixed spots, especially around [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Miner's Landing](<Miner's_Landing.md>) and [Lower Erisia](Lower_Erisia.md). This requires you to climb to harvest them or to chop the tree.
+**Beeswax** is an ingredient that can be found hanging off of large trees around [Etris](Etris.md), the [Isle of Vigils](Isle_of_Vigils.md), [Miner's Landing](<Miner's_Landing.md>), and [Lower Erisia](Lower_Erisia.md), among other places. Climbing up or chopping down the trees Beeswax is found on is required.
 
 ## Crafting
 
-### Used in
+-   [Canteen](Canteen.md) (1 [Calabash](Calabash.md) + 1 Beeswax at a [Crafting Station](Crafting_Station.md))
+-   [Candle](Candle.md) (1 [Fiber](Fiber.md) + 1 Beeswax)
 
--   A main competent to craft the [Canteen](Canteen.md).
--   Used to craft [Candle](Candle.md)
+## Trivia
 
-## Triva
-
--   Unlike the held item, Beeswax appears as a beehive when unharvested.
+-   Unlike the held item, **Beeswax** appears as a beehive when unharvested.
