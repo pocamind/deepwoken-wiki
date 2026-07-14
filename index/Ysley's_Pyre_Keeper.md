@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 214600
+revid: 220028
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", "Multi-Weapon Scaling", Heavy Weapons, Weapons with multiple Criticals, Weapons of The Hive]
@@ -75,7 +75,7 @@ These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Tal
     -   This was changed to require 25 HVY; 10 LHT; 75 FIR on the patch the day after the legendary was added to the game.
 -   The M1s used to have the same animations as the [Wyrmtooth](Wyrmtooth.md) and [Railblade](Railblade.md), but this was changed on April 19, 2024.
 -   You cannot use running critical attacks at [The Interstice](The_Interstice.md), instead you will proc the air critical attacks. Probably a bug or it was just because [The Interstice](The_Interstice.md) is a place that was above the Voidsea.
--   It has the most amount of critical attack variations (Five, one for nearly every possible character state).
+-   It has the most amount of critical attack variations (Six, one for nearly every possible character state).
 -   The sliding critical slashes don't match the animations.
     -   Three circular slashes somehow appear from the dagger in the singular 360˚ front flip despite the dagger not being moved more than the rest of the body.
 -   Quite powerful with the [Switchblade](Talents.md#switchblade) talent, due to overlapping investment points.
