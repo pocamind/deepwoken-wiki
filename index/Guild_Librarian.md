@@ -1,6 +1,6 @@
 ---
 title: Guild Librarian
-revid: 219189
+revid: 220041
 source: https://deepwoken.fandom.com/wiki/Guild_Librarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Guild Base]
@@ -20,6 +20,8 @@ This content is not accessible outside of this gamemode.
 ## Description
 
 The **Guild Librarian** is an NPC located inside of [Guild Bases](Guild_Bases.md). They can be hired for 1000 to catalogue [Books](Books.md) for the player to access at anytime.
+
+([Book-Checklist](Book-Checklist.md))
 
 ## Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 212292
+revid: 220066
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -34,6 +34,7 @@ Raw materials harvested from the environment.
 -   [Dentifilo](Dentifilo.md) - Smallest mushroom with a dotted cap.
 -   [Bluecap](Bluecap.md) - Found only in a library area coated in blue fog on Erisia.
     -   There are two ways to get into this location; First by an upwards shaft from the cave in [Lower Erisia](Lower_Erisia.md) where one can find gold \[One can only access this location with movement mantras, and clever use of the Cauldron\], secondly \[and the intended way\] is via a puzzle at the [Birdcage](The_Birdcage.md) which you need a Soul Hearthgem for, then take the nearby zipline and head into a hole in the floor of a nearby ruin.
+-   [Squelcap](Squelcap.md) - A slim and tall mushroom found only in [Simforea](Simforea.md).
 
 #### Fruits
 
@@ -57,6 +58,9 @@ Raw materials harvested from the environment.
 -   [Urchin](Urchin.md) - Found in [Scyphozia](First_Layer.md)
 -   [Thresher Egg](Thresher_Egg.md) - Found in Thresher nests.
 -   [Stick](Stick.md) - Scattered around trees and foliage.
+-   [Hemobloom](Hemobloom.md) - A scarlet red flower found only in [The Valley of Heroes](The_Valley_of_Heroes.md) during Winter.
+-   [Latchgrain](Latchgrain.md) - A slick grain found only in [Simforea](Simforea.md).
+-   [Grudgeroot](Grudgeroot.md) - A inedible root found only in [Simforea](Simforea.md).
 
 ### Ores
 
@@ -72,6 +76,7 @@ Ores come from mining ore deposits found across various locations or can be boug
 -   [Irithine](Ores.md#irithine)
 -   [Astruline](Ores.md#astruline)
 -   [Umbrite](Ores.md#umbrite)
+-   [Indichite](Ores.md#indichite)
 
 ### Enemy Drops
 
@@ -93,6 +98,7 @@ Many common [Monsters](Monsters.md) and some [Bosses](Bosses.md) have a chance o
 -   [Terrapod](Terrapod.md) and [Crimson Terrapod](Terrapod.md#crimson)
     -   [Strange Claw](Strange_Claw.md)
     -   [Terrapod Shell](Terrapod_Shell.md)
+    -   [Crimson Terrapod Shell](Crimson_Terrapod_Shell.md)
 -   [Thresher](Thresher.md)
     -   [Thresher Spine](Thresher_Spine.md)
     -   [Thresher Talon](Thresher_Talon.md)
@@ -120,6 +126,10 @@ Many common [Monsters](Monsters.md) and some [Bosses](Bosses.md) have a chance o
 -   All [Kyrsgarde](Kyrsgarde.md)
     -   [Frozen Membrane](Frozen_Membrane.md)
     -   [Kyrsan Schematic](Kyrsan_Schematic.md)
+-   [Arkasid](Arkasid.md)
+    -   [Arkasid Carapace](Arkasid_Carapace.md)
+
+  
 
 #### Bosses
 
@@ -144,6 +154,7 @@ Many common [Monsters](Monsters.md) and some [Bosses](Bosses.md) have a chance o
     -   [Parasol Part](Parasol_Part.md)
     -   [Raw Parasol Brain](Raw_Parasol_Brain.md)
     -   [Parasol Membrane](Parasol_Membrane.md)
+    -   [Charged Parasol Part](Charged_Parasol_Part.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
     -   [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
@@ -151,6 +162,9 @@ Many common [Monsters](Monsters.md) and some [Bosses](Bosses.md) have a chance o
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
     -   [Temporal Crux](Temporal_Crux.md)
     -   [Ethereal Bone Dust](Ethereal_Bone_Dust.md)
+-   [Kyrsgarde Champion, Kyrsa's Star](<Kyrsgarde_Champion,_Kyrsa's_Star.md>)
+    -   [Gale Essence](Gale_Essence.md)
+    -   [Frost Essence](Frost_Essence.md)
 
 ### Mantra Ingredients
 
@@ -209,31 +223,3 @@ While Treasures are not "Ingredients" in the literally defined sense, some Deep 
 -   [Gale Stone](Gale_Stone.md) - [Galebreathe](Galebreathe.md)
 -   [Umbral Obsidian](Umbral_Obsidian.md) - [Shadowcast](Shadowcast.md)
 -   [Heartstar](Heartstar.md) - [Bloodrend](Bloodrend.md)
-
-### Primordial Lotuses
-
-“ A primordial Lotus, capable of producing the rawest form of power itself. ”
-
-― Primordial Lotuses Description
-
-  
-Lotuses are unique ingredients that are used to make [Attribute Flasks](Attribute_Flasks.md), which are created by combining two of a lotus at a crafting station. Attribute flasks can be drunk to immediately gain one [Attribute Point](Attributes.md). Like training using [Training Gear](Training_Gear.md), this uses an investment point, though no training is required. They are usually found within [Voidzones](Voidzones.md), with each growing one or two specific lotuses. Lotuses can also be used to obtain the [Saltchemist Oath](Oath%253A_Saltchemist.md).
-
-Lotuses can also be added to potions, though they have no effect.
-
-Lotuses and attribute flasks cannot be dropped. Lotuses can be sold for 15 each.
-
-2 of each lotus crafts a flask of an attribute (ex. 2x Brilliant Lotus = Flask of Intelligence).
-
--   [Hellfire Lotus](Primordial_Lotuses.md#hellfire-lotus) (Red) - Strength Attribute
-    -   Found in: [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), [Saramaed Summit](Saramaed_Summit.md)
--   [Empyrean Lotus](Primordial_Lotuses.md#empyrean-lotus) (Blue) - Fortitude Attribute
-    -   Found in: [Deep Thresher Nest](Deep_Thresher_Nest.md)
--   [Zephyr Lotus](Primordial_Lotuses.md#zephyr-lotus) (Green) - Agility Attribute
-    -   Found in: [Ancient Rotlands](Ancient_Rotlands.md)
--   [Brilliant Lotus](Primordial_Lotuses.md#brilliant-lotus) (Yellow) - Intelligence Attribute
-    -   Found in: [Saramaed Summit](Saramaed_Summit.md), [Deep Thresher Nest](Deep_Thresher_Nest.md)
--   [Skyvalor Lotus](Primordial_Lotuses.md#skyvalor-lotus) (White) - Willpower Attribute
-    -   Found in: [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), [Starfield Grove](Starfield_Grove.md)
--   [Miasmic Lotus](Primordial_Lotuses.md#miasmic-lotus) (Pink) - Charisma Attribute
-    -   Found in: [Ancient Rotlands](Ancient_Rotlands.md)

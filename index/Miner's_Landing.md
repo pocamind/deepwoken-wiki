@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing"
-revid: 220008
+revid: 220064
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant, Territory of The Ignition Union]
@@ -58,7 +58,7 @@ High above the Town of Miner's Landing is the upper areas. Here, the entrance to
 
 ### Boiler Room
 
-The Boiler Room is an area where [Summer Company Guards](Summer_Company_Guard.md) and [Ignition Union Fighters](Ignition_Union_Fighter.md) are constantly fighting. There are two [Mechalodaunts](Mechalodaunt.md), one located to the right of the entrance, and the other located to the behind vault door, to the left and up the right slope.
+The Boiler Room is an area where [Summer Company Guards](Summer_Company_Guard.md) and [Ignition Union Fighters](Ignition_Union_Fighter.md) are constantly fighting.
 
 The Boiler Room contains two entrances into [Saramaed Summit](Saramaed_Summit.md), one of which is located to the right behind the vault door. The other entrance is located down the left hallway, up the left slope and in a room with an NPC.
 
@@ -151,8 +151,6 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 ## Trivia
 
 -   The music for this area is [Peregrine](Deepwoken_OST.md#peregrine) by Naktigonis so far. Its own theme song has been confirmed to be released.
--   Miner's Landing has many chests containing loot in various, unexpected areas.
 -   Miner's Landing has a more industrial focus than the other bases such as [Etris](Etris.md) and [Greathive Aratel](Greathive_Aratel.md).
--   The business buildings are more spread out than normal, with the Bank only accessible by climbing a waterfall.
--   There are also hooks that can be used to travel between those places quickly.
--   People with the [Ignition Delver](Ignition_Delver.md) origin spawn here.
+-   Various Union Hooks can be found throughout Miner's Landing.
+-   Players with the [Ignition Delver](Ignition_Delver.md) Origin spawn here by default.

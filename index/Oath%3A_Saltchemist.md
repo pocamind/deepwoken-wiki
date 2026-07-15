@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 219101
+revid: 220031
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -30,11 +30,11 @@ The effects of this Oath happen as a result of drinking the **Root Panacea**, an
 ## Obtainment
 
 1.  Make at least one potion for [Ciea](Ciea.md). You do not need to learn the location of [Adrofalis](Adrofalis.md) before undertaking the Oath.
-2.  Obtain 75 [Intelligence](Attributes.md). You do not need to unbound. Doing this and having made a potion for Ciea will open Adrofalis' dialogue.
+2.  Obtain 75 [Intelligence](Attributes.md#int). You do not need to unbound. Doing this and having made a potion for Ciea will open Adrofalis' dialogue.
 3.  In [Ferryman's Library](<Boatman's_Watch.md>), [Adrofalis](Adrofalis.md) will ask you to make a residue. Bring him the following ingredients:
     -   [Celestial Ichor](Samael.md), the blood of a Celestial. Go to [Derelict Highchurch](Derelict_Highchurch.md) and use a canteen in the blood pool of the crucified Celestial. (The blood stays in your canteen just as regular water. It does not disappear when you die or rejoin, though **it will disappear** if you reset.)
     -   [Stardust](Stardust.md) from a Star Tree. Consider getting a second one, which is needed to progress the Oath.
-    -   Any [Lotus](Ingredients.md#lotuses), which can be found in most [Voidzones](Voidzones.md). [Saramaed Summit](Saramaed_Summit.md) is fairly close to the [Starfield Veldt](Starfield_Veldt.md), so it is a good option to grab a few. You could also grab one from the [Ancient Rotlands](Ancient_Rotlands.md) while you’re there for the Ichor.
+    -   A [Pristine Lotus](Pristine_Lotus.md), which can be found in [The Entropy Catalyst](The_Entropy_Catalyst.md). You may also use a [Scarlet Lotus](Pristine_Lotus.md).
 4.  Gather those ingredients and return to [Adrofalis](Adrofalis.md), who will grant you the Oath.
 
 -   Upon obtaining the Oath you gain the Perpetual Distillery; three needles on your arm. They change color depending on what potion is inserted.

@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 219951
+revid: 220042
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Books]
@@ -10,7 +10,9 @@ categories: [Items, Books]
 
 ## Description
 
-Books are items that are found in the world of Deepwoken and are a separate category from loot, tools, weapons, etc. Books can be obtained by looting the various bookshelves around the world or as a guaranteed item sold at a Traveling Merchant Ship. Upon opening a book, player's are given a small sum of Intelligence XP. Besides that, most books have no purpose besides providing additional lore and information regarding Deepwoken's world and history; excluding [Intelligence or Charisma Training Gears](Training_Gear.md#attribute-training-gears) and [Weapon Training Gears](Training_Gear.md#attribute-training-gears). Books can also be donated in a [Guild Bases](Guild_Bases.md)' library for future reading. With a select few books, you can read them and gain the ability to perform it's song, without lyrics.
+Books are items that are found in the world of Deepwoken and are a separate category from loot, tools, weapons, etc. Books can be obtained by looting the various bookshelves around the world or as a guaranteed item sold at a Traveling Merchant Ship. Upon opening a book, player's are given a small sum of Intelligence XP. Besides that, most books have no purpose besides providing additional lore and information regarding Deepwoken's world and history; excluding [Intelligence or Charisma Training Gears](Training_Gear.md#attribute-training-gears) and [Weapon Training Gears](Training_Gear.md#attribute-training-gears). Books can also be donated in a [Guild Bases](Guild_Bases.md)' library for future reading. ([Book-Checklist](Book-Checklist.md))
+
+With a select few books, you can read them and gain the ability to perform it's song, without lyrics.
 
 Some books are obtained in specific areas only, and cannot be found outside of it. Such books include:
 

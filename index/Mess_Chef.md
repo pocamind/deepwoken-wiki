@@ -1,6 +1,6 @@
 ---
 title: Mess Chef
-revid: 220007
+revid: 220047
 source: https://deepwoken.fandom.com/wiki/Mess_Chef
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Guild Base, Vendors, Individuals with unspecified pronouns]
