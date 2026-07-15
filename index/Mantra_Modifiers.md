@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 219723
+revid: 220068
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Mantras, Materials]
@@ -33,7 +33,7 @@ Upgrading an already upgraded Mantra will stack onto the previous upgrades.
 
 **Note**: On the February 8th, 2022 update, T2 modifiers (Stratus Stone, Perfect Lens, Eternal Logstones, Rush Shards) were given downsides, similar to their T1 counterparts.
 
-| Modifier | Effect | Notes | Drops |
+| Modifier | Effects | Notes | Drops |
 | --- | --- | --- | --- |
 | 
 Cloudstone
@@ -43,6 +43,8 @@ Cloudstone
 -   +2 Size
 -   \-1 Speed
 -   +10 Ether Cost
+
+_"A cloud bubbles within the stone, waiting to expand."_
 
  | 
 
@@ -69,7 +71,15 @@ Stratus Stone
 -   \-1 Speed
 -   +20 Ether Cost
 
- | Increases mantra/hitbox size. | 
+_"A swirling bank of clouds seems ready to burst out of the confines of the stone."_
+
+ | 
+
+-   Increases mantra/hitbox size.
+-   Projectiles lose distance.
+-   Compatible with the "Ice Lasers" mantra for a unique effect.
+
+ | 
 
 -   All Megalodaunt Variants
 -   Rock Golem
@@ -85,6 +95,8 @@ Crystal Lens
 -   +2 Range
 -   \-1 Size
 -   +10 Ether Cost
+
+_"Looking through the lens, you can see further than ever before."_
 
  | 
 
@@ -108,7 +120,14 @@ Perfect Lens
 -   +3 Range
 -   +20 Ether Cost
 
- | Increases range of Projectiles and targeting range of auto-aim moves. | 
+_"Looking through the lens, you can see further than ever before."_
+
+ | 
+
+-   Increases range of projectiles, and the targeting range of auto-aim moves.
+-   If the mantra is not a projectile, the hitbox/aim assist area size is reduced instead.
+
+ | 
 
 -   All Megalodaunt Variants
 -   Rock Golem
@@ -124,6 +143,8 @@ Aeon Logstone
 -   +2 Duration
 -   \-1 Range
 -   +10 Ether Cost
+
+_"An ancient, indecipherable script is carved into every facet of the stone."_
 
  | 
 
@@ -148,6 +169,8 @@ Eternal Logstone
 -   +3 Duration
 -   +20 Ether Cost
 
+_"An ancient, indecipherable script is carved into every facet of the stone."_
+
  | 
 
 -   Increases duration of ritual casts, elemental effects, and passive effects.
@@ -169,6 +192,8 @@ Drift Shard
 -   +2 Speed
 -   \-1 Duration
 -   +10 Ether Cost
+
+_"The shard hums like a flying arrow as you hold it."_
 
  | 
 
@@ -192,6 +217,8 @@ Rush Shard
 -   +3 Speed
 -   +20 Ether Cost
 
+_"The shard hums like a flying arrow as you hold it."_
+
  | 
 
 -   Projectiles go further
@@ -206,29 +233,6 @@ Rush Shard
  |
 | 
 
-Amnesic Driftwood
-
- | 
-
--   Currently nothing.
-
- | 
-
--   Used to remove every single modifier previously added to the Mantra, including Sparks.
--   Due to the Mantra modification rework, this Modifier was made irrelevant and it currently does nothing.
-
- | 
-
--   Bandits
--   Bandit Leaders
--   Carbuncles
--   Brainsuckers
--   All Mudskipper Variants
--   Immortal Guardians
-
- |
-| 
-
 Glass Stone
 
  | 
@@ -236,6 +240,8 @@ Glass Stone
 -   +2 AoE
 -   \-1 Duration
 -   +10 Ether Cost
+
+_"Images perceived through the stone seem to give off an expanding aura."_
 
  | 
 
@@ -257,6 +263,8 @@ Magnifying Stone
 -   \-1 Duration
 -   +20 Ether Cost
 
+_"Images perceived through the stone seem to give off an expanding aura."_
+
  | 
 
 -   Works well with mantras like "Ice Beam".
@@ -276,6 +284,8 @@ Vibrant Gem
 -   +2 Intensity
 -   +20 Ether Cost
 
+_"IT'S INTENSE!"_
+
  | 
 
 Elemental intensity affects the ability of mantras to interact/break terrain.
@@ -290,6 +300,31 @@ Elemental intensity affects the ability of mantras to interact/break terrain.
 -   Terrapods
 -   Enforcers
 -   Duke Erisia
+
+ |
+| 
+
+Amnesic Driftwood
+
+ | 
+
+-   None
+
+_"What did this do again?"_
+
+ | 
+
+-   Used to remove every single modifier previously added to the Mantra, including Sparks.
+-   Due to the Mantra modification rework, this Modifier was made irrelevant and it currently does nothing.
+
+ | 
+
+-   Bandits
+-   Bandit Leaders
+-   Carbuncles
+-   Brainsuckers
+-   All Mudskipper Variants
+-   Immortal Guardians
 
  |
 

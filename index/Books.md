@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 220042
+revid: 220067
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Books]
@@ -69,7 +69,7 @@ Currently there are 30 books and book collections:
 -   [Lumen's Folklore](<Lumen's_Folklore.md>)
     -   Lumen's Folklore: Volume 'Attunement'
     -   Lumen's Folklore: Volume 'North'
--   [Ministry Field Report](Ministry_Field_Report.md)
+-   [Ministry Field Report](Ministry_Field_Report.md) 29 words, <1m reading time.
 -   [Munet Journal](Munet_Journal.md)
     -   Munet Journal, XIV
 -   [Neatly Embelished Notebook](Neatly_Embelished_Notebook.md)
