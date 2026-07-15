@@ -1,6 +1,6 @@
 ---
 title: "The No-Life King's Crown"
-revid: 217793
+revid: 220092
 source: https://deepwoken.fandom.com/wiki/The_No-Life_King's_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Head, Ornaments, Craftable, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -36,17 +36,17 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 The [Cauterized Wounds](Talents.md#cauterized-wounds) Talent reduces all blood **damage** taken. Blood drain effects completely ignore this effect.
 
-The [Blood Necrosis](Talents.md#blood-necrosis) Talent reduces the healing from [Bloodless Gems](Bloodless_Gem.md) by 16.5%. This changes the Bloodless Gem formula to:  
-S c a l e d D a m a g e × 0.8 × 0.835 × 0.3 {\\displaystyle ScaledDamage\\times 0.8\\times 0.835\\times 0.3} {\\displaystyle ScaledDamage\\times 0.8\\times 0.835\\times 0.3}
+The [Blood Necrosis](Talents.md#blood-necrosis) Talent reduces the healing from [Bloodless Gems](Bloodless_Gem.md) by 33%. This changes the Bloodless Gem formula to:  
+S c a l e d D a m a g e × 0.8 × 0.67 × 0.3 {\\displaystyle ScaledDamage\\times 0.8\\times 0.67\\times 0.3} {\\displaystyle ScaledDamage\\times 0.8\\times 0.67\\times 0.3}
 
-The [No Limits](Talents.md#no-limits) Talent increases the cap on [Bloodless Gem](Bloodless_Gem.md) healing from 15 to 30. Due to the reduced conversion rate of damage to healing, you will need a scaled damage of 157 to hit this healing cap.
+The [No Limits](Talents.md#no-limits) Talent increases the cap on [Bloodless Gem](Bloodless_Gem.md) healing from 15 to 30. Due to the reduced conversion rate of damage to healing, you will need a scaled damage of 187 to hit this healing cap.
 
 ## Trivia
 
 -   When equipped, even while its visibility is toggled off, the crown has swirling blood and the ascending circle effects.
 -   [Dying](Dye_Packet.md) it will only make the crown darker, not changing the color of its effects and itself.
--   Because Bloodless Gem healing is reduced, this equipment should only be used in fights against a large amount of enemies, and on builds that have a lot of extremely large AoE Mantras to hit multiple targets at once. Otherwise, this can be attributed to a net **loss** in your sustain, as your general Bloodless Gem healing will be moderately reduced.
-    -   For reference, it now takes 78.5 scaled damage to heal 15 health, as opposed to 63 scaled damage without this equipment.
+-   Because Bloodless Gem healing is reduced, this equipment should only be used in fights against a large amount of enemies, and on builds that have a lot of extremely large AoE Mantras to hit multiple targets at once. Otherwise, this can be attributed to a net **loss** in your sustain, as your general Bloodless Gem healing will be largely reduced.
+    -   For reference, it now takes 94 scaled damage to heal 15 health, as opposed to 63 scaled damage without this equipment.
 
 ## Navigation
 

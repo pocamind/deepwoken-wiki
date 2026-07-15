@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 219971
+revid: 220093
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4539,8 +4539,7 @@ Certain Talents are given when a specific Equipment or Outfit is worn. Multiple 
 -   Blood Convergence: [Regenerative Earrings](Regenerative_Earrings.md) & [Trueblood Earrings](Trueblood_Earrings.md) - Receive 10% more healing from all healing sources when you have [temp health](Status_Effects.md#temporary-health).
 
 -   Blood Necrosis: [The No-Life King's Crown](<The_No-Life_King's_Crown.md>) - Your [bloodless gems](Bloodless_Gem.md) heal 33% less than usual.
-    -   Despite its description, bloodless gems actually heal 16.5% less than usual,
-    -   You will now need a scaled damage of 78.5 (up from 63) to heal 15 health, and a scaled damage of 157 to reach 30 healing.
+    -   You will now need a scaled damage of 94 (up from 63) to heal 15 health, and a scaled damage of 187 to reach 30 healing.
 
 -   Blood Pact: [Regenerative Pendant](Regenerative_Pendant.md) & [Trueblood Pendant](Trueblood_Pendant.md) - Gain 50 bonus [temporary health](Status_Effects.md#temporary-health) whenever you knock/kill an enemy.
 

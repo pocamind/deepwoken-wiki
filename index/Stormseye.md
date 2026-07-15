@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 212734
+revid: 220086
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons of The Summer Company]
@@ -31,7 +31,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Rifles, "A
 | enchantable | No |
 | pass down | Yes |
 | obtainment | The Ferryman, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Fury Nautilodaunt, Fishing (Chest), First Layer, Lodestar, The Diluvian Mechanism, Weird Trader, Sold in Traan Zakshun's black market for 4 |
-| description | Pilfered from Union shipments, the Summer Company saw the tremendous energy stored within Kyrsan Medallions and fashioned this uniquely violent prototype. Rosen allegedly burst into raucous laughter when presented with the draft, immediately giving his approval. |
+| description | Pilfered from a returning Union expedition party, the Summer Company saw the tremendous energy stored within Kyrsan Medallions and fashioned this uniquely violent prototype. Rosen allegedly burst into raucous laughter when presented with the draft, immediately giving his approval. |
 
 ## Description
 
@@ -66,6 +66,7 @@ The critical has a cooldown of **10 seconds**.
     -   According to Arch\_Mage, NPCs were not coded to use rifles at the time, despite [Summer Dragoons](<Summer_Dragoon_(NPC).md>) existing.[\[2\]](#cite-note-2)
 -   Contributor HorrorTM uses this weapon as an offhand.
     -   Considering the nature that the average player cannot use rifles as an offhand, it is simply known that whatever twisted hubris's man has wrought may be belonging to Witchcraft.
+-   The previous description read :"Pilfered from Union shipments, the Summer Company saw the tremendous energy stored within Kyrsan Medallions and fashioned this uniquely violent prototype. Rosen allegedly burst into raucous laughter when presented with the draft, immediately giving his approval."
 
 ## References
 

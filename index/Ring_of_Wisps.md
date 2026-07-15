@@ -1,6 +1,6 @@
 ---
 title: Ring of Wisps
-revid: 215991
+revid: 220097
 source: https://deepwoken.fandom.com/wiki/Ring_of_Wisps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, The Divers]

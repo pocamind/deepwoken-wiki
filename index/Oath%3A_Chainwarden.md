@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 218396
+revid: 220083
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Central Authority]
@@ -285,3 +285,4 @@ Obtained after the first _Enchained_ [Hunted Player](Reputation.md#reputation-st
     -   "You dare show yourself before me? Not even groveling will change my mind about you, coward. You do not belong in a peaceful world." Prohibiting you from reobtaining the Oath.
 -   Previously left cestus removal carried over to [Anklets of Alsin](Anklets_of_Alsin.md), this however has been shadow patched.
 -   Restrain previously ignored Return to the Dark Ages, an old removed Talent.
+-   Notably, having Chainwarden locks the user from using the [Guiding Star](Guiding_Star.md).
