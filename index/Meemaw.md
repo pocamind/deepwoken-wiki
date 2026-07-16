@@ -1,6 +1,6 @@
 ---
 title: Meemaw
-revid: 220159
+revid: 220168
 source: https://deepwoken.fandom.com/wiki/Meemaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Individuals with She/her pronouns, Vow of Iron Exclusive, NPCs, Quests]
@@ -120,4 +120,4 @@ Meemaw is located at [Songseeker Wilds](Songseeker_Wilds.md), standing outside o
 
 ## Trivia
 
--   Meemaw is an affectionate term for one's grandmother. Given Lucien calls her "meemaw" with an uncapitalized "m", it's unclear if Meemaw is her really name or simply a title.
+-   Meemaw is an affectionate term for one's grandmother. Given Lucien calls her "meemaw" with an uncapitalized "m", it's unclear if Meemaw is really her name or simply a title.

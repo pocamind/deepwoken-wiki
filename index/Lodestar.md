@@ -1,6 +1,6 @@
 ---
 title: Lodestar
-revid: 219478
+revid: 220171
 source: https://deepwoken.fandom.com/wiki/Lodestar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Enemies with Oaths]
@@ -21,7 +21,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Lodestar is a humanoid enemy NPC, that can be found at [Summer Isle](Summer_Isle.md) and [Starswept Valley](The_Starswept_Valley.md) when taking the **Lodestar Bounty [Job](Job_Boards.md)**. Their Aspect is that of a Male Redwood [Gremor](Gremor.md). They drop their weapon, the [Guiding Star](Guiding_Star.md) and outfit, [Navaen War Chief](Navaen_War_Chief.md) upon death.
+The Lodestar is a humanoid enemy NPC, that can be found at [Summer Isle](Summer_Isle.md) and [Starswept Valley](The_Starswept_Valley.md) when taking the **Lodestar Bounty [Job](Job_Boards.md)**. Their Aspect is that of a Male Redwood [Gremor](Gremor.md). They drop their weapon, the [Guiding Star](Guiding_Star.md) and outfit, [Navaen War Chief](Navaen_War_Chief.md) upon death which will never happen as he is unkillable.
 
 Their outfit consists of a [Black Blindfold](Blindfold.md), and a [Navaen War Chief](Navaen_War_Chief.md) [Outfit](Outfits.md).
 
