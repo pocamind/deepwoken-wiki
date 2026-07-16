@@ -1,6 +1,6 @@
 ---
 title: Old Blood Earrings
-revid: 215326
+revid: 220314
 source: https://deepwoken.fandom.com/wiki/Old_Blood_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -21,7 +21,7 @@ categories: [Equipment, Ears]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Chaser, Scholar of the Burning Blood, First Layer, Second Layer, The Doom of Caeranthil, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Lodestar, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, War Mode, Sea Events |
+| obtainment | Chests from:, Chaser, Scholar of the Burning Blood, First Layer, Second Layer, The Doom of Caeranthil, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, War Mode, Sea Events |
 | description | ... |
 
 ## Description

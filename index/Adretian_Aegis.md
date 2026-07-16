@@ -1,6 +1,6 @@
 ---
 title: Adretian Aegis
-revid: 213568
+revid: 220289
 source: https://deepwoken.fandom.com/wiki/Adretian_Aegis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Pathfinder Exclusive, Weapons, The Central Authority, Shields, Offhand]
@@ -14,7 +14,7 @@ categories: [Authority Faction Item, Pathfinder Exclusive, Weapons, The Central 
 | requirements | 50 FTD, OR Authority Ensign |
 | faction | Authority |
 | max posture | 6.5 |
-| special effect | Your posture recovery from parrying is reduced by 40%. |
+| special effect | Shield - While one-handing: Your character's Posture is increased by the Shield's Max Posture Bonus stat, but Posture recovery through parrying is reduced by 40%., Chain of Command - The Adretian Aegis will change colors, depending on your current Authority Ensign Division. It will remain its default color - blue with gold highlights - if the player is not an Authority Ensign. |
 | offhand | Offhand only |
 | rarity | Uncommon |
 | selling price | 14 |
@@ -37,6 +37,8 @@ Adretian Aegis is a blue and gold mid-game shield that bears the emblem of [The 
 -   Inquisition = The blue becomes black
 -   Command = The gold edges of your shield become grey
 -   Shock Corps = The blue becomes red
+
+The **Max Posture Bonus** stat can be increased with **Weight** Quality Stars.
 
 ## Trivia
 

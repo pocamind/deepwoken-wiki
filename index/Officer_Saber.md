@@ -1,6 +1,6 @@
 ---
 title: Officer Saber
-revid: 209778
+revid: 220214
 source: https://deepwoken.fandom.com/wiki/Officer_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Weapons of The Central Authority, Alloyable Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -33,7 +33,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Weapons of The Central Auth
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Fort Merit, The Depths, Dread Serpent, Lodestar, Chime of Conflict, Fort Merit Armory for 60 (Authority Ensign exclusive), Saramaed HollowAlloyed, Alloying an Officer Saber, Fort Merit Armory for 170 (Authority Ensign exclusive), Moon's Eyrie, Duke Erisia, Lodestar, Maestro Evengarde Rest, Heart of Enmity |
+| obtainment | Fort Merit, The Depths, Dread Serpent, Chime of Conflict, Fort Merit Armory for 60 (Authority Ensign exclusive), Saramaed HollowAlloyed, Alloying an Officer Saber, Fort Merit Armory for 170 (Authority Ensign exclusive), Moon's Eyrie, Duke Erisia, Maestro Evengarde Rest, Heart of Enmity |
 | description | The characteristic saber of an Authority Officer. Typically used in Authority raids on disputed territories. |
 
 ## Description

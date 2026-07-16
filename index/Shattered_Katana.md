@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 212496
+revid: 220181
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals]
@@ -30,7 +30,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Uniqu
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Starswept Valley, The Depths, Duke Ishamon Erisia, Heart of Enmity, Interluminary Parasol, The Doom of Caeranthil, Aelita, Lodestar, The Ferryman (Winter), Rogue Construct, Fishing, Fort Merit, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Dread Serpent, Scion of Ethiron, Meteor Isle, Voidsea, War Mode, PrimadonVow of Iron:, Flashing Thunder Memento |
+| obtainment | Chests from:, Starswept Valley, The Depths, Duke Ishamon Erisia, Heart of Enmity, Interluminary Parasol, The Doom of Caeranthil, Aelita, The Ferryman (Winter), Rogue Construct, Fishing, Fort Merit, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Dread Serpent, Scion of Ethiron, Meteor Isle, Voidsea, War Mode, PrimadonVow of Iron:, Flashing Thunder Memento |
 | description | Fashioned after the legendary blade said to be wielded by the King of Etrea, the Splinterblade. An exceptionally lethal blade that makes short work of heavy armor. |
 
 ## Description

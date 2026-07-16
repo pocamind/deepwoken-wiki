@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 212384
+revid: 220227
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyable Weapons, Heavy Weapons, Weapons with Talents]
@@ -36,7 +36,7 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Greataxes, 
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Erisia, The Depths, Blacksteel Pirate, Chime of Conflict, Dread Serpent, Lodestar, Duke Ishamon Erisia, Saramaed Hollow, Fort Merit Armory for 60 (Authority Ensign exclusive)Alloyed:, Alloying a Halberd, Fort Merit Armory for 180 (Authority Ensign exclusive) |
+| obtainment | Erisia, The Depths, Blacksteel Pirate, Chime of Conflict, Dread Serpent, Duke Ishamon Erisia, Saramaed Hollow, Fort Merit Armory for 60 (Authority Ensign exclusive)Alloyed:, Alloying a Halberd, Fort Merit Armory for 180 (Authority Ensign exclusive) |
 | description | A standard issue halberd of the Authority, often seen in larger skirmishes. |
 
 ## Description
@@ -47,7 +47,7 @@ The Halberd is a Greataxe type weapon used by the Central Authority. The Halberd
 
 Equipping the Halberd grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Spinal Splinter** grants your Halberd critical +15 true damage if it hits your opponent's back. This is dealt as a separate instance of damage. This cannot be buffed and does not proc on [Spine Cutter](Talents.md#spine-cutter) hits.
+[**Spinal Splinter**](Talents.md#spinal-splinter) grants your Halberd critical +15 true damage if it hits your opponent's back. This is dealt as a separate instance of damage. This does not proc on [Spine Cutter](Talents.md#spine-cutter) hits.
 
 ## Critical
 

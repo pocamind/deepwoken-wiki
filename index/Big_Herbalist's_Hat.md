@@ -1,6 +1,6 @@
 ---
 title: "Big Herbalist's Hat"
-revid: 216923
+revid: 220240
 source: https://deepwoken.fandom.com/wiki/Big_Herbalist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Head, Hats, Equipment with Talent
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Aratel Island, Duke Erisia, Lodestar, Starswept Valley, Maestro Evengarde Rest, Dread Serpent |
+| obtainment | Aratel Island, Duke Erisia, Starswept Valley, Maestro Evengarde Rest, Dread Serpent |
 | description | ... |
 
 ## Description
@@ -33,6 +33,6 @@ The [Herbivore](Talents.md#herbivore) Talent provides increased nutrition from c
 
 ## Trivia
 
--   [Herbalist's Hat](<Herbalist's_Hat.md>) and Big Herbalist's Hat Hat are the only two equipment pieces in the game to keep a working version of their innate Talent after said Talent was removed. The Talent in question is Herbivore, which was removed on the [April 15th, 2025](Version_History/2025.md#april-15th-2025) update.
--   The [Herbalist's Hat](<Herbalist's_Hat.md>) and Big Herbalist's Hat are the same model, just differ in size.
+-   The [Herbivore](Talents.md#herbivore) Talent was removed from thr standard Talent pool on the [April 15th, 2025](Version_History/2025.md#april-15th-2025) update, but the [Herbalist's Hat](<Herbalist's_Hat.md>) and Big Herbalist's Hat kept a working version of the Talent.
+-   The [Herbalist's Hat](<Herbalist's_Hat.md>) and Big Herbalist's Hat share the same model, just differing in size.
 -   The Big Herbalist's Hat was notorious for being used by light users to hide their animations. Eventually, its appearance was changed to be more sloped, making it harder to do so.

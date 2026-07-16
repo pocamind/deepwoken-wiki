@@ -1,6 +1,6 @@
 ---
 title: "Tracker's Boots"
-revid: 218446
+revid: 220256
 source: https://deepwoken.fandom.com/wiki/Tracker's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -23,7 +23,7 @@ categories: [Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Erisia, Aratel Island, Maestro Evengarde Rest, Starswept Valley, Lodestar, Heart of Enmity, War Mode |
+| obtainment | Chests from:, Erisia, Aratel Island, Maestro Evengarde Rest, Starswept Valley, Heart of Enmity, War Mode |
 | description | ... |
 
 ## Description

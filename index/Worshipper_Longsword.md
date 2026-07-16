@@ -1,6 +1,6 @@
 ---
 title: Worshipper Longsword
-revid: 216956
+revid: 220192
 source: https://deepwoken.fandom.com/wiki/Worshipper_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Talents, The Covenant of Flame]
@@ -32,7 +32,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons wit
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests in: , Minityrsa, Deep Widow, Lodestar, Songseeker Wilds, Dread Serpent, Saramaed Hollow, Sold at Miner's Landing for 30 Vow of Iron:, Flame Worshipper Memento |
+| obtainment | Chests in: , Minityrsa, Deep Widow, Songseeker Wilds, Dread Serpent, Saramaed Hollow, Sold at Miner's Landing for 30 Vow of Iron:, Flame Worshipper Memento |
 | description | A blade forged by a notable Flamepriest, and dedicated to the forge it was reared from. |
 
 ## Description

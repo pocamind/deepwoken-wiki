@@ -1,6 +1,6 @@
 ---
 title: Authority Commander (Enemy)
-revid: 218050
+revid: 220208
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Central Authority Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -11,13 +11,13 @@ categories: [Enemies, Central Authority Enemies, Ambush Enemies, Enemies that ca
 | Authority Commander | |
 |---|---|
 | health | 5000 |
-| drops | Parka (Black), Shipping Schedule, Frigid Prism |
+| drops | Fur Parka, Shipping Schedule, Frigid Prism |
 | weapon | Adretian Axe, Officer Saber |
 | moves | Flame Repulsion, Fire Blade, Flame Assault, Strong Left |
 
 ## Description
 
-Authority Commanders are high-ranking members of The Central Authority. The rank of "Commander" fits them very well, they have the combat skills of an experienced player and a huge health pool, making them a true challenge. At least **ONE** Commander is located within the prison of [Fort Merit](Fort_Merit.md), in a room staring at some empty shelves. An Authority Commander can also be found in the [Etris: Siege](Cinders_of_Etris.md) event or can spawn along in an Ambush if you have low [reputation](Reputation.md) with [The Central Authority](The_Central_Authority.md).
+Authority Commanders are high-ranking members of The Central Authority. The rank of "Commander" fits them very well, they have the combat skills of an experienced player and a huge health pool, making them a true challenge. At least **ONE** Commander is located within the prison of [Fort Merit](Fort_Merit.md), in a room staring at some empty shelves. An Authority Commander can also be found in the [Cinders of Etris](Cinders_of_Etris.md) Disaster or can spawn along in an Ambush if you have low [reputation](Reputation.md) with [The Central Authority](The_Central_Authority.md).
 
 ## Moveset
 
@@ -157,7 +157,7 @@ Their arsenal is composed of either an [Adretian Axe](Adretian_Axe.md) or [Caval
 ### Passives
 
 -   Experienced Fighter - Can block and parry common attacks and mantras.
--   Mantra Modification - An Authority Commander's "Flame Repulsion" mantra is modified with either 3 [Cloudstones](Mantra_Modifiers.md) or 2 [Stratus Stones](Mantra_Modifiers.md).
+-   Mantra Modification - An Authority Commander's "Flame Repulsion" mantra is modified with either 3 [Cloudstones](Mantra_Modifiers.md#regular-modifiers) or 2 [Stratus Stones](Mantra_Modifiers.md#regular-modifiers).
 
 ### Talents
 
@@ -179,7 +179,7 @@ Their arsenal is composed of either an [Adretian Axe](Adretian_Axe.md) or [Caval
 
 -   They can be assassinated, if they happen to not look in your direction/or were not alerted consider doing the following and pile up some damage with powerful mantras.
 -   At almost any given time they'll try to use their mantras while performing an M1 combo.
--   Expect [Authority Peacekeepers](Authority_Peacekeeper.md) and other nearby Authority NPCS to interfere with your fight.
+-   Expect [Authority\_Peacekeepers](Authority_Peacekeeper.md) and other nearby Authority NPCS to interfere with your fight.
 -   You'll frequently get into a parry trade with the Commander, so feint to disrupt it.
 
 ## Trivia
@@ -187,4 +187,4 @@ Their arsenal is composed of either an [Adretian Axe](Adretian_Axe.md) or [Caval
 -   You used to be able to pickpocket the Authority Commander for the Jail Keys, but it required the Pickpocket Talent to do so.
 -   This was the only NPC you could pickpocket so far.
 -   You cannot talk with them. Previously, attempting to do so would pickpocket them instead.
--   They wear the [Authority Commander](Authority_Commander.md) Outfit, an [Authority Helm](Authority_Helm.md), and a [Black Shrouded Cape](https://deepwoken.fandom.com/wiki/Shrouded_Cape).
+-   They wear the [Authority Commander](Authority_Commander.md) Outfit, an [Authority Helm](Authority_Helm.md), and a black [Shrouded Cape](Shrouded_Cape.md).

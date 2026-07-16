@@ -1,6 +1,6 @@
 ---
 title: Autumn Pauldrons
-revid: 218432
+revid: 220304
 source: https://deepwoken.fandom.com/wiki/Autumn_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Pauldrons]
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Level 5 |
+| requirements | Power 5 |
 | weight | 2 |
 | innate stats | +2 Rare Pips |
 | innate talent | N/A |
@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, Erisia, Lodestar, Maestro Evengarde Rest, Dread Serpent |
+| obtainment | Chests from:, Aratel Island, Erisia, Maestro Evengarde Rest, Dread Serpent |
 | description | ... |
 
 ## Description

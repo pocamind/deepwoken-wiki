@@ -1,6 +1,6 @@
 ---
 title: Shotel
-revid: 213570
+revid: 220177
 source: https://deepwoken.fandom.com/wiki/Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Alloyable Weapons, Medium Weapons]
@@ -34,7 +34,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Alloyable Weapons, Medium W
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Songseeker Wilds, Minityrsa, First Layer, Lodestar, Dread Serpent, Saramaed HollowAlloyed:, Alloying a Shotel |
+| obtainment | Songseeker Wilds, Minityrsa, First Layer, Dread Serpent, Saramaed HollowAlloyed:, Alloying a Shotel |
 | description | A blade from Markor prized by warriors for its ability to effortlessly slip past the guards of foes. |
 
 ## Description

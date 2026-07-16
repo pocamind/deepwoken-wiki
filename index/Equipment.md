@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 220164
+revid: 220217
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
@@ -1448,7 +1448,7 @@ _+Talent: **[Berserker](Cut_Content.md#berserker)**_
 **Requires Power 8**
 
  | N/A |
-| File:Ether Refined Mantle.png | [Ether Refined Mantle](Ether_Refined_Mantle.md)  
+|  | [Ether Refined Mantle](Ether_Refined_Mantle.md)  
 (**Styles**)  
 (**Set**)  
 (**Unique**)  
@@ -1573,7 +1573,7 @@ _+1 Posture_
  | Set: Gladiator  
 Head: [Gladiator Helm](Gladiator_Helm.md)  
 Arms: [Gladiator Pauldrons](Gladiator_Pauldrons.md) |
-| File:Glassdancer Wraps1.png | [Glassdancer Wraps](Glassdancer_Wraps.md) | _+2 Health_  
+|  | [Glassdancer Wraps](Glassdancer_Wraps.md) | _+2 Health_  
 _+3 Posture_
 
 +1 Rare Pip  
@@ -1613,7 +1613,7 @@ _+Talent: [**Diver's Resilience**](Talents.md#divers-resilience)_
  | Set: Grand Fisher  
 Head: [Grand Fisher Helm](Grand_Fisher_Helm.md)  
 Arms: [Grand Fisher Plate](Grand_Fisher_Plate.md) |
-| File:Grand Pauldrons.png | [Grand Pauldrons](Grand_Pauldrons.md)  
+|  | [Grand Pauldrons](Grand_Pauldrons.md)  
 (**Styles**)  
 (**Set**) | _+1 Posture_
 
@@ -1813,7 +1813,7 @@ _+Talent: [**Kick Off**](Talents.md#kick-off)_
  | Set: Mercenary  
 Arms: [Mercenary's Garb](<Mercenary's_Garb.md>)  
 Legs: [Mercenary's Boots](<Mercenary's_Boots.md>) |
-| File:Smoke ministry cloak.PNG | [Ministry Cloak](Ministry_Cloak.md)  
+| File:Ministry Cloak Smoke.png | [Ministry Cloak](Ministry_Cloak.md)  
 (**Styles**)  
 (**Cloth Physics**) | _+5 Health_  
 _+10 Ether_
@@ -1959,7 +1959,7 @@ Arms: [Reinforced War Plate](Reinforced_War_Plate.md)
 Legs: [Reinforced War Boots](Reinforced_War_Boots.md)
 
  |
-| File:Faded Royal Duelist.png | [Royal Duelist](Royal_Duelist.md)  
+|  | [Royal Duelist](Royal_Duelist.md)  
 (**Styles**)  
 (**Cloth Physics**) | +2 Rare Pips
 
@@ -2048,7 +2048,7 @@ Variants:
 [Simple](#simple-pauldrons) & [Ossified Simple](#ossified-simple-pauldrons)
 
  |
-| File:Smithgloves.png | [Smith's Gloves](<Smith's_Gloves.md>)  
+|  | [Smith's Gloves](<Smith's_Gloves.md>)  
 (**Styles**)  
 (**Set**) | _+5 Health_
 

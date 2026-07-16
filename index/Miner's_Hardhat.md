@@ -1,6 +1,6 @@
 ---
 title: "Miner's Hardhat"
-revid: 219148
+revid: 220324
 source: https://deepwoken.fandom.com/wiki/Miner's_Hardhat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Hats, Helmets, Equipment with Talents, "Equipment with Non-exclusive Talents", Equipment with Exclusive Talents]

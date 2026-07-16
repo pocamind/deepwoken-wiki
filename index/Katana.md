@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 215070
+revid: 220187
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Alloyable Weapons, Medium Weapons, Weapons of Etrea]
@@ -32,22 +32,10 @@ categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Uniqu
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Minityrsa, Merchant Ships, The Depths, Pure Erisore turn-in, Moon's Eyrie, The Diluvian Mechanism, Lodestar, Songseeker Wilds, Sold in Traan Zakshun's regular shop for 300 , Crypt of the Unbroken, Chime of Conflict, Saramaed HollowAlloyed:, Alloying a Katana, Maestro Evengarde Rest, Lodestar |
+| obtainment | Minityrsa, Merchant Ships, The Depths, Pure Erisore turn-in, Moon's Eyrie, The Diluvian Mechanism, Songseeker Wilds, Sold in Traan Zakshun's regular shop for 300 , Crypt of the Unbroken, Chime of Conflict, Saramaed HollowAlloyed:, Alloying a Katana, Maestro Evengarde Rest |
 | description | An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map. |
 
-**
-
-Alloyed Katana
-
-**[
-
-Withered Phantomcleave
-
-](Withered_Phantomcleave.md)[
-
-Phantomcleave
-
-](Phantomcleave.md)
+Variants: [Withered Phantomcleave](Withered_Phantomcleave.md) · [Phantomcleave](Phantomcleave.md)
 
 ## Description
 

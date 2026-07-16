@@ -1,6 +1,6 @@
 ---
 title: Headband
-revid: 218931
+revid: 220234
 source: https://deepwoken.fandom.com/wiki/Headband
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Face, Bandanas]
@@ -22,7 +22,7 @@ categories: [Equipment with Styles, Equipment, Face, Bandanas]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Maestro Evengarde Rest, Saramaed Hollow, Aelita, Ferryman (Winter), Erisia, Dread Serpent, Heart of Enmity, Lodestar, Summer Isle, Aratel Island, War Mode, Authority Ensign Missions, The Doom of Caeranthil |
+| obtainment | Maestro Evengarde Rest, Saramaed Hollow, Aelita, Ferryman (Winter), Erisia, Dread Serpent, Heart of Enmity, Summer Isle, Aratel Island, War Mode, Authority Ensign Missions, The Doom of Caeranthil |
 | description | A stylish headband. Capable of hiding even the most dire of hairlines. |
 
 ## Description

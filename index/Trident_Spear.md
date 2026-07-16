@@ -1,6 +1,6 @@
 ---
 title: Trident Spear
-revid: 209788
+revid: 220189
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Spears, Weapons with Unique Criticals, Alloyable Weapons, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -33,7 +33,7 @@ categories: [Weapons, Criticals with M1 tag, Spears, Weapons with Unique Critica
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Depths, Minityrsa, Nyanna, Lodestar, Upper Erisia, Deep Widow, Miner's Landing, Chime of Conflict, Sold at The Floating Keep Blacksmith for 100 , Saramaed Hollow, Summer IsleAlloyed:, Alloying a Trident Spear |
+| obtainment | The Depths, Minityrsa, Nyanna, Upper Erisia, Deep Widow, Miner's Landing, Chime of Conflict, Sold at The Floating Keep Blacksmith for 100 , Saramaed Hollow, Summer IsleAlloyed:, Alloying a Trident Spear |
 | description | A surprisingly effective weapon despite its previous use by fishermen. |
 
 ## Description

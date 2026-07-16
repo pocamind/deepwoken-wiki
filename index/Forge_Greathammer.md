@@ -1,6 +1,6 @@
 ---
 title: Forge Greathammer
-revid: 212560
+revid: 220185
 source: https://deepwoken.fandom.com/wiki/Forge_Greathammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Greathammers, Weapons with Unique Criticals, Alloyable Weapons, Heavy Weapons]
@@ -31,7 +31,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Greathammers, Weapons 
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Summer Isle, Dread Serpent, First Layer, Saramaed Hollow, Lodestar, Deep Widow, Chime of Conflict, The Depths, Voidwalker bounty chestsAlloyed:, Alloying a Forge Greathammer |
+| obtainment | Summer Isle, Dread Serpent, First Layer, Saramaed Hollow, Deep Widow, Chime of Conflict, The Depths, BountiesAlloyed:, Alloying a Forge Greathammer |
 | description | It is said that blacksmiths always keep one of these handy should someone ever stiff them on the bill. |
 
 ## Description

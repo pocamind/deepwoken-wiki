@@ -1,6 +1,6 @@
 ---
 title: Sandrunner Wraps
-revid: 218827
+revid: 220315
 source: https://deepwoken.fandom.com/wiki/Sandrunner_Wraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Wraps, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Wraps, Equipment with Talents, "Equipment with Non
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Miner's Landing, Maestro Evengarde Rest, First Layer, War Mode, Interluminary Parasol, Lodestar, Saramaed Hollow |
+| obtainment | Chests from:, Miner's Landing, Maestro Evengarde Rest, First Layer, War Mode, Interluminary Parasol, Saramaed Hollow |
 | description | ... |
 
 ## Description

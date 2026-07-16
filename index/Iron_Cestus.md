@@ -1,6 +1,6 @@
 ---
 title: Iron Cestus
-revid: 214287
+revid: 220204
 source: https://deepwoken.fandom.com/wiki/Iron_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Fists, Light Weapons]
@@ -29,7 +29,7 @@ categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons,
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Erisia, Minityrsa, Songseeker Wilds, Summer Isle, First Layer, Lodestar, Crypt of the Unbroken, Chime of Conflict, Dread Serpent, Saramaed HollowVow of Iron:, Berserker Memento, Sightless Memento |
+| obtainment | Erisia, Minityrsa, Songseeker Wilds, Summer Isle, First Layer, Crypt of the Unbroken, Chime of Conflict, Dread Serpent, Saramaed HollowVow of Iron:, Berserker Memento, Sightless Memento |
 | description | ... |
 
 ## Description

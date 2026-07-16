@@ -1,6 +1,6 @@
 ---
 title: Vigil Hood
-revid: 210897
+revid: 220257
 source: https://deepwoken.fandom.com/wiki/Vigil_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hoods, Etrea]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Hoods, Etrea]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, First Layer, Starswept Valley, Duke Ishamon Erisia, Lodestar, Elder Primadon, The Titan Warlord, Heart of Enmity, Maestro Evengarde Rest |
+| obtainment | Chests from:, Aratel Island, First Layer, Starswept Valley, Duke Ishamon Erisia, Elder Primadon, The Titan Warlord, Heart of Enmity, Maestro Evengarde Rest |
 | description | ... |
 
 ## Description
@@ -30,5 +30,4 @@ The Vigil Hood is an [Equipment](Equipment.md) item under the "Head" category.
 
 ## Trivia
 
--   Although not the best for HP, this is one of the 3 best equipment headears for resistance stats. Alternatives include the [Deepwoken Hood](Deepwoken_Hood.md). Highest Potential Stats - Phys Armor: 14%, Elm Armor: 17% (w/ 10 health).
 -   Placing on this item while you have your headgear hidden via the equipment ui apply only the mouth cover without the hood.

@@ -1,6 +1,6 @@
 ---
 title: Brilliant Pauldrons
-revid: 218472
+revid: 220305
 source: https://deepwoken.fandom.com/wiki/Brilliant_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:, Duke Ishamon Erisia, Lodestar, First Layer, Songseeker Wilds, Chaser, Scholar of the Crimson Contract, The Diluvian Mechanism, War Mode, Heart of Enmity, Dread Serpent, Fishing |
+| obtainment | Chests From:, Duke Ishamon Erisia, First Layer, Songseeker Wilds, Chaser, Scholar of the Crimson Contract, The Diluvian Mechanism, War Mode, Heart of Enmity, Dread Serpent, Fishing |
 | description | ... |
 
 ## Description

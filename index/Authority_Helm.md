@@ -1,6 +1,6 @@
 ---
 title: Authority Helm
-revid: 215383
+revid: 220238
 source: https://deepwoken.fandom.com/wiki/Authority_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Equipment with Styles, Equipment, Head, Helmets, Drops, Equipment of The Central Authority, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -23,7 +23,7 @@ categories: [Authority Faction Item, Equipment with Styles, Equipment, Head, Hel
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, Duke Ishamon Erisia, Starswept Valley, Lodestar, Maestro Evengarde Rest, Chaser, Scholar of the Crimson Contract, War Mode, Primadon, Titan of the East, Elder Primadon, The Titan WarlordDrops from:, Authority Commanders, Authority Officers, Authority Peacekeepers |
+| obtainment | Chests from:, Aratel Island, Duke Ishamon Erisia, Starswept Valley, Maestro Evengarde Rest, Chaser, Scholar of the Crimson Contract, War Mode, Primadon, Titan of the East, Elder Primadon, The Titan WarlordDrops from:, Authority Commanders, Authority Officers, Authority Peacekeepers |
 | description | The standard-issue helmet of the Central Authority. The bearer's identity is stripped away, leaving only a faceless soldier in service of the world's salvation under the guiding hand of Sovereign Drallis Ehr, Overseer of Epochs. None have ever seen the true face of Lumen's Savior, and so too are his proxy's faces shrouded. Truly, the world is only illuminated by the will and grace of the Sovereign of Ages. Within this dark a blazing light. |
 
 ## Description

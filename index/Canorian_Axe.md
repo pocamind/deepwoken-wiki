@@ -1,6 +1,6 @@
 ---
 title: Canorian Axe
-revid: 209797
+revid: 220215
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Alloyable Weapons, Heavy Weapons]
@@ -35,7 +35,7 @@ categories: [Weapons, Greataxes, Alloyable Weapons, Heavy Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Lower Erisia, Minityrsa, Lodestar, Songseeker Wilds, The Monkey's Paw, Merchant Ships, Crypt of the Unbroken, Dread Serpent, Saramaed Hollow, Chime of ConflictAlloyed:, Alloying a Canorian Axe |
+| obtainment | Lower Erisia, Minityrsa, Songseeker Wilds, The Monkey's Paw, Merchant Ships, Crypt of the Unbroken, Dread Serpent, Saramaed Hollow, Chime of ConflictAlloyed:, Alloying a Canorian Axe |
 | description | An axe much like the ones once wielded by the Canor Swornfangs, loyal protectors of the early Adretian Empire. |
 
 ## Description
@@ -49,3 +49,4 @@ Canorian Axe uses the default Greataxe critical, an overhead swing. It has a sca
 ## Trivia
 
 -   The alloyed version barely has any visual differences; you would have to practically have your camera inside the weapon to see the alloyed texture.
+-   During the [January 18th, 2026](Version_History/2026.md#january-18th-2026) update, when all Heavy Weapons that did not previously have endlag had their endlag stat increased to 0.1s, the **base** Canorian Axe was the only [Pathfinder](Pathfinder.md)\-obtainable Heavy Weapon that was missed, making it the only Heavy Weapon that has no endlag.

@@ -1,6 +1,6 @@
 ---
 title: Scimitar
-revid: 212770
+revid: 220191
 source: https://deepwoken.fandom.com/wiki/Scimitar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
@@ -31,7 +31,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Erisia, Brainsucker, First Layer, Lodestar, Meteor Isle Blacksmith for 16 |
+| obtainment | Erisia, Brainsucker, First Layer, Meteor Isle Blacksmith for 16 |
 | description | A curved blade that hails from the savannah of Markor. Though now assimilated into the Central Authority, the people of Markor still celebrate a rich culture. |
 
 ## Description
@@ -46,4 +46,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   In the July 7th 2025 update, the Scimitar was remodeled.
+-   In the [July 7th, 2025](Version_History/2025.md#july-7th-2025) update, the Scimitar was remodeled.

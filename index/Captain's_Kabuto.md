@@ -1,6 +1,6 @@
 ---
 title: "Captain's Kabuto"
-revid: 216892
+revid: 220258
 source: https://deepwoken.fandom.com/wiki/Captain's_Kabuto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Head, Helmets]
@@ -22,12 +22,12 @@ categories: [Equipment with Styles, Equipment, Head, Helmets]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, First Layer, Duke Erisia, Lodestar, Maestro Evengarde Rest |
+| obtainment | Chests from:, First Layer, Duke Erisia, Maestro Evengarde Rest |
 | description | ... |
 
 ## Description
 
-The Captain's Kabuto is an Equipment Armor in the "Head" category.
+The Captain's Kabuto is an Equipment item in the "Head" category.
 
 ## Trivia
 

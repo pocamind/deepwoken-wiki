@@ -1,6 +1,6 @@
 ---
 title: Legate Helm
-revid: 218898
+revid: 220263
 source: https://deepwoken.fandom.com/wiki/Legate_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -20,7 +20,7 @@ categories: [Equipment, Head, Helmets]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, Deep Widow, Voidwalker Bounties, First Layer, LodestarFound from:, Artifact Turn-ins |
+| obtainment | Chests from:, Duke Erisia, Deep Widow, Bounties, First LayerFound from:, Artifact Turn-ins |
 | description | Survival is your strength. |
 
 ## Description

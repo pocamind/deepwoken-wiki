@@ -1,6 +1,6 @@
 ---
 title: Targe
-revid: 218357
+revid: 220284
 source: https://deepwoken.fandom.com/wiki/Targe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Offhand]
@@ -13,7 +13,7 @@ categories: [Weapons, Shields, Offhand]
 | type | Shield |
 | requirements | 10 FTD |
 | max posture | 4 |
-| special effect | While one-handing, posture recovery from parrying is reduced by 40%. |
+| special effect | Shield - While one-handing: Your character's Posture is increased by the Shield's Max Posture Bonus stat, but Posture recovery through parrying is reduced by 40%. |
 | offhand | Offhand only |
 | rarity | Common |
 | selling price | 7 |
@@ -27,6 +27,6 @@ categories: [Weapons, Shields, Offhand]
 
 ## Description
 
-A basic wooden shield.
+A basic wooden shield. It can be bought in the weaponry shop at [Etris](Etris.md) and is commonly dropped from the [Erisia](Erisia.md) lootpool.
 
-It can be bought in the weaponry shop at [Etris](Etris.md) and common from chests in [Erisia](Erisia.md).
+The **Max Posture Bonus** stat can be increased with **Weight** Quality Stars.

@@ -1,6 +1,6 @@
 ---
 title: Gourdguard
-revid: 218324
+revid: 220291
 source: https://deepwoken.fandom.com/wiki/Gourdguard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Event Item, Hallowtide, Offhand]
@@ -13,7 +13,7 @@ categories: [Weapons, Shields, Event Item, Hallowtide, Offhand]
 | type | Shield |
 | requirements | 50 FTD |
 | max posture | 7 |
-| special effect | While one-handing, posture recovery from parrying is reduced by 40%. |
+| special effect | Shield - While one-handing: Your character's Posture is increased by the Shield's Max Posture Bonus stat, but Posture recovery through parrying is reduced by 40%. |
 | offhand | Offhand only |
 | rarity | Legendary |
 | selling price | 50 |
@@ -28,6 +28,8 @@ categories: [Weapons, Shields, Event Item, Hallowtide, Offhand]
 ## Description
 
 Requiring 50 Fortitude to equip, this Jack o' Lantern-themed [shield](Weapons.md#offhands) grants the user 7 additional posture.
+
+The **Max Posture Bonus** stat can be increased with **Weight** Quality Stars.
 
 ## Trivia
 

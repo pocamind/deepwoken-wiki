@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 204987
+revid: 220182
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
@@ -32,7 +32,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals 
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | First Layer, The Diluvian Mechanism, Fishing, Maestro Evengarde Rest, Heart of Enmity, Ministry Agent, The Ferryman, Sea Events, Weird Trader, Lodestar, Sold in Traan Zakshun's black market for 4 |
+| obtainment | First Layer, The Diluvian Mechanism, Fishing, Maestro Evengarde Rest, Heart of Enmity, Ministry Agent, The Ferryman, Sea Events, Weird Trader, Sold in Traan Zakshun's black market for 4 |
 | description | A blade said to have been forged from the remains of the Last Dead, the last fortunate souls at the end of the Canticlysm to be spared the Drowning. |
 
 ## Description
@@ -42,7 +42,7 @@ The **Crypt Blade** is a Legendary [Greatsword](Weapons.md); a stocky bull-necke
 The Crypt Blade comes with 2 passive abilities:
 
 1.  **Last Dead's Boon** - M1 attacks drain 22.5 Ether from the target on hit.
-2.  **Shadow Affinity** - Non-Mantra specific Shadowcast Talents proc on your basic attacks (e.g if the user has [Sightless Still](Talents.md#sightless-still), their basic attacks will apply [Obscured](Status_Effects.md#obscured)). This includes [Twisted Puppets'](Talents.md#wraith-path-twisted-puppets) Shadow burn status effect.
+2.  **Shadow Affinity** - Non-Mantra specific Shadowcast Talents proc on your basic attacks (e.g if the user has [Sightless Still](Talents.md#sightless-still), their basic attacks will apply [Obscured](Status_Effects.md#obscured)). This includes [Twisted Puppets'](Talents.md#wraith-path-twisted-puppets) [Shadow Burn](Status_Effects.md#shadow-burn) status effect.
 
 ## Critical
 

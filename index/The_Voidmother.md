@@ -1,6 +1,6 @@
 ---
 title: The Voidmother
-revid: 203088
+revid: 220210
 source: https://deepwoken.fandom.com/wiki/The_Voidmother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Individuals with She/her pronouns, NPCs, The Knives of Eylis, NPCs located in the Voidheart]
@@ -321,7 +321,7 @@ The Voidmother views the player as naive, often referring to them as "dull knife
 
 ## Trivia
 
--   Eylis says she and the Voidmother have had a 'long time friendship'.
+-   Eylis says she and the Voidmother have had a 'long time friendship' and 'go way back'.
 
 ## References
 

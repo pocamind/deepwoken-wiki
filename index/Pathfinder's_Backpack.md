@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder's Backpack"
-revid: 218528
+revid: 220318
 source: https://deepwoken.fandom.com/wiki/Pathfinder's_Backpack
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Backpack, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -21,7 +21,7 @@ categories: [Equipment, Torso, Backpack, Equipment with Talents, "Equipment with
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Low-Tier Voidwalker Bounties, Lodestar, First Layer |
+| obtainment | Bounties, First Layer |
 | description | A backpack with plenty of room for all of the supplies a Pathfinder might need on their travels. |
 
 ## Description

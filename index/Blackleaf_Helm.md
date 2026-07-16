@@ -1,6 +1,6 @@
 ---
 title: Blackleaf Helm
-revid: 219402
+revid: 220246
 source: https://deepwoken.fandom.com/wiki/Blackleaf_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Equipment with Talents, "Equipment with Non-exclusive Talents"]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Helmets, Equipment with Talents, "Equipment with N
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, First Layer, Lodestar, Starswept Valley, Chime of Conflict, Maestro Evengarde Rest, Heart of Enmity, War Mode |
+| obtainment | Chests from:, Aratel Island, First Layer, Starswept Valley, Chime of Conflict, Maestro Evengarde Rest, Heart of Enmity, War Mode, Lodestar Bounty job, Gold Plate Turn-ins |
 | description | ... |
 
 ## Description

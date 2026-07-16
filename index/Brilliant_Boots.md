@@ -1,6 +1,6 @@
 ---
 title: Brilliant Boots
-revid: 218203
+revid: 220249
 source: https://deepwoken.fandom.com/wiki/Brilliant_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Legs, Boots]
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Erisia, Songseeker Wilds, Lodestar, Minityrsa, Maestro Evengarde Rest, Dread Serpent |
+| obtainment | Chests from:, Erisia, Songseeker Wilds, Minityrsa, Maestro Evengarde Rest, Dread Serpent |
 | description | ... |
 
 ## Description

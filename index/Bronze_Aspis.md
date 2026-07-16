@@ -1,6 +1,6 @@
 ---
 title: Bronze Aspis
-revid: 200204
+revid: 220283
 source: https://deepwoken.fandom.com/wiki/Bronze_Aspis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Shields, Offhand]
@@ -14,7 +14,7 @@ categories: [Authority Faction Item, Weapons, Shields, Offhand]
 | requirements | 15 FTD, OR Authority Ensign |
 | faction | Authority |
 | max posture | 4.2 |
-| special effect | Your posture recovery from parrying is reduced by 40%. |
+| special effect | Shield - While one-handing: Your character's Posture is increased by the Shield's Max Posture Bonus stat, but Posture recovery through parrying is reduced by 40%. |
 | offhand | Offhand only |
 | rarity | Uncommon |
 | selling price | 14 |
@@ -29,3 +29,5 @@ categories: [Authority Faction Item, Weapons, Shields, Offhand]
 ## Description
 
 Bronze Aspis is a [side weapon](Weapons.md) in the [Shields](Weapons.md#offhand) category. The requirement to wield it is 15 FTD, or the [Authority Ensign](Authority_Ensign.md) [Origin](Origins.md).
+
+The **Max Posture Bonus** stat can be increased with **Weight** Quality Stars.

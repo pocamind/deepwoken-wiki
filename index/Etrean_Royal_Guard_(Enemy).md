@@ -1,6 +1,6 @@
 ---
 title: Etrean Royal Guard (Enemy)
-revid: 216053
+revid: 220212
 source: https://deepwoken.fandom.com/wiki/Etrean_Royal_Guard_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Etrea Enemies]
@@ -161,6 +161,6 @@ This dialogue only appears if the player has started the "Forge of Sin" questlin
 
 -   The description of the [Royal Etrean Guard](Royal_Etrean_Guard.md) implies that the Royal Etrean Guard is the name of the group, and the Etrean Royal Guard is the name of the members of said group.
 -   They possess unquestioning loyalty to the Lord Regent. This is most likely done via a [Mental Veil](Lore.md) stronger than that placed by the Lord Regent over Etris. This is supported by the fact that the Palace Guards refer to the Lord Regent as "benevolent". This kind of praise is not expressed by any other NPCs in Etris.
--   If the player has the [Contractor Oath](Oath%253A_Contractor.md), they will say "Ah, the benevolent Lord Regent's associate has returned. Has he granted you a new task?"
+-   If the player has the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md), they will say "Ah, the benevolent Lord Regent's associate has returned. Has he granted you a new task?"
 -   You must rejoin after reaching the reputation threshold for the Guards to become passive. (Bug)
 -   They commonly drop Gale Stones and are a good way of farming them

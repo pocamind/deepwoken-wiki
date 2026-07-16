@@ -1,22 +1,21 @@
 ---
 title: Latchgrain
-revid: 220065
+revid: 220277
 source: https://deepwoken.fandom.com/wiki/Latchgrain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Ingredients, Harvestables]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Pathfinder Exclusive, Ingredients, Harvestables]
 ---
 
 # Latchgrain
 
 | Latchgrain | |
 |---|---|
-| value | 15 |
+| value | N/A |
 | weight | 1 |
-| stack | x99? |
+| stack | x99 |
 | type | Ingredient |
-| food type | ?? |
+| food type | Plant |
+| rarity | Common |
 | stomach | 2% |
 | water | 2% |
 | bankable | Yes |

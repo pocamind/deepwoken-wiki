@@ -1,6 +1,6 @@
 ---
 title: "Brigand's Cloak"
-revid: 217116
+revid: 220236
 source: https://deepwoken.fandom.com/wiki/Brigand's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Cloaks]
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Arms, Cloaks]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Merchant Ships, Duke Erisia, Primadon, Lodestar, Summer Isle, First Layer, Maestro Evengarde Rest, Dread Serpent |
+| obtainment | Merchant Ships, Duke Erisia, Primadon, Summer Isle, First Layer, Maestro Evengarde Rest, Dread Serpent |
 | description | ... |
 
 ## Description

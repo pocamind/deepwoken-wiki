@@ -1,6 +1,6 @@
 ---
 title: Squelcap
-revid: 219742
+revid: 220276
 source: https://deepwoken.fandom.com/wiki/Squelcap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Ingredients, Harvestables, Mushrooms]
@@ -16,7 +16,8 @@ notices:
 | weight | 1 |
 | stack | x99 |
 | type | Ingredient |
-| food type | ?? |
+| food type | ? |
+| rarity | Common |
 | stomach | 8% |
 | water | 8% |
 | bankable | Yes |

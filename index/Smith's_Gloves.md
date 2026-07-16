@@ -1,6 +1,6 @@
 ---
 title: "Smith's Gloves"
-revid: 219421
+revid: 220308
 source: https://deepwoken.fandom.com/wiki/Smith's_Gloves
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Gloves]
@@ -15,7 +15,7 @@ categories: [Equipment with Styles, Equipment, Arms, Gloves]
 | selling price | 25 |
 | requirements | Power 5 |
 | weight | 2 |
-| styles | Closed, Default |
+| styles | Default, Closed |
 | innate stats | +5 Health , +2 Rare Pips |
 | innate talent | N/A |
 | set | Smith's Bandana, Smith's Gloves, Smith's Goggles |
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Arms, Gloves]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Summer Isle, Duke Ishamon Erisia, Primadon, Titan of the East, First Layer, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Lodestar, Dread Serpent, Saramaed Hollow, The Doom of Caeranthil, Heart of Enmity, Sea Events |
+| obtainment | Chests from:, Summer Isle, Duke Ishamon Erisia, Primadon, Titan of the East, First Layer, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Dread Serpent, Saramaed Hollow, The Doom of Caeranthil, Heart of Enmity, Sea Events |
 | description | ... |
 
 ## Description

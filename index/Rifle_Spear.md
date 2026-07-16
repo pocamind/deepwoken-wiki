@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 211009
+revid: 220200
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Spears, Rifles, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
@@ -31,7 +31,7 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Spears, Rif
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starswept Valley, Deep Widow, Moon's Eyrie, Dread Serpent, Lodestar, Fishing, The Depths, Merchant Ships, Saramaed Hollow, Sold in Traan Zakshun's regular shop for 650 , Fort Merit Armory for 100 (Authority Ensign exclusive) |
+| obtainment | Starswept Valley, Deep Widow, Moon's Eyrie, Dread Serpent, Fishing, The Depths, Merchant Ships, Saramaed Hollow, Sold in Traan Zakshun's regular shop for 650 , Fort Merit Armory for 100 (Authority Ensign exclusive) |
 | description | A modification upon Gunsmith Rosen's designs produced by Gunsmith Hierka, the former protégé of Rosen. It's said that Hierka hid his orgins as a member of the Authority's Bureau of Research in order to steal the Summer Company's secrets. |
 
 ## Description

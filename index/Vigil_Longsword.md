@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 216459
+revid: 220180
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Alloyable Weapons, Weapons with Unique Criticals, Medium Weapons, Weapons with Talents, Weapons of Etrea]
@@ -32,7 +32,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Alloyable Weapons, Weapons 
 | droppable | Yes / No |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Minityrsa, Songseeker Wilds, Miner's Landing, Sold at The Floating Keep Blacksmith for 100 , Sold by Traan Zakshun for 300 , Lodestar, First Layer, Crypt of the Unbroken, Chime of Conflict, Voidwalker chestsVow of Iron:, Sold in Naan Zakshun's regular shop for 300 Alloyed:, Alloying a Vigil Longsword |
+| obtainment | Minityrsa, Songseeker Wilds, Miner's Landing, Sold at The Floating Keep Blacksmith for 100 , Sold by Traan Zakshun for 300 , First Layer, Crypt of the Unbroken, Chime of Conflict, Voidwalker chestsVow of Iron:, Sold in Naan Zakshun's regular shop for 300 Alloyed:, Alloying a Vigil Longsword |
 | description | Despite the popularity of the Katana, the Vigil Longsword represents Etrea's need for more cost-efficient production processes in blades. Regarded as an equally fine blade, nonetheless. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Flamekeeper Cestus
-revid: 214194
+revid: 220199
 source: https://deepwoken.fandom.com/wiki/Flamekeeper_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Fists, Light Weapons, The Covenant of Flame]
@@ -30,7 +30,7 @@ categories: ["Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons,
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Fort Merit, Songseeker Wilds, First Layer, Etris: Siege, Bounties, Lodestar, Starswept Valley, Merchant Ships, Chime of Conflict, Dread Serpent, Saramaed Hollow |
+| obtainment | Fort Merit, Songseeker Wilds, First Layer, Cinders of Etris, Bounties, Starswept Valley, Merchant Ships, Chime of Conflict, Dread Serpent, Saramaed Hollow |
 | description | ... |
 
 ## Description

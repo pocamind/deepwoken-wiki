@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 219546
+revid: 220267
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, "Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Greatswords, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyable Weapons, Heavy Weapons, Weapons with Talents]
@@ -24,7 +24,7 @@ categories: [Authority Faction Item, "Weapons with Multi-Hit Criticals", Critica
 | endlag | 0.1s |
 | penetration | 10% / 15% |
 | talent | Blade Scholar - Landing your fist critical attack switches your stance to that fist style. Retain the same swing speed and damage your Markor's Inheritor had. You gain more swingspeed the more Intelligence you have. |
-| special effect | Inherits the critical of your last used Fist Style. |
+| special effect | Inherits the critical of your last used Fist Style |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
@@ -35,7 +35,7 @@ categories: [Authority Faction Item, "Weapons with Multi-Hit Criticals", Critica
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Depths, Ministry Agent, Starswept Valley, Voidwalker Bounties, Lodestar, Deep Widow, Merchant Ships, Lost Diver (Direct drop), Chime of Conflict, Fort Merit Armory for 70 (Authority Ensign exclusive), Saramaed HollowAlloyed:, Alloying a Markor's Inheritor, Dread Serpent, Lodestar |
+| obtainment | The Depths, Ministry Agent, Starswept Valley, Bounties, Deep Widow, Merchant Ships, Lost Diver (Direct drop), Chime of Conflict, Fort Merit Armory for 70 (Authority Ensign exclusive), Saramaed HollowAlloyed:, Alloying a Markor's Inheritor, Dread Serpent |
 | description | The Blade Scholars of Markor, said to catalog the world itself, travel from land to land collecting information by force of their blades. Mastering the styles of combat from various stretches of the sea, they practice their art through the blade itself. |
 
 ## Description
@@ -46,7 +46,7 @@ Markor's Inheritor is a [Heavy Greatsword](Weapons.md) that requires 30 HVY and 
 
 Equipping the Markor's Inheritor grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-Upon landing your weapon critical, **Blade Scholar** procs, swapping your weapon to [Iron Cestus](Iron_Cestus.md)/[Anklets of Alsin](Anklets_of_Alsin.md) for 15 seconds.
+Upon landing your weapon critical, [**Blade Scholar**](Talents.md#blade-scholar) procs, swapping your weapon to [Iron Cestus](Iron_Cestus.md)/[Anklets of Alsin](Anklets_of_Alsin.md) for 15 seconds.
 
 While active, your base damage will bet set to 24, and scaling to 7 Heavy Weapons and 2 Intelligence. The increased scaling from [Alloyed Inheritor](<Markor's_Inheritor.md>) does **not** apply. Additionally, your swing speed will be set to 0.85x, but you will gain +0.002x swing speed for every point in [Intelligence](Attributes.md#int), capping at 1.05x swing speed at 100 Intelligence. All other stats will be the same as the Cestus. The stat changes are handled internally, and will not be displayed on your weapon tooltip.
 

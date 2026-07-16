@@ -1,6 +1,6 @@
 ---
 title: Morning Star
-revid: 215806
+revid: 220319
 source: https://deepwoken.fandom.com/wiki/Morning_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons, Weapons with Talents]
@@ -34,7 +34,7 @@ categories: [Weapons, Clubs, Medium Weapons, Weapons with Talents]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Crypt of the Unbroken, Starswept Valley, Deep Widow, Lodestar, Chime of Conflict, Dread Serpent, Saramaed Hollow, Voidwalker Bounties |
+| obtainment | Crypt of the Unbroken, Starswept Valley, Deep Widow, Chime of Conflict, Dread Serpent, Saramaed Hollow, Bounties |
 | description | ... |
 
 Variants: [Night Star](Night_Star.md)
@@ -47,7 +47,7 @@ The **Morning Star** is a blunt club type medium weapon. It can be considered th
 
 Equipping the Morning Star grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Extended Trauma** allows your weapon attacks to deal posture damage to non-blocking opponents. Your M1s deal 3 posture damage and your criticals deal 10. This cannot guardbreak, and does not benefit from posture damage modifiers.
+[**Extended Trauma**](Talents.md#extended-trauma) allows your weapon attacks to deal posture damage to non-blocking opponents. Your M1s deal 3 posture damage and your criticals deal 10. This cannot guardbreak, and does not benefit from posture damage modifiers.
 
 ## Critical
 

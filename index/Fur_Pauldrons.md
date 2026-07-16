@@ -1,6 +1,6 @@
 ---
 title: Fur Pauldrons
-revid: 215962
+revid: 220296
 source: https://deepwoken.fandom.com/wiki/Fur_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Erisia, Dread Serpent, Aratel Island, Lodestar, Starswept Valley, Maestro Evengarde Rest, War Mode, Authority Ensign |
+| obtainment | Chests from:, Erisia, Dread Serpent, Aratel Island, Starswept Valley, Maestro Evengarde Rest, War Mode, Authority Ensign |
 | description | ... |
 
 Variants: [Caster Fur Pauldrons](Caster_Fur_Pauldrons.md)

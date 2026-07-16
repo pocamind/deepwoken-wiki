@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Needle"
-revid: 202757
+revid: 220211
 source: https://deepwoken.fandom.com/wiki/Armorer's_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics]
@@ -19,7 +19,7 @@ categories: [Pathfinder Exclusive, Relics]
 | droppable | Yes, but not on death |
 | pass down | No |
 | desc | A needle imbued with Ironsing, capable of making precise adjustments to the characteristics of equipment. |
-| obtainment | Duke Erisia, Etris Siege, Fishing, Hell Mode, Hollow Forge, Lysander Spellhardt, Maestro Evengarde Rest, Voidwalker Chests, Heart of Enmity, Primadon, Diver Expedition Sea Event, Saramaed Hollow, Scion of Ethiron, The Diluvian Mechanism, The Doom of Caeranthil, The Ferryman, War Mode, World Events, Artifacts, Captain Solaire, Captain Marley, Titus Fulminus Destellus, Elder Primadon, The Titan Warlord, Sold in Traan Zakshun's black market for 1 |
+| obtainment | Duke Erisia, Cinders of Etris, Fishing, Hell Mode, Hollow Forge, Lysander Spellhardt, Maestro Evengarde Rest, Voidwalker Chests, Heart of Enmity, Primadon, Diver Expedition Sea Event, Saramaed Hollow, Scion of Ethiron, The Diluvian Mechanism, The Doom of Caeranthil, The Ferryman, War Mode, World Events, Artifacts, Captain Solaire, Captain Marley, Titus Fulminus Destellus, Elder Primadon, The Titan Warlord, Sold in Traan Zakshun's black market for 1 |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -39,9 +39,7 @@ It can also be crafted into a [Gilded Needle](Gilded_Needle.md) with 3 **Armorer
 
 ## Farming
 
-Currently known to drop from a wide variety of sources. But they can be obtained fairly consistently from [Duke Erisia](Duke_Ishamon_Erisia.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Primadon](Primadon,_Titan_of_the_East.md), [The Ferryman](The_Ferryman.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), [Hell Mode](Hell_Mode.md), [Saramaed Hollow](Saramaed_Hollow.md), [War Mode](War_Mode.md), [Heart of Enmity](Heart_of_Enmity.md), and [World Events](World_Events.md).
-
-They can also be found less consistently from completing [Voidwalker](Voidwalker.md) Bounties, completing the uncommon [Diver Expedition Sea Event](Random_Encounters.md), and [Fishing](Fishing.md).
+Currently known to drop from a wide variety of sources. Refer to the obtainment section in the infobox.
 
 If you are in dire need of many **Armorer's Needles**, the best and safest way to farm them by far is alternating between killing the [Interluminary Parasol](Interluminary_Parasol.md) and [The Ferryman](The_Ferryman.md). If you are quick or have a group to help, you can kill 2-3 Parasols across different servers before they escape. Once you have done that, you can head to Ferryman and farm him until the next Parasol event.
 

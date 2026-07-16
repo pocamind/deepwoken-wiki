@@ -1,6 +1,6 @@
 ---
 title: Kite Shield
-revid: 189734
+revid: 220282
 source: https://deepwoken.fandom.com/wiki/Kite_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Shields, Offhand]
@@ -14,7 +14,7 @@ categories: [Authority Faction Item, Weapons, Shields, Offhand]
 | requirements | 20 FTD, OR Authority Ensign |
 | faction | Authority |
 | max posture | 4.5 |
-| special effect | Your posture recovery from parrying is reduced by 40%. |
+| special effect | Shield - While one-handing: Your character's Posture is increased by the Shield's Max Posture Bonus stat, but Posture recovery through parrying is reduced by 40%. |
 | offhand | Offhand only |
 | rarity | Common |
 | selling price | 10 |
@@ -28,7 +28,9 @@ categories: [Authority Faction Item, Weapons, Shields, Offhand]
 
 ## Description
 
-A Kite Shield is a side weapon under the “Shield” category.
+A Kite Shield is an offhand weapon under the “Shield” category.
+
+The **Max Posture Bonus** stat can be increased with **Weight** Quality Stars.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Summer Rifle
-revid: 215713
+revid: 220316
 source: https://deepwoken.fandom.com/wiki/Summer_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, Medium Weapons, Weapons of The Summer Company]
@@ -28,7 +28,7 @@ categories: [Weapons, Rifles, Medium Weapons, Weapons of The Summer Company]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Chime of Conflict, The Depths, Bounty Hunting, Deep Widow, Fishing, Lodestar, Saramaed Hollow, Sea Events, Moon's Eyrie, Pure Erisore turn in |
+| obtainment | Chests from:, Chime of Conflict, The Depths, Bounty Hunting, Deep Widow, Fishing, Saramaed Hollow, Sea Events, Moon's Eyrie, Pure Erisore turn in |
 | description | A standard issue firearm produced by the Summer Company. A reliable firearm, though somewhat less elegant than their more expensive models. |
 
 Variants: [Winter Rifle](Winter_Rifle.md)
@@ -45,4 +45,3 @@ Summer Rifle uses the default Rifle critical, firing a projectile. It has a scal
 
 -   This item is a crafting component for the [Winter Rifle](Winter_Rifle.md).
 -   Damage wise, this weapon is an extremely close sidegrade to the [Iron Blunderbuss](Iron_Blunderbuss.md) at high investment.
--   Generally speaking, the fastest way to get this weapon is through The [Saramaed Hollow](Saramaed_Hollow.md).
