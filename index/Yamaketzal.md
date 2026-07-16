@@ -1,6 +1,6 @@
 ---
 title: Yamaketzal
-revid: 213771
+revid: 220123
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Voiced Characters]
@@ -152,18 +152,27 @@ Yamaketzal can be found standing right outside of the [Songseeker Temple](Songse
   <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
+  <td colspan="6">[Player has fought in Chime of Conflict]</td>
+  <td colspan="6">[Player has not fought in Chime of Conflict]</td>
+</tr>
+<tr>
   <td colspan="6">Hrmm... [Total Chime Matches Won] tourneys won out of [Total Chime Matches Fought] fought...</td>
+  <td colspan="6">Well?... What're y'waitin' for? Claim victory... Y'know it's within yer grasp...<br>
+  </td>
 </tr>
 <tr>
   <td colspan="2">(When W:L ratio is lower than 50%)</td>
   <td colspan="2">(When W:L ratio is between 50% and 80%)</td>
   <td colspan="2">(When W:L ratio is above 80%)</td>
+  <td colspan="6">Who are you?</td>
 </tr>
 <tr>
-  <td colspan="2">A cryin' shame...</td>
+  <td colspan="2">A cryin' shame...<br>
+  </td>
   <td colspan="2">Respectable... at the very least.<br>
   </td>
   <td colspan="2">Not bad... Not bad at all.</td>
+  <td colspan="6">[See first instance]</td>
 </tr>
 <tr>
   <td colspan="6">[End Dialogue]</td>

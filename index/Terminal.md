@@ -1,11 +1,11 @@
 ---
 title: Terminal
-revid: 211362
+revid: 220138
 source: https://deepwoken.fandom.com/wiki/Terminal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
+categories: [Stub pages without reason, StubPages, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Terminal

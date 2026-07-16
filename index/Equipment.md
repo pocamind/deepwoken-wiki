@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 219943
+revid: 220164
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, In progress with reason, InProgressPages, Equipment, In progress with VOI reason]
@@ -3417,9 +3417,9 @@ Face: [Necrotic Mask](Necrotic_Mask.md)
 
  |
 |  | [Nose Stud](Nose_Stud.md) | _+1 Health_ | N/A |
-| File:Rabel's Bandana.png | [Rebel's Bandana](<Rebel's_Bandana.md>) | +1 Uncommon Pip | N/A |
+|  | [Rebel's Bandana](<Rebel's_Bandana.md>) | +1 Uncommon Pip | N/A |
 |  | [Polarised Eyeglasses](Polarised_Eyeglasses.md) | +1 Common Pip | N/A |
-| File:Smith's Goggles1.png | [Smith's Goggles](<Smith's_Goggles.md>)  
+|  | [Smith's Goggles](<Smith's_Goggles.md>)  
 (**Set**) | +1 Common Pip | Set: Smith's  
 Head: [Smith's Bandana](<Smith's_Bandana.md>)  
 Arms: [Smith's Gloves](<Smith's_Gloves.md>)  
@@ -3581,7 +3581,7 @@ _+Talent: [**Sharpened Dagger**](Talents.md#sharpened-dagger)_
 [Pendant](#pendant-earrings) & [Ether Empowered](#ether-empowered-earrings) |
 |  | [Practicioner's Earrings](<Practicioner's_Earrings.md>) | +2 Rare Pips | Variants:  
 [Practicioner's](#practitioners-earrings) & [Ether Imbued](#ether-imbued-earrings) |
-| File:Regenerative Earrings.png | [Regenerative Earrings](Regenerative_Earrings.md)  
+|  | [Regenerative Earrings](Regenerative_Earrings.md)  
 (**Set**) | _+5 Ether_
 
 +1 Rare Pip  

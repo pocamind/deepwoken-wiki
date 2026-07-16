@@ -1,9 +1,9 @@
 ---
 title: Viridian Sanctuary Ruins
-revid: 206338
+revid: 220149
 source: https://deepwoken.fandom.com/wiki/Viridian_Sanctuary_Ruins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Locations, Clan Mofisu]
+categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Locations, Clan Mofisu, Territory of Etrean Royalists]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---

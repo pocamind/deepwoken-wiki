@@ -1,11 +1,9 @@
 ---
 title: Erland
-revid: 218311
+revid: 220133
 source: https://deepwoken.fandom.com/wiki/Erland
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
 ---
 
 # Erland

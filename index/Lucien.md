@@ -1,9 +1,9 @@
 ---
 title: Lucien
-revid: 220036
+revid: 220160
 source: https://deepwoken.fandom.com/wiki/Lucien
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests, Individuals with unspecified pronouns]
+categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests]
 ---
 
 # Lucien
@@ -12,6 +12,7 @@ categories: [Felinor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Easte
 |---|---|
 | name | Lucien |
 | aspect | Felinor |
+| pronouns | He/him |
 | location | Songseeker Wilds |
 | family | Meemaw (grandmother) |
 
@@ -23,15 +24,15 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Lucien is a [Felinor](Felinor.md) NPC. They are a miner working in the [Songseeker Wilds](Songseeker_Wilds.md).
+Lucien is a [Felinor](Felinor.md) NPC. He is a miner working in the [Songseeker Wilds](Songseeker_Wilds.md).
 
 Lucien teaches the player the recipe to crafting [Iron Bombs](Iron_Bomb.md) through the [Quest](Talent_Quests.md) "Mineskipper Mayhem".
 
-Their helmet is an heirloom from [Meemaw](Meemaw.md), who also survived Mineskippers with the same helmet.
+His helmet is an heirloom from [Meemaw](Meemaw.md), who also survived Mineskippers with the same helmet.
 
 ## Location
 
-Lucien is located at Songseeker Wilds, standing outside of the mineshaft.
+Lucien is located at Songseeker Wilds, sitting outside of the mineshaft.
 
 ## Dialogue
 

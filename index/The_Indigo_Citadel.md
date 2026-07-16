@@ -1,9 +1,9 @@
 ---
 title: The Indigo Citadel
-revid: 191143
+revid: 220150
 source: https://deepwoken.fandom.com/wiki/The_Indigo_Citadel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, Locations]
+categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, Locations, Territory of Etrean Royalists]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."

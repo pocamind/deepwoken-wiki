@@ -1,11 +1,11 @@
 ---
 title: Cheral
-revid: 197704
+revid: 220144
 source: https://deepwoken.fandom.com/wiki/Cheral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Gremor NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, Vendors, NPCs, NPCs located in the Etrean Luminant, The Children of Navae, Individuals with unspecified pronouns]
+categories: [Gremor NPCs, Pathfinder Exclusive, In progress with reason, InProgressPages, Vendors, NPCs, NPCs located in the Etrean Luminant, The Children of Navae, Individuals with unspecified pronouns]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
+  - This page is currently being worked on. Bugged dialogue that is pending to be added.
 ---
 
 # Cheral

@@ -1,11 +1,9 @@
 ---
 title: Topol
-revid: 218309
+revid: 220139
 source: https://deepwoken.fandom.com/wiki/Topol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
 ---
 
 # Topol

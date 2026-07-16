@@ -1,11 +1,11 @@
 ---
 title: The Forest of Lights
-revid: 201046
+revid: 220137
 source: https://deepwoken.fandom.com/wiki/The_Forest_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages]
+categories: [Stub pages without reason, StubPages]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # The Forest of Lights
@@ -16,12 +16,12 @@ Radiant nettle polyps sway in the currents, swathing the cliff's edge in their b
 
   
 
-The Forest of Lights is a location in _Deepwoken_. It is a region in the [First Layer](First_Layer.md) of [The Depths](The_Depths.md) and takes up a smaller part of the First Layer
+## Description
 
-## Overview
+The Forest of Lights is a Location in _Deepwoken_. It is a region in the [First Layer](First_Layer.md) of [The Depths](The_Depths.md) that encompasses the surrounding area in front of [Marauder's Entrance](<Marauder's_Entrance.md>).
 
-The area encompassing a part of [the Depths](The_Depths.md), located outside the [Marauder's Entrance](<Marauder's_Entrance.md>).
+## Points of Interest
 
-## Npcs
+### Corrupted Bell
 
-[??? (Coral Clump)](<%253F%253F%253F_(Coral_Clump).md>)
+A bell can be rung in the forest to increase the spawn rate of corrupted [Monsters](Monsters.md).

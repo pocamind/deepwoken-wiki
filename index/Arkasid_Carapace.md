@@ -1,11 +1,9 @@
 ---
 title: Arkasid Carapace
-revid: 208714
+revid: 220142
 source: https://deepwoken.fandom.com/wiki/Arkasid_Carapace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Items, Drops]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Items, Ingredients, Drops]
 ---
 
 # Arkasid Carapace
@@ -21,7 +19,7 @@ notices:
 | droppable | No |
 | pass down | No |
 | desc | A rigid fragment of an Arkasid's shell, when dried and hardened, becomes an exceptionally strong and versatile material. |
-| obtainment | Arkasid (direct drop) |
+| obtainment | Arkasid (Direct drop) |
 
 ## Description
 

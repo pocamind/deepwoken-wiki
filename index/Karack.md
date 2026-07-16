@@ -1,11 +1,9 @@
 ---
 title: Karack
-revid: 218307
+revid: 220140
 source: https://deepwoken.fandom.com/wiki/Karack
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Tiran NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Tiran NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
 ---
 
 # Karack

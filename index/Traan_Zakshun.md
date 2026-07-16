@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 219679
+revid: 220130
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -470,6 +470,7 @@ Sold Items
     -   "_Traan Zakshun has wares if you have coin- I mean... notes... yeah_" is a reference to Khajiits from _The Elder Scrolls V: Skyrim_, travelling merchants who, when interacted with, will say the line "Khajiit has wares if you have coin".
     -   "_You want it? It's yours, my friend! As long as you have enough crowns._" is a reference to Morshu from _Link: The Faces of Evil_.
     -   "_Colour makes us hungry - everything's connected!_" is a reference to the song _Redesign your Logo_ by Lemon Demon.
+    -   "_Got somethin' that might interest ya..._" is a reference to a line from the Merchant in _Resident Evil 4_.
 -   As stated by Traan himself and Nuttoons, the developer who made the character, Traan mugs freshies and bandits around Erisia for the wares that they sell in his regular shop rotation.[\[3\]](#cite-note-0-3) This draws similarity to the [Loot Bag Gacha](Loot_Bag_Gacha.md) NPCs, although unlike Traan, the loot bag gacha NPCs collect their goods off of corpses rather than getting his hands dirty himself.
 -   Traan's original appearance did not have a scar, nor green makeup.
 

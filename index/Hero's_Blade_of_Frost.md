@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Frost"
-revid: 207056
+revid: 220152
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Medium Weapons, "Weapons with Multi-Hit Criticals", Hero Blades]
@@ -32,7 +32,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Weapons wi
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing (during winter), Sold in Traan Zakshun's black market for 3 , Sold in Traan Zakshun's regular shop for 4,500 Vow of Iron:, Saint Jay Memento, Saintsworn Memento |
-| description | A blade said to be enruned with a passage of the song, it evokes the freezing oblivion of the cold wastes. |
+| description | A blade enruned with the words of a Hero, it evokes the freezing oblivion of the cold wastes. |
 
 ## Description
 
@@ -54,3 +54,4 @@ The critical has a cooldown of **10 seconds**.
     -   Faust understood the way of the world better than anyone else, as said in their respective [Saintsworn Obelisk](Saintsworn_Obelisks.md).
     -   Faust is based on a [German legendary character of the same name](https://en.wikipedia.org/wiki/Faust), who makes a deal with the Devil in exchange for unlimited knowledge.
 -   Once deciphered, the runes on the blade says, "I FAUST ONE PIECE OF A FIVE POINTED STAR GIVE MY COLDEST FROST TO THIS BLADE FIVE WE PLEDGE OUR SOUL LET WIELDER BLADE HEED OUR CALL BEAR THIS TORCH BEYOND OUR FALL".
+-   It's previous description read: "A blade said to be enruned with a passage of the song, it evokes the freezing oblivion of the cold wastes."

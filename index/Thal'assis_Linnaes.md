@@ -1,9 +1,9 @@
 ---
 title: "Thal'assis Linnaes"
-revid: 179046
+revid: 220162
 source: https://deepwoken.fandom.com/wiki/Thal'assis_Linnaes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, The Moonlit Faith]
+categories: ["Content not present in-game", Stub pages without reason, StubPages, The Moonlit Faith]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -16,6 +16,10 @@ notices:
 | alias | The Acolyte[1] |
 | aspect | Chrysid |
 | affiliation | The Moonlit Faith |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

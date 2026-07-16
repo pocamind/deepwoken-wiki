@@ -1,6 +1,6 @@
 ---
 title: Loading Screen
-revid: 213987
+revid: 220151
 source: https://deepwoken.fandom.com/wiki/Loading_Screen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -29,6 +29,7 @@ During the loading processes, the resources are rendered in so the player can in
 -   [Ironsing](Ironsing.md), the Attunement that enables control over metals, is an art once thought lost to the Tides. However, rumors from Miner's Landing speak of a genius Union researcher seeking to revive it...
 -   [Shadowcast](Shadowcast.md), the Attunement that enables control over shadows, is a taboo art often shunned as the magic of cultists. However, those willing to see past superstition may find willing mentors in secluded places...
 -   [Weather](Environmental_Hazards.md) can affect elemental damage. For example, [Lightning](Thundercall.md) is stronger in Rain, and [Frost](Frostdraw.md) is stronger in Snow.
+-   Wielding any [Mantras](Mantras.md) of an element grants you [Cantrips](Elemental_Cantrips.md) for that element. Cantrips are minor feats available to wielders of an element, such as lighting fires or purifying drinking water.
 
 #### Chime of Conflict
 
