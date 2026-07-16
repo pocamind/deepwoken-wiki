@@ -1,6 +1,6 @@
 ---
 title: Mark Adaset
-revid: 215766
+revid: 220099
 source: https://deepwoken.fandom.com/wiki/Mark_Adaset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Divers]
@@ -42,7 +42,7 @@ Mark Adaset is located on the second floor of [Castle Light](Castle_Light.md), n
   <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="8"><i>*The Adretian man before you speaks without meeting your gaze.*</i> Another one wandered in? What a pain...</td>
+  <td colspan="8"><i>*He speaks without meeting your gaze.*</i> Another one wandered in? What a pain...</td>
 </tr>
 <tr>
   <td colspan="2">Player is Deepbound Origin</td>
@@ -54,7 +54,7 @@ Mark Adaset is located on the second floor of [Castle Light](Castle_Light.md), n
 </tr>
 <tr>
   <td colspan="2"><i>*He smirks, and meets your gaze earnestly.*</i> A new recruit eh? Forgive my initial rudeness, I'm Mark Adaset, Castle Light's Quartermaster.</td>
-  <td colspan="6"><i>*He suddenly stares through you analytically,*</i> [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] Oh, it seems you speak. Forgive my initial rudeness, we get a lot of groaners wandering about looking for some pit to fall into.</td>
+  <td colspan="6"><i>*He suddenly stares through you analytically.*</i> Oh, it seems you speak. Forgive my initial rudeness, we get a lot of groaners wandering about looking for some pit to fall into.</td>
 </tr>
 <tr>
   <td colspan="2">[End Dialogue]</td>

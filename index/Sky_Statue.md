@@ -1,6 +1,6 @@
 ---
 title: Sky Statue
-revid: 191636
+revid: 220101
 source: https://deepwoken.fandom.com/wiki/Sky_Statue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant, Oath Trainer]
@@ -59,25 +59,31 @@ These dialogues are unlocked once the player meets the requirements for Bladehar
 <table>
 <tbody>
 <tr>
-  <td>Begin Dialogue</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
-  <td><i>*A statue of a person looking skyward stands before you.*</i></td>
+  <td colspan="2"><i>*A statue of a person looking skyward stands before you.*</i></td>
 </tr>
 <tr>
-  <td>[Inspect]</td>
+  <td colspan="2">[Inspect]</td>
 </tr>
 <tr>
-  <td><i>*The statue draws you in, and you feel your blade gently humming beside you.*</i></td>
+  <td colspan="2"><i>*The statue draws you in, and you feel your blade gently humming beside you.*</i></td>
 </tr>
 <tr>
-  <td>[Breathe in]</td>
+  <td colspan="2">[Breathe in]</td>
+</tr>
+<tr>
+  <td>[Player is not in combat]</td>
+  <td>[Player is in combat]</td>
 </tr>
 <tr>
   <td><i>*You breathe in. You breathe out. Breathing in once more, the world around you seems to fade away into the background...*</i></td>
+  <td><i>*Your breathing is much too ragged to focus.*</i></td>
 </tr>
 <tr>
   <td>[End Dialogue], player is teleported to <a href="The_Blade_Within.md">The Blade Within</a></td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

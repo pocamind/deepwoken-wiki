@@ -1,6 +1,6 @@
 ---
 title: Blazing
-revid: 218006
+revid: 220120
 source: https://deepwoken.fandom.com/wiki/Blazing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -24,7 +24,7 @@ Blazing's flame particle color changes depending on your [Flamecharm](Flamecharm
 
 ## Effect
 
-After landing enough weapon hits, Blazing applies [burn](Status_Effects.md#burn) to your opponent on all weapon attacks for the next 5 seconds.
+After landing enough weapon hits, Blazing applies [burn](Status_Effects.md#burn) to your opponent on all weapon attacks for the next 5 seconds. This has a 10 second cooldown.
 
 The hit count required to proc this enchantment varies based on your weapon type, requiring 3 hits for Light Weapons, 2 hits for Medium Weapons, and 1 hit for Heavy Weapons.
 

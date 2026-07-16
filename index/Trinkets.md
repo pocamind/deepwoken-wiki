@@ -1,6 +1,6 @@
 ---
 title: Trinkets
-revid: 198976
+revid: 220100
 source: https://deepwoken.fandom.com/wiki/Trinkets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Currency, Mechanics]
@@ -29,7 +29,7 @@ On death, all trinkets are stolen by your killer.
 
 ## Functions
 
-Upon speaking to an [Antiquarian](Antiquarian.md), it will convert all your Trinkets to [Notes](Notes.md) 1:1 automatically. Sales multiplier passives are applied on exchange, which makes them more effective than [Treasures](Treasures.md).
+Upon speaking to an [Antiquarian](Antiquarian.md) or [Blacksmith](Blacksmith.md), it will convert all your Trinkets to [Notes](Notes.md) 1:1 automatically. Sales multiplier passives are applied on exchange, which makes them more effective than [Treasures](Treasures.md).
 
 ## Trivia
 

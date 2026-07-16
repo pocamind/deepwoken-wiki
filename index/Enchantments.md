@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 219713
+revid: 220118
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Weapons, Equipment]
@@ -90,7 +90,7 @@ Astral Enchant Stone can be obtained from:
 
 -   Direct drop from [Star](Star_Knight.md) and [Moon Knights](Moon_Knight.md).
 -   [Moon's Eyrie](<Moon's_Eyrie.md>) chest.
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 15 or obtained through trading with the [Weird Trader](Weird_Trader.md).
+-   Sold in [Traan Zakshun](Traan_Zakshun.md)'s black market for 15 or obtained through trading with the [Weird Trader](Weird_Trader.md).
     
 
   
@@ -110,7 +110,7 @@ _Once enough stacks have been applied, for 5s your weapon attacks will ignite yo
 
 **Effect:**
 
-After landing enough basic attacks (LHT: 3, MED: 2, HVY: 1), every hit for 5 seconds will apply [Burn](Status_Effects.md#burn). Burn damage scales on Flamecharm investment.
+After landing enough basic attacks (LHT: 3, MED: 2, HVY: 1), every hit for 5 seconds will apply [Burn](Status_Effects.md#burn). 10 second cooldown. Burn damage scales on Flamecharm investment.
 
 Procs an Eruption instead if you have [Eruption Path](Talents.md#eruption-path-lava-serpent). Procs Puppet Burn instead, spawning Puppets if you have [Twisted Puppets Path](Talents.md#wraith-path-twisted-puppets).
 
@@ -166,7 +166,7 @@ Bluster is exclusively obtained from its [Enchant Stone](Enchant_Stone.md).
 Bluster Enchant Stone can be obtained from:
 
 -   Chest drop from [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
--   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 5.
+-   Sold in [Traan Zakshun](Traan_Zakshun.md)'s black market for 5.
     
 
   
@@ -186,7 +186,7 @@ _Chill for foes. Applies Bottom Freeze once enough stacks have been applied._
 
 **Effect:**
 
-M1s apply a second instance of Frostdraw damage that deals 4% of the scaled damage of attack that procced it. Additionally, apply Crystals on M1 if you have the Crystallization path.  
+M1s apply a second instance of Frostdraw damage that deals 4% of the scaled damage of attack that procced it. Additionally, apply [Crystals](Status_Effects.md#crystals) on M1 if you have the Crystallization path.  
 After hitting a target (LHT: 5, MED: 4, HVY: 3) times, apply [Bottom Freeze](Status_Effects.md#bottom-freeze) and [Chill](Status_Effects.md#chill) for 2 seconds. This also increases Chilling's secondary Frostdraw damage instance to 10% of your scaled damage, on that hit. 5 second cooldown.  
 If the target is a PvE enemy, additionally apply [Sluggish](Status_Effects.md#sluggish), reducing their damage to you for the duration of the slow.
 
@@ -232,7 +232,7 @@ _Weapon damage is increased by 7%, but becomes damage over time lasting for 2.5s
 
 **Effect:**
 
-Removes the raw impact damage of your weapon by applying a 0x damage modifier; instead, your weapon inflicts [Deferred](Status_Effects.md#deffered) on hit, dealing damage over time.  
+Removes the raw impact damage of your weapon by applying a 0x damage modifier; instead, your weapon inflicts [Deferred](Status_Effects.md#deferred) on hit, dealing damage over time.  
 Deferred deals 1.07x of your weapon's damage, over 2.5 seconds in 10% increments. Deferred's damage can be increased through damage modifiers.
 
 The Deferred status effect, and its damage over time, cannot be avoided once applied. Similarly to Viscostiy, Deferred's damage over time snapshots all of the relevant resistances and damage modifiers when the attack lands, meaning newly applied resistances/damage modifiers will not be considered and effects that run out will still have their bonuses applied.
@@ -531,7 +531,7 @@ When below 25% HP: gain +4% damage for every 5% HP below 25% HP. (20% more damag
 
 In PVE the damage buff is 0.25x the damage buff in PVP (4% - > 1%, 20% - > 5%)
 
-Landing weapon attacks will reflect certain status effects that are affecting you back onto your attacker. These status effects include: elemental [Status Effects](Status_Effects.md) (Burn, Chill, Suffocation, Winded, Shock, and Fear), [Antiheal](Status_Effects.md#anti-heal), and [Taunt](Attunement-less.md#taunt).
+Landing weapon attacks will reflect certain status effects that are affecting you back onto your attacker. These status effects include: elemental [Status Effects](Status_Effects.md) ([Burn](Status_Effects.md#burn), [Chill](Status_Effects.md#chill), [Suffocation](Status_Effects.md#suffocation), [Winded](Status_Effects.md#winded), [Shock](Status_Effects.md#shock), and [Fear the Dark](Status_Effects.md#fear-the-dark)), [Antiheal](Status_Effects.md#antiheal), and [Taunt](Status_Effects.md#taunt).
 
 Note: This does not clear the status effect from yourself. Additionally, the reflected status effects are applied as if they were your own (e.g. Burn scales on your Flamecharm investment, not your opponents).
 
@@ -574,7 +574,9 @@ _On critical hits, apply a slow that increases with each crit. At 5 stacks fully
 
 **Effect:**
 
-On critical hits, apply a slow that increases with each crit. At 5 stacks fully encase your opponent in ice.
+On critical hits, apply a slow that increases in potency with each subsequent critical landed. At 5 stacks, fully encase your opponent in ice.
+
+Similar to the [Frozen](Status_Effects.md#frozen) status effect, the ice can be escaped early by spamming F.
 
 **Obtainment:**
 
@@ -644,7 +646,7 @@ _Your critical attack is replaced with Nemesis. Basic attacks now mark your enem
 
 Your weapon critical changes to play the animation of the [Katana](Katana.md) critical. This does not have hitregistry unless a Nemesis Mark has been applied.
 
-On M1, a [Nemesis Mark](Status_Effects.md#nemesis-mark) is placed on the enemy for 15 seconds. Using your critical while the marker is present teleports you to the enemy, dealing 25 flat damage, or 18 posture damage if blocked. Nemesis' critical does not benefit from damage modifiers.
+On basic attack, a [Nemesis Mark](Status_Effects.md#nemesis-mark) is placed on the enemy for 15 seconds. Using your critical while the marker is present teleports you to the enemy, dealing 25 flat damage, or 18 posture damage if blocked. Nemesis' critical does not benefit from damage modifiers.
 
 If multiple enemies have the red eye marker, using your critical will teleport you to each sequentially, rapidly using the critical on each.
 
@@ -693,7 +695,7 @@ On weapon attack, steal Ether based on damage dealt. The damage dealt to Ether s
 
 Additionally, your weapon attacks can proc certain [Shadowcast](Shadowcast.md) Talents, such as Twisted Puppets' shadow burn or [Sightless Still](Talents.md#sightless-still).
 
-**This enchantment will do nothing if you have not completed [The Gaunt Man's](The_Gaunt_Man.md) trial on your character.**
+**This enchantment will do nothing if you have not completed [The Gaunt Man](The_Gaunt_Man.md)'s trial on your character.**
 
 **Obtainment:**
 
@@ -975,7 +977,7 @@ _Shock your foes on hit every 5s. Rain will upgrade this shock into a lightning 
 
 **Effect:**
 
-On weapon hit, Storm deals 16.5% of your weapon damage as a separate instance of Thundercall damage. This is doubled to 33% in an AoE if it is raining. On proc, this also applies [Shock](Status_Effects.md#shock) or 1 [Surge Rod](Thundercall.md#unstable-capacitor). This effect has a 5 second cooldown.
+On weapon hit, Storm deals 16.5% of your weapon damage as a separate instance of Thundercall damage. This is doubled to 33% in an AoE if it is raining. On proc, this also applies [Shock](Status_Effects.md#shock) or 1 [Surge Rod](Status_Effects.md#surge-rod). This effect has a 5 second cooldown.
 
 The damage this deals is based off your weapon's damage **after** resistances, and it cannot be enhanced with damage modifiers. Because Storm deals a percentage of your attack's damage after resistances, it can be **double resisted**.
 
@@ -1019,7 +1021,7 @@ _Your critical attack is replaced with Stormbreaker Hurl, allowing you to launch
 
 **Effect:**
 
-On M1, Stormbreaker deals 16.5% of your weapon damage as a separate instance of Thundercall damage. This is doubled to 33% in an AoE if it is raining. On proc, this also applies [Shock](Status_Effects.md#shock) or 1 [Surge Rod](Thundercall.md#unstable-capacitor). This effect has a 5 second cooldown.
+On M1, Stormbreaker deals 16.5% of your weapon damage as a separate instance of Thundercall damage. This is doubled to 33% in an AoE if it is raining. On proc, this also applies [Shock](Status_Effects.md#shock) or 1 [Surge Rod](Status_Effects.md#surge-rod). This effect has a 5 second cooldown.
 
 The damage this deals is based off your weapon's scaled damage, and it cannot be enhanced with damage modifiers.
 
@@ -1064,7 +1066,7 @@ _Landing a critical, uppercut, flourish, or offhand attack procs suffocation._
 
 **Effect:**
 
-On critical hit, uppercut, flourish, or offhand shot, apply suffocation for a short duration.
+On critical hit, uppercut, flourish, or offhand shot, apply [Suffocation](Status_Effects.md#suffocation) for a short duration.
 
 **Obtainment:**
 
@@ -1267,7 +1269,7 @@ _After landing enough stacks, proc winded on your opponent. The duration scales 
 
 **Effect:**
 
-After landing (LHT: 3, MED: 2, HVY: 1) M1s, apply [Winded](Status_Effects.md#winded) to your opponent, lowering their swingspeed. The duration of this Winded effect scales on your weapon stat investment.  
+After landing (LHT: 3, MED: 2, HVY: 1) M1s, apply [Winded](Status_Effects.md#winded) to your opponent, reducing their swingspeed by 10% while active. The duration of this Winded effect scales on your weapon stat investment.  
 This Enchant has a 5 second cooldown regardless of weapon investment, making it very weak on low invest.
 
 Windswept has a minimum of 0.5s duration and a maximum of 8 seconds, gaining 0.08s duration per weapon stat investment.  
@@ -1316,7 +1318,7 @@ Your weapon's base damage is reduced by 7.5%. For every Note you have, your weap
 
 Upon taking damage from a player, lose 100 Notes. Upon landing a weapon attack, your opponent will lose 50 Notes. Both of these effects are signified by a coin splash sound effect.
 
-**This enchantment will do nothing if you have not completed [The Gaunt Man's](The_Gaunt_Man.md) trial on your character.**
+**This enchantment will do nothing if you have not completed [The Gaunt Man](The_Gaunt_Man.md)'s trial on your character.**
 
 **Obtainment:**
 
@@ -1458,7 +1460,7 @@ _Grants passive regen and damages the sanity of your foes, but succumb to the in
 
 While held, gain increased passive health regen that scales on your weapon investment. This healing will lose effectiveness based on how much maximum health you have. Landing weapon attacks deals 2% of your opponent's maximum [Sanity](Insanity.md) as Sanity damage.
 
-Your healthbar is permanently stained while your weapon is equipped, making any death send you to [the Depths](The_Depths.md). Getting hit will extend the duration of your stained health bar by 60 seconds, remaining stained for a duration even if you swap weapons.
+Your health state will be changed to [Cursed](Status_Effects.md#cursed) while equipped, visually staining your health at and making any death send you to [the Depths](The_Depths.md). Getting hit will extend the duration of the health state by 60 seconds, remaining [Cursed](Status_Effects.md#cursed) for a duration even if you swap weapons.
 
 While your weapon is unsheathed in [the Depths](The_Depths.md), lose 2 [Sanity](Insanity.md) per second. Additionally, reaching 0 [Sanity](Insanity.md) while having a Curse of the No Life King weapon equipped will result in your head rupturing (instant death).
 
@@ -1551,11 +1553,11 @@ _Every enemy you slay while equipping this weapon will always be Drowned. Enemie
 
 **Effect:**
 
-On weapon attack, apply the [Void](Status_Effects.md#void) status effect. This effect has no visual indicator and lasts 30 seconds.
+On weapon attack, apply the [Curse of Void](Status_Effects.md#curse-of-void) status effect. This effect has no visual indicator and lasts 30 seconds.
 
 For the duration of the status effect, the target is under a 40% Anti-Heal effect. Additionally, if they die while affected by Void, they will drown and be sent to [The Depths](The_Depths.md).
 
-Your healthbar is permanently stained while the enchant is equipped, making all deaths send you to [the Depths](The_Depths.md). Getting hit will extend the duration of your stained health bar by 60 seconds, remaining stained for a duration even if you swap weapons.
+Your health state will be changed to [Cursed](Status_Effects.md#cursed) while equipped, visually staining your health at and making any death send you to [the Depths](The_Depths.md). Getting hit will extend the duration of the health state by 60 seconds, remaining [Cursed](Status_Effects.md#cursed) for a duration even if you swap weapons.
 
 In PvE, your weapon attacks apply [Ether Sunder](Status_Effects.md#ether-sunder) for 10 seconds, granting 30% elemental damage reduction against their attacks.
 
@@ -1584,7 +1586,7 @@ _Once enough stacks have been applied, the Fire of Life geminates. The explosion
 
 **Effect:**
 
-After hitting a target (LHT: 5, MED: 4, HVY: 3) times they explode, applying Flames of Life and Temporary Health to them and other nearby targets.
+After hitting a target (LHT: 5, MED: 4, HVY: 3) times they explode, applying [Flames of Life](Status_Effects.md#flames-of-life) and [Temporary Health](Status_Effects.md#temporary-health) to them and other nearby targets.
 
 The damage of explosion and amount of Temporary Health given are randomized.  
 **Damage:** 5.5-33 typeless damage. This cannot be buffed, and the explosions cannot execute.  
@@ -1601,7 +1603,7 @@ Curse of Ysley's Ember Enchant Stone can be obtained from:
 -   Chests from the following bosses, events, and locations: [Primadon](Primadon,_Titan_of_the_East.md), [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md), [Starswept Valley](The_Starswept_Valley.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), and [Fishing](Fishing.md).
 -   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 8.
 -   Directly dropped from [Hive](Hive_Construct.md) and [Rogue Constructs](Rogue_Construct.md).
--   Turning in an [Artifact](Artifacts.md) to bankers in the [Eastern Luminant](Maps.md).
+-   Turning in an [Artifact](Artifacts.md) to bankers in the [Eastern Luminant](Luminants.md).
     
 
   
@@ -1811,7 +1813,7 @@ Displacement [Enchant Grease](Enchant_Grease.md):
 
 [Enchant Drowned](Drowned.md)
 
-_Bolster the stats of your equipment, adding an additional +10 Health, +10 Ether, +5% Damage Vs. Monsters, and +5% Monster Armor. \***Only one drowned item can be equipped.**\*_
+_Bolster the stats of your equipment, adding an additional +10 Health, +10 Ether, +5% Damage Vs. Monsters, and +5% Monster Armor._
 
  | 
 
@@ -2299,7 +2301,7 @@ Unobtainable
 -   **[July 12th, 2024](Version_History/2024.md#july-12th-2024)** - The weapon enchant [Curse of Repulsion](Curse_of_Repulsion.md) was added.
 -   **[August 23rd, 2024](Version_History/2024.md#august-23rd-2024)** - Equipment enchantments can now be obtained via [Enchant Grease](Enchant_Grease.md) [Relic](Relics.md) through [Laplace](Laplace.md) or [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
 -   **[February 1st, 2025](Version_History/2025.md#february-1st-2025)** - The weapon enchant [Curse of Rhaemen's Ember](<Curse_of_Ysley's_Ember.md>) is added.
--   **[July 7th, 2025](Version_History/2025.md#july-7th-2025)** - The weapon enchants Void, [Parasol's Blight](<Parasol's_Blight.md>) and [Nightbringer](Nightbringer.md) were added, the equipment enchantment [Rain](<Rain_(enchantment).md>) was also added.
+-   **[July 7th, 2025](Version_History/2025.md#july-7th-2025)** - The weapon enchants [Void (Curse of Void)](Curse_of_Void.md), [Parasol's Blight](<Parasol's_Blight.md>) and [Nightbringer](Nightbringer.md) were added, the equipment enchantment [Rain](<Rain_(enchantment).md>) was also added.
 -   **[July 15th, 2025](Version_History/2025.md#july-15th-2025)** - The weapon enchant Void was renamed to [Curse of Void](Curse_of_Void.md).
 -   **[July 25th, 2025](Version_History/2025.md#july-25th-2025)** - The weapon enchants [Windswept](Windswept.md), [Curse of the Authoritative](Curse_of_the_Authoritative.md), and [Bluster](Bluster.md) were added
 -   **[August 4th, 2025](Version_History/2025.md#august-4th-2025)** - [Curse of Rhaemen's Ember](<Curse_of_Ysley's_Ember.md>) was renamed to [Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>)
