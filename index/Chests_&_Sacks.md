@@ -16,7 +16,7 @@ Chests are in-game boxes that spawn at the end of almost every [Event](Random_En
 
 Loot inside a chest is shown with different colors depending on their rarity, ranging from common to enchanted:
 
--   General items such as [Consumables](Food.md), [Gems](Gems.md), [Mantra Modifiers](Mantra_Modifiers.md), [Elemental Ingredients](Attunement.md), etc. are colored as dark green.
+-   General items such as [Consumables](Food.md), [Gems](Treasures.md), [Mantra Modifiers](Mantra_Modifiers.md), [Elemental Ingredients](Attunements.md), etc. are colored as dark green.
 -   Uncommon items are colored as pastel yellow.
 -   Rare items are colored as red. Though despite being rare, they're very common in The Depths and Hive
 -   Legendary Gear, [Schematics](Outfits.md) or [Equipment](Equipment.md) are colored as bright cyan.
@@ -28,11 +28,11 @@ Loot inside a chest is shown with different colors depending on their rarity, ra
 The color of a chest depends on where you got it from, consisting of four variations as of current version.
 
 -   A brown chest with silver metal parts, found commonly in the Etrean Luminant.
--   A gold chest with gold metal parts, found commonly in the East or from turning in [pure ores](Ore.md).
+-   A gold chest with gold metal parts, found commonly in the East or from turning in [pure ores](Ores.md).
 -   A cyan chest with green-white metal parts, found commonly in the [Depths](The_Depths.md)
     -   This chest, along with the gold chest, can also be found through [fishing](Fishing.md).
 -   A black chest with gold metal parts, found commonly after [bossfights](Bosses.md).
--   A big neon pink chest, found in [New Kyrsa](New_Kyrsa,_The_Sleeping_City.md).
+-   A big neon pink chest, found in [New Kyrsa](Second_Layer/New_Kyrsa.md).
 
 **Chest mimics** (more commonly known as **mimics** or **trick chests**) can spawn around the [Eastern Luminant](Luminants.md), and releasing beasts that were even thought to just stay around [the Depths](The_Depths.md). These include:
 
@@ -55,4 +55,4 @@ Similar to chests, loot inside the sack will appear in different colors dependin
 
 Mercille
 
-Carriable sacks (similar to the Summer Company's gunpowder boxes) can spawn around [Starswept Valley](Starswept_Valley.md). One can turn these into [Mercille](Mercille.md), in the Summer outpost nearby [Meteor Isle](Meteor_Isle.md), for a chest containing good tier loot.
+Carriable sacks (similar to the Summer Company's gunpowder boxes) can spawn around [Starswept Valley](The_Starswept_Valley.md). One can turn these into [Mercille](Mercille.md), in the Summer outpost nearby [Meteor Isle](Meteor_Isle.md), for a chest containing good tier loot.

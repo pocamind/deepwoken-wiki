@@ -26,19 +26,19 @@ categories: [Outfits, Unique Outfits, World Event, Outfits with Talents, "Outfit
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Stormchanter's Raiments** is a Unique [Outfit](Outfit.md) in _Deepwoken_.
+**Stormchanter's Raiments** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 1,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), five (5) [Spark Glands](Spark_Gland.md), five (5) [Vibrant Gems](Vibrant_Gem.md), eight (8) [Iron](Iron.md), one (1) [Insignia Gem](Insignia_Gem.md) to craft.
+This Outfit costs 1,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), five (5) [Spark Glands](Spark_Gland.md), five (5) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers), eight (8) [Iron](Ores.md#iron), one (1) [Insignia Gem](Insignia_Gem.md) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 and to have at least 45 [Thundercall](Thundercall.md) to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 2500 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunement.md), +25% Lightning resistance [ResistanceThundercall](Thundercall.md), and +75% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Kickstart](Talents.md#kickstart) and [Circuit](Talents.md#circuit) Talents.
+This Outfit has 2500 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Lightning resistance [ResistanceThundercall](Thundercall.md), and +75% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Kickstart](Talents.md#kickstart) and [Circuit](Talents.md#circuit) Talents.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistanceBlunt ResistanceSlash, 47.5% Thundercall [ResistanceThundercall](Thundercall.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md).
 

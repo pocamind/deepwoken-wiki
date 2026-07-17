@@ -25,13 +25,13 @@ categories: [Outfits, Unique Outfits, Outfits of The Central Authority, Outfits 
 | weight | N/A |
 | shirt | Shirt • Pants (Default), Shirt • Pants (Capeless) |
 
-**Inquisition Light** is a Unique [Outfit](Outfit.md) in _Deepwoken_.
+**Inquisition Light** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), three (3) [Wayward Gems](Wayward_Gem.md), three (3) [Void Feathers](Void_Feather.md), and five (5) [Vibrant Gems](Vibrant_Gem.md) to craft.
+This Outfit requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), three (3) [Wayward Gems](Wayward_Gem.md), three (3) [Void Feathers](Dark_Feather.md#void-feather), and five (5) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
 
@@ -39,11 +39,11 @@ This Outfit will be automatically equipped upon joining the Inquisition Division
 
 ### _Armor Stats_
 
-This Outfit has 3500 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +35% Elemental resistance [ResistanceElemental](Attunement.md), +10% Shadow resistance [ResistanceShadowcast](Shadowcast.md), +10% Ironsing resistance [ResistanceIronsing](Ironsing.md), +10% Blood resistance [ResistanceBloodrend](Bloodrend.md), +15% Ether Regen [IconEther](Ether.md), and +50% [Stealth](Stealth.md) [IconStealth](Stealth.md). Additionally, it provides the [Lethal Dose](Talents.md#lethal-dose) Talent.
+This Outfit has 3500 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +35% Elemental resistance [ResistanceElemental](Attunements.md), +10% Shadow resistance [ResistanceShadowcast](Shadowcast.md), +10% Ironsing resistance [ResistanceIronsing](Ironsing.md), +10% Blood resistance [ResistanceBloodrend](Bloodrend.md), +15% Ether Regen [IconEther](Ether.md), and +50% [Stealth](Stealth.md) [IconStealth](Stealth.md). Additionally, it provides the [Lethal Dose](Talents.md#lethal-dose) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 41.5% Shadowcast [ResistanceShadowcast](Shadowcast.md), 41.5% Ironsing [ResistanceIronsing](Ironsing.md), 41.5% Bloodrend [ResistanceBloodrend](Bloodrend.md), and 35% Elemental [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceThundercall](Thundercall.md).
 
-The [Lethal Dose](Talents.md#lethal-dose) Talent doubles the duration of the Poison status effect from your [Hidden Blade](Hidden_Blade.md).
+The [Lethal Dose](Talents.md#lethal-dose) Talent doubles the duration of the Poison status effect from your [Hidden Blade](Authority_Ensign.md#hidden-blade).
 
 ## Trivia
 

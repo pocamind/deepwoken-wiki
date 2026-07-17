@@ -33,7 +33,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 
 | **No.** | **Title** | **Length** | **Location** | **File** |
 | --- | --- | --- | --- | --- |
-| 1 | [To Sleep, Dreaming (Contour 1)](https://soundcloud.com/naktigonis/to-sleep-dreaming) | 1:40 | [Celestial Telescope](Celestial_Telescope.md) viewing [Constellia](Constellia.md), using a [Moonseye Tome](Moonseye_Tome.md), and [Pathfinder](Pathfinder.md) Title Screen |  |
+| 1 | [To Sleep, Dreaming (Contour 1)](https://soundcloud.com/naktigonis/to-sleep-dreaming) | 1:40 | [Celestial Telescope](Greathive_Aratel.md#observatory-2) viewing [Constellia](Constellia.md), using a [Moonseye Tome](Moonseye_Tome.md), and [Pathfinder](Pathfinder.md) Title Screen |  |
 | 2 | [To Sleep, Dreaming (Contour 2)](https://soundcloud.com/naktigonis/to-sleep-dreaming-2) | 1:40 | Pathfinder Title Screen loading into a Luminant or The Depths |  |
 | 3 | [To Sleep, Dreaming (Contour 3)](https://soundcloud.com/naktigonis/to-sleep-dreaming-3) | 1:41 | Pathfinder Title Screen loading into a Luminant or The Depths |  |
 | 4 | [To Sleep, Dreaming (Contour 4)](https://soundcloud.com/naktigonis/to-sleep-dreaming-4) | 1:45 | Pathfinder Title Screen when Power 20 |  |
@@ -55,7 +55,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 20 | [In Starstruck Sands](https://soundcloud.com/naktigonis/in-starstruck-sands) | 2:38 | [The Starswept Valley](The_Starswept_Valley.md) and [Bluster Rift](Bluster_Rift.md) |  |
 | 21 | [Pyres Of Glass](https://soundcloud.com/naktigonis/pyres-of-glass) | 2:32 | [The Starswept Valley](The_Starswept_Valley.md) and [Bluster Rift](Bluster_Rift.md) (Combat) |  |
 | 22 | [Of Chitin, Kith And Kin](https://soundcloud.com/naktigonis/of-chitin-kith-and-kin) | 2:25 | [Greathive Aratel](Greathive_Aratel.md) |  |
-| 23 | [A Symphony Of Strife](https://soundcloud.com/naktigonis/a-symphony-of-strife) | 2:21 | [Greathive Approach](Greathive_Approach.md) (Combat), [Greathive Aratel](Greathive_Aratel.md) (Combat), [Primadon's Hunting Grounds](<Primadon's_Hunting_Grounds.md>), and [Ruins of Leiuna](Ruins_of_Leiuna.md) |  |
+| 23 | [A Symphony Of Strife](https://soundcloud.com/naktigonis/a-symphony-of-strife) | 2:21 | [Greathive Approach](Greathive_Approach.md) (Combat), [Greathive Aratel](Greathive_Aratel.md) (Combat), [Primadon's Hunting Grounds](<The_Monkey's_Paw.md>), and [Ruins of Leiuna](Ruins_of_Leiuna.md) |  |
 | 24 | [What Mends Shall Fray](https://soundcloud.com/naktigonis/what-mends-shall-fray) | 2:30 | [Trial of One](Trial_of_One.md) and [Voidsea](Voidsea.md) |  |
 | 25 | [A Sarabande Of Thunder](https://soundcloud.com/naktigonis/a-sarabande-of-thunder) | 2:08 | [The Ferryman](The_Ferryman.md) (Phase 1) |  |
 | 26 | [Dance, If You Can!](https://soundcloud.com/naktigonis/dance-if-you-can) | 2:03 | [The Ferryman](The_Ferryman.md) (Phase 2) |  |
@@ -76,15 +76,15 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | --- | --- | --- | --- | --- |
 | 1 | [The Games Of War](https://soundcloud.com/naktigonis/the-games-of-war) | 2:48 | [Chime of Conflict](Chime_of_Conflict.md) |  |
 | 2 | [Catwhisker](https://soundcloud.com/naktigonis/catwhisker) | 1:43 | [Aelita](Aelita.md) |  |
-| 3 | [Sin-Smelted Scoriae](https://soundcloud.com/naktigonis/sin-smelted-scoriae) | 4:09 | [Duke Erisia](Duke_Erisia.md) |  |
+| 3 | [Sin-Smelted Scoriae](https://soundcloud.com/naktigonis/sin-smelted-scoriae) | 4:09 | [Duke Erisia](Duke_Ishamon_Erisia.md) |  |
 | 4 | [And Let Slip The Hounds Of War](https://soundcloud.com/naktigonis/and-let-slip-the-hounds-of-war) | 3:05 | [Cinders of Etris](Cinders_of_Etris.md) Disaster, [Etris (Vow of Iron)](<Etris_(Vow_of_Iron).md>), Etris Docks (Vow of Iron), and Etrean Wilds (Vow of Iron) |  |
-| 5 | [The Killing Wind](https://soundcloud.com/naktigonis/the-killing-wind) | 2:46 | [The Ethironal Shrine](The_Ethironal_Shrine.md) |  |
+| 5 | [The Killing Wind](https://soundcloud.com/naktigonis/the-killing-wind) | 2:46 | [The Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md) |  |
 | 6 | [A Scoundrel's Reverie](https://soundcloud.com/naktigonis/a-scoundrels-reverie) | 3:24 | [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) (Tutorial) |  |
 | 7 | [A Light In The Sky](https://soundcloud.com/naktigonis/a-light-in-the-sky) | 3:10 | [The Floating Keep](The_Floating_Keep.md) |  |
 | 8 | [INSOMNIA](https://soundcloud.com/naktigonis/insomnia) | 3:31 | [Second Layer](Second_Layer.md) (Combat) |  |
 | 9 | [The Storm That Speaks](https://soundcloud.com/naktigonis/the-storm-that-speaks) | 3:02 | [Second Layer](Second_Layer.md) |  |
 | 10 | [Whisperwind](https://soundcloud.com/naktigonis/whisperwind) | 3:03 | [Firfire](Firfire.md) |  |
-| 11 | [Kyrie](https://soundcloud.com/naktigonis/kyrie) | 3:18 | [New Kyrsa, The Sleeping City](New_Kyrsa,_The_Sleeping_City.md) |  |
+| 11 | [Kyrie](https://soundcloud.com/naktigonis/kyrie) | 3:18 | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) |  |
 | 12 | [Blood And Thunder](https://soundcloud.com/naktigonis/blood-and-thunder) | 3:12 | [Battle Royale](Battle_Royale.md) |  |
 | 13 | [A Darkness Beneath](https://soundcloud.com/naktigonis/a-darkness-beneath) | 3:07 | [The Floating Keep](The_Floating_Keep.md) (Combat) and [Widow's Wail Cemetery](<Widow's_Wail_Cemetery.md>) (Combat) |  |
 | 14 | [A Memory Of Tides (Band Version)](https://soundcloud.com/naktigonis/a-memory-of-tides-band-version) | 2:24 | [Instruments](Instruments.md) |  |
@@ -97,11 +97,11 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 21 | [Blackdamp Ballad](https://soundcloud.com/naktigonis/blackdamp-ballad) | 5:32 | [Saramaed Hollow](Saramaed_Hollow.md) (Group) |  |
 | 22 | [Blackdamp Ballad (Lonesome Version)](https://soundcloud.com/naktigonis/blackdamp-ballad-lonesome-version) | 5:32 | [Saramaed Hollow](Saramaed_Hollow.md) (Solo) |  |
 | 23 | [A Light In The Sky (Band Version)](https://soundcloud.com/naktigonis/a-light-in-the-sky-band-version) | 3:05 | [Instruments](Instruments.md) |  |
-| 24 | [Joyous Hallows To All!](https://soundcloud.com/naktigonis/joyous-hallows-to-all) | 3:07 | [Hallowtide](Hallowtide.md) 2024 [Title Screen](Title_Screen.md) |  |
+| 24 | [Joyous Hallows To All!](https://soundcloud.com/naktigonis/joyous-hallows-to-all) | 3:07 | [Hallowtide](Hallowtide.md) 2024 [Title Screen](Loading_Screen.md) |  |
 | 25 | [Bigtop Breakbeat](https://soundcloud.com/naktigonis/bigtop-breakbeat) | 3:21 | [Carnival of Hearts](Carnival_of_Hearts.md) (Intermission) |  |
 | 26 | [A Carousel Of Hearts](https://soundcloud.com/naktigonis/a-carousel-of-hearts) | 2:59 | [Carnival of Hearts](Carnival_of_Hearts.md) (Minigame) |  |
 | 27 | [ELEISON](https://soundcloud.com/naktigonis/eleison) | 6:00 | [Scion of Ethiron](Scion_of_Ethiron.md) |  |
-| 28 | [11:59](https://soundcloud.com/naktigonis/1159a) | 3:20 | [New Kyrsa, The Sleeping City](New_Kyrsa,_The_Sleeping_City.md) (Escape sequence) |  |
+| 28 | [11:59](https://soundcloud.com/naktigonis/1159a) | 3:20 | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) (Escape sequence) |  |
 | 29 | [The Better Part Of Valour](https://soundcloud.com/naktigonis/the-better-part-of-valour) | 3:33 | [Merit Detainment Core](Merit_Detainment_Core.md) |  |
 | 30 | [Chainbreaker](https://soundcloud.com/naktigonis/chainbreaker) | 2:21 | [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) |  |
 
@@ -116,13 +116,13 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 5 | [Hymn Of Iron (Contour 4)](https://soundcloud.com/naktigonis/hymn-of-iron-4) | 2:24 | [The Cerebral Spire](The_Cerebral_Spire.md) and [Vow of Iron](Vow_of_Iron.md) Title Screen ([True Heart of Enmity](True_Heart_of_Enmity.md) defeated) |  |
 | 6 | [Hymn Of The Worthy](https://soundcloud.com/naktigonis/hymn-of-the-worthy) | 2:27 | [Shrine of the Worthy](Shrine_of_the_Worthy.md) |  |
 | 7 | [It Tolls For Thee](https://soundcloud.com/naktigonis/it-tolls-for-thee) | 2:35 | [Knell, The Lunatic Resonator](Knell,_The_Lunatic_Resonator.md) |  |
-| TBA | Synthetic Deicide[\[1\]](#cite-note-naktimessage-1) | TBA | [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Burning_Blood.md) (Death sequence) | TBA |
+| TBA | Synthetic Deicide[\[1\]](#cite-note-naktimessage-1) | TBA | [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) (Death sequence) | TBA |
 | TBA | Bread And Roses[\[1\]](#cite-note-naktimessage-1)[\[2\]](#cite-note-naktimessage2-2) | TBA | [Miner's Landing](<Miner's_Landing.md>) | TBA |
 | TBA | Class Struggle[\[1\]](#cite-note-naktimessage-1) | TBA | [Miner's Landing](<Miner's_Landing.md>) (Combat) | TBA |
 | TBA | The Hammer's Call[\[2\]](#cite-note-naktimessage2-2) | TBA | TBA | TBA |
-| TBA | _Katabasis_[\[2\]](#cite-note-naktimessage2-2) | TBA | [New Kyrsa, The Sleeping City](New_Kyrsa,_The_Sleeping_City.md) (Combat) | TBA |
+| TBA | _Katabasis_[\[2\]](#cite-note-naktimessage2-2) | TBA | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) (Combat) | TBA |
 | TBA | The Prince Peripatetic[\[1\]](#cite-note-naktimessage-1)[\[2\]](#cite-note-naktimessage2-2) | TBA | [The Sunken Railways](The_Sunken_Railways.md)
-[The Great Library of New Kyrsa](New_Kyrsa,_The_Sleeping_City.md)
+[The Great Library of New Kyrsa](Second_Layer/New_Kyrsa.md)
 
  | TBA |
 | TBA | _Untitled Conquest Lobby Theme[\[1\]](#cite-note-naktimessage-1)_ | TBA | TBA | TBA |
@@ -157,7 +157,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | **No.** | **Title** | **Length** | **Location** | **File** |
 | --- | --- | --- | --- | --- |
 | N/A | [Ash For The Altar](https://soundcloud.com/naktigonis/ash-for-the-altar) | 0:56 | Flamecharm Showcase Theme |  |
-| N/A | [To Sleep, Layer 2 Bell](https://www.youtube.com/watch?v=OccD-F1UNvE) | 1:45 | [April Fools 2023](April_Fools_2023.md) [Title Screen](Title_Screen.md) |  |
+| N/A | [To Sleep, Layer 2 Bell](https://www.youtube.com/watch?v=OccD-F1UNvE) | 1:45 | [April Fools 2023](Destroyman_III.md) [Title Screen](Loading_Screen.md) |  |
 
 ## Trivia
 

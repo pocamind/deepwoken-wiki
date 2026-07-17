@@ -20,7 +20,7 @@ notices:
 
 ## Description
 
-Curse of Zariffs Absorption is a cut content [enchantment](Enchantment.md) that stole your opponent's enchantment on hit.
+Curse of Zariffs Absorption is a cut content [enchantment](Enchantments.md) that stole your opponent's enchantment on hit.
 
 ## Effect
 

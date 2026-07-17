@@ -18,7 +18,7 @@ A forbidden store of Old World texts once deemed to be too dangerous for common 
 
   
 
-**The Condemned Archives** is a [location](Locations.md) in _Deepwoken_. It is one of the unique and randomly selected arenas exclusive to the 1v1 [Chime of Conflict](Chime_of_Conflict.md) gamemode.
+**The Condemned Archives** is a location in _Deepwoken_. It is one of the unique and randomly selected arenas exclusive to the 1v1 [Chime of Conflict](Chime_of_Conflict.md) gamemode.
 
 ## Description
 

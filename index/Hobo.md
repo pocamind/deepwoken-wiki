@@ -137,7 +137,7 @@ A Hobo executes it's opponent after knocking them:
 ## Trivia
 
 -   Hobos can spawn in such a way that one of their chests is inside a wall.
--   The Hobo seems to be someone who escaped from The Depths or from [The Duke](Duke_Erisia.md), and has lost their mind since.
+-   The Hobo seems to be someone who escaped from The Depths or from [The Duke](Duke_Ishamon_Erisia.md), and has lost their mind since.
     -   This can be supported by the fact that when gripping them, they laugh like a madman.
     -   It could be suggested that the Hobo is "wealthy" due to him stealing from The Duke.
 -   All factions appear to have it out for them, as they all try to attack them.

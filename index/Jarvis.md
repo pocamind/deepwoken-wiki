@@ -23,7 +23,7 @@ This content is not accessible outside of this gamemode.
 
 Jarvis is an [Etrean](Etrean.md) NPC who is able to smelt two pieces of equipment into one.
 
-His main use is to [Smelt](Smelting.md) two pieces of equipment for 1000 Notes; the first keeping its attributes, the second being its overall appearance.
+His main use is to [Smelt](Transmogrification.md) two pieces of equipment for 1000 Notes; the first keeping its attributes, the second being its overall appearance.
 
 -   The first item you hold out to them will always be the one you keep the stats of, and the second will be the one you keep the appearance of.
 -   This will _not combine_ stats, only replaces them, with the item you want to keep the appearance of losing its stats completely and gaining the other item's stats.
@@ -51,5 +51,5 @@ This dialogue only appears if the player has a [Magenta Pathfinder Elite](Pathfi
 
 ## Trivia
 
--   Another NPC known as the Artisan can be hired in a [Guild Base](Guild_Base.md). They will function the same way as Jarvis does, albeit they only cost 800 to smelt equipment, therefore being cheaper.
+-   Another NPC known as the Artisan can be hired in a [Guild Base](Guild_Bases.md). They will function the same way as Jarvis does, albeit they only cost 800 to smelt equipment, therefore being cheaper.
 -   To retrieve an item back after changing your mind, end his dialogue and select the option asking to return it.

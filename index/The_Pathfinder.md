@@ -17,4 +17,4 @@ The Pathfinder is the protagonist of _[Deepwoken](<Deepwoken_(game).md>)'s_ [Pat
 
 ## Trivia
 
--   Technically, the Pathfinder cant wield certain legendary weapons, as they are already wielded by certain [NPCs](NPCs.md) in-game.
+-   Technically, the Pathfinder cant wield certain legendary weapons, as they are already wielded by certain NPCs in-game.

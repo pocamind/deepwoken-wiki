@@ -25,7 +25,7 @@ Like a curtain drawing on a stage, the veil retreats. No more lies, no more pret
 
 ## Overview
 
-The Throne of Lies is the [location](Locations.md) where [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) is fought.
+The Throne of Lies is the location where [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) is fought.
 
 It appears to be some sort of large imaginary or illusionary room made by Zi'eer, featuring [Etrea](Etrea.md)'s traditional eastern-inspired structures, with Zi'eer himself in the middle.
 

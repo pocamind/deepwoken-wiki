@@ -36,7 +36,7 @@ categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animati
 
 ## Description
 
-The Skyreap Blade is a [Heavy Weapon](Weapons.md) in the [Greataxe](Greataxe.md) category. It has unique M1 animations alongside the unique grip effect exclusive to the Hallowtide weapons. It has a unique execute sound effect that resembles taco bell.
+The Skyreap Blade is a [Heavy Weapon](Weapons.md) in the [Greataxe](Greataxes.md) category. It has unique M1 animations alongside the unique grip effect exclusive to the Hallowtide weapons. It has a unique execute sound effect that resembles taco bell.
 
 ## Critical
 
@@ -52,5 +52,5 @@ This critical will end early if any hit is parried or if the first hit whiffs en
 
 ## Trivia
 
--   Skyreap Blade is the first [Hallowtide](<Hallowtide_(Event).md>) '22 weapon to get a unique critical, with it's critical releasing over two years after the weapon's initial release.
+-   Skyreap Blade is the first [Hallowtide](Hallowtide.md) '22 weapon to get a unique critical, with it's critical releasing over two years after the weapon's initial release.
 -   Skyreap Blade was previously the only weapon that had a unique running attack animation until the [Imperial Staff](Imperial_Staff.md) was added.

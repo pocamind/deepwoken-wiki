@@ -20,7 +20,7 @@ notices:
 
 ## Description
 
-Unstable is an **unobtainable** RNG-based [enchantment](Enchantment.md) that can proc random enchantments.
+Unstable is an **unobtainable** RNG-based [enchantment](Enchantments.md) that can proc random enchantments.
 
 ## Effect
 

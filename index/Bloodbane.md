@@ -50,7 +50,7 @@ Equipping the Bloodbane grants its unique [weapon Talent](Talents.md#weapon-tale
 
 **Blood Drinker** provides benefits to your weapon's basic attacks.
 
-On M1, restore 4% of your maximum health per target hit. This also procs on [Silentheart](Silentheart.md) abilities.
+On M1, restore 4% of your maximum health per target hit. This also procs on [Silentheart](Oath%253A_Silentheart.md) abilities.
 
 On critical, apply a Damage over Time status effect that deals 8 damage per tick 5 times for a maximum of 40 damage. If you are knocked during the lifespan of this effect, or hit by the critical while being knocked, you will be autogripped. This effect can be applied through dodge; parrying this attack is the only way to avoid this. This effect can only proc once per crit.
 

@@ -19,9 +19,9 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oath.md): Oathless** is one of the 17 obtainable Oaths in _Deepwoken._ It is a rather varied Oath, given that its purpose is to extend the capabilities of what would be considered a Pathfinder. Together with [Linkstrider](Linkstrider.md), [Fadetrimmer](Fadetrimmer.md), [Dawnwalker](Dawnwalker.md), and [Contractor](Contractor.md), it is one of 5 Oaths that have no direct stat requirements.
+**[Oath](Oaths.md): Oathless** is one of the 17 obtainable Oaths in _Deepwoken._ It is a rather varied Oath, given that its purpose is to extend the capabilities of what would be considered a Pathfinder. Together with [Linkstrider](Oath%253A_Linkstrider.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), [Dawnwalker](Oath%253A_Dawnwalker.md), and [Contractor](Oath%253A_Contractor.md), it is one of 5 Oaths that have no direct stat requirements.
 
-Despite its oxymoronic nature, this still counts as an Oath. So other Oaths like [Linkstrider](Linkstrider.md) or [Contractor](Contractor.md) that has their progression tied to killing Oath users can progress by killing people with this Oath, along with other Oaths.
+Despite its oxymoronic nature, this still counts as an Oath. So other Oaths like [Linkstrider](Oath%253A_Linkstrider.md) or [Contractor](Oath%253A_Contractor.md) that has their progression tied to killing Oath users can progress by killing people with this Oath, along with other Oaths.
 
 ## Obtainment
 
@@ -29,7 +29,7 @@ To start the Oathless quest, head to the docks at [Miner's Landing](<Miner's_Lan
 
 If you have obtained Oathless, you may speak to [Cerulean](Cerulean.md) again to permanently unlock it. This skips the quest on all of your characters/slots, even if that character/slot was created before you permanently unlocked Oathless. _\[Note that obtaining Oathless via any method requires 10 minutes of playtime on that character.\]_
 
-_Oathless **can** be reobtained if you [Oathbreak](Oathbreak.md) it._
+_Oathless **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it._
 
 Aforementioned log tunnel
 
@@ -60,10 +60,10 @@ As for its appearance, **nothing** is added to your outfit, making it impossible
     -   This does not work on every Oath ability, as not all of them deal Oath damage in general.
     -   Due to this being "**armor**" instead of "**resistance**", PEN will affect it and it will be tied to your armor value, being deactivated if your armor is broken.
     -   Oath attacks with multiple damage types will effectively bypass your Oath armor because the game will take your highest applicable armor resistance and apply that for damage calculation.
-        -   For example, if you have under 20% or no Physical resistance but you have 20% Oath resistance, you will resist 20% of, say, [Bladeharper](Bladeharper.md) attacks that deal Slash + Oath damage. But if you have 50% Physical resistance and 20% Oath resistance, you will resist 50% of the damage from Bladeharper attacks, making your Oath resistance seem nonexistent.
-        -   List of Oaths and Oath abilities that deal **pure** Oath damage type: [Blindseer](Blindseer.md), [Contractor](Contractor.md), [Chainwarden](Chainwarden.md), [Dawnwalker](Dawnwalker.md), [Fadetrimmer](Fadetrimmer.md), [Jetstriker](Jetstriker.md), [Oathless](Oathless.md) (Soul Beam), [Silentheart](Silentheart.md), [Starkindred](Starkindred.md) (All except Death From Above talent), [Soulbreaker](Soulbreaker.md) (Ardour Slicer only).
-        -   For the list of Oaths and Oath abilities that **don't** deal pure Oath damage type: [Arcwarder](Arcwarder.md), [Bladeharper](Bladeharper.md), [Blightsurger](Blightsurger.md), [Saintsworn](Saintsworn.md), [Soulbreaker](Soulbreaker.md) (All except Ardour Slicer).
-        -   For the list of Oaths and Oath abilities that **don't deal damage at all**: [Saltchemist](Saltchemist.md), [Visionshaper](Visionshaper.md).
+        -   For example, if you have under 20% or no Physical resistance but you have 20% Oath resistance, you will resist 20% of, say, [Bladeharper](Oath%253A_Bladeharper.md) attacks that deal Slash + Oath damage. But if you have 50% Physical resistance and 20% Oath resistance, you will resist 50% of the damage from Bladeharper attacks, making your Oath resistance seem nonexistent.
+        -   List of Oaths and Oath abilities that deal **pure** Oath damage type: [Blindseer](Oath%253A_Blindseer.md), [Contractor](Oath%253A_Contractor.md), [Chainwarden](Oath%253A_Chainwarden.md), [Dawnwalker](Oath%253A_Dawnwalker.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), [Jetstriker](Oath%253A_Jetstriker.md), [Oathless](Oath%253A_Oathless.md) (Soul Beam), [Silentheart](Oath%253A_Silentheart.md), [Starkindred](Oath%253A_Starkindred.md) (All except Death From Above talent), [Soulbreaker](Oath%253A_Soulbreaker.md) (Ardour Slicer only).
+        -   For the list of Oaths and Oath abilities that **don't** deal pure Oath damage type: [Arcwarder](Oath%253A_Arcwarder.md), [Bladeharper](Oath%253A_Bladeharper.md), [Blightsurger](Oath%253A_Blightsurger.md), [Saintsworn](Oath%253A_Saintsworn.md), [Soulbreaker](Oath%253A_Soulbreaker.md) (All except Ardour Slicer).
+        -   For the list of Oaths and Oath abilities that **don't deal damage at all**: [Saltchemist](Oath%253A_Saltchemist.md), [Visionshaper](Oath%253A_Visionshaper.md).
 -   **Monster Armor** - Oathless grants 20% Monster Armor [ResistanceMonster](Monsters.md).
     -   Monster Armor is additive to [Equipment](Equipment.md) resistances, and is applied when fighting [Monster](Monsters.md)\-type enemies.
     -   This is one of very few sources of Monster Armor.
@@ -72,7 +72,7 @@ As for its appearance, **nothing** is added to your outfit, making it impossible
 
 ### Sage of Wisps
 
-There are two talents in the [Sage of Wisps](Talents.md#sage-of-wisps) Talent category that require Oathless to be obtained. These Talents focus on the usage of every [Attunement's](Attunement.md) Wisp Mantra. **These Talents are not given by the Oathless Oath directly, but instead require the Oath as a prerequisite.**
+There are two talents in the [Sage of Wisps](Talents.md#sage-of-wisps) Talent category that require Oathless to be obtained. These Talents focus on the usage of every [Attunement's](Attunements.md) Wisp Mantra. **These Talents are not given by the Oathless Oath directly, but instead require the Oath as a prerequisite.**
 
 Despite keeping these talents after [oathbreaking](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), **they do not function without the Oathless Oath**.
 
@@ -156,7 +156,7 @@ Oath [ResistanceOath](Oaths.md)
  |
 | 
 
-**Effect:** _Charge up for 2 seconds before unleashing a devastating, [unparryable](Telegraphed_Attacks.md) elemental beam._
+**Effect:** _Charge up for 2 seconds before unleashing a devastating, [unparryable](Combat_Mechanics.md#telegraphed-attacks) elemental beam._
 
 -   Soul Beam will consume your Ether and do nothing if you do not have all Wisp Mantras active on cast.
 -   An entire beam deals about 250 total damage (calculated with include of average player resistances). Unparryable, blockable. Can be dodged by going far enough from caster.
@@ -178,7 +178,7 @@ Oath [ResistanceOath](Oaths.md)
     -   However, being the only Oath to grant +3 Wildcard slots (with others giving only 1 or none) and its solid stats makes Oathless very flexible.
 -   Back when Talent categories had unique lines, the category line for Oathless was "I am unbounded."
 -   Obtaining Oathless doesn't award the Oathsworn [badge](Badges.md).
--   You can still use [Shrine of Order](Shrine_of_Order.md) if you have Oathless.
+-   You can still use [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) if you have Oathless.
 -   All of its quest characters are named after cities in the Kanto region from the [_Pokémon_](https://en.wikipedia.org/wiki/Pok%C3%A9mon) franchise. (These are all colours, Cerulean is blue, Viridian and celadon and blueish greens, and saffron is red.)
 -   Developer intentions behind the design of Oathless have historically been divisive.
     -   Prior to Verse 2, they stated that Oathless was canonically the strongest Oath, though the veracity and exact meaning behind this statement are unclear; the developers are prone to retconning old ideas should they no longer suit their progressing vision of Deepwoken.

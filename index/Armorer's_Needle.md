@@ -27,7 +27,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Armorer's Needle** is a [Relic](Relic.md) used for [Equipment](Equipment.md). It allows the user to reroll a single pip of their choice on a piece of equipment before being consumed. It appears to be a needle in the shape of a musical treble clef.
+**Armorer's Needle** is a [Relic](Relics.md) used for [Equipment](Equipment.md). It allows the user to reroll a single pip of their choice on a piece of equipment before being consumed. It appears to be a needle in the shape of a musical treble clef.
 
 ## Crafting
 

@@ -22,7 +22,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Bookkeeper Andros is an NPC. He offers information related to The Old World. He is crucial towards the obtainment for [Soulbreaker](Oath%253A_Soulbreaker.md) telling you about the King's Ardour and his abilities providing a lot of information about him, and provides information about [The Lord Regent](The_Lord_Regent.md) in the quest to defeat [Duke Erisia](Duke_Erisia.md).
+Bookkeeper Andros is an NPC. He offers information related to The Old World. He is crucial towards the obtainment for [Soulbreaker](Oath%253A_Soulbreaker.md) telling you about the King's Ardour and his abilities providing a lot of information about him, and provides information about [The Lord Regent](The_Lord_Regent.md) in the quest to defeat [Duke Erisia](Duke_Ishamon_Erisia.md).
 
 ## Location
 
@@ -62,7 +62,7 @@ This dialogue is unlocked if the player has spoken to [Theadre](Theadre.md) and 
 
 **Lord Regent:**
 
-This dialogue is unlocked if the player has started the "Lord Regent Who?" [Quest](Quest.md).
+This dialogue is unlocked if the player has started the "Lord Regent Who?" [Quest](Quests.md).
 
 <table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>These old books are more of a passing fancy of mine, but I've heard there's an order of scholars that devote their life to researching the <a href="Glossary.md#the-old-world">old world</a>. Don't you wonder what things were like back then?</td></tr><tr><td>Is there anything you can tell me about Etris?</td></tr><tr><td>If you head past the inn, you'll find the Lord Regent's estate. I would not advise entering without an invitation, however. Even a bookish fool such as I knows when I am not welcome.</td></tr><tr><td>Who is this Lord Regent exactly?</td></tr><tr><td>The Lord Regent is the 'acting regent' of Etrea. That is to say, he is not the prophesied King, but he still holds absolute power over Etrea. In recent years, he has sequestered himself away in his palace, rarely making an appearance. Some worry that he has grown ill, but considering that his duties have not been passed on to any of his officials, I doubt this is the case.</td></tr><tr><td>Do you know anything about his rise to power? A guard I met is curious about what has become of Etrean politics.</td></tr><tr><td>What's perhaps more interesting is that we <i>don't</i> know all too much about his rise to power. Before his rise to power, there was an officially recognised historian in the Etrean court. I had once hoped that I myself could fill such a position, but it no longer exists. It's said that when the Lord Regent came to power, half of the books in the libraries disappeared overnight.</td></tr><tr><td>Do you know what happened to those records?</td></tr><tr><td>It didn't seem wise to make a fuss over them. They were simply articles of public knowledge at the time, so I doubt they were stolen or anything like that. Whatever became of them is clearly nothing of anyone's business, so I'd recommend you don't dig further...</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 

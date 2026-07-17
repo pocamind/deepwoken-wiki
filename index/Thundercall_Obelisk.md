@@ -15,7 +15,7 @@ categories: [NPCs, NPCs located in the Eastern Luminant, Oath Trainer]
 
 ## Description
 
-The Thundercall Obelisk is an [NPC](NPC.md) located in a small cave on the northern side of [Boatman's Watch](<Boatman's_Watch.md>). It must be located and interacted with, along with [4 other element-based obelisks](Saintsworn_Obelisks.md), to obtain the [Saintsworn](Saintsworn.md) [Oath](Oath.md).
+The Thundercall Obelisk is an NPC located in a small cave on the northern side of [Boatman's Watch](<Boatman's_Watch.md>). It must be located and interacted with, along with [4 other element-based obelisks](Saintsworn_Obelisks.md), to obtain the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md).
 
 It can only be interacted with if you have at least 15 [Thundercall](Thundercall.md). When interacted with, [Tessa](Tessa.md), the Hero of Lightning, will speak to the player.
 

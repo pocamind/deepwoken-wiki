@@ -20,13 +20,13 @@ notices:
 
 ## Description
 
-Tainted Sorrow is an **unobtainable** weapon critical-replacing [enchantment](Enchantment.md) that flings your opponent on use.
+Tainted Sorrow is an **unobtainable** weapon critical-replacing [enchantment](Enchantments.md) that flings your opponent on use.
 
 ## Effect
 
 Upon landing M1s, Tainted Sorrow primes the target, with unique effects based on how many M1s you've landed in quick succession.
 
-Upon landing one M1, the target will be primed for your critical. When you use your critical next, your opponent will be pulled directly towards you, with a stomp. This attack guardbreaks if the critical's hit is blocked, as it shares stats with the [Way of Navae](Way_of_Navae.md) critical. This critical shares an animation with the aforementioned [Way of Navae](Way_of_Navae.md) critical and has the visual effects from [Curse of the Unbidden](Curse_of_the_Unbidden.md)'s critical and the [Enforcer Pull](Enforcer_Pull.md) Mantra.
+Upon landing one M1, the target will be primed for your critical. When you use your critical next, your opponent will be pulled directly towards you, with a stomp. This attack guardbreaks if the critical's hit is blocked, as it shares stats with the [Way of Navae](Way_of_Navae.md) critical. This critical shares an animation with the aforementioned [Way of Navae](Way_of_Navae.md) critical and has the visual effects from [Curse of the Unbidden](Curse_of_the_Unbidden.md)'s critical and the [Enforcer Pull](Monster_Mantras.md#enforcer-pull) Mantra.
 
 Upon landing three M1s in quick succession, your weapon will gain new unique properties. Every other weapon hit on subsequent M1 attacks will fling your opponent upwards, pushing the user back a few studs. This shares a visual effect with the [Curse of the Unbidden](Curse_of_the_Unbidden.md) critical.
 

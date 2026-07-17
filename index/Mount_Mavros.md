@@ -22,7 +22,7 @@ Far to the west, warriors are forged in the heat of battle.
 
   
 
-**Mount Mavros** is a [location](Locations.md) in _Deepwoken_. It is one of the unique areas exclusive to the [Battle Royale](Battle_Royale.md) gamemode.
+**Mount Mavros** is a location in _Deepwoken_. It is one of the unique areas exclusive to the [Battle Royale](Battle_Royale.md) gamemode.
 
 ## Overview
 

@@ -26,7 +26,7 @@ _Also referred to as Erisia Golem, Duke's Golems, or simply, Golems._
 
 ## Description
 
-**Rock Golems**, referred to as **Stonelife Golems** in the [Bestiary](Bestiary.md), are large, bulky stone constructs with a distinct glowing white core, and three peculiar stone discs on their "stomach" and "kneecaps." Their bodies look as though they're fragmented, but they remain intact regardless. They are given life by [the Duke](Duke_Erisia.md)'s unique [Stonelife resonance](Resonance.md). After the Duke found the Forge of Sin, the once protectors of the island turned on its inhabitants, now turned into mindless husks who do nothing but attack anything they see.
+**Rock Golems**, referred to as **Stonelife Golems** in the [Bestiary](Bestiary.md), are large, bulky stone constructs with a distinct glowing white core, and three peculiar stone discs on their "stomach" and "kneecaps." Their bodies look as though they're fragmented, but they remain intact regardless. They are given life by [the Duke](Duke_Ishamon_Erisia.md)'s unique [Stonelife resonance](Resonance.md). After the Duke found the Forge of Sin, the once protectors of the island turned on its inhabitants, now turned into mindless husks who do nothing but attack anything they see.
 
 Rock Golems are only found in [Upper Erisia](Upper_Erisia.md), commonly in [Burning Stone Gardens](Burning_Stone_Gardens.md), and they can also be found through the following events:
 
@@ -180,7 +180,7 @@ Dodge
 ## Tips
 
 -   Occasionally a [Megalodaunt](Megalodaunt.md) (or [Terrapod](Terrapod.md)) will spawn near a Golem, causing a fight to break out. It's a good idea to use ranged mantras to sneak in a bit of EXP and when one loses, go in for the kill on the other as it will be weakened from the fight.
--   Do not try to block it's **Spinning** attack, as it will shred your posture quickly. However, parrying said move gives a lot of EXP, making it a sort of risk/reward. The best way to dodge this is to run since he will be slowed when doing this and you can run from him. Additionally, parrying the spinning attack with a weapon enchanted with [Providence Thorns](Providence_Thorns.md) makes it way easier to kill.
+-   Do not try to block it's **Spinning** attack, as it will shred your posture quickly. However, parrying said move gives a lot of EXP, making it a sort of risk/reward. The best way to dodge this is to run since he will be slowed when doing this and you can run from him. Additionally, parrying the spinning attack with a weapon enchanted with [Providence Thorns](<Providence's_Thorns.md>) makes it way easier to kill.
 -   When parrying its **spinning** attack, sometimes it will force you to start blocking again, to combat this, just start parrying again when you start blocking
 -   The uppercut is actually not an instant blockbreak; however, you need a lot of posture to block it.
 -   It is possible to block the **Laser** using the pillars created by the [Relic Axe](Relic_Axe.md)'s critical attack.

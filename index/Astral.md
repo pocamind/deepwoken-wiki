@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Astral is a PvE-based buffing [enchantment](Enchantment.md) that increases your damage against NPCs.
+Astral is a PvE-based buffing [enchantment](Enchantments.md) that increases your damage against NPCs.
 
 ## Effect
 
@@ -33,4 +33,4 @@ Additionally, upon parrying three times in quick succession or landing a critica
 
 ## Trivia
 
--   Astral previously required having met a [Wishmaker](Developer_Specs/Iltria.md) to obtain the enchant.
+-   Astral previously required having met a [Wishmaker](Developer_Specs.md#iltria-leafre-spellhardt-retired) to obtain the enchant.

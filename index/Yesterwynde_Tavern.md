@@ -33,7 +33,7 @@ There are a total of seven tavern doors scattered across the Lumen that can lead
 With the other doors being placed in the Eastern Luminant are:
 
 1.  In the [Greathive Aratel](Greathive_Aratel.md), near the [Fountain Gates](Fountain_Gates.md), walk forward until you meet the stairs outside of Greathive. On your left and besides the stairs would be the gateway.
-2.  In front of the door to [The Lordsgrove](The_Lordsgrove.md) from [Starswept Valley](Starswept_Valley.md). On the right of the door, near the jump pad is the tavern door.
+2.  In front of the door to [The Lordsgrove](The_Lordsgrove.md) from [Starswept Valley](The_Starswept_Valley.md). On the right of the door, near the jump pad is the tavern door.
 3.  To the left of the log that leads to [Cerulean](Cerulean.md)'s cave.
 
 Inside the tavern there are sets of tables and chairs looking what seems to represent a bar. In the front of bar are four loudspeakers with **Nightwish** written in cursive above it. At the counter sits various drinks, plates, and bowls, and of course, with [The Ferryman](The_Ferryman.md) as the barman.

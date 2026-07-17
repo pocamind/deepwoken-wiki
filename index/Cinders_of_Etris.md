@@ -26,11 +26,11 @@ The siege of Etris is a large and rare event/disaster in which [the Authority](T
 
 At the beginning of the event, NPCs at the dock such as [Seraphina](Seraphina.md) or [Etrean Guardsmen](Etrean_Guardsmen.md) will talk about the Authority ceasing their operations in the East, as if they're preparing for something. Soon after, the docks are greeted by a large number of both [Etrean](Etrean_Guardsmen.md) and [Authority](Authority_Officer.md) soldiers fighting as a deafening explosion rings throughout the island. Slowly, the Authority crawls up into the city of Etris, starting from the docks, to the Etrea Wilds, and eventually reaching the main city, causing more and more havoc to break out.
 
-Within the town, significant [NPCs](NPCs.md) like [Polis](Polis.md) will attempt to fight off Authority soldiers that are crowding him, but will prioritize Authority Commanders above all. [Nell](Nell,_Master_of_Frost.md) the Ice Trainer will stay neutral unless provoked, in which she will help fight off the Authority.
+Within the town, significant NPCs like [Polis](Polis.md) will attempt to fight off Authority soldiers that are crowding him, but will prioritize Authority Commanders above all. [Nell](Nell,_Master_of_Frost.md) the Ice Trainer will stay neutral unless provoked, in which she will help fight off the Authority.
 
-If you participate in this event and defeat all of the [Authority Guards](Authority_Footsoldier.md), an [Authority Commander](<Authority_Commander_(NPC).md>), or [Polis](Polis.md), 3 Large Chests will spawn at the city's center, yielding **high-tier [Depths](The_Depths.md)** Loot, sometimes including [Deep Gems](Deep_Gems.md), Legendary Rings, the powerful [Wyrmtooth](Wyrmtooth.md) and [Kanabo](Kanabo.md), and the schematic containing [Justicar's Armor](<Justicar's_Armor.md>). You will also unlock the [Justicar](Justicar.md) [origin](Origins.md).
+If you participate in this event and defeat all of the [Authority Guards](Authority_Officer.md), an [Authority Commander](<Authority_Commander_(Enemy).md>), or [Polis](Polis.md), 3 Large Chests will spawn at the city's center, yielding **high-tier [Depths](The_Depths.md)** Loot, sometimes including [Deep Gems](Deep_Gems.md), Legendary Rings, the powerful [Wyrmtooth](Wyrmtooth.md) and [Kanabo](Kanabo.md), and the schematic containing [Justicar's Armor](<Justicar's_Armor.md>). You will also unlock the [Justicar](<Justicar_(Origin).md>) [origin](Origins.md).
 
-Additionally, you get positive [Etrea reputation](Etrea.md#reputation) if you killed the Authority soldiers including the [Authority Commander](<Authority_Commander_(NPC).md>), and positive [The Central Authority reputation](The_Central_Authority.md#reputation) if you killed [Polis](Polis.md).
+Additionally, you get positive [Etrea reputation](Etrea.md#reputation) if you killed the Authority soldiers including the [Authority Commander](<Authority_Commander_(Enemy).md>), and positive [The Central Authority reputation](The_Central_Authority.md#reputation) if you killed [Polis](Polis.md).
 
 You are bound to accidentally hit NPCS belonging to the Etrea faction. Don't worry, as even though it gives bad reputation then, the positive reputation given for beating the event overcomes the negative reputation by quite a lot.
 
@@ -56,11 +56,11 @@ Up to nine NPCs are in this event.
 
 | Faction | NPC |
 | --- | --- |
-| [Etrea](Etrea.md) | [Etrean Royal Guard](Etrean_Royal_Guard.md) |
+| [Etrea](Etrea.md) | [Etrean Royal Guard](<Etrean_Royal_Guard_(Enemy).md>) |
 | [Etrea](Etrea.md) | [Etrean Soldier](Etrean_Soldier.md) |
 | [Etrea](Etrea.md) | [Etrean Guardsmen](Etrean_Guardsmen.md) |
 | [Etrea](Etrea.md) | [Polis](Polis.md) |
-| [The Central Authority](The_Central_Authority.md) | [Authority Commander](<Authority_Commander_(NPC).md>) |
+| [The Central Authority](The_Central_Authority.md) | [Authority Commander](<Authority_Commander_(Enemy).md>) |
 | [The Central Authority](The_Central_Authority.md) | [Authority Officer](Authority_Officer.md) |
 | [The Central Authority](The_Central_Authority.md) | [Authority Soldier](Authority_Soldier.md) |
 | [The Central Authority](The_Central_Authority.md) | [Authority Peacekeeper](Authority_Peacekeeper.md) |
@@ -68,14 +68,14 @@ Up to nine NPCs are in this event.
 
 ## Trivia
 
--   **[NPCs](NPCs.md) will have special dialogue during this event, such as:**
+-   **NPCs will have special dialogue during this event, such as:**
     -   "Get to the town center! Hurry!"
     -   "The town is burning! It's burning! Help!"
     -   "The town! They're sieging the town!"
     -   "We need all the help we can get! Get to the town and clear out the Authority! Please!"
 -   Authority Guards will also have special dialogue nearing the end of the event, such as:
     -   _ONE FINAL PUSH! TO THE CENTER, ROUT THEM!_
--   One of the only places that will never burn in the Etris Raid Event is [Lord Regents](Lord_Regent.md) Palace.
+-   One of the only places that will never burn in the Etris Raid Event is [Lord Regents](The_Lord_Regent.md) Palace.
 -   [The Children of Navae](The_Children_of_Navae.md) unintentionally help Etris by attacking any Authority NPCS that come too close to their camp in Etrean Wilds.
 -   Additionally, Nell the Ice Trainer will help fight any Authority NPC that wanders too close.
 -   This event was unable to spawn during the Winter season until the 5th of July 2024 Update.

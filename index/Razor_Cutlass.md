@@ -39,11 +39,11 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Ingredients
 
 ## Description
 
-The Razor Cutlass is a rare [Medium Weapon](Weapons.md#medium-weapons) primarily found in the [Starswept Valley](Starswept_Valley.md), [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md). It can also be found in [Depths](The_Depths.md) chests or dropped by the [Crimson Terrapod](Crimson_Terrapod.md).
+The Razor Cutlass is a rare [Medium Weapon](Weapons.md#medium-weapons) primarily found in the [Starswept Valley](The_Starswept_Valley.md), [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md). It can also be found in [Depths](The_Depths.md) chests or dropped by the [Crimson Terrapod](Terrapod.md#crimson).
 
-Being a medium weapons that deals bleed on top of its normal attacks, the Razor Cutlass is effective at dealing very high damage with the [bleed](Bleed.md) effect and good PEN.
+Being a medium weapons that deals bleed on top of its normal attacks, the Razor Cutlass is effective at dealing very high damage with the [bleed](Status_Effects.md#bleed) effect and good PEN.
 
-It may be crafted into an [Umbrite Witherblade](Umbrite_Witherblade.md) with 3 [Umbrite](Umbrite.md), a [Dormant Splinter](Dormant_Splinter.md) and itself in [The Cold Forge](The_Cold_Forge.md).
+It may be crafted into an [Umbrite Witherblade](Umbrite_Witherblade.md) with 3 [Umbrite](Ores.md#umbrite), a [Dormant Splinter](Dormant_Splinter.md) and itself in [The Cold Forge](The_Cold_Forge.md).
 
 ## Talents
 
@@ -55,7 +55,7 @@ Gain stacks of **Continuous Bleed** upon landing a critical attack, flourish, or
 
 Razor Cutlass uses the default Sword critical, a piercing stab. It has a scaled damage multiplier of **1.2x** and a cooldown of **3 seconds**. It deals **3x** the weapon's posture stat as posture damage.
 
-This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

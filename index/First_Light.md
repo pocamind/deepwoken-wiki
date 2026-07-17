@@ -59,7 +59,7 @@ This critical is mostly used as a distraction or pressure as opposed to dealing 
     -   The hilt and blade resemble the Medieval European sword design, meant to resemble a crucifix. This suggest a more modern but also Western origin.
 -   Similar to a [Flamecharm](Flamecharm.md) Mantra, both parts of First Light's critical will receive a damage debuff during the rain unless you have the [Unyielding Inferno](Talents.md#unyielding-inferno) Talent.
 -   First Light is one of two weapons to have a critical that scales solely on an attunement stat despite the weapon not requiring said attunement to wield, the other being the [Krulian Knife](Krulian_Knife.md).
--   The swords from the sword rain on the critical are not counted as "weapon attacks" for any effect in the game. This allows them to do things like not lose damage if you have a [Ring of Casters](Ring_of_Casters.md) equipped, but also not gain a damage buff from things like [Shade Devour](Shade_Devour.md).
+-   The swords from the sword rain on the critical are not counted as "weapon attacks" for any effect in the game. This allows them to do things like not lose damage if you have a [Ring of Casters](Ring_of_Casters.md) equipped, but also not gain a damage buff from things like [Shade Devour](Shadowcast.md#shade-devour).
 -   The weapon originally had its own unique M1 animations, but they were removed due to being "unfinished and buggy".
     -   When a Visionshaper clone was spawned with a Railblade, their weapon utilized the old animations of the First Light.
     -   It was given reworked animations in the April 24th, 2023 pdate, alongside a new critical attack.

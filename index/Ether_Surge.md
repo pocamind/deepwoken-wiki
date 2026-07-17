@@ -22,7 +22,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Ether Surge is a sustain [enchantment](Enchantment.md) that gives the user infinite ether on proc.
+Ether Surge is a sustain [enchantment](Enchantments.md) that gives the user infinite ether on proc.
 
 ## Effect
 

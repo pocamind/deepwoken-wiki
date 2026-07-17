@@ -21,7 +21,7 @@ Gliders are a utility that gives the player the ability to glide, allowing easy 
 
 Anyone is able to craft a glider at any point. Simply head to a [Crafting Station](Crafting_Station.md), use the glider recipe (x2 Stick, x2 Cloth) and craft it.
 
-Both Gliders and Sharkscale Gliders can also be sold in [Merchant Ships](Merchant_Ships.md).
+Both Gliders and Sharkscale Gliders can also be sold in [Merchant Ships](Travelling_Merchant.md).
 
 ## Crafting
 

@@ -24,19 +24,19 @@ categories: [Outfits, Adept Outfits, Bandits, Outfits with Talents, "Outfits wit
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Bounty Hunter** is an Adept [Outfit](Outfit.md) in _Deepwoken_.
+**Bounty Hunter** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Eternal Logstone](Eternal_Logstone.md) to craft.
+This Outfit requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Eternal Logstone](Mantra_Modifiers.md#regular-modifiers) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 5 to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability, grants +20% Physical resistance ResistanceBlunt ResistanceSlash, and +10% Elemental resistance [ResistanceElemental](Attunement.md). Additionally, it provides the [Lightweight](Talents.md#lightweight) Talent.
+This Outfit has 1500 durability, grants +20% Physical resistance ResistanceBlunt ResistanceSlash, and +10% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Lightweight](Talents.md#lightweight) Talent.
 
 The [Lightweight](Talents.md#lightweight) Talent increases the users movement speed by 25% when their armor's durability reaches 0.
 

@@ -32,7 +32,7 @@ Korin is an [Etrean](Etrean.md) NPC. Once aspiring to join the [Temple of the Bl
 
 When interacted with, they request 6 wood in order to keep the fires lit. In exchange, [the Pathfinder](The_Pathfinder.md) gains 5 Notes and increased [Reputation](Reputation.md) with [Etrea](Etrea.md). They also give the Pathfinder a free [Lumber Axe](Lumber_Axe.md) if they do not have one.
 
-Korin offers the easiest way to increase reputation with Etrea, which allows the Pathfinder to easily obtain the [Manor Key](Manor_Key.md). The Manor Key is necessary to access the boss, [Duke Erisia](Duke_Erisia.md).
+Korin offers the easiest way to increase reputation with Etrea, which allows the Pathfinder to easily obtain the [Manor Key](Manor_Key.md). The Manor Key is necessary to access the boss, [Duke Erisia](Duke_Ishamon_Erisia.md).
 
 Their counterpart in the [Isle of Vigils](Isle_of_Vigils.md) is [Drefa](Drefa.md).
 
@@ -52,11 +52,11 @@ Wood from the blacksmith's costs only 2 ...
 
 ..whereas wood costs 5 each in the general store.
 
-If starting out with neutral reputation with [Etrea](Etrea.md), the player needs at least ~100 wood to begin the [Duke Erisia](Duke_Erisia.md) quest, which translates to ~200 notes, if the wood is purchased from the blacksmith. If the player wants to get Hero reputation with [Etrea](Etrea.md), they would need around ~1,000 notes to achieve it, which translates to about ~500 wood or about 10 minutes of buying and selling wood.
+If starting out with neutral reputation with [Etrea](Etrea.md), the player needs at least ~100 wood to begin the [Duke Erisia](Duke_Ishamon_Erisia.md) quest, which translates to ~200 notes, if the wood is purchased from the blacksmith. If the player wants to get Hero reputation with [Etrea](Etrea.md), they would need around ~1,000 notes to achieve it, which translates to about ~500 wood or about 10 minutes of buying and selling wood.
 
 ### Treefelling Blow Quest
 
-If the player has felled at least 1 tree with the Mantra [Strong Left](Strong_Left.md), Korin can give them the quest to obtain the [Treefelling Blow](Talents.md#treefelling-blow) Talent. To complete the quest, the player must fell at least 5 trees with the [Strong Left](Strong_Left.md) mantra.
+If the player has felled at least 1 tree with the Mantra [Strong Left](Attunement-less.md#strong-left), Korin can give them the quest to obtain the [Treefelling Blow](Talents.md#treefelling-blow) Talent. To complete the quest, the player must fell at least 5 trees with the [Strong Left](Attunement-less.md#strong-left) mantra.
 
 As the name implies, this [Talent](Talents.md) allows the player to get wood by punching down a tree with Strong Left. Although trees can be destroyed this way without the Talent, trees will not drop wood unless the player has Treefelling Blow.
 
@@ -64,7 +64,7 @@ As the name implies, this [Talent](Talents.md) allows the player to get wood by 
 
 **Base Dialogue:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Hey. We need more wood to keep the fires burning, you got any?</td></tr><tr><td colspan="4">Yeah.</td><td colspan="4">Can you tell me anything about Etrea?</td><td colspan="4">Player has destroyed a tree using <a href="Strong_Left.md">Strong Left</a></td></tr><tr><td colspan="2">[Enough wood]</td><td colspan="2">[Not enough wood]</td><td colspan="4">Many of the lads here have taken up the sword and train at the Blade Temple to try to become a Vigil. Not many make the cut, though. Myself included. Still, it's a good experience, maybe they'd take you on?</td><td colspan="4">I'm having problems with my treefelling.</td></tr><tr><td colspan="2">Thanks for the help.</td><td colspan="2">Uh.. it seems like you don't have much on you. Come back with more wood and we can see about payment.</td><td colspan="4">[End Dialogue]</td><td colspan="4">[See Treefelling Quest]</td></tr><tr><td colspan="2">[End Dialogue], Lose 6 Wood, Gained 5 Notes, Gained slight reputation with Etrea</td><td colspan="2">[End Dialogue]</td></tr></tbody></table>
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Hey. We need more wood to keep the fires burning, you got any?</td></tr><tr><td colspan="4">Yeah.</td><td colspan="4">Can you tell me anything about Etrea?</td><td colspan="4">Player has destroyed a tree using <a href="Attunement-less.md#strong-left">Strong Left</a></td></tr><tr><td colspan="2">[Enough wood]</td><td colspan="2">[Not enough wood]</td><td colspan="4">Many of the lads here have taken up the sword and train at the Blade Temple to try to become a Vigil. Not many make the cut, though. Myself included. Still, it's a good experience, maybe they'd take you on?</td><td colspan="4">I'm having problems with my treefelling.</td></tr><tr><td colspan="2">Thanks for the help.</td><td colspan="2">Uh.. it seems like you don't have much on you. Come back with more wood and we can see about payment.</td><td colspan="4">[End Dialogue]</td><td colspan="4">[See Treefelling Quest]</td></tr><tr><td colspan="2">[End Dialogue], Lose 6 Wood, Gained 5 Notes, Gained slight reputation with Etrea</td><td colspan="2">[End Dialogue]</td></tr></tbody></table>
 
 **No Axe:**
 

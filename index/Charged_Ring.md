@@ -31,5 +31,5 @@ Despite what the item's description says, it doesn't inherently decrease the amo
 
 ## Trivia
 
--   At one point the Charged Ring was extremely rare due to a bug. This equipment is difficult to obtain because it specifically drops from [Fishing](Fishing.md) with an **extremely** low drop rate or [Primadon](Primadon.md).
+-   At one point the Charged Ring was extremely rare due to a bug. This equipment is difficult to obtain because it specifically drops from [Fishing](Fishing.md) with an **extremely** low drop rate or [Primadon](Primadon,_Titan_of_the_East.md).
 -   The model seems to be the same as a [Ferryman's Ring](<Ferryman's_Ring.md>), but blue instead of green.

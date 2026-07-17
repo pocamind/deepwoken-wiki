@@ -16,7 +16,7 @@ notices:
 
 ## Description
 
-Lockers were a utility object that solely allowed the player to open their menu, similar to [Crafting Stations](Crafting_Station.md) and [Campfires](Campfire.md). However, they had neither of their functions.
+Lockers were a utility object that solely allowed the player to open their menu, similar to [Crafting Stations](Crafting_Station.md) and [Campfires](Campfire_Pit.md). However, they had neither of their functions.
 
 They could be primarily found in the [First Layer](First_Layer.md), such as [Castle Light](Castle_Light.md), [Marauder's Entrance](<Marauder's_Entrance.md>), [Diver's Camp](<Diver's_Camp.md>), and [The Cold Forge](The_Cold_Forge.md).
 

@@ -21,11 +21,11 @@ _This might have not been the page you were looking for, if you were looking for
 
 ## Description
 
-Also known as Kyrsans, the Kyrsgarde are an intelligent form of species unlike the Humans (or by their view, Fringewalkers) that are native to [The Eternal Gale](The_Depths.md) and follow Ethiron as both their leader and idol in their society. However, this worship is ultimately skin-deep, or in their case bone-deep, as they ultimately fear Ethiron's power and had been taking measures to prevent his revival. Those residing in [Firfire](Firfire.md) and the surrounding [outskirts](Second_Layer/The_Ethironal_Shrine.md) are peaceful towards Fringewalkers, while the ones laying in the depths of [New Kyrsa](New_Kyrsa.md) prove hostile towards the player, protecting Ethiron from threats with fanatical zealotry.
+Also known as Kyrsans, the Kyrsgarde are an intelligent form of species unlike the Humans (or by their view, Fringewalkers) that are native to [The Eternal Gale](The_Depths.md) and follow Ethiron as both their leader and idol in their society. However, this worship is ultimately skin-deep, or in their case bone-deep, as they ultimately fear Ethiron's power and had been taking measures to prevent his revival. Those residing in [Firfire](Firfire.md) and the surrounding [outskirts](Second_Layer/The_Ethironal_Shrine.md) are peaceful towards Fringewalkers, while the ones laying in the depths of [New Kyrsa](Second_Layer/New_Kyrsa.md) prove hostile towards the player, protecting Ethiron from threats with fanatical zealotry.
 
 ## Kyrsans
 
-Friendly Kyrsans are found in [The Ethironal Shrine](The_Ethironal_Shrine.md), with only three in [The City](New_Kyrsa.md) being friendly.
+Friendly Kyrsans are found in [The Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md), with only three in [The City](Second_Layer/New_Kyrsa.md) being friendly.
 
 -   Shrine Kyrsans:
     -   [Aeroaseluniris Oricalum Forentus](Aeroaseluniris_Oricalum_Forentus.md)
@@ -45,7 +45,7 @@ Friendly Kyrsans are found in [The Ethironal Shrine](The_Ethironal_Shrine.md), w
     -   [Kyrsgarde Crawler](Kyrsgarde_Crawler.md)
     -   [Kyrsgarde Lancer](Kyrsgarde_Lancer.md)
     -   [Kyrsgarde Sniper](Kyrsgarde_Sniper.md)
-    -   [Kyrsgarde Champion](Kyrsgarde_Champion.md)
+    -   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>)
 
 ## Trivia
 

@@ -20,7 +20,7 @@ You can feel your soul dragging down like a weight, deeper, further into the dep
 
   
 
-**The Depths** is a [location](Locations.md) in _Deepwoken_. Players are sent to the Depths after [dying](Death.md) twice and without the increase of Power, or Level, whilst having a stained/rusty health bar, dying with the [Hollow](Hollow.md) Echo Modifier, dying within a [Voidzone](Voidzones.md), being consumed by a corrupted [Blood Scourge](Blood_Scourge.md), entering a [Whirlpool](Whirlpools.md), dying in the [Voidsea](Voidsea.md), or using the [Call of the Deep Talent](Talents.md) granted exclusively to [Deepbound](Deepbound.md) players. Players who are close to entering the Depths, such as dying once, rather than seeing the more commonly saw message "_Adrenaline surges into your veins as tensions thicken._", it will instead say "_Your heart beats faster as the end draws near._" This message will indicate that you are on your second life, and dying here would send you to the dreaded Depths.
+**The Depths** is a location in _Deepwoken_. Players are sent to the Depths after [dying](Death.md) twice and without the increase of Power, or Level, whilst having a stained/rusty health bar, dying with the [Hollow](Echoes.md#upgrades-unlocks-and-modifiers) Echo Modifier, dying within a [Voidzone](Voidzones.md), being consumed by a corrupted [Blood Scourge](Blood_Scourge.md), entering a [Whirlpool](Whirlpools.md), dying in the [Voidsea](Voidsea.md), or using the [Call of the Deep Talent](Talents.md) granted exclusively to [Deepbound](Deepbound.md) players. Players who are close to entering the Depths, such as dying once, rather than seeing the more commonly saw message "_Adrenaline surges into your veins as tensions thicken._", it will instead say "_Your heart beats faster as the end draws near._" This message will indicate that you are on your second life, and dying here would send you to the dreaded Depths.
 
 The Depths is a purgatory to all the Drowned, and home to the [sea monsters](Monsters.md) dotted all across the world of _Deepwoken_. In the center, a bastion to freedom keeps the return to the surface out of arms reach. Dying within the Depths will kill your character for good, sending you to the [Fragments of Self](Fragments_of_Self.md) where you are able to either revive yourself, or completely wipe your character, forcing you to start all over again from [Power](Power.md) 1.
 
@@ -52,12 +52,12 @@ A list of Whirlpool locations can be found at [Whirlpools](Whirlpools.md).
 
 ## Layers
 
-The Depths contains nine layers, though you can reach only two in game: [The First Layer](First_Layer.md), aka Scyphozia, and [the Second Layer](Second_Layer.md), aka the Eternal Gale. There is also a Third Layer, aka the Vents, a lava covered hellscape where [Korilfiend](Korilfiend.md) resides, although this content has not been added to the game yet.
+The Depths contains nine layers, though you can reach only two in game: [The First Layer](First_Layer.md), aka Scyphozia, and [the Second Layer](Second_Layer.md), aka the Eternal Gale. There is also a Third Layer, aka the Vents, a lava covered hellscape where [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>) resides, although this content has not been added to the game yet.
 
 Please visit their respective pages below by clicking on them for more information:
 
-**\- [First Layer (Scyphozia)](First_Layer.md)** for information on the first layer you are sent to, including info on [Yun'Shul](<Yun'Shul.md>) and the Depths Trial.
+**\- [First Layer (Scyphozia)](First_Layer.md)** for information on the first layer you are sent to, including info on [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) and the Depths Trial.
 
-**\- [Second Layer (The Eternal Gale)](Second_Layer.md)** for information on the layer you are sent to after falling into the void or diving deeper via the interaction with [Klaris](Klaris.md), including info on [Chaser](Chaser.md) and [New Kyrsa](New_Kyrsa,_The_Sleeping_City.md).
+**\- [Second Layer (The Eternal Gale)](Second_Layer.md)** for information on the layer you are sent to after falling into the void or diving deeper via the interaction with [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), including info on [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and [New Kyrsa](Second_Layer/New_Kyrsa.md).
 
 The layers are non-linear, which is a example of why you can go from The Surface to The Vents and not from New Kyrsa.

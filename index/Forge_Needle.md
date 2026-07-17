@@ -27,7 +27,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The **Forge Needle** is a [Relic](Relic.md) used for [Equipment](Equipment.md). It is an advanced version of the [Armorer's Needle](<Armorer's_Needle.md>), instead of rolling a pip on an equipment piece, the Forge Needle upgrades one of your equipment by one star. Essentially, it does the same thing as the [Smith's Alloy](<Smith's_Alloy.md>), except for [Equipment](Equipment.md) rather than weapons.
+The **Forge Needle** is a [Relic](Relics.md) used for [Equipment](Equipment.md). It is an advanced version of the [Armorer's Needle](<Armorer's_Needle.md>), instead of rolling a pip on an equipment piece, the Forge Needle upgrades one of your equipment by one star. Essentially, it does the same thing as the [Smith's Alloy](<Smith's_Alloy.md>), except for [Equipment](Equipment.md) rather than weapons.
 
 This of course grants all of the benefits that come with having a higher star value, such as +1 Health to Arms, Head, and Legs equipment along with the Rare and/or Legendary Pip(s) that the stars give as a bonus.
 

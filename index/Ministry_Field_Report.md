@@ -10,7 +10,7 @@ categories: [Books]
 
 ## Description
 
-_**Ministry Field Report**_ is a [Book](Book.md) found in [Outpost Antumbra](Outpost_Antumbra.md).
+_**Ministry Field Report**_ is a [Book](Books.md) found in [Outpost Antumbra](Outpost_Antumbra.md).
 
 ## Text
 

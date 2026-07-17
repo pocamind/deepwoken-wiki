@@ -48,7 +48,7 @@ While navigating the First Floor, there is a clear-set quest-line, which will pr
 3.  Retrieve the Blue Spear within the depths of [Firfire Caverns](../Firfire_Caverns.md) (OPTIONAL AFTER THE FIRST RUN), and go to [Firfire](../Firfire.md)
 4.  Talk to Leader Erosius Amaltus Urivortus Alistus Casius Walistoshus, where he will then open the door to the [Nest Corridor](../Nest_Corridor.md). If you have a form of wall-clipping, you may skip talking to him.
     1.  **(OPTIONAL)** If you have talked to Llevyn, you may take the Deepdrill in order to abandon a run early within the Nest Corridor.
-5.  Traverse through [The Maw of Ethiron](../The_Maw_of_Ethiron.md) and reach [The Cathedral](../Cathedral_of_Ethiron.md) in order to defeat [a traitorous Black Diver](../Chaser,_Scholar_of_the_Burning_Blood.md).
+5.  Traverse through [The Maw of Ethiron](../The_Maw_of_Ethiron.md) and reach [The Cathedral](../Cathedral_of_Ethiron.md) in order to defeat [a traitorous Black Diver](../Chaser,_Scholar_of_the_Crimson_Contract.md).
 6.  From there you may either Leave or [Delve Deeper](New_Kyrsa.md).
     1.  Note that delving deeper will **lower your hook time** to 10 minutes if you have more than 10 minutes left on your hook.
 
@@ -78,12 +78,12 @@ The Parasites function as a **passive time limit** for the player, accumulating 
 
 Though, these are reducible via the following means.
 
--   [Flame Wisp](../Flame_Wisp.md): +1 minute (needs further testing.)
+-   [Flame Wisp](../Flamecharm.md#flame-wisp): +1 minute (needs further testing.)
 -   [Winter Corps Parka](../Winter_Corps_Parka.md): +1.5 minutes.
--   [Survivalist](../Survivalist.md) Boon: +1.5 minutes.
+-   [Survivalist](../Boons_and_Flaws.md#survivalist) Boon: +1.5 minutes.
 -   [Wormwarder Lantern](../Wormwarder_Lantern.md): Negates parasites, movement speed penalty.
 -   [Grand Fisher Helm](../Grand_Fisher_Helm.md): Negates parasites.
--   [Arc Suit](../Arc_Suit.md): Negates parasites.
+-   [Arc Suit](../Oath%253A_Arcwarder.md#arc-suit): Negates parasites.
 
 Otherwise, in order to remove your parasites, you must interact with an [Ignition Lantern](../Ignition_Lanterns.md), which removes all parasites instantly.
 
@@ -117,8 +117,8 @@ There are three different methods to escape the second layer, however all of whi
 
 ### Finishing the Floor
 
--   Do the entire floor and defeat [Chaser](../Chaser.md).
--   Instead of going down into [New Kyrsa, The Sleeping City](../New_Kyrsa,_The_Sleeping_City.md), take the giant lighthook out.
+-   Do the entire floor and defeat [Chaser](../Chaser,_Scholar_of_the_Crimson_Contract.md).
+-   Instead of going down into [New Kyrsa, The Sleeping City](New_Kyrsa.md), take the giant lighthook out.
 -   You **keep** all the loot gained.
 
 ## Recommended Talents & Equipment
@@ -160,10 +160,10 @@ These optional quests are not essential to the main objective of clearing the se
     3.  The **Third** diver journal is located near the exit of the Sanctuary Gatehouse, instead of going down the path, drop down and go left, a diver corpse should be waiting for you.
 2.  Gain the two Talents "**Ethirons Gaze**" and "**Union Hook**".
 3.  Do the Galewax Secret.
-4.  Beat [Chaser](../Chaser.md) atleast once.
+4.  Beat [Chaser](../Chaser,_Scholar_of_the_Crimson_Contract.md) atleast once.
 5.  Then, talk to [Klaris](../Klaris_Llfiend,_Mother_of_Lights.md) in order to receive your reward.
 
-### [Heretic's Sutra](<../Heretic's_Sutra.md>)
+### [Heretic's Sutra](../Quests.md#heretics-sutra)
 
 -   **IN ORDER TO GAIN HERETIC'S SUTRA, YOU FIRST NEED 80 WILLPOWER.**
 
@@ -175,14 +175,14 @@ These optional quests are not essential to the main objective of clearing the se
 ### [Bloodrend](../Bloodrend.md) Obtainment
 
 1.  Get To Firfire as usual.
-2.  Inside an Igloo is the trainer, [Vyrelda](../Vyrelda.md).
+2.  Inside an Igloo is the trainer, [Vyrelda](../Vyrelda,_Master_of_Blood.md).
 3.  Talk to her and request for her to teach you.
 4.  Kill Three Ministry Bloodrenders, then come back with three Heartstars.
 5.  After obtaining Bloodrend, you may Lighthook out to keep it.
 
 ### [Arcwarder](../Oath%253A_Arcwarder.md) Questline
 
--   You are required to have **20 [Flamecharm](../Flamecharm.md)**, **20 [Thundercall](../Thundercall.md)**, and **20 [Fortitude](../Fortitude.md)** in order to get Arcwarder.
+-   You are required to have **20 [Flamecharm](../Flamecharm.md)**, **20 [Thundercall](../Thundercall.md)**, and **20 [Fortitude](../Attributes.md#ftd)** in order to get Arcwarder.
 
 1.  Do Floor 1 and Activate the Generator.
 2.  Talk to [Alpha](../Alpha.md) twice, and then head to [Firfire Caverns](../Firfire_Caverns.md).
@@ -212,7 +212,7 @@ These optional quests are not essential to the main objective of clearing the se
 ## Loot Table
 
 -   [Enchant Stones](../Enchant_Stone.md)
--   [Weapons](../Weaponry.md)
+-   [Weapons](../Weapons.md)
 -   [Deep Gems](../Mantra_Modifiers.md)
 -   [Authority Commander](../Authority_Commander.md)
 -   [Ignition Deepdelver](../Ignition_Deepdelver.md)
@@ -234,7 +234,7 @@ These optional quests are not essential to the main objective of clearing the se
 -   The ambient music for this area is [The Killing Wind](https://www.youtube.com/watch?v=DJ8bK55VP68), [Whisperwind](https://www.youtube.com/watch?v=g_xb36_-s0c), and [The Storm that Speaks](https://www.youtube.com/watch?v=IA4N_loA13A) by Naktigonis.
 -   The combat music for this area is [INSOMNIA](https://www.youtube.com/watch?v=YMJBMjergiI) by Naktigonis.
     -   As stated in the video, the music present in game is altered due to ROBLOX's guidelines regarding screaming and distorted audio.
--   [Mute](../Regalias.md), [Gliders](../Gliders.md), and [Teleportation](../Teleportation.md) all do not work in this dungeon.
+-   [Mute](../Regalia.md), [Gliders](../Gliders.md), and [Teleportation](../Teleportation.md) all do not work in this dungeon.
 -   The [Bone Keeper](../Bone_Keeper.md) spawned at the bridge to the generator is only weakened so it has dramatically less knockback and cannot ragdoll you.
 -   [Murmur: Tacet](../Murmur%253A_Tacet.md) is able to be used.
 -   While [Dimensional Travel](../Dimensional_Travel.md) is able to be used, it instead flings the user similar to the winds.

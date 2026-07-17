@@ -39,7 +39,7 @@ It is recommended not to eat Goblettos, because they cause the consumer to vomit
 
 ## Trivia
 
--   With the [Disguise](Disguise.md) mantra, you can turn into a gobletto. This requires it to be modified with 1 Reversal spark, and 1 Tornado spark.
+-   With the [Disguise](Attunement-less.md#disguise) mantra, you can turn into a gobletto. This requires it to be modified with 1 Reversal spark, and 1 Tornado spark.
     -   This is the only Ingredient that you can transform into.
 -   If used in [Alchemy](Alchemy.md), the primary affect applied is **Invigorating**. Secondary effect is **Decelerate**.
 -   One of four mushroom types, along with the [Browncap](Browncap.md), [Dentifilo](Dentifilo.md), and [Bluecap](Bluecap.md).

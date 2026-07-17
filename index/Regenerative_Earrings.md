@@ -41,7 +41,7 @@ Variants: [Pendant](Regenerative_Pendant.md)
 
 The Regenerative Earrings are an [Equipment](Equipment.md) item found under the "Ears" category. The Regenerative Earrings is similar to the [Trueblood Earrings](Trueblood_Earrings.md) from the [Vow of Iron](Vow_of_Iron.md) gamemode, but made from common [Pathfinder](Pathfinder.md) mode drops.
 
-The [Blood Convergence](Talents.md#blood-convergence) Talent grants 10% more healing from all healing sources when you have [Temporary Health](Temporary_Health.md).
+The [Blood Convergence](Talents.md#blood-convergence) Talent grants 10% more healing from all healing sources when you have [Temporary Health](Status_Effects.md#temporary-health).
 
 ## Set Talent
 
@@ -64,12 +64,12 @@ The following sources of healing **can** proc Critical Heal:
 
 -   Any source of 'non-passive' healing, such as anything **not** related to passive health regeneration (unexhaustive list below)
     -   [Grand Feast](Talents.md#grand-feast) / [Replenishing Knockout](Talents.md#replenishing-knockout) / Health received on mob kill
-    -   Instant Health [potions](Potions.md)
+    -   Instant Health [potions](Alchemy.md)
     -   Ticks of healing from [Blood Scourge](Blood_Scourge.md)
-    -   Ticks of healing from [Linkstrider's](Oath%253A_Linkstrider.md) [Parasitic Leech](Parasitic_Leech.md)
-    -   [Bloodtide Ritual](Bloodtide_Ritual.md)'s Lifesteal
+    -   Ticks of healing from [Linkstrider's](Oath%253A_Linkstrider.md) [Parasitic Leech](Oath%253A_Linkstrider.md#parasitic-leech)
+    -   [Bloodtide Ritual](Bloodrend.md#bloodtide-ritual)'s Lifesteal
     -   [Multiplicity](Multiplicity.md) Enchantment
-    -   [Flame Wisp](Flame_Wisp.md) Healing
+    -   [Flame Wisp](Flamecharm.md#flame-wisp) Healing
     -   [Phoenix Impact](Talents.md#phoenix-impact)
     -   [Life Leech](Talents.md#life-leech) from [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>)
     -   [Bloodless Gems](Bloodless_Gem.md)

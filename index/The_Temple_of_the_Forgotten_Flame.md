@@ -19,7 +19,7 @@ A temple old as the island itself, robbed of its heart.
   
 
   
-**The Temple of the Forgotten Flame** is a [location](Locations.md) in _Deepwoken_. It is a landmark of [Upper Erisia](Upper_Erisia.md).
+**The Temple of the Forgotten Flame** is a location in _Deepwoken_. It is a landmark of [Upper Erisia](Upper_Erisia.md).
 
 ## Overview
 

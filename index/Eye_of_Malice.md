@@ -51,4 +51,4 @@ Feinting during this critical will cancel momentum and allow you to more easily 
 
 The critical has a cooldown of **6 seconds**.
 
-This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talent](Talent.md) effects.
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talent](Talents.md) effects.

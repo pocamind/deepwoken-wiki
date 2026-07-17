@@ -46,18 +46,18 @@ The critical has a cooldown of **45 seconds.**
 
 ### Notes
 
--   The spiderling likely has the same AI as the normal mobs which means that they will not attack anything by default unless it's a player or a [golem](Golem.md) enemy.
+-   The spiderling likely has the same AI as the normal mobs which means that they will not attack anything by default unless it's a player or a [golem](Rock_Golem.md) enemy.
     -   The player can gain EXP when it is killed.
 -   The spiderling can be hit to gain [Chain of Perfection](Talents.md#chain-of-perfection) stacks.
 -   The spiderling can attack other mobs, but sometimes you need to hit it to do anything.
--   The spiderling has a chance of being [Corrupted](Corrupted_Monsters.md) if summoned in [the Depths](The_Depths.md).
--   The spiderling can't hit the person who summoned it unless you [Taunt](Taunt.md) them.
+-   The spiderling has a chance of being [Corrupted](Monsters.md#scyphozia) if summoned in [the Depths](The_Depths.md).
+-   The spiderling can't hit the person who summoned it unless you [Taunt](Attunement-less.md#taunt) them.
 -   The spiderling summon counts as an ally and can be buffed.
     -   The spiderling will not count as an ally if you have "No Holds Barred" enabled in settings.
-        -   If "No Holds Barred" is enabled the user is able to [Taunt](Taunt.md) their own spiderling which causes it to attack the user. The spiderling can't hit or damage the user.
+        -   If "No Holds Barred" is enabled the user is able to [Taunt](Attunement-less.md#taunt) their own spiderling which causes it to attack the user. The spiderling can't hit or damage the user.
 -   The spiderling won't despawn if it attacks someone, allowing to spawn more than one if you manage to keep them agroed on someone.
 -   The Weaving Web shares a synergy with the [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>) due to the spiderling counting as a summon.
--   Spiderling's spawned by a [Visionshaper](Oath%253A_Visionshaper.md) clones or [Lightning Clones](Lightning_Clones.md) will be able to target you, as they're technically not _your_ summon (CAN AUTOGRIP YOU IF YOU ARE KNOCKED).
+-   Spiderling's spawned by a [Visionshaper](Oath%253A_Visionshaper.md) clones or [Lightning Clones](Thundercall.md#lightning-clones) will be able to target you, as they're technically not _your_ summon (CAN AUTOGRIP YOU IF YOU ARE KNOCKED).
 
 ## Trivia
 

@@ -122,7 +122,7 @@ Trophy Room
 
  | 
 
-Allows the hiring of an Artisan for 10,000. For 800 (a 200 discount), allows the Player to merge attributes and appearance of an Item through [smelting](Smelting.md). Allows the hiring of a Banker for 10,000 notes to access your Safe Deposit Box, a box that allows you to transfer items across your slots. You cannot turn in Artifacts to the Guild Banker.
+Allows the hiring of an Artisan for 10,000. For 800 (a 200 discount), allows the Player to merge attributes and appearance of an Item through [smelting](Transmogrification.md). Allows the hiring of a Banker for 10,000 notes to access your Safe Deposit Box, a box that allows you to transfer items across your slots. You cannot turn in Artifacts to the Guild Banker.
 
  |
 | 
@@ -141,7 +141,7 @@ Quarters
 
  | 
 
-If you die or join in the server and the guild base is active you can spawn in the room. A room with a [Heat Stone Resting Spot](Campfire.md), [Crafting Station](Crafting_Station.md), and some beds.  
+If you die or join in the server and the guild base is active you can spawn in the room. A room with a [Heat Stone Resting Spot](Campfire_Pit.md), [Crafting Station](Crafting_Station.md), and some beds.  
 (You cannot [cook](Food.md) at the Heat Stone Resting Spot)
 
  |
@@ -180,7 +180,7 @@ Song Room
 
  | 
 
-A room that features a [Mantra Lectern](Mantra_Lectern.md) for the for the player to add [Mantra Modifiers](Mantra_Modifiers.md), name mantras, or level them up. The room also includes a Heat Stone Resting Spot and a [Gear Cabinet](Gear_Cabinet.md) to purchase [Training Gears](Training_Gear.md#attunement-training-gears)
+A room that features a [Mantra Lectern](Mantra_Lectern.md) for the for the player to add [Mantra Modifiers](Mantra_Modifiers.md), name mantras, or level them up. The room also includes a Heat Stone Resting Spot and a [Gear Cabinet](Training_Gear.md) to purchase [Training Gears](Training_Gear.md#attunement-training-gears)
 
  |
 | 
@@ -199,7 +199,7 @@ Armory
 
  | 
 
-Allows the hiring of a [Blacksmith](Blacksmith.md) for 1,000, allowing the Player to craft [outfits](Outfits.md), repair their current outfit, turn in schematics, and turn in [ores](Ore.md) for profit. Allows the hiring of a Gunsmith for 1,000, allowing the Player to craft bullet casings.
+Allows the hiring of a [Blacksmith](Blacksmith.md) for 1,000, allowing the Player to craft [outfits](Outfits.md), repair their current outfit, turn in schematics, and turn in [ores](Ores.md) for profit. Allows the hiring of a Gunsmith for 1,000, allowing the Player to craft bullet casings.
 
  |
 | 
@@ -271,7 +271,7 @@ A giant room consisting a large circular arena in the center to fight your guild
 -   Books donated to the [Guild Librarian](Guild_Librarian.md) are saved even if the Library room is removed.
 -   Guild Bases can help train Charisma, as their NPCs count as an audience.
 -   The trees in the Quarters room can be cut down for wood with a lumber axe if struck from the correct angle.
--   The PVE dummy in the Training Hall can be used to build [Chain of Perfection](Chain_of_Perfection.md) stacks.
+-   The PVE dummy in the Training Hall can be used to build [Chain of Perfection](Talent_Quests.md#chain-of-perfection) stacks.
 -   According to Arch\_Mage\[_Citation Needed_\], there is an unknown feature that can permanently turn all Guild Base NPCs into long white-haired Felinors with moustaches.
 -   Voidwalkers hunting a player may be able to teleport to their Guild Base. If this happens, the player receives the message, "This is no longer a safehaven."\[Confirmation needed\]
 -   As of the March 21st, 2026 update, [Songwrights](Songwright.md) were removed from Guild Bases. They previously allowed players to upgrade mantras inside their Guild Base instead of visiting [Attunement Trainers](Attunement_Trainers.md), though at a higher cost.

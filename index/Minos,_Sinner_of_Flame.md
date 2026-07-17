@@ -17,13 +17,13 @@ categories: [Enemies, The Starkindred Church, Enemies with Oaths, Individuals wi
 
 ## Description
 
-Minos, Sinner of Flame, is a powerful [Starkindred](Starkindred.md) apostate located in [Summer Isle](Summer_Isle.md). They must be defeated for [Starkindred](Starkindred.md) progression.
+Minos, Sinner of Flame, is a powerful [Starkindred](Oath%253A_Starkindred.md) apostate located in [Summer Isle](Summer_Isle.md). They must be defeated for [Starkindred](Oath%253A_Starkindred.md) progression.
 
   
 
 ## Moveset
 
-Minos' arsenal consists of a [True Seraph Spear](True_Seraph_Spear.md) along with the [Flamecharm](Flamecharm.md) attunement and [Starkindred](Starkindred.md) Oath:
+Minos' arsenal consists of a [True Seraph Spear](True_Seraph_Spear.md) along with the [Flamecharm](Flamecharm.md) attunement and [Starkindred](Oath%253A_Starkindred.md) Oath:
 
 | Name/Danger | Description |
 | --- | --- |

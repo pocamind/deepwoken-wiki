@@ -37,7 +37,7 @@ categories: [Weapons, Criticals with M1 tag, Greathammers, Weapons with Unique C
 
 ## Description
 
-The Enforcer's Hammer is a [Greathammer](Weapons.md) that can be dropped from [The Enforcer](The_Enforcer.md). It requires Power 6, 80 Heavy Weapons and 25 Strength to wield. The Enforcer's Hammer has a base damage of 25 and a heavy scaling of 9. Notably, the Enforcer's Hammer also has 10% armor penetration and 20% chip damage.
+The Enforcer's Hammer is a [Greathammer](Weapons.md) that can be dropped from [The Enforcer](Enforcer.md). It requires Power 6, 80 Heavy Weapons and 25 Strength to wield. The Enforcer's Hammer has a base damage of 25 and a heavy scaling of 9. Notably, the Enforcer's Hammer also has 10% armor penetration and 20% chip damage.
 
 ## Critical
 
@@ -47,4 +47,4 @@ All four hits have a scaled damage multiplier of 0.5x. The first hit of this cri
 
 The critical has a cooldown of **7 seconds.**
 
-This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects. This critical is also shared with [Enforcer's Blade](<Enforcer's_Blade.md>), as well as the [Enforcer's Axe](<Enforcer's_Axe.md>).
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects. This critical is also shared with [Enforcer's Blade](<Enforcer's_Blade.md>), as well as the [Enforcer's Axe](<Enforcer's_Axe.md>).

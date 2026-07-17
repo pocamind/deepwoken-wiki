@@ -37,7 +37,7 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Swords, Wea
 
 ## Description
 
-The Warden's Ceremonial Sword is a midgame Medium weapon and can be obtained from chests from [Fort Merit](Fort_Merit.md), [The Duke](Duke_Erisia.md) and [The Depths](The_Depths.md). Its critical is a dash followed by a wide slash, similar to the [Prominence Draw](Prominence_Draw.md) Mantra.
+The Warden's Ceremonial Sword is a midgame Medium weapon and can be obtained from chests from [Fort Merit](Fort_Merit.md), [The Duke](Duke_Ishamon_Erisia.md) and [The Depths](The_Depths.md). Its critical is a dash followed by a wide slash, similar to the [Prominence Draw](Attunement-less.md#prominence-draw) Mantra.
 
 ## Critical
 
@@ -47,10 +47,10 @@ Has a 1.25x scaled damage multiplier on the first hit, and then a 0.75x scaled d
 
 The critical has a cooldown of **6 seconds**, even after the follow-up critical is landed.
 
-This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 
 -   Has the second fastest medium sword swing speed in the game, alongside the [Falchion](Falchion.md), but is beat by the [Scimitar](Scimitar.md).
--   Has similar stats to the [Alloyed Falchion](Alloyed_Falchion.md), differing only by having 1 more base damage, a lower stat requirement, a unique critical, and by the lack of innate pen.
+-   Has similar stats to the [Alloyed Falchion](Falchion.md), differing only by having 1 more base damage, a lower stat requirement, a unique critical, and by the lack of innate pen.
 -   It's model is a slight redesign of the oldest model for [Curved Blade of Winds](Curved_Blade_of_Winds.md), with a slight change in the color and type of handguard, the color of the handle and the width of the blade.

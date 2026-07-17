@@ -2,7 +2,7 @@
 // nodes keyed by wiki title. Deterministic
 // usage: node .utils/bundle.mjs
 import { readFileSync, writeFileSync, mkdirSync, readdirSync } from "node:fs";
-import { join, dirname } from "node:path";
+import { join, dirname, posix } from "node:path";
 import { fileURLToPath } from "node:url";
 import { pathToFileURL } from "node:url";
 
@@ -41,13 +41,48 @@ function* walk(dir, rel = "") {
     }
 }
 
+// the repo keeps GitHub-navigable relative .md links; bundle content rewrites
+// them to the node paths agents pass to wiki_read. markdown links and hrefs
+// inside kept-HTML tables both count. unresolvable targets are left untouched.
+const MD_LINK = /\]\(<?([^)<>#\s][^)<>#]*\.md)(#[^)>]*)?>?\)/g;
+const HTML_HREF = /href="([^"#]+\.md)(#[^"]*)?"/g;
+
+function rewriteLinks(body, dir, fileToTitle) {
+    const resolve = (dest) => {
+        if (/^[a-z]+:/i.test(dest)) return null;
+        try {
+            const rel = posix.normalize(posix.join(dir === "." ? "" : dir, decodeURIComponent(dest)));
+            return fileToTitle.get(rel) ?? null;
+        } catch {
+            return null;
+        }
+    };
+    return body
+        .replace(MD_LINK, (m, dest, frag = "") => {
+            const title = resolve(dest);
+            if (title === null) return m;
+            const path = title + frag;
+            return /[()\s'"]/.test(path) ? `](<${path}>)` : `](${path})`;
+        })
+        .replace(HTML_HREF, (m, dest, frag = "") => {
+            const title = resolve(dest);
+            return title === null ? m : `href="${title.replace(/"/g, "&quot;")}${frag}"`;
+        });
+}
+
 export function buildBundle() {
     const nodes = {};
     const node = (key) => (nodes[key] ??= {});
-    let pages = 0;
 
+    const docs = [];
+    const fileToTitle = new Map();
     for (const rel of walk(INDEX)) {
         const { fm, body } = parseFrontmatter(readFileSync(join(INDEX, rel), "utf8"));
+        docs.push({ rel, fm, body });
+        fileToTitle.set(rel, fm.title);
+    }
+
+    for (const { rel, fm, body } of docs) {
         const title = fm.title;
         Object.assign(node(title), {
             title,
@@ -56,9 +91,8 @@ export function buildBundle() {
             file: "index/" + rel,
             ...(fm.categories?.length ? { categories: fm.categories } : {}),
             ...(fm.notices?.length ? { notices: fm.notices } : {}),
-            content: body,
+            content: rewriteLinks(body, posix.dirname(rel), fileToTitle),
         });
-        pages++;
 
         // register the title in its ancestor folders, creating them as needed
         const segs = title.split("/");
@@ -69,6 +103,7 @@ export function buildBundle() {
             cur = cur ? cur + "/" + seg : seg;
         }
     }
+    const pages = docs.length;
 
     for (const n of Object.values(nodes)) n.children?.sort();
     const sorted = Object.fromEntries(Object.keys(nodes).sort().map((k) => [k, nodes[k]]));

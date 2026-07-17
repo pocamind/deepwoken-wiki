@@ -22,7 +22,7 @@ An Etrean Soldier is an enemy NPC that can only be found in the following events
 -   Etrean Soldiers vs Knives of Eylis Pirates ([The Aratel Sea](The_Aratel_Sea.md)/[The Etrean Sea](The_Etrean_Sea.md))
 -   Etrean Soldiers vs Authority Footsoldiers ([Upper Erisia](Upper_Erisia.md))
 -   Invasion of Etris ([Etris](Etris.md))
--   Etrean Soldiers vs Hive Scouts ([Starswept Valley](Starswept_Valley.md))
+-   Etrean Soldiers vs Hive Scouts ([Starswept Valley](The_Starswept_Valley.md))
 -   Etrean ambush (Anywhere)
 
 An Etrean Soldier wears a purple uniform with their aspect being [Etrean](Etrean.md). They can also appear younger or older than 40 years old.
@@ -79,7 +79,7 @@ An Etrean Soldier's arsenal only consists of a [Battleaxe](Battleaxe.md) or [Rit
 
  | A powerful wind blast.
 
--   Applies [Suffocation](Suffocation.md) on hit, disabling Mantra casts.
+-   Applies [Suffocation](Status_Effects.md#suffocate) on hit, disabling Mantra casts.
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable

@@ -28,7 +28,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Solborn** is a playable [Memento](Memento.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. It is unlocked by destroying the throne of [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) in his fight.
+**Solborn** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. It is unlocked by destroying the throne of [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) in his fight.
 
 This Memento gives the user access to a spawnable Phoenix that normally acts similarly to a campfire but can be commanded to attack. Additionally, a lot of this Memento's abilities use the _Heartfire Gauge_, a gauge that lies above your posture bar, similar to Specter Path's Spectral Gauge.
 
@@ -118,9 +118,9 @@ N/A
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Inflicts Burn.
 -   Breaks destructible objects on hit.
--   Can be modified with [Vibrant Gems](Vibrant_Gem.md), causing the attack to destroy more environment.
--   While having [Starkindred](Starkindred.md) wings activated, Fire Blade now launches the user upward before releasing a large plume of flames after a long windup.
-    -   A [Reversal Spark](Reversal_Spark.md) can be used to negate this variation, allowing you to use normal fire blade with wings.
+-   Can be modified with [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers), causing the attack to destroy more environment.
+-   While having [Starkindred](Oath%253A_Starkindred.md) wings activated, Fire Blade now launches the user upward before releasing a large plume of flames after a long windup.
+    -   A [Reversal Spark](Mantra_Modifiers.md#sparks) can be used to negate this variation, allowing you to use normal fire blade with wings.
 
  |
 | 
@@ -162,13 +162,13 @@ N/A
 -   Deals 1 posture damage per hit.
 -   Has 5.13x PvE scaling (multiply damage dealt by 5.13 for PvE damage).
 -   Inflicts Burn.
--   Breaks tiles, including the [Hidden Village](Hidden_Village.md) Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Barricade.
+-   Breaks tiles, including the [Hidden Village](The_Hidden_Village.md) Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Barricade.
 -   Lights campfires.
 -   Doesn't not apply hit stun, allowing to use it on people stunned by Equalizer and them not being freed early. (Need testing)
 -   Propels the user backward if cast while jumping/walking backward or in water.
--   Can be modified with [Drift](Drift_Shard.md)/[Rush Shards](Rush_Shard.md) to make the bullets fly faster + farther.
--   Can be modified with a [Round Spark](Round_Spark.md), causing the bullets to split into two, reducing the base damage by 45%.
--   Can be modified with a [Blast Spark](Blast_Spark.md), causing bullets to explode opponents after 6 hits, but reducing the base damage by 25%. Explosion auto grips if the opponent is low.
+-   Can be modified with [Drift](Mantra_Modifiers.md#regular-modifiers)/[Rush Shards](Mantra_Modifiers.md#regular-modifiers) to make the bullets fly faster + farther.
+-   Can be modified with a [Round Spark](Mantra_Modifiers.md#sparks), causing the bullets to split into two, reducing the base damage by 45%.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), causing bullets to explode opponents after 6 hits, but reducing the base damage by 25%. Explosion auto grips if the opponent is low.
 -   Can be canceled early through right clicking.
 
  |
@@ -184,10 +184,10 @@ N/A
 -   Meteor Impact \[Common Talent\] **100** \- Aerial moves will follow up into a devastating slam.
     -   Deals 10 flat Flamecharm damage on top of your weapon's scaled damage.
     -   Meteor Impact's damage can be buffed via damage modifiers, but does not scale on your Flamecharm investment.
-    -   Meteor impact is used by light attacking after using some mantras that end with both user and victim suspended in air. Most notably for this Memento, this includes [Rising Flame](Rising_Flame.md) and [Flame Leap](Flame_Leap.md), though many other Mantras proc this Talent. See the [Talents](Talents.md#meteor-impact) page for more info.
+    -   Meteor impact is used by light attacking after using some mantras that end with both user and victim suspended in air. Most notably for this Memento, this includes [Rising Flame](Flamecharm.md#rising-flame) and [Flame Leap](Flamecharm.md#flame-leap), though many other Mantras proc this Talent. See the [Talents](Talents.md#meteor-impact) page for more info.
 
 -   Unyielding Inferno \[Common Talent\] **100** \- Your flames burn just as strong even in the fiercest of storms.
-    -   Negates the innate 10% damage debuff Flamecharm Mantras receive during the [rain](Rain.md).
+    -   Negates the innate 10% damage debuff Flamecharm Mantras receive during the [rain](Environmental_Hazards.md).
     -   Prevents your burn from going out in rain.
 
   
@@ -262,8 +262,8 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 -   Has 9.17x PvE scaling (multiply damage dealt by 9.17 for PvE damage).
 -   Inflicts Burn and Ragdolls.
 -   Its distance is reduced by 60% when used in water.
--   Can be modified with [Crystal](Crystal_Lens.md)/[Perfect Lenses](Perfect_Lens.md) to cause the Mantra to fly farther (at the same pace).
--   Can be modified with [Glass](Glass_Stone.md)/[Magnifying Stones](Magnifying_Stone.md) to increase the hitbox size.
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to cause the Mantra to fly farther (at the same pace).
+-   Can be modified with [Glass](Mantra_Modifiers.md#regular-modifiers)/[Magnifying Stones](Mantra_Modifiers.md#regular-modifiers) to increase the hitbox size.
     -   This reduces the damage dealt however.
 
  |
@@ -364,7 +364,7 @@ N/A
 -   When Flame of Denial procs, any burn on your character will be extinguished.
 -   Can be upgraded with the **Denial Repulse** Talent, causing a 20 Flamecharm damage AOE explosion with a 0.6s windup upon proccing Flame of Denial. This explosion cannot be parried nor dodged, but can be blocked, dealing 5 posture damage.
 -   Denial Repulse's explosion has 5 Flamecharm scaling, dealing 30 Flamecharm damage at 100 Flamecharm.
--   While you can modify [Vibrant Gems](Vibrant_Gem.md) onto Flame of Denial, they won't do anything except for increase the amount of ritual keys required to cast it.
+-   While you can modify [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) onto Flame of Denial, they won't do anything except for increase the amount of ritual keys required to cast it.
 
  |
 | 
@@ -408,7 +408,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 -   Inflicts Burn.
 -   Does not send the user into the air if missed.
 -   Can be upgraded with the "**Meteor Impact**" and "**Phoenix Impact**" Talents, allowing you to follow up with a meteor strike.
--   Can be modified with [Cloud](Cloudstone.md)/[Stratus Stones](Stratus_Stone.md) to make the hitbox larger.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to make the hitbox larger.
 
  |
 
@@ -501,7 +501,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 -   Mantra continues if the second hit isn't parried.
     -   _Autoparry frames on the second hit will **NOT** cancel the Mantra._
     -   _Mantra also continues after the user gets knocked._
--   Can be modified with a [Reversal Spark](Reversal_Spark.md), acting as a pull/grab, but dealing less damage.
+-   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks), acting as a pull/grab, but dealing less damage.
 
  |
 
@@ -597,7 +597,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
     -   This effect has a very small activation window, as if you get hit too early in the windup the Mantra will just be canceled. This also works on fall damage.
 -   Knocks enemies back.
 -   Inflicts Burn.
--   Can be modified with [Cloud](Cloudstone.md)/[Stratus Stones](Stratus_Stone.md) to increase the size.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the size.
 -   Can be modified with a Spring Spark, causing the repulsion to be stored in a projectile, dealing increased damage and posture damage.
 -   Can be modified with a Blast Spark, seems to have no effect?
 
@@ -686,7 +686,7 @@ Oath [ResistanceOath](Oaths.md)
  |
 | 
 
-**Effect:** Similar to the Galebreathe Mantra [Tornado](Tornado.md), but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits.
+**Effect:** Similar to the Galebreathe Mantra [Tornado](Galebreathe.md#tornado), but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits.
 
 -   Deals 32 (3.2\*10) Oath damage with 1.65 Strength scaling.
 -   Has a 0.6 second windup (with wings) and a 15 second cooldown.
@@ -775,9 +775,9 @@ Defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_
 -   Has a large hitbox both horizontally and backwards.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Inflicts Burn.
--   Shares a cooldown with all of [grab Mantras](Grab_Mantras.md).
+-   Shares a cooldown with all of [grab Mantras](List_of_Grab_Mantras.md).
 -   Travels for 0.6 seconds.
--   [Crystal](Crystal_Lens.md)/[Perfect Lens](Perfect_Lens.md) increase the duration (distance travelled).
+-   [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lens](Mantra_Modifiers.md#regular-modifiers) increase the duration (distance travelled).
 
  |
 
@@ -899,7 +899,7 @@ Defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
 -   Has 9.14x PvE scaling (multiply damage dealt by 9.14 for PvE damage).
 -   Inflicts Burn.
 -   User maintains mobility during wind-up.
--   Can be modified with [Crystal](Crystal_Lens.md)/[Perfect Lenses](Perfect_Lens.md) to make the hitbox bigger.
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to make the hitbox bigger.
 
  |
 

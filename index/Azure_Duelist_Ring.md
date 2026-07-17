@@ -29,4 +29,4 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Azure Duelist Ring** is a [Relic](Relic.md) Ring [Equipment](Equipment.md) that increases the user's Mantra damage by 20% if they cast them in quick succession of parrying an attack.
+**Azure Duelist Ring** is a [Relic](Relics.md) Ring [Equipment](Equipment.md) that increases the user's Mantra damage by 20% if they cast them in quick succession of parrying an attack.

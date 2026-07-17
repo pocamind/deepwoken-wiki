@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oath.md): Bladeharper** is one of the 17 obtainable Oaths in _Deepwoken_. It's known for the user's ability to gain extreme proficiency with its slash-based attacks, and the ability to massively buff its offensive means by landing consecutive hits or through sacrificing health.
+**[Oath](Oaths.md): Bladeharper** is one of the 17 obtainable Oaths in _Deepwoken_. It's known for the user's ability to gain extreme proficiency with its slash-based attacks, and the ability to massively buff its offensive means by landing consecutive hits or through sacrificing health.
 
 “ Within your mind, many futures present themselves before you. Only your own must stand supreme. ”
 
@@ -38,7 +38,7 @@ The Bladeharper Oath is a result of the player conducting a **Reflection Ritual*
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/2MkMAHH03x4)._
 
-_Bladeharper **can** be reobtained if you [Oathbreak](Oathbreak.md) it._
+_Bladeharper **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it._
 
 ## Progression
 
@@ -68,7 +68,7 @@ Upon obtaining this Oath, two snake bracelets will wrap around your arms.
 ### Talents
 
 -   **Lithe Step** - When Sprinting, roll-cancel and instantly vanish and surge with unmatched speed
-    -   Makes the player briefly invisible, similar to [Rush of Ancients](Rush_of_Ancients.md).
+    -   Makes the player briefly invisible, similar to [Rush of Ancients](Oath%253A_Jetstriker.md#rush-of-ancients).
     -   Lithe Step will not provide immunity frames to your dodge, but grants a noticeable speed boost during it.
     -   Lithe Step has a 3 second cooldown. This cooldown is reduced to 1 second while in True Strength.
 -   Obtainment: Obtained along with the Oath, after beating the first Mind Reflection fight.
@@ -77,7 +77,7 @@ Upon obtaining this Oath, two snake bracelets will wrap around your arms.
     -   Deals a total of 24 Oath & Slash damage (hits 6 times with each hit dealing 4 damage).
     -   Proc condition is removed and damage is increased if in True Strength.
     -   Deals 6.5 Oath & Slash damage per tick in True Strength, dealing 39 damage total.
-    -   Applies to all forms of uppercuts, including Mantras such as [Rising Flame](Rising_Flame.md), Round Spark [Skyshatter Kick](Skyshatter_Kick.md), or certain weapon criticals such as the aerial variant of the [Wraithclaw](Wraithclaw.md) critical.
+    -   Applies to all forms of uppercuts, including Mantras such as [Rising Flame](Flamecharm.md#rising-flame), Round Spark [Skyshatter Kick](Attunement-less.md#skyshatter-kick), or certain weapon criticals such as the aerial variant of the [Wraithclaw](Wraithclaw.md) critical.
     -   Obtainment: Obtained after beating the second Mind Reflection fight.
 
 -   **Untouchable** - By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration.
@@ -99,7 +99,7 @@ Upon obtaining this Oath, two snake bracelets will wrap around your arms.
     -   While in Reveal's True Strength state, you passively build up [Wither](Talents.md#wither) (reduced max HP) on yourself.
     -   If you go below 10% HP, Reveal will automatically turn off.
     -   This takes about **2.5 SECONDS TO ACTIVATE**. Use it wisely, or not at all.
-    -   Oddly enough, this procs things that require you to take damage like [Agitating Spark](Talents.md#agitating-spark) and [Prediction](Prediction.md) despite Reveal not actually dealing damage. Your current HP does not need to get replaced with Wither for this to take effect, and other sources of Wither application/True Strength do not do this.
+    -   Oddly enough, this procs things that require you to take damage like [Agitating Spark](Talents.md#agitating-spark) and [Prediction](Attunement-less.md#prediction) despite Reveal not actually dealing damage. Your current HP does not need to get replaced with Wither for this to take effect, and other sources of Wither application/True Strength do not do this.
 -   Obtainment: Obtained after beating the third Mind Reflection fight along with Float Like a Butterfly
 
 ### Mantras
@@ -217,9 +217,9 @@ Defeat the final Mind Reflection
 
  |
 
-Note: Attacks with multiple damage typings will be resisted by whatever resistance is higher (e.g. if you had 35% Blunt resistance and 30% Wind resistance, you'd resist 35% of Rising Wind's damage). In this case, all of Bladeharper's attacks deal Oath and Physical damage. This means they will be resisted by your Physical resistance unless you're using [Oathless](Oathless.md) and you have less than 20% Physical resistance.
+Note: Attacks with multiple damage typings will be resisted by whatever resistance is higher (e.g. if you had 35% Blunt resistance and 30% Wind resistance, you'd resist 35% of Rising Wind's damage). In this case, all of Bladeharper's attacks deal Oath and Physical damage. This means they will be resisted by your Physical resistance unless you're using [Oathless](Oath%253A_Oathless.md) and you have less than 20% Physical resistance.
 
-Note: Attacks with multiple damage typings will be resisted by whatever resistance is higher (e.g. if you had 35% Blunt resistance and 30% Wind resistance, you'd resist 35% of Rising Wind's damage). In this case, all of Bladeharper's attacks deal Oath and Physical damage. This means they will be resisted by your Physical resistance unless you're using [Oathless](Oathless.md) and you have less than 20% Physical resistance.
+Note: Attacks with multiple damage typings will be resisted by whatever resistance is higher (e.g. if you had 35% Blunt resistance and 30% Wind resistance, you'd resist 35% of Rising Wind's damage). In this case, all of Bladeharper's attacks deal Oath and Physical damage. This means they will be resisted by your Physical resistance unless you're using [Oathless](Oath%253A_Oathless.md) and you have less than 20% Physical resistance.
 
 ## Strategy
 
@@ -239,7 +239,7 @@ Finally the most important piece of advice, stay calm, as you would with any and
 
 ## Trivia
 
--   The statue in the center of the [Blade Within](Blade_Within.md) will be the weapon you had equipped when you were teleported.
+-   The statue in the center of the [Blade Within](The_Blade_Within.md) will be the weapon you had equipped when you were teleported.
 -   The Oath bracelets were formerly called "Snakerings" (as viewed from the [Dye Packet](Dye_Packet.md) UI), which was later changed to "Bladeharper Serpents," then changed again to "Bladeharper Cosmetic".
 -   Bladeharper was originally an oath used by powerful swordsmen that trained in the [Isle of Vigils](Isle_of_Vigils.md), but has seemingly faded away from their culture with time[\[1\]](#cite-note-1)
 -   Its obtainment method is inspired by the way in which Ichigo Kurosaki, the protagonist of BLEACH, obtained his "Bankai" ability.
@@ -248,8 +248,8 @@ Finally the most important piece of advice, stay calm, as you would with any and
 -   Originally, Decimate could not be used on Fist weapons of any kind. This was theorized to be due to Melonbeard's disliking to the Fist weapon class, which he is very open about.
     -   When asked about this, Melonbeard said "No Sukuna build"
         -   Ironically, in Jujutsu Kaisen, Sukuna used to wield a trident spear during the Heian Era, meaning a Sukuna build would've still been possible even with this restriction
-    -   As a carryover from this, you still cannot enter the [Blade Within](Blade_Within.md) while wielding a fist weapon. With that being said, the Oath and all of its abilities function like normal with this weapon type.
--   Strangely, the mirror can use [Tacet Drop Kick](Tacet_Drop_Kick.md) even if you don't have the Mantra or the Murmur, but they won't use weapon Mantras.
+    -   As a carryover from this, you still cannot enter the [Blade Within](The_Blade_Within.md) while wielding a fist weapon. With that being said, the Oath and all of its abilities function like normal with this weapon type.
+-   Strangely, the mirror can use [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick) even if you don't have the Mantra or the Murmur, but they won't use weapon Mantras.
 -   The mirror's moveset doesn't change if you die and go back to fight it again. Additionally it seems to reuse the AI from [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
 -   When [Poser's Ring](<Poser's_Ring.md>) is used, the clone will behave as if it doesn't have the ring.
     -   This is because the mirror is unable to sheathe/unsheathe its weapon, and if Poser's Ring did work, the mirror would be incapable of dealing damage through light attacks and criticals.

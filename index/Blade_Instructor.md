@@ -27,7 +27,7 @@ With the introduction of [Training Mode](Training_Mode.md), they were rendered o
 
 ## Moveset
 
-An Instructor's arsenal consisted of either a [Battleaxe](Battleaxe.md), [Sword](Sword.md), [Mace](Mace.md) or [Iron Spear](Iron_Spear.md):
+An Instructor's arsenal consisted of either a [Battleaxe](Battleaxe.md), [Sword](<Sword_(weapon).md>), [Mace](Mace.md) or [Iron Spear](Iron_Spear.md):
 
 | Name/Danger | Description |
 | --- | --- |
@@ -49,7 +49,7 @@ An Instructor's arsenal consisted of either a [Battleaxe](Battleaxe.md), [Sword]
 
  | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon before firmly slamming it down into the ground.
 
-\[[Sword](Sword.md)\] Performs a windup before thrusting blade forward.  
+\[[Sword](<Sword_(weapon).md>)\] Performs a windup before thrusting blade forward.  
 \[[Iron Spear](Iron_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands.
 
 -   Battleaxe and Mace criticals are not blockable.
@@ -83,7 +83,7 @@ If the Instructor is the one that downs the player they will disappear and the p
 
 -   The Instructor could be killed by using moves that instantly grip opponents when they are on low HP, using certain moves, like Mani Katti, and employing burn. You could also grip him with help of the [Poser's Ring](<Poser's_Ring.md>) with a [Katana](Katana.md) or [Shattered Katana](Shattered_Katana.md), dealing enough damage and then sheathing your katana will knock him and you can grip him.[\[1\]](#cite-note-vigilguardsdgaf-1)
 -   The [Blade Temple Guards](Blade_Temple_Guard.md) did not react should an Instructor be gripped near them.[\[1\]](#cite-note-vigilguardsdgaf-1)
--   Defeating one sometimes grants positive [reputation](Reputation.md) with the [Kingdom of Etrea](Kingdom_of_Etrea.md), usually when you don't get a health pack from killing them.
+-   Defeating one sometimes grants positive [reputation](Reputation.md) with the [Kingdom of Etrea](Etrea.md), usually when you don't get a health pack from killing them.
 -   Gripping them would prompt them to say 'Hey, what do you think you're doing?!'
 -   You could glitch an instructor by starting the spar and not doing anything at all. To fix it, you just needed to defeat them.
 -   There was a secret text bubble that appears if the player is knocked due to hunger or other means while in a battle with him that says "Not bad, but not good enough," which could be due to the Instructor being meant to knock the player.

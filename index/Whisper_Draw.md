@@ -8,11 +8,11 @@ categories: [Mechanics, Mantras]
 
 # Whisper Draw
 
-Whisper Draws are special hands of [Talent](Talent.md) cards that provide the player with [Mantras](Mantras.md). You can usually choose from 2-3 Mantras, a random Mantra or a 'Roll 2', giving you 2 random Talents that are available to you.
+Whisper Draws are special hands of [Talent](Talents.md) cards that provide the player with [Mantras](Mantras.md). You can usually choose from 2-3 Mantras, a random Mantra or a 'Roll 2', giving you 2 random Talents that are available to you.
 
 ## Info
 
-Whisper Draws only present themselves on [powering up to certain levels](Power.md). By the time the player has reached Power 20, they will have been offered 12 Whisper Draws. A Whisper Draw can also be gained through combining two [Talents](Talents.md) into a Mantra at the [Shrine of Unification](Shrine_of_Unification.md).
+Whisper Draws only present themselves on [powering up to certain levels](Power.md). By the time the player has reached Power 20, they will have been offered 12 Whisper Draws. A Whisper Draw can also be gained through combining two [Talents](Talents.md) into a Mantra at the [Shrine of Unification](Deep_Shrines/Shrine_of_Unification.md).
 
 Whisper Draws can also be obtained from specific methods. You can only gain **1** Whisper Draw total from these, as only the first one you complete will grant the Whisper Draw. These tasks are:
 

@@ -92,7 +92,7 @@ This dialogue happens if the player is [Power](Power.md) 1-4.
 
 **Heart of Enmity:**
 
-If 5 players enter the [Depths Trial](Depths_Trial.md) then [Enmity](Enmity.md) shall come to punish you for your ignorance.
+If 5 players enter the [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation) then [Enmity](Heart_of_Enmity.md) shall come to punish you for your ignorance.
 
 <table><tbody><tr><td colspan="4">Dialogue begins</td></tr><tr><td>[Voice of Enmity] <b>These ones deserve true punishment... They seek to make a mockery of this place with sheer numbers.</b></td></tr><tr><td>[Voice of Odium] <b>I suppose we can thin their numbers...</b></td></tr><tr><td>[Voice of Enmity] <b>Despicable. You deem yourselves worthy of a challenge? Allow me to educate you on your folly.</b></td></tr><tr><td colspan="2">[End Dialogue], fight starts</td></tr></tbody></table>
 

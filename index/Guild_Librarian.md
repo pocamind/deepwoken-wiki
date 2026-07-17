@@ -19,7 +19,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The **Guild Librarian** is an [NPC](NPC.md) located inside of [Guild Bases](Guild_Bases.md). They can be hired for 1000 to catalogue [Books](Books.md) for the player to access at anytime.
+The **Guild Librarian** is an NPC located inside of [Guild Bases](Guild_Bases.md). They can be hired for 1000 to catalogue [Books](Books.md) for the player to access at anytime.
 
 ([Book-Checklist](Book-Checklist.md))
 

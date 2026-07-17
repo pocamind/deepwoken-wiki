@@ -26,9 +26,9 @@ This content is not accessible outside of this gamemode.
 
 Elykris is a [Celtor](Celtor.md) NPC. They are investigating [the Ministry](The_Ministry.md)'s presence in [Minityrsa](Minityrsa.md).
 
-They give the quest "Ministry Secrets" that tasks [The Pathfinder](The_Pathfinder.md) to find a field report located inside of [Outpost Antumbra](Outpost_Antumbra.md), by the ladder to [Trial of One](Trial_of_One.md). The quest rewards them with 3 Aces and a Curiosity [Talent](Talent.md) hand.
+They give the quest "Ministry Secrets" that tasks [The Pathfinder](The_Pathfinder.md) to find a field report located inside of [Outpost Antumbra](Outpost_Antumbra.md), by the ladder to [Trial of One](Trial_of_One.md). The quest rewards them with 3 Aces and a Curiosity [Talent](Talents.md) hand.
 
-Elykris wears the old version of the [Darksteel Plate](Darksteel_Plate.md) outfit, a Black [Fur Parka](Fur_Parka.md), a [Black Blindfold](Black_Blindfold.md), and a [Brigand's Bicorn](<Brigand's_Bicorn.md>).
+Elykris wears the old version of the [Darksteel Plate](Darksteel_Plate.md) outfit, a Black [Fur Parka](Fur_Parka.md), a [Black Blindfold](Blindfold.md), and a [Brigand's Bicorn](<Brigand's_Bicorn.md>).
 
 ## Location
 

@@ -85,9 +85,9 @@ The following ways to obtain guild score and the amount earned is listed below:
 | **Score Type** | **Score Earned** | **Score Lost** | **Source** |
 | --- | --- | --- | --- |
 | **PvE** | 
--   3 ([Duke Erisia](Duke_Erisia.md), [Dread Serpent](Dread_Serpent.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Primadon](Primadon.md), [The Ferryman](The_Ferryman.md))
--   5 ([Titus](Titus.md), [Interluminary Parasol](Interluminary_Parasol.md). [Doom of Caeranthil](Doom_of_Caeranthil.md), [Scion of Ethiron](Scion_of_Ethiron.md), [Chaser](Chaser.md))
--   6 ([Elder Primadon](Elder_Primadon.md))
+-   3 ([Duke Erisia](Duke_Ishamon_Erisia.md), [Dread Serpent](Dread_Serpent.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Primadon](Primadon,_Titan_of_the_East.md), [The Ferryman](The_Ferryman.md))
+-   5 ([Titus](Titus_Fulminus_Destellus.md), [Interluminary Parasol](Interluminary_Parasol.md). [Doom of Caeranthil](The_Doom_of_Caeranthil.md), [Scion of Ethiron](Scion_of_Ethiron.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md))
+-   6 ([Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md))
 -   10 ([Heart of Enmity](Heart_of_Enmity.md))
 
  | N/A | 
@@ -122,7 +122,7 @@ In addition to being inside a Faction guild, they cannot obtain any guild score.
 
 -   Being in the same guild as someone with a spawned boat will allow you to spawn on their boat upon dying or resetting your character. You also spawn in the [Guild Base](Guild_Bases.md) if you have the Quarters room.
 -   Nemesis, Radiant Kick, Taunt and Ankle Cutter all don't work on guildmates. This helps prevent some friendly fire during guild wars.
--   [Canors](Canor.md)' Innate [Talent](Talent.md) and the Talent "Give and Take," makes you deal and take less damage from any allies.
+-   [Canors](Canor.md)' Innate [Talent](Talents.md) and the Talent "Give and Take," makes you deal and take less damage from any allies.
 -   [Resurrection](Resurrection.md) and [Linkstrider](Oath%253A_Linkstrider.md) allows you to see your Allies health bars. Know that not all of your guildmates may be considered as an "ally". To set someone to ally forcefully, you can make a vow of allegiance with them.
 -   Shout feature, allowing you to read and send messages between any guildmate or allies via [Vow of Allegiance](Combat_Mechanics.md) in the server.
     -   In public servers, shouts are sent by prefixing "!" (without quotation marks) to your messages.

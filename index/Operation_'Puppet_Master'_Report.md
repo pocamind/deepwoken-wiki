@@ -10,7 +10,7 @@ categories: [Books]
 
 ## Description
 
-_**Operation 'Puppet Master' Report**_ is a [Book](Book.md).
+_**Operation 'Puppet Master' Report**_ is a [Book](Books.md).
 
 ## Text
 

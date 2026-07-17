@@ -22,7 +22,7 @@ This content is not accessible outside of this gamemode.
 
 Self is located in the [Fragments of Self](Fragments_of_Self.md) past the stone arches, a reflection of the player's character awaits it's final confrontation. Talking to it will end the existence of said character.
 
-Self takes on appearance of player's character, with the [outfit](Outfit.md), all the [equipment](Equipment.md) and [aspect](Aspect.md) features.
+Self takes on appearance of player's character, with the [outfit](Outfits.md), all the [equipment](Equipment.md) and [aspect](Aspects.md) features.
 
 ## Dialogue
 

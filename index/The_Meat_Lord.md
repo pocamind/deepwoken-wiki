@@ -30,14 +30,14 @@ The Meat Lord can be found at the following places:
 -   [Pathfinder's Respite](<Pathfinder's_Respite.md>)
 -   [Saramaed Summit](Saramaed_Summit.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Starswept Valley](Starswept_Valley.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [Summer Isle](Summer_Isle.md)
--   [Temple of the Forgotten Flame](Temple_of_the_Forgotten_Flame.md)
+-   [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md)
 -   [The Garden Reservoir](The_Garden_Reservoir.md)
 -   [The Hidden Village](The_Hidden_Village.md)
 -   [Towerstruck Lands](Towerstruck_Lands.md)
 -   [Upper Erisia](Upper_Erisia.md)
--   [Viper's Jaw](<Viper's_Jaw.md>)
+-   [Viper's Jaw](<The_Viper's_Jaw.md>)
 
 ## Dialogue
 

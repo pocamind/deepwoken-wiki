@@ -49,7 +49,7 @@ Vice Warden Morredh is located in the dining room near the entrance of the Fort 
 
 **Obtaining Chainwarden:**
 
-If the player meets the requirement to obtain [Chainwarden](Chainwarden.md).
+If the player meets the requirement to obtain [Chainwarden](Oath%253A_Chainwarden.md).
 
 **Quest Start:**
 
@@ -61,7 +61,7 @@ If the player meets the requirement to obtain [Chainwarden](Chainwarden.md).
 
 **Has Chainwarden:**
 
-If the player has [Chainwarden](Chainwarden.md).
+If the player has [Chainwarden](Oath%253A_Chainwarden.md).
 
 **In-Progress:**
 

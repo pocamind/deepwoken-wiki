@@ -10,7 +10,7 @@ categories: [Books]
 
 ## Description
 
-_**The Hammer's Call**_ is a [Book](Book.md).
+_**The Hammer's Call**_ is a [Book](Books.md).
 
 ## Text
 

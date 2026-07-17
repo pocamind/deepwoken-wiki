@@ -19,7 +19,7 @@ notices:
 
 Songseekers are a religious [group](Factions_&_Groups.md), bound by the goal of wielding [The Song](Glossary.md#the-song) like in the [Old World](Timeline.md). They believe in reincarnation by "returning to The Song", although, it's actually unknown whether or not that is true.
 
-They seem to have a [mistress](Tzaraan.md), which suggests that there's some kind of a hierarchy, but it's yet unknown what her powers and beliefs are.
+They seem to have a [mistress](<Tz'araan.md>), which suggests that there's some kind of a hierarchy, but it's yet unknown what her powers and beliefs are.
 
 ## Notable Members
 

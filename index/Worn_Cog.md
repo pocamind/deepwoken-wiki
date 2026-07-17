@@ -22,4 +22,4 @@ categories: [Items, Drops, Ingredients]
 
 ## Description
 
-The **Worn Cog** is an ingredient dropped from the [Mechalodaunt](Mechalodaunt.md) and is used to make the [Ignition Deepdelver](Ignition_Deepdelver.md) Master Outfit. It can be found at the [Saramaed Hollow](Saramaed_Hollow.md), [Saramaed Summit](Saramaed_Summit.md), or in the [Diluvian Mechanism](Diluvian_Mechanism.md).
+The **Worn Cog** is an ingredient dropped from the [Mechalodaunt](Mechalodaunt.md) and is used to make the [Ignition Deepdelver](Ignition_Deepdelver.md) Master Outfit. It can be found at the [Saramaed Hollow](Saramaed_Hollow.md), [Saramaed Summit](Saramaed_Summit.md), or in the [Diluvian Mechanism](The_Diluvian_Mechanism.md).

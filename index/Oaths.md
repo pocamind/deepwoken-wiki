@@ -150,51 +150,51 @@ OATHBREAKING REMOVES YOUR WEAPON IF ITS EQUIPPED BELOW REQUIREMENTS.
 
 Upon breaking an Oath, unique effects will occur:
 
--   [Arcwarder](Arcwarder.md): ??? - "Your connection to the Arc Suit withers, cut off at the stem. An expensive choice to make."
+-   [Arcwarder](Oath%253A_Arcwarder.md): ??? - "Your connection to the Arc Suit withers, cut off at the stem. An expensive choice to make."
     -   You lose some reputation with [The Ignition Union](The_Ignition_Union.md).
     -   Upon talking to Delta he'll say "You've got some nerve showin' your face to me after trashing an Arc Suit like that. Called an _Oath_ for a reason, mate."
     -   Arcwarder **cannot** be reobtained if broken.
 
--   [Bladeharper](Bladeharper.md): The Blade Within - "Was this not the future we sought? Perhaps not."
+-   [Bladeharper](Oath%253A_Bladeharper.md): The Blade Within - "Was this not the future we sought? Perhaps not."
     -   Bladeharper **can** be reobtained if broken.
 
--   [Blightsurger](Blightsurger.md): \[No Available Dialogue\]
+-   [Blightsurger](Oath%253A_Blightsurger.md): \[No Available Dialogue\]
     -   Blighsurger **can** be reobtained if broken.
 
--   [Blindseer](Blindseer.md): ??? - "The world grows darker once more. The night rolls in, and so do its terrors."
+-   [Blindseer](Oath%253A_Blindseer.md): ??? - "The world grows darker once more. The night rolls in, and so do its terrors."
     -   Blindseer **can** be reobtained if broken.
 
--   [Contractor](Contractor.md): [Zi'eer](The_Lord_Regent.md) - "Don't bother showing your face again. I had little faith in you to begin with"
+-   [Contractor](Oath%253A_Contractor.md): [Zi'eer](The_Lord_Regent.md) - "Don't bother showing your face again. I had little faith in you to begin with"
     -   You instantly become maximum negative reputation (villain) with [Etrea](Etrea.md) and [The Ministry](The_Ministry.md).
     -   Will get instantly gripped if by chance you stumble into the courtroom of the Lord Regent, meaning it **cannot** be reobtained if broken.
     -   You are regranted access to [Castle Light](Castle_Light.md).
 
--   [Chainwarden](Chainwarden.md): [Vice Warden Morredh](Vice_Warden_Morredh.md) - "Another deserter? You're pathetic."
+-   [Chainwarden](Oath%253A_Chainwarden.md): [Vice Warden Morredh](Vice_Warden_Morredh.md) - "Another deserter? You're pathetic."
     -   Chainwarden **cannot** be reobtained after breaking it, as the Vice Warden will insult you upon interaction
 
--   [Dawnwalker](Dawnwalker.md): [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) - "It seems you lack commitment. Not everyone can be a beacon. Some are fated to be retreat into the dark."
+-   [Dawnwalker](Oath%253A_Dawnwalker.md): [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) - "It seems you lack commitment. Not everyone can be a beacon. Some are fated to be retreat into the dark."
     -   You lose some reputation with [The Divers](The_Divers.md).
     -   Upon talking to her again she'll prompt the dialogue "Ah, the flake is back again. What do you want?"
     -   You **can** reobtain Dawnwalker after breaking it. However, the price will be 60 [Medallions](Kyrsan_Medallions.md) instead of 30.
 
--   [Fadetrimmer](Fadetrimmer.md): Your Scissors - "Whatever, man."
+-   [Fadetrimmer](Oath%253A_Fadetrimmer.md): Your Scissors - "Whatever, man."
     -   Fadetrimmer **can** be reobtained if broken.
 
--   [Jetstriker](Jetstriker.md): [Alirian](Alirian.md) - "Huh. And here I thought I'd found a true rival. I had fun while it lasted, friend."
+-   [Jetstriker](Oath%253A_Jetstriker.md): [Alirian](Alirian.md) - "Huh. And here I thought I'd found a true rival. I had fun while it lasted, friend."
     -   Talking to [Alirian](Alirian.md) will prompt the following conversation:
         -   "Oh you're back? You kinda hurt my feelings when you broke off our rivalry like that." / **Please forgive me.**
         -   "Hmm. Okay, sure. You'll still make a good rival. Want to strike up an Oath again?" / **I'll follow your oath, my dear rival.**
             -   You'll **regain** [Jetstriker](Oath%253A_Jetstriker.md).
         -   "This is our path then, my friendly nemesis! To be a [Jetstriker](Oath%253A_Jetstriker.md), one who walks with the Song's flow itself.. ah, it's so freeing."
 
--   [Linkstrider](Linkstrider.md): ??? - "_Like two halves of an image coming together, you once more feel like at home in this reality. Your view of greater dimensions has retreated away into the horizon_."
+-   [Linkstrider](Oath%253A_Linkstrider.md): ??? - "_Like two halves of an image coming together, you once more feel like at home in this reality. Your view of greater dimensions has retreated away into the horizon_."
     -   This Oath **can** be reobtained if broken.
 
--   [Oathless](Oathless.md): [Cerulean](Cerulean.md) - "The way opens more to you, my disciple. Safe travels."
+-   [Oathless](Oath%253A_Oathless.md): [Cerulean](Cerulean.md) - "The way opens more to you, my disciple. Safe travels."
     -   Talking to Cerulean will prompt the dialogue "Ah, my friend, it is good to see you. Have you need of anything? / **I'd like to become Oathless once more.**
         -   You'll **regain** [Oathless](Oath%253A_Oathless.md).
 
--   [Saltchemist](Saltchemist.md): ??? - "_Your body feels still. Inert. The Panacea's effects have worn off_."
+-   [Saltchemist](Oath%253A_Saltchemist.md): ??? - "_Your body feels still. Inert. The Panacea's effects have worn off_."
     -   Saltchemist **can** be reobtained if broken.
 
 -   [Silentheart](Oath%253A_Silentheart.md): The Voice of Dread - "This matters not. Your heart has already been claimed."
@@ -202,17 +202,17 @@ Upon breaking an Oath, unique effects will occur:
     -   If you attempt to regain the Oath, [The Dreadstar](The_Dreadstar.md) will not spawn after you survive the Ghosts on the [Beloved Zofia](Beloved_Zofia.md).
     -   Silentheart **cannot** be reobtained if broken.
 
--   [Starkindred](Starkindred.md): [Samael](Samael.md) - "The Stars were never yours to lay claim to. You're just another heretic rejected by the blood."
+-   [Starkindred](Oath%253A_Starkindred.md): [Samael](Samael.md) - "The Stars were never yours to lay claim to. You're just another heretic rejected by the blood."
     -   Talking to [Samael](Samael.md) again will cause him to say "Insolent worm. Leave."
     -   Starkindred **cannot** be reobtained if broken.
 
--   [Saintsworn](Saintsworn.md) - \*The connection slips away entirely, leaving you standing alone, free but at what cost?\*
+-   [Saintsworn](Oath%253A_Saintsworn.md) - \*The connection slips away entirely, leaving you standing alone, free but at what cost?\*
     -   Saintsworn **cannot** be reobtained if broken.
 
--   [Soulbreaker](Soulbreaker.md): [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) - \*Something awful holds your mind in its grip.\* "THEN IT IS SO, YOU SHALL FORGET THE PROMISE YOU MADE, A NEW PATH OPENING IN ITS PLACE." \*The sensation departs you. Your mind is quiet once more.\*
+-   [Soulbreaker](Oath%253A_Soulbreaker.md): [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) - \*Something awful holds your mind in its grip.\* "THEN IT IS SO, YOU SHALL FORGET THE PROMISE YOU MADE, A NEW PATH OPENING IN ITS PLACE." \*The sensation departs you. Your mind is quiet once more.\*
     -   Soulbreaker **can** be reobtained if broken.
 
--   [Visionshaper](Visionshaper.md): [The Nestmind](The_Nestmind.md) - "Our end of the deal has already been struck. You're welcome to seek out whichever path pleases you. Just know that you have not won your freedom, mouse."
+-   [Visionshaper](Oath%253A_Visionshaper.md): [The Nestmind](The_Nestmind.md) - "Our end of the deal has already been struck. You're welcome to seek out whichever path pleases you. Just know that you have not won your freedom, mouse."
     -   Talking to [Surge](Surge.md) again will prompt the following conversation:
         -   "Retired from the Hunt, eh? If you can prove yourself a hunter again I'd be happy to welcome you back." / **Bring me back.**
         -   "Hmm... Perhaps you are ready after all... But be mindful that this is only the beginning." / **\[End Dialogue\]**
@@ -237,7 +237,7 @@ Oaths that are mentioned by either NPCs or developers but are not currently in t
 
 -   Not much is known about it, but its confirmed to be an Oath that is going to be added in a future update, as stated by Ragoozer.
 -   One notorious user of this Oath is [Warden Jericho](Warden_Jericho.md).
--   Similar to [Blindseer](Blindseer.md) being the counter-Oath to [Visionshaper](Visionshaper.md), there is a high chance of this Oath having the same relationship the [Contractor](Contractor.md) Oath due to the fact that Warmasters swear an Oath to vanquish [Zi'eer](<Zi'eer.md>) and the Contractors.
+-   Similar to [Blindseer](Oath%253A_Blindseer.md) being the counter-Oath to [Visionshaper](Oath%253A_Visionshaper.md), there is a high chance of this Oath having the same relationship the [Contractor](Oath%253A_Contractor.md) Oath due to the fact that Warmasters swear an Oath to vanquish [Zi'eer](The_Lord_Regent.md) and the Contractors.
 -   The source of power of the Oath is the [Circle of Honour](Circle_of_Honour.md).
     
 
@@ -254,25 +254,25 @@ Proof of Time Magic's existence and it being an "Oath"
 
 ## Trivia
 
--   It's possible to obtain every Oath on a single character without wiping by using [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) and [Yun'Shul](<Yun'Shul.md>) wishes from [Misérables](Misérables.md)
+-   It's possible to obtain every Oath on a single character without wiping by using [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) and [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) wishes from [Misérables](Misérables.md)
     -   This was confirmed on March 21st, 2025 when Deepwoken Content Creator Always\_Afk released his Oathbreaker Abridged video.
 -   There is a common misconception that being a Pathfinder and having an Oath are mutually exclusive. This is not true. A Pathfinder is merely treated as being without an Oath for gameplay purposes, as _[Oathless](Oath%253A_Oathless.md)_ cannot be used as a term given it is an actual Oath.
     -   Probably because "Person without an Oath" would be too long to fit onto a Wanted Poster.
--   All Oaths (except for [Contractor](Contractor.md)) are compound words. (ex. Silent/Heart)
--   Almost all Oath Mantras can be modified with [Vibrant Gems](Vibrant_Gem.md).
+-   All Oaths (except for [Contractor](Oath%253A_Contractor.md)) are compound words. (ex. Silent/Heart)
+-   Almost all Oath Mantras can be modified with [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers).
     -   However, no Oath Mantras can be leveled up beyond level 1.
 -   Some Oaths change your character's eye color.
-    -   [Linkstrider](Linkstrider.md) gives the user Cyan eyes.
-    -   [Visionshaper](Visionshaper.md) gives the user Bright Magenta eyes.
-    -   [Jetstriker](Jetstriker.md) gives the user Silver eyes.
-    -   [Dawnwalker](Dawnwalker.md) gives the user White eyes.
-    -   [Contractor](Contractor.md) gives the user Dark Maroon eyes.
-    -   [Silentheart](Silentheart.md) gives a darker and duller shade of the player's current eye color.
+    -   [Linkstrider](Oath%253A_Linkstrider.md) gives the user Cyan eyes.
+    -   [Visionshaper](Oath%253A_Visionshaper.md) gives the user Bright Magenta eyes.
+    -   [Jetstriker](Oath%253A_Jetstriker.md) gives the user Silver eyes.
+    -   [Dawnwalker](Oath%253A_Dawnwalker.md) gives the user White eyes.
+    -   [Contractor](Oath%253A_Contractor.md) gives the user Dark Maroon eyes.
+    -   [Silentheart](Oath%253A_Silentheart.md) gives a darker and duller shade of the player's current eye color.
 -   In the [Battle Royale](Battle_Royale.md) gamemode, Oaths can be obtained by collecting Oath Shards from chests.
     -   It takes 3 shards to obtain the Oath, and one for each subsequent Talent.
--   Some Oaths can be obtained at Power 1, these are: [Blindseer](Blindseer.md), [Chainwarden](Chainwarden.md), [Contractor](Contractor.md), [Linkstrider](Linkstrider.md), [Oathless](Oathless.md), and [Starkindred](Starkindred.md).
-    -   Because [Blindseer](Blindseer.md) requires you to have the 3 Talents from the [Mental Fortress](Talents.md#mental-fortress) Talent tree, you'll need to complete [Bravery/Compassion/Curiosity](Quests.md) Quests to get all three Talents without powering up. Using [Shrine of Division](Shrine_of_Division.md) on the free Mantra you get from the free [Whisper Draw](Whisper_Draw.md) can help as well.
--   Currently, there are three Oaths where you cannot skip progression with Knowledge. These Oaths are: [Bladeharper](Bladeharper.md), [Blightsurger](Blightsurger.md), and [Soulbreaker](Soulbreaker.md).
+-   Some Oaths can be obtained at Power 1, these are: [Blindseer](Oath%253A_Blindseer.md), [Chainwarden](Oath%253A_Chainwarden.md), [Contractor](Oath%253A_Contractor.md), [Linkstrider](Oath%253A_Linkstrider.md), [Oathless](Oath%253A_Oathless.md), and [Starkindred](Oath%253A_Starkindred.md).
+    -   Because [Blindseer](Oath%253A_Blindseer.md) requires you to have the 3 Talents from the [Mental Fortress](Talents.md#mental-fortress) Talent tree, you'll need to complete [Bravery/Compassion/Curiosity](Quests.md) Quests to get all three Talents without powering up. Using [Shrine of Division](Deep_Shrines/Shrine_of_Division.md) on the free Mantra you get from the free [Whisper Draw](Whisper_Draw.md) can help as well.
+-   Currently, there are three Oaths where you cannot skip progression with Knowledge. These Oaths are: [Bladeharper](Oath%253A_Bladeharper.md), [Blightsurger](Oath%253A_Blightsurger.md), and [Soulbreaker](Oath%253A_Soulbreaker.md).
     -   For Soulbreaker, this is probably due to it being added after the Oath skip update, though this Oath can be fully progressed by spending less than 10 Knowledge anyways.
     -   For Bladeharper, its progression is _supposed_ to be skippable, though it currently isn't due to an oversight.
     -   And finally for Blightsurger, its prog not being skippable is entirely intentional, even going as far as [Brutus](Brutus.md) having unique dialogue if you attempt to skip the Oath's progression.

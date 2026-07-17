@@ -18,7 +18,7 @@ categories: [Enchantments, Equipment Enchantments]
 
 ## Description
 
-Allure is a debuffing equipment [enchantment](Enchantment.md) that [charms](Status_Effects.md#charm) your opponent on proc.
+Allure is a debuffing equipment [enchantment](Enchantments.md) that [charms](Status_Effects.md#charm) your opponent on proc.
 
 ## Effect
 

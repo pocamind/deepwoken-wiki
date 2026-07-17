@@ -23,7 +23,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Stock is a [Ganymede](Ganymede.md) [NPC](NPC.md). He is collecting explosive boxes found in events all over the Summer Isle. For those who turn an explosive box, he will reward them with a chest and positive reputation with [The Summer Company](The_Summer_Company.md).
+Stock is a [Ganymede](Ganymede.md) NPC. He is collecting explosive boxes found in events all over the Summer Isle. For those who turn an explosive box, he will reward them with a chest and positive reputation with [The Summer Company](The_Summer_Company.md).
 
 ## Location
 

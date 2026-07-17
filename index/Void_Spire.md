@@ -23,7 +23,7 @@ categories: [Relics, Items, Spires]
 
 #### Description
 
-The **Void Spire** is a reusable [Relic](Relic.md) similar in design to the [Rain Spire](Rain_Spire.md) that allows its user to summon the Void and create an artificial [Voidzone](Voidzones.md) for 6 minutes, sending those that die within its field to [The Depths](The_Depths.md), but only if they're Power 15 or above. It has infinite uses, but it has a 3 hour cooldown as a drawback
+The **Void Spire** is a reusable [Relic](Relics.md) similar in design to the [Rain Spire](Rain_Spire.md) that allows its user to summon the Void and create an artificial [Voidzone](Voidzones.md) for 6 minutes, sending those that die within its field to [The Depths](The_Depths.md), but only if they're Power 15 or above. It has infinite uses, but it has a 3 hour cooldown as a drawback
 
 ## Trivia
 

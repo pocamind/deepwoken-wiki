@@ -39,7 +39,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Ironcry is a MED weapon in the Bow category. It is obtained by spending 25 [Echoes](Echoes.md) on the "Starting Weapon: Bow" [Echo Unlock](Echo_Unlock.md).
+The Ironcry is a MED weapon in the Bow category. It is obtained by spending 25 [Echoes](Echoes.md) on the "Starting Weapon: Bow" [Echo Unlock](Echoes.md#upgrades-unlocks-and-modifiers).
 
 ## Critical
 

@@ -12,7 +12,7 @@ notices:
 
 ## Description
 
-The Baby Spider is a now-removed enemy that previously used to spawn in the [Widow's Hollow](<Widow's_Hollow.md>) via the [Deep Widow](Deep_Widow.md). Much like [Duke Erisia](Duke_Erisia.md)'s [Mindless Servants](Mindless_Servant.md), they were somewhat weak enemies summoned by a stronger foe. It is part of a group of old enemies that got removed either before the game's release or right after it's release. For the Baby Spider, it was removed shortly after the release, so, fortunately, there is footage of it available.
+The Baby Spider is a now-removed enemy that previously used to spawn in the [Widow's Hollow](<Widow's_Hollow.md>) via the [Deep Widow](Deep_Widow.md). Much like [Duke Erisia](Duke_Ishamon_Erisia.md)'s [Mindless Servants](Mindless_Servant.md), they were somewhat weak enemies summoned by a stronger foe. It is part of a group of old enemies that got removed either before the game's release or right after it's release. For the Baby Spider, it was removed shortly after the release, so, fortunately, there is footage of it available.
 
 It is unknown why the Baby Spider got removed. Many speculate it's due to the lag that they caused, seeing as the [Widow's Hollow](<Widow's_Hollow.md>) is not in a Dungeon, meaning it would cause a lot more lag to the server as a whole.
 

@@ -19,7 +19,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Antiques Smuggler is an [Etrean](Etrean.md) [NPC](NPC.md). They function similarly to an [Antiquarian](Antiquarian.md), but at the cost of purchasing most items at only 50% of their normal value. However, trinkets can still be traded at the standard rate.
+The Antiques Smuggler is an [Etrean](Etrean.md) NPC. They function similarly to an [Antiquarian](Antiquarian.md), but at the cost of purchasing most items at only 50% of their normal value. However, trinkets can still be traded at the standard rate.
 
 The Antiques Smuggler wears a [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md).
 

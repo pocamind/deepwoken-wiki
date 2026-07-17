@@ -34,12 +34,12 @@ Ceres (In [Etris](Etris.md), across from the 90° angled bridge, on the edge of 
 
 Fortuna (On a cliff above the [Church](<Erisor's_Church.md>) in [Erisia](Erisia.md))
 
-Europa (In [Minityrsa](Minityrsa.md), near [Valley of Heroes](Valley_of_Heroes.md), if you walk over the bridge and go forward a bit)
+Europa (In [Minityrsa](Minityrsa.md), near [Valley of Heroes](The_Valley_of_Heroes.md), if you walk over the bridge and go forward a bit)
 
 ## Eastern Luminant
 
 Hygiea (Near [Songseeker Wilds](Songseeker_Wilds.md), by the sea gate going towards [Summer Isle](Summer_Isle.md))
 
-Pallas (Near [Miner's Landing](<Miner's_Landing.md>), on a tiny island in front of the [Oathless](Oath%253A_Oathless.md) trainer, [Cerulean](Cerulean.md), next to the sea gate to the [Etrean Luminant](Locations.md))
+Pallas (Near [Miner's Landing](<Miner's_Landing.md>), on a tiny island in front of the [Oathless](Oath%253A_Oathless.md) trainer, [Cerulean](Cerulean.md), next to the sea gate to the Etrean Luminant)
 
 Eunomia (Near the [Lifevent](Lifevents.md) that allows you to glide to [The Starswept Valley](The_Starswept_Valley.md))

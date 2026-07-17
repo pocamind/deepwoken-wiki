@@ -16,7 +16,7 @@ A hidden operating base for the Divers of the First Layer, where many apprentice
 
   
 
-**Castle Light** is a [location](Locations.md) belonging to [The Divers](The_Divers.md). It is a sub-location in the [Celtor Wastes](Celtor_Wastes.md). It is a [starting location](Locations.md) for those using the [Deepbound](Deepbound.md) origin.
+**Castle Light** is a location belonging to [The Divers](The_Divers.md). It is a sub-location in the [Celtor Wastes](Celtor_Wastes.md). It is a starting location for those using the [Deepbound](Deepbound.md) origin.
 
 ## Overview
 
@@ -34,7 +34,7 @@ The entrance to the Second Layer of the Depths
 
 -   The player can enter the [Eternal Gale](Second_Layer.md) via the Light hook.
 -   You are able to trade [Kyrsan Medallions](Kyrsan_Medallions.md) to Klaris here.
--   Players can obtain the Oath [Dawnwalker](Dawnwalker.md) through the second layer.
+-   Players can obtain the Oath [Dawnwalker](Oath%253A_Dawnwalker.md) through the second layer.
 
 Main Entrance
 
@@ -67,7 +67,7 @@ The Armory.
 -   [Nyanna](Nyanna.md)
 -   [Akira](Akira.md) (if met in the random encounter)
 -   [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md)
--   [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) (if met at the end of the library puzzle in [New Kyrsa](New_Kyrsa,_The_Sleeping_City.md), Saves through slots.)
+-   [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) (if met at the end of the library puzzle in [New Kyrsa](Second_Layer/New_Kyrsa.md), Saves through slots.)
 
 ### Items
 

@@ -28,7 +28,7 @@ categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
-**Blacksteel Attire** is a Unique [Outfit](Outfit.md) in _Deepwoken_.
+**Blacksteel Attire** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
@@ -40,7 +40,7 @@ This Outfit requires the player to be at least [Power](Power.md) 5 to be crafted
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +10% Slash resistance ResistanceSlash, +35% Fire reistance [ResistanceFlamecharm](Flamecharm.md), and +8 Posture [IconPosture](Posture.md).
+This Outfit has 1000 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +10% Slash resistance ResistanceSlash, +35% Fire reistance [ResistanceFlamecharm](Flamecharm.md), and +8 Posture [IconPosture](Combat_Mechanics.md#posture).
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 37% Slash ResistanceSlash, 30% Blunt ResistanceBlunt, and 35% Flamecharm [ResistanceFlamecharm](Flamecharm.md).
 

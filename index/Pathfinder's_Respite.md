@@ -16,7 +16,7 @@ A peaceful grotto to escape the horrors of a cursed land lost to time.
 
   
 
-**Pathfinder's Respite** was a [location](Locations.md) in _Deepwoken_. It is a landmark in [Lower Erisia](Lower_Erisia.md) found in the [Etrean Sea](The_Etrean_Sea.md).
+**Pathfinder's Respite** was a location in _Deepwoken_. It is a landmark in [Lower Erisia](Lower_Erisia.md) found in the [Etrean Sea](The_Etrean_Sea.md).
 
 ## Overview
 

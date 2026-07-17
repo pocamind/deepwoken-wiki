@@ -25,9 +25,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Alirian** is a [Celtor](Celtor.md) that wears a [Vigil Hood](Vigil_Hood.md) and the [Windrunner Robes](Windrunner_Robes.md), strongly resembling the [Windrunner](Windrunner.md). She is a crucial step into unlocking [Jetstriker](Jetstriker.md).
+**Alirian** is a [Celtor](Celtor.md) that wears a [Vigil Hood](Vigil_Hood.md) and the [Windrunner Robes](Windrunner_Robes.md), strongly resembling the [Windrunner](Windrunner.md). She is a crucial step into unlocking [Jetstriker](Oath%253A_Jetstriker.md).
 
-Upon reaching 50 [Agility](Attributes.md), Alirian will challenge the player to a race, the finish point being next to an abandoned building, sometimes inhabited by [Ministry Scouts](Ministry_Scout.md). After reaching the finish point, the player can agree to form a rivalry, and receive the [Jetstriker](Jetstriker.md) Oath, where she will inform you about the Orbs you can collect to progress Jetstriker. Info on these orbs can be found on its [Oaths](Oaths.md) page.
+Upon reaching 50 [Agility](Attributes.md), Alirian will challenge the player to a race, the finish point being next to an abandoned building, sometimes inhabited by [Ministry Scouts](Ministry_Scout.md). After reaching the finish point, the player can agree to form a rivalry, and receive the [Jetstriker](Oath%253A_Jetstriker.md) Oath, where she will inform you about the Orbs you can collect to progress Jetstriker. Info on these orbs can be found on its [Oaths](Oaths.md) page.
 
 ## Location
 

@@ -56,7 +56,7 @@ In the Etrean Luminant, you are given permanent preset waypoints at the followin
 -   [Lower Erisia](Lower_Erisia.md), at the main entrance
 -   [Temple Approach](Temple_Approach.md), at [Isle of Vigils](Isle_of_Vigils.md)
 -   [Minityrsa](Minityrsa.md), a small distance from the shore
--   [Temple of the Forgotten Flame](Temple_of_the_Forgotten_Flame.md)
+-   [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md)
 -   [Etris](Etris.md), in front of [Polis](Polis.md).
 
 In the Eastern Luminant, you are given permanent preset waypoints at the following locations:
@@ -102,4 +102,4 @@ If Teleportation is used in combat, its cooldown is doubled upon usage.
 -   If you are trapped in somebody else's Gravity Field bell, and that person is standing in your teleportation radius, they will be sent to the destination but you will stay where you are.
 -   Teleportation charges faster if you are relatively close by the location you chose to teleport to.
 -   Teleportation now cancels if hit during the first 6s of its windup. If its windup is cancelled, it is put on a 15s cooldown
--   If you have the _[Tarnished](Tarnished.md)_ flaw, you will only be able to teleport if you click on the mark too many times.
+-   If you have the _[Tarnished](Boons_and_Flaws.md#flaws)_ flaw, you will only be able to teleport if you click on the mark too many times.

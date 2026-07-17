@@ -25,7 +25,7 @@ notices:
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Mod Skirt** is a Unique (Spec/Mod) [Outfit](Outfit.md) in _Deepwoken._
+**Mod Skirt** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken._
 
 ## Statistics
 

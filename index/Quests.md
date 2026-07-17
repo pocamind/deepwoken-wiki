@@ -18,7 +18,7 @@ Quests are divided into Curiosity, Bravery and Compassion quests. Completing a q
 
 ## Talent Quests
 
-When these quests are completed, they give a [Talent](Talent.md) (or [Mantra](Mantras.md) in the case of [Disguise](Disguise.md)). They can sometimes be repeated.
+When these quests are completed, they give a [Talent](Talents.md) (or [Mantra](Mantras.md) in the case of [Disguise](Attunement-less.md#disguise)). They can sometimes be repeated.
 
 ### Bravery
 
@@ -26,7 +26,7 @@ The following quests grant the _Bravery_ Talent hand on top of their other rewar
 
 #### Family Recipe
 
-<table><tbody><tr><td><div><p><b>Quest Location</b>: <a href="Songseeker_Wilds.md">Songseeker Wilds</a><br><b>Guide</b>: Talk to the NPC named Lucian outside the entrance of the <a href="Mineskipper.md">Mudskipper</a> mine (near the Voidzone entrance). They will ask you to kill 5 Mineskippers. Do so and return.<br><b>Reward(s)</b>: <a href="Talents.md#family-recipe">Family Recipe</a>, Bravery, 3 Full Training points</p></div></td><td><figure><figcaption><p></p><div><a href="Lucien.md">Lucien</a></div><p></p></figcaption></figure></td></tr></tbody></table>
+<table><tbody><tr><td><div><p><b>Quest Location</b>: <a href="Songseeker_Wilds.md">Songseeker Wilds</a><br><b>Guide</b>: Talk to the NPC named Lucian outside the entrance of the <a href="Mudskipper.md#mineskipper">Mudskipper</a> mine (near the Voidzone entrance). They will ask you to kill 5 Mineskippers. Do so and return.<br><b>Reward(s)</b>: <a href="Talents.md#family-recipe">Family Recipe</a>, Bravery, 3 Full Training points</p></div></td><td><figure><figcaption><p></p><div><a href="Lucien.md">Lucien</a></div><p></p></figcaption></figure></td></tr></tbody></table>
 
 #### Navae's Retribution
 
@@ -40,7 +40,7 @@ The following quests grant the _Bravery_ Talent hand on top of their other rewar
 
 #### Grave Tending
 
-<table><tbody><tr><td><div><p><b>Quest Location</b>: <a href="Greathive_Aratel.md">Greathive Aratel</a><br><b>Guide</b>: Talk to <a href="Suri.md">Suri</a> at <a href="Greathive_Aratel.md">Greathive Aratel</a>. He will ask you to place a flower on his brother's grave at <a href="Isle_of_Vigils.md">Isle of Vigils</a>. Taking 3%+ damage while the flower is in your inventory will turn it into a Ruined Flower, forcing you to return to Suri for a new flower.<br><b>Reward(s)</b>: <a href="Vibrant_Gem.md">Vibrant Gem</a>, Hive Reputation, Compassion, 5 Full Training points, <a href="Talents.md#careful-handling">Careful Handling</a></p></div></td><td><figure><figcaption><p></p><div><a href="Suri.md">Suri</a></div><p></p></figcaption></figure></td></tr></tbody></table>
+<table><tbody><tr><td><div><p><b>Quest Location</b>: <a href="Greathive_Aratel.md">Greathive Aratel</a><br><b>Guide</b>: Talk to <a href="Suri.md">Suri</a> at <a href="Greathive_Aratel.md">Greathive Aratel</a>. He will ask you to place a flower on his brother's grave at <a href="Isle_of_Vigils.md">Isle of Vigils</a>. Taking 3%+ damage while the flower is in your inventory will turn it into a Ruined Flower, forcing you to return to Suri for a new flower.<br><b>Reward(s)</b>: <a href="Mantra_Modifiers.md#regular-modifiers">Vibrant Gem</a>, Hive Reputation, Compassion, 5 Full Training points, <a href="Talents.md#careful-handling">Careful Handling</a></p></div></td><td><figure><figcaption><p></p><div><a href="Suri.md">Suri</a></div><p></p></figcaption></figure></td></tr></tbody></table>
 
 #### Travelling Blade
 
@@ -66,7 +66,7 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 
 #### Excavator
 
-<table><tbody><tr><td><div><p><b>Quest Location</b>: -<br><b>Guide</b>: Turn in 5 Pure Ore (must be <a href="Erisore.md">Erisore</a>, <a href="Irithine.md">Irithine</a>, <a href="Umbrite.md">Umbrite</a> or <a href="Astruline.md">Astruline</a>) to any <a href="Blacksmith.md">Blacksmith</a>.<br><b>Reward(s)</b>: <a href="Talents.md#excavator">Excavator</a>, 5 Full Training points on first completion</p></div></td><td></td></tr></tbody></table>
+<table><tbody><tr><td><div><p><b>Quest Location</b>: -<br><b>Guide</b>: Turn in 5 Pure Ore (must be <a href="Ores.md#erisore">Erisore</a>, <a href="Ores.md#irithine">Irithine</a>, <a href="Ores.md#umbrite">Umbrite</a> or <a href="Ores.md#astruline">Astruline</a>) to any <a href="Blacksmith.md">Blacksmith</a>.<br><b>Reward(s)</b>: <a href="Talents.md#excavator">Excavator</a>, 5 Full Training points on first completion</p></div></td><td></td></tr></tbody></table>
 
 #### Heretic's Sutra
 
@@ -82,7 +82,7 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 
 #### Treefelling Blow
 
-<table><tbody><tr><td><div><p><b>Quest Location</b>: <a href="Etris.md">Etris</a> and <a href="Isle_of_Vigils.md">Isle of Vigils</a><br><b>Guide</b>: Punch down a tree with <a href="Strong_Left.md">Strong Left</a> then speak to <a href="Korin.md">Korin</a> or <a href="Drefa.md">Drefa</a>. Punch down 5 more trees and then return to the quest giver.<br><b>Reward(s)</b>: <a href="Talents.md#treefelling-blow">Treefelling Blow</a>, 3 Full Training points</p></div></td><td></td></tr></tbody></table>
+<table><tbody><tr><td><div><p><b>Quest Location</b>: <a href="Etris.md">Etris</a> and <a href="Isle_of_Vigils.md">Isle of Vigils</a><br><b>Guide</b>: Punch down a tree with <a href="Attunement-less.md#strong-left">Strong Left</a> then speak to <a href="Korin.md">Korin</a> or <a href="Drefa.md">Drefa</a>. Punch down 5 more trees and then return to the quest giver.<br><b>Reward(s)</b>: <a href="Talents.md#treefelling-blow">Treefelling Blow</a>, 3 Full Training points</p></div></td><td></td></tr></tbody></table>
 
 #### Windwaker
 
@@ -102,7 +102,7 @@ The following quests grant the _Bravery_ Talent hand on top of their other rewar
 
 #### King Regicide
 
-<table><tbody><tr><td><div><p><b>Quest Location</b>: <a href="Starswept_Valley.md">Starswept Valley</a><br><b>Guide</b>: Talk to the Ganymede NPC <a href="Jessamine.md">Jessamine</a> in <a href="Starswept_Valley.md">Starswept Valley</a>. He will ask you to kill a King Thresher. They can be found in the Lightkeeper Temple nearby as a guaranteed spawn. Kill one and return.<br><b>Reward(s)</b>: Bravery, 3 Full Training points</p></div></td><td><figure><figcaption><p></p><div><a href="Jessamine.md">Jessamine</a></div><p></p></figcaption></figure></td></tr></tbody></table>
+<table><tbody><tr><td><div><p><b>Quest Location</b>: <a href="The_Starswept_Valley.md">Starswept Valley</a><br><b>Guide</b>: Talk to the Ganymede NPC <a href="Jessamine.md">Jessamine</a> in <a href="The_Starswept_Valley.md">Starswept Valley</a>. He will ask you to kill a King Thresher. They can be found in the Lightkeeper Temple nearby as a guaranteed spawn. Kill one and return.<br><b>Reward(s)</b>: Bravery, 3 Full Training points</p></div></td><td><figure><figcaption><p></p><div><a href="Jessamine.md">Jessamine</a></div><p></p></figcaption></figure></td></tr></tbody></table>
 
 ### Compassion
 
@@ -114,7 +114,7 @@ The following quests grant the _Compassion_ Talent hand on top of their other re
 
 #### Vanguards Guidance
 
-<table><tbody><tr><td><div><p><b>Quest Location</b>: <a href="Alsin's_Landing.md">Alsin's Landing</a> (Training Grounds)<br><b>Guide</b>: Talk to <a href="Sarbu.md">Sarbu</a>, who will ask for some assistance in learning an ability used only by those within the Vanguard division of the <a href="Justicar.md">Justicar</a> Origin.<br><b>Reward(s)</b>: EXP, Compassion, 3 Full Training points</p></div></td><td><figure><figcaption><p></p><div><a href="Sarbu.md">Sarbu</a></div><p></p></figcaption></figure></td></tr></tbody></table>
+<table><tbody><tr><td><div><p><b>Quest Location</b>: <a href="Alsin's_Landing.md">Alsin's Landing</a> (Training Grounds)<br><b>Guide</b>: Talk to <a href="Sarbu.md">Sarbu</a>, who will ask for some assistance in learning an ability used only by those within the Vanguard division of the <a href="Justicar_(Origin).md">Justicar</a> Origin.<br><b>Reward(s)</b>: EXP, Compassion, 3 Full Training points</p></div></td><td><figure><figcaption><p></p><div><a href="Sarbu.md">Sarbu</a></div><p></p></figcaption></figure></td></tr></tbody></table>
 
 ### Curiosity
 
@@ -146,7 +146,7 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 
 #### Ploom's Embers
 
-<table><tbody><tr><td><div><p><b>Quest Location</b>: <a href="Etris.md">Etris</a><br><b>Guide</b>: Talk to <a href="Ploom.md">Ploom</a> inside of <a href="Lance_Leshi.md">Lance Leshis</a> food shop.<br><b>Reward(s)</b>: <a href="Talents.md#pleekstys-will">Pleeksty's Will</a>, 3 Full Training points</p></div></td><td><figure><figcaption><p></p><div><a href="Ploom.md">Ploom</a></div><p></p></figcaption></figure></td></tr></tbody></table>
+<table><tbody><tr><td><div><p><b>Quest Location</b>: <a href="Etris.md">Etris</a><br><b>Guide</b>: Talk to <a href="Ploom.md">Ploom</a> inside of <a href="Lance.md">Lance Leshis</a> food shop.<br><b>Reward(s)</b>: <a href="Talents.md#pleekstys-will">Pleeksty's Will</a>, 3 Full Training points</p></div></td><td><figure><figcaption><p></p><div><a href="Ploom.md">Ploom</a></div><p></p></figcaption></figure></td></tr></tbody></table>
 
 #### Polis' Stories
 
@@ -170,7 +170,7 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 
 #### Poser's Ring
 
-<table><tbody><tr><td><div><p><b>Quest Location</b>: <a href="Isle_of_Vigils.md">Isle of Vigils</a>, <a href="Etrean_Wilds.md">Etrean Wilds</a>, <a href="Lower_Erisia.md">Lower Erisia</a>, <a href="The_Monkey's_Paw.md">The Monkey's Paw</a><br><b>Guide</b>: Talk to <a href="Zana.md">Zana</a> on the Isle of Vigils docks with a <a href="Katana.md">Katana</a>, <a href="Alloyed_Katana.md">Alloyed Katana</a>, or <a href="Shattered_Katana.md">Shattered Katana</a> equipped. Fight him and win at various locations.<br><b>Reward(s)</b>: <a href="Poser's_Ring.md">Poser's Ring</a>, 5 Full Training points</p></div></td><td><figure><figcaption><p></p><div><a href="Zana.md">Zana</a></div><p></p></figcaption></figure></td></tr></tbody></table>
+<table><tbody><tr><td><div><p><b>Quest Location</b>: <a href="Isle_of_Vigils.md">Isle of Vigils</a>, <a href="Etrean_Wilds.md">Etrean Wilds</a>, <a href="Lower_Erisia.md">Lower Erisia</a>, <a href="The_Monkey's_Paw.md">The Monkey's Paw</a><br><b>Guide</b>: Talk to <a href="Zana.md">Zana</a> on the Isle of Vigils docks with a <a href="Katana.md">Katana</a>, <a href="Katana.md">Alloyed Katana</a>, or <a href="Shattered_Katana.md">Shattered Katana</a> equipped. Fight him and win at various locations.<br><b>Reward(s)</b>: <a href="Poser's_Ring.md">Poser's Ring</a>, 5 Full Training points</p></div></td><td><figure><figcaption><p></p><div><a href="Zana.md">Zana</a></div><p></p></figcaption></figure></td></tr></tbody></table>
 
 ## Repeatable Ordinary Quests
 
@@ -186,7 +186,7 @@ The following quests grant the _Bravery_ Talent hand on top of their other rewar
 
 #### Summer's Dusk
 
-<table><tbody><tr><td><div><p><b>Quest Location</b>: Miner's Landing<br><b>Guide</b>: Talk to an NPC named Orion near the <a href="Arcwarder.md">Arcwarder Oath</a> giver and <a href="Deepdelver_Tau.md">Deepdelver Tau</a>. He will ask you to help clear out the four Summer Company invaders at the upper generator.<br><b>Reward(s)</b>: Reputation, EXP, Bravery, <a href="Ignition_Delver.md">Ignition Delver</a> Origin, 3 Full Training points on first completion</p></div></td><td><figure><figcaption><p></p><div><a href="Orion.md">Orion</a></div><p></p></figcaption></figure></td></tr></tbody></table>
+<table><tbody><tr><td><div><p><b>Quest Location</b>: Miner's Landing<br><b>Guide</b>: Talk to an NPC named Orion near the <a href="Oath%253A_Arcwarder.md">Arcwarder Oath</a> giver and <a href="Deepdelver_Tau.md">Deepdelver Tau</a>. He will ask you to help clear out the four Summer Company invaders at the upper generator.<br><b>Reward(s)</b>: Reputation, EXP, Bravery, <a href="Ignition_Delver.md">Ignition Delver</a> Origin, 3 Full Training points on first completion</p></div></td><td><figure><figcaption><p></p><div><a href="Orion.md">Orion</a></div><p></p></figcaption></figure></td></tr></tbody></table>
 
 ### Miscellaneous
 
@@ -214,7 +214,7 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 
 #### Starswept Bags
 
-<table><tbody><tr><td><div><p><b>Quest Location</b>: <a href="Starswept_Valley.md">Starswept Valley</a><br><b>Guide</b>: Turn in the bags found around Starswept Valley to <a href="Mercille.md">Mercille</a> near the Guy at the outpost near Meteor Isle.<br><b>Reward(s)</b>: Small Hive Chest</p></div></td><td><figure><figcaption><p></p><div><a href="Mercille.md">Mercille</a></div><p></p></figcaption></figure></td></tr></tbody></table>
+<table><tbody><tr><td><div><p><b>Quest Location</b>: <a href="The_Starswept_Valley.md">Starswept Valley</a><br><b>Guide</b>: Turn in the bags found around Starswept Valley to <a href="Mercille.md">Mercille</a> near the Guy at the outpost near Meteor Isle.<br><b>Reward(s)</b>: Small Hive Chest</p></div></td><td><figure><figcaption><p></p><div><a href="Mercille.md">Mercille</a></div><p></p></figcaption></figure></td></tr></tbody></table>
 
 #### Summer Isle Explosive Boxes
 

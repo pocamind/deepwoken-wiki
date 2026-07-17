@@ -14,13 +14,13 @@ categories: [NPCs, NPCs located in the Etrean Luminant, NPCs located in the East
 
 ## Description
 
-The five Saintsworn Obelisks are NPCs that are required to be located and interacted with to obtain the [Saintsworn](Saintsworn.md) [Oath](Oath.md). These obelisks are based in five elements: [Flamecharm](Flamecharm.md), [Frostdraw](Frostdraw.md), [Thundercall](Thundercall.md), [Galebreathe](Galebreathe.md), and [Shadowcast](Shadowcast.md), each inhabited by the soul of [the element's Hero](The_Five_Heroes.md).
+The five Saintsworn Obelisks are NPCs that are required to be located and interacted with to obtain the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md). These obelisks are based in five elements: [Flamecharm](Flamecharm.md), [Frostdraw](Frostdraw.md), [Thundercall](Thundercall.md), [Galebreathe](Galebreathe.md), and [Shadowcast](Shadowcast.md), each inhabited by the soul of [the element's Hero](The_Five_Heroes.md).
 
 Obelisks can only be interacted with if you have atleast 15 of their respective element.
 
 ## Location
 
-Each Obelisk is located in a unique, secluded area within another landmark. These areas are all hazardous, each hazard covering the floor and inflicting a debuff; in the Frostdraw Obelisk's case killing you instantly; or in the Shadowcast Obelisk's case, being situated in a high-up area that experiences [Wind](<Wind_(hazard).md>) and is prone to falls.
+Each Obelisk is located in a unique, secluded area within another landmark. These areas are all hazardous, each hazard covering the floor and inflicting a debuff; in the Frostdraw Obelisk's case killing you instantly; or in the Shadowcast Obelisk's case, being situated in a high-up area that experiences [Wind](Second_Layer/The_Ethironal_Shrine.md#wind) and is prone to falls.
 
 -   The Frostdraw Obelisk is located in the [Glacial Remnant](Glacial_Remnant.md), accessible through a crack in the wall behind a destructible bookshelf on the second floor of the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md).
 -   The Galebreathe Obelisk is located in the [Burning Stone Gardens](Burning_Stone_Gardens.md), near [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>).

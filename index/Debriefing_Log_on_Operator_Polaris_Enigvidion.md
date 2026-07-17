@@ -10,7 +10,7 @@ categories: [Books]
 
 ## Description
 
-_**Debriefing Log on Operator Polaris Enigvidion**_ is a [Book](Book.md).
+_**Debriefing Log on Operator Polaris Enigvidion**_ is a [Book](Books.md).
 
 ## Text
 

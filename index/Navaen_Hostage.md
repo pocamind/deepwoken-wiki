@@ -17,7 +17,7 @@ categories: [NPCs, Random Encounters, The Children of Navae]
 
 ## Description
 
-Navaen Hostages hail from the [Children of Navae](Children_of_Navae.md). They appear exclusively as [Gremors](Gremor.md) wearing the [Navaen Nomad Robes](Navaen_Nomad_Robes.md). The hostages are often accompanied with 3 [Knives of Eylis](Knife_of_Eylis.md). A Navaen Hostage is required for the obtainment of the [Way of Navae](Way_of_Navae.md) fighting style.
+Navaen Hostages hail from the [Children of Navae](The_Children_of_Navae.md). They appear exclusively as [Gremors](Gremor.md) wearing the [Navaen Nomad Robes](Navaen_Nomad_Robes.md). The hostages are often accompanied with 3 [Knives of Eylis](Knife_of_Eylis.md). A Navaen Hostage is required for the obtainment of the [Way of Navae](Way_of_Navae.md) fighting style.
 
 The best way to find them is through the [Knife To Antler](Job_Boards.md#erisia) Job, as it guarantees that they will spawn.
 
@@ -25,7 +25,7 @@ They are found in a prisoner pose, kneeled down on both knees and having their a
 
 Navaen Hostages can be picked up by pressing V. Dropping them will cause them to be knocked for a bit before returning to their original stance. Unlike any normal NPC, you can carry the hostage anywhere and everywhere, and will not despawn unless you travel to a new Luminant.
 
-Bringing a Navaen Hostage to the [Eastern Nomad Leader](Eastern_Nomad_Leader.md), [Beiruul](Beiruul.md), or the [Eastern Camp Master](Eastern_Camp_Master.md) will give you the [Way of Navae](Way_of_Navae.md) fighting style prompting a dialogue that will be shown below. This will also allow you to choose the style in [Character Creation](Character_Creation.md) on subsequent characters.
+Bringing a Navaen Hostage to the [Eastern Nomad Leader](Eastern_Nomad_Leader.md), [Beiruul](Beiruul.md), or the [Eastern Camp Master](Cheral.md) will give you the [Way of Navae](Way_of_Navae.md) fighting style prompting a dialogue that will be shown below. This will also allow you to choose the style in [Character Creation](Character_Creation.md) on subsequent characters.
 
 ## Gallery
 

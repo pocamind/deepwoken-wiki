@@ -19,7 +19,7 @@ categories: [Oaths, The Starkindred Church]
 
 ## Description
 
-**[Oath](Oath.md): Starkindred** is one of the 17 obtainable Oaths in _Deepwoken_. It allows one to take advantage of the anomalies that appears on one's body after drinking the blood of a [Celestial](Celestial.md). It is a balanced Oath, having good options for both combat and mobility.
+**[Oath](Oaths.md): Starkindred** is one of the 17 obtainable Oaths in _Deepwoken_. It allows one to take advantage of the anomalies that appears on one's body after drinking the blood of a [Celestial](Celestial.md). It is a balanced Oath, having good options for both combat and mobility.
 
 “ The viscous fluid singes your mouth. As it sinks into you, you feel it slowly begin to course out into your veins, pulses of agony washing over you with every heartbeat. Clutching onto the words Samael left you is all that keeps you afloat above the dark void of unconsciousness. And as your mind empties of all other thoughts, the agony finally begins to subside... ”
 
@@ -41,7 +41,7 @@ The power of this particular Oath comes from one drinking the Holy Ichor, the bl
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/uqNfFsZ7yhw)._
 
-_Starkindred **cannot** be reobtained if you [Oathbreak](Oathbreak.md) it._
+_Starkindred **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it._
 
 ## Progression
 
@@ -59,7 +59,7 @@ Alternatively you can pay [Samael](Samael.md) 10 to skip killing the Sinners. Ho
 
 ## Effects
 
-This Oath grants 2 Combat Mantra slots, 1 Wildcard Mantra slot, +5% PEN, and 8 Health. Additionally, the [Flamecharm](Flamecharm.md) Mantra [Fire Blade](Fire_Blade.md) is modified by this Oath, causing the user to rise into the sky, and unleash a screen shaking, heavily modified, multi-hitting Fire Blade, several times the size of the original. This effect can be disabled with the use of a [Reversal Spark](Reversal_Spark.md). As for appearance, aside from the wings which appear anytime you utilize a starkindred mantra, a white halo with 4 spikes connected to it will continuously circle around the user's neck.
+This Oath grants 2 Combat Mantra slots, 1 Wildcard Mantra slot, +5% PEN, and 8 Health. Additionally, the [Flamecharm](Flamecharm.md) Mantra [Fire Blade](Flamecharm.md#fire-blade) is modified by this Oath, causing the user to rise into the sky, and unleash a screen shaking, heavily modified, multi-hitting Fire Blade, several times the size of the original. This effect can be disabled with the use of a [Reversal Spark](Mantra_Modifiers.md#sparks). As for appearance, aside from the wings which appear anytime you utilize a starkindred mantra, a white halo with 4 spikes connected to it will continuously circle around the user's neck.
 
 ## Abilities
 
@@ -70,8 +70,8 @@ This Oath grants 2 Combat Mantra slots, 1 Wildcard Mantra slot, +5% PEN, and 8 H
     -   While active, Air dash goes much further horizontally, but has no increased distance when going vertically.
     -   Starkindred mantras have slightly faster cast time while the wings are out as you do not repeat the wing growing animation.
     -   If undyed, comes in the color of your hair color.
-    -   The mantra **[Fire Blade](Fire_Blade.md)** now launches the user upward before releasing a large plume of flames, dealing increased damage (0.6x Fire Blade Damage, ticks 4 times). Deep Gems are disabled when using this. To remove this effect, apply a [Reversal Spark](Reversal_Spark.md) to **Fire Blade**.
-    -   [Kindred Edict](Kindred_Edict.md)'s criticals apply 5 [Wither](Wither.md) on hit when your wings are out.
+    -   The mantra **[Fire Blade](Flamecharm.md#fire-blade)** now launches the user upward before releasing a large plume of flames, dealing increased damage (0.6x Fire Blade Damage, ticks 4 times). Deep Gems are disabled when using this. To remove this effect, apply a [Reversal Spark](Mantra_Modifiers.md#sparks) to **Fire Blade**.
+    -   [Kindred Edict](Kindred_Edict.md)'s criticals apply 5 [Wither](Status_Effects.md#wither) on hit when your wings are out.
     -   Chrysid, Ganymede and Vesperian will all have different wings instead of what it is usually. Moth wings for Chrysid and beetle wings for Ganymede/Vesperian.
 
 ### Talents
@@ -197,7 +197,7 @@ Obtained after the second Sinner kill
  |
 | 
 
-**Effect:** _Similar to the Galebreathe Mantra [Tornado](Tornado.md), but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits._
+**Effect:** _Similar to the Galebreathe Mantra [Tornado](Galebreathe.md#tornado), but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits._
 
 -   Deals 3 damage per hit (14) with 1.65 Strength scaling
 -   Deals 0.4 posture damage per hit (14), totaling to 5.6 posture damage if all hits are blocked.
@@ -262,7 +262,7 @@ Obtained after the third Sinner kill
 -   The Oath's icon resembles the Suncross (also known as the Sun, as opposed to the Moonseye being the Moon)
 -   The wings will occasionally bug, causing them to disappear before the full duration ends. This is purely a visual bug, and air dash will still behave as if the wings are active until the duration actually ends.
 -   The requirement for this Oath was accidentally leaked by a tester before Verse 2, this presumably caused it to be increased to 50 Strength from the original requirement of 40, though this was reverted a few months after Verse 2.
--   Using the canteen, you can collect the ichor of the celestial. This is crucial for obtaining the [Saltchemist](Saltchemist.md) [Oath](Oath.md), drinking it however will simply make you vomit.
+-   Using the canteen, you can collect the ichor of the celestial. This is crucial for obtaining the [Saltchemist](Oath%253A_Saltchemist.md) [Oath](Oaths.md), drinking it however will simply make you vomit.
 -   The color of the Hivekin wings do not change based on its variant, Instead you will have to dye your hair.
 -   Typing "I will never be a memory." or anything containing the phrase toggles your right wing off/on, this is an easter egg referencing [Sephiroth](https://finalfantasy.fandom.com/wiki/Sephiroth).
     -   This does not work with the alternative Oath cosmetics.

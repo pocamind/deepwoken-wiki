@@ -18,21 +18,21 @@ A village created far away from the watchful eyes of the Stonelife Lord.
 
   
 
-**The Hidden Village** is a [location](Locations.md) found in _Deepwoken_. It is a landmark found in the [Towerstruck Lands](Towerstruck_Lands.md).
+**The Hidden Village** is a location found in _Deepwoken_. It is a landmark found in the [Towerstruck Lands](Towerstruck_Lands.md).
 
 ## Description
 
 The Hidden Village is a small, abandoned town located in the [Towerstruck Lands](Towerstruck_Lands.md) in [Upper Erisia](Upper_Erisia.md). The main way of entering is through a wooden door that must be broken down with a [Mantra](Mantras.md) or a Heavy Weapon Critical. An alternative path is to climb up the mountains that leads you a tunnel to the village.
 
-Inside the Village are a few NPCs, [Rotskippers](Rotskipper.md), a bountiful amount of [Erisore](Ore.md#erisore), and a fountain that can allow you to teleport to [Greathive Aratel](Greathive_Aratel.md) if you meet the requirements. It is also home to the [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md), where one can make a deal with. At the front of the village, you can find the [Deep Crucible](Deep_Crucible.md), which requires an [Artifact](Artifacts.md) to activate.
+Inside the Village are a few NPCs, [Rotskippers](Rotskipper.md), a bountiful amount of [Erisore](Ores.md#erisore), and a fountain that can allow you to teleport to [Greathive Aratel](Greathive_Aratel.md) if you meet the requirements. It is also home to the [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md), where one can make a deal with. At the front of the village, you can find the [Deep Crucible](Deep_Crucible.md), which requires an [Artifact](Artifacts.md) to activate.
 
 ## Potential Enemies
 
--   [Authority Footsoldier](Authority_Footsoldier.md)
+-   [Authority Footsoldier](Authority_Officer.md)
 -   [Etrean Soldier](Etrean_Soldier.md)
 -   [Legion Soldier](Legion_Soldier.md)
 -   [Knife of Eylis](Knife_of_Eylis.md)
--   [Knives of Eylis Captain](Knives_of_Eylis_Captain.md)
+-   [Knives of Eylis Captain](Subtle_Knife_of_Eylis.md)
 -   [Megalodaunt](Megalodaunt.md)
 -   [Rotskipper](Rotskipper.md)
 -   [Deep Owl](Deep_Owl.md)
@@ -41,7 +41,7 @@ Inside the Village are a few NPCs, [Rotskippers](Rotskipper.md), a bountiful amo
 
 Events that spawn in The Hidden Village that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
--   [Etrean Soldiers](Etrean_Soldier.md) vs [Authority Footsoldiers](Authority_Footsoldier.md)
+-   [Etrean Soldiers](Etrean_Soldier.md) vs [Authority Footsoldiers](Authority_Officer.md)
 
 ## Contents
 
@@ -58,6 +58,6 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 ## Trivia
 
 -   You can find one of [The Hive](The_Hive.md)'s fountains here. Invoking with it will transport you to [Greathive Aratel](Greathive_Aratel.md).
--   You can find plenty of [Erisore](Ore.md#erisore) here.
+-   You can find plenty of [Erisore](Ores.md#erisore) here.
 -   You can find [The Meat Lord](The_Meat_Lord.md) here.
 -   The Stonelife Lord from the description of the place might refer to Duke Erisia

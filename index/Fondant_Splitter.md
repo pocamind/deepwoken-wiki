@@ -38,13 +38,13 @@ _This might have not been the page you were looking for, if you were looking for
 
 ## Description
 
-The **Fondant Splitter** is a [Relic](Relic.md) rarity [Sword](Sword.md); an oversized cake in the shape of the [Dormant Splinter](Dormant_Splinter.md).
+The **Fondant Splitter** is a [Relic](Relics.md) rarity [Sword](<Sword_(weapon).md>); an oversized cake in the shape of the [Dormant Splinter](Dormant_Splinter.md).
 
 The Fondant Splitter is obtained through [The Cold Forge](The_Cold_Forge.md) by crafting in your Crafting Menu with:
 
 -   A [Dormant Splinter](Dormant_Splinter.md)
 -   A [Cake](Cake.md)
--   A [Sword](Sword.md), [Messer](Messer.md), [Katana](Katana.md), or a [Scimitar](Scimitar.md), however crafting Fondant Splitter with a Scimitar will take three Cakes instead of one.
+-   A [Sword](<Sword_(weapon).md>), [Messer](Messer.md), [Katana](Katana.md), or a [Scimitar](Scimitar.md), however crafting Fondant Splitter with a Scimitar will take three Cakes instead of one.
 
 The Fondant Splitter can be upgraded with the [Chef's Toque](<Chef's_Toque.md>) equipment, granting it an extra 4 health on critical attack and a 35% chance to steal 1.95 \* ln(D) + 1.075 hunger and thirst from your opponent on weapon hits, where D = scaled damage dealt (calculator [here](https://www.desmos.com/calculator/yktgme7xnc)). This has a 3 second cooldown per proc attempt, going on cooldown even if it didn't proc.
 

@@ -23,7 +23,7 @@ E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 
-A member of [the Ministry](The_Ministry.md) served as an apprentice to [Zi'eer](<Zi'eer.md>) during the Eastern Conflict. This partnership, paired with their skills and the modifications they applied to the Fourth Prophet's natural abilities, allowed them to rise through the ranks of the organization at a rapid pace.[\[1\]](#cite-note-ct-1)
+A member of [the Ministry](The_Ministry.md) served as an apprentice to [Zi'eer](The_Lord_Regent.md) during the Eastern Conflict. This partnership, paired with their skills and the modifications they applied to the Fourth Prophet's natural abilities, allowed them to rise through the ranks of the organization at a rapid pace.[\[1\]](#cite-note-ct-1)
 
 Hoping to gather information on [the Vigils](The_Vigils.md), they applied to join the [Temple of the Blade](Temple_of_the_Blade.md) as a Vigil Instructor. However, the current Maestro, [Evengarde Rest](Evengarde_Rest.md), detected the deception and challenged them to a duel. They were then defeated and forced to reveal their information, before being killed. Rest added their blade, the [Cerulean Thread](Cerulean_Thread.md), to his collection of armaments.[\[1\]](#cite-note-ct-1)
 

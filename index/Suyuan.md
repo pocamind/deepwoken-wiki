@@ -28,7 +28,7 @@ This content is not accessible outside of this gamemode.
 
 Suyuan is an [Etrean](Etrean.md) NPC.
 
-They give the quest "Ghost Hunting," asking [the Pathfinder](The_Pathfinder.md) to seek out a [Ghost Ship](Beloved_Zofia.md). Upon completion, the Pathfinder earns XP, a Compassion [Talent](Talent.md) hand, and the [Supernatural Sense](Talents.md#supernatural-sense) Talent, providing +10 Sanity.
+They give the quest "Ghost Hunting," asking [the Pathfinder](The_Pathfinder.md) to seek out a [Ghost Ship](Beloved_Zofia.md). Upon completion, the Pathfinder earns XP, a Compassion [Talent](Talents.md) hand, and the [Supernatural Sense](Talents.md#supernatural-sense) Talent, providing +10 Sanity.
 
 ## Location
 

@@ -94,7 +94,7 @@ Made for the purpose of knowing which books you have collected for the [Guild Ba
  | The Hammer's Call | [Travelling Merchant](Travelling_Merchant.md) |
 | 
 
- | The Interrogation Of Ranger Santiago Talo | [Castle Light](Castle_Light.md), [Fort Merit](Fort_Merit.md), [The Ethironal Shrine](The_Ethironal_Shrine.md) |
+ | The Interrogation Of Ranger Santiago Talo | [Castle Light](Castle_Light.md), [Fort Merit](Fort_Merit.md), [The Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md) |
 | 
 
  | The Song of Fathoms / Oscillation | [Castle Light](Castle_Light.md), [Fort Merit](Fort_Merit.md), [Lightkeeper Temple](Lightkeeper_Temple.md) |

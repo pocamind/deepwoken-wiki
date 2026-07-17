@@ -44,9 +44,9 @@ The Imperator's Edge comes with a passive ability:
 
 ## Critical
 
-For the standing critical, the user performs three quick thrusts with the spear, dazing the target whilst sending them forwards. If the user is in the Enlightened state, this critical is followed up by another three thrusts, consuming the effect. The standing critical has a scaled damage multiplier of 0.6x on the first two hits and 0.45x on the third, totaling to 1.65x scaled damage. All hits have innate [Bleed](Bleed.md). Deals 26.97 posture damage if all hits are blocked.
+For the standing critical, the user performs three quick thrusts with the spear, dazing the target whilst sending them forwards. If the user is in the Enlightened state, this critical is followed up by another three thrusts, consuming the effect. The standing critical has a scaled damage multiplier of 0.6x on the first two hits and 0.45x on the third, totaling to 1.65x scaled damage. All hits have innate [Bleed](Status_Effects.md#bleed). Deals 26.97 posture damage if all hits are blocked.
 
-For the running critical, the user lunges with the spear, firing a projectile of light that dazes the target. This critical is not affected by Enlightened. The running critical has a scaled damage multiplier of 1x on the thrust and 0.6x on the projectile, totaling to 1.6x scaled damage. Both hits have innate [Bleed](Bleed.md) and deal 17 posture damage if blocked.
+For the running critical, the user lunges with the spear, firing a projectile of light that dazes the target. This critical is not affected by Enlightened. The running critical has a scaled damage multiplier of 1x on the thrust and 0.6x on the projectile, totaling to 1.6x scaled damage. Both hits have innate [Bleed](Status_Effects.md#bleed) and deal 17 posture damage if blocked.
 
 Both criticals have a cooldown of **6 seconds.**
 

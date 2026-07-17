@@ -23,14 +23,14 @@ There are currently 12 Deep Gems in Deepwoken, each with their own distinct effe
 While any Deep Gem can be equipped onto any Mantra, certain Gems may not proc on certain Mantras and some Mantras may not benefit at all from specific Gems.
 
 -   Most Deep Gems proc upon dealing damage or otherwise landing a hit with your Mantra, and as such these Gems will not work with Mantras that do not deal damage.
--   [Revenge](Revenge.md) cannot proc [Wayward Gem](Wayward_Gem.md)
--   [Gaze](Gaze.md) and [Glare](Glare.md) cannot proc any "on-hit" Deep Gem
+-   [Revenge](Attunement-less.md#revenge) cannot proc [Wayward Gem](Wayward_Gem.md)
+-   [Gaze](Attunement-less.md#gaze) and [Glare](Attunement-less.md#glare) cannot proc any "on-hit" Deep Gem
 -   Some Mantras are not affected by [Insignia Gem](Insignia_Gem.md)'s windup decrease, these are:
-    -   [Sightless Beam](Sightless_Beam.md)
-    -   [Eclipse Kick](Eclipse_Kick.md)
+    -   [Sightless Beam](Oath%253A_Blindseer.md#sightless-beam)
+    -   [Eclipse Kick](Shadowcast.md#eclipse-kick)
 
 ## Critical Engine
 
-If you have the [Critical Engine](Talents.md#critical-engine) Talent, you can apply the effects of Deep Gems to your [Weapon](Weapon.md) critical by holding any Deep Gem of your choice and using the Critical Engine Talent tool. Equipping a Deep Gem onto your weapon critical with Critical Engine will not consume the Gem, and will instead apply the effects of your Gem without it leaving your inventory. Your chosen gem will save across servers, so you only need to set it once.
+If you have the [Critical Engine](Talents.md#critical-engine) Talent, you can apply the effects of Deep Gems to your [Weapon](Weapons.md) critical by holding any Deep Gem of your choice and using the Critical Engine Talent tool. Equipping a Deep Gem onto your weapon critical with Critical Engine will not consume the Gem, and will instead apply the effects of your Gem without it leaving your inventory. Your chosen gem will save across servers, so you only need to set it once.
 
 Most Gems retain their original effect when being applied to your weapon critical, but [Blue Gems](Blue_Gem.md) have a completely unique one; upon landing your critical with a Blue Gem equipped, you will gain Ether back based on scaled damage dealt.

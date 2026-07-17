@@ -24,7 +24,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Asius is an [Adret](Adret.md) NPC. The player is able to take back owed money for [The Summer Company](The_Summer_Company.md) in [Trig's](Trig.md) [Quest](Quest.md).
+Asius is an [Adret](Adret.md) NPC. The player is able to take back owed money for [The Summer Company](The_Summer_Company.md) in [Trig's](Trig.md) [Quest](Quests.md).
 
 ## Location
 

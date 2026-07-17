@@ -47,9 +47,9 @@ When paired with the [Poser's Ring](<Poser's_Ring.md>), the damage of its M1s an
 
 ## Critical
 
-The user sheathes their katana before dashing forward and slashing horizontally. This critical deals **1.1x scaled damage** and procs [Bleed](Bleed.md). This critical is shared with the [Shattered Katana](Shattered_Katana.md) when one handed.
+The user sheathes their katana before dashing forward and slashing horizontally. This critical deals **1.1x scaled damage** and procs [Bleed](Status_Effects.md#bleed). This critical is shared with the [Shattered Katana](Shattered_Katana.md) when one handed.
 
-This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

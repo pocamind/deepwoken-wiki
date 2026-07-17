@@ -70,7 +70,7 @@ Dodge
 **Wind Cutter**  
 (★★☆)
 
- | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to [Wind Blade](Wind_Blade.md).
+ | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to [Wind Blade](Galebreathe.md#wind-blade).
 
 -   Deals Galebreathe damage.
 

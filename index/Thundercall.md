@@ -18,17 +18,17 @@ _Thundercall icon_
 
 _A Thundercall infused sword_
 
-**Thundercall** is an [Attunement](Attunement.md) which grants the user the ability to control, conjure and create thunder and electricity, giving them access to abilities which focus on combat, stunning, and movement.
+**Thundercall** is an [Attunement](Attunements.md) which grants the user the ability to control, conjure and create thunder and electricity, giving them access to abilities which focus on combat, stunning, and movement.
 
 Thundercall makes use of a highly unpredictable nature due to its speed and high slow/stun potential.
 
 ## Obtainment
 
-The [Sparkblood](Sparkblood.md) Potion can be obtained by giving [Funke](Funke.md), the Thundercall trainer located inside the [Summer Isle Castle](Summer_Isle.md#the-castle) two [Spark Glands](Spark_Gland.md). Alternatively, you can simply select Thundercall as your starting Attunement in Character Creation.
+The [Sparkblood](Attunement_Potions.md) Potion can be obtained by giving [Funke](Funke,_Master_of_Thunder.md), the Thundercall trainer located inside the [Summer Isle Castle](Summer_Isle.md#the-castle) two [Spark Glands](Spark_Gland.md). Alternatively, you can simply select Thundercall as your starting Attunement in Character Creation.
 
 ## Training
 
-Thundercall can be trained by using the [Self-Conducting Loop](Self-Conducting_Loop.md) to increase the attribute after either landing Thundercall Mantras or eating [Spark Glands](Spark_Gland.md) to gain enough EXP.
+Thundercall can be trained by using the [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) to increase the attribute after either landing Thundercall Mantras or eating [Spark Glands](Spark_Gland.md) to gain enough EXP.
 
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 
@@ -37,7 +37,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At 30 Thundercall, players will receive the _Expert Thundercaller_ Talent. This allows players to obtain 2-star Thundercall Mantras.
 -   Finally, at 50 Thundercall, players will receive the _Master Thundercaller_ Talent. This allows players to obtain 3-star Thundercall Mantras.
 
-You can speak to [Funke](Funke.md) at [Summer Isle](Summer_Isle.md) or a [Mantra Lectern](Mantra_Lectern.md) to upgrade your Thundercall Mantras for 100 each. Each upgrade purchased will make the next upgrade for the same Mantra 100 more expensive.
+You can speak to [Funke](Funke,_Master_of_Thunder.md) at [Summer Isle](Summer_Isle.md) or a [Mantra Lectern](Mantra_Lectern.md) to upgrade your Thundercall Mantras for 100 each. Each upgrade purchased will make the next upgrade for the same Mantra 100 more expensive.
 
 -   To upgrade a Thundercall Mantra from level 1 to level 2 costs 100 and 20 Thundercall investment.
 -   To upgrade a Thundercall Mantra from level 2 to level 3 costs 200 and 40 Thundercall investment.
@@ -56,7 +56,7 @@ Cantrips are, often minor, passive abilities that are granted upon obtaining any
 
 ### Produce Spark
 
-This Cantrip allows the player to light [Campfires](Campfire.md) without [Flint](Flint.md).
+This Cantrip allows the player to light [Campfires](Campfire_Pit.md) without [Flint](Flint.md).
 
 This Cantrip is shared with [Flamecharm](Flamecharm.md), though the sound effect differs based on the attunement.
 
@@ -126,15 +126,15 @@ Lightning [ResistanceThundercall](Thundercall.md)
 **Effect:** _Dash forwards with the character's left hand charged with lightning; if a target is hit, slam them into the ground before sending out a small AoE around the user._
 
 -   Deals 20/22/24/26/28 base damage per level with 2.75 Thundercall scaling.
--   [Magnet Spark](Magnet_Spark.md) variant deals 25/27/29/31/33 base damage per level with 2.75 Thundercall scaling.
+-   [Magnet Spark](Mantra_Modifiers.md#sparks) variant deals 25/27/29/31/33 base damage per level with 2.75 Thundercall scaling.
 -   Deals 5 posture damage regardless of spark variant.
 -   Magnet Spark variant has a windup of 0.5 seconds.
 -   Has a 10 second cooldown.
--   Shares a cooldown with all other [grab Mantras](Grab_Mantras.md).
--   Can be modified with a [Magnet Spark](Magnet_Spark.md), causing the user to perform a short wind-up while charging their left hand with lightning before teleporting to a nearby target while dealing a shocking AoE.
+-   Shares a cooldown with all other [grab Mantras](List_of_Grab_Mantras.md).
+-   Can be modified with a [Magnet Spark](Mantra_Modifiers.md#sparks), causing the user to perform a short wind-up while charging their left hand with lightning before teleporting to a nearby target while dealing a shocking AoE.
     -   Magnet Spark variant activates only when the cursor is locked onto a target.
     -   Knockdown is removed from the Magnet variant.
--   Jolt Grab can be modified with [Crystal](Crystal_Lens.md)/[Perfect Lenses](Perfect_Lens.md) to increase the distance travelled/AoE hitbox.
+-   Jolt Grab can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the distance travelled/AoE hitbox.
 
  |
 | 
@@ -173,7 +173,7 @@ Lightning [ResistanceThundercall](Thundercall.md)
 -   10 second cooldown.
 -   Can break objects.
 -   Can grant an optional effect with the [Shocking Finish](Talents.md#shocking-finish) Talent, in which Lightning Beam is instantly castable after flourishing an enemy, pretty much guaranteeing a hit after flourish.
--   Shares a cooldown with [Ice Beam](Ice_Beam.md).
+-   Shares a cooldown with [Ice Beam](Frostdraw.md#ice-beam).
 
  |
 | 
@@ -208,7 +208,7 @@ Lightning [ResistanceThundercall](Thundercall.md)
 **Effect:** _Dash forward before performing two slashes, sending out 2 short-ranged arcs of lightning forward that pierce through targets._
 
 -   Initial hits deal 7/8/9/10/11 base damage per level, per hit (2) with 2.75 Thundercall scaling.
--   The [Magnet Spark](Magnet_Spark.md) variant adds an additional hit that deals 8.75/10/11.25/12.5/13.75 base damage per level with 2.75 Thundercall scaling.
+-   The [Magnet Spark](Mantra_Modifiers.md#sparks) variant adds an additional hit that deals 8.75/10/11.25/12.5/13.75 base damage per level with 2.75 Thundercall scaling.
 -   Stormcaller Slash deals an additional 12.25/14/15.75/17.5/19.25 base damage per level with 5 Thundercall scaling.
 -   Deals 3 posture damage per initial hit (2), Stormcaller Slash adds an additional 5 posture damage.
 -   10 second cooldown.
@@ -217,7 +217,7 @@ Lightning [ResistanceThundercall](Thundercall.md)
 -   Can be cancelled midway after the first 2 slashes by right-clicking.
 -   At end of Mantra, performs a "**Stormcaller Slash**", a former Talent which is now innate.
     -   Can be canceled by feinting right after the flash of lightning. This puts the Mantra on cooldown for 5 seconds.
--   Can be modified with a [Magnet Spark](Magnet_Spark.md), which causes the mantra perform an additional short-ranged teleporting slash immediately after the first two.
+-   Can be modified with a [Magnet Spark](Mantra_Modifiers.md#sparks), which causes the mantra perform an additional short-ranged teleporting slash immediately after the first two.
 
  |
 | 
@@ -260,9 +260,9 @@ Lightning [ResistanceThundercall](Thundercall.md)
 -   Projectile moves along where the character is facing.
 -   Shocks opponents inside of it while dealing damage.
 -   Your character's rotation speed is slowed during this attack.
--   Can be modified with [Cloud](Cloudstone.md)/[Stratus Stones](Stratus_Stone.md) to increase the AoE. However, this will reduced the Mantra's damage.
--   Can be modified with a [Blast Spark](Blast_Spark.md) to conjure up a shocking AoE around the user.
--   Can be modified with a [Magnet Spark](Magnet_Spark.md) to deploy a sticky projectile to a target that activates the shock after around 3 seconds.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the AoE. However, this will reduced the Mantra's damage.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks) to conjure up a shocking AoE around the user.
+-   Can be modified with a [Magnet Spark](Mantra_Modifiers.md#sparks) to deploy a sticky projectile to a target that activates the shock after around 3 seconds.
 -   The **base damage** of this Mantra is increased by 15% if you are wearing the full Specialist Set. Additionally, it will become a green color.
 
  |
@@ -300,9 +300,9 @@ Lightning [ResistanceThundercall](Thundercall.md)
 -   Has a base damage of 5/6.5/8/9.5/11 per level, per hit (3) with 2.75 Thundercall scaling.
 -   Deals 5 posture damage per hit (3).
 -   14 second cooldown.
--   Shared a cooldown with [Ice Daggers](Ice_Daggers.md).
--   Can be modified with a [Multiplying Spark](Multiplying_Spark.md) to double the amount of projectiles conjured, but halve the damage and posture damage per projectile.
--   Can be modified with a [Magnet Spark](Magnet_Spark.md) making the projectiles home towards the target and removing the beams of thunder.
+-   Shared a cooldown with [Ice Daggers](Frostdraw.md#ice-daggers).
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to double the amount of projectiles conjured, but halve the damage and posture damage per projectile.
+-   Can be modified with a [Magnet Spark](Mantra_Modifiers.md#sparks) making the projectiles home towards the target and removing the beams of thunder.
 
  |
 | 
@@ -341,14 +341,14 @@ Lightning [ResistanceThundercall](Thundercall.md)
 -   15 second cooldown.
 -   If summoned while there are no nearby target(s), it will attack the first enemy to deal damage the user or the first target the user deals damage to.
 -   Can grant a different effect with the [Static Flash Clone](Talents.md#static-flash-clone) Talent, which causes the mantra to summon a clone briefly as an afterimage before disappearing, granting the user a small speed boost and making them invisible for a short period of time before resurfacing from invisibility.
-    -   When used with the [Blast Spark](Blast_Spark.md) mantra variant, the clone conjures a **Lightning Strike** when it disappears.
+    -   When used with the [Blast Spark](Mantra_Modifiers.md#sparks) mantra variant, the clone conjures a **Lightning Strike** when it disappears.
 -   Only 6 clones can exist at a time.
--   Modifying the mantra with [Aeon](Aeon_Logstone.md)/[Eternal Logstones](Eternal_Logstone.md) _increases the health_ and amount of time the clones are active. Note that while their health is increased they still die after dealing 1 hit.
+-   Modifying the mantra with [Aeon](Mantra_Modifiers.md#regular-modifiers)/[Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) _increases the health_ and amount of time the clones are active. Note that while their health is increased they still die after dealing 1 hit.
     -   The health modifications do not affect the second clone if a Multiplying Spark is used.
     -   With 3 Aeon & Eternal Longstones the clones will last for 80 seconds.
     -   The health modifiers are disabled if more than 2 clones are spawned.
--   Can be modified with a [Blast Spark](Blast_Spark.md) to cause the clone to detonate and shock upon hitting a target/death.
--   Can be modified with a [Multiplying Spark](Multiplying_Spark.md) to summon an additional clone.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks) to cause the clone to detonate and shock upon hitting a target/death.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to summon an additional clone.
 
  |
 | 
@@ -430,9 +430,9 @@ Lightning [ResistanceThundercall](Thundercall.md)
 -   The first hit applies knockdown.
 -   Can be cancelled at any point by clicking.
     -   This includes being hit by the user's own Lightning Strike. (they removed the self damage in a shadow patch)
--   Can be modified with [Cloud](Cloudstone.md)/[Stratus Stones](Stratus_Stone.md) to increase the hitbox of the projectiles.
--   Can be modified with [Aeon](Aeon_Logstone.md)/[Eternal Logstones](Eternal_Logstone.md) to increase the number of strikes. Duration modifiers also reduce the amount of damage per strike.
--   Can be modified with [Crystal](Crystal_Lens.md)/[Perfect Lenses](Perfect_Lens.md) to increase max distance of strikes.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the hitbox of the projectiles.
+-   Can be modified with [Aeon](Mantra_Modifiers.md#regular-modifiers)/[Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to increase the number of strikes. Duration modifiers also reduce the amount of damage per strike.
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase max distance of strikes.
 
  |
 | 
@@ -513,8 +513,8 @@ Lightning [ResistanceThundercall](Thundercall.md)
 -   Deals 3 posture per hit.
 -   5 minute cooldown.
 -   Currently bugged and only strikes once.
--   Can be modified with [Cloud](Cloudstone.md)/[Stratus Stones](Stratus_Stone.md) to increase the hitbox of the projectiles.
--   Can be modified with [Crystal](Crystal_Lens.md)/[Perfect Lenses](Perfect_Lens.md) to increase the range of where the projectiles can be fired.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the hitbox of the projectiles.
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the range of where the projectiles can be fired.
 
  |
 | 
@@ -554,7 +554,7 @@ Lightning [ResistanceThundercall](Thundercall.md)
 -   Has 0.5 seconds of endlag.
 -   Ragdolls and flings target(s).
 -   Can be given an effect with the [Grand Skewer](Talents.md#grand-skewer) Talent; which carries the target(s) hit along with projectile if the user presses the block while casting.
--   Can be modified with a [Multiplying Spark](Multiplying_Spark.md) to throw 3 smaller javelins that travel forward and adjacent respectively. This equally splits the damage and posture damage for each javelin into thirds.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to throw 3 smaller javelins that travel forward and adjacent respectively. This equally splits the damage and posture damage for each javelin into thirds.
 -   The **base damage** of this Mantra is increased by 15% if you are wearing the full Specialist Set. Additionally, it will become a green color.
 
  |
@@ -593,8 +593,8 @@ Lightning [ResistanceThundercall](Thundercall.md)
 -   Deals 0 posture damage.
 -   Has a cooldown of 12 seconds.
 -   Has a short delay before dealing damage.
--   Can be modified with [Cloud](Cloudstone.md)/[Stratus Stones](Stratus_Stone.md) to increase the hitbox of the projectile, but reducing the Mantra's damage.
--   Can be modified with a [Tornado Spark](Tornado_Spark.md) to cause the mantra to deploy ring of lightning; shocking and dealing damage to target(s) that touch its walls.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the hitbox of the projectile, but reducing the Mantra's damage.
+-   Can be modified with a [Tornado Spark](Mantra_Modifiers.md#sparks) to cause the mantra to deploy ring of lightning; shocking and dealing damage to target(s) that touch its walls.
     -   **This increases its cooldown from 12 seconds to 20 seconds.**
     -   Good for isolating a target for a 1v1 situation.
 
@@ -634,8 +634,8 @@ Lightning [ResistanceThundercall](Thundercall.md)
 -   The lightning strikes have a base damage of 15/17/19/21/23 per level, per hit with 2.75 Thundercall scaling.
 -   Deals 13.5 posture damage on the initial hit + 10 posture damage per lightning strike.
 -   30 second cooldown.
--   Can be modified with [Cloud](Cloudstone.md)/[Stratus Stones](Stratus_Stone.md) to increase the size of the hitbox.
--   Can be modified with [Crystal](Crystal_Lens.md)/[Perfect Lenses](Perfect_Lens.md) to increase the range of the lightning strikes.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the size of the hitbox.
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the range of the lightning strikes.
 
  |
 | 
@@ -747,7 +747,7 @@ Lightning [ResistanceThundercall](Thundercall.md)
 -   Has an unusually inconsistent hitbox, sometimes not hitting those in its path.
 -   Guaranteed to hit at least one target if you have your crosshair locked onto them.
 -   Its distance is reduced by 60% when used in water.
--   Can be modified with [Cloud](Cloudstone.md)/[Stratus Stones](Stratus_Stone.md) to make it go further, **capping at 3 Stratus Stones**.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to make it go further, **capping at 3 Stratus Stones**.
 -   Note that this mantra can cause the user to clip through walls, sending you into unwanted places, and even leading to your death if not careful.
 
  |
@@ -863,9 +863,9 @@ Lightning [ResistanceThundercall](Thundercall.md)
 -   Deals 4 posture damage.
 -   Has a wind-up of 0.4 seconds.
 -   Has a cooldown of 14 seconds.
--   Can be modified with [Crystal](Crystal_Lens.md)/[Perfect Lenses](Perfect_Lens.md) to increase the range of the projectile traveled.
--   Can be modified with a [Reversal Spark](Reversal_Spark.md) to pull **yourself** to your opponent.
--   Can be modified with a [Blast Spark](Blast_Spark.md) to stun and damage the target instead of pulling them towards the user.
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the range of the projectile traveled.
+-   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks) to pull **yourself** to your opponent.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks) to stun and damage the target instead of pulling them towards the user.
 
  |
 | 
@@ -902,7 +902,7 @@ N/A
 -   **Sapping** increases the target's mantra cooldown.
 -   \[\] Second Cooldown.
 -   When Sapping ends, the target is shocked. If you have surge path, it will apply a Surge stack.
--   Can be modified with [Aeon](Aeon_Logstone.md)/[Eternal Logstones](Eternal_Logstone.md) to increase its uses.
+-   Can be modified with [Aeon](Mantra_Modifiers.md#regular-modifiers)/[Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to increase its uses.
 
  |
 | 
@@ -942,10 +942,10 @@ N/A
 -   Cannot be used while in water or airborne.
 -   30 Second Cooldown.
 -   Can be used for escaping situations or for trolling.
--   Can be modified with [Cloud](Cloudstone.md)/[Stratus Stones](Stratus_Stone.md) to supposably increase range but currently does nothing.
--   Can be modified with [Aeon](Aeon_Logstone.md)/[Eternal Logstones](Eternal_Logstone.md) but currently does nothing.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to supposably increase range but currently does nothing.
+-   Can be modified with [Aeon](Mantra_Modifiers.md#regular-modifiers)/[Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) but currently does nothing.
 -   Mantra Levels currently do nothing.
--   Can be modified with a [Multiplying Spark](Multiplying_Spark.md) to speed up the casting speed to 0.6 seconds, shorten the cooldown to 5 seconds, greatly reduce the range to 40-50 studs (depends on hp). This allows you to use the mantra in Chime of Conflict.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to speed up the casting speed to 0.6 seconds, shorten the cooldown to 5 seconds, greatly reduce the range to 40-50 studs (depends on hp). This allows you to use the mantra in Chime of Conflict.
 
  |
 
@@ -1111,7 +1111,7 @@ Works on Surge stacks that weren't applied by you. Does not work on Surge stacks
 
 ## Trivia
 
--   All Thundercall damage receives a 5% damage buff when it is [raining](Rain.md). Stratoshock further increases this damage buff to 10%.
+-   All Thundercall damage receives a 5% damage buff when it is [raining](Environmental_Hazards.md). Stratoshock further increases this damage buff to 10%.
 -   Out of all Attunements, Thundercall has the most color variants (5).
     -   This includes: default Thundercall's yellow, Surge Path's blurple, [Theros Disciple](Theros_Disciple.md)'s white, Specialist Set's green, and [the Ferryman](The_Ferryman.md)'s pink.
 -   **Electro Carve** was formerly a 0-star mantra.
@@ -1133,10 +1133,10 @@ Works on Surge stacks that weren't applied by you. Does not work on Surge stacks
     -   For this reason, [Legion Snipers](Legion_Sniper.md) were considered to be fairly dangerous when fought as a group.
 -   **Emotion Wave** is a direct reference to the [_**Ancient Dragons' Lightning Strike**_](<https://eldenring.wiki.fextralife.com/Ancient+Dragons'+Lightning+Strike>) incantation from [_Elden Ring_](https://eldenring.wiki.fextralife.com/Elden+Ring+Wiki). It also possibly gets its name from Lightning Style: Emotion Wave. Shown in Naruto Shippuden Episode 202.
     -   **Emotion Wave** also had it's PvE scale nerfed, a total of three times.
--   Thundercall is needed for every [Oath](Oaths.md) that requires an [attunement](Attunement.md), those being: [Arcwarder](Oath%253A_Arcwarder.md), [Blightsurger](Oath%253A_Blightsurger.md) and [Saintsworn](Oath%253A_Saintsworn.md).
+-   Thundercall is needed for every [Oath](Oaths.md) that requires an [attunement](Attunements.md), those being: [Arcwarder](Oath%253A_Arcwarder.md), [Blightsurger](Oath%253A_Blightsurger.md) and [Saintsworn](Oath%253A_Saintsworn.md).
 -   It is said by [Neero](Neero.md) that Thundercall can "power" golems to "give life" to them.
 -   The [Railblade](Railblade.md) was originally intended to be a legendary weapon for this attunement.
--   Before the Perfect Cast mechanic was removed, **Jolt Grab** and [Flame Grab](Flame_Grab.md) were among very few abilities and the only Mantras to have an innate unique interaction with it. When Perfect Casted, the duration of these Mantras would be shortened and capped, playing "extinguish"-like VFX unique from the regular version.
+-   Before the Perfect Cast mechanic was removed, **Jolt Grab** and [Flame Grab](Flamecharm.md#flame-grab) were among very few abilities and the only Mantras to have an innate unique interaction with it. When Perfect Casted, the duration of these Mantras would be shortened and capped, playing "extinguish"-like VFX unique from the regular version.
     -   A video summarizing this effect can be found [here](https://youtu.be/o3AJne5Y04U?si=Jzim_sMEg3q-qTkX).
 
 Virudhaka's Sword

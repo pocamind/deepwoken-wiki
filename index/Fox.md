@@ -24,7 +24,7 @@ E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 Foxes are a species of animal that existed during the Old World,[\[1\]](#cite-note-dsjournal-1) but have since gone extinct.[\[2\]](#cite-note-2)
 
-[Simeon Rasimof](Simeon_Rasimof.md) once attended a public lecture given by Scholar Tullius that discussed foxes. During Simeon's time as a [Memorial Mason](Memorial_Mason.md), he recalled the animal while engraving the name of a Diver whose forename was "Fox", and expressed incredulity at the thought of being named after an animal.[\[1\]](#cite-note-dsjournal-1)
+[Simeon Rasimof](Simeon_Rasimof.md) once attended a public lecture given by Scholar Tullius that discussed foxes. During Simeon's time as a [Memorial Mason](Memorial_Masons.md), he recalled the animal while engraving the name of a Diver whose forename was "Fox", and expressed incredulity at the thought of being named after an animal.[\[1\]](#cite-note-dsjournal-1)
 
 ## References
 

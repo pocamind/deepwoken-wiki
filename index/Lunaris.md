@@ -24,7 +24,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Lunaris is a [Ganymede](Ganymede.md) [NPC](NPC.md) who wears the [Hive Drone](Hive_Drone.md) outfit with the [Ganymede](Ganymede.md) hat. He serves as the [Vow of Iron](Vow_of_Iron.md) counterpart of [Laplace](Laplace.md).
+Lunaris is a [Ganymede](Ganymede.md) NPC who wears the [Hive Drone](Hive_Drone.md) outfit with the [Ganymede](Ganymede.md) hat. He serves as the [Vow of Iron](Vow_of_Iron.md) counterpart of [Laplace](Laplace.md).
 
 Handing in three [enchanted items](Enchantments.md) will apply a random one on your currently equipped weapon. Additionally, for each Enchant you give to Lunaris, the total amount is tallied.
 

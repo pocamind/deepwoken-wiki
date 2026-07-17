@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Vampirism is a sustain [enchantment](Enchantment.md) that grants [Temporary Health](Status_Effects.md#temporary-health) to the user on hit.
+Vampirism is a sustain [enchantment](Enchantments.md) that grants [Temporary Health](Status_Effects.md#temporary-health) to the user on hit.
 
 ## Effects
 

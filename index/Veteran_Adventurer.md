@@ -25,23 +25,23 @@ categories: [Outfits, Expert Outfits, Outfits with Talents, "Outfits with Non-ex
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Veteran Adventurer** is an Expert [Outfit](Outfit.md) in _Deepwoken_.
+**Veteran Adventurer** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 100 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), two (2) [Gold](Gold.md), ten (10) [Iron](Iron.md), two (2) [Megalodaunt Hides](Megalodaunt_Hide.md), and one (1) [Strange Claw](Strange_Claw.md) to craft.
+This Outfit costs 100 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), two (2) [Gold](Ores.md#gold), ten (10) [Iron](Ores.md#iron), two (2) [Megalodaunt Hides](Megalodaunt_Hide.md), and one (1) [Strange Claw](Strange_Claw.md) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 10 to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability and grants +15% Physical resistance ResistanceBlunt ResistanceSlash, +15% Elemental resistance [ResistanceElemental](Attunement.md), +5% Fire resistance [ResistanceFlamecharm](Flamecharm.md), and +5% Shadow resistance [ResistanceShadowcast](Shadowcast.md). Additionally, it provides the [Foolish Outburst](Talents.md#foolish-outburst) Talent.
+This Outfit has 1500 durability and grants +15% Physical resistance ResistanceBlunt ResistanceSlash, +15% Elemental resistance [ResistanceElemental](Attunements.md), +5% Fire resistance [ResistanceFlamecharm](Flamecharm.md), and +5% Shadow resistance [ResistanceShadowcast](Shadowcast.md). Additionally, it provides the [Foolish Outburst](Talents.md#foolish-outburst) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 15% Physical ResistanceBlunt ResistanceSlash, 19.25% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 19.25% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 15% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 
-The [Foolish Outburst](Talents.md#foolish-outburst) Talent absorbs the [Tempo](Tempo.md) cost of a [Vent](Vent.md) should the wearer block or parry it.
+The [Foolish Outburst](Talents.md#foolish-outburst) Talent absorbs the [Tempo](Combat_Mechanics.md#tempo) cost of a [Vent](Combat_Mechanics.md#tempo) should the wearer block or parry it.
 
 ## Trivia
 

@@ -18,7 +18,7 @@ categories: [Enchantments, Equipment Enchantments]
 
 ## Description
 
-Displacement is a self-buffing equipment [enchantment](Enchantment.md) that grants a speed boost on proc.
+Displacement is a self-buffing equipment [enchantment](Enchantments.md) that grants a speed boost on proc.
 
 ## Effect
 

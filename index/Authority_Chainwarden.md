@@ -23,7 +23,7 @@ Their appearance consists of an [Authority Helm](Authority_Helm.md) and the [Aut
 
 ## Moveset
 
-An Authority Chainwarden's arsenal consists of a variety of weapons alongside the [Thundercall](Thundercall.md) and [Flamecharm](Flamecharm.md) Attunements. They also wield the [Chainwarden](Chainwarden.md) Oath, hence their name.
+An Authority Chainwarden's arsenal consists of a variety of weapons alongside the [Thundercall](Thundercall.md) and [Flamecharm](Flamecharm.md) Attunements. They also wield the [Chainwarden](Oath%253A_Chainwarden.md) Oath, hence their name.
 
 | Name/Danger | Description |
 | --- | --- |

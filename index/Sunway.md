@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Sunway is a Plackart [Vesperian](Vesperian.md) working for [The Ignition Union](The_Ignition_Union.md) in [The Ethironal Shrine](The_Ethironal_Shrine.md). Speaking with Sunway reveals that the 'snow' that the player has building up on them are actually parasites, which if left unchecked to build up will kill the host (the player, too). From there, victims turn into [husks](Diver_Husk.md), and finally, [Carbuncles](Carbuncle.md).
+Sunway is a Plackart [Vesperian](Vesperian.md) working for [The Ignition Union](The_Ignition_Union.md) in [The Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md). Speaking with Sunway reveals that the 'snow' that the player has building up on them are actually parasites, which if left unchecked to build up will kill the host (the player, too). From there, victims turn into [husks](Diver_Husk.md), and finally, [Carbuncles](Carbuncle.md).
 
 From speaking with Sunway, it is implied that the Ignition Union created the black and yellow variants of the lanterns as a way to prevent parasite buildup. These are not to be confused with the white and blue variant seen in the [Galewax](Galewax.md) area of the [Ethironal Shrine Sanctuary](Ethironal_Shrine_Sanctuary.md).
 

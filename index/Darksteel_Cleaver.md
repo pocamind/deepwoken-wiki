@@ -45,7 +45,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 The Darksteel Cleaver is a greatsword in the [Vow of Iron](Vow_of_Iron.md) gamemode. Although being one of the best weapons for bosses in the endgame, it is obtainable from any power.
 
-Located where the Chariot's Spire would be in [Pathfinder](Pathfinder.md), near a [Deep Owl](Deep_Owl.md) and a [Prime Owl](Prime_Owl.md). Be aware that the sword spawns very rarely so you might have to server hop several times to find it.
+Located where the Chariot's Spire would be in [Pathfinder](Pathfinder.md), near a [Deep Owl](Deep_Owl.md) and a [Prime Owl](Parliament.md). Be aware that the sword spawns very rarely so you might have to server hop several times to find it.
 
 ## Talents
 

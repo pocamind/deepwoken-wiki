@@ -46,7 +46,7 @@ The [Fearful](Status_Effects.md#fearful) status effect lasts 19 seconds.
 
 ## Obtainment
 
-After defeating [Titus](Titus.md), a crafting bench within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
+After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
 
 1.  1 [Evanspear War Plate](Evanspear_War_Plate.md) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 3 [Wrath Gems](Wrath_Gem.md).
 2.  1 [Evanspear War Plate](Evanspear_War_Plate.md) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 1 [Wrath Gem](Wrath_Gem.md).

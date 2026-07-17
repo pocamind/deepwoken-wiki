@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments, The Vat Excl
 
 ## Description
 
-Curse of Void is a [Gaunt Man](Gaunt_Man.md)\-exclusive debuffing curse [enchantment](Enchantment.md) applies anti-heal on hit.
+Curse of Void is a [Gaunt Man](The_Gaunt_Man.md)\-exclusive debuffing curse [enchantment](Enchantments.md) applies anti-heal on hit.
 
 ## Effect
 
@@ -30,7 +30,7 @@ In PvE, your weapon attacks apply [Ether Sunder](Status_Effects.md#ether-sunder)
 
 ### Curse
 
-Your [Health State](Health_State.md) is set to [Cursed](Status_Effects.md#cursed) while a Curse of Void enchanted weapon is equipped, "staining" your health bar, and making every death send you to [The Depths](The_Depths.md). Taking damage will extend this effect for 60 seconds, meaning your healthbar will remained stained for some time after weapon swapping. This may not be visually displayed as a stained healthbar due to a bug.
+Your [Health State](Status_Effects.md#health-states) is set to [Cursed](Status_Effects.md#cursed) while a Curse of Void enchanted weapon is equipped, "staining" your health bar, and making every death send you to [The Depths](The_Depths.md). Taking damage will extend this effect for 60 seconds, meaning your healthbar will remained stained for some time after weapon swapping. This may not be visually displayed as a stained healthbar due to a bug.
 
 ### Notes
 

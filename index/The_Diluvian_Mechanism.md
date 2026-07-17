@@ -60,7 +60,7 @@ While not required, things listed below can prove to make your experience much e
 
 -   _**[Resonance](Resonance.md):**_ Having a good bell heavily impacts survivability in The Diluvian Mechanism. Effective options like [Sacred Field](Sacred_Field.md) provides a strong defensive buff, while Corrupted [Payback](Payback.md) (especially Laser variant) will heal the caster.
 -   _**[Brick Wall](Talents.md#brick-wall):**_ You will find this talent very helpful, as so you won't get tossed around that much. Highly recommended if you're planning on soloing.
--   _**[Water off a Duck's Back](Talents.md#water-off-a-ducks-back)/[Blood Transfusion](Talents.md#blood-transfusion):**_ These two talents are recommended for if you want solo wave 50 with low weapon investment. The reason for this is that there are mantra-less waves, and mantra-less counts as a status effect that can be removed by venting using Water off a Duck's Back or using your weapon's critical with [Blood Transfusion](Talents.md#quack-doctor). From going Water off a Duck's Back, you also get other intelligence talents and [Prediction](Prediction.md), which can be used to replace [Payback](Payback.md). From going Blood Transfusion, there's temporary health you can get from [Sow and Mend](Talents.md#transitory-vitality) as well as [Rush Hour](Talents.md#bloodrender), which, while it is risky to use, provides a helpful buff in damage.
+-   _**[Water off a Duck's Back](Talents.md#water-off-a-ducks-back)/[Blood Transfusion](Talents.md#blood-transfusion):**_ These two talents are recommended for if you want solo wave 50 with low weapon investment. The reason for this is that there are mantra-less waves, and mantra-less counts as a status effect that can be removed by venting using Water off a Duck's Back or using your weapon's critical with [Blood Transfusion](Talents.md#quack-doctor). From going Water off a Duck's Back, you also get other intelligence talents and [Prediction](Attunement-less.md#prediction), which can be used to replace [Payback](Payback.md). From going Blood Transfusion, there's temporary health you can get from [Sow and Mend](Talents.md#transitory-vitality) as well as [Rush Hour](Talents.md#bloodrender), which, while it is risky to use, provides a helpful buff in damage.
 -   _**[Force Your Way](Talents.md#force-your-way):**_ In The Diluvian Mechanism, opponents such as Rogue Constructs, Megalodaunts, Stone Knights, and Crustaceous Rex will appear with attacks that cannot be parried. However, with the Force Your Way talent (gained from the Ignition Deepdelver armor OR Ignition Gauntlets), you can parry all moves--including those that could not be previously parried--at the cost of your armor durability.
 -   _**[Tidekeeper](Celtorian_Tideknight.md):**_ If you lose 25% of your HP in 3 seconds while having the Celtorian Tideknight armor, you can avoid being knocked for 10 seconds and you gain a 15% damage and 20% defense buff. This will allow you to rush through mobs without too much worry.
 -   _**[Ardour Scream](Murmur%253A_Ardour.md):**_ An essential talent for maximizing damage, applying a status effect in a large AoE that grants a +12.5% damage and 50% posture damage modifier against affected targets.
@@ -112,29 +112,29 @@ Based on the power of the user(s), the starting wave will differ;
  |  |
 | 4 (Deepbound "Trial of One") | 
 
-1 [Corrupted](Corrupted_Monsters.md) [Lionfish](Lionfish.md)
+1 [Corrupted](Monsters.md#scyphozia) [Lionfish](Lionfish.md)
 
  |  |
 | 5 (Deepbound "Trial of One") | 
 
-1 [Corrupted](Corrupted_Monsters.md) [Megalodaunt](Megalodaunt.md)
+1 [Corrupted](Monsters.md#scyphozia) [Megalodaunt](Megalodaunt.md)
 
  |  |
 | 6 | 
 
 2 [Sworn Angels](Sworn_Angel.md)  
-4 [Corrupted](Corrupted_Monsters.md) [Mudskipper Knights](Mudskipper_Knight.md)
+4 [Corrupted](Monsters.md#scyphozia) [Mudskipper Knights](Mudskipper_Knight.md)
 
  |  |
 | 7 | 
 
-6 [Corrupted](Corrupted_Monsters.md) [Mudskipper Knights](Mudskipper_Knight.md)
+6 [Corrupted](Monsters.md#scyphozia) [Mudskipper Knights](Mudskipper_Knight.md)
 
  |  |
 | 8 | 
 
 2 [Sworn Angels](Sworn_Angel.md)  
-4 [Corrupted](Corrupted_Monsters.md) [Mudskipper Knights](Mudskipper_Knight.md)
+4 [Corrupted](Monsters.md#scyphozia) [Mudskipper Knights](Mudskipper_Knight.md)
 
  |  |
 | 9 |  | Spawns no enemies. |
@@ -149,32 +149,32 @@ Based on the power of the user(s), the starting wave will differ;
  |  |
 | 11 | 
 
-2 [Corrupted](Corrupted_Monsters.md) [Lionfish](Lionfish.md)  
-2 [Corrupted](Corrupted_Monsters.md) [Terrapods](Terrapod.md)
+2 [Corrupted](Monsters.md#scyphozia) [Lionfish](Lionfish.md)  
+2 [Corrupted](Monsters.md#scyphozia) [Terrapods](Terrapod.md)
 
  |  |
 | 12 | 
 
-1 [Corrupted](Corrupted_Monsters.md) [King Gigamed](King_Gigamed.md)  
-1 [Corrupted](Corrupted_Monsters.md) [King Thresher](King_Thresher.md)
+1 [Corrupted](Monsters.md#scyphozia) [King Gigamed](King_Gigamed.md)  
+1 [Corrupted](Monsters.md#scyphozia) [King Thresher](King_Thresher.md)
 
  |  |
 | 13 | 
 
 2 [Stone Knights](Stone_Knight.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Deep Owl](Deep_Owl.md)
+1 [Corrupted](Monsters.md#scyphozia) [Deep Owl](Deep_Owl.md)
 
  |  |
 | 14
 
 **\*TIMEBOMB MODIFIER\***
 
- | 2 [Corrupted](Corrupted_Monsters.md) [Deep Owls](Deep_Owl.md) |  |
+ | 2 [Corrupted](Monsters.md#scyphozia) [Deep Owls](Deep_Owl.md) |  |
 | 15 | 
 
-1 [Corrupted](Corrupted_Monsters.md) [Crimson Megalodaunt](Crimson_Megalodaunt.md)  
-2 [Corrupted](Corrupted_Monsters.md) [Crimson Terrapods](Crimson_Terrapod.md)  
-2 [Corrupted](Corrupted_Monsters.md) [Nightmare Threshers](Nightmare_Thresher.md)
+1 [Corrupted](Monsters.md#scyphozia) [Crimson Megalodaunt](Crimson_Megalodaunt.md)  
+2 [Corrupted](Monsters.md#scyphozia) [Crimson Terrapods](Terrapod.md#crimson)  
+2 [Corrupted](Monsters.md#scyphozia) [Nightmare Threshers](Nightmare_Thresher.md)
 
  |  |
 | 16 | 
@@ -187,7 +187,7 @@ Based on the power of the user(s), the starting wave will differ;
  |  |
 | 17) | 
 
-1 [Corrupted](Corrupted_Monsters.md) [Nightmare Thresher](Nightmare_Thresher.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Nightmare Thresher](Nightmare_Thresher.md)  
 2 [Threshers](Thresher.md)  
 1 [King Thresher](King_Thresher.md)
 
@@ -204,18 +204,18 @@ Based on the power of the user(s), the starting wave will differ;
  |  |
 | 19 | 
 
-2 [Corrupted](Corrupted_Monsters.md) [Terrapods](Terrapod.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Deep Owl](Deep_Owl.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Rock Golem](Rock_Golem.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Megalodaunt](Megalodaunt.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Mudskipper Brute](Mudskipper_Brute.md)  
+2 [Corrupted](Monsters.md#scyphozia) [Terrapods](Terrapod.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Deep Owl](Deep_Owl.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Rock Golem](Rock_Golem.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Megalodaunt](Megalodaunt.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Mudskipper Brute](Mudskipper_Brute.md)  
 
- | Both Terrapods have a higher chance to be the [Crimson variant](Crimson_Terrapod.md). |
+ | Both Terrapods have a higher chance to be the [Crimson variant](Terrapod.md#crimson). |
 | 20
 
 **\*HOLLOW MODIFER\***
 
- | 3 [Attuned](Attuned_Monsters.md) [Enforcers](Enforcer.md) |  |
+ | 3 [Attuned](Monsters.md#attuned-monsters) [Enforcers](Enforcer.md) |  |
 | 21 | 
 
 1 [Stone Knight](Stone_Knight.md)  
@@ -229,7 +229,7 @@ Based on the power of the user(s), the starting wave will differ;
 | 22 | 
 
 2 [Nautilodaunts](Nautilodaunt.md)  
-2 [Attuned](Attuned_Monsters.md)(?) [Enforcers](Enforcer.md)
+2 [Attuned](Monsters.md#attuned-monsters)(?) [Enforcers](Enforcer.md)
 
  |  |
 | 23 | 
@@ -238,15 +238,15 @@ Based on the power of the user(s), the starting wave will differ;
 1 [Deep Widow](Deep_Widow.md)  
 1 [Deep Owl](Deep_Owl.md)  
 1 [Stone Knight](Stone_Knight.md)  
-2 [Corrupted](Corrupted_Monsters.md) [Threshers](Thresher.md)  
+2 [Corrupted](Monsters.md#scyphozia) [Threshers](Thresher.md)  
 1 [Alpha Megalodaunt](Alpha_Megalodaunt.md)
 
  |  |
 | 24 | 
 
-1 [Corrupted](Corrupted_Monsters.md) [Megalodaunt](Megalodaunt.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Megalodaunt](Megalodaunt.md)  
 1 [Crimson Megalodaunt](Crimson_Megalodaunt.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Alpha Megalodaunt](Alpha_Megalodaunt.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Alpha Megalodaunt](Alpha_Megalodaunt.md)  
 1 [Mechalodaunt](Mechalodaunt.md)
 
  |  |
@@ -254,115 +254,115 @@ Based on the power of the user(s), the starting wave will differ;
 
 **\*TIMEBOMB MODIFIER\***
 
- | 2 [Corrupted](Corrupted_Monsters.md) [Bounders](Bounder.md) | It's best to target 1 Bounder first before targeting the other. Ideally, you can be near one Bounder's spawn point and force them into the corner, making it harder for them to run away. |
+ | 2 [Corrupted](Monsters.md#scyphozia) [Bounders](Bounder.md) | It's best to target 1 Bounder first before targeting the other. Ideally, you can be near one Bounder's spawn point and force them into the corner, making it harder for them to run away. |
 | 26 | 
 
-2 [Corrupted](Corrupted_Monsters.md) [Stone Knights](Stone_Knight.md)  
-4 [Corrupted](Corrupted_Monsters.md) [Alpha Megalodaunts](Alpha_Megalodaunt.md)
+2 [Corrupted](Monsters.md#scyphozia) [Stone Knights](Stone_Knight.md)  
+4 [Corrupted](Monsters.md#scyphozia) [Alpha Megalodaunts](Alpha_Megalodaunt.md)
 
  | Best to position yourself in a corner to reduce the constant knockback. |
 | 27 | 
 
-1 [Corrupted](Corrupted_Monsters.md) [Megalodaunt](Megalodaunt.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Alpha Megalodaunt](Alpha_Megalodaunt.md)  
-1 [Corrupted](Corrupted_Monsters.md) [King Gigamed](King_Gigamed.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Terrapod](Terrapod.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Crustaceous Rex](Crustaceous_Rex.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Lionfish](Lionfish.md)  
-2 [Corrupted](Corrupted_Monsters.md) [Threshers](Thresher.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Mudskipper Brute](Mudskipper_Brute.md).
+1 [Corrupted](Monsters.md#scyphozia) [Megalodaunt](Megalodaunt.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Alpha Megalodaunt](Alpha_Megalodaunt.md)  
+1 [Corrupted](Monsters.md#scyphozia) [King Gigamed](King_Gigamed.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Terrapod](Terrapod.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Crustaceous Rex](Crustaceous_Rex.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Lionfish](Lionfish.md)  
+2 [Corrupted](Monsters.md#scyphozia) [Threshers](Thresher.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Mudskipper Brute](Mudskipper_Brute.md).
 
  |  |
 | 28 | 
 
-1 [Corrupted](Corrupted_Monsters.md) [Golem Prime](Golem_Prime.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Golem Prime](Golem_Prime.md)  
 1 [Fury Nautilodaunt](Fury_Nautilodaunt.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Kyrsgarde Brute](Kyrsgarde_Brute.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Kyrsgarde Brute](Kyrsgarde_Brute.md)  
 1 [Enforcer](Enforcer.md)  
 1 [Nautilodaunt](Nautilodaunt.md).
 
  |  |
 | 29 | 
 
-1 [Corrupted](Corrupted_Monsters.md) [Crimson Megalodaunt](Crimson_Megalodaunt.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Glacial Lionfish](Glacial_Lionfish.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Deep Owl](Deep_Owl.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Crimson Megalodaunt](Crimson_Megalodaunt.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Glacial Lionfish](Glacial_Lionfish.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Deep Owl](Deep_Owl.md)  
 1 [Nautilodaunt](Nautilodaunt.md)  
 1 [Fury Nautilodaunt](Fury_Nautilodaunt.md).
 
  |  |
 | 30 | 
 
-9 [Corrupted](Corrupted_Monsters.md) [Attuned](Attuned_Monsters.md) [Carbuncles](Carbuncle.md)
+9 [Corrupted](Monsters.md#scyphozia) [Attuned](Monsters.md#attuned-monsters) [Carbuncles](Carbuncle.md)
 
  | The Carbuncles can permanently hit stun you. Use Corrupted Payback to do high amounts of damage or vent to get distance. |
 | 31 | 
 
-3 [Corrupted](Corrupted_Monsters.md) [Thunderstruck](Attuned_Monsters.md) [Golem Primes](Golem_Prime.md)  
+3 [Corrupted](Monsters.md#scyphozia) [Thunderstruck](Monsters.md#attuned-monsters) [Golem Primes](Golem_Prime.md)  
 1 [Fury Nautilodaunt](Fury_Nautilodaunt.md)  
-and 1 [Corrupted](Corrupted_Monsters.md) [King Gigamed](King_Gigamed.md).
+and 1 [Corrupted](Monsters.md#scyphozia) [King Gigamed](King_Gigamed.md).
 
  | Be careful about getting stun locked by the Prime Golems. If you have Corrupted Payback and the talent Full Reset, you can use Corrupted Payback while the Golems are using their Rapid Spin and kill the Fury Nautilodaunt and proc Full Reset, allowing you to use it again and kill the Golems and the King Gigamed. However, keep in mind that the Golems are capable of cancelling your Corrupted Payback, so caution is advised. |
 | 32 | 
 
-1 [Blizzard Knight](Blizzard_Knight.md)  
-2 [Corrupted](Corrupted_Monsters.md) [Frostmantle](Attuned_Monsters.md) [Glacial Lionfishes](Glacial_Lionfish.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Frostmantle](Attuned_Monsters.md) [Bonekeeper](Bonekeeper.md)  
-2 [Frostmantle](Attuned_Monsters.md) [Corrupted](Corrupted_Monsters.md) [Crabs](Crab.md)  
-1 [Frostmantle](Attuned_Monsters.md) [Nautilodaunt](Nautilodaunt.md)
+1 [Blizzard Knight](Stone_Knight.md#blizzard-knight)  
+2 [Corrupted](Monsters.md#scyphozia) [Frostmantle](Monsters.md#attuned-monsters) [Glacial Lionfishes](Glacial_Lionfish.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Frostmantle](Monsters.md#attuned-monsters) [Bonekeeper](Bone_Keeper.md)  
+2 [Frostmantle](Monsters.md#attuned-monsters) [Corrupted](Monsters.md#scyphozia) [Crabs](Crab.md)  
+1 [Frostmantle](Monsters.md#attuned-monsters) [Nautilodaunt](Nautilodaunt.md)
 
  |  |
 | 33 | 
 
 1 [King Thresher](King_Thresher.md)  
-2 [Corrupted](Corrupted_Monsters.md) [Flamewreathed](Attuned_Monsters.md) [Nightmare Threshers](Nightmare_Thresher.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Flamewreathed](Attuned_Monsters.md) [Crimson Megalodaunt](Crimson_Megalodaunt.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Flamewreathed](Attuned_Monsters.md) [Mechalodaunt](Mechalodaunt.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Rogue Construct](Rogue_Construct.md)
+2 [Corrupted](Monsters.md#scyphozia) [Flamewreathed](Monsters.md#attuned-monsters) [Nightmare Threshers](Nightmare_Thresher.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Flamewreathed](Monsters.md#attuned-monsters) [Crimson Megalodaunt](Crimson_Megalodaunt.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Flamewreathed](Monsters.md#attuned-monsters) [Mechalodaunt](Mechalodaunt.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Rogue Construct](Rogue_Construct.md)
 
  | Avoid getting hit by the Rogue Construct's Meteor Punch, it is more than capable of doing around half of your health even with high monster armor. |
 | 34
 
 **\*TIMEBOMB MODIFIER\***
 
- | 3 [Galeforce](Attuned_Monsters.md) [Enforcers](Enforcer.md)  
+ | 3 [Galeforce](Monsters.md#attuned-monsters) [Enforcers](Enforcer.md)  
 
-1 [Corrupted](Corrupted_Monsters.md) [Galeforce](Attuned_Monsters.md) [Kyrsgarde Sniper](Kyrsgarde_Sniper.md).
+1 [Corrupted](Monsters.md#scyphozia) [Galeforce](Monsters.md#attuned-monsters) [Kyrsgarde Sniper](Kyrsgarde_Sniper.md).
 
  |  |
 | 35 | 
 
-1 [Corrupted](Corrupted_Monsters.md) [Shadowmeld](Attuned_Monsters.md) [Golem Prime](Golem_Prime.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Shadowmeld](Attuned_Monsters.md) [King Thresher](King_Thresher.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Shadowmeld](Attuned_Monsters.md) [Deep Owl](Deep_Owl.md)  
-3 [Shadowmeld](Attuned_Monsters.md) [Enforcers](Enforcer.md)
+1 [Corrupted](Monsters.md#scyphozia) [Shadowmeld](Monsters.md#attuned-monsters) [Golem Prime](Golem_Prime.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Shadowmeld](Monsters.md#attuned-monsters) [King Thresher](King_Thresher.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Shadowmeld](Monsters.md#attuned-monsters) [Deep Owl](Deep_Owl.md)  
+3 [Shadowmeld](Monsters.md#attuned-monsters) [Enforcers](Enforcer.md)
 
- | If you're using [Corrupted](Corrupted_Monsters.md) Payback, make sure to watch and avoid getting hit into the air by the King Thresher and the Golem Prime. |
+ | If you're using [Corrupted](Monsters.md#scyphozia) Payback, make sure to watch and avoid getting hit into the air by the King Thresher and the Golem Prime. |
 | 36 | 
 
-2 [Corrupted](Corrupted_Monsters.md) [Nightmare Threshers](Nightmare_Thresher.md)  
-2 [Corrupted](Corrupted_Monsters.md) [Threshers](Thresher.md)  
-3 [Corrupted](Corrupted_Monsters.md) [Carbuncles](Carbuncle.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Crustaceous Rex](Crustaceous_Rex.md)  
-2 [Corrupted](Corrupted_Monsters.md) [Crimson Terrapods](Crimson_Terrapod.md)  
-1 [Corrupted](Corrupted_Monsters.md) [King Thresher](King_Thresher.md)
+2 [Corrupted](Monsters.md#scyphozia) [Nightmare Threshers](Nightmare_Thresher.md)  
+2 [Corrupted](Monsters.md#scyphozia) [Threshers](Thresher.md)  
+3 [Corrupted](Monsters.md#scyphozia) [Carbuncles](Carbuncle.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Crustaceous Rex](Crustaceous_Rex.md)  
+2 [Corrupted](Monsters.md#scyphozia) [Crimson Terrapods](Terrapod.md#crimson)  
+1 [Corrupted](Monsters.md#scyphozia) [King Thresher](King_Thresher.md)
 
  |  |
 | 37 | 
 
-3 [Corrupted](Corrupted_Monsters.md) [Deep Owls](Deep_Owl.md)  
+3 [Corrupted](Monsters.md#scyphozia) [Deep Owls](Deep_Owl.md)  
 1 [King Thresher](King_Thresher.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Alpha Megalodaunt](Alpha_Megalodaunt.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Alpha Megalodaunt](Alpha_Megalodaunt.md)  
 3 [Kyrsgarde Crawlers](Kyrsgarde_Crawler.md)
 
  | If you're using Corrupted Payback, make sure to watch and avoid getting hit into the air by the King Thresher. The Kyrsgarde Crawlers can do high amounts of burst damage. |
 | 38 | 
 
-1 [Corrupted](Corrupted_Monsters.md) [Frostmantle](Attuned_Monsters.md) [Lionfish](Lionfish.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Frostmantle](Attuned_Monsters.md) [Deep Owl](Deep_Owl.md)  
-3 [Corrupted](Corrupted_Monsters.md) [Frostmantle](Attuned_Monsters.md) [Kyrsgarde Snipers](Kyrsgarde_Sniper.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Flamewreathed](Attuned_Monsters.md) [Crimson Megalodaunt](Crimson_Megalodaunt.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Frostmantle](Attuned_Monsters.md) [Glacial Lionfish](Glacial_Lionfish.md)
+1 [Corrupted](Monsters.md#scyphozia) [Frostmantle](Monsters.md#attuned-monsters) [Lionfish](Lionfish.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Frostmantle](Monsters.md#attuned-monsters) [Deep Owl](Deep_Owl.md)  
+3 [Corrupted](Monsters.md#scyphozia) [Frostmantle](Monsters.md#attuned-monsters) [Kyrsgarde Snipers](Kyrsgarde_Sniper.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Flamewreathed](Monsters.md#attuned-monsters) [Crimson Megalodaunt](Crimson_Megalodaunt.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Frostmantle](Monsters.md#attuned-monsters) [Glacial Lionfish](Glacial_Lionfish.md)
 
  |  |
 | 39
@@ -371,9 +371,9 @@ and 1 [Corrupted](Corrupted_Monsters.md) [King Gigamed](King_Gigamed.md).
 
  | 5 [Gigameds](Gigamed.md)  
 
-5 [Corrupted](Corrupted_Monsters.md) [Thunderstruck](Attuned_Monsters.md) [Brainsuckers](Brainsucker.md)  
-4 [Corrupted](Corrupted_Monsters.md) [Crabs](Crab.md)  
-5 [Corrupted](Corrupted_Monsters.md) [Sworn Angels](Sworn_Angel.md)  
+5 [Corrupted](Monsters.md#scyphozia) [Thunderstruck](Monsters.md#attuned-monsters) [Brainsuckers](Brainsucker.md)  
+4 [Corrupted](Monsters.md#scyphozia) [Crabs](Crab.md)  
+5 [Corrupted](Monsters.md#scyphozia) [Sworn Angels](Sworn_Angel.md)  
 1 [Nautilodaunt](Nautilodaunt.md)
 
  | It's best to stall with one mob, such as a Gigamed, where you run around with it following you, while your teammates heal either using respite or graceful. This round can easily be one of the hardest because of the stun of multiple mobs hitting you.
@@ -383,75 +383,75 @@ Alternatively, if you're using Corrupted Payback, you can get rid of most of the
  |
 | 40 | 
 
-1 [Corrupted](Corrupted_Monsters.md) [Attuned](Attuned_Monsters.md) [Deep Widow](Deep_Widow.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Attuned](Attuned_Monsters.md) [Blizzard Knight](Blizzard_Knight.md)  
-1 [Attuned](Attuned_Monsters.md) [Enforcer](Enforcer.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Attuned](Attuned_Monsters.md) [Bonekeeper](Bonekeeper.md)
+1 [Corrupted](Monsters.md#scyphozia) [Attuned](Monsters.md#attuned-monsters) [Deep Widow](Deep_Widow.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Attuned](Monsters.md#attuned-monsters) [Blizzard Knight](Stone_Knight.md#blizzard-knight)  
+1 [Attuned](Monsters.md#attuned-monsters) [Enforcer](Enforcer.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Attuned](Monsters.md#attuned-monsters) [Bonekeeper](Bone_Keeper.md)
 
  | It's best to get rid of the Enforcer and Deep Widow first as they're more fragile than the Blizzard Knight and the Bonekeeper and they can provide a useful healthpack while fighting the Blizzard Knight. |
 | 41 | 
 
-12 [Corrupted](Corrupted_Monsters.md) [Tideknight Songseekers](Tideknight.md)  
-2 [Corrupted](Corrupted_Monsters.md) [Shadowmeld](Attuned_Monsters.md) [Deep Owls](Deep_Owl.md)
+12 [Corrupted](Monsters.md#scyphozia) [Tideknight Songseekers](Tideknight.md)  
+2 [Corrupted](Monsters.md#scyphozia) [Shadowmeld](Monsters.md#attuned-monsters) [Deep Owls](Deep_Owl.md)
 
- | Do NOT underestimate the Tideknights, they can easily gang up on you and do heavy damage with their mantras, plus adding on with their corrupted, and Attuned nature, it'll be harder to attack them. Try your best to guard break them, and hit them with multi hits. The Tideknights **can** be Attuned despite not being monsters. Furthermore, it's best to target the [Flame Tideknight Songseekers](Songseeker_Flamecharmer.md) first, as if you are not careful, they can fully charge 3 [Flame Ballistas](Flame_Ballista.md) and do ungodly amounts of damage. |
+ | Do NOT underestimate the Tideknights, they can easily gang up on you and do heavy damage with their mantras, plus adding on with their corrupted, and Attuned nature, it'll be harder to attack them. Try your best to guard break them, and hit them with multi hits. The Tideknights **can** be Attuned despite not being monsters. Furthermore, it's best to target the [Flame Tideknight Songseekers](Songseeker_Flamecharmer.md) first, as if you are not careful, they can fully charge 3 [Flame Ballistas](Flamecharm.md#flame-ballista) and do ungodly amounts of damage. |
 | 42
 
 **\*THIN AIR MODIFIER\***
 
- | 5 [Corrupted](Corrupted_Monsters.md) [Shadowmeld](Attuned_Monsters.md) Greater [Ministry Enforcers](Ministry_Enforcer.md)  
+ | 5 [Corrupted](Monsters.md#scyphozia) [Shadowmeld](Monsters.md#attuned-monsters) Greater [Ministry Enforcers](Ministry_Enforcer.md)  
 
-3 [Corrupted](Corrupted_Monsters.md) [Shadowmeld](Attuned_Monsters.md) [Ministry Necromancers](Ministry_Necromancer.md)  
-4 [Corrupted](Corrupted_Monsters.md) [Shadowmeld](Attuned_Monsters.md) [Ministry Footpads](Ministry_Footpad.md) (yes thats their actual name)
+3 [Corrupted](Monsters.md#scyphozia) [Shadowmeld](Monsters.md#attuned-monsters) [Ministry Necromancers](Ministry_Necromancer.md)  
+4 [Corrupted](Monsters.md#scyphozia) [Shadowmeld](Monsters.md#attuned-monsters) [Ministry Footpads](Ministry_Footpad.md) (yes thats their actual name)
 
  | With the lack of Mantras, this round will be one of the most tedious. It's best advised to constantly attack the necromancer's mudskippers without killing the necromancers until the rest of the footpads are dead. However, the Talent [Water off a Duck's Back](Talents.md#tactician) can remove the suffocation from this wave. |
 | 43 | 
 
-2 [Corrupted](Corrupted_Monsters.md) [Shadowmeld](Attuned_Monsters.md) [Kyrsgarde Brutes](Kyrsgarde_Brute.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Tideknight](Tideknight.md) [Flamewreathed](Attuned_Monsters.md) [Minos, Sinner of Flame](Minos,_Sinner_of_Flame.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Tideknight](Tideknight.md) [Flamewreathed](Attuned_Monsters.md) [Abaddon, Sinner of Ice](Abaddon,_Sinner_of_Ice.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Tideknight](Tideknight.md) [Flamewreathed](Attuned_Monsters.md) [Astaroth, Sinner of Wind](Astaroth,_Sinner_of_Wind.md)
+2 [Corrupted](Monsters.md#scyphozia) [Shadowmeld](Monsters.md#attuned-monsters) [Kyrsgarde Brutes](Kyrsgarde_Brute.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Tideknight](Tideknight.md) [Flamewreathed](Monsters.md#attuned-monsters) [Minos, Sinner of Flame](Minos,_Sinner_of_Flame.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Tideknight](Tideknight.md) [Flamewreathed](Monsters.md#attuned-monsters) [Abaddon, Sinner of Ice](Abaddon,_Sinner_of_Ice.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Tideknight](Tideknight.md) [Flamewreathed](Monsters.md#attuned-monsters) [Astaroth, Sinner of Wind](Astaroth,_Sinner_of_Wind.md)
 
- | The Starkindred Angels can use the [Starkindred](Starkindred.md) mantras, so its best advised to avoid the Fire Blade Starkindred combo and the annoying [Ascensions](Ascension.md) and [Sinister Halo](Sinister_Halo.md). |
+ | The Starkindred Angels can use the [Starkindred](Oath%253A_Starkindred.md) mantras, so its best advised to avoid the Fire Blade Starkindred combo and the annoying [Ascensions](Oath%253A_Starkindred.md#ascension) and [Sinister Halo](Oath%253A_Starkindred.md#sinister-halo). |
 | 44
 
 **\*GHOSTLY REMINISICENCE MODIFIER\***
 
- | 1 [Corrupted](Corrupted_Monsters.md) [Attuned](Attuned_Monsters.md) [Tideknight](Tideknight.md) [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md) | Iblis is basically a Fire Blade Starkindred spammer, and all you should honestly do is press Q and spam m1 him until he is dead. |
+ | 1 [Corrupted](Monsters.md#scyphozia) [Attuned](Monsters.md#attuned-monsters) [Tideknight](Tideknight.md) [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md) | Iblis is basically a Fire Blade Starkindred spammer, and all you should honestly do is press Q and spam m1 him until he is dead. |
 | 45
 
 **\*TIMEBOMB MODIFIER\***
 
- | 6 [Corrupted](Corrupted_Monsters.md) [Attuned](Attuned_Monsters.md) [Tideknight](Tideknight.md) [Attunement Trainers](Attunement_Trainers.md). (1 For each attunement trainer) | This is a wave you shouldn't underestimate. The trainers being corrupt and Attuned makes their monster mantras far more powerful, and they possess the legendary weapons corresponding to their attunement. They also possess a vast artillery of mantras that can easily combo if not handled correctly. The Thundercall trainer is not Thunder Attuned and the Ironsing trainer is Shadow Attuned. Furthermore, if you get a static link via the Thundercall trainer, DO NOT attack, Jumper Cables can take at least 3 bars of health from you.
+ | 6 [Corrupted](Monsters.md#scyphozia) [Attuned](Monsters.md#attuned-monsters) [Tideknight](Tideknight.md) [Attunement Trainers](Attunement_Trainers.md). (1 For each attunement trainer) | This is a wave you shouldn't underestimate. The trainers being corrupt and Attuned makes their monster mantras far more powerful, and they possess the legendary weapons corresponding to their attunement. They also possess a vast artillery of mantras that can easily combo if not handled correctly. The Thundercall trainer is not Thunder Attuned and the Ironsing trainer is Shadow Attuned. Furthermore, if you get a static link via the Thundercall trainer, DO NOT attack, Jumper Cables can take at least 3 bars of health from you.
 
--   Frostdraw - [Gran Sudaruska](Gran_Sudaruska.md) and [Dread Breath](Dread_Breath.md)
--   Flamecharm - [Hero Blade of Flame](Hero_Blade_of_Flame.md)
+-   Frostdraw - [Gran Sudaruska](Gran_Sudaruska.md) and [Dread Breath](Monster_Mantras.md#dread-breath)
+-   Flamecharm - [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>)
 -   Galebreath - [Curved Blade of Winds](Curved_Blade_of_Winds.md)
 -   Thundercall - [Stormseye](Stormseye.md)
 -   Shadowcast - [Crypt Blade](Crypt_Blade.md)
--   Ironsing - Alloyed [Darksteel Greatsword](Darksteel_Greatsword.md) w/ [Ironsing](Ironsing.md), [Mecha Gatling](Mecha_Gatling.md), [Gilded Path](Gilded_Path%253A_Scrapsinger.md)
+-   Ironsing - Alloyed [Darksteel Greatsword](Darksteel_Greatsword.md) w/ [Ironsing](Ironsing.md), [Mecha Gatling](Monster_Mantras.md#mecha-gatling), [Gilded Path](Ironsing.md#gilded-path-scrapsinger)
 
  |
 | 46 | 
 
-8 [Corrupted](Corrupted_Monsters.md) [Attuned](Attuned_Monsters.md) [Carbuncles](Carbuncle.md)  
-4 [Corrupted](Corrupted_Monsters.md) [Tideknight](Tideknight.md) [Black Divers](<Black_Diver_(NPC).md>)
+8 [Corrupted](Monsters.md#scyphozia) [Attuned](Monsters.md#attuned-monsters) [Carbuncles](Carbuncle.md)  
+4 [Corrupted](Monsters.md#scyphozia) [Tideknight](Tideknight.md) [Black Divers](<Black_Diver_(NPC).md>)
 
  | The Black Divers wield enchantments, and are an incredible nuisance. What is worse is that they can use Dawnwalker mantras, such as Radiant Kick, Blinding Dawn, and Radiant Dawn. Best advised to let them not have any room to attack. Keep in mind the Black Divers have Chronostasis and can prevent you from using your Resonance. |
 | 47
 
 **\*THIN AIR MODIFIER\***
 
- | 5 [Shadowmeld](Attuned_Monsters.md) [Corrupted](Corrupted_Monsters.md) [Nightmare Threshers](Nightmare_Thresher.md)  
+ | 5 [Shadowmeld](Monsters.md#attuned-monsters) [Corrupted](Monsters.md#scyphozia) [Nightmare Threshers](Nightmare_Thresher.md)  
 
-5 [Corrupted](Corrupted_Monsters.md) [Diver Husks](Diver_Husk.md) w/ Enchanted [Crypt Blades](Crypt_Blade.md)
+5 [Corrupted](Monsters.md#scyphozia) [Diver Husks](Diver_Husk.md) w/ Enchanted [Crypt Blades](Crypt_Blade.md)
 
- | This wave is really easy if you do not rely mainly on your mantras. However, the talent Water off a Duck's Back can remove the [Suffocation](Suffocation.md) from this wave. |
+ | This wave is really easy if you do not rely mainly on your mantras. However, the talent Water off a Duck's Back can remove the [Suffocation](Status_Effects.md#suffocate) from this wave. |
 | 48 | 
 
-2 [Corrupted](Corrupted_Monsters.md) [Bounders](Bounder.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Attuned](Attuned_Monsters.md) [Deep Widow](Deep_Widow.md)  
-2 [Corrupted](Corrupted_Monsters.md) [Golem Primes](Golem_Prime.md)
+2 [Corrupted](Monsters.md#scyphozia) [Bounders](Bounder.md)  
+1 [Corrupted](Monsters.md#scyphozia) [Attuned](Monsters.md#attuned-monsters) [Deep Widow](Deep_Widow.md)  
+2 [Corrupted](Monsters.md#scyphozia) [Golem Primes](Golem_Prime.md)
 
  | Use the Golem Primes as healthpacks. If you're using Corrupted [Payback](Payback.md), you can use it while they're using their Rapid Spin to deal high amounts of damage. |
 | 49 | 
@@ -463,13 +463,13 @@ Alternatively, if you're using Corrupted Payback, you can get rid of most of the
 
 **\*TIMEBOMB MODIFIER\***
 
- | 1 [Corrupted](Corrupted_Monsters.md) [Attuned](Attuned_Monsters.md) [Bonekeeper](Bonekeeper.md)  
+ | 1 [Corrupted](Monsters.md#scyphozia) [Attuned](Monsters.md#attuned-monsters) [Bonekeeper](Bone_Keeper.md)  
 
-2 [Corrupted](Corrupted_Monsters.md) [Attuned](Attuned_Monsters.md) [Kyrsgarde Brutes](Kyrsgarde_Brute.md)  
-2 [Corrupted](Corrupted_Monsters.md) [Attuned](Attuned_Monsters.md) [Bounders](Bounder.md)  
-2 [Corrupted](Corrupted_Monsters.md) [Attuned](Attuned_Monsters.md) [Kyrsgarde Snipers](Kyrsgarde_Sniper.md)  
+2 [Corrupted](Monsters.md#scyphozia) [Attuned](Monsters.md#attuned-monsters) [Kyrsgarde Brutes](Kyrsgarde_Brute.md)  
+2 [Corrupted](Monsters.md#scyphozia) [Attuned](Monsters.md#attuned-monsters) [Bounders](Bounder.md)  
+2 [Corrupted](Monsters.md#scyphozia) [Attuned](Monsters.md#attuned-monsters) [Kyrsgarde Snipers](Kyrsgarde_Sniper.md)  
 2 [Fury Nautilodaunts](Fury_Nautilodaunt.md)  
-1 [Corrupted](Corrupted_Monsters.md) [Mudskipper Broodlord](Mudskipper_Broodlord.md)
+1 [Corrupted](Monsters.md#scyphozia) [Mudskipper Broodlord](Mudskipper_Broodlord.md)
 
  | While the overwhelming amount of mobs can seem terrifying, it also gives you more opportunities to get healthpacks. Keep in mind that the Broodlord's antiheal is modified in Diluvian Mechanism, instead giving 100% antiheal to all sources except for downing mobs. By constantly healing from the Nautilodaunts, Kyrsgarde Snipers, Kyrsgarde Brutes, and Bounders, you will most likely defeat the Broodlord and then the Bonekeeper. However, if you are unable to get a healthpack in time, you can use the talent Conditioned Runner or stop Diluvian Mechanism early. Good luck. |
 

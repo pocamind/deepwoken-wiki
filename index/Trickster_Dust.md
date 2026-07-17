@@ -27,11 +27,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The **Trickster Dust** is a [Relic](Relic.md) that resembles emanating confetti particles.
+The **Trickster Dust** is a [Relic](Relics.md) that resembles emanating confetti particles.
 
 ## Crafting
 
-The Trickster Dust can be used at the [Lost Forge](Lost_Forge.md) found at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
+The Trickster Dust can be used at the [Lost Forge](Lost_Forge_of_Leiuna.md) found at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
 
 -   [Equipment](Equipment.md):
     -   [Jester's Beret](<Jester's_Beret.md>): [Tillian's Beret](<Tillian's_Beret.md>) + 1x Trickster Dust + 1x [Shiva's Codex](<Shiva's_Codex.md>)

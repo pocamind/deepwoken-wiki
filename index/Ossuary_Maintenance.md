@@ -10,7 +10,7 @@ categories: [Books]
 
 ## Description
 
-_**Ossuary Maintenance**_ is a [Book](Book.md).
+_**Ossuary Maintenance**_ is a [Book](Books.md).
 
 ## Text
 

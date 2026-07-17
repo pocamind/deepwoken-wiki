@@ -29,7 +29,7 @@ A consumable fruit with a purple gradient and a curved stem. It can commonly be 
 
 ### Used in
 
--   [Candied Fruit](Candied_Fruit.md) - 2 Plumfruit and 1 [Sap](Sap.md) at a [Campfire](Campfire.md).
+-   [Candied Fruit](Candied_Fruit.md) - 2 Plumfruit and 1 [Sap](Sap.md) at a [Campfire](Campfire_Pit.md).
 -   [Fruit Salad](Fruit_Salad.md) - 1 Plumfruit and 2 other [Fruits](Ingredients.md#fruits), no Campfire required.
 -   [Plumfruit Muffin](Plumfruit_Muffin.md) - 1 [Gathered Wheat](Gathered_Wheat.md) and 1 Plumfruit at a Campfire.
 

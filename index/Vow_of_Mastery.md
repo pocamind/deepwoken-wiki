@@ -8,7 +8,7 @@ categories: [Talents, Vows, Mechanics]
 
 # Vow of Mastery
 
-_This page is about the Vow of Mastery Talent. If you were looking for the mechanic that allows you to make alliances with other players, see [Vow of Allegiance](Vow_of_Allegiance.md)._
+_This page is about the Vow of Mastery Talent. If you were looking for the mechanic that allows you to make alliances with other players, see [Vow of Allegiance](Combat_Mechanics.md#alliances)._
 
 “ Come on, boys. Won't you shake a poor sinners hand? ”
 
@@ -16,7 +16,7 @@ _This page is about the Vow of Mastery Talent. If you were looking for the mecha
 
 ## Description
 
-**Vow of Mastery** is a [Talent](Talent.md) which allows the user to make other players into subjects and issue commands to those subjects. While any player can be a subject (so long as they don't already have a master), the Talent is required to become a master, and has a requirement of 20 Charisma.
+**Vow of Mastery** is a [Talent](Talents.md) which allows the user to make other players into subjects and issue commands to those subjects. While any player can be a subject (so long as they don't already have a master), the Talent is required to become a master, and has a requirement of 20 Charisma.
 
 ## How to Use
 
@@ -29,7 +29,7 @@ Additionally, you can also use the Vow of Mastery tool and click on "Offer a Vow
 
 The player must respond positively ("yes" "sure" "alright" etc.) After responding so, the subject will have a menu appear which warns them and lets them accept or decline the vow. Once accepted, an animation of shaking hands will play and the player will become your Subject. You can now use commands on them, by typing them into chat or use the Vow of Mastery tool. However, most of the more useful commands must be unlocked through additional [Talents](Talents.md), which require more [Charisma](Attributes.md).
 
-Subjects cannot undo the vow without making a wish at [Yun'Shul](<Yun'Shul.md>) or wiping, and can only have one master, making the decision relatively permanent.
+Subjects cannot undo the vow without making a wish at [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) or wiping, and can only have one master, making the decision relatively permanent.
 
 In addition to using the name of a specific Subject, commands can use the names "_all_ " or "_everyone_" to affect all Subjects, but this doesn't work for all commands, and will still be used on one subject. Multiple commands can be stacked in a single message, for example the command "_\[Name\]_, say I will sleep now." will both cause the Subject to sleep, and also say "I will sleep now."
 
@@ -231,7 +231,7 @@ You will **lose access** to this command if you do not meet its Charisma require
 
 -   Works on unconscious players, cancelling the knocked state and grips, but does not work if the subject is being carried.
 -   Has a range limit of roughly 155 studs.
--   Works even if the subject(s) are under the effects of [True Hyperarmor](True_Hyperarmor.md).
+-   Works even if the subject(s) are under the effects of [True Hyperarmor](Status_Effects.md#true-hyperarmor).
 -   This command has a 20 second cooldown.
 
  |
@@ -252,7 +252,7 @@ You will **lose access** to this command if you do not meet its Charisma require
  | Explodes the head of the subject, causing them to die instantly and deal damage to anyone nearby the radius of the explosion.
 
 -   The outwards explosion damage scales on your Charisma investment.
--   Applies [burn](Burn.md) to all targets hit by the explosion.
+-   Applies [burn](Status_Effects.md#burn) to all targets hit by the explosion.
 
  |
 | 

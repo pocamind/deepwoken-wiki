@@ -23,7 +23,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Porter is a [Khan](Khan.md) [NPC](NPC.md). They sell a [Flintlock](Flintlock.md) for 100, a [Revolver](Revolver.md) for 200, and a [Dragoon](Dragoon.md) for 500 on their bar. Porter is also able to initiate a fight in [The Furnace](The_Furnace.md) if spoken to by two players at once.
+Porter is a [Khan](Khan.md) NPC. They sell a [Flintlock](Flintlock.md) for 100, a [Revolver](Repeater.md) for 200, and a [Dragoon](Dragoon.md) for 500 on their bar. Porter is also able to initiate a fight in [The Furnace](The_Furnace.md) if spoken to by two players at once.
 
 ## Location
 

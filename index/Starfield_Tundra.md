@@ -18,7 +18,7 @@ The beauty of the tundra, the Star Tree stands tall.
 
   
 
-**Starfield Tundra** is a [location](Locations.md) in _Deepwoken_. It is a [Voidzone](Voidzones.md) area found in Minityrsa in the [Etrean Luminant](Luminants.md).
+**Starfield Tundra** is a location in _Deepwoken_. It is a [Voidzone](Voidzones.md) area found in Minityrsa in the [Etrean Luminant](Luminants.md).
 
 ## Overview
 

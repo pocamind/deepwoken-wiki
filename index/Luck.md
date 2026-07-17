@@ -12,7 +12,7 @@ notices:
 
 **Luck** was a feature in _Deepwoken_ that affected the likelihood of rare or legendary [Talent Cards](Talents.md) appearing when you power up.
 
-As of the _**[Verse 2](Version_History/2022.md#december-23rd-2022)**_ update, Luck has been removed and replaced with an entirely new system to give you rare and or legendary Talent Cards.
+As of the _**[Verse 2](Version_History/2022-2021.md#december-23rd-2022)**_ update, Luck has been removed and replaced with an entirely new system to give you rare and or legendary Talent Cards.
 
 ## Overview
 
@@ -56,10 +56,10 @@ All players who kill a mob that rewards Luck will receive the Luck if they contr
 
 Killing the following [Boss](Bosses.md) NPCs provided you with luck:
 
--   [Blizzard Knights](Stone_Knights.md) (Desert Knights don't give luck)
--   [Primadon](Primadon.md)
+-   [Blizzard Knights](Stone_Knight.md) (Desert Knights don't give luck)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
--   [Duke Erisia](Duke_Erisia.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [The Ferryman](The_Ferryman.md)
 
 Killing any [Boss](Bosses.md) immediately gave you max luck.
@@ -109,7 +109,7 @@ There is a rare chance to catch a golden variation of fish/trash, which rewarded
 -   Based on the information on the luck system provided by the developers, there is **no reason** to kill freshies or lower levelled players when you're significantly higher level (or don't follow the required criteria to get luck) unless you are just that toxic, or are acting in self defense.
     -   After newer updates, you can rarely get luck from any mob, from fishing or just from Arena, meaning that as any level, since you can even get luck from the common bandit there is still not a lot of reasons to grip anyone for luck, again unless you are just acting in self defence. It is up to you to decide if you want to take the risk of ganking someone for their luck.
     -   This is further suggested as you can now gain luck from basic mobs like Megalodaunts who are easy to farm
--   Luck didn't **NOT** affect [chest](Chests.md) drops, only cards. [Confirmed](https://cdn.discordapp.com/attachments/873992232879935549/929762436460998716/unknown.png) by Arch\_Mage
+-   Luck didn't **NOT** affect [chest](Chests_&_Sacks.md) drops, only cards. [Confirmed](https://cdn.discordapp.com/attachments/873992232879935549/929762436460998716/unknown.png) by Arch\_Mage
 -   With the new luck update, gripping a player for luck still works, however the luck gained from gripping is now very minuscule (1% increase per grip?). Based on that, it is _much_ more viable and efficient to get luck from NPCs, corrupted monsters, and bosses because they have set patterns, drop chests with lots of items, can be easily found with practice and experience, and give you a higher percentage of luck. Doing the Trial of One is also a great choice for getting luck at the very start of your progression.
 -   Gaining luck increased the chance of getting legendary/rare Talents, but there is no guarantee of getting them. It was possible to gain no legendary/rare cards with max luck, just as it was possible to get legendary/rare cards without resorting to gripping players or killing bosses, corrupted monsters and NPCs. Keep this in mind while progressing.
 -   Contrary to popular belief, it does _not_ boost your chances of getting Legendary Mantras, such as Lightning Cloak or Ice Fissure

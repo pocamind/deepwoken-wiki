@@ -21,7 +21,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Sarbu is a [Gremor](Gremor.md) NPC. He is a [Pathfinder](Pathfinders.md) who has been observing [The Justicars](The_Justicars.md) to get a better grasp of their techniques.
+Sarbu is a [Gremor](Gremor.md) NPC. He is a [Pathfinder](Glossary.md#pathfinders) who has been observing [The Justicars](The_Justicar.md) to get a better grasp of their techniques.
 
 ## Location
 

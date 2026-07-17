@@ -23,7 +23,7 @@ categories: [Items, Relics]
 
 ## Description
 
-A Dye Packet is a [Relic](Relic.md) that allows the user to add a tint to their equipment. They are invented by [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md).
+A Dye Packet is a [Relic](Relics.md) that allows the user to add a tint to their equipment. They are invented by [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md).
 
 Dyes can be removed at a [Barber](Barber.md), or from [Sev](Sev.md). The maximum Dye Packets that can be held per slot is 99.
 

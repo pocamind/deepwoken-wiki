@@ -18,7 +18,7 @@ A land lost to time, now made a battleground for warriors who know not why they 
 
   
 
-**Lower Erisia** is a [location](Locations.md) in _Deepwoken_. It is one half of [Erisia](Erisia.md), sharing the island with [Upper Erisia](Upper_Erisia.md).
+**Lower Erisia** is a location in _Deepwoken_. It is one half of [Erisia](Erisia.md), sharing the island with [Upper Erisia](Upper_Erisia.md).
 
 ## Overview
 

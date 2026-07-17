@@ -31,7 +31,7 @@ Karas is a [Vesperian](Vesperian.md) NPC. He is a rather bombastic individual wh
 
 Karas gives the player a quest to obtain a [Poser's Ring](<Poser's_Ring.md>), a Katana-exclusive ring that deals all damage at once onto a target upon sheathing. You can do his quest no matter what weapon you use.
 
-He wears a [Royal Pathfinder](Royal_Pathfinder.md) and the [Cutthroat Light Armor](Cutthroat_Light_Armor.md) [Outfit](Outfit.md).
+He wears a [Royal Pathfinder](Royal_Pathfinder.md) and the [Cutthroat Light Armor](Cutthroat_Light_Armor.md) [Outfit](Outfits.md).
 
 ## Location
 

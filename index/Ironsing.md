@@ -16,32 +16,32 @@ Ironsing Icon
 
 ## Description
 
-**Ironsing** is an [Attunement](Attunement.md) based around the ability to harness and manipulate metal, commonly used by Blacksmiths around the Luminants.
+**Ironsing** is an [Attunement](Attunements.md) based around the ability to harness and manipulate metal, commonly used by Blacksmiths around the Luminants.
 
 Ironsingers make use of applying Metal Rods to enemies, allowing for a variety of interactions depending on the chosen Talents. Most primarily, accumulating enough Metal Rods on a target will allow the user to perform an **Iron Pull**, which will cause the target to be dragged towards the user by pressing X.
 
 ## Obtainment
 
-The [Attunement Trainer](Attunement_Trainers.md), [Adar](Adar.md), can be found inside a tower on the left side of the end of [Saramaed Crossing](Saramaed_Crossing.md) at [Miner's Landing](<Miner's_Landing.md>), on the path to the [Starfield Veldt](Starfield_Veldt.md). This bridge always spawns two [Brainsuckers](Brainsucker.md). To unlock Ironsing, you must first have a [Pluripotent Alloy](Pluripotent_Alloy.md). Then, talk to the blacksmith at [Miner's Landing](<Miner's_Landing.md>). He will say that a friend of his is looking for a Pluripotent Alloy. **If you have obtained Ironsing before, obtaining a [Pluripotent Alloy](Pluripotent_Alloy.md) and talking to the blacksmith is not required.** Go to the trainer and he will tell you that he is looking for 6 [ores](Ore.md).
+The [Attunement Trainer](Attunement_Trainers.md), [Adar](Adar,_Master_of_Metal.md), can be found inside a tower on the left side of the end of [Saramaed Crossing](Saramaed_Crossing.md) at [Miner's Landing](<Miner's_Landing.md>), on the path to the [Starfield Veldt](Starfield_Veldt.md). This bridge always spawns two [Brainsuckers](Brainsucker.md). To unlock Ironsing, you must first have a [Pluripotent Alloy](Pluripotent_Alloy.md). Then, talk to the blacksmith at [Miner's Landing](<Miner's_Landing.md>). He will say that a friend of his is looking for a Pluripotent Alloy. **If you have obtained Ironsing before, obtaining a [Pluripotent Alloy](Pluripotent_Alloy.md) and talking to the blacksmith is not required.** Go to the trainer and he will tell you that he is looking for 6 [ores](Ores.md).
 
 **The ores you need are:**
 
--   [Iron](Iron.md)
--   [Gold](Gold.md)
--   [Erisore](Erisore.md)
--   [Irithine](Irithine.md)
--   [Astruline](Astruline.md)
--   [Umbrite](Umbrite.md)
+-   [Iron](Ores.md#iron)
+-   [Gold](Ores.md#gold)
+-   [Erisore](Ores.md#erisore)
+-   [Irithine](Ores.md#irithine)
+-   [Astruline](Ores.md#astruline)
+-   [Umbrite](Ores.md#umbrite)
 
 After you give him these ores, he will give you an Alloyed Elixir. Drink the Elixir, and you will unlock Ironsing.
 
 **DO NOT LEAVE THE TEXT BOX BEFORE RECEIVING THE ELIXIR.** Doing so will cause the trainer to consume your ores without giving you the potion.
 
-The easiest way to obtain all of the required ores without visiting [The Depths](The_Depths.md) is to obtain them from chest and [Mechalodaunt](Mechalodaunt.md) drops in [Saramaed Hollow](Saramaed_Hollow.md) along with mining ores in [Saramaed Summit](Saramaed_Summit.md). Alternatively, you may visit the cave in [Songseeker Wilds](Songseeker_Wilds.md) and kill [Mineskippers](Mineskipper.md), which can drop all the ores necessary.
+The easiest way to obtain all of the required ores without visiting [The Depths](The_Depths.md) is to obtain them from chest and [Mechalodaunt](Mechalodaunt.md) drops in [Saramaed Hollow](Saramaed_Hollow.md) along with mining ores in [Saramaed Summit](Saramaed_Summit.md). Alternatively, you may visit the cave in [Songseeker Wilds](Songseeker_Wilds.md) and kill [Mineskippers](Mudskipper.md#mineskipper), which can drop all the ores necessary.
 
 ## Training
 
-Ironsing can be trained by using the [Ferrofluid](Ferrofluid.md) to increase the attribute after landing Ironsing Mantras to gain enough EXP.
+Ironsing can be trained by using the [Ferrofluid](Training_Gear.md#attunement-training-gears) to increase the attribute after landing Ironsing Mantras to gain enough EXP.
 
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 
@@ -50,7 +50,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At 30 Ironsing, players will receive the _Expert Ironsinger_ Talent. This allows players to obtain 2-star Ironsing Mantras.
 -   Finally, at 50 Ironsing, players will receive the _Master Ironsinger_ Talent. This allows players to obtain 3-star Ironsing Mantras.
 
-You can speak to [Adar](Adar.md) at [Miner's Landing](<Miner's_Landing.md>) or a [Mantra Lectern](Mantra_Lectern.md) to upgrade your Ironsing Mantras for 100 each. Each upgrade purchased will make the next upgrade for the same Mantra 100 more expensive.
+You can speak to [Adar](Adar,_Master_of_Metal.md) at [Miner's Landing](<Miner's_Landing.md>) or a [Mantra Lectern](Mantra_Lectern.md) to upgrade your Ironsing Mantras for 100 each. Each upgrade purchased will make the next upgrade for the same Mantra 100 more expensive.
 
 -   To upgrade a Ironsing Mantra from level 1 to level 2 costs 100 and 20 Ironsing investment.
 -   To upgrade a Ironsing Mantra from level 2 to level 3 costs 200 and 40 Ironsing investment.
@@ -75,7 +75,7 @@ Currently does not work on [Saramaed Hollow](Saramaed_Hollow.md) fuel.
 
 ### Stainless
 
-This Cantrip hides all visual tears the player's [Outfit](Outfit.md) gains when their armor durability is low. This is purely visual.
+This Cantrip hides all visual tears the player's [Outfit](Outfits.md) gains when their armor durability is low. This is purely visual.
 
 The [Not a Scratch](Talents.md#not-a-scratch) Talent also provides this effect, among other things.
 
@@ -133,7 +133,7 @@ _A flurry of metal spikes._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Bleed.md)
+Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -144,12 +144,12 @@ Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Bleed.
 
 **Effect:** _Stomp the ground, causing a flurry of metal spikes to erupt forward._
 
--   Has a base damage of 25 with innate [Bleed](Bleed.md)) damage and 2.75 Ironsing scaling. The base damage does not increase with Mantra level.
+-   Has a base damage of 25 with innate [Bleed](Status_Effects.md#bleed)) damage and 2.75 Ironsing scaling. The base damage does not increase with Mantra level.
 -   Deals 14 posture damage.
 -   Has a windup of 0.5 seconds and a cooldown of 15 seconds.
 -   Has 9.17x PvE scaling (multiply damage dealt by 9.17 for PvE damage).
 -   By rotating your view, you can reangle the Mantra to catch rolls.
--   Heavily reminiscent of the Frostdraw Mantra, [Ice Eruption](Ice_Eruption.md).
+-   Heavily reminiscent of the Frostdraw Mantra, [Ice Eruption](Frostdraw.md#ice-eruption).
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the size of the eruption, but reduces posture DMG.
 -   Can be modified with **Aeon/Eternal Logstones** to extend its longevity, which was useful in the past because the eruption was collidable, but it is not anymore.
 -   This mantra hits 4 times, but if it hits a person, that person would be immune to next 3 hits from metal eruption.
@@ -193,9 +193,9 @@ Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Inconsistent tracking and wind up.
 -   Applies Metal Rods on hit.
--   Can be modified with a [Blast Spark](Blast_Spark.md) to cause the Mantra increase amount of needles fired but removing the jump.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks) to cause the Mantra increase amount of needles fired but removing the jump.
     -   This variant keeps the user's momentum.
-    -   Somewhat similar to Flamecharm's [Fire Gun](Fire_Gun.md) Mantra.
+    -   Somewhat similar to Flamecharm's [Fire Gun](Flamecharm.md#fire-gun) Mantra.
 
  |
 | 
@@ -235,7 +235,7 @@ Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash
 -   Has 9.2x PvE scaling (multiply damage dealt by 9.2 for PvE damage).
 -   Spring Spark has a wind up of 0.55 second and non spark a wind-up of 0.95s (0.65s to enter gain height and enter fall state + 0.4s or more seconds to land(depending on ur fall distance))
 -   Your base Metal Kick can't be Interrupted once you enter fall state, but you still can be hitstunned. Basically you will hit your enemy with Metal Kick but won't be able to attack after landing Metal Kick.
--   Can be modified with a [Spring Spark](Spring_Spark.md) that causes the Mantra to perform a faster drop-kick that doesn't apply knockdown.
+-   Can be modified with a [Spring Spark](Mantra_Modifiers.md#sparks) that causes the Mantra to perform a faster drop-kick that doesn't apply knockdown.
 
  |
 | 
@@ -258,7 +258,7 @@ _Sharp metal traps._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + [Bleed](Bleed.md)
+Metal [ResistanceIronsing](Ironsing.md) + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -269,14 +269,14 @@ Metal [ResistanceIronsing](Ironsing.md) + [Bleed](Bleed.md)
 
 **Effect:** _Throw out 7 caltrops upon use, which stay on the ground for a while._
 
--   Has a base damage of 6.67/5.75/5.2/4.83/4.57 per level, per hit (level based) with innate [Bleed](Bleed.md) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 6.67/5.75/5.2/4.83/4.57 per level, per hit (level based) with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
 -   Throws 3/4/5/6/7 Caltrops per level.
 -   Has a windup of 0.75 seconds with a 10 second CD. Caltrops last 17 seconds on the ground before dissipating.
 -   Has 9.17x PVE scaling (multiply damage dealt by 9.17 for PvE damage).
 -   Goes through block (**and your character!**) if cast closely to the target.
 -   Caltrops on the ground can still be parried and blocked.
 -   Caltrops can be destroyed by attacking them directly, though this usually isn't worth your time as they take 2 hits each to be broken.
--   Can be modified with [Cloud](Cloudstone.md)/[Stratus Stones](Stratus_Stone.md) to increase the hitbox of the caltrops.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the hitbox of the caltrops.
 -   While airborne, Caltrops only apply rods after 2 hits. While on the ground, Caltrops apply 1 rod every hit.
 -   Caltrops can be upgraded with the [Laced Traps](Talents.md#laced-traps) Talent, applying a slow and disallowing your opponent to jump on hit for a short duration.
 
@@ -301,7 +301,7 @@ _Create a firing line of metal to light up your target._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Bleed.md)
+Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -312,14 +312,14 @@ Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Bleed.
 
 **Effect:** _Conjure up 5 rifles above them that begin to fire 3 salvos at any nearby target, dealing high damage if not parried._
 
--   Has a base damage of 4/4.5/5/5.5/6 per level, per hit (15) with innate [Bleed](Bleed.md) damage and 2.75 Ironsing scaling.
--   The Blast Spark variant has a base damage of 20/20.5/21/21.5/22 per level, per hit (2) with innate [Bleed](Bleed.md) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 4/4.5/5/5.5/6 per level, per hit (15) with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   The Blast Spark variant has a base damage of 20/20.5/21/21.5/22 per level, per hit (2) with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
 -   The base variant deals 5 posture damage per hit while the Blast Spark variant deals 15 posture damage per hit.
 -   The base variant has a windup of 0.8 seconds, while the Blast Spark variant has a windup of 0.55 seconds.
 -   Has 9.18x PVE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Apply Metal Rods on hit.
 -   You cannot use other abilities or attack while this Mantra is active.
--   Can be modified with a [Blast Spark](Blast_Spark.md), changing the Mantra to fire two cannons at the opponent, dealing higher damage and posture damage per shot but attack less times. This version of the attack has less windup than the base variant.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), changing the Mantra to fire two cannons at the opponent, dealing higher damage and posture damage per shot but attack less times. This version of the attack has less windup than the base variant.
 
  |
 | 
@@ -342,7 +342,7 @@ _Conjure metal from within, impaling surrounding entities._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Bleed.md)
+Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -353,7 +353,7 @@ Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Bleed.
 
 **Effect:** _Send metal spikes piercing through your body, impaling all nearby targets._
 
--   Has a base damage of 20/22/24/26/28 per level with innate [Bleed](Bleed.md) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 20/22/24/26/28 per level with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
 -   Deals 12.5 posture damage.
 -   Has a windup of 0.45 seconds with a 10 second cooldown.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
@@ -381,7 +381,7 @@ _Create a metal clone and appear behind your target._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Bleed.md)
+Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -392,7 +392,7 @@ Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Bleed.
 
 **Effect:** _Teleport behind a nearby target while leaving behind a metal clone before immediately stabbing the target._
 
--   Has a base damage of 16/21.5/27/32.5/38 per level with innate [Bleed](Bleed.md) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 16/21.5/27/32.5/38 per level with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
 -   Deals 8/9/10/11/12 posture damage per level.
 -   Has a windup of 0.65 seconds and a cooldown of 12 seconds.
 -   Has 9.27x PvE scaling (multiply damage dealt by 9.27 for PvE damage).
@@ -430,16 +430,16 @@ Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash
 
 **Effect:** _Rain down a incredible amount of metal rods from the sky, dealing light damage rapidly._
 
--   Has a base damage of 0.8/1.8/2.8/3.8/4.8 per level, per hit with innate [Bleed](Bleed.md) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 0.8/1.8/2.8/3.8/4.8 per level, per hit with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
 -   Deals 2 posture damage per hit.
 -   Has around 23 hits total.
 -   Has a windup of 1.2 seconds with a 20 second cooldown.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Doesn't apply parry stun to user.
 -   Applies Metal Rods on hit.
--   Comparable to Thundercall's [Bolt Piercer](Bolt_Piercer.md) Mantra, and shares a cooldown with it.
--   Can be modified with [Aeon/Eternal Logstones](Aeon_Logstone.md) to extend its duration.
--   Can be modified with [Crystal/Pefect Lenses](Crystal_Lens.md) to extend its range.
+-   Comparable to Thundercall's [Bolt Piercer](Thundercall.md#bolt-piercer) Mantra, and shares a cooldown with it.
+-   Can be modified with [Aeon/Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to extend its duration.
+-   Can be modified with [Crystal/Pefect Lenses](Mantra_Modifiers.md#regular-modifiers) to extend its range.
 
  |
 | 
@@ -462,7 +462,7 @@ _Conjure metal swords and rush forward with them._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Bleed.md)
+Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -473,7 +473,7 @@ Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Bleed.
 
 **Effect:** _Conjure a vortex of blades before rushing forward, dealing moderate damage._
 
--   Has a base damage of 2/3.25/4.5/5.75/7 damage per level, per hit (10) with innate [Bleed](Bleed.md) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 2/3.25/4.5/5.75/7 damage per level, per hit (10) with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
 -   Deals 1 posture damage per hit (10).
 -   Has a windup of 0.5 seconds with a cooldown of 13 seconds.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
@@ -501,7 +501,7 @@ _Crush your opponents bones with an iron infused grab._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Bleed.md)
+Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -512,14 +512,14 @@ Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Bleed.
 
 **Effect:** _Perform a short windup before tightly hugging the opponent, dealing damage before sending them away._
 
--   The grab has a base damage of 4/5/6/7/8 per level, per hit (4) before throwing them away with a base damage of 6.66/8.33/10/11.67/13.34 per level. Has innate [Bleed](Bleed.md) and 2.75 Ironsing scaling.
+-   The grab has a base damage of 4/5/6/7/8 per level, per hit (4) before throwing them away with a base damage of 6.66/8.33/10/11.67/13.34 per level. Has innate [Bleed](Status_Effects.md#bleed) and 2.75 Ironsing scaling.
 -   Deals 10 posture damage, canceling entirely if blocked.
 -   Has a windup of 0.8 seconds and a cooldown of 11 seconds.
 -   Gives [True Hyperarmor](Status_Effects.md#true-hyperarmor) on use, also gives I-frames to victim and user during the grab animation.
 -   Has 9.65x PvE scaling (multiply damage dealt by 9.65 for PvE damage).
 -   Applies 1 Metal Rod per hit.
 -   Can be upgraded with the [Metal Absorption](Talents.md#metal-absorption) Talent, stealing a percentage of your opponent's armor durability on hit.
--   Shares a cooldown with all other [grab Mantras](Grab_Mantras.md).
+-   Shares a cooldown with all other [grab Mantras](List_of_Grab_Mantras.md).
 
  |
 | 
@@ -542,7 +542,7 @@ _Conjure a giant rod of metal and slam it down._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Bleed.md)
+Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -553,11 +553,11 @@ Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Bleed.
 
 **Effect:** _Form a large spiky iron rod before slamming it down forwards._
 
--   Has a base damage of 35/38.5/42/45.5/49 per level with innate [Bleed](Bleed.md) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 35/38.5/42/45.5/49 per level with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
 -   Deals 16.5 posture damage at levels 1-4, guard breaks at level 5.
 -   Has a windup of 0.73 seconds with a cooldown of 18 seconds.
--   Has 9.18X PvE scaling (58.6 DMG + 17.5 [Bleed](Bleed.md) PVP, 537.98 DMG + 161.4 [Bleed](Bleed.md) PVE)
--   Can be modified with [Cloudstones](Cloudstone.md) and [Stratus Stones](Stratus_Stone.md) to drastically increase the size of the rod.
+-   Has 9.18X PvE scaling (58.6 DMG + 17.5 [Bleed](Status_Effects.md#bleed) PVP, 537.98 DMG + 161.4 [Bleed](Status_Effects.md#bleed) PVE)
+-   Can be modified with [Cloudstones](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to drastically increase the size of the rod.
 
  |
 | 
@@ -661,7 +661,7 @@ _Create a lance, impale your opponent, and send them flying._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Bleed.md)
+Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -672,11 +672,11 @@ Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Bleed.
 
 **Effect:** _After a small wind-up, conjure an iron claw on the character's left arm before thrusting forward, pushing back any targets in the way._
 
--   Has a base damage of 15/23/31/39/47 per level with innate [Bleed](Bleed.md) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 15/23/31/39/47 per level with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
 -   Deals 10 posture damage.
 -   Has a windup of 0.5 seconds with a cooldown of 13 seconds.
 -   Has 9.2x PvE scaling (multiply damage dealt by 9.2 for PvE damage).
--   Comparable to Galebreathe's [Gale Lunge](Gale_Lunge.md) Mantra and Frostdraw's [Ice Lance](Ice_Lance.md) Mantra.
+-   Comparable to Galebreathe's [Gale Lunge](Galebreathe.md#gale-lunge) Mantra and Frostdraw's [Ice Lance](Frostdraw.md#ice-lance) Mantra.
 
  |
 
@@ -732,7 +732,7 @@ _Summon a large metal pillar._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Blunt ResistanceBlunt + [Bleed](Bleed.md)
+Metal [ResistanceIronsing](Ironsing.md) + Blunt ResistanceBlunt + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -744,14 +744,14 @@ Metal [ResistanceIronsing](Ironsing.md) + Blunt ResistanceBlunt + [Bleed](Bleed.
 **Effect:** _Form a pillar from below, causing the character to ascend upwards as the pillar forms._
 
 -   Deals damage on placedown with a very small AoE.
--   Has a base damage of 10/14/18/22/26 with innate [Bleed](Bleed.md) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 10/14/18/22/26 with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
 -   Deals 8 posture damage.
 -   0.5 second windup before damage is dealt, 1.5 second windup before the pillar is fully created.
 -   The pillar lasts 6 seconds at base with a 15 second cooldown. The duration increases by 1 second per upgrade, reaching a total maximum of 10s.
 -   Has 9.2x PvE scaling (multiply damage dealt by 9.2 for PvE damage).
 -   The height of the pillar will depend on what is above the user.
--   Can be modified with [Cloudstones/Stratus Stones](Cloudstone.md) to extend its width.
--   Modifying with [Aeon/Eternal Logstones](Aeon_Logstone.md) seemingly does nothing and does NOT increase its duration.
+-   Can be modified with [Cloudstones/Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to extend its width.
+-   Modifying with [Aeon/Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) seemingly does nothing and does NOT increase its duration.
 
  |
 | 
@@ -774,7 +774,7 @@ _Create a metal ball and rush forward._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Bleed.md)
+Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -785,14 +785,14 @@ Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Bleed.
 
 **Effect:** _Encased in a metal ball, rush forward while knocking down any targets in the way._
 
--   Has a base damage of 18.75/20/21.25/22.5/23.75 with innate [Bleed](Bleed.md) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 18.75/20/21.25/22.5/23.75 with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
 -   Deals 10 posture damage.
 -   Has a windup of 0.5 seconds before the ball is created, and a 0.2 seconds to hit. Has a cooldown of 10.5 seconds.
 -   Applies knockdown on hit for 0.5 seconds.
 -   Has 9.3x PvE scaling (multiply damage dealt by 9.3 for PvE damage).
 -   Covers 82 studs of distance, this can be increased with Aeon and Eternal Logstones.
 -   Applies Metal Rods on hit.
--   Can be modified with [Aeon/Eternal Logstones](Aeon_Logstone.md) to presumably extend its duration. (The modified effect is very miniscule.)
+-   Can be modified with [Aeon/Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to presumably extend its duration. (The modified effect is very miniscule.)
 
  |
 
@@ -863,9 +863,9 @@ Metal [ResistanceIronsing](Ironsing.md) + Blunt ResistanceBlunt
 -   Deals 5 posture damage.
 -   Has a windup of 0.55 seconds with a 13 second cooldown.
 -   Has 9.2x PVE scaling (multiply damage dealt by 9.2 for PvE damage).
--   Can be modified with [Crystal](Crystal_Lens.md) and [Perfect Lenses](Perfect_Lens.md) to increase its range.
--   Can be modified with a [Magnet Spark](Magnet_Spark.md) to lock onto a opponent in front of you
--   Can be modified with a [Reversal Spark](Reversal_Spark.md), pushing your opponent away instead of pulling them.
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase its range.
+-   Can be modified with a [Magnet Spark](Mantra_Modifiers.md#sparks) to lock onto a opponent in front of you
+-   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks), pushing your opponent away instead of pulling them.
 
  |
 | 
@@ -945,9 +945,9 @@ Metal [ResistanceIronsing](Ironsing.md)
 -   Each shot applies a Metal Rod on hit
 -   Turrets can be destroyed if hit enough times by the caster or their opponents.
 -   Requires a ritual cast with two keys, adding duration modifiers increases the number of keys.
--   Can be modified with [Aeon](Aeon_Logstone.md)/[Eternal Logstones](Eternal_Logstone.md) to increase duration.
--   Can be modified with [Drift](Drift_Shard.md)/[Rush Shards](Rush_Shard.md) to make turret spin faster.
--   Can be modified with a [Multiplying Spark](Multiplying_Spark.md) to conjure two turrets instead of one
+-   Can be modified with [Aeon](Mantra_Modifiers.md#regular-modifiers)/[Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to increase duration.
+-   Can be modified with [Drift](Mantra_Modifiers.md#regular-modifiers)/[Rush Shards](Mantra_Modifiers.md#regular-modifiers) to make turret spin faster.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to conjure two turrets instead of one
 
  |
 | 
@@ -1006,7 +1006,7 @@ These are Talents found in "_Ironsinger_" Category.
 |  | Master Ironsinger  
 (50 Ironsing) | You can now obtain 3-star Ironsinger mantras. (+5 Health) |  |
 |  | Alloyblood  
-(100 Ironsing) | You don't Bleed like others do. [Bleed](Bleed.md) damage is reduced by 30%. Blood loss is reduced by 75%. | Alloyblood's effectiveness scales with your Ironsing investment, having less effectiveness if you do not meet the requirements for it. The slash damage visual effect is now **light grey**. Turns Bloodrend mantras blue-ish grey. |
+(100 Ironsing) | You don't Bleed like others do. [Bleed](Status_Effects.md#bleed) damage is reduced by 30%. Blood loss is reduced by 75%. | Alloyblood's effectiveness scales with your Ironsing investment, having less effectiveness if you do not meet the requirements for it. The slash damage visual effect is now **light grey**. Turns Bloodrend mantras blue-ish grey. |
 |  | Ironclad Punishment  
 (45 Ironsing) | Your Ironsing mantras deal more posture damage to enemies the more armor durability they have. | Gain a 0.15% posture damage modifier on Ironsing mantras for every 1% armor durability your opponent has. |
 |  | Laced Traps  
@@ -1014,7 +1014,7 @@ These are Talents found in "_Ironsinger_" Category.
 |  | Metal Shackles  
 (15 Strength, 45 Ironsing) | Guardbreaking an opponent prevents them from receiving speed boost for 5 seconds, while PvE opponents will be [Sluggish](Status_Effects.md#b) for 12 seconds. |  |
 |  | Oh the Irony  
-([Taunt](Taunt.md), 40 Charisma, 55 Ironsing) | Opponents affected by '[Taunt](Taunt.md)' receive double iron rods for the duration. |  |
+([Taunt](Attunement-less.md#taunt), 40 Charisma, 55 Ironsing) | Opponents affected by '[Taunt](Attunement-less.md#taunt)' receive double iron rods for the duration. |  |
 |  | Piercing Metal  
 (Power 13, 60 Ironsing) | Deal additional armor damage to enemies per metal rod affecting them. | Deal 5% more armor damage to enemies per metal rod affecting them. |
 |  | Thornmail  

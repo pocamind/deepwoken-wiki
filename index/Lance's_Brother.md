@@ -23,7 +23,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Lance's Brother**, also known as **(?),** is an [Etrean](Etrean.md) [NPC](NPC.md), he sells various [food](Food.md) items at his stand.
+**Lance's Brother**, also known as **(?),** is an [Etrean](Etrean.md) NPC, he sells various [food](Food.md) items at his stand.
 
 ## Location
 

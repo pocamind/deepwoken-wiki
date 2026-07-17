@@ -20,7 +20,7 @@ Within your mind, many futures present themselves before you. Only your own must
 
 ## Description
 
-The Blade Within is a location within the player's mind. It appears a pallid, vast room with the player's equipped weapon sitting in the middle. This area is vital to obtaining and progressing [Bladeharper](Bladeharper.md).
+The Blade Within is a location within the player's mind. It appears a pallid, vast room with the player's equipped weapon sitting in the middle. This area is vital to obtaining and progressing [Bladeharper](Oath%253A_Bladeharper.md).
 
 Upon interacting with The Blade Within, the player will start a fight with a reflection of themselves, mirroring their Talents, Mantras, and weapon.
 

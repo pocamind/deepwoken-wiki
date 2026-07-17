@@ -30,4 +30,4 @@ This PEN bonus does **not** bypass the 50% PEN cap. [Emperor Flame](Talents.md#e
 
 ## Trivia
 
--   Prior to the [Verse 2](Version_History/2022.md#december-23rd-2022) flourish rework, this ring reduced the amount of hits to flourish opponents by 1. This was also the case during the [Deepwoken OG](Version_History/2026.md#april-1st-2026) 2026 April Fools update.
+-   Prior to the [Verse 2](Version_History/2022-2021.md#december-23rd-2022) flourish rework, this ring reduced the amount of hits to flourish opponents by 1. This was also the case during the [Deepwoken OG](Version_History/2026.md#april-1st-2026) 2026 April Fools update.

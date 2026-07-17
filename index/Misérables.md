@@ -24,7 +24,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Misérables** is an enigmatic avian entity located at the outskirts of [New Kyrsa](New_Kyrsa,_The_Sleeping_City.md) in the [Second Layer](Second_Layer.md), found in a valley behind a fence near large shrine-activated door.
+**Misérables** is an enigmatic avian entity located at the outskirts of [New Kyrsa](Second_Layer/New_Kyrsa.md) in the [Second Layer](Second_Layer.md), found in a valley behind a fence near large shrine-activated door.
 
 Upon interaction with the player, Misérables has the ability to grant wishes to the player, similarly to the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) inside [Scyphozia](First_Layer.md), indicated by two dialogue options:
 

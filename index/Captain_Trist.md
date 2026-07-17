@@ -27,7 +27,7 @@ Captain Trist is an [Adret](Adret.md) NPC. He is an officer of [The Central Auth
 These missions are timed objectives that vary in difficulty depending on the objective. When taking a Mission, you and your squad will be teleported to [Port Merit](Port_Merit.md). For more information on specific Missions as well as the Mission completion lootpool, view the [Authority Ensign](Authority_Ensign.md#progression) page.
 
 1.  **Armanent Sabotage** - _Destroy the legion stockpiles, bait patrols away at \[Location\]._
-    -   Objective: The player and their squad are tasked with destroying several cargo barrels at a [Legion](Hundred_Legions.md) encampment. The barrels can be destroyed by hitting them three times, and the encampment is guarded by 7 [Legion Soldiers](Legion_Soldier.md) and a [Legion Captain](Legion_Captain.md).
+    -   Objective: The player and their squad are tasked with destroying several cargo barrels at a [Legion](The_Hundred_Legions.md) encampment. The barrels can be destroyed by hitting them three times, and the encampment is guarded by 7 [Legion Soldiers](Legion_Soldier.md) and a [Legion Captain](Legion_Captain.md).
 2.  **Capture Prisoner** - _Find and Capture escaped prisoners._
     -   Objective: Track down and hunt a player who is attempting to escape the [Fort Merit](Fort_Merit.md) prison.
 3.  **Hostage** - _Recon has reported there is a hostage at \[Location\]. Save and return the hostage._

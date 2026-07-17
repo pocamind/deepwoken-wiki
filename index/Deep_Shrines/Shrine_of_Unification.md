@@ -24,7 +24,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Located in the Miner's Landing [Starfield Veldt](../Starfield_Veldt.md) (next to [Abaddon, Sinner of Ice](../Abaddon,_Sinner_of_Ice.md) from the [Starkindred](../Starkindred.md) progression) in a hole hidden behind a tree.
+Located in the Miner's Landing [Starfield Veldt](../Starfield_Veldt.md) (next to [Abaddon, Sinner of Ice](../Abaddon,_Sinner_of_Ice.md) from the [Starkindred](../Oath%253A_Starkindred.md) progression) in a hole hidden behind a tree.
 
 ## Effects/Details
 
@@ -36,7 +36,7 @@ For 5 and 2 Talents of your choice, get a Whisper Draw.
 
 -   If you are out of Mantra Draws but need more Mantras, you can use this shrine.
 -   You can trade cards of differing rarities to get a Mantra.
--   It is not recommended to trade Rare Talents as you can only get them from leveling up or the [Shrine of Chance](../Shrine_of_Chance.md).
+-   It is not recommended to trade Rare Talents as you can only get them from leveling up or the [Shrine of Chance](Shrine_of_Chance.md).
 
 ## Dialogue
 

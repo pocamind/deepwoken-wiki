@@ -42,7 +42,7 @@ The Tanto is a high tier dagger type weapon with a requirement of 50 LHT. It is 
 
 A short windup before jumping in the air and slashing forwards in a cartwheel-like motion.
 
-This attack has a scaled damage multiplier of 1.25x and has innate [Bleed](Bleed.md).
+This attack has a scaled damage multiplier of 1.25x and has innate [Bleed](Status_Effects.md#bleed).
 
 ## Trivia
 

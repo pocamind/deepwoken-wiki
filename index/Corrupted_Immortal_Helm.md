@@ -34,4 +34,4 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 The Immortal Helm is an [Equipment](Equipment.md) item under the "Head" category.
 
-The [Cursed Immortality](Talents.md#cursed-immortality) Talent allows you to heal to 75% of your maximum health instead of being knocked with a 5 minute cooldown. If this Talent procs, then all future [Depths Trials](Depths_Trial.md) will **always** be corrupted on that character. This talent doesn't work in the [Zi'eer](<Zi'eer,_the_Fourth_Prophet.md>) bossfight.
+The [Cursed Immortality](Talents.md#cursed-immortality) Talent allows you to heal to 75% of your maximum health instead of being knocked with a 5 minute cooldown. If this Talent procs, then all future [Depths Trials](Cathedral_of_the_Interstice.md#difficulty-calculation) will **always** be corrupted on that character. This talent doesn't work in the [Zi'eer](<Zi'eer,_the_Fourth_Prophet.md>) bossfight.

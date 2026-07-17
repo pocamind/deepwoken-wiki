@@ -16,7 +16,7 @@ notices:
 | alias | Saint Jay[1] |
 | deathdate | 1233 CE[2] |
 
-_This is the renowned [Frostdrawer](Frostdraw.md) and [Circle of Honour](Circle_of_Honour.md) member. For the [Memento](Memento.md) carrying their memories, see [Saint Jay](Saint_Jay.md)._
+_This is the renowned [Frostdrawer](Frostdraw.md) and [Circle of Honour](Circle_of_Honour.md) member. For the [Memento](Mementos.md) carrying their memories, see [Saint Jay](<Saint_Jay_(Memento).md>)._
 
 **Content is not present in-game**  
 The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
@@ -30,5 +30,5 @@ Saint Jay was also a member of the [Circle of Honour](Circle_of_Honour.md) and m
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-memento-1-0) [1.1](#cite-ref-memento-1-1) [1.2](#cite-ref-memento-1-2) [1.3](#cite-ref-memento-1-3) [Saint Jay](Saint_Jay.md)
+1.  ↑ [1.0](#cite-ref-memento-1-0) [1.1](#cite-ref-memento-1-1) [1.2](#cite-ref-memento-1-2) [1.3](#cite-ref-memento-1-3) [Saint Jay](<Saint_Jay_(Memento).md>)
 2.  [↑](#cite-ref-2) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md). However, events taking place within the [Vow of Iron](Vow_of_Iron.md) gamemode are explicitly during the year 1233 CE.

@@ -23,7 +23,7 @@ categories: [Monsters]
 
 ## Description
 
-The Thresher is a large crocodilian [Monster](Monsters.md) that is commonly found in the [Starswept Valley](Starswept_Valley.md) and [The Depths](The_Depths.md). It can frequently be found as lone threats on the surface or in trios when spawning as a part of a static event, and more rarely standing alongside the [King Thresher](King_Thresher.md). In The Depths it will always spawn in duos with another Thresher. There are other Thresher variants such as the **Void Thresher**, located in [Voidsea](Voidsea.md) [sea events](Random_Encounters.md), and the [Nightmare Thresher](Nightmare_Thresher.md), located in the [Ancient Rotlands](Ancient_Rotlands.md).
+The Thresher is a large crocodilian [Monster](Monsters.md) that is commonly found in the [Starswept Valley](The_Starswept_Valley.md) and [The Depths](The_Depths.md). It can frequently be found as lone threats on the surface or in trios when spawning as a part of a static event, and more rarely standing alongside the [King Thresher](King_Thresher.md). In The Depths it will always spawn in duos with another Thresher. There are other Thresher variants such as the **Void Thresher**, located in [Voidsea](Voidsea.md) [sea events](Random_Encounters.md), and the [Nightmare Thresher](Nightmare_Thresher.md), located in the [Ancient Rotlands](Ancient_Rotlands.md).
 
 When found in the [Voidsea](Voidsea.md), Threshers become Void Threshers, having slightly less health and a more grayscaled appearance as well as having white cracks along their bodies, as a result of the Voidsea's influence.
 
@@ -43,7 +43,7 @@ They are not all hostile though, as [Sordino](Sordino.md), a man found at the [S
 
 -   ResistanceSlash Slash
 
- | The Thresher stands on its hind legs and swipes twice. Deals moderate damage and 15 posture damage. Deals [Bleed](Bleed.md) and chips through block.
+ | The Thresher stands on its hind legs and swipes twice. Deals moderate damage and 15 posture damage. Deals [Bleed](Status_Effects.md#bleed) and chips through block.
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable
@@ -57,7 +57,7 @@ They are not all hostile though, as [Sordino](Sordino.md), a man found at the [S
 
 -   ResistanceSlash Slash
 
- | The Thresher bites three times in quick succession. The 3rd hit is slightly delayed compared to the animation. Deals moderate damage and 15 posture damage. Deals [Bleed](Bleed.md) and chips through block.
+ | The Thresher bites three times in quick succession. The 3rd hit is slightly delayed compared to the animation. Deals moderate damage and 15 posture damage. Deals [Bleed](Status_Effects.md#bleed) and chips through block.
 
 -   𓆩✧𓆪 Parryable
 -   ⛊ Blockable
@@ -110,7 +110,7 @@ Dodge
 
 -   **Serrated Claws** - Threshers have 100% PEN and inflict Bleed on hit.
 -   **Thresher Scales** - Threshers have ~50% Physical attack resistance.
--   **Thick Hide** - Threshers automatically extinguish [burn](Burn.md).
+-   **Thick Hide** - Threshers automatically extinguish [burn](Status_Effects.md#burn).
 
 ## Finisher
 
@@ -131,7 +131,7 @@ Dodge
 
 ## Trivia
 
--   You can use [Thresher Bait](Thresher_Bait.md) to spawn Threshers near water, just like Megalodaunt Bait.
+-   You can use [Thresher Bait](Monster_Bait.md) to spawn Threshers near water, just like Megalodaunt Bait.
 -   Prior to October 1st, 2023, the [Thresher Spine](Thresher_Spine.md) had no description, making it the only [Monster](Monsters.md) drop not to have one.
 -   Originally, no Thresher could swim. If they ended up in the sea they would sink and despawn.
 

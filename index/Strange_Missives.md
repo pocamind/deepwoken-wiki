@@ -10,7 +10,7 @@ categories: [Books, The Moonlit Faith]
 
 ## Description
 
-_**Strange Missives**_ is a [Book](Book.md).
+_**Strange Missives**_ is a [Book](Books.md).
 
 ## Text
 

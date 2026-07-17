@@ -35,4 +35,4 @@ The Tophat is an [Equipment](Equipment.md) item under the "Head" category.
 
 ## Trivia
 
--   This item specifically, for some reason, used to have no stats and was impossible to sell; this was fixed in the [October 3rd, 2022](Version_History/2022.md#october-3rd-2022) update.
+-   This item specifically, for some reason, used to have no stats and was impossible to sell; this was fixed in the [October 3rd, 2022](Version_History/2022-2021.md#october-3rd-2022) update.

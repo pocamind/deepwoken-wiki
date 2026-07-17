@@ -36,7 +36,7 @@ For 5 and a Mantra of your choice, obtain a Roll 2.
 
 -   After you take 12 roll 2s, this shrine will no longer allow you to get any Talents.
 -   Let's you get 2 Talents if you decide that you no longer want to use a mantra.
--   [Monster Mantras](../Monster_Mantras.md), [Disguise](../Disguise.md), and [Oath Mantras](../Oaths.md) are not eligible to be divided.
+-   [Monster Mantras](../Monster_Mantras.md), [Disguise](../Attunement-less.md#disguise), and [Oath Mantras](../Oaths.md) are not eligible to be divided.
 -   You cannot obtain Rare Talent cards.
 -   There is a limit to the number of Talents you can get in general. This Shrine is not an infinite Talent generator.
 -   If you do not meet the requirements for 2 or more Talents, the shrine will not let you trade.

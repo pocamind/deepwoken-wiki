@@ -20,7 +20,7 @@ The indomitable tower sprawls into the vast depths below, welcoming all to its s
 
   
 
-The Chariot's Spire is an [Ignition Union](Ignition_Union.md) base within [Scyphozia](First_Layer.md). It is sparsely populated, and serves as a resupply point for Deepdelvers journeying into The [Eternal Gale](Second_Layer.md).
+The Chariot's Spire is an [Ignition Union](The_Ignition_Union.md) base within [Scyphozia](First_Layer.md). It is sparsely populated, and serves as a resupply point for Deepdelvers journeying into The [Eternal Gale](Second_Layer.md).
 
 ## Entrance Path
 

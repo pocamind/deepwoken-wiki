@@ -30,7 +30,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Drifter** is a playable [Memento](Memento.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. It is unlocked by defeating any of the three main progression bosses without taking any damage. Fall damage, chip damage, and self-damaging abilities, such as Rush Hour and Flame Within, do not count towards taking damage. This Memento changes the user's eyes to a light purple.
+**Drifter** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. It is unlocked by defeating any of the three main progression bosses without taking any damage. Fall damage, chip damage, and self-damaging abilities, such as Rush Hour and Flame Within, do not count towards taking damage. This Memento changes the user's eyes to a light purple.
 
 ## Unique Features
 
@@ -192,7 +192,7 @@ Slash ResistanceSlash
         -   Tough Love: 2s -> 1s
         -   Overcharm's Basic Attacks and [Kyrsieger](Kyrsieger.md) critical attack: 5s -> 2.5s
         -   Unnecessary Theatrics (at reqs): 7s -> 3.5s
-        -   [Dread Whisper](Dread_Whisper.md) and [Sing](Sing.md): 7.5s -> 3.25s
+        -   [Dread Whisper](Attunement-less.md#dread-whisper) and [Sing](Attunement-less.md#sing): 7.5s -> 3.25s
         -   Overcharm's self-charm proc: 8s -> 4s
         -   Charismatic Cast, [Allure](Allure.md): 10s -> 5s
         -   Chaotic Charm, [Fadetrimmer's Charming Spray](Oath%253A_Fadetrimmer.md#hair-spray): 15s -> 7.5s

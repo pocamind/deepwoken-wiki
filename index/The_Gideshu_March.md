@@ -8,11 +8,11 @@ categories: [Books]
 
 # The Gideshu March
 
-_Not to be confused with [The Gideshu March (OST)](<The_Gideshu_March_(OST).md>), which this book is based on._
+_Not to be confused with [The Gideshu March (OST)](Deepwoken_OST.md#the-gideshu-march), which this book is based on._
 
 ## Description
 
-_**The Gideshu March**_ is a [Book](Book.md).
+_**The Gideshu March**_ is a [Book](Books.md).
 
 ## Text
 

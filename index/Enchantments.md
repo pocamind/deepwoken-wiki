@@ -22,7 +22,7 @@ Enchantments have a set chance to be applied to a weapon during the following sc
 -   Talking to [Calamus](Calamus.md) and completing her quest can give you 1 enchant Item.
 -   Talking to [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) allows you to turn in 5 [Kyrsan Medallions](Kyrsan_Medallions.md) for a random Enchant Grease or Enchant Stone.
 -   Using an [Enchant Stone](Enchant_Stone.md) or [Enchant Grease](Enchant_Grease.md) to apply an enchantment to a weapon or piece of equipment respectively.
--   Non-exclusive [Enchant Stones](Enchant_Stone.md) and [Enchant Grease](Enchant_Grease.md) can be [crafted](Crafting.md) by using two _catalyst_ ingredients and any other Enchant Stone/Grease.
+-   Non-exclusive [Enchant Stones](Enchant_Stone.md) and [Enchant Grease](Enchant_Grease.md) can be [crafted](Crafting_Recipes.md) by using two _catalyst_ ingredients and any other Enchant Stone/Grease.
 -   Certain activities can provide heaps of Enchant Stones and more rarely Greases, these include but not limited to:
     -   Certain [Bosses](Bosses.md)
     -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
@@ -38,7 +38,7 @@ Enchanted items cannot be dropped on death.
 -   Equipping an enchanted item for the first time will Soulbound it to you. Soulbounded items cannot be dropped. However, they can still be unequipped, stored in your bank or sold to an antiquarian.
 -   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 40 [Echoes](Echoes.md) per item.
 -   Items cannot be "un-enchanted", however, another Enchant Stone or Grease can be used on it to replace the enchantment.
--   You cannot 'stack' two of the same enchantment; If you obtain a helmet with Multiplicity while having boots with Multiplicity equipped, you can't equip the Multiplicity helmet. Alternatively, if you gain Multiplicity on your helmet through [Klaris](Klaris.md) while having Multiplicity boots equipped, only one instance of Multiplicity will function.
+-   You cannot 'stack' two of the same enchantment; If you obtain a helmet with Multiplicity while having boots with Multiplicity equipped, you can't equip the Multiplicity helmet. Alternatively, if you gain Multiplicity on your helmet through [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) while having Multiplicity boots equipped, only one instance of Multiplicity will function.
 
 ## Variants
 
@@ -120,7 +120,7 @@ Blazing can be obtained from its [Enchant Stone](Enchant_Stone.md), trading with
 
 Blazing [Enchant Stone](Enchant_Stone.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Stone)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -130,9 +130,9 @@ Blazing [Enchant Stone](Enchant_Stone.md):
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Second Layer](Second_Layer.md)
--   [Diluvian Mechanism](Diluvian_Mechanism.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
     1.  Any [Enchant Stone](Enchant_Stone.md), [Blessed Gem](Blessed_Gem.md), [Dying Embers](Dying_Embers.md)
         
 
@@ -190,7 +190,7 @@ M1s apply a second instance of Frostdraw damage that deals 4% of the scaled dama
 After hitting a target (LHT: 5, MED: 4, HVY: 3) times, apply [Bottom Freeze](Status_Effects.md#bottom-freeze) and [Chill](Status_Effects.md#chill) for 2 seconds. This also increases Chilling's secondary Frostdraw damage instance to 10% of your scaled damage, on that hit. 5 second cooldown.  
 If the target is a PvE enemy, additionally apply [Sluggish](Status_Effects.md#sluggish), reducing their damage to you for the duration of the slow.
 
-Chilling's damage does not benefit from damage modifiers. Chilling stacks can also be gained from critical attacks if they have the [M1 tag](M1_tag.md).
+Chilling's damage does not benefit from damage modifiers. Chilling stacks can also be gained from critical attacks if they have the M1 tag.
 
 **Obtainment:**
 
@@ -198,7 +198,7 @@ Chilling can be obtained from its [Enchant Stone](Enchant_Stone.md), trading wit
 
 Chilling [Enchant Stone](Enchant_Stone.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Stone)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -208,9 +208,9 @@ Chilling [Enchant Stone](Enchant_Stone.md):
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Second Layer](Second_Layer.md)
--   [Diluvian Mechanism](Diluvian_Mechanism.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
     1.  Any [Enchant Stone](Enchant_Stone.md) and [Frozen Membrane](Frozen_Membrane.md)
     2.  Any [Enchant Stone](Enchant_Stone.md), [Blue Gem](Blue_Gem.md), and [Frigid Prism](Frigid_Prism.md)
         
@@ -243,7 +243,7 @@ Deferred can be obtained from its [Enchant Stone](Enchant_Stone.md), trading wit
 
 Deferred [Enchant Stone](Enchant_Stone.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Stone)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -253,11 +253,11 @@ Deferred [Enchant Stone](Enchant_Stone.md):
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Second Layer](Second_Layer.md)
--   [Diluvian Mechanism](Diluvian_Mechanism.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
-    1.  Any [Enchant Stone](Enchant_Stone.md), [Aeon Logstone](Aeon_Logstone.md), [Blessed Gem](Blessed_Gem.md)
-    2.  Any [Enchant Stone](Enchant_Stone.md), [Blessed Gem](Blessed_Gem.md), [Irithine](Irithine.md)
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Aeon Logstone](Mantra_Modifiers.md#regular-modifiers), [Blessed Gem](Blessed_Gem.md)
+    2.  Any [Enchant Stone](Enchant_Stone.md), [Blessed Gem](Blessed_Gem.md), [Irithine](Ores.md#irithine)
         
 
   
@@ -289,7 +289,7 @@ Detonation can be obtained from its [Enchant Stone](Enchant_Stone.md), trading w
 
 Detonation [Enchant Stone](Enchant_Stone.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Stone)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -299,10 +299,10 @@ Detonation [Enchant Stone](Enchant_Stone.md):
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Second Layer](Second_Layer.md)
--   [Diluvian Mechanism](Diluvian_Mechanism.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
-    1.  Any [Enchant Stone](Enchant_Stone.md), [Blast Spark](Blast_Spark.md), [Wayward Gem](Wayward_Gem.md)
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Blast Spark](Mantra_Modifiers.md#sparks), [Wayward Gem](Wayward_Gem.md)
     2.  Any [Enchant Stone](Enchant_Stone.md), [Iron Bomb](Iron_Bomb.md), [Wayward Gem](Wayward_Gem.md)
         
 
@@ -327,7 +327,7 @@ On M1, inflict [Tethered](Status_Effects.md#tethered), causing a pink string con
 
 Tethered PvE enemies will deal reduced damage to you, scaling on how far away from you they are.
 
-Also procs on criticals with the [M1 tag](M1_tag.md).
+Also procs on criticals with the M1 tag.
 
 **Obtainment:**
 
@@ -335,7 +335,7 @@ Elastic can be obtained from its [Enchant Stone](Enchant_Stone.md), trading with
 
 Elastic [Enchant Stone](Enchant_Stone.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Stone)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -345,9 +345,9 @@ Elastic [Enchant Stone](Enchant_Stone.md):
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Second Layer](Second_Layer.md)
--   [Diluvian Mechanism](Diluvian_Mechanism.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
     1.  Any [Enchant Stone](Enchant_Stone.md), [Sap](Sap.md), [Wayward Gem](Wayward_Gem.md)
         
 
@@ -400,7 +400,7 @@ _Steals Water and Stomach from those you hit._
 
 On hit, steal hunger and thirst from the target based on damage dealt.
 
-Gluttony's sustenance steal is not affected by [Glutton](Glutton.md) Flaw or damage modifiers, but it is affected by your opponent's damage resistances.
+Gluttony's sustenance steal is not affected by [Glutton](Boons_and_Flaws.md#glutton) Flaw or damage modifiers, but it is affected by your opponent's damage resistances.
 
 **Obtainment:**
 
@@ -408,7 +408,7 @@ Gluttony can be obtained from its [Enchant Stone](Enchant_Stone.md), trading wit
 
 Gluttony [Enchant Stone](Enchant_Stone.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Stone)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -418,9 +418,9 @@ Gluttony [Enchant Stone](Enchant_Stone.md):
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Second Layer](Second_Layer.md)
--   [Diluvian Mechanism](Diluvian_Mechanism.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
     1.  Any [Enchant Stone](Enchant_Stone.md), [Megurger](Megurger.md), [Wrath Gem](Wrath_Gem.md)
     2.  Any [Enchant Stone](Enchant_Stone.md), [Ambrosial Chum](Ambrosial_Chum.md)
         
@@ -446,7 +446,7 @@ After hitting the target up to (LHT: 5, MED: 5, HVY: 4) times, [Grim](Status_Eff
 
 Grim **is** affected by the damage modifier cap.
 
-Grim stacks can also be gained from critical attacks that have the [M1 tag](M1_tag.md).
+Grim stacks can also be gained from critical attacks that have the M1 tag.
 
 **Obtainment:**
 
@@ -454,7 +454,7 @@ Grim can be obtained from its [Enchant Stone](Enchant_Stone.md), trading with [L
 
 Grim [Enchant Stone](Enchant_Stone.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Stone)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -464,10 +464,10 @@ Grim [Enchant Stone](Enchant_Stone.md):
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Second Layer](Second_Layer.md)
--   [Diluvian Mechanism](Diluvian_Mechanism.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
-    1.  Any [Enchant Stone](Enchant_Stone.md), [Bloodless Gem](Bloodless_Gem.md), [Void Feather](Void_Feather.md)
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Bloodless Gem](Bloodless_Gem.md), [Void Feather](Dark_Feather.md#void-feather)
         
 
   
@@ -493,7 +493,7 @@ In PvE, your M1s apply [Confusion](Status_Effects.md#confusion), making your opp
 
 These effects last for 12 seconds and are refreshed upon landing another hit.
 
-Harrowing also procs on criticals with the [M1 tag](M1_tag.md).
+Harrowing also procs on criticals with the M1 tag.
 
 **Obtainment:**
 
@@ -541,7 +541,7 @@ Heroism can be obtained from its [Enchant Stone](Enchant_Stone.md), trading with
 
 Heroism [Enchant Stone](Enchant_Stone.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Stone)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -551,10 +551,10 @@ Heroism [Enchant Stone](Enchant_Stone.md):
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Second Layer](Second_Layer.md)
--   [Diluvian Mechanism](Diluvian_Mechanism.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
-    1.  Any [Enchant Stone](Enchant_Stone.md), [Pure Gold](Pure_Gold.md), [Smith's Alloy](<Smith's_Alloy.md>)
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Pure Gold](Ores.md#gold), [Smith's Alloy](<Smith's_Alloy.md>)
         
 
   
@@ -580,7 +580,7 @@ Similar to the [Frozen](Status_Effects.md#frozen) status effect, the ice can be 
 
 **Obtainment:**
 
-Kyrsan Chill can be obtained from its [Enchant Stone](Enchant_Stone.md), dropped from the [Kyrsgarde Champion](Kyrsgarde_Champion.md).
+Kyrsan Chill can be obtained from its [Enchant Stone](Enchant_Stone.md), dropped from the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>).
 
   
 
@@ -611,7 +611,7 @@ Metal can be obtained from its [Enchant Stone](Enchant_Stone.md), trading with [
 
 Metal [Enchant Stone](Enchant_Stone.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Stone)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -621,10 +621,10 @@ Metal [Enchant Stone](Enchant_Stone.md):
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Second Layer](Second_Layer.md)
--   [Diluvian Mechanism](Diluvian_Mechanism.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
-    1.  Any [Enchant Stone](Enchant_Stone.md), [Iron](Iron.md), [Smith's Alloy](<Smith's_Alloy.md>)
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Iron](Ores.md#iron), [Smith's Alloy](<Smith's_Alloy.md>)
         
 
   
@@ -660,7 +660,7 @@ Nemesis is exclusively obtained from its [Enchant Stone](Enchant_Stone.md).
 
 Nemesis [Enchant Stone](Enchant_Stone.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Stone)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -670,9 +670,9 @@ Nemesis [Enchant Stone](Enchant_Stone.md):
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Second Layer](Second_Layer.md)
--   [Diluvian Mechanism](Diluvian_Mechanism.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
     1.  Any [Enchant Stone](Enchant_Stone.md), [Ashes](Ashes.md), [Wayward Gem](Wayward_Gem.md)
         
 
@@ -730,7 +730,7 @@ Obfuscation can be obtained from its [Enchant Stone](Enchant_Stone.md), trading 
 
 Obfuscation [Enchant Stone](Enchant_Stone.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Stone)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -740,10 +740,10 @@ Obfuscation [Enchant Stone](Enchant_Stone.md):
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Second Layer](Second_Layer.md)
--   [Diluvian Mechanism](Diluvian_Mechanism.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
-    1.  Any [Enchant Stone](Enchant_Stone.md), [Glass Stone](Glass_Stone.md), [Wind Gem](Wind_Gem.md)
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Glass Stone](Mantra_Modifiers.md#regular-modifiers), [Wind Gem](Wind_Gem.md)
         
 
   
@@ -767,7 +767,7 @@ On weapon attack, apply the Parasol Blight status effect. This effect has no vis
 
 Monsters you kill have a small chance of proccing Parasol's Blight and summoning allied monsters.
 
-The monster can be a [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Void Thresher](Void_Thresher.md), [Nautilodaunt](Nautilodaunt.md), or a [Prime Megalodaunt](Prime_Megalodaunt.md). These monsters can be [Corrupted](Corrupted_Monsters.md) if used in [The Depths](The_Depths.md).
+The monster can be a [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Void Thresher](Thresher.md), [Nautilodaunt](Nautilodaunt.md), or a [Prime Megalodaunt](Prime_Megalodaunt.md). These monsters can be [Corrupted](Monsters.md#scyphozia) if used in [The Depths](The_Depths.md).
 
 **This enchantment will do nothing if you have not completed [The Gaunt Man's](The_Gaunt_Man.md) trial on your character.**
 
@@ -798,7 +798,7 @@ _Parrying attacks damages your foes._
 
 Providence's Thorns is parryable, but it does not grant autoparry frames.
 
-Certain bosses are **entirely immune** to Providence Thorns. These are: [Maestro Evangarde Rest](Maestro_Evangarde_Rest.md), [Heart of Enmity](Heart_of_Enmity.md), [Parliament](Parliament.md), [Kyrsgarde Champion](Kyrsgarde_Champion.md) and [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
+Certain bosses are **entirely immune** to Providence Thorns. These are: [Maestro Evangarde Rest](Maestro_Evengarde_Rest.md), [Heart of Enmity](Heart_of_Enmity.md), [Parliament](Parliament.md), [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>) and [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
 
 **Obtainment:**
 
@@ -806,7 +806,7 @@ Providence's Thorns can be obtained from its [Enchant Stone](Enchant_Stone.md), 
 
 Providence's Thorns [Enchant Stone](Enchant_Stone.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Stone)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -816,9 +816,9 @@ Providence's Thorns [Enchant Stone](Enchant_Stone.md):
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Second Layer](Second_Layer.md)
--   [Diluvian Mechanism](Diluvian_Mechanism.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
     1.  Any [Enchant Stone](Enchant_Stone.md), [Blessed Gem](Blessed_Gem.md), [Pristine Lotus](Pristine_Lotus.md)
         
 
@@ -853,7 +853,7 @@ Sear can be obtained from its [Enchant Stone](Enchant_Stone.md), trading with [L
 
 Sear [Enchant Stone](Enchant_Stone.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Stone)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -863,9 +863,9 @@ Sear [Enchant Stone](Enchant_Stone.md):
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Second Layer](Second_Layer.md)
--   [Diluvian Mechanism](Diluvian_Mechanism.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
     1.  Any [Enchant Stone](Enchant_Stone.md), [Blue Gem](Blue_Gem.md), [Dying Embers](Dying_Embers.md)
         
 
@@ -888,7 +888,7 @@ _Applies a Solar Mark on critical attack or flourish. Solar Marks last 8s and re
 
 Applies a [Solar Mark](Status_Effects.md#solar-mark) on Critical, Uppercut, or Flourish. Solar Marks last 8 seconds and reduces the affected target's Tempo gain and Ether regeneration.
 
-If you hit a marked enemy with a [Vent](Vent.md), steal their Tempo to refund your Vent's Tempo cost, removing the Solar Mark. If your opponent does not have enough Tempo to afford your Vent cost, you will pay the difference with your own Tempo.
+If you hit a marked enemy with a [Vent](Combat_Mechanics.md#tempo), steal their Tempo to refund your Vent's Tempo cost, removing the Solar Mark. If your opponent does not have enough Tempo to afford your Vent cost, you will pay the difference with your own Tempo.
 
 When fighting PvE enemies, your Vent damage against them is massively increased.
 
@@ -898,7 +898,7 @@ Solar is exclusively obtained from its [Enchant Stone](Enchant_Stone.md).
 
 Solar [Enchant Stone](Enchant_Stone.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Stone)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -908,9 +908,9 @@ Solar [Enchant Stone](Enchant_Stone.md):
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Second Layer](Second_Layer.md)
--   [Diluvian Mechanism](Diluvian_Mechanism.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
     1.  Any [Enchant Stone](Enchant_Stone.md), [Insignia Gem](Insignia_Gem.md), [Suncross Pendant](Suncross_Pendant.md)
     2.  Any [Enchant Stone](Enchant_Stone.md), [Dying Embers](Dying_Embers.md), [Insignia Gem](Insignia_Gem.md)
         
@@ -942,7 +942,7 @@ Stone can be obtained from its [Enchant Stone](Enchant_Stone.md), trading with [
 
 Stone [Enchant Stone](Enchant_Stone.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Stone)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -952,11 +952,11 @@ Stone [Enchant Stone](Enchant_Stone.md):
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Second Layer](Second_Layer.md)
--   [Diluvian Mechanism](Diluvian_Mechanism.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
     1.  Any [Enchant Stone](Enchant_Stone.md), Golem Chunk
-    2.  Any [Enchant Stone](Enchant_Stone.md), [Blessed Gem](Blessed_Gem.md), [Rock](Rock.md)
+    2.  Any [Enchant Stone](Enchant_Stone.md), [Blessed Gem](Blessed_Gem.md), [Rock](Ores.md#rock)
 -   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 5.
     
 
@@ -987,7 +987,7 @@ Storm can be obtained from its [Enchant Stone](Enchant_Stone.md), trading with [
 
 Storm [Enchant Stone](Enchant_Stone.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Stone)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -997,9 +997,9 @@ Storm [Enchant Stone](Enchant_Stone.md):
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Second Layer](Second_Layer.md)
--   [Diluvian Mechanism](Diluvian_Mechanism.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
     1.  Any [Enchant Stone](Enchant_Stone.md), [Spark Gland](Spark_Gland.md), [Wind Gem](Wind_Gem.md)
     2.  Any [Enchant Stone](Enchant_Stone.md), [Ferryman's Coat Cloth](<Ferryman's_Coat_Cloth.md>)
         
@@ -1033,7 +1033,7 @@ Stormbreaker is obtained from its [Enchant Stone](Enchant_Stone.md) and crafting
 
 Stormbreaker [Enchant Stone](Enchant_Stone.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Stone)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -1043,10 +1043,10 @@ Stormbreaker [Enchant Stone](Enchant_Stone.md):
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Second Layer](Second_Layer.md)
--   [Diluvian Mechanism](Diluvian_Mechanism.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
-    1.  [Reversal Spark](Reversal_Spark.md), [Storm Enchant Stone](Storm.md)
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
+    1.  [Reversal Spark](Mantra_Modifiers.md#sparks), [Storm Enchant Stone](Storm.md)
         
 
   
@@ -1072,7 +1072,7 @@ On critical hit, uppercut, flourish, or offhand shot, apply [Suffocation](Status
 
 Suffocated is exclusively obtained from its [Enchant Stone](Enchant_Stone.md).
 
-Suffocated Enchant Stone can be crafted at the [Lost Forge](Lost_Forge.md) with 1 [Windswept Enchant Stone](Enchant_Stone.md) and 2 [Gale Essence](Gale_Essence.md).
+Suffocated Enchant Stone can be crafted at the [Lost Forge](Lost_Forge_of_Leiuna.md) with 1 [Windswept Enchant Stone](Enchant_Stone.md) and 2 [Gale Essence](Gale_Essence.md).
 
   
 
@@ -1103,7 +1103,7 @@ Tears of the Edenkite is exclusively obtained from its [Enchant Stone](Enchant_S
 
 Tears of the Edenkite [Enchant Stone](Enchant_Stone.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Stone)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -1113,9 +1113,9 @@ Tears of the Edenkite [Enchant Stone](Enchant_Stone.md):
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Second Layer](Second_Layer.md)
--   [Diluvian Mechanism](Diluvian_Mechanism.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
     1.  Any [Enchant Stone](Enchant_Stone.md), [Dread Serpent's Mane](<Dread_Serpent's_Mane.md>)
         
 
@@ -1146,7 +1146,7 @@ Umbral Knight can be obtained from its [Enchant Stone](Enchant_Stone.md), tradin
 
 Umbral Knight [Enchant Stone](Enchant_Stone.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Stone)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -1156,11 +1156,11 @@ Umbral Knight [Enchant Stone](Enchant_Stone.md):
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Second Layer](Second_Layer.md)
--   [Diluvian Mechanism](Diluvian_Mechanism.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
     1.  Any [Enchant Stone](Enchant_Stone.md), [Insignia Gem](Insignia_Gem.md), [Umbral Obsidian](Umbral_Obsidian.md)
-    2.  Any [Enchant Stone](Enchant_Stone.md), [Insignia Gem](Insignia_Gem.md), [Pure Umbrite](Pure_Umbrite.md)
+    2.  Any [Enchant Stone](Enchant_Stone.md), [Insignia Gem](Insignia_Gem.md), [Pure Umbrite](Ores.md#umbrite)
         
 
   
@@ -1182,7 +1182,7 @@ _Your weapon attacks drain health from your foes and replenish your blood._
 
 Gain 20% of your weapon's scaled damage as [Temporary Health](Status_Effects.md#temporary-health) on hit. Additionally restore blood when landing weapon attacks. Vampirism caps at 100 Temporary Health and cannot grant Temp HP past this threshold.
 
-This Enchantment is less effective against [Chaser](Chaser.md) and [Primadon](Primadon.md), and almost entirely nullified against the [Scion of Ethiron](Scion_of_Ethiron.md).
+This Enchantment is less effective against [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and [Primadon](Primadon,_Titan_of_the_East.md), and almost entirely nullified against the [Scion of Ethiron](Scion_of_Ethiron.md).
 
 **Obtainment:**
 
@@ -1190,7 +1190,7 @@ Vampirism can be obtained from its [Enchant Stone](Enchant_Stone.md), trading wi
 
 Vampirism [Enchant Stone](Enchant_Stone.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Stone)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -1200,9 +1200,9 @@ Vampirism [Enchant Stone](Enchant_Stone.md):
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Second Layer](Second_Layer.md)
--   [Diluvian Mechanism](Diluvian_Mechanism.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
     1.  Any [Enchant Stone](Enchant_Stone.md), [Ashes](Ashes.md), [Bloodless Gem](Bloodless_Gem.md)
 -   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 5.
     
@@ -1236,7 +1236,7 @@ Wild can be obtained from its [Enchant Stone](Enchant_Stone.md), trading with [L
 
 Wild [Enchant Stone](Enchant_Stone.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Stone)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -1246,10 +1246,10 @@ Wild [Enchant Stone](Enchant_Stone.md):
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Second Layer](Second_Layer.md)
--   [Diluvian Mechanism](Diluvian_Mechanism.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
-    1.  Any [Enchant Stone](Enchant_Stone.md), [Cloudstone](Cloudstone.md), [Wind Gem](Wind_Gem.md)
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Cloudstone](Mantra_Modifiers.md#regular-modifiers), [Wind Gem](Wind_Gem.md)
         
 
   
@@ -1277,7 +1277,7 @@ When between 0 and 6 weapon investment, the duration will always be 0.5s, as the
 
 In the case of [Wyrmtooth](Wyrmtooth.md), your Medium investment will take priority over your Heavy investment.
 
-Windswept's stacks do not decay over time. Criticals with the [M1 tag](M1_tag.md) can build up stacks for Windswept.
+Windswept's stacks do not decay over time. Criticals with the M1 tag can build up stacks for Windswept.
 
 **Obtainment:**
 
@@ -1353,7 +1353,7 @@ Curse of Repulsion is exclusively obtained from its [Enchant Stone](Enchant_Ston
 
 Curse of Repulsion [Enchant Stone](Enchant_Stone.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Stone)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -1363,9 +1363,9 @@ Curse of Repulsion [Enchant Stone](Enchant_Stone.md):
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Second Layer](Second_Layer.md)
--   [Diluvian Mechanism](Diluvian_Mechanism.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
     1.  Any [Enchant Stone](Enchant_Stone.md), [Odd Tentacle](Odd_Tentacle.md), [Wayward Gem](Wayward_Gem.md)
         
 
@@ -1425,7 +1425,7 @@ Curse of the Bloodthirsty can be obtained from its [Enchant Stone](Enchant_Stone
 
 Curse of the Bloodthirsty [Enchant Stone](Enchant_Stone.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Stone)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -1435,9 +1435,9 @@ Curse of the Bloodthirsty [Enchant Stone](Enchant_Stone.md):
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Second Layer](Second_Layer.md)
--   [Diluvian Mechanism](Diluvian_Mechanism.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
     1.  Any [Enchant Stone](Enchant_Stone.md), [Bloodless Gem](Bloodless_Gem.md), [Strange Claw](Strange_Claw.md)
         
 
@@ -1458,11 +1458,11 @@ _Grants passive regen and damages the sanity of your foes, but succumb to the in
 
 **Effect:**
 
-While held, gain increased passive health regen that scales on your weapon investment. This healing will lose effectiveness based on how much maximum health you have. Landing weapon attacks deals 2% of your opponent's maximum [Sanity](Sanity.md) as Sanity damage.
+While held, gain increased passive health regen that scales on your weapon investment. This healing will lose effectiveness based on how much maximum health you have. Landing weapon attacks deals 2% of your opponent's maximum [Sanity](Insanity.md) as Sanity damage.
 
 Your health state will be changed to [Cursed](Status_Effects.md#cursed) while equipped, visually staining your health at and making any death send you to [the Depths](The_Depths.md). Getting hit will extend the duration of the health state by 60 seconds, remaining [Cursed](Status_Effects.md#cursed) for a duration even if you swap weapons.
 
-While your weapon is unsheathed in [the Depths](The_Depths.md), lose 2 [Sanity](Sanity.md) per second. Additionally, reaching 0 [Sanity](Sanity.md) while having a Curse of the No Life King weapon equipped will result in your head rupturing (instant death).
+While your weapon is unsheathed in [the Depths](The_Depths.md), lose 2 [Sanity](Insanity.md) per second. Additionally, reaching 0 [Sanity](Insanity.md) while having a Curse of the No Life King weapon equipped will result in your head rupturing (instant death).
 
 [Viscosity](Viscosity.md) and [Conditioned Runner](Talents.md#conditioned-runner) is disabled, the effectiveness of [Cauterized Wounds](Talents.md#cauterized-wounds), [Alloyblood](Talents.md#alloyblood), and healing potions is reduced, and you take 2x blood damage from all sources while you have this enchantment equipped.
 
@@ -1474,7 +1474,7 @@ Curse of the No Life King can be obtained from its [Enchant Stone](Enchant_Stone
 
 Curse of the No Life King [Enchant Stone](Enchant_Stone.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Stone)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -1484,9 +1484,9 @@ Curse of the No Life King [Enchant Stone](Enchant_Stone.md):
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Second Layer](Second_Layer.md)
--   [Diluvian Mechanism](Diluvian_Mechanism.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
     1.  Any [Enchant Stone](Enchant_Stone.md), [Bloodless Gem](Bloodless_Gem.md), [Umbral Obsidian](Umbral_Obsidian.md)
     2.  Any [Enchant Stone](Enchant_Stone.md), [Bloodless Gem](Bloodless_Gem.md), [Urchin](Urchin.md)
         
@@ -1520,7 +1520,7 @@ Curse of the Unbidden is exclusively obtained from its [Enchant Stone](Enchant_S
 
 Curse of the Unbidden [Enchant Stone](Enchant_Stone.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Stone)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -1530,10 +1530,10 @@ Curse of the Unbidden [Enchant Stone](Enchant_Stone.md):
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Second Layer](Second_Layer.md)
--   [Diluvian Mechanism](Diluvian_Mechanism.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
-    1.  Any [Enchant Stone](Enchant_Stone.md), [Blue Gem](Blue_Gem.md), [Crystal Lens](Crystal_Lens.md)
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
+    1.  Any [Enchant Stone](Enchant_Stone.md), [Blue Gem](Blue_Gem.md), [Crystal Lens](Mantra_Modifiers.md#regular-modifiers)
         
 
   
@@ -1600,10 +1600,10 @@ Curse of Ysley's Ember is exclusively obtained from its [Enchant Stone](Enchant_
 
 Curse of Ysley's Ember Enchant Stone can be obtained from:
 
--   Chests from the following bosses, events, and locations: [Primadon](Primadon.md), [Elder Primadon](Elder_Primadon.md), [Starswept Valley](Starswept_Valley.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), and [Fishing](Fishing.md).
+-   Chests from the following bosses, events, and locations: [Primadon](Primadon,_Titan_of_the_East.md), [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md), [Starswept Valley](The_Starswept_Valley.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), and [Fishing](Fishing.md).
 -   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 8.
--   Directly dropped from [Hive](Golem_Constructs.md) and [Rogue Constructs](Rogue_Construct.md).
--   Turning in an [Artifact](Artifacts.md) to bankers in the [Eastern Luminant](Eastern_Luminant.md).
+-   Directly dropped from [Hive](Hive_Construct.md) and [Rogue Constructs](Rogue_Construct.md).
+-   Turning in an [Artifact](Artifacts.md) to bankers in the [Eastern Luminant](Luminants.md).
     
 
   
@@ -1637,7 +1637,7 @@ Curse of Yun'Shul can be obtained from its [Enchant Stone](Enchant_Stone.md), tr
 
 Curse of Yun'Shul [Enchant Stone](Enchant_Stone.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Stone)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
 -   [War Mode](War_Mode.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -1647,9 +1647,9 @@ Curse of Yun'Shul [Enchant Stone](Enchant_Stone.md):
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Saramaed Hollow](Saramaed_Hollow.md)
 -   [Second Layer](Second_Layer.md)
--   [Diluvian Mechanism](Diluvian_Mechanism.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
     1.  Any [Enchant Stone](Enchant_Stone.md), [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>)
         
 
@@ -1688,12 +1688,12 @@ Adhesive can be obtained from its [Enchant Grease](Enchant_Grease.md) or by obta
 
 Adhesive [Enchant Grease](Enchant_Grease.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Grease)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Grease)
 -   Exchanging 5 to [Laplace](Laplace.md) (grants a random non-exclusive Enchant Grease)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [War Mode](War_Mode.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
     1.  Any [Enchant Grease](Enchant_Grease.md), [Blue Gem](Blue_Gem.md), [Sap](Sap.md)
         
 
@@ -1724,13 +1724,13 @@ Allure can be obtained from its [Enchant Grease](Enchant_Grease.md) or by obtain
 
 Allure [Enchant Grease](Enchant_Grease.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Grease)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Grease)
 -   Exchanging 5 to [Laplace](Laplace.md) (grants a random non-exclusive Enchant Grease)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [War Mode](War_Mode.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
-    1.  Any [Enchant Grease](Enchant_Grease.md), [Insignia Gem](Insignia_Gem.md), [Magnet Spark](Magnet_Spark.md)
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
+    1.  Any [Enchant Grease](Enchant_Grease.md), [Insignia Gem](Insignia_Gem.md), [Magnet Spark](Mantra_Modifiers.md#sparks)
 -   Sold in [Traan Zakshun](Traan_Zakshun.md)'s black market for 5
     
 
@@ -1759,13 +1759,13 @@ Bounce can be obtained from its [Enchant Grease](Enchant_Grease.md) or by obtain
 
 Bounce [Enchant Grease](Enchant_Grease.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Grease)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Grease)
 -   Exchanging 5 to [Laplace](Laplace.md) (grants a random non-exclusive Enchant Grease)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [War Mode](War_Mode.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
-    1.  Any [Enchant Grease](Enchant_Grease.md), [Reversal Spark](Reversal_Spark.md), [Wind Gem](Wind_Gem.md)
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
+    1.  Any [Enchant Grease](Enchant_Grease.md), [Reversal Spark](Mantra_Modifiers.md#sparks), [Wind Gem](Wind_Gem.md)
         
 
   
@@ -1793,13 +1793,13 @@ Displacement can be obtained from its [Enchant Grease](Enchant_Grease.md) or by 
 
 Displacement [Enchant Grease](Enchant_Grease.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Grease)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Grease)
 -   Exchanging 5 to [Laplace](Laplace.md) (grants a random non-exclusive Enchant Grease)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [War Mode](War_Mode.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
-    1.  Any [Enchant Grease](Enchant_Grease.md), [Blast Spark](Blast_Spark.md), [Wayward Gem](Wayward_Gem.md)
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
+    1.  Any [Enchant Grease](Enchant_Grease.md), [Blast Spark](Mantra_Modifiers.md#sparks), [Wayward Gem](Wayward_Gem.md)
         
 
   
@@ -1827,12 +1827,12 @@ Drowned can be obtained from its [Enchant Grease](Enchant_Grease.md) or by obtai
 
 Drowned [Enchant Grease](Enchant_Grease.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Grease)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Grease)
 -   Exchanging 5 to [Laplace](Laplace.md) (grants a random non-exclusive Enchant Grease)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [War Mode](War_Mode.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
     1.  Any [Enchant Grease](Enchant_Grease.md), [Insignia Gem](Insignia_Gem.md), [Umbral Obsidian](Umbral_Obsidian.md)
 -   Sold in [Traan Zakshun](Traan_Zakshun.md)'s Black Market for 10
     
@@ -1866,13 +1866,13 @@ Entanglement can be obtained from its [Enchant Grease](Enchant_Grease.md) or by 
 
 Entanglement [Enchant Grease](Enchant_Grease.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Grease)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Grease)
 -   Exchanging 5 to [Laplace](Laplace.md) (grants a random non-exclusive Enchant Grease)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [War Mode](War_Mode.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
-    1.  Any [Enchant Grease](Enchant_Grease.md), [Magnet Spark](Magnet_Spark.md), [Wayward Gem](Wayward_Gem.md)
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
+    1.  Any [Enchant Grease](Enchant_Grease.md), [Magnet Spark](Mantra_Modifiers.md#sparks), [Wayward Gem](Wayward_Gem.md)
         
 
   
@@ -1886,7 +1886,7 @@ Entanglement [Enchant Grease](Enchant_Grease.md):
 
 [Enchant Ferocity](Ferocity.md)
 
-_Incoming hits may proc a speed boost and deal reduced damage. Both the speed boost and damage reduction scale with your current [Tempo](Tempo.md)._
+_Incoming hits may proc a speed boost and deal reduced damage. Both the speed boost and damage reduction scale with your current [Tempo](Combat_Mechanics.md#tempo)._
 
  | 
 
@@ -1903,12 +1903,12 @@ Ferocity can be obtained from its [Enchant Grease](Enchant_Grease.md) or by obta
 
 Ferocity [Enchant Grease](Enchant_Grease.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Grease)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Grease)
 -   Exchanging 5 to [Laplace](Laplace.md) (grants a random non-exclusive Enchant Grease)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [War Mode](War_Mode.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
     1.  Any [Enchant Grease](Enchant_Grease.md), [Bloodless Gem](Bloodless_Gem.md), [Strange Claw](Strange_Claw.md)
     2.  Any [Enchant Grease](Enchant_Grease.md), [Bloodless Gem](Bloodless_Gem.md), [Megalodaunt Hide](Megalodaunt_Hide.md)
         
@@ -1944,13 +1944,13 @@ Multiplicity can be obtained from its [Enchant Grease](Enchant_Grease.md) or by 
 
 Multiplicity [Enchant Grease](Enchant_Grease.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Grease)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Grease)
 -   Exchanging 5 to [Laplace](Laplace.md) (grants a random non-exclusive Enchant Grease)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [War Mode](War_Mode.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
-    1.  Any [Enchant Grease](Enchant_Grease.md), [Blessed Gem](Blessed_Gem.md), [Multiplying Spark](Multiplying_Spark.md)
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
+    1.  Any [Enchant Grease](Enchant_Grease.md), [Blessed Gem](Blessed_Gem.md), [Multiplying Spark](Mantra_Modifiers.md#sparks)
         
 
   
@@ -1974,9 +1974,9 @@ Upon taking damage, this has a chance to proc. On proc, create a rain cloud abov
 
 This rain cloud functions as normal rain, debuffing [Flamecharm](Flamecharm.md) abilities by 10%, increasing [Thundercall](Thundercall.md) (if you have the [Stratoshock](Talents.md#stratoshock) Talent) and Storm Enchantment's damage, and increasing the damage of your [Frostdraw](Frostdraw.md) abilities if it's Winter.
 
-If you have the **Chilling** Enchantment on your weapon, or if it's [Winter](Winter.md), create snow instead.
+If you have the **Chilling** Enchantment on your weapon, or if it's [Winter](Seasons.md#winter), create snow instead.
 
-If you have **Stench** on another equipment piece, or if you are in [Upper Erisia](Upper_Erisia.md), create an acid rain cloud instead. This will damage yourself and all players in its AoE, however you will become immune to the damage it deals if you have the [Survivalist](Survivalist.md) Boon.
+If you have **Stench** on another equipment piece, or if you are in [Upper Erisia](Upper_Erisia.md), create an acid rain cloud instead. This will damage yourself and all players in its AoE, however you will become immune to the damage it deals if you have the [Survivalist](Boons_and_Flaws.md#survivalist) Boon.
 
 **This enchantment will do nothing if you have not completed [The Gaunt Man's](The_Gaunt_Man.md) trial on your character.**
 
@@ -2011,12 +2011,12 @@ Stench can be obtained from its [Enchant Grease](Enchant_Grease.md) or by obtain
 
 Stench [Enchant Grease](Enchant_Grease.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Grease)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Grease)
 -   Exchanging 5 to [Laplace](Laplace.md) (grants a random non-exclusive Enchant Grease)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [War Mode](War_Mode.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
     1.  Any [Enchant Grease](Enchant_Grease.md), [Chum](Chum.md), [Wind Gem](Wind_Gem.md)
 -   Sold in [Traan Zakshun's](Traan_Zakshun.md) black market for 5
     
@@ -2050,13 +2050,13 @@ Viscosity can be obtained from its [Enchant Grease](Enchant_Grease.md) or by obt
 
 Viscosity [Enchant Grease](Enchant_Grease.md):
 
--   Exchanging 5 to [Klaris](Klaris.md) (grants a random non-exclusive Enchant Grease)
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Grease)
 -   Exchanging 5 to [Laplace](Laplace.md) (grants a random non-exclusive Enchant Grease)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [War Mode](War_Mode.md)
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting.md) [CraftingEmpty](Crafting_Recipes.md):
-    1.  [Aeon Logstone](Aeon_Logstone.md), Any [Enchant Grease](Enchant_Grease.md), [Blessed Gem](Blessed_Gem.md)
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
+    1.  [Aeon Logstone](Mantra_Modifiers.md#regular-modifiers), Any [Enchant Grease](Enchant_Grease.md), [Blessed Gem](Blessed_Gem.md)
         
 
  |
@@ -2263,7 +2263,7 @@ Unobtainable
 -   Having a shield, offhand pistol, or parrying dagger equipped along with an enchant will transfer the visual effect and properties of said enchant to the offhand.
     -   Equipping an enchanted item as a sidearm will have its enchantment be overridden by your main weapon, including the lack of an enchantment.
 -   Providence of Storms, an enchant widely believed to be a removed enchant that combined Providence's Thorns and Obfuscation, was proven to be fake by Developer yayafino on January 1, 2023 on [DaboSenpai's stream](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir).
--   Astral previously required having met a [Wishmaker](Developer_Specs/Iltria.md) to obtain the enchant.
+-   Astral previously required having met a [Wishmaker](Developer_Specs.md#iltria-leafre-spellhardt-retired) to obtain the enchant.
 -   If you plan to use Deferred for its damage increase, do note that unless your damage is above or equal to 83, 61, or 50 for heavy medium and light respectfully, it is generally better to use Detonation instead.
 -   Most, if not all curse enchantments emit sound when equipped, with some being louder than others.
 -   In Verse 1, it was possible to obtain enchanted torso, face, or ring equipment.
@@ -2282,29 +2282,29 @@ Unobtainable
 
 ## Changelogs
 
--   **[January 2nd, 2022](Version_History/2022.md#january-2nd-2022)** - [Hero Blade of Flame, Frost, Lightning, Shadow & Wind](Hero_Blades.md) can no longer be enchanted.
--   **[February 18th, 2022](Version_History/2022.md#february-18th-2022)** - You can't have more than one of a specific enchant equipped at a time. - Limited to have 3 enchanted equipment.
--   **[March 27th, 2022](Version_History/2022.md#march-27th-2022)** - Enchant rates have been buffed by 3x. - Enchanted equipment is soulbound when you equip it. - Enchants could no longer drop on death.
--   **[April 11th, 2022](Version_History/2022.md#april-11th-2022)** - Enchant rates have been buffed by an unknown amount.
--   **[June 27th, 2022](Version_History/2022.md#june-27th-2022)** - Enchanted equipment could be now smelted at [Jarvis](Jarvis.md).
--   **[September 12th, 2022](Version_History/2022.md#september-12th-2022)** - In celebration of Deepwoken obtaining the Best New Game award in the Roblox Innovation Awards, enchant rate have been increased by 2x temporarily (made permanent on **[October 3rd, 2022](Version_History/2022.md#october-3rd-2022)**)
--   **[September 13th, 2022](Version_History/2022.md#september-13th-2022)** - Enchanted weapons and equipment are now at least 1 star by default. Armors and weapons obtained before this date will remain starless if not equipped or re-equipped.
--   **[September 19th, 2022](Version_History/2022.md#september-19th-2022)** - Weapons can be enchanted with a random enchant by giving 3 equipment enchants to [Laplace](Laplace.md).
--   **[December 23rd, 2022](Version_History/2022.md#december-23rd-2022)** - [Enchant Stones](Enchant_Stone.md) were added.
--   **[December 24th, 2022](Version_History/2022.md#december-24th-2022)** - Armor pieces can now be given a random Enchant from [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), by trading in 5 [Medallions](Kyrsan_Medallions.md) from Layer 2.
+-   **[January 2nd, 2022](Version_History/2022-2021.md#january-2nd-2022)** - [Hero Blade of Flame, Frost, Lightning, Shadow & Wind](Hero_Blades.md) can no longer be enchanted.
+-   **[February 18th, 2022](Version_History/2022-2021.md#february-18th-2022)** - You can't have more than one of a specific enchant equipped at a time. - Limited to have 3 enchanted equipment.
+-   **[March 27th, 2022](Version_History/2022-2021.md#march-27th-2022)** - Enchant rates have been buffed by 3x. - Enchanted equipment is soulbound when you equip it. - Enchants could no longer drop on death.
+-   **[April 11th, 2022](Version_History/2022-2021.md#april-11th-2022)** - Enchant rates have been buffed by an unknown amount.
+-   **[June 27th, 2022](Version_History/2022-2021.md#june-27th-2022)** - Enchanted equipment could be now smelted at [Jarvis](Jarvis.md).
+-   **[September 12th, 2022](Version_History/2022-2021.md#september-12th-2022)** - In celebration of Deepwoken obtaining the Best New Game award in the Roblox Innovation Awards, enchant rate have been increased by 2x temporarily (made permanent on **[October 3rd, 2022](Version_History/2022-2021.md#october-3rd-2022)**)
+-   **[September 13th, 2022](Version_History/2022-2021.md#september-13th-2022)** - Enchanted weapons and equipment are now at least 1 star by default. Armors and weapons obtained before this date will remain starless if not equipped or re-equipped.
+-   **[September 19th, 2022](Version_History/2022-2021.md#september-19th-2022)** - Weapons can be enchanted with a random enchant by giving 3 equipment enchants to [Laplace](Laplace.md).
+-   **[December 23rd, 2022](Version_History/2022-2021.md#december-23rd-2022)** - [Enchant Stones](Enchant_Stone.md) were added.
+-   **[December 24th, 2022](Version_History/2022-2021.md#december-24th-2022)** - Armor pieces can now be given a random Enchant from [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), by trading in 5 [Medallions](Kyrsan_Medallions.md) from Layer 2.
 -   **[January 16th, 2023](Version_History/2023.md#january-16th-2023)** - These enemies and humanoid monsters had a chance to spawn wielding enchanted weaponry.
 -   **[February 13th, 2023](Version_History/2023.md#february-13th-2023)** - [Light's Final Toll](<Light's_Final_Toll.md>) can no longer be enchanted.
 -   **[August 25th, 2023](Version_History/2023.md#august-25th-2023)** - These enemies and humanoid monsters can now spawn with enchants again.
 -   **[September 29th, 2023](Version_History/2023.md#september-29th-2023)** - [Astral](Astral.md) is made publicly available.
--   **[November 3rd, 2023](Version_History/2023.md#november-3rd-2023)** - [Hallowtide](<Hallowtide_(Event).md>) Enchant: [Harrowing](Harrowing.md) is made publicly available.
+-   **[November 3rd, 2023](Version_History/2023.md#november-3rd-2023)** - [Hallowtide](Hallowtide.md) Enchant: [Harrowing](Harrowing.md) is made publicly available.
 -   **[April 5th, 2024](Version_History/2024.md#april-5th-2024)** - [Railblades](Railblade.md) are no longer considered Legendary Weapons, thus they can be enchanted.
 -   **[July 12th, 2024](Version_History/2024.md#july-12th-2024)** - The weapon enchant [Curse of Repulsion](Curse_of_Repulsion.md) was added.
--   **[August 23rd, 2024](Version_History/2024.md#august-23rd-2024)** - Equipment enchantments can now be obtained via [Enchant Grease](Enchant_Grease.md) [Relic](Relic.md) through [Laplace](Laplace.md) or [Klaris](Klaris.md).
--   **[February 1st, 2025](Version_History/2025.md#february-1st-2025)** - The weapon enchant [Curse of Rhaemen's Ember](<Curse_of_Rhaemen's_Ember.md>) is added.
+-   **[August 23rd, 2024](Version_History/2024.md#august-23rd-2024)** - Equipment enchantments can now be obtained via [Enchant Grease](Enchant_Grease.md) [Relic](Relics.md) through [Laplace](Laplace.md) or [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
+-   **[February 1st, 2025](Version_History/2025.md#february-1st-2025)** - The weapon enchant [Curse of Rhaemen's Ember](<Curse_of_Ysley's_Ember.md>) is added.
 -   **[July 7th, 2025](Version_History/2025.md#july-7th-2025)** - The weapon enchants [Void (Curse of Void)](Curse_of_Void.md), [Parasol's Blight](<Parasol's_Blight.md>) and [Nightbringer](Nightbringer.md) were added, the equipment enchantment [Rain](<Rain_(enchantment).md>) was also added.
 -   **[July 15th, 2025](Version_History/2025.md#july-15th-2025)** - The weapon enchant Void was renamed to [Curse of Void](Curse_of_Void.md).
 -   **[July 25th, 2025](Version_History/2025.md#july-25th-2025)** - The weapon enchants [Windswept](Windswept.md), [Curse of the Authoritative](Curse_of_the_Authoritative.md), and [Bluster](Bluster.md) were added
--   **[August 4th, 2025](Version_History/2025.md#august-4th-2025)** - [Curse of Rhaemen's Ember](<Curse_of_Rhaemen's_Ember.md>) was renamed to [Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>)
+-   **[August 4th, 2025](Version_History/2025.md#august-4th-2025)** - [Curse of Rhaemen's Ember](<Curse_of_Ysley's_Ember.md>) was renamed to [Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>)
 -   **[Febuary 16th, 2026](Version_History/2026.md#febuary-16th-2026)** - The [Kyrsan Chill](Kyrsan_Chill.md) weapon enchant was added, [Curse of Captain Greene](Curse_of_Captain_Greene.md) and [Suffocated](<Suffocated_(enchantment).md>) weapon enchants were made publically obtainable.
 
 ## References

@@ -35,4 +35,4 @@ The Oni Robes are a [Vow of Iron](Vow_of_Iron.md)\-excluusive [Equipment](Equipm
 
 ## Trivia
 
--   It is related to the upcoming [Wandering Demon](Wandering_Demon.md) [Memento](Memento.md).
+-   It is related to the upcoming [Wandering Demon](Wandering_Demon.md) [Memento](Mementos.md).

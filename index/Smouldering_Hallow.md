@@ -42,8 +42,8 @@ The Smouldering Hallow is a Heavy Greatcannon Weapon with a pumpkin motif.
 
 The user winds up with a red telegraph before firing a volley of pumpkin projectiles onto the opponent, emitting a spray of autumn leaves and jack o' lantern faces. The shockwave applies daze and has a scaled damage multiplier of **0.75x**.
 
-The critical will then fire three mouse aim-able jack o' lantern projectile that explode on contact. If shift lock is on, the projectiles will have auto aim instead. The projectiles apply [Burn](Burn.md) on hit and have a scaled damage multiplier of **0.45x** each.
+The critical will then fire three mouse aim-able jack o' lantern projectile that explode on contact. If shift lock is on, the projectiles will have auto aim instead. The projectiles apply [Burn](Status_Effects.md#burn) on hit and have a scaled damage multiplier of **0.45x** each.
 
 The critical has a cooldown of **15 seconds**.
 
-This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.

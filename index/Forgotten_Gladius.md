@@ -38,16 +38,16 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons wit
 
 ## Description
 
-The Forgotten Gladius is a midgame to endgame weapon obtained from [Primadon](Primadon.md), [Voidwalker](Voidwalker.md) and [Fishing](Fishing.md) chests. This weapon has a base damage of 18 and has no special effect or passives.
+The Forgotten Gladius is a midgame to endgame weapon obtained from [Primadon](Primadon,_Titan_of_the_East.md), [Voidwalker](Voidwalker.md) and [Fishing](Fishing.md) chests. This weapon has a base damage of 18 and has no special effect or passives.
 
 ## Talents
 
 Equipping the Forgotten Gladius grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Blitz** reduces the Windup of your [Prominence Draw](Prominence_Draw.md) by 0.1s (from 0.55s to 0.45s).
+**Blitz** reduces the Windup of your [Prominence Draw](Attunement-less.md#prominence-draw) by 0.1s (from 0.55s to 0.45s).
 
 ## Critical
 
 Forgotten Gladius uses the default Sword critical, a piercing stab. It has a scaled damage multiplier of **1.2x** and a cooldown of **3 seconds**. It deals **3x** the weapon's posture stat as posture damage.
 
-This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.

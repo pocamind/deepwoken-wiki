@@ -25,7 +25,7 @@ Bandits are the second weakest enemies in the overworld of Deepwoken, next to Mu
 
 ## Moves
 
-A Bandit's arsenal consists of a starter weapon, them being either a [Battleaxe](Battleaxe.md), [Sword](Sword.md), [Messer](Messer.md), [Mace](Mace.md) or [Stiletto](Stiletto.md):
+A Bandit's arsenal consists of a starter weapon, them being either a [Battleaxe](Battleaxe.md), [Sword](<Sword_(weapon).md>), [Messer](Messer.md), [Mace](Mace.md) or [Stiletto](Stiletto.md):
 
 | Name/Danger | Description |
 | --- | --- |
@@ -47,7 +47,7 @@ A Bandit's arsenal consists of a starter weapon, them being either a [Battleaxe]
 
  | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon before firmly slamming it down into the ground.
 
-\[[Sword](Sword.md) & [Messer](Messer.md)\] Reels weapon back before delivering a strong stab.  
+\[[Sword](<Sword_(weapon).md>) & [Messer](Messer.md)\] Reels weapon back before delivering a strong stab.  
 \[[Stiletto](Stiletto.md)\] Unleash a quick flurry attack on opponent.
 
 -   Battleaxe and Mace criticals are not blockable.
@@ -65,7 +65,7 @@ A Bandit executes its opponent after knocking them:
 | Name | Description |
 | --- | --- |
 | Execute | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Pins down opponent while raising weapon before firmly bashing the opponent's face.
-\[[Sword](Sword.md), [Messer](Messer.md) & [Stiletto](Stiletto.md)\] Pins down opponent and slices their throat with their blade.
+\[[Sword](<Sword_(weapon).md>), [Messer](Messer.md) & [Stiletto](Stiletto.md)\] Pins down opponent and slices their throat with their blade.
 
  |
 

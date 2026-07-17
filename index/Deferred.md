@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Deferred is a damage dealing [enchantment](Enchantment.md) that changes your weapon's raw damage into a damage over time effect.
+Deferred is a damage dealing [enchantment](Enchantments.md) that changes your weapon's raw damage into a damage over time effect.
 
 ## Effect
 

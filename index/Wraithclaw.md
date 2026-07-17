@@ -45,14 +45,14 @@ The Wraithclaw comes with a single passive ability:
 -   **Gale After Cut** - M1 attacks now apply After Cut, dealing 5% of the initial damage of the attack.
     -   If you have the After Cut Talent, your M1 attacks will apply an After Cut dealing 10% of the initial attack instead of the usual 5%.
 
-Do keep in mind that [Fist style](Fists.md) [Outfit](Outfit.md) [Talents](Talents.md), such as [Legion Centurion](Legion_Centurion.md) or [Navaen War Chief](Navaen_War_Chief.md), work with this weapon, but critical attacks stay unchanged and do not switch depending on your style. The [Fang and Coil](Fang_and_Coil.md) running critical from [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) cannot be used on Wraithclaw.
+Do keep in mind that [Fist style](Fists.md) [Outfit](Outfits.md) [Talents](Talents.md), such as [Legion Centurion](Legion_Centurion.md) or [Navaen War Chief](Navaen_War_Chief.md), work with this weapon, but critical attacks stay unchanged and do not switch depending on your style. The [Fang and Coil](Fang_and_Coil.md) running critical from [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) cannot be used on Wraithclaw.
 
 The Wraithclaw can be obtained from the unique NPC named "[Grudge](Grudge.md)" which you have to defeat. Various spawn locations for the NPC are:
 
 -   [Minityrsa](Minityrsa.md)
 -   [Upper Erisia](Upper_Erisia.md)
 -   [First Layer](First_Layer.md)
--   [Starswept Valley](Starswept_Valley.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Bluster Rift](Bluster_Rift.md)
 -   [The Viper's Jaw](<The_Viper's_Jaw.md>)
@@ -70,7 +70,7 @@ For the **aerial** critical, the user quickly whirls in front of them, dealing 2
 
 Both criticals share the cooldown of **10 seconds**.
 
-These criticals have the [M1 tag](M1_tag.md), allowing them to proc M1-exclusive [Talent](Talent.md) effects.
+These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Talents.md) effects.
 
 ## Trivia
 
@@ -78,7 +78,7 @@ These criticals have the [M1 tag](M1_tag.md), allowing them to proc M1-exclusive
     -   Aerial Critical Attack is not AOE and does the slash only in front of the user, despite the character doing a whirlwind windup in the animation, which could mislead your opponent.
 -   It is similar to "Tekagi-Shuko", a weapon comprised of deadly "claws" that protrudes from the palm, utilized by ninjas. Or the weapon might be inspired by the Marvel comics character, Wolverine, specifically his metal claws of similar design.
 -   With [Chainwarden](Oath%253A_Chainwarden.md), one of the claws disappear and is replaced by the chained gauntlet.[\[1\]](#cite-note-1)
--   It seems as if your slot has [Mute](Mute.md) regalia (animal king), Grudge will not spawn on you. (needs more testing)
+-   It seems as if your slot has [Mute](Regalia.md) regalia (animal king), Grudge will not spawn on you. (needs more testing)
 -   While using the criticals it will play the sound of a bear roaring.
 -   The latter part of the weapon's description is speculated to be a meta comment on the common and popular criticism from the Deepwoken community by veteran players.
 

@@ -29,6 +29,6 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Divine Cast Ring** is a [Relic](Relic.md) Ring [Equipment](Equipment.md) that triples the damage of your Mantras at the cost of them **always** costing your **entire** Ether bar to cast.
+**Divine Cast Ring** is a [Relic](Relics.md) Ring [Equipment](Equipment.md) that triples the damage of your Mantras at the cost of them **always** costing your **entire** Ether bar to cast.
 
 The [Hungry Flames](Talents.md#hungry-flames) and [Metal Eater](Talents.md#metal-eater) Talents still work with this ring, and Mantras cast using your hunger or armor will also benefit from the 3x damage buff.

@@ -18,7 +18,7 @@ The heart of the city's trade, whose streets once brimmed with exuberance and li
 
   
 
-**District of Commerce** is a [location](Locations.md) in _Deepwoken_. It is a landmark in [The City of the Drowned](The_City_of_the_Drowned.md).
+**District of Commerce** is a location in _Deepwoken_. It is a landmark in [The City of the Drowned](The_City_of_the_Drowned.md).
 
 ## Overview
 
@@ -28,7 +28,7 @@ Section of [The City of the Drowned](The_City_of_the_Drowned.md) that has a gate
 
 ### Celtor Bells
 
--   Two [City Bells](Lost_Celtor_city_bells.md) can be rung within this district to open the gate to the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md).
+-   Two [City Bells](The_City_of_the_Drowned.md#city-bells) can be rung within this district to open the gate to the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md).
 
 ## Trivia
 

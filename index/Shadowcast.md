@@ -16,15 +16,15 @@ Shadowcast icon
 
 ## Description
 
-**Shadowcast** is an [Attunement](Attunement.md) that, if previously unlocked, can be started with at character creation. It is unique due to the fact that it drains Ether from those that are hit by its Mantras and returns the drained Ether to the caster. This does come at a cost to its damage output, which tends to be a little lower. Shadowcast applies a black particle effect on hit that can be stacked. Many Shadowcast Talents are centered on Ether drain, obscuring vision and AoE.
+**Shadowcast** is an [Attunement](Attunements.md) that, if previously unlocked, can be started with at character creation. It is unique due to the fact that it drains Ether from those that are hit by its Mantras and returns the drained Ether to the caster. This does come at a cost to its damage output, which tends to be a little lower. Shadowcast applies a black particle effect on hit that can be stacked. Many Shadowcast Talents are centered on Ether drain, obscuring vision and AoE.
 
 ## Obtainment
 
-The [Attunement](Attunement.md) can be unlocked by drinking a [Nightblood potion](Attunement_Potions.md) obtained from [Nostor](Nostor.md) in the [The Depths](First_Layer.md) inside [The City of the Drowned](The_City_of_the_Drowned.md), requiring 5 (2 if previously obtained) [Umbral Obsidian](Umbral_Obsidian.md). You don't have to venture back into the depths to upgrade Shadowcast Mantras however, as [Beatra](Beatra.md) is found in [Derelict Highchurch](Derelict_Highchurch.md). She will upgrade your Mantras but not allow you to obtain Shadowcast. Shadowcast is unlocked permanently from the character creation screen.
+The [Attunement](Attunements.md) can be unlocked by drinking a [Nightblood potion](Attunement_Potions.md) obtained from [Nostor](Nostor,_Master_of_Shadow.md) in the [The Depths](First_Layer.md) inside [The City of the Drowned](The_City_of_the_Drowned.md), requiring 5 (2 if previously obtained) [Umbral Obsidian](Umbral_Obsidian.md). You don't have to venture back into the depths to upgrade Shadowcast Mantras however, as [Beatra](Beatra.md) is found in [Derelict Highchurch](Derelict_Highchurch.md). She will upgrade your Mantras but not allow you to obtain Shadowcast. Shadowcast is unlocked permanently from the character creation screen.
 
 ## Training
 
-Shadowcast can be trained by using the [Pure Heart](Pure_Heart.md) to increase the attribute after either landing Shadowcast Mantras or eating [Umbral Obsidian](Umbral_Obsidian.md) to gain enough EXP.
+Shadowcast can be trained by using the [Pure Heart](Training_Gear.md#attunement-training-gears) to increase the attribute after either landing Shadowcast Mantras or eating [Umbral Obsidian](Umbral_Obsidian.md) to gain enough EXP.
 
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 
@@ -33,7 +33,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At 30 Shadowcast, players will receive the _Expert Shadowcaster_ Talent. This allows players to obtain 2-star Shadowcast Mantras.
 -   Finally, at 50 Shadowcast, players will receive the _Master Shadowcaster_ Talent. This allows players to obtain 3-star Shadowcast Mantras.
 
-You can speak to [Nostor](Nostor.md) in [Lost Celtor](Lost_Celtor.md), [Beatra](Beatra.md) at the [Derelict Highchurch](Derelict_Highchurch.md), or a [Mantra Lectern](Mantra_Lectern.md) to upgrade your Shadowcast Mantras for 100 each. Each upgrade purchased will make the next upgrade for the same Mantra 100 more expensive.
+You can speak to [Nostor](Nostor,_Master_of_Shadow.md) in [Lost Celtor](Lost_Celtor.md), [Beatra](Beatra.md) at the [Derelict Highchurch](Derelict_Highchurch.md), or a [Mantra Lectern](Mantra_Lectern.md) to upgrade your Shadowcast Mantras for 100 each. Each upgrade purchased will make the next upgrade for the same Mantra 100 more expensive.
 
 -   To upgrade a Shadowcast Mantra from level 1 to level 2 costs 100 and 20 Shadowcast investment.
 -   To upgrade a Shadowcast Mantra from level 2 to level 3 costs 200 and 40 Shadowcast investment.
@@ -129,7 +129,7 @@ Blunt ResistanceBlunt (Slam)
 -   The grab deals Shadow + Slash damage, the slam deals pure Blunt damage.
 -   Grants I-frames to the user and opponent on hit.
 -   Notoriously buggy when used against humanoid npcs, often hitting them and showing the slam effects, but dealing no (?) damage or stun
--   Shares a cooldown with all of [grab Mantras](Grab_Mantras.md).
+-   Shares a cooldown with all of [grab Mantras](List_of_Grab_Mantras.md).
 
  |
 | 
@@ -168,7 +168,7 @@ Shadow [ResistanceShadowcast](Shadowcast.md) + Slash ResistanceSlash
 -   Deals 9 posture damage.
 -   Has a 12 second cooldown.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.178 to get PvE damage).
--   Can be modified with a [Tornado Spark](Tornado_Spark.md), adding an additional spinning slash at the end of the initial slashes. This additional hit has the same damage and Ether drain as all other hits.
+-   Can be modified with a [Tornado Spark](Mantra_Modifiers.md#sparks), adding an additional spinning slash at the end of the initial slashes. This additional hit has the same damage and Ether drain as all other hits.
 
  |
 | 
@@ -206,9 +206,9 @@ Shadow [ResistanceShadowcast](Shadowcast.md)
 -   Drains 27/30.5/33.5/37/40.5 Ether per level with 2.75 Shadowcast scaling.
 -   Unsparked variant guardbreaks at level 5.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
--   Adding [Crystal](Crystal_Lens.md) and [Perfect Lenses](Perfect_Lens.md) will increase the range of your Shadow gun, this will however reduce the damage of the Mantra.
--   Adding [Cloud](Cloudstone.md) and [Stratus Stones](Stratus_Stone.md) will increase the height and width of the blast, this will however reduce the damage of the Mantra.
--   Can be modified with a [Blast Spark](Blast_Spark.md), making your Shadow Gun a barrage that deals more damage. It will, however, also remove the guaranteed guardbreak and triples the Ether cost from what's displayed (i.e. a 50 Ether cost Shadow Gun will actually cost 150 of your Ether if a Blast Spark is equipped).
+-   Adding [Crystal](Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) will increase the range of your Shadow gun, this will however reduce the damage of the Mantra.
+-   Adding [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) will increase the height and width of the blast, this will however reduce the damage of the Mantra.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), making your Shadow Gun a barrage that deals more damage. It will, however, also remove the guaranteed guardbreak and triples the Ether cost from what's displayed (i.e. a 50 Ether cost Shadow Gun will actually cost 150 of your Ether if a Blast Spark is equipped).
     -   Has a base damage of 11.88/13.86/15.84/17.82/19.8 per level, per hit (3) with 2.75 Shadowcast scaling. Deals 160% of the base variant's damage if all hits land.
     -   Drains 4.48/5.06/5.56/6.14/6.72 Ether per level, per hit (3) with 2.75 Shadowcast scaling. Drains 50% of the base variant's Ether if all hits land.
 
@@ -250,8 +250,8 @@ Shadow [ResistanceShadowcast](Shadowcast.md)
 -   Has a 15 second cooldown.
 -   Has 9.178x PvE scaling (multiply damage dealt by 9.178 to get PvE damage).
 -   The chains slow your opponent on hit.
--   Duration of the chain effect can be increased with [Aeon](Aeon_Logstone.md) and [Eternal Logstones](Eternal_Logstone.md).
--   Projectile range can be increased with [Crystal](Crystal_Lens.md) and [Perfect Lenses](Perfect_Lens.md).
+-   Duration of the chain effect can be increased with [Aeon](Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers).
+-   Projectile range can be increased with [Crystal](Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers).
 -   Can be upgraded with the _Blighted Song_ Talent, applying the [Blight](Status_Effects.md#blight) status effect on hit, disabling your own and your opponent's ability to cast Mantras while Shadow Chains is active. While this effect is active, you gain damage reduction to Mantras.
 
  |
@@ -292,7 +292,7 @@ Shadow [ResistanceShadowcast](Shadowcast.md)
 -   Has a windup of 0.45 seconds with a 0.4 second delay before the second hit. Has a 12 second cooldown.
 -   The "second hit" does not deal damage and does not grant parry stun to the user if it is parried.
 -   Has 9.178x PvE scaling (multiply damage dealt by 9.178 to get PvE damage).
--   [Cloud](Cloudstone.md) and [Stratus Stones](Stratus_Stone.md) increase the size of the eruption.
+-   [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) increase the size of the eruption.
 
  |
 | 
@@ -333,7 +333,7 @@ Shadow [ResistanceShadowcast](Shadowcast.md) + Slash ResistanceSlash
 -   Shares a cooldown with [Shadow Meteor](#shadow-meteor).
 -   If attacked while casting, the Shadow Seekers will dissipate.
 -   You cannot use any Mantras for a long duration after casting this Mantra. This will end early if all of your Shadow Seekers hit your target.
--   [Cloud](Cloudstone.md) and [Stratus Stones](Stratus_Stone.md) increase the amount of Shadow Seekers, with every +1 size being an additional Seeker. Having more than 11 Shadow Seekers halves the base damage for each Seeker.
+-   [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) increase the amount of Shadow Seekers, with every +1 size being an additional Seeker. Having more than 11 Shadow Seekers halves the base damage for each Seeker.
 
  |
 | 
@@ -373,10 +373,10 @@ Blunt ResistanceBlunt (Slam)
 -   Deals 5 posture damage.
 -   Has a 10 second cooldown.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
--   [Drift](Drift_Shard.md) and [Rush Shards](Rush_Shard.md) increase projectile speed.
--   [Cloud](Cloudstone.md) and [Stratus Stones](Stratus_Stone.md) increase range.
+-   [Drift](Mantra_Modifiers.md#regular-modifiers) and [Rush Shards](Mantra_Modifiers.md#regular-modifiers) increase projectile speed.
+-   [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) increase range.
 -   You cannot cast Mantras while Rising Shadow is active.
--   Can be modified with a [Blast Spark](Blast_Spark.md), removing the damage to apply the [Shadowed Touch](Status_Effects.md#shadowed-touch) status effect. This effect massively increases your opponent's Mantra Ether cost and returns a portion of that Ether to you. If your Ether is full when they cast a Mantra, the Ether gained will overflow into your Tempo instead and you will emit a wave of shadow.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), removing the damage to apply the [Shadowed Touch](Status_Effects.md#shadowed-touch) status effect. This effect massively increases your opponent's Mantra Ether cost and returns a portion of that Ether to you. If your Ether is full when they cast a Mantra, the Ether gained will overflow into your Tempo instead and you will emit a wave of shadow.
 
  |
 | 
@@ -417,7 +417,7 @@ Shadow [ResistanceShadowcast](Shadowcast.md)
 -   Has 9.179x PvE scaling (multiply damage dealt by 9.179 to get PvE damage).
 -   You cannot cast Mantras while Shadow Meteor is active.
 -   Using a Crits immediately cancels Shadow Meteor.
--   Shares a cooldown with [Shadow Seekers](Shadow_Seekers.md).
+-   Shares a cooldown with [Shadow Seekers](Shadowcast.md#shadow-seekers).
 
  |
 | 
@@ -545,7 +545,7 @@ Mult. Spark: Blunt ResistanceBlunt (1st Hit), Shadow [ResistanceShadowcast](Shad
 -   Can also break certain tiles and fell trees.
 -   Unaffected by damage modifiers with the exception of inhale while using the [Eyes of Ethiron](Eyes_of_Ethiron.md) weapon.
 -   Eclipse Kick is unaffected by [Insignia Gem](Insignia_Gem.md).
--   If a [Multiplying Spark](Multiplying_Spark.md) is added, the kick will be replaced with a fast short ranged and low damage high kick that dazes on hit. If this move lands, you will be able to cast Eclipse Kick again to use the default Eclipse Kick. This version of the default Eclipse Kick deals less damage and Ether drain than the unmodified variant.
+-   If a [Multiplying Spark](Mantra_Modifiers.md#sparks) is added, the kick will be replaced with a fast short ranged and low damage high kick that dazes on hit. If this move lands, you will be able to cast Eclipse Kick again to use the default Eclipse Kick. This version of the default Eclipse Kick deals less damage and Ether drain than the unmodified variant.
     -   The first kick has a base damage of 5/6/7/8/9 per level. The second kick has a base damage of 52/62/72/82/92 per level. Both hits have 2.75 Shadowcast scaling.
     -   The first kick drains 24.94/29.23/33.53/37.82/42.11 Ether per level. The second kick drains 26.58/31.18/35.76/40.34/56.15 Ether per level. Both hits have 2.75 Shadowcast scaling.
 
@@ -587,12 +587,12 @@ Shadow [ResistanceShadowcast](Shadowcast.md) + Slash ResistanceSlash
 -   Has a 12 second cooldown.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
 -   Can be feinted, however you need to feint it very early into the move's windup.
--   Can be modified with a [Spring Spark](Spring_Spark.md), making you lunge forward and slam down on the enemy.
--   Can be modified with a [Multiplying Spark](Multiplying_Spark.md), making you slash three times instead of once, lowering the damage per hit with an overall damage increase.
+-   Can be modified with a [Spring Spark](Mantra_Modifiers.md#sparks), making you lunge forward and slam down on the enemy.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks), making you slash three times instead of once, lowering the damage per hit with an overall damage increase.
     -   Has a base damage of 15/17/19/21/23 per level, per hit (3) with 2.75 Shadowcast scaling. This deals 2x the damage of the unmodified variant.
--   You **can** combine the [Spring](Spring_Spark.md) and [Multiplying Sparks](Multiplying_Spark.md) on this Mantra, performing 2 horizontal slashes into a leaping lunge attack.
+-   You **can** combine the [Spring](Mantra_Modifiers.md#sparks) and [Multiplying Sparks](Mantra_Modifiers.md#sparks) on this Mantra, performing 2 horizontal slashes into a leaping lunge attack.
     -   Has a base damage of 13.5/15.3/17.1/20.7 per hit (3), per level with 2.75 Shadowcast scaling. This deals 2.2x the total damage of the unmodified variant.
--   Can be modified with [Reversal Spark](Reversal_Spark.md), but it's currently unknown what it does.
+-   Can be modified with [Reversal Spark](Mantra_Modifiers.md#sparks), but it's currently unknown what it does.
 
  |
 | 
@@ -636,7 +636,7 @@ Blunt ResistanceBlunt
     -   This has a base damage of 35 with 2.75 Shadowcast scaling.
     -   Explosion doesn't happen if either Mantra was used before the vortex sucked someone in.
 -   Has a vertical range cap.
--   Can be modified with [Glass](Glass_Stone.md) and [Magnifying Stones](Magnifying_Stone.md) to increase the range, though it seems to display diminishing returns.
+-   Can be modified with [Glass](Mantra_Modifiers.md#regular-modifiers) and [Magnifying Stones](Mantra_Modifiers.md#regular-modifiers) to increase the range, though it seems to display diminishing returns.
 
  |
 
@@ -751,8 +751,8 @@ Shadow [ResistanceShadowcast](Shadowcast.md)
 -   You can't block, parry, or jump while submerged.
 -   Pressing M1 sends you out early and pressing M2 causes you to walk and run normally for the rest of the mantra.
 -   NPCs can spot you underground.
--   Shares a cooldown with [Sanguine Dive](Sanguine_Dive.md) and [Beast Burrow](Beast_Burrow.md).
--   Unlike [Sanguine Dive](Sanguine_Dive.md) and [Beast Burrow](Beast_Burrow.md) Shade Step does not end early when in close proximity to a potential target.
+-   Shares a cooldown with [Sanguine Dive](Bloodrend.md#sanguine-dive) and [Beast Burrow](Monster_Mantras.md#beast-burrow).
+-   Unlike [Sanguine Dive](Bloodrend.md#sanguine-dive) and [Beast Burrow](Monster_Mantras.md#beast-burrow) Shade Step does not end early when in close proximity to a potential target.
 
  |
 | 
@@ -794,10 +794,10 @@ Bl. Spark: + Blunt ResistanceBlunt
 -   Deals 1.5/2.5/4.5/6.5/8.5 posture damage per level.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
 -   If below 33% health distance is halved. Its distance is reduced by 60% when used in water.
--   [Crystal](Crystal_Lens.md) [Perfect Lenses](Perfect_Lens.md) increase distance. Max range increase is +3 doubling base distance, no increase past 1 Perfect Lense/+3 range modifier.
--   [Glass](Glass_Stone.md) and [Magnifying Stones](Magnifying_Stone.md) make hitbox larger.
+-   [Crystal](Mantra_Modifiers.md#regular-modifiers) [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) increase distance. Max range increase is +3 doubling base distance, no increase past 1 Perfect Lense/+3 range modifier.
+-   [Glass](Mantra_Modifiers.md#regular-modifiers) and [Magnifying Stones](Mantra_Modifiers.md#regular-modifiers) make hitbox larger.
 -   Max AOE seems to be +6
--   Can be modified with a [Blast Spark](Blast_Spark.md) to perform a barrage of shadows. This variant can only be used if you are at or below 40% of your maximum health.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks) to perform a barrage of shadows. This variant can only be used if you are at or below 40% of your maximum health.
 
  |
 
@@ -872,11 +872,11 @@ Shadow [ResistanceShadowcast](Shadowcast.md)
 -   Deals 8 posture damage per hit (1, 3 if Multiplying Spark). The Blast Spark variant guardbreaks.
 -   Has a 19 second cooldown.
 -   Has 9.177x PvE scaling (multiply damage dealt by 9.177 to get PvE damage).
--   The damage buff can be increased with [Vibrant Gems](Vibrant_Gem.md), capping at +25% weapon damage with 3 Vibrant Gems.
--   It has a base duration of 12 seconds that can be modified with [Aeon](Aeon_Logstone.md) and [Eternal Logstones](Eternal_Logstone.md) to increase duration of buff to a cap of 21 seconds.
+-   The damage buff can be increased with [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers), capping at +25% weapon damage with 3 Vibrant Gems.
+-   It has a base duration of 12 seconds that can be modified with [Aeon](Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to increase duration of buff to a cap of 21 seconds.
 -   The [Spine Cutter](Talents.md#spine-cutter) Talent cannot be used while Shade Devour is active
--   Can be upgraded with a [Blast Spark](Blast_Spark.md) to perform a bigger shockwave that deals more damage.
--   Can be upgraded with a [Multiplying Spark](Multiplying_Spark.md) to perform 3 shockwaves instead of 1.
+-   Can be upgraded with a [Blast Spark](Mantra_Modifiers.md#sparks) to perform a bigger shockwave that deals more damage.
+-   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to perform 3 shockwaves instead of 1.
 -   These sparks can be combined.
 
  |
@@ -1060,7 +1060,7 @@ Puppets turn purple if they've been alive for 15 seconds, signifying that they o
 
 ## Trivia
 
--   The Ether drain of Mantras is affected by [Songchant](Songchant.md).
+-   The Ether drain of Mantras is affected by [Songchant](Traits.md#songchant).
 -   In past updates the selection icon for Shadowcast had the same art as [Flamecharm](Flamecharm.md), but was oddly tinted white.
 -   Many factions view the use of Shadowcast as taboo due to the nature of the Attunement.
 -   **Shadow Vortex** is a reference to Planetary Devastation from _Naruto Shippuden_.
@@ -1072,7 +1072,7 @@ Puppets turn purple if they've been alive for 15 seconds, signifying that they o
     -   An interesting example of this would be using a Blast Spark on **Shadow Gun**, giving it a striking resemblance to Duelist Dash from _Rogue Lineage_ (and by extension, Cero Metralleta from _Bleach_).
     -   Base **Shadow Gun**'s animation is identical to the Duelist's M2 from _Rogue Lineage_.
 -   Similarly to every other ritual cast Mantra, **Shade Wisp** gives the player a finger on the hand that casts the Mantra.
--   Shadowcast is the only Attunement to have two trainers: [Nostor](Nostor,_Master_of_Shadow.md) and [Beatra](Beatra.md). However, Beatra cannot be used to obtain Shadowcast or to progress the [Silentheart](Silentheart.md) Oath, but only to upgrade Shadowcast Mantras without going to Scyphozia.
+-   Shadowcast is the only Attunement to have two trainers: [Nostor](Nostor,_Master_of_Shadow.md) and [Beatra](Beatra.md). However, Beatra cannot be used to obtain Shadowcast or to progress the [Silentheart](Oath%253A_Silentheart.md) Oath, but only to upgrade Shadowcast Mantras without going to Scyphozia.
 -   Shadowcast appears to be the attunement associated with [the Ministry](The_Ministry.md), although NPCs not associated can be seen using it.
 -   Shadowcast is likely a reference to Re: Zero's [Shadow Magic, or otherwise Yin Magic](https://rezero.fandom.com/wiki/Magic#). This is seen as Shadow Magic is said to have very similar properties, instilling fear, stopping movement, etc.
 -   Shadowcast and [Bloodrend](Bloodrend.md) are the only attunements to not have their own respective paths.

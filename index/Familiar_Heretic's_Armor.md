@@ -24,7 +24,7 @@ categories: [Outfits, Unique Outfits, Hallowtide, Outfits with Talents, Outfits 
 | selling_price | 10 |
 | weight | 1 |
 
-**Familiar Heretic's Armor** is a Unique [Outfit](Outfit.md) in _Deepwoken_.
+**Familiar Heretic's Armor** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
@@ -36,7 +36,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 4000 durability and grants +35% Physical resistance ResistanceBlunt ResistanceSlash, +35% Elemental resistance [ResistanceElemental](Attunement.md), +5% Fire resistance [ResistanceFlamecharm](Flamecharm.md), and +5% Shadow resistance [ResistanceShadowcast](Shadowcast.md). Additionally, it provides the [Soul Rip](Talents.md#soul-rip) Talent, but will passively reduce your movement speed by 30% while equipped.
+This Outfit has 4000 durability and grants +35% Physical resistance ResistanceBlunt ResistanceSlash, +35% Elemental resistance [ResistanceElemental](Attunements.md), +5% Fire resistance [ResistanceFlamecharm](Flamecharm.md), and +5% Shadow resistance [ResistanceShadowcast](Shadowcast.md). Additionally, it provides the [Soul Rip](Talents.md#soul-rip) Talent, but will passively reduce your movement speed by 30% while equipped.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 35% Physical ResistanceBlunt ResistanceSlash, 38.25% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 38.25% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 35% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 

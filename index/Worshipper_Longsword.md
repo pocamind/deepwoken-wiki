@@ -43,17 +43,17 @@ The Worshipper Longsword is a midgame weapon obtainable from [Minityrsa](Minityr
 
 Equipping the Worshipper Longsword grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Belief** gives your [Medium Weapon Mantras](Attunement-less.md#medium-weapon-mantras) a secondary damage instance, dealing 0.15 × your current [Willpower](Willpower.md) investment as **true damage**. For example, your Medium Mantras will gain 7.5 true damage at 50 Willpower and 15 true damage at 100 Willpower.
+**Belief** gives your [Medium Weapon Mantras](Attunement-less.md#medium-weapon-mantras) a secondary damage instance, dealing 0.15 × your current [Willpower](Attributes.md#wll) investment as **true damage**. For example, your Medium Mantras will gain 7.5 true damage at 50 Willpower and 15 true damage at 100 Willpower.
 
 Having the [**One With Flame**](Talents.md#one-with-flame) Talent active adds additional Flamecharm scaling to your Belief, increasing its damage by +0.05 × your current [Flamecharm](Flamecharm.md) investment.
 
-This effect has no cooldown, allowing your [Master's Flourish](<Master's_Flourish.md>) and [Twincleave](Twincleave.md) to benefit from this Talent's effects twice with one cast.
+This effect has no cooldown, allowing your [Master's Flourish](Attunement-less.md#masters-flourish) and [Twincleave](Attunement-less.md#twincleave) to benefit from this Talent's effects twice with one cast.
 
 ## Critical
 
 Worshipper Longsword uses the default Sword critical, a piercing stab. It has a scaled damage multiplier of **1.2x** and a cooldown of **3 seconds**. It deals **3x** the weapon's posture stat as posture damage.
 
-This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

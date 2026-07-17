@@ -18,7 +18,7 @@ Acid runs along the stones, giving way to a forest guarded by immortal giants.
 
   
 
-**Burning Stone Gardens** is a [location](Locations.md) in _Deepwoken._ It is a sub-location in [The Garden Reservoir](The_Garden_Reservoir.md) located in [Upper Erisia](Upper_Erisia.md).
+**Burning Stone Gardens** is a location in _Deepwoken._ It is a sub-location in [The Garden Reservoir](The_Garden_Reservoir.md) located in [Upper Erisia](Upper_Erisia.md).
 
 ## Overview
 

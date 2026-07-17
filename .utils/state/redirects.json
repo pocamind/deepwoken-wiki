@@ -1,0 +1,5453 @@
+{
+  "11:59": {
+    "to": "Deepwoken OST",
+    "fragment": "11:59"
+  },
+  "11th Legion": {
+    "to": "The Hundred Legions"
+  },
+  "2x Chests": {
+    "to": "Doubled Rates Weekends"
+  },
+  "49th Legion": {
+    "to": "The Hundred Legions"
+  },
+  "A Carousel Of Hearts": {
+    "to": "Deepwoken OST",
+    "fragment": "A Carousel Of Hearts"
+  },
+  "A Darkness Beneath": {
+    "to": "Deepwoken OST",
+    "fragment": "A Darkness Beneath"
+  },
+  "A God, Manufactured": {
+    "to": "Deepwoken OST",
+    "fragment": "A God, Manufactured"
+  },
+  "A Light In The Sky (Band Version)": {
+    "to": "Deepwoken OST",
+    "fragment": "A Light In The Sky (Band Version)"
+  },
+  "A Light In The Sky (OST)": {
+    "to": "Deepwoken OST",
+    "fragment": "A Light In The Sky"
+  },
+  "A Memory Of Tides (Band Version)": {
+    "to": "Deepwoken OST",
+    "fragment": "A Memory Of Tides (Band Version)"
+  },
+  "A Memory of Tides": {
+    "to": "Deepwoken OST",
+    "fragment": "A Memory of Tides"
+  },
+  "A Rank": {
+    "to": "Echoes"
+  },
+  "A Sarabande Of Thunder": {
+    "to": "Deepwoken OST",
+    "fragment": "A Sarabande Of Thunder"
+  },
+  "A Scoundrel's Reverie": {
+    "to": "Deepwoken OST",
+    "fragment": "A Scoundrel's Reverie"
+  },
+  "A Symphony Of Strife": {
+    "to": "Deepwoken OST",
+    "fragment": "A Symphony Of Strife"
+  },
+  "A Waltz Of Snow And Knights": {
+    "to": "Deepwoken OST",
+    "fragment": "A Waltz Of Snow And Knights"
+  },
+  "AGL": {
+    "to": "Attributes",
+    "fragment": "AGL"
+  },
+  "Abandoned Diver": {
+    "to": "Abandoned Diver (Journeyman Skeli)"
+  },
+  "Absolute Radiance": {
+    "to": "Oath: Dawnwalker",
+    "fragment": "Absolute Radiance"
+  },
+  "Abyssal Ridge": {
+    "to": "Monster Mantras",
+    "fragment": "Abyssal Ridge"
+  },
+  "Abyssal Tendrils": {
+    "to": "Monster Mantras",
+    "fragment": "Abyssal Tendrils"
+  },
+  "Acceleration Points": {
+    "to": "Oath: Jetstriker",
+    "fragment": "Acceleration Points"
+  },
+  "Ace": {
+    "to": "Aces"
+  },
+  "Ace of Spades": {
+    "to": "Regalia",
+    "fragment": "Ace of Spades"
+  },
+  "Acid Rain": {
+    "to": "Environmental Hazards"
+  },
+  "Adar": {
+    "to": "Adar, Master of Metal"
+  },
+  "Adrenaline Surge": {
+    "to": "Attunement-less",
+    "fragment": "Adrenaline Surge"
+  },
+  "Aeon Logstone": {
+    "to": "Mantra Modifiers",
+    "fragment": "Regular Modifiers"
+  },
+  "Aero": {
+    "to": "Aeroaseluniris Oricalum Forentus"
+  },
+  "Aesalath Kalafrid": {
+    "to": "Aezeroth Kaladin"
+  },
+  "Afflictions": {
+    "to": "The Depths (Vow of Iron)",
+    "fragment": "Afflictions"
+  },
+  "Agile Dash": {
+    "to": "Attunement-less",
+    "fragment": "Agile Dash"
+  },
+  "Agility": {
+    "to": "Attributes",
+    "fragment": "AGL"
+  },
+  "Air Force": {
+    "to": "Galebreathe",
+    "fragment": "Air Force"
+  },
+  "Akarad": {
+    "to": "Deukalion Akarad"
+  },
+  "Alkhurst Legato": {
+    "to": "Maestro Alkhurst Legato"
+  },
+  "All Hands on Deck!": {
+    "to": "Deepwoken OST",
+    "fragment": "All Hands on Deck!"
+  },
+  "All-Seeing Eye": {
+    "to": "Oath: Blindseer",
+    "fragment": "All-Seeing Eye"
+  },
+  "Alloyed Adretian Axe": {
+    "to": "Adretian Axe"
+  },
+  "Alloyed Canorian Axe": {
+    "to": "Canorian Axe"
+  },
+  "Alloyed Cavalry Saber": {
+    "to": "Cavalry Saber"
+  },
+  "Alloyed Crescent Cleaver": {
+    "to": "Crescent Cleaver"
+  },
+  "Alloyed Dawnshot": {
+    "to": "Dawnshot"
+  },
+  "Alloyed Elixir": {
+    "to": "Attunement Potions"
+  },
+  "Alloyed Falchion": {
+    "to": "Falchion"
+  },
+  "Alloyed Forge Greathammer": {
+    "to": "Forge Greathammer"
+  },
+  "Alloyed Halberd": {
+    "to": "Halberd"
+  },
+  "Alloyed Inheritor": {
+    "to": "Markor's Inheritor"
+  },
+  "Alloyed Katana": {
+    "to": "Katana"
+  },
+  "Alloyed Longspear": {
+    "to": "Gremorian Longspear"
+  },
+  "Alloyed Messer": {
+    "to": "Messer"
+  },
+  "Alloyed Officer Saber": {
+    "to": "Officer Saber"
+  },
+  "Alloyed Scalesplitter": {
+    "to": "Scalesplitter"
+  },
+  "Alloyed Shotel": {
+    "to": "Shotel"
+  },
+  "Alloyed Steel Maul": {
+    "to": "Steel Maul"
+  },
+  "Alloyed Tanto": {
+    "to": "Tanto"
+  },
+  "Alloyed Trident Spear": {
+    "to": "Trident Spear"
+  },
+  "Alloyed Vigil Longsword": {
+    "to": "Vigil Longsword"
+  },
+  "Alloyed Whaling Knife": {
+    "to": "Whaling Knife"
+  },
+  "Alloyed Zweihander": {
+    "to": "Zweihander"
+  },
+  "Alsin's Aid": {
+    "to": "Justicar (Origin)",
+    "fragment": "Alsin's Aid"
+  },
+  "Amashi": {
+    "to": "Amashi, Master of Flame"
+  },
+  "Ambush": {
+    "to": "Faction Ambushes"
+  },
+  "Ambushes": {
+    "to": "Faction Ambushes"
+  },
+  "Amethyst": {
+    "to": "Treasures"
+  },
+  "Amnesic Driftwood": {
+    "to": "Mantra Modifiers",
+    "fragment": "Regular"
+  },
+  "Ancient Soul": {
+    "to": "Regalia",
+    "fragment": "Ancient Soul"
+  },
+  "And Let Slip The Hounds Of War": {
+    "to": "Deepwoken OST",
+    "fragment": "And Let Slip The Hounds Of War"
+  },
+  "Andros": {
+    "to": "Bookkeeper Andros"
+  },
+  "Angels": {
+    "to": "Hollow Angel"
+  },
+  "Angry/Enraged": {
+    "to": "Status Effects",
+    "fragment": "Angry"
+  },
+  "Animal King": {
+    "to": "Regalia",
+    "fragment": "Mute"
+  },
+  "Ankle Cutter": {
+    "to": "Oath: Silentheart",
+    "fragment": "Ankle Cutter"
+  },
+  "Ankle Weights": {
+    "to": "Training Gear",
+    "fragment": "Attribute Training Gears"
+  },
+  "Anti-Heal": {
+    "to": "Status Effects",
+    "fragment": "Anti-Heal"
+  },
+  "Antithetic Salts": {
+    "to": "Oath: Saltchemist",
+    "fragment": "Antithetic Salts"
+  },
+  "Apprentice Azel": {
+    "to": "Mauled Diver Corpse (Apprentice Azel)"
+  },
+  "Apprentice Hero": {
+    "to": "Mauled Diver Corpse (Apprentice Hero)"
+  },
+  "April Fools 2022": {
+    "to": "Mudwoken"
+  },
+  "April Fools 2023": {
+    "to": "Destroyman III"
+  },
+  "April Fools 2024": {
+    "to": "Warring States Era"
+  },
+  "April Fools 2025": {
+    "to": "Deepwoken Battlegrounds"
+  },
+  "April Fools 2026": {
+    "to": "Deepwoken OG"
+  },
+  "Arachnid's Corset": {
+    "to": "Arachnid's Weave"
+  },
+  "Aranea": {
+    "to": "Guiding Star"
+  },
+  "Aratel Sea": {
+    "to": "The Aratel Sea"
+  },
+  "Arc Beam": {
+    "to": "Oath: Arcwarder",
+    "fragment": "Arc Beam"
+  },
+  "Arc Module: Dash": {
+    "to": "Oath: Arcwarder",
+    "fragment": "Arc Module: Dash"
+  },
+  "Arc Module: Eject": {
+    "to": "Oath: Arcwarder",
+    "fragment": "Arc Module: Eject"
+  },
+  "Arc Module: Enhance": {
+    "to": "Oath: Arcwarder",
+    "fragment": "Arc Module: Enhance"
+  },
+  "Arc Module: Guard": {
+    "to": "Oath: Arcwarder",
+    "fragment": "Arc Module: Guard"
+  },
+  "Arc Module: Leap": {
+    "to": "Oath: Arcwarder",
+    "fragment": "Arc Module: Leap"
+  },
+  "Arc Module: Null": {
+    "to": "Oath: Arcwarder",
+    "fragment": "Arc Module: Null"
+  },
+  "Arc Suit": {
+    "to": "Oath: Arcwarder",
+    "fragment": "Arc Suit"
+  },
+  "Arc Wave": {
+    "to": "Oath: Arcwarder",
+    "fragment": "Arc Wave"
+  },
+  "Arcwarder": {
+    "to": "Oath: Arcwarder"
+  },
+  "Ardfall": {
+    "to": "Seasons",
+    "fragment": "Autumn"
+  },
+  "Ardour": {
+    "to": "Murmur: Ardour"
+  },
+  "Ardour Scream": {
+    "to": "Murmur: Ardour"
+  },
+  "Ardour Slicer": {
+    "to": "Oath: Soulbreaker",
+    "fragment": "Ardour Slicer"
+  },
+  "Arena": {
+    "to": "Chime of Conflict"
+  },
+  "Armor": {
+    "to": "Equipment"
+  },
+  "Armor Equipment": {
+    "to": "Equipment"
+  },
+  "Armorer": {
+    "to": "Astra"
+  },
+  "Armorer Kev": {
+    "to": "Armourer Kev"
+  },
+  "Armorers Needle": {
+    "to": "Armorer's Needle"
+  },
+  "Armors": {
+    "to": "Outfits"
+  },
+  "Armour": {
+    "to": "Outfits"
+  },
+  "Armourer's Needle": {
+    "to": "Armorer's Needle"
+  },
+  "Arms": {
+    "to": "Equipment",
+    "fragment": "Arms"
+  },
+  "Aromatic Salts": {
+    "to": "Oath: Saltchemist",
+    "fragment": "Aromatic Salts"
+  },
+  "Artifact": {
+    "to": "Artifacts"
+  },
+  "Ascended Mantras": {
+    "to": "Developer Specs"
+  },
+  "Ascension": {
+    "to": "Oath: Starkindred",
+    "fragment": "Ascension"
+  },
+  "Ascension (Interlude)": {
+    "to": "Deepwoken OST",
+    "fragment": "Ascension (Interlude)"
+  },
+  "Ash For The Altar": {
+    "to": "Deepwoken OST",
+    "fragment": "Ash For The Altar"
+  },
+  "Ash Slam": {
+    "to": "Flamecharm",
+    "fragment": "Ash Slam"
+  },
+  "Aspect": {
+    "to": "Aspects"
+  },
+  "Assassination": {
+    "to": "Combat Mechanics",
+    "fragment": "Assassination"
+  },
+  "Astral Knight": {
+    "to": "Star Knight"
+  },
+  "Astral Wind": {
+    "to": "Galebreathe",
+    "fragment": "Astral Wind"
+  },
+  "Astruline": {
+    "to": "Ores",
+    "fragment": "Astruline"
+  },
+  "Attack Indicators": {
+    "to": "Combat Mechanics",
+    "fragment": "Telegraphed Attacks"
+  },
+  "Attuned Monsters": {
+    "to": "Monsters",
+    "fragment": "Attuned Monsters"
+  },
+  "Attunement": {
+    "to": "Attunements"
+  },
+  "Attunement Trainer": {
+    "to": "Attunement Trainers"
+  },
+  "Attunement Weapons": {
+    "to": "Category:Attunement-based Weapons"
+  },
+  "Attunement-based Weapons": {
+    "to": "Category:Attunement-based Weapons"
+  },
+  "Attunementless": {
+    "to": "Attunement-less"
+  },
+  "Augustus": {
+    "to": "Sentinel Augustus"
+  },
+  "Authoritative": {
+    "to": "Curse of the Authoritative"
+  },
+  "Authority": {
+    "to": "The Central Authority"
+  },
+  "Authority Commander (NPC)": {
+    "to": "Authority Commander (Enemy)"
+  },
+  "Authority Commander Outfit": {
+    "to": "Authority Commander"
+  },
+  "Authority Commander Uniform": {
+    "to": "Authority Captain Uniform"
+  },
+  "Authority Flamecharmer": {
+    "to": "Authority Soldier"
+  },
+  "Authority Footsoldier": {
+    "to": "Authority Officer"
+  },
+  "Authority Guard": {
+    "to": "Authority Peacekeeper"
+  },
+  "Authority Origin": {
+    "to": "Authority Ensign"
+  },
+  "Authority Private": {
+    "to": "Authority Soldier"
+  },
+  "Autodidact": {
+    "to": "Boons and Flaws",
+    "fragment": "Autodidact"
+  },
+  "Autumn": {
+    "to": "Seasons",
+    "fragment": "Autumn"
+  },
+  "Axe": {
+    "to": "Lumber Axe"
+  },
+  "Azel Corbet": {
+    "to": "Mauled Diver Corpse (Apprentice Azel)"
+  },
+  "Azure Flames": {
+    "to": "Flamecharm",
+    "fragment": "Azure Flames"
+  },
+  "Azure Royal Guard": {
+    "to": "Azure Sentinel Pauldrons"
+  },
+  "Azure Royal Guard Boots": {
+    "to": "Azure Sentinel Boots"
+  },
+  "B Rank": {
+    "to": "Echoes"
+  },
+  "BDY": {
+    "to": "Attributes",
+    "fragment": "Body and Mind"
+  },
+  "BLD": {
+    "to": "Attributes",
+    "fragment": "BLD"
+  },
+  "Bait": {
+    "to": "Monster Bait"
+  },
+  "Bamboo": {
+    "to": "Bamboo Bundle"
+  },
+  "Bandit Assassin": {
+    "to": "Thief"
+  },
+  "Bandit Captain": {
+    "to": "Bandit Leader"
+  },
+  "Bank": {
+    "to": "Item Bank"
+  },
+  "Barber's Skillset": {
+    "to": "Oath: Fadetrimmer",
+    "fragment": "Barber's Skillset"
+  },
+  "Barrel (weapon)": {
+    "to": "The Barrel"
+  },
+  "Battlegrounds": {
+    "to": "Deepwoken Battlegrounds"
+  },
+  "Beast Burrow": {
+    "to": "Monster Mantras",
+    "fragment": "Beast Burrow"
+  },
+  "Beastiary": {
+    "to": "Bestiary"
+  },
+  "Bell Progress": {
+    "to": "Resonance",
+    "fragment": "Bell Progress"
+  },
+  "Bigtop Breakbeat": {
+    "to": "Deepwoken OST",
+    "fragment": "Bigtop Breakbeat"
+  },
+  "Biotic Salts": {
+    "to": "Oath: Saltchemist",
+    "fragment": "Biotic Salts"
+  },
+  "Black Blindfold": {
+    "to": "Blindfold"
+  },
+  "Blackdamp Ballad": {
+    "to": "Deepwoken OST",
+    "fragment": "Blackdamp Ballad"
+  },
+  "Blackdamp Ballad (Lonesome Version)": {
+    "to": "Deepwoken OST",
+    "fragment": "Blackdamp Ballad (Lonesome Version)"
+  },
+  "Blade Within": {
+    "to": "The Blade Within"
+  },
+  "Blade of Saints": {
+    "to": "Oath: Saintsworn",
+    "fragment": "Mantras"
+  },
+  "Bladeharper": {
+    "to": "Oath: Bladeharper"
+  },
+  "Blast Spark": {
+    "to": "Mantra Modifiers",
+    "fragment": "Sparks"
+  },
+  "Bleed": {
+    "to": "Status Effects",
+    "fragment": "Bleed"
+  },
+  "Blessings": {
+    "to": "Enchantments",
+    "fragment": "Blessings"
+  },
+  "Blightshock": {
+    "to": "Oath: Blightsurger",
+    "fragment": "Blightshock"
+  },
+  "Blightsurger": {
+    "to": "Oath: Blightsurger"
+  },
+  "Blind": {
+    "to": "Boons and Flaws",
+    "fragment": "Flaws"
+  },
+  "Blinding Dawn": {
+    "to": "Oath: Dawnwalker",
+    "fragment": "Blinding Dawn"
+  },
+  "Blindness": {
+    "to": "Status Effects",
+    "fragment": "Obscured"
+  },
+  "Blindseer": {
+    "to": "Oath: Blindseer"
+  },
+  "Blindseer Glyphs": {
+    "to": "??? (Blindseer Glyphs)"
+  },
+  "Blizzard Knight": {
+    "to": "Stone Knight",
+    "fragment": "Blizzard Knight"
+  },
+  "Bloated Mineskipper": {
+    "to": "Mudskipper"
+  },
+  "Bloatskipper": {
+    "to": "Mudskipper",
+    "fragment": "Bloatskipper"
+  },
+  "Blood And Thunder": {
+    "to": "Deepwoken OST",
+    "fragment": "Blood And Thunder"
+  },
+  "Blood Orb": {
+    "to": "Bloodrend",
+    "fragment": "Blood Orb"
+  },
+  "Blood Poison": {
+    "to": "Status Effects",
+    "fragment": "Blood Poisoning"
+  },
+  "Blood Stakes": {
+    "to": "Bloodrend",
+    "fragment": "Blood Stakes"
+  },
+  "Blood Wisp": {
+    "to": "Bloodrend",
+    "fragment": "Blood Wisp"
+  },
+  "Blood in the Shallows": {
+    "to": "Deepwoken OST",
+    "fragment": "Blood in the Shallows"
+  },
+  "Bloodcurdle": {
+    "to": "Bloodrend",
+    "fragment": "Bloodcurdle"
+  },
+  "Bloodedge": {
+    "to": "Bloodrend",
+    "fragment": "Bloodedge"
+  },
+  "Bloodthirsty": {
+    "to": "Curse of the Bloodthirsty"
+  },
+  "Bloodtide Ritual": {
+    "to": "Bloodrend",
+    "fragment": "Bloodtide Ritual"
+  },
+  "Bloomfall": {
+    "to": "Seasons",
+    "fragment": "Summer"
+  },
+  "Blue Estate": {
+    "to": "The Indigo Citadel"
+  },
+  "Blueskipper": {
+    "to": "Necroskipper"
+  },
+  "Blunderbuss": {
+    "to": "Iron Blunderbuss"
+  },
+  "Boats": {
+    "to": "Ships & Sailing"
+  },
+  "Body": {
+    "to": "Attributes",
+    "fragment": "Body and Mind"
+  },
+  "Bolt Piercer": {
+    "to": "Thundercall",
+    "fragment": "Bolt Piercer"
+  },
+  "Bomb": {
+    "to": "Iron Bomb"
+  },
+  "Bone Wisp": {
+    "to": "Monster Mantras",
+    "fragment": "Bone Wisp"
+  },
+  "Bonekeeper": {
+    "to": "Bone Keeper"
+  },
+  "Book": {
+    "to": "Books"
+  },
+  "Bottom Freeze": {
+    "to": "Status Effects",
+    "fragment": "Bottom Freeze"
+  },
+  "Boulder": {
+    "to": "Training Gear",
+    "fragment": "Attribute Training Gears"
+  },
+  "Boundaries": {
+    "to": "Boundary"
+  },
+  "Bounder Nest": {
+    "to": "Nest Corridor"
+  },
+  "Bounties": {
+    "to": "Bounty Hunting"
+  },
+  "Bounty": {
+    "to": "Bounty Hunting"
+  },
+  "Bows": {
+    "to": "Category:Bows"
+  },
+  "Brace": {
+    "to": "Attunement-less",
+    "fragment": "Brace"
+  },
+  "Brachial Spear": {
+    "to": "Monster Mantras",
+    "fragment": "Brachial Spear"
+  },
+  "Brilliant Lotus": {
+    "to": "Primordial Lotuses",
+    "fragment": "Brilliant Lotus"
+  },
+  "Brilliant Pauldron": {
+    "to": "Brilliant Pauldrons"
+  },
+  "Broodalloy Cestus": {
+    "to": "Coral Cestus"
+  },
+  "Broodlord": {
+    "to": "Mudskipper Broodlord"
+  },
+  "Broodlord Rot": {
+    "to": "Status Effects",
+    "fragment": "Broodlord Rot"
+  },
+  "Browline Citadel Frames": {
+    "to": "Citadel Frames"
+  },
+  "Brute": {
+    "to": "Mudskipper Brute"
+  },
+  "Bullet": {
+    "to": "Bullets"
+  },
+  "Bulwark Helm": {
+    "to": "Grand Authority Sallet"
+  },
+  "Buongustino": {
+    "to": "Chef Buongustino"
+  },
+  "Burn": {
+    "to": "Status Effects",
+    "fragment": "Burn"
+  },
+  "Burning Servants": {
+    "to": "Flamecharm",
+    "fragment": "Burning Servants"
+  },
+  "C Rank": {
+    "to": "Echoes"
+  },
+  "CBoW": {
+    "to": "Curved Blade of Winds"
+  },
+  "CHA": {
+    "to": "Attributes",
+    "fragment": "CHA"
+  },
+  "Caeranthil Steak": {
+    "to": "Raw Heavy Meat"
+  },
+  "Caeranthil's Scale": {
+    "to": "Doom of Caeranthil's Scale"
+  },
+  "Call of the Deep": {
+    "to": "Deepbound",
+    "fragment": "Call of the Deep"
+  },
+  "Call of the Deep (OST)": {
+    "to": "Deepwoken OST",
+    "fragment": "Call of the Deep"
+  },
+  "Caltrops": {
+    "to": "Ironsing",
+    "fragment": "Caltrops"
+  },
+  "Campfire": {
+    "to": "Campfire Pit"
+  },
+  "Cantrips": {
+    "to": "Elemental Cantrips"
+  },
+  "Captain Greene (enchantment)": {
+    "to": "Curse of Captain Greene"
+  },
+  "Captain Orlandeau": {
+    "to": "Cap'n Orlandeau"
+  },
+  "Carol of Resonances": {
+    "to": "Deepwoken OST",
+    "fragment": "Carol of Resonances"
+  },
+  "Carrion": {
+    "to": "Carrion, Father of Evolution"
+  },
+  "Carrying Capacity": {
+    "to": "Carry Load"
+  },
+  "Catalog items": {
+    "to": "Deepwoken UGC"
+  },
+  "Category:Greataxes": {
+    "to": "Greataxes"
+  },
+  "Category:Greatswords": {
+    "to": "Greatswords"
+  },
+  "Category:Shields": {
+    "to": "Shields"
+  },
+  "Category:Staves": {
+    "to": "Staves"
+  },
+  "Catthew": {
+    "to": "Chest Master"
+  },
+  "Catwhisker": {
+    "to": "Deepwoken OST",
+    "fragment": "Catwhisker"
+  },
+  "Ceaseless Slashes": {
+    "to": "Attunement-less",
+    "fragment": "Ceaseless Slashes"
+  },
+  "Celestial Assault": {
+    "to": "Oath: Starkindred",
+    "fragment": "Celestial Assault"
+  },
+  "Celestial Telescope": {
+    "to": "Greathive Aratel",
+    "fragment": "Observatory 2"
+  },
+  "Celtor City": {
+    "to": "The City of the Drowned"
+  },
+  "Celtor Guard": {
+    "to": "Celtorian Guard"
+  },
+  "Celtor Helm": {
+    "to": "Celtor Commander Helm"
+  },
+  "Celtorian Horror": {
+    "to": "The Celtorian Horror"
+  },
+  "Central Authority": {
+    "to": "The Central Authority"
+  },
+  "Central Luminant": {
+    "to": "Luminants"
+  },
+  "Cerebral Spire": {
+    "to": "The Cerebral Spire"
+  },
+  "Ceres": {
+    "to": "Meteor"
+  },
+  "Chain Pull": {
+    "to": "Ironsing",
+    "fragment": "Chain Pull"
+  },
+  "Chain of Perfection": {
+    "to": "Talent Quests",
+    "fragment": "Chain of Perfection"
+  },
+  "Chainbreaker": {
+    "to": "Deepwoken OST",
+    "fragment": "Chainbreaker"
+  },
+  "Chainlash": {
+    "to": "Oath: Chainwarden",
+    "fragment": "Chainlash"
+  },
+  "Chainwarden": {
+    "to": "Oath: Chainwarden"
+  },
+  "Challenges": {
+    "to": "Bestiary"
+  },
+  "Champion Kyrsgarde": {
+    "to": "Kyrsgarde Champion, Kyrsa's Star"
+  },
+  "Champion's Whirlthrow": {
+    "to": "Galebreathe",
+    "fragment": "Champion's Whirlthrow"
+  },
+  "Chariot's Spire": {
+    "to": "The Chariot's Spire"
+  },
+  "Charisma": {
+    "to": "Attributes",
+    "fragment": "CHA"
+  },
+  "Charm": {
+    "to": "Status Effects",
+    "fragment": "Charm"
+  },
+  "Charmshroom Costume": {
+    "to": "Mushroom Costume"
+  },
+  "Chaser": {
+    "to": "Chaser, Scholar of the Crimson Contract"
+  },
+  "Chaser, Scholar of the Burning Blood": {
+    "to": "Chaser, Scholar of the Crimson Contract"
+  },
+  "Cheap Trick": {
+    "to": "Oath: Visionshaper",
+    "fragment": "Cheap Trick"
+  },
+  "Chests": {
+    "to": "Chests & Sacks"
+  },
+  "Children of Navae": {
+    "to": "The Children of Navae"
+  },
+  "Children of the Aftertide I": {
+    "to": "Children of the Aftertide",
+    "fragment": "Vol. 1"
+  },
+  "Chili": {
+    "to": "Travelling Merchant"
+  },
+  "Chill": {
+    "to": "Status Effects",
+    "fragment": "Chill"
+  },
+  "Chime Maps": {
+    "to": "Category:Chime of Conflict Arenas"
+  },
+  "Chitin": {
+    "to": "Vesperian"
+  },
+  "Choice of Chance": {
+    "to": "Echoes",
+    "fragment": "Upgrades, Unlocks, and Modifiers"
+  },
+  "Choji Mofisu": {
+    "to": "Sachan Choji Mofisu"
+  },
+  "Circle of Honor": {
+    "to": "Circle of Honour"
+  },
+  "Circus Bomb": {
+    "to": "Iron Bomb"
+  },
+  "Citadel of Markor": {
+    "to": "The Citadel of Markor"
+  },
+  "City of the Drowned": {
+    "to": "The City of the Drowned"
+  },
+  "Clawdia": {
+    "to": "Chest Master"
+  },
+  "Close Shave": {
+    "to": "Oath: Fadetrimmer",
+    "fragment": "Close Shave"
+  },
+  "Cloudstone": {
+    "to": "Mantra Modifiers",
+    "fragment": "Regular Modifiers"
+  },
+  "Clutching Shadow": {
+    "to": "Shadowcast",
+    "fragment": "Clutching Shadow"
+  },
+  "Coal": {
+    "to": "Ores",
+    "fragment": "Coal"
+  },
+  "Cold Forge": {
+    "to": "The Cold Forge"
+  },
+  "Combat Training": {
+    "to": "Training Mode"
+  },
+  "Command Division": {
+    "to": "Authority Ensign",
+    "fragment": "Command Division"
+  },
+  "Conductor": {
+    "to": "Ironsing",
+    "fragment": "Rending Needle: Conductor"
+  },
+  "Contractor": {
+    "to": "Oath: Contractor"
+  },
+  "Controls": {
+    "to": "Settings"
+  },
+  "Convocants": {
+    "to": "The High Convocation"
+  },
+  "Coral": {
+    "to": "Alestrian Coral"
+  },
+  "Coral Clump": {
+    "to": "??? (Coral Clump)"
+  },
+  "Coral Fever": {
+    "to": "Destroyman III"
+  },
+  "Coral Spear": {
+    "to": "Monster Mantras",
+    "fragment": "Coral Spear"
+  },
+  "Corrupted": {
+    "to": "Monsters",
+    "fragment": "Scyphozia"
+  },
+  "Corrupted Bell": {
+    "to": "Resonance",
+    "fragment": "Corrupted Resonances"
+  },
+  "Corrupted Monsters": {
+    "to": "Monsters",
+    "fragment": "Scyphozia"
+  },
+  "Corrupted Resonance": {
+    "to": "Resonance",
+    "fragment": "Corrupted Resonances"
+  },
+  "Covenant": {
+    "to": "The Covenant of Flame"
+  },
+  "Covenant of Flame": {
+    "to": "The Covenant of Flame"
+  },
+  "Crabbo": {
+    "to": "Crustaceous Rex"
+  },
+  "Crafting": {
+    "to": "Crafting Recipes"
+  },
+  "Crestfallen": {
+    "to": "Echoes",
+    "fragment": "Upgrades, Unlocks, and Modifiers"
+  },
+  "Crimson Blindfold": {
+    "to": "Blindfold"
+  },
+  "Crimson Rain": {
+    "to": "Bloodrend",
+    "fragment": "Crimson Rain"
+  },
+  "Crimson Surge": {
+    "to": "Bloodrend",
+    "fragment": "Crimson Surge"
+  },
+  "Crimson Terrapod": {
+    "to": "Terrapod",
+    "fragment": "Crimson"
+  },
+  "Crocco": {
+    "to": "Thresher"
+  },
+  "Crocodile": {
+    "to": "Thresher"
+  },
+  "Crucifixion": {
+    "to": "Bloodrend",
+    "fragment": "Crucifixion"
+  },
+  "Cry 'Havoc!'": {
+    "to": "Deepwoken OST",
+    "fragment": "Cry 'Havoc!'"
+  },
+  "Crystal": {
+    "to": "Status Effects",
+    "fragment": "Crystal"
+  },
+  "Crystal Impale": {
+    "to": "Frostdraw",
+    "fragment": "Crystal Impale"
+  },
+  "Crystal Knee": {
+    "to": "Frostdraw",
+    "fragment": "Crystal Knee"
+  },
+  "Crystal Lens": {
+    "to": "Mantra Modifiers",
+    "fragment": "Regular Modifiers"
+  },
+  "Crystals": {
+    "to": "Status Effects",
+    "fragment": "Crystal"
+  },
+  "Cslots": {
+    "to": "Crazy Slots"
+  },
+  "Cultist Necromancer": {
+    "to": "Ministry Necromancer"
+  },
+  "Curse of Rhaemen's Ember": {
+    "to": "Curse of Ysley's Ember"
+  },
+  "Curse of Zariff's Absorption": {
+    "to": "Curse of Zariffs Absorption"
+  },
+  "Curseblood": {
+    "to": "Attunement Potions"
+  },
+  "Curses": {
+    "to": "Enchantments",
+    "fragment": "Curses"
+  },
+  "Cut Features": {
+    "to": "Cut Content"
+  },
+  "D Rank": {
+    "to": "Echoes"
+  },
+  "DEEPWOKEST": {
+    "to": "Deepwoken OST",
+    "fragment": "DEEPWOKEST"
+  },
+  "DSGS": {
+    "to": "Darksteel Greatsword"
+  },
+  "Dance, If You Can!": {
+    "to": "Deepwoken OST",
+    "fragment": "Dance, If You Can!"
+  },
+  "Dancing Steps Of War": {
+    "to": "Deepwoken OST",
+    "fragment": "Dancing Steps Of War"
+  },
+  "Dark Blade": {
+    "to": "Shadowcast",
+    "fragment": "Dark Blade"
+  },
+  "Dark Mage Cultists": {
+    "to": "Ministry Scout"
+  },
+  "Darkalloy Greatsword": {
+    "to": "Darksteel Greatsword"
+  },
+  "Dash": {
+    "to": "Attunement-less",
+    "fragment": "Agile Dash"
+  },
+  "Dawn": {
+    "to": "Day-night cycle"
+  },
+  "Dawnwalker": {
+    "to": "Oath: Dawnwalker"
+  },
+  "Day": {
+    "to": "Day-night cycle"
+  },
+  "Day night cycle": {
+    "to": "Day-night cycle"
+  },
+  "Daycleave": {
+    "to": "Daybreak"
+  },
+  "Dazed": {
+    "to": "Status Effects",
+    "fragment": "Dazed"
+  },
+  "Dealbreaker": {
+    "to": "Echoes",
+    "fragment": "Upgrades, Unlocks, and Modifiers"
+  },
+  "Death From Above": {
+    "to": "Oath: Starkindred",
+    "fragment": "Death From Above"
+  },
+  "Death Knell": {
+    "to": "The Death Knell"
+  },
+  "Death's Head Necktie": {
+    "to": "Death's-Head Necktie"
+  },
+  "Deathscribes": {
+    "to": "Memorial Masons"
+  },
+  "Decimate": {
+    "to": "Oath: Bladeharper",
+    "fragment": "Decimate"
+  },
+  "Decisive Winds": {
+    "to": "Oath: Jetstriker",
+    "fragment": "Decisive Winds"
+  },
+  "Deep Champion": {
+    "to": "Echoes",
+    "fragment": "Upgrades, Unlocks, and Modifiers"
+  },
+  "Deep Gem": {
+    "to": "Deep Gems"
+  },
+  "Deficient": {
+    "to": "Boons and Flaws",
+    "fragment": "Deficient"
+  },
+  "Deluvian Mechanism": {
+    "to": "The Diluvian Mechanism"
+  },
+  "Depth's Connection": {
+    "to": "Cut Content",
+    "fragment": "Talents"
+  },
+  "Depths": {
+    "to": "The Depths"
+  },
+  "Depths Trial": {
+    "to": "Cathedral of the Interstice",
+    "fragment": "Difficulty Calculation"
+  },
+  "Depths Trial (Vow of Iron)": {
+    "to": "The Depths (Vow of Iron)",
+    "fragment": "Depths Trial"
+  },
+  "Desert Knight": {
+    "to": "Stone Knight",
+    "fragment": "Sand Knight"
+  },
+  "Destined": {
+    "to": "Echoes",
+    "fragment": "Upgrades, Unlocks, and Modifiers"
+  },
+  "Detainment Core": {
+    "to": "Merit Detainment Core"
+  },
+  "Developer Specs/Iltria": {
+    "to": "Developer Specs",
+    "fragment": "Iltria (Leafre Spellhardt) (Retired)"
+  },
+  "Developer Specs/Zartania": {
+    "to": "Developer Specs",
+    "fragment": "Zartania (Stannis Caesar)"
+  },
+  "Developer Specs/yayafino": {
+    "to": "Developer Specs",
+    "fragment": "yayafino (Gift of Life, formerly known as Zithori Vhemm Rybak Diri)"
+  },
+  "Devouring Eye": {
+    "to": "Shadowcast",
+    "fragment": "Devouring Eye"
+  },
+  "Dexterity": {
+    "to": "Traits",
+    "fragment": "Dexterity"
+  },
+  "Dialog": {
+    "to": "Dialogue"
+  },
+  "Diamond": {
+    "to": "Treasures"
+  },
+  "Diluvian Mechanism": {
+    "to": "The Diluvian Mechanism"
+  },
+  "Dinghy": {
+    "to": "Ships & Sailing",
+    "fragment": "List of Ships"
+  },
+  "Disgraced": {
+    "to": "Boons and Flaws",
+    "fragment": "Flaws"
+  },
+  "Disguise": {
+    "to": "Attunement-less",
+    "fragment": "Disguise"
+  },
+  "Dissonant": {
+    "to": "Echoes",
+    "fragment": "Upgrades, Unlocks, and Modifiers"
+  },
+  "Distortion Realm": {
+    "to": "Dimensional Travel"
+  },
+  "Dive Husk": {
+    "to": "Diver Husk"
+  },
+  "Diver Apprentice": {
+    "to": "Diver Apprentice Robes"
+  },
+  "Diver Journeyman": {
+    "to": "Diver Journeyman Robes"
+  },
+  "Diver Supply": {
+    "to": "Random Encounters",
+    "fragment": "Supply the Diver Expedition"
+  },
+  "Divers": {
+    "to": "The Divers"
+  },
+  "Divine Weapons": {
+    "to": "Crazy Slots",
+    "fragment": "Weapons"
+  },
+  "Doom of Caeranthil": {
+    "to": "The Doom of Caeranthil"
+  },
+  "Dr. Curved": {
+    "to": "Vice-Warden"
+  },
+  "Draud": {
+    "to": "Goesh and Draud"
+  },
+  "Dravik": {
+    "to": "Dravik, the Rat King (NPC)"
+  },
+  "Dravik (Boss)": {
+    "to": "Dravik, The Rat King"
+  },
+  "Dravik, the Rat King": {
+    "to": "Dravik, the Rat King (NPC)"
+  },
+  "Dread Breath": {
+    "to": "Monster Mantras",
+    "fragment": "Dread Breath"
+  },
+  "Dread Fighter": {
+    "to": "Oath: Silentheart",
+    "fragment": "Dread Fighter"
+  },
+  "Dread Fillet": {
+    "to": "Dread Filet"
+  },
+  "Dread Whisper": {
+    "to": "Attunement-less",
+    "fragment": "Dread Whisper"
+  },
+  "Dreadstar": {
+    "to": "The Dreadstar"
+  },
+  "Drift Shard": {
+    "to": "Mantra Modifiers",
+    "fragment": "Regular Modifiers"
+  },
+  "Drowned Bell": {
+    "to": "Resonance",
+    "fragment": "Drowned Resonances"
+  },
+  "Drowned Delver": {
+    "to": "Finnegan The Lost"
+  },
+  "Drowned Favor": {
+    "to": "Shrine of the Drowned"
+  },
+  "Drowned Favour": {
+    "to": "Shrine of the Drowned"
+  },
+  "Drowned Resonance": {
+    "to": "Resonance",
+    "fragment": "Drowned Resonances"
+  },
+  "Drownedabout": {
+    "to": "Deepwoken OST",
+    "fragment": "Drownedabout"
+  },
+  "Duke Erisia": {
+    "to": "Duke Ishamon Erisia"
+  },
+  "Duke Relic": {
+    "to": "Whistling Periapt"
+  },
+  "Dumbbell": {
+    "to": "Training Gear",
+    "fragment": "Attribute Training Gears"
+  },
+  "Dungeon": {
+    "to": "Dungeons"
+  },
+  "Dusk": {
+    "to": "Day-night cycle"
+  },
+  "Dye": {
+    "to": "Dye Packet"
+  },
+  "E Rank": {
+    "to": "Echoes"
+  },
+  "ELEISON": {
+    "to": "Deepwoken OST",
+    "fragment": "ELEISON"
+  },
+  "ELM": {
+    "to": "Attributes",
+    "fragment": "Attunement Attributes"
+  },
+  "EXP": {
+    "to": "Power"
+  },
+  "Ears": {
+    "to": "Equipment",
+    "fragment": "Ears"
+  },
+  "Eastern Camp Master": {
+    "to": "Cheral"
+  },
+  "Eastern Luminant": {
+    "to": "Luminants"
+  },
+  "Eastern Tribal Leader": {
+    "to": "Eastern Nomad Leader"
+  },
+  "Eastern Tribe Nomad": {
+    "to": "Eastern Nomad"
+  },
+  "Echo": {
+    "to": "Echoes"
+  },
+  "Echo Modifier": {
+    "to": "Echoes",
+    "fragment": "Upgrades, Unlocks, and Modifiers"
+  },
+  "Echo Talents": {
+    "to": "Echoes",
+    "fragment": "Echo Talents/Items"
+  },
+  "Echo Triumph": {
+    "to": "Echoes",
+    "fragment": "Echo Triumphs"
+  },
+  "Echo Triumph checklist": {
+    "to": "Echoes",
+    "fragment": "Ways of Obtaining Echoes"
+  },
+  "Echo Unlock": {
+    "to": "Echoes",
+    "fragment": "Upgrades, Unlocks, and Modifiers"
+  },
+  "Echo Upgrade": {
+    "to": "Echoes",
+    "fragment": "Upgrades, Unlocks, and Modifiers"
+  },
+  "Eclipse Kick": {
+    "to": "Shadowcast",
+    "fragment": "Eclipse Kick"
+  },
+  "Editor Policy": {
+    "to": "Deepwoken Wiki:Policy"
+  },
+  "Elder Primadon": {
+    "to": "Elder Primadon, The Titan Warlord"
+  },
+  "Electrified": {
+    "to": "Status Effects",
+    "fragment": "Electrified"
+  },
+  "Electro Carve": {
+    "to": "Thundercall",
+    "fragment": "Electro Carve"
+  },
+  "Elemental Weapons": {
+    "to": "Category:Attunement-based Weapons"
+  },
+  "Elementalist": {
+    "to": "Echoes",
+    "fragment": "Upgrades, Unlocks, and Modifiers"
+  },
+  "Elite Pathfinder Coat": {
+    "to": "Pathfinder Elite"
+  },
+  "Emerald": {
+    "to": "Treasures"
+  },
+  "Emotion Wave": {
+    "to": "Thundercall",
+    "fragment": "Emotion Wave"
+  },
+  "Empyrean Lotus": {
+    "to": "Primordial Lotuses",
+    "fragment": "Empyrean Lotus"
+  },
+  "Enchained": {
+    "to": "Oath: Chainwarden",
+    "fragment": "Enchained"
+  },
+  "Enchantment": {
+    "to": "Enchantments"
+  },
+  "Enchants": {
+    "to": "Enchantments"
+  },
+  "Encircle": {
+    "to": "Shadowcast",
+    "fragment": "Encircle"
+  },
+  "Encounters": {
+    "to": "Random Encounters"
+  },
+  "Encyclopedia": {
+    "to": "Training Gear",
+    "fragment": "Attribute Training Gears"
+  },
+  "Enemy": {
+    "to": "Enemies"
+  },
+  "Enforcer Pull": {
+    "to": "Monster Mantras",
+    "fragment": "Enforcer Pull"
+  },
+  "Enforcer Squibbo": {
+    "to": "Nautilodaunt Officiate"
+  },
+  "Enmity": {
+    "to": "Heart of Enmity"
+  },
+  "Enraged": {
+    "to": "Status Effects",
+    "fragment": "Angry"
+  },
+  "Ensign": {
+    "to": "Authority Ensign"
+  },
+  "Entropy Link": {
+    "to": "Oath: Linkstrider",
+    "fragment": "Entropy Link"
+  },
+  "Equalizer": {
+    "to": "Oath: Contractor",
+    "fragment": "Equalizer"
+  },
+  "Equipment Dye": {
+    "to": "Dye Packet"
+  },
+  "Equipment Styles": {
+    "to": "Category:Equipment with Styles"
+  },
+  "Erisae": {
+    "to": "Loot Bag Gacha",
+    "fragment": "Erisae"
+  },
+  "Erisore": {
+    "to": "Ores",
+    "fragment": "Erisore"
+  },
+  "Erisore Bullet": {
+    "to": "Bullet Casings",
+    "fragment": "Erisore"
+  },
+  "Erudition": {
+    "to": "Traits",
+    "fragment": "Erudition"
+  },
+  "Eruption Path: Lava Serpent": {
+    "to": "Flamecharm",
+    "fragment": "Eruption Path: Lava Serpent"
+  },
+  "Escaping Jail": {
+    "to": "Fort Merit",
+    "fragment": "Escaping Jail"
+  },
+  "Escaping Prison": {
+    "to": "Fort Merit",
+    "fragment": "Escaping Jail"
+  },
+  "Eternal Gale": {
+    "to": "Second Layer"
+  },
+  "Eternal Logstone": {
+    "to": "Mantra Modifiers",
+    "fragment": "Regular Modifiers"
+  },
+  "Ether Barrage": {
+    "to": "Attunement-less",
+    "fragment": "Ether Barrage"
+  },
+  "Ether Proselyte": {
+    "to": "Oath: Saintsworn",
+    "fragment": "Ether Proselyte"
+  },
+  "Ethiron": {
+    "to": "Ethiron, The Maelstrom's Eye"
+  },
+  "Ethiron's Eyes": {
+    "to": "Eyes of Ethiron"
+  },
+  "Ethiron, the Eye of Calamity": {
+    "to": "Ethiron, The Maelstrom's Eye"
+  },
+  "Etrean Guard (NPC)": {
+    "to": "Etrean Guardsmen"
+  },
+  "Etrean Luminant": {
+    "to": "Luminants"
+  },
+  "Etrean Royal Guard": {
+    "to": "Etrean Royal Guard (Enemy)"
+  },
+  "Etrean Sea": {
+    "to": "The Etrean Sea"
+  },
+  "Etris Raid": {
+    "to": "Cinders of Etris"
+  },
+  "Etris Raid Event": {
+    "to": "Cinders of Etris"
+  },
+  "Etris Siege": {
+    "to": "Cinders of Etris"
+  },
+  "Etris: Siege": {
+    "to": "Cinders of Etris"
+  },
+  "Eunomia": {
+    "to": "Meteor"
+  },
+  "Europa": {
+    "to": "Meteor"
+  },
+  "Evanspear Hand Axe": {
+    "to": "Evanspear Greataxe"
+  },
+  "Events": {
+    "to": "Random Encounters"
+  },
+  "Exhaustion Strike": {
+    "to": "Attunement-less",
+    "fragment": "Exhaustion Strike"
+  },
+  "Eylis": {
+    "to": "Eylis, the Punished Dreamer"
+  },
+  "FIR": {
+    "to": "Attributes",
+    "fragment": "FIR"
+  },
+  "FTD": {
+    "to": "Attributes",
+    "fragment": "FTD"
+  },
+  "Face Equipment": {
+    "to": "Equipment",
+    "fragment": "Face"
+  },
+  "Faction": {
+    "to": "Factions & Groups"
+  },
+  "Faction Reputation": {
+    "to": "Reputation"
+  },
+  "Factions": {
+    "to": "Factions & Groups"
+  },
+  "Fadetrimmer": {
+    "to": "Oath: Fadetrimmer"
+  },
+  "Fake Strike": {
+    "to": "Oath: Jetstriker",
+    "fragment": "Fake Strike"
+  },
+  "FalseMan": {
+    "to": "??? (FalseMan)"
+  },
+  "Fang & Coil": {
+    "to": "Fang and Coil"
+  },
+  "Faris Kesset": {
+    "to": "Sentinel Faris Kesset"
+  },
+  "Favour": {
+    "to": "Aces"
+  },
+  "Fear": {
+    "to": "Status Effects",
+    "fragment": "Fear"
+  },
+  "Ferrofluid": {
+    "to": "Training Gear",
+    "fragment": "Attunement Training Gears"
+  },
+  "Ferryman": {
+    "to": "The Ferryman"
+  },
+  "Fine Ink": {
+    "to": "Hallowtide Mask Ingredients"
+  },
+  "Fire Blade": {
+    "to": "Flamecharm",
+    "fragment": "Fire Blade"
+  },
+  "Fire Eruption": {
+    "to": "Flamecharm",
+    "fragment": "Fire Eruption"
+  },
+  "Fire Forge": {
+    "to": "Flamecharm",
+    "fragment": "Fire Forge"
+  },
+  "Fire Gun": {
+    "to": "Flamecharm",
+    "fragment": "Fire Gun"
+  },
+  "Fire Palm": {
+    "to": "Flamecharm",
+    "fragment": "Fire Palm"
+  },
+  "Firing Line": {
+    "to": "Ironsing",
+    "fragment": "Firing Line"
+  },
+  "Fish": {
+    "to": "Fishing"
+  },
+  "Fist": {
+    "to": "Fists"
+  },
+  "Fist (weapon class)": {
+    "to": "Fists"
+  },
+  "Fist Style": {
+    "to": "Fists",
+    "fragment": "Styles"
+  },
+  "Flame Assault": {
+    "to": "Flamecharm",
+    "fragment": "Flame Assault"
+  },
+  "Flame Ballista": {
+    "to": "Flamecharm",
+    "fragment": "Flame Ballista"
+  },
+  "Flame Blind": {
+    "to": "Flamecharm",
+    "fragment": "Flame Blind"
+  },
+  "Flame Grab": {
+    "to": "Flamecharm",
+    "fragment": "Flame Grab"
+  },
+  "Flame Leap": {
+    "to": "Flamecharm",
+    "fragment": "Flame Leap"
+  },
+  "Flame Repulsion": {
+    "to": "Flamecharm",
+    "fragment": "Flame Repulsion"
+  },
+  "Flame Sentinel": {
+    "to": "Flamecharm",
+    "fragment": "Flame Sentinel"
+  },
+  "Flame Wisp": {
+    "to": "Flamecharm",
+    "fragment": "Flame Wisp"
+  },
+  "Flame of Denial": {
+    "to": "Flamecharm",
+    "fragment": "Flame of Denial"
+  },
+  "Flamecharmer Monk": {
+    "to": "Songseeker Flamecharmer"
+  },
+  "Flaming Scourge": {
+    "to": "Flamecharm",
+    "fragment": "Flaming Scourge"
+  },
+  "Flare Volley": {
+    "to": "Flamecharm",
+    "fragment": "Flare Volley"
+  },
+  "Flashdraw Strike": {
+    "to": "Attunement-less",
+    "fragment": "Flashdraw Strike"
+  },
+  "Flashfire Sweep": {
+    "to": "Hybrid Abilities",
+    "fragment": "Flashfire Sweep"
+  },
+  "Flask of Agility": {
+    "to": "Attribute Flasks",
+    "fragment": "Flask of Agility"
+  },
+  "Flask of Charisma": {
+    "to": "Attribute Flasks",
+    "fragment": "Flask of Charisma"
+  },
+  "Flask of Fortitude": {
+    "to": "Attribute Flasks",
+    "fragment": "Flask of Fortitude"
+  },
+  "Flask of Intelligence": {
+    "to": "Attribute Flasks",
+    "fragment": "Flask of Intelligence"
+  },
+  "Flask of Strength": {
+    "to": "Attribute Flasks",
+    "fragment": "Flask of Strength"
+  },
+  "Flask of Willpower": {
+    "to": "Attribute Flasks",
+    "fragment": "Flask of Willpower"
+  },
+  "Flaws": {
+    "to": "Boons and Flaws"
+  },
+  "Fleeting Sparks": {
+    "to": "Thundercall",
+    "fragment": "Fleeting Sparks"
+  },
+  "Flippers of Fate": {
+    "to": "The Flippers of Fate"
+  },
+  "Float Like a Butterfly": {
+    "to": "Oath: Bladeharper",
+    "fragment": "Float Like a Butterfly"
+  },
+  "Floating Keep": {
+    "to": "The Floating Keep"
+  },
+  "Flow State": {
+    "to": "Oath: Silentheart",
+    "fragment": "Flow State"
+  },
+  "Fondant Splinter": {
+    "to": "Fondant Splitter"
+  },
+  "Foreman": {
+    "to": "The Foreman"
+  },
+  "Forest Golem": {
+    "to": "Hive Construct"
+  },
+  "Formless": {
+    "to": "Oath: Soulbreaker",
+    "fragment": "Formless"
+  },
+  "Fortell": {
+    "to": "Aces"
+  },
+  "Fortitude": {
+    "to": "Attributes",
+    "fragment": "FTD"
+  },
+  "Fortuna": {
+    "to": "Meteor"
+  },
+  "Fountains": {
+    "to": "Fountain Gates"
+  },
+  "Fragile Heart": {
+    "to": "Echoes",
+    "fragment": "Upgrades, Unlocks, and Modifiers"
+  },
+  "Frigate": {
+    "to": "Ships & Sailing",
+    "fragment": "List of Ships"
+  },
+  "Friid": {
+    "to": "Friid, Master of Gale"
+  },
+  "Frontier Furnace": {
+    "to": "The Frontier Furnace"
+  },
+  "Frost Bullet": {
+    "to": "Bullet Casings",
+    "fragment": "Frost"
+  },
+  "Frost Grab": {
+    "to": "Frostdraw",
+    "fragment": "Frost Grab"
+  },
+  "Frost Wisp": {
+    "to": "Frostdraw",
+    "fragment": "Frost Wisp"
+  },
+  "Frostdrawer Monk": {
+    "to": "Songseeker Frostdrawer"
+  },
+  "Frozen": {
+    "to": "Status Effects",
+    "fragment": "Frozen"
+  },
+  "Frozen Man": {
+    "to": "??? (Frozen Man)"
+  },
+  "Frozen Servants": {
+    "to": "Frostdraw",
+    "fragment": "Frozen Servants"
+  },
+  "Fruit": {
+    "to": "Ingredients",
+    "fragment": "Fruits"
+  },
+  "Fugitive": {
+    "to": "Boons and Flaws",
+    "fragment": "Flaws"
+  },
+  "Full Counter": {
+    "to": "Payback"
+  },
+  "Funke": {
+    "to": "Funke, Master of Thunder"
+  },
+  "Furnando": {
+    "to": "Chest Master"
+  },
+  "Ga Bolg": {
+    "to": "Spear Dancer",
+    "fragment": "Ga Bolg"
+  },
+  "Gale Bullet": {
+    "to": "Bullet Casings",
+    "fragment": "Gale"
+  },
+  "Gale Kata": {
+    "to": "Training Gear",
+    "fragment": "Attunement Training Gears"
+  },
+  "Gale Lunge": {
+    "to": "Galebreathe",
+    "fragment": "Gale Lunge"
+  },
+  "Gale Punch": {
+    "to": "Galebreathe",
+    "fragment": "Gale Punch"
+  },
+  "Gale Trap": {
+    "to": "Talents",
+    "fragment": "Gale Trap"
+  },
+  "Gale Wisp": {
+    "to": "Galebreathe",
+    "fragment": "Gale Wisp"
+  },
+  "Galetrap": {
+    "to": "Galebreathe",
+    "fragment": "Galetrap"
+  },
+  "Galpin Spellhardt": {
+    "to": "Galpin Spellhardt, Musicologist Extraordinaire"
+  },
+  "Gamma": {
+    "to": "Deepdelver Gamma"
+  },
+  "Ganymede Hat": {
+    "to": "Ganymede",
+    "fragment": "Hats"
+  },
+  "Garden Reservoir": {
+    "to": "The Garden Reservoir"
+  },
+  "Gargoyles": {
+    "to": "Brainsucker"
+  },
+  "Gaudily-dressed Soldier": {
+    "to": "Chud Steel"
+  },
+  "Gaunt Man": {
+    "to": "The Gaunt Man"
+  },
+  "Gaze": {
+    "to": "Attunement-less",
+    "fragment": "Gaze"
+  },
+  "Gear Cabinet": {
+    "to": "Training Gear"
+  },
+  "Gems": {
+    "to": "Treasures"
+  },
+  "Gestures": {
+    "to": "Emotes"
+  },
+  "Gilded Path: Scrapsinger": {
+    "to": "Ironsing",
+    "fragment": "Gilded Path: Scrapsinger"
+  },
+  "Glacial Arc": {
+    "to": "Frostdraw",
+    "fragment": "Glacial Arc"
+  },
+  "Gladiator Mode": {
+    "to": "Chime of Conflict"
+  },
+  "Glare": {
+    "to": "Attunement-less",
+    "fragment": "Glare"
+  },
+  "Glass Bones": {
+    "to": "Echoes",
+    "fragment": "Upgrades, Unlocks, and Modifiers"
+  },
+  "Glass Path: Crystallization": {
+    "to": "Frostdraw",
+    "fragment": "Glass Path: Crystallization"
+  },
+  "Glass Stone": {
+    "to": "Mantra Modifiers",
+    "fragment": "Regular Modifiers"
+  },
+  "Glassblood": {
+    "to": "Attunement Potions"
+  },
+  "Glider": {
+    "to": "Gliders"
+  },
+  "Glorious Charge": {
+    "to": "Authority Ensign",
+    "fragment": "Glorious Charge"
+  },
+  "Glossary (Game)": {
+    "to": "Glossary"
+  },
+  "Glowshroom Costume": {
+    "to": "Mushroom Costume"
+  },
+  "Glumbo": {
+    "to": "Barber (Glumbo)"
+  },
+  "Glutton": {
+    "to": "Boons and Flaws",
+    "fragment": "Glutton"
+  },
+  "Goesh": {
+    "to": "Goesh and Draud"
+  },
+  "Gold": {
+    "to": "Ores",
+    "fragment": "Gold"
+  },
+  "Gold Bar": {
+    "to": "Treasures"
+  },
+  "Gold Bullet": {
+    "to": "Bullet Casings",
+    "fragment": "Gold"
+  },
+  "Golden Fool": {
+    "to": "The Golden Fool"
+  },
+  "Golem": {
+    "to": "Rock Golem"
+  },
+  "Golem Constructs": {
+    "to": "Hive Construct"
+  },
+  "Gourmet": {
+    "to": "Boons and Flaws",
+    "fragment": "Gourmet"
+  },
+  "Grab Mantras": {
+    "to": "List of Grab Mantras"
+  },
+  "Graceful Flame": {
+    "to": "Flamecharm",
+    "fragment": "Graceful Flame"
+  },
+  "Grand Javelin": {
+    "to": "Thundercall",
+    "fragment": "Grand Javelin"
+  },
+  "Grand Warden's Axe": {
+    "to": "Authority Ensign",
+    "fragment": "Grand Warden's Axe"
+  },
+  "Grandmaster Pathfinder Cloak": {
+    "to": "Grand Pathfinder Cloak"
+  },
+  "Grasp of Eylis": {
+    "to": "Voidwalker",
+    "fragment": "Grasp of Eylis"
+  },
+  "Greataxe": {
+    "to": "Category:Greataxes"
+  },
+  "Greater Angel": {
+    "to": "Sworn Angel"
+  },
+  "Greatsword": {
+    "to": "Category:Greatswords"
+  },
+  "Green Candy": {
+    "to": "Candy"
+  },
+  "Green Egg": {
+    "to": "Artifacts"
+  },
+  "Green Lightning": {
+    "to": "Talents",
+    "fragment": "Shock Trooper Specialist"
+  },
+  "Grey Gumshoe Hat": {
+    "to": "Gumshoe Hat"
+  },
+  "Guild": {
+    "to": "Guilds"
+  },
+  "Guild Base": {
+    "to": "Guild Bases"
+  },
+  "HVY": {
+    "to": "Attributes",
+    "fragment": "HVY"
+  },
+  "Haemophilia": {
+    "to": "Boons and Flaws",
+    "fragment": "Haemophilia"
+  },
+  "Hail": {
+    "to": "Environmental Hazards"
+  },
+  "Hair Products": {
+    "to": "Oath: Fadetrimmer",
+    "fragment": "Hair Products"
+  },
+  "Hair Spray": {
+    "to": "Oath: Fadetrimmer",
+    "fragment": "Hair Spray"
+  },
+  "Halfmaster": {
+    "to": "Mr. Quarters, Halfmaster"
+  },
+  "Hallowtide '22 Medal": {
+    "to": "Seasonal Medals"
+  },
+  "Hallowtide (Event)": {
+    "to": "Hallowtide"
+  },
+  "Hallowtide 23' Medal": {
+    "to": "Seasonal Medals"
+  },
+  "Hallowtide Event Items": {
+    "to": "Hallowtide Mask Ingredients"
+  },
+  "Hallowtide Medals": {
+    "to": "Seasonal Medals"
+  },
+  "Haunted Path: Specter": {
+    "to": "Galebreathe",
+    "fragment": "Haunted Path: Specter"
+  },
+  "Health State": {
+    "to": "Status Effects",
+    "fragment": "Health States"
+  },
+  "Heart Reverb": {
+    "to": "Oath: Soulbreaker",
+    "fragment": "Heart Reverb"
+  },
+  "Heartgem": {
+    "to": "Training Gear",
+    "fragment": "Attunement Training Gears"
+  },
+  "Hearthblood": {
+    "to": "Attunement Potions"
+  },
+  "Hearthgem": {
+    "to": "Training Gear",
+    "fragment": "Attunement Training Gears"
+  },
+  "Hearthspan": {
+    "to": "Seasons",
+    "fragment": "Spring"
+  },
+  "Heartspiller": {
+    "to": "Ministry Heartspiller"
+  },
+  "Heavenly Wind": {
+    "to": "Galebreathe",
+    "fragment": "Heavenly Wind"
+  },
+  "Heavy Weapons": {
+    "to": "Category:Heavy Weapons"
+  },
+  "Hell's Judgement": {
+    "to": "Flame Worshipper",
+    "fragment": "Hell's Judgement"
+  },
+  "Hellfire Lotus": {
+    "to": "Primordial Lotuses",
+    "fragment": "Hellfire Lotus"
+  },
+  "Hellmode": {
+    "to": "Hell Mode"
+  },
+  "Hemafrost": {
+    "to": "Training Gear",
+    "fragment": "Attunement Training Gears"
+  },
+  "Heratic's Sutra": {
+    "to": "Quests",
+    "fragment": "Heretic's Sutra"
+  },
+  "Heretic's Sutra": {
+    "to": "Quests",
+    "fragment": "Heretic's Sutra"
+  },
+  "Hero Blade of Flame": {
+    "to": "Hero's Blade of Flame"
+  },
+  "Hero Blade of Frost": {
+    "to": "Hero's Blade of Frost"
+  },
+  "Hero Blade of Lightning": {
+    "to": "Hero's Blade of Lightning"
+  },
+  "Hero Blade of Shadow": {
+    "to": "Hero's Blade of Shadow"
+  },
+  "Hero Blade of Wind": {
+    "to": "Hero's Blade of Wind"
+  },
+  "Hero's Assist": {
+    "to": "Oath: Saintsworn",
+    "fragment": "Hero's Assist"
+  },
+  "Hero's Blades": {
+    "to": "Hero Blades"
+  },
+  "Heros Regalia": {
+    "to": "Hero's Regalia"
+  },
+  "Hidden Blade": {
+    "to": "Authority Ensign",
+    "fragment": "Hidden Blade"
+  },
+  "Hidden Grove": {
+    "to": "The Hidden Grove"
+  },
+  "Hidden Talents": {
+    "to": "Regalia"
+  },
+  "Hidden Tendril": {
+    "to": "Oath: Contractor",
+    "fragment": "Hidden Tendril"
+  },
+  "Hidden Village": {
+    "to": "The Hidden Village"
+  },
+  "High Velocity": {
+    "to": "Echoes",
+    "fragment": "Upgrades, Unlocks, and Modifiers"
+  },
+  "Hive": {
+    "to": "The Hive"
+  },
+  "Hive Island": {
+    "to": "Greathive Aratel"
+  },
+  "Hive Lifevents": {
+    "to": "Lifevents"
+  },
+  "Hollow": {
+    "to": "Echoes",
+    "fragment": "Upgrades, Unlocks, and Modifiers"
+  },
+  "Hollow Wraith": {
+    "to": "Inheritor of the Gale",
+    "fragment": "Hollow Wraith"
+  },
+  "Hollowtide": {
+    "to": "Hallowtide"
+  },
+  "Horn of Authority": {
+    "to": "Authority Ensign",
+    "fragment": "Horn of Authority"
+  },
+  "Hostage": {
+    "to": "Navaen Hostage"
+  },
+  "Hundred Legions": {
+    "to": "The Hundred Legions"
+  },
+  "Hungerless": {
+    "to": "Regalia",
+    "fragment": "Hungerless"
+  },
+  "Hybrid Mantras": {
+    "to": "Hybrid Abilities"
+  },
+  "Hygiea": {
+    "to": "Meteor"
+  },
+  "Hymn Of Iron (Contour 2)": {
+    "to": "Deepwoken OST",
+    "fragment": "Hymn Of Iron (Contour 2)"
+  },
+  "Hymn Of Iron (Contour 3)": {
+    "to": "Deepwoken OST",
+    "fragment": "Hymn Of Iron (Contour 3)"
+  },
+  "Hymn Of Iron (Contour 4)": {
+    "to": "Deepwoken OST",
+    "fragment": "Hymn Of Iron (Contour 1)"
+  },
+  "Hymn Of The Worthy": {
+    "to": "Deepwoken OST",
+    "fragment": "Hymn Of The Worthy"
+  },
+  "Hymn of Iron (Contour 1)": {
+    "to": "Deepwoken OST",
+    "fragment": "Hymn Of Iron (Contour 1)"
+  },
+  "Hyperarmor": {
+    "to": "Status Effects",
+    "fragment": "Hyperarmor"
+  },
+  "ICE": {
+    "to": "Attributes",
+    "fragment": "ICE"
+  },
+  "INSOMNIA": {
+    "to": "Deepwoken OST",
+    "fragment": "INSOMNIA"
+  },
+  "INT": {
+    "to": "Attributes",
+    "fragment": "INT"
+  },
+  "Iblis": {
+    "to": "Iblis, The Fallen Angel"
+  },
+  "Ice Beam": {
+    "to": "Frostdraw",
+    "fragment": "Ice Beam"
+  },
+  "Ice Blade": {
+    "to": "Frostdraw",
+    "fragment": "Ice Blade"
+  },
+  "Ice Carve": {
+    "to": "Frostdraw",
+    "fragment": "Ice Carve"
+  },
+  "Ice Chain": {
+    "to": "Frostdraw",
+    "fragment": "Ice Chain"
+  },
+  "Ice Cubes": {
+    "to": "Frostdraw",
+    "fragment": "Ice Cubes"
+  },
+  "Ice Daggers": {
+    "to": "Frostdraw",
+    "fragment": "Ice Daggers"
+  },
+  "Ice Eruption": {
+    "to": "Frostdraw",
+    "fragment": "Ice Eruption"
+  },
+  "Ice Fissure": {
+    "to": "Frostdraw",
+    "fragment": "Ice Fissure"
+  },
+  "Ice Flock": {
+    "to": "Frostdraw",
+    "fragment": "Ice Flock"
+  },
+  "Ice Forge": {
+    "to": "Frostdraw",
+    "fragment": "Ice Forge"
+  },
+  "Ice Lance": {
+    "to": "Frostdraw",
+    "fragment": "Ice Lance"
+  },
+  "Ice Lasers": {
+    "to": "Frostdraw",
+    "fragment": "Ice Lasers"
+  },
+  "Ice Skate": {
+    "to": "Frostdraw",
+    "fragment": "Ice Skate"
+  },
+  "Ice Smash": {
+    "to": "Frostdraw",
+    "fragment": "Ice Smash"
+  },
+  "Ice Spikes": {
+    "to": "Frostdraw",
+    "fragment": "Ice Spikes"
+  },
+  "Iceberg": {
+    "to": "Frostdraw",
+    "fragment": "Iceberg"
+  },
+  "Ichor Imbuement": {
+    "to": "Oath: Starkindred",
+    "fragment": "Ichor Imbuement"
+  },
+  "Ignition Deepdriller": {
+    "to": "Llevyn"
+  },
+  "Ignition Origin": {
+    "to": "Ignition Delver"
+  },
+  "Ignition Union": {
+    "to": "The Ignition Union"
+  },
+  "Ignition Union Origin": {
+    "to": "Ignition Delver"
+  },
+  "Illusory Counter": {
+    "to": "Oath: Visionshaper",
+    "fragment": "Illusory Counter"
+  },
+  "Illusory Realm": {
+    "to": "Oath: Visionshaper/Old Visionshaper"
+  },
+  "Illusory Servants": {
+    "to": "Oath: Visionshaper",
+    "fragment": "Illusory Servants"
+  },
+  "Immortal Guardians": {
+    "to": "Immortal Guardian"
+  },
+  "Impaler": {
+    "to": "Ironsing",
+    "fragment": "Rending Needle: Impaler"
+  },
+  "Impel": {
+    "to": "Oath: Chainwarden",
+    "fragment": "Impel"
+  },
+  "In Shade, Hollow": {
+    "to": "Deepwoken OST",
+    "fragment": "In Shade, Hollow"
+  },
+  "In Starstruck Sands": {
+    "to": "Deepwoken OST",
+    "fragment": "In Starstruck Sands"
+  },
+  "Indicators": {
+    "to": "Combat Mechanics",
+    "fragment": "Telegraphed Attacks"
+  },
+  "Indichite": {
+    "to": "Ores",
+    "fragment": "Indichite"
+  },
+  "Ingredient": {
+    "to": "Ingredients"
+  },
+  "Inheritance": {
+    "to": "Regalia",
+    "fragment": "Inheritance"
+  },
+  "Inquisition": {
+    "to": "The Inquisition"
+  },
+  "Inquisition Division": {
+    "to": "Authority Ensign",
+    "fragment": "Inquisition Division"
+  },
+  "Inquisitor's Straight Sword": {
+    "to": "Inquisitor's Greatsword"
+  },
+  "Insightful": {
+    "to": "Regalia",
+    "fragment": "Insightful"
+  },
+  "Inspired": {
+    "to": "Regalia",
+    "fragment": "Inspired"
+  },
+  "Instructor": {
+    "to": "Blade Instructor"
+  },
+  "Intelligence": {
+    "to": "Attributes",
+    "fragment": "INT"
+  },
+  "Interluminary Interloper": {
+    "to": "Interluminary Parasol"
+  },
+  "Interrogation Of Ranger Santiago Talo": {
+    "to": "The Interrogation Of Ranger Santiago Talo"
+  },
+  "Inventory": {
+    "to": "Combat Mechanics",
+    "fragment": "Inventory"
+  },
+  "Irithine": {
+    "to": "Ores",
+    "fragment": "Irithine"
+  },
+  "Irithine Bullet": {
+    "to": "Bullet Casings",
+    "fragment": "Irithine"
+  },
+  "Iron": {
+    "to": "Ores",
+    "fragment": "Iron"
+  },
+  "Iron Bullet": {
+    "to": "Bullet Casings",
+    "fragment": "Iron"
+  },
+  "Iron Confinement": {
+    "to": "Iron Vessel",
+    "fragment": "Iron Confinement"
+  },
+  "Iron Hug": {
+    "to": "Ironsing",
+    "fragment": "Iron Hug"
+  },
+  "Iron Quills": {
+    "to": "Ironsing",
+    "fragment": "Iron Quills"
+  },
+  "Iron Skin": {
+    "to": "Ironsing",
+    "fragment": "Iron Skin"
+  },
+  "Iron Slam": {
+    "to": "Ironsing",
+    "fragment": "Iron Slam"
+  },
+  "Iron Tether": {
+    "to": "Hybrid Abilities",
+    "fragment": "Iron Tether"
+  },
+  "Iron Vow": {
+    "to": "Vow of Iron"
+  },
+  "Ironclad": {
+    "to": "Ships & Sailing",
+    "fragment": "List of Ships"
+  },
+  "Island Events": {
+    "to": "Random Encounters"
+  },
+  "Islands": {
+    "to": "Category:Locations"
+  },
+  "Isopod": {
+    "to": "Horseshoe Crab"
+  },
+  "Jail": {
+    "to": "Fort Merit",
+    "fragment": "Prison Tower"
+  },
+  "Jailer": {
+    "to": "Ironsing",
+    "fragment": "Rending Needle: Jailer"
+  },
+  "Jeandae": {
+    "to": "Loot Bag Gacha",
+    "fragment": "Jeandae"
+  },
+  "Jellyfish": {
+    "to": "Gigamed"
+  },
+  "Jet Kick": {
+    "to": "Oath: Jetstriker",
+    "fragment": "Jet Kick"
+  },
+  "Jetstream Pursuit": {
+    "to": "Oath: Jetstriker",
+    "fragment": "Jetstream Pursuit"
+  },
+  "Jetstriker": {
+    "to": "Oath: Jetstriker"
+  },
+  "Jobs": {
+    "to": "Job Boards"
+  },
+  "Joker": {
+    "to": "Regalia",
+    "fragment": "Joker"
+  },
+  "Jolt Grab": {
+    "to": "Thundercall",
+    "fragment": "Jolt Grab"
+  },
+  "Journeyman Diver Robes": {
+    "to": "Diver Journeyman Robes"
+  },
+  "Journeyman Skeli": {
+    "to": "Abandoned Diver (Journeyman Skeli)"
+  },
+  "Journeymen Diver": {
+    "to": "Journeyman Diver Guard"
+  },
+  "Joyous Hallows To All!": {
+    "to": "Deepwoken OST",
+    "fragment": "Joyous Hallows To All!"
+  },
+  "Judgement": {
+    "to": "Oath: Contractor",
+    "fragment": "Judgement"
+  },
+  "Jump Pads": {
+    "to": "Lifevents"
+  },
+  "Jungle Mertet": {
+    "to": "Etrean Apostle"
+  },
+  "Junsui": {
+    "to": "High Monk Junsui"
+  },
+  "Justicar": {
+    "to": "Justicar (Origin)"
+  },
+  "Justicar Whistle": {
+    "to": "Castaway",
+    "fragment": "Justicar Whistle"
+  },
+  "Justicar's Aid": {
+    "to": "Justicar (Origin)",
+    "fragment": "Justicar's Aid"
+  },
+  "Kaide": {
+    "to": "Kaide, the Drowned Light"
+  },
+  "Kaido": {
+    "to": "Dread Serpent"
+  },
+  "Kaido Leshi": {
+    "to": "Emar Vend"
+  },
+  "Kamui": {
+    "to": "Dimensional Travel"
+  },
+  "Karita Aid": {
+    "to": "Justicar (Origin)",
+    "fragment": "Alsin's Aid"
+  },
+  "Karita Divebomb": {
+    "to": "Attunement-less",
+    "fragment": "Karita Divebomb"
+  },
+  "Karita Leap": {
+    "to": "Attunement-less",
+    "fragment": "Karita Leap"
+  },
+  "Karita Swap": {
+    "to": "Justicar (Origin)",
+    "fragment": "Karita Swap"
+  },
+  "Keybinds": {
+    "to": "Settings",
+    "fragment": "Controls"
+  },
+  "Khan Boots": {
+    "to": "Legion Boots"
+  },
+  "Khan Helmet": {
+    "to": "Legion Helmet"
+  },
+  "Khan Pauldrons": {
+    "to": "Legion Pauldrons"
+  },
+  "Khan Shield": {
+    "to": "Legion Shield"
+  },
+  "King Jellyfish": {
+    "to": "King Gigamed"
+  },
+  "King of Animals": {
+    "to": "Regalia"
+  },
+  "King of Etrea": {
+    "to": "Rolen Vashtir"
+  },
+  "Kingdom of Etrea": {
+    "to": "Etrea"
+  },
+  "Klaris": {
+    "to": "Klaris Llfiend, Mother of Lights"
+  },
+  "Klaris Llfiend": {
+    "to": "Klaris Llfiend, Mother of Lights"
+  },
+  "Knell": {
+    "to": "Knell, The Lunatic Resonator"
+  },
+  "Knell, The Lost Anansi": {
+    "to": "Knell, The Lunatic Resonator"
+  },
+  "Knight's Helm": {
+    "to": "Silver Knight's Helm"
+  },
+  "Knives of Eylis": {
+    "to": "The Knives of Eylis"
+  },
+  "Knives of Eylis Captain": {
+    "to": "Subtle Knife of Eylis"
+  },
+  "Knives of Eylis Pirate": {
+    "to": "Knife of Eylis"
+  },
+  "Korilfiend": {
+    "to": "Korilfiend, the Inferno's Provenance"
+  },
+  "Kujae": {
+    "to": "Loot Bag Gacha",
+    "fragment": "Kujae"
+  },
+  "Kyrie": {
+    "to": "Deepwoken OST",
+    "fragment": "Kyrie"
+  },
+  "Kyrsan": {
+    "to": "Kyrsgarde"
+  },
+  "Kyrsan Champion": {
+    "to": "Kyrsgarde Champion, Kyrsa's Star"
+  },
+  "Kyrsan Railways": {
+    "to": "New Kyrsan Arterial Rail"
+  },
+  "Kyrsgarde Champion": {
+    "to": "Kyrsgarde Champion, Kyrsa's Star"
+  },
+  "L2": {
+    "to": "Second Layer"
+  },
+  "LFT": {
+    "to": "Light's Final Toll"
+  },
+  "LHT": {
+    "to": "Attributes",
+    "fragment": "LHT"
+  },
+  "LTN": {
+    "to": "Attributes",
+    "fragment": "LTN"
+  },
+  "LVL": {
+    "to": "Power"
+  },
+  "Lacrimosa Dies Illa": {
+    "to": "Deepwoken OST",
+    "fragment": "Lacrimosa Dies Illa"
+  },
+  "Lance Leshi": {
+    "to": "Lance"
+  },
+  "Last Wind": {
+    "to": "Shrine of the Drowned"
+  },
+  "Lava Bat": {
+    "to": "Lavasucker"
+  },
+  "Lava Serpent": {
+    "to": "Flamecharm",
+    "fragment": "Eruption Path: Lava Serpent"
+  },
+  "Layer 1": {
+    "to": "First Layer"
+  },
+  "Layer 2": {
+    "to": "Second Layer"
+  },
+  "Layer One": {
+    "to": "First Layer"
+  },
+  "Layer Two": {
+    "to": "Second Layer"
+  },
+  "Legacy": {
+    "to": "Echoes"
+  },
+  "Legendary Bell": {
+    "to": "Resonance",
+    "fragment": "Legendary Resonances"
+  },
+  "Legendary Resonance": {
+    "to": "Resonance",
+    "fragment": "Legendary Resonances"
+  },
+  "Legidae": {
+    "to": "Grandmaster Vanguard Legidae"
+  },
+  "Legion": {
+    "to": "The Hundred Legions"
+  },
+  "Legion Javelin Captain": {
+    "to": "Legion Sniper"
+  },
+  "Legion Javelin Lord": {
+    "to": "Legion Sniper"
+  },
+  "Legs": {
+    "to": "Equipment",
+    "fragment": "Legs"
+  },
+  "Leiuna": {
+    "to": "Lost Forge of Leiuna"
+  },
+  "Lesser Angel": {
+    "to": "Hollow Angel"
+  },
+  "Lethal Injection": {
+    "to": "Oath: Saltchemist",
+    "fragment": "Lethal Injection"
+  },
+  "Level": {
+    "to": "Power"
+  },
+  "Light Weapons": {
+    "to": "Category:Light Weapons"
+  },
+  "Lightning Assault": {
+    "to": "Thundercall",
+    "fragment": "Lightning Assault"
+  },
+  "Lightning Beam": {
+    "to": "Thundercall",
+    "fragment": "Lightning Beam"
+  },
+  "Lightning Blade": {
+    "to": "Thundercall",
+    "fragment": "Lightning Blade"
+  },
+  "Lightning Cloak": {
+    "to": "Thundercall",
+    "fragment": "Lightning Cloak"
+  },
+  "Lightning Clones": {
+    "to": "Thundercall",
+    "fragment": "Lightning Clones"
+  },
+  "Lightning Impact": {
+    "to": "Thundercall",
+    "fragment": "Lightning Impact"
+  },
+  "Lightning Stream": {
+    "to": "Thundercall",
+    "fragment": "Lightning Stream"
+  },
+  "Lightning Strike": {
+    "to": "Thundercall",
+    "fragment": "Lightning Strike"
+  },
+  "Linkstrider": {
+    "to": "Oath: Linkstrider"
+  },
+  "Lithe Step": {
+    "to": "Oath: Bladeharper",
+    "fragment": "Lithe Step"
+  },
+  "Lives": {
+    "to": "Death"
+  },
+  "Location": {
+    "to": "Category:Locations"
+  },
+  "Locations": {
+    "to": "Category:Locations"
+  },
+  "Long Tong of The Law": {
+    "to": "The Long Tong of The Law"
+  },
+  "Loose Change": {
+    "to": "Echoes",
+    "fragment": "Upgrades, Unlocks, and Modifiers"
+  },
+  "Lord Erisia's Manor": {
+    "to": "Duke Erisia's Manor"
+  },
+  "Lord Regent": {
+    "to": "The Lord Regent"
+  },
+  "Lord's Slice": {
+    "to": "Oath: Contractor",
+    "fragment": "Lord's Slice"
+  },
+  "Lordsgrove": {
+    "to": "The Lordsgrove"
+  },
+  "Lorenzo's Glaive": {
+    "to": "Par's Glaive"
+  },
+  "Lost Celtor city bells": {
+    "to": "The City of the Drowned",
+    "fragment": "City Bells"
+  },
+  "Lost Forge": {
+    "to": "Lost Forge of Leiuna"
+  },
+  "Lotus": {
+    "to": "Primordial Lotuses"
+  },
+  "Lotuses": {
+    "to": "Primordial Lotuses"
+  },
+  "Lumen": {
+    "to": "Category:Locations"
+  },
+  "Lumen (Lore)": {
+    "to": "Lore",
+    "fragment": "Locations"
+  },
+  "Lumen's Folklore: Volume 'Attunement'": {
+    "to": "Lumen's Folklore",
+    "fragment": "Volume 'Attunement'"
+  },
+  "Lumen's Folklore: Volume 'North'": {
+    "to": "Lumen's Folklore",
+    "fragment": "Volume 'North'"
+  },
+  "Luminary Banking Co.": {
+    "to": "Item Bank"
+  },
+  "Luminous Flash": {
+    "to": "Oath: Dawnwalker",
+    "fragment": "Luminous Flash"
+  },
+  "M1 tag": {
+    "to": "Category:Criticals with M1 tag"
+  },
+  "MED": {
+    "to": "Attributes",
+    "fragment": "MED"
+  },
+  "MND": {
+    "to": "Attributes",
+    "fragment": "Body and Mind"
+  },
+  "MTL": {
+    "to": "Attributes",
+    "fragment": "MTL"
+  },
+  "Maestro Evangarde Rest": {
+    "to": "Maestro Evengarde Rest"
+  },
+  "Maestro Nocturne": {
+    "to": "Nocturne (individual)"
+  },
+  "Magic Coffin": {
+    "to": "Strange Merchant"
+  },
+  "Magma Bat": {
+    "to": "Lavasucker"
+  },
+  "Magma Golem": {
+    "to": "Golem Magma"
+  },
+  "Magnet Spark": {
+    "to": "Mantra Modifiers",
+    "fragment": "Sparks"
+  },
+  "Magnifying Stone": {
+    "to": "Mantra Modifiers",
+    "fragment": "Regular Modifiers"
+  },
+  "Main Page": {
+    "to": "Deepwoken Wiki"
+  },
+  "Malisae": {
+    "to": "Loot Bag Gacha",
+    "fragment": "Malisae"
+  },
+  "Mani Katti": {
+    "to": "Oath: Silentheart",
+    "fragment": "Silent Cascade"
+  },
+  "Manic": {
+    "to": "Boons and Flaws",
+    "fragment": "Manic"
+  },
+  "Mantra": {
+    "to": "Mantras"
+  },
+  "Mantra Ingredients": {
+    "to": "Mantra Modifiers"
+  },
+  "Mantra Modifier Shop": {
+    "to": "Den Master"
+  },
+  "Mantra Shop": {
+    "to": "Den Master"
+  },
+  "Mantra Table": {
+    "to": "Mantra Lectern"
+  },
+  "Manycolored Equipment": {
+    "to": "Sev"
+  },
+  "Marae": {
+    "to": "Loot Bag Gacha",
+    "fragment": "Marae"
+  },
+  "Master's Flourish": {
+    "to": "Attunement-less",
+    "fragment": "Master's Flourish"
+  },
+  "Masters of the House": {
+    "to": "Deepwoken OST",
+    "fragment": "Masters of the House"
+  },
+  "Materials": {
+    "to": "Ingredients"
+  },
+  "Math Textbook": {
+    "to": "Training Gear",
+    "fragment": "Attribute Training Gears"
+  },
+  "Maudet": {
+    "to": "Adret"
+  },
+  "Maverick": {
+    "to": "Boons and Flaws",
+    "fragment": "Maverick"
+  },
+  "Mawblades": {
+    "to": "Wretched Mawblades"
+  },
+  "Mayhem": {
+    "to": "Oath: Silentheart",
+    "fragment": "Mayhem"
+  },
+  "Mb all": {
+    "to": "Combat Tag",
+    "fragment": "PvP: Red Skull"
+  },
+  "Meat Lord": {
+    "to": "The Meat Lord"
+  },
+  "Mecha Gatling": {
+    "to": "Monster Mantras",
+    "fragment": "Mecha Gatling"
+  },
+  "Mechanics": {
+    "to": "Category:Mechanics"
+  },
+  "Medallions": {
+    "to": "Kyrsan Medallions"
+  },
+  "Medals": {
+    "to": "Seasonal Medals"
+  },
+  "Medium Weapons": {
+    "to": "Category:Medium Weapons"
+  },
+  "Megalodaunt Bait": {
+    "to": "Monster Bait"
+  },
+  "Memento": {
+    "to": "Mementos"
+  },
+  "Memorial Mason": {
+    "to": "Memorial Masons"
+  },
+  "Meowritius": {
+    "to": "Chest Master"
+  },
+  "Merchant Schooner": {
+    "to": "Ships & Sailing",
+    "fragment": "List of Ships"
+  },
+  "Merchant Ships": {
+    "to": "Travelling Merchant"
+  },
+  "Merciless Blade": {
+    "to": "Oath: Silentheart",
+    "fragment": "Merciless Blade"
+  },
+  "Merey": {
+    "to": "High Inquisitor Merey"
+  },
+  "Metal Armament": {
+    "to": "Ironsing",
+    "fragment": "Metal Armament"
+  },
+  "Metal Ball": {
+    "to": "Ironsing",
+    "fragment": "Metal Ball"
+  },
+  "Metal Eruption": {
+    "to": "Ironsing",
+    "fragment": "Metal Eruption"
+  },
+  "Metal Fakeout": {
+    "to": "Ironsing",
+    "fragment": "Metal Fakeout"
+  },
+  "Metal Gatling": {
+    "to": "Ironsing",
+    "fragment": "Metal Gatling"
+  },
+  "Metal Kick": {
+    "to": "Ironsing",
+    "fragment": "Metal Kick"
+  },
+  "Metal Rain": {
+    "to": "Ironsing",
+    "fragment": "Metal Rain"
+  },
+  "Metal Rampart": {
+    "to": "Ironsing",
+    "fragment": "Metal Rampart"
+  },
+  "Metal Rods": {
+    "to": "Status Effects",
+    "fragment": "Metal Rods"
+  },
+  "Metal Turret": {
+    "to": "Ironsing",
+    "fragment": "Metal Turret"
+  },
+  "Metal Wisp": {
+    "to": "Ironsing",
+    "fragment": "Metal Wisp"
+  },
+  "Metalshroom Costume": {
+    "to": "Mushroom Costume"
+  },
+  "Meteorskipper": {
+    "to": "Mudskipper",
+    "fragment": "Meteorskipper"
+  },
+  "Miasmic Lotus": {
+    "to": "Primordial Lotuses",
+    "fragment": "Miasmic Lotus"
+  },
+  "Mimic": {
+    "to": "Random Encounters",
+    "fragment": "Mimic"
+  },
+  "Mind": {
+    "to": "Attributes",
+    "fragment": "Body and Mind"
+  },
+  "Mindsoothe": {
+    "to": "Oath: Blindseer",
+    "fragment": "Mindsoothe"
+  },
+  "Mineskipper": {
+    "to": "Mudskipper",
+    "fragment": "Mineskipper"
+  },
+  "Miniskipper": {
+    "to": "Mudskipper"
+  },
+  "Ministry": {
+    "to": "The Ministry"
+  },
+  "Ministry Heartbleeder": {
+    "to": "Ministry Heartspiller"
+  },
+  "Ministrya": {
+    "to": "Minityrsa"
+  },
+  "Ministrysa": {
+    "to": "Minityrsa"
+  },
+  "Ministyrsa": {
+    "to": "Minityrsa"
+  },
+  "Mirror Illusion": {
+    "to": "Oath: Visionshaper",
+    "fragment": "Mirror Illusion"
+  },
+  "Miserables": {
+    "to": "Misérables"
+  },
+  "Mod Office": {
+    "to": "The Hall of Shattered Wills"
+  },
+  "Modifier Shop": {
+    "to": "Den Master"
+  },
+  "Molt": {
+    "to": "Etrean"
+  },
+  "Momentum Bar": {
+    "to": "Oath: Jetstriker",
+    "fragment": "Momentum Bar"
+  },
+  "Money Sharko": {
+    "to": "Exotic Megalodaunt"
+  },
+  "Monkey's Paw": {
+    "to": "The Monkey's Paw"
+  },
+  "Moon Island": {
+    "to": "Moon's Eyrie"
+  },
+  "Moonlit Earrings": {
+    "to": "Crescent Earrings"
+  },
+  "Moons Eyrie": {
+    "to": "Moon's Eyrie"
+  },
+  "Moonseye (symbol)": {
+    "to": "Moonseye"
+  },
+  "Moonseye Mark": {
+    "to": "Status Effects",
+    "fragment": "Moonseye Mark"
+  },
+  "Mordred Hirculi": {
+    "to": "High Inquisitor Mordred Hirculi"
+  },
+  "Morredh": {
+    "to": "Vice Warden Morredh"
+  },
+  "Mother Jellyfish": {
+    "to": "King Gigamed"
+  },
+  "Motif": {
+    "to": "Motifs"
+  },
+  "Multifaceted": {
+    "to": "Echoes",
+    "fragment": "Upgrades, Unlocks, and Modifiers"
+  },
+  "Multiplying Spark": {
+    "to": "Mantra Modifiers",
+    "fragment": "Sparks"
+  },
+  "Munet Journal, XIV": {
+    "to": "Munet Journal"
+  },
+  "Mushroom": {
+    "to": "Ingredients",
+    "fragment": "Mushrooms"
+  },
+  "Music": {
+    "to": "Deepwoken OST"
+  },
+  "Mute": {
+    "to": "Regalia"
+  },
+  "Myra": {
+    "to": "Deepdelver Myra"
+  },
+  "NLK": {
+    "to": "Curse of the No Life King"
+  },
+  "NLK Crown": {
+    "to": "The No-Life King's Crown"
+  },
+  "NPC": {
+    "to": "Category:NPCs"
+  },
+  "NPCs": {
+    "to": "Category:NPCs"
+  },
+  "Nascence": {
+    "to": "Deepwoken OST",
+    "fragment": "Nascence"
+  },
+  "Nauticals": {
+    "to": "Summer Nauticals"
+  },
+  "Navaen Nomad": {
+    "to": "Navaen Hostage"
+  },
+  "Needle Barrage": {
+    "to": "Ironsing",
+    "fragment": "Needle Barrage"
+  },
+  "Nell": {
+    "to": "Nell, Master of Frost"
+  },
+  "Nemesis Mark": {
+    "to": "Status Effects",
+    "fragment": "Nemesis Mark"
+  },
+  "Neural Pathway": {
+    "to": "Attunement-less",
+    "fragment": "Neural Pathway"
+  },
+  "New Kyrsa": {
+    "to": "Second Layer/New Kyrsa"
+  },
+  "New Kyrsa, The Sleeping City": {
+    "to": "Second Layer/New Kyrsa"
+  },
+  "Night": {
+    "to": "Day-night cycle"
+  },
+  "Nightblood": {
+    "to": "Attunement Potions"
+  },
+  "Nightmare Immortal Guardian": {
+    "to": "Immortal Guardian",
+    "fragment": "Nightmare"
+  },
+  "No Life King": {
+    "to": "Curse of the No Life King"
+  },
+  "No Life King Crown": {
+    "to": "The No-Life King's Crown"
+  },
+  "No Time For Paws": {
+    "to": "Deepwoken OST",
+    "fragment": "No Time For Paws"
+  },
+  "Noble": {
+    "to": "Regalia",
+    "fragment": "Noble"
+  },
+  "Nomad": {
+    "to": "Navaen Hostage"
+  },
+  "Northern Luminant": {
+    "to": "Luminants",
+    "fragment": "Northern Luminant"
+  },
+  "Nostor": {
+    "to": "Nostor, Master of Shadow"
+  },
+  "OG": {
+    "to": "Deepwoken OG"
+  },
+  "OST": {
+    "to": "Deepwoken OST"
+  },
+  "OST & Sounds": {
+    "to": "Deepwoken OST"
+  },
+  "Oath": {
+    "to": "Oaths"
+  },
+  "Oath Breaking": {
+    "to": "Oaths",
+    "fragment": "Oaths#Oathbreaker - Oath Removal"
+  },
+  "Oathbreak": {
+    "to": "Oaths",
+    "fragment": "Oathbreaker - Oath Removal"
+  },
+  "Oathless": {
+    "to": "Oath: Oathless"
+  },
+  "Obelisks": {
+    "to": "Saintsworn Obelisks"
+  },
+  "Obscured": {
+    "to": "Status Effects",
+    "fragment": "Obscured"
+  },
+  "Obvious": {
+    "to": "Boons and Flaws",
+    "fragment": "Obvious"
+  },
+  "Odiolavoro": {
+    "to": "Chef Odiolavoro"
+  },
+  "Of Chitin, Kith And Kin": {
+    "to": "Deepwoken OST",
+    "fragment": "Of Chitin, Kith And Kin"
+  },
+  "Of Labours, Veiled": {
+    "to": "Deepwoken OST",
+    "fragment": "Of Labours, Veiled"
+  },
+  "Of Smoke And Steel": {
+    "to": "Deepwoken OST",
+    "fragment": "Of Smoke And Steel"
+  },
+  "Offhand Weapons": {
+    "to": "Category:Offhand"
+  },
+  "Officers Note": {
+    "to": "Cut Content"
+  },
+  "Old World Sun Pendant": {
+    "to": "Wheel Pendant"
+  },
+  "On The Shoulder Of Giants": {
+    "to": "Deepwoken OST",
+    "fragment": "On The Shoulder Of Giants"
+  },
+  "One Bit": {
+    "to": "Echoes",
+    "fragment": "Upgrades, Unlocks, and Modifiers"
+  },
+  "One For All, All For Gun": {
+    "to": "Deepwoken OST",
+    "fragment": "One For All, All For Gun"
+  },
+  "OniBeads": {
+    "to": "Oni Beads"
+  },
+  "Onslaught": {
+    "to": "Attunement-less",
+    "fragment": "Onslaught"
+  },
+  "Operation: Deep Healing": {
+    "to": "Verse 3",
+    "fragment": "Operation: Deep Healing"
+  },
+  "Orange Candy": {
+    "to": "Candy"
+  },
+  "Orange Toffee": {
+    "to": "Toffee"
+  },
+  "Orb": {
+    "to": "Soul Orb"
+  },
+  "Ore": {
+    "to": "Ores"
+  },
+  "Origin": {
+    "to": "Origins"
+  },
+  "Orlandeau's Pity Emerald": {
+    "to": "Orlandeau's Emerald"
+  },
+  "Oscillation": {
+    "to": "Deepwoken OST",
+    "fragment": "Oscillation"
+  },
+  "Oscillator": {
+    "to": "Regalia",
+    "fragment": "Oscillator"
+  },
+  "Outfit": {
+    "to": "Outfits"
+  },
+  "Overcoat": {
+    "to": "Trimmed Overcoat"
+  },
+  "Overloaded": {
+    "to": "Status Effects",
+    "fragment": "Overloaded"
+  },
+  "Owl": {
+    "to": "Deep Owl"
+  },
+  "Oxidizing Rush": {
+    "to": "Ironsing",
+    "fragment": "Oxidizing Rush"
+  },
+  "PWR": {
+    "to": "Power"
+  },
+  "Packmule": {
+    "to": "Boons and Flaws",
+    "fragment": "Packmule"
+  },
+  "Palace Guard": {
+    "to": "Etrean Royal Guard (Enemy)"
+  },
+  "Pale Ravager": {
+    "to": "Jungle Jim"
+  },
+  "Palm Strike": {
+    "to": "Oath: Bladeharper",
+    "fragment": "Palm Strike"
+  },
+  "Paperette": {
+    "to": "Hallowtide Mask Ingredients"
+  },
+  "Parasites": {
+    "to": "Second Layer/The Ethironal Shrine",
+    "fragment": "Parasites"
+  },
+  "Parasitic Leech": {
+    "to": "Oath: Linkstrider",
+    "fragment": "Parasitic Leech"
+  },
+  "Parasol": {
+    "to": "Interluminary Parasol"
+  },
+  "Parasol Blight": {
+    "to": "Parasol's Blight"
+  },
+  "Parasol Brain": {
+    "to": "Raw Parasol Brain"
+  },
+  "Parka": {
+    "to": "Fur Parka"
+  },
+  "Parry": {
+    "to": "Combat Mechanics",
+    "fragment": "Parrying"
+  },
+  "Parry Dagger": {
+    "to": "Parrying Dagger"
+  },
+  "Parrying Daggers": {
+    "to": "Category:Parrying Daggers"
+  },
+  "Pastry Paster": {
+    "to": "The Pastry Paster"
+  },
+  "Path's Defender": {
+    "to": "The Path's Defender"
+  },
+  "Pathfinder (Path)": {
+    "to": "Pathfinder"
+  },
+  "Pathfinders": {
+    "to": "Glossary",
+    "fragment": "Pathfinders"
+  },
+  "Pawbrey": {
+    "to": "Chest Master"
+  },
+  "Pawline": {
+    "to": "Chest Master"
+  },
+  "Peacekeeper Vend": {
+    "to": "Emar Vend"
+  },
+  "Pelagic Slumber": {
+    "to": "Deepwoken OST",
+    "fragment": "Pelagic Slumber"
+  },
+  "Peregrine": {
+    "to": "Deepwoken OST",
+    "fragment": "Peregrine"
+  },
+  "Perfect Lens": {
+    "to": "Mantra Modifiers",
+    "fragment": "Regular Modifiers"
+  },
+  "Permafrost Prison": {
+    "to": "Hybrid Abilities",
+    "fragment": "Permafrost Prison"
+  },
+  "Perpetual Distillery": {
+    "to": "Oath: Saltchemist",
+    "fragment": "Perpetual Distillery"
+  },
+  "Perpetual Wrath": {
+    "to": "Oath: Chainwarden",
+    "fragment": "Perpetual Wrath"
+  },
+  "Pestilence": {
+    "to": "Status Effects",
+    "fragment": "Pestilence"
+  },
+  "Phantom Cleave": {
+    "to": "Phantomcleave"
+  },
+  "Physical Mantras": {
+    "to": "Attunement-less"
+  },
+  "Pillars of Erisia": {
+    "to": "Galebreathe",
+    "fragment": "Pillars of Erisia"
+  },
+  "Pink Toffee": {
+    "to": "Toffee"
+  },
+  "Pioneer Divers": {
+    "to": "The Pioneers"
+  },
+  "Pips": {
+    "to": "Equipment"
+  },
+  "Pistol": {
+    "to": "Pistols"
+  },
+  "Platinum Bar": {
+    "to": "Treasures"
+  },
+  "Pleeksty": {
+    "to": "Amorus Pleeksty"
+  },
+  "Pleetsky's Inferno": {
+    "to": "Pleeksty's Inferno"
+  },
+  "Poison": {
+    "to": "Status Effects",
+    "fragment": "Poison"
+  },
+  "Polymarch Legion Soldier": {
+    "to": "Legion Soldier (The Polymarch)"
+  },
+  "Portal": {
+    "to": "Portals"
+  },
+  "Posture": {
+    "to": "Combat Mechanics",
+    "fragment": "Posture"
+  },
+  "Potions": {
+    "to": "Alchemy"
+  },
+  "Power Cards": {
+    "to": "Talents"
+  },
+  "Prayer Beads": {
+    "to": "Training Gear",
+    "fragment": "Attribute Training Gears"
+  },
+  "Precision Cuts": {
+    "to": "Oath: Fadetrimmer",
+    "fragment": "Precision Cuts"
+  },
+  "Prediction": {
+    "to": "Attunement-less",
+    "fragment": "Prediction"
+  },
+  "Pressure Blast": {
+    "to": "Attunement-less",
+    "fragment": "Pressure Blast"
+  },
+  "Primadon": {
+    "to": "Primadon, Titan of the East"
+  },
+  "Primadon's Hunting Grounds": {
+    "to": "The Monkey's Paw"
+  },
+  "Primal Golem": {
+    "to": "Rock Golem",
+    "fragment": "Golem Prime"
+  },
+  "Prime Golem": {
+    "to": "Golem Prime"
+  },
+  "Prime Owl": {
+    "to": "Parliament"
+  },
+  "Primordial Lotus": {
+    "to": "Primordial Lotuses"
+  },
+  "Prison": {
+    "to": "Fort Merit",
+    "fragment": "Prison Tower"
+  },
+  "Prison Tower": {
+    "to": "Fort Merit",
+    "fragment": "Prison Tower"
+  },
+  "Prodigy": {
+    "to": "Regalia",
+    "fragment": "Prodigy"
+  },
+  "Proficiency": {
+    "to": "Traits",
+    "fragment": "Proficiency"
+  },
+  "Prominence Draw": {
+    "to": "Attunement-less",
+    "fragment": "Prominence Draw"
+  },
+  "Protagonist Syndrome": {
+    "to": "Oath: Dawnwalker",
+    "fragment": "Protagonist Syndrome"
+  },
+  "Providence Thorns": {
+    "to": "Providence's Thorns"
+  },
+  "Psia": {
+    "to": "Cut Content"
+  },
+  "Pumpskipper": {
+    "to": "Gourdskipper"
+  },
+  "Punishment": {
+    "to": "Attunement-less",
+    "fragment": "Punishment"
+  },
+  "Pure Astruline": {
+    "to": "Ores",
+    "fragment": "Astruline"
+  },
+  "Pure Erisore": {
+    "to": "Ores",
+    "fragment": "Erisore"
+  },
+  "Pure Gold": {
+    "to": "Ores",
+    "fragment": "Gold"
+  },
+  "Pure Heart": {
+    "to": "Training Gear",
+    "fragment": "Attunement Training Gears"
+  },
+  "Pure Irithine": {
+    "to": "Ores",
+    "fragment": "Irithine"
+  },
+  "Pure Iron": {
+    "to": "Ores",
+    "fragment": "Iron"
+  },
+  "Pure Ore": {
+    "to": "Ores"
+  },
+  "Pure Umbrite": {
+    "to": "Ores",
+    "fragment": "Umbrite"
+  },
+  "Purple Candy": {
+    "to": "Candy"
+  },
+  "Purrnard": {
+    "to": "Chest Master"
+  },
+  "Purrsephone": {
+    "to": "Chest Master"
+  },
+  "Purrseus": {
+    "to": "Chest Master"
+  },
+  "PvE Scaling": {
+    "to": "Monsters",
+    "fragment": "PvE Scaling"
+  },
+  "PvP Arena": {
+    "to": "Chime of Conflict"
+  },
+  "Pyrekeeper": {
+    "to": "Ysley's Pyre Keeper"
+  },
+  "Pyres of Glass": {
+    "to": "Deepwoken OST",
+    "fragment": "Pyres of Glass"
+  },
+  "Quartzstone Scythe": {
+    "to": "Quartztone Pickaxe"
+  },
+  "Quest": {
+    "to": "Quests"
+  },
+  "Races": {
+    "to": "Aspects"
+  },
+  "Radiant Dawn": {
+    "to": "Oath: Dawnwalker",
+    "fragment": "Radiant Dawn"
+  },
+  "Radiant Kick": {
+    "to": "Oath: Dawnwalker",
+    "fragment": "Radiant Kick"
+  },
+  "Radio": {
+    "to": "Llevyn"
+  },
+  "Raeva (Celestial)": {
+    "to": "Glossary",
+    "fragment": "Raeva"
+  },
+  "Raeva Ferash Kenestos": {
+    "to": "Kyrsgarde Champion, Kyrsa's Star"
+  },
+  "Railblade Prototype": {
+    "to": "Prototype Railblade"
+  },
+  "Rain": {
+    "to": "Environmental Hazards"
+  },
+  "Rally": {
+    "to": "Attunement-less",
+    "fragment": "Rally"
+  },
+  "Rank": {
+    "to": "Echoes"
+  },
+  "Rapid Punches": {
+    "to": "Attunement-less",
+    "fragment": "Rapid Punches"
+  },
+  "Rapid Slashes": {
+    "to": "Attunement-less",
+    "fragment": "Rapid Slashes"
+  },
+  "Rat King": {
+    "to": "Dravik, The Rat King"
+  },
+  "Razor Blitz": {
+    "to": "Bloodrend",
+    "fragment": "Razor Blitz"
+  },
+  "Reality Shift": {
+    "to": "Oath: Visionshaper",
+    "fragment": "Reality Shift"
+  },
+  "Reaper": {
+    "to": "Blood Scourge"
+  },
+  "Recipes": {
+    "to": "Crafting Recipes"
+  },
+  "Redskipper": {
+    "to": "Necroskipper"
+  },
+  "Regalias": {
+    "to": "Regalia"
+  },
+  "Regent": {
+    "to": "The Lord Regent"
+  },
+  "Reinforce": {
+    "to": "Attunement-less",
+    "fragment": "Reinforce"
+  },
+  "Relentless Flames": {
+    "to": "Flamecharm",
+    "fragment": "Relentless Flames"
+  },
+  "Relentless Hunt": {
+    "to": "Oath: Silentheart",
+    "fragment": "Relentless Hunt"
+  },
+  "Relic": {
+    "to": "Relics"
+  },
+  "Rending Needle: Conductor": {
+    "to": "Ironsing",
+    "fragment": "Rending Needle: Conductor"
+  },
+  "Rending Needle: Impaler": {
+    "to": "Ironsing",
+    "fragment": "Rending Needle: Impaler"
+  },
+  "Rending Needle: Jailer": {
+    "to": "Ironsing",
+    "fragment": "Rending Needle: Jailer"
+  },
+  "Repulsion": {
+    "to": "Curse of Repulsion"
+  },
+  "Resonance Progress": {
+    "to": "Resonance",
+    "fragment": "Bell Progress"
+  },
+  "Resonant Dawn": {
+    "to": "Random Encounters",
+    "fragment": "Resonant Dawn"
+  },
+  "Restless": {
+    "to": "Boons and Flaws",
+    "fragment": "Flaws"
+  },
+  "Restrain": {
+    "to": "Oath: Chainwarden",
+    "fragment": "Restrain"
+  },
+  "Reveal": {
+    "to": "Oath: Bladeharper",
+    "fragment": "Reveal"
+  },
+  "Revenge": {
+    "to": "Attunement-less",
+    "fragment": "Revenge"
+  },
+  "Reversal Spark": {
+    "to": "Mantra Modifiers",
+    "fragment": "Sparks"
+  },
+  "Revolver": {
+    "to": "Repeater"
+  },
+  "Rhaemen's Ember": {
+    "to": "Curse of Ysley's Ember"
+  },
+  "Rhythm": {
+    "to": "Murmur: Rhythm"
+  },
+  "Rhythm Advance": {
+    "to": "Oath: Soulbreaker",
+    "fragment": "Rhythm Advance"
+  },
+  "Rifles": {
+    "to": "Category:Rifles"
+  },
+  "Rimefall": {
+    "to": "Seasons",
+    "fragment": "Winter"
+  },
+  "Rings": {
+    "to": "Equipment",
+    "fragment": "Rings"
+  },
+  "Rising Flame": {
+    "to": "Flamecharm",
+    "fragment": "Rising Flame"
+  },
+  "Rising Frost": {
+    "to": "Frostdraw",
+    "fragment": "Rising Frost"
+  },
+  "Rising Shadow": {
+    "to": "Shadowcast",
+    "fragment": "Rising Shadow"
+  },
+  "Rising Star": {
+    "to": "Oath: Silentheart",
+    "fragment": "Rising Star"
+  },
+  "Rising Thunder": {
+    "to": "Thundercall",
+    "fragment": "Rising Thunder"
+  },
+  "Rising Wind": {
+    "to": "Galebreathe",
+    "fragment": "Rising Wind"
+  },
+  "Robber Baron": {
+    "to": "Talents"
+  },
+  "Rock": {
+    "to": "Ores",
+    "fragment": "Rock"
+  },
+  "Rock Knight": {
+    "to": "Stone Knight"
+  },
+  "Rocket Lance": {
+    "to": "Ironsing",
+    "fragment": "Rocket Lance"
+  },
+  "Rogue Mech": {
+    "to": "Rogue Construct"
+  },
+  "Rootwatch": {
+    "to": "Seasons",
+    "fragment": "Spring"
+  },
+  "Rosen": {
+    "to": "Gunsmith Rosen"
+  },
+  "Rosen Hellflame": {
+    "to": "Rosen's Hellflame"
+  },
+  "Rosen's Hellfire": {
+    "to": "Rosen's Hellflame"
+  },
+  "Rosens Peacemaker": {
+    "to": "Rosen's Peacemaker"
+  },
+  "Rosens Roscoe": {
+    "to": "Rosen's Roscoe"
+  },
+  "Round Citadel Frames": {
+    "to": "Citadel Frames"
+  },
+  "Round Spark": {
+    "to": "Mantra Modifiers",
+    "fragment": "Sparks"
+  },
+  "Royal Guard": {
+    "to": "Aspirant Mask"
+  },
+  "Royalists": {
+    "to": "Etrean Royalists"
+  },
+  "Ruby": {
+    "to": "Treasures"
+  },
+  "Ruined Flower": {
+    "to": "Delicate Flower"
+  },
+  "Run it Back": {
+    "to": "Run It Back"
+  },
+  "Rupture": {
+    "to": "Oath: Chainwarden",
+    "fragment": "Rupture"
+  },
+  "Rush Shard": {
+    "to": "Mantra Modifiers",
+    "fragment": "Regular Modifiers"
+  },
+  "Rush of Ancients": {
+    "to": "Oath: Jetstriker",
+    "fragment": "Rush of Ancients"
+  },
+  "S Rank": {
+    "to": "Echoes"
+  },
+  "SDW": {
+    "to": "Attributes",
+    "fragment": "SDW"
+  },
+  "STR": {
+    "to": "Attributes",
+    "fragment": "STR"
+  },
+  "Sack": {
+    "to": "Cut Content"
+  },
+  "Sailing": {
+    "to": "Ships & Sailing"
+  },
+  "Saint Jay": {
+    "to": "Saint Jay (Memento)"
+  },
+  "Saint Jay (NPC)": {
+    "to": "Saint Jay (individual)"
+  },
+  "Saintsblade": {
+    "to": "Oath: Saintsworn",
+    "fragment": "Saintsblade"
+  },
+  "Saintsworn": {
+    "to": "Oath: Saintsworn"
+  },
+  "Saintsworn Obelisk": {
+    "to": "Saintsworn Obelisks"
+  },
+  "Saltchemist": {
+    "to": "Oath: Saltchemist"
+  },
+  "Saltspan": {
+    "to": "Seasons",
+    "fragment": "Winter"
+  },
+  "Salute": {
+    "to": "Emotes",
+    "fragment": "Exclusive"
+  },
+  "Sand Knight": {
+    "to": "Stone Knight",
+    "fragment": "Sand Knight"
+  },
+  "Sandstorm": {
+    "to": "Environmental Hazards"
+  },
+  "Sanguine Dive": {
+    "to": "Bloodrend",
+    "fragment": "Sanguine Dive"
+  },
+  "Sanity": {
+    "to": "Insanity"
+  },
+  "Sapped": {
+    "to": "Status Effects",
+    "fragment": "Sapped"
+  },
+  "Sapphire": {
+    "to": "Grandmaster Warder Sapphire"
+  },
+  "Scaling Rings": {
+    "to": "Category:Scaling Rings"
+  },
+  "Scarlet Cannon": {
+    "to": "Bloodrend",
+    "fragment": "Scarlet Cannon"
+  },
+  "Scarlet Citadel": {
+    "to": "Red Lotus Keep"
+  },
+  "Scarlet Cyclone": {
+    "to": "Bloodrend",
+    "fragment": "Scarlet Cyclone"
+  },
+  "Scarlet Lotus": {
+    "to": "Pristine Lotus"
+  },
+  "Schematics": {
+    "to": "Outfits"
+  },
+  "Schooner": {
+    "to": "Ships & Sailing",
+    "fragment": "List of Ships"
+  },
+  "Scion Caller": {
+    "to": "??? (Scion Caller)"
+  },
+  "Scoundrel's Bounty": {
+    "to": "The Scoundrel's Bounty"
+  },
+  "Scrapped Features": {
+    "to": "Cut Content"
+  },
+  "Scrapper": {
+    "to": "Boons and Flaws",
+    "fragment": "Scrapper"
+  },
+  "Scrapsinger": {
+    "to": "Ironsing",
+    "fragment": "Gilded Path: Scrapsinger"
+  },
+  "Scroom": {
+    "to": "Aspects"
+  },
+  "Scyphozia": {
+    "to": "First Layer"
+  },
+  "Scythespan": {
+    "to": "Seasons",
+    "fragment": "Autumn"
+  },
+  "Sea Dragon": {
+    "to": "Dread Serpent"
+  },
+  "Sea Encounters": {
+    "to": "Random Encounters"
+  },
+  "Sea Events": {
+    "to": "Random Encounters",
+    "fragment": "Sea Events"
+  },
+  "Searing Snare": {
+    "to": "Flamecharm",
+    "fragment": "Searing Snare"
+  },
+  "Seedspan": {
+    "to": "Seasons",
+    "fragment": "Summer"
+  },
+  "Seekers": {
+    "to": "Watcher"
+  },
+  "Self-Conducting Loop": {
+    "to": "Training Gear",
+    "fragment": "Attunement Training Gears"
+  },
+  "Selling": {
+    "to": "Antiquarian"
+  },
+  "Servant of Enmity": {
+    "to": "Enforcer"
+  },
+  "Shade Bringer": {
+    "to": "Shadowcast",
+    "fragment": "Shade Bringer"
+  },
+  "Shade Devour": {
+    "to": "Shadowcast",
+    "fragment": "Shade Devour"
+  },
+  "Shade Step": {
+    "to": "Shadowcast",
+    "fragment": "Shade Step"
+  },
+  "Shade Wisp": {
+    "to": "Shadowcast",
+    "fragment": "Shade Wisp"
+  },
+  "Shadow Assault": {
+    "to": "Shadowcast",
+    "fragment": "Shadow Assault"
+  },
+  "Shadow Chains": {
+    "to": "Shadowcast",
+    "fragment": "Shadow Chains"
+  },
+  "Shadow Eruption": {
+    "to": "Shadowcast",
+    "fragment": "Shadow Eruption"
+  },
+  "Shadow Gun": {
+    "to": "Shadowcast",
+    "fragment": "Shadow Gun"
+  },
+  "Shadow Meteor": {
+    "to": "Shadowcast",
+    "fragment": "Shadow Meteor"
+  },
+  "Shadow Roar": {
+    "to": "Shadowcast",
+    "fragment": "Shadow Roar"
+  },
+  "Shadow Seekers": {
+    "to": "Shadowcast",
+    "fragment": "Shadow Seekers"
+  },
+  "Shadow Vortex": {
+    "to": "Shadowcast",
+    "fragment": "Shadow Vortex"
+  },
+  "Shaky Block": {
+    "to": "Combat Mechanics",
+    "fragment": "Posture"
+  },
+  "Shanties": {
+    "to": "Instruments"
+  },
+  "Shaper Mimicry": {
+    "to": "Oath: Visionshaper",
+    "fragment": "Shaper Mimicry"
+  },
+  "Shaper Swap": {
+    "to": "Oath: Visionshaper",
+    "fragment": "Shaper Swap"
+  },
+  "Sharko": {
+    "to": "Megalodaunt"
+  },
+  "Sharko Cave": {
+    "to": "The Viper's Jaw"
+  },
+  "Sharkscale Glider": {
+    "to": "Gliders"
+  },
+  "Shell Stock": {
+    "to": "Hallowtide Mask Ingredients"
+  },
+  "Shield": {
+    "to": "Category:Shields"
+  },
+  "Ships": {
+    "to": "Ships & Sailing"
+  },
+  "Shisui Kobura": {
+    "to": "Sachan Shisui Kobura"
+  },
+  "Shock": {
+    "to": "Status Effects",
+    "fragment": "Shock"
+  },
+  "Shock Corps Division": {
+    "to": "Authority Ensign",
+    "fragment": "Shock Corps Division"
+  },
+  "Shogun Captain": {
+    "to": "Shogun of the Prophet's Guard (Temple of Mur)"
+  },
+  "Shoulder Bash": {
+    "to": "Attunement-less",
+    "fragment": "Shoulder Bash"
+  },
+  "Shrine of Blasphemy": {
+    "to": "Deep Shrines/Shrine of Blasphemy"
+  },
+  "Shrine of Chance": {
+    "to": "Deep Shrines/Shrine of Chance"
+  },
+  "Shrine of Conceit": {
+    "to": "Deep Shrines/Shrine of Conceit"
+  },
+  "Shrine of Division": {
+    "to": "Deep Shrines/Shrine of Division"
+  },
+  "Shrine of Mastery": {
+    "to": "Deep Shrines/Shrine of Mastery"
+  },
+  "Shrine of Order": {
+    "to": "Deep Shrines/Shrine of Order"
+  },
+  "Shrine of Ostentation": {
+    "to": "Deep Shrines/Shrine of Ostentation"
+  },
+  "Shrine of Solitude": {
+    "to": "Deep Shrines/Shrine of Solitude"
+  },
+  "Shrine of Temptation": {
+    "to": "Deep Shrines/Shrine of Temptation"
+  },
+  "Shrine of Unification": {
+    "to": "Deep Shrines/Shrine of Unification"
+  },
+  "Shrine of Yun'Shul": {
+    "to": "Shrine of Yun'Shul, Keeper of Hearts"
+  },
+  "Shrine of Yun'shul": {
+    "to": "Shrine of Yun'Shul, Keeper of Hearts"
+  },
+  "Shrines": {
+    "to": "Fountain Gates"
+  },
+  "Sibex's Gale Wisp Tune": {
+    "to": "Deepwoken OST",
+    "fragment": "Sibex's Gale Wisp Tune"
+  },
+  "Sightless Beam": {
+    "to": "Oath: Blindseer",
+    "fragment": "Sightless Beam"
+  },
+  "Silent Cascade": {
+    "to": "Oath: Silentheart",
+    "fragment": "Silent Cascade"
+  },
+  "Silentheart": {
+    "to": "Oath: Silentheart"
+  },
+  "Silhouette.jpg": {
+    "to": "File:Silhouette.jpg"
+  },
+  "Simple": {
+    "to": "Boons and Flaws",
+    "fragment": "Simple"
+  },
+  "Sin-Smelted Scoriae": {
+    "to": "Deepwoken OST",
+    "fragment": "Sin-Smelted Scoriae"
+  },
+  "Sing": {
+    "to": "Attunement-less",
+    "fragment": "Sing"
+  },
+  "Sinister Halo": {
+    "to": "Oath: Starkindred",
+    "fragment": "Sinister Halo"
+  },
+  "Skrillbo": {
+    "to": "Bounder"
+  },
+  "Skullpiercer": {
+    "to": "Skull Piercer"
+  },
+  "Skyblood": {
+    "to": "Attunement Potions"
+  },
+  "Skycrash": {
+    "to": "Oath: Blightsurger",
+    "fragment": "Skycrash"
+  },
+  "Skyshatter Kick": {
+    "to": "Attunement-less",
+    "fragment": "Skyshatter Kick"
+  },
+  "Skyvalor Lotus": {
+    "to": "Primordial Lotuses",
+    "fragment": "Skyvalor Lotus"
+  },
+  "Slice 'n' Dice": {
+    "to": "Attunement-less",
+    "fragment": "Slice 'n' Dice"
+  },
+  "Sloop": {
+    "to": "Ships & Sailing",
+    "fragment": "List of Ships"
+  },
+  "Slots": {
+    "to": "Character Slots"
+  },
+  "Slowburn": {
+    "to": "Echoes",
+    "fragment": "Upgrades, Unlocks, and Modifiers"
+  },
+  "Sly": {
+    "to": "Boons and Flaws",
+    "fragment": "Unlockable Boons"
+  },
+  "Smelting": {
+    "to": "Transmogrification"
+  },
+  "Smith Goggles": {
+    "to": "Smith's Goggles"
+  },
+  "Snow": {
+    "to": "Environmental Hazards"
+  },
+  "Snow Knight": {
+    "to": "Stone Knight"
+  },
+  "Soaring Storm": {
+    "to": "Oath: Bladeharper",
+    "fragment": "Soaring Storm"
+  },
+  "Solivagant": {
+    "to": "Deepwoken OST",
+    "fragment": "Solivagant"
+  },
+  "Something Twisted": {
+    "to": "Mindless Servant"
+  },
+  "Songchant": {
+    "to": "Traits",
+    "fragment": "Songchant"
+  },
+  "Songkeeper Temple": {
+    "to": "Songseeker Temple"
+  },
+  "Soul Beam": {
+    "to": "Oath: Oathless",
+    "fragment": "Soul Beam"
+  },
+  "Soul Infusion": {
+    "to": "Oath: Soulbreaker",
+    "fragment": "Soul Infusion"
+  },
+  "Soul Plasticity": {
+    "to": "Echoes",
+    "fragment": "Upgrades, Unlocks, and Modifiers"
+  },
+  "Soulbreaker": {
+    "to": "Oath: Soulbreaker"
+  },
+  "Soulflare Siphon": {
+    "to": "Bloodrend",
+    "fragment": "Soulflare Siphon"
+  },
+  "Soulwrought Axe": {
+    "to": "Crazy Slots",
+    "fragment": "Weapons"
+  },
+  "Soulwrought Dagger": {
+    "to": "Crazy Slots",
+    "fragment": "Weapons"
+  },
+  "Soulwrought Greatsword": {
+    "to": "Crazy Slots",
+    "fragment": "Weapons"
+  },
+  "Soulwrought Gun": {
+    "to": "Crazy Slots",
+    "fragment": "Weapons"
+  },
+  "Soulwrought Longsword": {
+    "to": "Crazy Slots",
+    "fragment": "Weapons"
+  },
+  "Soulwrought Spear": {
+    "to": "Crazy Slots",
+    "fragment": "Weapons"
+  },
+  "Soulwrought Weapons": {
+    "to": "Crazy Slots",
+    "fragment": "Weapons"
+  },
+  "Sounds": {
+    "to": "Deepwoken Sounds"
+  },
+  "Soundtrack": {
+    "to": "Deepwoken OST"
+  },
+  "Southern Luminant": {
+    "to": "Luminants",
+    "fragment": "Southern Luminant"
+  },
+  "Sovereign Bangle": {
+    "to": "Oath: Blightsurger",
+    "fragment": "Sovereign Bangle"
+  },
+  "Sovereign Drive": {
+    "to": "Oath: Blightsurger",
+    "fragment": "Sovereign Drive"
+  },
+  "Sovereign State": {
+    "to": "Oath: Blightsurger",
+    "fragment": "Sovereign State"
+  },
+  "Spark Swap": {
+    "to": "Thundercall",
+    "fragment": "Spark Swap"
+  },
+  "Sparkblood": {
+    "to": "Attunement Potions"
+  },
+  "Sparks": {
+    "to": "Mantra Modifiers",
+    "fragment": "Sparks"
+  },
+  "Spear": {
+    "to": "Iron Spear"
+  },
+  "Specs": {
+    "to": "Developer Specs"
+  },
+  "Specter Path": {
+    "to": "Galebreathe",
+    "fragment": "Haunted Path: Specter"
+  },
+  "Spell Shout": {
+    "to": "Valikor"
+  },
+  "Spelltrainers": {
+    "to": "Attunement Trainers"
+  },
+  "Spider Queen": {
+    "to": "Deep Widow"
+  },
+  "Spit": {
+    "to": "Combat Mechanics"
+  },
+  "Spring": {
+    "to": "Seasons",
+    "fragment": "Spring"
+  },
+  "Spring Spark": {
+    "to": "Mantra Modifiers",
+    "fragment": "Sparks"
+  },
+  "Squads": {
+    "to": "Authority Ensign",
+    "fragment": "Squads"
+  },
+  "Squeamish": {
+    "to": "Boons and Flaws",
+    "fragment": "Squeamish"
+  },
+  "Squibbo": {
+    "to": "Nautilodaunt"
+  },
+  "Squid Hoss": {
+    "to": "Nautilodaunt"
+  },
+  "Staff": {
+    "to": "Category:Staves"
+  },
+  "Staffs": {
+    "to": "Staves"
+  },
+  "Staffs of the Wiki": {
+    "to": "Wiki Staff"
+  },
+  "Stance": {
+    "to": "Weapons",
+    "fragment": "Stances"
+  },
+  "Starkindred": {
+    "to": "Oath: Starkindred"
+  },
+  "Stars (Pips)": {
+    "to": "Equipment"
+  },
+  "Starswept Valley": {
+    "to": "The Starswept Valley"
+  },
+  "Stats": {
+    "to": "Attributes"
+  },
+  "Steadfast": {
+    "to": "Boons and Flaws",
+    "fragment": "Steadfast"
+  },
+  "Steam Grenade": {
+    "to": "Steampunk Soldier",
+    "fragment": "Steam Grenade"
+  },
+  "Stone Golem": {
+    "to": "Rock Golem"
+  },
+  "Stone Knights": {
+    "to": "Stone Knight"
+  },
+  "Stonelife Golem": {
+    "to": "Rock Golem"
+  },
+  "Storm Blades": {
+    "to": "Thundercall",
+    "fragment": "Storm Blades"
+  },
+  "Stranger": {
+    "to": "Quiet Stranger"
+  },
+  "Stratos Step": {
+    "to": "Oath: Jetstriker",
+    "fragment": "Stratos Step"
+  },
+  "Stratus Stone": {
+    "to": "Mantra Modifiers",
+    "fragment": "Regular Modifiers"
+  },
+  "Strength": {
+    "to": "Attributes",
+    "fragment": "STR"
+  },
+  "String Trick": {
+    "to": "Oath: Contractor",
+    "fragment": "String Trick"
+  },
+  "Strong Leap": {
+    "to": "Attunement-less",
+    "fragment": "Strong Leap"
+  },
+  "Strong Left": {
+    "to": "Attunement-less",
+    "fragment": "Strong Left"
+  },
+  "Studies on Canticlysm, Vol. IV": {
+    "to": "Studies on Canticlysm",
+    "fragment": "Vol. IV"
+  },
+  "Sub Zero Passage": {
+    "to": "Brinepool Passage"
+  },
+  "Sub-Zero Passage": {
+    "to": "Brinepool Passage"
+  },
+  "Suffocate": {
+    "to": "Status Effects",
+    "fragment": "Suffocate"
+  },
+  "Suffocation": {
+    "to": "Status Effects",
+    "fragment": "Suffocate"
+  },
+  "Summer": {
+    "to": "Seasons",
+    "fragment": "Summer"
+  },
+  "Summer Company": {
+    "to": "The Summer Company"
+  },
+  "Summer Company Manager": {
+    "to": "Summer Manager"
+  },
+  "Summon Cauldron": {
+    "to": "Attunement-less",
+    "fragment": "Summon Cauldron"
+  },
+  "Surge Path: Unstable Capacitor": {
+    "to": "Thundercall",
+    "fragment": "Surge Path: Unstable Capacitor"
+  },
+  "Survivalist": {
+    "to": "Boons and Flaws",
+    "fragment": "Survivalist"
+  },
+  "Sword": {
+    "to": "Sword (weapon)"
+  },
+  "Symbiotic Link": {
+    "to": "Oath: Linkstrider",
+    "fragment": "Symbiotic Link"
+  },
+  "Symbiotic Sustain": {
+    "to": "Oath: Linkstrider",
+    "fragment": "Symbiotic Sustain"
+  },
+  "T:MI": {
+    "to": "Template:MantraInfobox"
+  },
+  "T:MI/doc": {
+    "to": "Template:MantraInfobox/doc"
+  },
+  "T:Resolve Crusher": {
+    "to": "Talents"
+  },
+  "Tabbytha": {
+    "to": "Chest Master"
+  },
+  "Table Flip": {
+    "to": "Attunement-less",
+    "fragment": "Table Flip"
+  },
+  "Tacet": {
+    "to": "Murmur: Tacet"
+  },
+  "Tacet Drop Kick": {
+    "to": "Attunement-less",
+    "fragment": "Tacet Drop Kick"
+  },
+  "Tacet Kick": {
+    "to": "Oath: Soulbreaker",
+    "fragment": "Tacet Kick"
+  },
+  "Talent": {
+    "to": "Talents"
+  },
+  "Tarnished": {
+    "to": "Boons and Flaws",
+    "fragment": "Flaws"
+  },
+  "Tau": {
+    "to": "Deepdelver Tau"
+  },
+  "Taunt": {
+    "to": "Attunement-less",
+    "fragment": "Taunt"
+  },
+  "Taunt (spit)": {
+    "to": "Combat Mechanics"
+  },
+  "Telegraphed Attacks": {
+    "to": "Combat Mechanics",
+    "fragment": "Telegraphed Attacks"
+  },
+  "Tempest Blitz": {
+    "to": "Hybrid Abilities",
+    "fragment": "Tempest Blitz"
+  },
+  "Temple of the Forgotten Flame": {
+    "to": "The Temple of the Forgotten Flame"
+  },
+  "Tempo": {
+    "to": "Combat Mechanics",
+    "fragment": "Tempo"
+  },
+  "Temporary Health": {
+    "to": "Status Effects",
+    "fragment": "Temporary Health"
+  },
+  "Ten Gallon Bandana": {
+    "to": "Ten-Gallon Bandana"
+  },
+  "Ten Gallon Hat": {
+    "to": "Ten-Gallon Hat"
+  },
+  "Terminology": {
+    "to": "Glossary"
+  },
+  "Terrapod Bait": {
+    "to": "Monster Bait"
+  },
+  "Thalassis": {
+    "to": "Thal'assis Linnaes"
+  },
+  "The Acolyte": {
+    "to": "Council of the Moonlit Faith",
+    "fragment": "Notable members"
+  },
+  "The Authority": {
+    "to": "The Central Authority"
+  },
+  "The Better Part Of Valour": {
+    "to": "Deepwoken OST",
+    "fragment": "The Better Part Of Valour"
+  },
+  "The Captain": {
+    "to": "Cap'n Orlandeau"
+  },
+  "The Counsell": {
+    "to": "Council of the Moonlit Faith"
+  },
+  "The Deluvian Mechanism": {
+    "to": "The Diluvian Mechanism"
+  },
+  "The Doom of Caeranthil's Scale": {
+    "to": "Doom of Caeranthil's Scale"
+  },
+  "The Duke": {
+    "to": "Duke Ishamon Erisia"
+  },
+  "The End.": {
+    "to": "Deepwoken OST",
+    "fragment": "The End."
+  },
+  "The Enforcer": {
+    "to": "Enforcer"
+  },
+  "The Eternal Gale": {
+    "to": "Second Layer"
+  },
+  "The Ethironal Shrine": {
+    "to": "Second Layer/The Ethironal Shrine"
+  },
+  "The Etrean Luminant": {
+    "to": "Luminants"
+  },
+  "The Final Seal (Interlude)": {
+    "to": "Deepwoken OST",
+    "fragment": "The Final Seal (Interlude)"
+  },
+  "The Games Of War": {
+    "to": "Deepwoken OST",
+    "fragment": "The Games Of War"
+  },
+  "The Gideshu March (Band Version)": {
+    "to": "Deepwoken OST",
+    "fragment": "The Gideshu March (Band Version)"
+  },
+  "The Gideshu March (OST)": {
+    "to": "Deepwoken OST",
+    "fragment": "The Gideshu March"
+  },
+  "The Godstorm": {
+    "to": "Godstorm"
+  },
+  "The Grudge": {
+    "to": "Grudge"
+  },
+  "The Heart of Enmity": {
+    "to": "Heart of Enmity"
+  },
+  "The Heroes": {
+    "to": "The Five Heroes"
+  },
+  "The Justicars": {
+    "to": "The Justicar"
+  },
+  "The Killing Wind": {
+    "to": "Deepwoken OST",
+    "fragment": "The Killing Wind"
+  },
+  "The Kingdom of Etrea": {
+    "to": "Etrea"
+  },
+  "The Legendary Boot": {
+    "to": "Legendary Boot"
+  },
+  "The Legion": {
+    "to": "The Hundred Legions"
+  },
+  "The Lord Regent's Quest": {
+    "to": "Etris",
+    "fragment": "The Lord Regent's Quest"
+  },
+  "The Moonseye": {
+    "to": "Moonseye"
+  },
+  "The Nightsea": {
+    "to": "Nightsea"
+  },
+  "The No Life King's Crown": {
+    "to": "The No-Life King's Crown"
+  },
+  "The Rumbling": {
+    "to": "The Great Sharko Rumbling"
+  },
+  "The Saints": {
+    "to": "The Five Heroes"
+  },
+  "The Song": {
+    "to": "Glossary",
+    "fragment": "The Song"
+  },
+  "The Song Of Fathoms (Band Version)": {
+    "to": "Deepwoken OST",
+    "fragment": "The Song Of Fathoms (Band Version)"
+  },
+  "The Soothsayer": {
+    "to": "Soothsayer"
+  },
+  "The Starkindred Faith": {
+    "to": "The Starkindred Church"
+  },
+  "The Stars": {
+    "to": "Stars"
+  },
+  "The Storm That Speaks": {
+    "to": "Deepwoken OST",
+    "fragment": "The Storm That Speaks"
+  },
+  "The Stranger": {
+    "to": "Quiet Stranger"
+  },
+  "The Sun, Gleaming": {
+    "to": "Deepwoken OST",
+    "fragment": "The Sun, Gleaming"
+  },
+  "The Suncross": {
+    "to": "Suncross"
+  },
+  "The Surface": {
+    "to": "Surface"
+  },
+  "The Trappings Of A Lord": {
+    "to": "Deepwoken OST",
+    "fragment": "The Trappings Of A Lord"
+  },
+  "The Trial": {
+    "to": "First Layer"
+  },
+  "The Void Sea": {
+    "to": "Voidsea"
+  },
+  "The Windsinger's Dance": {
+    "to": "Deepwoken OST",
+    "fragment": "The Windsinger's Dance"
+  },
+  "The World Serpent": {
+    "to": "The Doom of Caeranthil"
+  },
+  "Threadwork Summer Scarf": {
+    "to": "Summer Scarf"
+  },
+  "Thresher Bait": {
+    "to": "Monster Bait"
+  },
+  "Thresher Regicide": {
+    "to": "King Thresher"
+  },
+  "Thrill Of The Hunt": {
+    "to": "Deepwoken OST",
+    "fragment": "Thrill Of The Hunt"
+  },
+  "Throw": {
+    "to": "Attunement-less",
+    "fragment": "Throw"
+  },
+  "Thunder Kick": {
+    "to": "Thundercall",
+    "fragment": "Thunder Kick"
+  },
+  "Thunder Wisp": {
+    "to": "Thundercall",
+    "fragment": "Thunder Wisp"
+  },
+  "Thundercaller": {
+    "to": "Thundercall"
+  },
+  "Thundercaller Monk": {
+    "to": "Songseeker Thundercaller"
+  },
+  "Time of day": {
+    "to": "Day-night cycle"
+  },
+  "Title Screen": {
+    "to": "Loading Screen"
+  },
+  "Titus": {
+    "to": "Titus Fulminus Destellus"
+  },
+  "Titus Gauntlets": {
+    "to": "Worldpiercer Gauntlets"
+  },
+  "TitusGaunlets": {
+    "to": "Worldpiercer Gauntlets"
+  },
+  "To Fight, Sanguine": {
+    "to": "Deepwoken OST",
+    "fragment": "To Fight, Sanguine"
+  },
+  "To Shores, Distant": {
+    "to": "Deepwoken OST",
+    "fragment": "To Shores, Distant"
+  },
+  "To Sleep, Dreaming (Contour 1)": {
+    "to": "Deepwoken OST",
+    "fragment": "To Sleep, Dreaming (Contour 1)"
+  },
+  "To Sleep, Dreaming (Contour 2)": {
+    "to": "Deepwoken OST",
+    "fragment": "To Sleep, Dreaming (Contour 2)"
+  },
+  "To Sleep, Dreaming (Contour 3)": {
+    "to": "Deepwoken OST",
+    "fragment": "To Sleep, Dreaming (Contour 3)"
+  },
+  "To Sleep, Dreaming (Contour 4)": {
+    "to": "Deepwoken OST",
+    "fragment": "To Sleep, Dreaming (Contour 4)"
+  },
+  "To Sleep, Layer 2 Bell": {
+    "to": "Deepwoken OST",
+    "fragment": "To Sleep, Layer 2 Bell"
+  },
+  "To1": {
+    "to": "Trial of One"
+  },
+  "Tong of The Law": {
+    "to": "The Long Tong of The Law"
+  },
+  "Tornado": {
+    "to": "Galebreathe",
+    "fragment": "Tornado"
+  },
+  "Tornado Kick": {
+    "to": "Galebreathe",
+    "fragment": "Tornado Kick"
+  },
+  "Tornado Spark": {
+    "to": "Mantra Modifiers",
+    "fragment": "Sparks"
+  },
+  "Torso": {
+    "to": "Equipment",
+    "fragment": "Torso"
+  },
+  "Tourniquet": {
+    "to": "Training Gear",
+    "fragment": "Attunement Training Gears"
+  },
+  "Trahne Zakshun": {
+    "to": "Traan Zakshun"
+  },
+  "Trainers": {
+    "to": "Attunement Trainers"
+  },
+  "Training Items": {
+    "to": "Training Gear"
+  },
+  "Training Vest": {
+    "to": "Training Gear",
+    "fragment": "Attribute Training Gears"
+  },
+  "Trance": {
+    "to": "Prince of the Moon",
+    "fragment": "Trance"
+  },
+  "Tranquil Circle": {
+    "to": "Oath: Blindseer",
+    "fragment": "Tranquil Circle"
+  },
+  "Transaction": {
+    "to": "Traan Zakshun"
+  },
+  "Transmogging": {
+    "to": "Transmogrification"
+  },
+  "Traveler Cloak": {
+    "to": "Traveller's Jacket"
+  },
+  "Traveler's Jacket": {
+    "to": "Traveller's Jacket"
+  },
+  "Trial of the Gourdskipper": {
+    "to": "Widow's Wail Cemetery",
+    "fragment": "Trial of the Gourdskipper"
+  },
+  "Tricksters Scarf": {
+    "to": "Trickster's Scarf"
+  },
+  "Trisha": {
+    "to": "Par's Glaive"
+  },
+  "Trist": {
+    "to": "Captain Trist"
+  },
+  "Triumphs": {
+    "to": "Echoes",
+    "fragment": "Ways of Obtaining Echoes"
+  },
+  "True Daze": {
+    "to": "Status Effects",
+    "fragment": "True Daze"
+  },
+  "True Enmity": {
+    "to": "True Heart of Enmity"
+  },
+  "True Hyperarmor": {
+    "to": "Status Effects",
+    "fragment": "True Hyperarmor"
+  },
+  "True Strength": {
+    "to": "Oath: Bladeharper",
+    "fragment": "True Strength"
+  },
+  "True Vantage": {
+    "to": "Oath: Silentheart",
+    "fragment": "True Vantage"
+  },
+  "Tundra": {
+    "to": "Tundra Spellhardt"
+  },
+  "Twincleave": {
+    "to": "Attunement-less",
+    "fragment": "Twincleave"
+  },
+  "Twinstrikes": {
+    "to": "Attunement-less",
+    "fragment": "Twinstrikes"
+  },
+  "Twisted Puppets": {
+    "to": "Flamecharm",
+    "fragment": "Wraith Path: Twisted Puppets"
+  },
+  "Twister Kicks": {
+    "to": "Galebreathe",
+    "fragment": "Twister Kicks"
+  },
+  "Two-Faced": {
+    "to": "Regalia",
+    "fragment": "Two-Faced"
+  },
+  "Tzaraan": {
+    "to": "Tz'araan"
+  },
+  "UC:Test5": {
+    "to": "User:Chemerone/Test4",
+    "fragment": "Real Content 5"
+  },
+  "UGC": {
+    "to": "Deepwoken UGC"
+  },
+  "Umbral Candle": {
+    "to": "Candle"
+  },
+  "Umbral Flint": {
+    "to": "Flint"
+  },
+  "Umbral Slash": {
+    "to": "Shadowcast",
+    "fragment": "Umbral Slash"
+  },
+  "Umbrite": {
+    "to": "Ores",
+    "fragment": "Umbrite"
+  },
+  "Umbrite Bullet": {
+    "to": "Bullet Casings",
+    "fragment": "Umbrite"
+  },
+  "Unbidden": {
+    "to": "Curse of the Unbidden"
+  },
+  "Unbound": {
+    "to": "Attributes Unbound"
+  },
+  "Understrand": {
+    "to": "The Understrand"
+  },
+  "Union Pager": {
+    "to": "Ignition Delver"
+  },
+  "Unknown Three": {
+    "to": "Carbuncle"
+  },
+  "Unmatched Dexterity": {
+    "to": "Oath: Silentheart",
+    "fragment": "Unmatched Dexterity"
+  },
+  "Unparryable": {
+    "to": "Combat Mechanics",
+    "fragment": "Telegraphed Attacks"
+  },
+  "Unparryable Attacks": {
+    "to": "Combat Mechanics",
+    "fragment": "Telegraphed Attacks"
+  },
+  "Unsheathed Purple Cloud": {
+    "to": "Purple Cloud"
+  },
+  "Untouchable": {
+    "to": "Oath: Bladeharper",
+    "fragment": "Untouchable"
+  },
+  "Update log": {
+    "to": "Version History/2026"
+  },
+  "Updraft": {
+    "to": "Galebreathe",
+    "fragment": "Updraft"
+  },
+  "VOI": {
+    "to": "Vow of Iron"
+  },
+  "Vacant": {
+    "to": "Boons and Flaws",
+    "fragment": "Flaws"
+  },
+  "Valley of Heroes": {
+    "to": "The Valley of Heroes"
+  },
+  "Vanguard Legidae": {
+    "to": "Grandmaster Vanguard Legidae"
+  },
+  "Vanguard Path": {
+    "to": "Justicar (Origin)",
+    "fragment": "Vanguard Path"
+  },
+  "Vegetarian": {
+    "to": "Boons and Flaws",
+    "fragment": "Vegetarian"
+  },
+  "Vein Tendrils": {
+    "to": "Bloodrend",
+    "fragment": "Vein Tendrils"
+  },
+  "Veinbreaker": {
+    "to": "Bloodrend",
+    "fragment": "Veinbreaker"
+  },
+  "Vend": {
+    "to": "Emar Vend"
+  },
+  "Vengeful Pursuit": {
+    "to": "Oath: Silentheart",
+    "fragment": "Vengeful Pursuit"
+  },
+  "Vent": {
+    "to": "Combat Mechanics",
+    "fragment": "Tempo"
+  },
+  "Verse One": {
+    "to": "Verse 1"
+  },
+  "Verse Three": {
+    "to": "Verse 3"
+  },
+  "Verse Two": {
+    "to": "Verse 2"
+  },
+  "Version History": {
+    "to": "Version History/2026"
+  },
+  "Version History/2021": {
+    "to": "Version History/2022-2021"
+  },
+  "Version History/2022": {
+    "to": "Version History/2022-2021"
+  },
+  "Vibrant Gem": {
+    "to": "Mantra Modifiers",
+    "fragment": "Regular Modifiers"
+  },
+  "Vice Warden": {
+    "to": "Vice-Warden"
+  },
+  "Vice Warden Morreth": {
+    "to": "Vice Warden Morredh"
+  },
+  "Vicious Descent": {
+    "to": "Bloodrend",
+    "fragment": "Vicious Descent"
+  },
+  "VigilCloak": {
+    "to": "Cloak of Winds"
+  },
+  "Viper's Jaw": {
+    "to": "The Viper's Jaw"
+  },
+  "Viscous Descent": {
+    "to": "Bloodrend",
+    "fragment": "Vicious Descent"
+  },
+  "Visions": {
+    "to": "Deepwoken OST",
+    "fragment": "Visions"
+  },
+  "Visionshaper": {
+    "to": "Oath: Visionshaper"
+  },
+  "Vitality": {
+    "to": "Traits",
+    "fragment": "Vitality"
+  },
+  "Void": {
+    "to": "Curse of Void"
+  },
+  "Void Feather": {
+    "to": "Dark Feather",
+    "fragment": "Void Feather"
+  },
+  "Void Thresher": {
+    "to": "Thresher"
+  },
+  "Void Zones": {
+    "to": "Voidzones"
+  },
+  "Voideye": {
+    "to": "Voidwalker",
+    "fragment": "Voideye"
+  },
+  "Voidmother": {
+    "to": "The Voidmother"
+  },
+  "Voidscarred Thresher": {
+    "to": "Thresher"
+  },
+  "Voidzone": {
+    "to": "Voidzones"
+  },
+  "Voltspark": {
+    "to": "Authority Voltspark Mask"
+  },
+  "Vow of Allegiance": {
+    "to": "Combat Mechanics",
+    "fragment": "Alliances"
+  },
+  "Vow of Safekeeping": {
+    "to": "Item Bank"
+  },
+  "Vyrelda": {
+    "to": "Vyrelda, Master of Blood"
+  },
+  "W Rank": {
+    "to": "Echoes"
+  },
+  "WEP": {
+    "to": "Attributes",
+    "fragment": "Weapon Attributes"
+  },
+  "WLL": {
+    "to": "Attributes",
+    "fragment": "WLL"
+  },
+  "WND": {
+    "to": "Attributes",
+    "fragment": "WND"
+  },
+  "War": {
+    "to": "War Mode"
+  },
+  "Warden's Blades": {
+    "to": "Frostdraw",
+    "fragment": "Warden's Blades"
+  },
+  "Wardens Of The Valiant Dead": {
+    "to": "Deepwoken OST",
+    "fragment": "Wardens Of The Valiant Dead"
+  },
+  "Warder Path": {
+    "to": "Justicar (Origin)",
+    "fragment": "Warder Path"
+  },
+  "Warp Kick": {
+    "to": "Oath: Blightsurger",
+    "fragment": "Warp Kick"
+  },
+  "Weapon": {
+    "to": "Weapons"
+  },
+  "Weapon Unbound": {
+    "to": "Attributes Unbound",
+    "fragment": "Weapon Proficiency Unbound"
+  },
+  "Weaponry": {
+    "to": "Weapons"
+  },
+  "Weather": {
+    "to": "Environmental Hazards"
+  },
+  "Weaving Web": {
+    "to": "The Weaving Web"
+  },
+  "Well": {
+    "to": "Water Well"
+  },
+  "Western Luminant": {
+    "to": "Luminants",
+    "fragment": "Western Luminant"
+  },
+  "Whaler": {
+    "to": "Knife of Eylis"
+  },
+  "What Mends Shall Fray": {
+    "to": "Deepwoken OST",
+    "fragment": "What Mends Shall Fray"
+  },
+  "Wheat": {
+    "to": "Gathered Wheat"
+  },
+  "Whirling Blade": {
+    "to": "Monster Mantras",
+    "fragment": "Whirling Blade"
+  },
+  "Whisper Rolls": {
+    "to": "Whisper Draw"
+  },
+  "Whisperwind": {
+    "to": "Deepwoken OST",
+    "fragment": "Whisperwind"
+  },
+  "White Orb": {
+    "to": "Soul Orb"
+  },
+  "White Traveler Cloak": {
+    "to": "Traveller's Jacket"
+  },
+  "Willpower": {
+    "to": "Attributes",
+    "fragment": "WLL"
+  },
+  "Wind (hazard)": {
+    "to": "Second Layer/The Ethironal Shrine",
+    "fragment": "Wind"
+  },
+  "Wind Amulet": {
+    "to": "Whistling Periapt"
+  },
+  "Wind Blade": {
+    "to": "Galebreathe",
+    "fragment": "Wind Blade"
+  },
+  "Wind Carve": {
+    "to": "Galebreathe",
+    "fragment": "Wind Carve"
+  },
+  "Wind Forge": {
+    "to": "Galebreathe",
+    "fragment": "Wind Forge"
+  },
+  "Wind Gate": {
+    "to": "Sea Highway"
+  },
+  "Wind Gun": {
+    "to": "Galebreathe",
+    "fragment": "Wind Gun"
+  },
+  "Wind Passage": {
+    "to": "Galebreathe",
+    "fragment": "Wind Passage"
+  },
+  "Wind Up": {
+    "to": "Wind-Up"
+  },
+  "Wind Vortex": {
+    "to": "Inheritor of the Gale",
+    "fragment": "Wind Vortex"
+  },
+  "Winded": {
+    "to": "Status Effects",
+    "fragment": "Winded"
+  },
+  "Windfall": {
+    "to": "Theros Disciple",
+    "fragment": "Windfall"
+  },
+  "Windup": {
+    "to": "Wind-Up"
+  },
+  "Windwaker": {
+    "to": "Stratos",
+    "fragment": "Windwaker Quest"
+  },
+  "Wings": {
+    "to": "Oath: Starkindred",
+    "fragment": "Wings"
+  },
+  "Winter": {
+    "to": "Seasons",
+    "fragment": "Winter"
+  },
+  "Wishbound": {
+    "to": "Boons and Flaws",
+    "fragment": "Flaws"
+  },
+  "Wishes": {
+    "to": "Shrine of Yun'Shul, Keeper of Hearts",
+    "fragment": "Wishes"
+  },
+  "Wither": {
+    "to": "Status Effects",
+    "fragment": "Wither"
+  },
+  "World Boss": {
+    "to": "Bosses",
+    "fragment": "World Bosses"
+  },
+  "World Serpent": {
+    "to": "The Doom of Caeranthil"
+  },
+  "Worn Songbook": {
+    "to": "Instruments",
+    "fragment": "Worn Songbook"
+  },
+  "Worthy": {
+    "to": "Regalia",
+    "fragment": "johg"
+  },
+  "Wraith Path: Twisted Puppets": {
+    "to": "Flamecharm",
+    "fragment": "Wraith Path: Twisted Puppets"
+  },
+  "Yellow Toffee": {
+    "to": "Toffee"
+  },
+  "Yi Anako": {
+    "to": "Sachan Yi Anako"
+  },
+  "Yoru": {
+    "to": "Portals"
+  },
+  "Ysley's Ember": {
+    "to": "Curse of Ysley's Ember"
+  },
+  "Yun'Shul": {
+    "to": "Yun'Shul, Keeper of Hearts"
+  },
+  "Yun'Shul (enchantment)": {
+    "to": "Curse of Yun'Shul"
+  },
+  "Yun'Shul Wishes": {
+    "to": "Shrine of Yun'Shul, Keeper of Hearts",
+    "fragment": "Wishes"
+  },
+  "Zapshroom Costume": {
+    "to": "Mushroom Costume"
+  },
+  "Zaru Ganba": {
+    "to": "Sachan Zaru Ganba"
+  },
+  "Zephyr Lotus": {
+    "to": "Primordial Lotuses",
+    "fragment": "Zephyr Lotus"
+  },
+  "Zi'eer": {
+    "to": "The Lord Regent"
+  }
+}

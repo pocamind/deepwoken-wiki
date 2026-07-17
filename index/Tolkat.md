@@ -25,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Tolkat is a [Canor](Canor.md) NPC who can unbound the player's [Strength](Strength.md). Being a muscular Canor, he was given a job by '[Boss man](Boss_man.md)' to push a [Boulder](Boulder.md) up a hill, though he struggles. With (75) Strength, the player can punch the boulder straight up the hill.
+Tolkat is a [Canor](Canor.md) NPC who can unbound the player's [Strength](Attributes.md#str). Being a muscular Canor, he was given a job by '[Boss man](Boss_man.md)' to push a [Boulder](Training_Gear.md#attribute-training-gears) up a hill, though he struggles. With (75) Strength, the player can punch the boulder straight up the hill.
 
 ## Location
 

@@ -28,7 +28,7 @@ notices:
 
 ― Orlandeau to his crew
 
-In 1271[\[1\]](#cite-note-year-1)[\[2\]](#cite-note-trenti-2) a [Central Authority](The_Central_Authority.md) vessel attacked the ship of the [Rotten Lot](Rotten_Lot.md), '[The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>)' in the [Eastern Luminant](Eastern_Luminant.md).
+In 1271[\[1\]](#cite-note-year-1)[\[2\]](#cite-note-trenti-2) a [Central Authority](The_Central_Authority.md) vessel attacked the ship of the [Rotten Lot](Rotten_Lot.md), '[The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>)' in the [Eastern Luminant](Luminants.md).
 
 ## Prelude
 
@@ -42,7 +42,7 @@ Eventually, the Authority vessel approached 'The Scoundrel's Bounty', announcing
 
 Among the Rotten Lot, only the Pathfinder survived, and they were taken in by residents of Etrea, returning to full health a week after the attack.[\[2\]](#cite-note-trenti-2)
 
-The crew's deaths saw them sent to [The Depths](The_Depths.md). Only Orlandeau was accounted for, and he navigated to a [Diver stronghold](Castle_Light.md) shortly after. He was later sent to [New Kyrsa, The Sleeping City](New_Kyrsa,_The_Sleeping_City.md) after offending [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md).[\[3\]](#cite-note-orlandeau-3)
+The crew's deaths saw them sent to [The Depths](The_Depths.md). Only Orlandeau was accounted for, and he navigated to a [Diver stronghold](Castle_Light.md) shortly after. He was later sent to [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) after offending [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md).[\[3\]](#cite-note-orlandeau-3)
 
 ## References
 

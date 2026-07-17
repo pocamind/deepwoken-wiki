@@ -379,7 +379,7 @@ Jump
 ## Trivia
 
 -   Zi'eer is voiced by Deepwoken Content Creator [demstormz](https://www.youtube.com/@demstormz).
-    -   Additionally, he provides the voice for [Chaser](Chaser.md) and [The Ferryman](The_Ferryman.md).
+    -   Additionally, he provides the voice for [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and [The Ferryman](The_Ferryman.md).
 -   After the Inheritor's first encounter with Zi'eer, the Fragments of Else seems to be dimmed and contain less particle effects than normal. _\[citation needed\]_
 -   The Reclaimer of the Recollection has different dialogue depending on whether the Inheritor lost or won against Zi'eer:
     -   If the Inheritor lost: The Reclaimer will inform the Inheritor their memento, and many other, ended with Zi'eer; nobody was capable of killing him. However, The Reclaimer thinks there's still a way to defeat him, undiscovered.

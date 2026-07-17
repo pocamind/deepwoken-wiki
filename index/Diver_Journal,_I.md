@@ -12,7 +12,7 @@ notices:
 
 ## Description
 
-_**Diver Journal, I**_ was a [Book](Book.md) found in the first floor of the [Second Layer](Second_Layer.md). It was changed to [Diver's Journal: Apprentice Azel](<Diver's_Journal%253A_Apprentice_Azel.md>).
+_**Diver Journal, I**_ was a [Book](Books.md) found in the first floor of the [Second Layer](Second_Layer.md). It was changed to [Diver's Journal: Apprentice Azel](<Diver's_Journal%253A_Apprentice_Azel.md>).
 
 ## Text
 
@@ -31,5 +31,5 @@ Diver Journal, I
 
 ## Appearances
 
--   [Azel Corbet](Azel_Corbet.md)
+-   [Azel Corbet](<Mauled_Diver_Corpse_(Apprentice_Azel).md>)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) (Mentioned only)

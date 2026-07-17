@@ -18,7 +18,7 @@ categories: [Enchantments, Equipment Enchantments]
 
 ## Description
 
-Adhesive is an equipment [enchantment](Enchantment.md) that pulls your attacker towards you on proc.
+Adhesive is an equipment [enchantment](Enchantments.md) that pulls your attacker towards you on proc.
 
 ## Effect
 

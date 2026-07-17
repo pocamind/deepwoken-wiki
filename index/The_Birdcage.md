@@ -18,11 +18,11 @@ Now abandoned, the floors still void of the ashes they so desparately crave.
 
   
 
-**The Birdcage** is a [location](Locations.md) found in _Deepwoken_. It is a landmark found in [Upper Erisia](Upper_Erisia.md) and is not owned by a faction.
+**The Birdcage** is a location found in _Deepwoken_. It is a landmark found in [Upper Erisia](Upper_Erisia.md) and is not owned by a faction.
 
 ## Overview
 
-The Birdcage resembles a lighthouse-like structure. It is on the furthest bottom right side the Erisia island, to the direct south south-east of the [Temple of the Forgotten Flame](Temple_of_the_Forgotten_Flame.md).
+The Birdcage resembles a lighthouse-like structure. It is on the furthest bottom right side the Erisia island, to the direct south south-east of the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
 
 Inside the Birdcage, there are four firepits that can only be lit with a [Soul Hearthgem](Soul_Hearthgem.md). You can interact with the firepits when you have the item equipped, and have to light the pits in a specific order.
 

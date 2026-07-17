@@ -31,7 +31,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-**Titus Fulminus Destellus** is an instanced [Boss](Bosses.md) fought and contained at the [Merit Detainment Core](Merit_Detainment_Core.md) within the [Eastern Luminant's](Map%253AEastern_Luminant.md) [Fort Merit](Fort_Merit.md). He was the commander of the [49th Legion](49th_Legion.md) and a user of the [Blightsurger](Blightsurger.md) [Oath](Oath.md) before being captured by [The Central Authority](The_Central_Authority.md) for the sake of strategy.[\[1\]](#cite-note-1)
+**Titus Fulminus Destellus** is an instanced [Boss](Bosses.md) fought and contained at the [Merit Detainment Core](Merit_Detainment_Core.md) within the Eastern Luminant's [Fort Merit](Fort_Merit.md). He was the commander of the [49th Legion](The_Hundred_Legions.md) and a user of the [Blightsurger](Oath%253A_Blightsurger.md) [Oath](Oaths.md) before being captured by [The Central Authority](The_Central_Authority.md) for the sake of strategy.[\[1\]](#cite-note-1)
 
 A Khan with great stature, he's around twice the height of the player. He has darkened yellow eyes and wrinkles across his face, signifying his older age. Titus wields the [Worldpiercer Gauntlets](Worldpiercer_Gauntlets.md) and wears the [Titus's Raiment](<Titus's_Raiment.md>) with his [Titus's Cape](<Titus's_Cape.md>). He also carries a bell on his hip, signifying that he is strong enough to have obtained a [Resonance](Resonance.md).
 
@@ -403,7 +403,7 @@ This dialogue is unlocked if the player meets the requirements for [Oath: Blight
     -   And of course, "Titus Juventius" is somewhat close to what an actual Latin name could be, signifying "Titus the young (adult)," but the more classically accurate name would be "Titus Iuvenis" or "Juvenis", given that it is an alternate spelling of the former.
 -   Titus uses a unique variant of the [Chorus Divide](Chorus_Divide.md) [Resonance](Resonance.md), which is combined with [Wind-Up's](Wind-Up.md) blasts per hit.
 -   The placeholder name "Franky Strabes" will appear on Titus' combat tag.
--   The theme that plays during his fight is [Chainbreaker](Chainbreaker.md).
+-   The theme that plays during his fight is [Chainbreaker](Deepwoken_OST.md#chainbreaker).
 -   It is implied that Titus uses both [Galebreathe](Galebreathe.md) and [Thundercall](Thundercall.md) due to the variant of his [Chorus Divide](Chorus_Divide.md) being Galebreathe as well with [High Inquisitor Merey](High_Inquisitor_Merey.md) stating that shocking him with Thundercall only makes him stronger.[\[2\]](#cite-note-sres-2)
 -   Strangely enough, unlike other bosses, Titus does not drop [Pluripotent Alloy](Pluripotent_Alloy.md) nor [Ardour Manifestation](Ardour_Manifestation.md) and doesn't count in the bestiary.
     -   This is because Titus does not actually die nor despawn when you defeat him most of the time. If you do manage to autogrip him however, he will appropriately grant these rewards.

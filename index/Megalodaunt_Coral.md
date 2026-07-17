@@ -23,4 +23,4 @@ categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
 
 ## Description
 
-The **Megalodaunt Coral** is used to gain the [Coral Spear](Coral_Spear.md) [Monster Mantra](Monster_Mantras.md) from [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) in [Castle Light](Castle_Light.md) after he has been interacted with in [Floor 2](Second_Layer/New_Kyrsa.md) of the [Second Layer](Second_Layer.md). It is obtained as rare drop from any [Megalodaunt](Megalodaunt.md) variant.
+The **Megalodaunt Coral** is used to gain the [Coral Spear](Monster_Mantras.md#coral-spear) [Monster Mantra](Monster_Mantras.md) from [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) in [Castle Light](Castle_Light.md) after he has been interacted with in [Floor 2](Second_Layer/New_Kyrsa.md) of the [Second Layer](Second_Layer.md). It is obtained as rare drop from any [Megalodaunt](Megalodaunt.md) variant.

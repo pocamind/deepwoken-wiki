@@ -18,11 +18,11 @@ The sunken remnants of a lost civilization give little respite to the transitory
 
   
 
-**The City of the Drowned** (also known as The Drowned City of Celtor) is a [location](Locations.md) in _Deepwoken_. It is a landmark of the [Celtor Wastes](Celtor_Wastes.md) and what remains of the [City of Celtor](City_of_Celtor.md).
+**The City of the Drowned** (also known as The Drowned City of Celtor) is a location in _Deepwoken_. It is a landmark of the [Celtor Wastes](Celtor_Wastes.md) and what remains of the [City of Celtor](City_of_Celtor.md).
 
 ## Overview
 
-The main city at the center of [The Depths](The_Depths.md) housing two main districts, the District of Commerce and Varicosa District. The city also houses a way to leave the depths, with the only other being [Yun'Shul](<Yun'Shul.md>), through the elevator in the Cathedral of Interstice at the center.
+The main city at the center of [The Depths](The_Depths.md) housing two main districts, the District of Commerce and Varicosa District. The city also houses a way to leave the depths, with the only other being [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>), through the elevator in the Cathedral of Interstice at the center.
 
 The City of the Drowned is composed of large circular walls over a city, guarded by Celtor soldiers. There are a couple gates in the walls, guarded by two Celtor guards each.
 

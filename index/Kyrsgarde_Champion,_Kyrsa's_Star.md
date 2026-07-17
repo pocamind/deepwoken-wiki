@@ -28,7 +28,7 @@ This content is not accessible outside of this gamemode.
 
 Raeva Ferash Kenestos, the Kyrsgarde Champion, is a boss located in [New Kyrsa](Second_Layer/New_Kyrsa.md). He is a muscular white-coil Kyrsan donning uniquely colored armor, alongside a black cape that ends with a purple gradient. An immensely powerful and skilled Kyrsgarde, he wields a large, pale glaive that bears [Moonseye](Moonseye.md) motifs, which is highly capable of utilizing frost.
 
-According to [his manifesto](Words_of_Light.md), he served for New Kyrsa even during the [raid on Constellia](Constellia.md), who was gravely aware of the mass killings that took place. Amongst the ruins of Constellia, he discovered an essence of Light that was the Celestial [Raeva](<Raeva_(Celestial).md>), breaking him free [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>)'s control and ultimately having a goal of destroying the latter and his Scion for the Heavens and New Kyrsa.
+According to [his manifesto](Words_of_Light.md), he served for New Kyrsa even during the [raid on Constellia](Constellia.md), who was gravely aware of the mass killings that took place. Amongst the ruins of Constellia, he discovered an essence of Light that was the Celestial [Raeva](Glossary.md#raeva), breaking him free [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>)'s control and ultimately having a goal of destroying the latter and his Scion for the Heavens and New Kyrsa.
 
 He can be encountered after achieving the following requirements:
 

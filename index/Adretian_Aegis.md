@@ -32,7 +32,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Adretian Aegis is a blue and gold mid-game shield that bears the emblem of [The Central Authority](The_Central_Authority.md). It is sold in [Armorer Kev](Armorer_Kev.md)'s armory in [Fort Merit](Fort_Merit.md) for 100, however it is only purchasable if you have the [Authority Ensign](Authority_Ensign.md) [Origin](Origin.md). Depending on what division the player chooses as an Authority Ensign, the shield will change colors:
+Adretian Aegis is a blue and gold mid-game shield that bears the emblem of [The Central Authority](The_Central_Authority.md). It is sold in [Armorer Kev](Armourer_Kev.md)'s armory in [Fort Merit](Fort_Merit.md) for 100, however it is only purchasable if you have the [Authority Ensign](Authority_Ensign.md) [Origin](Origins.md). Depending on what division the player chooses as an Authority Ensign, the shield will change colors:
 
 -   Inquisition = The blue becomes black
 -   Command = The gold edges of your shield become grey

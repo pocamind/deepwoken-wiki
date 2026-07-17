@@ -48,11 +48,11 @@ It is crafted within [The Cold Forge](The_Cold_Forge.md) with:
 
 -   [Dormant Splinter](Dormant_Splinter.md)
 -   [Razor Cutlass](Razor_Cutlass.md)
--   3 [Umbrite](Umbrite.md) or 1 [Pure Umbrite](Pure_Umbrite.md)
+-   3 [Umbrite](Ores.md#umbrite) or 1 [Pure Umbrite](Ores.md#umbrite)
 
 ## Critical
 
-The user gains a purple sigil on their head and aura around them with brief hyperarmor, then does 2 swift slashes with the second knocking back the target, applying [bleed](Bleed.md). The windup of the first slash is 0.6s, and the windup of the second slash is 0.475s. There is 0.2s of endlag after the critical attack.
+The user gains a purple sigil on their head and aura around them with brief hyperarmor, then does 2 swift slashes with the second knocking back the target, applying [bleed](Status_Effects.md#bleed). The windup of the first slash is 0.6s, and the windup of the second slash is 0.475s. There is 0.2s of endlag after the critical attack.
 
 The first hit has 0.2s of Hyperarmor and deals **0.35x** scaled damage, applies **20 Wither** regardless of scaling and damage modifiers. The first slash also applies 10s of full Antiheal, dazes for 1 second, and deals 10 posture damage with 45% chip.
 

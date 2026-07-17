@@ -16,7 +16,7 @@ The inconspicuous Deep Crucible, awaiting the flames of a Forge
 
 ## Description
 
-The Deep Crucible is an event that can be started at the front of [The Hidden Village](The_Hidden_Village.md) if a player places an [Artifact](Artifact.md) inside of the brazier. Upon starting the event, "waves" of mobs will spawn one by one from white orbs that shoot out of the brazier, landing on the last location the player was standing on before shooting the orb. Orbs will continuously shoot out and spawn mobs, regardless if there are many already present. Additionally, if multiple players are present when the artifact is placed, the Deep Crucible will spawn an additional mob per wave. The Deep Crucible ends after twenty mobs (per person) have been slain.
+The Deep Crucible is an event that can be started at the front of [The Hidden Village](The_Hidden_Village.md) if a player places an [Artifact](Artifacts.md) inside of the brazier. Upon starting the event, "waves" of mobs will spawn one by one from white orbs that shoot out of the brazier, landing on the last location the player was standing on before shooting the orb. Orbs will continuously shoot out and spawn mobs, regardless if there are many already present. Additionally, if multiple players are present when the artifact is placed, the Deep Crucible will spawn an additional mob per wave. The Deep Crucible ends after twenty mobs (per person) have been slain.
 
 ## Rewards
 

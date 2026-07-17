@@ -45,7 +45,7 @@ The player is tasked with collecting [Forgotten Villagers](Forgotten_Villager.md
 
 **Legacy:**
 
-Originally, Alastir was a Royal Pathfinder in service to [Duke Erisia](Duke_Erisia.md) who eventually recognized his master's insanity and tried to stop him and even possessed a [Hero's Blade of Lightning](<Hero's_Blade_of_Lightning.md>). This was later retconned into him simply having been a pathfinder who was unfortunate enough to be passing through, due to his claims and associated plot threads contradicting later developments.
+Originally, Alastir was a Royal Pathfinder in service to [Duke Erisia](Duke_Ishamon_Erisia.md) who eventually recognized his master's insanity and tried to stop him and even possessed a [Hero's Blade of Lightning](<Hero's_Blade_of_Lightning.md>). This was later retconned into him simply having been a pathfinder who was unfortunate enough to be passing through, due to his claims and associated plot threads contradicting later developments.
 
 **First Encounter:**
 

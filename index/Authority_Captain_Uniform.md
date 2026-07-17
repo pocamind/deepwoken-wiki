@@ -24,7 +24,7 @@ categories: [Outfits, Expert Outfits, Outfits of The Central Authority]
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Authority Captain Uniform** is an Expert [Outfit](Outfit.md) in _Deepwoken._ This Outfit is exclusive to the [Authority Ensign](Authority_Ensign.md) Origin.
+**Authority Captain Uniform** is an Expert [Outfit](Outfits.md) in _Deepwoken._ This Outfit is exclusive to the [Authority Ensign](Authority_Ensign.md) Origin.
 
 ## Statistics
 
@@ -32,13 +32,13 @@ categories: [Outfits, Expert Outfits, Outfits of The Central Authority]
 
 This Outfit costs 500 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), one (1) [Dark Feather](Dark_Feather.md) and one (1) [Lionfish Scale](Lionfish_Scale.md) to craft.
 
-This Outfit additionally requires the player to be at least [Power](Power.md) 10 and to have at least 25 [Strength](Strength.md). This Outfit **cannot** be crafted unless you are an [Authority Ensign](Authority_Ensign.md).
+This Outfit additionally requires the player to be at least [Power](Power.md) 10 and to have at least 25 [Strength](Attributes.md#str). This Outfit **cannot** be crafted unless you are an [Authority Ensign](Authority_Ensign.md).
 
 Alternatively, joining the Command Division of the [Authority Ensign](Authority_Ensign.md) Origin will grant it for free, ignoring all requirements.
 
 ### _Armor Stats_
 
-This Outfit has 2000 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash and +25% Elemental resistance [ResistanceElemental](Attunement.md).
+This Outfit has 2000 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash and +25% Elemental resistance [ResistanceElemental](Attunements.md).
 
 ## Trivia
 

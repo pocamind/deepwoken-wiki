@@ -25,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Akira is an [Etrean](Etrean.md) [NPC](NPC.md).
+Akira is an [Etrean](Etrean.md) NPC.
 
 Akira is one of the strongest Black Divers in modern history, on the same tier as [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).[\[1\]](#cite-note-1)
 
@@ -41,7 +41,7 @@ He has a [Katana](Katana.md) behind his back and a [Corrupted Bell](Resonance.md
 
 Akira is first found in the [Celtor Wastes](Celtor_Wastes.md), protecting an area for a Divers Research division which can be found facing the flat gate and following the wall right until you reach a decrepit castle. He spawns in an event that isn't guaranteed, meaning you may need to server hop to meet him.
 
-You meet him a second time after completing the event and accepting the challenge to meet him at [Castle Light](Castle_Light.md). Upon arrival he is on the second floor of the castle. He gives you the option to [unbound](Attributes_Unbound.md) your [Willpower](Willpower.md), and the choice to join [the Divers](The_Divers.md), but warns that it is an extremely dangerous job.
+You meet him a second time after completing the event and accepting the challenge to meet him at [Castle Light](Castle_Light.md). Upon arrival he is on the second floor of the castle. He gives you the option to [unbound](Attributes_Unbound.md) your [Willpower](Attributes.md#wll), and the choice to join [the Divers](The_Divers.md), but warns that it is an extremely dangerous job.
 
 ## Akira vs. Ignition Union Event
 

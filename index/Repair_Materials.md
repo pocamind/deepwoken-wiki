@@ -19,7 +19,7 @@ categories: [Tools]
 | desc | Various supplies useful for repairing ships. |
 | obtainment | Crafted with the following materials:, Wood, Stick x3, Beeswax x2, Fiber x5, Iron (for 2 Repair Materials), Pure Iron (for 6 Repair Materials) |
 
-**Repair Materials** are a utility item that is used to recover the health of damaged [boats](Boats.md).
+**Repair Materials** are a utility item that is used to recover the health of damaged [boats](Ships_&_Sailing.md).
 
 ## Usage
 

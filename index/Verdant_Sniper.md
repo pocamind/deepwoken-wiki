@@ -24,19 +24,19 @@ categories: [Outfits, Expert Outfits]
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Verdant Sniper** is an Expert [Outfit](Outfit.md) in _Deepwoken_.
+**Verdant Sniper** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 100 and requires ten (10) [Cloth](Cloth.md), two (2) [Megalodaunt Hides](Megalodaunt_Hide.md) and two (2) [Vibrant Gems](Vibrant_Gem.md) to craft.
+This Outfit costs 100 and requires ten (10) [Cloth](Cloth.md), two (2) [Megalodaunt Hides](Megalodaunt_Hide.md) and two (2) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 10 to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +20% Elemental resistance [ResistanceElemental](Attunement.md), and +10% Wind resistance [ResistanceGalebreathe](Galebreathe.md).
+This Outfit has 1500 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +20% Elemental resistance [ResistanceElemental](Attunements.md), and +10% Wind resistance [ResistanceGalebreathe](Galebreathe.md).
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistanceBlunt ResistanceSlash, 28% Galebreathe [ResistanceGalebreathe](Galebreathe.md), and 20% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
@@ -47,4 +47,4 @@ This Outfit has 1500 durability and grants +25% Physical resistance ResistanceBl
 -   This armor and it's description is a direct reference to [Shinon](https://fireemblemwiki.org/wiki/Shinon) from Fire Emblem: Path of Radiance, with the original being near identical to his outfit.
 -   **Current** verdant sniper is an outfit made by **KAHAEL**.
 -   Frank F'alzone in the [tutorial](Tutorial.md) uses this outfit.
--   [Plath](Plath.md) wears this outfit, alongside [Cerulean](Cerulean.md) and all of the [Oathless](Oathless.md) wanderers.
+-   [Plath](Plath.md) wears this outfit, alongside [Cerulean](Cerulean.md) and all of the [Oathless](Oath%253A_Oathless.md) wanderers.

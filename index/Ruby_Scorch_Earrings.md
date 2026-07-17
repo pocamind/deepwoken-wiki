@@ -34,4 +34,4 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 **Ruby Scorch Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category.
 
-The [Smouldering Touch](Talents.md#smouldering-touch) Talent applies [burn](Burn.md) to your opponent when you guardbreak them.
+The [Smouldering Touch](Talents.md#smouldering-touch) Talent applies [burn](Status_Effects.md#burn) to your opponent when you guardbreak them.

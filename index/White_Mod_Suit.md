@@ -22,7 +22,7 @@ notices:
 | selling_price | 10 |
 | weight | 1 |
 
-**White Mod Suit** is a Unique (Spec/Mod) [Outfit](Outfit.md) in _Deepwoken_.
+**White Mod Suit** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

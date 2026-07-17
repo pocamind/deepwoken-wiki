@@ -24,13 +24,13 @@ categories: [Outfits, Adept Outfits, Etrea, Outfits with Talents, Outfits with E
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Vigil Initiate** is an Adept [Outfit](Outfit.md) in _Deepwoken_
+**Vigil Initiate** is an Adept [Outfit](Outfits.md) in _Deepwoken_
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit requires five (5) [Cloth](Cloth.md), one (1) [Erisore](Erisore.md) five (5) [Fiber](Fiber.md), and four (4) [Iron](Iron.md) to craft.
+This Outfit requires five (5) [Cloth](Cloth.md), one (1) [Erisore](Ores.md#erisore) five (5) [Fiber](Fiber.md), and four (4) [Iron](Ores.md#iron) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 5 to be crafted.
 
@@ -40,7 +40,7 @@ This Outfit has 1200 durability, grants +20% Physical resistance ResistanceBlunt
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28% Blunt ResistanceBlunt and 20% Slash ResistanceSlash.
 
-The [Paired Soul](Talents.md#paired-soul) Talent increases the damage of the base [Katana](Katana.md) by 25%. This also increases the damage of the [Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Alloyed_Katana.md), and [Purple Cloud](Purple_Cloud.md) by 5%.
+The [Paired Soul](Talents.md#paired-soul) Talent increases the damage of the base [Katana](Katana.md) by 25%. This also increases the damage of the [Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md), and [Purple Cloud](Purple_Cloud.md) by 5%.
 
 ## Trivia/Notes
 

@@ -22,7 +22,7 @@ E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 
-Ehkusa was the main character of of [Lament of Cirryn](Lament_of_Cirryn.md). With the [book](Book.md)'s removal from the game, Ehkusa is no longer referenced within _[Deepwoken](<Deepwoken_(game).md>)_.
+Ehkusa was the main character of of [Lament of Cirryn](Lament_of_Cirryn.md). With the [book](Books.md)'s removal from the game, Ehkusa is no longer referenced within _[Deepwoken](<Deepwoken_(game).md>)_.
 
 She was a [Lifeweave](Lifeweave.md) scholar of [The Hive](The_Hive.md), who was sent out on a mission with two other scholars to revive [Cirryn](Cirryn.md) by Hivelord [Ximac Diri](Ximac_Diri.md).[\[1\]](#cite-note-lament-1)
 

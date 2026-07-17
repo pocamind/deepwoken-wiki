@@ -33,4 +33,4 @@ The **Strange Claw** is an item only dropped by [Terrapods](Terrapod.md) which c
 
 ## Trivia
 
--   You can summon [Primadon](Primadon.md) by offering 5 Strange Claws to the campfire.
+-   You can summon [Primadon](Primadon,_Titan_of_the_East.md) by offering 5 Strange Claws to the campfire.

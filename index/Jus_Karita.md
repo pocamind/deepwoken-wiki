@@ -36,7 +36,7 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons, Justicars, Jus Kari
 
 Jus Karita is a taekwondo-like fighting style obtained from [Polis](Polis.md) in [Etris](Etris.md) or as a [Starting Weapon](Character_Creation.md) if previously unlocked. Compared to the other base fighting styles, it has higher scaling, swing speed, range, and a 20% penetration stat.
 
-Jus Karita is unpopular due to it having worse damage compared to the other fighting styles, which also surpass it in swing speed. To make up for it, it has [unique Talents](Talents.md#justicar), slightly more range, and synergizes with its unique Mantras [Karita Leap](Karita_Leap.md), [Karita Divebomb](Karita_Divebomb.md), and [Tacet Drop Kick](Tacet_Drop_Kick.md). In addition, the [Justicar](Justicar.md) armor Talent [The Path, Unveiled](Talents.md#the-path-unveiled) gives it a 10% damage boost, surpassing the other fist style armor Talents in strength.
+Jus Karita is unpopular due to it having worse damage compared to the other fighting styles, which also surpass it in swing speed. To make up for it, it has [unique Talents](Talents.md#justicar), slightly more range, and synergizes with its unique Mantras [Karita Leap](Attunement-less.md#karita-leap), [Karita Divebomb](Attunement-less.md#karita-divebomb), and [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick). In addition, the [Justicar](<Justicar_(Origin).md>) armor Talent [The Path, Unveiled](Talents.md#the-path-unveiled) gives it a 10% damage boost, surpassing the other fist style armor Talents in strength.
 
 Being considered a "Kick Style" rather than a [Fist Style](Fists.md), you **cannot** cycle between it and other fist styles you've obtained, and it will not trigger fist style talents. Jus Karita however, does get its own set of talents dedicated to it.
 
@@ -46,7 +46,7 @@ To obtain Jus Karita, you must first have Power 5 and 40 [Light Weapon](Attribut
 
 Completing this will grant you the Jus Karita Talent which enables you to use the fist style and unlock it for consecutive uses on the Character Creation screen.
 
-Alternatively, the [Justicar](Justicar.md) Origins starts with Jus Karita available to them, regardless of starter weapon choice.
+Alternatively, the [Justicar](<Justicar_(Origin).md>) Origins starts with Jus Karita available to them, regardless of starter weapon choice.
 
 ## Critical
 
@@ -58,9 +58,9 @@ This critical has a **3 second cooldown**.
 
 Jus Karita users gain access to its own unique Mantras, obtained through [Whisper Draws](Whisper_Draw.md). These can help the user maneuver through the kick style's difficulties and weaknesses, possessing three separate Mantras that are effective for comboing.
 
--   [Karita Leap](Karita_Leap.md) is a flying kick, useful as a quick burst option to catch your opponent off-guard. When colliding with a wall, you'll bounce back.
--   [Karita Divebomb](Karita_Divebomb.md) is an attack where you jump into the air and dive down onto your opponent. Its wind-up is heavily reduced upon being used directly after Karita Leap, demonstrating the ability to chain the two mantras together to create a quick combo.
--   [Tacet Drop Kick](Tacet_Drop_Kick.md) requires [Murmur: Tacet](Murmur%253A_Tacet.md) to unlock. It's an overhead, teleporting dropkick used to knockdown opponents and confuse them of your position.
+-   [Karita Leap](Attunement-less.md#karita-leap) is a flying kick, useful as a quick burst option to catch your opponent off-guard. When colliding with a wall, you'll bounce back.
+-   [Karita Divebomb](Attunement-less.md#karita-divebomb) is an attack where you jump into the air and dive down onto your opponent. Its wind-up is heavily reduced upon being used directly after Karita Leap, demonstrating the ability to chain the two mantras together to create a quick combo.
+-   [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick) requires [Murmur: Tacet](Murmur%253A_Tacet.md) to unlock. It's an overhead, teleporting dropkick used to knockdown opponents and confuse them of your position.
 
 For more information on these Mantras, such as their requirements and other in-depth information, visit their pages.
 

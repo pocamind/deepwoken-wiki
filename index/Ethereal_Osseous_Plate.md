@@ -23,11 +23,11 @@ categories: [Craftable, Ingredients, Items]
 
 ## Description
 
-The **Ethereal Osseous Plate** is an item made with a [Dread Serpent's Tooth](<Dread_Serpent's_Tooth.md>), [Ethereal Bone Dust](Ethereal_Bone_Dust.md) and a [Giant Femur](Giant_Femur.md) inside of the [Lost Forge](Lost_Forge.md).
+The **Ethereal Osseous Plate** is an item made with a [Dread Serpent's Tooth](<Dread_Serpent's_Tooth.md>), [Ethereal Bone Dust](Ethereal_Bone_Dust.md) and a [Giant Femur](Giant_Femur.md) inside of the [Lost Forge](Lost_Forge_of_Leiuna.md).
 
 ## Crafting
 
-The Ethereal Osseous Plate can be used to craft into other items with the [Lost Forge](Lost_Forge.md) found at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
+The Ethereal Osseous Plate can be used to craft into other items with the [Lost Forge](Lost_Forge_of_Leiuna.md) found at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
 
 -   [Equipment](Equipment.md):
     -   [The No-Life King's Crown](<The_No-Life_King's_Crown.md>): [Bloodforged Crown](Bloodforged_Crown.md) + 1x Ethereal Osseous Plate + 1x [Necrotic Membrane](Necrotic_Membrane.md)

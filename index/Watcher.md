@@ -20,7 +20,7 @@ categories: [Monsters]
 
 ## Description
 
-Watchers are environmental hazards that have a lamp-like head with a slender, skeletal appearance. Watchers cannot be damaged by any means, but will summon [Hollow Angels](Hollow_Angel.md) to attack the player. Watchers can be found in scattered across [The City of the Drowned](The_City_of_the_Drowned.md) while one only exists in the [Temple of the Forgotten Flame](Temple_of_the_Forgotten_Flame.md).
+Watchers are environmental hazards that have a lamp-like head with a slender, skeletal appearance. Watchers cannot be damaged by any means, but will summon [Hollow Angels](Hollow_Angel.md) to attack the player. Watchers can be found in scattered across [The City of the Drowned](The_City_of_the_Drowned.md) while one only exists in the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
 
 Their body is malnourished to an extent that their ribcage is visible, and their abdomen being nearly hollowed out. They have extremely long arms, with five fingers on each hand with long claws. Their legs are nearly the same length as their arms, having nearly the same characteristics. Their head appears as a flower, with the outer "petals" being a dark olive color, its outer layer being wrinkly and veiny. The inner "petals" are pink, and holds a large, glowing orb in the center that allows it to see.
 
@@ -37,8 +37,8 @@ Their body is malnourished to an extent that their ribcage is visible, and their
 -   The spikes do not deal damage, but instead they limit your mobility, acting as physical barriers that prevent your escape.
 -   The only way to avoid this attack is to physically move out of the Watcher's line of sight.
 -   The Watcher will not use this attack on you if you are wearing the [Sworn](Sworn_Angel_Mask.md) or [Hollow Angel Masks](Hollow_Angel_Mask.md).
--   Activating [Tacet](Tacet.md) will cause the Watcher to break like of sight with you, ending this early. Tacet can also be used to avoid this attack altogether.
--   Only one Hollow Angel will be spawned if the Watcher is at the [Temple of the Forgotten Flame](Temple_of_the_Forgotten_Flame.md).
+-   Activating [Tacet](Murmur%253A_Tacet.md) will cause the Watcher to break like of sight with you, ending this early. Tacet can also be used to avoid this attack altogether.
+-   Only one Hollow Angel will be spawned if the Watcher is at the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
 -   The Watcher cannot use Leap during Watcher's Gaze.
 
 -   ⚠︎ Unparryable
@@ -65,7 +65,7 @@ Their body is malnourished to an extent that their ribcage is visible, and their
 ### Passives
 
 -   **Intangibility** - These monsters simply cannot be hit.. by most attacks.
-    -   Very few attacks can actually deal damage to Watchers, such as [Warden's Blades](<Warden's_Blades.md>), however Watchers have a VERY high healthpool.
+    -   Very few attacks can actually deal damage to Watchers, such as [Warden's Blades](Frostdraw.md#wardens-blades), however Watchers have a VERY high healthpool.
     -   Watchers can also take environmental damage, though this is only possible through [Teleportation](Teleportation.md).
 
 ## Dialogue

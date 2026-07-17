@@ -20,7 +20,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Scattered Possessions are a [Quest](Quest.md) item belonging to [Samnang](Samnang.md)'s brother, [Sophon](Sophon.md). It seems that Sophon has departed with the equipment from its bad and bloody condition, as well as Sophon himself being nowhere to be found.
+The Scattered Possessions are a [Quest](Quests.md) item belonging to [Samnang](Samnang.md)'s brother, [Sophon](Sophon.md). It seems that Sophon has departed with the equipment from its bad and bloody condition, as well as Sophon himself being nowhere to be found.
 
 ## Location
 

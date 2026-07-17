@@ -22,7 +22,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Incognito is a [Vesperian](Vesperian.md) [NPC](NPC.md). He appears around a lot of [Mineskippers](Mineskipper.md), which upon killing will allow you to speak with him. If you have 20 points in [Charisma](Attributes.md), he will give you the mantra [Disguise](Disguise.md), which allows you to disguise yourself as a barrel, and as other objects when certain [Sparks](Mantra_Modifiers.md) are applied. The requirement for this mantra changes depending on aspect, though this needs further experimenting to find out the exact requirements for each aspect.
+Incognito is a [Vesperian](Vesperian.md) NPC. He appears around a lot of [Mineskippers](Mudskipper.md#mineskipper), which upon killing will allow you to speak with him. If you have 20 points in [Charisma](Attributes.md), he will give you the mantra [Disguise](Attunement-less.md#disguise), which allows you to disguise yourself as a barrel, and as other objects when certain [Sparks](Mantra_Modifiers.md) are applied. The requirement for this mantra changes depending on aspect, though this needs further experimenting to find out the exact requirements for each aspect.
 
 ## Location
 

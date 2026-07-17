@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Metal is a sustain/debuffing [enchantment](Enchantment.md) that steals your opponent's armor durability on hit.
+Metal is a sustain/debuffing [enchantment](Enchantments.md) that steals your opponent's armor durability on hit.
 
 ## Effect
 
@@ -28,7 +28,7 @@ The armor drain and armor restoration are entirely independent effects and are c
 
 ### Notes
 
--   Metal's armor drain formula is as follows: 0.0021 × weapon's scaled damage × target's armor durability × armor drain modifiers ([Steadfast](Steadfast.md), [Armor Conserver](Talents.md#armor-conserver), & [Armorer's Ring](<Armorer's_Ring.md>))
+-   Metal's armor drain formula is as follows: 0.0021 × weapon's scaled damage × target's armor durability × armor drain modifiers ([Steadfast](Boons_and_Flaws.md#steadfast), [Armor Conserver](Talents.md#armor-conserver), & [Armorer's Ring](<Armorer's_Ring.md>))
 -   Metal's armor restoration formula is as follows: 0.0021 × weapon's scaled weapon damage × your armor durability.
 -   Metal will still restore your armor on hit even if your opponent doesn't have any left.
 -   [Non-humanoid NPCs](Monsters.md) get staggered when their armor value reaches 0%. Because of this, this enchant allows you to stagger them **faster**.

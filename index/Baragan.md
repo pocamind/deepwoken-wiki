@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Baragan is an [Etrean](Etrean.md) [NPC](NPC.md), he is the [Blacksmith](Blacksmith.md) for the [Isle of Vigils](Isle_of_Vigils.md). His brother, [Caragan](Caragan.md), works at [Etris](Etris.md).
+Baragan is an [Etrean](Etrean.md) NPC, he is the [Blacksmith](Blacksmith.md) for the [Isle of Vigils](Isle_of_Vigils.md). His brother, [Caragan](Caragan.md), works at [Etris](Etris.md).
 
 ## Location
 

@@ -28,7 +28,7 @@ Khans are an [aspect](Aspects.md) with light skin, and a monkey-like appearance.
 
   
 
-<table><tbody><tr><td>TalentIconBrain</td><td><b>Versatile</b><p><i>You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than required.</i></p><ul><li>All <a href="Equipment.md">Equipment</a> and <a href="Weapon.md">Weapon</a> requirements are lowered by 3.</li><li>This applies to each requirement individually. For example you can equip <a href="Crypt_Blade.md">Crypt Blade</a> at 72 Shadowcast and 37 Heavy weapon instead of 75/40.</li><li>Applies to stat points, but not levels. For example, you could equip a weapon/equipment with a 20 point requirement at 17 points, but not a Power 10 requirement at Power 7.</li></ul></td></tr><tr><td><center><font>+</font></center></td><td><b>Attribute Boosts</b><ul><li>+3 Strength</li><li>+2 Agility</li></ul></td></tr></tbody></table>
+<table><tbody><tr><td>TalentIconBrain</td><td><b>Versatile</b><p><i>You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than required.</i></p><ul><li>All <a href="Equipment.md">Equipment</a> and <a href="Weapons.md">Weapon</a> requirements are lowered by 3.</li><li>This applies to each requirement individually. For example you can equip <a href="Crypt_Blade.md">Crypt Blade</a> at 72 Shadowcast and 37 Heavy weapon instead of 75/40.</li><li>Applies to stat points, but not levels. For example, you could equip a weapon/equipment with a 20 point requirement at 17 points, but not a Power 10 requirement at Power 7.</li></ul></td></tr><tr><td><center><font>+</font></center></td><td><b>Attribute Boosts</b><ul><li>+3 Strength</li><li>+2 Agility</li></ul></td></tr></tbody></table>
 
 **Iron Vow:**
 

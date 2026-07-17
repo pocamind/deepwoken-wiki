@@ -21,7 +21,7 @@ notices:
 
 ## Description
 
-**[Oath](../Oaths.md): Silentheart** is one of the 14 obtainable Oaths_._ It sacrifices [Mantras](../Mantras.md) and [Attunements](../Attunement.md) as a whole in exchange for significant mantra resistance and a unique set of attacks integrated into your moveset.
+**[Oath](../Oaths.md): Silentheart** is one of the 14 obtainable Oaths_._ It sacrifices [Mantras](../Mantras.md) and [Attunements](../Attunements.md) as a whole in exchange for significant mantra resistance and a unique set of attacks integrated into your moveset.
 
 **As of September 13, 2024, the Silentheart Oath has received a fairly substantial rework.** These changes are not on this page.
 
@@ -49,7 +49,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ## Progression
 
-This Oath is progressed via the killing of [Spelltrainers](../Spelltrainers.md) (excluding [Regek](../Regek.md) and [Beatra](../Beatra.md)).
+This Oath is progressed via the killing of [Spelltrainers](../Attunement_Trainers.md) (excluding [Regek](../Regek.md) and [Beatra](../Beatra.md)).
 
 This can be done in any order; however, the recommended order is [Nell](../Nell,_Master_of_Frost.md), [Friid](../Friid,_Master_of_Gale.md), [Amashi](../Amashi,_Master_of_Flame.md), [Funke](../Funke,_Master_of_Thunder.md), [Adar](../Adar,_Master_of_Metal.md), and [Nostor](../Nostor,_Master_of_Shadow.md) due to their positions.
 
@@ -139,7 +139,7 @@ Alternatively, if you've fully progressed the Oath in a previous life, 10 [Knowl
     -   Both [Dread Fighter](https://fireemblem.fandom.com/wiki/Dread_Fighter) and [Lodestar](https://fireemblem.fandom.com/wiki/Lodestar) reference obtainable classes in different _Fire Emblem_ games.
     -   True Vantage is a reference to the skill [Vantage](<https://fireemblem.fandom.com/wiki/Vantage_(Skill)>) in _Fire Emblem_.
     -   Mani Katti references Lyn's [weapon of the same name](https://fireemblem.fandom.com/wiki/Mani_Katti).
--   You can still talk to the [Attunement-less](../Attunement-less.md) trainer [Regek](../Spelltrainers.md) and complete the Soulblooms quest.
+-   You can still talk to the [Attunement-less](../Attunement-less.md) trainer [Regek](../Attunement_Trainers.md) and complete the Soulblooms quest.
 -   Silentheart was reworked on 2024-09-13's Weekly update.
 
 ## References

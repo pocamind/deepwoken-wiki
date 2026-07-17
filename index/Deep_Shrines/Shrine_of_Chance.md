@@ -24,11 +24,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Located behind a breakable wall in the [Meteor Isle](../Meteor_Isle.md) cave (with the crashed meteor), this Deep Shrine allows you to exchange Talents you own for a hand of three semi-random Talents at the cost of Knowledge. The hand of Talents received isn't fully random, as it can be influenced through [Favouring](../Favour.md) and [Fortelling](../Fortell.md) cards, on top of being limited to a specific Talent rarity, as dictated by the specific deal you struck.
+Located behind a breakable wall in the [Meteor Isle](../Meteor_Isle.md) cave (with the crashed meteor), this Deep Shrine allows you to exchange Talents you own for a hand of three semi-random Talents at the cost of Knowledge. The hand of Talents received isn't fully random, as it can be influenced through [Favouring](../Aces.md) and [Fortelling](../Aces.md) cards, on top of being limited to a specific Talent rarity, as dictated by the specific deal you struck.
 
-Purchasing the [Choice of Chance](../Choice_of_Chance.md) Echo Unlock for 200 Echoes permanently increases the amount of cards you receive in a Shrine of Chance hand by one; from three to four. While not necessary, this Echo Unlock is a great quality of life improvement.
+Purchasing the [Choice of Chance](../Echoes.md#upgrades-unlocks-and-modifiers) Echo Unlock for 200 Echoes permanently increases the amount of cards you receive in a Shrine of Chance hand by one; from three to four. While not necessary, this Echo Unlock is a great quality of life improvement.
 
-When using this Shrine, please make sure to **check if you burned the card you're trying to get** using the [Shrine of Conceit](../Shrine_of_Conceit.md) or **check if you already happen to have it**. Otherwise, it could result in a mistake worth upwards of 10 Knowledge before you realize it wasn't just bad luck or a missing prerequisite.
+When using this Shrine, please make sure to **check if you burned the card you're trying to get** using the [Shrine of Conceit](Shrine_of_Conceit.md) or **check if you already happen to have it**. Otherwise, it could result in a mistake worth upwards of 10 Knowledge before you realize it wasn't just bad luck or a missing prerequisite.
 
 ## Effects/Details
 

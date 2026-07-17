@@ -16,11 +16,11 @@ Generations of Hivelords stand watch over the lush passage, a stark contrast to 
 
   
 
-**The Lordsgrove** is a [location](Locations.md) in _Deepwoken_. It is a sub-location in [Aratel Island](Aratel_Island.md) found in the [Aratel Sea](The_Aratel_Sea.md).
+**The Lordsgrove** is a location in _Deepwoken_. It is a sub-location in [Aratel Island](Aratel_Island.md) found in the [Aratel Sea](The_Aratel_Sea.md).
 
 ## Overview
 
-The Lordsgrove is a jungle-like passage that is accessed through [Starswept Valley](Starswept_Valley.md) behind a massive gate. To open this gate, you must wash your face in the [Lightkeeper Temple](Lightkeeper_Temple.md).
+The Lordsgrove is a jungle-like passage that is accessed through [Starswept Valley](The_Starswept_Valley.md) behind a massive gate. To open this gate, you must wash your face in the [Lightkeeper Temple](Lightkeeper_Temple.md).
 
 The Lordsgrove contains a fountain that will transport you to [Greathive Aratel](Greathive_Aratel.md). It also includes Zirik, an NPC who can alter your reputation with The Hive.
 
@@ -45,7 +45,7 @@ Large statues of [Vesperians](Vesperian.md) and a [Ganymede](Ganymede.md) can be
 
 ## Trivia/Notes
 
--   The music for this area is [The Sun, Gleaming](The_Sun,_Gleaming.md) by Naktigonis
+-   The music for this area is [The Sun, Gleaming](Deepwoken_OST.md#the-sun-gleaming) by Naktigonis
 -   In order to use the fountain that transports you to [Greathive Aratel](Greathive_Aratel.md), players must have wash their face and be at least Power 10.
 -   The statues lined along the walls of The Lordsgrove depict previous Hivelords, including one with the unique [Blindseer](Oath%253A_Blindseer.md) [Oath](Oaths.md) variant for Vesperians.
 -   One of the statues hinted at the [Hivelord Mask](Hivelord_Mask.md) prior to its addition to the game.

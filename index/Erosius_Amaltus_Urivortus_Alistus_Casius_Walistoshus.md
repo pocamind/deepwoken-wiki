@@ -24,9 +24,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Erosius Amaltus Urivortus Alistus Casius Walistoshus is a [Kyrsan](Kyrsan.md) [NPC](NPC.md). They are the leader of the Kyrsan village of [Firfire](Firfire.md). Erosius will refuse to speak to the player unless they have spoken to [Aeroaseluniris Oricalum Forentus](Aeroaseluniris_Oricalum_Forentus.md) or have retrieved the Spear of Nakti.
+Erosius Amaltus Urivortus Alistus Casius Walistoshus is a [Kyrsan](Kyrsgarde.md) NPC. They are the leader of the Kyrsan village of [Firfire](Firfire.md). Erosius will refuse to speak to the player unless they have spoken to [Aeroaseluniris Oricalum Forentus](Aeroaseluniris_Oricalum_Forentus.md) or have retrieved the Spear of Nakti.
 
-Upon retrieving the Spear of Nakti and completing Erosius' [Quest](Quest.md), the player unlocked the [Ethiron's Gaze](Talents.md#ethirons-gaze) Talent, allowing them to see through the fog present throughout the Ethironal Shrine. The player will still need speak to Erosius on subsequent entries into the Second Layer to obtain entry to the [Nest Corridor](Nest_Corridor.md).
+Upon retrieving the Spear of Nakti and completing Erosius' [Quest](Quests.md), the player unlocked the [Ethiron's Gaze](Talents.md#ethirons-gaze) Talent, allowing them to see through the fog present throughout the Ethironal Shrine. The player will still need speak to Erosius on subsequent entries into the Second Layer to obtain entry to the [Nest Corridor](Nest_Corridor.md).
 
 ## Dialogue
 

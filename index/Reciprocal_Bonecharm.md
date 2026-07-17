@@ -27,7 +27,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The **Reciprocal Bonecharm** is a consumable [Relic](Relic.md) with **10 uses**. Reciprocal Bonecharm's usage is teleporting you to the [Second Layer](Second_Layer.md). Short cooldown upon usage.
+The **Reciprocal Bonecharm** is a consumable [Relic](Relics.md) with **10 uses**. Reciprocal Bonecharm's usage is teleporting you to the [Second Layer](Second_Layer.md). Short cooldown upon usage.
 
 Upon usage, the user will be prompted to select a location:
 

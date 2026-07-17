@@ -21,7 +21,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Argo is an [Etrean](Etrean.md) NPC who wears a red [Traveler Cloak](Traveler_Cloak.md). They teach the player the basics of [Fishing](Fishing.md) and has a shop where you are able to buy everything you will need for [Fishing](Fishing.md). The store also contains many fishes on display.
+Argo is an [Etrean](Etrean.md) NPC who wears a red [Traveler Cloak](<Traveller's_Jacket.md>). They teach the player the basics of [Fishing](Fishing.md) and has a shop where you are able to buy everything you will need for [Fishing](Fishing.md). The store also contains many fishes on display.
 
 ## Location
 

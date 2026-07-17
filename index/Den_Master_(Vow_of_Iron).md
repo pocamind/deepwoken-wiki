@@ -25,7 +25,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-The Den Master is a [Canor](Canor.md) [NPC](NPC.md). He sells basic tier one and two [Mantra Modifiers](Mantra_Modifiers.md).
+The Den Master is a [Canor](Canor.md) NPC. He sells basic tier one and two [Mantra Modifiers](Mantra_Modifiers.md).
 
 ## Location
 

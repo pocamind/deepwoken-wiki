@@ -69,12 +69,12 @@ There are 12 known fishing locations in game:
 -   [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md)
 -   [Starfield Grove](Starfield_Grove.md)
 -   [Starfield Veldt](Starfield_Veldt.md)
--   Near the [Shrine of Division](Shrine_of_Division.md)
+-   Near the [Shrine of Division](Deep_Shrines/Shrine_of_Division.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md)
 -   [The Entropy Catalyst](The_Entropy_Catalyst.md)
 -   The [Beloved Zofia](Beloved_Zofia.md)
--   [New Kyrsa, The Sleeping City](New_Kyrsa,_The_Sleeping_City.md)
+-   [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md)
 -   Open sea area behind [Minityrsa](Minityrsa.md)
 
 **Boatmans Watch:**
@@ -93,7 +93,7 @@ This spot is accessed by slipping through a crack past the left side of Mortus' 
 
 ### Starfield Grove
 
-This spot can be seen behind the Startree located in the [Starswept Valley](Starswept_Valley.md).
+This spot can be seen behind the Startree located in the [Starswept Valley](The_Starswept_Valley.md).
 
 **Starfield Veldt:**
 
@@ -105,7 +105,7 @@ This spot can be seen behind the Startree located near [Miner's Landing](<Miner'
 
 ### Shrine of Division
 
-This spot is located to the right of the [Shrine of Division](Shrine_of_Division.md) island when facing outward.
+This spot is located to the right of the [Shrine of Division](Deep_Shrines/Shrine_of_Division.md) island when facing outward.
 
 **Miner's Landing:**
 

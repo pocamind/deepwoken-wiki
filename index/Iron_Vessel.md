@@ -27,7 +27,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Iron Vessel** is a playable [Memento](Memento.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode.
+**Iron Vessel** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode.
 
 A being of iron that wields [Ironsing](Ironsing.md), the Iron Vessel is effectively impervious to damage if not pushed to their limits. The lightest of blows become mere scratches, but should they falter in their defence, their shell shatters, making them suffer greatly.
 
@@ -110,7 +110,7 @@ _Conjure metal from within, impaling surrounding entities._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Bleed.md)
+Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -121,7 +121,7 @@ N/A
 
 **Effect:** _Send metal spikes piercing through your body, impaling all nearby targets._
 
--   Has a base damage of 20/22/24/26/28 per level with innate [Bleed](Bleed.md) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 20/22/24/26/28 per level with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
 -   Deals 12.5 posture damage.
 -   Has a windup of 0.45 seconds with a 10 second cooldown.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
@@ -149,7 +149,7 @@ _Summon a large metal pillar._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Blunt ResistanceBlunt + [Bleed](Bleed.md)
+Metal [ResistanceIronsing](Ironsing.md) + Blunt ResistanceBlunt + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -161,14 +161,14 @@ N/A
 **Effect:** _Form a pillar from below, causing the character to ascend upwards as the pillar forms._
 
 -   Deals damage on placedown with a very small AoE.
--   Has a base damage of 10/14/18/22/26 with innate [Bleed](Bleed.md) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 10/14/18/22/26 with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
 -   Deals 8 posture damage.
 -   0.5 second windup before damage is dealt, 1.5 second windup before the pillar is fully created.
 -   The pillar lasts 6 seconds at base with a 15 second cooldown. The duration increases by 1 second per upgrade, reaching a total maximum of 10s.
 -   Has 9.2x PvE scaling (multiply damage dealt by 9.2 for PvE damage).
 -   The height of the pillar will depend on what is above the user.
--   Can be modified with [Cloudstones/Stratus Stones](Cloudstone.md) to extend its width.
--   Can be modified with [Aeon/Eternal Logstones](Aeon_Logstone.md) to extend its duration.
+-   Can be modified with [Cloudstones/Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to extend its width.
+-   Can be modified with [Aeon/Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to extend its duration.
 
  |
 
@@ -252,7 +252,7 @@ N/A
  |
 | 
 
-**Effect:** _Create a vacuum of space from your hand, auto-tracking enemies and pulling them in. Based on the [Enforcer](The_Enforcer.md)'s '**Space Pull'** attack._
+**Effect:** _Create a vacuum of space from your hand, auto-tracking enemies and pulling them in. Based on the [Enforcer](Enforcer.md)'s '**Space Pull'** attack._
 
 -   Missing still takes Ether and does not put this mantra on cooldown.
 -   The set Talent "**Enforcer's Pull**" from [Reinforced Enforcer Plate](Reinforced_Enforcer_Plate.md) and [Reinforced Enforcer Boots](Reinforced_Enforcer_Boots.md) heavily decreases the windup of the pull after landing a flourish.
@@ -299,7 +299,7 @@ Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash
 -   Has 9.2x PvE scaling (multiply damage dealt by 9.2 for PvE damage).
 -   Spring Spark has a wind up of 0.55 second and non spark a wind-up of 0.95s (0.65s to enter gain height and enter fall state + 0.4s or more seconds to land(depending on ur fall distance))
 -   Your base Metal Kick can't be Interrupted once you enter fall state, but you still can be hitstunned. Basically you will hit your enemy with Metal Kick but won't be able to attack after landing Metal Kick.
--   Can be modified with a [Spring Spark](Spring_Spark.md) that causes the Mantra to perform a faster drop-kick that doesn't apply knockdown.
+-   Can be modified with a [Spring Spark](Mantra_Modifiers.md#sparks) that causes the Mantra to perform a faster drop-kick that doesn't apply knockdown.
 
  |
 
@@ -371,7 +371,7 @@ _Create a lance, impale your opponent, and send them flying._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Bleed.md)
+Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -382,11 +382,11 @@ Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Bleed.
 
 **Effect:** _After a small wind-up, conjure an iron claw on the character's left arm before thrusting forward, pushing back any targets in the way._
 
--   Has a base damage of 15/23/31/39/47 per level with innate [Bleed](Bleed.md) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 15/23/31/39/47 per level with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
 -   Deals 10 posture damage.
 -   Has a windup of 0.5 seconds with a cooldown of 13 seconds.
 -   Has 9.2x PvE scaling (multiply damage dealt by 9.2 for PvE damage).
--   Comparable to Galebreathe's [Gale Lunge](Gale_Lunge.md) Mantra and Frostdraw's [Ice Lance](Ice_Lance.md) Mantra.
+-   Comparable to Galebreathe's [Gale Lunge](Galebreathe.md#gale-lunge) Mantra and Frostdraw's [Ice Lance](Frostdraw.md#ice-lance) Mantra.
 
  |
 
@@ -668,7 +668,7 @@ _Conjure a giant rod of metal and slam it down._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Bleed.md)
+Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -679,11 +679,11 @@ Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Bleed.
 
 **Effect:** _Form a large spiky iron rod before slamming it down forwards._
 
--   Has a base damage of 35/38.5/42/45.5/49 per level with innate [Bleed](Bleed.md) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 35/38.5/42/45.5/49 per level with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
 -   Deals 16.5 posture damage at levels 1-4, guard breaks at level 5.
 -   Has a windup of 0.73 seconds with a cooldown of 18 seconds.
--   Has 9.18X PvE scaling (58.6 DMG + 17.5 [Bleed](Bleed.md) PVP, 537.98 DMG + 161.4 [Bleed](Bleed.md) PVE)
--   Can be modified with [Cloudstones](Cloudstone.md) and [Stratus Stones](Stratus_Stone.md) to drastically increase the size of the rod.
+-   Has 9.18X PvE scaling (58.6 DMG + 17.5 [Bleed](Status_Effects.md#bleed) PVP, 537.98 DMG + 161.4 [Bleed](Status_Effects.md#bleed) PVE)
+-   Can be modified with [Cloudstones](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to drastically increase the size of the rod.
 
  |
 | 
@@ -706,7 +706,7 @@ _Conjure metal swords and rush forward with them._
 
  | 
 
-Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Bleed.md)
+Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -717,7 +717,7 @@ Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Bleed.
 
 **Effect:** _Conjure a vortex of blades before rushing forward, dealing moderate damage._
 
--   Has a base damage of 2/3.25/4.5/5.75/7 damage per level, per hit (10) with innate [Bleed](Bleed.md) damage and 2.75 Ironsing scaling.
+-   Has a base damage of 2/3.25/4.5/5.75/7 damage per level, per hit (10) with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
 -   Deals 1 posture damage per hit (10).
 -   Has a windup of 0.5 seconds with a cooldown of 13 seconds.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
@@ -733,14 +733,14 @@ Metal [ResistanceIronsing](Ironsing.md) + Slash ResistanceSlash + [Bleed](Bleed.
 -   _Spine Cutter_ \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage. (+6 Carry Load, +2 Passive Agility)
     -   5 second cooldown per enemy. The cooldown indicator may suggest the cooldown is per enemy type, but it isn't.
     -   The second slash has no PEN.
-    -   Can proc from some [physical](Attunement-less.md) Mantras and criticals with the [M1 tag](M1_tag.md).
+    -   Can proc from some [physical](Attunement-less.md) Mantras and criticals with the M1 tag.
 
 -   Defensive Reprisal \[Common Talent\] - Being flourished grants you 10% posture resistance for 20s.
     -   Defensive Reprisal's duration will be reduced by 0.177s for every point in Fortitude below its requirements, having a minimum duration of 15.55s duration with 40 Fortitude.
 
 ### Dravik, The Rat King
 
--   Knuckle Guard \[Common Talent\] - Hitting [Dazed](Dazed.md) enemies grants you 10% posture resistance for 15s.
+-   Knuckle Guard \[Common Talent\] - Hitting [Dazed](Status_Effects.md#dazed) enemies grants you 10% posture resistance for 15s.
 
 -   Reveal \[Oath Talent\] - Pour your heart out, and reveal your true strength.
     -   Grants a Talent tool. On cast, you stab yourself with your weapon, toggling on True Strength. Use the tool again to toggle True Strength back off.

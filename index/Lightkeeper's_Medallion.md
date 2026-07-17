@@ -30,7 +30,7 @@ The Lightkeeper's Medallion is a [Relic](Relics.md) [Equipment](Equipment.md) it
 
 Equipping it grants the [Elegy of Light](Talents.md#elegy-of-light) Talent, which grants the user an active Talent tool that protects the user from the effects of [Deep Gems](Deep_Gems.md) and gives the user the [Gem Enhancement](Status_Effects.md#gem-enhancement) status effect for three minutes. During the use of Elegy of Light, you become surrounded by a circling white aura with beams of white coming off of it. After it's used, the Talent cannot be reactivated unless a player of equal power or a [Boss](Bosses.md) is defeated.
 
-It's currently known to drop from [Ferryman](Ferryman.md) and [Scion of Ethiron](Scion_of_Ethiron.md), but other sources are likely to drop as well. While charged, the center of the medallion will glow white, signifying it's ready to be used.
+It's currently known to drop from [Ferryman](The_Ferryman.md) and [Scion of Ethiron](Scion_of_Ethiron.md), but other sources are likely to drop as well. While charged, the center of the medallion will glow white, signifying it's ready to be used.
 
 ## Trivia
 

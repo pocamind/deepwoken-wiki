@@ -28,7 +28,7 @@ Miner's Landing is a location found in Deepwoken: [Vow of Iron](Vow_of_Iron.md).
 
 ## Overview
 
-Miner's Landing is a mostly uninhabitable island covered in lava with small [Ignition Union](Ignition_Union.md) settlements. It is pretty much a construction site for the [Miner's Landing](<Miner's_Landing.md>) the player can see in the [Pathfinder](Pathfinder.md) version of the game.
+Miner's Landing is a mostly uninhabitable island covered in lava with small [Ignition Union](The_Ignition_Union.md) settlements. It is pretty much a construction site for the [Miner's Landing](<Miner's_Landing.md>) the player can see in the [Pathfinder](Pathfinder.md) version of the game.
 
 It contains the static spawn of [Prototype Railblade](Prototype_Railblade.md).
 
@@ -40,7 +40,7 @@ The docks of Miner's Landing are identical to the ones of the [Pathfinder](Pathf
 
 ### Town
 
-The biggest [Ignition Union](Ignition_Union.md) settlement on the island. Here alongside an empty Pub, where in the [Pathfinder](Pathfinder.md) version of the game the [Barber](Barber.md) would be located, the player can find the [Innkeep](Innkeep.md) and the [Blacksmith](Blacksmith.md).
+The biggest [Ignition Union](The_Ignition_Union.md) settlement on the island. Here alongside an empty Pub, where in the [Pathfinder](Pathfinder.md) version of the game the [Barber](Barber.md) would be located, the player can find the [Innkeep](Innkeep.md) and the [Blacksmith](Blacksmith.md).
 
 ### Saramaed Summit
 
@@ -53,4 +53,4 @@ Cave systems of Saramaed, which [the Ignition Union](The_Ignition_Union.md) uses
 ## Missions
 
 -   2 [Ignition Union Arcwarders](Ignition_Union_Arcwarder.md) vs [Mechalodaunt](Mechalodaunt.md)
--   [Tamed Thresher](Thresher.md), [Authority Captain](Authority_Captain.md) [Authorityiconfaction](Central_Authority.md), 2 [Divers](Diver.md) [Diversiconfaction](Divers.md)
+-   [Tamed Thresher](Thresher.md), [Authority Captain](Authority_Captain.md) [Authorityiconfaction](The_Central_Authority.md), 2 [Divers](Diver.md) [Diversiconfaction](The_Divers.md)

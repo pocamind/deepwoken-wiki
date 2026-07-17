@@ -14,7 +14,7 @@ A turbulent region fraught with disputes major and minor.
 
   
 
-**The Aratel Sea** is a [location](Locations.md) in _Deepwoken_. It is a region within the [East Luminant](Maps.md).
+**The Aratel Sea** is a location in _Deepwoken_. It is a region within the [East Luminant](Maps.md).
 
 ## Description
 
@@ -40,7 +40,7 @@ The Aratel Sea is much more violent than [The Etrean Sea](The_Etrean_Sea.md), wi
 
 ## Events
 
--   Etreans vs [Knives of Eylis](Knives_of_Eylis.md)
+-   Etreans vs [Knives of Eylis](The_Knives_of_Eylis.md)
 -   Merchant Ship
 -   Fake Merchant Ship
 -   Damaged Ship w/ [Megalodaunt](Megalodaunt.md)
@@ -50,6 +50,6 @@ The Aratel Sea is much more violent than [The Etrean Sea](The_Etrean_Sea.md), wi
 
 ## Trivia
 
--   The music for this area is [To Shores, Distant](To_Shores,_Distant.md) by Naktigonis.
--   The combat music for this area is [To Fight, Sanguine](To_Fight,_Sanguine.md) by Naktigonis.
+-   The music for this area is [To Shores, Distant](Deepwoken_OST.md#to-shores-distant) by Naktigonis.
+-   The combat music for this area is [To Fight, Sanguine](Deepwoken_OST.md#to-fight-sanguine) by Naktigonis.
 -   During early testing this area was called "The Eastern Ocean."

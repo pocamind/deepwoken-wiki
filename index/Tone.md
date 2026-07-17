@@ -23,7 +23,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Tone is a [Tiran](Tiran.md) [NPC](NPC.md). He sells starter equipment aimed towards new and early game players.
+Tone is a [Tiran](Tiran.md) NPC. He sells starter equipment aimed towards new and early game players.
 
 ## Location
 

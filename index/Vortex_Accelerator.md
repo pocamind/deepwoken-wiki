@@ -28,6 +28,6 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Vortex Accelerator is a [Relic](Relic.md) [Equipment](Equipment.md) under the "Rings" Category.
+The Vortex Accelerator is a [Relic](Relics.md) [Equipment](Equipment.md) under the "Rings" Category.
 
 This ring lowers your Mantra cooldowns based on how low your health is. At low health, low cooldown Mantras essentially have no cooldown.

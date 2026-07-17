@@ -23,7 +23,7 @@ They wear a [Darksteel Plate](Darksteel_Plate.md), a dyed black [Silver Knight's
 
 ## Moves
 
-Their arsenal consists of a [Darkalloy Greatsword](Darkalloy_Greatsword.md) and the [Shadowcast](Shadowcast.md) Attunement:
+Their arsenal consists of a [Darkalloy Greatsword](Darksteel_Greatsword.md) and the [Shadowcast](Shadowcast.md) Attunement:
 
 | Name/Danger | Description |
 | --- | --- |

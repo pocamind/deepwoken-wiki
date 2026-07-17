@@ -16,7 +16,7 @@ Job Board at Etris docks
 
 The core of a Job usually involves traveling to a designated area and fulfilling a specific objective. These objectives can range from transporting goods to eliminating enemy patrols. When interacting with a Job, right-clicking will present two options: "Forfeit Task" to abandon the quest, or "View on Map" to display the Job's location on the players map.
 
-Territories fully controlled by a single faction (e.g., [Fort Merit](Fort_Merit.md) and [Etris](Etris.md)) will exclusively offer Jobs from their ruling faction. However, Job Boards in neutral zones (e.g., [Songseeker Wilds](Songseeker_Wilds.md) and [Starswept Valley](Starswept_Valley.md)) provide Jobs from any faction that can generate in that area. Players with the [Ignition Delver](Ignition_Delver.md) origin can utilize the [Union Pager](Union_Pager.md) tool to accept jobs remotely.
+Territories fully controlled by a single faction (e.g., [Fort Merit](Fort_Merit.md) and [Etris](Etris.md)) will exclusively offer Jobs from their ruling faction. However, Job Boards in neutral zones (e.g., [Songseeker Wilds](Songseeker_Wilds.md) and [Starswept Valley](The_Starswept_Valley.md)) provide Jobs from any faction that can generate in that area. Players with the [Ignition Delver](Ignition_Delver.md) origin can utilize the [Union Pager](Ignition_Delver.md) tool to accept jobs remotely.
 
 **Pathfinder:**
 
@@ -24,34 +24,34 @@ Territories fully controlled by a single faction (e.g., [Fort Merit](Fort_Merit.
 
 ### Erisia
 
-_Jobs relating to Erisia can be given by [Etrea](Etrea.md) [Etreaiconfaction](Etrea.md), [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](Central_Authority.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](Children_of_Navae.md), and [The Hundred Legions](The_Hundred_Legions.md) ._
+_Jobs relating to Erisia can be given by [Etrea](Etrea.md) [Etreaiconfaction](Etrea.md), [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md), and [The Hundred Legions](The_Hundred_Legions.md) ._
 
 -   (From [Etreaiconfaction](Etrea.md) ) **A Daunting Task** : _A Megalodaunt has been spotted in the region. With due caution, a price has been placed upon its head._
     -   Tasks the player with slaying a [Megalodaunt](Megalodaunt.md).
 
--   (From [Navaeiconfaction](Children_of_Navae.md) [Etreaiconfaction](Etrea.md) ) [Authorityiconfaction](Central_Authority.md) **Authority Patrol** : _Authority scouts have been spotted in the region. A reward has been promised to whoever can send them packing._
+-   (From [Navaeiconfaction](The_Children_of_Navae.md) [Etreaiconfaction](Etrea.md) ) [Authorityiconfaction](The_Central_Authority.md) **Authority Patrol** : _Authority scouts have been spotted in the region. A reward has been promised to whoever can send them packing._
     -   Tasks the player with defeating two [Authority Officers](Authority_Officer.md) and two [Authority Soldiers](Authority_Soldier.md).
 
 -   **Black Feathers** :
     -   Tasks the player with slaying a [Deep Owl](Deep_Owl.md).
 
--   (From: [Authorityiconfaction](Central_Authority.md) ) [Authorityiconfaction](Central_Authority.md) **Clash Of Empires** : _Tensions between the Hundred Legions and the Central Authority have come to a head. A dispute between soldiers of the rival empires has exploded into a bloodbath. Put a stop to this._
+-   (From: [Authorityiconfaction](The_Central_Authority.md) ) [Authorityiconfaction](The_Central_Authority.md) **Clash Of Empires** : _Tensions between the Hundred Legions and the Central Authority have come to a head. A dispute between soldiers of the rival empires has exploded into a bloodbath. Put a stop to this._
     -   Tasks the player with defeating two enemy soldiers, either two [Legion Soldiers](Legion_Soldier.md) or two [Authority Officers](Authority_Officer.md).
 
 -   **Forge Recall** : _In order to prevent one of the Duke's creations from reporting back to him, a reward is being offered for its destruction._
     -   Tasks the player with slaying a [Stonespark](Stonespark.md).
 
--   (From [Navaeiconfaction](Children_of_Navae.md) [Etreaiconfaction](Etrea.md) ) [Knives of Eylis](Knives_of_Eylis.md) **Knife To Antler** : _Knives hired by the Authority have captured a travelling party of Navaen nomads. Free them._
+-   (From [Navaeiconfaction](The_Children_of_Navae.md) [Etreaiconfaction](Etrea.md) ) [Knives of Eylis](The_Knives_of_Eylis.md) **Knife To Antler** : _Knives hired by the Authority have captured a travelling party of Navaen nomads. Free them._
     -   Tasks the player with defeating three [Knife of Eylis](Knife_of_Eylis.md)'.
 
--   (From: [Authorityiconfaction](Central_Authority.md) [Etreaiconfaction](Etrea.md) ) [Authorityiconfaction](Central_Authority.md) [Etreaiconfaction](Etrea.md) **The Eastern Conflict** : _The Authority have mounted an assault but have been ambushed by a contingent of Etrean soldiers. Lend your blade._
+-   (From: [Authorityiconfaction](The_Central_Authority.md) [Etreaiconfaction](Etrea.md) ) [Authorityiconfaction](The_Central_Authority.md) [Etreaiconfaction](Etrea.md) **The Eastern Conflict** : _The Authority have mounted an assault but have been ambushed by a contingent of Etrean soldiers. Lend your blade._
     -   Tasks the player with defeating two enemy soldiers, either two [Authority Officers](Authority_Officer.md) or two [Etrean Soldiers](Etrean_Soldier.md).
 
 ## Eastern Luminant
 
 ### Songseeker Wilds
 
-_Jobs relating to the Songseeker Wilds can be given by [The Ignition Union](The_Ignition_Union.md), [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](Central_Authority.md), and [The Summer Company](The_Summer_Company.md) [Summericonfaction](The_Summer_Company.md) ._
+_Jobs relating to the Songseeker Wilds can be given by [The Ignition Union](The_Ignition_Union.md), [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md), and [The Summer Company](The_Summer_Company.md) [Summericonfaction](The_Summer_Company.md) ._
 
 -   **Authority Patrol** : _Authority scouts have been spotted in the region. A reward has been promised to whoever can send them packing._
     -   Tasks the player with defeating two [Authority Officers](Authority_Officer.md) and two [Authority Soldiers](Authority_Soldier.md).
@@ -71,27 +71,27 @@ _Jobs relating to Summer Isle can be given by [The Summer Company](The_Summer_Co
 
 ### The Starswept Valley
 
-_Jobs relating to the Starswept Valley can be given by [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](Central_Authority.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](Children_of_Navae.md), [The Hive](The_Hive.md) [Hiveiconfaction](Hive.md), [The Ignition Union](The_Ignition_Union.md), and [The Hundred Legions](The_Hundred_Legions.md) ._
+_Jobs relating to the Starswept Valley can be given by [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md), [The Hive](The_Hive.md) [Hiveiconfaction](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), and [The Hundred Legions](The_Hundred_Legions.md) ._
 
--   (From [Hiveiconfaction](Hive.md) ) [Etreaiconfaction](Etrea.md) [Hiveiconfaction](Hive.md) **Aratel's Blood**
+-   (From [Hiveiconfaction](The_Hive.md) ) [Etreaiconfaction](Etrea.md) [Hiveiconfaction](The_Hive.md) **Aratel's Blood**
     -   Tasks the player with defeating three enemy soldiers, either three [Hive Scouts](Hive_Scout.md) or three [Etrean Soldiers](Etrean_Soldier.md).
 
--   (From [Navaeiconfaction](Children_of_Navae.md) ) [Authorityiconfaction](Central_Authority.md) **Authority Patrol** : _Authority scouts have been spotted in the region. A reward has been promised to whoever can send them packing._
+-   (From [Navaeiconfaction](The_Children_of_Navae.md) ) [Authorityiconfaction](The_Central_Authority.md) **Authority Patrol** : _Authority scouts have been spotted in the region. A reward has been promised to whoever can send them packing._
     -   Tasks the player with defeating two [Authority Officers](Authority_Officer.md) and two [Authority Soldiers](Authority_Soldier.md).
 
--   (From [Authorityiconfaction](Central_Authority.md) ) [Authorityiconfaction](Central_Authority.md) **Clash Of Empires** : _Tensions between the Hundred Legions and the Central Authority have come to a head. A dispute between soldiers of the rival empires has exploded into a bloodbath. Put a stop to this._
+-   (From [Authorityiconfaction](The_Central_Authority.md) ) [Authorityiconfaction](The_Central_Authority.md) **Clash Of Empires** : _Tensions between the Hundred Legions and the Central Authority have come to a head. A dispute between soldiers of the rival empires has exploded into a bloodbath. Put a stop to this._
     -   Tasks the player with defeating two enemy soldiers, either two [Legion Soldiers](Legion_Soldier.md) or two [Authority Officers](Authority_Officer.md).
 
--   (From [Authorityiconfaction](Central_Authority.md) ) **Lodestar Bounty** : _A mysterious figure wielding a bow and wandering around aimlessly has been causing a surprising amount of trouble. A reward is offered to whoever can put a stop to this madness._
+-   (From [Authorityiconfaction](The_Central_Authority.md) ) **Lodestar Bounty** : _A mysterious figure wielding a bow and wandering around aimlessly has been causing a surprising amount of trouble. A reward is offered to whoever can put a stop to this madness._
     -   Tasks the player with defeating [Lodestar](Lodestar.md).
 
--   (From [Authorityiconfaction](Central_Authority.md) [Hiveiconfaction](Hive.md) ) [Authorityiconfaction](Central_Authority.md) [Hiveiconfaction](Hive.md) **Restricted Technology**
-    -   Tasks the player with defeating either a [Authority Captain](Authority_Captain.md) or [Golem Construct](Golem_Constructs.md).
+-   (From [Authorityiconfaction](The_Central_Authority.md) [Hiveiconfaction](The_Hive.md) ) [Authorityiconfaction](The_Central_Authority.md) [Hiveiconfaction](The_Hive.md) **Restricted Technology**
+    -   Tasks the player with defeating either a [Authority Captain](Authority_Captain.md) or [Golem Construct](Hive_Construct.md).
 
--   (From [Authorityiconfaction](Central_Authority.md) [Navaeiconfaction](Children_of_Navae.md) [Hiveiconfaction](Hive.md) ) **Thresher Infestation** : _A price has been put on the head of a Thresher that displays the potential to become a greater threat._
+-   (From [Authorityiconfaction](The_Central_Authority.md) [Navaeiconfaction](The_Children_of_Navae.md) [Hiveiconfaction](The_Hive.md) ) **Thresher Infestation** : _A price has been put on the head of a Thresher that displays the potential to become a greater threat._
     -   Tasks the player with slaying a [Thresher](Thresher.md).
 
--   (From [Authorityiconfaction](Central_Authority.md) [Navaeiconfaction](Children_of_Navae.md) [Hiveiconfaction](Hive.md) ) **Thresher Regicide** : _A king has emerged from the fierce competition between Threshers. Slay it at all costs._
+-   (From [Authorityiconfaction](The_Central_Authority.md) [Navaeiconfaction](The_Children_of_Navae.md) [Hiveiconfaction](The_Hive.md) ) **Thresher Regicide** : _A king has emerged from the fierce competition between Threshers. Slay it at all costs._
     -   Tasks the player with slaying a [Thresher](Thresher.md) and [King Thresher](King_Thresher.md).
 
   
@@ -100,36 +100,36 @@ _Jobs relating to the Starswept Valley can be given by [The Central Authority](T
 
 ### Celtor
 
-_Jobs relating to The Depths can be given by [The Divers](The_Divers.md) [Diversiconfaction](Divers.md) and [The Ignition Union](The_Ignition_Union.md) ._
+_Jobs relating to The Depths can be given by [The Divers](The_Divers.md) [Diversiconfaction](The_Divers.md) and [The Ignition Union](The_Ignition_Union.md) ._
 
--   (From [Diversiconfaction](Divers.md) ) **A Daunting Task** : _A Megalodaunt has been spotted in the region. With due caution, a price has been placed upon its head._
+-   (From [Diversiconfaction](The_Divers.md) ) **A Daunting Task** : _A Megalodaunt has been spotted in the region. With due caution, a price has been placed upon its head._
     -   Tasks the player with slaying a [Megalodaunt](Megalodaunt.md).
 
--   (From [Diversiconfaction](Divers.md) ) **Alpha Rescue**
+-   (From [Diversiconfaction](The_Divers.md) ) **Alpha Rescue**
     -   Tasks the player with slaying a [Alpha Megalodaunt](Alpha_Megalodaunt.md). Three [Divers](Diver.md) will spawn to assist the player.
 
--   (From [Diversiconfaction](Divers.md) ) **Broodlord Extermination**
+-   (From [Diversiconfaction](The_Divers.md) ) **Broodlord Extermination**
     -   Tasks the player with slaying a [Mudskipper Broodlord](Mudskipper_Broodlord.md).
 
--   (From [Diversiconfaction](Divers.md) ) **Brute Extermination**
+-   (From [Diversiconfaction](The_Divers.md) ) **Brute Extermination**
     -   Tasks the player with slaying a [Mudskipper Brute](Mudskipper_Brute.md).
 
--   (From [Diversiconfaction](Divers.md) ) **Coldheart Fortinbras**
+-   (From [Diversiconfaction](The_Divers.md) ) **Coldheart Fortinbras**
     -   Tasks the player with defeating [Coldheart Fortinbras](Coldheart_Fortinbras.md).
 
--   (From [Diversiconfaction](Divers.md) ) **Crustaceous Regicide**
+-   (From [Diversiconfaction](The_Divers.md) ) **Crustaceous Regicide**
     -   Tasks the player with slaying a [Crustaceous Rex](Crustaceous_Rex.md).
 
--   (From [Diversiconfaction](Divers.md) ) **Deep Owl Extermination**
+-   (From [Diversiconfaction](The_Divers.md) ) **Deep Owl Extermination**
     -   Tasks the player with slaying a [Deep Owl](Deep_Owl.md).
 
 -   (From ) **Drowned Delver**
     -   Tasks the player with defeating [Finnegan The Lost](Finnegan_The_Lost.md).
 
--   (From [Diversiconfaction](Divers.md) ) **Gigamed Extermination**
+-   (From [Diversiconfaction](The_Divers.md) ) **Gigamed Extermination**
     -   Tasks the player with slaying a pack of three [Gigameds](Gigamed.md).
 
--   (From [Diversiconfaction](Divers.md) ) **Lionfish Extermination**
+-   (From [Diversiconfaction](The_Divers.md) ) **Lionfish Extermination**
     -   Tasks the player with slaying a [Lionfish](Lionfish.md).
 
 -   **Megalodaunt Extermination**
@@ -141,13 +141,13 @@ _Jobs relating to The Depths can be given by [The Divers](The_Divers.md) [Divers
 -   **The Fisherman**
     -   Tasks the player with defeating [The Fisherman](The_Fisherman.md).
 
--   (From [Diversiconfaction](Divers.md) ) **Thresher Extermination**
+-   (From [Diversiconfaction](The_Divers.md) ) **Thresher Extermination**
     -   Tasks the player with slaying two [Threshers](Thresher.md).
 
 -   **Thresher Regicide**
     -   Tasks the player with slaying a [King Thresher](King_Thresher.md).
 
--   (From [Diversiconfaction](Divers.md) ) **Thresher Rescue**
+-   (From [Diversiconfaction](The_Divers.md) ) **Thresher Rescue**
     -   Tasks the player with slaying a [King Thresher](King_Thresher.md). Three [Divers](Diver.md) will spawn to assist the player.
         
 
@@ -182,24 +182,24 @@ _Jobs relating to Minityrsa can be given by [Etrean Royalists](Etrean_Royalists.
     -   Tasks the player with defeating two [Immortal Guardians](Immortal_Guardian.md).
 
 -   (From [Etrean Royalistsiconfaction](Etrean_Royalists.md) ) **Merchant Recovery**
-    -   Tasks the player with slaying a [Snow Knight](Snow_Knight.md).
+    -   Tasks the player with slaying a [Snow Knight](Stone_Knight.md).
 
 -   (From [Etrean Royalistsiconfaction](Etrean_Royalists.md) ) **Roaming Broodlord**
     -   Tasks the player with slaying two [Mudskipper Brutes](Mudskipper_Brute.md) and a [Mudskipper Broodlord](Mudskipper_Broodlord.md).
 
--   (From [Etrean Royalistsiconfaction](Etrean_Royalists.md) ) [Ministryiconfaction](Ministry.md) **Save Hostage**
+-   (From [Etrean Royalistsiconfaction](Etrean_Royalists.md) ) [Ministryiconfaction](The_Ministry.md) **Save Hostage**
     -   Tasks the player with defeating two [Ministry Scouts](Ministry_Scout.md) and a [Ministry Captain](Ministry_Captain.md).
 
 ## Eastern Luminant
 
 ### Bluster Rapids
 
-_Jobs relating to Bluster Rapids can be given by [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](Central_Authority.md) and [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](Navae.md) ._
+_Jobs relating to Bluster Rapids can be given by [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md) and [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](Navae.md) ._
 
--   (From [Navaeiconfaction](Navae.md) ) [Authorityiconfaction](Central_Authority.md) **Authority Patrol** : _Authority scouts have been spotted in the region. A reward has been promised to whoever can send them packing._
+-   (From [Navaeiconfaction](Navae.md) ) [Authorityiconfaction](The_Central_Authority.md) **Authority Patrol** : _Authority scouts have been spotted in the region. A reward has been promised to whoever can send them packing._
     -   Tasks the player with defeating two [Authority Officers](Authority_Officer.md) and two [Authority Soldiers](Authority_Soldier.md).
 
--   (From [Navaeiconfaction](Navae.md) [Authorityiconfaction](Central_Authority.md) ) **Bounty Hunter Encampment**
+-   (From [Navaeiconfaction](Navae.md) [Authorityiconfaction](The_Central_Authority.md) ) **Bounty Hunter Encampment**
     -   Tasks the player with defeating three [Bounty Hunters](<Bounty_Hunter_(NPC).md>).
 
 -   (From [Navaeiconfaction](Navae.md) ) **Brain Eaters**
@@ -208,10 +208,10 @@ _Jobs relating to Bluster Rapids can be given by [The Central Authority](The_Cen
 -   (From [Navaeiconfaction](Navae.md) ) **Brutes**
     -   Tasks the player with slaying three [Mudskippers](Mudskipper.md) and a [Mudskipper Brute](Mudskipper_Brute.md).
 
--   (From [Authorityiconfaction](Central_Authority.md) ) **Eliminate Legion Sniper**
+-   (From [Authorityiconfaction](The_Central_Authority.md) ) **Eliminate Legion Sniper**
     -   Tasks the player with defeating a [Legion Sniper](Legion_Sniper.md).
 
--   (From [Authorityiconfaction](Central_Authority.md) ) **Legion Patrol**
+-   (From [Authorityiconfaction](The_Central_Authority.md) ) **Legion Patrol**
     -   Tasks the player with defeating three [Legion Soldiers](Legion_Soldier.md) and a [Legion Captain](Legion_Captain.md).
 
 -   (From [Navaeiconfaction](Navae.md) ) **Megalodaunt Attack**

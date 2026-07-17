@@ -23,7 +23,7 @@ notices:
 
 ## Description
 
-F'leche was a [Tiran](Tiran.md) NPC. She is one of several individuals who have become trapped in [New Kyrsa, The Sleeping City](New_Kyrsa,_The_Sleeping_City.md), and is having trouble remembering her past.
+F'leche was a [Tiran](Tiran.md) NPC. She is one of several individuals who have become trapped in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md), and is having trouble remembering her past.
 
 F'leche is unable to remember the name of the [Kyrsgarde](Kyrsgarde.md), but notes that they weren't always this frenzied until the presence of the player in the city. She gives insight to summoning the [Scion of Ethiron](Scion_of_Ethiron.md), and has knowledge about the obelisks needing to be de-activated.
 

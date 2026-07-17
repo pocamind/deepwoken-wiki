@@ -8,16 +8,16 @@ categories: [Cut Content]
 
 # Cut Content
 
-This page is about content that has either been removed or changed drastically in Deepwoken. An example of a drastic change is the [Flame Wisp](Flame_Wisp.md) rework, while a removal would be [Talents](Talents.md) that get merged such as Heartstopper, or content that is flat out removed, such as Isle of Crows.
+This page is about content that has either been removed or changed drastically in Deepwoken. An example of a drastic change is the [Flame Wisp](Flamecharm.md#flame-wisp) rework, while a removal would be [Talents](Talents.md) that get merged such as Heartstopper, or content that is flat out removed, such as Isle of Crows.
 
 ## Locations
 
 -   **[Isle of the Crows](Isle_of_the_Crows.md) -** Shown in the Deepwoken Direct, Isle of the Crows was an island with a number of Authority enemies. When all of them were killed, a boss NPC (simply known as the Captain) would appear and could also be killed. There was a crate that could be retrieved for items, EXP and money. An NPC known as Commander Rayner that could be found in Fort Merit still mentioned it post-release, but he was removed in a shadow update.
 -   **[The Seranece Mountains](The_Seranece_Mountains.md) -** Mountains high above the tides where the original [Temple of the Blade](Temple_of_the_Blade.md) was located.
--   **[Shrine of Winter](Shrine_of_Winter.md) -** A shrine that would instantly send players to [Scyphozia](Scyphozia.md) upon interaction with a [Frostdraw](Frostdraw.md) [Mantra](Mantras.md).
+-   **[Shrine of Winter](Shrine_of_Winter.md) -** A shrine that would instantly send players to [Scyphozia](First_Layer.md) upon interaction with a [Frostdraw](Frostdraw.md) [Mantra](Mantras.md).
 -   **Original Meteor Isle -** Even though [Meteor Isle](Meteor_Isle.md) was re-added, it was slightly tweaked from it's state prior to release. The island also received a few minor appearance changes and additional NPC's.
--   **Ironfist Island -** An island that only spawned [Megalodaunts](Megalodaunt.md) and was the original location of the [Deep Widow](Deep_Widow.md) and the [Primadon](Primadon.md).
--   **[Corvus Manor](Corvus_Manor.md) -** A Ministry affiliated area that was removed pre-launch. [Masters of the House](Masters_of_the_House.md) was meant to play here.
+-   **Ironfist Island -** An island that only spawned [Megalodaunts](Megalodaunt.md) and was the original location of the [Deep Widow](Deep_Widow.md) and the [Primadon](Primadon,_Titan_of_the_East.md).
+-   **[Corvus Manor](Corvus_Manor.md) -** A Ministry affiliated area that was removed pre-launch. [Masters of the House](Deepwoken_OST.md#masters-of-the-house) was meant to play here.
 -   **Etrean Waters -** An area that was present in the very beta of Deepwoken. Most likely an early version of the Etrean Sea, as it had a very similar description and was in the same general area, surrounding the island of Etris.
 -   **Etrean Woods -** Similarly to the Etrean Waters, this was likely an early version of the [Etrean Wilds](Etrean_Wilds.md). Notably, [Outpost Antumbra](Outpost_Antumbra.md), [Rat's Den](<Rat's_Den.md>) and [Erisor's Church](<Erisor's_Church.md>) could be found here. Footage can be found [here](https://www.youtube.com/watch?v=CcYSL2umv9E&list=PLQPka5UlSn4jMYDSxZv9kYGwCoITvDHg0&index=28) and [here](https://www.youtube.com/watch?v=4-SgUeP10MQ&list=PLQPka5UlSn4jMYDSxZv9kYGwCoITvDHg0&index=26)
 -   **Erebus -** An island containing Duke Erisia's manor, a huge maze and a large stone skull. Reworked into [the Hidden Village](The_Hidden_Village.md).
@@ -27,7 +27,7 @@ This page is about content that has either been removed or changed drastically i
 
 ## Quests
 
--   **Aerial Assault (quest) -** This quest was granted by [Ivory](Ivory.md) at [Pathfinder's Respite](<Pathfinder's_Respite.md>). She tasked you to go interact with the purple flames at the [Temple of the Forgotten Flame](Temple_of_the_Forgotten_Flame.md). Then upon returning to Ivory, she granted you the Aerial Assault Echo Talent. This quest, the quest giver, and the Talent itself were all removed on the [March 8th, 2025](Version_History/2025.md#march-8th-2025) update when Aerial Assault was made base behavior.
+-   **Aerial Assault (quest) -** This quest was granted by [Ivory](Ivory.md) at [Pathfinder's Respite](<Pathfinder's_Respite.md>). She tasked you to go interact with the purple flames at the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). Then upon returning to Ivory, she granted you the Aerial Assault Echo Talent. This quest, the quest giver, and the Talent itself were all removed on the [March 8th, 2025](Version_History/2025.md#march-8th-2025) update when Aerial Assault was made base behavior.
 -   **Chaser's Hemokinesis -** A quest was planned that would reveal how Chaser obtained his blood powers from the Ministry's Second Prophet via interacting with Ministry members hiding around the Second Layer's first floor. This would have tied into the Dungeon Invasion mechanic in some unknown way.[\[1\]](#cite-note-1)
 -   **Commander Rayner -** A quest that required travelling to the Isle of Crows and finding a basement. Though the Isle was removed, Rayner remained for a bit until eventually he too was removed.
 
@@ -42,9 +42,9 @@ This page is about content that has either been removed or changed drastically i
 -   **Vow of Hatred -** A consensual duel between two players. However, the loser of the duel would instantly wipe.
 -   **Hidden Name -** During testing all player names were hidden until you were told their name, otherwise they will be simply called stranger. This was removed to help prevent exploits and such.
 -   **Legendary Talents -** Incredibly powerful and rare to appear cards with game-changing effects, which could make or break builds. While they could appear randomly, they would be guaranteed to appear at Powers 15, 30, and 60.
-    -   Replaced with Advanced Cards in the [December 23rd, 2022](Version_History/2022.md#december-23rd-2022) [Verse 2](Version_History/2022.md#december-23rd-2022) Update. Others were turned into Rare Talents or completely removed from the game.
+    -   Replaced with Advanced Cards in the [December 23rd, 2022](Version_History/2022-2021.md#december-23rd-2022) [Verse 2](Version_History/2022-2021.md#december-23rd-2022) Update. Others were turned into Rare Talents or completely removed from the game.
 -   **Luck -** A small currency/counter that could be gained from doing certain tasks like fighting and killing Players, Corrupted Monsters, or Bosses, which made Rares and Legendary Talents appear more often. A small amount would be lost upon picking a Rare and a larger amount on a Legendary Talent. Stacked up to a max of 45%.
-    -   Was removed on the [December 23rd, 2022](Version_History/2022.md#december-23rd-2022) [Verse 2](Version_History/2022.md#december-23rd-2022) Update.
+    -   Was removed on the [December 23rd, 2022](Version_History/2022-2021.md#december-23rd-2022) [Verse 2](Version_History/2022-2021.md#december-23rd-2022) Update.
 -   **Perfect Casting -** Clicking M1 immediately after your Mantra cast will Perfect Cast it. The only use of this feature is to interact with some abilities.
     -   Was removed on the [August 11th, 2025](Version_History/2025.md#august-11th-2025) update as it didn't actually require any additional skill, it was basically just a knowledge gap. All mechanics/abilities that relied on Perfect Casts were reworked or made default behavior.
 -   **Vow of Thorns + Ironwoken Echo Modifiers -** Vow of Thorns boosted the rate of progression. However, players were faced with harder [trials](Cathedral_of_the_Interstice.md) and every death will would send them to the [depths](First_Layer.md). Ironwoken would stop players from receiving notes or items from other players.
@@ -87,7 +87,7 @@ This page is about content that has either been removed or changed drastically i
 -   **[Deep Angel](Deep_Angel.md) -** Angels with glowing pink feathers and clothing that inhabited [The Diluvian Mechanism](The_Diluvian_Mechanism.md) and [Ancient Rotlands](Ancient_Rotlands.md). Removed from the game in the [June 9th, 2025](Version_History/2025.md#june-9th-2025) update due to lore reasons, in which they had no real reason to exist. Their enemy spawns were replaced with [Nightmare Threshers](Nightmare_Thresher.md).
     -   They seem to be have been replaced with [Sworn Angels](Sworn_Angel.md). They are functionally the same mob yet not at the same time, with better implications in lore — similar to what happened with the Zombie Pigmen in Minecraft.
 
-**Konga Bandits -** Pale yellow/white, nude monsters that would presumably spawn in groups of 3-4. They wielded basic [Swords](Sword.md). They were the early prototype for [Mudskippers](Mudskipper.md). Called Konga bandits because of a tester who was always bald resembling them.
+**Konga Bandits -** Pale yellow/white, nude monsters that would presumably spawn in groups of 3-4. They wielded basic [Swords](<Sword_(weapon).md>). They were the early prototype for [Mudskippers](Mudskipper.md). Called Konga bandits because of a tester who was always bald resembling them.
 
 ## Talents
 
@@ -96,7 +96,7 @@ This page is about content that has either been removed or changed drastically i
     -   Along with **Lose Your Mind,** which used to deal _double_ damage at max insanity, a bug was found where Lose Your Mind's max damage buff was always active as long as you had some form of Insanity, effectively granting you permanent double or even _quadruple_ damage, as showcased in Shirafune's video.
 
 -   **Adept** \[Legendary Talent\] - Taking this Talent will make it easier to progress.
-    -   In the [December 23rd, 2022](Version_History/2022.md#december-23rd-2022) update, Adept was removed from the game.
+    -   In the [December 23rd, 2022](Version_History/2022-2021.md#december-23rd-2022) update, Adept was removed from the game.
 
 -   **Aeronade** \[Common Talent, Galebreathe\] - Your trap automatically detonates on contact with an object.
     -   In the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update, Aeronade was converted into the Blast Spark modifier for Gale Trap.
@@ -105,16 +105,16 @@ This page is about content that has either been removed or changed drastically i
     -   In the [March 8th, 2025](Version_History/2025.md#march-8th-2025) update, Aerial Assault was made base behavior. The quest to obtain this Echo Talent and the NPC who gave you that quest, [Ivory](Ivory.md), were removed as well.
 
 -   **Aerial Kick** \[Common Priority Talent\] - \[Fist\] When using a Light Attack while airborne propel yourself forward and do a kick downwards. (+1 Posture,+3 Carry Load, +1 Health)
-    -   In the [December 23rd, 2022](Version_History/2022.md#december-23rd-2022) update, all Aerial Talents were removed and instead became a part of base combat.
+    -   In the [December 23rd, 2022](Version_History/2022-2021.md#december-23rd-2022) update, all Aerial Talents were removed and instead became a part of base combat.
 
 -   **Aerial Shot** \[Common Priority Talent\] - \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
-    -   In the [December 23rd, 2022](Version_History/2022.md#december-23rd-2022) update, all Aerial Talents were removed and instead became a part of base combat.
+    -   In the [December 23rd, 2022](Version_History/2022-2021.md#december-23rd-2022) update, all Aerial Talents were removed and instead became a part of base combat.
 
 -   **Aerial Spin** \[Common Priority Talent\] - \[Daggers/Rapiers\] When using a Light Attack while airborne propel yourself forward and do a spin slash hitting those below. (+2 Passive Agility, +1 Health)
-    -   In the [December 23rd, 2022](Version_History/2022.md#december-23rd-2022) update, all Aerial Talents were removed and instead became a part of base combat.
+    -   In the [December 23rd, 2022](Version_History/2022-2021.md#december-23rd-2022) update, all Aerial Talents were removed and instead became a part of base combat.
 
 -   **Aerial Stab** \[Common Priority Talent\] - \[Swords/Spears\] When using a light attack while airborne propel yourself forward and do a stab downwards. (+1 Posture, +3 Carry Load, +1 Health)
-    -   In the [December 23rd, 2022](Version_History/2022.md#december-23rd-2022) update, all Aerial Talents were removed and instead became a part of base combat.
+    -   In the [December 23rd, 2022](Version_History/2022-2021.md#december-23rd-2022) update, all Aerial Talents were removed and instead became a part of base combat.
 
 -   **Agitating Static** \[Common Talent, Thundercall\] - Using Discovery of Fire will light nearby downed enemies aflame.
     -   In the [October 6, 2023](Version_History/2023.md#october-6-2023) update, Agitating Static was merged into Discovery of Fire.
@@ -138,10 +138,10 @@ This page is about content that has either been removed or changed drastically i
     -   In the [July 12th, 2024](Version_History/2024.md#july-12th-2024) update, Bodyguard Detail was removed due to a new mechanic being introduced when nearby allied mobs would rush to your aid if you're attacked in allied territory and your rep with them is much higher than your attacker's.
 
 -   **Boom, Headshot** \[Common Talent\] - \[Guns\] When you attack an enemy much weaker than you, you kill them instantly.
-    -   In the [December 20th, 2022](Version_History/2022.md#december-20th-2022) update, Boom, Headshot was merged into Lethal Precision.
+    -   In the [December 20th, 2022](Version_History/2022-2021.md#december-20th-2022) update, Boom, Headshot was merged into Lethal Precision.
 
 -   **Boot Wallet** \[Common Talent\] - You no longer lose notes from dying.
-    -   In the [December 5th, 2022](Version_History/2022.md#december-5th-2022) update, Boot Wallet was merged into Robber Baron.
+    -   In the [December 5th, 2022](Version_History/2022-2021.md#december-5th-2022) update, Boot Wallet was merged into Robber Baron.
 
 -   **Boulder Climb** \[Common Talent, Agility\] - Your climb height increases when you slide jump.
     -   In the [August 23rd, 2024](Version_History/2024.md#august-23rd-2024) update, Boulder climb was merged into Kick Off.
@@ -159,7 +159,7 @@ This page is about content that has either been removed or changed drastically i
     -   In the [March 13th, 2023](Version_History/2023.md#march-13th-2023) update, Command: Leech became a base Vow of Mastery command.
 
 -   **Command: Locate** \[Common Talent, Charisma\] - Locate one of your vow members (+4 Ether, +3 Health)
-    -   In the [December 6th, 2022](Version_History/2022.md#december-6th-2022) update, Command: Locate became a base Vow of Mastery command.
+    -   In the [December 6th, 2022](Version_History/2022-2021.md#december-6th-2022) update, Command: Locate became a base Vow of Mastery command.
 
 -   **Command: Return** \[Rare Talent, Charisma\] - Command your servant to obey your vow and return to your side.
     -   In the [August 30th, 2024](Version_History/2024.md#august-30th-2024) update, Command: Return became a base Vow of Mastery command.
@@ -168,7 +168,7 @@ This page is about content that has either been removed or changed drastically i
     -   In the [June 21st, 2024](Version_History/2024.md#june-21st-2024) update, Command: Sacrifice became a base Vow of Mastery command.
 
 -   **Concentrated Reload** \[Common Talent\] - Perfect Casting a mantra and flourishes reduce the cost of Ether Bullets for 5 seconds. (+4 Ether, +8 Reservoir)
-    -   In the [October 24nd, 2022](Version_History/2022.md#october-24nd-2022) update, Concentrated Reload and Ether Bullets were removed due to their functionality being irrelevant.
+    -   In the [October 24nd, 2022](Version_History/2022-2021.md#october-24nd-2022) update, Concentrated Reload and Ether Bullets were removed due to their functionality being irrelevant.
 
 -   **Cryostasis** \[Common Talent, Frostdraw\] - When block broken, freeze yourself, reducing incoming damage by 50% and dealing frost damage to attackers.
     -   In the [July 14th, 2025](Version_History/2025.md#july-14th-2025) update, Cryostasis was removed due to rewarding you for playing poorly and punishing your opponents for playing well.
@@ -183,7 +183,7 @@ This page is about content that has either been removed or changed drastically i
     -   In the [August 30th, 2024](Version_History/2024.md#august-30th-2024) shadow update, Depths Connection was removed from the game.
 
 -   **Diplomat** \[Common Talent, Charisma\] - Your natural skill in mediating conflict makes people think more highly of you. (+3 Ether, +3 Health)
-    -   In the [December 13th, 2022](Version_History/2022.md#december-13th-2022) update, Diplomat was merged into Celebrity.
+    -   In the [December 13th, 2022](Version_History/2022-2021.md#december-13th-2022) update, Diplomat was merged into Celebrity.
 
 -   **Drifting Winds** \[Common Talent, Galebreathe\] - Wind mantras make enemies winded on hit, winded enemies have lowered attack speed. (+2 Passive Agility, +5 Elemental Intensity)
     -   In the [May 15th, 2023](Version_History/2023.md#may-15th-2023) update, Drifting Winds became base behavior for Galebreathe.
@@ -198,7 +198,7 @@ This page is about content that has either been removed or changed drastically i
     -   In the [January 3rd, 2023](Version_History/2023.md#january-3rd-2023) update, Encouraging Presence was merged into Conquer Your Fears.
 
 -   **Ether Bullets** \[Common Talent\] - \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
-    -   In the [October 24th, 2022](Version_History/2022.md#october-24th-2022) update, Guns cost no Ether to fire, making this Talent effectively useless.
+    -   In the [October 24th, 2022](Version_History/2022-2021.md#october-24th-2022) update, Guns cost no Ether to fire, making this Talent effectively useless.
 
 -   **Ether Conduit** \[Common Talent, Intelligence\] - Your Ether Adept Talents that grant you ether on proc now give you stacks of Inspiration. At 3 stacks of Inspiration. your mantras will deal 10% more damage for 5s. (+7 Carry Load)
     -   In the [August 4th, 2025](Version_History/2025.md#august-4th-2025) update, Ether Conduit was merged into Eureka.
@@ -210,13 +210,13 @@ This page is about content that has either been removed or changed drastically i
 
 -   **Exoskeleton (Old)** \[Generic Talent, Legendary Talent\] - It will always take 20 hits to knock you down.
     -   Every hit would deal 5% of your maximum HP regardless of how much damage it would deal otherwise.
-    -   In the [February 14th, 2022](Version_History/2022.md#february-14th-2022) update, Exoskeleton was changed to its current form, granting Natural Armor.
+    -   In the [February 14th, 2022](Version_History/2022-2021.md#february-14th-2022) update, Exoskeleton was changed to its current form, granting Natural Armor.
 
 -   **Exploding Mirage Clones** \[Rare Talent, Flamecharm\] - Your mirage clone now explodes.
     -   In the [May 22nd, 2023](Version_History/2023.md#may-22nd-2023) update, Exploding Mirage Clones was removed from the game.
 
 -   **Familiar Sight** \[Common Talent, Charisma\] - Being hit by someone of the same aspect causes them to be charmed for a short duration.
-    -   In the [December 13th, 2022](Version_History/2022.md#december-13th-2022) update, Familiar Sight was merged into Tough Love.
+    -   In the [December 13th, 2022](Version_History/2022-2021.md#december-13th-2022) update, Familiar Sight was merged into Tough Love.
 
 -   **Finesse** \[Common Talent, Agility\] - You pull your weapon out silently. (+3 Passive Agility, +5 Health)
     -   In the [February 6th, 2023](Version_History/2023.md#february-6th-2023) update, Finesse was merged into Now You See Me.
@@ -228,7 +228,7 @@ This page is about content that has either been removed or changed drastically i
     -   In the [January 18th, 2026](Version_History/2026.md#january-18th-2026) update, Fishman was made innate.
 
 -   **Flaming Rebound** \[Rare Talent, Flamecharm\] - Landing fire mantras will restore your Tempo. (+3 Elemental Intensity)
-    -   In the [December 23rd, 2022](Version_History/2022.md#december-23rd-2022) update, Flaming Rebound was removed and replaced by Elemental Rebound.
+    -   In the [December 23rd, 2022](Version_History/2022-2021.md#december-23rd-2022) update, Flaming Rebound was removed and replaced by Elemental Rebound.
 
 -   **Flaming Uppercut** \[Common Talent, Flamecharm\] - Ignite flames on an enemy when you uppercut them.
     -   In the [October 20th, 2023](Version_History/2023.md#october-20th-2023) update, Flaming Uppercut was merged into Flaming Flourish.
@@ -271,10 +271,10 @@ This page is about content that has either been removed or changed drastically i
     -   In the [January 19th, 2024](Version_History/2024.md#january-19th-2024) update, Health Pack was made innate, increasing the base HP of all players by 10.
 
 -   **Heartbreaker** \[Common Talent, Light\] - \[Fist\] When you flourish an enemy much weaker than you, you kill them instantly. (+1 Posture, +4 Carry Load, +2 Health)
-    -   In the [December 20th, 2022](Version_History/2022.md#december-20th-2022) update, Heartbreaker was merged into Lethal Precision.
+    -   In the [December 20th, 2022](Version_History/2022-2021.md#december-20th-2022) update, Heartbreaker was merged into Lethal Precision.
 
 -   **Heavy Lifting** \[Common Talent\] - You can lift heavy objects with ease. (+4 Health, +9 Carry Load)
-    -   In the [October 17th, 2022](Version_History/2022.md#october-17th-2022) update, Heavy Lifting was removed from the game.
+    -   In the [October 17th, 2022](Version_History/2022-2021.md#october-17th-2022) update, Heavy Lifting was removed from the game.
 
 -   **Hidden Blade** \[Common Talent, 30 Agility\] - Assassinations now leave enemies on the ground longer.
     -   In the [November 24th, 2023](Version_History/2023.md#november-24th-2023) update, Hidden Blade was removed from the game.
@@ -291,7 +291,7 @@ This page is about content that has either been removed or changed drastically i
     -   In the [May 31t, 2026](Version_History/2026.md#may-31t-2026) update, Just a Taste was merged into First Blood.
 
 -   **Lasting Image** \[Oath Talent\] - Your illusions last longer.
-    -   In the [November 28th, 2022](Version_History/2022.md#november-28th-2022) update, Lasting Image was removed from the game.
+    -   In the [November 28th, 2022](Version_History/2022-2021.md#november-28th-2022) update, Lasting Image was removed from the game.
 
 -   **Last Laugh** \[Common Talent, Flamecharm\] - Gain the ability to incinerate yourself when down with Flame Within. If Phoenix Flames procs, you will only be restored up to 25% of your HP instead of the full 50%.
     -   In the [September 2nd, 2024](Version_History/2024.md#september-2nd-2024) update, Last Laugh was merged into Flame Within.
@@ -300,7 +300,7 @@ This page is about content that has either been removed or changed drastically i
     -   In the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update, Last Second Negotiations, Defiant until the End, and Savior were merged into Stay of Execution.
 
 -   **Legendary Echoes - Receive a random Legendary Talent.**
-    -   With [Verse 2](Version_History/2022.md#december-23rd-2022) update most Legendary Talents have turned into Advanced Talents, while other Legendary Talents decreased in rarity to Rare.
+    -   With [Verse 2](Version_History/2022-2021.md#december-23rd-2022) update most Legendary Talents have turned into Advanced Talents, while other Legendary Talents decreased in rarity to Rare.
 
 -   **Lethal Force** \[Common Talent, Medium\] - \[Medium Weapons\] When you attack an enemy much weaker than you, you kill them instantly.
     -   In the [January 3rd, 2023](Version_History/2023.md#january-3rd-2023) update, In Twain and Lethal Force were merged into Lethal Precision.
@@ -363,7 +363,7 @@ This page is about content that has either been removed or changed drastically i
     -   In the [August 15th, 2023](Version_History/2023.md#august-15th-2023) update, Quick Link was merged into Static Link.
 
 -   **Quick Recovery** \[Common Talent, Agility\] - You move faster after doing a wall jump. (+1 Passive Agility)
-    -   In the [December 13th, 2022](Version_History/2022.md#december-13th-2022) update, Quick Recovery was merged into Kick Off.
+    -   In the [December 13th, 2022](Version_History/2022-2021.md#december-13th-2022) update, Quick Recovery was merged into Kick Off.
 
 -   **Raging Static** \[Common Talent, Thundercall\] - Your Jumpstart no longer gives you movement buffs, but your outgoing physical damage is increased up to 20%. The self damage to activate it is lowered. Your cooldown on Jumpstart is also lowered.
     -   In the [December 13th, 2025](Version_History/2025.md#december-13th-2025) update, Raging Static was removed and replaced with Amplified Rage.
@@ -379,7 +379,7 @@ This page is about content that has either been removed or changed drastically i
     -   In the [July 21st, 2024](Version_History/2024.md#july-21st-2024) update, Rude Awakening was merged into Cryostasis.
 
 -   **Salesperson** \[Common Talent, Charisma\] - Vendors pay more for your sold items. Pretty sure they just pay extra to get you to leave them alone. (+2 Ether, +2 Health)
-    -   In the [December 13th, 2022](Version_History/2022.md#december-13th-2022) update, Salesperson was merged into Snake Oil.
+    -   In the [December 13th, 2022](Version_History/2022-2021.md#december-13th-2022) update, Salesperson was merged into Snake Oil.
 
 -   **Savior** \[Common Talent, Willpower\] - After saving a player from being gripped gain a short speed boost for a short duration. (+1 Sanity)
     -   In the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update, Savior, Defiant until the End, and Last Second Negotiations were merged into Stay of Execution.
@@ -403,7 +403,7 @@ This page is about content that has either been removed or changed drastically i
     -   In the [January 26th, 2024](Version_History/2024.md#january-26th-2024) update, Skull Crusher was made base behavior for Champion's Whirlthrow.
 
 -   **Steel Filter** \[Common Talent\] - \[Greataxes\] Attacking an enemy that has speed boosts increases posture damage against them. (+3 Health)
-    -   In the [October 24th, 2022](Version_History/2022.md#october-24th-2022) update, Steel Filter was merged into Impairing Blow.
+    -   In the [October 24th, 2022](Version_History/2022-2021.md#october-24th-2022) update, Steel Filter was merged into Impairing Blow.
 
 -   **Stormcaller Slash** \[Common Talent\] - Call forth the fury of storms by pressing F at the end of your move.
     -   After casting Lightning Blade, pressing F within a second would deliver extra slashes at the end of the mantra.
@@ -429,7 +429,7 @@ This page is about content that has either been removed or changed drastically i
     -   In the [August 4th, 2025](Version_History/2025.md#august-4th-2025) update, The Sound from Below was removed due to being irrelevant.
 
 -   **The Thinker** \[Common Talent\] - Standing still for 15 seconds causes you to rapidly regenerate ether. (+5 Ether, +10 Reservoir)
-    -   Was removed with the release of the [Verse 2](Version_History/2022.md#december-23rd-2022) update.
+    -   Was removed with the release of the [Verse 2](Version_History/2022-2021.md#december-23rd-2022) update.
 
 -   **Third Interrogation** \[Common Talent, Thundercall\] - Electrified attacks do 50% less damage to you.
     -   In the [October 6th, 2023](Version_History/2023.md#october-6th-2023) update, Third Interrogation was merged into Second Interrogation.
@@ -456,10 +456,10 @@ This page is about content that has either been removed or changed drastically i
     -   In the [January 18th, 2025](Version_History/2025.md#january-18th-2025) update, Uproar was removed from the game due to the developers not being able to balance this talent right.
 
 -   **Vanishing Follow-up** \[Legendary Talent, Agility\] - Upon a successful flourish, teleport to the opponent when they stop moving.
-    -   In the [December 23nd, 2022](Version_History/2022.md#december-23nd-2022) update, Vanishing Follow-up was removed from the game.
+    -   In the [December 23nd, 2022](Version_History/2022-2021.md#december-23nd-2022) update, Vanishing Follow-up was removed from the game.
 
 -   **Vital Point** \[Common Talent, Agility\] - Assassinating someone gives you 25% PEN for 5 seconds. (+1 Passive Agility)
-    -   In the [January 13th, 2022](Version_History/2022.md#january-13th-2022) update, Vital Point was merged into Lights out.
+    -   In the [January 13th, 2022](Version_History/2022-2021.md#january-13th-2022) update, Vital Point was merged into Lights out.
 
 -   **Volt Kick** \[Common Talent, Thundercall\] - After landing a lightning kick successfully, press F to followup on your opponent with a less potent kick. (+7 Carry Load)
     -   In the [August 30th, 2024](Version_History/2024.md#august-30th-2024) update, Volt Kick became base behavior for Thunder Kick.
@@ -479,7 +479,7 @@ This page is about content that has either been removed or changed drastically i
 
 Not to be confused with Advanced Talents, Legendary Talents were a class of character-defining Talents that often required high attribute investment, or obtainment of multiple other Talents to obtain.
 
-In the [Verse 2](Version_History/2022.md#december-23rd-2022) update, Legendary Talent as a rarity was removed and replaced with Advanced Talents, with a majority of Legendary Talents being turned into Advanced Talents.
+In the [Verse 2](Version_History/2022-2021.md#december-23rd-2022) update, Legendary Talent as a rarity was removed and replaced with Advanced Talents, with a majority of Legendary Talents being turned into Advanced Talents.
 
 #### Attunements
 
@@ -558,14 +558,14 @@ Charisma
 
 -   **[Meteor Isle](Meteor_Isle.md) Meteor Event -** An event that would send a large blue meteor similar to the ones of the [Stone Knight](Stone_Knight.md) event crashing down onto the isle. It would spawn a few [Mudskipper Knights](Mudskipper_Knight.md) and link the player to the meteor with a blue chain. This event was shelved due to it being poorly optimized and an overall nuisance.
 -   **[Songwright](Songwright.md) -** Songwrights allowed the player to upgrade their Mantras inside of the [Guild Base](Guild_Bases.md) for a 50% cost increase. However, their function was added to the [Mantra Lectern](Mantra_Lectern.md), casting them aside to the darkness like the Mystics.
--   **Lockers -** These were pseudo [campfires](Campfire.md) that let you access your [Mantras](Mantras.md) and [Talents](Talents.md), while not actually healing you. They were mostly placed exclusively in [The Depths](First_Layer.md), and were removed on the February 16th, 2026 update due to their use no longer being needed.
+-   **Lockers -** These were pseudo [campfires](Campfire_Pit.md) that let you access your [Mantras](Mantras.md) and [Talents](Talents.md), while not actually healing you. They were mostly placed exclusively in [The Depths](First_Layer.md), and were removed on the February 16th, 2026 update due to their use no longer being needed.
 -   **[False Memory](False_Memory.md) -** This weapon was obtained through the [Hippocampal Pool](Hippocampal_Pool.md) to let players replace their equipped weapon with another to unequip it and pass it down. It was removed on the [Feburary 16th, 2026](Version_History/2026.md#feburary-16th-2026) update due to players gaining the ability to remove their weapon and swap to fists from the Journal.
 -   **[Ancient Rotlands](Ancient_Rotlands.md) Brains -**
     
     One of the brains found in the Ancient Rotlands
     
     -   Previously, there were two large, pulsating, fleshy masses dubbed "brains" by the community in the Rotlands that caused the player to lose [sanity](Insanity.md) when within the radius of their pulse, which was activated by looking directly at it. Running out of sanity while near one would cause the player's head to explode. Their removal was never mentioned in update logs, causing players to believe it was a bug, as the long chains suspending the brains persisted and only the brain was missing. It was later confirmed that they were intentionally removed due to their nonsensical placement and function lorewise[\[2\]](#cite-note-2).
--   **[The Captain](The_Captain.md) -**
+-   **[The Captain](<Cap'n_Orlandeau.md>) -**
     
     The Captain
     
@@ -584,12 +584,12 @@ Charisma
 -   **Locked Chest -** Chests dropped from the monsters used to be locked and had to be carried to Bankers and other NPC's to be unlocked to reap the rewards. Two NPCs, the researcher at the Diver Camp and [Castle Light](Castle_Light.md)'s leader used to mention this mechanic in their dialogue post-release.
 -   **Lore Guilds -** There used to be more guilds akin to The Divers in game, however, they eventually all got removed with the exception of The Divers. The Knives of Eylis and Central Authority were later added as well. Known inaccessible Lore guilds include The Hive.
 -   **Original Guild Housing -** A cut feature that allowed guilds to have bases on set plots on islands.
-    -   Added in the [December 23rd, 2022](Version_History/2022.md#december-23rd-2022) [Verse 2](Version_History/2022.md#december-23rd-2022) Update, however with a much more fluid system, being able to make a door for your Guild Base anywhere at any time to enter it, instead of being only on specific islands.
+    -   Added in the [December 23rd, 2022](Version_History/2022-2021.md#december-23rd-2022) [Verse 2](Version_History/2022-2021.md#december-23rd-2022) Update, however with a much more fluid system, being able to make a door for your Guild Base anywhere at any time to enter it, instead of being only on specific islands.
 -   **Officer's Note -** An item dropped by Authority mobs that was originally part of a cut quest. It was removed a few weeks after the game's release.
 -   **Original Sacks -** Craftable a short time after release but then shadow removed, due to them no longer serving a use. Sacks were craftable with 2 pieces of cloth and would let the player carry chests by stuffing them inside. This was used in conjunction with the Locked Chest system.
 -   **Renewed Ambition -** A visual indicator for meeting one of your requirements for levelling. It was seen in one of Agamatsu's videos on Deepwoken in 2021.
 -   **Set Spawns -** During its testing phase, all enemy spawns were in set locations, with no randomized spawns.[\[3\]](#cite-note-3)
--   **[Serena](Serena.md) -** A Felinor NPC who appeared in The [Starswept Valley](Starswept_Valley.md) where she would ask for a Canteen with Water. If the player gave her water, she would either thank the player and hand over a chest, or attack the player and granting a chest when defeated. She was removed due to a softlock bug involved with her that was hard to test, as well as being an annoying event in general.[\[4\]](#cite-note-4)
+-   **[Serena](Serena.md) -** A Felinor NPC who appeared in The [Starswept Valley](The_Starswept_Valley.md) where she would ask for a Canteen with Water. If the player gave her water, she would either thank the player and hand over a chest, or attack the player and granting a chest when defeated. She was removed due to a softlock bug involved with her that was hard to test, as well as being an annoying event in general.[\[4\]](#cite-note-4)
 -   **Depths Shrines -** Originally, there used to be shrines which allowed the players to be teleported to the depths. That was the only known way of entering [The Depths](The_Depths.md) at the time. Known shrines: Winter (at the back of [The Floating Keep](The_Floating_Keep.md) and some unknown location shown in the video likely being The Seranece Mountains), Spring (Ironfist Island, in the cave under [The Summer Company](The_Summer_Company.md)'s castle on the Summer Isle), Summer (inside the cave near [The Summer Company](The_Summer_Company.md)'s castle).
 -   **Shrine of Dominion/Domination -** Swaps your lowest stat and your highest stat, (eg. Your 0 Agility is swapped with your 80 Willpower, resulting in 80 Agility and 0 Willpower), This was going to be added in verse 2 along with all of the other Deep Shrines but was scrapped as it was way too overpowered.
 -   **Skill Books -** Before the current training gears, the player would have to find various NPCs scattered around the world that sold items related with the skill, along with Skill Books, which were essentially similar to the current training gear, but would only have 5 uses. There was a skill book for each skill.
@@ -597,12 +597,12 @@ Charisma
 -   **[Blade Instructor](Blade_Instructor.md)\-** In the [Isle of Vigils](Isle_of_Vigils.md), players were able to spar with an instructor at the cost of 20. You could also spar with another player by talking to the instructor.
 -   **[Corvis](Corvis.md)\-** An NPC in earlier versions of the game that was in a tent by [The Hidden Village](The_Hidden_Village.md) who mentions Stormcall. He was described as 'old lore' that was meant to be removed.
 -   **Universal Uniques -** Special items available in limited numbers across the entire game. Gripping owners of these items would grant them to the killer and losing them would readd them to the lootpool to be reobtained. This was cut due to limitations of the Roblox Engine.
--   **Obtained the [Deepshore Fossil](Deepshore_Fossil.md) Triumph -** On the [August 25th, 2025](Version_History/2025.md#august-25th-2025) update, the [Echo](Echo.md) triumph requiring the player to obtain the Deepshore Fossil was removed in place for the 'Cleared a World Event' triumph.
--   **[Shrine of Ostentation](Shrine_of_Ostentation.md) -** Removed on the [September 15th, 2025](Version_History/2025.md#september-15th-2025) update, for 10 [Knowledge](Knowledge.md), the Shrine of Ostentation allowed the player to transfer a Common or Advanced Talent into a random Rare Talent and vice versa. This shrine was later merged with the [Shrine of Chance](Shrine_of_Chance.md).
--   **[Sea Highways](Sea_Highway.md) -** Removed on the [October 25th, 2025](Version_History/2025.md#october-25th-2025) update, Sea Highways were large structures scattered through the [Etrean Sea](Etrean_Sea.md) and [Aratel Sea](Aratel_Sea.md). Powered by Thundercall, it allowed boats to receive a 'jolt' of energy to travel significantly faster between frequently traversed areas.
+-   **Obtained the [Deepshore Fossil](Deepshore_Fossil.md) Triumph -** On the [August 25th, 2025](Version_History/2025.md#august-25th-2025) update, the [Echo](Echoes.md) triumph requiring the player to obtain the Deepshore Fossil was removed in place for the 'Cleared a World Event' triumph.
+-   **[Shrine of Ostentation](Deep_Shrines/Shrine_of_Ostentation.md) -** Removed on the [September 15th, 2025](Version_History/2025.md#september-15th-2025) update, for 10 [Knowledge](Knowledge.md), the Shrine of Ostentation allowed the player to transfer a Common or Advanced Talent into a random Rare Talent and vice versa. This shrine was later merged with the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md).
+-   **[Sea Highways](Sea_Highway.md) -** Removed on the [October 25th, 2025](Version_History/2025.md#october-25th-2025) update, Sea Highways were large structures scattered through the [Etrean Sea](The_Etrean_Sea.md) and [Aratel Sea](The_Aratel_Sea.md). Powered by Thundercall, it allowed boats to receive a 'jolt' of energy to travel significantly faster between frequently traversed areas.
 -   **Smuggler Investigation** - An [Authority Ensign](Authority_Ensign.md) mission that would spawn a ship of smugglers carrying green [Barrels](Barrel.md). It's mission description read "_There's some shipments being smuggled without our permission at Summer Isle. Search the surrounding waters for ships, What you do with the supplies is up to you._"
     
--   **[Shrine of Solitude](Shrine_of_Solitude.md) -** Removed on the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update, the Shrine of Solitude functioned identically to the removed [Mystics](Mystic.md), hence their later removal.
+-   **[Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md) -** Removed on the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update, the Shrine of Solitude functioned identically to the removed [Mystics](Mystic.md), hence their later removal.
 -   **[Deepshore Fossil](Deepshore_Fossil.md) -** Removed on the [May 31st, 2026](Version_History/2026.md#may-31st-2026) update by community vote, it allowed the player to select a non-exclusive [Enchant Stone](Enchant_Stone.md) of choice. All other gameplay mechanics relating to the Deepshore Fossil were also removed.
 -   **[Repair Hammer](Repair_Hammer.md) -** Removed on the [April 18th, 2026](Version_History/2026.md#april-18th-2026) update, Repair Hammers were removed in place for [Repair Materials](Repair_Materials.md), a stackable and craftable item used directly repair ships.
 
@@ -612,7 +612,7 @@ The Mystic was an NPC who allowed players to guarantee a Talent category when ro
 
 Finally, in the [February 16th, 2026](Version_History/2026.md#february-16th-2026) update, the Mystic was fully removed from the game, due to them essentially being made irrelevant by changes made to the Journal that integrated their effects. Driven back to the shadows, they now must seek legitimate employment.[\[5\]](#cite-note-5)
 
-[Strength](Strength.md)
+[Strength](Attributes.md#str)
 
 -   _I see what I desire to._ **(Strength Unbound)**
 -   _I seek the qualities of Annihilator._ **(Annihilator)**
@@ -621,14 +621,14 @@ Finally, in the [February 16th, 2026](Version_History/2026.md#february-16th-2026
 -   _I seek the qualities of Rampaging Brute._ **(Rampaging Brute)**
 -   _My attack is unstoppable._ **(Raging Bull)**
 
-[Fortitude](Fortitude.md)
+[Fortitude](Attributes.md#ftd)
 
 -   _I seek the qualities of Great Wall._ **(Fortitude Unbound)**
 -   _I am an everlasting bastion._ **(Bastion)**
 -   _I seek the qualities of Human Architecture._ **(Human Architecture)**
 -   _My shield is my ally._ **(Shieldmaster)**
 
-[Agility](Agility.md)
+[Agility](Attributes.md#agl)
 
 -   _I move like water._ **(Agility Unbound)**
 -   _I once performed in a Circus_ **(Acrobat)**
@@ -642,7 +642,7 @@ Finally, in the [February 16th, 2026](Version_History/2026.md#february-16th-2026
 -   _I seek the qualities of Swiftshade._ **(Swiftshade)**
 -   _I often like to play pranks on others._ **(Trickster)**
 
-[Intelligence](Intelligence.md)
+[Intelligence](Attributes.md#int)
 
 -   _I think before I fight._ **(Tactician)**
 -   _I fight from afar._ **(Adept Caster)**
@@ -653,7 +653,7 @@ Finally, in the [February 16th, 2026](Version_History/2026.md#february-16th-2026
 -   _I seek the qualities of Elementalist._ **(Elementalist)**
 -   _I seek the qualities of All-Knowing._ **(All-Knowing)**
 
-[Willpower](Willpower.md)
+[Willpower](Attributes.md#wll)
 
 -   _I seek the qualities of Iron Will._ **(Willpower Unbound)**
 -   _I am a slayer of beasts._ **(Beast Slayer)**
@@ -665,7 +665,7 @@ Finally, in the [February 16th, 2026](Version_History/2026.md#february-16th-2026
 -   _I dominate the minds of others._ **(Mindbreaker)**
 -   _I seek the qualities of Human Architecture._ **(Human Architecture)**
 
-[Charisma](Charisma.md)
+[Charisma](Attributes.md#cha)
 
 -   _I seek the qualities of Mr Charm._ **(Charisma Unbound)**
 -   _I use the song to charm others._ **(Charm Caster)**
@@ -797,13 +797,13 @@ Any
 
 [Oaths](Oaths.md)
 
--   _The Union is absolute._ **([Arcwarder](Arcwarder.md))**
--   _I will protect this world._ **([Blindseer](Blindseer.md))**
--   _Journey before destination._ **([Jetstriker](Jetstriker.md))**
--   _I create bonds between others._ **([Linkstrider](Linkstrider.md))**
--   _I am unbounded._ **([Oathless](Oathless.md))**
--   _I speak for my masters above._ **([Starkindred](Starkindred.md))**
--   _I speak to the Owls._ **([Visionshaper](Visionshaper.md))**
+-   _The Union is absolute._ **([Arcwarder](Oath%253A_Arcwarder.md))**
+-   _I will protect this world._ **([Blindseer](Oath%253A_Blindseer.md))**
+-   _Journey before destination._ **([Jetstriker](Oath%253A_Jetstriker.md))**
+-   _I create bonds between others._ **([Linkstrider](Oath%253A_Linkstrider.md))**
+-   _I am unbounded._ **([Oathless](Oath%253A_Oathless.md))**
+-   _I speak for my masters above._ **([Starkindred](Oath%253A_Starkindred.md))**
+-   _I speak to the Owls._ **([Visionshaper](Oath%253A_Visionshaper.md))**
 
 ## References
 

@@ -35,25 +35,25 @@ categories: [Weapons, Oaths, Weapons with Unique Criticals, "Weapons with Multi-
 | pass down | No |
 | description | "" |
 
-_This page is for the Oath. For the [Memento](Memento.md), see [Saintsworn (Memento)](<Saintsworn_(Memento).md>)._
+_This page is for the Oath. For the [Memento](Mementos.md), see [Saintsworn (Memento)](<Saintsworn_(Memento).md>)._
 
 ## Description
 
-**[Oath](Oath.md): Saintsworn** is one of the 17 obtainable [Oaths](Oaths.md) in _Deepwoken_, being centered around the usage of multiple attunements, and Hero's Blades. It allows you to harness the power of the souls of [the Five Heroes](The_Five_Heroes.md) and wield their abilities in combat with their souls watching over your strife.
+**[Oath](Oaths.md): Saintsworn** is one of the 17 obtainable [Oaths](Oaths.md) in _Deepwoken_, being centered around the usage of multiple attunements, and Hero's Blades. It allows you to harness the power of the souls of [the Five Heroes](The_Five_Heroes.md) and wield their abilities in combat with their souls watching over your strife.
 
 “ Once, I stood with the Five, a hero among them. But loyalty? It's a fragile thing. Betrayal? It's as inevitable as the night. ”
 
 ― Urek Felhand, Saint of Shadow
 
-[The Five Heroes](The_Five_Heroes.md) were considered to be the Saints of their respective [attunements](Attunement.md) back in times of old. Wishing to carry on their legacy after they met their fate, they would make a Vow to infuse their souls into swords after their demise, turning into [Hero Blades](Hero_Blades.md). The player, upon swearing the Oath, vows to carry on their legacy with [the Heroes](The_Five_Heroes.md) themselves watching over them.
+[The Five Heroes](The_Five_Heroes.md) were considered to be the Saints of their respective [attunements](Attunements.md) back in times of old. Wishing to carry on their legacy after they met their fate, they would make a Vow to infuse their souls into swords after their demise, turning into [Hero Blades](Hero_Blades.md). The player, upon swearing the Oath, vows to carry on their legacy with [the Heroes](The_Five_Heroes.md) themselves watching over them.
 
 ### Obtainment
 
 Saintsworn obtainment requires 15 investment points in the following attunements: [Flamecharm](Flamecharm.md), [Galebreathe](Galebreathe.md), [Shadowcast](Shadowcast.md), [Frostdraw](Frostdraw.md), and [Thundercall](Thundercall.md).
 
-After acquiring the needed stats, you then need to resonate (interact with) every [obelisk](Saintsworn_Obelisks.md). Left or middle click the gifs to enlarge them. The obelisks can be interacted with in any order, the most time effective method as of now, if starting from [Greathive Aratel](Greathive_Aratel.md), appears to be Flamecharm -> Thundercall -> Shadowcast -> (Reset) -> Galebreathe -> Frostdraw, however this can do with refinement if starting from the [Etrean Luminant](Etrean_Luminant.md).
+After acquiring the needed stats, you then need to resonate (interact with) every [obelisk](Saintsworn_Obelisks.md). Left or middle click the gifs to enlarge them. The obelisks can be interacted with in any order, the most time effective method as of now, if starting from [Greathive Aratel](Greathive_Aratel.md), appears to be Flamecharm -> Thundercall -> Shadowcast -> (Reset) -> Galebreathe -> Frostdraw, however this can do with refinement if starting from the [Etrean Luminant](Luminants.md).
 
-_Saintsworn **cannot** be reobtained if you [Oathbreak](Oathbreak.md) it._
+_Saintsworn **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it._
 
 #### Thundercall
 
@@ -81,7 +81,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 -   Saintsworn **CANNOT** be obtained with 75 points in a singular attunement, you **need** at least 15 points in an attunement to resonate with their respective obelisk- in other words, you need 15 points in the 5 different attunements. It is **NOT** a combined requirement.
     -   Additionally, you do **not** need a Hero Blade equipped to obtain this Oath.
-    -   You can obtain Saintsworn without meeting the 15 points in the five base Attunement requirements. Saintsworn does **not** require you to **currently** have 15 investment in all base Attunements, instead it does a check for whether or not you've unlocked the dialogue with each Obelisk. This means you can meet the requirements of an Obelisk before [Shrine of Order](Shrine_of_Order.md) and then still obtain the Oath after [Shrine of Order](Shrine_of_Order.md) even if you have less than 15 points invested into that Attunement stat. (Note: You have to talk to the Obelisk while your stats are 15 pre shrine for it to count, the game does not remember your previous investments)
+    -   You can obtain Saintsworn without meeting the 15 points in the five base Attunement requirements. Saintsworn does **not** require you to **currently** have 15 investment in all base Attunements, instead it does a check for whether or not you've unlocked the dialogue with each Obelisk. This means you can meet the requirements of an Obelisk before [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) and then still obtain the Oath after [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) even if you have less than 15 points invested into that Attunement stat. (Note: You have to talk to the Obelisk while your stats are 15 pre shrine for it to count, the game does not remember your previous investments)
 
 ## Progression
 
@@ -122,7 +122,7 @@ These Talents have modified effects based on your current Saint Stance. Due to t
     -   Which hero is summoned and their effect is dependent on the current Saint Stance.
     -   Each passive ability works **once** per Saint Stance, requiring you to cycle to the next one to reactivate.
         -   **Hero's Assist: _Jace_**: In the **Flamecharm** Saint Stance, upon flourishing an enemy, summon the Hero of Flame to set down 3 deadly eruptions in the direction of the flourish, each of which **innately** proc the **[The Floor is Lava](Talents.md#the-floor-is-lava)** Talent.
-        -   **Hero's Assist: _Trinity Galenwarde_**: In the **Galebreathe** Saint Stance, upon using Blade of Saints, a Hero of Gale shoots out a miniscule version of the Galebreathe mantra _[Tornado](Tornado.md)_ at the enemy, while also knocking them away.
+        -   **Hero's Assist: _Trinity Galenwarde_**: In the **Galebreathe** Saint Stance, upon using Blade of Saints, a Hero of Gale shoots out a miniscule version of the Galebreathe mantra _[Tornado](Galebreathe.md#tornado)_ at the enemy, while also knocking them away.
         -   **Hero's Assist: _Urek Felhand_**: In the **Shadowcast** Saint Stance, upon parrying an attack, summon the Hero of Shadow to do minor damage in an AoE, proccing the talent _Sightless Still_ on anyone hit.
         -   **Hero's Assist: _Faust_**: In the **Frostdraw** Saint Stance, upon landing a Frostdraw Mantra, any attuned Mantra while in the Frostdraw Saint Stance, or the Frostdraw-specific Blade of Saints version, summon the Hero of Frost to shoot a barrage of ice projectiles at the enemy.
         -   **Hero's Assist: _Tessa_**: In the **Thundercall** Saint Stance, upon casting a mantra for the first time, summon the Hero of Thunder to bolster your attack, greatly decreasing the windup.
@@ -139,8 +139,8 @@ These Talents have modified effects based on your current Saint Stance. Due to t
             -   **[The Final Act](Talents.md#the-final-act)**: Landing an attuned Mantra after a flourish will cause an explosion.
             -   **[Warding Radiance](Talents.md#warding-radiance)**: Your attuned Mantras will build up halo stacks.
         -   **Ether Proselyte: Galebreathe Stance**: In the **Galebreathe** Saint Stance, all attuned Mantras are able to proc the following Talents:
-            -   **[A World Without Song](Talents.md#a-world-without-song)**: After landing 3 hits with any attuned Mantra, apply [Suffocation](Suffocation.md). The hit count requirement will be increased if you have less than 75 Galebreathe.
-            -   **[Haunted Gale](Talents.md#haunted-gale)**: Every third attuned Mantra you land will grant the [Haunted](Status_Effects.md#haunted) status effect, spawning a Haunted Gale Ghost or Specter Apparition any time you land a Mantra for the next 8 seconds. The duration of this status effect can be increased to 11 seconds by using the [Gale Wisp](Gale_Wisp.md).
+            -   **[A World Without Song](Talents.md#a-world-without-song)**: After landing 3 hits with any attuned Mantra, apply [Suffocation](Status_Effects.md#suffocate). The hit count requirement will be increased if you have less than 75 Galebreathe.
+            -   **[Haunted Gale](Talents.md#haunted-gale)**: Every third attuned Mantra you land will grant the [Haunted](Status_Effects.md#haunted) status effect, spawning a Haunted Gale Ghost or Specter Apparition any time you land a Mantra for the next 8 seconds. The duration of this status effect can be increased to 11 seconds by using the [Gale Wisp](Galebreathe.md#gale-wisp).
             -   **[Inhale](Talents.md#inhale)**: You can inhale non-Galebreathe Mantras.
             -   **[Shock Trooper Specialist](Talents.md#shock-trooper-specialist)**: Conjure a storm strike on your opponent by landing any attuned mantras.
             -   **[Possession](Talents.md#possession)**: After an apparition hits an enemy, receive 15% posture damage on all attuned mantras for 6 seconds. If the apparition hits while you have Phantom Step activated, receive a 15% chip damage buff as well for the same duration.
@@ -533,7 +533,7 @@ Obtained with the Oath
 
 **Effect:** _Slash twice with your Saintsblade, applying [knockdown](Status_Effects.md#knockdown) on the second hit, followed up by a devastating bolt of lightning that applies stun._
 
--   Gains additional hits when modified with [Cloud](Cloudstone.md) & [Stratus Stones](Stratus_Stone.md).
+-   Gains additional hits when modified with [Cloud](Mantra_Modifiers.md#regular-modifiers) & [Stratus Stones](Mantra_Modifiers.md#regular-modifiers).
 -   Upon changing your Saint Stance, this ability will change accordingly.
 
  |
@@ -544,10 +544,10 @@ See [Saintsworn Obelisks](Saintsworn_Obelisks.md#dialogue).
 
 ## Trivia
 
--   This Oath was created by Dexerius, along with [Arcwarder](Arcwarder.md), [Blightsurger](Blightsurger.md), and [Visionshaper](Visionshaper.md).
+-   This Oath was created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md), [Blightsurger](Oath%253A_Blightsurger.md), and [Visionshaper](Oath%253A_Visionshaper.md).
 -   The Saintsblade's runes translated from [Gatherhand](Gatherhand.md) say "FAUST UREK TESSA TRINITY JACE", corresponding with the Five Heroes.
     -   In addition, the Oath Cosmetic will have the heroes' names written in Gatherhand on the blades that correspond with their Attunement.
--   The 15 investment requirement in each attunement only applies to talking to their respective obelisk, not to obtaining the Oath in general. This means, you can talk to a number of the obelisks [pre-Shrine of Order](Shrine_of_Order.md) while you still meet their requirements, and then talk to the remaining obelisks [post-Shrine of Order](Shrine_of_Order.md) to obtain the Oath with less than 15 invest in some of your attunements.
+-   The 15 investment requirement in each attunement only applies to talking to their respective obelisk, not to obtaining the Oath in general. This means, you can talk to a number of the obelisks [pre-Shrine of Order](Deep_Shrines/Shrine_of_Order.md) while you still meet their requirements, and then talk to the remaining obelisks [post-Shrine of Order](Deep_Shrines/Shrine_of_Order.md) to obtain the Oath with less than 15 invest in some of your attunements.
 -   The text that appears when training an attunement, "The elements are not in alignment..." is a hint towards obtaining Saintsworn and was added with the release of the Oath.
 -   Saint's Synergy, Ether Proselyte('s Mantra level increasing effect), and Hero's Assist can all proc when not using the Saintsblade. The rest of the Saintsworn Oath does nothing while not using the weapon.
 -   The Saintsblade had the most base M1 damage amount at 30 that was changed to 28 before being dethroned by the [Sovereign Bangle](Oath%253A_Blightsurger.md) and the [Metal Greatsword](Metal_Greatsword.md).
@@ -557,12 +557,12 @@ See [Saintsworn Obelisks](Saintsworn_Obelisks.md#dialogue).
 -   Saint's Overload's duration running out is signified by the flying blade that it changes color to white.
 -   The 5 blades on your back will vanish one by one after Hero's Assist is triggered.
 -   Your Attunement Path will affect the color of your Saintsblade in the corresponding stance.
--   The color of the current Saint Stance will apply to: [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)'s neon sections, [Ignition Deepcrusher](Ignition_Deepcrusher.md)'s blade/hammer head, [Hailbreaker](Hailbreaker.md)'s blade, [Soulwrought Axe](Soulwrought_Axe.md)'s head, and [Soulwrought Dagger](Soulwrought_Dagger.md)'s blade. For some of these, the coloration change may not be visually apparent, especially if the natural color for these parts are darker colors like black.
+-   The color of the current Saint Stance will apply to: [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)'s neon sections, [Ignition Deepcrusher](Ignition_Deepcrusher.md)'s blade/hammer head, [Hailbreaker](Hailbreaker.md)'s blade, [Soulwrought Axe](Crazy_Slots.md#weapons)'s head, and [Soulwrought Dagger](Crazy_Slots.md#weapons)'s blade. For some of these, the coloration change may not be visually apparent, especially if the natural color for these parts are darker colors like black.
     
     Pyre Keeper's color changing when using its Critical with Saintsworn
     
     -   According to Nuttoons, this is because in the game's code, the game looks for meshes named "Blade" within your currently equipped weapon to apply the Saintsblade color to.[\[1\]](#cite-note-1)[\[2\]](#cite-note-2)
--   Each Obelisk is surrounded by a kind of damaging floor hazard. Flamecharm's is surrounded by lava; Galebreathe's is surrounded by acid; Thundercall's is surrounded by a bright yellow floor hazard that applies [Shock](Shock.md); and Frostdraw's is surrounded by a cyan floor hazard that applies [Chill](Chill.md). All except for Shadowcast, which is already in quite a hazardous position: at the top of the Moon's Eyrie, a [Voidzone](Voidzones.md) that experiences periodic wind that can knock you off of it.
+-   Each Obelisk is surrounded by a kind of damaging floor hazard. Flamecharm's is surrounded by lava; Galebreathe's is surrounded by acid; Thundercall's is surrounded by a bright yellow floor hazard that applies [Shock](Status_Effects.md#shock); and Frostdraw's is surrounded by a cyan floor hazard that applies [Chill](Status_Effects.md#chill). All except for Shadowcast, which is already in quite a hazardous position: at the top of the Moon's Eyrie, a [Voidzone](Voidzones.md) that experiences periodic wind that can knock you off of it.
 
 ## References
 

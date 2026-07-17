@@ -23,7 +23,7 @@ categories: [Treasures, Mantras, Deep Gems]
 
 ## Description
 
-The **Wayward Gem** is a black diamond-shaped [Deep Gem](Deep_Gem.md).
+The **Wayward Gem** is a black diamond-shaped [Deep Gem](Deep_Gems.md).
 
 ## Effect
 
@@ -34,7 +34,7 @@ Upon landing a Mantra with a Wayward Gem equipped, you will be teleported to you
 -   This Gem is best used on high knockback Mantras or Mantras that displace either your own or your opponent's location. This Mantra is also a great choice for ranged Mantras.
 -   If you have the Brain [Food Buff](Status_Effects.md#food-buff) from the [Grilled Parasol Brain](Grilled_Parasol_Brain.md), Wayward Gem's cooldown will be reduced to 3 seconds.
 -   Wayward Gem has a range cap of ~500 studs, though very few Mantras can reach this cap.
--   Wayward Gem cannot be procced on [Revenge](Revenge.md) or [Ascension](Ascension.md). You also cannot proc Wayward Gem when hitting the [Scion of Ethiron](Scion_of_Ethiron.md).
+-   Wayward Gem cannot be procced on [Revenge](Attunement-less.md#revenge) or [Ascension](Oath%253A_Starkindred.md#ascension). You also cannot proc Wayward Gem when hitting the [Scion of Ethiron](Scion_of_Ethiron.md).
 
 ## Crafting
 

@@ -38,5 +38,5 @@ The [Immortality](Talents.md#immortality) Talent prevents the wearer from being 
     -   The Equipment Talent, _Immortality_, also references the character.
 -   When held, the light deactivates, showing empty space rather than some sort of projector.
 -   Immortality can even protect the user from moves that instantkill instead of knocking such as the [Lionfish's](Lionfish.md) Cero.
--   The only currently known attack that can bypass Immortality's invincibility is the [Prediction](Prediction.md) Mantra, which will knock out the wearer as normal if triggered.
--   Fall damage with the [High Velocity](High_Velocity.md) Echo Modifier will prevent Immortality from activating.
+-   The only currently known attack that can bypass Immortality's invincibility is the [Prediction](Attunement-less.md#prediction) Mantra, which will knock out the wearer as normal if triggered.
+-   Fall damage with the [High Velocity](Echoes.md#upgrades-unlocks-and-modifiers) Echo Modifier will prevent Immortality from activating.

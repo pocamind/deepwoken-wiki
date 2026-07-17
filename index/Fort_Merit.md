@@ -16,13 +16,13 @@ Once a prison at the edge of Etrean influence, now a forward base for the Author
 
   
 
-**Fort Merit** is a [location](Locations.md) in _Deepwoken._ It is a landmark on [Aratel Island](Aratel_Island.md) found in the [Aratel Sea](The_Aratel_Sea.md).
+**Fort Merit** is a location in _Deepwoken._ It is a landmark on [Aratel Island](Aratel_Island.md) found in the [Aratel Sea](The_Aratel_Sea.md).
 
 ## Overview
 
 Fort Merit is [The Central Authority](The_Central_Authority.md)'s forward operating base in the [Eastern Luminant](Luminants.md).
 
-It was previously known as Fortress Cascabel, Etrea's best fortified prison prior to its capture to the [Authority](The_Authority.md), now claimed as their operating base. Ironically, [Etrean Guardsman Hostages](Etrean_Guardsman_Hostage.md) can be found in the cells of Fort Merit.
+It was previously known as Fortress Cascabel, Etrea's best fortified prison prior to its capture to the [Authority](The_Central_Authority.md), now claimed as their operating base. Ironically, [Etrean Guardsman Hostages](Etrean_Guardsman_Hostage.md) can be found in the cells of Fort Merit.
 
 It is found to the right of [Bluster Rift](Bluster_Rift.md) and has a port that can be docked from the shore.
 
@@ -48,8 +48,8 @@ A large fortress on the peaks of the island, housing the leaders of the division
 A small basement that houses a prison containing enemies of the Authority.
 
 -   Heavily patrolled by [Authority Peacekeepers](Authority_Peacekeeper.md).
--   [Brutus](Brutus.md), a centurion from [The Hundred Legions](The_Hundred_Legions.md) is imprisoned in a larger cell, who can unbound [Fortitude](Fortitude.md) and unlock [Oath: Blightsurger](Oath%253A_Blightsurger.md).
--   [Vice Warden Morredh](Vice_Warden_Morredh.md) and an [Authority Commander](<Authority_Commander_(NPC).md>) can be found in the office.
+-   [Brutus](Brutus.md), a centurion from [The Hundred Legions](The_Hundred_Legions.md) is imprisoned in a larger cell, who can unbound [Fortitude](Attributes.md#ftd) and unlock [Oath: Blightsurger](Oath%253A_Blightsurger.md).
+-   [Vice Warden Morredh](Vice_Warden_Morredh.md) and an [Authority Commander](<Authority_Commander_(Enemy).md>) can be found in the office.
 -   [Private Kernel](Private_Kernel.md), son of [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md) who briefs the Merit Detainment Core. He can be seen right next to the door that leads to the Detainment Core.
 
 ### Blacksmith
@@ -81,7 +81,7 @@ Lawless area off the peak of the main territory.
 
 A functional port acting as the town for the island.
 
--   Basic necessities such as the [Antiquarian](Antiquarian.md), [Banker](Banker.md), [Innkeep](Innkeep.md), and [Shipwright](Ships.md) can be found here.
+-   Basic necessities such as the [Antiquarian](Antiquarian.md), [Banker](Banker.md), [Innkeep](Innkeep.md), and [Shipwright](Ships_&_Sailing.md) can be found here.
 -   Guarded by [Authority Peacekeepers](Authority_Peacekeeper.md) and an [Authority Lieutenant](Authority_Lieutenant.md).
 
 ### Prison Tower
@@ -121,7 +121,7 @@ For more information, watch [this video](https://www.youtube.com/watch?v=eaygZAb
 
 -   To get jailed or imprisoned in [Prison Tower](#prison-tower) inside Fort Merit in the first place, the player must either:
     -   Get [gripped](<Terminology_(game).md#grip>) by an [Authority Ensign](Authority_Ensign.md), or
-    -   Talk to specific [NPCs](NPCs.md) while having bad [Reputation](Reputation.md) with [The Central Authority](The_Central_Authority.md).
+    -   Talk to specific NPCs while having bad [Reputation](Reputation.md) with [The Central Authority](The_Central_Authority.md).
         -   For the list of NPCs with this effect: [Chud Steel](Chud_Steel.md), [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md), [High Inquisitor Merey](High_Inquisitor_Merey.md), [Sentinel Augustus](Sentinel_Augustus.md), and [Warden Jericho](Warden_Jericho.md)
 -   The player will not lose a life, nor their items, upon being imprisoned.
 -   While imprisoned, the player automatically equipped with [Handcuffs](Handcuffs.md), which has the following effects:
@@ -149,7 +149,7 @@ Below is a list of NPCs and their uses (that are known) that you can find thorou
 
 ## Trivia
 
--   The music for this area is [Wardens Of The Valiant Dead](Wardens_Of_The_Valiant_Dead.md) by Naktigonis.
+-   The music for this area is [Wardens Of The Valiant Dead](Deepwoken_OST.md#wardens-of-the-valiant-dead) by Naktigonis.
 -   Fort Merit is called Fortification Peak by its guards when the player has maximum reputation with the Central Authority.
 -   Fort Merit is good place to pick up [bounties](Bounty_Hunting.md), as most of the players have low/bad reputation with the Central Authority.
 -   Whenever you try to spook Brutus with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: "When are you gonna learn your lesson?" "Come on."

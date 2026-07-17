@@ -20,7 +20,7 @@ What will become of us?
 
   
 
-**Fragments of Self** is a [location](Locations.md) in _Deepwoken_. It is a sub-location in [The Depths](The_Depths.md), yet also a place entirely within your mind...
+**Fragments of Self** is a location in _Deepwoken_. It is a sub-location in [The Depths](The_Depths.md), yet also a place entirely within your mind...
 
 ## Overview
 
@@ -40,7 +40,7 @@ Located to the left-hand side, beyond a small parkour section. Interacting with 
 
 ### Shrine of the Drowned
 
-Located before Self, a statue that allows you to pay 1000 [Robux](https://roblox.fandom.com/wiki/Robux) to return to the [Surface](Locations.md). This can only be used once per character and requires at least [Power](Power.md) 2.
+Located before Self, a statue that allows you to pay 1000 [Robux](https://roblox.fandom.com/wiki/Robux) to return to the Surface. This can only be used once per character and requires at least [Power](Power.md) 2.
 
 ### Self
 
@@ -64,7 +64,7 @@ Trying to get to Fragments of Self
 
 ## Trivia
 
--   The music for this area is [The End.](The_End%252E.md) by Naktigonis
+-   The music for this area is [The End.](Deepwoken_OST.md#the-end) by Naktigonis
     -   This track also plays while under the effects of a Void Spire.
 -   If you fall off one of the islands, you will be teleported back to spawn, falling down from above.
 -   You cannot M1 or use Mantras here, but you can use your weapon's critical or side-hand pistol (if you have one equipped), though it can't interact with the environment.

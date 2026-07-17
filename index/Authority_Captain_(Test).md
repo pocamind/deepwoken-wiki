@@ -22,7 +22,7 @@ notices:
 
 ## Description
 
-**Authority Captains** were present on [Isle of the Crows](Isle_of_the_Crows.md) after killing all the [Authority Enemies](<Authority_Enemy_(Test).md>). They utilized the [Thundercall](Thundercall.md) [Attunement](Attunement.md) and an [Officer Saber](Officer_Saber.md). Authority Captains spawned as [Adret](Adret.md) with an unknown [outfit](Outfits.md), unidentified pauldrons and their hair random.[\[1\]](#cite-note-direct-1)
+**Authority Captains** were present on [Isle of the Crows](Isle_of_the_Crows.md) after killing all the [Authority Enemies](<Authority_Enemy_(Test).md>). They utilized the [Thundercall](Thundercall.md) [Attunement](Attunements.md) and an [Officer Saber](Officer_Saber.md). Authority Captains spawned as [Adret](Adret.md) with an unknown [outfit](Outfits.md), unidentified pauldrons and their hair random.[\[1\]](#cite-note-direct-1)
 
 ## Moveset
 

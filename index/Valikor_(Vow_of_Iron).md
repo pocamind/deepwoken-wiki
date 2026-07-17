@@ -27,7 +27,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Valikor is an [Etrean](Etrean.md) [NPC](NPC.md). He is able to teach the player [Spell Shout](Talents.md#spell-shout), which automatically calls the names of casted mantras.
+Valikor is an [Etrean](Etrean.md) NPC. He is able to teach the player [Spell Shout](Talents.md#spell-shout), which automatically calls the names of casted mantras.
 
 ## Location
 

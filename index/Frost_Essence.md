@@ -27,11 +27,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The **Frost Essence** is an unusable [Relic](Relic.md) that is only crafted into other [Equipment](Equipment.md)
+The **Frost Essence** is an unusable [Relic](Relics.md) that is only crafted into other [Equipment](Equipment.md)
 
 ## Crafting
 
-The Frost Essence can craft into a few items with the [Lost Forge](Lost_Forge.md) found at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
+The Frost Essence can craft into a few items with the [Lost Forge](Lost_Forge_of_Leiuna.md) found at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
 
 -   [Equipment](Equipment.md)
     -   [Saint Jay's Ring](<Saint_Jay's_Ring.md>): [Dazed Band](Dazed_Band.md) + 1x Frost Essence + [Frost Ring](Frost_Ring.md)
@@ -41,7 +41,7 @@ The Frost Essence can craft into a few items with the [Lost Forge](Lost_Forge.md
 -   [Weapons](Weapons.md)
     -   [Winter Rifle](Winter_Rifle.md): [Summer Rifle](Summer_Rifle.md) + 1x Frost Essence
 -   Miscellaneous
-    -   999x [Frost Bullet](Frost_Bullet.md): 1x [Bullet](Bullet.md) + 1x Frost Essence
+    -   999x [Frost Bullet](Bullet_Casings.md#frost): 1x [Bullet](Bullets.md) + 1x Frost Essence
 
 ## Trivia
 

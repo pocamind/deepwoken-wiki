@@ -26,11 +26,11 @@ This content is not accessible outside of this gamemode.
 
 Neero is a [Celtor](Celtor.md) NPC. They are a [Pathfinder](Pathfinder.md) wearing an [Iron Mask](Iron_Mask.md) along with the [Pathfinder Cloak](Pathfinder_Cloak.md).
 
-They are investigating the disappearance of the [Forge of Sin](Relics.md) and provides speculation about [Duke Erisia](Duke_Erisia.md)'s actions prior to the events of the [Lord Regent's](The_Lord_Regent.md) questline, as well as lore about [Erisia](Erisia.md) and the Forge itself.
+They are investigating the disappearance of the [Forge of Sin](Relics.md) and provides speculation about [Duke Erisia](Duke_Ishamon_Erisia.md)'s actions prior to the events of the [Lord Regent's](The_Lord_Regent.md) questline, as well as lore about [Erisia](Erisia.md) and the Forge itself.
 
 ## Location
 
-Neero is located in the [Temple of the Forgotten Flame](Temple_of_the_Forgotten_Flame.md), leaning against the wall.
+Neero is located in the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md), leaning against the wall.
 
 ## Dialogue
 

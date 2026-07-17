@@ -93,8 +93,8 @@ It was said that the eradication efforts against the Arkasids required an immens
 -   When fighting groups of Arkasids, block the **Paralyzing Throw** first before attacking as they do very low posture damage, and then attack them after. Attacking them before they use **Paralyzing Throw** may result in you being put to [Sleep](Status_Effects.md#sleep) if you dont have [Brick Wall](Talents.md#brick-wall); this will likely lead to you losing a considerable amount of Health from the subsequent attacks from all other Arkasids.
     -   As mentioned above, having the [Brick Wall](Talents.md#brick-wall) Talent negates the [Ragdoll](Status_Effects.md#ragdoll) and [Sleep](Status_Effects.md#sleep) effects, applying a slow instead.
 -   All of the Arkasid attacks deal very low posture damage, so blocking attacks is a valid strategy.
--   Using the [Providence Thorns](Providence_Thorns.md) enchantment is recommended, as parrying their **Spin Strikes** attack with it will deal a good amount of damage back to them.
--   [Mute](Mute.md) does not work on Arkasids.[\[2\]](#cite-note-2)
+-   Using the [Providence Thorns](<Providence's_Thorns.md>) enchantment is recommended, as parrying their **Spin Strikes** attack with it will deal a good amount of damage back to them.
+-   [Mute](Regalia.md) does not work on Arkasids.[\[2\]](#cite-note-2)
 
 ## References
 

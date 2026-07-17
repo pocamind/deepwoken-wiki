@@ -21,7 +21,7 @@ categories: [Pathfinder Exclusive, Relics, Items]
 | desc | A scrawled and raving account of the prophetic dream received by the Prophet Pariah of the Lullaby Isles, the short-lived leader of a Lunar Cult who voyaged into the Voidsea in the hopes of finding a stairway to the heavens. Though indecipherable, the tome seems to contain more pages than allowed by its size. All copies of the original volume were burnt, but even hundreds of years after its author's demise, new volumes spotaneously appear in libraries and chapels across the Central Luminant. They are swiftly burnt and all records expunged. |
 | obtainment | Chaser, Scholar of the Crimson Contract, Crypt of the Unbroken, First Layer, Diluvian Mechanism, Moon's Eyrie, Lysander Spellhardt, Primadon, Titan of the East, Fishing, Hell Mode, Weird Trader, Heart of Enmity, Titus Fulminus Destellus, Elder Primadon, The Titan Warlord, Sold in Traan Zakshun's black market for 4 , Goodie Bag |
 
-_This page is about the [Relic](Relic.md). For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._
+_This page is about the [Relic](Relics.md). For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -29,7 +29,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The **Moonseye Tome** is a [Relic](Relic.md) containing the scrawled and raving account of the prophetic dream received by the Prophet Pariah, reading this book will grant the user +100 Knowledge on the first usage. All future uses of this book on the same slot will grant the user +50 Knowledge each time.  
+The **Moonseye Tome** is a [Relic](Relics.md) containing the scrawled and raving account of the prophetic dream received by the Prophet Pariah, reading this book will grant the user +100 Knowledge on the first usage. All future uses of this book on the same slot will grant the user +50 Knowledge each time.  
 _(one-time use, re-obtainable)_
 
 ## Moonseye Tome Dialogue
@@ -51,7 +51,7 @@ Using the Tome at max Knowledge (999) displays this message.
 ## Trivia
 
 -   In your inventory, the Moonseye Tome has a Weight of 1.
--   The [Simple](Simple.md) Flaw will cause you to gain 25% less Knowledge from all sources, this of course includes the Moonseye Tome.
+-   The [Simple](Boons_and_Flaws.md#simple) Flaw will cause you to gain 25% less Knowledge from all sources, this of course includes the Moonseye Tome.
     -   First use: 100 --> 75 knowledge
     -   Subsequent uses: 50 --> 38 knowledge
 -   If you read the tome as a voidwalker, it mentions that its disappointed in your character

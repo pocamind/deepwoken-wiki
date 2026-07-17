@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Rogue Assassin** is a playable [Memento](Memento.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode.
+**Rogue Assassin** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode.
 
 Rogue Assassin is a high skill floor Memento, due to there being very few openings to land backstabs for [Swift Strike](Big_Brother.md) procs. In exchange, this Memento can output a significant amount of damage, being capable of one shotting regular mobs and dealing extremely high damage to bosses.
 
@@ -287,7 +287,7 @@ _A vengeful rush. Deals additional damage the lower your health is below 50%._
 
  | 
 
-Slash ResistanceSlash + [Bleed](Bleed.md)
+Slash ResistanceSlash + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -299,11 +299,11 @@ Slash ResistanceSlash + [Bleed](Bleed.md)
 **Effect:** _User quickly dashes forward and creates a red-line effect._
 
 -   The move teleports you forwards only upon hitting an opponent.
--   Has a base damage of 12[/13/14/15](<Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>)[/16](Caster_Fur_Pauldrons.md) per level with innate [bleed](Bleed.md) and 1.65 Agility scaling.
+-   Has a base damage of 12[/13/14/15](<Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>)[/16](Caster_Fur_Pauldrons.md) per level with innate [bleed](Status_Effects.md#bleed) and 1.65 Agility scaling.
 -   Deals 5 posture damage.
 -   15 second cooldown.
 -   It has a wind-up of 0.55 seconds and an endlag of 0.15 seconds.
--   This Mantra has innate [Bleed](Bleed.md), meaning that it will deal an additional 15% of its base damage that doesn't get affected by damage modifiers. Because Bleed bypasses _armor_ resistances, this is very useful.
+-   This Mantra has innate [Bleed](Status_Effects.md#bleed), meaning that it will deal an additional 15% of its base damage that doesn't get affected by damage modifiers. Because Bleed bypasses _armor_ resistances, this is very useful.
 -   The damage of the move scales with how much HP the user has left BELOW 50%, dealing more damage with less HP. The Bleed's damage does not scale.
     -   This bonus damage scales up to 4 times damage at 5% health, but Revenge's health scaling will cap at Revenge dealing 50 damage regardless of level/Agility investment.
 -   Can be upgraded with the **Pursuit** Talent, allowing it to be used twice in a row if the first use hits. 25 second cooldown.
@@ -547,10 +547,10 @@ Slash ResistanceSlash
 
 -   **Fatal Stealth** \[Faction Talent\] **100** \- You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
     -   Grants +0.2% damage per 1 [Stealth](Stealth.md) to attacks that hit your opponent's back.
-    -   Stealth gained from non-[Equipment](Equipment.md) or [Outfit](Outfit.md) sources do not count towards this Talent.
-        -   Strangely, the [Obvious](Obvious.md) Flaw is an exception to this, reducing your damage by 4%.
+    -   Stealth gained from non-[Equipment](Equipment.md) or [Outfit](Outfits.md) sources do not count towards this Talent.
+        -   Strangely, the [Obvious](Boons_and_Flaws.md#obvious) Flaw is an exception to this, reducing your damage by 4%.
         -   [Felinor](Felinor.md)'s stealth gain multiplier does not apply to this Talent's damage buff.
-    -   This does **not** buff [assassinations](Assassination.md).
+    -   This does **not** buff [assassinations](Combat_Mechanics.md#assassination).
     -   See the [Stealth](Stealth.md) page for info on where stealth can be obtained.
         -   The maximum Stealth you can gain from Equipment alone is 30% (+6% damage).
         -   The [Hidden Knife Armor](Hidden_Knife_Armor.md) Outfit grants 50% Stealth (+10% damage).

@@ -61,7 +61,7 @@ This dialogue is unlocked if the player has spoken to [Baragan](Baragan.md).
 
 **Lord Regent:**
 
-This dialogue is unlocked if the player has started the "Lord Regent Who?" [Quest](Quest.md).
+This dialogue is unlocked if the player has started the "Lord Regent Who?" [Quest](Quests.md).
 
 <table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Oh? Did you need something? There's materials on the table over there, I'd have my apprentice fetch you a drink but I don't know where he ran off to.</td></tr><tr><td>Do you know anything about the Lord Regent?</td></tr><tr><td>Hm. I've had a lot more work since he came into power. Can't complain, and I try not to think too hard about what people do with my work. If you're lookin' for histories, the Bookkeeper in the middle of town might be of some help.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 

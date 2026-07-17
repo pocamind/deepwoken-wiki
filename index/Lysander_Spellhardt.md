@@ -46,7 +46,7 @@ With 2025 Hallowtide, came with the '25 medal on top of the [equipments](Equipme
 
 **2024:**
 
-With 2024 Hallowtide, came with 2 newly-added Hallowtide-exclusive outfits on top of the [equipments](Equipment.md) from last years. Buying a random [Deep Gem](Deep_Gem.md) was replaced with buying a random [Relic](Relic.md). Though, this all happened only on the second week of Hallowtide, on the [November 8th, 2024](Version_History/Uncollapsed.md#november-8th-2024) update.
+With 2024 Hallowtide, came with 2 newly-added Hallowtide-exclusive outfits on top of the [equipments](Equipment.md) from last years. Buying a random [Deep Gem](Deep_Gems.md) was replaced with buying a random [Relic](Relics.md). Though, this all happened only on the second week of Hallowtide, on the [November 8th, 2024](Version_History/Uncollapsed.md#november-8th-2024) update.
 
 1.  [Relic](Relics.md) \[100 Joy\] - Gives you a random [Relic](Relics.md). All Relics have the same drop rate.
 2.  [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>) \[35 Joy\]
@@ -65,7 +65,7 @@ With 2024 Hallowtide, came with 2 newly-added Hallowtide-exclusive outfits on to
 
 **2023:**
 
-With 2023 Hallowtide, came with 2 newly-added Hallowtide-exclusive [equipments](Equipment.md) on top of the stuff from last year. The option to buy a [Void Feather](Void_Feather.md) was removed as well. The Hallowtide '22 and '23 Medals came on the second week of Hallowtide, on the [November 3rd, 2023](Version_History/Uncollapsed.md#november-3rd-2023) update.
+With 2023 Hallowtide, came with 2 newly-added Hallowtide-exclusive [equipments](Equipment.md) on top of the stuff from last year. The option to buy a [Void Feather](Dark_Feather.md#void-feather) was removed as well. The Hallowtide '22 and '23 Medals came on the second week of Hallowtide, on the [November 3rd, 2023](Version_History/Uncollapsed.md#november-3rd-2023) update.
 
 1.  [Deep Gem](Mantra_Modifiers.md#deep-gems) \[15 Joy\]
 2.  [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>) \[35 Joy\]
@@ -81,9 +81,9 @@ With 2023 Hallowtide, came with 2 newly-added Hallowtide-exclusive [equipments](
 
 **2022:**
 
-With 2022 Hallowtide, came with 3 Hallowtide-exclusive head [equipments](Equipment.md), and a Hallowtide Racial Variant, which is an account-wide unlock. You also had an option to buy a [Void Feather](Void_Feather.md) and a random [Deep Gems](Mantra_Modifiers.md#deep-gems) as well. This happened on the [October 31st, 2022](Version_History/Uncollapsed.md#october-31st-2022) update.
+With 2022 Hallowtide, came with 3 Hallowtide-exclusive head [equipments](Equipment.md), and a Hallowtide Racial Variant, which is an account-wide unlock. You also had an option to buy a [Void Feather](Dark_Feather.md#void-feather) and a random [Deep Gems](Mantra_Modifiers.md#deep-gems) as well. This happened on the [October 31st, 2022](Version_History/Uncollapsed.md#october-31st-2022) update.
 
-1.  [Void Feather](Void_Feather.md) \[15 Joy\]
+1.  [Void Feather](Dark_Feather.md#void-feather) \[15 Joy\]
 2.  [Deep Gem](Mantra_Modifiers.md#deep-gems) \[15 Joy\]
 3.  [Familiar Priest Helmet](<Familiar_Priest's_Helm.md>) \[30 Joy\]
 4.  [Familiar Heretic Helmet](<Familiar_Heretic's_Helm.md>) \[35 Joy\]
@@ -128,8 +128,8 @@ When you complete his quest, he will say this.
 ## Trivia
 
 -   Glaive says the same dialogue when you succeed in buying anything.
--   There used to be an option to buy [Void Feathers](Void_Feather.md) and a random [Deep Gem](Deep_Gem.md), though the latter was replaced with buying a random [Relic](Relic.md).
-    -   Buying a random [Relic](Relic.md) used to cost 30 [Joy](Joy.md), and had both Rain and Void spire relics in its lootpool.
+-   There used to be an option to buy [Void Feathers](Dark_Feather.md#void-feather) and a random [Deep Gem](Deep_Gems.md), though the latter was replaced with buying a random [Relic](Relics.md).
+    -   Buying a random [Relic](Relics.md) used to cost 30 [Joy](Joy.md), and had both Rain and Void spire relics in its lootpool.
 -   [Mantle of Enmity](Mantle_of_Enmity.md), [Fauld of Enmity](Fauld_of_Enmity.md) and [Imperator's Fury](<Imperator's_Fury.md>) used to be obtainable from Lysander Spellhardt.
 -   According to [Mikhail Spellhardt](Mikhail_Spellhardt.md), Lysander is as old, if not older, than [Galpin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), despite one looking much older than the other. Also according to Mikhail, this is because a [Lightborn](Lightborn.md)'s appearance reflects their feelings, which is why Galpin is so old as he reminisces about their homeland a lot.[\[3\]](#cite-note-3)
 

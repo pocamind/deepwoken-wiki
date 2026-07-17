@@ -22,15 +22,15 @@ The winds pick up - and so too do the rapids of this treacherous gorge.
 
 ## Overview
 
-The Bluster Rift is a location in _Deepwoken_. It can be found on [Aratel Island](Aratel_Island.md). It is almost identical to the [Starswept Valley](Starswept_Valley.md). The rivers that flow here will pull you downstream, making it quite difficult to traverse.
+The Bluster Rift is a location in _Deepwoken_. It can be found on [Aratel Island](Aratel_Island.md). It is almost identical to the [Starswept Valley](The_Starswept_Valley.md). The rivers that flow here will pull you downstream, making it quite difficult to traverse.
 
 ## Missions
 
 Events that spawn in Bluster Rift that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
--   [Etrean Soldiers](Etrean_Soldier.md) [Etreaiconfaction](Etrea.md) vs [Hive Guards](Hive_Guard.md)[Hiveiconfaction](Hive.md)
--   [Legion Captain](Legion_Captain.md) vs [Authority Lieutenant](Authority_Lieutenant.md) [Authorityiconfaction](Central_Authority.md)
--   [Hive Construct](Hive_Construct.md) [Hiveiconfaction](Hive.md) vs [Authority Captain](Authority_Captain.md) [Authorityiconfaction](Central_Authority.md)
+-   [Etrean Soldiers](Etrean_Soldier.md) [Etreaiconfaction](Etrea.md) vs [Hive Guards](Hive_Guard.md)[Hiveiconfaction](The_Hive.md)
+-   [Legion Captain](Legion_Captain.md) vs [Authority Lieutenant](Authority_Lieutenant.md) [Authorityiconfaction](The_Central_Authority.md)
+-   [Hive Construct](Hive_Construct.md) [Hiveiconfaction](The_Hive.md) vs [Authority Captain](Authority_Captain.md) [Authorityiconfaction](The_Central_Authority.md)
 
   
 
@@ -47,4 +47,4 @@ Events that spawn in Bluster Rift that do not involve combat. For more info, see
 ## Trivia/Notes
 
 -   The waters will push you downstream, eventually pushing you off a waterfall. Mind your step!
--   Not very worth grinding here, unless you're specifically looking for the [Crimson Megalodaunt](Crimson_Megalodaunt.md). It's better to grind at [Starswept Valley](Starswept_Valley.md) - they have the same events but better spawn rates and a more accessible location.
+-   Not very worth grinding here, unless you're specifically looking for the [Crimson Megalodaunt](Crimson_Megalodaunt.md). It's better to grind at [Starswept Valley](The_Starswept_Valley.md) - they have the same events but better spawn rates and a more accessible location.

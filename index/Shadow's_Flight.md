@@ -28,4 +28,4 @@ Notably, this allows the user to enter [The Understrand](The_Understrand.md) wit
 
 ## Obtainment
 
-Shadow's Flight is created by crafting together 2 [Void Feathers](Void_Feather.md) and an [Umbral Obsidian](Umbral_Obsidian.md).
+Shadow's Flight is created by crafting together 2 [Void Feathers](Dark_Feather.md#void-feather) and an [Umbral Obsidian](Umbral_Obsidian.md).

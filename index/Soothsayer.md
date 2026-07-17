@@ -41,4 +41,4 @@ Exact location of Soothsayer on the map:
 -   It would take ~10 knowledge to reach neutral from base reputation.
 -   It takes 45 Knowledge from enemy rank to become hero rank.
 -   It would take 334 Knowledge to get 0-100,000 notes.
--   This NPC is an easy way to get Ministry Reputation for the [Contractor](Contractor.md) [Oath](Oath.md).
+-   This NPC is an easy way to get Ministry Reputation for the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).

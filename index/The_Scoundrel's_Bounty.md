@@ -18,7 +18,7 @@ Home to the Rotten Lot, a vessel carrying crew members of countless origins hopi
 
   
 
-**The Scoundrel's Bounty** is a dungeon that serves as the [tutorial](Tutorial.md) for the game. She is a large ship operated by the [Rotten Lot](Rotten_Lot.md), and captained by [Orlandeau](<Cap'n_Orlandeau.md>). It does not function as a [boat](Boats.md) and is an immovable location, similar to an island.
+**The Scoundrel's Bounty** is a dungeon that serves as the [tutorial](Tutorial.md) for the game. She is a large ship operated by the [Rotten Lot](Rotten_Lot.md), and captained by [Orlandeau](<Cap'n_Orlandeau.md>). It does not function as a [boat](Ships_&_Sailing.md) and is an immovable location, similar to an island.
 
 ## Contents
 

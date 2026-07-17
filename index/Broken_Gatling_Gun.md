@@ -25,4 +25,4 @@ categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
 
 The Broken Gatling Gun is a rare item dropped by [Mechalodaunts](Mechalodaunt.md). Despite its namesake, it is shaped like a blue metal sheet.
 
-Can be given to [Carrion](Carrion.md) to obtain the [Monster Mantra](Monster_Mantras.md) [Mecha Gatling](Mecha_Gatling.md).
+Can be given to [Carrion](Carrion,_Father_of_Evolution.md) to obtain the [Monster Mantra](Monster_Mantras.md) [Mecha Gatling](Monster_Mantras.md#mecha-gatling).

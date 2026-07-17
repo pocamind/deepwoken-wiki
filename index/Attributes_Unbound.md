@@ -61,7 +61,7 @@ Note: The requirement for the quest is just to light the braziers in the right o
 1.  Reach 75 Willpower.
 2.  Find [Akira](Akira.md) in [The Depths](The_Depths.md). (spawns near a certain edge of the map and is not random)
 3.  Take his dialogue option "Wait, I'm not with them." then meet him at [Castle Light](Castle_Light.md).
-4.  If you aren't [Deepbound](Deepbound.md), make sure that you entered The Depths through a Whirlpool to enter [Castle Light](Castle_Light.md) and that you do not have the [Vacant](Vacant.md) Flaw.
+4.  If you aren't [Deepbound](Deepbound.md), make sure that you entered The Depths through a Whirlpool to enter [Castle Light](Castle_Light.md) and that you do not have the [Vacant](Boons_and_Flaws.md#flaws) Flaw.
 5.  Talk to Akira; you will get Willpower Unbounded as soon as you begin speaking with him. You do not have to join [The Divers](The_Divers.md) to unbound Willpower.
 
 _For a visual guide consider watching [this video](https://www.youtube.com/watch?v=VOE_UOd9ivs)._
@@ -71,19 +71,19 @@ Note: This is also how you get the Deepbound Origin.
 ### Charisma Unbound
 
 1.  Reach 75 Charisma.
-2.  Start the "Diver Apprentice" [Quest](Quest.md) by speaking to [Karliah](Karliah.md) in [Etris](Etris.md).
+2.  Start the "Diver Apprentice" [Quest](Quests.md) by speaking to [Karliah](Karliah.md) in [Etris](Etris.md).
 3.  In [Lower Erisia](Lower_Erisia.md), above the mines, save Karliah from the [Mudskipper](Mudskipper.md) attacking her.
 4.  Talk to Karliah and select the dialogue option "I don't think you're cut out for this. Mudskippers are small fry, you'll face much worse as a Diver. You need to rethink your life goals. \[Charisma\]".
 5.  Return to Etris and talk to Karliah again, finish her dialogue to obtain Charisma Unbound.
 
-The first and second option will result in her demise, either by [Horseshoe Crabs](Isopod.md) or by the hands of the player, **thus locking you out of unbounding Charisma.**
+The first and second option will result in her demise, either by [Horseshoe Crabs](Horseshoe_Crab.md) or by the hands of the player, **thus locking you out of unbounding Charisma.**
 
 _For a visual guide consider watching [this video](https://youtu.be/Z5ECG-qpdg0)._
 
 ## Weapon Proficiency Unbound
 
 1.  Reach 75 investment in Heavy/Medium/Light.
-2.  Start the "Vigil's Savior" [Quest](Quest.md) by speaking to [Apprentice Kj](Apprentice_Kj.md) in the [Temple of the Blade](Temple_of_the_Blade.md). (You can find the brother without starting the quest)
+2.  Start the "Vigil's Savior" [Quest](Quests.md) by speaking to [Apprentice Kj](Apprentice_Kj.md) in the [Temple of the Blade](Temple_of_the_Blade.md). (You can find the brother without starting the quest)
 3.  Obtain a [Gale Stone](Gale_Stone.md).
 4.  Head on to [Upper Erisia](Upper_Erisia.md) and to the [Burning Stone Gardens](Burning_Stone_Gardens.md).
 5.  Find a wooden house, located deep within the area (not to be confused with the [Rat's Den](<Rat's_Den.md>))
@@ -100,7 +100,7 @@ Alternatively, weapon can also be unbounded by reaching 75 points on the desired
 
 ## Attunement Unbound
 
-1.  Reach 75 investment in an [Attunement](Attunement.md).
+1.  Reach 75 investment in an [Attunement](Attunements.md).
 2.  Defeat any humanoid [Boss](Bosses.md).
     -   This includes: [Ferryman](The_Ferryman.md), [Duke of Erisia](Duke_Ishamon_Erisia.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Maestro](Maestro_Evengarde_Rest.md) and [Titus](Titus_Fulminus_Destellus.md).
 
@@ -108,5 +108,5 @@ Alternatively, weapon can also be unbounded by reaching 75 points on the desired
 
 -   The Windrunner is yet another reference to _The [Stormlight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive)_
 -   Brutus dialogue varies depending on your rep with [The Central Authority](The_Central_Authority.md)
--   Unlike normal attributes such as Fortitude and Willpower, [Attunements](Attunement.md) and Weapon uncaps will not carry over onto new slots upon uncapping them on one.
+-   Unlike normal attributes such as Fortitude and Willpower, [Attunements](Attunements.md) and Weapon uncaps will not carry over onto new slots upon uncapping them on one.
 -   The Lost Sibling quest is also required to unlock the [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) boss fight.

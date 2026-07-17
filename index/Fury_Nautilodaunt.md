@@ -137,7 +137,7 @@ Dodge
 
 ### Passives
 
--   **Fury-Fists of Thunder!** - All of the Fury Nautilodaunt's attacks apply [Shock](Shock.md), stunning you and interrupting your attacks, even through hyperarmor.
+-   **Fury-Fists of Thunder!** - All of the Fury Nautilodaunt's attacks apply [Shock](Status_Effects.md#shock), stunning you and interrupting your attacks, even through hyperarmor.
     -   This passive makes the Fury Nautilodaunt _significantly_ more dangerous than its default counterpart, as you cannot hyperarmor your way through it's attacks.
 
 ### Finisher
@@ -153,7 +153,7 @@ Dodge
 
 While the normal variant of this enemy has the health equivalent to a [Megalodaunt](Megalodaunt.md), making it the weakest of the endgame tier mobs in terms of stats, the Fury Nautilodaunt has an increased health pool by 1400 points, making it a bit of a tougher encounter. It has an incredible amount of resistance to a variety of attack types, and it's also unique in the fact that it has a much smarter AI along with the ability to **Block**, **Parry**, and **Dodge**.
 
-While this mob can **not** be merely stat checked, most strategies that work on [The Enforcer](The_Enforcer.md) will also work on the Nautilodaunt, aside from the fact that he has much higher damage. Even with it's near-immunity to[Mantras](Mantras.md), it can still be posture broken incredibly fast and easily with mantras such as[Tornado](Tornado.md) or [Caltrops](Caltrops.md). Take note that with the additional health of this variant comes the passive ability of applying the Electrifying status effect, making it harder to land a hit with the true-stun and removal of hyper-armor.
+While this mob can **not** be merely stat checked, most strategies that work on [The Enforcer](Enforcer.md) will also work on the Nautilodaunt, aside from the fact that he has much higher damage. Even with it's near-immunity to[Mantras](Mantras.md), it can still be posture broken incredibly fast and easily with mantras such as[Tornado](Galebreathe.md#tornado) or [Caltrops](Ironsing.md#caltrops). Take note that with the additional health of this variant comes the passive ability of applying the Electrifying status effect, making it harder to land a hit with the true-stun and removal of hyper-armor.
 
 Keep in mind standard humanoid boss PVE tactics such as stacking attacks, grouping up, and running to heal can still work against this mob, and due to it's incredibly low health at 2400 (which makes it increasingly susceptible to PvE scaling), it will die incredibly fast. It also cannot reliably parry Critical Attacks if a feint is used beforehand, making instant guardbreak crits such as the [Pernach](Pernach.md) and a majority of [Heavy Weapons](Weapons.md) like the [Evanspear Greataxe](Evanspear_Greataxe.md) for example will make this mob into a far easier challenge.
 

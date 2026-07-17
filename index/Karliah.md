@@ -76,7 +76,7 @@ NOTE: **This quest is not repeatable.** Choosing the dialogues that escort Karli
 -   Karliah Hex Code Colors: #96acba Skin | #5D6072 Hair | #daa400 Pupils | #be0000 Facial Marking
 -   Karliah seems to show a romantic interest in your character, likely as a result of the player's high charisma required to begin her questline.
 -   Karliah is quite inexperienced in combat, and was easily beaten down by [Mudskippers](Mudskipper.md) during her quest.
--   Karliah wears the [Diver Apprentice](Diver_Apprentice.md) outfit as a Diver and the [Hired Mercenary](Hired_Mercenary.md) armor after the quest.
+-   Karliah wears the [Diver Apprentice](Diver_Apprentice_Robes.md) outfit as a Diver and the [Hired Mercenary](Hired_Mercenary.md) armor after the quest.
 -   With enough Charisma, you can get 20 out of Karliah by choosing "Sure, for 20 Notes. \[Charisma\]"
 -   Karliah is visibly short. Her in-game model is shorter than every other NPC, including [the Pathfinder](The_Pathfinder.md). This is a trait shared with [Epsi](Epsi.md), although Epsi is short because he is a child.
 -   Karliah's hair can be found [here](https://www.roblox.com/catalog/4584787037/Brunette-Bangs-w-bun).

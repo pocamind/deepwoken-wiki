@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 Adar is an [Etrean](Etrean.md) NPC who acts as both progression for the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) and the [Ironsing](Ironsing.md) trainer.
 
-In order to obtain Ironsing, you must bring the 6 main [Ores](Ore.md) to Adar (Iron, Gold, Erisore, Irithine, Astruline, and Umbrite). You must give them all to him at once. You can only do this when you have talked to [the Miner's Landing blacksmith](Rudral.md) and shown him a [Pluripotent Alloy](Pluripotent_Alloy.md) or if you have obtained Ironsing before on a previous Slot.
+In order to obtain Ironsing, you must bring the 6 main [Ores](Ores.md) to Adar (Iron, Gold, Erisore, Irithine, Astruline, and Umbrite). You must give them all to him at once. You can only do this when you have talked to [the Miner's Landing blacksmith](Rudral.md) and shown him a [Pluripotent Alloy](Pluripotent_Alloy.md) or if you have obtained Ironsing before on a previous Slot.
 
 ## Location
 

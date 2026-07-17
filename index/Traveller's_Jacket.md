@@ -22,7 +22,7 @@ categories: [Outfits, Starter Outfits, Outfits with Variants]
 | selling_price | N/A |
 | weight | 1 |
 
-**Traveller's Jacket** is a Starter [Outfit](Outfit.md) in _Deepwoken_.
+**Traveller's Jacket** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

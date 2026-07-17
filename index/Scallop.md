@@ -20,7 +20,7 @@ categories: [Ingredients, Harvestables, Alchemy]
 
 ## Description
 
-**Scallop** is an [Ingredient](Ingredients.md) in Deepwoken. It is found in various places scattered around the [Depths](Depths.md). It is one of the best food sources for [Deepbound](Deepbound.md) players along with [Urchin](Urchin.md) stew. However, it does not give much thirst.
+**Scallop** is an [Ingredient](Ingredients.md) in Deepwoken. It is found in various places scattered around the [Depths](The_Depths.md). It is one of the best food sources for [Deepbound](Deepbound.md) players along with [Urchin](Urchin.md) stew. However, it does not give much thirst.
 
 It can also be used in [Alchemy](Alchemy.md) to make Mindbreaking potions, which give the strongest insanity effect. [Urchins](Urchin.md), [Seaweed Bundles](Seaweed_Bundle.md) and [Chum](Chum.md) can also be used for that purpose.
 

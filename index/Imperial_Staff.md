@@ -36,13 +36,13 @@ categories: [Weapons, Staves, Legendary Weapons, "Core-Attribute based weapons",
 
 ## Description
 
-The Imperial Staff is a Legendary [Staff](Staff.md) that scales with and requires [Strength](Strength.md) in addition to Medium. It is a long bo staff that is capable of changing its length which it employs for a variety of unique attacks.
+The Imperial Staff is a Legendary [Staff](Staves.md) that scales with and requires [Strength](Attributes.md#str) in addition to Medium. It is a long bo staff that is capable of changing its length which it employs for a variety of unique attacks.
 
 ## Talents
 
 Equipping the Imperial Staff grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Both Ends** allows you to followup an M1 with a swing from the opposite end of the staff by pressing M2. This attack comes out much faster, but only does 45% of your weapon damage. This has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
+**Both Ends** allows you to followup an M1 with a swing from the opposite end of the staff by pressing M2. This attack comes out much faster, but only does 45% of your weapon damage. This has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Critical
 

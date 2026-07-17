@@ -33,7 +33,7 @@ Suri is located in [Greathive Aratel](Greathive_Aratel.md) beside the stairs lea
 
 ## Quest
 
-Completing his quest will grant the player 1 [Vibrant Gem](Vibrant_Gem.md), EXP, positive [Hive](The_Hive.md) reputation, Compassion, and the [Careful Handling](Talents.md#careful-handling) Talent, reducing the chance that you drop Ingredients on death.
+Completing his quest will grant the player 1 [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers), EXP, positive [Hive](The_Hive.md) reputation, Compassion, and the [Careful Handling](Talents.md#careful-handling) Talent, reducing the chance that you drop Ingredients on death.
 
 1.  Finishing Suri's dialogue will start the quest.
 2.  You will be given a [Delicate Flower](Delicate_Flower.md), if you take certain forms of damage it will break and turn into a Ruined Flower (If it breaks you'll have to go back to Suri to get a new one)

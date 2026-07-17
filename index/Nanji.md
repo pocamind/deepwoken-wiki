@@ -27,7 +27,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Nanji is an [Etrean](Etrean.md) NPC. Upon speaking to them, they task the player with finding the whereabouts of [Ilji](Ilji.md), their brother through the "Wandering Blade" [Quest](Quest.md).
+Nanji is an [Etrean](Etrean.md) NPC. Upon speaking to them, they task the player with finding the whereabouts of [Ilji](Ilji.md), their brother through the "Wandering Blade" [Quest](Quests.md).
 
 ## Quest details
 

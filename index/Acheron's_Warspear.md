@@ -54,7 +54,7 @@ Acheron's Warspear uses the default Spear critical, a horizontal swing followed 
 
 This critical will be canceled if the first hit is parried.  
   
-This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

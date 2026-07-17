@@ -38,7 +38,7 @@ Description
 **Electric Stun Pulse**  
 (★☆☆)
 
- | Sends out a spherical pulse attack that inflicts a brief [Shock](Shock.md) debuff.
+ | Sends out a spherical pulse attack that inflicts a brief [Shock](Status_Effects.md#shock) debuff.
 
 -   Deals ~15 damage.
 -   This attack can only hurt 1 player at a time, despite looking like an AOE.

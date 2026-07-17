@@ -23,7 +23,7 @@ categories: [Treasures, Mantras, Deep Gems, Relics, Fishing Exclusive]
 
 ## Description
 
-The **Warped Blue Gem** is a translucent spherical orb that emits blue particles into the air when held. This [Deep Gem](Deep_Gem.md) is of [Relic](Relic.md) rarity.
+The **Warped Blue Gem** is a translucent spherical orb that emits blue particles into the air when held. This [Deep Gem](Deep_Gems.md) is of [Relic](Relics.md) rarity.
 
 ## Effect
 

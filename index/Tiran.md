@@ -39,7 +39,7 @@ When they reach adulthood, a Tiran will forge their own glider and fly off of th
 
 **Strengths:**
 
--   Assuming you don't have [Multifaceted](Multifaceted.md):
+-   Assuming you don't have [Multifaceted](Echoes.md#upgrades-unlocks-and-modifiers):
     -   +3 Agility.
     -   +2 Willpower.
 -   Reduced fall damage.

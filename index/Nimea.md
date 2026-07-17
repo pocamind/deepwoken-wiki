@@ -29,7 +29,7 @@ Nimea is an [Etrean](Etrean.md) NPC. She is on [Erisia](Erisia.md) to investigat
 
 She provides insight into the [Lightkeepers](Lightkeepers.md), offering background on the situation in the Hidden Village, the condition of its civilians, and possible explanations for their fate. She also discusses her personal connection with Viqh, the Lightkeeper of the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md).
 
-Nimea is a File Etrean wearing the [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) [Outfit](Outfit.md) and [Leather Boots](Leather_Boots.md). Based on her visible wrinkles, she appears to be in Stage 2 of [Aging](Age.md), likely placing her between 50 and 59 years old.
+Nimea is a File Etrean wearing the [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) [Outfit](Outfits.md) and [Leather Boots](Leather_Boots.md). Based on her visible wrinkles, she appears to be in Stage 2 of [Aging](Age.md), likely placing her between 50 and 59 years old.
 
 ## Location
 
@@ -45,7 +45,7 @@ Nimea is located inside a house at [The Hidden Village](The_Hidden_Village.md).
 
 **Spoken to Klaris:**
 
-These dialogues play instead if the player has spoken to [Klaris Llfiend](Klaris_Llfiend.md) about [Viqh](Viqh.md).
+These dialogues play instead if the player has spoken to [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) about [Viqh](Viqh.md).
 
 **First Encounter:**
 

@@ -10,7 +10,7 @@ categories: [Books]
 
 ## Description
 
-_**A Deathscribe's Journal**_ is a [Book](Book.md).
+_**A Deathscribe's Journal**_ is a [Book](Books.md).
 
 ## Text
 

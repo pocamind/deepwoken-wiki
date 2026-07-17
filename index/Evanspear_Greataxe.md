@@ -37,7 +37,7 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 
 ## Description
 
-The Evanspear Greataxe is a [Heavy Weapon](Weapons.md) that requires 70 Heavy Weapons stat to use. It's one of the few Heavy Weapons dealing additional [**Bleed damage**](Bleed.md).
+The Evanspear Greataxe is a [Heavy Weapon](Weapons.md) that requires 70 Heavy Weapons stat to use. It's one of the few Heavy Weapons dealing additional [**Bleed damage**](Status_Effects.md#bleed).
 
 ## Critical
 

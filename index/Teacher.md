@@ -101,7 +101,7 @@ Beiruul executes her opponent after knocking them:
 ## Trivia
 
 -   The stories spoken by the teacher can/may be referencing notable figures:
-    -   The story of survival may be referring to [Drallis Ehr](Drallis_Ehr.md), notably stopping [The Godstorm](The_Godstorm.md).
+    -   The story of survival may be referring to [Drallis Ehr](Drallis_Ehr.md), notably stopping [The Godstorm](Godstorm.md).
     -   The story of speed may be referring to [Emiya Konga](Emiya_Konga.md), a notable thief mentioned in the [Konga's Clutch Ring](<Konga's_Clutch_Ring.md>).
     -   The story of great leadership is referring to the King of Etrea, [Rolen Vashtir](Rolen_Vashtir.md).
 -   Having the Fugitive [Flaw](Boons_and_Flaws.md) will make the Teacher aggressive towards you, despite them (supposedly) not belonging to any faction.

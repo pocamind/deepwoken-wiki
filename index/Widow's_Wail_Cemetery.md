@@ -33,10 +33,10 @@ When the trial is active, you cannot teleport into the Widow's Wail Cemetery. No
 
 ### Rewards
 
--   [Hallowtide Weapons](<Hallowtide_(Event).md#description>)
--   [Hallowtide Equipment](<Hallowtide_(Event).md#description>)
+-   [Hallowtide Weapons](Hallowtide.md#description)
+-   [Hallowtide Equipment](Hallowtide.md#description)
 -   [Umbral Obsidian](Umbral_Obsidian.md)
--   [Gems](Gems.md)
+-   [Gems](Treasures.md)
 -   [Mantra Modifiers](Mantra_Modifiers.md)
 -   [Deep Gems](Deep_Gems.md)
 -   [Goodie Bags](Goodie_Bag.md)

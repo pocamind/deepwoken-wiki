@@ -39,7 +39,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Rifles, "A
 
 This weapon comes with a singular passive ability:
 
--   **Spark of Genius** - "Shot" attacks (the 2nd and 4th Basic Attack, including Aerial Attacks) will apply [Burn](Burn.md) or Eruption if the user has the corresponding path.
+-   **Spark of Genius** - "Shot" attacks (the 2nd and 4th Basic Attack, including Aerial Attacks) will apply [Burn](Status_Effects.md#burn) or Eruption if the user has the corresponding path.
 
 ## Critical
 

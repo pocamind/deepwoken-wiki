@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Aeroaseluniris Oricalum Forentus is a [Kyrsan](Kyrsan.md) NPC. Aero greets the player when they first enter the town of [Firfire](Firfire.md), giving insight on how to get to [Chaser](Chaser.md).
+Aeroaseluniris Oricalum Forentus is a [Kyrsan](Kyrsgarde.md) NPC. Aero greets the player when they first enter the town of [Firfire](Firfire.md), giving insight on how to get to [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).
 
 ## Dialogue
 

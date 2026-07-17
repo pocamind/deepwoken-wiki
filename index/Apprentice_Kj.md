@@ -29,7 +29,7 @@ This content is not accessible outside of this gamemode.
 
 Apprentice Kj is an [Etrean](Etrean.md) NPC. He is a student under [Evengarde Rest](Evengarde_Rest.md) at the [Isle of Vigils](Isle_of_Vigils.md) and the brother of [Vigil Isaac](Vigil_Isaac.md).
 
-Completing his dialogue starts the "Vigil's Savior" [Quest](Quest.md).
+Completing his dialogue starts the "Vigil's Savior" [Quest](Quests.md).
 
 Apprentice Kj wears the [Cloak of Winds](Cloak_of_Winds.md) outfit along with a [White Deepwoken Cloak](Deepwoken_Cloak.md).
 
@@ -44,7 +44,7 @@ Apprentice Kj wears the [Cloak of Winds](Cloak_of_Winds.md) outfit along with a 
 
 ### Rewards
 
-Upon notifying Apprentice Kj of Vigil Isaacs rescue, he gives the player a [Curiosity](Quests.md) [Talent](Talent.md) hand and an audience with Evengarde Rest.
+Upon notifying Apprentice Kj of Vigil Isaacs rescue, he gives the player a [Curiosity](Quests.md) [Talent](Talents.md) hand and an audience with Evengarde Rest.
 
 Additionally, the player will be rewarded with 5 Full Training points and the [Kj's Courage](Talents.md#kjs-courage) Talent. Kj's Courage increases [Knowledge](Knowledge.md) gain by 10%, rounded down.
 

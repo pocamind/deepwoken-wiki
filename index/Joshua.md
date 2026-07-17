@@ -46,7 +46,7 @@ Joshua is located inside of his house at [Etris](Etris.md), it is near the Gener
 
 **Karliah:**
 
-These dialogues are unlocked if the player has started the "Diver Apprentice" [Quest](Quest.md).
+These dialogues are unlocked if the player has started the "Diver Apprentice" [Quest](Quests.md).
 
 **Quest Start:**
 
@@ -62,7 +62,7 @@ These dialogues are unlocked if the player has started the "Diver Apprentice" [Q
 
 **Lord Regent:**
 
-This dialogue is unlocked if the player has started the "Lord Regent Who?" [Quest](Quest.md).
+This dialogue is unlocked if the player has started the "Lord Regent Who?" [Quest](Quests.md).
 
 <table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Good day to you, [Age]. Was there something you needed?</td></tr><tr><td>Do you know anything about the Lord Regent?</td></tr><tr><td>The Lord Regent eh? Can't say I do, really. In my later years I haven't paid much attention to politics. In my youth I was travelling the world, not cooped up here on Etrea like I am now.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 

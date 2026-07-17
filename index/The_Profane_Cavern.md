@@ -20,7 +20,7 @@ It's said that the lifeforce of those who have been defeated here has seeped int
 
   
 
-**The Profane Cavern** is a [location](Locations.md) in _Deepwoken_. It is one of the unique and randomly selected arenas exclusive to the 1v1 [Chime of Conflict](Chime_of_Conflict.md) gamemode.
+**The Profane Cavern** is a location in _Deepwoken_. It is one of the unique and randomly selected arenas exclusive to the 1v1 [Chime of Conflict](Chime_of_Conflict.md) gamemode.
 
 ## Description
 

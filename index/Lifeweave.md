@@ -13,7 +13,7 @@ notices:
 
 ## Description
 
-Hailing from the Central Luminant, Lifeweave is the main invention of the [Hive](The_Hive.md) and is described to be the ability to manipulate plants and fungal matter through the [Song](The_Song.md)[\[1\]](#cite-note-0-1). It is able to be used by numerous NPCs and monsters — for example, [Moss Knights](Moss_Knight.md). It can even be used to imbue life into inanimate objects and/or allow them to use Lifeweave, as seen in [Hive Contructs](Hive_Construct.md). Additionally, it may be used to upgrade objects (such as [Ships](Ships_&_Sailing.md))[\[2\]](#cite-note-2) with a ‘complex lattice-work’. It is unknown what this means or does, aside from it apparently ‘producing unique effects’. [\[1\]](#cite-note-0-1)
+Hailing from the Central Luminant, Lifeweave is the main invention of the [Hive](The_Hive.md) and is described to be the ability to manipulate plants and fungal matter through the [Song](Glossary.md#the-song)[\[1\]](#cite-note-0-1). It is able to be used by numerous NPCs and monsters — for example, [Moss Knights](Moss_Knight.md). It can even be used to imbue life into inanimate objects and/or allow them to use Lifeweave, as seen in [Hive Contructs](Hive_Construct.md). Additionally, it may be used to upgrade objects (such as [Ships](Ships_&_Sailing.md))[\[2\]](#cite-note-2) with a ‘complex lattice-work’. It is unknown what this means or does, aside from it apparently ‘producing unique effects’. [\[1\]](#cite-note-0-1)
 
 ## References
 

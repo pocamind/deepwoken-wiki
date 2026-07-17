@@ -21,7 +21,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Deran is a [Khan](Khan.md) [NPC](NPC.md) found within [The Chariot's Spire](<The_Chariot's_Spire.md>), who may grant you access to the Deepdriller. This spawns you at [The Frontier Furnace](The_Frontier_Furnace.md) and does not require you to kill the [Bone Keeper](Bone_Keeper.md).
+Deran is a [Khan](Khan.md) NPC found within [The Chariot's Spire](<The_Chariot's_Spire.md>), who may grant you access to the Deepdriller. This spawns you at [The Frontier Furnace](The_Frontier_Furnace.md) and does not require you to kill the [Bone Keeper](Bone_Keeper.md).
 
 He will only grant you access if you are an [Ignition Delver](Ignition_Delver.md) and have escaped the [Second Layer](Second_Layer.md) using the Deepdriller once prior. Otherwise, he will deny your request.
 

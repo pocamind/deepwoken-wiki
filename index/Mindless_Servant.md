@@ -21,7 +21,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-An unfortunate group of individuals that became victims of [The Duke](The_Duke.md). They have been experimented on so much to the point where their souls have departed from their bodies, leaving only a husk of themselves.
+An unfortunate group of individuals that became victims of [The Duke](Duke_Ishamon_Erisia.md). They have been experimented on so much to the point where their souls have departed from their bodies, leaving only a husk of themselves.
 
 ## Moveset
 
@@ -56,7 +56,7 @@ A Mindless Servant's arsenal only consists of their hands:
 
 ## Tips
 
--   May become extremely difficult to fend off if you have no block breaking mantras, and have 5-6 of them on you, as they have no anti-NPC teaming AI, so they will all hit you relentlessly, along with [Duke Erisia](Duke_Erisia.md).
+-   May become extremely difficult to fend off if you have no block breaking mantras, and have 5-6 of them on you, as they have no anti-NPC teaming AI, so they will all hit you relentlessly, along with [Duke Erisia](Duke_Ishamon_Erisia.md).
 -   As they can be hit by one another, baiting Duke Erisia into hitting them can help with crowd control.
 
 ## Trivia

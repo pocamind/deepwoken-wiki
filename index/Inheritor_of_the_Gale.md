@@ -32,7 +32,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Inheritor of the Gale** is a playable [Memento](Memento.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. It can be obtained by defeating the [Shogun Specialist](Shogun_Specialist.md) and [Etrean Apostle](Etrean_Apostle.md) NPCs, whose jobs can be found together at the Isle of Vigils and [the Indigo Citadel](The_Indigo_Citadel.md) job boards. The jobs require you to be at least Power 15 to start them.
+**Inheritor of the Gale** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. It can be obtained by defeating the [Shogun Specialist](Shogun_Specialist.md) and [Etrean Apostle](Etrean_Apostle.md) NPCs, whose jobs can be found together at the Isle of Vigils and [the Indigo Citadel](The_Indigo_Citadel.md) job boards. The jobs require you to be at least Power 15 to start them.
 
 ## Starting Abilities
 
@@ -45,7 +45,7 @@ This content is not accessible outside of this gamemode.
 -   Engage \[Echo Talent, Quest Talent\] - Landing a Basic Attack slightly restores some of your Ether. (+1 Posture)
 -   Air Pressure \[Common Talent\] - Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash. Gale Dashes carry you further than regular dashes and have extended iframes, but will clear immediately should you initiate an attack. (+1 Passive Agility)
 
--   Apparitions \[Common Talent\] - Your Haunted Phantoms become Apparitions that apply [Winded](Winded.md) on hit. Apparitions cannot be parried if you are in [Phantom Step](Status_Effects.md#phantom-step).
+-   Apparitions \[Common Talent\] - Your Haunted Phantoms become Apparitions that apply [Winded](Status_Effects.md#winded) on hit. Apparitions cannot be parried if you are in [Phantom Step](Status_Effects.md#phantom-step).
     -   Apparitions can be parried in "Phantom step" (Possibly a bug)
 -   Haunted Gale \[Common Talent\] - Landing 3 Galebreathe Mantras without whiffing calls for a Haunted Phantom. The Phantom will attack alongside you for the next 8s before dissipating.
     -   On proc, gain the Haunted status effect, spawning ghosts that attack your opponent every time you land a Mantra.
@@ -80,7 +80,7 @@ This content is not accessible outside of this gamemode.
 
 -   _**Possession**_ \[Advanced Talent\] - After an apparition hits an enemy, receive 15% posture damage on all Galebreathe attacks for 6 seconds. If the apparition hits while you have Phantom Step activated, receive a 15% chip damage buff as well for the same duration.
     -   The posture damage and chip damage buffs have reduced effects if you have under 75 Galebreathe.
-    -   The posture damage boost activates from Inhaled M1s and Crits. If you are using [Wraithclaw](Wraithclaw.md), [Curved Blade of Winds](Curved_Blade_of_Winds.md) or [Hero Blade of Wind](Hero_Blade_of_Wind.md) (only critical) you don't have to inhale a mantra for it to take effect.
+    -   The posture damage boost activates from Inhaled M1s and Crits. If you are using [Wraithclaw](Wraithclaw.md), [Curved Blade of Winds](Curved_Blade_of_Winds.md) or [Hero Blade of Wind](<Hero's_Blade_of_Wind.md>) (only critical) you don't have to inhale a mantra for it to take effect.
 
 -   Vanishing Wraith \[Rare Talent\] - Your 'Aerial Attacks' while in Phantom Step will now teleport you behind your target
 -   Wind Step \[Common Talent\] - Create a step of wind below you when jumping in the air. Jumping while sliding down a slope or off a cliff launches you forwards.
@@ -159,7 +159,7 @@ N/A
 -   The default variant deals 12 posture damage regardless of level, while the Tempest Wind variant deals 4/5/6/7/8 posture damage per level.
 -   Both variants have a windup of 0.5 seconds.
 -   Projectile lasts about 3-5 seconds
--   Modifying with a [Drift](Drift_Shard.md)/[Rush Shards](Rush_Shard.md) will increase projectile's speed significantly.
+-   Modifying with a [Drift](Mantra_Modifiers.md#regular-modifiers)/[Rush Shards](Mantra_Modifiers.md#regular-modifiers) will increase projectile's speed significantly.
 -   Casting Wind Blade while sliding will perform the "**Tempest Wind**" variant of the Mantra. This version deals increased damage at the cost of range.
     -   This variant can be increased further with the [Tempestmaker's Threads](<Tempestmaker's_Threads.md>) Talent, increasing the damage of your Tempest Wind-Wind Blade by 20% and granting a 20% damage buff while midair after proccing it.
 
@@ -205,9 +205,9 @@ N/A
 -   The base variant deals 10 posture damage. The Blast Spark variant deals 4 posture damage per hit (4), while the Multiplying Spark variant deals 0.8 posture damage per hit (8). Both sparks combined deals 3 posture damage per hit (24).
 -   Has a windup of 0.45 seconds. The Multiplying and both Spark variants has a windup of 0.55 seconds. Has a 15 second cooldown.
 -   Pushes and ragdolls opponent.
--   Applies the [Suffocate](Suffocate.md) status effect.
--   Can be modified with a [Multiplying Spark](Multiplying_Spark.md) to fire a few bullets at once in a vert tight cone AoE.
--   Can be modified with a [Blast Spark](Blast_Spark.md) to fire a few bullets at once in a wide cone AoE.
+-   Applies the [Suffocate](Status_Effects.md#suffocate) status effect.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to fire a few bullets at once in a vert tight cone AoE.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks) to fire a few bullets at once in a wide cone AoE.
 -   Both Sparks can be combined, making three consecutive short-range bullet rounds.
 
  |
@@ -264,7 +264,7 @@ N/A
 -   Spine Cutter\[Rare Talent\] **250** \- Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage. (+6 Carry Load, +2 Passive Agility)
     -   5 second cooldown per enemy. The cooldown indicator may suggest the cooldown is per enemy type, but it isn't.
     -   The second slash has no PEN.
-    -   Can proc from some [physical](Attunement-less.md) Mantras and criticals with the [M1 tag](M1_tag.md).
+    -   Can proc from some [physical](Attunement-less.md) Mantras and criticals with the M1 tag.
 
 -   _**A World Without Song**_ \[Advanced Talent\] **350** \- Every 3 hits with a Wind Mantra now procs Suffocate.
     -   Requires 4 hits to proc if you have less than 75 Galebreathe.
@@ -358,7 +358,7 @@ _A blast of wind._
     -   Cannot be reapplied while Down Comes the Claw is currently active.
     -   Maiming Claws' duration will be shortened if you do not have at least 75 Agility.
 
--   Suffocating Impact \[Common Talent\] - Flourishing enemies into walls applies [Winded](Winded.md) and [Suffocating](Suffocation.md) for a short duration. (+2 Passive Agility)
+-   Suffocating Impact \[Common Talent\] - Flourishing enemies into walls applies [Winded](Status_Effects.md#winded) and [Suffocating](Status_Effects.md#suffocate) for a short duration. (+2 Passive Agility)
 
 -   Speed Emission \[Common Talent\] - Gain a slight speed boost after landing a vent.
 
@@ -368,9 +368,9 @@ _A blast of wind._
     -   Scales linearly in effectiveness.
 
 -   Silencer's Blade \[Rare Talent\] - Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation and grant a speed boost.
-    -   Landing M1 attacks or criticals with the [M1 tag](M1_tag.md) on suffocated targets applies a new stack of suffocation that lasts 5 seconds.
+    -   Landing M1 attacks or criticals with the M1 tag on suffocated targets applies a new stack of suffocation that lasts 5 seconds.
     -   Grants an ~22.5% speed boost for 3 seconds.
-    -   [Bleed](Bleed.md) damage can proc this effect.
+    -   [Bleed](Status_Effects.md#bleed) damage can proc this effect.
 
 -   Fast Blade \[Common Talent\] - Extend the speed boost you get from successfully parrying an attack. (+1 Passive Agility)
     -   Parrying without this Talent gives you a speed boost, but it's barely noticeable and lasts for the duration of the parry.
@@ -447,7 +447,7 @@ Defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_
 -   Has a windup of 0.5 seconds with a cooldown of 13 seconds.
 -   Can be used as mobility to push the user forward.
 -   Has a relatively large hitbox.
--   Shares a cooldown with [Ice Lance](Ice_Lance.md).
+-   Shares a cooldown with [Ice Lance](Frostdraw.md#ice-lance).
 -   The **base damage** of this Mantra is increased by 15% if you are wearing the full Specialist Set. Additionally, it will become a yellow color.
 
  |
@@ -455,7 +455,7 @@ Defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_
 ### Dravik, The Rat King
 
 -   Breathing Impact \[Common Talent\] - When knocked into objects by wind mantras enemies take additional blunt damage based off of how hard they are hit.
-    -   The following Galebreathe Mantras have knockback and can benefit from this Talent: [Air Force](Air_Force.md), [Champion's Whirlthrow](<Champion's_Whirlthrow.md>), [Tornado Kick](Tornado_Kick.md), [Gale Punch](Gale_Punch.md), [Rising Wind](Rising_Wind.md), and [Wind Gun](Wind_Gun.md).
+    -   The following Galebreathe Mantras have knockback and can benefit from this Talent: [Air Force](Galebreathe.md#air-force), [Champion's Whirlthrow](Galebreathe.md#champions-whirlthrow), [Tornado Kick](Galebreathe.md#tornado-kick), [Gale Punch](Galebreathe.md#gale-punch), [Rising Wind](Galebreathe.md#rising-wind), and [Wind Gun](Galebreathe.md#wind-gun).
     -   The increased damage dealt is based on the attack's initial damage and your opponent's acceleration.
     -   Due to the increased damage being based on acceleration, it is **heavily** affected by server performance and ping.
 

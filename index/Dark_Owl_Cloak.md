@@ -34,7 +34,7 @@ Variants: [Chapeau](Dark_Owl_Chapeau.md) · [Cape](Dark_Owl_Cape.md)
 
 The Dark Owl Cloak is an [Equipment](Equipment.md) item under the "Arms" category.
 
-The [Disbelief](Talents.md#disbelief) Talent halves the duration of any [Charm](Charm.md) that is afflicted upon you.
+The [Disbelief](Talents.md#disbelief) Talent halves the duration of any [Charm](Status_Effects.md#charm) that is afflicted upon you.
 
 ## Trivia
 

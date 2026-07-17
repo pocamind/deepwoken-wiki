@@ -28,4 +28,4 @@ categories: [Equipment, Head, Helmets, Craftable, Equipment with Talents, Equipm
 
 The Broodplate Helmet is an [Equipment](Equipment.md) item under the "Head" category.
 
-The [Broodlords Scream](Talents.md#broodlords-scream) Talent enhances the user's [Sing](Sing.md), [Taunt](Taunt.md), and [Ardour Scream](Talents.md#ardour-scream), by making them apply 100% [Anti-Heal](Status_Effects.md#anti-heal) for the full duration of their effects. This also grants the [Broodlord](Broodlord.md)'s Scream sound effect to these abilities.
+The [Broodlords Scream](Talents.md#broodlords-scream) Talent enhances the user's [Sing](Attunement-less.md#sing), [Taunt](Attunement-less.md#taunt), and [Ardour Scream](Talents.md#ardour-scream), by making them apply 100% [Anti-Heal](Status_Effects.md#anti-heal) for the full duration of their effects. This also grants the [Broodlord](Mudskipper_Broodlord.md)'s Scream sound effect to these abilities.

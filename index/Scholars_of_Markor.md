@@ -17,7 +17,7 @@ categories: [The Citadel of Markor]
 
 ## Description
 
-**Scholars of Markor** (a.k.a. Scholars of the Citadel) is a sub-unit of [the Citadel of Markor](The_Citadel_of_Markor.md), a prominent research organization operating in [Lumen](Lumen.md). They specify in researching the [Surface](Surface.md) and it's history, serving as a counterpart to [the Divers](The_Divers.md), which instead delve into [the Depths](The_Depths.md).[\[1\]](#cite-note-oscillation-1)[\[2\]](#cite-note-folklore-2)
+**Scholars of Markor** (a.k.a. Scholars of the Citadel) is a sub-unit of [the Citadel of Markor](The_Citadel_of_Markor.md), a prominent research organization operating in Lumen. They specify in researching the [Surface](Surface.md) and it's history, serving as a counterpart to [the Divers](The_Divers.md), which instead delve into [the Depths](The_Depths.md).[\[1\]](#cite-note-oscillation-1)[\[2\]](#cite-note-folklore-2)
 
 They are authors of [Lumen's Folklore](<Lumen's_Folklore.md>) as well as publishers of multiple theories and reconstructions of songbooks.[\[1\]](#cite-note-oscillation-1)[\[2\]](#cite-note-folklore-2)
 

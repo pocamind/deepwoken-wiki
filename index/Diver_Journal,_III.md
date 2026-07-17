@@ -12,7 +12,7 @@ notices:
 
 ## Description
 
-_**Diver Journal, III**_ was a [Book](Book.md) found in the first floor of the [Second Layer](Second_Layer.md). It was changed to [Diver's Journal: Apprentice Hero](<Diver's_Journal%253A_Apprentice_Hero.md>).
+_**Diver Journal, III**_ was a [Book](Books.md) found in the first floor of the [Second Layer](Second_Layer.md). It was changed to [Diver's Journal: Apprentice Hero](<Diver's_Journal%253A_Apprentice_Hero.md>).
 
 ## Text
 
@@ -45,5 +45,5 @@ Diver Journal, III
 
 ## Appearances
 
--   [Apprentice Hero](Apprentice_Hero.md)
--   [Journeyman Skeli](Journeyman_Skeli.md) (Mentioned only)
+-   [Apprentice Hero](<Mauled_Diver_Corpse_(Apprentice_Hero).md>)
+-   [Journeyman Skeli](<Abandoned_Diver_(Journeyman_Skeli).md>) (Mentioned only)

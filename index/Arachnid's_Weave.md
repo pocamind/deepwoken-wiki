@@ -26,19 +26,19 @@ categories: [Outfits, Master Outfits, Outfits with Talents, Outfits with Exclusi
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Arachnid's Weave** is a Master [Outfit](Outfit.md) in _Deepwoken_.
+**Arachnid's Weave** is a Master [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 1,000 and requires ten (10) [Cloth](Cloth.md), two (2) [Fiber](Fiber.md), five (5) [Spider Eggs](Spider_Egg.md), two (2) [Dark Feathers](Dark_Feather.md), one (1) [Bloodless Gem](Bloodless_Gem.md), and five (5) [Vibrant Gems](Vibrant_Gem.md) to craft.
+This Outfit costs 1,000 and requires ten (10) [Cloth](Cloth.md), two (2) [Fiber](Fiber.md), five (5) [Spider Eggs](Spider_Egg.md), two (2) [Dark Feathers](Dark_Feather.md), one (1) [Bloodless Gem](Bloodless_Gem.md), and five (5) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 2100 durability, grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +35% Elemental resistance [ResistanceElemental](Attunement.md), +15% Blood resistance [ResistanceBloodrend](Bloodrend.md), +15% Iron resistance [ResistanceIronsing](Ironsing.md), +10% Lightning resistance [ResistanceThundercall](Thundercall.md), 10 Sanity [IconSanity](Sanity.md), and +55% Ether Regeneration [IconEther](Ether.md). Additionally, it provides the [Corrosive Touch](Talents.md#corrosive-touch) Talent.
+This Outfit has 2100 durability, grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +35% Elemental resistance [ResistanceElemental](Attunements.md), +15% Blood resistance [ResistanceBloodrend](Bloodrend.md), +15% Iron resistance [ResistanceIronsing](Ironsing.md), +10% Lightning resistance [ResistanceThundercall](Thundercall.md), 10 Sanity [IconSanity](Insanity.md), and +55% Ether Regeneration [IconEther](Ether.md). Additionally, it provides the [Corrosive Touch](Talents.md#corrosive-touch) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistanceBlunt ResistanceSlash, 44.75% Ironsing [ResistanceIronsing](Ironsing.md), 44.75% Bloodrend [ResistanceBloodrend](Bloodrend.md), 41.5% Thundercall [ResistanceThundercall](Thundercall.md), and 35% Elemental [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceShadowcast](Shadowcast.md).
 

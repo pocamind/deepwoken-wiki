@@ -25,7 +25,7 @@ categories: [Vow of Iron Exclusive, Outfits, Unique Outfits, Outfits with Varian
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
-**Barbarian** is a Unique [Outfit](Outfit.md) in _Deepwoken_.
+**Barbarian** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Requirements
 
@@ -33,7 +33,7 @@ This Outfit has no crafting or stat requirements to be crafted.
 
 ## Armor Stats
 
-This Outfit has 1500 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash and +20% Elemental resistance [ResistanceElemental](Attunement.md).
+This Outfit has 1500 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash and +20% Elemental resistance [ResistanceElemental](Attunements.md).
 
 ## Trivia
 

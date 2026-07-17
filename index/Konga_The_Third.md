@@ -41,19 +41,19 @@ Konga The Third is located at the very top of the library tower of [Alsin's Land
 
 **Base Dialogue:**
 
-If the player hasn't chosen a [Path](Justicar.md#paths) to follow.
+If the player hasn't chosen a [Path](<Justicar_(Origin).md#paths>) to follow.
 
 <table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Yet to follow a path to enhance your skills? I'd recommend Vanguard. I'm told they're universally beloved, ya hear?</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
 
 **Vanguard Path:**
 
-If the player is a [Vangaurd Justicar](Justicar.md#vanguard).
+If the player is a [Vangaurd Justicar](<Justicar_(Origin).md#vanguard>).
 
 <table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="6">Requirements met for <a href="Karita_Plating.md">Karita Plating</a> (80 Light and 80 Agility)</td><td colspan="6">Requirements unmet</td></tr><tr><td colspan="6">Whoa whoa WHOA, kid, I can tell just by lookin' at ya. You got some serious speed and skill with your legs!</td><td colspan="6">Glad to be seeing more Vanguards around. A shame, though - a bit more speed and skills, and you could be rockin' one of these. <i>*He points to his legs.*</i></td></tr><tr><td colspan="6">Thanks?</td><td colspan="6">Hey, you look familiar... Have I seen you somewhere before&nbsp;?</td></tr><tr><td colspan="6">Nah nah nah, I see it in just the way ya stand. You could be the next KONGA incarnate. The new MASTER of the SLIDER STYLE.</td><td colspan="6">Hm? Don't think so. But I get that a lot, kid - people seem to think I'm some 'Gusto', or 'Matsu', or whatever. No idea what that's about. <i>*He shrugs.*</i></td></tr><tr><td colspan="6">Konga? You mean that infamous thief? With the ring that kinda looks like the one you're wearing?</td><td colspan="6">What are you wearing?</td></tr><tr><td colspan="6">Yes, kid-that's my great grandfather you speak of! And yes, the very same ring -though, I wear only a replica. For decades, the Slider style [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] was used for thievery and mischief. But I decided to break that cycle, in order to get rid of the infamy that followed our family name.</td><td colspan="6">That's Karita Plating, made for guys who could use a bit more speed when sliding around.</td></tr><tr><td colspan="6">Oh, wow.</td><td colspan="6">Why would these make you faster? Seems like they would slow you down, if anything.</td></tr><tr><td colspan="6">I won't waste your time any longer - take these. If ya ever wanna start sliding and fighting at the same time, put em' on.<br>[Player receives <a href="Karita_Plating.md">Karita Plating</a>]</td><td colspan="6">Alright, kid, you're asking too many questions now, get on outta here.</td></tr><tr><td colspan="6">Thanks.</td><td colspan="6">[End Dialogue]</td></tr><tr><td colspan="6">Take it easy now, kid.</td></tr><tr><td colspan="6">[End Dialogue]</td></tr></tbody></table>
 
 **Warder Path:**
 
-If the player is a [Warder Justicar](Justicar.md#warder-path).
+If the player is a [Warder Justicar](<Justicar_(Origin).md#warder-path>).
 
 <table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">A goody two-shoes, eh? Shouldn't you be off healing some poor sod on the field?</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
 

@@ -17,7 +17,7 @@ Here, the dying light collects like dregs at the precipice of a waterfall. The u
   
 
   
-**The Voidsea** is a [location](Locations.md) in _Deepwoken_. It functions as an effective boundary for the playable [Luminants](Luminants.md).
+**The Voidsea** is a location in _Deepwoken_. It functions as an effective boundary for the playable [Luminants](Luminants.md).
 
 The **Voidsea** is an elusive and dangerous region which lays outside of Lumen. The **Voidsea** covers the surrounding sea of the Luminants and will appear when you sail too far off from the surrounding islands.
 
@@ -34,7 +34,7 @@ The **Voidsea** is similar to [Voidzones](Voidzones.md) in many ways, progressin
 
 ## Trivia
 
--   The music for this area is [What Mends Shall Fray](What_Mends_Shall_Fray.md) by Naktigonis
+-   The music for this area is [What Mends Shall Fray](Deepwoken_OST.md#what-mends-shall-fray) by Naktigonis
 -   Patches of bubbles may appear while in the Voidsea. Waiting near one for long enough will cause a [Dread Serpent](Dread_Serpent.md) (bigger **patch** of bubbles) or a [Lionfish](Lionfish.md) (smaller **patch** of bubbles) to spawn.
 -   As seen from the book, _Studies on Canticlysm, Vol. IV_, the Voidsea was originally called The World's Edge.
 -   Dying in [Boatman's Watch](<Boatman's_Watch.md>), [Beloved Zofia](Beloved_Zofia.md) and [Moon's Eyrie](<Moon's_Eyrie.md>) will send you to [The Depths](The_Depths.md).

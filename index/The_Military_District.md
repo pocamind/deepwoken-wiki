@@ -16,7 +16,7 @@ The top brass of the military are said to have opted not to raise the alarm in t
 
   
 
-**The Military District** is a [location](Locations.md) in _Deepwoken_. It is a sub-location of [The Depths](The_Depths.md) found in the [First Layer](First_Layer.md).
+**The Military District** is a location in _Deepwoken_. It is a sub-location of [The Depths](The_Depths.md) found in the [First Layer](First_Layer.md).
 
 ## Overview
 

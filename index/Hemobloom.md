@@ -22,7 +22,7 @@ categories: [Items, Ingredients, Harvestables]
 
 ## Description
 
-The Hemobloom is a red-colored flower with a structure that appears to be a blood crystal on the middle. It can be found in [The Valley of Heroes](The_Valley_of_Heroes.md) during the [Winter](Winter.md), being Saltspan or Rimefall. They spawn in groups of two near the back. Alternatively, [Traan Zakshun](Traan_Zakshun.md) can potentially sell Hemoblooms for 1 in his black market.
+The Hemobloom is a red-colored flower with a structure that appears to be a blood crystal on the middle. It can be found in [The Valley of Heroes](The_Valley_of_Heroes.md) during the [Winter](Seasons.md#winter), being Saltspan or Rimefall. They spawn in groups of two near the back. Alternatively, [Traan Zakshun](Traan_Zakshun.md) can potentially sell Hemoblooms for 1 in his black market.
 
 It can be utilized to craft the [Sanguine Transfuser](Sanguine_Transfuser.md), needing 1 Hemobloom, a [Dormant Splinter](Dormant_Splinter.md) and an [Ancient Dagger Remains](Ancient_Dagger_Remains.md) at [The Cold Forge](The_Cold_Forge.md). Alternatively, using 5 It can also be used to craft the [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>) at the [Blacksmith](Blacksmith.md).
 

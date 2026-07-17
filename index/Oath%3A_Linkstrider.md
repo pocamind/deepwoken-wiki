@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oath.md): Linkstrider** is one of the 17 obtainable Oaths in _Deepwoken. This Oath specializes entirely on support. Excels at controlling the battlefield by offering various buffs and granting heals to allies, while also inflicting debuffs and lifesteal for fighting enemies. Granted the power of this Oath is exceptional for fights in groups, having this Oath while alone will hardly give benefits, thus making it one of (if not) the worst Oath for solo players._ Together with [Oathless](Oathless.md), [Fadetrimmer](Fadetrimmer.md), [Dawnwalker](Dawnwalker.md), and [Contractor](Contractor.md), it is one of 5 Oaths that have no direct stat requirements.
+**[Oath](Oaths.md): Linkstrider** is one of the 17 obtainable Oaths in _Deepwoken. This Oath specializes entirely on support. Excels at controlling the battlefield by offering various buffs and granting heals to allies, while also inflicting debuffs and lifesteal for fighting enemies. Granted the power of this Oath is exceptional for fights in groups, having this Oath while alone will hardly give benefits, thus making it one of (if not) the worst Oath for solo players._ Together with [Oathless](Oath%253A_Oathless.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), [Dawnwalker](Oath%253A_Dawnwalker.md), and [Contractor](Oath%253A_Contractor.md), it is one of 5 Oaths that have no direct stat requirements.
 
 “ The world is broken, linked by fragile webs. ”
 
@@ -38,13 +38,13 @@ The Oath is acquired after taking the lives of 3 players or bosses and conductin
 2.  [Pristine Lotus](Pristine_Lotus.md) Method:
     1.  Collect 3 [Pristine Lotuses](Pristine_Lotus.md) located around [The Entropy Catalyst](The_Entropy_Catalyst.md).
     2.  Execute 3 players with Oaths or [Bosses](Bosses.md) **while you are combat tagged**. Can be the same player.
-        -   Upon executing a player with an Oath or a [boss](Bosses.md), one of your [Pristine Lotuses](Pristine_Lotus.md) will be converted to a [Scarlet Lotus](Scarlet_Lotus.md).
-    3.  Return to [The Entropy Catalyst](The_Entropy_Catalyst.md) with 3 [Scarlet Lotuses](Scarlet_Lotus.md) and place them in the craters.
+        -   Upon executing a player with an Oath or a [boss](Bosses.md), one of your [Pristine Lotuses](Pristine_Lotus.md) will be converted to a [Scarlet Lotus](Pristine_Lotus.md).
+    3.  Return to [The Entropy Catalyst](The_Entropy_Catalyst.md) with 3 [Scarlet Lotuses](Pristine_Lotus.md) and place them in the craters.
     4.  Interact with the white orb that appears in the middle.
 
 Extra note: You can use a mix of both knocked players/killed bosses and Scarlet Lotus.
 
-_Linkstrider **can** be reobtained if you [Oathbreak](Oathbreak.md) it._
+_Linkstrider **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it._
 
 ## Progression
 
@@ -70,7 +70,7 @@ This Oath grants 2 Support Mantra slots, 1 Wildcard Mantra slot, and +5% PEN. Ap
     -   Six meteorites can be located throughout the overworld:
         -   _Etrean Luminant:_
             -   **Ceres** (on the mountain right above the Navaen Camp in [Etris](Etris.md))
-            -   **Europa** (On the top part of the rocks overlooking the entrance to [Valley of Heroes](Valley_of_Heroes.md), to the right.)
+            -   **Europa** (On the top part of the rocks overlooking the entrance to [Valley of Heroes](The_Valley_of_Heroes.md), to the right.)
             -   **Fortuna** (Above [Erisor's Church](<Erisor's_Church.md>))
         -   _Eastern Luminant:_
             -   **Hygiea** (Near [Songseeker Wilds](Songseeker_Wilds.md) Sea Highway)
@@ -153,7 +153,7 @@ Upon killing 2 players with [Oaths](Oaths.md)
 **Effect:** _If linked to an ally (signified by blue cord), sacrifice 6% of your HP to be turned into [Wither](Status_Effects.md#wither) to restore 15% of the target's HP overtime. This ability can be interrupted._
 
 -   It has a 22.5 second cooldown.
--   Does **not** work with any [Deep Gem](Deep_Gem.md) besides [Blue Gems](Blue_Gem.md).
+-   Does **not** work with any [Deep Gem](Deep_Gems.md) besides [Blue Gems](Blue_Gem.md).
 -   [Deepscorn Casque](Deepscorn_Casque.md) can be used to reduce the self-[Wither](Status_Effects.md#wither) to 4.8%.
 
  |
@@ -207,7 +207,7 @@ Upon killing 3 players with [Oaths](Oaths.md)
 -   You do not need a wallbreak mantra to access to Entropy Catalyst (M1 also breaks the walls).
     -   You can also climb up the surrounding walls (often with clever Chime of Dwelling usage.)
 -   Back when Talent categories had unique lines, the category line for Linkstrider was "I create bonds between others."
--   [Scarlet Lotuses](Scarlet_Lotus.md) are soulbound; [Pristine Lotuses](Pristine_Lotus.md) are not.
+-   [Scarlet Lotuses](Pristine_Lotus.md) are soulbound; [Pristine Lotuses](Pristine_Lotus.md) are not.
 -   Anyone can use the white orb once it is spawned, regardless of who places them.
 -   If you have Pristine Lotuses and put a knocked player on the sacrifice ritual, you should get a Scarlet and a completed sacrifice crater.
 -   The obtainment method used to be much harder than now as the oath used to require to kill 4 players with oaths instead of 3 players with oaths/bosses.

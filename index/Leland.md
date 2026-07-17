@@ -28,7 +28,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Leland is a young [Etrean](Etrean.md) [NPC](NPC.md). Upon speaking to him, he asks you not to rat on him for "slacking off", saying that his teacher will remove his apprenticeship if he finds out.
+Leland is a young [Etrean](Etrean.md) NPC. Upon speaking to him, he asks you not to rat on him for "slacking off", saying that his teacher will remove his apprenticeship if he finds out.
 
 ## Location
 

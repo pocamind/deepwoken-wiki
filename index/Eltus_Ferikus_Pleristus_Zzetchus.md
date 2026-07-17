@@ -24,7 +24,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Eltus Ferikus Pleristus Zzetchus is a [Kyrsan](Kyrsan.md) [NPC](NPC.md). They guard the wind gate that leads to the entrance of the [Firfire Caverns](Firfire_Caverns.md) at [Firfire](Firfire.md), which they will unlock only after returning the Spear of Nakti to [Erosius Amaltus Urivortus Alistus Casius Walistoshus](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md).
+Eltus Ferikus Pleristus Zzetchus is a [Kyrsan](Kyrsgarde.md) NPC. They guard the wind gate that leads to the entrance of the [Firfire Caverns](Firfire_Caverns.md) at [Firfire](Firfire.md), which they will unlock only after returning the Spear of Nakti to [Erosius Amaltus Urivortus Alistus Casius Walistoshus](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md).
 
 ## Dialouge
 

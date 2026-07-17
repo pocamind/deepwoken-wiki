@@ -18,7 +18,7 @@ categories: [Enchantments, Equipment Enchantments]
 
 ## Description
 
-Stench is a damage-dealing equipment [enchantment](Enchantment.md) that creates a lingering damage cloud on proc.
+Stench is a damage-dealing equipment [enchantment](Enchantments.md) that creates a lingering damage cloud on proc.
 
 ## Effect
 

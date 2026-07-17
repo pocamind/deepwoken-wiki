@@ -26,9 +26,9 @@ categories: [Food]
 
 ## Description
 
-**Megurger** is a [Food](Food.md) item. It is exclusively purchased from [Lance Leshi](Lance_Leshi.md) for 15, and [The Meat Lord](The_Meat_Lord.md) for 2, sold at random.
+**Megurger** is a [Food](Food.md) item. It is exclusively purchased from [Lance Leshi](Lance.md) for 15, and [The Meat Lord](The_Meat_Lord.md) for 2, sold at random.
 
-It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Vegetarian.md) Flaw.
+It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
 
 ### Effect
 

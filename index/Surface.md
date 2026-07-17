@@ -14,7 +14,7 @@ Thus, this article focuses on that.
 
 ## Description
 
-**The Surface** is the half of [Lumen](Lumen.md), in which the player resides in-game, unless they are in [the Depths](The_Depths.md). The surface is made up of different [Luminants](Luminants.md) and the [Voidsea](Voidsea.md) which surrounds them.
+**The Surface** is the half of Lumen, in which the player resides in-game, unless they are in [the Depths](The_Depths.md). The surface is made up of different [Luminants](Luminants.md) and the [Voidsea](Voidsea.md) which surrounds them.
 
 [The Voidfog](Voidsea.md) surrounds the skies of the Surface, resembling the clouds. The [Suncross](Suncross.md) lights up the day, while the [Moonseye](Moonseye.md) and the other [Stars](Stars.md) of the [Nightsea](Nightsea.md) light up the night.[\[1\]](#cite-note-glossary0-1)
 

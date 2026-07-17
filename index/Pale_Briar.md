@@ -49,7 +49,7 @@ The user chants their weapon, summoning a shower of light that rapidly damages o
 
 The critical has a cooldown of **10 seconds** and deals around **2.3x** scaled damage if all ticks hit.
 
-This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

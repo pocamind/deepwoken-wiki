@@ -27,7 +27,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Flame Worshipper** is a playable [Memento](Memento.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. You also spawn with the [Simmerbloom Diadem](Simmerbloom_Diadem.md) and can equip the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) which you can find as a static spawn at [Miners Landing](<Miner's_Landing_(Vow_of_Iron).md>).
+**Flame Worshipper** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. You also spawn with the [Simmerbloom Diadem](Simmerbloom_Diadem.md) and can equip the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) which you can find as a static spawn at [Miners Landing](<Miner's_Landing_(Vow_of_Iron).md>).
 
 Following the teachings of [Amorus Pleeksty](Amorus_Pleeksty.md), the Flame Worshipper does what their order do best: set their surroundings ablaze. With their empowered Flamecharm Mantras, the ability to rise again should they fall, and flame spirits, they leave nothing behind.
 
@@ -123,7 +123,7 @@ N/A
 -   Has a windup of 0.7 seconds with 0.2 seconds of endlag, and a 16 second cooldown.
 -   Has 9.14x PvE scaling (multiply damage dealt by 9.14 for PvE damage).
 -   Inflicts Burn.
--   Can be modified with [Cloud](Cloudstone.md)/[Stratus Stones](Stratus_Stone.md) to increase size, every +1 in size makes it 10% bigger.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase size, every +1 in size makes it 10% bigger.
     -   Size modifications will lower the damage, however.
 -   Pressing F during the mantra's windup will release a wider but shorter flame.
 
@@ -240,21 +240,21 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 -   The synchronous strike occurs 2.2 seconds after the mantra is cast.
 -   Has 9.17x PvE scaling (multiply damage dealt by 9.17 for PvE damage).
 -   Inflicts Burn.
--   Can be modified with [Cloudstones](Cloudstone.md) and [Stratus Stones](Stratus_Stone.md) to add more warriors, capping at +9 Range.
--   Can be modified with a [Reversal Spark](Reversal_Spark.md) to have the warriors attack outwards and ragdoll.
+-   Can be modified with [Cloudstones](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to add more warriors, capping at +9 Range.
+-   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks) to have the warriors attack outwards and ragdoll.
 
  |
 
 ### Power 5
 
 -   Cauterized Wounds \[Common Talent\] **100** \- Blood loss from all sources is lowered. (+1 Passive Agility)
-    -   Despite what the description states, this Talent only affects blood loss from directly taking damage. Blood drain effects (e.g. casting or being hit by [Bloodrend](Bloodrend.md) Mantras, blood loss [Potions](Potions.md), the blood loss [Corrupt Resonance](Resonance.md) downside) are entirely unaffected by this Talent.
+    -   Despite what the description states, this Talent only affects blood loss from directly taking damage. Blood drain effects (e.g. casting or being hit by [Bloodrend](Bloodrend.md) Mantras, blood loss [Potions](Alchemy.md), the blood loss [Corrupt Resonance](Resonance.md) downside) are entirely unaffected by this Talent.
     -   Effectiveness of this Talent is reduced if you are using the [Curse of the No Life King](Curse_of_the_No_Life_King.md) enchantment.
 
 -   Flamewalker \[Common Talent\] **100** \- When Warding Radiance is active you leave trails of flame when you slide. (+1 Passive Agility)
 
 -   Unyielding Inferno \[Common Talent\] **100** \- Your flames burn just as strong even in the fiercest of storms.
-    -   Negates the innate 10% damage debuff Flamecharm Mantras receive during the [rain](Rain.md).
+    -   Negates the innate 10% damage debuff Flamecharm Mantras receive during the [rain](Environmental_Hazards.md).
     -   Prevents your burn from going out in rain.
 
 -   _Evasive Expert_ \[Rare Talent\] **250** \- Your speed boost granted from dodging is increased. (+1 Passive Agility)
@@ -344,9 +344,9 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Inflicts Burn.
 -   Breaks destructible objects on hit.
--   Can be modified with [Vibrant Gems](Vibrant_Gem.md), causing the attack to destroy more environment.
--   While having [Starkindred](Starkindred.md) wings activated, Fire Blade now launches the user upward before releasing a large plume of flames after a long windup.
-    -   A [Reversal Spark](Reversal_Spark.md) can be used to negate this variation, allowing you to use normal fire blade with wings.
+-   Can be modified with [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers), causing the attack to destroy more environment.
+-   While having [Starkindred](Oath%253A_Starkindred.md) wings activated, Fire Blade now launches the user upward before releasing a large plume of flames after a long windup.
+    -   A [Reversal Spark](Mantra_Modifiers.md#sparks) can be used to negate this variation, allowing you to use normal fire blade with wings.
 
  |
 | 
@@ -390,10 +390,10 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 -   Has 9.17x PvE scaling (multiply damage dealt by 9.17 for PvE damage).
 -   Flame Leap can proc **Meteor Impact**, even without hitting an opponent.
 -   Animation persists on feint.
--   Shares similar traits to the [Strong Leap](Strong_Leap.md) Mantra.
--   Significantly reduces in height as the player gets lower on health, similarly to the [Strong Leap](Strong_Leap.md) Mantra.
+-   Shares similar traits to the [Strong Leap](Attunement-less.md#strong-leap) Mantra.
+-   Significantly reduces in height as the player gets lower on health, similarly to the [Strong Leap](Attunement-less.md#strong-leap) Mantra.
 -   The Mantra will not deal damage if used in water.
--   Can be modified with a [Reversal Spark](Reversal_Spark.md), delivering an explosive front flip instead of a vertical leap.
+-   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks), delivering an explosive front flip instead of a vertical leap.
     -   This variant negates fall damage for a small duration. It can also be used in midair but expect fall damage upon use.
     -   This variant gets replaced with it's base variant when used in water.
 
@@ -409,7 +409,7 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
     -   You also apply burn on enemies by swinging uppercut nearby. Aka doesn't have to be a hit to apply burn.
 
 -   _Warding Radiance_ \[Rare Talent\] **250** \- Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active. (+1 Passive Agility)
-    -   Allows you to proc Hell's Partisan on Flamecharm Mantras that aren't [Fire Forge](Fire_Forge.md) while you have the halo active.
+    -   Allows you to proc Hell's Partisan on Flamecharm Mantras that aren't [Fire Forge](Flamecharm.md#fire-forge) while you have the halo active.
     -   This can be easily procced by landing a multi-hit fire mantra.
     -   Doesn't have a cooldown, lasts for 60s, cannot be refreshed.
 
@@ -532,8 +532,8 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 -   Has 9.17x PvE scaling (multiply damage dealt by 9.17 for PvE damage).
 -   Inflicts Burn and Ragdolls.
 -   Its distance is reduced by 60% when used in water.
--   Can be modified with [Crystal](Crystal_Lens.md)/[Perfect Lenses](Perfect_Lens.md) to cause the Mantra to fly farther (at the same pace).
--   Can be modified with [Glass](Glass_Stone.md)/[Magnifying Stones](Magnifying_Stone.md) to increase the hitbox size.
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to cause the Mantra to fly farther (at the same pace).
+-   Can be modified with [Glass](Mantra_Modifiers.md#regular-modifiers)/[Magnifying Stones](Mantra_Modifiers.md#regular-modifiers) to increase the hitbox size.
     -   This reduces the damage dealt however.
 
  |
@@ -543,14 +543,14 @@ Fire [ResistanceFlamecharm](Flamecharm.md)
 -   Azure Flames \[Common Talent\] **100** \- Many of your flames turn blue, signifying their increased intensity.
     -   Increases burn damage by 12.5%.
     -   Increases the radius and posture damage of your Eruptions.
-    -   Increases the uptime of your [Flame of Denial](Flame_of_Denial.md) by 25%, from 25 seconds to 31.25.
+    -   Increases the uptime of your [Flame of Denial](Flamecharm.md#flame-of-denial) by 25%, from 25 seconds to 31.25.
 
 -   Scorching Decay \[Common Talent\] **100** \- The wither dealt from your Emperor's Flame is massively increased.
     -   Increases the Wither application from your Emperor Flame from 25 to 75.
     -   NOTE: This Memento does **not** get the Emperor Flame Talent at any point, meaning the only way to proc this Talent is through using [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)'s critical attacks.
 
 -   _Denial Repulse_ \[Rare Talent\] **250** \- You now emit a delayed burst of flames after coming close to death.
-    -   When [Flame of Denial](Flame_of_Denial.md) activates, release an explosion around you.
+    -   When [Flame of Denial](Flamecharm.md#flame-of-denial) activates, release an explosion around you.
     -   This explosion deals 20 Flamecharm damage with 5 Flamecharm scaling, adding up to 30 Flamecharm damage at 100 Flamecharm.
     -   This cannot be parried nor dodged, but can be blocked, dealing 5 posture damage.
     -   This has a windup of 0.6 seconds.

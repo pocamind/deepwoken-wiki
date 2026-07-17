@@ -108,7 +108,7 @@ Dodge
 **Rotten Mudtoss**  
 (★☆☆)
 
- | Hurls a [Mudskipper](Mudskipper.md) or [Bloatskipper](Bloatskipper.md) at the opponent. If Mudskipper, it will act as a new summoned enemy. If Bloatskipper, it will explode upon impact.
+ | Hurls a [Mudskipper](Mudskipper.md) or [Bloatskipper](Mudskipper.md#bloatskipper) at the opponent. If Mudskipper, it will act as a new summoned enemy. If Bloatskipper, it will explode upon impact.
 
 -   ⚠︎ Unparryable
 -   ⛊ Blockable
@@ -123,7 +123,7 @@ Dodge
 **Call of the Horde**  
 (★☆☆)
 
- | Unleashes a blood-curdling screech that alerts any nearby mobs of your presence, as well as summoning two [Mudskippers](Mudskipper.md) that can be either a [Bloatskipper](Bloatskipper.md) or a [Miniskipper](Miniskipper.md). Two of the same Mudskipper type can spawn as well. Applies anti-heal and deals sanity damage. The scream can be blocked to avoid anti heal.
+ | Unleashes a blood-curdling screech that alerts any nearby mobs of your presence, as well as summoning two [Mudskippers](Mudskipper.md) that can be either a [Bloatskipper](Mudskipper.md#bloatskipper) or a [Miniskipper](Mudskipper.md). Two of the same Mudskipper type can spawn as well. Applies anti-heal and deals sanity damage. The scream can be blocked to avoid anti heal.
 
 -   ¤ Debuff
 -   \+ Summon
@@ -152,7 +152,7 @@ Dodge
     -   Don't spam _anything_. You need to preserve as much reaction time as possible.
 -   Be mindful of Broodrot Smash. This move allows the Broodlord to cover quite long distances with ease and catch up to you. Additionally, this move also allows them to easily board boats, especially larger ones.
 -   Being one of the most tanky and difficult mobs to fight in the game, they should be approached with extreme caution. Additionally, they can swim faster than you, so try to fight them on land where you have a speed advantage.
-    -   Cannons on [boats](Boats.md) are a good way to kill them when encountered at sea.
+    -   Cannons on [boats](Ships_&_Sailing.md) are a good way to kill them when encountered at sea.
 -   You _can_ use [Force Your Way](Talents.md#force-your-way) from [Ignition Deepdelver](Ignition_Deepdelver.md) or the [Ignition Gauntlets](Ignition_Gauntlets.md) to parry Broodrot Slam and/or Broodrot Thrust, but be advised that it is incredibly risky and requires noticeably precise timing to parry either attack.
 -   The Broodlord is deceptively fast, even without using Broodrot Smash, typically able to catch up to the average player, especially on low health. If you're being chased, try to get to higher ground, as Mudskipper Broodlords are, for the most part, incapable of getting to higher elevations. Although, be incredibly mindful of their ability to phase through walls and ceilings with Broodrot Smash.
 -   When escaping from a Mudskipper Broodlord, pay close attention to it's attack audio. Broodrot Smash will knock you down, stunning you, allowing it to potentially get another hit in, dealing high damage. Dodge immediately if you hear it charging up its slam.

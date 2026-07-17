@@ -1,12 +1,12 @@
 ---
-title: Surfaces
-revid: 110716
-source: https://deepwoken.fandom.com/wiki/Surfaces
+title: Terrains
+revid: 220396
+source: https://deepwoken.fandom.com/wiki/Terrains
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
 ---
 
-# Surfaces
+# Terrains
 
 ## Description
 
@@ -36,7 +36,7 @@ The bigger a part is, the more elemental intensity is required to break it. Some
 
 -   Glass
     -   Very, very sensitive and easy to break.
-    -   Any [Attunement](Attunement.md) can break this material
+    -   Any [Attunement](Attunements.md) can break this material
 
 -   Metal
     -   Very strong.

@@ -25,7 +25,7 @@ categories: [Outfits, Unique Outfits, Hallowtide, Outfits with Talents, Outfits 
 | selling_price | 10 |
 | weight | 1 |
 
-**Familiar Occultist's Armor** is a Unique [Outfit](Outfit.md) in _Deepwoken_.
+**Familiar Occultist's Armor** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
@@ -37,7 +37,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2000 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +25% Elemental resistance [ResistanceElemental](Attunement.md), +20% Shadow Armor, and +50% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Life Leech](Talents.md#life-leech) Talent.
+This Outfit has 2000 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +25% Elemental resistance [ResistanceElemental](Attunements.md), +20% Shadow Armor, and +50% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Life Leech](Talents.md#life-leech) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistanceBlunt ResistanceSlash, 40% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 
@@ -46,12 +46,12 @@ The [Life Leech](Talents.md#life-leech) Talent grants healing whenever your summ
 -   Eligible summons include:
     -   Monsters summoned from the [Parasol's Blight](<Parasol's_Blight.md>) enchantment
     -   Spiderlings summoned from [The Weaving Web](The_Weaving_Web.md)'s critical attack
-    -   [Visionshaper](Visionshaper.md) clones from [Illusory Servants](Illusory_Servants.md) and [Illusory Counter](Illusory_Counter.md)
-    -   [Lightning Clones](Lightning_Clones.md)
-    -   [Flame Sentinel](Flame_Sentinel.md)
+    -   [Visionshaper](Oath%253A_Visionshaper.md) clones from [Illusory Servants](Oath%253A_Visionshaper.md#illusory-servants) and [Illusory Counter](Oath%253A_Visionshaper.md#illusory-counter)
+    -   [Lightning Clones](Thundercall.md#lightning-clones)
+    -   [Flame Sentinel](Flamecharm.md#flame-sentinel)
 -   Ineligible summons include:
-    -   [Metal Turret](Metal_Turret.md)
-    -   [Visionshaper](Visionshaper.md) clones from [Mirror Illusion](Mirror_Illusion.md)
+    -   [Metal Turret](Ironsing.md#metal-turret)
+    -   [Visionshaper](Oath%253A_Visionshaper.md) clones from [Mirror Illusion](Oath%253A_Visionshaper.md#mirror-illusion)
     -   [You'll Need to Get Past Me](Talents.md#youll-need-to-get-past-me)
     -   [Wraith Path: Twisted Puppets](Talents.md#wraith-path-twisted-puppets)' puppets
     -   [Blacksteel Pirate](Blacksteel_Pirate.md) summoned from the Captain's Call talent on the Ossified Black Set.

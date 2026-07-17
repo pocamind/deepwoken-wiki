@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 
 ## Description
 
-Curse of the No Life King is a buffing curse [enchantment](Enchantment.md) that grants the user passive health regeneration and sanity drain on hit.
+Curse of the No Life King is a buffing curse [enchantment](Enchantments.md) that grants the user passive health regeneration and sanity drain on hit.
 
 ## Effect
 
@@ -30,7 +30,7 @@ Additionally, your basic attacks reduces your opponent's sanity by 2% with every
 
 ### Curse
 
-Your [Health State](Health_State.md) is set to [Cursed](Status_Effects.md#cursed) while a Curse of the No Life King enchanted weapon is equipped, "staining" your health bar, and making every death send you to [The Depths](The_Depths.md). Taking damage will extend this effect for 60 seconds, meaning your healthbar will remained stained for some time after weapon swapping. This may not be visually displayed as a stained healthbar due to a bug.
+Your [Health State](Status_Effects.md#health-states) is set to [Cursed](Status_Effects.md#cursed) while a Curse of the No Life King enchanted weapon is equipped, "staining" your health bar, and making every death send you to [The Depths](The_Depths.md). Taking damage will extend this effect for 60 seconds, meaning your healthbar will remained stained for some time after weapon swapping. This may not be visually displayed as a stained healthbar due to a bug.
 
 You take 2x blood damage from all damage sources while in the Overworld.
 
@@ -38,7 +38,7 @@ If you reach 0 Sanity while having a Curse of the No Life King weapon equipped, 
 
 The following effects have reduced effectiveness or are entirely disabled while this enchantment is equipped:
 
--   Healing [potions](Potions.md) heal you for less.
+-   Healing [potions](Alchemy.md) heal you for less.
 -   The [Viscosity](Viscosity.md) Enchantment and [Conditioned Runner](Talents.md#conditioned-runner) Talent are disabled.
 -   [Alloyblood](Talents.md#alloyblood) and [Cauterized Wounds](Talents.md#cauterized-wounds) are less effective.
 

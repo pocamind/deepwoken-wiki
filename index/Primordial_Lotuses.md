@@ -76,37 +76,37 @@ Two of the same Primordial Lotuses could be crafted together to create Attribute
 
 ## Hellfire Lotus
 
-[Hellfire Lotuses](Hellfire_Lotus.md) could be found at the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) and [Saramaed Summit](Saramaed_Summit.md).
+[Hellfire Lotuses](Primordial_Lotuses.md#hellfire-lotus) could be found at the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) and [Saramaed Summit](Saramaed_Summit.md).
 
 Two Hellfire Lotuses could be crafted together to make a [Strength Attribute Flask](Attribute_Flasks.md).
 
 ## Empyrean Lotus
 
-[Empyrean Lotuses](Empyrean_Lotus.md) could be found at the [Deep Thresher Nest](Deep_Thresher_Nest.md).
+[Empyrean Lotuses](Primordial_Lotuses.md#empyrean-lotus) could be found at the [Deep Thresher Nest](Deep_Thresher_Nest.md).
 
 Two Empyrean Lotuses could be crafted together to make a [Fortitude Attribute Flask](Attribute_Flasks.md).
 
 ## Zephyr Lotus
 
-[Zephyr Lotuses](Zephyr_Lotus.md) could be found at the [Ancient Rotlands](Ancient_Rotlands.md).
+[Zephyr Lotuses](Primordial_Lotuses.md#zephyr-lotus) could be found at the [Ancient Rotlands](Ancient_Rotlands.md).
 
 Two Zephyr Lotuses could be crafted together to make an [Agility Attribute Flask](Attribute_Flasks.md).
 
 ## Briliant Lotus
 
-[Brilliant Lotuses](Brilliant_Lotus.md) could be found at the [Saramaed Summit](Saramaed_Summit.md) and [Deep Thresher Nest](Deep_Thresher_Nest.md).
+[Brilliant Lotuses](Primordial_Lotuses.md#brilliant-lotus) could be found at the [Saramaed Summit](Saramaed_Summit.md) and [Deep Thresher Nest](Deep_Thresher_Nest.md).
 
 Two Brilliant Lotuses could be crafted together to make an [Intelligence Attribute Flask](Attribute_Flasks.md).
 
 ## Skyvalor Lotus
 
-[Skyvalor Lotuses](Skyvalor_Lotus.md) could be found at the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) and [Starfield Grove](Starfield_Grove.md).
+[Skyvalor Lotuses](Primordial_Lotuses.md#skyvalor-lotus) could be found at the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) and [Starfield Grove](Starfield_Grove.md).
 
 Two Skyvalor Lotuses could be crafted together to make a [Willpower Attribute Flask](Attribute_Flasks.md).
 
 ## Miasmic Lotus
 
-[Miasmic Lotuses](Miasmic_Lotus.md) could be found at the [Ancient Rotlands](Ancient_Rotlands.md).
+[Miasmic Lotuses](Primordial_Lotuses.md#miasmic-lotus) could be found at the [Ancient Rotlands](Ancient_Rotlands.md).
 
 Two Miasmic Lotuses could be crafted together to make a [Charisma Attribute Flask](Attribute_Flasks.md).
 

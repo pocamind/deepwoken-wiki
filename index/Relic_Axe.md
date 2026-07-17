@@ -37,7 +37,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Mu
 
 ## Description
 
-The Relic Axe is a [Heavy Weapon](Weapons.md) of legendary rarity that is obtainable as a rare direct drop from [Stone Knights](Stone_Knight.md) found in the [Starswept Valley](Starswept_Valley.md), [Saramaed Hollow](Saramaed_Hollow.md), or at any of the Star Trees respectively. It can also dropped by the [Blizzard variant](Blizzard_Knight.md) of Stone Knights found in the [The Valley of Heroes](The_Valley_of_Heroes.md).
+The Relic Axe is a [Heavy Weapon](Weapons.md) of legendary rarity that is obtainable as a rare direct drop from [Stone Knights](Stone_Knight.md) found in the [Starswept Valley](The_Starswept_Valley.md), [Saramaed Hollow](Saramaed_Hollow.md), or at any of the Star Trees respectively. It can also dropped by the [Blizzard variant](Stone_Knight.md#blizzard-knight) of Stone Knights found in the [The Valley of Heroes](The_Valley_of_Heroes.md).
 
 ## Critical
 

@@ -52,8 +52,8 @@ A screenshot of the Quiet Stranger NPC, found by Restative.
 
 Passing the Charisma Check, requiring 50 Charisma, of sitting Ministry NPC grants you the Murmur for free. (Note: The [Quiet Stranger](Quiet_Stranger.md) NPC is not a set NPC, he has a rare chance to spawn anywhere at Erisia.) Obtainment of the Murmur via this method is not recommended.
 
-#### Method Four - Obtain [Soulbreaker](Soulbreaker.md)
+#### Method Four - Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
 
-The [Soulbreaker](Soulbreaker.md) [Oath](Oath.md) will grant you Tacet instantly upon obtainment. However, you cannot use the Oath's variant of Tacet to obtain [Tacet Drop Kick](Tacet_Drop_Kick.md).
+The [Soulbreaker](Oath%253A_Soulbreaker.md) [Oath](Oaths.md) will grant you Tacet instantly upon obtainment. However, you cannot use the Oath's variant of Tacet to obtain [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick).
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/-nlSAteFox4)._

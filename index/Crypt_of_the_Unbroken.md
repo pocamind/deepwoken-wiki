@@ -26,7 +26,7 @@ The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minit
 
 -   On the 1st floor, there is a massive, library-like room with an Alpha Megalodaunt and four [Immortal Guardians](Immortal_Guardian.md) in it.
 -   On the 2nd floor, the [Shrine of Temptation](Deep_Shrines.md) can be found. For 5 knowledge, you may exchange one of your mantras for a hand of whispers.
-    -   An opening in the wall will lead to the [Glacial Remnant](Glacial_Remnant.md) with the [Frostdraw Obelisk](Frostdraw_Obelisk.md) inside, required for the [Saintsworn](Saintsworn.md#obtainment) obtainment.
+    -   An opening in the wall will lead to the [Glacial Remnant](Glacial_Remnant.md) with the [Frostdraw Obelisk](Frostdraw_Obelisk.md) inside, required for the [Saintsworn](Oath%253A_Saintsworn.md#obtainment) obtainment.
 -   The [Gran Sudaruska](Gran_Sudaruska.md) can be found in the chests dropped by the [Immortal Guardians](Immortal_Guardian.md) on the 1st floor. This is a very grindy way to obtain the weapon, but it is safer compared to [Layer 2](Second_Layer.md) which most people are scared of. This is also why people can be found here so often.
     -   Farming [Immortal Guardians](Immortal_Guardian.md) is also the only way to get the [Immortal Helm](Immortal_Helm.md), which is one of the reasons why people choose to go here.
 
@@ -47,12 +47,12 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia
 
--   The music for this area is [Of Labours, Veiled](Of_Labours,_Veiled.md) by Naktigonis
+-   The music for this area is [Of Labours, Veiled](Deepwoken_OST.md#of-labours-veiled) by Naktigonis
 -   The majority of images and information are taken from Xaslin's video ([https://youtu.be/NkEiMJmvimU](https://youtu.be/NkEiMJmvimU)).
 -   [Immortal Guardians](Immortal_Guardian.md) use the Divine Axe and Divine Greatsword from the [Crazy Slots](Crazy_Slots.md) resonance, but they can't use the special abilities
 -   Gripping an enemy will aggro a massive amount of the enemies in the dungeon nearby, even on the floor above, so if you can't autogrip or burn them, take enemies outside of the Crypt to grip them safely. (This still tends to aggro [Carbuncles](Carbuncle.md), but they are a minor threat.)
 -   Good place to farm books, the library has tons of bookshelves.
--   Characters with the Mute [Regalia](Regalias.md) are instead spared and insulted when knocked by [Immortal Guardians](Immortal_Guardian.md), similar to various town guards.
+-   Characters with the Mute [Regalia](Regalia.md) are instead spared and insulted when knocked by [Immortal Guardians](Immortal_Guardian.md), similar to various town guards.
 -   If you are inexperienced with farming this dungeon, you can simply lure the [Immortal Guardians](Immortal_Guardian.md) out of the dungeon to avoid going to The Depths because it is a Voidzone.
 -   Please note that the crypt entrance can be blocked and it cannot be broken, it will open after the server time has reached 15 minutes.
     -   If you however want to access the blocked entrance follow these steps:

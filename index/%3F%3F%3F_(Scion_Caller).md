@@ -18,7 +18,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-??? is an [NPC](NPC.md) used to summon the [Scion of Ethiron](Scion_of_Ethiron.md). It appears as a purple tempest holding the souls of the [Kyrsgarde](Kyrsgarde.md).
+??? is an NPC used to summon the [Scion of Ethiron](Scion_of_Ethiron.md). It appears as a purple tempest holding the souls of the [Kyrsgarde](Kyrsgarde.md).
 
 ## Dialogue
 

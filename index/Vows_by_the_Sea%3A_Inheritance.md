@@ -10,7 +10,7 @@ categories: [Books]
 
 ## Description
 
-_**Vows by the Sea: Inheritance**_ is a [Book](Book.md).
+_**Vows by the Sea: Inheritance**_ is a [Book](Books.md).
 
 ## Text
 

@@ -15,7 +15,7 @@ categories: [NPCs, NPCs located in the Eastern Luminant, Oath Trainer]
 
 ## Description
 
-The Flamecharm Obelisk is an [NPC](NPC.md) located in a small hidden cave with lava flowing out at [Saramaed Summit](Saramaed_Summit.md)'s highest area. It must be located and interacted with, along with [4 other element-based obelisks](Saintsworn_Obelisks.md), to obtain the [Saintsworn](Saintsworn.md) [Oath](Oath.md).
+The Flamecharm Obelisk is an NPC located in a small hidden cave with lava flowing out at [Saramaed Summit](Saramaed_Summit.md)'s highest area. It must be located and interacted with, along with [4 other element-based obelisks](Saintsworn_Obelisks.md), to obtain the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md).
 
 It can only be interacted with if you have at least 15 [Flamecharm](Flamecharm.md). When interacted with, [Jace](Jace.md), the Hero of Flame, will speak to the player.
 

@@ -15,7 +15,7 @@ categories: [Pathfinder Exclusive, Enemies]
 | weapon | Battleaxe, Sword |
 | moves | Assault, Critical, Ice Eruption |
 
-_Not to be confused with [Pathfinder](Pathfinder.md), a gamemode, or [Pathfinder](Pathfinders.md), a label given to those who explore and scavenge Lumen._
+_Not to be confused with [Pathfinder](Pathfinder.md), a gamemode, or [Pathfinder](Glossary.md#pathfinders), a label given to those who explore and scavenge Lumen._
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -29,7 +29,7 @@ A Pathfinder wears a [Pathfinder Cloak](Pathfinder_Cloak.md) with their [aspect]
 
 ## Moveset
 
-A Pathfinder's arsenal consists of a [Battleaxe](Battleaxe.md) or [Sword](Sword.md):
+A Pathfinder's arsenal consists of a [Battleaxe](Battleaxe.md) or [Sword](<Sword_(weapon).md>):
 
 | Name/Danger | Description |
 | --- | --- |
@@ -78,7 +78,7 @@ A Pathfinder executes the player after knocking them:
 | Name | Description |
 | --- | --- |
 | Execute | \[[Battleaxe](Battleaxe.md)\] Pins down the opponent before splitting their skull with their blade.
-\[[Sword](Sword.md)\] Pins down the opponent before slicing their throat with their blade.
+\[[Sword](<Sword_(weapon).md>)\] Pins down the opponent before slicing their throat with their blade.
 
  |
 

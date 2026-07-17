@@ -23,7 +23,7 @@ categories: [Treasures, Mantras, Deep Gems]
 
 ## Description
 
-The **Wind Gem** is a green diamond-shaped [Deep Gem](Deep_Gem.md).
+The **Wind Gem** is a green diamond-shaped [Deep Gem](Deep_Gems.md).
 
 ## Effect
 
@@ -33,7 +33,7 @@ Upon landing a Mantra with a Wind Gem equipped, gain a +40% [speed boost](Status
 
 -   This Gem is best used on easy-to-hit Mantras with low cooldowns.
 -   If you have the Brain [Food Buff](Status_Effects.md#food-buff) from the [Grilled Parasol Brain](Grilled_Parasol_Brain.md), Wind Gem's speed boost duration will be increased from 10 seconds to 15.
--   If you are wearing the [Blademaster's Robe](<Blademaster's_Robe.md>), your Wind Gem duration will be increased by 2 seconds; from 10 seconds to 12. Additionally, your light attacks and Criticals with the [M1 tag](M1_tag.md) will gain +10% Posture damage during the Wind Gem speed boost.
+-   If you are wearing the [Blademaster's Robe](<Blademaster's_Robe.md>), your Wind Gem duration will be increased by 2 seconds; from 10 seconds to 12. Additionally, your light attacks and Criticals with the M1 tag will gain +10% Posture damage during the Wind Gem speed boost.
 -   Wind Gem's cooldown is **equal to** its duration, meaning that you cannot reapply its effect while it is active, even if you are using either of the above effects.
 -   There are several [Talents](Talents.md) that grant bonuses when you have an active speed boost, making this Gem a great applicator for them.
 

@@ -162,7 +162,7 @@ Dodge
 
 While this mob has the health equivalent to a [Megalodaunt](Megalodaunt.md), making it the weakest of the endgame tier mobs, it's unique in the fact that it has a much smarter AI along with the ability to **Block**, **Parry**, and **Dodge**.
 
-While this mob **cannot** be power checked, most strategies that work on [The Enforcer](The_Enforcer.md) will also work on the Nautilodaunt, aside from its much higher damage. Even with its near immunity to [Mantras](Attunement.md), it can still be posture broken quickly and easily with mantras such as [Tornado](Galebreathe.md) or [Caltrops](Ironsing.md).
+While this mob **cannot** be power checked, most strategies that work on [The Enforcer](Enforcer.md) will also work on the Nautilodaunt, aside from its much higher damage. Even with its near immunity to [Mantras](Attunements.md), it can still be posture broken quickly and easily with mantras such as [Tornado](Galebreathe.md) or [Caltrops](Ironsing.md).
 
 Keep in mind that standard humanoid boss PVE tactics such as stacking attacks, grouping up, and running to heal can still work against this mob, and that due to its incredibly low health of 1000 (which can reach numbers as small as 200 with PvE Scaling), it will die incredibly fast. It also cannot reliably parry Critical Attacks if a feint is used beforehand, making instant guardbreaks such as the [Pernach](Pernach.md) and a majority of [Heavy Weapons](Weapons.md) turn this mob into a far easier challenge. With such a weapon, simply block 2 or 3 attacks, then feint-critical to blockbreak him. Do this until he dies. This is still a very risky strategy, especially if you run out of posture to block with. Keep in mind that using the One-Handed stance with a [heavy Weapon](Weapons.md) makes you deal less posture damage, allowing the Nautilodaunt to safely block one Critical swing, so be sure to swap back to the Two-handed stance if you encounter one.
 
@@ -183,7 +183,7 @@ On a final note, you **cannot** sneak attack the Nautilodaunt while it is burrow
 
 -   The Nautilodaunt cannot vent in [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 -   The Nautilodaunt is likely inspired by the Mind Flayers from _Dungeons & Dragons_, which similarly implant parasites into humans. [Dagon](https://jujutsu-kaisen.fandom.com/wiki/Dagon) from _[Jujutsu Kaisen](https://jujutsu-kaisen.fandom.com/wiki/Jujutsu_Kaisen)_ also bears similarity to the Nautilodaunt in terms of appearance.
--   The Nautilodaunt is one of two monsters that can be both guard broken and posture stunned, the other being [The Enforcer](The_Enforcer.md).
+-   The Nautilodaunt is one of two monsters that can be both guard broken and posture stunned, the other being [The Enforcer](Enforcer.md).
 -   When it isn't in combat, it will automatically begin healing, going from 250 to full health within a matter of seconds.
 -   It spawns roughly every 18 minutes.
 -   [Mortus](Mortus.md) mentions his wife was killed when they fished up an octopus. Since no octopuses are present in Deepwoken, he may have been referring to a Nautilodaunt. He also says that he no longer fishes up octopuses, indicating that there won't be a Nautilodaunt bait in the game anytime soon.

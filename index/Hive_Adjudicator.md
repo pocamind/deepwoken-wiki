@@ -22,19 +22,19 @@ categories: [Outfits, The Hive, Outfits with Talents, "Outfits with Non-exclusiv
 | selling_price | 10 |
 | weight | 1 |
 
-**Hive Adjudicator** is a Unique [Outfit](Outfit.md) in _Deepwoken_.
+**Hive Adjudicator** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 30 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Iron](Iron.md) to craft.
+This Outfit costs 30 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Iron](Ores.md#iron) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash and +25% Elemental resistance [ResistanceElemental](Attunement.md). Additionally it provides the [Lowstride](Talents.md#lowstride) Talent.
+This Outfit has 1000 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash and +25% Elemental resistance [ResistanceElemental](Attunements.md). Additionally it provides the [Lowstride](Talents.md#lowstride) Talent.
 
 The [Lowstride](Talents.md#lowstride) Talent increases your [Stealth](Stealth.md) and movement speed while crouching. Additionally, this removes the sound that sheathing and unsheathing your weapon makes.
 

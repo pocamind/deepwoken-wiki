@@ -31,7 +31,7 @@ Captain Orlandeau (more stylized as Cap'n Orlandeau) is a [Felinor](Felinor.md) 
 
 He initially first appears in the [tutorial](Tutorial.md) for the game, which can be accessed via the Main Menu.
 
-After the events of the tutorial, he navigated The Depths, finding his way to [Castle Light](Castle_Light.md), leaving him as the sole survivor among the crew of the Scoundrel's Bounty. After having an argument with [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md), she damned him to the [City of New Kyrsa](New_Kyrsa,_The_Sleeping_City.md) in the [Second Layer](Second_Layer.md). Believing this may be his final plunder, he explores the sleeping city in search of wealth, fame, and power.
+After the events of the tutorial, he navigated The Depths, finding his way to [Castle Light](Castle_Light.md), leaving him as the sole survivor among the crew of the Scoundrel's Bounty. After having an argument with [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md), she damned him to the [City of New Kyrsa](Second_Layer/New_Kyrsa.md) in the [Second Layer](Second_Layer.md). Believing this may be his final plunder, he explores the sleeping city in search of wealth, fame, and power.
 
 The player can run into him in New Kyrsa atop of one of the balconies near the middle of the city with his dialogue changing depending on if you did the tutorial or not.
 

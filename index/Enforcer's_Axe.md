@@ -36,7 +36,7 @@ categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Crit
 
 ## Description
 
-The Enforcer's Axe is a [Heavy Weapon](Weapons.md) that is obtainable by defeating [The Enforcer](The_Enforcer.md) in [The Depths](The_Depths.md) or in the [Trial of One](Trial_of_One.md). It has 26 base damage, a Swing Speed of 0.76x, and 10% armor penetration.
+The Enforcer's Axe is a [Heavy Weapon](Weapons.md) that is obtainable by defeating [The Enforcer](Enforcer.md) in [The Depths](The_Depths.md) or in the [Trial of One](Trial_of_One.md). It has 26 base damage, a Swing Speed of 0.76x, and 10% armor penetration.
 
 ## Critical
 
@@ -46,7 +46,7 @@ All four hits have a scaled damage multiplier of 0.5x. The first hit of this cri
 
 The critical has a cooldown of **7 seconds.**
 
-This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects. This critical is also shared with [Enforcer's Hammer](<Enforcer's_Hammer.md>), as well as the [Enforcer's Blade](<Enforcer's_Blade.md>).
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects. This critical is also shared with [Enforcer's Hammer](<Enforcer's_Hammer.md>), as well as the [Enforcer's Blade](<Enforcer's_Blade.md>).
 
 ## Trivia
 
