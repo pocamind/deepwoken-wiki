@@ -1,6 +1,6 @@
 ---
 title: The Weaving Web
-revid: 208732
+revid: 220405
 source: https://deepwoken.fandom.com/wiki/The_Weaving_Web
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons with Unique Animations, "Core-Attribute based weapons", Event Item, Hallowtide, Medium Weapons]
@@ -62,4 +62,4 @@ The critical has a cooldown of **45 seconds.**
 ## Trivia
 
 -   The weapon uses the [Skyreap Blade](Skyreap_Blade.md) M1 animations when two-handed and the [Imperial Staff](Imperial_Staff.md) animations when one-handed.
--   This is the second spear to deal blunt damage.
+-   This is technically the second spear to deal blunt damage.
