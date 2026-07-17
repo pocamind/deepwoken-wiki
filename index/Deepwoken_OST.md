@@ -1,6 +1,6 @@
 ---
 title: Deepwoken OST
-revid: 219458
+revid: 220334
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OST
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, In progress with reason, InProgressPages, Deepwoken]
@@ -159,9 +159,14 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | N/A | [Ash For The Altar](https://soundcloud.com/naktigonis/ash-for-the-altar) | 0:56 | Flamecharm Showcase Theme |  |
 | N/A | [To Sleep, Layer 2 Bell](https://www.youtube.com/watch?v=OccD-F1UNvE) | 1:45 | [April Fools 2023](Destroyman_III.md) [Title Screen](Loading_Screen.md) |  |
 
+## Trivia
+
+-   Blackdamp Ballad took inspiration from the [Dwarf Fortress](https://en.wikipedia.org/wiki/Dwarf_Fortress) OST.[\[5\]](#cite-note-5)
+
 ## References
 
 1.  ↑ [1.0](#cite-ref-naktimessage-1-0) [1.1](#cite-ref-naktimessage-1-1) [1.2](#cite-ref-naktimessage-1-2) [1.3](#cite-ref-naktimessage-1-3) [1.4](#cite-ref-naktimessage-1-4)
 2.  ↑ [2.0](#cite-ref-naktimessage2-2-0) [2.1](#cite-ref-naktimessage2-2-1) [2.2](#cite-ref-naktimessage2-2-2) [2.3](#cite-ref-naktimessage2-2-3)
 3.  [↑](#cite-ref-naktimessage3-3-0)
 4.  [↑](#cite-ref-4)
+5.  [↑](#cite-ref-5)

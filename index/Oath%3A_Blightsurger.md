@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 219966
+revid: 220364
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -289,7 +289,6 @@ TBA
 -   Has a base damage of 20 per hit (2) with 1.65 Strength scaling.
 -   Knocks the opponent back on the second hit, despite what is shown in the gif below.
 -   Teleports to opponents within range.
--   This attack is counted as a weapon critical for Talent effects.
 -   Applies [Blightshock](Status_Effects.md#blightshock) on hit.
 
  |
