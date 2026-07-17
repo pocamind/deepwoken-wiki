@@ -16,7 +16,7 @@ This content is not accessible outside of this gamemode.
 > 
 > ― Origin Description
 
-_Deepbound_ is a [Depths](The_Depths.md)\-focused [Origin](Origin.md), granting unique bonuses and progression methods for Depths content. As such, this Origin has garnered the reputation of being a 'PvE Origin'.
+_Deepbound_ is a [Depths](The_Depths.md)\-focused [Origin](Origins.md), granting unique bonuses and progression methods for Depths content. As such, this Origin has garnered the reputation of being a 'PvE Origin'.
 
 ## Description
 
@@ -24,11 +24,11 @@ Deepbounds all seem to be [Apprentice Divers](Apprentice_Diver.md) due to them s
 
 ## Obtainment
 
-To obtain the Deepbound [Origin](Origin.md), the player must do the following:
+To obtain the Deepbound [Origin](Origins.md), the player must do the following:
 
 1.  Encounter [Akira](Akira.md) in the [Celtor Wastes](Celtor_Wastes.md) and inquire to him about joining [The Divers](The_Divers.md).
 2.  Reunite with him in [Castle Light](Castle_Light.md) to obtain the Origin.
-    -   Note that you do not have to accept the prompt to join The Diver's [Guild](Guild.md) to obtain this Origin.
+    -   Note that you do not have to accept the prompt to join The Diver's [Guild](Guilds.md) to obtain this Origin.
 
 Warning: Do not attempt the Charisma check with Akira in the Celtor Wastes. If you do not have 75 or higher Charisma for the Charisma check, you will be killed and you will wipe. If you pass the Charisma check, you will not be able to obtain this Origin or [Unbound Willpower](Attributes_Unbound.md) until you get another chance to redo the event by rejoining.
 
@@ -68,24 +68,24 @@ When used in the overworld, the player will delve into the [First Layer](First_L
 -   Call of the Deep is incredibly useful as a potential time saver.
 -   Sanity maintenance is incredibly easy, allowing you to stay in the Depths for extended periods of time.
 -   Castle Light becomes a sanctuary within the Depths, having nearly all amenities a town needs and always being available to you.
-    -   [Chariot's Spire](<Chariot's_Spire.md>) can also be entered if you've drowned as a Deepbound.
+    -   [Chariot's Spire](<The_Chariot's_Spire.md>) can also be entered if you've drowned as a Deepbound.
 -   You gain access to the [Temple of Hearts](Temple_of_Hearts.md) without a Resonance.
 
 ### Cons
 
 -   You gain reduced experience while outside of the Depths.
 -   Your [Depths Trial](Cathedral_of_the_Interstice.md) will always be an [Enforcer](Enforcer.md), though this is only really a con for lower levels.
--   You cannot do [Trial of One](Trial_of_One.md), even if you escape the Depths at Power 1, though the [Diluvian Mechanism](Diluvian_Mechanism.md) may be a good alternative.
+-   You cannot do [Trial of One](Trial_of_One.md), even if you escape the Depths at Power 1, though the [Diluvian Mechanism](The_Diluvian_Mechanism.md) may be a good alternative.
 -   Deepbound, at least in its progression, is very Depths centered, significantly raising the stakes, as a singular death will lead to you wiping.
 
 ## Reputation
 
 Your starting faction [reputation](Reputation.md) is:
 
--   **Friend** of [The Divers](The_Divers.md) [Diversiconfaction](Divers.md) and [Lost Celtor](Lost_Celtor.md)
--   **Enemy** of [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](Knives_of_Eylis.md), [The Ministry](The_Ministry.md) [Ministryiconfaction](Ministry.md), and [The Hundred Legions](The_Hundred_Legions.md)
--   **Neutral** with all other factions [Authorityiconfaction](Central_Authority.md) [Navaeiconfaction](Children_of_Navae.md) [Summericonfaction](The_Summer_Company.md) [Hiveiconfaction](Hive.md) [Etreaiconfaction](Etrea.md) [Etrean Royalistsiconfaction](Etrean_Royalists.md)
--   _Note: Your chosen [Aspect](Aspect.md) may affect your starting reputation._
+-   **Friend** of [The Divers](The_Divers.md) [Diversiconfaction](The_Divers.md) and [Lost Celtor](Lost_Celtor.md)
+-   **Enemy** of [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md), [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md), and [The Hundred Legions](The_Hundred_Legions.md)
+-   **Neutral** with all other factions [Authorityiconfaction](The_Central_Authority.md) [Navaeiconfaction](The_Children_of_Navae.md) [Summericonfaction](The_Summer_Company.md) [Hiveiconfaction](The_Hive.md) [Etreaiconfaction](Etrea.md) [Etrean Royalistsiconfaction](Etrean_Royalists.md)
+-   _Note: Your chosen [Aspect](Aspects.md) may affect your starting reputation._
 
 ## Trivia
 

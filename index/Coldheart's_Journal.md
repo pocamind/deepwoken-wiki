@@ -10,7 +10,7 @@ categories: [Books]
 
 ## Description
 
-_**Coldheart's Journal**_ is a [Book](Book.md) found in [The Cold Forge](The_Cold_Forge.md).
+_**Coldheart's Journal**_ is a [Book](Books.md) found in [The Cold Forge](The_Cold_Forge.md).
 
 ## Text
 

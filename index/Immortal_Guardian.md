@@ -33,7 +33,7 @@ Nightmare Immortal Guardians spawn in groups in the upper floor's halls or somet
 
 ## Moves
 
-An Immortal Guardian's arsenal consists of a [Soulwrought Greatsword](Soulwrought_Greatsword.md) or a [Soulwrought Axe](Soulwrought_Axe.md).
+An Immortal Guardian's arsenal consists of a [Soulwrought Greatsword](Crazy_Slots.md#weapons) or a [Soulwrought Axe](Crazy_Slots.md#weapons).
 
 | Name/Danger | Description | GIF |
 | --- | --- | --- |
@@ -94,7 +94,7 @@ An Immortal Guardian executes the player after knocking them.
 -   Removing their armor reveals them to be [Etreans](Etrean.md) sporting the [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md). This was likely done simply because they look visually appealing when combined with the armor, rather than as anything lore significant.
     -   The regular Guardians are the File Etrean variant while the Nightmare Guardians are File Etreans with a slightly darker skin tone, reinforcing that there is no real significance to them being Etrean.
 -   Their helmet is a reference to that of [Bondrewd’s](https://madeinabyss.fandom.com/wiki/Bondrewd) from the anime and manga franchise, _Made in Abyss_.
--   They speak in all capital letters, much like the [Golem Constructs](Golem_Constructs.md).
+-   They speak in all capital letters, much like the [Golem Constructs](Hive_Construct.md).
     -   The only exception to this are pieces of stock dialogue used by other generic NPCs.
 -   According to TheRealPunchee, the armor that Immortal Guardians wear was actually the original design of the Arc Suit for the [Arcwarder](Oath%253A_Arcwarder.md) [Oath](Oaths.md), created before the sketches for the current Arc Suit were even a thing.
     -   The "Crypt Arcwarder" as it's called in the video was ultimately scrapped due to not fitting the current artstyle of Deepwoken.

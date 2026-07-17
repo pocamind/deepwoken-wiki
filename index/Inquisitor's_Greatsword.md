@@ -45,14 +45,14 @@ The Inquisitor's Greatsword is a [Greatsword](Weapons.md) with a black handle an
 
 Equipping the Inquisitor's Greatsword grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Sovereign's Counter** increases the effectiveness of all non-Oath counter Mantras. [Punishment](Punishment.md) gains additional buff when the [Authority Commander](Authority_Commander.md) Outfit is worn.
+**Sovereign's Counter** increases the effectiveness of all non-Oath counter Mantras. [Punishment](Attunement-less.md#punishment) gains additional buff when the [Authority Commander](Authority_Commander.md) Outfit is worn.
 
--   [Punishment](Punishment.md) has its **reflected** damage output increased by **12.5%**, meaning at level 5 you can reflect 112.5% of someone's damage on top of the Mantra's 30 base damage at level 5. The base damage of this Mantra is unaffected by this Talent.
+-   [Punishment](Attunement-less.md#punishment) has its **reflected** damage output increased by **12.5%**, meaning at level 5 you can reflect 112.5% of someone's damage on top of the Mantra's 30 base damage at level 5. The base damage of this Mantra is unaffected by this Talent.
     -   If you are wearing the [Authority Commander](Authority_Commander.md) Outfit, the longevity of the attack window on your punishment is increased by **3x**; from 20 seconds to a full minute.
--   [Prediction](Prediction.md)'s active frames are increased slightly.
+-   [Prediction](Attunement-less.md#prediction)'s active frames are increased slightly.
 -   [Curse of the Unbidden](Curse_of_the_Unbidden.md) has its posture restoration increased by **10%**, restoring 40% of your posture on successful counter instead of the usual 30%.
 -   [Payback](Payback.md), the Resonance, has its active counter frames increased by **0.7** seconds.
--   As mentioned previously, [Illusory Counter](Illusory_Counter.md) and [Equalizer](Equalizer.md) **do not** have any affect with this Talent.
+-   As mentioned previously, [Illusory Counter](Oath%253A_Visionshaper.md#illusory-counter) and [Equalizer](Oath%253A_Contractor.md#equalizer) **do not** have any affect with this Talent.
 
 ## Critical
 

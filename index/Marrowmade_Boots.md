@@ -26,7 +26,7 @@ categories: [Equipment, Legs, Boots, Equipment with Talents, Equipment with Excl
 
 ## Description
 
-The **Marrowmade Boots** are an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Legs" category. They are boots seemed to be made from the foot and head of a [Bonekeeper](Bonekeeper.md).
+The **Marrowmade Boots** are an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Legs" category. They are boots seemed to be made from the foot and head of a [Bonekeeper](Bone_Keeper.md).
 
 The [Surestep](Talents.md#surestep) Talent makes you immune to the ragdoll and flinging effect of the winds of the Second Layer. You are still affected by the harsh winds' movement debuffs.
 
@@ -37,7 +37,7 @@ The [Osseous Surge](Talents.md#osseous-surge) effect can be proc'ed via the mant
 ## Trivia
 
 -   The damage increases by 50% going from 30 to 45 with the [Bone Ring](Bone_Ring.md).
--   It's previous description read: "Boots crafted from what seems to be the foot and head of the [Bonekeeper](Bonekeeper.md).
+-   It's previous description read: "Boots crafted from what seems to be the foot and head of the [Bonekeeper](Bone_Keeper.md).
 
 ## Navigation
 

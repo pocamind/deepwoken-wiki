@@ -27,7 +27,7 @@ categories: [Exclusive, Unique Outfits, Exclusive Outfits]
 
 ## Description
 
-The Prototype Black Diver is a dev-spec [Outfit](Outfits.md) that was created for Doc, who [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) was based off of. It is an early version of the [Black Diver](Black_Diver.md) [Outfit](Outfit.md). It is not obtainable.
+The Prototype Black Diver is a dev-spec [Outfit](Outfits.md) that was created for Doc, who [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) was based off of. It is an early version of the [Black Diver](Black_Diver.md) [Outfit](Outfits.md). It is not obtainable.
 
 It grants a very impressive 80% physical resistance, 80% Ice Armor, and 80% Metal Armor, along with 60% Elemental Armor.
 

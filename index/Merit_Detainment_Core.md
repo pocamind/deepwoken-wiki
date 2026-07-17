@@ -20,7 +20,7 @@ Deep below the fortress, all that the Authority wishes to extinguish are buried.
 
 ## Overview
 
-The **Merit Detainment Core** is a [location](Locations.md) in _Deepwoken_. It is a complex prison below [Fort Merit](Fort_Merit.md) that you can enter without any requirements. It's controlled by [The Central Authority](The_Central_Authority.md), containing only the most dangerous people.
+The **Merit Detainment Core** is a location in _Deepwoken_. It is a complex prison below [Fort Merit](Fort_Merit.md) that you can enter without any requirements. It's controlled by [The Central Authority](The_Central_Authority.md), containing only the most dangerous people.
 
 This dungeon is recommended for a party of people preferably [Power](Power.md) 20.
 
@@ -28,14 +28,14 @@ This dungeon is recommended for a party of people preferably [Power](Power.md) 2
 
 Upon entering the dungeon, the player must defeat numerous Authority related enemies riddled throughout the entire prison. Three keys are able to be dropped: Override, Release, and Master. Using the Override or Master key will disable the laser defense system in the right corridor. Using the Release or Master key is needed to reach the control room and to open the prisoner cells. Released prisoners will become hostile.
 
-To speak with [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md), you must release him and have the [Legion Intelligence](Legion_Intelligence.md) from [Caitus](Caitus.md) at the [Viper's Jaw](<Viper's_Jaw.md>) camp.
+To speak with [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md), you must release him and have the [Legion Intelligence](Legion_Intelligence.md) from [Caitus](Caitus.md) at the [Viper's Jaw](<The_Viper's_Jaw.md>) camp.
 
 ## Points of Interest
 
 ### Cell Block
 
 -   A large cell block filled with Authority guards is the first room the player will encounter.
--   These cells hold [Prisoners](Prisoner.md) and a [Friendly Prisoner](Friendly_Prisoner.md), including [Titus](Titus.md), who is contained in a larger cell than the rest.
+-   These cells hold [Prisoners](Prisoner.md) and a [Friendly Prisoner](Friendly_Prisoner.md), including [Titus](Titus_Fulminus_Destellus.md), who is contained in a larger cell than the rest.
 -   A ventilation shaft is located on the top floor of the cell block, which can be broken to enter the library.
 
 ### Library
@@ -135,7 +135,7 @@ When deactivating any of the systems with the corresponding keys, the messages f
 ## Trivia
 
 -   After disabling the security system, taunt (spit) is replaced with a cannon whistle used by the Authority guards. This allows the player to utilize the artillery to shoot cannonballs at their cursors.
--   After defeating [Titus](Titus.md), a special crafting bench can be accessed to create exclusive items such as the [Specialist Plate](Specialist_Plate.md) and [Reinforced War Helmet](Reinforced_War_Helmet.md).
+-   After defeating [Titus](Titus_Fulminus_Destellus.md), a special crafting bench can be accessed to create exclusive items such as the [Specialist Plate](Specialist_Plate.md) and [Reinforced War Helmet](Reinforced_War_Helmet.md).
 -   You can search the bookshelves in the 2nd room after breaking the bars. A great way to grind lore and song books.
 -   Fishing in dungeon gives you normal Eastern loot.
 -   The merit detainment core (and the Central Authority as a whole) may be somewhat inspired by the Star Wars franchise, given the similarity with the helmets, and the cell control room.

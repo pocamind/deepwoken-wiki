@@ -40,7 +40,7 @@ Here are estimated chances for each shroom variant, after finding 100 shroom cos
 ## Trivia
 
 -   You cannot obtain the special variants through the 23 Medal Shop.
--   This was released during [Hallowtide](<Hallowtide_(Event).md>) 2023 as a head equipment
+-   This was released during [Hallowtide](Hallowtide.md) 2023 as a head equipment
 -   This item costs 100 Joy in the Hallowtide Shop, but can be alternatively obtained through the Trial of Gourdskipper, which is much more preferable option.
 -   The Costumes are based on the [Scroom](https://rogue-lineage.fandom.com/wiki/Scroom) race from Rogue Lineage.
 -   The Glowshroom & Metalshroom variants are slightly more rarer than the normal Mushroom variant. Zapshroom seems to be the rarest variant, with the Charmshroom being the 2nd rarest.

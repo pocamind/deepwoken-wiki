@@ -18,7 +18,7 @@ A bustling hub of trade and entertainment situated on the margins of Fort Merit.
 
   
 
-**Port Merit** is a sub-location in _Deepwoken_. It is landmark on [Aratel Island](Aratel_Island.md) found in the [Aratel Sea](Aratel_Sea.md).
+**Port Merit** is a sub-location in _Deepwoken_. It is landmark on [Aratel Island](Aratel_Island.md) found in the [Aratel Sea](The_Aratel_Sea.md).
 
 ## Overview
 

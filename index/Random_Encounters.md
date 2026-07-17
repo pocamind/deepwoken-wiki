@@ -21,7 +21,7 @@ A King Thresher, Hive Construct, and an Authority Captain fighting each other at
 
 ## AI-Driven Encounters
 
-These events occur randomly in the world or within a [location](Locations.md).
+These events occur randomly in the world or within a location.
 
 ### Etrean Luminant
 
@@ -31,10 +31,10 @@ These events occur randomly in the world or within a [location](Locations.md).
 
 Groups of NPCs from different factions will spawn in Etrean Luminant and attack each other. Helping a side will usually reward you with their respective reputation.
 
--   [Vigil Swordsmen](Vigil_Swordsman.md) [Etreaiconfaction](Etrea.md) vs [Authority Officers](Authority_Officer.md) [Authorityiconfaction](Central_Authority.md) ([Erisia](Erisia.md)) Named "The Eastern Conflict"
--   [Etrean Soldiers](Etrean_Soldier.md) [Etreaiconfaction](Etrea.md) vs [Authority Officers](Authority_Officer.md) [Authorityiconfaction](Central_Authority.md) ([Upper Erisia](Upper_Erisia.md)) Named "The Eastern Conflict"
--   [Legion Soldiers](Legion_Soldier.md) vs [Authority Officers](Authority_Officer.md) [Authorityiconfaction](Central_Authority.md) ([Upper Erisia](Upper_Erisia.md)) Named "Clash of Empires"
--   [Legion Captain](Legion_Captain.md) + [Legion Soldier](Legion_Soldier.md) vs [Authority Officers](Authority_Officer.md) [Authorityiconfaction](Central_Authority.md) ([The Vipers Jaw](<The_Viper's_Jaw.md>)/[Upper Erisia](Upper_Erisia.md)) Named "Clash of Empires"
+-   [Vigil Swordsmen](Vigil_Swordsman.md) [Etreaiconfaction](Etrea.md) vs [Authority Officers](Authority_Officer.md) [Authorityiconfaction](The_Central_Authority.md) ([Erisia](Erisia.md)) Named "The Eastern Conflict"
+-   [Etrean Soldiers](Etrean_Soldier.md) [Etreaiconfaction](Etrea.md) vs [Authority Officers](Authority_Officer.md) [Authorityiconfaction](The_Central_Authority.md) ([Upper Erisia](Upper_Erisia.md)) Named "The Eastern Conflict"
+-   [Legion Soldiers](Legion_Soldier.md) vs [Authority Officers](Authority_Officer.md) [Authorityiconfaction](The_Central_Authority.md) ([Upper Erisia](Upper_Erisia.md)) Named "Clash of Empires"
+-   [Legion Captain](Legion_Captain.md) + [Legion Soldier](Legion_Soldier.md) vs [Authority Officers](Authority_Officer.md) [Authorityiconfaction](The_Central_Authority.md) ([The Vipers Jaw](<The_Viper's_Jaw.md>)/[Upper Erisia](Upper_Erisia.md)) Named "Clash of Empires"
 
 A Bandit Camp in Erisia
 
@@ -54,9 +54,9 @@ A group of three [thieves](Thief.md), recognizable by their black armor and the 
 
 #### Knife to Antler
 
-Three to four [Knives of Eylis](Knife_of_Eylis.md) [Knives of Eylis](Knives_of_Eylis.md) hired by the Authority are escorting a captured a [Navean Nomad Hostage](Navaen_Hostage.md) [Navaeiconfaction](Children_of_Navae.md). They wield [Whaling Knives](Whaling_Knife.md) and the [leader](Subtle_Knife_of_Eylis.md) of the group has the ability to create an expanding bubble which slows time inside it. Defeating them will reward you with a chest and EXP, but killing them also gives negative [Reputations](Reputation.md) in [Knives of Eylis](The_Knives_of_Eylis.md). Occurs at [Upper Erisia](Upper_Erisia.md). Occasionally the captain may spawn on his own and without a hostage, only around the Bandit Village.
+Three to four [Knives of Eylis](Knife_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md) hired by the Authority are escorting a captured a [Navean Nomad Hostage](Navaen_Hostage.md) [Navaeiconfaction](The_Children_of_Navae.md). They wield [Whaling Knives](Whaling_Knife.md) and the [leader](Subtle_Knife_of_Eylis.md) of the group has the ability to create an expanding bubble which slows time inside it. Defeating them will reward you with a chest and EXP, but killing them also gives negative [Reputations](Reputation.md) in [Knives of Eylis](The_Knives_of_Eylis.md). Occurs at [Upper Erisia](Upper_Erisia.md). Occasionally the captain may spawn on his own and without a hostage, only around the Bandit Village.
 
--   The hostage is no different from any other Navaen nomad hostage, and you may give them into the [Eastern Camp Master](Eastern_Camp_Master.md).
+-   The hostage is no different from any other Navaen nomad hostage, and you may give them into the [Eastern Camp Master](Cheral.md).
 
 An Authority footsoldier
 
@@ -110,7 +110,7 @@ A [Megalodaunt](Megalodaunt.md) feasting on the corpse of an [Authority Soldier]
 
 #### Deep Owl
 
-Sparse cloud of black feathers that gently fall down around an area. Upon entering the feathers, the [Deep Owl](Deep_Owl.md) will immediately drop down from the sky and open a dialogue with the player. Only spawn in the [Etrean Luminant](Locations.md) while the moon is out or in the [First Layer](First_Layer.md). An owl also spawns in [The Lordsgrove](The_Lordsgrove.md) in a predetermined location but without black feathers as a warning and will automatically attack you.
+Sparse cloud of black feathers that gently fall down around an area. Upon entering the feathers, the [Deep Owl](Deep_Owl.md) will immediately drop down from the sky and open a dialogue with the player. Only spawn in the Etrean Luminant while the moon is out or in the [First Layer](First_Layer.md). An owl also spawns in [The Lordsgrove](The_Lordsgrove.md) in a predetermined location but without black feathers as a warning and will automatically attack you.
 
 #### Bandit Attack
 
@@ -118,11 +118,11 @@ In [Etris](Etris.md) two [bandits](Bandit.md) can spawn in front of the guards n
 
 #### Brainsucker Swarm
 
-An event that happens in [Starswept Valley](Starswept_Valley.md) or [Minityrsa](Minityrsa.md). Two [Brainsuckers](Brainsucker.md) spawn in mid air and swarm their prey, all dive bombing them at once. Killing them spawns a chest in the fitted area.
+An event that happens in [Starswept Valley](The_Starswept_Valley.md) or [Minityrsa](Minityrsa.md). Two [Brainsuckers](Brainsucker.md) spawn in mid air and swarm their prey, all dive bombing them at once. Killing them spawns a chest in the fitted area.
 
 #### Ministry Necromancer
 
-Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that is able to use [Shadowcast](Shadowcast.md) and summon two special Mudskippers; the [Redskipper](Redskipper.md) and [Blueskipper](Blueskipper.md) consisting of one than can use [Flamecharm](Flamecharm.md) and another that can use [Frostdraw](Frostdraw.md). They will spawn in a medatitive position, and will only be aggro'd if it sees a player or provoked by an attack.
+Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that is able to use [Shadowcast](Shadowcast.md) and summon two special Mudskippers; the [Redskipper](Necroskipper.md) and [Blueskipper](Necroskipper.md) consisting of one than can use [Flamecharm](Flamecharm.md) and another that can use [Frostdraw](Frostdraw.md). They will spawn in a medatitive position, and will only be aggro'd if it sees a player or provoked by an attack.
 
 ### Eastern Luminant
 
@@ -133,24 +133,24 @@ Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that is 
 Groups of NPCs from different factions will spawn in Eastern Luminant and attack each other. Helping a side will usually reward you with their respective reputation.
 
 -   [Summer Company Guards](Summer_Company_Guard.md) [Summericonfaction](The_Summer_Company.md) vs [Ignition Union Fighters](Ignition_Union_Fighter.md) ([Summer Isle](Summer_Isle.md)/[Miner's Landing](<Miner's_Landing.md>)/[Saramaed Summit](Saramaed_Summit.md))
--   [Eastern Nomad](Eastern_Nomad.md) + [Eastern Nomad Leader](Eastern_Nomad_Leader.md) [Navaeiconfaction](Children_of_Navae.md) vs [Ministry Scouts](Ministry_Scout.md) [Ministryiconfaction](Ministry.md) ([Summer Isle](Summer_Isle.md))
--   [Vigil Swordsmen](Vigil_Swordsman.md) [Etreaiconfaction](Etrea.md) vs [Hive Scouts](Hive_Scout.md) [Hiveiconfaction](Hive.md) ([Starswept Valley](Starswept_Valley.md))
--   [Legion Captain](Legion_Captain.md) vs [Authority Lieutenant](Authority_Lieutenant.md) [Authorityiconfaction](Central_Authority.md) ([Starswept Valley](Starswept_Valley.md))
--   [Hive Construct](Golem_Constructs.md) [Hiveiconfaction](Hive.md) vs [Authority Captain](Authority_Captain.md) [Authorityiconfaction](Central_Authority.md) ([Starswept Valley](Starswept_Valley.md))
+-   [Eastern Nomad](Eastern_Nomad.md) + [Eastern Nomad Leader](Eastern_Nomad_Leader.md) [Navaeiconfaction](The_Children_of_Navae.md) vs [Ministry Scouts](Ministry_Scout.md) [Ministryiconfaction](The_Ministry.md) ([Summer Isle](Summer_Isle.md))
+-   [Vigil Swordsmen](Vigil_Swordsman.md) [Etreaiconfaction](Etrea.md) vs [Hive Scouts](Hive_Scout.md) [Hiveiconfaction](The_Hive.md) ([Starswept Valley](The_Starswept_Valley.md))
+-   [Legion Captain](Legion_Captain.md) vs [Authority Lieutenant](Authority_Lieutenant.md) [Authorityiconfaction](The_Central_Authority.md) ([Starswept Valley](The_Starswept_Valley.md))
+-   [Hive Construct](Hive_Construct.md) [Hiveiconfaction](The_Hive.md) vs [Authority Captain](Authority_Captain.md) [Authorityiconfaction](The_Central_Authority.md) ([Starswept Valley](The_Starswept_Valley.md))
 
 #### Songseeker
 
-In the [Songseeker Wilds](Songseeker_Wilds.md), a Songseeker may spawn anywhere on the island. They can be seen meditating, but will aggro onto you if you enter their line of sight or you attack them. They will be using one of four elements, which will be [Flamecharm](Flamecharmer_Monk.md), [Frostdraw](Frostdrawer_Monk.md), [Thundercall](Thundercaller_Monk.md) or [Galebreathe](Songseeker_Galebreather.md). They cannot be assassinated. Defeating them will reward you with a good chunk of XP and a chest.
+In the [Songseeker Wilds](Songseeker_Wilds.md), a Songseeker may spawn anywhere on the island. They can be seen meditating, but will aggro onto you if you enter their line of sight or you attack them. They will be using one of four elements, which will be [Flamecharm](Songseeker_Flamecharmer.md), [Frostdraw](Songseeker_Frostdrawer.md), [Thundercall](Songseeker_Thundercaller.md) or [Galebreathe](Songseeker_Galebreather.md). They cannot be assassinated. Defeating them will reward you with a good chunk of XP and a chest.
 
 #### Maljuror
 
-In the [Ancient Rotlands](Ancient_Rotlands.md), [Maljurors](Maljuror.md) may spawn. They utilize the [Flamecharm](Flamecharm.md) [Attunement](Attunement.md) and wield the [Kindred Edict](Kindred_Edict.md) weapon. [Maljuror](Maljuror.md) may spawn handcuffed, or unhandcuffed, but the drops remains the same. Killing them grants the player a [chest](Chests_&_Sacks.md) with [Songseeker Wilds](Songseeker_Wilds.md) loot and either a [Spark](Mantra_Modifiers.md#sparks) or with a small chance the [Kindred Edict](Kindred_Edict.md).
+In the [Ancient Rotlands](Ancient_Rotlands.md), [Maljurors](Maljuror.md) may spawn. They utilize the [Flamecharm](Flamecharm.md) [Attunement](Attunements.md) and wield the [Kindred Edict](Kindred_Edict.md) weapon. [Maljuror](Maljuror.md) may spawn handcuffed, or unhandcuffed, but the drops remains the same. Killing them grants the player a [chest](Chests_&_Sacks.md) with [Songseeker Wilds](Songseeker_Wilds.md) loot and either a [Spark](Mantra_Modifiers.md#sparks) or with a small chance the [Kindred Edict](Kindred_Edict.md).
 
 -   See [Maljuror](Maljuror.md)
 
 #### Legion Sniper
 
-A single [Legion Sniper](Legion_Sniper.md) will spawn in [Starswept Valley](Starswept_Valley.md). Killing him will reward the player with XP and a chest, but also negative [reputation](Reputation.md) with [The Hundred Legions](The_Hundred_Legions.md). He can be talked to (with a good reputation) and can also be used to obtain a recommendation for [Legion Kata](Legion_Kata.md) if you have already helped at least two [Legion Captains](Legion_Captain.md) in their respective events.
+A single [Legion Sniper](Legion_Sniper.md) will spawn in [Starswept Valley](The_Starswept_Valley.md). Killing him will reward the player with XP and a chest, but also negative [reputation](Reputation.md) with [The Hundred Legions](The_Hundred_Legions.md). He can be talked to (with a good reputation) and can also be used to obtain a recommendation for [Legion Kata](Legion_Kata.md) if you have already helped at least two [Legion Captains](Legion_Captain.md) in their respective events.
 
 #### Summer Isle Bandit Raid
 
@@ -177,7 +177,7 @@ A meteor will hit [Meteor Isle](Meteor_Isle.md), spawning [Mudskipper Knights](M
 
 #### Alpha Megalodaunt vs Desert Knight
 
-Seemingly exclusive to the [Starswept Valley](Starswept_Valley.md), this event spawns an [Alpha Megalodaunt](Megalodaunt.md#alpha-megalodaunt) and a [Desert Knight](Stone_Knight.md#desert-knight), making them fight. If left by themselves, the Desert Knight will almost always win, due to it having almost double the health of an Alpha Megalodaunt.
+Seemingly exclusive to the [Starswept Valley](The_Starswept_Valley.md), this event spawns an [Alpha Megalodaunt](Megalodaunt.md#alpha-megalodaunt) and a [Desert Knight](Stone_Knight.md#desert-knight), making them fight. If left by themselves, the Desert Knight will almost always win, due to it having almost double the health of an Alpha Megalodaunt.
 
 #### Megalodaunt On a Ship
 
@@ -189,7 +189,7 @@ Across the Luminants, events will appear in the seas. Some are challenges, some 
 
 #### Fights between Factions
 
-[Etrean Soldiers](Etrean_Soldier.md) [Etreaiconfaction](Etrea.md) vs [Knives of Eylis](Knife_of_Eylis.md) [Knives of Eylis](Knives_of_Eylis.md) ([The Aratel Sea](The_Aratel_Sea.md)/[The Etrean Sea](The_Etrean_Sea.md))
+[Etrean Soldiers](Etrean_Soldier.md) [Etreaiconfaction](Etrea.md) vs [Knives of Eylis](Knife_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md) ([The Aratel Sea](The_Aratel_Sea.md)/[The Etrean Sea](The_Etrean_Sea.md))
 
 ### Etrean/Eastern Luminant
 
@@ -223,11 +223,11 @@ Various islands appear on the sea with various enemies. After defeating all enem
 
 **Sandstone Tower:**
 
-<table><tbody><tr><td><div><p>A sand island contains ruin of a sandstone tower and withered trees. Defeating all enemies on it will give you two chests filled with <a href="Starswept_Valley.md">Starswept Valley</a> loot. Possible Enemies:<a href="Thresher.md">Thresher</a>/<a href="Cloaked_Assassin.md">Cloaked Assassin</a>/<a href="Bounty_Hunter_(NPC).md">Bounty Hunter (NPC)</a></p></div></td><td><figure><figcaption><p></p><div></div><p></p></figcaption></figure></td></tr></tbody></table>
+<table><tbody><tr><td><div><p>A sand island contains ruin of a sandstone tower and withered trees. Defeating all enemies on it will give you two chests filled with <a href="The_Starswept_Valley.md">Starswept Valley</a> loot. Possible Enemies:<a href="Thresher.md">Thresher</a>/<a href="Cloaked_Assassin.md">Cloaked Assassin</a>/<a href="Bounty_Hunter_(NPC).md">Bounty Hunter (NPC)</a></p></div></td><td><figure><figcaption><p></p><div></div><p></p></figcaption></figure></td></tr></tbody></table>
 
 **Sandy Remnants:**
 
-<table><tbody><tr><td><div><p>A sand island contains ruin of a sandstone tower and withered trees. Defeating all enemies on it will give you two chests filled with <a href="Starswept_Valley.md">Starswept Valley</a> loot. Possible Enemies:<a href="Thresher.md">Thresher</a>/<a href="Cloaked_Assassin.md">Cloaked Assassin</a>/<a href="Bounty_Hunter_(NPC).md">Bounty Hunter (NPC)</a></p></div></td><td><figure><figcaption><p></p><div></div><p></p></figcaption></figure></td></tr></tbody></table>
+<table><tbody><tr><td><div><p>A sand island contains ruin of a sandstone tower and withered trees. Defeating all enemies on it will give you two chests filled with <a href="The_Starswept_Valley.md">Starswept Valley</a> loot. Possible Enemies:<a href="Thresher.md">Thresher</a>/<a href="Cloaked_Assassin.md">Cloaked Assassin</a>/<a href="Bounty_Hunter_(NPC).md">Bounty Hunter (NPC)</a></p></div></td><td><figure><figcaption><p></p><div></div><p></p></figcaption></figure></td></tr></tbody></table>
 
 **Mudskipper Hive:**
 
@@ -235,7 +235,7 @@ Various islands appear on the sea with various enemies. After defeating all enem
 
 #### Travelling Merchant
 
-A light-blue [Merchant Schooner](Chili.md) can spawn in the seas, selling random items in it's bottom deck. This can include books, cooked food, weapons, armor, Tools and very rarely, Dye Packets.
+A light-blue [Merchant Schooner](Travelling_Merchant.md) can spawn in the seas, selling random items in it's bottom deck. This can include books, cooked food, weapons, armor, Tools and very rarely, Dye Packets.
 
 -   See the full item list in [Travelling Merchant](Travelling_Merchant.md).
 -   These are commonly referred to as "Merchant Ships"
@@ -248,7 +248,7 @@ Can be identified via whether or not the antiquarian is in its usual position. I
 
 #### Weird Trader
 
-A [Dinghy](Boats.md) with a lone [Ganymede](Ganymede.md). Upon talking to him, he asks you to give him three random items. Any of which could be a [weapon](Weapons.md), [mantra ingredient](Mantra_Modifiers.md), or [ingredient](Ingredients.md). Falsely claiming to have the items he asks for will send you up flying from his uppercut, dealing high damage. However if you give him the specific items he asks for, he'll reward you with a random legendary weapon, a dye packet, Sinners Ash, or an [Astral](Enchantments.md#blessings) [Enchant Stone](Enchant_Stone.md) (possibly other enchant stones, unconfirmed). He seems to be talking in broken english, without the use of proper grammar.
+A [Dinghy](Ships_&_Sailing.md) with a lone [Ganymede](Ganymede.md). Upon talking to him, he asks you to give him three random items. Any of which could be a [weapon](Weapons.md), [mantra ingredient](Mantra_Modifiers.md), or [ingredient](Ingredients.md). Falsely claiming to have the items he asks for will send you up flying from his uppercut, dealing high damage. However if you give him the specific items he asks for, he'll reward you with a random legendary weapon, a dye packet, Sinners Ash, or an [Astral](Enchantments.md#blessings) [Enchant Stone](Enchant_Stone.md) (possibly other enchant stones, unconfirmed). He seems to be talking in broken english, without the use of proper grammar.
 
 -   See [Weird Trader](Weird_Trader.md)
 
@@ -260,7 +260,7 @@ One [Diver Quartermaster](Diver_Quartermaster.md) and three [Diver Journeymen](J
 
 #### Old Stranger
 
-A [Dinghy](Boats.md) with a lone [Khan](Khan.md). He requests a canteen of clean water. When fulfilling his request, he rewards the player with [Murmur: Ardour](Murmur%253A_Ardour.md).
+A [Dinghy](Ships_&_Sailing.md) with a lone [Khan](Khan.md). He requests a canteen of clean water. When fulfilling his request, he rewards the player with [Murmur: Ardour](Murmur%253A_Ardour.md).
 
 -   Having the Talent Condensation Drip will also allow the player to obtain the Murmur without a canteen.
 -   He will also accept a [Redd Juice](Redd.md) instead of a canteen of water.
@@ -277,7 +277,7 @@ In the Diver Camp in [Scyphozia](First_Layer.md), three Mudskippers can spawn in
 
 #### Divers vs Monster
 
-One, two or three divers taking on a monster in [The Depths](The_Depths.md). With larger numbers, they might have a chance of beating certain foes, but if the monster is corrupted, they will likely always lose. Strangely, they seem to only win against Alpha Megalodaunts. This event can also appear on the surface in [The Aratel Sea](The_Aratel_Sea.md) (Not just in [Starswept Valley](Starswept_Valley.md) or [The Depths](The_Depths.md)) very rarely.
+One, two or three divers taking on a monster in [The Depths](The_Depths.md). With larger numbers, they might have a chance of beating certain foes, but if the monster is corrupted, they will likely always lose. Strangely, they seem to only win against Alpha Megalodaunts. This event can also appear on the surface in [The Aratel Sea](The_Aratel_Sea.md) (Not just in [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md)) very rarely.
 
 #### Faction Ambush
 
@@ -297,11 +297,11 @@ A group of three [villager](Forgotten_Villager.md) NPCs spawn around a campfire 
 
 #### Cinders of Etris
 
-The [Authority](The_Authority.md)'s invasion of [Etris](Etris.md) is a rare disaster event. The event is foretold by a chat bubble from some NPCs around Etris before the event actually begins. **More information can be found [here](Cinders_of_Etris.md).**
+The [Authority](The_Central_Authority.md)'s invasion of [Etris](Etris.md) is a rare disaster event. The event is foretold by a chat bubble from some NPCs around Etris before the event actually begins. **More information can be found [here](Cinders_of_Etris.md).**
 
 The raid can be identified by the presence of Authority NPCs, specifically the Authority Soldiers, Officers, Peacekeepers and the Authority Warden within Etris, as well as the town being set on fire and covered by a large grey cloud of smoke. In this event, Authority NPC will fight Etrean Guards, Royal Guards and Polis, the latter being a very strong NPC. If left alone, the Authority is capable of winning due to their superior mantras and larger numbers.
 
-Once the event is fully completed by killing all Authority NPCs, three large chest will spawn near the large tree in the middle of the town. These chests contain high tier loot, including end game weapons, [Deep Gems](Deep_Gems.md), legendary rings, and is one of the few sources of the [Justicar](Justicar.md) and [Royal Etrean Guard](Royal_Etrean_Guard.md) armor schematics.
+Once the event is fully completed by killing all Authority NPCs, three large chest will spawn near the large tree in the middle of the town. These chests contain high tier loot, including end game weapons, [Deep Gems](Deep_Gems.md), legendary rings, and is one of the few sources of the [Justicar](<Justicar_(Origin).md>) and [Royal Etrean Guard](Royal_Etrean_Guard.md) armor schematics.
 
 During this event, most regular NPCs from the town will not be available. If you want higher chance for the raid to happen, join a new server that has "???" as its age. Wait at least two minutes at the Etris Docks. If you see the guard talking about the Authority, the raid will happen. Otherwise, leave and repeat. Note that the event won't happen if it's Winter.
 
@@ -309,11 +309,11 @@ During this event, most regular NPCs from the town will not be available. If you
 
 [Aelita](Aelita.md) spawns in the center rock in the Valley of Heroes during a non-winter season. (She is a [Felinor](Felinor.md) with the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md), which is why her eyes are purple.) When talking to her, she prompts you to play a game, which you can't refuse. The rules are simple, no killing, and all her orders must be followed.
 
-The first order is to use a mantra, the second order is to choose a clone that isn't her (One whose eyes that are not purple), and the third and final order is to choose her (A clone with purple eyes). Successfully completing a game will give you a small portion of EXP and gives dialogue hinting to the Winter [Blizzard Knight](Snow_Knight.md) event.
+The first order is to use a mantra, the second order is to choose a clone that isn't her (One whose eyes that are not purple), and the third and final order is to choose her (A clone with purple eyes). Successfully completing a game will give you a small portion of EXP and gives dialogue hinting to the Winter [Blizzard Knight](Stone_Knight.md) event.
 
 #### Akira
 
-An uncommon event that only spawns in [The Depths](The_Depths.md) within the Celtorian Wastes. While reading a book, he will be interrupted by a group of [Ignition Union](Ignition_Union.md) soldiers, telling him to leave the area. In an act of defiance, Akira draws a line of ice with his Ice Wisp and dares the soldiers to cross the line, which they do. Akira will use his Resonance to pop their heads.
+An uncommon event that only spawns in [The Depths](The_Depths.md) within the Celtorian Wastes. While reading a book, he will be interrupted by a group of [Ignition Union](The_Ignition_Union.md) soldiers, telling him to leave the area. In an act of defiance, Akira draws a line of ice with his Ice Wisp and dares the soldiers to cross the line, which they do. Akira will use his Resonance to pop their heads.
 
 The player can interact with Akira if they have neutral or good [reputation](Reputation.md) with [The Divers](The_Divers.md). Having a bad reputation or taking the wrong dialogue option result in the same fate to the player. After taking the right option, Akira can be found at [Castle Light](Castle_Light.md), where he can be talked to again to obtain the origin Deepbound. If the player were to have 100 charisma, you can side with The Union and insult him. You will not be gripped and Akira will flee. However this means he will not be able to let you join his faction. Doing this with anything less than 100 Charisma will get you killed.
 
@@ -329,11 +329,11 @@ Defeating the whole group will spawn a chest near the frozen river that's guaran
 
 #### Rogue Construct
 
-Upon the ice lake atop of [Minityrsa](Minityrsa.md), next to the [Valley of Heroes](Valley_of_Heroes.md), a [Rogue Construct](Golem_Constructs.md) will spawn.
+Upon the ice lake atop of [Minityrsa](Minityrsa.md), next to the [Valley of Heroes](The_Valley_of_Heroes.md), a [Rogue Construct](Hive_Construct.md) will spawn.
 
 #### The Meat Lord
 
-[The Meat Lord](The_Meat_Lord.md) is a merchant NPC that can appear on [Starswept Valley](Starswept_Valley.md) and more rarely in [Upper Erisia](Upper_Erisia.md), [Pathfinder's Respite](<Pathfinder's_Respite.md>), [Saramaed Summit](Saramaed_Summit.md), [Songseeker Wilds](Songseeker_Wilds.md), [Temple of the Forgotten Flame](Temple_of_the_Forgotten_Flame.md), [The Garden Reservoir](The_Garden_Reservoir.md), [The Hidden Village](The_Hidden_Village.md), [Towerstruck Lands](Towerstruck_Lands.md), [Viper's Jaw](<Viper's_Jaw.md>) and, [Summer Isle](Summer_Isle.md). He offers a selection of 3 of several meat-based food to the player in exchange for 2 notes each. You must bow down every time you buy from him or else he will ignore you.
+[The Meat Lord](The_Meat_Lord.md) is a merchant NPC that can appear on [Starswept Valley](The_Starswept_Valley.md) and more rarely in [Upper Erisia](Upper_Erisia.md), [Pathfinder's Respite](<Pathfinder's_Respite.md>), [Saramaed Summit](Saramaed_Summit.md), [Songseeker Wilds](Songseeker_Wilds.md), [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md), [The Garden Reservoir](The_Garden_Reservoir.md), [The Hidden Village](The_Hidden_Village.md), [Towerstruck Lands](Towerstruck_Lands.md), [Viper's Jaw](<The_Viper's_Jaw.md>) and, [Summer Isle](Summer_Isle.md). He offers a selection of 3 of several meat-based food to the player in exchange for 2 notes each. You must bow down every time you buy from him or else he will ignore you.
 
 #### Stranger NPC
 
@@ -345,7 +345,7 @@ The ceilings of [Scyphozia](The_Depths.md) shake as huge earthquakes rumble thro
 
 #### Resonant Dawn
 
-A meteor crashes down into the area, spawning a [Star Knight](Star_Knight.md). Defeating it allows the player to obtain their [Resonance](Resonance.md) for free from the meteor. (**Beware, interacting with the meteor while having a Resonance will reroll it without the option to keep the old one**) You cannot choose your resonance. The Star Knight also drops an Astral [Enchant Stone](Enchant_Stone.md). This event has been seen around [Saramaed Summit](Saramaed_Summit.md), [Summer Isle](Summer_Isle.md), [Starswept](Starswept_Valley.md) Valley, [Minityrsa](Minityrsa.md), and in [Voidsea](Voidsea.md).
+A meteor crashes down into the area, spawning a [Star Knight](Star_Knight.md). Defeating it allows the player to obtain their [Resonance](Resonance.md) for free from the meteor. (**Beware, interacting with the meteor while having a Resonance will reroll it without the option to keep the old one**) You cannot choose your resonance. The Star Knight also drops an Astral [Enchant Stone](Enchant_Stone.md). This event has been seen around [Saramaed Summit](Saramaed_Summit.md), [Summer Isle](Summer_Isle.md), [Starswept](The_Starswept_Valley.md) Valley, [Minityrsa](Minityrsa.md), and in [Voidsea](Voidsea.md).
 
 This event is **VERY RARE** and the odds of it happening are near zero. You have a better chance just getting Resonance yourself.
 

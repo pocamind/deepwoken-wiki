@@ -46,4 +46,4 @@ This dialogue can only appear if the player has not made at least 200 Bullet Cas
 ## Trivia
 
 -   Their name is a reference to magazines, a part found on guns.
--   The [Gunsmith](Gunsmith.md) NPC found in the [Guild Base](Guild_Base.md) is near identical to Mag, with the only exception being their appearance.
+-   The [Gunsmith](Gunsmith.md) NPC found in the [Guild Base](Guild_Bases.md) is near identical to Mag, with the only exception being their appearance.

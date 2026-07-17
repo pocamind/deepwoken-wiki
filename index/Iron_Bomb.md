@@ -21,13 +21,13 @@ categories: [Items]
 
 An explosive formerly used for demolition, now used to demolish all. It can be thrown with the keybind E.
 
-The base maximum amount of bombs you can hold is 99, though can be surpassed by with the [Packmule](Packmule.md) Boon.
+The base maximum amount of bombs you can hold is 99, though can be surpassed by with the [Packmule](Boons_and_Flaws.md#packmule) Boon.
 
-To gain this recipe, you will have to talk to [Lucien](Lucien.md) at [Songseeker Wilds](Songseeker_Wilds.md) nearby the gate of [Ancient Rotlands](Ancient_Rotlands.md). Talk to him and purge [Mineskippers](Mineskipper.md). Talk to Lucien once you've purged them all and obtain the Family Recipe Talent. After this you will be able to receive Talents from the "Saboteur" Talent tree which allows for more ways to play around with your bombs.
+To gain this recipe, you will have to talk to [Lucien](Lucien.md) at [Songseeker Wilds](Songseeker_Wilds.md) nearby the gate of [Ancient Rotlands](Ancient_Rotlands.md). Talk to him and purge [Mineskippers](Mudskipper.md#mineskipper). Talk to Lucien once you've purged them all and obtain the Family Recipe Talent. After this you will be able to receive Talents from the "Saboteur" Talent tree which allows for more ways to play around with your bombs.
 
 ### Recipe
 
-2 [Iron](Iron.md) + 1 [Coal](Coal.md) at any [Crafting Station](Crafting_Station.md), this requires the Family Recipe Talent.
+2 [Iron](Ores.md#iron) + 1 [Coal](Ores.md#coal) at any [Crafting Station](Crafting_Station.md), this requires the Family Recipe Talent.
 
 ### Uses
 
@@ -71,7 +71,7 @@ You are able to get up to high obstacles by propelling yourself using your bombs
 
 -   Bombs deal 10 typeless damage at base and scale on Intelligence. At 100 Intelligence, they deal 45.5 damage.
 -   Because bombs deal typeless damage, they ignore physical and elemental resistances.
--   Iron Bombs can be buffed with universal damage modifiers such as [Taunt](Taunt.md) or [Ardour Scream](Ardour_Scream.md).
+-   Iron Bombs can be buffed with universal damage modifiers such as [Taunt](Attunement-less.md#taunt) or [Ardour Scream](Murmur%253A_Ardour.md).
 -   Bomb usage has a 5 second cooldown.
 
 ## Tips
@@ -80,7 +80,7 @@ You are able to get up to high obstacles by propelling yourself using your bombs
     -   Your Incendiary Formula bombs will apply Puppet Burn, spawning puppets if you have [Twisted Puppets](Talents.md#wraith-path-twisted-puppets) or create [Eruptions](Talents.md#lava-serpent) if you have Eruption Path.
 -   The [Excavator](Talents.md#excavator) Talent will greatly help with gathering materials for bombs, as it has a chance to double your mining output.
 -   The [Miner's Hardhat](<Miner's_Hardhat.md>) equipment grants two Talents, one of which being the aforementioned Excavator with the second being [Rock Blaster](Talents.md#rock-blaster); this will double your mining output with a chance to quadruple it through Excavator. This equipment is a must have when it comes to farming for bombs.
--   [Coal](Coal.md) can be purchased from any [Blacksmith](Blacksmith.md) for 15.
+-   [Coal](Ores.md#coal) can be purchased from any [Blacksmith](Blacksmith.md) for 15.
 -   [The Viper's Jaw](<The_Viper's_Jaw.md>) is home to many materials needed to create bombs, having a rich balance of coal and iron.
     -   An alternative to [The Viper's Jaw](<The_Viper's_Jaw.md>) is the [Widow's Hollow](<Widow's_Hollow.md>), above the Starswept sands.
 -   If you manage to get your hands on [Pumpkin Pitch](Pumpkin_Pitch.md), you can use this as a feint for your bombs, keeping your opponent busy and unsure whether you're throwing a fake or real bomb.

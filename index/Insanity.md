@@ -19,7 +19,7 @@ Insanity is dictated by a meter that is not directly shown to the player, but it
 
 Players start with 80 base sanity. Being in The Depths passively takes sanity at a rate of 1 point every 30 seconds, meaning you can spend about 40 minutes in The Depths with 0 Willpower and no equipment bonuses before you reach maximum insanity and proceed to inevitably die
 
-Sanity can be increased by increasing the [Willpower](Willpower.md) attribute (+3 per investment), taking [Talents](Talents.md) that provide Sanity, or wearing [equipment](Equipment.md) with a sanity bonus. The [Ganymede](Ganymede.md) Aspect grants a 1.2x multiplier to Sanity gain.
+Sanity can be increased by increasing the [Willpower](Attributes.md#wll) attribute (+3 per investment), taking [Talents](Talents.md) that provide Sanity, or wearing [equipment](Equipment.md) with a sanity bonus. The [Ganymede](Ganymede.md) Aspect grants a 1.2x multiplier to Sanity gain.
 
 ## Insanity Effects
 
@@ -36,39 +36,39 @@ When losing enough sanity, the player will endure negative effects.
 | **Hidden Faces** | When panicking or scratching, hide the face and name of nearby humanoids (including players) for 30 seconds. | <40% | 360 seconds |
 | **Scratching** | Stuns you for 1.5 second and deal 20 damage (10 with [Grasp on Reality](Talents.md#grasp-on-reality) Talent). Is then followed by shivering. The [Unfazed](Talents.md#unfazed) Talent offers no protection against this. | <10% | 30–36 seconds |
 | **Execution** | If knocked by any means, including scratching, you are immediately killed. | <10% | N/A |
-| **Head Explosion** | Reaching 0 Sanity with a [No Life King](No_Life_King.md) Enchantment in The Depths will immediately kill the player. | 0% | N/A |
+| **Head Explosion** | Reaching 0 Sanity with a [No Life King](Curse_of_the_No_Life_King.md) Enchantment in The Depths will immediately kill the player. | 0% | N/A |
 
 ## Sanity Decreasing Effects
 
--   Being in range of the [Megalodaunt](Megalodaunt.md), [Mudskipper Brute](Mudskipper_Brute.md)/[Broodlord](Broodlord.md), or [Primadon](Primadon.md)'s roar attacks.
+-   Being in range of the [Megalodaunt](Megalodaunt.md), [Mudskipper Brute](Mudskipper_Brute.md)/[Broodlord](Mudskipper_Broodlord.md), or [Primadon](Primadon,_Titan_of_the_East.md)'s roar attacks.
 -   Being hit by the [Deep Widow](Deep_Widow.md)'s web attack.
 -   Being in the [First Layer](First_Layer.md), draining 1 Sanity every 30 seconds.
--   Being hit by the [Ardour Scream](Ardour_Scream.md) of a player who has the [Echoing Lunatic](Talents.md#echoing-lunatic) Talent.
+-   Being hit by the [Ardour Scream](Murmur%253A_Ardour.md) of a player who has the [Echoing Lunatic](Talents.md#echoing-lunatic) Talent.
 -   Drinking or being splashed by a [Mindbreaking potion](Alchemy.md).
 -   Using [Heretic's Sutra](Talents.md#heretics-sutra), draining 15% of your Sanity on use. If you were above 80% Sanity on cast, you will be set to 65% Sanity instead.
--   Using [Blindseer](Blindseer.md) Mantras.
+-   Using [Blindseer](Oath%253A_Blindseer.md) Mantras.
 -   As a potential corrupted [Resonance](Resonance.md) downside, draining 40 Sanity on use.
 -   Being hit by a player with [Shared Misery](Talents.md#shared-misery) active, draining 3% of your maximum Sanity. This stacks with Curse of the No Life King.
 -   Being hit by a weapon enchanted with [Curse of the No Life King](Curse_of_the_No_Life_King.md), draining 2% of your maximum Sanity on hit. This stacks with Shared Misery.
 -   Unsheathing a weapon enchanted with [Curse of the No Life King](Curse_of_the_No_Life_King.md) while in [The Depths](The_Depths.md), draining your Sanity by 2 per second. This stacks on top of the passive Sanity drain from being in the Depths, equating to 122 Sanity drained per minute.
--   Having the [Wishbound](Wishbound.md) flaw during nighttime.
+-   Having the [Wishbound](Boons_and_Flaws.md#flaws) flaw during nighttime.
 
 ## Sanity Restoring Effects
 
 -   Passive sanity regeneration. Regen 0.25 sanity per second at day time and 0.05 at night time. (Disabled in the Depths)
     -   The [Breathing Exercise](Talents.md#breathing-exercise) grants 50% more passive sanity regeneration, granting 0.375 sanity during the day, and 0.075 sanity at night.
--   Sitting at a [campfire](Campfire.md) (Improved if sharing the campfire with a [Capra](Capra.md)) regenerates 0.5 sanity per second.
--   Standing near a [Graceful Flame](Graceful_Flame.md) if the caster has the [Undying Flame](Talents.md#undying-flame) Talent.
+-   Sitting at a [campfire](Campfire_Pit.md) (Improved if sharing the campfire with a [Capra](Capra.md)) regenerates 0.5 sanity per second.
+-   Standing near a [Graceful Flame](Flamecharm.md#graceful-flame) if the caster has the [Undying Flame](Talents.md#undying-flame) Talent.
 -   Receiving the Mark of Jurik from a [Capra](Capra.md).
 -   Drinking or being splashed by a [Heartening potion](Alchemy.md).
 -   The [Conquer Your Fears](Talents.md#conquer-your-fears) Talent grants sanity when depths mobs die or when allies grip humanoid enemies near you.
--   The [Castle Light](Castle_Light.md) and [Chariot's Spire](<Chariot's_Spire.md>) sanity aura, which are exclusive to the [Deepbound](Deepbound.md) and [Ignition Delver](Ignition_Delver.md) Origins respectively.
+-   The [Castle Light](Castle_Light.md) and [Chariot's Spire](<The_Chariot's_Spire.md>) sanity aura, which are exclusive to the [Deepbound](Deepbound.md) and [Ignition Delver](Ignition_Delver.md) Origins respectively.
 
 ## Trivia
 
--   While often attributed to him by the community, [Yun'Shul](<Yun'Shul.md>) is not the cause of Insanity; rather, the eldritch nature of the First Layer is responsible. This is likely why the Second Layer does not cause Insanity, as despite its variety of monsters it's more grounded in reality.
--   The not including [Equipment](Equipment.md), the maximum amount of Sanity you can have is 544 (80 base, 300 from [Willpower](Willpower.md) investment, and 164 from [Talents](Talents.md)).
-    -   If you are a [Ganymede](Ganymede.md), this is increased to 637.8 (80 base, 360 from [Willpower](Willpower.md) investment, and 197.8 from [Talents](Talents.md)), as Ganymede has a 1.2x Sanity gain multiplier.
+-   While often attributed to him by the community, [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) is not the cause of Insanity; rather, the eldritch nature of the First Layer is responsible. This is likely why the Second Layer does not cause Insanity, as despite its variety of monsters it's more grounded in reality.
+-   The not including [Equipment](Equipment.md), the maximum amount of Sanity you can have is 544 (80 base, 300 from [Willpower](Attributes.md#wll) investment, and 164 from [Talents](Talents.md)).
+    -   If you are a [Ganymede](Ganymede.md), this is increased to 637.8 (80 base, 360 from [Willpower](Attributes.md#wll) investment, and 197.8 from [Talents](Talents.md)), as Ganymede has a 1.2x Sanity gain multiplier.
     -   This equates to over 4 and a half hours of time spent in The Depths before you reach 0 Sanity, or over 5 hours if you are a [Ganymede](Ganymede.md). If you are using the [Curse of the No Life King](Curse_of_the_No_Life_King.md) enchantment, then this will be decreased to just under 4 and a half minutes, or just over 5 minutes as a Ganymede.
 -   Each point of Sanity equates to 30 seconds of time spent in The Depths before you reach 0 Sanity.
     -   If you are using the [Curse of the No Life King](Curse_of_the_No_Life_King.md) enchantment, then each point of Sanity will equate to 0.49 seconds of time spent in The Depths before you reach 0 Sanity.

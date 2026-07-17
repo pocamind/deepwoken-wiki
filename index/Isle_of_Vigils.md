@@ -16,7 +16,7 @@ A solemn sanctuary carved in stone, where warriors hone the dancing steps of war
 
   
 
-**Isle of Vigils** is a [starting location](Locations.md) in _Deepwoken_. It is a settlement found in [The Etrean Sea](The_Etrean_Sea.md).
+**Isle of Vigils** is a starting location in _Deepwoken_. It is a settlement found in [The Etrean Sea](The_Etrean_Sea.md).
 
 ## Overview
 
@@ -33,8 +33,8 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 
 ### Camp
 
--   Players can find [Friid](Friid.md), a Celtor [spelltrainer](Spelltrainers.md) who can upgrade your [Galebreathe](Galebreathe.md) [Mantras](Mantras.md).
--   Players can find a permanent [campfire](Campfire.md) here.
+-   Players can find [Friid](Friid,_Master_of_Gale.md), a Celtor [spelltrainer](Attunement_Trainers.md) who can upgrade your [Galebreathe](Galebreathe.md) [Mantras](Mantras.md).
+-   Players can find a permanent [campfire](Campfire_Pit.md) here.
 -   Player can buy [Pathfinder Cloak](Pathfinder_Cloak.md) outfit inside the tent.
 
 ### Inn
@@ -43,7 +43,7 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 
 ### Mantra Shop
 
--   Players will find a [Gear Cabinet](Gear_Cabinet.md), allowing them to purchase any Training Gear for 25 each.
+-   Players will find a [Gear Cabinet](Training_Gear.md), allowing them to purchase any Training Gear for 25 each.
 -   Players can find the [Barber](Barber.md), who can change your looks.
 -   Players can also purchase two schematics here:
     -   [Vigil Initiate](Vigil_Initiate.md) for 45.
@@ -60,7 +60,7 @@ The wall
 
 ### [Mantra Collector](Mantra_Collector.md)
 
--   Players can find Cumberland, a [Canor](Canor.md) who will buy your [Mantra Modifiers](Mantra_Modifiers.md) and [Gems](Gems.md).
+-   Players can find Cumberland, a [Canor](Canor.md) who will buy your [Mantra Modifiers](Mantra_Modifiers.md) and [Gems](Treasures.md).
 
 ### Ziplines
 
@@ -123,7 +123,7 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia
 
--   The music for this area is [To Shores, Distant](To_Shores,_Distant.md) by Naktigonis
+-   The music for this area is [To Shores, Distant](Deepwoken_OST.md#to-shores-distant) by Naktigonis
 -   Though it may be closer to [Erisia](Erisia.md), Vigils is often much less travelled than Etris and can be considered a worse spawn location.
 -   Vigils has one of the best [fishing](Fishing.md) spots which is near the docks. There is a high chance of a fishing up a chest.
 -   The Isle of Vigils used to be attached to [Etris](Etris.md), but now they are separate.

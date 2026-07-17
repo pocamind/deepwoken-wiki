@@ -29,7 +29,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Trunk's Clutch Ring is a [Relic](Relic.md) [Equipment](Equipment.md) item under the "Rings" category.
+Trunk's Clutch Ring is a [Relic](Relics.md) [Equipment](Equipment.md) item under the "Rings" category.
 
 Trunk's Clutch ring massively increases your damage when your health drops below 20%. (75% Damage Increase)
 

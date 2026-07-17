@@ -36,9 +36,9 @@ categories: [Weapons, Pistols, Light Weapons, Offhand]
 
 ## Description
 
-The Dragoon is an endgame [Pistol](Pistol.md) weapon. It requires 65 points in Light Weapon to be equipped.
+The Dragoon is an endgame [Pistol](Pistols.md) weapon. It requires 65 points in Light Weapon to be equipped.
 
-Dragoon has a [bullet](Bullet.md) capacity of 4.
+Dragoon has a [bullet](Bullets.md) capacity of 4.
 
 ## Critical
 

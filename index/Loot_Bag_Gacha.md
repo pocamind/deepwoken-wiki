@@ -14,7 +14,7 @@ notices:
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-In various locations throughout both seas, certain [NPCs](NPCs.md) can be spotted holding large bags. These NPCs offer random, low-tier loot correlating with their location, for a fee of 350. This is often considered a bad deal, since the loot always sells for less than 350 and can be obtained from any chest in that area.
+In various locations throughout both seas, certain NPCs can be spotted holding large bags. These NPCs offer random, low-tier loot correlating with their location, for a fee of 350. This is often considered a bad deal, since the loot always sells for less than 350 and can be obtained from any chest in that area.
 
 Judging by their outfits and dialogue, these are [Bandit Leaders](Bandit_Leader.md) who figured out an easy method of making money - by scamming poor souls.
 
@@ -91,7 +91,7 @@ Marae
 
 ## Trivia
 
--   [Jeremiah](Jeremiah.md), located in the [City of the Drowned](The_City_of_the_Drowned.md) in the [First Layer](First_Layer.md), serves a similar purpose, instead taking [Gems](Gems.md).
+-   [Jeremiah](Jeremiah.md), located in the [City of the Drowned](The_City_of_the_Drowned.md) in the [First Layer](First_Layer.md), serves a similar purpose, instead taking [Gems](Treasures.md).
 -   Often seen as a rip-off, as the price of 350 Notes may be rather steep considering the usually lackluster loot that can more easily be obtained by grinding.
 -   Each of the Loot Bag Gacha NPC's names end with "-ae".
--   There was a Loot Bag Gacha [NPC](NPCs.md) named [Malisae](Malisae.md) in [Miner's Landing](<Miner's_Landing.md>), before she was repurposed to become [Deepdelver Tau](Deepdelver_Tau.md), an NPC that is primarily used to enter the [Saramaed Hollow](Saramaed_Hollow.md) [Dungeon](Dungeon.md), on the [September 6th, 2024](Version_History/2024.md#september-6th-2024) update.
+-   There was a Loot Bag Gacha NPC named [Malisae](Loot_Bag_Gacha.md#malisae) in [Miner's Landing](<Miner's_Landing.md>), before she was repurposed to become [Deepdelver Tau](Deepdelver_Tau.md), an NPC that is primarily used to enter the [Saramaed Hollow](Saramaed_Hollow.md) [Dungeon](Dungeons.md), on the [September 6th, 2024](Version_History/2024.md#september-6th-2024) update.

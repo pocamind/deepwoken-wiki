@@ -18,7 +18,7 @@ What inhuman acts of cruelty were committed here?
 
 Image of The Hall of Shattered Wills.
 
-**The Hall of Shattered Wills** is a [location](Locations.md) in _Deepwoken_. It is a unique room accessible only to developers and moderators of the game.
+**The Hall of Shattered Wills** is a location in _Deepwoken_. It is a unique room accessible only to developers and moderators of the game.
 
 ## Overview
 
@@ -70,7 +70,7 @@ An ordinary kitchen decorated with motivational posters.
 
 A room populated by [Fadetrimmer](Oath%253A_Fadetrimmer.md) entities.
 
--   [Glumbo](Glumbo.md) - A Reskinned dark humanoid barber.
+-   [Glumbo](<Barber_(Glumbo).md>) - A Reskinned dark humanoid barber.
 -   Contains a machine that dispenses Dye Packets.
 
 ### Shrine Room

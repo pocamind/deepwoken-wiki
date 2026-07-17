@@ -28,7 +28,7 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia
 
--   The music for this area is [Of Labours, Veiled](Of_Labours,_Veiled.md) by Naktigonis
+-   The music for this area is [Of Labours, Veiled](Deepwoken_OST.md#of-labours-veiled) by Naktigonis
 -   If the key to the manor is not glowing, it means that someone else already initiated a raid and as such the area is locked away until a certain amount of time passes. Either wait that timeframe out or switch servers to progress.
 -   If the gate is stuck/gate doesn't close despite all mobs being dead, and no one has travelled down, you can climb on top of the door to open it. There is an interactable button to close the gate and reset the dungeon.
 -   The [Brainsucker](Brainsucker.md)'s within the manor are not allied with other [Monsters](Monsters.md).

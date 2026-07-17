@@ -14,7 +14,7 @@ notices:
 
 Seasonal Medals are special tags that allow you to redeem Seasonal event items from [Blacksmiths](Blacksmith.md) in exchange for [Knowledge](Knowledge.md). The way you get each medal is different for each event. But what they all have in common is that after you unlock them, you can use them at any time, even after the event is over.
 
-Currently, there are 3 types of medals, [**Hallowtide**](<Hallowtide_(Event).md>) medals, the [**Festival of a Billion Souls**](Festival_of_a_Billion_Souls.md) medal, and the [Ordergeddon](Ordergeddon.md) medal. The medals and obtainment method to get them are listed here:
+Currently, there are 3 types of medals, [**Hallowtide**](Hallowtide.md) medals, the [**Festival of a Billion Souls**](Festival_of_a_Billion_Souls.md) medal, and the [Ordergeddon](Ordergeddon.md) medal. The medals and obtainment method to get them are listed here:
 
 -   Hallowtide: There are currently 4 [Hallowtide](Hallowtide.md) medals.
     1.  Hallowtide '22 Medal: You can purchase this medal for 200 [Joy](Joy.md) during the 2023, 2024, and 2025 Hallowtide events.
@@ -22,13 +22,13 @@ Currently, there are 3 types of medals, [**Hallowtide**](<Hallowtide_(Event).md>
     3.  Hallowtide '24 Medal: You can purchase this medal for 300 [Joy](Joy.md) during the 2024 and 2025 Hallowtide events.
     4.  Hallowtide '25 Medal: You can purchase this medal for 300 [Joy](Joy.md) during the 2025 Hallowtide events.
 -   Festival of a Billion Souls: Login during the [Festival of a Billion Souls](Festival_of_a_Billion_Souls.md) event.
--   Ordergeddon '25: Speak to the [Shrine of Order](Shrine_of_Order.md) on any build that has utilized its ability prior to the September 6th, 2025 update.
+-   Ordergeddon '25: Speak to the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) on any build that has utilized its ability prior to the September 6th, 2025 update.
 
 ## Medals
 
 ### Hallowtide
 
-All Hallowtide medals allow you to craft [**Hallowtide**](<Hallowtide_(Event).md>)\-exclusive items released in their respective year. You can claim these any time, even after the event is over, at a [Blacksmith](Blacksmith.md) using [Knowledge](Knowledge.md). The items and its cost are listed below:
+All Hallowtide medals allow you to craft [**Hallowtide**](Hallowtide.md)\-exclusive items released in their respective year. You can claim these any time, even after the event is over, at a [Blacksmith](Blacksmith.md) using [Knowledge](Knowledge.md). The items and its cost are listed below:
 
 -   **Hallowtide '22 Medal**: Allows you to craft [Hallowtide](Hallowtide.md)\-exclusive items released during 2022.
     -   [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>) \[3 Knowledge\]
@@ -41,10 +41,10 @@ All Hallowtide medals allow you to craft [**Hallowtide**](<Hallowtide_(Event).md
 -   **Hallowtide '23 Medal**: Allows you to craft [Hallowtide](Hallowtide.md)\-exclusive items released during 2023.
     -   [Pumpkin Head](Pumpkin_Head.md) \[3 Knowledge\]
     -   [Mushroom Costume](Mushroom_Costume.md) \[5 Knowledge\]
-    -   [Glowshroom Costume](Glowshroom_Costume.md) \[7 Knowledge\]
-    -   [Metalshroom Costume](Metalshroom_Costume.md) \[7 Knowledge\]
-    -   [Charmshroom Costume](Charmshroom_Costume.md) \[10 Knowledge\]
-    -   [Zapshroom Costume](Zapshroom_Costume.md) \[10 Knowledge\]
+    -   [Glowshroom Costume](Mushroom_Costume.md) \[7 Knowledge\]
+    -   [Metalshroom Costume](Mushroom_Costume.md) \[7 Knowledge\]
+    -   [Charmshroom Costume](Mushroom_Costume.md) \[10 Knowledge\]
+    -   [Zapshroom Costume](Mushroom_Costume.md) \[10 Knowledge\]
     -   [Putrid Edenstaff](Putrid_Edenstaff.md) \[7 Knowledge\]
     -   [Bloodtide Trident](Bloodtide_Trident.md) \[7 Knowledge\]
     -   [Drakemaw Gauntlets](Drakemaw_Gauntlets.md) \[7 Knowledge\]

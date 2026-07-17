@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Heroism is a buffing [enchantment](Enchantment.md) that grants the user damage buffs if their health is within a certain range.
+Heroism is a buffing [enchantment](Enchantments.md) that grants the user damage buffs if their health is within a certain range.
 
 ## Effect
 

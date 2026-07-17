@@ -29,9 +29,9 @@ A small consumable fruit found in many places across both Luminants. They grow o
 
 ### Used in
 
--   [Candied Fruit](Candied_Fruit.md) - 2 Redds and 1 [Sap](Sap.md) at a [Campfire](Campfire.md).
--   [Fruit Salad](Fruit_Salad.md) - 1 Redds and 2 other [Fruits](Ingredients.md#fruits), no [Campfire](Campfire.md) required.
--   [Redd Juice](Redd_Juice.md) - 3 Redds, no [Campfire](Campfire.md) required.
+-   [Candied Fruit](Candied_Fruit.md) - 2 Redds and 1 [Sap](Sap.md) at a [Campfire](Campfire_Pit.md).
+-   [Fruit Salad](Fruit_Salad.md) - 1 Redds and 2 other [Fruits](Ingredients.md#fruits), no [Campfire](Campfire_Pit.md) required.
+-   [Redd Juice](Redd_Juice.md) - 3 Redds, no [Campfire](Campfire_Pit.md) required.
 
 ## Trivia
 

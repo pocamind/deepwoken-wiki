@@ -20,7 +20,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Makolis Pariah Katatonicus is a [Kyrsan](Kyrsan.md) [NPC](NPC.md). They can be found sitting alone at the edges of [Firfire](Firfire.md). Makolis asks the player to rest with them, and to be friends during the fleeting moments.
+Makolis Pariah Katatonicus is a [Kyrsan](Kyrsgarde.md) NPC. They can be found sitting alone at the edges of [Firfire](Firfire.md). Makolis asks the player to rest with them, and to be friends during the fleeting moments.
 
 ## Dialogue
 

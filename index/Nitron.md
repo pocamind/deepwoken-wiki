@@ -23,7 +23,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Nitron is a [Vesperian](Vesperian.md) [NPC](NPC.md). They can craft [Bullet Casings](Bullet_Casings.md) by converting 200 [Bullets](Bullets.md) into specialized variants using [Ores](Ores.md), for a fee of up to 40. These modified bullets offer unique properties and playstyles.
+Nitron is a [Vesperian](Vesperian.md) NPC. They can craft [Bullet Casings](Bullet_Casings.md) by converting 200 [Bullets](Bullets.md) into specialized variants using [Ores](Ores.md), for a fee of up to 40. These modified bullets offer unique properties and playstyles.
 
 ## Location
 

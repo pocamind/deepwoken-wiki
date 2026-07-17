@@ -31,7 +31,7 @@ This content is not accessible outside of this gamemode.
 
 ## Crafting
 
-The Ethereal Bone Dust can be used to craft Armor and other items with the [Lost Forge](Lost_Forge.md) found at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
+The Ethereal Bone Dust can be used to craft Armor and other items with the [Lost Forge](Lost_Forge_of_Leiuna.md) found at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
 
 -   [Equipment](Equipment.md):
     -   [Hardened Enforcer Plate](Hardened_Enforcer_Plate.md): [Enforcer Plate](Enforcer_Plate.md) + 1x [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) + 1x Ethereal Bone Dust

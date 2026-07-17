@@ -24,7 +24,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-High Inquisitor Merey is a [Canor](Canor.md) [NPC](NPC.md). She is the lead of the Inquisitor division for [The Central Authority](The_Central_Authority.md) garrison positioned in the Eastern Luminant, the second to possess this rank, and a [Thundercaller](Thundercall.md).
+High Inquisitor Merey is a [Canor](Canor.md) NPC. She is the lead of the Inquisitor division for [The Central Authority](The_Central_Authority.md) garrison positioned in the Eastern Luminant, the second to possess this rank, and a [Thundercaller](Thundercall.md).
 
 She appears aged with small wrinkles around her eyes. She wears an [Inquisitor's Visor](<Inquisitor's_Visor.md>), a [Brilliant Cape](Brilliant_Cape.md), an [Inquisitor's Duster](<Inquisitor's_Duster.md>), and a pair of [Grand Authority Sabatons](Grand_Authority_Sabatons.md). On her right side, she holsters a bell at her hip, signifying her strength to obtain a [Resonance](Resonance.md). On her left side she wields the [Big Brother](Big_Brother.md) dagger.
 

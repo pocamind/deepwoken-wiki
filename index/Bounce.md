@@ -18,7 +18,7 @@ categories: [Enchantments, Equipment Enchantments]
 
 ## Description
 
-Bounce is an equipment [enchantment](Enchantment.md) that pushes your attacker away from you on proc.
+Bounce is an equipment [enchantment](Enchantments.md) that pushes your attacker away from you on proc.
 
 ## Effect
 

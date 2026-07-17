@@ -24,7 +24,7 @@ Sordino is an NPC that sells the players a rideable thresher mount that let play
 
 ## Location
 
-Sordino is located in [Starswept Valley](Starswept_Valley.md) infront of the huge wall of rocks that leads to the [Widow's Hollow](<Widow's_Hollow.md>) and [Lightkeeper Temple](Lightkeeper_Temple.md). Standing beside him is one of the tamed threshers.
+Sordino is located in [Starswept Valley](The_Starswept_Valley.md) infront of the huge wall of rocks that leads to the [Widow's Hollow](<Widow's_Hollow.md>) and [Lightkeeper Temple](Lightkeeper_Temple.md). Standing beside him is one of the tamed threshers.
 
 ## Quest Details
 

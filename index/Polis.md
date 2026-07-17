@@ -224,7 +224,7 @@ Polis executes their opponent after knocking them:
 -   When having [Jus Karita](Jus_Karita.md) as a starting weapon Polis will say "How strange that our Paths should cross again so soon...", as if you have already met, and does not give you a Gold Ring or any other dialogue.
 -   Despite teaching Jus Karita and donning a Justicar Armour, they favour a Greatsword in combat instead. This is because Jus Karita is intended to be a last resort if disarmed, a mechanic that does not exist in _[Deepwoken](<Deepwoken_(game).md>)_.
     -   Polis does use Jus Karita Mantras though, despite wielding a Greatsword.
-    -   The [Justicar](Justicar.md) origin does elaborate on this, as Justicars can complement their weaponary with Justicar techniques. Specifically, players can replace their running attack and critical with Jus Karita's.
+    -   The [Justicar](<Justicar_(Origin).md>) origin does elaborate on this, as Justicars can complement their weaponary with Justicar techniques. Specifically, players can replace their running attack and critical with Jus Karita's.
 -   Their name historically means "Greek city state."
 -   Their hair ID is [6101425666](https://www.roblox.com/catalog/6101425666/Dark-Messy-Manbun)
 -   Polis has an actual obtainable build if you utilize [Shrine of Order](Deep_Shrines/Shrine_of_Order.md), with all of their [Talents](Talents.md) (_except Audacity_) and all [Mantras](Mantras.md) being obtainable.

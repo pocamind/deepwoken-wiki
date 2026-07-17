@@ -26,17 +26,17 @@ categories: [Outfits, Master Outfits, Outfits with Talents, Outfits with Exclusi
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Windrunner Robes** is a Master [Outfit](Outfit.md) in _Deepwoken_.
+**Windrunner Robes** is a Master [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Requirements
 
-This Outfit costs 1,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), five (5) [Gale Stones](Gale_Stone.md), five (5) [Vibrant Gems](Vibrant_Gem.md), eight (8) [Erisore](Erisore.md) and one (1) [Wind Gem](Wind_Gem.md) to craft.
+This Outfit costs 1,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), five (5) [Gale Stones](Gale_Stone.md), five (5) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers), eight (8) [Erisore](Ores.md#erisore) and one (1) [Wind Gem](Wind_Gem.md) to craft.
 
-This Outfit additionally requires the player to be at least [Power](Power.md) 15 and have at least 10 [Agility](Agility.md) to be crafted.
+This Outfit additionally requires the player to be at least [Power](Power.md) 15 and have at least 10 [Agility](Attributes.md#agl) to be crafted.
 
 ## Armor Stats
 
-This Outfit has 2600 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunement.md), +25% Wind resistance [ResistanceGalebreathe](Galebreathe.md), and +50% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Wind Dancer](Talents.md#wind-dancer) Talent.
+This Outfit has 2600 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), +25% Wind resistance [ResistanceGalebreathe](Galebreathe.md), and +50% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Wind Dancer](Talents.md#wind-dancer) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistanceBlunt ResistanceSlash, 47.5% Galebreathe [ResistanceGalebreathe](Galebreathe.md), and.
 

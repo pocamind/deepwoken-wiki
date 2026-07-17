@@ -32,4 +32,4 @@ The **Ferryman's Coat Cloth** is a direct and chest drop from [The Ferryman](The
     -   [Specialist Helmet](Specialist_Helmet.md): 1x [Shock Trooper Helmet](Shock_Trooper_Helmet.md) + 1x Ferryman's Coat Cloth + 1x [Storm Enchant Stone](Enchant_Stone.md) at [Merit Detainment Core](Merit_Detainment_Core.md).
     -   [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md): 1x [Western Outlaw Robes](Western_Outlaw_Robes.md) + 1x Ferryman's Coat Cloth + 1x [Duke's Coat Fiber](<Duke's_Coat_Fiber.md>) at [Merit Detainment Core](Merit_Detainment_Core.md).
 -   [Ingredients](Ingredients.md)
-    -   [Ether Refined Hide](Ether_Refined_Hide.md): 1x [Primadon Pelt](Primadon_Pelt.md) + 2x **Ferryman's Coat Cloth** + 1x [Dread Serpent's Mane](<Dread_Serpent's_Mane.md>) in the [Lost Forge](Lost_Forge.md).
+    -   [Ether Refined Hide](Ether_Refined_Hide.md): 1x [Primadon Pelt](Primadon_Pelt.md) + 2x **Ferryman's Coat Cloth** + 1x [Dread Serpent's Mane](<Dread_Serpent's_Mane.md>) in the [Lost Forge](Lost_Forge_of_Leiuna.md).

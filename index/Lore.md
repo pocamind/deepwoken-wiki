@@ -22,26 +22,26 @@ beware - the Tide comes too for thee. ”
 
 ## Description
 
-The lore of Deepwoken is vast and scattered across the sea. Pieces of lore can be discovered in-game through \[\[NP, [Books](Books.md) descriptions, [Locations](Locations.md), and places, such as the [Towerstruck Lands](Towerstruck_Lands.md), [the City of the Drowned](The_City_of_the_Drowned.md), and many more.
+The lore of Deepwoken is vast and scattered across the sea. Pieces of lore can be discovered in-game through \[\[NP, [Books](Books.md) descriptions, Locations, and places, such as the [Towerstruck Lands](Towerstruck_Lands.md), [the City of the Drowned](The_City_of_the_Drowned.md), and many more.
 
 ## Figures
 
 ### The Lord Regent of Etrea, The Fourth Prophet of the Ministry, Zi'eer
 
-"_Ah, perfect. All I needed was for you to secure the area. Your services will no longer be of use to me._" _\-_ Lord Regent, after the player defeats [Duke Erisia](Duke_Erisia.md) and returns back to him before he promptly kills them.
+"_Ah, perfect. All I needed was for you to secure the area. Your services will no longer be of use to me._" _\-_ Lord Regent, after the player defeats [Duke Erisia](Duke_Ishamon_Erisia.md) and returns back to him before he promptly kills them.
 
--   The [Lord Regent](Lord_Regent.md)—true name "Zi'eer"—is a mysterious individual with enhanced versions of the powers of his [Contractors](Contractor.md) who rose to power and has absolute control over [Etrea](Etrea.md), staying exclusively within his palace in the [capital city](Etris.md) and secretly being the Fourth Prophet of [The Ministry](The_Ministry.md).
+-   The [Lord Regent](The_Lord_Regent.md)—true name "Zi'eer"—is a mysterious individual with enhanced versions of the powers of his [Contractors](Oath%253A_Contractor.md) who rose to power and has absolute control over [Etrea](Etrea.md), staying exclusively within his palace in the [capital city](Etris.md) and secretly being the Fourth Prophet of [The Ministry](The_Ministry.md).
 -   Nobody in [Etris](Etris.md) is sure of where he originates, but they accept him for his formidable power, and his actions _appear_ to be in the best interests of Etris.
 -   Lord Regent is the Fourth Prophet out of nine Ministry Prophets; a ranking system based on strength.[\[1\]](#cite-note-rag-1)
 -   When speaking with the Bookworm about Etris' previous rulers, we learn all of their histories were recorded in books stored within the city's official history office, though the office was destroyed before the events of the game, when the current Lord Regent rose to power. It is believed that Zi'eer wanted to hide or seal Etris' history.
 -   Many locals believe that Lord Regent is stricken with some illness because he never leaves his palace even while remaining the ruler of Etrea.
 -   His strength and power come directly from [the Depths](The_Depths.md), almost equivalent to the [Krulians](Krulian.md), though at the cost of movement.
     -   The Lord Regent is not a Krulian.
-    -   In the book [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>), we learn that after shattering an Etrean guard's mental veil, an [Authority](The_Authority.md) Inquisitor saw what he believed to be the Lord Regent's true form: _"a horrible creature staring at me, its black tendrils flowing down its body like ribbons and its multiple emerald shaped eyes drilling straight into my consciousness."_ Breaking this veil also caused the guard's eyes to explode.
+    -   In the book [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>), we learn that after shattering an Etrean guard's mental veil, an [Authority](The_Central_Authority.md) Inquisitor saw what he believed to be the Lord Regent's true form: _"a horrible creature staring at me, its black tendrils flowing down its body like ribbons and its multiple emerald shaped eyes drilling straight into my consciousness."_ Breaking this veil also caused the guard's eyes to explode.
     -   Lord Regent's power is increased incredibly by sitting on his throne. He can go from barely defeating [Akira](Akira.md) to easily defeating Akira with "low difficulty." It also allows him to surpass [The Ferryman](The_Ferryman.md) when at full strength.[\[1\]](#cite-note-rag-1)
     -   The Lord Regent's age is somewhere in his 40s, given that he has Tier 1 Wrinkles, but this may not indicate his actual age, as he is likely immortal.
 -   Based on [Jericho's](Warden_Jericho.md) journal, the Kingdom of Etrea's current rulings may cause a great war; eventually leading to another [Great Drowning](The_City_of_the_Drowned.md).
--   The Lord Regent's power is unique and is likely not associated with any attunement. Some of this power can be gained from the [Contractor](Contractor.md) [Oath](Oath.md).
+-   The Lord Regent's power is unique and is likely not associated with any attunement. Some of this power can be gained from the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
 -   The Lord Regent is very secretive about where he obtained power and will exterminate anyone who attempts to uncover it. When Kennith had doubts about Lord Regent's actions, he was executed, and his mangled corpse was hung on a wall after he tried acquiring information about Lord Regent from the locals of the city. The Lord Regent even uses you as a pawn to fetch out an artifact by the name of "[the Forge of Sin](Relics.md#lore-relics)."
     -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads with his contractor Oath before instantly killing you, regardless of level. He will also do this after completing the Duke Erisia questline, but not if you are trying to obtain the Contractor Oath.
 -   He appears to hold a particular disdain towards [Canor](Canor.md) people. Schnitzel notes that the "new leader is very strange," suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
@@ -59,7 +59,7 @@ The lore of Deepwoken is vast and scattered across the sea. Pieces of lore can b
 
 ### The First Prophet
 
--   The strongest [Ministry](Ministry.md) Prophet.[\[1\]](#cite-note-rag-1)
+-   The strongest [Ministry](The_Ministry.md) Prophet.[\[1\]](#cite-note-rag-1)
 -   Surpasses all the world leaders, including [The Lord Regent](The_Lord_Regent.md) and [Drallis Ehr](Drallis_Ehr.md).[\[1\]](#cite-note-rag-1)
 -   On par with even the strongest/higher [Krulians](Krulian.md).[\[1\]](#cite-note-rag-1)
 -   A Deepwoken, along with [Amorus Pleeksty](Amorus_Pleeksty.md) and [Drallis Ehr](Drallis_Ehr.md).[\[1\]](#cite-note-rag-1)
@@ -69,9 +69,9 @@ The lore of Deepwoken is vast and scattered across the sea. Pieces of lore can b
 
 ### The Second Prophet
 
--   The second strongest of the nine [Ministry](Ministry.md) Prophets.[\[1\]](#cite-note-rag-1)
--   Gave [Chaser](Chaser.md) and all their other apprentices abilities derived from Bloodrend, in conjunction with a Contractor Oath variant.[\[1\]](#cite-note-rag-1)[\[2\]](#cite-note-kamas-2)[\[3\]](#cite-note-vy-3)
--   Master of [Chaser](Chaser.md), [Vyrelda](Vyrelda.md) and other apprentices.[\[1\]](#cite-note-rag-1)[\[2\]](#cite-note-kamas-2)[\[3\]](#cite-note-vy-3)
+-   The second strongest of the nine [Ministry](The_Ministry.md) Prophets.[\[1\]](#cite-note-rag-1)
+-   Gave [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and all their other apprentices abilities derived from Bloodrend, in conjunction with a Contractor Oath variant.[\[1\]](#cite-note-rag-1)[\[2\]](#cite-note-kamas-2)[\[3\]](#cite-note-vy-3)
+-   Master of [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Vyrelda](Vyrelda,_Master_of_Blood.md) and other apprentices.[\[1\]](#cite-note-rag-1)[\[2\]](#cite-note-kamas-2)[\[3\]](#cite-note-vy-3)
 -   Their only known power is Blood magic, from which Bloodrend is derived, which is likely much more powerful than any of the Bloodrend shown in game.[\[1\]](#cite-note-rag-1)[\[2\]](#cite-note-kamas-2)[\[3\]](#cite-note-vy-3)
 -   Seems to keep the existence/method of acquiring [Bloodrend](Bloodrend.md) a secret, making sure the only ones who can use it are their disciples, and that they can't teach it to others.[\[3\]](#cite-note-vy-3)
 
@@ -83,7 +83,7 @@ The lore of Deepwoken is vast and scattered across the sea. Pieces of lore can b
     -   Theadre also calls the King a "god amongst men" and mentions that he "commanded the murmurs greater than any other" with his Murmur being able to "cut the seas themselves".
     -   The King of Etrea has a potent version of Ardour; a Murmur that has the ability to convert itself into raw strength.
     -   The [teacher](Teacher.md) charisma dialogue refers to the King of Etrea, suggesting that he sacrificed himself for Etrea and could possibly be dead: "_\*The Pathfinder tells you a story of a great King who sacrificed himself for his people. You feel empowered by his sacrifice. Is this a story about the King of Etrea? \*"_
--   The King of Etrea travelled to the Southern Luminant and made a Vow with Yun'Shul, granting him the [Oath](Oath.md), [Soulbreaker](Soulbreaker.md).
+-   The King of Etrea travelled to the Southern Luminant and made a Vow with Yun'Shul, granting him the [Oath](Oaths.md), [Soulbreaker](Oath%253A_Soulbreaker.md).
 -   The King of Etrea wielded the legendary "Splinterblade", which is what the Shattered Katana is fashioned after.
 
   
@@ -92,14 +92,14 @@ The lore of Deepwoken is vast and scattered across the sea. Pieces of lore can b
 
 _"The ruins of that city will **never** cage me. And with what's at stake... I can't stop now." - The Duke of Erisia, talking to the Player_  
 
--   [The Duke](The_Duke.md), known for his creation of the [Golems](Rock_Golem.md) that roam Erisia Island, is a Celtor Galebreathe user who fights the player during the ["The Lord Regent" Quest](Etris.md#the-lord-regents-quest).
+-   [The Duke](Duke_Ishamon_Erisia.md), known for his creation of the [Golems](Rock_Golem.md) that roam Erisia Island, is a Celtor Galebreathe user who fights the player during the ["The Lord Regent" Quest](Etris.md#the-lord-regents-quest).
 -   The Duke sealed himself deep within his Manor, locked behind a black iron gate. What lies deep in his chambers are Rock Golems, Brainsuckers and [Mindless Servants](Mindless_Servant.md).
 -   The Duke knows The Lord Regent, but it's unknown how much the Duke knows about him. It's most likely that he knows about Zi'eer's intentions since before you execute him he sometimes says: "Vermin! You seek to let Celtor repeat?"
 -   He comments about the prospects of Etris and The Authority itself, as its future is looking grim due to the ruling of The Lord Regent.
 -   Despite being kind of insane, committing a genocide, and carrying out numerous unethical experiments on his citizens, Duke seems to have good motives, believing that all he is doing is to save Lumen. Worth noting, but in no way justifies his actions.
 -   He wields a light green Resonance Bell on his right belt, allowing him to raise Golems out of stone. These Golems were sustained by his own power, and it was observed that he could only upkeep a handful at a time to guard his estate in Celtor before he acquired the Forge of Sin.
 -   Before Erisia Island sank into the Voidsea, The Duke ordered his Golems to kidnap and even kill his own people. It's unknown what motives drove him to perform such a massacre.
--   The Duke extracted an Artifact from the [Temple of the Forgotten Flame](Temple_of_the_Forgotten_Flame.md) after Erisia Island went back up to the Etrean Luminant, presumably the Forge of Sin, and brought it back to his Manor.
+-   The Duke extracted an Artifact from the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md) after Erisia Island went back up to the Etrean Luminant, presumably the Forge of Sin, and brought it back to his Manor.
 -   The Mindless Servants which guard his mansion are _vacant_ and his Golems, unlike other creatures, possess human souls which can fuel the [Jar of Souls](Jar_of_Souls.md) [Resonance](Resonance.md), leading to the theory that the Forge of Sin has been used to transfer Erisia's inhabitants souls to power his stone servants.
     -   This may explain why The Hive has similar relics, but in a green, swampy color, drawing on the power of nature rather than human life for their constructs.
     -   The Golems were largely docile for a good period of Erisia's history, due to their lack of numbers, or possibly not even being present at the Erisia mansion while he was having them guard his Celtor estate. The use of human souls via the Forge allowed actual full-scale production of them, as it gave the Golems a power source that wasn't reliant on the limits of Duke Erisia's bell.
@@ -156,13 +156,13 @@ _"The Eternal Flame, and the failure of man..." -One of [Amorus Pleeksty](Amorus
 
 _"Oh, a human? Far from home are we?" -Chaser._
 
--   [Chaser](Chaser.md) was a Black Diver sent down into the Eternal Gale by the Divers in their first expedition to the Second Layer. He was secretly an operative working for The [Ministry](The_Ministry.md), under the orders of the Second Prophet.
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) was a Black Diver sent down into the Eternal Gale by the Divers in their first expedition to the Second Layer. He was secretly an operative working for The [Ministry](The_Ministry.md), under the orders of the Second Prophet.
 -   For unknown reasons, he joined The Divers, receiving education from Markor Citadel.[\[5\]](#cite-note-doc-5)
 -   He graduated from the Markor Citadel as one of their best students, only outclassed by Klaris and Akira.[\[5\]](#cite-note-doc-5)
 -   He later betrayed them and joined [The Ministry](The_Ministry.md) following his graduation.[\[1\]](#cite-note-rag-1)
 -   He made a deal with the [Kyrsgarde](Kyrsgarde.md). The nature of this deal is unknown.
 -   He volunteered for the mission himself so he could lead it, but by the time they reached the Ethironal Sanctuary he slaughtered the fraction of his team that remained with him and didn't escape. He decided to make his team out of mainly Diver Apprentices so they couldn't cause any trouble for him.
--   He killed two more expeditions after this, and may have killed even more, such as [Ignition Union](Ignition_Union.md) members.
+-   He killed two more expeditions after this, and may have killed even more, such as [Ignition Union](The_Ignition_Union.md) members.
     -   One of his victims was an Ignition Union Deepdelver, presumably named Beta.
 -   He somehow managed to scavenge bells from his deceased colleagues, though he can't use them.
     -   His own resonance is called Soul Siphon. It lets him extract power from effigies of the dead and those stolen bells on his hips are those effigies.[\[3\]](#cite-note-vy-3)
@@ -170,7 +170,7 @@ _"Oh, a human? Far from home are we?" -Chaser._
 -   User of Bloodrend, granted to him by the Second Prophet.[\[1\]](#cite-note-rag-1)
 -   He has a created his own special variant of the Oath which is why he's known as the crimson scholar.[\[3\]](#cite-note-vy-3)
 -   Slightly less powerful than a Power 20 player.[\[1\]](#cite-note-rag-1)
--   Currently trapped in the Ethironal Shrine of the Second Layer due to the time dilation, damned to cause his own death in a desperate bid to reach New Kyrsa over and over for the rest of eternity. The time dilation affects him because he is literally standing on top of [New Kyrsa, The Sleeping City](New_Kyrsa,_The_Sleeping_City.md).
+-   Currently trapped in the Ethironal Shrine of the Second Layer due to the time dilation, damned to cause his own death in a desperate bid to reach New Kyrsa over and over for the rest of eternity. The time dilation affects him because he is literally standing on top of [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
 -   Despite not using them in the fight against him, he uses a pair of [Flareblood Kamas](Flareblood_Kamas.md) designed and created by him during his time as an apprentice under the Second Prophet.[\[2\]](#cite-note-kamas-2)
 
   
@@ -193,7 +193,7 @@ _"You should hurry little diver.... Ethiron's wake is soon to commence." -[Dr. C
 
 -   Currently residing in the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md).
 -   In charge of connecting the East Luminant to the rest of the Luminants from the Voidsea.
--   Childhood friend of [Nimea](Nimea.md) and teacher of [Klaris](Klaris.md).
+-   Childhood friend of [Nimea](Nimea.md) and teacher of [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
 -   Her hobby is writing poetry.
 -   Apparently she is "preoccupied" due to the ongoing war of the Authority and Etrea.
 -   As stated by Klaris, she isn't allowed to leave the Eastern Interstital Lighthouse due to her value to the Central Authority.
@@ -201,22 +201,22 @@ _"You should hurry little diver.... Ethiron's wake is soon to commence." -[Dr. C
 
 ### Klaris Llfiend, Mother of Lights
 
-_"Ugh... I don't have time to train you apprentices... SCRAM!" -[Klaris Llfiend](Klaris_Llfiend.md)._
+_"Ugh... I don't have time to train you apprentices... SCRAM!" -[Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md)._
 
 -   Black Diver of the Canor aspect.[\[6\]](#cite-note-arch-6) The creator of light hooks.
 -   Former student of [Viqh](Viqh.md), Lightkeeper of the Eastern Interstital Lighthouse, stating that "She learned a lot from her gift."
 -   One of the few people along Nimea to have known Viqh.
 -   In charge of expeditions into the [Second Layer](Second_Layer.md).
--   Name bears an eerie resemblance to [Korilfiend](Korilfiend.md), Drowned God of Fire,[\[1\]](#cite-note-rag-1) though she herself is not linked to the serpent.[\[4\]](#cite-note-firstlight-4)
+-   Name bears an eerie resemblance to [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), Drowned God of Fire,[\[1\]](#cite-note-rag-1) though she herself is not linked to the serpent.[\[4\]](#cite-note-firstlight-4)
 -   Slightly stronger than a Power 20 Player. Weaker than Akira.[\[1\]](#cite-note-rag-1)
--   Rude, cruel and antisocial. Mistreats those she thinks can't benefit her, including her own colleagues, referring to Mark as a 'bubble-chugging waste of space,' despite his important role as Castle Light's maintainer. She also damned [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) to [New Kyrsa](New_Kyrsa,_The_Sleeping_City.md) over a disagreement, with [Orlandeau](<Cap'n_Orlandeau.md>) noting that she would continue to hound him across the world if he escaped.
+-   Rude, cruel and antisocial. Mistreats those she thinks can't benefit her, including her own colleagues, referring to Mark as a 'bubble-chugging waste of space,' despite his important role as Castle Light's maintainer. She also damned [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) to [New Kyrsa](Second_Layer/New_Kyrsa.md) over a disagreement, with [Orlandeau](<Cap'n_Orlandeau.md>) noting that she would continue to hound him across the world if he escaped.
 -   Known for the discovery of a Verse of the Song that allows her to recreate light in a similar manner to the way Lightkeepers produce light.
 
 ### The Meat Lord
 
 _"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
 
--   A wandering chef and salesman that dons the old [Authority Commander Uniform](Authority_Commander_Uniform.md) and a special variant of the Blackleaf helm and pauldrons, known for his culinary accomplishments. The ultimate sigma male, capable of striking fear into any vegetarian that crosses his way. Has the ability to appear in multiple locations simultaneously.
+-   A wandering chef and salesman that dons the old [Authority Commander Uniform](Authority_Captain_Uniform.md) and a special variant of the Blackleaf helm and pauldrons, known for his culinary accomplishments. The ultimate sigma male, capable of striking fear into any vegetarian that crosses his way. Has the ability to appear in multiple locations simultaneously.
 -   Sells the best carnivorous food for the best price.
 -   He is an Adret.
 -   Rumored to be an incarnation of [Dorgan](https://rogue-lineage.fandom.com/wiki/Dorgan) from Rogue Lineage, a being of infinite power.
@@ -240,7 +240,7 @@ _"I don't know if I will be able to continue my services with in the Authority w
 -   Very probably is under the direct command of Drallis Ehr.
 -   He is an Adret.
 -   "Can solo every Centurion of the 11th legion" according to Arch\_Mage, be sure to note that he only says the one of the 11th Legion, not the hundred legions. As of right now, no known powerhouses exist in the 11th Legion, the only known fighters are the enemy NPCs encountered in game, who are all relative to Authority Captains. He can also beat the 11th Legion NPC Brutus, who uncaps your fortitude.
--   He is currently hunting and trying to destroy [The Ministry](The_Ministry.md) and [Contractors](Contractor.md).
+-   He is currently hunting and trying to destroy [The Ministry](The_Ministry.md) and [Contractors](Oath%253A_Contractor.md).
 -   Genuinely believes in [The Central Authority](The_Central_Authority.md) as a force of peace.
 -   Member of the [Circle of Honour](Circle_of_Honour.md).
 
@@ -255,7 +255,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 -   His identity, age and affiliation are unknown, as Rosen was only mentioned through Weapon Descriptions.
     -   [Yamaketzal](Yamaketzal.md) mentioned his name during his drunkard talks. Gunsmith Rosen is a man who has a burning passion to pursuit his goals; his objectives- whatever the cost.
 -   He is a [Vesperian](Vesperian.md).[\[6\]](#cite-note-arch-6)
--   His former prodigy, [Gunsmith Hierka](Gunsmith_Hierka.md), used the Summer Company's secrets in order to create the Rifle Spear for [The Authority](The_Authority.md).
+-   His former prodigy, [Gunsmith Hierka](Gunsmith_Hierka.md), used the Summer Company's secrets in order to create the Rifle Spear for [The Authority](The_Central_Authority.md).
     -   Although not exactly 'Betrayed', Rosen and the rest of Summer Company let The Authority do whatever they please to them, most likely to ensure they can keep their contract.[\[6\]](#cite-note-arch-6)
 -   He once wore a ring but it was 'discarded once he turned to other methods of inspiration.'
 
@@ -282,10 +282,10 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 
 ### Kaide, the Drowned Light
 
--   A Lightborn trapped in [New Kyrsa, The Sleeping City](New_Kyrsa,_The_Sleeping_City.md), in the Second Layer of the Depths.
+-   A Lightborn trapped in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md), in the Second Layer of the Depths.
 -   Previous king of Constellia.
--   Apparently he fought against the [Kyrsgarde](Kyrsgarde.md) alongside the [Celestials](Celestial.md) and other [Lightborn](Lightborn.md), but stopped fighting when the [Celestials](Celestial.md) fled, resulting in his capture and imprisonment in [New Kyrsa](New_Kyrsa,_The_Sleeping_City.md).
--   When the player asks [Kaide](Kaide.md) about his aspect, the Lightborn, he tells us that their bodies were created by Celestials from human templates, to be able to bring Celestial and Man together, with the Lightborn's body being blessed with immortality with the "Hybrid Vigor". However, despite their bodies being blessed, their minds are the same as the ones of Man, making Lightborns as clueless and arrogant as them.
+-   Apparently he fought against the [Kyrsgarde](Kyrsgarde.md) alongside the [Celestials](Celestial.md) and other [Lightborn](Lightborn.md), but stopped fighting when the [Celestials](Celestial.md) fled, resulting in his capture and imprisonment in [New Kyrsa](Second_Layer/New_Kyrsa.md).
+-   When the player asks [Kaide](Kaide,_the_Drowned_Light.md) about his aspect, the Lightborn, he tells us that their bodies were created by Celestials from human templates, to be able to bring Celestial and Man together, with the Lightborn's body being blessed with immortality with the "Hybrid Vigor". However, despite their bodies being blessed, their minds are the same as the ones of Man, making Lightborns as clueless and arrogant as them.
 -   Apparently he despises the [Celestials](Celestial.md), stating: _"We thought they were gods too, once. But perceptions change quickly when they alone are the sole architects of your suffering."_
 -   Kaide has great knowledge of the Song as he knows how the Song manifests through humans and throughout New Kyrsa.
 
@@ -361,7 +361,7 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 
 **Lore Sources:** Kaide_, Yun'Shul, Klaris, Arch\_Mage (Discord), ragoozer (Discord)_
 
--   As the name applies, godlike beings who originated from The Depths. One notorious Drowned God is [Yun'Shul](<Yun'Shul.md>).
+-   As the name applies, godlike beings who originated from The Depths. One notorious Drowned God is [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
 -   They are not fighters, but more so natural disasters waiting to happen.[\[6\]](#cite-note-arch-6)
 -   The drowned gods are sleeping, though they stir in their slumber, causing great changes in the world.
 -   If the drowned gods were to fully gain consciousness, existence as we know it would end.[\[6\]](#cite-note-arch-6)
@@ -491,11 +491,11 @@ _"O fleeting dream, I call upon thy name..." - Haske Vantage using his Resonance
 
 **Lore Sources:**
 
-_"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless sands." - [Starswept Valley](Starswept_Valley.md) Flavor Text_
+_"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless sands." - [Starswept Valley](The_Starswept_Valley.md) Flavor Text_
 
 -   A desert land that occupies most of [Aratel Island](Aratel_Island.md); consisting of desert sands, canyons and ruins. Threshers are encountered in Starswept Valley, along with the conflict of Factions between one and another.
--   Blue stars of light rain down upon the Valley, thus getting the title of [Starswept](Starswept_Valley.md).
-    -   Along with blue fragmented stars, Blue Meteorites containing [Meteor Knights](Stone_Knights.md) crash down from Constellia into the Valley as an encounter, emerging out of the rubble upon landing.[\[6\]](#cite-note-arch-6)
+-   Blue stars of light rain down upon the Valley, thus getting the title of [Starswept](The_Starswept_Valley.md).
+    -   Along with blue fragmented stars, Blue Meteorites containing [Meteor Knights](Stone_Knight.md) crash down from Constellia into the Valley as an encounter, emerging out of the rubble upon landing.[\[6\]](#cite-note-arch-6)
 
 ### Central Luminant
 
@@ -661,8 +661,8 @@ Castle light back then when deepbound used to be a flaw
 -   **Territory:** _Etrea, Etris, Etris Docks, Isle of Vigils_
 -   **Encountered In:** _The Aratel Sea, Aratel Island, Erisia Island_
 -   **Attunements:** Galebreathe
--   **Alliances:** _Vigil of Winds (Neutral), The Ministry [Ministryiconfaction](Ministry.md), Contractors_
--   **Enemies:** _The Central Authority [Authorityiconfaction](Central_Authority.md), The Hive [Hiveiconfaction](Hive.md)_, _The Knives of Eylis [Knives of Eylis](Knives_of_Eylis.md)_
+-   **Alliances:** _Vigil of Winds (Neutral), The Ministry [Ministryiconfaction](The_Ministry.md), Contractors_
+-   **Enemies:** _The Central Authority [Authorityiconfaction](The_Central_Authority.md), The Hive [Hiveiconfaction](The_Hive.md)_, _The Knives of Eylis [Knives of Eylis](The_Knives_of_Eylis.md)_
 -   **Lore Sources:** _Etris_
 
 -   A Government ruled by Etreans. They occupy the Etrean Luminant and its capital city, Etris.
@@ -681,13 +681,13 @@ An Etrean Guard, part of the Nation of Etrea
 
   
 
-### The Children of Navae [Navaeiconfaction](Children_of_Navae.md)
+### The Children of Navae [Navaeiconfaction](The_Children_of_Navae.md)
 
 -   **Territory:** _N/A, Meteor Isle_
 -   **Encountered In:** _Etrean Wilds, Summer Isle_
 -   **Attunements:** _Frostdraw_
 -   **Alliances:** _Unknown/The Hive(?) (Currently Negotiating on Meteor Isle)_
--   **Enemies:** _The Ministry [Ministryiconfaction](Ministry.md), The Knives of Eylis [Knives of Eylis](Knives_of_Eylis.md), The Central Authority [Authorityiconfaction](Central_Authority.md)_
+-   **Enemies:** _The Ministry [Ministryiconfaction](The_Ministry.md), The Knives of Eylis [Knives of Eylis](The_Knives_of_Eylis.md), The Central Authority [Authorityiconfaction](The_Central_Authority.md)_
 -   **Lore Sources:** _Gremorian Longspear Description, Arch\_Mage (Discord)_
 -   A nomadic tribe of [Gremors](Gremor.md), they primarily worship the religious figure Navae.
 -   Not much more is known for the Navaen tribe but, given the fact that they are mostly Gremor, it's safe to say that they follow the same lore as Gremors.
@@ -706,14 +706,14 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Encountered In:** _Erisia, Aratel Island_
 -   **Attunements:** _Galebreathe, Thundercall_
 -   **Alliances:** _N/A_
--   **Enemies:** _[The Central Authority](The_Authority.md) [Authorityiconfaction](Central_Authority.md)_
+-   **Enemies:** _[The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md)_
 -   **Lore Sources:** _[Amara](Amara.md), [Brutus](Brutus.md)_
 
 -   A military organization from the [Western Luminant](Luminants.md).
 -   Despite there being one hundred legions, the only one present in the East Luminant is the 11th Scouting Legion.
 -   They wear armor similar to that of Ancient Greece and Rome, ranging from armor plating and scale armor.
 -   They have ranks such as Legionnaires and Centurions, the latter of which is mentioned by [Amara](Amara.md) in [The Viper's Jaw](<The_Viper's_Jaw.md>).
--   They appear to have once been allies with [the Authority](The_Authority.md), but some form of treaty was broken between them and are now at war.
+-   They appear to have once been allies with [the Authority](The_Central_Authority.md), but some form of treaty was broken between them and are now at war.
 -   Inventors of the fist style 'Legion Kata.'
 -   They have a Greek/Roman motif, considering centurions and legionnaires are both ranks used in Ancient Rome, as well as the nature of their armor. The Legion is also primarily composed of Khans, which have crowns similar to that of Julius Caesar. Despite this, the aspect as well as the crowns they wear are likely a reference to Son Wukong from the old Chinese novel, "Journey to the West."
 -   The 11th Scouting Legion came to the East Luminant under the command of Akilles to observe the conflict between Etrea and the Authority.
@@ -730,21 +730,21 @@ _"Aye, thanks for the help. The Authority better start sending some help before 
 -   **Territory:** _[Summer Isle](Summer_Isle.md)_
 -   **Encountered In:** _[Summer Isle](Summer_Isle.md), [Miner's Landing](<Miner's_Landing.md>)_
 -   **Attunements:** _[Attunement-less](Attunement-less.md)_
--   **Alliances:** _[The Central Authority](The_Central_Authority.md) [Authorityiconfaction](Central_Authority.md) (Business Relations)_
--   **Enemies:** _[The Ignition Union](The_Ignition_Union.md), [The Ministry](The_Ministry.md) [Ministryiconfaction](Ministry.md)_
+-   **Alliances:** _[The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md) (Business Relations)_
+-   **Enemies:** _[The Ignition Union](The_Ignition_Union.md), [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md)_
 -   **Lore Sources:** _Random encounters, Scope (Explosive Crate Dialogue), Summer Company Guard Dialogue (Good Rep), Gunsmith Rosen (Mentioned), [Arch\_Mage](https://www.roblox.com/users/4416634/profile) (Discord)_
 
 -   A Faction that resides at Summer Isle. They are a small organization and the inventors of Firearms, such as Revolvers and Flintlocks.
     -   Gunsmith Rosen introduced the New World with Firearms in his young age; thus the foundation of Summer Company.
--   _(Scope)_ They'd rather not expand their territory to the Driftlands - as of 1271. Due to the fact that the Driftland, Erisia Island, is currently contested between [Kingdom of Etrea](The_Kingdom_of_Etrea.md) and [the Authority](The_Authority.md).
+-   _(Scope)_ They'd rather not expand their territory to the Driftlands - as of 1271. Due to the fact that the Driftland, Erisia Island, is currently contested between [Kingdom of Etrea](Etrea.md) and [the Authority](The_Central_Authority.md).
 -   _(Scope)_ Giving the Explosive Crates to Scope gives additional dialogue; which he comments of the Authority's lack of cooperation and threatens them to decline their armament supply.
 -   _(Rifle Spear)_ Although their armaments has been stolen such as the [Rifle Spear](Rifle_Spear.md) by the Authority, Summer Company still has a business relationship with them.
 -   _(Gunsmith Rosen)_ The Leader of [The Summer Company](The_Summer_Company.md) is unknown, as we've never seen them in person. It is assumed Gunsmith Rosen is still in charge of Summer Company.
     -   Some assume that the dialogue given by the SC Guards to "Make Rosen proud." indicates he's still alive and retained as the Leader of Summer Company, though it may just mean spiritually.
     -   The recent creation of the Stormseye with Kyrsan Medallions seemingly confirms that Rosen is alive and still creating new types of guns.[\[8\]](#cite-note-stormseye-8)
--   [The Summer Company](The_Summer_Company.md) has ties with [The Authority](The_Authority.md). They contract the Company for firearms in exchange for goods and the liking.
-    -   Despite the fact that the Rifle Spear's description say that [The Summer Company](The_Summer_Company.md) secrets are being stolen by [The Authority](The_Authority.md) they are still in business with them.[\[6\]](#cite-note-arch-6)
-        -   The [The Summer Company](The_Summer_Company.md) overlooked the actions [The Authority](The_Authority.md) took under their noses and ignored them; presumably to avoid ruining their business relationship with them.[\[6\]](#cite-note-arch-6)
+-   [The Summer Company](The_Summer_Company.md) has ties with [The Authority](The_Central_Authority.md). They contract the Company for firearms in exchange for goods and the liking.
+    -   Despite the fact that the Rifle Spear's description say that [The Summer Company](The_Summer_Company.md) secrets are being stolen by [The Authority](The_Central_Authority.md) they are still in business with them.[\[6\]](#cite-note-arch-6)
+        -   The [The Summer Company](The_Summer_Company.md) overlooked the actions [The Authority](The_Central_Authority.md) took under their noses and ignored them; presumably to avoid ruining their business relationship with them.[\[6\]](#cite-note-arch-6)
         -   Their relationship is likely what led to their conflict with [The Ignition Union](The_Ignition_Union.md), meeting thanks to both being hired by the same group. This has not been going well for them.
         -   It will be a matter of time until Summer Company is no use for The Authority, eventually terminating their contract between them, just like with the Legions.
 -   Although guns are sold in the Luminants, they are also obtainable from The Depths due to the fact that the original guns were Pre-Tidal.
@@ -754,7 +754,7 @@ _"Aye, thanks for the help. The Authority better start sending some help before 
 
 A Summer Company Member.
 
-### The Ministry [Ministryiconfaction](Ministry.md)
+### The Ministry [Ministryiconfaction](The_Ministry.md)
 
 _"Celtor will repeat itself here... The world will fall under The Depths..." - Ministry Scout/Necromancer_
 
@@ -762,12 +762,12 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - M
 -   **Encountered In**: _[Minityrsa](Minityrsa.md), [Summer Isle](Summer_Isle.md)_
 -   **Attunements:** _[Shadowcast](Shadowcast.md), [Bloodrend](Bloodrend.md)_
 -   **Alliances:** _Etrea (Neutral)_
--   **Enemies:** _[The Ignition Union](The_Ignition_Union.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](Children_of_Navae.md), [The Summer Company](The_Summer_Company.md) [Summericonfaction](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md). [Authorityiconfaction](Central_Authority.md)_
+-   **Enemies:** _[The Ignition Union](The_Ignition_Union.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md), [The Summer Company](The_Summer_Company.md) [Summericonfaction](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md). [Authorityiconfaction](The_Central_Authority.md)_
 -   **Lore Sources:** _Yun'shul, Deepspindle_
 
 -   A group of mysterious [Shadowcasters](Shadowcast.md) known for their cult like appearance and ability to fade into the background of the world stage.
 -   Their goal is to cause the sinking of the Overworld into [The Depths](The_Depths.md) which will lead them to becoming Drowned Gods. Somehow.[\[1\]](#cite-note-rag-1)
--   They were responsible for the sinking of [Celtor](Celtor.md), using it as an offering to [Yun'Shul](<Yun'Shul.md>). The [Blindseer](Oath%253A_Blindseer.md) Glyphs hint at them having used a Contractor to do it.
+-   They were responsible for the sinking of [Celtor](Celtor.md), using it as an offering to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). The [Blindseer](Oath%253A_Blindseer.md) Glyphs hint at them having used a Contractor to do it.
     -   This Contractor wasn't [Zi'eer](The_Lord_Regent.md).[\[6\]](#cite-note-arch-6)
 -   They are lead by prophets. There is no limit to how many there can be,[\[1\]](#cite-note-rag-1) but as of Year 1363 there are nine. They are ranked by strength.[\[1\]](#cite-note-rag-1)
 -   The leader of the Ministry is the First Prophet. Currently his whereabouts are unknown, but he is a Deepwoken and one of the most, if not the, most powerful 'human being', depending on your definition of the word.[\[1\]](#cite-note-rag-1)
@@ -784,13 +784,13 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - M
 
 A Dark Mage, located in Minityrsa.
 
-### The Knives of Eylis [Knives of Eylis](Knives_of_Eylis.md)
+### The Knives of Eylis [Knives of Eylis](The_Knives_of_Eylis.md)
 
 -   **Territory:** _Central Luminant_
 -   **Encountered In:** _Aratel Sea, Erisia, Songseeker Wilds_
 -   **Attunements:** _Attunement-less_
--   **Alliances:** _The Central Authority [Authorityiconfaction](Central_Authority.md) (Business Relations)_
--   **Enemies:** _The Kingdom of Etrea [Etreaiconfaction](Etrea.md), The Children of Navae [Navaeiconfaction](Children_of_Navae.md)_
+-   **Alliances:** _The Central Authority [Authorityiconfaction](The_Central_Authority.md) (Business Relations)_
+-   **Enemies:** _The Kingdom of Etrea [Etreaiconfaction](Etrea.md), The Children of Navae [Navaeiconfaction](The_Children_of_Navae.md)_
 -   **Lore Sources:** _Whaling Knife (Description), Whaler Armor (Description), Eylis, The Punished Dreamer (NPC)._
 
 -   [The Knives of Eylis](The_Knives_of_Eylis.md) are an organization of ruthless, randomly hired mercenaries that work under [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md).
@@ -809,8 +809,8 @@ A Knives of Eylis whaler assassin.
 -   **Territory:** _[Miner's Landing](<Miner's_Landing.md>), [The Chariot's Spire](<The_Chariot's_Spire.md>), [The Frontier Furnace](The_Frontier_Furnace.md)_
 -   **Encountered In:** _Summer Isle, Celtor Wastes, Miner's Landing, The Chariot's Spire, The Frontier Furnace_
 -   **Attunements:** _[Flamecharm](Flamecharm.md), [Thundercall](Thundercall.md), & [Ironsing](Ironsing.md)_
--   **Alliances:** _The Central Authority (Business Relations) [Authorityiconfaction](Central_Authority.md)_
--   **Enemies:** _The Summer Company [Summericonfaction](The_Summer_Company.md), The Divers [Diversiconfaction](Divers.md)_, _The Ministry [Ministryiconfaction](Ministry.md)_
+-   **Alliances:** _The Central Authority (Business Relations) [Authorityiconfaction](The_Central_Authority.md)_
+-   **Enemies:** _The Summer Company [Summericonfaction](The_Summer_Company.md), The Divers [Diversiconfaction](The_Divers.md)_, _The Ministry [Ministryiconfaction](The_Ministry.md)_
 -   **Lore Sources:** _Arcwarder (Description), Darksteel Greatsword (Description), Deepdelver Gamma (Dialogue)_
 
 -   [The Ignition Union](The_Ignition_Union.md) is a Mining Organization, armed with weaponry such as the infamous Darksteel Greatsword[\[10\]](#cite-note-dsgs-10) and Railblade.[\[11\]](#cite-note-railblade-11)
@@ -828,13 +828,13 @@ A Knives of Eylis whaler assassin.
 
 An ignition union guard, located at miners landing.
 
-### The Central Authority [Authorityiconfaction](Central_Authority.md)
+### The Central Authority [Authorityiconfaction](The_Central_Authority.md)
 
 -   **Territory:** _[Fort Merit](Fort_Merit.md), [Central Luminant](Luminants.md), [Markor](Markor.md)_
 -   **Encountered In:** _Erisia Island, Aratel Island, Fort Merit_
 -   **Attunements:** _[Flamecharm](Flamecharm.md), [Thundercall](Thundercall.md), [Frostdraw](Frostdraw.md), [Galebreathe](Galebreathe.md)_
--   **Alliances:** _The Divers (Business relation) [Diversiconfaction](Divers.md), The Summer Company (Business relations) [Summericonfaction](The_Summer_Company.md), The Ignition Union (Business relations)_, _The Knives of Eylis [Knives of Eylis](Knives_of_Eylis.md)_
--   **Enemies:** _The Kingdom of Etrea [Etreaiconfaction](Etrea.md), The Children of Navae (Captives) [Navaeiconfaction](Children_of_Navae.md), The Hundred Legions_, _The Ministry_ [Ministryiconfaction](Ministry.md)
+-   **Alliances:** _The Divers (Business relation) [Diversiconfaction](The_Divers.md), The Summer Company (Business relations) [Summericonfaction](The_Summer_Company.md), The Ignition Union (Business relations)_, _The Knives of Eylis [Knives of Eylis](The_Knives_of_Eylis.md)_
+-   **Enemies:** _The Kingdom of Etrea [Etreaiconfaction](Etrea.md), The Children of Navae (Captives) [Navaeiconfaction](The_Children_of_Navae.md), The Hundred Legions_, _The Ministry_ [Ministryiconfaction](The_Ministry.md)
 -   **Lore Sources:** _Authority Interrogator Talents, [Kelsius](Kelsius.md), Weapon Descriptions, [Scope](Scope.md), Random Encounters_
 
 -   The Authority is an Empire and a faction of "Peacekeepers."
@@ -872,11 +872,11 @@ An ignition union guard, located at miners landing.
 
 An Authority Captain
 
-### The Hive [Hiveiconfaction](Hive.md)
+### The Hive [Hiveiconfaction](The_Hive.md)
 
 -   **Territory:** _[The Lordsgrove](The_Lordsgrove.md), [Greathive Aratel](Greathive_Aratel.md), 3 Other Unnamed Greathives_
 -   **Attunements:** _[Flamecharm](Flamecharm.md), [Lifeweave](Lifeweave.md)_
--   **Alliances:** _The Children of Navae [Navaeiconfaction](Children_of_Navae.md)_ (Neutral/Negotiating.)
+-   **Alliances:** _The Children of Navae [Navaeiconfaction](The_Children_of_Navae.md)_ (Neutral/Negotiating.)
 -   **Enemies:** _The Kingdom of Etrea [Etreaiconfaction](Etrea.md)_
 -   **Lore Sources:** _[Regek](Regek.md)_
 
@@ -900,11 +900,11 @@ An Authority Captain
 
 A hivekin wielding a ritual spear with heroism.
 
-### The Divers [Diversiconfaction](Divers.md)
+### The Divers [Diversiconfaction](The_Divers.md)
 
 -   **Territory:** _[Markor Citadel](The_Citadel_of_Markor.md), [Castle Light](Castle_Light.md)_
 -   **Attunements:** _[Flamecharm](Flamecharm.md), [Frostdraw](Frostdraw.md), [Galebreathe](Galebreathe.md), [Thundercall](Thundercall.md) and [Shadowcast](Shadowcast.md)_
--   **Alliances:** _The Central Authority [Authorityiconfaction](Central_Authority.md)_ _(Business Relations)_
+-   **Alliances:** _The Central Authority [Authorityiconfaction](The_Central_Authority.md)_ _(Business Relations)_
 -   **Enemies:** Ignition Union
 -   **Lore Sources:** _[Karliah](Karliah.md) (Dialogue), [Akira](Akira.md) (Dialogue), The Authority (NPC Dialogue), Arch\_Mage (Discord), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (Dialogue). [Dr. Carrion](Carrion,_Father_of_Evolution.md) (Dialogue), Divers Outfit Schematics (Description)_
 
@@ -966,8 +966,8 @@ A diver apprentice npc.
 -   **Territory:** _Unknown_
 -   **Encountered In:** _Etris_
 -   **Attunements:** _Unknown_
--   **Alliances:** _The Ministry [Ministryiconfaction](Ministry.md)_
--   **Enemies:** _The Central Authority [Authorityiconfaction](Central_Authority.md), The Warmasters, The Divers [Diversiconfaction](Divers.md) ._
+-   **Alliances:** _The Ministry [Ministryiconfaction](The_Ministry.md)_
+-   **Enemies:** _The Central Authority [Authorityiconfaction](The_Central_Authority.md), The Warmasters, The Divers [Diversiconfaction](The_Divers.md) ._
 -   **Lore Sources:** _Warden Jericho's Journal, the Windrunner, ragoozer (Discord)_
 
 -   Contractors are a group of individuals that have taken an [Oath](Oath%253A_Contractor.md) with a Prophet of the Ministry.
@@ -1039,7 +1039,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
     -   (Neero) A Pathfinder's goal is to explore "Driftlands", Islands that drifted from the [Voidsea](Voidsea.md), time to time.
 -   The Pathfinders are similar to The Old Stewards, though not exactly the same. Pathfinders as a whole are more of a profession, unlike the Old Stewards that consists mostly of Historians.[\[6\]](#cite-note-arch-6)
 -   (Bookworm Andros) Pathfinders can share tales of stories to others, such as the inspiration of a warrior who slayed a great beast.
--   (Neero) [Erisia Island](Erisia.md) was a main priority to The Pathfinders, explained by Neero; that they were looking for an artifact named "The Forge of Sin". Unfortunately, someone got to the artifact first using brute force, leaving without a trace, likely [The Duke](The_Duke.md).
+-   (Neero) [Erisia Island](Erisia.md) was a main priority to The Pathfinders, explained by Neero; that they were looking for an artifact named "The Forge of Sin". Unfortunately, someone got to the artifact first using brute force, leaving without a trace, likely [The Duke](Duke_Ishamon_Erisia.md).
 -   The player is referred to as one.
 -   Many Pathfinders worship Celestials, namely [Alsin](Alsin.md).
 
@@ -1064,8 +1064,8 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 
 -   **Encountered in:** _[Central Luminant](Luminants.md)(?)_
 -   **Attunements:** _Any_
--   **Alliances:** _The Central Authority [Authorityiconfaction](Central_Authority.md) (?)_
--   **Enemies:** _Contractors, The Ministry [Ministryiconfaction](Ministry.md) (?)_
+-   **Alliances:** _The Central Authority [Authorityiconfaction](The_Central_Authority.md) (?)_
+-   **Enemies:** _Contractors, The Ministry [Ministryiconfaction](The_Ministry.md) (?)_
 -   **Lore Sources:** _ragoozer, [Windrunner](Windrunner.md)._
 
 -   Creators and source of power of the [Warmaster Oath](Oaths.md).[\[1\]](#cite-note-rag-1)
@@ -1366,7 +1366,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 
 -   Also known as Ironsong by other folk, Ironsing is the utilization of the Song to manipulate Metals and Steel.
     -   (Hive Tactician)There is no further evidence of Ironsing's origins or Lore, except for the [Hive Tactician Armor](Hive_Tactician_Armor.md). It's most likely that Ironsing was developed by The Hive.
--   The Hive held a monopoly on the Attunement, prior to the birth of [Adar](Adar.md), who spread it to the wider world.[\[6\]](#cite-note-arch-6)
+-   The Hive held a monopoly on the Attunement, prior to the birth of [Adar](Adar,_Master_of_Metal.md), who spread it to the wider world.[\[6\]](#cite-note-arch-6)
     -   Unfortunately, Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, shipped from The Central Luminant.[\[6\]](#cite-note-arch-6)
 
 ### Bloodrend
@@ -1374,7 +1374,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 **Lore Sources:** _Vyrelda_
 
 -   The power to control, manipulate, and conjure your own blood.
--   It is used as both a Ministry [Ministryiconfaction](Ministry.md) Oath and an Attunement.
+-   It is used as both a Ministry [Ministryiconfaction](The_Ministry.md) Oath and an Attunement.
     -   Vyrelda states that as an Oath, it is destructive and drains others lifeforce, but as an Attunement it is able to be "both a salve and a weapon".
 -   Bloodrend is only mainly accessible to those who swear an Oath to the Second Prophet of the Ministry, though the vows of the Oath can be changed, as in the case of Chaser and Vyrelda,
 
@@ -1485,7 +1485,7 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 
 ### Contractors
 
--   Contractors are people who had sworn an Oath to any of the Nine Prophets of The Ministry [Ministryiconfaction](Ministry.md), granting them a fraction of what that Prophet is capable of.
+-   Contractors are people who had sworn an Oath to any of the Nine Prophets of The Ministry [Ministryiconfaction](The_Ministry.md), granting them a fraction of what that Prophet is capable of.
 -   The Powers granted to a Contractor are not universal, as swearing the Oath to a different prophet may yield different results.
 -   Since the Oath is directly tied to the will of the Prophet, getting stronger means completing errands for them. In the case of Zi'eer, you are only tasked with banishing those who had sworn servitude under other causes in the Depths.
 -   The Oath effectively binds anyone in strict servitude of that Prophet and that Prophet alone. In other words, they become puppets and pawns of the Prophet's will.
@@ -1505,7 +1505,7 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 
 -   The titular Deepwoken are people who have consumed pieces of Drowned Gods, presumably 'waking' to the secrets of 'the deep.'[\[1\]](#cite-note-rag-1)
     -   A common theme in the world of Deepwoken is the fact that consuming something of power grants a transfer of power from the consumed, to the consuming.
--   There are three known Deepwoken, Amorus Pleeksty, Drallis Ehr and The First Prophet of the Ministry [Ministryiconfaction](Ministry.md) .[\[1\]](#cite-note-rag-1)
+-   There are three known Deepwoken, Amorus Pleeksty, Drallis Ehr and The First Prophet of the Ministry [Ministryiconfaction](The_Ministry.md) .[\[1\]](#cite-note-rag-1)
 -   Known to grant the user incredible power from the Drowned God they consumed a piece of.[\[1\]](#cite-note-rag-1)
     -   For example, Amorus Pleeksty became incredibly in tune with fire to the point of being able to communicate with it after consuming a piece of Korilfiend due to being the Drowned God of Fire.[\[1\]](#cite-note-rag-1)
 -   Becoming a Deepwoken grants you Immortality; the known Deepwoken, Pleeksty and the First Prophet, are over 1000 years old, living since the Tides or even the Old World.[\[1\]](#cite-note-rag-1)[\[6\]](#cite-note-arch-6)
@@ -1526,7 +1526,7 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 ### Whispers of Ardour
 
 -   An application of the Song that allows the user to channel the Murmur into raw strength.
-    -   It can be obtained by slaying the [Dread Serpent](Dread_Serpent.md); a beast that lurks within the [Voidsea](The_Void_Sea.md).
+    -   It can be obtained by slaying the [Dread Serpent](Dread_Serpent.md); a beast that lurks within the [Voidsea](Voidsea.md).
     -   Ardour is "the only known Murmur capable of wounding \[an [Edenkite](Edenkite.md)\]".
 -   Those who wield the power of Ardour are seen with weapons imbued with a purple slash effect, and their strikes are echoed with each succession.
     -   Focusing on the sounds of Ardour, whispers can be heard.
@@ -1616,7 +1616,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 -   Also known as The Waves, The Tides is a world-scale catastrophe that drowned the Old World after the Canticlysm; leading to the beginning of Deepwoken.
 -   The Tides were caused by the Drowned Gods; who were nearly awaken from their slumber by the people of the Canticlysm via the sound of the Song.
--   The Tide also drew the [Voidsea](The_Void_Sea.md) much closer to the Luminants, making it a gateway to both worlds between the surface and [The Depths](The_Depths.md), as well as drawing the Voidfog in and obscuring Constellia from the surface.
+-   The Tide also drew the [Voidsea](Voidsea.md) much closer to the Luminants, making it a gateway to both worlds between the surface and [The Depths](The_Depths.md), as well as drawing the Voidfog in and obscuring Constellia from the surface.
 
 ### The Great Drowning of Celtor
 
@@ -2071,7 +2071,7 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
         -   Corrupted bells are purple in the card drawing screen and are commonly a purple color.
         -   One of the known Krulians, The Ferryman, wields purple [Thundercall](Thundercall.md), though the only reason for him doing so is that he likes the color.
         -   Ethiron's Scion wields purple [Galebreathe](Galebreathe.md).
-        -   Pieces of the forge as well as the [Temple of the Forgotten Flame](Temple_of_the_Forgotten_Flame.md) sport purple fire, with both being connected to the Drowned God Korilfiend.
+        -   Pieces of the forge as well as the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md) sport purple fire, with both being connected to the Drowned God Korilfiend.
         -   The player, as they are not connected to any Gods, are unable to harness any sort of purple elements.
 
 ## Music
@@ -2137,7 +2137,7 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 
 1.  ↑ [1.00](#cite-ref-rag-1-0) [1.01](#cite-ref-rag-1-1) [1.02](#cite-ref-rag-1-2) [1.03](#cite-ref-rag-1-3) [1.04](#cite-ref-rag-1-4) [1.05](#cite-ref-rag-1-5) [1.06](#cite-ref-rag-1-6) [1.07](#cite-ref-rag-1-7) [1.08](#cite-ref-rag-1-8) [1.09](#cite-ref-rag-1-9) [1.10](#cite-ref-rag-1-10) [1.11](#cite-ref-rag-1-11) [1.12](#cite-ref-rag-1-12) [1.13](#cite-ref-rag-1-13) [1.14](#cite-ref-rag-1-14) [1.15](#cite-ref-rag-1-15) [1.16](#cite-ref-rag-1-16) [1.17](#cite-ref-rag-1-17) [1.18](#cite-ref-rag-1-18) [1.19](#cite-ref-rag-1-19) [1.20](#cite-ref-rag-1-20) [1.21](#cite-ref-rag-1-21) [1.22](#cite-ref-rag-1-22) [1.23](#cite-ref-rag-1-23) [1.24](#cite-ref-rag-1-24) [1.25](#cite-ref-rag-1-25) [1.26](#cite-ref-rag-1-26) [1.27](#cite-ref-rag-1-27) [1.28](#cite-ref-rag-1-28) [1.29](#cite-ref-rag-1-29) [1.30](#cite-ref-rag-1-30) [1.31](#cite-ref-rag-1-31) [1.32](#cite-ref-rag-1-32) [1.33](#cite-ref-rag-1-33) [1.34](#cite-ref-rag-1-34) [1.35](#cite-ref-rag-1-35) [1.36](#cite-ref-rag-1-36) [1.37](#cite-ref-rag-1-37) [1.38](#cite-ref-rag-1-38) [1.39](#cite-ref-rag-1-39) [1.40](#cite-ref-rag-1-40) [1.41](#cite-ref-rag-1-41) [1.42](#cite-ref-rag-1-42) [1.43](#cite-ref-rag-1-43) [1.44](#cite-ref-rag-1-44) [1.45](#cite-ref-rag-1-45) [1.46](#cite-ref-rag-1-46) [1.47](#cite-ref-rag-1-47) [1.48](#cite-ref-rag-1-48) [1.49](#cite-ref-rag-1-49) [1.50](#cite-ref-rag-1-50) [1.51](#cite-ref-rag-1-51) [1.52](#cite-ref-rag-1-52) [1.53](#cite-ref-rag-1-53) [1.54](#cite-ref-rag-1-54) [1.55](#cite-ref-rag-1-55) [1.56](#cite-ref-rag-1-56) [1.57](#cite-ref-rag-1-57) [1.58](#cite-ref-rag-1-58) [1.59](#cite-ref-rag-1-59) [1.60](#cite-ref-rag-1-60) [1.61](#cite-ref-rag-1-61) [1.62](#cite-ref-rag-1-62) [1.63](#cite-ref-rag-1-63) [1.64](#cite-ref-rag-1-64) [1.65](#cite-ref-rag-1-65) [1.66](#cite-ref-rag-1-66) [1.67](#cite-ref-rag-1-67) [1.68](#cite-ref-rag-1-68) Developer ragoozer
 2.  ↑ [2.0](#cite-ref-kamas-2-0) [2.1](#cite-ref-kamas-2-1) [2.2](#cite-ref-kamas-2-2) [2.3](#cite-ref-kamas-2-3) [Flareblood Kamas](Flareblood_Kamas.md) description
-3.  ↑ [3.0](#cite-ref-vy-3-0) [3.1](#cite-ref-vy-3-1) [3.2](#cite-ref-vy-3-2) [3.3](#cite-ref-vy-3-3) [3.4](#cite-ref-vy-3-4) [3.5](#cite-ref-vy-3-5) [Vyrelda](Vyrelda.md)
+3.  ↑ [3.0](#cite-ref-vy-3-0) [3.1](#cite-ref-vy-3-1) [3.2](#cite-ref-vy-3-2) [3.3](#cite-ref-vy-3-3) [3.4](#cite-ref-vy-3-4) [3.5](#cite-ref-vy-3-5) [Vyrelda](Vyrelda,_Master_of_Blood.md)
 4.  ↑ [4.0](#cite-ref-firstlight-4-0) [4.1](#cite-ref-firstlight-4-1) [First Light](First_Light.md) description
 5.  ↑ [5.0](#cite-ref-doc-5-0) [5.1](#cite-ref-doc-5-1) [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
 6.  ↑ [6.00](#cite-ref-arch-6-0) [6.01](#cite-ref-arch-6-1) [6.02](#cite-ref-arch-6-2) [6.03](#cite-ref-arch-6-3) [6.04](#cite-ref-arch-6-4) [6.05](#cite-ref-arch-6-5) [6.06](#cite-ref-arch-6-6) [6.07](#cite-ref-arch-6-7) [6.08](#cite-ref-arch-6-8) [6.09](#cite-ref-arch-6-9) [6.10](#cite-ref-arch-6-10) [6.11](#cite-ref-arch-6-11) [6.12](#cite-ref-arch-6-12) [6.13](#cite-ref-arch-6-13) [6.14](#cite-ref-arch-6-14) [6.15](#cite-ref-arch-6-15) [6.16](#cite-ref-arch-6-16) [6.17](#cite-ref-arch-6-17) [6.18](#cite-ref-arch-6-18) [6.19](#cite-ref-arch-6-19) [6.20](#cite-ref-arch-6-20) [6.21](#cite-ref-arch-6-21) [6.22](#cite-ref-arch-6-22) [6.23](#cite-ref-arch-6-23) [6.24](#cite-ref-arch-6-24) [6.25](#cite-ref-arch-6-25) [6.26](#cite-ref-arch-6-26) [6.27](#cite-ref-arch-6-27) [6.28](#cite-ref-arch-6-28) [6.29](#cite-ref-arch-6-29) [6.30](#cite-ref-arch-6-30) [6.31](#cite-ref-arch-6-31) [6.32](#cite-ref-arch-6-32) [6.33](#cite-ref-arch-6-33) [6.34](#cite-ref-arch-6-34) [6.35](#cite-ref-arch-6-35) [6.36](#cite-ref-arch-6-36) [6.37](#cite-ref-arch-6-37) [6.38](#cite-ref-arch-6-38) [6.39](#cite-ref-arch-6-39) [6.40](#cite-ref-arch-6-40) [6.41](#cite-ref-arch-6-41) [6.42](#cite-ref-arch-6-42) [6.43](#cite-ref-arch-6-43) [6.44](#cite-ref-arch-6-44) [6.45](#cite-ref-arch-6-45) [6.46](#cite-ref-arch-6-46) [6.47](#cite-ref-arch-6-47) [6.48](#cite-ref-arch-6-48) [6.49](#cite-ref-arch-6-49) [6.50](#cite-ref-arch-6-50) [6.51](#cite-ref-arch-6-51) [6.52](#cite-ref-arch-6-52) [6.53](#cite-ref-arch-6-53) [6.54](#cite-ref-arch-6-54) [6.55](#cite-ref-arch-6-55) [6.56](#cite-ref-arch-6-56) [6.57](#cite-ref-arch-6-57) [6.58](#cite-ref-arch-6-58) [6.59](#cite-ref-arch-6-59) [6.60](#cite-ref-arch-6-60) [6.61](#cite-ref-arch-6-61) [6.62](#cite-ref-arch-6-62) [6.63](#cite-ref-arch-6-63) [6.64](#cite-ref-arch-6-64) [6.65](#cite-ref-arch-6-65) [6.66](#cite-ref-arch-6-66) [6.67](#cite-ref-arch-6-67) [6.68](#cite-ref-arch-6-68) [6.69](#cite-ref-arch-6-69) [6.70](#cite-ref-arch-6-70) [6.71](#cite-ref-arch-6-71) [6.72](#cite-ref-arch-6-72) [6.73](#cite-ref-arch-6-73) Cite error: Invalid `<ref>` tag; no text was provided for refs named `arch`

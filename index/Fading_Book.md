@@ -10,7 +10,7 @@ categories: [Books]
 
 ## Description
 
-_**Fading Book**_ is a [Book](Book.md). This book is exclusively obtained when a different book is removed from the game.
+_**Fading Book**_ is a [Book](Books.md). This book is exclusively obtained when a different book is removed from the game.
 
 ## Text
 

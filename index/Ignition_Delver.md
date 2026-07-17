@@ -16,7 +16,7 @@ This content is not accessible outside of this gamemode.
 > 
 > ― Origin description
 
-_Ignition Delver_ is a PvE-focused [Origin](Origin.md), highly favoring, but not mandating, completing [Jobs](Job_Boards.md) and [Dungeons](Dungeons.md) for experience gain.
+_Ignition Delver_ is a PvE-focused [Origin](Origins.md), highly favoring, but not mandating, completing [Jobs](Job_Boards.md) and [Dungeons](Dungeons.md) for experience gain.
 
 ## Description
 
@@ -34,13 +34,13 @@ OR
 
 ## Spawn
 
-Delvers spawn with the [Union Initiate](Union_Initiate.md) Outfit equipped, 25, and the Union Card, Union Pager, and Union Hook Talents. You can choose to spawn at either [Miner's Landing](<Miner's_Landing.md>) or the [Chariot's Spire](<Chariot's_Spire.md>) by clicking their respective icons in Character Creation.
+Delvers spawn with the [Union Initiate](Union_Initiate.md) Outfit equipped, 25, and the Union Card, Union Pager, and Union Hook Talents. You can choose to spawn at either [Miner's Landing](<Miner's_Landing.md>) or the [Chariot's Spire](<The_Chariot's_Spire.md>) by clicking their respective icons in Character Creation.
 
 ## Effects
 
-All necessities at the [Chariot's Spire](<Chariot's_Spire.md>) will be accessible to you such as the [banker](Item_Bank.md), stove, and [antiquarian](Antiquarian.md). Additionally, you can use the [Hollow Forge](Hollow_Forge.md) at the Chariot's Spire or Miner's Landing to melt down [Pluripotent Alloys](Pluripotent_Alloy.md) into [Smith's Alloys](<Smith's_Alloy.md>) or [Armorer's Needles](<Armorer's_Needle.md>) or turn Smith's Alloys into Armorer's Needles and vice versa.
+All necessities at the [Chariot's Spire](<The_Chariot's_Spire.md>) will be accessible to you such as the [banker](Item_Bank.md), stove, and [antiquarian](Antiquarian.md). Additionally, you can use the [Hollow Forge](Hollow_Forge.md) at the Chariot's Spire or Miner's Landing to melt down [Pluripotent Alloys](Pluripotent_Alloy.md) into [Smith's Alloys](<Smith's_Alloy.md>) or [Armorer's Needles](<Armorer's_Needle.md>) or turn Smith's Alloys into Armorer's Needles and vice versa.
 
-If you escape the [Second Layer](Second_Layer.md) through the Deep Drill, you will be able to use the Deep Drill at [Chariot's Spire](<Chariot's_Spire.md>) to re-enter the Second Layer. This will spawn you at [The Frontier Furnace](The_Frontier_Furnace.md) with the power already turned on, skipping the [Bone Keeper](Bone_Keeper.md) fight. You will not have a [Light Hook](Light_Hook.md) if you do this.
+If you escape the [Second Layer](Second_Layer.md) through the Deep Drill, you will be able to use the Deep Drill at [Chariot's Spire](<The_Chariot's_Spire.md>) to re-enter the Second Layer. This will spawn you at [The Frontier Furnace](The_Frontier_Furnace.md) with the power already turned on, skipping the [Bone Keeper](Bone_Keeper.md) fight. You will not have a [Light Hook](Light_Hook.md) if you do this.
 
 ### Union Card
 
@@ -69,10 +69,10 @@ If you escape the [Second Layer](Second_Layer.md) through the Deep Drill, you wi
 -   Jobs are one of the most popular progression methods and this Origin is tailored to them.
 -   You start with the [Union Hook](Talents.md#union-hook) Talent, providing greater navigation options in the Overworld and Second Layer.
 -   [Union Initiate](Union_Initiate.md) is the only outfit in the game that grants [Carry Load](Carry_Load.md), making this Origin a must have for bank slots.
--   Allows you to use all necessities at the [Chariot's Spire](<Chariot's_Spire.md>) such as the Banker, stove, and Antiquarian. Additionally, being at the Chariot's Spire will passively regenerate your Sanity.
+-   Allows you to use all necessities at the [Chariot's Spire](<The_Chariot's_Spire.md>) such as the Banker, stove, and Antiquarian. Additionally, being at the Chariot's Spire will passively regenerate your Sanity.
     -   However, you still won't be able to enter the Chariot's Spire through the main entrance way if you've drowned, unlike [Deepbound](Deepbound.md).
 -   The [Hollow Forge](Hollow_Forge.md) is an exceptionally useful item for transfusing lesser used Relics into ones that are more desirable.
--   If you've already escaped the [Second Layer](Second_Layer.md) via the Deep Drill at least once on your character, you will be able to use the Deep Drill at the [Chariot's Spire](<Chariot's_Spire.md>) to reenter the Second Layer. This will spawn you in the [Frontier Furnace](Frontier_Furnace.md) with the Generator already turned on, skipping a decent chunk of the dungeon.
+-   If you've already escaped the [Second Layer](Second_Layer.md) via the Deep Drill at least once on your character, you will be able to use the Deep Drill at the [Chariot's Spire](<The_Chariot's_Spire.md>) to reenter the Second Layer. This will spawn you in the [Frontier Furnace](The_Frontier_Furnace.md) with the Generator already turned on, skipping a decent chunk of the dungeon.
     -   You can bring up to 4 other players with you.
     -   However, you, and all other players you bring along, will not have a [Light Hook](Light_Hook.md).
 
@@ -86,7 +86,7 @@ If you escape the [Second Layer](Second_Layer.md) through the Deep Drill, you wi
 Your starting reputation is:
 
 -   **Friend** of [The Ignition Union](The_Ignition_Union.md), and [Lost Celtor](Lost_Celtor.md).
--   **Enemy** of [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](Knives_of_Eylis.md), [The Ministry](The_Ministry.md) [Ministryiconfaction](Ministry.md), [The Hundred Legions](The_Hundred_Legions.md) and [The Summer Company](The_Summer_Company.md) [Summericonfaction](The_Summer_Company.md)
--   **Neutral** with all other [factions](Factions.md) [Diversiconfaction](Divers.md) [Authorityiconfaction](Central_Authority.md) [Hiveiconfaction](Hive.md) [Navaeiconfaction](Children_of_Navae.md) [Etreaiconfaction](Etrea.md) [Etrean Royalistsiconfaction](Etrean_Royalists.md)
+-   **Enemy** of [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md), [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md), [The Hundred Legions](The_Hundred_Legions.md) and [The Summer Company](The_Summer_Company.md) [Summericonfaction](The_Summer_Company.md)
+-   **Neutral** with all other [factions](Factions_&_Groups.md) [Diversiconfaction](The_Divers.md) [Authorityiconfaction](The_Central_Authority.md) [Hiveiconfaction](The_Hive.md) [Navaeiconfaction](The_Children_of_Navae.md) [Etreaiconfaction](Etrea.md) [Etrean Royalistsiconfaction](Etrean_Royalists.md)
 
 _Note: your chosen [aspect](Aspects.md) may affect your starting reputation._

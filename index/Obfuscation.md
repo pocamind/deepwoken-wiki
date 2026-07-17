@@ -18,13 +18,13 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Obfuscation is a stat-buffing [enchantment](Enchantment.md) that grants chip damage to your weapon.
+Obfuscation is a stat-buffing [enchantment](Enchantments.md) that grants chip damage to your weapon.
 
 ## Effect
 
 Obfuscation grants your weapon chip damage, with the amount of chip damage gained being based on your weapon type. The chip damage Obfuscation gives is **additive** to your weapon's chip damage stat.
 
-[Light Weapons](Light_Weapons.md) gain +15% chip damage, [Medium Weapons](Medium_Weapons.md) gain +20% chip damage, and [Heavy Weapons](Heavy_Weapons.md) gain +25% chip damage.
+Light Weapons gain +15% chip damage, Medium Weapons gain +20% chip damage, and Heavy Weapons gain +25% chip damage.
 
 ### Notes
 

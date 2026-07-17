@@ -21,7 +21,7 @@ The path ahead is not a forgiving one. ”
 
 Vow of Iron is one of two Paths (gamemodes) available in _Deepwoken_, the other being [Pathfinder](Pathfinder.md).
 
-In Vow of Iron, you relive the events of [Zi'eer's](<Zi'eer,_the_Fourth_Prophet.md>) rise to power in 1233 CE through [Mementos](Mementos.md), the memories of the fallen that you, [The Inheritor](The_Inheritor.md), wield in an attempt to find a detail or weakness that would allow the [Circle of Honor](Circle_of_Honor.md) to defeat Zi'eer in present days.
+In Vow of Iron, you relive the events of [Zi'eer's](<Zi'eer,_the_Fourth_Prophet.md>) rise to power in 1233 CE through [Mementos](Mementos.md), the memories of the fallen that you, [The Inheritor](The_Inheritor.md), wield in an attempt to find a detail or weakness that would allow the [Circle of Honor](Circle_of_Honour.md) to defeat Zi'eer in present days.
 
 Vow of Iron is, in essence, a hard mode of _Deepwoken_. Featuring new enemies, bosses, restricted and tweaked progression, and a new map, showcasing Lumen as it was 38 years before the arrival of the Pathfinder.
 
@@ -38,7 +38,7 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
 -   [Gliders](Gliders.md) have unlimited uses.
 -   The [Echo](Echoes.md) system is entirely absent in Vow of Iron. You will not gain your Echo Talents or bonuses from the Echo Upgrades and Unlocks you've purchased in Pathfinder.
     -   The Roguelite aspect of progression in this gamemode is obtaining new Mementos.
--   Vow of Iron features a separate [Aspect](Aspect.md) slot used exclusively for the mode. You can swap between your Pathfinder and Vow of Iron aspect freely in the character creation menu. You cannot use your Vow of Iron Aspect in Pathfinder.
+-   Vow of Iron features a separate [Aspect](Aspects.md) slot used exclusively for the mode. You can swap between your Pathfinder and Vow of Iron aspect freely in the character creation menu. You cannot use your Vow of Iron Aspect in Pathfinder.
     -   There are also unique Aspects available in Vow of Iron, and all Aspects receive an additional new [innate Talent](Talents.md#innate).
     -   Purchasing an Aspect Reroll [Robux](https://roblox.fandom.com/wiki/Robux) on either gamemode will give you an **Aspect Reroll Token** for the opposite gamemode. This allows you to reroll your Aspect for free. Reroll Tokens are account wide and can be cashed in on any slot.
 -   A lot of Pathfinder NPCs are absent, with Vow of Iron counterparts.
@@ -65,7 +65,7 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
 
 -   Vow of Iron has no passive health regeneration whatsoever. Most damage you take is semi permanent, unless you have access to some of the rare sources of healing available.
     -   [Etris Flasks](Etris_Flask.md) can be quickly drank to restore 50% HP (60% with [Etrean](Etrean.md)). However, this is a limited resource that will only be refilled by returning to [The Cerebral Spire](The_Cerebral_Spire.md), entering [The Depths](<The_Depths_(Vow_of_Iron).md>), or by escaping The Depths. Upon creating your character, you will only have 1 Etris Flask charge, but more charges can be bought across the Luminant.
-    -   [Campfires](Campfire.md) can still be used to restore your health.
+    -   [Campfires](Campfire_Pit.md) can still be used to restore your health.
     -   Health Packs only grants 5% HP. Enemies in The Depths provide no Health Packs.
     -   Entering a Boundary will heal you to full however. (You can also enter a Boundary while being Combat Tagged.)
 -   Vow of Iron characters have a permanently stained health bar. Any death will send them to The Depths.

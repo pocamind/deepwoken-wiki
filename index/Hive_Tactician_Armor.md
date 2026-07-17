@@ -24,19 +24,19 @@ categories: [Outfits, Expert Outfits, The Hive, Outfits with Talents, Outfits wi
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Hive Tactician Armor** or Tactician is an Expert [Outfit](Outfit.md) in _Deepwoken_.
+**Hive Tactician Armor** or Tactician is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit has no cost and requires five (5) [Cloth](Cloth.md), two (2) [Iron](Iron.md), two (2) [Dark Feathers](Dark_Feather.md) and three (3) [Vibrant Gems](Vibrant_Gem.md) to craft.
+This Outfit has no cost and requires five (5) [Cloth](Cloth.md), two (2) [Iron](Ores.md#iron), two (2) [Dark Feathers](Dark_Feather.md) and three (3) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to craft.
 
-This Outfit additionally requires the player to be at least [Power](Power.md) 10 and have at least 25 [Agility](Agility.md) to be crafted.
+This Outfit additionally requires the player to be at least [Power](Power.md) 10 and have at least 25 [Agility](Attributes.md#agl) to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 1200 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +20% Elemental resistance [ResistanceElemental](Attunement.md), +15% Ironsing resistance [ResistanceIronsing](Ironsing.md), and 10% Wind resistance [ResistanceGalebreathe](Galebreathe.md). Additionally, it provides the [Brunt](Talents.md#brunt) Talent.
+This Outfit has 1200 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +20% Elemental resistance [ResistanceElemental](Attunements.md), +15% Ironsing resistance [ResistanceIronsing](Ironsing.md), and 10% Wind resistance [ResistanceGalebreathe](Galebreathe.md). Additionally, it provides the [Brunt](Talents.md#brunt) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 32% Ironsing [ResistanceIronsing](Ironsing.md), 28% Galebreathe [ResistanceGalebreathe](Galebreathe.md), and 20% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 

@@ -23,7 +23,7 @@ categories: [Treasures, Craftable]
 
 ## Description
 
-_Ashes_, not to be confused with the [Sinner's Ash](<Sinner's_Ash.md>) is an item that can be crafted at any [campfire](Campfire.md), only requiring 1 [Wood](Wood.md) to be crafted.
+_Ashes_, not to be confused with the [Sinner's Ash](<Sinner's_Ash.md>) is an item that can be crafted at any [campfire](Campfire_Pit.md), only requiring 1 [Wood](Wood.md) to be crafted.
 
 ## Trivia
 

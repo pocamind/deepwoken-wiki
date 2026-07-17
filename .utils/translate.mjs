@@ -1,13 +1,23 @@
 // Denoise MediaWiki action=parse JSON into markdown
 // usage: node translate.mjs <parse.json> [outdir]
-import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
+import { readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
 import { join, dirname, posix } from "node:path";
-import { pathToFileURL } from "node:url";
+import { pathToFileURL, fileURLToPath } from "node:url";
 import * as cheerio from "cheerio";
 import TurndownService from "turndown";
 import { gfm } from "turndown-plugin-gfm";
 
 const WIKI_BASE = "https://deepwoken.fandom.com/wiki/";
+const REDIRECTS_FILE = join(dirname(fileURLToPath(import.meta.url)), "state", "redirects.json");
+
+// ns 0 redirect map (title -> {to, fragment}), maintained by scrape.mjs. loaded
+// lazily so a refresh earlier in the same run is picked up. links resolve
+// through this because redirect pages themselves are not mirrored.
+let REDIRECTS;
+function redirects() {
+    REDIRECTS ??= existsSync(REDIRECTS_FILE) ? JSON.parse(readFileSync(REDIRECTS_FILE, "utf8")) : {};
+    return REDIRECTS;
+}
 
 // title -> repo path. one rule, used for both filenames and rewritten links.
 // slashes in titles nest as folders (route /wiki/A/B -> A/B.md); characters
@@ -136,14 +146,23 @@ export function translate(parse) {
         }
         if (href.startsWith("/wiki/")) {
             const target = decodeURIComponent(href.slice("/wiki/".length));
-            const [page, section] = target.split("#");
-            if (/^(File|Category|Special|Template|Help|User.*):/.test(page)) {
+            const [rawPage, section] = target.split("#");
+            // resolve redirect titles to the page they land on; the link's own
+            // section wins over the redirect's stored fragment
+            let page = rawPage.replace(/_/g, " ");
+            let frag = section;
+            for (let hops = 0; redirects()[page] && hops < 5; hops++) {
+                const r = redirects()[page];
+                frag ??= r.fragment;
+                page = r.to;
+            }
+            if (/^(File|Category|Special|Template|Help|User.*|Deepwoken Wiki|Map|Blog|Forum|Board|Thread|Message Wall|MediaWiki|Module):/.test(page)) {
                 $a.replaceWith($a.text());
                 return;
             }
-            const anchor = section ? "#" + section.toLowerCase().replace(/[^\w\- ]/g, "").replace(/[ _]/g, "-") : "";
+            const anchor = frag ? "#" + frag.toLowerCase().replace(/[^\w\- ]/g, "").replace(/[ _]/g, "-") : "";
             // literal % in a slug must be double-encoded so URL-decoding renderers resolve the file
-            $a.attr("href", page ? posix.relative(selfDir, slug(page.replace(/_/g, " "))).replace(/%/g, "%25") + anchor : anchor);
+            $a.attr("href", page ? posix.relative(selfDir, slug(page)).replace(/%/g, "%25") + anchor : anchor);
         }
         // external links keep their absolute href
     });

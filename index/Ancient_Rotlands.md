@@ -18,13 +18,13 @@ The scent of decay suffocates this murky land, once the home of a fallen Celesti
 
   
 
-**Ancient Rotlands** is a [location](Location.md) in Deepwoken. It is a [Voidzone](Voidzone.md) area found in the [Eastern Luminant](Eastern_Luminant.md).
+**Ancient Rotlands** is a location in Deepwoken. It is a [Voidzone](Voidzones.md) area found in the [Eastern Luminant](Luminants.md).
 
 ## Overview
 
 The Ancient Rotlands is a location in the [Songseeker Wilds](Songseeker_Wilds.md). The area is a murky, large swamp littered with strange flora, with [Nightmare Threshers](Nightmare_Thresher.md) and [Maljurors](Maljuror.md) lurking.
 
-The Ancient Rotlands is a **[Voidzone](Voidzone.md)**, meaning you will be sent to [The Depths](The_Depths.md) if you die in the area.
+The Ancient Rotlands is a **[Voidzone](Voidzones.md)**, meaning you will be sent to [The Depths](The_Depths.md) if you die in the area.
 
 ## Contents
 
@@ -35,7 +35,7 @@ The Ancient Rotlands is a **[Voidzone](Voidzone.md)**, meaning you will be sent 
 ### Deep Cave
 
 -   Upon entering a small opening atop a cliff inside the Rotlands, the player will find themselves in a large cave with numerous pillars.
--   Dropping deep into the cave will lead to a partially-flooded area that is supposed to spawn [Deep Angels](Deep_Angel.md), but it is currently bugged and just spawns a chest with many useful [rings](Rings.md).
+-   Dropping deep into the cave will lead to a partially-flooded area that is supposed to spawn [Deep Angels](Deep_Angel.md), but it is currently bugged and just spawns a chest with many useful [rings](Equipment.md#rings).
     -   To escape the cave, the player must interact with the fountain at the bottom, slowly flooding the entire area until they are up.
 
 ### Derelict Highchurch

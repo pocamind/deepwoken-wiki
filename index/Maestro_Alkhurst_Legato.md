@@ -29,7 +29,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 Maestro Alkhurst Legato is an [Etrean](Etrean.md) NPC. He was a figure of note among the [Circle of Honour](Circle_of_Honour.md).
 
-Legato was the previous [Maestro](Maestro.md) before [Evengarde Rest](Evengarde_Rest.md), and the successor of [Maestro Nocturne](Maestro_Nocturne.md). In his youth, he trained with [High Monk Junsui](High_Monk_Junsui.md) and later tutored the Vigils alongside [Dravik](Dravik.md) before their ways parted.
+Legato was the previous [Maestro](Maestro.md) before [Evengarde Rest](Evengarde_Rest.md), and the successor of [Maestro Nocturne](<Nocturne_(individual).md>). In his youth, he trained with [High Monk Junsui](High_Monk_Junsui.md) and later tutored the Vigils alongside [Dravik](<Dravik,_the_Rat_King_(NPC).md>) before their ways parted.
 
 Legato is a notably aged man. His hair is short and black with bangs parting away in a symmetrical manner, with a good portion tied into a ponytail. He dons a stern expression through his cerulean eyes, and has a slight scar on the left side of his cheek. To the right of his head is a glowing white "crown" in the shape of three four-pronged stars connected with each other, signifying that he is a [Warmaster](Oaths.md).
 

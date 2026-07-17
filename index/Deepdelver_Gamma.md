@@ -37,7 +37,7 @@ Deepdelver Gamma is located in [The Depths](The_Depths.md) in [The Chariot's Spi
 
 **Unlockable Dialogue:**
 
-This dialogue is unlocked if the player is the [Ignition Delver](Ignition_Delver.md) [Origin](Origin.md).
+This dialogue is unlocked if the player is the [Ignition Delver](Ignition_Delver.md) [Origin](Origins.md).
 
 <table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>How's work treatin' ya, recruit?</td></tr><tr><td>Who are you?</td></tr><tr><td>[See Base Dialogue]</td></tr></tbody></table>
 

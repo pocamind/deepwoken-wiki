@@ -18,7 +18,7 @@ categories: [Enchantments, Equipment Enchantments, The Vat Exclusive]
 
 ## Description
 
-Rain is a [Gaunt Man](Gaunt_Man.md)\-exclusive equipment [enchantment](Enchantment.md) that creates a moderate sized rain cloud on proc.
+Rain is a [Gaunt Man](The_Gaunt_Man.md)\-exclusive equipment [enchantment](Enchantments.md) that creates a moderate sized rain cloud on proc.
 
 ## Effect
 
@@ -28,9 +28,9 @@ The rain this enchantment creates functions identically to normal rain, reducing
 
 If you have the [**Chilling**](Chilling.md) Enchantment on your weapon, if it's [Winter](Seasons.md), or if you're in a location with a low climate like [Minityrsa](Minityrsa.md), create snow instead, increasing the damage of your [Frostdraw](Frostdraw.md).
 
-If you have the [**Stench**](Stench.md) on another equipment piece, or if you are in [Upper Erisia](Upper_Erisia.md), create an acid rain cloud instead. This will damage yourself and all players in its AoE, however you will become immune to the damage it deals if you have the [Survivalist](Survivalist.md) Boon. Lasts 15 seconds instead of the standard 27.5 seconds.
+If you have the [**Stench**](Stench.md) on another equipment piece, or if you are in [Upper Erisia](Upper_Erisia.md), create an acid rain cloud instead. This will damage yourself and all players in its AoE, however you will become immune to the damage it deals if you have the [Survivalist](Boons_and_Flaws.md#survivalist) Boon. Lasts 15 seconds instead of the standard 27.5 seconds.
 
 ### Notes
 
 -   **If you have not completed [The Gaunt Man](The_Gaunt_Man.md)'s trial on your character, this enchantment will not work.**
--   This enchantment is best used with [Thundercall](Thundercall.md), the [Storm](Storm.md) or [Stormbreaker](Stormbreaker.md) weapon enchantments, [Chilling](Chilling.md) enchantment + [Frostdraw](Frostdraw.md), or [Survivalist](Survivalist.md) + [Stench](Stench.md) enchantment for various synergies.
+-   This enchantment is best used with [Thundercall](Thundercall.md), the [Storm](Storm.md) or [Stormbreaker](Stormbreaker.md) weapon enchantments, [Chilling](Chilling.md) enchantment + [Frostdraw](Frostdraw.md), or [Survivalist](Boons_and_Flaws.md#survivalist) + [Stench](Stench.md) enchantment for various synergies.

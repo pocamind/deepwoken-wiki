@@ -18,7 +18,7 @@ A land lost to time, now made a battleground for warriors who know not why they 
 
   
 
-**Upper Erisia** is a [location](Locations.md) in _Deepwoken_. It is one half of [Erisia](Erisia.md), sharing the island with [Lower Erisia](Lower_Erisia.md).
+**Upper Erisia** is a location in _Deepwoken_. It is one half of [Erisia](Erisia.md), sharing the island with [Lower Erisia](Lower_Erisia.md).
 
 ## Overview
 
@@ -28,9 +28,9 @@ Upper Erisia is home to many sub-locations and is home to a variety of NPCs and 
 
 -   [Burning Stone Gardens](Burning_Stone_Gardens.md)
 -   [Towerstruck Lands](Towerstruck_Lands.md)
--   [Temple of the Forgotten Flame](Temple_of_the_Forgotten_Flame.md)
+-   [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md)
     -   [Temple Courtyard](Temple_Courtyard.md)
--   [Lord Erisia's Manor](<Lord_Erisia's_Manor.md>)
+-   [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>)
 -   [Erisor's Church](<Erisor's_Church.md>)
 -   [The Hidden Village](The_Hidden_Village.md)
 -   [The Garden Reservoir](The_Garden_Reservoir.md)
@@ -45,8 +45,8 @@ Events that spawn in Upper Erisia that could potentially involve combat. For mor
 -   [Deep Owl](Deep_Owl.md)
 -   [Terrapod](Terrapod.md)
 -   [Golden Warrior](Golden_Warrior.md)
--   [Etrean Soldiers](Etrean_Soldier.md) vs [Authority Footsoldiers](Authority_Footsoldier.md)
--   [Legion Soldiers](Legion_Soldier.md) vs [Authority Footsoldiers](Authority_Footsoldier.md)
+-   [Etrean Soldiers](Etrean_Soldier.md) vs [Authority Footsoldiers](Authority_Officer.md)
+-   [Legion Soldiers](Legion_Soldier.md) vs [Authority Footsoldiers](Authority_Officer.md)
 -   [Knives of Eylis](Knife_of_Eylis.md) beating up [Nomad Hostage](Navaen_Hostage.md)
 -   Rock Golem vs Terrapod
 

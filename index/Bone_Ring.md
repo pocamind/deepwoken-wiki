@@ -29,8 +29,8 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The **Bone Ring** is a Ring [Relic](Relic.md) [Equipment](Equipment.md). It enhances all bone-related attacks you do.
+The **Bone Ring** is a Ring [Relic](Relics.md) [Equipment](Equipment.md). It enhances all bone-related attacks you do.
 
 -   [Osseous Surge](Talents.md#osseous-surge) from [Marrowmade Boots](Marrowmade_Boots.md) gains a 50% damage buff.
--   [Brachial Spear](Brachial_Spear.md) gains a 30 damage increase.
--   [Bone Wisp](Bone_Wisp.md) proc cooldown is reduced to 1 second, and its charges is increased from 3 to 5.
+-   [Brachial Spear](Monster_Mantras.md#brachial-spear) gains a 30 damage increase.
+-   [Bone Wisp](Monster_Mantras.md#bone-wisp) proc cooldown is reduced to 1 second, and its charges is increased from 3 to 5.

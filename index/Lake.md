@@ -25,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 Lake is a [Chrysid](Chrysid.md) NPC. She is a native of the [Lullaby Isles](Lullaby_Isles.md), specifically Daphnes, who got lost and somehow found herself in the [Songseeker Wilds](Songseeker_Wilds.md).
 
-Lake somehow ended up in the [Eastern Luminant](Eastern_Luminant.md), wherein she encountered a band of sailors. Thinking the Songseeker Wilds were her home, she had them take her there. As she explored, she ran afoul of some [Songseekers](Songseeker.md).
+Lake somehow ended up in the [Eastern Luminant](Luminants.md), wherein she encountered a band of sailors. Thinking the Songseeker Wilds were her home, she had them take her there. As she explored, she ran afoul of some [Songseekers](Songseeker.md).
 
 She wears the [Scholar](Scholar.md) [Outfit](Outfits.md).
 
@@ -39,7 +39,7 @@ Lake is inside a cave within [Songseeker Wilds](Songseeker_Wilds.md).
 
 ## Trivia
 
--   Lake used to be sat on the broken bridge opposite the [Temple of the Forgotten Flame](Temple_of_the_Forgotten_Flame.md).
+-   Lake used to be sat on the broken bridge opposite the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
 -   Lake's hair IDs are:
     -   8994112527 for the ponytail
     -   9678815144 for the short hair/bangs

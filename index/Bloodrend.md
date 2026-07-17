@@ -16,7 +16,7 @@ Bloodrend Icon
 
 ## Description
 
-**Bloodrend** is an [Attunement](Attunement.md) that grants the user the ability to control, manipulate, and conjure their own and other's [blood](https://deepwoken.fandom.com/wiki/Combat_Mechanics#Survival_Basics).
+**Bloodrend** is an [Attunement](Attunements.md) that grants the user the ability to control, manipulate, and conjure their own and other's [blood](https://deepwoken.fandom.com/wiki/Combat_Mechanics#Survival_Basics).
 
 Bloodrenders excel in long fights, their power ramping up as the fight goes on due to the effects applied to enemies from Blood Poison and Blood Drain. They can counter their opponents' sustain while using sustain to benefit themselves. However, Bloodrend is difficult to make use of outside of single target combat, as blood poison decays, making it hard to achieve high percentages of it against multiple enemies.
 
@@ -26,7 +26,7 @@ Bloodrenders can leverage the **Hemorrhaging** mechanic, dealing 17.5% (scaling 
 
 ## Obtainment
 
-The [Attunement Trainer](Attunement_Trainers.md), [Vyrelda](Vyrelda.md), can be located in an igloo on the east side of Firfire Village, caring for an injured diver. She is only visible after having killed [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) at least once. After killing Chaser, re-enter Layer 2 and go talk with Vyrelda - she will talk about her desertion from [The Ministry](The_Ministry.md), and how she evaded the Ministry for so long, who are searching for her. She mentions "Bloodrend" and how she only wished to be taught under the Second Prophet for purely the attunement.
+The [Attunement Trainer](Attunement_Trainers.md), [Vyrelda](Vyrelda,_Master_of_Blood.md), can be located in an igloo on the east side of Firfire Village, caring for an injured diver. She is only visible after having killed [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) at least once. After killing Chaser, re-enter Layer 2 and go talk with Vyrelda - she will talk about her desertion from [The Ministry](The_Ministry.md), and how she evaded the Ministry for so long, who are searching for her. She mentions "Bloodrend" and how she only wished to be taught under the Second Prophet for purely the attunement.
 
 After Vyrelda's backstory, the player will be prompted to request for Bloodrend. Vyrelda agrees to teach the latter under the condition that the player deals with some [Ministry Bloodrenders](Ministry_Bloodrender.md) to gain [Heartstars](Heartstar.md) from their corpses.
 
@@ -34,11 +34,11 @@ Walk out the building, and run around the village for a while. The blood-renders
 
 \***You don't have to re-kill Chaser to keep the Attunement, you can keep it by using a [Light Hook](Light_Hook.md) to leave L2**
 
-After having unlocked Bloodrend at least once, [Vyrelda](Vyrelda.md) will be available at [The Derelict Highchurch](Derelict_Highchurch.md), where she will request 2 [Heartstars](Heartstar.md) for the [Attunement](Attunement.md) (you can easily obtain them via the ministry agents that spawn right outside of the church after talking to her.) It will also be available from the [character creation](Character_Creation.md) screen. She can train your mantras in exchange for Notes.
+After having unlocked Bloodrend at least once, [Vyrelda](Vyrelda,_Master_of_Blood.md) will be available at [The Derelict Highchurch](Derelict_Highchurch.md), where she will request 2 [Heartstars](Heartstar.md) for the [Attunement](Attunements.md) (you can easily obtain them via the ministry agents that spawn right outside of the church after talking to her.) It will also be available from the [character creation](Character_Creation.md) screen. She can train your mantras in exchange for Notes.
 
 ## Training
 
-Bloodrend can be trained by using the [Tourniquet](Tourniquet.md) to increase the attribute after landing Bloodrend Mantras to gain enough EXP.
+Bloodrend can be trained by using the [Tourniquet](Training_Gear.md#attunement-training-gears) to increase the attribute after landing Bloodrend Mantras to gain enough EXP.
 
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 
@@ -47,7 +47,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At 30 Bloodrend, players will receive the _Expert Bloodrender_ Talent. This allows players to obtain 2-star Bloodrend Mantras.
 -   Finally, at 50 Bloodrend, players will receive the _Master Bloodrender_ Talent. This allows players to obtain 3-star Bloodrend Mantras.
 
-You can speak to [Vyrelda](Vyrelda.md) at the [Derelict Highchurch](Derelict_Highchurch.md) or a [Mantra Lectern](Mantra_Lectern.md) to upgrade your Bloodrend Mantras for 100 each. Each upgrade purchased will make the next upgrade for the same Mantra 100 more expensive.
+You can speak to [Vyrelda](Vyrelda,_Master_of_Blood.md) at the [Derelict Highchurch](Derelict_Highchurch.md) or a [Mantra Lectern](Mantra_Lectern.md) to upgrade your Bloodrend Mantras for 100 each. Each upgrade purchased will make the next upgrade for the same Mantra 100 more expensive.
 
 -   To upgrade a Bloodrend Mantra from level 1 to level 2 costs 100 and 20 Bloodrend investment.
 -   To upgrade a Bloodrend Mantra from level 2 to level 3 costs 200 and 40 Bloodrend investment.
@@ -66,7 +66,7 @@ Cantrips are, often minor, passive abilities that are granted upon obtaining any
 
 ### Bloodless
 
-This Cantrip visually hides the blood splotches that appear on the player's [Outfit](Outfit.md) when at low health. This is purely visual.
+This Cantrip visually hides the blood splotches that appear on the player's [Outfit](Outfits.md) when at low health. This is purely visual.
 
 The [Not a Scratch](Talents.md#not-a-scratch) Talent also provides this effect, among other things.
 
@@ -74,7 +74,7 @@ The [Not a Scratch](Talents.md#not-a-scratch) Talent also provides this effect, 
 
 This Cantrip allows the player to consume raw meat-type [Food](Food.md) items without vomiting. Even still, eating raw meat isn't very recommended, as the cooked versions provide significantly more sustenance and may grant additional buffs on consumption.
 
-[Vegetarian](Vegetarian.md) Bloodrenders may still vomit upon comsuming meat-type Food items.
+[Vegetarian](Boons_and_Flaws.md#vegetarian) Bloodrenders may still vomit upon comsuming meat-type Food items.
 
 ## Mantras
 
@@ -283,7 +283,7 @@ _Leap into the air and slam down with vengeance._
 
  | 
 
-Blood [ResistanceBloodrend](Bloodrend.md) + [Bleed](Bleed.md)
+Blood [ResistanceBloodrend](Bloodrend.md) + [Bleed](Status_Effects.md#bleed)
 
  | 
 
@@ -711,8 +711,8 @@ Blood [ResistanceBloodrend](Bloodrend.md)
 -   Deals 24/28/32/36/40 base damage per level, 15 posture, 0.65s windup(dive), 0.25s windup(rise) has 14s CD at level 5
 -   Has 9.18x PVE scaling
 -   Leaves behind a Blood Pool
--   Shares a cooldown with similar Mantras [Beast Burrow](Beast_Burrow.md) and [Shade Step](Shade_Step.md)
--   Functions similar to [Beast Burrow](Beast_Burrow.md). After ~3 seconds, or if you are near someone, you will be forced to surface from the blood pool.
+-   Shares a cooldown with similar Mantras [Beast Burrow](Monster_Mantras.md#beast-burrow) and [Shade Step](Shadowcast.md#shade-step)
+-   Functions similar to [Beast Burrow](Monster_Mantras.md#beast-burrow). After ~3 seconds, or if you are near someone, you will be forced to surface from the blood pool.
 -   This mantra can be ended early pressing M1.
 -   While this mantra is active, you can **reload** your gun (1H) inside of it
 -   Has a shorter windup if used while user is standing on a Blood Pool
@@ -964,10 +964,10 @@ These are Talents found in "_Quack Doctor_" Category.
     -   70% - _Gruesome Harvest_ Talent is Activatable
         -   _**Gruesome Harvest**_ - Landing Bloodrend mantras on opponents will give you 15 temporary health.
 -   The [Ironsing](Ironsing.md) Talent, Alloyblood changes the color of your Bloodrend mantras to a grey-ish blue.
--   Chaser seems to be using his own version of Bloodrend - tailored and handcrafted by none other than the Second Prophet, as said in [Vyrelda](Vyrelda.md)'s dialogue, which is special.
--   While Bloodrend might seem like it'd be a good counter against [Curse of the No Life King](Curse_of_the_No_Life_King.md) users and people with the [Haemophilia](Haemophilia.md) Flaw, Bloodrend Mantra blood drain is actually entirely unaffected by blood damage modifiers.
--   The blood cost for casting Bloodrend Mantras is also completely unaffected by blood damage modifiers like [Alloyblood](Talents.md#alloyblood), [Cauterized Wounds](Talents.md#cauterized-wounds), [Curse of the No Life King](Curse_of_the_No_Life_King.md) Enchant, and the aforementioned [Haemophilia](Haemophilia.md) Flaw; removing the possible synergy between Bloodrend and [Bloodforged Crown](Bloodforged_Crown.md).
--   Attempting to complete [Vyrelda](Vyrelda.md)'s quest with multiple people will only spawn three enemies. These enemies will respawn upon talking to her again on another run. Along with this, [Heartstars](Heartstar.md) are not affected by Light Hook, allowing you to save them for other Layer 2 runs if you end up with only 1 or 2 instead of 3.
+-   Chaser seems to be using his own version of Bloodrend - tailored and handcrafted by none other than the Second Prophet, as said in [Vyrelda](Vyrelda,_Master_of_Blood.md)'s dialogue, which is special.
+-   While Bloodrend might seem like it'd be a good counter against [Curse of the No Life King](Curse_of_the_No_Life_King.md) users and people with the [Haemophilia](Boons_and_Flaws.md#haemophilia) Flaw, Bloodrend Mantra blood drain is actually entirely unaffected by blood damage modifiers.
+-   The blood cost for casting Bloodrend Mantras is also completely unaffected by blood damage modifiers like [Alloyblood](Talents.md#alloyblood), [Cauterized Wounds](Talents.md#cauterized-wounds), [Curse of the No Life King](Curse_of_the_No_Life_King.md) Enchant, and the aforementioned [Haemophilia](Boons_and_Flaws.md#haemophilia) Flaw; removing the possible synergy between Bloodrend and [Bloodforged Crown](Bloodforged_Crown.md).
+-   Attempting to complete [Vyrelda](Vyrelda,_Master_of_Blood.md)'s quest with multiple people will only spawn three enemies. These enemies will respawn upon talking to her again on another run. Along with this, [Heartstars](Heartstar.md) are not affected by Light Hook, allowing you to save them for other Layer 2 runs if you end up with only 1 or 2 instead of 3.
 -   **Sanguine Dive** is a reference to Vladimir's W ability in _League of Legends_.
 -   **Bloodtide Ritual** is a reference to [Mohg, Lord of Blood's](https://eldenring.fandom.com/wiki/Mohg,_Lord_of_Blood) phase transition move "Bloodboon Ritual" from _Elden Ring_.
 -   **Bloodedge** is likely a reference to Naoto Kurogane's "Bloodedge" and "Edge of Eternity" from BlazBlue Centralfiction.

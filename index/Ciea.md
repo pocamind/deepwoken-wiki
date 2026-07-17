@@ -36,13 +36,13 @@ Every fulfilled request gives EXP. Fulfilling 3 requests gives you the [Harveste
 
 There may be different options when you talk to Ciea, but for the ones listed, you'll have to use those specific ingredients or else she won't take it. You can use diluted potions (potions with only 1 copy of an ingredient) without any detriments to rewards given.
 
-Her quest is needed to get the [Saltchemist](Saltchemist.md) Oath.
+Her quest is needed to get the [Saltchemist](Oath%253A_Saltchemist.md) Oath.
 
-**NOTE**: _Certain ingredients such as [Redd](Redd.md) **do not spawn** during [Winter](Winter.md)._ Keep this in mind before doing her quest.
+**NOTE**: _Certain ingredients such as [Redd](Redd.md) **do not spawn** during [Winter](Seasons.md#winter)._ Keep this in mind before doing her quest.
 
 ## Location
 
-Ciea is located in [Starswept Valley](Starswept_Valley.md) right beside the [Shrine of Mastery](Shrine_of_Mastery.md).
+Ciea is located in [Starswept Valley](The_Starswept_Valley.md) right beside the [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md).
 
 ## Dialogue
 

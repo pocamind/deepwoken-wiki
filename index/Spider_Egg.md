@@ -26,7 +26,7 @@ Because they can be quite hard to locate, server-hopping with the [Harvester](Ta
 
 Known **Spider Egg** locations include:  
 \- 2 In [The Viper's Jaw](<The_Viper's_Jaw.md>), a cave in [Lower Erisia](Lower_Erisia.md), where [Mudskippers](Mudskipper.md) are scripted to spawn.  
-\- 2 In a cave in [Lower Erisia](Lower_Erisia.md) next to [Traan Zakshun](Trahne_Zakshun.md).  
+\- 2 In a cave in [Lower Erisia](Lower_Erisia.md) next to [Traan Zakshun](Traan_Zakshun.md).  
 \- 2 In [Towerstruck Lands](Towerstruck_Lands.md); 1 next to [Arthur](Arthur.md), and 1 at the doorway closest to the tower at the entrance.  
 \- 1 At [Erisor's Church](<Erisor's_Church.md>), next to the guild banner.  
 \- 1 At [Isle of Vigils](Isle_of_Vigils.md), inside a hollow log near the Banker/Antiquarian.  

@@ -29,7 +29,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Depths Supercharger is a [Relic](Relic.md) [Equipment](Equipment.md) item under the "Ring" category.
+The Depths Supercharger is a [Relic](Relics.md) [Equipment](Equipment.md) item under the "Ring" category.
 
 This Ring reduces the user's Mantra slots down to two in exchange for greatly buffing their Mantras and giving the user more Ether and Tempo.
 

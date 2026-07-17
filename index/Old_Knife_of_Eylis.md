@@ -17,7 +17,7 @@ categories: [Enemies that can wield Enchantments, Enemies, Ambush Enemies, Knive
 
 ## Description
 
-An Old Knife of Eylis are more experienced mercenaries from the [Knives of Eylis](Knives_of_Eylis.md), whose identity is concealed by wearing a [hood](<Assassin's_Hood.md>). They will hunt the player if their reputation with the Knives of Eylis is set to [Hunted](Faction_Ambushes.md).
+An Old Knife of Eylis are more experienced mercenaries from the [Knives of Eylis](The_Knives_of_Eylis.md), whose identity is concealed by wearing a [hood](<Assassin's_Hood.md>). They will hunt the player if their reputation with the Knives of Eylis is set to [Hunted](Faction_Ambushes.md).
 
 ## Moveset
 

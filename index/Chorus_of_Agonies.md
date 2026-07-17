@@ -36,7 +36,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Mu
 
 ## Description
 
-The **Chorus of Agonies** is a Unique tier Legendary [Greataxe](Weapons.md); a massive, skeletal dark axe stained with blood, pulsating with the [souls twisted and damned](The_Enforcer.md) by the Trial, begging for their release. It can be obtained as a direct drop from the [Heart of Enmity](Heart_of_Enmity.md) or from one of its chests.
+The **Chorus of Agonies** is a Unique tier Legendary [Greataxe](Weapons.md); a massive, skeletal dark axe stained with blood, pulsating with the [souls twisted and damned](Enforcer.md) by the Trial, begging for their release. It can be obtained as a direct drop from the [Heart of Enmity](Heart_of_Enmity.md) or from one of its chests.
 
 Similar to all other drops from the Heart of Enmity, it automatically Soulbounds.
 
@@ -49,5 +49,5 @@ The critical has a cooldown of **10 seconds**.
 ## Trivia
 
 -   This weapon previously had the highest posture damage stat of any weapon in the game at 15.
--   Used to have a [Strength](Strength.md) requirement of 80, however this was reduced down to 20 shortly after the weapon released.
+-   Used to have a [Strength](Attributes.md#str) requirement of 80, however this was reduced down to 20 shortly after the weapon released.
 -   This weapon does not have a visible swing trail.

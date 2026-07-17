@@ -18,7 +18,7 @@ E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 
-A species of giant clam were known to be native to the [Southern Luminant](Southern_Luminant.md) in the years prior to the fall of Celtor. Their pearls were seen as valuable, but harvesting them was very difficult due to the ferocity of the clams. These pearls were used to create jewellery, such as the [Dark Pearls](Dark_Pearls.md), which were considered a daring statement to the upper-class and/or nobility of the South.[\[1\]](#cite-note-pearl-1)
+A species of giant clam were known to be native to the [Southern Luminant](Luminants.md#southern-luminant) in the years prior to the fall of Celtor. Their pearls were seen as valuable, but harvesting them was very difficult due to the ferocity of the clams. These pearls were used to create jewellery, such as the [Dark Pearls](Dark_Pearls.md), which were considered a daring statement to the upper-class and/or nobility of the South.[\[1\]](#cite-note-pearl-1)
 
 With the destruction of much of the Southern Luminant by the Submergence, the clams have nearly gone extinct due to habitat-loss[\[1\]](#cite-note-pearl-1)
 

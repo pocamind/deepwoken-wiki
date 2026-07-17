@@ -39,8 +39,8 @@ Certain NPC dialogues and quests in the game require a specific faction status t
 
  | 
 
--   [The Central Authority](The_Central_Authority.md): Unlocks the [Authority Ensign](Authority_Ensign.md) [Origin](Origin.md).
--   [The Children of Navae](The_Children_of_Navae.md): Speaking to the [Eastern Nomad Leader](Eastern_Nomad_Leader.md) or [Eastern Camp Master](Eastern_Camp_Master.md) unlocks the [Way of Navae](Way_of_Navae.md) fighting style.
+-   [The Central Authority](The_Central_Authority.md): Unlocks the [Authority Ensign](Authority_Ensign.md) [Origin](Origins.md).
+-   [The Children of Navae](The_Children_of_Navae.md): Speaking to the [Eastern Nomad Leader](Eastern_Nomad_Leader.md) or [Eastern Camp Master](Cheral.md) unlocks the [Way of Navae](Way_of_Navae.md) fighting style.
 
  |
 | 
@@ -148,7 +148,7 @@ Players can bribe specific NPCs up to ~1,200 Notes (depending on how much reputa
 | 
  | 
 
-[The Kingdom of Etrea](The_Kingdom_of_Etrea.md)
+[The Kingdom of Etrea](Etrea.md)
 
  | [Nerin](Nerin.md) | Outside a house in the area above the [Etris](Etris.md) [Antiquarian](Antiquarian.md) and near the [Barber](Barber.md). |
 | 
@@ -247,15 +247,15 @@ Yen: Near the front of the [Songseeker Temple](Songseeker_Temple.md)
 ### Reputable Factions
 
 -   [Etrea](Etrea.md) [Etreaiconfaction](Etrea.md)
--   [The Hive](The_Hive.md) [Hiveiconfaction](Hive.md)
--   [The Divers](The_Divers.md) [Diversiconfaction](Divers.md)
--   [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](Central_Authority.md)
+-   [The Hive](The_Hive.md) [Hiveiconfaction](The_Hive.md)
+-   [The Divers](The_Divers.md) [Diversiconfaction](The_Divers.md)
+-   [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md)
 -   [The Summer Company](The_Summer_Company.md) [Summericonfaction](The_Summer_Company.md)
 -   [The Hundred Legions](The_Hundred_Legions.md)
--   [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](Children_of_Navae.md)
--   [The Ministry](The_Ministry.md) [Ministryiconfaction](Ministry.md)
+-   [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md)
+-   [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md)
 -   [Etrean Royalists](Etrean_Royalists.md) [Etrean Royalistsiconfaction](Etrean_Royalists.md)
--   [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](Knives_of_Eylis.md)
+-   [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md)
 -   [The Ignition Union](The_Ignition_Union.md)
 -   [Lost Celtor](Lost_Celtor.md)
 

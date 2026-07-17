@@ -30,7 +30,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 Valikor is an NPC that appears to be an elder [Etrean](Etrean.md). Despite being old enough to retire from work and live comfortably. In early Deepwoken testing, all Mantras were announced upon casting them. This is likely why he is an Elderly character.
 
-You can get the [Spell Shout](Spell_Shout.md) Talent by talking to him. If you wish to turn it off, go to settings in order to disable Spell Shouting.
+You can get the [Spell Shout](Valikor.md) Talent by talking to him. If you wish to turn it off, go to settings in order to disable Spell Shouting.
 
 Keep in mind that spells can only be named for up to 23 symbols and shouldn't have roblox chat restricted content. In addition in certain cases the spell shout will use the Mantra's default name instead of the edited one.
 

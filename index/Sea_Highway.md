@@ -12,7 +12,7 @@ notices:
 
 ## Overview
 
-**Sea Highways** were structures found within the Etrean and Eastern [Luminants](Luminants.md). Upon a [ship](Boats.md) passing through what are commonly referred to as "Wind Gates", a 'jolt' of energy and powered waves caused them to traverse much faster across the sea while remaining within the highway.
+**Sea Highways** were structures found within the Etrean and Eastern [Luminants](Luminants.md). Upon a [ship](Ships_&_Sailing.md) passing through what are commonly referred to as "Wind Gates", a 'jolt' of energy and powered waves caused them to traverse much faster across the sea while remaining within the highway.
 
 These highways are a masterwork of [Thundercall](Thundercall.md) efficiency, actively maintained and constructed by [the Golden Link](The_Golden_Link.md), a company of [Thundercallers](Thundercall.md) originally formed within [the Citadel of Markor](The_Citadel_of_Markor.md).
 

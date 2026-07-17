@@ -27,7 +27,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Chest Masters are [Felinor](Felinor.md) [NPCs](NPCs.md). They are highly skilled in lockpicking and are also appraisers, being the only way to access treasure inside of chests inside of the [Vow of Iron](Vow_of_Iron.md) game mode.
+Chest Masters are [Felinor](Felinor.md) NPCs. They are highly skilled in lockpicking and are also appraisers, being the only way to access treasure inside of chests inside of the [Vow of Iron](Vow_of_Iron.md) game mode.
 
 In pathfinder mode, if you manage to get to the bugged [Floating Keep](The_Floating_Keep.md) outside of a seasonal event, then a Chest Master will take the place of [Lysander Spellhardt](Lysander_Spellhardt.md) inside the castle.
 

@@ -26,7 +26,7 @@ notices:
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Auroran Gremor** is a Unique (Spec/Mod) [Outfit](Outfit.md) in _Deepwoken_.
+**Auroran Gremor** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Trivia
 

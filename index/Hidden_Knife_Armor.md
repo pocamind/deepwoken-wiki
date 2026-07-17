@@ -29,7 +29,7 @@ categories: [Vow of Iron Exclusive, Outfits, Unique Outfits, Outfits with Talent
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
-**Hidden Knife Armor** is a Unique [Outfit](Outfit.md) in _Deepwoken_.
+**Hidden Knife Armor** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
@@ -41,11 +41,11 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 2000 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +25% Elemental resistance [ResistanceElemental](Attunement.md), +20% Ether Regen [IconEther](Ether.md), and +50% [Stealth](Stealth.md) [IconStealth](Stealth.md). Additionally, it provides the [Bane](Talents.md#bane) Talent.
+This Outfit has 2000 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +25% Elemental resistance [ResistanceElemental](Attunements.md), +20% Ether Regen [IconEther](Ether.md), and +50% [Stealth](Stealth.md) [IconStealth](Stealth.md). Additionally, it provides the [Bane](Talents.md#bane) Talent.
 
 The [Bane](Talents.md#bane) Talent grants a Talent tool that upon activation, grants a speed boost and allows you to teleport to your opponent in radius of 25 studs when using M1s, for 20 seconds. This has a cooldown of 100 seconds.
 
 ## Trivia
 
--   This outfit is a much darker version of [Kaide](Kaide.md)'s outfit.
--   This outfit used to additionally require an [Emerald](Emerald.md) in its crafting recipe, but this was removed with the addition of [Trinkets](Trinkets.md) in the Feburary 25th, 2026 update.
+-   This outfit is a much darker version of [Kaide](Kaide,_the_Drowned_Light.md)'s outfit.
+-   This outfit used to additionally require an [Emerald](Treasures.md) in its crafting recipe, but this was removed with the addition of [Trinkets](Trinkets.md) in the Feburary 25th, 2026 update.

@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oath.md): Fadetrimmer** is one of the 17 obtainable Oaths in _Deepwoken._ It's a utility Oath that grants you the abilities of a [barber](Barber.md). Together with [Oathless](Oathless.md), [Linkstrider](Linkstrider.md), [Dawnwalker](Dawnwalker.md), and [Contractor](Contractor.md), it is one of 5 Oaths that have no direct stat requirements.
+**[Oath](Oaths.md): Fadetrimmer** is one of the 17 obtainable Oaths in _Deepwoken._ It's a utility Oath that grants you the abilities of a [barber](Barber.md). Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Dawnwalker](Oath%253A_Dawnwalker.md), and [Contractor](Oath%253A_Contractor.md), it is one of 5 Oaths that have no direct stat requirements.
 
 “ Whatever, man. ”
 
@@ -39,7 +39,7 @@ Meet the following requirements and talk to a barber about Hair Cutting:
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/JwPKrcDB-xE)._
 
-_Fadetrimmer **can** be reobtained if you [Oathbreak](Oathbreak.md) it._
+_Fadetrimmer **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it._
 
 ## Effects
 
@@ -189,7 +189,7 @@ Obtained with the Oath
 -   The Fadetrimmer Oath was mentioned by the Barbers ever since they were added to the game, on August 22, 2022. The Oath was added to the game on the July 24, 2023, almost a year later.
 -   Fadetrimmer originally started as a joke Oath among the community, the joke being the obtainment method. Arch\_Mage confirmed that it most likely wouldn't get an obtainment. Like a lot of things he says, this didn't age well.
 -   Fadetrimmer's haircuts will stay on the opponent for ten minutes, or when you leave the server. They can also go to a [Barber](Barber.md) and say _"Help me, barber. A most wretched cut has befallen me."_ to undo the haircut.
--   Fadetrimmer moves bear similarities to a few [Attunement-less](Attunement-less.md) moves. For example, Close Shave is very similar to [Prominence Draw](Prominence_Draw.md), as they both lunge and deliver a fast slash, and Precision Cuts is very similar to [Exhaustion Strike](Exhaustion_Strike.md), but with more hits.
+-   Fadetrimmer moves bear similarities to a few [Attunement-less](Attunement-less.md) moves. For example, Close Shave is very similar to [Prominence Draw](Attunement-less.md#prominence-draw), as they both lunge and deliver a fast slash, and Precision Cuts is very similar to [Exhaustion Strike](Attunement-less.md#exhaustion-strike), but with more hits.
 -   The description of this Oath is a reference to the "[Ginger Fringe Incident](https://knowyourmeme.com/memes/ginger-fringe-incident)" meme.
 -   The hitbox on the Hair Products _is_ the spray visual effect, and due to this, it is nearly impossible to land in combat without setup.
     -   The spray itself does not move far from the point of use and doesn't carry the player's momentum, which makes attempting to land it while moving substantially more difficult.
@@ -200,7 +200,7 @@ Obtained with the Oath
     -   Additionally, the spray is technically a multihit with each hit applying Charm, so it will therefore proc [Narcissist](Talents.md#narcissist)'s [Overcharm](Status_Effects.md#overcharm) instantly upon use.
 -   Flammable Hair Product is largely seen as useless due to it being a fairly slow option to apply burn/proc Eruptions that does no damage by itself- using [Flamecharm](Flamecharm.md) mantras applies burn/procs Eruptions while dealing actual damage at the same time.
     -   Additionally, due to burn and Eruptions scaling on your Flamecharm investment, the Flammable Hair Product will have very low damage output unless you have high Flamecharm investment... at which point it becomes almost entirely pointless.
--   Due to Revitalizing, Fadetrimmer is a solid Oath choice for a support-based build, especially since the cooldown is very low and you can heal more than one ally at the same time with it. However, [Linkstrider](Linkstrider.md) is still arguably the best support Oath.
+-   Due to Revitalizing, Fadetrimmer is a solid Oath choice for a support-based build, especially since the cooldown is very low and you can heal more than one ally at the same time with it. However, [Linkstrider](Oath%253A_Linkstrider.md) is still arguably the best support Oath.
     -   Revitalizing Hair Product if used incorrectly in PvE can be actively detrimental to your team, as it's possible to heal mobs like bosses with it.
 -   The color of the scissors' blades on your hips can be changed with a [Dye Packet](Dye_Packet.md).
 -   Although seen as a joke Oath, it has a few uses in PvE (Ex: Using Flammable Spray as a placeholder for [Flamecharm](Flamecharm.md)'s burn effects and the Mercy Kill Talent).

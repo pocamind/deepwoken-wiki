@@ -25,18 +25,18 @@ categories: [Outfits, Adept Outfits, Outfits with Talents, Outfits with Exclusiv
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Pathfinder Cloak** is an Adept [Outfit](Outfit.md) in _Deepwoken_.
+**Pathfinder Cloak** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 30 and requires four (4) [Cloth](Cloth.md), four (4) [Fiber](Fiber.md), and six (6) [Iron](Iron.md) to craft.
+This Outfit costs 30 and requires four (4) [Cloth](Cloth.md), four (4) [Fiber](Fiber.md), and six (6) [Iron](Ores.md#iron) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 5 to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 1200 durability, grants +18% Physical resistance ResistanceBlunt ResistanceSlash, and +8% Elemental resistance [ResistanceElemental](Attunement.md). Additionally, it provides the [Survivalist](Talents.md#survivalist) Talent.
+This Outfit has 1200 durability, grants +18% Physical resistance ResistanceBlunt ResistanceSlash, and +8% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Survivalist](Talents.md#survivalist) Talent.
 
-The [Survivalist](Talents.md#survivalist) Talent reduces the damage taken from certain weather effects like [Acid Rain](Acid_Rain.md).
+The [Survivalist](Talents.md#survivalist) Talent reduces the damage taken from certain weather effects like [Acid Rain](Environmental_Hazards.md).

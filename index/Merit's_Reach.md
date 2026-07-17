@@ -16,7 +16,7 @@ Once a prison at the edge of Etrean influence, now a forward base for the Author
 
   
 
-**Merit's Reach** is a [location](Locations.md) in _Deepwoken_. It is a landmark found in [Fort Merit](Fort_Merit.md).
+**Merit's Reach** is a location in _Deepwoken_. It is a landmark found in [Fort Merit](Fort_Merit.md).
 
 ## Overview
 

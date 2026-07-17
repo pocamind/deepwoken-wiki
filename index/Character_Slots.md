@@ -77,7 +77,7 @@ The slot selection menu serves as a list of all of your character slots.
 
 -   The slot's current setting is presented following your Oath or Aspect.
 -   On slot purchase the category will show as '???'
--   Possible locations include: [Etrean Luminant](Etrean_Luminant.md), The [Etrean Luminant](Etrean_Luminant.md), [Eastern Luminant](Eastern_Luminant.md), The Depths ([Scyphozia](Scyphozia.md)), The Depths ([The Eternal Gale](The_Eternal_Gale.md)), [Fragments of Self](Fragments_of_Self.md), and [Dungeon](Dungeons.md) for all non-Second Layer dungeons.
+-   Possible locations include: [Etrean Luminant](Luminants.md), The [Etrean Luminant](Luminants.md), [Eastern Luminant](Luminants.md), The Depths ([Scyphozia](First_Layer.md)), The Depths ([The Eternal Gale](Second_Layer.md)), [Fragments of Self](Fragments_of_Self.md), and [Dungeon](Dungeons.md) for all non-Second Layer dungeons.
     -   Because of how dungeons work, upon leaving the game in most of them, your location will usually change to just outside of the dungeon's entrance, so the "Dungeon" location may not apply. However, the [Tutorial](Tutorial.md) dungeon cannot be left unless it is skipped or completed, showcasing "Dungeon" as location for your slot.
 -   Etrean Luminant may be displayed as "The Etrean Luminant," rather than "Etrean Luminant." While normally, this applies to all slots in character creation, it can also apply to slots that aren't.
 

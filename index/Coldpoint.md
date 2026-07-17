@@ -35,7 +35,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals 
 
 ## Description
 
-The Coldpoint is a Legendary Rapier; A long icicle kept forever frozen by a Vow, they were used as training weapons by the [Kyrsgarde](Kyrsgarde.md). It is obtained from the [Kyrsgarde Champion](Kyrsgarde_Champion.md).
+The Coldpoint is a Legendary Rapier; A long icicle kept forever frozen by a Vow, they were used as training weapons by the [Kyrsgarde](Kyrsgarde.md). It is obtained from the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>).
 
 ## Talents
 
@@ -49,4 +49,4 @@ The user reels their rapier back briefly, before piercing through the target in 
 
 The critical has a cooldown of **10 seconds**.
 
-This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talent](Talent.md) effects.
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talent](Talents.md) effects.

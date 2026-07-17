@@ -55,7 +55,7 @@ The user charges forward before performing a circular slash. This critical deals
 
 The critical has a cooldown of **3 seconds**.
 
-This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

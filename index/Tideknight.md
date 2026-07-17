@@ -25,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 Tideknights can only be found within the later waves of [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
-They wear the [Celtorian Tideknight](Celtorian_Tideknight.md) Outfit and have a wide array of weapons, Mantras, and Oaths. Every Tideknight NPC in the mechanism is a variant of an already existing hostile NPC, being any of the four Songseeker variants, [Black Divers](<Black_Diver_(NPC).md>), Starkindred Angels, [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md) and all six of the [Spelltrainers](Spelltrainers.md).
+They wear the [Celtorian Tideknight](Celtorian_Tideknight.md) Outfit and have a wide array of weapons, Mantras, and Oaths. Every Tideknight NPC in the mechanism is a variant of an already existing hostile NPC, being any of the four Songseeker variants, [Black Divers](<Black_Diver_(NPC).md>), Starkindred Angels, [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md) and all six of the [Spelltrainers](Attunement_Trainers.md).
 
 ## Moveset
 

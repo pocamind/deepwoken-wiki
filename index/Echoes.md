@@ -80,7 +80,7 @@ Ranks by themselves do nothing, beside rank W, S and A that give a badge and, in
 
 Echoes are awarded depending on the number of Triumphs the character accomplished before wiping. Each triumph awards a different number of Echoes, and with a small number of exceptions, each Triumph can only be achieved once.
 
-Any item stored within your [bank](Bank.md) will not count for its respective Echo Triumph. For example, you cannot store an [Enchant Stone](Enchant_Stone.md) and use that to complete the "Enchant an item" or "Soulbound an item" tasks.
+Any item stored within your [bank](Item_Bank.md) will not count for its respective Echo Triumph. For example, you cannot store an [Enchant Stone](Enchant_Stone.md) and use that to complete the "Enchant an item" or "Soulbound an item" tasks.
 
 | 
  | Echo Reward | Task/Requirement |
@@ -98,8 +98,8 @@ Catching anything with a [Fishing Rod](Fishing_Rod.md) counts.
  | 1 | Modify a [Mantra](Mantras.md). |
 | 
 
- | 1 | Turn in a [Pure Ore](Ore.md) to a [Blacksmith](Blacksmith.md).  
-[Pure Iron](Pure_Iron.md) does not count. |
+ | 1 | Turn in a [Pure Ore](Ores.md) to a [Blacksmith](Blacksmith.md).  
+[Pure Iron](Ores.md#iron) does not count. |
 | 
 
  | 1 | Win a [Chime of Conflict](Chime_of_Conflict.md) match. |
@@ -114,7 +114,7 @@ Catching anything with a [Fishing Rod](Fishing_Rod.md) counts.
  | 2 | Make a deal with [Misérables](Misérables.md). |
 | 
 
- | 2 | Bargain with [Yun'Shul](<Yun'Shul.md>).  
+ | 2 | Bargain with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).  
 E.g. rerolling [Resonance](Resonance.md). Also the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) counts for this Triumph. |
 | 
 
@@ -145,10 +145,10 @@ Most alloyed weapons have a 75 weapon requirement. |
  | 5 | Obtain a [Murmur](Murmur.md). |
 | 
 
- | 5 | Defeat the [Dread Serpent](Dread_Serpent.md) OR the [Doom of Caeranthil](Doom_of_Caeranthil.md). |
+ | 5 | Defeat the [Dread Serpent](Dread_Serpent.md) OR the [Doom of Caeranthil](The_Doom_of_Caeranthil.md). |
 | 
 
- | 5 | Defeat [Duke Erisia](Duke_Erisia.md). |
+ | 5 | Defeat [Duke Erisia](Duke_Ishamon_Erisia.md). |
 | 
 
  | 5 | Defeat [The Ferryman](The_Ferryman.md). |
@@ -167,7 +167,7 @@ Most alloyed weapons have a 75 weapon requirement. |
 | 
 
  | 10 | Complete [Layer 2](Second_Layer.md) floor 1 without a [Light Hook](Light_Hook.md).  
-You will need to leave through [Chaser](Chaser.md)'s or the [Scion of Ethiron](Scion_of_Ethiron.md)'s escape portals for this to count. |
+You will need to leave through [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)'s or the [Scion of Ethiron](Scion_of_Ethiron.md)'s escape portals for this to count. |
 | 
 
  | 15 | [Power](Power.md) up.  
@@ -185,11 +185,11 @@ There are 11 upgrades and 15 unlocks to purchase. Each upgrade can be purchased 
 
 **Upgrades:**
 
-<table><tbody><tr><td><b>Upgrade</b></td><td><b>Effect</b></td><td><b>Cost</b></td><td><b>Increment</b></td><td><b>Maximum</b></td></tr><tr><td><b>Resonance Progress</b></td><td>Increases the speed <a href="Resonance.md">Resonance</a> progress is made.</td><td>50 Echoes</td><td>5%</td><td>20%</td></tr><tr><td><b>Resonance Rarity</b></td><td>Your increased chance to obtain Legendary or Corrupted <a href="Resonance.md">Resonance</a>. At Max, your chances are doubled.</td><td>50 Echoes</td><td>2</td><td>10</td></tr><tr><td><b>Mob Armor</b></td><td>Increases armor against mobs.</td><td>50 Echoes</td><td>2%</td><td>8%</td></tr><tr><td><b>Mob Damage</b></td><td>Increases damage dealt to mobs.</td><td>50 Echoes</td><td>2%</td><td>8%</td></tr><tr><td><b>Stomach Capacity</b></td><td>Slows the rate at which the hunger bar goes down.</td><td>25 Echoes</td><td>2%</td><td>10%</td></tr><tr><td><b>Thirst Capacity</b></td><td>Slows the rate at which the thirst bar goes down.</td><td>25 Echoes</td><td>2%</td><td>10%</td></tr><tr><td><b>Carrying Capacity</b></td><td>Your abillity to carry more items.</td><td>50 Echoes</td><td>5</td><td>30</td></tr><tr><td><b>Passdown Capacity</b></td><td>Increases the amount of items you can pass down upon wiping.</td><td>50 Echoes</td><td>1</td><td>4</td></tr><tr><td><b>Starting Notes</b></td><td>Increases the number of <a href="Notes.md">Notes</a> that new characters start with.</td><td>25 Echoes</td><td>5</td><td>25</td></tr><tr><td><b>Starting Knowledge</b></td><td>Increases the amount of <a href="Knowledge.md">Knowledge</a> new characters start with.</td><td>25 Echoes</td><td>1</td><td>5</td></tr><tr><td><b>Starting Ace</b></td><td>Increases the number of <a href="Ace.md">Aces</a> new players start with.</td><td>50 Echoes</td><td>1</td><td>2</td></tr></tbody></table>
+<table><tbody><tr><td><b>Upgrade</b></td><td><b>Effect</b></td><td><b>Cost</b></td><td><b>Increment</b></td><td><b>Maximum</b></td></tr><tr><td><b>Resonance Progress</b></td><td>Increases the speed <a href="Resonance.md">Resonance</a> progress is made.</td><td>50 Echoes</td><td>5%</td><td>20%</td></tr><tr><td><b>Resonance Rarity</b></td><td>Your increased chance to obtain Legendary or Corrupted <a href="Resonance.md">Resonance</a>. At Max, your chances are doubled.</td><td>50 Echoes</td><td>2</td><td>10</td></tr><tr><td><b>Mob Armor</b></td><td>Increases armor against mobs.</td><td>50 Echoes</td><td>2%</td><td>8%</td></tr><tr><td><b>Mob Damage</b></td><td>Increases damage dealt to mobs.</td><td>50 Echoes</td><td>2%</td><td>8%</td></tr><tr><td><b>Stomach Capacity</b></td><td>Slows the rate at which the hunger bar goes down.</td><td>25 Echoes</td><td>2%</td><td>10%</td></tr><tr><td><b>Thirst Capacity</b></td><td>Slows the rate at which the thirst bar goes down.</td><td>25 Echoes</td><td>2%</td><td>10%</td></tr><tr><td><b>Carrying Capacity</b></td><td>Your abillity to carry more items.</td><td>50 Echoes</td><td>5</td><td>30</td></tr><tr><td><b>Passdown Capacity</b></td><td>Increases the amount of items you can pass down upon wiping.</td><td>50 Echoes</td><td>1</td><td>4</td></tr><tr><td><b>Starting Notes</b></td><td>Increases the number of <a href="Notes.md">Notes</a> that new characters start with.</td><td>25 Echoes</td><td>5</td><td>25</td></tr><tr><td><b>Starting Knowledge</b></td><td>Increases the amount of <a href="Knowledge.md">Knowledge</a> new characters start with.</td><td>25 Echoes</td><td>1</td><td>5</td></tr><tr><td><b>Starting Ace</b></td><td>Increases the number of <a href="Aces.md">Aces</a> new players start with.</td><td>50 Echoes</td><td>1</td><td>2</td></tr></tbody></table>
 
 **Unlocks:**
 
-<table><tbody><tr><td><b>Unlock</b></td><td><b>Effect</b></td><td><b>Cost</b></td></tr><tr><td><b>Soul Plasticity</b></td><td>Grants immunity to the <a href="Tarnished.md">Tarnished</a> flaw.</td><td>500 Echoes</td></tr><tr><td><b>Multifaceted</b></td><td>The Attribute points you usually receive from your <a href="Aspect.md">Aspect</a> are free for you to allocate.</td><td>250 Echoes</td></tr><tr><td><b>Elementalist</b></td><td>You no longer have a limit to how many attunements you can start with, and you can freely allocate points through them in character creation.</td><td>200 Echoes</td></tr><tr><td><b>Starter Equipment</b></td><td>You start with a pair of <a href="Leather_Gloves.md">leather gloves</a> and <a href="Leather_Boots.md">boots</a>.</td><td>30 Echoes</td></tr><tr><td><b>Starter Weapon: Rapier</b></td><td>Allows you to select the <a href="Quickfang.md">Quickfang</a> as a Starting Weapon.</td><td>25 Echoes</td></tr><tr><td><b>Starter Weapon: Pistol</b></td><td>Allows you to select the <a href="Silversix.md">Silversix</a> as a Starting Weapon.</td><td>25 Echoes</td></tr><tr><td><b>Starter Weapon: Spear</b></td><td>Allows you to select the <a href="Irontusk.md">Irontusk</a> as a Starting Weapon.</td><td>25 Echoes</td></tr><tr><td><b>Starter Weapon: Greatsword</b></td><td>Allows you to select the <a href="Avenger.md">Avenger</a> as a Starting Weapon.</td><td>25 Echoes</td></tr><tr><td><b>Starter Weapon: Bow</b></td><td>Allows you to select the <a href="Ironcry.md">Ironcry</a> as a Starting Weapon.</td><td>25 Echoes</td></tr><tr><td><b>Flint</b></td><td>You start with a <a href="Flint.md">Flint</a> to start fires.</td><td>15 Echoes</td></tr><tr><td><b>Canteen</b></td><td>You start with a <a href="Canteen.md">Canteen</a> to collect water.</td><td>15 Echoes</td></tr><tr><td><b>Pickaxe</b></td><td>You start with a <a href="Pickaxe.md">Pickaxe</a> to gather <a href="Ore.md">ores</a>.</td><td>15 Echoes</td></tr><tr><td><b>Lumber Axe</b></td><td>You start with a <a href="Lumber_Axe.md">Lumber Axe</a> to gather <a href="Wood.md">wood</a>.</td><td>15 Echoes</td></tr><tr><td><b>Fishing Rod</b></td><td>You start with a <a href="Fishing_Rod.md">Fishing Rod</a> to gather <a href="Fishing.md">fish</a>.</td><td>15 Echoes</td></tr><tr><td><b>Glider</b></td><td>You start with a <a href="Gliders.md">Glider</a> to traverse the open air.</td><td>25 Echoes</td></tr><tr><td><b>Choice of Chance</b></td><td>Receive up to 4 cards per hand from the <a href="Shrine_of_Chance.md">Shrine of Chance</a>.</td><td>200 Echoes</td></tr></tbody></table>
+<table><tbody><tr><td><b>Unlock</b></td><td><b>Effect</b></td><td><b>Cost</b></td></tr><tr><td><b>Soul Plasticity</b></td><td>Grants immunity to the <a href="Boons_and_Flaws.md#flaws">Tarnished</a> flaw.</td><td>500 Echoes</td></tr><tr><td><b>Multifaceted</b></td><td>The Attribute points you usually receive from your <a href="Aspects.md">Aspect</a> are free for you to allocate.</td><td>250 Echoes</td></tr><tr><td><b>Elementalist</b></td><td>You no longer have a limit to how many attunements you can start with, and you can freely allocate points through them in character creation.</td><td>200 Echoes</td></tr><tr><td><b>Starter Equipment</b></td><td>You start with a pair of <a href="Leather_Gloves.md">leather gloves</a> and <a href="Leather_Boots.md">boots</a>.</td><td>30 Echoes</td></tr><tr><td><b>Starter Weapon: Rapier</b></td><td>Allows you to select the <a href="Quickfang.md">Quickfang</a> as a Starting Weapon.</td><td>25 Echoes</td></tr><tr><td><b>Starter Weapon: Pistol</b></td><td>Allows you to select the <a href="Silversix.md">Silversix</a> as a Starting Weapon.</td><td>25 Echoes</td></tr><tr><td><b>Starter Weapon: Spear</b></td><td>Allows you to select the <a href="Irontusk.md">Irontusk</a> as a Starting Weapon.</td><td>25 Echoes</td></tr><tr><td><b>Starter Weapon: Greatsword</b></td><td>Allows you to select the <a href="Avenger.md">Avenger</a> as a Starting Weapon.</td><td>25 Echoes</td></tr><tr><td><b>Starter Weapon: Bow</b></td><td>Allows you to select the <a href="Ironcry.md">Ironcry</a> as a Starting Weapon.</td><td>25 Echoes</td></tr><tr><td><b>Flint</b></td><td>You start with a <a href="Flint.md">Flint</a> to start fires.</td><td>15 Echoes</td></tr><tr><td><b>Canteen</b></td><td>You start with a <a href="Canteen.md">Canteen</a> to collect water.</td><td>15 Echoes</td></tr><tr><td><b>Pickaxe</b></td><td>You start with a <a href="Pickaxe.md">Pickaxe</a> to gather <a href="Ores.md">ores</a>.</td><td>15 Echoes</td></tr><tr><td><b>Lumber Axe</b></td><td>You start with a <a href="Lumber_Axe.md">Lumber Axe</a> to gather <a href="Wood.md">wood</a>.</td><td>15 Echoes</td></tr><tr><td><b>Fishing Rod</b></td><td>You start with a <a href="Fishing_Rod.md">Fishing Rod</a> to gather <a href="Fishing.md">fish</a>.</td><td>15 Echoes</td></tr><tr><td><b>Glider</b></td><td>You start with a <a href="Gliders.md">Glider</a> to traverse the open air.</td><td>25 Echoes</td></tr><tr><td><b>Choice of Chance</b></td><td>Receive up to 4 cards per hand from the <a href="Deep_Shrines/Shrine_of_Chance.md">Shrine of Chance</a>.</td><td>200 Echoes</td></tr></tbody></table>
 
 **Modifiers:**
 
@@ -223,11 +223,11 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 -   Buying most Echo Upgrades and some of the Unlocks will apply their effects to previously created slots. Any of the Starter/Starting: Weapon, Tools, Equipment, Knowledge, and Notes will **not** be applied to pre-existing slots however.
 -   The actual effects of "Resonance Rarity" boosts the chance to receive Corrupted and Legendary Resonances by 0.2x per upgrade, with your chance doubling at the max upgrade.
 -   There are a few sources of damage that bypass Glass Bones' effects, allowing you to take the damage without being knocked. These are:
-    -   The [Boulder](Boulder.md) training gear
+    -   The [Boulder](Training_Gear.md#attribute-training-gears) training gear
     -   [Starvation](Status_Effects.md#starved)
 -   Loose Change does not make you lose Notes when you take damage from any source like the description implies, instead only attacks from humanoids reduce your Notes, though it can be inconsistent at times.
 -   Any Mantra hand not granted from leveling, and any Talent/Mantra hand granted from [Deep Shrines](Deep_Shrines.md) do not get autopicked with Destined so you can abuse this to look for cards with more comfort.
--   Unlike all the other bosses in the game, defeating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md), [Heart of Enmity](Heart_of_Enmity.md), [Parliament](Parliament.md), [Kyrsgarde Champion](Kyrsgarde_Champion.md), and [Interluminary Parasol](Interluminary_Parasol.md) do not reward Echoes.
+-   Unlike all the other bosses in the game, defeating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md), [Heart of Enmity](Heart_of_Enmity.md), [Parliament](Parliament.md), [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>), and [Interluminary Parasol](Interluminary_Parasol.md) do not reward Echoes.
     -   This technically makes them the only true "optional" bosses in the game, as they are not required for W Rank.
 -   The [Leather Gloves](Leather_Gloves.md) and [Boots](Leather_Boots.md) from the Starting Equipment Echo Unlock are equipped automatically at the end of character creation. This means, if you've chosen [Lone Warrior](Lone_Warrior.md), you can spawn in the [Trial of One](Trial_of_One.md) with equipment on.
 -   Multifaceted makes the 5 innate [Aspect](Aspects.md) points free to allocate. For example instead of having 3 Fortitude and 2 Willpower on a [Vesperian](Vesperian.md), all of your stats will be at 0 and you will be given 5 free points to invest. This allows for much more build diversity with all aspects.

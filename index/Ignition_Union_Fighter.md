@@ -17,7 +17,7 @@ categories: [Enemies, Enemies that can wield Enchantments, The Ignition Union, I
 
 ## Description
 
-An Ignition Union Fighter is a type of enemy [NPC](NPCs.md) that can spawn in the following events:
+An Ignition Union Fighter is a type of enemy NPC that can spawn in the following events:
 
 -   Ignition Union Fighters vs [Akira](Akira.md) ([The Depths](The_Depths.md))
 -   Ignition Union Fighters vs Summer Company Guards ([Summer Isle](Summer_Isle.md))

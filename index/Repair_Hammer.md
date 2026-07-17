@@ -14,7 +14,7 @@ notices:
 |---|---|
 | usage | Repairs your boat's health by 100 for one Wood. |
 
-The **Repair Hammer** was a utility item that was used to recover the health of damaged [boats](Boats.md).
+The **Repair Hammer** was a utility item that was used to recover the health of damaged [boats](Ships_&_Sailing.md).
 
 ## Description
 

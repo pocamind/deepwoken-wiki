@@ -30,7 +30,7 @@ This content is not accessible outside of this gamemode.
 
 Vigil Isaac is an [Etrean](Etrean.md) NPC. He is a newly appointed Vigil.
 
-Isaac is brother to [Apprentice Kj](Apprentice_Kj.md), having recently become a Vigil under [Evengarde Rest](Evengarde_Rest.md). Giving him a [Gale Stone](Gale_Stone.md) allows the player to complete the quest "Vigi's Savior" and speak to Apprentice Kj to receive a [Curiosity](Quests.md) [Talent](Talent.md) hand and an audience with Evengarde Rest.
+Isaac is brother to [Apprentice Kj](Apprentice_Kj.md), having recently become a Vigil under [Evengarde Rest](Evengarde_Rest.md). Giving him a [Gale Stone](Gale_Stone.md) allows the player to complete the quest "Vigi's Savior" and speak to Apprentice Kj to receive a [Curiosity](Quests.md) [Talent](Talents.md) hand and an audience with Evengarde Rest.
 
 ## Quest
 

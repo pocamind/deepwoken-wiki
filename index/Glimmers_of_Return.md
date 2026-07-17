@@ -21,7 +21,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Glimmers of Return** are an [NPC](NPC.md), present in the [Fragments of Else](Fragments_of_Else.md), the last destination of a [Vow of Iron](Vow_of_Iron.md) character. In the Glimmers of Return the player can see Fragments of their [Memento](Mementos.md) drifting aimlessly after their death.
+**Glimmers of Return** are an NPC, present in the [Fragments of Else](Fragments_of_Else.md), the last destination of a [Vow of Iron](Vow_of_Iron.md) character. In the Glimmers of Return the player can see Fragments of their [Memento](Mementos.md) drifting aimlessly after their death.
 
 ## Dialogue
 

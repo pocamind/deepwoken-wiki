@@ -42,7 +42,7 @@ One-time consumables that provide direct improvement value to items, equipment, 
  | **[Dye Packet](Dye_Packet.md)** - A packet of dye used to customize the color of your character.
 
   
-Dye Packets can be used on [Outfits](Outfits.md), [Equipment](Equipment.md), Eyes (sclera and iris), Hair (each hair id can be dyed separately), [Aspect](Aspect.md)\-exclusive features, [Resonance](Resonance.md) Bells, and [Oath](Oath.md) cosmetics.
+Dye Packets can be used on [Outfits](Outfits.md), [Equipment](Equipment.md), Eyes (sclera and iris), Hair (each hair id can be dyed separately), [Aspect](Aspects.md)\-exclusive features, [Resonance](Resonance.md) Bells, and [Oath](Oaths.md) cosmetics.
 
 -   _(Consumed upon usage)_
 
@@ -104,7 +104,7 @@ On use, the user will gain 3 to 5 [Hallowtide](Hallowtide.md)\-related items or 
 
 Relics used to enchant items such as [Equipment](Equipment.md) or [Weapons](Weapons.md).
 
-<table><caption></caption><tbody><tr><th>Image</th><th>Description/Usage</th></tr><tr><td><figure><figcaption></figcaption></figure></td><td><b><a href="Enchant_Stone.md">Enchant Stone</a></b> - A glowing stone imbued with a random weapon enchant. Used to enchant your held weapon with the respective <a href="Enchantment.md">enchantment</a>.<ul><li><i>(Consumed upon usage)</i></li></ul></td></tr><tr><td><figure><figcaption></figcaption></figure></td><td><b><a href="Enchant_Grease.md">Enchant Grease</a></b> - A vial of grease imbued with an equipment enchant. Used to enchant a selected equipment item with the respective <a href="Enchantment.md">enchantment</a>.<ul><li><i>(Consumed upon usage)</i></li></ul></td></tr></tbody></table>
+<table><caption></caption><tbody><tr><th>Image</th><th>Description/Usage</th></tr><tr><td><figure><figcaption></figcaption></figure></td><td><b><a href="Enchant_Stone.md">Enchant Stone</a></b> - A glowing stone imbued with a random weapon enchant. Used to enchant your held weapon with the respective <a href="Enchantments.md">enchantment</a>.<ul><li><i>(Consumed upon usage)</i></li></ul></td></tr><tr><td><figure><figcaption></figcaption></figure></td><td><b><a href="Enchant_Grease.md">Enchant Grease</a></b> - A vial of grease imbued with an equipment enchant. Used to enchant a selected equipment item with the respective <a href="Enchantments.md">enchantment</a>.<ul><li><i>(Consumed upon usage)</i></li></ul></td></tr></tbody></table>
 
 ### Spire Relics
 
@@ -194,7 +194,7 @@ Equipment that provides player with unique abilities in combat or exploration.
  | **[Bone Ring](Bone_Ring.md)** - A bone-white ring that empowers all of your bone-related attacks.
 
   
-Works on: [Marrowmade Boots](Marrowmade_Boots.md), [Bone Wisp](Bone_Wisp.md), and [Brachial Spear](Brachial_Spear.md).
+Works on: [Marrowmade Boots](Marrowmade_Boots.md), [Bone Wisp](Monster_Mantras.md#bone-wisp), and [Brachial Spear](Monster_Mantras.md#brachial-spear).
 
  |
 | 
@@ -218,7 +218,7 @@ The ability is one-time-use but is recharged by killing a boss or player of your
  |
 | 
 
- | **[Mantle of Enmity](Mantle_of_Enmity.md)** - A set of wing resembling those of [The Heart of Enmity](The_Heart_of_Enmity.md), Grants the "[Heartwing Beat](Talents.md#heartwing-beat)" Talent, which transforms your aerial attack to a two-hit slash that applies [Wither](Wither.md) on hit.
+ | **[Mantle of Enmity](Mantle_of_Enmity.md)** - A set of wing resembling those of [The Heart of Enmity](Heart_of_Enmity.md), Grants the "[Heartwing Beat](Talents.md#heartwing-beat)" Talent, which transforms your aerial attack to a two-hit slash that applies [Wither](Status_Effects.md#wither) on hit.
 
   
 This attack has a base damage of 22.5 and copies the scaling stat of your equipped weapon. This has a 6 second cooldown.
@@ -256,7 +256,7 @@ Functionally identical to Legendary Weapons, in soulbounding and Enchant bans, t
 | Media | Description |
 | --- | --- |
 | 
- | **[Dormant Splinter](Dormant_Splinter.md)** - A blade made of [Umbrite](Ore.md), twisted and turned semi-sentient as a result of [Coldheart Fortinbras'](Coldheart_Fortinbras.md) and his attempts to put his deceased wife's soul into a weapon with various twisted attunements within his [Cold Forge](The_Cold_Forge.md).
+ | **[Dormant Splinter](Dormant_Splinter.md)** - A blade made of [Umbrite](Ores.md), twisted and turned semi-sentient as a result of [Coldheart Fortinbras'](Coldheart_Fortinbras.md) and his attempts to put his deceased wife's soul into a weapon with various twisted attunements within his [Cold Forge](The_Cold_Forge.md).
 
 This item is most notably used as the main crafting component for some other Relic tier [Weapons](Weapons.md).
 
@@ -269,23 +269,23 @@ This item is most notably used as the main crafting component for some other Rel
  | **[Sanguine Transfuser](Sanguine_Transfuser.md)** - A result of the Dormant Splinter being fused with the Hemobloom and the remains of an ancient dagger, the weapon is transformed into a spiraling helix of crystallized blood, ending in a blooming hilt that coalesces into a blood-red handle. |
 | 
 
- | **[Umbrite Witherblade](Umbrite_Witherblade.md)** - A result of the Dormant Splinter combining with a [Razor Cutlass](Razor_Cutlass.md). The Splinter and it's bloodthirst have seeped into the Cutlass, making it a shade of it's former self with the use of the twisted element known as [Umbrite](Ore.md). It is a powerful weapon that inflicts [Wither](Wither.md) with each attack, rotting away at their ability to recover from damage. |
+ | **[Umbrite Witherblade](Umbrite_Witherblade.md)** - A result of the Dormant Splinter combining with a [Razor Cutlass](Razor_Cutlass.md). The Splinter and it's bloodthirst have seeped into the Cutlass, making it a shade of it's former self with the use of the twisted element known as [Umbrite](Ores.md). It is a powerful weapon that inflicts [Wither](Status_Effects.md#wither) with each attack, rotting away at their ability to recover from damage. |
 | 
 
- | **[Vortex Echo](Vortex_Echo.md)** - A result of [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) watch being infused with [Ethiron's](Ethiron,_the_Eye_of_Calamity.md) Gale, becoming something that can distort time in ways the feeble human mind cannot comprehend. |
+ | **[Vortex Echo](Vortex_Echo.md)** - A result of [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) watch being infused with [Ethiron's](<Ethiron,_The_Maelstrom's_Eye.md>) Gale, becoming something that can distort time in ways the feeble human mind cannot comprehend. |
 
 ### Miscellaneous Relics
 
 | Media | Description |
 | --- | --- |
 | 
- | **[Charged Bonecharm](Charged_Bonecharm.md)** - A charged Effigy that is used to obtain the [Bone Wisp](Bone_Wisp.md) Mantra from [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md). |
+ | **[Charged Bonecharm](Charged_Bonecharm.md)** - A charged Effigy that is used to obtain the [Bone Wisp](Monster_Mantras.md#bone-wisp) Mantra from [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md). |
 | 
 
- | **[Frost Essence](Frost_Essence.md)** - A [crafting](Crafting.md) component for several items. |
+ | **[Frost Essence](Frost_Essence.md)** - A [crafting](Crafting_Recipes.md) component for several items. |
 | 
 
- | **[Gale Essence](Gale_Essence.md)** - A [crafting](Crafting.md) component for several items. |
+ | **[Gale Essence](Gale_Essence.md)** - A [crafting](Crafting_Recipes.md) component for several items. |
 | 
 
  | **[Remnants of Soul](Remnants_of_Soul.md)** - A healing flask that restores 30 health to the user and all players in an AoE.
@@ -295,10 +295,10 @@ This item is most notably used as the main crafting component for some other Rel
  |
 | 
 
- | **[Shiva's Codex](<Shiva's_Codex.md>)** - A [crafting](Crafting.md) component for several items. |
+ | **[Shiva's Codex](<Shiva's_Codex.md>)** - A [crafting](Crafting_Recipes.md) component for several items. |
 | 
 
- | **[Trickster Dust](Trickster_Dust.md)** - A [crafting](Crafting.md) component for several items. |
+ | **[Trickster Dust](Trickster_Dust.md)** - A [crafting](Crafting_Recipes.md) component for several items. |
 
 ## Lore Relics
 
@@ -309,7 +309,7 @@ Relics hinted at by NPCs, Developers, Books, and other sources that cannot be ob
 | 
  | **The Forge of Sin** - An undying purple flame of mysterious origin. Note that this is NOT to be confused with the Piece of the Forge of Sin, found around the map, which is an artifact and NOT a Relic.
 
-**Lore** - A Relic created by the Drowned God [Korilfiend](Korilfiend.md), and was originally kept within The [Temple of the Forgotten Flame](Temple_of_the_Forgotten_Flame.md). and sought after by Etris' temporary king, The [Lord Regent](The_Lord_Regent.md). It is currently in the possession of [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) and is theorized to have been used by the Ministry for the Great Drowning. (Read [Lore](Lore.md) 11.4)
+**Lore** - A Relic created by the Drowned God [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), and was originally kept within The [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). and sought after by Etris' temporary king, The [Lord Regent](The_Lord_Regent.md). It is currently in the possession of [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) and is theorized to have been used by the Ministry for the Great Drowning. (Read [Lore](Lore.md) 11.4)
 
  |
 | 
@@ -317,7 +317,7 @@ Relics hinted at by NPCs, Developers, Books, and other sources that cannot be ob
  | **The Coral Throne** - A Relic found in the First Layer by [The Ministry](The_Ministry.md). Has the ability to increase the power of any creature that sits on it tremendously. It is currently in the possession of [The Lord Regent](The_Lord_Regent.md) and is the reason he is able to cast a mental veil around the entirety of Etris. |
 | 
 
- | **Lifeweave Artifacts** - Used by [The Hive](The_Hive.md), [Etrea](Etrea.md) wants to steal them for their own purpose. Mentioned in the [book](Books.md) Lament of Cirryn, these artifacts were at one point sought after by Etrea, and they are currently continuing their efforts to steal them in [The Starswept Valley](Starswept_Valley.md). The conflict can be seen in the Hive vs. Etrea event. |
+ | **Lifeweave Artifacts** - Used by [The Hive](The_Hive.md), [Etrea](Etrea.md) wants to steal them for their own purpose. Mentioned in the [book](Books.md) Lament of Cirryn, these artifacts were at one point sought after by Etrea, and they are currently continuing their efforts to steal them in [The Starswept Valley](The_Starswept_Valley.md). The conflict can be seen in the Hive vs. Etrea event. |
 
 ## Trivia
 

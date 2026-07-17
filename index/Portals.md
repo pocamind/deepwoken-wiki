@@ -52,7 +52,7 @@ When obtained, Portals will spend its points on the following stats:
 -   There is a known bug where if the bell is Tarnished, you're able to immediately use it again after leaving the portal for the first time. The devs have chosen to leave this bug in the game for the time being.
 -   If portals is found to be corrupted, its downside will only be applied after exiting the portal.
 -   Chat bubbles persist through **Portal**, so it is recommended that none are visible before using.
-    -   As such, do _not_ use [spell shout](Spell_Shout.md).
+    -   As such, do _not_ use [spell shout](Valikor.md).
 -   This Resonance can be a great tool to ambush other players.
 -   Similar to _Valorant_ character **Yoru's** ultimate ability, Dimensional Travel, not to be confused with the Legendary Bell, "Dimensional Travel" (hence its nickname: **"Yoru").**
 -   Trying to use this bell while carrying a player (without it being corrupted) will drop the player.

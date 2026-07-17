@@ -18,7 +18,7 @@ Once a testament to the grand technologies of Kyrsa, now left to the rot of eter
 
   
 
-**The Sunken Railways** is a [location](Locations.md) in _Deepwoken_. It is a sub-location of [New Kyrsa, The Sleeping City](New_Kyrsa,_The_Sleeping_City.md).
+**The Sunken Railways** is a location in _Deepwoken_. It is a sub-location of [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
 
 ## Overview
 

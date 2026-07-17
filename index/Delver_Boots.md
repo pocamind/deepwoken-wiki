@@ -33,9 +33,9 @@ The [Surestep](Talents.md#surestep) Talent makes you immune to the ragdoll and f
 
 ## Obtainment
 
-To craft this item, you can obtain the recipe from [Alpha](Alpha.md). Then, you need 2 [Galewax](Galewax.md), 2 [Umbrite](Umbrite.md), and a pair of [Leather Boots](Leather_Boots.md). Because you cannot bring Galewax out of the Second Layer, you have to use [Master Craftsman](Talents.md#master-craftsman) or the crafting table at [The Frontier Furnace](The_Frontier_Furnace.md).
+To craft this item, you can obtain the recipe from [Alpha](Alpha.md). Then, you need 2 [Galewax](Galewax.md), 2 [Umbrite](Ores.md#umbrite), and a pair of [Leather Boots](Leather_Boots.md). Because you cannot bring Galewax out of the Second Layer, you have to use [Master Craftsman](Talents.md#master-craftsman) or the crafting table at [The Frontier Furnace](The_Frontier_Furnace.md).
 
 ## Trivia
 
--   You are unable to have Galewax outside of the Second Layer, meaning you must craft this item using the [Master Craftsman](Talents.md#master-craftsman) [Talent](Talent.md) or the [Crafting Station](Crafting_Station.md) inside the [Ignition Union](Ignition_Union.md) base.
+-   You are unable to have Galewax outside of the Second Layer, meaning you must craft this item using the [Master Craftsman](Talents.md#master-craftsman) [Talent](Talents.md) or the [Crafting Station](Crafting_Station.md) inside the [Ignition Union](The_Ignition_Union.md) base.
 -   The stars on the Delver Boots are created when crafted, thus the stars on the base Leather Boots used to craft it are inconsequential.

@@ -26,32 +26,32 @@ categories: [Outfits, Unique Outfits, World Event, Outfits with Talents, "Outfit
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Jester's Garb** is an Unique [Outfit](Outfit.md) in _Deepwoken_.
+**Jester's Garb** is an Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 400 and requires seven (7) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and ten (10) [Vibrant Gems](Vibrant_Gem.md) to craft.
+This Outfit costs 400 and requires seven (7) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and ten (10) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 12 to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 2500 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +15% Blunt resistance ResistanceBlunt, +35% Elemental resistance [ResistanceElemental](Attunement.md), and +50% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Not a Scratch](Talents.md#not-a-scratch) and [Mocking Favor](Talents.md#mocking-favor) Talents.
+This Outfit has 2500 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +15% Blunt resistance ResistanceBlunt, +35% Elemental resistance [ResistanceElemental](Attunements.md), and +50% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Not a Scratch](Talents.md#not-a-scratch) and [Mocking Favor](Talents.md#mocking-favor) Talents.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 36.25% Blunt ResistanceBlunt, 25% Slash ResistanceSlash, and 35% Elemental [ResistanceElemental](Attunement.md).
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 36.25% Blunt ResistanceBlunt, 25% Slash ResistanceSlash, and 35% Elemental [ResistanceElemental](Attunements.md).
 
 The [Mocking Favor](Talents.md#mocking-favor) Talent causes [Tillian](Tillian.md) to appear when you taunt (spit) or emote. He'll do an emote, say a quip, and apply a random buff or affliction to you. This Talent has a 30 second cooldown.  
-The [Not A Scratch](Talents.md#not-a-scratch) disables all visual effects that signify your health amount. No cuts, no scratches, no torn clothing, [Rhythm](Rhythm.md) pings will always display white, etc. If you have less than 100 Willpower, you character will have a chance to scream in agony upon taking damage.
+The [Not A Scratch](Talents.md#not-a-scratch) disables all visual effects that signify your health amount. No cuts, no scratches, no torn clothing, [Rhythm](Murmur%253A_Rhythm.md) pings will always display white, etc. If you have less than 100 Willpower, you character will have a chance to scream in agony upon taking damage.
 
 List of buffs being:
 
--   [Visionshaper](Visionshaper.md) invisibility from the Cheap Trick Talent for around three seconds. \[Hey, where’d you go?!\]
--   Grants you ~18% Tempo. Indicated by a light blue effect, somewhat similar to [Reinforce](Reinforce.md)'s vfx. \[Don't worry - It's on the house!\]
+-   [Visionshaper](Oath%253A_Visionshaper.md) invisibility from the Cheap Trick Talent for around three seconds. \[Hey, where’d you go?!\]
+-   Grants you ~18% Tempo. Indicated by a light blue effect, somewhat similar to [Reinforce](Attunement-less.md#reinforce)'s vfx. \[Don't worry - It's on the house!\]
 -   30% Posture restoration. Indicated by a metal clanging sound effect. \[Quick, they're weak!\]
 -   A free reroll, granting you an additional buff or affliction. \[Bravo, bravo!\]
--   One 0 cost Mantra, this affects your allies as well. Indicated by a dark blue [Reinforce](Reinforce.md)\-like vfx.
+-   One 0 cost Mantra, this affects your allies as well. Indicated by a dark blue [Reinforce](Attunement-less.md#reinforce)\-like vfx.
 -   A percentage of the damage you've taken recently will be turned into healing. \[Wanted to give ya a quick breather!\]
 -   Vent cooldown reset, allowing you to Vent again.
 

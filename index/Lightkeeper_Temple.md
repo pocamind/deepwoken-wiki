@@ -27,7 +27,7 @@ The temple's entrance is along the route taken to the [Widow's Hollow](<Widow's_
 
 ### [Blindseer Glyph](<%253F%253F%253F_(Blindseer_Glyphs).md>)
 
-Inside one of the jail cells there is a glyph that is interactable but will only call out to those who have the [Blindseer](Blindseer.md) [Oath](Oath.md). It describes the long sunken [City of Celtor](City_of_Celtor.md), and its fall into the [First Layer](First_Layer.md).
+Inside one of the jail cells there is a glyph that is interactable but will only call out to those who have the [Blindseer](Oath%253A_Blindseer.md) [Oath](Oaths.md). It describes the long sunken [City of Celtor](City_of_Celtor.md), and its fall into the [First Layer](First_Layer.md).
 
 ## Maps
 

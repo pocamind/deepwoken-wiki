@@ -33,13 +33,13 @@ There are multiple ways to obtain an Enchant Stone, the usual and best source be
 
 Most of the game's Enchant Stones have non-exclusive obtainment locations, meaning there are several options available to you for their obtainment.
 
--   Exchanging 5 to [Klaris](Klaris.md) for a random non-exclusive Enchant Stone.
--   Chance to obtain from a chest from several bosses including: the [Heart of Enmity](Heart_of_Enmity.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), the [Dread Serpent](Dread_Serpent.md), [Scion of Ethiron](Scion_of_Ethiron.md), and [Chaser](Chaser.md).
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) for a random non-exclusive Enchant Stone.
+-   Chance to obtain from a chest from several bosses including: the [Heart of Enmity](Heart_of_Enmity.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), the [Dread Serpent](Dread_Serpent.md), [Scion of Ethiron](Scion_of_Ethiron.md), and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).
 -   Chance to obtain from a chest from several dungeons including: [Second Layer](Second_Layer.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), and [Saramaed Hollow](Saramaed_Hollow.md).
 -   Chance to obtain from [War Mode](War_Mode.md) and [Hell Mode](Hell_Mode.md).
 -   Unlocking the [Galewax](Galewax.md) Room from the [Second Layer](Second_Layer.md). This room always contains three tiny chests, that have a **25%** chance of providing a random non-exclusive Enchant Stone per chest. If not an Enchant Stone, it's a random [Kyrsweapon](Weapons.md).
 -   Certain enchants can additionally be sold during [Traan Zakshun's](Traan_Zakshun.md) black market for 5, but are otherwise non-exclusive enchants.
--   [Crafting](Crafting.md) them with any other Enchant Stone and two catalyst ingredients. The recipe depends on the Enchant Stone; see their individual pages or the main [Enchantments](Enchantments.md) page.
+-   [Crafting](Crafting_Recipes.md) them with any other Enchant Stone and two catalyst ingredients. The recipe depends on the Enchant Stone; see their individual pages or the main [Enchantments](Enchantments.md) page.
 
 ### Exclusive Enchants
 
@@ -50,17 +50,17 @@ These Enchant Stones can only be obtained through certain methods. These are: As
 -   _**[Curse of Captain Greene](Curse_of_Captain_Greene.md)**_ can be exclusively bought from [The Gaunt Man](The_Gaunt_Man.md) for 1 [Exotic Hide](Exotic_Hide.md).
 -   _**[Curse of the Authoritative](Curse_of_the_Authoritative.md)**_ can only be obtained from [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
 -   _**[Curse of Void](Curse_of_Void.md)**_ can exclusively be bought from [The Gaunt Man](The_Gaunt_Man.md) for 25 [Void Spires](Void_Spire.md) and 10.
--   _**[Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>)**_ Enchant Stone can be obtained by defeating [Hive Constructs](Hive_Construct.md) or [Rogue Constructs](Rogue_Construct.md) as a direct drop, turning in an [Aratel Artifact](Artifacts.md) to a Banker, rarely from [Fishing](Fishing.md) chests, [Primadon](Primadon.md) and [Elder Primadon](Elder_Primadon.md) chests, or in any [Starswept Valley](Starswept_Valley.md) chest (rarely). Ysley's Ember can also be sold for 8 in [Traan Zakshun's](Traan_Zakshun.md) black market.
+-   _**[Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>)**_ Enchant Stone can be obtained by defeating [Hive Constructs](Hive_Construct.md) or [Rogue Constructs](Rogue_Construct.md) as a direct drop, turning in an [Aratel Artifact](Artifacts.md) to a Banker, rarely from [Fishing](Fishing.md) chests, [Primadon](Primadon,_Titan_of_the_East.md) and [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md) chests, or in any [Starswept Valley](The_Starswept_Valley.md) chest (rarely). Ysley's Ember can also be sold for 8 in [Traan Zakshun's](Traan_Zakshun.md) black market.
 -   _**[Harrowing](Harrowing.md)**_ can be purchased from any [Blacksmith](Blacksmith.md) for 10 if you have the 2023 [Hallowtide Medallion](Seasonal_Medals.md), bought from [Glaive Spellhardt](Glaive_Spellhardt.md) during the [Hallowtide](Hallowtide.md) event for 150 Joy, or found in the [Goodie Bag](Goodie_Bag.md).
--   _**[Kyrsan Chill](Kyrsan_Chill.md)**_ can only be obtained from the [Kyrsgarde Champion](Kyrsgarde_Champion.md).
+-   _**[Kyrsan Chill](Kyrsan_Chill.md)**_ can only be obtained from the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>).
 -   _**[Nightbringer](Nightbringer.md)**_ drops directly from [Parliament](Parliament.md) and [Prime Megalodaunts](Prime_Megalodaunt.md). It is guaranteed to drop from Parliament.
 -   _**[Parasol's Blight](<Parasol's_Blight.md>)**_ can be exclusively bought from [The Gaunt Man](The_Gaunt_Man.md) for 1 [Parasol Part](Parasol_Part.md).
--   _**[Suffocated](<Suffocated_(enchantment).md>)**_ is exclusively obtained by [crafting](Crafting.md) 1 [Windswept](Windswept.md) Enchant Stone and 2 [Gale Essence](Gale_Essence.md) at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md) [CraftingEmpty](Lost_Forge_of_Leiuna.md).
--   _**[Windswept](Windswept.md)**_ can only be obtained from [Kyrsgarde Champion](Kyrsgarde_Champion.md) and [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
+-   _**[Suffocated](<Suffocated_(enchantment).md>)**_ is exclusively obtained by [crafting](Crafting_Recipes.md) 1 [Windswept](Windswept.md) Enchant Stone and 2 [Gale Essence](Gale_Essence.md) at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md) [CraftingEmpty](Lost_Forge_of_Leiuna.md).
+-   _**[Windswept](Windswept.md)**_ can only be obtained from [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>) and [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
 
 ### [Vow of Iron](Vow_of_Iron.md) Enchantments
 
--   _**[Ether Surge](Ether_Surge.md)**_ is exclusive to the [Ether Erudite](Ether_Erudite.md) [Memento](Memento.md).
+-   _**[Ether Surge](Ether_Surge.md)**_ is exclusive to the [Ether Erudite](Ether_Erudite.md) [Memento](Mementos.md).
 
 ## Trivia
 

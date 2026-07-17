@@ -43,14 +43,14 @@ categories: [Weapons, Oaths, The Hundred Legions]
 
 ## Description
 
-**[Oath](Oath.md): Blightsurger** is one of the 17 obtainable Oaths in _Deepwoken._ It is an Oath centered on the [Wither](Status_Effects.md#wither) Status and hindering your opponent. This Oath is associated with [The Hundred Legions](The_Hundred_Legions.md).
+**[Oath](Oaths.md): Blightsurger** is one of the 17 obtainable Oaths in _Deepwoken._ It is an Oath centered on the [Wither](Status_Effects.md#wither) Status and hindering your opponent. This Oath is associated with [The Hundred Legions](The_Hundred_Legions.md).
 
 “ History only remembers the general, and never the soldier. \[...\] Together, we were an unstoppable force. ”
 
 ― Titus, Fulminus Destellus
 
   
-Blightsurger draws most of its power from Sacred Lightning. It was invented by [Theros](Theros.md), who passed it onto their disciples. [Titus](Titus.md) is one of its users and a trainer of the power, who used it alongside the 49th Legion - which he was the leader of - to conquer a majority of the Western Luminant in the name of The Empire.
+Blightsurger draws most of its power from Sacred Lightning. It was invented by [Theros](Theros.md), who passed it onto their disciples. [Titus](Titus_Fulminus_Destellus.md) is one of its users and a trainer of the power, who used it alongside the 49th Legion - which he was the leader of - to conquer a majority of the Western Luminant in the name of The Empire.
 
 ## Obtainment
 
@@ -58,7 +58,7 @@ To obtain Blightsurger, the player must defeat [Titus Fulminus Destellus](Titus_
 
 The player must have at least a sum of 80 points invested into Strength, Agility, and Fortitude, as well as 40 [Thundercall](Thundercall.md) or [Galebreathe](Galebreathe.md), and slightly higher than Ally reputation with [The Hundred Legions](The_Hundred_Legions.md) to obtain Blightsurger.
 
-_Blightsurger **can** be reobtained if you [Oathbreak](Oathbreak.md) it._
+_Blightsurger **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it._
 
 ## Progression
 
@@ -96,7 +96,7 @@ You _**cannot**_ oath skip Blightsurger. Attempting to do will have Brutus beat 
     -   The Sovereign Bangle retains your original weapon's enchantment and weapon quality value (stars).
     -   While Sovereign Bangle does not innately have any scaling, you can grant it scaling through the use of [Scaling Rings](<Dawnfist's_Ring.md>).
     -   Outside of Sovereign State, the Sovereign Bangle uses the critical of your equipped fist style like an average Cestus would.
-        -   This can only be seen through the [Theros Disciple](Theros_Disciple.md) [Memento](Memento.md), which gives you the weapon on character creation, allowing it to use the [Imperium Kata](Imperium_Kata.md) critical.
+        -   This can only be seen through the [Theros Disciple](Theros_Disciple.md) [Memento](Mementos.md), which gives you the weapon on character creation, allowing it to use the [Imperium Kata](Imperium_Kata.md) critical.
     -   Sovereign Bangle can be enhanced with Blightsurger Talents.
         -   Blightlash grants Sovereign Bangle 1 additional range, going from 6 to 7.
         -   Blighted Touch allows Sovereign Bangle to apply Blightshock (70% of its damage as Wither).
@@ -297,7 +297,7 @@ TBA
 
 -   If you are an [Authority Ensign](Authority_Ensign.md), you will not be able to obtain this Oath unless you are a [Khan](Khan.md) or have the [Celebrity](Talents.md#celebrity) Talent, due to your reputation capping before you meet the Oath's reputation requirement otherwise.
 -   You cannot skip Blightsurger's Oath progression with Knowledge. Attempting to do so will result in [Brutus](Brutus.md) beating you up, with him stating: "Should've listened. _No shortcuts_." This is because, for some reason, doing so would leave Dexerius unable to give the Oath buffs, somehow, for unknown reasons.[\[1\]](#cite-note-1)
--   This is Dexerius' fourth Oath. His other works are [Saintsworn](Saintsworn.md), [Arcwarder](Arcwarder.md), and [Visionshaper](Visionshaper.md).
+-   This is Dexerius' fourth Oath. His other works are [Saintsworn](Oath%253A_Saintsworn.md), [Arcwarder](Oath%253A_Arcwarder.md), and [Visionshaper](Oath%253A_Visionshaper.md).
 -   This Oath was accidentally released early in [Battle Royale](Battle_Royale.md), allowing players to play a very bare-bones version of the Oath.
 -   This Oath is used by [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
 -   Blightsurger's requirements have changed three times since its addition, and all three changes were done within the first week of the Oath being added. While the attunement requirement remained the same, the core attribute requirement has been changed multiple times.

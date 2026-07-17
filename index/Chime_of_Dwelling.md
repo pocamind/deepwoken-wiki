@@ -29,7 +29,7 @@ The Chime of DweIIing does not work in or under the following:
 -   Inside of a [Guild Base](Guild_Bases.md)
 -   [Depths](First_Layer.md) and its [Layers](The_Depths.md)
 -   [Voidzones](Voidzones.md)
--   Dungeons or Missions ([Duke](Duke_Erisia.md) Fight, [Ferryman](The_Ferryman.md) Fight, [Maestro](Maestro_Evengarde_Rest.md) Fight, [Trial of One](Trial_of_One.md))
+-   Dungeons or Missions ([Duke](Duke_Ishamon_Erisia.md) Fight, [Ferryman](The_Ferryman.md) Fight, [Maestro](Maestro_Evengarde_Rest.md) Fight, [Trial of One](Trial_of_One.md))
 -   Occupied Locations by Factions that see you as a Hostile
 -   Being in-combat
 -   [The Monkey's Paw](<The_Monkey's_Paw.md>) and [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) (as they are boss arenas)

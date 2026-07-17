@@ -32,7 +32,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Strange Merchant** is a playable [Memento](Memento.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. This Memento forces your race to be [Levit](Levit.md). This Memento's core ability is the Magic Coffin; a [Mystery Box](Mystery_Boxes.md) that costs Notes to use.
+**Strange Merchant** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. This Memento forces your race to be [Levit](Levit.md). This Memento's core ability is the Magic Coffin; a [Mystery Box](Mystery_Boxes.md) that costs Notes to use.
 
 Strange Merchant can ignore all requirements (stat and otherwise) on equipment, weapons and outfits (with a few exceptions).
 
@@ -157,7 +157,7 @@ N/A
 -   Inflicts Charm on nearby entities for 10 seconds.
 -   Sing cannot be parried, but will not apply Charm if it is blocked or dodged. Sing deals 0 posture damage.
 -   Can be modified with cloud and stratus stones to increase range, but increase the cooldown. (1 Cloudstone = +2s CD, 1 Stratus stone = +3s CD)
--   Shares a cooldown with [Glare](Glare.md).
+-   Shares a cooldown with [Glare](Attunement-less.md#glare).
 -   Can be upgraded with the **Encore** Talent, applying **true stun** if you land Sing on a Charmed opponent.
 -   Can be upgraded with the **Propagandist** Talent, granting your allies [Overcharm](Status_Effects.md#overcharm) for 15 seconds.
 
@@ -167,11 +167,11 @@ N/A
 
 ### Starting Deck
 
--   Compelling Offer \[Memento Talent\] - Any charmed enemy below 50% hit with your mantras or critical will mysteriously begin attacking everyone but you. \[\[\[Status Effects#Madness|Madness\]\]\] Your [taunt](Taunt.md) also now functions as a counter that stacks damage multipliers with every successful taunt.
+-   Compelling Offer \[Memento Talent\] - Any charmed enemy below 50% hit with your mantras or critical will mysteriously begin attacking everyone but you. \[\[\[Status Effects#Madness|Madness\]\]\] Your [taunt](Attunement-less.md#taunt) also now functions as a counter that stacks damage multipliers with every successful taunt.
     
     -   Madness from this Talent procs when attacking charmed enemies who are below 50% health.
     -   Madness prevents non-boss enemies from dealing damage and hitstunning you.
-    -   Using Taunt as a counter displays [Prediction](Prediction.md)'s visual effects but with a dark purple color. This also plays a laughing sound effect and reduces Taunt's cooldown to 1 second.
+    -   Using Taunt as a counter displays [Prediction](Attunement-less.md#prediction)'s visual effects but with a dark purple color. This also plays a laughing sound effect and reduces Taunt's cooldown to 1 second.
     -   Taunt counter does not deal damage but instead stacks Taunt's damage buff effect.
 
 -   Cornered Fool \[Common Talent\] **100** \- Blockbreaking a Charmed opponent procs Taunt for 5s, making them take and deal more damage. 15s CD
@@ -182,7 +182,7 @@ N/A
 
 -   Off Your Game \[Common Talent\] **100** \- You now slow Taunted enemies when you hit them.
 
--   Tough Love \[Common Talent\] **100** \- Deal 10% more damage to enemies [Charmed](Charm.md) by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you apply [Charmed](Charm.md) briefly.
+-   Tough Love \[Common Talent\] **100** \- Deal 10% more damage to enemies [Charmed](Status_Effects.md#charm) by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you apply [Charmed](Status_Effects.md#charm) briefly.
     -   Charms for 2 seconds with a 1 second cooldown.
     -   If attacked while on cooldown, the cooldown timer resets and you have to wait another second again to be able to proc Tough Love's Charm.
     -   The damage increase affects **all** forms of Charm, not exclusively Tough Love's.
@@ -273,7 +273,7 @@ N/A
 -   Affected entities become unable to jump.
 -   Taunt deals 0 Posture dmg and doesn't go through block, parry or dodge.
 -   Can be upgraded with the **Off your Game** Talent, allowing you to slow Taunted opponents when hitting them.
--   Using Taunt on any humanoid [boss](Bosses.md) (excluding [Titus](Titus.md)) will instantly start the fight, skipping all dialogue.
+-   Using Taunt on any humanoid [boss](Bosses.md) (excluding [Titus](Titus_Fulminus_Destellus.md)) will instantly start the fight, skipping all dialogue.
 
  |
 
@@ -374,13 +374,13 @@ Oath [ResistanceOath](Oaths.md)
 -   This Mantra is **unparryable** and guardbreaks if anybody attempts to do so.
 -   This move has an early hitbox. It registers a hit before the attack hits the ground. Make sure to dodge **before** the move is going to land.
 -   Requires the player to actually hit the floor after the initial leap for the explosion to go off in a certain timeframe.
-    -   This means that in low-gravity environments such as [Scyphozia](Scyphozia.md), this mantra is very inconsistent in combat use.
+    -   This means that in low-gravity environments such as [Scyphozia](First_Layer.md), this mantra is very inconsistent in combat use.
 
  |
 
 ### Power 10
 
--   Charismatic Cast \[Common Talent\] **100** \- Landing a hit with a mantra on an enemy applies [Charmed](Charm.md). Allies recover from being knocked twice as quickly when [Charmed](Charm.md) by you.
+-   Charismatic Cast \[Common Talent\] **100** \- Landing a hit with a mantra on an enemy applies [Charmed](Status_Effects.md#charm). Allies recover from being knocked twice as quickly when [Charmed](Status_Effects.md#charm) by you.
     -   This charm lasts 10s (5s against Disbelief Talent).
     -   Targets _you've_ Charmed will deal 10% less damage to you.
     -   When applying Charm to an already Charmed target, if the new Charm's _total duration_ is longer than the current Charm's _remaining duration_, the original Charm will be replaced. If not, nothing will happen.
@@ -408,7 +408,7 @@ Oath [ResistanceOath](Oaths.md)
 
 -   _Golden Tongue_ \[Rare Talent\] **250** \- Typing or using a gesture gives a random buff to you and those around you. (60 second cooldown)
     -   Sending a message in chat or using an emote will proc this Talent.
-    -   Can either restore 30% of max ether or grant 10% damage reduction for 30 seconds, similar to [Reinforce](Reinforce.md) (does not stack).
+    -   Can either restore 30% of max ether or grant 10% damage reduction for 30 seconds, similar to [Reinforce](Attunement-less.md#reinforce) (does not stack).
     -   The buff is random for each person affected.
     -   For every point in Charisma above 40, the cooldown will be decreased by 0.25 seconds, having a 45 second cooldown at 100 Charisma.
 
@@ -515,7 +515,7 @@ Oath [ResistanceOath](Oaths.md)
 
 ### True Heart of Enmity
 
--   Voice of the Mad God \[Common Talent\] - Any time you apply [charm](Charm.md) it now applies "[Madness](Status_Effects.md#madness)" to enemies directly.
+-   Voice of the Mad God \[Common Talent\] - Any time you apply [charm](Status_Effects.md#charm) it now applies "[Madness](Status_Effects.md#madness)" to enemies directly.
 
 ## References
 

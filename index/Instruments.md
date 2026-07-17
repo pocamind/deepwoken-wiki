@@ -24,7 +24,7 @@ Instruments can be purchased, for 25 each, at:
 
 If you are near another player, the prompt to play a song now adds Play Along, syncing your instrument with theirs. You can only play along with songs you currently have.
 
-To access songs, you must read the corresponding book. These books can be obtained from either searching through a bookshelf or buying them from a [Merchant Ship](Chili.md). The current books in the game that give you shanties are:
+To access songs, you must read the corresponding book. These books can be obtained from either searching through a bookshelf or buying them from a [Merchant Ship](Travelling_Merchant.md). The current books in the game that give you shanties are:
 
 -   [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md)
 -   [The Gideshu March](The_Gideshu_March.md)
@@ -58,4 +58,4 @@ Clicking on the ability to select it and then clicking anywhere on the screen wi
 
 ### Spectral Instruments
 
-**During the [Hallowtide](<Hallowtide_(Event).md>) event, the Spectral Instruments can be bought from [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md) for 200 Joy. They can also be bought at any time from any [Blacksmith](Blacksmith.md) if you have the [Hallowtide 2024 Medal](Seasonal_Medals.md) for 10 Knowledge.**
+**During the [Hallowtide](Hallowtide.md) event, the Spectral Instruments can be bought from [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md) for 200 Joy. They can also be bought at any time from any [Blacksmith](Blacksmith.md) if you have the [Hallowtide 2024 Medal](Seasonal_Medals.md) for 10 Knowledge.**

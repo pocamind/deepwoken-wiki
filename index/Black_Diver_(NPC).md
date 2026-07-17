@@ -15,7 +15,7 @@ categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths, D
 | weapon | Forgotten Gladius, Markor's Inheritor, Pale Morning |
 | moves | Assault, Critical, Gale Lunge, Jolt Grab, Astral Wind, Jolt Grab, Rising Thunder, Ice Smash, Blinding Dawn, Radiant Kick, Radiant Dawn |
 
-_This is the Black Diver NPC. To see the Master [Outfit](Outfit.md) under the same name, check [Black Diver](Black_Diver.md)._
+_This is the Black Diver NPC. To see the Master [Outfit](Outfits.md) under the same name, check [Black Diver](Black_Diver.md)._
 
 ## Description
 
@@ -219,7 +219,7 @@ A Black Diver executes its opponent after knocking them:
 
 ## Trivia
 
--   Originally, Black Divers replaced the Divers Guards at Castle Light to improve its safety, they were however replaced with [Journeymen Divers](Journeymen_Diver.md) on January 16th, 2023 due to their presence contradicting the established low number and high power level of actual Black Divers.
+-   Originally, Black Divers replaced the Divers Guards at Castle Light to improve its safety, they were however replaced with [Journeymen Divers](Journeyman_Diver_Guard.md) on January 16th, 2023 due to their presence contradicting the established low number and high power level of actual Black Divers.
     -   They then went unused until the May 15th, 2023 update, which brought [Faction Ambushes](Faction_Ambushes.md), which reintroduced them as part of high level ambushes.
 -   If you talk to one in [The Understrand](The_Understrand.md), they will begin attacking you as the only way you can find one there is if you have bad [Reputation](Reputation.md) with The Divers.
 -   They are one of the few enemies that use [Oaths](Oaths.md), with the other enemies being the [Ignition Union Arcwarder](Ignition_Union_Arcwarder.md), [Subtle Knife of Eylis](Subtle_Knife_of_Eylis.md), [Old Knife of Eylis](Old_Knife_of_Eylis.md), [Ministry Enforcer](Ministry_Enforcer.md), and [all](Iblis,_The_Fallen_Angel.md) [four](Abaddon,_Sinner_of_Ice.md) [Starkindred](Minos,_Sinner_of_Flame.md) [enemies](Astaroth,_Sinner_of_Wind.md).

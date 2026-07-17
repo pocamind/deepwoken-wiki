@@ -10,11 +10,11 @@ categories: [Mantras]
 
 ## Description
 
-Monster Mantras are [Mantras](Mantras.md) that players are capable of obtaining which mimic a specific move from a [monster](Monsters.md). Obtaining the monster drops required to acquire the [Mantras](Mantras.md). It can be difficult to obtain, although most, if not all of the [Mantras](Mantras.md) are considered worth the requirements. Having the ability to throw bones like a [Bonekeeper](Bone_Keeper.md), shoot coral as if you were a [Megalodaunt](Megalodaunt.md), pull enemies as though you were an [Enforcer](The_Enforcer.md), monster mantras allow the player to have more versatility within combat. These mantras do not belong to any [Attunement](Attunement.md), being their own category of abilities. This means the Mantras are not upgradable, retaining the [damage](Combat_Mechanics.md) from obtainment.
+Monster Mantras are [Mantras](Mantras.md) that players are capable of obtaining which mimic a specific move from a [monster](Monsters.md). Obtaining the monster drops required to acquire the [Mantras](Mantras.md). It can be difficult to obtain, although most, if not all of the [Mantras](Mantras.md) are considered worth the requirements. Having the ability to throw bones like a [Bonekeeper](Bone_Keeper.md), shoot coral as if you were a [Megalodaunt](Megalodaunt.md), pull enemies as though you were an [Enforcer](Enforcer.md), monster mantras allow the player to have more versatility within combat. These mantras do not belong to any [Attunement](Attunements.md), being their own category of abilities. This means the Mantras are not upgradable, retaining the [damage](Combat_Mechanics.md) from obtainment.
 
 ## Obtainment
 
-Talk to [Carrion, Father of Evolution](Carrion.md) at the end of the maze in Layer 2: Floor 2, after which he appears and stays at [Castle Light](Castle_Light.md), allowing you to speak with him and obtain the mantras. Monster mantras are obtained by talking to Carrion and giving him rare drops from certain monsters. The drops follow: [Enforcer Eye](Enforcer_Eye.md), [Thresher Talon](Thresher_Talon.md), [Megalodaunt Coral](Megalodaunt_Coral.md), [Dread Serpent's Tooth](<Dread_Serpent's_Tooth.md>), [Giant Femur](Giant_Femur.md), [Broken Gatling Gun](Broken_Gatling_Gun.md), [Terrapod Shell](Terrapod_Shell.md) and the [Nautilodaunt Beak](Nautilodaunt_Beak.md).
+Talk to [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) at the end of the maze in Layer 2: Floor 2, after which he appears and stays at [Castle Light](Castle_Light.md), allowing you to speak with him and obtain the mantras. Monster mantras are obtained by talking to Carrion and giving him rare drops from certain monsters. The drops follow: [Enforcer Eye](Enforcer_Eye.md), [Thresher Talon](Thresher_Talon.md), [Megalodaunt Coral](Megalodaunt_Coral.md), [Dread Serpent's Tooth](<Dread_Serpent's_Tooth.md>), [Giant Femur](Giant_Femur.md), [Broken Gatling Gun](Broken_Gatling_Gun.md), [Terrapod Shell](Terrapod_Shell.md) and the [Nautilodaunt Beak](Nautilodaunt_Beak.md).
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/pEgA0zXlJsk)._
 
@@ -382,9 +382,9 @@ Blunt ResistanceBlunt
 
 -   Deals 35 damage.
 -   The burrow has a duration of 3 seconds, ending early if you get close to a player/NPC.
-    -   Unlike [Sanguine Dive](Sanguine_Dive.md) and [Shade Step](Shade_Step.md), this cannot be manually deactivated early by pressing M1.
+    -   Unlike [Sanguine Dive](Bloodrend.md#sanguine-dive) and [Shade Step](Shadowcast.md#shade-step), this cannot be manually deactivated early by pressing M1.
 -   Can be enhanced by using the [Thresher Charm](Thresher_Charm.md), increasing the burrow duration by 30%, and reducing its cooldown by 25%.
--   Shares a cooldown with [Shade Step](Shade_Step.md) and [Sanguine Dive](Sanguine_Dive.md).
+-   Shares a cooldown with [Shade Step](Shadowcast.md#shade-step) and [Sanguine Dive](Bloodrend.md#sanguine-dive).
 
  |
 
@@ -459,10 +459,10 @@ Typeless
     -   The following abilities can proc Bone Wisp:
         -   Base combat: Uppercuts, Flourishes, and Offhand [Pistol](Pistols.md) shots (even if you do not have [Execution](Talents.md#execution)).
         -   Talents: Air Counters with [Cut to the Chase](Talents.md#cut-to-the-chase) and [Emperor Flame](Talents.md#emperor-flame).
-        -   Mantras: [Celestial Assault](Celestial_Assault.md), [Crimson Surge](Crimson_Surge.md), [Crystal Knee](Crystal_Knee.md), [Onslaught](Onslaught.md), [Palm Strike](Palm_Strike.md) (in True Strength), [Razor Blitz](Razor_Blitz.md), [Rising Flame](Rising_Flame.md), [Rising Wind](Rising_Wind.md), [Shade Step](Shade_Step.md), [Skyshatter Kick](Skyshatter_Kick.md) (Round Spark), and [Wind Blade](Wind_Blade.md) (slide jump variant).
+        -   Mantras: [Celestial Assault](Oath%253A_Starkindred.md#celestial-assault), [Crimson Surge](Bloodrend.md#crimson-surge), [Crystal Knee](Frostdraw.md#crystal-knee), [Onslaught](Attunement-less.md#onslaught), [Palm Strike](Oath%253A_Bladeharper.md#palm-strike) (in True Strength), [Razor Blitz](Bloodrend.md#razor-blitz), [Rising Flame](Flamecharm.md#rising-flame), [Rising Wind](Galebreathe.md#rising-wind), [Shade Step](Shadowcast.md#shade-step), [Skyshatter Kick](Attunement-less.md#skyshatter-kick) (Round Spark), and [Wind Blade](Galebreathe.md#wind-blade) (slide jump variant).
         -   Weapon Criticals: [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), and[Rimebreakers](Rimebreakers.md).
     -   The following abilities do not proc Bone Wisp, despite uptilting:
-        -   Mantras: [Abyssal Ridge](Abyssal_Ridge.md), [Flame Leap](Flame_Leap.md), [Lightning Impact](Lightning_Impact.md), [Rising Frost](Rising_Frost.md), and [Updraft](Updraft.md).
+        -   Mantras: [Abyssal Ridge](Monster_Mantras.md#abyssal-ridge), [Flame Leap](Flamecharm.md#flame-leap), [Lightning Impact](Thundercall.md#lightning-impact), [Rising Frost](Frostdraw.md#rising-frost), and [Updraft](Galebreathe.md#updraft).
         -   Resonances: [Portals](Portals.md) (Dive Variant).
 
  |
@@ -495,7 +495,7 @@ N/A
  |
 | 
 
-**Effect:** _Create a vacuum of space from your hand, auto-tracking enemies and pulling them in. Based on the [Enforcer](The_Enforcer.md)'s '**Space Pull'** attack._
+**Effect:** _Create a vacuum of space from your hand, auto-tracking enemies and pulling them in. Based on the [Enforcer](Enforcer.md)'s '**Space Pull'** attack._
 
 -   Missing still takes Ether and does not put this mantra on cooldown.
 -   The set Talent "**Enforcer's Pull**" from [Reinforced Enforcer Plate](Reinforced_Enforcer_Plate.md) and [Reinforced Enforcer Boots](Reinforced_Enforcer_Boots.md) all-but removes the windup of the pull after landing a flourish.

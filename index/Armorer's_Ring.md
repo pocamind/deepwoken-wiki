@@ -31,5 +31,5 @@ This does not reduce the armor damage from any of [Ironsing's](Ironsing.md) abil
 
 ## Trivia
 
--   The armor damage reduction granted by this ring can be stacked with talents like [Armor Conserver](Talents.md#armor-conserver) and the [Steadfast](Steadfast.md) Boon.
+-   The armor damage reduction granted by this ring can be stacked with talents like [Armor Conserver](Talents.md#armor-conserver) and the [Steadfast](Boons_and_Flaws.md#steadfast) Boon.
 -   The runes on the ring reads gibberish.

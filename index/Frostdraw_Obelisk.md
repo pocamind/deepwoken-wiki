@@ -15,7 +15,7 @@ categories: [NPCs, NPCs located in the Etrean Luminant, Oath Trainer]
 
 ## Description
 
-The Frostdraw Obelisk is an [NPC](NPC.md) located within a secret area behind a destructible bookshelf on the second floor of the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), known as the [Glacial Remnant](Glacial_Remnant.md). It must be located and interacted with, along with [4 other element-based obelisks](Saintsworn_Obelisks.md), to obtain the [Saintsworn](Saintsworn.md) [Oath](Oath.md).
+The Frostdraw Obelisk is an NPC located within a secret area behind a destructible bookshelf on the second floor of the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), known as the [Glacial Remnant](Glacial_Remnant.md). It must be located and interacted with, along with [4 other element-based obelisks](Saintsworn_Obelisks.md), to obtain the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md).
 
 It can only be interacted with if you have at least 15 [Frostdraw](Frostdraw.md). When interacted with, [Faust](Faust.md), the Hero of Frost, will speak to the player.
 

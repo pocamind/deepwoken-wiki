@@ -21,7 +21,7 @@ notices:
 
 C'lantaa was a [Tiran](Tiran.md) NPC.
 
-He was found in [New Kyrsa, The Sleeping City](New_Kyrsa,_The_Sleeping_City.md) in a building with the teleporter to the tunnel near the vent into [The Sunken Railways](The_Sunken_Railways.md). Similar with other residents of the city, he is unable to recall his past aside from not having a well-off one.
+He was found in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) in a building with the teleporter to the tunnel near the vent into [The Sunken Railways](The_Sunken_Railways.md). Similar with other residents of the city, he is unable to recall his past aside from not having a well-off one.
 
 He attempted to communicate with the local [Kyrsgarde](Kyrsgarde.md), but was wounded in the process. He suspects the mist is the vector by which [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>) is enslaving the Kyrsgarde.
 

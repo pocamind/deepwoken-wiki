@@ -38,7 +38,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 
 ## Description
 
-The Crucible Rapier is around the same as the [Apprentice Rapier](Apprentice_Rapier.md) and [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), not having too much of a difference except for higher damage & scaling plus a 20% penetration stat. It can be obtained in [Starswept Valley](Starswept_Valley.md) as well as the [Rogue Constructs](Rogue_Construct.md) at [Minityrsa](Minityrsa.md).
+The Crucible Rapier is around the same as the [Apprentice Rapier](Apprentice_Rapier.md) and [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), not having too much of a difference except for higher damage & scaling plus a 20% penetration stat. It can be obtained in [Starswept Valley](The_Starswept_Valley.md) as well as the [Rogue Constructs](Rogue_Construct.md) at [Minityrsa](Minityrsa.md).
 
 ## Talents
 
@@ -50,7 +50,7 @@ Equipping the Crucible Rapier grants its unique [weapon Talent](Talents.md#weapo
 
 Crucible Rapier uses the default Rapier critical, thrusting the weapon 4 times. Each hit has a scaled damage multiplier of **0.7x**. It has a cooldown of **3 seconds**.
 
-This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

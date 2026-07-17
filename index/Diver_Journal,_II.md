@@ -12,7 +12,7 @@ notices:
 
 ## Description
 
-_**Diver Journal, II**_ was a [Book](Book.md) found in the first floor of the [Second Layer](Second_Layer.md). It was changed to [Diver's Journal: Journeyman Skeli](<Diver's_Journal%253A_Journeyman_Skeli.md>).
+_**Diver Journal, II**_ was a [Book](Books.md) found in the first floor of the [Second Layer](Second_Layer.md). It was changed to [Diver's Journal: Journeyman Skeli](<Diver's_Journal%253A_Journeyman_Skeli.md>).
 
 ## Text
 
@@ -30,5 +30,5 @@ Diver Journal, II
 ## Appearances
 
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) (Mentioned only)
--   [Journeyman Skeli](Journeyman_Skeli.md)
+-   [Journeyman Skeli](<Abandoned_Diver_(Journeyman_Skeli).md>)
 -   [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) (Mentioned only)

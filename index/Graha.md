@@ -27,7 +27,7 @@ Graha is a [Vesperian](Vesperian.md) NPC. They are a [Diver](The_Divers.md).
 
 ## Location
 
-Graha is located in [Castle Light](Castle_Light.md), on the second floor next to the [Campfire](Campfire.md).
+Graha is located in [Castle Light](Castle_Light.md), on the second floor next to the [Campfire](Campfire_Pit.md).
 
 ## Dialogue
 

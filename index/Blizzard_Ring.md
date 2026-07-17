@@ -29,10 +29,10 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Blizzard Ring is a craftable [Relic](Relic.md) Ring that slows all enemies hit by M1s and [suffocates](Status_Effects.md#suffocate) those you flourish. You also gain 15 Ether when you land [Galebreathe](Galebreathe.md) or [Frostdraw](Frostdraw.md) attacks.
+The Blizzard Ring is a craftable [Relic](Relics.md) Ring that slows all enemies hit by M1s and [suffocates](Status_Effects.md#suffocate) those you flourish. You also gain 15 Ether when you land [Galebreathe](Galebreathe.md) or [Frostdraw](Frostdraw.md) attacks.
 
 Its effects are the combined powers of both the [Frost Ring](Frost_Ring.md) and the [Gale Enhanced Ring](Gale_Enhanced_Ring.md).
 
 ## Crafting
 
-The Blizzard Ring can be crafted at the [Lost Forge](Lost_Forge.md) with a [Frost Ring](Frost_Ring.md), [Gale Enhanced Ring](Gale_Enhanced_Ring.md), and a [Shiva's Codex](<Shiva's_Codex.md>).
+The Blizzard Ring can be crafted at the [Lost Forge](Lost_Forge_of_Leiuna.md) with a [Frost Ring](Frost_Ring.md), [Gale Enhanced Ring](Gale_Enhanced_Ring.md), and a [Shiva's Codex](<Shiva's_Codex.md>).

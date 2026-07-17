@@ -29,7 +29,7 @@ Thus, this article focuses on that.
 
 **Mauled Diver Corpse** is the lifeless body of **Azel Corbet**. The player is able to pocket the [Diver's Journal: Apprentice Azel](<Diver's_Journal%253A_Apprentice_Azel.md>) left behind by the corpse and read the logs of what never escaped from the Eternal Gale.
 
-Azel Corbet was an [apprentice diver](The_Divers.md) participating in the expedition to the [Second Layer](Second_Layer.md) led by [Chaser](Chaser.md), where he would eventually meet his demise. After being betrayed by [Chaser](Chaser.md) he hid in the [Nest Corridor](Nest_Corridor.md) and wrote his last thoughts in his journal before being eaten alive by [bounders](Bounder.md).[\[1\]](#cite-note-journal-1)
+Azel Corbet was an [apprentice diver](The_Divers.md) participating in the expedition to the [Second Layer](Second_Layer.md) led by [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), where he would eventually meet his demise. After being betrayed by [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) he hid in the [Nest Corridor](Nest_Corridor.md) and wrote his last thoughts in his journal before being eaten alive by [bounders](Bounder.md).[\[1\]](#cite-note-journal-1)
 
 ## Dialogue
 

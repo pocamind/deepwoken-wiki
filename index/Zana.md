@@ -32,7 +32,7 @@ Zana is a [Vesperian](Vesperian.md) NPC. They are a purportedly famed warrior.
 
 Zana gives the player a quest to obtain a [Poser's Ring](<Poser's_Ring.md>), a Katana-exclusive ring that deals all damage at once onto a target upon sheathing. As long as you have a [Katana](Katana.md) or [Shattered Katana](Shattered_Katana.md) equipped, you can partake in Zana's quest.
 
-They wear a [Royal Pathfinder](Royal_Pathfinder.md) and the [Prophet's Cloak](<Prophet's_Cloak.md>) [Outfit](Outfit.md).
+They wear a [Royal Pathfinder](Royal_Pathfinder.md) and the [Prophet's Cloak](<Prophet's_Cloak.md>) [Outfit](Outfits.md).
 
 ## Location
 

@@ -24,19 +24,19 @@ categories: [Outfits, Adept Outfits, The Children of Navae, Outfits with Talents
 | selling_price | 10 |
 | weight | 1 |
 
-**Navaen Nomad Robes** is an Adept [Outfit](Outfit.md) in _Deepwoken_.
+**Navaen Nomad Robes** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 100 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), eight (8) [Erisore](Erisore.md), and two (2) [Frigid Prisms](Frigid_Prism.md) to craft.
+This Outfit costs 100 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), eight (8) [Erisore](Ores.md#erisore), and two (2) [Frigid Prisms](Frigid_Prism.md) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 5 to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 1800 durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, +10% Blunt resistance ResistanceBlunt, +10% Elemental resistance [ResistanceElemental](Attunement.md), +15% Ice resistance [ResistanceFrostdraw](Frostdraw.md), +15% Shadow resistance [ResistanceShadowcast](Shadowcast.md), and +50% [Stealth](Stealth.md) [IconStealth](Stealth.md). Additionally, it provides the [Fists of Navae](Talents.md#fists-of-navae) Talent.
+This Outfit has 1800 durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, +10% Blunt resistance ResistanceBlunt, +10% Elemental resistance [ResistanceElemental](Attunements.md), +15% Ice resistance [ResistanceFrostdraw](Frostdraw.md), +15% Shadow resistance [ResistanceShadowcast](Shadowcast.md), and +50% [Stealth](Stealth.md) [IconStealth](Stealth.md). Additionally, it provides the [Fists of Navae](Talents.md#fists-of-navae) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 19% Blunt ResistanceBlunt, 10% Slash ResistanceSlash, 23.5% Frostdraw [ResistanceFrostdraw](Frostdraw.md), 23.5% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 10% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 

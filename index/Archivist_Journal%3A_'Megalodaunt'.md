@@ -10,7 +10,7 @@ categories: [Books]
 
 ## Description
 
-_**Archivist Journal: 'Megalodaunt'**_ is a [Book](Book.md).
+_**Archivist Journal: 'Megalodaunt'**_ is a [Book](Books.md).
 
 ## Text
 

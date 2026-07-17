@@ -14,7 +14,7 @@ categories: [Mechanics]
 
 ## Description
 
-Union Hooks are stationary utilities devised by the [The Ignition Union](The_Ignition_Union.md). They allow the user to travel up and down within parts of a location. Using a Union Hook requires its respective talent, which is obtained from [Alpha](Alpha.md) in the [Second Layer](Second_Layer/The_Ethironal_Shrine.md), or innately from the [Ignition Delver](Ignition_Delver.md) Origin. Union Hooks are commonly found within the Second Layer, and are scattered across the [Eastern Luminant](Eastern_Luminant.md).
+Union Hooks are stationary utilities devised by the [The Ignition Union](The_Ignition_Union.md). They allow the user to travel up and down within parts of a location. Using a Union Hook requires its respective talent, which is obtained from [Alpha](Alpha.md) in the [Second Layer](Second_Layer/The_Ethironal_Shrine.md), or innately from the [Ignition Delver](Ignition_Delver.md) Origin. Union Hooks are commonly found within the Second Layer, and are scattered across the [Eastern Luminant](Luminants.md).
 
 They appear as small cranes with large hooks attached to the beam.
 

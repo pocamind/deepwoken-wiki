@@ -20,7 +20,7 @@ Your surroundings fold in on themselves, their absence forming the pillar that b
 
   
 
-The Cerebral Spire is a [Location](Location.md) in _Deepwoken_. It is exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode.
+The Cerebral Spire is a Location in _Deepwoken_. It is exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode.
 
 ## Description
 

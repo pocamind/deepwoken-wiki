@@ -39,7 +39,7 @@ While inside a Voidzone:
 
 **Location:** Upper [Minityrsa](Minityrsa.md) (Highest Peak), Etrean Luminant
 
-**Dangers:** [Carbuncles](Carbuncle.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Immortal Guardians](Immortal_Guardians.md)
+**Dangers:** [Carbuncles](Carbuncle.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Immortal Guardians](Immortal_Guardian.md)
 
 **Rewards:** [Hellfire and Skyvalor Lotuses](Ingredients.md#lotuses), Minityrsa Loot Pool, [Gran Sudaruska](Gran_Sudaruska.md)
 
@@ -63,7 +63,7 @@ While inside a Voidzone:
 ― Lightkeeper Temple's Flavour Text
 
   
-**Location:** [Starswept Valley](Starswept_Valley.md), Eastern Luminant
+**Location:** [Starswept Valley](The_Starswept_Valley.md), Eastern Luminant
 
 **Dangers:** [Thresher](Thresher.md), [King Thresher](King_Thresher.md)
 
@@ -82,7 +82,7 @@ While inside a Voidzone:
 
 **Rewards:** Miner's Landing Loot Pool, Summer Dragoon Schematic, [Hellfire and Brilliant Lotuses](Ingredients.md#lotuses)
 
-### [Valley of Heroes](Valley_of_Heroes.md)
+### [Valley of Heroes](The_Valley_of_Heroes.md)
 
 “ A valley left forgotten, a place of power that draws the heavens downward. ”
 
@@ -91,7 +91,7 @@ While inside a Voidzone:
   
 **Location:** [Minityrsa](Minityrsa.md), Etrean Luminant
 
-**Dangers:** [Blizard Knight](Blizzard_Knight.md) (Winter), [Ministry Necromancer](Ministry_Necromancer.md), [Frostdrawer Monk](Songseeker_Frostdrawer.md)
+**Dangers:** [Blizard Knight](Stone_Knight.md#blizzard-knight) (Winter), [Ministry Necromancer](Ministry_Necromancer.md), [Frostdrawer Monk](Songseeker_Frostdrawer.md)
 
 **Rewards:** [Hero Blades](Hero_Blades.md) (Winter), [Ministry Cloak](Ministry_Cloak.md) \[Winter\], [Justicar Defender Coat](Justicar_Defender_Coat.md) \[Aelita\], Assassin Cloaks \[Aelita\], Minityrsa Loot Pool
 

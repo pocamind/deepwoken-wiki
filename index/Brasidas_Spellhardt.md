@@ -21,7 +21,7 @@ Brasidas Spellhardt is [Lightborn](Lightborn.md) found within [The Floating Keep
 
 He appears fond of metaphors to do with storms.
 
-He wears a [Red Megalodaunt Coat](Megalodaunt_Coat.md) with the [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md) [Outfit](Outfit.md) underneath.
+He wears a [Red Megalodaunt Coat](Megalodaunt_Coat.md) with the [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md) [Outfit](Outfits.md) underneath.
 
 ## Dialogue
 

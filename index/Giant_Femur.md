@@ -23,4 +23,4 @@ categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
 
 ## Description
 
-The **Giant Femur** is used to gain the "[Brachial Spear](Brachial_Spear.md)" [Monster Mantra](Monster_Mantras.md) from [Carrion, Father of Evolution](Carrion.md) in [Castle Light](Castle_Light.md) after he has been interacted with in [Floor 2](Second_Layer/New_Kyrsa.md) of the [Second Layer](Second_Layer.md). It can be obtained as rare drop from a [Bone Keeper](Bone_Keeper.md), and cannot be dropped alongside every other rare monster part.
+The **Giant Femur** is used to gain the "[Brachial Spear](Monster_Mantras.md#brachial-spear)" [Monster Mantra](Monster_Mantras.md) from [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) in [Castle Light](Castle_Light.md) after he has been interacted with in [Floor 2](Second_Layer/New_Kyrsa.md) of the [Second Layer](Second_Layer.md). It can be obtained as rare drop from a [Bone Keeper](Bone_Keeper.md), and cannot be dropped alongside every other rare monster part.

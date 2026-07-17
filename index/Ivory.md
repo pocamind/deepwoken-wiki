@@ -35,7 +35,7 @@ Ivory was removed on the [March 8th, 2025](Version_History/2025.md#march-8th-202
 
 **Quest Ongoing:**
 
-This is the dialogue for **The Purple Flame** that resides in the middle of [The Temple of the Forgotten Flame](Temple_of_the_Forgotten_Flame.md). Interacting with it again will give you its generic dialogue.
+This is the dialogue for **The Purple Flame** that resides in the middle of [The Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). Interacting with it again will give you its generic dialogue.
 
 <table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="6">First Interaction</td><td colspan="6">Subsequent Interactions</td></tr><tr><td colspan="6">You gaze into the flame, recalling Ivory's message. A sensation of hope overwhelms you, and you feel compelled to return to her.</td><td colspan="6">You gaze into the flames, unaware of it's purpose. The flame is warm, yet there's an ominous presence about it.</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
 
@@ -49,11 +49,11 @@ This is the dialogue for **The Purple Flame** that resides in the middle of [The
 
 ## Quest
 
-Ivory tells the player that they are a simple new Pathfinder, and says that she can teach you new movement if you go to the [highest peak](Temple_of_the_Forgotten_Flame.md) in Erisia and gaze into the purple flame.
+Ivory tells the player that they are a simple new Pathfinder, and says that she can teach you new movement if you go to the [highest peak](The_Temple_of_the_Forgotten_Flame.md) in Erisia and gaze into the purple flame.
 
 ### Completion
 
-To complete the quest, head to the [Temple of the Forgotten Flame](Temple_of_the_Forgotten_Flame.md). Go inside the temple and interact with one of the purple fires. It will then prompt you to go back to Ivory. Return to Ivory afterwards.
+To complete the quest, head to the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). Go inside the temple and interact with one of the purple fires. It will then prompt you to go back to Ivory. Return to Ivory afterwards.
 
 ### Reward
 

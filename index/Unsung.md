@@ -22,7 +22,7 @@ categories: [Outfits, Exclusive Outfits]
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Unsung** is a Unique (Spec/Mod) [Outfit](Outfit.md) in Pathfinder _Deepwoken_. This Outfit can be obtained through the [Drifter](Drifter.md) Memento in [Vow of Iron](Vow_of_Iron.md).
+**Unsung** is a Unique (Spec/Mod) [Outfit](Outfits.md) in Pathfinder _Deepwoken_. This Outfit can be obtained through the [Drifter](Drifter.md) Memento in [Vow of Iron](Vow_of_Iron.md).
 
 ## Statistics
 

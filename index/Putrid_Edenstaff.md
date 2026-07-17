@@ -36,7 +36,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Event Item, "
 
 ## Description
 
-The Putrid Edenstaff is a [Hallowtide-Exclusive](<Hallowtide_(Event).md>) [Heavy Weapon](Weapons.md) in the Greathammer category.
+The Putrid Edenstaff is a [Hallowtide-Exclusive](Hallowtide.md) [Heavy Weapon](Weapons.md) in the Greathammer category.
 
 ## Critical
 

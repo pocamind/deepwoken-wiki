@@ -48,13 +48,13 @@ Equipping the Dissonant Chimecaller grants its unique [weapon Talent](Talents.md
 
 ## Critical
 
-The user reels the staff with a [red telegraph](Telegraphed_Attacks.md#red) before swinging forth, summoning a large bell that launches toward the target and applies an [Ironsing](Ironsing.md) rod to them. The bell automatically locks onto the position of the closest non-ally opponent. The bell can **autogrip** the target if they are knocked or at low health and applies knockdown. The bell deals ~1.8x scaled damage.
+The user reels the staff with a [red telegraph](Combat_Mechanics.md#red) before swinging forth, summoning a large bell that launches toward the target and applies an [Ironsing](Ironsing.md) rod to them. The bell automatically locks onto the position of the closest non-ally opponent. The bell can **autogrip** the target if they are knocked or at low health and applies knockdown. The bell deals ~1.8x scaled damage.
 
 The critical has a cooldown of **15 seconds**.
 
 ## Trivia
 
--   Attempting to equip this weapon on [Silentheart](Silentheart.md) will display the message: "The bells fall silent. The staff refuses your touch."
+-   Attempting to equip this weapon on [Silentheart](Oath%253A_Silentheart.md) will display the message: "The bells fall silent. The staff refuses your touch."
 -   This weapon's critical is based off of [Knell](Knell,_The_Lunatic_Resonator.md)'s **A Toll of the Bell** move.
 -   This weapon has been given the semi commonly used nickname of "Resonant Crimemauler" by the developer Nuttoons.
 -   Strangely, despite directly mentioning Ironsing's Metal Rods in the Talent description, Ancient Metalwork does not require you to have the Ironsing Attunement or your opponent to have any Rods on them for it to activate.

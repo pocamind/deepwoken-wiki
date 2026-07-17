@@ -64,19 +64,19 @@ Raw materials harvested from the environment.
 
 ### Ores
 
-_Main Page: [Ore](Ore.md)_
+_Main Page: [Ore](Ores.md)_
 
 Ores come from mining ore deposits found across various locations or can be bought in certain towns such as [Etris](Etris.md) and [Isle of Vigils](Isle_of_Vigils.md). They're mainly used for crafting certain [Outfits](Outfits.md) and utility items.
 
--   [Rock](Rock.md)
--   [Coal](Coal.md)
--   [Iron](Iron.md)
--   [Gold](Gold.md)
--   [Erisore](Erisore.md)
--   [Irithine](Irithine.md)
--   [Astruline](Astruline.md)
--   [Umbrite](Umbrite.md)
--   [Indichite](Indichite.md)
+-   [Rock](Ores.md#rock)
+-   [Coal](Ores.md#coal)
+-   [Iron](Ores.md#iron)
+-   [Gold](Ores.md#gold)
+-   [Erisore](Ores.md#erisore)
+-   [Irithine](Ores.md#irithine)
+-   [Astruline](Ores.md#astruline)
+-   [Umbrite](Ores.md#umbrite)
+-   [Indichite](Ores.md#indichite)
 
 ### Enemy Drops
 
@@ -95,7 +95,7 @@ Many common [Monsters](Monsters.md) and some [Bosses](Bosses.md) have a chance o
     -   [Megalodaunt Coral](Megalodaunt_Coral.md)
 -   [Exotic Megalodaunt](Exotic_Megalodaunt.md)
     -   [Exotic Hide](Exotic_Hide.md)
--   [Terrapod](Terrapod.md) and [Crimson Terrapod](Crimson_Terrapod.md)
+-   [Terrapod](Terrapod.md) and [Crimson Terrapod](Terrapod.md#crimson)
     -   [Strange Claw](Strange_Claw.md)
     -   [Terrapod Shell](Terrapod_Shell.md)
     -   [Crimson Terrapod Shell](Crimson_Terrapod_Shell.md)
@@ -106,7 +106,7 @@ Many common [Monsters](Monsters.md) and some [Bosses](Bosses.md) have a chance o
     -   [King Thresher Spine](King_Thresher_Spine.md)
 -   [Deep Owl](Deep_Owl.md)
     -   [Dark Feather](Dark_Feather.md)
-    -   [Void Feather](Void_Feather.md)
+    -   [Void Feather](Dark_Feather.md#void-feather)
 -   [Mechalodaunt](Mechalodaunt.md)
     -   [Worn Cog](Worn_Cog.md)
     -   [Broken Gatling Gun](Broken_Gatling_Gun.md)
@@ -170,7 +170,7 @@ Many common [Monsters](Monsters.md) and some [Bosses](Bosses.md) have a chance o
 
 _Main Page: [Mantra Modifiers](Mantra_Modifiers.md)_
 
-Mantra Ingredients consist of Mantra Modifiers, unique items that can be utilized at a [Mantra Lectern](Mantra_Lectern.md), or in the case of Deep Gems equipped while resting at a [Campfire](Campfire.md), to enhance the player's [Mantras](Mantras.md). There are 3 types of Mantra Modifiers: Regular, Sparks, and Deep Gems; Deep Gems, however, are categorized as Treasures and not Mantra Ingredients. Regular Mantra Modifiers and Sparks drop from a variety of [Monsters](Monsters.md) and [Enemies](Enemies.md), while Deep Gems are uncommonly found in chests from the [First Layer](First_Layer.md), including [Random Encounters](Random_Encounters.md) that reward Depths chests, and commonly found in chests from certain [Bosses](Bosses.md) and from other events and dungeons.
+Mantra Ingredients consist of Mantra Modifiers, unique items that can be utilized at a [Mantra Lectern](Mantra_Lectern.md), or in the case of Deep Gems equipped while resting at a [Campfire](Campfire_Pit.md), to enhance the player's [Mantras](Mantras.md). There are 3 types of Mantra Modifiers: Regular, Sparks, and Deep Gems; Deep Gems, however, are categorized as Treasures and not Mantra Ingredients. Regular Mantra Modifiers and Sparks drop from a variety of [Monsters](Monsters.md) and [Enemies](Enemies.md), while Deep Gems are uncommonly found in chests from the [First Layer](First_Layer.md), including [Random Encounters](Random_Encounters.md) that reward Depths chests, and commonly found in chests from certain [Bosses](Bosses.md) and from other events and dungeons.
 
 #### Regular
 
@@ -211,7 +211,7 @@ Mantra Ingredients consist of Mantra Modifiers, unique items that can be utilize
 
 _Main Page: [Treasures](Treasures.md)_
 
-Treasures are a category of item that contain miscellaneous gem items that are found at the bottoms of chests whose main purpose is to be sold and can be sold to [Mantra Collectors](Mantra_Collector.md), and also contain Deep Gems and Elemental Ingredients, items dropped from [Attunement](Attunement.md)\-wielding enemies that can be consumed by the player if they also wield that Attunement to train it, and given to the corresponding [Attunement Trainers](Attunement_Trainers.md) to unlock the attunement.
+Treasures are a category of item that contain miscellaneous gem items that are found at the bottoms of chests whose main purpose is to be sold and can be sold to [Mantra Collectors](Mantra_Collector.md), and also contain Deep Gems and Elemental Ingredients, items dropped from [Attunement](Attunements.md)\-wielding enemies that can be consumed by the player if they also wield that Attunement to train it, and given to the corresponding [Attunement Trainers](Attunement_Trainers.md) to unlock the attunement.
 
 While Treasures are not "Ingredients" in the literally defined sense, some Deep Gems and Elemental Ingredients are used to craft [Outfits](Outfits.md).
 

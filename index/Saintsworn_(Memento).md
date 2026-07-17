@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Mementos]
 | allowed weapons | Fist, Greathammer, Greataxe, Sword, Spear, Club, Rapier, Dagger, Greatcannon, Twinblade, Bow, Greatsword |
 | starting weapons | Hero's Blade of Flame, Hero's Blade of Frost, Hero's Blade of Lightning, Hero's Blade of Shadow, Hero's Blade of Wind |
 
-_This page is for the [Memento](Memento.md). For the Oath, see [Oath: Saintsworn](Oath%253A_Saintsworn.md)._
+_This page is for the [Memento](Mementos.md). For the Oath, see [Oath: Saintsworn](Oath%253A_Saintsworn.md)._
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
@@ -33,7 +33,7 @@ This content is not accessible outside of this gamemode.
 
 ## Overview
 
-Saintsworn (Memento) is a playable [Memento](Memento.md) available in the [Vow of Iron](Vow_of_Iron.md) gamemode. You gain access to the [Saintsworn](Oath%253A_Saintsworn.md) Oath and its abilities.
+Saintsworn (Memento) is a playable [Memento](Mementos.md) available in the [Vow of Iron](Vow_of_Iron.md) gamemode. You gain access to the [Saintsworn](Oath%253A_Saintsworn.md) Oath and its abilities.
 
 The Saintsworn is a resolute champion, drawing power from the sacred forces of the core Attunements, standing unshaken in battle as they channel the song through the [Saintsworn Obelisks](Saintsworn_Obelisks.md) and their respective heroes.
 
@@ -50,7 +50,7 @@ The Saintsworn is a resolute champion, drawing power from the sacred forces of t
             -   **[Hungry Flames](Talents.md#hungry-flames)**: Your attuned Mantras will consume your Stomach and Thirst meters to cast if you don't have enough Ether. However, this talent will no longer proc when using Flamecharm mantras outside of the **Flamecharm** Saint Stance.
             -   **[Immolation](Talents.md#immolation)**: Your attuned Mantras will cost 70% less Ether if you're burning.
         -   **Ether Proselyte: Galebreathe Stance**: In the **Galebreathe** Saint Stance, all attuned Mantras are able to proc the following Talents:
-            -   **[A World Without Song](Talents.md#a-world-without-song)**: After landing 3 hits with any attuned Mantra, apply [Suffocation](Suffocation.md). The hit count requirement will be increased if you have less than 75 Galebreathe.
+            -   **[A World Without Song](Talents.md#a-world-without-song)**: After landing 3 hits with any attuned Mantra, apply [Suffocation](Status_Effects.md#suffocate). The hit count requirement will be increased if you have less than 75 Galebreathe.
             -   **[Inhale](Talents.md#inhale)**: You can inhale non-Galebreathe Mantras.
         -   **Ether Proselyte: Shadowcast Stance**: In the **Shadowcast** Saint Stance, all attuned Mantras are able to proc the following Talents:
         -   **Ether Proselyte: Frostdraw Stance**: In the **Frostdraw** Saint Stance, all attuned Mantras are able to proc the following Talents:
@@ -409,7 +409,7 @@ N/A
 
 **Effect:** _Slash twice with your Saintsblade, applying [knockdown](Status_Effects.md#knockdown) on the second hit, followed up by a devastating bolt of lightning that applies stun._
 
--   Gains additional hits when modified with [Cloud](Cloudstone.md) & [Stratus Stones](Stratus_Stone.md).
+-   Gains additional hits when modified with [Cloud](Mantra_Modifiers.md#regular-modifiers) & [Stratus Stones](Mantra_Modifiers.md#regular-modifiers).
 -   Upon changing your Saint Stance, this ability will change accordingly.
 
  |
@@ -430,9 +430,9 @@ Some Talents will be unlocked when you reach a certain Power threshold.
 -   Immolation \[Common Talent\] **Starter** - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity)
     -   "Self-Inflicted flames" include Flame Within, Agitating Spark you spread and environmental burns created by you.
     -   "Apply fire damage" applies the burn status effect instead of adding Flamecharm damage. It also applies burn even if you have Eruption Path: Lava Serpent.
-        -   Not all attacks proc this effect, unlike what the Talent description implies. Instead, all instances of Physical damage apply burn, even if the attack doesn't deal pure Physical damage (e.g. [Clutching Shadow](Clutching_Shadow.md)). And all attacks that have the slash (blood particle) vfx on hit like [Ice Daggers](Ice_Daggers.md) or [Gale Lunge](Gale_Lunge.md) will also proc Immolation, applying burn.
+        -   Not all attacks proc this effect, unlike what the Talent description implies. Instead, all instances of Physical damage apply burn, even if the attack doesn't deal pure Physical damage (e.g. [Clutching Shadow](Shadowcast.md#clutching-shadow)). And all attacks that have the slash (blood particle) vfx on hit like [Ice Daggers](Frostdraw.md#ice-daggers) or [Gale Lunge](Galebreathe.md#gale-lunge) will also proc Immolation, applying burn.
 
--   Agitating Spark \[Common Talent\] **Power 5** - Applying [Burning](Burn.md) to enemies spreads to to anyone nearby. Including yourself.
+-   Agitating Spark \[Common Talent\] **Power 5** - Applying [Burning](Status_Effects.md#burn) to enemies spreads to to anyone nearby. Including yourself.
     -   On proc, a small orange particle will trail between the burning target you hit and other targets nearby, setting them on fire.
     -   Agitating Spark bypasses block and parry.
     -   Agitating Spark procs caused by self damage will not apply burn. Flame Within is an exception to this.
@@ -446,7 +446,7 @@ Some Talents will be unlocked when you reach a certain Power threshold.
 
 -   _Saint Jay_ \[Rare Talent\] **Starter** - When a Chilled enemy receives a heal, it's nullified and 60% of the healing is redirected to you. While this is active and they are on ice your rate of healing is increased, raise your PvE [Heal Boost](Status_Effects.md#heal-boost) to 10% as well.
     -   This will not proc if you are the one who applied the healing; you cannot heal yourself by healing your opponent.
-    -   This only procs on non-passive healing. For example (non exhaustive list): something like [Flame Wisp](Flame_Wisp.md), spits, or [Bloodless Gem](Bloodless_Gem.md) will proc this effect, but campfires, Conditioned Runner, or [Curse of the No Life King](Curse_of_the_No_Life_King.md) will not.
+    -   This only procs on non-passive healing. For example (non exhaustive list): something like [Flame Wisp](Flamecharm.md#flame-wisp), spits, or [Bloodless Gem](Bloodless_Gem.md) will proc this effect, but campfires, Conditioned Runner, or [Curse of the No Life King](Curse_of_the_No_Life_King.md) will not.
     -   If using Glass Path: Crystallization then every hit with a Frostdraw mantra will proc Saint Jay for 2 seconds. (Doesn't stack)
     -   The "on ice" effect of Saint Jay is bugged and does not work.
     -   The heal boost status effect increases all non-passive healing gained from enemies who are currently affected by your anti-heal. This Talent grants +10% Heal Boost.
@@ -488,7 +488,7 @@ Some Talents will be unlocked when you reach a certain Power threshold.
     -   The duration of Maestro's Blade is the inhaled Mantra's Ether cost (before [Blue Gem](Blue_Gem.md)) divided by 5. For example, a 50 Ether cost Mantra will apply Maestro's Blade for 10 seconds.
     -   Can be procced through shadow mantras while using the [Eyes of Ethiron](Eyes_of_Ethiron.md) weapon.
 
--   _**A World Without Song**_ \[Advanced Talent\] **Power 15** - Every 3 hits with a Wind Mantra now procs [Suffocating](Suffocation.md).
+-   _**A World Without Song**_ \[Advanced Talent\] **Power 15** - Every 3 hits with a Wind Mantra now procs [Suffocating](Status_Effects.md#suffocate).
     -   Suffocation prevents the victim from casting Mantras and deals a small amount of damage over time.
 
 ### Thundercall Stance
@@ -715,7 +715,7 @@ Shadow [ResistanceShadowcast](Shadowcast.md) + Slash ResistanceSlash (Grab), Blu
 -   The grab deals Shadow + Slash damage, the slam deals pure Blunt damage.
 -   Grants I-frames to the user and opponent on hit.
 -   Notoriously buggy when used against humanoid npcs, often hitting them and showing the slam effects, but dealing no (?) damage or stun
--   Shares a cooldown with all of [grab Mantras](Grab_Mantras.md).
+-   Shares a cooldown with all of [grab Mantras](List_of_Grab_Mantras.md).
 
  |
 | 
@@ -788,8 +788,8 @@ Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
 -   Deals 8 posture damage per hit (3).
 -   Has a windup of 0.55 seconds with a 0.7 second windup in between each hit. Has a cooldown of 9.5 seconds.
 -   Can break objects at level 2+.
--   Can be modified with [Cloud](Cloudstone.md)/[Stratus Stones](Stratus_Stone.md) and [Crystal](Crystal_Lens.md)/[Perfect Lenses](Perfect_Lens.md) to increase the size and distance respectively.
--   Can be modified with [Vibrant Gems](Vibrant_Gem.md) to increase the speed of the push, or pull with **Vacuum Punch**.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) and [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the size and distance respectively.
+-   Can be modified with [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to increase the speed of the push, or pull with **Vacuum Punch**.
 -   Can be upgraded with the "**Vacuum Punch**" Talent, pulling in targets on hit at the cost of 0.1s extra windup.
 
  |
@@ -815,7 +815,7 @@ Wind [ResistanceGalebreathe](Galebreathe.md) + Slash ResistanceSlash
     -   Getting hit by another element immediately changes your resistance to that element. i.e Getting hit by Shadowcast Mantras while having Galebreathe resistance will immediately change your resistance type to Shadowcast and vice versa.
         -   This means that multi-hitting Mantras are much less potent, even if your Everchanging Aegis type was not attuned to that Mantra.
     -   Your Aegis type can swap on block, dodge, and parry. You do not need to actually be _hit_ by the attack for the swap to occur, largely mitigating the downside.
-    -   [Burn](Burn.md) and self damage do not proc Everchanging Aegis.
+    -   [Burn](Status_Effects.md#burn) and self damage do not proc Everchanging Aegis.
     -   The damage type you become resistant to is indicated by a colored shield, continuous damage of the same element will give a colored outline of the damage type.
         -   Flamecharm: Orange / Frostdraw: Blue / Thundercall: Yellow / Galebreathe: Green / Shadowcast: Purple / Ironsing: Grey / Bloodrend: Red
     -   Does not affect attacks that do not deal elemental damage.
@@ -938,7 +938,7 @@ Shadow [ResistanceShadowcast](Shadowcast.md) + Slash ResistanceSlash (Grab), Blu
 -   The grab deals Shadow + Slash damage, the slam deals pure Blunt damage.
 -   Grants I-frames to the user and opponent on hit.
 -   Notoriously buggy when used against humanoid npcs, often hitting them and showing the slam effects, but dealing no (?) damage or stun
--   Shares a cooldown with all of [grab Mantras](Grab_Mantras.md).
+-   Shares a cooldown with all of [grab Mantras](List_of_Grab_Mantras.md).
 
  |
 | 
@@ -980,7 +980,7 @@ Wind [ResistanceGalebreathe](Galebreathe.md) + Blunt ResistanceBlunt
 -   Gives I-Frames to yourself and your opponent throughout the duration of the Mantra.
 -   Can vent during the mantra, however, this does not cancel it.
 -   Can proc **Meteor Impact**.
--   Can be modified with [Perfect](Perfect_Lens.md)/[Crystal Lenses](Crystal_Lens.md) to do a quick dash before the inital uppercut, with the length of this dash increasing with the amount of modifiers.
+-   Can be modified with [Perfect](Mantra_Modifiers.md#regular-modifiers)/[Crystal Lenses](Mantra_Modifiers.md#regular-modifiers) to do a quick dash before the inital uppercut, with the length of this dash increasing with the amount of modifiers.
 
  |
 | 
@@ -1037,8 +1037,8 @@ N/A
 -   Meteor Impact \[Common Talent\] **100** \- Aerial moves you land will follow up into a devastating slam. This is also possible when you yourself gets hit by an aerial move.
     -   Deals 10 flat Flamecharm damage on top of your weapon's scaled damage.
     -   Meteor Impact's damage can be buffed via damage modifiers, but does not scale on your Flamecharm investment.
-    -   Meteor impact is used by light attacking after using some mantras that end with both user and victim suspended in air, including: [Flashfire Sweep](Flashfire_Sweep.md) and [Saintsworn's](Oath%253A_Saintsworn.md) Galebreathe Blade of Saints.
-        -   [Rising Thunder](Rising_Thunder.md) can also activate it, but only if the initial grab guard breaks, which is very unlikely. Additionally, Wind Blade can activate it as well, but only if you use the slide jump variant of the mantra.
+    -   Meteor impact is used by light attacking after using some mantras that end with both user and victim suspended in air, including: [Flashfire Sweep](Hybrid_Abilities.md#flashfire-sweep) and [Saintsworn's](Oath%253A_Saintsworn.md) Galebreathe Blade of Saints.
+        -   [Rising Thunder](Thundercall.md#rising-thunder) can also activate it, but only if the initial grab guard breaks, which is very unlikely. Additionally, Wind Blade can activate it as well, but only if you use the slide jump variant of the mantra.
     -   Some mantras, despite leaving both players in the air, **can't** activate Meteor Impact.
 
 -   Savior \[Common Talent\] **100** \- After saving a player from being gripped gain a short speed boost for a short duration. (+1 Sanity)
@@ -1150,9 +1150,9 @@ Shadow [ResistanceShadowcast](Shadowcast.md)
 -   Drains 27/30.5/33.5/37/40.5 Ether per level with 2.75 Shadowcast scaling.
 -   Unsparked variant guardbreaks at level 5.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
--   Adding [Crystal](Crystal_Lens.md) and [Perfect Lenses](Perfect_Lens.md) will increase the range of your Shadow gun, this will however reduce the damage of the Mantra.
--   Adding [Cloud](Cloudstone.md) and [Stratus Stones](Stratus_Stone.md) will increase the height and width of the blast, this will however reduce the damage of the Mantra.
--   Can be modified with a [Blast Spark](Blast_Spark.md), making your Shadow Gun a barrage that deals more damage. It will, however, also remove the guaranteed guardbreak and double the Ether cost from what's displayed (i.e. a 40 Ether cost Shadow Gun will actually cost 80 of your Ether if a Blast Spark is equipped).
+-   Adding [Crystal](Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) will increase the range of your Shadow gun, this will however reduce the damage of the Mantra.
+-   Adding [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) will increase the height and width of the blast, this will however reduce the damage of the Mantra.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), making your Shadow Gun a barrage that deals more damage. It will, however, also remove the guaranteed guardbreak and double the Ether cost from what's displayed (i.e. a 40 Ether cost Shadow Gun will actually cost 80 of your Ether if a Blast Spark is equipped).
     -   Has a base damage of 11.88/13.86/15.84/17.82/19.8 per level, per hit (3) with 2.75 Shadowcast scaling. Deals 160% of the base variant's damage if all hits land.
     -   Drains 4.48/5.06/5.56/6.14/6.72 Ether per level, per hit (3) with 2.75 Shadowcast scaling. Drains 50% of the base variant's Ether if all hits land.
 
@@ -1312,7 +1312,7 @@ N/A
 -   Ignites nearby campfire pits if not currently healing you.
 -   With **Wraith Path: Twisted Puppets**, you will heal from burns by Shadow Mantras, but not by Flame Mantras.
 -   Does not work with Eruption Path: Lava Serpent (BUGGED and has been for a while.)
--   Converts about 25-30 burning damage total. [Logstones](Aeon_Logstone.md) increase the amount of burn it can convert.
+-   Converts about 25-30 burning damage total. [Logstones](Mantra_Modifiers.md#regular-modifiers) increase the amount of burn it can convert.
     -   Logstones will increase the amount of keys in the Ritual Cast.
 
  |
@@ -1365,7 +1365,7 @@ Wind [ResistanceGalebreathe](Galebreathe.md)
     -   Which hero is summoned and their effect is dependent on the current Saint Stance.
     -   Each passive ability works **once** per Saint Stance, requiring you to cycle to the next one to reactivate.
         -   **Hero's Assist: _Jace_**: In the **Flamecharm** Saint Stance, upon flourishing an enemy, summon the Hero of Flame to set down 3 deadly eruptions in the direction of the flourish, each of which **innately** proc the **[The Floor is Lava](Talents.md#the-floor-is-lava)** Talent.
-        -   **Hero's Assist: _Trinity Galenwarde_**: In the **Galebreathe** Saint Stance, upon using Blade of Saints, a Hero of Gale shoots out a miniscule version of the Galebreathe mantra _[Tornado](Tornado.md)_ at the enemy, while also knocking them away.
+        -   **Hero's Assist: _Trinity Galenwarde_**: In the **Galebreathe** Saint Stance, upon using Blade of Saints, a Hero of Gale shoots out a miniscule version of the Galebreathe mantra _[Tornado](Galebreathe.md#tornado)_ at the enemy, while also knocking them away.
         -   **Hero's Assist: _Urek Felhand_**: In the **Shadowcast** Saint Stance, upon parrying an attack, summon the Hero of Shadow to do minor damage in an AoE, proccing the talent _Sightless Still_ on anyone hit.
         -   **Hero's Assist: _Faust_**: In the **Frostdraw** Saint Stance, upon landing a Frostdraw Mantra, any attuned Mantra while in the Frostdraw Saint Stance, or the Frostdraw-specific Blade of Saints version, summon the Hero of Frost to shoot a barrage of ice projectiles at the enemy.
         -   **Hero's Assist: _Tessa_**: In the **Thundercall** Saint Stance, upon casting a mantra for the first time, summon the Hero of Thunder to bolster your attack, greatly decreasing the windup.
@@ -1441,7 +1441,7 @@ Defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_
 -   Has a windup of 0.7 seconds with 0.2 seconds of endlag, and a 16 second cooldown.
 -   Has 9.14x PvE scaling (multiply damage dealt by 9.14 for PvE damage).
 -   Inflicts Burn.
--   Can be modified with [Cloud](Cloudstone.md)/[Stratus Stones](Stratus_Stone.md) to increase size, every +1 in size makes it 10% bigger.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase size, every +1 in size makes it 10% bigger.
     -   Size modifications will lower the damage, however.
 -   Pressing F during the mantra's windup will release a wider but shorter flame.
 
@@ -1484,7 +1484,7 @@ Defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_
 -   Has 9.14x PvE scaling (multiply damage dealt by 9.14 for PvE damage).
 -   Inflicts Burn.
 -   User maintains mobility during wind-up.
--   Can be modified with [Crystal](Crystal_Lens.md)/[Perfect Lenses](Perfect_Lens.md) to make the hitbox bigger.
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to make the hitbox bigger.
 
  |
 | 
@@ -1641,14 +1641,14 @@ Defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
 **Effect:** _Conjure a torrent of solid ice that extends towards the user's cursor._
 
 -   Has a base damage of 30/32.7/35.4/38.1/40.8 per level with 2.75 Frostdraw scaling.
--   Modifying this Mantra with [Glass](Mantra_Modifiers.md) and [Magnifying Stones](Magnifying_Stone.md) grants it an additional hit, dealing 7/9.5/12/14.5/17 base damage per level with 2.75 Frostdraw scaling.
+-   Modifying this Mantra with [Glass](Mantra_Modifiers.md) and [Magnifying Stones](Mantra_Modifiers.md#regular-modifiers) grants it an additional hit, dealing 7/9.5/12/14.5/17 base damage per level with 2.75 Frostdraw scaling.
 -   Deals 15 posture damage per level. The additional hit from Glass/Magnifying Stones deals 5 posture damage.
 -   Has a 12 second cooldown.
 -   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
 -   Can be used to scale walls and terrain.
 -   Inflicts a 1 second Chill. This cannot be modified.
--   Compatible with [Glass](Mantra_Modifiers.md) and [Magnifying Stones](Magnifying_Stone.md), causing the move to form a small ice eruption at the end of the pillar. Adding more AoE modifiers increases the size of the eruption.
--   Can be modified with [Cloud](Mantra_Modifiers.md) and [Stratus Stones](Stratus_Stone.md) to become wider.
+-   Compatible with [Glass](Mantra_Modifiers.md) and [Magnifying Stones](Mantra_Modifiers.md#regular-modifiers), causing the move to form a small ice eruption at the end of the pillar. Adding more AoE modifiers increases the size of the eruption.
+-   Can be modified with [Cloud](Mantra_Modifiers.md) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to become wider.
 -   Can be modified with [Crystal](Mantra_Modifiers.md) and [Perfect Lenses](Mantra_Modifiers.md) to increase the range of the Arc.
 
  |
@@ -1772,9 +1772,9 @@ Defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
 -   Deals 5 posture damage.
 -   Has a 10 second cooldown.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
--   [Drift](Drift_Shard.md) and [Rush Shards](Rush_Shard.md) increase projectile speed.
--   [Cloud](Cloudstone.md) and [Stratus Stones](Stratus_Stone.md) increase range.
--   Can be modified with a [Blast Spark](Blast_Spark.md), removing the damage to apply the [Shadowed Touch](Status_Effects.md#shadowed-touch) status effect. This effect massively increases your opponent's Mantra Ether cost and returns a portion of that Ether to you. If your Ether is full when they cast a Mantra, the Ether gained will overflow into your Tempo instead and you will emit a wave of shadow.
+-   [Drift](Mantra_Modifiers.md#regular-modifiers) and [Rush Shards](Mantra_Modifiers.md#regular-modifiers) increase projectile speed.
+-   [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) increase range.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), removing the damage to apply the [Shadowed Touch](Status_Effects.md#shadowed-touch) status effect. This effect massively increases your opponent's Mantra Ether cost and returns a portion of that Ether to you. If your Ether is full when they cast a Mantra, the Ether gained will overflow into your Tempo instead and you will emit a wave of shadow.
 
  |
 | 
@@ -1813,7 +1813,7 @@ Defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
 -   Has a windup of 0.8 seconds.
 -   Gives hyperarmor when casting.
 -   Applies ragdoll.
--   Can be modified with [Crystal](Crystal_Lens.md)/[Perfect Lenses](Perfect_Lens.md) to make it reach further.
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to make it reach further.
 
  |
 
@@ -1822,4 +1822,4 @@ Defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
 -   Strangely, when this Memento initially released, it had 0 Frostdraw investment.
 -   At Power 20, this Memento has the attribute invest equivalent of a Power 39 character.
 -   Despite having [Stratoshock](Talents.md#stratoshock) as a starting Talent in the Thundercall Stance, it is also able to be purchased in the starting deck.
--   [Clutching Shadow](Clutching_Shadow.md) can be purchased in the starting shop as well as the [Power](Power.md) 5 shop.
+-   [Clutching Shadow](Shadowcast.md#clutching-shadow) can be purchased in the starting shop as well as the [Power](Power.md) 5 shop.

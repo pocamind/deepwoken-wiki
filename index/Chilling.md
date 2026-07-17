@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Critic
 
 ## Description
 
-Chilling is a damage dealing [enchantment](Enchantment.md) that applies chill and Bottom Freeze to your opponent.
+Chilling is a damage dealing [enchantment](Enchantments.md) that applies chill and Bottom Freeze to your opponent.
 
 Chilling's colors change depending on your [Frostdraw](Frostdraw.md) color, turning pink if you have [Glass Path: Crystallization](Talents.md#glass-path-crystallization).
 
@@ -30,11 +30,11 @@ If the enemy is a PvE enemy, additionally apply [Sluggish](Status_Effects.md#slu
 
 Additionally, your M1s gain a secondary damage instance that deals 4% of your weapon's scaled damage as Frostdraw damage. This secondary damage increase is increased to 10% of your weapon's scaled damage for the hit that reaches Chilling's hit count requirement.
 
-The hit count required to proc the Bottom Freeze effect varies based on your weapon type, requiring 5 hits for [Light Weapons](Light_Weapons.md), 4 hits for [Medium Weapons](Medium_Weapons.md), and 3 hits for [Heavy Weapons](Heavy_Weapons.md).
+The hit count required to proc the Bottom Freeze effect varies based on your weapon type, requiring 5 hits for Light Weapons, 4 hits for Medium Weapons, and 3 hits for Heavy Weapons.
 
 ### Notes
 
 -   Chilling's secondary damage instance cannot be buffed.
--   Chilling's effects can be procced on weapon criticals if they have the [M1 tag](M1_tag.md).
+-   Chilling's effects can be procced on weapon criticals if they have the M1 tag.
 -   Because Chilling's secondary damage instance deals Frostdraw damage, you can use this enchantment to change your opponent's [Everchanging Aegis](Talents.md#everchanging-aegis) type to Frostdraw resistance, allowing the first hit of your non-Frostdraw attuned attacks to deal 10% more damage against players using this Talent.
 -   Chilling's cooldown is entirely separate from [Bottom Freeze](Talents.md#bottom-freeze)'s.

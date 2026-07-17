@@ -21,7 +21,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Krile is an [Etrean](Etrean.md) [NPC](NPC.md) in the [Voidheart](Voidheart.md). They are able to reset the Chessboard by warping pieces back to their original position.
+Krile is an [Etrean](Etrean.md) NPC in the [Voidheart](Voidheart.md). They are able to reset the Chessboard by warping pieces back to their original position.
 
 ## Dialogue
 

@@ -28,19 +28,19 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Spear Dancer** is a playable [Memento](Memento.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode.
+**Spear Dancer** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode.
 
 The dancer thrives in their motion, putting constant pressure on the enemy while remaining just out of reach.
 
 ## Starting Abilities
 
--   Dancer's Beat \[Memento Talent\] - Your [Vent](Vent.md) is replaced with Dancer's Beat. You increase the speed, damage, and stun of your next Basic Attack. However, should your attack fail to land, you'll be stunned and your [Tempo](Tempo.md) will be greatly reduced.
+-   Dancer's Beat \[Memento Talent\] - Your [Vent](Combat_Mechanics.md#tempo) is replaced with Dancer's Beat. You increase the speed, damage, and stun of your next Basic Attack. However, should your attack fail to land, you'll be stunned and your [Tempo](Combat_Mechanics.md#tempo) will be greatly reduced.
     
     -   Your Vent can no longer be used defensively, but does not cost tempo to use. You need to have at least 20 Tempo to use Dancer's Beat.
     -   Using your Vent will put you in a stance for a brief moment. Your next M1 used within 1 second of using Dancer's Beat will deal higher damage, more stun, and have a higher swing speed.
     -   If you are hit before you use your next attack, wait out the 1 second proc window, or if your next attack does not land (including if it was blocked, parried, or dodged), you will lose 60 Tempo and will be stunned for 0.5 seconds. During this stun you will not be able to perform any actions, but this stun will not cancel any of your currently active attacks.
     -   The Dancer's Beat Vent has a 2.5 second cooldown compared to the default 10 seconds.
-    -   Dancer's Beat can still be used to escape stun locking attacks like [Judgement](Judgement.md) and [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>)'s attacks.
+    -   Dancer's Beat can still be used to escape stun locking attacks like [Judgement](Oath%253A_Contractor.md#judgement) and [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>)'s attacks.
 
 -   Dancer's Geas \[Memento Talent\] - You deal +30% damage when striking with the tip of your weapon, but deal 15% less damage when striking below half of its range.
     
@@ -92,7 +92,7 @@ The dancer thrives in their motion, putting constant pressure on the enemy while
 -   _Spine Cutter_ \[Rare Talent\] **250** \- Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage. (+6 Carry Load, +2 Passive Agility)
     -   5 second cooldown per enemy. The cooldown indicator may suggest the cooldown is per enemy type, but it isn't.
     -   The second slash has no PEN.
-    -   Can proc from some [physical](Attunement-less.md) Mantras and criticals with the [M1 tag](M1_tag.md).
+    -   Can proc from some [physical](Attunement-less.md) Mantras and criticals with the M1 tag.
 
   
 

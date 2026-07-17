@@ -24,7 +24,7 @@ categories: [Outfits, Starter Outfits, Outfits with Talents, Outfits with Exclus
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Merchant Robes** is a Starter [Outfit](Outfit.md) in _Deepwoken_.
+**Merchant Robes** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
@@ -36,7 +36,7 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-This Outfit has 1200 durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, and +5% Elemental resistance [ResistanceElemental](Attunement.md). Additionally, it provides the [Merchant's Accord](Talents.md#merchants-accord) Talent.
+This Outfit has 1200 durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, and +5% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Merchant's Accord](Talents.md#merchants-accord) Talent.
 
 The [Merchant's Accord](Talents.md#merchants-accord) Talent causes Merchants and [Antiquarians](Antiquarian.md) to do business with you, regardless of reputation.
 
@@ -44,4 +44,4 @@ The [Merchant's Accord](Talents.md#merchants-accord) Talent causes Merchants and
 
 ## Trivia/Notes
 
--   The Outfit is worn by [Lance Leshi](Lance_Leshi.md) in the [Etris](Etris.md) food shop and [Lance's Brother](<Lance's_Brother.md>) at [Isle of Vigils](Isle_of_Vigils.md) who sells food near the docks.
+-   The Outfit is worn by [Lance Leshi](Lance.md) in the [Etris](Etris.md) food shop and [Lance's Brother](<Lance's_Brother.md>) at [Isle of Vigils](Isle_of_Vigils.md) who sells food near the docks.

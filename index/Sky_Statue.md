@@ -14,7 +14,7 @@ categories: [NPCs, NPCs located in the Etrean Luminant, NPCs located in the East
 
 ## Description
 
-The Sky Statues are a small collection of statues that are used to obtain the [Bladeharper](Bladeharper.md) [Oath](Oath.md).
+The Sky Statues are a small collection of statues that are used to obtain the [Bladeharper](Oath%253A_Bladeharper.md) [Oath](Oaths.md).
 
 ## Location
 

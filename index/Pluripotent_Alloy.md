@@ -41,16 +41,16 @@ The list of alloyable weapons can be found here.
 
 ### Hollow Forge
 
-If you are using the [Ignition Delver](Ignition_Delver.md) Origin, you can speak to the [Hollow Forge](Hollow_Forge.md) at [Miner's Landing](<Miner's_Landing.md>) or the [Chariot's Spire](<Chariot's_Spire.md>) to transfer Pluripotent Alloys into other [Relics](Relics.md).
+If you are using the [Ignition Delver](Ignition_Delver.md) Origin, you can speak to the [Hollow Forge](Hollow_Forge.md) at [Miner's Landing](<Miner's_Landing.md>) or the [Chariot's Spire](<The_Chariot's_Spire.md>) to transfer Pluripotent Alloys into other [Relics](Relics.md).
 
 -   **3** Pluripotent Alloys -> **1** [Smith's Alloy](<Smith's_Alloy.md>)
 -   **9** Pluripotent Alloys -> **1** [Armorer's Needle](<Armorer's_Needle.md>)
 
 ### Ironsing
 
-When obtaining [Ironsing](Ironsing.md) for the first time on your Roblox account, you will need to speak to [Rudral](Rudral.md) while having a Pluripotent Alloy in your inventory. Doing this will unlock dialogue with [Adar](Adar.md), allowing you to obtain this Attunement. This will not consume your Pluripotent Alloy.
+When obtaining [Ironsing](Ironsing.md) for the first time on your Roblox account, you will need to speak to [Rudral](Rudral.md) while having a Pluripotent Alloy in your inventory. Doing this will unlock dialogue with [Adar](Adar,_Master_of_Metal.md), allowing you to obtain this Attunement. This will not consume your Pluripotent Alloy.
 
-If you have obtained this Attunement previously, this part can be skipped, as the [Adar](Adar.md) dialogue will be unlocked automatically.
+If you have obtained this Attunement previously, this part can be skipped, as the [Adar](Adar,_Master_of_Metal.md) dialogue will be unlocked automatically.
 
 ## Trivia
 

@@ -12,7 +12,7 @@ notices:
 
 ## Description
 
-_**My Warm Blood**_ was a [Book](Book.md).
+_**My Warm Blood**_ was a [Book](Books.md).
 
 ## Text
 

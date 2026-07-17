@@ -23,15 +23,15 @@ categories: [Outfits, Outfits with Talents, Outfits with Exclusive Talents]
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Etrean Rogue** is a Placeholder [Outfit](Outfit.md) in _Deepwoken_.
+**Etrean Rogue** is a Placeholder [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit requires three (3) [Crystal Lenses](Crystal_Lens.md) and three (3) [Spark Glands](Spark_Gland.md) to craft.
+This Outfit requires three (3) [Crystal Lenses](Mantra_Modifiers.md#regular-modifiers) and three (3) [Spark Glands](Spark_Gland.md) to craft.
 
-This Outfit additionally requires the player to have 30 [Agility](Agility.md) to be crafted.
+This Outfit additionally requires the player to have 30 [Agility](Attributes.md#agl) to be crafted.
 
 Though, crafting this Outfit is not actually possible; pressing craft will do absolutely nothing even if you meet the requirements to do so.
 

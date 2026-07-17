@@ -30,4 +30,4 @@ The Gold Ring is an [Equipment](Equipment.md) item under the "Rings" category.
 
 -   This, and the [Silver Ring](Silver_Ring.md) are the only two rings in the game that you can equip multiple copies of at once without using bugs or exploits.
 -   Upon completing [Polis](Polis.md)' dialogue, he will give the player a Gold Ring for free.
--   Gold Rings can be melted down into [Gold](Gold.md) at a campfire.
+-   Gold Rings can be melted down into [Gold](Ores.md#gold) at a campfire.

@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Elder Sasha is an [Adret](Adret.md) NPC. She is a [Justicar](Justicar.md).
+Elder Sasha is an [Adret](Adret.md) NPC. She is a [Justicar](<Justicar_(Origin).md>).
 
 After escaping a [Voidwalker](Voidwalker.md) by utilizing a [Hobo](Hobo.md)'s stash, she shared the story with her fellows at [Alsin's Landing](<Alsin's_Landing.md>).
 

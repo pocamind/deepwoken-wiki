@@ -40,7 +40,7 @@ You would be able to tell her this once you meet the following requirements:
     -   The third on the body of a deceased Diver immediately off the bridge and to the left once entering the Ethironal Shrine Sanctuary
         -   Note that the Journal items themselves are not necessary, what matters is if you picked them up from the corpse.
 -   Have completed the [Galewax quest](Galewax.md) at least once.
--   Have beaten [Chaser](Chaser.md) at least once.
+-   Have beaten [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) at least once.
 -   Have two Talents obtained within the Second Layer:
     -   Ethiron Gaze, which is obtained after interacting with an ice spear inside the [Firfire Caverns](Firfire_Caverns.md), and talking to the Leader located at [Firfire](Firfire.md).
     -   Union Hook, which is obtained after going to the powered [Frontier Furnace](The_Frontier_Furnace.md) and speaking with [Alpha](Alpha.md), or obtained innately by the [Ignition Delver](Ignition_Delver.md) Origin.

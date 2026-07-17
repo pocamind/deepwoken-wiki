@@ -13,8 +13,8 @@ notices:
 Reservoir bar
 
   
-**(Note: This [mechanic](Combat_Mechanics.md) has been removed from the game, replaced by [Tempo](Tempo.md) instead.)**
+**(Note: This [mechanic](Combat_Mechanics.md) has been removed from the game, replaced by [Tempo](Combat_Mechanics.md#tempo) instead.)**
 
 Reservoir was a mechanic in Deepwoken that controlled the speed at which [Ether](Ether.md) regenerates. When the bar reaches 0 you regen your Ether significantly slower, and your reservoir depletes when Ether is being regenerated. The bar will also not regenerate unless Ether is full. The only exception to this rule was sitting next to a campfire which would regen both your Ether and Reservoir.
 
-It was cut and replaced with [Tempo](Tempo.md) in [Verse 2](Verse_2.md).
+It was cut and replaced with [Tempo](Combat_Mechanics.md#tempo) in [Verse 2](Verse_2.md).

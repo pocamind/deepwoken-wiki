@@ -23,7 +23,7 @@ notices:
 | selling_price | 10 |
 | weight | 1 |
 
-**Mod Business Competitive** is a Unique (Spec/Mod) [Outfit](Outfit.md) in _Deepwoken_.
+**Mod Business Competitive** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

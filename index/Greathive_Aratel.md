@@ -16,7 +16,7 @@ Life in all its variety hums around you. The immensity of what has been accompli
 
   
 
-**Greathive Aratel** is a [location](Locations.md) in _Deepwoken_. It is a settlement in the [Aratel Sea](The_Aratel_Sea.md).
+**Greathive Aratel** is a location in _Deepwoken_. It is a settlement in the [Aratel Sea](The_Aratel_Sea.md).
 
 ## Overview
 
@@ -27,7 +27,7 @@ To enter Greathive Aratel, you must have:
 -   washed your face (requires you to be at least [Power](Power.md) 10 to wash your face) on any character or slot, and
 -   have visited the [Eastern Luminant](Luminants.md#etrean-and-eastern-luminants) at least once on your current character.
 
-Alternatively, you can [sail](Sailing.md) to Greathive Aratel, but getting to the top requires mobility mantras, clever usage of [gliders](Gliders.md), lots of parkour and jumping on the heads of players. If you washed your face and have already invoked the Greathive fountain found in The Lordsgrove, you can sail to the shipyard of the Greathive Aratel and use the fountain in there in order to get teleported up to the entrance floor of Greathive Aratel.
+Alternatively, you can [sail](Ships_&_Sailing.md) to Greathive Aratel, but getting to the top requires mobility mantras, clever usage of [gliders](Gliders.md), lots of parkour and jumping on the heads of players. If you washed your face and have already invoked the Greathive fountain found in The Lordsgrove, you can sail to the shipyard of the Greathive Aratel and use the fountain in there in order to get teleported up to the entrance floor of Greathive Aratel.
 
 ## Contents
 
@@ -62,13 +62,13 @@ Hive Fountains
 
 #### Shipyard
 
--   In the entrance floor of the Greathive Aratel and to the left, the player can find a Shipyard fountain that will spawn the player down to the shipyard area, In the shipyard the player can spawn, craft and recall their [ships](Boats.md).
+-   In the entrance floor of the Greathive Aratel and to the left, the player can find a Shipyard fountain that will spawn the player down to the shipyard area, In the shipyard the player can spawn, craft and recall their [ships](Ships_&_Sailing.md).
     -   If the player is famous with [The Hive](The_Hive.md), the [Shipwright](Shipwright.md) will bring up ship modification, or [Lifeweaving](Lifeweave.md).
     -   The Shipwright NPC will not spawn, repair or recall a player's ship until the player reaches ally reputation with The Hive.
 
 #### Library
 
--   [Gear Cabinet](Gear_Cabinet.md) to buy training equipment.
+-   [Gear Cabinet](Training_Gear.md) to buy training equipment.
 -   There is a [Mantra Lectern](Mantra_Lectern.md) near the entrance.
 
 ### Root Plaza
@@ -95,7 +95,7 @@ Hive Fountains
 #### R&D
 
 -   [Laplace](Laplace.md), the enchanter resides in this room. Hand in **three** enchanted items ([Weapons](Weapons.md) and [Equipment](Equipment.md)) to enchant your currently equipped weapon, provided it is eligible. You can also purchase [Enchant Grease](Enchant_Grease.md) from Laplace for 5, allowing the user to apply an enchant to their Equipment.
--   Behind the central metal bookshelf in the main R&D room, there are two breakable walls, which if destroyed by a strong enough mantra, reveals a hidden room with a phonograph playing "[A Memory of Tides](A_Memory_of_Tides.md)" by Naktigonis.
+-   Behind the central metal bookshelf in the main R&D room, there are two breakable walls, which if destroyed by a strong enough mantra, reveals a hidden room with a phonograph playing "[A Memory of Tides](Deepwoken_OST.md#a-memory-of-tides)" by Naktigonis.
 -   The room behind the wooden bookshelf.
     
     Using [Strong Left](Attunement-less.md) (or any other environment-destroying mantra) on the wooden bookshelf in the right hallway a few times will reveal a, now presumably unused, extra room with three "containers" and broken pipes leaking gas.
@@ -163,8 +163,8 @@ Players can crank the telescope clockwise or counterclockwise to position it to 
 
 ## Trivia
 
--   The music for this area is [Of Chitin, Kith And Kin](Of_Chitin,_Kith_And_Kin.md) by Naktigonis.
--   The combat music for this area is [A Symphony Of Strife](A_Symphony_Of_Strife.md) by Naktigonis.
+-   The music for this area is [Of Chitin, Kith And Kin](Deepwoken_OST.md#of-chitin-kith-and-kin) by Naktigonis.
+-   The combat music for this area is [A Symphony Of Strife](Deepwoken_OST.md#a-symphony-of-strife) by Naktigonis.
 -   Parts of the Greathive can be seen emitting black particles, which is fireproofing that allows [Flamecharm](Flamecharm.md) to be used within the Greathive without the whole thing going up in flames.
 -   Everyone inside Greathive Aratel is a [Hivekin](Hivekin.md): either a [Vesperian](Vesperian.md), [Ganymede](Ganymede.md), or [Chrysid](Chrysid.md).
 -   The Soulblooms have an option to taste the flower's sap. When attempting to do so, your Character has a violent gut feeling it is not for ingestion and ultimately decides not to.

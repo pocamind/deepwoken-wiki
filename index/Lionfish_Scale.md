@@ -27,4 +27,4 @@ It can be used to craft the [Ignition Union Uniform](Ignition_Union_Uniform.md),
 
 ## Trivia
 
--   It can be used to spawn [Primadon](Primadon.md) by offering 5 of them to the Fire.
+-   It can be used to spawn [Primadon](Primadon,_Titan_of_the_East.md) by offering 5 of them to the Fire.

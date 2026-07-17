@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 
 ## Description
 
-Curse of the Authoritative is a debuffing curse [enchantment](Enchantment.md) that applies negative posture resistance to your opponent.
+Curse of the Authoritative is a debuffing curse [enchantment](Enchantments.md) that applies negative posture resistance to your opponent.
 
 ## Effect
 

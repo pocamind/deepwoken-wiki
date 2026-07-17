@@ -31,4 +31,4 @@ categories: [Items, Drops, Ingredients]
 -   Crafting the [Hive Drone](Hive_Drone.md) outfit.
 -   Crafting the [Black Diver](Black_Diver.md) outfit.
 -   Crafting the [Prophet's Cloak](<Prophet's_Cloak.md>) outfit.
--   Using 5 of them to summon the [Primadon](Primadon.md) boss.
+-   Using 5 of them to summon the [Primadon](Primadon,_Titan_of_the_East.md) boss.

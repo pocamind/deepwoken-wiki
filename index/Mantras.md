@@ -20,7 +20,7 @@ Mantras are obtained by receiving a [Whisper Draw](Whisper_Draw.md) upon Powerin
 
 If you are unsatisfied with the selection of Mantras you've been given, you can choose the **Roll 2** card in a Whisper Draw to grant you 2 Talents instead of a Mantra.
 
-If you are unsatisfied with a Mantra you have chosen, it can be rerolled via the [Shrine of Temptation](Shrine_of_Temptation.md) or split into two Talents with the [Shrine of Division](Shrine_of_Division.md). Opposite to the [Shrine of Division](Shrine_of_Division.md), the [Shrine of Unification](Shrine_of_Unification.md) can combine two Talents to create a [Whisper Draw](Whisper_Draw.md).
+If you are unsatisfied with a Mantra you have chosen, it can be rerolled via the [Shrine of Temptation](Deep_Shrines/Shrine_of_Temptation.md) or split into two Talents with the [Shrine of Division](Deep_Shrines/Shrine_of_Division.md). Opposite to the [Shrine of Division](Deep_Shrines/Shrine_of_Division.md), the [Shrine of Unification](Deep_Shrines/Shrine_of_Unification.md) can combine two Talents to create a [Whisper Draw](Whisper_Draw.md).
 
 **Amount of Talents available to gain through Roll 2's, compared to the amount of Mantras you have:**
 
@@ -86,12 +86,12 @@ To modify a Mantra, the player needs to go to a Mantra Lectern, typically locate
 -   At a Mantra Lectern, **all** Mantras the person has will be shown to them on a display that pops up.
 -   After picking a Mantra to modify, **all** usable modifiers in the user's inventory will be shown.
     -   Mantra Modifiers include the following:
-        -   [Cloud](Cloudstone.md)/[Stratus Stones](Stratus_Stone.md) increase size at the cost of speed.
-        -   [Crystal](Crystal_Lens.md)/[Perfect Lenses](Perfect_Lens.md) increase range at the cost of size.
-        -   [Aeon](Aeon_Logstone.md)/[Eternal Logstones](Eternal_Logstone.md) increase duration at the cost of range.
-        -   [Drift](Drift_Shard.md)/[Rush Shards](Rush_Shard.md) increase speed at the cost of duration.
-        -   [Glass](Glass_Stone.md)/[Magnifying Stones](Magnifying_Stone.md) increase AoE at the cost of duration.
-        -   [Vibrant Gems](Vibrant_Gem.md), increasing 'intensity'; this effect is largely regarded as useless and unnoticeable and typically is a waste of a modification.
+        -   [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) increase size at the cost of speed.
+        -   [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) increase range at the cost of size.
+        -   [Aeon](Mantra_Modifiers.md#regular-modifiers)/[Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) increase duration at the cost of range.
+        -   [Drift](Mantra_Modifiers.md#regular-modifiers)/[Rush Shards](Mantra_Modifiers.md#regular-modifiers) increase speed at the cost of duration.
+        -   [Glass](Mantra_Modifiers.md#regular-modifiers)/[Magnifying Stones](Mantra_Modifiers.md#regular-modifiers) increase AoE at the cost of duration.
+        -   [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers), increasing 'intensity'; this effect is largely regarded as useless and unnoticeable and typically is a waste of a modification.
         -   Sparks, providing effects to mantra, typically changing how it behaves:
             -   e.g. Fleeting Sparks with a Blast Spark changes the mantra to chase down and detonate on foes instead of shocking them from range.
     -   Mantra modifiers, except for Sparks, increase the Ether cost of a Mantra. It is possible for a Mantra to consume most of, if not all, of a players Ether upon one use.
@@ -106,12 +106,12 @@ The formula to calculate Mantra damage is as follows: B a s e D a m a g e × ( 1
 
 Base damage often increases per Mantra level. Use the Mantra's base damage at its current level in the equation.
 
--   Example 1: Level 5 [Strong Left](Strong_Left.md) with 95 Strength and 2 Songchant:
+-   Example 1: Level 5 [Strong Left](Attunement-less.md#strong-left) with 95 Strength and 2 Songchant:
     -   60 × (1 + (1.65/1000 × 95 × (1 + 2 × 0.075))) = 70.82 damage.
--   Example 2: Level 4 [Gale Lunge](Gale_Lunge.md) with 60 Galebreathe and no Songchant:
+-   Example 2: Level 4 [Gale Lunge](Galebreathe.md#gale-lunge) with 60 Galebreathe and no Songchant:
     -   16.25 × (1 + (2.75/1000 × 60) = 18.93 damage.
 
-Nearly all [Attunement-less](Attunement-less.md) Mantras have 1.65 investment scaling, while most [Attuned](Attunement.md) Mantras have 2.75 scaling, although there are outliers to this.
+Nearly all [Attunement-less](Attunement-less.md) Mantras have 1.65 investment scaling, while most [Attuned](Attunements.md) Mantras have 2.75 scaling, although there are outliers to this.
 
 This formula also works for non-Mantra things, such as Galebreathe Apparitions, granted Songchant only applies to Mantras, so that part of the equation should be left out. This cannot be used to calculate Weapon damage.
 
@@ -119,13 +119,13 @@ This formula also works for non-Mantra things, such as Galebreathe Apparitions, 
 
 ### Oath Mantras
 
-[Oath](Oath.md) Mantras gain +2% damage per Songchant, changing the formula to the following:
+[Oath](Oaths.md) Mantras gain +2% damage per Songchant, changing the formula to the following:
 
 B a s e D a m a g e × ( 1 + ( S c a l i n g 1000 × I n v e s t m e n t × ( 1 + S o n g c h a n t × 0.075 ) ) × ( 1 + 0.02 × S o n g c h a n t ) ) {\\displaystyle BaseDamage\\times (1+({\\frac {Scaling}{1000}}\\times Investment\\times (1+Songchant\\times 0.075))\\times (1+0.02\\times Songchant))} {\\displaystyle BaseDamage\\times (1+({\\frac {Scaling}{1000}}\\times Investment\\times (1+Songchant\\times 0.075))\\times (1+0.02\\times Songchant))}
 
 Note that most Oath Mantras do not have scaling, making the formula as simple as Base damage \* (1 + 0.02 \* Songchant).
 
--   Example: [Celestial Assault](Celestial_Assault.md) with 80 Strength and 4 Songchant:
+-   Example: [Celestial Assault](Oath%253A_Starkindred.md#celestial-assault) with 80 Strength and 4 Songchant:
     -   20 × (1 + (1.65/1000 × 80 × (1 + 4 × 0.075)) × (1 + 0.02 × 4)) = 25.3 damage per hit (2), 50.61 damage total.
 
 ## Types of Mantras
@@ -134,7 +134,7 @@ Note that most Oath Mantras do not have scaling, making the formula as simple as
 
 Large and threatening fire-based spells. Excels in crowd control and area denial as many spells have large range.
 
--   The Lava Serpent path can be unlocked at 40 Flamecharm, dealing flat damage and ragdolling instead of applying [burn](Burn.md).
+-   The Lava Serpent path can be unlocked at 40 Flamecharm, dealing flat damage and ragdolling instead of applying [burn](Status_Effects.md#burn).
 -   Can be further upgraded with the [Azure Flame](Talents.md#azure-flame) Talent for increased burn damage and larger Eruptions.
 -   Has a hybrid path with [Shadowcast](Shadowcast.md) called "Wraith Path: Twisted Puppets". More info can be found [here](Hybrid_Abilities.md#flamecharm).
 -   Has a hybrid path with [Frostdraw](Frostdraw.md) called “Flashboil,” or “Steam Path.”
@@ -143,7 +143,7 @@ Large and threatening fire-based spells. Excels in crowd control and area denial
 
 Thundercall utilizes fast and quickly regenerating spells to take a fight at any desired pace. Has spells with somewhat small start-up for closing distance or keeping an opponent on edge.
 
--   Surge path can be obtained at 40 Thundercall. This replaces your [Shock](Shock.md) with applying [Surge Rods](Status_Effects.md#overloaded), a stacking status effect that causes a surge overload once enough stacks have been applied, dealing Thundercall damage.
+-   Surge path can be obtained at 40 Thundercall. This replaces your [Shock](Status_Effects.md#shock) with applying [Surge Rods](Status_Effects.md#overloaded), a stacking status effect that causes a surge overload once enough stacks have been applied, dealing Thundercall damage.
 -   The Set Talent _Shock Trooper Specialist_ turns your Thundercall Mantras green, allowing them to strike lightning on your opponent by landing [Galebreathe](Galebreathe.md) and [Thundercall](Thundercall.md) Mantras.
 -   Most Thundercall Mantras have spark variants.
 
@@ -152,7 +152,7 @@ Thundercall utilizes fast and quickly regenerating spells to take a fight at any
 Uses ice to freeze enemies and create physical obstructions, allowing the user to both navigate the world easier and create terrain in combat.
 
 -   Can slow opponents, temporarily freeze them, or make barriers forcing opponents to go around.
--   Glass Path: Crystallization can be unlocked at 40 Frostdraw. This replaces your [Chill](Chill.md) with [Crystals](Status_Effects.md#crystals), a stacking status effect that causes a crystal detonation once enough stacks have been applied, dealing Frostdraw damage. Unlocks the use of the [Crystal Impale](Crystal_Impale.md), [Ice Lasers](Ice_Lasers.md), and [Crystal Knee](Crystal_Knee.md) Mantras.
+-   Glass Path: Crystallization can be unlocked at 40 Frostdraw. This replaces your [Chill](Status_Effects.md#chill) with [Crystals](Status_Effects.md#crystals), a stacking status effect that causes a crystal detonation once enough stacks have been applied, dealing Frostdraw damage. Unlocks the use of the [Crystal Impale](Frostdraw.md#crystal-impale), [Ice Lasers](Frostdraw.md#ice-lasers), and [Crystal Knee](Frostdraw.md#crystal-knee) Mantras.
 -   Most Frostdraw Mantras have spark variants.
 -   Has a hybrid path with [Flamecharm](Flamecharm.md) called Flashboil or “Steam Path.”
 
@@ -161,10 +161,10 @@ Uses ice to freeze enemies and create physical obstructions, allowing the user t
 Galebreathe utilizes the elements for movement, defense, and offensive actions.
 
 -   It has a mix of close-range combo Mantras, along with multiple movement Talents for moving around the world.
--   Haunted Path: Specter can be unlocked at 40 Galebreathe. Specter Path replaces your [Suffocation](Suffocation.md) procs with Apparitions and greater mobility.
--   Applies [Winded](Winded.md), slowing the attack speed of your opponent.
+-   Haunted Path: Specter can be unlocked at 40 Galebreathe. Specter Path replaces your [Suffocation](Status_Effects.md#suffocate) procs with Apparitions and greater mobility.
+-   Applies [Winded](Status_Effects.md#winded), slowing the attack speed of your opponent.
 -   The Set Talent _Shock Trooper Specialist_ turns your Galebreathe Mantras yellow, allowing them to strike lightning on your opponent by landing [Galebreathe](Galebreathe.md) and [Thundercall](Thundercall.md) Mantras.
--   Applies [Suffocation](Suffocation.md), disabling your opponent's ability to cast Mantras. Innately procs by landing the [Wind Gun](Wind_Gun.md) and [Galetrap](Galetrap.md) Mantras, though it can be procced through Talents such as [A World Without Song](Talents.md#a-world-without-song).
+-   Applies [Suffocation](Status_Effects.md#suffocate), disabling your opponent's ability to cast Mantras. Innately procs by landing the [Wind Gun](Galebreathe.md#wind-gun) and [Galetrap](Galebreathe.md#galetrap) Mantras, though it can be procced through Talents such as [A World Without Song](Talents.md#a-world-without-song).
 
 ### [Shadowcast Mantras](Shadowcast.md)
 
@@ -188,20 +188,20 @@ Ironsing provides the widest ranged Mantras in the game and the best damage outp
 
 Harvest the blood of yourself and your enemies to hinder them and empower your mantras and abilities.
 
--   Weaken your enemies with [Blood Poison](Blood_Poison.md), applying various debuffs and priming your opponent for your Talents.
+-   Weaken your enemies with [Blood Poison](Status_Effects.md#blood-poisoning), applying various debuffs and priming your opponent for your Talents.
 -   Can drain your opponent's blood, sometimes causing them to die before their health depletes.
 
-### [Hybrid Mantras](Hybrid_Mantras.md)
+### [Hybrid Mantras](Hybrid_Abilities.md)
 
 Hybrid mantras are obtained upon reaching the required level in multiple Attunement attributes, they provide unique opportunities to mix the capabilities of multiple elemental effects.
 
 -   Can provide powerful synergies between Attunements allowing use of certain Talents and paths in unique ways.
 -   Versatility due to their ability to inherit the effects of two Attunement paths such as Surge and Wraith Path.
--   Typically requires high investment into your [Attunement](Attunement.md) attributes.
+-   Typically requires high investment into your [Attunement](Attunements.md) attributes.
 
 ### [Physical/Attunement-less Mantras](Attunement-less.md)
 
-There are Mantras that are based off of Core Attributes, rather than your [Attunement](Attunement.md). This includes Strength, Fortitude, Intelligence, Agility, Willpower, Charisma, and Weapon Mastery.
+There are Mantras that are based off of Core Attributes, rather than your [Attunement](Attunements.md). This includes Strength, Fortitude, Intelligence, Agility, Willpower, Charisma, and Weapon Mastery.
 
 A Mantra's type generally corresponds to its respective stat. Weapon Mantras and Strength Mantras tend to have more offensive capabilities, while Charisma and Fortitude lean more towards debuffing and supporting. Intelligence, Agility, and Willpower Mantras are more or less split between the two roles.
 

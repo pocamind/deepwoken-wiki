@@ -23,7 +23,7 @@ The Ministry is a group of mysterious users of [Shadowcast](Shadowcast.md) who s
 
 The exact time of their founding is unclear, but by 1272,[\[1\]](#cite-note-1) the original incarnation of the Ministry who had fought to conquer [Minityrsa](Minityrsa.md) were considered ancient.[\[2\]](#cite-note-2)
 
-They are responsible for the drowning of [Celtor](The_City_of_the_Drowned.md). The city was drowned as an offering to [Yun'Shul](<Yun'Shul.md>), though they did not care for the surprise gift and did not give the Ministry any reward for it.[\[3\]](#cite-note-3)
+They are responsible for the drowning of [Celtor](The_City_of_the_Drowned.md). The city was drowned as an offering to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>), though they did not care for the surprise gift and did not give the Ministry any reward for it.[\[3\]](#cite-note-3)
 
 They enjoy recruiting people to kill others, sometimes to kill specific individuals, sometimes just to kill random people.
 
@@ -43,7 +43,7 @@ Going to the [Soothsayer](Soothsayer.md) in the [Starfield Tundra](Starfield_Tun
 
 There is only one [random event](Random_Encounters.md) in which you can assist The Ministry and gain reputation:
 
--   [Eastern Nomad](Eastern_Nomad.md) + [Eastern Nomad Leader](Eastern_Nomad_Leader.md) [Navaeiconfaction](Children_of_Navae.md)  vs [Ministry Scouts](Ministry_Scout.md) [Ministryiconfaction](Ministry.md) ([Summer Isle](Summer_Isle.md))
+-   [Eastern Nomad](Eastern_Nomad.md) + [Eastern Nomad Leader](Eastern_Nomad_Leader.md) [Navaeiconfaction](The_Children_of_Navae.md)  vs [Ministry Scouts](Ministry_Scout.md) [Ministryiconfaction](The_Ministry.md) ([Summer Isle](Summer_Isle.md))
 
 Reputation with The Ministry is gained much more rapidly than that of most other factions.
 
@@ -51,7 +51,7 @@ Reputation with The Ministry is gained much more rapidly than that of most other
 
 -   [Zi'eer](The_Lord_Regent.md)
 -   [Cestis](Cestis.md)
--   [The Stranger](The_Stranger.md)
+-   [The Stranger](Quiet_Stranger.md)
 -   [Nostor, Master of Shadow](Nostor,_Master_of_Shadow.md)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Emel](Emel.md)
@@ -61,7 +61,7 @@ Reputation with The Ministry is gained much more rapidly than that of most other
 
 ## Trivia
 
--   [Ministry](Ministry_Scout.md) [enemies](Ministry_Necromancer.md) all use a [Krulian Knife](Krulian_Knife.md), besides the [Ministry Enforcer](Ministry_Enforcer.md), [Nostor](Nostor,_Master_of_Shadow.md), [Ministry Agent](Ministry_Agent.md), [Chaser](Chaser,_Scholar_of_the_Burning_Blood.md) and [Ministry Heartbleeders](Ministry_Heartbleeder.md).
+-   [Ministry](Ministry_Scout.md) [enemies](Ministry_Necromancer.md) all use a [Krulian Knife](Krulian_Knife.md), besides the [Ministry Enforcer](Ministry_Enforcer.md), [Nostor](Nostor,_Master_of_Shadow.md), [Ministry Agent](Ministry_Agent.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and [Ministry Heartbleeders](Ministry_Heartspiller.md).
 -   The Ministry's emblem appears as a polar opposite to Lost Celtor, especially being associated in [drowning the latter's capital](Lost_Celtor.md) as well as the "arrow" motifs.
 
 ## References

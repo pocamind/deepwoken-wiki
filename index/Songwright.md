@@ -17,7 +17,7 @@ notices:
 
 ## Description
 
-The Songwright was a [Chrysid](Chrysid.md) NPC. This NPC functioned as a Mantra trainer for all [Attunements](Attunement.md), including [Attunement-less](Attunement-less.md), allowing you to comfortably level any Mantra on the fly.
+The Songwright was a [Chrysid](Chrysid.md) NPC. This NPC functioned as a Mantra trainer for all [Attunements](Attunements.md), including [Attunement-less](Attunement-less.md), allowing you to comfortably level any Mantra on the fly.
 
 The Songwright's appearance varies from guild to guild, but they are always a [Chrysid](Chrysid.md) wearing the [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) outfit.
 

@@ -26,7 +26,7 @@ categories: [Food]
 
 **Sushi** is a craftable [Food](Food.md) item. It is also purchased from a [Mess Chef](Mess_Chef.md) for 20, [Mikhail Spellhardt](Mikhail_Spellhardt.md) for 20 during [Hallowtide](Hallowtide.md), and [The Meat Lord](The_Meat_Lord.md) for 2, sold at random.
 
-It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Vegetarian.md) Flaw.
+It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
 
 ### Effect
 
@@ -36,4 +36,4 @@ When consumed, it replenishes 30% Stomach and 10% Water.
 
 ### Recipe
 
--   1 [Fish Meat](Fish_Meat.md) and 1 [Seaweed Bundle](Seaweed_Bundle.md), no [Campfire](Campfire.md) required.
+-   1 [Fish Meat](Fish_Meat.md) and 1 [Seaweed Bundle](Seaweed_Bundle.md), no [Campfire](Campfire_Pit.md) required.

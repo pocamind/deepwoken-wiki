@@ -12,7 +12,7 @@ _This is the book availabe in the current game version. For its older counterpar
 
 ## Description
 
-_**Diver's Journal: Journeyman Skeli**_ is a [Book](Book.md) found in the first floor of the [Second Layer](Second_Layer.md), written by and collected from the corpse of [Journeyman Skeli](Journeyman_Skeli.md).
+_**Diver's Journal: Journeyman Skeli**_ is a [Book](Books.md) found in the first floor of the [Second Layer](Second_Layer.md), written by and collected from the corpse of [Journeyman Skeli](<Abandoned_Diver_(Journeyman_Skeli).md>).
 
 ## Text
 
@@ -36,7 +36,7 @@ Diver's Journal: Journeyman Skeli
 
 ## Appearances
 
--   [Journeyman Skeli](Abandoned_Diver.md)
+-   [Journeyman Skeli](<Abandoned_Diver_(Journeyman_Skeli).md>)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) (Mentioned only)
 -   [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) (Mentioned only)
 

@@ -35,4 +35,4 @@ When consumed, it replenishes 15% Stomach and 17% Water.
 
 ### Recipe
 
--   2 different [Mushrooms](Mushroom.md) (excluding [Bluecap](Bluecap.md)) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
+-   2 different [Mushrooms](Ingredients.md#mushrooms) (excluding [Bluecap](Bluecap.md)) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).

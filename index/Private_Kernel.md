@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 Private Kernel is a [Celtor](Celtor.md) NPC. He possesses information on who [The Central Authority](The_Central_Authority.md) contains in the [Merit Detainment Core](Merit_Detainment_Core.md).
 
-He is equipped with an [Authority Helm](Authority_Helm.md), a green-dyed [Plain Cape](Plain_Cape.md), [Leather Boots](Leather_Boots.md), and the [Authority Peacekeeper](Authority_Peacekeeper.md) [Outfit](Outfit.md). On his back, he wields an [Adretian Axe](Adretian_Axe.md).
+He is equipped with an [Authority Helm](Authority_Helm.md), a green-dyed [Plain Cape](Plain_Cape.md), [Leather Boots](Leather_Boots.md), and the [Authority Peacekeeper](Authority_Peacekeeper.md) [Outfit](Outfits.md). On his back, he wields an [Adretian Axe](Adretian_Axe.md).
 
 ## Location
 

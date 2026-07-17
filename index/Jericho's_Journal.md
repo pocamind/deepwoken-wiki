@@ -14,7 +14,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-_**Jericho's Journal**_ is a [Book](Book.md) found in [Fort Merit](Fort_Merit.md).
+_**Jericho's Journal**_ is a [Book](Books.md) found in [Fort Merit](Fort_Merit.md).
 
 ## Text
 

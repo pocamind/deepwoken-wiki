@@ -41,5 +41,5 @@ The [Coldseep Reactor](Talents.md#coldseep-reactor) Talent grants full immunity 
 ## Trivia
 
 -   The Grand Fisher set was made as the winner for the 2nd Official Equipment Concept Art Contest, won by TU5SK, making it one of the first community made armor sets in the game.
-    -   Some of the inspiration for this armor comes from the character Sajin Komamura from the anime Bleach. This is directly referenced in the concept art. It may also be based on the [Arcwarder](Arcwarder.md) Oath.
+    -   Some of the inspiration for this armor comes from the character Sajin Komamura from the anime Bleach. This is directly referenced in the concept art. It may also be based on the [Arcwarder](Oath%253A_Arcwarder.md) Oath.
 -   The description for Coldseep Reactor effectively suggests that the helm uses energy generated as a result of microorganisms from the Depths consuming the Eternal Gale parasites.

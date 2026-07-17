@@ -17,7 +17,7 @@ categories: [Enemies, The Hundred Legions, The Hundred Legions Enemies]
 
 ## Description
 
-A Legion Soldier is an enemy NPC that can be found in [Viper's Jaw](<Viper's_Jaw.md>) and the following events:
+A Legion Soldier is an enemy NPC that can be found in [Viper's Jaw](<The_Viper's_Jaw.md>) and the following events:
 
 -   Legion Soldiers vs [Authority Officers](Authority_Officer.md) ([Upper Erisia](Upper_Erisia.md))
 -   Hundred Legions ambush event (anywhere)
@@ -29,7 +29,7 @@ Legion Camp is located at the cave next to the Bandit Village in [Upper Erisia](
 
 ## Moveset
 
-A Legion Soldier's arsenal consists of either a [Champion's Sword](<Champion's_Sword.md>) or [Ritual Spear](Ritual_Spear.md) paired with a [Khan Shield](Khan_Shield.md) along with the [Galebreathe](Galebreathe.md) attunement:
+A Legion Soldier's arsenal consists of either a [Champion's Sword](<Champion's_Sword.md>) or [Ritual Spear](Ritual_Spear.md) paired with a [Khan Shield](Legion_Shield.md) along with the [Galebreathe](Galebreathe.md) attunement:
 
 | Name/Danger | Description |
 | --- | --- |

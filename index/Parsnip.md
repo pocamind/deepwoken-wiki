@@ -23,7 +23,7 @@ notices:
 
 ## Description
 
-Parsnip was a [Celtor](Celtor.md) NPC. They worked for the [Ignition Union](Ignition_Union.md).
+Parsnip was a [Celtor](Celtor.md) NPC. They worked for the [Ignition Union](The_Ignition_Union.md).
 
 They wore the [Ignition Welder](Ignition_Welder.md) outfit.
 

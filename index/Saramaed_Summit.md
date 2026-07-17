@@ -22,7 +22,7 @@ The air itself feels as if it were becoming ash, as the embers around you radiat
 
   
 
-**Saramaed Summit** is a [location](Locations.md) in _Deepwoken_. It is a [Voidzone](Voidzones.md) area found in the East Luminant.
+**Saramaed Summit** is a location in _Deepwoken_. It is a [Voidzone](Voidzones.md) area found in the East Luminant.
 
 ## Overview
 
@@ -38,10 +38,10 @@ Saramaed Summit is a **Voidzone**, meaning you will directly be sent to [The Dep
 
 -   [Brilliant Lotus](Ingredients.md#lotuses)
 -   [Hellfire Lotus](Ingredients.md#lotuses)
--   [Iron](Ore.md#iron)
--   [Rock](Ore.md#rock)
--   [Coal](Ore.md#coal)
--   [Irithine](Ore.md#irithine)
+-   [Iron](Ores.md#iron)
+-   [Rock](Ores.md#rock)
+-   [Coal](Ores.md#coal)
+-   [Irithine](Ores.md#irithine)
 
 ## Loot Table
 

@@ -22,7 +22,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Roa is a [Celtor](Celtor.md) NPC. They have a grudge against [Duke Erisia](Duke_Erisia.md).
+Roa is a [Celtor](Celtor.md) NPC. They have a grudge against [Duke Erisia](Duke_Ishamon_Erisia.md).
 
 Roa was an inhabitant of [Erisia](Erisia.md) before it drifted into the [Voidsea](Voidsea.md).
 

@@ -12,7 +12,7 @@ notices:
 
 ## Description
 
-_**Stars Above, and the Blade between**_ was a [Book](Book.md).
+_**Stars Above, and the Blade between**_ was a [Book](Books.md).
 
 ## Text
 

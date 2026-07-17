@@ -217,7 +217,7 @@ Dodge
 ### Passives
 
 -   **Apex Predator** - The Prime Megalodaunt can use many of its attacks back to back with little endlag or delay. Additionally, they can feint their attacks and all of its attacks have very little endlag. Playing passive is highly recommended.
--   **Thick Hide** - Prime Megalodaunts automatically extinguish [burn](Burn.md).
+-   **Thick Hide** - Prime Megalodaunts automatically extinguish [burn](Status_Effects.md#burn).
 
 ## Finisher
 

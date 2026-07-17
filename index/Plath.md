@@ -23,7 +23,7 @@ This content is not accessible outside of this gamemode.
 
 Plath is a [Celtor](Celtor.md) NPC.
 
-Plath can be found kneeling on a rock in the [Kyrsan Wilds](Kyrsan_Wilds.md). They guide the player on how to enter the city through the [Great Library of New Kyrsa](New_Kyrsa,_The_Sleeping_City.md#great-library-of-new-kyrsa).
+Plath can be found kneeling on a rock in the [Kyrsan Wilds](Kyrsan_Wilds.md). They guide the player on how to enter the city through the [Great Library of New Kyrsa](Second_Layer/New_Kyrsa.md#great-library-of-new-kyrsa).
 
 ## Dialogue
 

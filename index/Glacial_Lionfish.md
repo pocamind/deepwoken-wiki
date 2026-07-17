@@ -30,7 +30,7 @@ Glacial Lionfish only features a primarily white coloring and blue blank eyes. I
 **Bite**  
 (★☆☆)
 
- | The Lionfish opens its jaws, biting down the foes in its direction 3 times in succession, [chilling](Chill.md) those hit.
+ | The Lionfish opens its jaws, biting down the foes in its direction 3 times in succession, [chilling](Status_Effects.md#chill) those hit.
 
 -   Deals 25 damage. (Roughly 40+ damage if corrupted)
 
@@ -46,7 +46,7 @@ Glacial Lionfish only features a primarily white coloring and blue blank eyes. I
 
  | The Lionfish raises its entire body upwards, opening its jaws to begin charging up what seems to be a blue glowing orb. Once fully charged, it'll come back down, firing a massive cyan laser beam at its opponent.
 
--   Deals **considerably more damage** than a default Lionfish Cero, and [Chills](Chill.md) whoever gets hit by it.
+-   Deals **considerably more damage** than a default Lionfish Cero, and [Chills](Status_Effects.md#chill) whoever gets hit by it.
 -   This also leaves ice where it lands.
 -   Can be used in the overworld unlike the regular Lionfish's Cero.
 -   This will auto-grip you if hit by it at low health.
@@ -60,7 +60,7 @@ Glacial Lionfish only features a primarily white coloring and blue blank eyes. I
 
 ### **Passives**
 
--   **Glacially Attuned** - All attacks by the Glacial Lionfish apply [Chill](Chill.md)
+-   **Glacially Attuned** - All attacks by the Glacial Lionfish apply [Chill](Status_Effects.md#chill)
 -   **Monster Resistance** - Physical attacks deal 25% less damage to Lionfish.
 
 ## Tips & Tricks

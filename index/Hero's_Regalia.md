@@ -27,7 +27,7 @@ categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
-**Hero's Regalia** is a Unique [Outfit](Outfit.md) in _Deepwoken_.
+**Hero's Regalia** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
@@ -39,4 +39,4 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 3000 durability and grants +15% Physical resistance ResistanceBlunt ResistanceSlash, +35% Elemental resistance [ResistanceElemental](Attunement.md), and +75% Ether Regen [IconEther](Ether.md).
+This Outfit has 3000 durability and grants +15% Physical resistance ResistanceBlunt ResistanceSlash, +35% Elemental resistance [ResistanceElemental](Attunements.md), and +75% Ether Regen [IconEther](Ether.md).

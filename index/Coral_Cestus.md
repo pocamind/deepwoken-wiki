@@ -47,7 +47,7 @@ Equipping the Coral Cestus grants its unique [weapon Talent](Talents.md#weapon-t
 
 **Coral Cestus:**
 
-**Mudskipper Gripper** spawns two [Mudskippers](Mudskipper.md) upon executing a target with the Coral Cestus critical. These Mudskipper can be [Bloatskippers](Bloatskipper.md) or [Miniskippers](Miniskipper.md), chosen at random.
+**Mudskipper Gripper** spawns two [Mudskippers](Mudskipper.md) upon executing a target with the Coral Cestus critical. These Mudskipper can be [Bloatskippers](Mudskipper.md#bloatskipper) or [Miniskippers](Mudskipper.md), chosen at random.
 
 This Talent is exclusive to the unalloyed version of the weapon.
 

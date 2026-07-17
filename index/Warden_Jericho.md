@@ -99,11 +99,11 @@ Warden Jericho is located inside the war room of the fortress at [Fort Merit](Fo
 
 **Bad Authority Reputation:**
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td>Sent to execution</td><td>Being executed</td></tr><tr><td>Hmpf. I'm impressed you've made it this far. Unfortunately for you... This is where your journey ends, interloper..</td><td>By the authority bestowed upon me by our <a href="Glossary.md#the-sovereign-drallis-ehr">Sovereign</a> of Eras, <a href="Glossary.md#the-sovereign-drallis-ehr">Drallis Ehr</a>, I sentence you to death. May you drown in the deep, criminal.</td></tr><tr><td>[End Dialogue], player is jailed and sent to <b>execution</b></td><td>[End Dialogue], player is <b>executed</b> and sent to <a href="Scyphozia.md">Scyphozia</a></td></tr></tbody></table>
+<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td>Sent to execution</td><td>Being executed</td></tr><tr><td>Hmpf. I'm impressed you've made it this far. Unfortunately for you... This is where your journey ends, interloper..</td><td>By the authority bestowed upon me by our <a href="Glossary.md#the-sovereign-drallis-ehr">Sovereign</a> of Eras, <a href="Glossary.md#the-sovereign-drallis-ehr">Drallis Ehr</a>, I sentence you to death. May you drown in the deep, criminal.</td></tr><tr><td>[End Dialogue], player is jailed and sent to <b>execution</b></td><td>[End Dialogue], player is <b>executed</b> and sent to <a href="First_Layer.md">Scyphozia</a></td></tr></tbody></table>
 
 ## Trivia
 
--   The [Oath](Oath.md) wielded by Warden Jericho, Warmaster, is unreleased.
+-   The [Oath](Oaths.md) wielded by Warden Jericho, Warmaster, is unreleased.
 -   When he executes the Pathfinder by lowering their cage into the sea, Warden Jericho's textbox doesn't use his title, and instead refers to him as just "Jericho".
 
 ## References

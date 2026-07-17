@@ -26,4 +26,4 @@ The Gold Plate is a [Treasure](Treasures.md) dropped from [Rat Fighters](Rat_Fig
 
 ## Trivia
 
--   The Gold Plate shares its description and sell price with the [Gold Bar](Gold_Bar.md).
+-   The Gold Plate shares its description and sell price with the [Gold Bar](Treasures.md).

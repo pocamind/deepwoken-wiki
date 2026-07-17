@@ -28,7 +28,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Chef Buongustino is a [Felinor](Felinor.md) NPC. He is one of the most brilliant culinary minds in the [Eastern Luminant](Eastern_Luminant.md).
+Chef Buongustino is a [Felinor](Felinor.md) NPC. He is one of the most brilliant culinary minds in the [Eastern Luminant](Luminants.md).
 
 Buongustino originally had a business in [Etris](Etris.md), but the [Etrean Civil War](Etrean_Civil_War.md) forced him to relocated to the [Isle of Vigils](Isle_of_Vigils.md). Unfortunately, he was overwhelmed by the influx of orders, while his sons were too incompetent to help him.
 

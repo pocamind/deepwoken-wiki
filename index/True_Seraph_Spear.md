@@ -49,11 +49,11 @@ This attack deals 0.5x scaled damage per hit (4), dealt as **typeless** damage.
 
 ## Critical
 
-The user performs a quick downslash before lunging forward. Both hits of this critical have **innate** [bleed](Bleed.md) and deal 1x scaled damage. This critical has a windup of 0.5 seconds.
+The user performs a quick downslash before lunging forward. Both hits of this critical have **innate** [bleed](Status_Effects.md#bleed) and deal 1x scaled damage. This critical has a windup of 0.5 seconds.
 
 The critical has a cooldown of **7 seconds**.
 
-This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

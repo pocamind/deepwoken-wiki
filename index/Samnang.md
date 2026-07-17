@@ -25,7 +25,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Samnang is a [Etrean](Etrean.md) [NPC](NPC.md). His brother [Sophon](Sophon.md), is a sworn warrior for [Clan Mofisu](Clan_Mofisu.md).
+Samnang is a [Etrean](Etrean.md) NPC. His brother [Sophon](Sophon.md), is a sworn warrior for [Clan Mofisu](Clan_Mofisu.md).
 
 ## Location
 

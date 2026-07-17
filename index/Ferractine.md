@@ -51,9 +51,9 @@ Equipping the Ferractine grants its unique [weapon Talent](Talents.md#weapon-tal
 
 ## Critical
 
-While inside [Metal Fakeout](Metal_Fakeout.md)'s targeting range, your critical attack will be replaced with the Mantra, teleporting behind your target while leaving behind a metal clone before immediately stabbing the target. This attack has innate [Bleed](Status_Effects.md#bleed), and counts as a weapon attack, **not** a Mantra. Attempting to use this critical while it's on cooldown will cause you to lose Ether.
+While inside [Metal Fakeout](Ironsing.md#metal-fakeout)'s targeting range, your critical attack will be replaced with the Mantra, teleporting behind your target while leaving behind a metal clone before immediately stabbing the target. This attack has innate [Bleed](Status_Effects.md#bleed), and counts as a weapon attack, **not** a Mantra. Attempting to use this critical while it's on cooldown will cause you to lose Ether.
 
-While outside [Metal Fakeout](Metal_Fakeout.md)'s targeting range, your critical attack is a part of the [Fractine](Fractine.md) critical. The user quickly whirls the blade, performing a quick slash, leading into a heavy slam attack with [Hyperarmor](Status_Effects.md#hyperarmor). The first hit has a scaled damage multiplier of 1.25x, and the second hit has a scaled damage modifier of 1x.
+While outside [Metal Fakeout](Ironsing.md#metal-fakeout)'s targeting range, your critical attack is a part of the [Fractine](Fractine.md) critical. The user quickly whirls the blade, performing a quick slash, leading into a heavy slam attack with [Hyperarmor](Status_Effects.md#hyperarmor). The first hit has a scaled damage multiplier of 1.25x, and the second hit has a scaled damage modifier of 1x.
 
 Both criticals have a cooldown of **8 seconds**.
 

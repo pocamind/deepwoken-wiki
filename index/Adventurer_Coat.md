@@ -27,4 +27,4 @@ categories: [Equipment with Styles, Equipment, Arms, Coats]
 
 ## Description
 
-The Adventurer Coat is an animated [Equipment](Equipment.md) item under the "Arms" category. It can be commonly found in chests from [Duke Erisia](Duke_Erisia.md).
+The Adventurer Coat is an animated [Equipment](Equipment.md) item under the "Arms" category. It can be commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md).

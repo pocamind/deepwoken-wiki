@@ -26,9 +26,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Falei is a [Ganymede](Ganymede.md) NPC. He is one of the [Apprentice Divers](Apprentice_Diver.md) who joined [Chaser](Chaser.md) in his expedition into the Second Layer before his betrayal.
+Falei is a [Ganymede](Ganymede.md) NPC. He is one of the [Apprentice Divers](Apprentice_Diver.md) who joined [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) in his expedition into the Second Layer before his betrayal.
 
-He is located in the [Sanctuary Gatehouse](Sanctuary_Gatehouse.md) in [The Eternal Gale](The_Eternal_Gale.md). He gives tips about the strong gale winds in the layer.
+He is located in the [Sanctuary Gatehouse](Sanctuary_Gatehouse.md) in [The Eternal Gale](Second_Layer.md). He gives tips about the strong gale winds in the layer.
 
 ## Dialogue
 

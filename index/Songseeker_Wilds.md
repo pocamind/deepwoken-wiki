@@ -14,7 +14,7 @@ LocationL Songseeker Wilds LocationR
   
 
   
-**Songseeker Wilds** is a [Location](Location.md) in _Deepwoken._ It is a group of islands that can be found in [The Aratel Sea](The_Aratel_Sea.md).
+**Songseeker Wilds** is a Location in _Deepwoken._ It is a group of islands that can be found in [The Aratel Sea](The_Aratel_Sea.md).
 
 ## Overview
 
@@ -26,17 +26,17 @@ It consists of 2 land masses, a smaller and larger one, separated by the ocean.
 
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 -   [Derelict Highchurch](Derelict_Highchurch.md)
--   [Songkeeper Temple](Songkeeper_Temple.md)
+-   [Songkeeper Temple](Songseeker_Temple.md)
 
 ## Contents
 
 ### Small Island
 
 -   Many unknown structures resembling jellyfish like construction can be found on this island.
--   A mineshaft containing several nodes of [Gold](Gold.md), [Rock](Rock.md), [Iron](Iron.md), and [Coal](Coal.md)
--   Inside the mineshaft, the [Mime](Mime.md) plays a trick on the player by disguising [Mineskippers](Mineskipper.md) as [Barrels](Barrel.md).
+-   A mineshaft containing several nodes of [Gold](Ores.md#gold), [Rock](Ores.md#rock), [Iron](Ores.md#iron), and [Coal](Ores.md#coal)
+-   Inside the mineshaft, the [Mime](Mime.md) plays a trick on the player by disguising [Mineskippers](Mudskipper.md#mineskipper) as [Barrels](Barrel.md).
 -   There are a lot of trees bearing fruits, ranging from [Redd](Redd.md), [Plumfruit](Plumfruit.md), [Ongo](Ongo.md), and [Pomar](Pomar.md).
--   A small campsite on top of a hill with [Jeandae](Jeandae.md).
+-   A small campsite on top of a hill with [Jeandae](Loot_Bag_Gacha.md#jeandae).
 -   Near the hill, one of the small structures with a quest NPC named [Ezra](Ezra.md), who ask you to clear out Songseekers at [Derelict Highchurch](Derelict_Highchurch.md).
 -   A ginormous structure with a single Songseeker inside.
 
@@ -44,12 +44,12 @@ It consists of 2 land masses, a smaller and larger one, separated by the ocean.
 
 #### Mineshaft
 
--   There are a lot of trees bearing [Fruit](Fruit.md), ranging from [Redds](Redd.md), [Plumfruits](Plumfruit.md), and [Pomars](Pomar.md).
--   A larger mineshaft with [Mineskippers](Mineskipper.md) littering the cave.
-    -   Going up the mineshaft will also lead to the [Shrine of Order](Shrine_of_Order.md).
-    -   Along with that, you will find some nodes of [Astruline](Astruline.md) deeper within.
+-   There are a lot of trees bearing [Fruit](Ingredients.md#fruits), ranging from [Redds](Redd.md), [Plumfruits](Plumfruit.md), and [Pomars](Pomar.md).
+-   A larger mineshaft with [Mineskippers](Mudskipper.md#mineskipper) littering the cave.
+    -   Going up the mineshaft will also lead to the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
+    -   Along with that, you will find some nodes of [Astruline](Ores.md#astruline) deeper within.
 -   Outside of the mineshaft, [Lucien](Lucien.md) asks the player to clear out the Mineskippers for the [Pocket Bombs](Talents.md#pocket-bombs) Talent and a Bravery Talent hand.
--   A gateway that leads to the [Ancient Rotlands](Ancient_Rotlands.md), a [Voidzone](Voidzone.md) that was once home to a Celestial.
+-   A gateway that leads to the [Ancient Rotlands](Ancient_Rotlands.md), a [Voidzone](Voidzones.md) that was once home to a Celestial.
 -   There are two structures:
     1.  A windmall with a [Guild Banner](Guild_Banners.md) in front of it. Inside of the windmill is a [Mantra Lectern](Mantra_Lectern.md) and some small chests.
     2.  A small hut with some chests inside.
@@ -73,7 +73,7 @@ It consists of 2 land masses, a smaller and larger one, separated by the ocean.
 -   [Beatra](Beatra.md)
 -   [Shrine of Order](Deep_Shrines/Shrine_of_Order.md)
 -   [Ezra](Ezra.md)
--   [Jeandae](Jeandae.md)
+-   [Jeandae](Loot_Bag_Gacha.md#jeandae)
 -   [Lake](Lake.md)
 -   [Lucien](Lucien.md)
 -   [Marro](Marro.md)
@@ -90,5 +90,5 @@ Below is a list of potential items that can spawn in chests in Songseeker Wilds.
 
 ## Trivia
 
--   The music for this area is [The Sun, Gleaming](The_Sun,_Gleaming.md) by Naktigonis
--   The combat music for this area is [Thrill Of The Hunt](Thrill_Of_The_Hunt.md) by Naktigonis
+-   The music for this area is [The Sun, Gleaming](Deepwoken_OST.md#the-sun-gleaming) by Naktigonis
+-   The combat music for this area is [Thrill Of The Hunt](Deepwoken_OST.md#thrill-of-the-hunt) by Naktigonis

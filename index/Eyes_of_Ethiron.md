@@ -52,21 +52,21 @@ Equipping the Eyes of Ethiron grants its unique [weapon Talent](Talents.md#weapo
 
 ## Critical
 
-The Eyes of Ethiron has two critical attacks, with it reflecting on the user's weapon stance. Both criticals apply [Suffocation](Suffocation.md), steal Ether, and proc certain [Shadowcast](Shadowcast.md) Talents on hit.
+The Eyes of Ethiron has two critical attacks, with it reflecting on the user's weapon stance. Both criticals apply [Suffocation](Status_Effects.md#suffocate), steal Ether, and proc certain [Shadowcast](Shadowcast.md) Talents on hit.
 
 For the One-Handed (Dual Wielded) Critical, the user swirls forward, leaving a trail of Shadow-imbued wind behind.
 
 For the Two-Handed Critical, the user unleashes a malevolent tornado, sending targets upwards when hit. Notably, this makes opponents that are flung upwards able to be [Air Countered](Combat_Mechanics.md).
 
-These criticals have the [M1 tag](M1_tag.md), allowing them to proc M1-exclusive [Talent](Talent.md) effects. Both criticals have a cooldown of **10 seconds**.
+These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Talents.md) effects. Both criticals have a cooldown of **10 seconds**.
 
 ## Trivia
 
 -   This weapon is merely invoking the name of [Ethiron, The Maelstrom's Eye](<Ethiron,_The_Maelstrom's_Eye.md>), and has no further connection to him.[\[1\]](#cite-note-1)
 -   The [Gatherhand](Gatherhand.md) inscription on the weapon are transcribed to: "A murky gale slips thru town, Soft air hums a quiet curse, Folk fall as lambs go out, A whole mass wanes to nil"
 -   The weapons innate Talent can lead to some ridiculous results:
-    -   Being able to spawn 35 to 45 [Shadow Seekers](Shadow_Seekers.md) by [Inhale](Talents.md#inhale) a Mantra with maximum [Cloud](Cloudstone.md) and [Stratus Stones](Mantra_Modifiers.md).
-    -   Extremely large [Shadow Roar](Shadow_Roar.md).
+    -   Being able to spawn 35 to 45 [Shadow Seekers](Shadowcast.md#shadow-seekers) by [Inhale](Talents.md#inhale) a Mantra with maximum [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md).
+    -   Extremely large [Shadow Roar](Shadowcast.md#shadow-roar).
     -   Very large Shadowcast Mantras in general.
 
 ## References

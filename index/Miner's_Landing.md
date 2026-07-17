@@ -22,7 +22,7 @@ The pride and efforts of the Union have culminated in this research base.
 
   
 
-**Miner's Landing** is a [location](Locations.md) in _Deepwoken_. It is found in the Eastern Luminant.
+**Miner's Landing** is a location in _Deepwoken_. It is found in the Eastern Luminant.
 
 ## Overview
 
@@ -36,7 +36,7 @@ It contains a Voidzone, the [Saramaed Summit](Saramaed_Summit.md). It also conta
 
 The Docks has a guard and a shipwright.
 
-Past the gate, [Tolkat](Tolkat.md), the [NPC](NPC.md) who unbounds the player's [Strength](Strength.md), can be found.
+Past the gate, [Tolkat](Tolkat.md), the NPC who unbounds the player's [Strength](Attributes.md#str), can be found.
 
 To the right of the Docks, the NPC for the [Oathless](Oath%253A_Oathless.md) [Oath](Oaths.md) quest is in a cave.
 
@@ -101,7 +101,7 @@ _Main Page: [Oath: Arcwarder](Oath%253A_Arcwarder.md)_
 -   To start, you need to have a [Pluripotent Alloy](Pluripotent_Alloy.md) in your inventory.
 -   Speak to the Blacksmith. He will mention a friend who is interested in Alloys.
 -   Head up to the bridge overlooking Miner's Landing, go to the second pair of pillars, and go through the window on the left one.
--   Talk to [Adar](Adar,_Master_of_Metal.md). He will ask you to bring him the following [Ores](Ore.md): **Iron, Gold, Erisore, Irithine, Astruline,** and **Umbrite.**
+-   Talk to [Adar](Adar,_Master_of_Metal.md). He will ask you to bring him the following [Ores](Ores.md): **Iron, Gold, Erisore, Irithine, Astruline,** and **Umbrite.**
 -   Once you have all these ores, go back to Adar. He will give you an Alloyed Elixir.
 -   Drink the potion to unlock [Ironsing](Ironsing.md).
 
@@ -115,7 +115,7 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia
 
--   The music for this area is [Peregrine](Peregrine.md) by Naktigonis so far. Its own theme song has been confirmed to be released.
+-   The music for this area is [Peregrine](Deepwoken_OST.md#peregrine) by Naktigonis so far. Its own theme song has been confirmed to be released.
 -   Miner's Landing has a more industrial focus than the other bases such as [Etris](Etris.md) and [Greathive Aratel](Greathive_Aratel.md).
 -   Various Union Hooks can be found throughout Miner's Landing.
 -   Players with the [Ignition Delver](Ignition_Delver.md) Origin spawn here by default.

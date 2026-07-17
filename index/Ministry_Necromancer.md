@@ -69,7 +69,7 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 **Summon Necro-skippers**  
 (★☆☆)
 
- | Summons a total of three [Blue](Blueskipper.md) or [Redskippers](Redskipper.md) before becoming invulnerable and remaining idle until all the Mudskippers are killed.
+ | Summons a total of three [Blue](Necroskipper.md) or [Redskippers](Necroskipper.md) before becoming invulnerable and remaining idle until all the Mudskippers are killed.
 
 -   \+ Summon
 -   «» Misc.

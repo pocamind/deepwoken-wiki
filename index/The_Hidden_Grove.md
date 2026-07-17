@@ -16,16 +16,16 @@ TERRITORY OF The Summer Company
 
   
 
-**The Hidden Grove** was a [location](Locations.md) in _Deepwoken_. It was a small cave behind [Summer Isle](Summer_Isle.md).
+**The Hidden Grove** was a location in _Deepwoken_. It was a small cave behind [Summer Isle](Summer_Isle.md).
 
 ## Overview
 
 The Hidden Grove featured a waterfall and flower fountain. To activate the fountain, players had to interact with the shrine using a canteen filled with any liquid. This caused 6 [Lotuses](Ingredients.md#lotuses) to spawn around the fountain. These Lotuses lasted for 45 seconds before vanishing and were randomized according to the current season in the game. Additionally, the fountain had a 60-minute cooldown per player across the server.
 
--   Spring: [Miasmic Lotus](Miasmic_Lotus.md), [Zephyr Lotus](Zephyr_Lotus.md).
--   Summer: [Empyrean Lotus](Empyrean_Lotus.md), [Hellfire Lotus](Hellfire_Lotus.md).
--   Autumn: [Skyvalor Lotus](Skyvalor_Lotus.md), [Zephyr Lotus](Zephyr_Lotus.md).
--   Winter: [Brilliant Lotus](Brilliant_Lotus.md), [Skyvalor Lotus](Skyvalor_Lotus.md).
+-   Spring: [Miasmic Lotus](Primordial_Lotuses.md#miasmic-lotus), [Zephyr Lotus](Primordial_Lotuses.md#zephyr-lotus).
+-   Summer: [Empyrean Lotus](Primordial_Lotuses.md#empyrean-lotus), [Hellfire Lotus](Primordial_Lotuses.md#hellfire-lotus).
+-   Autumn: [Skyvalor Lotus](Primordial_Lotuses.md#skyvalor-lotus), [Zephyr Lotus](Primordial_Lotuses.md#zephyr-lotus).
+-   Winter: [Brilliant Lotus](Primordial_Lotuses.md#brilliant-lotus), [Skyvalor Lotus](Primordial_Lotuses.md#skyvalor-lotus).
 
   
 

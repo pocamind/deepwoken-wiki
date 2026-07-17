@@ -19,7 +19,7 @@ categories: [Outfits, Starter Outfits]
 | weight | N/A |
 | shirt | Shirt • Pants |
 
-**Stranded** is a Starter [Outfit](Outfit.md) in _Deepwoken._
+**Stranded** is a Starter [Outfit](Outfits.md) in _Deepwoken._
 
 ## Statistics
 

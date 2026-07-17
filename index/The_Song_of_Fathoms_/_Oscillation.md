@@ -10,7 +10,7 @@ categories: [Books]
 
 ## Description
 
-_**The Song of Fathoms / Oscillation**_ is a [Book](../Book.md).
+_**The Song of Fathoms / Oscillation**_ is a [Book](../Books.md).
 
 ## Text
 

@@ -59,4 +59,4 @@ After every dialogue option the player is given the option to interrupt Maedhran
     -   Pardon?
     -   Huh?
     -   I'm sorry, what?
--   He's a more expensive vendor compared to the Den Master, selling [Cloudstones](Cloudstone.md), [Drift Shards](Drift_Shard.md), and [Crystal Lenses](Crystal_Lens.md), for 100 instead of 10.
+-   He's a more expensive vendor compared to the Den Master, selling [Cloudstones](Mantra_Modifiers.md#regular-modifiers), [Drift Shards](Mantra_Modifiers.md#regular-modifiers), and [Crystal Lenses](Mantra_Modifiers.md#regular-modifiers), for 100 instead of 10.

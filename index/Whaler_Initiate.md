@@ -28,7 +28,7 @@ categories: [Pathfinder Exclusive, Outfits, Starter Outfits, The Knives of Eylis
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-**Whaler Initiate** is a Starter [Outfit](Outfit.md) in _Deepwoken_ that is exclusive to the [Voidwalker](Voidwalker.md) Origin.
+**Whaler Initiate** is a Starter [Outfit](Outfits.md) in _Deepwoken_ that is exclusive to the [Voidwalker](Voidwalker.md) Origin.
 
 ## Statistics
 
@@ -40,7 +40,7 @@ This Outfit has no [Attribute](Attributes.md) requirement, but has a [Power](Pow
 
 ### _Armor Stats_
 
-This Outfit has 1500 durability, grants +15% Physical resistance ResistanceBlunt ResistanceSlash, +5% Elemental resistance [ResistanceElemental](Attunement.md), and +25% [Stealth](Stealth.md) [IconStealth](Stealth.md).
+This Outfit has 1500 durability, grants +15% Physical resistance ResistanceBlunt ResistanceSlash, +5% Elemental resistance [ResistanceElemental](Attunements.md), and +25% [Stealth](Stealth.md) [IconStealth](Stealth.md).
 
 ## Trivia
 

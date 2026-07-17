@@ -38,6 +38,6 @@ This Vent can proc all "on Vent" effects in the game, including [Solar](Solar.md
 -   Despite being a "Common" rarity item, it is estimated to have about a 0.1% droprate and still costs Knowledge to unbank.
 -   The damage Brute Strength deals cannot be increased with damage modifiers.
 -   This item's previously used the Warmaster's Medallion model before receiving its own unique model.
--   This ability is used by [Titus](Titus.md).
+-   This ability is used by [Titus](Titus_Fulminus_Destellus.md).
 -   Arguably one of, if not the most valuable obtainable item in the game. It's also one of the rarest and therefore most sought after items.
--   Due to a bug or oversight, Imperator's Fury was obtainable from [Lysander Spellhardt](Lysander_Spellhardt.md)'s 100 Joy for 1 [Relic](Relic.md) trade for a short period of time during 2025's [Hallowtide](Hallowtide.md) event.
+-   Due to a bug or oversight, Imperator's Fury was obtainable from [Lysander Spellhardt](Lysander_Spellhardt.md)'s 100 Joy for 1 [Relic](Relics.md) trade for a short period of time during 2025's [Hallowtide](Hallowtide.md) event.

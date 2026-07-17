@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments, Critical Att
 
 ## Description
 
-Curse of the Unbidden is a debuffing curse [enchantment](Enchantment.md) that drains your opponent's Ether on hit and replaces your weapon critical with a counter.
+Curse of the Unbidden is a debuffing curse [enchantment](Enchantments.md) that drains your opponent's Ether on hit and replaces your weapon critical with a counter.
 
 ## Effect
 
@@ -36,5 +36,5 @@ Unbidden's critical does not deal damage and costs Ether.
 
 -   Curse of the Unbidden is buggy in PvE, as humanoid mob attacks can be countered, while non-humanoid ones can't be.
 -   Because Unbidden's critical does not have hitregistry, it cannot proc any "on critical" effects.
-    -   You can use [Warp Kick](Warp_Kick.md) or the [Mantle of Enmity](Mantle_of_Enmity.md) to proc these effects instead.
+    -   You can use [Warp Kick](Oath%253A_Blightsurger.md#warp-kick) or the [Mantle of Enmity](Mantle_of_Enmity.md) to proc these effects instead.
 -   The [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>) Talent, _Sovereign Counter_ increases the amount of posture restored on successful counter by 10%. From 30% of your maximum posture to 40%.

@@ -1,11 +1,11 @@
 ---
 title: Attribute Trees
-revid: 211513
+revid: 220377
 source: https://deepwoken.fandom.com/wiki/Attribute_Trees
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages]
+categories: [OutdatedPages]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
+  - This page may contain incorrect information. Please wait for an updated version to release.
 ---
 
 # Attribute Trees
@@ -28,23 +28,23 @@ Each Tab is designed to show Talents that involve the searched Attribute from Le
 
 -   Oath / Memento
     
-    -   Talents obtained through taking an [Oath](Oath.md) or exclusive Talents obtained from [Mementos](Mementos.md). They relate to the Oath taken and don't take up Talent slots.
+    -   Talents obtained through taking an [Oath](Oaths.md) or exclusive Talents obtained from [Mementos](Mementos.md). They relate to the Oath taken and don't take up Talent slots.
     
 
 -   Race
-    -   Talents obtained from your [Aspect](Aspect.md). These Talents do not take up Talent slots.
+    -   Talents obtained from your [Aspect](Aspects.md). These Talents do not take up Talent slots.
 
 -   Mantra Level / Mastery
     -   Talents obtained from meeting certain Attunement investment milestones and [Unbounding Attributes](Attributes_Unbound.md) respectively. These Talents do not take up Talent slots, and are granted instantly upon meeting their prerequisites.
 
 -   Origin / Quest
-    -   Talents obtained from your [Origin](Origin.md) or through completing Quests. These Talents do not take up Talent slots.
+    -   Talents obtained from your [Origin](Origins.md) or through completing Quests. These Talents do not take up Talent slots.
 
 -   Faction
     -   Talents obtained from a specific faction. These Talents may be given as a reward from having high reputation or completing a specific milestone or task for a [faction](Reputation.md).
 
 -   Mantra
-    -   Grants a Mantra. These cards come in their own separate [Whisper Rolls](Whisper_Rolls.md). See [Mantras](Mantras.md).
+    -   Grants a Mantra. These cards come in their own separate [Whisper Rolls](Whisper_Draw.md). See [Mantras](Mantras.md).
 
 -   Mystery
     -   Grants a random Mantra, Roll 2, or Fold depending on the card type.
@@ -180,7 +180,7 @@ Colossus
 Colossus  
 4-CO2-1 | 25STR  
 40HVY  
-Greatsword | \[Greatsword\] Enemies recover an addition 50% less when parrying. (+1 Posture, +2 Carry Load) |
+[Greatsword](Greatswords.md) | \[Greatsword\] Enemies recover an addition 50% less when parrying. (+1 Posture, +2 Carry Load) |
 |  | Unstoppable Force  
 Colossus  
 4-CO2-3 | 25STR  
@@ -196,7 +196,7 @@ Greathammer | \[Greathammer\] You take 15% less posture damage when parried. (+1
 Duelist  
 4-DU1-6 | 30STR  
 30MED  
-[Authority Helm](Authority_Helm.md), [Bulwark Helm](Bulwark_Helm.md)  
+[Authority Helm](Authority_Helm.md), [Bulwark Helm](Grand_Authority_Sallet.md)  
 Medium Weapon | When above half health and two-handing, posture damage taken is reduced by 20%. (+9 Carry Load, +1 Passive Agility) |
 
 ## Attunement Hybrids 2.1.9
@@ -209,7 +209,7 @@ Medium Weapon | When above half health and two-handing, posture damage taken is 
 Duelist Flame  
 4-DU2-1 | 25STR  
 30FIR  
-[Flame Blind](Flame_Blind.md)(☆☆☆) | Your blinding light now concusses foes. (+10 Carry Load) |
+[Flame Blind](Flamecharm.md#flame-blind)(☆☆☆) | Your blinding light now concusses foes. (+10 Carry Load) |
 
 ### Galebreathe Hybrids 2.1.11
 
@@ -330,7 +330,7 @@ Bastion
 |  | Grand Support  
 Comrade  
 4-CO3-2 | 40FTD  
-[Reinforce](Reinforce.md)(☆☆☆) | Everyone you buff with Reinforce is healed lightly. You're healed slightly if you heal others. |
+[Reinforce](Attunement-less.md#reinforce)(☆☆☆) | Everyone you buff with Reinforce is healed lightly. You're healed slightly if you heal others. |
 |  | Exoskeleton  
 Freak of Nature  
 4-FR1-1 | 40FTD | You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+5 Health) |
@@ -426,12 +426,12 @@ Flame Warden
 |  | Blighted Song  
 Darksiphon  
 4-DA1-1 | 10FTD  
-[Shadow Chains](Shadow_Chains.md)(★☆☆) | Attaching your Shadow Chains to enemies disables yours and the enemy's ability to cast mantras. You take reduced damage from enemies while this is applied. |
+[Shadow Chains](Shadowcast.md#shadow-chains)(★☆☆) | Attaching your Shadow Chains to enemies disables yours and the enemy's ability to cast mantras. You take reduced damage from enemies while this is applied. |
 |  | Lord's Tithe  
 Comrade  
 4-CO3-1 | 40FTD  
 40SDW  
-[Reinforce](Reinforce.md)(☆☆☆)) | Allies and enemies you Reinforce are drained of their Ether until you are fully charged. |
+[Reinforce](Attunement-less.md#reinforce)(☆☆☆)) | Allies and enemies you Reinforce are drained of their Ether until you are fully charged. |
 
 ## Oaths 2.2.9
 
@@ -669,7 +669,7 @@ Flame Warden
 Frost Forger  
 4-FR2-1 | 20AGL  
 20ICE  
-[Ice Blade](Ice_Blade.md)(★☆☆) | Cast while slide-jumping to perform a running attack with your ice sabers. |
+[Ice Blade](Frostdraw.md#ice-blade)(★☆☆) | Cast while slide-jumping to perform a running attack with your ice sabers. |
 |  | Glacial Coasting  
 Frostthorn  
 4-FR4-2 | 25AGL  
@@ -1037,11 +1037,11 @@ Charm Caster
 |  | Cornered Fool  
 Empath  
 4-EM1-1 | 85CHA  
-[Taunt](Taunt.md)(☆☆☆) | Blockbreaking a Charmed opponent procs Taunt for 5s, making them take and deal more damage. 15s CD. |
+[Taunt](Attunement-less.md#taunt)(☆☆☆) | Blockbreaking a Charmed opponent procs Taunt for 5s, making them take and deal more damage. 15s CD. |
 |  | Off Your Game  
 Empath  
 4-EM1-3 | 90CHA  
-[Taunt](Taunt.md)(☆☆☆) | You now slow Taunted enemies when you hit them. |
+[Taunt](Attunement-less.md#taunt)(☆☆☆) | You now slow Taunted enemies when you hit them. |
 
 **Weapon (WEP):**
 
@@ -1058,21 +1058,21 @@ Empath
 |  | Bruiser  
 Bruiser  
 4-BR2-1 | 30HVY  
-Greataxe | \[Greataxes\] Basic attacks will slightly slow your enemy for 2 seconds. Running attacks will slow your enemy for 3 seconds. Gain +20% posture damage against enemies with speed boosts. |
+[Greataxe](Greataxes.md) | \[Greataxes\] Basic attacks will slightly slow your enemy for 2 seconds. Running attacks will slow your enemy for 3 seconds. Gain +20% posture damage against enemies with speed boosts. |
 |  | Brazen Blow  
 Bruiser  
 4-BR2-2 | 30HVY  
 [Impairing Blow](#426hvy)  
-Greataxe | Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor. (20 second cooldown) |
+[Greataxe](Greataxes.md) | Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor. (20 second cooldown) |
 |  | Heavy Fatigue  
 Bruiser  
 4-BR2-3 | 40HVY  
 [Impairing Blow](#426hvy)  
-Greataxe | \[Greataxes\] Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll. |
+[Greataxe](Greataxes.md) | \[Greataxes\] Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll. |
 |  | Rending Impact  
 Bruiser  
 4-BR2-4 | 40HVY  
-Greataxe | \[Greataxes\] Block breaking an enemy applies knockdown. |
+[Greataxe](Greataxes.md) | \[Greataxes\] Block breaking an enemy applies knockdown. |
 
 ## Body and Mind Hybrids 3.1.1
 
@@ -1092,7 +1092,7 @@ Colossus
 Colossus  
 4-CO2-1 | 40HVY  
 25STR  
-Greatsword | \[Greatsword\] Enemies recover an addition 50% less when parrying. (+1 Posture, +2 Carry Load) |
+[Greatsword](Greatswords.md) | \[Greatsword\] Enemies recover an addition 50% less when parrying. (+1 Posture, +2 Carry Load) |
 |  | Unstoppable Force  
 Colossus  
 4-CO2-3 | 40HVY  
@@ -1121,7 +1121,7 @@ Aerial Dancer
 Duelist  
 4-DU1-6 | 30MED  
 30STR  
-[Authority Helm](Authority_Helm.md), [Bulwark Helm](Bulwark_Helm.md)  
+[Authority Helm](Authority_Helm.md), [Bulwark Helm](Grand_Authority_Sallet.md)  
 Medium Weapon | When above half health and two-handing, posture damage taken is reduced by 20%. (+9 Carry Load, +1 Passive Agility) |
 
 ## Oaths 3.2.2
@@ -1229,7 +1229,7 @@ Dagger | \[Dagger\] Instantly execute enemies finished with the critical attack 
 |  | Flamecharmer  
 Flamecharmer  
 4-FL3-1 | 1FIR  
-[Trainer](Amashi.md) | Grants you the ability to command Fire as a Flamecharmer. |
+[Trainer](Amashi,_Master_of_Flame.md) | Grants you the ability to command Fire as a Flamecharmer. |
 |  | Adept Flamecharmer  
 Flamecharmer  
 4-FL3-2 | 20FIR | You can now obtain 1-Star Leveled Flamecharmer Mantras. |
@@ -1253,7 +1253,7 @@ Power 8 | Fire mantras now move you in the direction you're facing. |
 |  | Hell's Partisan  
 Flame Warden  
 4-FL2-4 | 35FIR  
-[Fire Forge](Fire_Forge.md)(★☆☆)/[Warding Radiance](#4-fl2-2fir) | After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity) |
+[Fire Forge](Flamecharm.md#fire-forge)(★☆☆)/[Warding Radiance](#4-fl2-2fir) | After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity) |
 |  | Unyielding Inferno  
 4-FL3-7 | 35FIR | Your flames burn just as strong even in the fiercest of storms. |
 |  | Phoenix Impact  
@@ -1282,7 +1282,7 @@ Power 13
 Duelist Flame  
 4-DU2-1 | 30FIR  
 25STR  
-[Flame Blind](Flame_Blind.md)(☆☆☆) | Your blinding light now concusses foes. (+10 Carry Load) |
+[Flame Blind](Flamecharm.md#flame-blind)(☆☆☆) | Your blinding light now concusses foes. (+10 Carry Load) |
 
 ### Fortitude Hybrids 4.1.3
 
@@ -1396,7 +1396,7 @@ Arcwarder
 |  | Frostdrawer  
 Frostdrawer  
 4-FR3-1 | 1ICE  
-[Trainer](Nell.md) | Grants you the ability to command Ice as a Frostdrawer. |
+[Trainer](Nell,_Master_of_Frost.md) | Grants you the ability to command Ice as a Frostdrawer. |
 |  | Adept Frostdrawer  
 Frostdrawer  
 4-FR3-2 | 20ICE | You can now obtain 1-Star Leveled Frostdrawer Mantras. |
@@ -1410,7 +1410,7 @@ Cryomancer
 |  | Spike Traps  
 Cryomancer  
 4-CR2-2 | 30ICE  
-[Ice Spikes](Ice_Spikes.md)(☆☆☆) | Press F during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot. |
+[Ice Spikes](Frostdraw.md#ice-spikes)(☆☆☆) | Press F during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot. |
 |  | Cool Head  
 Cryomancer  
 4-CR2-4 | 30ICE | If set on fire while on ice, immediately put it out and gain the Cool Head status for 30s. During Cool Head, you cannot be lit on fire. 15s cooldown |
@@ -1431,7 +1431,7 @@ Cryomancer
 |  | Preceding Chill  
 Cryomancer  
 4-CR2-6 | 60ICE  
-[Ice Beam](Ice_Beam.md)(☆☆☆) | Enemies hit during the last moments of your ice beam are frozen. |
+[Ice Beam](Frostdraw.md#ice-beam)(☆☆☆) | Enemies hit during the last moments of your ice beam are frozen. |
 |  | Frozen Legs  
 Frozen Warrior  
 4-FR6-1 | 60ICE | Your slow effect prevents your opponents from rolling. |
@@ -1449,7 +1449,7 @@ Frostthorn
 Frost Forger  
 4-FR2-1 | 20ICE  
 20AGL  
-[Ice Blade](Ice_Blade.md)(★☆☆) | Cast while slide-jumping to perform a running attack with your ice sabers. |
+[Ice Blade](Frostdraw.md#ice-blade)(★☆☆) | Cast while slide-jumping to perform a running attack with your ice sabers. |
 |  | Glacial Coasting  
 Frostthorn  
 4-FR4-2 | 50ICE  
@@ -1659,11 +1659,11 @@ Blightsurger
 |  | Aeronade  
 Aeromancer  
 4-AE2-2 | 20WND  
-[Galetrap](Galetrap.md)(★☆☆) | Your Galetrap automatically detonates on contact with an object. (+2 Passive Agility, +5 ) |
+[Galetrap](Galebreathe.md#galetrap)(★☆☆) | Your Galetrap automatically detonates on contact with an object. (+2 Passive Agility, +5 ) |
 |  | Vacuum Punch  
 Aeromancer  
 4-AE2-6 | 20WND  
-[Gale Punch](Gale_Punch.md)(★☆☆) | Your Gale Punch pulls enemies in before you hit them. |
+[Gale Punch](Galebreathe.md#gale-punch)(★☆☆) | Your Gale Punch pulls enemies in before you hit them. |
 |  | Gale Trap  
 Aeromancer  
 4-AE2-3 | 50WND  
@@ -1769,7 +1769,7 @@ Blightsurger
 | --- | --- | --- | --- |
 |  | Overwhelming Drain  
 Darksiphon  
-4-DA1-8 | [Shadow Eruption](Shadow_Eruption.md)(★☆☆) | If multiple enemies are hit by your Shadow Eruption, they are dazed. |
+4-DA1-8 | [Shadow Eruption](Shadowcast.md#shadow-eruption)(★☆☆) | If multiple enemies are hit by your Shadow Eruption, they are dazed. |
 |  | Dark God  
 Darkspihon  
 4-DA1-2 | 20SDW | If a Shadowcast mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo. |
@@ -1812,12 +1812,12 @@ Evil Endeavors
 |  | Blighted Song  
 Darksiphon  
 4-DA1-1 | 10FTD  
-[Shadow Chains](Shadow_Chains.md)(★☆☆) | Attaching your Shadow Chains to enemies disables yours and the enemy's ability to cast mantras. You take reduced damage from enemies while this is applied. |
+[Shadow Chains](Shadowcast.md#shadow-chains)(★☆☆) | Attaching your Shadow Chains to enemies disables yours and the enemy's ability to cast mantras. You take reduced damage from enemies while this is applied. |
 |  | Lord's Tithe  
 Comrade  
 4-CO3-1 | 40SDW  
 40FTD  
-[Reinforce](Reinforce.md)(☆☆☆)) | Allies and enemies you Reinforce are drained of their Ether until you are fully charged. |
+[Reinforce](Attunement-less.md#reinforce)(☆☆☆)) | Allies and enemies you Reinforce are drained of their Ether until you are fully charged. |
 
 ### Intelligence Hybrids 4.5.3
 
@@ -1916,7 +1916,7 @@ Bloodsong
 |  | Bloodrender  
 Bloodrender  
 4-BL5-1 | 1BLD  
-[Trainer](Vyrelda.md) | Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras replenish your blood, steal blood and apply 'Blood Poisoning'. |
+[Trainer](Vyrelda,_Master_of_Blood.md) | Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras replenish your blood, steal blood and apply 'Blood Poisoning'. |
 |  | First Blood  
 Bloodrender  
 4-BL5-6 | 10BLD | Your first blood mantra you use in combat has no blood cost. |

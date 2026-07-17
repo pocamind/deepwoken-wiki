@@ -46,13 +46,13 @@ The Crescent Cleaver is a mid-game Heavy Weapon. The Crescent Cleaver is [Alloya
 
 Equipping the Crescent Cleaver grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Spinal Shatter** procs when landing the Crescent Cleaver critical, applying the [Shattered Spine](Status_Effects.md#shattered-spine) status effect for 8 seconds, which removes their ability to sprint. This has a 10 second cooldown. Does not work on [Motif](Motif.md)\-gained critical attacks.
+**Spinal Shatter** procs when landing the Crescent Cleaver critical, applying the [Shattered Spine](Status_Effects.md#shattered-spine) status effect for 8 seconds, which removes their ability to sprint. This has a 10 second cooldown. Does not work on [Motif](Motifs.md)\-gained critical attacks.
 
 ## Critical
 
 After a short windup, the user lunges forward, impaling the target and then slamming them onto the ground. All 3 hits of this critical are parriable (even after being hit by the grab), while the first is also blockable and dodgable. This critical is shared with the [Kyrscleave](Kyrscleave.md) and [The Long Tong of The Law](The_Long_Tong_of_The_Law.md).
 
-This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

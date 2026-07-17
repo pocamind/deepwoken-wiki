@@ -34,4 +34,4 @@ This content is not accessible outside of this gamemode.
 
 **Flare Drop Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category.
 
-The [Flaredrop](Talents.md#flaredrop) Talent applies [Burn](Burn.md) to your opponent when you land any Mantra. This has a 5 second cooldown.
+The [Flaredrop](Talents.md#flaredrop) Talent applies [Burn](Status_Effects.md#burn) to your opponent when you land any Mantra. This has a 5 second cooldown.

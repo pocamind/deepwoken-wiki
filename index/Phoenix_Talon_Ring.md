@@ -29,4 +29,4 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Phoenix Talon Ring** is a [Relic](Relic.md) Ring [Equipment](Equipment.md) that gives the user 15 [Temporary Health](Temporary_Health.md) if they land an Aerial Attack on an enemy who is currently attacking.
+**Phoenix Talon Ring** is a [Relic](Relics.md) Ring [Equipment](Equipment.md) that gives the user 15 [Temporary Health](Status_Effects.md#temporary-health) if they land an Aerial Attack on an enemy who is currently attacking.

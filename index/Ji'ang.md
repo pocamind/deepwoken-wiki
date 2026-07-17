@@ -16,7 +16,7 @@ categories: [Etrea, Heads of government and state, Deceased characters]
 
 ## Description
 
-Lord Guardian Ji'ang was the final legitimate [Lord Guardian](Lord_Guardian.md) of [Etrea](Etrea.md) before the rise of [Zi'eer](<Zi'eer.md>).
+Lord Guardian Ji'ang was the final legitimate [Lord Guardian](Lord_Guardian.md) of [Etrea](Etrea.md) before the rise of [Zi'eer](The_Lord_Regent.md).
 
 Ji'ang's reign was largely a peaceful period, preceding the outbreak of the [Etrean Civil War](Etrean_Civil_War.md).[\[1\]](#cite-note-1)
 

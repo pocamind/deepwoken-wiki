@@ -23,7 +23,7 @@ This content is not accessible outside of this gamemode.
 
 Rudral is a [Capra](Capra.md) NPC. They are the [Blacksmith](Blacksmith.md) for [Miner's Landing](<Miner's_Landing.md>).
 
-Rudral is familiar with [Adar](Adar.md) and will act as a guide in helping [The Pathfinder](The_Pathfinder.md) obtain [Ironsing](Ironsing.md).
+Rudral is familiar with [Adar](Adar,_Master_of_Metal.md) and will act as a guide in helping [The Pathfinder](The_Pathfinder.md) obtain [Ironsing](Ironsing.md).
 
 ## Location
 

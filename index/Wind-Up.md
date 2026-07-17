@@ -49,7 +49,7 @@ When obtained, Wind-Up will spend its points on the following stats:
 
 -   Similar to Phink's "Ripper Cyclotron" from _Hunter X Hunter_.
 -   Corrupted Wind-Up can have a one-charge shot, though it is questionable to use as the damage is quite bad.
--   You cannot charge while you are in [Tacet](Tacet.md).
+-   You cannot charge while you are in [Tacet](Murmur%253A_Tacet.md).
 -   Be very careful when near a cliff, as this has massive knockback, surpassing even Strong Left.
 -   Especially devastating on heavy weapons.
 -   When Corrupted, this Resonance is one of the best executors there are in the game. It only takes around one second to execute a downed player and it will out-speed [Preservation](Preservation.md) or [Blood Scourge](Blood_Scourge.md) Resonances.

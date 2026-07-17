@@ -24,7 +24,7 @@ categories: [Equipment, Face, Piercings]
 | obtainment | Sold by Traan Zakshun for 35 Chests from:, Mudskipper Attack, The Ferryman (Winter), Aelita |
 | description | FEAR. IRONSINGERS. |
 
-_This page is about the [Face Equipment](Face_Equipment.md). For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._
+_This page is about the [Face Equipment](Equipment.md#face). For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._
 
 ## Description
 

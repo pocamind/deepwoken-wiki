@@ -18,7 +18,7 @@ notices:
 
 ## Description
 
-"???" was a [Felinor](Felinor.md) NPC. They were sitting in [New Kyrsa, The Sleeping City](New_Kyrsa,_The_Sleeping_City.md).
+"???" was a [Felinor](Felinor.md) NPC. They were sitting in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
 
 When talked to, they would snap their own neck.
 

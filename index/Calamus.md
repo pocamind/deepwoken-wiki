@@ -21,7 +21,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Calamus is a member of [The Hive](The_Hive.md). They are a guardian of [Greathive Aratel](Greathive_Aratel.md), sworn to protect the [Lordsgrove](The_Lordsgrove.md) and [The Valley](Starswept_Valley.md).
+Calamus is a member of [The Hive](The_Hive.md). They are a guardian of [Greathive Aratel](Greathive_Aratel.md), sworn to protect the [Lordsgrove](The_Lordsgrove.md) and [The Valley](The_Starswept_Valley.md).
 
 ## Location
 

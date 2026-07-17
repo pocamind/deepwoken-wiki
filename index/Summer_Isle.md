@@ -47,7 +47,7 @@ Notes:
 
 On the second floor of the Summer Company's castle, the [Thundercall](Thundercall.md) trainer [Funke](Funke,_Master_of_Thunder.md) can be found.
 
--   To unlock Thundercall, the player must bring 5 [Spark Glands](Spark_Gland.md) (2 if previously obtained) to the trainer to be crushed into a vial, obtaining a [Sparkblood](Sparkblood.md) potion.
+-   To unlock Thundercall, the player must bring 5 [Spark Glands](Spark_Gland.md) (2 if previously obtained) to the trainer to be crushed into a vial, obtaining a [Sparkblood](Attunement_Potions.md) potion.
 -   You can upgrade your Thundercall mantras for 100 notes each, the price increasing by 100 notes with each upgrade on the specific mantra.
 -   Funke wields the [Stormseye](Stormseye.md) when encountered in the [Silentheart](Oath%253A_Silentheart.md) progression.
 -   Summer Isle's [cauldron](Cauldron.md) is located in the same room as Funke.
@@ -172,12 +172,12 @@ Events that spawn in Summer Isle. For more info, see [Random Encounters](Random_
 -   Ignition Union Footsoldiers fighting with Summer Company Thugs.
 -   Upon killing two of either faction, a small chest will be rewarded and positive reputation respectively.
 
-#### Ministry Massacre [Ministryiconfaction](Ministry.md)
+#### Ministry Massacre [Ministryiconfaction](The_Ministry.md)
 
 -   A [Ministry Scout](Ministry_Scout.md) sitting at a campfire with several Bandit corpses around them.
 -   You will be rewarded with a decent amount of XP and a chest upon killing the Ministry Scout.
 
-#### Nomads [Navaeiconfaction](Children_of_Navae.md) V.S. The Ministry [Ministryiconfaction](Ministry.md)
+#### Nomads [Navaeiconfaction](The_Children_of_Navae.md) V.S. The Ministry [Ministryiconfaction](The_Ministry.md)
 
 -   One [Eastern Nomad Leader](Eastern_Nomad_Leader.md) and one [Eastern Nomad](Eastern_Nomad.md) fighting off two [Ministry Scouts](Ministry_Scout.md).
 -   Upon killing two of either faction, a small chest will be rewarded and positive reputation respectively.
@@ -204,7 +204,7 @@ Items and equipment that can be directly bought with currency.
 #### Weapons
 
 -   [Flintlock](Flintlock.md)
--   [Revolver](Revolver.md)
+-   [Revolver](Repeater.md)
 -   [Dragoon](Dragoon.md)
 -   [Silver Dagger](Silver_Dagger.md)
 
@@ -219,8 +219,8 @@ Items and equipment that can be obtained from loot chests.
 ## Trivia
 
 -   The Summer Isle Cannon can be clipped into, which once allowed for it to be picked up, prior to it being patched.[\[1\]](#cite-note-1)
--   The music for this area is [Of Smoke And Steel](Of_Smoke_And_Steel.md) by Naktigonis
--   The combat music for this area is [One For All, All For Gun](One_For_All,_All_For_Gun.md) by Naktigonis
+-   The music for this area is [Of Smoke And Steel](Deepwoken_OST.md#of-smoke-and-steel) by Naktigonis
+-   The combat music for this area is [One For All, All For Gun](Deepwoken_OST.md#one-for-all-all-for-gun) by Naktigonis
 -   The only place to directly purchase guns in the Eastern Luminant.
 -   [The Meat Lord](The_Meat_Lord.md) has a chance to spawn here.
 -   When a player with bad reputation comes near Summer Isle, the Summer Isle Cannon will activate, giving a warning sound. Then, firing a large cannonball at the player after 3–5 seconds.

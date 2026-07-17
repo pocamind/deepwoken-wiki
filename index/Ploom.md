@@ -20,7 +20,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Ploom is a [Ganymede](Ganymede.md) NPC. They are able to grant the [Talent](Talent.md) [Pleeksty's Will](Talents.md#pleekstys-will) if the player has either fifty (50) [Charisma](Charisma.md), forty (40) [Flamecharm](Flamecharm.md), or three (3) [Dying Embers](Dying_Embers.md).
+Ploom is a [Ganymede](Ganymede.md) NPC. They are able to grant the [Talent](Talents.md) [Pleeksty's Will](Talents.md#pleekstys-will) if the player has either fifty (50) [Charisma](Attributes.md#cha), forty (40) [Flamecharm](Flamecharm.md), or three (3) [Dying Embers](Dying_Embers.md).
 
 They wear the [Flame Worshipper Armor](Flame_Worshipper_Armor.md).
 

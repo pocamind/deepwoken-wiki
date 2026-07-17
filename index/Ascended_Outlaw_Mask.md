@@ -38,7 +38,7 @@ The [Destructive Yell](Talents.md#destructive-yell) Talent breaks campfires arou
 
 ## Obtainment
 
-After defeating [Titus](Titus.md), a crafting bench[CraftingEmpty](Merit_Detainment_Core.md) within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
+After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench[CraftingEmpty](Merit_Detainment_Core.md) within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
 
 1.  1 [Western Outlaw Mask](Western_Outlaw_Mask.md) + 1 [Ardour Manifestation](Ardour_Manifestation.md) + 5 [Might Gems](Might_Gem.md).
 

@@ -33,7 +33,7 @@ Amashi is located inside the [Songseeker Temple](Songseeker_Temple.md) at [Songs
 
 ## Moveset
 
-Amashi's arsenal consists of a [Hero Blade of Flame](Hero_Blade_of_Flame.md) along with the [Flamecharm](Flamecharm.md) attunement:
+Amashi's arsenal consists of a [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>) along with the [Flamecharm](Flamecharm.md) attunement:
 
 | Name/Danger | Description |
 | --- | --- |
@@ -213,4 +213,4 @@ Amashi executes their opponent after knocking them:
 
 ## Tips
 
--   When fighting them, you may either choose to parry trade and fight normally, or do a strategy, similar to [Duke Erisia](Duke_Erisia.md), where you pin them against the wall and spam your critical.
+-   When fighting them, you may either choose to parry trade and fight normally, or do a strategy, similar to [Duke Erisia](Duke_Ishamon_Erisia.md), where you pin them against the wall and spam your critical.

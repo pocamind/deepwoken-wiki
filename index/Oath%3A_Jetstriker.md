@@ -21,7 +21,7 @@ _For the version that existed prior to March 29, 2024, see [here](Oath%253A_Jets
 
 ## Description
 
-**[Oath](Oath.md): Jetstriker** is one of the 17 obtainable Oaths in _Deepwoken_. It is highly praised (and detested) for its fluentness in agility. Allowing users to quickly escape nearly any dangerous situation with correct usage of its tools. This Oath also greatly takes advantage of the momentum mechanic, with Jetstriker's Talents being the only existing method to quickly gain momentum in a combat scenario.
+**[Oath](Oaths.md): Jetstriker** is one of the 17 obtainable Oaths in _Deepwoken_. It is highly praised (and detested) for its fluentness in agility. Allowing users to quickly escape nearly any dangerous situation with correct usage of its tools. This Oath also greatly takes advantage of the momentum mechanic, with Jetstriker's Talents being the only existing method to quickly gain momentum in a combat scenario.
 
 “ I can begrudgingly congratulate you! No more easy race wins for me, I suppose! ”
 
@@ -38,11 +38,11 @@ The Oath's powers are attained by vowing to literally flow alongside the Song it
     -   Wait below the yellow marker, being away from the yellow marker when [Alirian](Alirian.md) arrives will count as you losing.
     -   Talk to [Alirian](Alirian.md) and complete the remaining dialogue. ([Dialogue linked here](Alirian.md#dialogue))
 
-_Jetstriker **can** be reobtained if you [Oathbreak](Oathbreak.md) it._
+_Jetstriker **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it._
 
 ## Progression Guide
 
-[Alirian](Alirian.md) will ask of you to find 5 white glowing orbs scattered in the [Etrean Luminant](Etrean_Luminant.md). Each orb will identically grant you one Talent worth of progression (In order of Oath progression). You have to return to [Alirian](Alirian.md) to submit the orbs and obtain the talents. "I feel the winds rush through my body..."
+[Alirian](Alirian.md) will ask of you to find 5 white glowing orbs scattered in the [Etrean Luminant](Luminants.md). Each orb will identically grant you one Talent worth of progression (In order of Oath progression). You have to return to [Alirian](Alirian.md) to submit the orbs and obtain the talents. "I feel the winds rush through my body..."
 
 **NOTE**: You may have to utilize the map (M) to track these locations, but you may have to find/rebind it in "Controls".
 
@@ -67,7 +67,7 @@ The location of these orbs are:
         -   Enter through [Lower Erisia](Lower_Erisia.md)'s main entrance, with the large north facing gate. ([Image on this page](Lower_Erisia.md))
         -   Head deeper into the island, follow the main path with stairs. (You will not go through any caves throughout this guide)
         -   Follow the rock path and go up the slope made of rock.
-        -   After the slope, to the left, there will be large [Bamboo](Bamboo.md) trees marking a upwards rocky staircase, climb the rocky staircase.
+        -   After the slope, to the left, there will be large [Bamboo](Bamboo_Bundle.md) trees marking a upwards rocky staircase, climb the rocky staircase.
         -   Take a hard right and follow straight south until you find a zipline (Ignore the zipline) a and cave on the other side.
         -   The cave's entrance will have parkour above it, climb up _until the very **very** top_.
         -   Follow the southward path with the bridge.

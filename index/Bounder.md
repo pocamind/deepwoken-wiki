@@ -23,7 +23,7 @@ Variants: [Gallery](Bounder/Gallery.md)
 
 ## Description
 
-Bounders are monsters that dwell within the [Second Layer](Second_Layer.md) of [The Depths](The_Depths.md) and can spawn [Corrupted](Corrupted_Monsters.md) within [The Diluvian Mechanism](The_Diluvian_Mechanism.md). They are infamous for their lethality, with an equally horrific appearance.
+Bounders are monsters that dwell within the [Second Layer](Second_Layer.md) of [The Depths](The_Depths.md) and can spawn [Corrupted](Monsters.md#scyphozia) within [The Diluvian Mechanism](The_Diluvian_Mechanism.md). They are infamous for their lethality, with an equally horrific appearance.
 
 Bounders have significantly hunched posture, elongated limbs, six ringed eyes, disturbingly humanoid hands and notably, an upsettingly wide mouth with two sets of gigantic teeth. Bounders aren't naturally bipedal, instead moving around in a quadrupedal manner.
 
@@ -100,10 +100,10 @@ Dodge
 
 -   They're considered the spiritual successor to [Jack](Jack.md), the second Monster ever created for Deepwoken.
 -   Despite its resemblance to the Megalodaunt, its anatomy more-so resembles a frog, evident by their posture and ability to leap long distance, and the way they attack prey.
--   Like every other monster in the Second Layer, [Mute](Regalias.md#mute) has no effect on Bounders.
+-   Like every other monster in the Second Layer, [Mute](Regalia.md#mute) has no effect on Bounders.
 -   Curiously, Bounders are social creatures, as shown by their ability to create nests and live as a pack. Beyond this, there isn't much evidence that can support both the extent of their social behavior, or even how they are capable of reproducing.
 -   Bounders are often considered by the community as one of the most dangerous monsters in the Second Layer, if not the entire game due to their insane damage
 -   It was said by Arch\_Mage that there was supposed to be a type of Bounder that was infected with Parasites. However, this concept never made it into the game.
 -   Their cry is a heavily distorted wolf howl.
--   Their item drop, the Bounder Claw, can be taken out of the Second Layer without having to defeat [Chaser](Chaser,_Scholar_of_the_Burning_Blood.md) (either by using the Light Hook or Ignition Deepdriller).
+-   Their item drop, the Bounder Claw, can be taken out of the Second Layer without having to defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) (either by using the Light Hook or Ignition Deepdriller).
 -   On 12/27/24, it was discovered that the icon for the Bounder when it killed someone was the texture of its inner cheek/gums, which resembled an inappropriate image. It was deemed _The Boundingaling Incident_.

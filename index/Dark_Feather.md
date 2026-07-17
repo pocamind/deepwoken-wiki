@@ -50,9 +50,9 @@ The Dark Feather is used in these recipes:
 -   [Authority Commander](Authority_Commander.md)
 -   [Celtorian Tideknight](Celtorian_Tideknight.md)
 -   [Darksteel Plate](Darksteel_Plate.md)
--   [Grandmaster Pathfinder Cloak](Grandmaster_Pathfinder_Cloak.md)
+-   [Grandmaster Pathfinder Cloak](Grand_Pathfinder_Cloak.md)
 -   [Hive Tactician Armor](Hive_Tactician_Armor.md)
--   [Justicar](Justicar.md)
+-   [Justicar](<Justicar_(Origin).md>)
 -   [Legion Centurion](Legion_Centurion.md)
 -   [Prophet's Cloak](<Prophet's_Cloak.md>)
 -   Void Feathers, with 1 [Umbral Obsidian](Umbral_Obsidian.md) and 3 Dark Feathers

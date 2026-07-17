@@ -1,5 +1,5 @@
 // crawl every content page of the Deepwoken wiki into index/.
-// usage: node .utils/scrape.mjs [--limit N] [--page "Title"] [--concurrency N] [--force] [--retranslate]
+// usage: node .utils/scrape.mjs [--limit N] [--page "Title"] [--concurrency N] [--force] [--retranslate] [--redirects]
 //
 // Enumerates ns 0 non-redirect pages via generator=allpages (~6 requests), then
 // fetches each page serially through action=parse at ~1 req/sec with jitter.
@@ -15,6 +15,9 @@ const UA = "deepwoken-wiki-archive/1.0 (https://github.com/pocamind/deepwoken-wi
 const UTILS = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(UTILS, "..", "index");
 const STATE_FILE = join(UTILS, "state", "pages.json");
+// title -> {to, fragment} for every ns 0 redirect; the translator resolves
+// links through this so no link points at a redirect page we don't mirror
+const REDIRECTS_FILE = join(UTILS, "state", "redirects.json");
 // raw parse JSON per pageid, so translator changes can re-run without re-fetching
 const CACHE = join(UTILS, "cache");
 const MAX_RETRIES = 5;
@@ -66,6 +69,45 @@ async function enumeratePages() {
     return pages;
 }
 
+// enumerate redirect page titles, then resolve them in batches of 50 (the
+// anonymous titles= cap) with redirects=1, which returns from -> to (+ fragment).
+// returns whether the map changed.
+async function fetchRedirects() {
+    const titles = [];
+    let cont = {};
+    while (cont) {
+        const json = await api({
+            action: "query",
+            generator: "allpages",
+            gapnamespace: "0",
+            gapfilterredir: "redirects",
+            gaplimit: "500",
+            ...cont,
+        });
+        titles.push(...(json.query?.pages ?? []).map((p) => p.title));
+        cont = json.continue ?? null;
+        await throttle();
+    }
+
+    const map = {};
+    for (let i = 0; i < titles.length; i += 50) {
+        const json = await api({
+            action: "query",
+            titles: titles.slice(i, i + 50).join("|"),
+            redirects: "1",
+        });
+        for (const r of json.query?.redirects ?? []) {
+            map[r.from] = { to: r.to, ...(r.tofragment ? { fragment: r.tofragment } : {}) };
+        }
+        if (i + 50 < titles.length) await throttle();
+    }
+    const text = JSON.stringify(Object.fromEntries(Object.keys(map).sort().map((k) => [k, map[k]])), null, 2) + "\n";
+    const prev = existsSync(REDIRECTS_FILE) ? readFileSync(REDIRECTS_FILE, "utf8") : null;
+    mkdirSync(dirname(REDIRECTS_FILE), { recursive: true });
+    writeFileSync(REDIRECTS_FILE, text);
+    return prev !== text;
+}
+
 async function fetchParse(title) {
     const json = await api({
         action: "parse",
@@ -107,7 +149,13 @@ const concIdx = args.indexOf("--concurrency");
 // capped at 2 in flight: Cloudflare is the only rate gate and a 403 flag stalls everything
 const concurrency = Math.min(concIdx >= 0 ? Number(args[concIdx + 1]) || 1 : 1, 2);
 // --force re-fetches unchanged pages, e.g. to apply a translator change corpus-wide
-const force = args.includes("--force");
+let force = args.includes("--force");
+
+if (args.includes("--redirects")) {
+    const changed = await fetchRedirects();
+    console.log(`redirect map ${changed ? "updated" : "unchanged"}`);
+    process.exit(0);
+}
 
 if (args.includes("--retranslate")) {
     const files = readdirSync(CACHE).filter((f) => f.endsWith(".json"));
@@ -145,6 +193,13 @@ for (const [pageid, entry] of Object.entries(state)) {
     delete state[pageid];
     pruned++;
     console.log(`pruned ${entry.title} (gone from wiki)`);
+}
+
+// a changed redirect map alters links on pages whose revid didn't move, so
+// every page must re-render. the runner has no local cache, hence re-fetch.
+if (await fetchRedirects() && !force) {
+    console.log("redirect map changed — re-rendering all pages");
+    force = true;
 }
 
 let written = 0, skipped = 0, failed = 0, next = 0, aborted = null;

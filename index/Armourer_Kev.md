@@ -22,9 +22,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Armourer Kev is an [Adret](Adret.md) NPC. He is the armorer for [The Central Authority](The_Central_Authority.md)'s garrison in the [Eastern Luminant](Eastern_Luminant.md).
+Armourer Kev is an [Adret](Adret.md) NPC. He is the armorer for [The Central Authority](The_Central_Authority.md)'s garrison in the [Eastern Luminant](Luminants.md).
 
-Kev sells a variety of [Weapons](Weapons.md) related to the faction that are locked behind the [Authority Ensign](Authority_Ensign.md) [Origin](Origin.md).
+Kev sells a variety of [Weapons](Weapons.md) related to the faction that are locked behind the [Authority Ensign](Authority_Ensign.md) [Origin](Origins.md).
 
 ## Location
 

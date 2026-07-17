@@ -40,4 +40,4 @@ Additionally, it grants the Heal buff, affecting 10% of the Stomach bar. The buf
 
 ### Recipe
 
--   3 different [Fruits](Fruit.md), no [Campfire](Campfire.md) required.
+-   3 different [Fruits](Ingredients.md#fruits), no [Campfire](Campfire_Pit.md) required.

@@ -37,7 +37,7 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Cr
 
 ## Description
 
-The Enforcer's Blade is a Greatsword [Heavy Weapon](Weapons.md). Equipping this requires 80 HVY and 25 STR invested into your character. The Enforcer's Blade is rarely obtained through defeating [The Enforcer](The_Enforcer.md), only if it wields the blade.
+The Enforcer's Blade is a Greatsword [Heavy Weapon](Weapons.md). Equipping this requires 80 HVY and 25 STR invested into your character. The Enforcer's Blade is rarely obtained through defeating [The Enforcer](Enforcer.md), only if it wields the blade.
 
 ## Critical
 
@@ -47,7 +47,7 @@ All four hits have a scaled damage multiplier of 0.5x. The first hit of this cri
 
 The critical has a cooldown of **7 seconds.**
 
-This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects. This critical is also shared with [Enforcer's Hammer](<Enforcer's_Hammer.md>), as well as the [Enforcer's Axe](<Enforcer's_Axe.md>).
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects. This critical is also shared with [Enforcer's Hammer](<Enforcer's_Hammer.md>), as well as the [Enforcer's Axe](<Enforcer's_Axe.md>).
 
 ## Trivia
 

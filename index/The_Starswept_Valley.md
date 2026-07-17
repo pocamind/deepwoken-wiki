@@ -14,7 +14,7 @@ Glimmers of starlight mingle with the pungent rot that afflicts these lifeless s
 
   
 
-**The Starswept Valley** is a [location](Locations.md) in _Deepwoken_. It is a sub-location of [Aratel Island](Aratel_Island.md) found in the [Aratel Sea](The_Aratel_Sea.md).
+**The Starswept Valley** is a location in _Deepwoken_. It is a sub-location of [Aratel Island](Aratel_Island.md) found in the [Aratel Sea](The_Aratel_Sea.md).
 
 ## Overview
 
@@ -32,11 +32,11 @@ The Starswept Valley is the middle and northern part of [Aratel Island](Aratel_I
 
 Events that spawn in Starswept Valley that could potentially involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
--   [Vigil Swordsmen](Vigil_Swordsman.md) [Etreaiconfaction](Etrea.md) vs [Hive Scouts](Hive_Scout.md) [Hiveiconfaction](Hive.md)
--   [Legion Captain](Legion_Captain.md) vs [Authority Lieutenant](Authority_Lieutenant.md) [Authorityiconfaction](Central_Authority.md)
--   [Hive Construct](Hive_Construct.md) [Hiveiconfaction](Hive.md) vs [Authority Captain](Authority_Captain.md) [Authorityiconfaction](Central_Authority.md)
+-   [Vigil Swordsmen](Vigil_Swordsman.md) [Etreaiconfaction](Etrea.md) vs [Hive Scouts](Hive_Scout.md) [Hiveiconfaction](The_Hive.md)
+-   [Legion Captain](Legion_Captain.md) vs [Authority Lieutenant](Authority_Lieutenant.md) [Authorityiconfaction](The_Central_Authority.md)
+-   [Hive Construct](Hive_Construct.md) [Hiveiconfaction](The_Hive.md) vs [Authority Captain](Authority_Captain.md) [Authorityiconfaction](The_Central_Authority.md)
 -   [Stone Knight](Stone_Knight.md) vs [Crimson Megalodaunt](Crimson_Megalodaunt.md)/[Alpha Megalodaunt](Alpha_Megalodaunt.md)
--   [King Thresher](King_Thresher.md) vs Hive Scouts [Hiveiconfaction](Hive.md)
+-   [King Thresher](King_Thresher.md) vs Hive Scouts [Hiveiconfaction](The_Hive.md)
 -   [Legion Sniper](Legion_Sniper.md)
 -   [Alpha Megalodaunt](Alpha_Megalodaunt.md)
 
@@ -60,12 +60,12 @@ Below is a list of potential items that can spawn in chests in Starswept Valley.
 
 ## Trivia
 
--   The music for this area is [In Starstruck Sands](In_Starstruck_Sands.md) by Naktigonis.
--   The combat music for this area is [Pyres of Glass](Pyres_of_Glass.md) by Naktigonis.
+-   The music for this area is [In Starstruck Sands](Deepwoken_OST.md#in-starstruck-sands) by Naktigonis.
+-   The combat music for this area is [Pyres of Glass](Deepwoken_OST.md#pyres-of-glass) by Naktigonis.
 -   You can climb over the mountains to [The Lordsgrove](The_Lordsgrove.md), but you won't be able to use the teleporter if you haven't washed your face near the [Lightkeeper Temple](Lightkeeper_Temple.md).
 -   The best place to grind from around level 12 onwards. (You can go to Starswept at around level 9 or 10 if you're familiar with the game's mechanics.)
 -   It is recommended to be familiar with the game's fighting mechanics and have decent gear in order to travel here, as some NPCs and Monsters can easily take on an unexperienced player or even a group of such.
 -   Based on the skeletons and corals that can be seen everywhere, as well as the condition of the Lordsgrove, it can be speculated that this was once an undersea area or a forest full of life, but the nutrients were sucked away by the planting of the [Greathive](Greathive_Aratel.md).
--   Be wary of [Stone Knights](Stone_Knights.md) or [King Threshers](King_Thresher.md) as they can spawn randomly without warning.
+-   Be wary of [Stone Knights](Stone_Knight.md) or [King Threshers](King_Thresher.md) as they can spawn randomly without warning.
 -   Occasionally, you may find a sack that looks similar to a player's [lootbag](Chests_&_Sacks.md). You can carry this sack to [Mercille](Mercille.md) at [The Summer Company](The_Summer_Company.md) outpost in [Meteor Isle](Meteor_Isle.md) for Aratel Island loot.
 -   If, during the Authority Captain vs Hive Mech event, the battle is interrupted by an outside aggressor and said aggressor is then slain, both the [Hive Construct](Hive_Construct.md) and [Authority Captain](Authority_Captain.md) will sometimes stop fighting each other, a bug which has been in the game for a long period of time.

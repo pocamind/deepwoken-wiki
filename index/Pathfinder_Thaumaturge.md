@@ -24,7 +24,7 @@ categories: [Outfits, Adept Outfits, Outfits with Talents, "Outfits with Non-exc
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Pathfinder Thaumaturge** is an Adept [Outfit](Outfit.md) in _Deepwoken._
+**Pathfinder Thaumaturge** is an Adept [Outfit](Outfits.md) in _Deepwoken._
 
 ## Statistics
 
@@ -32,11 +32,11 @@ categories: [Outfits, Adept Outfits, Outfits with Talents, "Outfits with Non-exc
 
 This Outfit costs 30 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Aeon Logstone](Mantra_Modifiers.md) to craft.
 
-This Outfit additionally requires the player to be at least [Power](Power.md) 5 and have at least 10 [Intelligence](Intelligence.md) to be crafted.
+This Outfit additionally requires the player to be at least [Power](Power.md) 5 and have at least 10 [Intelligence](Attributes.md#int) to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 1000 Durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, and +15% Elemental resistance [ResistanceElemental](Attunement.md). Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
+This Outfit has 1000 Durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, and +15% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
 
 The [Lowstride](Talents.md#lowstride) Talent increases your [Stealth](Stealth.md) and movement speed while crouching. Additionally, this removes the sound that sheathing and unsheathing your weapon makes.
 

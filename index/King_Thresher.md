@@ -22,7 +22,7 @@ categories: [Monsters]
 
 ## Description
 
-The King Thresher (also colloquially known as Big/King Croc, Mother/Mama Thresher, etc) is a larger and usually older male [Thresher](Thresher.md) that is found in the [Starswept Valley](Starswept_Valley.md) and [The Depths](The_Depths.md). Sometimes, it can be found with another Thresher.
+The King Thresher (also colloquially known as Big/King Croc, Mother/Mama Thresher, etc) is a larger and usually older male [Thresher](Thresher.md) that is found in the [Starswept Valley](The_Starswept_Valley.md) and [The Depths](The_Depths.md). Sometimes, it can be found with another Thresher.
 
 King Threshers, as its name suggests are similar to an [Alpha Megalodaunt](Alpha_Megalodaunt.md) in terms of social hierarchy; a dominant Thresher leading their own pack. They are a result of male Threshers competing with each other in populated nests, where behavioral shifts sink in. Their growth is derived from an organ in their necks which can be significantly cut short if a competing Thresher's teeth is lodged into an opposing Thresher, thus leading into a Thresher emerging as a king. These Threshers have distinct features from their lesser counterparts, such as its large size, purple body, and a unique ability to breathe purple flames.[\[1\]](#cite-note-1)
 
@@ -136,7 +136,7 @@ Block
 
 -   **Serrated Claws** \- King Threshers have 100% PEN and inflict Bleed on hit.
 -   **Thresher Scales** - King Threshers have 40% physical attack resistance.
--   **Thick Hide** - King Threshers automatically extinguish [burn](Burn.md).
+-   **Thick Hide** - King Threshers automatically extinguish [burn](Status_Effects.md#burn).
 
 ## Finisher
 
@@ -154,7 +154,7 @@ Block
 -   Avoid fighting it on sloped ground as it will keep moving back and forth, thus making it more difficult to avoid/parry it's attacks. If possible try to bring it towards flatter ground.
 -   This is one of the Monsters that benefits the most from being in a horde alongside other Monsters as well as being in a chase regardless of the situation, due to its fast movement speed, its attacks having a large reach and from being able to shut down your movement, either from hitstun or from ragdolling.
     -   If you are not confident enough in your fighting ability against the King Thresher, then be aware of your surroundings and have an escape route planned as it might save your life. If you are in The Depths, be wary for other monsters.
-    -   A safe way to practice fighting a King Thresher would be to head to the [Lightkeeper Temple](Lightkeeper_Temple.md) located on the far right side of the [Starswept Valley](Starswept_Valley.md). Once you enter, on the right you will see a King Thresher in a room full of books. This method will allow you to escape through the small doorway whenever you get low on health, but do be wary as there are other [Threshers](Thresher.md) in the area.
+    -   A safe way to practice fighting a King Thresher would be to head to the [Lightkeeper Temple](Lightkeeper_Temple.md) located on the far right side of the [Starswept Valley](The_Starswept_Valley.md). Once you enter, on the right you will see a King Thresher in a room full of books. This method will allow you to escape through the small doorway whenever you get low on health, but do be wary as there are other [Threshers](Thresher.md) in the area.
 
 ## Trivia
 

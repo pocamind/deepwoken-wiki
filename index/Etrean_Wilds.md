@@ -14,7 +14,7 @@ The sounds of the forest comfort your sea-weary soul, if briefly.
 
   
 
-**Etrean Wilds** is a [location](Locations.md) in _Deepwoken_. It is a sub-location of [Etris](Etris.md) found in [The Etrean Sea](The_Etrean_Sea.md).
+**Etrean Wilds** is a location in _Deepwoken_. It is a sub-location of [Etris](Etris.md) found in [The Etrean Sea](The_Etrean_Sea.md).
 
 ## Description
 
@@ -24,7 +24,7 @@ Between the Etris Docks and Etris, there is a small forest, being the Etrean Wil
 
 ### Navaen Nomad Camp
 
--   A small camp populated by [Navaen Nomads](Navaen_Nomad.md) found before entering Etris.
+-   A small camp populated by [Navaen Nomads](Navaen_Hostage.md) found before entering Etris.
 -   You can earn the [Way of Navae](Way_of_Navae.md) fist style by turning in a Navaen hostage here. (currently seems to be bugged)
 -   This is the location of the first part of the [Zana](Zana.md) [quest](<Poser's_Ring.md>)
 -   You can buy the following here:
@@ -42,5 +42,5 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia
 
--   The music for this area is [Solivagant](Solivagant.md) by Naktigonis
+-   The music for this area is [Solivagant](Deepwoken_OST.md#solivagant) by Naktigonis
 -   During the 2023 Hallowtide event there was a floating skull near the Nomad camp.

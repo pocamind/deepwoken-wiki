@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The **Charged Bonecharm** is a [Relic](Relic.md) item used to gain the "[Bone Wisp](Bone_Wisp.md)" [Monster Mantra](Monster_Mantras.md) from [Carrion, Father of Evolution](Carrion.md) in [Castle Light](Castle_Light.md) after he has been interacted with in [Floor 2](Second_Layer/New_Kyrsa.md) of the [Second Layer](Second_Layer.md).
+The **Charged Bonecharm** is a [Relic](Relics.md) item used to gain the "[Bone Wisp](Monster_Mantras.md#bone-wisp)" [Monster Mantra](Monster_Mantras.md) from [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) in [Castle Light](Castle_Light.md) after he has been interacted with in [Floor 2](Second_Layer/New_Kyrsa.md) of the [Second Layer](Second_Layer.md).
 
 This item is obtained from trading the [Kyrsan Necklace](Kyrsan_Necklace.md) with [the Gaunt Man](The_Gaunt_Man.md) after defeating all three of his experiments.
 

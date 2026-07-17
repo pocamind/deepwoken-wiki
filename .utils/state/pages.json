@@ -1519,10 +1519,6 @@
     "title": "The Ignition Union",
     "lastrevid": 219390
   },
-  "4069": {
-    "title": "Unlockable Talents",
-    "lastrevid": 152800
-  },
   "4083": {
     "title": "Pathfinder Sorcerer",
     "lastrevid": 209573
@@ -2753,7 +2749,7 @@
   },
   "7116": {
     "title": "The Canticlysm",
-    "lastrevid": 217679
+    "lastrevid": 220390
   },
   "7145": {
     "title": "Marauder's Entrance",
@@ -3540,8 +3536,8 @@
     "lastrevid": 210602
   },
   "9475": {
-    "title": "Surfaces",
-    "lastrevid": 110716
+    "title": "Terrains",
+    "lastrevid": 220396
   },
   "9481": {
     "title": "Terrapod Shell",
@@ -4453,7 +4449,7 @@
   },
   "13643": {
     "title": "Oath: Chainwarden",
-    "lastrevid": 220083
+    "lastrevid": 220400
   },
   "13645": {
     "title": "Vice Warden Morredh",
@@ -5409,7 +5405,7 @@
   },
   "16276": {
     "title": "Rolen Vashtir",
-    "lastrevid": 216003
+    "lastrevid": 220392
   },
   "16277": {
     "title": "Ximac Diri",
@@ -5945,7 +5941,7 @@
   },
   "17956": {
     "title": "Attribute Trees",
-    "lastrevid": 211513
+    "lastrevid": 220377
   },
   "17957": {
     "title": "Deepdelver Tau",
@@ -6829,11 +6825,11 @@
   },
   "19981": {
     "title": "Augustus Baaset's sister",
-    "lastrevid": 178144
+    "lastrevid": 220394
   },
   "19982": {
     "title": "Augustus Baaset's brother",
-    "lastrevid": 200899
+    "lastrevid": 220393
   },
   "19987": {
     "title": "Operation 'Distant Light'",
@@ -7141,11 +7137,11 @@
   },
   "20537": {
     "title": "Tz'araan",
-    "lastrevid": 192237
+    "lastrevid": 220386
   },
   "20552": {
     "title": "Augustus Baaset's family",
-    "lastrevid": 216472
+    "lastrevid": 220395
   },
   "20578": {
     "title": "Corvis",
@@ -7201,7 +7197,7 @@
   },
   "20773": {
     "title": "Horus Helsen",
-    "lastrevid": 174255
+    "lastrevid": 220379
   },
   "20779": {
     "title": "Galvika",
@@ -7209,7 +7205,7 @@
   },
   "20781": {
     "title": "The Heavens",
-    "lastrevid": 212063
+    "lastrevid": 220388
   },
   "20782": {
     "title": "Adretian Empire",
@@ -7225,7 +7221,7 @@
   },
   "20800": {
     "title": "Markor",
-    "lastrevid": 193572
+    "lastrevid": 220385
   },
   "20804": {
     "title": "The Citadel of Markor",
@@ -7257,7 +7253,7 @@
   },
   "20857": {
     "title": "The Golden Link",
-    "lastrevid": 174943
+    "lastrevid": 220387
   },
   "20858": {
     "title": "Authority Enemy (Test)",
@@ -7461,7 +7457,7 @@
   },
   "21126": {
     "title": "Grayrhule",
-    "lastrevid": 180358
+    "lastrevid": 220383
   },
   "21143": {
     "title": "Curse of Captain Greene",
@@ -8289,7 +8285,7 @@
   },
   "21990": {
     "title": "Nocturne (individual)",
-    "lastrevid": 203058
+    "lastrevid": 220378
   },
   "22003": {
     "title": "Spear Dancer",
@@ -8501,7 +8497,7 @@
   },
   "22498": {
     "title": "Ekrim",
-    "lastrevid": 198237
+    "lastrevid": 220382
   },
   "22511": {
     "title": "Unidentified clam species",
@@ -8621,7 +8617,7 @@
   },
   "22810": {
     "title": "Drakethistle",
-    "lastrevid": 197942
+    "lastrevid": 220381
   },
   "22811": {
     "title": "Chest Masters' Guild",
@@ -8677,7 +8673,7 @@
   },
   "23024": {
     "title": "The Celtorian Horror",
-    "lastrevid": 214748
+    "lastrevid": 220389
   },
   "23030": {
     "title": "Bluster Rapids",
@@ -9141,7 +9137,7 @@
   },
   "24043": {
     "title": "Jurik",
-    "lastrevid": 216765
+    "lastrevid": 220384
   },
   "24058": {
     "title": "Words of Light",
@@ -9233,7 +9229,7 @@
   },
   "24288": {
     "title": "Memnos Tulad",
-    "lastrevid": 208406
+    "lastrevid": 220391
   },
   "24291": {
     "title": "Corvyn",
@@ -9617,6 +9613,10 @@
   },
   "25945": {
     "title": "Blackdamp",
-    "lastrevid": 220329
+    "lastrevid": 220380
+  },
+  "25953": {
+    "title": "Guild Clerk",
+    "lastrevid": 220376
   }
 }

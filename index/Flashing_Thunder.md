@@ -31,7 +31,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Flashing Thunder** is a playable [Memento](Memento.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. Similarly to its precursor Sightless, it starts with the 'Blinded' Talent and a [Pathfinder Lantern](Pathfinder_Lantern.md).
+**Flashing Thunder** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. Similarly to its precursor Sightless, it starts with the 'Blinded' Talent and a [Pathfinder Lantern](Pathfinder_Lantern.md).
 
 It starts with a unique Talent, [Gathering Storm](Talents.md#gathering-storm), which stores damage you deal into orbiting lightning orbs around you, up to a max of 8. Sheathing your weapon will fire all lightning orbs at your opponents. This is compatible with [Divine Cast Ring](Divine_Cast_Ring.md), Multiplying the damage you deal by 3x.
 
@@ -41,16 +41,16 @@ It starts with a unique Talent, [Gathering Storm](Talents.md#gathering-storm), w
 
 -   All-Seeing Eye \[Oath Talent\] - The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.
     -   Invisible players are revealed by a Blindseer Eye icon showcasing their current position.
-        -   Specifically reveals those under the effects of Ghost, Static Flash Clone, [Cheap Trick](Oath%253A_Visionshaper.md), [Illusory Servant's](Oath%253A_Visionshaper.md) casting animation, [Beast Burrow](Beast_Burrow.md), [Portals](Portals.md), and other invisibility effects.
-    -   With this Talent, the [Tacet](Tacet.md) is completely nullified, allowing you to see cloaked players normally.
+        -   Specifically reveals those under the effects of Ghost, Static Flash Clone, [Cheap Trick](Oath%253A_Visionshaper.md), [Illusory Servant's](Oath%253A_Visionshaper.md) casting animation, [Beast Burrow](Monster_Mantras.md#beast-burrow), [Portals](Portals.md), and other invisibility effects.
+    -   With this Talent, the [Tacet](Murmur%253A_Tacet.md) is completely nullified, allowing you to see cloaked players normally.
     -   This works on anyone who is invisible, yourself and monsters included.
 -   Blinded - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.
     -   Makes everything darker and creates fog at long distances
-    -   The Talent grants immunity to the [Flame Blind](Flame_Blind.md) and [Gaze](Gaze.md) Mantras.
+    -   The Talent grants immunity to the [Flame Blind](Flamecharm.md#flame-blind) and [Gaze](Attunement-less.md#gaze) Mantras.
 
 -   Blinded: \[Equipment Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.
     -   Makes everything darker and creates fog at long distances.
-    -   Grants immunity to the [Flame Blind](Flame_Blind.md) and [Gaze](Gaze.md) Mantras.
+    -   Grants immunity to the [Flame Blind](Flamecharm.md#flame-blind) and [Gaze](Attunement-less.md#gaze) Mantras.
 
 -   Gathering Storm \[Memento Talent\] - Your damage is stored in a lightning orb. Sheathing your weapon will shoot the lightning orbs at the opponent. The orbs will do more damage based on how many orbs are being stored up.
     
@@ -143,7 +143,7 @@ None
 **Effect:** _Dash forward before performing two slashes, sending out 2 short-ranged arcs of lightning forward that pierce through targets._
 
 -   Initial hits deal 7/8/9/10/11 base damage per level, per hit (2) with 2.75 Thundercall scaling.
--   The [Magnet Spark](Magnet_Spark.md) variant adds an additional hit that deals 8.75/10/11.25/12.5/13.75 base damage per level with 2.75 Thundercall scaling.
+-   The [Magnet Spark](Mantra_Modifiers.md#sparks) variant adds an additional hit that deals 8.75/10/11.25/12.5/13.75 base damage per level with 2.75 Thundercall scaling.
 -   Stormcaller Slash deals an additional 12.25/14/15.75/17.5/19.25 base damage per level with 5 Thundercall scaling.
 -   Deals 3 posture damage per initial hit (2), Stormcaller Slash adds an additional 5 posture damage.
 -   10 second cooldown.
@@ -152,7 +152,7 @@ None
 -   Can be cancelled midway after the first 2 slashes by right-clicking.
 -   At end of Mantra, performs a "**Stormcaller Slash**", a former Talent which is now innate.
     -   Can be canceled by feinting right after the flash of lightning. This puts the Mantra on cooldown for 5 seconds.
--   Can be modified with a [Magnet Spark](Magnet_Spark.md), which causes the mantra perform an additional short-ranged teleporting slash immediately after the first two.
+-   Can be modified with a [Magnet Spark](Mantra_Modifiers.md#sparks), which causes the mantra perform an additional short-ranged teleporting slash immediately after the first two.
 
  |
 | 
@@ -484,7 +484,7 @@ Defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
 
 ### True Heart of Enmity
 
--   Heir of Lightning \[Memento Talent\] - At max orbs, [Lightning Cloak](Lightning_Cloak.md) is enhanced.
+-   Heir of Lightning \[Memento Talent\] - At max orbs, [Lightning Cloak](Thundercall.md#lightning-cloak) is enhanced.
     
     -   This triples the base duration of your Lightning Cloak.
 
@@ -584,7 +584,7 @@ Defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
 -   Has a cooldown of 12 seconds.
 -   Has a short delay before dealing damage.
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectile, but reducing the Mantra's damage.
--   Can be modified with a [Tornado Spark](Tornado_Spark.md) to cause the mantra to deploy ring of lightning; shocking and dealing damage to target(s) that touch its walls.
+-   Can be modified with a [Tornado Spark](Mantra_Modifiers.md#sparks) to cause the mantra to deploy ring of lightning; shocking and dealing damage to target(s) that touch its walls.
     -   **This increases its cooldown from 12 seconds to 20 seconds.**
     -   Good for isolating a target for a 1v1 situation.
 

@@ -10,7 +10,7 @@ categories: [Books]
 
 ## Description
 
-_**The Interrogation Of Ranger Santiago Talo**_ is a [Book](Book.md).
+_**The Interrogation Of Ranger Santiago Talo**_ is a [Book](Books.md).
 
 ## Text
 

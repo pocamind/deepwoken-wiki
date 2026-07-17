@@ -12,7 +12,7 @@ _This is the book availabe in the current game version. For its older counterpar
 
 ## Description
 
-_**Diver's Journal: Apprentice Azel**_ is a [Book](Book.md) found in the first floor of the [Second Layer](Second_Layer.md), written by and collected from the corpse of [Apprentice Azel](Apprentice_Azel.md).
+_**Diver's Journal: Apprentice Azel**_ is a [Book](Books.md) found in the first floor of the [Second Layer](Second_Layer.md), written by and collected from the corpse of [Apprentice Azel](<Mauled_Diver_Corpse_(Apprentice_Azel).md>).
 
 ## Text
 
@@ -48,7 +48,7 @@ Diver's Journal: Apprentice Azel
 
 ## Appearances
 
--   [Apprentice Azel](Azel_Corbet.md)
+-   [Apprentice Azel](<Mauled_Diver_Corpse_(Apprentice_Azel).md>)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) (Mentioned only)
 
 ## Trivia

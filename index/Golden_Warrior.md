@@ -29,7 +29,7 @@ They wear a [Goldleaf Helm](Goldleaf_Helm.md), [Warden Pauldrons](Warden_Pauldro
 
 ## Attacks
 
-Their arsenal consists of a [Soulwrought Axe](Soulwrought_Axe.md) and the [Galebreathe](Galebreathe.md) Attunement:
+Their arsenal consists of a [Soulwrought Axe](Crazy_Slots.md#weapons) and the [Galebreathe](Galebreathe.md) Attunement:
 
 | Name/Danger | Description |
 | --- | --- |

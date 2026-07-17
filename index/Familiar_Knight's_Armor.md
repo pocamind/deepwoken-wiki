@@ -25,19 +25,19 @@ categories: [Outfits, Unique Outfits, Hallowtide, Outfits with Talents, Outfits 
 | selling_price | 10 |
 | weight | 1 |
 
-**Familiar Knight's Armor** is a Unique [Outfit](Outfit.md) in _Deepwoken_.
+**Familiar Knight's Armor** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 5,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), three (3) [Gold](Gold.md), and five (5) [Heroism Enchant Stones](Enchant_Stone.md) to craft.
+This Outfit costs 5,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), three (3) [Gold](Ores.md#gold), and five (5) [Heroism Enchant Stones](Enchant_Stone.md) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 3500 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, 40% Elemental resistance [ResistanceElemental](Attunement.md), and +10% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Hyperbody](Talents.md#hyperbody) Talent, but will passively reduce your movement speed by 30% while equipped.
+This Outfit has 3500 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, 40% Elemental resistance [ResistanceElemental](Attunements.md), and +10% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Hyperbody](Talents.md#hyperbody) Talent, but will passively reduce your movement speed by 30% while equipped.
 
 Using the [Hyperbody](Talents.md#hyperbody) Talent tool applies a buff to yourself and nearby allies that increases movement speed, defense, and regeneration. This effect becomes weaker the more allies are affected. Hyperbody lasts 30 seconds, but the duration is reduced by 3 seconds per person affected, including yourself. Hyperbody has a 2 minute cooldown.
 

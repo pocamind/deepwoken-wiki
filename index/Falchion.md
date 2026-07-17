@@ -46,7 +46,7 @@ After a short windup, perform a horizontal slash at your opponent's legs. This c
 
 This critical has a **5 second cooldown**.
 
-This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

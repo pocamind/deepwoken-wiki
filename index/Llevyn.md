@@ -28,7 +28,7 @@ This content is not accessible outside of this gamemode.
 
 Llevyn is an [Adret](Adret.md) NPC in the [Second Layer](Second_Layer.md). Talking to them after powering on the Generator, they can call down an [Ignition Deepdrill](Ignition_Deepdrill.md) which will arrive at the end of the [Nest Corridor](Nest_Corridor.md).
 
-The Deepdriller escape method is mainly used by players that got here without a Light Hook and don't want to risk dying from the parasites or [Chaser](Chaser,_Scholar_of_the_Burning_Blood.md).
+The Deepdriller escape method is mainly used by players that got here without a Light Hook and don't want to risk dying from the parasites or [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).
 
 ## Location
 

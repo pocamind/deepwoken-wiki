@@ -24,9 +24,9 @@ E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 
-Eran was a minor character in the [book](Book.md) [God in the Machine](God_in_the_Machine.md).[\[1\]](#cite-note-god-1)
+Eran was a minor character in the [book](Books.md) [God in the Machine](God_in_the_Machine.md).[\[1\]](#cite-note-god-1)
 
-She's a close friend of [Ryrda](Ryrda.md) and a girlfriend of [Fran](Fran.md). She agreed to help [Ryrda](Ryrda.md) with getting the [Nightblood](Nightblood.md) for him, even though she was sick. Ryrda was way too desperate to tell her she might die of ether vacancy, which eventually led to her death.[\[1\]](#cite-note-god-1)
+She's a close friend of [Ryrda](Ryrda.md) and a girlfriend of [Fran](Fran.md). She agreed to help [Ryrda](Ryrda.md) with getting the [Nightblood](Attunement_Potions.md) for him, even though she was sick. Ryrda was way too desperate to tell her she might die of ether vacancy, which eventually led to her death.[\[1\]](#cite-note-god-1)
 
 After [Fran](Fran.md) discovered Eran's lifeless body she was filled with rage, killing [Ryrda](Ryrda.md) in revenge for Eran.[\[1\]](#cite-note-god-1)
 

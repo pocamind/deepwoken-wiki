@@ -24,17 +24,17 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Quiet Stranger is an NPC that rarely spawns as one of the many [Random Encounters](Random_Encounters.md) at [Erisia](Erisia.md). He's a scout from [The Ministry](The_Ministry.md) who sits until someone approaches him. He does not appear in view until you go close to him, as he is hiding himself using [Murmur: Tacet](Murmur%253A_Tacet.md). Beware that if you talk to him without the 50 [Charisma](Charisma.md) requirements, he will attack you, locking you out of obtaining [Murmur: Tacet](Murmur%253A_Tacet.md).
+The Quiet Stranger is an NPC that rarely spawns as one of the many [Random Encounters](Random_Encounters.md) at [Erisia](Erisia.md). He's a scout from [The Ministry](The_Ministry.md) who sits until someone approaches him. He does not appear in view until you go close to him, as he is hiding himself using [Murmur: Tacet](Murmur%253A_Tacet.md). Beware that if you talk to him without the 50 [Charisma](Attributes.md#cha) requirements, he will attack you, locking you out of obtaining [Murmur: Tacet](Murmur%253A_Tacet.md).
 
-Via having 50 [Charisma](Charisma.md), you will obtain [Murmur: Tacet](Murmur%253A_Tacet.md) without having to fulfill any kill requirements.
+Via having 50 [Charisma](Attributes.md#cha), you will obtain [Murmur: Tacet](Murmur%253A_Tacet.md) without having to fulfill any kill requirements.
 
 ## Dialogue
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">...It seems I have been spotted by a local.</td></tr><tr><td colspan="6">What are you doing here?</td><td colspan="6">How did you just appear? [Charisma]</td></tr><tr><td colspan="6">You really are interfering in something you have no business in... Did the Authority send you? The forge was missing from the temple... It must've been you!</td><td colspan="3">[Charisma Check Passed]</td><td colspan="3">[Charisma Check Failed]</td></tr><tr><td colspan="6">[End Dialogue], he attacks you</td><td colspan="3">Well, that would be <a href="Tacet.md">Tacet</a>.</td><td colspan="3">Inquisitive aren't we? Snooping around for the <a href="Glossary.md#the-central-authority">Authority</a>?</td></tr><tr><td colspan="6"></td><td colspan="3">[End Dialogue], Player obtains <a href="Tacet.md"><font>Tacet</font></a></td><td colspan="3">[End Dialogue], he attacks you</td></tr></tbody></table>
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">...It seems I have been spotted by a local.</td></tr><tr><td colspan="6">What are you doing here?</td><td colspan="6">How did you just appear? [Charisma]</td></tr><tr><td colspan="6">You really are interfering in something you have no business in... Did the Authority send you? The forge was missing from the temple... It must've been you!</td><td colspan="3">[Charisma Check Passed]</td><td colspan="3">[Charisma Check Failed]</td></tr><tr><td colspan="6">[End Dialogue], he attacks you</td><td colspan="3">Well, that would be <a href="Murmur%253A_Tacet.md">Tacet</a>.</td><td colspan="3">Inquisitive aren't we? Snooping around for the <a href="Glossary.md#the-central-authority">Authority</a>?</td></tr><tr><td colspan="6"></td><td colspan="3">[End Dialogue], Player obtains <a href="Murmur%253A_Tacet.md"><font>Tacet</font></a></td><td colspan="3">[End Dialogue], he attacks you</td></tr></tbody></table>
 
 ## Moveset
 
-The Quiet Stranger's arsenal consists of a [Krulian Knife](Krulian_Knife.md), the [Tacet](Tacet.md) Murmur, and the [Contractor](Contractor.md) Oath:
+The Quiet Stranger's arsenal consists of a [Krulian Knife](Krulian_Knife.md), the [Tacet](Murmur%253A_Tacet.md) Murmur, and the [Contractor](Oath%253A_Contractor.md) Oath:
 
 | Name/Danger | Description |
 | --- | --- |

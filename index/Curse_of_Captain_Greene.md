@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments, The Vat Excl
 
 ## Description
 
-Curse of Captain Greene is a damage buffing [enchantment](Enchantment.md) that increases your weapon's damage based on how many [Notes](Notes.md) you have.
+Curse of Captain Greene is a damage buffing [enchantment](Enchantments.md) that increases your weapon's damage based on how many [Notes](Notes.md) you have.
 
 ## Effect
 
@@ -37,7 +37,7 @@ Upon taking damage from a player, lose 100.
 -   **If you have not completed [The Gaunt Man](The_Gaunt_Man.md)'s trial on your character, this enchantment will not work and your weapon's damage will be voided.**
 -   While at 7,500, this Enchantment does not provide a damage buff nor debuff.
 -   This enchantment has a coin splash sound effect on hit and upon taking damage.
--   This enchantment's curse functions somewhat similarly to, and stacks with, the [Loose Change](Loose_Change.md) Echo Modifier.
+-   This enchantment's curse functions somewhat similarly to, and stacks with, the [Loose Change](Echoes.md#upgrades-unlocks-and-modifiers) Echo Modifier.
 
 ## Trivia
 

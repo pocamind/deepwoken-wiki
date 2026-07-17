@@ -41,7 +41,7 @@ Rosen's Roscoe is a Pistol type weapon that can be used both in both dual and si
 
 In comparison to most other Pistols, it has a comparatively low scaling of 11 and a low base damage of 16 yet excels in its posture damage and chip damage, outclassing all the other pistols in those departments, thus it can still be a viable option for any gun user.
 
-The Rosen's Roscoe has a [bullet](Bullet.md) capacity of 6.
+The Rosen's Roscoe has a [bullet](Bullets.md) capacity of 6.
 
 ## Critical
 
@@ -51,5 +51,5 @@ Rosen's Roscoe uses the default Pistol critical, an empowered shot. It has a sca
 
 -   The gun's model is similar to a Remington 1858 revolver.
 -   The weapon is also called 'big iron' in the campfire menu.
--   Along with the [Soulwrought Gun](Soulwrought_Gun.md) and [Iron Requiem](Iron_Requiem.md), these are the only three pistols in the game to have a unique sound effect on M1/crit.
+-   Along with the [Soulwrought Gun](Crazy_Slots.md#weapons) and [Iron Requiem](Iron_Requiem.md), these are the only three pistols in the game to have a unique sound effect on M1/crit.
 -   If offhanded it's shot cooldown is 1.3 seconds.

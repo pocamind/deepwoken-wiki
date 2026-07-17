@@ -32,7 +32,7 @@ Although Marcus does not give any rewards, XP, loot or even gameplay advice to t
 
 ## Location
 
-When entering [The Hidden Village](The_Hidden_Village.md), go to the right side and through a hallway to find a [Campfire](Campfire.md) and [Rotskipper](Rotskipper.md). When reaching the [Campfire](Campfire.md) spot, looking to your left; there will be a house that has a crawl space under it. Inside the space there will be a hole, jumping into the hole will take you to the humble cave Marcus lives in.
+When entering [The Hidden Village](The_Hidden_Village.md), go to the right side and through a hallway to find a [Campfire](Campfire_Pit.md) and [Rotskipper](Rotskipper.md). When reaching the [Campfire](Campfire_Pit.md) spot, looking to your left; there will be a house that has a crawl space under it. Inside the space there will be a hole, jumping into the hole will take you to the humble cave Marcus lives in.
 
 Make sure to say hello, and give some company to such a [Stonespark](Stonespark.md). What a great guy, **right**?
 

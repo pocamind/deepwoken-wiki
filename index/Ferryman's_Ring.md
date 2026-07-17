@@ -26,8 +26,8 @@ categories: [Equipment, Rings]
 
 ## Description
 
-**Ferryman's Ring** is a Ring [Equipment](Equipment.md) piece that increase the range of the users [Murmur:Rhythm](Rhythm.md) by 50%.
+**Ferryman's Ring** is a Ring [Equipment](Equipment.md) piece that increase the range of the users [Murmur:Rhythm](Murmur%253A_Rhythm.md) by 50%.
 
 ## Trivia
 
--   The first and only ring to affect [Murmurs](Rhythm.md).
+-   The first and only ring to affect [Murmurs](Murmur%253A_Rhythm.md).

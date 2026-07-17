@@ -38,7 +38,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons
 
 ## Description
 
-The Stoneheart is a Heavy Greathammer that is obtained from [Duke Erisia](Duke_Erisia.md).
+The Stoneheart is a Heavy Greathammer that is obtained from [Duke Erisia](Duke_Ishamon_Erisia.md).
 
 ## Critical
 

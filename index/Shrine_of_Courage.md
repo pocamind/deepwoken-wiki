@@ -12,7 +12,7 @@ categories: [NPCs, NPCs located in the First Layer, Mechanics]
 |---|---|
 | location | Cathedral of the Interstice (Trial) |
 
-_Not to be confused with [Deep Shrines](Deep_Shrines.md) or [Shrines](Shrines.md) (aka Fountain Gates)._
+_Not to be confused with [Deep Shrines](Deep_Shrines.md) or [Shrines](Fountain_Gates.md) (aka Fountain Gates)._
 
 ## Description
 

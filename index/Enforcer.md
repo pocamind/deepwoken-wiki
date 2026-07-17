@@ -136,7 +136,7 @@ The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and En
 
 | Name | Media | Description |
 | --- | --- | --- |
-| **Headsplitter** |  | The Enforcer holds its weapon up with one hand, and smashes it down on any player, killing them, a reference to the Greataxes' grip execution. |
+| **Headsplitter** |  | The Enforcer holds its weapon up with one hand, and smashes it down on any player, killing them, a reference to the [Greataxes'](Greataxes.md) grip execution. |
 
 ## Passives
 

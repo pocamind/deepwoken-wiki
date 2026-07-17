@@ -36,4 +36,4 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 The Moonseye Gauntlets are an [Equipment](Equipment.md) item under the "Arms" category. It is a pair of two metal gauntlets bearing many symbols of [The Moonseye](Moonseye.md) on it. It exposes a part of the fist and does not fully cover the arms equipment area, only covering the hands.
 
-The [Heretic's Sacrifice](Talents.md#heretics-sacrifice) Talent grants a Talent tool, that sacrifices a large amount of [Sanity](Sanity.md) to heal 20 health.
+The [Heretic's Sacrifice](Talents.md#heretics-sacrifice) Talent grants a Talent tool, that sacrifices a large amount of [Sanity](Insanity.md) to heal 20 health.

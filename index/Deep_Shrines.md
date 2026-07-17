@@ -8,7 +8,7 @@ categories: [Pathfinder Exclusive, NPCs, Mechanics, Features absent in Vow of Ir
 
 # Deep Shrines
 
-_Not to be confused with [Shrine of Courage](Shrine_of_Courage.md), [Shrine of the Drowned](Shrine_of_the_Drowned.md), [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), or [Shrines](Shrines.md) (aka Fountain Gates)._
+_Not to be confused with [Shrine of Courage](Shrine_of_Courage.md), [Shrine of the Drowned](Shrine_of_the_Drowned.md), [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), or [Shrines](Fountain_Gates.md) (aka Fountain Gates)._
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -64,11 +64,11 @@ Shrine of Division: For 5 and a Mantra of your choice, obtain a Roll 2.
     -   Ironically, in that game, Shrine of Order was more or less a joke, providing no utility whatsoever.
         -   It was theorized this was the intent behind Deepwoken's Shrine of Order, but due to it actually allowing for the creation of extremely powerful builds, the developers found themselves unable to roll back the change without creating huge backlash as well as resulting in builds that existed before any changes to the Shrine being far more powerful than any new ones after the changes.
 -   You can use any shrine besides Solitude to obtain Contractor, however, Shrine Of Order is currently bugged and does not count towards Contractor progression.
--   Shrine of Order used to grant an additional random [Flaw](Flaws.md) on use. This was removed on September 6th, 2025 due to the recent changes of the time with Talents gaining reduced effects if you do not meet their requirements.
--   Deep Shrines may be a means for [Yun'Shul](<Yun'Shul.md>) to communicate, due to them appearing in the [Temple of Hearts](Temple_of_Hearts.md). Both the main shrine and Deep Shrines speak using the same font, as well as engaging in deals.
--   Before Shrine of Ostentation (Now the Shrine of Chance), the only way to obtain more Rare Talents on a fully progressed build was to obtain either [Ardour](Ardour.md) or [Rhythm](Rhythm.md) and their child Talents, Ardour Scream or Spotter. Then after removing your Murmur with a [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish, you would be granted a new Talent hand that was guaranteed to have a rare Talent in it.
+-   Shrine of Order used to grant an additional random [Flaw](Boons_and_Flaws.md) on use. This was removed on September 6th, 2025 due to the recent changes of the time with Talents gaining reduced effects if you do not meet their requirements.
+-   Deep Shrines may be a means for [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) to communicate, due to them appearing in the [Temple of Hearts](Temple_of_Hearts.md). Both the main shrine and Deep Shrines speak using the same font, as well as engaging in deals.
+-   Before Shrine of Ostentation (Now the Shrine of Chance), the only way to obtain more Rare Talents on a fully progressed build was to obtain either [Ardour](Murmur%253A_Ardour.md) or [Rhythm](Murmur%253A_Rhythm.md) and their child Talents, Ardour Scream or Spotter. Then after removing your Murmur with a [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish, you would be granted a new Talent hand that was guaranteed to have a rare Talent in it.
     -   This method was extremely tedious if you were missing more than one rare, very expensive, and not every build could utilize it.
 -   As of the 28/02/2023 patch, Shrine of Order's 25 stat point reduction limit does not work on attunements.
--   The [Shrine of Ostentation](Shrine_of_Ostentation.md) allowed you to transfer Rare Talents into Common/Advanced Talents and vice versa. This effect was merged into the [Shrine of Chance](Shrine_of_Chance.md), along with Ostentation itself being removed on the September 15th, 2025 update.
--   The [Shrine of Solitude](Shrine_of_Solitude.md) previously allowed players to favor specific Talents and Mantras. This became obsolete after favoring and foretelling were added, leading to the removal of Mystics and, later, the Shrine of Solitude itself.
+-   The [Shrine of Ostentation](Deep_Shrines/Shrine_of_Ostentation.md) allowed you to transfer Rare Talents into Common/Advanced Talents and vice versa. This effect was merged into the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md), along with Ostentation itself being removed on the September 15th, 2025 update.
+-   The [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md) previously allowed players to favor specific Talents and Mantras. This became obsolete after favoring and foretelling were added, leading to the removal of Mystics and, later, the Shrine of Solitude itself.
 -   Deep Shrines models were reworked on the update of **15 September, 2025** to be more performant.

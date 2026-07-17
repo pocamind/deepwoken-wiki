@@ -43,7 +43,7 @@ The Hallowscleave is a MED weapon in the Swords category, bearing a strong pumpk
 
 Hallowscleave uses the default Sword critical, a piercing stab. It has a scaled damage multiplier of **1.2x** and a cooldown of **3 seconds**. It deals **3x** the weapon's posture stat as posture damage.
 
-This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

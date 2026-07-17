@@ -28,11 +28,11 @@ Sibex dons a grey hood and wears an unconfirmed white outfit. They have a Gale W
 
 Sibex resides on a cliff in [the Starswept Valley](The_Starswept_Valley.md) south-east of [the Lordsgrove](The_Lordsgrove.md).
 
-Sibex is capable of telling you your current [Resonance progress](Bell_Progress.md), and what gives you the most Resonance progress. Once speaking to Sibex for the first time, they will prompt you to collect a Thresher Spine for them, and in return they will tell you the details of your Resonance obtainment method. Sibex will not take your Thresher Spine.
+Sibex is capable of telling you your current [Resonance progress](Resonance.md#bell-progress), and what gives you the most Resonance progress. Once speaking to Sibex for the first time, they will prompt you to collect a Thresher Spine for them, and in return they will tell you the details of your Resonance obtainment method. Sibex will not take your Thresher Spine.
 
-Sibex is able to unlock the [Soul Beam](Soul_Beam.md) Mantra when talked to upon meeting certain requirements:
+Sibex is able to unlock the [Soul Beam](Oath%253A_Oathless.md#soul-beam) Mantra when talked to upon meeting certain requirements:
 
--   Have the [Chorus of Souls](Talents.md#chorus-of-souls) Talent; this Talent requires [Oath: Oathless](Oath%253A_Oathless.md) and 30 points in every [Attunement](Attunement.md).
+-   Have the [Chorus of Souls](Talents.md#chorus-of-souls) Talent; this Talent requires [Oath: Oathless](Oath%253A_Oathless.md) and 30 points in every [Attunement](Attunements.md).
 -   Have [Oath: Oathless](Oath%253A_Oathless.md).
 -   Have a [Resonance](Resonance.md).
 
@@ -52,17 +52,17 @@ Sibex can be found sitting on a ledge overseeing [Summer Isle](Summer_Isle.md) t
 
 **Chorus of Souls:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Oh? What a symphony you bring to my ears! A resounding lead accompanied by a perfect chorus. You've mastered something I struggled with... Though, you're still missing the last piece.</td></tr><tr><td colspan="12">What am I missing?</td></tr><tr><td colspan="12">They chime along with the tune, but not in unison. You must conduct them - direct them.</td></tr><tr><td colspan="12">Huh. Any tips?</td></tr><tr><td colspan="12">Hah, tips! Yes. Fingertips will do. When their movement are in sync with one another, spread your fingertips and picture their strength surging in a harmonious stream.</td></tr><tr><td colspan="12">(You can now use <a href="Soul_Beam.md">Soul Beam</a>)</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Oh? What a symphony you bring to my ears! A resounding lead accompanied by a perfect chorus. You've mastered something I struggled with... Though, you're still missing the last piece.</td></tr><tr><td colspan="12">What am I missing?</td></tr><tr><td colspan="12">They chime along with the tune, but not in unison. You must conduct them - direct them.</td></tr><tr><td colspan="12">Huh. Any tips?</td></tr><tr><td colspan="12">Hah, tips! Yes. Fingertips will do. When their movement are in sync with one another, spread your fingertips and picture their strength surging in a harmonious stream.</td></tr><tr><td colspan="12">(You can now use <a href="Oath%253A_Oathless.md#soul-beam">Soul Beam</a>)</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
 
 ## Trivia
 
--   When talking to Sibex the song [Sibex's Gale Wisp Tune](<Sibex's_Gale_Wisp_Tune.md>) will play.
+-   When talking to Sibex the song [Sibex's Gale Wisp Tune](Deepwoken_OST.md#sibexs-gale-wisp-tune) will play.
 -   Sibex mentions Warden Jericho, likely meaning they are under his orders. They've been described as missing on duty, the Authority appears to have just lost them.
 -   They used to wear the [Hive Leader's Garment](<Hive_Leader's_Garment.md>) outfit; this was changed in an update
     -   It may have been because the outfit's design was lifted from [an outfit](References_and_Easter_Eggs.md) in _Genshin Impact_, but this is speculation.
 -   Sibex's current outfit is nearly identical to and very likely based on that of Orsted from the anime _Mushoku Tensei_.
 -   Back when the [Dissonant modifier](Echoes.md#modifiers) prevented you from obtaining a bell, instead of regular dialogue they would say: "\*He sighs.\* Gods below, I can already hear... utter silence!"
--   On the update of August 18th, 2025, [Gale Wisp](Gale_Wisp.md) received a new model, but Sibex's Gale Wisp was not updated and still uses the old model.
+-   On the update of August 18th, 2025, [Gale Wisp](Galebreathe.md#gale-wisp) received a new model, but Sibex's Gale Wisp was not updated and still uses the old model.
 -   Roblox clothing (current): [Shirt](https://www.roblox.com/catalog/8261296850/DetsroTop) / [Pants](https://www.roblox.com/catalog/8261301206/DetsroBot)
 
 ## References

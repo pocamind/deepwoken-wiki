@@ -46,11 +46,11 @@ The user winds up before charging forward with the weapon, dealing damage 5 time
 
 The critical has a cooldown of **5 seconds**.
 
-This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 
--   Used by [Celtor Guards](Celtor_Guard.md), referencing the city's previous fishing-based economy.
+-   Used by [Celtor Guards](Celtorian_Guard.md), referencing the city's previous fishing-based economy.
 -   The trident spear's unique critical used to be capable of one-shotting players when paired with certain [Enchantments](Enchantments.md) such as Detonation.
 -   Using the critical mid-air will suspend the player and move them forward.
 -   Using the critical while swimming will make you travel about half the distance as usual.

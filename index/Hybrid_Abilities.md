@@ -12,7 +12,7 @@ _**FOREWORD**: **A table visualizing the requirements of every hybrid ability ca
 
 ## Overview
 
-**Hybrid Abilities** are a special category of [Mantras](Mantras.md) and [Talents](Talents.md) that require investment in multiple [Attunements](Attunement.md) to use. Hybrid Mantras typically use elemental effects and Talents from both attunements and can even inherit path abilities such as Surge Path or Wraith Path. These mantras can be upgraded at either one of their respective [attunement trainers](Spelltrainers.md). **Hybrid Mantras scale off of both of their attunement stats, but only require one to be invested to level up.** For example, you can have level 5 Permafrost Prison with 80 Shadowcast OR 80 Frostdraw.
+**Hybrid Abilities** are a special category of [Mantras](Mantras.md) and [Talents](Talents.md) that require investment in multiple [Attunements](Attunements.md) to use. Hybrid Mantras typically use elemental effects and Talents from both attunements and can even inherit path abilities such as Surge Path or Wraith Path. These mantras can be upgraded at either one of their respective [attunement trainers](Attunement_Trainers.md). **Hybrid Mantras scale off of both of their attunement stats, but only require one to be invested to level up.** For example, you can have level 5 Permafrost Prison with 80 Shadowcast OR 80 Frostdraw.
 
 ## Mantras
 
@@ -86,8 +86,8 @@ Lightning [ResistanceThundercall](Thundercall.md) + Metal [ResistanceIronsing](I
 -   Can apply Electrified.
 -   Compatible with Surge Path and Gilded Path.
 -   Can be modified with [Eternal and Aeon Logstones](Mantra_Modifiers.md) to increase its duration slightly.
--   Can be upgraded with a [Multiplying Spark](Multiplying_Spark.md) to summon 3, but dividing the damage dealt per Tether into thirds.
--   Can be upgraded with a [Magnet Spark](Magnet_Spark.md) allowing it to move.
+-   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to summon 3, but dividing the damage dealt per Tether into thirds.
+-   Can be upgraded with a [Magnet Spark](Mantra_Modifiers.md#sparks) allowing it to move.
 
  |
 | 
@@ -127,11 +127,11 @@ Ice [ResistanceFrostdraw](Frostdraw.md) + Shadow [ResistanceShadowcast](Shadowca
 -   Deals moderate damage.
 -   Inflicts Chill.
 -   Works with Twisted Puppets, applying Shadow Burn (it won't spawn puppets) and Crystal Path.
--   Compatible with [Cloudstones/Stratus Stones](Cloudstone.md) to make the AoE larger.
--   Can be modified with [Aeon/Eternal Logstones](Aeon_Logstone.md) but it seems to only work with [Aeon Logstone](Aeon_Logstone.md) otherwise if even a single [Eternal Logstone](Eternal_Logstone.md) is placed onto the mantra it will use more ether and make it last the original amount.
--   Can be modified with [Magnet Spark](Magnet_Spark.md) allowing it to follow the user.
+-   Compatible with [Cloudstones/Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to make the AoE larger.
+-   Can be modified with [Aeon/Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) but it seems to only work with [Aeon Logstone](Mantra_Modifiers.md#regular-modifiers) otherwise if even a single [Eternal Logstone](Mantra_Modifiers.md#regular-modifiers) is placed onto the mantra it will use more ether and make it last the original amount.
+-   Can be modified with [Magnet Spark](Mantra_Modifiers.md#sparks) allowing it to follow the user.
 -   Cannot be cast while in water. Attempting to cast it in water will consume your ether and do nothing.
--   Shares a cooldown with [Ice Eruption](Ice_Eruption.md).
+-   Shares a cooldown with [Ice Eruption](Frostdraw.md#ice-eruption).
 
  |
 | 
@@ -216,7 +216,7 @@ Wind [ResistanceGalebreathe](Galebreathe.md) + Lightning [ResistanceThundercall]
 
  |
 
-### _Requires [Oathless](Oathless.md):_
+### _Requires [Oathless](Oath%253A_Oathless.md):_
 
 | 
 **Name**
@@ -280,7 +280,7 @@ Oath [ResistanceOath](Oaths.md)
  |
 | 
 
-**Effect:** _Charge up for 2 seconds before unleashing a devastating, [unparryable](Telegraphed_Attacks.md) elemental beam._
+**Effect:** _Charge up for 2 seconds before unleashing a devastating, [unparryable](Combat_Mechanics.md#telegraphed-attacks) elemental beam._
 
 -   Soul Beam will consume your Ether and do nothing if you do not have all Wisp Mantras active on cast.
 -   An entire beam deals about 250 total damage (calculated with include of average player resistances). Unparryable, blockable. Can be dodged by going far enough from caster.
@@ -300,9 +300,9 @@ Oath [ResistanceOath](Oaths.md)
 
 Very few [Oaths](Oaths.md) require the combination of several Attunements to be used. These Oaths are often powerful within their niche, but are uncommonly used due to having fairly restrictive requirements.
 
-[Arcwarder](Arcwarder.md) - A [Flamecharm](Flamecharm.md)/[Thundercall](Thundercall.md) Hybrid Oath that harnesses these Attunements' defensive and offensive capabilities. Requirements: 20 Flamecharm, 20 Thundercall, 20 Fortitude.
+[Arcwarder](Oath%253A_Arcwarder.md) - A [Flamecharm](Flamecharm.md)/[Thundercall](Thundercall.md) Hybrid Oath that harnesses these Attunements' defensive and offensive capabilities. Requirements: 20 Flamecharm, 20 Thundercall, 20 Fortitude.
 
-[Saintsworn](Saintsworn.md) - A Hybrid Oath that is comprised of the 5 base Attunements, specializing in elemental combination through various methods. Requirements: 15 Flamecharm, 15 Frostdraw, 15 Galebreathe, 15 Shadowcast, 15 Thundercall.
+[Saintsworn](Oath%253A_Saintsworn.md) - A Hybrid Oath that is comprised of the 5 base Attunements, specializing in elemental combination through various methods. Requirements: 15 Flamecharm, 15 Frostdraw, 15 Galebreathe, 15 Shadowcast, 15 Thundercall.
 
 ## Talents
 
@@ -330,7 +330,7 @@ Very few [Oaths](Oaths.md) require the combination of several Attunements to be 
 
 **Thundercall:**
 
-<table><tbody><tr><td><b>Name</b></td><td><b>Requirements</b></td><td><b>Card Description</b></td><td><b>Effect</b></td></tr><tr><td>Electrolyte<br><sup>[Bloodsong]</sup></td><td>40 Bloodrend<br>40 Thundercall</td><td>Hitting Bloodrend mantras while having temporary health applies <a href="Shock.md">Shocked</a> while removing a portion of temporary health.</td><td>Landing Bloodrend Mantras now applies Shock or 1 Surge Rod at the cost of 4 Temporary Health.</td></tr></tbody></table>
+<table><tbody><tr><td><b>Name</b></td><td><b>Requirements</b></td><td><b>Card Description</b></td><td><b>Effect</b></td></tr><tr><td>Electrolyte<br><sup>[Bloodsong]</sup></td><td>40 Bloodrend<br>40 Thundercall</td><td>Hitting Bloodrend mantras while having temporary health applies <a href="Status_Effects.md#shock">Shocked</a> while removing a portion of temporary health.</td><td>Landing Bloodrend Mantras now applies Shock or 1 Surge Rod at the cost of 4 Temporary Health.</td></tr></tbody></table>
 
 **Flamecharm:**
 
@@ -434,7 +434,7 @@ Very few [Oaths](Oaths.md) require the combination of several Attunements to be 
 
 **Bloodrend:**
 
-<table><tbody><tr><td><b>Name</b></td><td><b>Requirements</b></td><td><b>Card Description</b></td><td><b>Effect</b></td></tr><tr><td>Electrolyte<br><sup>[Bloodsong]</sup></td><td>40 Bloodrend<br>40 Thundercall</td><td>Hitting Bloodrend mantras while having temporary health applies <a href="Shock.md">Shocked</a> while removing a portion of temporary health.</td><td>Landing Bloodrend Mantras now applies Shock or 1 Surge Rod at the cost of 4 Temporary Health.</td></tr></tbody></table>
+<table><tbody><tr><td><b>Name</b></td><td><b>Requirements</b></td><td><b>Card Description</b></td><td><b>Effect</b></td></tr><tr><td>Electrolyte<br><sup>[Bloodsong]</sup></td><td>40 Bloodrend<br>40 Thundercall</td><td>Hitting Bloodrend mantras while having temporary health applies <a href="Status_Effects.md#shock">Shocked</a> while removing a portion of temporary health.</td><td>Landing Bloodrend Mantras now applies Shock or 1 Surge Rod at the cost of 4 Temporary Health.</td></tr></tbody></table>
 
 **Flamecharm:**
 
@@ -460,7 +460,7 @@ Very few [Oaths](Oaths.md) require the combination of several Attunements to be 
 
 These Talents require the combination of all attunements to be obtained. Very few in number, these hybrid Talents are very niche and specialized, but powerful to make up for their high requirements.
 
-<table><tbody><tr><td><b>Name</b></td><td><b>Requirements</b></td><td><b>Card Description</b></td><td><b>Effect</b></td></tr><tr><td>Chorus of Souls<br><sup>[Sage of Wisps]</sup></td><td><a href="Oath%253A_Oathless.md">Oath: Oathless</a>, 30 in all Attunements</td><td>Alone, the Wisps lack a voice. But surrounded by so many, the frequencies overlap and you hear it true. (+1 Wisp Mantra Slot)</td><td>While all Attunement Wisp Mantras are active, gain massively increased healing. This effect will stop working if any Wisp is not present.</td></tr><tr><td>Wisp Convergence<br><sup>[Sage of Wisps]</sup></td><td><a href="Oath%253A_Oathless.md">Oath: Oathless</a>, Chorus of Souls</td><td>When empowered by the Chorus, your Wisps now grant their elements to your strikes.</td><td>While all Attunement Wisp Mantras are active, your basic attacks will apply <a href="Burn.md">Burn</a>, <a href="Chill.md">Chill</a>, <a href="Shock.md">Shock</a>, <a href="Status_Effects.md">Shadow</a>, and <a href="Winded.md">Winded</a>. This has no cooldown, but will stop working if any Wisp is not present.</td></tr></tbody></table>
+<table><tbody><tr><td><b>Name</b></td><td><b>Requirements</b></td><td><b>Card Description</b></td><td><b>Effect</b></td></tr><tr><td>Chorus of Souls<br><sup>[Sage of Wisps]</sup></td><td><a href="Oath%253A_Oathless.md">Oath: Oathless</a>, 30 in all Attunements</td><td>Alone, the Wisps lack a voice. But surrounded by so many, the frequencies overlap and you hear it true. (+1 Wisp Mantra Slot)</td><td>While all Attunement Wisp Mantras are active, gain massively increased healing. This effect will stop working if any Wisp is not present.</td></tr><tr><td>Wisp Convergence<br><sup>[Sage of Wisps]</sup></td><td><a href="Oath%253A_Oathless.md">Oath: Oathless</a>, Chorus of Souls</td><td>When empowered by the Chorus, your Wisps now grant their elements to your strikes.</td><td>While all Attunement Wisp Mantras are active, your basic attacks will apply <a href="Status_Effects.md#burn">Burn</a>, <a href="Status_Effects.md#chill">Chill</a>, <a href="Status_Effects.md#shock">Shock</a>, <a href="Status_Effects.md">Shadow</a>, and <a href="Status_Effects.md#winded">Winded</a>. This has no cooldown, but will stop working if any Wisp is not present.</td></tr></tbody></table>
 
 ## Equipment
 
@@ -486,7 +486,7 @@ A pair of black plated boots with gold highlights with the _Flashwind_ Talent. F
 
 #### Set Bonus: \[Shock Trooper Specialist\]
 
-When wearing all equipment in the set, you gain the Shock Trooper Specialist Talent. Upon meeting a 100 accumulative damage threshold with Galebreathe and Thundercall Mantras, strike your opponents with a Stormcall Strike, dealing 40 damage with no scaling. This has no cooldown. [Grand Javelin](Grand_Javelin.md), [Electro Carve](Electro_Carve.md), and [Thunder Kick](Thunder_Kick.md) turn green, gaining a 15% increase to their base damage. [Astral Wind](Astral_Wind.md), [Gale Lunge](Gale_Lunge.md), and [Champion's Whirlthrow](<Champion's_Whirlthrow.md>) turn yellow, gaining a 15% increase to their base damage.
+When wearing all equipment in the set, you gain the Shock Trooper Specialist Talent. Upon meeting a 100 accumulative damage threshold with Galebreathe and Thundercall Mantras, strike your opponents with a Stormcall Strike, dealing 40 damage with no scaling. This has no cooldown. [Grand Javelin](Thundercall.md#grand-javelin), [Electro Carve](Thundercall.md#electro-carve), and [Thunder Kick](Thundercall.md#thunder-kick) turn green, gaining a 15% increase to their base damage. [Astral Wind](Galebreathe.md#astral-wind), [Gale Lunge](Galebreathe.md#gale-lunge), and [Champion's Whirlthrow](Galebreathe.md#champions-whirlthrow) turn yellow, gaining a 15% increase to their base damage.
 
 ## Trivia
 

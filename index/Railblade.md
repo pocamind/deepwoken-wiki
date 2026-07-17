@@ -55,7 +55,7 @@ For the **airborne** critical, the user hovers and raises their weapon overhead 
 
 The flames emitted by both Critical Attacks will proc Burn and any applicable Flamecharm Talents, including different paths & Talents such as Azure Flames. The cooldown for either critical is **9 seconds**; they share a Critical cooldown.
 
-These criticals have the [M1 tag](M1_tag.md), allowing them to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects. Spine Cutter does not proc however.
+These criticals have the M1 tag, allowing them to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects. Spine Cutter does not proc however.
 
 ## Trivia
 

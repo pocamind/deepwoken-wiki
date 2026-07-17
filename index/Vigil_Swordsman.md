@@ -17,10 +17,10 @@ categories: [Enemies, Etrea Enemies, Ambush Enemies]
 
 ## Description
 
-The Vigil Swordsman is a type of enemy NPC found in [Lower Erisia](Lower_Erisia.md) and [Starswept Valley](Starswept_Valley.md). Unlike the [Etrean Guardsmen](Etrean_Guardsmen.md), the Vigil Swordsmen's clad is colored white. They can be found in the following [Random Encounters](Random_Encounters.md):
+The Vigil Swordsman is a type of enemy NPC found in [Lower Erisia](Lower_Erisia.md) and [Starswept Valley](The_Starswept_Valley.md). Unlike the [Etrean Guardsmen](Etrean_Guardsmen.md), the Vigil Swordsmen's clad is colored white. They can be found in the following [Random Encounters](Random_Encounters.md):
 
 -   Vigil Swordsmen vs Authority Officers ([Erisia](Erisia.md))
--   Vigil Swordsmen vs Hive Guards ([Starswept Valley](Starswept_Valley.md))
+-   Vigil Swordsmen vs Hive Guards ([Starswept Valley](The_Starswept_Valley.md))
 -   Etrean Ambush event (anywhere)
 
 ## Moveset

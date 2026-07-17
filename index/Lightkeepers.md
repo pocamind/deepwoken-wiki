@@ -15,7 +15,7 @@ Lightkeepers are usually taken by the [Central Authority](The_Central_Authority.
 
 Getting the blessing of a Lightkeeper placed on your ship is the only safe way to go about cross-[Luminant](Luminants.md) travel.[\[1\]](#cite-note-nimea-1) A boat called the Petra's Dawn, the ship the [Petra's Anchor](<Petra's_Anchor.md>) comes from, is said to be the only ship to have sailed between [Luminants](Luminants.md) without a blessing. Its luck eventually ran out and it sank on its return journey.[\[2\]](#cite-note-petra-2)
 
-Lightkeepers are capable of teaching others how to utilize the [Radiant Tones](Glossary.md#radiant-tones), but not anywhere near to the extent they themselves can become Lightkeepers themselves. It is likely only limited parts of [Radiant Tones](Glossary.md#radiant-tones) can be taught to someone without [The Gift](Lightkeep.md), unlike [attunement trainers](Attunement_Trainers.md) who can teach and give anyone access to their said [attunement](Attunement.md).
+Lightkeepers are capable of teaching others how to utilize the [Radiant Tones](Glossary.md#radiant-tones), but not anywhere near to the extent they themselves can become Lightkeepers themselves. It is likely only limited parts of [Radiant Tones](Glossary.md#radiant-tones) can be taught to someone without [The Gift](Lightkeep.md), unlike [attunement trainers](Attunement_Trainers.md) who can teach and give anyone access to their said [attunement](Attunements.md).
 
 ## Notable Figures
 

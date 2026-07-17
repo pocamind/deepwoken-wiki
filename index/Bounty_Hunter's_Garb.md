@@ -40,7 +40,7 @@ Variants: [Boots](<Bounty_Hunter's_Boots.md>)
 
 The Mercenary's Garb is an [Equipment](Equipment.md) item under the "Arms" category.
 
-The [Piercing Shot](Talents.md#piercing-shot) Talent grants a Talent tool that enhances your next critical attack made with any [Rifle](Rifles.md) or [Pistol](Pistols.md) weapon. Enhanced critical attacks have 100% chip damage and apply the [Pierced Armor](Status_Effects.md#pierced-armor) status effect for a few seconds, increasing incoming PEN. The [Kick Off](Talents.md#kick-off) Talent grants various bonuses to climbing and parkour.
+The [Piercing Shot](Talents.md#piercing-shot) Talent grants a Talent tool that enhances your next critical attack made with any Rifle or [Pistol](Pistols.md) weapon. Enhanced critical attacks have 100% chip damage and apply the [Pierced Armor](Status_Effects.md#pierced-armor) status effect for a few seconds, increasing incoming PEN. The [Kick Off](Talents.md#kick-off) Talent grants various bonuses to climbing and parkour.
 
 ## Set Talent
 

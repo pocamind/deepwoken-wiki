@@ -10,7 +10,7 @@ categories: [Books]
 
 ## Description
 
-_**Our Fortress (Of Smoke And Steel)**_ is a [Book](Book.md).
+_**Our Fortress (Of Smoke And Steel)**_ is a [Book](Books.md).
 
 ## Text
 

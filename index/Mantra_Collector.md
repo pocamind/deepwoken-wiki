@@ -17,7 +17,7 @@ notices:
 
 ― Mantra Collectors
 
-**Mantra Collectors** are NPCs that can be found in settlements that will purchase your [Mantra Modifiers](Mantra_Modifiers.md), [Gems](Gems.md), and attunement items such as [Dying Embers](Dying_Embers.md).
+**Mantra Collectors** are NPCs that can be found in settlements that will purchase your [Mantra Modifiers](Mantra_Modifiers.md), [Gems](Treasures.md), and attunement items such as [Dying Embers](Dying_Embers.md).
 
 ## Overview
 

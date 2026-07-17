@@ -52,7 +52,7 @@ The pommel strike has a 1.1x scaled damage multiplier and Dazes for 2.5 seconds.
 
 The critical has a cooldown of **4 seconds**.
 
-This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

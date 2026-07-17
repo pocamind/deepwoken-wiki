@@ -23,13 +23,13 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Klaris Llfiend, Mother of Lights, is a [Canor](Canor.md) NPC. She is a [Black Diver](Black_Divers_division.md) in charge of the expeditions to and from [The Eternal Gale](The_Eternal_Gale.md).
+Klaris Llfiend, Mother of Lights, is a [Canor](Canor.md) NPC. She is a [Black Diver](Black_Divers_division.md) in charge of the expeditions to and from [The Eternal Gale](Second_Layer.md).
 
 She is a young Canor who has long golden hair that end onto her shoulders. Two bangs rest on both sides of her face, reaching down to her upper chest. Her pupils glow white and have a "web" shape to it, and has vibrant yellow facial markings resembling lightning patterns. Above her head floating orb that resembles the [Moonseye](Moonseye.md), a sideffect of being a Dawnwalker. As a result of being the inventor/discoverer of the Radiant Tones she wears the standard [Black Diver](Black_Diver.md) outfit.
 
-Of the Divers, she is considered one of the strongest, along with [Chaser](Chaser.md) and [Akira](Akira.md).[\[1\]](#cite-note-1)
+Of the Divers, she is considered one of the strongest, along with [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and [Akira](Akira.md).[\[1\]](#cite-note-1)
 
-She is rather rude at times, frequently insulting those she views as weak, and is generally disliked by her fellow Divers.[\[2\]](#cite-note-2) She also appears rather arrogant, as she banished [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) to [New Kyrsa](New_Kyrsa,_The_Sleeping_City.md) for disagreeing with her and how she reacts to players under Power 10 talking to her.[\[3\]](#cite-note-3)
+She is rather rude at times, frequently insulting those she views as weak, and is generally disliked by her fellow Divers.[\[2\]](#cite-note-2) She also appears rather arrogant, as she banished [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) to [New Kyrsa](Second_Layer/New_Kyrsa.md) for disagreeing with her and how she reacts to players under Power 10 talking to her.[\[3\]](#cite-note-3)
 
 ## Shop
 

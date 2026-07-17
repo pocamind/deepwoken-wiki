@@ -24,7 +24,7 @@ notices:
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Hive Leader's Garment** is a Unique (Spec/Mod) [Outfit](Outfit.md) in _Deepwoken_.
+**Hive Leader's Garment** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Trivia
 

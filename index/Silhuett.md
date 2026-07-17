@@ -21,7 +21,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Silhuett is a [Capra](Capra.md) [NPC](NPC.md) who spawns randomly in the [First Layer](First_Layer.md), and is the first step towards obtaining the [Deepspindle](Deepspindle.md). In order to teleport to [The Understrand](The_Understrand.md), one must either use [Shadow Travel](Shadowcast.md) or use the [Shadow's Flight](<Shadow's_Flight.md>) item (craftable with 2 Void Feathers and 1 [Umbral Obsidian](Umbral_Obsidian.md)), near him. Upon doing so, you get sent to the Understrand where you can kill the [Ministry Agent](Ministry_Agent.md) and get the Deepspindle.
+Silhuett is a [Capra](Capra.md) NPC who spawns randomly in the [First Layer](First_Layer.md), and is the first step towards obtaining the [Deepspindle](Deepspindle.md). In order to teleport to [The Understrand](The_Understrand.md), one must either use [Shadow Travel](Shadowcast.md) or use the [Shadow's Flight](<Shadow's_Flight.md>) item (craftable with 2 Void Feathers and 1 [Umbral Obsidian](Umbral_Obsidian.md)), near him. Upon doing so, you get sent to the Understrand where you can kill the [Ministry Agent](Ministry_Agent.md) and get the Deepspindle.
 
 If the player has high Ally [Reputation](Reputation.md) with [The Ministry](The_Ministry.md), then they can convince the Ministry Agent to hand over the Deepspindle, Darkscorn Casque and Darkened Bastion without a fight, but only if they teleported to him through Silhuett.
 

@@ -22,7 +22,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Dapple-Horned Besul is a [Gremor](Gremor.md) [NPC](NPC.md). She is the leader of the Navaen settlement at Meteor Isle.
+Dapple-Horned Besul is a [Gremor](Gremor.md) NPC. She is the leader of the Navaen settlement at Meteor Isle.
 
 ## Location
 

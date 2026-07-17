@@ -25,22 +25,22 @@ categories: [Outfits, Unique Outfits, Outfits of The Central Authority, Outfits 
 | selling_price | 10 |
 | weight | 1 |
 
-_Not to be confused with [Authority Commander (NPC)](<Authority_Commander_(NPC).md>) or [Authority Commander Coat](Authority_Commander_Coat.md)._
+_Not to be confused with [Authority Commander (NPC)](<Authority_Commander_(Enemy).md>) or [Authority Commander Coat](Authority_Commander_Coat.md)._
 
   
-**Authority Commander** is a Unique [Outfit](Outfit.md) in _Deepwoken_. This Outfit is exclusive to the [Authority Ensign](Authority_Ensign.md) Origin.
+**Authority Commander** is a Unique [Outfit](Outfits.md) in _Deepwoken_. This Outfit is exclusive to the [Authority Ensign](Authority_Ensign.md) Origin.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 1,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), one (1) [Bounder Claw](Bounder_Claw.md), one (1) [Dark Feather](Dark_Feather.md), one (1) [Thresher Spine](Thresher_Spine.md), one (1) [Blessed Gem](Blessed_Gem.md), and five (5) [Vibrant Gems](Vibrant_Gem.md) to craft.
+This Outfit costs 1,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), one (1) [Bounder Claw](Bounder_Claw.md), one (1) [Dark Feather](Dark_Feather.md), one (1) [Thresher Spine](Thresher_Spine.md), one (1) [Blessed Gem](Blessed_Gem.md), and five (5) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted. This Outfit **cannot** be crafted unless you are an [Authority Ensign](Authority_Ensign.md).
 
 ### _Armor Stats_
 
-The Outfit has 2800 durability, grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +10% Blunt resistance ResistanceBlunt, +30% Elemental resistance [ResistanceElemental](Attunement.md), +10% Fire resistance [ResistanceFlamecharm](Flamecharm.md), and +20% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Riot Breaker](Talents.md#riot-breaker) Talent.
+The Outfit has 2800 durability, grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +10% Blunt resistance ResistanceBlunt, +30% Elemental resistance [ResistanceElemental](Attunements.md), +10% Fire resistance [ResistanceFlamecharm](Flamecharm.md), and +20% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Riot Breaker](Talents.md#riot-breaker) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 37% Blunt ResistanceBlunt, 30% Slash ResistanceSlash, 37% Flamecharm [ResistanceFlamecharm](Flamecharm.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
@@ -52,6 +52,6 @@ When paired with the [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), th
 
 -   On release, the Talent had no limit and gave a flat reduction to posture damage taken for each enemies, eventually becoming negative and restoring posture with each hit taken.
 -   This is a good Outfit for resisting blunt damage. Paired with the Talent, this armor is very strong for tank builds.
--   This outfit is worn by the [Authority Commander](<Authority_Commander_(NPC).md>) NPCs.
+-   This outfit is worn by the [Authority Commander](<Authority_Commander_(Enemy).md>) NPCs.
 -   Prior to the release of Duskguard, it was a Master Outfit that could be crafted by any play of any Origin. The schematic was not Soulbound and could be banked/traded.
     -   This is the only Outfit to undergo such a change.

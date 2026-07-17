@@ -13,13 +13,13 @@ categories: [Tools, Echo Unlockables]
 | usage | Used to mine ores. |
 | recipe | Iron x2 + Wood x2 |
 
-The **pickaxe** is a utility item that allows players to mine [ore](Ore.md) deposits by pressing E on them.
+The **pickaxe** is a utility item that allows players to mine [ore](Ores.md) deposits by pressing E on them.
 
 ## Obtainment
 
 The pickaxe can be obtained in two ways:
 
--   [Crafted](Crafting_Station.md) using two (2) [Iron](Iron.md) and [Wood](Wood.md).
+-   [Crafted](Crafting_Station.md) using two (2) [Iron](Ores.md#iron) and [Wood](Wood.md).
 -   Bought for free, for 3 or for 5 depending on the vendor.
 
 ## Locations
@@ -98,4 +98,4 @@ This pickaxe in the [First Layer](First_Layer.md) is located on a barrel in the 
 -   The recipe for the pickaxe will not appear in your recipe list unless you have crafted one.
 -   It takes roughly 3 seconds to mine an ore, and roughly 1.5 seconds with the [Excavator](Talents.md#excavator) Talent.
     -   To get the Excavator Talent you must turn in any 5 pure ores to a [Blacksmith](Blacksmith.md), excluding Pure Iron or Pure Gold.
--   You have a chance to mine a pure ore from any deposit except [Rock](Rock.md) or [Coal](Coal.md).
+-   You have a chance to mine a pure ore from any deposit except [Rock](Ores.md#rock) or [Coal](Ores.md#coal).

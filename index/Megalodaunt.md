@@ -40,11 +40,11 @@ There is a quest in Upper Erisia located at the entrance to the Garden Reservoir
 
 Seen mostly around the island of [Erisia](Erisia.md), the Megalodaunt is one of the first monsters, along with [Mudskippers](Mudskipper.md), that most new players will encounter. Players that are ill-equipped or lack insight on this monster are mostly likely going to succumb to it within seconds.
 
-Megalodaunts are naturally hostile to every other creature in _[The Etrean Luminant](Locations.md)_, and will attack them on sight for purposes both survival and territorial. They are never observed quarrelling with each other as of yet, though curiously enough, treats the Crimson Variant of Megalodaunt with extreme prejudice, mercilessly attacking them as if they are an 'outcast'.
+Megalodaunts are naturally hostile to every other creature in _The Etrean Luminant_, and will attack them on sight for purposes both survival and territorial. They are never observed quarrelling with each other as of yet, though curiously enough, treats the Crimson Variant of Megalodaunt with extreme prejudice, mercilessly attacking them as if they are an 'outcast'.
 
 Upon being slain, it drops [Megalodaunt Hide](Megalodaunt_Hide.md) and Mantra Modifiers, with a low chance of the modifiers being high-tier. It will also uncommonly drop [Umbral Obsidian](Umbral_Obsidian.md). On rare occasions, it may drop a [Megalodaunt Coral](Megalodaunt_Coral.md) or a [Megalodaunt Coat](Megalodaunt_Coat.md).
 
-In addition to be found wandering around various places or loitering around in selected caves and locations, they can also be lured with the use of a [Megalodaunt Bait](Megalodaunt_Bait.md).
+In addition to be found wandering around various places or loitering around in selected caves and locations, they can also be lured with the use of a [Megalodaunt Bait](Monster_Bait.md).
 
 ## Attacks
 
@@ -144,7 +144,7 @@ Dodge
 
 ### Passives
 
--   **Thick Hide** - Megalodaunts automatically extinguish [burn](Burn.md).
+-   **Thick Hide** - Megalodaunts automatically extinguish [burn](Status_Effects.md#burn).
 -   **Monster Resistance** - Has an innate ~25% resistance to physical hits.
 
 ## Finisher

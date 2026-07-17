@@ -22,7 +22,7 @@ notices:
 
 ## Description
 
-The Seafarer’s Chime was an item granted upon building your first [boat](Boats.md). It allowed you to spawn your boat anywhere, granted you are standing on solid ground and near water. In the April 6th, 2026 update, it was removed and was replaced by a keybind.
+The Seafarer’s Chime was an item granted upon building your first [boat](Ships_&_Sailing.md). It allowed you to spawn your boat anywhere, granted you are standing on solid ground and near water. In the April 6th, 2026 update, it was removed and was replaced by a keybind.
 
 ## Trivia
 

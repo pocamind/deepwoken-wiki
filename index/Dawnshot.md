@@ -41,9 +41,9 @@ Variants: [Duskshot](Duskshot.md)
 
 ## Description
 
-The Dawnshot is a midgame [Pistol](Pistol.md). It requires 40 Light Weapon to be used and has good overall stats for its midgame role. It can be upgraded with a [Pluripotent Alloy](Pluripotent_Alloy.md) to turn it into an endgame weapon and give it a slightly lighter hue
+The Dawnshot is a midgame [Pistol](Pistols.md). It requires 40 Light Weapon to be used and has good overall stats for its midgame role. It can be upgraded with a [Pluripotent Alloy](Pluripotent_Alloy.md) to turn it into an endgame weapon and give it a slightly lighter hue
 
-The Dawnshot's maximum [Bullet](Bullet.md) capacity is 4.
+The Dawnshot's maximum [Bullet](Bullets.md) capacity is 4.
 
 ## Critical
 

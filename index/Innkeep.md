@@ -19,7 +19,7 @@ categories: [NPCs, Vendors]
 
 ## Description
 
-The **Innkeep** is an [NPC](NPC.md) that allows the player to set their spawn at their given inns for 5. Having less than the required Notes or being at least an enemy of the housing faction, the Innkeep will deny the player's stay.
+The **Innkeep** is an NPC that allows the player to set their spawn at their given inns for 5. Having less than the required Notes or being at least an enemy of the housing faction, the Innkeep will deny the player's stay.
 
 There are currently 6 Innkeep allowing stay in these locations: [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Greathive Aratel](Greathive_Aratel.md), [Miner's Landing](<Miner's_Landing.md>), [Port Merit](Port_Merit.md), and [Summer Isle](Summer_Isle.md). [Meteor Isle](Meteor_Isle.md) has an Innkeep, however it's currently bugged and does not allow players to set their spawn on the island.
 

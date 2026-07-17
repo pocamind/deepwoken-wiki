@@ -26,19 +26,19 @@ categories: [Outfits, Unique Outfits, Outfits with Talents, Outfits with Exclusi
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Ferryman's Coat** is a Unique [Outfit](Outfit.md) in _Deepwoken_.
+**Ferryman's Coat** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 400 and requires seven (7) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), five (5) [Spark Glands](Spark_Gland.md), ten (10) [Vibrant Gems](Vibrant_Gem.md), and one (1) [Void Feather](Void_Feather.md) to craft.
+This Outfit costs 400 and requires seven (7) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), five (5) [Spark Glands](Spark_Gland.md), ten (10) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers), and one (1) [Void Feather](Dark_Feather.md#void-feather) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 12 to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 2500 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +5% Blunt Resisistance ResistanceBlunt, +35% Elemental resistance [ResistanceElemental](Attunement.md), +25% Lightning resistance [ResistanceThundercall](Thundercall.md), +5% Wind resistance [ResistanceGalebreathe](Galebreathe.md), and +50% Ether Regen [IconEther](Ether.md).
+This Outfit has 2500 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +5% Blunt Resisistance ResistanceBlunt, +35% Elemental resistance [ResistanceElemental](Attunements.md), +25% Lightning resistance [ResistanceThundercall](Thundercall.md), +5% Wind resistance [ResistanceGalebreathe](Galebreathe.md), and +50% Ether Regen [IconEther](Ether.md).
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28.75% Blunt ResistanceBlunt, 25% Slash ResistanceSlash, 51.25% Thundercall [ResistanceThundercall](Thundercall.md), 38.25% Galebreathe [ResistanceGalebreathe](Galebreathe.md), and 35% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md).
 

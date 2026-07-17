@@ -18,14 +18,14 @@ An esoteric place even the most pious of men are known to seek out, though all t
 
   
 
-**Temple of Hearts** is a [location](Locations.md) in _Deepwoken_. It is a bizarre underwater temple found underneath a cliff in [The Depths](The_Depths.md).
+**Temple of Hearts** is a location in _Deepwoken_. It is a bizarre underwater temple found underneath a cliff in [The Depths](The_Depths.md).
 
 ## Overview
 
 The Temple of Hearts can be entered in two ways:
 
 -   Opening the Resonance doors, which requires a [Resonance](Resonance.md).
--   Having the Deepbound [Origin](Origin.md), which grant access to an alternative entrance that only they can interact with.
+-   Having the Deepbound [Origin](Origins.md), which grant access to an alternative entrance that only they can interact with.
 
 Entering will lead the player into an overgrown hall decorated with underwater foliage and Deep Shrines on the sides.
 

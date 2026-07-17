@@ -26,19 +26,19 @@ categories: [Outfits, Master Outfits, Outfits with Talents, Outfits with Exclusi
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Darkened Bastion** is a Master [Outfit](Outfit.md) in _Deepwoken_.
+**Darkened Bastion** is a Master [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 1,000 and requires seven (7) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), five (5) [Umbral Obsidian](Umbral_Obsidian.md), ten (10) [Vibrant Gems](Vibrant_Gem.md), and one (1) [Void Feather](Void_Feather.md) to craft.
+This Outfit costs 1,000 and requires seven (7) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), five (5) [Umbral Obsidian](Umbral_Obsidian.md), ten (10) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers), and one (1) [Void Feather](Dark_Feather.md#void-feather) to craft.
 
 This Outfit also requires the player to be at least [Power](Power.md) 15 to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 2600 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunement.md), +20% Shadow resistance [ResistanceShadowcast](Shadowcast.md), +50% [Stealth](Stealth.md) [IconStealth](Stealth.md), +16 Sanity [IconSanity](Sanity.md), and +50% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Withering Soul](Talents.md#withering-soul) Talent.
+This Outfit has 2600 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), +20% Shadow resistance [ResistanceShadowcast](Shadowcast.md), +50% [Stealth](Stealth.md) [IconStealth](Stealth.md), +16 Sanity [IconSanity](Insanity.md), and +50% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Withering Soul](Talents.md#withering-soul) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 44% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 
@@ -46,5 +46,5 @@ The [Withering Soul](Talents.md#withering-soul) Talent makes your M1s deal 12.5%
 
 ## Trivia
 
--   One of the two Master outfits, the other being [Royal Etrean Guard](Royal_Etrean_Guard.md), that do not require a [Deep Gem](Deep_Gem.md) to be crafted.
+-   One of the two Master outfits, the other being [Royal Etrean Guard](Royal_Etrean_Guard.md), that do not require a [Deep Gem](Deep_Gems.md) to be crafted.
 -   This Outfit originally had Unique rarity, being changed to Master to make it droppable. For a brief period during 2025's Hallowtide event, it was changed back to Unique rarity to prevent [Glaive Spellhardt](Glaive_Spellhardt.md) from giving it to you.

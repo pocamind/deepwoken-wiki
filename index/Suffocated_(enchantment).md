@@ -18,9 +18,9 @@ categories: [Enchantments, Weapon Enchantments, Craftable]
 
 ## Description
 
-Suffocated is a [craftable](Crafting.md) debuffing [enchantment](Enchantment.md) that applies [Suffocation](Status_Effects.md#suffocation) on proc.
+Suffocated is a [craftable](Crafting_Recipes.md) debuffing [enchantment](Enchantments.md) that applies [Suffocation](Status_Effects.md#suffocation) on proc.
 
-This enchantment is crafted at the [Lost Forge](Lost_Forge.md) with 1 [Windswept](Windswept.md) Enchant Stone and 2 [Gale Essence](Gale_Essence.md).
+This enchantment is crafted at the [Lost Forge](Lost_Forge_of_Leiuna.md) with 1 [Windswept](Windswept.md) Enchant Stone and 2 [Gale Essence](Gale_Essence.md).
 
 ## Effect
 
@@ -28,5 +28,5 @@ Landing an uppercut, flourish, critical, or [offhand attack](Pistols.md) will ap
 
 ## Trivia
 
--   **If you have not defeated the [Kyrsgarde Champion](Kyrsgarde_Champion.md) on your character, this enchantment will not work and your weapon's damage will be voided.**
+-   **If you have not defeated the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>) on your character, this enchantment will not work and your weapon's damage will be voided.**
 -   This enchantment was originally going to be a Developer Spec before it was made publicly accessible during the [February 16th, 2026](Version_History/2026.md#february-16th-2026), as a part of Operation: Deep Healing.

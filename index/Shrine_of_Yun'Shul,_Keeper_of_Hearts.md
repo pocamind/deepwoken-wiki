@@ -16,7 +16,7 @@ categories: [Pathfinder Exclusive, NPCs, Layer 1, Oath Trainer]
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-_This is a page about a shrine dedicated to Yun’Shul. For the Drowned God, see [Yun'Shul](<Yun'Shul.md>)._
+_This is a page about a shrine dedicated to Yun’Shul. For the Drowned God, see [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>)._
 
 “ PLUCK OUT THINE EYES; TEAR OUT THINE THROAT; LAY WASTE TO ALL WHICH IS SACRED; THE MOONSEYE CONVERGES WITH THAT BELOW. ”
 
@@ -26,9 +26,9 @@ _This is a page about a shrine dedicated to Yun’Shul. For the Drowned God, see
 
 **The Shrine of Yun'Shul, Keeper of Hearts** is a shrine dedicated to the Drowned God [Yun'Shul, Keeper of Hearts](<Yun'Shul,_Keeper_of_Hearts.md>). It allows the player to use wishes to grant
 
-The shrine also acts as the penultimate step of obtaining the [Contractor](Contractor.md) [Oath](Oath.md); choosing the "What happened to this place?" dialogue option will enable the dialogue with [The Lord Regent](The_Lord_Regent.md) offering to join him.
+The shrine also acts as the penultimate step of obtaining the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md); choosing the "What happened to this place?" dialogue option will enable the dialogue with [The Lord Regent](The_Lord_Regent.md) offering to join him.
 
-Speaking with Yun'Shul will show another dialogue for getting the [Soulbreaker](Soulbreaker.md) [Oath](Oath.md) after meeting all requirements, the second to last step.
+Speaking with Yun'Shul will show another dialogue for getting the [Soulbreaker](Oath%253A_Soulbreaker.md) [Oath](Oaths.md) after meeting all requirements, the second to last step.
 
 It's possible to interact with the shrine at range using the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>). This will allow for one wish to be made and consume the item after usage. The item doesn't require a Resonance and will consume your wish if you have it; though, it can still be used without a wish - to get the most mileage out of it, you should be unable to obtain a wish from Yun'Shul's _shrine_ itself by the time you use it.
 
@@ -59,18 +59,18 @@ If you meet all the criteria, you are able to make one of seven wishes:
     -   **You can only make this wish once** per character.
         -   The [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) also has a once per character limit, but it is separate to the regular Yun'Shul wish.
 2.  **"My Flaws weigh me down too much, I wish for relief."**
-    -   Rerolls a chosen [Flaw](Flaws.md) for a random one. Has a small chance of replacing it with the [Vacant](Vacant.md) flaw.
-        -   Can be used to get rid of the [Tarnished](Tarnished.md) flaw.
+    -   Rerolls a chosen [Flaw](Boons_and_Flaws.md) for a random one. Has a small chance of replacing it with the [Vacant](Boons_and_Flaws.md#flaws) flaw.
+        -   Can be used to get rid of the [Tarnished](Boons_and_Flaws.md#flaws) flaw.
         -   **You can only make this wish once** per character. You can still, however, use Shrines.
-        -   Essentially useless, due to the [Shrine of Blasphemy](Shrine_of_Blasphemy.md) which does the exact same thing with less risks (you can't be given the Vacant flaw), and for only 5 Knowledge.
+        -   Essentially useless, due to the [Shrine of Blasphemy](Deep_Shrines/Shrine_of_Blasphemy.md) which does the exact same thing with less risks (you can't be given the Vacant flaw), and for only 5 Knowledge.
 3.  **"The Vows I made give me much regret, I wish to break them."**
     -   Erase all your active [Vows](Vows.md), including [Vow of Mastery](Vow_of_Mastery.md), whether it be for the master or the servant, and Vow of Allegiance.
 4.  **"The powers I have been granted displease me, I wish for new gifts."**
-    -   Erases your current [Resonance](Resonance.md), and draws 4 new Resonance cards (or 5, if you have a corrupted resonance, the 5th card being the corrupted resonance and the 4th one being the uncorrupted variant). The 4thcard will always be the same resonance you had, albeit rerolled; the variant may also be changed, such as when rerolling physical [Sacred Field](Sacred_Field.md) you will get the mantra version. Gives your Resonance the [Tarnished](Tarnished.md) Flaw unless you have [Soul Plasticity](Echoes.md#upgrades-unlocks-and-modifiers).
+    -   Erases your current [Resonance](Resonance.md), and draws 4 new Resonance cards (or 5, if you have a corrupted resonance, the 5th card being the corrupted resonance and the 4th one being the uncorrupted variant). The 4thcard will always be the same resonance you had, albeit rerolled; the variant may also be changed, such as when rerolling physical [Sacred Field](Sacred_Field.md) you will get the mantra version. Gives your Resonance the [Tarnished](Boons_and_Flaws.md#flaws) Flaw unless you have [Soul Plasticity](Echoes.md#upgrades-unlocks-and-modifiers).
 5.  **"For now I am one, but I wish to be three."**
-    -   If you meet the requirements, gives you the [Soulbreaker](Soulbreaker.md) Oath.
+    -   If you meet the requirements, gives you the [Soulbreaker](Oath%253A_Soulbreaker.md) Oath.
 6.  "**The Vows I made to keep an Oath no longer suit my ideals. I wish for a new path."**
-    -   Removes your current [Oath](Oath.md). Gives a disclaimer prior to breaking it, warning you that becoming an Oathbreaker has its own consequences. Upon breaking an Oath, you will receive a dialogue from your Oath-giver along with other potential consequences.
+    -   Removes your current [Oath](Oaths.md). Gives a disclaimer prior to breaking it, warning you that becoming an Oathbreaker has its own consequences. Upon breaking an Oath, you will receive a dialogue from your Oath-giver along with other potential consequences.
 7.  "**I wish for my Soul's Murmur to be highly strung no longer."**
     -   Your current [Murmur](Murmur.md) will be removed without any further notice or opportunity for confirmation. This action can be done multiple times but will cost you your Murmur and a wish. You can still regain the same Murmur afterwards (Murmur: Rhythm is currently bugged and you **CAN'T** get it again after removing it).
     -   If you wipe after your Murmur is removed, you won't receive the Echoes for having it. You'll need to reobtain a Murmur to complete this Echo Triumph.
@@ -109,9 +109,9 @@ This dialogue is unlocked if the player meets the requirements to obtain [Oath: 
 
 ## Trivia
 
--   Originally, only [Oathless](Oathless.md) could be removed, and it had differing dialogue: _"The Vow I made to never take up an Oath no longer matches my ambitions. I wish for a new path."_
+-   Originally, only [Oathless](Oath%253A_Oathless.md) could be removed, and it had differing dialogue: _"The Vow I made to never take up an Oath no longer matches my ambitions. I wish for a new path."_
 -   The maximum amount of Wishes a player can carry at any given time is 197. You can purchase Wishes from [Misérables](Misérables.md), however the price ramps up, costing 15 Knowledge initially with every stacking Wish costing the previous price + 5 Knowledge (e.g. 15 -> 20 -> 25 -> 30, stacking a mere 4 wishes has cost you a total of 90 Knowledge). Wish 197 costs 995 Knowledge, making 198 Wishes not possible, as it'd require you to go past the Knowledge cap.
     -   This would require a combined total of ~99,485 Knowledge.
--   [Yun'Shul](<Yun'Shul.md>) is one of three confirmed Drowned Gods so far, along with [Korilfiend](Korilfiend.md), the Drowned God of Fire, and [Ethiron](Ethiron.md), the Drowned God of Sky and Pressure.
+-   [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) is one of three confirmed Drowned Gods so far, along with [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), the Drowned God of Fire, and [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), the Drowned God of Sky and Pressure.
 -   There is an [Enchantment](<Curse_of_Yun'Shul.md>) named after Yun'Shul, the Curse of Yun'Shul.
--   Oathbreaking while having equipped an weapon that you dont have requirements of will result on that weapon being unequiped and automatically being swapped by a [Sword](Sword.md) even if you don't have it on your inventory.
+-   Oathbreaking while having equipped an weapon that you dont have requirements of will result on that weapon being unequiped and automatically being swapped by a [Sword](<Sword_(weapon).md>) even if you don't have it on your inventory.

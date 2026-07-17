@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 
 ## Description
 
-Curse of Repulsion is a curse [enchantment](Enchantment.md) that pushes away your opponent when you block their attacks.
+Curse of Repulsion is a curse [enchantment](Enchantments.md) that pushes away your opponent when you block their attacks.
 
 ## Effect
 

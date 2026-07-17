@@ -20,7 +20,7 @@ Woven memories split and fray before you. This is where their story ends.
 
   
 
-**Cerebral Requiem** is a [location](Locations.md) in _Deepwoken_. It is a sub-location in [The Throne of Lies](The_Throne_of_Lies.md).
+**Cerebral Requiem** is a location in _Deepwoken_. It is a sub-location in [The Throne of Lies](The_Throne_of_Lies.md).
 
 ## Overview
 

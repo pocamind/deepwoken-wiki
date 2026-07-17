@@ -23,7 +23,7 @@ This content is not accessible outside of this gamemode.
 
 Mercille is a [Vesperian](Vesperian.md) NPC that's part of [The Summer Company](The_Summer_Company.md). They're on a team mission with [The Guy](The_Guy.md), [Sierra](Sierra.md) and [Prentis](Prentis.md). They shares a common dislike for The Guy with Prentis and Sierra.
 
-You can turn sacks found in [Starswept Valley](Starswept_Valley.md) and [Bluster Rift](Bluster_Rift.md) to them for a chest, much like the Summer Company's explosive crates found on [Summer Isle](Summer_Isle.md) that can be delivered back to [Scope](Scope.md). Doing so will grant a normal Starswept Valley chest as well as some Summer Company reputation.
+You can turn sacks found in [Starswept Valley](The_Starswept_Valley.md) and [Bluster Rift](Bluster_Rift.md) to them for a chest, much like the Summer Company's explosive crates found on [Summer Isle](Summer_Isle.md) that can be delivered back to [Scope](Scope.md). Doing so will grant a normal Starswept Valley chest as well as some Summer Company reputation.
 
 ## Location
 

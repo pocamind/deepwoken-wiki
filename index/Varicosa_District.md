@@ -16,7 +16,7 @@ It's sometimes mused that the greed, excess, and petty politics of those in this
 
   
 
-**Varicosa District** is a [location](Locations.md) in _Deepwoken_. It is a landmark in [The City of the Drowned](The_City_of_the_Drowned.md).
+**Varicosa District** is a location in _Deepwoken_. It is a landmark in [The City of the Drowned](The_City_of_the_Drowned.md).
 
 ## Overview
 

@@ -31,7 +31,7 @@ Shoulder to shoulder, together, tall! ”
 
 During the [Etrean Civil War](Etrean_Civil_War.md), the Union attacked the [Etrean Royalists](Etrean_Royalists.md)' forces in order to claim their land for their own. They converted the area into the mountainous [Miner's Landing](<Miner's_Landing.md>), located in the Eastern Luminant. Additionally, they have established two field bases in the Depths: [The Chariot's Spire](<The_Chariot's_Spire.md>) in [Scyphozia](First_Layer.md) and [The Frontier Furnace](The_Frontier_Furnace.md) in the first floor of the [Eternal Gale](Second_Layer.md).
 
-They are responsible for producing weapons such as the [Ignition Deepcrusher](Ignition_Deepcrusher.md) and the [Boltcrusher](Boltcrusher.md) along with the [Railblade](Railblade.md), as well as technologies such as the [Arc Suit](Oath%253A_Arcwarder.md) and [Union Pager](Union_Pager.md).
+They are responsible for producing weapons such as the [Ignition Deepcrusher](Ignition_Deepcrusher.md) and the [Boltcrusher](Boltcrusher.md) along with the [Railblade](Railblade.md), as well as technologies such as the [Arc Suit](Oath%253A_Arcwarder.md) and [Union Pager](Ignition_Delver.md).
 
 They are one of the three factions contracted by [The Central Authority](The_Central_Authority.md) alongside [The Divers](The_Divers.md) and [The Summer Company](The_Summer_Company.md). The Ignition Union are specifically tasked with going into the Depths and "killing anything that crawls out". However, the Union do not view the employers favorably and would rather not see them attain greater power.[\[1\]](#cite-note-1)
 

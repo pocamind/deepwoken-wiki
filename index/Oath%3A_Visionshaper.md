@@ -21,7 +21,7 @@ _For the version that existed prior to the 13th September, 2024, see [here](Oath
 
 ## Description
 
-**[Oath](Oath.md): Visionshaper** is one of the 17 obtainable Oaths in _Deepwoken_. It allows one to utilize the power of illusions with a pact made with [The Nestmind](The_Nestmind.md) to quickly and effectively overwhelm their enemies in various ways. It is the opposing Oath to [Blindseer](Blindseer.md).
+**[Oath](Oaths.md): Visionshaper** is one of the 17 obtainable Oaths in _Deepwoken_. It allows one to utilize the power of illusions with a pact made with [The Nestmind](The_Nestmind.md) to quickly and effectively overwhelm their enemies in various ways. It is the opposing Oath to [Blindseer](Oath%253A_Blindseer.md).
 
 “ Things aren't always what they seem, little mouse... In time, you may pretend to be one of us, use abilities inherent to my kind... And you may do with these as you please, but are you prepared to pay the toll? ”
 
@@ -32,8 +32,8 @@ Visionshaper as an ability is the power to make illusions reality, one granted b
 ## Obtainment
 
 -   Meet the following requirements:
-    -   50 [Charisma](Charisma.md)
-    -   Complete [Aelita's Encounter](Aelita.md), found in [Valley of Heroes](Valley_of_Heroes.md) when it's not winter, at least once. (If done in winter 6 [Blizzard Knights](Stone_Knight.md) will spawn instead.)
+    -   50 [Charisma](Attributes.md#cha)
+    -   Complete [Aelita's Encounter](Aelita.md), found in [Valley of Heroes](The_Valley_of_Heroes.md) when it's not winter, at least once. (If done in winter 6 [Blizzard Knights](Stone_Knight.md) will spawn instead.)
     -   Have a [Dark Feather](Dark_Feather.md) in your possession
 -   Find Surge, located inside the [Deep Widow](Deep_Widow.md) Cave in [The Depths](The_Depths.md).
     
@@ -47,11 +47,11 @@ Visionshaper as an ability is the power to make illusions reality, one granted b
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/CU80syZAJmY)._
 
-_Visionshaper **can** be reobtained if you [Oathbreak](Oathbreak.md) it, costing you an additional [Dark Feather](Dark_Feather.md)._
+_Visionshaper **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it, costing you an additional [Dark Feather](Dark_Feather.md)._
 
 ## Progression
 
-To progress Visionshaper, [Void Feathers](Void_Feather.md) must be brought to [Surge](Surge.md) to unlock all mantras and Talents, 5 Void Feathers are needed to completely progress the Oath, taking 16 Dark Feathers to if only crafting Void Feathers. Or complete the [Carnival of Hearts](Carnival_of_Hearts.md).
+To progress Visionshaper, [Void Feathers](Dark_Feather.md#void-feather) must be brought to [Surge](Surge.md) to unlock all mantras and Talents, 5 Void Feathers are needed to completely progress the Oath, taking 16 Dark Feathers to if only crafting Void Feathers. Or complete the [Carnival of Hearts](Carnival_of_Hearts.md).
 
 -   Void Feathers can be crafted using 3 [Dark Feathers](Dark_Feather.md) and 1 [Umbral Obsidian](Umbral_Obsidian.md). Non-Corrupted [Deep Owls](Deep_Owl.md) can also rarely drop Void Feathers.
 -   Alternatively you may spend 10 to immediately max out the Oath (Only if you logged in on a slot with maxed out Visionshaper after the April 26th, 2024 update).
@@ -177,7 +177,7 @@ TBA
 
 **Effect:** _Windup of 0.5 seconds, spawns an illusory clone, grants user invisibility + I-frames for 0.2 seconds._
 
--   The last non-[Visionshaper](Visionshaper.md) mantra or critical attack you used before spawning your clone will be saved.
+-   The last non-[Visionshaper](Oath%253A_Visionshaper.md) mantra or critical attack you used before spawning your clone will be saved.
 -   Cancelling an attack will still count as "using it", causing the clone to store feinted/interrupted moves.
 -   The name of currently stored attacks is written above the clone's head in white text with a purple outline. (Clears on use)
 -   The [modifiers](Mantra_Modifiers.md) of mantras will be copied.
@@ -225,7 +225,7 @@ TBA
 **Effect:** _Ready a stance for a brief moment. If hit during the stance, negate the attack, swap places with your opponent, and spawn a Visionshaper Clone on the right side of your opponent._
 
 -   The counter animation plays before the actual counter is activated, which may result in you being hit "during the counter".
--   Can be modified with a [Reversal Spark](Reversal_Spark.md) which spawns a clone of your opponent, similar to Mirror Illusion.
+-   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks) which spawns a clone of your opponent, similar to Mirror Illusion.
 -   User can't move while using Illusory Counter.
 
  |
@@ -310,17 +310,17 @@ TBA
 
 ## Trivia
 
--   The Mental Fortress [Talent](Talent.md), [Disbelief](Talents.md#disbelief), only affects Illusory Servants, reducing the amount of time they last by half.
+-   The Mental Fortress [Talent](Talents.md), [Disbelief](Talents.md#disbelief), only affects Illusory Servants, reducing the amount of time they last by half.
 -   [Sudaruska's Fury](Gran_Sudaruska.md) counts as a non-Oath mantra, and can be used by your Shaper Clone, under the name "IceStorm".
--   If you use Mirror Illusion on an enemy using a [Worn Songbook](Worn_Songbook.md), the clone will imitate it and use the same instrument and song.
+-   If you use Mirror Illusion on an enemy using a [Worn Songbook](Instruments.md#worn-songbook), the clone will imitate it and use the same instrument and song.
 -   Using Illusory Counter with its Reversal Spark can allow for some interesting interactions in PvE, as it's the only way to clone non-humanoid mobs and bosses.
     -   When cloning non-humanoid mobs, they'll T-pose and won't be able to move or attack. It's more of a funny interaction rather than something you can actively use in combat, especially when someone clones the [Heart of Enmity](Heart_of_Enmity.md) or some other very large mob.
     -   When cloning humanoid [bosses](Bosses.md), it allows you to see the internal name for the ability they used last. For example, [Duke Erisia's](Duke_Ishamon_Erisia.md) Aero Spear ability is named DukeBlast and his Strong Left-like attack is named DukePunch. You can of course use Reality Shift to make the boss clones use their copied boss abilities.
 -   Back when Talent categories had unique lines, the category line for Visionshaper was "I speak to the Owls."
--   This Oath was created by Dexerius, along with [Arcwarder](Arcwarder.md), [Blightsurger](Blightsurger.md), and [Saintsworn](Saintsworn.md).[\[1\]](#cite-note-1)
+-   This Oath was created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md), [Blightsurger](Oath%253A_Blightsurger.md), and [Saintsworn](Oath%253A_Saintsworn.md).[\[1\]](#cite-note-1)
     -   Dexerius was thought to have taken inspiration from Naruto for Visionshaper, notably the Shadow Clone Jutsu and Genjutsu from the series, but this was proven false.
 
--   On 20th of September 2024, Visionshaper received a rework that removed Illusory Realm for Mirror Illusion, and changed the behavior of Shaper Clones. If you had a slot that had Visionshaper pre-removal of Illusory Realm, your Illusory Realm would be replaced with the [Disguise](Disguise.md) Mantra.
+-   On 20th of September 2024, Visionshaper received a rework that removed Illusory Realm for Mirror Illusion, and changed the behavior of Shaper Clones. If you had a slot that had Visionshaper pre-removal of Illusory Realm, your Illusory Realm would be replaced with the [Disguise](Attunement-less.md#disguise) Mantra.
 
 ## References
 

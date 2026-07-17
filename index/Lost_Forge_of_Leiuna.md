@@ -42,7 +42,7 @@ Additionally, only one forge weapon can be crafted per slot, and killing the Par
 | [Red Death](Red_Death.md) | [Black Death](Black_Death.md) |
 | [Light's Final Toll](<Light's_Final_Toll.md>) | [Withered Death Knell](Withered_Death_Knell.md) |
 | [Pale Morning](Pale_Morning.md) | [Withered Gale Pale](Withered_Gale_Pale.md) |
-| [Alloyed Katana](Alloyed_Katana.md) | [Withered Phantomcleave](Withered_Phantomcleave.md) |
+| [Alloyed Katana](Katana.md) | [Withered Phantomcleave](Withered_Phantomcleave.md) |
 
 ## Craftable Items
 
@@ -66,7 +66,7 @@ Use **CTRL + F** to search for a specific item.
 1x [Windswept](Windswept.md) [Enchant Stone](Enchant_Stone.md) |
 | [Suffocated](<Suffocated_(enchantment).md>) [Enchant Stone](Enchant_Stone.md) | 2x [Gale Essence](Gale_Essence.md)  
 1x [Windswept](Windswept.md) [Enchant Stone](Enchant_Stone.md) |
-| 999x [Gale Bullet](Gale_Bullet.md) | 1x [Bullet](Bullet.md)  
+| 999x [Gale Bullet](Bullet_Casings.md#gale) | 1x [Bullet](Bullets.md)  
 1x [Gale Essence](Gale_Essence.md) |
 | [Frost Ring](Frost_Ring.md) | 1x [Heavy Hands Ring](Heavy_Hands_Ring.md)  
 1x [Frost Essence](Frost_Essence.md) |
@@ -81,7 +81,7 @@ Use **CTRL + F** to search for a specific item.
 | [Vaporfrost Earrings](Vaporfrost_Earrings.md) | 1x [Dew Drop Earrings](Dew_Drop_Earrings.md)  
 5x [Frigid Prism](Frigid_Prism.md)  
 1x [Frost Essence](Frost_Essence.md) |
-| 999x [Frost Bullet](Frost_Bullet.md) | 1x [Bullet](Bullet.md)  
+| 999x [Frost Bullet](Bullet_Casings.md#frost) | 1x [Bullet](Bullets.md)  
 1x [Frost Essence](Frost_Essence.md) |
 | [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md) | 1x [Giant Femur](Giant_Femur.md)  
 1x [Dread Serpent's Tooth](<Dread_Serpent's_Tooth.md>)  

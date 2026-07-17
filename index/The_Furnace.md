@@ -16,7 +16,7 @@ Heat rises beneath the hall, exacerbating the exhaustion of conflict.
 
   
 
-**The Furnace** is a [Location](Locations.md) in _Deepwoken_. It is under the [Summer Isle](Summer_Isle.md) Castle.
+**The Furnace** is a Location in _Deepwoken_. It is under the [Summer Isle](Summer_Isle.md) Castle.
 
 ## Description
 
@@ -32,7 +32,7 @@ Jarvis
 
 ### Mag
 
-[Mag](Mag.md) will encase bullets in [Ore](Ore.md) to apply unique effects onto them.
+[Mag](Mag.md) will encase bullets in [Ore](Ores.md) to apply unique effects onto them.
 
 #### _Brawling Arena_
 

@@ -30,5 +30,5 @@ A large round yellow fruit. Commonly found on trees at [Etris](Etris.md) and [Fo
 
 ### Used in
 
--   [Candied Fruit](Candied_Fruit.md) - 2 Pomar and 1 [Sap](Sap.md) at a [Campfire](Campfire.md).
+-   [Candied Fruit](Candied_Fruit.md) - 2 Pomar and 1 [Sap](Sap.md) at a [Campfire](Campfire_Pit.md).
 -   [Fruit Salad](Fruit_Salad.md) - 1 Pomar and 2 other [Fruits](Ingredients.md#fruits), no Campfire required.

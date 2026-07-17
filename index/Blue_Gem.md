@@ -23,7 +23,7 @@ categories: [Treasures, Mantras, Deep Gems]
 
 ## Description
 
-The **Blue Gem** is a dark blue diamond-shaped [Deep Gem](Deep_Gem.md).
+The **Blue Gem** is a dark blue diamond-shaped [Deep Gem](Deep_Gems.md).
 
 ## Effect
 

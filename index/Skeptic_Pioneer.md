@@ -23,18 +23,18 @@ categories: [Outfits, Starter Outfits, Outfits with Talents, "Outfits with Non-e
 | selling_price | 10 |
 | weight | 1 |
 
-**Skeptic Pioneer** is a Starter [Outfit](Outfit.md) in _Deepwoken_.
+**Skeptic Pioneer** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 25 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Crystal Lens](Crystal_Lens.md) to craft.
+This Outfit costs 25 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Crystal Lens](Mantra_Modifiers.md#regular-modifiers) to craft.
 
 This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-This Outfit has 1200 durability, grants +12% Physical resistance ResistanceBlunt ResistanceSlash, and +12% Elemental resistance [ResistanceElemental](Attunement.md). Additionally, it provides the [Apothecary](Talents.md#apothecary) Talent.
+This Outfit has 1200 durability, grants +12% Physical resistance ResistanceBlunt ResistanceSlash, and +12% Elemental resistance [ResistanceElemental](Attunements.md). Additionally, it provides the [Apothecary](Talents.md#apothecary) Talent.
 
 The [Apothecary](Talents.md#apothecary) Talent causes potions that benefit the player have +125% potency. This potency is additive to potency from Intelligence investment.

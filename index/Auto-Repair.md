@@ -20,7 +20,7 @@ notices:
 
 ## Description
 
-Auto-Repair is a [Cut Content](Cut_Content.md) equipment [enchantment](Enchantment.md) that had an unknown effect.
+Auto-Repair is a [Cut Content](Cut_Content.md) equipment [enchantment](Enchantments.md) that had an unknown effect.
 
 ## Effect
 

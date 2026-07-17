@@ -52,13 +52,13 @@ On critical, consume all of your [Chain of Perfection](Talents.md#metamancer) to
 
 The first 5 hits that normally do not grant Perfection stacks contributes to this damage bonus, stacking up to 150 PvP damage or 3.5k PvE damage at max stacks.
 
-This effect can be procced on [Motif](Motif.md) and [enchant](Enchantments.md)\-granted criticals and has no cooldown. This effect does not change if your Messer is alloyed.
+This effect can be procced on [Motif](Motifs.md) and [enchant](Enchantments.md)\-granted criticals and has no cooldown. This effect does not change if your Messer is alloyed.
 
 ## Critical
 
 Messer uses the default Sword critical, a piercing stab. It has a scaled damage multiplier of **1.2x** and a cooldown of **3 seconds**. It deals **3x** the weapon's posture stat as posture damage.
 
-This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

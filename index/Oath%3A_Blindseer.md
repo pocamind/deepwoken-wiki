@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oath.md): Blindseer** is one of the 17 obtainable Oaths in _Deepwoken._ The Oath is based around utility and uses sanity as its resource. It can serve many useful and potentially life-saving purposes in combat and in [The Depths](The_Depths.md). It is the opposing Oath to [Visionshaper](Visionshaper.md).
+**[Oath](Oaths.md): Blindseer** is one of the 17 obtainable Oaths in _Deepwoken._ The Oath is based around utility and uses sanity as its resource. It can serve many useful and potentially life-saving purposes in combat and in [The Depths](The_Depths.md). It is the opposing Oath to [Visionshaper](Oath%253A_Visionshaper.md).
 
 ## Obtainment
 
@@ -27,21 +27,21 @@ categories: [Oaths]
 
 -   Meet the following requirements:
     -   Have 40 Willpower
-    -   Have the 3 Talents from the [Mental Fortress](https://deepwoken.fandom.com/wiki/Talents#Mental_Fortress) set: **Breathing Exercise**, **Conquer your Fears** and **Disbelief** from Talent rolls, not equipment. (You can reroll these into different talents at the [Shrine of Chance](Shrine_of_Chance.md) once you obtain the oath)
+    -   Have the 3 Talents from the [Mental Fortress](https://deepwoken.fandom.com/wiki/Talents#Mental_Fortress) set: **Breathing Exercise**, **Conquer your Fears** and **Disbelief** from Talent rolls, not equipment. (You can reroll these into different talents at the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md) once you obtain the oath)
     -   Be blind through the **Blinded** Talent from Blindfolds.
 -   Head to [Lower Erisia](Lower_Erisia.md) and make your way to the village past the camp in the ruins.
--   Above Path's Respite lies the [Temple of the Forgotten Flame](Temple_of_the_Forgotten_Flame.md). Climb up the wall bordering the village to reach it.
+-   Above Path's Respite lies the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). Climb up the wall bordering the village to reach it.
 -   Climb above the temple doors or go through them if they are open and proceed inside the temple.
     -   Watch out for the [Watcher](Watcher.md) guarding the temple, as they will spawn a [Hollow Angel](Hollow_Angel.md) if they catch sight of you. Once inside the temple, proceed through a passage on the left.
 -   Inside the room, interact with the [Blindseer Glyph](<%253F%253F%253F_(Blindseer_Glyphs).md>) while blind either from the Blind flaw or from a [Blindfold](Blindfold.md) (any other glyphs cannot be used to obtain the oath)
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/F7yoFW0rlME)._
 
-_Blindseer **can** be reobtained if you [Oathbreak](Oathbreak.md) it._
+_Blindseer **can** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---oath-removal) it._
 
 ## Progression
 
-To progress the Oath and obtain the Blindseer Mantras, you need to help Pathfinders, players who lack an Oath, in the [Depths Trial](Depths_Trial.md). The first Mantra is unlocked after the first successful trial, the second at 3, and the last at 5. A passive Talent is also obtained after four trials (you can quickly leave three seconds after the Voice of Authority starts talking). Do note that helping people who have [Oathless](Oathless.md) will not grant progression.
+To progress the Oath and obtain the Blindseer Mantras, you need to help Pathfinders, players who lack an Oath, in the [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation). The first Mantra is unlocked after the first successful trial, the second at 3, and the last at 5. A passive Talent is also obtained after four trials (you can quickly leave three seconds after the Voice of Authority starts talking). Do note that helping people who have [Oathless](Oath%253A_Oathless.md) will not grant progression.
 
 Blindseer will only progress if you are faced with a trial. If both the Blindseer and the Pathfinder are low enough level to not receive a trial, you will not gain Blindseer progression.
 
@@ -146,7 +146,7 @@ Oath [ResistanceOath](Oaths.md)
 -   Deals bonus damage to any monsters from the Depths family (Gigameds, Crustaceous Rex, Nautilodaunt, Enforcer).
     -   Nautilodaunts and Enforcers are very likely to just block the entire beam. It is advised to get a friend to distract them.
 -   You can run during the windup, but can only walk while the beam is active.
--   Getting hit by a [Vent](Vent.md) while using Sightless Beam cancels it.
+-   Getting hit by a [Vent](Combat_Mechanics.md#tempo) while using Sightless Beam cancels it.
 
  |
 
@@ -218,7 +218,7 @@ Obtained with the Oath
 
 -   Has a 60 second cooldown.
 -   Allies include Guildmates, Roblox friends, and those with whom you share a Vow of Mastery or Vow of Allegiance with.
--   Casting Mindsoothe on an ally who is acted by [Charm](Status_Effects.md#charm), [Taunt](Status_Effects.md#taunt), or [Dazed](Status_Effects.md#dazed) will clear the effect from them. Additionally, casting Mindsoothe on an ally who is being targetted by a [Visionshaper](Visionshaper.md) clone will cause the clone to despawn.
+-   Casting Mindsoothe on an ally who is acted by [Charm](Status_Effects.md#charm), [Taunt](Status_Effects.md#taunt), or [Dazed](Status_Effects.md#dazed) will clear the effect from them. Additionally, casting Mindsoothe on an ally who is being targetted by a [Visionshaper](Oath%253A_Visionshaper.md) clone will cause the clone to despawn.
 -   The sanity cost is only deducted on a successful heal.
 -   Hold block during the cast animation to heal everyone in range, regardless of ally status.
 -   Doesn't work on NPCs.
@@ -262,16 +262,16 @@ N/A
 -   Bosses are immune to the silencing aspect.
 -   While inside the circle, gain total immunity to Mantra damage and to the effects of the [Gravity Field](Gravity_Field.md) Resonance.
 -   This is one of the few sources of Monster Armor and Damage vs Monsters, making it exceptionally useful for M1 PvE builds.
--   Shares a cooldown with [Devouring Eye](Devouring_Eye.md).
--   Can be modified with a [Magnet Spark](Magnet_Spark.md). This makes the circle much smaller but makes it follow the user.
+-   Shares a cooldown with [Devouring Eye](Shadowcast.md#devouring-eye).
+-   Can be modified with a [Magnet Spark](Mantra_Modifiers.md#sparks). This makes the circle much smaller but makes it follow the user.
 
  |
 
 ## Notes
 
 -   **Blindseer Mantras don't scale with Willpower at all.**
--   Having the [Blind](Blind.md) Flaw removes the Blindfold requirement, and is essentially a free boon point with this oath.
--   While you don't need to keep the Blindfold equipped after obtaining the Oath, having the _Blinded_ Talent grants immunity to abilities like [Gaze](Gaze.md) and [Flame Blind](Flame_Blind.md). The [Blind](Blind.md) flaw also grants this effect.
+-   Having the [Blind](Boons_and_Flaws.md#flaws) Flaw removes the Blindfold requirement, and is essentially a free boon point with this oath.
+-   While you don't need to keep the Blindfold equipped after obtaining the Oath, having the _Blinded_ Talent grants immunity to abilities like [Gaze](Attunement-less.md#gaze) and [Flame Blind](Flamecharm.md#flame-blind). The [Blind](Boons_and_Flaws.md#flaws) flaw also grants this effect.
 -   Well-suited Oath for PvE.
 -   Pairs well with Lose Your Mind, a Talent that makes you deal more damage the more insane you are.
 -   You can reroll the Mental Fortress Talents and still keep the Oath.
@@ -285,7 +285,7 @@ N/A
     -   The glyph on the wall also can be found in one of the prison cells in the [Lightkeeper Temple](Lightkeeper_Temple.md), the glyph also stating about how to progress the Blindseer Oath.
     -   Interestingly, other glyphs don't say this, therefore this is the only way of figuring out how to progress Blindseer if it isn't through sheer luck from trying different things.
 -   [Vesperians](Vesperian.md) with this Oath do not have a glowing Blindseer eye, and instead have blue three dimensional markings on the outside of their mask, with an eye-like shape formed at the top. However, they used to be seen with a gold and black mask similiar to the mask on the statue in [The Lordsgrove](The_Lordsgrove.md).
--   If you do not have the [Blind](Blind.md) Flaw and you unequip your face accessory while having Blindseer, you'll be _visually_ given a dark yellow-ish blindfold that cannot be dyed nor unequipped. This blindfold has no stats nor Talents and cannot have its visual toggled.
+-   If you do not have the [Blind](Boons_and_Flaws.md#flaws) Flaw and you unequip your face accessory while having Blindseer, you'll be _visually_ given a dark yellow-ish blindfold that cannot be dyed nor unequipped. This blindfold has no stats nor Talents and cannot have its visual toggled.
 -   The symbol is most likely inspired by the Eye of the Kirin Tor from World of warcraft
 -   Going in first person counts as yourself being invisible for All-Seeing Eye, as your character is not rendered in. If you look downwards while in first person, you will see the All-Seeing Eye vfx, and it will project light onto the surfaces around you.
 -   As stated in an interview with the owner of the game, Raguza, he got the inspiration for Blindseer when he was cosplaying Lee Sin stating 'I could suddenly see the truths of the world' upon wearing his blindfold.

@@ -27,13 +27,13 @@ categories: [Equipment with Styles, Equipment, Torso, Necklaces, Relics, Equipme
 
 ## Description
 
-The Warmaster's Medallion is a [Relic](Relic.md) [Equipment](Equipment.md) item under the "Torso" category.
+The Warmaster's Medallion is a [Relic](Relics.md) [Equipment](Equipment.md) item under the "Torso" category.
 
 The [Actions Speak Louder](Talents.md#actions-speak-louder) Talent reduces the cooldown of your weapon's critical attack by 20%, but increases the cooldown of your [Resonance](Resonance.md) by 20%. In areas where you cannot use your Resonance ([Chime of Conflict](Chime_of_Conflict.md)), your critical attack cooldown will be reduced by 10% instead.
 
 ## Trivia
 
--   The second (or third) equippable [Relic](Relic.md), released after [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) and at the same time as [Tiran Pendant](Tiran_Pendant.md).
+-   The second (or third) equippable [Relic](Relics.md), released after [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) and at the same time as [Tiran Pendant](Tiran_Pendant.md).
 -   Many elements, namely the four-pronged stars in the medallion, share motifs with the [Circle of Honour](Circle_of_Honour.md).
     -   Though the Authority shares no correlation with Warmasters, three emblems can be seen outside of the attachment.
 -   Has virtually no downside on slots with the Dissonant [echo modifier](Echoes.md).

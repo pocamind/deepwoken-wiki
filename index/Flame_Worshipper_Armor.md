@@ -25,19 +25,19 @@ categories: [Outfits, Adept Outfits, The Covenant of Flame, Outfits with Talents
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Flame Worshipper Armor** is an Adept [Outfit](Outfit.md) in _Deepwoken_.
+**Flame Worshipper Armor** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 30 and requires four (4) [Cloth](Cloth.md), four (4) [Fiber](Fiber.md), and two (2) [Iron](Iron.md) to craft.
+This Outfit costs 30 and requires four (4) [Cloth](Cloth.md), four (4) [Fiber](Fiber.md), and two (2) [Iron](Ores.md#iron) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 5 to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, +5% Elemental resistance [ResistanceElemental](Attunement.md), and +25% Fire resistance [ResistanceFlamecharm](Flamecharm.md). Additionally, it provides the [Intrepid Flame](Talents.md#intrepid-flame) and [One With Flame](Talents.md#one-with-flame) Talents.
+This Outfit has 1000 durability, grants +10% Physical resistance ResistanceBlunt ResistanceSlash, +5% Elemental resistance [ResistanceElemental](Attunements.md), and +25% Fire resistance [ResistanceFlamecharm](Flamecharm.md). Additionally, it provides the [Intrepid Flame](Talents.md#intrepid-flame) and [One With Flame](Talents.md#one-with-flame) Talents.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 10% Physical ResistanceBlunt ResistanceSlash, 28.75% Flamecharm [ResistanceFlamecharm](Flamecharm.md), and 5% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 

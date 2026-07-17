@@ -47,7 +47,7 @@ The user spins in a circle, then performs a horizontal slash. If landed on a blo
 
 The critical has a cooldown of **3 seconds.**
 
-This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

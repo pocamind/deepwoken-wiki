@@ -115,7 +115,7 @@ If the player has maxed out [Oath: Contractor](Oath%253A_Contractor.md) on any s
 
 **Oath Breaking:**
 
-**BEWARE**: You **cannot** regain [Oath: Contractor](Oath%253A_Contractor.md) after [oath breaking](Oathbreak.md) it with [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
+**BEWARE**: You **cannot** regain [Oath: Contractor](Oath%253A_Contractor.md) after [oath breaking](Oaths.md#oathbreaker---oath-removal) it with [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
 
 <table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Don't bother showing your face again. I had little faith in you to begin with.</td></tr><tr><td>[End Dialogue], you instantly become <b>maximum</b> negative reputation (<b>villain</b>) with <a href="Etrea.md">Etrea</a> and <a href="The_Ministry.md">The Ministry</a>. You are regranted access to <a href="Castle_Light.md">Castle Light</a>. The Lord Regent <b>kills</b> you whenever you step into his room.</td></tr></tbody></table>
 
@@ -133,7 +133,7 @@ If the player steps on or near the throne that **The Lord Regent** is sitting on
         -   Funnily enough, when the player does that, the Lord Regent says the default dialogue as if you talked to him indirectly.
 -   He was based on [Zato One](https://guiltygear.fandom.com/wiki/Zato-ONE) from Guilty Gear, both being villainous, though formerly in Zato's case, blindfolded men with long fair hair who have shadow powers.
 -   If you finish his quest and you defeat Duke Erisia, do not go back to him unless going for [Contractor](Oath%253A_Contractor.md) with the first step complete. He will end up killing you after confirming dialogue with him.
-    -   Attunement uncaps will however be given immediately after killing [Duke Erisia](Duke_Erisia.md).
+    -   Attunement uncaps will however be given immediately after killing [Duke Erisia](Duke_Ishamon_Erisia.md).
 -   It is theorized that his strength comes from [The Depths](The_Depths.md), which he draws from using an unknown source (perhaps by exploring The Depths himself or through some kind of reservoir). This is suggested by the fact that his throne is decorated with a variety of corals.
     -   As [stated by Arch\_Mage](https://gyazo.com/c88d7bf4c887e776dd4334887393e916), he does not in fact use Shadowcast, and his "black tendril"/Judgement ability likely stems from another source.
     -   It is unclear if him sending Contractors to the Depths to kill Oath bearers empowers him.

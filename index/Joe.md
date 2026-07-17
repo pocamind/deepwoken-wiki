@@ -23,7 +23,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Joe is a [Canor](Canor.md) NPC. Completing their dialogue starts the "Joe's Embers" [Quest](Quest.md).
+Joe is a [Canor](Canor.md) NPC. Completing their dialogue starts the "Joe's Embers" [Quest](Quests.md).
 
 ## Quest
 

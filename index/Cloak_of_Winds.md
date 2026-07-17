@@ -24,23 +24,23 @@ categories: [Outfits, Expert Outfits, Etrea, Outfits with Talents, Outfits with 
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Cloak of Winds** is an Expert [Outfit](Outfit.md) in _Deepwoken_.
+**Cloak of Winds** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit has no cost and requires five (5) [Cloth](Cloth.md), ten (10) [Erisore](Erisore.md), two (2) [Strange Claws](Strange_Claw.md) and one (1) [Vibrant Gem](Vibrant_Gem.md) to craft.
+This Outfit has no cost and requires five (5) [Cloth](Cloth.md), ten (10) [Erisore](Ores.md#erisore), two (2) [Strange Claws](Strange_Claw.md) and one (1) [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 10 to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 1200 durability and grants +20% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunement.md) and +25% Shadow resistance [ResistanceShadowcast](Shadowcast.md). Additionally, it provides the [Paired Soul](Talents.md#paired-soul) Talent.
+This Outfit has 1200 durability and grants +20% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md) and +25% Shadow resistance [ResistanceShadowcast](Shadowcast.md). Additionally, it provides the [Paired Soul](Talents.md#paired-soul) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 20% Physical ResistanceBlunt ResistanceSlash, 47.5% Shadowcast [ResistanceShadowcast](Shadowcast.md), 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 
-The [Paired Soul](Talents.md#paired-soul) Talent increases the damage of the base [Katana](Katana.md) by 25%. This also increases the damage of the [Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Alloyed_Katana.md), and [Purple Cloud](Purple_Cloud.md) by 5%.
+The [Paired Soul](Talents.md#paired-soul) Talent increases the damage of the base [Katana](Katana.md) by 25%. This also increases the damage of the [Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Katana.md), and [Purple Cloud](Purple_Cloud.md) by 5%.
 
 ## Trivia/Notes
 

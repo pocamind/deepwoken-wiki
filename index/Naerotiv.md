@@ -26,11 +26,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Naerotiv is a [Kyrsan](Kyrsan.md) [NPC](NPC.md).
+Naerotiv is a [Kyrsan](Kyrsgarde.md) NPC.
 
 He is located to the right of the entrance to the [second floor](Second_Layer/New_Kyrsa.md) of the [Second Layer](Second_Layer.md#new-kyrsa-the-sleeping-city-f2). He has a brother named [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md) further into the city, who made and gives the player the [Kyrswynter](Kyrswynter.md). Interacting with Naerotiv is needed as a step to obtain the aforementioned [Kyrswynter](Kyrswynter.md).
 
-Naerotiv tells you how the [City of New Kyrsa](New_Kyrsa,_The_Sleeping_City.md) came to be today, about how the [Kyrsans](Kyrsgarde.md) once lived, and where they built a shrine over [Ethiron's Scion](Scion_of_Ethiron.md) to ensure it remains asleep, which eventually led to the City being developed. He mentions of how they used a ritual, namely the The Ninefold Blessings of Marrow, to ensure the Scion remains asleep. When the Ninth blessing was left incomplete as a result of the Kyrsans attempting to harness the puppet's power.
+Naerotiv tells you how the [City of New Kyrsa](Second_Layer/New_Kyrsa.md) came to be today, about how the [Kyrsans](Kyrsgarde.md) once lived, and where they built a shrine over [Ethiron's Scion](Scion_of_Ethiron.md) to ensure it remains asleep, which eventually led to the City being developed. He mentions of how they used a ritual, namely the The Ninefold Blessings of Marrow, to ensure the Scion remains asleep. When the Ninth blessing was left incomplete as a result of the Kyrsans attempting to harness the puppet's power.
 
 Once the Scion was awoken, it released a sound, a Tone of Song, which deafened everyone around the City. A sound that turned all of the [Kyrsans](Kyrsgarde.md) nearby into puppets, just like itself.
 

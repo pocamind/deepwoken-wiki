@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Frosviernr is a [Kyrsan](Kyrsan.md) NPC found in [second floor](Second_Layer/New_Kyrsa.md) of the [Second Layer](Second_Layer.md), in an alleyway behind a building following the right side of the city during the escape sequence. He made and wields the [Kyrswynter](Kyrswynter.md).
+Frosviernr is a [Kyrsan](Kyrsgarde.md) NPC found in [second floor](Second_Layer/New_Kyrsa.md) of the [Second Layer](Second_Layer.md), in an alleyway behind a building following the right side of the city during the escape sequence. He made and wields the [Kyrswynter](Kyrswynter.md).
 
 He is the brother of fellow Kyrsan [Naerotiv](Naerotiv.md).
 

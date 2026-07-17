@@ -27,9 +27,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The **Kyrsan Gem** is a pink crystalline [Relic](Relic.md) [Deep Gem](Deep_Gem.md) made up of several hexagonal prisms that converge at the bottom, not too dissimilar to the real-world quartz in shape. It also exudes a pink Kyrsan Chill aura.
+The **Kyrsan Gem** is a pink crystalline [Relic](Relics.md) [Deep Gem](Deep_Gems.md) made up of several hexagonal prisms that converge at the bottom, not too dissimilar to the real-world quartz in shape. It also exudes a pink Kyrsan Chill aura.
 
-It is exclusively obtained by defeating the [Kyrsgarde Champion](Kyrsgarde_Champion.md), and will be found in its chest.
+It is exclusively obtained by defeating the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>), and will be found in its chest.
 
 ## Effect
 

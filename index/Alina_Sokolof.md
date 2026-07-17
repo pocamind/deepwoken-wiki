@@ -24,7 +24,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Alina Sokolof is a [Celtor](Celtor.md) [NPC](NPC.md). She was the Quartermaster of [Castle Light](Castle_Light.md) prior to being succeeded by [Mark Adaset](Mark_Adaset.md). She wears the [Diver Journeyman Robes](Diver_Journeyman_Robes.md).
+Alina Sokolof is a [Celtor](Celtor.md) NPC. She was the Quartermaster of [Castle Light](Castle_Light.md) prior to being succeeded by [Mark Adaset](Mark_Adaset.md). She wears the [Diver Journeyman Robes](Diver_Journeyman_Robes.md).
 
 ## Dialogue
 

@@ -35,4 +35,4 @@ When consumed, it replenishes 25% Stomach and 12% Water.
 
 ### Recipe
 
--   2 different [Fruits](Fruit.md) and 1 [Gathered Wheat](Wheat.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).
+-   2 different [Fruits](Ingredients.md#fruits) and 1 [Gathered Wheat](Gathered_Wheat.md) at a [Campfire](Campfire_Pit.md) [CraftingCampfire](Campfire_Pit.md).

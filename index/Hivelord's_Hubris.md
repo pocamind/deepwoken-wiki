@@ -38,9 +38,9 @@ categories: [Weapons, Greathammers, Heavy Weapons, Weapons of The Hive]
 
 ## Description
 
-The Hivelord's Hubris is a Greathammer [Heavy Weapon](Weapons.md) which is the brutally torn off arm of a [Hive Construct](Golem_Constructs.md), ending in its spiked shoulder. It is presumably absurdly heavy, given its slow swing speed and 100 HVY requirement.
+The Hivelord's Hubris is a Greathammer [Heavy Weapon](Weapons.md) which is the brutally torn off arm of a [Hive Construct](Hive_Construct.md), ending in its spiked shoulder. It is presumably absurdly heavy, given its slow swing speed and 100 HVY requirement.
 
-It drops from all [Golem Constructs](Golem_Constructs.md).
+It drops from all [Golem Constructs](Hive_Construct.md).
 
 ## Critical
 

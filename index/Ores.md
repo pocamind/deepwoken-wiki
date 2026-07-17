@@ -118,11 +118,11 @@ categories: [Items, Harvestables]
 
 ## Overview
 
-**Ores** are materials found all around the map, usually in caves. They are used for crafting various [Outfits](Outfits.md) and traded for chests. They can be harvested with a [pickaxe](Pickaxe.md) by pressing E on them. They're also dropped from [Mineskippers](Mineskipper.md).
+**Ores** are materials found all around the map, usually in caves. They are used for crafting various [Outfits](Outfits.md) and traded for chests. They can be harvested with a [pickaxe](Pickaxe.md) by pressing E on them. They're also dropped from [Mineskippers](Mudskipper.md#mineskipper).
 
 Harvesting any ore (except for Rock and Coal) has a chance to drop a "Pure" version of the ore. Pure ores can be traded with a [Blacksmith](Blacksmith.md) to obtain a chest, or can be crafted into 3 of the ore's base form (by hand). They also typically sell at 3x the amount of the base ore. Trading in 5 Pure ores will grant the [Excavator](Talents.md#excavator) Talent, which increases mining speed and grants an additional chance of obtaining 2 ores from mining a deposit.
 
-Additionally, ores are used in a quest given by [Adar](Adar.md) to unlock [Ironsing](Ironsing.md). Ironsing users are able to consume ores to train Ironsing.
+Additionally, ores are used in a quest given by [Adar](Adar,_Master_of_Metal.md) to unlock [Ironsing](Ironsing.md). Ironsing users are able to consume ores to train Ironsing.
 
 ## Rock
 
@@ -130,7 +130,7 @@ A very common grayish-blue or sandstone ore that can be found in any cave.
 
 ### Crafting Recipes
 
--   [Flint](Flint.md) - x1 Rock + x1 [Coal](Coal.md) [CraftingEmpty](Crafting_Recipes.md)
+-   [Flint](Flint.md) - x1 Rock + x1 [Coal](Ores.md#coal) [CraftingEmpty](Crafting_Recipes.md)
 
 Old Models
 
@@ -140,9 +140,9 @@ A black ore that is found in most cave systems.
 
 ### Crafting Recipes
 
--   [Flint](Flint.md) - x1 Coal + x1 [Rock](Rock.md) [CraftingEmpty](Crafting_Recipes.md)
--   [Umbral Flint](Umbral_Flint.md) - x1 Coal + x1 [Umbral Obsidian](Umbral_Obsidian.md) [CraftingEmpty](Crafting_Recipes.md)
--   [Iron Bomb](Iron_Bomb.md) - x1 Coal + x2 [Iron](Iron.md) with the [Family Recipe](Talents.md#family-recipe) Talent, at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md)
+-   [Flint](Flint.md) - x1 Coal + x1 [Rock](Ores.md#rock) [CraftingEmpty](Crafting_Recipes.md)
+-   [Umbral Flint](Flint.md) - x1 Coal + x1 [Umbral Obsidian](Umbral_Obsidian.md) [CraftingEmpty](Crafting_Recipes.md)
+-   [Iron Bomb](Iron_Bomb.md) - x1 Coal + x2 [Iron](Ores.md#iron) with the [Family Recipe](Talents.md#family-recipe) Talent, at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md)
 
 Old Models
 
@@ -159,16 +159,16 @@ Unlike all other Pure Ores, Pure Iron cannot be traded to a [Blacksmith](Blacksm
 -   [Pickaxe](Pickaxe.md) - x2 Iron + x2 Wood, at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md)
 -   [Lumber Axe](Lumber_Axe.md) - x2 Iron + x2 Wood, at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md)
 -   [Repair Kit](Repair_Kit.md) - x3 Iron + x2 Wood, at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md)
--   [Iron Bomb](Iron_Bomb.md) - x2 Iron + x1 [Coal](Coal.md) with the [Family Recipe](Talents.md#family-recipe) Talent, at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md)
+-   [Iron Bomb](Iron_Bomb.md) - x2 Iron + x1 [Coal](Ores.md#coal) with the [Family Recipe](Talents.md#family-recipe) Talent, at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md)
 -   [Pathfinder Lantern](Pathfinder_Lantern.md) - x1 Iron + x1 [Spark Gland](Spark_Gland.md) or x1 [Dying Embers](Dying_Embers.md) + x1 [Fiber](Fiber.md), at a [Crafting Station](Crafting_Station.md) [CraftingStation](Crafting_Station.md)
 
 Old Models
 
 ## Gold
 
-A glimmering, yellow ore used for crafting certain Outfits. Found in the [Songseeker Wilds](Songseeker_Wilds.md) caves, the cave in [Miner's Landing](<Miner's_Landing.md>) where you can obtain [Oath: Oathless](Oath%253A_Oathless.md), and one of the many [Viper's Jaw](<Viper's_Jaw.md>) caves near the Bandit Camp at [Lower Erisia](Lower_Erisia.md). If eaten by a [Ironsing](Ironsing.md) user, they will get a slight DMG buff and yellow particle effect.
+A glimmering, yellow ore used for crafting certain Outfits. Found in the [Songseeker Wilds](Songseeker_Wilds.md) caves, the cave in [Miner's Landing](<Miner's_Landing.md>) where you can obtain [Oath: Oathless](Oath%253A_Oathless.md), and one of the many [Viper's Jaw](<The_Viper's_Jaw.md>) caves near the Bandit Camp at [Lower Erisia](Lower_Erisia.md). If eaten by a [Ironsing](Ironsing.md) user, they will get a slight DMG buff and yellow particle effect.
 
-It may also be obtained by "melting" [Gold Bars](Gold_Bar.md) or [Gold Rings](Gold_Ring.md) via depositing them into the crafting menu at a [Campfire](Campfire.md).
+It may also be obtained by "melting" [Gold Bars](Treasures.md) or [Gold Rings](Gold_Ring.md) via depositing them into the crafting menu at a [Campfire](Campfire_Pit.md).
 
 ### Crafting Recipes
 
@@ -200,7 +200,7 @@ Old Models
 
 ## Astruline
 
-A pink ore that comes from meteor deposits. Found in [Songseeker Caves](Songseeker_Wilds.md), under [Starswept Valley](Starswept_Valley.md), inside [The City of the Drowned](The_City_of_the_Drowned.md) in certain locations (pink roofs near the gates behind the houses to the left or to the right depending on where you come from) or from the [Moon Knight](Moon_Knight.md). The drop rate for Pure Astruline is around 15%.
+A pink ore that comes from meteor deposits. Found in [Songseeker Caves](Songseeker_Wilds.md), under [Starswept Valley](The_Starswept_Valley.md), inside [The City of the Drowned](The_City_of_the_Drowned.md) in certain locations (pink roofs near the gates behind the houses to the left or to the right depending on where you come from) or from the [Moon Knight](Moon_Knight.md). The drop rate for Pure Astruline is around 15%.
 
 ### Crafting Recipes
 
@@ -210,7 +210,7 @@ Old Models
 
 ## Umbrite
 
-A dark blue neon ore found in the [First Layer](First_Layer.md) of The Depths. Located in the [Varicosa District](Varicosa_District.md) in [City of the Drowned](City_of_the_Drowned.md), inside the cave where [Nostor](Nostor.md), the Shadowcast trainer, is seen. Two separate veins of Umbrite can also be seen near [Castle Light](Castle_Light.md), at a low edge next to the void. With the first vein being exactly near the surface, and the second a bit under. It can also be dropped from [Immortal Guardians](Immortal_Guardians.md) and [Mineskippers](Mineskipper.md).
+A dark blue neon ore found in the [First Layer](First_Layer.md) of The Depths. Located in the [Varicosa District](Varicosa_District.md) in [City of the Drowned](The_City_of_the_Drowned.md), inside the cave where [Nostor](Nostor,_Master_of_Shadow.md), the Shadowcast trainer, is seen. Two separate veins of Umbrite can also be seen near [Castle Light](Castle_Light.md), at a low edge next to the void. With the first vein being exactly near the surface, and the second a bit under. It can also be dropped from [Immortal Guardians](Immortal_Guardian.md) and [Mineskippers](Mudskipper.md#mineskipper).
 
 ### Crafting Recipes
 

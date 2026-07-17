@@ -19,7 +19,7 @@ notices:
 
 ## Description
 
-Ximac Diri was a character mentioned in [Lament of Cirryn](Lament_of_Cirryn.md). With the [book](Book.md)'s removal from the game, Ximac is no longer referenced within _[Deepwoken](<Deepwoken_(game).md>)_.
+Ximac Diri was a character mentioned in [Lament of Cirryn](Lament_of_Cirryn.md). With the [book](Books.md)'s removal from the game, Ximac is no longer referenced within _[Deepwoken](<Deepwoken_(game).md>)_.
 
 Ximac was the Hivelord of the Second, one of [The Hive](The_Hive.md)'s Greathives.[\[1\]](#cite-note-lc-1)
 

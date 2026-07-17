@@ -22,7 +22,7 @@ Most [Talents](Talents.md) are obtained by selecting them when powering up. Ther
 
 Chain of Perfection is obtained by defeating any boss without taking any damage. Getting hit by other sources including normal enemies or players invalidates it. This Talent makes PvE far easier as you get better at the game. The easiest method to obtain this Talent is via defeating a world boss (preferably parasol) with cannons solo, or doing [The Ferryman](The_Ferryman.md)
 
-If you have atleast 1 friend, you can use the cannons on a ship to kill the [Primadon](Primadon.md) with a cheese method. The method is 1 player is spawning and baiting the primadon to 1 of 2 spot that have a rope to climb on. After the player baited the [Primadon](Primadon.md) you (the one who need to unlock the Chain of Perfection) will use a boat with a cannons and shoot it from afar, there is a small lake below the bridge to the campfire to spawn the [Primadon](Primadon.md). Kill him with 100% damage only from you and have your friend just do nothing other than baiting him (This No Longer Works Like It Used To).
+If you have atleast 1 friend, you can use the cannons on a ship to kill the [Primadon](Primadon,_Titan_of_the_East.md) with a cheese method. The method is 1 player is spawning and baiting the primadon to 1 of 2 spot that have a rope to climb on. After the player baited the [Primadon](Primadon,_Titan_of_the_East.md) you (the one who need to unlock the Chain of Perfection) will use a boat with a cannons and shoot it from afar, there is a small lake below the bridge to the campfire to spawn the [Primadon](Primadon,_Titan_of_the_East.md). Kill him with 100% damage only from you and have your friend just do nothing other than baiting him (This No Longer Works Like It Used To).
 
 Note: You have to solo the Boss. If the boss that you are killing takes damage from a source that isn't the player trying to get the Talent, and said source is still active when the boss dies then it won't be rewarded. If a second player were to attack the boss but then die/leave, it will still count and the Talent will be rewarded. Second Note: If you have a friend helping you, as long as they don't hit the Primadon you can still get Chain of Perfection. They can get hit and it won't change anything.
 
@@ -36,7 +36,7 @@ At [Etris](Etris.md), there is an NPC named [Korin](Korin.md) at a house outside
 
 **Excavator:** Chance to recieve two sets of ore when mining. You mine ores more quickly.
 
-At any blacksmith, you need to turn in five piece of [Pure Ore](Ore.md) (e.g. Pure Irithine, Pure Erisore, Pure Umbrite, Pure Astruline) to receive the Talent.
+At any blacksmith, you need to turn in five piece of [Pure Ore](Ores.md) (e.g. Pure Irithine, Pure Erisore, Pure Umbrite, Pure Astruline) to receive the Talent.
 
 ### Proficient Baiting, Hook, Line, and Sinker, and Fisher's Lure
 
@@ -64,7 +64,7 @@ This talent can also be obtained by picking the Ignition Union origin.
 
 **Ethiron's Gaze:** Your eyes have been opened to the wasteland. You can now see through the harsh fog of the storm of The Eternal Gale more clearly now.
 
-Ethiron's Gaze is obtained at Firfire after retrieving the spear in the Firfire Caverns and then talking to the NPC in the village. This lessens the fog permanently for you and opens up the blocked blue/purple doorways in order to get to [Nest Corridor](Nest_Corridor.md) and fight [Chaser](Chaser,_Scholar_of_the_Burning_Blood.md)/use the Ignition Deepdriller to escape.
+Ethiron's Gaze is obtained at Firfire after retrieving the spear in the Firfire Caverns and then talking to the NPC in the village. This lessens the fog permanently for you and opens up the blocked blue/purple doorways in order to get to [Nest Corridor](Nest_Corridor.md) and fight [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)/use the Ignition Deepdriller to escape.
 
 ### Pleeksty's Will
 

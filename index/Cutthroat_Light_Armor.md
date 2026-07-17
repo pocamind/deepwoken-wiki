@@ -24,13 +24,13 @@ categories: [Outfits, Adept Outfits, Outfits with Talents, Outfits with Exclusiv
 | selling_price | 10 |
 | weight | 1 |
 
-**Cutthroat Light Armor** is an Adept [Outfit](Outfit.md) in _Deepwoken_.
+**Cutthroat Light Armor** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 30 and requires four (4) [Cloth](Cloth.md), four (4) [Fiber](Fiber.md), five (5) [Iron](Iron.md), and one (1) [Crystal Lens](Crystal_Lens.md) to craft.
+This Outfit costs 30 and requires four (4) [Cloth](Cloth.md), four (4) [Fiber](Fiber.md), five (5) [Iron](Ores.md#iron), and one (1) [Crystal Lens](Mantra_Modifiers.md#regular-modifiers) to craft.
 
 This Outfit additionally requires the player to be [Power](Power.md) 5 to be crafted.
 

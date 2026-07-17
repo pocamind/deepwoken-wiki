@@ -27,7 +27,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Scion of Ethiron is a boss encountered at the end of the [second floor](Second_Layer/New_Kyrsa.md) of the [Eternal Gale](Second_Layer.md). It's treated as a "final boss" to the game, allowing the access of endgame content such as [Kyrsan Medallions](Kyrsan_Medallions.md) among other things. It is tied to [Ethiron](Ethiron.md), acting as his puppet and avatar, with sealing it also sealing him temporarily, as described by [Naerotiv](Naerotiv.md). After being awoken by your disturbance, it takes the form of a skeletal monster made up of bones and feathers, with it's head being distinctively tetrahedron shaped, with a color scheme of purple-pinks and yellow fiber protruding from each corner. It also completely **empties your lighthook** to 0 minutes if any time was remaining.
+The Scion of Ethiron is a boss encountered at the end of the [second floor](Second_Layer/New_Kyrsa.md) of the [Eternal Gale](Second_Layer.md). It's treated as a "final boss" to the game, allowing the access of endgame content such as [Kyrsan Medallions](Kyrsan_Medallions.md) among other things. It is tied to [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), acting as his puppet and avatar, with sealing it also sealing him temporarily, as described by [Naerotiv](Naerotiv.md). After being awoken by your disturbance, it takes the form of a skeletal monster made up of bones and feathers, with it's head being distinctively tetrahedron shaped, with a color scheme of purple-pinks and yellow fiber protruding from each corner. It also completely **empties your lighthook** to 0 minutes if any time was remaining.
 
 It uses a variety of attacks to defeat you, notably summoning bones and directing them at either the player or the ground. In addition, it has the abilities of [Galebreathe](Galebreathe.md), able to fire a large laser, blind you, or fire a devastating death sphere at the player, obliterating any hit by it. Do note it is **heavily resistant** to [Vampirism](Enchantments.md) and [Bloodless Gems](Deep_Gems.md).
 
@@ -35,7 +35,7 @@ Upon defeat, five chests containing [Kyrsan Medallions](Kyrsan_Medallions.md) wi
 
 However, defeating him will also prompt a hard 3 minute timer, or 180 seconds, in order to escape the City at the Light Hook at the front of the city before you are guaranteed to wipe, more information can be found on [Second Layer/New Kyrsa](Second_Layer/New_Kyrsa.md).
 
-Do note that telling [Misérables](Miserables.md) "**I seek power in my upcoming battles**" then interacting with the [Purge Shrine](Purge_Shrine.md) not only spawns the [Kyrsgarde Champion](Kyrsgarde_Champion.md) but also overall makes Scion of Ethiron much harder, making him not spawn healthpacks, charge his ult wind-up faster and a damage boost on all attacks.
+Do note that telling [Misérables](Misérables.md) "**I seek power in my upcoming battles**" then interacting with the [Purge Shrine](Purge_Shrine.md) not only spawns the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>) but also overall makes Scion of Ethiron much harder, making him not spawn healthpacks, charge his ult wind-up faster and a damage boost on all attacks.
 
 ## Attacks
 
@@ -240,11 +240,11 @@ This list may be missing items, please help us by filling in the gaps.
 
 ## Trivia
 
--   The usage of scion in this context refers to a young shoot or twig of a plant, especially one cut for grafting or rooting. This might be a metaphor for it being just a tiny piece of [Ethiron](Ethiron.md), one yet to grow. However, it is often referred to as the avatar of Ethiron, or the form of Ethiron's power as stated by [Cap'n Orlandeau](<Cap'n_Orlandeau.md>).
+-   The usage of scion in this context refers to a young shoot or twig of a plant, especially one cut for grafting or rooting. This might be a metaphor for it being just a tiny piece of [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), one yet to grow. However, it is often referred to as the avatar of Ethiron, or the form of Ethiron's power as stated by [Cap'n Orlandeau](<Cap'n_Orlandeau.md>).
 -   It's heavily implied that it's appearance, consisting of bones, no skin, and large dendrite structures rather than a full brain, is actually the result of a lack of development. Carrion refers to the Scion as a "screaming child" and given the context of its name, the Scion is most likely still in an "infant" stage. Given its feathers and the shape of its skull, a "mature" Scion of Ethiron would likely take the form a bird-like humanoid.
 -   The song that plays during the fight is ELEISON [\[1\]](https://www.youtube.com/watch?v=tbBwELgDPD8&pp=ygUKbmFrdGlnb25pcw%3D%3D) by Naktigonis.
     -   This song gets updated to 11:59 [\[2\]](https://www.youtube.com/watch?v=g4aVbN4nE6U&pp=ygUKbmFrdGlnb25pcw%3D%3D) (also by Naktigonis) for the escape.
 -   Update logs refer to it as Ethiron's Scion, but dying to it or hovering over the danger icon in its fight states its name is Scion of Ethiron. Also referred to as Ethiron's Avatar in the Restore Rulebook before [being changed in 2023](https://discord.com/channels/920707638034067486/1096623256200560771/1126711224021831821).
 -   The branches on its head are inspired by dendrites in neuron diagrams.
--   The developers refer to the Scion of Ethiron using singular they/them pronouns. This behavior is shared with [Yun'Shul](<Yun'Shul.md>).
+-   The developers refer to the Scion of Ethiron using singular they/them pronouns. This behavior is shared with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
 -   Named "avatar" in the game files.

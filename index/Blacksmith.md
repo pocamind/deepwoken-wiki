@@ -23,11 +23,11 @@ categories: [Individuals with He/him pronouns, Vendors, NPCs, Humanoids with Uno
 
 Blacksmith are stationary NPCs found in numerous towns across Lumen. They are the primary station used to craft and manage [Outfits](Outfits.md). They are also the leading source of [Cloth](Cloth.md) and [Fiber](Fiber.md), essential to craft Outfits, as well as selling utility tools.
 
-Blacksmiths have 3 functions: opening the [Outfits](Outfits.md) menu, crafting [Seasonal Medals](Seasonal_Medals.md), and exchanging [Pure Ores](Ore.md) for moderate-tier loot. Additionally, they sell:
+Blacksmiths have 3 functions: opening the [Outfits](Outfits.md) menu, crafting [Seasonal Medals](Seasonal_Medals.md), and exchanging [Pure Ores](Ores.md) for moderate-tier loot. Additionally, they sell:
 
 -   [Cloth](Cloth.md) for 6
 -   [Fiber](Fiber.md) for 3
--   [Coal](Coal.md) for 15
+-   [Coal](Ores.md#coal) for 15
 -   [Pickaxe](Pickaxe.md) for 3
 -   [Lumber Axe](Lumber_Axe.md) for 3
 -   [Flint](Flint.md) for 3
@@ -60,7 +60,7 @@ _More info: [Transmogrification](Transmogrification.md)_
 
 ### Craft event items with Knowledge
 
--   You are able to craft limited-time items using [Knowledge](Knowledge.md) if you bought [Seasonal Medals](Seasonal_Medals.md) during a [Deepwoken event](Events.md), such as Hallowtide Medals 22, 23 and 24 from [Lysander Spellhardt](Lysander_Spellhardt.md) during Hallowtide. You can also craft the [Party Hat](Party_Hat.md) obtained by joining during the [Festival of a Billion Souls](Festival_of_a_Billion_Souls.md) mini event in 2024.
+-   You are able to craft limited-time items using [Knowledge](Knowledge.md) if you bought [Seasonal Medals](Seasonal_Medals.md) during a [Deepwoken event](Random_Encounters.md), such as Hallowtide Medals 22, 23 and 24 from [Lysander Spellhardt](Lysander_Spellhardt.md) during Hallowtide. You can also craft the [Party Hat](Party_Hat.md) obtained by joining during the [Festival of a Billion Souls](Festival_of_a_Billion_Souls.md) mini event in 2024.
     -   You can craft outfits, weapons, and even enchants and mantras that were from these events.
 
 ## Shop
@@ -89,7 +89,7 @@ Smithy's Tools
 
 **Handcuffed:**
 
-This dialogue is unlocked if the player has been sent to execution by an NPC affiliated with [The Central Authority](The_Central_Authority.md) or by a player with the [Authority Ensign](Authority_Ensign.md) [Origin](Origin.md).
+This dialogue is unlocked if the player has been sent to execution by an NPC affiliated with [The Central Authority](The_Central_Authority.md) or by a player with the [Authority Ensign](Authority_Ensign.md) [Origin](Origins.md).
 
 <table><tbody><tr><td colspan="4">Begin Dialogue</td></tr><tr><td colspan="2">[Good Reputation with Faction]</td><td colspan="2">[Bad Reputation with Faction]</td></tr><tr><td colspan="2">I'm not gonna ask exactly what you did to get in those cuffs, but I can fix 'em for ya.<br><font>[Player is released from Handcuffs]</font></td><td colspan="2">You're bold, I'll give you that.</td></tr><tr><td>Can you work on something for me? [Armor]</td><td>Can you take a look at this stone? [Ores]</td><td colspan="2">[End Dialogue]</td></tr><tr><td colspan="2">[See first instance]</td></tr></tbody></table>
 

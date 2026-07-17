@@ -54,7 +54,7 @@ The first hit has a 0.6x scaled damage multiplier, and all subsequent hits have 
 
 The critical has a cooldown of **5 seconds**.
 
-This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

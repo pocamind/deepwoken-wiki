@@ -24,21 +24,21 @@ categories: [Outfits, Adept Outfits, Outfits of The Central Authority, Outfits w
 | selling_price | 10 |
 | weight | 1 |
 
-**Authority Peacekeeper Armour** is an Adept [Outfit](Outfit.md) in _Deepwoken_.
+**Authority Peacekeeper Armour** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 30 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Iron](Iron.md) to craft.
+This Outfit costs 30 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Iron](Ores.md#iron) to craft.
 
-This Outfit additionally requires the player to be at least [Power](Power.md) 5 and have at least 5 [Fortitude](Fortitude.md) to be crafted. This Outfit **cannot** be crafted unless you are an [Authority Ensign](Authority_Ensign.md).
+This Outfit additionally requires the player to be at least [Power](Power.md) 5 and have at least 5 [Fortitude](Attributes.md#ftd) to be crafted. This Outfit **cannot** be crafted unless you are an [Authority Ensign](Authority_Ensign.md).
 
 Alternatively, using the [Authority Ensign](Authority_Ensign.md) Origin will grant it for free, ignoring all requirements.
 
 ### _Armor Stats_
 
-This Outfit has 1600 durability, grants +15% Physical resistance ResistanceBlunt ResistanceSlash, +10% Slash resistance ResistanceSlash, +10% Elemental resistance [ResistanceElemental](Attunement.md), and +15% Fire resistance [ResistanceFlamecharm](Flamecharm.md). Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
+This Outfit has 1600 durability, grants +15% Physical resistance ResistanceBlunt ResistanceSlash, +10% Slash resistance ResistanceSlash, +10% Elemental resistance [ResistanceElemental](Attunements.md), and +15% Fire resistance [ResistanceFlamecharm](Flamecharm.md). Additionally, it provides the [Lowstride](Talents.md#lowstride) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 23.5% Slash ResistanceSlash, 15% Blunt ResistanceBlunt, 23.5% Flamecharm [ResistanceFlamecharm](Flamecharm.md), and 10% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 

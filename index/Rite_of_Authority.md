@@ -50,10 +50,10 @@ This critical will turn blue if the user has [Surge: Unstable Capacitor](Talents
 
 The critical has a cooldown of **6 seconds**.
 
-This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 
 -   Despite the Attunement requirement, this weapon is [enchantable](Enchantments.md) and does not scale on Thundercall.
--   There was a bug when this weapon released where you could [Motif](Motif.md) it, though strangely the Rite of Authority Motif was only compatible with Rapiers.
+-   There was a bug when this weapon released where you could [Motif](Motifs.md) it, though strangely the Rite of Authority Motif was only compatible with Rapiers.
 -   If you frequently lag, have low FPS, or are on a lower end device, you will often miss the second half of the critical attack.

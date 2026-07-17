@@ -24,7 +24,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-A quest item used for unbounding [Intelligence](Intelligence.md), it is mainly used to light the altars at [The Birdcage](The_Birdcage.md).
+A quest item used for unbounding [Intelligence](Attributes.md#int), it is mainly used to light the altars at [The Birdcage](The_Birdcage.md).
 
   
 

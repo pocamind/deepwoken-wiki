@@ -173,6 +173,6 @@ The Chrysid aspect has an alternate variant of the [Starkindred Wings](Oath%253A
 
 -   Chrysid is tied with [Kiron](Kiron.md) for having the most variants out of all aspects, both having 7 base variants and 1 Hallowtide variant for an astonishing 8 total variants. For reference, no other aspect has more than 6 total variants.
 -   The Seer variant may be a direct reference to [The Seer](https://hollowknight.fandom.com/wiki/Seer) from _Hollow Knight_
--   The [Hallowtide](<Hallowtide_(Event).md>) variant vaguely resembles someone afflicted by the [Infection](https://hollowknight.fandom.com/wiki/Infection) from _Hollow Knight_, which would make sense given that the entity that created the Infection, the Radiance, was worshipped by the Moth Tribe.
+-   The [Hallowtide](Hallowtide.md) variant vaguely resembles someone afflicted by the [Infection](https://hollowknight.fandom.com/wiki/Infection) from _Hollow Knight_, which would make sense given that the entity that created the Infection, the Radiance, was worshipped by the Moth Tribe.
     -   Additionally, it'd also continue the trend of the Greathive aspects having inspiration for their design(s) taken from Hollow Knight.
 -   'Chrysid' comes from the superfamily [Chrysidoidea](https://en.wikipedia.org/wiki/Chrysidoidea)**,** which, ironically, does not contain moths, but rather parasitic wasps.

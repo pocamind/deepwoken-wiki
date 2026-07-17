@@ -25,13 +25,13 @@ categories: [Outfits, Adept Outfits, Outfits with Talents, Outfits with Exclusiv
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Experienced Adventurer** is an Adept [Outfit](Outfit.md) in _Deepwoken_.
+**Experienced Adventurer** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 25 and requires three (3) [Cloth](Cloth.md), three (3) [Fiber](Fiber.md), and two (2) [Irithine](Irithine.md) to craft.
+This Outfit costs 25 and requires three (3) [Cloth](Cloth.md), three (3) [Fiber](Fiber.md), and two (2) [Irithine](Ores.md#irithine) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 5 to be crafted.
 

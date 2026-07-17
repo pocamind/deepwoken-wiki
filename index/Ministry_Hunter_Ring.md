@@ -29,4 +29,4 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Ministry Hunter Ring** is a [Relic](Relic.md) Ring [Equipment](Equipment.md) that increases the damage of your backstabs by 10%.
+**Ministry Hunter Ring** is a [Relic](Relics.md) Ring [Equipment](Equipment.md) that increases the damage of your backstabs by 10%.

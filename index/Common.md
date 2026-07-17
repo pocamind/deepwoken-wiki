@@ -20,7 +20,7 @@ Thus, this article focuses on that.
 
 ## Description
 
-Common is the name of a language used by individuals in [Lumen](Lumen.md).[\[1\]](#cite-note-polis-1)
+Common is the name of a language used by individuals in Lumen.[\[1\]](#cite-note-polis-1)
 
 [Kyrsgarde](Kyrsgarde.md) speak a language that is similar to common, with many words largely being identical but with additional vowels, though they are also capable of speaking the language itself.[\[2\]](#cite-note-2)[\[3\]](#cite-note-3)[\[4\]](#cite-note-4)
 

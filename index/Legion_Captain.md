@@ -17,7 +17,7 @@ categories: [Enemies, Enemies that can wield Enchantments, Ambush Enemies, The H
 
 ## Description
 
-The Legion Captain is a type of enemy NPC that can only be found in [Starswept Valley](Starswept_Valley.md), [Upper Erisia](Upper_Erisia.md), and the [Aratel Island](Aratel_Island.md). They can be encountered in the following events:
+The Legion Captain is a type of enemy NPC that can only be found in [Starswept Valley](The_Starswept_Valley.md), [Upper Erisia](Upper_Erisia.md), and the [Aratel Island](Aratel_Island.md). They can be encountered in the following events:
 
 -   Legion Captain and [Legion Soldier](Legion_Soldier.md) vs [Authority Officers](Authority_Officer.md) (Upper Erisia)
 -   Legion Captain vs [Authority Lieutenant](Authority_Lieutenant.md) (Starswept Valley)

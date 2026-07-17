@@ -31,7 +31,7 @@ The **Parasol Membrane** is a chest drop from the [Interluminary Parasol](Interl
 
 ## Crafting
 
-The Parasol Membrane can be used to craft into other items with the [Lost Forge](Lost_Forge.md) found at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
+The Parasol Membrane can be used to craft into other items with the [Lost Forge](Lost_Forge_of_Leiuna.md) found at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
 
 -   [Equipment](Equipment.md)
     -   [Regenerative Earrings](Regenerative_Earrings.md): 1x [Old Blood Earrings](Old_Blood_Earrings.md) + 5x [Vampirism](Vampirism.md) [Enchant Stones](Enchant_Stone.md) + 1x Parasol Membrane

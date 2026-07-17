@@ -19,7 +19,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-??? is a [Khan](Khan.md) NPC. It can be found overlooking [Firfire](Firfire.md) near the Union Hook at the body of [Apprentice Hero](Apprentice_Hero.md).
+??? is a [Khan](Khan.md) NPC. It can be found overlooking [Firfire](Firfire.md) near the Union Hook at the body of [Apprentice Hero](<Mauled_Diver_Corpse_(Apprentice_Hero).md>).
 
 ## Dialogue
 

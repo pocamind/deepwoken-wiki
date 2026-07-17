@@ -23,7 +23,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Jim is a [Canor](Canor.md) NPC located at the [Etris Docks](Etris_Docks.md). Completing their dialogue starts the "Jim's Embers" [Quest](Quest.md).
+Jim is a [Canor](Canor.md) NPC located at the [Etris Docks](Etris_Docks.md). Completing their dialogue starts the "Jim's Embers" [Quest](Quests.md).
 
 ## Quest
 
@@ -34,7 +34,7 @@ Jim is a [Canor](Canor.md) NPC located at the [Etris Docks](Etris_Docks.md). Com
 
 ### Rewards
 
-Upon retrieving the Dying embers, Jim gives the player a [Curiosity](Quests.md) [Talent](Talent.md) hand and a random tier two [Mantra Modifier](Mantra_Modifiers.md).
+Upon retrieving the Dying embers, Jim gives the player a [Curiosity](Quests.md) [Talent](Talents.md) hand and a random tier two [Mantra Modifier](Mantra_Modifiers.md).
 
 ## Location
 

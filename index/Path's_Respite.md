@@ -18,7 +18,7 @@ A rest stop carved out from the untamed wilds by a conglomerate of Pathfinder co
 
   
 
-**Path's Respite** is a [location](Locations.md) in _Deepwoken_. It is a sub-location found in [Lower Erisia](Lower_Erisia.md).
+**Path's Respite** is a location in _Deepwoken_. It is a sub-location found in [Lower Erisia](Lower_Erisia.md).
 
 ## Overview
 

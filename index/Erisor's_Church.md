@@ -18,7 +18,7 @@ Why does this name speak to me and why do I know it so well?
 
   
 
-**Erisor's Church** is a [location](Locations.md) in _Deepwoken_. It is a landmark found in [Lower Erisia](Lower_Erisia.md), perpendicular to the entrance of Towerstruck Lands.
+**Erisor's Church** is a location in _Deepwoken_. It is a landmark found in [Lower Erisia](Lower_Erisia.md), perpendicular to the entrance of Towerstruck Lands.
 
 ## Overview
 
@@ -29,7 +29,7 @@ It can be found by following the path on the right of the entrance to the [Tower
 ## Potential Enemies
 
 -   [Bandit](Bandit.md)
--   [Bandit Captain](Bandit_Captain.md)
+-   [Bandit Captain](Bandit_Leader.md)
 -   [Rock Golem](Rock_Golem.md)
 -   [Forgotten Villager](Forgotten_Villager.md)
 
@@ -39,7 +39,7 @@ Forgotten Villagers inside the Church
 
 ### Forgotten Villagers Mission
 
--   Talking to the [Villagers](Forgotten_Villager.md) for a bit will result in waves of [Bandit Captain](Bandit_Captain.md) spawning.
+-   Talking to the [Villagers](Forgotten_Villager.md) for a bit will result in waves of [Bandit Captain](Bandit_Leader.md) spawning.
 -   These [Bandits](Bandit.md) will progress in difficulty until a [Rock Golem](Rock_Golem.md) spawns.
 -   This event will end as soon as the [Rock Golem](Rock_Golem.md) is eliminated.
 -   If all of the [Villagers](Forgotten_Villager.md) survive, a large chest will spawn at the end of the event with typical [Erisian](Erisia.md) loot.

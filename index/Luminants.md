@@ -20,7 +20,7 @@ Luminants are shaped as gatherings of islands over their own Sea, which are diff
 
 Though these two Luminants are often referred to as each other by characters (I.E. Ploom indirectly implying that the Etrean Luminant is part of the East), in-game they are both distinct Luminants, with large, elaborate gates separating them.
 
-The key distinction between the two is the influence of local factions. As expected, the Etrean Luminant is mostly controlled by [Etrea](The_Kingdom_of_Etrea.md), while the Eastern Luminant is far more balanced; with many different major and minor factions fighting over its islands.
+The key distinction between the two is the influence of local factions. As expected, the Etrean Luminant is mostly controlled by [Etrea](Etrea.md), while the Eastern Luminant is far more balanced; with many different major and minor factions fighting over its islands.
 
 The islands of the Etrean Luminant seemingly drift in and out of the [Voidsea](Voidsea.md), bringing new life, species, and even bringing monsters from the [Depths](The_Depths.md) below. Both these Luminants, especially the east, are constantly in a state of war, as [The Central Authority](The_Central_Authority.md) has been fighting against [Etrea](Etrea.md) for quite a long while.
 
@@ -32,7 +32,7 @@ Away from Markor's shores are the [Lullaby Isles](Lullaby_Isles.md), a collectio
 
 ## Western Luminant
 
-Home to [The Hundred Legions](The_Hundred_Legions.md), a large empire composed mostly of [Khans](Khan.md). This is hinted at by [Gaius](Gaius.md) (a Khan NPC in the [Viper's Jaw](<Viper's_Jaw.md>)) mentioning how he doesn't deserve to be in the Etrean Luminant, and that he comes from out West.
+Home to [The Hundred Legions](The_Hundred_Legions.md), a large empire composed mostly of [Khans](Khan.md). This is hinted at by [Gaius](Gaius.md) (a Khan NPC in the [Viper's Jaw](<The_Viper's_Jaw.md>)) mentioning how he doesn't deserve to be in the Etrean Luminant, and that he comes from out West.
 
 [The Covenant of Flame](The_Covenant_of_Flame.md) originated from this Luminant, due to it being the birthplace of [Amorus Pleeksty](Amorus_Pleeksty.md), and where he descended to the Third Layer through the luminant's caverns. This has lead to the Tirans of the luminant etching floral patterns into their [weaponry](<Pleeksty's_Inferno.md>) as a tribute to the pioneer.
 

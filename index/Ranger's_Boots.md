@@ -32,7 +32,7 @@ Variants: [Veteran Ranger's Boots](<Veteran_Ranger's_Boots.md>)
 
 The Ranger's Boots are an [Equipment](Equipment.md) item under the "Legs" category.
 
-The [Survivalist](Talents.md#survivalist) Talent reduces the damage taken from certain weather effects like [Acid Rain](Acid_Rain.md).
+The [Survivalist](Talents.md#survivalist) Talent reduces the damage taken from certain weather effects like [Acid Rain](Environmental_Hazards.md).
 
 ## Trivia
 

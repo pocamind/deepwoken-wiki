@@ -14,9 +14,9 @@ E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 
-The city of Constellia, once a gleaming City of Light, and the biggest of the Celestial Cities[\[1\]](#cite-note-glossary-1), gifted to the [Lightborn](Lightborn.md) by the [Celestials](Celestial.md) as a last gift. Shortly after, the [Celestials](Celestial.md) abandoned the city to never return. The [Surface](Surface.md) folk referred to the city as "The Guiding Star" and used it to traverse [Lumen](Locations.md#lumen).[\[2\]](#cite-note-kaide-2)
+The city of Constellia, once a gleaming City of Light, and the biggest of the Celestial Cities[\[1\]](#cite-note-glossary-1), gifted to the [Lightborn](Lightborn.md) by the [Celestials](Celestial.md) as a last gift. Shortly after, the [Celestials](Celestial.md) abandoned the city to never return. The [Surface](Surface.md) folk referred to the city as "The Guiding Star" and used it to traverse Lumen.[\[2\]](#cite-note-kaide-2)
 
-Constellia was guarded by [Stone Knights](Stone_Knight.md) created by the [Celestials](Celestial.md), which appeared in [Lumen](Locations.md#lumen) by falling from [The Nightsea](Glossary.md#the-nightsea) in radiant meteors.
+Constellia was guarded by [Stone Knights](Stone_Knight.md) created by the [Celestials](Celestial.md), which appeared in Lumen by falling from [The Nightsea](Glossary.md#the-nightsea) in radiant meteors.
 
 After the [Celestials](Celestial.md) fled the city, it was invaded by the [Kyrsans](Kyrsgarde.md) under [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>)'s will, who destroyed the city and captured [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md), the last king of Constellia.[\[2\]](#cite-note-kaide-2)
 

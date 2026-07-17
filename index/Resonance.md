@@ -57,7 +57,7 @@ Corrupted Resonances are a sub-category of Normal Resonances which are obtained 
 
 The downsides of a Corrupted Resonance include:
 
--   **WITHER:** On use, the player will receive [Wither](Wither.md) for 10% of their max HP.
+-   **WITHER:** On use, the player will receive [Wither](Status_Effects.md#wither) for 10% of their max HP.
 -   **MANIA:** On use, the player will lose 40 sanity.
 -   **POISON:** On use, the player will lose 7% HP.[\[1\]](#cite-note-1) If used below 6% health, you will be left at 1 health.
 -   **BLOOD LOSS:** On use the player will lose 15% of their max blood. (Bypasses the Talent Cauterized Wounds)
@@ -137,16 +137,16 @@ The main factor in obtaining a Resonance is _how far you are in the hidden stat 
 | **What to do:** |
 | --- |
 | Fight and kill [Boss](Bosses.md) Monsters, including:
--   [Primadon](Primadon.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Dread Serpent](Dread_Serpent.md)
--   [Duke Erisia](Duke_Erisia.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [The Ferryman](The_Ferryman.md)
--   [Blizzard Knights](Blizzard_Knight.md)
+-   [Blizzard Knights](Stone_Knight.md#blizzard-knight)
 -   [Nautilodaunt](Nautilodaunt.md)
--   [The Enforcer](The_Enforcer.md)
+-   [The Enforcer](Enforcer.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
--   [Doom of Caeranthil](Doom_of_Caeranthil.md)
+-   [Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Interluminary Parasol](Interluminary_Parasol.md)
 -   [Heart of Enmity](Heart_of_Enmity.md)
 
@@ -165,14 +165,14 @@ The main factor in obtaining a Resonance is _how far you are in the hidden stat 
 
 -   **[Scion of Ethiron](Scion_of_Ethiron.md)** gives the highest Progress reward of all boss monsters, allowing the player obtain a resonance in just 2-3 runs as well as dropping the best loot in the game. However, his fight brings a lot of risk as the player is incredibly prone to wiping in the Second Layer.
 -   **[Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)** grants a great amount of progress, which becomes even higher when done without a Light Hook. It can be a good way to farm great loot as well as get Progress along the way. **Can be risky if the player is fighting Chaser for the first time, as the player can be wiped in the Second Layer.**
--   **[Duke Erisia](Duke_Erisia.md)** gives a good amount of Progress on grip, and is reliable to summon. While his loot isn't too great, this was the preferred way of obtaining resonance for a long time for most players.
+-   **[Duke Erisia](Duke_Ishamon_Erisia.md)** gives a good amount of Progress on grip, and is reliable to summon. While his loot isn't too great, this was the preferred way of obtaining resonance for a long time for most players.
 -   **[The Ferryman](The_Ferryman.md)** gives a moderate amount of progress and is easy to summon, but has a very long fight, and can easily become lethal to those unexperienced with his dance. You can earn season-based loot and the Stormseye from his fight as well, but for most, the Progress is more worth it. **Side: The Ferryman now provides Knowledge. See [more](Knowledge.md).**
 -   **[Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)** gives a good amount of progress and it's very easy to rematch him. However, he is extremely punishing to those unfamiliar with his moveset. Should you become familiar with his fight, you'll be rewarded with some of the best loot in the game and ease of access.
 -   **[Dread Serpent](Dread_Serpent.md)** has a high Progress reward, but is hard to find without an [Ardour Manifestation](Ardour_Manifestation.md). As a bonus, finishing him will provide you with the **[Ardour](Murmur%253A_Ardour.md)** murmur if you do not already have a murmur. You can remove your murmur with a Yun'shul wish.
--   **[Primadon](Primadon.md)** has been deemed less reliable to fight by the community upon the drop of **[Verse 2](Verse_2.md).** While one is still able to fight him for Progress, there are now better ways to gain Progress that also provide better side benefits (see the top of the list). The loot he drops as well is considered outdated by most of the community. **Side: Primadon now provides Knowledge. See [more](Knowledge.md).**
--   **[The Enforcer](The_Enforcer.md)** is not recommended for reasons that should be obvious, having to go to The Depths and face him in the trial each time, risking wiping from it or other players. While fighting him is debatably safer than the two below, wiping to disconnecting is still a possibility if below 60% health.
--   **[Blizzard Knights](Stone_Knight.md)** are, by far, one of the worst methods of getting Progress. They spawn in a [voidzone](Voidzones.md) known as the [Valley of Heroes](Valley_of_Heroes.md) in highly lethal swarms, during Winter in [Minityrsa](Minityrsa.md), and if that wasn't enough, they give almost no Progress... However, they can provide you with [Hero Blades](Hero_Blades.md) if you're interested in getting one.
--   **[Nautilodaunts](Nautilodaunt.md)** are confirmed to give Progress, however due to being a rare and highly dangerous Depths mob that can be interrupted by other players, he is highly advised against, as this may as well just be the **worst way to get Progress** when looking at efficiency... Though, if you're interested in an [Elite Pathfinder](Elite_Pathfinder_Coat.md), you could try your luck.
+-   **[Primadon](Primadon,_Titan_of_the_East.md)** has been deemed less reliable to fight by the community upon the drop of **[Verse 2](Verse_2.md).** While one is still able to fight him for Progress, there are now better ways to gain Progress that also provide better side benefits (see the top of the list). The loot he drops as well is considered outdated by most of the community. **Side: Primadon now provides Knowledge. See [more](Knowledge.md).**
+-   **[The Enforcer](Enforcer.md)** is not recommended for reasons that should be obvious, having to go to The Depths and face him in the trial each time, risking wiping from it or other players. While fighting him is debatably safer than the two below, wiping to disconnecting is still a possibility if below 60% health.
+-   **[Blizzard Knights](Stone_Knight.md)** are, by far, one of the worst methods of getting Progress. They spawn in a [voidzone](Voidzones.md) known as the [Valley of Heroes](The_Valley_of_Heroes.md) in highly lethal swarms, during Winter in [Minityrsa](Minityrsa.md), and if that wasn't enough, they give almost no Progress... However, they can provide you with [Hero Blades](Hero_Blades.md) if you're interested in getting one.
+-   **[Nautilodaunts](Nautilodaunt.md)** are confirmed to give Progress, however due to being a rare and highly dangerous Depths mob that can be interrupted by other players, he is highly advised against, as this may as well just be the **worst way to get Progress** when looking at efficiency... Though, if you're interested in an [Elite Pathfinder](Pathfinder_Elite.md), you could try your luck.
 
  |
 
@@ -182,7 +182,7 @@ The main factor in obtaining a Resonance is _how far you are in the hidden stat 
 | --- |
 | **Go to [The Depths](The_Depths.md), and kill Players, [Corrupted Monsters](The_Depths.md), and Monsters unique to The Depths.** |
 | **Extra/Important information:** |
-| Only monsters unique to The Depths will count. This includes [Gigamed](Gigamed.md), [Crustaceous Rex](Crustaceous_Rex.md), [The Enforcer](The_Enforcer.md), [Mudskipper Broodlord](Mudskipper_Broodlord.md) and [Nautilodaunt](Nautilodaunt.md). **Other monsters WILL NOT give progress, unless they are Corrupted.**
+| Only monsters unique to The Depths will count. This includes [Gigamed](Gigamed.md), [Crustaceous Rex](Crustaceous_Rex.md), [The Enforcer](Enforcer.md), [Mudskipper Broodlord](Mudskipper_Broodlord.md) and [Nautilodaunt](Nautilodaunt.md). **Other monsters WILL NOT give progress, unless they are Corrupted.**
   
 When killing players, you will not gain Progress upon grip unless they are around your general Power level. _You must also bear the weight of ruining someone's day, so please keep that in mind._
 
@@ -225,7 +225,7 @@ Once you face death in [The Depths](The_Depths.md) and your health reaches 0%, i
 
 Once you select your card, using C will activate your **Resonance**.
 
--   While many players choose to commit to "bell checking" in order to obtain their Resonance quickly by intentionally dying to enemies, other players might instead choose to obtain their Resonance through the natural intended means of defying death. **Obtaining your Resonance through the intended means will save you from being knocked once in Layer 1/[Scyphozia](First_Layer.md) or Layer 2/[Eternal Gale](Second_Layer.md)/[New Kyrsa](New_Kyrsa,_The_Sleeping_City.md), and most likely save you from wiping.**
+-   While many players choose to commit to "bell checking" in order to obtain their Resonance quickly by intentionally dying to enemies, other players might instead choose to obtain their Resonance through the natural intended means of defying death. **Obtaining your Resonance through the intended means will save you from being knocked once in Layer 1/[Scyphozia](First_Layer.md) or Layer 2/[Eternal Gale](Second_Layer.md)/[New Kyrsa](Second_Layer/New_Kyrsa.md), and most likely save you from wiping.**
 -   Otherwise, it's safest to bell check in Layer 2 **after obtaining a [Light Hook](Light_Hook.md) from [Klaris](Klaris_Llfiend,_Mother_of_Lights.md)**, as the Light Hook prevents you from being wiped in Layer 2.
 -   Note that any cause of death, including from enemies, PVP, dying from [Insanity](Insanity.md), and [parasites](Second_Layer/The_Ethironal_Shrine.md#parasites) in Layer 2 is able to bell check.
 
@@ -243,7 +243,7 @@ Once you select your card, using C will activate your **Resonance**.
 -   Near release, there were rumors of Blessed Resonances - opposite of Corrupted Resonances - existing and being equally as rare. These have been debunked and do not exist in the game.
 -   Two of the bell models resemble the Beckoning Bell and Small Resonant Bell from _Bloodborne_.
 -   Ragoozer has confirmed that he is interested in **Evolved Bells**.\[citation needed\]
--   Resonances might not be common knowledge to most, seeing as [Alastir](Alastir.md) had noted the bell on [Duke Erisia's](Duke_Erisia.md) waist but did not recognize it as a Resonance.
+-   Resonances might not be common knowledge to most, seeing as [Alastir](Alastir.md) had noted the bell on [Duke Erisia's](Duke_Ishamon_Erisia.md) waist but did not recognize it as a Resonance.
 -   Arch\_Mage confirmed that back in Verse One, Adept & Mark of the Lone Warrior didn't affect Resonance progression.
 -   It has been reported that the Boss Path can switch to the Depths Path suddenly for unknown reasons, likely due to a bug.
 -   Bosses are the most efficient way to gain Resonance progression.

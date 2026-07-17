@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Critic
 
 ## Description
 
-Elastic is a debuffing [enchantment](Enchantment.md) that tethers your opponent on hit.
+Elastic is a debuffing [enchantment](Enchantments.md) that tethers your opponent on hit.
 
 ## Effect
 
@@ -29,8 +29,8 @@ Tethered PvE enemies deal reduced damage to you, scaling on how far away they ar
 ### Notes
 
 -   Elastic cannot proc on [Bullets](Bullets.md).
--   Elastic's effects can be procced on weapon criticals if they have the [M1 tag](M1_tag.md).
--   Elastic's damage reduction in PvE is based on how far the center of the enemy is away from you. This means large enemies like [Primadon](Primadon.md) will deal heavily reduced damage to you, even if they are standing right next to you.
+-   Elastic's effects can be procced on weapon criticals if they have the M1 tag.
+-   Elastic's damage reduction in PvE is based on how far the center of the enemy is away from you. This means large enemies like [Primadon](Primadon,_Titan_of_the_East.md) will deal heavily reduced damage to you, even if they are standing right next to you.
 -   Elastic's pulling effect has a range limit of 92.5 studs.
 
 ## Trivia

@@ -28,6 +28,6 @@ categories: [Authority Faction Item, Weapons, Shields, Offhand]
 
 ## Description
 
-Bronze Aspis is a [side weapon](Weapons.md) in the [Shields](Weapons.md#offhand) category. The requirement to wield it is 15 FTD, or the [Authority Ensign](Authority_Ensign.md) [Origin](Origin.md).
+Bronze Aspis is a [side weapon](Weapons.md) in the [Shields](Weapons.md#offhand) category. The requirement to wield it is 15 FTD, or the [Authority Ensign](Authority_Ensign.md) [Origin](Origins.md).
 
 The **Max Posture Bonus** stat can be increased with **Weight** Quality Stars.

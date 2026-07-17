@@ -29,7 +29,7 @@ One of the most distinct aspects in Lumen for their infamous cat ears, Felinor g
 
   
 
-<table><tbody><tr><td></td><td><b>Nightchild</b><p><i>Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces.</i></p><ul><li>1.25x agility when climbing, 1.5x agility when climbing wooden surfaces.</li><li>Starts with 20% <a href="Stealth.md">Stealth</a> and has a 1.2x Stealth gain multiplier.<ul><li>This Stealth gain multiplier <b>does not</b> apply to Stealth gained from Crouching, <a href="Talents.md#lowstride">Lowstride</a>, <a href="Tacet.md">Tacet</a>, or <a href="Talents.md#tacet-minimization">Tacet Minimization</a>.</li></ul></li></ul></td></tr><tr><td><center><font>+</font></center></td><td><b>Attribute Boosts</b><ul><li>+3 Agility</li><li>+2 Charisma</li></ul></td></tr></tbody></table>
+<table><tbody><tr><td></td><td><b>Nightchild</b><p><i>Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces.</i></p><ul><li>1.25x agility when climbing, 1.5x agility when climbing wooden surfaces.</li><li>Starts with 20% <a href="Stealth.md">Stealth</a> and has a 1.2x Stealth gain multiplier.<ul><li>This Stealth gain multiplier <b>does not</b> apply to Stealth gained from Crouching, <a href="Talents.md#lowstride">Lowstride</a>, <a href="Murmur%253A_Tacet.md">Tacet</a>, or <a href="Talents.md#tacet-minimization">Tacet Minimization</a>.</li></ul></li></ul></td></tr><tr><td><center><font>+</font></center></td><td><b>Attribute Boosts</b><ul><li>+3 Agility</li><li>+2 Charisma</li></ul></td></tr></tbody></table>
 
 **Iron Vow:**
 
@@ -50,7 +50,7 @@ Felinor are known to seek a life of freedom, but are perceived as thieves/outlaw
 -   +3 Agility
 -   +2 Charisma
 -   Climbs faster and higher, especially against wood surfaces including trees.
-    -   Great for escaping or chasing, and makes climb height massive when combined with [Jetstriker](Jetstriker.md).
+    -   Great for escaping or chasing, and makes climb height massive when combined with [Jetstriker](Oath%253A_Jetstriker.md).
 -   Practically not affected by the Obvious flaw.
     
 
@@ -87,7 +87,7 @@ Felinors have cat ears with optional ear fluff. The color of the fluff, as well 
 -   When wearing a helmet or hat, it will not hide the cat ears, instead they will go through the headwear.
 -   For April Fools 2022 ([Mudwoken](Mudwoken.md)), Felinors had their aspect name changed to "Abomination", which is unique compared to the other aspect names that were changed.
     -   This _may_ be because of the disdain the community shows towards them.
--   The [stealth](Stealth.md) gain multiplier applies to negative stealth gain as well, making the [Obvious](Obvious.md) Flaw grant -24% stealth. This becomes a net -4% stealth due to the innate 20% stealth that Felinor's start with.
+-   The [stealth](Stealth.md) gain multiplier applies to negative stealth gain as well, making the [Obvious](Boons_and_Flaws.md#obvious) Flaw grant -24% stealth. This becomes a net -4% stealth due to the innate 20% stealth that Felinor's start with.
 -   "Felinor" comes from the word _Feline_, which means cat or another member of the cat family i.e. lion, tiger, lynx.
 -   Felinor wasn't even intended to be added to the game, and was originally an inside joke mocking cat-themed Kemonomimis, a concept very popular in anime and thus widely looked down upon outside of it.[\[1\]](#cite-note-1)
 -   Felinor will say things such as "Me-ow!" and "Nyah!" when engaging combat, as opposed to other aspects.

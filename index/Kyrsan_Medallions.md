@@ -19,7 +19,7 @@ categories: [Items, Layer 2, Floor 2, Currency]
 
 The medallions in hand
 
-**Kyrsan Medallions** are an end-game currency that can be obtained from [New Kyrsa](New_Kyrsa,_The_Sleeping_City.md) within the [Second Layer](Second_Layer.md). They can be exchanged at [Klaris Llfiend](Klaris_Llfiend.md) for [Enchant Stones](Enchant_Stone.md), [Enchant Grease](Enchant_Grease.md), or [Knowledge](Knowledge.md). They are also required for obtaining and progressing the [Dawnwalker](Oath%253A_Dawnwalker.md) Oath.
+**Kyrsan Medallions** are an end-game currency that can be obtained from [New Kyrsa](Second_Layer/New_Kyrsa.md) within the [Second Layer](Second_Layer.md). They can be exchanged at [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) for [Enchant Stones](Enchant_Stone.md), [Enchant Grease](Enchant_Grease.md), or [Knowledge](Knowledge.md). They are also required for obtaining and progressing the [Dawnwalker](Oath%253A_Dawnwalker.md) Oath.
 
 ## Obtainment
 

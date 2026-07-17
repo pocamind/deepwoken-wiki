@@ -26,19 +26,19 @@ categories: [Outfits, Unique Outfits, World Event, Outfits with Talents, Outfits
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Heretic's Momento** is a Unique [Outfit](Outfit.md) in _Deepwoken_.
+**Heretic's Momento** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 500 and requires ten (10) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), five (5) [Gold](Gold.md), one (1) [Wayward Gem](Wayward_Gem.md), and five (5) [Vibrant Gems](Vibrant_Gem.md) to craft.
+This Outfit costs 500 and requires ten (10) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), five (5) [Gold](Ores.md#gold), one (1) [Wayward Gem](Wayward_Gem.md), and five (5) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 2000 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +10% Blunt resistance ResistanceBlunt, +25% Elemental resistance [ResistanceElemental](Attunement.md), +25% Ironsing resistance [ResistanceIronsing](Ironsing.md), +5% Shadow resistance [ResistanceShadowcast](Shadowcast.md), and +100% Ether Regen [IconEther](Ether.md).
+This Outfit has 2000 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +10% Blunt resistance ResistanceBlunt, +25% Elemental resistance [ResistanceElemental](Attunements.md), +25% Ironsing resistance [ResistanceIronsing](Ironsing.md), +5% Shadow resistance [ResistanceShadowcast](Shadowcast.md), and +100% Ether Regen [IconEther](Ether.md).
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 32.5% Blunt ResistanceBlunt, 25% Slash ResistanceSlash, 43.75% Ironsing [ResistanceIronsing](Ironsing.md), 28.75% Shadowcast [ResistanceShadowcast](Shadowcast.md), and 25% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 

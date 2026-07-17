@@ -25,21 +25,21 @@ categories: [Outfits, Expert Outfits, Drops, Outfits with Talents, "Outfits with
 | weight | 1 |
 | shirt | Shirt • Pants (Default), Shirt • Pants (Shirtless) |
 
-**Martial Artist** is an Expert [Outfit](Outfit.md) in _Deepwoken_.
+**Martial Artist** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Requirements
 
 This Outfit costs 100 and requires seven (7) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Odd Tentacle](Odd_Tentacle.md) to craft.
 
-This Outfit additionally requires the player to be at least [Power](Power.md) 10 and have at least 15 [Strength](Strength.md) to be crafted.
+This Outfit additionally requires the player to be at least [Power](Power.md) 10 and have at least 15 [Strength](Attributes.md#str) to be crafted.
 
 ## Armor Stats
 
-This Outfit has 1200 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +20% Elemental resistance [ResistanceElemental](Attunement.md), +5% Fire resistance [ResistanceFlamecharm](Flamecharm.md), +5% Ironsing resistance [ResistanceIronsing](Ironsing.md). Additionally, it provides the [Bruiser's Mixup](Talents.md#bruisers-mixup) Talent.
+This Outfit has 1200 durability and grants +30% Physical resistance ResistanceBlunt ResistanceSlash, +20% Elemental resistance [ResistanceElemental](Attunements.md), +5% Fire resistance [ResistanceFlamecharm](Flamecharm.md), +5% Ironsing resistance [ResistanceIronsing](Ironsing.md). Additionally, it provides the [Bruiser's Mixup](Talents.md#bruisers-mixup) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical ResistanceBlunt ResistanceSlash, 24% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 24% Ironsing [ResistanceIronsing](Ironsing.md), and 20% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 
-The [Bruiser's Mixup](Talents.md#bruisers-mixup) Talent allows your [Fist](Fist.md) attacks to inflict [Bleed](Bleed.md) temporarily after style swapping (Y).
+The [Bruiser's Mixup](Talents.md#bruisers-mixup) Talent allows your [Fist](Fists.md) attacks to inflict [Bleed](Status_Effects.md#bleed) temporarily after style swapping (Y).
 
 ## Trivia
 

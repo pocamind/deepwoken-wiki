@@ -41,7 +41,7 @@ The Edenbrand Hellcoil is a [Greatcannon](Greatcannons.md) weapon held with both
 
 ## Critical
 
-With a lengthy windup, the user fires an [unparryable](Unparryable.md) shot towards the opponent, launching them back from the sheer firepower. The opponent will be sent flying and is afflicted with Daze and [White burn](Status_Effects.md#burn) on hit, a faster ticking variant of Burn with less base damage.
+With a lengthy windup, the user fires an [unparryable](Combat_Mechanics.md#telegraphed-attacks) shot towards the opponent, launching them back from the sheer firepower. The opponent will be sent flying and is afflicted with Daze and [White burn](Status_Effects.md#burn) on hit, a faster ticking variant of Burn with less base damage.
 
 This attack has a windup of 2.05s and an endlag of 0.75s with 1.5s of hyperarmor on the later half of the critical's windup. The user will be slowed down by 70% during the critical's windup.
 
@@ -49,7 +49,7 @@ The critical deals 2x your weapon's scaled M1 damage, dealt as **true damage** i
 
 The critical has a cooldown of **14 seconds**.
 
-This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talent](Talent.md) effects.
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talent](Talents.md) effects.
 
 ## Trivia
 

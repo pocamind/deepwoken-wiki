@@ -25,7 +25,7 @@ categories: [Items, Food]
 
 **Crab Pizza** is a craftable [Food](Food.md) item.
 
-It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Vegetarian.md) Flaw.
+It is a type of **Meat**, meaning it cannot be eaten with the [Vegetarian](Boons_and_Flaws.md#vegetarian) Flaw.
 
 ### Effect
 
@@ -35,4 +35,4 @@ When consumed, it replenishes 40% Stomach and 2% Water.
 
 ### Recipe
 
--   1 [Bread](Bread.md), 1 [Cheese](Cheese.md), and 1 [Crustacean Meat](Crustacean_Meat.md), no [Campfire](Campfire.md) required.
+-   1 [Bread](Bread.md), 1 [Cheese](Cheese.md), and 1 [Crustacean Meat](Crustacean_Meat.md), no [Campfire](Campfire_Pit.md) required.

@@ -29,4 +29,4 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Evengardes Keepsake \[_[sic](https://en.wikipedia.org/wiki/sic)_\] is a [Relic](Relic.md) Ring [Equipment](Equipment.md) that gives the user the [Chain of Perfection](Talents.md#chain-of-perfection) Talent.
+Evengardes Keepsake \[_[sic](https://en.wikipedia.org/wiki/sic)_\] is a [Relic](Relics.md) Ring [Equipment](Equipment.md) that gives the user the [Chain of Perfection](Talents.md#chain-of-perfection) Talent.

@@ -24,16 +24,16 @@ categories: [Outfits, Expert Outfits]
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Troublemaker's Overcoat** is a Expert [Outfit](Outfit.md) in _Deepwoken_.
+**Troublemaker's Overcoat** is a Expert [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit costs 100 and requires ten (10) [Cloth](Cloth.md) ten (10) [Fiber](Fiber.md), five (5) [Iron](Iron.md), and five (5) [Megalodaunt Hides](Megalodaunt_Hide.md) to craft.
+This Outfit costs 100 and requires ten (10) [Cloth](Cloth.md) ten (10) [Fiber](Fiber.md), five (5) [Iron](Ores.md#iron), and five (5) [Megalodaunt Hides](Megalodaunt_Hide.md) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 8 to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 2500 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash and +20% Elemental resistance [ResistanceElemental](Attunement.md).
+This Outfit has 2500 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash and +20% Elemental resistance [ResistanceElemental](Attunements.md).

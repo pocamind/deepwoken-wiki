@@ -24,9 +24,9 @@ The _Cathedral of Ethiron_ is a landmark in [The Maw of Ethiron](The_Maw_of_Ethi
 
 ## Contents
 
-[Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) can be found here, where his fight is initiated. Once defeated, an opening leading to [New Kyrsa](New_Kyrsa,_The_Sleeping_City.md) and a light hook embroidered by [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) will appear.
+[Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) can be found here, where his fight is initiated. Once defeated, an opening leading to [New Kyrsa](Second_Layer/New_Kyrsa.md) and a light hook embroidered by [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) will appear.
 
 ## Trivia
 
 -   There are numerous Apprentice Diver corpses alongside the corpse of a Deepdelver hung on hooks, presumably killed by Chaser.
-    -   Some of the Diver corpses bear resemblance to [Lance Leshi](Lance_Leshi.md) and [Lance's Brother](<Lance's_Brother.md>), though it is highly unlikely that they are the same people who are killed.
+    -   Some of the Diver corpses bear resemblance to [Lance Leshi](Lance.md) and [Lance's Brother](<Lance's_Brother.md>), though it is highly unlikely that they are the same people who are killed.

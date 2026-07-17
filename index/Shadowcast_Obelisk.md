@@ -15,7 +15,7 @@ categories: [NPCs, NPCs located in the Eastern Luminant, Oath Trainer]
 
 ## Description
 
-The Shadowcast Obelisk is an [NPC](NPC.md) located on the [Moon's Eyrie](<Moon's_Eyrie.md>) atop a path leading to a high-up, dangerous and [windy](<Wind_(hazard).md>) area above its pillars and found in a crack in the wall at the end of the path. It must be located and interacted with, along with [4 other element-based obelisks](Saintsworn_Obelisks.md), to obtain the [Saintsworn](Saintsworn.md) [Oath](Oath.md).
+The Shadowcast Obelisk is an NPC located on the [Moon's Eyrie](<Moon's_Eyrie.md>) atop a path leading to a high-up, dangerous and [windy](Second_Layer/The_Ethironal_Shrine.md#wind) area above its pillars and found in a crack in the wall at the end of the path. It must be located and interacted with, along with [4 other element-based obelisks](Saintsworn_Obelisks.md), to obtain the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md).
 
 It can only be interacted with if you have at least 15 [Shadowcast](Shadowcast.md). When interacted with, [Urek Felhand](Urek_Felhand.md), the Hero of Shadow, will speak to the player.
 

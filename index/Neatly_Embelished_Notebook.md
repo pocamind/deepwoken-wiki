@@ -10,7 +10,7 @@ categories: [Books]
 
 ## Description
 
-_**Neatly Embelished Notebook**_ is a [Book](Book.md).
+_**Neatly Embelished Notebook**_ is a [Book](Books.md).
 
 ## Text
 

@@ -28,19 +28,19 @@ categories: [Pathfinder Exclusive, Outfits, Unique Outfits, Etrea, Outfits with 
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-**Stratos' Cloak** is an Unique [Outfit](Outfit.md) in _Deepwoken_.
+**Stratos' Cloak** is an Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
 ### _Requirements_
 
-This Outfit has no cost and requires five (5) [Cloth](Cloth.md), ten (10) [Erisore](Erisore.md), two (2) [Strange Claws](Strange_Claw.md), one (1) [Wind Gem](Wind_Gem.md), and one (1) [Vibrant Gem](Vibrant_Gem.md) to craft.
+This Outfit has no cost and requires five (5) [Cloth](Cloth.md), ten (10) [Erisore](Ores.md#erisore), two (2) [Strange Claws](Strange_Claw.md), one (1) [Wind Gem](Wind_Gem.md), and one (1) [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 2200 durability and grants +20% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunement.md), and +25% Shadow resistance [ResistanceShadowcast](Shadowcast.md). Additionally, it provides the [Breeze](Talents.md#breeze) Talent.
+This Outfit has 2200 durability and grants +20% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), and +25% Shadow resistance [ResistanceShadowcast](Shadowcast.md). Additionally, it provides the [Breeze](Talents.md#breeze) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 20% Physical ResistanceBlunt ResistanceSlash, 47.5% Shadowcast [ResistanceShadowcast](Shadowcast.md), 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFlamecharm](Flamecharm.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceIronsing](Ironsing.md) [ResistanceThundercall](Thundercall.md).
 

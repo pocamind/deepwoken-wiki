@@ -18,7 +18,7 @@ This content is not accessible outside of this gamemode.
 
 ## Descrition
 
-The legendary Boot is an [NPC](NPCs.md) that searches for someone worthy to wear it. It is possible to be worthy by having the [Worthy Regalia](Regalia.md).
+The legendary Boot is an NPC that searches for someone worthy to wear it. It is possible to be worthy by having the [Worthy Regalia](Regalia.md).
 
 ## Location
 

@@ -18,7 +18,7 @@ categories: [Enchantments, Equipment Enchantments]
 
 ## Description
 
-Entanglement is a damage reduction equipment [enchantment](Enchantment.md) that grants damage reduction on proc, at the cost of slowing yourself.
+Entanglement is a damage reduction equipment [enchantment](Enchantments.md) that grants damage reduction on proc, at the cost of slowing yourself.
 
 ## Effect
 

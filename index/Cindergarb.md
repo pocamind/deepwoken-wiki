@@ -26,7 +26,7 @@ categories: [Outfits, Unique Outfits, Outfits with Talents, "Outfits with Non-ex
 | weight | 1 |
 | shirt | Shirt • Pants |
 
-**Cindergarb** is a Unique [Outfit](Outfit.md) in _Deepwoken_.
+**Cindergarb** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
@@ -38,7 +38,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 3000 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunement.md), +15% Metal resistance [ResistanceIronsing](Ironsing.md), +20% Fire resistance [ResistanceFlamecharm](Flamecharm.md), and +75% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Warding Radiance](Talents.md#warding-radiance) and the [Repeated Propulsion](Talents.md#repeated-propulsion) Talents.
+This Outfit has 3000 durability and grants +25% Physical resistance ResistanceBlunt ResistanceSlash, +30% Elemental resistance [ResistanceElemental](Attunements.md), +15% Metal resistance [ResistanceIronsing](Ironsing.md), +20% Fire resistance [ResistanceFlamecharm](Flamecharm.md), and +75% Ether Regen [IconEther](Ether.md). Additionally, it provides the [Warding Radiance](Talents.md#warding-radiance) and the [Repeated Propulsion](Talents.md#repeated-propulsion) Talents.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical ResistanceBlunt ResistanceSlash, 44% Flamecharm [ResistanceFlamecharm](Flamecharm.md), 40.5% Ironsing [ResistanceIronsing](Ironsing.md), and 30% Elemental [ResistanceBloodrend](Bloodrend.md) [ResistanceFrostdraw](Frostdraw.md) [ResistanceGalebreathe](Galebreathe.md) [ResistanceShadowcast](Shadowcast.md) [ResistanceThundercall](Thundercall.md).
 

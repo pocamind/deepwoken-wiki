@@ -40,12 +40,12 @@ Variants: [Brim](<Sorcerer's_Brim.md>)
 
 The Sorcerer's Mantle is a [Vow of Iron](Vow_of_Iron.md) exclusive [Equipment](Equipment.md) item under the "Arms" category.
 
-The [Sorcerer's Surge](Talents.md#sorcerers-surge) Talent reduces the cooldown of your [Vent](Vent.md) by 2.5 seconds, entirely removing the cooldown. The [Overflowing Dam](Talents.md#overflowing-dam) Talent grants a 10% damage buff to your M1s while your Ether bar is full. Overflowing Dam's damage buff scales on your Intelligence investment, losing 0.125% per point of Intelligence below 40. At 5 Intelligence, you will only gain a 5.625% damage buff.
+The [Sorcerer's Surge](Talents.md#sorcerers-surge) Talent reduces the cooldown of your [Vent](Combat_Mechanics.md#tempo) by 2.5 seconds, entirely removing the cooldown. The [Overflowing Dam](Talents.md#overflowing-dam) Talent grants a 10% damage buff to your M1s while your Ether bar is full. Overflowing Dam's damage buff scales on your Intelligence investment, losing 0.125% per point of Intelligence below 40. At 5 Intelligence, you will only gain a 5.625% damage buff.
 
 ## Set Talent
 
 When wearing the full equipment set, you will gain the Set Talent:
 
-Set Talent: [Sorcerer's Supply](Talents.md#sorcerers-supply) - Increase the amount of [Tempo](Tempo.md) you have by 10/30.
+Set Talent: [Sorcerer's Supply](Talents.md#sorcerers-supply) - Increase the amount of [Tempo](Combat_Mechanics.md#tempo) you have by 10/30.
 
-This increases your [Tempo](Tempo.md) by 10 in [Pathfinder](Pathfinder.md) and 30 in [Vow of Iron](Vow_of_Iron.md).
+This increases your [Tempo](Combat_Mechanics.md#tempo) by 10 in [Pathfinder](Pathfinder.md) and 30 in [Vow of Iron](Vow_of_Iron.md).

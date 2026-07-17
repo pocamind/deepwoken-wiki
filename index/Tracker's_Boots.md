@@ -28,6 +28,6 @@ categories: [Equipment, Legs, Boots, Equipment with Talents, "Equipment with Non
 
 ## Description
 
-The Tracker's Boots are [Equipment](Equipment.md) items under the "Legs" category. They can be found through chests in [Erisia](Erisia.md) and [Starswept Valley](Starswept_Valley.md).
+The Tracker's Boots are [Equipment](Equipment.md) items under the "Legs" category. They can be found through chests in [Erisia](Erisia.md) and [Starswept Valley](The_Starswept_Valley.md).
 
 The [Lowstride](Talents.md#lowstride) Talent grants additional Stealth and movement speed while crouched. Additionally, this Talent silences the weapon sheathe sound effect.

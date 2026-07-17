@@ -19,7 +19,7 @@ notices:
 
 ## Description
 
-An in-game event that celebrates [Shrine of Order](Shrine_of_Order.md) no longer granting an additional flaw. For players who utilized the Shrine of Order prior to the update, one flaw was automatically removed.
+An in-game event that celebrates [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) no longer granting an additional flaw. For players who utilized the Shrine of Order prior to the update, one flaw was automatically removed.
 
 Players who utilized the Shrine of Order prior to the update can speak to it again to unlock the special [Pendant of Order](Pendant_of_Order.md) item, which can also be purchased as a [seasonal item](Seasonal_Medals.md) from [Blacksmiths](Blacksmith.md) under "Ordergeddon '25."
 

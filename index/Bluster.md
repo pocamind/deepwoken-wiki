@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Bluster is a damage dealing [enchantment](Enchantment.md) that explodes your opponent after enough time has passed.
+Bluster is a damage dealing [enchantment](Enchantments.md) that explodes your opponent after enough time has passed.
 
 ## Effect
 
@@ -26,9 +26,9 @@ After landing enough weapon hits, Bluster applies a 10 second countdown on your 
 
 This attack has a base damage of 27.5, and is dealt as typeless damage. Bluster's damage is increased by 0.25 for every point in Weapon investment you have, up to 52.5 damage at 100 weapon.
 
-The hit count required to proc this enchantment varies based on your weapon type, requiring 5 hits for [Light Weapons](Light_Weapons.md), 4 hits for [Medium Weapons](Medium_Weapons.md), and 3 hits for [Heavy Weapons](Heavy_Weapons.md).
+The hit count required to proc this enchantment varies based on your weapon type, requiring 5 hits for Light Weapons, 4 hits for Medium Weapons, and 3 hits for Heavy Weapons.
 
 ### Notes
 
 -   Bluster can be blocked and parried, dealing 10 posture damage if blocked.
--   Bluster procs certain "on flourish" Talents such as [Chainlash](Chainlash.md) and [Hidden Tendril](Hidden_Tendril.md).
+-   Bluster procs certain "on flourish" Talents such as [Chainlash](Oath%253A_Chainwarden.md#chainlash) and [Hidden Tendril](Oath%253A_Contractor.md#hidden-tendril).
