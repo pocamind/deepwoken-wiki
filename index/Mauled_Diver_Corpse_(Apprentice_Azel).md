@@ -33,7 +33,28 @@ Azel Corbet was an [apprentice diver](The_Divers.md) participating in the expedi
 
 ## Dialogue
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2"><i>*A lone body lays abandoned in the wasteland. A journal is attached to the hip.*</i></td></tr><tr><td>[Read the Journal]</td><td>Secrets are best left to the dead</td></tr><tr><td><i>*You find only one legible entry among the tattered pages, and pocket it to read later.*</i></td><td><i>*You leave the body alone*</i></td></tr><tr><td>[End Dialogue], player obtains <a href="Diver's_Journal%253A_Apprentice_Azel.md">Diver's Journal: Apprentice Azel</a></td><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*A lone body lays abandoned in the wasteland. A journal is attached to the hip.*</i></td>
+</tr>
+<tr>
+  <td>[Read the Journal]</td>
+  <td>Secrets are best left to the dead</td>
+</tr>
+<tr>
+  <td><i>*You find only one legible entry among the tattered pages, and pocket it to read later.*</i></td>
+  <td><i>*You leave the body alone*</i></td>
+</tr>
+<tr>
+  <td>[End Dialogue], player obtains <a href="Diver's_Journal%253A_Apprentice_Azel.md">Diver's Journal: Apprentice Azel</a></td>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## References
 

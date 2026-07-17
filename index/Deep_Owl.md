@@ -137,11 +137,43 @@ Note: The player can only speak to a Deep Owl if they are the one to spawn it or
 
 **First Encounter:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">A little mouse comes squeaking into my nest. What possesses it to do so? Please, do sate my curiosity.</td></tr><tr><td colspan="6">I'm just passing through.</td><td colspan="6">What the.. Why can you talk?!</td></tr><tr><td colspan="6">Ah. Carry on then, little mouse. I'm sure you have places to be.</td><td colspan="6">My, my... Such impertinent squeaking. The mice of this land never fail to amaze me.</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">A little mouse comes squeaking into my nest. What possesses it to do so? Please, do sate my curiosity.</td>
+</tr>
+<tr>
+  <td colspan="6">I'm just passing through.</td>
+  <td colspan="6">What the.. Why can you talk?!</td>
+</tr>
+<tr>
+  <td colspan="6">Ah. Carry on then, little mouse. I'm sure you have places to be.</td>
+  <td colspan="6">My, my... Such impertinent squeaking. The mice of this land never fail to amaze me.</td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent Encounters:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12"><i>*The creature tilts its head curiously.*</i></td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12"><i>*The creature tilts its head curiously.*</i></td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Tips
 

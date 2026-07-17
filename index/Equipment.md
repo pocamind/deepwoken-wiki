@@ -42,9 +42,120 @@ Additionally, Head, Legs, and Arms equipment gain +1 Health for every quality st
 
 The following table showcases the net gain of Pips, Health, and sell cost compared to a 0 starred variant of the same equipment. These are not cumulative increases.
 
-<table><caption>Quality Star info</caption><tbody><tr><th>Gain</th><th>★</th><th>★★</th><th>★★★</th></tr><tr><td>Pips</td><td>+1 Rare Pip</td><td>+2 Rare Pips</td><td>+2 Rare Pips, +1 Legendary Pip</td></tr><tr><td>Health<br><small>(Exclusive to Head, Arms, and Legs Equipment)</small></td><td>+1 Health</td><td>+2 Health</td><td>+3 Health</td></tr><tr><td>Sell Value</td><td>+5</td><td>+20</td><td>+50</td></tr></tbody></table>
+<table><caption>Quality Star info</caption>
+<tbody>
+<tr>
+  <th>Gain</th>
+  <th>★</th>
+  <th>★★</th>
+  <th>★★★</th>
+</tr>
+<tr>
+  <td>Pips</td>
+  <td>+1 Rare Pip</td>
+  <td>+2 Rare Pips</td>
+  <td>+2 Rare Pips, +1 Legendary Pip</td>
+</tr>
+<tr>
+  <td>Health<br>
+  <small>(Exclusive to Head, Arms, and Legs Equipment)</small></td>
+  <td>+1 Health</td>
+  <td>+2 Health</td>
+  <td>+3 Health</td>
+</tr>
+<tr>
+  <td>Sell Value</td>
+  <td>+5</td>
+  <td>+20</td>
+  <td>+50</td>
+</tr>
+</tbody>
+</table>
 
-<table><caption>Pips Info</caption><tbody><tr><th>Buffs</th><th>Head</th><th>Arms</th><th>Legs</th><th>Torso</th><th>Face</th><th>Ears</th><th>Rings</th></tr><tr><td>Health (HP)</td><td>4 4 5</td><td>3 4 4 5</td><td>4 4 5</td><td>3 4 5</td><td><center>N/A</center></td><td><center>N/A</center></td><td>2 3 4</td></tr><tr><td>Ether (ETH)</td><td>8 10 12</td><td>8 10 12</td><td>8 10 12</td><td>8 10 12</td><td>4 6 8</td><td>4 8</td><td>4 6 8 10</td></tr><tr><td>Sanity (SAN) (also grants 2/4/6/8 Ether)</td><td><center>N/A</center></td><td><center>N/A</center></td><td><center>N/A</center></td><td><center>N/A</center></td><td>4 6</td><td>6</td><td>4 6 8</td></tr><tr><td>Posture</td><td><center>N/A</center></td><td><center>N/A</center></td><td><center>N/A</center></td><td><center>N/A</center></td><td><center>N/A</center></td><td><center>N/A</center></td><td>1 2</td></tr><tr><td>%Physical Armor (PHY Armor)</td><td>2 4</td><td>2 4</td><td><center>N/A</center></td><td><center>N/A</center></td><td><center>N/A</center></td><td><center>N/A</center></td><td><center>N/A</center></td></tr><tr><td>%Elemental Armor (ELM Armor)</td><td>3 4</td><td>3 4</td><td><center>N/A</center></td><td><center>N/A</center></td><td><center>N/A</center></td><td><center>N/A</center></td><td><center>N/A</center></td></tr><tr><td>Anchor (+3 HP, +0.5 Pos, +10% KB Res)</td><td><center>N/A</center></td><td><center>N/A</center></td><td>1</td><td><center>N/A</center></td><td><center>N/A</center></td><td><center>N/A</center></td><td><center>N/A</center></td></tr></tbody></table>
+<table><caption>Pips Info</caption>
+<tbody>
+<tr>
+  <th>Buffs</th>
+  <th>Head</th>
+  <th>Arms</th>
+  <th>Legs</th>
+  <th>Torso</th>
+  <th>Face</th>
+  <th>Ears</th>
+  <th>Rings</th>
+</tr>
+<tr>
+  <td>Health (HP)</td>
+  <td>4 4 5</td>
+  <td>3 4 4 5</td>
+  <td>4 4 5</td>
+  <td>3 4 5</td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td>2 3 4</td>
+</tr>
+<tr>
+  <td>Ether (ETH)</td>
+  <td>8 10 12</td>
+  <td>8 10 12</td>
+  <td>8 10 12</td>
+  <td>8 10 12</td>
+  <td>4 6 8</td>
+  <td>4 8</td>
+  <td>4 6 8 10</td>
+</tr>
+<tr>
+  <td>Sanity (SAN) (also grants 2/4/6/8 Ether)</td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td>4 6</td>
+  <td>6</td>
+  <td>4 6 8</td>
+</tr>
+<tr>
+  <td>Posture</td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td>1 2</td>
+</tr>
+<tr>
+  <td>%Physical Armor (PHY Armor)</td>
+  <td>2 4</td>
+  <td>2 4</td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+</tr>
+<tr>
+  <td>%Elemental Armor (ELM Armor)</td>
+  <td>3 4</td>
+  <td>3 4</td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+</tr>
+<tr>
+  <td>Anchor (+3 HP, +0.5 Pos, +10% KB Res)</td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td>1</td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+  <td><center>N/A</center></td>
+</tr>
+</tbody>
+</table>
 
   
 _If you believe any information is outdated, report it in our [Discord server](https://discord.com/invite/deepwoken-wiki-768105926351650866)._  

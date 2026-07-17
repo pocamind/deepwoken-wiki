@@ -28,11 +28,41 @@ Makolis Pariah Katatonicus is a [Kyrsan](Kyrsgarde.md) NPC. They can be found si
 
 **First Encounter:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Aelahi, frinwalter. You look tired.</td></tr><tr><td>I suppose I am.</td></tr><tr><td>Sit with me for a while. We will be friends, for but a moment.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Aelahi, frinwalter. You look tired.</td>
+</tr>
+<tr>
+  <td>I suppose I am.</td>
+</tr>
+<tr>
+  <td>Sit with me for a while. We will be friends, for but a moment.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent Encounters:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>It's peaceful, isn't it?</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>It's peaceful, isn't it?</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Unlockable Dialogue:**
 
@@ -40,11 +70,35 @@ This dialogue is unlocked if the player uses the [Resting Emote](Emotes.md) whil
 
 **First Encounter:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>You are a good friend.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>You are a good friend.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent Encounters:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Thank you, friend. I will remember you.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Thank you, friend. I will remember you.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

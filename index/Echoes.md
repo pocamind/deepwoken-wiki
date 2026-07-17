@@ -185,15 +185,271 @@ There are 11 upgrades and 15 unlocks to purchase. Each upgrade can be purchased 
 
 **Upgrades:**
 
-<table><tbody><tr><td><b>Upgrade</b></td><td><b>Effect</b></td><td><b>Cost</b></td><td><b>Increment</b></td><td><b>Maximum</b></td></tr><tr><td><b>Resonance Progress</b></td><td>Increases the speed <a href="Resonance.md">Resonance</a> progress is made.</td><td>50 Echoes</td><td>5%</td><td>20%</td></tr><tr><td><b>Resonance Rarity</b></td><td>Your increased chance to obtain Legendary or Corrupted <a href="Resonance.md">Resonance</a>. At Max, your chances are doubled.</td><td>50 Echoes</td><td>2</td><td>10</td></tr><tr><td><b>Mob Armor</b></td><td>Increases armor against mobs.</td><td>50 Echoes</td><td>2%</td><td>8%</td></tr><tr><td><b>Mob Damage</b></td><td>Increases damage dealt to mobs.</td><td>50 Echoes</td><td>2%</td><td>8%</td></tr><tr><td><b>Stomach Capacity</b></td><td>Slows the rate at which the hunger bar goes down.</td><td>25 Echoes</td><td>2%</td><td>10%</td></tr><tr><td><b>Thirst Capacity</b></td><td>Slows the rate at which the thirst bar goes down.</td><td>25 Echoes</td><td>2%</td><td>10%</td></tr><tr><td><b>Carrying Capacity</b></td><td>Your abillity to carry more items.</td><td>50 Echoes</td><td>5</td><td>30</td></tr><tr><td><b>Passdown Capacity</b></td><td>Increases the amount of items you can pass down upon wiping.</td><td>50 Echoes</td><td>1</td><td>4</td></tr><tr><td><b>Starting Notes</b></td><td>Increases the number of <a href="Notes.md">Notes</a> that new characters start with.</td><td>25 Echoes</td><td>5</td><td>25</td></tr><tr><td><b>Starting Knowledge</b></td><td>Increases the amount of <a href="Knowledge.md">Knowledge</a> new characters start with.</td><td>25 Echoes</td><td>1</td><td>5</td></tr><tr><td><b>Starting Ace</b></td><td>Increases the number of <a href="Aces.md">Aces</a> new players start with.</td><td>50 Echoes</td><td>1</td><td>2</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><b>Upgrade</b></td>
+  <td><b>Effect</b></td>
+  <td><b>Cost</b></td>
+  <td><b>Increment</b></td>
+  <td><b>Maximum</b></td>
+</tr>
+<tr>
+  <td><b>Resonance Progress</b></td>
+  <td>Increases the speed <a href="Resonance.md">Resonance</a> progress is made.</td>
+  <td>50 Echoes</td>
+  <td>5%</td>
+  <td>20%</td>
+</tr>
+<tr>
+  <td><b>Resonance Rarity</b></td>
+  <td>Your increased chance to obtain Legendary or Corrupted <a href="Resonance.md">Resonance</a>. At Max, your chances are doubled.</td>
+  <td>50 Echoes</td>
+  <td>2</td>
+  <td>10</td>
+</tr>
+<tr>
+  <td><b>Mob Armor</b></td>
+  <td>Increases armor against mobs.</td>
+  <td>50 Echoes</td>
+  <td>2%</td>
+  <td>8%</td>
+</tr>
+<tr>
+  <td><b>Mob Damage</b></td>
+  <td>Increases damage dealt to mobs.</td>
+  <td>50 Echoes</td>
+  <td>2%</td>
+  <td>8%</td>
+</tr>
+<tr>
+  <td><b>Stomach Capacity</b></td>
+  <td>Slows the rate at which the hunger bar goes down.</td>
+  <td>25 Echoes</td>
+  <td>2%</td>
+  <td>10%</td>
+</tr>
+<tr>
+  <td><b>Thirst Capacity</b></td>
+  <td>Slows the rate at which the thirst bar goes down.</td>
+  <td>25 Echoes</td>
+  <td>2%</td>
+  <td>10%</td>
+</tr>
+<tr>
+  <td><b>Carrying Capacity</b></td>
+  <td>Your abillity to carry more items.</td>
+  <td>50 Echoes</td>
+  <td>5</td>
+  <td>30</td>
+</tr>
+<tr>
+  <td><b>Passdown Capacity</b></td>
+  <td>Increases the amount of items you can pass down upon wiping.</td>
+  <td>50 Echoes</td>
+  <td>1</td>
+  <td>4</td>
+</tr>
+<tr>
+  <td><b>Starting Notes</b></td>
+  <td>Increases the number of <a href="Notes.md">Notes</a> that new characters start with.</td>
+  <td>25 Echoes</td>
+  <td>5</td>
+  <td>25</td>
+</tr>
+<tr>
+  <td><b>Starting Knowledge</b></td>
+  <td>Increases the amount of <a href="Knowledge.md">Knowledge</a> new characters start with.</td>
+  <td>25 Echoes</td>
+  <td>1</td>
+  <td>5</td>
+</tr>
+<tr>
+  <td><b>Starting Ace</b></td>
+  <td>Increases the number of <a href="Aces.md">Aces</a> new players start with.</td>
+  <td>50 Echoes</td>
+  <td>1</td>
+  <td>2</td>
+</tr>
+</tbody>
+</table>
 
 **Unlocks:**
 
-<table><tbody><tr><td><b>Unlock</b></td><td><b>Effect</b></td><td><b>Cost</b></td></tr><tr><td><b>Soul Plasticity</b></td><td>Grants immunity to the <a href="Boons_and_Flaws.md#flaws">Tarnished</a> flaw.</td><td>500 Echoes</td></tr><tr><td><b>Multifaceted</b></td><td>The Attribute points you usually receive from your <a href="Aspects.md">Aspect</a> are free for you to allocate.</td><td>250 Echoes</td></tr><tr><td><b>Elementalist</b></td><td>You no longer have a limit to how many attunements you can start with, and you can freely allocate points through them in character creation.</td><td>200 Echoes</td></tr><tr><td><b>Starter Equipment</b></td><td>You start with a pair of <a href="Leather_Gloves.md">leather gloves</a> and <a href="Leather_Boots.md">boots</a>.</td><td>30 Echoes</td></tr><tr><td><b>Starter Weapon: Rapier</b></td><td>Allows you to select the <a href="Quickfang.md">Quickfang</a> as a Starting Weapon.</td><td>25 Echoes</td></tr><tr><td><b>Starter Weapon: Pistol</b></td><td>Allows you to select the <a href="Silversix.md">Silversix</a> as a Starting Weapon.</td><td>25 Echoes</td></tr><tr><td><b>Starter Weapon: Spear</b></td><td>Allows you to select the <a href="Irontusk.md">Irontusk</a> as a Starting Weapon.</td><td>25 Echoes</td></tr><tr><td><b>Starter Weapon: Greatsword</b></td><td>Allows you to select the <a href="Avenger.md">Avenger</a> as a Starting Weapon.</td><td>25 Echoes</td></tr><tr><td><b>Starter Weapon: Bow</b></td><td>Allows you to select the <a href="Ironcry.md">Ironcry</a> as a Starting Weapon.</td><td>25 Echoes</td></tr><tr><td><b>Flint</b></td><td>You start with a <a href="Flint.md">Flint</a> to start fires.</td><td>15 Echoes</td></tr><tr><td><b>Canteen</b></td><td>You start with a <a href="Canteen.md">Canteen</a> to collect water.</td><td>15 Echoes</td></tr><tr><td><b>Pickaxe</b></td><td>You start with a <a href="Pickaxe.md">Pickaxe</a> to gather <a href="Ores.md">ores</a>.</td><td>15 Echoes</td></tr><tr><td><b>Lumber Axe</b></td><td>You start with a <a href="Lumber_Axe.md">Lumber Axe</a> to gather <a href="Wood.md">wood</a>.</td><td>15 Echoes</td></tr><tr><td><b>Fishing Rod</b></td><td>You start with a <a href="Fishing_Rod.md">Fishing Rod</a> to gather <a href="Fishing.md">fish</a>.</td><td>15 Echoes</td></tr><tr><td><b>Glider</b></td><td>You start with a <a href="Gliders.md">Glider</a> to traverse the open air.</td><td>25 Echoes</td></tr><tr><td><b>Choice of Chance</b></td><td>Receive up to 4 cards per hand from the <a href="Deep_Shrines/Shrine_of_Chance.md">Shrine of Chance</a>.</td><td>200 Echoes</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><b>Unlock</b></td>
+  <td><b>Effect</b></td>
+  <td><b>Cost</b></td>
+</tr>
+<tr>
+  <td><b>Soul Plasticity</b></td>
+  <td>Grants immunity to the <a href="Boons_and_Flaws.md#flaws">Tarnished</a> flaw.</td>
+  <td>500 Echoes</td>
+</tr>
+<tr>
+  <td><b>Multifaceted</b></td>
+  <td>The Attribute points you usually receive from your <a href="Aspects.md">Aspect</a> are free for you to allocate.</td>
+  <td>250 Echoes</td>
+</tr>
+<tr>
+  <td><b>Elementalist</b></td>
+  <td>You no longer have a limit to how many attunements you can start with, and you can freely allocate points through them in character creation.</td>
+  <td>200 Echoes</td>
+</tr>
+<tr>
+  <td><b>Starter Equipment</b></td>
+  <td>You start with a pair of <a href="Leather_Gloves.md">leather gloves</a> and <a href="Leather_Boots.md">boots</a>.</td>
+  <td>30 Echoes</td>
+</tr>
+<tr>
+  <td><b>Starter Weapon: Rapier</b></td>
+  <td>Allows you to select the <a href="Quickfang.md">Quickfang</a> as a Starting Weapon.</td>
+  <td>25 Echoes</td>
+</tr>
+<tr>
+  <td><b>Starter Weapon: Pistol</b></td>
+  <td>Allows you to select the <a href="Silversix.md">Silversix</a> as a Starting Weapon.</td>
+  <td>25 Echoes</td>
+</tr>
+<tr>
+  <td><b>Starter Weapon: Spear</b></td>
+  <td>Allows you to select the <a href="Irontusk.md">Irontusk</a> as a Starting Weapon.</td>
+  <td>25 Echoes</td>
+</tr>
+<tr>
+  <td><b>Starter Weapon: Greatsword</b></td>
+  <td>Allows you to select the <a href="Avenger.md">Avenger</a> as a Starting Weapon.</td>
+  <td>25 Echoes</td>
+</tr>
+<tr>
+  <td><b>Starter Weapon: Bow</b></td>
+  <td>Allows you to select the <a href="Ironcry.md">Ironcry</a> as a Starting Weapon.</td>
+  <td>25 Echoes</td>
+</tr>
+<tr>
+  <td><b>Flint</b></td>
+  <td>You start with a <a href="Flint.md">Flint</a> to start fires.</td>
+  <td>15 Echoes</td>
+</tr>
+<tr>
+  <td><b>Canteen</b></td>
+  <td>You start with a <a href="Canteen.md">Canteen</a> to collect water.</td>
+  <td>15 Echoes</td>
+</tr>
+<tr>
+  <td><b>Pickaxe</b></td>
+  <td>You start with a <a href="Pickaxe.md">Pickaxe</a> to gather <a href="Ores.md">ores</a>.</td>
+  <td>15 Echoes</td>
+</tr>
+<tr>
+  <td><b>Lumber Axe</b></td>
+  <td>You start with a <a href="Lumber_Axe.md">Lumber Axe</a> to gather <a href="Wood.md">wood</a>.</td>
+  <td>15 Echoes</td>
+</tr>
+<tr>
+  <td><b>Fishing Rod</b></td>
+  <td>You start with a <a href="Fishing_Rod.md">Fishing Rod</a> to gather <a href="Fishing.md">fish</a>.</td>
+  <td>15 Echoes</td>
+</tr>
+<tr>
+  <td><b>Glider</b></td>
+  <td>You start with a <a href="Gliders.md">Glider</a> to traverse the open air.</td>
+  <td>25 Echoes</td>
+</tr>
+<tr>
+  <td><b>Choice of Chance</b></td>
+  <td>Receive up to 4 cards per hand from the <a href="Deep_Shrines/Shrine_of_Chance.md">Shrine of Chance</a>.</td>
+  <td>200 Echoes</td>
+</tr>
+</tbody>
+</table>
 
 **Modifiers:**
 
-<table><tbody><tr><td><b>Modifier</b></td><td><b>Effect</b></td><td><b>Echo Multiplier</b></td></tr><tr><td><b>Fragile Heart</b><br></td><td>All incoming mob damage is doubled.</td><td><b>+50%</b></td></tr><tr><td><b>Crestfallen</b><br></td><td>Your armor is permanently broken.</td><td><b>+10%</b></td></tr><tr><td><b>Deep Champion</b><br></td><td>Your <a href="Cathedral_of_the_Interstice.md">Depths trial</a> is always corrupted.</td><td><b>+20%</b></td></tr><tr><td><b>Dissonant</b><br></td><td>You are unable to draw forth your <a href="Resonance.md">Resonance</a>.<br><small>(You can still obtain one, but you cannot use it.)</small></td><td><b>+30%</b></td></tr><tr><td><b>Hollow</b><br></td><td>All overworld deaths send you to the <a href="First_Layer.md">Depths</a>.</td><td><b>+10%</b></td></tr><tr><td><b>Slowburn</b><br></td><td>All incoming healing is heavily reduced.</td><td><b>+10%</b></td></tr><tr><td><b>Dealbreaker</b><br></td><td>You sell items for 25% less.</td><td><b>+5%</b></td></tr><tr><td><b>Loose Change</b><br></td><td>All damage received makes you lose notes on hit.</td><td><b>+20%</b></td></tr><tr><td><b>High Velocity</b><br></td><td>All fall damage is heavily amplified, allowing you to die from falls much easier.</td><td><b>+10%</b></td></tr><tr><td><b>One Bit</b><br></td><td>You don't know how to swim.</td><td><b>+20%</b></td></tr><tr><td><b>Destined</b><br></td><td>You don't get to choose what you get when your Power increase, Fate picks for you.</td><td><b>+20%</b></td></tr><tr><td><b>Glass Bones</b><br></td><td>Taking any damage will immediately knock you. Only pick this if you wish to embark on an unforgiving challenge.</td><td><b>+0%</b></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><b>Modifier</b></td>
+  <td><b>Effect</b></td>
+  <td><b>Echo Multiplier</b></td>
+</tr>
+<tr>
+  <td><b>Fragile Heart</b><br>
+  </td>
+  <td>All incoming mob damage is doubled.</td>
+  <td><b>+50%</b></td>
+</tr>
+<tr>
+  <td><b>Crestfallen</b><br>
+  </td>
+  <td>Your armor is permanently broken.</td>
+  <td><b>+10%</b></td>
+</tr>
+<tr>
+  <td><b>Deep Champion</b><br>
+  </td>
+  <td>Your <a href="Cathedral_of_the_Interstice.md">Depths trial</a> is always corrupted.</td>
+  <td><b>+20%</b></td>
+</tr>
+<tr>
+  <td><b>Dissonant</b><br>
+  </td>
+  <td>You are unable to draw forth your <a href="Resonance.md">Resonance</a>.<br>
+  <small>(You can still obtain one, but you cannot use it.)</small></td>
+  <td><b>+30%</b></td>
+</tr>
+<tr>
+  <td><b>Hollow</b><br>
+  </td>
+  <td>All overworld deaths send you to the <a href="First_Layer.md">Depths</a>.</td>
+  <td><b>+10%</b></td>
+</tr>
+<tr>
+  <td><b>Slowburn</b><br>
+  </td>
+  <td>All incoming healing is heavily reduced.</td>
+  <td><b>+10%</b></td>
+</tr>
+<tr>
+  <td><b>Dealbreaker</b><br>
+  </td>
+  <td>You sell items for 25% less.</td>
+  <td><b>+5%</b></td>
+</tr>
+<tr>
+  <td><b>Loose Change</b><br>
+  </td>
+  <td>All damage received makes you lose notes on hit.</td>
+  <td><b>+20%</b></td>
+</tr>
+<tr>
+  <td><b>High Velocity</b><br>
+  </td>
+  <td>All fall damage is heavily amplified, allowing you to die from falls much easier.</td>
+  <td><b>+10%</b></td>
+</tr>
+<tr>
+  <td><b>One Bit</b><br>
+  </td>
+  <td>You don't know how to swim.</td>
+  <td><b>+20%</b></td>
+</tr>
+<tr>
+  <td><b>Destined</b><br>
+  </td>
+  <td>You don't get to choose what you get when your Power increase, Fate picks for you.</td>
+  <td><b>+20%</b></td>
+</tr>
+<tr>
+  <td><b>Glass Bones</b><br>
+  </td>
+  <td>Taking any damage will immediately knock you. Only pick this if you wish to embark on an unforgiving challenge.</td>
+  <td><b>+0%</b></td>
+</tr>
+</tbody>
+</table>
 
 ## Echo Talents/Items
 

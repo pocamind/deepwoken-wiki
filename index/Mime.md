@@ -34,11 +34,53 @@ Mime located in [Songseeker Wilds](Songseeker_Wilds.md) but not on the main isla
 
 **First Encounter:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">HAHAHAHA, oh my GOODNESS! You're so <i>gullible</i>! <i>*He struggles to contain his overwhelming laughter, clearly amused by his prank*</i> Wasn't that good?</td></tr><tr><td colspan="12">..Very funny.</td></tr><tr><td colspan="12">I can't believe you fell for that... Pfft, the look on your face! Now THAT was something. Okay, okay, I've had my fun...</td></tr><tr><td colspan="12">[Charisma] In return for making you laugh, how's about you teach me?</td></tr><tr><td colspan="6">20 or higher Charisma</td><td colspan="6">Requirements Unmet</td></tr><tr><td colspan="6">Hehe! Yeah, yeah! Play around with this mantra, you'll find how <i>marvelous</i> it works with trickery!</td><td colspan="6">Heh, nah. A magician never reveals his tricks. Or something like that.</td></tr><tr><td colspan="6">[End Dialogue], player unlocks <a href="Attunement-less.md#disguise">Disguise</a></td><td colspan="6">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">HAHAHAHA, oh my GOODNESS! You're so <i>gullible</i>! <i>*He struggles to contain his overwhelming laughter, clearly amused by his prank*</i> Wasn't that good?</td>
+</tr>
+<tr>
+  <td colspan="12">..Very funny.</td>
+</tr>
+<tr>
+  <td colspan="12">I can't believe you fell for that... Pfft, the look on your face! Now THAT was something. Okay, okay, I've had my fun...</td>
+</tr>
+<tr>
+  <td colspan="12">[Charisma] In return for making you laugh, how's about you teach me?</td>
+</tr>
+<tr>
+  <td colspan="6">20 or higher Charisma</td>
+  <td colspan="6">Requirements Unmet</td>
+</tr>
+<tr>
+  <td colspan="6">Hehe! Yeah, yeah! Play around with this mantra, you'll find how <i>marvelous</i> it works with trickery!</td>
+  <td colspan="6">Heh, nah. A magician never reveals his tricks. Or something like that.</td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue], player unlocks <a href="Attunement-less.md#disguise">Disguise</a></td>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent Encounters:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Pfffffff........ idiot.</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Pfffffff........ idiot.</td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Mantra Modifications
 

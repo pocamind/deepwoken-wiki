@@ -108,15 +108,92 @@ Celtorian Guards will randomly give one of three dialogue trees when speaking to
 
 **Dialogue Tree 1:**
 
-<table><tbody><tr><td colspan="4">Begin Dialogue</td></tr><tr><td colspan="4">Greetings, outlander. Welcome to the Great <a href="Glossary.md#the-drowned-city-of-celtor">City of Celtor</a>, the beating heart of our great nation.</td></tr><tr><td colspan="4">Great City? It looks dead.</td></tr><tr><td colspan="4">How can it be? The streets are bustling! Please, you must visit the markets. The finest wares of the South await you, I'm sure you'll see.</td></tr><tr><td colspan="4">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="4">Greetings, outlander. Welcome to the Great <a href="Glossary.md#the-drowned-city-of-celtor">City of Celtor</a>, the beating heart of our great nation.</td>
+</tr>
+<tr>
+  <td colspan="4">Great City? It looks dead.</td>
+</tr>
+<tr>
+  <td colspan="4">How can it be? The streets are bustling! Please, you must visit the markets. The finest wares of the South await you, I'm sure you'll see.</td>
+</tr>
+<tr>
+  <td colspan="4">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Dialogue Tree 2:**
 
-<table><tbody><tr><td colspan="4">Begin Dialogue</td></tr><tr><td colspan="4">I-it's not safe here. Get to safety. Won't you?</td></tr><tr><td colspan="2">Where is safe?</td><td colspan="2">How do I get out of here?</td></tr><tr><td colspan="2"><i>*They shudder for a moment, bristling.*</i> Wh-where? Where is safe? The city... The city must be safe. We make it safe.</td><td colspan="2">The Cathedral. Celtor's shining light. It holds the answer. Make haste.</td></tr><tr><td colspan="2">Doesn't seem very safe to me.</td><td colspan="2">[End Dialogue]</td></tr><tr><td colspan="2">No, outlander... It <i>must</i> be safe. We are <i>sworn</i> to its safety. It has to be safe. We will make it safe.</td></tr><tr><td colspan="2">You could start by dealing with some of the monsters roaming around.</td></tr><tr><td colspan="2">N-no. We can't. The deal. This is the deal. We keep the city safe.</td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="4">I-it's not safe here. Get to safety. Won't you?</td>
+</tr>
+<tr>
+  <td colspan="2">Where is safe?</td>
+  <td colspan="2">How do I get out of here?</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*They shudder for a moment, bristling.*</i> Wh-where? Where is safe? The city... The city must be safe. We make it safe.</td>
+  <td colspan="2">The Cathedral. Celtor's shining light. It holds the answer. Make haste.</td>
+</tr>
+<tr>
+  <td colspan="2">Doesn't seem very safe to me.</td>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="2">No, outlander... It <i>must</i> be safe. We are <i>sworn</i> to its safety. It has to be safe. We will make it safe.</td>
+</tr>
+<tr>
+  <td colspan="2">You could start by dealing with some of the monsters roaming around.</td>
+</tr>
+<tr>
+  <td colspan="2">N-no. We can't. The deal. This is the deal. We keep the city safe.</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Dialogue Tree 3:**
 
-<table><tbody><tr><td colspan="4">Begin Dialogue</td></tr><tr><td colspan="4">How long has it been? Tell me, outlander. Please.</td></tr><tr><td colspan="4">Since what?</td></tr><tr><td colspan="4">Since the City fell. Since it started. Since then. Since the City fell, outlander. The City. The City I swore to protect. Since it fell.</td></tr><tr><td colspan="2">Well it's <font>[Current In-game Year]</font> CE right now.</td><td colspan="2">Oh that? That was just a few days ago.</td></tr><tr><td colspan="2"><font>[Current In-game Year Minus 904]</font> years... Hah. Hahaha.<font>[Current In-game Year Minus 904]</font> <i>years</i>. How much longer, stranger? How many more? When can I go? When will it be done?</td><td colspan="2">Days? <i>DAYS?!</i> You're lying to me. That can't be right. That can't. The City can't have... How long has it been? Please?</td></tr><tr><td colspan="4">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="4">How long has it been? Tell me, outlander. Please.</td>
+</tr>
+<tr>
+  <td colspan="4">Since what?</td>
+</tr>
+<tr>
+  <td colspan="4">Since the City fell. Since it started. Since then. Since the City fell, outlander. The City. The City I swore to protect. Since it fell.</td>
+</tr>
+<tr>
+  <td colspan="2">Well it's <font>[Current In-game Year]</font> CE right now.</td>
+  <td colspan="2">Oh that? That was just a few days ago.</td>
+</tr>
+<tr>
+  <td colspan="2"><font>[Current In-game Year Minus 904]</font> years... Hah. Hahaha.<font>[Current In-game Year Minus 904]</font> <i>years</i>. How much longer, stranger? How many more? When can I go? When will it be done?</td>
+  <td colspan="2">Days? <i>DAYS?!</i> You're lying to me. That can't be right. That can't. The City can't have... How long has it been? Please?</td>
+</tr>
+<tr>
+  <td colspan="4">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

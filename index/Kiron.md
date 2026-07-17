@@ -26,11 +26,46 @@ Kirons are a rare [aspect](Aspects.md) with bat-like features. Their Agility and
 
 **Pathfinder:**
 
-<table><tbody><tr><td></td><td><b>Echolocator</b><ul><li>"<i>Your highly tuned hearing helps you navigate, seeing better in the dark and sensing potential threats.</i>"<ul><li>When any nearby player unsheathes their weapon or an event spawns, their location will be pinged briefly.</li><li>Echolocator will ping through walls, even bypassing things like <a href="Murmur%253A_Tacet.md">Tacet</a> or other forms of invisibility.</li></ul></li></ul></td></tr><tr><td><center><font>+</font></center></td><td><b>Attribute Boosts</b><ul><li>+3 Agility</li><li>+2 Intelligence</li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td></td>
+  <td><b>Echolocator</b>
+  <ul>
+    <li>"<i>Your highly tuned hearing helps you navigate, seeing better in the dark and sensing potential threats.</i>"
+  <ul>
+    <li>When any nearby player unsheathes their weapon or an event spawns, their location will be pinged briefly.</li>
+    <li>Echolocator will ping through walls, even bypassing things like <a href="Murmur%253A_Tacet.md">Tacet</a> or other forms of invisibility.</li>
+  </ul></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><center><font>+</font></center></td>
+  <td><b>Attribute Boosts</b>
+  <ul>
+    <li>+3 Agility</li>
+    <li>+2 Intelligence</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 **Vow of Iron:**
 
-<table><tbody><tr><td></td><td><b>Acute Hearing</b><ul><li><i>After years of using Echolocation, you've trained your ears to sense danger even further away. You are also able to sense when someone completes a job.</i><ul><li><b>Massively</b> increases Echolocation radius and makes pings when someone completes a job.</li></ul></li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td></td>
+  <td><b>Acute Hearing</b>
+  <ul>
+    <li><i>After years of using Echolocation, you've trained your ears to sense danger even further away. You are also able to sense when someone completes a job.</i>
+  <ul>
+    <li><b>Massively</b> increases Echolocation radius and makes pings when someone completes a job.</li>
+  </ul></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 **Lore:**
 

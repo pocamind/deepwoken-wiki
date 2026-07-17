@@ -199,39 +199,105 @@ Various islands appear on the sea with various enemies. After defeating all enem
 
 **Tower in the Water:**
 
-<table><tbody><tr><td><div><p>A Pirate outpost stands on the sea. Inside the tower are 5-6 <a href="Blacksteel_Pirate.md">Blacksteel Pirates</a>. Killing all of them will give two Erisia-tier chests.</p><ul><li>The tower may spawn <a href="Cloaked_Assassin.md">Cloaked Assassins</a> instead of <a href="Blacksteel_Pirate.md">Blacksteel Pirates</a> in the Eastern Luminant.</li></ul></div></td><td><figure><figcaption><p></p><div>A tower in the sea.</div><p></p></figcaption></figure></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><div><p>A Pirate outpost stands on the sea. Inside the tower are 5-6 <a href="Blacksteel_Pirate.md">Blacksteel Pirates</a>. Killing all of them will give two Erisia-tier chests.</p>
+  <ul>
+    <li>The tower may spawn <a href="Cloaked_Assassin.md">Cloaked Assassins</a> instead of <a href="Blacksteel_Pirate.md">Blacksteel Pirates</a> in the Eastern Luminant.</li>
+  </ul></div></td>
+  <td><figure><figcaption><p></p><div>A tower in the sea.</div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
 
 **Isle of Outlaws:**
 
-<table><tbody><tr><td><div><p>The stones on both sides of the island cover the central hut like a pair of hands, which has been occupied by illegals. Defeating all of them will reward you with two large chests of <a href="Upper_Erisia.md">Upper Erisia</a> loot. Possible Enemies:<a href="Blacksteel_Pirate.md">Blacksteel Pirate</a>/<a href="Cloaked_Assassin.md">Cloaked Assassin</a>/<a href="Bounty_Hunter_(NPC).md">Bounty Hunter (NPC)</a></p></div></td><td><figure><figcaption><p></p><div>You can't get into that hut anyway, don't try.</div><p></p></figcaption></figure></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><div><p>The stones on both sides of the island cover the central hut like a pair of hands, which has been occupied by illegals. Defeating all of them will reward you with two large chests of <a href="Upper_Erisia.md">Upper Erisia</a> loot. Possible Enemies:<a href="Blacksteel_Pirate.md">Blacksteel Pirate</a>/<a href="Cloaked_Assassin.md">Cloaked Assassin</a>/<a href="Bounty_Hunter_(NPC).md">Bounty Hunter (NPC)</a></p></div></td>
+  <td><figure><figcaption><p></p><div>You can't get into that hut anyway, don't try.</div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
 
 **Overrun Authority Stronghold:**
 
-<table><tbody><tr><td><div><p>A now overrun Authority outpost, the ruins of a tropical fortress resembling <a href="Fort_Merit.md">Fort Merit</a> occupied by multiple enemies. Defeating all of them will reward you with one large chest of Authority loot and one large chest of Erisia loot. Possible Enemies:<a href="Thresher.md">Thresher</a>/<a href="Blacksteel_Pirate.md">Blacksteel Pirate</a>/<a href="Cloaked_Assassin.md">Cloaked Assassin</a>.</p></div></td><td><figure><figcaption><p></p><div>A Fort Island</div><p></p></figcaption></figure></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><div><p>A now overrun Authority outpost, the ruins of a tropical fortress resembling <a href="Fort_Merit.md">Fort Merit</a> occupied by multiple enemies. Defeating all of them will reward you with one large chest of Authority loot and one large chest of Erisia loot. Possible Enemies:<a href="Thresher.md">Thresher</a>/<a href="Blacksteel_Pirate.md">Blacksteel Pirate</a>/<a href="Cloaked_Assassin.md">Cloaked Assassin</a>.</p></div></td>
+  <td><figure><figcaption><p></p><div>A Fort Island</div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
 
 **The Depth Fragment:**
 
-<table><tbody><tr><td><div><p>A rotten island floats out of the depth, with a hand-shaped stone covered in coral and mushrooms. Defeating all of the mobs will reward you with one large chest of <a href="First_Layer.md">Depths</a> loot and one large chest of Erisia loot. Possible Enemies: <a href="Mudskipper.md">Bloatskipper</a>/<a href="Carbuncle.md">Carbuncle</a>/<a href="Cloaked_Assassin.md">Cloaked Assassin</a>/<a href="Mudskipper_Brute.md">Mudskipper Brute</a></p></div></td><td><figure><figcaption><p></p><div>They really like hands, huh?</div><p></p></figcaption></figure></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><div><p>A rotten island floats out of the depth, with a hand-shaped stone covered in coral and mushrooms. Defeating all of the mobs will reward you with one large chest of <a href="First_Layer.md">Depths</a> loot and one large chest of Erisia loot. Possible Enemies: <a href="Mudskipper.md">Bloatskipper</a>/<a href="Carbuncle.md">Carbuncle</a>/<a href="Cloaked_Assassin.md">Cloaked Assassin</a>/<a href="Mudskipper_Brute.md">Mudskipper Brute</a></p></div></td>
+  <td><figure><figcaption><p></p><div>They really like hands, huh?</div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
 
 **The Church Ruins Island:**
 
-<table><tbody><tr><td><div><p>A rotten island floats out of the depth, with a hand-shaped stone covered in coral and mushrooms. Defeating all of the mobs will reward you with one large chest of <a href="First_Layer.md">Depths</a> loot and one large chest of Erisia loot. Possible Enemies: <a href="Mudskipper.md">Bloatskipper</a>/<a href="Carbuncle.md">Carbuncle</a>/<a href="Cloaked_Assassin.md">Cloaked Assassin</a>/<a href="Mudskipper_Brute.md">Mudskipper Brute</a></p></div></td><td><figure><figcaption><p></p><div>Fortunately, they all end up the same - occupied by bandits.</div><p></p></figcaption></figure></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><div><p>A rotten island floats out of the depth, with a hand-shaped stone covered in coral and mushrooms. Defeating all of the mobs will reward you with one large chest of <a href="First_Layer.md">Depths</a> loot and one large chest of Erisia loot. Possible Enemies: <a href="Mudskipper.md">Bloatskipper</a>/<a href="Carbuncle.md">Carbuncle</a>/<a href="Cloaked_Assassin.md">Cloaked Assassin</a>/<a href="Mudskipper_Brute.md">Mudskipper Brute</a></p></div></td>
+  <td><figure><figcaption><p></p><div>Fortunately, they all end up the same - occupied by bandits.</div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
 
 **Bandits' Respite:**
 
-<table><tbody><tr><td><div><p>An island with a few trees temporarily being used as a bandit camp. Defeating the bandits will reward you with two Erisia chests. There are two variations of this island.</p></div></td><td><figure><figcaption><p></p><div>A Bandit Island</div><p></p></figcaption></figure></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><div><p>An island with a few trees temporarily being used as a bandit camp. Defeating the bandits will reward you with two Erisia chests. There are two variations of this island.</p></div></td>
+  <td><figure><figcaption><p></p><div>A Bandit Island</div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
 
 **Sandstone Tower:**
 
-<table><tbody><tr><td><div><p>A sand island contains ruin of a sandstone tower and withered trees. Defeating all enemies on it will give you two chests filled with <a href="The_Starswept_Valley.md">Starswept Valley</a> loot. Possible Enemies:<a href="Thresher.md">Thresher</a>/<a href="Cloaked_Assassin.md">Cloaked Assassin</a>/<a href="Bounty_Hunter_(NPC).md">Bounty Hunter (NPC)</a></p></div></td><td><figure><figcaption><p></p><div></div><p></p></figcaption></figure></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><div><p>A sand island contains ruin of a sandstone tower and withered trees. Defeating all enemies on it will give you two chests filled with <a href="The_Starswept_Valley.md">Starswept Valley</a> loot. Possible Enemies:<a href="Thresher.md">Thresher</a>/<a href="Cloaked_Assassin.md">Cloaked Assassin</a>/<a href="Bounty_Hunter_(NPC).md">Bounty Hunter (NPC)</a></p></div></td>
+  <td><figure><figcaption><p></p><div></div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
 
 **Sandy Remnants:**
 
-<table><tbody><tr><td><div><p>A sand island contains ruin of a sandstone tower and withered trees. Defeating all enemies on it will give you two chests filled with <a href="The_Starswept_Valley.md">Starswept Valley</a> loot. Possible Enemies:<a href="Thresher.md">Thresher</a>/<a href="Cloaked_Assassin.md">Cloaked Assassin</a>/<a href="Bounty_Hunter_(NPC).md">Bounty Hunter (NPC)</a></p></div></td><td><figure><figcaption><p></p><div></div><p></p></figcaption></figure></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><div><p>A sand island contains ruin of a sandstone tower and withered trees. Defeating all enemies on it will give you two chests filled with <a href="The_Starswept_Valley.md">Starswept Valley</a> loot. Possible Enemies:<a href="Thresher.md">Thresher</a>/<a href="Cloaked_Assassin.md">Cloaked Assassin</a>/<a href="Bounty_Hunter_(NPC).md">Bounty Hunter (NPC)</a></p></div></td>
+  <td><figure><figcaption><p></p><div></div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
 
 **Mudskipper Hive:**
 
-<table><tbody><tr><td><div><p>A corrosive island filled with mushrooms, corals, and a distinctive tower atop it. Depending on the variant of the island, different <a href="Mudskipper.md">Mudskippers</a> can spawn with the addition of a <a href="Mudskipper_Brute.md">Mudskipper Brutes</a> or <a href="Mudskipper_Broodlord.md">Mudskipper Broodlord</a> (Eastern Luminant only). Defeating them will grant a Depths Chest and an Erisia Chest.</p></div></td><td><figure><figcaption><p></p><div></div><p></p></figcaption></figure></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><div><p>A corrosive island filled with mushrooms, corals, and a distinctive tower atop it. Depending on the variant of the island, different <a href="Mudskipper.md">Mudskippers</a> can spawn with the addition of a <a href="Mudskipper_Brute.md">Mudskipper Brutes</a> or <a href="Mudskipper_Broodlord.md">Mudskipper Broodlord</a> (Eastern Luminant only). Defeating them will grant a Depths Chest and an Erisia Chest.</p></div></td>
+  <td><figure><figcaption><p></p><div></div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
 
 #### Travelling Merchant
 

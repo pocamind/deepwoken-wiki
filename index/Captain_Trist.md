@@ -45,25 +45,94 @@ Captain Trist is located on the path to [Merit's Reach](<Merit's_Reach.md>), aro
 
 **Starting Quest:**
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">[Rank] [Last Name], are you prepared for a solo operation?</td></tr><tr><td>Yes, sir</td><td>No, sir</td></tr><tr><td>Good luck, [Rank].</td><td>Don't come back 'til you're ready for your deployment, [Rank].</td></tr><tr><td>[End Dialogue], player receives a mission</td><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">[Rank] [Last Name], are you prepared for a solo operation?</td>
+</tr>
+<tr>
+  <td>Yes, sir</td>
+  <td>No, sir</td>
+</tr>
+<tr>
+  <td>Good luck, [Rank].</td>
+  <td>Don't come back 'til you're ready for your deployment, [Rank].</td>
+</tr>
+<tr>
+  <td>[End Dialogue], player receives a mission</td>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Quest in Progress:**
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">You have your orders, [Rank], report back to base when your mission is complete.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">You have your orders, [Rank], report back to base when your mission is complete.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Finishing Quest:**
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">Good work, [Rank]. Go get some rest, then report back here.</td></tr><tr><td>[End Dialogue], rank progress, EXP, and a small chest</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">Good work, [Rank]. Go get some rest, then report back here.</td>
+</tr>
+<tr>
+  <td>[End Dialogue], rank progress, EXP, and a small chest</td>
+</tr>
+</tbody>
+</table>
 
 **Not Authority Ensign:**
 
 **Deserted/Traitor:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Ah, so the deserter/traitor finally shows their face. Soldiers - seize them.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Ah, so the deserter/traitor finally shows their face. Soldiers - seize them.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Other Origin:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>I only hand out orders to <a href="Glossary.md#the-central-authority">Authority</a> soldiers, civilian.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>I only hand out orders to <a href="Glossary.md#the-central-authority">Authority</a> soldiers, civilian.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## References
 

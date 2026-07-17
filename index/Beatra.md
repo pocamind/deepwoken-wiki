@@ -28,15 +28,57 @@ In order to obtain [Shadowcast](Shadowcast.md), [Nostor, Master of Shadow](Nosto
 
 **Non-Shadowcaster:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Ooh 'ello dearie, I do hope your travels are going alright. I wouldn't half worry meself to death if you were to run into any mortal trouble!</td></tr><tr><td>Uh, thanks?</td></tr><tr><td>Don't you stay out in the dark too long, alright? Wouldn't do you no good, child of light.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Ooh 'ello dearie, I do hope your travels are going alright. I wouldn't half worry meself to death if you were to run into any mortal trouble!</td>
+</tr>
+<tr>
+  <td>Uh, thanks?</td>
+</tr>
+<tr>
+  <td>Don't you stay out in the dark too long, alright? Wouldn't do you no good, child of light.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Shadowcaster:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Ooh dearie, I can see the darkness within your heart. But it simply won't do until you draw it out.</td></tr><tr><td>(The Mantra leveling UI appears)</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Ooh dearie, I can see the darkness within your heart. But it simply won't do until you draw it out.</td>
+</tr>
+<tr>
+  <td>(The Mantra leveling UI appears)</td>
+</tr>
+</tbody>
+</table>
 
 **Silentheart:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Don't you give me that look, dearie. You know these old bones are too frail to put up a fight...</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Don't you give me that look, dearie. You know these old bones are too frail to put up a fight...</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

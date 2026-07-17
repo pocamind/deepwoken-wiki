@@ -41,6 +41,24 @@ function linkDest(dest) {
     return /[()\s'"]/.test(dest) ? `<${dest}>` : dest;
 }
 
+// kept-HTML tables serialize onto one enormous line, which breaks line-oriented
+// consumers (grep, line-ranged reads). break them structurally — rows, cells,
+// paragraphs — but never emit a blank line: markdown renderers end the raw-HTML
+// block at the first blank line.
+function beautifyTable(html) {
+    return html
+        .replace(/<(table|tbody|thead|tr)(\s[^>]*)?>/g, "\n<$1$2>")
+        .replace(/<\/(tbody|thead|tr|table)>/g, "\n</$1>")
+        .replace(/<(td|th)(\s[^>]*)?>/g, "\n  <$1$2>")
+        .replace(/<(ul|ol)(\s[^>]*)?>/g, "\n  <$1$2>")
+        .replace(/<\/(ul|ol)>/g, "\n  </$1>")
+        .replace(/<li(\s[^>]*)?>/g, "\n    <li$1>")
+        .replace(/<\/p>\s*<p>/g, "</p>\n  <p>")
+        .replace(/<br\s*\/?>/g, "<br>\n  ")
+        .replace(/\n[ \t]*\n/g, "\n")
+        .replace(/^\n/, "");
+}
+
 function yamlEscape(s) {
     return /[:#\[\]{}&*!|>'"%@`,\n-]/.test(s) ? JSON.stringify(s) : s;
 }
@@ -215,7 +233,8 @@ export function translate(parse) {
             }).join("\n\n"))
         .replace(/(\\?\[){2}File:[\s\S]*?(\\?\]){1,2}/g, "")
         .replace(/ ([.,])(?=\s|$)/g, "$1") // dropped inline icons leave " ." behind
-        .replace(/<table class="keep-html">/g, "<table>"); // internal marker
+        .replace(/<table class="keep-html">/g, "<table>") // internal marker
+        .replace(/^<table[^\n]*<\/table>$/gm, beautifyTable);
 
     body = pruneEmptySections(body);
 

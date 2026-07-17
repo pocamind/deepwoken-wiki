@@ -30,13 +30,48 @@ Celtor are a common [aspect](Aspects.md) with a pale-ish green skin, grey hair a
 
   
 
-<table><tbody><tr><td><figure><figcaption></figcaption></figure></td><td><b>Seaborne</b><ul><li>"<i>You have a keen understanding of ships and their maintenance.</i>"<ul><li>Owned ships have <b>+10% HP</b>.</li><li><b>20%</b> discount at the shipwright.</li></ul></li></ul></td></tr><tr><td><center><font>+</font></center></td><td><b>Attribute Boosts</b><ul><li>+3 Charisma</li><li>+2 Intelligence</li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td><b>Seaborne</b>
+  <ul>
+    <li>"<i>You have a keen understanding of ships and their maintenance.</i>"
+  <ul>
+    <li>Owned ships have <b>+10% HP</b>.</li>
+    <li><b>20%</b> discount at the shipwright.</li>
+  </ul></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><center><font>+</font></center></td>
+  <td><b>Attribute Boosts</b>
+  <ul>
+    <li>+3 Charisma</li>
+    <li>+2 Intelligence</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 **Iron Vow:**
 
   
 
-<table><tbody><tr><td><figure><figcaption></figcaption></figure></td><td><b>Depths Denizen</b><ul><li><i>"The city you once called home is now your only way out of the depths, perhaps you could use this to your advantage. Gain extra leeway when attempting to escape the depths."</i><ul><li>Depth Trial enemies have 25% less HP. Does not affect the True Heart of Enmity.</li></ul></li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td><b>Depths Denizen</b>
+  <ul>
+    <li><i>"The city you once called home is now your only way out of the depths, perhaps you could use this to your advantage. Gain extra leeway when attempting to escape the depths."</i>
+  <ul>
+    <li>Depth Trial enemies have 25% less HP. Does not affect the True Heart of Enmity.</li>
+  </ul></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
   
 

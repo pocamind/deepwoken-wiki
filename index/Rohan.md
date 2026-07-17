@@ -39,12 +39,77 @@ Rohan is located at [Merit's Reach](<Merit's_Reach.md>), leaning against a large
 
 **Neutral Reputation:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Lovely day isn't it? Let me know if your day isn't going so great due to outside forces. I can help.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Lovely day isn't it? Let me know if your day isn't going so great due to outside forces. I can help.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Bad Reputation:**
 
-<table><tbody><tr><td colspan="8">Begin Dialogue</td></tr><tr><td colspan="8">Lookin' over your shoulder, eh? Perhaps I can be of some help to you.</td></tr><tr><td colspan="8">I need help.</td></tr><tr><td colspan="8">I might be able to grease the palms of the Warden's clerks to get your name of the registers.</td></tr><tr><td colspan="4">Alright how much?</td><td colspan="4">Nah, not interested.</td></tr><tr><td colspan="4">Well, it won't be cheap. <b>[X] Notes.</b></td><td colspan="4">Pah, suit yourself. Word is that the Peacekeepers are sniffing you out as we speak. Let's see how you feel about it in a day or two.</td></tr><tr><td colspan="2">Here.</td><td colspan="2">Nah, not interested.</td><td colspan="4">[End Dialogue]</td></tr><tr><td>Sufficient Notes</td><td>Not Enough Notes</td><td colspan="2">[See first instance]</td></tr><tr><td>I'll see what I can do. Pleasure doing business. If the Peacekeepers start hounding you again, you know who to talk to.</td><td>It's not cheap to mess these bureaucrats around, y'know. How's about you come back when you have a bit of capital?</td></tr><tr><td>[End Dialogue], reputation with The Central Authority is set to neutral</td><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="8">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="8">Lookin' over your shoulder, eh? Perhaps I can be of some help to you.</td>
+</tr>
+<tr>
+  <td colspan="8">I need help.</td>
+</tr>
+<tr>
+  <td colspan="8">I might be able to grease the palms of the Warden's clerks to get your name of the registers.</td>
+</tr>
+<tr>
+  <td colspan="4">Alright how much?</td>
+  <td colspan="4">Nah, not interested.</td>
+</tr>
+<tr>
+  <td colspan="4">Well, it won't be cheap. <b>[X] Notes.</b></td>
+  <td colspan="4">Pah, suit yourself. Word is that the Peacekeepers are sniffing you out as we speak. Let's see how you feel about it in a day or two.</td>
+</tr>
+<tr>
+  <td colspan="2">Here.</td>
+  <td colspan="2">Nah, not interested.</td>
+  <td colspan="4">[End Dialogue]</td>
+</tr>
+<tr>
+  <td>Sufficient Notes</td>
+  <td>Not Enough Notes</td>
+  <td colspan="2">[See first instance]</td>
+</tr>
+<tr>
+  <td>I'll see what I can do. Pleasure doing business. If the Peacekeepers start hounding you again, you know who to talk to.</td>
+  <td>It's not cheap to mess these bureaucrats around, y'know. How's about you come back when you have a bit of capital?</td>
+</tr>
+<tr>
+  <td>[End Dialogue], reputation with The Central Authority is set to neutral</td>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Villain Reputation:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Woah, hey. Don't linger around me for too long. You're gonna make 'em suspicious.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Woah, hey. Don't linger around me for too long. You're gonna make 'em suspicious.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

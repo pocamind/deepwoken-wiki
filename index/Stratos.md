@@ -44,31 +44,165 @@ Stratos can be found meditating in front of a fountain at the [Temple of the Bla
 
 **Reputation Not Met:**
 
-<table><tbody><tr><td colspan="6">Begin Dialogue</td></tr><tr><td colspan="6"><i>*You feel a sudden rush as if walking into a tornado. The feeling subsides as you take a step back, choosing not to disturb the man before you.*</i></td></tr><tr><td colspan="6">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="6"><i>*You feel a sudden rush as if walking into a tornado. The feeling subsides as you take a step back, choosing not to disturb the man before you.*</i></td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Reputation Met:**
 
-<table><tbody><tr><td colspan="6">Begin Dialogue</td></tr><tr><td colspan="6">*The wind that once held you back now urges you forward* Don't be shy, what is it you need?</td></tr><tr><td colspan="6">Who are you?</td></tr><tr><td colspan="6">I am stratos, Keeper for the Scholars of the Clouds.</td></tr><tr><td colspan="6">What are the Scholars of the Clouds?</td></tr><tr><td colspan="6">We record the history and knowledge of the Vigil. I also act as Second in Command next to the Maestro. Those who come to this temple to learn of Wind learn under me and my instructors.</td></tr><tr><td colspan="6">Is there anything you can teach me?</td></tr><tr><td colspan="6">Once you feel the essence of the wind, I will teach you.</td></tr><tr><td colspan="6">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="6">*The wind that once held you back now urges you forward* Don't be shy, what is it you need?</td>
+</tr>
+<tr>
+  <td colspan="6">Who are you?</td>
+</tr>
+<tr>
+  <td colspan="6">I am stratos, Keeper for the Scholars of the Clouds.</td>
+</tr>
+<tr>
+  <td colspan="6">What are the Scholars of the Clouds?</td>
+</tr>
+<tr>
+  <td colspan="6">We record the history and knowledge of the Vigil. I also act as Second in Command next to the Maestro. Those who come to this temple to learn of Wind learn under me and my instructors.</td>
+</tr>
+<tr>
+  <td colspan="6">Is there anything you can teach me?</td>
+</tr>
+<tr>
+  <td colspan="6">Once you feel the essence of the wind, I will teach you.</td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Quest:**
 
-<table><tbody><tr><td colspan="6">Begin Dialogue</td></tr><tr><td colspan="6">Ah, it seems you have it... You understand the winds in ways imperceptible to others.</td></tr><tr><td colspan="6">So you'll teach me?</td></tr><tr><td colspan="6">Yes, my disciple, please take this gift. I hope that it shall guide you on your journeys as you have been guided to me.</td><td colspan="6">(Galebreathe not unlocked) Hm... You understand the wind but you do not make use of it... Perhaps return once you learn the way of a <a href="Glossary.md#galebreathe">Galebreather</a>.</td></tr><tr><td colspan="6">[End Dialogue], Quest completed</td><td colspan="6">[End Dialogue], Return to Stratos with Galebreathe unlocked</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="6">Ah, it seems you have it... You understand the winds in ways imperceptible to others.</td>
+</tr>
+<tr>
+  <td colspan="6">So you'll teach me?</td>
+</tr>
+<tr>
+  <td colspan="6">Yes, my disciple, please take this gift. I hope that it shall guide you on your journeys as you have been guided to me.</td>
+  <td colspan="6">(Galebreathe not unlocked) Hm... You understand the wind but you do not make use of it... Perhaps return once you learn the way of a <a href="Glossary.md#galebreathe">Galebreather</a>.</td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue], Quest completed</td>
+  <td colspan="6">[End Dialogue], Return to Stratos with Galebreathe unlocked</td>
+</tr>
+</tbody>
+</table>
 
 **Quest Completed:**
 
-<table><tbody><tr><td colspan="6">Begin Dialogue</td></tr><tr><td colspan="6">The Scholars have held these halls for many years, my student... But something dark festers in the palace across the way, and I fear even the Maestro is not powerful enough to hold it at bay...</td></tr><tr><td colspan="6">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="6">The Scholars have held these halls for many years, my student... But something dark festers in the palace across the way, and I fear even the Maestro is not powerful enough to hold it at bay...</td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Food Delivery:**
 
-<table><tbody><tr><td colspan="6">Begin Dialogue</td></tr><tr><td colspan="6"><i>*The wind that once held you back now urges you forward.*</i> Ah, a delivery for the temple?</td></tr><tr><td colspan="6">Yep.</td></tr><tr><td colspan="6">Ah, thank you, here is something for your troubles.</td></tr><tr><td colspan="6">[End Dialogue], player gains 25 and Etrea Reputation</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="6"><i>*The wind that once held you back now urges you forward.*</i> Ah, a delivery for the temple?</td>
+</tr>
+<tr>
+  <td colspan="6">Yep.</td>
+</tr>
+<tr>
+  <td colspan="6">Ah, thank you, here is something for your troubles.</td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue], player gains 25 and Etrea Reputation</td>
+</tr>
+</tbody>
+</table>
 
 **Asked the name of Lance's Brother:**
 
-<table><tbody><tr><td colspan="6">Begin Dialogue</td></tr><tr><td colspan="6"><i>*The wind that once held you back now urges you forward.*</i> Ah, a delivery for the temple?</td></tr><tr><td colspan="6">Yep.</td></tr><tr><td colspan="6">Ah, thank you, here is something for your troubles. Did @#$%&amp; send you?<i>*Wait, what was that last bit. Was that a name?!*</i></td></tr><tr><td colspan="6">Huh? @#$%&amp;?</td></tr><tr><td colspan="6"><i>*They tilt their head quizzically at you.*</i> Yes, @#$%&amp;. The famed Lance Leshi's brother?</td></tr><tr><td colspan="6">Oh, you mean <i>(?)</i>?</td></tr><tr><td colspan="6">Uh? No, I don't believe so. @#$%&amp; was the name their mother gave me. Extraordinary cook she was. And a keen blade too. <i>*Okay, no luck. This guy clearly doesn't know his name either.*</i></td></tr><tr><td colspan="6">[End Dialogue], Given 25</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="6"><i>*The wind that once held you back now urges you forward.*</i> Ah, a delivery for the temple?</td>
+</tr>
+<tr>
+  <td colspan="6">Yep.</td>
+</tr>
+<tr>
+  <td colspan="6">Ah, thank you, here is something for your troubles. Did @#$%&amp; send you?<i>*Wait, what was that last bit. Was that a name?!*</i></td>
+</tr>
+<tr>
+  <td colspan="6">Huh? @#$%&amp;?</td>
+</tr>
+<tr>
+  <td colspan="6"><i>*They tilt their head quizzically at you.*</i> Yes, @#$%&amp;. The famed Lance Leshi's brother?</td>
+</tr>
+<tr>
+  <td colspan="6">Oh, you mean <i>(?)</i>?</td>
+</tr>
+<tr>
+  <td colspan="6">Uh? No, I don't believe so. @#$%&amp; was the name their mother gave me. Extraordinary cook she was. And a keen blade too. <i>*Okay, no luck. This guy clearly doesn't know his name either.*</i></td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue], Given 25</td>
+</tr>
+</tbody>
+</table>
 
 **Stratos' Cloak:**
 
-<table><tbody><tr><td colspan="6">Begin Dialogue</td></tr><tr><td colspan="6">You have done a great service for our people.. It is within my right to grant you this. Don the cloak of winds, we would be honored to have you representing our<p>order.</p></td></tr><tr><td colspan="6">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="6">You have done a great service for our people.. It is within my right to grant you this. Don the cloak of winds, we would be honored to have you representing our<p>order.</p></td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

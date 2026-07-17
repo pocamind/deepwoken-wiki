@@ -41,22 +41,88 @@ Santen is located inside of a building at the edges of [Fort Merit](Fort_Merit.m
 
 **No Division:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*Despite her carefree demeanour, this Ganymede definitely looks stressed, dark circles forming under her eyes. Her uniform and fingers are haphazardly ink-stained.*</i> Hey, soldier. Hope you're taking good care of that map - I'm sure the Drill Sergeant has hammered the importance of keeping it neat and safe into your head by now. New maps don't magically appear out of thin air - and damn, Aratel's coastlines take quite a while to get right.</td></tr><tr><td>You're the map-maker?</td></tr><tr><td><i>*She smiles, with a proud glint in her eye.*</i> The cartographer, yes. From a long line of them, really - I'd bet archives across Markor are full of priceless rolls of work from distant grandparents. My parents trained me at their workshop in the <a href="Glossary.md#the-citadel-of-markor">Citadel</a> as soon as I could hold a pen, and I've been honing the craft ever since.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*Despite her carefree demeanour, this Ganymede definitely looks stressed, dark circles forming under her eyes. Her uniform and fingers are haphazardly ink-stained.*</i> Hey, soldier. Hope you're taking good care of that map - I'm sure the Drill Sergeant has hammered the importance of keeping it neat and safe into your head by now. New maps don't magically appear out of thin air - and damn, Aratel's coastlines take quite a while to get right.</td>
+</tr>
+<tr>
+  <td>You're the map-maker?</td>
+</tr>
+<tr>
+  <td><i>*She smiles, with a proud glint in her eye.*</i> The cartographer, yes. From a long line of them, really - I'd bet archives across Markor are full of priceless rolls of work from distant grandparents. My parents trained me at their workshop in the <a href="Glossary.md#the-citadel-of-markor">Citadel</a> as soon as I could hold a pen, and I've been honing the craft ever since.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Any Division:**
 
 **Division Unmaxed:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*She pauses at your approach, a little stilted.*</i> If Jericho's sent you, [Rank], the map he requested is not done yet. It's really hard to work off amateur field sketches and word-of-mouth to chart some obscure island, so gimme some more time, okay?</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*She pauses at your approach, a little stilted.*</i> If Jericho's sent you, [Rank], the map he requested is not done yet. It's really hard to work off amateur field sketches and word-of-mouth to chart some obscure island, so gimme some more time, okay?</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Division Maxed:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*The cartographer shoots you a baleful glare, saluting brusquely.*</i> Perhaps you'd be able to kindly tell your higher-ups that it's possible to illustrate a point on their maps <i>without</i> the use of a dagger? <i>Stabbing</i> at them doesn't make them any more durable, you know!..</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*The cartographer shoots you a baleful glare, saluting brusquely.*</i> Perhaps you'd be able to kindly tell your higher-ups that it's possible to illustrate a point on their maps <i>without</i> the use of a dagger? <i>Stabbing</i> at them doesn't make them any more durable, you know!..</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Not Authority Ensign:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*The Ganymede quickly closes her maps as she sees your approach.*</i> A civilian? Sigh... Look, this is an off-limits area. Military personnel only. I must request you to leave, or I will be forced to call the guards.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*The Ganymede quickly closes her maps as she sees your approach.*</i> A civilian? Sigh... Look, this is an off-limits area. Military personnel only. I must request you to leave, or I will be forced to call the guards.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Bad Authority Reputation:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*The Ganymede lady rushes to flip and cover the various maps on the table as she notices you approaching.*</i> You can't be in here! Intruder! Guards, guards! Assist me!</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*The Ganymede lady rushes to flip and cover the various maps on the table as she notices you approaching.*</i> You can't be in here! Intruder! Guards, guards! Assist me!</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

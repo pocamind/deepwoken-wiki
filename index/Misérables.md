@@ -45,11 +45,107 @@ If you want to calculate the Knowledge you'd need for a certain amount of wishes
 
 **First Encounter:**
 
-<table><tbody><tr><td colspan="24">Begin Dialogue</td></tr><tr><td colspan="24">A rose, a cornflower, and perhaps a hyacinth appear to me in a dream. Amidst the field, only one can bloom to its fullest. What shall I pick?</td></tr><tr><td colspan="8">Rose</td><td colspan="8">Cornflower</td><td colspan="8">Hyacinth</td></tr><tr><td colspan="24">What a charming choice. With this flower, what shall I do?</td></tr><tr><td colspan="8">Relax</td><td colspan="8">Frolic</td><td colspan="8">Eat</td></tr><tr><td colspan="24"><i>*The sharp blue eyes narrow, glaring at you coldly. An unnerving sensation crawls up your spine, as your mind twists and turns.*</i> Is that all? A dull life. Dull choices made by dull humans, befit of only the dullest minds. You should seek peace of mind. Peace of mind, mouse.</td></tr><tr><td colspan="24">Peace of mind, friend. (Takes up 50 choices)</td></tr><tr><td colspan="24"><i>*Their expression relaxes, as if the tension has been released.*</i> That's the spirit, my dull, dull friend. Now, tell me. What do you seek? Surely, my new friend wouldn't have come here just to check in on me? I think we both know just how selfish your kind are. Tell me, what are you here for?</td></tr><tr><td colspan="12">I seek power in my upcoming battles.</td><td colspan="12">I seek clarity.</td></tr><tr><td colspan="12">Power, you say? I can only offer it toward a great foe, one much larger then yourself. For the price of, hm.. let's say, 5 <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsan</a> Medallions.</td><td colspan="12">Ah... Clarity. Yes. The most selfish of desires... To reorder all within your perspective. Very well.. perhaps for a splinter of that perspective, I can resolve the conflict in your soul. Perhaps then your deepest desires will be clear to you once more?</td></tr><tr><td colspan="6">I'm interested.</td><td colspan="6">Why Kyrsan Medallions?</td><td colspan="12">I'm interested.</td></tr><tr><td colspan="6">Very well. Show me your bounty then, friend. <b>Five will do.</b> If you lack the coin, or claim to, I'll simply search for it within your dear spine. Pray, you wouldn't want that, no? Show me your bounty.</td><td colspan="6">My kind. We have need of these perspectives. The products of mind. These medallions... You could think of them as the crystallisation of the Kyrsan perspective, no? Truly fascinating. Are you interested?</td><td colspan="12">Do you have the knowledge within you then, my dull friend? [15 Shards + 5 for each additional Wish] shards will do. My kin grow hungry...</td></tr><tr><td colspan="3">Nevermind, maybe later.</td><td colspan="3">Here are the coins.</td><td colspan="6">I'm interested.</td><td colspan="12">Take it.</td></tr><tr><td colspan="3">[End Dialogue]</td><td colspan="2">[Sufficient Kyrsan Medallions]</td><td>[Insufficient Kyrsan Medallions]</td><td colspan="6">[See first instance]</td><td colspan="6">[Sufficient Knowledge]</td><td colspan="6">[Insufficient Knowledge]</td></tr><tr><td colspan="3"></td><td colspan="2"><font>(A surge of strength enters your mortal vessel.)</font><br>Wise friend.. Cleanse their bones with this strength.</td><td>I shall search your spine, rat.</td><td colspan="6"></td><td colspan="6">Now... Good. The veil is placed over your eyes once more. You will see things as you wish. Perhaps with a clearer mind, you might again request deals with those beyond you...</td><td colspan="6">Ah. I pity you. You lack the perspective. I pity you, little one. Poor dull little mouse. Is it not the proper thing for me to take mercy on one as pathetic as you? It is.</td></tr><tr><td colspan="3"></td><td colspan="2">[End Dialogue], player gains 30% increased damage against the <a href="Scion_of_Ethiron.md">Scion of Ethiron</a></td><td>[End Dialogue], player is instantly killed</td><td colspan="6"></td><td colspan="6">[End Dialogue], player receives a Wish and removes the Tarnished Flaw if possible</td><td colspan="6">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="24">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="24">A rose, a cornflower, and perhaps a hyacinth appear to me in a dream. Amidst the field, only one can bloom to its fullest. What shall I pick?</td>
+</tr>
+<tr>
+  <td colspan="8">Rose</td>
+  <td colspan="8">Cornflower</td>
+  <td colspan="8">Hyacinth</td>
+</tr>
+<tr>
+  <td colspan="24">What a charming choice. With this flower, what shall I do?</td>
+</tr>
+<tr>
+  <td colspan="8">Relax</td>
+  <td colspan="8">Frolic</td>
+  <td colspan="8">Eat</td>
+</tr>
+<tr>
+  <td colspan="24"><i>*The sharp blue eyes narrow, glaring at you coldly. An unnerving sensation crawls up your spine, as your mind twists and turns.*</i> Is that all? A dull life. Dull choices made by dull humans, befit of only the dullest minds. You should seek peace of mind. Peace of mind, mouse.</td>
+</tr>
+<tr>
+  <td colspan="24">Peace of mind, friend. (Takes up 50 choices)</td>
+</tr>
+<tr>
+  <td colspan="24"><i>*Their expression relaxes, as if the tension has been released.*</i> That's the spirit, my dull, dull friend. Now, tell me. What do you seek? Surely, my new friend wouldn't have come here just to check in on me? I think we both know just how selfish your kind are. Tell me, what are you here for?</td>
+</tr>
+<tr>
+  <td colspan="12">I seek power in my upcoming battles.</td>
+  <td colspan="12">I seek clarity.</td>
+</tr>
+<tr>
+  <td colspan="12">Power, you say? I can only offer it toward a great foe, one much larger then yourself. For the price of, hm.. let's say, 5 <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsan</a> Medallions.</td>
+  <td colspan="12">Ah... Clarity. Yes. The most selfish of desires... To reorder all within your perspective. Very well.. perhaps for a splinter of that perspective, I can resolve the conflict in your soul. Perhaps then your deepest desires will be clear to you once more?</td>
+</tr>
+<tr>
+  <td colspan="6">I'm interested.</td>
+  <td colspan="6">Why Kyrsan Medallions?</td>
+  <td colspan="12">I'm interested.</td>
+</tr>
+<tr>
+  <td colspan="6">Very well. Show me your bounty then, friend. <b>Five will do.</b> If you lack the coin, or claim to, I'll simply search for it within your dear spine. Pray, you wouldn't want that, no? Show me your bounty.</td>
+  <td colspan="6">My kind. We have need of these perspectives. The products of mind. These medallions... You could think of them as the crystallisation of the Kyrsan perspective, no? Truly fascinating. Are you interested?</td>
+  <td colspan="12">Do you have the knowledge within you then, my dull friend? [15 Shards + 5 for each additional Wish] shards will do. My kin grow hungry...</td>
+</tr>
+<tr>
+  <td colspan="3">Nevermind, maybe later.</td>
+  <td colspan="3">Here are the coins.</td>
+  <td colspan="6">I'm interested.</td>
+  <td colspan="12">Take it.</td>
+</tr>
+<tr>
+  <td colspan="3">[End Dialogue]</td>
+  <td colspan="2">[Sufficient Kyrsan Medallions]</td>
+  <td>[Insufficient Kyrsan Medallions]</td>
+  <td colspan="6">[See first instance]</td>
+  <td colspan="6">[Sufficient Knowledge]</td>
+  <td colspan="6">[Insufficient Knowledge]</td>
+</tr>
+<tr>
+  <td colspan="3"></td>
+  <td colspan="2"><font>(A surge of strength enters your mortal vessel.)</font><br>
+  Wise friend.. Cleanse their bones with this strength.</td>
+  <td>I shall search your spine, rat.</td>
+  <td colspan="6"></td>
+  <td colspan="6">Now... Good. The veil is placed over your eyes once more. You will see things as you wish. Perhaps with a clearer mind, you might again request deals with those beyond you...</td>
+  <td colspan="6">Ah. I pity you. You lack the perspective. I pity you, little one. Poor dull little mouse. Is it not the proper thing for me to take mercy on one as pathetic as you? It is.</td>
+</tr>
+<tr>
+  <td colspan="3"></td>
+  <td colspan="2">[End Dialogue], player gains 30% increased damage against the <a href="Scion_of_Ethiron.md">Scion of Ethiron</a></td>
+  <td>[End Dialogue], player is instantly killed</td>
+  <td colspan="6"></td>
+  <td colspan="6">[End Dialogue], player receives a Wish and removes the Tarnished Flaw if possible</td>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent Encounters:**
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">Hello once more, my dull friend. Tell me your selfish desire.</td></tr><tr><td>I seek power in my upcoming battles.</td><td>I seek clarity.</td></tr><tr><td colspan="2">[See first instances]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">Hello once more, my dull friend. Tell me your selfish desire.</td>
+</tr>
+<tr>
+  <td>I seek power in my upcoming battles.</td>
+  <td>I seek clarity.</td>
+</tr>
+<tr>
+  <td colspan="2">[See first instances]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

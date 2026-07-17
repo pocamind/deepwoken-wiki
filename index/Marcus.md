@@ -40,13 +40,43 @@ Make sure to say hello, and give some company to such a [Stonespark](Stonespark.
 
 **Base Dialogue:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Sup.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Sup.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Unlockable Dialogue:**
 
 This dialogue is unlocked if the player has defeated [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) at least once on their character.
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Sup.</td></tr><tr><td>How do you feel?</td></tr><tr><td>Live and let go, man.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Sup.</td>
+</tr>
+<tr>
+  <td>How do you feel?</td>
+</tr>
+<tr>
+  <td>Live and let go, man.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

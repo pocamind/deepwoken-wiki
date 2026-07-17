@@ -29,4 +29,22 @@ The Purge Shrine is an interactable tower that can be found atop a small cliff n
 
 ## Dialogue
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="8"><i>*A beacon to something unfathomable stands before you. Like any shrine, it may be used to call forth something, to beckon it closer.*</i></td></tr><tr><td colspan="8">[Call out]</td></tr><tr><td colspan="8"><i>*Your voice resounds outwards. The shrine's patron was already close. You have brought it closer.*</i></td></tr><tr><td colspan="8">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="8"><i>*A beacon to something unfathomable stands before you. Like any shrine, it may be used to call forth something, to beckon it closer.*</i></td>
+</tr>
+<tr>
+  <td colspan="8">[Call out]</td>
+</tr>
+<tr>
+  <td colspan="8"><i>*Your voice resounds outwards. The shrine's patron was already close. You have brought it closer.*</i></td>
+</tr>
+<tr>
+  <td colspan="8">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

@@ -69,7 +69,33 @@ Shrine of Mastery has two different effects.
 
 **Requirements Met:**
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">PUPPET. STATE YOUR PURPOSE.</td></tr><tr><td>I wish to reevaluate my Traits.</td><td>I wish to reevaluate my Attributes.</td></tr><tr><td>CHOOSE THE TRAIT OF YOUR SOUL TO DIMINISH.</td><td>CHOOSE THE ATTRIBUTE OF YOUR SOUL TO DIMINISH.</td></tr><tr><td colspan="2">Player selects a Trait / Attribute</td></tr><tr><td colspan="2">THE CONTRACT IS COMPLETE. WASTE.</td></tr><tr><td colspan="2">[End Dialogue], player loses 1 to refund a Trait or Attribute point</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">PUPPET. STATE YOUR PURPOSE.</td>
+</tr>
+<tr>
+  <td>I wish to reevaluate my Traits.</td>
+  <td>I wish to reevaluate my Attributes.</td>
+</tr>
+<tr>
+  <td>CHOOSE THE TRAIT OF YOUR SOUL TO DIMINISH.</td>
+  <td>CHOOSE THE ATTRIBUTE OF YOUR SOUL TO DIMINISH.</td>
+</tr>
+<tr>
+  <td colspan="2">Player selects a Trait / Attribute</td>
+</tr>
+<tr>
+  <td colspan="2">THE CONTRACT IS COMPLETE. WASTE.</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue], player loses 1 to refund a Trait or Attribute point</td>
+</tr>
+</tbody>
+</table>
 
 **Requirements Unmet:**
 
@@ -77,13 +103,37 @@ Shrine of Mastery has two different effects.
 
 If the player has an unchosen Talent, Mantra, or Trait hand, this dialogue will appear, forcing them to choose a card before a deal can be made. Alternatively, if the player does not have enough Knowledge, this dialogue will also appear.
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">RETURN AT ANOTHER TIME, PUPPET.</td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">RETURN AT ANOTHER TIME, PUPPET.</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **No Invested Attributes / Traits:**
 
 If the player has not invested any Attribute or Trait points, this dialogue will appear.
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">PUPPET. STATE YOUR PURPOSE.</td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">PUPPET. STATE YOUR PURPOSE.</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Navigation
 

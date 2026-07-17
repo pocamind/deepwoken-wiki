@@ -27,12 +27,72 @@ There are currently 6 Innkeep allowing stay in these locations: [Etris](Etris.md
 
 **Good Reputation:**
 
-<table><tbody><tr><td colspan="4">Begin Dialogue</td></tr><tr><td colspan="2">Spawn not set at inn</td><td colspan="2">Spawn set at inn</td></tr><tr><td colspan="2">Hey, welcome to my inn. Need something?</td><td colspan="2">I hope you're having a pleasant stay so far.</td></tr><tr><td colspan="2">How much is it to stay here?</td><td colspan="2">[End Dialogue]</td></tr><tr><td colspan="2">It'll cost you 5 Notes to stay here.</td></tr><tr><td colspan="2">Alright, book me in.</td></tr><tr><td>Player has 5</td><td>Player does not have 5</td></tr><tr><td>I hope you'll have a pleasant stay here.</td><td>I don't think you have the money to stay here.</td></tr><tr><td>[End Dialogue], player is booked into the inn</td><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">Spawn not set at inn</td>
+  <td colspan="2">Spawn set at inn</td>
+</tr>
+<tr>
+  <td colspan="2">Hey, welcome to my inn. Need something?</td>
+  <td colspan="2">I hope you're having a pleasant stay so far.</td>
+</tr>
+<tr>
+  <td colspan="2">How much is it to stay here?</td>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="2">It'll cost you 5 Notes to stay here.</td>
+</tr>
+<tr>
+  <td colspan="2">Alright, book me in.</td>
+</tr>
+<tr>
+  <td>Player has 5</td>
+  <td>Player does not have 5</td>
+</tr>
+<tr>
+  <td>I hope you'll have a pleasant stay here.</td>
+  <td>I don't think you have the money to stay here.</td>
+</tr>
+<tr>
+  <td>[End Dialogue], player is booked into the inn</td>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Bad Reputation:**
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">Get out of my inn!</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">Get out of my inn!</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Meteor Isle:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>I'm afraid we're not currently accepting any new residents at this time.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>I'm afraid we're not currently accepting any new residents at this time.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

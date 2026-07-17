@@ -26,7 +26,19 @@ They wore [Cutthroat Light Armor](Cutthroat_Light_Armor.md).
 
 ## Dialogue
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">;#%#$%^*$##%#</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">;#%#$%^*$##%#</td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

@@ -33,8 +33,38 @@ Mercille is located in [Bluster Rift](Bluster_Rift.md), standing in front of a s
 
 **Normal Dialogue:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>All sorts of rare material show up here... If you see any leftover bags of shinies, let me see them!</td></tr><tr><td>What is your group doing here?</td></tr><tr><td>'My' group? Tch.. yeah. As if. We just have to follow that guy's orders, and then he takes all the credit for our work. He's a lousy, good for nothing man. We're just here to collect the resources that show up here.. if you see anything, let me see it first. Don't show The Guy, though.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>All sorts of rare material show up here... If you see any leftover bags of shinies, let me see them!</td>
+</tr>
+<tr>
+  <td>What is your group doing here?</td>
+</tr>
+<tr>
+  <td>'My' group? Tch.. yeah. As if. We just have to follow that guy's orders, and then he takes all the credit for our work. He's a lousy, good for nothing man. We're just here to collect the resources that show up here.. if you see anything, let me see it first. Don't show The Guy, though.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **With Bag:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Thanks for the help! If you find any more bags of shinies, let me check them out!</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Thanks for the help! If you find any more bags of shinies, let me check them out!</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

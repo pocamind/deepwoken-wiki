@@ -224,7 +224,16 @@ There may be some changes to dialogue with NPCs depending on what 'tier' of age 
 -   **(Tier 3) Elderly, Phase 1:** 60 - 69
 -   **(Tier 4) Elderly, Phase 2:** 70 - ???
 
-<table><tbody><tr><td><figure><figcaption><p><b>(Tier 1) Middle Aged, Phase 1:</b> 40-49 [Wrinkles are visible on the eye and hair color has been changed.)</p></figcaption></figure></td><td><figure><figcaption><p><b>(Tier 2) Middle Aged, Phase 2:</b> 50-59 (Wrinkles are now very visible on the eye and hair color has changed yet again.)</p></figcaption></figure></td><td><figure><figcaption><p><b>(Tier 3) Elderly, Phase 1:</b> 60 - 69 (Wrinkles are now visible near the mouth. Your hair has been changed to be more grayer)</p></figcaption></figure></td><td><figure><figcaption><p><b>(Tier 4) Elderly, Phase 2:</b> 70 -&nbsp;??? (Wrinkles have now reached the last stage, you can see wrinkles all over your face. And your hair is now pretty much gray.)</p></figcaption></figure></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><figure><figcaption><p><b>(Tier 1) Middle Aged, Phase 1:</b> 40-49 [Wrinkles are visible on the eye and hair color has been changed.)</p></figcaption></figure></td>
+  <td><figure><figcaption><p><b>(Tier 2) Middle Aged, Phase 2:</b> 50-59 (Wrinkles are now very visible on the eye and hair color has changed yet again.)</p></figcaption></figure></td>
+  <td><figure><figcaption><p><b>(Tier 3) Elderly, Phase 1:</b> 60 - 69 (Wrinkles are now visible near the mouth. Your hair has been changed to be more grayer)</p></figcaption></figure></td>
+  <td><figure><figcaption><p><b>(Tier 4) Elderly, Phase 2:</b> 70 -&nbsp;??? (Wrinkles have now reached the last stage, you can see wrinkles all over your face. And your hair is now pretty much gray.)</p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
 
 ## Appearance
 

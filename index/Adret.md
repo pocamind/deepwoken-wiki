@@ -29,13 +29,48 @@ Adret are a common [aspect](Aspects.md) that have blue skin with orange eyes and
 
   
 
-<table><tbody><tr><td><figure><figcaption></figcaption></figure></td><td><b>Maudet</b><ul><li><i>"Your understanding of your destiny is such that learning new things comes naturally to you. People appreciate your diplomatic way of speaking."</i><ul><li>Receive 3 free points whenever you Power up.</li><li>Your starting reputation with all factions is higher.</li></ul></li></ul></td></tr><tr><td><center><font>+</font></center></td><td><b>Attribute Boosts</b><ul><li>+3 Charisma</li><li>+2 Willpower</li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td><b>Maudet</b>
+  <ul>
+    <li><i>"Your understanding of your destiny is such that learning new things comes naturally to you. People appreciate your diplomatic way of speaking."</i>
+  <ul>
+    <li>Receive 3 free points whenever you Power up.</li>
+    <li>Your starting reputation with all factions is higher.</li>
+  </ul></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><center><font>+</font></center></td>
+  <td><b>Attribute Boosts</b>
+  <ul>
+    <li>+3 Charisma</li>
+    <li>+2 Willpower</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 **Iron Vow:**
 
   
 
-<table><tbody><tr><td><figure><figcaption></figcaption></figure></td><td><b>Largent</b><ul><li><i>"Your diplomatic skills extend into your ability to barter. Gain 100 extra notes when turning in a sack."</i><ul><li>The description is outdated. When turning in a sack of chests, gain 300 extra notes per chest.</li></ul></li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td><b>Largent</b>
+  <ul>
+    <li><i>"Your diplomatic skills extend into your ability to barter. Gain 100 extra notes when turning in a sack."</i>
+  <ul>
+    <li>The description is outdated. When turning in a sack of chests, gain 300 extra notes per chest.</li>
+  </ul></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 **Lore:**
 

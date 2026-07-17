@@ -112,16 +112,103 @@ Friid executes their opponent after knocking them:
 
 **Quest Start:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Freedom. Somewhere inside you, you yearn to be free.</td></tr><tr><td colspan="12">What do you mean?</td></tr><tr><td colspan="12">You yearn for the freedom of the skies, the freedom to do what you <i>know</i> is right. Do you wish to learn the freedom of the Galebreather?</td></tr><tr><td colspan="12">Yes, what would you have me do?</td></tr><tr><td colspan="12">Bring me 5 Gale Stones, Then we can continue</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Freedom. Somewhere inside you, you yearn to be free.</td>
+</tr>
+<tr>
+  <td colspan="12">What do you mean?</td>
+</tr>
+<tr>
+  <td colspan="12">You yearn for the freedom of the skies, the freedom to do what you <i>know</i> is right. Do you wish to learn the freedom of the Galebreather?</td>
+</tr>
+<tr>
+  <td colspan="12">Yes, what would you have me do?</td>
+</tr>
+<tr>
+  <td colspan="12">Bring me 5 Gale Stones, Then we can continue</td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Quest Completed:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Have you done what I asked?</td></tr><tr><td colspan="6">Here. (Sufficient Gale Stones)</td><td colspan="6">Here. (No Gale Stones)</td></tr><tr><td colspan="6">*They take the stones and crush each of them into a glass vial, shattered segments falling in.*</td><td colspan="6">Hm. You have not brought me the 5 Gale Stones I require to assist you...</td></tr><tr><td colspan="6">What is that you're doing?</td><td colspan="6">[End Dialogue]</td></tr><tr><td colspan="6">*They retrieve a knife and a glass vial, quickly opening a knick in their thumb and letting a drop of blood fall into the vial. They give it a quick shake and hand it to you*</td></tr><tr><td colspan="6">The vial I gave you. You must drink it.</td></tr><tr><td colspan="6">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Have you done what I asked?</td>
+</tr>
+<tr>
+  <td colspan="6">Here. (Sufficient Gale Stones)</td>
+  <td colspan="6">Here. (No Gale Stones)</td>
+</tr>
+<tr>
+  <td colspan="6">*They take the stones and crush each of them into a glass vial, shattered segments falling in.*</td>
+  <td colspan="6">Hm. You have not brought me the 5 Gale Stones I require to assist you...</td>
+</tr>
+<tr>
+  <td colspan="6">What is that you're doing?</td>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="6">*They retrieve a knife and a glass vial, quickly opening a knick in their thumb and letting a drop of blood fall into the vial. They give it a quick shake and hand it to you*</td>
+</tr>
+<tr>
+  <td colspan="6">The vial I gave you. You must drink it.</td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent Encounters:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">The Wind finds a way through even the narrowest of passages. Have you come to let the wind guide you?</td></tr><tr><td colspan="6">Yes, I have. (Mantras Available)</td><td colspan="6">Yes, I have. (Mantras Unavailable or all Galebreath Mantras maxed)</td></tr><tr><td colspan="6">(The Mantra leveling UI appears)</td><td colspan="6">The air remains still...</td></tr><tr><td colspan="6">[End Dialogue]</td><td colspan="6">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">The Wind finds a way through even the narrowest of passages. Have you come to let the wind guide you?</td>
+</tr>
+<tr>
+  <td colspan="6">Yes, I have. (Mantras Available)</td>
+  <td colspan="6">Yes, I have. (Mantras Unavailable or all Galebreath Mantras maxed)</td>
+</tr>
+<tr>
+  <td colspan="6">(The Mantra leveling UI appears)</td>
+  <td colspan="6">The air remains still...</td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue]</td>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Silentheart:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Your Ether... Just what have you done?</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Your Ether... Just what have you done?</td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

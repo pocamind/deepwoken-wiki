@@ -95,7 +95,19 @@ A Summer Manager executes the player after knocking them:
 
 ## Dialogue
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>I don't have time for this, gotta deal with the outlaws in this region. Take this back to the Castle for me will ya?</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>I don't have time for this, gotta deal with the outlaws in this region. Take this back to the Castle for me will ya?</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

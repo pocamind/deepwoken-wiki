@@ -90,11 +90,57 @@ Beiruul executes her opponent after knocking them:
 
 **First Encounter:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Ah, a fellow <a href="Glossary.md#pathfinders">Pathfinder</a>? What might you need?</td></tr><tr><td colspan="12">Do you have any stories?</td></tr><tr><td colspan="12">I do, are there any you would like to hear in particular?</td></tr><tr><td colspan="2">A story of bravery. [Willpower]</td><td colspan="2">A story of cunning. [Intelligence]</td><td colspan="2">A story of speed. [Agility]</td><td colspan="2">A story of power. [Strength]</td><td colspan="2">A story of great leadership. [Charisma]</td><td colspan="2">A story of survival. [Fortitude]</td></tr><tr><td colspan="2"><i>*The <a href="Glossary.md#pathfinders">Pathfinder</a> tells you a story of a man who slew a great beast. You feel empowered by his bravery.*</i></td><td colspan="2"><i>*The <a href="Glossary.md#pathfinders">Pathfinder</a> tells you a story of an old wise fisherman. You feel empowered by his wisdom. You still don’t know how to catch a fish.*</i></td><td colspan="2"><i>*The <a href="Glossary.md#pathfinders">Pathfinder</a> tells you a story of a thief who was never caught. You feel empowered by his speed. You are sad knowing you will never be as fast*</i></td><td colspan="2"><i>*The <a href="Glossary.md#pathfinders">Pathfinder</a> tells you a story of a man who lifted a mountain. You feel empowered by his strength. You seriously doubt a man ever lifted a mountain.*</i></td><td colspan="2"><i>*The <a href="Glossary.md#pathfinders">Pathfinder</a> tells you a story of a great King who sacrificed himself for his people. You feel empowered by his sacrifice. Is this a story about the <a href="Glossary.md#the-king-of-etrea">King of Etrea</a>?*</i></td><td colspan="2"><i>*The <a href="Glossary.md#pathfinders">Pathfinder</a> tells you a story of a man who withstood a great storm as he stood atop a mountain. You feel empowered by his durability. You plan to go stand on a mountain at one point.*</i></td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Ah, a fellow <a href="Glossary.md#pathfinders">Pathfinder</a>? What might you need?</td>
+</tr>
+<tr>
+  <td colspan="12">Do you have any stories?</td>
+</tr>
+<tr>
+  <td colspan="12">I do, are there any you would like to hear in particular?</td>
+</tr>
+<tr>
+  <td colspan="2">A story of bravery. [Willpower]</td>
+  <td colspan="2">A story of cunning. [Intelligence]</td>
+  <td colspan="2">A story of speed. [Agility]</td>
+  <td colspan="2">A story of power. [Strength]</td>
+  <td colspan="2">A story of great leadership. [Charisma]</td>
+  <td colspan="2">A story of survival. [Fortitude]</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*The <a href="Glossary.md#pathfinders">Pathfinder</a> tells you a story of a man who slew a great beast. You feel empowered by his bravery.*</i></td>
+  <td colspan="2"><i>*The <a href="Glossary.md#pathfinders">Pathfinder</a> tells you a story of an old wise fisherman. You feel empowered by his wisdom. You still don’t know how to catch a fish.*</i></td>
+  <td colspan="2"><i>*The <a href="Glossary.md#pathfinders">Pathfinder</a> tells you a story of a thief who was never caught. You feel empowered by his speed. You are sad knowing you will never be as fast*</i></td>
+  <td colspan="2"><i>*The <a href="Glossary.md#pathfinders">Pathfinder</a> tells you a story of a man who lifted a mountain. You feel empowered by his strength. You seriously doubt a man ever lifted a mountain.*</i></td>
+  <td colspan="2"><i>*The <a href="Glossary.md#pathfinders">Pathfinder</a> tells you a story of a great King who sacrificed himself for his people. You feel empowered by his sacrifice. Is this a story about the <a href="Glossary.md#the-king-of-etrea">King of Etrea</a>?*</i></td>
+  <td colspan="2"><i>*The <a href="Glossary.md#pathfinders">Pathfinder</a> tells you a story of a man who withstood a great storm as he stood atop a mountain. You feel empowered by his durability. You plan to go stand on a mountain at one point.*</i></td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent Encounters:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">I don't have anymore stories, come back some other time.</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">I don't have anymore stories, come back some other time.</td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
   
 

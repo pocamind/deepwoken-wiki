@@ -38,11 +38,83 @@ Deepdelver Myra is located at the back of the Deepdriller room in [The Chariot's
 
 **First Encounter:**
 
-<table><tbody><tr><td colspan="16">Begin Dialogue</td></tr><tr><td colspan="16">Hey... are you lost? You've got to be careful around the drill. It's not a toy.</td></tr><tr><td colspan="8">I know. I'm not lost.</td><td colspan="8">You seem tense, you okay?</td></tr><tr><td colspan="8">Haha, good... good. Some folks don't realise what they're getting themselves into.</td><td colspan="8">I'm uh... scheduled for an expedition soon with some of the local Deepdelvers. It's not my first time or anything, I'm just on edge about the whole thing. Last time was a bit of a mess, but we pulled through.</td></tr><tr><td colspan="4">You seem tense, you okay?</td><td colspan="4">I'm sure it can't be that bad.</td><td colspan="4">Hope it goes well.</td><td colspan="4">I've been down there, y'know. You're as good as dead.</td></tr><tr><td colspan="4">[See first instance]</td><td colspan="4">I mean... I guess, if you say so.</td><td colspan="4">Thanks. I really hope so... I always get so anxious before we set out on these things, so I really appreciate the sentiment. Good luck to you, friend.</td><td colspan="4">Oh... thanks. I <i>really</i> needed that. <i>*Her eyes viciously lock with yours as she stares through her brow.*</i></td></tr><tr><td colspan="4"></td><td colspan="2">Mhm.</td><td colspan="2">Yeah it's no sweat, really.</td><td colspan="8">[End Dialogue]</td></tr><tr><td colspan="4"></td><td colspan="4">Right... sure. Safe travels.</td></tr><tr><td colspan="4"></td><td colspan="4">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="16">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="16">Hey... are you lost? You've got to be careful around the drill. It's not a toy.</td>
+</tr>
+<tr>
+  <td colspan="8">I know. I'm not lost.</td>
+  <td colspan="8">You seem tense, you okay?</td>
+</tr>
+<tr>
+  <td colspan="8">Haha, good... good. Some folks don't realise what they're getting themselves into.</td>
+  <td colspan="8">I'm uh... scheduled for an expedition soon with some of the local Deepdelvers. It's not my first time or anything, I'm just on edge about the whole thing. Last time was a bit of a mess, but we pulled through.</td>
+</tr>
+<tr>
+  <td colspan="4">You seem tense, you okay?</td>
+  <td colspan="4">I'm sure it can't be that bad.</td>
+  <td colspan="4">Hope it goes well.</td>
+  <td colspan="4">I've been down there, y'know. You're as good as dead.</td>
+</tr>
+<tr>
+  <td colspan="4">[See first instance]</td>
+  <td colspan="4">I mean... I guess, if you say so.</td>
+  <td colspan="4">Thanks. I really hope so... I always get so anxious before we set out on these things, so I really appreciate the sentiment. Good luck to you, friend.</td>
+  <td colspan="4">Oh... thanks. I <i>really</i> needed that. <i>*Her eyes viciously lock with yours as she stares through her brow.*</i></td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="2">Mhm.</td>
+  <td colspan="2">Yeah it's no sweat, really.</td>
+  <td colspan="8">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="4">Right... sure. Safe travels.</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="4">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent Encounters:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="4">Player chose "I'm sure it can't be that bad."</td><td colspan="4">Player chose "Hope it goes well."</td><td colspan="4">Player chose "I've been down there, y'know. You're as good as dead."</td></tr><tr><td colspan="4">Oh, it's you again.</td><td colspan="4">Hey again.</td><td colspan="4">What do you want?</td></tr><tr><td colspan="4">Stay safe out there.</td><td colspan="4">Good luck out there.</td><td colspan="4">Just passing through.</td></tr><tr><td colspan="4">Yeah... you too.</td><td colspan="4">Good luck to you too, friend.</td><td colspan="4">Then keep moving.</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="4">Player chose "I'm sure it can't be that bad."</td>
+  <td colspan="4">Player chose "Hope it goes well."</td>
+  <td colspan="4">Player chose "I've been down there, y'know. You're as good as dead."</td>
+</tr>
+<tr>
+  <td colspan="4">Oh, it's you again.</td>
+  <td colspan="4">Hey again.</td>
+  <td colspan="4">What do you want?</td>
+</tr>
+<tr>
+  <td colspan="4">Stay safe out there.</td>
+  <td colspan="4">Good luck out there.</td>
+  <td colspan="4">Just passing through.</td>
+</tr>
+<tr>
+  <td colspan="4">Yeah... you too.</td>
+  <td colspan="4">Good luck to you too, friend.</td>
+  <td colspan="4">Then keep moving.</td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

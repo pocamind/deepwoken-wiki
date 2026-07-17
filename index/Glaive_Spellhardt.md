@@ -92,19 +92,89 @@ With 2022 Hallowtide, came with 3 Hallowtide-exclusive weapons, and a random mas
 
 **Base Dialogue:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Oh! Look at all that Joy within you! How many souls have you scared?</td></tr><tr><td colspan="12">Well I'd say around... [Number], maybe?</td></tr><tr><td colspan="12"><b>[Number] people!</b> Very well, very well. What would you like, then?</td></tr><tr><td colspan="6">1. Master Schematic [20 Joy]<br>2. Skyreap Blade (Greataxe) [100 Joy]<br>3. Hallowscleave (Sword) [100 Joy]<br>4. Skull Piercer (Rapier) [100 Joy]<br>5. Putrid Edenstaff (Greathammer) [100 Joy]<br>6. Bloodtide Trident (Spear) [100 Joy]<br>7. Drakemaw Gauntlets (Fist) [100 Joy]<br>8. Gourdguard (Shield) [80 Joy]<br>9. Wretched Mawblades (Greatsword) [100 Joy]<br>10. Death's Reverie (Twinblade) [100 Joy]<br>11. Spectral Grasp (Dagger) [100 Joy]<br>12. Smouldering Hallow (Greatcannon) [100 Joy]<br>13.The Weaving Web (Spear) [100 Joy]<br>14. Harrowing Enchant Stone [150 Joy]<br>15. Pumpkin Pitch (Mantra) [300 Joy]</td><td colspan="6">Here you are, your own personal Joy!</td></tr><tr><td colspan="6">Not enough Joy for any purchase</td><td colspan="6">Not quite enough for that yet, friend.</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Oh! Look at all that Joy within you! How many souls have you scared?</td>
+</tr>
+<tr>
+  <td colspan="12">Well I'd say around... [Number], maybe?</td>
+</tr>
+<tr>
+  <td colspan="12"><b>[Number] people!</b> Very well, very well. What would you like, then?</td>
+</tr>
+<tr>
+  <td colspan="6">1. Master Schematic [20 Joy]<br>
+  2. Skyreap Blade (Greataxe) [100 Joy]<br>
+  3. Hallowscleave (Sword) [100 Joy]<br>
+  4. Skull Piercer (Rapier) [100 Joy]<br>
+  5. Putrid Edenstaff (Greathammer) [100 Joy]<br>
+  6. Bloodtide Trident (Spear) [100 Joy]<br>
+  7. Drakemaw Gauntlets (Fist) [100 Joy]<br>
+  8. Gourdguard (Shield) [80 Joy]<br>
+  9. Wretched Mawblades (Greatsword) [100 Joy]<br>
+  10. Death's Reverie (Twinblade) [100 Joy]<br>
+  11. Spectral Grasp (Dagger) [100 Joy]<br>
+  12. Smouldering Hallow (Greatcannon) [100 Joy]<br>
+  13.The Weaving Web (Spear) [100 Joy]<br>
+  14. Harrowing Enchant Stone [150 Joy]<br>
+  15. Pumpkin Pitch (Mantra) [300 Joy]</td>
+  <td colspan="6">Here you are, your own personal Joy!</td>
+</tr>
+<tr>
+  <td colspan="6">Not enough Joy for any purchase</td>
+  <td colspan="6">Not quite enough for that yet, friend.</td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **No Joy:**
 
 This Dialogue appears when you have exactly Zero [Joy](Joy.md) and you try to buy Glaive's stuff.
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Oh! Look at all that Joy within you! How many souls have you scared?</td></tr><tr><td colspan="12">Well I'd say around... 0, maybe?</td></tr><tr><td colspan="12">No one? Come on, Hallowtide doesn't last forever, friend. Go on, scare a friend. Maybe Alina, in the courtyard. I've been bugging her all day.</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Oh! Look at all that Joy within you! How many souls have you scared?</td>
+</tr>
+<tr>
+  <td colspan="12">Well I'd say around... 0, maybe?</td>
+</tr>
+<tr>
+  <td colspan="12">No one? Come on, Hallowtide doesn't last forever, friend. Go on, scare a friend. Maybe Alina, in the courtyard. I've been bugging her all day.</td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **No Mask:**
 
 This Dialogue appears when you haven't made the [Hallowtide Mask](Hallowtide_Mask.md) for [Lysander Spellhardt](Lysander_Spellhardt.md) yet.
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Hum dee dum.. oh! You're not from here. Why not go see Lysander downstairs? I'm sure he can explain Hallowtide to you, better than I could at least.</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Hum dee dum.. oh! You're not from here. Why not go see Lysander downstairs? I'm sure he can explain Hallowtide to you, better than I could at least.</td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## References
 

@@ -28,7 +28,30 @@ Hybrids of Humans and [Celestials](Celestial.md), some of them once inhabited th
 
 ## Traits
 
-<table><tbody><tr><td></td><td><b>Ad Astra</b><p><i>Return Home</i></p><ul><li>Teleports you to <a href="The_Floating_Keep.md">The Floating Keep</a>, using it while inside of the Floating Keep will instead take you back to where you used it.</li><li>Cannot be used while in combat.</li></ul><hr></td></tr><tr><td><center><font>+2</font></center></td><td><b>Attribute Boosts</b><ul><li>+2 Strength</li><li>+2 Fortitude</li><li>+2 Agility</li><li>+2 Intelligence</li><li>+2 Willpower</li><li>+2 Charisma</li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td></td>
+  <td><b>Ad Astra</b><p><i>Return Home</i></p>
+  <ul>
+    <li>Teleports you to <a href="The_Floating_Keep.md">The Floating Keep</a>, using it while inside of the Floating Keep will instead take you back to where you used it.</li>
+    <li>Cannot be used while in combat.</li>
+  </ul><hr></td>
+</tr>
+<tr>
+  <td><center><font>+2</font></center></td>
+  <td><b>Attribute Boosts</b>
+  <ul>
+    <li>+2 Strength</li>
+    <li>+2 Fortitude</li>
+    <li>+2 Agility</li>
+    <li>+2 Intelligence</li>
+    <li>+2 Willpower</li>
+    <li>+2 Charisma</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Miscellaneous
 

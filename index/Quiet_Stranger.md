@@ -30,7 +30,35 @@ Via having 50 [Charisma](Attributes.md#cha), you will obtain [Murmur: Tacet](Mur
 
 ## Dialogue
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">...It seems I have been spotted by a local.</td></tr><tr><td colspan="6">What are you doing here?</td><td colspan="6">How did you just appear? [Charisma]</td></tr><tr><td colspan="6">You really are interfering in something you have no business in... Did the Authority send you? The forge was missing from the temple... It must've been you!</td><td colspan="3">[Charisma Check Passed]</td><td colspan="3">[Charisma Check Failed]</td></tr><tr><td colspan="6">[End Dialogue], he attacks you</td><td colspan="3">Well, that would be <a href="Murmur%253A_Tacet.md">Tacet</a>.</td><td colspan="3">Inquisitive aren't we? Snooping around for the <a href="Glossary.md#the-central-authority">Authority</a>?</td></tr><tr><td colspan="6"></td><td colspan="3">[End Dialogue], Player obtains <a href="Murmur%253A_Tacet.md"><font>Tacet</font></a></td><td colspan="3">[End Dialogue], he attacks you</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">...It seems I have been spotted by a local.</td>
+</tr>
+<tr>
+  <td colspan="6">What are you doing here?</td>
+  <td colspan="6">How did you just appear? [Charisma]</td>
+</tr>
+<tr>
+  <td colspan="6">You really are interfering in something you have no business in... Did the Authority send you? The forge was missing from the temple... It must've been you!</td>
+  <td colspan="3">[Charisma Check Passed]</td>
+  <td colspan="3">[Charisma Check Failed]</td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue], he attacks you</td>
+  <td colspan="3">Well, that would be <a href="Murmur%253A_Tacet.md">Tacet</a>.</td>
+  <td colspan="3">Inquisitive aren't we? Snooping around for the <a href="Glossary.md#the-central-authority">Authority</a>?</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td colspan="3">[End Dialogue], Player obtains <a href="Murmur%253A_Tacet.md"><font>Tacet</font></a></td>
+  <td colspan="3">[End Dialogue], he attacks you</td>
+</tr>
+</tbody>
+</table>
 
 ## Moveset
 

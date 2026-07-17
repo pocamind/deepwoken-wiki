@@ -33,4 +33,28 @@ Gaius is located in [Erisia](Erisia.md) inside [The Viper's Jaw](<The_Viper's_Ja
 
 ## Dialogue
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Curses... I can't believe he stationed me here!</td></tr><tr><td>...</td></tr><tr><td>Sure you agree RIGHT?! I have the most potential in all of the Legion... And here I am in the <a href="Glossary.md#the-etrean-luminant">Etrean Luminant</a>.</td></tr><tr><td>Where'd you come from?</td></tr><tr><td>All the way out West. You should be honoured, you know... You're looking at the next ruler of the Legion. If you're nice to me I might let you visit sometime.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Curses... I can't believe he stationed me here!</td>
+</tr>
+<tr>
+  <td>...</td>
+</tr>
+<tr>
+  <td>Sure you agree RIGHT?! I have the most potential in all of the Legion... And here I am in the <a href="Glossary.md#the-etrean-luminant">Etrean Luminant</a>.</td>
+</tr>
+<tr>
+  <td>Where'd you come from?</td>
+</tr>
+<tr>
+  <td>All the way out West. You should be honoured, you know... You're looking at the next ruler of the Legion. If you're nice to me I might let you visit sometime.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

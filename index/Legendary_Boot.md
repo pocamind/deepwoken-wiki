@@ -28,11 +28,81 @@ The Legendary Boot is located in [Erisia](Erisia.md) on top of a rock, that is i
 
 **Being Unworthy:**
 
-<table><tbody><tr><td colspan="4">Begin Dialogue</td></tr><tr><td colspan="4"><i>The Legendary Boot waits for the day that one worthy will claim it.</i></td></tr><tr><td colspan="4">[Claim it]</td></tr><tr><td colspan="4"><i>Someone <b>WORTHY</b></i>.</td></tr><tr><td colspan="2">[Requires Resonance]</td><td colspan="2">[Requires Power 20]</td></tr><tr><td colspan="2">I've unlocked my Resonance, I should be worthy.</td><td colspan="2">But i'm really strong, I should be worthy.</td></tr><tr><td colspan="2"><i>You think carrying around a musical instrument makes you <b>WORTHY?</b></i></td><td colspan="2"><i>Not strong enough to be <b>WORTHY</b></i>.</td></tr><tr><td colspan="2">[End Dialogue]</td><td colspan="2">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="4"><i>The Legendary Boot waits for the day that one worthy will claim it.</i></td>
+</tr>
+<tr>
+  <td colspan="4">[Claim it]</td>
+</tr>
+<tr>
+  <td colspan="4"><i>Someone <b>WORTHY</b></i>.</td>
+</tr>
+<tr>
+  <td colspan="2">[Requires Resonance]</td>
+  <td colspan="2">[Requires Power 20]</td>
+</tr>
+<tr>
+  <td colspan="2">I've unlocked my Resonance, I should be worthy.</td>
+  <td colspan="2">But i'm really strong, I should be worthy.</td>
+</tr>
+<tr>
+  <td colspan="2"><i>You think carrying around a musical instrument makes you <b>WORTHY?</b></i></td>
+  <td colspan="2"><i>Not strong enough to be <b>WORTHY</b></i>.</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Being Worthy:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>The Legendary Boot waits for the day that one worthy will claim it.</i></td></tr><tr><td>[Claim it]</td></tr><tr><td>[Requires Worthy Regalia]</td></tr><tr><td><i>Something stirs within the depths of your soul, it's as if your very birth, your very reason for existing was meant for this moment.</i></td></tr><tr><td>[Just take it already]</td></tr><tr><td><i>You hold onto the boot, it tingles with anticipation.</i></td></tr><tr><td>[Wear it]</td></tr><tr><td><i>As you slip your foot into the boot, a sudden realization dawns on you.</i></td></tr><tr><td>What?</td></tr><tr><td><i>Your feet are too big for the <b>Legendary Boot.</b></i></td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>The Legendary Boot waits for the day that one worthy will claim it.</i></td>
+</tr>
+<tr>
+  <td>[Claim it]</td>
+</tr>
+<tr>
+  <td>[Requires Worthy Regalia]</td>
+</tr>
+<tr>
+  <td><i>Something stirs within the depths of your soul, it's as if your very birth, your very reason for existing was meant for this moment.</i></td>
+</tr>
+<tr>
+  <td>[Just take it already]</td>
+</tr>
+<tr>
+  <td><i>You hold onto the boot, it tingles with anticipation.</i></td>
+</tr>
+<tr>
+  <td>[Wear it]</td>
+</tr>
+<tr>
+  <td><i>As you slip your foot into the boot, a sudden realization dawns on you.</i></td>
+</tr>
+<tr>
+  <td>What?</td>
+</tr>
+<tr>
+  <td><i>Your feet are too big for the <b>Legendary Boot.</b></i></td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

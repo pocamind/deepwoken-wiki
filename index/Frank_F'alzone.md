@@ -30,7 +30,31 @@ Frank F'alzone, is a [Celtor](Celtor.md) NPC who was part of [Captain Orlandeau'
 
 ## Dialogue
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Aye, 'appy to see ye, [First Name]. I 'eard Orlandeau hollerin' at ye from here! Did he teach you well? Didn't kill yer confidence, aye?</td></tr><tr><td>You could say that.</td></tr><tr><td>'Appy to hear, mate. I've been doin' what I do best 'round 'ere. <i>*The man proudly holds up a mop, as if it were a trophy.*</i> This.. this here, my beauty, my star. With her, Oi'm the destroyer of mold upon this deck.</td></tr><tr><td>You've been swabbing?</td></tr><tr><td>Ye can bet yer soul I'll swab all there is to swab. They call me <b>The Swabber</b>, they does. I swab all things'at need swabbin'.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Aye, 'appy to see ye, [First Name]. I 'eard Orlandeau hollerin' at ye from here! Did he teach you well? Didn't kill yer confidence, aye?</td>
+</tr>
+<tr>
+  <td>You could say that.</td>
+</tr>
+<tr>
+  <td>'Appy to hear, mate. I've been doin' what I do best 'round 'ere. <i>*The man proudly holds up a mop, as if it were a trophy.*</i> This.. this here, my beauty, my star. With her, Oi'm the destroyer of mold upon this deck.</td>
+</tr>
+<tr>
+  <td>You've been swabbing?</td>
+</tr>
+<tr>
+  <td>Ye can bet yer soul I'll swab all there is to swab. They call me <b>The Swabber</b>, they does. I swab all things'at need swabbin'.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

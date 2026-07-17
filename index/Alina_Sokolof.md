@@ -28,4 +28,16 @@ Alina Sokolof is a [Celtor](Celtor.md) NPC. She was the Quartermaster of [Castle
 
 ## Dialogue
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*You address the <a href="Glossary.md#the-divers">Diver</a> as you approach. She turns her attention from what she was doing, and looks at you.*</i> Eh?.. Sorry mate, I'm really busy... If you've got any business with the <a href="Glossary.md#the-divers">Diver</a>, I'm afraid I can't help you right now. I'm just the Quartermaster.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*You address the <a href="Glossary.md#the-divers">Diver</a> as you approach. She turns her attention from what she was doing, and looks at you.*</i> Eh?.. Sorry mate, I'm really busy... If you've got any business with the <a href="Glossary.md#the-divers">Diver</a>, I'm afraid I can't help you right now. I'm just the Quartermaster.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

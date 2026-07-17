@@ -45,33 +45,183 @@ The Meat Lord can be found at the following places:
 
 **First Encounter:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*The absurd looking man before you stands with arms crossed triumphantly, as if announcing his presence to the world.*</i></td></tr><tr><td>Uh, hello?</td></tr><tr><td><i>*The man twitches, as if irked by your sudden greeting.*</i> Have you perhaps mistake me for one of your fellow commonfolk? Or perhaps, you've not been educated in the proper way of greeting those of noble class?</td></tr><tr><td>Oh, uh, my bad.</td></tr><tr><td><i>*The man sighs with exasperation.*</i> As it seems you're completely ignorant of my fame, I'll ignore this slight and give you a proper lesson - I am the Meat Lord, known for my high quality flesh-based cuisine across all places of this world above and below. Would you like to browse my current selection?</td></tr><tr><td>Yes, m'lord.</td></tr><tr><td>[<font>Opens</font> <a href="#shop-rotation"><u><font>Shop UI</font></u></a>]</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*The absurd looking man before you stands with arms crossed triumphantly, as if announcing his presence to the world.*</i></td>
+</tr>
+<tr>
+  <td>Uh, hello?</td>
+</tr>
+<tr>
+  <td><i>*The man twitches, as if irked by your sudden greeting.*</i> Have you perhaps mistake me for one of your fellow commonfolk? Or perhaps, you've not been educated in the proper way of greeting those of noble class?</td>
+</tr>
+<tr>
+  <td>Oh, uh, my bad.</td>
+</tr>
+<tr>
+  <td><i>*The man sighs with exasperation.*</i> As it seems you're completely ignorant of my fame, I'll ignore this slight and give you a proper lesson - I am the Meat Lord, known for my high quality flesh-based cuisine across all places of this world above and below. Would you like to browse my current selection?</td>
+</tr>
+<tr>
+  <td>Yes, m'lord.</td>
+</tr>
+<tr>
+  <td>[<font>Opens</font> <a href="#shop-rotation"><u><font>Shop UI</font></u></a>]</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent Encounters:**
 
 **Base Dialogue:**
 
-<table><tbody><tr><td colspan="8">Begin Dialogue</td></tr><tr><td colspan="8"><i>*The Meat Lord stands in silence, awaiting those who are undoubtedly seeking to purchase from his collection.*</i></td></tr><tr><td colspan="4">Hey.</td><td colspan="4">[Bow to the Meat Lord]</td></tr><tr><td colspan="4"><i>*From beneath the Meat Lord's mask, you feel his vexed gaze weigh upon you.*</i> Do you understand how to behave properly in the face of <i><b>nobility</b></i>?</td><td colspan="4">You may rise. I presume you wish to see today's selection?</td></tr><tr><td colspan="4">[End Dialogue]</td><td colspan="2">Yes, m'lord.</td><td colspan="2">[Player has the Vegetarian Flaw]</td></tr><tr><td colspan="4"></td><td colspan="2"><font>[Opens</font> <a href="#shop-rotation"><u><font>Shop UI</font></u></a><font>]</font></td><td colspan="2">I'm a vegetarian.</td></tr><tr><td colspan="4"></td><td colspan="2">[End Dialogue]</td><td colspan="2">I don't remember asking. Do you wish to see today's selection?</td></tr><tr><td colspan="6"></td><td>Yes, m'lord.</td><td>I'm a vegetarian.</td></tr><tr><td colspan="6"></td><td colspan="2">[See previous instances]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="8">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="8"><i>*The Meat Lord stands in silence, awaiting those who are undoubtedly seeking to purchase from his collection.*</i></td>
+</tr>
+<tr>
+  <td colspan="4">Hey.</td>
+  <td colspan="4">[Bow to the Meat Lord]</td>
+</tr>
+<tr>
+  <td colspan="4"><i>*From beneath the Meat Lord's mask, you feel his vexed gaze weigh upon you.*</i> Do you understand how to behave properly in the face of <i><b>nobility</b></i>?</td>
+  <td colspan="4">You may rise. I presume you wish to see today's selection?</td>
+</tr>
+<tr>
+  <td colspan="4">[End Dialogue]</td>
+  <td colspan="2">Yes, m'lord.</td>
+  <td colspan="2">[Player has the Vegetarian Flaw]</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="2"><font>[Opens</font> <a href="#shop-rotation"><u><font>Shop UI</font></u></a><font>]</font></td>
+  <td colspan="2">I'm a vegetarian.</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="2">[End Dialogue]</td>
+  <td colspan="2">I don't remember asking. Do you wish to see today's selection?</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td>Yes, m'lord.</td>
+  <td>I'm a vegetarian.</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td colspan="2">[See previous instances]</td>
+</tr>
+</tbody>
+</table>
 
 **Disrespected The Meat Lord:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*The Meat Lord seems to have no intention of acknowledging your presence.*</i></td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*The Meat Lord seems to have no intention of acknowledging your presence.*</i></td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Shop UI:**
 
-<table><tbody><tr><td colspan="3">Begin Dialogue</td></tr><tr><td>[When accessing the Shop]</td><td>[After purchasing something]</td><td>[Attempting to purchase meat with no available carryload]</td></tr><tr><td>Very well.</td><td>Here's your meat.</td><td><i>*The Meat Lord scowls at you.*</i> You would carry my goods when overburdened and risk spoiling the meats? Lighten your load of lesser goods and then return.</td></tr><tr><td>[End Dialogue]</td><td>[End Dialogue], meat obtained</td><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="3">Begin Dialogue</td>
+</tr>
+<tr>
+  <td>[When accessing the Shop]</td>
+  <td>[After purchasing something]</td>
+  <td>[Attempting to purchase meat with no available carryload]</td>
+</tr>
+<tr>
+  <td>Very well.</td>
+  <td>Here's your meat.</td>
+  <td><i>*The Meat Lord scowls at you.*</i> You would carry my goods when overburdened and risk spoiling the meats? Lighten your load of lesser goods and then return.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+  <td>[End Dialogue], meat obtained</td>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Exclusive Dialogue:**
 
 This dialogue was only available during the [Metallica x Deepwoken '72 Seasons' Listening Party](<Metallica_x_Deepwoken_'72_Seasons'_Listening_Party.md>).
 
-<table><tbody><tr><td colspan="6">Begin Dialogue</td></tr><tr><td colspan="6"><i>*The Meat Lord stands in silence, awaiting those who would purchase from his bounty of meat and potions.*</i> What are you looking for, fellow warrior?</td></tr><tr><td colspan="3">I'll have a drink. [10 Notes]</td><td colspan="2">I'll have some meat. [10 Notes]</td><td>Are you the meat lord?</td></tr><tr><td colspan="2">[Sufficient Notes]</td><td>[Insufficient Notes]</td><td>[Sufficient Notes]</td><td>[Insufficient Notes]</td><td>Of course. <i>*The Lord looks away, not elaborating further.*</i></td></tr><tr><td>[No Potion in Inventory]</td><td>[Already have a Potion]</td><td><i>*The Lord eyes you intensely.*</i> Return with coin before you speak to me again.</td><td><i>*The man summons the meat from seemingly no where.*</i> Go forth and enjoy the finest meal I have ever crafted.</td><td>[See first instance]</td><td>[End Dialogue]</td></tr><tr><td><i>*The drink flows into the flask from seemingly no where.*</i> Go forth and enjoy the fine music and cold potions.</td><td><i>*The Lord eyes you intensely.*</i> There will be plenty of drink, finish yours first.</td><td>[End Dialogue]</td><td>[End Dialogue], random meat food obtained</td></tr><tr><td>[End Dialogue], Hastening Brew obtained</td><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="6"><i>*The Meat Lord stands in silence, awaiting those who would purchase from his bounty of meat and potions.*</i> What are you looking for, fellow warrior?</td>
+</tr>
+<tr>
+  <td colspan="3">I'll have a drink. [10 Notes]</td>
+  <td colspan="2">I'll have some meat. [10 Notes]</td>
+  <td>Are you the meat lord?</td>
+</tr>
+<tr>
+  <td colspan="2">[Sufficient Notes]</td>
+  <td>[Insufficient Notes]</td>
+  <td>[Sufficient Notes]</td>
+  <td>[Insufficient Notes]</td>
+  <td>Of course. <i>*The Lord looks away, not elaborating further.*</i></td>
+</tr>
+<tr>
+  <td>[No Potion in Inventory]</td>
+  <td>[Already have a Potion]</td>
+  <td><i>*The Lord eyes you intensely.*</i> Return with coin before you speak to me again.</td>
+  <td><i>*The man summons the meat from seemingly no where.*</i> Go forth and enjoy the finest meal I have ever crafted.</td>
+  <td>[See first instance]</td>
+  <td>[End Dialogue]</td>
+</tr>
+<tr>
+  <td><i>*The drink flows into the flask from seemingly no where.*</i> Go forth and enjoy the fine music and cold potions.</td>
+  <td><i>*The Lord eyes you intensely.*</i> There will be plenty of drink, finish yours first.</td>
+  <td>[End Dialogue]</td>
+  <td>[End Dialogue], random meat food obtained</td>
+</tr>
+<tr>
+  <td>[End Dialogue], Hastening Brew obtained</td>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Shop UI
 
 The Meat Lord's Selection
 
-<table><tbody><tr><td><center><figure><figcaption></figcaption></figure>2 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>[Item name]</div><div><i></i></div></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>2 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>[Item name]</div><div><i></i></div></td>
+</tr>
+</tbody>
+</table>
 
   
 
@@ -95,7 +245,14 @@ His item descriptions will be the same as what he's selling:
 
 Sold Items
 
-<table><tbody><tr><td><b><a href="Food.md">Food</a></b></td><td><p><b>For 2 </b>: <a href="Calamari.md">Calamari</a>, <a href="Cooked_Fish.md">Cooked Fish</a>, <a href="Cooked_Squid.md">Cooked Squid</a>, <a href="Fish_Omelette.md">Fish Omelette</a>, <a href="Glazed_Fish.md">Glazed Fish</a>, <a href="Megurger.md">Megurger</a>, <a href="Mushroom_Bisque.md">Mushroom Bisque</a>, <a href="Seafood_Boil.md">Seafood Boil</a>, <a href="Sushi.md">Sushi</a>.</p></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><b><a href="Food.md">Food</a></b></td>
+  <td><p><b>For 2 </b>: <a href="Calamari.md">Calamari</a>, <a href="Cooked_Fish.md">Cooked Fish</a>, <a href="Cooked_Squid.md">Cooked Squid</a>, <a href="Fish_Omelette.md">Fish Omelette</a>, <a href="Glazed_Fish.md">Glazed Fish</a>, <a href="Megurger.md">Megurger</a>, <a href="Mushroom_Bisque.md">Mushroom Bisque</a>, <a href="Seafood_Boil.md">Seafood Boil</a>, <a href="Sushi.md">Sushi</a>.</p></td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

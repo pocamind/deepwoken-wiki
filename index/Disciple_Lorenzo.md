@@ -35,8 +35,38 @@ Disciple Lorenzo is located in the training grounds of [Alsin's Landing](<Alsin'
 
 **Base Dialogue:**
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2"><i>*The Justicar seems unable to lift up the greatsword.*</i> Gah, it's... too heavy...</td></tr><tr><td colspan="2">Need help?</td></tr><tr><td colspan="2">...Phew, thanks, but I need to do this myself. A Justicar has to be able to walk their own Path. I won't ever be able to go back out there if I can't.</td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*The Justicar seems unable to lift up the greatsword.*</i> Gah, it's... too heavy...</td>
+</tr>
+<tr>
+  <td colspan="2">Need help?</td>
+</tr>
+<tr>
+  <td colspan="2">...Phew, thanks, but I need to do this myself. A Justicar has to be able to walk their own Path. I won't ever be able to go back out there if I can't.</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Voidwalker:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*They appear out of breath.*</i> ...Wait, please!..</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*They appear out of breath.*</i> ...Wait, please!..</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

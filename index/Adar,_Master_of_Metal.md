@@ -250,29 +250,181 @@ Adar's arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md) alo
 
 **No Pluripotent Alloy:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Hmm... No, that's not it... *<i>It appears he's too deep in thought to notice you.</i>*</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Hmm... No, that's not it... *<i>It appears he's too deep in thought to notice you.</i>*</td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Quest Start:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Hmm... Oh, sorry! Can I help you?</td></tr><tr><td colspan="12">Rudral said you were interested in Pluripotent Alloys?</td></tr><tr><td colspan="12">Yes. That's right. Though what I'm <i>truly</i> interested in is replicating the art of <b>Ironsing</b>.</td></tr><tr><td colspan="12">Ironsing?</td></tr><tr><td colspan="12">Indeed. An attunement that has been in decline since the Canticlysm was brought to an end by the Tides. We can harness metal from our surroundings - even trace amounts can be used to great effect. I myself am a user of it by birth, but...</td></tr><tr><td colspan="12">But?</td></tr><tr><td colspan="12">But... I never knew my parents. The Union took me in off the streets. The living Ironsingers out there guard its secret pretty closely, so there's a lot we don't know about it. They'd have my neck if they found me here! What I <i>do</i> know is that there is a tremendous potential within this art. I seek to give others the chance to realise it.</td></tr><tr><td colspan="12">And how would you do that?</td></tr><tr><td colspan="12">I have some theories. It's said that the discovery of Pluripotent Alloy was what led to Ironsing's development, and that's the line of questioning I've chosen to follow. Interestingly, they say that the combination of a <i>catalyst</i> and the right frame of mind are what induce the <i>attunement</i> to an element of the Song.</td></tr><tr><td colspan="12">A catalyst?</td></tr><tr><td colspan="12">That's right. For example, <b>Thundercallers</b> are often attuned through the use of <b>Spark Glands</b> and the blood of another Thundercaller. I'm looking to find the catalyst for attaining Ironsing. Pluripotent Alloy induces unique effects when applied to metal. I believe that with a few adjustments, it could be made to <i>induce changes in the human body.</i></td></tr><tr><td colspan="12">How can I help?</td></tr><tr><td colspan="12">In my research, I managed to break down the components of Pluripotent Alloy down into 6 metals: Iron, Gold, Erisore, Irithine, Astruline, and Umbrite. If you can get me the raw forms of these metals, I might be able to create an elixir of some kind to induce such changes in you, should you be willing.</td></tr><tr><td colspan="6">Alright, I'll do it.</td><td colspan="6">Ironsing? Sounds lame.</td></tr><tr><td colspan="6">Great! I look forward to our future collaborations, friend.</td><td colspan="6">It's okay to admit that you weren't listening.</td></tr><tr><td colspan="6">[End Dialogue]</td><td colspan="6">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Hmm... Oh, sorry! Can I help you?</td>
+</tr>
+<tr>
+  <td colspan="12">Rudral said you were interested in Pluripotent Alloys?</td>
+</tr>
+<tr>
+  <td colspan="12">Yes. That's right. Though what I'm <i>truly</i> interested in is replicating the art of <b>Ironsing</b>.</td>
+</tr>
+<tr>
+  <td colspan="12">Ironsing?</td>
+</tr>
+<tr>
+  <td colspan="12">Indeed. An attunement that has been in decline since the Canticlysm was brought to an end by the Tides. We can harness metal from our surroundings - even trace amounts can be used to great effect. I myself am a user of it by birth, but...</td>
+</tr>
+<tr>
+  <td colspan="12">But?</td>
+</tr>
+<tr>
+  <td colspan="12">But... I never knew my parents. The Union took me in off the streets. The living Ironsingers out there guard its secret pretty closely, so there's a lot we don't know about it. They'd have my neck if they found me here! What I <i>do</i> know is that there is a tremendous potential within this art. I seek to give others the chance to realise it.</td>
+</tr>
+<tr>
+  <td colspan="12">And how would you do that?</td>
+</tr>
+<tr>
+  <td colspan="12">I have some theories. It's said that the discovery of Pluripotent Alloy was what led to Ironsing's development, and that's the line of questioning I've chosen to follow. Interestingly, they say that the combination of a <i>catalyst</i> and the right frame of mind are what induce the <i>attunement</i> to an element of the Song.</td>
+</tr>
+<tr>
+  <td colspan="12">A catalyst?</td>
+</tr>
+<tr>
+  <td colspan="12">That's right. For example, <b>Thundercallers</b> are often attuned through the use of <b>Spark Glands</b> and the blood of another Thundercaller. I'm looking to find the catalyst for attaining Ironsing. Pluripotent Alloy induces unique effects when applied to metal. I believe that with a few adjustments, it could be made to <i>induce changes in the human body.</i></td>
+</tr>
+<tr>
+  <td colspan="12">How can I help?</td>
+</tr>
+<tr>
+  <td colspan="12">In my research, I managed to break down the components of Pluripotent Alloy down into 6 metals: Iron, Gold, Erisore, Irithine, Astruline, and Umbrite. If you can get me the raw forms of these metals, I might be able to create an elixir of some kind to induce such changes in you, should you be willing.</td>
+</tr>
+<tr>
+  <td colspan="6">Alright, I'll do it.</td>
+  <td colspan="6">Ironsing? Sounds lame.</td>
+</tr>
+<tr>
+  <td colspan="6">Great! I look forward to our future collaborations, friend.</td>
+  <td colspan="6">It's okay to admit that you weren't listening.</td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue]</td>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Quest Completed:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Any luck finding the ores?</td></tr><tr><td colspan="6">Here. (With required ores)</td><td colspan="6">Here. (No ores)</td></tr><tr><td colspan="6">*They take the ores and process them through various methods, finally yielding and iridescent liquid and decanting it into a vial.*</td><td colspan="6">Ah... Seems like you're missing something. In all, I'll need Iron, Gold, Erisore, Irithine, and Umbrite.</td></tr><tr><td colspan="6">So, what next?</td><td colspan="6">[End Dialogue]</td></tr><tr><td colspan="6">Now, if I'm right... This shouldn't do you <i>too</i> much harm. Err. No pain no gain, right? *<i>He looks awkwardly from side to side, evidently unsure if this is going to work.</i></td></tr><tr><td colspan="6">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Any luck finding the ores?</td>
+</tr>
+<tr>
+  <td colspan="6">Here. (With required ores)</td>
+  <td colspan="6">Here. (No ores)</td>
+</tr>
+<tr>
+  <td colspan="6">*They take the ores and process them through various methods, finally yielding and iridescent liquid and decanting it into a vial.*</td>
+  <td colspan="6">Ah... Seems like you're missing something. In all, I'll need Iron, Gold, Erisore, Irithine, and Umbrite.</td>
+</tr>
+<tr>
+  <td colspan="6">So, what next?</td>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="6">Now, if I'm right... This shouldn't do you <i>too</i> much harm. Err. No pain no gain, right? *<i>He looks awkwardly from side to side, evidently unsure if this is going to work.</i></td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent Encounters:**
 
 **After obtaining Ironsing:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Ahah! Another success, it seems that all the failures last month were corrected! Er. Ahem. If you need any tutoring in this art, let me know. I'd be happy to be your mentor.</td></tr><tr><td colspan="12">Hmm... Oh! If you have need of some Ironsing teaching, I can probably help you. Lot of folks have been coming by lately - feels good to see my work recognised!</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Ahah! Another success, it seems that all the failures last month were corrected! Er. Ahem. If you need any tutoring in this art, let me know. I'd be happy to be your mentor.</td>
+</tr>
+<tr>
+  <td colspan="12">Hmm... Oh! If you have need of some Ironsing teaching, I can probably help you. Lot of folks have been coming by lately - feels good to see my work recognised!</td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Upgrading Mantras:**
 
-<table><tbody><tr><td colspan="12">Ah, do you have need of a little teaching on Ironsing?</td></tr><tr><td colspan="6">Yes, I have. (Mantras Available)</td><td colspan="6">Yes, I have. (Mantras Unavailable or all Ironsing Mantras maxed)</td></tr><tr><td colspan="6">What did you wanna focus on?</td><td colspan="6">Hmm. you look all good to me. Nothing to improve on right now.</td></tr><tr><td colspan="6">(A selection of available Mantras shows up as dialogue options)</td><td colspan="6">[End Dialogue]</td></tr><tr><td colspan="6">Oh yeah, I can see room for improvement. If you fund my research a bit I can give you some pointers. How does 100 Notes sound?</td></tr><tr><td colspan="3">Could you give me some pointers? (Enough Notes)</td><td colspan="3">Could you give me some pointers? (Insufficient Notes)</td></tr><tr><td colspan="3">That's it. you've nailed it!</td><td colspan="3">Oh, err. Afraid I can't help you for free right now. Money's a bit tight.</td></tr><tr><td colspan="6">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Ah, do you have need of a little teaching on Ironsing?</td>
+</tr>
+<tr>
+  <td colspan="6">Yes, I have. (Mantras Available)</td>
+  <td colspan="6">Yes, I have. (Mantras Unavailable or all Ironsing Mantras maxed)</td>
+</tr>
+<tr>
+  <td colspan="6">What did you wanna focus on?</td>
+  <td colspan="6">Hmm. you look all good to me. Nothing to improve on right now.</td>
+</tr>
+<tr>
+  <td colspan="6">(A selection of available Mantras shows up as dialogue options)</td>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="6">Oh yeah, I can see room for improvement. If you fund my research a bit I can give you some pointers. How does 100 Notes sound?</td>
+</tr>
+<tr>
+  <td colspan="3">Could you give me some pointers? (Enough Notes)</td>
+  <td colspan="3">Could you give me some pointers? (Insufficient Notes)</td>
+</tr>
+<tr>
+  <td colspan="3">That's it. you've nailed it!</td>
+  <td colspan="3">Oh, err. Afraid I can't help you for free right now. Money's a bit tight.</td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Silentheart:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td>Huh? What're you giving me that look for?</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Huh? What're you giving me that look for?</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

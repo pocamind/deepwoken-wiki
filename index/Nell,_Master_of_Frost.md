@@ -220,21 +220,113 @@ Nell executes their opponent after knocking them:
 
 **Quest Start:**
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">Can you really protect anything that you hold dear as you are now?</td></tr><tr><td colspan="2">What do you mean?</td></tr><tr><td colspan="2">You lack the means to protect anything at all. I can teach you how. Will you take up the mantle of the Frostdrawer?</td></tr><tr><td colspan="2">Yes, what would you have me do?</td></tr><tr><td>Player has unlocked Frostdraw before</td><td>Player has not unlocked Frostdraw before</td></tr><tr><td>Bring me <b>2 Frigid Prisms</b>, Then we can continue</td><td>Bring me <b>5 Frigid Prisms</b>, Then we can continue</td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">Can you really protect anything that you hold dear as you are now?</td>
+</tr>
+<tr>
+  <td colspan="2">What do you mean?</td>
+</tr>
+<tr>
+  <td colspan="2">You lack the means to protect anything at all. I can teach you how. Will you take up the mantle of the Frostdrawer?</td>
+</tr>
+<tr>
+  <td colspan="2">Yes, what would you have me do?</td>
+</tr>
+<tr>
+  <td>Player has unlocked Frostdraw before</td>
+  <td>Player has not unlocked Frostdraw before</td>
+</tr>
+<tr>
+  <td>Bring me <b>2 Frigid Prisms</b>, Then we can continue</td>
+  <td>Bring me <b>5 Frigid Prisms</b>, Then we can continue</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Quest Completed:**
 
-<table><tbody><tr><td colspan="4">Begin Dialogue</td></tr><tr><td colspan="4">Have you done what I asked?</td></tr><tr><td colspan="4">Here.</td></tr><tr><td colspan="2">Player has Frigid Prisms</td><td colspan="2">Player does not have Frigid Prisms</td></tr><tr><td colspan="2"><i>*They take the crystals and crush each of them into a glass vial, glittering dust falling in.*</i></td><td>Player has unlocked Frostdraw before</td><td>Player has not unlocked Frostdraw before</td></tr><tr><td colspan="2">What is that you're doing?</td><td>Hm. You have not brought me the <b>2 Frigid Prisms</b> I require to assist you...</td><td>Hm. You have not brought me the <b>5 Frigid Prisms</b> I require to assist you...</td></tr><tr><td colspan="2"><i>*They retrieve a knife and a glass vial, quickly opening a knick in their thumb and letting a drop of blood fall into the vial. They give it a quick shake and hand it to you*</i></td><td colspan="2">[End Dialogue]</td></tr><tr><td colspan="2">[End Dialogue], Player obtains Glassblood</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="4">Have you done what I asked?</td>
+</tr>
+<tr>
+  <td colspan="4">Here.</td>
+</tr>
+<tr>
+  <td colspan="2">Player has Frigid Prisms</td>
+  <td colspan="2">Player does not have Frigid Prisms</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*They take the crystals and crush each of them into a glass vial, glittering dust falling in.*</i></td>
+  <td>Player has unlocked Frostdraw before</td>
+  <td>Player has not unlocked Frostdraw before</td>
+</tr>
+<tr>
+  <td colspan="2">What is that you're doing?</td>
+  <td>Hm. You have not brought me the <b>2 Frigid Prisms</b> I require to assist you...</td>
+  <td>Hm. You have not brought me the <b>5 Frigid Prisms</b> I require to assist you...</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*They retrieve a knife and a glass vial, quickly opening a knick in their thumb and letting a drop of blood fall into the vial. They give it a quick shake and hand it to you*</i></td>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue], Player obtains Glassblood</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent Encounters:**
 
 **Player has Frostdraw:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Frost gathers at our fingertips, promising the coming winter. Have you come to let it envelop you?</td></tr><tr><td>Yes, I have.</td></tr><tr><td>[Opens Mantra Upgrade UI]</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Frost gathers at our fingertips, promising the coming winter. Have you come to let it envelop you?</td>
+</tr>
+<tr>
+  <td>Yes, I have.</td>
+</tr>
+<tr>
+  <td>[Opens Mantra Upgrade UI]</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Player has not drunk Glassblood:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>The vial I gave you. You must drink it.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>The vial I gave you. You must drink it.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

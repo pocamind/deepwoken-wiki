@@ -29,13 +29,45 @@ Etreans are described as snake-like people, who commonly have pale skin, and sli
 
   
 
-<table><tbody><tr><td><figure><figcaption></figcaption></figure></td><td><b>Molt</b><p><i>"Ailments and blessings alike fade away more quickly."</i></p><ul><li>The duration of Status Effects, good or bad, is reduced by 15%, however this only applies to <a href="Status_Effects.md#chill">Chilled</a>, <a href="Status_Effects.md#suffocation">Suffocation</a>, and <a href="Alchemy.md">Potions</a></li><li>Take less damage in acid rain.</li></ul></td></tr><tr><td><center><font>+</font></center></td><td><b>Attribute Boosts</b><ul><li>+3 Intelligence</li><li>+2 Agility</li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td><b>Molt</b><p><i>"Ailments and blessings alike fade away more quickly."</i></p>
+  <ul>
+    <li>The duration of Status Effects, good or bad, is reduced by 15%, however this only applies to <a href="Status_Effects.md#chill">Chilled</a>, <a href="Status_Effects.md#suffocation">Suffocation</a>, and <a href="Alchemy.md">Potions</a></li>
+    <li>Take less damage in acid rain.</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><center><font>+</font></center></td>
+  <td><b>Attribute Boosts</b>
+  <ul>
+    <li>+3 Intelligence</li>
+    <li>+2 Agility</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 **Iron Vow:**
 
   
 
-<table><tbody><tr><td><figure><figcaption></figcaption></figure></td><td><b>Tailor Made</b><ul><li><i>"These were specifically made for your kind. Etris Flasks now heal you 10% more than usual."</i><ul><li>Etris flasks now heal 60% HP.</li></ul></li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td><b>Tailor Made</b>
+  <ul>
+    <li><i>"These were specifically made for your kind. Etris Flasks now heal you 10% more than usual."</i>
+  <ul>
+    <li>Etris flasks now heal 60% HP.</li>
+  </ul></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 **Lore:**
 

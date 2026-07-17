@@ -31,11 +31,35 @@ Topol is located in the dining hall at [Alsin's Landing](<Alsin's_Landing.md>).
 
 **Base Dialogue:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>This place is a lot larger than I thought...</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>This place is a lot larger than I thought...</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Voidwalker:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Umm... Hi?.. Look, I'm not looking for trouble... We're cool, yeah?</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Umm... Hi?.. Look, I'm not looking for trouble... We're cool, yeah?</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

@@ -27,11 +27,83 @@ Capra are an [aspect](Aspects.md) similar to goats, exhibiting various goat-like
 
 **Pathfinder:**
 
-<table><tbody><tr><td></td><td><center><b>Mark of Ku</b> (Capra)</center><center><sup><b>Ku</b> Variant</sup></center><ul><li>"<i>Mark of Ku, the Mother. Improves the rest of those in your presence.</i>"<ul><li>Grants affected players improved blood regen.</li><li>Heals 15% of affected players total HP.</li><li>Slightly slows the sanity loss of all affected players.</li><li>Slightly buffs the food and thirst gain from consuming food for all affected players.</li><li>All buffs lasts 60 seconds, the healing is over a 60 second period, healing 0.25% HP per second.</li><li>Must be activated at a campfire.</li><li>Cooldown: 3 Minutes 30 Seconds.</li></ul></li></ul></td></tr><tr><td></td><td><center><b>Mark of Nemit</b> (Nature)</center><center><sup><b>Nemit</b> Variant</sup></center><ul><li>"<i>Mark of Nemit, the First Beast. Food consumed in your presence is more nourishing.</i>"<ul><li>Buffs the food and thirst gain from consuming food for all affected players.</li><li>Heals 15% of the affected players total HP.</li><li>Grants affected players slightly improved blood regen.</li><li>Slightly slows the sanity loss of all affected players.</li><li>All buffs lasts 60 seconds, the healing is over a 60 second period, healing 0.25% HP per second.</li><li>Must be activated at a campfire.</li><li>Cooldown: 3 Minutes 30 Seconds.</li></ul></li></ul></td></tr><tr><td></td><td><center><b>Mark of Jurik</b> (Moon)</center><center><sup><b>Jurik</b> and <b>Hallowtide</b> Variant</sup></center><ul><li>"<i>Mark of Jurik, the Moonseye. A beacon of calm, those in your presence are resistant to insanity.</i>"<ul><li>Slows the sanity loss of all surrounding players.</li><li>Heals 15% of the affected players total HP.</li><li>Grants affected players slightly improved blood regen.</li><li>Slightly buffs the food and thirst gain from consuming food for all affected players.</li><li>All buffs lasts 60 seconds, the healing is over a 60 second period, healing 0.25% HP per second.</li><li>Does not require a campfire.</li><li>Cooldown: 4 Minutes.</li></ul></li></ul></td></tr><tr><td><center><font>+2</font></center></td><td><b>Attribute Boosts</b><ul><li>+3 Intelligence</li><li>+2 Willpower</li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td></td>
+  <td><center><b>Mark of Ku</b> (Capra)</center><center><sup><b>Ku</b> Variant</sup></center>
+  <ul>
+    <li>"<i>Mark of Ku, the Mother. Improves the rest of those in your presence.</i>"
+  <ul>
+    <li>Grants affected players improved blood regen.</li>
+    <li>Heals 15% of affected players total HP.</li>
+    <li>Slightly slows the sanity loss of all affected players.</li>
+    <li>Slightly buffs the food and thirst gain from consuming food for all affected players.</li>
+    <li>All buffs lasts 60 seconds, the healing is over a 60 second period, healing 0.25% HP per second.</li>
+    <li>Must be activated at a campfire.</li>
+    <li>Cooldown: 3 Minutes 30 Seconds.</li>
+  </ul></li>
+  </ul></td>
+</tr>
+<tr>
+  <td></td>
+  <td><center><b>Mark of Nemit</b> (Nature)</center><center><sup><b>Nemit</b> Variant</sup></center>
+  <ul>
+    <li>"<i>Mark of Nemit, the First Beast. Food consumed in your presence is more nourishing.</i>"
+  <ul>
+    <li>Buffs the food and thirst gain from consuming food for all affected players.</li>
+    <li>Heals 15% of the affected players total HP.</li>
+    <li>Grants affected players slightly improved blood regen.</li>
+    <li>Slightly slows the sanity loss of all affected players.</li>
+    <li>All buffs lasts 60 seconds, the healing is over a 60 second period, healing 0.25% HP per second.</li>
+    <li>Must be activated at a campfire.</li>
+    <li>Cooldown: 3 Minutes 30 Seconds.</li>
+  </ul></li>
+  </ul></td>
+</tr>
+<tr>
+  <td></td>
+  <td><center><b>Mark of Jurik</b> (Moon)</center><center><sup><b>Jurik</b> and <b>Hallowtide</b> Variant</sup></center>
+  <ul>
+    <li>"<i>Mark of Jurik, the Moonseye. A beacon of calm, those in your presence are resistant to insanity.</i>"
+  <ul>
+    <li>Slows the sanity loss of all surrounding players.</li>
+    <li>Heals 15% of the affected players total HP.</li>
+    <li>Grants affected players slightly improved blood regen.</li>
+    <li>Slightly buffs the food and thirst gain from consuming food for all affected players.</li>
+    <li>All buffs lasts 60 seconds, the healing is over a 60 second period, healing 0.25% HP per second.</li>
+    <li>Does not require a campfire.</li>
+    <li>Cooldown: 4 Minutes.</li>
+  </ul></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><center><font>+2</font></center></td>
+  <td><b>Attribute Boosts</b>
+  <ul>
+    <li>+3 Intelligence</li>
+    <li>+2 Willpower</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 **Vow of Iron:**
 
-<table><tbody><tr><td rowspan="4"></td><td><center><b>Scholar's Mark</b></center><p><i>You now are able to inflict yourself with a Mark. The duration of this scales with how many people you inflict with this effect as well.</i></p><ul><li>The Capran Marks now additionally mark yourself.<ul><li>The duration of your marks is increased by the amount of people you mark.</li></ul></li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td rowspan="4"></td>
+  <td><center><b>Scholar's Mark</b></center><p><i>You now are able to inflict yourself with a Mark. The duration of this scales with how many people you inflict with this effect as well.</i></p>
+  <ul>
+    <li>The Capran Marks now additionally mark yourself.
+  <ul>
+    <li>The duration of your marks is increased by the amount of people you mark.</li>
+  </ul></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 **Lore:**
 

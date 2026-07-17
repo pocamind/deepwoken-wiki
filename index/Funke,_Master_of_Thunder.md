@@ -132,19 +132,103 @@ Funke executes their opponent after knocking them:
 
 **Quest Start:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">The fury within you; it needs an outlet. The skies blacken with the premonition.</td></tr><tr><td colspan="12">What do you mean?</td></tr><tr><td colspan="12">Fury is not a singular emotion. It can be harnessed by the saint and the sinner alike. Do you wish to wield it as a Thundercaller?</td></tr><tr><td colspan="12">Yes, what would you have me do?</td></tr><tr><td colspan="12">Bring me <b>[X] Spark Glands</b>. Then we can continue.</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">The fury within you; it needs an outlet. The skies blacken with the premonition.</td>
+</tr>
+<tr>
+  <td colspan="12">What do you mean?</td>
+</tr>
+<tr>
+  <td colspan="12">Fury is not a singular emotion. It can be harnessed by the saint and the sinner alike. Do you wish to wield it as a Thundercaller?</td>
+</tr>
+<tr>
+  <td colspan="12">Yes, what would you have me do?</td>
+</tr>
+<tr>
+  <td colspan="12">Bring me <b>[X] Spark Glands</b>. Then we can continue.</td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Quest Completed:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Have you done what I asked?</td></tr><tr><td colspan="6">Here. (Sufficient Spark Glands)</td><td colspan="6">Here. (No Spark Glands)</td></tr><tr><td colspan="6"><i>*They take the glands and crush each of them into a glass vial, a blue syrup dribbling in.*</i></td><td colspan="6">Hm. You have not brought me the <b>[X] Spark Glands</b> I require to assist you...</td></tr><tr><td colspan="6">What is that you're doing?</td><td colspan="6">[End Dialogue]</td></tr><tr><td colspan="6"><i>*They retrieve a knife and a glass vial, quickly opening a knick in their thumb and letting a drop of their blood fall into the vial. They give it a quick shake and hand it to you.*</i></td></tr><tr><td colspan="6">The vial I gave you. You must drink it.</td></tr><tr><td colspan="6">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Have you done what I asked?</td>
+</tr>
+<tr>
+  <td colspan="6">Here. (Sufficient Spark Glands)</td>
+  <td colspan="6">Here. (No Spark Glands)</td>
+</tr>
+<tr>
+  <td colspan="6"><i>*They take the glands and crush each of them into a glass vial, a blue syrup dribbling in.*</i></td>
+  <td colspan="6">Hm. You have not brought me the <b>[X] Spark Glands</b> I require to assist you...</td>
+</tr>
+<tr>
+  <td colspan="6">What is that you're doing?</td>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="6"><i>*They retrieve a knife and a glass vial, quickly opening a knick in their thumb and letting a drop of their blood fall into the vial. They give it a quick shake and hand it to you.*</i></td>
+</tr>
+<tr>
+  <td colspan="6">The vial I gave you. You must drink it.</td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent Encounters:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">The fury of the skies reflect that of the waves below. Have you come to reflect on your own fury?</td></tr><tr><td colspan="6">Yes, I have. (Mantras Available)</td><td colspan="6">Yes, I have. (Mantras Unavailable or all Thundercall Mantras maxed)</td></tr><tr><td colspan="6">(The Mantra leveling UI appears)</td><td colspan="6">The skies remain clear...</td></tr><tr><td colspan="6">[End Dialogue]</td><td colspan="6">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">The fury of the skies reflect that of the waves below. Have you come to reflect on your own fury?</td>
+</tr>
+<tr>
+  <td colspan="6">Yes, I have. (Mantras Available)</td>
+  <td colspan="6">Yes, I have. (Mantras Unavailable or all Thundercall Mantras maxed)</td>
+</tr>
+<tr>
+  <td colspan="6">(The Mantra leveling UI appears)</td>
+  <td colspan="6">The skies remain clear...</td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue]</td>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Silentheart:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td colspan="12">Your Ether... Just what have you done?</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Your Ether... Just what have you done?</td>
+</tr>
+</tbody>
+</table>
 
 ## Tips
 

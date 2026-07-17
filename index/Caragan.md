@@ -39,17 +39,69 @@ Caragan is located in the Blacksmith shop at Etris.
 
 Smithy's Supplies
 
-<table><tbody><tr><td><center><figure><figcaption></figcaption></figure>6 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Cloth</div><div><i>Useful for a bit of tailoring.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Fiber</div><div><i>Spun into thread or woven into cloth for tailoring.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>15 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Coal</div><div><i>Used for fuel and in the production of steel.</i></div></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>6 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Cloth</div><div><i>Useful for a bit of tailoring.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Fiber</div><div><i>Spun into thread or woven into cloth for tailoring.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>15 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Coal</div><div><i>Used for fuel and in the production of steel.</i></div></td>
+</tr>
+</tbody>
+</table>
 
 Smithy's Tools
 
-<table><tbody><tr><td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Pickaxe</div><div><i>You'll be needing one to get the ores for stronger armor.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Lumber Axe</div><div><i>A sturdy axe for felling trees.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Flint</div><div><i>A sharp flint and a scrap of pyrite used for starting fires.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>30 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Repair Hammer</div><div><i>Handy if your boat springs a leak.</i></div></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Pickaxe</div><div><i>You'll be needing one to get the ores for stronger armor.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Lumber Axe</div><div><i>A sturdy axe for felling trees.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Flint</div><div><i>A sharp flint and a scrap of pyrite used for starting fires.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>30 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Repair Hammer</div><div><i>Handy if your boat springs a leak.</i></div></td>
+</tr>
+</tbody>
+</table>
 
 ## Dialogue
 
 **Base Dialogue:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Oh? Did you need something? There's materials on the table over there, I'd have my apprentice fetch you a drink but I don't know where he ran off to.</td></tr><tr><td>So, why set up shop in Etris?</td></tr><tr><td><i>*The smith seems taken aback.*</i> Interested in my story, then? I'm afraid it might not be quite so elaborate as yours. It's the same reason so many people remain here - tradition. My father and his father before him worked this shop. But the tides are changing, so they say. Maybe my children won't take up after me, after all. The apprentice I've got learning the ropes ain't too bad.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Oh? Did you need something? There's materials on the table over there, I'd have my apprentice fetch you a drink but I don't know where he ran off to.</td>
+</tr>
+<tr>
+  <td>So, why set up shop in Etris?</td>
+</tr>
+<tr>
+  <td><i>*The smith seems taken aback.*</i> Interested in my story, then? I'm afraid it might not be quite so elaborate as yours. It's the same reason so many people remain here - tradition. My father and his father before him worked this shop. But the tides are changing, so they say. Maybe my children won't take up after me, after all. The apprentice I've got learning the ropes ain't too bad.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Unlockable Dialogue:**
 
@@ -57,13 +109,49 @@ Smithy's Tools
 
 This dialogue is unlocked if the player has spoken to [Baragan](Baragan.md).
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Oh? Did you need something? There's materials on the table over there, I'd have my apprentice fetch you a drink but I don't know where he ran off to.</td></tr><tr><td>Hey, don't I know you?</td></tr><tr><td>No... Oh you must've met my brother. He smiths over at the Blade Temple across the <a href="Glossary.md#the-luminants">Luminant</a>. Nobody would buy his weapons here so he packed up and moved.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Oh? Did you need something? There's materials on the table over there, I'd have my apprentice fetch you a drink but I don't know where he ran off to.</td>
+</tr>
+<tr>
+  <td>Hey, don't I know you?</td>
+</tr>
+<tr>
+  <td>No... Oh you must've met my brother. He smiths over at the Blade Temple across the <a href="Glossary.md#the-luminants">Luminant</a>. Nobody would buy his weapons here so he packed up and moved.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Lord Regent:**
 
 This dialogue is unlocked if the player has started the "Lord Regent Who?" [Quest](Quests.md).
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Oh? Did you need something? There's materials on the table over there, I'd have my apprentice fetch you a drink but I don't know where he ran off to.</td></tr><tr><td>Do you know anything about the Lord Regent?</td></tr><tr><td>Hm. I've had a lot more work since he came into power. Can't complain, and I try not to think too hard about what people do with my work. If you're lookin' for histories, the Bookkeeper in the middle of town might be of some help.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Oh? Did you need something? There's materials on the table over there, I'd have my apprentice fetch you a drink but I don't know where he ran off to.</td>
+</tr>
+<tr>
+  <td>Do you know anything about the Lord Regent?</td>
+</tr>
+<tr>
+  <td>Hm. I've had a lot more work since he came into power. Can't complain, and I try not to think too hard about what people do with my work. If you're lookin' for histories, the Bookkeeper in the middle of town might be of some help.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

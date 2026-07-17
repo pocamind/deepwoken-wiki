@@ -32,7 +32,18 @@ Elder Primadon, the Titan Warlord is a stronger version of [Primadon](Primadon,_
 
 Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned by making an offering, however this variant of the beast only takes [Sinner's Ash](<Sinner's_Ash.md>) as an adequate offering. Elder Primadon will despawn after 23 minutes.
 
-<table><caption>Known Offerings</caption><tbody><tr><th>Offering</th><th>Qty</th></tr><tr><td><a href="Sinner's_Ash.md">Sinner's Ash</a></td><td>1</td></tr></tbody></table>
+<table><caption>Known Offerings</caption>
+<tbody>
+<tr>
+  <th>Offering</th>
+  <th>Qty</th>
+</tr>
+<tr>
+  <td><a href="Sinner's_Ash.md">Sinner's Ash</a></td>
+  <td>1</td>
+</tr>
+</tbody>
+</table>
 
 ## Moveset
 
@@ -280,7 +291,51 @@ Elder Primadon can also initiate a **combo** that always consists of a stomp, a 
 
 Elder Primadon drops 9 Chests, All of them can contain Relics and other high value loot. The center chest is more likely to contain Sinner's Ashes.
 
-<table><tbody><tr><td><b><a href="Outfits.md">Outfit Schematics</a></b></td><td><a href="Titanslayer's_Adornment.md">Titanslayer's Adornment</a></td></tr><tr><td><b>Miscellaneous</b></td><td><ul><li><a href="Items.md">Items</a>: <a href="Primadon_Pelt.md">Primadon Pelt</a> (direct drop), <a href="Primal_Slab.md">Primal Slab</a> (direct drop), <a href="Umbral_Obsidian.md">Umbral Obsidian</a>, <a href="Mantra_Modifiers.md#regular-modifiers">Vibrant Gems</a>.</li><li><a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Curse_of_Ysley's_Ember.md">Curse of Ysley's Ember</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Void_Spire.md">Void Spire</a></li></ul></td></tr><tr><td><b><a href="Weapons.md">Weapons</a></b></td><td><ul><li><b>Named Weapons</b>: <a href="Bloodbane.md">Bloodbane</a> (Very Rare)</li><li><b>Legendary Weapons</b>: <a href="Imperator's_Edge.md"><font>Imperator's Edge</font></a>, <a href="Imperial_Staff.md"><font>Imperial Staff</font></a>, <a href="Stormseye.md"><font>Stormseye</font></a>, <a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a></li></ul></td></tr><tr><td><b><a href="Equipment.md">Equipment</a></b></td><td><ul><li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Legion_Helmet.md">Legion Helmet</a>, <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a>, <a href="Vigil_Hood.md">Vigil Hood</a></li><li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:<ol><li><b>Legendary Arms</b>: <a href="Star_Duster.md"><font>Star Duster</font></a></li><li><b>Generic Arms</b>: <a href="Assassin's_Cloak.md">Assassin's Cloak</a></li></ol></li><li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Star_Boots.md">Star Boots</a> (Very Rare)</li><li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, <a href="Confessor's_Charm.md">Confessor's Charm</a>, <a href="Tiran_Pendant.md">Tiran Pendant</a></li><li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a></li><li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Crescent_Earrings.md">Moonlit Earrings</a>, <a href="Old_Blood_Earrings.md">Old Blood Earrings</a></li><li><a href="Equipment.md#rings"><b>Rings</b></a>:<ol><li><b>Legendary Rings</b>: <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a></li><li><b>Generic Rings</b>: <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a></li></ol></li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
+  <td><a href="Titanslayer's_Adornment.md">Titanslayer's Adornment</a></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li><a href="Items.md">Items</a>: <a href="Primadon_Pelt.md">Primadon Pelt</a> (direct drop), <a href="Primal_Slab.md">Primal Slab</a> (direct drop), <a href="Umbral_Obsidian.md">Umbral Obsidian</a>, <a href="Mantra_Modifiers.md#regular-modifiers">Vibrant Gems</a>.</li>
+    <li><a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Curse_of_Ysley's_Ember.md">Curse of Ysley's Ember</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Void_Spire.md">Void Spire</a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Named Weapons</b>: <a href="Bloodbane.md">Bloodbane</a> (Very Rare)</li>
+    <li><b>Legendary Weapons</b>: <a href="Imperator's_Edge.md"><font>Imperator's Edge</font></a>, <a href="Imperial_Staff.md"><font>Imperial Staff</font></a>, <a href="Stormseye.md"><font>Stormseye</font></a>, <a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Legion_Helmet.md">Legion Helmet</a>, <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a>, <a href="Vigil_Hood.md">Vigil Hood</a></li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:
+  <ol>
+    <li><b>Legendary Arms</b>: <a href="Star_Duster.md"><font>Star Duster</font></a></li>
+    <li><b>Generic Arms</b>: <a href="Assassin's_Cloak.md">Assassin's Cloak</a></li>
+  </ol></li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Star_Boots.md">Star Boots</a> (Very Rare)</li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, <a href="Confessor's_Charm.md">Confessor's Charm</a>, <a href="Tiran_Pendant.md">Tiran Pendant</a></li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a></li>
+    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Crescent_Earrings.md">Moonlit Earrings</a>, <a href="Old_Blood_Earrings.md">Old Blood Earrings</a></li>
+    <li><a href="Equipment.md#rings"><b>Rings</b></a>:
+  <ol>
+    <li><b>Legendary Rings</b>: <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Prophet's_Ring.md"><font>Prophet's Ring</font></a></li>
+    <li><b>Generic Rings</b>: <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a></li>
+  </ol></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

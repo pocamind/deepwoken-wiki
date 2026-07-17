@@ -157,7 +157,53 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 
 ## Dialogue
 
-<table><tbody><tr><td colspan="15">Begin Dialogue</td></tr><tr><td colspan="15">Ashes to ashes, dust to dust... This is our destiny.</td></tr><tr><td colspan="15">...</td></tr><tr><td colspan="15">Ah... I-is that you, <a href="Glossary.md#amorus-pleeksty">Pleeksty</a>?</td></tr><tr><td colspan="6">I am not the one you have been waiting for.</td><td colspan="9">I believe you have something that belongs to me.</td></tr><tr><td colspan="6">Oh... Of course... If by some chance you see him, let him know... Let him know that I still wait.</td><td colspan="9">You came back... I have been a waiting your return... All this time.. It pains me to meet you in this state, my lord.</td></tr><tr><td colspan="6">[End Dialogue]</td><td colspan="9">[Take the Weapon]</td></tr><tr><td colspan="6"></td><td colspan="3">[Requirements Met, <a href="Echoes.md#upgrades-unlocks-and-modifiers">Destined</a> Echo Modifier]</td><td colspan="3">[Requirements Met, no <a href="Echoes.md#upgrades-unlocks-and-modifiers">Destined</a>]</td><td colspan="3">[Requirements Unmet]</td></tr><tr><td colspan="6"></td><td colspan="3">Our fates, finally crossing once more... And mine, coming to an end...</td><td colspan="3">Though.. If you really are <a href="Glossary.md#amorus-pleeksty">Pleeksty</a>... Then you should have no trouble putting this old servant out of their long service.</td><td colspan="3">Oh, my lord... What a state...</td></tr><tr><td colspan="6"></td><td colspan="3">[End Dialogue], you start to build up an extreme amount of <a href="Status_Effects.md#wither">Wither</a> but are spared before your demise.<br>You are given <a href="Pleeksty's_Inferno.md">Pleeksty's Inferno</a></td><td colspan="3">[End Dialogue], the fight starts</td><td colspan="3">[End Dialogue], you build up an extreme amount of <a href="Status_Effects.md#wither">Wither</a> and <b>die, wiping you</b></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="15">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="15">Ashes to ashes, dust to dust... This is our destiny.</td>
+</tr>
+<tr>
+  <td colspan="15">...</td>
+</tr>
+<tr>
+  <td colspan="15">Ah... I-is that you, <a href="Glossary.md#amorus-pleeksty">Pleeksty</a>?</td>
+</tr>
+<tr>
+  <td colspan="6">I am not the one you have been waiting for.</td>
+  <td colspan="9">I believe you have something that belongs to me.</td>
+</tr>
+<tr>
+  <td colspan="6">Oh... Of course... If by some chance you see him, let him know... Let him know that I still wait.</td>
+  <td colspan="9">You came back... I have been a waiting your return... All this time.. It pains me to meet you in this state, my lord.</td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue]</td>
+  <td colspan="9">[Take the Weapon]</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td colspan="3">[Requirements Met, <a href="Echoes.md#upgrades-unlocks-and-modifiers">Destined</a> Echo Modifier]</td>
+  <td colspan="3">[Requirements Met, no <a href="Echoes.md#upgrades-unlocks-and-modifiers">Destined</a>]</td>
+  <td colspan="3">[Requirements Unmet]</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td colspan="3">Our fates, finally crossing once more... And mine, coming to an end...</td>
+  <td colspan="3">Though.. If you really are <a href="Glossary.md#amorus-pleeksty">Pleeksty</a>... Then you should have no trouble putting this old servant out of their long service.</td>
+  <td colspan="3">Oh, my lord... What a state...</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
+  <td colspan="3">[End Dialogue], you start to build up an extreme amount of <a href="Status_Effects.md#wither">Wither</a> but are spared before your demise.<br>
+  You are given <a href="Pleeksty's_Inferno.md">Pleeksty's Inferno</a></td>
+  <td colspan="3">[End Dialogue], the fight starts</td>
+  <td colspan="3">[End Dialogue], you build up an extreme amount of <a href="Status_Effects.md#wither">Wither</a> and <b>die, wiping you</b></td>
+</tr>
+</tbody>
+</table>
 
 ## Strategy
 

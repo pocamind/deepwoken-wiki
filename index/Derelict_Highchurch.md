@@ -24,11 +24,23 @@ The [Celestial's](Celestial.md) blood is also a crucial part of obtaining the [S
 
 _For a visual guide, consider watching this gif_ below.
 
-<table><tbody><tr><td><figure><figcaption></figcaption></figure></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
 
 The [Bloodrend Trainer, Vyrelda](Vyrelda,_Master_of_Blood.md), can be found inside of the church itself, between the chairs on the left side.
 
-<table><tbody><tr><td><figure><figcaption></figcaption></figure></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

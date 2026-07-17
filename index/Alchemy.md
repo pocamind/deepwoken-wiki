@@ -68,7 +68,14 @@ There are 58 ingredients that can be added to a potion, though only 23 have a kn
 
 Alternatively, a spreadsheet listing the effects of all potion ingredients can be found [here](https://docs.google.com/spreadsheets/u/4/d/e/2PACX-1vTvoa3q-3DmosOWmH6AkX1bfMBq4wfbW11Kybf_vt4DaAa-FGAzTPsHn-CWR4wEqXwyEudmKeR5JwPr/pubhtml).
 
-<table><caption>Key</caption><tbody><tr><td>Effects in green are positive.</td><td>Effects in red are negative.</td></tr></tbody></table>
+<table><caption>Key</caption>
+<tbody>
+<tr>
+  <td>Effects in green are positive.</td>
+  <td>Effects in red are negative.</td>
+</tr>
+</tbody>
+</table>
 
 | Ingredient | Instant Health | Instant Ether | Damage Buff | Posture Damage Buff | Posture Resistance Buff | Speed Buff | Health Regen | Ether Regen | Sanity Regen | Instant Blood | Duration | Wither |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -251,7 +258,245 @@ You can only hold a max of 99 potions before you are unable to brew more.
 
 Tiers are listed in order of strength, with the strongest tier listed first. Ingredients are listed in order of effectiveness, though if some ingredients have equal effectiveness, they'll simply be listed alphabetically.
 
-<table><caption>Effects</caption><tbody><tr><th>Name</th><th>Tiers</th><th>Ingredients</th><th>Effect</th><th>Notes</th></tr><tr><td><b>Rejuvenating</b></td><td>Salve</td><td>Glumfig<br>Redd</td><td>Instantly restores a small amount of health.</td><td>Opposite effect to <b>Disgusting</b>. Signified by a burst of square green particles from the character.<p>The strongest effect on a Redd is Icky, so a potion with the Rejuvenating name can only be brewed by cancelling out the Icky effect with another ingredient, or by using <a href="Oath%253A_Saltchemist.md">Saltchemist</a> salts.</p></td></tr><tr><td><b>Disgusting</b></td><td>Bane<br>Blight</td><td>Bluecap<br>Browncap<br>Pomar<br>Dentilfo</td><td>Instantly deals damage.</td><td>Opposite effect to <b>Rejuvenating</b>.<p>The damage dealt when thrown is very small unless you land a direct hit, which may be difficult.<br>The damage is affected by PvE scaling, making them a decent choice when attempting to kill a mob while running away or dealing damage from where it can't reach you.<br>The damage type of potions are typeless and they can be buffed by damage modifiers.</p></td></tr><tr><td><b>Soothing</b></td><td>Tincture<br>Potion<br>Salve</td><td>Bluecap<br>Dentifilo</td><td>Instantly increase Ether.</td><td>Opposite effect to <b>Appalling</b>.<p>Used to affect reservoir in verse 1.<br>All Ether gain ingredients have the same effectiveness.</p></td></tr><tr><td><b>Appalling</b></td><td>Blight<br>Potion</td><td>Bamboo Bundle<br>Marriam Grass</td><td>Instantly decrease Ether.</td><td>Opposite effect to <b>Soothing.</b> Signified by pastel green particles.<p>All Ether loss ingredients have the same effectiveness.</p></td></tr><tr><td><b>Strengthening</b></td><td>Salve<br>Tincture<br>Potion</td><td>Browncap<br>Plumfruit</td><td>Increases damage dealt by a percentage.</td><td>Opposite effect to <b>Dulling</b>.<p>All positive damage buff ingredients have the same effectiveness.</p></td></tr><tr><td><b>Dulling</b></td><td>Potion<br>Bane<br>Blight</td><td>Crustacean Meat<br>Gathered Wheat<br>Alestrian Coral<br>Glumfig</td><td>Reduces damage dealt by a percentage.</td><td>Opposite effect to <b>Strengthening</b>.</td></tr><tr><td><b>Staggering</b></td><td>Salve</td><td>Ongo</td><td>Increases posture damage dealt by a percentage.</td><td>Opposite effect to <b>Weakening.</b><p>All postitive posture damage ingredients have the same effectiveness.</p></td></tr><tr><td><b>Weakening</b></td><td>Potion</td><td>Alestrian Coral</td><td>Decreases posture damage dealt by a percentage.</td><td>Opposite effect to <b>Staggering.</b><p>All negative posture damage ingredients have the same effectiveness.</p></td></tr><tr><td><b>Steadfast</b></td><td>Tincture<br>Potion<br>Elixir<br>Salve</td><td>Calabash<br>Bamboo Bundle<br>Marriam Grass</td><td>Grants a posture resistance effect for the duration of the potion, making you take less posture damage from all sources.</td><td>Opposite effect to <b>Buckling.</b><p>Effectively increases your maximum posture.<br>All positive posture resistance ingredients have the same effectiveness.</p></td></tr><tr><td><b>Buckling</b></td><td>Bane<br>Blight</td><td>Glumfig<br>Ongo</td><td>Grants a negative posture resistance effect for the duration of the potion, making you take more posture damage from all sources.</td><td>Opposite effect to <b>Steadfast.</b><p>Effectively decreases your maximum posture.</p></td></tr><tr><td><b>Hastening</b></td><td>Potion<br>Elixir<br>Salve<br>Tincture</td><td>Alestrian Coral<br>Pomar<p>Sweetgourd</p></td><td>Applies a speed boost for the duration of the potion.</td><td>Opposite effect to <b>Slowing.</b><p>The speed boost from Hastening is usually a flat bonus, remaining active even while using mantras, carrying something, or being pushed by the wind in the <a href="Second_Layer.md">Second Layer</a>. It is reduced in water, however.<br>All speed boost ingredients have the same effectiveness.</p></td></tr><tr><td><b>Slowing</b></td><td>Blight</td><td>Beeswax<br>Gobletto<br>Sap</td><td>Reduces movement speed for the duration of the potion.</td><td>Opposite effect to <b>Hastening.</b><p>This potion type used to be impossible to make, as the ingredients used to make it had stronger properties which replaced the potion name. With the addition of <a href="Oath%253A_Saltchemist.md">Saltchemist</a>, the use of Antithetic salts on ingredients normally used for Hastening potions enabled its creation.<br>All slowing ingredients have the same effectiveness.</p></td></tr><tr><td><b>Invigorating</b></td><td>Potion(?)<br>Tincture<br>Elixir<br>Salve</td><td>Beeswax<br>Gobletto</td><td>Applies a regeneration effect.</td><td>Opposite effect to <b>Grueling.</b> Signified by bright green particles.<p>All Health regen ingredients have the same effectiveness.</p></td></tr><tr><td><b>Grueling</b></td><td>Bane<br>Blight</td><td>Plumfruit</td><td>Deals a small amount of damage over the potion duration.</td><td>Opposite effect to <b>Invigorating</b>.<p>Curiously, the prefix of a potion brewed using only Plumfruit depends on the Talents of the brewer- if the brewer only has Apothecary, the prefix is Strengthening.<br>All damage over time ingredients have the same effectiveness.</p></td></tr><tr><td><b>Focusing</b></td><td>Elixir<br>Salve<br>Tincture</td><td>Gathered Wheat<br>Sap</td><td>Greatly increase Ether regeneration.</td><td>Opposite effect to <b>Icky</b>.<p>Very quickly begins to grant a flat amount of Ether every tick as it increases in potency, making it very hard to run out of Ether while active.<br>The strongest effect on wheat is Dulling; prior to the addition of Saltchemist, a potion with the Focusing prefix could only be brewed by cancelling out the <i>Dulling</i> effect with a <b>Strengthening</b> ingredient like Browncaps.<br>All Ether regeneration ingredients have the same effectiveness.</p></td></tr><tr><td><b>Icky</b></td><td>Potion<br>Bane<br>Blight</td><td>Calabash<br>Redd</td><td>Rapidly drain Ether from affected targets</td><td>Opposite effect to <b>Focusing</b>.<p>Very quickly begins to drain a flat amount of Ether every tick as it increases in potency, leaving even <a href="Shadowcast.md">Shadowcast</a> users struggling.<br>All Ether drain over time ingredients have the same effectiveness.</p></td></tr><tr><td><b>Heartening</b></td><td>Remedy<br>Potion<br>Salve<br>Tincture(?)<br>Elixir</td><td>Bluecap</td><td>Rapidly restores Sanity.</td><td>Opposite effect to <b>Mindbreaker</b>. Signified by bright pink particles.<p>Effective at any strength and can cheaply help ensure longevity in <a href="The_Depths.md">The Depths</a>.<br>All sanity ingredients have the same effectiveness.</p></td></tr><tr><td><b>Mindbreaker</b></td><td>Bane<br>Blight<br>Potion</td><td>Chum<br>Glumfig<br>Scallop<br>Seaweed Bundle<br>Thresher Egg<br>Urchin</td><td>Gives Insanity over time.</td><td>Opposite effect to <b>Heartening</b>. Signified by bright purple particles.<p>Can prove surprisingly useful, as enemies at tier 3 <a href="Insanity.md">Insanity</a> are automatically gripped when downed and suffer from other consequences prior, and Manic is also a common flaw. Bear in mind it can help those that have Insanity-reliant Talents, though.<br>All insanity ingredients have the same effectiveness.</p></td></tr><tr><td><b>Revitalizing</b></td><td>?</td><td>Hemobloom</td><td>Restores blood.</td><td>Opposite effect to <b>Debilitating</b>. Signified by bright pink particles.<p>These restore a percentage of your blood bar, making them more impactful the more blood you have. These potions are very useful when fighting against <a href="Bloodrend.md">Bloodrenders</a> or when using the <a href="Curse_of_the_No_Life_King.md">Curse of the No Life King</a> Enchantment as a means to replenish your blood mid-fight.</p></td></tr><tr><td><b>Debilitating</b></td><td>?</td><td>N/A</td><td>Opposite effect to <b>Revitalizing</b>.<p>These blood draining potions are exclusive to the <a href="Oath%253A_Saltchemist.md">Saltchemist</a> Oath, as the only way to obtain them is to use Anithetic Salts on a Revitalizing Potion.</p></td></tr><tr><td><b>Diluted/Bland</b></td><td>Potion<br>Elixir<br>Salve<br>Tincture</td><td>Using more than 3 of the same ingredient<p>Using more than 5 ingredients in general (Apothecary and Saltchemist Salts do not count towards this limit)</p></td><td>No effect.</td><td>Signified by pure white particles.<p>Primarily exists to show that something went wrong with brewing. Reduces potion effectiveness by 50%. If you went above the 5 ingredient limit, it will divide the remaining effectiveness by the amount of ingredients that went over the limit.</p></td></tr><tr><td><b>Renewing</b></td><td>Salve<p>Potion</p></td><td>Grudgeroot</td><td>Cures a small amount of <b><a href="Status_Effects.md#wither">Wither</a></b> 6%ish per ingredient</td><td>Bright pink particles<p>A very useful potion when paired with the <b>Linkstrider</b> oath as you can negate the <b>Wither</b> downside to using <b>Symbiotic Sustain.</b> It can also be paired with the <b>Sanguine Transfuser</b> to negate the W<b>ither</b> drawbacks. [Aromatic Salts + Crit]</p></td></tr><tr><td><b>Eroding</b></td><td>Bane<p>?</p></td><td>Grudgeroot</td><td>Opposite effect to <b>Renewing</b>, applies <b><a href="Status_Effects.md#wither">Wither</a></b></td><td>Darker pink particles<p>This potion is the mirror opposite of the Renewing potion and can apply LOTS of <b>Wither</b> if spammed or used in an Aromatic Salts potion. Good for builds that apply <b>Wither</b> or for preventing supports from being able to heal allies.</p></td></tr></tbody></table>
+<table><caption>Effects</caption>
+<tbody>
+<tr>
+  <th>Name</th>
+  <th>Tiers</th>
+  <th>Ingredients</th>
+  <th>Effect</th>
+  <th>Notes</th>
+</tr>
+<tr>
+  <td><b>Rejuvenating</b></td>
+  <td>Salve</td>
+  <td>Glumfig<br>
+  Redd</td>
+  <td>Instantly restores a small amount of health.</td>
+  <td>Opposite effect to <b>Disgusting</b>. Signified by a burst of square green particles from the character.<p>The strongest effect on a Redd is Icky, so a potion with the Rejuvenating name can only be brewed by cancelling out the Icky effect with another ingredient, or by using <a href="Oath%253A_Saltchemist.md">Saltchemist</a> salts.</p></td>
+</tr>
+<tr>
+  <td><b>Disgusting</b></td>
+  <td>Bane<br>
+  Blight</td>
+  <td>Bluecap<br>
+  Browncap<br>
+  Pomar<br>
+  Dentilfo</td>
+  <td>Instantly deals damage.</td>
+  <td>Opposite effect to <b>Rejuvenating</b>.<p>The damage dealt when thrown is very small unless you land a direct hit, which may be difficult.<br>
+  The damage is affected by PvE scaling, making them a decent choice when attempting to kill a mob while running away or dealing damage from where it can't reach you.<br>
+  The damage type of potions are typeless and they can be buffed by damage modifiers.</p></td>
+</tr>
+<tr>
+  <td><b>Soothing</b></td>
+  <td>Tincture<br>
+  Potion<br>
+  Salve</td>
+  <td>Bluecap<br>
+  Dentifilo</td>
+  <td>Instantly increase Ether.</td>
+  <td>Opposite effect to <b>Appalling</b>.<p>Used to affect reservoir in verse 1.<br>
+  All Ether gain ingredients have the same effectiveness.</p></td>
+</tr>
+<tr>
+  <td><b>Appalling</b></td>
+  <td>Blight<br>
+  Potion</td>
+  <td>Bamboo Bundle<br>
+  Marriam Grass</td>
+  <td>Instantly decrease Ether.</td>
+  <td>Opposite effect to <b>Soothing.</b> Signified by pastel green particles.<p>All Ether loss ingredients have the same effectiveness.</p></td>
+</tr>
+<tr>
+  <td><b>Strengthening</b></td>
+  <td>Salve<br>
+  Tincture<br>
+  Potion</td>
+  <td>Browncap<br>
+  Plumfruit</td>
+  <td>Increases damage dealt by a percentage.</td>
+  <td>Opposite effect to <b>Dulling</b>.<p>All positive damage buff ingredients have the same effectiveness.</p></td>
+</tr>
+<tr>
+  <td><b>Dulling</b></td>
+  <td>Potion<br>
+  Bane<br>
+  Blight</td>
+  <td>Crustacean Meat<br>
+  Gathered Wheat<br>
+  Alestrian Coral<br>
+  Glumfig</td>
+  <td>Reduces damage dealt by a percentage.</td>
+  <td>Opposite effect to <b>Strengthening</b>.</td>
+</tr>
+<tr>
+  <td><b>Staggering</b></td>
+  <td>Salve</td>
+  <td>Ongo</td>
+  <td>Increases posture damage dealt by a percentage.</td>
+  <td>Opposite effect to <b>Weakening.</b><p>All postitive posture damage ingredients have the same effectiveness.</p></td>
+</tr>
+<tr>
+  <td><b>Weakening</b></td>
+  <td>Potion</td>
+  <td>Alestrian Coral</td>
+  <td>Decreases posture damage dealt by a percentage.</td>
+  <td>Opposite effect to <b>Staggering.</b><p>All negative posture damage ingredients have the same effectiveness.</p></td>
+</tr>
+<tr>
+  <td><b>Steadfast</b></td>
+  <td>Tincture<br>
+  Potion<br>
+  Elixir<br>
+  Salve</td>
+  <td>Calabash<br>
+  Bamboo Bundle<br>
+  Marriam Grass</td>
+  <td>Grants a posture resistance effect for the duration of the potion, making you take less posture damage from all sources.</td>
+  <td>Opposite effect to <b>Buckling.</b><p>Effectively increases your maximum posture.<br>
+  All positive posture resistance ingredients have the same effectiveness.</p></td>
+</tr>
+<tr>
+  <td><b>Buckling</b></td>
+  <td>Bane<br>
+  Blight</td>
+  <td>Glumfig<br>
+  Ongo</td>
+  <td>Grants a negative posture resistance effect for the duration of the potion, making you take more posture damage from all sources.</td>
+  <td>Opposite effect to <b>Steadfast.</b><p>Effectively decreases your maximum posture.</p></td>
+</tr>
+<tr>
+  <td><b>Hastening</b></td>
+  <td>Potion<br>
+  Elixir<br>
+  Salve<br>
+  Tincture</td>
+  <td>Alestrian Coral<br>
+  Pomar<p>Sweetgourd</p></td>
+  <td>Applies a speed boost for the duration of the potion.</td>
+  <td>Opposite effect to <b>Slowing.</b><p>The speed boost from Hastening is usually a flat bonus, remaining active even while using mantras, carrying something, or being pushed by the wind in the <a href="Second_Layer.md">Second Layer</a>. It is reduced in water, however.<br>
+  All speed boost ingredients have the same effectiveness.</p></td>
+</tr>
+<tr>
+  <td><b>Slowing</b></td>
+  <td>Blight</td>
+  <td>Beeswax<br>
+  Gobletto<br>
+  Sap</td>
+  <td>Reduces movement speed for the duration of the potion.</td>
+  <td>Opposite effect to <b>Hastening.</b><p>This potion type used to be impossible to make, as the ingredients used to make it had stronger properties which replaced the potion name. With the addition of <a href="Oath%253A_Saltchemist.md">Saltchemist</a>, the use of Antithetic salts on ingredients normally used for Hastening potions enabled its creation.<br>
+  All slowing ingredients have the same effectiveness.</p></td>
+</tr>
+<tr>
+  <td><b>Invigorating</b></td>
+  <td>Potion(?)<br>
+  Tincture<br>
+  Elixir<br>
+  Salve</td>
+  <td>Beeswax<br>
+  Gobletto</td>
+  <td>Applies a regeneration effect.</td>
+  <td>Opposite effect to <b>Grueling.</b> Signified by bright green particles.<p>All Health regen ingredients have the same effectiveness.</p></td>
+</tr>
+<tr>
+  <td><b>Grueling</b></td>
+  <td>Bane<br>
+  Blight</td>
+  <td>Plumfruit</td>
+  <td>Deals a small amount of damage over the potion duration.</td>
+  <td>Opposite effect to <b>Invigorating</b>.<p>Curiously, the prefix of a potion brewed using only Plumfruit depends on the Talents of the brewer- if the brewer only has Apothecary, the prefix is Strengthening.<br>
+  All damage over time ingredients have the same effectiveness.</p></td>
+</tr>
+<tr>
+  <td><b>Focusing</b></td>
+  <td>Elixir<br>
+  Salve<br>
+  Tincture</td>
+  <td>Gathered Wheat<br>
+  Sap</td>
+  <td>Greatly increase Ether regeneration.</td>
+  <td>Opposite effect to <b>Icky</b>.<p>Very quickly begins to grant a flat amount of Ether every tick as it increases in potency, making it very hard to run out of Ether while active.<br>
+  The strongest effect on wheat is Dulling; prior to the addition of Saltchemist, a potion with the Focusing prefix could only be brewed by cancelling out the <i>Dulling</i> effect with a <b>Strengthening</b> ingredient like Browncaps.<br>
+  All Ether regeneration ingredients have the same effectiveness.</p></td>
+</tr>
+<tr>
+  <td><b>Icky</b></td>
+  <td>Potion<br>
+  Bane<br>
+  Blight</td>
+  <td>Calabash<br>
+  Redd</td>
+  <td>Rapidly drain Ether from affected targets</td>
+  <td>Opposite effect to <b>Focusing</b>.<p>Very quickly begins to drain a flat amount of Ether every tick as it increases in potency, leaving even <a href="Shadowcast.md">Shadowcast</a> users struggling.<br>
+  All Ether drain over time ingredients have the same effectiveness.</p></td>
+</tr>
+<tr>
+  <td><b>Heartening</b></td>
+  <td>Remedy<br>
+  Potion<br>
+  Salve<br>
+  Tincture(?)<br>
+  Elixir</td>
+  <td>Bluecap</td>
+  <td>Rapidly restores Sanity.</td>
+  <td>Opposite effect to <b>Mindbreaker</b>. Signified by bright pink particles.<p>Effective at any strength and can cheaply help ensure longevity in <a href="The_Depths.md">The Depths</a>.<br>
+  All sanity ingredients have the same effectiveness.</p></td>
+</tr>
+<tr>
+  <td><b>Mindbreaker</b></td>
+  <td>Bane<br>
+  Blight<br>
+  Potion</td>
+  <td>Chum<br>
+  Glumfig<br>
+  Scallop<br>
+  Seaweed Bundle<br>
+  Thresher Egg<br>
+  Urchin</td>
+  <td>Gives Insanity over time.</td>
+  <td>Opposite effect to <b>Heartening</b>. Signified by bright purple particles.<p>Can prove surprisingly useful, as enemies at tier 3 <a href="Insanity.md">Insanity</a> are automatically gripped when downed and suffer from other consequences prior, and Manic is also a common flaw. Bear in mind it can help those that have Insanity-reliant Talents, though.<br>
+  All insanity ingredients have the same effectiveness.</p></td>
+</tr>
+<tr>
+  <td><b>Revitalizing</b></td>
+  <td>?</td>
+  <td>Hemobloom</td>
+  <td>Restores blood.</td>
+  <td>Opposite effect to <b>Debilitating</b>. Signified by bright pink particles.<p>These restore a percentage of your blood bar, making them more impactful the more blood you have. These potions are very useful when fighting against <a href="Bloodrend.md">Bloodrenders</a> or when using the <a href="Curse_of_the_No_Life_King.md">Curse of the No Life King</a> Enchantment as a means to replenish your blood mid-fight.</p></td>
+</tr>
+<tr>
+  <td><b>Debilitating</b></td>
+  <td>?</td>
+  <td>N/A</td>
+  <td>Opposite effect to <b>Revitalizing</b>.<p>These blood draining potions are exclusive to the <a href="Oath%253A_Saltchemist.md">Saltchemist</a> Oath, as the only way to obtain them is to use Anithetic Salts on a Revitalizing Potion.</p></td>
+</tr>
+<tr>
+  <td><b>Diluted/Bland</b></td>
+  <td>Potion<br>
+  Elixir<br>
+  Salve<br>
+  Tincture</td>
+  <td>Using more than 3 of the same ingredient<p>Using more than 5 ingredients in general (Apothecary and Saltchemist Salts do not count towards this limit)</p></td>
+  <td>No effect.</td>
+  <td>Signified by pure white particles.<p>Primarily exists to show that something went wrong with brewing. Reduces potion effectiveness by 50%. If you went above the 5 ingredient limit, it will divide the remaining effectiveness by the amount of ingredients that went over the limit.</p></td>
+</tr>
+<tr>
+  <td><b>Renewing</b></td>
+  <td>Salve<p>Potion</p></td>
+  <td>Grudgeroot</td>
+  <td>Cures a small amount of <b><a href="Status_Effects.md#wither">Wither</a></b> 6%ish per ingredient</td>
+  <td>Bright pink particles<p>A very useful potion when paired with the <b>Linkstrider</b> oath as you can negate the <b>Wither</b> downside to using <b>Symbiotic Sustain.</b> It can also be paired with the <b>Sanguine Transfuser</b> to negate the W<b>ither</b> drawbacks. [Aromatic Salts + Crit]</p></td>
+</tr>
+<tr>
+  <td><b>Eroding</b></td>
+  <td>Bane<p>?</p></td>
+  <td>Grudgeroot</td>
+  <td>Opposite effect to <b>Renewing</b>, applies <b><a href="Status_Effects.md#wither">Wither</a></b></td>
+  <td>Darker pink particles<p>This potion is the mirror opposite of the Renewing potion and can apply LOTS of <b>Wither</b> if spammed or used in an Aromatic Salts potion. Good for builds that apply <b>Wither</b> or for preventing supports from being able to heal allies.</p></td>
+</tr>
+</tbody>
+</table>
 
 ## Potion Names
 

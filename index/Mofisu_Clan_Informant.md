@@ -28,8 +28,64 @@ Mofisu Clan Informant is an [Etrean](Etrean.md) NPC.
 
 **First Encounter:**
 
-<table><tbody><tr><td colspan="4">Begin Dialogue</td></tr><tr><td colspan="2">[Shogun defeated]</td><td colspan="2">[Shogun not defeated]</td></tr><tr><td colspan="2">Good work... Had that beast not caught me off guard, I too would have made quick work of him...</td><td colspan="2">Focus on your own life...</td></tr><tr><td colspan="2">[Memory] I'm here for the information we agreed upon.</td><td colspan="2">[End Dialogue]</td></tr><tr><td colspan="2">I don't have much time, it seems... So, I will make this quick. The clans have no way of approaching the Regent. As I'm sure you know, the barrier surrounding the royal palace is impenetrable.</td></tr><tr><td colspan="2">Is there nothing we can do?</td></tr><tr><td colspan="2">My kindred, Clan Mofisu, as well as the other great Etrean noble families that resist the Regent, have gathered at the Golden Rat. Rumors have spread that the 'Rat King' is in possession of a technique capable of piercing the barrier. Unfortunately, that is all we know for now...</td></tr><tr><td colspan="2">Where can I find the Golden Rat?</td></tr><tr><td colspan="2">Make for the Etrean side of the <a href="Glossary.md#the-luminants">Luminant</a>, through the easternmost waterlock. Pass it, and, facing east, and you'll find a small verdant shore adjacent to the mountain wall. Head inland... And you will find the Golden Rat.</td></tr><tr><td>I'll make way for the Golden Rat.</td><td>Do you need help?</td></tr><tr><td>Hear my advice, before you go... The 'Rat King' was formerly one of the Blade Temple's most exceptional instructors, before his fallout with Maestro Alkhurst Legato regarding the temple's standards... Approach the man with extreme caution.</td><td>Simply leave me to rest, for now... Merciful <a href="Glossary.md#mur-of-light">Mur</a> will watch over my fate, whatever comes...</td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">[Shogun defeated]</td>
+  <td colspan="2">[Shogun not defeated]</td>
+</tr>
+<tr>
+  <td colspan="2">Good work... Had that beast not caught me off guard, I too would have made quick work of him...</td>
+  <td colspan="2">Focus on your own life...</td>
+</tr>
+<tr>
+  <td colspan="2">[Memory] I'm here for the information we agreed upon.</td>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="2">I don't have much time, it seems... So, I will make this quick. The clans have no way of approaching the Regent. As I'm sure you know, the barrier surrounding the royal palace is impenetrable.</td>
+</tr>
+<tr>
+  <td colspan="2">Is there nothing we can do?</td>
+</tr>
+<tr>
+  <td colspan="2">My kindred, Clan Mofisu, as well as the other great Etrean noble families that resist the Regent, have gathered at the Golden Rat. Rumors have spread that the 'Rat King' is in possession of a technique capable of piercing the barrier. Unfortunately, that is all we know for now...</td>
+</tr>
+<tr>
+  <td colspan="2">Where can I find the Golden Rat?</td>
+</tr>
+<tr>
+  <td colspan="2">Make for the Etrean side of the <a href="Glossary.md#the-luminants">Luminant</a>, through the easternmost waterlock. Pass it, and, facing east, and you'll find a small verdant shore adjacent to the mountain wall. Head inland... And you will find the Golden Rat.</td>
+</tr>
+<tr>
+  <td>I'll make way for the Golden Rat.</td>
+  <td>Do you need help?</td>
+</tr>
+<tr>
+  <td>Hear my advice, before you go... The 'Rat King' was formerly one of the Blade Temple's most exceptional instructors, before his fallout with Maestro Alkhurst Legato regarding the temple's standards... Approach the man with extreme caution.</td>
+  <td>Simply leave me to rest, for now... Merciful <a href="Glossary.md#mur-of-light">Mur</a> will watch over my fate, whatever comes...</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent Encounters:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Make haste. There is no telling how long the 'Rat King' will be willing to give you his aid...</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Make haste. There is no telling how long the 'Rat King' will be willing to give you his aid...</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

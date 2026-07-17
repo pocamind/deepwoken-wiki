@@ -56,7 +56,43 @@ The weather for Starswept Valley.
 
 Below is a list of potential items that can spawn in chests in Starswept Valley.
 
-<table><tbody><tr><td><a href="Outfits.md">Outfit Schematics</a></td><td><ul><li><b>Adept</b>: <a href="11th_Legion_Plate.md">11th Legion Plate</a></li><li><b>Expert</b>: <a href="Hive_Drone.md">Hive Drone</a>, <a href="Hive_Tactician_Armor.md">Hive Tactician Armor</a></li><li><b>Master</b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a></li></ul></td></tr><tr><td><b><a href="Weapons.md">Weapons</a></b></td><td><ul><li><b>Legendary Weapons</b>: <a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a></li><li><b>Light Weapons</b>: <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Crucible_Rapier.md">Crucible Rapier</a>, <a href="Apprentice_Rapier.md">Apprentice Rapier</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a>, <a href="Nemit's_Sickle.md">Nemit's Sickle</a>, <a href="Needle's_Eye.md">Needle's Eye</a>, <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Repeater.md">Repeater</a>, <a href="Dragoon.md">Dragoon</a></li><li><b>Medium Weapons</b>: <a href="Sacred_Hammer.md">Sacred Hammer</a>, <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Forgotten_Gladius.md">Forgotten Gladius</a>,<a href="Serpent's_Edge.md">Serpent's Edge</a></li><li><b>Heavy Weapons</b>: <a href="Iron_Birch.md">Iron Birch</a>, <a href="Master_Hawk's_Handaxe.md">Master Hawk's Handaxe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Forge_Greathammer.md">Forge Greathammer</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Sovereign's_Punishment.md">Sovereign's Punishment</a></li><li><b>Offhand Weapons</b>: <a href="Legion_Shield.md">Legion Shield</a></li></ul></td></tr><tr><td><b><a href="Equipment.md">Equipment</a></b></td><td><ul><li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Big_Alchemist's_Hat.md">Big Alchemist's Hat</a>, <a href="Big_Herbalist's_Hat.md">Big Herbalist's Hat</a>, <a href="Brigand's_Bicorn.md">Brigand's Bicorn</a>, <a href="Legion_Helmet.md">Legion Helmet</a></li><li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Legion_Pauldrons.md">Legion Pauldrons</a>, <a href="Royal_Pathfinder.md">Royal Pathfinder</a>, <a href="Silver_Pauldrons.md">Silver Pauldrons</a></li><li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Imperial_Boots.md">Imperial Boots</a>, <a href="Legion_Boots.md">Legion Boots</a>, <a href="Silver_Sabatons.md">Silver Sabatons</a></li><li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Adventurer's_Scarf.md">Adventurer's Scarf</a>, <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a></li><li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Headband.md">Headband</a>, <a href="Warrior's_Eyepatch.md">Warrior's Eyepatch</a></li><li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Ruby_Drop_Earrings.md">Ruby Drop Earrings</a></li><li><a href="Equipment.md#rings"><b>Rings</b></a>: <a href="Ring_of_Pestilence.md">Ring of Pestilence</a></li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><a href="Outfits.md">Outfit Schematics</a></td>
+  <td>
+  <ul>
+    <li><b>Adept</b>: <a href="11th_Legion_Plate.md">11th Legion Plate</a></li>
+    <li><b>Expert</b>: <a href="Hive_Drone.md">Hive Drone</a>, <a href="Hive_Tactician_Armor.md">Hive Tactician Armor</a></li>
+    <li><b>Master</b>: <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Legendary Weapons</b>: <a href="Ysley's_Pyre_Keeper.md"><font>Ysley's Pyre Keeper</font></a></li>
+    <li><b>Light Weapons</b>: <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Crucible_Rapier.md">Crucible Rapier</a>, <a href="Apprentice_Rapier.md">Apprentice Rapier</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a>, <a href="Nemit's_Sickle.md">Nemit's Sickle</a>, <a href="Needle's_Eye.md">Needle's Eye</a>, <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Repeater.md">Repeater</a>, <a href="Dragoon.md">Dragoon</a></li>
+    <li><b>Medium Weapons</b>: <a href="Sacred_Hammer.md">Sacred Hammer</a>, <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Forgotten_Gladius.md">Forgotten Gladius</a>,<a href="Serpent's_Edge.md">Serpent's Edge</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Iron_Birch.md">Iron Birch</a>, <a href="Master_Hawk's_Handaxe.md">Master Hawk's Handaxe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Forge_Greathammer.md">Forge Greathammer</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Sovereign's_Punishment.md">Sovereign's Punishment</a></li>
+    <li><b>Offhand Weapons</b>: <a href="Legion_Shield.md">Legion Shield</a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Big_Alchemist's_Hat.md">Big Alchemist's Hat</a>, <a href="Big_Herbalist's_Hat.md">Big Herbalist's Hat</a>, <a href="Brigand's_Bicorn.md">Brigand's Bicorn</a>, <a href="Legion_Helmet.md">Legion Helmet</a></li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Legion_Pauldrons.md">Legion Pauldrons</a>, <a href="Royal_Pathfinder.md">Royal Pathfinder</a>, <a href="Silver_Pauldrons.md">Silver Pauldrons</a></li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Imperial_Boots.md">Imperial Boots</a>, <a href="Legion_Boots.md">Legion Boots</a>, <a href="Silver_Sabatons.md">Silver Sabatons</a></li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Adventurer's_Scarf.md">Adventurer's Scarf</a>, <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a></li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Headband.md">Headband</a>, <a href="Warrior's_Eyepatch.md">Warrior's Eyepatch</a></li>
+    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Ruby_Drop_Earrings.md">Ruby Drop Earrings</a></li>
+    <li><a href="Equipment.md#rings"><b>Rings</b></a>: <a href="Ring_of_Pestilence.md">Ring of Pestilence</a></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

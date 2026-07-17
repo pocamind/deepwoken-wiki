@@ -24,7 +24,85 @@ If you are unsatisfied with a Mantra you have chosen, it can be rerolled via the
 
 **Amount of Talents available to gain through Roll 2's, compared to the amount of Mantras you have:**
 
-<table><caption></caption><tbody><tr><th>Roll 2's used</th><th>Total Mantras possessed</th><th>Total Talents possessed</th></tr><tr><td>0 Roll 2's</td><td>13 Mantras</td><td>50 Talents</td></tr><tr><td>1 Roll 2's</td><td>12 Mantras</td><td>52 Talents</td></tr><tr><td>2 Roll 2's</td><td>11 Mantras</td><td>54 Talents</td></tr><tr><td>3 Roll 2's</td><td>10 Mantras</td><td>56 Talents</td></tr><tr><td>4 Roll 2's</td><td>9 Mantras</td><td>58 Talents</td></tr><tr><td>5 Roll 2's</td><td>8 Mantras</td><td>60 Talents</td></tr><tr><td>6 Roll 2's</td><td>7 Mantras</td><td>62 Talents</td></tr><tr><td>7 Roll 2's</td><td>6 Mantras</td><td>64 Talents</td></tr><tr><td>8 Roll 2's</td><td>5 Mantras</td><td>66 Talents</td></tr><tr><td>9 Roll 2's</td><td>4 Mantras</td><td>68 Talents</td></tr><tr><td>10 Roll 2's</td><td>3 Mantras</td><td>70 Talents</td></tr><tr><td>11 Roll 2's</td><td>2 Mantras</td><td>72 Talents</td></tr><tr><td>12 Roll 2's</td><td>1 Mantras</td><td>74 Talents</td></tr><tr><td>13 Roll 2's</td><td>0 Mantras</td><td>76 Talents</td></tr></tbody></table>
+<table><caption></caption>
+<tbody>
+<tr>
+  <th>Roll 2's used</th>
+  <th>Total Mantras possessed</th>
+  <th>Total Talents possessed</th>
+</tr>
+<tr>
+  <td>0 Roll 2's</td>
+  <td>13 Mantras</td>
+  <td>50 Talents</td>
+</tr>
+<tr>
+  <td>1 Roll 2's</td>
+  <td>12 Mantras</td>
+  <td>52 Talents</td>
+</tr>
+<tr>
+  <td>2 Roll 2's</td>
+  <td>11 Mantras</td>
+  <td>54 Talents</td>
+</tr>
+<tr>
+  <td>3 Roll 2's</td>
+  <td>10 Mantras</td>
+  <td>56 Talents</td>
+</tr>
+<tr>
+  <td>4 Roll 2's</td>
+  <td>9 Mantras</td>
+  <td>58 Talents</td>
+</tr>
+<tr>
+  <td>5 Roll 2's</td>
+  <td>8 Mantras</td>
+  <td>60 Talents</td>
+</tr>
+<tr>
+  <td>6 Roll 2's</td>
+  <td>7 Mantras</td>
+  <td>62 Talents</td>
+</tr>
+<tr>
+  <td>7 Roll 2's</td>
+  <td>6 Mantras</td>
+  <td>64 Talents</td>
+</tr>
+<tr>
+  <td>8 Roll 2's</td>
+  <td>5 Mantras</td>
+  <td>66 Talents</td>
+</tr>
+<tr>
+  <td>9 Roll 2's</td>
+  <td>4 Mantras</td>
+  <td>68 Talents</td>
+</tr>
+<tr>
+  <td>10 Roll 2's</td>
+  <td>3 Mantras</td>
+  <td>70 Talents</td>
+</tr>
+<tr>
+  <td>11 Roll 2's</td>
+  <td>2 Mantras</td>
+  <td>72 Talents</td>
+</tr>
+<tr>
+  <td>12 Roll 2's</td>
+  <td>1 Mantras</td>
+  <td>74 Talents</td>
+</tr>
+<tr>
+  <td>13 Roll 2's</td>
+  <td>0 Mantras</td>
+  <td>76 Talents</td>
+</tr>
+</tbody>
+</table>
 
   
 A player's Mantras are tied to their character's stats - the higher a given stat, the more Mantras you can obtain from that stat. Much like weapons and armor, Mantras can also have 1-3 stars which correlate with their stat requirement and strength. Mantras with higher stars have higher stat requirements.

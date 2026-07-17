@@ -41,11 +41,35 @@ High Inquisitor Mordred Hirculi is located inside the war room of the fortress a
 
 **Good/Neutral Reputation:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*The aged Vesperian is wearing an elaborate visor over his chitin mask. Despite this, it appears he can see you perfectly well. He gives you a meaningful nod. As he speaks, his voice is raspy, almost like a hiss.*</i> Recall in Iron, friend. The Warden's not around at the moment, I'm afraid... But he should be back in time. Good luck on the mission.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*The aged Vesperian is wearing an elaborate visor over his chitin mask. Despite this, it appears he can see you perfectly well. He gives you a meaningful nod. As he speaks, his voice is raspy, almost like a hiss.*</i> Recall in Iron, friend. The Warden's not around at the moment, I'm afraid... But he should be back in time. Good luck on the mission.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Bad Reputation:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Tsk tsk. Shabby form! <i>Forgive me, Ironsworn - one must keep up appearances.</i></td></tr><tr><td>[End Dialogue], you get stabbed</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Tsk tsk. Shabby form! <i>Forgive me, Ironsworn - one must keep up appearances.</i></td>
+</tr>
+<tr>
+  <td>[End Dialogue], you get stabbed</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

@@ -37,8 +37,38 @@ Karthal is located south of [Castle Light](Castle_Light.md) next to the [Hell Mo
 
 **First Encounter:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Hey, watch where you step... You're getting awfully close to it!</td></tr><tr><td>Huh?</td></tr><tr><td>If you ring that bell, <b>all hell will break loose</b>. You'll need the combined effort of at least <b>four</b> allies to do it, but I don't know why you would... No one could survive if that bell were to ring.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Hey, watch where you step... You're getting awfully close to it!</td>
+</tr>
+<tr>
+  <td>Huh?</td>
+</tr>
+<tr>
+  <td>If you ring that bell, <b>all hell will break loose</b>. You'll need the combined effort of at least <b>four</b> allies to do it, but I don't know why you would... No one could survive if that bell were to ring.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent Encounters:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>You'll heed my warning, right? Steer clear of this bell... And <i>definitely</i> don't bring <b>four</b> powerful friends here to ring it... That'd be a nightmare!</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>You'll heed my warning, right? Steer clear of this bell... And <i>definitely</i> don't bring <b>four</b> powerful friends here to ring it... That'd be a nightmare!</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

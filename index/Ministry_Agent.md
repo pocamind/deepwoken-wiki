@@ -30,9 +30,44 @@ If you have Ally reputation or higher with [The Ministry](The_Ministry.md), they
 
 **First Encounter:**
 
-<table><tbody><tr><td colspan="12">Begin</td></tr><tr><td colspan="12">Who told you of this place? Of the gateway?</td></tr><tr><td colspan="6">A Diver told me they were tailing some sort of Ministry Agent.</td><td colspan="6">Doesn't matter. Give up.</td></tr><tr><td colspan="6">Did they now? Looks like I have one last loose end to tie up for good.</td><td colspan="6">Hah! I'd love to see that attitude after I'm finished tearing you limb from limb.</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Who told you of this place? Of the gateway?</td>
+</tr>
+<tr>
+  <td colspan="6">A Diver told me they were tailing some sort of Ministry Agent.</td>
+  <td colspan="6">Doesn't matter. Give up.</td>
+</tr>
+<tr>
+  <td colspan="6">Did they now? Looks like I have one last loose end to tie up for good.</td>
+  <td colspan="6">Hah! I'd love to see that attitude after I'm finished tearing you limb from limb.</td>
+</tr>
+</tbody>
+</table>
 
-<table><tbody><tr><td colspan="12">Begin (&gt;Ally Reputation)</td></tr><tr><td colspan="12">Who Told you of this place? Of the Gateway?</td></tr><tr><td colspan="12">Easy friend, I'm on your side.</td></tr><tr><td colspan="12">Phew, you had me startled for a moment there, anyway, this place isn't safe anymore. You and I must leave. Until next time, friend.</td></tr><tr><td colspan="12">End, the agent gives you the three items and leaves.</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin (&gt;Ally Reputation)</td>
+</tr>
+<tr>
+  <td colspan="12">Who Told you of this place? Of the Gateway?</td>
+</tr>
+<tr>
+  <td colspan="12">Easy friend, I'm on your side.</td>
+</tr>
+<tr>
+  <td colspan="12">Phew, you had me startled for a moment there, anyway, this place isn't safe anymore. You and I must leave. Until next time, friend.</td>
+</tr>
+<tr>
+  <td colspan="12">End, the agent gives you the three items and leaves.</td>
+</tr>
+</tbody>
+</table>
 
 ## Dialogues when you grip
 

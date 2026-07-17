@@ -24,4 +24,22 @@ The Chipped Sword is a [Quest](Quests.md) item found at the [Isle of Vigils](Isl
 
 ## Dialogue
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*A chipped sword. There seems to be some blood on it.*</i></td></tr><tr><td>[Inspect]</td></tr><tr><td><i>*Engraved in the base of the sword's blade is the name 'ILJI'. Maybe its owner is looking for it?*</i></td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*A chipped sword. There seems to be some blood on it.*</i></td>
+</tr>
+<tr>
+  <td>[Inspect]</td>
+</tr>
+<tr>
+  <td><i>*Engraved in the base of the sword's blade is the name 'ILJI'. Maybe its owner is looking for it?*</i></td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

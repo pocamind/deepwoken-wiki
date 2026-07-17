@@ -35,7 +35,18 @@ Cheral can be found inside of a tent at the Navaen Camp located in the [Etrean W
 
 ## Shop
 
-<table><tbody><tr><td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div><a href="Lumber_Axe.md">Lumber Axe</a></div><div><i>A sturdy axe for felling trees.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div><a href="Flint.md">Flint</a></div><div><i>A sharp flint and a scrap of pyrite used for starting fires.</i></div></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div><a href="Lumber_Axe.md">Lumber Axe</a></div><div><i>A sturdy axe for felling trees.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div><a href="Flint.md">Flint</a></div><div><i>A sharp flint and a scrap of pyrite used for starting fires.</i></div></td>
+</tr>
+</tbody>
+</table>
 
   
 
@@ -43,15 +54,57 @@ Cheral can be found inside of a tent at the Navaen Camp located in the [Etrean W
 
 **Base Dialogue:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Ah, a homelander. Did you need something?</td></tr><tr><td>Is there some kind of arrangement between the Etreans and you?</td></tr><tr><td>WIP</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Ah, a homelander. Did you need something?</td>
+</tr>
+<tr>
+  <td>Is there some kind of arrangement between the Etreans and you?</td>
+</tr>
+<tr>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Already obtained Way of Navae:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>You... You remind me of someone I once knew. I can't quite put my finger on it, but Navae's presence is strong with you. So that I may fulfill my part in prophecy, please allow me to share some of our knowledge with you...</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>You... You remind me of someone I once knew. I can't quite put my finger on it, but Navae's presence is strong with you. So that I may fulfill my part in prophecy, please allow me to share some of our knowledge with you...</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Returning a Hostage:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Oh, thank Navae you found them! You have given us a great gift, let me bestow upon you the knowledge of our ancestors. <i>(<a href="Glossary.md#talent">Talent</a> Unlocked)</i></td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Oh, thank Navae you found them! You have given us a great gift, let me bestow upon you the knowledge of our ancestors. <i>(<a href="Glossary.md#talent">Talent</a> Unlocked)</i></td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

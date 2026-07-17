@@ -37,10 +37,61 @@ Cave Master is located in [Isle of Vigils](Isle_of_Vigils.md), his cave is locat
 
 Fruits of the Cave
 
-<table><tbody><tr><td><center><figure><figcaption></figcaption></figure>10 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Cloudstone</div><div><i>Make zem big.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Stratus Stone</div><div><i>Make zem bigger.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>10 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Drift Shard</div><div><i>Make zem fast.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Rush Shard</div><div><i>Make zem faster.</i></div></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>10 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Cloudstone</div><div><i>Make zem big.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Stratus Stone</div><div><i>Make zem bigger.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>10 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Drift Shard</div><div><i>Make zem fast.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Rush Shard</div><div><i>Make zem faster.</i></div></td>
+</tr>
+</tbody>
+</table>
 
-<table><tbody><tr><td><center><figure><figcaption></figcaption></figure>10 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Crystal Lens</div><div><i>Make zem go far.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Perfect Lens</div><div><i>Make zem go further.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>10 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Aeon Logstone</div><div><i>Make zem big.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td><td><div>Eternal Logstone</div><div><i>Make zem bigger.</i></div></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>10 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Crystal Lens</div><div><i>Make zem go far.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Perfect Lens</div><div><i>Make zem go further.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>10 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Aeon Logstone</div><div><i>Make zem big.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>25 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div>Eternal Logstone</div><div><i>Make zem bigger.</i></div></td>
+</tr>
+</tbody>
+</table>
 
 ## Dialogue
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td><i>*Yawn.*</i> What's that? Y'here to buy somethin'? I'm tryin' to keep a low profile, so be quick about it.<br>[<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*Yawn.*</i> What's that? Y'here to buy somethin'? I'm tryin' to keep a low profile, so be quick about it.<br>
+  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>

@@ -54,17 +54,126 @@ Which can be deducted as the [Saramaed Summit](Saramaed_Summit.md)[\[1\]](#cite-
 
 **First Encounter:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12"><i><b>If you haven't beaten The Ferryman</b></i><br>Welcome, welcome! Care for a drink on the house?<br><i><b>If you have beaten The Ferryman</b></i><br>Ah, welcome, [Name]! Care for a drink on the house?</td></tr><tr><td colspan="6">2. What made you start up a tavern?</td><td colspan="6">1. Sure.</td></tr><tr><td colspan="6">Well, I needed a venue to show off my superior collection of music, didn't I? Only... Ah. I managed to misplace <b>three records</b> from my vinyl collection while setting up the gateways here...</td><td colspan="3"><i><b>No drinks in inventory</b></i></td><td colspan="3"><i><b>Already holding a drink</b></i></td></tr><tr><td colspan="6">Maybe I can look around?</td><td colspan="3">Of course, I have just the drink for you!<br>(Gives Redd Juice)</td><td colspan="3">Hah! Finish what you have already.</td></tr><tr><td colspan="6">Hah, a fitting errand! Ridicule aside, it <i>would</i> actually be of some help. I've got an old set of instruments I've been meaning to get rid of for you if you do.</td><td colspan="6">[End Dialogue]</td></tr><tr><td colspan="6">Where can I find the records?</td></tr><tr><td colspan="6">One lurks over the machinery threaded through the caldera of a volcano, another lies within a nestled spot of nature within a frozen waste, and the final record can be found in a land lost to time, yet familiar all the same.</td></tr><tr><td colspan="6">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12"><i><b>If you haven't beaten The Ferryman</b></i><br>
+  Welcome, welcome! Care for a drink on the house?<br>
+  <i><b>If you have beaten The Ferryman</b></i><br>
+  Ah, welcome, [Name]! Care for a drink on the house?</td>
+</tr>
+<tr>
+  <td colspan="6">2. What made you start up a tavern?</td>
+  <td colspan="6">1. Sure.</td>
+</tr>
+<tr>
+  <td colspan="6">Well, I needed a venue to show off my superior collection of music, didn't I? Only... Ah. I managed to misplace <b>three records</b> from my vinyl collection while setting up the gateways here...</td>
+  <td colspan="3"><i><b>No drinks in inventory</b></i></td>
+  <td colspan="3"><i><b>Already holding a drink</b></i></td>
+</tr>
+<tr>
+  <td colspan="6">Maybe I can look around?</td>
+  <td colspan="3">Of course, I have just the drink for you!<br>
+  (Gives Redd Juice)</td>
+  <td colspan="3">Hah! Finish what you have already.</td>
+</tr>
+<tr>
+  <td colspan="6">Hah, a fitting errand! Ridicule aside, it <i>would</i> actually be of some help. I've got an old set of instruments I've been meaning to get rid of for you if you do.</td>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="6">Where can I find the records?</td>
+</tr>
+<tr>
+  <td colspan="6">One lurks over the machinery threaded through the caldera of a volcano, another lies within a nestled spot of nature within a frozen waste, and the final record can be found in a land lost to time, yet familiar all the same.</td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Subsequent Encounters:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12"><i><b>If none collected</b></i><br>Ah, no luck so far? There's 3 records missing out there. Need a refreshment to get you going?<br><i><b>If 1 collected</b></i><br>Excellent work so far, just 2 records left. Need a refreshment to keep you going?<br><i><b>If 2 collected</b></i><br>Excellent work so far, just 1 records left. Need a refreshment to keep you going?</td></tr><tr><td colspan="6">1. Sure.</td><td colspan="6">2. Where can I find the records?</td></tr><tr><td colspan="3"><i><b>No drinks in inventory</b></i></td><td colspan="3"><i><b>Already holding a drink</b></i></td><td colspan="6">One lurks over the machinery threaded through the caldera of a volcano, another lies within a nestled spot of nature within a frozen waste, and the final record can be found in a land lost to time, yet familiar all the same.</td></tr><tr><td colspan="3">Of course, I have just the drink for you!<br>(Gives Redd Juice)</td><td colspan="3">Hah! Finish what you have already.</td><td colspan="6">[End Dialogue]</td></tr><tr><td colspan="6">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12"><i><b>If none collected</b></i><br>
+  Ah, no luck so far? There's 3 records missing out there. Need a refreshment to get you going?<br>
+  <i><b>If 1 collected</b></i><br>
+  Excellent work so far, just 2 records left. Need a refreshment to keep you going?<br>
+  <i><b>If 2 collected</b></i><br>
+  Excellent work so far, just 1 records left. Need a refreshment to keep you going?</td>
+</tr>
+<tr>
+  <td colspan="6">1. Sure.</td>
+  <td colspan="6">2. Where can I find the records?</td>
+</tr>
+<tr>
+  <td colspan="3"><i><b>No drinks in inventory</b></i></td>
+  <td colspan="3"><i><b>Already holding a drink</b></i></td>
+  <td colspan="6">One lurks over the machinery threaded through the caldera of a volcano, another lies within a nestled spot of nature within a frozen waste, and the final record can be found in a land lost to time, yet familiar all the same.</td>
+</tr>
+<tr>
+  <td colspan="3">Of course, I have just the drink for you!<br>
+  (Gives Redd Juice)</td>
+  <td colspan="3">Hah! Finish what you have already.</td>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Quest Complete:**
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12"><i><b>Unlocked: Gilded Instruments</b></i><br>My, my! What a helper you are. It would be remiss for me to not give you the reward promised, so here you are...</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12"><i><b>Unlocked: Gilded Instruments</b></i><br>
+  My, my! What a helper you are. It would be remiss for me to not give you the reward promised, so here you are...</td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
-<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Ah, welcome back! Care for a drink on the house?</td></tr><tr><td colspan="12">Sure.</td></tr><tr><td colspan="6"><i><b>No drinks in inventory</b></i></td><td colspan="6"><i><b>Already holding a drink</b></i></td></tr><tr><td colspan="6">Of course, I have just the drink for you!<br>(Gives Redd Juice)</td><td colspan="6">Hah! Finish what you have already.</td></tr><tr><td colspan="12">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Ah, welcome back! Care for a drink on the house?</td>
+</tr>
+<tr>
+  <td colspan="12">Sure.</td>
+</tr>
+<tr>
+  <td colspan="6"><i><b>No drinks in inventory</b></i></td>
+  <td colspan="6"><i><b>Already holding a drink</b></i></td>
+</tr>
+<tr>
+  <td colspan="6">Of course, I have just the drink for you!<br>
+  (Gives Redd Juice)</td>
+  <td colspan="6">Hah! Finish what you have already.</td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Gallery
 

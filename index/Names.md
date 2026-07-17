@@ -23,7 +23,40 @@ Your Name is one of the many ways to choose how you appear in-game to yourself a
 
 Flairs are cosmetic name colours obtained by surpassing the most difficult challenges in-game, including PvP and PvE accomplishments. They will change the colour of your name on the character list (Top-Right corner in-game) depending on which flair(s) you have obtained. If you have obtained more than one flair, the one with the lowest priority will display on the character list.
 
-<table><caption></caption><tbody><tr><th>Flair</th><th>Priority</th><th>Requirements</th></tr><tr><td>Bronze</td><td>5</td><td>Currently holding between the 1000th-251st rank within the Chime of Conflict.</td></tr><tr><td>Emerald</td><td>4</td><td>Obtain the badge "W-Rank", obtainable through getting S-Rank (all echo quests) with all echo modifiers enabled.</td></tr><tr><td>Silver</td><td>3</td><td>Currently holding between the 250th-51st rank within the Chime of Conflict.</td></tr><tr><td>Gold</td><td>2</td><td>Currently holding between the 50th-11th rank within the Chime of Conflict.</td></tr><tr><td>Ruby</td><td>1</td><td>Currently holding between the 10th-1st rank within the Chime of Conflict.</td></tr></tbody></table>
+<table><caption></caption>
+<tbody>
+<tr>
+  <th>Flair</th>
+  <th>Priority</th>
+  <th>Requirements</th>
+</tr>
+<tr>
+  <td>Bronze</td>
+  <td>5</td>
+  <td>Currently holding between the 1000th-251st rank within the Chime of Conflict.</td>
+</tr>
+<tr>
+  <td>Emerald</td>
+  <td>4</td>
+  <td>Obtain the badge "W-Rank", obtainable through getting S-Rank (all echo quests) with all echo modifiers enabled.</td>
+</tr>
+<tr>
+  <td>Silver</td>
+  <td>3</td>
+  <td>Currently holding between the 250th-51st rank within the Chime of Conflict.</td>
+</tr>
+<tr>
+  <td>Gold</td>
+  <td>2</td>
+  <td>Currently holding between the 50th-11th rank within the Chime of Conflict.</td>
+</tr>
+<tr>
+  <td>Ruby</td>
+  <td>1</td>
+  <td>Currently holding between the 10th-1st rank within the Chime of Conflict.</td>
+</tr>
+</tbody>
+</table>
 
 ## First Names
 

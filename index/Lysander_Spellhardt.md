@@ -97,13 +97,81 @@ With 2022 Hallowtide, came with 3 Hallowtide-exclusive head [equipments](Equipme
 
 **Shop UI:**
 
-<table><tbody><tr><td colspan="12">Begin</td></tr><tr><td colspan="12">Off to spread the holiday cheer I hope! How many new people have you scared since we last spoke?</td></tr><tr><td colspan="12">Well I'd say around... [number], maybe?</td></tr><tr><td colspan="12">Hmm.. <b>[number] people</b>, you say? A good start! Now, what would you like to spend that Hallowtide Joy on?</td></tr><tr><td colspan="6">1. Relic [100 Joy]<br>2. Familiar Priest's Helm [35 Joy]<br>3. Familiar Heretic's Helm [35 Joy]<br>4. Familiar Knight's Helm [35 Joy]<br>5. Familiar Heretic's Armor [35 Joy]<br>6. Familiar Knight's Armor [35 Joy]<br>8. Pumpkin Head [50 Joy]<br>9. Mushroom Costume [100 Joy]</td><td colspan="6">Here you are, your own personal Joy!</td></tr><tr><td colspan="6">7. Hallowtide Variant [70 Joy]</td><td colspan="6"><i><b>You've unlocked new Racial Variants.</b></i><br>Here you are... a very, very special Joy! Since I'm feeling generous today, I can induce the transformation now if you wish. Just pay me another visit.</td></tr><tr><td colspan="6">10. Hallowtide '25 Medal [300 Joy]<br>11. Hallowtide '24 Medal [200 Joy]<br>12. Hallowtide '23 Medal [200 Joy]<br>13. Hallowtide '22 Medal [200 Joy]</td><td colspan="6">Here you are... a very, very special Joy! With this medal, seek out a Blacksmith and they should be able to assist you in recreating the joys of Hallowtide at any time.</td></tr><tr><td colspan="6"><i><b>Only available after you bought Hallowtide Variant</b></i><br>14. Alright, could you induce the Variant transformation now?</td><td colspan="6">*<i>He hands you a vial of crimson liquid. It smells rancid. You reluctantly down it.</i>* Think happy thoughts of Hallowtide as you drink this. Just maybe don't tell the <a href="Glossary.md#the-central-authority">Authority</a> about this little exchange...</td></tr><tr><td colspan="6">Not enough Joy for any purchase</td><td colspan="6">Not quite enough for that yet, friend.</td></tr><tr><td colspan="12">End</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Off to spread the holiday cheer I hope! How many new people have you scared since we last spoke?</td>
+</tr>
+<tr>
+  <td colspan="12">Well I'd say around... [number], maybe?</td>
+</tr>
+<tr>
+  <td colspan="12">Hmm.. <b>[number] people</b>, you say? A good start! Now, what would you like to spend that Hallowtide Joy on?</td>
+</tr>
+<tr>
+  <td colspan="6">1. Relic [100 Joy]<br>
+  2. Familiar Priest's Helm [35 Joy]<br>
+  3. Familiar Heretic's Helm [35 Joy]<br>
+  4. Familiar Knight's Helm [35 Joy]<br>
+  5. Familiar Heretic's Armor [35 Joy]<br>
+  6. Familiar Knight's Armor [35 Joy]<br>
+  8. Pumpkin Head [50 Joy]<br>
+  9. Mushroom Costume [100 Joy]</td>
+  <td colspan="6">Here you are, your own personal Joy!</td>
+</tr>
+<tr>
+  <td colspan="6">7. Hallowtide Variant [70 Joy]</td>
+  <td colspan="6"><i><b>You've unlocked new Racial Variants.</b></i><br>
+  Here you are... a very, very special Joy! Since I'm feeling generous today, I can induce the transformation now if you wish. Just pay me another visit.</td>
+</tr>
+<tr>
+  <td colspan="6">10. Hallowtide '25 Medal [300 Joy]<br>
+  11. Hallowtide '24 Medal [200 Joy]<br>
+  12. Hallowtide '23 Medal [200 Joy]<br>
+  13. Hallowtide '22 Medal [200 Joy]</td>
+  <td colspan="6">Here you are... a very, very special Joy! With this medal, seek out a Blacksmith and they should be able to assist you in recreating the joys of Hallowtide at any time.</td>
+</tr>
+<tr>
+  <td colspan="6"><i><b>Only available after you bought Hallowtide Variant</b></i><br>
+  14. Alright, could you induce the Variant transformation now?</td>
+  <td colspan="6">*<i>He hands you a vial of crimson liquid. It smells rancid. You reluctantly down it.</i>* Think happy thoughts of Hallowtide as you drink this. Just maybe don't tell the <a href="Glossary.md#the-central-authority">Authority</a> about this little exchange...</td>
+</tr>
+<tr>
+  <td colspan="6">Not enough Joy for any purchase</td>
+  <td colspan="6">Not quite enough for that yet, friend.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
 
 **No Joy:**
 
 This Dialogue appears when you have exactly Zero [Joy](Joy.md) and you try to buy Lysander's stuff.
 
-<table><tbody><tr><td colspan="12">Begin</td></tr><tr><td colspan="12">Off to spread the holiday cheer I hope! How many new people have you scared since we last spoke?</td></tr><tr><td colspan="12">Well I'd say around... 0, maybe?</td></tr><tr><td colspan="12">No one? Really? Come on, get out there and scare some people!</td></tr><tr><td colspan="12">End</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Off to spread the holiday cheer I hope! How many new people have you scared since we last spoke?</td>
+</tr>
+<tr>
+  <td colspan="12">Well I'd say around... 0, maybe?</td>
+</tr>
+<tr>
+  <td colspan="12">No one? Really? Come on, get out there and scare some people!</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
 
 **First Encounter:**
 
@@ -111,19 +179,91 @@ This Dialogue appears when you have exactly Zero [Joy](Joy.md) and you try to bu
 
 He will say this when this is the first time you're meeting him.
 
-<table><tbody><tr><td colspan="12">Begin</td></tr><tr><td colspan="12">Oh boy, how'd you get up here? Another one of the locals begging for handouts on Hallowtide?</td></tr><tr><td colspan="12">Hallowtide?</td></tr><tr><td colspan="12">Yes, Hallowtide. It is a celebration my people have every 91 years or so. We tend to let our young enjoy treats on the occasion. Gifts are often shared.</td></tr><tr><td colspan="12">So... What about people like me?</td></tr><tr><td colspan="12">Unfortunately... Our people are required to be generous to all intelligent life on this occasion, even you <i>land breathers</i>. However, if you want the gifts of our tradition then you must participate in the festivities.</td></tr><tr><td colspan="12">How do I do that?</td></tr><tr><td colspan="12">Quite simple, first you will need a mask. Preferably inspired by one of the horrible creatures that roam the surface. I can make you a mask if you can bring me <b>Shell Stock</b>, <b>Paperette</b>, and <b>Fine Ink</b>.</td></tr><tr><td colspan="12">How do I find that?</td></tr><tr><td colspan="12">Hm... There should be some on the surface. I'm sure you could find some laying around in some odd chest.</td></tr><tr><td colspan="12">I'll get to it then.</td></tr><tr><td colspan="12">*<i>He seems to genuinely smile.</i>* Glad to see you will at least take part in our culture. Ad Astra!</td></tr><tr><td colspan="12">End</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Oh boy, how'd you get up here? Another one of the locals begging for handouts on Hallowtide?</td>
+</tr>
+<tr>
+  <td colspan="12">Hallowtide?</td>
+</tr>
+<tr>
+  <td colspan="12">Yes, Hallowtide. It is a celebration my people have every 91 years or so. We tend to let our young enjoy treats on the occasion. Gifts are often shared.</td>
+</tr>
+<tr>
+  <td colspan="12">So... What about people like me?</td>
+</tr>
+<tr>
+  <td colspan="12">Unfortunately... Our people are required to be generous to all intelligent life on this occasion, even you <i>land breathers</i>. However, if you want the gifts of our tradition then you must participate in the festivities.</td>
+</tr>
+<tr>
+  <td colspan="12">How do I do that?</td>
+</tr>
+<tr>
+  <td colspan="12">Quite simple, first you will need a mask. Preferably inspired by one of the horrible creatures that roam the surface. I can make you a mask if you can bring me <b>Shell Stock</b>, <b>Paperette</b>, and <b>Fine Ink</b>.</td>
+</tr>
+<tr>
+  <td colspan="12">How do I find that?</td>
+</tr>
+<tr>
+  <td colspan="12">Hm... There should be some on the surface. I'm sure you could find some laying around in some odd chest.</td>
+</tr>
+<tr>
+  <td colspan="12">I'll get to it then.</td>
+</tr>
+<tr>
+  <td colspan="12">*<i>He seems to genuinely smile.</i>* Glad to see you will at least take part in our culture. Ad Astra!</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
 
 **Quest Ongoing:**
 
 If you haven't collected all the [ingredients](Hallowtide_Mask_Ingredients.md) yet.
 
-<table><tbody><tr><td colspan="12">Begin</td></tr><tr><td colspan="12">I can't make you a mask if you don't have the materials! I need <b>Shell Stock</b>, <b>Paperette</b>, and <b>Fine Ink</b>.</td></tr><tr><td colspan="12">End</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">I can't make you a mask if you don't have the materials! I need <b>Shell Stock</b>, <b>Paperette</b>, and <b>Fine Ink</b>.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
 
 **Quest End:**
 
 When you complete his quest, he will say this.
 
-<table><tbody><tr><td colspan="12">Begin</td></tr><tr><td colspan="12">Ah, it seems you found some. Now go spread some Hallowtide JOY!</td></tr><tr><td colspan="12">Hallowtide joy?</td></tr><tr><td colspan="12">Go scare some of the land breathers using your mask! Once you spread enough Hallowtide joy return here for your gifts!</td></tr><tr><td colspan="12">End</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Ah, it seems you found some. Now go spread some Hallowtide JOY!</td>
+</tr>
+<tr>
+  <td colspan="12">Hallowtide joy?</td>
+</tr>
+<tr>
+  <td colspan="12">Go scare some of the land breathers using your mask! Once you spread enough Hallowtide joy return here for your gifts!</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

@@ -30,12 +30,78 @@ Acre can be found on a ledge beside one of the longest ziplines in Starswept Val
 
 **First interaction:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>...Don't take another step closer to me. I know your type. Bloodthirsty. Ruthless. I don't trust you for even a second. Go away.</td></tr><tr><td>What are you talking about?</td></tr><tr><td>Don't. Come. Closer.</td></tr><tr><td>And if I don't?</td></tr><tr><td>GO AWAY!</td></tr><tr><td>[End Dialogue], player is thrown off the cliff</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>...Don't take another step closer to me. I know your type. Bloodthirsty. Ruthless. I don't trust you for even a second. Go away.</td>
+</tr>
+<tr>
+  <td>What are you talking about?</td>
+</tr>
+<tr>
+  <td>Don't. Come. Closer.</td>
+</tr>
+<tr>
+  <td>And if I don't?</td>
+</tr>
+<tr>
+  <td>GO AWAY!</td>
+</tr>
+<tr>
+  <td>[End Dialogue], player is thrown off the cliff</td>
+</tr>
+</tbody>
+</table>
 
 **Second interaction:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Back off away from me. Right now. You'll regret this.</td></tr><tr><td>And if I don't?</td></tr><tr><td>GO AWAY!</td></tr><tr><td>[End Dialogue], player is thrown off the cliff</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Back off away from me. Right now. You'll regret this.</td>
+</tr>
+<tr>
+  <td>And if I don't?</td>
+</tr>
+<tr>
+  <td>GO AWAY!</td>
+</tr>
+<tr>
+  <td>[End Dialogue], player is thrown off the cliff</td>
+</tr>
+</tbody>
+</table>
 
 **Third interaction:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>You... Again? Didn't you learn your lesson? Stay away from me.</td></tr><tr><td>What are you talking about?</td></tr><tr><td>You... You're the worst of the worst, you know that?</td></tr><tr><td>And if I don't?</td></tr><tr><td>GO AWAY!</td></tr><tr><td>[End Dialogue], player is thrown off the cliff</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>You... Again? Didn't you learn your lesson? Stay away from me.</td>
+</tr>
+<tr>
+  <td>What are you talking about?</td>
+</tr>
+<tr>
+  <td>You... You're the worst of the worst, you know that?</td>
+</tr>
+<tr>
+  <td>And if I don't?</td>
+</tr>
+<tr>
+  <td>GO AWAY!</td>
+</tr>
+<tr>
+  <td>[End Dialogue], player is thrown off the cliff</td>
+</tr>
+</tbody>
+</table>

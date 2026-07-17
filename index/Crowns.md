@@ -36,7 +36,115 @@ Crowns are able to be exchanged for Knowledge or Notes by interacting with the i
 
 #### Exchange Rate
 
-<table><caption></caption><tbody><tr><th><a href="Power.md">Power</a></th><th><a href="Notes.md">Notes</a></th><th><a href="Knowledge.md">Knowledge</a></th></tr><tr><td>1</td><td>250</td><td>1</td></tr><tr><td>2</td><td>289</td><td>1</td></tr><tr><td>3</td><td>328</td><td>1</td></tr><tr><td>4</td><td>368</td><td>1</td></tr><tr><td>5</td><td>407</td><td>1</td></tr><tr><td>6</td><td>447</td><td>2</td></tr><tr><td>7</td><td>468</td><td>2</td></tr><tr><td>8</td><td>526</td><td>2</td></tr><tr><td>9</td><td>565</td><td>2</td></tr><tr><td>10</td><td>605</td><td>2</td></tr><tr><td>11</td><td>644</td><td>3</td></tr><tr><td>12</td><td>684</td><td>3</td></tr><tr><td>13</td><td>723</td><td>3</td></tr><tr><td>14</td><td>763</td><td>3</td></tr><tr><td>15</td><td>802</td><td>3</td></tr><tr><td>16</td><td>842</td><td>4</td></tr><tr><td>17</td><td>881</td><td>4</td></tr><tr><td>18</td><td>921</td><td>4</td></tr><tr><td>19</td><td>960</td><td>4</td></tr><tr><td>20</td><td>1,000</td><td>5</td></tr></tbody></table>
+<table><caption></caption>
+<tbody>
+<tr>
+  <th><a href="Power.md">Power</a></th>
+  <th><a href="Notes.md">Notes</a></th>
+  <th><a href="Knowledge.md">Knowledge</a></th>
+</tr>
+<tr>
+  <td>1</td>
+  <td>250</td>
+  <td>1</td>
+</tr>
+<tr>
+  <td>2</td>
+  <td>289</td>
+  <td>1</td>
+</tr>
+<tr>
+  <td>3</td>
+  <td>328</td>
+  <td>1</td>
+</tr>
+<tr>
+  <td>4</td>
+  <td>368</td>
+  <td>1</td>
+</tr>
+<tr>
+  <td>5</td>
+  <td>407</td>
+  <td>1</td>
+</tr>
+<tr>
+  <td>6</td>
+  <td>447</td>
+  <td>2</td>
+</tr>
+<tr>
+  <td>7</td>
+  <td>468</td>
+  <td>2</td>
+</tr>
+<tr>
+  <td>8</td>
+  <td>526</td>
+  <td>2</td>
+</tr>
+<tr>
+  <td>9</td>
+  <td>565</td>
+  <td>2</td>
+</tr>
+<tr>
+  <td>10</td>
+  <td>605</td>
+  <td>2</td>
+</tr>
+<tr>
+  <td>11</td>
+  <td>644</td>
+  <td>3</td>
+</tr>
+<tr>
+  <td>12</td>
+  <td>684</td>
+  <td>3</td>
+</tr>
+<tr>
+  <td>13</td>
+  <td>723</td>
+  <td>3</td>
+</tr>
+<tr>
+  <td>14</td>
+  <td>763</td>
+  <td>3</td>
+</tr>
+<tr>
+  <td>15</td>
+  <td>802</td>
+  <td>3</td>
+</tr>
+<tr>
+  <td>16</td>
+  <td>842</td>
+  <td>4</td>
+</tr>
+<tr>
+  <td>17</td>
+  <td>881</td>
+  <td>4</td>
+</tr>
+<tr>
+  <td>18</td>
+  <td>921</td>
+  <td>4</td>
+</tr>
+<tr>
+  <td>19</td>
+  <td>960</td>
+  <td>4</td>
+</tr>
+<tr>
+  <td>20</td>
+  <td>1,000</td>
+  <td>5</td>
+</tr>
+</tbody>
+</table>
 
 Some NPCs only exchange Crowns for goods and services, these are:
 

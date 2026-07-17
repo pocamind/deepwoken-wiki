@@ -34,7 +34,26 @@ When using this Shrine, please make sure to **check if you burned the card you'r
 
 Shrine of Chance
 
-<table><tbody><tr><td><center><figure><figcaption></figcaption></figure>5 <a href="../Knowledge.md">KnowledgeLargeNew</a><div>Knowledge</div></center></td><td><div>Talent Exchange</div><div><i>Exchange a Talent for a hand of Talents of equivalent rarity.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>5 <a href="../Knowledge.md">KnowledgeLargeNew</a><div>Knowledge</div></center></td><td><div>Talent Degradation</div><div><i>Exchange a Rare Talent for a hand of Common Talents.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>10 <a href="../Knowledge.md">KnowledgeLargeNew</a><div>Knowledge</div></center></td><td><div>Talent Elevation</div><div><i>Exchange a Common Talent for a hand of Rare Talents.</i></div></td></tr><tr><td><center><figure><figcaption></figcaption></figure>5 <a href="../Knowledge.md">KnowledgeLargeNew</a><div>Knowledge</div></center></td><td><div>Faction Exchange</div><div><i>Exchange a Faction Talent for a hand of Faction Talents.</i></div></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>5 <a href="../Knowledge.md">KnowledgeLargeNew</a><div>Knowledge</div></center></td>
+  <td><div>Talent Exchange</div><div><i>Exchange a Talent for a hand of Talents of equivalent rarity.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>5 <a href="../Knowledge.md">KnowledgeLargeNew</a><div>Knowledge</div></center></td>
+  <td><div>Talent Degradation</div><div><i>Exchange a Rare Talent for a hand of Common Talents.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>10 <a href="../Knowledge.md">KnowledgeLargeNew</a><div>Knowledge</div></center></td>
+  <td><div>Talent Elevation</div><div><i>Exchange a Common Talent for a hand of Rare Talents.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>5 <a href="../Knowledge.md">KnowledgeLargeNew</a><div>Knowledge</div></center></td>
+  <td><div>Faction Exchange</div><div><i>Exchange a Faction Talent for a hand of Faction Talents.</i></div></td>
+</tr>
+</tbody>
+</table>
 
 ### Details
 
@@ -53,7 +72,28 @@ Shrine of Chance
 
 **Requirements Met:**
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">PUPPET. WHAT DOES YOUR HEART DESIRE?</td></tr><tr><td colspan="2">[Shop UI opens]</td></tr><tr><td colspan="2">[player completes a <a href="#effectsdetails">deal</a>]</td></tr><tr><td colspan="2">THE CONTRACT IS COMPLETE.</td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">PUPPET. WHAT DOES YOUR HEART DESIRE?</td>
+</tr>
+<tr>
+  <td colspan="2">[Shop UI opens]</td>
+</tr>
+<tr>
+  <td colspan="2">[player completes a <a href="#effectsdetails">deal</a>]</td>
+</tr>
+<tr>
+  <td colspan="2">THE CONTRACT IS COMPLETE.</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Requirements Unmet:**
 
@@ -61,11 +101,35 @@ Shrine of Chance
 
 If the player has an unchosen Talent, Mantra, or Trait hand, this dialogue will appear, forcing them to choose a card before a deal can be made.
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">PUPPET. RETURN ONCE YOU HAVE DECIDED YOUR PATH. THIS WE CANNOT DIVINE FOR YOU.</td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">PUPPET. RETURN ONCE YOU HAVE DECIDED YOUR PATH. THIS WE CANNOT DIVINE FOR YOU.</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **No Eligible Talents:**
 
-<table><tbody><tr><td colspan="2">Begin Dialogue</td></tr><tr><td colspan="2">RETURN AT ANOTHER TIME, PUPPET.</td></tr><tr><td colspan="2">[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">RETURN AT ANOTHER TIME, PUPPET.</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

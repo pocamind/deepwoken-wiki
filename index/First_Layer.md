@@ -128,7 +128,59 @@ Once you have spoken with [Surge](Surge.md), [The Nestmind](The_Nestmind.md) - a
 
 _The first layer of the depths, where most souls go to die, holding more reliable high-end loot then most other places._
 
-<table><tbody><tr><td><b><a href="Outfits.md">Outfit Schematics</a></b></td><td><ul><li><b>Starter</b>: <a href="Eager_Tradesman.md">Eager Tradesman</a></li><li><b>Adept</b>: <a href="Diver_Apprentice_Robes.md">Diver Apprentice Robes</a>, <a href="Carefree_Garments.md">Carefree Garments</a></li><li><b>Expert</b>: <a href="Grand_Pathfinder_Cloak.md">Grand Pathfinder Cloak</a>, <a href="Varicosan_Finery.md">Varicosan Finery</a></li><li><b>Master</b>: <a href="Authority_Commander.md">Authority Commander</a>, <a href="Black_Diver.md">Black Diver</a>, <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a></li></ul></td></tr><tr><td><b>Miscellaneous</b></td><td><ul><li><a href="Items.md">Items</a>: All non-exclusive <a href="Deep_Gems.md">Deep Gems</a></li></ul></td></tr><tr><td><b><a href="Weapons.md">Weapons</a></b></td><td><ul><li><b>Legendary Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>, <a href="Deepspindle.md"><font>Deepspindle</font></a></li><li><b>Alloyed Weapons</b>: <a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></li><li><b>Generic Weapons</b>:<ol><li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></li><li><b>Medium Weapons</b>: <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Iron_Twinblade.md">Iron Twinblade</a>, <a href="Scalesplitter.md">Scalesplitter</a></li><li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Enforcer's_Blade.md">Enforcer's Blade</a>, <a href="Iron_Birch.md">Iron Birch</a>, <a href="Pale_Morning.md">Pale Morning</a></li></ol></li><li><b>Offhand Weapons</b>: <a href="Parrying_Dagger.md">Parrying Dagger</a></li></ul></td></tr><tr><td><b><a href="Equipment.md">Equipment</a></b></td><td><ul><li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Assassin's_Hood.md">Assassin's Hood</a> (Pale)</li><li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:<ol><li><b>Legendary Arms</b>: <a href="Moonseye_Gauntlets.md"><font>Moonseye Gauntlets</font></a>, <a href="Providence_Coat.md"><font>Providence Coat</font></a></li><li><b>Generic Arms</b>: <a href="Assassin's_Cloak.md">Assassin's Cloak</a> (Pale)</li></ol></li><li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Enforcer_Boots.md">Enforcer Boots</a>, <a href="Star_Boots.md">Star Boots</a></li><li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Pathfinder's_Backpack.md">Pathfinder's Backpack</a></li><li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Demon_Mask.md">Demon Mask</a>, <a href="Hivelord_Mask.md">Hivelord Mask</a></li><li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: N/A</li><li><a href="Equipment.md#rings"><b>Rings</b></a>: <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Pariah's_Keepsake.md">Pariah's Keepsake</a>, <a href="Purifying_Ring.md">Purifying Ring</a>, <a href="Ring_of_Wisps.md">Ring of Wisps</a>, <a href="Windmill_Ring.md">Windmill Ring</a></li></ul></td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
+  <td>
+  <ul>
+    <li><b>Starter</b>: <a href="Eager_Tradesman.md">Eager Tradesman</a></li>
+    <li><b>Adept</b>: <a href="Diver_Apprentice_Robes.md">Diver Apprentice Robes</a>, <a href="Carefree_Garments.md">Carefree Garments</a></li>
+    <li><b>Expert</b>: <a href="Grand_Pathfinder_Cloak.md">Grand Pathfinder Cloak</a>, <a href="Varicosan_Finery.md">Varicosan Finery</a></li>
+    <li><b>Master</b>: <a href="Authority_Commander.md">Authority Commander</a>, <a href="Black_Diver.md">Black Diver</a>, <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li><a href="Items.md">Items</a>: All non-exclusive <a href="Deep_Gems.md">Deep Gems</a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Weapons.md">Weapons</a></b></td>
+  <td>
+  <ul>
+    <li><b>Legendary Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>, <a href="Deepspindle.md"><font>Deepspindle</font></a></li>
+    <li><b>Alloyed Weapons</b>: <a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></li>
+    <li><b>Generic Weapons</b>:
+  <ol>
+    <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></li>
+    <li><b>Medium Weapons</b>: <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Iron_Twinblade.md">Iron Twinblade</a>, <a href="Scalesplitter.md">Scalesplitter</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Enforcer's_Blade.md">Enforcer's Blade</a>, <a href="Iron_Birch.md">Iron Birch</a>, <a href="Pale_Morning.md">Pale Morning</a></li>
+  </ol></li>
+    <li><b>Offhand Weapons</b>: <a href="Parrying_Dagger.md">Parrying Dagger</a></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b><a href="Equipment.md">Equipment</a></b></td>
+  <td>
+  <ul>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Assassin's_Hood.md">Assassin's Hood</a> (Pale)</li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:
+  <ol>
+    <li><b>Legendary Arms</b>: <a href="Moonseye_Gauntlets.md"><font>Moonseye Gauntlets</font></a>, <a href="Providence_Coat.md"><font>Providence Coat</font></a></li>
+    <li><b>Generic Arms</b>: <a href="Assassin's_Cloak.md">Assassin's Cloak</a> (Pale)</li>
+  </ol></li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Enforcer_Boots.md">Enforcer Boots</a>, <a href="Star_Boots.md">Star Boots</a></li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Pathfinder's_Backpack.md">Pathfinder's Backpack</a></li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Demon_Mask.md">Demon Mask</a>, <a href="Hivelord_Mask.md">Hivelord Mask</a></li>
+    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: N/A</li>
+    <li><a href="Equipment.md#rings"><b>Rings</b></a>: <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Pariah's_Keepsake.md">Pariah's Keepsake</a>, <a href="Purifying_Ring.md">Purifying Ring</a>, <a href="Ring_of_Wisps.md">Ring of Wisps</a>, <a href="Windmill_Ring.md">Windmill Ring</a></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ## Tips from Experienced Depths Divers
 

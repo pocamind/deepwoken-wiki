@@ -91,7 +91,25 @@ Players can also give [artifacts](Artifacts.md) to banker NPCs, and in return th
 
 **Base Dialogue:**
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Welcome, esteemed customer, to the Luminary Bank! How can I help you?</td></tr><tr><td>Can I access my account?</td></tr><tr><td>[Opens Luminary Banking Co. UI]</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Welcome, esteemed customer, to the Luminary Bank! How can I help you?</td>
+</tr>
+<tr>
+  <td>Can I access my account?</td>
+</tr>
+<tr>
+  <td>[Opens Luminary Banking Co. UI]</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Unlockable Dialogues:**
 
@@ -99,16 +117,64 @@ Players can also give [artifacts](Artifacts.md) to banker NPCs, and in return th
 
 This dialogue will appear if the player is holding an [Artifact](Artifacts.md) while speaking to a Banker.
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Welcome, esteemed customer, to the Luminary Bank! How can I help you?</td></tr><tr><td>I'd like to turn in an object of interest. [Artifacts]</td></tr><tr><td>That's quite the find! How did you get that? We'll take it off your hands and hand it to the relevant authorities. I've reimbursed you for your trouble.</td></tr><tr><td>[End Dialogue], player gains loot and Notes</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Welcome, esteemed customer, to the Luminary Bank! How can I help you?</td>
+</tr>
+<tr>
+  <td>I'd like to turn in an object of interest. [Artifacts]</td>
+</tr>
+<tr>
+  <td>That's quite the find! How did you get that? We'll take it off your hands and hand it to the relevant authorities. I've reimbursed you for your trouble.</td>
+</tr>
+<tr>
+  <td>[End Dialogue], player gains loot and Notes</td>
+</tr>
+</tbody>
+</table>
 
 **Hostage:**
 
 This dialogue will appear if the player attempts to open their Bank whilst carrying an unconscious player.
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Welcome, esteemed customer, to the Luminary Bank! How can I help you?</td></tr><tr><td>Can I access my account?</td></tr><tr><td>Er... You're not trying to hold this stranger on your shoulder hostage, are you?</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Welcome, esteemed customer, to the Luminary Bank! How can I help you?</td>
+</tr>
+<tr>
+  <td>Can I access my account?</td>
+</tr>
+<tr>
+  <td>Er... You're not trying to hold this stranger on your shoulder hostage, are you?</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Wrong Guild:**
 
 This dialogue will appear if the player attempts to speak to a Banker in a different [Guild Base](Guild_Bases.md) than their own.
 
-<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Er, sorry, you don't have an account with us...</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Er, sorry, you don't have an account with us...</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
