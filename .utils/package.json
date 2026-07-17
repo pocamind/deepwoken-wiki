@@ -1,0 +1,10 @@
+{
+  "name": "deepwoken-wiki-archive-utils",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "cheerio": "1.0.0",
+    "turndown": "7.2.0",
+    "turndown-plugin-gfm": "1.0.2"
+  }
+}
