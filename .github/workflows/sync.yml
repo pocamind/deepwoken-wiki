@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  actions: write # to dispatch the bundle workflow after a changed sync
 
 concurrency:
   group: sync
@@ -25,6 +26,8 @@ jobs:
         working-directory: .utils
       - run: node .utils/scrape.mjs --concurrency 2
       - name: Commit and push
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -34,4 +37,6 @@ jobs:
           else
             git commit -m "sync: wiki changes $(date -u +'%Y-%m-%d %H:%MZ')"
             git push
+            # bot pushes never fire push-triggered workflows; dispatch the release explicitly
+            gh workflow run bundle.yml --ref main
           fi

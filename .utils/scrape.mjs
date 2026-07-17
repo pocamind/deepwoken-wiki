@@ -8,6 +8,7 @@ import { readFileSync, writeFileSync, mkdirSync, existsSync, rmSync, readdirSync
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { translate, slug } from "./translate.mjs";
+import { buildBundle } from "./bundle.mjs";
 
 const API = "https://deepwoken.fandom.com/api.php";
 const UA = "deepwoken-wiki-archive/1.0 (https://github.com/pocamind/deepwoken-wiki; contact via repo issues) node-fetch";
@@ -116,7 +117,7 @@ if (args.includes("--retranslate")) {
         if (++n % 250 === 0) console.log(`${n}/${files.length}`);
     }
     saveState();
-    console.log(`retranslated ${n} pages from cache`);
+    console.log(`retranslated ${n} pages from cache, bundled ${buildBundle()}`);
     process.exit(0);
 }
 
@@ -124,6 +125,7 @@ if (pageIdx >= 0) {
     const parse = await fetchParse(args[pageIdx + 1]);
     const filename = writePage(parse);
     saveState();
+    buildBundle();
     console.log(`wrote ${filename} (revid ${parse.revid})`);
     process.exit(0);
 }
@@ -135,11 +137,13 @@ console.log(`${all.length} content pages`);
 // pages deleted (or redirected) on the wiki since the last run: enumeration is
 // complete, so anything in state but not in it is gone — remove its file too
 const live = new Set(all.map((p) => String(p.pageid)));
+let pruned = 0;
 for (const [pageid, entry] of Object.entries(state)) {
     if (live.has(pageid)) continue;
     rmSync(join(ROOT, slug(entry.title)), { force: true });
     rmSync(join(CACHE, pageid + ".json"), { force: true });
     delete state[pageid];
+    pruned++;
     console.log(`pruned ${entry.title} (gone from wiki)`);
 }
 
@@ -169,4 +173,5 @@ async function worker() {
 await Promise.all(Array.from({ length: concurrency }, worker));
 saveState();
 if (aborted) throw aborted;
-console.log(`done: ${written} written, ${skipped} unchanged, ${failed} failed`);
+if (written + pruned > 0) buildBundle();
+console.log(`done: ${written} written, ${skipped} unchanged, ${pruned} pruned, ${failed} failed`);
