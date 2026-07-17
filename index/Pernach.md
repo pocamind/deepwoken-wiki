@@ -1,6 +1,6 @@
 ---
 title: Pernach
-revid: 212569
+revid: 220420
 source: https://deepwoken.fandom.com/wiki/Pernach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -33,12 +33,12 @@ categories: [Weapons, Clubs, Medium Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Maestro Evengarde Rest, Duke Erisia, Chaser, Scholar of the Crimson Contract, The Diluvian Mechanism, Erisia, Minityrsa, Saramaed Hollow, The Doom of Caeranthil, Random Encounters (Sea events, False Merchant Ship), Scion of Ethiron, Lodestar, Heart of Enmity, Starswept Valley, Interluminary Parasol, War Mode, Dread Serpent |
+| obtainment | Maestro Evengarde Rest, Duke Erisia, Chaser, Scholar of the Crimson Contract, The Diluvian Mechanism, Erisia, Minityrsa, Saramaed Hollow, The Doom of Caeranthil, Random Encounters (Sea events, False Merchant Ship), Scion of Ethiron, Heart of Enmity, Starswept Valley, Interluminary Parasol, War Mode, Dread Serpent |
 | description | ... |
 
 ## Description
 
-The **Pernach** is a medium blunt weapon in the [Club](Weapons.md#clubs) category. This flanged mace, considered to be the endgame version of the [Mace](Mace.md), has innate bleed and high armor penetration, making it one of the stronger weapons within its subclass.
+The **Pernach** is a medium blunt weapon in the [Club](Clubs.md) category. This flanged mace, considered to be the endgame version of the [Mace](Mace.md), has innate bleed and high armor penetration, making it one of the stronger weapons within its subclass.
 
 ## Critical
 

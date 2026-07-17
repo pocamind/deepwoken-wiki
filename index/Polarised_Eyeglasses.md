@@ -1,6 +1,6 @@
 ---
 title: Polarised Eyeglasses
-revid: 216859
+revid: 220435
 source: https://deepwoken.fandom.com/wiki/Polarised_Eyeglasses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Glasses]
@@ -21,7 +21,7 @@ categories: [Equipment, Face, Glasses]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Duke Erisia, Minityrsa, Songseeker Wilds, Maestro Evengarde Rest, Lodestar, Dread Serpent |
+| obtainment | Duke Erisia, Minityrsa, Songseeker Wilds, Maestro Evengarde Rest, Dread Serpent |
 | description | ... |
 
 ## Description
@@ -32,5 +32,5 @@ Eyeglasses can be obtained in Minityrsa and Songseeker Chests.
 
 ## Trivia
 
--   [The Guy's Eyeglasses](The_Guy.md) uses the same model as Polarised Eyeglasses
+-   [The Guy's Eyeglasses](<The_Guy's_Eyeglasses.md>) use the same model as Polarised Eyeglasses.
 -   Polarised Eyeglasses used to be called Polarized Sunglasses.

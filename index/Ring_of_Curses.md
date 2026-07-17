@@ -1,6 +1,6 @@
 ---
 title: Ring of Curses
-revid: 214371
+revid: 220537
 source: https://deepwoken.fandom.com/wiki/Ring_of_Curses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -14,13 +14,13 @@ categories: [Equipment, Rings]
 | rarity | Rare |
 | selling price | 25 |
 | requirements | Power 10 |
-| weight | 0.2 |
+| weight | 0.1 |
 | innate stats | None |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Etrea VS Eylis Sea Event, Primadon, Titan of the East, Deep Widow, First Layer, Lodestar, Heart of Enmity, Duke Ishamon Erisia, Maestro Evengarde Rest, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Chime of Conflict, Fishing, Voidsea, Moon's Eyrie, Ancient Rotlands (Deep Cave) |
+| obtainment | Chests from:, Etrea VS Eylis Sea Event, Primadon, Titan of the East, Deep Widow, First Layer, Heart of Enmity, Duke Ishamon Erisia, Maestro Evengarde Rest, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Chime of Conflict, Fishing, Lodestar Bounty job, Voidsea, Moon's Eyrie, Ancient Rotlands (Deep Cave) |
 | description | You come across mortal encounters more frequently. |
 
 ## Description

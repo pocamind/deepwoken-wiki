@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 220086
+revid: 220493
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons that cannot be equipped on Silentheart, Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons of The Summer Company]
@@ -30,7 +30,7 @@ categories: [Weapons that cannot be equipped on Silentheart, Weapons, Rifles, "A
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | The Ferryman, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Fury Nautilodaunt, Fishing (Chest), First Layer, Lodestar, The Diluvian Mechanism, Weird Trader, Sold in Traan Zakshun's black market for 4 |
+| obtainment | The Ferryman, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Fury Nautilodaunt, Fishing (Chest), Lodestar Bounty job, First Layer, The Diluvian Mechanism, Weird Trader, Sold in Traan Zakshun's black market for 4 |
 | description | Pilfered from a returning Union expedition party, the Summer Company saw the tremendous energy stored within Kyrsan Medallions and fashioned this uniquely violent prototype. Rosen allegedly burst into raucous laughter when presented with the draft, immediately giving his approval. |
 
 ## Description
@@ -39,7 +39,7 @@ The **Stormseye** is a Legendary [Rifle](Weapons.md) powered by a [Kyrsan Medall
 
 The Stormseye comes with 2 passive abilities:
 
--   **Medallion Shockwave** - Every third flourish creates an explosion that knocks people away and applies [Electrified](Status_Effects.md#electrified). This has a 10 second cooldown. If the user has Surge Path: Unstable Capacitator, the passive applies a surge stack with this flourish instead.
+-   **Medallion Shockwave** - Every third flourish creates an explosion that knocks people away and applies [Shock](Status_Effects.md#shock). This has a 10 second cooldown. If the user has Surge Path: Unstable Capacitator, the passive applies a surge stack with this flourish instead.
 
 -   **Rosen's Fakeout** - At close range, aerial M1s teleport you behind the enemy.
     -   Due to how weapon passives work, this is one of few passives that can be transferred to another weapon equipped by abnormal means.

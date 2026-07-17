@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Ring"
-revid: 214360
+revid: 220522
 source: https://deepwoken.fandom.com/wiki/Armorer's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -14,20 +14,20 @@ categories: [Equipment, Rings]
 | rarity | Legendary |
 | selling price | 50 |
 | requirements | None |
-| weight | 0.2 |
+| weight | 0.1 |
 | innate stats | +1 Uncommon Pip |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, The Ferryman, Aelita (Extremely Rare), Duke Ishamon Erisia, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Interluminary Parasol, Summer Isle, Second Layer, Maestro Evengarde Rest, The Doom of Caeranthil, War Mode, Chime of Conflict, Saramaed Hollow, Authority Ensign Missions, Ancient Rotlands (Deep Cave) |
+| obtainment | Chests from:, The Ferryman, Aelita (Extremely Rare), Duke Ishamon Erisia, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Interluminary Parasol, Summer Isle, Second Layer, Maestro Evengarde Rest, The Doom of Caeranthil, War Mode, Chime of Conflict, Lodestar Bounty job, Saramaed Hollow, Authority Ensign Missions, Ancient Rotlands (Deep Cave) |
 | description | Ring imbued with self-fortifying Ironsing. Reduces Armor loss by 25%. |
 
 ## Description
 
 **Armorer's Ring** is a Ring [Equipment](Equipment.md) piece that grants the user 25% reduction to incoming armor damage, including damage from the [Metal](Metal.md) Enchant.
 
-This does not reduce the armor damage from any of [Ironsing's](Ironsing.md) abilities.
+This does not reduce the armor damage from any of [Ironsing](Ironsing.md)'s abilities.
 
 ## Trivia
 

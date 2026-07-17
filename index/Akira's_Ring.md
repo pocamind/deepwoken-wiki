@@ -1,6 +1,6 @@
 ---
 title: "Akira's Ring"
-revid: 214358
+revid: 220521
 source: https://deepwoken.fandom.com/wiki/Akira's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, The Divers, Scaling Rings]
@@ -14,13 +14,13 @@ categories: [Equipment, Rings, The Divers, Scaling Rings]
 | rarity | Legendary |
 | selling price | 50 |
 | requirements | N/A |
-| weight | 0.2 |
+| weight | 0.1 |
 | innate stats | +1 Legendary Pip |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Aelita (Extremely Rare), The Ferryman, Duke Ishamon Erisia, Second Layer, The Doom of Caeranthil, Interluminary Parasol, Ancient Rotlands, The Starswept Valley, Fort Merit (Extremely Rare), Maestro Evengarde Rest, Trading with Jeremiah, Ancient Rotlands (Deep Cave) |
+| obtainment | The Ferryman, Duke Ishamon Erisia, Second Layer, The Doom of Caeranthil, Interluminary Parasol, The Starswept Valley, Lodestar Bounty job, Maestro Evengarde Rest, Trading with Jeremiah, Ancient Rotlands (Deep Cave) |
 | description | A ring once worn by a Black Diver. It seems he's since passed the need for such trinkets. +1.2 WLL scaling to all weapons. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Hive Drone
-revid: 209630
+revid: 220482
 source: https://deepwoken.fandom.com/wiki/Hive_Drone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, The Hive, Outfits with Talents, "Outfits with Non-exclusive Talents"]
@@ -20,7 +20,7 @@ categories: [Outfits, Expert Outfits, The Hive, Outfits with Talents, "Outfits w
 | durability | 1000 |
 | resistances | +25% Physical Armor , +5% Blunt Armor +25% Elemental Armor , +5% Wind Armor |
 | talents | Lowstride |
-| obtainment | Chests from:, Starswept Valley, Summer Isle, Rogue Construct, The Depths, Lodestar, Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 , Sea EventsVow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
+| obtainment | Chests from:, Starswept Valley, Summer Isle, Rogue Construct, Lodestar Bounty job, The Depths, Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 , Sea EventsVow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

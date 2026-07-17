@@ -1,6 +1,6 @@
 ---
 title: Dew Drop Earrings
-revid: 215368
+revid: 220519
 source: https://deepwoken.fandom.com/wiki/Dew_Drop_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -21,7 +21,7 @@ categories: [Equipment, Ears]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, First Layer, The Doom of Caeranthil, Maestro Evengarde Rest, Lodestar, Interluminary Parasol, Dread Serpent, Sea Events |
+| obtainment | Chests from:, Aratel Island, First Layer, The Doom of Caeranthil, Maestro Evengarde Rest, Interluminary Parasol, Dread Serpent, Lodestar Bounty job, Sea Events |
 | description | ... |
 
 ## Description

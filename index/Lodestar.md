@@ -1,6 +1,6 @@
 ---
 title: Lodestar
-revid: 220174
+revid: 220485
 source: https://deepwoken.fandom.com/wiki/Lodestar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Enemies with Oaths]
@@ -135,7 +135,7 @@ Exhaustive Loot Table
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>Legendary Weapons</b>: <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a> <a href="Guiding_Star.md"><font>Guiding Star</font></a> (Direct Drop, <b>Guaranteed</b>), <a href="Stormseye.md"><font>Stormseye</font></a></li>
+    <li><b>Legendary Weapons</b>: <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>, <a href="Guiding_Star.md"><font>Guiding Star</font></a> (Direct Drop, <b>Guaranteed</b>), <a href="Stormseye.md"><font>Stormseye</font></a></li>
     <li><b>Alloyed Weapons</b>:</li>
     <li><b>Generic Weapons</b>:
   <ol>

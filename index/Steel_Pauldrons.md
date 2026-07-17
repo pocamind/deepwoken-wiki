@@ -1,6 +1,6 @@
 ---
 title: Steel Pauldrons
-revid: 210824
+revid: 220504
 source: https://deepwoken.fandom.com/wiki/Steel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:, Duke Erisia, The Depths (First Layer), Erisia, Lodestar, Saramaed Hollow, Deep Widow |
+| obtainment | Chests From:, Duke Erisia, First Layer, Erisia, Lodestar Bounty job, Saramaed Hollow, Deep Widow |
 | description | Excellent protection for your shoulders. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Flameguard Pauldrons
-revid: 216993
+revid: 220499
 source: https://deepwoken.fandom.com/wiki/Flameguard_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:, Aratel Island, Minityrsa, Songseeker Wilds, Maestro Evengarde Rest, Saramaed Hollow |
+| obtainment | Chests From:, Aratel Island, Minityrsa, Songseeker Wilds, Lodestar Bounty job, Maestro Evengarde Rest, Saramaed Hollow |
 | description | ... |
 
 ## Description

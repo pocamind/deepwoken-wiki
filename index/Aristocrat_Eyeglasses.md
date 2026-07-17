@@ -1,6 +1,6 @@
 ---
 title: Aristocrat Eyeglasses
-revid: 215113
+revid: 220514
 source: https://deepwoken.fandom.com/wiki/Aristocrat_Eyeglasses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Face, Glasses]
@@ -24,7 +24,7 @@ categories: [Equipment with Styles, Equipment, Face, Glasses]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Ishamon Erisia, First Layer, Second Layer, Lodestar, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Interluminary Parasol, Saramaed Hollow, Summer Isle |
+| obtainment | Chests from:, Duke Ishamon Erisia, First Layer, Lodestar Bounty job, Second Layer, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Interluminary Parasol, Saramaed Hollow, Summer Isle |
 | description | ... |
 
 ## Description

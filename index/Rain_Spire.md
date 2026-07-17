@@ -1,6 +1,6 @@
 ---
 title: Rain Spire
-revid: 202765
+revid: 220483
 source: https://deepwoken.fandom.com/wiki/Rain_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items, Spires]
@@ -19,7 +19,7 @@ categories: [Relics, Items, Spires]
 | droppable | No |
 | pass down | No |
 | desc | Summon a temporary storm at your location. |
-| obtainment | Second Layer, Chaser, Scion of Ethiron, The Diluvian Mechanism, Pure Astruline Turn-ins, Chime of Conflict, Fishing, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, First Layer, The Doom of Caeranthil, War Mode, Sold in Traan Zakshun's black market for 1 |
+| obtainment | Second Layer, Chaser, Scion of Ethiron, The Diluvian Mechanism, Pure Astruline Turn-ins, Chime of Conflict, Fishing, Lodestar Bounty job, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, First Layer, The Doom of Caeranthil, War Mode, Sold in Traan Zakshun's black market for 1 |
 
 ## Description
 

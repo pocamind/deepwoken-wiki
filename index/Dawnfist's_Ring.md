@@ -1,6 +1,6 @@
 ---
 title: "Dawnfist's Ring"
-revid: 217914
+revid: 220523
 source: https://deepwoken.fandom.com/wiki/Dawnfist's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, Scaling Rings]
@@ -14,13 +14,13 @@ categories: [Equipment, Rings, Scaling Rings]
 | rarity | Legendary |
 | selling price | 50 |
 | requirements | N/A |
-| weight | 0.2 |
+| weight | 0.1 |
 | innate stats | +1 Legendary Pip |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | The Ferryman, Summer Isle, Duke Ishamon Erisia, The Doom of Caeranthil, Deep Widow, Second Layer, Ancient Rotlands (Deep Cave), Maestro Evengarde Rest, Interluminary Parasol, Chime of Conflict, Saramaed HollowTrading with Jeremiah |
+| obtainment | The Ferryman, Summer Isle, Duke Ishamon Erisia, The Doom of Caeranthil, Deep Widow, Second Layer, Ancient Rotlands (Deep Cave), Maestro Evengarde Rest, Interluminary Parasol, Chime of Conflict, Saramaed Hollow, Lodestar Bounty job, Trading with Jeremiah |
 | description | A ring once worn by an unparalleled warrior. It seems they finally met their match. +1.2 STR scaling to all weapons. |
 
 ## Description

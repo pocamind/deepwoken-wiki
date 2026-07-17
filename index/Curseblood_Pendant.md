@@ -1,6 +1,6 @@
 ---
 title: Curseblood Pendant
-revid: 211801
+revid: 220447
 source: https://deepwoken.fandom.com/wiki/Curseblood_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -21,7 +21,7 @@ categories: [Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Second Layer, Fishing, Songseeker Wilds, Lodestar, Dread Serpent, Saramaed Hollow, Minityrsa, Primadon, Titan of the East |
+| obtainment | Second Layer, Fishing, Songseeker Wilds, Dread Serpent, Saramaed Hollow, Minityrsa, Primadon, Titan of the East |
 | description | ... |
 
 ## Description

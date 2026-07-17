@@ -1,6 +1,6 @@
 ---
 title: Light Eater Ring
-revid: 217843
+revid: 220445
 source: https://deepwoken.fandom.com/wiki/Light_Eater_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Ishamon Erisia, First Layer, Heart of Enmity, Lodestar, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, War Mode, Dread Serpent, Authority Ensign Missions, Saramaed Hollow, Deep Widow, Ancient Rotlands (Deep Cave)Drops from:, Nell, Master of Frost |
+| obtainment | Chests from:, Duke Ishamon Erisia, First Layer, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, War Mode, Dread Serpent, Authority Ensign Missions, Saramaed Hollow, Deep Widow, Ancient Rotlands (Deep Cave)Drops from:, Nell, Master of Frost |
 | description | Taking damage from fire or lightning will cause you to regenerate ether. |
 
 ## Description

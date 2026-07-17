@@ -1,6 +1,6 @@
 ---
 title: Wind Gem
-revid: 218247
+revid: 220491
 source: https://deepwoken.fandom.com/wiki/Wind_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]
@@ -19,7 +19,7 @@ categories: [Treasures, Mantras, Deep Gems]
 | droppable | Yes |
 | pass down | No |
 | desc | It breathes...On hit, apply a speed boost for 10s (10s CD) |
-| obtainment | Maestro Evengarde Rest (several guaranteed), Primadon, Chaser, Scion of Ethiron, Ferryman, First Layer, Sea Events, Fishing, Etris: Siege, Deep Crucible, Trial of the Gourdskipper, The Diluvian Mechanism, Saramaed HollowVow of Iron:, Ether Erudite Memento, Found in The Depths, The Depths chests |
+| obtainment | Maestro Evengarde Rest (guaranteed), Primadon, Chaser, Scion of Ethiron, Ferryman, Lodestar Bounty job, First Layer, Sea Events, Fishing, Cinders of Etris, Deep Crucible, Trial of the Gourdskipper, The Diluvian Mechanism, Saramaed HollowVow of Iron:, Ether Erudite Memento, Found in The Depths, The Depths chests |
 
 ## Description
 

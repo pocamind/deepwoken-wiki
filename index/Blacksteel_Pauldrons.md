@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pauldrons
-revid: 218993
+revid: 220498
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Saramaed Hollow, Erisia, Maestro Evengarde Rest, The Doom of Caeranthil, Interluminary Parasol, Heart of Enmity, Deep WidowDrops from:, Blacksteel Pirates and Blacksteel Pirate Captains |
+| obtainment | Chests from:, Saramaed Hollow, Erisia, Maestro Evengarde Rest, The Doom of Caeranthil, Interluminary Parasol, Heart of Enmity, Lodestar Bounty job, Deep WidowDrops from:, Blacksteel Pirates and Blacksteel Pirate Captains |
 | description | ... |
 
 Blacksteel Set

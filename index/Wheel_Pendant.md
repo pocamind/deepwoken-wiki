@@ -1,6 +1,6 @@
 ---
 title: Wheel Pendant
-revid: 217315
+revid: 220513
 source: https://deepwoken.fandom.com/wiki/Wheel_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Equipment, Torso, Necklaces]
@@ -21,7 +21,7 @@ categories: [Equipment with Styles, Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Second Layer, Hell Mode, Ministry Scout, Maestro Evengarde Rest, Lodestar, Dread Serpent, Saramaed Hollow, Voidwalker Chests, Chaser, Scholar of the Crimson Contract, Deep Widow |
+| obtainment | Second Layer, Hell Mode, Ministry Scout, Maestro Evengarde Rest, Dread Serpent, Saramaed Hollow, Bounties, Lodestar Bounty job, Chaser, Scholar of the Crimson Contract, Deep Widow |
 | description | ... |
 
 ## Description

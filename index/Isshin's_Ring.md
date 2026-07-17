@@ -1,6 +1,6 @@
 ---
 title: "Isshin's Ring"
-revid: 214377
+revid: 220534
 source: https://deepwoken.fandom.com/wiki/Isshin's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -14,14 +14,14 @@ categories: [Equipment, Rings]
 | rarity | Rare |
 | selling price | 25 |
 | requirements | Power 5 |
-| weight | 0.2 |
+| weight | 0.1 |
 | innate stats | N/A |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, First Layer, Duke Ishamon Erisia, Chaser, Scholar of the Crimson Contract, Primadon, Titan of the East, Etrea VS Eylis Sea Event, Heart of Enmity, Lodestar, Maestro Evengarde Rest, War Mode, Saramaed Hollow, Chime of Conflict, Dread Serpent, Deep Widow, Authority Ensign Missions, Ancient Rotlands (Deep Cave) |
+| obtainment | Chests from:, First Layer, Duke Ishamon Erisia, Chaser, Scholar of the Crimson Contract, Primadon, Titan of the East, Etrea VS Eylis Sea Event, Heart of Enmity, Maestro Evengarde Rest, War Mode, Saramaed Hollow, Chime of Conflict, Lodestar Bounty job, Dread Serpent, Deep Widow, Authority Ensign Missions, Ancient Rotlands (Deep Cave) |
 | description | Ring of A wandering Swordsman. Take 1.2x damage and deal 1.15x damage when in close-quarters combat. |
 
 ## Description
