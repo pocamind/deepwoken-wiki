@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 220119
+revid: 220411
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -139,9 +139,9 @@ While active, suffer from 50% [Anti-Heal](#anti-heal) for 10 seconds, halving al
 
 While active, suffer from 80% [Anti-Heal](#anti-heal) meaning you will only get healed 20% of any healing source instead of the full heal. This effect can be applied through being hit by a [Mudskipper Broodlord](Mudskipper_Broodlord.md). This effect is amplified in [The Diluvian Mechanism](The_Diluvian_Mechanism.md) but does not apply to health packs from killing monsters, and reduced in [Hell Mode](Hell_Mode.md). This does not stack with any other source of [Anti-Heal](#anti-heal), as the higher potency [Anti-Heal](#anti-heal) will take priority. Signified by purple smoke on your character.
 
-### Fear
+### Primal Fear
 
-Take 12.5% more damage and 1.5x posture damage while also disabling [Murmur: Tacet](Murmur%253A_Tacet.md). Applied through a [Megalodaunt's](Megalodaunt.md) roar, [Primadon's](Primadon,_Titan_of_the_East.md) Phase 2 transformation and by [Ardour Scream](Talents.md#ardour-scream). Signified by pink/purple particles on your character.
+Incoming attacks deal 12.5% more damage and 50% more posture damage, while also disabling [Murmur: Tacet](Murmur%253A_Tacet.md). Applied through a [Megalodaunt](Megalodaunt.md)'s roar, [Primadon](Primadon,_Titan_of_the_East.md)'s Phase 2 transformation and by [Ardour Scream](Talents.md#ardour-scream). Signified by pink/purple particles on your character.
 
 ### Blinded
 
