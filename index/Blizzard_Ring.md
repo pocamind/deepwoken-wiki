@@ -14,7 +14,7 @@ categories: [Pathfinder Exclusive, Equipment, Relics, Rings, Equipment Relics, C
 | rarity | Relic |
 | selling price | 100 |
 | requirements | Power 5 |
-| weight | 0.1 |
+| weight | 0.2 |
 | innate stats | None |
 | bankable | No |
 | droppable | No |

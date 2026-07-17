@@ -14,7 +14,7 @@ categories: [Equipment, Rings]
 | rarity | Legendary |
 | selling price | 50 |
 | requirements | Power 10 |
-| weight | 0.1 |
+| weight | 0.2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

@@ -14,7 +14,7 @@ categories: [Equipment, Rings]
 | rarity | Rare |
 | selling price | 25 |
 | requirements | Power 10 |
-| weight | 0.1 |
+| weight | 0.2 |
 | innate stats | None |
 | bankable | Yes |
 | droppable | Yes |

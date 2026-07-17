@@ -1,6 +1,6 @@
 ---
 title: Terrains
-revid: 110716
+revid: 220396
 source: https://deepwoken.fandom.com/wiki/Terrains
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]

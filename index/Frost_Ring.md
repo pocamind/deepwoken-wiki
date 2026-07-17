@@ -13,7 +13,7 @@ categories: [Equipment, Rings, Relics, Equipment Relics, Craftable]
 | type | Ring |
 | rarity | Relic |
 | selling price | 100 |
-| weight | 0.1 |
+| weight | 0.2 |
 | innate stats | N/A |
 | innate talent | N/A |
 | bankable | No |

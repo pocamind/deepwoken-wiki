@@ -14,7 +14,7 @@ categories: [Equipment, Rings]
 | rarity | Legendary |
 | selling price | 50 |
 | requirements | None |
-| weight | 0.1 |
+| weight | 0.2 |
 | innate stats | +2 Rare Pips |
 | bankable | Yes |
 | droppable | Yes |

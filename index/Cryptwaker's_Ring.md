@@ -14,7 +14,7 @@ categories: [Rings, Equipment]
 | rarity | Legendary |
 | selling price | 50 |
 | requirements | Power 15 |
-| weight | 0.1 |
+| weight | 0.2 |
 | innate stats | +1 Uncommon Pip |
 | bankable | No |
 | droppable | No |

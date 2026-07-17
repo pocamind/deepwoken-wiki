@@ -1,14 +1,18 @@
 ---
 title: The Heavens
-revid: 212063
+revid: 220388
 source: https://deepwoken.fandom.com/wiki/The_Heavens
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, The Heavens, "Non-playable locations"]
+categories: ["Content not present in-game", Stub pages without reason, StubPages, The Heavens, "Non-playable locations"]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # The Heavens
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

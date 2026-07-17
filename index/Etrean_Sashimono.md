@@ -1,6 +1,6 @@
 ---
 title: Etrean Sashimono
-revid: 216836
+revid: 217188
 source: https://deepwoken.fandom.com/wiki/Etrean_Sashimono
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment with Styles, Pathfinder Exclusive, Equipment, Torso, Equipment with Exclusive Talents, Equipment with Talents, Etrea]
@@ -30,13 +30,15 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Etrean Sashimono is a traditional banner [Equipment](Equipment.md) dropped by [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
+The Etrean Sashimono is an [Equipment](Equipment.md) item under the "Torso" category.
+
+It is a traditional banner dropped by [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
 
 The [Traditional Execution](Talents.md#traditional-execution) Talent changes your next critical attack to the [Katana](Katana.md)'s critical after landing a Flourish. This also extends the duration of [Dancing Steps Of War](Talents.md#dancing-steps-of-war), [Geta](Geta.md)'s Talent, by 0.5 seconds on proc.
 
 ## Trivia
 
--   A _[sashimono](https://en.wikipedia.org/wiki/sashimono)_ is a banner worn by soldiers during Feudal Japan.
+-   A _[sashimono](https://en.wikipedia.org/wiki/sashimono)_ is a banner that was worn by soldiers during Feudal Japan.
 -   Two of the Styles are nods to flags used by the [LGBTQ community](https://en.wikipedia.org/wiki/LGBTQ_community).
     -   The Pride Style is of the [Pride flag](<https://en.wikipedia.org/wiki/Rainbow_flag_(LGBTQ)>).
     -   The Joy Style is of the [Transgender flag](https://en.wikipedia.org/wiki/Transgender_flag).

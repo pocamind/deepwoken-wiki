@@ -1,11 +1,9 @@
 ---
 title: Rolen Vashtir
-revid: 216003
+revid: 220392
 source: https://deepwoken.fandom.com/wiki/Rolen_Vashtir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Individuals with He/him pronouns, Kings of Etrea]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: ["Content not present in-game", Individuals with He/him pronouns, Kings of Etrea]
 ---
 
 # Rolen Vashtir
@@ -18,6 +16,10 @@ notices:
 | pronouns | He/him[1] |
 | affiliation | Etrea |
 | death | Disappeared into the Voidsea[1] |
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

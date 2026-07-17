@@ -13,7 +13,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings]
 | type | Ring |
 | rarity | Common |
 | selling price | 7 |
-| weight | 0.1 |
+| weight | 0.2 |
 | bankable | No |
 | droppable | No |
 | enchantable | No |

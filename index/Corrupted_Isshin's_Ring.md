@@ -14,7 +14,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics, 
 | rarity | Relic |
 | selling price | 100 |
 | requirements | Power 5 |
-| weight | 0.1 |
+| weight | 0.2 |
 | innate stats | N/A |
 | innate talent | N/A |
 | bankable | No |

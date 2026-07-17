@@ -14,7 +14,7 @@ categories: [Equipment, Rings]
 | rarity | Rare |
 | selling price | 25 |
 | requirements | N/A |
-| weight | 0.1 |
+| weight | 0.2 |
 | innate stats | +2% Elemental Armor , +2% Ice Armor +2% Wind Armor |
 | bankable | Yes |
 | droppable | Yes |

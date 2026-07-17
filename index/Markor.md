@@ -1,15 +1,18 @@
 ---
 title: Markor
-revid: 193572
+revid: 220385
 source: https://deepwoken.fandom.com/wiki/Markor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages, Locations in the Central Luminant, Locations, Territory of The Central Authority]
+categories: ["Content not present in-game", Stub pages without reason, StubPages, Locations in the Central Luminant, Locations, Territory of The Central Authority]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Markor
+
+**Content is not present in-game**  
+The subject of this page is mentioned in-game, but is not tangibly implemented into the game.  
+E.G. a character mentioned in a book doesn't exist as an interactible NPC.
 
 ## Description
 

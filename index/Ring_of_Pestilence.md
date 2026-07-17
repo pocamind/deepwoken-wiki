@@ -14,7 +14,7 @@ categories: [Equipment, Rings]
 | rarity | Rare |
 | selling price | 25 |
 | requirements | None |
-| weight | 0.1 |
+| weight | 0.2 |
 | innate stats | N/A |
 | innate talent | N/A |
 | bankable | Yes |

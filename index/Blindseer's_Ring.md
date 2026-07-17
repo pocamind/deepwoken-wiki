@@ -14,7 +14,7 @@ categories: [Equipment, Rings]
 | rarity | Uncommon |
 | selling price | 14 |
 | requirements | N/A |
-| weight | 0.1 |
+| weight | 0.2 |
 | innate stats | +10 Sanity , +1 Uncommon Pip |
 | bankable | No |
 | droppable | No |

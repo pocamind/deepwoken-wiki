@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 220083
+revid: 220400
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Central Authority]
@@ -215,7 +215,6 @@ Obtained after the first _Enchained_ [Hunted Player](Reputation.md#reputation-st
 
 -   Deals 5.5 damage and 6 posture per hit, totaling to 22 damage and 24 posture if all 4 orbs connect.
 -   Procs Chainlash on the _**first**_ hit, past 15 studs. (Procs through block)
-    -   Innately has Chainlash, does not require the card to proc.
     -   Impel's Chainlash can be movestacked with Mantras, although it ends Chainlash early, removing the kick. (Very small window to movestack, needs testing)
 -   Max range of 45 studs, however over past 40 studs Enchained is cleared, cancelling Chainlash.
 -   Fires 4 projectiles in the direction you are facing, but can be mouse aimed out of shiftlock. (Aim is slightly delayed)

@@ -14,7 +14,7 @@ categories: [Equipment, Rings, Scaling Rings, The Summer Company]
 | rarity | Legendary |
 | selling price | 50 |
 | requirements | N/A |
-| weight | 0.1 |
+| weight | 0.2 |
 | innate stats | +1 Legendary Pip |
 | bankable | Yes |
 | droppable | Yes |

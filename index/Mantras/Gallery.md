@@ -7994,7 +7994,6 @@ N/A
 -   Taunt deals 0 Posture dmg and doesn't go through block, parry or dodge.
 -   Can be upgraded with the [Off your Game](../Talents.md#off-your-game) Talent, allowing you to slow Taunted opponents when hitting them.
 -   Can be upgraded with the [Oh the Irony](../Talents.md#oh-the-irony) Talent, which doubles the amount of [metal rods](../Ironsing.md) applied to Taunted enemies.
--   Taunt's duration will be increased by 8 seconds if you have the Throat [Food Buff](../Status_Effects.md#food-buff).
 -   Using Taunt on any humanoid [boss](../Bosses.md) (excluding [Titus](../Titus_Fulminus_Destellus.md)) will instantly start the fight, skipping all dialogue.
 
  |
@@ -8038,7 +8037,6 @@ N/A
 -   Shares a cooldown with [Glare](../Attunement-less.md#glare).
 -   Can be upgraded with the [Encore](../Talents.md#encore) Talent, applying **true stun** if you land Sing on a Charmed opponent.
 -   Can be upgraded with the [Propagandist](../Talents.md#propagandist) Talent, granting your allies [Overcharm](../Status_Effects.md) for 15 seconds.
--   Sing gains a noticeable range increase while you have the Throat [Food Buff](../Status_Effects.md#food-buff).
 
  |
 | 

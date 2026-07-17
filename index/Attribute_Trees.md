@@ -1,11 +1,11 @@
 ---
 title: Attribute Trees
-revid: 211513
+revid: 220377
 source: https://deepwoken.fandom.com/wiki/Attribute_Trees
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages]
+categories: [OutdatedPages]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
+  - This page may contain incorrect information. Please wait for an updated version to release.
 ---
 
 # Attribute Trees

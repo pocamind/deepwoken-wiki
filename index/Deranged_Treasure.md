@@ -13,7 +13,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 | type | Ring |
 | rarity | Relic |
 | selling price | 100 |
-| weight | 0.1 |
+| weight | 0.2 |
 | innate stats | N/A |
 | bankable | No |
 | droppable | No |

@@ -14,7 +14,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 | rarity | Relic |
 | selling price | 100 |
 | requirements | N/A |
-| weight | 0.1 |
+| weight | 0.2 |
 | innate stats | +1 Uncommon Pip |
 | bankable | Yes |
 | droppable | Yes |
