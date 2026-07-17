@@ -1,0 +1,36 @@
+---
+title: Brilliant Boots
+revid: 220249
+source: https://deepwoken.fandom.com/wiki/Brilliant_Boots
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment with Styles, Equipment, Legs, Boots]
+---
+
+# Brilliant Boots
+
+| Brilliant Boots | |
+|---|---|
+| type | Legs |
+| rarity | Rare |
+| selling price | 25 |
+| requirements | None |
+| weight | 1 |
+| styles | Brushed, Rough |
+| innate stats | +2 Rare Pips |
+| innate talent | N/A |
+| set | Brilliant Pauldrons, Brilliant Boots, Brilliant Cape |
+| set talent | N/A |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Chests from:, Erisia, Songseeker Wilds, Minityrsa, Maestro Evengarde Rest, Dread Serpent |
+| description | ... |
+
+## Description
+
+The Brilliant Boots are an [Equipment](Equipment.md) item under the "Legs" category.
+
+## Trivia
+
+-   The entire Brilliant set Is a reference to [Ike](https://fireemblemwiki.org/wiki/Ike) from his appearance in [Fire Emblem: Radiant Dawn](https://fireemblemwiki.org/wiki/Fire_Emblem:_Radiant_Dawn)

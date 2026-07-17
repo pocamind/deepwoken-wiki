@@ -1,0 +1,36 @@
+---
+title: The Birdcage
+revid: 192896
+source: https://deepwoken.fandom.com/wiki/The_Birdcage
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant]
+---
+
+# The Birdcage
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+LocationL The Birdcage LocationR
+
+Now abandoned, the floors still void of the ashes they so desparately crave.
+
+  
+
+**The Birdcage** is a [location](Locations.md) found in _Deepwoken_. It is a landmark found in [Upper Erisia](Upper_Erisia.md) and is not owned by a faction.
+
+## Overview
+
+The Birdcage resembles a lighthouse-like structure. It is on the furthest bottom right side the Erisia island, to the direct south south-east of the [Temple of the Forgotten Flame](Temple_of_the_Forgotten_Flame.md).
+
+Inside the Birdcage, there are four firepits that can only be lit with a [Soul Hearthgem](Soul_Hearthgem.md). You can interact with the firepits when you have the item equipped, and have to light the pits in a specific order.
+
+-   Using the second picture in gallery as reference; you must light the left firepit, then the bottom firepit, then the top firepit and finally the right firepit.
+-   Failing to light these in a character order will fling your character and drain you of your Ether. The firepits will be reset.
+
+Lighting these firepits will allow you to enter the _Legionaire Cave_, where you can obtain [Intelligence Unbound](Attributes_Unbound.md).
+
+## Maps
+
+A map can be found at [Maps#Surface](Maps.md#surface)

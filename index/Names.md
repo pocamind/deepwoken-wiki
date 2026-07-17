@@ -1,0 +1,1942 @@
+---
+title: Names
+revid: 201502
+source: https://deepwoken.fandom.com/wiki/Names
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Character, Creation, Mechanics]
+---
+
+# Names
+
+## Description
+
+Your Name is one of the many ways to choose how you appear in-game to yourself and others.
+
+-   A Randomized name will be assigned to you at the beginning of character creation, though this may be changed at any time during the process or later at a [Barber](Barber.md) for 100 notes.
+
+-   Your name consists of a first name and last name. Some characters may obtain a "Title" after their name, which is indicated with a comma after the name, although these are exclusive to community events and the moderation team.
+
+-   First names may be chosen from 3 pools of Masculine, Feminine and Neutral choices.
+-   Last names are exclusive to each [Aspect](Aspects.md).
+
+## Flairs
+
+Flairs are cosmetic name colours obtained by surpassing the most difficult challenges in-game, including PvP and PvE accomplishments. They will change the colour of your name on the character list (Top-Right corner in-game) depending on which flair(s) you have obtained. If you have obtained more than one flair, the one with the lowest priority will display on the character list.
+
+<table><caption></caption><tbody><tr><th>Flair</th><th>Priority</th><th>Requirements</th></tr><tr><td>Bronze</td><td>5</td><td>Currently holding between the 1000th-251st rank within the Chime of Conflict.</td></tr><tr><td>Emerald</td><td>4</td><td>Obtain the badge "W-Rank", obtainable through getting S-Rank (all echo quests) with all echo modifiers enabled.</td></tr><tr><td>Silver</td><td>3</td><td>Currently holding between the 250th-51st rank within the Chime of Conflict.</td></tr><tr><td>Gold</td><td>2</td><td>Currently holding between the 50th-11th rank within the Chime of Conflict.</td></tr><tr><td>Ruby</td><td>1</td><td>Currently holding between the 10th-1st rank within the Chime of Conflict.</td></tr></tbody></table>
+
+## First Names
+
+**Masculine:**
+
+  
+
+-   Aaron
+-   Abdul
+-   Abdullah
+-   Abel
+-   Abraham
+-   Ace
+-   Achilles
+-   Adam
+-   Adran
+-   Adrian
+-   Aemilius
+-   Aesop
+-   Agares
+-   Agrippa
+-   Ahab
+-   Ahaz
+-   Ahmad
+-   Alan
+-   Alaric
+-   Albion
+-   Alder
+-   Aldrich
+-   Alex
+-   Alexander
+-   Alfie
+-   Ali
+-   Allen
+-   Alloras
+-   Alm
+-   Alphonse
+-   Alto
+-   Altrius
+-   Alucard
+-   Alyx
+-   Amaros
+-   Amaryllis
+-   Amir
+-   Ammar
+-   Amon
+-   Andrae
+-   Andre
+-   Andrew
+-   Andy
+-   Angel
+-   Anos
+-   Antarc
+-   Anthony
+-   Antonio
+-   Anubis
+-   Apollon
+-   Argalia
+-   Argus
+-   Armadeus
+-   Arnald
+-   Artemis
+-   Arthas
+-   Arthur
+-   Artminas
+-   Artorias
+-   Aryn
+-   Ash
+-   Asher
+-   Aspen
+-   Astra
+-   Atlas
+-   Atreus
+-   August
+-   Augustus
+-   Avery
+-   Axon
+-   Azel
+-   Balthasar
+-   Banjo
+-   Bartholomew
+-   Basil
+-   Benjamin
+-   Beowulf
+-   Berkut
+-   Bernard
+-   Billy
+-   Binah
+-   Blake
+-   Blue
+-   Boyd
+-   Brad
+-   Brandon
+-   Brent
+-   Brian
+-   Briar
+-   Brick
+-   Byron
+-   Cadaver
+-   Cain
+-   Calar
+-   Caliban
+-   Cameron
+-   Carlos
+-   Casey
+-   Caspian
+-   Cass
+-   Cassidy
+-   Cassiopeia
+-   Castor
+-   Chad
+-   Chance
+-   Charles
+-   Charlie (unintentionally listed twice)
+-   Chert
+-   Chesed
+-   Chilchuck
+-   Chris
+-   Christopher
+-   Chuck
+-   Cicero
+-   Cinnabar
+-   Claudius
+-   Clay
+-   Clement
+-   Clive
+-   Cody
+-   Cole
+-   Colt
+-   Connor
+-   Conrad
+-   Cornelius
+-   Corvo
+-   Cozen
+-   Creon
+-   Crona
+-   Crow
+-   Cygnet
+-   Cypress
+-   Cyrus
+-   Daedalus
+-   Dalinar
+-   Damien
+-   Dani
+-   Daniel
+-   Danny (unintentionally listed twice)
+-   Dante
+-   Darnell
+-   Dash
+-   David
+-   Dawn
+-   Dean
+-   Demetrius
+-   Devin
+-   Dex
+-   Diar
+-   Diego
+-   Dimitri
+-   Dinell (unintentionally listed twice)
+-   Diomedes
+-   Dior
+-   Dogbert
+-   Dominic
+-   Donovan
+-   Doug
+-   Dove
+-   Dragon
+-   Drake
+-   Drew
+-   Druid
+-   Duma
+-   Dust
+-   Dylan
+-   Edgar
+-   Edward
+-   Eisen
+-   Eli
+-   Elijah
+-   Elk
+-   Elliot
+-   Elliott
+-   Emery
+-   Emile
+-   Enrique
+-   Envy
+-   Ephraim
+-   Erik
+-   Esker
+-   Ethan
+-   Eula
+-   Evaine
+-   Ezekiel
+-   Fabian
+-   Fahim
+-   Falco
+-   Falcon
+-   Faris
+-   Faust
+-   Feldspar
+-   Felix
+-   Ferdinand
+-   Ferguson
+-   Fern
+-   Feste
+-   Finch
+-   Finley
+-   Fisher
+-   Fitz (unintentionally listed twice)
+-   Florian
+-   Fort
+-   Fortunato
+-   Fox
+-   Francis
+-   Francisco
+-   Frank
+-   Franky
+-   Fraser
+-   Frederick
+-   Fritz
+-   Gabbro
+-   Gabriel
+-   Gael
+-   Gaheris
+-   Gaius
+-   Galahad
+-   Gale
+-   Gareth
+-   Gaspard
+-   Gavin
+-   Gawain
+-   Gebura
+-   Geese
+-   George
+-   Gerald
+-   Gerard
+-   Gideon
+-   Gino
+-   Gold
+-   Goni
+-   Graham
+-   Grangler
+-   Gravel
+-   Gray
+-   Green
+-   Gregor
+-   Griff
+-   Grim
+-   Grimhildr
+-   Grit
+-   Groose
+-   Guadalupe
+-   Gunther
+-   Hal
+-   Halflight
+-   Hank
+-   Hans
+-   Harlequin
+-   Harley
+-   Harold
+-   Harper
+-   Harvey
+-   Hassan
+-   Hayes
+-   Heathcliff
+-   Hector
+-   Hemlock
+-   Henry
+-   Hermes
+-   Hero
+-   Heron
+-   Herta
+-   Hiroh
+-   Hoid
+-   Hokma
+-   Hope
+-   Horace
+-   Horatio
+-   Horus
+-   Hunter
+-   Hutch
+-   Hypnos
+-   Ian
+-   Ibrahim
+-   Ifrit
+-   Ignacio
+-   Igor
+-   Inari
+-   Indra
+-   Inu
+-   Iori
+-   Isaac
+-   Isaiah
+-   Ishmael
+-   Isma
+-   Ivan
+-   Izzy
+-   Jack
+-   Jackdaw
+-   Jackie
+-   Jacob
+-   Jaleel
+-   Jalen
+-   Jamal
+-   James
+-   Jamie
+-   Jason
+-   Jasper
+-   Jay
+-   Jean
+-   Jefe
+-   Jerry
+-   Jesse
+-   Jessie
+-   Joe
+-   John
+-   Jonathan
+-   Jordan
+-   Joseph
+-   Joshua
+-   Josue
+-   Jova
+-   Jovan
+-   Joy
+-   Juan
+-   Judas
+-   Judeau
+-   Julian
+-   Julius
+-   Jupiter
+-   Justin
+-   Kai
+-   Kaido
+-   Kaladin
+-   Kamina
+-   Kamren
+-   Kareem
+-   Karl
+-   Kay
+-   Keegan
+-   Keith
+-   Kelik
+-   Kelsier
+-   Kenin
+-   Kenny
+-   Kent
+-   Kestrel
+-   Kevin
+-   Kirk
+-   Kliff
+-   Kronk
+-   Kyle
+-   Laertes
+-   Laios
+-   Lamech
+-   Lamorak
+-   Lance
+-   Lancelot
+-   Larry
+-   Law
+-   Layle
+-   Leif
+-   Leo
+-   Leon
+-   Leonardo
+-   Levi
+-   Lewis
+-   Liam
+-   Link
+-   Lloyd
+-   Loam
+-   Logan
+-   Lorian
+-   Lothric
+-   Lotus
+-   Louie
+-   Lucas
+-   Lucius
+-   Luigi
+-   Lugh
+-   Luis
+-   Luka
+-   Luke
+-   Luther
+-   Luthier
+-   Lyon
+-   Lyric
+-   Lysander
+-   Macready
+-   Madison
+-   Magpie
+-   Malachi
+-   Malcolm
+-   Malik
+-   Maras
+-   Marcellus
+-   March
+-   Marco
+-   Marcoh
+-   Mario
+-   Marius
+-   Mark
+-   Marshall
+-   Martin
+-   Mason
+-   Matthew
+-   Maurice
+-   Maverick
+-   Max
+-   Maxos
+-   Maxwell
+-   Meliodas
+-   Mephisto
+-   Mercutio
+-   Mezux
+-   Michael
+-   Midir
+-   Mike
+-   Minos
+-   Moash
+-   Montresor
+-   Mordred
+-   Murphy
+-   Mycen
+-   Nate
+-   Nathan
+-   Neil
+-   Nemesis
+-   Neo
+-   Nera
+-   Netzach
+-   Nicholas
+-   Nikaro
+-   Noah
+-   Noel
+-   Nogo
+-   Nolan
+-   Nova
+-   Nyx
+-   Oberon
+-   Oberyn
+-   Oceiros
+-   Oda
+-   Odin
+-   Ogma
+-   Ohma
+-   Ogrim
+-   Oki
+-   Olie
+-   Oliver
+-   Omar
+-   Ophir
+-   Ornstein
+-   Orpheus
+-   Orsino
+-   Orthur
+-   Oscar
+-   Osric
+-   Othniel
+-   Otto
+-   Owen
+-   Padparadscha
+-   Parhelion
+-   Parker
+-   Pascal
+-   Patches
+-   Patrick
+-   Paul
+-   Pax
+-   Payton
+-   Pebble
+-   Penn
+-   Percy
+-   Peter
+-   Philip
+-   Phoenix
+-   Phos
+-   Pigeon
+-   Pike
+-   Pine
+-   Pollux
+-   Polonius
+-   Price
+-   Prospero
+-   Puck
+-   Pyron
+-   Python
+-   Quail
+-   Quake
+-   Quan
+-   Quantum
+-   Quartz
+-   Quentin
+-   Quince
+-   Quincy
+-   Quirrel
+-   Radovan
+-   Raheem
+-   Raigh
+-   Rain
+-   Raj
+-   Rajul
+-   Rama
+-   Rami
+-   Rasto
+-   Raven
+-   Ray
+-   Red
+-   Reed
+-   Rein
+-   Remo
+-   Renarin
+-   Rex
+-   Rey
+-   Reynaldo
+-   Rhys
+-   Richard
+-   Rick
+-   Riley
+-   Rin
+-   Ripley
+-   Reg
+-   River
+-   Rivers
+-   Robert
+-   Robin
+-   Roby
+-   Roland
+-   Rolf
+-   Romeo
+-   Romy
+-   Rook
+-   Roux
+-   Rowan
+-   Roy
+-   Rutile
+-   Ryan
+-   Ryu
+-   Saber
+-   Saeko
+-   Sage
+-   Samuel
+-   Samwise
+-   Sand
+-   Santiago
+-   Saul
+-   Scar
+-   Scott
+-   Sean
+-   Seath
+-   Seb
+-   Sebastian
+-   Sein
+-   Seishin
+-   Selim
+-   Senshi
+-   Sergei
+-   Seth
+-   Shale
+-   Shay
+-   Shem
+-   Shinon
+-   Shiva
+-   Shon
+-   Shu
+-   Siegfried
+-   Sigurd
+-   Silque
+-   Silt
+-   Silver
+-   Simon
+-   Sinbad
+-   Sirius
+-   Sisyphus
+-   Skulduggery
+-   Skylar
+-   Slate
+-   Sloan
+-   Smough
+-   Snake
+-   Socrates
+-   Sokolov
+-   Sol
+-   Solaire
+-   Solanum
+-   Soot
+-   Sophodon
+-   Sorin
+-   Sothe
+-   Sparrow
+-   Spike
+-   Stanley
+-   Starling
+-   Stephen
+-   Storm
+-   Strahd
+-   Subaru
+-   Sun
+-   Sven
+-   Sydney
+-   Szeth
+-   Taylor
+-   Teft
+-   Teshin
+-   Tharson
+-   Theomars
+-   Theseus
+-   Thistle
+-   Thomas
+-   Thoth
+-   Tien
+-   Tiphereth
+-   Tobias
+-   Tobin
+-   Tomas
+-   Tony
+-   Travis
+-   Tre
+-   Tress
+-   Trevor
+-   Tristram
+-   Tybalt
+-   Tyler
+-   Tyron
+-   Ulrich
+-   Ulus
+-   Ulysses
+-   Uriel
+-   Usopp
+-   Valbar
+-   Valentine
+-   Valerian
+-   Vergil
+-   Victor
+-   Vin
+-   Vincent
+-   Vinney
+-   Vino
+-   Vyke
+-   Walid
+-   Wallace
+-   Walter
+-   Wanderer
+-   Wane
+-   Wax
+-   Wayne
+-   Wesley
+-   Wick
+-   William
+-   Wilson
+-   Winston
+-   Winter
+-   Wisteria
+-   Wolnir
+-   Woodrow
+-   Worm
+-   Wormwood
+-   Wren
+-   Xavier
+-   Xavos
+-   Xiao
+-   Yakub
+-   Yugo
+-   Yumi
+-   Yusuf
+-   Zach
+-   Zachary
+-   Zeiss
+-   Zeke
+-   Zena
+-   Zephon
+-   Zero
+-   Zhou
+-   Zora
+-   Zote
+
+**Feminine:**
+
+  
+
+-   Abigail
+-   Ace
+-   Acedia
+-   Ada
+-   Agness
+-   Agrippa
+-   Alaia
+-   Albri
+-   Albrienne
+-   Alder
+-   Aldrich
+-   Alex
+-   Alexandra
+-   Alfie
+-   Alice
+-   Alma
+-   Alto
+-   Alvida
+-   Alyx
+-   Amaros
+-   Amaryllis
+-   Amelia
+-   Amelie
+-   Ami
+-   Amon
+-   Amy
+-   Angel
+-   Angela
+-   Anos
+-   Antarc
+-   Antigone
+-   Anubis
+-   April
+-   Arden
+-   Arete
+-   Argalia
+-   Ari
+-   Aria
+-   Ariadne
+-   Ariel
+-   Artemis
+-   Artoria
+-   Ash
+-   Ashe
+-   Asher
+-   Ashera
+-   Aspen
+-   Asphodel
+-   Astra
+-   Astrid
+-   Asumi
+-   Atlas
+-   Audrey
+-   August
+-   Avery
+-   Axon
+-   Ayra
+-   Azula
+-   Azura
+-   Banjo
+-   Basil
+-   Beatrice
+-   Berta
+-   Beth
+-   Binah
+-   Blake
+-   Blue
+-   Briar
+-   Brick
+-   Byron
+-   Cadaver
+-   Caitlyn
+-   Calar
+-   Cameron
+-   Casey
+-   Cass
+-   Cassandra
+-   Cassidy
+-   Cassie
+-   Cassiopeia
+-   Catherine
+-   Catria
+-   Celeste
+-   Celica
+-   Chance
+-   Charlie
+-   Charlotte
+-   Chert
+-   Cinnabar
+-   Claire
+-   Clay
+-   Connie
+-   Constance
+-   Creon
+-   Crona
+-   Crow
+-   Cygnet
+-   Cypress
+-   Daisy
+-   Dana
+-   Dani
+-   Danny
+-   Darcy
+-   Dash
+-   Dawn
+-   Deirdre
+-   Desdemona
+-   Devin
+-   Diamond
+-   Diana
+-   Diane
+-   Diar
+-   Dinell
+-   Dorothy
+-   Dove
+-   Drew
+-   Druid
+-   Echidna
+-   Elaine
+-   Eli
+-   Eliiot
+-   Emery
+-   Emma
+-   Envy
+-   Erica
+-   Erin
+-   Erzebet
+-   Esker
+-   Estelle
+-   Esther
+-   Ethel
+-   Ethlyn
+-   Eva
+-   Evaine
+-   Eve
+-   Evelyn
+-   Evi
+-   Falcon
+-   Falin
+-   Faris
+-   Faust
+-   Faye
+-   Feldspar
+-   Feste
+-   Finch
+-   Finley
+-   Fisher
+-   Fitz
+-   Florence
+-   Florian
+-   Fort
+-   Fortuna
+-   Fox
+-   Francesca
+-   Franky
+-   Freya
+-   Frida
+-   Gabbro
+-   Gabriella
+-   Gael
+-   Gaia
+-   Gebura
+-   Gemma
+-   Gertrude
+-   Giana
+-   Gideon
+-   Gillian
+-   Giovanna
+-   Gloria
+-   Goni
+-   Grace
+-   Gravel
+-   Gray
+-   Green
+-   Gretchen
+-   Gretel
+-   Griff
+-   Grim
+-   Groose
+-   Guadalupe
+-   Gwen
+-   Gwyn
+-   Hannah
+-   Harlequin
+-   Harper
+-   Hattie
+-   Heather
+-   Helena
+-   Hemlock
+-   Hermes
+-   Heron
+-   Herta
+-   Hillary
+-   Hoid
+-   Holly
+-   Hope
+-   Ifrit
+-   Incarnon
+-   Indra
+-   Iori
+-   Iris
+-   Isabella
+-   Isma
+-   Izutsumi
+-   Izzy
+-   Jackdaw
+-   Jamie
+-   Jane
+-   Jasnah
+-   Jasper
+-   Jay
+-   Jemima
+-   Jennifer
+-   Jesse
+-   Jessie
+-   Joanna
+-   Joy
+-   Juda
+-   Julian
+-   Juliet
+-   July
+-   June
+-   Jupiter
+-   Kai
+-   Kamina
+-   Kamren
+-   Kareem
+-   Katara
+-   Katarina
+-   Kate
+-   Katie
+-   Kay
+-   Kelia
+-   Keiry
+-   Keith
+-   Kelsier
+-   Kenin
+-   Kestrel
+-   Kiara
+-   Kiyoko
+-   Klara
+-   Koyla
+-   Korra
+-   Kronk
+-   Lachesis
+-   Lagertha
+-   Lana
+-   Lara
+-   Laura
+-   Lauren
+-   Lena
+-   Levi
+-   Lillith
+-   Lily
+-   Link
+-   Loam
+-   Lomberta
+-   Lorelai
+-   Lotte
+-   Lotus
+-   Louie
+-   Lucia
+-   Lucile
+-   Luka
+-   Lydia
+-   Lyn
+-   Lyonesse
+-   Lyric
+-   Lysander
+-   Macready
+-   Madeline
+-   Madison
+-   Mae
+-   Magpie
+-   March
+-   Marcille
+-   Margaret
+-   Maria
+-   Marie
+-   Marina
+-   Martha
+-   Maude
+-   Maverick
+-   May
+-   Meliodas
+-   Mephisto
+-   Mezux
+-   Mia
+-   Mila
+-   Miranda
+-   Misaka
+-   Molly
+-   Morgan
+-   Morgana
+-   Morrigan
+-   Murphy
+-   Natasha
+-   Nemesis
+-   Neo
+-   Nera
+-   Nia
+-   Nikaro
+-   Nina
+-   Noelle
+-   Norne
+-   Nova
+-   November
+-   Nyme
+-   Nyx
+-   Oki
+-   Olivia
+-   Olympe
+-   Ophelia
+-   Ophir
+-   Padparadscha
+-   Palla
+-   Pandora
+-   Parker
+-   Patricia
+-   Penny
+-   Percy
+-   Persephone
+-   Phoenix
+-   Phos
+-   Pigeon
+-   Pike
+-   Pine
+-   Pollux
+-   Poppy
+-   Pyrrha
+-   Quail
+-   Quartz
+-   Quince
+-   Quincy
+-   Quinevere
+-   Quinn
+-   Rachel
+-   Raven
+-   Rain
+-   Rama
+-   Rebecca
+-   Red
+-   Rem
+-   Reed
+-   Rein
+-   Rex
+-   Rhys
+-   Riley
+-   Rin
+-   Rinea
+-   Ripley
+-   River
+-   Rivers
+-   Robin
+-   Rook
+-   Rosa
+-   Rosaline
+-   Rose
+-   Roux
+-   Rowan
+-   Ruby
+-   Rutile
+-   Ryan
+-   Saber
+-   Sabrina
+-   Saeko
+-   Saffron
+-   Sage
+-   Samantha
+-   Sand
+-   Sandra
+-   Sapphire
+-   Sarah
+-   Sashenka
+-   Satu
+-   Selene
+-   Sera
+-   Shallan
+-   Shay
+-   Shiki
+-   Shiva
+-   Sidura
+-   Silque
+-   Silt
+-   Silvia
+-   Skylar
+-   Slate
+-   Sloan
+-   Solanum
+-   Solara
+-   Solveig
+-   Sona
+-   Soot
+-   Sophie
+-   Sorin
+-   Sparrow
+-   Spike
+-   Starling
+-   Storm
+-   Summer
+-   Susanna
+-   Sycorax
+-   Sydney
+-   Tabitha
+-   Taiga
+-   Taliah
+-   Tallulah
+-   Tamara
+-   Tami
+-   Tanith
+-   Tanya
+-   Tatiana
+-   Taylor
+-   Teresa
+-   Thalassa
+-   Theodora
+-   Theresa
+-   Thistle
+-   Thoth
+-   Tiresia
+-   Tracey
+-   Tress
+-   Ulla
+-   Ulus
+-   Uma
+-   Umbra
+-   Uriel
+-   Ursa
+-   Ursula
+-   Usha
+-   Usopp
+-   Valda
+-   Valderrama
+-   Valencia
+-   Valentina
+-   Valerian
+-   Valerie
+-   Vanessa
+-   Vega
+-   Vera
+-   Veronica
+-   Victoria
+-   Vida
+-   Vin
+-   Vino
+-   Violet
+-   Vivian
+-   Vyke
+-   Wanderer
+-   Wane
+-   Wendelin
+-   White
+-   Whitney
+-   Willa
+-   Willow
+-   Wilson
+-   Winnie
+-   Winter
+-   Wisteria
+-   Wormwood
+-   Wren
+-   Xena
+-   Xiao
+-   Yakub
+-   Yana
+-   Yara
+-   Yasmin
+-   Yumi
+-   Yvette
+-   Zafirah
+-   Zemora
+-   Zena
+-   Zephon
+-   Zero
+-   Zoe
+-   Zora
+
+**Neutral:**
+
+  
+
+-   Ace
+-   Agrippa
+-   Alder
+-   Aldrich
+-   Alex
+-   Alfie
+-   Alto
+-   Alyx
+-   Amaros
+-   Amaryllis
+-   Amon
+-   Angel
+-   Anos
+-   Antarc
+-   Anubis
+-   Argalia
+-   Artemis
+-   Ash
+-   Asher
+-   Aspen
+-   Asphodel
+-   Astra
+-   Atlas
+-   August
+-   Avery
+-   Axon
+-   Banjo
+-   Basil
+-   Binah
+-   Blake
+-   Blue
+-   Briar
+-   Brick
+-   Byron
+-   Cadaver
+-   Calar
+-   Cameron
+-   Casey
+-   Cass
+-   Cassidy
+-   Cassiopeia
+-   Chance
+-   Charlie
+-   Chert
+-   Cinnabar
+-   Clay
+-   Creon
+-   Crona
+-   Crow
+-   Cygnet
+-   Cypress
+-   Dani
+-   Danny
+-   Dash
+-   Dawn
+-   Devin
+-   Drew
+-   Druid
+-   Eli
+-   Elliott
+-   Emery
+-   Envy
+-   Esker
+-   Evaine
+-   Faris
+-   Faust
+-   Feldspar
+-   Feste
+-   Finch
+-   Finley
+-   Fisher
+-   Fitz
+-   Florian
+-   Fox
+-   Franky
+-   Gabbro
+-   Gael
+-   Gebura
+-   Gideon
+-   Goni
+-   Gravel
+-   Gray
+-   Green
+-   Griff
+-   Grim
+-   Groose
+-   Guadalupe
+-   Harlequin
+-   Harper
+-   Hemlock
+-   Hermes
+-   Heron
+-   Herta
+-   Hoid
+-   Hope
+-   Ifrit
+-   Indra
+-   Iori
+-   Isma
+-   Izzy
+-   Jackdaw
+-   Jamie
+-   Jasper
+-   Jay
+-   Jesse
+-   Jessie
+-   Joy
+-   Julian
+-   Jupiter
+-   Kai
+-   Kamina
+-   Kamren
+-   Kareem
+-   Kay
+-   Keith
+-   Kelsier
+-   Kenin
+-   Kestrel
+-   Kronk
+-   Levi
+-   Link
+-   Loam
+-   Lotus
+-   Louie
+-   Luka
+-   Lyric
+-   Lysander
+-   Macready
+-   Madison
+-   Magpie
+-   March
+-   Maverick
+-   Melodias
+-   Mephisto
+-   Mezux
+-   Murphy
+-   Nemesis
+-   Neo
+-   Nera
+-   Nikaro
+-   Nosfa
+-   Nova
+-   Nyx
+-   Oki
+-   Ophir
+-   Padparadscha
+-   Parker
+-   Pax
+-   Payton
+-   Pebble
+-   Penn
+-   Percy
+-   Phoenix
+-   Phos
+-   Pigeon
+-   Pike
+-   Pine
+-   Pollux
+-   Price
+-   Puck
+-   Quail
+-   Quartz
+-   Quince
+-   Quincy
+-   Rain
+-   Rama
+-   Raven
+-   Red
+-   Reed
+-   Rein
+-   Rex
+-   Rhys
+-   Riley
+-   Rin
+-   Ripley
+-   River
+-   Rivers
+-   Robin
+-   Rook
+-   Roux
+-   Rowan
+-   Rutile
+-   Ryan
+-   Saber
+-   Saeko
+-   Sage
+-   Sand
+-   Shale
+-   Shay
+-   Shiva
+-   Silque
+-   Silt
+-   Skylar
+-   Slate
+-   Sloan
+-   Solanum
+-   Soot
+-   Sorin
+-   Soy
+-   Sparrow
+-   Spike
+-   Starling
+-   Storm
+-   Sydney
+-   Taylor
+-   Thistle
+-   Thoth
+-   Tress
+-   Ulus
+-   Uriel
+-   Usopp
+-   Valerian
+-   Vamp
+-   Vin
+-   Vino
+-   Vyke
+-   Wanderer
+-   Wane
+-   Wilson
+-   Winter
+-   Wisteria
+-   Wormwood
+-   Wren
+-   Xiao
+-   Yakub
+-   Yumi
+-   Zena
+-   Zephon
+-   Zero
+-   Zora
+
+## Last Names
+
+**Adret:**
+
+  
+
+-   Adaset
+-   Ashet
+-   Corbet
+-   Donnet
+-   Doret
+-   Erebet
+-   Gremet
+-   Hasset
+-   Ioset
+-   Isket
+-   Ixatet
+-   Jotet
+-   Kesset
+-   Mudet
+-   Munet
+-   Neret
+-   Osset
+-   Pluret
+-   Praadet
+-   Rolket
+-   Sahet
+-   Shanet
+-   Thanet
+-   Tymet
+-   Vendet
+-   Xaret
+-   Yuset
+
+**Canor:**
+
+  
+
+-   Aoden
+-   Bren
+-   Canden
+-   Dardren
+-   Dusselden
+-   Grimden
+-   Helsen
+-   Hierden
+-   Holden
+-   Jaegen
+-   Korbren
+-   Marden
+-   Nuren
+-   Ombroden
+-   Reesen
+-   Scarsen
+-   Smolken
+-   Uldren
+-   Ven
+-   Vondren
+-   Vorgen
+-   Ysselden
+-   Zolfen
+
+**Capra:**
+
+  
+
+-   Aetad
+-   Akarad
+-   Arad
+-   Eiad
+-   Emirad
+-   Ferad
+-   Fulad
+-   Loritad
+-   Meditad
+-   Memirad
+-   Mirad
+-   Nerad
+-   Pluritad
+-   Raanad
+-   Thaanad
+-   Truad
+-   Tulad
+-   Uurad
+-   Velad
+-   Ventad
+-   Yolad
+
+**Celestial:**
+
+  
+
+**Celtor:**
+
+  
+
+-   Antrinof
+-   Baranof
+-   Bykof
+-   Davel
+-   Drof
+-   Golbor
+-   Goldrof
+-   Ivanel
+-   Kadrof
+-   Kalashor
+-   Kalinof
+-   Kavinel
+-   Kernel
+-   Kotof
+-   Martenel
+-   Olof
+-   Pavel
+-   Petrof
+-   Rudinof
+-   Sokel
+-   Sokolof
+-   Undrel
+-   Vernof
+-   Zarof
+
+**Chrysid:**
+
+  
+
+-   Aecta
+-   Aethuda
+-   Antaeka
+-   Disali
+-   Eneka
+-   Etrega
+-   Herkula
+-   Iksatoka
+-   Kalvika
+-   Kegeka
+-   Nyctida
+-   Ossika
+-   Rephika
+-   Sehika
+-   Staerka
+-   Trikali
+-   Wirlika
+-   Zenekai
+
+**Drakkard:**
+
+  
+
+-   Drakehardt
+-   Scalehardt
+-   Thornscale
+-   Wyrmstead
+-   Cindercrest
+-   Drakkengard
+-   Seethehardt
+
+**Etrean:**
+
+  
+
+-   Annaet
+-   Ashi
+-   Breveshi
+-   Eshet
+-   Hakeshet
+-   Hashi
+-   Hasteshi
+-   Ishel
+-   Kanreshi
+-   Kereshi
+-   Kikoshi
+-   Leithi
+-   Leshi
+-   Massi
+-   Mertet
+-   Petersi
+-   Rashet
+-   Strauchet
+-   Teneshi
+-   Ureshi
+-   Veshi
+-   Vesti
+-   Wyneshi
+-   Ytreshi
+-   Zeshi
+
+**Felinor:**
+
+  
+
+-   Amarico
+-   Calico
+-   Eko
+-   Gariko
+-   Gatilo
+-   Helo
+-   Mero
+-   Nalo
+-   Palo
+-   Rico
+-   Samico
+-   Sero
+-   Tabico
+-   Talo
+-   Teko
+-   Velo
+
+**Ganymede:**
+
+  
+
+-   Akkre
+-   Chitre
+-   Dise
+-   Edrekhe
+-   Enege
+-   Etude
+-   Galvige
+-   Hercule
+-   Ixatoke
+-   Jule
+-   Kekike
+-   Pikhige
+-   Rethige
+-   Rhejude
+-   Sekhige
+-   Skareke
+-   Spirige
+-   Trige
+-   Werlige
+-   Whelkege
+-   Zeneke
+
+**Generic:**
+
+  
+
+-   Fording
+-   Humbell
+-   Huthering
+-   Ruther
+
+**Gremor:**
+
+  
+
+-   Adra
+-   Askura
+-   Atedra
+-   Buckra
+-   Cassatra
+-   Cevra
+-   Daera
+-   Eldra
+-   Era
+-   Estedra
+-   Fawra
+-   Haertra
+-   Hira
+-   Hirtra
+-   Jura
+-   Kora
+-   Makira
+-   Mora
+-   Murida
+-   Naphra
+-   Nemira
+-   Nephidra
+-   Niildra
+-   Ratra
+-   Tamra
+-   Theodra
+-   Vendra
+-   Ymara
+
+**Heliodar:**
+
+  
+
+**Khan:**
+
+  
+
+-   Albinus
+-   Barbus
+-   Bassus
+-   Castes
+-   Dalus
+-   Drameus
+-   Evus
+-   Janus
+-   Juno
+-   Khanus
+-   Marius
+-   Narsus
+-   Nemises
+-   Pollus
+-   Regulus
+-   Rufus
+-   Sejus
+-   Strabes
+-   Tarsus
+-   Theus
+-   Vales
+
+**Kiron:**
+
+  
+
+-   Aatu
+-   Alukaatu
+-   Draatu
+-   Metu
+-   Mihaatu
+-   Netu
+-   Noctu
+-   Petu
+-   Ratu
+-   Vaatu
+-   Ventu
+
+**Lightborn:**
+
+  
+
+-   Spellhardt
+
+**Tiran:**
+
+  
+
+-   Askli
+-   Atamli
+-   Avli
+-   Edgli
+-   Emuli
+-   Gatli
+-   Genli
+-   Huuli
+-   Imali
+-   Jaalti
+-   Kamali
+-   Leeli
+-   Nothli
+-   Ouli
+-   Paadli
+-   Saali
+-   Taali
+-   Tiili
+-   Tuuli
+-   Vaali
+-   Wuuli
+-   Yuli
+
+**Vesperian:**
+
+  
+
+-   Acrii
+-   Chitri
+-   Disii
+-   Edrekhi
+-   Enegi
+-   Etudi
+-   Galvigi
+-   Hirculi
+-   Ixatoki
+-   Julii
+-   Kekiki
+-   Pikhigi
+-   Refigi
+-   Rhejudi
+-   Sekhigi
+-   Skareki
+-   Spirigi
+-   Trigi
+-   Werligi
+-   Whelkegi
+-   Zeneki
+
+## Kyrsan Names
+
+Kyrsan names are the custom names that are given by [Erosius Amaltus Urivortus Alistus Casius Walistoshus](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md) after collecting the spear at the bottom of [Firfire Caverns](Firfire_Caverns.md). These names are randomly generated and are accountwide instead of per slot. They can also have different names depending on your dialogue choices with [Aeroaseluniris Oricalum Forentus](Aeroaseluniris_Oricalum_Forentus.md) if you didnt call him the right name. The amount of words you get in your kyrsan name seems to be based upon how old the slot was when it retrieved the spear.
+
+(This list is highly incomplete so please add any information if you have any)
+
+-   Amogu
+-   Casius
+-   Craic
+-   Twilight
+-   Ifan
+-   Busko
+-   Booyah
+-   Brabzon
+-   Brumbpus
+-   Bungus
+-   Swallyhoo
+-   Scrimble
+-   Solid
+-   Steve
+-   Fiddlesticks
+-   Holy
+-   Costeau
+-   Humbus
+-   Mulvortus
+-   Morph
+-   Biggs
+-   Eagle
+-   Mud
+-   Burmpo
+-   Ekuvarius
+-   Vexadodecahedron
+-   Dirt
+-   Dedue
+-   Dizco
+-   Drats
+-   Chordles
+-   Quesotericus
+-   Tungus
+-   Boxer
+-   Jubilee
+-   Relarius
+-   Mustadio
+-   Mustard
+-   Mingus
+-   Real
+-   Sunset
+-   Tschwibb
+-   Tsktsk
+-   Tumbus
+-   Tungus
+-   U'Don
+-   Ultra
+-   Twinkletoes
+-   Yr'dum
+
+[Aero](Aeroaseluniris_Oricalum_Forentus.md) Names
+
+-   Squibby
+-   Bigcheese
+
+## Trivia
+
+-   The name "Meliodas" is a reference to [Seven Deadly Sins](https://nanatsu-no-taizai.fandom.com/wiki/Meliodas).
+-   The names "Edward" and "Alphonse" are references to the anime and manga series [Fullmetal Alchemist](https://fma.fandom.com/wiki/Main_Page).
+-   The name Adolin was removed due to its similarity with [a certain Austrian painter in the 1940s](https://en.wikipedia.org/wiki/Adolf_Hitler).
+-   The name "Hawk" was removed due to being used to reference "Hawk Tuah".
+-   Most names added after the release of the game are available in all three gender categories. This is likely a bug.
+-   If you don't have a valid aspect, you don't have a last name. If you have a valid aspect but it doesn't have any last names, it defaults to Spellhardt, the [Lightborn](Lightborn.md) last name.
+-   Random name generation will occur upon clicking \[The End\] in [Fragments of Self](Fragments_of_Self.md). The name will be applied to your next character.
+-   The surnames of Ganymede and Vesperian are the same, only with different suffixes (-e and -i).
+    -   This hints at the two species being of the same genetic origin, and is confirmed by the Ganymede model under the vesperian mask (viewable through clipping).
+-   The surnames of Felinors are, of course, relating to cat species.
+-   The names "Omar" and "Olie" are references to community members omar\_io and Olieware respectfully, the latter of whom suggested the idea of the [Flamecharm](Flamecharm.md) Mantra Flame Ballista.
+-   The name "Vergil" is a reference to the [storm that is approaching](https://devilmaycry.fandom.com/wiki/Vergil).
+-   The name Dante is a reference to Vergil's brother and the main character of Devil May Cry.
+-   The names "Usopp", "Luffy" and "Alvida" are references to the anime and manga series, [_One Piece._](https://onepiece.fandom.com/)
+    -   While various characters from _One Piece_ were personally suggested as names to developer ragoozer, only Usopp and Kaido were added initially.[\[1\]](#cite-note-1) Alvida and Luffy were added much later.
+-   The names "Solaire", "Ornstein", "Smough", "Seath", "Patches", "Artorias", "Gwyn", "Wolnir", "Aldrich", "Oceiros", "Lorian", "Lothric", "Midir", "Halflight", and "Gael", are references to various characters from the _Dark Souls_ series.
+    -   Initially, the name "Ornstein" was _**incorrectly**_ spelled as "Orstein."
+    -   The names Shabriri, Vyke, Maliketh, Godrick, and Godfrey are references to _Elden Ring_, a spiritual successor to _Dark Souls_.
+    -   The name "Halflight" could also potentially a reference to a skill in [Disco Elysium](https://en.wikipedia.org/wiki/Disco_Elysium) which shares the same name, very disco.
+-   The name "Kamina" is a reference to the popular [Gurren Lagann](https://gurrenlagann.fandom.com/wiki/Kamina) character of the same name.
+-   The names "Tanith", "[Cadaver](https://skulduggery.fandom.com/wiki/Cadaver_Cain)" and "[Skulduggery](https://skulduggery.fandom.com/wiki/Skulduggery_Pleasant)" are in reference to characters from the _[Skulduggery Pleasant](https://en.wikipedia.org/wiki/Skulduggery_Pleasant)_ franchise.
+    -   Funnily enough, Cadaver and Skulduggery are technically the same person.
+-   The name "Inari" is a reference to Monad Studios previous game _[Rogue Lineage](https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki)_ where the races _[Vind](https://rogue-lineage.fandom.com/wiki/Vind?so=search)_ and _[Fischeran](https://rogue-lineage.fandom.com/wiki/Fischeran)_ share that name_._
+-   Names such as "Adolin," "Hoid", "Kaladin", "Moash", "Szeth", "Renarin", "Teft", and "Dalinar" are references to the book series "The Stormlight Archive" by Brandon Sanderson.
+-   Names such as "Kelsier", "Vin", "Marsh", and "Wax" are references to the book series _[Mistborn](https://en.wikipedia.org/wiki/Mistborn)_, also by Brandon Sanderson.
+    -   The series also supposedly influenced the creation of the [Adret](Adret.md).
+-   The names "Zote", "Ogrim" and "Isma" are a reference to the indie game _[Hollow Knight](https://hollowknight.fandom.com/wiki/Hollow_Knight_Wiki)_ by Team Cherry.
+-   The name "Link" is a reference to - [wait does this one really need explaining?](https://en.wikipedia.org/wiki/The_Legend_of_Zelda)
+-   The names "Angela," "Binah," "Chesed," "Gebura," "Hokma," "Netzach," "Roland," "Tiphereth," "Xiao", "Zena", "Iori", and "Argalia", are references to the games _[Lobotomy Corporation](https://lobotomycorp.fandom.com/wiki/Home)_ and _Library of Ruina_. This is likely not all of them.
+    -   The name "[Angela](https://library-of-ruina.fandom.com/wiki/Angela)" was heavily requested due to the [Etrea](Etrea.md) "Coral" variant heavily resembling her due to its pale skin and light blue hair.
+    -   Coincidentally, "Xiao" is also the name of a _[popular character from Genshin Impact](https://genshin-impact.fandom.com/wiki/Xiao)_, with several names originating from Genshin Impact being suggested at the same time as those originating from _Library of Ruina_ and _[Lobotomy Corporation](https://lobotomycorp.fandom.com/wiki/Home)._
+    -   "Binah", "Chesed", "Gebura", "Hokma", "Netzach", "Tiphereth" can also be reference to [the tree of life](<https://en.m.wikipedia.org/wiki/Tree_of_life_(Kabbalah)>) which the said characters from _Library of Ruina_ and _Lobotomy Corporation_ are based on. But "Malkuth", "Yesod", and "Hod" are not added as names.
+    -   "Roland" and "Argalia" can also be reference to characters from [Orlando Innamorato](https://en.m.wikipedia.org/wiki/Orlando_Innamorato) which the said characters from _Library of Ruina_ are based on.
+-   Additionally, the names "Ishmael", "Ahab", "Heathcliff", "Catherine" and "Gregor" are references to _Limbus Company_, a game created by the same studio as _Lobotomy Corporation_ and _Library of Ruina._
+    -   These names, like most from Limbus Company, are derived from classic literature. Ishmael and Ahab are from [Moby-Dick](https://en.wikipedia.org/wiki/Moby-Dick), Heathcliff and Catherine are from [Wuthering Heights](https://en.wikipedia.org/wiki/Wuthering_Heights) and Gregor is from [The Metamorphosis.](https://en.wikipedia.org/wiki/The_Metamorphosis)
+    -   Faust may be an exception due to said name existing since release, unlike the others mentioned from above, and is a commonly used name in real life.
+-   The names "Chert", "Esker", "Feldspar", "Gabbro" and "Solanum", are references to the game _[Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/)_.
+-   The names "Luka", "Yugo" and "Faris" could be references to _[Steins; Gate](https://steins-gate.fandom.com/wiki/Steins;Gate_Wiki)_.
+-   Various names reference the works of William Shakespeare:
+    -   Claudius, Polonius, Horatio, Laertes, Ophelia, Gertrude, Osric, Cornelius, and Marcellus, are from _[Hamlet](https://en.wikipedia.org/wiki/Hamlet)_.
+    -   Romeo, Juliet, Mercutio, Tybalt, and Balthasar are from _[Romeo and Juliet](https://en.wikipedia.org/wiki/Romeo_and_Juliet)_.
+    -   Agrippa and Demetrius are from _[Antony and Cleopatra](https://en.wikipedia.org/wiki/Antony_and_Cleopatra)_.
+-   The name Sashenka may be a reference to a novel of the same name by Simon Sebag Montefiore.
+-   The names Frieren, Stark, and Fern are a reference to the manga and anime series, _[Frieren: Beyond Journey's End](https://en.wikipedia.org/wiki/Frieren)_.
+-   The name Wanderer is a reference to the [Genshin Impact](https://genshin.hoyoverse.com/en/) character, Scaramouche.
+-   The names 'Chilchuck', 'Falin', 'Izutsumi', 'Laios', 'Macille', 'Senshi' and 'Thistle' are all references to the main party and antagonist of the manga and anime series, [Dungeon Meshi](https://en.wikipedia.org/wiki/Delicious_in_Dungeon).
+-   The names Mycen, Shinon, and Raigh are references to game series [Fire Emblem](https://en.wikipedia.org/wiki/Fire_Emblem).
+    -   The name Kelik may be a reference to the (notoriously poorly written) character from a 2013 Fire Emblem mod, [The Last Promise](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheLastPromise).
+-   The names [Radovan](https://finalfantasy.fandom.com/wiki/Radovan_Slobasch) and [Ifrit](https://finalfantasy.fandom.com/wiki/Ifrit) are references to the game series, [Final Fantasy](https://www.finalfantasyxiv.com/). Furthermore, the name "Clive" is a reference to the Protagonist of Final Fantasy XVI, Dominant of [Ifrit, the Dark Eikon of Fire](<https://finalfantasy.fandom.com/wiki/Ifrit_(Final_Fantasy_XVI)>), [Clive Rosfield](https://finalfantasy.fandom.com/wiki/Clive_Rosfield).
+-   The name Basil is a reference to the game [OMORI](https://www.omori-game.com/).
+-   The name Samwise is a reference to the series Lord of the Rings.
+-   The name Tharson may be a reference to the game Risk of Rain.
+-   The name Tristram may be a reference to a location in the game Diablo.
+-   The name Alvida is a reference to the anime and manga series, One Piece.
+-   The name Azula is a reference to the animated series, Avatar: the Last Airbender.
+-   The name Kiyoko may be a reference to the anime and manga series, Haikyu.
+-   The name Sisyphus is a reference to the ancient Greek myth of Sisyphus, who was doomed to forever train FTD using a Boulder
+-   The name Minos is also a reference to Greek mythology.
+-   Thoth is the Egyptian god of knowledge.
+-   The name Kronk is a reference to Kronk's New Groove.
+-   When in character creation and loading, the randomized name will be displayed as "John Doe" instead of what it's supposed to be, before loading in. John Doe is a placeholder name when the true name of a person is unknown or purposefully hidden.
+-   "Yakub" is either reminiscent of the real-life Arabic name, or the famous tale of the creator of all white men commonly believed by the Nation of Islam.[\[2\]](#cite-note-2)
+-   The name Albion is an alternative name of Great Britain. It may also reference the island of Albion in Warhammer Fantasy universe.
+-   The neutral first name Anubis is most likely a reference to the Egyptian God of the same name.
+-   The name Corvo could be a reference to Corvo Attano, the protagonist of Dishonored.
+-   The name Dogbert is a reference to [a megalomaniacal dog](https://dilbert.fandom.com/wiki/Dogbert)
+-   The names Phos, Cinnabar, Rutile, Antarc, and Padparadscha are references to the anime and manga series, [Land of the Lustrous](https://en.wikipedia.org/wiki/Land_of_the_Lustrous).
+-   The names Montresor and Fortunato are a reference to The Cask of Amontillado, a story by Edgar Allan Poe.
+-   The name "Orpheus" is a reference to the "Master of Strings" of the same name from Greek Mythology, and could possibly be a reference to [Orpheus from the Persona series](https://megamitensei.fandom.com/wiki/Orpheus)
+-   The names "Maras" and "Nosfa" are references to Fallen World; a game being created by InnerTenacity
+-   There are repeatable names, due to the same name being a selectable first and last name. Something like Regulus Regulus or Marius Marius.
+-   The name "Crona" might be a reference to Crona from [Soul Eater](https://souleater.fandom.com/wiki/Crona).
+-   The names "Teshin", "Incarnon", and "Lotus" are references to [Warframe](https://www.warframe.com).
+-   The name "Ohma" might be a reference to Ohma Tokita from Kengan Asura.
+-   The name "Arthas" is a reference to [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil) from [Warcraft 3](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne).
+-   The names "Jinshi" and "Maomao" are in reference to the protagonists of The Apothecary Diaries.
+-   The name "Atreus" could be a reference to the son of Kratos in God of War.
+
+## References
+
+1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2) [https://en.wikipedia.org/wiki/Yakub\_(Nation\_of\_Islam)](<https://en.wikipedia.org/wiki/Yakub_(Nation_of_Islam)>)

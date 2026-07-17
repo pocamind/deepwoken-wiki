@@ -1,0 +1,97 @@
+---
+title: Bandit Leader
+revid: 216057
+source: https://deepwoken.fandom.com/wiki/Bandit_Leader
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies, Enemies that can wield Enchantments, Bandits, Ambush Enemies]
+---
+
+# Bandit Leader
+
+| Bandit Leader | |
+|---|---|
+| health | 220 |
+| drops | Lesser Mantra Modifiers |
+| weapon | Battleaxe, Messer, Mace, Gilded Knife |
+| moves | Assault, Critical |
+
+## Description
+
+Bandit Leaders can only be found at [Erisia](Erisia.md) or [Summer Isle](Summer_Isle.md). They have a static spawn at the bandit village in Lower Erisia. They can be found in the following events:
+
+-   Bandit Ambush- 1 Bandit Leader and 2 Lowly Bandits
+-   Bandit Camp- 1 Bandit Leader and 2 Lowly Bandits
+-   Raid on Erisor's Church- Several waves of bandit leaders
+-   Summer Isle Castle Bandit Raid- Varying numbers up to 3
+-   Faction Ambush- 3 Bandit Leader
+-   Bandit Leader and lowly bandits vs Summer Company Guards
+
+A Bandit Leader wears the [Bounty Hunter](Bounty_Hunter.md) [Outfit](Outfit.md).
+
+## Moveset
+
+A Bandit Leader's arsenal consists of a starter weapon, being a [Battleaxe](Battleaxe.md), [Messer](Messer.md), [Mace](Mace.md), or a [Gilded Knife](Gilded_Knife.md):
+
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon above their head before firmly slamming it down into the ground, breaking the victim's guard.
+
+\[[Messer](Messer.md)\] Performs a windup before thrusting the blade forward into the enemy's chest.  
+\[[Gilded Knife](Gilded_Knife.md)\] Winds up before unleashing a quick flurry of three slashes.
+
+-   Battleaxe and Mace criticals are not blockable.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Feint**  
+(★★☆)
+
+ | Attacks, but stops during the windup in an attempt to catch the opponent off-guard.
+
+-   ☕︎ Harmless
+
+ |
+
+## Finisher
+
+A Bandit Leader executes their opponent after knocking them:
+
+| Name | Description |
+| --- | --- |
+| Execute | \[[Messer](Messer.md) & [Gilded Knife](Gilded_Knife.md)\] User pins down the opponent and slices their throat with their blade.
+\[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] User pins down opponent while raising their weapon before firmly bashing the opponent's face in.
+
+ |
+
+## Tips
+
+-   Parry trade them until their posture breaks.
+-   Alternatively, parry then use your critical.
+-   Try pinning them against a wall and then feinting your next attack before performing a critical.
+-   Feinting and using Mantras can prove quite effective.
+
+## Trivia
+
+-   The Bandit Leaders, especially if they wield the Silver Dagger, are infamous for being extremely difficult (at lower levels) on higher ping servers due to the AI's immediate input paired with the speed of daggers, as well as sometimes being able to shred through a player's Blood bar and indirectly kill them that way.
+-   They used to be called "Bandit Captains."

@@ -1,0 +1,37 @@
+---
+title: Tied Tie
+revid: 210866
+source: https://deepwoken.fandom.com/wiki/Tied_Tie
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Exclusive, Equipment, Torso, Ties]
+notices:
+  - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
+---
+
+# Tied Tie
+
+| Tied Tie | |
+|---|---|
+| type | Head |
+| rarity | Unique |
+| selling price | Unsellable |
+| weight | 1 |
+| innate stats | +5 Health , +1 Uncommon Pip |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | (Unobtainable) |
+| description | Go play celeste |
+
+## Description
+
+Tied Tie is an unobtainable [Equipment](Equipment.md) item under the "Torso" category. It's a dark green tie with the Deepwoken logo on it, and it comes with a white collar for your neck.
+
+## Trivia
+
+-   This item is undroppable by the user, and immediately soulbound upon obtainment. Meaning there is no point where it would be droppable by hand or death.
+-   Tied Tie is one of the five [Equipment](Equipment.md) pieces obtained through the Mod Shop. The others being [A Lot of Hats](A_Lot_of_Hats.md), [MICROWAVETM](MICROWAVETM.md), [Moderator Cap](Moderator_Cap.md), and [THE MACHINE](THE_MACHINE.md).
+-   A treasure hunt was created by the [Official Deepwoken Twitter](https://twitter.com/Deepwoken) where if you found the Deepwoken Twitter Guy, you'll receive a Tied Tie. [Here's](https://twitter.com/Deepwoken/status/1712139521779806628) the link to that post. _The Winner of this treasure hunt is the same guy creating this page, Hello! (Shoutout to @danicress for being the indirect reason I won, by telling me about the event)_
+-   This item can be dyed and smelted.
+-   When provided to the player, the item has a chance to be starred. This could be true with the 4 other Mod Shop accessories, but it's 100% factual due to the treasure hunt reward.

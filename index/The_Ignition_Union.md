@@ -1,0 +1,123 @@
+---
+title: The Ignition Union
+revid: 219390
+source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [In progress without reason, InProgressPages, Factions, The Ignition Union]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
+---
+
+# The Ignition Union
+
+| The Ignition Union | |
+|---|---|
+| territory | Miner's Landing, The Frontier Furnace, The Chariot's Spire |
+| goals | Competing with The Summer Company and The Divers., Gain territory in and explore The Depths. |
+
+“ Fine workers of the Union,  
+Come hear our hammer call!  
+We'll stand in solidarity -  
+Shoulder to shoulder, together, tall!  
+Shoulder to shoulder, together, tall! ”
+
+― The Hammer's Call
+
+  
+
+## Description
+
+**The Ignition Union** is a faction found primarily throughout the [Eastern Luminant](Luminants.md) and [The Depths](The_Depths.md). They are a renowned freelancer company and labor union that specializes in trade, technology, R&D, and Depths exploration.
+
+During the [Etrean Civil War](Etrean_Civil_War.md), the Union attacked the [Etrean Royalists](Etrean_Royalists.md)' forces in order to claim their land for their own. They converted the area into the mountainous [Miner's Landing](<Miner's_Landing.md>), located in the Eastern Luminant. Additionally, they have established two field bases in the Depths: [The Chariot's Spire](<The_Chariot's_Spire.md>) in [Scyphozia](First_Layer.md) and [The Frontier Furnace](The_Frontier_Furnace.md) in the first floor of the [Eternal Gale](Second_Layer.md).
+
+They are responsible for producing weapons such as the [Ignition Deepcrusher](Ignition_Deepcrusher.md) and the [Boltcrusher](Boltcrusher.md) along with the [Railblade](Railblade.md), as well as technologies such as the [Arc Suit](Oath%253A_Arcwarder.md) and [Union Pager](Union_Pager.md).
+
+They are one of the three factions contracted by [The Central Authority](The_Central_Authority.md) alongside [The Divers](The_Divers.md) and [The Summer Company](The_Summer_Company.md). The Ignition Union are specifically tasked with going into the Depths and "killing anything that crawls out". However, the Union do not view the employers favorably and would rather not see them attain greater power.[\[1\]](#cite-note-1)
+
+They have instigated and maintains a mutually hostile relationship with the Summer Company; alongside various ideological differences, the Summer Company manufactures valuable gunpowder and explosives that are of use to the Union in their many research projects.
+
+The union also shares an unfriendly rivalry with the Divers, and they frequently engage in petty, violent squabbles over territory in the Depths. [Akira](Akira.md), who does not view them as human beings anymore, refers to them as "[Mudskippers](Mudskipper.md)" after killing several of them with his [Resonance](Resonance.md), and the aforementioned members of the Union that engaged him in combat seemed prepared to callously kill him on the spot. According to [Alpha](Alpha.md), this rivalry stems from the Divers receiving funding from the Authority, conveniently ignoring the fact the Union are in that exact same boat. Deepdelver Gamma implies it also stems from the Divers' seeming callousness towards the lives of their members.
+
+Unlike the traditional hierarchy practiced by the likes of The Divers and the Central Authority, the ranks of the Ignition Union are primarily structured on the value an individual has contributed to the collective. High-ranking Ignition Union members are known as [Ignition Deepdelvers](Ignition_Deepdelver.md), and are known for their heavy contribution and sacrifice to the Union and its members.
+
+## Reputation
+
+Like other factions such as [The Summer Company](The_Summer_Company.md), having negative [reputation](Reputation.md) will have vendors deny you service within their affected territories. Additionally, you will be attacked by guards on sight. If the player has positive reputation, guards will not finish you off if they down you and will instead scold you and return to their post.
+
+You can reset your reputation with [Maura](Maura.md), who is standing inside a house on top of a cliff in Miner's Landing. Reaching her requires either parkour, mobility mantras, or the Union Hook [Talent](Talents.md), and the price range is 30 to 600 Notes.
+
+The Ignition Union is among the factions to have a Bounty Board, which means that negative reputation with them leads to being hunted by [Voidwalkers](Voidwalker.md).
+
+Having Hunted reputation will cause you to be hunted by [Arcwarders](Ignition_Union_Arcwarder.md) and [Mechalodaunts](Mechalodaunt.md).
+
+### Dialogue
+
+> _The following dialogue is spoken by guard NPCs if the player interacts with them at a corresponding Reputation rank._
+
+Ally-Hero Reputation
+
+-   "Alright, <name>? Good to see a familiar face."
+
+Friend-Ally Reputation
+
+-   "How's it going mate?"
+-   "Sea's treating you well and all, yeah?"
+
+Neutral Reputation
+
+-   "Don't interfere with our work here, alright?"
+-   "Come on, quit dawdling, I'm sure you have better places to be."
+
+Enemy-Neutral Reputation
+
+-   "You on your break or something? Some of us still have work."
+-   "Come on, get moving, I'm sure you have better places to be."
+
+## Notable Members
+
+[Deepdelver Tau](Deepdelver_Tau.md): A [Ganymede](Ganymede.md) Deepdelver in charge of leading players into expeditions into the [Saramaed Hollow](Saramaed_Hollow.md), Tau is in charge of bringing the Deep Drill back to the surface when a signal is called by the player via the radio communication system inside the drill.
+
+[Deepdelver Adar](Adar,_Master_of_Metal.md): An [Etrean](Etrean.md) with the rank of a Deepdelver in one of the towers in Miner's Landing studying on how to bring Ironsing back into the modern world. He has been in the Union presumably since birth from the Union taking him off the streets, due to the living Ironsingers guarding the secrets of the attunement he is hidden with the comrades of the Union not knowing where he is as he would be punished for attempting to turn a normal person into an Ironsinger.
+
+[Deepdelver Gamma](Deepdelver_Gamma.md): A [Khan](Khan.md) Deepdelver who resides in the Chariot's Spire along with Renau and Myra and is in charge of the area working with supplies and finding a lost member in the Eternal Gale, he has been in the first layer all his life.
+
+[Deepdelver Renau](Renau.md): A [Canor](Canor.md) Deepdelver who resides in the Chariot's Spire along with Gamma and Myra and is in charge of sending or going to expeditions into the second layer, he is worried of the current batch of union members who are in the Eternal Gale as they were unqualified with the most being Epsi.
+
+[Deepdelver Finnegan](Finnegan_The_Lost.md): A Former Deepdelver who wields one of the prototypes of the [Boltcrusher](Boltcrusher.md), he had a lover who has deceased from unknown reasons. Because of this his mind broke causing his sanity to crumble attacking anything he sees, as the Ignition Union tasks you to bring him down.
+
+[Deepdelver Myra](Deepdelver_Myra.md): A [Tiran](Tiran.md) Deepdelver who resides in the Chariot's Spire along with Renau and Gamma, it is unknown what she does but upon interaction she is scheduled to enter the [Second Layer](Second_Layer.md) with some of her peers.
+
+[Gawain Corbet](Gawain_Corbet.md): A presumed [Adret](Adret.md) Deepdelver of The Ignition Union who created the song "The Hammer's Call", his current whereabouts are unknown.
+
+[Alpha](Alpha.md): An old Canor seeming as the leader in the Frontier Furnace.
+
+[Delta](Delta.md): A Canor residing inside Miner's Landing and is presumably one the inventors of the [Arc Suit](Oath%253A_Arcwarder.md) as he is capable of giving you the oath.
+
+[Epsi](Epsi.md): A young [Gremor](Gremor.md) boy working for the Ignition Union and was brought to the second layer with Alpha's team, tasked with communicating with the other members using the radio, his fate is left at the player depending on their actions.
+
+[Orion](<Miner's_Landing.md#orion-quest>): A [Celtor](Celtor.md) that tasks the player with killing Summer Goons that invade Miner's Landing.
+
+[Llevyn](Llevyn.md): An Adret who can call down the Ignition Deepdrill for the player to escape the Eternal Gale without the Lighthook.
+
+[Sunway](Sunway.md): A [Vesperian](Vesperian.md) who explains the function of the Wormwarder Lanterns to the player along with the parasites of the Eternal Gale explaining their origin.
+
+## Trivia
+
+-   Whilst being executed, Ignition Union NPCs may call the player a "scab". A [scab](https://en.wikipedia.org/wiki/Strikebreaker#) is a pejorative term for individuals hired during an ongoing labour strike to keep a company operating at the bare minimum efficiency until the strike is dissolved. Alternatively, it may just be an insult based on the substances that forms over wounds.
+-   Despite Alpha suggesting the Union are aware of the Central Authority's evils and oppose their ideology, outside of competition with the Divers, the Union shows no signs of attempting to actually subvert the Authority for their actions that they are so ready to verbally condemn. Furthermore, the [Authority Ensign](Authority_Ensign.md) Origin actually spawns with higher starting reputation with the Union than the Summer Company, despite the company being shown to have far less reservations without their partnership, suggesting that, ironically, the Union are rather easy to buy.
+-   The Ignition Union has its own [anthem](Books.md#the-hammers-call), titled "The Hammer's Call," a modern adaptation of an [Adretian](Adret.md) folk song penned by a "Gawain Corbet" in the year 1272.
+-   [Miner's Landing](<Miner's_Landing.md>) is one of two cities in-game to be focused on industrialism more than medievalism along with [Summer Isle](Summer_Isle.md).
+-   The Ignition Union is one of four factions that have an [Oath](Oaths.md) tied to them.
+-   One of two factions to create and utilize [Monsters](Monsters.md), the other being [The Hive](The_Hive.md).
+-   Some Ignition Union NPCs are named after Greek terms:
+    -   **Alpha**, **Delta**, **Epsilon**, **Gamma**, and **Tau** are letters in the Greek alphabet.
+    -   **Orion** is one of the 48 constellations listed by Ptolemy, an ancient Greek astronomer.
+-   Opposed to what their name might suggest, they’re predominantly [Ironsing](Ironsing.md) users.
+-   The Ignition Union has the most Owned Territories out of every Faction at 4, and is tied with [The Divers](The_Divers.md) for the most Passive NPCs at 7.
+    -   The Ignition Union have more by technicality, due to [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and [Karliah](Karliah.md) being former members of The Divers rather than active members.
+-   The Ignition Union is Communist, as hinted at by the [Arcwarder](Oath%253A_Arcwarder.md) description, which references a popular quote from the Communist writer, Karl Marx. As well as the name of the faction itself being a nod to the Communist nature of The Union.
+
+## Navigation
+
+1.  [↑](#cite-ref-1) [Alpha](Alpha.md)

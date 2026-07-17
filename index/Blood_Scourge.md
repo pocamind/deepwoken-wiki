@@ -1,0 +1,50 @@
+---
+title: Blood Scourge
+revid: 208534
+source: https://deepwoken.fandom.com/wiki/Blood_Scourge
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Resonances]
+---
+
+# Blood Scourge
+
+| Blood Scourge | |
+|---|---|
+| effect | Executes all knocked entities within radius. |
+| appearance | Red circle appears around center of use. |
+
+“ Conjure a swirling mass of chaotic energy that will drain the life out of your foes. ”
+
+― Blood Scourge description
+
+## Description
+
+**Blood Scourge**, also referred to as **Reaper,** is a [Resonance](Resonance.md) or "bell" that players can obtain and is uncommon to roll.
+
+### _Appearance_
+
+When used, a red circle appears around the user or projectile. Any unconscious entities or players in this area are immediately gripped.
+
+## Usage
+
+Pressing C will activate the **Blood Scourge** Resonance. **This combat tags the user.**
+
+**Blood Scourge** will near instantly execute any unconscious entity within it's range (even allies) and will recover some of the player's HP depending on the level and health of the target, occurs within a few seconds. It has a cooldown of about 20 seconds. The execution cannot be avoided once in range, unless the caster is attacked at the very start of the animation, or the target was picked up and moved out of the circle.
+
+If Blood Scourge is corrupted, it can be charged by holding C, which prevents the user from moving but sends all executed targets to The Depths. This roughly takes three seconds to charge. Can be negated if the user is hit while charging. Additionally, after executing a player with Corrupted Blood Scourge (regardless of charge), you will gain a 50% buff to incoming healing for 30 seconds.
+
+### _**Resonance Point usage**_
+
+When obtained, Blood Scourge will spend its points on the following stats:
+
+-   **Thrown:** If this stat is used, the player will launch a projectile ahead that then summons the AOE to grip entities. (The thrown version cannot be canceled)
+-   **Range:** The more points are spent on this stat, the further the range of the AOE becomes at the expense of a slower grip duration.
+-   **Healing:** The more points are spent on this stat; the more health given per grip.
+
+## Trivia
+
+-   The Blood Scourge Resonance does NOT give you I-frames while doing the animation, you can get cancelled while doing it if other players/NPCs attack you.
+-   Unlike the standing variant, throwable Blood Scourge cannot be cancelled.
+-   Shortly after the mechanic was added, Corrupted Blood Scourge could send people below Power 12 to The Depths. This was quickly patched.
+-   Most likely a reference to Dinakeri's/Wraith Knight's Soul Rip skill from Rogue Lineage, which itself is a reference to the [Dark Hand](https://darksouls.fandom.com/wiki/Dark_Hand) from the _Dark Souls_ franchise.
+-   The sound that plays once using the Resonance originates from a 2012 meme: [https://youtu.be/TS\_VIVVmTTE?t=3](https://youtu.be/TS_VIVVmTTE?t=3)

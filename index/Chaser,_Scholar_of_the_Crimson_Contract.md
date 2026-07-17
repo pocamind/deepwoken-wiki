@@ -1,0 +1,320 @@
+---
+title: "Chaser, Scholar of the Crimson Contract"
+revid: 219825
+source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pathfinder Exclusive, Enemies, Bosses, Black Divers, Voiced Characters, Ministry Enemies]
+---
+
+# Chaser, Scholar of the Crimson Contract
+
+| Chaser, Scholar of the Crimson Contract | |
+|---|---|
+| health | 25k (+ 2.5k every person) |
+| drops | Large Layer 2 Chest (see Loot Table), Strange Tome Volume #2, Ardour manifestation, Pluripotent Alloy, Flareblood Kamas, Bloodforged Crown, Weathered Timepiece, Bloodfouler |
+| moves | Triple Blood Appendage, Powerful Blood Appendage, Burning Blood Explosion, Miasma Blast, Stalactite Fall, Transfusion, Sanguine Repulsion, Last Resort |
+| affiliation | The Divers (formerly), Black Divers division, The Ministry |
+| challenges | -- Chaser, Scholar of the Crimson Contract --, Deep Diver Thrombosis - Slay 10.Reward: +5% DMG; +2.5% RES |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+“ Hmm, yes. It's always such a shame when the greed of foolish men overcomes their survival instincts. I suppose they just weren't meant to reach the [City.](New_Kyrsa,_The_Sleeping_City.md) ”
+
+― Chaser
+
+## Description
+
+Chaser, Scholar of the Crimson Contract is a humanoid [Boss](Bosses.md) that is fought in Floor 1 of the [Second Layer](Second_Layer/The_Ethironal_Shrine.md). He is found within [The Maw of Ethiron](The_Maw_of_Ethiron.md), specifically in the [Cathedral of Ethiron](Cathedral_of_Ethiron.md). He is also a Black Diver, though in reality an operative serving [The Ministry](The_Ministry.md).
+
+He was once an aspiring Diver, graduating as one of the greatest of his generation, only surpassed by [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) and [Akira](Akira.md).[\[1\]](#cite-note-1) Eventually, he betrayed the Divers, joining the Ministry instead. He served as an apprentice for and was gifted the ability of a [Bloodrend](Bloodrend.md)\-based Oath by the Ministry's Second Prophet, during which he developed the [Flareblood Kamas](Flareblood_Kamas.md).[\[2\]](#cite-note-2) Funnily enough, Chaser does not use the Flareblood Kamas at all during the fight.
+
+He allied himself with the mysterious Kyrsgarde and volunteered to lead an expedition into the [Eternal Gale](Second_Layer.md). However, by the time they reached the Second Layer, he tore the expedition apart, though Apprentice [Diver](Diver.md) Azel Corbet managed to record his fears and suspicions before being lost. Another expedition would then be sent, but that too was lost. A third expedition arrived to the Second Layer, but they soon ran out of food. Its members grew suspicious, Journeyman Diver Skeli recording that Chaser could no longer be trusted or allowed to reach the '[Forbidden City](New_Kyrsa,_The_Sleeping_City.md)' and some tried to flee to the [Ignition Union's nearby holdout](The_Frontier_Furnace.md), though they would be killed by Chaser. Eventually that expedition too would be wiped out.[\[3\]](#cite-note-3)
+
+Appearance-wise, he is a young male greymarch [Adret](Adret.md) characterized by his unique eye color and facial markings. He also has a [Resonance](Resonance.md) that allows him to extract power from the effigies of the dead,[\[4\]](#cite-note-4) with the multiple bells on his hips representing those effigies. However, he is incapable of using them. His eyes are blood red and have a swirl pattern, likely as a result of his own variant of the Oath.
+
+## Moveset
+
+Despite being a humanoid boss and his status as a Black Diver, he doesn't perform any physical attacks, instead using long-range blood related [Mantras](Mantras.md) which are channelled through the jars of blood located around the cathedral.
+
+_For a visual guide, consider watching [this video](https://www.youtube.com/watch?v=_m4IQHs8p_Y)._
+
+| Name/Danger | Description | Media |
+| --- | --- | --- |
+| 
+**Triple Blood Appendage**  
+(★☆☆)
+
+ | Chaser shoots three long appendages out, they latch onto a player/surface before returning.
+
+-   Blocking all three hits will cause a lot of posture damage, so attempt to parry it.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ | 
+
+ |
+| 
+
+**Powerful Blood Appendage**  
+(★★☆)
+
+ | Chaser launches an appendage that rapidly targets the player; if it lands it will fling the player towards Chaser.
+
+-   There is an indicator and the unparriable sound cue before the attack.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
+
+Dodge
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ✴︎ Pull
+-   ⤻ Ragdoll
+-   𓂘 Grab
+
+ | 
+
+ |
+| 
+
+**Burning Blood Explosion**  
+(★★☆)
+
+ | After a short casting sound, Chaser rapidly forms a moderately large explosion of blood under the player, which he then ignites.
+
+-   Does low posture damage, but comes out faster than his other moves.
+-   The aforementioned casting sound:  
+    
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
+ | 
+
+ |
+| 
+
+**Miasma Blast**  
+(★★☆)
+
+ | Three waves of blood mist spread out under Chaser, covering the whole area.
+
+-   Getting hit stuns you and additionally prevents jumping, guaranteeing the other rings hit.
+-   Currently bugged and is purely visual.
+
+_Uses Telegraph_
+
+[JumpTelegraph](Combat_Mechanics.md#jump)
+
+Jump
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   ↑ Jump-Avoidable
+
+ | 
+
+ |
+| 
+
+**Stalactite Fall**  
+(★☆☆)
+
+ | Chaser drops many stalactites from the ceiling. Does no posture damage.
+
+-   During the second phase of the fight, Chaser will collapse the ceiling, triggering this attack for the last time for the remainder of the fight. He may attempt to use it again, but it will fail.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
+ | 
+
+ |
+| 
+
+**Sanguine Repulsion**  
+(☆☆☆)
+
+ | Chaser uses blood to imitate a vent, launching away all players near him and causing them to ragdoll. Happens a few seconds after he is down.
+
+-   The first instance of this does the most damage.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
+ | 
+
+ |
+| 
+
+**Transfusion**
+
+ | Chaser heals from the jars of blood, healing ~1250 HP.
+
+-   Chaser will use this move everytime after he leaves his vulnerable state.
+-   He cannot use this move after all blood jars have been broken.
+
+-   ☕︎ Harmless
+-   «» Misc.
+
+ | 
+
+ |
+| 
+
+**Last Resort**  
+(★☆☆)
+
+ | Chaser unleashes around 25 localized attacks on the player(s) while utilizing all of his moves in a frenzy.
+
+-   You must stay in the circle just below him to avoid this attack.
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ | 
+
+ |
+| 
+
+**Body Slam**  
+(★☆☆)
+
+ | During his final phase, the blood tendrils that take hold of his body repeatedly slam Chaser onto the floor.
+
+-   This pushes away anyone trying to stand inside of the circle to avoid the constant damage inflicted by Last Resort.
+-   The slams do a moderate amount of damage as well.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ | 
+
+ |
+| 
+
+**Blood Frenzy**  
+(★★☆)
+
+ | Chaser laughs then uses up to 4 attacks in quick succession.
+
+-   Chaser will be highlighted in red while this attack is in use.
+-   This attack is only available once there are no (or only a few) jars left.
+-   This attack also drains him for 250 health.
+
+-   «» Misc.
+
+ | 
+
+ |
+
+## Finisher
+
+All of Chaser's moves except Stalactite Fall instantly execute.
+
+## Attack Pattern
+
+Whenever Chaser's HP drops below 80%, he will collapse the ceiling, preventing him from using the Stalactite Fall attack again for the remainder of the fight. The stalactites that fell will remain for around 10 minutes; most runs won't have them disappear. This is good as you won't have to worry about this attack again.
+
+**Phase 1:**
+
+-   Chaser uses his regular attacks randomly. This will be his moveset until there are no blood jars left.
+    -   The player is required to break the blood jars around the arena to progress the fight. Jars that can be broken can be identified by a trail between them and Chaser or the light they give. Only a few jars can be broken per cycle.
+    -   Whenever all the jars of the current cycle are broken, Chaser will be incapacitated and fall to the floor, allowing the player to attack him. After this period of vulnerability, Chaser will heal himself, restoring 1250 HP and the cycle repeats.
+
+**Phase 2:**
+
+-   Once all blood jars are broken, Chaser loses the ability to heal but gains a new attack, which allows him to rapidly attack multiple time in a row.
+    -   His Blood Frenzy (identified by Chaser's Laugh while he's still in the air and by him having a red highlight) incorporates his other blood based attacks and are rapidly chained. He will cast between 1 to 4 attacks in a row.
+    -   In this phase, Chaser will be incapacitated after 4 attacks (most of the time). His vulnerability periods are longer than in phase 1, allowing the player to deal more damage. (YOU STILL HAVE TO BREAK JARS IN STAGE 2)
+
+**Phase 3:**
+
+-   When Chaser has fewer than 6,000 HP/1 bar left on his healthbar, he will use his desperation attack, in an attempt to take the player with him. (Note that this is not static. It is not immediately after 6,000HP is reached.)
+    -   During this phase, the entire arena becomes a danger zone that deals constant damage to the player. This is dodgeable. Players must stay below Chaser to not be affected by this.
+    -   Chaser will attempt to push the player away from the safe zone below him by slamming himself on the ground. This attack can be blocked (albeit it needs a good shield/high posture), parried or dodged.
+    -   Be extremely careful, as Chaser will use his regular attacks in between his ground slams. The blood wave attack becomes threatening in this phase as you are given little reaction time to jump.
+    -   Chaser will eventually die by himself, completing the fight.
+-   Chaser has a pattern of attacks during this phase.
+    -   As soon the arena turns into a danger zone, he will unleash a **Body Slam**.
+    -   The slam is followed by an attack.
+    -   After the second move, Chaser will use **Body Slam** twice, both with the same timing.
+    -   The slams are followed by a random move from his moveset.
+    -   During his last move, he will chain two quick **Body Slams** along a normal one, eventually ending the fight.
+
+## Loot Table and Rewards
+
+After Chaser is defeated, a path to [Floor 2](Kyrsan_Shrine_of_Arrival.md) opens and a medium sized [chest](Chests_&_Sacks.md) is spawned. On top of this, he will grant 2 [Knowledge](Knowledge.md) on first kill, 1 Knowledge per kill if contributing 35% or more damage, and an additional 1 Knowledge per kill if fought solo.
+
+Additionally, the player will receive a significant amount of experience, [attribute training](Attributes.md), resonance progress, as well as some positive [Divers](The_Divers.md) reputation.
+
+**Roughly** six Chaser solos, without the Boss Resonance Progression path, will allow you to obtain a Resonance.
+
+Beating Chaser by entering Layer 2 without a Light Hook will grant you the "Hookless Eternal Gale" Triumph for your [Echoes](Echoes.md) and significant Resonance progress for both the Depths and Bosses categories.
+
+If [Aska](Aska.md) were to fall off the map, you will receive the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) upon killing Chaser instead. The item will instantly be added to your inventory rather than being in the chest.
+
+### 
+
+Exhaustive Loot Table
+
+<table><tbody><tr><td><b><a href="Outfits.md">Outfit Schematics</a></b></td><td>N/A</td></tr><tr><td><b>Miscellaneous</b></td><td><ul><li><a href="Items.md">Items</a>: <a href="Strange_Tomes.md">Strange Tome Volume #2</a>, <a href="Weathered_Timepiece.md">Weathered Timepiece</a>, <a href="Heartstar.md">Heartstars</a>, <a href="Deep_Gems.md">Deep Gems</a></li><li><a href="Relics.md">Relics</a>: <a href="Enchant_Stone.md">Enchant Stones</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Void_Spire.md">Void Spire</a></li></ul></td></tr><tr><td><b><a href="Weapons.md">Weapons</a></b></td><td><ul><li><b>Unique Weapons</b>: <a href="Bloodfouler.md"><font>Bloodfouler</font></a></li><li><b>Legendary Weapons</b>: <a href="Flareblood_Kamas.md"><font>Flareblood Kamas</font></a>, <a href="Rosen's_Hellflame.md"><font>Rosen's Hellflame</font></a>, <a href="Shadebolt.md"><font>Shadebolt</font></a></li><li><b>Generic Weapons</b>:<ol><li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Kyrstreza.md">Kyrstreza</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></li><li><b>Medium Weapons</b>: <a href="Crescendo.md">Crescendo</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Kyrsedge.md">Kyrsedge</a>, <a href="Kyrsglaive.md">Kyrsglaive</a>, <a href="Pernach.md">Pernach</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a></li><li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Evanspear_Greataxe.md">Evanspear Greataxe</a>, <a href="Kyrscleave.md">Kyrscleave</a>, <a href="Pale_Morning.md">Pale Morning</a></li></ol></li><li><b>Offhand Weapons</b>: <a href="Kyrstear.md">Kyrstear</a>, <a href="The_Path's_Defender.md">The Path's Defender</a></li></ul></td></tr><tr><td><b><a href="Equipment.md">Equipment</a></b></td><td><center><b>All equipment are guaranteed to be at least 1 star quality.</b></center><ul><li><a href="Equipment.md#head"><b>Head Equipment</b></a>:<ol><li><b>Mythical Head</b>: <a href="Bloodforged_Crown.md"><font>Bloodforged Crown</font></a></li><li><b>Generic Head</b>: <a href="Authority_Helm.md">Authority Helm</a>, <a href="Brigand's_Bicorn.md">Brigand's Bicorn</a>, <a href="Goldleaf_Helm.md">Goldleaf Helm</a>, <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a>, <a href="Smith's_Bandana.md">Smith's Bandana</a>, <a href="Vagabond's_Bicorn.md">Vagabond's Bicorn</a></li></ol></li><li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:<ol><li><b>Mythical Arms</b>: <a href="Delver's_Duster.md"><font>Delver's Duster</font></a></li><li><b>Legendary Arms</b>: <a href="Ironsinger_Heavy_Plate.md"><font>Ironsinger Heavy Plate</font></a></li><li><b>Generic Arms</b>: <a href="Brilliant_Pauldrons.md">Brilliant Pauldrons</a>, <a href="Legion_Phalanx_Plate.md">Legion Phalanx Plate</a>, <a href="Ranger's_Brace.md">Ranger's Brace</a>, <a href="Smith's_Gloves.md">Smith's Gloves</a>, <a href="Trimmed_Overcoat.md">Trimmed Overcoat</a></li></ol></li><li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Winter_Corps_Boots.md">Winter Corps Boots</a></li><li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:<ol><li><b>Relic Torso</b>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></li><li><b>Generic Torso</b>: <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, <a href="Confessor's_Charm.md">Confessor's Charm</a>, <a href="Dark_Owl_Cloak.md">Dark Owl Cloak</a>, <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a>, <a href="Sandrunner_Scarf.md">Sandrunner Scarf</a></li></ol></li><li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Aspirant_Mask.md">Aspirant Mask</a>, <a href="Browline_Citadel_Frames.md">Browline Citadel Frames</a>, <a href="Demon_Mask.md">Demon Mask</a>, <a href="Hivelord_Mask.md">Hivelord Mask</a>, <a href="Round_Citadel_Frames.md">Round Citadel Frames</a>, <a href="Ten-Gallon_Bandana.md">Ten-Gallon Bandana</a></li><li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Moonlit_Earrings.md">Moonlit Earrings</a>, <a href="Old_Blood_Earrings.md">Old Blood Earrings</a>, <a href="Practicioner's_Earrings.md">Practicioner's Earrings</a></li><li><a href="Equipment.md#rings"><b>Rings</b></a>:<ol><li><b>Legendary Rings</b>: <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a></li><li><b>Generic Rings</b>: <a href="Chained_Ring.md">Chained Ring</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Heavy_Hands_Ring.md">Heavy Hands Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Silver_Ring.md">Silver Ring</a></li></ol></li></ul></td></tr></tbody></table>
+
+## Dialogue
+
+**First Encounter:**
+
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Oh, a human? Far from home aren't we?</td></tr><tr><td colspan="6">What happened here?</td><td colspan="6">[Attack mid-dialogue]</td></tr><tr><td colspan="6">Oh here? Well, first I disposed of my mutinous team, now I am searching for <font>the City</font>.</td><td colspan="6">Aha, the first strike? Not one to mince words are we?</td></tr><tr><td colspan="3">They mutinied?</td><td colspan="3">The City?</td><td colspan="6">[End Dialogue]</td></tr><tr><td colspan="3">Hmm, yes. It's always such a shame when the greed of foolish men overcomes their survival instincts. I suppose they just weren't meant to reach <font>the City</font>.</td><td colspan="3">Oh you don't know? This tower sits atop <a href="Glossary.md#the-city-of-new-kyrsa">New Kyrsa</a>, the Sleeping City. There lies the so-called bedchambers of the <a href="Glossary.md#the-drowned-gods">Drowned God</a> <font>Ethiron</font>. Together perhaps we could -<br><font>[Chaser Attacks]</font></td></tr><tr><td colspan="3">The City?</td><td colspan="3">You don't belong here kid, falling for the oldest trick in the book... I'll make quick work of this.</td></tr><tr><td colspan="3">[See first instance]</td><td colspan="3">[End Dialogue]</td></tr></tbody></table>
+
+**Subsequent Encounters:**
+
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">How strange... Time truly does run amok when drawn into <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron's</a> Wake. To have memories of a previous encounter, yet to be standing here now... Fascinating, isn't it?</td></tr><tr><td colspan="4">Ethiron's Wake?</td><td colspan="4">I won't be fooled again.</td><td colspan="4">[Attack mid-dialogue]</td></tr><tr><td colspan="4">This close to the <a href="Glossary.md#the-drowned-gods">Drowned God</a> <font>Ethiron</font>, time itself is drawn into the Gale. The natural rules of causality, of cause and effect, all start to fray at the seams.<br><font>[Chaser Attacks]</font></td><td colspan="4">Again? It hasn't happened yet. Not in my time. There's still time left to talk this through, no? Tell me. After we met in your time, did you make it to the-<br><font>[Chaser Attacks]</font></td><td colspan="4">Aha, the first strike? Not one to mince words are we?</td></tr><tr><td colspan="8">Ha? Really?! Gods below, you really are such a FOOL.</td><td colspan="4">[End Dialogue]</td></tr><tr><td colspan="8">[End Dialogue]</td></tr></tbody></table>
+
+## Trivia
+
+-   The music of his bossfight is [A God, Manufactured](https://soundcloud.com/naktigonis/a-god-manufactured) by Naktigonis.
+-   Chaser is voiced by YouTuber [redpetal](https://www.youtube.com/@akirascorner) (previously known as DemStormz).[\[5\]](#cite-note-5)
+-   Chaser sets fire to his blood during the **Burning Blood Explosion** attack, implying he uses [Flamecharm](Flamecharm.md).
+-   Despite having visual armor, he has 0% resistance which making PEN stat useless against him.
+-   There was a period of time where rumors claimed that this boss was called Minerva or that it was the Avatar of Ethiron, however these were debunked, Verse 2 revealing the boss' name to be Chaser.
+-   The **Burning Blood Explosion** move used by Chaser closely resembles the spells that are casted by Mohg, Lord of Blood, from _Elden Ring_.
+-   The Triple Blood Wave move used by Chaser closely resembles the Lava Waves used by Ignis Meam in the roblox game Raid Boss Destiny, a game previously played by Agamatsu and developers during the development of Verse 2.
+-   Prior to the update of 1/30/23, he did not have a second phase, instead dying after all the jars were broken. As a result, he was viewed as the easiest boss in the game, and could even be beaten at any point in game.
+-   Chaser's body does not initially despawn after breaking the ground, and continues to fall downwards for a bit before reaching the bottom of the pit, then despawns.
+-   According to ragoozer, Chaser was planned to have a proper Phase 2, however, he didn't have enough time to work on it prior to the release of Verse 2. It's unknown if this is the same phase 2 that he has now.[\[6\]](#cite-note-6)
+-   Chaser does not spawn if: The generator is not powered on, if the Bounder nest has not been triggered, or if one of the two doors at spawn has not been opened.
+-   Much like the Ferryman, if Chaser is set on fire at a certain threshold, he can be gripped like any normal NPC.
+-   Chaser had two name changes. At first, his name was changed from "Chaser, Scholar of the Crimson Contract" to "Chaser, Scholar of the Burning Blood". In September 2024 it was changed back to "Chaser, Scholar of the Crimson Contract".
+-   His hair ID is 77799954 & the beard ID is 4995497755
+-   Chaser's Hex Code Colors: #8f9ea3 Skin | #001926 Hair | (Pupils can be found in the 'Gallery' above) | #000000 Facial Marking | #5d4545, #404d54, #645d43, #504a53 Left Leg Resonances | #5d4545, #475349, #45465a, #37525d Right Leg Resonances
+-   Chaser's Body Slam used to be an animation. However, exploiters could copy the animation, activate it on themselves, and clip into the floor, thereby allowing them to attack people through the floor at no risk. Therefore, it was changed to being a physics constraint.[\[7\]](#cite-note-7)
+-   Due to Chaser's attacks ignoring armor damage resistance, the only additional threat he presents to W Rank players is the doubled damage from Fragile Heart.
+-   Chaser's old laugh used to be the same as the [Duke's](Duke_Ishamon_Erisia.md) but lower pitched and echoed.
+-   According to [Vyrelda](Vyrelda.md), Chaser has his own unique oath variant that created by himself. The oath variant is also perfectly matching with his resonance that can extract the power from effigies of the dead. The stolen bells is the effigies that Chaser used.
+-   Chaser's title, **The Scholar of Crimson Contract** was gained because of his own unique oath variant that he created by himself.
+
+## References
+
+1.  [↑](#cite-ref-1) [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
+2.  [↑](#cite-ref-2) [Flareblood Kamas](Flareblood_Kamas.md) description
+3.  [↑](#cite-ref-3) [Diver Journals](Books.md)
+4.  [↑](#cite-ref-4) [Vyrelda](Vyrelda.md)
+5.  [↑](#cite-ref-5) [https://www.youtube.com/watch?v=VedRxDf8QNs](https://www.youtube.com/watch?v=VedRxDf8QNs)
+6.  [↑](#cite-ref-6)
+7.  [↑](#cite-ref-7)

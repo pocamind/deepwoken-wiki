@@ -1,0 +1,33 @@
+---
+title: The Great Sharko Rumbling
+revid: 191052
+source: https://deepwoken.fandom.com/wiki/The_Great_Sharko_Rumbling
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: ["Non-canon articles", Pages requiring a cleanup, Events]
+notices:
+  - "Heretical tomes... The content found within this article is considered non-canonical in regards to the wider Deepwoken universe."
+  - "This page, by declaration of the Inquisition, is of insufficient quality and requires a cleanup to better meet the Wiki's quality standards. Help improve this article by improving formatting, spelling and the general layout. Within this dark a blazing light!"
+---
+
+# The Great Sharko Rumbling
+
+| The Great Sharko Rumbling | |
+|---|---|
+| date1 | Winter 1291 |
+| date2 | March 12th 2022 9:21PM EST |
+| effects | Treasure chests doubled for three days |
+| type | Bug Compensation |
+
+_"Winter 1291 marks that fateful night, when the rumbling of a million Megalodaunts thundered in our ears. They laid waste to our homes... And what little lands we had left to squabble over. But, in the strange and inscrutable ways of the Deep, an age of plenty soon followed. So soon after a fall, our people were once again prospering..."_
+
+The Great Megalodaunt Rising was an event in the Winter of 1291. After many years of fishing, fishermen decided that their harvests were not enough. They invented a new creation, the "Megalodaunt Bait", in which they would be able to attract [Megalodaunts](Megalodaunt.md) to civilized locations, as to be easily harvested by the locals in a safe method and location.
+
+This started out fine, but slow. The fishermen wanted more, and thus, they placed dozens, even hundreds of traps. They expected their haul of Megalodaunts to increase, and that it did, but to an extent nobody thought was even possible. Hundreds of Megalodaunts, led by tens of Crimson Megalodaunts, rose onto the shores of civilized Islands all over the Luminant, causing untold destruction and the deaths of thousands of innocents.
+
+Adventurers, warriors, pirates, mages, gladiators, and anyone else who could fight were called back to the islands to make a desperate last stand, and they succeeded in tiding off the literal, and metaphorical wave of Megalodaunts, sending them back reeling to the deep.
+
+After the re-building of society, the economy was able to boom due to the influx of treasures gained from the Megalodaunts.
+
+## Origin of the event
+
+During the update that introduced Megalodaunt Bait, players figured out that Megalodaunt Bait could be repeatedly used. With this, players started placing multiple Megalodaunt Bait in a singular area (most notable one being Etris Docks), resulting in a large amount of Megalodaunts flooding a singular area, swarming players and guards alike, giving them almost no chance to survive and fight back. The baits were quickly disabled, made unavailable for a very long time.

@@ -1,0 +1,28 @@
+---
+title: Alestrian Coral
+revid: 176886
+source: https://deepwoken.fandom.com/wiki/Alestrian_Coral
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Ingredients, Harvestables, Alchemy]
+---
+
+# Alestrian Coral
+
+| Alestrian Coral | |
+|---|---|
+| value | N/A |
+| weight | 1 |
+| type | Ingredient |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | Beautiful coral found beneath the waves. |
+
+## Description
+
+Alestrian Coral is an [Ingredient](Ingredients.md) found in the [First Layer](First_Layer.md), in the [Celtor Wastes](Celtor_Wastes.md). It is pink with brown-ish spots. Its most notable use is in the creation of Speed [Potions](Alchemy.md), but it also has the highest negative posture damage effect.
+
+## Trivia
+
+-   Was once only useful for creating speed potions, but is now also used to create [Varicosan Finery](Varicosan_Finery.md).
+-   They can be obtained by chopping down coral trees in the depths which is why they heavily resemble them.

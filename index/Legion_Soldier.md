@@ -1,0 +1,107 @@
+---
+title: Legion Soldier
+revid: 216086
+source: https://deepwoken.fandom.com/wiki/Legion_Soldier
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies, The Hundred Legions, The Hundred Legions Enemies]
+---
+
+# Legion Soldier
+
+| Legion Soldier | |
+|---|---|
+| health | 300 |
+| drops | Gale Stone, Ritual Spear |
+| weapon | Champion's Sword, Ritual Spear, Legion Shield |
+| moves | Assault, Critical, Gale Lunge, Wind Blade |
+
+## Description
+
+A Legion Soldier is an enemy NPC that can be found in [Viper's Jaw](<Viper's_Jaw.md>) and the following events:
+
+-   Legion Soldiers vs [Authority Officers](Authority_Officer.md) ([Upper Erisia](Upper_Erisia.md))
+-   Hundred Legions ambush event (anywhere)
+-   Legion encampment (Eastern Luminant)
+
+A Legion Soldier wears a [11th Legion Plate](11th_Legion_Plate.md), a [Legion Helmet](Legion_Helmet.md), a pair of [Legion Pauldrons](Legion_Pauldrons.md) and a pair of [Legion Boots](Legion_Boots.md) with their aspect.
+
+Legion Camp is located at the cave next to the Bandit Village in [Upper Erisia](Upper_Erisia.md), but has also an entrance next to the [Lower Erisia](Lower_Erisia.md) beach
+
+## Moveset
+
+A Legion Soldier's arsenal consists of either a [Champion's Sword](<Champion's_Sword.md>) or [Ritual Spear](Ritual_Spear.md) paired with a [Khan Shield](Khan_Shield.md) along with the [Galebreathe](Galebreathe.md) attunement:
+
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | \[[Champion's Sword](<Champion's_Sword.md>)\] Performs a wind-up before firmly thrusting blade forward.
+
+\[[Ritual Spear](Ritual_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Gale Lunge**  
+(★★☆)
+
+ | User lunges forward with their weapon coated in wind.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Wind Blade**  
+(★☆☆)
+
+ | User shoots out an arc of gale.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+
+### Talents
+
+-   Air Pressure - Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash.
+-   Cyclone Blade - After a successful Gale Dash you wrap your weapon in wind essence causing your next Light attack to do bleed damage and chip through your opponents block.
+-   Pressure Break - Breaking an enemy's posture will cause them take intense wind pressure damage and be flung backwards.
+
+## Finisher
+
+A Legion Soldier executes its opponent after knocking them:
+
+| Name | Description |
+| --- | --- |
+| Execute | \[[Champion's Sword](<Champion's_Sword.md>)\] Pins down opponent before slicing their throat with their blade.
+\[[Ritual Spear](Ritual_Spear.md)\] Pins down opponent before impaling them through the chest with their spear.
+
+ |
+
+## Trivia
+
+-   The two Legion soldiers at Legion Camp inside the Viper's Jaw are not equipped with Khan shields, except if they aggro you.
+-   They are hostile towards [Forgotten Villagers](Forgotten_Villager.md).
+-   The two soldiers stationed in the The Viper's Jaw camp have a chance to engage in a conversation.

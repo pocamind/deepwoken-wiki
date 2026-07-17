@@ -1,0 +1,47 @@
+---
+title: Pathfinder Lantern
+revid: 217919
+source: https://deepwoken.fandom.com/wiki/Pathfinder_Lantern
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment with Styles, Equipment, Torso, Equipment with Talents, "Equipment with Non-exclusive Talents"]
+---
+
+# Pathfinder Lantern
+
+| Pathfinder Lantern | |
+|---|---|
+| type | Torso |
+| rarity | Common |
+| selling price | 7 |
+| requirements | None |
+| weight | 0.5 |
+| styles | Left, Right |
+| innate stats | +10 Sanity , +1 Uncommon Pip |
+| innate talent | Breathing Exercise |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | No |
+| pass down | Yes |
+| obtainment | Chests from:, Lower Erisia, Crafting: (1) Dying Ember or Spark Gland, (1) Iron, (1) Fiber, The Diluvian MechanismVow of Iron:, Sightless Memento, Flashing Thunder Memento |
+| description | A sturdy lantern used to illuminate the path forward. With light as our guide, we are never truly lost. |
+
+## Description
+
+The Pathfinder Lantern is an [Equipment](Equipment.md) item under the "Torso" category.
+
+It can be crafted on the [Crafting Station](Crafting_Station.md) using the following materials:
+
+-   (1) [Dying Ember](Dying_Embers.md) or [Spark Gland](Spark_Gland.md)
+-   (1) [Iron](Iron.md)
+-   (1) [Fiber](Fiber.md)
+
+Dyeing the Lantern dyes the colour of the light given.
+
+The [Breathing Exercise](Talents.md#breathing-exercise) Talent increases passive sanity regen by 50%.
+
+## Trivia
+
+-   The glow of the lantern remains when smelted onto another torso equipment, allowing one to have the light of the lantern without compromising on stats.
+-   The lantern is situated on the right hip, unfortunately where your resonance should be. If you wish to use this equipment endgame to smelt onto a better piece of equipment for drip purposes, it's recommended to have your resonance be the "sphere" model so the lantern will fully encase it and not be visible.
+    -   Doing this; whenever you use your resonance it will appear as though your lantern shined for a second, a nice touch.
+-   Due to how lights work, it is recommended to dye the Lantern a hotter colour, such as Red, White, or Yellow. It is not recommended to dye the lantern a colder colour as it sacrifices visibility, and to **especially** not dye the lantern Black.

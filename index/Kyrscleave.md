@@ -1,0 +1,54 @@
+---
+title: Kyrscleave
+revid: 218462
+source: https://deepwoken.fandom.com/wiki/Kyrscleave
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Weapons, Criticals with M1 tag, Greatswords, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons, Kyrs series]
+---
+
+# Kyrscleave
+
+| Kyrscleave | |
+|---|---|
+| type | Greatsword |
+| damage type | Slash |
+| requirements | 75 HVY |
+| damage | 23 + 3.45 BLD |
+| scaling | HVY: 9 |
+| posture damage | 9 |
+| range | 9 Sweep |
+| swing speed | 0.81x |
+| attack duration | 0.9s |
+| endlag | 0.1s |
+| chip damage | 10% |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Crescent Cleaver |
+| m.compatible | Greatswords |
+| stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | Legendary |
+| selling price | 50 |
+| weight | 2 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Chaser, Scholar of the Crimson Contract, Scion of Ethiron |
+| description | ... |
+
+## Description
+
+The Kyrscleave is an Endgame [Heavy Weapon](Weapons.md) obtained from the [Layer 2](Second_Layer.md) of [The Depths](The_Depths.md). The Kyrscleave is considered direct upgrade from the [Crescent Cleaver](Crescent_Cleaver.md) and a sidegrade to the alloyed version of the aforementioned weapon.
+
+## Critical
+
+After a short windup, the user lunges forward, impaling the target and then slamming them onto the ground, applying Knockdown. All 3 hits of this critical are parriable (even after being hit by the grab), while the first is also blockable and dodgeable.
+
+This critical is shared with the [Crescent Cleaver](Crescent_Cleaver.md) and [The Long Tong of The Law](The_Long_Tong_of_The_Law.md).
+
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
+
+## Trivia
+
+-   A part of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), **Kyrscleave**, [Kyrswynter](Kyrswynter.md), [Kyrsieger](Kyrsieger.md))
+-   Its critical attack, as well as the Crescent Cleaver, is probably a reference to Shadow Fight 3's Shadow Ability; "Vane" as both share similar animations.

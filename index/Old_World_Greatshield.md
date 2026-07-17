@@ -1,0 +1,36 @@
+---
+title: Old World Greatshield
+revid: 220286
+source: https://deepwoken.fandom.com/wiki/Old_World_Greatshield
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Weapons, Shields, Offhand]
+---
+
+# Old World Greatshield
+
+| Old World Greatshield | |
+|---|---|
+| type | Shield |
+| requirements | 30 FTD |
+| max posture | 5 |
+| special effect | Shield - While one-handing: Your character's Posture is increased by the Shield's Max Posture Bonus stat, but Posture recovery through parrying is reduced by 40%. |
+| offhand | Offhand only |
+| rarity | Common |
+| selling price | 7 |
+| weight | 2 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | No |
+| pass down | Yes |
+| obtainment | Miner's Landing, Chime of Conflict, Crypt of the Unbroken, Fishing, Saramaed Hollow, Bounty Chests, Pure Astruline Chest |
+| description | A shield designed intricately, most likely from a pre-Canticlym era. Its intricate design suggests previous use in royalty, although it cannot be said for sure. |
+
+## Description
+
+The Old World Greatshield is a shield found in [Miner's Landing](<Miner's_Landing.md>) chests. It has 5 weight, and the requirement for the shield is 30 FTD. It has a black base color and a silver ordained trim. In the middle of the shield is an engraved diamond shape connected to the sides by a bar, both the same color as the trim.
+
+The **Max Posture Bonus** stat can be increased with **Weight** Quality Stars.
+
+## Trivia
+
+-   The Old World Greatshield used to have a 20 Fortitude stat requirement instead of 30, so it essentially switched places with the [Kite Shield](Kite_Shield.md).

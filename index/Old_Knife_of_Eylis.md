@@ -1,0 +1,110 @@
+---
+title: Old Knife of Eylis
+revid: 216137
+source: https://deepwoken.fandom.com/wiki/Old_Knife_of_Eylis
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies that can wield Enchantments, Enemies, Ambush Enemies, Knives of Eylis Enemies]
+---
+
+# Old Knife of Eylis
+
+| Old Knife of Eylis | |
+|---|---|
+| health | ??? |
+| drops | ??? |
+| weapon | Whaling Knife |
+| moves | AssaultCritical |
+
+## Description
+
+An Old Knife of Eylis are more experienced mercenaries from the [Knives of Eylis](Knives_of_Eylis.md), whose identity is concealed by wearing a [hood](<Assassin's_Hood.md>). They will hunt the player if their reputation with the Knives of Eylis is set to [Hunted](Faction_Ambushes.md).
+
+## Moveset
+
+An Old Knife of Eylis' appearance consists of their [uniform](Whaler_Coat.md), alongside a [Whaler Scarf](Whaler_Scarf.md), accompanied by a set of [Grand Pauldrons](Grand_Pauldrons.md) and a [Crimson Assassin Hood](<Assassin's_Hood.md>). Their weapon only consists of a [Whaling Knife](Whaling_Knife.md), and is guaranteed to hold an enchantment.
+
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★★☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | The experienced knife thrusts forward whilst creating a wave of red energy.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Adagio**  
+(★☆☆)
+
+ | Conjures a growing orb that slows down the movement of everyone except their own members.
+
+-   ¤ Debuff
+-   «» Misc.
+-   ☕︎ Harmless
+
+ |
+| 
+
+**Revenge**  
+(★☆☆)
+
+ | A quick dash signified by a red-line effect.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
+
+ |
+| 
+
+**Dash**  
+(☆☆☆)
+
+ | The knife quickly makes an agile dash.
+
+-   ⟡ Movement
+-   ☕︎ Harmless
+
+ |
+| 
+
+**Rapid Slashes**  
+(★☆☆)
+
+ | Swiftly rushes into the enemy and cuts them apart.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
+
+ |
+| 
+
+**Adrenaline Surge**  
+(☆☆☆)
+
+ | Gains a mobility boost for a short duration of time.
+
+-   «» Misc.
+-   ☕︎ Harmless
+
+ |

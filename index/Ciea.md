@@ -1,0 +1,63 @@
+---
+title: Ciea
+revid: 213204
+source: https://deepwoken.fandom.com/wiki/Ciea
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Eastern Luminant]
+---
+
+# Ciea
+
+| Ciea | |
+|---|---|
+| name | Ciea |
+| aspect | Vesperian |
+| location | Starswept Valley (In a cave above Widow's Hollow, next to Shrine of Mastery) |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+“ My protege! Care to undergo another lesson? I'll put your intellect to the test! ”
+
+― Ciea, after having done one quest.
+
+## Description
+
+Ciea is a female Vesperian that tells the player to make potions with specific effects. So far she is known to ask you to make:
+
+-   A potion that brings forth a surge of speed _**(Pomars or Alestrian Coral)**_
+-   A potion that causes a person to lose sanity _**(Urchins, Chum, Scallops, Seaweed, or Thresher Eggs)**_
+-   A potion that restores some life force _**(Redds or Glumfigs)**_
+-   A potion that harms its victims _**(Browncaps, Bluecaps or Pomars)**_
+-   A potion to regenerate ether _**(Dentifilo, Bluecaps)**_
+
+Every fulfilled request gives EXP. Fulfilling 3 requests gives you the [Harvester](Talents.md#harvester) Talent.
+
+There may be different options when you talk to Ciea, but for the ones listed, you'll have to use those specific ingredients or else she won't take it. You can use diluted potions (potions with only 1 copy of an ingredient) without any detriments to rewards given.
+
+Her quest is needed to get the [Saltchemist](Saltchemist.md) Oath.
+
+**NOTE**: _Certain ingredients such as [Redd](Redd.md) **do not spawn** during [Winter](Winter.md)._ Keep this in mind before doing her quest.
+
+## Location
+
+Ciea is located in [Starswept Valley](Starswept_Valley.md) right beside the [Shrine of Mastery](Shrine_of_Mastery.md).
+
+## Dialogue
+
+The colors in dialogue are for convenience. They do not appear in game.
+
+**First Encounter:**
+
+**Quest Start:**
+
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Hm? You come stumbling into my research lab, but for what cause? If you're looking for potions, I'm not for hire. However, if you are looking to experiment and train your intellect to pursue being an apothecary, I do offer lessons, hehe.</td></tr><tr><td colspan="6">I'm interested in a lesson.</td><td colspan="6">Who are you?</td></tr><tr><td colspan="6">Oh, little moth.. you remind me of myself during my golden-age. Hungry for knowledge and understanding. Do you truly wish to undergo my training? Take note that it will be.. quite difficult, if you're unexperienced with creating potions with specific effects, hehe.</td><td colspan="6">Now, now.. no need for the <i>haste</i> with questions, young novice. The art of potion crafting itself takes patience, hehe. I am Ciea, an experienced tutor. When I was young, I dedicated myself to discovering new concoctions, dreaming of becoming a world-renowned apothecary. Alas, as you grow older.. dreams fall hard, heh. Now, I simply share what I know, and test the knowledge of my initiates to better their understanding of potion brewing.</td></tr><tr><td colspan="6">I can handle it.</td><td colspan="6">I'm interested in a lesson.</td></tr><tr><td colspan="6">So ambitious, I can admire your curiosity! My dear apprentice, listen well for your assignment. To advance your intellect, concoct and show me a potion which can [bring forth a surge of speed](<i><b><u>Hastening</u></b></i> potion)/[deplete the sanity of it's victim](<i><b><u>Mindbreaking</u></b></i> potion)/[restore your life force](<i><b><u>Rejuvenating</u></b></i> potion)/[cause harm to its victim](<i><b><u>Disgusting</u></b></i> potion)/[restore your ether, to a satisfactory degree](<i><b><u>Soothing</u></b></i> potion). Once you've completed this concoction, return to me and let me be the judge of your apothecary prowess.</td><td colspan="6">[See first instance]</td></tr><tr><td colspan="6">[End Dialogue]</td></tr></tbody></table>
+
+**Turning in the potion:**
+
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">My apprentice returns! Have you finished your assignment?</td></tr><tr><td colspan="12">I've made the potion.</td></tr><tr><td colspan="12">Very well, very well! Please, hold out your concoction. I'll be the judge if you've truly mastered how to create an exquisite potion able to [bring forth a surge of speed]/[deplete the sanity of it's victim]/[restore your life force]/[cause harm to its victim]/[restore your ether, to a satisfactory degree].</td></tr><tr><td colspan="12">Here is my creation.</td></tr><tr><td colspan="3">Holding Nothing</td><td colspan="3">Not A Potion</td><td colspan="3">Wrong Potion</td><td colspan="3">Right Potion</td></tr><tr><td colspan="3">No, no. Please hold out a fine concoction.</td><td colspan="3">No, no, this isn't a potion dear apprentice! Surely you're not attempting to prank me, hehe.</td><td colspan="3">Ah, dear apprentice.. it seems your knowledge is lacking. Experiment with your creations, hehe! This potion lacks the ability to [bring forth a surge of speed]/[deplete the sanity of it's victim]/[restore your life force]/[cause harm to its victim]/[restore your ether, to a satisfactory degree]. Perhaps you've shown me the wrong one? Please, hold out another and I'll inspect it.</td><td colspan="3">A protege! Dear apprentice, this is it! You truly are an inspiring apothecary! I hope you've gained newfound knowledge of this unique art. Please, I insist you return to me if you ever seek additional lessons; I'm available anytime.</td></tr><tr><td colspan="9">[End Dialogue]</td><td colspan="3">[End Dialogue], quest complete</td></tr></tbody></table>
+
+**Subsequent Encounters:**
+
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">My protege! Care to undergo another lesson? I'll put your intellect to the test!</td></tr><tr><td colspan="12">I can handle it.</td></tr><tr><td colspan="12">[See first instance]</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>

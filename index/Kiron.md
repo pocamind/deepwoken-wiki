@@ -1,0 +1,112 @@
+---
+title: Kiron
+revid: 211553
+source: https://deepwoken.fandom.com/wiki/Kiron
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Aspects]
+---
+
+# Kiron
+
+| Kiron | |
+|---|---|
+| obtained_by | 4% Roll Chance |
+| appearance | Orange, dark tan, cream, tan, white, off-white, or red skin color, Orange, purple, yellow, dark orange, lavender, off-white, pink, or red eye color, Light brown, grey, pink, light purple, off-white, coral pink, or black hair color, Large bat-like ears, Facial markings |
+| traits | Echolocator, +3 Agility, +2 Intelligence |
+
+"_Once isolated in the subterranean caverns that straddle the boundary, the bat-like Kirons are perceptive and shrewd spelunkers..._"
+
+Chance of obtaining aspect: **4%**
+
+## Description
+
+Kirons are a rare [aspect](Aspect.md) with bat-like features. Their Agility and Intelligence attributes are innately increased, as a result of years of spelunking experience.
+
+## Traits
+
+**Pathfinder:**
+
+<table><tbody><tr><td></td><td><b>Echolocator</b><ul><li>"<i>Your highly tuned hearing helps you navigate, seeing better in the dark and sensing potential threats.</i>"<ul><li>When any nearby player unsheathes their weapon or an event spawns, their location will be pinged briefly.</li><li>Echolocator will ping through walls, even bypassing things like <a href="Tacet.md">Tacet</a> or other forms of invisibility.</li></ul></li></ul></td></tr><tr><td><center><font>+</font></center></td><td><b>Attribute Boosts</b><ul><li>+3 Agility</li><li>+2 Intelligence</li></ul></td></tr></tbody></table>
+
+**Vow of Iron:**
+
+<table><tbody><tr><td></td><td><b>Acute Hearing</b><ul><li><i>After years of using Echolocation, you've trained your ears to sense danger even further away. You are also able to sense when someone completes a job.</i><ul><li><b>Massively</b> increases Echolocation radius and makes pings when someone completes a job.</li></ul></li></ul></td></tr></tbody></table>
+
+**Lore:**
+
+  
+Kirons were once isolated within [Saramaed Hollow](Saramaed_Hollow.md), possibly influencing their bat-like appearance.
+
+**Strengths:**
+
+-   Can see better in the dark.
+-   Pings potential threats.
+-   Assuming you don't have [Multifaceted](Echoes.md#upgrades-unlocks-and-modifiers):
+    -   +6% [Stealth](Stealth.md) (+3 Agility)
+    -   +4 Ether (+2 Intelligence)
+        
+
+**Surnames:**
+
+-   Aatu
+-   Alukaatu
+-   Draatu
+-   Metu
+-   Mihaatu
+-   Netu
+-   Noctu
+-   Petu
+-   Ratu
+-   Vaatu
+-   Ventu
+    
+
+### Echolocator
+
+Whenever nearby enemies unsheathe their weapons or an event spawns, ping the danger with your acute senses. This bypasses [Tacet](Tacet.md) and [Lowstride](Talents.md#lowstride).
+
+## Features
+
+Kirons have a very small range of ornament choice, with the only two options being fluff or no fluff, it does however have three unique mouth options, six different facial marking variants, and four unique eyebrow options.
+
+### Ears
+
+Kirons have large bat ears with their color being based on your skin color. Additionally, the player has the option to have or not to have ear fluff, with the color of the fluff being based on your first hair slot. The ears and ear fluff can be [dyed](Dye_Packet.md) individually.
+
+### Mouth
+
+While Kirons lose access to most universally accessible mouths, they gain these three unique ones.
+
+### Eyebrows
+
+Kirons have 4 exclusive eyebrow options.
+
+### Markings
+
+Kirons have optional face markings. The color of these markings is based on your variant, but they can also be [dyed](Dye_Packet.md).
+
+**Kerivoula:**
+
+**Hypsignathus:**
+
+**Ectophylla:**
+
+**Pipistrelle:**
+
+**Megaderma:**
+
+**Macroderma:**
+
+**Lasiurus:**
+
+**Hallowtide:**
+
+## Trivia
+
+-   Kiron is tied with [Chrysid](Chrysid.md) for having the most variants out of all aspects, both having 7 base variants and 1 Hallowtide variant for an astonishing 8 total variants. For reference, no other aspect has more than 6 total variants.
+-   The surname Vaatu may be a nod to [Vaatu](https://avatar.fandom.com/wiki/Vaatu) from the _Avatar_ franchise.
+-   The surname Alukaatu is a blatant reference to Alucard, a recurring name in fiction for characters with connections to [Count Dracula](https://en.wikipedia.org/wiki/Count_Dracula).
+-   The surname Draatu may be a nod to Dracula.
+-   You can combine the names ‘Nosfa’ and ‘Ratu’ to get a name that sounds similar to ‘Nosferatu’, the original vampire horror movie from 1922.
+-   Each variant name is related to or directly named after a Genus of bat.
+-   The surname 'Ventu' could be a reference to the 'Ventrue' clan from _Vampire the Masquerade_.

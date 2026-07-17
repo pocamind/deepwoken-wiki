@@ -1,0 +1,208 @@
+---
+title: Golem Prime
+revid: 216011
+source: https://deepwoken.fandom.com/wiki/Golem_Prime
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pathfinder Exclusive, Monsters]
+---
+
+# Golem Prime
+
+| Golem Prime | |
+|---|---|
+| health | 30007500 (Corrupted) |
+| attacks | Recessive Spin, Prime Laser, Laser Barrage, Stomp, Ground Slam, Uppercut, Scream |
+| drops | Dying Embers, Tier 2 Mantra Modifiers, Great Maul |
+| locations | Duke Erisia's Manor, The Diluvian Mechanism |
+| challenges | -- Stonelife Golem --, Pebbleslayer - Slay 10.Reward: +10% DMG; +5% RES, Boulderslayer - Slay 25.Reward: +10% DMG; +5% RES, Mountainslayer - Slay 100.Reward: +10% DMG; +5% RES |
+
+Variants: [Rock Golem](Rock_Golem.md) · [Golem Magma](Golem_Magma.md)
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+_Also known as Duke Golems or Prime Golems._
+
+## Description
+
+**Golem Primes** are large, bulky stone constructs that resemble their original counterparts, but with a red core, red eyes and a sleek black paint job.
+
+Golem Primes are found exclusively within [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), and spawned from the [Deep Crucible](Deep_Crucible.md). Compared to [Rock Golems](Rock_Golem.md), they are significantly more dangerous.
+
+In combat, Golem Primes are very hardy, having moderately high health and high slash resistance. Despite essentially being the same as a regular Rock Golem, take high caution when fighting a Golem Prime as their attacks are much stronger compared to the latter, but they are still pretty easy once you know how to fight them.
+
+## Attacks
+
+| Name/Danger | Description | Media |
+| --- | --- | --- |
+| 
+**Recessive Spin**  
+(★★☆)
+
+-   ResistanceBlunt Blunt
+
+ | The golem starts spinning its arms, rapidly dealing medium damage at an insane speed.
+
+-   Hits 40 times in total.
+-   Grants autoparry frames.
+    -   You can attack the golem through these autoparry frames.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ | 
+
+ |
+| 
+
+**Prime Laser**  
+(★★☆)
+
+-   ◯ Typeless
+
+ | The golem charges up a red laser before firing it, dealing massive damage in a small AoE.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
+
+Dodge
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+
+ | 
+
+ |
+| 
+
+**Laser Barrage**  
+(★★★)
+
+-   ◯ Typeless
+
+ | The golem charges up a laser before firing a barrage of them, dealing high damage rapidly.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
+
+Dodge
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+
+ | 
+
+ |
+| 
+
+**Stomp**  
+(★☆☆)
+
+-   ResistanceBlunt Blunt
+
+ | The golem raises its leg before giving a powerful earthshaking stomp.
+
+-   Auto-grips if low enough.
+
+_Uses Telegraph_
+
+[JumpTelegraph](Combat_Mechanics.md#magenta)
+
+Jump
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   ↻ Undodgeable
+-   ↑ Jump-Avoidable
+
+ |  |
+| 
+
+**Ground Slam**  
+(★☆☆)
+
+-   ResistanceBlunt Blunt
+
+ | The golem brings its arms over its head, before quickly slamming them down into the ground in a vicious swing.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |  |
+| 
+
+**Uppercut**  
+(★★☆)
+
+-   ResistanceBlunt Blunt
+
+ | The golem winds up its arm behind it, before quickly swinging it outwards.
+
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#highposture)
+
+High posture
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ↗ Ragdoll
+
+ |  |
+| 
+
+**Scream**  
+(★★★)
+
+-   ResistanceBlunt Blunt
+
+ | The golem screams, making the ceiling above it drop rubble, dealing high damage if the rubble lands on a player.
+
+-   The rubble falls in a random location within a fairly large AoE.
+-   The rubble falls incredibly fast making it very hard to react to.
+-   Due to the above two points, this attack is generally not worth defending yourself against, as there's a chance that it won't even hit you, and even if it would hit you, the chance of you reacting to it and responding accordingly is relatively low.
+-   This can lag players on lower-end devices.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
+
+Dodge
+
+-   ☣ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+
+ | 
+
+ |
+
+### Passives
+
+-   **Rock Shell -** Golems have 25% Slash Resistance.
+-   **Monster Resistance -** Physical attacks deal ??? less damage to Golems.
+-   **Artificial Construct-** Bloodless does not proc on Golems.
+
+## **Finisher**
+
+| Name | Media | Description |
+| --- | --- | --- |
+| Crushing Stomp |  | A Golem ends its opponent's life by delivering a stomp onto their bodies. This happens in less than a second. This also executes any downed enemies nearby. |
+
+## Tips
+
+-   Do not attempt to fight Golem Primes until you have mastered fighting normal golems.
+-   Since you can rapidly parry it's spinning move, the Providence Thorns enchant can kill Golem Primes incredibly fast.
+-   Golem Primes are incredibly dangerous, especially when there is multiple Golem Primes on you, so when in Duke's Manor, you would want to try aggro them one at a time, unless you have a good PVE build or enough HP to tank the onslaught
+
+## Trivia
+
+-   Golem Primes are special, more powerful versions of the Rock Golems, that serve the purpose of very high security over Duke's Labatory.

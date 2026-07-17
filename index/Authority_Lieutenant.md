@@ -1,0 +1,123 @@
+---
+title: Authority Lieutenant
+revid: 216982
+source: https://deepwoken.fandom.com/wiki/Authority_Lieutenant
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies, Central Authority Enemies, Ambush Enemies, Enemies that can wield Enchantments]
+---
+
+# Authority Lieutenant
+
+| Authority Lieutenant | |
+|---|---|
+| health | 1000 |
+| drops | Frigid Prism |
+| weapon | Cavalry Saber, Adretian Axe, Mace |
+| moves | Assault, Critical, Fire Blade, Strong Left |
+
+## Description
+
+The Authority Lieutenant is an NPC found outside the shipwright hut in [Fort Merit](Fort_Merit.md), via [Faction Ambushes](Faction_Ambushes.md), or fighting with [Legion Captains](Legion_Captain.md) in [Starswept Valley](Starswept_Valley.md).
+
+Their appearance consists of a Authority Captain Uniform, the [Bluesteel Boots](Bluesteel_Boots.md) and [Pauldrons](Bluesteel_Pauldrons.md), a black [Shrouded Cape](Shrouded_Cape.md) and, unusually for an Authority member, [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md), however for some odd reason they wear their [helmet](Authority_Helm.md) too. They are similar in appearance to the [Authority Captain](Authority_Captain.md) and [Authority Commander](<Authority_Commander_(NPC).md>).
+
+## Moveset
+
+Their arsenal is composed of an Cavalry Saber/Adretian Axe/Mace along with the [Flamecharm](Flamecharm.md) attunement:
+
+| Name/Danger | Desciption |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | ([Cavalry Saber](Cavalry_Saber.md)): Performs four quick slashes with their blade.
+
+([Adretian Axe](Adretian_Axe.md)): Does a windup by rising the weapon before slamming its blade on you.  
+([Mace](Mace.md)): Raises club upward before slamming it down to the ground.
+
+-   Adretian Axe and Mace criticals are not blockable.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Fire Blade**  
+(★★☆)
+
+ | User slams down with their blade coated in flames.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Flame Grab**  
+(★★☆)
+
+ | User lunges forward for a grab that slams and burns incoming opponents into the ground.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
+
+ |
+| 
+
+**Ash Slam**  
+(★★★)
+
+ | User imbues their fist with flames that explode on impact with the ground.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
+ |
+
+### Talents
+
+-   Azure Flames - Many of their flames turn blue, signifying their increased intensity.
+-   Mirage Clone - Dodging attacks will leave behind a heat mirage clone that sets their enemy on fire.
+-   Agitating Spark - Flame attacks spread to anybody nearby, including themselves.
+-   The Final Act - Flame mantras landed after a flourish will explode their opponent.
+-   Immolation - Hitting their opponent while on fire will apply fire damage, while also taking 50% less damage from self inflicted flames.
+-   Phoenix Flames - Any time an Authority Lieutenant would burn to death, they instead revive with half of their health restored.
+-   Corpse Explosion - Bodies they burn to death instantly detonate, dealing damage to anybody nearby. Their flames will also incinerate knocked targets much faster.
+-   Controlled Combustion - Their Agitating Spark no longer spreads to those allied with them.
+
+## Finisher
+
+An Authority Lieutenant executes its opponent after knocking them:
+
+| Name | Description |
+| --- | --- |
+| Execute | ([Cavalry Saber](Cavalry_Saber.md)):Pins down opponent before slicing their throat.
+([Adretian Axe](Adretian_Axe.md)):Pins down the opponent before splitting their skull with the weapon.
+
+([Mace](Mace.md)):Pins down opponent before firmly bashing their face with mace.
+
+ |
+
+## Trivia
+
+-   The Authority Lieutenant's dialogue when they are being executed is usually "You're pretty strong...", "How is this even possible?" or "What is someone of your strength doing here...?" the same as the Authority Captain.

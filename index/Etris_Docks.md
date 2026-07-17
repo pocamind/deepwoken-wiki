@@ -1,0 +1,51 @@
+---
+title: Etris Docks
+revid: 211164
+source: https://deepwoken.fandom.com/wiki/Etris_Docks
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations, Locations in the Etrean Luminant, Territory of Etrea]
+---
+
+# Etris Docks
+
+LocationL Etris Docks LocationR
+
+TERRITORY OF Etrea
+
+There are those who think of ports as a gateway between two worlds; that of the living and that of the lost.
+
+  
+
+**Etris Docks** is a [location](Locations.md) in _Deepwoken_. It is a landmark in [Etris](Etris.md) found in [The Etrean Sea](The_Etrean_Sea.md).
+
+## Overview
+
+Etris Docks are docks in Etris that players can dock their [boats](Boats.md) in among other things.
+
+## Contents
+
+### [Fishing](Fishing.md) Shop
+
+-   Players can purchase a Fishing Rod for 30 and [Chum](Chum.md) for 10 here.
+
+### [Mantra Collector](Mantra_Collector.md)
+
+-   Players can find Schnitzel who will purchase their [Mantra Modifiers](Mantra_Modifiers.md).
+
+### [Shipwright](Shipwright.md)
+
+-   Players can find a [Shipwright](Shipwright.md) who can craft you [boats](Boats.md) for notes and spawn your crafted boats.
+    -   If you have low [Reputation](Reputation.md) with [Etrea](Etrea.md), he will refuse to craft or spawn your boats.
+
+### [Great Megalodaunt Rumbling](The_Great_Sharko_Rumbling.md) Remembrance Shrine
+
+-   "May The Depths be merciful to the souls we lost on that dreadful day"
+    -   Using any [Emote](Emotes.md) next to the shrine will summon [Destroyman III](Destroyman_III.md). He can be unsummoned by Emoting again.
+
+## Maps
+
+A map can be found at [Maps#Surface](Maps.md#surface).
+
+## Trivia
+
+-   Although some food can be seen nearby the Fishing shop, they can't be taken nor bought and merely serve as decoration.

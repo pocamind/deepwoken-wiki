@@ -1,0 +1,45 @@
+---
+title: Flintlock
+revid: 220178
+source: https://deepwoken.fandom.com/wiki/Flintlock
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Weapons, Pistols, Offhand, Light Weapons, Weapons of The Summer Company]
+---
+
+# Flintlock
+
+| Flintlock | |
+|---|---|
+| type | Pistol |
+| damage type | Blunt |
+| requirements | 20 LHT |
+| damage | 11 |
+| scaling | LHT: 12 |
+| posture damage | 1 |
+| range | 10 Sweep |
+| swing speed | 1.17x |
+| m.equip | No |
+| m.extract | No |
+| stances | 1 Handed |
+| capacity | 4 |
+| offhand | Yes |
+| offhand cd | 2.4s |
+| rarity | Uncommon |
+| selling price | 14 |
+| weight | 2 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Sold at Summer Isle for 100 , Pure erisore turn ins, Chime of Conflict, Dread Serpent |
+| description | The son of a village blacksmith, a young Gunsmith Rosen took to the seas and returned an older man, bringing with him the spark of inspiration that brought firearms into the world. The modern flintlock is an improved and lightweight version of Gunsmith's prototype now found in every Luminant. |
+
+## Description
+
+The Flintlock is a [gun](Guns.md) that requires 20 points in Light weapons to be utilized.
+
+The Flintlock has a Bullet capacity of 4 when held without a second gun.
+
+## Critical
+
+Flintlock uses the default Pistol critical, an empowered shot. It has a scaled damage multiplier of **1.2x** and a cooldown of **3 seconds**. If your 1H pistol is out of ammo, you will not be able to use your critical. This critical's damage will lessen the farther the projectile travels.

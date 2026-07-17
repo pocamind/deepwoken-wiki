@@ -1,0 +1,182 @@
+---
+title: Attunements
+revid: 213989
+source: https://deepwoken.fandom.com/wiki/Attunements
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Character, Mantras, Mechanics, Attunement]
+---
+
+# Attunements
+
+**Attunements** are forms of magic that the player can choose on [Character Creation](Character_Creation.md) or obtain in the game through [Trainers](Spelltrainers.md).
+
+**IMPORTANT NOTE:** _For those learning about [Shrine of Order](Deep_Shrines/Shrine_of_Order.md),_ _Attunements do not average-out in the same way that other attributes do in Shrine of Order. Unlike other stats, they have no "bottom-limit" - where, for example, a 65 investment in Agility when influenced by Shrine of Order can lose a maximum of 25 points to become a 40 investment instead. They can lose an unlimited amount of points, reminiscent of the old behavior of Shrine of Order._  
+
+## Overview
+
+There are currently four base Attunements that anyone may select when first [creating a character](Character_Creation.md), with three more being unlockable throughout the world.(Note that Ironsing, Shadowcast and Bloodrend, the 3 attunements you have to attain, will remain permanently unlocked for all of your slots). Within the character creation menu, you may choose up to two attunements to start off with- or [none](Attunement-less.md), preferences considered.
+
+-   The more attunements you wield, the more expensive it will become to manage them, because you do not have an infinite number of points to spend on your character. Choose wisely.
+-   By choosing no attunement, you are provided 10 extra investment points to make up for the loss of attunement. Normally, these 10 points would be auto invested if you chose an attunement.
+
+Post-creation, the character is able to learn more attunements throughout their adventures by visiting individual _attunement trainers_ around the world. For the character to wield more attunements post-creation, they must collect 2-3 of the respective elemental ingredients- aside for Ironsing, which utilizes a more convoluted unlock method.
+
+-   [Flamecharm](Flamecharm.md) = [Dying Embers](Dying_Embers.md)
+-   [Frostdraw](Frostdraw.md) = [Frigid Prisms](Frigid_Prism.md)
+-   [Thundercall](Thundercall.md) = [Spark Glands](Spark_Gland.md)
+-   [Galebreathe](Galebreathe.md) = [Gale Stones](Gale_Stone.md)
+-   [Shadowcast](Shadowcast.md) = [Umbral Obsidian](Umbral_Obsidian.md)
+-   [Ironsing](Ironsing.md) = 1 [Pluripotent Alloy](Pluripotent_Alloy.md), 6 _[Ores](Ore.md)_ (Iron, Gold, Erisore, Irithine, Astruline, Umbrite)
+-   [Bloodrend](Bloodrend.md) = [Heartstars](Heartstar.md)
+
+These ingredients are typically dropped by those who wield the attunement, such as Gale Songseekers dropping Galestones. Some monsters may drop elemental ingredients as well- with Megalodaunts dropping Umbral Obsidians and Gigameds dropping Spark Glands. Upon collecting the ingredients, you can hand them into the trainer to obtain a bottle that once consumed will provide the character with a singular point in that attunement.
+
+-   Alternatively, if you happen to spawn in with an attunement which you do not possess via the Random Attunement function in the character creation menu, it will become available to freely choose upon next-character-basis.
+
+By default, players are given _**3 Combat Mantra slots, 1 Mobility Mantra slot, 1 Support Mantra slot and 1 Wildcard (freebie) Mantra slot.**_ Extra Mantras will be stored in the inventory with under the pink-colored [Mantra Modifiers](Mantra_Modifiers.md) category. These limitations can be softened via [Oaths](Oaths.md) and the Talents **Neuroplasticity** or **Will o' Wisp**, both of which will help expand your Mantra arsenal.
+
+-   Mantras from an Attunement can sometimes have requirements of non-Attunement stats. Such an example would be Flamecharm's _Ash Slam,_ which requires 20 Strength alongside 50 Flamecharm.
+
+Like with the inability to hand-modify stats, you cannot unlearn attunements once they have been learned by the character. The only way to remove an attunement is by wiping the slot.
+
+Attunement Mantras can be upgraded at their respective [Spelltrainers](Spelltrainers.md) at a specific investment level.
+
+-   1 in an attunement = Level 1 (Mantras start at level 1)
+-   20 = Level 2 Mantra
+-   40 = Level 3 Mantra
+-   60 = Level 4 Mantra
+-   80 = Level 5 Mantra
+
+## Base Attunements
+
+Attunements unlocked from [Character Creation](Character_Creation.md).
+
+[Attunement-less](Attunement-less.md)
+
+[Attunement-less](Attunement-less.md)[Attunement-less](Attunement-less.md)
+
+[Flamecharm](Flamecharm.md)
+
+[Flamecharm](Flamecharm.md)[Flamecharm](Flamecharm.md)  
+(FIR)
+
+[Frostdraw](Frostdraw.md)
+
+[Frostdraw](Frostdraw.md)[Frostdraw](Frostdraw.md)  
+(ICE)
+
+[Thundercall](Thundercall.md)
+
+[Thundercall](Thundercall.md)[Thundercall](Thundercall.md)  
+(LTN)
+
+[Galebreathe](Galebreathe.md)
+
+[Galebreathe](Galebreathe.md)[Galebreathe](Galebreathe.md)  
+(WND)
+
+  
+  
+
+## Obtainable Attunements
+
+Attunements requiring the completion of a quest to obtain and cannot be chosen from the main menu with a new account.
+
+[Shadowcast](Shadowcast.md)
+
+[Shadowcast](Shadowcast.md)[Shadowcast](Shadowcast.md)  
+(SDW)
+
+[Ironsing](Ironsing.md)
+
+[Ironsing](Ironsing.md)[Ironsing](Ironsing.md)  
+(MTL)
+
+[Bloodrend](Bloodrend.md)
+
+[Bloodrend](Bloodrend.md)[Bloodrend](Bloodrend.md)  
+(BLD)
+
+  
+
+  
+
+## Attunement Paths
+
+Many [Talents](Talents.md) offer "Paths" which act either as alternatives to an attunement's base behavior or blend behaviors of two different attunements into one hybrid path, often changing the attunement's appearance with it.
+
+Note: All of the icons above are undoubtedly official representations of their base attunements, as seen from the in-game [Character Creation](Character_Creation.md) screen. This status also applies to the "Random" selection. However, there exist icons for each of these Attunement Path Talents, found on this wiki or other locations, but the officiality of these are uncertain, largely due to their lack of uniformity. This section exists to list all of these more miscellaneous icons in one place.
+
+[Attunement](Attunement.md)
+
+[Attunement](Attunement.md)Random
+
+  
+
+### Alternative Paths
+
+[Flamecharm](Flamecharm.md)
+
+[Flamecharm](Flamecharm.md)[Eruption Path: Lava Serpent](Eruption_Path%253A_Lava_Serpent.md)
+
+[Frostdraw](Frostdraw.md)
+
+[Frostdraw](Frostdraw.md)[Glass Path: Crystallization](Glass_Path%253A_Crystallization.md)
+
+[Thundercall](Thundercall.md)
+
+[Thundercall](Thundercall.md)[Surge Path: Unstable Capacitor](Surge_Path%253A_Unstable_Capacitor.md)
+
+[Galebreathe](Galebreathe.md)
+
+[Galebreathe](Galebreathe.md)[Haunted Path: Specter](Haunted_Path%253A_Specter.md)
+
+[Ironsing](Ironsing.md)
+
+[Ironsing](Ironsing.md)[Gilded Path: Scrapsinger](Gilded_Path%253A_Scrapsinger.md)
+
+  
+
+### Hybrid Paths
+
+[Flamecharm#Twisted Puppets](Flamecharm.md#twisted-puppets)
+
+[Flamecharm#Twisted Puppets](Flamecharm.md#twisted-puppets)[Wraith Path: Twisted Puppets](Wraith_Path%253A_Twisted_Puppets.md)
+
+  
+
+  
+
+### Non-Path Talents
+
+[Flamecharm](Flamecharm.md)
+
+[Flamecharm](Flamecharm.md)[Azure Flames](Flamecharm.md#flamecharmer)
+
+  
+
+### Hybrid Non-Path Talents
+
+[Flamecharm#Vaporborne](Flamecharm.md#vaporborne)
+
+[Flamecharm#Vaporborne](Flamecharm.md#vaporborne)[Vaporborne](Flamecharm.md#vaporborne)
+
+  
+
+## Trivia
+
+-   Attunement-less, as the name suggests, isn't an Attunement, rather a lack thereof.
+-   Prior to the 5/15/2026 update[\[1\]](#cite-note-1), after selecting an Attunement for the first time, it would be the only available Attunement in the character creation menu other than choosing Random or None until you either unlocked more of them from their respective [trainers](Spelltrainers.md) or by choosing Random, obtaining one you haven't unlocked and wiping. Now all new players start the game having the four base attunements ([Flamecharm](Flamecharm.md), [Frostdraw](Frostdraw.md), [Galebreathe](Galebreathe.md), [Thundercall](Thundercall.md)) unlocked.
+-   When choosing a second Attunement to start with, you will only spawn in with the training item for the first Attunement- _whichever one has +6 points._ You can undo your selection by selecting Random or None.
+-   Selecting a new starting Attunement, you haven't unlocked yet on another slot will permanently unlock the Attunement across all your slots.
+-   **Water will never become an Attunement available to the public due to specific lore reasons-** only extremely powerful beings have the ability to manipulate water, as stated by Arch\_Mage.
+    -   _As an extension, he mentions that those who wield water magic have already lost their humanity._
+-   There is a misconception that Lightkeeping is a magic similar to Attunements, and the only reason it isn't in the game is arbitrary lore. In reality, Lightkeeping is more akin to a [Regalia](Regalia.md), and has no real combat application. The closest thing to light magic with a combat application is the [Dawnwalker Oath](Oath%253A_Dawnwalker.md).
+-   In the 25th of October Update, "ELE" and "LFE" were added to the attunement portion of the build exporter.
+    -   The next day, "ELE" was changed to "BLD".
+-   The message that appears when training an attunement, "The elements are not in alignment..." is a hint relating to obtaining the [Saintsworn](Saintsworn.md) [Oath](Oaths.md) and will persist unless you meet the attunement stat requirements for it, which, unless you go out of your way to meet them with the intent to obtain Saintsworn, you most likely won't.
+-   A method to previously unlock attunements as a new player was to select the "Random" option in [Character Creation](Character_Creation.md), and then wiping the slot until all four base attunements were unlocked.
+
+## Navigation
+
+1.  [↑](#cite-ref-1) [Version History/2026](Version_History/2026.md)

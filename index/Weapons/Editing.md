@@ -1,0 +1,64 @@
+---
+title: Weapons/Editing
+revid: 210074
+source: https://deepwoken.fandom.com/wiki/Weapons/Editing
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+---
+
+# Weapons/Editing
+
+_Go back to original page [here](../Weapons.md)_
+
+In order to edit the stats of a weapon, you'll need to make the edits on the template it is located in. Note that for all Hybrid and Legendary Weapons you'll need to edit both the Hybrid/Legendary template page and the location they're in in the template corresponding to its weapon type.
+
+Important calculator; **[Wiki calc](https://www.desmos.com/calculator/ikx0qfnf8b)**, a modified version of **[Deepwoken Damage V4](https://www.desmos.com/calculator/ukb3vjlbwc)**, made for streamlining the process of calculating the "Scaled Damage" for weapons.
+
+## Light Weapons
+
+Daggers: [AllDaggerWeapons2](https://deepwoken.fandom.com/wiki/Template:AllDaggerWeapons2)  
+Fists: [AllFistWeapons2](https://deepwoken.fandom.com/wiki/Template:AllFistWeapons2)  
+Rapiers: [AllRapierWeapons2](https://deepwoken.fandom.com/wiki/Template:AllRapierWeapons2)  
+Pistols: [AllPistolWeapons2](https://deepwoken.fandom.com/wiki/Template:AllPistolWeapons2)
+
+## Medium Weapons
+
+Swords: [AllSwordWeapons2](https://deepwoken.fandom.com/wiki/Template:AllSwordWeapons2)  
+Spears: [AllSpearWeapons2](https://deepwoken.fandom.com/wiki/Template:AllSpearWeapons2)  
+Staves: [AllStaffWeapons2](https://deepwoken.fandom.com/wiki/Template:AllStaffWeapons2)  
+Clubs: [AllClubWeapons2](https://deepwoken.fandom.com/wiki/Template:AllClubWeapons2)  
+Rifles: [AllRifleWeapons2](https://deepwoken.fandom.com/wiki/Template:AllRifleWeapons2)  
+Twinblades: [AllTwinbladeWeapons2](https://deepwoken.fandom.com/wiki/Template:AllTwinbladeWeapons2)  
+Bow: [AllBowWeapons2](https://deepwoken.fandom.com/wiki/Template:AllBowWeapons2)
+
+## Heavy Weapons
+
+Greataxes: [AllGreataxeWeapons2](https://deepwoken.fandom.com/wiki/Template:AllGreataxeWeapons2)  
+Greatswords: [AllGreatswordWeapons2](https://deepwoken.fandom.com/wiki/Template:AllGreatswordWeapons2)  
+Greathammers: [AllGreathammerWeapons2](https://deepwoken.fandom.com/wiki/Template:AllGreathammerWeapons2)  
+Greatcannons: [AllGreatcannonWeapons2](https://deepwoken.fandom.com/wiki/Template:AllGreatcannonWeapons2)
+
+## Elemental Weapons
+
+Flamecharm: [AllFlamecharmWeapons2](https://deepwoken.fandom.com/wiki/Template:AllFlamecharmWeapons2)  
+Frostdraw: [AllFrostdrawWeapons2](https://deepwoken.fandom.com/wiki/Template:AllFrostdrawWeapons2)  
+Thundercall: [AllThundercallWeapons2](https://deepwoken.fandom.com/wiki/Template:AllThundercallWeapons2)  
+Galebreathe: [AllGalebreatheWeapons2](https://deepwoken.fandom.com/wiki/Template:AllGalebreatheWeapons2)  
+Shadowcast: [AllShadowcastWeapons2](https://deepwoken.fandom.com/wiki/Template:AllShadowcastWeapons2)  
+Ironsing: [AllIronsingWeapons2](https://deepwoken.fandom.com/wiki/Template:AllIronsingWeapons2)  
+Bloodrend: [AllBloodrendWeapons2](https://deepwoken.fandom.com/wiki/Template:AllBloodrendWeapons2)
+
+## Offhands
+
+Offhands: [AllOffhandWeapons](https://deepwoken.fandom.com/wiki/Template:AllOffhandWeapons)  
+Shields: [AllShieldWeapons](https://deepwoken.fandom.com/wiki/Template:AllShieldWeapons)  
+Parrying Daggers: [AllParryingDaggersWeapons](https://deepwoken.fandom.com/wiki/Template:AllParryingDaggersWeapons)  
+Pistols: [AllPistolOffhandWeapons](https://deepwoken.fandom.com/wiki/Template:AllPistolOffhandWeapons)
+
+## Hybrid Weapons
+
+Hybrid: [AllHybridWeapons2](https://deepwoken.fandom.com/wiki/Template:AllHybridWeapons2)
+
+## Other
+
+Crazy Slots: [AllCrazySlotsWeapons](https://deepwoken.fandom.com/wiki/Template:AllCrazySlotsWeapons)  
+Spec: [AllExclusiveWeapons](https://deepwoken.fandom.com/wiki/Template:AllExclusiveWeapons)

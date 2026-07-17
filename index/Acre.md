@@ -1,0 +1,41 @@
+---
+title: Acre
+revid: 191913
+source: https://deepwoken.fandom.com/wiki/Acre
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
+---
+
+# Acre
+
+| Acre | |
+|---|---|
+| name | Acre |
+| aspect | Adret |
+| location | Starswept Valley |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+## Description
+
+Acre is an [Adret](Adret.md) sitting on a ledge overlooking the water wearing the [Skeptic Pioneer](Skeptic_Pioneer.md) Outfit, they throw you off into the water if you continue their dialogue.
+
+## Location
+
+Acre can be found on a ledge beside one of the longest ziplines in Starswept Valley, the zipline is found to the right of the [Fountain Gate](Fountain_Gates.md) that takes you to [Greathive Aratel](Greathive_Aratel.md)
+
+## Dialogue
+
+**First interaction:**
+
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>...Don't take another step closer to me. I know your type. Bloodthirsty. Ruthless. I don't trust you for even a second. Go away.</td></tr><tr><td>What are you talking about?</td></tr><tr><td>Don't. Come. Closer.</td></tr><tr><td>And if I don't?</td></tr><tr><td>GO AWAY!</td></tr><tr><td>[End Dialogue], player is thrown off the cliff</td></tr></tbody></table>
+
+**Second interaction:**
+
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Back off away from me. Right now. You'll regret this.</td></tr><tr><td>And if I don't?</td></tr><tr><td>GO AWAY!</td></tr><tr><td>[End Dialogue], player is thrown off the cliff</td></tr></tbody></table>
+
+**Third interaction:**
+
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>You... Again? Didn't you learn your lesson? Stay away from me.</td></tr><tr><td>What are you talking about?</td></tr><tr><td>You... You're the worst of the worst, you know that?</td></tr><tr><td>And if I don't?</td></tr><tr><td>GO AWAY!</td></tr><tr><td>[End Dialogue], player is thrown off the cliff</td></tr></tbody></table>

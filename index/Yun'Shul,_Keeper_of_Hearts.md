@@ -1,0 +1,29 @@
+---
+title: "Yun'Shul, Keeper of Hearts"
+revid: 214604
+source: https://deepwoken.fandom.com/wiki/Yun'Shul%2C_Keeper_of_Hearts
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Drowned Gods]
+---
+
+# Yun'Shul, Keeper of Hearts
+
+“ TELL ME, OH CHILD OF WANT, WHAT IS YOUR DESIRE? ”
+
+― Shrine of Yun'Shul
+
+_This is a page about the Drowned God. For their shrine that grants wishes, see [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>)._
+
+## Overview
+
+**Yun'Shul, Keeper of Hearts** is a [Drowned God](https://deepwoken.fandom.com/wiki/Category:Drowned_Gods) within the world of _Deepwoken._ It is unknown what property they are the Drowned God of, but it is often speculated that it is of wishes, [Resonances](Resonance.md), or souls.
+
+As with all the other known Drowned Gods, they are one of the strongest non-gag beings, while simultaneously operating on a scale, one both physical and moral, different to humanity.
+
+Notably, [the avatar](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) that appears behind the Resonance Door in Scyphozia is not actually Yun'Shul, but rather a shrine used by humans to communicate with them safely. Additionally, while the [Deep Shrines](Deep_Shrines.md) that appear in their temple are not confirmed to be theirs, the similar mannerisms and appearance suggest they are indeed connected.
+
+## Trivia
+
+-   While often attributed to them by the community, Yun'Shul is not the cause of [Insanity](Insanity.md), rather it's the First Layer's status of an Eldritch Location that does not obey the laws of physics. This is why the Second Layer does not cause insanity, as, despite its variety of Monsters, it's more grounded in reality.
+-   The [Enchantment](Enchantments.md) Curse of Yun'Shul is named after them.
+-   If attempting to reach [Fragments of Self](Fragments_of_Self.md) without proper means a text box from Yun'Shul, Keeper of Hearts is to appear saying, "INCONIEVABLE".

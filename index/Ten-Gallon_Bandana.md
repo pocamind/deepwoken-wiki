@@ -1,0 +1,31 @@
+---
+title: "Ten-Gallon Bandana"
+revid: 218824
+source: https://deepwoken.fandom.com/wiki/Ten-Gallon_Bandana
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment, Face, Bandanas]
+---
+
+# Ten-Gallon Bandana
+
+| Ten-Gallon Bandana | |
+|---|---|
+| type | Face |
+| rarity | Rare |
+| selling price | 25 |
+| requirements | None |
+| weight | 0.5 |
+| innate stats | +1 Uncommon Pip |
+| innate talent | N/A |
+| set | Ten-Gallon Hat, Ten-Gallon Bandana |
+| set talent | N/A |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | No |
+| pass down | Yes |
+| obtainment | Duke Ishamon Erisia, First Layer, Songseeker Wilds, Minityrsa, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Chaser, Scholar of the Crimson Contract |
+| description | ... |
+
+## Description
+
+The Ten-Gallon Bandana is an [Equipment](Equipment.md) item under the "Face" category.

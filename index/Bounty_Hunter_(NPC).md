@@ -1,0 +1,113 @@
+---
+title: Bounty Hunter (NPC)
+revid: 216127
+source: https://deepwoken.fandom.com/wiki/Bounty_Hunter_(NPC)
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies, Ambush Enemies]
+---
+
+# Bounty Hunter (NPC)
+
+| Bounty Hunter (NPC) | |
+|---|---|
+| health | ??? |
+| drops | Canorian Axe |
+| weapon | Trident Spear, Canorian Axe, Falchion |
+| moves | Assault, Critical, Strong Left, Gaze |
+
+## Description
+
+Bounty Hunters can be found during faction ambushes in place of members of that faction or [Cloaked Assassins](Cloaked_Assassin.md) when the player is not high enough level for them to spawn. They spawn in groups of three.
+
+A Bounty Hunter wears the [Bounty Hunter](Bounty_Hunter.md) outfit along with the [Mercenary's Garb](<Mercenary's_Garb.md>) with their [aspect](Aspects.md) varying.
+
+## Moves
+
+A Bounty Hunter's arsenal consists of a either a [Trident Spear](Trident_Spear.md), a [Falchion](Falchion.md), or a [Canorian Axe](Canorian_Axe.md):
+
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | \[[Canorian Axe](Canorian_Axe.md)\] Raises weapon before firmly slamming it down into the ground.
+
+\[[Trident Spear](Trident_Spear.md)\] Thrust the spear in front of it and spins it, performing a multihit.  
+\[[Falchion](Falchion.md)\] Performs a horizontal slash after a windup.
+
+-   Canorian Axe critical is not blockable.
+-   Falchion critical deals very high chip damage.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Rapid Punches**  
+(★★☆)
+
+ | User unleashes a barrage of blows at their opponent.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Gaze**  
+(★☆☆)
+
+ | Gaze into your opponent's souls.
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Strong Left**  
+(★★☆)
+
+ | A powerful, flinging punch that shatters the air.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+
+### Talents
+
+-   Steady Footing - You're much more resistant to being pushed around.
+-   Sunken Predator - Enemies you hit in the water have their speed buffs nullified and are slowed.
+-   Audacity - Once you've brought down your prey, instill fear into all those who would separate you from claiming it.
+
+## Finisher
+
+A Mercenary executes the player after knocking them:
+
+| Name | Description |
+| --- | --- |
+| Execute | \[[Trident Spear](Trident_Spear.md)\] Pins down opponent before impaling them through the chest with their spear.
+\[[Canorian Axe](Canorian_Axe.md)\] Pins down opponent while raising weapon before firmly bashing the opponent's face.
+
+\[[Falchion](Falchion.md)\] Pins down the opponent and slices their throat with blade.
+
+ |

@@ -1,0 +1,44 @@
+---
+title: Wind Gem
+revid: 218247
+source: https://deepwoken.fandom.com/wiki/Wind_Gem
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Treasures, Mantras, Deep Gems]
+---
+
+# Wind Gem
+
+| Wind Gem | |
+|---|---|
+| value | 80 |
+| weight | 1 |
+| stack | x25 |
+| type | Deep Gem |
+| rarity | Legendary |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | It breathes...On hit, apply a speed boost for 10s (10s CD) |
+| obtainment | Maestro Evengarde Rest (several guaranteed), Primadon, Chaser, Scion of Ethiron, Ferryman, First Layer, Sea Events, Fishing, Etris: Siege, Deep Crucible, Trial of the Gourdskipper, The Diluvian Mechanism, Saramaed HollowVow of Iron:, Ether Erudite Memento, Found in The Depths, The Depths chests |
+
+## Description
+
+The **Wind Gem** is a green diamond-shaped [Deep Gem](Deep_Gem.md).
+
+## Effect
+
+Upon landing a Mantra with a Wind Gem equipped, gain a +40% [speed boost](Status_Effects.md#speed-boost) for 10 seconds. This effect has a 10 second cooldown.
+
+### Notes
+
+-   This Gem is best used on easy-to-hit Mantras with low cooldowns.
+-   If you have the Brain [Food Buff](Status_Effects.md#food-buff) from the [Grilled Parasol Brain](Grilled_Parasol_Brain.md), Wind Gem's speed boost duration will be increased from 10 seconds to 15.
+-   If you are wearing the [Blademaster's Robe](<Blademaster's_Robe.md>), your Wind Gem duration will be increased by 2 seconds; from 10 seconds to 12. Additionally, your light attacks and Criticals with the [M1 tag](M1_tag.md) will gain +10% Posture damage during the Wind Gem speed boost.
+-   Wind Gem's cooldown is **equal to** its duration, meaning that you cannot reapply its effect while it is active, even if you are using either of the above effects.
+-   There are several [Talents](Talents.md) that grant bonuses when you have an active speed boost, making this Gem a great applicator for them.
+
+## Crafting
+
+This Gem can also be used to craft a variety of items.
+
+-   [Outfits](Outfits.md): [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>), [Navaen War Chief](Navaen_War_Chief.md), [Tempestmaker's Threads](<Tempestmaker's_Threads.md>), [Vigil Sentinel](Vigil_Sentinel.md), and [Windrunner Robes](Windrunner_Robes.md).

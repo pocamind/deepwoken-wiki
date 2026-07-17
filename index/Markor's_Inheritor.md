@@ -1,0 +1,134 @@
+---
+title: "Markor's Inheritor"
+revid: 220267
+source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Authority Faction Item, "Weapons with Multi-Hit Criticals", Criticals with M1 tag, Weapons, Greatswords, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyable Weapons, Heavy Weapons, Weapons with Talents]
+---
+
+# Markor's Inheritor
+
+| Markor's Inheritor | |
+|---|---|
+| alloyed name | Alloyed Inheritor |
+| type | Greatsword |
+| damage type | Slash |
+| requirements | 30 HVY, 10 STR / 75 HVY, 10 STR, OR Authority Ensign |
+| faction | Authority |
+| damage | 24 |
+| scaling | HVY: 7 / HVY: 8 |
+| posture damage | 8 |
+| range | 8.5 Sweep |
+| swing speed | 0.85x |
+| attack duration | 0.9s |
+| endlag | 0.1s |
+| penetration | 10% / 15% |
+| talent | Blade Scholar - Landing your fist critical attack switches your stance to that fist style. Retain the same swing speed and damage your Markor's Inheritor had. You gain more swingspeed the more Intelligence you have. |
+| special effect | Inherits the critical of your last used Fist Style |
+| m.equip | No |
+| m.extract | No |
+| stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | Uncommon |
+| selling price | 14 |
+| weight | 2 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | The Depths, Ministry Agent, Starswept Valley, Bounties, Deep Widow, Merchant Ships, Lost Diver (Direct drop), Chime of Conflict, Fort Merit Armory for 70 (Authority Ensign exclusive), Saramaed HollowAlloyed:, Alloying a Markor's Inheritor, Dread Serpent |
+| description | The Blade Scholars of Markor, said to catalog the world itself, travel from land to land collecting information by force of their blades. Mastering the styles of combat from various stretches of the sea, they practice their art through the blade itself. |
+
+## Description
+
+Markor's Inheritor is a [Heavy Greatsword](Weapons.md) that requires 30 HVY and 10 STR. This weapon showcases the user's martial arts prowess by allowing them to utilize their [combat styles](Fists.md).
+
+## Talents
+
+Equipping the Markor's Inheritor grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+Upon landing your weapon critical, [**Blade Scholar**](Talents.md#blade-scholar) procs, swapping your weapon to [Iron Cestus](Iron_Cestus.md)/[Anklets of Alsin](Anklets_of_Alsin.md) for 15 seconds.
+
+While active, your base damage will bet set to 24, and scaling to 7 Heavy Weapons and 2 Intelligence. The increased scaling from [Alloyed Inheritor](Alloyed_Inheritor.md) does **not** apply. Additionally, your swing speed will be set to 0.85x, but you will gain +0.002x swing speed for every point in [Intelligence](Intelligence.md), capping at 1.05x swing speed at 100 Intelligence. All other stats will be the same as the Cestus. The stat changes are handled internally, and will not be displayed on your weapon tooltip.
+
+This effect is not refreshable, requiring you to land another critical attack _after_ the effect ends to reapply it. However, using [Blightsurger](Blightsurger.md)'s Sovereign State during the effect will extend the prolong the duration of Blade Scholar until your Sovereign State ends. Quality stars on your Inheritor do not carry over when Blade Scholar activates, but [Enchantments](Enchantments.md) do.
+
+This manually changes your weapon to Fists on proc. This has a few upsides and downsides;
+
+-   **Upsides**:
+    -   You'll be able to benefit from Fist and Light Weapon Talents while it is active, as well as the Fists PvE effect of increased blunt damage, scaling on the amount of Fists Talents you have.
+-   **Downsides**:
+    -   You cannot proc your Greatsword or Heavy Talents while active.
+    -   Your Range and other stats that aren't explicitly carried over by this Talent will be the same as the [Iron Cestus](Iron_Cestus.md)/[Anklets of Alsin](Anklets_of_Alsin.md), being reduced compared to the Inheritor.
+    -   If you do not have a [Fist Style](Fist_Style.md), you will equip [Untrained Fist](Untrained_Fist.md), halving your weapon damage while active.
+-   **Other**:
+    -   Your [Silentheart](Silentheart.md) abilities will change to the Light Weapon ones while this is active. This isnt inherently an upside nor a downside, but keep in mind that these abilities scale on the respective attribute.
+
+## Critical
+
+Markor's Inheritor will inherit the critical attack of your last used [Fist Style](Fists.md), allowing for a large amount of build diversity. If you do not have a fist style, then [Untrained Fist](Untrained_Fist.md)'s critical will be used.
+
+**Fang and Coil:**
+
+Markor's Inheritor uses the default Fist critical, a showing of martial prowess that changes depending on the user's equipped [Fist Style](Fist_Style.md).
+
+  
+With the [Fang and Coil](Fang_and_Coil.md) style, the user does a quick leg sweep, ragdolling and dazing opponents. This has a scaled damage multiplier of **0.65x** and deals **10** posture damage if blocked. This attack dazes and ragdolls for **1.25s**, and with a short windup of **0.4s** and an endlag of **0.25s**. This attack has a **3 second cooldown**.
+
+If the [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) Outfit is equipped, you will additionally gain this style's running critical, a front-flip followed by a dazing knock-down stomp with a wide AoE. This has a scaled damage multiplier of **1x** and deals **10** posture damage with **10%** chip damage. This attack dazes and knockdowns for **0.95** seconds, and with a short windup of **0.5s** and endlag of **0.25s**. This attack has a **5 second cooldown**.
+
+**Imperium Kata:**
+
+Markor's Inheritor uses the default Fist critical, a showing of martial prowess that changes depending on the user's equipped [Fist Style](Fist_Style.md).
+
+  
+With the [Imperium Kata](Imperium_Kata.md) style, the user performs two swift side kicks and is slowed by 60% for the duration of the critical. Despite slowing you, the critical gives you a 12.5% speed boost for 2.5 seconds.
+
+The first hit deals **1.2x** your weapon's **base damage**, and the second hit deals **2x** your weapon's **base damage**. If blocked, this critical will deal **6.8** posture damage on the first hit and **10.2** on the second. This is a flat value that does not change based on your Posture Damage stat.
+
+Imperium Kata's critical gains **5** [Thundercall](Thundercall.md) Scaling if you have [Electrify](Talents.md#electrify) active.
+
+This critical has a cooldown of **5** seconds. |-|Jus Karita=
+
+Markor's Inheritor uses the default Fist critical, a showing of martial prowess that changes depending on the user's equipped [Fist Style](Fist_Style.md).
+
+  
+With the [Jus Karita](Jus_Karita.md) style, the user dashes forward while performing a kick. This critical has a scaled damage multiplier of **2x**.
+
+This critical has a **3 second cooldown**.
+
+**Legion Kata:**
+
+Markor's Inheritor uses the default Fist critical, a showing of martial prowess that changes depending on the user's equipped [Fist Style](Fist_Style.md).
+
+  
+With the [Legion Kata](Legion_Kata.md) style, the user performs a suplex, turning their opponent upside down and slamming them into the ground. This attack has a scaled damage multiplier of **1.5x** and applies [Dazed](Dazed.md) on hit.
+
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
+
+**Untrained Fist:**
+
+Markor's Inheritor uses the default Fist critical, a showing of martial prowess that changes depending on the user's equipped [Fist Style](Fist_Style.md).
+
+  
+With the [Untrained Fist](Untrained_Fist.md) style, the user runs forward and swings their fist before striking with a haymaker punch. The user gains very brief hyperarmor during the punch animation. Pressing M2 during the rush segment of the critical will halt your movement.
+
+This attack has a **1.5x** scaled damage multiplier, though in practice it will only deal **0.75x** of your weapons scaled damage, due to Untrained Fist having halved weapon damage. This deals **12** posture damage if blocked, regardless of your weapon's Posture Damage stat.
+
+This critical has a windup of **0.6s**, providing [Hyperarmor](Status_Effects.md#hyperarmor) for the final **0.2s** before the attack lands. Additionally, this has **0.45s** of endlag.
+
+This critical has a **5 second** cooldown.
+
+**Way of Navae:**
+
+Markor's Inheritor uses the default Fist critical, a showing of martial prowess that changes depending on the user's equipped [Fist Style](Fist_Style.md).
+
+  
+With the [Way of Navae](Way_of_Navae.md) style, the user raises their leg with a slow windup before slamming it down. This attack has a scaled damage multiplier of **1x** and **guardbreaks** if blocked.
+
+This attack has a **5 second cooldown**.
+
+## Trivia
+
+-   Markor's Inheritor can use the [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) [Fang and Coil](Fang_and_Coil.md) critical, which is uncommon, even amongst fist weapons.
+-   Markor's Inheritor is the only Heavy weapon that has an aerial kick as an aerial attack. Heavies used to have fist-style aerial attacks, until a unique heavy aerial was added.
+-   It can proc Fist Talents on critical, even if Blade Scholar is not active.

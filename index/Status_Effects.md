@@ -1,0 +1,933 @@
+---
+title: Status Effects
+revid: 220119
+source: https://deepwoken.fandom.com/wiki/Status_Effects
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Mechanics]
+---
+
+# Status Effects
+
+Status effects are effects that can negatively or positively affect the player. Some of these are deadly and should be taken with caution.
+
+## Health States
+
+Displayed on your health bar, these display the vitality of your character, telling you what would happen should you perish.
+
+### Healthy
+
+Your health state is normal. Perishing will send you to your spawn location and change your health state to [Injured](#injured).
+
+### Injured
+
+You have perished. Perishing again will send you to [the Depths](The_Depths.md). This effect can be cleared, returning you to [Healthy](#healthy) by escaping [the Depths](The_Depths.md) or [Powering](Power.md) up.
+
+### Drowned
+
+You are in [the Depths](The_Depths.md). Perishing will send you to the [Fragments of Self](Fragments_of_Self.md) in [Pathfinder](Pathfinder.md) or [Fragments of Else](Fragments_of_Else.md) in [Vow of Iron](Vow_of_Iron.md). [Escape](Cathedral_of_the_Interstice.md) the [Depths](The_Depths.md) to clear this effect, restoring you back to [Healthy](#healthy) when you arrive back on the Surface.
+
+### Void
+
+You are in a [Voidzone](Voidzone.md) or in the range of a [Void Spire](Void_Spire.md) while being Power 15 or higher. While you have the Void health state, all incoming healing is massively reduced and perishing will send you to [the Depths](The_Depths.md) regardless of you were [Injured](#injured) or not. While in a Voidzone, the edges of your screen will have a white cracked effect. While under the effects of a [Void Spire](Void_Spire.md), the screen will go monochrome. Leave the Void one to clear this state.
+
+### Cursed
+
+You currently have a [Curse of the No Life King](Curse_of_the_No_Life_King.md) or [Curse of Void](Curse_of_Void.md) enchanted weapon equipped. Similar to [Injured](#injured), perishing will send you to [the Depths](The_Depths.md). This effect can be removed by changing your weapon or enchantment, returning you to your previous state. However, this effect will persist for 60 seconds after you take damage, preventing you from swapping to a different weapon to prevent your trip to [the Depths](The_Depths.md).
+
+## General
+
+These status effects come from several different sources, are tied to the state of the player, or are the focal point of other mechanics.
+
+### Resting
+
+This effect causes the player to regain lost health and blood much faster, but lose hunger and thirst much faster (for blood regain). This effect is only caused when the player rests at a [Campfire Pit](Campfire_Pit.md), [Graceful Flame](Graceful_Flame.md), or a Stove.
+
+### Parched/Starved
+
+This effect happens when you are low on thirst/stomach. When this occurs, your vision will start to blur and darken. If either of these bars are below 20%, you will not be able to heal past 90% health. If one, but not both, of these bare are fully empty, the drain on the other bar will be doubled, your health regen will be halved, and you will not be able to heal past 80% health. If both of these bars are empty, your blood will gradually drain and your health will be drained down to 50%.
+
+Upon reaching 0 thirst or stomach, a message will appear at the top of your screen, reminding you to eat something.
+
+### Hypovolemic Shock
+
+This effect happens once your blood bar is below 5%, causing your stomach and thirst meters to rapidly drain in order to sustain yourself. Your health will also rapidly deteriorate. If you have enough food and thirst, you can stabilize yourself, but if not you will eventually die from starvation/dehydration. If you are swimming while below 50% health in this state, you will instantly be knocked and will drown. To avoid bleeding out, replenish your blood at [Campfire Pits](Campfire_Pit.md), and to prepare for it, always keep food and water on you.
+
+### Unconscious
+
+Commonly referred to as being "knocked", this effect is applied once any humanoid target or player reaches 0 health, and is signified by their body going limp. Unless specified by an ability, being Unconscious prevents all actions. Unconscious characters can be executed or [Carried](#carried) and take significantly more blood damage from being hit. Unconscious lasts 10 seconds at base, but its duration can be altered through the [Perseverance](Talents.md#perseverance), [Defiance](Talents.md#defiance), [Charismatic Cast](Talents.md#charismatic-cast), and [Concussive Force](Talents.md#concussive-force) Talents. Unconscious duration will be reset upon taking damage unless the Unconscious party has the [Impervious Slumber](Talents.md#impervious-slumber) Talent.
+
+Being set [on fire](#burn) while Unconscious will cause the Unconscious party to burn to death after 8 seconds. The target will stop burning if a manual execution is initiated or if the target gets [Carried](#carried) for any duration. It will take 4 seconds for them to burn to death instead if the burn applicator has the [Corpse Explosion](Talents.md#corpse-explosion) Talent.
+
+Being in deep water, like the sea, while Unconscious will cause you to drown to death after a few seconds. This can be prevented by having the [Fishman](Talents.md#fishman) Talent.
+
+### Carried
+
+By pressing V near an [Unconscious](#unconscious) player or NPC, you can **carry** them, lifting them over your shoulder. Unless specified by an ability, being Carried prevents all actions, similar to being [Unconscious](#unconscious). Carried entities will be dropped if the person carrying them takes damage or if the Carried entity has been carried for too long.
+
+### Speed Boost
+
+Speed boosts are one of Deepwoken's core status effects, being responsible for a lot of Talent effects and being very important for the core combat loop, especially in PvP. Speed boosts are simply a movement speed increase, with the effectiveness and duration of the speed boost depending on the source. The way the movement speed increase from speed boosts are applied is not standardized. Some speed boosts give you a flat increase to your studs per second, some increase your movement speed by a percentage, and some do both of these. There is little consistency to be found.
+
+Speed boosts are distinctly different from [mobility buffs](#mobility-buff), as the former allows you to proc certain Talents while the latter does not. Speed boosts do not have a visual indicator, and are applied from a multitude of sources such as: [parrying and dodging attacks](Combat_Mechanics.md), [Wind Gem](Wind_Gem.md), certain [Talents](Talents.md), some [Weapon](Weapon.md) criticals, other Status Effects, etc.
+
+### Mobility Buff
+
+Mobility buffs are very similar to [speed boosts](#speed-boost), being a movement speed increase, with the effectiveness and duration depending on the source, though they are distinctly different from [speed boosts](#speed-boost), as they cannot proc [speed boost](#speed-boost)\-reliant Talents. Mobility buffs do not have a visual indicator, and are applied from a multitude of sources such as: [Flame Within](Talents.md#flame-within), [Lightweight](Talents.md#lightweight), [Stratos' Cloak](<Stratos'_Cloak.md>), other Status Effects, etc.
+
+### Ragdoll
+
+While ragdolled, you gain slight damage reduction at the cost of your character going limp and being able to perform most actions. This status effect can be ended early, in most cases, by pressing Feint (M2), though some sources of ragdoll cannot be ended early. Ragdoll is applied through various sources and is signified by your character going limp.
+
+### Knockdown
+
+While affected by knockdowns, you cannot move or cast any abilities. This effect can be cleared early by [Venting](Vent.md). Knockdowns are applied through various sources such as default heavy weapon criticals and certain [Mantras](Mantras.md). This effect is signified by your character being slammed into the ground briefly.
+
+### Respite
+
+If you aren't already at full health, gain the Respite status effect after standing still for 15 seconds. This effect will heal your character, with the healing ramping up the longer you are stationary. Performing any actions or taking damage will end this effect early. Signified by white rings ascending over your character.
+
+### Burn
+
+This effect can be applied on you by most notably, being hit by a [Flamecharm](Flamecharm.md) move, but there are many other burn application sources. Has a base damage of 3.33 pet tick with 5 Flamecharm scaling (damage = 3.33 × (1 + 0.005 × Flamecharm Investment)), ticking 2.4 times a second. Burn damage has slight fluctuation to account for ping. Burning opponents have their **base** passive health regeneration disabled. If an [Unconscious](#unconscious) body is set on fire, they will automatically be gripped after 8 seconds if not picked up (4 seconds if the user who applied the fire has the Corpse Explosion Talent). Burn benefits from **general** PEN sources such as [Strength](Strength.md).
+
+Burn will be extinguished when rolling, jumping in water/standing in rain, or sliding. When burn is extinguished, gain immunity to burn for 2 seconds. Additionally, certain objects are flammable and will glow orange when hit by a terrain-interacting [Flamecharm](Flamecharm.md) or [Thundercall](Thundercall.md) Mantra, applying burn to anyone who touches it. Signified by fire particles coming from your character.
+
+It has a few sub-variants:
+
+-   Azure Burning: Deals 12.5% more damage per tick than base burn. This burn type comes from [Azure Flames](Talents.md#azure-flames).
+-   Black Flames: This burn type has two sub types. Both of these burns come from [Wraith Path: Twisted Puppets](Talents.md#wraith-path-twisted-puppets) and drain a flat 6.25 Ether from affected targets per tick.
+    -   Puppet Burn: Derived from any non-Shadowcast burn applicator, this burn type deals 87.5% less damage than base burn. Uniquely, this burn type will spawn Puppets with a 4 second cooldown.
+    -   Shadow Burn: Derived from Shadowcast sources, this burn type deals 75% less damage than base burn.
+-   Lifelord's Blaze: [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) and [Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>) exclusive, completely cosmetic and functions the same as base burn.
+-   **White Flames**: [Corrupt Shard Bow](Shard_Bow.md#corrupt) and [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) exclusive, white flames that tick 25% faster (3 ticks per second) but have a lower base damage of 3.21. White Flames has a higher DPS than base burn, especially as it benefits from all of your Flamecharm Talents. The [Deepfire Ring](Deepfire_Ring.md) has no effect with this burn type, as it innately has the effects of the ring.
+-   [Flamewreathed](Attuned_Monsters.md): [Attuned Monster](Monsters.md#attuned-monsters) exclusive, this burn is harder to remove; requiring 2 roll cancels or 1 full roll to be extinguished. It is applied on every attack (even if it doesn't deal damage) from any Flamewreathed Monster. This burn is a light orange.
+-   Self Immolation: [Flame Within](Talents.md#flame-within) exclusive, grants a 10% damage buff and a movement speed bonus. Cannot be removed from self via rolling or sliding, instead needing you to use the tool again to deactivate it. This effect is visually indistinguishable from normal burn, being based off your current Flamecharm color.
+
+### Hyperarmor
+
+Make your attacks uninterruptible and become immune to most forms of stun; [Vents](Vent.md) and Thundercall's [Shock](#shock) will bypass this and will interrupt your attack. Can be applied with the Critical attack of most heavy weapons, [Brace](Brace.md), and many other sources. Signified by your character gaining a red highlight. Hyperarmor ends early if you cast a Mantra.
+
+#### True Hyperarmor
+
+An enhanced form of [Hyperarmor](#hyperarmor). Your attack becomes entirely uninterruptable; [Vents](Vent.md) and [Shock](#shock) have no effect. Can be applied with [Darksteel Greatsword](Darksteel_Greatsword.md)'s Critical attack, [Stoneheart](Stoneheart.md)'s Critical's charge animation, [Chorus of Agonies](Chorus_of_Agonies.md)' Critical attack and the [Iron Hug](Iron_Hug.md) Mantra. This effect is visually indistinguishable from normal Hyperarmor, being the same red highlight.
+
+### Dazed
+
+Have your dodge frames lowered and be unable to sprint for a brief period. This effect can be cleared early by [Venting](Vent.md). Applied after being flourished into a wall by default. Signified by yellow stars around your character. Can also be applied after being hit by certain mantras, criticals, or applied by certain Talents.
+
+#### True Daze
+
+An enhanced form of [Dazed](#dazed). True Daze makes you completely unable to dodge or move for a short duration. This effect can be cleared early by [Venting](Vent.md). Applied primarily through wallbangs. This effect is visually indistinguishable from normal daze, being the same yellow stars.
+
+### Bleed
+
+This effect can be applied by being hit by a weapon, monster attack, or Mantra that applies bleed. Bleed deals 5% of the initial attack's **scaled** damage in three damage ticks, totaling to a 15% total damage increase. Bleed from [Speed Demon](Talents.md#speed-demon) deals 2.5% of the attack's scaled damage per tick, resulting in a 7.5% total damage increase. Bleed damage can only be buffed via the [Crimson Terraplate Pauldrons](Crimson_Terraplate_Pauldrons.md) and [Razor Cutlass](Razor_Cutlass.md)' Talents, and increasing the scaled damage of the attack. Bleed damage deals increased blood bar damage. Signified by blood pouring out from your character.
+
+### Wither
+
+Temporarily reduces your maximum health. This effect can be removed by being out of combat, [Resting](#resting), and when knocking opponents. Signified by a dark blue portion on your healthbar. Applied by getting hit by an opponent with [Emperor Flame](Talents.md#emperor-flame), [Darkened Bastion](Darkened_Bastion.md)'s _Withering Soul_ Talent, [Umbrite Witherblade](Umbrite_Witherblade.md)'s basic attacks and critical, [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)'s Critical Attack, both of [Kindred Edict](Kindred_Edict.md)'s Critical Attacks when using the [Starkindred](Starkindred.md) Oath, [Spectral Grasp](Spectral_Grasp.md)'s Critical Attack, [Blightsurger's](Blightsurger.md) [Blightshock](#blightshock) status effect, and [Black Death's](Black_Death.md) unique weapon Talent _Corporeal Dissolution_. It can also be applied to yourself through [Bladeharper](Bladeharper.md)'s _Reveal_, using [Linkstrider's](Linkstrider.md) _Symbiotic Sustain_, [Vortex Echo](Vortex_Echo.md)'s Critical attack, [Sanguine Transfuser](Sanguine_Transfuser.md)'s Critical attack, and the Wither [Corrupted Resonance](Resonance.md#corrupted-resonances) downside.
+
+### Anti-Heal
+
+Disallows healing by a percentage from **any** source while active and completely nullifies passive regeneration. This effect can be applied through being hit by a basic attack by someone that has the Talent [All the Dead Gods](Talents.md#all-the-dead-gods) for 8 seconds, or when hit by the first hit of [Umbrite Witherblade](Umbrite_Witherblade.md)'s Critical attack for 10 seconds. The Anti-Heal effectiveness from All the Dead Gods scales on investment up to its combined requirement. This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by purple smoke on your character.
+
+#### Pestilence
+
+While active, suffer from 50% [Anti-Heal](#anti-heal) for 10 seconds, halving all incoming healing. This effect can be applied through being hit by a basic attack with someone who has a [Ring of Pestilence](Ring_of_Pestilence.md) equipped. This does not stack with any other source of [Anti-Heal](#anti-heal), as the higher potency [Anti-Heal](#anti-heal) will take priority. Signified by a light yellow smoke on your character.
+
+#### Broodlord Rot
+
+While active, suffer from 80% [Anti-Heal](#anti-heal) meaning you will only get healed 20% of any healing source instead of the full heal. This effect can be applied through being hit by a [Mudskipper Broodlord](Mudskipper_Broodlord.md). This effect is amplified in [The Diluvian Mechanism](The_Diluvian_Mechanism.md) but does not apply to health packs from killing monsters, and reduced in [Hell Mode](Hell_Mode.md). This does not stack with any other source of [Anti-Heal](#anti-heal), as the higher potency [Anti-Heal](#anti-heal) will take priority. Signified by purple smoke on your character.
+
+### Fear
+
+Take 12.5% more damage and 1.5x posture damage while also disabling [Murmur: Tacet](Murmur%253A_Tacet.md). Applied through a [Megalodaunt's](Megalodaunt.md) roar, [Primadon's](Primadon.md) Phase 2 transformation and by [Ardour Scream](Talents.md#ardour-scream). Signified by pink/purple particles on your character.
+
+### Blinded
+
+Your range of vision is severely reduced, with everything far away from you being effectively pitch black. This effect is applied through many sources, such as: the [Blind](Blind.md) Flaw, wearing a [Blindfold](Blindfold.md), being hit by [Sightless Beam](Sightless_Beam.md), or the [Light's Out](Talents.md#lights-out) Talent.
+
+### Temporary Health
+
+Signified by a white bar on your health bar, gain a Temporary Health bar which decays at a rate of 1 Temporary health lost per second. You cannot have more than 200 flat temporary health at any given time. Damage taken from almost all sources will damage your Temporary Health before it damages your actual health bar. This is gained through the use of certain [Bloodrend](Bloodrend.md) Talents like [Sow and Mend](Talents.md#sow-and-mend), [Armored Plating](Talents.md#armored-plating), [Enhanced Flow](Talents.md#enhanced-flow), the Talents from the [Necrotic](Necrotic_Cowl.md) set, as well as the [Vampirism](Vampirism.md) Enchant. Alternatively, it can be applied to your opponent with the [Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>) enchantment. Having [Anti-Heal](#anti-heal) applied on you will reduce or negate the amount of Temporary Health given.
+
+### Enhanced Perception
+
+A red highlight applied onto enemies, allowing you to see them through walls. Applied through [Voidwalker](Voidwalker.md) bounties, [Chrysid's](Chrysid.md) Mothwing Dust, Bloodrend's [Bloodwarden's Sense](Talents.md#bloodwardens-sense), and the Heart Reverb Talent's [Rhythm](Rhythm.md) upgrade from [Soulbreaker](Soulbreaker.md).
+
+### Insanity
+
+As you lose sanity, your screen will begin to darken and gain a blue hue. This vision distortion effect will only progress as your Sanity continues to lower, especially around the sides of your screen. While affected by insanity, you will periodically Shiver, Panic, or Scratch yourself depending on your "Tier" of Insanity, temporarily stunning you in place and dealing damage in higher tiers. Damage dealt from Panicking and Scratching is typeless, though it will be halved if you have the [Grasp on Reality](Talents.md#grasp-on-reality) Talent. Sanity can be lost in many ways such as [potions](Potions.md), certain [monster](Monsters.md) attacks, some [Talents](Talents.md), and being in the [First Layer](First_Layer.md) to name a few. Each "tier" of insanity has its own distinct effects as listed below:
+
+#### Tier 1 Insanity
+
+This effect happens when your Sanity is 70% or less, aptly named "Tier 1 [Insanity](Insanity.md)." Your character will start occasionally shivering, which will stop any action you may have been doing for **2 seconds**. This can be deadly if you shiver while using a [Glider](Gliders.md) at a great height, as it will immediately make you drop down. If you have the [Unfazed](Talents.md#unfazed) Talent, you will not Shiver at Tier 1 Insanity.
+
+#### Tier 2 Insanity
+
+This effect happens when your Sanity is 30% or less, aptly named "Tier 2 [Insanity](Insanity.md)." Your character will lose their ability to recognize people around them, with their faces and names being obscured. Shivering will be replaced with Panicking and scratching your arms, dealing **10 damage** and stunning you for **1 second** and then you will Shiver for 2 seconds. If you have the [Unfazed](Talents.md#unfazed) Talent, you will Shiver for **2.5 seconds** instead of Panicking at Tier 2 Insanity.
+
+#### Tier 3 Insanity
+
+This effect happens when your Sanity is 10% or less, aptly named "Tier 3 [Insanity](Insanity.md)." Panicking will be replaced with your character Scratching their body and face which deals **20 damage** and stunning you for **1.5 seconds**, and then you will Shiver for 2 seconds. If you don't have enough health left when Scratching or get knocked at any point while having Tier 3 Insanity, your character will instantly die. If you have the [Unfazed](Talents.md#unfazed) Talent, you will Panic instead of Scratching. Due to how long it takes to get to max insanity, (unless you have [Manic](Manic.md)) you will almost never get this unless you've been in [the Depths](The_Depths.md) for long periods of time, had a considerable amount of Mindbreaking Potions thrown at you, or used a Corrupted Resonance with the Insanity downside.
+
+### Reinforced Hunger
+
+Eating certain [food](Food.md) items can provide the user with useful buffs. The food buff you have as well as its duration can be viewed on your hunger bar, with a colored section at the top displaying the duration. The duration of food buffs are tied to the food eaten and your hunger bar as a whole, meaning if you are losing hunger from doing something like swimming, the buff will drain faster.
+
+-   Power: +5% M1 damage; _"A hearty meal that'll empower your melee strikes!"_ Applied by consuming the [Glazed Fish](Glazed_Fish.md), [Megurger](Megurger.md), [Mushroom Omelette](Mushroom_Omelette.md), or [Toffee](Toffee.md).
+-   Enchant: +5% Mantra damage; _"An energising meal that'll empower your mantras!"_ Applied by consuming the [Candied Fruit](Candied_Fruit.md) or [Fish Omelette](Fish_Omelette.md).
+-   Speed: +5% sprint speed; _"A complex meal that'll get you moving!"_ Applied by consuming the [Cake](Cake.md).
+-   Ether: +20% Ether regeneration; _"An aromatic meal to cultivate your focus!"_ Applied by consuming the [Sticky Bun](Sticky_Bun.md).
+-   Heal: Adds 17.5% of your base health regeneration on top of your current health regeneration; _"A soothing meal to recover your strength!"_ Applied by consuming the [Candy Suncorn](Candy_Suncorn.md), [Crab Stuffed Browncaps](Crab_Stuffed_Browncaps.md), [Fruit Salad](Fruit_Salad.md), or [Pumpkin Pie](Pumpkin_Pie.md).
+-   Full: Lowers passive hunger loss by 10%; _"A filling meal to keep you fed for longer!"_ Applied by consuming the [Candy](Candy.md) or [Seafood Boil](Seafood_Boil.md).
+-   Brain: Increases the effectiveness or efficiency of your [Deep Gems](Deep_Gems.md); _"A strange meat that empowers your Deep Gem knowledge."_ Applied by consuming the [Grilled Parasol Brain](Grilled_Parasol_Brain.md).
+    -   [Aegis Gem](Aegis_Gem.md): Duration increased from 10s to 15s.
+    -   [Blessed Gem](Blessed_Gem.md): Cooldown reduction is increased from -50% to -66%.
+    -   [Bloodless Gem](Bloodless_Gem.md): Heal cap increased from 15 to 20.
+    -   [Blue Gem](Blue_Gem.md): No noticeable difference.
+    -   [Insignia Gem](Insignia_Gem.md): No noticeable difference.
+    -   [Might Gem](Might_Gem.md): Posture damage buff increased from +10% to +15%.
+    -   [Nocturnal Gem](Nocturnal_Gem.md): Damage is increased from 10 to 15.
+    -   [Warped Blue Gem](Warped_Blue_Gem.md): No noticeable difference.
+    -   [Wayward Gem](Wayward_Gem.md): Cooldown is decreased from 8s to 3s.
+    -   [Wind Gem](Wind_Gem.md): [Speed boost](#speed-boost) duration increased from 10s to 15s.
+    -   [Wrath Gem](Wrath_Gem.md): Critical damage buff per-combat tag increased from 7.5% to 15%.
+-   Scale: Reduces incoming Penetration by 15%; _"A heavy meat that hardens your skin!"_ Applied by consuming the [Heavy Steak](Heavy_Steak.md).
+-   Throat: Increases your [Taunt](Taunt.md) (Mantra)'s duration by 8 seconds, increases your [Sing's](Sing.md) range, and increases your [Vow Command: Fight](#fight) duration by 7.5 seconds; _"An odd meal that soothes your throat!"_ Applied by consuming the [Dread Filet](Dread_Filet.md).
+-   Strength: Increases posture damage by 10%; _"An invigorating meal that strengthens your muscles!"_ Applied by consuming the [Primal Cutlet](Primal_Cutlet.md).
+
+### Potions
+
+Special brews created by Alchemists. Potion effects vary heavily based on the ingredients used in the potion. Please check the [Alchemy](Alchemy.md) page for more information on how each potion is made.
+
+-   **Instant Health Gain** - Instantly restore health. Applied through Rejuvenating Salves.
+-   **Instant Health Loss** - Instantly take damage. Applied through Disgusting Banes/Blights.
+-   **Health Regeneration** - Restores health over time. Applied through Invigorating Potions/Tinctures/Elixirs/Salves.
+-   **Damage over Time** - Deals damage over time. Applied through Grueling Banes/Blights.
+-   **Instant Ether Gain** - Instantly restore Ether. Applied through Soothing Tinctures/Potions/Salves.
+-   **Instant Ether Loss** - Instantly lose Ether. Applied through Appalling Blights/Potions.
+-   **Ether Regeneration** - Grants Ether restoration over time. Applied through Focusing Elixirs/Salves/Tinctures.
+-   **Ether Depletion** - Depletes your Ether over time. Applied through Icky Potions/Banes/Blights.
+-   **Damage Buff** - Gain a damage buff. Applied through Strengthening Salves/Tinctures/Potions.
+-   **Damage Debuff** - Gain a damage debuff. Applied through Dulling Potions/Banes/Blights.
+-   **Posture Resistance Buff** - Increases your posture resistance by a percentage, making you take reduced posture damage. Applied through Steadfast Tinctures/Potions/Elixirs/Salves.
+-   **Posture Resistance Debuff** - Reduces your posture resistance by a percentage, making you take increased posture damage. Applied through Buckling Banes/Blights.
+-   **Posture Damage Buff** - Increases your posture damage by a percentage. Applied through Staggering Salves.
+-   **Posture Damage Debuff** - Reduces your posture damage by a percentage. Applied through Weakening Potions.
+-   **Sanity Restoration** - Quickly restore Sanity. Applied through Heartening Remedies/Potions/Salves/Tinctures/Elixirs.
+-   **Sanity Deprecation** - Reduces your sanity over time. Applied through Mindbreaker Banes/Blights/Potions.
+-   **Speed Boost** - Grants a [speed boost](#speed-boost). Applied through Hastening Potions/Elixirs/Salves/Tinctures.
+-   **Slowing** - Grants a speed debuff. Applied through Slowing Blights.
+-   **Blood Restoration** - Restores blood. Applied through Revitalizing Potions.
+
+## Attunement Applied
+
+These status effects are applied by some or all [Mantras](Mantras.md) of a certain [Attunement](Attunement.md).
+
+### Winded
+
+Winded reduces your swing speed by 10%. This effect can be applied by being hit with [Galebreathe](Galebreathe.md) Mantras or [Galeforce](Attuned_Monsters.md) monsters. Signified by green (white if the user has Specter Path) spirals on your character.
+
+### Suffocate
+
+Can be applied by being hit by [Wind Gun](Wind_Gun.md), [Galetrap](Galetrap.md), [Wind Blade](Wind_Blade.md)(tempest wind variant), [Galeforce](Attuned_Monsters.md) monsters, or through certain Galebreathe Talents. Removes your ability to cast Mantras for a duration while also taking 1 damage per tick. If the user has the Talent [Stifled Jump](Talents.md#stifled-jump), you will also be dazed from trying to jump while Suffocated. Signified by 4 crosses rotating around the users neck.
+
+  
+
+### Chill
+
+Simply become slowed. Applied by being hit with a [Frostdraw](Frostdraw.md) Mantra, any attack from a [Frostmantle](Attuned_Monsters.md) monster, from the [Crustaceous Rex's](Crustaceous_Rex.md) bubbles, or from a [Glacial Lionfish's](Glacial_Lionfish.md) Chilling Cero. Signified by cyan smoke on your character.
+
+### Frozen
+
+Have your body completely engulfed in ice and lose the ability to do anything to defend yourself. Applied by some [Frostdraw](Frostdraw.md) Talents, Mantras, [Hailbreaker](Hailbreaker.md) Critical, And [Winter Rifle's](Winter_Rifle.md) Running attack. Signified by being encased in a block of ice. Mash F to escape faster.
+
+### Crystal
+
+Have a crystal stacked on you. Upon guard breaking or applying five crystals and then landing an attack that would apply a sixth, the stacked Crystals will detonate, dealing Frostdraw damage per applied Crystal. Applied by being hit by most [Frostdraw](Frostdraw.md) Mantras with the [Glass Path: Crystalization](Talents.md#glass-path-crystalization) Attunement path. Signified by having a pink crystal stacked on you.
+
+### Shock
+
+Applies a 1 second stun that interrupts hyperarmor, this does not affect your ability to parry. Additionally applies a 25% slow (40% if you consider hitstun) and disables passive posture regeneration for 1 second on proc. Due to base hitstun being 0.9s, Shock can be seen as only adding 0.1s of additional hitstun to your attacks. Applied primarily through [Thundercall](Thundercall.md) Mantras. Signified by lightning particles on your character.
+
+### Sapped
+
+While Sapped, your Mantra cooldowns are increased, you will also be shocked when Sapping ends. This can be applied by being flourished by someone using [Thunder Wisp](Thunder_Wisp.md), being hit by either of the [Boltcrusher](Boltcrusher.md) criticals, or by someone Overloading your Surge stacks with [Fried Circuits](Talents.md#fried-circuits). Indicated by a lightning javelin piercing you.
+
+### Overloaded
+
+This status effect is exclusive to the [Surge Path](Talents.md#unstable-capacitor) Talent tree. Anything that would normally apply [Shock](#shock) will apply a Surge Rod instead. Upon guard breaking or applying five rods and then landing an attack that would apply a sixth, the stacked Surge Rods will violently discharge, dealing Thundercall damage per applied Surge Rod. This effect can be enhanced by several Talents in the Surge Path Talent tree. Signified by a blurple rod planted in your body.
+
+### Metal Rods
+
+Metallic spikes implanted into your body, inflicted by being hit by [Ironsing](Ironsing.md) Mantras and [Ignition Deepcrusher](Ignition_Deepcrusher.md) club basic attacks. Innately, rods don't do anything until Pulled (X), but various Talents can be used to grant your Rods various effects. Effect on pull varies depending on which path the Ironsinger uses:
+
+-   Normally: Press X to pull your opponent towards yourself. Pull effectiveness scales on the amount of rods applied.
+-   [Rending Needle: Augmenter](Talents.md#rending-needle-augmenter): After applying 5 rods, Pulling your opponent will instead equip the [Metal Greatsword](Metal_Greatsword.md) for 10 seconds, overriding your previous weapon.
+-   [Rending Needle: Conductor](Talents.md#rending-needle-conductor): When 5 rods are applied, create a Conductor Rod. If your opponent casts a Mantra while having a Conductor Rod, they'll lose 5% of their armor and will have the elemental effect of the Mantra reversed back upon them, causing the Conductor Rod to fall off. If the Mantra is an Attunement-less, Oath, Ironsing, or Bloodrend Mantra, they will not be afflicted with any status effect, preventing the Rod from falling off; they will still take armor damage however. Pressing X will preform base Ironsing Pull, but Conductor Rods cannot be Pulled.
+-   [Rending Needle: Impaler](Talents.md#rending-needle-impaler): After applying 5 rods, Pulling your opponent will instead deal damage. The damage dealt scales on the amount of rods applied.
+-   [Rending Needle: Jailer](Talents.md#rending-needle-jailer): After applying 5 rods, Pulling your opponent will instead restrain them in place, and granting them 30% damage resistance. The Restrain effect will end early upon taking damage. Jailer's duration scales on the amount of rods applied.
+
+### Blood Poisoning
+
+Applied when you get hit by a [Bloodrend](Bloodrend.md) Mantra. Signified by a translucent dark red effect on your blood bar. Effect varies depending on the percentage of your blood bar is Poisoned.
+
+-   At 20% Blood Poisoning, [Vasculitis](Talents.md#vasculitis) Talent is activatable, disabling your opponent's ability to proc [Deep Gems](Deep_Gems.md) after you hit them. In PvE this also gives you [Gem Enhancement](#gem-enhancement) for a short duration.
+-   At 25% Blood Poisoning, [Hemolysis](Talents.md#hemolysis) Talent is activatable, granting you a 20% critical damage bonus when hitting someone at or above 25% BP.
+-   At 40% Blood Poisoning, Enemies receive 25% less healing.
+-   At 50% Blood Poisoning, Enemies have their damage reduced by 12.5%.
+-   At 60% Blood Poisoning, [Bloodwarden's Sense](Talents.md#bloodwardens-sense) Talent is activatable, highlighting enemies when you hit them.
+-   At 70% Blood Poisoning, [Gruesome Harvest](Talents.md#gruesome-harvest) Talent is activatable, granting you 15 Temporary Health when hitting people at or above 70% BP with Bloodrend Mantras.
+
+## Oath Applied
+
+These status effects are applied by [Oath](Oath.md)\-exclusive abilities and attacks.
+
+### Dread Stacks
+
+[Silentheart](Silentheart.md) exclusive. Gain stacking Mantra damage resistance when you take damage from or parry Mantras. Grants 5% Mantra damage resistance per stack, capping at 25% with 5 stacks. Signified by a red ring around your character. The color of this ring can be changed by [dying](Dye_Packet.md) your Oath Silentheart Tattoos.
+
+### Silent Cascade
+
+[Silentheart](Silentheart.md) exclusive. Your next uppercut used within the next 30 seconds will be replaced with Silent Cascade, a barrage of strikes that deals 7.5 Oath damage per hit and hits 6 times. This effect is acquired by landing 8 weapon attacks or Silentheart abilities, and is signified by black fog emanating off your arms with your arms being covered in white stars.
+
+### Hidden Tendril
+
+[Contractor](Contractor.md) exclusive. Become able to be targeted by Lord Slice mantra from Contractor, as well as being able to be pulled together with another target inflicted with this. Visible only to the one who applied it, can be removed by using a vent. signified by a black string between the caster and target.
+
+### Enchained
+
+[Chainwarden](Chainwarden.md) exclusive. Gain a slow that ramps up in effectiveness the further you move away from the person who enchained you. Applied through the [Chainlash](Chainlash.md) Talent and the [Restrain](Restrain.md) and [Impel](Impel.md) Mantras. This effect can be removed by moving too far away from the Chainwarden player or by waiting 30 seconds. Signified by a large chain sprouting from the Chainwarden player's gauntlet and attaching itself to you.
+
+### Perpetual Wrath
+
+[Chainwarden](Chainwarden.md) exclusive. Applied through the [Perpetual Wrath](Perpetual_Wrath.md) Talent, your [Restrain](Restrain.md) Mantra receives +8 base damage per Perpetual Wrath stack, capping at +24 damage with 3 stacks. Perpetual Wrath stacks are gained upon [enchaining](#enchained) an opponent or hitting an already enchained opponent with Restrain. While the fourth and final Perpetual Wrath stack does not grant a damage bonus, it increases the AoE of your Restrain and grants it a new visual effect.
+
+### Positive Link
+
+[Linkstrider](Linkstrider.md) exclusive. Gain 20% damage resistance, 5% dmg boost and constant [speed boost](#speed-boost) that is able to proc speed demon. Gained by being a target ally of a [Linkstrider](Linkstrider.md)'s Symbiotic Link.
+
+### Negative Link
+
+[Linkstrider](Linkstrider.md) exclusive. Become slowed and deal less damage, also become a valid target for Parasitic Leech. Signified by a red link between you and the [Linkstrider](Linkstrider.md).
+
+### Tranquil
+
+[Blindseer](Blindseer.md) exclusive. You lose the ability to cast Mantras but gain complete Mantra immunity instead. Applied with the [Blindseer](Oath%253A_Blindseer.md) Mantra, **Tranquil Circle**. Signified by light grey particles emanating from character while standing in the circle, somewhat similar to [Obfuscation](Obfuscation.md)'s effect.
+
+### Radiant
+
+[Dawnwalker](Dawnwalker.md) exclusive. Become immune to all elemental status effects. Gained by proccing the Absolute Radiance Talent.
+
+### True Strength
+
+[Bladeharper](Bladeharper.md) exclusive. Gain a [speed boost](#speed-boost) and empower your Bladeharper abilities. Applied by landing 10 attacks (weapon attacks count as 2) without being hit, proccing [Untouchable](Oath%253A_Bladeharper.md) or by using the [Reveal](Oath%253A_Bladeharper.md) Talent tool. If applied through Untouchable, this effect has a 15 second duration. If applied through Reveal, this effect has an indefinite duration until your health reaches 10% or lower. Reveal also self applies the [Wither](#wither) status over time. Signified by a white aura emanating from your character's chest.
+
+### Blightshock
+
+[Blightsurger](Blightsurger.md) exclusive. Innately, this deals 70% of your attack's damage as [Wither](#wither) on proc, but it can be enhanced further by Blightsurger Talents, gaining new effects such as: granting it hyperarmor bypass similar to regular Shock, increasing the Blightsurger user's PEN on their Blightsurger Mantras and [Sovereign Bangle](Sovereign_Bangle.md) attacks, and putting affected players' mobility Mantras on cooldown. Blightshock applied by Sovereign Bangle attacks deals 80% of damage as Wither instead. Blightshock is applied by [Blightsurger](Blightsurger.md) abilities and is signified by white and black lightning on proc.
+
+### Sovereign State
+
+[Blightsurger](Blightsurger.md) exclusive. Enhance your Blightsurger abilities with better performance and equip the [Sovereign Bangle](Sovereign_Bangle.md) weapon. This status effect is applied by maxing your Blight Meter or pressing X while having Blight Meter. While in this mode, your Blight Meter will slowly decay. Signified by white and black streams coming from your eyes and your current weapon being replaced with the Sovereign Bangle.
+
+### Decisive Winds
+
+[Jetstriker](Jetstriker.md) exclusive. If you take damage from an opponent while you are below half health, gain a 25% [speed boost](#speed-boost) as long as you are within 20 studs of the target, via the [Decisive Winds](Talents.md#decisive-winds) Talent. This effect lasts for 10 seconds with a 30 second cooldown. This effect has no visual indication.
+
+## Enchantment Applied
+
+These status effects are applied through [Enchantments](Enchantments.md) on [equipment](Equipment.md) or [weapons](Weapons.md).
+
+### Entangled Defence
+
+Applied from the [Entanglement](Entanglement.md) Enchantment; gain 10% damage reduction for 5 seconds. During the duration of this status effect, you will also have your movement speed reduced by 30% (22.5% due to the innate slow resistance players have). This has a 20% chance to proc when you get hit by weapon attacks, but has no cooldown. If procced while currently active, the duration will be refreshed, but the slow will be stacked. Signified by green shields appearing when you take damage.
+
+### Harrowing
+
+This is applied by being hit by the [Harrowing](Harrowing.md) Enchant, hiding your Health, Posture, and Armor values. Signified by purple mist dissipating from your character and the aforementioned bars being covered by a mix of purple and yellow.
+
+#### Confusion
+
+When proccing [Harrowing](Harrowing.md) on a PvE enemy, apply Confusion to them for 12 seconds. Confused enemies have a 5% chance to hit themselves instead when landing attacks, nullifying their attack, stunning them, and dealing their damage back to themselves. The Confusion effect is signified by yellow question marks around the enemy's head. The attack redirection is signified by a yellow circle on the attack's target.
+
+### Deferred
+
+This is applied by being hit by the [Deferred](Deferred.md) enchant. Take their attack's damage as a damage over time effect. This ticks 10 times over the course of 2.5 seconds and grants their attacks a 7% damage bonus. The formula is as follows: ((weapon damage \* 1.07) \* 0.1) = damage per tick. Deferred's damage is snapshotted at the time of the attack landing, meaning changes in resistances or damage modifiers will not have an impact on Deferred's damage. This effect has no visual indication.
+
+### Tethered
+
+Become tethered to your attacker, being pulled towards them forcefully. Applied by being hit with the [Elastic](Elastic.md) enchant. Signified by a pink string between yourself and your target, alongside a pink outline on your torso.
+
+### Nemesis Mark
+
+Become marked for an auto aim [Katana](Katana.md)\-like critical. Signified by a pink-reddish eye on your character. Applied by being hit with the [Nemesis](Nemesis.md) enchant.
+
+### Authoritative
+
+Applied by being hit by a Flourish, Critical, or an Uppercut from a player with the [Curse of the Authoritative](Curse_of_the_Authoritative.md) Enchantment. All posture damage taken is increased by 50% for 30 seconds. Signified by yellow electricity arcing out of your chest on proc.
+
+### Cauterized
+
+Applied by being hit by the [Sear](Sear.md) enchant. Incoming attacks have increased PEN, which is increased every time you get hit by the Sear enchant until it caps out at +40% PEN. No visual effect.
+
+### Solar Mark
+
+Applied by being flourished or hit by critical attacks from weapons with the [Solar](Solar.md) enchant. Reduces tempo and ether gain/regeneration. If the Solar user uses their Vent on you, it consumes your Tempo instead of theirs. Indicated by a pulsating star on your character.
+
+### Grim
+
+Grants a +20% damage and +50% posture damage modifier to any player attacking you for 6 seconds. Applied by being hit by the [Grim](Grim.md) enchant. Signified by red bubbles on your torso.
+
+### Parasol's Blight
+
+Applied by being hit by weapon attacks from weapons that have the [Parasol's Blight](<Parasol's_Blight.md>) enchant. If you die while under the effect of this status, your corpse will explode, and a monster will spawn. This effect lasts 60 seconds (refreshable by landing additional hits), and can **only** be applied to players. The monster can be a [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Prime Megalodaunt](Prime_Megalodaunt.md), [Void Thresher](Void_Thresher.md), [Nautilodaunt](Nautilodaunt.md), or if a [Cryptwaker's Ring](<Cryptwaker's_Ring.md>) is equipped, a [Bone Keeper](Bone_Keeper.md); these monsters can be [Corrupted](Corrupted_Monsters.md) if used in [The Depths](The_Depths.md). This effect has no visual indicator.
+
+### Curse of Void
+
+Applied from being hit by a player with the [Curse of Void](Curse_of_Void.md) enchant, gain 40% anti-heal for 30 seconds. Additionally, if you were to perish while affected by void, you will be sent to [the Depths](The_Depths.md) no matter how many lives you had previously. The user of this enchantment also has a permanently stained healthbar, however. Void is signified by a grey fog on your character.
+
+### Kyrsan Chill
+
+Applied from being hit by a player with the [Kyrsan Chill](Kyrsan_Chill.md) enchant, gain slowness when being hit. Each stack makes you 20% slower. At 5 stacks, you'll be fully encased in ice. This can also be procced through [Kyrsan Gem](Kyrsan_Gem.md) and [Coldpoint](Coldpoint.md). [Kyrsan Chill](Kyrsan_Chill.md) is signified by a pink-ish glow on your torso.
+
+## Mantra Applied
+
+These status effects are applied exclusively through certain [Mantras](Mantras.md).
+
+### Flame of Denial
+
+Upon casting [Flame of Denial](Flame_of_Denial.md), gain a status effect that prevents one instance of lethal damage and auto-executes for 25 seconds. When lethal damage is prevented, heal 12-20% of your maximum health scaling on Mantra level, removing this status effect. Flame of Denial's duration is increased by 25% (up to 31.25 seconds) if the caster has the [Azure Flames](Talents.md#azure-flames) or [Wraith Path: Twisted Puppets](Talents.md#wraith-path-twisted-puppets) Talents. Flame of Denial will only proc on lethal **damage**, you can still be knocked from non-damage sources, such as starvation while Flame of Denial is active. Also negates all burn damage taken when at 12.5 HP or lower, unaffected by [temporary health](#temporary-health). Signified by a pulsing light on your chest.
+
+### Engulfed by Lightning
+
+Applied by the Mantra [Lightning Cloak](Lightning_Cloak.md). Have your swing speed increased by 2% and movement speed increased while active. Additionally all dashes will be lightning dashes while active. Signified by pulsating electricity around your character.
+
+### Engulfed by Shadows
+
+Applied by the Mantra [Shade Devour](Shade_Devour.md), this effect grants a by 20-25% damage buff, depending on the amount of [Vibrant Gems](Vibrant_Gem.md) on the Mantra (caps at 3). Signified by a dark aura emanating from your character.
+
+### Blight
+
+You and the caster are unable to cast Mantras for a duration. Applied through the [Shadow Chains](Shadow_Chains.md) Mantra with the [Blighted Song](Talents.md#blighted-song) Talent. This status effect doesn't have a special visual indicator outside of the Shadow Chains Mantra.
+
+### Shadowed Touch
+
+Grasp your opponent with your shadows, increasing the Ether cost of all of their Mantras. Additionally, a portion of their Ether spent on Mantras will be returned to you. If your Ether is full, this will overflow into your Tempo instead. Applied through the [Rising Shadow](Rising_Shadow.md) Mantra with the [Blast Spark](Blast_Spark.md) modifier, this effect is signified by the shadow tendril connecting yourself to your opponent.
+
+### Adrenaline Surge
+
+Have your movement and parkour speed increased by 15% and your swing speed increased by 0.04 if you have the [Action Surge](Talents.md#action-surge) talent. Applied by the [Adrenaline Surge](Adrenaline_Surge.md) Mantra. Signified by a white circle in your chest.
+
+### Reinforced
+
+Applied from the [Reinforce](Reinforce.md) Mantra and [Golden Tongue](Talents.md#golden-tongue) Talent, gain 10% general damage reduction. If applied from [Reinforce](Reinforce.md), you and affected allies will also deal 5% more damage. Allies near you will automatically gain the same effect. You can hold your block key during Reinforce's windup to apply Reinforce to non-allies. Signified by pale yellow/lime green particles surrounding the body.
+
+#### Lord's Tithe
+
+If the caster has [Lord's Tithe](Talents.md#lords-tithe) and buffs another player with [Reinforce](Reinforce.md), they will siphon that player's Ether until the caster's Ether bar is full. This effect will end early when the caster takes damage, if the caster blocks an attack, or if the afflicted person goes under 5% Ether. The Ether steal scales on the user's Shadowcast investment. Steals health from enemies in PvE. Signified by red Reinforce particles surrounding the body and a black tendril extending towards the caster; this visual stacks with the base Reinforce visual.
+
+### Glorious Charge
+
+Applied through the [Glorious Charge](Glorious_Charge.md) Mantra, all [squadmates](Authority_Ensign.md#squads) gain a [speed boost](#speed-boost) for 20 seconds and become unable to be knocked for 10. Signified by blue rings of light pulsing from your character.
+
+### Poison
+
+This effect is applied through the [Hidden Blade](Hidden_Blade.md) Mantra. This effect increases the [Shaky Block](Shaky_Block.md) duration of your opponent by 20% for 8 seconds. The [Inquisition Light](Inquisition_Light.md) Outfit doubles the duration of this effect. Signified by green spirals on your character's body.
+
+### Rallied
+
+All posture damage given to you will instead be sent to the person who used [Rally](Rally.md). Signified by your character emitting white circles.
+
+### Enraged
+
+Applied through being hit by the Mantra [Taunt](Taunt.md) or being block broken by a player who has the [Cornered Fool](Talents.md#cornered-fool) Talent. Opponents who attack you receive a +20% damage modifier on their attacks, but in your rage you deal 10% more damage to the player who Taunted you. Also disables the ability to jump for the duration. Signified by red particles.
+
+### Laced Traps
+
+Be unable to jump and gain a speed debuff for a short duration. Applied when being hit by the [Caltrops](Caltrops.md) Mantra with the [Laced Traps](Talents.md#laced-traps) Talent. This status has no distinct visual effect, however the Caltrops themselves will gain a purple aura.
+
+## Weapon Applied
+
+These status effects are applied exclusively through certain [Weapon](Weapons.md) attacks or criticals.
+
+### Moonseye Mark
+
+_This is about the status effect. For other uses, see [Moon (disambiguation)](<Moon_(disambiguation).md>)._
+
+Become marked by the Moonseye, allowing users of the [Nocturne](Nocturne.md) to use their follow up attack to their critical, or users of the [Soulthorn](Soulthorn.md) to use their 2nd and 3rd stage criticals on you depending on the amount of Moonseye Mark stacks applied. The Moonseye mark will apply a speed debuff to opponents.
+
+### Fractine Shard
+
+Applied by the final hit of [Fractine](Fractine.md)'s Greatsword critical, this shard is consumed in the Broken variant's critical, dealing extra damage and hitstun. Signified by the Fractine's shard being lodged into you.
+
+### Enlightened
+
+Cast your [Imperator's Edge](<Imperator's_Edge.md>) neutral critical twice with extended [Hyperarmor](#hyperarmor) and gain Hyperarmor for the running critical. This status effect is applied by landing hits with the tip of the Imperator's Edge and is signified by a yellow halo above the character's head.
+
+### Krulian Charge
+
+Applied from using the [Krulian Knife](Krulian_Knife.md) Critical, gain a pink [Shock](#shock) effect on your basic attacks for 10 seconds. Also grants a [Speed Boost](#speed-boost) for the same duration. Additionally, this changes your Krulian Knife's critical into a pink [Lightning Assault](Lightning_Assault.md)\-like attack. This effect can be passed onto other weapons if you swap weapons, but the special critical and visual effect is exclusive to the Krulian Knife. Signified by your weapon cackling with light pink lightning.
+
+### Cruel Counter
+
+Applied if your attack gets interrupted by the [Krulian Knife's](Krulian_Knife.md) Krulian Charge critical attack. This effect grants a +40% damage modifier to all damage taken by critical attacks for the next 20 seconds. Any critical that hits you while you have this status effect will gain this damage bonus, even if it isn't from the Krulian Knife or the person who applied the status. This damage modifier **bypasses** the damage modifier cap. Signified by cackling purple electricity on your body.
+
+### Punishing Riposte
+
+After parrying any guardbreak attack with the [Crucible Rapier](Crucible_Rapier.md), gain the Punishing Riposte status effect for 15 seconds, making your critical attack automatically guardbreak if blocked. This is signified by a special vfx on parry.
+
+### Vital Wound
+
+Upon being uppercutted by someone wielding the [Acheron's Warspear](<Acheron's_Warspear.md>), your passive posture recovery will be reduced by 30% for the next 30 seconds. This cannot be reapplied to the same target once active.
+
+### Expeditious Combo
+
+While wielding the [Iron Birch](Iron_Birch.md), any uppercut you land will grant the Expeditious Combo status effect for 15 seconds. If you cast [Onslaught](Onslaught.md) during the duration of this effect, the speed of your attack will be increased, and your Expeditious Combo status effect will be consumed. This effect has no visual indicator, instead having a unique sound effect on uppercut. The duration of this effect can be viewed on your cooldown indicator.
+
+### Swift Strike
+
+When landing a backhit with your [Big Brother](Big_Brother.md) basic attack, gain the Swift Strike status effect. The next time you use your critical, it will be replaced with a backdash into a teleporting strike to your opponent's back, proccing all [assassination Talents](Talents.md#assassin) and dealing percentage based damage. This status effect has an indefinite duration but is consumed upon critical usage. You cannot gain the Swift Strike status effect while it is on cooldown. This effect has no visual indicator.
+
+### Forced Fulfilment
+
+When landing your critical with the [Metal Greatsword](Metal_Greatsword.md), apply the Forced Fulfilment status effect for 15 seconds, lodging a large iron rod into your opponent's leg and applying a -52.5% movement speed debuff. You can stack multiple Forced Fulfilment rods on the same target, entirely removing their ability to move unless they have a [speed boost](#speed-boost).
+
+### Pugnacious
+
+Upon landing an M1 with the [Warmonger](Warmonger.md), gain a variety of stat boosts for 5 seconds, with the potency of these effects scaling on how many combat tags you have. This status effect has no visual indicator. See the Warmonger page for more info.
+
+### Bloodletting
+
+Upon being hit by the critical of the [Bloodbane](Bloodbane.md), gain a damage over time status effect. This effect can be applied even if you dodge the attack, and will deal 6 damage per tick. If you get knocked during the duration of this status, you will be autogripped and you'll instantly die. This effect has no visual indicator.
+
+### Blessing
+
+Gain a random Blessing upon using the [Ritual Sacrifice](Ritual_Sacrifice.md)'s Talent tool. This Talent costs 5 Knowledge to activate and has a 0.5 second cooldown. The list of blessings are as follows:
+
+-   20% damage buff. This is also applied to Mantras
+-   [Hyperarmor](#hyperarmor) for 10 seconds. Casting any Mantra will remove this hyperarmor
+-   Instantly heal 50 health
+-   Thirst restoration
+-   Stomach restoration
+-   [Speed boost](#speed-boost) for 10 seconds
+
+### Fortified
+
+Upon using the [Frost Gauntlets](Frost_Gauntlets.md) or [Rimebreakers](Rimebreakers.md)' [Fortify](Talents.md#fortify) Talent tool, 15% gain damage reduction at the cost of reducing your movement speed by 36%. This effect is signified by your character being enveloped in the cold.
+
+## Outfit & Equipment Applied
+
+These status effects are applied through [Talents](Talents.md) granted exclusively from wearing certain [Outfits](Outfits.md) or [Equipment](Equipment.md).
+
+### Tidal Shock
+
+Applied by landing your weapon critical with the [Cala-Mariner](Cala-Mariner.md) Outfit. This effect causes all Mantras and elemental damage taken in the next 4 seconds to be voided. Tidal Shock is signified by bubbles exiting your body on proc, the damage immunity effect is signified by blue energy exiting, similar to a Vent from a [Nautilodaunt](Nautilodaunt.md).
+
+### Primal Rage
+
+Gain +25% more damage for 25 seconds. All of your attacks highlight enemy health for the same duration. This is applied by using the [Titanslayer's Adornment](<Titanslayer's_Adornment.md>) Talent tool. This ability has a 3 minute cooldown and can only be used if you are under half health. Signified by a large red aura exuding from your body, similar to the rage effect from [Primadon](Primadon.md) and [Elder Primadon](Elder_Primadon.md).
+
+### Tidekeeper
+
+Gain 15% more damage, 20% damage reduction, and the inability to be knocked for a short duration. This effect activates if you take 25% or more of your maximum health as damage within 3 seconds with the [Celtorian Tideknight](Celtorian_Tideknight.md) Outfit.
+
+### Stormcall Shock
+
+Applied from the [Specialist Plate](Specialist_Plate.md) Equipment Talent, whenever you cast a Mantra while affected by this status, you'll take damage. Signified by yellow and green lightning arcing out of your character.
+
+### Fearful
+
+Applied through the Reinforced War Set's Talent [Lasting Trauma](Talents.md#lasting-trauma), this status effect disables the affected player's ability to use their weapon critical for **19 seconds**. This effect is procced by applying the [Wrath](#wrath) status effect while wearing the **full** Reinforced War set; this means the [Helmet](Reinforced_War_Helmet.md), the [Plate](Reinforced_War_Plate.md), and the [Boots](Reinforced_War_Boots.md) need to be equipped. Indicated by pink shard effects rapidly escaping your character.
+
+### Etherguard
+
+Applied through the Bluestone Set's _Etherguard_ Talent; upon landing any Mantra with a [Warped Blue Gem](Warped_Blue_Gem.md) equipped, you will gain resistance to Mantras based on their Ether cost, alongside resistance to Elemental Damage in PvE; both effects lasting for 15 seconds.
+
+### Embraced in Light
+
+Grants immunity to enemy [Deep Gems](Deep_Gems.md) and the [Gem Enhancement](#gem-enhancement) status effect for 3 minutes. Once this duration is over, you will need to defeat a [boss](Bosses.md) or a player of equal [power](Power.md) to recharge it ([Chime](Chime_of_Conflict.md) kills do not count). Applied through using the Elegy of Light Talent tool from the [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) equipment. Signified by a white circling aura with white beams on your character.
+
+### Mocking Favor
+
+Mocking Favor is the Outfit Talent on [Jester's Garb](<Jester's_Garb.md>) and [Trickster's Habit](<Trickster's_Habit.md>). Whenever you taunt (spit) or emote, [Tillian](Tillian.md) or [Aelita](Aelita.md) will spawn and will grant you a random boon or affliction. Due to the large amount of effects this can apply, they'll all be listed together.
+
+-   **Again!** - Rerolls the effect given to you at no extra cost, granting an entirely different effect. No visual effect, instead signified by Tillian saying "Bravo, bravo!" / Aelita saying "Again! Again!".
+-   **Now You See Me...** - A very short duration invisibility. Signified by the same visual effect that [Visionshaper's Cheap Trick](Oath%253A_Visionshaper.md#abilities) has and Tillian saying "Hey, where'd you go?!" / Aelita saying "Woah, neat trick! Do it again!".
+-   **Tempo Gain** - Grants ~18% Tempo. Signified by a light blue [Reinforce](Reinforce.md)\-like effect and Tillian saying "Don't worry - It's on the house!" / Aelita saying "On your toes, dummy!".
+-   **Posture Clear** - Restores 30% of your current Posture. Signified by [Rally's](Rally.md) shield clanging sound effect and Tillian saying "Quick, they're weak!" / Aelita saying "Hit 'em while they're open!".
+-   **Free Mantra** - Makes your next Mantra cast cost 0 Ether. This effect is also granted to your allies. Signified with a visual that is almost identical to [Capra's Mark of Jurik](Capra.md#traits) and Tillian/Aelita saying "First one's always free!".
+-   **Vent Reset** - Resets your Vent cooldown, allowing you to use it again. No visual effect, instead signified by Tillian/Aelita saying "Need a Break? I've got you!".
+-   **Damage Reabsorption** - Around 30-40% of the damage you've taken very recently will be restored to you as healing. This has a short activation window of only a few seconds. No visual effect, instead signified by Tillian saying "Wanted to give ya a quick breather!" / Aelita saying "Tsk, barely a flesh wound!".
+-   **Take a Break** - Randomizes your spit cooldown, between 5 and 20 seconds. No visual effect, instead signified by Tillian saying "Down on your luck, huh." / Aelita saying "Heh, cat got your tongue!".
+-   **Silence** - Suffocation is applied to yourself, removing your ability to cast Mantras for a short duration. Signified by the Suffocation effect and Tillian saying "Zip it, focus on the fight!" / Aelita saying "Yikes! You're out of breath.".
+-   **Fatigued Swings** - Lowers your Swingspeed. Signified by black multiplication marks falling from your character and Tillian saying "Hah! How embarrassing!" / Aelita saying "Clumsy like a sack of bricks!".
+
+### Soul Rip
+
+Applied through using the Soul Rip Talent tool from the [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>), gain the Soul Rip status effect. Soul Rip grants a [speed boost](#speed-boost), a 20% defense buff, infinite Ether, and increases your melee damage by 50% for 25 seconds. Once the duration of Soul Rip ends, your [leg will break](#broken-leg). The Soul Rip Talent tool consumes one Rune on usage. Runes are a resource exclusive to the Familiar Heretic's Armor that is gained upon killing another player. Soul Rip is signified by teal Runes emanating from your character and a sound effect on proc.
+
+#### Broken Leg
+
+When the [Soul Rip](#soul-rip) status effect ends, your leg will break. This removes your ability to sprint for 30 seconds. The Broken Leg status effect has no visual indicator.
+
+### Hyperbody
+
+Signified by your character producing a bright yellow light from your chest, gain a [speed boost](#speed-boost), health regeneration, and damage reduction for 27 seconds. This effect is applied to yourself and your allies through using the Hyperbody Talent tool from the [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>). The potency and duration of these bonuses will be lessened if you buff multiple people, with the effectiveness inversely scaling on the amount of players that have been buffed. For information about the specifics on this status effect, please check the [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>) page.
+
+### Bane
+
+Upon using an M1, teleport to any opponent within a 25 stud radius. This effect is applied through using the Bane Talent Tool from the [Familiar Assassin's Armor](<Familiar_Assassin's_Armor.md>). The Bane status effect lasts 20 seconds and additionally grants a [speed boost](#speed-boost) for that same duration. Signified by blue particle effects and smoke pouring out of your character.
+
+### Pierced Armor
+
+\[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Applied through the [Piercing Shot](Talents.md#piercing-shot) Talent from the [Bounty Hunter's Garb](<Bounty_Hunter's_Garb.md>), take increased PEN from all sources for a few seconds
+
+## Resonance Applied
+
+These status effects are applied through use of [Resonances](Resonance.md).
+
+### Sacred Field
+
+Applied by standing within an ally's [Sacred Field](Sacred_Field.md) [Resonance](Resonance.md) zone. Gain physical, elemental, and sanity resistance, with the amount of each being based on the Resonance points of the Sacred Field user. Signified by vibrant particles emanating off your character. The color of these particles is based on the color of the Sacred Field, which is also dependent on Resonance points.
+
+### Sleeping
+
+Become [Ragdolled](#ragdolled) and be unable to move for a duration. Being afflicted with [Sleeping](#sleeping) from [Paralytic Dust](Paralytic_Dust.md) will grant 90% damage reduction. If applied in the [First Layer](First_Layer.md), gain 100% damage immunity instead of damage reduction. Applied through the use of the [Paralytic Dust](Paralytic_Dust.md) Resonance and the [Arkasid](Arkasid.md)'s **Paralyzing Throw** attack. If the user has the self cast variant of the [Paralytic Dust](Paralytic_Dust.md) Resonance, they will also heal for the duration of the [Sleeping](#sleeping) effect. Cannot be applied to people with the [Brick Wall](Talents.md#brick-wall) Talent (including yourself). Signified by "ZZZ" marks emanating from the player head. Automatically clears upon being hit 3 times.
+
+## Talent Applied
+
+These status effects are applied as the effect of certain [Talents](Talents.md).
+
+### Charmed
+
+Deal 10% less damage to the player who Charmed you, signified by hearts floating around the character's head. Charm duration is based on the source of the Charm, ranging from 2 seconds to 20 depending on what procced it. Having the [Disbelief](Talents.md#disbelief) Talent halves Charm's duration. Charm can gain many additional effects through a variety of Talents that augment your Charm status such as [Charismatic Cast](Talents.md#charismatic-cast), [Tough Love](Talents.md#tough-love), [Cult of Personality](Talents.md#cult-of-personality), [Target Focus](Talents.md#target-focus), and [Sharing is Caring](Talents.md#sharing-is-caring).
+
+When applying Charm to an already Charmed target: if the current Charm's _remaining duration_ is less than the _total duration_ of the new Charm, then it will be replaced and the ownership of the Charm may change, if not, nothing will happen. Having a long Charm duration is important for your Talent effects to be prioritized over other people's, as many Charm-based Talents only function if you have ownership of the Charm. Charm is applied by using the [Sing](Sing.md) and [Dread Whisper](Dread_Whisper.md) Mantras, [Kyrsieger](Kyrsieger.md)'s critical attack, the [Tough Love](Talents.md#tough-love), [Unnecessary Theatrics](Talents.md#unnecessary-theatrics), and [Chaotic Charm](Talents.md#chaotic-charm) Talents, the [Allure](Allure.md) Enchant, basic attacks while [Overcharm](#overcharm) is active, and [Fadetrimmer's](Fadetrimmer.md#hair-sprays) Charming Spray. Charm can also be applied to yourself with the [Narcissist](Talents.md#narcissist) Talent and others that grant Overcharm.
+
+#### Chaotic Charm
+
+Deal less damage to the player who Charmed you and deal 20% more damage to all other players. The effectiveness of this Talent scales on the user's Charisma investment, gaining 0.15% damage reduction per point in Charisma. This status effect is entirely separate from Charm itself and thus will be entirely unaffected by the [Disbelief](Talents.md#disbelief) Talent. No visual effect. Procced when hitting a player who has [Chaotic Charm](Talents.md#chaotic-charm) while they are under 25% HP.
+
+#### Overcharm
+
+Apply Charm on every basic attack and Mantra landed and deal 10% more damage with basic attacks to enemies Charmed by you. Signified by a pink circle around your head. Applied by proccing the [Rule Through Fear](Talents.md#rule-through-fear) Talent, using [Sing](Sing.md) with the [Propagandist](Talents.md#propagandist) Talent, and can also be applied to self with the [Narcissist](Talents.md#narcissist) Talent. All procs of Overcharm will also self proc [Charm](#charm), thereby reducing your self-damage by 10% and allowing you to get up twice as fast if you have [Charismatic Cast](Talents.md#charismatic-cast).
+
+#### Target Focus
+
+Applied from the [Target Focus](Talents.md#target-focus) Talent, your Charm increases the damage your [squadmates](Authority_Ensign.md#squads) deal to targets you Charm. This effect has no visual indication.
+
+### Intangible
+
+Gain brief invincibility frames after dodging an attack. Applied through the [Risky Moves](Talents.md#risky-moves), [Ghost](Talents.md#ghost), and [Dark Rift](Talents.md#dark-rift) Talents. Duration and visual effect depends on the source, but all have a 20 second cooldown. This effect is removed upon attacking. Dark Rift can also be procced by using [Deepsindle's](Deepspindle.md) running critical.
+
+### Perfection
+
+Applied through the [Chain of Perfection](Talents.md#chain-of-perfection) Talent, gain a final +5% damage buff to your attacks in PvE per Perfection stack above 5, capping at +100% damage with 25 stacks. Perfection acts as a final damage multiplier, bypassing the damage modifier cap entirely. Perfection stacks are gained through dealing damage to NPCs, gaining 0.5 stacks per hit, doubled for weapon attacks. You cannot get more than 3 stacks from any attack. All Perfection stacks will be lost if you take damage from any non-self damage source (excluding fall damage). Perfection stacks can also be consumed for the [Finishing Slay](Talents.md#finishing-slay) Talent from the [Messer](Messer.md), dealing raw damage based on the amount of Perfection stacks you had when your critical landed. Signified by a translucent white chain halo rotating on your head, visible only to you.
+
+### Bloodlusted
+
+A [speed boost](#speed-boost) triggered by executing someone while you have [Time to Go](Talents.md#time-to-go). Signified by red glowing eyes.
+
+### All Above, Gods Below
+
+While under the effects of All the Dead Gods' [anti-heal](#anti-heal), all non-passive healing you receive will be granted to the caster instead if they have the [All Above, Gods Below](Talents.md#all-above-gods-below) Talent. The activation window for this effect will be reduced if you do not meet the requirements of this Talent. Signified by a much deeper blurple hue on your anti-heal.
+
+### Deep Wound
+
+Anti-Heal effect applied when being assassinated by a player who has the [Deep Wound](Talents.md#deep-wound) Talent. The Anti-Heal lasts 20 seconds. This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by a dark red smoke on your character.
+
+### Light's Out
+
+After landing an assassination, gain +30% PEN for 5 seconds. This effect is applied through the [Light's Out](Talents.md#lights-out) Talent and is signified by your character gaining a purple outline.
+
+### Unseen Threat
+
+Applied through the [Unseen Threat](Talents.md#unseen-threat) Talent, those you assassinate will be unable to jump and will be slowed for 3 seconds.
+
+### Flanking Maneuvers
+
+After assassinating your target, they will gain the Flanking Maneuvers status effect, taking increased PEN from your [squadmates](Authority_Ensign.md#squads). Applied through the [Flanking Maneuvers](Talents.md#flanking-maneuvers) Talent, this effect has no visual indicator.
+
+### Paused Posture
+
+While affected by Paused Posture, your posture cannot be restored from passive posture regeneration, [Steady Nerves](Talents.md#steady-nerves), or parrying. All other sources of posture restoration will completely ignore this status effect. Applied by the [Stature Break](Talents.md#stature-break) and [Maiming Claws](Talents.md#maiming-claws) Talents. This effect has no visual effect, though it does have a very distinct audio cue on proc.
+
+### Last Resort
+
+Gain +5% damage when your health is below 25%. This effect is applied through the [Last Resort](Talents.md#last-resort) Talent and is signified by orange and red swirling particles on your character's arms.
+
+### Rapid Fire
+
+Upon landing a Pistol critical while having the [Rapid Fire](Talents.md#rapid-fire) Talent, gain the Rapid Fire status effect for 2 seconds. While active, your critical attack will not have a cooldown. This effect can be enhanced with the [Ultrakill](Talents.md#ultrakill) Talent, doubling your reload speed during Rapid Fire. This effect has no visual indication when active.
+
+### Gone Berserk
+
+Gain a 20% defense boost to all sources. Applied after knocking someone with the Talent [Brassneck](Talents.md#brassneck). Signified by a yellow hue surrounding your character upon being hit.
+
+### Berserk State
+
+At the cost of draining all of your armor, your M1s bypass your opponent's armor, additionally your Critical attacks gain +10% PEN. Deactivating the tool will replenish your armor and Natural Armor back to their previous values. Applied with the Talent [Berserk](Talents.md#berserk). Signified by your hair and eyes turning red and you gaining a red eye trail.
+
+### Champion's Regalia
+
+Gain +50% posture damage for 10 seconds to your basic attacks after successfully flourishing an opponent. This effect is applied from the [Champion's Regalia](Talents.md#champions-regalia) Talent and is signified by a gold outline on your character.
+
+### Inspiration
+
+Granted by reaching 3 stacks of Inspiration with the [Eureka](Talents.md#eureka) Talent. Stacks of Inspiration can be gained through landing and parrying Mantras. Casting any Mantra will consume this status effect and grant a 10% damage buff to said Mantra. Inspired lasts 30 seconds, but will be instantly consumed if the procced via landing Mantras. Signified by a light blue hue and outline surrounding your character on proc.
+
+### Everchanging Aegis
+
+Gain 20% damage reduction against the Attunement type of the attack that hit you last. Upon taking damage from a different Attunement, take 10% more damage from that attack instead, swapping your Aegis type. This effect is procced by the [Everchanging Aegis](Talents.md#everchanging-aegis) Talent and is signified by a shield covering your body when hit by a new attunement, the color of this shield is based off the Attunement used.
+
+### Mythic Stability
+
+Gain immunity to most auto-grip effects for a short duration. Procced by being hit by an attack that auto-grips while being eligible to be auto-gripped (low enough health for the attack to kill you or if you're already knocked). This effect comes from the [Mythic Stability](Talents.md#mythic-stability) Talent. Signified by a white shield on your character.
+
+### Target Switch
+
+Your next Mantra cast is free. Procced by the [Target Switch](Talents.md#target-switch) Talent. Signified by a yellow halo above the player's head.
+
+### Hamstrung
+
+Can be applied by being hit by a critical attack if the user has [Bear Trap](Talents.md#bear-trap). Become slowed and lose the ability to jump. Signified by one of the users legs bleeding.
+
+### Audacity
+
+Applied by being near someone with the [Audacity](Talents.md#audacity) Talent when they execute someone, which inflicts a stun AOE that greatly slows movement speed and disallows attacking for 5 seconds. Also grants nearby allies a 10% damage buff. Signified by white eyes in the moment of the execution.
+
+### Ruptured Lungs
+
+Be unable to use your [Vent](Combat_Mechanics.md) for a few seconds. Though applied most notably through the Strength Talent, [Collapsed Lung](Talents.md#collapsed-lung), this effect can also be applied through the [Reinforced War Plate's](Reinforced_War_Plate.md) Talent, [Crippling Impact](Talents.md#crippling-impact). This effect has no visual indicator.
+
+### Collapsed
+
+This status effect can only be applied in PvE. Upon proccing [Collapsed Lung](Talents.md#collapsed-lung) on a PvE enemy, also apply the Collapsed status effect to them. While affected, enemies deal 40% less posture damage to you.
+
+### Precise Swing
+
+Applied through the [Precise Swing](Talents.md#precise-swing) Talent, this effect grants 25% additive chip damage to your next M1. The Precise Swing status effect lasts 30 seconds, but will be consumed if your next M1 lands, hit someone's block, or gets parried. This effect has no visual indicator.
+
+### Shocking Reverb
+
+After meeting a damage threshold with Thundercall damage, gain the Shocking Reverb status effect. This effect nullifies damage taken by M1s and [Ironsing](Ironsing.md) for 15 seconds. Applied through the [Shocking Reverb](Talents.md#shocking-reverb) Talent, this effect is signified by your character being entirely enveloped in arcing bolts of electricity.
+
+### Martyrdom
+
+Upon being knocked Unconscious while having the [Martyr](Talents.md#martyr) Talent, grant your nearby allies the Martyrdom status effect for 20 seconds. This grants +20% damage and damage reduction.
+
+### Stagger
+
+This status effect can only be applied in PvE. Increase the amount of posture damage your opponent takes by 33%. This effect can be applied through a multitude of Talents.
+
+### Ether Sunder
+
+This status effect can only be applied in PvE. Gain +30% elemental damage reduction against PvE targets for the duration of Ether Sunder. This effect can be applied from the [Chronostasis](Talents.md#chronostasis), [Dark Waltz](Talents.md#dark-waltz), and [Sightless Still](Talents.md#sightless-still) Talents.
+
+### Heal Boost
+
+This status effect can only be applied in PvE. Increase the amount of healing gained from targets who are affected by your Anti-Heal. Each Anti-Heal Talent grants a different amount of Heal Boost, and you need to have their effects active for this to activate. These Talents are: [All Above, Gods Below](Talents.md#all-above-gods-below) (+15%), [All the Dead Gods](Talents.md#all-the-dead-gods) (+5%), [Frostbite](Talents.md#frostbite) (+5%), [Saint Jay](Talents.md#saint-jay) (+10%), and [Sin Stacker](Talents.md#sin-stacker) (+10%) for a maximum possible Heal Boost of 45%.
+
+### Sluggish
+
+This status effect can only be applied in PvE. Upon proccing specific Talents that apply a slowing effect, also proc Sluggish. This effect reduces the damage enemies deal, with its duration being based on the slow that procced this effect.
+
+### Fight
+
+Gain a 20% damage and defense boost. Applied through [Vow of Mastery Command: Fight](Vow_of_Mastery.md); this cannot be self applied. Signified by a large purple aura covering your character.
+
+### Live
+
+Restore your health to maximum and get up if you are unconscious. Applied through [Vow of Mastery Command: Live](Vow_of_Mastery.md); this cannot be self applied. Signified by a large dark blue aura around your character.
+
+### Run
+
+Gain a [speed boost](#speed-boost), and an unstoppable urge to run. You're unable to stop running until the effect wears off. Applied by the [Vow of Mastery Command: Run](Vow_of_Mastery.md). Signified by a white aura of line trails surrounding your character.
+
+### Drained
+
+Takes a percentage of your maximum Ether and grants it to your Vow Master. Applied the [Vow of Mastery](Vow_of_Mastery.md) Command: Leech. Signified by a blue ball of ether leaving your body to go to your master.
+
+### Mark of Jurik
+
+Buffs the sanity and health regeneration of people near you. Also slightly buffs the nourishment of food and blood regeneration of affected players. These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second. Signified by dark blue particles surrounding the body. This has a 4 minute cooldown, but does not require a campfire to be used. Can only be applied by players who have the the Jurik and Hollowtide [Capra](Capra.md) Variants.
+
+### Mark of Nemit
+
+Buffs the nourishment of food and health regeneration for people near you. Also slightly buffs the sanity and blood regeneration of affected players. These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second. Signified by yellow particles surrounding the body. This has a 3 minute 30 second cooldown and can only be used while resting at a campfire. Can only be applied by players who have the the Nemit [Capra](Capra.md) Variant.
+
+### Mark of Ku
+
+Buffs the blood and health regeneration of people near you. Also slightly buffs the nourishment of food and sanity of affected players. These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second. Signified by light green particles surrounding the body. This has a 3 minute 30 second cooldown and can only be used while resting at a campfire. Can only be applied by players who have the the Ku [Capra](Capra.md) Variant.
+
+### Dragon Scales
+
+\[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Applied through the [Drakkard](Drakkard.md) Talent, [Scales of the Edenkite](Talents.md#scales-of-the-edenkite), gain 80% damage reduction for 5 seconds. Additionally, all enemies will be deaggrod briefly (this is currently bugged and does not work). Signified by your character being enveloped in a white aura with white orbs floating around their head.
+
+### Soul Veil
+
+\[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Applied through the [Prince of the Moon](Prince_of_the_Moon.md) Memento's [Soul Veil](Talents.md#soul-veil) Talent, gain a stacking 7.5% damage buff when you land attacks with the [Soulthorn](Soulthorn.md). This damage buff caps at +30% damage. If you take damage while having the Soul Veil status effect, your opponent will steal the buff until you hit them back. This buff is applied to the attack that gains the buff, allowing your opponents to nuke you if you get hit. Signified by your character being shimmering with a celestial white and black aura.
+
+### Madness
+
+\[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Applied through the [Strange Merchant](Strange_Merchant.md) Memento's [Toxic Personality](Talents.md#toxic-personality-vow-of-iron) Talent tree, this effect causes non-player enemies to attack eachother instead of the caster. Additionally, non-player enemies affected by Madness will not be able to deal damage to or hitstun the caster. **This effect does not work on bosses.** Signified by pink circles around the eyes of affected targets.
+
+## Attunement-Exclusive Talents
+
+These status effects are applied as the effect of certain [Talents](Talents.md) which require investment into an [Attunement](Attunement.md) to obtain.
+
+### Warding Radiance
+
+Slide further, applied with the [Warding Radiance](Talents.md#warding-radiance) Talent. Allows you to proc [Hell's Partisan](Talents.md#hells-partisan) on all Flamecharm Mantras. Signified by an orange halo above your character's head. This effect can be upgraded with the Flamewalker Talent, creating stationary flames on the path you slide. These flames apply burn on contact.
+
+### Empowered Eruption
+
+Your next Eruption will deal 50% more damage and have a 50% larger AoE. This status effect is applied by the [Flash Point](Talents.md#flash-point) and [Empowered Eruption](Talents.md#empowered-eruption) Talents. The Empowered Eruption status effect lasts 10 seconds or until you proc an Eruption. This status effect has no visual indication.
+
+### Haunted
+
+Upon landing any Mantra while the Haunted is in effect, your opponent will be struck by a ghost, dealing additional Galebreathe damage. Haunted is applied through the [Haunted Gale](Talents.md#haunted-gale) Talent. Haunted has an 8 second duration, this can be increased with [Gale Wisp](Gale_Wisp.md), adding 3 seconds for a total of 11 seconds. Signified by a green ghost levitating above your head.
+
+### Ghastly Mobility
+
+Applied by the Galebreathe Talent, [Phantom Step](Talents.md#phantom-step); transform all of your dashes into Phantom Dashes, extending their mobility and i-frames, also gain a [speed boost](#speed-boost) for the full duration of this effect. This mode passively drains from your Specter Meter while active. This effect can be further enhanced with the [Vanishing Wraith](Talents.md#vanishing-wraith) and [Possession](Talents.md#possession) Talents, allowing you to teleport to your opponent on aerial attack and granting increased chip damage when an apparition lands respectively. Signified by winds swirling at your feet.
+
+### Inhale
+
+After [feinting](Combat_Mechanics.md#feinting) a Galebreathe Mantra with the Inhale Talent, gain the Inhale status effect for 5 seconds and a [speed boost](#speed-boost) for 3 seconds. The Inhale status effect will be consumed if you cast a Galebreathe Mantra, or a Flamecharm Mantra if you have the [Fan the Flames](Talents.md#fan-the-flames) Talent, applying all of the [Mantra Modifiers](Mantra_Modifiers.md) from the Inhaled Galebreathe Mantra and a damage buff to the Mantra you cast. The damage buff scales off the level of the Inhaled Mantra, being +(Mantra Level \* 2)% damage (e.g. +10% at level 5). Inhale is signified by your character breathing in the winds on Mantra feint.
+
+#### Maestro's Blade
+
+After using Inhale, gain the Maestro's Blade status effect. During the duration of this status effect, your melee attacks will benefit from [After Cut](Talents.md#after-cut) and [Possession](Talents.md#possession). The duration of Maestro's Blade is based off the Ether cost of the Inhaled Mantra, being (Mantra Ether cost/5) seconds; [Blue Gem](Blue_Gem.md) and [Warped Blue Gem](Warped_Blue_Gem.md) are not taken into account for Maestro's Blade duration. Maestro's Blade is signified by your hand emitting wind effects.
+
+### Gale Reflection
+
+This status effect can only be applied in PvE. Upon killing a PvE enemy while having the [Gale Trap](Talents.md#gale-trap) Talent, gain the Gale Reflection status effect. The next time any PvE enemy attempts to hit you, you will gain damage reduction to the attack and they will be Gale Trapped, dealing damage to them. The damage this deals is based on the maximum health of the target you killed.
+
+### Orbital Ice
+
+Gain 15% physical damage reduction. Applied through the [Orbital Ice](Talents.md#orbital-ice) Talent. The durability of Orbital Ice scales on your Frostdraw investment. Signified by ice cubes floating around your character. This effect can be upgraded with the [Glacial Coasting](Talents.md#glacial-coasting) Talent, leaving ice patches on the path you slide.
+
+### Bottom Freeze
+
+Unable to move during the duration while active while still being able to block, parry and dodge. Can be applied with the [Chilling](Chilling.md) enchantment and the [Bottom Freeze](Talents.md#bottom-freeze) Talent. Signified by the legs of your character being frozen in ice.
+
+### Cool Head
+
+Applied by the [Cool Head](Talents.md#cool-head) Talent. For the duration, you are unable to be lit on fire, signified by a cold breath coming out of your character's mouth periodically.
+
+### Reclaimed Glass
+
+Gain 10% elemental resistance. Applied through the [Reclaimed Glass](Talents.md#reclaimed-glass) Talent upon Crystal detonation. This effect can also be shared with allies. Signified by crystal shards on your character.
+
+### Enhanced Dashes
+
+Your dashes are enhanced by the winds or thunder, increasing their distance travelled and i-frames granted. Applied through the [Flashwind](Talents.md#flashwind), [Overcharge](Talents.md#overcharge), [Phantom Step](Talents.md#phantom-step), and [Air Pressure](Talents.md#air-pressure) Talents as well as the [Lightning Cloak](Lightning_Cloak.md) Mantra. Signified by your blade being enveloped in wind or thunder particles.
+
+### Electrified
+
+Deal 10% less damage and have your damage type on basic attacks transfer to Thundercall damage. Applied through being hit by 5 hits from any [Thundercall](Thundercall.md) Mantra with the [Resolve Crusher](Talents.md#resolve-crusher) Talent. Signified by a swirling lightning effect in the users torso.
+
+### Static Linked
+
+A link tethering you to your opponent. Applied by uppercutting or flourishing an opponent while having the [Static Link](Talents.md#static-link) Talent. This effect doesn't do anything innately, but has several supporting Talents in the [Static Weaver](Talents.md#static-weaver) Talent tree that grants it additional effects. Signified by a yellow/blue arc of electricity tethering yourself and your opponent.
+
+### Static Blade
+
+Applied from landing basic attacks, blocking attacks, and having your attacks parried with the [Static Blade](Talents.md#static-blade) Talent. Signified by an electric charge on your weapon, granting you a ramping speed boost.
+
+#### Gathering Electricity
+
+When you reach 5 Static Blade stacks, clear all stacks and gain the Gathering Electricity status effect. This increases your weapon's base damage by 3 for 15 seconds. Applied by the [Gathering Electricity](Talents.md#gathering-electricity) Talent.
+
+### Amped
+
+Applied by using the [Electrify](Talents.md#electrify) Talent tool. Grants a +10% damage modifier to weapon attacks, and allows you to apply [Shock](#shock) or [Surge Stacks](#overloaded) on your weapon attacks, depending on your chosen Thundercall path. Additionally, all incoming damage will be increased by 10%. This effect lasts 15 seconds. Signified by a colored conduit over your heart.
+
+This effect will be enhanced if you have the [Amplified Rage](Talents.md#amplified-rage) or [Amplified Reflexes](Talents.md#amplified-reflexes) Talents. If you have Amplified Rage, the damage buff will be doubled to +20%. If you have Amplified Reflexes, then you will gain +50% walk speed and 15% more climb height for the duration of Amped, at the cost of the self damage taken when casting Amped tripling and the cooldown doubling. These Talents are mutually exclusive with eachother.
+
+### Obscured
+
+Screen turns slightly black around the edges and have your vision obscured. Gained by being hit with a [Shadowcast](Shadowcast.md) Mantra with the [Sightless Still](Talents.md#sightless-still) Talent.
+
+### Ironclad Defenses
+
+Gain 60% damage reduction for 2 seconds after dodging an attack. This damage reduction will be lost upon taking a hit. This effect is applied by the [Ironsinger's Instinct](Talents.md#ironsingers-instinct) Talent. 18 second cooldown. Indicated by a grey highlight on your character.
+
+### Augmented
+
+Upon proccing the [Rending Needle: Augmenter](Talents.md#rending-needle-augmenter) Talent, your weapon will be replaced with the [Metal Greatsword](Metal_Greatsword.md), a high damage Ironsing greatsword, for 10 seconds. While the Metal Greatsword is equipped, you will deal double damage with the [Metal Armament](Metal_Armament.md) Mantra and your critical will proc the [Forced Fulfilment](#forced-fulfilment) status effect.
+
+### Shackled
+
+While afflicted with this status effect, you cannot gain [speed boosts](#speed-boost). Applied by being block broken by a player who has the [Metal Shackles](Talents.md#metal-shackles) Talent. Signified by metal shackles on your legs, this effect lasts 5 seconds.
+
+### Rush Hour
+
+Take 4.5 damage and lose 2% of your maximum blood per second, but gain a 15% damage buff, 30% speed buff, and increased blood bar damage. If you have the [Enhanced Flow](Talents.md#enhanced-flow) Talent, landing basic attacks during Rush Hour will grant [Temporary Health](#temporary-health). Additionally, having Rush Hour active doubles the duration of the [Torture Mastery](#torture-mastery) status effect. Applied through the [Rush Hour](Talents.md#rush-hour) Talent. Signified by blood gushing out of your chest. Utilize the tool again to end this effect early.
+
+### Torture Mastery
+
+All chip damage dealt to an opponent affected by Torture Mastery will be transferred into healing for yourself. The conversion rate is 1:1 with damage dealt to healing gained. To proc this effect, you must land a critical attack while having the [Torture Mastery](Talents.md#torture-mastery) Talent. Torture Mastery lasts 15 seconds, doubled to 30 if you have [Rush Hour](#rush-hour) active on Talent proc. This effect is signified by a crimson chain linking yourself and affected opponents.
+
+### Gem Enhancement
+
+This status effect can only be applied in PvE. Upon proccing [Vasculitis](Talents.md#vasculitis) on a PvE enemy or using the [Elegy of Light](Talents.md#elegy-of-light) Talent Tool, gain the Gem Enhancement status effect, increasing the potency of your [Deep Gems](Deep_Gems.md) against PvE targets.
+
+## Deep Gem Applied
+
+These status effects are applied when landing a Mantra with a certain [Deep Gem](Deep_Gems.md) equipped on it.
+
+### Wrath
+
+Procced from landing a Mantra with the [Wrath Gem](Wrath_Gem.md) equipped, this effect increases the damage of your critical attack by 7.5% per player combat tag you have. This damage bonus will be increased to 15% per player combat tag if you have the Brain [food buff](#reinforced-hunger). Additionally, this allows you to proc the Talents from the [Reinforced War Set](Reinforced_War_Helmet.md). Wrath lasts 9 seconds with the Wrath Gem having a 10 second cooldown. This effect has no visual indicator.
+
+### Aegis
+
+Gain 10% damage reduction for 10 seconds, applied by landing a Mantra with the [Aegis Gem](Aegis_Gem.md) equipped, signified by a pink translucent, cylindrical dome on your character. This duration of this effect will be increased to 15 seconds if you have the Brain [food buff](#reinforced-hunger). Note: This effect will not proc if you have not beaten [The Gaunt Man's](The_Gaunt_Man.md) experiment on your character.
+
+## NPC Exclusive
+
+These, almost always harmful, status effects are exclusively used by and applied from Monsters or other non playable characters.
+
+### Time Stasis
+
+Applied by standing in the time stasis bubble made by the [Knives of Eylis Captains](Knives_of_Eylis_Captain.md) and [Semblance](Semblance.md) NPCs. Have your screen gray-scaled, movement speed and attack speed lowered heavily. Can be removed by hitting and breaking the center of the time bubble or by walking out of its range.
+
+### Venom
+
+This can be applied by being hit by the [Deep Widow's](Deep_Widow.md) venomous bite. While inflicted with venom, your HP will drain at a moderate pace, it will bypass armor and instantly grip you if you were to get downed from its damage. There is no visual indicator for this.
+
+### Magma Flow
+
+Monsters in [Saramaed Hollow](Saramaed_Hollow.md) have a chance to spawn with Magma Flow, this chance increases the deeper you go. When a Magma Flow-affected Monster hits you or another Monster with any attack, they'll apply Magma Flow, weakening your armor resistances and nullifying all Monster Armor temporarily. Monsters can spawn in with Magma Flow, Magma Guard, and being Attuned, in fact it is a common occurrence for Monsters to have at least 2 of these effects at once on the lower floors. Signified by a dripping lava effect on your character and the Monster who has this effect.
+
+### Magma Guard
+
+Monsters in [Saramaed Hollow](Saramaed_Hollow.md) have a chance to spawn with Magma Guard, this chance increases the deeper you go. Magma Guarded Monsters are immune to any Damage vs Monsters effect. Monsters can spawn in with Magma Guard, Magma Flow, and being Attuned, in fact it is a common occurrence for Monsters to have at least 2 of these effects at once on the lower floors. These monsters have exteriors encrusted with magma and rock.
+
+### [Attuned](Attuned_Monsters.md)
+
+The effects of this status effect depends on which [Attunement](Attunement.md) the Monsters are attuned to. Some Monsters are always Attuned to a specific Attunement (e.g. [Fury Nautilodaunts](Fury_Nautilodaunt.md) (Thundercall) or [Glacial Lionfish](Glacial_Lionfish.md) (Frostdraw)). This effect can also be applied to humanoid enemies within [The Diluvian Mechanism](The_Diluvian_Mechanism.md). Additionally, Monsters can spawn as both Attuned and another effect such as being Corrupted or having Magma Flow and/or Magma Guard.
+
+-   [Flamewreathed](Attuned_Monsters.md) - [Flamecharm](Flamecharm.md): Flamewreathed Monsters apply [Burn](#burn) with their attacks. This is a unique burn variant that is harder to remove. Additionally, Flamewreathed Monsters have 50% Flamecharm resistance, but take double damage from Galebreathe. Signified by the Monster being engulfed in flames.
+-   [Frostmantle](Attuned_Monsters.md) - [Frostdraw](Frostdraw.md): Frostmantled Monsters apply [Chill](#chill) and create ice patches on the floor with all of their attacks. Additionally, Frostmantled Monsters have 50% Frostdraw resistance, but take double damage from Flamecharm. Signified by the Monster radiating with frost.
+-   [Galeforce](Attuned_Monsters.md) - [Galebreathe](Galebreathe.md): Galeforce Monsters apply [Winded](#winded) and/or [Suffocation](#suffocate) on hit. These Monsters also have increased movement speed and deal extra knockback. Additionally, Galeforce Monsters have 50% Galebreathe resistance, but take double damage from Thundercall. Signified by the Monster emanating the winds.
+-   [Thunderstruck](Attuned_Monsters.md) - [Thundercall](Thundercall.md): Thunderstruck Monsters apply [Shock](#shock) on hit, making them very dangerous, especially in group settings. Additionally, Thunderstruck Monsters have 50% Thundercall resistance, but take double damage from Frostdraw. Signified by the Monster cackling with electricity.
+-   [Shadowmeld](Attuned_Monsters.md) - [Shadowcast](Shadowcast.md): Shadowmeld Monsters steal ether on hit. Additionally, Shadowmeld Monsters have 50% Physical resistance, but take double damage from all Attunements. Signified by the Monster exuding a black aura.
+
+### [Corrupted](Corrupted_Monsters.md)
+
+Monsters within [The Depths](The_Depths.md) have a chance to spawn Corrupt, boasting a much higher health pool and increased damage. This chance is made guaranteed during [Hell Mode](Hell_Mode.md) and during your [Depths Trial](Cathedral_of_the_Interstice.md) if you have the Deep Champion [Echo Modifier](Echo_Modifier.md). Additionally, ringing the black bells within the [First Layer](First_Layer.md) will increase the odds of surrounding Monsters spawning corrupt. Signified by a dark purple aura on the Monster.
+
+## Other
+
+### Acid
+
+Not to be confused with Acid Rain, this effect refers to the large pools of Acid found in [Erisia](Erisia.md). When standing in these pools, you will lose a small amount of your health and armor at a time. If your health reaches 0 or if you're unconscious while in Acid, your character will instantly die. This is relatively uncommon as the acid pools can easily be avoided by parkour or by jumping right after touch the acid, but it can pose a danger if you are being chased into a pool of acid.
+
+### \[ Coral Fever \]
+
+This effect happened on April 1 of 2023 and it was obtained either when you got stabbed by a [Megalodaunt's](Megalodaunt.md) Coral Spear, got scratched by a [Megalodaunt](Megalodaunt.md) or you got sneezed on by a [Megalodaunt](Megalodaunt.md) or emoting near the [Great Sharko Rumbling](The_Great_Sharko_Rumbling.md) statue in [Etris Docks](Etris_Docks.md). When obtained, you were greeted by [Destroyman III](Destroyman_III.md) and you couldn’t get rid of him, unless you emoted near the same statue again, which will destroy [Destroyman III](Destroyman_III.md).

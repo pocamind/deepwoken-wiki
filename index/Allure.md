@@ -1,0 +1,32 @@
+---
+title: Allure
+revid: 218026
+source: https://deepwoken.fandom.com/wiki/Allure
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enchantments, Equipment Enchantments]
+---
+
+# Allure
+
+| Allure | |
+|---|---|
+| bankable | Yes |
+| droppable | No |
+| pass down | Yes |
+| desc | Incoming hits may Charm your attacker for 10s. |
+| obtainment | Finding an Allure enchanted item in a chestAllure Enchant Grease:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Grease), Exchanging 5 to Laplace (grants a random non-exclusive Enchant Grease), The Diluvian Mechanism, War Mode, Galewax Room in the Second Layer, Crafting :, Any Enchant Grease, Insignia Gem, Magnet Spark, Sold in Traan Zakshun's black market for 5 |
+
+## Description
+
+Allure is a debuffing equipment [enchantment](Enchantment.md) that [charms](Status_Effects.md#charm) your opponent on proc.
+
+## Effect
+
+Upon being hit by a humanoid's M1 attack, Allure has a 50% chance to proc. On proc, your opponent will be [charmed](Status_Effects.md#charm) for 10 seconds.
+
+### Notes
+
+-   This enchantment does not proc on non-humanoid enemies.
+-   Charm provides the caster 10% damage reduction against opponents that have Charmed by them, making this enchantment very good for 0 Charisma builds.
+-   Charm applied from this enchantment benefits from Charm-based Talents.
+-   The Charm duration will be reduced to 5 seconds if your opponent has the [Disbelief](Talents.md#disbelief) Talent.

@@ -1,0 +1,147 @@
+---
+title: Legion Sniper
+revid: 216070
+source: https://deepwoken.fandom.com/wiki/Legion_Sniper
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies, Enemies that can wield Enchantments, The Hundred Legions, The Hundred Legions Enemies]
+---
+
+# Legion Sniper
+
+| Legion Sniper | |
+|---|---|
+| health | 500 |
+| drops | A chest, Gale Stone, Ritual Spear, Evanspear Hand Axe |
+| weapon | Champion's Sword, Ritual Spear, Fists |
+| moves | Assault, Grand Javelin, Electro Carve, Bolt Piercer, Thunder Kick |
+
+## Description
+
+Legion Snipers are enemies only able to be encountered in the [Starswept Valley](Starswept_Valley.md) and [Bluster Rift](Bluster_Rift.md). They wield the [Thundercall](Thundercall.md) attunement and are capable of using several high level mantras. Killing one will give the player _negative_ reputation with the Hundred Legions and a chest.
+
+A Legion Sniper wears a [Legion Centurion](Legion_Centurion.md) outfit, a [Legion Helmet](Legion_Helmet.md), a pair of [Legion Pauldrons](Legion_Pauldrons.md) and a pair of [Legion Boots](Legion_Boots.md). They are exclusively [Khans](Khan.md).
+
+According to [Amara](Amara.md), these Legion Snipers are hostile to "outlanders", which is what the Legion calls people outside of their Empire.
+
+## Moveset
+
+A Legion Sniper's arsenal consists of either a [Ritual Spear](Ritual_Spear.md), [Champion's Sword](<Champion's_Sword.md>) or [Fists](Fists.md) (**Legion Kata**) along with the [Thundercall](Thundercall.md) attunement:
+
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | \[[Champion's Sword](<Champion's_Sword.md>)\] Winds up before performing a piercing thrust.
+
+\[[Ritual Spear](Ritual_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands.  
+\[[Fists](Fists.md)\] Grabs opponent and slams them into the ground.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Grand Javelin**  
+(★★★)
+
+ | User throws a spear made of pure lightning in front of them.
+
+-   This move will insta-grip/execute if it hits you while knocked or at low health.
+-   This move has a very short cooldown with them able to use it after around just 2.5s.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Bolt Piercer**  
+(★★☆)
+
+ | User fires an arrow of lightning at the sky, causing multiple drops of thunder to rain at the location of their foes.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Thunder Kick**  
+(★★☆)
+
+ | User heavily kicks forward, producing an unrelenting kick like a clap of thunder.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Electro Carve**  
+(★☆☆)
+
+ | User produces a highly potent field of electromagnetism, shocking all inside.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Vent**  
+(★☆☆)
+
+ | An explosion of blue ether around the user that pushes opponents away.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+
+### Talents
+
+-   Grand Skewer - Your Grand Javelin now carries opponents through the air.
+-   Fists of Fortitude - Every 6 light attacks with fist builds up a shield of endurance (Ether Shield) reducing incoming damage by 15%.
+-   Pocket Sand - Feinting into an uppercut blinds and dazes your opponent briefly.
+-   Resolve Crusher - Lightning moves now have a chance to apply "Electrify", attacks from electrified opponents are converted into lightning damage, but will deal 10% less damage to you.
+
+## Tips
+
+-   He will let you get 1 hit in before parrying the 2nd, so **just hit it once and prepare to parry his attacks.**
+-   Using Bolt Piercer or [Shard Bow](Shard_Bow.md), or any projectile-based mantras **will make him walk towards you a few steps.**
+-   Grand Javelin can be blocked with high enough posture.
+-   If you don't know how to fight them, approach them with caution, **they insta-grip/execute you if you're low enough on health.**
+-   They will parry all of your attacks, so expect to get in a very very long parry trade with one. Once they flourish you or once you roll away from him, he’ll use his Javelin. Also beware, because he will follow you now you can’t just easily run from him.
+-   It's better to engage in parry trades than fight them at distance so they don't have the chance to spam Grand Javelin, which deals a huge amount of damage, pushes you away and will instantly grip you if you are low.
+
+## Trivia
+
+-   They're friendly to normal Legion NPCs and won't attack them.
+-   Even if it doesn't change much, they can have different weapons, wielding either a [Ritual Spear](Ritual_Spear.md), [Champion's Sword](<Champion's_Sword.md>) or just plain [Fists](Fists.md) with no Cestus.
+-   Using Tacet means you can talk to them, but their name prompt is given as Legion Captain.
+-   Despite them being [Thundercall](Thundercall.md) users, they can drop [Gale Stones](Gale_Stone.md).
+-   Legion Snipers are friendly to people with positive [Legion reputation](The_Hundred_Legions.md)
+    -   Legion Snipers were the only Legion member to be hostile to players even if players had positive reputation with the Legion.
+-   Their Grand Javelin has way less cooldown than a player Grand Javelin since he can use it around every 2.5s
+-   Legion Kata's recommendation can be obtained from them if you talk to them after helping the Legion Captain two times.

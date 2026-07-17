@@ -1,0 +1,163 @@
+---
+title: Eastern Nomad
+revid: 216076
+source: https://deepwoken.fandom.com/wiki/Eastern_Nomad
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies, Enemies that can wield Enchantments, The Children of Navae, Children of Navae Enemies]
+---
+
+# Eastern Nomad
+
+| Eastern Nomad | |
+|---|---|
+| health | 200 |
+| drops | Frigid Prism, Gremorian Longspear, Rebel's Bandana |
+| weapon | Gremorian Longspear, Way of Navae |
+| moves | Assault, Critical, Ice Daggers, Rising Frost, Ice Smash, Ice Lance, Ice Blade |
+
+| Eastern Nomad | |
+|---|---|
+| health | 800 |
+| drops | Frigid Prism, Gremorian Longspear, Rebel's Bandana |
+| weapon | Gremorian Longspear |
+| moves | Assault, Critical, Ice Eruption, Ice Daggers, Ice Chain |
+
+**Etrean Wilds:**
+
+## Description
+
+An Eastern Tribe Nomad is an enemy NPC that can be found at the Nomad Camp in [Etris](Etris.md) or fighting alongside with an [Eastern Nomad Leader](Eastern_Nomad_Leader.md) against two [Ministry Scouts](Ministry_Scout.md) on [Summer Isle](Summer_Isle.md) during events.
+
+They wear a [Rebel's Bandana](<Rebel's_Bandana.md>) and the [Navaen Nomad Robes](Navaen_Nomad_Robes.md). All of them are also [Gremor](Gremor.md) with their gender varying.
+
+## Moveset
+
+Their arsenal consists of a [Gremorian Longspear](Gremorian_Longspear.md) along with the [Frostdraw](Frostdraw.md) attunement:
+
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Throws spear at opponent and then pulling them in with a white chain.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+
+## Finisher
+
+An Eastern Tribe Nomad executes it's opponent after knocking them:
+
+| Name | Description |
+| --- | --- |
+| Execute | Pins down opponent before impaling them through the chest with their spear. |
+
+## Tips
+
+-   Parry trade them until their posture breaks.
+-   Try pinning them against a wall and then feinting your next attack before performing a critical, that should do some serious damage to them.
+    
+
+**Meteor Isle:**
+
+## Description
+
+This variant of the Eastern Nomad can only be found on [Meteor Isle](Meteor_Isle.md) and look identical to their warrior counterpart. They act as guards and are normally harmless unless provoked.
+
+They wear a [Rebel's Bandana](<Rebel's_Bandana.md>) and the [Navaen Nomad Robes](Navaen_Nomad_Robes.md). All of them are also [Gremor](Gremor.md) with their gender varying.
+
+## Moveset
+
+Their arsenal consists of a [Gremorian Longspear](Gremorian_Longspear.md) along with the [Frostdraw](Frostdraw.md) attunement:
+
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Throws spear at opponent and then pulling them in with a white chain.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Ice Eruption**  
+(★★☆)
+
+ | Forms a path of ice spikes in front of user.
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+-   ❆ Stun
+
+ |
+| 
+
+**Ice Daggers**  
+(★★☆)
+
+ | Forms three daggers of ice before throwing them towards the nearest person.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Ice Chain**  
+(★★☆)
+
+ | Forms four chains of ice that lock on and stun you on hit.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ¤ Debuff
+
+ |
+
+## Finisher
+
+An Eastern Tribe Nomad executes it's opponent after knocking them:
+
+| Name | Description |
+| --- | --- |
+| Execute | Pins down opponent before impaling them through the chest with their spear. |
+
+## Trivia
+
+-   All of them are [Gremor](Gremor.md).

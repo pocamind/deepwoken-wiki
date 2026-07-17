@@ -1,0 +1,39 @@
+---
+title: Blazing
+revid: 220120
+source: https://deepwoken.fandom.com/wiki/Blazing
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enchantments, Weapon Enchantments]
+---
+
+# Blazing
+
+| Blazing | |
+|---|---|
+| bankable | Yes |
+| droppable | No |
+| pass down | Yes |
+| desc | Once enough stacks have been applied, for 5s your weapon attacks will ignite your foes. |
+| obtainment | Finding a Blazing enchanted weapon in a chest, LaplaceBlazing Enchant Stone:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Stone), War Mode, Hell Mode, Scion of Ethiron, Maestro Evengarde Rest, Dread Serpent, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Second Layer, Diluvian Mechanism, Galewax Room in the Second Layer, Crafting :, Any Enchant Stone, Blessed Gem, Dying EmbersVow of Iron, Sold in Naan Zakshun's black market for 4,000 |
+
+## Description
+
+Blazing is a damage dealing [enchantment](Enchantment.md) that applies burn to your opponent.
+
+Blazing's flame particle color changes depending on your [Flamecharm](Flamecharm.md) color, turning blue if you have [Azure Flames](Talents.md#azure-flames) or black if you have [Wraith Path: Twisted Puppets](Talents.md#wraith-path-twisted-puppets).
+
+## Effect
+
+After landing enough weapon hits, Blazing applies [burn](Burn.md) to your opponent on all weapon attacks for the next 5 seconds. This has a 10 second cooldown.
+
+The hit count required to proc this enchantment varies based on your weapon type, requiring 3 hits for [Light Weapons](Light_Weapons.md), 2 hits for [Medium Weapons](Medium_Weapons.md), and 1 hit for [Heavy Weapons](Heavy_Weapons.md).
+
+### Notes
+
+-   If you have [Lava Serpent](Talents.md#lava-serpent), this enchantment will proc Eruptions instead of applying burn. Eruptions have a 3 second cooldown.
+-   If you have [Twisted Puppets](Talents.md#twisted-puppets), this enchantment will apply 'Puppet Burn,' spawning Puppets every 4 seconds and draining Ether.
+-   Like all other sources of [burn](Burn.md), Blazing's burn scales on your [Flamecharm](Flamecharm.md) investment and is affected by all of your burn Talents.
+    -   Base burn has a DPS of 8 at 0 Flamecharm, scaling up to 12 DPS at 100 Flamecharm. More information how Talents and other effects affect your burn damage can be found on the [Flamecharm](Flamecharm.md#trivia) page.
+-   Blazing adds a separate instance of **1** flat Flamecharm damage to your attacks as hitregistry for burn. This procs even if Blazing hasn't procced yet and if your opponent is in burn immunity or your Eruptions are on cooldown.
+    -   Because of this, you can use this enchantment to change your opponent's [Everchanging Aegis](Talents.md#everchanging-aegis) type to Flamecharm resistance, allowing the first hit of your non-Flamecharm attuned attacks to deal 10% more damage against players using this Talent.
+-   This enchantment reduces the need for Talents that apply burn, such as [Flaming Flourish](Talents.md#flaming-flourish), especially on heavy weapons.

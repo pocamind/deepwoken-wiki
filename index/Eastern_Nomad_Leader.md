@@ -1,0 +1,130 @@
+---
+title: Eastern Nomad Leader
+revid: 216078
+source: https://deepwoken.fandom.com/wiki/Eastern_Nomad_Leader
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies, The Children of Navae, Children of Navae Enemies]
+---
+
+# Eastern Nomad Leader
+
+| Eastern Nomad Leader | |
+|---|---|
+| health | 500 |
+| drops | Frigid Prism, Gremorian Longspear, Novice Brace |
+| weapon | Gremorian Longspear, Hunting Bow, Fist (Way of Navae) |
+| moves | Assault, Critical, Ice Daggers, Ice Blade, Ice Chain, Rising Frost |
+
+## Description
+
+An Eastern Nomad Leader is an enemy NPC which can be found at the Children of Navae camp in the Etrean Wilds; often found telling stories with the surrounding Eastern Tribe Nomads. They can be found in the following events:
+
+-   Ministry Scouts vs Eastern Nomad Leader and Eastern Tribe Nomad
+
+They wear a [Rebel's Bandana](<Rebel's_Bandana.md>), [Novice Brace](Novice_Brace.md), [Navaen Nomad Robes](Navaen_Nomad_Robes.md) with their aspect being [Gremor](Gremor.md) and can either appear younger or above 40 years old along with their gender varying
+
+## Moveset
+
+An Eastern Nomad Leader's kit consists of a [Gremorian Longspear](Gremorian_Longspear.md) or [Fists](Fists.md) (**Way of Navae**) along with the [Frostdraw](Frostdraw.md) attunement:
+
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | \[[Gremorian Longspear](Gremorian_Longspear.md)\] Throws spear at opponent and then pulling them in with a white chain.
+
+\[[Fists](Fists.md)\] Raises right leg before firmly slamming it down into the ground below.
+
+-   The Way of Navae Fist critical is unblockable.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Ice Daggers**  
+(★☆☆)
+
+ | The user forms and tosses daggers of ice at opponents.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Ice Blade**  
+(★☆☆)
+
+ | creates two blades of ice and rushes forward rapidly slashing.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Ice Chain**  
+(★☆☆)
+
+ | User forms chains of ice that latch onto opponents.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Rising Frost**  
+(★★☆)
+
+ | The user summons a glaive of ice and does a barrage attack that raises both the caster and the opponent into the air.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+
+### Talents
+
+-   Fists of Fortitude - Every 6 light attacks with fist builds up a shield of endurance (Ether Shield) reducing incoming damage by 15%.
+-   Fists of Navae - Nomads have a larger flourishing window.
+-   Blade's Edge - Damage dealt with the tip of the spear is increased by 10%
+-   Defensive Sweep - Posture breaking an opponent grants nomad +50% PEN for 3 seconds.
+-   Driving Impact - The first hit of nomad's spear's critical attack will deal the posture damage of the second hit as well. The second hit no longer deals posture damage.
+-   Lancer's Impale - Hitting an enemy after a perfect dodge makes nomad's next attack deal bleed damage. If that attack would already bleed, it adds +10% chip damage instead.
+
+## Finisher
+
+An Eastern Nomad Leader executes it's opponent after knocking them:
+
+| Name | Description |
+| --- | --- |
+| Execute | \[[Gremorian Longspear](Gremorian_Longspear.md)\] Pins down opponent before impaling the opponent's chest with their spear.
+\[[Fists](Fists.md)\] Pins down opponent before firmly bashing their face.
+
+ |
+
+## Trivia
+
+-   You can hand them a [Navaen Hostage](Navaen_Hostage.md) to obtain the [Way of Navae](Fists.md) fighting style.

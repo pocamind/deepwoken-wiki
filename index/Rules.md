@@ -1,0 +1,179 @@
+---
+title: Rules
+revid: 110691
+source: https://deepwoken.fandom.com/wiki/Rules
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Browse, Deepwoken Wiki, Rules, Community]
+---
+
+# Rules
+
+## Preface to our rules
+
+This page contains a **set of rules** established by the local [Wiki Staff members](Wiki_Staff.md) that all users should follow to keep the [Wiki](Deepwoken_Wiki.md) in good shape and to maintain the safe environment it provides. Additionally to these rules, all users should abide by all **Fandom policies and reguations**. For each violation, there are **consequences**, which are listed below too.
+
+Even though it is not mandatory, it's in your best interest to report a user who violates a rule. Wiki Staff members may decide to **carry out a lighter punishment** to anyone who has decided to **cooperate** with the violator or **hinder** the process of moderation.
+
+You may report violators by contacting a [Moderator](Moderators.md) or an [Administrator](Administrators.md) through their DMs, their message walls, our [Discord server](https://discord.com/invite/PFpqDWm5Pa) or any other communication channel they made available for the public (usually found on their profiles).
+
+You may appeal a punishment (if you deem it is not correct) by contacting an [Administrator](Administrators.md) the same way as cited above.
+
+Staff members are **not bound to only deal with these cases** and **may deal with the violation with their own judgment** based on the circumstances. **Loopsholes are to** **be reported** and **not abused**, abusing loopholes will result in a more **severe consequence**.
+
+A "[namespace](https://community.fandom.com/wiki/Help:Namespace)" is a division of the content on the Wiki _(i.e. Page namespace, File namespace, Discussions namespace, User namespace, etc)_.
+
+## **Light Offences**
+
+| Violation | Description | Warnings | Consequence |
+| --- | --- | --- | --- |
+| **Offensive Words** | Usage of derogative words, such as slurs, aimed at another wiki member(s) or organization(s). | 
+1
+
+ | 1 Day Namespace Block |
+| **Spam** | Repeated posts / messages over a short time, and unnecessarily long comments. | 
+
+1
+
+ | 3 Days Namespace Block |
+| **Templates Misuse** | Using templates improperly across the Wiki. | 
+
+2
+
+ | 3 Days Namespace Block (varies with intent) |
+| **Miscategorized Posts** | Posting in Discussions under the wrong category. | 
+
+1
+
+ | 3 Days Namespace Block (varies with intent) |
+| **Irrelevant Blog Posts** | Creating blog posts that have no relevance to Deepwoken or the Wiki, made as a joke or without any actual scope. | 
+
+1
+
+ | 1 Week Namespace Block |
+| **Irrelevant Pages** | Creating a page with no relevance to Deepwoken, to start a discussion, or as a joke. | 
+
+1
+
+ | 1 Week Namespace Block |
+| **Irrelevant Categories** | Creating categories with no relevance to Deepwoken. | 
+
+1
+
+ | 1 Week Namespace Block |
+| **Irrelevant Image** | Adding an image that is for jokes or vandalism. | 
+
+1
+
+ | 1 Week Namespace Block |
+| **Drawing Attention To/Encouraging Vandalism; Feeding The Trolls** | Many trolls thrive on attention, and giving it to them only encourages further vandalism. Report vandalism to moderators instead of giving them attention. Do not screenshot and post it in the comments, or you are encouraging vandalism. | 
+
+1
+
+ | 1 Week Namespace Block |
+
+## **Moderate Offences**
+
+| Violation | Description | Warnings | Consequence |
+| --- | --- | --- | --- |
+| **Vandalism** | Editing a page with a clear intent of degradation via methods including but not limited to adding false or irrelevant information. | 
+None
+
+ | 3 Weeks Namespace Block |
+| **Farming** | Farming edits or posts with the sole scope of meeting a requirement, without actually contributing. | 
+
+None
+
+ | 3 Weeks Extended Block |
+| **Posting leaks** | Posting anything that isn't publicly released by the developers, such as screenshots from the game files. | 
+
+None
+
+ | 3 Weeks Namespace Block |
+| **Editor Policy** | Violating [the policy](Deepwoken_Wiki%253APolicy.md) of our Wiki whether it was intentional or unintentional. (\*) _Warnings and punishment duration may vary depending on the nature of the violation and are subject to the regulations currently in effect._ | 
+
+3 or \*
+
+ | 3 or \* Weeks Namespace Block |
+| **Repeated Light Offenses** | Repeating Light Offences. | 
+
+None
+
+ | 3 Weeks Namespace Block |
+
+## **Severe Offences**
+
+| Violation | Description | Warnings | Consequence |
+| --- | --- | --- | --- |
+| **Multiple Irrelevant Pages** | Creating multiple irrelevant pages. | 
+None
+
+ | 3 Months Namespace Block (varies with amount) |
+| **Numerous Vandalisms** | Editing multiple pages with a clear intent to degrade each page. | 
+
+None
+
+ | 3 Months Namespace Block (varies with amount) |
+| **Multiple Irrelevant Images** | Adding multiple irrelevant images. | 
+
+None
+
+ | 1 Month Namespace Block (varies with amount) |
+| **Editing others' profiles** | Editing profiles that aren't yours. | 
+
+None
+
+ | 3 Months Namespace Block (varies with amount) |
+| **Advertising** | Post advertisements of any kind on the Wiki, unless they relate to the Wiki itself. (If they're about Deepwoken, contact a Bureaucrat) | 
+
+None
+
+ | 5 Months Namespace Block (varies with amount) |
+| **Repeated Moderate Offences** | Repeating Moderate Offences. | 
+
+None
+
+ | 3 Months Namespace Block |
+
+## **Extremely Severe Offences**
+
+| Violation | Description | Warnings | Consequence |
+| --- | --- | --- | --- |
+| **Alt. Acc. Bypass** | Using an alternate account, during the time your main account is blocked. | 
+None
+
+ | Permanent Extended Block |
+| **Pornography** | Adding explicit content to this wiki. This includes: images, videos, text, links, etc. | 
+
+None
+
+ | Permanent Extended Block |
+| **NSFW** | Adding content to this wiki that is considered Not Safe For Work, such as depictions of gory, graphic violence (exceptions can be made for artwork based on Moderator discretion; exemptions are not made for any depictions of such content occurring in real life), pornography (detailed above) or the promotion of extremist groups. | 
+
+None
+
+ | Permanent Extended Block |
+| **Impersonation** | Pretending to be someone you are not to deceive other users. | 
+
+None
+
+ | Permanent Extended Block |
+| **Pedophilia / Child Pornography** | Any content, action or conversation that revolves around sexualizing minors. | 
+
+None
+
+ | Permanent Extended Block, Discord Ban and any necessary legal actions. |
+| **Promoting Black Market Trading** | Asking to trade accounts, items, etc. for Robux, real money, an account, etc. | 
+
+None
+
+ | Permanent Extended Block |
+| **Discrimination** | Usage of words aimed to discriminate a wiki member(s) or a community(ies). | 
+
+None
+
+ | Permanent Extended Block |
+| **Repeated Severe Offences** | Repeating Severe Offences. | 
+
+None
+
+ | Permanent Extended Block |

@@ -1,0 +1,71 @@
+---
+title: Red Death
+revid: 215730
+source: https://deepwoken.fandom.com/wiki/Red_Death
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Legendary Weapons, "Weapons with Multi-Attunement Scaling", "Attunement-based Weapons", Medium Weapons, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Weapons with Unique Animations, Weapons of The Ministry]
+---
+
+# Red Death
+
+| Red Death | |
+|---|---|
+| type | Spear |
+| damage type | Slash |
+| requirements | 30 MED, 35 BLD, 45 SDW, 25 MND, LVL 8 |
+| oath | Silentheart |
+| damage | 16 + 2.4 BLD |
+| scaling | 2.5 MED, 3 BLD, 3 SDW, 2 MND |
+| posture damage | 6 |
+| range | 9.5 Lunge |
+| swing speed | 0.92x |
+| attack duration | 0.7s |
+| penetration | 25% |
+| special effect | Executing a humanoid will leave no traces of their corpse behind. |
+| m.equip | No |
+| m.extract | No |
+| stances | 2 Handed, 1 Handed |
+| rarity | Mythical |
+| selling price | 100 |
+| weight | 2 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | No |
+| pass down | Yes |
+| obtainment | Ministry Heartspiller, Sold in Traan Zakshun's black market for 4 Vow of Iron:, Sold in Naan Zakshun's black market for 4,000 |
+| description | Tool of the Ministry Heartbleeders, a covert cel under the 2nd Prophet's authority who gather information through ruthless interrogation tactics. Imbued with a hybrid meter of two separate verses of the Song, it utilises Bloodrend to remove all organic traces, and Shadowcast to remove all traces of ether. Even the metal itself is oleophobic, rejecting organic oils and fluids, so the spear itself carries no prints or traces. |
+
+Variants: [Black Death](Black_Death.md)
+
+## Description
+
+The **Red Death** is a Legendary [Bloodrend](Bloodrend.md)\-[Shadowcast](Shadowcast.md) Spear; a vile tool used by [Ministry Heartspillers](Ministry_Heartspiller.md) to aid in ruthless interrogation tactics while also leaving no trace of the target's organic remains and ether. It can be dropped from the [Ministry Heartspiller](Ministry_Heartspiller.md). It is also sold by [Traan Zakshun](Traan_Zakshun.md) in the black market rotation for 4.
+
+The Red Death comes with a passive ability:
+
+-   **No Trace Behind** - When executing a humanoid, they will shake and turn transparent for a few seconds before disappearing in a black smoke, leaving no trace behind.
+
+## Critical
+
+The Red Death has two criticals.
+
+For the standing critical, the user raises the spear, summoning six stakes of blood and shadows wherever the user is facing. All of the hits inflict both Blood Poisoning and Shadow.
+
+For the running critical, the user rapidly thrusts the spear while slowly moving forward, inflicting Blood Poisoning every time the target is hit, ending with a final blow that inflicts both Blood Poisoning and Shadow. The user then raises their hand, summoning three stakes that also inflict both Blood Poisoning and Shadow.
+
+Both criticals have a cooldown of **8 seconds.**
+
+These criticals have the [M1 tag](M1_tag.md), allowing them to proc M1-exclusive [Talent](Talent.md) effects.
+
+## Trivia
+
+-   The weapon's original design was based on a fence post.[\[1\]](#cite-note-1)
+-   The name is based on the 'Red Death' from the 'Destiny' franchise.[\[2\]](#cite-note-2)
+    -   Both weapons have no correlation besides their name and being themed around blood.
+-   The emblem of [The Ministry](The_Ministry.md) is set below the crossguard of the spear.
+-   Two weeks after the Red Death was released, it was given a visual rework alongside its running critical.
+
+## References
+
+1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2)

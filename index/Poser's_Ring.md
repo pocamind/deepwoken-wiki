@@ -1,0 +1,49 @@
+---
+title: "Poser's Ring"
+revid: 210750
+source: https://deepwoken.fandom.com/wiki/Poser's_Ring
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment, Rings]
+---
+
+# Poser's Ring
+
+| Poser's Ring | |
+|---|---|
+| type | Ring |
+| rarity | Common |
+| selling price | N/A |
+| requirements | N/A |
+| weight | 0.2 |
+| innate stats | +1 Rare Pip |
+| bankable | No |
+| droppable | No |
+| enchantable | No |
+| pass down | No |
+| obtainment | Zana |
+| description | Damage done with a Katana isn't received until the user sheathes their weapon. |
+
+## Description
+
+The Poser's Ring is an [Equipment](Equipment.md) item under the "Ring" category. It can be obtained by completing [Zana's](Zana.md) quest.
+
+While using a [Katana](Katana.md), [Alloyed Katana](Alloyed_Katana.md), or [Shattered Katana](Shattered_Katana.md), the Poser's Ring makes it so that your Katana's attacks and critical deal 0 damage until the user "Sheathes" their Katana. When this happens, all damage dealt by the Katana will be dealt instantly.
+
+Poser's Ring grants an 8% damage bonus to your basic attacks in PvE.
+
+## Trivia
+
+-   The [Moppet](Moppet.md) and Poser's Ring share stats. Meaning that if you attack with your [Katana](Katana.md), then swap to Moppet and use its critical, it will consume your stored Katana damage and vice versa.
+-   If you swap weapons through using an ability, your stored damage will be saved. Note that the Poser's Ring sheathe will only proc if your current weapon is the Katana, and no other weapons can build up Poser's damage.
+    -   The aforementioned abilities include: [Crazy Slots](Crazy_Slots.md), Silentheart's [Unmatched Dexterity](Unmatched_Dexterity.md), Saintsworn's [Saintsblade](Saintsblade.md), Blightsurger's [Sovereign State](Sovereign_State.md), and any [Fist style](Fists.md) tool.
+-   The Poser Ring sheathe damage can be nullified if the attacker is damaged while sheathing.
+-   Damage from the Poser's Ring sheathe cannot exceed 70% of a Player's Max Health.
+    -   **All non-player enemies are not affected by this cap**, meaning with enough M1s, you are capable of depleting even boss health bars from 100% to 0% in one sheathe.
+-   All weapon [enchantments](Enchantments.md) that proc on weapon hit will proc on the basic hits of your Katana like normal. The sheathe cannot proc enchants.
+    -   [Deferred](Deferred.md) will do nothing with Poser's Ring however.
+-   The sheathe damage cannot be directly buffed, although you can buff it by applying buffs to your melee attacks before you sheathe.
+-   It is possible to obtain and equip this ring at Power 1, if no stat points are distributed at the character creation menu, and are instead all invested into Medium Weapon.
+-   Actually applies an ~0x damage modifier onto your attacks rather than removing all of your damage outright. This means you can still proc effects that are scaled off of your weapon's scaled damage, like Bleed or Chip damage at full effectiveness.
+-   Shares the same model as [Diver's Ring](<Diver's_Ring.md>).
+-   You can use the [Darkened Bastion](Darkened_Bastion.md) outfit to apply [Wither](Wither.md) to your opponent on your basic attacks even with Poser's Ring. This allows you to still deal damage before you sheathe, granted the amount of Wither applied is only 12.5% of your weapon's scaled damage, which isn't that much, especially on base Katana.
+-   [All the Dead Gods](Talents.md#all-the-dead-gods) and [Ring of Pestilence](Ring_of_Pestilence.md) are applied again on sheathe as well as being applied by regular attacks.

@@ -1,0 +1,32 @@
+---
+title: Suffocated (enchantment)
+revid: 217983
+source: https://deepwoken.fandom.com/wiki/Suffocated_(enchantment)
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enchantments, Weapon Enchantments, Craftable]
+---
+
+# Suffocated (enchantment)
+
+| Suffocated | |
+|---|---|
+| bankable | Yes |
+| droppable | No |
+| pass down | Yes |
+| desc | Landing a critical, uppercut, flourish, or offhand attack procs suffocation. |
+| obtainment | Suffocated Enchant Stone:, Crafting 1 Windsept Enchant Stone + 2 Gale Essence at the Lost Forge |
+
+## Description
+
+Suffocated is a [craftable](Crafting.md) debuffing [enchantment](Enchantment.md) that applies [Suffocation](Status_Effects.md#suffocation) on proc.
+
+This enchantment is crafted at the [Lost Forge](Lost_Forge.md) with 1 [Windswept](Windswept.md) Enchant Stone and 2 [Gale Essence](Gale_Essence.md).
+
+## Effect
+
+Landing an uppercut, flourish, critical, or [offhand attack](Pistols.md) will apply [Suffocation](Status_Effects.md#suffocation) to your opponent.
+
+## Trivia
+
+-   **If you have not defeated the [Kyrsgarde Champion](Kyrsgarde_Champion.md) on your character, this enchantment will not work and your weapon's damage will be voided.**
+-   This enchantment was originally going to be a Developer Spec before it was made publicly accessible during the [February 16th, 2026](Version_History/2026.md#february-16th-2026), as a part of Operation: Deep Healing.

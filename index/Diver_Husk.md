@@ -1,0 +1,95 @@
+---
+title: Diver Husk
+revid: 219492
+source: https://deepwoken.fandom.com/wiki/Diver_Husk
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pathfinder Exclusive, Enemies, Layer 2]
+---
+
+# Diver Husk
+
+| Diver Husk | |
+|---|---|
+| health | 20005000 (Corrupted) |
+| drops | None |
+| weapon | Crucible Rapier, Zweihander, Katana, Halberd, Shotel, Central Dirk, Forge Greathammer |
+| moves | Critical, Strong Left |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+## Description
+
+Diver Husks are an enemy Humanoid NPC of Layer 2, unfortunate victims of The Eternal Gale and its parasitic lifeforms. They can also be found in certain waves of [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
+
+Diver Husk numbers can vary; they can be found solo, in a duo or in a group of three.
+
+## Moveset
+
+Diver Husks has an arsenal of weapons known across Lumen:
+
+| Name/Danger | Description | Danger |
+| --- | --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Strong Left**  
+(★★★)
+
+ | User performs a short wind-up before throwing a powerful, flinging punch that shatters the air.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Uses the Standard Critical of their current weapon.
+
+-   The Zweihander critical is **unblockable**.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+
+## Finisher
+
+A Diver Husk executes its opponent after knocking them:
+
+| Name | Description |
+| --- | --- |
+| Execute | \[[Zweihander](Zweihander.md)\] & [Halberd](Halberd.md)\] Pins down opponent while raising weapon before firmly bashing the opponent's face.
+\[[Crucible Rapier](Crucible_Rapier.md), & [Katana](Katana.md)\] Pins down opponent and slices their throat with their blade.
+
+ |
+
+## Tips
+
+-   They can become very problematic if a [Carbuncle](Carbuncle.md) join the fight.
+-   Despite their monstrous features and post-mortem of The Eternal Gale's Parasites, they act just as any humanoid enemy act and perform. They very rarely do universal defensive actions so pinning them to a wall can prove to make them a glorified health pack.
+-   Be careful of their Strong Left knocking you off bridges or ledges.
+-   They often do Strong Left as their first attack, so you should prepare to parry.
+
+## Trivia
+
+-   Diver Husks still have some humanity; although the parasites residing in their bodies are controlling them entirely-- leaving those who fight against them with a feeling of hopelessness and grief as there is nothing to do for them.
+-   Diver Husks later transform into [Carbuncles](Carbuncle.md).
+-   Diver Husks, like their name suggests, are Divers who have fallen victim to the Eternal Gale's Parasites. They appear to be wearing [Diver Apprentice Robes](Diver_Apprentice_Robes.md), so they were most likely Diver Apprentices who accidentally fell into the Second Layer or those part of [Chaser's](Chaser,_Scholar_of_the_Burning_Blood.md) original team, and succumbed to the parasites.
+-   Diver Husks didn't have the ability to parry before as they acted as [Mudskippers](Mudskipper.md) with 2000 Health, after an unknown date they now have the ability to parry M1 attacks.

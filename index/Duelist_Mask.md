@@ -1,0 +1,31 @@
+---
+title: Duelist Mask
+revid: 216790
+source: https://deepwoken.fandom.com/wiki/Duelist_Mask
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment, Face, Masks]
+---
+
+# Duelist Mask
+
+| Duelist Mask | |
+|---|---|
+| type | Face |
+| rarity | Rare |
+| selling price | 25 |
+| requirements | None |
+| weight | 0.5 |
+| innate stats | +6% Stealth , +1 Rare Pip |
+| innate talent | N/A |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | No |
+| pass down | Yes |
+| obtainment | Chests from:, Miner's Landing, Saramaed Hollow, Crypt of the Unbroken, Maestro Evengarde Rest, Dread Serpent, Chime of Conflict, Heart of Enmity, Voidsea |
+| description | ... |
+
+Variants: [Corrupted Duelist Mask](Corrupted_Duelist_Mask.md)
+
+## Description
+
+The Duelist Mask is an [Equipment](Equipment.md) item under the "Face" category. It is an ovular mask that is pure white with one big circle that has a black outline in the middle of the mask. In the middle column is a black line connecting the circle to the middle of the bottom of the mask.

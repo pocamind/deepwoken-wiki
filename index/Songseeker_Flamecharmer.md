@@ -1,0 +1,171 @@
+---
+title: Songseeker Flamecharmer
+revid: 216062
+source: https://deepwoken.fandom.com/wiki/Songseeker_Flamecharmer
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies, Songseekers, Humanoids with Unobtainable Outfits]
+---
+
+# Songseeker Flamecharmer
+
+| Songseeker Flamecharmer | |
+|---|---|
+| health | 900 |
+| drops | Dying Embers, Aspirant Mask |
+| weapon | Fists |
+| moves | Assault, Critical, Fire Blade, Flame Repulsion, Fire Palm, Fire Eruption, Flame Ballista |
+
+**Songseeker Flamecharmers** are a [humanoid enemy](Enemies.md) in _Deepwoken_.
+
+## Description
+
+A Songseeker Flamecharmer is an enemy NPC that can only be found in [Songseeker Wilds](Songseeker_Wilds.md). They can appear in Random Encounters or on fixed spawns in [Songseeker Wilds](Songseeker_Wilds.md).
+
+A Songseeker Flamecharmer wears an Aspirant Mask (Carmine) and an Unknown/Unlisted outfit, Varying with their [aspect](Aspects.md) and gender.
+
+## Moveset
+
+A Songseeker Flamecharmer's arsenal consists of [Fists](Fists.md) (**Way of Navae**) and the [Flamecharm](Flamecharm.md) attunement:
+
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Raises left leg before slamming it to the ground below.
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+
+ |
+| 
+
+**Fire Blade**  
+(★★☆)
+
+ | User slams down with their blade coated in flames.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Flame Repulsion**  
+(★☆☆)
+
+ | After a wind-up of ~2 seconds, user releases a burning AoE blast.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Fire Palm**  
+(★★☆)
+
+ | Conjures a wave of fire from the palm of the users hand.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Fire Eruption**  
+(★★☆)
+
+ | An eruption of flame under the user hitting anyone nearby.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
+ |
+| 
+
+**Flame Ballista**  
+(★★☆)
+
+ | Conjures a blazing arrow that tracks opponents.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
+ |
+| 
+
+**Vent**  
+(★☆☆)
+
+ | An explosion of blue ether around the user that pushes opponents away.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ☕︎ Harmless
+
+ |
+
+### Boons
+
+-   Third Eye - A Songseeker Flamecharmer cannot be assassinated.
+
+### Talents
+
+-   Phoenix Flames - Any time a Songseeker Flamecharmer would burn to death, they instead rise again with 50% of their health restored.
+-   Everchanging Aegis - Songseeker Flamecharmer take 20% less from attacks the same element as the last element they were hit with, but 10% more damage from attacks from different element.
+-   Perfect Flash - Having full health causes their mantras to do 25% extra damage
+-   Immolation - Fire spells cost 70% less while on fire. If a Songseeker Flamecharmer hit someone while on fire, apply fire damage. They take 50% less damage from self-inflicted flames.
+-   Mirage Clone - Successfully dodging leaves behind a heat mirage clone that sets enemies that swung at it on fire.
+-   The Final Act - Landing a fire mantra immediately after flourishing an opponent will cause them to explode.
+-   Agitating Spark - If a Songseeker Flamecharmer hit an opponent that they've lit on fire, it spreads to themselves and others around you.
+-   Controlled Combustion - Agitating Spark no longer spreads to their allies.
+-   Flaming Flourish - Set enemies on fire when the Songseeker Flamecharmer flourish or uppercut them.
+-   Corpse Explosion - Bodies that Songseeker Flamecharmer burn to death immediately explode dealing massive damage. The bodies will also be incinerated much faster.
+
+  
+
+## Finisher
+
+A Songseeker Flamcharmer executes it's opponent after knocking them:
+
+| Name | Description |
+| --- | --- |
+| Incineration | The flame status effect from the Flamecharm attunement burns away the opponent's corpse. |
+| Execute | Pins down opponent before firmly bashing their face. |
+
+## Tips
+
+-   Constantly flourishing them/using Mantras will prevent them from spamming Mantras.
+-   If not constantly attacked, they become a real threat as they can sometimes only spam Flame Repulsion, which if you're unlucky enough, will hit _and_ aggro other Songseekers.
+    -   Be warned that if they knock another Flamecharmer, or one is knocked and set on Fire, they will get up via Phoenix Flames.
+-   Despite being immune to assassination, the player can still sneak behind and use a powerful mantra to pile up some good damage.
+-   If you're fighting against this and other Monks, make sure it is _never_ a Galebreather or Thundercaller. The constant mantra spam from the Flamecharmer, as well as having to parry trade and fight against the primary Monk will easily begin to overwhelm you, as well as having anti-running mantras to keep you from going too far.
+
+## Trivia
+
+-   **Songseekers** use the following outfits made by **SirAndrove2:**
+-   [https://www.roblox.com/catalog/6842791234/Aldritch-Devourer-of-Gods](https://www.roblox.com/catalog/6842791234/Aldritch-Devourer-of-Gods) - Shirt
+-   [https://www.roblox.com/catalog/6842793449/Aldritch-Devourer-of-Gods](https://www.roblox.com/catalog/6842793449/Aldritch-Devourer-of-Gods) - Pants

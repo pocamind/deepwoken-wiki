@@ -1,0 +1,153 @@
+---
+title: Star Knight
+revid: 215719
+source: https://deepwoken.fandom.com/wiki/Star_Knight
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pathfinder Exclusive, Monsters, Knights]
+---
+
+# Star Knight
+
+| Star Knight | |
+|---|---|
+| health | 10,000 |
+| drops | Astral Enchant Stone (guaranteed) |
+| locations | Resonant Dawn Event |
+| challenges | -- Stone Knight --, Granite Gallantry - Slay 10.Reward: +10% DMG; +5% RES, Sword In The Stone - Slay 25.Reward: +10% DMG; +5% RES, We Will Rock You - Slay 100.Reward: +10% DMG; +5% RES |
+
+Variants: [Stone Knight](Stone_Knight.md)
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+## Description
+
+Star Knights are a stronger and very rare variant of [Stone Knights](Stone_Knight.md), albeit similar to [Moon Knights](Moon_Knight.md). Recognizable by their grey body, white eyes and astral enchant sword, the Star Knights are a variant of the Stone Knight only encountered through the [Resonant Dawn](https://deepwoken.fandom.com/wiki/Random_Encounters#Resonant_Dawn), guarding the celestial meteor it arrived from. The Star Knight will drop a single guaranteed Astral Enchant Stone upon death. This is one of the few ways to obtain them, alongside the Moon Knights at the Moon's Eyrie island, and the [Weird Trader](Weird_Trader.md). Similar to its normal Stone Knight counterparts, the Star Knight can swim.
+
+## **Moveset**
+
+| Name/Danger | Description | Media |
+| --- | --- | --- |
+| 
+**Slash**  
+(★☆☆)
+
+ | Swings its sword at the opponent once or twice.
+
+-   **Insta-executes the player if health is low.**
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |  |
+| 
+
+**Kick**  
+(★★★)
+
+ | Deftly kicks the opponent with added momentum from its body.
+
+-   Deals extra damage and dazes if the player is slammed against a wall.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
+
+Dodge
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
+ |  |
+| 
+
+**Energy Wave**  
+(★★☆)
+
+ | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to [Wind Blade](Wind_Blade.md).
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |  |
+| 
+
+**Terra Eruption**  
+(★★☆)
+
+ | Punches the ground, causing a pillar to erupt below the player.
+
+-   The next attack from the Stone Knight is guaranteed to hit if the player is hit by Terra Eruption first.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
+
+Dodge
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
+ |  |
+| 
+
+**Astral Rain**  
+(★★☆)
+
+ | Rains down white flaming javelins from the sky, similarly to a Crimson Megalodaunt's Pyroclastic Roar/First Light's critical.
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |  |
+
+### Passives
+
+-   **Celestial Stone** - Stone Knights have 55% resistance against Slash Damage.
+-   **Artificial Construct** - The [Bloodless Gem](Bloodless_Gem.md) does not work against Stone Knights as they don't have blood.
+-   **Monster Resistance** - Physical attacks deal ??? less damage to Stone Knights.
+
+## **Finisher**
+
+A Stone Knight executes the player:
+
+| Name | Description |
+| --- | --- |
+| 
+**Death by Thousand Cuts**
+
+ | Slowly walks toward the player and then slashes the player with their sword, dismembering and killing them instantly. |
+
+## Tips
+
+-   Try to use mainly mantras to kill the Star Knight, since it seems to get posture broken very quickly from mantras.
+-   To maximize your chances of getting the Star Knight to spawn, use a [Ring of Curses](Ring_of_Curses.md) and sail out into the [Voidsea](Voidsea.md), then go in a straight line. After travelling 150 studs, an event will be forced to spawn. Make sure to keep your audio up very high, so you can hear when the meteor lands since it takes a second to make noise. To be a bit more efficient, you can open the events menu by pressing F3, the 1 until a small menu opens with green boxes on the left. Whenever an event spawns, some boxes will appear. 1-4 boxes will appear if a [Brainsucker](Brainsucker.md) spawns, 4-6 boxes for a [Lionfish](Lionfish.md) or the Glacial Lionfish, 9 boxes for the [Dread Serpent](Dread_Serpent.md) (many boxes will appear lit up around you when the Dread Serpent rises from the water), 5-10 boxes for a small island, and finally, 4 boxes for Resonance Dawn. (For a more in-depth explanation, watch this video: [https://www.youtube.com/watch?v=\_xDcdzRMRuk](https://www.youtube.com/watch?v=_xDcdzRMRuk))
+-   Due to mainly being fought inside of the water, it is advised to have a build that can "DPS Check" them rather than attempting to fight a battle of attrition in the open sea.
+    -   However, if fought in Low detail mode while being at least 10,000 studs away from 0,0,0 in an axis direction, the animations may be visible.
+
+## Dialogue
+
+-   ARTIFACT OF COSMIC ORIGIN HAS ESCAPED CONTAINMENT.
+-   OUTSIDE INTERFERENCE PROBABLE.
+-   DIRECTIVE: ELIMINATE THREAT. RETURN ARTIFACT TO CONTAINMENT.
+
+-   UNABLE TO ESTABLISH COMMUNICATIONS WITH OVERSEER IGRANON. REQUEST FOR CLEARANCE DENIED.
+-   DIRECTIVE: ELIMINATE THREAT. REESTABLISH COMMUNICATIONS. RECEIVE FURTHER INSTRUCTION.
+
+## Trivia
+
+-   Immortal Guardians will attack Star Knights.
+-   Star Knights talk when they commence combat with a player. It will say "OUTSIDE INTERFERENCE PROBABLE." followed by "DIRECTIVE: ELIMINATE THREAT, RETURN ARTIFACT TO CONTAINMENT.", in a similar matter as a [Hive Construct](Golem_Constructs.md) would.[\[1\]](#cite-note-1)
+-   The [Moon Knight](Moon_Knight.md) appears to be a mirrored counterpart of the Star Knight.
+
+## References
+
+1.  [↑](#cite-ref-1)

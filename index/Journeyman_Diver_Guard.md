@@ -1,0 +1,200 @@
+---
+title: Journeyman Diver Guard
+revid: 216106
+source: https://deepwoken.fandom.com/wiki/Journeyman_Diver_Guard
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies, Enemies that can wield Enchantments, The Divers, Diver Enemies, Ambush Enemies]
+---
+
+# Journeyman Diver Guard
+
+| Journeyman Diver Guard | |
+|---|---|
+| health | 1150 |
+| drops | Dying Embers, Gale Stone, Spark Gland, Mantra Modifiers |
+| weapon | Acheron's Warspear, Crescent Cleaver, Markor's Inheritor, Tanto |
+| moves | Assault, Critical, Jolt Grab, Gale Lunge, Lightning Stream, Ice Daggers, Fire Blade, Encircle, Spark Swap |
+
+## Description
+
+Journeyman Diver Guards are NPCs that act as the guards of [Castle Light](Castle_Light.md) as well as ambushing "Hunted" reputation players.
+
+They are able to use all four standard Attunements, along with Shadowcast at a time, the only NPCs in the game capable of doing so.
+
+A Journeyman Diver Guard's appearance only consists of a [Diver Journeyman Robes](Diver_Journeyman_Robes.md) outfit with their [aspect](Aspects.md) varying.
+
+## Moveset
+
+A Journeymen Diver's arsenal consists of either a [Acheron's Warspear](<Acheron's_Warspear.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Crescent Cleaver](Crescent_Cleaver.md) or [Tanto](Tanto.md) along with the [Thundercall](Thundercall.md), [Galebreathe](Galebreathe.md), [Frostdraw](Frostdraw.md), [Shadowcast](Shadowcast.md), and [Flamecharm](Flamecharm.md) attunements:
+
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | The Journeyman Diver Guard uses the critical attack of their equipped weapon.
+
+-   The Markor's Inheritor criticial is not blockable.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Gale Lunge**  
+(★★☆)
+
+ | Diver lunges forward with their weapon coated in wind.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Jolt Grab  
+(Magnet Spark)**  
+(★★☆)
+
+ | Teleports to the nearest target before sending out a shocking AoE.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Lightning Stream**  
+(★★☆)
+
+ | Sends a projectile that latches onto a target before pulling them in. Has insane range.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ✴︎ Pull
+
+ |
+| 
+
+**Ice Daggers**  
+(★★☆)
+
+ | Throws out three daggers of ice that fly to you and damage you, freezing you in place momentarily.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Fire Blade**  
+(★★☆)
+
+ | Wraps their weapon in fire and strikes, dealing massive posture damage if blocked.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Encircle**  
+(★☆☆)
+
+ | Conjure shadows around your enemy before warping to them after a delay.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Spark Swap**  
+(☆☆☆)
+
+ | Snaps their fingers and swaps their location with another target.
+
+-   ☕︎ Harmless
+-   «» Misc.
+
+ |
+| 
+
+**Vent**  
+(★☆☆)
+
+ | An explosion of blue ether around the user that pushes opponents away.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ☕︎ Harmless
+
+ |
+
+### Boons
+
+-   Impervious - Immune to PvE scaling.
+
+### Talents
+
+-   Battle Tendency - You can breathe more easily with +20% faster posture regen.
+-   Brick Wall - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious.
+-   Braced Collapse - After being block broken, the next attack to hit you deals reduced damage.
+-   Showstopper - When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. Removes speed buffs from target upon landing.
+-   Strong Stern - The duration you are dazed from wall bangs is cut in half
+-   Frozen Pin-Cushion - Ice Daggers now freeze opponents.
+-   Perseverance - When you're knocked down, you get back up again more quickly.
+-   Underdog - You deal slightly more damage to those with higher HP than you. Deal 10% more damage to larger foes.
+-   Defiance - Negative status effects are half as effective when you are below 35% HP.
+-   Moving Fortress - Blocking no longer slows you down as much.
+-   Charged Return - Being under an elemental status effect causes your M1's and critical attacks to do 20% more damage.
+-   Champion's Regalia - Flourishing an opponent grants you 1.5x posture damage for 10 seconds.
+-   Nullifying Clarity - Deal 15% more damage to enemies with status effects on them with your basic attacks, but the effect is removed on impact.
+-   Scorched Peak - Blockbreaking an enemy on fire or with a fire mantra causes them to be struck by lightning.
+-   Frozen Web - Landing a critical with a Static Link on your opponent applies Chilled.
+-   Static Link - Flourishing or uppercutting an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long.
+-   Storm Link - While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.
+
+## Finisher
+
+A Journeyman Diver executes it's opponent after knocking them:
+
+| Name | Description |
+| --- | --- |
+| Execute | \[⁣[Acheron's Warspear](<Acheron's_Warspear.md>)\] Pins down opponent before impaling the opponent's chest with their spear.
+\[⁣[Markor's Inheritor](<Markor's_Inheritor.md>) & [Crescent Cleaver](Crescent_Cleaver.md)\] Pins down opponent while raising weapon before firmly bashing the opponent's face.
+
+\[⁣[Tanto](Tanto.md)\] User pins down the opponent and slices their throat with their blade.
+
+ |
+
+## Tips
+
+-   Don't try to fight them in any circumstances. They will jump you, and they have little to no cooldown on Mantras.
+-   Look at their enchant before attempting to engage in a fight with them, as if you lack necessary Talents such as Carnivore or a form of Campfire in the depths, enchants such as Gluttony and Bloodthirsty may lead to an untimely end.
+
+## Trivia
+
+-   They were originally [Black Divers](<Black_Diver_(NPC).md>), but were changed to Journeyman Divers due to their presence contradicting the established low number and high power level of actual Black Divers.

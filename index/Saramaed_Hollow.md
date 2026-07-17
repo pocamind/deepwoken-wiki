@@ -1,0 +1,124 @@
+---
+title: Saramaed Hollow
+revid: 218087
+source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pathfinder Exclusive, Dungeons, Locations, Locations in the Eastern Luminant]
+---
+
+# Saramaed Hollow
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+LocationL Saramaed Hollow LocationR
+
+The deeper one digs, the more the fruits of the earth avail themselves, though there are things better left interred within...
+
+  
+
+  
+**Saramaed Hollow** is a dungeon in Deepwoken. It is a sub-location of [Miner's Landing](<Miner's_Landing.md>),
+
+## Description
+
+[Deepdelver Tau](Deepdelver_Tau.md). NPC that sends you to **Saramaed Hollow.**
+
+This dungeon, taking place deep underground beneath Miner's Landing and its [Saramaed Summit](Saramaed_Summit.md), is the primary method of progression for the [Ignition Delver](Ignition_Delver.md) Origin. However, anyone can partake in this dungeon as long as they have above neutral reputation with the Ignition Union.
+
+**Saramaed Hollow** can be entered by interacting with [Deepdelver Tau](Deepdelver_Tau.md) in [Miner's Landing](<Miner's_Landing.md>) behind the watermill, if you're part of the Divers (aka the origin), [Deepdelver Tau](Deepdelver_Tau.md) will tell you to scram, but this can be overwritten by increasing your rep slightly (it took me one of the Summer's Dusk quests to be allowed). You can choose to work solo or as a team of up to 5 players. To start the dungeon, you need to enter the Union Drill and pull the lever. **Saramaed Hollow** has four types of maps, which are selected randomly. You may encounter mobs, and killing all of them will spawn chests near the Union Drill. None of the mobs are corrupted; they can only be Attuned.
+
+Note that all the maps contain lava as an environmental hazard, which deal an extreme amount of damage for both new and more experienced players and for the new players it could burn you to death.
+
+## Dungeon Features
+
+Orb which used to refuel Union Drill
+
+**Saramaed Hollow** features 20 Floors in 100 meter increments (2000 meters or 2KM in total). Floor 0/0 meters is a lobby area that features a Heat Stone Resting Spot, a Training Gear Cabinet, a Crafting Table, an Antiquarian, a Mantra Lectern and a Blacksmith. There are also pickaxes on the ground by the Union Drill available to buy for 3 notes if you do not already own one.
+
+Each floor of the dungeon has you go down 100 meters (IE: floor 10 is 1000m, floor 20 is 2000m). To travel through each floor, the Ignition Deepdrill is used, fitted with a lever to go to the next floor and a radio to return to the lobby, which can notably be used anytime, even while in danger.
+
+You start at a different depth on your first time going down depending on what power you are. If you go up and go back down, you will go down half of how far you were before you went up. The higher power you are, the farther down you start. The monster presets get harder as you go down farther.
+
+You can't get past 2km / 2000m. Trying to press the lever on this level be met with the text: _The lever jams. Seems the cable wont extend any further._
+
+There are 4 room layouts, featuring randomized enemy spawns:
+
+-   The Bridge
+-   The Canyon
+-   The Rail Tracks
+-   The Open Field
+
+Strictly speaking, to progress within this dungeon, players must mine and deposit fuel ore into the fuel hatch, located on the left of the door. A progress bar will show how much fuel was added. It takes 5 ores (+2 per player after the first, up to a max of 13) to refuel the drill. Once the fuel hatch shows a green bar, the drill is fueled and ready to go to the next floor. Fuel Ore can be stacked on top of each other when mining for easier carrying. You can also slide, dodge, use mantras and critical attacks as well as being able to summon and ride a mount while carrying Fuel Ore.
+
+Do note that using your weapon while carrying these ores makes you drop the ore.
+
+To actually be rewarded during this activity, players are required to kill every monster in a given floor. Doing so will grant a large amount of EXP, along with attribute training EXP and chests spawning near the Ignition Deepdrill.
+
+It is worth noting that the lava is not as deadly as one might expect. Falling into it is not a death sentence, one can easily climb up on a nearby rock to go back to the main area. However, they deal quick damage over time, making it _not so ideal_ to fight monsters down there.
+
+## Monster adaptations
+
+Monsters within the Saramaed Hollow have adapted to the fiery heat of their domain, gaining 1 of 2 (or both) abilities. The deeper one goes, the more adapted monsters will appear, eventually culminating in monsters with both adaptations.
+
+Additionally, some mobs' appearances are overridden, making them look like rocks. This also means you can NOT tell which variant a mob is by only viewing it from afar. For example, a Crimson Megalodaunt and a normal Megalodaunt may have the same rock appearance, meaning you will be unable to tell the difference. Be cautious.
+
+-   _Magma Guard_ - The monster becomes immune to DvM. These monsters have a rocky exterior. (Note: Innate PvE scaling, such as from your Power level, isn't affected.)
+-   _Magma Flow_ - The monster procs an effect on hit that weakens your armor and nullifies your Monster Armor temporarily. These monsters will drip with molten lava.
+
+## Monsters
+
+Monsters shown here will start showing up and replacing other monsters the deeper one goes in the order shown, but may show up much earlier or even show up later on. A Mudskipper Broodlord can appear in Floor 5 for example, while a regular Megalodaunt might show up in Floor 20.
+
+## Loot
+
+Loot is based on the type of mob you kill. Some of the loot confirmed to drop from Saramaed Hollow can be found in the table below.
+
+### 
+
+Exhaustive Loot Table
+
+**Keep in mind that this list is still incomplete.**
+
+<table><tbody><tr><td><b><a href="Outfits.md">Outfit Schematics</a></b></td><td><ul><li><b>Adept</b>: <a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a></li><li><b>Expert</b>: <a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>, <a href="Ignition_Welder.md">Ignition Welder</a></li></ul></td></tr><tr><td><b>Miscellaneous</b></td><td><ul><li><a href="Items.md">Items</a>: Every <a href="Ore.md">Ore</a> except Rock and Iron, <a href="Deep_Gems.md">Deep Gems</a></li><li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, Non-exclusive <a href="Enchant_Stone.md">Enchant Stones</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a> (only after 1.2km), <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Void_Spire.md">Void Spire</a>, <a href="Ouroboral_Husk.md">Ouroboral Husk</a></li></ul></td></tr><tr><td><b><a href="Weapons.md">Weapons</a></b></td><td><ul><li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a></li><li><b>Legendary Weapons</b>: <a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a>, <a href="Iron_Requiem.md"><font>Iron Requiem</font></a>, <a href="Rosen's_Hellflame.md"><font>Rosen's Hellflame</font></a></li><li><b>Light Weapons</b>: <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Gilded_Knife.md">Gilded Knife</a>, <a href="Silver_Dagger.md">Silver Dagger</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Tanto.md">Tanto</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Dragoon.md">Dragoon</a>, <a href="Repeater.md">Repeater</a>, <a href="Iron_Cestus.md">Iron Cestus</a>, <a href="Legion_Cestus.md">Legion Cestus</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a>, <a href="Anklets_of_Alsin.md">Anklets of Alsin</a></li><li><b>Medium Weapons</b>: <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Summer_Rifle.md">Summer Rifle</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Trident_Spear.md">Trident Spear</a>, <a href="Ritual_Spear.md">Ritual Spear</a>, <a href="Gremorian_Longspear.md">Gremorian Longspear</a>, <a href="Rifle_Spear.md">Rifle Spear</a>, <a href="Katana.md">Katana</a>, <a href="Cavalry_Saber.md">Cavalry Saber</a>, <a href="Razor_Cutlass.md">Razor Cutlass</a>, <a href="Officer_Saber.md">Officer Saber</a>, <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Forgotten_Gladius.md">Forgotten Gladius</a>, <a href="Sacred_Hammer.md">Sacred Hammer</a>, <a href="Pernach.md">Pernach</a>, <a href="Morning_Star.md">Morning Star</a>, <a href="Toothed_Club.md">Toothed Club</a></li><li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Markor's_Inheritor.md">Markor's Inheritor</a>, <a href="Quartztone_Pickaxe.md">Quartztone Pickaxe</a>, <a href="Sovereign's_Punishment.md">Sovereign's Punishment</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Canorian_Axe.md">Canorian Axe</a>, <a href="Iron_Birch.md">Iron Birch</a>, <a href="Forge_Greathammer.md">Forge Greathammer</a>, <a href="Master_Hawk's_Handaxe.md">Master Hawk's Handaxe</a></li><li><b>Offhand Weapons</b>: <a href="Old_World_Greatshield.md">Old World Greatshield</a>, <a href="Worshipper's_Shield.md">Worshipper's Shield</a>, <a href="The_Path's_Defender.md">The Path's Defender</a></li></ul></td></tr><tr><td><b><a href="Equipment.md">Equipment</a></b></td><td><ul><li><a href="Equipment.md#head"><b>Head Equipment</b></a>:<ol><li><b>Unique Head</b>: <a href="Simmerbloom_Diadem.md"><font>Simmerbloom Diadem</font></a></li><li><b>Generic Head</b>: <a href="Blackleaf_Helm.md">Blackleaf Helm</a>, <a href="Brigand's_Bicorn.md">Brigand's Bicorn</a>, <a href="Legion_Helmet.md">Legion Helmet</a>, <a href="Strapped_Hat.md">Strapped Hat</a>, <a href="Ten-Gallon_Hat.md">Ten-Gallon Hat</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Gladiator_Helm.md">Gladiator Helm</a></li></ol></li><li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:<ol><li><b>Mythical Arms</b>: <a href="Abyss_Wanderer's_Plate.md"><font>Abyss Wanderer's Plate</font></a>, <a href="Delver's_Duster.md"><font>Delver's Duster</font></a></li><li><b>Legendary Arms</b>: <a href="Deepwoken_Cloak.md"><font>Deepwoken Cloak</font></a>, <a href="Ignition_Gauntlets.md"><font>Ignition Gauntlets</font></a>, <a href="Ironsinger_Heavy_Plate.md"><font>Ironsinger Heavy Plate</font></a></li><li><b>Generic Arms</b>: <a href="Fur_Parka.md">Fur Parka</a>, <a href="Imperial_Pauldrons.md">Imperial Pauldrons</a>, <a href="Legion_Pauldrons.md">Legion Pauldrons</a>, <a href="Blacksteel_Pauldrons.md">Blacksteel Pauldrons</a>, <a href="Iron_Pauldrons.md">Iron Pauldrons</a>, <a href="Steel_Pauldrons.md">Steel Pauldrons</a>, <a href="Redsteel_Pauldrons.md">Redsteel Pauldrons</a>, <a href="Gladiator_Pauldrons.md">Gladiator Pauldrons</a></li></ol></li><li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>:<ol><li><b>Legendary Legs</b>: <a href="Abyss_Wanderer's_Boots.md"><font>Abyss Wanderer's Boots</font></a></li><li><b>Generic Legs</b>: <a href="Flameguard_Boots.md">Flameguard Boots</a>, <a href="Iron_Boots.md">Iron Boots</a>, <a href="Imperial_Boots.md">Imperial Boots</a>, <a href="Novice_Boots.md">Novice Boots</a>, <a href="Grand_Boots.md">Grand Boots</a></li></ol></li><li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Curseblood_Pendant.md">Curseblood Pendant</a>, <a href="Nomad_Pendant.md">Nomad Pendant</a>, <a href="Red_Eye_Pendant.md">Red Eye Pendant</a>, <a href="Seafarer_Pendant.md">Seafarer Pendant</a>, <a href="Varicosa_Medallion.md">Varicosa Medallion</a>, <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, <a href="Adventurer's_Scarf.md">Adventurer's Scarf</a></li><li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Browline_Citadel_Frames.md">Browline Citadel Frames</a>, <a href="Duelist_Mask.md">Duelist Mask</a>, <a href="Headband.md">Headband</a>, <a href="Rebel's_Bandana.md">Rebel's Bandana</a>, <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>, <a href="Aristocrat_Eyeglasses.md">Aristocrat Eyeglasses</a>, <a href="Round_Citadel_Frames.md">Round Citadel Frames</a></li><li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Crystal_Pendant_Earrings.md">Crystal Pendant Earrings</a>, <a href="Pendant_Earrings.md">Pendant Earrings</a></li><li><a href="Equipment.md#rings"><b>Rings</b></a>:<ol><li><b>Legendary Rings</b>: <a href="Akira's_Ring.md"><font>Akira's Ring</font></a>, <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Maestro's_Ring.md"><font>Maestro's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Rosen's_Ring.md"><font>Rosen's Ring</font></a>, <a href="Dawnfist's_Ring.md">Dawnfist's Ring</a>, <a href="Deepfire_Ring.md">Deepfire Ring</a></li><li><b>Generic Rings</b>: <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Deepfire_Ring.md">Deepfire Ring</a>, <a href="Finisher's_Ring.md">Finisher's Ring</a>, <a href="Heavy_Hands_Ring.md">Heavy Hands Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Purifying_Ring.md">Purifying Ring</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>, <a href="Ring_of_Wisps.md">Ring of Wisps</a>, <a href="Windmill_Ring.md">Windmill Ring</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a></li></ol></li></ul></td></tr></tbody></table>
+
+The mobs that currently drop the best loot are the [Mudskipper Broodlord](Mudskipper_Broodlord.md) and [Mudskipper Brute](Mudskipper_Brute.md) due to dropping a chest with loot weighed more favorably towards rare drops.
+
+More loot will appear if bringing more players, but naturally, this will also result in more monsters. Be cautious!
+
+[Relics](Relics.md) and [Enchant Stones](Enchant_Stone.md) can drop from any chest at any floor.
+
+Floors at 1.50km or higher have a higher chance at rarer loot, only when 1-3 [Threshers](Thresher.md) Spawn.
+
+## Tips
+
+-   The [Excavator talent](Talent_Quests.md) is highly recommended for faster Saramed runs. It can be obtained from wearing a [Miner's Hardhat](<Miner's_Hardhat.md>) or completing the [Excavator quest](Talent_Quests.md).
+-   The Saramaed Hollow is a fairly low-risk, high-reward dungeon as you have the chance of getting most relics, enchant stones, and godroll gear just from killing medium level mobs like Megalodaunts and Threshers.
+    -   But due to the difficulty spikes early on, deep delves into this dungeon are not recommended for low level players. It may be more convenient to seek experience elsewhere.
+-   If you are at low health and about to die, you can easily escape by running back to the Deepdrill and interacting with the radio inside to pull you up. This can be used even if you are in danger, to quickly help you escape. Do note that if you do successfully escape, you will be sent back up to 0m and will have to restart the delving all over again.
+    -   Do note that if you are doing it with one or more friends, you will need to wait for all of them to be near / inside the Deepdrill before you can use the radio to call you up.
+-   A valid strategy is to stockpile fuel in the Deepdrill and take it with you to other floors. Then, if you reach a floor that is a hassle to deal with, you can instantly fully fuel the Drill and skip the floor.
+-   Despite all the upsides, Saramaed Hollow is very time-consuming, and the drops are very RNG dependant; you can either get REALLY lucky and hit the jackpot, or, more than likely, go back up to the surface practically empty-handed.
+-   The Saramaed Hollow can be used to very easily farm notes, since the first layers are relatively easy and give large chests that give a ton of equipment. The equipment can then be sold to the antiquarian above. You can expect to get over a thousand Notes per floor.
+-   The [Thresher Mount](Mounts.md) can be used while carrying ores. The mounts can also stand on lava without you being dismounted.
+-   To farm this dungeon efficiently, it is recommended to build for mobility options. Additionally, due to Magma Flow, it is heavily recommended to primarily build for HP, over resistance stats, on your equipment.
+
+Good luck, and happy deepdelving!
+
+## Trivia
+
+-   This is the first source of [Pluripotent Alloy](Pluripotent_Alloy.md) outside of bosses.
+-   Saramed allegedly awards you [Resonance progression](Resonance.md) but **this is not confirmed** and needs testing
+-   There is a rare chance for the drill to bring you to 666m, this is visual, as the layer will still act as your first delve, being 800m.
+-   The more people you have, the more fuel you need to continue to progress.
+    -   1 person: 5 fuel ores
+    -   2 people: 7 fuel ores
+    -   3 or more people: 9 fuel ores
+-   Rarely, there may be a floor that usually comes after or at 1.5km that requires you to kill just one to three [Threshers](Thresher.md) in turn for amazing loot.
+    -   The belief among the community is that the dungeon is attempting to spawns monsters that it cannot (presumably [King Threshers](King_Thresher.md)), leading to only a few Threshers spawning.
+-   The cave paintings show that civilization has once been here long before the Union have.
+    -   The cave painting on the first image depicts a humanoid being encountering a large, unknown beast, possibly a Megalodaunt.
+    -   The cave painting on the second image depicts what seems to be three Gremors (identified by their large horns) near a larger, humanoid figure, which seems to be speaking.
+-   When you try to leave the dungeon by calling for the cable crew to haul you back up and your teammate isn't nearby, a message "Leave no delver behind" will be displayed. This is a reference to "Leave no dwarf behind" from _Deep Rock Galactic_.
+-   Previously, you were not able to slide or dash while holding Fuel ore. However, as of the Vow of Iron update, this has been changed and are now able to, making movement much easier.

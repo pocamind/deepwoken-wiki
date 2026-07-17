@@ -1,0 +1,109 @@
+---
+title: Authority Soldier
+revid: 216077
+source: https://deepwoken.fandom.com/wiki/Authority_Soldier
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies, Central Authority Enemies]
+---
+
+# Authority Soldier
+
+| Authority Soldier | |
+|---|---|
+| health | 200 |
+| drops | Authority Helm, Dying Embers |
+| weapon | Adretian Axe, Officer Saber |
+| moves | Assault, Critical, Flame Grab, Fire Blade, Burning Servants |
+| affiliation | The Central Authority |
+
+## Description
+
+Authority Soldiers are enemy NPCs found in [Upper Erisia](Upper_Erisia.md) and on [Meteor Isle](Meteor_Isle.md). They are ranked the lowest, and thus the most incompetent members of The Central Authority's army, frequently accidently incinerating or setting each other on fire. As a result, they have a standard appearance, sporting an [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md) and an [Authority Helm](Authority_Helm.md).
+
+They can spawn in the following events:
+
+-   2 **Authority Soldiers** with 2 [Authority Officers](Authority_Officer.md) patrolling [Upper Erisia](Upper_Erisia.md).
+-   2 **Authority Soldiers** raiding [Meteor Isle](Meteor_Isle.md).
+
+## Moveset
+
+An Authority Soldier's arsenal consists of either a [Adretian Axe](Adretian_Axe.md) or an [Officer Saber](Officer_Saber.md):
+
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | \[[Officer Saber](Officer_Saber.md)\] Performs four quick slashes with their blade.
+
+\[[Adretian Axe](Adretian_Axe.md)\] Raises axe before firmly slamming it down to the ground.
+
+-   Adretian Axe critical is not blockable.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Fire Blade**  
+(★★☆)
+
+ | Slams down with a blade coated in flame, dealing heavy damage in an arc.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Burning Servants**  
+(★☆☆)
+
+ | Summon a legion of flaming spearmen that lunge inwards.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Flame Grab**  
+(★☆☆)
+
+ | The Soldier lunges forward to grab and slam the player into the ground, igniting them in flames.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
+
+ |
+
+### Talents
+
+-   Hell's Partisan - After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above.
+-   Warding Radiance - Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active.
+-   Flaming Flourish - Set enemies on fire when you flourish or uppercut them.
+-   To The Finish - You take 10% less damage when below 30% health.
+-   Immolation - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames.
+
+## Trivia
+
+-   They are one of two Authority enemies that can be non-Adrets, the other being the [Authority Peacekeeper](Authority_Peacekeeper.md).

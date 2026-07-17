@@ -1,0 +1,85 @@
+---
+title: Akira
+revid: 219963
+source: https://deepwoken.fandom.com/wiki/Akira
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Black Divers]
+---
+
+# Akira
+
+| Akira | |
+|---|---|
+| name | Akira |
+| aspect | Etrean |
+| location | Celtor Wastes, Castle Light |
+| affiliation | The Divers, Black Divers division |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+“ Since when was the Depths the territory of some surface-dwelling small fries like lot of you? Pass this line and none of you will see the surface again. ”
+
+― Akira
+
+## Description
+
+Akira is an [Etrean](Etrean.md) [NPC](NPC.md).
+
+Akira is one of the strongest Black Divers in modern history, on the same tier as [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).[\[1\]](#cite-note-1)
+
+His [Bell](Resonance.md) (Corrupted Top-Pop) allows him to instantaneously grip any entity he wishes at the cost of his lifespan and power. However, the stronger the target is, the more power and lifespan he will have to sacrifice to kill them.
+
+Players who have 75 Charisma can intimidate him into retreating. Akira's perception of you being an extremely intimidating and strong threat probably leads him to the reasonable conclusion that he's not going to get away with using his Bell on you without experiencing large repercussions, and thus retreats to another area.
+
+Akira is a young [Etrean](Etrean.md) with widely scuffled hair, a frown, and sharp eyes. He wears the [Black Diver](Black_Diver.md) outfit, and a pair of [Dew Drop Earrings](Dew_Drop_Earrings.md).
+
+He has a [Katana](Katana.md) behind his back and a [Corrupted Bell](Resonance.md#corrupted-resonances) resting at his hip. He additionally wears a pitch black [Kyrsan Necklace](Kyrsan_Necklace.md).
+
+## Location
+
+Akira is first found in the [Celtor Wastes](Celtor_Wastes.md), protecting an area for a Divers Research division which can be found facing the flat gate and following the wall right until you reach a decrepit castle. He spawns in an event that isn't guaranteed, meaning you may need to server hop to meet him.
+
+You meet him a second time after completing the event and accepting the challenge to meet him at [Castle Light](Castle_Light.md). Upon arrival he is on the second floor of the castle. He gives you the option to [unbound](Attributes_Unbound.md) your [Willpower](Willpower.md), and the choice to join [the Divers](The_Divers.md), but warns that it is an extremely dangerous job.
+
+## Akira vs. Ignition Union Event
+
+This event takes place at the decrepit research castle, upon triggering the event 4 Ignition Union NPCS will approach Akira, who is resting on the ground. A conversation ensues where Akira threatens their lives if they don't leave and creates a line of ice with a unique mantra. The leader of the Union research platoon claims that "This one's sanity must've already crumbled," and seems unfazed before approaching him and walking past the line, which causes Akira to say, "So be it," and uses his Corrupted Top-Pop to cause their heads to explode.
+
+After this you are able to talk to Akira, in which he has two different conversation paths. (There is a Charisma option, 75 required to pass it.) Once you talk to him, he asks if you're another Ignition Union member, in which you **are supposed** to say you aren't with them. This leads to a conversation where he tells you why he's there and offers to let you join [the Divers](The_Divers.md) if you make it to [Castle Light](Castle_Light.md). This unlocks the [Deepbound](Deepbound.md) Origin.
+
+## Dialogue
+
+**Celtor Wastes:**
+
+**First Encounter:**
+
+<table><tbody><tr><td colspan="4">Begin Dialogue</td></tr><tr><td colspan="4">Another one..? You've got to be kidding me.</td></tr><tr><td colspan="2">Wait, I'm not with them.</td><td colspan="2">Don't mess with the Ignition Union, snake-eyed bookworm trash. [Charisma]</td></tr><tr><td colspan="2"><i>*The menacing-looking man scans you up and down skeptically for a moment.*</i> Well, either way it seems you know your place.</td><td>[Requirements met (75 Charisma)]</td><td>[Requirements not met]</td></tr><tr><td colspan="2">What are you doing down here?</td><td><i>*The man blinks twice, apparently stunned by your words.*</i></td><td>So be it...</td></tr><tr><td colspan="2">A nosy one eh? I'm on duty right now making sure no depths creatures or otherwise unwanted parties wander into this area before the research platoon makes it over.</td><td>[End Dialogue], Akira departs</td><td>[End Dialogue], the player's head pops <b>instantly killing and wiping them</b></td></tr><tr><td colspan="2">Research platoon?</td></tr><tr><td colspan="2">Is there something surprising about that or are you just uneducated..? We're currently in the <a href="Glossary.md#the-depths">Depths</a>, we <a href="Glossary.md#the-divers">Divers</a> blow boatloads of <a href="Glossary.md#the-central-authority">Authority</a> funding on expeditions down here.</td></tr><tr><td colspan="2">I just thought the Divers didn't kill people as you did.</td></tr><tr><td colspan="2">Oh you mean those mudskippers from the Ignition Union just now? Calling them 'people' is somewhat of a stretch. Anyone who crosses me is an ally of the <a href="Glossary.md#the-depths">Depths</a> for all I care. My judgment is absolute.</td></tr><tr><td colspan="2">Who are you?</td></tr><tr><td colspan="2">If it means you'll leave me to my reading, I'll tell you. I'm Akira, rank <i><a href="Glossary.md#black-divers">Black Diver</a></i>, in charge of research site pre-clearing and new recruit field training.</td></tr><tr><td colspan="2">I want to join the Divers.</td></tr><tr><td colspan="2">As I said, I'm quite busy right now, and would love to continue reading this book. Make it to <a href="Glossary.md#castle-light">Castle Light</a> in one piece and we'll see about your recruitment there.</td></tr><tr><td colspan="2">[End Dialogue], Akira returns to Castle Light</td></tr></tbody></table>
+
+**Subsequent Encounters:**
+
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Please don't disturb my reading.</td></tr><tr><td>Does this kind of thing happen often or something?</td></tr><tr><td>More than you know.. more than you know.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+
+**Castle Light:**
+
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td>Do you have some sort of reason for being here? This is territory of the Divers.</td></tr><tr><td>We met before, I want to join the Divers.</td></tr><tr><td>Oh, right.. You're serious, huh? I don't know what part of a diver's work you're interested in, but if you're resourceful enough to get through the life field protecting this place, you're smart enough to know that you're walking to your grave, surely.</td></tr><tr><td>To my grave?</td></tr><tr><td>That's right. I've been a diver close to ten years now. Every year, I meet hundreds of new ambitious recruits anxious to begin their research and so on, and by the end of the year only one or two will remain.</td></tr><tr><td>Only one or two?</td></tr><tr><td>Only one or two. If you seriously want to join an organization with a 98% annual casualty rate, then by all means, you're welcome to. I can't promise you that it'll go well for you, though.</td></tr><tr><td>I want to join.</td></tr><tr><td>Don't say I didn't warn you.</td></tr><tr><td>Sounds fun.</td></tr><tr><td><i>*Akira blinks twice, apparently stunned, before smirking whilst replying,*</i> That may be the spirit needed to join the 2%.</td></tr><tr><td>Hanging around here isn't going to make any progress for us. Get out there and get to work.</td></tr><tr><td>What exactly should I be doing?</td></tr><tr><td>You should be out there scouring this layer for artifacts, items imbued with affinity to the Depths, that sort of thing.</td></tr><tr><td>Then why are you waiting here?</td></tr><tr><td><i>*You feel murderous intent wash over you as the man glares in your direction*</i> Come again? I didn't quite hear you.</td></tr><tr><td>Nothing.</td></tr><tr><td>As I thought... In any case, most of my field work assignments don't concern this layer. For now, I'm here to handle management and territory defense, that sort of thing.</td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+
+## Trivia
+
+-   He uses an unobtainable [Frostdraw](Frostdraw.md) spell. Upon usage he summons a laser across the ground in front of him, creating a line of frost.
+-   His sword is the only instance of a Katana being strapped to the back rather than sheathed. (It is confirmed to be actually floating behind him, rather than being strapped to his back.)
+-   Akira's hair can be found here: [https://www.roblox.com/catalog/4904074569/White-Transcendent-Hair](https://www.roblox.com/catalog/4904074569/White-Transcendent-Hair)
+-   Players have the option to call Akira "snake-eyed bookworm trash" as an insult. This is the only instance in _Deepwoken_ of an individual calling someone else an [ethnic slur](https://en.wikipedia.org/wiki/List_of_ethnic_slurs).
+-   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says, "I've seen worse."
+-   Akira's bell is officially called "Top-pop."
+-   Akira's bell flashes purple when he kills the Ignition Union officers.
+-   Akira Colors: #f7eae3 Skin | #E6D4D4 Hair | #8c0f82 Pupils | #cbd2ff Sclera | #686296 Resonance | #111111 Necklace
+-   For some reason, the Ignition Union research platoon members are still interactable during Akira's event, functioning as normal Ignition Union Guards. They can also be moved around by sliding underneath them, although this will not change the outcome of the event.
+    -   Like [Kennith](Kennith.md) after he gets dismembered, the prompt to interact with the guards will remain after their heads explode, but they will all have no dialogue as a likely result of being [dead](Death.md).
+    -   Even more strangely, they all seem to be linked in some way or another, as they will only ever spawn with all four of them having [Enchanted](Enchantments.md) weapons or none at all.
+    -   They can also be spat on, which will make them equip their weapon, then unequip it.
+
+## References
+
+1.  [↑](#cite-ref-1) [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)

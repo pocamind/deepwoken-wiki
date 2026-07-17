@@ -1,0 +1,35 @@
+---
+title: Lost Celtor
+revid: 192538
+source: https://deepwoken.fandom.com/wiki/Lost_Celtor
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Factions, Lost Celtor]
+---
+
+# Lost Celtor
+
+| Lost Celtor | |
+|---|---|
+| territory | The City of the Drowned |
+
+## Description
+
+A once great kingdom ruling over the [Southern Luminant](Southern_Luminant.md), now reduced to a scrambled mess of soldiers aimlessly patrolling [The City of the Drowned](The_City_of_the_Drowned.md), their former capital. Their once great capital city, now [The City of the Drowned](The_City_of_the_Drowned.md), was sunk in it's entirety during The Great Drowning, lost to the tides, which [The Ministry](The_Ministry.md) was responsible for, as an offering to [Yun'Shul, Keeper of Hearts](<Yun'Shul,_Keeper_of_Hearts.md>).
+
+## Reputation
+
+They are the only faction which can be found in [The Depths](The_Depths.md) other than [The Divers](The_Divers.md) and [The Ignition Union](The_Ignition_Union.md), both of which they are neutral towards, meaning their relations with almost all other factions are unknown.
+
+Ringing the [Celtor Bells](Lost_Celtor_city_bells.md) located in the [District of Commerce](District_of_Commerce.md) gives Positive Reputation with the faction, but there is a limit, capping out at high Friend tier, just before Ally tier.
+
+When starting off with Noble Regalia and starting off with a positive rep with Lost Celtor
+
+However, under rare circumstances you may be allowed to have an ally reputation with Lost Celtor. This can be seen if you have the 'Noble' [Regalia](Regalia.md) and start with a positive relationship with Lost Celtor.
+
+Their dialogue does not change with reputation.
+
+## Trivia
+
+-   If you have Hunted reputation, Hollow Angels will spawn around certain places for you even if you were not seen by a [Watcher](Watcher.md).\[citation needed\]
+-   Celtorian Guards used to attack Hollow Angels on sight, but this was changed in the October 6th, 2023 update.
+-   Celtorian Guards will attack monsters if hit by them in the crossfire in pursuit of another target, but neither will target each other directly.

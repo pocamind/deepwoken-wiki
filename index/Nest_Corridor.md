@@ -1,0 +1,35 @@
+---
+title: Nest Corridor
+revid: 204314
+source: https://deepwoken.fandom.com/wiki/Nest_Corridor
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pathfinder Exclusive, Locations, Locations in the First Floor of the Second Layer]
+---
+
+# Nest Corridor
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+LocationL Nest Corridor LocationR
+
+From the darkness, a peaceful clearing lay ahead.
+
+  
+
+## Overview
+
+The Nest Corridor is a location located between [Firfire Caverns](Firfire_Caverns.md) and [The Maw of Ethiron](The_Maw_of_Ethiron.md). Stepping foot into the corridor prompts waves of multiple Bounders to spawn, and is one of the requirements to spawn the [Chaser](Chaser,_Scholar_of_the_Burning_Blood.md) boss fight. At the end of the corridor, opposite of a fenced ledge is the [Ignition Deepdrill](Ignition_Deepdrill.md), which will only spawn if you got [Llevyn](Llevyn.md) to call it beforehand. If you are feeling very confident, killing four of the six bounders rewards you with a chest that has the same amount of items and drop rates as the one that drops from Chaser (if not better), as the bounders are not meant to be killed, just evaded and ignored.
+
+Keep in mind that leaving Layer 2 through the Deepdrill will _not_ let you keep the loot that you gathered while there, unless it's equipment that you already have equipped.
+
+## Contents
+
+-   [Rabanastre](Rabanastre.md)
+-   [Ignition Deepdrill](Ignition_Deepdrill.md)
+
+## Trivia
+
+-   There is a small space outside of the corridor itself where you can climb up from a ledge and spawn the [Bounders](Bounder.md) without risking your life.
+    -   This is typically used for speedrunning.

@@ -1,0 +1,77 @@
+---
+title: Primal Vesperian
+revid: 216357
+source: https://deepwoken.fandom.com/wiki/Primal_Vesperian
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Exclusive, Aspects, Exclusive Aspects, Developer Spec]
+notices:
+  - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
+---
+
+# Primal Vesperian
+
+| Primal Vesperian | |
+|---|---|
+| obtained_by | Unobtainble |
+| appearance | Dark mask with white markings and with horns, White and dark hairs, Dark skin color, Nutt:, Design Color #3b1111, Eye Color #ffffff, Hair Color #f3f3fa, Mask Color #ebe3db, Sclera Color #1d1503, Skin Color #26292b, Haske:, Design Color #3b1111, Eye Color #ffffff, Hair Color #706460, Mask Color #ebe3db, Sclera Color #1d1503, Skin Color #4d3e3e |
+| traits | Chitin (Natural Armor), +2 Fortitude, +2 Willpower |
+
+"Ancient Vesperians lost to time."
+
+**Currently Unobtainable**
+
+## Description
+
+An alternate version (subrace) of Vesperian with dark chitin and white markings, currently **unobtainable** by normal means.
+
+_This is not an entirely different aspect in and of itself, more so a racial variant with special properties._
+
+## Traits
+
+<table><tbody><tr><td></td><td><b>Chitin</b><ul><li>"<i>You have a layer of natural armor that replenishes when you rest.</i>"<ul><li>5% damage reduction. Degrades with damage but can be replenished at a campfire</li><li>This buff also stacks with Exoskeleton ( Rare Talent ) albeit is slightly reduced.</li></ul></li><li>Identical to the base aspect</li></ul></td></tr><tr><td><center><font>+2</font></center></td><td><b>Attribute Boosts</b><ul><li>+2 Fortitude</li><li>+2 Willpower</li></ul></td></tr></tbody></table>
+
+## Miscellaneous
+
+**Lore:**
+
+  
+
+Primal Vesperians do not play a significant role in the lore, though they did exist, and have some brief lore behind them.
+
+Emblem of the Primal Vesperian clan Stag was a part of (Made by Nuttoons)
+
+Primal Vesperians are the remnants of a branch of the [Vesperians](Vesperian.md) who have since faded into obscurity.
+
+<table><tbody><tr><td>Known Variants</td></tr></tbody></table>
+
+-   Nuttoons gained this after winning first place prize in the first Deepwoken artist contest, where they chose to have their own custom [Vesperian](Vesperian.md) variant as their cosmetic, along with the custom name 'Stag Acrossus.'
+-   This variant of [Vesperian](Vesperian.md) is unobtainable as of now.
+-   Has similar traits to [Ganymede](Ganymede.md), the eyes & hair, perhaps due to their heritage.
+    
+
+**Strengths:**
+
+  
+
+-   +2 Health
+-   +2 Fortitude
+-   +2 Willpower
+
+A layer of protective armor that regenerates at rest.
+
+\-Face [Equipment](Equipment.md) will always be hidden.
+
+**Full Names:**
+
+  
+
+-   Stag Acrossus
+-   Haske Vantage
+
+  
+
+## Trivia
+
+-   Both Stag & Haske are the remaining members of an Ancient clan of [Vesperians](Vesperian.md) who deviated and took their own form roughly around the initial split of the hivekin aspects. The reason why Haske and Stag remain, as opposed to their kin who had died out millenniums ago, is that they both have 'immortal' properties, with Haske actually being an Immortal and Stag being bewitched to elude death by an Unknown entity.
+-   Haske wears an [Equipment](Equipment.md) piece exclusive to him, called the [Eternal Restraints](Eternal_Restraints.md).
+-   Stag wears an [Equipment](Equipment.md) piece exclusive to him, called the [Stag Wraps](Stag_Wraps.md).

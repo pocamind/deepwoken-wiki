@@ -1,0 +1,35 @@
+---
+title: Ilji
+revid: 216564
+source: https://deepwoken.fandom.com/wiki/Ilji
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: ["Game-adjacent articles", Pages requiring a cleanup, Quests]
+notices:
+  - "This page, by declaration of the Inquisition, is of insufficient quality and requires a cleanup to better meet the Wiki's quality standards. Help improve this article by improving formatting, spelling and the general layout. Within this dark a blazing light!"
+---
+
+# Ilji
+
+| Ilji | |
+|---|---|
+| family | Nanji (older sibling) |
+
+Variants: [Sophon](Sophon.md)
+
+**Game-adjacent article**  
+This game content bears more significance to _Deepwoken'_s world than to the game.  
+Thus, this article focuses on that.
+
+“ We were eachother's closest rivals in the way of the sword. We both trained to best eachother constantly. ”
+
+― Nanji referring to her brother, Ilji
+
+## Description
+
+Ilji is [Nanji](Nanji.md)'s younger brother, and they're eachother's closest rivals in the way of the sword. He left [Etris](Etris.md) to become a traveller at the same time as Nanji, though, he seemed to have died or gone missing along the way. This is evidenced by the fact that the sword that we find is now rusty and chipped. As Nanji said herself, paraphrasing, "He would never allow himself to be separated from his sword." His [Chipped Sword](Chipped_Sword.md) also has some blood on it, signifying that something bad has happened.
+
+He is mentioned in the [Chipped Sword](Chipped_Sword.md) quest, and by his older sister, [Nanji](Nanji.md). The quest details can be found at [Nanji's page](Nanji.md).
+
+## Trivia
+
+-   It can be assumed that he's an [Etrean](Etrean.md) just like [Nanji](Nanji.md) because they're siblings and similarities in name, with the only exception incase they're actually Oath brothers, which is unlikely.

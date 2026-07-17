@@ -1,0 +1,51 @@
+---
+title: Tideknight
+revid: 201345
+source: https://deepwoken.fandom.com/wiki/Tideknight
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pathfinder Exclusive, Enemies, Enemies that can wield Enchantments, Lost Celtor, Lost Celtor Enemies]
+---
+
+# Tideknight
+
+| Tideknight | |
+|---|---|
+| health | Varies (Based on Original Mob) |
+| drops | None |
+| weapon | Flame Hero Blades, Crypt Blade, Curved Blade of Winds, Gran Sudaruska, Markor's Inheritor, Forgotten Gladius, Darksteel Greatsword, Pale Morning |
+| moves | Dependent on Oath, weapon, and Mantras |
+
+_This is the enemy NPC found within the Diluvian Mechanism. For the Master Outfit, see [Celtorian Tideknight](Celtorian_Tideknight.md)._
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+## Description
+
+Tideknights can only be found within the later waves of [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
+
+They wear the [Celtorian Tideknight](Celtorian_Tideknight.md) Outfit and have a wide array of weapons, Mantras, and Oaths. Every Tideknight NPC in the mechanism is a variant of an already existing hostile NPC, being any of the four Songseeker variants, [Black Divers](<Black_Diver_(NPC).md>), Starkindred Angels, [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md) and all six of the [Spelltrainers](Spelltrainers.md).
+
+## Moveset
+
+Tideknights contain the same moveset as the following NPCs depending on their variant.
+
+-   [Songseeker Galebreather](Songseeker_Galebreather.md)
+-   [Songseeker Thundercaller](Songseeker_Thundercaller.md)
+-   [Songseeker Flamecharmer](Songseeker_Flamecharmer.md)
+-   [Songseeker Frostdrawer](Songseeker_Frostdrawer.md)
+-   [Black Diver](<Black_Diver_(NPC).md>)
+-   [Nell, Master of Frost](Nell,_Master_of_Frost.md)
+-   [Friid, Master of Gale](Friid,_Master_of_Gale.md)
+-   [Amashi, Master of Flame](Amashi,_Master_of_Flame.md)
+-   [Nostor, Master of Shadow](Nostor,_Master_of_Shadow.md)
+-   [Funke, Master of Thunder](Funke,_Master_of_Thunder.md)
+-   [Adar, Master of Metal](Adar,_Master_of_Metal.md)
+-   [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md)
+-   [Astaroth, Sinner of Wind](Astaroth,_Sinner_of_Wind.md)
+
+## Trivia
+
+-   They share the same armor with the [Celtorian Guards](Celtorian_Guard.md).
+-   It is unknown who or what they're supposed to be. Perhaps they could have been stronger, deadlier guards that patrolled Celtor before the Great Drowning.

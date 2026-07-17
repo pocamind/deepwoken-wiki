@@ -1,0 +1,122 @@
+---
+title: Rogue Construct
+revid: 215858
+source: https://deepwoken.fandom.com/wiki/Rogue_Construct
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Monsters]
+---
+
+# Rogue Construct
+
+| Rogue Construct | |
+|---|---|
+| health | 3300, 8250 (Corrupted) |
+| drops | Tier 2 Mantra Modifiers, Inquisitor's Greatsword, Hivelord's Hubris, Ysley's Pyre Keeper (In chest), Curse of Ysley's Ember Enchant Stone |
+| locations | Minityrsa, The Diluvian Mechanism |
+
+Golem Constructs
+
+Variants: [Hive Construct](Hive_Construct.md)
+
+## Description
+
+It has a purple-ish wood-like appearance, with blue-ish foliage around its legs, resembling wires. It also sports a Hive logo made of wood on its torso. It is powered by the Lifeweaving technology of the Hive but has gone rogue for unknown reasons.
+
+The rogue mech can only spawn on [Minityrsa](Minityrsa.md) on the ice lake next to the [Valley of Heroes](Valley_of_Heroes.md). It deals high damage, enough to eradicate a good chunk of most player's health in one hit. It cannot climb, but does walk very fast, so if you're unlucky enough to encounter it, it is recommended to run away.
+
+It can be tipped over, so if you have [Grand Javelin](Grand_Javelin.md) or [Wind Gun](Wind_Gun.md), you can use them to stun it to aid your escape. They respawn every 15 minutes on [Minityrsa](Minityrsa.md).
+
+## Moves
+
+| Name/Danger | Description | Media |
+| --- | --- | --- |
+| 
+**Stomp**  
+(★☆☆)
+
+ | The Construct stomps the ground, dealing high damage.
+
+-   Can insta-grip/insta-execute
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ | 
+
+ |
+| 
+
+**Swing**  
+(★★☆)
+
+ | The Construct uncoils its arms and swings them upwards.
+
+-   Flings and ragdolls player.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
+
+Dodge
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   § Dodgeable
+
+ | 
+
+ |
+| 
+
+**Scream**  
+(☆☆☆)
+
+ | The Construct screams, signifying that **Meteor Punch** is off cooldown and can be used again.
+
+-   Stay cautious of the Meteor Punch attack after he uses this move.
+
+-   ☕︎ Harmless
+-   «» Misc.
+
+ | 
+
+ |
+| 
+
+**Meteor Punch**  
+(★★★)
+
+ | Punches the ground with it's right fist, creating two circular shock-waves.
+
+-   Deals roughly 200 damage total.
+-   Insta-grips/insta-executes.
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+
+ | 
+
+ |
+| 
+
+**Lifeweave Flourish**  
+(★★☆)
+
+ | Used alongside 'Stomp', spawns a few temporary trees within 1 second, allowing it to climb some short walls.
+
+-   You cannot walk through some of the tree's leaves.
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   ☕︎ Harmless
+
+ | 
+
+ |
+
+### Finishers
+
+-   Executing Punch - The construct walks up to its opponent and punches them, immediately killing them.

@@ -1,0 +1,93 @@
+---
+title: Blade Instructor
+revid: 216090
+source: https://deepwoken.fandom.com/wiki/Blade_Instructor
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Cut Content, Enemies, Etrea Enemies]
+notices:
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
+---
+
+# Blade Instructor
+
+| Blade Instructor | |
+|---|---|
+| health | 300 |
+| drops | None |
+| weapon | Battleaxe, Sword, Mace, Iron Spear |
+| moves | Assault, Critical |
+
+## Description
+
+The Instructor was an NPC that can only spawned in via sparring. To spawn him, the player had to talk to [Das](Das.md), only then would an Instructor spawn.
+
+Instructors wore a [Gladiator Helm](Gladiator_Helm.md) and a [Cloak of Winds](Cloak_of_Winds.md) outfit with their [aspect](Aspects.md) varying.
+
+With the introduction of [Training Mode](Training_Mode.md), they were rendered obsolete and removed.
+
+## Moveset
+
+An Instructor's arsenal consisted of either a [Battleaxe](Battleaxe.md), [Sword](Sword.md), [Mace](Mace.md) or [Iron Spear](Iron_Spear.md):
+
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon before firmly slamming it down into the ground.
+
+\[[Sword](Sword.md)\] Performs a windup before thrusting blade forward.  
+\[[Iron Spear](Iron_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands.
+
+-   Battleaxe and Mace criticals are not blockable.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Feint**  
+(★★☆)
+
+ | Attacks, but then stops mid-way to catch the player off guard.
+
+-   ☕︎ Harmless
+-   «» Misc.
+
+ |
+
+## Finisher
+
+If the Instructor is the one that downs the player they will disappear and the player will receive all of their health back, although they will not regain any blood. However, if the player is downed by any other means, the Instructor will grip the player like any other NPC.
+
+| Name | Description |
+| --- | --- |
+| Disappear | Unequips weapon before disappearing into thin air. |
+
+## Trivia
+
+-   The Instructor could be killed by using moves that instantly grip opponents when they are on low HP, using certain moves, like Mani Katti, and employing burn. You could also grip him with help of the [Poser's Ring](<Poser's_Ring.md>) with a [Katana](Katana.md) or [Shattered Katana](Shattered_Katana.md), dealing enough damage and then sheathing your katana will knock him and you can grip him.[\[1\]](#cite-note-vigilguardsdgaf-1)
+-   The [Blade Temple Guards](Blade_Temple_Guard.md) did not react should an Instructor be gripped near them.[\[1\]](#cite-note-vigilguardsdgaf-1)
+-   Defeating one sometimes grants positive [reputation](Reputation.md) with the [Kingdom of Etrea](Kingdom_of_Etrea.md), usually when you don't get a health pack from killing them.
+-   Gripping them would prompt them to say 'Hey, what do you think you're doing?!'
+-   You could glitch an instructor by starting the spar and not doing anything at all. To fix it, you just needed to defeat them.
+-   There was a secret text bubble that appears if the player is knocked due to hunger or other means while in a battle with him that says "Not bad, but not good enough," which could be due to the Instructor being meant to knock the player.
+
+## References
+
+1.  ↑ [1.0](#cite-ref-vigilguardsdgaf-1-0) [1.1](#cite-ref-vigilguardsdgaf-1-1) [https://www.youtube.com/watch?v=gMiY1IgUpJo](https://www.youtube.com/watch?v=gMiY1IgUpJo)

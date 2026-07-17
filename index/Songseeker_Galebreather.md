@@ -1,0 +1,150 @@
+---
+title: Songseeker Galebreather
+revid: 216093
+source: https://deepwoken.fandom.com/wiki/Songseeker_Galebreather
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies, Songseekers, Humanoids with Unobtainable Outfits]
+---
+
+# Songseeker Galebreather
+
+| Songseeker Galebreather | |
+|---|---|
+| health | 1000 |
+| drops | Gale Stone, Aspirant Mask |
+| weapon | Fists |
+| moves | Assault, Critical, Gale Lunge, Heavenly Wind, Air Force |
+
+**Songseeker Galebreathers** are a [humanoid enemy](Enemies.md) in _Deepwoken_.
+
+## Description
+
+A Songseeker Galebreather is an enemy NPC that can be found in [Songseeker Wilds](Songseeker_Wilds.md). They can appear in Random Encounters, on fixed spawns, or in the Songseeker Fanactics [job](Job_Boards.md#songseeker-wilds).
+
+A Songseeker Galebreather wears an Aspirant Mask (Emerald) and an Unknown/Unlisted outfit, Varying with their [aspect](Aspects.md) and gender.
+
+## Moveset
+
+A Songseeker Galebreather's arsenal consists of [Fists](Fists.md) **(Way of Navae)** and the [Galebreathe](Galebreathe.md) attunement:
+
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Raises left leg before slamming it to the ground below.
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+
+ |
+| 
+
+**Gale Lunge**  
+(★★☆)
+
+ | User lunges forward with their weapon coated in wind.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Heavenly Wind**  
+(★★☆)
+
+ | Leap high into the air before diving down, striking any targeted opponent.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Air Force**  
+(★☆☆)
+
+ | A burst of air directly in front of the user.
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Vent**  
+(★☆☆)
+
+ | An explosion of blue ether around the user that pushes opponents away.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ☕︎ Harmless
+
+ |
+
+### Boons
+
+-   Third Eye - A Songseeker Galebreather cannot be assassinated.
+
+### Talents
+
+-   A World Without Song - A Songseeker Galebreather's wind mantras now apply Suffocate.
+-   Everchanging Aegis - A Songseeker Galebreather takes 20% less from attacks the same element as the last element they were hit with, but 10% more damage from attacks from different elements.
+-   Perfect Flash - Having full health causes A Songseeker Galebreather's mantras to do 25% extra damage.
+-   Gale Trap - Whenever a Songseeker Galebreather knocks an opponent, they tag them with a wind trap, cause anyone to pick up that body to get sent flying.
+-   Stifled Jump - Enemies who jump while suffocated by the Songseeker Galebreather are dazed.
+-   Silencer's Blade - When a Songseeker Galebreather melees a 'Suffocated' opponent, it will extend the duration of the Suffocation and grant a speed boost
+-   Suffocating Impact - When a Songseeker Galebreather flourishes enemies into walls they are suffocated and winded for a short duration.
+-   After Cut - If an attack is physical and wind it will apply an after cut that does 10% of the damage the Songseeker Galebreather dealt. If an attack was a mantra, it does 5% damage instead.
+-   Breathing Impact - When a Songseeker Galebreather gets knocked into objects by wind mantras, enemies take additional blunt damage based off of how hard they are hit.
+
+## Finisher
+
+A Songseeker Galebreather executes its opponents after knocking them:
+
+| Name | Description |
+| --- | --- |
+| Execute | Pins down opponent before firmly bashing their face. |
+
+## Tips
+
+-   Despite being immune to assassination, the player can still sneak behind and use a powerful mantra to pile up some good damage.
+-   Constantly flourishing them/using mantras will prevent them from spamming mantras.
+-   Watch out for their "Heavenly Wind", as this move can catch the player off guard due to its very fast windup and odd hitbox.
+-   Get them into corners as it will make it impossible for the Songseeker Galebreathers to deal damage. Even though they will cast mantras, they won't deal damage while being attacked when casting a mantra. Or keep hitting them and spamming mantras on them.
+-   Fighting Songseeker Galebreathers with Songseeker Flamecharmers can be very annoying, and lethal. If you are planning to fight the two monks at the same time, make sure to know what you are doing otherwise you can get knocked easily.
+
+## Trivia
+
+-   They're relatively easy to fight, even at low Power.
+-   Their AI can bug out when fighting them with Fang and Coil causing them to spam vent (should be tested more)
+-   They look exactly like [Songseeker Thundercallers](Songseeker_Thundercaller.md).
+-   They were originally not in the game. When added, it was stated in the update log that they had 'been on vacation.'[\[1\]](#cite-note-1)
+-   They are the only songseekers to have only three Mantras.
+-   **Songseekers** use the following outfits made by **SirAndrove2:**
+-   [https://www.roblox.com/catalog/6842791234/Aldritch-Devourer-of-Gods](https://www.roblox.com/catalog/6842791234/Aldritch-Devourer-of-Gods) - Shirt
+-   [https://www.roblox.com/catalog/6842793449/Aldritch-Devourer-of-Gods](https://www.roblox.com/catalog/6842793449/Aldritch-Devourer-of-Gods) - Pants
+
+## References
+
+1.  [↑](#cite-ref-1) [Version History: August 15th, 2022](Version_History/Uncollapsed.md#august-15th-2022)

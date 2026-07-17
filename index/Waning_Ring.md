@@ -1,0 +1,33 @@
+---
+title: Waning Ring
+revid: 214378
+source: https://deepwoken.fandom.com/wiki/Waning_Ring
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment, Rings]
+---
+
+# Waning Ring
+
+| Waning Ring | |
+|---|---|
+| type | Ring |
+| rarity | Legendary |
+| selling price | 50 |
+| requirements | None |
+| weight | 0.2 |
+| innate stats | +2 Rare Pips |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | No |
+| pass down | Yes |
+| obtainment | The Understrand, Saramaed Hollow, Aelita, The Ferryman, The Doom of Caeranthil, Duke Ishamon Erisia, First Layer, Interluminary Parasol, Second Layer, Ancient Rotlands (Deep Cave), Moon's Eyrie, Primadon, Titan of the East, Maestro Evengarde Rest, The Diluvian Mechanism |
+| description | A deceptive ring that conceals one's true age. Sought after the conmen and crooks alike. |
+
+## Description
+
+The **Waning Ring** is a Ring [Equipment](Equipment.md) piece that conceals your character's [age](Age.md), making you appear over 70 (Stage 4 [Age](Age.md)). It is a somewhat rare drop from many sources, most notably [Aelita](Aelita.md), [The Ferryman](The_Ferryman.md), [Duke Erisia](Duke_Erisia.md), [The Depths](The_Depths.md), and [Moon Knights](Moon_Knight.md).
+
+## Trivia
+
+-   This ring is the opposite of the [Moon Ring](Moon_Ring.md), which visually decreases your character's age.
+    -   When both are equipped, you appear as if you are over 40 (**Stage 1** [Age](Age.md)).

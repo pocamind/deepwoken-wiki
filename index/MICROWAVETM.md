@@ -1,0 +1,43 @@
+---
+title: MICROWAVETM
+revid: 210597
+source: https://deepwoken.fandom.com/wiki/MICROWAVETM
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Exclusive, Equipment, Head, Helmets]
+notices:
+  - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
+---
+
+# MICROWAVETM
+
+| MICROWAVETM | |
+|---|---|
+| type | Head |
+| rarity | Unique |
+| selling price | Unsellable |
+| weight | 1 |
+| innate stats | +5 Health , +1 Uncommon Pip |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | (Unobtainable) |
+| description | Go play heat signature |
+
+## Description
+
+MICROWAVETM is an unobtainable [Equipment](Equipment.md) item under the "Head" category.
+
+The item itself is a large microwave worn on the wearer's head.
+
+## Trivia
+
+-   This item cannot be dropped by the user.
+-   MICROWAVETM is one of the five [Equipment](Equipment.md) pieces obtain through the mod shop, the others being: [A Lot of Hats](A_Lot_of_Hats.md), [Moderator Cap](Moderator_Cap.md), [THE MACHINE](THE_MACHINE.md), and [Tied Tie](Tied_Tie.md).
+-   MICROWAVETM is also seen lying on the kitchen floor in [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md).
+-   It is most likely named after, Head Moderator, HorrorTM.
+-   There is meant to be a timer on the microwave, but it's, for some unknown reason, invisible.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1)

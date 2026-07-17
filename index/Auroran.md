@@ -1,0 +1,50 @@
+---
+title: Auroran
+revid: 216365
+source: https://deepwoken.fandom.com/wiki/Auroran
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Exclusive, Aspects, Exclusive Aspects, Article stubs]
+notices:
+  - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
+---
+
+# Auroran
+
+| Auroran | |
+|---|---|
+| obtained_by | Unobtainable |
+| appearance | Eye Color #ffffff, Hair Color #ffffff, Skin Color #ffffff |
+| traits | Navae's Guidance |
+
+## Description
+
+Not a lot of information known about this race, though it is a unique Gremor variant. This race has long like horns, in a blue type white color. From what we know, this race doesn't have a lot of lore attached with it.
+
+## Racial Traits
+
+<table><tbody><tr><td></td><td><b>Navae's Guidance</b><ul><li>"<i>Navae's star guides your path, showing you the way forwards. You are less prone to starvation</i>"<ul><li>Gain a compass at the top of your screen that points South.</li><li>Reduced hunger loss.</li><li>If blind, gain a slight range of clear vision around you.</li></ul></li></ul></td></tr></tbody></table>
+
+## Miscellaneous
+
+**Lore:**
+
+  
+Unknown
+
+**Strengths:**
+
+-   Navae's Guidance
+    
+
+## Users
+
+-   Auchura (Senior Moderator)
+
+## Trivia
+
+-   This is a spec only race and is hard coded in.
+-   Does not have Sclera (Auchura at least)
+-   Related to [Auroran Gremor](Auroran_Gremor.md)
+-   Based on the [Winter Queen](https://wowpedia.fandom.com/wiki/Winter_Queen) from World of Warcraft (confirmed by Auchura).
+-   Auchura also has a custom ice scythe-like weapon. It is unknown if all Aurorans have it by default. It is enchantable.
+-   Is a subrace of Gremor, similar to [Primal Vesperian](Primal_Vesperian.md) and [Aberrant Capra](Aberrant_Capra.md).

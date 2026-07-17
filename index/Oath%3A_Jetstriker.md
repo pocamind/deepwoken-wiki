@@ -1,0 +1,283 @@
+---
+title: "Oath: Jetstriker"
+revid: 219389
+source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Oaths]
+---
+
+# Oath: Jetstriker
+
+| Oath: Jetstriker | |
+|---|---|
+| oath_req | 50 Agility |
+| effects | +1 Wildcard Mantra, +1 Mobility Mantra, +5% PENAll Talents Effects, +5 Health, +5 Ether, +12 Passive Agility |
+
+_For the version that existed prior to March 29, 2024, see [here](Oath%253A_Jetstriker/Old_Jetstriker.md)._
+
+“ This is our path then, my friendly nemesis! To be a Jetstriker, one who walks with the Song's flow itself.. ah, it's so freeing. ”
+
+― Alirian
+
+## Description
+
+**[Oath](Oath.md): Jetstriker** is one of the 17 obtainable Oaths in _Deepwoken_. It is highly praised (and detested) for its fluentness in agility. Allowing users to quickly escape nearly any dangerous situation with correct usage of its tools. This Oath also greatly takes advantage of the momentum mechanic, with Jetstriker's Talents being the only existing method to quickly gain momentum in a combat scenario.
+
+“ I can begrudgingly congratulate you! No more easy race wins for me, I suppose! ”
+
+― Alirian
+
+The Oath's powers are attained by vowing to literally flow alongside the Song itself, following wherever it leads you like a current. Detached on apprehension of where you find yourself, as long as the Song led you there. "Journey before destination".
+
+## Obtainment
+
+1.  Have at least 50 Agility.
+2.  Talk to [Alirian](Alirian.md) at [Minityrsa](Minityrsa.md)'s Frozen Pond, far past the [Hive Construct](Hive_Construct.md) beyond the bridge and to the left ridge.
+3.  Beat [Alirian](Alirian.md) in a race to a specific point that is marked with a yellow marker.
+    -   This can be easily done with your current agility, and the ability to scale high walls along the course.
+    -   Wait below the yellow marker, being away from the yellow marker when [Alirian](Alirian.md) arrives will count as you losing.
+    -   Talk to [Alirian](Alirian.md) and complete the remaining dialogue. ([Dialogue linked here](Alirian.md#dialogue))
+
+_Jetstriker **can** be reobtained if you [Oathbreak](Oathbreak.md) it._
+
+## Progression Guide
+
+[Alirian](Alirian.md) will ask of you to find 5 white glowing orbs scattered in the [Etrean Luminant](Etrean_Luminant.md). Each orb will identically grant you one Talent worth of progression (In order of Oath progression). You have to return to [Alirian](Alirian.md) to submit the orbs and obtain the talents. "I feel the winds rush through my body..."
+
+**NOTE**: You may have to utilize the map (M) to track these locations, but you may have to find/rebind it in "Controls".
+
+The location of these orbs are:
+
+-   Top of the frozen [Hive Construct](Hive_Construct.md) (Hivelord's) ice pillar, west side of [Minityrsa](Minityrsa.md)'s Frozen Pond.
+    -   Step by step guide:
+        -   Take out your map, align yourself directly west after completing [Alirian](Alirian.md)'s race, cross the lake.
+        -   After crossing the lake, near some water, you'll find a frozen [Hive Construct](Hive_Construct.md) marking the ice pillar.
+        -   Orb is at the top of that pillar.
+    -   Map guide: Directly underneath the second "i" in the Min\[i\]tyrsa label (Zoom fully to align)
+-   Top of the rooftop of the large red [Etris Palace](<The_King's_Garden.md>).
+    -   Step by step guide:
+        -   Open your map, locate the [Palace Garden](<The_King's_Garden.md>). (Do not enter the [Palace](Etris_Palace.md), you will die unprepared)
+        -   Take the stairs up to the Palace, avoid the main gate to sneak past the guards.
+        -   Outside of the garden to the right, circle around.
+        -   Climb onto the red Palace roof.
+        -   Orb is on the very top of the Palace roof, in the center, easy to spot.
+    -   Map guide: Located on the far east point of [Etris](Etris.md), a large distinct orange building on the map named "The Etris Palace".
+-   Right outside the very high up building, "[The Birdcage](The_Birdcage.md)".
+    -   Step by step guide: (**Recommended** done in succession with [Towerstruck Lands](Towerstruck_Lands.md))
+        -   Enter through [Lower Erisia](Lower_Erisia.md)'s main entrance, with the large north facing gate. ([Image on this page](Lower_Erisia.md))
+        -   Head deeper into the island, follow the main path with stairs. (You will not go through any caves throughout this guide)
+        -   Follow the rock path and go up the slope made of rock.
+        -   After the slope, to the left, there will be large [Bamboo](Bamboo.md) trees marking a upwards rocky staircase, climb the rocky staircase.
+        -   Take a hard right and follow straight south until you find a zipline (Ignore the zipline) a and cave on the other side.
+        -   The cave's entrance will have parkour above it, climb up _until the very **very** top_.
+        -   Follow the southward path with the bridge.
+        -   You should see the orb on the large tower-like building. ([The Birdcage](The_Birdcage.md))
+    -   Map guide: The very southeast of corner of [Erisia](Erisia.md), labeled [The Birdcage](The_Birdcage.md). (Zoom in to see label)
+-   On the top of the most northwest tower in [Towerstruck Lands](Towerstruck_Lands.md), on the path to [Burning Stone Gardens](Burning_Stone_Gardens.md) from [Pathfinder's Respite](<Pathfinder's_Respite.md>).
+    -   Step by step shortcut guide: (**After** visiting [The Birdcage](The_Birdcage.md))
+        -   Behind [The Birdcage](The_Birdcage.md) you'll find a west facing zipline, ride it down.
+        -   Take a right, follow the cliffside, you'll reach the rock section of the cliffside.
+        -   Head through the rock section, you'll reach the [Towerstruck Lands](Towerstruck_Lands.md), follow the bridge.
+        -   Go behind the tower, use the protruding bricks the towers to parkour up.
+        -   Cross the bridges all the way to the back tower on the right.
+        -   Climb the top of that northwest-most tower, orb will be visible on the top.
+    -   Map guide: Top of the most northwest tower in [Towerstruck Lands](Towerstruck_Lands.md), directly above the "w" in "To\[w\]erstruck" (Zoom fully to align)
+-   In the [Temple of the Blade](Temple_of_the_Blade.md)'s main "garden" room, on the water in front of [Stratos](Stratos.md).
+    -   Step by step guide:
+        -   Go to [Isle of Vigils](Isle_of_Vigils.md), follow the map guide.
+        -   I mean there's lowkey nothing else to it...
+    -   Map guide: In the very middle of [Isle of Vigils](Isle_of_Vigils.md)' map view, there is water visible, orb is there.
+
+Alternatively, if you've ever fully progressed the Oath on your account, 10 [Knowledge](Knowledge.md) can be spent to progress through immediately.
+
+_For a more in-depth walkthrough, consider watching [this video](https://youtu.be/Re7kr7XqC6w)._
+
+## Effects
+
+On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot, and +5% PEN. You will gain a new GUI identical to [Oath: Blightsurger](Oath%253A_Blightsurger.md), this however represents your "[momentum](#abilites)". You will also visually gain two dyable "Jetstriker Anklets" at your feet, and your eyes will now default to a slight desaturated light blue when undyed. (Images below) The talents will additionally provide you with a passive: +5 Health, +5 Ether, and +12 Passive Agility.
+
+## Abilities
+
+### Passives
+
+-   **Momentum Bar**
+    -   Your basic momentum will now be visually displayed while sprinting, allowing you to see it build up when sprinting.
+    -   Momentum will drain very rapidly, emptying from 100% to 0% in 0.5 seconds when you stop sprinting, and clearing when doing any action.
+    -   Successfully landing a parry, dodge, crit, or basic attack will now provide 50% momentum.
+    -   At 100% momentum, Jetstriker Mantras deal 20% more damage and are recolored to the dye of the Oath.
+        -   Sliding at 100% momentum will reenable this behavior for the duration of the sprint.
+        -   Climbing, reaching max sprint momentum from an completely empty bar, and vaulting terrain will provide a small 0.5 second window where you can activate this behavior.
+    -   Momentum is tracked as a bar UI indicated next to the player, this is recolored to the dye of the oath at 100% momentum.
+
+### Talents
+
+-   **Acceleration Points** - Striking an opponent in the back with mobility mantras or basic attacks now steals and grants additional momentum. (+5 Passive Agility)
+    -   Provides a slow effect on the opponent for 2.5 seconds, seemingly also preventing momentum gain.
+    -   Activated by landing any basic attack, uppercut, flourish, or critical attack behind an opponent.
+        -   While critical attacks do proc Acceleration Points, they will not benefit from any additional momentum gain to the user. (Other than the pre-existing 50%)
+    -   The slow effect has a cooldown of 2.5 seconds, however the self momentum gain has none.
+
+-   **Decisive Winds** - When damage below 50% health, don an aura of [Decisive Winds](Status_Effects.md#decisive-winds) for 10s. (+5 Ether)
+    -   Decisive Winds grants a 25% speed boost as long as you are within 20 studs the target who initiated this effect.
+    -   Does not proc on self damage.
+    -   30 second cooldown.
+    -   Contrary to the description, the duration is actually 11 seconds.
+    -   Procs through block/parry/dodge, despite the description stating otherwise.
+    -   Opposite to the description, Decisive Wind's has no "aura", there is no SFX or VFX, with the only activation cue for this talent being the [Cooldown Indicator](Combat_Mechanics.md#gui).
+
+-   **Jetstream Pursuit** - Upon a successful flourish, teleport to the opponent when they stop moving. Receive a significant boost of momentum.
+    -   Provides 85% momentum on successful teleport.
+        -   Activates early if target wallbangs.
+        -   Cancels either if the target is not touching the ground when flourish stun ends, or was an uppercut flourish.
+    -   Flourishes procced from specific talents such as [Emperor's Flame](Flamecharm.md#the-emperors-blade) can also activate this talent.
+    -   Has a cooldown of 15 seconds.
+
+-   **Stratos Step** - While wall-boosting, hold space and at the end of the wall-boost, and you will be boosted further upwards. (+5 Health, +3 Passive Agility)
+    -   Hold space while climbing to create up to two "steps" that boost you, and other players upwards.
+        -   In combat you are currently only limited to one "step". (Possibly a bug)
+    -   [Kick Off](Talents.md#kick-off) is greatly recommended as you do not normally gain any fall damage resistance.
+    -   Costs 25 ether each step, cost cannot be reduced, will not activate at 0 ether.
+    -   In combat: has a cooldown of 6 seconds. (Bugged, should be 6-11 seconds, cf. 03/08/2025 patch notes)
+    -   Outside combat: has a cooldown of 5-10 seconds, scaling linearly by user's remaining HP.
+
+-   **Rush of Ancients** - Dashing at maximum sprint momentum makes you one with the wind itself. (+4 Passive Agility)
+    -   Sprinting at maximum momentum, now buffs your rolls/air dashes, increasing distance by 75%, and briefly turning the user invisible.
+    -   Jumping the frame after rolling increases the distance by an additional 70%.
+    -   Other dash boosting talents such as [Phantom Step](Talents.md#phantom-step) with Rush of Ancients will stack, further increasing the roll's distance.
+    -   Rollcasting with Rush of Ancients effectively hides your animations, causing uppercuts, quick mantras, and certain criticals to become completely unreactable.
+    -   If you're using the Phantom Step Talent with Rush of Ancients, the dashes will stack, increasing your dash range. This, however, lacks visuals.
+    -   Outside combat: has a cooldown of 0 seconds.
+    -   In combat: has a cooldown of 8 seconds. (Has no [Cooldown Indicator](Combat_Mechanics.md#gui))
+
+### Mantras
+
+#### Mobility Mantras
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Fake Strike** (☆☆☆)
+
+**Combat Mantra**
+
+_Trick your opponent and quickly go behind them._
+
+ | 
+
+## Fake Strike (☆☆☆)
+
+  
+**Combat Mantra**  
+_Trick your opponent and quickly go behind them._
+
+ |
+| 
+
+45 Ether [IconEther](Ether.md)
+
+ | 
+
+Oath [ResistanceOath](Oaths.md)
+
+ | 
+
+TBA
+
+ |
+| 
+
+**Effect:** _Plays your current M1 animation as an "fake strike", then quickly teleports and strikes behind the target._
+
+-   Deals 21.68 damage per hit (3), adding up to 65.04 Oath damage.
+-   Recolors to your dye and increases base damage by 20% when used at 100% momentum.
+-   Slowly forces the user forwards, preventing user directional input. (Seen below)
+    -   However does not prevent user from sliding, allowing user to move much faster.
+-   The "real strike" hitboxes are in front of the user, allowing the user to purposely rotate and miss to bait out parries.
+-   Has a cooldown of 15 seconds once the move has ended. (Full cooldown on feint/whiff)
+
+ |
+| 
+
+**Jet Kick** (☆☆☆)
+
+**Mobility Mantra**
+
+_Rush forward with a jet kick. Requires a target if you're in combat._
+
+ | 
+
+## Jet Kick (☆☆☆)
+
+  
+**Mobility Mantra**  
+_Rush forward with a jet kick. Requires a target if you're in combat._
+
+ |
+| 
+
+45 Ether [IconEther](Ether.md)
+
+ | 
+
+Oath [ResistanceOath](Oaths.md)
+
+ | 
+
+TBA
+
+ |
+| 
+
+**Effect:** _A simple dash that damages targets it comes in contact with._
+
+-   Deals 38.25 damage.
+-   Recolors to your dye and increases base damage by 20% when used at 100% momentum.
+-   Out of combat, it simply targets in front of the player model, allowing free mobility.
+-   In combat, becomes mouse aimed, can target enemies upwards as well.
+    -   Will also cancel your physical momentum on contact. (Seen below)
+-   Has a cooldown of 13 seconds once the move has ended. (Full cooldown on whiff)
+
+ |
+
+## Notes
+
+-   Using a [Dye Packet](Dye_Packet.md) on the Jetstriker Oath cosmetic will additionally dye the Momentum Bar, Rush of the Ancients vfx, Stratos Steps vfx, and your Jetstriker Mantras if they are used at maximum Momentum.
+-   Neither of the Jetstriker Mantras scale on Agility.
+
+## Trivia
+
+-   Jetstream Pursuit was derived from the old [Legendary Talent](Cut_Content.md#legendary-talent) 'Vanishing Follow-Up', which was removed once Layer 2 was released over combat reworks.
+-   The old [Vigil's Grace](Oath%253A_Jetstriker/Old_Jetstriker.md#abilities) Talent previously had 0 downtime with [Command: Run](Vow_of_Mastery.md#commands), allowing players to infinitely true combo other players with knockdown, leading to the creation of knockdown immunity.
+-   Back when Talent categories had unique lines, the category line for Jetstriker was "Journey before destination."
+-   The old name "Windrunner" and Talent category line for Jetstriker are both references to _The Stormlight Archive_.
+-   Vigil's Grace card had another Oath name instead of Jetstriker, being "Oath: Windrunner"
+-   Rush of Ancients does actually have a miniscule 0.07 second cooldown, this is only viewable if the user clicked roll the frame after using Rush of Ancients.

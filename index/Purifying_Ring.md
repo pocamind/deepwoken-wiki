@@ -1,0 +1,28 @@
+---
+title: Purifying Ring
+revid: 214366
+source: https://deepwoken.fandom.com/wiki/Purifying_Ring
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment, Rings]
+---
+
+# Purifying Ring
+
+| Purifying Ring | |
+|---|---|
+| type | Ring |
+| rarity | Rare |
+| selling price | 25 |
+| requirements | N/A |
+| weight | 0.2 |
+| innate stats | +1 Uncommon Pips |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | No |
+| pass down | Yes |
+| obtainment | Chests from:, Etrea VS Eylis Sea Event, First Layer, Lodestar, Duke Ishamon Erisia, Heart of Enmity, Maestro Evengarde Rest, Dread Serpent, War Mode, Ancient Rotlands (Deep Cave) |
+| description | A silver ring that eradicates the murk in the water surrounding it. |
+
+## Description
+
+**Purifying Ring** is a Ring [Equipment](Equipment.md) piece that allows the user to drink sea-water and acid without vomiting.

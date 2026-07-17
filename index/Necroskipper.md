@@ -1,0 +1,109 @@
+---
+title: Necroskipper
+revid: 216161
+source: https://deepwoken.fandom.com/wiki/Necroskipper
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Monsters, Humanoid Monsters, Humanoids with Unobtainable Outfits]
+---
+
+# Necroskipper
+
+| Necroskipper | |
+|---|---|
+| health | 300 |
+| attacks | Scratch, Flame Ballista (Redskipper), Ice Spikes (Blueskipper), Warden's Blades (Blueskipper) |
+| drops | Lesser Mantra Modifiers & Sparks |
+| locations | Summoned by Ministry Necromancer in Minityrsa |
+
+_This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Mudskipper_(disambiguation).md>)._
+
+## Description
+
+Beings formed out of the remnants of ether-proficient warriors, they are brought back once more in a **group of three** by [Ministry Necromancers](Ministry_Necromancer.md). However, they are only limited to the common elements of [Flamecharm](Flamecharm.md) and [Frostdraw](Frostdraw.md), they seem to have basic proficiencies in these elements, being able to conjure fireballs and ice blades respectively.
+
+Seemingly from the same magic of the Necromancy, they also wear colour-coded armor over a plated outfit that used to be worn by [Iblis](Iblis,_The_Fallen_Angel.md) and [the](Minos,_Sinner_of_Flame.md) [other](Astaroth,_Sinner_of_Wind.md) [sinners](Abaddon,_Sinner_of_Ice.md).
+
+## Moveset
+
+### Redskipper
+
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Scratch**  
+(★☆☆)
+
+ | Weakly scratches opponent over and over again until knocked.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Flame Ballista**  
+(★★☆)
+
+ | Conjures a Flaming Arrow before firing it at an opponent.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
+ |
+
+### Blueskipper
+
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Scratch**  
+(★☆☆)
+
+ | Weakly smacks opponent over and over again until knocked.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Ice Spikes**  
+(★☆☆)
+
+ | The Blueskipper conjures a spike of ice from the ground.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Warden's Blades**  
+(★★☆)
+
+ | User forms 4 ice blades around them before they start to spin at high speeds, dealing light damage and firing off in opposite directions once finished.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+
+## Finisher
+
+| Name | Description |
+| --- | --- |
+| \[Redskipper\] Incineration | \[Redskipper\] The flame status effect from the Flamecharm attunement burns away the opponent's corpse. |
+| Jugular Slice | Pins down opponent before slicing their throat with their thumbnail. |
+
+## Tips
+
+-   Try to hit all of them at once so one doesn't use a Mantra while you're preoccupied with another.
+-   Fighting a [Ministry Necromancer](Ministry_Necromancer.md) at lower levels can be extremely painful and annoying to fight, because if you take too long to kill all three Necroskippers, they'll simply summon another wave.
+-   If you parry the red Necroskipper's fire attack, they'll set themselves on fire, and can deal enough damage to down them, in which case the fire will grip them.
+-   Be careful when fighting at low levels, as Flame Ballista can deal extremely high amounts of damage if not defended against

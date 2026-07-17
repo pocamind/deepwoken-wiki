@@ -1,0 +1,155 @@
+---
+title: Ministry Captain
+revid: 216109
+source: https://deepwoken.fandom.com/wiki/Ministry_Captain
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies, Ministry Enemies]
+---
+
+# Ministry Captain
+
+| Ministry Captain | |
+|---|---|
+| health | 1000 |
+| drops | ??? |
+| weapon | Krulian Knife |
+| moves | Assault, Critical, Shadow Assault, Shadow Roar, Dark Blade, Clutching Shadow, Shadow Eruption, Encircle |
+
+## Description
+
+Ministry Captains are enemy NPCs that can be found in [Minityrsa](Minityrsa.md), around campfires.
+
+They wear a Vagabond's Bicorn, either a [Blindfold](Blindfold.md) or Crimson Blindfold and a [Prophet's Cloak](<Prophet's_Cloak.md>) outfit.
+
+## Moveset
+
+Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcast](Shadowcast.md) attunement:
+
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | User unleashes a quick flurry of slashes.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Shadow Assault**  
+(★★☆)
+
+ | Windup before turning invisible and dashing forward, dealing very minor damage to anyone in front of caster while applying darkness.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⟡ Movement
+
+ |
+| 
+
+**Dark Blade**  
+(★☆☆)
+
+ | The caster dashes forward and does 3 shadow infused slashes with their weapon.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Shadow Roar**  
+(★☆☆)
+
+ | Releases a roar of shadow and Debris in the direction of the enemy doing minor damage.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Shadow Eruption**  
+(★☆☆)
+
+ | The user makes a swipe with their right hand before releasing a large sphere of shadow.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Clutching Shadow**  
+(★☆☆)
+
+ | The caster raises their their hand and lifts one target in the air, then proceeds to slam them in the ground.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
+
+ |
+| 
+
+**Encircle**  
+(★☆☆)
+
+ | The caster conjures shadows around the enemy that deals damage and teleports the caster towards them.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
+
+ |
+
+### Boons
+
+-   Third Eye - A Ministry Captain cannot be assassinated under any circumstances.
+
+### Talents
+
+-   Finishing Touch - Instantly execute enemies finished with the critical attack of your dagger.
+-   Successive Throw - When you successfully flourish an enemy, you throw out a dagger afterwards
+-   Pressure Detonation - Block breaking an opponent with a shadow mantra generates a small vacuum that suffocates those hit.
+-   Dark Hours - Shadowcast mantras deal more damage at night.
+-   Dark Rift - Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
+-   Dark Synergy - Engulf your enemy in shadows when flourishing them.
+-   Singularity - Enemies will briefly hang in place when hit by a shadow move.
+-   Blackhole - Your singularity pulls everyone nearby in.
+
+## Finisher
+
+| Name | Description |
+| --- | --- |
+| Execute | Pins down opponent and slices their throat with the Krulian Knife. |
+
+## Trivia
+
+-   Ministry Captains are identical in appearance to [Ministry Scout](Ministry_Scout.md), yet hold a higher rank.
+    -   This trend can also be seen with [Apprentice Divers](Apprentice_Diver.md) and regular [Divers](Diver.md).
+    -   They are NOT to be confused with their scout variant, as using a light approach on them will almost always result in death for their higher HP pool and their variety of attacks along with them spawning in packs of 3.
+    -   The only way of telling them apart is seeing if they use shadow roar or not.

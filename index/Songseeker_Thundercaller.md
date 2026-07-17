@@ -1,0 +1,170 @@
+---
+title: Songseeker Thundercaller
+revid: 219540
+source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies, Songseekers, Humanoids with Unobtainable Outfits]
+---
+
+# Songseeker Thundercaller
+
+| Songseeker Thundercaller | |
+|---|---|
+| health | 900 |
+| drops | Spark Gland, Aspirant Mask |
+| weapon | Fists |
+| moves | Assault, Critical, Jolt Grab, Lightning Impact, Storm Blades, Lightning Assault, Lightning Stream |
+
+**Songseeker Thundercallers** are a [humanoid enemy](Enemies.md) in _Deepwoken_.
+
+## Description
+
+A Songseeker Thundercaller is an enemy NPC that can only be found in [Songseeker Wilds](Songseeker_Wilds.md). They can appear in Random Encounters or on fixed spawns in [Songseeker Wilds](Songseeker_Wilds.md).
+
+A Songseeker Thundercaller wears an Aspirant Mask (Gold) and an Unknown/Unlisted outfit, varying with their [aspect](Aspects.md) and gender.
+
+A Songseeker Thundercaller's arsenal consists of [Fists](Fists.md) **(Way of Navae)** and the [Thundercall](Thundercall.md) attunement:
+
+## Moveset
+
+A Songseeker Thundercaller's arsenal consists of [Fists](Fists.md) **(Way of Navae)** and the [Thundercall](Thundercall.md) attunement:
+
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Raises left leg before slamming it to the ground below.
+
+-   𓆩✧𓆪 Parryable
+-   ⛉ Unblockable
+-   § Dodgeable
+
+ |
+| 
+
+**Jolt Grab**  
+(★★☆)
+
+ | Dashes forward grabbing someone into a chokehold and electrocuting them.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
+
+ |
+| 
+
+**Lightning Impact**  
+(★★☆)
+
+ | Rises into the air slamming back down with lightning empowered kick.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Storm Blades**  
+(★★☆)
+
+ | Conjures blade shaped lightning that shocking anyone within.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Lightning Assault**  
+(★★☆)
+
+ | Rushes forward like a bolt of lightning.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⟡ Movement
+-   ⛧ Teleport
+
+ |
+| 
+
+**Lightning Stream**  
+(★☆☆)
+
+ | A stream of lightning that hooks onto an opponent before shocking them multiple times.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ✴︎ Pull
+
+ |
+| 
+
+**Vent**  
+(★☆☆)
+
+ | An explosion of blue ether around the user that pushes opponents away.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ☕︎ Harmless
+
+ |
+
+### Boons
+
+-   Third Eye - A Songseeker Thundercaller cannot be assassinated.
+
+### Talents
+
+-   Everchanging Aegis - A Songseeker Thundercaller take 20% less from attacks the same element as the last element they were hit with, but 10% more damage from attacks from different element.
+-   Perfect Flash - Having full health causes a Songseeker Thundercaller's mantras to do 25% extra damage.
+-   Resolve Crusher - A Songseeker Thundercaller's lightning moves now have a chance to apply "Electrify", attacks from electrified opponents are converted into lightning damage, but will deal 10% less damage to the Songseeker Thundercaller.
+-   Jolting Current - A Songseeker Thundercaller's lightning attacks in water strike others near them with lightning.
+-   Static Link - Whenever A Songseeker Thundercaller flourishes or uppercuts an enemy, they create a static link between them and their enemy. Songseeker Thundercaller's lightning stuns enemies for 1.5x as long.
+-   Static Ace - A Songseeker Thundercaller's Lightning Stream with an active tether links the targets to the closest active link.
+-   Static Allure - Having two active tethers will cause the previous tethered enemy to get magnetized to the Songseeker Thundercaller's newest tethered enemy, also increases the duration of tethers by 15 seconds.
+-   Discharge - Every 5th successful attack of a Songseeker Thundercaller, they will discharge static dealing lightning damage to those nearby.
+-   Stratoshock - The lightning of a Songseeker Thundercaller deal an additional +5% damage on the rain.
+
+## Finisher
+
+A Songseeker Thundercaller executes it's opponent after knocking them:
+
+| Name | Description |
+| --- | --- |
+| Execute | Pins down opponent before firmly bashing their face. |
+
+## Tips
+
+-   Despite being immune to [assassination](Stealth.md), the player can still sneak behind and use a powerful mantra to pile up some good damage.
+-   Constantly flourishing them/using Mantras will prevent them from spamming Mantras.
+-   Lightning Stream can be extremely dangerous, especially if a Flame Songseeker fires a fully charged flame ballista while you're being dragged towards the caster of the stream. It can also make fleeing difficult.
+-   Songseeker Thundercallers can pose a significant threat if paired with a Songseeker Flamecharmer or a Songseeker Frostdrawer. Always attempt to block Lightning Stream to avoid losing control of the fight and being put into close proximity of all of the Songseekers at once.
+
+## Trivia
+
+-   **Songseekers** use the following outfits made by **SirAndrove2**:
+-   [https://www.roblox.com/catalog/6842791234/Aldritch-Devourer-of-Gods](https://www.roblox.com/catalog/6842791234/Aldritch-Devourer-of-Gods) - Shirt
+-   [https://www.roblox.com/catalog/6842793449/Aldritch-Devourer-of-Gods](https://www.roblox.com/catalog/6842793449/Aldritch-Devourer-of-Gods) - Pants

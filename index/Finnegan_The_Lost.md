@@ -1,0 +1,147 @@
+---
+title: Finnegan The Lost
+revid: 216159
+source: https://deepwoken.fandom.com/wiki/Finnegan_The_Lost
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies, The Depths, Random Encounters, Deepdelvers]
+---
+
+# Finnegan The Lost
+
+| Finnegan The Lost | |
+|---|---|
+| health | 12,000 |
+| drops | BoltcrusherIron Requiem (Very Rare) |
+| weapon | Boltcrusher |
+
+## Description
+
+**Finnegan The Lost** or the Drowned Delver is an enemy found in the [First Layer](First_Layer.md) as the primary objective for the "Drowned Delver" job. They wield [Thundercall](Thundercall.md) and [Ironsing](Ironsing.md), coupled with their signature [Boltcrusher](Boltcrusher.md). They have a somewhat large health pool and do a decent amount of damage.
+
+Although the Drowned Delver job can be rarely seen offered by [The Ignition Union](The_Ignition_Union.md) at the Job Board located in [The Chariot's Spire](<The_Chariot's_Spire.md>), there is a tiny chance that it can be a [Diver](The_Divers.md)\-affiliated job at [Castle Light](Castle_Light.md) or [The City of the Drowned](The_City_of_the_Drowned.md).
+
+  
+
+## Moveset
+
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Finnegan performs 3 basic attacks before sending the opponent away with a flourish.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Normal Critical**  
+(★★☆)
+
+ | Finnegan flips the Boltcrusher backwards before slamming it into the player, followed by a twirling strike that sends them flying.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
+ |
+| 
+
+**Running Critical**  
+(★★☆)
+
+ | If Finnegan is running towards the player when they use their critical, their critical is instead a short dash forward followed by a devastating lightning-charged slam.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤓ Knockdown
+
+ |
+| 
+
+**Grand Javelin**  
+(★★☆)
+
+ | Finnegan conjures a lance of Thundercall and throws it towards the player.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
+ |
+| 
+
+**Iron Tether**  
+(★☆☆)
+
+ | Finnegan conjures cubes of Ironsing and tethers them together with Thundercall.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Metal Ball**  
+(★★☆)
+
+ | Finnegan wraps themselves in a spiked metal ball and rapidly rolls towards the player.
+
+currently bugged the mantra won’t hit until end of attack nor will you be able to parry or block it until it ends only for Finn
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⟡ Movement
+-   ⤓ Knockdown
+
+ |
+| 
+
+**Emotion Wave**  
+(★★☆)
+
+ | Finnegan summons a lightning bolt in their free hand and slams it into the ground, sending forth a cascading omnidirectional wave of lightning.
+
+-   ⚠︎ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
+ |
+
+## Dialogue
+
+Finnegan retains his ability to speak and usually says phrases when he spawns such as:
+
+-   "Just a bit further, Finn. Just a bit further."
+-   "I´ll find it. I´ll find it. I´ll find it."
+-   "JUST.. LEAVE ME ALONE!"
+-   "NGAHHH! YOU WON'T TAKE HER!"
+-   "GET OUT OF MY HEAD.."
+
+## Finisher
+
+| Name | Description |
+| --- | --- |
+| Execute | User pins down opponent while raising their weapon before firmly bashing the opponent's face in. |
+
+## Tips
+
+-   The Drowned Delver can be led to [Light's Causeway](<Light's_Causeway.md>), greatly lessening the difficulty of the fight.
+-   can be led to castle of light getting auto gripped (won’t drop chest but will drop boltcrusher after this death)
+
+## Trivia
+
+-   Finnegan hails from the Ignition Union, and is speculated to be a Deepdelver who wielded the first prototype of the Union's explosive picks - The Boltcrusher.
+-   Finnegan is searching for something, but it's unclear what it is, or if it even exists. He also mentions a 'her' when spawning in, which may refer to a loved one or simply the Boltcrusher he's holding.
+-   Finnegan calls for backup if the fight takes too long, summoning a Lightning Clone of himself.
+-   Members of the Ignition Union are hostile towards Finnegan and will attack if they see him. (Tested at Chariot's Spire)

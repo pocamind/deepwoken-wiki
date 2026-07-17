@@ -1,0 +1,103 @@
+---
+title: Hive Scout
+revid: 216111
+source: https://deepwoken.fandom.com/wiki/Hive_Scout
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies, Enemies that can wield Enchantments, Hive Enemies]
+---
+
+# Hive Scout
+
+| Hive Scout | |
+|---|---|
+| health | 400 |
+| drops | None |
+| weapon | Iron Birch, Razor Cutlass, Ritual Spear |
+| moves | Assault, Critical, Fire Blade, Revenge, Flame Assault |
+
+## Description
+
+Hive Scouts are footsoldiers of [The Hive](The_Hive.md) that can spawn in the following events:
+
+-   Hive Scouts vs [Vigil Swordsmen](Vigil_Swordsman.md) ([Starswept Valley](Starswept_Valley.md))
+-   Hive Scouts vs. [King Thresher](Thresher.md) ([Starswept Valley](The_Starswept_Valley.md))
+
+They wear pair of [Woodland Pauldrons](Woodland_Pauldrons.md) and [Woodland Boots](Woodland_Boots.md) along with a pair of either [Crystal Pendant Earrings](Crystal_Pendant_Earrings.md) or [Dew Drop Earrings](Dew_Drop_Earrings.md). In addition, they also wear the [Hive Drone](Hive_Drone.md) [Outfit](Outfits.md).
+
+## Moveset
+
+A Hive Scout's arsenal consists of either an [Iron Birch](Iron_Birch.md), [Razor Cutlass](Razor_Cutlass.md), or a [Ritual Spear](Ritual_Spear.md) along with the [Flamecharm](Flamecharm.md) attunement:
+
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | \[[Iron Birch](Iron_Birch.md)\] Raises axe before slamming it down to the ground.
+
+\[[Razor Cutlass](Razor_Cutlass.md)\] Reels weapon back before delivering a strong stab.  
+\[[Ritual Spear](Ritual_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands.
+
+-   The Iron Birch critical is not blockable.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Fire Blade**  
+(★★☆)
+
+ | User slams down with their blade coated in flames.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |
+| 
+
+**Flame Assault**  
+(★★☆)
+
+ | Caster dashes forward covered in flames; knocking down whoever is in its path.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⟡ Movement
+
+ |
+| 
+
+**Revenge**  
+(★☆☆)
+
+ | A quick dash signified by a red-line effect, which teleports the user some distance forward upon activation.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⛧ Teleport
+
+ |
+
+### Talents
+
+-   Nullifying Clarity - Deal 10% more damage to enemies with status effects on them with your basic attacks, but the effect is removed on impact.
+-   Hard Read - Hitting your opponent during a feint will cause them to be dazed.

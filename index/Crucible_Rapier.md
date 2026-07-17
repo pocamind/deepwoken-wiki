@@ -1,0 +1,57 @@
+---
+title: Crucible Rapier
+revid: 212365
+source: https://deepwoken.fandom.com/wiki/Crucible_Rapier
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons, Weapons with Talents]
+---
+
+# Crucible Rapier
+
+| Crucible Rapier | |
+|---|---|
+| type | Rapier |
+| damage type | Slash |
+| requirements | 75 LHT |
+| damage | 15 |
+| scaling | LHT: 8 |
+| posture damage | 5 |
+| range | 8 Lunge |
+| swing speed | 1.1x |
+| attack duration | 0.5s |
+| penetration | 20% |
+| talent | Punishing Riposte - When parrying a guardbreak, enhance your critical for the next 15 seconds. If you land your crit on your opponent's block while it is enhanced, immediately guardbreak your opponent. |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Apprentice Rapier |
+| m.compatible | Rapiers |
+| stances | 1 Handed |
+| rarity | Legendary |
+| selling price | 50 |
+| weight | 2 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Starswept Valley, Megalodaunt Ship Event, Rogue Construct, Saramaed Hollow |
+| description | It is said that Celtor nobility once dueled with these regal arms, over their disputes now buried. While their home is now lost, their arms remain. |
+
+## Description
+
+The Crucible Rapier is around the same as the [Apprentice Rapier](Apprentice_Rapier.md) and [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), not having too much of a difference except for higher damage & scaling plus a 20% penetration stat. It can be obtained in [Starswept Valley](Starswept_Valley.md) as well as the [Rogue Constructs](Rogue_Construct.md) at [Minityrsa](Minityrsa.md).
+
+## Talents
+
+Equipping the Crucible Rapier grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+**Punishing Riposte** procs after parrying any instant guard break attack, applying the [Punishing Riposte](Status_Effects.md#punishing-riposte) status effect to the user for 15 seconds. While under the effects of Punishing Riposte, your critical attack will guaranteed guardbreak if blocked.
+
+## Critical
+
+Crucible Rapier uses the default Rapier critical, thrusting the weapon 4 times. Each hit has a scaled damage multiplier of **0.7x**. It has a cooldown of **3 seconds**.
+
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
+
+## Trivia
+
+-   The Crucible Rapier bears a strong resemblance to [Velka's Rapier](https://darksouls.fandom.com/wiki/Velka%27s_Rapier) from the _Dark Souls_ series.

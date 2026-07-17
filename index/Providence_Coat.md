@@ -1,0 +1,35 @@
+---
+title: Providence Coat
+revid: 218675
+source: https://deepwoken.fandom.com/wiki/Providence_Coat
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment, Arms, Coats, Equipment with Talents, "Equipment with Non-exclusive Talents"]
+---
+
+# Providence Coat
+
+| Providence Coat | |
+|---|---|
+| type | Arms |
+| rarity | Legendary |
+| selling price | 50 |
+| requirements | Power 8 |
+| weight | 2 |
+| innate stats | +5 Health , +2 Rare Pips |
+| innate talent | Braced Collapse |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Chests from:, First Layer, Fishing, War Mode, Primadon |
+| description | ... |
+
+## Description
+
+The Providence Coat is an [Equipment](Equipment.md) item under the "Arms" category.
+
+The [Braced Collapse](Talents.md#braced-collapse) Talent reduces the damage taken by attacks after being guard broken.
+
+## Trivia
+
+-   The appearance of the item is a reference to Dante's outfit in _Devil May Cry 5_.

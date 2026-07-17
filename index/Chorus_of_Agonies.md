@@ -1,0 +1,53 @@
+---
+title: Chorus of Agonies
+revid: 215128
+source: https://deepwoken.fandom.com/wiki/Chorus_of_Agonies
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons, Legendary Weapons]
+---
+
+# Chorus of Agonies
+
+| Chorus of Agonies | |
+|---|---|
+| type | Greataxe |
+| damage type | Slash |
+| requirements | 100 HVY, 20 STR, LVL 10 |
+| damage | 27 |
+| scaling | HVY: 11 |
+| posture damage | 10 |
+| range | 10 Sweep |
+| swing speed | 0.7x |
+| attack duration | 1.1s |
+| endlag | 0.15s |
+| chip damage | 25% |
+| m.equip | No |
+| m.extract | No |
+| stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | Unique |
+| selling price | 100 |
+| weight | 2 |
+| bankable | Yes |
+| droppable | No |
+| enchantable | No |
+| pass down | Yes |
+| obtainment | Heart of Enmity |
+| description | Towering over the trial like a monument, Enmity's presence draws the very air from your lungs, oppressive and unyielding, as if it too was full of scorn. Now in your grasp, the vile axe pulses with a dreadful rhythm, a heartbeat woven from the anguish of innumerable tortured souls. The air thickens under its weight, every inch of the weapon's twisted form resenting its own existence. The damned enforcers within wail for release, their mournful song clawing at your spirit. Yet, stood firm, you meet the abyss with defiance. The Chorus of Agonies envelops you. |
+
+## Description
+
+The **Chorus of Agonies** is a Unique tier Legendary [Greataxe](Weapons.md); a massive, skeletal dark axe stained with blood, pulsating with the [souls twisted and damned](The_Enforcer.md) by the Trial, begging for their release. It can be obtained as a direct drop from the [Heart of Enmity](Heart_of_Enmity.md) or from one of its chests.
+
+Similar to all other drops from the Heart of Enmity, it automatically Soulbounds.
+
+## Critical
+
+The user stomps the ground, applying Knockdown and Daze to those hit. If landed, the attack will follow up with an overhead strike that sends the opponent away. The first hit deals **0.5x scaled damage**, while the second deals **1x** (for a total of **1.5x scaled damage**).
+
+The critical has a cooldown of **10 seconds**.
+
+## Trivia
+
+-   This weapon previously had the highest posture damage stat of any weapon in the game at 15.
+-   Used to have a [Strength](Strength.md) requirement of 80, however this was reduced down to 20 shortly after the weapon released.
+-   This weapon does not have a visible swing trail.

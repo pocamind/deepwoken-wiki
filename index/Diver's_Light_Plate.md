@@ -1,0 +1,41 @@
+---
+title: "Diver's Light Plate"
+revid: 209935
+source: https://deepwoken.fandom.com/wiki/Diver's_Light_Plate
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment, Arms, Plates, The Divers, Equipment with Talents, "Equipment with Non-exclusive Talents"]
+---
+
+# Diver's Light Plate
+
+| Diver's Light Plate | |
+|---|---|
+| type | Arms |
+| rarity | Mythical |
+| selling price | 100 |
+| requirements | Power 12 |
+| weight | 2 |
+| innate stats | +10 Health +1 Posture , +3 Legendary Pips |
+| innate talent | Conquer Your Fears |
+| bankable | Yes |
+| droppable | No |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Completing Hell Mode |
+| description | ... |
+
+## Description
+
+Diver's Light Plate is an [Equipment](Equipment.md) item under the "Arms" category.
+
+[Conquer Your Fears](Talents.md#conquer-your-fears) recovers your sanity when you kill depths Monsters and additionally grants sanity restoration when allies grip enemies near you.
+
+The Diver's Light Plate can only be obtained by surviving [Hell Mode](Hell_Mode.md) (Given to your inventory just like [Ardour Manifestation](Ardour_Manifestation.md)). Ringing the [Hell Mode](Hell_Mode.md) bell, and staying alive until 100+ mobs are defeated, is guaranteed to grant you it.
+
+## Trivia
+
+-   Formerly stood as the best arms equipment, but with the addition of the Bastions of Enmity Armor in the December 23rd, 2024, update, it is now second, along with the [Grand Fisher Plate](Grand_Fisher_Plate.md) which can be considered its near-identical, easier to get alternative, but with the cost of a minor speed downside.
+-   The best HP kit for this equipment without Drowned enchant is 37 HP and 2% PHY Armor.
+-   This armor can't be dropped by the user. Transmogrifying it as a **vanity** also turns that equipment into a semi-soulbound item, where it is completely **undroppable** by any means (including death,) transmogging the light plate as the vanity piece makes the piece **unable** to be banked unless enchanted.
+-   Can be obtained without killing any monsters during [Hell Mode](Hell_Mode.md). You just need to ring the bell and stay in the server when hell mode begins and ends.
+-   This armor looks very similar to the pre-verse 2 Black Diver Outfit and takes clear inspiration from Bondrewd's outfit from the anime and manga series _Made in Abyss_.

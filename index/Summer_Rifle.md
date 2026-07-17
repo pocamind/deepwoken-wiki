@@ -1,0 +1,47 @@
+---
+title: Summer Rifle
+revid: 220316
+source: https://deepwoken.fandom.com/wiki/Summer_Rifle
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Weapons, Rifles, Medium Weapons, Weapons of The Summer Company]
+---
+
+# Summer Rifle
+
+| Summer Rifle | |
+|---|---|
+| type | Rifle |
+| damage type | Blunt |
+| requirements | 40 MED |
+| damage | 17 |
+| scaling | MED: 6 |
+| posture damage | 4 |
+| range | 8 Sweep |
+| swing speed | 1x |
+| m.equip | No |
+| m.extract | No |
+| stances | 2 Handed |
+| rarity | Uncommon |
+| selling price | 14 |
+| weight | 2 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Chests from:, Chime of Conflict, The Depths, Bounty Hunting, Deep Widow, Fishing, Saramaed Hollow, Sea Events, Moon's Eyrie, Pure Erisore turn in |
+| description | A standard issue firearm produced by the Summer Company. A reliable firearm, though somewhat less elegant than their more expensive models. |
+
+Variants: [Winter Rifle](Winter_Rifle.md)
+
+## Description
+
+The Summer Rifle is a Medium Weapon, part of the Rifle category. It serves as an introduction to Rifles, being the one with the lowest requirements (40 MED), though ironically it's quite rare.
+
+## Critical
+
+Summer Rifle uses the default Rifle critical, firing a projectile. It has a scaled damage multiplier of **1.35x** and a cooldown of **3 seconds**. This critical's damage will lessen the farther the projectile travels.
+
+## Trivia
+
+-   This item is a crafting component for the [Winter Rifle](Winter_Rifle.md).
+-   Damage wise, this weapon is an extremely close sidegrade to the [Iron Blunderbuss](Iron_Blunderbuss.md) at high investment.

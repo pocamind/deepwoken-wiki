@@ -1,0 +1,134 @@
+---
+title: Moss Knight
+revid: 215809
+source: https://deepwoken.fandom.com/wiki/Moss_Knight
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Monsters, Knights]
+notices:
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+---
+
+# Moss Knight
+
+| Moss Knight | |
+|---|---|
+| health | ~2060 |
+| attacks | Slash, Kick, Wind Cutter, Terra Eruption, Lifeweave Flourish |
+| drops | ?? |
+| locations | Bluster Rapids, The Starswept Valley |
+
+Variants: [Stone Knight](Stone_Knight.md) · [Star Knight](Star_Knight.md)
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
+
+## Description
+
+Moss Knights a type of [Stone Knight](Stone_Knight.md), spawning along [The Starswept Valley](The_Starswept_Valley.md) and the [Bluster Rapids](Bluster_Rapids.md). They appear to be covered in green moss and grasses with some sort of glowing fungi acting as their eyes.
+
+## Moveset
+
+| Name/Danger | Description | Media |
+| --- | --- | --- |
+| 
+**Slash**  
+(★☆☆)
+
+ | Swings its sword at the opponent once or twice.
+
+-   **Insta-executes the player if health is low.**
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |  |
+| 
+
+**Kick**  
+(★★★)
+
+ | Deftly kicks the opponent with added momentum from its body.
+
+-   Deals extra damage and dazes if the player is slammed against a wall.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
+
+Dodge
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
+ |  |
+| 
+
+**Wind Cutter**  
+(★★☆)
+
+ | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to [Wind Blade](Wind_Blade.md).
+
+-   Deals Galebreathe damage.
+
+-   𓆩✧𓆪 Parryable
+-   ⛊ Blockable
+-   § Dodgeable
+
+ |  |
+| 
+
+**Terra Eruption**  
+(★★☆)
+
+ | Punches the ground, causing a pillar to erupt below the player.
+
+-   The next attack from the Stone Knight is guaranteed to hit if the player is hit by Terra Eruption first.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#dodge)
+
+Dodge
+
+-   ☣ Unparryable
+-   ⛊ Blockable
+-   § Dodgeable
+-   ⤻ Ragdoll
+
+ |  |
+| 
+
+**Lifeweave Flourish**  
+(★★☆)
+
+ | Spawns a few temporary trees within 1 second. These trees last for 4 and do not have collisions and just obscure your view. They will make a wood-looking particle when they are about to dissapear.
+
+-   This move is sometimes paired with Terra Eruption.
+
+-   ⚠︎ Unparryable
+-   ⛉ Unblockable
+-   ↻ Undodgeable
+-   ☕︎ Harmless
+
+ |  |
+
+### Passives
+
+-   **Celestial Stone -** Stone Knights have 55% Slash Resistance.
+-   **Artificial Construct -** [Bloodless Gem](Bloodless_Gem.md) doesn't work on Stone Knights.
+-   **Monster Resistance** - Physical attacks deal ??? less damage to Stone Knights.
+
+## Tips
+
+-   Usually, after every move, you can get 3-2 basic attacks off, unless they use the single swing, in which only go for one.
+-   In order to dodge the Terra Eruption, do a full dodge instead of a roll cancel.
+-   All of the Stone Knight's moves can be dodged with little consequence, with the exception of the double slash.
+-   You can right-click after getting kick or hit with Terra Eruption to cancel the ragdoll.
+
+## Trivia
+
+-   There are a few static Moss Knight spawns throughout [Vow of Iron](Vow_of_Iron.md), either appearing in groups or solo.

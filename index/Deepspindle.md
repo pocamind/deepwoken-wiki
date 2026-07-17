@@ -1,0 +1,73 @@
+---
+title: Deepspindle
+revid: 211419
+source: https://deepwoken.fandom.com/wiki/Deepspindle
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Weapons that cannot be equipped on Silentheart, Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Light Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
+---
+
+# Deepspindle
+
+| Deepspindle | |
+|---|---|
+| type | Rapier |
+| damage type | Slash |
+| requirements | 50 LHT, 75 SDW |
+| oath | Silentheart |
+| damage | 14 |
+| scaling | LHT: 4, SDW: 9 |
+| posture damage | 5 |
+| range | 8 Lunge |
+| swing speed | 1.09x |
+| attack duration | 0.5s |
+| penetration | 20% |
+| special effect | Procs Shadowcast Talents on critical hits.Has synergies with the Deepscorn Casque and Darkened Bastion |
+| m.equip | No |
+| m.extract | No |
+| stances | 1 Handed |
+| rarity | Mythical |
+| selling price | 100 |
+| weight | 2 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | No |
+| pass down | Yes |
+| obtainment | Weird Trader, The Understrand |
+| description | This rapier's blade was not forged in the traditional sense; rather, it was grown from the darkest scoria of the abyss, taking shape as a twisting, malevolent shadow. Tales speak of a noble warrior from Celtor who, after discovering ancient ministry passages, was consumed by a twisted curiosity and nurtured this vile blade. As the dark ritual progressed, the warrior's soul was pulled deeper into darkness, their essence decaying and their mind unraveling into madness. Ultimately succumbing to the depths, thus stirs the Deepspindle. |
+
+## Description
+
+The **Deepspindle** is a Legendary [Rapier](Weapons.md#rapiers); a malevolent manifestation of shadow forged into a curving assemblage of black tendrils drawing long into a sharp point, the blade of the rapier.
+
+This weapon comes with the following passive:
+
+-   **Understrand's Connection** - Utilizing the Deepspindle with [Darkened Bastion](Darkened_Bastion.md)'s Withering Soul equipped will apply 25% of your weapon's scaled damage as Wither on M1s. The self-damage inflicted by the running critical is removed with [Deepscorn Casque](Deepscorn_Casque.md)'s Already Dead talent.
+
+The Deepspindle can be acquired as a guaranteed drop from a Ministry Cache Agent, or by chance from a random related event:
+
+1.  Obtain [Shadow Travel](Talents.md#shadow-travel) or [Shadow's Flight](<Shadow's_Flight.md>) by crafting two [Void Feathers](Void_Feather.md) and an [Umbral Obsidian](Umbral_Obsidian.md) together.
+2.  Find an [Understrand](Understrand.md) entrance. The entrance can spawn as a part of [Silhuett's](Silhuett.md) event, or as a random spawn in the following area, signified by their purple glow and the hex circle:
+    -   [Outpost Antumbra](Outpost_Antumbra.md)
+    -   [Minityrsa](Minityrsa.md)
+    -   [The City of the Drowned](The_City_of_the_Drowned.md)
+3.  Use [Shadow Travel](Talents.md#shadow-travel) or [Shadow's Flight](<Shadow's_Flight.md>) on the hex circle. You will be teleported to a Ministry Cache and the fight will be initiated.
+    -   Depending on the type of event, the fight will initiate differently: [Silhuett's](Silhuett.md) entrance always guarantee a [Ministry Agent](Ministry_Agent.md), while random spawned entrances will have the fight differ regarding your reputation with the Ministry.
+    -   The guaranteed drops from Silhuett's event can only be obtained once per slot; corresponding fights with the Ministry Agent will only guarantee the [Deepscorn Casque](Deepscorn_Casque.md).
+    -   Assuming Ally reputation with [The Ministry](The_Ministry.md), Silhuett's event's fight can be skipped immediately, giving you all the items; while random spawned events will allow you to fight a [Black Diver](<Black_Diver_(NPC).md>) or [Mudskipper Broodlord](Mudskipper_Broodlord.md) instead. Low/Neutral reputation random encounters will still have you fight the Ministry Agent, but will not guarantee drops like [Silhuett's](Silhuett.md) event. It should be mentioned that Broodlords and Black Divers WILL drop the same chest as the Agent, so these may be better grinding options for some, as their health pools are significantly smaller and their ai significantly easier.
+
+## Critical
+
+The Deepspindle has two different critical attacks.
+
+For the **standing** critical, the user thrusts the weapon forward with both hands, dealing high posture damage and marking the target with a [red telegraph](Combat_Mechanics.md#red) before erupting in several dark blasts, dealing Shadow damage. The blasts cannot be parried after the initial hit however, you can vent out of it. The standing critical deals 1x scaled damage on the thrust, followed by the blasts dealing 0.2x \* 7 scaled damage, totaling to 2.4x scaled damage.
+
+For the **running** critical, the user stabs the weapon into themselves, dealing self-damage and creating dark bullets. The projectiles will teleport to the target and grant the user the [Dark Rift](Talents.md#dark-rift) state after landing, which has a 20 second cooldown. The self-damage is removed if you have the [Deepscorn Casque](Deepscorn_Casque.md) headgear equipped. Each bullet deals 1x scaled damage, totaling to 2x scaled damage.
+
+Both critical attacks have a cooldown of 9 **seconds**. However, the standing critical's duration lasts for a long time meaning the standing critical effectively has a cooldown of around 6.5 seconds as long as it lands.
+
+## Trivia
+
+-   This item _can_ be dropped.
+-   Ironically, this weapon is longer than the [Crypt Blade](Crypt_Blade.md).
+-   The running critical damage can be negated by the Unique equipment Talent "Already Dead", available by equipping the Deepscorn Casque.
+-   The magic circle sitting on top of the crossguard sports symbols bearing resemblance to the [Ministry](Ministry.md).

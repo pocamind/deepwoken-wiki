@@ -1,0 +1,231 @@
+---
+title: Summer Isle
+revid: 219854
+source: https://deepwoken.fandom.com/wiki/Summer_Isle
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations, Locations in the Eastern Luminant, Territory of The Summer Company]
+---
+
+# Summer Isle
+
+LocationL Summer Isle LocationR
+
+TERRITORY OF The Summer Company
+
+The smell of gunpowder blankets this tropical paradise.
+
+  
+
+**Summer Isle** is a populated island in [The Aratel Sea](The_Aratel_Sea.md), it is [The Summer Company](The_Summer_Company.md)'s headquarters and is the only location with access to firearms and Hunter's Braces for sale.
+
+One of the most eventful populated islands in the Eastern Luminant, having basically the essentials of starter islands: an inn, guards, training gear along with nice additions, those being ores, more sources of food and NPC events you wouldn't find at Etris, Isle Of Vigils or Greathive Aratel. A good place to quickly resupply your rations and repair/gather equipment, and enjoy the tropical scenery.
+
+## Points Of Interest
+
+### The Castle
+
+#### Gunsmiths
+
+Main Article - [Guns](Guns.md) The Summer Isle's main attractions are the firearms, which can be found inside the main building at the gunsmith, the prices being:
+
+-   [Flintlocks](Flintlock.md) - 100 Notes. The first guns the player to access early-game, dealing 11 damage on hit.
+-   Req: 20 LHT.
+
+-   [Repeaters](Repeater.md) - 200 Notes. Similar to the flintlocks with a slight increase in damage (14) and a massive increase in swing speed. (M1's flow into each other, spammable)
+-   Req: 65 LHT.
+
+-   [Dragoons](Dragoon.md) - 500 Notes. Similar to the flintlocks with a massive increase in damage (16), but cooldown increased. (M1 spam combo cannot be used)
+-   Req: 65 LHT.
+
+Notes:
+
+-   [Bullets](Bullet_Casings.md) can be purchased for five notes each, or they by crafted anywhere with one iron, creating 20 bullets per iron.
+-   Firearms also come with an off-hand variant allowing you to dual wield firearms, or use a different weapon with one.
+-   Firearms can be parried, blocked, and dodged like all normal attacks.
+
+#### Funke, Thundercall Trainer
+
+On the second floor of the Summer Company's castle, the [Thundercall](Thundercall.md) trainer [Funke](Funke,_Master_of_Thunder.md) can be found.
+
+-   To unlock Thundercall, the player must bring 5 [Spark Glands](Spark_Gland.md) (2 if previously obtained) to the trainer to be crushed into a vial, obtaining a [Sparkblood](Sparkblood.md) potion.
+-   You can upgrade your Thundercall mantras for 100 notes each, the price increasing by 100 notes with each upgrade on the specific mantra.
+-   Funke wields the [Stormseye](Stormseye.md) when encountered in the [Silentheart](Oath%253A_Silentheart.md) progression.
+-   Summer Isle's [cauldron](Cauldron.md) is located in the same room as Funke.
+
+  
+
+#### Blacksmith
+
+Within the tower on the right side of the castle's entrance stairs.
+
+-   Works like any other blacksmith, won't communicate with you if you have negative rep.
+
+#### Antiquarian
+
+Within the castle's ground floor, situated in the same room as the Gunsmith.
+
+-   Works like any other antiquarian, won't communicate with you if you have negative rep.
+
+#### Modifier Trader
+
+Within the castle's ground floor, on the opposite side of where the Antiquarian/Gunsmith are.
+
+-   You can talk to them even as an enemy of Summer Company.
+
+#### Scope
+
+Within the tower on the left side of the castle's entrance stairs, Scope needs to recover crates filled with explosives that have been stolen by the bandits/Ignition Union, and what other better way to retrieve the crates is there than just sending you to do it.
+
+These boxes of explosives can be found all across Isle, usually being tended to by Summer Company guards post offscreen battle. Returning to Scope with one of these boxes in hand, will net you a chest that will have loot from the item table below, and a small amount of positive reputation with the Summer Company.
+
+Explosive Crate Event
+
+  
+
+#### Shipwright
+
+The Shipwright is located on the rocky beach within a castle like structure.
+
+-   Works like any other shipwright, won't communicate with you if you have negative rep.
+
+### Inn
+
+#### Innkeep
+
+-   Allows you to set your spawnpoint at Summer Isle for 5 notes.
+-   Won't communicate with you if you have negative reputation AND you will be kicked out if you set your spawnpoint at this inn and then get negative reputation.
+
+#### Kujae
+
+-   Can be found outside the Inn
+-   Will give you something random out of his sack for 350 notes.
+
+#### The Guildmaster
+
+-   Allows you to make a guild/leave an existing one.
+
+#### Trig
+
+[Trig](Trig.md) is an NPC at the entrance of the Guildhall/Inn (if you have interest points on, it's marked as Guildhall). His quest sends you to find [Asius](Asius.md), a merchant who hasn't been paying his dues to the Summer Company. Asius can be found behind the Inn if you follow the path leading away from the Inn, in an alcove facing the hive.
+
+You will be given two quest dialogue options after answering why you're meeting him:
+
+1.  I'll see what I can do.
+2.  No you bottom-feeder, hand over the money now or you'll be sinking to the 3rd layer.
+3.  \[ End Dialogue \]
+
+1.  Answering with the first dialogue option and returning to Trig will cause him to send three Summer Company guards after you, and will get you negative Summer Company reputation, and zero EXP if you don't kill the guards.
+2.  Answering the second dialogue option will have Asius reluctantly hand you an invisible stack of ship documents, his vessel sunken at sea and the documents the final few things to show for it. Returning to Trig will have him reward you with not only positive Summer Company reputation and EXP, but will also unlock **a rare Talent called "Armor Piercing" that can be obtained from Talent hands.** (obviously, it affects only guns)
+
+### Reputation Reset
+
+-   Nepo, an NPC found on a bridge can reset your reputation with Summer Company.
+
+### The Furnace
+
+_Main Page: [The Furnace](The_Furnace.md)_
+
+This place contains [Jarvis](Jarvis.md), a NPC who allows you smelt two equipments into one, and an Arena.
+
+### Cave
+
+A cave opening facing the Shipwright's building, easy to spot.
+
+### Circular Structure
+
+-   A circular building located outside of the castle, near the Inn.
+-   In the circular structure, there is a [Blindseer Glyphs](<%253F%253F%253F_(Blindseer_Glyphs).md>), hinting towards how to progress and unlock [Blindseer](Oath%253A_Blindseer.md) mantras.
+
+### Castle Ruins
+
+-   A castle-like building in ruins. Inside, in the room to the left of the entrance, a small crack in the floor can be found, allowing you to drop into a hidden basement containing barrels and, occasionally, chests.
+-   You can get there by taking the zipline on the main castle, and continuing forward.
+-   Additionally, the [Chained Captive](Chained_Captive.md) can be located here if you have spoken with [Vice Warden Morredh](Vice_Warden_Morredh.md).
+
+The Summer Company cannon
+
+### Summer Isle Cannon
+
+-   An enormous cannon lying on the cliffs on the Summer Isle. If a player has negative reputation, the Summer Company will aim the cannon at them, and fire. It fires a hit-scan projectile, that launches players far away, deals a large amount of damage. A horn will play before firing, alerting the player to their imminent demise. The cannon will NOT fire if the player is swimming. If the player is sailing or on the island in front of summer isle, it will fire.
+-   The cannon also serves as a fast travel point to the Songseeker Wilds. Provide 3 [Spider Eggs](Spider_Egg.md) to [The Guy](The_Guy.md) in the cave across from [Meteor Isle](Meteor_Isle.md) at Hive, and then interact with the door at the base of it, and it shoots you over to the Songseeker Wilds. Upon interacting you will fly across the luminant with fire surrounding you as if you were a meteor.
+
+## Missions
+
+Events that spawn in Summer Isle. For more info, see [Random Encounters](Random_Encounters.md).
+
+#### Explosive Crate (QUEST)
+
+-   Summer Company Thugs with dead Ignition Union Footsoldiers, surrounding a crate with explosives, which you can turn in to Scope for a small chest and Summer Company reputation.
+
+#### Bandit Ambush
+
+-   Bandits spawning on the front entrance's stairs in a group of seven, ambushing the castle's entrance.
+-   You will be rewarded with a decent amount of XP upon killing all the seven bandits.
+
+#### Bandits V.S. Summer Company [Summericonfaction](The_Summer_Company.md)
+
+-   Bandit Captains and Bandits fighting with Summer Company Thugs.
+-   You will be rewarded with a small amount of XP and a chest if you help the Summer Company Thugs win.
+
+#### Ignition Union V.S. Summer Company [Summericonfaction](The_Summer_Company.md)
+
+-   Ignition Union Footsoldiers fighting with Summer Company Thugs.
+-   Upon killing two of either faction, a small chest will be rewarded and positive reputation respectively.
+
+#### Ministry Massacre [Ministryiconfaction](Ministry.md)
+
+-   A [Ministry Scout](Ministry_Scout.md) sitting at a campfire with several Bandit corpses around them.
+-   You will be rewarded with a decent amount of XP and a chest upon killing the Ministry Scout.
+
+#### Nomads [Navaeiconfaction](Children_of_Navae.md) V.S. The Ministry [Ministryiconfaction](Ministry.md)
+
+-   One [Eastern Nomad Leader](Eastern_Nomad_Leader.md) and one [Eastern Nomad](Eastern_Nomad.md) fighting off two [Ministry Scouts](Ministry_Scout.md).
+-   Upon killing two of either faction, a small chest will be rewarded and positive reputation respectively.
+
+## Loot Table & Purchasable Items
+
+### Purchasable Items/Blueprints/Weapons
+
+Items and equipment that can be directly bought with currency.
+
+#### Items
+
+-   [Hunter's Brace](<Hunter's_Brace.md>)
+-   [Wood](Wood.md)
+-   [Cloth](Cloth.md)
+-   [Fiber](Fiber.md)
+-   [Flint](Flint.md)
+-   [Bullets](Bullet_Casings.md)
+
+#### Blueprints
+
+-   [Summer Company Uniform](Summer_Company_Uniform.md)
+
+#### Weapons
+
+-   [Flintlock](Flintlock.md)
+-   [Revolver](Revolver.md)
+-   [Dragoon](Dragoon.md)
+-   [Silver Dagger](Silver_Dagger.md)
+
+### Loot Table
+
+Items and equipment that can be obtained from loot chests.
+
+<table><tbody><tr><td><a href="Outfits.md">Outfit Schematics</a></td><td><ul><li><b>Adept</b>: <a href="Summer_Company_Uniform.md">Summer Company Uniform</a></li><li><b>Expert</b>: <a href="Verdant_Sniper.md">Verdant Sniper</a></li><li><b>Master</b>: <a href="Summer_Dragoon.md">Summer Dragoon</a></li></ul></td></tr><tr><td><b>Miscellaneous</b></td><td></td></tr><tr><td><b><a href="Weapons.md">Weapons</a></b></td><td><ul><li><b>Legendary Weapons</b>:</li><li><b>Light Weapons</b>: <a href="Iron_Cestus.md">Iron Cestus</a>, <a href="Dawnshot.md">Dawnshot</a></li><li><b>Medium Weapons</b>: <a href="Trident_Spear.md">Trident Spear</a>, <a href="Cavalry_Saber.md">Cavalry Saber</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Ritual_Spear.md">Ritual Spear</a>, <a href="Gremorian_Longspear.md">Gremorian Longspear</a></li><li><b>Heavy Weapons</b>: <a href="Forge_Greathammer.md">Forge Greathammer</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="The_Barrel.md">The Barrel</a>, <a href="Summer_Hullwrecker.md">Summer Hullwrecker</a></li><li><b>Offhand Weapons</b>: <a href="Dawnshot.md">Dawnshot</a></li></ul></td></tr><tr><td><b><a href="Equipment.md">Equipment</a></b></td><td><ul><li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Tophat.md">Tophat</a></li><li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Aristocrat_Coat.md">Aristocrat Coat</a>, <a href="Sailor's_Fleece.md">Sailor's Fleece</a>, <a href="Bluesteel_Pauldrons.md">Bluesteel Pauldrons</a></li><li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Novice_Boots.md">Novice Boots</a></li><li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Fleet_Warden_Cape.md">Fleet Warden Cape</a></li><li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Rebel's_Bandana.md">Rebel's Bandana</a>, <a href="Summer_Nauticals.md">Summer Nauticals</a>, <a href="Aristocrat_Eyeglasses.md">Aristocrat Eyeglasses</a></li><li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Practicioner's_Earrings.md">Practicioner's Earrings</a></li><li><a href="Equipment.md#rings"><b>Rings</b></a>:</li></ul></td></tr></tbody></table>
+
+  
+
+## Trivia
+
+-   The Summer Isle Cannon can be clipped into, which once allowed for it to be picked up, prior to it being patched.[\[1\]](#cite-note-1)
+-   The music for this area is [Of Smoke And Steel](Of_Smoke_And_Steel.md) by Naktigonis
+-   The combat music for this area is [One For All, All For Gun](One_For_All,_All_For_Gun.md) by Naktigonis
+-   The only place to directly purchase guns in the Eastern Luminant.
+-   [The Meat Lord](The_Meat_Lord.md) has a chance to spawn here.
+-   When a player with bad reputation comes near Summer Isle, the Summer Isle Cannon will activate, giving a warning sound. Then, firing a large cannonball at the player after 3–5 seconds.
+-   The location may be a reference to the historic [Somers Isles Company](https://en.wikipedia.org/wiki/Somers_Isles_Company) and Somers Isles which is now more commonly known as [Bermuda](https://en.wikipedia.org/wiki/Bermuda).
+
+## References
+
+1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=3dp9bymWAIA](https://www.youtube.com/watch?v=3dp9bymWAIA)

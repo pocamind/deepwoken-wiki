@@ -1,0 +1,78 @@
+---
+title: Evengarde Rest
+revid: 219147
+source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Quests, Etrea, Bosses, NPCs located in the Etrean Luminant, Maestros of the Vigils]
+---
+
+# Evengarde Rest
+
+| Evengarde Rest | |
+|---|---|
+| name | Evengarde Rest |
+| alias | Maestro |
+| aspect | Etrean |
+| pronouns | He/him |
+| location | Temple of the Blade |
+| affiliation | Etrea |
+
+Variants: [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) · [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md)
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
+
+## Description
+
+Evengarde Rest is the current [Maestro](Maestro.md) of [the Vigils](The_Vigils.md), having succeeded [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md) and is highly respected by all of them. He resides within the [Isle of Vigils](Isle_of_Vigils.md) and is found in their dojo, watching people train. An intimidating air lingers around him, and it prevents people from introducing themselves to him until they get permission. [The Pathfinder](The_Pathfinder.md) can speak to rest if they save a Vigil swordsman named [Isaac](Vigil_Isaac.md). A master of combat arts, Rest is able to teach them how to overcome the limits of their weapon proficiencies.
+
+As a youth during the [Etrean Civil War](Etrean_Civil_War.md), Evengarde was a known prodigy and departed for the Western Luminant to train with [The Hundred Legions](The_Hundred_Legions.md). [Dravik](Dravik.md) believed that Evengarde was fully capable of defeating [Etrea](Etrea.md)'s [Lord Regent](The_Lord_Regent.md) at the time.[\[1\]](#cite-note-1)
+
+Rest is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence." If you lack 75 points in your weapon type's attribute, he will not uncap it
+
+After you commit various deeds for the good of Etrea, Rest reveals his devotion to the kingdom and his aspirations of felling [the evil that controls it](The_Ministry.md). However, he expresses dissatisfaction at his inability to deter [The Central Authority](The_Central_Authority.md) should Zi'eer be eliminated, which would almost certainly result in them staging a final assault with everything they have. Seeing the assimilation of cultures into the Authority's soulless war machine as a fate worse than even the one the Ministry has in store for them, he can only watch as his people are puppeteered by forces beyond their knowledge and control to their deaths.
+
+## Dialogue
+
+**Base Dialogue:**
+
+<table><tbody><tr><td>Begin Dialogue</td></tr><tr><td colspan="12"><i>*A chilling wind seems to pick up within the room as you approach the man. Something in your gut tells you now isn't the time to introduce yourself.*</i></td></tr><tr><td>[End Dialogue]</td></tr></tbody></table>
+
+**Vigil's Savior:**
+
+This dialogue is unlocked once the player has completed the [Lost Sibling Quest](Temple_of_the_Blade.md#a-lost-sibling-quest) from Apprentice Kj. **Note: This set of dialogue is locked once the player meets the requirements for "Boss Fight Initiation."**
+
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12">Ah, well if it isn't [First Name]. I'm sure we have much to talk about, but let me start by thanking you for saving one of our own. I'm in your debt, truly.</td></tr><tr><td colspan="6">I need training.</td><td colspan="6">Maestro, Etrea needs your help. The Lord Regent must be stopped.</td></tr><tr><td colspan="6">I see... What are you proficient in?</td><td colspan="6"><i>*He grimaces.*</i> Be that as it may, his presence is the only thing standing in the way of a full invasion by the <a href="Glossary.md#the-central-authority">Central Authority</a>. My strength alone cannot hold them back.</td></tr><tr><td colspan="3">I'm not very proficient in anything.</td><td colspan="3">I need training in [Light]/[Medium]/[Heavy] Weapons.</td><td colspan="3">Surely the Authority is better than the state Etrea is in right now?</td><td colspan="3">What if Etrea could stand on its own?</td></tr><tr><td colspan="3">Although you helped us greatly, I do not have the time to teach a true beginner. Come back when you have displayed some level of competence.</td><td colspan="3"><b>MED:</b> Ah, my specialty. Very well, I shall teach you the steps to become a Master.<br><p><b>Other:</b> Ah, I will have to break out Astris and Aeris (LHT)/Galadriel (HVY). Very well, I shall teach you the steps to become a Master.</p></td><td colspan="3">They would strip our blades from our hands and destroy our way of life. Living under the thumb of <a href="Glossary.md#the-central-authority">Authority</a> Peacekeepers is no life at all. I'd sooner fall upon my own blade than submit to those dogs.</td><td colspan="3">Should the tides shift... I would gladly stand at your side in vanquishing that foul creature. For too long has Etrea been subject to the whims of others. Be that the Ministry or the <a href="Glossary.md#the-central-authority">Authority</a>...</td></tr><tr><td colspan="6">[End Dialogue]</td><td colspan="3">What if Etrea could stand on its own?</td><td colspan="3">[End Dialogue]</td></tr><tr><td colspan="6"></td><td colspan="3">[See first instance]</td></tr></tbody></table>
+
+**Boss Fight Initiation:**
+
+This dialogue is unlocked once the player has defeated [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) and has high Ally [Reputation](Reputation.md) with Etrea.
+
+**First Encounter:**
+
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="12"><i>*The Maestro smiles as you approach him.*</i> [First Name], what brings you here?</td></tr><tr><td colspan="12">I feel as if we're underprepared against the Lord Regent.</td></tr><tr><td colspan="12"><i>*He raises an eyebrow.*</i> As much as I hate to admit it.. You may be right. <i>*A moment of silence passes.*</i></td></tr><tr><td colspan="12">..I heard you have an arsenal of weapons in this hall.</td></tr><tr><td colspan="12"><i>*The Maestro appraises you, his eyes flicking towards you.*</i> I suppose I have amassed a collection over the years. However, those days are over now. Most of my blades are now collecting dust.</td></tr><tr><td colspan="12">Could I use them?</td></tr><tr><td colspan="12">Hm? Use them?</td></tr><tr><td colspan="12">I mean, if they're not being made use of there's no harm in it right?</td></tr><tr><td colspan="12">Listen, [First Name]. I personally appreciate what you have done for us. However, there are no ordinary blades. They possess formidable strength behind them.</td></tr><tr><td colspan="12">What if I prove myself? How about a challenge?</td></tr><tr><td colspan="12"><i>*The Maestro smirks, he finds the concept amusing.*</i> A challenge, hm? Very well then, I will test your strength myself.<br><b>HVY</b>: The weapon I will offer you is known as the "Pale Briar." It's a weapon of some significance from the West.<br><b>MED</b>: The weapon I will offer you is known as the "Purple Cloud." It's an ill-tempered blade with a long history.<br><b>LHT</b>: The weapon I will offer you is known as the "Cerulean Thread". It's a fine dagger when coupled with steel wire as its thread.<br>That being said, I have no intention of going easy on you. This polearm (<b>HVY</b>) / blade (<b>MED</b>) / knife (<b>LHT</b>) cannot be handled by the faint of heart.</td></tr><tr><td colspan="12">I'll do it.</td></tr><tr><td colspan="12">[End Dialogue], player is teleported into the dungeon</td></tr></tbody></table>
+
+**Subsequent Encounters:**
+
+<table><tbody><tr><td colspan="12">Begin Dialogue</td></tr><tr><td colspan="6">Maestro Defeated</td><td colspan="6">Maestro Undefeated</td></tr><tr><td colspan="6">*<i>The Maestro smiles</i>*. Ah, well if it isn't my friend, [First Name].<br><font>[Player has obtained a weapon from Evengarde Rest]</font><p>How's "Pale Briar (<b>HVY</b>) / Purple Cloud (<b>MED</b>) / Cerulean Thread (<b>LHT</b>)" treating you?</p></td><td colspan="6">*<i>The Maestro grins.</i>* I'll skip the formalities, I assume you have already practiced after our last bout. Ready for another shot?</td></tr><tr><td colspan="6">We've been well, thank you. Care for another round?</td><td colspan="6">Yes, I'm ready.</td></tr><tr><td colspan="12">Let's see how your skills have improved, eh?</td></tr><tr><td colspan="12">[End Dialogue], player is teleported into the dungeon</td></tr></tbody></table>
+
+## Trivia
+
+-   Kelsius is highly grateful towards Rest for taking him in, in spite of his complicated past as a war criminal.
+-   Has two unique light weapons (Astris and Aeris) and a unique heavy weapon (Galadriel). These are only mentioned during his training and are not shown in-game.
+    -   Galadriel is likely named after Galadriel from _Lord of the Rings_.
+-   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: "Give me a break." "Foolish." "Take that stupid thing off."
+-   Rest is the only NPC to have heterochromia; the presence of different colored eyes in the same person. However his green eye is unlikely to be genetic, rather a product of his Tempest Eye.
+-   His hair ID is : [6101425666](https://www.roblox.com/catalog/6101425666/Dark-Messy-Manbun).
+    -   Evengarde Rest and [Aska](Aska.md) share the same hair id
+-   The coat Rest is wearing is a black [Deepwoken Cloak](Deepwoken_Cloak.md) with bright white dye to obtain the grey.
+    -   A white [Deepwoken Cloak](Deepwoken_Cloak.md) may be dyed grey to obtain the same effect.
+-   After starting the teleport to the fight there is another dialogue box with Evengarde Rest saying "Let's see how your skills have improved, eh?"
+-   If you taunt him during your fight by pressing T, he will immediately activate his Tempest Eye and decapitate you, seeing it as disrespectful.
+    -   The Tempest Eye is only actually capable of sensing movement rather than providing strength-based utility, so his usage of it is solely theatrical.
+
+## References
+
+1.  [↑](#cite-ref-1) NPC dialogue: [Dravik, the Rat King](Dravik,_the_Rat_King.md)  
+    _All of this for Zi'eer, eh? Well, if I'm being honest, he might be a bit out of your league, kid. The only person I know who might be capable of taking on him was a young prodigy from the Blade Temple. He's off training in the West with the Hundred Legions now... I don't really blame him - the Blade Temple is a shadow of it's former self._

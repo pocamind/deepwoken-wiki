@@ -1,0 +1,63 @@
+---
+title: Legion Kata
+revid: 206270
+source: https://deepwoken.fandom.com/wiki/Legion_Kata
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Weapons, Criticals with M1 tag, Fists, Fighting Styles, Light Weapons, The Hundred Legions]
+---
+
+# Legion Kata
+
+| Legion Kata | |
+|---|---|
+| type | Fist |
+| damage type | Blunt |
+| requirements | Legion Kata Talent |
+| damage | 12 |
+| scaling | LHT: 7 |
+| posture damage | 3 |
+| range | 6 Sweep |
+| swing speed | 1.13x |
+| attack duration | 0.5s |
+| m.equip | No |
+| m.extract | No |
+| stances | 1 Handed |
+| rarity | N/A |
+| weight | 2 |
+| bankable | No |
+| droppable | No |
+| enchantable | No |
+| pass down | No |
+| obtainment | Obtain a recommendation from the Legion Captain battling the Authority in Starswept Valley or Upper Erisia., Turn in the recommendation to Amara. |
+| description | Weapon, TalentThe legendary martial arts style of the Legion. Emphasises the sweeping motions of wind.Adopt the fighting stance of the Legion Kata. |
+
+## Description
+
+Legion Kata is a martial arts-based fighting style obtained by turning in a recommendation from talking to a [Legion Captain](Legion_Captain.md) with high positive reputation with the [Hundred Legions](The_Hundred_Legions.md) in [Starswept Valley](Starswept_Valley.md), to [Amara](Amara.md).
+
+While Legion Kata has the same damage as other [Fist Styles](Fist_Style.md), the critical possesses more potential to mix-up the opponent, useful for fighting players rather than NPCs. The suplex comes out quickly and can easily confuse an opponent you are fighting against.
+
+If you have Legion Kata and other [Fist Styles](Fists.md) (except for [Jus Karita](Jus_Karita.md)) obtained, you can switch and cycle between them quickly by pressing Y. This has a 7 second cooldown.
+
+## Critical
+
+User performs a suplex, turning their opponent upside down and slamming them into the ground. This attack has a scaled damage multiplier of **1.5x** and applies [Dazed](Dazed.md) on hit.
+
+This critical has the [M1 tag](M1_tag.md), allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantment.md) effects.
+
+## Obtainment
+
+To obtain it, you must gain Friend reputation with [The Hundred Legions](The_Hundred_Legions.md), the most accessible way to do this is to do tasks on job boards at [Starswept Valley](Starswept_Valley.md).
+
+Alternatively, you can do the [legion scout quest](Quests.md#lars). This way you will gain enough reputation.
+
+Afterwards you will need to talk to a [Legion Captain](Legion_Captain.md) in the [Starswept Valley](Starswept_Valley.md) to obtain the Captain's Rec item, the Legion Captain spawn is somewhat uncommon.
+
+**DO NOT CLICK ON THE ITEM WHILE HOLDING IT. YOU WILL CONSUME IT AND HAVE TO RE-OBTAIN IT.**
+
+Afterwards, once you obtain the recommendation, you must go to [The Viper's Jaw](<The_Viper's_Jaw.md>) in [Erisia](Erisia.md) and turn it in to [Amara](Amara.md). This will grant you the Legion Kata Talent which enables you to use the fist style and unlock it for consecutive uses on the Character Creation screen.
+
+## Trivia
+
+-   The Legion Kata critical attack is a grab, yet it doesn't bypass block. Guardbreaking someone will only daze them, and you won't actually grab them.
+-   It takes roughly two authority grips at the Starswept Valley to obtain the recommendation, assuming you have not previously lost rep with the Legion and that you are not a Khan.

@@ -1,0 +1,247 @@
+---
+title: Faction Ambushes
+revid: 219960
+source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Factions, Reputation, Mechanics]
+---
+
+# Faction Ambushes
+
+## Description
+
+Faction Ambushes are a [Random Encounter](Random_Encounters.md) that involves a squad of several faction-affiliated [Enemies](Enemies.md) being sent to kill a player that has sufficiently negative [Reputation](Reputation.md) with their respective faction. The encounter can occur nearly anywhere in Lumen, and will only happen to players who have Hunted reputation or lower with at least one faction. Unlike other random encounters, killing the enemies sent after the player will incur a reputation penalty and therefore lead to an even lower reputation with the respective faction. In exchange, defeating all the enemies will reward a decent-sized [Chest](Chests_&_Sacks.md) filled with items pertaining to that faction.
+
+The enemies sent differ depending on the extent of the player's negative reputation, with lower ranks resulting in more lethal ambushes. Below is a list of possible ambushes.
+
+| Faction | Enemy(s) | Dialogue | Loot Pool |
+| --- | --- | --- | --- |
+| N/A | 
+-   1-3 [Bandits](Bandit.md)
+-   1-3 [Bandit Leaders](Bandit_Leader.md)
+-   3 [Bounty Hunters](<Bounty_Hunter_(NPC).md>)
+-   3 [Cloaked Assassins](Cloaked_Assassin.md)
+
+ | 
+
+-   "Ah, screw it! Kill 'em!"
+-   "I can't believe they fell for it!"
+-   "Let's get them!"
+-   "Man, these weaklings never stop coming, do they?"
+-   "Surprise!"
+-   "The suckers just keep on coming!"
+-   "This'll be a good one!"
+-   "There they are!"
+-   "To the depths with it, this one's dying!"
+-   "Quite the reward for this one, yeah?"
+
+ | 
+
+-   Lower Erisia ([Bandits](Bandit.md))
+-   Songseeker Wilds ([Bounty Hunters](<Bounty_Hunter_(NPC).md>))
+-   The Starswept Valley ([Cloaked Assassins](Cloaked_Assassin.md))
+
+ |
+| [Etrea](Etrea.md) | 
+
+-   3 [Vigil Captains](Vigil_Captain.md)
+-   3 [Vigil Swordsmen](Vigil_Swordsman.md)
+-   3 [Etrean Soldiers](Etrean_Soldier.md)
+
+ | 
+
+-   "For the blood of our fathers we will bring you to justice!"
+-   "Say your prayers, outlander!"
+-   "Under decree of the Lord Regent, your life is forfeit!"
+-   "You won't get away with what you've done!"
+
+ | 
+
+-   The Starswept Valley
+
+ |
+| [Authority](The_Central_Authority.md) | 
+
+-   3 [Authority Lieutenants](Authority_Lieutenant.md)
+-   3 [Authority Officers](Authority_Officer.md)
+
+ | 
+
+-   "Target sighted. Commencing operation."
+-   ”With me, men!”
+-   "We've got them now."
+
+ | 
+
+-   Fort Merit
+
+ |
+| [Authority](The_Central_Authority.md) | 
+
+-   1 [Authority Commander](<Authority_Commander_(NPC).md>)
+
+ | 
+
+-   "Commencing mission"
+-   "Give up now - you stand against the Central Authority!"
+
+ | 
+
+-   Fort Merit
+
+ |
+| [Ignition Union](The_Ignition_Union.md) | 
+
+-   1 [Mechalodaunt](Mechalodaunt.md)
+
+ | 
+
+-   "GROARRRRRR!"
+-   \*Kzzt!\* This one's REALLY nicked. \*Kzzt.\*
+
+ | 
+
+-   Miner's Landing
+
+ |
+| [Ignition Union](The_Ignition_Union.md) | 
+
+-   3 [Ignition Union Arcwarders](Ignition_Union_Arcwarder.md)
+
+ | 
+
+-   "There's the scab, lads!"
+-   "You're nicked!"
+
+ | 
+
+-   Miner's Landing
+
+ |
+| [The Hundred Legions](The_Hundred_Legions.md) | 
+
+-   3 [Legion Captains](Legion_Captain.md)
+-   3 [Legion Soldiers](Legion_Soldier.md)
+
+ | 
+
+-   "You won't stand long before our might!"
+-   "For the Hundred Legions!"
+-   "Kneel before the might of the Legions, worm!"
+-   "Tread no further west, worm!"
+-   "On our honor... You perish here, worm."
+
+ | 
+
+-   The Starswept Valley ([Legion Captains](Legion_Captain.md))
+-   Upper Erisia ([Legion Soldiers](Legion_Soldier.md))
+
+ |
+| [The Summer Company](The_Summer_Company.md) | 
+
+-   3 [Summer Dragoons](<Summer_Dragoon_(NPC).md>)
+-   3 [Summer Goons](Summer_Goon.md)
+
+ | 
+
+-   "Shame we have to waste bullets on these miserable sap."
+-   “This one’s target practice.”
+-   "Sleep with the 'skippers."
+-   "Let's give these a test fire, eh?"
+
+ | 
+
+-   Summer Isles
+
+ |
+| [The Ministry](The_Ministry.md) | 
+
+-   1-3 [Ministry Enforcers](Ministry_Enforcer.md)
+-   1-3 [Ministry Footpads](Ministry_Footpad.md)
+-   Mix of both (up to 3 NPCs)
+
+ | 
+
+-   "We take this one's head or it'll be ours next."
+-   "Pestilent wretch, you die early."
+
+ | 
+
+-   Crypt of the Unbroken
+
+ |
+| [The Hive](The_Hive.md) | 
+
+-   1-3 Modified [Hive Adjudicators](<Hive_Adjudicator_(NPC).md>)
+-   1-3 Modified [Hive Arbiters](Hive_Arbiter.md)
+-   Mix of both (up to 3 NPCs)
+
+ | 
+
+-   "Those who stand in the way of our research won't live to tell the tale."
+-   "No hard feelings but you're being factored out of the equation."
+-   "Let's make this quick, Hivekin."
+
+ | 
+
+-   Modified Starswept Valley
+
+ |
+| [The Hive](The_Hive.md) | 
+
+-   1 [Hive Construct](Golem_Constructs.md)
+
+ | 
+
+-   "YOUR REMAINS ARE TO BE SCATTERED."
+
+ | 
+
+-   Modified Starswept Valley
+
+ |
+| [The Divers](The_Divers.md) | 
+
+-   3 [Divers](Diver.md)
+-   3 [Journeyman Diver Guards](Journeyman_Diver_Guard.md)
+
+ | 
+
+-   "You stand against the world, worm."
+-   "Yield, traitor to mankind."
+-   "You're nothing compared to the horrors of the depths."
+
+ | 
+
+-   Scyphozia (Layer 1)
+
+ |
+| [The Divers](The_Divers.md) | 
+
+-   3 [Black Divers](<Black_Diver_(NPC).md>)
+
+ | 
+
+-   "We've got research to get back to so let's make this quick."
+-   "Yield, traitor to mankind."
+
+ | 
+
+-   Scyphozia (Layer 1)
+
+ |
+| [The Knives of Eylis](The_Knives_of_Eylis.md) | 
+
+-   3 [Knives of Eylis](Knife_of_Eylis.md)
+-   3 [Old Knife of Eylis](Old_Knife_of_Eylis.md)
+
+ | 
+
+-   "Boss'll be pleased about this one."
+-   "Back to the Voidheart in just a moment, eh?
+
+ | 
+
+-   Knives of Eylis vs Etrea Boat Event
+
+ |

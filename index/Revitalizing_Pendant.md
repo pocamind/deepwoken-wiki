@@ -1,0 +1,36 @@
+---
+title: Revitalizing Pendant
+revid: 215848
+source: https://deepwoken.fandom.com/wiki/Revitalizing_Pendant
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pathfinder Exclusive, Equipment, Torso, Craftable, Necklaces, Equipment with Talents, Equipment with Exclusive Talents]
+---
+
+# Revitalizing Pendant
+
+| Revitalizing Pendant | |
+|---|---|
+| type | Torso |
+| rarity | Rare |
+| selling price | 25 |
+| weight | 0.5 |
+| innate stats | +1 Rare Pip, +1 Legendary Pip |
+| innate talent | Praise The Sun |
+| bankable | No |
+| droppable | No |
+| enchantable | No |
+| pass down | No |
+| obtainment | Crafted with 1 Wheel Pendant + 5 Solar Enchant Stones + 1 Parasol Membrane at the Lost Forge |
+| description | ... |
+
+Variants: [Radial Pendant](Radial_Pendant.md)
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+## Description
+
+Revitalizing Pendant is an [Equipment](Equipment.md) item under the "Torso" category.
+
+The [Praise The Sun](Talents.md#praise-the-sun) Talent grants increased health regeneration and halves the duration of [Anti-Heal](Status_Effects.md#anti-heal) status effects if you are under direct sunlight. It does not work in [Chime of Conflict](Chime_of_Conflict.md).

@@ -1,0 +1,54 @@
+---
+title: Relic Axe
+revid: 214480
+source: https://deepwoken.fandom.com/wiki/Relic_Axe
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons]
+---
+
+# Relic Axe
+
+| Relic Axe | |
+|---|---|
+| type | Greataxe |
+| damage type | Slash |
+| requirements | 75 HVY |
+| damage | 25 |
+| scaling | HVY: 9 |
+| posture damage | 10 |
+| range | 8.5 Sweep |
+| swing speed | 0.8x |
+| attack duration | 0.9s |
+| endlag | 0.1s |
+| penetration | 25% |
+| chip damage | 10% |
+| m.equip | No |
+| m.extract | No |
+| stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | Legendary |
+| selling price | 25 |
+| weight | 2 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Stone KnightBlizzard Knight |
+| description | ... |
+
+## Description
+
+The Relic Axe is a [Heavy Weapon](Weapons.md) of legendary rarity that is obtainable as a rare direct drop from [Stone Knights](Stone_Knight.md) found in the [Starswept Valley](Starswept_Valley.md), [Saramaed Hollow](Saramaed_Hollow.md), or at any of the Star Trees respectively. It can also dropped by the [Blizzard variant](Blizzard_Knight.md) of Stone Knights found in the [The Valley of Heroes](The_Valley_of_Heroes.md).
+
+## Critical
+
+The user performs an overhead slash with a [red telegraph](Combat_Mechanics.md#red) before sending out three stone pillars. If the opponent is hit by the pillars, they will be sent upwards and ragdolled.
+
+These pillars can be broken and interacted with. The red telegraph is only applied to the stone pillars themselves.
+
+The critical has a cooldown of **5 seconds**.
+
+## Trivia
+
+-   The stone pillars spawned by the critical used to have collision and could be stood on and climbed but now acts like how the walls on the [City of the Drowned](The_City_of_the_Drowned.md) work.
+-   The stone pillars are perfect for putting a guild base on since their size is almost exactly the size of the guild base and can be placed anywhere.
+-   The stone pillars are unparryable, however they are both blockable and dodgeable.

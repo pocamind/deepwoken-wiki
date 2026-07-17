@@ -1,0 +1,46 @@
+---
+title: Vows
+revid: 219702
+source: https://deepwoken.fandom.com/wiki/Vows
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Mechanics, Talents, Character]
+---
+
+# Vows
+
+Two players making a Vow of Mastery (courtesy of [Tank Fish](https://www.youtube.com/@TankFish69))
+
+## Description
+
+**Vows** are a power parallel to, but distinct from,[\[1\]](#cite-note-1) the Song. They are made by making a 'promise' of sorts through words that emanate from the soul, however, unlike Oaths, Vows seem to be able to be made exclusively between two people. Most Vows only exist for narrative purposes, but a few are available for gameplay use.
+
+## Known Vows
+
+### [Vow of Mastery](Vow_of_Mastery.md)
+
+The **Vow of Mastery** allows a master to make other people their subject, being able to verbally command their subjects to perform specific actions. Experienced masters are able to issue more powerful commands, such as ordering a subject to immediately return to them or to defy all odds and fully restore all their health to continue living. A Master may have multiple subjects at once, however, a subject can only be in a Vow with one master.
+
+### Vow of Allegiance
+
+The Vow of Allegiance allows a person to be considered an ally by one's abilities, taking reduced damage and being able to be affected by supporting skills such as Reinforce and [Blindseer's](Oath%253A_Blindseer.md) Mindsoothe. Your guildmates are already considered allies and thus do not need to perform a Vow of Allegiance with you. Friends on Roblox are automatically allies as well. This can be activated by saying "Wanna make a vow of allegiance, \[Player Name\]?"
+
+### Vow of Safekeeping
+
+The Vow of Safekeeping is often used by [bankers](Banker.md) to keep specific important items, such as soulbound equipment, [enchanted items](Enchantments.md), [legendary weapons](Weapons.md) and [relics](Relics.md) safe. It is unclear how the Vow works in detail, But it can be assumed that it prevents the banker from tampering with or losing the received item. Ingame, this Vow costs 1 [Knowledge](Knowledge.md) to perform.
+
+### Vow of Companionship
+
+The Vow of Companionship is different due to the fact that it is created between a human and an animal, allowing for a bond to be created and a 'language' of sorts to be developed between the creature and the human. The only person who mentions this vow is [Sordino](Sordino.md), who sells you [mounts](Mounts.md).
+
+### Hereditary Vows
+
+These are Vows that were made prior to the arrival of most animal-based [aspects](Aspects.md) in Lumen, and the ones that allowed said aspects to exist in the first place. They were made a long time in the past by pagan tribes who worshipped animals, causing the descendents of those tribes to have animal-characteristics, as described in the book ["Vows by the Sea: Inheritance"](Books.md). The only aspect that does not possess a hereditary vow are the [Adret](Adret.md).[\[2\]](#cite-note-2)
+
+### [Vow of Iron](Vow_of_Iron.md)
+
+The Vow of Iron is both a separate gamemode for the players to experience (see more at [Vow of Iron](Vow_of_Iron.md) page), and a lore based Vow. The goals of Vow Of Iron is to find a way to take down [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) (Currently and widely known as [The Lord Regent](The_Lord_Regent.md).) in the past (1233 CE) by wielding the Memories ([Mementos](Mementos.md)) of those killed by his hand during his rise of power. Vow of Iron is the Vow everyone in the [Circle of Honour](Circle_of_Honour.md) took.
+
+## References
+
+1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2) [Books#Vows by the Sea: Inheritance](Books.md#vows-by-the-sea-inheritance)

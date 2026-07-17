@@ -1,0 +1,54 @@
+---
+title: "The Scoundrel's Bounty"
+revid: 199010
+source: https://deepwoken.fandom.com/wiki/The_Scoundrel's_Bounty
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pathfinder Exclusive, Locations, Dungeons]
+---
+
+# The Scoundrel's Bounty
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+LocationL The Scoundrel's Bounty LocationR
+
+Home to the Rotten Lot, a vessel carrying crew members of countless origins hoping for a brighter future.
+
+  
+
+**The Scoundrel's Bounty** is a dungeon that serves as the [tutorial](Tutorial.md) for the game. She is a large ship operated by the [Rotten Lot](Rotten_Lot.md), and captained by [Orlandeau](<Cap'n_Orlandeau.md>). It does not function as a [boat](Boats.md) and is an immovable location, similar to an island.
+
+## Contents
+
+### Antiquarian
+
+-   Players can find an [Antiquarian](Antiquarian.md) who will purchase their sellable items.
+-   Players can purchase training gear from the [Gear Cabinet](Training_Gear.md) for 25.
+
+## NPCs
+
+-   [Cap'n Orlandeau](<Cap'n_Orlandeau.md>)
+    -   A tall Felinor wearing [Flame Worshipper Armor](Flame_Worshipper_Armor.md), the [Celtor Commander Plate](Celtor_Commander_Plate.md) and a [Vagabond's Bicorn](<Vagabond's_Bicorn.md>). He teaches the player the basics of combat, resting and equipment, how Antiquarians work, and Talent and Mantra hands. Captain of the ship.
+    -   After the events of the tutorial, he drowns and ends up in [Castle Light](Castle_Light.md), where he is then kicked out by [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) and sent to [New Kyrsa](Second_Layer.md#new-kyrsa-f2).
+-   [Flabbernaster Filigree](Flabbernaster_Filingree,_the_First_Mate.md)
+    -   A Gremor wearing the [Skeptic Pioneer](Skeptic_Pioneer.md) outfit. First Mate of the ship. Appears to be well-versed in combat, considering how she devastated the player in sparring the day before.
+-   [Frank F'alzone](<Frank_F'alzone.md>)
+    -   A Celtor wearing the [Verdant Sniper](Verdant_Sniper.md) outfit. Presumably the cartographer/janitor of the ship.
+-   [Pete](Pete.md)
+    -   A Vesperian wearing the [Duelist's Attire](<Duelist's_Attire.md>) outfit. Appears to have at least some proficiency in combat, given the stat requirement of said attire.
+-   [Mr. Quarters](Mr._Quarters,_Halfmaster.md)
+    -   An Adret wearing the [Darksteel Plate](Darksteel_Plate.md) outfit. Halfmaster of the ship.
+-   [Serendi](Serendi.md)
+    -   A 'short' Etrean wearing the [Eager Tradesman](Eager_Tradesman.md) outfit, propped up on two crates. She hints towards the incoming Authority attack by mentioning the ship that she sees on the horizon.
+
+## Trivia
+
+-   You can drop barrels into the water.
+-   The Etrea versus Knives of Eylis event can spawn here, although it's likely unintentional.[\[1\]](#cite-note-1)
+-   The ship bears a great resemblance to the [Beloved Zofia](Beloved_Zofia.md), found in the [Voidsea](Voidsea.md), where [The Dreadstar](The_Dreadstar.md) resides. The resemblance is likely coincidental and they are simply a similar make of boat.
+
+## References
+
+1.  [↑](#cite-ref-1)

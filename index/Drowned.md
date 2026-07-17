@@ -1,0 +1,29 @@
+---
+title: Drowned
+revid: 218023
+source: https://deepwoken.fandom.com/wiki/Drowned
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enchantments, Equipment Enchantments]
+---
+
+# Drowned
+
+| Drowned | |
+|---|---|
+| bankable | Yes |
+| droppable | No |
+| pass down | Yes |
+| desc | Bolster the stats of your equipment, adding an additional +10 Health, +10 Ether, +5% Damage Vs. Monsters, and +5% Monster Armor. |
+| obtainment | Finding a Drowned enchanted item in a chestDrowned Enchant Grease:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Grease), Exchanging 5 to Laplace (grants a random non-exclusive Enchant Grease), The Diluvian Mechanism, War Mode, Galewax Room in the Second Layer, Crafting :, Any Enchant Grease, Insignia Gem, Umbral Obsidian, Sold in Traan Zakshun's Black Market for 10 |
+
+## Description
+
+Drowned is a stat-buffing equipment [enchantment](Enchantment.md) that bolsters your equipment's stats.
+
+## Effect
+
+Drowned grants raw stats to your equipment piece. Drowned gives: +10 Health IconHealth, +10 Ether [IconEther](Ether.md), +5% Damage Vs. Monsters, and +5% Monster Armor [ResistanceMonster](Monsters.md).
+
+### Notes
+
+-   This is one of very few ways to obtain the Damage vs Monsters and Monster Armor stats, making the enchantment a must-have for PvE.

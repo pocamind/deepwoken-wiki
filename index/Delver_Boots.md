@@ -1,0 +1,41 @@
+---
+title: Delver Boots
+revid: 216896
+source: https://deepwoken.fandom.com/wiki/Delver_Boots
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment with Styles, Equipment, Legs, Boots, Craftable, Equipment with Talents, Equipment with Exclusive Talents]
+---
+
+# Delver Boots
+
+| Delver Boots | |
+|---|---|
+| type | Legs |
+| rarity | Rare |
+| selling price | 25 |
+| requirements | None |
+| weight | 1 |
+| styles | Delver, Galeworn |
+| innate stats | +2 Posture , +1 Uncommon Pip |
+| innate talent | Surestep |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Crafting:, Crafting Station + Galewax 2x + Leather Boots + Umbrite 2x |
+| description | A pair of boots with special metal grips attached. The grips are capable of deploying and retracting when desired, making them any delver's lifeline. |
+
+## Description
+
+The Delver Boots are an [Equipment](Equipment.md) item under the "Legs" category.
+
+The [Surestep](Talents.md#surestep) Talent makes you immune to the ragdoll and flinging effect of the winds of the Second Layer. You are still affected by the harsh winds' movement debuff, however.
+
+## Obtainment
+
+To craft this item, you can obtain the recipe from [Alpha](Alpha.md). Then, you need 2 [Galewax](Galewax.md), 2 [Umbrite](Umbrite.md), and a pair of [Leather Boots](Leather_Boots.md). Because you cannot bring Galewax out of the Second Layer, you have to use [Master Craftsman](Talents.md#master-craftsman) or the crafting table at [The Frontier Furnace](The_Frontier_Furnace.md).
+
+## Trivia
+
+-   You are unable to have Galewax outside of the Second Layer, meaning you must craft this item using the [Master Craftsman](Talents.md#master-craftsman) [Talent](Talent.md) or the [Crafting Station](Crafting_Station.md) inside the [Ignition Union](Ignition_Union.md) base.
+-   The stars on the Delver Boots are created when crafted, thus the stars on the base Leather Boots used to craft it are inconsequential.

@@ -1,0 +1,48 @@
+---
+title: Vigil Initiate
+revid: 209622
+source: https://deepwoken.fandom.com/wiki/Vigil_Initiate
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Outfits, Adept Outfits, Etrea, Outfits with Talents, Outfits with Exclusive Talents]
+---
+
+# Vigil Initiate
+
+| Vigil Initiate | |
+|---|---|
+| caption | Initiate of the Vigil. A warrior must walk the path before being granted the cloak of winds. |
+| tier | Adept |
+| crafting_req | x5 Cloth, x1 Erisore, x5 Fiber, x4 Iron |
+| stat_req | Power 5 |
+| bankable | Yes |
+| droppable | Yes |
+| durability | 1200 |
+| resistances | +20% Physical Armor , +10% Blunt Armor |
+| talents | Paired Soul |
+| obtainment | Isle of Vigils inside the Mantra shop, Erisia/General Sea Event LootVow of Iron:, Near the Temple of the Blade Blacksmith |
+| selling_price | 10 |
+| weight | 1 |
+| shirt | Shirt • Pants |
+
+**Vigil Initiate** is an Adept [Outfit](Outfit.md) in _Deepwoken_
+
+## Statistics
+
+### _Requirements_
+
+This Outfit requires five (5) [Cloth](Cloth.md), one (1) [Erisore](Erisore.md) five (5) [Fiber](Fiber.md), and four (4) [Iron](Iron.md) to craft.
+
+This Outfit additionally requires the player to be at least [Power](Power.md) 5 to be crafted.
+
+### _Armor Stats_
+
+This Outfit has 1200 durability, grants +20% Physical resistance ResistanceBlunt ResistanceSlash, and +10% Blunt resistance ResistanceBlunt. Additionally, it provides the [Paired Soul](Talents.md#paired-soul) Talent.
+
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 28% Blunt ResistanceBlunt and 20% Slash ResistanceSlash.
+
+The [Paired Soul](Talents.md#paired-soul) Talent increases the damage of the base [Katana](Katana.md) by 25%. This also increases the damage of the [Shattered Katana](Shattered_Katana.md), [Alloyed Katana](Alloyed_Katana.md), and [Purple Cloud](Purple_Cloud.md) by 5%.
+
+## Trivia/Notes
+
+-   This Outfit is an inferior version of the [Cloak of Winds](Cloak_of_Winds.md), which gives the same Talent Card wile having much better stats.
+-   This Outfit is worn by [Das](Das.md) at [Isle of Vigils](Isle_of_Vigils.md).
